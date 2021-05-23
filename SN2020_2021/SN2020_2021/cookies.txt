@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.beisbolcubano.cu	TRUE	/	FALSE	1999999999	__AntiXsrfToken	f5e0d643e2ac49cabfbf651e93b833ad
+www.beisbolcubano.cu	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	53bm2kgnrbts44s3ns2egxcu
+www.beisbolcubano.cu	TRUE	/	FALSE	1999999999	SameSite	Lax
+.weatherwidget.io	TRUE	/	FALSE	1999999999	__cfduid	d90e5c4c68d93e71f4f1a50c08c9845ed1611512511
+weatherwidget.io	TRUE	/	FALSE	1999999999	SameSite	Lax
+

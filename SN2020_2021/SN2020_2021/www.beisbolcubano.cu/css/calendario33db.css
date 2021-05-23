@@ -1,0 +1,404 @@
+﻿body {
+    /*text-align:center;*/
+}
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    /*background: transparent;*/
+}
+
+ul, ol {
+    font-size: 12px;
+    /*overflow: hidden;*/
+    list-style-type: none;
+    margin-bottom: 20px;
+ }
+
+.jornada {
+    float: left;
+    margin: 10px 0;
+    width: 100%;
+    background: #ffffff;
+    /*background: #f7f6f6;*/
+    /*background: #ecfcdb;*/
+    height: auto;
+    /*min-height:350px;*/
+    border: 1px solid #e2e2e2;
+}
+
+.jornada span:first-child {
+    height: 40px;
+    background: #577d30;
+    /*background: #eeeded;*/
+    line-height: 40px;
+    font-size: 11px;
+    display: block;
+    padding-right: 1%;
+    color: #ffffff;
+    /*color: #000;*/
+    text-align: right;
+    font-size: medium;
+}
+
+.jornada span h2 {
+    float: left;
+    font-size: 15px;
+    line-height: 40px !important;
+    padding: 0 1%;
+    background: #294805;
+    /*background: #cdd1d4;*/
+    color: #ffffff;
+    /*color: #000;*/
+}
+
+.jornada span li {
+    height: 40px;
+    overflow: hidden;
+}
+
+.jornada c {
+    margin-bottom: 0;
+}
+
+.jornada .partidos-jornada li {
+    height: 40px;
+    overflow: hidden;
+    margin-right: 0;
+    border-bottom: 1px solid #e2e2e2;
+}
+
+    .jornada .partidos-jornada li:nth-child(2n) {
+        background: #eeeded;
+        /*border-bottom: 1px solid #000000;*/
+    }
+
+.jornada .partidos-jornada h3 a {
+    color: #666666;
+    display: inline-block;
+    width: 100%;
+}
+
+    .jornada .partidos-jornada h3 a:hover {
+        text-decoration: none;
+    }
+
+    .jornada .partidos-jornada h3 span {
+        height: 40px;
+        line-height: 40px;
+        display: block;
+        float: left;
+        font-family: "montserratLight",Arial,sans-serif,helvetica;
+        font-size: 13px;
+        background: none;
+        padding: 0;
+        /*text-align: left;*/
+        text-align: -webkit-center;
+        text-align: -moz-center;
+        color: #666666;
+    }
+
+.jornada .partidos-jornada h3 span:first-child {
+    width: 5%;
+    padding: 0;
+    text-align: -webkit-right !important;
+    text-align: -moz-right !important;
+}
+
+.jornada .partidos-jornada h3 span:nth-child(2) {
+    width: 10%;
+    padding: 0 2%;
+    /*border-left: solid 1px #ffffff;*/
+    text-align: -webkit-left !important;
+    text-align: -moz-left !important;
+}
+.jornada .partidos-jornada h3 span:nth-child(3) {
+    width: 15%;
+    padding: 0 2%;
+    /*border-left: solid 1px #ffffff;*/
+    text-align: -webkit-left !important;
+    text-align: -moz-left !important;
+}
+.jornada .partidos-jornada h3 span:nth-child(4) {
+    width: 5%;
+    padding: 0 2%;
+    /*border-left: solid 1px #ffffff;*/
+}
+.jornada .partidos-jornada h3 span:nth-child(5) {
+    width: 5%;
+    padding: 0 2%;
+    /*border-left: solid 1px #ffffff;*/
+    text-align: -webkit-right !important;
+    text-align: -moz-right !important;
+}
+.jornada .partidos-jornada h3 span:nth-child(6) {
+    width: 10%;
+    padding: 0 2%;
+    /*border-left: solid 1px #ffffff;*/
+    text-align: -webkit-left !important;
+    text-align: -moz-left !important;
+}
+.jornada .partidos-jornada h3 span:nth-child(7) {
+    width: 15%;
+    padding: 0 2%;
+    /*border-left: solid 1px #ffffff;*/
+    text-align: -webkit-left !important;
+    text-align: -moz-left !important;
+}
+.jornada .partidos-jornada h3 span:nth-child(8) {
+    width: 10%;
+    padding: 0 2%;
+    /*border-left: solid 1px #ffffff;*/
+    text-align: -webkit-center !important;
+    text-align: -moz-center !important;
+}
+.jornada .partidos-jornada h3 span:nth-child(9) {
+    width: 45%;
+    padding: 0 1%;
+    /*border-left: solid 1px #ffffff;*/
+    text-align: -webkit-right !important;
+    text-align: -moz-right !important;
+}
+
+.jornada .partidos-jornada li:nth-child(2n) h3 span:nth-child(2), .jornada .partidos-jornada li:nth-child(2n) h3 a span.resultado, .jornada .partidos-jornada li:nth-child(2n) h3 span.sinConfirmar span.resultado {
+    /*border-left: solid 1px #eeeeee;*/
+}
+
+.jornada .partidos-jornada h3 a span.resultado, .jornada .partidos-jornada h3 span.sinConfirmar span.resultado {
+    /*border-left: 1px solid #ffffff;*/
+    color: #000000;
+    font-weight: bold;
+    text-align: -webkit-center;
+    text-align: -moz-center;
+    width: 10%;
+    font-size: 11px;
+}
+
+.jornada .partidos-jornada h3 a.final span.resultado , 
+.jornada .partidos-jornada h3 a.enjuego span.resultado , 
+.jornada .partidos-jornada h3 span.sinConfirmar.final span.resultado , 
+.jornada .partidos-jornada h3 span.sinConfirmar.enjuego span.resultado {
+    font-size: 20px;
+    color: #000000;
+}
+
+.jornada .partidos-jornada h3 a.enjuego span.resultado {
+    font-size: 13px;
+    color: #db7d2e;
+}
+
+.jornada .partidos-jornada h3 a:hover.final span, .jornada .partidos-jornada h3 a:hover.enjuego span {
+    background: #cdd1d4;
+    color: #000;
+    transition: all 0.5s ease 0s;
+}
+
+.jornada .partidos-jornada h3 a:hover.final span:last-child, .jornada .partidos-jornada h3 a:hover.enjuego span.resultado {
+    background: #db7d2e;
+    color: #ffffff;
+    transition: all 0.5s ease 0s;
+}
+
+.jornada .partidos-jornada .seleccionado {
+    background: #c00;
+    color: #ffffff;
+}
+
+.contenedor-calendario {
+    width: 100%;
+    display: inline-block;
+    /*overflow:auto;*/
+    margin-top:0px;
+/*    margin-left:3%;*/
+    /*margin-left:25%;*/
+    text-align: center;
+    position:relative;
+}
+
+.contenedorCalendarioInt {
+}
+
+.contenedorCalendarioInt h2{ text-transform: none;
+}
+
+@media (max-width: 767px) {
+    .navegacion-jornadas {
+        width: 95%;
+        margin: 0 auto 10px;
+        min-height: 40px;
+        line-height: 40px;
+    }
+
+    .navegacion-jornadas span {
+        border-radius: 3px;
+        background: #db7d2e;
+        width: 100%;
+        height: 40px;
+        display: block;
+        text-align: center;
+    }
+
+    .navegacion-jornadas span a {
+        display: block;
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+    .navegacion-jornadas ul {
+        display: none;
+    }
+
+    .navegacion-jornadas .menu-abierto {
+        display: block;
+    }
+
+    .navegacion-jornadas li {
+        width: 20%;
+        float: left;
+        text-align: center;
+        margin-right: 0;
+        border: solid 1px #ebebeb;
+        font-size: 13px;
+        font-family: "montserratBold",Arial,sans-serif,helvetica;
+    }
+
+    .navegacion-jornadas li a {
+        color: #000000;
+    }
+
+    .resalta-equipo {
+        display: none;
+    }
+
+    .jornada {
+        float: none;
+        width: 100%;
+        margin: 15px 0;
+    }
+
+    .jornada:last-child {
+        margin-right: auto;
+    }
+
+    .jornada .partidos-jornada h3 span:first-child { width: 15%; }
+
+    .jornada .partidos-jornada h3 span:nth-child(2) { width: 15%; }
+
+    .jornada .partidos-jornada h3 span:nth-child(3) { /*width: 15%;*/ }
+
+    .jornada .partidos-jornada h3 span:nth-child(4) { width: 15%; }
+
+    .jornada .partidos-jornada h3 span:nth-child(5) { width: 15%; }
+
+    .jornada .partidos-jornada h3 span:nth-child(6) { width: 15%; }
+
+    .jornada .partidos-jornada h3 span:nth-child(7) { /*width: 15%;*/ }
+
+    .jornada .partidos-jornada h3 span:nth-child(8) { width: 25%; }
+
+    .jornada .partidos-jornada h3 span:nth-child(9) { width: 45%; }
+
+    .jornada .partidos-jornada h3 a span.resultado, .jornada .partidos-jornada h3 span.sinConfirmar span.resultado { width: 25%; }
+
+}
+
+.content_cal {
+    width: 100%;
+    text-align:center;
+    margin-bottom:40px;
+}
+
+.content_cal1 {
+    width: 100%;
+    margin-top:-1000px;
+    position:relative;
+    text-align:center;
+}
+.Titulo {
+    float: left;
+    text-align: center;
+    margin-right: 0;
+    font-size: 26px;
+    line-height:40px;
+    font-weight:bold;
+    font-family: "montserratBold",Arial,sans-serif,helvetica;
+    height:40px;
+    width:100%;
+    background-color:#76d898;
+    
+}
+
+/*.local {}
+.visitante {}*/
+
+.jornada .partidos-jornada h3 a.final span.ind,
+.jornada .partidos-jornada h3 a.enjuego span.ind,
+.jornada .partidos-jornada h3 span.sinConfirmar.final span.ind,
+.jornada .partidos-jornada h3 span.sinConfirmar.enjuego span.ind {background:#020085;   font-size:15px; font-weight:bold;  color:#ffffff;}
+
+.jornada .partidos-jornada h3 a.final span.pri,
+.jornada .partidos-jornada h3 a.enjuego span.pri,
+.jornada .partidos-jornada h3 span.sinConfirmar.final span.pri,
+.jornada .partidos-jornada h3 span.sinConfirmar.enjuego span.pri {background:#01543a;   font-size:15px; font-weight:bold;  color:#ffffff;}
+
+.jornada .partidos-jornada h3 a.final span.mtz,
+.jornada .partidos-jornada h3 a.enjuego span.mtz,
+.jornada .partidos-jornada h3 span.sinConfirmar.final span.mtz,
+.jornada .partidos-jornada h3 span.sinConfirmar.enjuego span.mtz{background:#EF242A;   font-size:15px; font-weight:bold;  color:#ffffff;}
+
+.jornada .partidos-jornada h3 a.final span.art,
+.jornada .partidos-jornada h3 a.enjuego span.art,
+.jornada .partidos-jornada h3 span.sinConfirmar.final span.art,
+.jornada .partidos-jornada h3 span.sinConfirmar.enjuego span.art{background:#FE0000;   font-size:15px; font-weight:bold;  color:#ffffff;}
+.jornada .partidos-jornada h3 a.final span.may,
+.jornada .partidos-jornada h3 a.enjuego span.may,
+.jornada .partidos-jornada h3 span.sinConfirmar.final span.may,
+.jornada .partidos-jornada h3 span.sinConfirmar.enjuego span.may {background:#940000;   font-size:15px; font-weight:bold;  color:#ffffff;}
+.jornada .partidos-jornada h3 a.final span.ijv,
+.jornada .partidos-jornada h3 a.enjuego span.ijv,
+.jornada .partidos-jornada h3 span.sinConfirmar.final span.ijv,
+.jornada .partidos-jornada h3 span.sinConfirmar.enjuego span.ijv {background:#37b496;   font-size:15px; font-weight:bold;  color:#ffffff;}
+.jornada .partidos-jornada h3 a.final span.cfg,
+.jornada .partidos-jornada h3 a.enjuego span.cfg,
+.jornada .partidos-jornada h3 span.sinConfirmar.final span.cfg,
+.jornada .partidos-jornada h3 span.sinConfirmar.enjuego span.cfg{background:#00a261;   font-size:15px; font-weight:bold;  color:#ffffff;}
+.jornada .partidos-jornada h3 a.final span.vcl,
+.jornada .partidos-jornada h3 a.enjuego span.vcl,
+.jornada .partidos-jornada h3 span.sinConfirmar.final span.vcl,
+.jornada .partidos-jornada h3 span.sinConfirmar.enjuego span.vcl {background:#FF7A13;   font-size:15px; font-weight:bold;  color:#ffffff;}
+.jornada .partidos-jornada h3 a.final span.ssp,
+.jornada .partidos-jornada h3 a.enjuego span.ssp,
+.jornada .partidos-jornada h3 span.sinConfirmar.final span.ssp,
+.jornada .partidos-jornada h3 span.sinConfirmar.enjuego span.ssp {background:#FE6515;   font-size:15px; font-weight:bold;  color:#ffffff;}
+.jornada .partidos-jornada h3 a.final span.cav,
+.jornada .partidos-jornada h3 a.enjuego span.cav,
+.jornada .partidos-jornada h3 span.sinConfirmar.final span.cav,
+.jornada .partidos-jornada h3 span.sinConfirmar.enjuego span.cav{background:#008dcf;   font-size:15px; font-weight:bold;  color:#ffffff;}
+.jornada .partidos-jornada h3 a.final span.cmg,
+.jornada .partidos-jornada h3 a.enjuego span.cmg,
+.jornada .partidos-jornada h3 span.sinConfirmar.final span.cmg,
+.jornada .partidos-jornada h3 span.sinConfirmar.enjuego span.cmg {background:#003060;   font-size:15px; font-weight:bold;  color:#ffffff;}
+.jornada .partidos-jornada h3 a.final span.hol,
+.jornada .partidos-jornada h3 a.enjuego span.hol,
+.jornada .partidos-jornada h3 span.sinConfirmar.final span.hol,
+.jornada .partidos-jornada h3 span.sinConfirmar.enjuego span.hol {background:#007Fc6;   font-size:15px; font-weight:bold;  color:#ffffff;}
+.jornada .partidos-jornada h3 a.final span.ltu,
+.jornada .partidos-jornada h3 a.enjuego span.ltu,
+.jornada .partidos-jornada h3 span.sinConfirmar.final span.ltu,
+.jornada .partidos-jornada h3 span.sinConfirmar.enjuego span.ltu {background:#EB2429;   font-size:15px; font-weight:bold;  color:#ffffff;}
+.jornada .partidos-jornada h3 a.final span.scu,
+.jornada .partidos-jornada h3 a.enjuego span.scu,
+.jornada .partidos-jornada h3 span.sinConfirmar.final span.scu,
+.jornada .partidos-jornada h3 span.sinConfirmar.enjuego span.scu {background:#EE2329;   font-size:15px; font-weight:bold;  color:#ffffff;}
+.jornada .partidos-jornada h3 a.final span.gra,
+.jornada .partidos-jornada h3 a.enjuego span.gra,
+.jornada .partidos-jornada h3 span.sinConfirmar.final span.gra,
+.jornada .partidos-jornada h3 span.sinConfirmar.enjuego span.gra{background:#0A4B9F;   font-size:15px; font-weight:bold;  color:#ffffff;}
+.jornada .partidos-jornada h3 a.final span.gtm,
+.jornada .partidos-jornada h3 a.enjuego span.gtm,
+.jornada .partidos-jornada h3 span.sinConfirmar.final span.gtm,
+.jornada .partidos-jornada h3 span.sinConfirmar.enjuego span.gtm{background:#515a57;   font-size:15px; font-weight:bold;  color:#ffffff;}

@@ -1,0 +1,39 @@
+HTTrack3.49-1+htsswf+htsjava launched on Sun, 24 Jan 2021 15:18:15 at http://www.beisbolcubano.cu/general/calendario +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.beisbolcubano.cu/general/calendario -O1 "C:\Users\yfigueroa\Downloads\SN2020_2021\SN2020_2021" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:29:43	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/general/default.aspx (from www.beisbolcubano.cu/general/calendario)
+15:29:43	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/css/bx_loader1782.gif?9483393410911520849 (from www.beisbolcubano.cu/css/assets33db.css?1179755130097188778)
+15:29:43	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/css/blank.gif (from www.beisbolcubano.cu/css/assets33db.css?1179755130097188778)
+15:29:43	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/css/img/bx_loade2478a.html?3073434794000820625 (from www.beisbolcubano.cu/css/style33db.css?t=637470910717662253)
+15:29:43	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/css/images/logo_trans.png (from www.beisbolcubano.cu/css/style33db.css?t=637470910717662253)
+15:29:43	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/images/logos/75 x 75/met.png (from www.beisbolcubano.cu/css/style33db.css?t=637470910717662253)
+15:29:43	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/images/BgRed.gif (from www.beisbolcubano.cu/css/style33db.css?t=637470910717662253)
+15:29:43	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/images/logos/24 x 24/HAB.png (from www.beisbolcubano.cu/css/style33db.css?t=637470910717662253)
+15:29:43	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/images/logos/24 x 24/MET.png (from www.beisbolcubano.cu/css/style33db.css?t=637470910717662253)
+15:29:43	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/images/logos/24 x 24/CHA.png (from www.beisbolcubano.cu/css/style33db.css?t=637470910717662253)
+15:29:43	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/images/logos/24 x 24/OCC.png (from www.beisbolcubano.cu/css/style33db.css?t=637470910717662253)
+15:29:43	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/images/logos/24 x 24/ORI.png (from www.beisbolcubano.cu/css/style33db.css?t=637470910717662253)
+15:29:43	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/images/logos/24 x 24/CUB.png (from www.beisbolcubano.cu/css/style33db.css?t=637470910717662253)
+15:29:43	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/images/logos/24 x 24/TBR.png (from www.beisbolcubano.cu/css/style33db.css?t=637470910717662253)
+15:29:43	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/images/logos/24 x 24/USA.png (from www.beisbolcubano.cu/css/style33db.css?t=637470910717662253)
+15:33:37	Warning: 	Retry after error -4 (Connect Error) at link localhost/js/widget_xs.min.js (from www.beisbolcubano.cu/general/ScoreBoard)
+15:34:03	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/general/~/default.aspx (from www.beisbolcubano.cu/general/equipos?eq=pri)
+15:34:03	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/images/logos/footer/sinfo-logo.png (from www.beisbolcubano.cu/general/equipos?eq=pri)
+15:34:03	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/images/logos/footer/coc.png (from www.beisbolcubano.cu/general/equipos?eq=pri)
+15:34:03	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/images/logos/footer/fcb.png (from www.beisbolcubano.cu/general/equipos?eq=pri)
+15:34:03	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/images/logos/footer/inder.png (from www.beisbolcubano.cu/general/equipos?eq=pri)
+15:34:03	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/images/logos/footer/jit.png (from www.beisbolcubano.cu/general/equipos?eq=pri)
+15:34:03	Error: 	"Not Found" (404) at link www.beisbolcubano.cu/images/logos/footer/snb.png (from www.beisbolcubano.cu/general/equipos?eq=pri)
+15:39:46	Warning: 	Retry after error -4 (Connect Error) at link localhost/js/widget_xs.min.js (from www.beisbolcubano.cu/general/ScoreBoard)
+15:41:37	Error: 	"Connect Error" (-4) after 2 retries at link localhost/js/widget_xs.min.js (from www.beisbolcubano.cu/general/ScoreBoard)
+15:52:40	Warning: 	Retry after error 500 (Internal Server Error) at link www.beisbolcubano.cu/general/ScoreBoard?fecha= (from www.beisbolcubano.cu/general/ScoreBoard?fecha=2021-02-04)
+15:57:30	Warning: 	Retry after error 500 (Internal Server Error) at link www.beisbolcubano.cu/general/ScoreBoard?fecha= (from www.beisbolcubano.cu/general/ScoreBoard?fecha=2021-02-04)
+16:00:17	Error: 	"Internal Server Error" (500) after 2 retries at link www.beisbolcubano.cu/general/ScoreBoard?fecha= (from www.beisbolcubano.cu/general/ScoreBoard?fecha=2021-02-04)
+
+HTTrack Website Copier/3.49-1 mirror complete in 1 hours 39 minutes 1 seconds : 721 links scanned, 692 files written (221754148 bytes overall), 626 files updated [158016308 bytes received at 26597 bytes/sec], 96102996 bytes transferred using HTTP compression in 269 files, ratio 35%
+(24 errors, 4 warnings, 0 messages)
