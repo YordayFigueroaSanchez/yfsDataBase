@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE sports-content SYSTEM "https://erikberg.com/xmlstats/dtd/sportsml-core.dtd">
+
+    <!--
+
+    xmlstats
+
+    Permission to use, copy, modify, publish, and redistribute this file is
+    permitted on the condition that this notice is included in all copies.
+
+    -->
+
+<sports-content>
+  <sports-metadata language="en-US" document-class="event-statistics" fixture-key="postevent-boxscore" date-coverage-type="season-regular" date-coverage-value="2021">
+    <sports-title>MLB Box Score: Houston Astros at Oakland Athletics</sports-title>
+  </sports-metadata>
+  <sports-event>
+    <event-metadata event-status="post-event" start-date-time="2021-04-04T13:07:00-07:00" duration="3:15" site-attendance="4504" site-temperature="61" temperature-units="Fahrenheit"/>
+    <team>
+      <team-metadata team-key="houston-astros" alignment="away">
+        <name full="Houston Astros"/>
+      </team-metadata>
+      <team-stats score="9" event-outcome="win">
+        <sub-score period-value="1" score="1"/>
+        <sub-score period-value="2" score="2"/>
+        <sub-score period-value="3" score="2"/>
+        <sub-score period-value="4" score="0"/>
+        <sub-score period-value="5" score="0"/>
+        <sub-score period-value="6" score="4"/>
+        <sub-score period-value="7" score="0"/>
+        <sub-score period-value="8" score="0"/>
+        <sub-score period-value="9" score="0"/>
+        <team-stats-baseball>
+          <stats-baseball-offensive at-bats="36" at-bats-per-home-run="12.0" at-bats-per-rbi="4.0" average=".306" bases-on-balls="4" bases-on-balls-rate=".100" doubles="2" hit-by-pitch="0" hits="11" hits-extra-base="5" home-runs="3" left-on-base="0" on-base-percentage=".375" on-base-plus-slugging=".986" plate-appearances="40" plate-appearances-per-home-run="13.3" plate-appearances-per-rbi="4.4" rbi="9" sac-bunts="0" sac-flies="0" sacrifices="0" singles="6" slugging-percentage=".611" stolen-bases="0" stolen-bases-average=".000" stolen-bases-caught="1" strikeout-rate=".139" strikeouts="5" total-bases="22" triples="0"/>
+          <stats-baseball-defensive errors="0"/>
+        </team-stats-baseball>
+      </team-stats>
+      <player>
+        <player-metadata position-event="2B" batting-position-event="1" sub-batting-position-event="0">
+          <name first="José" last="Altuve" full="José Altuve"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="5" runs-scored="1" hits="1" rbi="0" bases-on-balls="0" bases-on-balls-rate=".000" strikeouts="0" strikeout-rate=".000" left-on-base="0" average=".200" singles="0" doubles="1" triples="0" home-runs="0" on-base-percentage=".200" on-base-plus-slugging=".600" slugging-percentage=".400" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="5" rbi-with-two-out="0" total-bases="2"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="RF" batting-position-event="2" sub-batting-position-event="0">
+          <name first="Kyle" last="Tucker" full="Kyle Tucker"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="5" runs-scored="1" hits="1" rbi="1" bases-on-balls="0" bases-on-balls-rate=".000" strikeouts="1" strikeout-rate=".200" left-on-base="0" average=".200" singles="0" doubles="0" triples="0" home-runs="1" on-base-percentage=".200" on-base-plus-slugging="1.000" slugging-percentage=".800" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="5" rbi-with-two-out="0" total-bases="4"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="3B" batting-position-event="3" sub-batting-position-event="0">
+          <name first="Alexander" last="Bregman" full="Alex Bregman"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="4" runs-scored="0" hits="2" rbi="0" bases-on-balls="0" bases-on-balls-rate=".000" strikeouts="1" strikeout-rate=".250" left-on-base="0" average=".500" singles="2" doubles="0" triples="0" home-runs="0" on-base-percentage=".500" on-base-plus-slugging="1.000" slugging-percentage=".500" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="4" rbi-with-two-out="0" total-bases="2"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="3B" batting-position-event="3" sub-batting-position-event="1">
+          <name first="Robel" last="Garcia" full="Robel Garcia"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="1" runs-scored="0" hits="1" rbi="0" bases-on-balls="0" bases-on-balls-rate=".000" strikeouts="0" strikeout-rate=".000" left-on-base="0" average="1.000" singles="1" doubles="0" triples="0" home-runs="0" on-base-percentage="1.000" on-base-plus-slugging="2.000" slugging-percentage="1.000" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="1" rbi-with-two-out="0" total-bases="1"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="DH" batting-position-event="4" sub-batting-position-event="0">
+          <name first="Yordan" last="Alvarez" full="Yordan Alvarez"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="4" runs-scored="1" hits="0" rbi="0" bases-on-balls="1" bases-on-balls-rate=".200" strikeouts="0" strikeout-rate=".000" left-on-base="0" average=".000" singles="0" doubles="0" triples="0" home-runs="0" on-base-percentage=".200" on-base-plus-slugging=".200" slugging-percentage=".000" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="5" rbi-with-two-out="0" total-bases="0"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="1B" batting-position-event="5" sub-batting-position-event="0">
+          <name first="Yulieski" last="Gurriel" full="Yulieski Gurriel"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="4" runs-scored="1" hits="3" rbi="2" bases-on-balls="0" bases-on-balls-rate=".000" strikeouts="0" strikeout-rate=".000" left-on-base="0" average=".750" singles="2" doubles="1" triples="0" home-runs="0" on-base-percentage=".750" on-base-plus-slugging="1.750" slugging-percentage="1.000" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="4" rbi-with-two-out="2" total-bases="4"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="SS" batting-position-event="6" sub-batting-position-event="0">
+          <name first="Carlos" last="Correa" full="Carlos Correa"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="4" runs-scored="0" hits="1" rbi="0" bases-on-balls="0" bases-on-balls-rate=".000" strikeouts="1" strikeout-rate=".250" left-on-base="0" average=".250" singles="1" doubles="0" triples="0" home-runs="0" on-base-percentage=".250" on-base-plus-slugging=".500" slugging-percentage=".250" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="4" rbi-with-two-out="0" total-bases="1"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="CF" batting-position-event="7" sub-batting-position-event="0">
+          <name first="Myles" last="Straw" full="Myles Straw"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="1" runs-scored="2" hits="0" rbi="1" bases-on-balls="3" bases-on-balls-rate=".750" strikeouts="0" strikeout-rate=".000" left-on-base="0" average=".000" singles="0" doubles="0" triples="0" home-runs="0" on-base-percentage=".750" on-base-plus-slugging=".750" slugging-percentage=".000" stolen-bases="0" stolen-bases-caught="1" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="4" rbi-with-two-out="0" total-bases="0"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="C" batting-position-event="8" sub-batting-position-event="0">
+          <name first="Jason" last="Castro" full="Jason Castro"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="4" runs-scored="2" hits="1" rbi="2" bases-on-balls="0" bases-on-balls-rate=".000" strikeouts="0" strikeout-rate=".000" left-on-base="0" average=".250" singles="0" doubles="0" triples="0" home-runs="1" on-base-percentage=".250" on-base-plus-slugging="1.250" slugging-percentage="1.000" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="4" rbi-with-two-out="2" total-bases="4"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="LF" batting-position-event="9" sub-batting-position-event="0">
+          <name first="Chas" last="McCormick" full="Chas McCormick"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="4" runs-scored="1" hits="1" rbi="3" bases-on-balls="0" bases-on-balls-rate=".000" strikeouts="2" strikeout-rate=".500" left-on-base="0" average=".250" singles="0" doubles="0" triples="0" home-runs="1" on-base-percentage=".250" on-base-plus-slugging="1.250" slugging-percentage="1.000" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="4" rbi-with-two-out="0" total-bases="4"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata>
+          <name first="Jose" last="Urquidy" full="Jose Urquidy"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-pitching innings-pitched="4.1" hits="4" runs-against="2" earned-runs="2" bases-on-balls="2" bases-on-balls-intentional="0" strikeouts="5" home-runs-allowed="0" era="4.15" number-of-pitches="101" number-of-strikes="65" errors-hit-with-pitch="0" errors-wild-pitch="1"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata>
+          <name first="Brandon" last="Bielak" full="Brandon Bielak"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-pitching innings-pitched="4.2" hits="0" runs-against="0" earned-runs="0" bases-on-balls="0" bases-on-balls-intentional="0" strikeouts="4" home-runs-allowed="0" era="0.00" number-of-pitches="44" number-of-strikes="30" errors-hit-with-pitch="0" errors-wild-pitch="0" event-credit="win"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+    </team>
+    <team>
+      <team-metadata team-key="oakland-athletics" alignment="home">
+        <name full="Oakland Athletics"/>
+      </team-metadata>
+      <team-stats score="2" event-outcome="loss">
+        <sub-score period-value="1" score="1"/>
+        <sub-score period-value="2" score="0"/>
+        <sub-score period-value="3" score="0"/>
+        <sub-score period-value="4" score="0"/>
+        <sub-score period-value="5" score="1"/>
+        <sub-score period-value="6" score="0"/>
+        <sub-score period-value="7" score="0"/>
+        <sub-score period-value="8" score="0"/>
+        <sub-score period-value="9" score="0"/>
+        <team-stats-baseball>
+          <stats-baseball-offensive at-bats="31" at-bats-per-home-run="0.0" at-bats-per-rbi="15.5" average=".129" bases-on-balls="2" bases-on-balls-rate=".061" doubles="2" hit-by-pitch="0" hits="4" hits-extra-base="3" home-runs="0" left-on-base="0" on-base-percentage=".182" on-base-plus-slugging=".440" plate-appearances="33" plate-appearances-per-home-run="0.0" plate-appearances-per-rbi="16.5" rbi="2" sac-bunts="0" sac-flies="0" sacrifices="0" singles="1" slugging-percentage=".258" stolen-bases="0" stolen-bases-average=".000" stolen-bases-caught="0" strikeout-rate=".290" strikeouts="9" total-bases="8" triples="1"/>
+          <stats-baseball-defensive errors="1"/>
+        </team-stats-baseball>
+      </team-stats>
+      <player>
+        <player-metadata position-event="CF" batting-position-event="1" sub-batting-position-event="0">
+          <name first="Mark" last="Canha" full="Mark Canha"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="4" runs-scored="2" hits="2" rbi="0" bases-on-balls="0" bases-on-balls-rate=".000" strikeouts="0" strikeout-rate=".000" left-on-base="0" average=".500" singles="0" doubles="1" triples="1" home-runs="0" on-base-percentage=".500" on-base-plus-slugging="1.750" slugging-percentage="1.250" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="4" rbi-with-two-out="0" total-bases="5"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="1B" batting-position-event="2" sub-batting-position-event="0">
+          <name first="Matthew" last="Olson" full="Matt Olson"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="4" runs-scored="0" hits="0" rbi="1" bases-on-balls="0" bases-on-balls-rate=".000" strikeouts="1" strikeout-rate=".250" left-on-base="0" average=".000" singles="0" doubles="0" triples="0" home-runs="0" on-base-percentage=".000" on-base-plus-slugging=".000" slugging-percentage=".000" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="4" rbi-with-two-out="0" total-bases="0"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="2B" batting-position-event="3" sub-batting-position-event="0">
+          <name first="Jed" last="Lowrie" full="Jed Lowrie"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="4" runs-scored="0" hits="1" rbi="1" bases-on-balls="0" bases-on-balls-rate=".000" strikeouts="1" strikeout-rate=".250" left-on-base="0" average=".250" singles="0" doubles="1" triples="0" home-runs="0" on-base-percentage=".250" on-base-plus-slugging=".750" slugging-percentage=".500" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="4" rbi-with-two-out="0" total-bases="2"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="DH" batting-position-event="4" sub-batting-position-event="0">
+          <name first="Mitchell" last="Moreland" full="Mitch Moreland"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="2" runs-scored="0" hits="0" rbi="0" bases-on-balls="1" bases-on-balls-rate=".333" strikeouts="1" strikeout-rate=".500" left-on-base="0" average=".000" singles="0" doubles="0" triples="0" home-runs="0" on-base-percentage=".333" on-base-plus-slugging=".333" slugging-percentage=".000" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="3" rbi-with-two-out="0" total-bases="0"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="LF" batting-position-event="4" sub-batting-position-event="1">
+          <name first="Anthony" last="Kemp" full="Tony Kemp"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="1" runs-scored="0" hits="0" rbi="0" bases-on-balls="0" bases-on-balls-rate=".000" strikeouts="0" strikeout-rate=".000" left-on-base="0" average=".000" singles="0" doubles="0" triples="0" home-runs="0" on-base-percentage=".000" on-base-plus-slugging=".000" slugging-percentage=".000" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="1" rbi-with-two-out="0" total-bases="0"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="3B" batting-position-event="5" sub-batting-position-event="0">
+          <name first="Matt" last="Chapman" full="Matt Chapman"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="3" runs-scored="0" hits="1" rbi="0" bases-on-balls="1" bases-on-balls-rate=".250" strikeouts="1" strikeout-rate=".333" left-on-base="0" average=".333" singles="1" doubles="0" triples="0" home-runs="0" on-base-percentage=".500" on-base-plus-slugging=".833" slugging-percentage=".333" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="4" rbi-with-two-out="0" total-bases="1"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="RF" batting-position-event="6" sub-batting-position-event="0">
+          <name first="Chadwick" last="Pinder" full="Chad Pinder"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="0" runs-scored="0" hits="0" rbi="0" bases-on-balls="0" bases-on-balls-rate=".000" strikeouts="0" strikeout-rate=".000" left-on-base="0" average=".000" singles="0" doubles="0" triples="0" home-runs="0" on-base-percentage=".000" on-base-plus-slugging=".000" slugging-percentage=".000" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="0" rbi-with-two-out="0" total-bases="0"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="PH-RF" batting-position-event="6" sub-batting-position-event="1">
+          <name first="Stephen" last="Piscotty" full="Stephen Piscotty"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="4" runs-scored="0" hits="0" rbi="0" bases-on-balls="0" bases-on-balls-rate=".000" strikeouts="2" strikeout-rate=".500" left-on-base="0" average=".000" singles="0" doubles="0" triples="0" home-runs="0" on-base-percentage=".000" on-base-plus-slugging=".000" slugging-percentage=".000" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="4" rbi-with-two-out="0" total-bases="0"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="LF-P" batting-position-event="7" sub-batting-position-event="0">
+          <name first="Blaze" last="Tom" full="Ka&apos;ai Tom"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="3" runs-scored="0" hits="0" rbi="0" bases-on-balls="0" bases-on-balls-rate=".000" strikeouts="1" strikeout-rate=".333" left-on-base="0" average=".000" singles="0" doubles="0" triples="0" home-runs="0" on-base-percentage=".000" on-base-plus-slugging=".000" slugging-percentage=".000" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="3" rbi-with-two-out="0" total-bases="0"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="SS" batting-position-event="8" sub-batting-position-event="0">
+          <name first="Elvis" last="Andrus" full="Elvis Andrus"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="3" runs-scored="0" hits="0" rbi="0" bases-on-balls="0" bases-on-balls-rate=".000" strikeouts="1" strikeout-rate=".333" left-on-base="0" average=".000" singles="0" doubles="0" triples="0" home-runs="0" on-base-percentage=".000" on-base-plus-slugging=".000" slugging-percentage=".000" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="3" rbi-with-two-out="0" total-bases="0"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata position-event="C" batting-position-event="9" sub-batting-position-event="0">
+          <name first="Aramís" last="García" full="Aramís García"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-offensive at-bats="3" runs-scored="0" hits="0" rbi="0" bases-on-balls="0" bases-on-balls-rate=".000" strikeouts="1" strikeout-rate=".333" left-on-base="0" average=".000" singles="0" doubles="0" triples="0" home-runs="0" on-base-percentage=".000" on-base-plus-slugging=".000" slugging-percentage=".000" stolen-bases="0" stolen-bases-caught="0" sac-flies="0" sac-bunts="0" hit-by-pitch="0" plate-appearances="3" rbi-with-two-out="0" total-bases="0"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata>
+          <name first="Sean" last="Manaea" full="Sean Manaea"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-pitching innings-pitched="4.2" hits="6" runs-against="5" earned-runs="5" bases-on-balls="3" bases-on-balls-intentional="0" strikeouts="4" home-runs-allowed="2" era="9.64" number-of-pitches="101" number-of-strikes="67" errors-hit-with-pitch="0" errors-wild-pitch="0" event-credit="loss"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata>
+          <name first="Adam" last="Kolarek" full="Adam Kolarek"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-pitching innings-pitched="0.2" hits="2" runs-against="3" earned-runs="2" bases-on-balls="0" bases-on-balls-intentional="0" strikeouts="0" home-runs-allowed="0" era="27.00" number-of-pitches="16" number-of-strikes="10" errors-hit-with-pitch="0" errors-wild-pitch="0"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata>
+          <name first="Yusmeiro" last="Petit" full="Yusmeiro Petit"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-pitching innings-pitched="1.2" hits="2" runs-against="1" earned-runs="1" bases-on-balls="0" bases-on-balls-intentional="0" strikeouts="0" home-runs-allowed="1" era="5.40" number-of-pitches="26" number-of-strikes="18" errors-hit-with-pitch="0" errors-wild-pitch="0"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata>
+          <name first="Jeffrey" last="Wendelken" full="J.B. Wendelken"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-pitching innings-pitched="1.0" hits="0" runs-against="0" earned-runs="0" bases-on-balls="1" bases-on-balls-intentional="0" strikeouts="1" home-runs-allowed="0" era="0.00" number-of-pitches="10" number-of-strikes="5" errors-hit-with-pitch="0" errors-wild-pitch="0"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+      <player>
+        <player-metadata>
+          <name first="Blaze" last="Tom" full="Ka&apos;ai Tom"/>
+        </player-metadata>
+        <player-stats>
+          <player-stats-baseball>
+            <stats-baseball-pitching innings-pitched="1.0" hits="1" runs-against="0" earned-runs="0" bases-on-balls="0" bases-on-balls-intentional="0" strikeouts="0" home-runs-allowed="0" era="0.00" number-of-pitches="20" number-of-strikes="13" errors-hit-with-pitch="0" errors-wild-pitch="0"/>
+          </player-stats-baseball>
+        </player-stats>
+      </player>
+    </team>
+    <officials>
+      <official>
+        <official-metadata position="Home Plate">
+          <name first="Sean" last="Barber"/>
+        </official-metadata>
+      </official>
+      <official>
+        <official-metadata position="First Base">
+          <name first="Brian" last="Gorman"/>
+        </official-metadata>
+      </official>
+      <official>
+        <official-metadata position="Second Base">
+          <name first="Adrian" last="Johnson"/>
+        </official-metadata>
+      </official>
+      <official>
+        <official-metadata position="Third Base">
+          <name first="Dan" last="Bellino"/>
+        </official-metadata>
+      </official>
+    </officials>
+  </sports-event>
+</sports-content>
