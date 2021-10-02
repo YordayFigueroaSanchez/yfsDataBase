@@ -1,20 +1,170 @@
+
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20211001-cincinnati-reds-at-pittsburgh-pirates.xml > 20211001-cincinnati-reds-at-pittsburgh-pirates.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20211001-boston-red-sox-at-washington-nationals.xml > 20211001-boston-red-sox-at-washington-nationals.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20211001-tampa-bay-rays-at-new-york-yankees.xml > 20211001-tampa-bay-rays-at-new-york-yankees.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20211001-baltimore-orioles-at-toronto-blue-jays.xml > 20211001-baltimore-orioles-at-toronto-blue-jays.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20211001-philadelphia-phillies-at-miami-marlins.xml > 20211001-philadelphia-phillies-at-miami-marlins.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20211001-new-york-mets-at-atlanta-braves.xml > 20211001-new-york-mets-at-atlanta-braves.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20211001-cleveland-indians-at-texas-rangers.xml > 20211001-cleveland-indians-at-texas-rangers.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20211001-minnesota-twins-at-kansas-city-royals.xml > 20211001-minnesota-twins-at-kansas-city-royals.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20211001-detroit-tigers-at-chicago-white-sox.xml > 20211001-detroit-tigers-at-chicago-white-sox.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20211001-oakland-athletics-at-houston-astros.xml > 20211001-oakland-athletics-at-houston-astros.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20211001-chicago-cubs-at-st-louis-cardinals.xml > 20211001-chicago-cubs-at-st-louis-cardinals.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20211001-colorado-rockies-at-arizona-diamondbacks.xml > 20211001-colorado-rockies-at-arizona-diamondbacks.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20211001-san-diego-padres-at-san-francisco-giants.xml > 20211001-san-diego-padres-at-san-francisco-giants.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20211001-milwaukee-brewers-at-los-angeles-dodgers.xml > 20211001-milwaukee-brewers-at-los-angeles-dodgers.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20211001-los-angeles-angels-at-seattle-mariners.xml > 20211001-los-angeles-angels-at-seattle-mariners.xml
 //
 //
-VM84:3 20210926-texas-rangers-at-baltimore-orioles.xml > 20210926-texas-rangers-at-baltimore-orioles.xml
-VM84:3 20210926-pittsburgh-pirates-at-philadelphia-phillies.xml > 20210926-pittsburgh-pirates-at-philadelphia-phillies.xml
-VM84:3 20210926-washington-nationals-at-cincinnati-reds.xml > 20210926-washington-nationals-at-cincinnati-reds.xml
-VM84:3 20210926-kansas-city-royals-at-detroit-tigers.xml > 20210926-kansas-city-royals-at-detroit-tigers.xml
-VM84:3 20210926-chicago-white-sox-at-cleveland-indians.xml > 20210926-chicago-white-sox-at-cleveland-indians.xml
-VM84:3 20210926-miami-marlins-at-tampa-bay-rays.xml > 20210926-miami-marlins-at-tampa-bay-rays.xml
-VM84:3 20210926-toronto-blue-jays-at-minnesota-twins.xml > 20210926-toronto-blue-jays-at-minnesota-twins.xml
-VM84:3 20210926-new-york-mets-at-milwaukee-brewers.xml > 20210926-new-york-mets-at-milwaukee-brewers.xml
-VM84:3 20210926-st-louis-cardinals-at-chicago-cubs.xml > 20210926-st-louis-cardinals-at-chicago-cubs.xml
-VM84:3 20210926-san-francisco-giants-at-colorado-rockies.xml > 20210926-san-francisco-giants-at-colorado-rockies.xml
-VM84:3 20210926-seattle-mariners-at-los-angeles-angels.xml > 20210926-seattle-mariners-at-los-angeles-angels.xml
-VM84:3 20210926-houston-astros-at-oakland-athletics.xml > 20210926-houston-astros-at-oakland-athletics.xml
-VM84:3 20210926-los-angeles-dodgers-at-arizona-diamondbacks.xml > 20210926-los-angeles-dodgers-at-arizona-diamondbacks.xml
-VM84:3 20210926-atlanta-braves-at-san-diego-padres.xml > 20210926-atlanta-braves-at-san-diego-padres.xml
-VM84:3 20210926-new-york-yankees-at-boston-red-sox.xml > 20210926-new-york-yankees-at-boston-red-sox.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210930-milwaukee-brewers-at-st-louis-cardinals.xml > 20210930-milwaukee-brewers-at-st-louis-cardinals.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210930-los-angeles-angels-at-texas-rangers.xml > 20210930-los-angeles-angels-at-texas-rangers.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210930-chicago-cubs-at-pittsburgh-pirates.xml > 20210930-chicago-cubs-at-pittsburgh-pirates.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210930-boston-red-sox-at-baltimore-orioles.xml > 20210930-boston-red-sox-at-baltimore-orioles.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210930-new-york-yankees-at-toronto-blue-jays.xml > 20210930-new-york-yankees-at-toronto-blue-jays.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210930-miami-marlins-at-new-york-mets.xml > 20210930-miami-marlins-at-new-york-mets.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210930-tampa-bay-rays-at-houston-astros.xml > 20210930-tampa-bay-rays-at-houston-astros.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210930-philadelphia-phillies-at-atlanta-braves.xml > 20210930-philadelphia-phillies-at-atlanta-braves.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210930-detroit-tigers-at-minnesota-twins.xml > 20210930-detroit-tigers-at-minnesota-twins.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210930-cleveland-indians-at-kansas-city-royals.xml > 20210930-cleveland-indians-at-kansas-city-royals.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210930-arizona-diamondbacks-at-san-francisco-giants.xml > 20210930-arizona-diamondbacks-at-san-francisco-giants.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210930-san-diego-padres-at-los-angeles-dodgers.xml > 20210930-san-diego-padres-at-los-angeles-dodgers.xml
+//
+//
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210929-washington-nationals-at-colorado-rockies.xml > 20210929-washington-nationals-at-colorado-rockies.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210929-chicago-cubs-at-pittsburgh-pirates.xml > 20210929-chicago-cubs-at-pittsburgh-pirates.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210929-boston-red-sox-at-baltimore-orioles.xml > 20210929-boston-red-sox-at-baltimore-orioles.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210929-new-york-yankees-at-toronto-blue-jays.xml > 20210929-new-york-yankees-at-toronto-blue-jays.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210929-miami-marlins-at-new-york-mets.xml > 20210929-miami-marlins-at-new-york-mets.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210929-philadelphia-phillies-at-atlanta-braves.xml > 20210929-philadelphia-phillies-at-atlanta-braves.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210929-detroit-tigers-at-minnesota-twins.xml > 20210929-detroit-tigers-at-minnesota-twins.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210929-milwaukee-brewers-at-st-louis-cardinals.xml > 20210929-milwaukee-brewers-at-st-louis-cardinals.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210929-los-angeles-angels-at-texas-rangers.xml > 20210929-los-angeles-angels-at-texas-rangers.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210929-cincinnati-reds-at-chicago-white-sox.xml > 20210929-cincinnati-reds-at-chicago-white-sox.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210929-cleveland-indians-at-kansas-city-royals.xml > 20210929-cleveland-indians-at-kansas-city-royals.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210929-tampa-bay-rays-at-houston-astros.xml > 20210929-tampa-bay-rays-at-houston-astros.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210929-arizona-diamondbacks-at-san-francisco-giants.xml > 20210929-arizona-diamondbacks-at-san-francisco-giants.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210929-san-diego-padres-at-los-angeles-dodgers.xml > 20210929-san-diego-padres-at-los-angeles-dodgers.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210929-oakland-athletics-at-seattle-mariners.xml > 20210929-oakland-athletics-at-seattle-mariners.xml
+//
+//
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210928-miami-marlins-at-new-york-mets.xml > 20210928-miami-marlins-at-new-york-mets.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210928-chicago-cubs-at-pittsburgh-pirates.xml > 20210928-chicago-cubs-at-pittsburgh-pirates.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210928-boston-red-sox-at-baltimore-orioles.xml > 20210928-boston-red-sox-at-baltimore-orioles.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210928-new-york-yankees-at-toronto-blue-jays.xml > 20210928-new-york-yankees-at-toronto-blue-jays.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210928-2-miami-marlins-at-new-york-mets.xml > 20210928-2-miami-marlins-at-new-york-mets.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210928-philadelphia-phillies-at-atlanta-braves.xml > 20210928-philadelphia-phillies-at-atlanta-braves.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210928-detroit-tigers-at-minnesota-twins.xml > 20210928-detroit-tigers-at-minnesota-twins.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210928-milwaukee-brewers-at-st-louis-cardinals.xml > 20210928-milwaukee-brewers-at-st-louis-cardinals.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210928-los-angeles-angels-at-texas-rangers.xml > 20210928-los-angeles-angels-at-texas-rangers.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210928-tampa-bay-rays-at-houston-astros.xml > 20210928-tampa-bay-rays-at-houston-astros.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210928-cincinnati-reds-at-chicago-white-sox.xml > 20210928-cincinnati-reds-at-chicago-white-sox.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210928-cleveland-indians-at-kansas-city-royals.xml > 20210928-cleveland-indians-at-kansas-city-royals.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210928-washington-nationals-at-colorado-rockies.xml > 20210928-washington-nationals-at-colorado-rockies.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210928-arizona-diamondbacks-at-san-francisco-giants.xml > 20210928-arizona-diamondbacks-at-san-francisco-giants.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210928-san-diego-padres-at-los-angeles-dodgers.xml > 20210928-san-diego-padres-at-los-angeles-dodgers.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210928-oakland-athletics-at-seattle-mariners.xml > 20210928-oakland-athletics-at-seattle-mariners.xml
+//
+//
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210927-kansas-city-royals-at-cleveland-indians.xml > 20210927-kansas-city-royals-at-cleveland-indians.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210927-pittsburgh-pirates-at-cincinnati-reds.xml > 20210927-pittsburgh-pirates-at-cincinnati-reds.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210927-chicago-white-sox-at-detroit-tigers.xml > 20210927-chicago-white-sox-at-detroit-tigers.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210927-washington-nationals-at-colorado-rockies.xml > 20210927-washington-nationals-at-colorado-rockies.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210927-oakland-athletics-at-seattle-mariners.xml > 20210927-oakland-athletics-at-seattle-mariners.xml
+//
+//
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210926-texas-rangers-at-baltimore-orioles.xml > 20210926-texas-rangers-at-baltimore-orioles.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210926-pittsburgh-pirates-at-philadelphia-phillies.xml > 20210926-pittsburgh-pirates-at-philadelphia-phillies.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210926-washington-nationals-at-cincinnati-reds.xml > 20210926-washington-nationals-at-cincinnati-reds.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210926-kansas-city-royals-at-detroit-tigers.xml > 20210926-kansas-city-royals-at-detroit-tigers.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210926-chicago-white-sox-at-cleveland-indians.xml > 20210926-chicago-white-sox-at-cleveland-indians.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210926-miami-marlins-at-tampa-bay-rays.xml > 20210926-miami-marlins-at-tampa-bay-rays.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210926-toronto-blue-jays-at-minnesota-twins.xml > 20210926-toronto-blue-jays-at-minnesota-twins.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210926-new-york-mets-at-milwaukee-brewers.xml > 20210926-new-york-mets-at-milwaukee-brewers.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210926-st-louis-cardinals-at-chicago-cubs.xml > 20210926-st-louis-cardinals-at-chicago-cubs.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210926-san-francisco-giants-at-colorado-rockies.xml > 20210926-san-francisco-giants-at-colorado-rockies.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210926-seattle-mariners-at-los-angeles-angels.xml > 20210926-seattle-mariners-at-los-angeles-angels.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210926-houston-astros-at-oakland-athletics.xml > 20210926-houston-astros-at-oakland-athletics.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210926-los-angeles-dodgers-at-arizona-diamondbacks.xml > 20210926-los-angeles-dodgers-at-arizona-diamondbacks.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210926-atlanta-braves-at-san-diego-padres.xml > 20210926-atlanta-braves-at-san-diego-padres.xml
+sleep 15
+C:\Users\yfigueroa\Downloads\curl-7.76.1-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer 13fc9ec1-1f85-40c2-a101-342c794d962f" https://erikberg.com/mlb/boxscore/20210926-new-york-yankees-at-boston-red-sox.xml > 20210926-new-york-yankees-at-boston-red-sox.xml
 //
 //
 sleep 15
