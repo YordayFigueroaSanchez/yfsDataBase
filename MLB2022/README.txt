@@ -10,7 +10,31 @@ C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: B
 
 app usada
 curl
+************************************************************************************************************************************************
 
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer f62a41f6-6979-4ca1-9853-ecfd76aab342" https://erikberg.com/mlb/boxscore/20220411-cleveland-guardians-at-kansas-city-royals.xml > 20220411-cleveland-guardians-at-kansas-city-royals.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer f62a41f6-6979-4ca1-9853-ecfd76aab342" https://erikberg.com/mlb/boxscore/20220411-milwaukee-brewers-at-baltimore-orioles.xml > 20220411-milwaukee-brewers-at-baltimore-orioles.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer f62a41f6-6979-4ca1-9853-ecfd76aab342" https://erikberg.com/mlb/boxscore/20220411-colorado-rockies-at-texas-rangers.xml > 20220411-colorado-rockies-at-texas-rangers.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer f62a41f6-6979-4ca1-9853-ecfd76aab342" https://erikberg.com/mlb/boxscore/20220411-boston-red-sox-at-detroit-tigers.xml > 20220411-boston-red-sox-at-detroit-tigers.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer f62a41f6-6979-4ca1-9853-ecfd76aab342" https://erikberg.com/mlb/boxscore/20220411-oakland-athletics-at-tampa-bay-rays.xml > 20220411-oakland-athletics-at-tampa-bay-rays.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer f62a41f6-6979-4ca1-9853-ecfd76aab342" https://erikberg.com/mlb/boxscore/20220411-new-york-mets-at-philadelphia-phillies.xml > 20220411-new-york-mets-at-philadelphia-phillies.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer f62a41f6-6979-4ca1-9853-ecfd76aab342" https://erikberg.com/mlb/boxscore/20220411-toronto-blue-jays-at-new-york-yankees.xml > 20220411-toronto-blue-jays-at-new-york-yankees.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer f62a41f6-6979-4ca1-9853-ecfd76aab342" https://erikberg.com/mlb/boxscore/20220411-washington-nationals-at-atlanta-braves.xml > 20220411-washington-nationals-at-atlanta-braves.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer f62a41f6-6979-4ca1-9853-ecfd76aab342" https://erikberg.com/mlb/boxscore/20220411-seattle-mariners-at-minnesota-twins.xml > 20220411-seattle-mariners-at-minnesota-twins.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer f62a41f6-6979-4ca1-9853-ecfd76aab342" https://erikberg.com/mlb/boxscore/20220411-miami-marlins-at-los-angeles-angels.xml > 20220411-miami-marlins-at-los-angeles-angels.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer f62a41f6-6979-4ca1-9853-ecfd76aab342" https://erikberg.com/mlb/boxscore/20220411-san-diego-padres-at-san-francisco-giants.xml > 20220411-san-diego-padres-at-san-francisco-giants.xml
+undefined
 
 sleep 15
 C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer f62a41f6-6979-4ca1-9853-ecfd76aab342" https://erikberg.com/mlb/boxscore/20220409-baltimore-orioles-at-tampa-bay-rays.xml > 20220409-baltimore-orioles-at-tampa-bay-rays.xml
