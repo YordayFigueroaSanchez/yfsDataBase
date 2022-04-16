@@ -23,8 +23,8 @@ for (element in elements) {
 		console.log(listTd[0])
 	}
 	
-	
-RESULTADO DE SCRIPT NBA
+*******************************************************************************************************************************	
+RESULTADO DE SCRIPT NBA box score by player
 player/box score
 
 const elements = $x('//div[@class="nba-stat-table__overflow"]/table/tbody/tr/td[@class="player-name first"]/..'); 	
@@ -157,3 +157,44 @@ for (element in elements) {
 		console.log(cadena);
 				
 	}
+	
+*******************************************************************************************************************************
+List of player
+
+const elements = $x('//table/tbody/tr'); 	
+for (element in elements) 
+{
+	var cadena = '{';
+	var aaa = elements[element];
+	var listTd = aaa.querySelectorAll('td');
+	
+	var elemnt00_0 = listTd[0].querySelector('a');
+	cadena += 'player_url:"' + elemnt00_0.href + '",';
+	
+	var elemnt00_1 = listTd[0].querySelector('a > div > img');
+	cadena += 'player_img:"' + elemnt00_1.src + '",';
+	cadena += 'player_alt:"' + elemnt00_1.alt + '",';
+	
+	var elemnt00_2 = listTd[0].querySelectorAll('a > div > p');
+	cadena += 'player_first_name:"' + elemnt00_2[0].innerText + '",';
+	cadena += 'player_last_name:"' + elemnt00_2[1].innerText + '",';
+	
+	var elemnt01 = listTd[1].querySelector('a');
+	if(elemnt01 == null){
+		cadena += 'team_url:"N/A",';
+		cadena += 'team_name:"N/A",';
+	} else {
+		cadena += 'team_url:"' + elemnt01.href + '",';
+		cadena += 'team_name:"' + elemnt01.innerText + '",';
+	}
+	
+	cadena += 'number:"' + listTd[2].innerText + '",';
+	cadena += 'position:"' + listTd[3].innerText + '",';
+	cadena += 'height:"' + listTd[4].innerText + '",';
+	cadena += 'weight:"' + listTd[5].innerText + '",';
+	cadena += 'last_attended:"' + listTd[6].innerText + '",';
+	cadena += 'country:"' + listTd[7].innerText + '",';
+	
+	cadena += '}';
+	console.log(cadena);
+}
