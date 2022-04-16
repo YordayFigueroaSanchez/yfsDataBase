@@ -25,6 +25,7 @@ for (element in elements) {
 	
 	
 RESULTADO DE SCRIPT NBA
+player/box score
 
 const elements = $x('//div[@class="nba-stat-table__overflow"]/table/tbody/tr/td[@class="player-name first"]/..'); 	
 for (element in elements) {
