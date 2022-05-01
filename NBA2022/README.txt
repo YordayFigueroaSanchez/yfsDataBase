@@ -161,6 +161,9 @@ for (element in elements) {
 	notas
 		copiar todo
 		llevar a notepad++
+		sustituir "script : 1"
+		agregar [ al inicio
+		agregar ] al final
 		
 	
 *******************************************************************************************************************************
