@@ -12,6 +12,42 @@ app usada
 curl
 ************************************************************************************************************************************************
 
+
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer c6359d9a-8bee-42ed-8a8a-5f37ac441637" https://erikberg.com/mlb/boxscore/20220422-st-louis-cardinals-at-cincinnati-reds.xml > 20220422-st-louis-cardinals-at-cincinnati-reds.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer c6359d9a-8bee-42ed-8a8a-5f37ac441637" https://erikberg.com/mlb/boxscore/20220422-cleveland-guardians-at-new-york-yankees.xml > 20220422-cleveland-guardians-at-new-york-yankees.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer c6359d9a-8bee-42ed-8a8a-5f37ac441637" https://erikberg.com/mlb/boxscore/20220422-milwaukee-brewers-at-philadelphia-phillies.xml > 20220422-milwaukee-brewers-at-philadelphia-phillies.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer c6359d9a-8bee-42ed-8a8a-5f37ac441637" https://erikberg.com/mlb/boxscore/20220422-san-francisco-giants-at-washington-nationals.xml > 20220422-san-francisco-giants-at-washington-nationals.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer c6359d9a-8bee-42ed-8a8a-5f37ac441637" https://erikberg.com/mlb/boxscore/20220422-boston-red-sox-at-tampa-bay-rays.xml > 20220422-boston-red-sox-at-tampa-bay-rays.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer c6359d9a-8bee-42ed-8a8a-5f37ac441637" https://erikberg.com/mlb/boxscore/20220422-miami-marlins-at-atlanta-braves.xml > 20220422-miami-marlins-at-atlanta-braves.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer c6359d9a-8bee-42ed-8a8a-5f37ac441637" https://erikberg.com/mlb/boxscore/20220422-pittsburgh-pirates-at-chicago-cubs.xml > 20220422-pittsburgh-pirates-at-chicago-cubs.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer c6359d9a-8bee-42ed-8a8a-5f37ac441637" https://erikberg.com/mlb/boxscore/20220422-chicago-white-sox-at-minnesota-twins.xml > 20220422-chicago-white-sox-at-minnesota-twins.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer c6359d9a-8bee-42ed-8a8a-5f37ac441637" https://erikberg.com/mlb/boxscore/20220422-toronto-blue-jays-at-houston-astros.xml > 20220422-toronto-blue-jays-at-houston-astros.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer c6359d9a-8bee-42ed-8a8a-5f37ac441637" https://erikberg.com/mlb/boxscore/20220422-baltimore-orioles-at-los-angeles-angels.xml > 20220422-baltimore-orioles-at-los-angeles-angels.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer c6359d9a-8bee-42ed-8a8a-5f37ac441637" https://erikberg.com/mlb/boxscore/20220422-kansas-city-royals-at-seattle-mariners.xml > 20220422-kansas-city-royals-at-seattle-mariners.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer c6359d9a-8bee-42ed-8a8a-5f37ac441637" https://erikberg.com/mlb/boxscore/20220422-new-york-mets-at-arizona-diamondbacks.xml > 20220422-new-york-mets-at-arizona-diamondbacks.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer c6359d9a-8bee-42ed-8a8a-5f37ac441637" https://erikberg.com/mlb/boxscore/20220422-los-angeles-dodgers-at-san-diego-padres.xml > 20220422-los-angeles-dodgers-at-san-diego-padres.xml
+sleep 15
+C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer c6359d9a-8bee-42ed-8a8a-5f37ac441637" https://erikberg.com/mlb/boxscore/20220422-texas-rangers-at-oakland-athletics.xml > 20220422-texas-rangers-at-oakland-athletics.xml
+
+
+
+
+
+
+
 sleep 15
 C:\utiles\curl-7.82.0-win64-mingw\bin\curl.exe --compressed -H "Authorization: Bearer c6359d9a-8bee-42ed-8a8a-5f37ac441637" https://erikberg.com/mlb/boxscore/20220421-san-francisco-giants-at-new-york-mets.xml > 20220421-san-francisco-giants-at-new-york-mets.xml
 sleep 15
