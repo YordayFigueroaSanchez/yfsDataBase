@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+29/11/2022;GSW;0;curryst01;Stephen Curry;37:48;11;24;.458;5;14;.357;5;6;.833;1;4;5;5;0;0;4;4;32;-12
+29/11/2022;GSW;1;greendr01;Draymond Green;32:45;6;10;.600;0;3;.000;0;0;;0;6;6;4;1;1;3;3;12;-5
+29/11/2022;GSW;2;thompkl01;Klay Thompson;31:02;2;9;.222;1;6;.167;0;0;;0;7;7;2;0;0;1;1;5;-21
+29/11/2022;GSW;3;wiggian01;Andrew Wiggins;27:17;4;11;.364;1;6;.167;1;2;.500;0;1;1;2;0;0;0;2;10;-23
+29/11/2022;GSW;4;looneke01;Kevon Looney;17:38;4;4;1.000;0;0;;3;3;1.000;3;3;6;1;0;0;0;1;11;-15
+29/11/2022;GSW;5;Reserves;Reserves
+29/11/2022;GSW;6;poolejo01;Jordan Poole;26:52;3;9;.333;1;6;.167;2;2;1.000;0;2;2;9;1;0;5;4;9;+14
+29/11/2022;GSW;7;kuminjo01;Jonathan Kuminga;25:34;6;8;.750;1;1;1.000;1;4;.250;3;7;10;1;0;2;2;3;14;+21
+29/11/2022;GSW;8;divindo01;Donte DiVincenzo;16:53;1;5;.200;0;2;.000;4;4;1.000;2;5;7;2;2;0;1;1;6;+15
+29/11/2022;GSW;9;lamban01;Anthony Lamb;16:06;4;6;.667;2;4;.500;1;1;1.000;1;4;5;1;1;0;1;2;11;+13
+29/11/2022;GSW;10;greenja01;JaMychal Green;8:05;1;2;.500;0;1;.000;1;1;1.000;0;1;1;0;1;0;1;2;3;-2
+29/11/2022;GSW;11;moodymo01;Moses Moody;Did Not Play
+29/11/2022;GSW;0;doncilu01;Luka Dončić;39:17;14;27;.519;4;9;.444;9;15;.600;2;10;12;12;4;1;5;3;41;+22
+29/11/2022;GSW;1;hardati02;Tim Hardaway Jr.;31:21;8;16;.500;5;11;.455;1;2;.500;0;4;4;2;0;0;0;3;22;+19
+29/11/2022;GSW;2;finnedo01;Dorian Finney-Smith;29:25;2;6;.333;1;4;.250;1;2;.500;3;6;9;2;0;0;0;1;6;+12
+29/11/2022;GSW;3;dinwisp01;Spencer Dinwiddie;22:45;5;12;.417;0;4;.000;4;4;1.000;0;0;0;2;2;0;3;1;14;0
+29/11/2022;GSW;4;poweldw01;Dwight Powell;18:25;2;3;.667;0;0;;0;0;;1;2;3;0;0;1;0;4;4;+13
+29/11/2022;GSW;5;Reserves;Reserves
+29/11/2022;GSW;6;greenjo02;Josh Green;26:59;5;7;.714;3;5;.600;0;0;;1;1;2;1;1;0;1;2;13;-9
+29/11/2022;GSW;7;woodch01;Christian Wood;25:48;2;12;.167;0;5;.000;0;2;.000;1;7;8;1;0;1;2;3;4;-16
+29/11/2022;GSW;8;klebima01;Maxi Kleber;25:07;2;3;.667;0;1;.000;2;2;1.000;0;1;1;1;0;1;1;3;6;-6
+29/11/2022;GSW;9;bullore01;Reggie Bullock;13:37;0;3;.000;0;3;.000;0;0;;0;0;0;0;0;0;0;0;0;-14
+29/11/2022;GSW;10;bertada01;Dāvis Bertāns;7:16;2;2;1.000;2;2;1.000;0;0;;0;0;0;0;0;0;1;1;6;-6
+29/11/2022;GSW;11;hardyja02;Jaden Hardy;Did Not Play
+29/11/2022;GSW;12;mcgeeja01;JaVale McGee;Did Not Play
+29/11/2022;GSW;13;ntilila01;Frank Ntilikina;Did Not Play
+29/11/2022;GSW;14;pinsoth01;Theo Pinson;Did Not Play

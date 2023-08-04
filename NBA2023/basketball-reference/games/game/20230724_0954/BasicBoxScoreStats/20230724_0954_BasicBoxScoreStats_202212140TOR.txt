@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+14/12/2022;SAC;0;foxde01;De'Aaron Fox;41:26;9;23;.391;4;8;.500;5;7;.714;0;6;6;10;1;0;3;4;27;+6
+14/12/2022;SAC;1;sabondo01;Domantas Sabonis;40:15;10;13;.769;0;0;;1;1;1.000;5;15;20;7;1;1;5;3;21;+13
+14/12/2022;SAC;2;barneha02;Harrison Barnes;36:21;4;8;.500;0;4;.000;4;4;1.000;2;6;8;3;0;0;0;1;12;+8
+14/12/2022;SAC;3;murrake02;Keegan Murray;32:23;4;12;.333;2;8;.250;0;0;;1;3;4;0;1;1;0;1;10;+1
+14/12/2022;SAC;4;daviste02;Terence Davis;24:50;7;14;.500;5;12;.417;0;0;;1;2;3;2;0;1;4;3;19;+1
+14/12/2022;SAC;5;Reserves;Reserves
+14/12/2022;SAC;6;monkma01;Malik Monk;32:34;6;13;.462;5;10;.500;7;8;.875;2;1;3;3;0;0;1;1;24;+10
+14/12/2022;SAC;7;mitchda01;Davion Mitchell;12:16;1;3;.333;0;2;.000;0;0;;2;1;3;2;0;0;1;0;2;-13
+14/12/2022;SAC;8;lylestr01;Trey Lyles;12:10;2;4;.500;1;2;.500;0;0;;0;3;3;2;0;0;0;0;5;-9
+14/12/2022;SAC;9;metuch01;Chimezie Metu;4:37;1;1;1.000;0;0;;0;0;;0;0;0;0;0;0;1;1;2;-13
+14/12/2022;SAC;10;holmeri01;Richaun Holmes;3:08;1;2;.500;0;0;;0;0;;0;0;0;0;0;0;0;2;2;+1
+14/12/2022;SAC;11;dellama01;Matthew Dellavedova;Did Not Play
+14/12/2022;SAC;12;elliske01;Keon Ellis;Did Not Play
+14/12/2022;SAC;13;huertke01;Kevin Huerter;Did Not Dress
+14/12/2022;SAC;14;okpalkz01;KZ Okpala;Did Not Play
+14/12/2022;SAC;15;quetane01;Neemias Queta;Did Not Play
+14/12/2022;SAC;0;siakapa01;Pascal Siakam;42:31;7;19;.368;1;1;1.000;4;6;.667;1;3;4;6;0;0;1;4;19;-5
+14/12/2022;SAC;1;barnesc01;Scottie Barnes;39:58;10;16;.625;2;3;.667;5;6;.833;2;5;7;10;0;1;3;0;27;-2
+14/12/2022;SAC;2;vanvlfr01;Fred VanVleet;38:10;13;25;.520;2;8;.250;11;11;1.000;0;8;8;5;4;1;2;4;39;+8
+14/12/2022;SAC;3;youngth01;Thaddeus Young;27:37;3;5;.600;0;0;;0;0;;2;1;3;1;1;0;1;2;6;-2
+14/12/2022;SAC;4;trentga02;Gary Trent Jr.;24:54;5;9;.556;1;3;.333;0;0;;0;1;1;1;0;0;0;3;11;-4
+14/12/2022;SAC;5;Reserves;Reserves
+14/12/2022;SAC;6;hernaju01;Juancho Hernangómez;24:10;2;5;.400;0;3;.000;1;2;.500;2;3;5;1;0;0;0;2;5;-4
+14/12/2022;SAC;7;bouchch01;Chris Boucher;17:26;2;5;.400;0;2;.000;2;2;1.000;0;4;4;0;1;1;0;1;6;+7
+14/12/2022;SAC;8;kolokch01;Christian Koloko;13:01;2;4;.500;0;0;;0;0;;3;1;4;1;1;1;0;0;4;+9
+14/12/2022;SAC;9;birchkh01;Khem Birch;7:22;1;3;.333;0;0;;0;0;;1;1;2;0;1;1;0;0;2;-8
+14/12/2022;SAC;10;bantoda01;Dalano Banton;4:51;2;3;.667;0;1;.000;0;0;;0;1;1;0;0;2;0;2;4;-4
+14/12/2022;SAC;11;achiupr01;Precious Achiuwa;Did Not Dress
+14/12/2022;SAC;12;flynnma01;Malachi Flynn;Did Not Play

@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+27/11/2022;POR;0;grantje01;Jerami Grant;40:14;11;24;.458;5;10;.500;2;2;1.000;1;3;4;5;0;0;1;2;29;-5
+27/11/2022;POR;1;simonan01;Anfernee Simons;39:34;4;14;.286;4;10;.400;3;4;.750;0;1;1;6;1;0;2;1;15;-16
+27/11/2022;POR;2;winslju01;Justise Winslow;37:11;5;10;.500;2;4;.500;2;2;1.000;1;6;7;6;0;0;3;4;14;-10
+27/11/2022;POR;3;hartjo01;Josh Hart;35:49;4;8;.500;1;4;.250;0;0;;1;3;4;3;1;0;0;3;9;-15
+27/11/2022;POR;4;nurkiju01;Jusuf Nurkić;33:45;6;12;.500;0;2;.000;5;8;.625;4;10;14;4;0;1;4;4;17;-6
+27/11/2022;POR;5;Reserves;Reserves
+27/11/2022;POR;6;sharpsh01;Shaedon Sharpe;14:55;0;3;.000;0;2;.000;0;0;;0;2;2;1;0;1;0;0;0;-5
+27/11/2022;POR;7;watfotr01;Trendon Watford;14:31;3;5;.600;0;0;;0;0;;0;3;3;1;0;0;1;1;6;-13
+27/11/2022;POR;8;eubandr01;Drew Eubanks;14:15;1;1;1.000;0;0;;1;3;.333;3;2;5;1;1;0;2;0;3;-8
+27/11/2022;POR;9;littlna01;Nassir Little;9:46;1;2;.500;0;1;.000;2;3;.667;1;1;2;0;1;0;0;1;4;+8
+27/11/2022;POR;10;butlejo01;John Butler;Did Not Play
+27/11/2022;POR;11;lillada01;Damian Lillard;Did Not Dress
+27/11/2022;POR;12;walkeja01;Jabari Walker;Did Not Play
+27/11/2022;POR;0;onealro01;Royce O'Neale;38:27;2;5;.400;0;2;.000;3;4;.750;0;5;5;4;0;1;0;5;7;+6
+27/11/2022;POR;1;irvinky01;Kyrie Irving;37:57;8;17;.471;4;10;.400;2;3;.667;1;4;5;6;0;0;0;3;22;+2
+27/11/2022;POR;2;duranke01;Kevin Durant;36:41;12;20;.600;3;6;.500;4;4;1.000;0;5;5;5;0;0;1;4;31;+21
+27/11/2022;POR;3;simmobe01;Ben Simmons;33:37;1;3;.333;0;0;;0;0;;1;11;12;8;3;0;2;2;2;-1
+27/11/2022;POR;4;claxtni01;Nic Claxton;31:45;4;6;.667;0;0;;4;6;.667;2;5;7;2;2;1;2;3;12;+12
+27/11/2022;POR;5;Reserves;Reserves
+27/11/2022;POR;6;curryse01;Seth Curry;28:40;11;15;.733;7;10;.700;0;0;;0;3;3;1;1;0;2;2;29;+14
+27/11/2022;POR;7;harrijo01;Joe Harris;16:13;1;6;.167;1;6;.167;1;1;1.000;0;0;0;0;0;0;0;3;4;+4
+27/11/2022;POR;8;sumneed01;Edmond Sumner;10:42;1;2;.500;0;0;;0;0;;0;0;0;1;0;0;0;1;2;+12
+27/11/2022;POR;9;thomaca02;Cam Thomas;5:58;1;4;.250;0;1;.000;0;0;;0;1;1;0;0;0;0;1;2;0
+27/11/2022;POR;10;edwarke02;Kessler Edwards;Did Not Play
+27/11/2022;POR;11;millspa02;Patty Mills;Did Not Play
+27/11/2022;POR;12;morrima02;Markieff Morris;Did Not Play
+27/11/2022;POR;13;sharpda01;Day'Ron Sharpe;Did Not Play

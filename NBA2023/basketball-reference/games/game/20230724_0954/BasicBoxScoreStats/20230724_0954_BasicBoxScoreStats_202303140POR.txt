@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+14/03/2023;NYK;0;quickim01;Immanuel Quickley;33:57;8;14;.571;4;8;.500;6;7;.857;2;8;10;3;1;0;1;1;26;+8
+14/03/2023;NYK;1;randlju01;Julius Randle;33:50;8;20;.400;0;5;.000;8;10;.800;1;9;10;4;0;0;2;3;24;+8
+14/03/2023;NYK;2;barrerj01;RJ Barrett;27:59;8;13;.615;1;3;.333;5;7;.714;0;5;5;0;0;3;2;0;22;+8
+14/03/2023;NYK;3;robinmi01;Mitchell Robinson;21:27;1;2;.500;0;0;;0;2;.000;2;2;4;0;1;1;0;0;2;-4
+14/03/2023;NYK;4;grimequ01;Quentin Grimes;20:10;1;3;.333;1;3;.333;1;2;.500;0;1;1;0;1;1;3;4;4;-11
+14/03/2023;NYK;5;Reserves;Reserves
+14/03/2023;NYK;6;hartjo01;Josh Hart;37:23;6;13;.462;2;5;.400;2;2;1.000;1;8;9;8;3;0;2;0;16;+26
+14/03/2023;NYK;7;harteis01;Isaiah Hartenstein;26:33;0;2;.000;0;1;.000;0;0;;3;8;11;4;1;1;2;4;0;+20
+14/03/2023;NYK;8;mcbrimi01;Miles McBride;24:31;6;8;.750;4;5;.800;2;4;.500;0;1;1;3;1;2;0;1;18;+17
+14/03/2023;NYK;9;toppiob01;Obi Toppin;14:10;4;6;.667;3;5;.600;0;0;;0;1;1;1;0;0;0;0;11;+8
+14/03/2023;NYK;10;fournev01;Evan Fournier;Did Not Play
+14/03/2023;NYK;11;jeffrda01;DaQuan Jeffries;Did Not Play
+14/03/2023;NYK;12;rosede01;Derrick Rose;Did Not Play
+14/03/2023;NYK;13;simsje01;Jericho Sims;Did Not Play
+14/03/2023;NYK;0;watfotr01;Trendon Watford;40:06;4;12;.333;2;2;1.000;0;0;;3;3;6;4;3;0;0;1;10;-6
+14/03/2023;NYK;1;lillada01;Damian Lillard;39:02;11;26;.423;8;17;.471;8;9;.889;2;5;7;7;0;0;4;3;38;-5
+14/03/2023;NYK;2;thybuma01;Matisse Thybulle;38:09;6;11;.545;2;5;.400;1;2;.500;1;7;8;3;3;1;1;4;15;+1
+14/03/2023;NYK;3;simonan01;Anfernee Simons;34:25;7;20;.350;3;11;.273;5;6;.833;1;0;1;1;0;0;2;2;22;+4
+14/03/2023;NYK;4;nurkiju01;Jusuf Nurkić;28:10;5;11;.455;0;2;.000;0;1;.000;2;8;10;3;0;1;1;5;10;+1
+14/03/2023;NYK;5;Reserves;Reserves
+14/03/2023;NYK;6;reddica01;Cam Reddish;19:19;1;6;.167;0;3;.000;0;0;;0;1;1;0;2;0;1;0;2;-27
+14/03/2023;NYK;7;eubandr01;Drew Eubanks;18:00;0;1;.000;0;0;;0;0;;1;2;3;2;0;0;1;3;0;-16
+14/03/2023;NYK;8;littlna01;Nassir Little;9:51;0;5;.000;0;1;.000;0;0;;1;0;1;0;0;0;0;0;0;-17
+14/03/2023;NYK;9;sharpsh01;Shaedon Sharpe;7:28;2;5;.400;2;4;.500;0;0;;0;1;1;0;0;1;0;1;6;-12
+14/03/2023;NYK;10;johnske07;Keon Johnson;1:50;1;1;1.000;0;0;;0;0;;0;0;0;2;0;0;0;0;2;-1
+14/03/2023;NYK;11;walkeja01;Jabari Walker;1:50;1;1;1.000;0;0;;0;0;;0;0;0;0;0;0;0;0;2;-1
+14/03/2023;NYK;12;knoxke01;Kevin Knox;1:50;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;-1
+14/03/2023;NYK;13;arcidry01;Ryan Arcidiacono;Did Not Play
+14/03/2023;NYK;14;butlejo01;John Butler;Did Not Play

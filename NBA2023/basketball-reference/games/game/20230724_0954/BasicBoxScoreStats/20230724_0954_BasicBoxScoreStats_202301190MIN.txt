@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+19/01/2023;TOR;0;siakapa01;Pascal Siakam;40:35;6;16;.375;0;0;;1;2;.500;1;6;7;9;0;1;4;2;13;0
+19/01/2023;TOR;1;barnesc01;Scottie Barnes;38:58;11;15;.733;1;1;1.000;6;7;.857;2;6;8;5;2;0;2;4;29;+3
+19/01/2023;TOR;2;vanvlfr01;Fred VanVleet;36:26;7;13;.538;4;6;.667;7;7;1.000;0;1;1;10;2;1;2;3;25;-12
+19/01/2023;TOR;3;trentga02;Gary Trent Jr.;36:26;6;15;.400;2;8;.250;4;5;.800;0;2;2;0;2;1;2;2;18;-12
+19/01/2023;TOR;4;anunoog01;OG Anunoby;35:36;5;11;.455;3;7;.429;2;2;1.000;1;7;8;0;1;1;3;3;15;0
+19/01/2023;TOR;5;Reserves;Reserves
+19/01/2023;TOR;6;achiupr01;Precious Achiuwa;20:48;5;8;.625;1;1;1.000;0;4;.000;3;1;4;1;0;2;0;2;11;+2
+19/01/2023;TOR;7;hernaju01;Juancho Hernangómez;12:29;1;3;.333;0;2;.000;0;0;;0;4;4;0;1;0;1;1;2;-5
+19/01/2023;TOR;8;wieskjo01;Joe Wieskamp;11:34;3;4;.750;3;3;1.000;0;0;;0;0;0;1;0;0;1;0;9;+10
+19/01/2023;TOR;9;youngth01;Thaddeus Young;7:08;2;2;1.000;0;0;;0;0;;1;3;4;0;0;0;1;2;4;+4
+19/01/2023;TOR;10;birchkh01;Khem Birch;Did Not Play
+19/01/2023;TOR;11;bouchch01;Chris Boucher;Did Not Play
+19/01/2023;TOR;12;dowtije01;Jeff Dowtin;Did Not Play
+19/01/2023;TOR;13;flynnma01;Malachi Flynn;Did Not Play
+19/01/2023;TOR;14;harpero02;Ron Harper Jr.;Did Not Play
+19/01/2023;TOR;15;kolokch01;Christian Koloko;Did Not Play
+19/01/2023;TOR;0;edwaran01;Anthony Edwards;39:39;5;16;.313;2;8;.250;11;12;.917;0;5;5;7;3;0;5;3;23;+12
+19/01/2023;TOR;1;mcdanja02;Jaden McDaniels;37:17;7;14;.500;4;7;.571;0;0;;3;4;7;1;1;1;0;4;18;+5
+19/01/2023;TOR;2;russeda01;D'Angelo Russell;33:48;8;15;.533;5;10;.500;4;4;1.000;1;0;1;6;2;1;4;2;25;+2
+19/01/2023;TOR;3;anderky01;Kyle Anderson;33:31;8;9;.889;2;2;1.000;2;3;.667;2;8;10;6;2;1;1;1;20;+15
+19/01/2023;TOR;4;reidna01;Naz Reid;22:05;2;6;.333;1;1;1.000;0;0;;0;7;7;2;2;1;4;3;5;+16
+19/01/2023;TOR;5;Reserves;Reserves
+19/01/2023;TOR;6;princta02;Taurean Prince;23:38;3;6;.500;0;3;.000;0;0;;0;0;0;4;0;1;1;3;6;-23
+19/01/2023;TOR;7;nowelja01;Jaylen Nowell;17:47;5;10;.500;1;4;.250;2;2;1.000;0;1;1;3;2;0;0;0;13;0
+19/01/2023;TOR;8;garzalu01;Luka Garza;14:23;3;5;.600;1;2;.500;0;0;;0;1;1;0;0;0;0;3;7;-1
+19/01/2023;TOR;9;knighna01;Nathan Knight;8:37;3;5;.600;0;0;;2;2;1.000;2;2;4;0;0;0;0;1;8;-7
+19/01/2023;TOR;10;ryanma01;Matt Ryan;5:49;1;2;.500;1;2;.500;0;0;;0;1;1;2;0;0;0;0;3;-3
+19/01/2023;TOR;11;moorewe01;Wendell Moore Jr.;3:26;0;1;.000;0;1;.000;0;0;;0;0;0;0;0;0;0;0;0;-6
+19/01/2023;TOR;12;forbebr01;Bryn Forbes;Did Not Play
+19/01/2023;TOR;13;minotjo01;Josh Minott;Did Not Play

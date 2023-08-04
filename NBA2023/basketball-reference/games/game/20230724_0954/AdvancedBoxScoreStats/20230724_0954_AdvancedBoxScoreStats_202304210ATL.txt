@@ -1,0 +1,32 @@
+dateId;teamId;order;playerId;Starters;MP;TS%;eFG%;3PAr;FTr;ORB%;DRB%;TRB%;AST%;STL%;BLK%;TOV%;USG%;ORtg;DRtg;BPM
+21/04/2023;BOS;0;tatumja01;Jayson Tatum;40:12;.559;.500;.500;.409;5.6;28.1;15.5;17.4;2.3;0.0;13.4;32.2;107;124;0.2
+21/04/2023;BOS;1;brownja02;Jaylen Brown;33:19;.472;.467;.267;.133;0.0;4.2;1.9;12.4;4.2;0.0;15.9;24.5;84;125;-9.2
+21/04/2023;BOS;2;smartma01;Marcus Smart;32:41;.604;.605;.632;.105;0.0;13.0;5.7;37.0;4.3;0.0;4.8;27.6;125;123;8.9
+21/04/2023;BOS;3;whitede01;Derrick White;30:08;.786;.786;.571;.000;0.0;9.4;4.1;16.5;1.6;0.0;0.0;10.0;162;130;1.1
+21/04/2023;BOS;4;horfoal01;Al Horford;28:31;.571;.571;.857;.000;0.0;19.8;8.7;12.6;0.0;0.0;0.0;10.6;126;131;-2.0
+21/04/2023;BOS;5;Reserves;Reserves
+21/04/2023;BOS;6;brogdma01;Malcolm Brogdon;28:31;.551;.567;.400;.067;3.9;0.0;2.2;25.3;0.0;0.0;11.5;26.4;107;135;-3.1
+21/04/2023;BOS;7;williro04;Robert Williams;19:29;1.000;1.000;.000;.000;11.5;21.7;16.0;6.1;2.4;0.0;50.0;8.9;117;125;-3.5
+21/04/2023;BOS;8;willigr01;Grant Williams;17:42;1.434;1.500;1.000;.500;6.3;8.0;7.0;15.9;2.6;0.0;0.0;11.9;273;127;22.7
+21/04/2023;BOS;9;hausesa01;Sam Hauser;9:27;.000;.000;1.000;.000;0.0;14.9;6.6;0.0;0.0;0.0;0.0;4.6;0;132;-14.3
+21/04/2023;BOS;10;champju01;Justin Champagnie;Did Not Play
+21/04/2023;BOS;11;griffbl01;Blake Griffin;Did Not Play
+21/04/2023;BOS;12;kornelu01;Luke Kornet;Did Not Play
+21/04/2023;BOS;13;muscami01;Mike Muscala;Did Not Play
+21/04/2023;BOS;14;pritcpa01;Payton Pritchard;Did Not Play
+21/04/2023;BOS;0;murrade01;Dejounte Murray;37:10;.583;.571;.286;.048;7.6;12.0;10.1;17.6;1.3;0.0;8.5;26.1;128;121;1.7
+21/04/2023;BOS;1;youngtr01;Trae Young;36:31;.649;.591;.273;.273;3.9;15.3;10.2;33.6;1.3;6.0;14.0;32.4;134;116;8.4
+21/04/2023;BOS;2;huntede01;De'Andre Hunter;35:25;.431;.409;.545;.364;0.0;6.3;3.5;3.0;0.0;0.0;13.6;17.2;86;125;-10.9
+21/04/2023;BOS;3;capelca01;Clint Capela;24:41;.625;.625;.000;.000;22.9;31.7;27.8;0.0;1.9;0.0;11.1;15.1;132;117;-1.1
+21/04/2023;BOS;4;collijo01;John Collins;20:37;.538;.571;.857;.143;0.0;27.1;15.1;5.3;0.0;0.0;21.2;18.9;92;122;-6.0
+21/04/2023;BOS;5;Reserves;Reserves
+21/04/2023;BOS;6;beysa01;Saddiq Bey;26:43;.952;.929;.429;.286;10.6;25.1;18.7;8.6;0.0;0.0;11.3;13.7;178;123;10.2
+21/04/2023;BOS;7;okongon01;Onyeka Okongwu;23:19;1.000;1.000;.000;.000;12.1;14.4;13.4;4.4;0.0;14.0;50.0;7.1;115;113;-1.7
+21/04/2023;BOS;8;bogdabo01;Bogdan Bogdanović;22:19;.938;.938;.500;.000;0.0;20.0;11.2;5.6;2.1;4.9;11.1;16.7;164;114;12.3
+21/04/2023;BOS;9;johnsja05;Jalen Johnson;13:15;.850;.800;.600;.400;0.0;8.4;4.7;36.1;3.5;0.0;33.8;27.7;128;116;14.1
+21/04/2023;BOS;10;fernabr01;Bruno Fernando;Did Not Play
+21/04/2023;BOS;11;griffaj01;AJ Griffin;Did Not Play
+21/04/2023;BOS;12;holidaa01;Aaron Holiday;Did Not Play
+21/04/2023;BOS;13;krejcvi01;Vit Krejci;Did Not Play
+21/04/2023;BOS;14;martity01;Tyrese Martin;Did Not Play
+21/04/2023;BOS;15;mathega01;Garrison Mathews;Did Not Play

@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+04/01/2023;ATL;0;collijo01;John Collins;40:33;7;11;.636;2;4;.500;6;6;1.000;0;12;12;3;2;2;3;4;22;+2
+04/01/2023;ATL;1;huntede01;De'Andre Hunter;35:44;9;17;.529;2;7;.286;2;3;.667;1;7;8;1;2;0;2;4;22;+2
+04/01/2023;ATL;2;murrade01;Dejounte Murray;34:46;8;17;.471;1;4;.250;4;4;1.000;1;5;6;4;3;0;2;1;21;0
+04/01/2023;ATL;3;okongon01;Onyeka Okongwu;32:09;3;5;.600;0;0;;2;2;1.000;2;5;7;1;0;1;3;5;8;+3
+04/01/2023;ATL;4;youngtr01;Trae Young;31:49;7;12;.583;1;2;.500;6;7;.857;0;0;0;6;1;0;5;2;21;+6
+04/01/2023;ATL;5;Reserves;Reserves
+04/01/2023;ATL;6;bogdabo01;Bogdan Bogdanović;32:05;7;13;.538;3;7;.429;0;0;;2;6;8;3;1;0;0;2;17;-1
+04/01/2023;ATL;7;griffaj01;AJ Griffin;16:50;2;6;.333;1;5;.200;0;0;;0;1;1;2;0;1;0;1;5;+7
+04/01/2023;ATL;8;holidaa01;Aaron Holiday;9:19;1;2;.500;0;1;.000;0;0;;0;0;0;0;0;0;0;1;2;-5
+04/01/2023;ATL;9;johnsja05;Jalen Johnson;4:21;1;1;1.000;0;0;;0;0;;1;0;1;1;0;0;0;1;2;+3
+04/01/2023;ATL;10;kaminfr01;Frank Kaminsky;2:24;0;0;;0;0;;0;0;;0;1;1;0;0;0;0;0;0;-2
+04/01/2023;ATL;11;holidju01;Justin Holiday;Did Not Play
+04/01/2023;ATL;12;krejcvi01;Vit Krejci;Did Not Play
+04/01/2023;ATL;0;sabondo01;Domantas Sabonis;39:30;7;13;.538;0;0;;6;8;.750;4;10;14;8;2;1;4;4;20;-5
+04/01/2023;ATL;1;foxde01;De'Aaron Fox;36:59;9;20;.450;0;1;.000;7;7;1.000;0;5;5;5;2;0;1;2;25;-7
+04/01/2023;ATL;2;barneha02;Harrison Barnes;36:53;7;15;.467;2;7;.286;6;6;1.000;2;2;4;1;1;0;1;1;22;+4
+04/01/2023;ATL;3;huertke01;Kevin Huerter;34:00;8;15;.533;4;9;.444;4;4;1.000;0;3;3;5;1;0;3;4;24;0
+04/01/2023;ATL;4;murrake02;Keegan Murray;26:25;3;7;.429;2;3;.667;0;0;;3;4;7;1;1;2;0;3;8;+2
+04/01/2023;ATL;5;Reserves;Reserves
+04/01/2023;ATL;6;mitchda01;Davion Mitchell;24:04;2;4;.500;1;1;1.000;0;0;;0;0;0;0;0;0;1;1;5;-4
+04/01/2023;ATL;7;monkma01;Malik Monk;19:19;3;9;.333;1;4;.250;2;2;1.000;0;2;2;5;2;0;0;0;9;0
+04/01/2023;ATL;8;lylestr01;Trey Lyles;13:55;1;1;1.000;0;0;;0;0;;1;4;5;1;0;0;0;2;2;-7
+04/01/2023;ATL;9;holmeri01;Richaun Holmes;4:52;0;2;.000;0;0;;0;0;;0;2;2;0;0;0;0;0;0;0
+04/01/2023;ATL;10;daviste02;Terence Davis;4:03;1;2;.500;0;0;;0;0;;0;0;0;0;0;0;0;2;2;+2
+04/01/2023;ATL;11;dellama01;Matthew Dellavedova;Did Not Play
+04/01/2023;ATL;12;lenal01;Alex Len;Did Not Play
+04/01/2023;ATL;13;metuch01;Chimezie Metu;Did Not Play
+04/01/2023;ATL;14;okpalkz01;KZ Okpala;Did Not Play

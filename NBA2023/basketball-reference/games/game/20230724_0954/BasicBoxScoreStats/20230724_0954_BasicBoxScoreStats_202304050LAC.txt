@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+05/04/2023;LAL;0;russeda01;D'Angelo Russell;39:39;6;13;.462;2;6;.333;1;2;.500;1;2;3;7;0;0;1;1;15;+8
+05/04/2023;LAL;1;jamesle01;LeBron James;35:06;13;20;.650;4;6;.667;3;5;.600;0;8;8;7;1;1;6;0;33;-10
+05/04/2023;LAL;2;davisan02;Anthony Davis;32:19;7;14;.500;0;1;.000;3;4;.750;4;7;11;3;1;2;1;2;17;+9
+05/04/2023;LAL;3;reaveau01;Austin Reaves;30:41;6;11;.545;3;6;.500;5;5;1.000;0;4;4;2;0;0;2;5;20;+9
+05/04/2023;LAL;4;vandeja01;Jarred Vanderbilt;24:34;3;5;.600;0;1;.000;2;4;.500;3;3;6;1;1;0;2;2;8;+12
+05/04/2023;LAL;5;Reserves;Reserves
+05/04/2023;LAL;6;browntr01;Troy Brown Jr.;18:31;2;5;.400;2;4;.500;0;0;;0;3;3;1;0;0;1;1;6;0
+05/04/2023;LAL;7;hachiru01;Rui Hachimura;17:15;1;5;.200;0;1;.000;2;2;1.000;1;2;3;0;0;0;0;2;4;-14
+05/04/2023;LAL;8;gabriwe01;Wenyen Gabriel;15:41;3;6;.500;0;2;.000;0;0;;1;3;4;2;1;0;1;3;6;-16
+05/04/2023;LAL;9;schrode01;Dennis Schröder;13:27;1;6;.167;0;1;.000;0;2;.000;0;1;1;4;0;0;0;1;2;-13
+05/04/2023;LAL;10;beaslma01;Malik Beasley;12:47;3;4;.750;1;1;1.000;0;0;;0;1;1;0;0;0;0;0;7;-20
+05/04/2023;LAL;11;bambamo01;Mo Bamba;Did Not Play
+05/04/2023;LAL;12;chrisma02;Max Christie;Did Not Play
+05/04/2023;LAL;13;reedda01;Davon Reed;Did Not Play
+05/04/2023;LAL;14;walkelo01;Lonnie Walker IV;Did Not Play
+05/04/2023;LAL;0;leonaka01;Kawhi Leonard;42:56;9;17;.529;4;7;.571;3;4;.750;1;6;7;4;0;0;1;2;25;-1
+05/04/2023;LAL;1;zubaciv01;Ivica Zubac;33:00;6;10;.600;0;0;;5;6;.833;4;9;13;1;2;1;2;2;17;+9
+05/04/2023;LAL;2;batumni01;Nicolas Batum;29:57;1;7;.143;1;7;.143;2;2;1.000;0;2;2;1;2;1;0;2;5;+13
+05/04/2023;LAL;3;gordoer01;Eric Gordon;23:29;3;7;.429;3;6;.500;0;0;;0;3;3;3;1;0;2;0;9;+1
+05/04/2023;LAL;4;westbru01;Russell Westbrook;20:55;6;12;.500;2;4;.500;0;1;.000;0;3;3;4;1;1;3;0;14;-1
+05/04/2023;LAL;5;Reserves;Reserves
+05/04/2023;LAL;6;powelno01;Norman Powell;35:27;8;15;.533;1;4;.250;10;10;1.000;0;2;2;4;2;1;1;5;27;-4
+05/04/2023;LAL;7;hylanbo01;Bones Hyland;20:51;4;7;.571;3;6;.500;3;4;.750;0;2;2;4;1;0;1;3;14;+6
+05/04/2023;LAL;8;mannte01;Terance Mann;19:05;4;5;.800;2;2;1.000;0;0;;0;3;3;2;0;0;1;1;10;+12
+05/04/2023;LAL;9;plumlma01;Mason Plumlee;14:20;2;2;1.000;0;0;;0;0;;0;3;3;0;0;0;1;3;4;0
+05/04/2023;LAL;10;bostobr01;Brandon Boston Jr.;Did Not Play
+05/04/2023;LAL;11;coffeam01;Amir Coffey;Did Not Play
+05/04/2023;LAL;12;covinro01;Robert Covington;Did Not Play
+05/04/2023;LAL;13;diabamo01;Moussa Diabaté;Did Not Play
+05/04/2023;LAL;14;moonxa01;Xavier Moon;Did Not Play

@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+01/11/2022;CHI;0;lavinza01;Zach LaVine;37:13;10;21;.476;5;11;.455;4;4;1.000;1;2;3;5;0;0;1;2;29;+7
+01/11/2022;CHI;1;dosunay01;Ayo Dosunmu;33:01;7;11;.636;1;4;.250;2;2;1.000;0;3;3;4;3;0;2;2;17;+12
+01/11/2022;CHI;2;derozde01;DeMar DeRozan;32:45;8;21;.381;1;2;.500;3;3;1.000;0;4;4;1;3;0;1;2;20;-1
+01/11/2022;CHI;3;vucevni01;Nikola Vučević;31:56;3;8;.375;0;1;.000;1;2;.500;3;12;15;2;1;0;1;2;7;+5
+01/11/2022;CHI;4;willipa01;Patrick Williams;29:58;5;10;.500;0;3;.000;2;2;1.000;3;4;7;1;1;2;3;2;12;-8
+01/11/2022;CHI;5;Reserves;Reserves
+01/11/2022;CHI;6;carusal01;Alex Caruso;25:01;1;4;.250;1;2;.500;1;2;.500;0;4;4;4;0;0;0;1;4;+11
+01/11/2022;CHI;7;dragigo01;Goran Dragić;19:30;4;8;.500;4;6;.667;3;4;.750;0;2;2;2;0;1;1;0;15;+7
+01/11/2022;CHI;8;jonesde02;Derrick Jones Jr.;16:04;1;4;.250;0;1;.000;2;2;1.000;3;1;4;1;0;1;0;0;4;+4
+01/11/2022;CHI;9;greenja02;Javonte Green;14:32;0;2;.000;0;0;;0;0;;1;1;2;0;0;0;0;2;0;+8
+01/11/2022;CHI;10;bradlto01;Tony Bradley;Did Not Play
+01/11/2022;CHI;11;drumman01;Andre Drummond;Not With Team
+01/11/2022;CHI;12;hillma01;Malcolm Hill;Did Not Play
+01/11/2022;CHI;13;simonma01;Marko Simonovic;Did Not Play
+01/11/2022;CHI;14;terryda01;Dalen Terry;Did Not Play
+01/11/2022;CHI;0;duranke01;Kevin Durant;37:59;9;16;.563;2;4;.500;12;12;1.000;0;9;9;6;1;2;7;3;32;-7
+01/11/2022;CHI;1;claxtni01;Nic Claxton;34:35;4;4;1.000;0;0;;2;4;.500;0;10;10;2;0;1;3;2;10;-4
+01/11/2022;CHI;2;onealro01;Royce O'Neale;33:42;8;12;.667;4;6;.667;0;0;;2;3;5;3;1;0;1;3;20;-11
+01/11/2022;CHI;3;irvinky01;Kyrie Irving;32:46;2;12;.167;0;6;.000;0;0;;0;6;6;7;0;1;3;4;4;-14
+01/11/2022;CHI;4;harrijo01;Joe Harris;21:13;3;8;.375;2;7;.286;0;2;.000;0;2;2;2;0;0;1;1;8;-4
+01/11/2022;CHI;5;Reserves;Reserves
+01/11/2022;CHI;6;watanyu01;Yuta Watanabe;27:48;4;6;.667;2;3;.667;0;0;;2;2;4;0;0;2;0;0;10;-12
+01/11/2022;CHI;7;sumneed01;Edmond Sumner;21:58;2;6;.333;0;1;.000;0;0;;0;1;1;5;0;1;1;2;4;+1
+01/11/2022;CHI;8;dukeda01;David Duke Jr.;18:42;1;4;.250;0;1;.000;0;0;;0;0;0;2;2;0;2;2;2;+6
+01/11/2022;CHI;9;millspa02;Patty Mills;9:39;3;6;.500;2;4;.500;1;1;1.000;0;1;1;0;0;0;0;3;9;-4
+01/11/2022;CHI;10;edwarke02;Kessler Edwards;0:49;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;+2
+01/11/2022;CHI;11;thomaca02;Cam Thomas;0:49;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;+2
+01/11/2022;CHI;12;morrima02;Markieff Morris;Did Not Play
+01/11/2022;CHI;13;sharpda01;Day'Ron Sharpe;Did Not Play

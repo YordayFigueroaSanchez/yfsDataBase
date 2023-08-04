@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+15/11/2022;MEM;0;brookdi01;Dillon Brooks;37:21;6;18;.333;2;9;.222;5;6;.833;0;2;2;1;1;0;1;3;19;+1
+15/11/2022;MEM;1;konchjo01;John Konchar;36:31;4;6;.667;1;3;.333;0;0;;2;6;8;2;1;0;1;4;9;-6
+15/11/2022;MEM;2;moranja01;Ja Morant;36:02;13;27;.481;2;6;.333;8;11;.727;3;5;8;4;3;0;3;1;36;+5
+15/11/2022;MEM;3;jacksja02;Jaren Jackson Jr.;25:02;3;14;.214;0;7;.000;1;2;.500;2;4;6;0;0;5;2;1;7;-6
+15/11/2022;MEM;4;adamsst01;Steven Adams;12:49;1;2;.500;0;0;;0;2;.000;2;3;5;1;0;0;2;3;2;-2
+15/11/2022;MEM;5;Reserves;Reserves
+15/11/2022;MEM;6;clarkbr01;Brandon Clarke;33:17;6;12;.500;1;1;1.000;2;2;1.000;4;9;13;3;0;3;2;1;15;-12
+15/11/2022;MEM;7;aldamsa01;Santi Aldama;24:52;3;6;.500;1;3;.333;1;2;.500;1;6;7;1;1;0;0;3;8;-2
+15/11/2022;MEM;8;jonesty01;Tyus Jones;19:36;1;4;.250;1;4;.250;0;0;;0;1;1;3;0;0;0;0;3;-17
+15/11/2022;MEM;9;roddyda01;David Roddy;14:30;1;3;.333;1;2;.500;0;0;;0;1;1;1;0;0;0;1;3;-16
+15/11/2022;MEM;10;chandke01;Kennedy Chandler;Did Not Play
+15/11/2022;MEM;11;laravja01;Jake LaRavia;Did Not Play
+15/11/2022;MEM;12;tillmxa01;Xavier Tillman Sr.;Did Not Play
+15/11/2022;MEM;0;ingrabr01;Brandon Ingram;37:38;7;15;.467;2;2;1.000;3;3;1.000;1;3;4;2;0;1;1;2;19;-1
+15/11/2022;MEM;1;mccolcj01;CJ McCollum;36:54;11;23;.478;7;13;.538;1;2;.500;1;2;3;9;0;1;2;2;30;+7
+15/11/2022;MEM;2;murphtr02;Trey Murphy III;25:08;5;11;.455;3;6;.500;0;0;;0;2;2;1;1;1;0;1;13;-5
+15/11/2022;MEM;3;joneshe01;Herbert Jones;22:33;4;7;.571;2;3;.667;0;1;.000;1;2;3;2;0;1;0;4;10;+3
+15/11/2022;MEM;4;valanjo01;Jonas Valančiūnas;13:41;1;4;.250;0;1;.000;0;0;;1;2;3;2;0;0;4;4;2;-5
+15/11/2022;MEM;5;Reserves;Reserves
+15/11/2022;MEM;6;nancela02;Larry Nance Jr.;30:47;8;10;.800;1;1;1.000;2;2;1.000;2;5;7;2;0;2;0;1;19;+16
+15/11/2022;MEM;7;marshna01;Naji Marshall;25:27;1;5;.200;0;2;.000;2;2;1.000;0;8;8;4;0;0;2;2;4;+8
+15/11/2022;MEM;8;alvarjo01;Jose Alvarado;21:10;5;11;.455;2;6;.333;0;0;;0;3;3;6;0;1;1;3;12;+15
+15/11/2022;MEM;9;daniedy01;Dyson Daniels;17:13;1;4;.250;1;3;.333;0;0;;1;8;9;1;1;1;0;1;3;+13
+15/11/2022;MEM;10;grahade01;Devonte' Graham;9:29;0;1;.000;0;1;.000;1;2;.500;0;1;1;2;0;0;0;0;1;+4
+15/11/2022;MEM;11;hayesja02;Jaxson Hayes;Did Not Play
+15/11/2022;MEM;12;hernawi01;Willy Hernangómez;Did Not Play
+15/11/2022;MEM;13;templga01;Garrett Temple;Did Not Play

@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;TS%;eFG%;3PAr;FTr;ORB%;DRB%;TRB%;AST%;STL%;BLK%;TOV%;USG%;ORtg;DRtg;BPM
+08/03/2023;CLE;0;garlada01;Darius Garland;38:59;.671;.594;.375;.375;0.0;0.0;0.0;29.6;2.6;0.0;13.9;25.8;125;112;4.1
+08/03/2023;CLE;1;mitchdo01;Donovan Mitchell;33:38;.466;.417;.389;.167;0.0;16.3;8.3;19.7;3.1;0.0;13.4;30.8;90;107;-4.6
+08/03/2023;CLE;2;allenja01;Jarrett Allen;32:45;.689;.700;.000;.200;12.9;37.7;25.5;10.2;1.6;3.6;8.4;16.8;135;103;4.4
+08/03/2023;CLE;3;mobleev01;Evan Mobley;31:52;.644;.556;.222;.667;8.9;17.2;13.1;28.7;1.6;7.3;20.5;21.3;121;106;7.1
+08/03/2023;CLE;4;okorois01;Isaac Okoro;28:59;.929;.929;.571;.000;0.0;0.0;0.0;10.8;3.6;0.0;12.5;12.8;149;110;9.0
+08/03/2023;CLE;5;Reserves;Reserves
+08/03/2023;CLE;6;stevela01;Lamar Stevens;26:30;.381;.286;.429;.286;5.3;10.4;7.9;0.0;3.9;0.0;11.3;15.6;79;107;-5.9
+08/03/2023;CLE;7;leverca01;Caris LeVert;24:23;.583;.583;.667;.000;5.8;33.7;20.0;5.9;2.1;0.0;25.0;15.2;91;105;-4.0
+08/03/2023;CLE;8;rubiori01;Ricky Rubio;22:54;.357;.357;.286;.000;0.0;0.0;0.0;24.1;4.5;0.0;12.5;16.2;86;108;-2.6
+08/03/2023;CLE;9;greenda02;Danny Green;Did Not Play
+08/03/2023;CLE;10;lopezro01;Robin Lopez;Did Not Play
+08/03/2023;CLE;11;merrisa01;Sam Merrill;Did Not Play
+08/03/2023;CLE;12;netora01;Raul Neto;Did Not Play
+08/03/2023;CLE;13;osmande01;Cedi Osman;Did Not Play
+08/03/2023;CLE;14;wadede01;Dean Wade;Did Not Play
+08/03/2023;CLE;0;herroty01;Tyler Herro;35:30;.640;.600;.533;.333;0.0;19.9;9.8;26.5;2.9;0.0;14.9;26.1;119;109;8.0
+08/03/2023;CLE;1;butleji01;Jimmy Butler;35:03;.680;.571;.071;1.071;15.7;4.0;9.9;28.5;2.9;2.6;8.8;29.5;143;110;14.5
+08/03/2023;CLE;2;adebaba01;Bam Adebayo;28:42;.715;.727;.000;.182;4.8;0.0;2.4;7.7;0.0;6.4;20.2;23.8;109;114;-1.2
+08/03/2023;CLE;3;loveke01;Kevin Love;20:31;.571;.571;.286;.000;13.4;41.3;27.1;18.2;2.5;0.0;30.0;22.3;92;106;0.0
+08/03/2023;CLE;4;vincega01;Gabe Vincent;18:27;.000;.000;1.000;.000;0.0;0.0;0.0;14.9;2.8;0.0;66.7;7.5;37;113;-6.9
+08/03/2023;CLE;5;Reserves;Reserves
+08/03/2023;CLE;6;oladivi01;Victor Oladipo;31:30;.414;.400;.800;.200;4.4;13.4;8.8;20.0;0.0;0.0;31.5;23.1;73;117;-11.6
+08/03/2023;CLE;7;martica02;Caleb Martin;29:58;.667;.667;.333;.000;4.6;14.1;9.3;5.0;0.0;3.1;40.0;7.6;88;114;-2.6
+08/03/2023;CLE;8;strusma01;Max Strus;21:01;.483;.375;1.000;.375;0.0;13.4;6.6;7.5;0.0;0.0;0.0;20.3;116;117;-3.6
+08/03/2023;CLE;9;zelleco01;Cody Zeller;19:18;.798;1.000;.000;2.000;7.1;51.2;28.8;7.6;2.7;0.0;51.5;9.2;87;104;-1.6
+08/03/2023;CLE;10;cainja01;Jamal Cain;Did Not Play
+08/03/2023;CLE;11;hasleud01;Udonis Haslem;Did Not Play
+08/03/2023;CLE;12;highsha01;Haywood Highsmith;Did Not Play
+08/03/2023;CLE;13;robindu01;Duncan Robinson;Did Not Play
+08/03/2023;CLE;14;yurtsom01;Omer Yurtseven;Did Not Play

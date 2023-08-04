@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+02/05/2023;LAL;0;davisan02;Anthony Davis;43:50;11;19;.579;0;2;.000;8;8;1.000;4;19;23;5;0;4;1;2;30;+1
+02/05/2023;LAL;1;jamesle01;LeBron James;40:05;9;24;.375;1;8;.125;3;4;.750;2;9;11;4;0;3;4;0;22;+1
+02/05/2023;LAL;2;reaveau01;Austin Reaves;38:32;4;9;.444;2;5;.400;0;0;;2;3;5;3;0;0;0;2;10;+3
+02/05/2023;LAL;3;russeda01;D'Angelo Russell;32:56;9;19;.474;1;5;.200;0;1;.000;0;3;3;6;1;1;1;1;19;+1
+02/05/2023;LAL;4;vandeja01;Jarred Vanderbilt;25:47;2;7;.286;1;3;.333;3;4;.750;3;3;6;2;2;2;1;4;8;+8
+02/05/2023;LAL;5;Reserves;Reserves
+02/05/2023;LAL;6;schrode01;Dennis Schröder;31:12;5;10;.500;0;1;.000;9;10;.900;0;2;2;3;1;0;0;2;19;+1
+02/05/2023;LAL;7;browntr01;Troy Brown Jr.;12:10;1;2;.500;1;1;1.000;0;0;;0;0;0;0;0;0;0;1;3;+4
+02/05/2023;LAL;8;hachiru01;Rui Hachimura;11:18;2;2;1.000;0;0;;2;2;1.000;1;0;1;1;0;0;1;0;6;+2
+02/05/2023;LAL;9;gabriwe01;Wenyen Gabriel;4:10;0;0;;0;0;;0;0;;1;1;2;0;0;0;0;0;0;+4
+02/05/2023;LAL;10;beaslma01;Malik Beasley;Did Not Play
+02/05/2023;LAL;11;chrisma02;Max Christie;Did Not Play
+02/05/2023;LAL;12;harrish01;Shaquille Harrison;Did Not Play
+02/05/2023;LAL;13;thomptr01;Tristan Thompson;Did Not Play
+02/05/2023;LAL;14;walkelo01;Lonnie Walker IV;Did Not Play
+02/05/2023;LAL;0;curryst01;Stephen Curry;37:30;10;24;.417;6;13;.462;1;1;1.000;0;6;6;3;1;0;5;3;27;-1
+02/05/2023;LAL;1;thompkl01;Klay Thompson;37:27;9;25;.360;6;16;.375;1;2;.500;0;3;3;4;0;0;0;3;25;+1
+02/05/2023;LAL;2;greendr01;Draymond Green;33:52;3;9;.333;0;1;.000;0;0;;1;3;4;7;1;3;0;4;6;-8
+02/05/2023;LAL;3;wiggian01;Andrew Wiggins;33:44;6;14;.429;1;5;.200;2;2;1.000;3;3;6;0;0;0;2;3;15;-2
+02/05/2023;LAL;4;looneke01;Kevon Looney;29:29;5;11;.455;0;0;;0;0;;7;16;23;5;0;0;1;3;10;-2
+02/05/2023;LAL;5;Reserves;Reserves
+02/05/2023;LAL;6;poolejo01;Jordan Poole;29:55;7;15;.467;6;11;.545;1;1;1.000;0;0;0;6;1;0;0;5;21;+7
+02/05/2023;LAL;7;divindo01;Donte DiVincenzo;12:11;0;1;.000;0;1;.000;0;0;;0;3;3;2;2;0;0;1;0;-7
+02/05/2023;LAL;8;paytoga02;Gary Payton II;12:03;1;3;.333;0;2;.000;0;0;;2;1;3;2;0;0;0;1;2;-6
+02/05/2023;LAL;9;greenja01;JaMychal Green;7:45;2;4;.500;2;4;.500;0;0;;0;0;0;0;0;0;0;1;6;-5
+02/05/2023;LAL;10;moodymo01;Moses Moody;6:04;0;0;;0;0;;0;0;;1;0;1;1;0;0;0;0;0;-2
+02/05/2023;LAL;11;kuminjo01;Jonathan Kuminga;Did Not Play
+02/05/2023;LAL;12;lamban01;Anthony Lamb;Did Not Play

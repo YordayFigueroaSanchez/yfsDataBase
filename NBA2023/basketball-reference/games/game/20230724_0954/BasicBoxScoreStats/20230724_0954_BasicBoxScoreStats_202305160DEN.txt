@@ -1,0 +1,32 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+16/05/2023;LAL;0;reaveau01;Austin Reaves;42:08;7;14;.500;5;9;.556;4;4;1.000;1;1;2;8;0;0;0;5;23;-3
+16/05/2023;LAL;1;davisan02;Anthony Davis;41:50;14;23;.609;1;1;1.000;11;11;1.000;1;9;10;3;3;2;0;3;40;-8
+16/05/2023;LAL;2;jamesle01;LeBron James;39:52;9;16;.563;0;4;.000;8;11;.727;3;9;12;9;0;1;3;1;26;-6
+16/05/2023;LAL;3;schrode01;Dennis Schröder;32:02;2;3;.667;2;2;1.000;0;0;;0;3;3;5;0;0;2;3;6;-6
+16/05/2023;LAL;4;russeda01;D'Angelo Russell;26:08;4;11;.364;0;3;.000;0;0;;0;0;0;3;0;0;1;1;8;-25
+16/05/2023;LAL;5;Reserves;Reserves
+16/05/2023;LAL;6;hachiru01;Rui Hachimura;28:09;8;11;.727;1;1;1.000;0;0;;0;0;0;1;0;1;0;4;17;+10
+16/05/2023;LAL;7;walkelo01;Lonnie Walker IV;19:37;2;6;.333;2;4;.500;0;0;;0;2;2;0;2;0;0;1;6;+3
+16/05/2023;LAL;8;vandeja01;Jarred Vanderbilt;10:12;0;0;;0;0;;0;0;;0;1;1;1;1;0;1;3;0;+5
+16/05/2023;LAL;9;beaslma01;Malik Beasley;Did Not Play
+16/05/2023;LAL;10;browntr01;Troy Brown Jr.;Did Not Play
+16/05/2023;LAL;11;chrisma02;Max Christie;Did Not Play
+16/05/2023;LAL;12;gabriwe01;Wenyen Gabriel;Did Not Play
+16/05/2023;LAL;13;harrish01;Shaquille Harrison;Did Not Play
+16/05/2023;LAL;14;thomptr01;Tristan Thompson;Did Not Play
+16/05/2023;LAL;0;jokicni01;Nikola Jokić;42:26;12;17;.706;3;3;1.000;7;8;.875;6;15;21;14;0;2;5;4;34;+11
+16/05/2023;LAL;1;murraja01;Jamal Murray;37:03;12;20;.600;4;8;.500;3;3;1.000;1;4;5;5;3;1;1;5;31;+3
+16/05/2023;LAL;2;caldwke01;Kentavious Caldwell-Pope;35:59;9;17;.529;3;8;.375;0;0;;1;1;2;3;2;1;1;5;21;+16
+16/05/2023;LAL;3;gordoaa01;Aaron Gordon;35:59;4;9;.444;0;3;.000;4;8;.500;3;0;3;3;0;0;2;1;12;+11
+16/05/2023;LAL;4;portemi01;Michael Porter Jr.;34:33;6;12;.500;3;6;.500;0;0;;3;7;10;2;0;2;1;2;15;+20
+16/05/2023;LAL;5;Reserves;Reserves
+16/05/2023;LAL;6;brownbr01;Bruce Brown;24:11;6;11;.545;1;1;1.000;3;3;1.000;0;4;4;2;0;0;0;2;16;-5
+16/05/2023;LAL;7;greenje02;Jeff Green;17:35;1;3;.333;1;1;1.000;0;0;;1;0;1;0;0;0;1;1;3;-10
+16/05/2023;LAL;8;braunch01;Christian Braun;12:13;0;2;.000;0;2;.000;0;0;;0;1;1;0;0;1;0;1;0;-16
+16/05/2023;LAL;9;bryanth01;Thomas Bryant;Did Not Play
+16/05/2023;LAL;10;cancavl01;Vlatko Čančar;Did Not Play
+16/05/2023;LAL;11;jacksre01;Reggie Jackson;Did Not Play
+16/05/2023;LAL;12;jordade01;DeAndre Jordan;Did Not Play
+16/05/2023;LAL;13;nnajize01;Zeke Nnaji;Did Not Play
+16/05/2023;LAL;14;smithis01;Ish Smith;Did Not Play
+16/05/2023;LAL;15;watsope01;Peyton Watson;Did Not Play

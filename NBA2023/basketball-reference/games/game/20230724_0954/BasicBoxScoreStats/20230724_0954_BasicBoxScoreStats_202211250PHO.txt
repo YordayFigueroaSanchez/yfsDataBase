@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+25/11/2022;DET;0;hayeski01;Killian Hayes;37:46;7;18;.389;1;4;.250;2;2;1.000;2;6;8;9;3;0;3;5;17;-8
+25/11/2022;DET;1;bogdabo02;Bojan Bogdanović;33:13;9;21;.429;1;4;.250;0;0;;1;3;4;3;0;0;5;2;19;-6
+25/11/2022;DET;2;baglema01;Marvin Bagley III;31:19;6;12;.500;1;1;1.000;0;0;;7;5;12;1;1;1;1;2;13;-9
+25/11/2022;DET;3;liveris01;Isaiah Livers;30:08;3;7;.429;1;4;.250;0;0;;0;1;1;1;1;0;0;2;7;-15
+25/11/2022;DET;4;mcgruro01;Rodney McGruder;19:57;3;7;.429;2;6;.333;0;0;;3;3;6;2;0;0;0;0;8;-12
+25/11/2022;DET;5;Reserves;Reserves
+25/11/2022;DET;6;knoxke01;Kevin Knox;29:19;3;7;.429;1;3;.333;0;0;;2;2;4;1;1;2;0;2;7;+5
+25/11/2022;DET;7;diallha01;Hamidou Diallo;21:47;4;6;.667;0;0;;2;2;1.000;0;6;6;1;0;0;5;2;10;+9
+25/11/2022;DET;8;burksal01;Alec Burks;17:38;4;12;.333;2;4;.500;7;8;.875;0;2;2;1;0;0;3;3;17;+6
+25/11/2022;DET;9;durenja01;Jalen Duren;14:25;0;1;.000;0;0;;4;4;1.000;3;2;5;2;0;0;1;3;4;+6
+25/11/2022;DET;10;noelne01;Nerlens Noel;2:16;0;1;.000;0;0;;0;0;;1;0;1;0;0;0;0;1;0;-3
+25/11/2022;DET;11;keybr01;Braxton Key;2:12;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;-3
+25/11/2022;DET;12;iveyja01;Jaden Ivey;Did Not Dress
+25/11/2022;DET;0;bookede01;Devin Booker;35:42;8;17;.471;2;7;.286;3;7;.429;0;7;7;5;1;1;2;2;21;+10
+25/11/2022;DET;1;bridgmi01;Mikal Bridges;34:40;6;17;.353;3;6;.500;0;0;;1;1;2;2;2;0;1;4;15;+3
+25/11/2022;DET;2;craigto01;Torrey Craig;33:08;1;7;.143;0;4;.000;0;0;;2;5;7;1;0;2;1;3;2;+6
+25/11/2022;DET;3;payneca01;Cameron Payne;31:31;7;12;.583;0;2;.000;2;4;.500;1;1;2;10;1;0;2;1;16;+8
+25/11/2022;DET;4;aytonde01;Deandre Ayton;29:58;11;13;.846;0;0;;6;7;.857;2;10;12;1;0;2;0;0;28;+13
+25/11/2022;DET;5;Reserves;Reserves
+25/11/2022;DET;6;leeda03;Damion Lee;25:24;3;9;.333;1;5;.200;2;2;1.000;4;1;5;3;1;0;2;1;9;+3
+25/11/2022;DET;7;biyombi01;Bismack Biyombo;18:02;2;3;.667;0;0;;1;2;.500;0;5;5;1;0;1;3;3;5;-7
+25/11/2022;DET;8;washidu02;Duane Washington Jr.;17:26;2;5;.400;1;3;.333;0;0;;0;1;1;1;0;0;2;2;5;-3
+25/11/2022;DET;9;okogijo01;Josh Okogie;14:09;2;4;.500;0;2;.000;3;4;.750;1;1;2;1;2;1;0;2;7;-3
+25/11/2022;DET;10;landajo01;Jock Landale;Did Not Play
+25/11/2022;DET;11;paulch01;Chris Paul;Did Not Dress
+25/11/2022;DET;12;saricda01;Dario Šarić;Did Not Play
+25/11/2022;DET;13;wainris01;Ish Wainright;Did Not Play

@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+06/01/2023;BRK;0;irvinky01;Kyrie Irving;38:18;7;22;.318;3;10;.300;2;2;1.000;2;3;5;6;0;1;2;3;19;-9
+06/01/2023;BRK;1;duranke01;Kevin Durant;37:52;9;26;.346;4;7;.571;11;11;1.000;1;9;10;3;0;2;4;1;33;+20
+06/01/2023;BRK;2;onealro01;Royce O'Neale;36:12;5;8;.625;4;7;.571;0;0;;0;7;7;1;2;2;2;3;14;+2
+06/01/2023;BRK;3;simmobe01;Ben Simmons;33:32;3;6;.500;0;0;;0;0;;1;5;6;9;3;1;1;4;6;-6
+06/01/2023;BRK;4;claxtni01;Nic Claxton;31:23;4;4;1.000;0;0;;1;1;1.000;5;4;9;4;1;5;1;3;9;+15
+06/01/2023;BRK;5;Reserves;Reserves
+06/01/2023;BRK;6;warretj01;T.J. Warren;23:38;5;8;.625;1;2;.500;4;4;1.000;0;1;1;0;1;0;0;3;15;+15
+06/01/2023;BRK;7;curryse01;Seth Curry;15:58;3;9;.333;2;5;.400;0;0;;0;1;1;2;1;0;1;2;8;-2
+06/01/2023;BRK;8;harrijo01;Joe Harris;14:15;0;1;.000;0;1;.000;1;2;.500;1;3;4;1;0;1;1;3;1;-10
+06/01/2023;BRK;9;watanyu01;Yuta Watanabe;8:50;1;1;1.000;1;1;1.000;0;0;;0;0;0;0;0;0;0;1;3;+5
+06/01/2023;BRK;10;millspa02;Patty Mills;Did Not Play
+06/01/2023;BRK;11;morrima02;Markieff Morris;Did Not Play
+06/01/2023;BRK;12;sumneed01;Edmond Sumner;Did Not Play
+06/01/2023;BRK;13;thomaca02;Cam Thomas;Did Not Play
+06/01/2023;BRK;0;mccolcj01;CJ McCollum;37:16;10;24;.417;4;8;.500;4;7;.571;1;5;6;6;0;2;3;1;28;-16
+06/01/2023;BRK;1;marshna01;Naji Marshall;33:15;6;11;.545;3;5;.600;8;10;.800;0;9;9;1;3;0;3;0;23;+3
+06/01/2023;BRK;2;murphtr02;Trey Murphy III;30:37;3;5;.600;1;2;.500;4;4;1.000;1;0;1;0;0;0;1;2;11;-11
+06/01/2023;BRK;3;valanjo01;Jonas Valančiūnas;25:55;5;11;.455;0;0;;2;2;1.000;4;6;10;0;0;0;3;3;12;-7
+06/01/2023;BRK;4;joneshe01;Herbert Jones;25:30;2;7;.286;1;2;.500;0;0;;1;1;2;3;0;1;0;6;5;-16
+06/01/2023;BRK;5;Reserves;Reserves
+06/01/2023;BRK;6;alvarjo01;Jose Alvarado;32:09;6;16;.375;3;10;.300;2;2;1.000;0;5;5;2;0;0;3;2;17;+8
+06/01/2023;BRK;7;nancela02;Larry Nance Jr.;20:35;0;4;.000;0;1;.000;0;0;;2;6;8;0;0;1;1;2;0;+4
+06/01/2023;BRK;8;hayesja02;Jaxson Hayes;12:39;2;7;.286;0;0;;0;0;;4;2;6;2;1;0;0;2;4;+3
+06/01/2023;BRK;9;grahade01;Devonte' Graham;12:10;1;3;.333;0;1;.000;0;0;;0;2;2;0;2;0;1;1;2;+5
+06/01/2023;BRK;10;daniedy01;Dyson Daniels;9:52;0;0;;0;0;;0;0;;1;1;2;2;1;0;0;1;0;-3
+06/01/2023;BRK;11;hernawi01;Willy Hernangómez;Did Not Play
+06/01/2023;BRK;12;lewiski01;Kira Lewis Jr.;Did Not Play
+06/01/2023;BRK;13;seabrde01;Dereon Seabron;Did Not Play
+06/01/2023;BRK;14;templga01;Garrett Temple;Did Not Play

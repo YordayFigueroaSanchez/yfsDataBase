@@ -1,0 +1,32 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+21/10/2022;CHI;0;derozde01;DeMar DeRozan;36:47;11;23;.478;0;2;.000;10;11;.909;1;5;6;6;1;0;3;1;32;+1
+21/10/2022;CHI;1;dosunay01;Ayo Dosunmu;31:00;3;9;.333;1;4;.250;0;0;;1;4;5;2;1;0;0;3;7;-19
+21/10/2022;CHI;2;carusal01;Alex Caruso;30:45;1;4;.250;0;2;.000;1;2;.500;0;3;3;1;3;1;4;1;3;-8
+21/10/2022;CHI;3;vucevni01;Nikola Vučević;29:59;5;14;.357;2;7;.286;12;12;1.000;2;6;8;1;0;0;1;0;24;-10
+21/10/2022;CHI;4;willipa01;Patrick Williams;23:57;2;5;.400;1;3;.333;2;2;1.000;1;0;1;0;0;1;1;1;7;-23
+21/10/2022;CHI;5;Reserves;Reserves
+21/10/2022;CHI;6;whiteco01;Coby White;31:03;3;6;.500;2;4;.500;2;4;.500;0;2;2;1;1;0;1;1;10;+17
+21/10/2022;CHI;7;dragigo01;Goran Dragić;23:17;3;8;.375;1;3;.333;0;0;;2;0;2;5;0;0;0;4;7;+22
+21/10/2022;CHI;8;drumman01;Andre Drummond;18:01;5;6;.833;0;0;;0;2;.000;3;7;10;1;0;1;3;2;10;+8
+21/10/2022;CHI;9;greenja02;Javonte Green;15:11;0;4;.000;0;2;.000;0;0;;0;1;1;2;2;0;0;2;0;+2
+21/10/2022;CHI;10;bradlto01;Tony Bradley;Did Not Play
+21/10/2022;CHI;11;hillma01;Malcolm Hill;Did Not Play
+21/10/2022;CHI;12;jonesde02;Derrick Jones Jr.;Did Not Play
+21/10/2022;CHI;13;simonma01;Marko Simonovic;Did Not Play
+21/10/2022;CHI;14;terryda01;Dalen Terry;Did Not Play
+21/10/2022;CHI;0;bealbr01;Bradley Beal;36:39;9;14;.643;1;2;.500;0;0;;0;1;1;8;0;2;5;2;19;+4
+21/10/2022;CHI;1;kuzmaky01;Kyle Kuzma;33:54;8;16;.500;4;8;.500;6;7;.857;1;5;6;2;0;0;1;1;26;+6
+21/10/2022;CHI;2;porzikr01;Kristaps Porziņģis;28:48;6;13;.462;2;5;.400;0;0;;0;3;3;2;1;2;1;6;14;+17
+21/10/2022;CHI;3;morrimo01;Monte Morris;26:27;4;8;.500;1;3;.333;0;0;;0;4;4;3;1;1;0;0;9;+5
+21/10/2022;CHI;4;avdijde01;Deni Avdija;23:01;2;4;.500;2;2;1.000;0;0;;0;10;10;4;1;1;1;5;6;+16
+21/10/2022;CHI;5;Reserves;Reserves
+21/10/2022;CHI;6;hachiru01;Rui Hachimura;23:59;4;9;.444;0;2;.000;4;4;1.000;1;3;4;1;0;0;2;0;12;-17
+21/10/2022;CHI;7;wrighde01;Delon Wright;21:33;3;8;.375;0;3;.000;0;0;;2;1;3;4;3;1;2;1;6;-3
+21/10/2022;CHI;8;gaffoda01;Daniel Gafford;17:45;1;1;1.000;0;0;;0;0;;0;2;2;0;1;1;3;4;2;-15
+21/10/2022;CHI;9;bartowi01;Will Barton;17:17;3;6;.500;0;1;.000;0;0;;1;4;5;1;1;0;1;1;6;-5
+21/10/2022;CHI;10;gillan01;Anthony Gill;10:37;1;1;1.000;0;0;;0;0;;0;1;1;1;0;0;0;2;2;+2
+21/10/2022;CHI;11;davisjo06;Johnny Davis;Did Not Play
+21/10/2022;CHI;12;gibsota01;Taj Gibson;Did Not Play
+21/10/2022;CHI;13;goodwjo01;Jordan Goodwin;Did Not Play
+21/10/2022;CHI;14;schakjo01;Jordan Schakel;Did Not Play
+21/10/2022;CHI;15;toddis01;Isaiah Todd;Did Not Play

@@ -1,0 +1,26 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+04/04/2023;POR;0;mayssk01;Skylar Mays;35:42;9;16;.563;4;6;.667;2;2;1.000;1;7;8;7;1;0;0;3;24;-2
+04/04/2023;POR;1;eubandr01;Drew Eubanks;31:19;4;11;.364;0;2;.000;0;0;;6;2;8;3;0;4;1;3;8;-9
+04/04/2023;POR;2;sharpsh01;Shaedon Sharpe;29:26;8;18;.444;2;8;.250;2;4;.500;1;7;8;6;0;0;1;2;20;-12
+04/04/2023;POR;3;willije02;Jeenathan Williams;28:55;2;6;.333;0;3;.000;0;0;;0;1;1;3;3;2;0;1;4;-9
+04/04/2023;POR;4;knoxke01;Kevin Knox;24:56;2;10;.200;1;4;.250;1;2;.500;1;5;6;0;0;0;2;0;6;-11
+04/04/2023;POR;5;Reserves;Reserves
+04/04/2023;POR;6;harrish01;Shaquille Harrison;27:09;4;10;.400;0;2;.000;5;7;.714;0;3;3;1;2;0;1;1;13;0
+04/04/2023;POR;7;butlejo01;John Butler;25:03;4;9;.444;2;7;.286;0;0;;1;4;5;0;1;1;0;1;10;-8
+04/04/2023;POR;8;walkeja01;Jabari Walker;20:19;6;11;.545;3;5;.600;1;2;.500;1;5;6;1;0;0;2;4;16;-3
+04/04/2023;POR;9;minayju01;Justin Minaya;17:11;3;6;.500;2;5;.400;0;0;;2;2;4;2;0;0;1;3;8;+4
+04/04/2023;POR;10;reddica01;Cam Reddish;Did Not Dress
+04/04/2023;POR;11;watfotr01;Trendon Watford;Did Not Play
+04/04/2023;POR;0;banede01;Desmond Bane;36:28;12;22;.545;5;12;.417;1;2;.500;2;5;7;5;0;1;1;2;30;+5
+04/04/2023;POR;1;moranja01;Ja Morant;35:07;9;15;.600;2;6;.333;3;4;.750;0;6;6;9;1;1;2;0;23;+19
+04/04/2023;POR;2;kennalu01;Luke Kennard;34:09;6;11;.545;6;10;.600;2;2;1.000;1;4;5;2;2;0;1;0;20;+24
+04/04/2023;POR;3;jacksja02;Jaren Jackson Jr.;32:33;5;9;.556;0;1;.000;7;9;.778;0;7;7;2;0;1;2;4;17;+28
+04/04/2023;POR;4;tillmxa01;Xavier Tillman Sr.;13:00;0;4;.000;0;0;;0;0;;2;2;4;1;0;0;1;0;0;-5
+04/04/2023;POR;5;Reserves;Reserves
+04/04/2023;POR;6;roddyda01;David Roddy;27:04;6;9;.667;4;6;.667;0;0;;1;1;2;1;0;1;1;2;16;-4
+04/04/2023;POR;7;aldamsa01;Santi Aldama;23:17;3;7;.429;1;4;.250;1;2;.500;2;9;11;4;1;0;2;1;8;+8
+04/04/2023;POR;8;jonesty01;Tyus Jones;21:46;0;6;.000;0;6;.000;2;2;1.000;0;3;3;5;1;0;1;0;2;-10
+04/04/2023;POR;9;konchjo01;John Konchar;12:53;0;2;.000;0;2;.000;0;0;;0;3;3;1;0;1;0;1;0;-9
+04/04/2023;POR;10;loftoke01;Kenneth Lofton Jr.;3:42;1;2;.500;0;1;.000;1;1;1.000;0;1;1;0;0;0;0;0;3;-6
+04/04/2023;POR;11;chandke01;Kennedy Chandler;Did Not Play
+04/04/2023;POR;12;willivi01;Vince Williams Jr.;Did Not Play

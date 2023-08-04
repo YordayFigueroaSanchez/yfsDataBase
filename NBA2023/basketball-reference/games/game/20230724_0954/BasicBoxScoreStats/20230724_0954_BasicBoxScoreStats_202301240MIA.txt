@@ -1,0 +1,26 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+24/01/2023;BOS;0;pritcpa01;Payton Pritchard;42:28;4;14;.286;2;9;.222;0;0;;1;6;7;4;1;0;2;3;10;+1
+24/01/2023;BOS;1;tatumja01;Jayson Tatum;39:39;9;18;.500;2;5;.400;11;14;.786;0;14;14;7;0;0;7;4;31;-3
+24/01/2023;BOS;2;willigr01;Grant Williams;36:10;3;6;.500;3;3;1.000;1;2;.500;1;3;4;1;0;0;4;3;10;+3
+24/01/2023;BOS;3;whitede01;Derrick White;33:43;7;17;.412;2;7;.286;7;8;.875;1;2;3;6;2;1;1;4;23;-7
+24/01/2023;BOS;4;williro04;Robert Williams;31:25;5;6;.833;0;0;;1;1;1.000;2;6;8;0;0;2;3;3;11;+1
+24/01/2023;BOS;5;Reserves;Reserves
+24/01/2023;BOS;6;hausesa01;Sam Hauser;25:47;0;6;.000;0;5;.000;0;0;;0;3;3;2;1;2;0;2;0;-1
+24/01/2023;BOS;7;jacksju01;Justin Jackson;14:11;1;3;.333;1;3;.333;0;0;;0;5;5;0;0;0;0;1;3;-5
+24/01/2023;BOS;8;kornelu01;Luke Kornet;12:30;3;4;.750;0;0;;1;2;.500;0;0;0;0;1;1;0;1;7;-1
+24/01/2023;BOS;9;griffbl01;Blake Griffin;4:04;0;0;;0;0;;0;0;;0;0;0;1;0;0;0;1;0;-3
+24/01/2023;BOS;10;davisjd01;JD Davison;Did Not Play
+24/01/2023;BOS;11;kabenmf01;Mfiondu Kabengele;Did Not Play
+24/01/2023;BOS;0;adebaba01;Bam Adebayo;37:20;12;22;.545;0;0;;6;8;.750;4;11;15;1;2;1;3;2;30;+3
+24/01/2023;BOS;1;strusma01;Max Strus;36:53;4;10;.400;3;6;.500;2;2;1.000;2;5;7;1;2;0;0;2;13;+4
+24/01/2023;BOS;2;herroty01;Tyler Herro;36:20;4;19;.211;1;7;.143;0;0;;0;2;2;6;2;0;0;1;9;+11
+24/01/2023;BOS;3;lowryky01;Kyle Lowry;29:22;1;7;.143;0;4;.000;0;0;;2;3;5;8;0;0;2;2;2;-10
+24/01/2023;BOS;4;martica02;Caleb Martin;11:05;1;5;.200;1;2;.500;2;2;1.000;0;0;0;0;0;0;1;5;5;-7
+24/01/2023;BOS;5;Reserves;Reserves
+24/01/2023;BOS;6;highsha01;Haywood Highsmith;30:26;5;7;.714;4;4;1.000;1;2;.500;3;7;10;1;1;0;0;3;15;+12
+24/01/2023;BOS;7;vincega01;Gabe Vincent;25:05;1;7;.143;1;2;.500;4;4;1.000;0;1;1;3;0;0;0;0;7;+16
+24/01/2023;BOS;8;oladivi01;Victor Oladipo;22:47;5;16;.313;2;8;.250;0;1;.000;2;4;6;1;0;0;1;2;12;-14
+24/01/2023;BOS;9;robinor01;Orlando Robinson;10:40;1;1;1.000;0;0;;3;4;.750;1;4;5;0;0;1;0;1;5;0
+24/01/2023;BOS;10;cainja01;Jamal Cain;Did Not Play
+24/01/2023;BOS;11;dedmode01;Dewayne Dedmon;Did Not Play
+24/01/2023;BOS;12;hasleud01;Udonis Haslem;Did Not Play

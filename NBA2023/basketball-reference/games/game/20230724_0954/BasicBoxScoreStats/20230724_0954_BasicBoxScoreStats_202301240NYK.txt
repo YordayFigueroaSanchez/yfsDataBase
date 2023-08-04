@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+24/01/2023;CLE;0;allenja01;Jarrett Allen;38:47;12;17;.706;0;0;;0;0;;1;11;12;1;0;1;2;1;24;+15
+24/01/2023;CLE;1;mitchdo01;Donovan Mitchell;38:17;9;24;.375;6;14;.429;0;0;;2;6;8;8;4;1;0;4;24;+12
+24/01/2023;CLE;2;mobleev01;Evan Mobley;37:42;6;11;.545;0;1;.000;0;0;;1;6;7;3;1;2;3;4;12;0
+24/01/2023;CLE;3;garlada01;Darius Garland;34:48;6;17;.353;2;6;.333;8;10;.800;1;3;4;6;2;0;1;0;22;+20
+24/01/2023;CLE;4;okorois01;Isaac Okoro;30:37;3;5;.600;1;3;.333;2;3;.667;3;3;6;5;0;0;1;4;9;+18
+24/01/2023;CLE;5;Reserves;Reserves
+24/01/2023;CLE;6;leverca01;Caris LeVert;20:49;3;6;.500;2;4;.500;1;3;.333;1;1;2;3;0;0;1;1;9;-19
+24/01/2023;CLE;7;rubiori01;Ricky Rubio;13:25;1;4;.250;1;3;.333;0;0;;0;0;0;2;1;0;2;2;3;-26
+24/01/2023;CLE;8;loveke01;Kevin Love;12:05;0;1;.000;0;1;.000;0;0;;0;0;0;1;0;0;0;0;0;-20
+24/01/2023;CLE;9;stevela01;Lamar Stevens;6:15;0;1;.000;0;0;;0;0;;1;1;2;0;0;0;0;1;0;-6
+24/01/2023;CLE;10;wadede01;Dean Wade;4:26;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;2;0;-1
+24/01/2023;CLE;11;osmande01;Cedi Osman;2:49;0;1;.000;0;1;.000;0;0;;0;0;0;0;0;0;0;0;0;-3
+24/01/2023;CLE;12;lopezro01;Robin Lopez;Did Not Play
+24/01/2023;CLE;13;netora01;Raul Neto;Did Not Play
+24/01/2023;CLE;0;randlju01;Julius Randle;37:38;11;21;.524;8;12;.667;6;7;.857;4;9;13;4;0;0;5;3;36;-10
+24/01/2023;CLE;1;grimequ01;Quentin Grimes;36:23;4;9;.444;2;7;.286;0;0;;0;1;1;3;0;1;2;1;10;-10
+24/01/2023;CLE;2;brunsja01;Jalen Brunson;35:38;5;13;.385;1;3;.333;3;4;.750;0;2;2;4;1;0;1;3;14;-11
+24/01/2023;CLE;3;barrerj01;RJ Barrett;32:35;5;12;.417;3;5;.600;3;4;.750;1;3;4;1;1;1;1;4;16;0
+24/01/2023;CLE;4;simsje01;Jericho Sims;25:12;1;1;1.000;0;0;;0;0;;1;3;4;0;0;0;2;1;2;-9
+24/01/2023;CLE;5;Reserves;Reserves
+24/01/2023;CLE;6;quickim01;Immanuel Quickley;27:17;4;8;.500;1;2;.500;0;1;.000;0;5;5;6;1;0;2;2;9;+14
+24/01/2023;CLE;7;harteis01;Isaiah Hartenstein;22:48;2;3;.667;0;0;;0;0;;3;6;9;4;1;1;2;1;4;+11
+24/01/2023;CLE;8;mcbrimi01;Miles McBride;12:07;1;2;.500;0;1;.000;1;3;.333;0;1;1;3;0;0;0;3;3;+13
+24/01/2023;CLE;9;toppiob01;Obi Toppin;10:22;4;6;.667;2;3;.667;1;2;.500;0;3;3;0;0;0;0;0;11;+12
+24/01/2023;CLE;10;arcidry01;Ryan Arcidiacono;Did Not Play
+24/01/2023;CLE;11;mykhasv01;Svi Mykhailiuk;Did Not Play
+24/01/2023;CLE;12;reddica01;Cam Reddish;Did Not Play
+24/01/2023;CLE;13;rosede01;Derrick Rose;Did Not Play

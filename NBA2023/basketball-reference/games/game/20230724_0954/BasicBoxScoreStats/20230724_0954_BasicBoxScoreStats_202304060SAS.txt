@@ -1,0 +1,26 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+06/04/2023;POR;0;butlejo01;John Butler;36:32;4;11;.364;2;6;.333;2;2;1.000;0;2;2;4;2;2;1;2;12;-6
+06/04/2023;POR;1;willije02;Jeenathan Williams;31:56;8;10;.800;0;1;.000;0;0;;2;2;4;4;0;0;1;6;16;-4
+06/04/2023;POR;2;eubandr01;Drew Eubanks;27:47;9;13;.692;3;4;.750;2;3;.667;0;9;9;2;0;5;0;2;23;-1
+06/04/2023;POR;3;mayssk01;Skylar Mays;22:30;4;7;.571;1;3;.333;2;2;1.000;0;2;2;7;1;1;3;0;11;0
+06/04/2023;POR;4;watfotr01;Trendon Watford;19:44;7;12;.583;0;1;.000;2;2;1.000;1;5;6;3;0;1;1;2;16;-2
+06/04/2023;POR;5;Reserves;Reserves
+06/04/2023;POR;6;minayju01;Justin Minaya;27:44;3;8;.375;1;3;.333;0;0;;1;2;3;1;1;3;1;2;7;+9
+06/04/2023;POR;7;walkeja01;Jabari Walker;25:58;4;12;.333;0;2;.000;0;0;;2;1;3;2;1;1;2;5;8;-10
+06/04/2023;POR;8;harrish01;Shaquille Harrison;24:17;3;8;.375;0;2;.000;4;5;.800;1;3;4;9;2;1;2;3;10;+6
+06/04/2023;POR;9;knoxke01;Kevin Knox;23:32;9;15;.600;3;6;.500;3;4;.750;1;2;3;2;0;0;4;0;24;-2
+06/04/2023;POR;10;reddica01;Cam Reddish;Did Not Dress
+06/04/2023;POR;11;sharpsh01;Shaedon Sharpe;Did Not Dress
+06/04/2023;POR;0;johnske04;Keldon Johnson;32:15;10;24;.417;1;8;.125;3;3;1.000;1;4;5;4;1;0;2;2;24;+1
+06/04/2023;POR;1;jonestr01;Tre Jones;31:18;5;11;.455;1;3;.333;7;7;1.000;3;1;4;10;1;0;2;0;18;+8
+06/04/2023;POR;2;colliza01;Zach Collins;30:11;9;14;.643;1;3;.333;2;3;.667;4;6;10;4;0;3;2;5;21;+3
+06/04/2023;POR;3;bateske01;Keita Bates-Diop;26:16;7;11;.636;2;4;.500;9;10;.900;1;5;6;4;1;0;0;1;25;+4
+06/04/2023;POR;4;branhma01;Malaki Branham;23:19;1;12;.083;0;5;.000;0;0;;0;3;3;0;0;0;0;0;2;-14
+06/04/2023;POR;5;Reserves;Reserves
+06/04/2023;POR;6;champju02;Julian Champagnie;25:29;8;14;.571;5;9;.556;3;4;.750;2;3;5;1;2;0;2;2;24;+11
+06/04/2023;POR;7;mamuksa01;Sandro Mamukelashvili;21:03;2;8;.250;0;2;.000;0;0;;4;3;7;1;2;1;1;0;4;+1
+06/04/2023;POR;8;langfro01;Romeo Langford;18:06;2;5;.400;0;1;.000;0;0;;2;1;3;3;1;0;3;1;4;+2
+06/04/2023;POR;9;weslebl01;Blake Wesley;16:42;1;3;.333;0;0;;0;0;;0;2;2;1;1;0;2;0;2;-6
+06/04/2023;POR;10;barlodo01;Dominick Barlow;15:21;2;4;.500;0;0;;1;1;1.000;1;1;2;1;0;0;0;1;5;0
+06/04/2023;POR;11;dienggo01;Gorgui Dieng;Did Not Play
+06/04/2023;POR;12;vassede01;Devin Vassell;Did Not Play

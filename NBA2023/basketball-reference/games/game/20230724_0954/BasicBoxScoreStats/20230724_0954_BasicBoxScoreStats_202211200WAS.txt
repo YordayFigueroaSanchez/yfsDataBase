@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+20/11/2022;CHO;0;roziete01;Terry Rozier;37:36;3;14;.214;0;6;.000;2;3;.667;3;4;7;5;1;0;2;3;8;-17
+20/11/2022;CHO;1;haywago01;Gordon Hayward;36:44;7;16;.438;3;6;.500;3;4;.750;1;4;5;5;0;0;2;2;20;-9
+20/11/2022;CHO;2;washipj01;P.J. Washington;34:18;5;14;.357;2;6;.333;1;2;.500;1;4;5;1;0;1;3;1;13;-16
+20/11/2022;CHO;3;plumlma01;Mason Plumlee;30:34;2;8;.250;0;0;;5;8;.625;4;4;8;4;0;1;2;4;9;+1
+20/11/2022;CHO;4;oubreke01;Kelly Oubre Jr.;29:21;10;20;.500;1;7;.143;2;2;1.000;1;6;7;0;1;1;0;3;23;-3
+20/11/2022;CHO;5;Reserves;Reserves
+20/11/2022;CHO;6;smithde03;Dennis Smith Jr.;24:53;3;6;.500;0;2;.000;0;0;;0;2;2;3;2;2;1;1;6;+15
+20/11/2022;CHO;7;mcdanja01;Jalen McDaniels;21:06;3;10;.300;2;5;.400;0;0;;1;5;6;1;0;0;1;2;8;+7
+20/11/2022;CHO;8;richani01;Nick Richards;17:26;4;8;.500;0;0;;3;4;.750;4;6;10;0;0;0;1;2;11;-5
+20/11/2022;CHO;9;joneska01;Kai Jones;8:02;2;4;.500;0;0;;0;0;;0;1;1;0;1;0;1;0;4;+7
+20/11/2022;CHO;10;bouknja01;James Bouknight;Did Not Play
+20/11/2022;CHO;11;maledth01;Théo Maledon;Did Not Play
+20/11/2022;CHO;12;mcgowbr01;Bryce McGowens;Did Not Play
+20/11/2022;CHO;13;thorjt01;JT Thor;Did Not Play
+20/11/2022;CHO;14;willima07;Mark Williams;Did Not Play
+20/11/2022;CHO;0;bealbr01;Bradley Beal;40:33;11;21;.524;3;7;.429;1;2;.500;0;4;4;5;5;0;5;4;26;+4
+20/11/2022;CHO;1;kuzmaky01;Kyle Kuzma;37:46;10;19;.526;4;9;.444;4;5;.800;1;9;10;5;0;0;4;2;28;+7
+20/11/2022;CHO;2;porzikr01;Kristaps Porziņģis;34:12;4;19;.211;2;8;.250;2;2;1.000;4;4;8;2;1;5;4;5;12;+5
+20/11/2022;CHO;3;kispeco01;Corey Kispert;32:20;4;7;.571;2;3;.667;4;4;1.000;2;4;6;3;0;1;0;0;14;+19
+20/11/2022;CHO;4;avdijde01;Deni Avdija;31:08;6;11;.545;0;3;.000;0;1;.000;4;9;13;1;0;1;1;2;12;+7
+20/11/2022;CHO;5;Reserves;Reserves
+20/11/2022;CHO;6;goodwjo01;Jordan Goodwin;24:29;2;4;.500;1;1;1.000;0;2;.000;1;1;2;1;0;3;1;2;5;-13
+20/11/2022;CHO;7;bartowi01;Will Barton;20:44;1;6;.167;1;2;.500;0;0;;0;1;1;2;0;2;0;0;3;-1
+20/11/2022;CHO;8;gaffoda01;Daniel Gafford;7:58;1;2;.500;0;0;;2;2;1.000;1;2;3;0;0;1;2;1;4;-3
+20/11/2022;CHO;9;gibsota01;Taj Gibson;5:50;1;3;.333;0;1;.000;0;0;;1;1;2;0;0;0;0;2;2;+2
+20/11/2022;CHO;10;davisjo06;Johnny Davis;4:59;0;1;.000;0;0;;0;0;;0;0;0;0;0;0;0;1;0;-7
+20/11/2022;CHO;11;careyve01;Vernon Carey Jr.;Did Not Play
+20/11/2022;CHO;12;dotsode01;Devon Dotson;Did Not Play
+20/11/2022;CHO;13;gillan01;Anthony Gill;Did Not Play
+20/11/2022;CHO;14;toddis01;Isaiah Todd;Did Not Play

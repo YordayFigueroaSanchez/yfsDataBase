@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+25/12/2022;MEM;0;moranja01;Ja Morant;40:54;15;29;.517;2;10;.200;4;7;.571;0;7;7;8;1;0;6;1;36;-7
+25/12/2022;MEM;1;brookdi01;Dillon Brooks;30:15;4;12;.333;1;6;.167;4;5;.800;0;3;3;1;0;0;5;5;13;-3
+25/12/2022;MEM;2;banede01;Desmond Bane;24:25;2;13;.154;0;7;.000;5;6;.833;0;3;3;0;0;1;0;3;9;-14
+25/12/2022;MEM;3;adamsst01;Steven Adams;21:12;2;6;.333;0;0;;2;2;1.000;7;7;14;1;0;1;0;2;6;+2
+25/12/2022;MEM;4;jacksja02;Jaren Jackson Jr.;20:39;5;7;.714;1;2;.500;0;0;;1;1;2;0;1;2;1;5;11;-3
+25/12/2022;MEM;5;Reserves;Reserves
+25/12/2022;MEM;6;clarkbr01;Brandon Clarke;26:48;4;5;.800;0;0;;1;2;.500;1;6;7;1;1;0;0;1;9;-16
+25/12/2022;MEM;7;aldamsa01;Santi Aldama;20:47;3;7;.429;3;6;.500;0;2;.000;0;2;2;2;0;1;1;2;9;-8
+25/12/2022;MEM;8;jonesty01;Tyus Jones;20:10;3;4;.750;1;1;1.000;6;6;1.000;0;1;1;5;1;0;0;1;13;-7
+25/12/2022;MEM;9;konchjo01;John Konchar;20:09;0;6;.000;0;3;.000;0;0;;0;2;2;1;1;1;0;1;0;0
+25/12/2022;MEM;10;willizi02;Ziaire Williams;14:41;1;5;.200;1;4;.250;0;0;;0;3;3;0;0;0;0;2;3;-14
+25/12/2022;MEM;11;chandke01;Kennedy Chandler;Did Not Play
+25/12/2022;MEM;12;laravja01;Jake LaRavia;Did Not Play
+25/12/2022;MEM;13;roddyda01;David Roddy;Did Not Play
+25/12/2022;MEM;14;tillmxa01;Xavier Tillman Sr.;Did Not Play
+25/12/2022;MEM;0;thompkl01;Klay Thompson;39:47;8;25;.320;3;12;.250;5;5;1.000;4;5;9;4;0;0;0;3;24;+14
+25/12/2022;MEM;1;greendr01;Draymond Green;35:13;1;3;.333;1;1;1.000;0;0;;0;13;13;13;1;2;2;2;3;+13
+25/12/2022;MEM;2;divindo01;Donte DiVincenzo;31:29;7;12;.583;5;9;.556;0;0;;0;3;3;3;1;0;0;2;19;-9
+25/12/2022;MEM;3;poolejo01;Jordan Poole;29:12;11;25;.440;3;10;.300;7;8;.875;0;3;3;2;0;0;5;1;32;+6
+25/12/2022;MEM;4;looneke01;Kevon Looney;22:42;1;3;.333;0;0;;1;4;.250;2;3;5;4;1;1;0;4;3;-3
+25/12/2022;MEM;5;Reserves;Reserves
+25/12/2022;MEM;6;jeromty01;Ty Jerome;22:09;6;9;.667;2;4;.500;0;0;;1;3;4;1;1;0;0;0;14;+23
+25/12/2022;MEM;7;moodymo01;Moses Moody;17:21;4;7;.571;1;3;.333;1;1;1.000;0;2;2;0;0;0;0;1;10;+2
+25/12/2022;MEM;8;lamban01;Anthony Lamb;17:01;4;5;.800;3;4;.750;0;0;;1;2;3;1;2;1;0;3;11;-5
+25/12/2022;MEM;9;kuminjo01;Jonathan Kuminga;16:49;1;2;.500;0;1;.000;5;8;.625;1;3;4;3;0;1;3;1;7;+21
+25/12/2022;MEM;10;wisemja01;James Wiseman;8:17;0;0;;0;0;;0;0;;0;5;5;0;0;0;0;1;0;+8
+25/12/2022;MEM;11;baldwpa01;Patrick Baldwin Jr.;Did Not Play
+25/12/2022;MEM;12;rolliry01;Ryan Rollins;Did Not Play

@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+28/03/2023;ORL;0;wagnefr01;Franz Wagner;32:01;8;21;.381;5;12;.417;4;4;1.000;0;3;3;3;2;1;0;2;25;-13
+28/03/2023;ORL;1;cartewe01;Wendell Carter Jr.;29:13;5;10;.500;2;6;.333;2;2;1.000;3;4;7;2;1;2;1;1;14;0
+28/03/2023;ORL;2;banchpa01;Paolo Banchero;28:52;9;18;.500;3;7;.429;3;6;.500;1;10;11;5;0;1;4;2;24;-4
+28/03/2023;ORL;3;fultzma01;Markelle Fultz;28:50;5;9;.556;0;2;.000;1;1;1.000;0;1;1;5;2;0;0;2;11;+4
+28/03/2023;ORL;4;harriga01;Gary Harris;25:48;1;5;.200;1;4;.250;0;0;;0;3;3;2;0;0;1;1;3;-10
+28/03/2023;ORL;5;Reserves;Reserves
+28/03/2023;ORL;6;anthoco01;Cole Anthony;27:39;5;11;.455;0;3;.000;0;0;;0;5;5;5;2;0;4;3;10;+2
+28/03/2023;ORL;7;suggsja01;Jalen Suggs;23:53;1;10;.100;0;5;.000;0;0;;0;3;3;1;1;0;3;1;2;-1
+28/03/2023;ORL;8;schofad01;Admiral Schofield;16:13;2;6;.333;2;5;.400;0;0;;1;3;4;0;0;0;0;1;6;+12
+28/03/2023;ORL;9;bitadgo01;Goga Bitadze;13:16;5;7;.714;1;2;.500;2;2;1.000;2;4;6;1;1;3;0;1;13;+10
+28/03/2023;ORL;10;houstca01;Caleb Houstan;8:44;0;3;.000;0;3;.000;0;0;;0;0;0;0;0;0;0;0;0;-10
+28/03/2023;ORL;11;wagnemo01;Moritz Wagner;5:31;0;0;;0;0;;0;0;;1;3;4;0;0;1;3;1;0;-15
+28/03/2023;ORL;12;bolbo01;Bol Bol;Did Not Play
+28/03/2023;ORL;13;cartemi01;Michael Carter-Williams;Did Not Play
+28/03/2023;ORL;14;okekech01;Chuma Okeke;Did Not Play
+28/03/2023;ORL;15;scrubja01;Jay Scrubb;Did Not Play
+28/03/2023;ORL;0;banede01;Desmond Bane;36:11;8;19;.421;3;8;.375;12;14;.857;0;4;4;5;3;0;6;3;31;+14
+28/03/2023;ORL;1;tillmxa01;Xavier Tillman Sr.;35:21;10;12;.833;0;0;;0;0;;2;7;9;1;1;0;0;1;20;+8
+28/03/2023;ORL;2;jonesty01;Tyus Jones;33:49;3;12;.250;0;7;.000;1;2;.500;0;6;6;8;2;0;2;0;7;-5
+28/03/2023;ORL;3;brookdi01;Dillon Brooks;31:42;5;14;.357;2;8;.250;1;2;.500;0;3;3;3;1;0;2;2;13;-5
+28/03/2023;ORL;4;jacksja02;Jaren Jackson Jr.;25:35;7;11;.636;2;2;1.000;0;1;.000;2;8;10;0;0;3;3;6;16;+3
+28/03/2023;ORL;5;Reserves;Reserves
+28/03/2023;ORL;6;kennalu01;Luke Kennard;27:39;6;8;.750;4;5;.800;0;0;;0;5;5;5;1;0;1;1;16;+3
+28/03/2023;ORL;7;aldamsa01;Santi Aldama;23:56;3;5;.600;1;1;1.000;2;2;1.000;1;4;5;1;2;1;2;2;9;+4
+28/03/2023;ORL;8;konchjo01;John Konchar;14:48;0;2;.000;0;1;.000;1;2;.500;0;3;3;2;1;2;0;2;1;+9
+28/03/2023;ORL;9;roddyda01;David Roddy;10:59;0;5;.000;0;2;.000;0;0;;2;2;4;1;0;0;0;0;0;-6
+28/03/2023;ORL;10;chandke01;Kennedy Chandler;Did Not Play
+28/03/2023;ORL;11;laravja01;Jake LaRavia;Did Not Play
+28/03/2023;ORL;12;loftoke01;Kenneth Lofton Jr.;Did Not Play

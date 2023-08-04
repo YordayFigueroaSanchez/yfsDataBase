@@ -1,0 +1,33 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+25/12/2022;MIL;0;holidjr01;Jrue Holiday;36:35;8;14;.571;3;6;.500;4;4;1.000;1;5;6;7;2;0;3;3;23;-19
+25/12/2022;MIL;1;antetgi01;Giannis Antetokounmpo;35:19;9;22;.409;1;5;.200;8;12;.667;1;8;9;3;0;0;3;3;27;-27
+25/12/2022;MIL;2;lopezbr01;Brook Lopez;31:54;7;8;.875;1;2;.500;1;2;.500;3;2;5;1;1;1;2;1;16;-3
+25/12/2022;MIL;3;connapa01;Pat Connaughton;29:31;5;9;.556;4;7;.571;1;2;.500;0;4;4;3;1;0;0;1;15;-6
+25/12/2022;MIL;4;allengr01;Grayson Allen;29:07;3;7;.429;0;3;.000;2;2;1.000;1;2;3;1;1;0;2;1;8;-17
+25/12/2022;MIL;5;Reserves;Reserves
+25/12/2022;MIL;6;portibo01;Bobby Portis;23:15;2;4;.500;0;1;.000;0;0;;1;8;9;1;0;0;1;2;4;-6
+25/12/2022;MIL;7;inglejo01;Joe Ingles;19:29;3;8;.375;2;6;.333;3;3;1.000;0;2;2;0;1;0;3;2;11;-12
+25/12/2022;MIL;8;matthwe02;Wesley Matthews;14:45;0;2;.000;0;2;.000;2;2;1.000;0;0;0;3;1;0;0;2;2;-8
+25/12/2022;MIL;9;carteje01;Jevon Carter;12:43;3;5;.600;1;1;1.000;0;0;;1;0;1;3;1;0;1;1;7;-3
+25/12/2022;MIL;10;beaucma01;MarJon Beauchamp;3:41;2;3;.667;1;2;.500;0;0;;0;0;0;0;0;0;0;0;5;-2
+25/12/2022;MIL;11;mamuksa01;Sandro Mamukelashvili;3:41;0;2;.000;0;1;.000;0;0;;0;0;0;0;0;0;0;0;0;-2
+25/12/2022;MIL;12;antetth01;Thanasis Antetokounmpo;Did Not Play
+25/12/2022;MIL;13;hillge01;George Hill;Did Not Play
+25/12/2022;MIL;14;ibakase01;Serge Ibaka;Did Not Play
+25/12/2022;MIL;15;nworajo01;Jordan Nwora;Did Not Play
+25/12/2022;MIL;0;brownja02;Jaylen Brown;37:27;11;19;.579;5;9;.556;2;6;.333;0;5;5;4;1;0;4;3;29;+11
+25/12/2022;MIL;1;tatumja01;Jayson Tatum;35:58;14;22;.636;3;7;.429;10;10;1.000;0;7;7;5;3;0;1;3;41;+18
+25/12/2022;MIL;2;whitede01;Derrick White;30:02;4;6;.667;2;3;.667;2;3;.667;0;3;3;5;1;0;1;2;12;+20
+25/12/2022;MIL;3;smartma01;Marcus Smart;29:56;2;4;.500;0;0;;2;2;1.000;1;2;3;8;1;0;1;0;6;+15
+25/12/2022;MIL;4;horfoal01;Al Horford;29:52;4;7;.571;3;6;.500;0;0;;0;4;4;1;0;0;0;1;11;+7
+25/12/2022;MIL;5;Reserves;Reserves
+25/12/2022;MIL;6;willigr01;Grant Williams;25:52;3;6;.500;3;5;.600;2;2;1.000;2;4;6;3;2;0;0;4;11;+20
+25/12/2022;MIL;7;brogdma01;Malcolm Brogdon;16:49;3;7;.429;1;4;.250;2;2;1.000;0;2;2;1;0;0;2;1;9;+7
+25/12/2022;MIL;8;williro04;Robert Williams;13:41;3;4;.750;0;0;;0;0;;2;0;2;0;0;1;1;3;6;+5
+25/12/2022;MIL;9;hausesa01;Sam Hauser;7:11;2;4;.500;2;4;.500;0;0;;0;2;2;1;0;0;0;0;6;+3
+25/12/2022;MIL;10;griffbl01;Blake Griffin;6:11;1;3;.333;0;1;.000;0;0;;0;0;0;0;1;0;0;1;2;-5
+25/12/2022;MIL;11;kornelu01;Luke Kornet;3:41;1;1;1.000;0;0;;0;0;;0;1;1;0;0;0;0;0;2;+2
+25/12/2022;MIL;12;pritcpa01;Payton Pritchard;3:20;2;2;1.000;0;0;;0;0;;0;0;0;1;0;0;1;0;4;+2
+25/12/2022;MIL;13;jacksju01;Justin Jackson;Did Not Play
+25/12/2022;MIL;14;kabenmf01;Mfiondu Kabengele;Did Not Play
+25/12/2022;MIL;15;vonleno01;Noah Vonleh;Did Not Play

@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+25/03/2023;IND;0;halibty01;Tyrese Haliburton;32:07;7;13;.538;2;5;.400;3;3;1.000;1;0;1;13;1;1;1;1;19;-7
+25/03/2023;IND;1;nembhan01;Andrew Nembhard;27:20;5;8;.625;2;4;.500;0;0;;0;2;2;4;0;1;3;2;12;+5
+25/03/2023;IND;2;mathube01;Bennedict Mathurin;24:12;2;4;.500;0;1;.000;0;0;;1;1;2;1;1;0;1;0;4;-10
+25/03/2023;IND;3;jacksis01;Isaiah Jackson;23:14;7;10;.700;0;2;.000;0;0;;2;3;5;1;3;0;0;5;14;+4
+25/03/2023;IND;4;nesmiaa01;Aaron Nesmith;22:04;5;10;.500;1;3;.333;0;0;;1;2;3;2;0;1;2;1;11;+8
+25/03/2023;IND;5;Reserves;Reserves
+25/03/2023;IND;6;nworajo01;Jordan Nwora;33:36;12;17;.706;4;7;.571;5;5;1.000;1;5;6;1;0;1;2;2;33;-10
+25/03/2023;IND;7;hieldbu01;Buddy Hield;28:30;5;16;.313;4;12;.333;2;2;1.000;1;3;4;5;0;2;0;4;16;-20
+25/03/2023;IND;8;smithja04;Jalen Smith;24:46;4;9;.444;1;2;.500;2;2;1.000;3;4;7;2;1;1;3;2;11;-17
+25/03/2023;IND;9;mccontj01;T.J. McConnell;19:10;5;7;.714;0;0;;0;0;;0;2;2;3;0;0;4;1;10;-16
+25/03/2023;IND;10;duartch01;Chris Duarte;5:01;0;2;.000;0;1;.000;0;0;;0;0;0;1;1;0;1;0;0;-2
+25/03/2023;IND;11;brissos01;Oshae Brissett;Did Not Play
+25/03/2023;IND;12;hillge01;George Hill;Did Not Play
+25/03/2023;IND;13;johnsja01;James Johnson;Did Not Play
+25/03/2023;IND;14;theisda01;Daniel Theis;Did Not Play
+25/03/2023;IND;0;murrade01;Dejounte Murray;33:35;8;20;.400;0;2;.000;4;4;1.000;0;2;2;12;2;1;1;1;20;+8
+25/03/2023;IND;1;bogdabo01;Bogdan Bogdanović;31:52;4;8;.500;1;2;.500;0;0;;1;3;4;1;1;0;1;2;9;-5
+25/03/2023;IND;2;collijo01;John Collins;31:32;9;12;.750;2;4;.500;1;2;.500;0;2;2;3;1;2;0;3;21;-3
+25/03/2023;IND;3;capelca01;Clint Capela;30:06;5;5;1.000;0;0;;7;8;.875;5;12;17;2;0;1;2;0;17;-2
+25/03/2023;IND;4;youngtr01;Trae Young;20:48;6;11;.545;0;1;.000;2;2;1.000;1;2;3;5;1;0;3;1;14;-8
+25/03/2023;IND;5;Reserves;Reserves
+25/03/2023;IND;6;beysa01;Saddiq Bey;24:31;7;16;.438;3;7;.429;1;1;1.000;2;4;6;1;0;0;0;1;18;+9
+25/03/2023;IND;7;griffaj01;AJ Griffin;23:20;4;9;.444;3;6;.500;0;0;;2;0;2;3;0;2;1;1;11;+25
+25/03/2023;IND;8;okongon01;Onyeka Okongwu;17:54;3;5;.600;0;0;;6;6;1.000;4;2;6;3;3;1;1;2;12;+15
+25/03/2023;IND;9;mathega01;Garrison Mathews;14:23;5;6;.833;4;5;.800;0;0;;0;0;0;1;1;0;1;2;14;+16
+25/03/2023;IND;10;holidaa01;Aaron Holiday;11:59;2;4;.500;2;3;.667;1;2;.500;0;0;0;2;1;1;1;1;7;+10
+25/03/2023;IND;11;fernabr01;Bruno Fernando;Did Not Play
+25/03/2023;IND;12;forretr01;Trent Forrest;Did Not Play
+25/03/2023;IND;13;krejcvi01;Vit Krejci;Did Not Play

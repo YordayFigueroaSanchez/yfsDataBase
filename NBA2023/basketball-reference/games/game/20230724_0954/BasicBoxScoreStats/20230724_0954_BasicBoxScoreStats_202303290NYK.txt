@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+29/03/2023;MIA;0;herroty01;Tyler Herro;35:33;6;16;.375;2;10;.200;2;2;1.000;0;2;2;1;0;0;0;1;16;+6
+29/03/2023;MIA;1;adebaba01;Bam Adebayo;35:24;4;10;.400;0;0;;1;2;.500;0;11;11;4;1;0;3;2;9;-6
+29/03/2023;MIA;2;butleji01;Jimmy Butler;34:41;5;10;.500;0;0;;2;2;1.000;2;1;3;6;0;0;1;1;12;-8
+29/03/2023;MIA;3;vincega01;Gabe Vincent;31:03;8;11;.727;4;5;.800;1;2;.500;0;3;3;3;2;0;1;0;21;-12
+29/03/2023;MIA;4;loveke01;Kevin Love;16:14;2;8;.250;1;7;.143;0;0;;0;4;4;2;1;0;0;1;5;+5
+29/03/2023;MIA;5;Reserves;Reserves
+29/03/2023;MIA;6;robindu01;Duncan Robinson;27:53;4;7;.571;4;6;.667;0;0;;0;0;0;0;0;0;3;3;12;-11
+29/03/2023;MIA;7;martica02;Caleb Martin;25:09;2;5;.400;1;4;.250;1;2;.500;1;4;5;0;0;0;0;4;6;-8
+29/03/2023;MIA;8;oladivi01;Victor Oladipo;18:33;3;10;.300;1;7;.143;2;2;1.000;0;2;2;3;1;0;2;2;9;-3
+29/03/2023;MIA;9;zelleco01;Cody Zeller;12:36;1;2;.500;0;0;;0;2;.000;3;2;5;1;0;0;1;1;2;-3
+29/03/2023;MIA;10;strusma01;Max Strus;2:53;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;3;0;-5
+29/03/2023;MIA;11;hasleud01;Udonis Haslem;Did Not Play
+29/03/2023;MIA;12;highsha01;Haywood Highsmith;Did Not Play
+29/03/2023;MIA;13;lowryky01;Kyle Lowry;Did Not Play
+29/03/2023;MIA;14;yurtsom01;Omer Yurtseven;Did Not Play
+29/03/2023;MIA;0;grimequ01;Quentin Grimes;36:00;8;14;.571;5;10;.500;2;3;.667;0;8;8;4;1;0;2;4;23;+3
+29/03/2023;MIA;1;barrerj01;RJ Barrett;33:44;4;13;.308;2;6;.333;2;4;.500;1;4;5;0;0;1;2;1;12;-1
+29/03/2023;MIA;2;brunsja01;Jalen Brunson;30:08;5;11;.455;1;3;.333;1;1;1.000;0;2;2;3;0;0;3;2;12;+9
+29/03/2023;MIA;3;robinmi01;Mitchell Robinson;19:03;1;3;.333;0;0;;0;0;;3;3;6;1;0;1;1;1;2;-3
+29/03/2023;MIA;4;randlju01;Julius Randle;14:42;1;5;.200;0;2;.000;1;2;.500;2;3;5;1;0;0;2;1;3;-3
+29/03/2023;MIA;5;Reserves;Reserves
+29/03/2023;MIA;6;quickim01;Immanuel Quickley;31:46;8;14;.571;2;5;.400;6;11;.545;0;1;1;4;3;0;1;0;24;+14
+29/03/2023;MIA;7;harteis01;Isaiah Hartenstein;28:57;3;5;.600;0;0;;0;2;.000;1;8;9;2;2;1;1;3;6;+12
+29/03/2023;MIA;8;hartjo01;Josh Hart;28:36;6;7;.857;1;1;1.000;0;0;;2;6;8;3;2;0;3;2;13;+12
+29/03/2023;MIA;9;toppiob01;Obi Toppin;17:04;2;4;.500;2;4;.500;0;0;;0;3;3;4;0;0;0;0;6;+2
+29/03/2023;MIA;10;fournev01;Evan Fournier;Did Not Play
+29/03/2023;MIA;11;keelstr01;Trevor Keels;Did Not Play
+29/03/2023;MIA;12;mcbrimi01;Miles McBride;Did Not Play
+29/03/2023;MIA;13;simsje01;Jericho Sims;Did Not Play

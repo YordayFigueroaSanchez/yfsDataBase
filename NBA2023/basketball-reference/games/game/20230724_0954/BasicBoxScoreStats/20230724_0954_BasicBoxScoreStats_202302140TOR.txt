@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+14/02/2023;ORL;0;fultzma01;Markelle Fultz;36:11;7;15;.467;1;2;.500;4;4;1.000;2;4;6;5;1;2;3;3;19;-7
+14/02/2023;ORL;1;wagnefr01;Franz Wagner;32:04;3;9;.333;2;5;.400;1;1;1.000;0;0;0;6;1;0;3;3;9;-13
+14/02/2023;ORL;2;banchpa01;Paolo Banchero;31:54;5;13;.385;0;2;.000;3;4;.750;0;1;1;3;0;0;3;1;13;-9
+14/02/2023;ORL;3;cartewe01;Wendell Carter Jr.;31:49;11;15;.733;3;6;.500;1;3;.333;2;4;6;5;1;0;3;5;26;-11
+14/02/2023;ORL;4;harriga01;Gary Harris;22:44;2;3;.667;2;3;.667;0;0;;0;1;1;1;0;0;0;0;6;-11
+14/02/2023;ORL;5;Reserves;Reserves
+14/02/2023;ORL;6;suggsja01;Jalen Suggs;28:40;9;12;.750;3;6;.500;3;4;.750;2;0;2;4;2;0;3;1;24;+9
+14/02/2023;ORL;7;wagnemo01;Moritz Wagner;16:11;0;5;.000;0;2;.000;2;2;1.000;2;1;3;1;0;0;1;1;2;+1
+14/02/2023;ORL;8;bolbo01;Bol Bol;16:06;4;7;.571;1;2;.500;0;0;;1;6;7;1;0;0;1;2;9;-1
+14/02/2023;ORL;9;okekech01;Chuma Okeke;12:32;0;1;.000;0;1;.000;0;0;;0;2;2;0;0;0;1;0;0;-5
+14/02/2023;ORL;10;houstca01;Caleb Houstan;11:49;2;4;.500;1;2;.500;0;0;;0;1;1;0;1;0;0;1;5;-3
+14/02/2023;ORL;11;schofad01;Admiral Schofield;Did Not Play
+14/02/2023;ORL;0;siakapa01;Pascal Siakam;41:19;10;15;.667;2;4;.500;4;6;.667;0;4;4;6;2;0;3;1;26;+8
+14/02/2023;ORL;1;poeltja01;Jakob Poeltl;36:55;15;17;.882;0;0;;0;0;;5;4;9;2;1;6;2;5;30;+18
+14/02/2023;ORL;2;barnesc01;Scottie Barnes;36:13;6;15;.400;0;2;.000;5;7;.714;3;3;6;6;1;2;1;1;17;+8
+14/02/2023;ORL;3;vanvlfr01;Fred VanVleet;35:24;3;12;.250;3;9;.333;1;1;1.000;0;0;0;15;3;1;5;3;10;+14
+14/02/2023;ORL;4;achiupr01;Precious Achiuwa;33:39;4;7;.571;1;2;.500;2;2;1.000;3;10;13;0;0;1;3;2;11;+11
+14/02/2023;ORL;5;Reserves;Reserves
+14/02/2023;ORL;6;bouchch01;Chris Boucher;23:34;6;8;.750;0;2;.000;1;1;1.000;2;2;4;0;0;1;1;1;13;-1
+14/02/2023;ORL;7;flynnma01;Malachi Flynn;12:36;3;4;.750;2;3;.667;2;3;.667;0;2;2;1;0;0;0;1;10;-4
+14/02/2023;ORL;8;dowtije01;Jeff Dowtin;9:39;0;2;.000;0;2;.000;0;0;;0;1;1;0;1;0;1;0;0;0
+14/02/2023;ORL;9;youngth01;Thaddeus Young;6:41;2;2;1.000;0;0;;0;0;;0;0;0;0;1;0;1;1;4;-5
+14/02/2023;ORL;10;bantoda01;Dalano Banton;4:00;1;1;1.000;0;0;;0;0;;0;1;1;1;0;0;1;1;2;+1
+14/02/2023;ORL;11;harpero02;Ron Harper Jr.;Did Not Play
+14/02/2023;ORL;12;hernaju01;Juancho Hernangómez;Did Not Play
+14/02/2023;ORL;13;kolokch01;Christian Koloko;Did Not Play
+14/02/2023;ORL;14;wieskjo01;Joe Wieskamp;Did Not Play

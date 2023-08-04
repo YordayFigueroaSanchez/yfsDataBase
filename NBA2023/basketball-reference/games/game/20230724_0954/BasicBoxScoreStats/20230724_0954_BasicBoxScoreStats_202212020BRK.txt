@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+02/12/2022;TOR;0;vanvlfr01;Fred VanVleet;41:14;4;14;.286;1;7;.143;1;2;.500;0;1;1;6;1;0;2;5;10;-6
+02/12/2022;TOR;1;anunoog01;OG Anunoby;38:07;8;16;.500;0;2;.000;5;7;.714;3;3;6;1;2;0;0;2;21;-17
+02/12/2022;TOR;2;barnesc01;Scottie Barnes;37:12;6;12;.500;1;2;.500;4;7;.571;2;7;9;3;0;0;7;3;17;-11
+02/12/2022;TOR;3;siakapa01;Pascal Siakam;32:11;7;15;.467;1;2;.500;9;11;.818;1;6;7;4;1;0;0;5;24;-5
+02/12/2022;TOR;4;kolokch01;Christian Koloko;22:25;2;8;.250;0;2;.000;1;1;1.000;4;5;9;0;1;1;1;0;5;-8
+02/12/2022;TOR;5;Reserves;Reserves
+02/12/2022;TOR;6;trentga02;Gary Trent Jr.;25:35;6;11;.545;2;6;.333;2;2;1.000;0;0;0;0;2;0;0;1;16;-1
+02/12/2022;TOR;7;bouchch01;Chris Boucher;19:22;2;7;.286;1;2;.500;0;0;;1;3;4;2;0;1;0;1;5;+12
+02/12/2022;TOR;8;hernaju01;Juancho Hernangómez;15:49;1;2;.500;1;1;1.000;0;0;;0;6;6;0;0;0;2;1;3;-4
+02/12/2022;TOR;9;youngth01;Thaddeus Young;4:03;1;1;1.000;0;0;;0;0;;0;1;1;0;0;0;1;1;2;-4
+02/12/2022;TOR;10;birchkh01;Khem Birch;4:02;1;1;1.000;0;0;;0;0;;0;0;0;0;0;0;0;0;2;-1
+02/12/2022;TOR;11;bantoda01;Dalano Banton;Did Not Play
+02/12/2022;TOR;12;flynnma01;Malachi Flynn;Did Not Play
+02/12/2022;TOR;0;irvinky01;Kyrie Irving;39:14;10;17;.588;2;5;.400;5;7;.714;1;4;5;5;2;0;4;3;27;+7
+02/12/2022;TOR;1;duranke01;Kevin Durant;37:40;6;10;.600;0;3;.000;5;6;.833;0;9;9;7;0;2;2;0;17;+1
+02/12/2022;TOR;2;onealro01;Royce O'Neale;32:18;4;9;.444;3;6;.500;0;2;.000;0;8;8;4;1;0;3;5;11;+9
+02/12/2022;TOR;3;claxtni01;Nic Claxton;31:16;7;9;.778;0;0;;1;2;.500;3;6;9;1;0;3;0;5;15;+14
+02/12/2022;TOR;4;harrijo01;Joe Harris;25:24;6;8;.750;5;7;.714;0;0;;0;5;5;4;0;0;1;6;17;+17
+02/12/2022;TOR;5;Reserves;Reserves
+02/12/2022;TOR;6;curryse01;Seth Curry;20:27;1;5;.200;0;2;.000;2;2;1.000;0;1;1;5;0;0;4;1;4;+16
+02/12/2022;TOR;7;warretj01;T.J. Warren;16:38;5;11;.455;0;2;.000;0;0;;3;1;4;0;1;0;1;2;10;+8
+02/12/2022;TOR;8;sumneed01;Edmond Sumner;13:50;3;7;.429;0;3;.000;2;3;.667;0;0;0;0;3;0;1;2;8;-1
+02/12/2022;TOR;9;morrima02;Markieff Morris;11:53;1;3;.333;1;2;.500;0;0;;0;0;0;1;0;0;0;1;3;-8
+02/12/2022;TOR;10;thomaca02;Cam Thomas;11:20;1;3;.333;0;2;.000;0;0;;0;0;0;0;0;0;2;2;2;-18
+02/12/2022;TOR;11;edwarke02;Kessler Edwards;Did Not Play
+02/12/2022;TOR;12;millspa02;Patty Mills;Did Not Play
+02/12/2022;TOR;13;sharpda01;Day'Ron Sharpe;Did Not Play

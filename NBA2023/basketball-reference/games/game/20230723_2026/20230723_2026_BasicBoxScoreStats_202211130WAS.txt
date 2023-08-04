@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+13/11/2022;MEM;0;konchjo01;John Konchar;36:33;3;9;.333;1;3;.333;0;0;;0;9;9;1;1;0;0;3;7;-7
+13/11/2022;MEM;1;jonesty01;Tyus Jones;36:15;7;18;.389;1;4;.250;2;2;1.000;0;3;3;5;3;0;2;1;17;-4
+13/11/2022;MEM;2;adamsst01;Steven Adams;29:23;6;8;.750;0;0;;0;0;;6;4;10;6;1;0;3;5;12;+4
+13/11/2022;MEM;3;aldamsa01;Santi Aldama;28:44;6;11;.545;3;4;.750;0;0;;2;5;7;2;1;3;2;5;15;+3
+13/11/2022;MEM;4;brookdi01;Dillon Brooks;28:29;7;22;.318;3;9;.333;2;2;1.000;1;3;4;2;0;0;3;5;19;+1
+13/11/2022;MEM;5;Reserves;Reserves
+13/11/2022;MEM;6;roddyda01;David Roddy;27:40;5;11;.455;0;3;.000;1;2;.500;1;4;5;0;0;1;1;0;11;-24
+13/11/2022;MEM;7;laravja01;Jake LaRavia;25:53;1;5;.200;0;2;.000;0;0;;0;5;5;3;1;1;3;2;2;-9
+13/11/2022;MEM;8;clarkbr01;Brandon Clarke;15:18;1;7;.143;0;0;;2;4;.500;3;2;5;0;0;1;1;2;4;-8
+13/11/2022;MEM;9;chandke01;Kennedy Chandler;11:45;2;5;.400;1;3;.333;0;0;;1;2;3;2;0;0;1;1;5;-6
+13/11/2022;MEM;10;tillmxa01;Xavier Tillman Sr.;Did Not Play
+13/11/2022;MEM;11;willivi01;Vince Williams Jr.;Did Not Play
+13/11/2022;MEM;0;kuzmaky01;Kyle Kuzma;34:25;4;13;.308;1;7;.143;0;1;.000;1;10;11;3;0;0;4;1;9;+10
+13/11/2022;MEM;1;avdijde01;Deni Avdija;33:54;8;16;.500;4;7;.571;1;3;.333;0;2;2;5;1;0;3;4;21;+4
+13/11/2022;MEM;2;kispeco01;Corey Kispert;32:03;5;8;.625;2;2;1.000;0;0;;0;2;2;1;2;0;1;0;12;+13
+13/11/2022;MEM;3;porzikr01;Kristaps Porziņģis;31:23;7;15;.467;6;10;.600;5;6;.833;3;3;6;2;2;2;2;4;25;+10
+13/11/2022;MEM;4;morrimo01;Monte Morris;27:22;4;10;.400;1;4;.250;1;2;.500;1;5;6;6;2;1;2;0;10;+3
+13/11/2022;MEM;5;Reserves;Reserves
+13/11/2022;MEM;6;goodwjo01;Jordan Goodwin;26:08;3;7;.429;3;4;.750;1;2;.500;1;7;8;4;1;1;0;2;10;+3
+13/11/2022;MEM;7;bartowi01;Will Barton;22:41;3;9;.333;1;4;.250;0;0;;1;4;5;3;1;0;1;0;7;+2
+13/11/2022;MEM;8;gaffoda01;Daniel Gafford;16:37;1;1;1.000;0;0;;3;7;.429;2;3;5;1;0;2;2;3;5;0
+13/11/2022;MEM;9;hachiru01;Rui Hachimura;15:27;1;7;.143;1;2;.500;0;0;;0;2;2;1;0;0;0;1;3;+5
+13/11/2022;MEM;10;careyve01;Vernon Carey Jr.;Did Not Play
+13/11/2022;MEM;11;davisjo06;Johnny Davis;Did Not Play
+13/11/2022;MEM;12;gillan01;Anthony Gill;Did Not Play
+13/11/2022;MEM;13;schakjo01;Jordan Schakel;Did Not Play
+13/11/2022;MEM;14;toddis01;Isaiah Todd;Did Not Play

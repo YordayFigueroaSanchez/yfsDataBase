@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+12/03/2023;OKC;0;willija06;Jalen Williams;35:05;7;18;.389;1;4;.250;6;7;.857;4;3;7;10;0;0;4;2;21;+15
+12/03/2023;OKC;1;giddejo01;Josh Giddey;31:44;6;16;.375;1;2;.500;2;2;1.000;1;10;11;5;1;0;1;0;15;+3
+12/03/2023;OKC;2;dortlu01;Luguentz Dort;30:26;3;10;.300;1;5;.200;5;5;1.000;2;2;4;2;1;2;2;3;12;-7
+12/03/2023;OKC;3;joeis01;Isaiah Joe;28:45;2;8;.250;1;6;.167;0;0;;0;5;5;2;0;0;0;1;5;-5
+12/03/2023;OKC;4;willija07;Jaylin Williams;25:41;3;6;.500;1;2;.500;2;2;1.000;0;5;5;2;4;1;0;4;9;0
+12/03/2023;OKC;5;Reserves;Reserves
+12/03/2023;OKC;6;diengou01;Ousmane Dieng;27:34;7;15;.467;2;6;.333;1;2;.500;0;8;8;0;0;0;0;3;17;+10
+12/03/2023;OKC;7;waterli01;Lindy Waters III;23:20;2;7;.286;1;6;.167;3;3;1.000;1;3;4;1;1;0;0;3;8;+11
+12/03/2023;OKC;8;wiggiaa01;Aaron Wiggins;19:51;2;6;.333;1;3;.333;0;0;;1;3;4;1;0;0;0;1;5;+16
+12/03/2023;OKC;9;saricda01;Dario Šarić;17:31;4;9;.444;1;5;.200;1;2;.500;3;4;7;3;1;0;2;2;10;+17
+12/03/2023;OKC;10;butleja02;Jared Butler;Did Not Play
+12/03/2023;OKC;11;manntr01;Tre Mann;Did Not Play
+12/03/2023;OKC;12;robinje02;Jeremiah Robinson-Earl;Did Not Play
+12/03/2023;OKC;0;vassede01;Devin Vassell;33:14;2;10;.200;0;2;.000;2;2;1.000;2;4;6;1;1;1;2;3;6;-18
+12/03/2023;OKC;1;grahade01;Devonte' Graham;31:47;8;16;.500;4;11;.364;0;0;;0;3;3;3;1;1;5;1;20;-11
+12/03/2023;OKC;2;colliza01;Zach Collins;30:00;7;14;.500;4;5;.800;5;5;1.000;2;9;11;4;0;0;4;4;23;+3
+12/03/2023;OKC;3;bateske01;Keita Bates-Diop;24:40;5;7;.714;1;3;.333;1;2;.500;2;5;7;4;0;0;1;1;12;0
+12/03/2023;OKC;4;branhma01;Malaki Branham;6:19;0;3;.000;0;3;.000;0;0;;0;2;2;1;0;0;1;0;0;+4
+12/03/2023;OKC;5;Reserves;Reserves
+12/03/2023;OKC;6;weslebl01;Blake Wesley;30:20;1;12;.083;0;4;.000;0;0;;0;3;3;6;0;1;2;3;2;-12
+12/03/2023;OKC;7;mcderdo01;Doug McDermott;26:01;5;13;.385;1;4;.250;0;0;;1;1;2;4;1;0;1;1;11;-5
+12/03/2023;OKC;8;langfro01;Romeo Langford;25:55;1;2;.500;0;1;.000;0;0;;0;3;3;0;0;1;0;1;2;-3
+12/03/2023;OKC;9;mamuksa01;Sandro Mamukelashvili;16:38;1;6;.167;0;3;.000;4;6;.667;1;6;7;0;0;1;2;1;6;-13
+12/03/2023;OKC;10;bassech01;Charles Bassey;15:06;3;5;.600;0;0;;2;4;.500;2;4;6;1;0;2;0;3;8;-5
+12/03/2023;OKC;11;champju02;Julian Champagnie;Did Not Play
+12/03/2023;OKC;12;dienggo01;Gorgui Dieng;Did Not Play

@@ -1,0 +1,35 @@
+dateId;teamId;order;playerId;Starters;MP;TS%;eFG%;3PAr;FTr;ORB%;DRB%;TRB%;AST%;STL%;BLK%;TOV%;USG%;ORtg;DRtg;BPM
+15/04/2023;NYK;0;randlju01;Julius Randle;33:33;.437;.425;.500;.200;6.5;25.4;16.1;21.2;3.1;0.0;18.7;34.6;89;102;-0.7
+15/04/2023;NYK;1;barrerj01;RJ Barrett;31:04;.272;.208;.417;.167;0.0;13.7;6.9;27.3;6.8;0.0;7.2;19.4;87;98;3.4
+15/04/2023;NYK;2;brunsja01;Jalen Brunson;29:30;.524;.479;.167;.167;3.7;3.6;3.7;17.0;3.6;0.0;3.7;39.3;120;108;9.1
+15/04/2023;NYK;3;grimequ01;Quentin Grimes;26:57;.512;.375;1.000;.500;4.0;15.8;10.0;5.1;0.0;3.4;0.0;7.9;141;109;-1.0
+15/04/2023;NYK;4;robinmi01;Mitchell Robinson;26:06;.600;.600;.000;.000;20.9;12.3;16.5;0.0;4.0;0.0;0.0;8.3;154;104;2.8
+15/04/2023;NYK;5;Reserves;Reserves
+15/04/2023;NYK;6;hartjo01;Josh Hart;32:53;.773;.773;.182;.000;16.6;16.2;16.4;11.5;1.6;0.0;15.4;17.1;142;108;7.9
+15/04/2023;NYK;7;quickim01;Immanuel Quickley;23:36;.222;.000;.400;.800;0.0;13.6;6.9;11.0;0.0;0.0;30.7;17.9;48;113;-15.0
+15/04/2023;NYK;8;harteis01;Isaiah Hartenstein;21:54;.840;.667;.000;1.333;10.0;14.6;12.3;0.0;0.0;0.0;0.0;9.4;191;112;1.9
+15/04/2023;NYK;9;toppiob01;Obi Toppin;14:27;.922;.875;.500;.500;7.5;22.1;14.9;12.3;0.0;0.0;17.0;17.6;158;110;12.9
+15/04/2023;NYK;10;fournev01;Evan Fournier;Did Not Play
+15/04/2023;NYK;11;jeffrda01;DaQuan Jeffries;Did Not Play
+15/04/2023;NYK;12;keelstr01;Trevor Keels;Did Not Dress
+15/04/2023;NYK;13;mcbrimi01;Miles McBride;Did Not Play
+15/04/2023;NYK;14;rosede01;Derrick Rose;Did Not Play
+15/04/2023;NYK;15;simsje01;Jericho Sims;Did Not Play
+15/04/2023;NYK;16;washidu02;Duane Washington Jr.;Did Not Dress
+15/04/2023;NYK;0;mitchdo01;Donovan Mitchell;43:38;.582;.567;.533;.200;2.4;10.0;6.2;42.7;3.6;1.9;5.8;35.9;122;109;18.9
+15/04/2023;NYK;1;garlada01;Darius Garland;43:13;.594;.615;.308;.231;0.0;0.0;0.0;3.9;4.9;1.9;25.9;20.2;84;111;-1.0
+15/04/2023;NYK;2;allenja01;Jarrett Allen;42:52;.788;.750;.000;.250;7.5;28.0;17.6;15.3;0.0;0.0;10.1;10.4;157;109;5.5
+15/04/2023;NYK;3;mobleev01;Evan Mobley;37:42;.308;.308;.000;.000;14.1;17.4;15.7;8.2;1.4;0.0;13.3;18.0;79;111;-6.6
+15/04/2023;NYK;4;okorois01;Isaac Okoro;22:41;.387;.167;.667;.667;9.4;4.8;7.1;12.5;0.0;0.0;0.0;15.5;110;121;-4.6
+15/04/2023;NYK;5;Reserves;Reserves
+15/04/2023;NYK;6;osmande01;Cedi Osman;18:45;.922;1.000;.750;.500;0.0;5.8;2.9;18.1;0.0;0.0;17.0;14.2;147;120;5.8
+15/04/2023;NYK;7;leverca01;Caris LeVert;18:11;.190;.143;.429;.286;0.0;6.0;3.0;7.9;0.0;0.0;11.3;22.1;45;120;-18.0
+15/04/2023;NYK;8;wadede01;Dean Wade;7:27;.532;.000;1.000;2.000;0.0;14.6;7.2;0.0;0.0;0.0;0.0;11.4;125;116;-2.5
+15/04/2023;NYK;9;rubiori01;Ricky Rubio;5:31;.000;.000;.000;.000;0.0;39.5;19.6;0.0;9.6;0.0;66.7;24.6;0;81;-25.0
+15/04/2023;NYK;10;diakima01;Mamadi Diakite;Did Not Dress
+15/04/2023;NYK;11;greenda02;Danny Green;Did Not Play
+15/04/2023;NYK;12;lopezro01;Robin Lopez;Did Not Play
+15/04/2023;NYK;13;merrisa01;Sam Merrill;Did Not Play
+15/04/2023;NYK;14;mobleis01;Isaiah Mobley;Did Not Dress
+15/04/2023;NYK;15;netora01;Raul Neto;Did Not Play
+15/04/2023;NYK;16;stevela01;Lamar Stevens;Did Not Play

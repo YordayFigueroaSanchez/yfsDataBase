@@ -1,0 +1,32 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+05/03/2023;PHO;0;duranke01;Kevin Durant;40:22;12;17;.706;3;5;.600;10;11;.909;0;7;7;3;0;1;2;3;37;+9
+05/03/2023;PHO;1;bookede01;Devin Booker;39:57;15;25;.600;1;3;.333;5;6;.833;2;3;5;10;1;0;1;4;36;+17
+05/03/2023;PHO;2;aytonde01;Deandre Ayton;33:54;4;6;.667;0;0;;1;2;.500;2;14;16;0;1;1;2;5;9;+4
+05/03/2023;PHO;3;paulch01;Chris Paul;33:00;4;9;.444;2;6;.333;1;2;.500;0;6;6;7;1;0;0;2;11;+9
+05/03/2023;PHO;4;okogijo01;Josh Okogie;21:47;3;13;.231;0;8;.000;3;4;.750;1;0;1;0;2;0;1;2;9;+1
+05/03/2023;PHO;5;Reserves;Reserves
+05/03/2023;PHO;6;payneca01;Cameron Payne;14:52;3;4;.750;0;1;.000;0;0;;0;1;1;5;0;0;3;0;6;-7
+05/03/2023;PHO;7;wainris01;Ish Wainright;13:58;4;6;.667;4;5;.800;0;0;;0;0;0;0;0;0;0;3;12;+12
+05/03/2023;PHO;8;rosste01;Terrence Ross;12:53;0;1;.000;0;1;.000;0;0;;1;0;1;1;0;0;0;3;0;-9
+05/03/2023;PHO;9;craigto01;Torrey Craig;12:29;2;5;.400;1;4;.250;0;0;;0;0;0;1;0;0;0;3;5;-3
+05/03/2023;PHO;10;landajo01;Jock Landale;7:42;1;1;1.000;0;0;;0;0;;2;0;2;0;0;0;0;3;2;+1
+05/03/2023;PHO;11;leeda03;Damion Lee;5:52;1;1;1.000;1;1;1.000;0;0;;0;1;1;0;0;0;0;0;3;-7
+05/03/2023;PHO;12;warretj01;T.J. Warren;3:14;0;1;.000;0;0;;0;0;;1;0;1;0;0;0;0;0;0;-7
+05/03/2023;PHO;13;bazleda01;Darius Bazley;Did Not Play
+05/03/2023;PHO;14;biyombi01;Bismack Biyombo;Did Not Play
+05/03/2023;PHO;15;leesa01;Saben Lee;Did Not Play
+05/03/2023;PHO;0;bullore01;Reggie Bullock;39:20;4;10;.400;2;8;.250;0;0;;0;3;3;0;2;0;0;3;10;-5
+05/03/2023;PHO;1;irvinky01;Kyrie Irving;36:40;10;19;.526;3;8;.375;7;7;1.000;2;2;4;7;0;0;3;3;30;-5
+05/03/2023;PHO;2;doncilu01;Luka Dončić;35:25;8;23;.348;1;9;.111;17;19;.895;0;9;9;4;0;0;5;4;34;-11
+05/03/2023;PHO;3;greenjo02;Josh Green;28:18;0;2;.000;0;1;.000;0;0;;1;2;3;0;0;0;0;3;0;+4
+05/03/2023;PHO;4;poweldw01;Dwight Powell;24:08;2;3;.667;0;0;;0;0;;1;3;4;1;0;0;0;2;4;-8
+05/03/2023;PHO;5;Reserves;Reserves
+05/03/2023;PHO;6;hardati02;Tim Hardaway Jr.;30:22;6;10;.600;6;8;.750;3;3;1.000;0;1;1;1;0;0;1;2;21;+1
+05/03/2023;PHO;7;woodch01;Christian Wood;21:38;5;7;.714;1;2;.500;6;7;.857;1;2;3;0;1;0;1;1;17;-1
+05/03/2023;PHO;8;holidju01;Justin Holiday;13:23;2;2;1.000;1;1;1.000;0;0;;0;2;2;1;2;0;0;2;5;-3
+05/03/2023;PHO;9;ntilila01;Frank Ntilikina;8:40;0;0;;0;0;;2;2;1.000;0;0;0;1;0;0;0;2;2;+1
+05/03/2023;PHO;10;morrima02;Markieff Morris;2:06;1;1;1.000;1;1;1.000;0;0;;0;2;2;0;0;0;0;0;3;+7
+05/03/2023;PHO;11;bertada01;Dāvis Bertāns;Did Not Play
+05/03/2023;PHO;12;hardyja02;Jaden Hardy;Did Not Play
+05/03/2023;PHO;13;mcgeeja01;JaVale McGee;Did Not Play
+05/03/2023;PHO;14;pinsoth01;Theo Pinson;Did Not Play

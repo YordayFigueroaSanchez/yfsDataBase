@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+19/03/2023;ORL;0;wagnefr01;Franz Wagner;37:26;10;23;.435;0;8;.000;1;2;.500;1;7;8;7;2;0;1;3;21;-3
+19/03/2023;ORL;1;banchpa01;Paolo Banchero;35:34;8;20;.400;1;4;.250;4;4;1.000;1;5;6;3;0;0;1;5;21;+5
+19/03/2023;ORL;2;fultzma01;Markelle Fultz;33:42;5;12;.417;1;2;.500;1;3;.333;2;1;3;10;1;0;4;5;12;+5
+19/03/2023;ORL;3;cartewe01;Wendell Carter Jr.;33:20;6;11;.545;2;5;.400;2;2;1.000;2;9;11;0;1;0;0;4;16;+11
+19/03/2023;ORL;4;harriga01;Gary Harris;22:05;3;7;.429;3;6;.500;0;0;;0;1;1;0;1;0;0;1;9;+3
+19/03/2023;ORL;5;Reserves;Reserves
+19/03/2023;ORL;6;anthoco01;Cole Anthony;27:39;5;15;.333;3;8;.375;4;4;1.000;3;2;5;3;1;1;0;4;17;-14
+19/03/2023;ORL;7;harrike01;Kevon Harris;15:42;1;5;.200;0;2;.000;0;0;;0;2;2;0;1;0;0;2;2;+9
+19/03/2023;ORL;8;bitadgo01;Goga Bitadze;14:40;1;3;.333;0;0;;1;2;.500;2;2;4;1;1;2;0;1;3;-17
+19/03/2023;ORL;9;houstca01;Caleb Houstan;14:13;0;2;.000;0;2;.000;0;0;;2;0;2;0;0;0;1;2;0;-14
+19/03/2023;ORL;10;bolbo01;Bol Bol;5:38;2;4;.500;0;1;.000;0;0;;0;2;2;0;0;0;1;1;4;-15
+19/03/2023;ORL;11;cartemi01;Michael Carter-Williams;Did Not Play
+19/03/2023;ORL;12;okekech01;Chuma Okeke;Did Not Play
+19/03/2023;ORL;13;schofad01;Admiral Schofield;Did Not Play
+19/03/2023;ORL;14;wagnemo01;Moritz Wagner;Did Not Play
+19/03/2023;ORL;0;davisan02;Anthony Davis;34:21;6;15;.400;0;0;;3;6;.500;2;9;11;1;2;4;5;4;15;-3
+19/03/2023;ORL;1;russeda01;D'Angelo Russell;33:14;6;12;.500;4;8;.500;2;2;1.000;0;1;1;6;0;2;1;1;18;-8
+19/03/2023;ORL;2;browntr01;Troy Brown Jr.;29:21;4;8;.500;4;8;.500;0;0;;0;5;5;2;0;0;0;1;12;-8
+19/03/2023;ORL;3;beaslma01;Malik Beasley;25:55;1;7;.143;1;5;.200;0;0;;0;3;3;1;0;0;1;0;3;-15
+19/03/2023;ORL;4;vandeja01;Jarred Vanderbilt;23:01;1;1;1.000;0;0;;0;0;;2;8;10;2;0;1;4;2;2;-12
+19/03/2023;ORL;5;Reserves;Reserves
+19/03/2023;ORL;6;reaveau01;Austin Reaves;30:27;9;14;.643;1;4;.250;16;18;.889;1;5;6;6;0;0;3;3;35;+25
+19/03/2023;ORL;7;schrode01;Dennis Schröder;24:29;3;9;.333;3;6;.500;3;4;.750;0;3;3;5;0;0;1;2;12;+22
+19/03/2023;ORL;8;gabriwe01;Wenyen Gabriel;20:15;2;3;.667;0;0;;2;2;1.000;4;4;8;1;0;1;0;3;6;+25
+19/03/2023;ORL;9;hachiru01;Rui Hachimura;18:56;4;9;.444;0;1;.000;0;0;;0;5;5;1;0;1;0;3;8;+4
+19/03/2023;ORL;10;chrisma02;Max Christie;Did Not Play
+19/03/2023;ORL;11;reedda01;Davon Reed;Did Not Play
+19/03/2023;ORL;12;walkelo01;Lonnie Walker IV;Did Not Play

@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+16/01/2023;GSW;0;curryst01;Stephen Curry;37:50;12;28;.429;6;15;.400;11;12;.917;1;6;7;2;0;0;4;1;41;+14
+16/01/2023;GSW;1;poolejo01;Jordan Poole;36:40;12;20;.600;7;13;.538;1;1;1.000;0;7;7;3;2;1;4;3;32;-2
+16/01/2023;GSW;2;greendr01;Draymond Green;35:12;5;7;.714;2;3;.667;5;6;.833;2;4;6;10;3;0;2;3;17;-4
+16/01/2023;GSW;3;wiggian01;Andrew Wiggins;31:45;6;15;.400;1;6;.167;1;1;1.000;0;3;3;4;0;0;1;4;14;-12
+16/01/2023;GSW;4;looneke01;Kevon Looney;27:06;1;3;.333;0;0;;0;0;;5;4;9;3;1;0;1;4;2;-2
+16/01/2023;GSW;5;Reserves;Reserves
+16/01/2023;GSW;6;divindo01;Donte DiVincenzo;27:00;5;9;.556;0;4;.000;1;1;1.000;0;5;5;3;0;0;0;3;11;+15
+16/01/2023;GSW;7;lamban01;Anthony Lamb;24:49;4;5;.800;2;2;1.000;0;0;;1;4;5;1;0;0;0;2;10;+36
+16/01/2023;GSW;8;jeromty01;Ty Jerome;14:15;0;3;.000;0;0;;0;0;;0;1;1;2;2;0;0;2;0;+2
+16/01/2023;GSW;9;moodymo01;Moses Moody;5:23;0;1;.000;0;1;.000;0;0;;0;0;0;0;0;0;0;1;0;-2
+16/01/2023;GSW;10;baldwpa01;Patrick Baldwin Jr.;Did Not Play
+16/01/2023;GSW;11;thompkl01;Klay Thompson;Did Not Play
+16/01/2023;GSW;0;kuzmaky01;Kyle Kuzma;40:06;5;20;.250;4;12;.333;2;4;.500;3;8;11;5;1;0;6;2;16;-15
+16/01/2023;GSW;1;porzikr01;Kristaps Porziņģis;36:39;9;15;.600;3;7;.429;11;12;.917;0;5;5;3;1;2;1;3;32;-17
+16/01/2023;GSW;2;morrimo01;Monte Morris;31:16;6;13;.462;3;4;.750;2;2;1.000;0;4;4;10;2;0;1;4;17;-3
+16/01/2023;GSW;3;kispeco01;Corey Kispert;27:39;2;5;.400;1;4;.250;0;0;;0;2;2;1;0;0;1;1;5;+11
+16/01/2023;GSW;4;gaffoda01;Daniel Gafford;22:01;6;8;.750;0;0;;2;2;1.000;1;4;5;0;0;0;1;3;14;+17
+16/01/2023;GSW;5;Reserves;Reserves
+16/01/2023;GSW;6;wrighde01;Delon Wright;27:42;3;5;.600;1;2;.500;2;2;1.000;0;1;1;7;2;0;1;2;9;-19
+16/01/2023;GSW;7;hachiru01;Rui Hachimura;26:15;7;9;.778;2;3;.667;0;0;;0;1;1;2;0;0;1;1;16;-8
+16/01/2023;GSW;8;goodwjo01;Jordan Goodwin;14:24;1;2;.500;0;1;.000;1;1;1.000;0;2;2;1;1;0;0;1;3;-7
+16/01/2023;GSW;9;avdijde01;Deni Avdija;13:58;3;9;.333;0;2;.000;0;0;;2;3;5;2;0;0;2;4;6;-4
+16/01/2023;GSW;10;bartowi01;Will Barton;Did Not Play
+16/01/2023;GSW;11;davisjo06;Johnny Davis;Did Not Play
+16/01/2023;GSW;12;gibsota01;Taj Gibson;Did Not Play
+16/01/2023;GSW;13;gillan01;Anthony Gill;Did Not Play

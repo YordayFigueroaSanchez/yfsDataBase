@@ -1,0 +1,26 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+13/02/2023;DEN;0;caldwke01;Kentavious Caldwell-Pope;36:05;3;5;.600;2;3;.667;0;0;;1;3;4;6;0;2;3;1;8;-2
+13/02/2023;DEN;1;jokicni01;Nikola Jokić;33:54;12;14;.857;0;0;;3;3;1.000;0;12;12;8;0;0;0;3;27;+5
+13/02/2023;DEN;2;portemi01;Michael Porter Jr.;33:29;6;15;.400;5;13;.385;0;0;;1;5;6;0;1;1;2;2;17;+6
+13/02/2023;DEN;3;brownbr01;Bruce Brown;32:09;6;12;.500;3;7;.429;1;2;.500;0;2;2;3;0;0;2;4;16;+3
+13/02/2023;DEN;4;cancavl01;Vlatko Čančar;28:01;4;6;.667;0;2;.000;2;2;1.000;1;4;5;6;1;1;3;1;10;-1
+13/02/2023;DEN;5;Reserves;Reserves
+13/02/2023;DEN;6;braunch01;Christian Braun;26:24;4;6;.667;1;2;.500;1;2;.500;2;2;4;4;1;0;0;3;10;+4
+13/02/2023;DEN;7;greenje02;Jeff Green;19:59;4;9;.444;0;1;.000;4;4;1.000;0;2;2;1;0;0;1;1;12;+5
+13/02/2023;DEN;8;smithis01;Ish Smith;15:51;1;4;.250;0;0;;0;0;;0;2;2;6;0;0;2;0;2;+1
+13/02/2023;DEN;9;bryanth01;Thomas Bryant;14:08;4;5;.800;0;0;;2;2;1.000;1;1;2;0;0;0;0;3;10;-1
+13/02/2023;DEN;10;jordade01;DeAndre Jordan;Did Not Play
+13/02/2023;DEN;11;watsope01;Peyton Watson;Did Not Play
+13/02/2023;DEN;12;whiteja03;Jack White;Did Not Play
+13/02/2023;DEN;0;strusma01;Max Strus;41:36;8;20;.400;4;14;.286;3;5;.600;1;6;7;4;1;0;1;1;23;+2
+13/02/2023;DEN;1;adebaba01;Bam Adebayo;34:26;6;14;.429;0;0;;7;7;1.000;0;2;2;2;2;1;1;2;19;-6
+13/02/2023;DEN;2;vincega01;Gabe Vincent;34:04;5;13;.385;4;9;.444;1;1;1.000;0;2;2;4;1;0;2;6;15;+5
+13/02/2023;DEN;3;butleji01;Jimmy Butler;32:19;8;18;.444;1;2;.500;7;7;1.000;3;7;10;9;1;0;1;0;24;-3
+13/02/2023;DEN;4;martica02;Caleb Martin;28:11;4;8;.500;0;2;.000;0;0;;2;2;4;0;1;0;1;1;8;-4
+13/02/2023;DEN;5;Reserves;Reserves
+13/02/2023;DEN;6;bouyeja01;Jamaree Bouyea;28:16;4;8;.500;2;4;.500;0;0;;1;1;2;3;3;1;1;0;10;-10
+13/02/2023;DEN;7;highsha01;Haywood Highsmith;27:34;1;5;.200;1;4;.250;0;0;;0;1;1;3;0;2;1;2;3;-6
+13/02/2023;DEN;8;robinor01;Orlando Robinson;13:34;3;3;1.000;0;0;;0;0;;2;4;6;0;0;0;0;2;6;+2
+13/02/2023;DEN;9;cainja01;Jamal Cain;Did Not Play
+13/02/2023;DEN;10;hasleud01;Udonis Haslem;Did Not Play
+13/02/2023;DEN;11;herroty01;Tyler Herro;Did Not Dress

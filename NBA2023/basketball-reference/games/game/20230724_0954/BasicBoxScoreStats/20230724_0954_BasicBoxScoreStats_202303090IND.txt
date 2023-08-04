@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+09/03/2023;HOU;0;smithja05;Jabari Smith Jr.;46:56;10;19;.526;3;5;.600;7;9;.778;3;9;12;3;2;1;1;1;30;-3
+09/03/2023;HOU;1;greenja05;Jalen Green;42:25;8;23;.348;2;7;.286;6;6;1.000;0;3;3;4;1;1;4;1;24;-2
+09/03/2023;HOU;2;nixda01;Daishen Nix;35:28;3;12;.250;0;2;.000;0;0;;3;4;7;2;0;0;3;6;6;-2
+09/03/2023;HOU;3;martike04;Kenyon Martin Jr.;32:30;9;13;.692;0;0;;5;8;.625;2;1;3;1;2;0;1;0;23;-10
+09/03/2023;HOU;4;sengual01;Alperen Şengün;25:35;7;11;.636;0;0;;0;2;.000;3;5;8;3;0;2;3;4;14;-11
+09/03/2023;HOU;5;Reserves;Reserves
+09/03/2023;HOU;6;tateja01;Jae'Sean Tate;29:02;5;11;.455;0;1;.000;3;4;.750;2;6;8;3;0;1;0;6;13;-9
+09/03/2023;HOU;7;easonta01;Tari Eason;27:10;4;8;.500;0;0;;0;0;;2;8;10;1;1;1;3;1;8;-5
+09/03/2023;HOU;8;chrisjo01;Josh Christopher;16:15;3;7;.429;1;2;.500;0;0;;1;1;2;1;0;0;0;3;7;+3
+09/03/2023;HOU;9;garubus01;Usman Garuba;9:39;0;3;.000;0;0;;0;0;;4;1;5;0;0;0;1;0;0;-6
+09/03/2023;HOU;10;kaminfr01;Frank Kaminsky;Did Not Play
+09/03/2023;HOU;11;marjabo01;Boban Marjanović;Did Not Play
+09/03/2023;HOU;0;halibty01;Tyrese Haliburton;38:26;9;20;.450;2;9;.222;9;10;.900;0;2;2;19;0;0;1;1;29;+14
+09/03/2023;HOU;1;nesmiaa01;Aaron Nesmith;37:46;4;10;.400;2;6;.333;0;0;;1;6;7;2;1;1;2;1;10;+20
+09/03/2023;HOU;2;hieldbu01;Buddy Hield;33:17;6;13;.462;5;10;.500;0;0;;0;6;6;0;2;2;0;2;17;+6
+09/03/2023;HOU;3;turnemy01;Myles Turner;26:35;8;15;.533;0;2;.000;5;5;1.000;0;5;5;1;1;7;1;6;21;+7
+09/03/2023;HOU;4;nembhan01;Andrew Nembhard;25:33;6;7;.857;2;2;1.000;0;0;;0;2;2;1;2;0;1;3;14;+6
+09/03/2023;HOU;5;Reserves;Reserves
+09/03/2023;HOU;6;mccontj01;T.J. McConnell;26:13;4;8;.500;3;3;1.000;2;2;1.000;1;2;3;6;2;0;3;4;13;-1
+09/03/2023;HOU;7;duartch01;Chris Duarte;24:21;3;10;.300;2;6;.333;2;2;1.000;0;3;3;3;2;1;0;0;10;-4
+09/03/2023;HOU;8;nworajo01;Jordan Nwora;23:24;7;12;.583;2;6;.333;2;2;1.000;2;3;5;1;2;1;1;0;18;-6
+09/03/2023;HOU;9;smithja04;Jalen Smith;18:05;1;2;.500;0;0;;0;0;;2;4;6;0;0;1;2;2;2;0
+09/03/2023;HOU;10;jacksis01;Isaiah Jackson;8:20;0;1;.000;0;0;;0;0;;2;1;3;1;0;2;0;1;0;+2
+09/03/2023;HOU;11;mathube01;Bennedict Mathurin;3:00;0;2;.000;0;1;.000;0;0;;0;0;0;0;0;0;0;1;0;+1
+09/03/2023;HOU;12;brissos01;Oshae Brissett;Did Not Play
+09/03/2023;HOU;13;hillge01;George Hill;Did Not Play
+09/03/2023;HOU;14;johnsja01;James Johnson;Did Not Play
+09/03/2023;HOU;15;theisda01;Daniel Theis;Did Not Play

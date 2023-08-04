@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+28/01/2023;SAC;0;sabondo01;Domantas Sabonis;39:24;9;13;.692;0;1;.000;5;8;.625;4;6;10;5;0;0;3;4;23;-5
+28/01/2023;SAC;1;barneha02;Harrison Barnes;36:48;1;7;.143;1;4;.250;10;11;.909;1;2;3;1;1;0;2;1;13;-3
+28/01/2023;SAC;2;huertke01;Kevin Huerter;35:39;4;12;.333;2;7;.286;1;2;.500;3;4;7;3;0;0;2;3;11;-9
+28/01/2023;SAC;3;foxde01;De'Aaron Fox;34:45;10;24;.417;1;7;.143;8;10;.800;0;3;3;6;2;0;0;5;29;-7
+28/01/2023;SAC;4;murrake02;Keegan Murray;32:17;3;8;.375;2;6;.333;0;0;;2;2;4;0;0;0;0;4;8;-2
+28/01/2023;SAC;5;Reserves;Reserves
+28/01/2023;SAC;6;monkma01;Malik Monk;18:53;5;6;.833;3;4;.750;0;1;.000;0;3;3;3;0;0;2;3;13;+4
+28/01/2023;SAC;7;mitchda01;Davion Mitchell;17:41;2;3;.667;0;0;;0;0;;0;3;3;5;1;0;0;0;4;0
+28/01/2023;SAC;8;lylestr01;Trey Lyles;12:07;0;2;.000;0;2;.000;2;2;1.000;0;2;2;0;1;0;0;1;2;-5
+28/01/2023;SAC;9;metuch01;Chimezie Metu;8:31;3;5;.600;0;1;.000;1;2;.500;0;1;1;0;0;0;0;0;7;-4
+28/01/2023;SAC;10;okpalkz01;KZ Okpala;3:52;0;2;.000;0;1;.000;0;0;;0;0;0;0;0;0;0;0;0;-4
+28/01/2023;SAC;11;holmeri01;Richaun Holmes;0:03;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;0
+28/01/2023;SAC;12;daviste02;Terence Davis;Did Not Play
+28/01/2023;SAC;13;dellama01;Matthew Dellavedova;Did Not Play
+28/01/2023;SAC;14;doziepj01;PJ Dozier;Did Not Play
+28/01/2023;SAC;15;lenal01;Alex Len;Did Not Play
+28/01/2023;SAC;0;edwaran01;Anthony Edwards;37:36;14;21;.667;5;7;.714;1;2;.500;2;8;10;6;2;1;6;2;34;+16
+28/01/2023;SAC;1;russeda01;D'Angelo Russell;37:15;8;14;.571;7;9;.778;2;2;1.000;1;1;2;6;1;0;3;4;25;+6
+28/01/2023;SAC;2;goberru01;Rudy Gobert;35:51;3;5;.600;0;0;;7;9;.778;2;12;14;1;1;1;2;2;13;+6
+28/01/2023;SAC;3;mcdanja02;Jaden McDaniels;35:19;6;12;.500;3;7;.429;0;0;;2;6;8;2;0;0;4;5;15;+14
+28/01/2023;SAC;4;anderky01;Kyle Anderson;26:57;2;4;.500;1;1;1.000;4;5;.800;1;3;4;5;0;0;0;4;9;+13
+28/01/2023;SAC;5;Reserves;Reserves
+28/01/2023;SAC;6;riverau01;Austin Rivers;23:11;1;3;.333;0;2;.000;0;0;;0;0;0;1;1;0;1;2;2;-11
+28/01/2023;SAC;7;nowelja01;Jaylen Nowell;18:00;2;8;.250;0;4;.000;0;0;;1;3;4;4;0;0;0;2;4;+1
+28/01/2023;SAC;8;reidna01;Naz Reid;13:19;6;9;.667;1;4;.250;1;1;1.000;0;2;2;0;0;0;1;4;14;-8
+28/01/2023;SAC;9;knighna01;Nathan Knight;7:43;0;1;.000;0;1;.000;1;2;.500;0;0;0;0;0;0;1;0;1;-6
+28/01/2023;SAC;10;garzalu01;Luka Garza;4:15;0;3;.000;0;2;.000;0;0;;0;0;0;0;0;0;1;1;0;+6
+28/01/2023;SAC;11;moorewe01;Wendell Moore Jr.;0:34;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;-2
+28/01/2023;SAC;12;forbebr01;Bryn Forbes;Did Not Play
+28/01/2023;SAC;13;minotjo01;Josh Minott;Did Not Play

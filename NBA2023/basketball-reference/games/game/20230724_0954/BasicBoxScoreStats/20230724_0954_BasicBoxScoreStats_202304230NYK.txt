@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+23/04/2023;CLE;0;mitchdo01;Donovan Mitchell;41:59;5;18;.278;0;4;.000;1;2;.500;0;4;4;5;1;0;6;4;11;-8
+23/04/2023;CLE;1;allenja01;Jarrett Allen;40:01;7;11;.636;0;0;;0;0;;1;3;4;0;1;0;1;1;14;-11
+23/04/2023;CLE;2;leverca01;Caris LeVert;38:46;4;10;.400;2;6;.333;4;5;.800;2;7;9;2;1;1;1;2;14;-11
+23/04/2023;CLE;3;garlada01;Darius Garland;36:09;9;16;.563;2;4;.500;3;3;1.000;0;2;2;10;0;0;0;4;23;-7
+23/04/2023;CLE;4;mobleev01;Evan Mobley;35:19;5;8;.625;0;0;;2;2;1.000;3;4;7;3;0;2;2;6;12;+2
+23/04/2023;CLE;5;Reserves;Reserves
+23/04/2023;CLE;6;osmande01;Cedi Osman;21:02;2;5;.400;1;4;.250;5;7;.714;0;5;5;2;0;0;1;3;10;-5
+23/04/2023;CLE;7;okorois01;Isaac Okoro;17:07;4;9;.444;1;5;.200;0;0;;0;0;0;0;0;2;0;1;9;+1
+23/04/2023;CLE;8;rubiori01;Ricky Rubio;6:06;0;0;;0;0;;0;0;;1;1;2;2;0;0;1;1;0;+2
+23/04/2023;CLE;9;greenda02;Danny Green;3:31;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;1;0;-8
+23/04/2023;CLE;10;lopezro01;Robin Lopez;Did Not Play
+23/04/2023;CLE;11;merrisa01;Sam Merrill;Did Not Play
+23/04/2023;CLE;12;netora01;Raul Neto;Did Not Play
+23/04/2023;CLE;13;stevela01;Lamar Stevens;Did Not Play
+23/04/2023;CLE;14;wadede01;Dean Wade;Did Not Play
+23/04/2023;CLE;0;brunsja01;Jalen Brunson;42:57;11;22;.500;5;9;.556;2;2;1.000;2;4;6;6;1;1;4;1;29;+9
+23/04/2023;CLE;1;hartjo01;Josh Hart;39:57;7;16;.438;1;4;.250;4;5;.800;2;5;7;2;2;0;3;2;19;+5
+23/04/2023;CLE;2;barrerj01;RJ Barrett;37:30;9;18;.500;0;6;.000;8;13;.615;0;2;2;1;0;1;0;2;26;+2
+23/04/2023;CLE;3;robinmi01;Mitchell Robinson;27:22;5;7;.714;0;0;;2;3;.667;7;4;11;1;0;2;0;2;12;-1
+23/04/2023;CLE;4;randlju01;Julius Randle;27:18;3;10;.300;0;4;.000;1;3;.333;0;2;2;1;0;1;1;1;7;-2
+23/04/2023;CLE;5;Reserves;Reserves
+23/04/2023;CLE;6;harteis01;Isaiah Hartenstein;20:38;0;1;.000;0;0;;1;2;.500;1;7;8;2;2;2;2;5;1;+10
+23/04/2023;CLE;7;toppiob01;Obi Toppin;20:01;2;5;.400;1;3;.333;0;0;;5;3;8;1;0;0;0;1;5;+11
+23/04/2023;CLE;8;quickim01;Immanuel Quickley;19:14;0;4;.000;0;2;.000;0;0;;0;2;2;1;0;0;0;1;0;+11
+23/04/2023;CLE;9;mcbrimi01;Miles McBride;5:03;1;1;1.000;1;1;1.000;0;0;;0;1;1;0;0;0;0;0;3;0
+23/04/2023;CLE;10;fournev01;Evan Fournier;Did Not Play
+23/04/2023;CLE;11;grimequ01;Quentin Grimes;Did Not Dress
+23/04/2023;CLE;12;jeffrda01;DaQuan Jeffries;Did Not Play
+23/04/2023;CLE;13;rosede01;Derrick Rose;Did Not Play

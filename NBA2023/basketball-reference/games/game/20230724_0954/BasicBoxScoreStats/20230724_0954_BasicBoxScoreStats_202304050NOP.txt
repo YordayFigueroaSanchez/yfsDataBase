@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+05/04/2023;MEM;0;jonesty01;Tyus Jones;42:49;5;9;.556;1;4;.250;2;2;1.000;0;8;8;12;4;1;3;1;13;-25
+05/04/2023;MEM;1;banede01;Desmond Bane;42:34;9;21;.429;2;8;.250;4;5;.800;2;2;4;5;1;0;1;6;24;-2
+05/04/2023;MEM;2;jacksja02;Jaren Jackson Jr.;40:40;13;28;.464;3;9;.333;11;12;.917;4;5;9;3;1;4;3;4;40;-17
+05/04/2023;MEM;3;brookdi01;Dillon Brooks;37:50;9;15;.600;5;8;.625;2;4;.500;2;4;6;2;2;0;4;6;25;-24
+05/04/2023;MEM;4;aldamsa01;Santi Aldama;6:57;1;4;.250;0;1;.000;0;0;;0;1;1;1;0;0;0;1;2;-4
+05/04/2023;MEM;5;Reserves;Reserves
+05/04/2023;MEM;6;roddyda01;David Roddy;38:07;3;7;.429;1;4;.250;0;0;;0;6;6;2;0;0;1;3;7;+3
+05/04/2023;MEM;7;loftoke01;Kenneth Lofton Jr.;22:49;3;9;.333;0;1;.000;0;1;.000;3;2;5;3;1;0;1;3;6;+8
+05/04/2023;MEM;8;konchjo01;John Konchar;22:29;5;7;.714;0;0;;0;1;.000;4;5;9;4;1;1;0;1;10;+8
+05/04/2023;MEM;9;chandke01;Kennedy Chandler;10:09;1;2;.500;0;0;;0;0;;0;1;1;1;0;0;0;0;2;+16
+05/04/2023;MEM;10;willivi01;Vince Williams Jr.;0:36;1;2;.500;0;1;.000;0;0;;0;0;0;0;0;0;0;0;2;+2
+05/04/2023;MEM;11;laravja01;Jake LaRavia;Did Not Play
+05/04/2023;MEM;0;murphtr02;Trey Murphy III;46:18;9;18;.500;7;13;.538;5;6;.833;0;2;2;4;3;0;0;3;30;+3
+05/04/2023;MEM;1;ingrabr01;Brandon Ingram;46:18;7;18;.389;1;4;.250;9;12;.750;0;6;6;13;2;1;4;3;24;+22
+05/04/2023;MEM;2;mccolcj01;CJ McCollum;44:24;10;16;.625;6;9;.667;5;10;.500;1;9;10;6;1;0;4;0;31;+11
+05/04/2023;MEM;3;joneshe01;Herbert Jones;43:37;11;21;.524;5;8;.625;8;9;.889;3;4;7;3;0;3;2;3;35;+20
+05/04/2023;MEM;4;valanjo01;Jonas Valančiūnas;19:03;1;2;.500;0;0;;2;2;1.000;1;5;6;1;1;3;0;5;4;-5
+05/04/2023;MEM;5;Reserves;Reserves
+05/04/2023;MEM;6;nancela02;Larry Nance Jr.;33:59;2;3;.667;0;0;;0;0;;3;6;9;5;1;0;2;3;4;+10
+05/04/2023;MEM;7;richajo01;Josh Richardson;15:18;3;4;.750;2;3;.667;0;0;;0;0;0;1;0;0;1;3;8;-11
+05/04/2023;MEM;8;daniedy01;Dyson Daniels;8:25;0;2;.000;0;2;.000;0;0;;0;3;3;2;1;0;2;1;0;+2
+05/04/2023;MEM;9;marshna01;Naji Marshall;7:38;1;4;.250;0;0;;0;0;;0;1;1;0;0;1;1;1;2;-17
+05/04/2023;MEM;10;hayesja02;Jaxson Hayes;Did Not Play
+05/04/2023;MEM;11;hernawi01;Willy Hernangómez;Did Not Play
+05/04/2023;MEM;12;lewiski01;Kira Lewis Jr.;Did Not Play
+05/04/2023;MEM;13;liddeej01;E.J. Liddell;Did Not Play
+05/04/2023;MEM;14;seabrde01;Dereon Seabron;Did Not Play
+05/04/2023;MEM;15;templga01;Garrett Temple;Did Not Play

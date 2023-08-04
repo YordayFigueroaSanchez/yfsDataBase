@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+19/11/2022;TOR;0;barnesc01;Scottie Barnes;45:34;11;29;.379;4;8;.500;2;2;1.000;3;8;11;9;1;2;3;3;28;-1
+19/11/2022;TOR;1;vanvlfr01;Fred VanVleet;44:27;4;18;.222;1;11;.091;6;6;1.000;1;1;2;5;0;0;2;3;15;-16
+19/11/2022;TOR;2;anunoog01;OG Anunoby;42:11;10;24;.417;0;6;.000;7;7;1.000;0;3;3;5;2;0;5;4;27;-11
+19/11/2022;TOR;3;youngth01;Thaddeus Young;35:02;9;12;.750;0;2;.000;0;0;;3;6;9;4;4;0;1;3;18;-6
+19/11/2022;TOR;4;hernaju01;Juancho Hernangómez;31:58;5;9;.556;0;3;.000;0;1;.000;2;7;9;0;2;0;1;1;10;0
+19/11/2022;TOR;5;Reserves;Reserves
+19/11/2022;TOR;6;kolokch01;Christian Koloko;30:18;2;4;.500;0;1;.000;3;6;.500;7;4;11;1;0;4;0;5;7;+5
+19/11/2022;TOR;7;flynnma01;Malachi Flynn;28:13;7;12;.583;3;6;.500;0;0;;1;4;5;3;2;0;1;6;17;+9
+19/11/2022;TOR;8;dowtije01;Jeff Dowtin;3:41;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;+9
+19/11/2022;TOR;9;birchkh01;Khem Birch;3:36;0;0;;0;0;;0;0;;0;1;1;0;0;0;0;0;0;+1
+19/11/2022;TOR;10;bantoda01;Dalano Banton;Did Not Dress
+19/11/2022;TOR;11;harpero02;Ron Harper Jr.;Did Not Play
+19/11/2022;TOR;12;porteot01;Otto Porter Jr.;Did Not Dress
+19/11/2022;TOR;0;huntede01;De'Andre Hunter;45:18;5;14;.357;1;3;.333;11;14;.786;1;4;5;1;0;0;3;3;22;+3
+19/11/2022;TOR;1;youngtr01;Trae Young;41:44;12;21;.571;2;4;.500;7;9;.778;1;2;3;12;1;1;2;3;33;+11
+19/11/2022;TOR;2;murrade01;Dejounte Murray;40:21;7;18;.389;1;6;.167;2;2;1.000;0;7;7;4;2;0;2;0;17;+13
+19/11/2022;TOR;3;capelca01;Clint Capela;34:21;9;13;.692;0;0;;0;0;;6;8;14;1;0;3;0;4;18;+10
+19/11/2022;TOR;4;collijo01;John Collins;34:00;2;4;.500;1;3;.333;4;5;.800;0;11;11;4;1;0;4;6;9;+10
+19/11/2022;TOR;5;Reserves;Reserves
+19/11/2022;TOR;6;griffaj01;AJ Griffin;30:00;8;15;.533;1;6;.167;0;0;;3;2;5;1;1;1;0;2;17;-6
+19/11/2022;TOR;7;okongon01;Onyeka Okongwu;18:39;1;2;.500;0;0;;1;2;.500;0;4;4;0;0;0;0;1;3;-8
+19/11/2022;TOR;8;holidaa01;Aaron Holiday;8:00;0;0;;0;0;;0;0;;0;1;1;0;0;0;1;0;0;-9
+19/11/2022;TOR;9;holidju01;Justin Holiday;7:16;2;5;.400;1;3;.333;0;0;;0;0;0;0;0;0;1;0;5;-6
+19/11/2022;TOR;10;johnsja05;Jalen Johnson;5:21;0;0;;0;0;;0;0;;0;0;0;0;0;0;1;1;0;-8
+19/11/2022;TOR;11;kaminfr01;Frank Kaminsky;Did Not Play
+19/11/2022;TOR;12;krejcvi01;Vit Krejci;Did Not Play

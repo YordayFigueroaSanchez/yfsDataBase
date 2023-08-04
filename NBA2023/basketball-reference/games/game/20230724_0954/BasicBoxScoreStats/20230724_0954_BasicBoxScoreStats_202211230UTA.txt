@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+23/11/2022;DET;0;bogdabo02;Bojan Bogdanović;34:13;7;18;.389;1;3;.333;8;8;1.000;1;4;5;3;1;0;1;1;23;+1
+23/11/2022;DET;1;iveyja01;Jaden Ivey;32:03;5;13;.385;0;2;.000;6;7;.857;1;4;5;6;1;0;1;1;16;0
+23/11/2022;DET;2;baglema01;Marvin Bagley III;20:49;9;10;.900;0;0;;1;1;1.000;2;4;6;2;2;0;0;1;19;+3
+23/11/2022;DET;3;liveris01;Isaiah Livers;19:30;3;5;.600;1;3;.333;0;0;;0;1;1;1;0;0;1;1;7;+1
+23/11/2022;DET;4;hayeski01;Killian Hayes;16:34;1;5;.200;0;0;;0;0;;0;3;3;3;0;0;1;2;2;+2
+23/11/2022;DET;5;Reserves;Reserves
+23/11/2022;DET;6;durenja01;Jalen Duren;27:11;2;4;.500;0;0;;0;0;;2;5;7;0;2;2;1;3;4;+6
+23/11/2022;DET;7;knoxke01;Kevin Knox;25:47;6;8;.750;6;8;.750;3;4;.750;0;3;3;0;0;0;1;2;21;+9
+23/11/2022;DET;8;diallha01;Hamidou Diallo;22:34;4;8;.500;0;0;;1;1;1.000;1;4;5;2;2;0;1;4;9;+5
+23/11/2022;DET;9;josepco01;Cory Joseph;22:32;3;8;.375;0;2;.000;0;0;;0;0;0;6;0;0;0;1;6;+5
+23/11/2022;DET;10;burksal01;Alec Burks;18:47;4;10;.400;4;6;.667;6;6;1.000;1;2;3;1;1;0;0;4;18;+13
+23/11/2022;DET;11;keybr01;Braxton Key;Did Not Play
+23/11/2022;DET;12;mcgruro01;Rodney McGruder;Did Not Play
+23/11/2022;DET;13;noelne01;Nerlens Noel;Did Not Play
+23/11/2022;DET;0;clarkjo01;Jordan Clarkson;37:27;9;17;.529;3;8;.375;3;3;1.000;0;3;3;2;1;0;3;1;24;-12
+23/11/2022;DET;1;olynyke01;Kelly Olynyk;35:08;4;7;.571;0;2;.000;0;0;;1;2;3;6;2;1;0;2;8;+1
+23/11/2022;DET;2;sextoco01;Collin Sexton;35:06;7;12;.583;1;4;.250;2;2;1.000;0;0;0;12;0;0;2;5;17;-11
+23/11/2022;DET;3;markkla01;Lauri Markkanen;34:22;4;13;.308;3;7;.429;2;2;1.000;0;8;8;2;0;0;3;3;13;-3
+23/11/2022;DET;4;vandeja01;Jarred Vanderbilt;21:51;3;5;.600;0;0;;1;1;1.000;1;2;3;2;1;1;1;1;7;0
+23/11/2022;DET;5;Reserves;Reserves
+23/11/2022;DET;6;beaslma01;Malik Beasley;29:17;9;18;.500;8;15;.533;3;4;.750;2;9;11;5;0;0;1;2;29;-8
+23/11/2022;DET;7;kesslwa01;Walker Kessler;21:03;2;2;1.000;0;0;;1;2;.500;2;5;7;0;0;5;2;5;5;-4
+23/11/2022;DET;8;hortota01;Talen Horton-Tucker;12:54;1;4;.250;1;2;.500;0;0;;0;0;0;2;0;0;2;1;3;+2
+23/11/2022;DET;9;fontesi01;Simone Fontecchio;11:35;2;5;.400;2;3;.667;4;5;.800;0;2;2;0;0;0;1;1;10;-6
+23/11/2022;DET;10;azubuud01;Udoka Azubuike;1:17;0;0;;0;0;;0;0;;1;0;1;0;0;0;0;0;0;-4
+23/11/2022;DET;11;agbajoc01;Ochai Agbaji;Did Not Play
+23/11/2022;DET;12;alexani01;Nickeil Alexander-Walker;Did Not Play

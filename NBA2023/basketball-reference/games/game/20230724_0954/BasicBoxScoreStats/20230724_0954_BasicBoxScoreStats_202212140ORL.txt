@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+14/12/2022;ATL;0;youngtr01;Trae Young;38:44;6;15;.400;1;5;.200;6;7;.857;1;2;3;16;0;0;5;3;19;-17
+14/12/2022;ATL;1;huntede01;De'Andre Hunter;37:47;6;14;.429;4;9;.444;9;10;.900;0;6;6;3;0;0;2;3;25;+5
+14/12/2022;ATL;2;griffaj01;AJ Griffin;27:23;6;9;.667;3;4;.750;0;0;;1;1;2;0;0;1;0;2;15;-6
+14/12/2022;ATL;3;capelca01;Clint Capela;22:03;8;10;.800;0;0;;0;0;;2;4;6;2;0;0;0;2;16;-5
+14/12/2022;ATL;4;johnsja05;Jalen Johnson;18:47;4;9;.444;1;5;.200;0;0;;0;0;0;1;0;4;1;2;9;-3
+14/12/2022;ATL;5;Reserves;Reserves
+14/12/2022;ATL;6;bogdabo01;Bogdan Bogdanović;31:05;6;14;.429;3;9;.333;2;2;1.000;1;4;5;3;0;0;2;3;17;-9
+14/12/2022;ATL;7;okongon01;Onyeka Okongwu;25:57;4;8;.500;0;0;;7;8;.875;5;6;11;0;1;0;1;3;15;-6
+14/12/2022;ATL;8;holidju01;Justin Holiday;20:29;1;1;1.000;0;0;;0;0;;0;0;0;2;0;1;0;2;2;+3
+14/12/2022;ATL;9;forretr01;Trent Forrest;13:45;2;6;.333;0;2;.000;0;0;;0;4;4;3;0;0;0;0;4;-11
+14/12/2022;ATL;10;culveja01;Jarrett Culver;4:00;1;2;.500;0;1;.000;0;0;;1;1;2;0;1;0;2;1;2;-6
+14/12/2022;ATL;11;holidaa01;Aaron Holiday;Did Not Play
+14/12/2022;ATL;12;kaminfr01;Frank Kaminsky;Did Not Play
+14/12/2022;ATL;13;krejcvi01;Vit Krejci;Did Not Play
+14/12/2022;ATL;14;martity01;Tyrese Martin;Did Not Play
+14/12/2022;ATL;0;wagnefr01;Franz Wagner;36:24;7;17;.412;3;6;.500;7;8;.875;1;2;3;4;0;1;1;3;24;+9
+14/12/2022;ATL;1;banchpa01;Paolo Banchero;33:35;6;16;.375;2;7;.286;6;7;.857;2;4;6;6;2;1;2;4;20;+15
+14/12/2022;ATL;2;fultzma01;Markelle Fultz;31:37;8;14;.571;0;0;;0;0;;3;4;7;9;4;1;1;3;16;0
+14/12/2022;ATL;3;wagnemo01;Moritz Wagner;30:26;7;9;.778;3;4;.750;0;0;;2;3;5;0;1;0;2;2;17;+5
+14/12/2022;ATL;4;bolbo01;Bol Bol;27:28;7;13;.538;3;4;.750;4;5;.800;4;3;7;2;1;1;0;0;21;+10
+14/12/2022;ATL;5;Reserves;Reserves
+14/12/2022;ATL;6;rosste01;Terrence Ross;24:19;4;9;.444;3;7;.429;0;0;;1;3;4;1;1;0;2;1;11;+9
+14/12/2022;ATL;7;anthoco01;Cole Anthony;20:20;3;7;.429;0;3;.000;7;7;1.000;0;5;5;6;0;0;3;4;13;+1
+14/12/2022;ATL;8;bambamo01;Mo Bamba;17:34;4;6;.667;2;4;.500;1;3;.333;0;7;7;0;0;2;0;3;11;+6
+14/12/2022;ATL;9;schofad01;Admiral Schofield;14:25;1;2;.500;0;1;.000;0;0;;1;1;2;0;1;0;0;1;2;-4
+14/12/2022;ATL;10;harrike01;Kevon Harris;3:52;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;1;0;+4
+14/12/2022;ATL;11;houstca01;Caleb Houstan;Did Not Play

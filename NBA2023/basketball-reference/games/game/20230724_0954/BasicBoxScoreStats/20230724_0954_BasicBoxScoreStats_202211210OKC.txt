@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+21/11/2022;NYK;0;barrerj01;RJ Barrett;37:29;10;16;.625;3;4;.750;2;2;1.000;2;6;8;2;1;0;6;3;25;+3
+21/11/2022;NYK;1;brunsja01;Jalen Brunson;34:15;14;20;.700;1;6;.167;5;6;.833;0;0;0;9;1;0;2;1;34;+5
+21/11/2022;NYK;2;grimequ01;Quentin Grimes;33:24;4;10;.400;0;4;.000;0;0;;1;4;5;1;2;0;1;5;8;+9
+21/11/2022;NYK;3;randlju01;Julius Randle;33:14;9;16;.563;2;6;.333;5;6;.833;1;10;11;1;0;0;2;5;25;+8
+21/11/2022;NYK;4;robinmi01;Mitchell Robinson;13:10;1;1;1.000;0;0;;1;2;.500;0;2;2;1;1;0;0;2;3;+5
+21/11/2022;NYK;5;Reserves;Reserves
+21/11/2022;NYK;6;quickim01;Immanuel Quickley;25:12;6;8;.750;4;5;.800;2;2;1.000;1;2;3;4;1;0;0;3;18;+11
+21/11/2022;NYK;7;toppiob01;Obi Toppin;17:39;2;11;.182;1;5;.200;0;0;;1;2;3;1;1;0;0;4;5;+4
+21/11/2022;NYK;8;harteis01;Isaiah Hartenstein;15:48;1;4;.250;0;1;.000;0;0;;5;3;8;0;1;1;0;0;2;+3
+21/11/2022;NYK;9;simsje01;Jericho Sims;15:12;3;5;.600;0;0;;0;0;;3;4;7;0;0;1;1;3;6;-1
+21/11/2022;NYK;10;mcbrimi01;Miles McBride;14:37;1;6;.167;0;3;.000;1;2;.500;0;1;1;2;2;0;1;2;3;+3
+21/11/2022;NYK;11;arcidry01;Ryan Arcidiacono;Did Not Play
+21/11/2022;NYK;12;fournev01;Evan Fournier;Did Not Play
+21/11/2022;NYK;13;mykhasv01;Svi Mykhailiuk;Did Not Play
+21/11/2022;NYK;0;gilgesh01;Shai Gilgeous-Alexander;34:36;9;22;.409;0;2;.000;12;13;.923;1;4;5;7;1;1;3;3;30;-7
+21/11/2022;NYK;1;giddejo01;Josh Giddey;33:45;8;15;.533;0;2;.000;2;2;1.000;3;6;9;7;1;0;3;1;18;-2
+21/11/2022;NYK;2;dortlu01;Luguentz Dort;31:43;9;14;.643;3;4;.750;3;4;.750;4;4;8;3;1;1;1;4;24;-7
+21/11/2022;NYK;3;robinje02;Jeremiah Robinson-Earl;21:42;3;5;.600;2;3;.667;0;0;;1;1;2;2;0;0;1;2;8;-8
+21/11/2022;NYK;4;willike04;Kenrich Williams;17:03;2;4;.500;0;1;.000;0;0;;1;0;1;1;0;0;1;3;4;-4
+21/11/2022;NYK;5;Reserves;Reserves
+21/11/2022;NYK;6;willija06;Jalen Williams;26:12;5;11;.455;0;3;.000;3;4;.750;0;4;4;0;1;0;2;1;13;-14
+21/11/2022;NYK;7;bazleda01;Darius Bazley;18:26;2;5;.400;0;2;.000;3;7;.429;1;2;3;0;0;3;0;0;7;-5
+21/11/2022;NYK;8;omorueu01;Eugene Omoruyi;14:30;1;3;.333;0;1;.000;0;0;;0;0;0;0;1;0;1;2;2;+6
+21/11/2022;NYK;9;manntr01;Tre Mann;12:00;1;5;.200;1;3;.333;0;0;;0;1;1;2;0;0;1;0;3;-9
+21/11/2022;NYK;10;wiggiaa01;Aaron Wiggins;11:18;1;1;1.000;0;0;;2;2;1.000;0;3;3;0;0;0;1;0;4;-4
+21/11/2022;NYK;11;muscami01;Mike Muscala;7:44;1;2;.500;1;2;.500;0;0;;0;1;1;1;0;0;0;1;3;+1
+21/11/2022;NYK;12;waterli01;Lindy Waters III;7:38;1;1;1.000;1;1;1.000;0;0;;0;0;0;0;0;0;0;1;3;-1
+21/11/2022;NYK;13;joeis01;Isaiah Joe;3:23;0;0;;0;0;;0;0;;0;1;1;2;0;0;0;0;0;+4
+21/11/2022;NYK;14;willija07;Jaylin Williams;Did Not Play

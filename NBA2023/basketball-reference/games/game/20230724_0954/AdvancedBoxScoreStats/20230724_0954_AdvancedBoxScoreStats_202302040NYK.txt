@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;TS%;eFG%;3PAr;FTr;ORB%;DRB%;TRB%;AST%;STL%;BLK%;TOV%;USG%;ORtg;DRtg;BPM
+04/02/2023;LAC;0;georgpa01;Paul George;41:48;.786;.719;.563;.438;0.0;21.6;11.0;19.5;1.2;0.0;17.3;24.3;134;122;6.0
+04/02/2023;LAC;1;leonaka01;Kawhi Leonard;41:21;.619;.500;.130;.522;8.5;5.5;7.0;12.9;4.8;0.0;6.6;32.2;129;117;6.3
+04/02/2023;LAC;2;zubaciv01;Ivica Zubac;39:32;.333;.333;.000;.000;6.0;31.4;18.9;3.1;0.0;2.5;25.0;4.5;92;121;-4.7
+04/02/2023;LAC;3;morrima03;Marcus Morris;36:24;.535;.533;.533;.133;0.0;18.6;9.5;12.4;0.0;2.7;5.9;20.4;108;124;-0.6
+04/02/2023;LAC;4;mannte01;Terance Mann;29:27;.721;.643;.429;.429;8.0;3.8;5.9;9.8;0.0;0.0;10.7;13.9;144;129;-2.6
+04/02/2023;LAC;5;Reserves;Reserves
+04/02/2023;LAC;6;powelno01;Norman Powell;35:01;.573;.529;.353;.529;3.4;19.3;11.5;14.2;1.4;0.0;8.7;28.9;114;122;-1.3
+04/02/2023;LAC;7;batumni01;Nicolas Batum;26:57;1.025;1.125;1.000;.500;4.4;4.2;4.3;15.5;1.9;7.3;0.0;8.0;205;119;12.4
+04/02/2023;LAC;8;jacksre01;Reggie Jackson;14:30;.286;.286;.571;.000;0.0;15.6;7.9;39.8;3.4;0.0;22.2;27.3;70;118;-11.3
+04/02/2023;LAC;9;bostobr01;Brandon Boston Jr.;Did Not Play
+04/02/2023;LAC;10;coffeam01;Amir Coffey;Did Not Play
+04/02/2023;LAC;11;covinro01;Robert Covington;Did Not Play
+04/02/2023;LAC;12;diabamo01;Moussa Diabaté;Did Not Play
+04/02/2023;LAC;13;kennalu01;Luke Kennard;Did Not Play
+04/02/2023;LAC;14;prestja01;Jason Preston;Did Not Play
+04/02/2023;LAC;0;barrerj01;RJ Barrett;43:40;.320;.310;.381;.095;5.2;8.1;6.6;12.9;1.1;0.0;4.4;24.1;81;128;-13.3
+04/02/2023;LAC;1;randlju01;Julius Randle;40:44;.651;.611;.333;.444;0.0;31.8;15.6;28.5;1.2;0.0;18.9;29.9;114;123;1.8
+04/02/2023;LAC;2;grimequ01;Quentin Grimes;38:42;.732;.688;.750;.250;5.8;9.1;7.4;6.9;0.0;0.0;0.0;10.5;159;131;-2.2
+04/02/2023;LAC;3;brunsja01;Jalen Brunson;38:22;.876;.868;.368;.526;0.0;15.3;7.5;37.7;0.0;0.0;4.1;29.2;171;129;16.9
+04/02/2023;LAC;4;simsje01;Jericho Sims;21:27;;;;;0.0;5.5;2.7;11.0;2.3;4.5;100.0;2.1;84;123;-3.1
+04/02/2023;LAC;5;Reserves;Reserves
+04/02/2023;LAC;6;harteis01;Isaiah Hartenstein;31:33;.363;.333;.000;.333;21.4;18.7;20.1;16.1;1.6;6.1;22.5;12.9;112;121;-2.6
+04/02/2023;LAC;7;quickim01;Immanuel Quickley;27:12;.427;.375;.583;.167;0.0;17.3;8.5;10.0;1.8;0.0;0.0;21.7;98;125;-5.8
+04/02/2023;LAC;8;toppiob01;Obi Toppin;12:16;1.000;1.000;.750;.000;0.0;9.6;4.7;13.5;0.0;0.0;0.0;15.0;188;131;10.8
+04/02/2023;LAC;9;mcbrimi01;Miles McBride;11:04;.667;.667;.500;.000;0.0;31.9;15.6;15.6;4.5;0.0;0.0;24.9;132;116;10.2
+04/02/2023;LAC;10;arcidry01;Ryan Arcidiacono;Did Not Play
+04/02/2023;LAC;11;fournev01;Evan Fournier;Did Not Play
+04/02/2023;LAC;12;mykhasv01;Svi Mykhailiuk;Did Not Play
+04/02/2023;LAC;13;reddica01;Cam Reddish;Did Not Play
+04/02/2023;LAC;14;rosede01;Derrick Rose;Did Not Play

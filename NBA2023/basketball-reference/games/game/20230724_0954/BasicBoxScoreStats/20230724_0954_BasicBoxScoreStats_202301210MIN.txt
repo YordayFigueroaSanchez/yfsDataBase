@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+21/01/2023;HOU;0;sengual01;Alperen Şengün;37:06;7;9;.778;1;1;1.000;4;10;.400;2;14;16;7;1;3;4;2;19;-5
+21/01/2023;HOU;1;gordoer01;Eric Gordon;33:31;7;13;.538;2;6;.333;0;0;;0;4;4;3;1;0;0;2;16;-1
+21/01/2023;HOU;2;greenja05;Jalen Green;32:46;3;13;.231;1;4;.250;3;6;.500;0;0;0;2;0;0;6;1;10;-11
+21/01/2023;HOU;3;martike04;Kenyon Martin Jr.;30:27;6;12;.500;0;3;.000;3;4;.750;2;7;9;2;0;0;2;2;15;-12
+21/01/2023;HOU;4;easonta01;Tari Eason;26:48;5;11;.455;1;2;.500;3;4;.750;5;4;9;1;0;0;1;2;14;-2
+21/01/2023;HOU;5;Reserves;Reserves
+21/01/2023;HOU;6;tateja01;Jae'Sean Tate;21:12;2;4;.500;2;2;1.000;2;4;.500;2;1;3;4;0;0;4;3;8;-7
+21/01/2023;HOU;7;mathega01;Garrison Mathews;17:33;2;3;.667;1;2;.500;4;5;.800;1;1;2;1;0;0;2;2;9;-2
+21/01/2023;HOU;8;chrisjo01;Josh Christopher;14:54;5;9;.556;0;1;.000;0;0;;1;3;4;1;1;2;2;1;10;+2
+21/01/2023;HOU;9;washity02;TyTy Washington Jr.;14:49;1;3;.333;1;3;.333;0;0;;0;2;2;1;1;0;0;3;3;-3
+21/01/2023;HOU;10;garubus01;Usman Garuba;10:54;0;2;.000;0;0;;0;0;;2;5;7;2;0;1;0;1;0;-4
+21/01/2023;HOU;11;fernabr01;Bruno Fernando;Did Not Play
+21/01/2023;HOU;12;marjabo01;Boban Marjanović;Did Not Play
+21/01/2023;HOU;13;nixda01;Daishen Nix;Did Not Play
+21/01/2023;HOU;0;edwaran01;Anthony Edwards;40:32;17;29;.586;8;16;.500;2;2;1.000;0;6;6;4;3;3;5;1;44;+14
+21/01/2023;HOU;1;anderky01;Kyle Anderson;33:10;0;7;.000;0;1;.000;0;0;;0;7;7;2;1;3;2;3;0;+6
+21/01/2023;HOU;2;mcdanja02;Jaden McDaniels;31:22;2;5;.400;0;2;.000;1;3;.333;0;2;2;0;1;2;1;2;5;0
+21/01/2023;HOU;3;russeda01;D'Angelo Russell;31:15;6;11;.545;4;6;.667;7;7;1.000;0;1;1;8;1;0;2;2;23;+2
+21/01/2023;HOU;4;reidna01;Naz Reid;15:09;2;7;.286;0;4;.000;1;1;1.000;1;2;3;1;0;1;1;3;5;-9
+21/01/2023;HOU;5;Reserves;Reserves
+21/01/2023;HOU;6;knighna01;Nathan Knight;24:49;5;9;.556;2;3;.667;7;8;.875;2;2;4;0;3;0;0;4;19;+23
+21/01/2023;HOU;7;riverau01;Austin Rivers;22:46;2;4;.500;0;2;.000;0;0;;0;2;2;0;1;0;0;3;4;0
+21/01/2023;HOU;8;princta02;Taurean Prince;21:30;2;4;.500;2;3;.667;1;1;1.000;0;2;2;4;2;0;0;2;7;+3
+21/01/2023;HOU;9;nowelja01;Jaylen Nowell;14:47;2;6;.333;1;3;.333;1;2;.500;0;2;2;1;0;0;0;3;6;+6
+21/01/2023;HOU;10;garzalu01;Luka Garza;4:40;0;1;.000;0;1;.000;0;0;;0;1;1;0;0;0;0;3;0;0
+21/01/2023;HOU;11;goberru01;Rudy Gobert;Did Not Dress
+21/01/2023;HOU;12;ryanma01;Matt Ryan;Did Not Play

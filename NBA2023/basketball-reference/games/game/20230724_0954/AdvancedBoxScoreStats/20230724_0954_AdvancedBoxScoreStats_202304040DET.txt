@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;TS%;eFG%;3PAr;FTr;ORB%;DRB%;TRB%;AST%;STL%;BLK%;TOV%;USG%;ORtg;DRtg;BPM
+04/04/2023;MIA;0;herroty01;Tyler Herro;37:46;.533;.500;.438;.125;0.0;18.7;9.3;7.9;1.4;0.0;5.6;23.1;103;119;-7.2
+04/04/2023;MIA;1;vincega01;Gabe Vincent;36:07;.786;.786;.786;.000;0.0;11.7;5.9;8.8;1.5;0.0;0.0;18.9;148;120;4.8
+04/04/2023;MIA;2;butleji01;Jimmy Butler;35:29;.802;.750;.000;.917;0.0;31.8;15.9;37.5;5.9;0.0;10.6;25.9;155;107;15.4
+04/04/2023;MIA;3;adebaba01;Bam Adebayo;31:02;.712;.600;.000;.600;9.1;9.1;9.1;9.8;3.4;0.0;7.3;21.4;144;116;0.7
+04/04/2023;MIA;4;strusma01;Max Strus;29:21;.414;.400;.800;.200;0.0;14.4;7.2;9.1;0.0;0.0;0.0;18.1;92;123;-11.0
+04/04/2023;MIA;5;Reserves;Reserves
+04/04/2023;MIA;6;martica02;Caleb Martin;29:48;.510;.400;.200;.400;9.5;9.5;9.5;12.8;5.3;0.0;0.0;9.6;139;111;1.0
+04/04/2023;MIA;7;lowryky01;Kyle Lowry;23:28;.751;.667;.833;.500;0.0;12.0;6.0;29.3;2.2;4.5;29.1;21.4;119;114;0.2
+04/04/2023;MIA;8;loveke01;Kevin Love;16:58;.500;.500;.571;.000;8.3;25.0;16.6;17.4;0.0;6.3;0.0;20.1;117;116;-2.0
+04/04/2023;MIA;9;cainja01;Jamal Cain;Did Not Play
+04/04/2023;MIA;10;hasleud01;Udonis Haslem;Did Not Play
+04/04/2023;MIA;11;highsha01;Haywood Highsmith;Did Not Play
+04/04/2023;MIA;12;oladivi01;Victor Oladipo;Did Not Play
+04/04/2023;MIA;13;robindu01;Duncan Robinson;Did Not Play
+04/04/2023;MIA;14;yurtsom01;Omer Yurtseven;Did Not Play
+04/04/2023;MIA;15;zelleco01;Cody Zeller;Did Not Play
+04/04/2023;MIA;0;hayeski01;Killian Hayes;42:07;.415;.375;.375;.125;0.0;3.4;1.7;28.0;0.0;0.0;32.2;14.3;86;135;-11.5
+04/04/2023;MIA;1;iveyja01;Jaden Ivey;37:05;.872;.867;.400;.333;0.0;15.2;7.6;41.6;1.4;0.0;22.5;29.1;135;130;9.7
+04/04/2023;MIA;2;durenja01;Jalen Duren;35:54;.903;.875;.000;.875;11.8;43.3;27.5;5.0;1.5;3.0;15.3;17.7;158;124;6.2
+04/04/2023;MIA;3;wisemja01;James Wiseman;29:41;.444;.429;.000;.286;9.5;19.0;14.3;6.1;0.0;0.0;6.0;27.4;94;133;-12.8
+04/04/2023;MIA;4;liveris01;Isaiah Livers;23:37;.727;.667;.667;.333;0.0;17.9;9.0;7.3;0.0;0.0;8.8;23.3;131;133;2.2
+04/04/2023;MIA;5;Reserves;Reserves
+04/04/2023;MIA;6;josepco01;Cory Joseph;27:35;.429;.429;.857;.000;0.0;0.0;0.0;5.4;1.9;0.0;0.0;12.3;93;131;-6.8
+04/04/2023;MIA;7;omorueu01;Eugene Omoruyi;25:53;.606;.417;.500;1.167;5.5;16.4;10.9;11.5;4.1;0.0;0.0;17.0;141;124;4.2
+04/04/2023;MIA;8;hamptrj01;R.J. Hampton;15:23;.200;.200;.600;.000;0.0;27.5;13.8;0.0;0.0;7.1;0.0;15.8;43;126;-13.3
+04/04/2023;MIA;9;rhodeja01;Jared Rhoden;2:45;.000;.000;1.000;.000;0.0;0.0;0.0;0.0;0.0;0.0;50.0;35.3;0;135;-50.0
+04/04/2023;MIA;10;baglema01;Marvin Bagley III;Did Not Play
+04/04/2023;MIA;11;boehebu01;Buddy Boeheim;Did Not Play
+04/04/2023;MIA;12;mcgruro01;Rodney McGruder;Did Not Play

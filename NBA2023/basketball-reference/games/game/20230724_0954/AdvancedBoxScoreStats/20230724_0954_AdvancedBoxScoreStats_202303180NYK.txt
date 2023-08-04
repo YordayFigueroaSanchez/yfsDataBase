@@ -1,0 +1,32 @@
+dateId;teamId;order;playerId;Starters;MP;TS%;eFG%;3PAr;FTr;ORB%;DRB%;TRB%;AST%;STL%;BLK%;TOV%;USG%;ORtg;DRtg;BPM
+18/03/2023;DEN;0;caldwke01;Kentavious Caldwell-Pope;37:15;.286;.286;.714;.000;0.0;3.1;1.7;3.2;0.0;0.0;12.5;10.0;58;131;-11.8
+18/03/2023;DEN;1;jokicni01;Nikola Jokić;36:51;.651;.639;.278;.056;7.7;24.8;17.1;36.3;0.0;2.6;24.5;30.7;108;122;4.9
+18/03/2023;DEN;2;murraja01;Jamal Murray;34:45;.816;.821;.500;.214;0.0;13.2;7.3;27.1;1.5;0.0;11.5;23.1;142;124;11.1
+18/03/2023;DEN;3;gordoaa01;Aaron Gordon;31:13;.526;.500;.167;.250;4.5;14.6;10.1;31.9;1.7;0.0;7.0;21.3;120;123;4.1
+18/03/2023;DEN;4;portemi01;Michael Porter Jr.;30:12;.550;.550;.700;.000;4.7;15.1;10.5;0.0;0.0;0.0;0.0;15.3;110;127;-2.7
+18/03/2023;DEN;5;Reserves;Reserves
+18/03/2023;DEN;6;brownbr01;Bruce Brown;27:55;.637;.500;.167;1.000;5.1;12.3;9.0;27.3;0.0;0.0;18.8;17.7;128;128;1.1
+18/03/2023;DEN;7;greenje02;Jeff Green;18:59;1.020;1.000;.400;.400;0.0;0.0;0.0;7.7;0.0;0.0;0.0;14.4;199;132;9.9
+18/03/2023;DEN;8;braunch01;Christian Braun;13:53;.357;.357;.571;.000;0.0;24.7;13.6;0.0;3.7;6.8;12.5;26.7;61;111;-10.0
+18/03/2023;DEN;9;bryanth01;Thomas Bryant;8:57;.400;.400;.000;.000;15.8;0.0;7.1;16.6;0.0;0.0;0.0;25.9;101;132;-7.5
+18/03/2023;DEN;10;cancavl01;Vlatko Čančar;Did Not Play
+18/03/2023;DEN;11;jacksre01;Reggie Jackson;Did Not Play
+18/03/2023;DEN;12;jordade01;DeAndre Jordan;Did Not Play
+18/03/2023;DEN;13;nnajize01;Zeke Nnaji;Did Not Play
+18/03/2023;DEN;14;smithis01;Ish Smith;Did Not Play
+18/03/2023;DEN;15;watsope01;Peyton Watson;Did Not Play
+18/03/2023;DEN;0;randlju01;Julius Randle;36:19;.553;.433;.400;.467;0.0;27.2;12.2;16.0;1.4;0.0;14.2;26.0;113;119;-1.4
+18/03/2023;DEN;1;barrerj01;RJ Barrett;34:27;.671;.615;.231;.462;3.3;12.3;7.3;9.3;0.0;0.0;0.0;20.3;152;125;1.9
+18/03/2023;DEN;2;brunsja01;Jalen Brunson;31:49;.551;.500;.250;.200;0.0;8.9;4.0;27.5;0.0;0.0;4.4;32.0;126;125;0.2
+18/03/2023;DEN;3;robinmi01;Mitchell Robinson;26:27;.820;.750;.000;.500;30.2;10.7;21.5;15.3;2.0;3.6;17.0;9.9;170;118;8.1
+18/03/2023;DEN;4;grimequ01;Quentin Grimes;20:05;.643;.643;.714;.000;0.0;7.0;3.1;7.1;2.6;4.7;12.5;17.8;120;116;5.7
+18/03/2023;DEN;5;Reserves;Reserves
+18/03/2023;DEN;6;hartjo01;Josh Hart;31:59;.962;.900;.400;.800;10.7;22.1;15.8;21.4;4.9;0.0;0.0;9.5;210;112;14.5
+18/03/2023;DEN;7;quickim01;Immanuel Quickley;25:40;.446;.389;.778;.556;4.5;11.0;7.4;10.6;2.0;0.0;21.1;24.7;87;120;-8.1
+18/03/2023;DEN;8;harteis01;Isaiah Hartenstein;21:33;.600;.600;.000;.000;15.9;39.3;26.4;6.5;4.8;4.4;16.7;12.5;126;107;4.3
+18/03/2023;DEN;9;toppiob01;Obi Toppin;11:41;.500;.500;.800;.000;0.0;0.0;0.0;0.0;0.0;8.1;28.6;26.8;70;120;-13.1
+18/03/2023;DEN;10;fournev01;Evan Fournier;Did Not Play
+18/03/2023;DEN;11;jeffrda01;DaQuan Jeffries;Did Not Play
+18/03/2023;DEN;12;mcbrimi01;Miles McBride;Did Not Play
+18/03/2023;DEN;13;rosede01;Derrick Rose;Did Not Play
+18/03/2023;DEN;14;simsje01;Jericho Sims;Did Not Play

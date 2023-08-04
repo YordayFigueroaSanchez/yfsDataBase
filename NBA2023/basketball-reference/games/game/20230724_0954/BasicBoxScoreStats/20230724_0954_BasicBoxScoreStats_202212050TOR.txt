@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+05/12/2022;BOS;0;brownja02;Jaylen Brown;39:01;9;22;.409;1;6;.167;3;4;.750;0;8;8;8;0;0;0;1;22;+6
+05/12/2022;BOS;1;smartma01;Marcus Smart;38:58;7;14;.500;4;8;.500;0;2;.000;0;3;3;7;2;0;2;2;18;+9
+05/12/2022;BOS;2;tatumja01;Jayson Tatum;38:44;11;24;.458;5;10;.500;4;5;.800;3;9;12;3;1;1;4;2;31;+9
+05/12/2022;BOS;3;griffbl01;Blake Griffin;32:18;5;6;.833;0;1;.000;3;5;.600;3;5;8;2;1;0;1;5;13;+3
+05/12/2022;BOS;4;whitede01;Derrick White;27:10;2;6;.333;1;3;.333;4;4;1.000;2;2;4;5;1;1;0;3;9;+9
+05/12/2022;BOS;5;Reserves;Reserves
+05/12/2022;BOS;6;willigr01;Grant Williams;32:25;3;6;.500;1;3;.333;0;0;;1;3;4;1;1;0;1;4;7;-7
+05/12/2022;BOS;7;hausesa01;Sam Hauser;15:51;2;5;.400;1;4;.250;0;0;;1;2;3;1;0;0;0;3;5;-2
+05/12/2022;BOS;8;kornelu01;Luke Kornet;15:33;5;7;.714;0;1;.000;1;1;1.000;3;4;7;0;0;1;3;2;11;+3
+05/12/2022;BOS;9;jacksju01;Justin Jackson;Did Not Play
+05/12/2022;BOS;10;pritcpa01;Payton Pritchard;Did Not Play
+05/12/2022;BOS;11;vonleno01;Noah Vonleh;Did Not Play
+05/12/2022;BOS;0;anunoog01;OG Anunoby;41:38;6;14;.429;1;5;.200;0;0;;1;4;5;0;3;1;5;3;13;-3
+05/12/2022;BOS;1;barnesc01;Scottie Barnes;41:07;8;14;.571;1;6;.167;4;6;.667;0;7;7;4;1;1;3;3;21;-1
+05/12/2022;BOS;2;siakapa01;Pascal Siakam;38:41;9;20;.450;2;4;.500;9;13;.692;2;6;8;7;0;0;2;4;29;-9
+05/12/2022;BOS;3;vanvlfr01;Fred VanVleet;38:09;3;14;.214;1;6;.167;1;1;1.000;1;6;7;3;0;2;1;3;8;-12
+05/12/2022;BOS;4;kolokch01;Christian Koloko;22:06;1;1;1.000;0;0;;3;4;.750;1;2;3;2;0;1;1;3;5;-7
+05/12/2022;BOS;5;Reserves;Reserves
+05/12/2022;BOS;6;trentga02;Gary Trent Jr.;26:26;7;10;.700;3;3;1.000;3;4;.750;0;1;1;1;2;0;0;1;20;+4
+05/12/2022;BOS;7;bouchch01;Chris Boucher;16:12;3;6;.500;0;2;.000;2;2;1.000;3;6;9;0;0;0;0;2;8;-2
+05/12/2022;BOS;8;youngth01;Thaddeus Young;15:41;2;6;.333;2;2;1.000;0;0;;4;2;6;2;0;0;1;1;6;0
+05/12/2022;BOS;9;bantoda01;Dalano Banton;Did Not Play
+05/12/2022;BOS;10;birchkh01;Khem Birch;Did Not Play
+05/12/2022;BOS;11;champju01;Justin Champagnie;Did Not Play
+05/12/2022;BOS;12;dowtije01;Jeff Dowtin;Did Not Play
+05/12/2022;BOS;13;flynnma01;Malachi Flynn;Did Not Play
+05/12/2022;BOS;14;harpero02;Ron Harper Jr.;Did Not Play

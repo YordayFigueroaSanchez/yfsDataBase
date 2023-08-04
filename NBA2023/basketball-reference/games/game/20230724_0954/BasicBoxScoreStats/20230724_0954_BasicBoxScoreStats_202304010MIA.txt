@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+01/04/2023;DAL;0;doncilu01;Luka Dončić;44:31;17;25;.680;2;6;.333;6;7;.857;0;10;10;8;2;0;3;4;42;-6
+01/04/2023;DAL;1;irvinky01;Kyrie Irving;42:30;10;17;.588;1;4;.250;2;2;1.000;0;3;3;8;0;0;1;3;23;+4
+01/04/2023;DAL;2;hardati02;Tim Hardaway Jr.;40:31;11;15;.733;6;10;.600;3;4;.750;0;6;6;7;0;0;1;2;31;+10
+01/04/2023;DAL;3;bullore01;Reggie Bullock;23:17;1;5;.200;0;4;.000;0;0;;0;2;2;3;0;0;0;1;2;-11
+01/04/2023;DAL;4;poweldw01;Dwight Powell;17:13;1;1;1.000;0;0;;0;0;;1;2;3;1;0;1;1;4;2;-2
+01/04/2023;DAL;5;Reserves;Reserves
+01/04/2023;DAL;6;klebima01;Maxi Kleber;27:00;3;4;.750;2;3;.667;0;0;;0;5;5;3;1;0;3;3;8;+2
+01/04/2023;DAL;7;greenjo02;Josh Green;21:53;0;2;.000;0;1;.000;0;0;;0;1;1;0;0;0;1;3;0;-4
+01/04/2023;DAL;8;woodch01;Christian Wood;12:31;3;5;.600;2;3;.667;0;0;;0;1;1;2;0;1;1;1;8;-16
+01/04/2023;DAL;9;hardyja02;Jaden Hardy;6:21;1;2;.500;1;2;.500;0;0;;0;0;0;0;0;0;3;2;3;-12
+01/04/2023;DAL;10;holidju01;Justin Holiday;4:13;0;1;.000;0;1;.000;3;3;1.000;0;0;0;0;0;0;0;0;3;0
+01/04/2023;DAL;11;bertada01;Dāvis Bertāns;Did Not Play
+01/04/2023;DAL;12;lawsoaj01;A.J. Lawson;Did Not Play
+01/04/2023;DAL;13;mcgeeja01;JaVale McGee;Did Not Play
+01/04/2023;DAL;14;morrima02;Markieff Morris;Did Not Play
+01/04/2023;DAL;15;pinsoth01;Theo Pinson;Did Not Play
+01/04/2023;DAL;0;butleji01;Jimmy Butler;37:00;12;16;.750;1;3;.333;10;11;.909;0;3;3;12;1;0;0;2;35;+6
+01/04/2023;DAL;1;herroty01;Tyler Herro;36:21;5;16;.313;2;8;.250;3;3;1.000;1;5;6;3;1;0;2;1;15;-1
+01/04/2023;DAL;2;strusma01;Max Strus;30:09;6;11;.545;6;9;.667;0;0;;1;3;4;1;0;0;2;3;18;-7
+01/04/2023;DAL;3;zelleco01;Cody Zeller;28:37;9;13;.692;0;1;.000;2;3;.667;3;5;8;0;1;0;0;2;20;-1
+01/04/2023;DAL;4;vincega01;Gabe Vincent;26:03;3;8;.375;2;5;.400;1;1;1.000;2;2;4;2;0;0;1;1;9;+6
+01/04/2023;DAL;5;Reserves;Reserves
+01/04/2023;DAL;6;martica02;Caleb Martin;33:16;4;4;1.000;0;0;;0;0;;0;1;1;1;1;0;1;4;8;+1
+01/04/2023;DAL;7;lowryky01;Kyle Lowry;26:56;1;8;.125;0;5;.000;4;5;.800;2;2;4;7;1;0;0;0;6;+14
+01/04/2023;DAL;8;loveke01;Kevin Love;19:23;5;9;.556;2;5;.400;6;6;1.000;1;4;5;1;1;0;2;2;18;+8
+01/04/2023;DAL;9;robindu01;Duncan Robinson;2:15;0;1;.000;0;1;.000;0;0;;0;1;1;0;0;0;0;1;0;+9
+01/04/2023;DAL;10;hasleud01;Udonis Haslem;Did Not Play
+01/04/2023;DAL;11;highsha01;Haywood Highsmith;Did Not Play
+01/04/2023;DAL;12;oladivi01;Victor Oladipo;Did Not Play
+01/04/2023;DAL;13;yurtsom01;Omer Yurtseven;Did Not Play

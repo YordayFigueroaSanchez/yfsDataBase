@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+04/11/2022;TOR;0;anunoog01;OG Anunoby;38:11;11;21;.524;4;6;.667;1;1;1.000;2;5;7;1;5;0;4;4;27;-2
+04/11/2022;TOR;1;barnesc01;Scottie Barnes;38:05;4;12;.333;1;6;.167;2;2;1.000;3;8;11;10;1;0;5;0;11;+1
+04/11/2022;TOR;2;trentga02;Gary Trent Jr.;36:28;3;12;.250;1;7;.143;5;6;.833;0;0;0;0;1;0;2;2;12;-7
+04/11/2022;TOR;3;siakapa01;Pascal Siakam;31:15;7;14;.500;0;2;.000;4;6;.667;4;3;7;6;1;0;2;3;18;-7
+04/11/2022;TOR;4;kolokch01;Christian Koloko;11:49;1;2;.500;0;1;.000;0;0;;2;0;2;0;0;1;2;4;2;-12
+04/11/2022;TOR;5;Reserves;Reserves
+04/11/2022;TOR;6;bouchch01;Chris Boucher;29:37;6;13;.462;2;6;.333;3;4;.750;4;5;9;1;0;1;0;4;17;+20
+04/11/2022;TOR;7;achiupr01;Precious Achiuwa;26:36;4;9;.444;1;3;.333;6;6;1.000;3;5;8;2;0;1;2;1;15;+2
+04/11/2022;TOR;8;porteot01;Otto Porter Jr.;20:33;2;3;.667;2;3;.667;0;0;;0;0;0;0;2;0;0;1;6;+7
+04/11/2022;TOR;9;youngth01;Thaddeus Young;3:50;1;1;1.000;0;0;;0;0;;0;0;0;0;0;0;1;2;2;0
+04/11/2022;TOR;10;bantoda01;Dalano Banton;3:36;0;1;.000;0;0;;0;0;;0;0;0;0;0;1;1;1;0;-7
+04/11/2022;TOR;11;dowtije01;Jeff Dowtin;Did Not Play
+04/11/2022;TOR;12;flynnma01;Malachi Flynn;Did Not Play
+04/11/2022;TOR;13;hernaju01;Juancho Hernangómez;Did Not Play
+04/11/2022;TOR;0;dinwisp01;Spencer Dinwiddie;37:59;8;17;.471;3;8;.375;2;2;1.000;0;1;1;7;2;0;2;4;21;0
+04/11/2022;TOR;1;doncilu01;Luka Dončić;36:33;10;15;.667;3;6;.500;12;14;.857;1;7;8;6;3;1;4;4;35;+8
+04/11/2022;TOR;2;finnedo01;Dorian Finney-Smith;30:42;4;7;.571;2;5;.400;1;2;.500;2;2;4;0;1;0;3;1;11;-2
+04/11/2022;TOR;3;poweldw01;Dwight Powell;26:21;3;6;.500;0;0;;3;4;.750;1;1;2;2;0;0;0;3;9;+8
+04/11/2022;TOR;4;bullore01;Reggie Bullock;25:21;1;7;.143;0;5;.000;0;0;;1;3;4;2;3;1;2;3;2;+12
+04/11/2022;TOR;5;Reserves;Reserves
+04/11/2022;TOR;6;woodch01;Christian Wood;22:45;5;8;.625;1;2;.500;2;2;1.000;0;5;5;1;1;1;1;1;13;-6
+04/11/2022;TOR;7;greenjo02;Josh Green;20:06;3;3;1.000;1;1;1.000;0;0;;1;1;2;0;1;0;0;3;7;+1
+04/11/2022;TOR;8;hardati02;Tim Hardaway Jr.;19:06;2;8;.250;2;6;.333;0;0;;0;2;2;3;1;0;2;2;6;-6
+04/11/2022;TOR;9;klebima01;Maxi Kleber;16:49;1;4;.250;0;1;.000;0;0;;0;2;2;2;0;0;3;0;2;-16
+04/11/2022;TOR;10;mcgeeja01;JaVale McGee;4:18;2;2;1.000;0;0;;1;1;1.000;0;1;1;0;0;0;1;0;5;+6
+04/11/2022;TOR;11;campafa01;Facundo Campazzo;Did Not Play
+04/11/2022;TOR;12;pinsoth01;Theo Pinson;Did Not Play

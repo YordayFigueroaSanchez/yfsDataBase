@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+07/11/2022;BOS;0;tatumja01;Jayson Tatum;39:35;12;25;.480;3;11;.273;12;16;.750;0;3;3;2;0;2;2;2;39;+15
+07/11/2022;BOS;1;brownja02;Jaylen Brown;38:16;8;20;.400;1;6;.167;4;5;.800;0;9;9;2;1;0;7;4;21;-6
+07/11/2022;BOS;2;willigr01;Grant Williams;37:35;0;0;;0;0;;2;2;1.000;2;3;5;1;1;1;2;3;2;+6
+07/11/2022;BOS;3;smartma01;Marcus Smart;35:44;6;11;.545;2;6;.333;1;3;.333;0;7;7;12;0;0;2;4;15;+4
+07/11/2022;BOS;4;horfoal01;Al Horford;32:28;6;7;.857;3;3;1.000;0;0;;0;6;6;2;1;2;0;1;15;-7
+07/11/2022;BOS;5;Reserves;Reserves
+07/11/2022;BOS;6;brogdma01;Malcolm Brogdon;19:28;3;12;.250;2;7;.286;0;0;;3;7;10;4;0;0;1;0;8;+6
+07/11/2022;BOS;7;whitede01;Derrick White;18:09;2;5;.400;0;2;.000;0;0;;1;1;2;1;1;1;0;2;4;-3
+07/11/2022;BOS;8;hausesa01;Sam Hauser;11:02;1;2;.500;1;2;.500;2;2;1.000;0;1;1;1;1;0;0;1;5;+9
+07/11/2022;BOS;9;vonleno01;Noah Vonleh;7:41;0;0;;0;0;;0;0;;1;1;2;1;0;0;1;2;0;-9
+07/11/2022;BOS;10;griffbl01;Blake Griffin;Did Not Play
+07/11/2022;BOS;11;jacksju01;Justin Jackson;Did Not Play
+07/11/2022;BOS;12;kabenmf01;Mfiondu Kabengele;Did Not Play
+07/11/2022;BOS;13;pritcpa01;Payton Pritchard;Did Not Play
+07/11/2022;BOS;0;banede01;Desmond Bane;35:28;7;15;.467;2;6;.333;3;3;1.000;0;5;5;5;0;0;1;3;19;-6
+07/11/2022;BOS;1;moranja01;Ja Morant;35:19;10;24;.417;5;12;.417;5;9;.556;0;8;8;9;2;1;4;4;30;+14
+07/11/2022;BOS;2;brookdi01;Dillon Brooks;31:52;6;17;.353;0;4;.000;1;2;.500;0;7;7;5;1;2;1;6;13;+13
+07/11/2022;BOS;3;clarkbr01;Brandon Clarke;30:40;5;8;.625;0;2;.000;0;0;;1;7;8;1;0;0;2;3;10;-6
+07/11/2022;BOS;4;aldamsa01;Santi Aldama;18:29;3;7;.429;2;6;.333;0;0;;1;0;1;0;0;0;0;1;8;-16
+07/11/2022;BOS;5;Reserves;Reserves
+07/11/2022;BOS;6;konchjo01;John Konchar;26:19;4;8;.500;4;7;.571;0;0;;3;4;7;1;0;1;2;2;12;+12
+07/11/2022;BOS;7;laravja01;Jake LaRavia;24:36;2;4;.500;2;4;.500;0;0;;0;3;3;1;1;0;1;2;6;+7
+07/11/2022;BOS;8;tillmxa01;Xavier Tillman Sr.;17:19;1;2;.500;0;1;.000;0;0;;1;2;3;2;0;0;0;2;2;+3
+07/11/2022;BOS;9;jonesty01;Tyus Jones;15:11;3;5;.600;0;2;.000;0;0;;0;1;1;3;0;0;0;0;6;-21
+07/11/2022;BOS;10;roddyda01;David Roddy;4:45;0;1;.000;0;0;;0;0;;2;0;2;0;0;0;0;0;0;-15
+07/11/2022;BOS;11;chandke01;Kennedy Chandler;Did Not Play
+07/11/2022;BOS;12;willivi01;Vince Williams Jr.;Did Not Play

@@ -1,0 +1,26 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+09/04/2023;IND;0;nembhan01;Andrew Nembhard;37:34;7;13;.538;1;3;.333;4;5;.800;0;3;3;9;3;0;2;1;19;-3
+09/04/2023;IND;1;mathube01;Bennedict Mathurin;36:49;6;13;.462;2;3;.667;12;13;.923;0;3;3;6;0;1;3;2;26;+3
+09/04/2023;IND;2;jacksis01;Isaiah Jackson;25:40;1;6;.167;0;0;;4;6;.667;4;5;9;3;1;2;3;3;6;-11
+09/04/2023;IND;3;nesmiaa01;Aaron Nesmith;24:30;5;7;.714;1;2;.500;3;3;1.000;0;5;5;1;1;3;0;3;14;-19
+09/04/2023;IND;4;nworajo01;Jordan Nwora;23:20;7;10;.700;4;6;.667;1;1;1.000;0;4;4;0;0;1;3;4;19;-13
+09/04/2023;IND;5;Reserves;Reserves
+09/04/2023;IND;6;brissos01;Oshae Brissett;27:49;4;15;.267;0;3;.000;4;7;.571;2;7;9;3;0;2;2;4;12;+14
+09/04/2023;IND;7;hieldbu01;Buddy Hield;23:29;5;6;.833;5;6;.833;0;0;;1;5;6;4;0;0;1;0;15;+18
+09/04/2023;IND;8;hillge01;George Hill;21:56;5;7;.714;5;6;.833;2;3;.667;0;3;3;3;1;0;1;3;17;+29
+09/04/2023;IND;9;yorkga01;Gabe York;12:21;3;7;.429;1;5;.200;0;0;;0;0;0;1;1;0;0;3;7;+8
+09/04/2023;IND;10;johnsja01;James Johnson;6:32;3;5;.600;0;0;;0;0;;1;1;2;3;1;0;0;1;6;-1
+09/04/2023;IND;11;theisda01;Daniel Theis;Did Not Play
+09/04/2023;IND;0;barrerj01;RJ Barrett;37:17;7;16;.438;1;3;.333;3;5;.600;1;1;2;3;1;0;3;6;18;+7
+09/04/2023;IND;1;quickim01;Immanuel Quickley;36:47;9;22;.409;3;11;.273;9;9;1.000;0;9;9;7;2;0;5;3;30;+9
+09/04/2023;IND;2;toppiob01;Obi Toppin;36:33;13;23;.565;5;10;.500;3;3;1.000;1;6;7;5;2;0;1;2;34;+7
+09/04/2023;IND;3;grimequ01;Quentin Grimes;31:54;8;13;.615;5;10;.500;1;1;1.000;0;1;1;3;0;0;0;4;22;+14
+09/04/2023;IND;4;robinmi01;Mitchell Robinson;27:11;4;10;.400;0;0;;1;4;.250;14;6;20;2;1;7;3;2;9;+18
+09/04/2023;IND;5;Reserves;Reserves
+09/04/2023;IND;6;hartjo01;Josh Hart;25:30;5;9;.556;0;1;.000;0;0;;3;8;11;4;1;1;2;2;10;-29
+09/04/2023;IND;7;harteis01;Isaiah Hartenstein;20:49;4;7;.571;0;0;;0;0;;0;2;2;5;1;0;0;2;8;-23
+09/04/2023;IND;8;mcbrimi01;Miles McBride;12:16;2;4;.500;1;2;.500;0;0;;0;0;0;0;0;0;0;2;5;-12
+09/04/2023;IND;9;fournev01;Evan Fournier;11:43;0;4;.000;0;3;.000;0;0;;0;1;1;0;0;0;1;1;0;-16
+09/04/2023;IND;10;jeffrda01;DaQuan Jeffries;Did Not Play
+09/04/2023;IND;11;rosede01;Derrick Rose;Did Not Play
+09/04/2023;IND;12;simsje01;Jericho Sims;Did Not Play

@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+01/02/2023;POR;0;lillada01;Damian Lillard;39:52;11;22;.500;5;13;.385;15;16;.938;1;7;8;10;0;1;2;2;42;+6
+01/02/2023;POR;1;simonan01;Anfernee Simons;32:40;10;18;.556;3;7;.429;3;3;1.000;0;2;2;4;0;0;3;4;26;+11
+01/02/2023;POR;2;hartjo01;Josh Hart;31:50;0;4;.000;0;2;.000;0;0;;0;2;2;2;0;0;1;2;0;+1
+01/02/2023;POR;3;grantje01;Jerami Grant;19:52;6;12;.500;1;3;.333;5;5;1.000;0;3;3;1;0;1;0;0;18;-8
+01/02/2023;POR;4;nurkiju01;Jusuf Nurkić;2:29;0;1;.000;0;1;.000;0;0;;0;1;1;1;0;0;1;1;0;-5
+01/02/2023;POR;5;Reserves;Reserves
+01/02/2023;POR;6;paytoga02;Gary Payton II;28:51;2;5;.400;1;2;.500;2;2;1.000;3;1;4;0;1;1;1;5;7;+13
+01/02/2023;POR;7;eubandr01;Drew Eubanks;23:48;5;7;.714;0;0;;1;1;1.000;4;7;11;3;1;1;2;5;11;+9
+01/02/2023;POR;8;watfotr01;Trendon Watford;21:43;2;6;.333;1;1;1.000;0;0;;0;3;3;2;0;1;2;0;5;+6
+01/02/2023;POR;9;sharpsh01;Shaedon Sharpe;19:24;3;6;.500;3;5;.600;0;0;;0;2;2;0;0;0;0;3;9;+11
+01/02/2023;POR;10;littlna01;Nassir Little;13:30;1;3;.333;0;2;.000;0;0;;1;3;4;1;1;0;1;0;2;+9
+01/02/2023;POR;11;walkeja01;Jabari Walker;6:01;1;3;.333;0;0;;0;0;;0;1;1;0;0;0;0;0;2;-3
+01/02/2023;POR;12;butlejo01;John Butler;Did Not Play
+01/02/2023;POR;13;johnske07;Keon Johnson;Did Not Play
+01/02/2023;POR;0;brookdi01;Dillon Brooks;38:10;4;9;.444;1;6;.167;0;0;;0;1;1;2;1;0;0;5;9;-6
+01/02/2023;POR;1;moranja01;Ja Morant;34:22;8;16;.500;3;7;.429;13;18;.722;2;7;9;12;1;0;5;2;32;-6
+01/02/2023;POR;2;jacksja02;Jaren Jackson Jr.;33:45;9;14;.643;0;3;.000;0;0;;0;7;7;0;0;6;0;3;18;+2
+01/02/2023;POR;3;tillmxa01;Xavier Tillman Sr.;27:53;1;4;.250;0;0;;2;3;.667;4;6;10;5;4;0;2;2;4;+12
+01/02/2023;POR;4;banede01;Desmond Bane;25:32;7;16;.438;2;7;.286;1;1;1.000;0;0;0;3;1;1;3;4;17;-10
+01/02/2023;POR;5;Reserves;Reserves
+01/02/2023;POR;6;willizi02;Ziaire Williams;18:50;2;5;.400;1;4;.250;0;0;;0;1;1;0;0;0;0;1;5;-2
+01/02/2023;POR;7;aldamsa01;Santi Aldama;17:32;5;7;.714;0;2;.000;0;0;;0;2;2;0;0;0;0;0;10;-15
+01/02/2023;POR;8;jonesty01;Tyus Jones;17:14;1;6;.167;1;4;.250;3;4;.750;0;3;3;3;0;0;1;0;6;-4
+01/02/2023;POR;9;clarkbr01;Brandon Clarke;16:50;3;6;.500;0;0;;2;2;1.000;5;2;7;2;0;0;0;3;8;-19
+01/02/2023;POR;10;greenda02;Danny Green;9:52;1;4;.250;1;4;.250;0;0;;1;3;4;1;1;0;1;2;3;-2
+01/02/2023;POR;11;chandke01;Kennedy Chandler;Did Not Play
+01/02/2023;POR;12;laravja01;Jake LaRavia;Did Not Play
+01/02/2023;POR;13;loftoke01;Kenneth Lofton Jr.;Did Not Play
+01/02/2023;POR;14;roddyda01;David Roddy;Did Not Play

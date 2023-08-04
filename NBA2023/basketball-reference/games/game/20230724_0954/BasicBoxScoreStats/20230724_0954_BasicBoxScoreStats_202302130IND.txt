@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+13/02/2023;UTA;0;markkla01;Lauri Markkanen;36:32;10;20;.500;2;9;.222;7;7;1.000;1;10;11;2;0;0;3;1;29;+3
+13/02/2023;UTA;1;clarkjo01;Jordan Clarkson;34:15;9;17;.529;6;8;.750;5;7;.714;1;0;1;3;0;0;7;2;29;-7
+13/02/2023;UTA;2;olynyke01;Kelly Olynyk;31:23;5;6;.833;4;4;1.000;4;4;1.000;3;7;10;2;1;0;0;3;18;+3
+13/02/2023;UTA;3;sextoco01;Collin Sexton;29:27;7;14;.500;0;1;.000;4;5;.800;0;1;1;6;2;0;2;2;18;+10
+13/02/2023;UTA;4;kesslwa01;Walker Kessler;19:12;3;3;1.000;0;0;;0;0;;0;5;5;0;2;2;2;4;6;-2
+13/02/2023;UTA;5;Reserves;Reserves
+13/02/2023;UTA;6;agbajoc01;Ochai Agbaji;29:24;3;7;.429;2;4;.500;0;0;;2;2;4;1;0;0;1;1;8;+8
+13/02/2023;UTA;7;hortota01;Talen Horton-Tucker;18:33;2;7;.286;1;3;.333;2;2;1.000;1;1;2;7;0;0;0;1;7;-4
+13/02/2023;UTA;8;gayru01;Rudy Gay;15:38;2;6;.333;0;1;.000;0;0;;0;2;2;1;0;0;1;2;4;+2
+13/02/2023;UTA;9;azubuud01;Udoka Azubuike;12:49;2;2;1.000;0;0;;0;0;;2;7;9;0;0;0;2;0;4;+2
+13/02/2023;UTA;10;fontesi01;Simone Fontecchio;12:47;0;3;.000;0;3;.000;0;0;;1;0;1;2;0;1;0;1;0;+15
+13/02/2023;UTA;11;bolmale01;Leandro Bolmaro;Did Not Play
+13/02/2023;UTA;12;jonesda03;Damian Jones;Did Not Play
+13/02/2023;UTA;13;juzanjo01;Johnny Juzang;Did Not Play
+13/02/2023;UTA;14;toscaju01;Juan Toscano-Anderson;Did Not Play
+13/02/2023;UTA;0;halibty01;Tyrese Haliburton;34:53;12;24;.500;3;8;.375;3;3;1.000;0;1;1;12;3;1;1;4;30;+1
+13/02/2023;UTA;1;nesmiaa01;Aaron Nesmith;29:54;7;9;.778;4;5;.800;1;2;.500;0;6;6;0;1;0;2;4;19;+13
+13/02/2023;UTA;2;hieldbu01;Buddy Hield;28:55;3;13;.231;2;11;.182;0;0;;1;2;3;4;1;0;0;1;8;-5
+13/02/2023;UTA;3;nembhan01;Andrew Nembhard;23:09;1;2;.500;0;1;.000;0;0;;1;2;3;3;1;0;0;3;2;-3
+13/02/2023;UTA;4;theisda01;Daniel Theis;21:57;5;13;.385;0;3;.000;1;2;.500;3;2;5;3;1;1;0;2;11;-5
+13/02/2023;UTA;5;Reserves;Reserves
+13/02/2023;UTA;6;mathube01;Bennedict Mathurin;31:50;8;13;.615;1;3;.333;4;4;1.000;1;3;4;2;0;1;3;1;21;-10
+13/02/2023;UTA;7;jacksis01;Isaiah Jackson;26:03;3;4;.750;0;1;.000;5;9;.556;2;3;5;2;0;4;1;3;11;-1
+13/02/2023;UTA;8;nworajo01;Jordan Nwora;17:24;3;8;.375;1;2;.500;0;0;;0;3;3;1;2;0;0;0;7;-6
+13/02/2023;UTA;9;mccontj01;T.J. McConnell;16:20;4;5;.800;0;0;;0;0;;0;2;2;3;1;0;4;3;8;-12
+13/02/2023;UTA;10;hillge01;George Hill;9:35;0;0;;0;0;;0;0;;0;0;0;0;1;0;0;0;0;-2
+13/02/2023;UTA;11;brissos01;Oshae Brissett;Did Not Play
+13/02/2023;UTA;12;duartch01;Chris Duarte;Did Not Play
+13/02/2023;UTA;13;johnsja01;James Johnson;Did Not Play
+13/02/2023;UTA;14;smithja04;Jalen Smith;Did Not Play

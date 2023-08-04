@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+07/12/2022;GSW;0;poolejo01;Jordan Poole;36:49;10;23;.435;4;13;.308;12;13;.923;1;3;4;8;0;0;6;1;36;+4
+07/12/2022;GSW;1;thompkl01;Klay Thompson;35:42;8;25;.320;4;11;.364;2;2;1.000;0;2;2;3;1;3;2;2;22;-7
+07/12/2022;GSW;2;looneke01;Kevon Looney;29:13;3;5;.600;0;0;;1;1;1.000;5;4;9;1;0;1;1;4;7;+10
+07/12/2022;GSW;3;jeromty01;Ty Jerome;23:35;2;6;.333;0;2;.000;0;0;;0;3;3;2;0;0;0;2;4;-8
+07/12/2022;GSW;4;greenja01;JaMychal Green;17:01;3;7;.429;1;3;.333;0;0;;2;2;4;1;0;0;0;2;7;-4
+07/12/2022;GSW;5;Reserves;Reserves
+07/12/2022;GSW;6;kuminjo01;Jonathan Kuminga;29:36;10;13;.769;1;3;.333;3;5;.600;1;4;5;4;1;1;1;2;24;+8
+07/12/2022;GSW;7;divindo01;Donte DiVincenzo;28:11;3;6;.500;1;3;.333;0;0;;3;6;9;7;3;0;2;2;7;-7
+07/12/2022;GSW;8;moodymo01;Moses Moody;18:40;2;4;.500;2;3;.667;0;0;;0;0;0;0;1;0;0;2;6;+11
+07/12/2022;GSW;9;lamban01;Anthony Lamb;16:11;3;7;.429;1;4;.250;0;2;.000;1;3;4;0;2;0;2;1;7;-9
+07/12/2022;GSW;10;wisemja01;James Wiseman;5:02;1;2;.500;0;0;;1;2;.500;1;1;2;0;0;0;0;0;3;-3
+07/12/2022;GSW;11;baldwpa01;Patrick Baldwin Jr.;Did Not Play
+07/12/2022;GSW;12;rolliry01;Ryan Rollins;Did Not Play
+07/12/2022;GSW;0;clarkjo01;Jordan Clarkson;37:24;9;20;.450;2;6;.333;2;2;1.000;0;4;4;9;0;0;4;1;22;+2
+07/12/2022;GSW;1;beaslma01;Malik Beasley;34:29;7;14;.500;4;9;.444;0;0;;0;3;3;1;0;0;2;2;18;+6
+07/12/2022;GSW;2;olynyke01;Kelly Olynyk;30:20;5;11;.455;1;4;.250;4;4;1.000;1;2;3;5;2;0;4;3;15;-1
+07/12/2022;GSW;3;sextoco01;Collin Sexton;26:34;4;9;.444;1;3;.333;8;10;.800;0;0;0;3;0;0;2;2;17;+6
+07/12/2022;GSW;4;kesslwa01;Walker Kessler;23:59;5;6;.833;0;0;;0;0;;4;8;12;1;0;5;1;4;10;0
+07/12/2022;GSW;5;Reserves;Reserves
+07/12/2022;GSW;6;alexani01;Nickeil Alexander-Walker;28:53;4;5;.800;3;4;.750;0;0;;0;7;7;4;3;0;3;2;11;-11
+07/12/2022;GSW;7;vandeja01;Jarred Vanderbilt;23:37;2;3;.667;0;0;;0;0;;1;3;4;1;0;0;0;1;4;-3
+07/12/2022;GSW;8;fontesi01;Simone Fontecchio;19:33;6;10;.600;3;6;.500;3;5;.600;2;1;3;1;0;1;1;1;18;+4
+07/12/2022;GSW;9;gayru01;Rudy Gay;14:47;4;8;.500;1;3;.333;0;0;;1;3;4;1;1;1;0;1;9;-2
+07/12/2022;GSW;10;agbajoc01;Ochai Agbaji;0:24;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;+4
+07/12/2022;GSW;11;azubuud01;Udoka Azubuike;Did Not Play
+07/12/2022;GSW;12;bolmale01;Leandro Bolmaro;Did Not Play
+07/12/2022;GSW;13;hortota01;Talen Horton-Tucker;Did Not Play

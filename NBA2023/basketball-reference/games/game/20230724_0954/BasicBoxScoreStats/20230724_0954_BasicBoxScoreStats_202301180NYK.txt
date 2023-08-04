@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+18/01/2023;WAS;0;kuzmaky01;Kyle Kuzma;36:22;11;24;.458;4;12;.333;1;3;.333;3;10;13;7;1;1;4;3;27;+20
+18/01/2023;WAS;1;porzikr01;Kristaps Porziņģis;32:52;6;17;.353;4;9;.444;6;6;1.000;5;6;11;5;0;2;3;6;22;+8
+18/01/2023;WAS;2;morrimo01;Monte Morris;30:46;5;10;.500;3;6;.500;0;0;;2;5;7;5;0;1;0;3;13;+17
+18/01/2023;WAS;3;bealbr01;Bradley Beal;28:39;7;11;.636;1;1;1.000;3;3;1.000;1;3;4;4;0;1;2;0;18;+11
+18/01/2023;WAS;4;gaffoda01;Daniel Gafford;17:24;3;4;.750;0;0;;0;0;;1;1;2;0;1;1;2;2;6;+18
+18/01/2023;WAS;5;Reserves;Reserves
+18/01/2023;WAS;6;avdijde01;Deni Avdija;29:04;6;11;.545;2;3;.667;0;1;.000;3;4;7;1;1;1;0;3;14;-11
+18/01/2023;WAS;7;wrighde01;Delon Wright;21:52;3;8;.375;1;3;.333;4;4;1.000;2;3;5;4;2;2;1;1;11;+2
+18/01/2023;WAS;8;hachiru01;Rui Hachimura;19:44;0;7;.000;0;6;.000;0;0;;0;1;1;1;0;0;1;3;0;-6
+18/01/2023;WAS;9;kispeco01;Corey Kispert;14:46;1;2;.500;1;2;.500;2;2;1.000;0;1;1;1;0;0;0;0;5;-4
+18/01/2023;WAS;10;gibsota01;Taj Gibson;8:31;0;1;.000;0;0;;0;0;;1;0;1;0;0;0;0;2;0;0
+18/01/2023;WAS;11;bartowi01;Will Barton;Did Not Play
+18/01/2023;WAS;12;gillan01;Anthony Gill;Did Not Play
+18/01/2023;WAS;13;goodwjo01;Jordan Goodwin;Did Not Play
+18/01/2023;WAS;0;brunsja01;Jalen Brunson;37:55;11;24;.458;2;3;.667;8;8;1.000;1;2;3;4;2;0;1;1;32;-12
+18/01/2023;WAS;1;barrerj01;RJ Barrett;37:43;9;21;.429;0;4;.000;3;4;.750;1;6;7;2;1;0;4;3;21;-15
+18/01/2023;WAS;2;randlju01;Julius Randle;34:04;6;17;.353;0;5;.000;2;5;.400;7;8;15;4;1;0;2;5;14;-11
+18/01/2023;WAS;3;grimequ01;Quentin Grimes;31:18;5;10;.500;3;7;.429;1;2;.500;1;1;2;1;1;0;1;0;14;-12
+18/01/2023;WAS;4;robinmi01;Mitchell Robinson;9:04;0;0;;0;0;;0;4;.000;2;0;2;0;2;2;0;0;0;-12
+18/01/2023;WAS;5;Reserves;Reserves
+18/01/2023;WAS;6;quickim01;Immanuel Quickley;31:43;6;13;.462;2;6;.333;4;4;1.000;1;4;5;0;1;0;1;4;18;+9
+18/01/2023;WAS;7;simsje01;Jericho Sims;20:55;1;2;.500;0;0;;0;0;;2;2;4;2;0;2;0;6;2;+4
+18/01/2023;WAS;8;toppiob01;Obi Toppin;13:56;0;1;.000;0;0;;0;0;;1;4;5;0;0;0;0;0;0;0
+18/01/2023;WAS;9;harteis01;Isaiah Hartenstein;12:49;2;6;.333;0;0;;0;0;;3;1;4;0;0;0;0;1;4;-7
+18/01/2023;WAS;10;mcbrimi01;Miles McBride;10:33;0;2;.000;0;1;.000;0;0;;1;1;2;1;1;0;0;0;0;+1
+18/01/2023;WAS;11;arcidry01;Ryan Arcidiacono;Did Not Play
+18/01/2023;WAS;12;fournev01;Evan Fournier;Did Not Play
+18/01/2023;WAS;13;mykhasv01;Svi Mykhailiuk;Did Not Play
+18/01/2023;WAS;14;reddica01;Cam Reddish;Did Not Play
+18/01/2023;WAS;15;rosede01;Derrick Rose;Did Not Play

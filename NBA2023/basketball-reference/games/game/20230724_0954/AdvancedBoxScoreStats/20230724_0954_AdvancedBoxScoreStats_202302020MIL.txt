@@ -1,0 +1,32 @@
+dateId;teamId;order;playerId;Starters;MP;TS%;eFG%;3PAr;FTr;ORB%;DRB%;TRB%;AST%;STL%;BLK%;TOV%;USG%;ORtg;DRtg;BPM
+02/02/2023;LAC;0;leonaka01;Kawhi Leonard;39:39;.316;.288;.231;.077;2.2;25.2;13.1;19.8;1.2;4.6;3.6;30.5;76;102;-2.8
+02/02/2023;LAC;1;georgpa01;Paul George;36:10;.429;.438;.313;.375;0.0;16.6;7.8;8.6;3.9;0.0;13.9;25.9;78;101;-2.5
+02/02/2023;LAC;2;morrima03;Marcus Morris;32:15;.615;.615;.462;.000;0.0;15.5;7.3;10.4;4.4;0.0;0.0;17.5;127;100;8.6
+02/02/2023;LAC;3;zubaciv01;Ivica Zubac;29:14;.652;.571;.000;.714;18.2;23.9;20.9;5.1;0.0;3.1;9.8;15.1;142;105;0.7
+02/02/2023;LAC;4;mannte01;Terance Mann;23:59;1.031;1.000;.667;.667;0.0;16.7;7.8;17.2;2.0;0.0;20.5;8.8;169;106;7.8
+02/02/2023;LAC;5;Reserves;Reserves
+02/02/2023;LAC;6;powelno01;Norman Powell;31:04;.714;.688;.500;.313;0.0;6.4;3.0;0.0;0.0;0.0;0.0;25.4;142;112;9.0
+02/02/2023;LAC;7;jacksre01;Reggie Jackson;24:40;.444;.444;.556;.000;0.0;8.1;3.8;11.7;0.0;3.7;10.0;17.6;88;109;-3.2
+02/02/2023;LAC;8;batumni01;Nicolas Batum;16:47;.000;.000;1.000;.000;0.0;23.8;11.2;0.0;0.0;0.0;0.0;7.7;0;108;-14.1
+02/02/2023;LAC;9;covinro01;Robert Covington;6:12;.500;.500;.500;.000;28.7;0.0;15.2;0.0;0.0;0.0;0.0;14.0;136;113;-2.9
+02/02/2023;LAC;10;bostobr01;Brandon Boston Jr.;Did Not Play
+02/02/2023;LAC;11;brownmo01;Moses Brown;Did Not Play
+02/02/2023;LAC;12;coffeam01;Amir Coffey;Did Not Play
+02/02/2023;LAC;13;diabamo01;Moussa Diabaté;Did Not Play
+02/02/2023;LAC;14;kennalu01;Luke Kennard;Did Not Play
+02/02/2023;LAC;15;prestja01;Jason Preston;Did Not Play
+02/02/2023;LAC;0;antetgi01;Giannis Antetokounmpo;36:26;.592;.564;.205;.385;11.0;36.6;24.5;23.3;0.0;0.0;6.2;57.2;115;100;20.5
+02/02/2023;LAC;1;holidjr01;Jrue Holiday;34:13;.378;.333;.400;.133;0.0;10.4;5.5;33.6;0.0;0.0;15.9;23.7;83;107;-4.9
+02/02/2023;LAC;2;connapa01;Pat Connaughton;31:49;.735;.700;.600;.200;3.1;25.1;14.8;0.0;1.5;0.0;15.5;8.7;126;100;4.0
+02/02/2023;LAC;3;allengr01;Grayson Allen;24:01;.515;.500;1.000;.667;0.0;7.4;3.9;0.0;0.0;0.0;0.0;6.9;106;107;-5.6
+02/02/2023;LAC;4;lopezbr01;Brook Lopez;23:22;.600;.600;.400;.000;8.6;11.4;10.1;0.0;0.0;0.0;16.7;11.0;110;107;-3.4
+02/02/2023;LAC;5;Reserves;Reserves
+02/02/2023;LAC;6;inglejo01;Joe Ingles;27:16;.500;.500;1.000;.000;0.0;6.5;3.5;14.2;0.0;0.0;25.0;6.3;98;108;-2.8
+02/02/2023;LAC;7;matthwe02;Wesley Matthews;24:49;.260;.000;1.000;1.000;0.0;3.6;1.9;0.0;1.9;0.0;0.0;10.0;59;105;-4.3
+02/02/2023;LAC;8;middlkh01;Khris Middleton;19:59;.522;.500;.429;.214;5.0;26.7;16.5;19.5;0.0;0.0;6.1;35.0;106;102;6.3
+02/02/2023;LAC;9;carteje01;Jevon Carter;16:48;.000;.000;1.000;.000;0.0;15.9;8.4;7.3;0.0;0.0;0.0;5.1;28;105;-8.3
+02/02/2023;LAC;10;hillge01;George Hill;1:17;;;;;0.0;0.0;0.0;0.0;0.0;0.0;;0.0;0;110;-5.4
+02/02/2023;LAC;11;antetth01;Thanasis Antetokounmpo;Did Not Play
+02/02/2023;LAC;12;beaucma01;MarJon Beauchamp;Did Not Play
+02/02/2023;LAC;13;mamuksa01;Sandro Mamukelashvili;Did Not Play
+02/02/2023;LAC;14;nworajo01;Jordan Nwora;Did Not Play

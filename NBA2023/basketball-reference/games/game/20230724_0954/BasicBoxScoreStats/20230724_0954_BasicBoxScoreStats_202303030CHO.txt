@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+03/03/2023;ORL;0;banchpa01;Paolo Banchero;35:35;13;26;.500;2;6;.333;3;4;.750;1;5;6;5;1;1;3;2;31;+3
+03/03/2023;ORL;1;fultzma01;Markelle Fultz;33:27;4;8;.500;0;0;;1;2;.500;0;4;4;4;2;0;5;3;9;+11
+03/03/2023;ORL;2;cartewe01;Wendell Carter Jr.;29:59;4;6;.667;2;3;.667;2;2;1.000;5;4;9;2;0;0;2;4;12;+12
+03/03/2023;ORL;3;harriga01;Gary Harris;27:21;4;8;.500;1;5;.200;0;0;;0;4;4;0;2;0;0;2;9;+11
+03/03/2023;ORL;4;wagnefr01;Franz Wagner;13:57;3;5;.600;1;2;.500;2;2;1.000;0;1;1;1;0;1;2;0;9;+10
+03/03/2023;ORL;5;Reserves;Reserves
+03/03/2023;ORL;6;suggsja01;Jalen Suggs;30:20;5;9;.556;1;1;1.000;4;6;.667;3;2;5;1;1;0;3;3;15;+16
+03/03/2023;ORL;7;anthoco01;Cole Anthony;28:30;6;10;.600;1;2;.500;3;3;1.000;1;2;3;4;1;0;2;3;16;-6
+03/03/2023;ORL;8;wagnemo01;Moritz Wagner;16:05;6;11;.545;1;4;.250;0;0;;2;4;6;0;2;1;1;4;13;-3
+03/03/2023;ORL;9;bolbo01;Bol Bol;14:02;0;0;;0;0;;0;0;;1;3;4;3;0;1;0;0;0;+6
+03/03/2023;ORL;10;houstca01;Caleb Houstan;8:44;1;3;.333;1;3;.333;0;0;;0;0;0;0;0;0;0;1;3;-9
+03/03/2023;ORL;11;schofad01;Admiral Schofield;2:00;0;0;;0;0;;0;0;;0;0;0;1;0;0;0;2;0;+4
+03/03/2023;ORL;12;bitadgo01;Goga Bitadze;Did Not Play
+03/03/2023;ORL;13;cartemi01;Michael Carter-Williams;Did Not Play
+03/03/2023;ORL;14;okekech01;Chuma Okeke;Did Not Play
+03/03/2023;ORL;0;oubreke01;Kelly Oubre Jr.;40:33;10;19;.526;4;9;.444;5;5;1.000;1;9;10;2;2;0;3;4;29;-9
+03/03/2023;ORL;1;roziete01;Terry Rozier;36:51;7;16;.438;4;8;.500;4;4;1.000;0;2;2;6;2;0;6;0;22;-16
+03/03/2023;ORL;2;haywago01;Gordon Hayward;33:59;7;12;.583;1;1;1.000;2;2;1.000;0;1;1;7;1;0;5;3;17;-14
+03/03/2023;ORL;3;willima07;Mark Williams;27:44;5;7;.714;0;0;;3;3;1.000;3;4;7;0;0;1;3;2;13;-14
+03/03/2023;ORL;4;thorjt01;JT Thor;15:15;1;3;.333;0;1;.000;0;0;;1;0;1;2;3;0;0;4;2;-10
+03/03/2023;ORL;5;Reserves;Reserves
+03/03/2023;ORL;6;smithde03;Dennis Smith Jr.;21:05;3;8;.375;0;1;.000;4;6;.667;1;1;2;6;2;0;0;1;10;-3
+03/03/2023;ORL;7;richani01;Nick Richards;20:16;3;4;.750;0;0;;1;1;1.000;0;4;4;0;0;3;2;1;7;+3
+03/03/2023;ORL;8;mykhasv01;Svi Mykhailiuk;15:57;1;3;.333;0;1;.000;1;2;.500;0;1;1;2;0;0;0;0;3;+10
+03/03/2023;ORL;9;mcgowbr01;Bryce McGowens;15:01;0;3;.000;0;3;.000;1;2;.500;2;3;5;0;1;0;1;0;1;+3
+03/03/2023;ORL;10;joneska01;Kai Jones;13:19;1;3;.333;0;0;;0;0;;0;1;1;0;0;0;1;5;2;-5
+03/03/2023;ORL;11;martico01;Cody Martin;Did Not Dress
+03/03/2023;ORL;12;washipj01;P.J. Washington;Did Not Dress

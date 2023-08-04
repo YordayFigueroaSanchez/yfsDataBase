@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+10/12/2022;LAC;0;georgpa01;Paul George;40:53;13;27;.481;5;12;.417;5;5;1.000;2;5;7;6;3;2;2;4;36;+8
+10/12/2022;LAC;1;leonaka01;Kawhi Leonard;30:25;5;13;.385;1;5;.200;2;2;1.000;0;8;8;6;1;0;0;0;13;0
+10/12/2022;LAC;2;morrima03;Marcus Morris;29:59;5;10;.500;5;8;.625;4;4;1.000;0;6;6;0;1;1;0;3;19;+5
+10/12/2022;LAC;3;walljo01;John Wall;29:02;5;13;.385;0;4;.000;3;4;.750;0;1;1;3;2;1;2;1;13;-9
+10/12/2022;LAC;4;zubaciv01;Ivica Zubac;19:57;2;5;.400;0;0;;0;0;;2;3;5;0;0;0;2;2;4;-8
+10/12/2022;LAC;5;Reserves;Reserves
+10/12/2022;LAC;6;batumni01;Nicolas Batum;32:32;4;12;.333;4;10;.400;0;0;;3;3;6;1;0;2;0;2;12;+19
+10/12/2022;LAC;7;kennalu01;Luke Kennard;24:18;3;7;.429;3;6;.500;1;1;1.000;0;3;3;5;1;1;2;1;10;+18
+10/12/2022;LAC;8;bostobr01;Brandon Boston Jr.;14:38;1;3;.333;1;2;.500;0;0;;0;1;1;1;0;0;1;0;3;-1
+10/12/2022;LAC;9;mannte01;Terance Mann;11:32;0;2;.000;0;1;.000;0;0;;1;3;4;0;1;0;1;3;0;+7
+10/12/2022;LAC;10;brownmo01;Moses Brown;6:44;2;2;1.000;0;0;;0;0;;1;0;1;0;0;0;0;0;4;-4
+10/12/2022;LAC;11;coffeam01;Amir Coffey;Did Not Play
+10/12/2022;LAC;12;covinro01;Robert Covington;Did Not Play
+10/12/2022;LAC;13;prestja01;Jason Preston;Did Not Play
+10/12/2022;LAC;0;kispeco01;Corey Kispert;42:51;3;11;.273;1;5;.200;0;0;;2;3;5;1;0;0;0;0;7;-9
+10/12/2022;LAC;1;avdijde01;Deni Avdija;38:38;4;10;.400;3;7;.429;0;0;;0;6;6;6;0;1;1;1;11;+4
+10/12/2022;LAC;2;kuzmaky01;Kyle Kuzma;38:13;14;27;.519;7;11;.636;0;0;;2;10;12;3;1;0;6;2;35;-5
+10/12/2022;LAC;3;goodwjo01;Jordan Goodwin;38:02;6;13;.462;2;5;.400;3;4;.750;2;2;4;6;6;0;1;3;17;+5
+10/12/2022;LAC;4;porzikr01;Kristaps Porziņģis;37:21;8;20;.400;2;4;.500;12;13;.923;0;15;15;5;0;2;3;3;30;+6
+10/12/2022;LAC;5;Reserves;Reserves
+10/12/2022;LAC;6;gillan01;Anthony Gill;16:25;1;1;1.000;0;0;;2;2;1.000;0;3;3;0;0;0;0;2;4;-8
+10/12/2022;LAC;7;dotsode01;Devon Dotson;15:07;1;3;.333;1;2;.500;0;0;;2;2;4;3;1;0;2;4;3;-10
+10/12/2022;LAC;8;gaffoda01;Daniel Gafford;10:39;0;0;;0;0;;0;0;;0;1;1;0;0;0;0;0;0;-13
+10/12/2022;LAC;9;gibsota01;Taj Gibson;2:44;0;0;;0;0;;0;0;;0;0;0;0;0;0;1;0;0;-5
+10/12/2022;LAC;10;careyve01;Vernon Carey Jr.;Did Not Play
+10/12/2022;LAC;11;toddis01;Isaiah Todd;Did Not Play

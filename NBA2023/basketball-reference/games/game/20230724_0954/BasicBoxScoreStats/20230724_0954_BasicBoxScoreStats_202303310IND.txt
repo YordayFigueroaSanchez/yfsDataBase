@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+31/03/2023;OKC;0;gilgesh01;Shai Gilgeous-Alexander;38:14;11;22;.500;0;2;.000;17;17;1.000;0;9;9;4;1;1;3;6;39;
+31/03/2023;OKC;1;dortlu01;Luguentz Dort;36:34;4;9;.444;0;2;.000;4;6;.667;3;7;10;1;2;0;1;4;12;
+31/03/2023;OKC;2;giddejo01;Josh Giddey;32:56;9;19;.474;1;4;.250;2;4;.500;3;4;7;4;0;0;1;0;21;
+31/03/2023;OKC;3;willija06;Jalen Williams;29:30;6;10;.600;0;3;.000;2;2;1.000;0;6;6;6;2;0;2;5;14;
+31/03/2023;OKC;4;willija07;Jaylin Williams;15:27;0;0;;0;0;;0;0;;1;2;3;0;1;0;1;1;0;
+31/03/2023;OKC;5;Reserves;Reserves
+31/03/2023;OKC;6;wiggiaa01;Aaron Wiggins;27:57;5;6;.833;1;2;.500;1;1;1.000;2;1;3;2;1;1;1;3;12;
+31/03/2023;OKC;7;joeis01;Isaiah Joe;24:58;2;10;.200;0;8;.000;3;4;.750;1;1;2;1;3;0;0;2;7;
+31/03/2023;OKC;8;waterli01;Lindy Waters III;17:22;3;7;.429;2;6;.333;0;0;;1;1;2;1;0;1;0;2;8;
+31/03/2023;OKC;9;pokusal01;Aleksej Pokusevski;10:15;1;3;.333;0;2;.000;0;0;;0;1;1;1;0;0;1;0;2;
+31/03/2023;OKC;10;diengou01;Ousmane Dieng;6:43;1;2;.500;0;1;.000;0;0;;0;2;2;1;0;0;0;1;2;
+31/03/2023;OKC;11;manntr01;Tre Mann;Did Not Play
+31/03/2023;OKC;12;robinje02;Jeremiah Robinson-Earl;Did Not Play
+31/03/2023;OKC;13;saricda01;Dario Šarić;Did Not Play
+31/03/2023;OKC;14;sarrol01;Olivier Sarr;Did Not Play
+31/03/2023;OKC;0;mathube01;Bennedict Mathurin;35:06;5;8;.625;1;3;.333;4;5;.800;2;2;4;0;0;0;1;1;15;
+31/03/2023;OKC;1;nembhan01;Andrew Nembhard;31:10;7;16;.438;3;7;.429;1;2;.500;2;1;3;6;0;0;4;4;18;
+31/03/2023;OKC;2;nworajo01;Jordan Nwora;29:39;6;14;.429;1;6;.167;0;0;;1;5;6;6;0;1;0;2;13;
+31/03/2023;OKC;3;smithja04;Jalen Smith;29:18;5;10;.500;1;3;.333;1;3;.333;5;10;15;1;0;1;1;3;12;
+31/03/2023;OKC;4;nesmiaa01;Aaron Nesmith;24:56;3;11;.273;2;7;.286;1;1;1.000;4;2;6;2;1;0;1;2;9;
+31/03/2023;OKC;5;Reserves;Reserves
+31/03/2023;OKC;6;mccontj01;T.J. McConnell;29:19;10;15;.667;1;3;.333;0;0;;1;8;9;8;1;0;4;3;21;
+31/03/2023;OKC;7;hieldbu01;Buddy Hield;23:43;5;12;.417;3;8;.375;0;1;.000;0;3;3;5;2;0;2;2;13;
+31/03/2023;OKC;8;jacksis01;Isaiah Jackson;18:41;4;4;1.000;0;0;;5;8;.625;2;2;4;0;1;2;0;3;13;
+31/03/2023;OKC;9;brissos01;Oshae Brissett;18:06;0;8;.000;0;4;.000;7;8;.875;3;3;6;2;0;0;2;1;7;
+31/03/2023;OKC;10;hillge01;George Hill;Did Not Play
+31/03/2023;OKC;11;johnsja01;James Johnson;Did Not Play
+31/03/2023;OKC;12;theisda01;Daniel Theis;Did Not Play

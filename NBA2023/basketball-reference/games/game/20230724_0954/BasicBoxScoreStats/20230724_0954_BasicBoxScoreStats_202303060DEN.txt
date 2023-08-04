@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+06/03/2023;TOR;0;siakapa01;Pascal Siakam;36:34;8;18;.444;1;2;.500;2;2;1.000;2;2;4;4;0;1;3;1;19;-2
+06/03/2023;TOR;1;vanvlfr01;Fred VanVleet;34:36;5;12;.417;3;9;.333;8;8;1.000;0;1;1;14;2;0;5;4;21;-7
+06/03/2023;TOR;2;anunoog01;OG Anunoby;34:36;3;7;.429;3;6;.500;3;4;.750;2;2;4;1;0;0;1;3;12;-4
+06/03/2023;TOR;3;barnesc01;Scottie Barnes;33:55;5;12;.417;0;2;.000;2;2;1.000;3;6;9;2;1;1;3;2;12;-14
+06/03/2023;TOR;4;poeltja01;Jakob Poeltl;32:02;9;13;.692;0;0;;0;2;.000;3;6;9;4;1;1;2;3;18;-4
+06/03/2023;TOR;5;Reserves;Reserves
+06/03/2023;TOR;6;trentga02;Gary Trent Jr.;23:13;6;9;.667;1;2;.500;0;0;;0;1;1;0;0;0;0;2;13;-2
+06/03/2023;TOR;7;achiupr01;Precious Achiuwa;19:26;3;4;.750;1;1;1.000;2;2;1.000;0;6;6;3;1;0;0;1;9;+6
+06/03/2023;TOR;8;bouchch01;Chris Boucher;14:56;2;6;.333;0;2;.000;0;0;;1;5;6;0;1;1;0;1;4;-1
+06/03/2023;TOR;9;bartowi01;Will Barton;10:42;2;5;.400;1;3;.333;0;0;;0;1;1;1;0;0;1;3;5;+3
+06/03/2023;TOR;10;flynnma01;Malachi Flynn;Did Not Play
+06/03/2023;TOR;11;youngth01;Thaddeus Young;Did Not Play
+06/03/2023;TOR;0;jokicni01;Nikola Jokić;36:13;5;8;.625;1;1;1.000;6;6;1.000;3;10;13;9;0;1;4;1;17;+7
+06/03/2023;TOR;1;caldwke01;Kentavious Caldwell-Pope;35:36;3;10;.300;0;4;.000;0;0;;0;2;2;4;1;0;0;2;6;+8
+06/03/2023;TOR;2;murraja01;Jamal Murray;33:04;9;14;.643;5;10;.500;1;1;1.000;0;1;1;5;3;0;1;1;24;+4
+06/03/2023;TOR;3;portemi01;Michael Porter Jr.;32:01;7;11;.636;4;6;.667;2;4;.500;0;5;5;0;1;0;2;1;20;+7
+06/03/2023;TOR;4;gordoaa01;Aaron Gordon;29:44;7;12;.583;0;2;.000;5;6;.833;5;1;6;5;2;1;0;1;19;+13
+06/03/2023;TOR;5;Reserves;Reserves
+06/03/2023;TOR;6;jacksre01;Reggie Jackson;23:01;5;11;.455;3;4;.750;0;0;;1;2;3;5;0;0;2;2;13;+4
+06/03/2023;TOR;7;brownbr01;Bruce Brown;20:18;2;13;.154;0;5;.000;5;6;.833;2;2;4;1;2;0;2;3;9;-8
+06/03/2023;TOR;8;greenje02;Jeff Green;18:16;3;4;.750;0;1;.000;0;0;;1;2;3;1;0;0;2;1;6;-8
+06/03/2023;TOR;9;bryanth01;Thomas Bryant;11:47;2;3;.667;0;0;;0;0;;0;4;4;0;0;0;0;0;4;-2
+06/03/2023;TOR;10;braunch01;Christian Braun;Did Not Play
+06/03/2023;TOR;11;jordade01;DeAndre Jordan;Did Not Play
+06/03/2023;TOR;12;smithis01;Ish Smith;Did Not Play
+06/03/2023;TOR;13;whiteja03;Jack White;Did Not Play

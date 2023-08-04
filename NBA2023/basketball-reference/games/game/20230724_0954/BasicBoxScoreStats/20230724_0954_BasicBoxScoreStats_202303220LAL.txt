@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+22/03/2023;PHO;0;bookede01;Devin Booker;40:33;11;16;.688;1;3;.333;10;12;.833;0;6;6;5;0;0;7;4;33;0
+22/03/2023;PHO;1;paulch01;Chris Paul;30:09;8;17;.471;2;4;.500;0;0;;0;4;4;4;1;0;1;5;18;-16
+22/03/2023;PHO;2;craigto01;Torrey Craig;26:34;5;10;.500;4;7;.571;0;0;;0;2;2;1;0;1;1;4;14;-10
+22/03/2023;PHO;3;biyombi01;Bismack Biyombo;25:51;3;4;.750;0;0;;0;2;.000;5;3;8;2;1;2;2;4;6;-13
+22/03/2023;PHO;4;okogijo01;Josh Okogie;19:53;0;5;.000;0;3;.000;5;6;.833;1;2;3;2;0;1;1;2;5;-3
+22/03/2023;PHO;5;Reserves;Reserves
+22/03/2023;PHO;6;shamela01;Landry Shamet;29:07;6;13;.462;3;8;.375;0;0;;1;2;3;3;2;0;2;2;15;-7
+22/03/2023;PHO;7;landajo01;Jock Landale;20:32;2;6;.333;0;1;.000;0;0;;3;2;5;1;1;0;1;4;4;+3
+22/03/2023;PHO;8;warretj01;T.J. Warren;19:40;3;6;.500;0;1;.000;0;0;;1;3;4;1;0;0;0;2;6;-1
+22/03/2023;PHO;9;payneca01;Cameron Payne;13:38;3;7;.429;1;2;.500;0;0;;0;2;2;2;1;2;1;2;7;+5
+22/03/2023;PHO;10;rosste01;Terrence Ross;12:26;1;6;.167;1;2;.500;0;0;;1;1;2;1;0;0;0;1;3;-12
+22/03/2023;PHO;11;bazleda01;Darius Bazley;1:37;0;0;;0;0;;0;0;;0;0;0;1;1;0;1;1;0;-1
+22/03/2023;PHO;12;leeda03;Damion Lee;Did Not Play
+22/03/2023;PHO;13;wainris01;Ish Wainright;Did Not Play
+22/03/2023;PHO;0;reaveau01;Austin Reaves;38:48;6;10;.600;1;1;1.000;12;13;.923;0;4;4;11;1;0;2;2;25;+18
+22/03/2023;PHO;1;davisan02;Anthony Davis;38:17;10;18;.556;0;0;;7;10;.700;1;8;9;5;1;0;1;4;27;+13
+22/03/2023;PHO;2;russeda01;D'Angelo Russell;34:05;9;13;.692;3;6;.500;5;7;.714;0;1;1;6;1;2;4;0;26;+13
+22/03/2023;PHO;3;vandeja01;Jarred Vanderbilt;26:11;5;5;1.000;0;0;;3;3;1.000;2;2;4;0;1;0;1;5;13;+8
+22/03/2023;PHO;4;browntr01;Troy Brown Jr.;25:00;2;6;.333;1;3;.333;1;2;.500;0;6;6;2;1;0;0;3;6;+11
+22/03/2023;PHO;5;Reserves;Reserves
+22/03/2023;PHO;6;schrode01;Dennis Schröder;28:54;3;7;.429;1;1;1.000;6;6;1.000;1;3;4;2;0;0;1;2;13;+4
+22/03/2023;PHO;7;beaslma01;Malik Beasley;19:45;2;6;.333;2;5;.400;0;0;;0;4;4;0;0;0;1;0;6;-8
+22/03/2023;PHO;8;gabriwe01;Wenyen Gabriel;16:05;2;2;1.000;0;0;;2;5;.400;1;1;2;1;2;0;3;3;6;-3
+22/03/2023;PHO;9;hachiru01;Rui Hachimura;12:55;0;3;.000;0;1;.000;0;0;;0;2;2;0;0;0;0;1;0;-1
+22/03/2023;PHO;10;chrisma02;Max Christie;Did Not Play
+22/03/2023;PHO;11;reedda01;Davon Reed;Did Not Play
+22/03/2023;PHO;12;walkelo01;Lonnie Walker IV;Did Not Play

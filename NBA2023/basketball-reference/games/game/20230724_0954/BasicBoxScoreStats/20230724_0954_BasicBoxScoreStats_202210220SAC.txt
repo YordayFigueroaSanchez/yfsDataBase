@@ -1,0 +1,32 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+22/10/2022;LAC;0;georgpa01;Paul George;38:35;16;31;.516;3;10;.300;5;5;1.000;2;4;6;6;2;1;4;2;40;-4
+22/10/2022;LAC;1;powelno01;Norman Powell;32:02;1;10;.100;0;2;.000;2;2;1.000;0;3;3;4;0;0;2;0;4;-1
+22/10/2022;LAC;2;jacksre01;Reggie Jackson;26:46;4;5;.800;3;3;1.000;3;3;1.000;0;2;2;5;1;0;3;2;14;0
+22/10/2022;LAC;3;zubaciv01;Ivica Zubac;24:10;4;7;.571;0;0;;2;2;1.000;1;7;8;1;0;1;1;3;10;+4
+22/10/2022;LAC;4;morrima03;Marcus Morris;21:02;4;7;.571;1;1;1.000;0;0;;0;5;5;2;1;0;0;5;9;+2
+22/10/2022;LAC;5;Reserves;Reserves
+22/10/2022;LAC;6;batumni01;Nicolas Batum;28:01;3;3;1.000;1;1;1.000;0;0;;1;4;5;3;2;1;1;5;7;-3
+22/10/2022;LAC;7;kennalu01;Luke Kennard;27:54;4;11;.364;1;4;.250;2;2;1.000;0;1;1;0;0;0;0;0;11;+15
+22/10/2022;LAC;8;covinro01;Robert Covington;22:04;2;3;.667;0;1;.000;4;4;1.000;0;7;7;2;2;0;1;2;8;-3
+22/10/2022;LAC;9;mannte01;Terance Mann;14:52;2;3;.667;0;0;;1;2;.500;1;1;2;1;0;0;0;2;5;0
+22/10/2022;LAC;10;coffeam01;Amir Coffey;4:34;1;1;1.000;0;0;;1;2;.500;0;1;1;0;0;0;1;0;3;0
+22/10/2022;LAC;11;bostobr01;Brandon Boston Jr.;Did Not Play
+22/10/2022;LAC;12;brownmo01;Moses Brown;Did Not Play
+22/10/2022;LAC;13;diabamo01;Moussa Diabaté;Did Not Play
+22/10/2022;LAC;14;prestja01;Jason Preston;Did Not Play
+22/10/2022;LAC;0;sabondo01;Domantas Sabonis;34:39;4;12;.333;0;3;.000;3;6;.500;3;7;10;7;2;2;1;4;11;+7
+22/10/2022;LAC;1;barneha02;Harrison Barnes;34:29;2;10;.200;0;3;.000;4;7;.571;1;6;7;0;1;0;1;2;8;+4
+22/10/2022;LAC;2;foxde01;De'Aaron Fox;32:26;15;23;.652;3;5;.600;3;6;.500;1;4;5;4;1;1;3;1;36;+5
+22/10/2022;LAC;3;huertke01;Kevin Huerter;32:26;5;9;.556;5;8;.625;3;4;.750;0;3;3;5;0;0;1;4;18;+5
+22/10/2022;LAC;4;okpalkz01;KZ Okpala;18:20;1;3;.333;1;2;.500;0;0;;1;2;3;1;0;0;0;1;3;+2
+22/10/2022;LAC;5;Reserves;Reserves
+22/10/2022;LAC;6;murrake02;Keegan Murray;32:48;7;10;.700;3;6;.500;2;2;1.000;1;4;5;2;0;2;2;3;19;-4
+22/10/2022;LAC;7;mitchda01;Davion Mitchell;16:06;2;7;.286;0;2;.000;0;0;;0;0;0;2;0;0;1;2;4;-10
+22/10/2022;LAC;8;monkma01;Malik Monk;13:03;0;4;.000;0;2;.000;0;1;.000;0;2;2;1;1;0;2;1;0;-13
+22/10/2022;LAC;9;holmeri01;Richaun Holmes;12:49;1;2;.500;0;0;;0;0;;2;1;3;0;0;0;0;2;2;-6
+22/10/2022;LAC;10;daviste02;Terence Davis;12:24;3;5;.600;2;4;.500;0;0;;0;1;1;2;0;0;1;1;8;+1
+22/10/2022;LAC;11;metuch01;Chimezie Metu;0:30;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;-1
+22/10/2022;LAC;12;dellama01;Matthew Dellavedova;Did Not Play
+22/10/2022;LAC;13;lenal01;Alex Len;Did Not Play
+22/10/2022;LAC;14;lylestr01;Trey Lyles;Did Not Play
+22/10/2022;LAC;15;monekch01;Chima Moneke;Did Not Play

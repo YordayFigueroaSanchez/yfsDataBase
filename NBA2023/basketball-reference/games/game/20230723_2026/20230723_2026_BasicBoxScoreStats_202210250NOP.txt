@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+25/10/2022;DAL;0;dinwisp01;Spencer Dinwiddie;37:59;8;15;.533;4;8;.500;4;5;.800;0;2;2;5;0;0;2;2;24;-15
+25/10/2022;DAL;1;doncilu01;Luka Dončić;36:19;16;30;.533;2;13;.154;3;5;.600;3;8;11;7;2;1;3;3;37;+6
+25/10/2022;DAL;2;bullore01;Reggie Bullock;35:03;1;8;.125;1;6;.167;0;0;;1;4;5;2;2;0;0;4;3;-2
+25/10/2022;DAL;3;finnedo01;Dorian Finney-Smith;34:43;2;5;.400;0;2;.000;0;0;;2;2;4;2;0;1;1;2;4;-4
+25/10/2022;DAL;4;mcgeeja01;JaVale McGee;12:16;3;5;.600;0;0;;2;4;.500;1;1;2;0;1;1;0;1;8;0
+25/10/2022;DAL;5;Reserves;Reserves
+25/10/2022;DAL;6;woodch01;Christian Wood;29:29;8;10;.800;3;3;1.000;4;6;.667;2;4;6;0;1;0;3;1;23;+8
+25/10/2022;DAL;7;klebima01;Maxi Kleber;27:37;1;3;.333;1;3;.333;4;4;1.000;2;3;5;0;0;2;2;2;7;-7
+25/10/2022;DAL;8;greenjo02;Josh Green;13:37;1;2;.500;0;1;.000;0;0;;0;2;2;0;0;0;0;1;2;+4
+25/10/2022;DAL;9;campafa01;Facundo Campazzo;12:57;1;4;.250;1;3;.333;0;0;;0;0;0;2;2;0;0;0;3;0
+25/10/2022;DAL;10;dorsety01;Tyler Dorsey;Did Not Play
+25/10/2022;DAL;11;hardyja02;Jaden Hardy;Did Not Play
+25/10/2022;DAL;12;pinsoth01;Theo Pinson;Did Not Play
+25/10/2022;DAL;13;poweldw01;Dwight Powell;Did Not Play
+25/10/2022;DAL;14;wrighmc01;McKinley Wright IV;Did Not Play
+25/10/2022;DAL;0;murphtr02;Trey Murphy III;36:29;8;8;1.000;4;4;1.000;2;2;1.000;1;4;5;1;1;0;2;3;22;+1
+25/10/2022;DAL;1;mccolcj01;CJ McCollum;35:31;6;20;.300;1;5;.200;1;1;1.000;0;0;0;11;1;1;3;1;14;+10
+25/10/2022;DAL;2;marshna01;Naji Marshall;33:23;6;9;.667;0;2;.000;3;4;.750;2;1;3;1;0;0;3;3;15;+14
+25/10/2022;DAL;3;alvarjo01;Jose Alvarado;25:59;6;8;.750;1;3;.333;0;0;;0;3;3;3;2;0;2;1;13;+12
+25/10/2022;DAL;4;valanjo01;Jonas Valančiūnas;22:18;5;9;.556;0;2;.000;3;3;1.000;0;7;7;2;0;1;1;3;13;+2
+25/10/2022;DAL;5;Reserves;Reserves
+25/10/2022;DAL;6;grahade01;Devonte' Graham;27:01;4;10;.400;4;8;.500;2;4;.500;0;1;1;3;0;0;0;2;14;-1
+25/10/2022;DAL;7;nancela02;Larry Nance Jr.;23:47;5;6;.833;1;1;1.000;0;0;;0;2;2;1;0;0;1;4;11;-2
+25/10/2022;DAL;8;daniedy01;Dyson Daniels;22:07;4;5;.800;1;1;1.000;2;2;1.000;1;2;3;2;3;1;1;3;11;-18
+25/10/2022;DAL;9;hayesja02;Jaxson Hayes;13:25;0;1;.000;0;1;.000;0;2;.000;0;2;2;1;0;0;1;1;0;-8
+25/10/2022;DAL;10;hernawi01;Willy Hernangómez;Did Not Play
+25/10/2022;DAL;11;seabrde01;Dereon Seabron;Did Not Play
+25/10/2022;DAL;12;templga01;Garrett Temple;Did Not Play

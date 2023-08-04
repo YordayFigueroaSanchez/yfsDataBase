@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+10/12/2022;UTA;0;alexani01;Nickeil Alexander-Walker;39:50;9;16;.563;5;10;.500;4;5;.800;1;2;3;2;0;1;6;4;27;-6
+10/12/2022;UTA;1;hortota01;Talen Horton-Tucker;33:59;8;18;.444;1;7;.143;2;3;.667;2;5;7;4;0;2;1;2;19;-6
+10/12/2022;UTA;2;beaslma01;Malik Beasley;33:21;7;13;.538;4;10;.400;1;2;.500;0;5;5;3;2;0;4;1;19;-8
+10/12/2022;UTA;3;olynyke01;Kelly Olynyk;32:56;5;9;.556;2;4;.500;6;6;1.000;1;8;9;3;0;0;0;5;18;-7
+10/12/2022;UTA;4;vandeja01;Jarred Vanderbilt;25:56;2;7;.286;0;1;.000;2;2;1.000;2;3;5;4;3;0;2;4;6;-9
+10/12/2022;UTA;5;Reserves;Reserves
+10/12/2022;UTA;6;kesslwa01;Walker Kessler;22:04;4;6;.667;0;0;;2;3;.667;2;6;8;0;0;3;0;2;10;+4
+10/12/2022;UTA;7;agbajoc01;Ochai Agbaji;19:36;2;8;.250;2;5;.400;0;0;;1;1;2;0;0;0;0;2;6;+2
+10/12/2022;UTA;8;bolmale01;Leandro Bolmaro;17:14;0;1;.000;0;0;;0;0;;0;1;1;3;0;0;0;0;0;+3
+10/12/2022;UTA;9;gayru01;Rudy Gay;15:04;2;7;.286;1;4;.250;0;0;;1;1;2;1;0;0;0;0;5;+2
+10/12/2022;UTA;10;azubuud01;Udoka Azubuike;Did Not Play
+10/12/2022;UTA;11;pottemi01;Micah Potter;Did Not Play
+10/12/2022;UTA;0;murraja01;Jamal Murray;36:19;13;19;.684;1;3;.333;3;3;1.000;1;3;4;5;0;0;1;2;30;+11
+10/12/2022;UTA;1;jokicni01;Nikola Jokić;35:22;11;20;.550;1;4;.250;8;10;.800;3;9;12;14;1;4;3;3;31;+10
+10/12/2022;UTA;2;caldwke01;Kentavious Caldwell-Pope;34:04;6;9;.667;3;6;.500;0;0;;0;6;6;3;1;0;0;3;15;+9
+10/12/2022;UTA;3;gordoaa01;Aaron Gordon;30:12;7;13;.538;0;4;.000;1;2;.500;0;1;1;1;2;0;0;3;15;+6
+10/12/2022;UTA;4;brownbr01;Bruce Brown;27:33;2;5;.400;0;1;.000;0;0;;0;4;4;2;0;1;1;3;4;+12
+10/12/2022;UTA;5;Reserves;Reserves
+10/12/2022;UTA;6;braunch01;Christian Braun;24:55;2;3;.667;0;0;;1;1;1.000;0;2;2;0;0;0;1;0;5;-12
+10/12/2022;UTA;7;hylanbo01;Bones Hyland;21:09;4;14;.286;3;7;.429;0;0;;1;1;2;1;1;2;1;1;11;-5
+10/12/2022;UTA;8;greenje02;Jeff Green;17:48;1;2;.500;0;1;.000;0;0;;0;3;3;1;0;1;0;0;2;-1
+10/12/2022;UTA;9;jordade01;DeAndre Jordan;12:38;1;1;1.000;0;0;;0;0;;1;4;5;1;0;0;1;2;2;-5
+10/12/2022;UTA;10;cancavl01;Vlatko Čančar;Did Not Play
+10/12/2022;UTA;11;nnajize01;Zeke Nnaji;Did Not Play
+10/12/2022;UTA;12;reedda01;Davon Reed;Did Not Play
+10/12/2022;UTA;13;smithis01;Ish Smith;Did Not Play
+10/12/2022;UTA;14;watsope01;Peyton Watson;Did Not Play

@@ -1,0 +1,54 @@
+{
+    "home_team": {
+        "name": "den",
+        "stats": {
+            "minutes": 0,
+            "field_goals_made": 0,
+            "field_goals_attempted": 0,
+            "field_goal_percentage": 0.0,
+            "three_pointers_made": 0,
+            "three_pointers_attempted": 0,
+            "three_point_percentage": 0.0,
+            "free_throws_made": 0,
+            "free_throws_attempted": 0,
+            "free_throw_percentage": 0.0,
+            "offensive_rebounds": 0,
+            "defensive_rebounds": 0,
+            "total_rebounds": 0,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "personal_fouls": 0,
+            "points": 0,
+            "plus_minus": 0.0
+        },
+        "players": []
+    },
+    "away_team": {
+        "name": "phx",
+        "stats": {
+            "minutes": 0,
+            "field_goals_made": 0,
+            "field_goals_attempted": 0,
+            "field_goal_percentage": 0.0,
+            "three_pointers_made": 0,
+            "three_pointers_attempted": 0,
+            "three_point_percentage": 0.0,
+            "free_throws_made": 0,
+            "free_throws_attempted": 0,
+            "free_throw_percentage": 0.0,
+            "offensive_rebounds": 0,
+            "defensive_rebounds": 0,
+            "total_rebounds": 0,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "personal_fouls": 0,
+            "points": 0,
+            "plus_minus": 0.0
+        },
+        "players": []
+    }
+}

@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+18/11/2022;PHO;0;bookede01;Devin Booker;41:17;16;31;.516;2;9;.222;15;15;1.000;1;7;8;10;1;0;1;3;49;-4
+18/11/2022;PHO;1;aytonde01;Deandre Ayton;36:38;7;12;.583;0;1;.000;3;3;1.000;5;5;10;8;0;3;2;3;17;0
+18/11/2022;PHO;2;bridgmi01;Mikal Bridges;34:47;6;12;.500;0;2;.000;1;2;.500;0;6;6;2;2;3;2;3;13;0
+18/11/2022;PHO;3;payneca01;Cameron Payne;33:36;6;12;.500;2;4;.500;3;4;.750;0;0;0;5;3;0;4;4;17;+3
+18/11/2022;PHO;4;craigto01;Torrey Craig;27:32;6;10;.600;3;5;.600;1;1;1.000;2;4;6;2;1;0;1;5;16;-8
+18/11/2022;PHO;5;Reserves;Reserves
+18/11/2022;PHO;6;leeda03;Damion Lee;26:40;2;6;.333;2;5;.400;0;0;;2;2;4;1;0;0;1;1;6;+8
+18/11/2022;PHO;7;saricda01;Dario Šarić;12:34;1;3;.333;0;1;.000;2;2;1.000;2;4;6;1;0;0;1;3;4;-1
+18/11/2022;PHO;8;washidu02;Duane Washington Jr.;12:34;2;4;.500;0;2;.000;0;0;;0;1;1;0;0;0;0;0;4;-4
+18/11/2022;PHO;9;landajo01;Jock Landale;11:22;3;4;.750;0;1;.000;1;1;1.000;0;0;0;0;0;0;1;0;7;-1
+18/11/2022;PHO;10;okogijo01;Josh Okogie;3:00;0;0;;0;0;;0;0;;0;1;1;0;0;0;1;3;0;+2
+18/11/2022;PHO;11;biyombi01;Bismack Biyombo;Did Not Play
+18/11/2022;PHO;12;paulch01;Chris Paul;Did Not Dress
+18/11/2022;PHO;13;wainris01;Ish Wainright;Did Not Play
+18/11/2022;PHO;0;markkla01;Lauri Markkanen;34:36;15;18;.833;2;3;.667;6;8;.750;1;5;6;3;1;0;1;2;38;+5
+18/11/2022;PHO;1;clarkjo01;Jordan Clarkson;30:50;8;16;.500;2;6;.333;2;2;1.000;1;1;2;3;0;0;1;1;20;+15
+18/11/2022;PHO;2;conlemi01;Mike Conley;30:16;4;9;.444;4;5;.800;1;2;.500;1;3;4;10;1;1;2;5;13;-2
+18/11/2022;PHO;3;vandeja01;Jarred Vanderbilt;26:37;3;6;.500;0;1;.000;0;0;;5;6;11;8;0;0;3;6;6;+19
+18/11/2022;PHO;4;olynyke01;Kelly Olynyk;19:56;2;5;.400;0;1;.000;1;1;1.000;1;3;4;2;1;0;4;5;5;+19
+18/11/2022;PHO;5;Reserves;Reserves
+18/11/2022;PHO;6;beaslma01;Malik Beasley;31:16;10;17;.588;7;13;.538;0;0;;0;3;3;1;1;1;2;0;27;-10
+18/11/2022;PHO;7;sextoco01;Collin Sexton;21:34;5;10;.500;0;1;.000;3;4;.750;0;1;1;0;0;0;1;3;13;-20
+18/11/2022;PHO;8;kesslwa01;Walker Kessler;20:22;0;3;.000;0;0;;1;2;.500;2;1;3;2;1;0;0;3;1;-18
+18/11/2022;PHO;9;hortota01;Talen Horton-Tucker;15:01;3;6;.500;0;0;;1;3;.333;0;1;1;3;1;0;2;2;7;+4
+18/11/2022;PHO;10;fontesi01;Simone Fontecchio;9:32;1;1;1.000;1;1;1.000;1;2;.500;0;1;1;0;0;1;0;1;4;-7
+18/11/2022;PHO;11;alexani01;Nickeil Alexander-Walker;Did Not Play
+18/11/2022;PHO;12;azubuud01;Udoka Azubuike;Did Not Play

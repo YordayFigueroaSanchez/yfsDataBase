@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+06/03/2023;BOS;0;brownja02;Jaylen Brown;45:06;12;26;.462;1;7;.143;7;10;.700;2;11;13;9;0;1;4;5;32;-1
+06/03/2023;BOS;1;smartma01;Marcus Smart;37:15;4;17;.235;3;11;.273;0;0;;1;2;3;5;2;1;3;1;11;-8
+06/03/2023;BOS;2;whitede01;Derrick White;35:53;5;14;.357;2;5;.400;0;0;;2;1;3;2;0;0;1;4;12;-9
+06/03/2023;BOS;3;muscami01;Mike Muscala;34:57;2;6;.333;1;5;.200;0;0;;1;5;6;0;2;1;0;2;5;+9
+06/03/2023;BOS;4;griffbl01;Blake Griffin;18:01;2;4;.500;0;2;.000;0;0;;0;4;4;2;0;0;1;2;4;+7
+06/03/2023;BOS;5;Reserves;Reserves
+06/03/2023;BOS;6;brogdma01;Malcolm Brogdon;36:28;8;14;.571;3;6;.500;5;5;1.000;0;4;4;5;0;0;1;4;24;-7
+06/03/2023;BOS;7;kornelu01;Luke Kornet;18:32;2;5;.400;0;0;;0;2;.000;6;2;8;0;0;1;0;1;4;-17
+06/03/2023;BOS;8;pritcpa01;Payton Pritchard;16:08;2;8;.250;1;6;.167;2;2;1.000;0;4;4;1;0;0;1;0;7;+2
+06/03/2023;BOS;9;willigr01;Grant Williams;16:06;4;6;.667;4;5;.800;0;2;.000;2;2;4;0;0;0;0;2;12;-4
+06/03/2023;BOS;10;hausesa01;Sam Hauser;6:34;1;1;1.000;1;1;1.000;0;0;;1;2;3;1;1;1;1;0;3;+8
+06/03/2023;BOS;11;horfoal01;Al Horford;Not With Team
+06/03/2023;BOS;0;mitchdo01;Donovan Mitchell;47:11;14;34;.412;4;11;.364;8;8;1.000;4;7;11;4;0;1;3;2;40;+3
+06/03/2023;BOS;1;garlada01;Darius Garland;42:24;6;18;.333;2;7;.286;3;4;.750;0;5;5;12;1;0;3;2;17;+17
+06/03/2023;BOS;2;mobleev01;Evan Mobley;41:19;10;14;.714;1;4;.250;4;7;.571;5;12;17;1;0;3;3;5;25;+9
+06/03/2023;BOS;3;allenja01;Jarrett Allen;25:38;2;5;.400;0;0;;0;0;;0;6;6;3;0;0;0;3;4;-8
+06/03/2023;BOS;4;okorois01;Isaac Okoro;22:56;3;7;.429;1;4;.250;2;2;1.000;0;2;2;2;1;0;0;1;9;-5
+06/03/2023;BOS;5;Reserves;Reserves
+06/03/2023;BOS;6;leverca01;Caris LeVert;32:41;2;7;.286;1;3;.333;2;2;1.000;1;5;6;4;2;3;1;4;7;+9
+06/03/2023;BOS;7;osmande01;Cedi Osman;17:47;2;4;.500;2;2;1.000;0;0;;0;1;1;0;0;0;0;2;6;-7
+06/03/2023;BOS;8;stevela01;Lamar Stevens;17:09;3;5;.600;1;2;.500;1;2;.500;6;2;8;1;0;0;2;1;8;+18
+06/03/2023;BOS;9;wadede01;Dean Wade;10:56;0;1;.000;0;1;.000;0;0;;0;2;2;0;0;0;0;0;0;-10
+06/03/2023;BOS;10;rubiori01;Ricky Rubio;6:59;1;1;1.000;0;0;;0;0;;0;0;0;0;0;0;3;0;2;-6
+06/03/2023;BOS;11;greenda02;Danny Green;Did Not Play
+06/03/2023;BOS;12;lopezro01;Robin Lopez;Did Not Play
+06/03/2023;BOS;13;merrisa01;Sam Merrill;Did Not Play
+06/03/2023;BOS;14;netora01;Raul Neto;Did Not Play
+06/03/2023;BOS;15;windldy01;Dylan Windler;Did Not Play

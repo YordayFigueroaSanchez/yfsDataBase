@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+10/01/2023;ORL;0;banchpa01;Paolo Banchero;37:36;5;16;.313;1;5;.200;8;10;.800;0;10;10;2;3;1;5;2;19;+7
+10/01/2023;ORL;1;fultzma01;Markelle Fultz;36:37;7;8;.875;0;0;;4;4;1.000;1;2;3;7;1;0;3;1;18;+7
+10/01/2023;ORL;2;wagnefr01;Franz Wagner;34:28;12;20;.600;2;5;.400;3;4;.750;1;1;2;2;2;0;2;2;29;+14
+10/01/2023;ORL;3;cartewe01;Wendell Carter Jr.;30:31;7;11;.636;3;4;.750;3;4;.750;1;9;10;3;0;1;3;3;20;+12
+10/01/2023;ORL;4;harriga01;Gary Harris;29:44;2;5;.400;0;3;.000;0;0;;0;0;0;0;1;0;0;4;4;+19
+10/01/2023;ORL;5;Reserves;Reserves
+10/01/2023;ORL;6;anthoco01;Cole Anthony;24:38;2;6;.333;0;0;;2;3;.667;1;2;3;2;0;0;0;1;6;-15
+10/01/2023;ORL;7;wagnemo01;Moritz Wagner;17:29;4;7;.571;3;4;.750;0;0;;1;1;2;1;0;0;2;4;11;-9
+10/01/2023;ORL;8;rosste01;Terrence Ross;15:01;0;0;;0;0;;0;0;;0;2;2;0;1;0;0;1;0;-16
+10/01/2023;ORL;9;suggsja01;Jalen Suggs;11:23;1;4;.250;0;2;.000;0;0;;1;2;3;2;2;0;1;1;2;-4
+10/01/2023;ORL;10;houstca01;Caleb Houstan;2:33;0;1;.000;0;1;.000;0;0;;0;0;0;0;0;0;0;1;0;0
+10/01/2023;ORL;11;bambamo01;Mo Bamba;Did Not Play
+10/01/2023;ORL;12;bolbo01;Bol Bol;Did Not Play
+10/01/2023;ORL;13;schofad01;Admiral Schofield;Did Not Play
+10/01/2023;ORL;0;simonan01;Anfernee Simons;42:42;6;16;.375;2;9;.222;1;1;1.000;0;1;1;7;1;1;1;0;15;-1
+10/01/2023;ORL;1;grantje01;Jerami Grant;40:33;8;19;.421;0;6;.000;0;0;;2;4;6;1;1;3;2;5;16;-5
+10/01/2023;ORL;2;lillada01;Damian Lillard;38:37;12;25;.480;2;12;.167;4;4;1.000;1;3;4;5;1;0;3;0;30;-13
+10/01/2023;ORL;3;nurkiju01;Jusuf Nurkić;34:05;7;14;.500;1;4;.250;7;9;.778;4;6;10;1;4;2;5;5;22;-1
+10/01/2023;ORL;4;hartjo01;Josh Hart;32:39;3;5;.600;0;2;.000;1;1;1.000;6;7;13;5;2;0;1;5;7;-1
+10/01/2023;ORL;5;Reserves;Reserves
+10/01/2023;ORL;6;paytoga02;Gary Payton II;15:19;1;1;1.000;0;0;;0;0;;0;2;2;1;1;0;2;2;2;-2
+10/01/2023;ORL;7;sharpsh01;Shaedon Sharpe;14:43;3;5;.600;1;2;.500;1;2;.500;0;1;1;0;0;0;0;0;8;+8
+10/01/2023;ORL;8;eubandr01;Drew Eubanks;13:55;2;2;1.000;0;0;;2;2;1.000;0;4;4;1;0;1;2;3;6;-2
+10/01/2023;ORL;9;walkeja01;Jabari Walker;7:25;0;0;;0;0;;0;0;;0;2;2;1;0;0;0;1;0;+4
+10/01/2023;ORL;10;johnske07;Keon Johnson;0:02;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;1;0;-2
+10/01/2023;ORL;11;browngr01;Greg Brown III;Did Not Play
+10/01/2023;ORL;12;watfotr01;Trendon Watford;Did Not Play

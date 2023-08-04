@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+20/11/2022;GSW;0;curryst01;Stephen Curry;36:59;11;20;.550;7;14;.500;4;5;.800;0;6;6;15;3;2;1;3;33;+22
+20/11/2022;GSW;1;wiggian01;Andrew Wiggins;36:32;8;16;.500;6;11;.545;0;0;;0;5;5;0;2;0;2;3;22;+8
+20/11/2022;GSW;2;thompkl01;Klay Thompson;35:34;14;23;.609;10;13;.769;3;4;.750;2;2;4;3;2;0;2;1;41;+14
+20/11/2022;GSW;3;greendr01;Draymond Green;31:46;2;4;.500;0;1;.000;0;0;;0;6;6;8;0;0;4;5;4;+18
+20/11/2022;GSW;4;looneke01;Kevon Looney;28:46;1;2;.500;0;0;;1;2;.500;2;5;7;5;0;1;0;6;3;0
+20/11/2022;GSW;5;Reserves;Reserves
+20/11/2022;GSW;6;poolejo01;Jordan Poole;24:33;3;8;.375;1;2;.500;3;3;1.000;0;2;2;4;0;1;1;0;10;-6
+20/11/2022;GSW;7;divindo01;Donte DiVincenzo;15:30;2;5;.400;0;3;.000;0;1;.000;1;3;4;1;1;1;1;1;4;-7
+20/11/2022;GSW;8;greenja01;JaMychal Green;14:45;4;5;.800;0;1;.000;0;0;;1;2;3;1;0;0;2;1;8;-3
+20/11/2022;GSW;9;kuminjo01;Jonathan Kuminga;6:27;1;3;.333;0;2;.000;0;0;;2;0;2;0;0;0;1;2;2;-12
+20/11/2022;GSW;10;moodymo01;Moses Moody;4:39;0;0;;0;0;;0;0;;0;0;0;0;0;0;1;0;0;+8
+20/11/2022;GSW;11;lamban01;Anthony Lamb;4:27;0;0;;0;0;;0;0;;0;1;1;1;0;0;2;0;0;-7
+20/11/2022;GSW;12;jeromty01;Ty Jerome;Did Not Play
+20/11/2022;GSW;0;greenja05;Jalen Green;37:54;4;15;.267;1;8;.125;7;8;.875;2;3;5;4;2;0;0;1;16;-24
+20/11/2022;GSW;1;porteke02;Kevin Porter Jr.;34:45;10;19;.526;5;11;.455;5;6;.833;3;2;5;6;2;1;2;4;30;-14
+20/11/2022;GSW;2;smithja05;Jabari Smith Jr.;32:23;8;14;.571;3;9;.333;3;4;.750;1;6;7;1;0;0;2;2;22;-14
+20/11/2022;GSW;3;gordoer01;Eric Gordon;29:43;5;12;.417;3;7;.429;1;1;1.000;0;2;2;2;1;0;2;0;14;0
+20/11/2022;GSW;4;sengual01;Alperen Şengün;23:25;1;3;.333;0;0;;2;2;1.000;1;6;7;3;1;0;3;3;4;0
+20/11/2022;GSW;5;Reserves;Reserves
+20/11/2022;GSW;6;martike04;Kenyon Martin Jr.;23:39;4;6;.667;1;2;.500;3;4;.750;0;4;4;1;1;0;0;0;12;+12
+20/11/2022;GSW;7;easonta01;Tari Eason;22:40;8;14;.571;1;5;.200;2;2;1.000;2;6;8;1;3;0;0;1;19;+6
+20/11/2022;GSW;8;garubus01;Usman Garuba;22:15;1;4;.250;1;1;1.000;0;0;;3;3;6;1;2;0;2;1;3;-8
+20/11/2022;GSW;9;nixda01;Daishen Nix;13:15;0;3;.000;0;2;.000;0;0;;0;1;1;5;1;0;1;0;0;+7
+20/11/2022;GSW;10;chrisjo01;Josh Christopher;Did Not Play
+20/11/2022;GSW;11;marjabo01;Boban Marjanović;Did Not Play
+20/11/2022;GSW;12;mathega01;Garrison Mathews;Did Not Play

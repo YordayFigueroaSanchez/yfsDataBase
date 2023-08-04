@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+13/11/2022;GSW;0;curryst01;Stephen Curry;36:51;9;17;.529;3;9;.333;6;6;1.000;0;6;6;4;1;0;4;0;27;0
+13/11/2022;GSW;1;wiggian01;Andrew Wiggins;34:19;10;18;.556;3;9;.333;3;4;.750;2;2;4;2;2;0;0;3;26;-15
+13/11/2022;GSW;2;greendr01;Draymond Green;34:07;3;7;.429;0;2;.000;0;0;;0;7;7;11;0;1;3;3;6;-3
+13/11/2022;GSW;3;thompkl01;Klay Thompson;32:28;6;16;.375;5;13;.385;0;0;;0;7;7;3;1;1;2;1;17;-1
+13/11/2022;GSW;4;looneke01;Kevon Looney;29:21;4;7;.571;0;0;;0;0;;6;4;10;2;0;2;3;4;8;-4
+13/11/2022;GSW;5;Reserves;Reserves
+13/11/2022;GSW;6;divindo01;Donte DiVincenzo;24:16;1;3;.333;1;3;.333;2;2;1.000;0;5;5;2;0;0;1;1;5;0
+13/11/2022;GSW;7;poolejo01;Jordan Poole;20:21;6;14;.429;3;7;.429;3;3;1.000;0;3;3;1;1;0;4;3;18;-1
+13/11/2022;GSW;8;kuminjo01;Jonathan Kuminga;14:24;1;4;.250;0;2;.000;1;1;1.000;0;0;0;1;0;1;0;4;3;-4
+13/11/2022;GSW;9;lamban01;Anthony Lamb;13:53;2;4;.500;1;2;.500;0;0;;0;1;1;1;0;0;1;1;5;-7
+13/11/2022;GSW;10;greenja01;JaMychal Green;Did Not Play
+13/11/2022;GSW;11;moodymo01;Moses Moody;Did Not Play
+13/11/2022;GSW;12;rolliry01;Ryan Rollins;Did Not Play
+13/11/2022;GSW;13;wisemja01;James Wiseman;Did Not Play
+13/11/2022;GSW;0;murrake02;Keegan Murray;36:36;8;15;.533;5;9;.556;0;0;;0;4;4;0;3;0;2;4;21;+16
+13/11/2022;GSW;1;foxde01;De'Aaron Fox;34:21;10;19;.526;2;4;.500;0;2;.000;1;3;4;8;3;1;3;3;22;+15
+13/11/2022;GSW;2;sabondo01;Domantas Sabonis;34:12;10;17;.588;2;2;1.000;4;6;.667;6;16;22;8;0;0;3;1;26;+5
+13/11/2022;GSW;3;huertke01;Kevin Huerter;32:27;6;9;.667;4;6;.667;1;4;.250;0;5;5;4;0;0;3;1;17;+2
+13/11/2022;GSW;4;barneha02;Harrison Barnes;27:25;4;8;.500;1;3;.333;0;0;;0;0;0;3;1;1;0;1;9;+3
+13/11/2022;GSW;5;Reserves;Reserves
+13/11/2022;GSW;6;monkma01;Malik Monk;24:22;2;8;.250;1;4;.250;7;7;1.000;0;1;1;4;0;0;3;2;12;-2
+13/11/2022;GSW;7;daviste02;Terence Davis;17:37;2;4;.500;1;3;.333;0;0;;1;5;6;2;0;0;1;1;5;+14
+13/11/2022;GSW;8;mitchda01;Davion Mitchell;14:09;1;3;.333;0;2;.000;0;0;;1;0;1;1;0;0;0;1;2;-8
+13/11/2022;GSW;9;metuch01;Chimezie Metu;13:25;4;6;.667;0;2;.000;0;0;;0;2;2;0;1;0;0;2;8;-1
+13/11/2022;GSW;10;lylestr01;Trey Lyles;5:26;0;2;.000;0;2;.000;0;0;;0;0;0;1;0;0;0;1;0;-9
+13/11/2022;GSW;11;dellama01;Matthew Dellavedova;Did Not Play
+13/11/2022;GSW;12;holmeri01;Richaun Holmes;Did Not Play
+13/11/2022;GSW;13;lenal01;Alex Len;Did Not Play
+13/11/2022;GSW;14;okpalkz01;KZ Okpala;Did Not Play

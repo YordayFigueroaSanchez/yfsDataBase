@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+30/12/2022;DET;0;stewais01;Isaiah Stewart;33:18;6;15;.400;2;7;.286;2;2;1.000;4;6;10;2;3;0;1;2;16;-5
+30/12/2022;DET;1;bogdabo02;Bojan Bogdanović;31:09;8;19;.421;2;6;.333;2;4;.500;1;3;4;6;1;0;3;1;20;-16
+30/12/2022;DET;2;durenja01;Jalen Duren;30:50;2;4;.500;0;0;;0;0;;3;5;8;3;0;0;1;2;4;-16
+30/12/2022;DET;3;beysa01;Saddiq Bey;30:38;4;13;.308;2;7;.286;0;0;;2;2;4;2;2;0;2;0;10;-17
+30/12/2022;DET;4;iveyja01;Jaden Ivey;29:13;6;10;.600;2;5;.400;8;9;.889;0;1;1;6;0;0;3;4;22;-14
+30/12/2022;DET;5;Reserves;Reserves
+30/12/2022;DET;6;burksal01;Alec Burks;21:45;7;9;.778;4;4;1.000;1;1;1.000;0;1;1;4;0;0;2;2;19;-1
+30/12/2022;DET;7;josepco01;Cory Joseph;18:47;0;1;.000;0;0;;4;4;1.000;1;0;1;3;1;0;0;2;4;0
+30/12/2022;DET;8;mcgruro01;Rodney McGruder;16:51;4;6;.667;3;5;.600;0;2;.000;1;0;1;2;0;0;1;0;11;+2
+30/12/2022;DET;9;knoxke01;Kevin Knox;14:12;1;3;.333;1;3;.333;2;2;1.000;0;3;3;0;1;0;1;1;5;0
+30/12/2022;DET;10;baglema01;Marvin Bagley III;13:17;3;6;.500;1;2;.500;0;0;;1;1;2;0;0;1;0;2;7;-3
+30/12/2022;DET;11;diallha01;Hamidou Diallo;Not With Team
+30/12/2022;DET;12;hayeski01;Killian Hayes;Not With Team
+30/12/2022;DET;13;noelne01;Nerlens Noel;Did Not Play
+30/12/2022;DET;0;lavinza01;Zach LaVine;38:26;15;20;.750;5;9;.556;8;8;1.000;0;3;3;6;2;0;4;1;43;+19
+30/12/2022;DET;1;derozde01;DeMar DeRozan;34:39;9;19;.474;0;2;.000;4;5;.800;0;6;6;5;1;0;2;4;22;+5
+30/12/2022;DET;2;vucevni01;Nikola Vučević;32:49;9;16;.563;1;3;.333;0;0;;3;6;9;2;1;3;1;1;19;+16
+30/12/2022;DET;3;willipa01;Patrick Williams;31:16;3;6;.500;2;4;.500;0;0;;1;2;3;0;1;0;1;1;8;+10
+30/12/2022;DET;4;dosunay01;Ayo Dosunmu;25:24;5;11;.455;1;3;.333;0;0;;3;3;6;2;0;0;1;3;11;+10
+30/12/2022;DET;5;Reserves;Reserves
+30/12/2022;DET;6;carusal01;Alex Caruso;20:21;3;4;.750;2;2;1.000;0;0;;1;1;2;2;2;1;2;3;8;+7
+30/12/2022;DET;7;dragigo01;Goran Dragić;15:27;2;6;.333;0;2;.000;0;0;;1;1;2;1;0;0;1;4;4;-5
+30/12/2022;DET;8;drumman01;Andre Drummond;15:11;5;7;.714;0;0;;2;2;1.000;3;4;7;0;2;0;1;1;12;-2
+30/12/2022;DET;9;whiteco01;Coby White;13:48;2;3;.667;1;2;.500;0;0;;0;0;0;1;0;0;0;2;5;+10
+30/12/2022;DET;10;greenja02;Javonte Green;12:39;0;0;;0;0;;0;0;;0;0;0;2;1;0;0;0;0;0
+30/12/2022;DET;11;bradlto01;Tony Bradley;Did Not Play
+30/12/2022;DET;12;hillma01;Malcolm Hill;Did Not Play
+30/12/2022;DET;13;terryda01;Dalen Terry;Did Not Play

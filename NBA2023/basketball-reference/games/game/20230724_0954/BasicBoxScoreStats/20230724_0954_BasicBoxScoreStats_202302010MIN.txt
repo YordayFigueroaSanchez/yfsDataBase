@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+01/02/2023;GSW;0;curryst01;Stephen Curry;42:22;8;21;.381;5;12;.417;8;9;.889;0;10;10;3;1;1;4;5;29;-5
+01/02/2023;GSW;1;thompkl01;Klay Thompson;40:27;3;13;.231;2;7;.286;6;6;1.000;1;5;6;0;1;0;2;1;14;+2
+01/02/2023;GSW;2;greendr01;Draymond Green;39:28;5;10;.500;0;0;;0;3;.000;0;12;12;4;1;0;5;3;10;-6
+01/02/2023;GSW;3;wiggian01;Andrew Wiggins;35:07;7;13;.538;1;4;.250;1;2;.500;2;5;7;3;0;0;2;2;16;-8
+01/02/2023;GSW;4;poolejo01;Jordan Poole;31:39;4;13;.308;1;5;.200;9;10;.900;1;6;7;5;0;0;2;3;18;-9
+01/02/2023;GSW;5;Reserves;Reserves
+01/02/2023;GSW;6;looneke01;Kevon Looney;28:42;4;5;.800;0;0;;2;2;1.000;3;6;9;0;2;2;0;4;10;+12
+01/02/2023;GSW;7;divindo01;Donte DiVincenzo;24:51;3;7;.429;1;4;.250;0;0;;1;3;4;5;1;0;1;1;7;-7
+01/02/2023;GSW;8;kuminjo01;Jonathan Kuminga;14:57;4;8;.500;1;2;.500;1;2;.500;1;2;3;0;1;1;1;4;10;-4
+01/02/2023;GSW;9;lamban01;Anthony Lamb;7:27;0;1;.000;0;1;.000;0;0;;0;0;0;1;0;0;0;1;0;0
+01/02/2023;GSW;10;baldwpa01;Patrick Baldwin Jr.;Did Not Play
+01/02/2023;GSW;11;greenja01;JaMychal Green;Did Not Play
+01/02/2023;GSW;12;moodymo01;Moses Moody;Did Not Play
+01/02/2023;GSW;13;wisemja01;James Wiseman;Did Not Play
+01/02/2023;GSW;0;anderky01;Kyle Anderson;39:18;4;6;.667;0;1;.000;1;5;.200;3;9;12;4;0;1;0;1;9;+17
+01/02/2023;GSW;1;edwaran01;Anthony Edwards;39:11;10;26;.385;2;11;.182;5;6;.833;0;6;6;5;2;1;6;1;27;-9
+01/02/2023;GSW;2;mcdanja02;Jaden McDaniels;38:21;3;8;.375;0;2;.000;3;4;.750;2;5;7;3;1;2;0;5;9;+7
+01/02/2023;GSW;3;reidna01;Naz Reid;35:20;10;22;.455;2;8;.250;2;4;.500;1;12;13;4;1;1;1;4;24;+5
+01/02/2023;GSW;4;russeda01;D'Angelo Russell;34:41;11;23;.478;7;17;.412;0;0;;0;2;2;2;0;0;3;6;29;+3
+01/02/2023;GSW;5;Reserves;Reserves
+01/02/2023;GSW;6;riverau01;Austin Rivers;27:32;3;6;.500;2;3;.667;2;2;1.000;1;3;4;5;1;1;0;2;10;+15
+01/02/2023;GSW;7;princta02;Taurean Prince;20:54;2;7;.286;1;6;.167;0;0;;1;2;3;1;0;1;1;2;5;0
+01/02/2023;GSW;8;nowelja01;Jaylen Nowell;16:31;3;5;.600;0;0;;0;1;.000;1;2;3;0;0;0;0;2;6;-11
+01/02/2023;GSW;9;garzalu01;Luka Garza;13:12;0;3;.000;0;2;.000;0;2;.000;1;2;3;2;0;0;0;0;0;-2
+01/02/2023;GSW;10;goberru01;Rudy Gobert;Did Not Dress
+01/02/2023;GSW;11;knighna01;Nathan Knight;Did Not Play
+01/02/2023;GSW;12;minotjo01;Josh Minott;Did Not Play
+01/02/2023;GSW;13;moorewe01;Wendell Moore Jr.;Did Not Play
+01/02/2023;GSW;14;ryanma01;Matt Ryan;Did Not Play

@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;TS%;eFG%;3PAr;FTr;ORB%;DRB%;TRB%;AST%;STL%;BLK%;TOV%;USG%;ORtg;DRtg;BPM
+04/04/2023;MIN;0;mcdanja02;Jaden McDaniels;41:07;.558;.577;.231;.077;0.0;15.9;8.3;0.0;3.7;2.1;6.9;16.4;100;103;-0.2
+04/04/2023;MIN;1;goberru01;Rudy Gobert;33:47;.644;.625;.000;.375;14.2;25.8;20.3;8.4;0.0;2.6;17.7;15.7;123;109;-1.7
+04/04/2023;MIN;2;conlemi01;Mike Conley;33:02;.836;.833;.556;.444;0.0;3.3;1.7;4.5;1.5;2.6;8.5;16.6;149;110;5.4
+04/04/2023;MIN;3;edwaran01;Anthony Edwards;31:00;.546;.444;.278;.389;3.9;14.1;9.2;15.4;1.6;5.6;8.7;34.8;109;105;4.6
+04/04/2023;MIN;4;townska01;Karl-Anthony Towns;30:52;.624;.567;.200;.400;3.9;45.9;25.9;27.2;0.0;0.0;5.4;28.2;130;107;7.8
+04/04/2023;MIN;5;Reserves;Reserves
+04/04/2023;MIN;6;anderky01;Kyle Anderson;32:08;.444;.444;.111;.000;3.7;0.0;1.8;42.6;1.6;0.0;0.0;13.1;129;113;3.5
+04/04/2023;MIN;7;princta02;Taurean Prince;23:04;.415;.438;.500;.125;0.0;14.2;7.4;0.0;0.0;0.0;10.6;19.1;73;114;-11.6
+04/04/2023;MIN;8;alexani01;Nickeil Alexander-Walker;14:58;.200;.200;.600;.000;0.0;14.6;7.6;0.0;3.4;5.8;0.0;15.6;43;101;-9.0
+04/04/2023;MIN;9;knighna01;Nathan Knight;Did Not Play
+04/04/2023;MIN;10;mclaujo01;Jordan McLaughlin;Did Not Play
+04/04/2023;MIN;11;minotjo01;Josh Minott;Did Not Play
+04/04/2023;MIN;12;moorewe01;Wendell Moore Jr.;Did Not Play
+04/04/2023;MIN;0;bridgmi01;Mikal Bridges;39:58;.450;.396;.208;.250;0.0;15.0;7.1;8.5;2.5;2.0;10.1;33.9;85;112;-5.0
+04/04/2023;MIN;1;dinwisp01;Spencer Dinwiddie;38:15;.603;.604;.375;.083;0.0;9.4;4.5;33.2;0.0;2.1;0.0;29.7;127;118;7.6
+04/04/2023;MIN;2;johnsca02;Cameron Johnson;34:09;.709;.667;.333;.222;0.0;14.1;6.7;13.2;1.5;2.3;0.0;13.2;148;114;4.8
+04/04/2023;MIN;3;finnedo01;Dorian Finney-Smith;34:00;.700;.700;.600;.000;6.4;28.2;16.8;13.3;0.0;0.0;9.1;14.8;134;116;3.0
+04/04/2023;MIN;4;claxtni01;Nic Claxton;32:02;.436;.333;.000;.333;13.6;18.7;16.1;12.5;1.6;9.8;12.7;11.2;115;106;1.0
+04/04/2023;MIN;5;Reserves;Reserves
+04/04/2023;MIN;6;onealro01;Royce O'Neale;35:07;.400;.400;.800;.000;0.0;20.5;9.8;11.7;2.9;2.2;16.7;15.6;77;109;-4.4
+04/04/2023;MIN;7;harrijo01;Joe Harris;15:25;.625;.625;.750;.000;0.0;15.6;7.4;9.5;0.0;0.0;20.0;14.8;100;119;-3.7
+04/04/2023;MIN;8;thomaca02;Cam Thomas;4:56;.000;.000;.500;.000;0.0;0.0;0.0;0.0;0.0;0.0;33.3;27.8;0;122;-35.2
+04/04/2023;MIN;9;curryse01;Seth Curry;3:29;.266;.000;.000;2.000;0.0;0.0;0.0;0.0;0.0;0.0;0.0;24.6;59;121;-23.2
+04/04/2023;MIN;10;sharpda01;Day'Ron Sharpe;2:36;;;;;42.0;0.0;22.0;0.0;0.0;0.0;;0.0;230;122;-5.6
+04/04/2023;MIN;11;brownmo01;Moses Brown;Did Not Play
+04/04/2023;MIN;12;dukeda01;David Duke Jr.;Did Not Play
+04/04/2023;MIN;13;millspa02;Patty Mills;Did Not Play
+04/04/2023;MIN;14;sumneed01;Edmond Sumner;Did Not Play
+04/04/2023;MIN;15;watanyu01;Yuta Watanabe;Did Not Play

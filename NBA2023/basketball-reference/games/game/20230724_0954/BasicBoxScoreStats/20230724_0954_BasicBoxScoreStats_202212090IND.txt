@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+09/12/2022;WAS;0;avdijde01;Deni Avdija;39:52;6;11;.545;1;5;.200;1;2;.500;2;7;9;4;1;0;3;4;14;-5
+09/12/2022;WAS;1;kuzmaky01;Kyle Kuzma;35:37;9;20;.450;4;9;.444;5;6;.833;2;5;7;7;0;0;3;2;27;-13
+09/12/2022;WAS;2;porzikr01;Kristaps Porziņģis;34:39;11;13;.846;1;2;.500;6;8;.750;2;7;9;2;0;2;4;1;29;-7
+09/12/2022;WAS;3;morrimo01;Monte Morris;34:29;3;9;.333;1;4;.250;0;0;;0;2;2;5;0;0;1;3;7;-13
+09/12/2022;WAS;4;kispeco01;Corey Kispert;32:01;3;7;.429;0;4;.000;2;3;.667;1;3;4;2;0;0;1;4;8;+1
+09/12/2022;WAS;5;Reserves;Reserves
+09/12/2022;WAS;6;goodwjo01;Jordan Goodwin;33:49;6;10;.600;3;5;.600;4;4;1.000;2;2;4;3;5;0;2;2;19;-9
+09/12/2022;WAS;7;gaffoda01;Daniel Gafford;18:32;3;4;.750;0;0;;1;2;.500;3;0;3;1;0;1;0;1;7;-2
+09/12/2022;WAS;8;gibsota01;Taj Gibson;8:59;0;3;.000;0;0;;0;0;;0;0;0;0;0;0;0;2;0;-3
+09/12/2022;WAS;9;gillan01;Anthony Gill;2:00;0;0;;0;0;;0;0;;0;0;0;1;0;0;0;0;0;+1
+09/12/2022;WAS;10;bartowi01;Will Barton;Did Not Dress
+09/12/2022;WAS;11;bealbr01;Bradley Beal;Not With Team
+09/12/2022;WAS;0;hieldbu01;Buddy Hield;34:40;12;19;.632;4;10;.400;0;0;;0;2;2;4;3;1;1;1;28;+2
+09/12/2022;WAS;1;halibty01;Tyrese Haliburton;32:10;9;14;.643;3;4;.750;2;2;1.000;1;1;2;11;0;0;1;1;23;+9
+09/12/2022;WAS;2;turnemy01;Myles Turner;30:08;4;8;.500;1;2;.500;5;6;.833;3;3;6;0;1;0;2;3;14;+7
+09/12/2022;WAS;3;nembhan01;Andrew Nembhard;29:22;1;3;.333;1;3;.333;0;0;;0;3;3;2;1;0;0;6;3;+10
+09/12/2022;WAS;4;smithja04;Jalen Smith;11:52;0;7;.000;0;3;.000;3;4;.750;2;4;6;0;1;0;1;2;3;-2
+09/12/2022;WAS;5;Reserves;Reserves
+09/12/2022;WAS;6;mathube01;Bennedict Mathurin;32:19;8;15;.533;2;7;.286;0;0;;3;5;8;1;1;0;4;1;18;+18
+09/12/2022;WAS;7;brissos01;Oshae Brissett;25:48;3;7;.429;3;6;.500;7;8;.875;3;5;8;0;0;0;0;2;16;+13
+09/12/2022;WAS;8;mccontj01;T.J. McConnell;15:44;1;3;.333;0;0;;0;0;;0;0;0;4;0;0;0;2;2;+3
+09/12/2022;WAS;9;bitadgo01;Goga Bitadze;13:57;2;3;.667;1;2;.500;0;0;;0;3;3;1;0;1;0;1;5;-2
+09/12/2022;WAS;10;nesmiaa01;Aaron Nesmith;13:04;3;6;.500;3;4;.750;0;0;;1;1;2;0;0;0;2;2;9;-8
+09/12/2022;WAS;11;taylote01;Terry Taylor;0:53;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;0
+09/12/2022;WAS;12;jacksis01;Isaiah Jackson;Did Not Dress
+09/12/2022;WAS;13;johnsja01;James Johnson;Did Not Play

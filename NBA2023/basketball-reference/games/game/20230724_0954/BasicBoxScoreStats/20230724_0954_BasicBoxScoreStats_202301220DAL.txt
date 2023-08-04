@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+22/01/2023;LAC;0;leonaka01;Kawhi Leonard;38:43;10;18;.556;3;4;.750;7;7;1.000;2;7;9;3;1;0;0;1;30;+7
+22/01/2023;LAC;1;georgpa01;Paul George;34:12;6;11;.545;1;3;.333;8;8;1.000;1;5;6;4;1;0;5;3;21;+2
+22/01/2023;LAC;2;morrima03;Marcus Morris;31:36;2;7;.286;0;2;.000;4;5;.800;1;3;4;3;0;0;0;2;8;+20
+22/01/2023;LAC;3;zubaciv01;Ivica Zubac;22:54;2;6;.333;0;0;;2;2;1.000;4;5;9;1;0;0;2;4;6;0
+22/01/2023;LAC;4;mannte01;Terance Mann;17:43;2;7;.286;1;3;.333;2;2;1.000;0;3;3;1;0;0;0;2;7;-6
+22/01/2023;LAC;5;Reserves;Reserves
+22/01/2023;LAC;6;powelno01;Norman Powell;30:17;6;12;.500;2;5;.400;5;5;1.000;0;4;4;1;0;0;1;1;19;+20
+22/01/2023;LAC;7;batumni01;Nicolas Batum;28:26;2;5;.400;2;5;.400;2;2;1.000;0;6;6;0;0;2;0;4;8;+23
+22/01/2023;LAC;8;covinro01;Robert Covington;20:58;1;4;.250;1;3;.333;0;0;;1;4;5;6;2;1;0;3;3;+2
+22/01/2023;LAC;9;jacksre01;Reggie Jackson;15:11;4;7;.571;2;3;.667;0;0;;0;0;0;1;2;0;2;3;10;+2
+22/01/2023;LAC;10;coffeam01;Amir Coffey;Did Not Play
+22/01/2023;LAC;11;diabamo01;Moussa Diabaté;Did Not Play
+22/01/2023;LAC;0;doncilu01;Luka Dončić;38:50;9;21;.429;3;7;.429;8;13;.615;3;7;10;4;1;0;4;3;29;-23
+22/01/2023;LAC;1;hardati02;Tim Hardaway Jr.;38:06;8;17;.471;5;10;.500;1;4;.250;4;4;8;1;0;2;0;3;22;-19
+22/01/2023;LAC;2;finnedo01;Dorian Finney-Smith;38:00;3;8;.375;2;6;.333;0;0;;1;3;4;0;1;1;1;1;8;-21
+22/01/2023;LAC;3;dinwisp01;Spencer Dinwiddie;35:39;8;18;.444;1;5;.200;4;5;.800;1;3;4;5;0;0;2;4;21;-8
+22/01/2023;LAC;4;poweldw01;Dwight Powell;21:19;4;4;1.000;0;0;;1;2;.500;2;2;4;2;0;0;1;3;9;+6
+22/01/2023;LAC;5;Reserves;Reserves
+22/01/2023;LAC;6;bullore01;Reggie Bullock;32:07;0;4;.000;0;3;.000;0;0;;0;4;4;1;1;0;0;3;0;-2
+22/01/2023;LAC;7;greenjo02;Josh Green;29:06;2;7;.286;1;3;.333;1;2;.500;1;1;2;0;0;0;2;3;6;-13
+22/01/2023;LAC;8;bertada01;Dāvis Bertāns;6:41;1;1;1.000;1;1;1.000;0;0;;0;2;2;2;0;0;0;1;3;+10
+22/01/2023;LAC;9;ntilila01;Frank Ntilikina;0:12;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;0
+22/01/2023;LAC;10;hardyja02;Jaden Hardy;Did Not Play
+22/01/2023;LAC;11;lawsoaj01;A.J. Lawson;Did Not Play
+22/01/2023;LAC;12;mcgeeja01;JaVale McGee;Did Not Play
+22/01/2023;LAC;13;pinsoth01;Theo Pinson;Did Not Play
+22/01/2023;LAC;14;wrighmc01;McKinley Wright IV;Did Not Play

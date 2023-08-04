@@ -1,0 +1,25 @@
+dateId;teamId;order;playerId;Starters;MP;TS%;eFG%;3PAr;FTr;ORB%;DRB%;TRB%;AST%;STL%;BLK%;TOV%;USG%;ORtg;DRtg;BPM
+09/04/2023;MEM;0;willivi01;Vince Williams Jr.;48:00;.343;.310;.667;.095;3.8;15.0;8.7;2.9;2.0;1.9;15.5;23.1;65;114;-14.8
+09/04/2023;MEM;1;roddyda01;David Roddy;42:33;.368;.368;.421;.000;0.0;11.3;4.9;17.0;0.0;0.0;9.5;21.2;78;121;-10.8
+09/04/2023;MEM;2;loftoke01;Kenneth Lofton Jr.;40:21;.694;.680;.080;.480;13.7;23.8;18.1;0.0;1.2;0.0;6.2;34.3;133;116;6.5
+09/04/2023;MEM;3;konchjo01;John Konchar;35:39;.200;.200;.400;.000;5.2;23.6;13.2;10.4;2.7;5.0;16.7;7.2;72;109;-5.9
+09/04/2023;MEM;4;willizi02;Ziaire Williams;32:39;.578;.553;.421;.211;2.8;11.0;6.4;49.4;0.0;2.7;4.6;28.6;124;119;8.5
+09/04/2023;MEM;5;Reserves;Reserves
+09/04/2023;MEM;6;gilyaja01;Jacob Gilyard;40:47;.500;.500;1.000;.000;0.0;11.8;5.1;21.2;3.5;0.0;40.0;5.3;97;113;-6.1
+09/04/2023;MEM;7;banede01;Desmond Bane;Did Not Play
+09/04/2023;MEM;8;jonesty01;Tyus Jones;Did Not Play
+09/04/2023;MEM;9;kennalu01;Luke Kennard;Did Not Play
+09/04/2023;MEM;10;laravja01;Jake LaRavia;Did Not Play
+09/04/2023;MEM;11;tillmxa01;Xavier Tillman Sr.;Did Not Play
+09/04/2023;MEM;0;manntr01;Tre Mann;46:44;.659;.594;.250;.313;2.6;21.7;13.4;34.5;2.1;0.0;21.6;21.5;122;97;4.1
+09/04/2023;MEM;1;butleja02;Jared Butler;45:37;.595;.595;.429;.000;2.6;4.0;3.4;12.2;1.1;0.0;12.5;22.7;107;104;-2.6
+09/04/2023;MEM;2;diengou01;Ousmane Dieng;45:11;.640;.600;.533;.333;2.7;14.3;9.2;26.2;1.1;1.9;18.9;20.3;118;100;3.2
+09/04/2023;MEM;3;sarrol01;Olivier Sarr;42:12;.656;.667;.133;.267;5.7;28.4;18.5;3.4;1.1;0.0;5.6;18.2;126;96;-1.9
+09/04/2023;MEM;4;robinje02;Jeremiah Robinson-Earl;39:46;.360;.308;.462;.154;3.0;16.2;10.5;8.8;0.0;0.0;0.0;15.1;92;102;-9.6
+09/04/2023;MEM;5;Reserves;Reserves
+09/04/2023;MEM;6;waterli01;Lindy Waters III;12:29;.500;.500;1.000;.000;0.0;7.4;4.2;10.3;0.0;7.0;0.0;20.8;106;100;0.1
+09/04/2023;MEM;7;wiggiaa01;Aaron Wiggins;8:00;.750;.750;.250;.000;30.0;0.0;13.0;0.0;0.0;0.0;20.0;27.0;121;107;0.2
+09/04/2023;MEM;8;dortlu01;Luguentz Dort;Did Not Play
+09/04/2023;MEM;9;joeis01;Isaiah Joe;Did Not Play
+09/04/2023;MEM;10;saricda01;Dario Šarić;Did Not Play
+09/04/2023;MEM;11;willija06;Jalen Williams;Did Not Play

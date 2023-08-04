@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+09/11/2022;DEN;0;portemi01;Michael Porter Jr.;36:17;7;14;.500;3;7;.429;0;0;;2;4;6;2;0;1;1;0;17;-6
+09/11/2022;DEN;1;gordoaa01;Aaron Gordon;34:23;5;8;.625;1;3;.333;7;9;.778;4;12;16;6;1;1;5;2;18;+4
+09/11/2022;DEN;2;caldwke01;Kentavious Caldwell-Pope;31:25;5;7;.714;3;4;.750;2;2;1.000;1;7;8;2;2;0;3;0;15;+9
+09/11/2022;DEN;3;murraja01;Jamal Murray;29:47;6;15;.400;1;2;.500;5;5;1.000;3;5;8;4;3;0;3;0;18;-3
+09/11/2022;DEN;4;jokicni01;Nikola Jokić;20:42;10;20;.500;1;3;.333;3;3;1.000;1;3;4;6;2;1;1;5;24;+11
+09/11/2022;DEN;5;Reserves;Reserves
+09/11/2022;DEN;6;hylanbo01;Bones Hyland;29:46;4;13;.308;3;7;.429;5;5;1.000;0;2;2;3;1;1;2;2;16;-2
+09/11/2022;DEN;7;brownbr01;Bruce Brown;21:35;1;5;.200;0;1;.000;0;0;;0;1;1;3;1;1;1;2;2;+5
+09/11/2022;DEN;8;greenje02;Jeff Green;18:29;2;3;.667;0;1;.000;0;0;;0;0;0;0;0;1;1;4;4;-2
+09/11/2022;DEN;9;jordade01;DeAndre Jordan;17:36;3;3;1.000;0;0;;2;2;1.000;0;2;2;1;0;1;3;0;8;-1
+09/11/2022;DEN;10;braunch01;Christian Braun;Did Not Play
+09/11/2022;DEN;11;cancavl01;Vlatko Čančar;Did Not Play
+09/11/2022;DEN;12;nnajize01;Zeke Nnaji;Did Not Play
+09/11/2022;DEN;13;reedda01;Davon Reed;Did Not Play
+09/11/2022;DEN;0;hieldbu01;Buddy Hield;34:08;7;16;.438;2;9;.222;1;1;1.000;0;1;1;0;0;0;0;2;17;-14
+09/11/2022;DEN;1;halibty01;Tyrese Haliburton;33:12;9;15;.600;3;8;.375;0;0;;0;1;1;12;3;0;1;0;21;-12
+09/11/2022;DEN;2;nembhan01;Andrew Nembhard;28:56;3;6;.500;1;3;.333;1;1;1.000;0;4;4;4;2;0;4;2;8;-12
+09/11/2022;DEN;3;turnemy01;Myles Turner;25:41;5;11;.455;0;4;.000;4;5;.800;2;9;11;2;1;3;0;5;14;-4
+09/11/2022;DEN;4;smithja04;Jalen Smith;18:04;2;9;.222;2;5;.400;0;0;;1;4;5;1;0;0;2;1;6;-6
+09/11/2022;DEN;5;Reserves;Reserves
+09/11/2022;DEN;6;mathube01;Bennedict Mathurin;24:42;10;17;.588;6;9;.667;4;6;.667;0;2;2;0;1;0;4;3;30;+5
+09/11/2022;DEN;7;nesmiaa01;Aaron Nesmith;22:25;0;5;.000;0;3;.000;0;0;;0;3;3;3;1;1;2;1;0;+3
+09/11/2022;DEN;8;jacksis01;Isaiah Jackson;17:41;6;7;.857;0;0;;5;6;.833;4;6;10;1;0;1;2;3;17;+5
+09/11/2022;DEN;9;mccontj01;T.J. McConnell;16:44;1;4;.250;0;0;;0;0;;2;1;3;4;1;0;1;4;2;+3
+09/11/2022;DEN;10;brissos01;Oshae Brissett;11:48;1;2;.500;0;0;;0;0;;1;2;3;0;0;0;0;0;2;+21
+09/11/2022;DEN;11;bitadgo01;Goga Bitadze;6:39;1;4;.250;0;1;.000;0;0;;1;0;1;1;0;0;2;2;2;-4
+09/11/2022;DEN;12;johnsja01;James Johnson;Did Not Play
+09/11/2022;DEN;13;taylote01;Terry Taylor;Did Not Play

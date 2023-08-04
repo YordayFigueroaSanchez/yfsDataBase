@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+28/01/2023;LAC;0;leonaka01;Kawhi Leonard;38:43;12;20;.600;5;10;.500;3;3;1.000;1;7;8;4;1;1;2;1;32;+3
+28/01/2023;LAC;1;georgpa01;Paul George;36:53;7;18;.389;3;9;.333;6;7;.857;1;6;7;6;1;0;2;3;23;+13
+28/01/2023;LAC;2;zubaciv01;Ivica Zubac;36:35;6;9;.667;0;0;;6;6;1.000;2;4;6;3;1;2;0;4;18;+10
+28/01/2023;LAC;3;mannte01;Terance Mann;35:11;1;3;.333;0;1;.000;0;0;;1;6;7;6;0;2;1;2;2;+6
+28/01/2023;LAC;4;kennalu01;Luke Kennard;20:47;4;7;.571;3;3;1.000;0;0;;0;3;3;0;1;0;2;2;11;+5
+28/01/2023;LAC;5;Reserves;Reserves
+28/01/2023;LAC;6;powelno01;Norman Powell;24:26;4;11;.364;2;6;.333;0;1;.000;1;3;4;2;0;0;4;1;10;-8
+28/01/2023;LAC;7;jacksre01;Reggie Jackson;21:38;6;9;.667;4;7;.571;0;0;;0;0;0;3;1;0;1;1;16;+7
+28/01/2023;LAC;8;batumni01;Nicolas Batum;20:48;2;3;.667;2;3;.667;2;2;1.000;0;2;2;1;0;0;2;1;8;+3
+28/01/2023;LAC;9;diabamo01;Moussa Diabaté;4:59;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;-4
+28/01/2023;LAC;10;bostobr01;Brandon Boston Jr.;Did Not Play
+28/01/2023;LAC;11;coffeam01;Amir Coffey;Did Not Play
+28/01/2023;LAC;12;prestja01;Jason Preston;Did Not Play
+28/01/2023;LAC;0;murrade01;Dejounte Murray;38:45;7;17;.412;1;5;.200;0;0;;1;5;6;8;2;1;1;1;15;-11
+28/01/2023;LAC;1;huntede01;De'Andre Hunter;36:44;4;13;.308;2;8;.250;4;4;1.000;0;7;7;1;2;0;0;2;14;-4
+28/01/2023;LAC;2;youngtr01;Trae Young;36:02;10;21;.476;0;2;.000;11;14;.786;2;3;5;10;1;0;5;2;31;0
+28/01/2023;LAC;3;collijo01;John Collins;33:47;7;13;.538;1;3;.333;1;2;.500;1;4;5;0;1;0;0;3;16;-9
+28/01/2023;LAC;4;capelca01;Clint Capela;27:57;6;10;.600;0;0;;0;0;;7;6;13;2;2;1;0;2;12;0
+28/01/2023;LAC;5;Reserves;Reserves
+28/01/2023;LAC;6;bogdabo01;Bogdan Bogdanović;24:01;4;8;.500;1;4;.250;0;0;;0;0;0;3;1;0;1;1;9;-1
+28/01/2023;LAC;7;okongon01;Onyeka Okongwu;20:03;3;5;.600;0;0;;0;0;;4;5;9;0;1;0;0;4;6;-7
+28/01/2023;LAC;8;griffaj01;AJ Griffin;11:53;1;3;.333;1;2;.500;0;0;;0;0;0;0;1;0;0;2;3;-8
+28/01/2023;LAC;9;johnsja05;Jalen Johnson;7:27;1;2;.500;0;1;.000;0;0;;0;1;1;0;0;0;1;0;2;+1
+28/01/2023;LAC;10;holidaa01;Aaron Holiday;3:21;2;3;.667;1;2;.500;0;0;;0;1;1;0;1;0;0;1;5;+4
+28/01/2023;LAC;11;holidju01;Justin Holiday;Did Not Play
+28/01/2023;LAC;12;kaminfr01;Frank Kaminsky;Did Not Play
+28/01/2023;LAC;13;krejcvi01;Vit Krejci;Did Not Play
+28/01/2023;LAC;14;willido02;Donovan Williams;Did Not Play

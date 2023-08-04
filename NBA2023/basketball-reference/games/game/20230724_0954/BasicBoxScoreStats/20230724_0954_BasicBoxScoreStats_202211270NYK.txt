@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+27/11/2022;MEM;0;moranja01;Ja Morant;35:14;9;20;.450;0;3;.000;9;11;.818;1;9;10;14;1;0;4;3;27;+7
+27/11/2022;MEM;1;brookdi01;Dillon Brooks;32:33;8;16;.500;3;7;.429;4;5;.800;0;5;5;4;0;0;2;6;23;-6
+27/11/2022;MEM;2;adamsst01;Steven Adams;31:20;6;9;.667;0;0;;4;9;.444;7;3;10;2;0;1;0;1;16;+2
+27/11/2022;MEM;3;jacksja02;Jaren Jackson Jr.;30:18;8;19;.421;3;8;.375;2;2;1.000;2;3;5;0;1;0;0;2;21;0
+27/11/2022;MEM;4;konchjo01;John Konchar;29:10;4;6;.667;1;2;.500;1;1;1.000;1;7;8;2;0;0;0;3;10;+7
+27/11/2022;MEM;5;Reserves;Reserves
+27/11/2022;MEM;6;jonesty01;Tyus Jones;19:03;1;5;.200;0;3;.000;0;0;;0;2;2;7;0;0;0;0;2;-1
+27/11/2022;MEM;7;aldamsa01;Santi Aldama;17:42;3;7;.429;1;3;.333;0;0;;1;3;4;1;0;0;1;3;7;+4
+27/11/2022;MEM;8;clarkbr01;Brandon Clarke;16:47;3;7;.429;0;0;;3;3;1.000;2;2;4;0;1;1;1;2;9;+3
+27/11/2022;MEM;9;laravja01;Jake LaRavia;15:20;2;2;1.000;2;2;1.000;0;0;;1;0;1;2;1;0;2;1;6;-2
+27/11/2022;MEM;10;roddyda01;David Roddy;12:33;2;4;.500;2;4;.500;0;0;;1;0;1;0;0;0;0;2;6;+6
+27/11/2022;MEM;11;chandke01;Kennedy Chandler;Did Not Play
+27/11/2022;MEM;12;loftoke01;Kenneth Lofton Jr.;Did Not Play
+27/11/2022;MEM;13;tillmxa01;Xavier Tillman Sr.;Did Not Play
+27/11/2022;MEM;0;barrerj01;RJ Barrett;35:44;9;17;.529;2;6;.333;2;2;1.000;1;6;7;4;0;0;2;1;22;-5
+27/11/2022;MEM;1;brunsja01;Jalen Brunson;35:35;8;20;.400;3;5;.600;11;12;.917;1;4;5;9;1;0;2;5;30;-1
+27/11/2022;MEM;2;randlju01;Julius Randle;34:36;4;9;.444;1;5;.200;5;6;.833;2;8;10;9;0;0;1;4;14;-2
+27/11/2022;MEM;3;robinmi01;Mitchell Robinson;31:34;6;7;.857;0;0;;4;7;.571;4;3;7;0;0;5;0;4;16;+2
+27/11/2022;MEM;4;grimequ01;Quentin Grimes;26:22;2;7;.286;1;4;.250;0;0;;0;2;2;4;1;0;1;4;5;-9
+27/11/2022;MEM;5;Reserves;Reserves
+27/11/2022;MEM;6;reddica01;Cam Reddish;23:51;4;6;.667;1;2;.500;2;2;1.000;0;0;0;2;1;0;0;3;11;+4
+27/11/2022;MEM;7;harteis01;Isaiah Hartenstein;15:03;2;3;.667;0;1;.000;0;0;;2;2;4;0;0;1;1;2;4;-3
+27/11/2022;MEM;8;toppiob01;Obi Toppin;14:36;4;8;.500;1;4;.250;0;0;;1;2;3;0;0;1;1;1;9;-2
+27/11/2022;MEM;9;rosede01;Derrick Rose;11:42;3;7;.429;0;2;.000;0;0;;0;1;1;0;0;0;0;2;6;-3
+27/11/2022;MEM;10;quickim01;Immanuel Quickley;10:14;2;3;.667;1;1;1.000;1;1;1.000;1;2;3;2;0;0;0;0;6;-1
+27/11/2022;MEM;11;mcbrimi01;Miles McBride;0:43;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;1;0;0
+27/11/2022;MEM;12;arcidry01;Ryan Arcidiacono;Did Not Play
+27/11/2022;MEM;13;fournev01;Evan Fournier;Did Not Play
+27/11/2022;MEM;14;mykhasv01;Svi Mykhailiuk;Did Not Play
+27/11/2022;MEM;15;simsje01;Jericho Sims;Did Not Play

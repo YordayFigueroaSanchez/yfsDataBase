@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+09/01/2023;CHI;0;lavinza01;Zach LaVine;41:58;10;24;.417;4;13;.308;3;3;1.000;2;5;7;6;1;0;1;4;27;-12
+09/01/2023;CHI;1;vucevni01;Nikola Vučević;33:38;9;15;.600;3;6;.500;0;2;.000;1;12;13;1;0;0;0;1;21;-18
+09/01/2023;CHI;2;willipa01;Patrick Williams;29:10;3;8;.375;3;5;.600;1;2;.500;0;2;2;1;3;0;1;3;10;-12
+09/01/2023;CHI;3;dosunay01;Ayo Dosunmu;28:26;3;6;.500;0;0;;0;0;;0;0;0;1;0;0;0;0;6;-6
+09/01/2023;CHI;4;derozde01;DeMar DeRozan;23:06;6;9;.667;0;0;;1;1;1.000;0;3;3;3;1;0;2;1;13;-12
+09/01/2023;CHI;5;Reserves;Reserves
+09/01/2023;CHI;6;carusal01;Alex Caruso;19:49;2;5;.400;2;3;.667;0;0;;0;2;2;4;0;1;2;3;6;0
+09/01/2023;CHI;7;whiteco01;Coby White;19:40;1;7;.143;0;5;.000;2;2;1.000;0;3;3;1;0;0;0;2;4;0
+09/01/2023;CHI;8;dragigo01;Goran Dragić;15:41;1;4;.250;0;2;.000;0;0;;0;2;2;1;0;0;1;1;2;0
+09/01/2023;CHI;9;drumman01;Andre Drummond;14:22;2;4;.500;0;0;;2;4;.500;3;6;9;0;1;0;0;3;6;+10
+09/01/2023;CHI;10;jonesde02;Derrick Jones Jr.;14:10;2;4;.500;0;1;.000;0;0;;0;1;1;1;0;0;0;0;4;+10
+09/01/2023;CHI;11;hillma01;Malcolm Hill;Did Not Play
+09/01/2023;CHI;12;terryda01;Dalen Terry;Did Not Play
+09/01/2023;CHI;0;brownja02;Jaylen Brown;38:35;7;21;.333;0;8;.000;5;5;1.000;1;4;5;3;0;1;4;0;19;+20
+09/01/2023;CHI;1;tatumja01;Jayson Tatum;37:49;10;21;.476;4;11;.364;8;8;1.000;0;8;8;7;1;0;1;2;32;+14
+09/01/2023;CHI;2;horfoal01;Al Horford;33:12;3;6;.500;2;5;.400;0;0;;1;6;7;5;1;1;0;1;8;+17
+09/01/2023;CHI;3;whitede01;Derrick White;30:03;3;9;.333;0;3;.000;2;2;1.000;1;4;5;4;0;1;1;4;8;+21
+09/01/2023;CHI;4;williro04;Robert Williams;22:56;3;4;.750;0;0;;0;0;;2;5;7;2;0;2;1;2;6;-5
+09/01/2023;CHI;5;Reserves;Reserves
+09/01/2023;CHI;6;willigr01;Grant Williams;36:44;8;15;.533;3;9;.333;1;2;.500;2;6;8;1;0;2;0;2;20;+4
+09/01/2023;CHI;7;brogdma01;Malcolm Brogdon;21:56;3;9;.333;1;4;.250;4;4;1.000;2;5;7;3;0;0;2;1;11;-17
+09/01/2023;CHI;8;hausesa01;Sam Hauser;11:59;1;2;.500;1;1;1.000;0;0;;0;1;1;0;0;0;0;0;3;-12
+09/01/2023;CHI;9;pritcpa01;Payton Pritchard;3:38;0;0;;0;0;;0;0;;0;1;1;0;0;0;0;0;0;-2
+09/01/2023;CHI;10;kornelu01;Luke Kornet;3:08;0;0;;0;0;;0;0;;0;1;1;0;0;0;0;0;0;0
+09/01/2023;CHI;11;griffbl01;Blake Griffin;Did Not Play
+09/01/2023;CHI;12;jacksju01;Justin Jackson;Did Not Play

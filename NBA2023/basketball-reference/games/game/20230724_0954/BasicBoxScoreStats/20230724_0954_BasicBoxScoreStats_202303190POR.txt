@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+19/03/2023;LAC;0;leonaka01;Kawhi Leonard;39:47;10;20;.500;2;7;.286;2;2;1.000;1;4;5;2;2;0;0;1;24;+23
+19/03/2023;LAC;1;georgpa01;Paul George;34:33;8;22;.364;3;6;.500;10;12;.833;4;5;9;4;4;1;2;4;29;+6
+19/03/2023;LAC;2;zubaciv01;Ivica Zubac;33:53;7;11;.636;0;0;;0;2;.000;3;7;10;2;1;0;0;1;14;+26
+19/03/2023;LAC;3;westbru01;Russell Westbrook;33:36;3;12;.250;1;2;.500;2;2;1.000;4;8;12;10;0;0;4;1;9;+13
+19/03/2023;LAC;4;morrima03;Marcus Morris;24:08;3;8;.375;1;4;.250;0;0;;1;3;4;0;1;0;1;2;7;+16
+19/03/2023;LAC;5;Reserves;Reserves
+19/03/2023;LAC;6;gordoer01;Eric Gordon;28:24;7;9;.778;4;5;.800;2;2;1.000;1;1;2;1;1;1;0;3;20;+12
+19/03/2023;LAC;7;batumni01;Nicolas Batum;15:57;1;3;.333;1;3;.333;0;0;;0;1;1;3;1;0;1;2;3;-10
+19/03/2023;LAC;8;mannte01;Terance Mann;15:35;1;3;.333;0;1;.000;2;2;1.000;0;1;1;4;1;1;1;1;4;0
+19/03/2023;LAC;9;plumlma01;Mason Plumlee;14:07;3;6;.500;0;0;;1;1;1.000;4;1;5;0;0;0;0;3;7;-11
+19/03/2023;LAC;10;coffeam01;Amir Coffey;Did Not Play
+19/03/2023;LAC;11;covinro01;Robert Covington;Did Not Play
+19/03/2023;LAC;12;diabamo01;Moussa Diabaté;Did Not Play
+19/03/2023;LAC;13;hylanbo01;Bones Hyland;Did Not Play
+19/03/2023;LAC;0;lillada01;Damian Lillard;38:41;4;17;.235;1;8;.125;12;13;.923;1;6;7;9;1;1;4;0;21;-20
+19/03/2023;LAC;1;simonan01;Anfernee Simons;33:14;6;15;.400;1;7;.143;3;3;1.000;1;2;3;6;1;1;2;0;16;-10
+19/03/2023;LAC;2;nurkiju01;Jusuf Nurkić;26:32;9;14;.643;2;3;.667;3;4;.750;5;6;11;5;0;2;2;3;23;-21
+19/03/2023;LAC;3;thybuma01;Matisse Thybulle;22:38;3;7;.429;0;3;.000;0;0;;1;3;4;0;0;0;0;1;6;-20
+19/03/2023;LAC;4;reddica01;Cam Reddish;18:55;0;2;.000;0;1;.000;0;0;;0;2;2;0;0;2;0;2;0;-10
+19/03/2023;LAC;5;Reserves;Reserves
+19/03/2023;LAC;6;watfotr01;Trendon Watford;29:09;5;9;.556;0;0;;2;2;1.000;0;3;3;0;1;0;1;3;12;-1
+19/03/2023;LAC;7;littlna01;Nassir Little;25:18;1;4;.250;0;3;.000;2;2;1.000;0;1;1;0;1;1;3;3;4;+1
+19/03/2023;LAC;8;sharpsh01;Shaedon Sharpe;24:05;4;6;.667;2;4;.500;0;0;;1;0;1;1;3;1;0;1;10;0
+19/03/2023;LAC;9;eubandr01;Drew Eubanks;21:28;5;8;.625;0;0;;0;0;;2;6;8;3;0;1;1;1;10;+6
+19/03/2023;LAC;10;arcidry01;Ryan Arcidiacono;Did Not Play
+19/03/2023;LAC;11;butlejo01;John Butler;Did Not Play
+19/03/2023;LAC;12;johnske07;Keon Johnson;Did Not Play
+19/03/2023;LAC;13;knoxke01;Kevin Knox;Did Not Play
+19/03/2023;LAC;14;walkeja01;Jabari Walker;Did Not Play

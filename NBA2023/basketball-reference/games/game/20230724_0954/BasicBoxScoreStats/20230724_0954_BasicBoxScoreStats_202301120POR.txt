@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+12/01/2023;CLE;0;allenja01;Jarrett Allen;38:45;11;17;.647;0;1;.000;2;2;1.000;2;8;10;6;1;0;0;3;24;+7
+12/01/2023;CLE;1;mitchdo01;Donovan Mitchell;35:38;11;23;.478;2;8;.250;2;4;.500;1;4;5;5;2;0;3;2;26;+10
+12/01/2023;CLE;2;garlada01;Darius Garland;33:11;5;12;.417;2;3;.667;8;10;.800;0;2;2;10;0;0;4;4;20;+7
+12/01/2023;CLE;3;okorois01;Isaac Okoro;29:26;4;4;1.000;1;1;1.000;2;3;.667;1;4;5;0;2;0;1;3;11;+4
+12/01/2023;CLE;4;mobleev01;Evan Mobley;24:57;6;12;.500;0;1;.000;5;6;.833;5;3;8;3;1;1;0;4;17;+6
+12/01/2023;CLE;5;Reserves;Reserves
+12/01/2023;CLE;6;leverca01;Caris LeVert;30:31;2;7;.286;0;2;.000;0;0;;2;2;4;3;0;0;2;1;4;0
+12/01/2023;CLE;7;loveke01;Kevin Love;15:02;0;4;.000;0;2;.000;0;0;;1;5;6;0;0;0;0;0;0;-4
+12/01/2023;CLE;8;stevela01;Lamar Stevens;13:34;1;3;.333;0;0;;4;4;1.000;0;0;0;0;0;0;0;2;6;-9
+12/01/2023;CLE;9;rubiori01;Ricky Rubio;10:27;3;5;.600;2;4;.500;1;2;.500;0;3;3;1;0;0;0;0;9;+6
+12/01/2023;CLE;10;osmande01;Cedi Osman;8:29;1;2;.500;0;0;;0;0;;0;1;1;0;0;0;1;0;2;+3
+12/01/2023;CLE;11;lopezro01;Robin Lopez;Did Not Play
+12/01/2023;CLE;12;netora01;Raul Neto;Did Not Play
+12/01/2023;CLE;0;lillada01;Damian Lillard;40:12;16;28;.571;5;13;.385;13;15;.867;0;2;2;3;1;0;1;1;50;-2
+12/01/2023;CLE;1;grantje01;Jerami Grant;35:55;8;16;.500;2;7;.286;4;7;.571;0;1;1;1;2;2;4;5;22;-3
+12/01/2023;CLE;2;hartjo01;Josh Hart;34:17;1;5;.200;0;1;.000;3;4;.750;0;7;7;3;1;0;2;3;5;-11
+12/01/2023;CLE;3;simonan01;Anfernee Simons;32:22;6;10;.600;3;6;.500;0;0;;0;2;2;5;0;0;1;5;15;-10
+12/01/2023;CLE;4;nurkiju01;Jusuf Nurkić;32:12;6;10;.600;0;3;.000;0;1;.000;1;11;12;4;1;0;4;5;12;+1
+12/01/2023;CLE;5;Reserves;Reserves
+12/01/2023;CLE;6;sharpsh01;Shaedon Sharpe;20:50;1;4;.250;0;1;.000;0;0;;0;1;1;0;1;0;2;2;2;+6
+12/01/2023;CLE;7;paytoga02;Gary Payton II;20:35;0;0;;0;0;;0;0;;0;3;3;1;0;0;0;2;0;-3
+12/01/2023;CLE;8;eubandr01;Drew Eubanks;15:48;1;2;.500;1;1;1.000;0;0;;2;3;5;0;0;2;1;2;3;-7
+12/01/2023;CLE;9;walkeja01;Jabari Walker;7:49;1;3;.333;0;1;.000;2;2;1.000;2;1;3;0;0;0;1;2;4;-1
+12/01/2023;CLE;10;browngr01;Greg Brown III;Did Not Play
+12/01/2023;CLE;11;johnske07;Keon Johnson;Did Not Play
+12/01/2023;CLE;12;watfotr01;Trendon Watford;Did Not Play

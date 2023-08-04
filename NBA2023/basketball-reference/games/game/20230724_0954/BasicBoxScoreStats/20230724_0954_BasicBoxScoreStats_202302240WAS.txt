@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+24/02/2023;NYK;0;brunsja01;Jalen Brunson;38:45;6;20;.300;0;3;.000;1;1;1.000;1;3;4;9;1;0;1;2;13;+7
+24/02/2023;NYK;1;randlju01;Julius Randle;36:11;16;29;.552;7;14;.500;7;7;1.000;0;2;2;2;2;0;1;1;46;+8
+24/02/2023;NYK;2;robinmi01;Mitchell Robinson;27:54;5;6;.833;0;0;;0;0;;4;8;12;0;1;1;0;4;10;+13
+24/02/2023;NYK;3;barrerj01;RJ Barrett;27:36;5;10;.500;1;2;.500;3;4;.750;1;1;2;3;1;1;3;1;14;+5
+24/02/2023;NYK;4;grimequ01;Quentin Grimes;20:46;2;4;.500;1;2;.500;0;0;;0;2;2;2;1;0;1;2;5;+8
+24/02/2023;NYK;5;Reserves;Reserves
+24/02/2023;NYK;6;quickim01;Immanuel Quickley;29:38;6;11;.545;3;6;.500;1;2;.500;1;2;3;1;0;0;3;1;16;0
+24/02/2023;NYK;7;hartjo01;Josh Hart;27:25;2;6;.333;0;1;.000;1;2;.500;2;4;6;4;0;0;2;2;5;0
+24/02/2023;NYK;8;harteis01;Isaiah Hartenstein;19:56;2;2;1.000;0;0;;0;0;;3;7;10;0;2;0;0;3;4;-9
+24/02/2023;NYK;9;toppiob01;Obi Toppin;11:49;1;4;.250;0;1;.000;0;0;;0;2;2;0;1;0;1;1;2;-2
+24/02/2023;NYK;10;keelstr01;Trevor Keels;Did Not Play
+24/02/2023;NYK;11;mcbrimi01;Miles McBride;Did Not Play
+24/02/2023;NYK;12;rosede01;Derrick Rose;Did Not Play
+24/02/2023;NYK;13;simsje01;Jericho Sims;Did Not Play
+24/02/2023;NYK;0;kuzmaky01;Kyle Kuzma;40:52;10;23;.435;3;12;.250;0;0;;0;5;5;3;1;0;4;3;23;-8
+24/02/2023;NYK;1;bealbr01;Bradley Beal;35:27;6;14;.429;1;4;.250;3;3;1.000;0;2;2;8;1;2;5;4;16;-1
+24/02/2023;NYK;2;porzikr01;Kristaps Porziņģis;35:19;5;10;.500;5;9;.556;8;8;1.000;1;5;6;3;0;2;3;2;23;-16
+24/02/2023;NYK;3;morrimo01;Monte Morris;27:07;5;8;.625;2;3;.667;0;0;;0;2;2;2;1;0;1;4;12;-13
+24/02/2023;NYK;4;gaffoda01;Daniel Gafford;12:15;1;1;1.000;0;0;;1;1;1.000;0;3;3;0;0;0;3;4;3;-11
+24/02/2023;NYK;5;Reserves;Reserves
+24/02/2023;NYK;6;avdijde01;Deni Avdija;26:53;5;7;.714;1;3;.333;0;0;;0;7;7;5;1;0;0;0;11;+9
+24/02/2023;NYK;7;wrighde01;Delon Wright;20:52;5;8;.625;5;7;.714;0;0;;2;1;3;2;2;2;1;0;15;+7
+24/02/2023;NYK;8;kispeco01;Corey Kispert;17:59;1;2;.500;1;2;.500;0;0;;0;1;1;0;0;0;0;0;3;-1
+24/02/2023;NYK;9;gibsota01;Taj Gibson;13:17;0;2;.000;0;1;.000;0;0;;0;4;4;0;0;0;0;2;0;+9
+24/02/2023;NYK;10;nunnke01;Kendrick Nunn;9:59;1;4;.250;1;3;.333;0;0;;0;1;1;2;0;0;0;1;3;-5
+24/02/2023;NYK;11;careyve01;Vernon Carey Jr.;Did Not Play
+24/02/2023;NYK;12;davisjo06;Johnny Davis;Did Not Play
+24/02/2023;NYK;13;gillan01;Anthony Gill;Did Not Play
+24/02/2023;NYK;14;goodwjo01;Jordan Goodwin;Did Not Play
+24/02/2023;NYK;15;jacksqu01;Quenton Jackson;Did Not Play

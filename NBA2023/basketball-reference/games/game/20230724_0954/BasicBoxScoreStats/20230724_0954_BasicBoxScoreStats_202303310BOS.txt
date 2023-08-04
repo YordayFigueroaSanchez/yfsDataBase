@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+31/03/2023;UTA;0;kesslwa01;Walker Kessler;33:51;10;13;.769;0;0;;0;0;;5;5;10;2;0;3;2;1;20;-3
+31/03/2023;UTA;1;hortota01;Talen Horton-Tucker;31:04;9;21;.429;0;3;.000;10;10;1.000;1;7;8;7;0;0;4;0;28;-5
+31/03/2023;UTA;2;fontesi01;Simone Fontecchio;30:52;5;13;.385;2;8;.250;0;0;;2;2;4;1;1;0;0;1;12;-3
+31/03/2023;UTA;3;olynyke01;Kelly Olynyk;30:40;3;9;.333;1;3;.333;1;1;1.000;1;7;8;3;0;1;3;3;8;-3
+31/03/2023;UTA;4;agbajoc01;Ochai Agbaji;29:43;4;12;.333;2;6;.333;2;2;1.000;2;5;7;2;0;0;2;3;12;-3
+31/03/2023;UTA;5;Reserves;Reserves
+31/03/2023;UTA;6;dunnkr01;Kris Dunn;23:04;8;13;.615;0;0;;0;1;.000;0;4;4;4;0;2;2;2;16;-7
+31/03/2023;UTA;7;toscaju01;Juan Toscano-Anderson;17:20;2;3;.667;1;1;1.000;0;0;;1;1;2;3;0;0;1;1;5;-5
+31/03/2023;UTA;8;juzanjo01;Johnny Juzang;16:56;2;7;.286;2;5;.400;0;0;;1;3;4;0;0;0;0;1;6;-3
+31/03/2023;UTA;9;jonesda03;Damian Jones;14:09;1;1;1.000;1;1;1.000;0;0;;0;3;3;1;1;0;2;2;3;-5
+31/03/2023;UTA;10;samanlu01;Luka Šamanić;12:21;2;4;.500;0;2;.000;0;0;;0;2;2;0;1;1;2;3;4;-3
+31/03/2023;UTA;11;azubuud01;Udoka Azubuike;Did Not Play
+31/03/2023;UTA;12;pottemi01;Micah Potter;Did Not Play
+31/03/2023;UTA;0;tatumja01;Jayson Tatum;35:47;12;17;.706;5;8;.625;10;11;.909;1;10;11;3;3;0;0;4;39;+7
+31/03/2023;UTA;1;brownja02;Jaylen Brown;34:00;5;19;.263;0;5;.000;2;2;1.000;0;2;2;4;1;0;3;3;12;-5
+31/03/2023;UTA;2;whitede01;Derrick White;28:42;6;15;.400;2;9;.222;3;3;1.000;1;1;2;2;0;1;1;0;17;+16
+31/03/2023;UTA;3;smartma01;Marcus Smart;28:15;5;16;.313;4;13;.308;0;0;;1;1;2;2;2;0;2;4;14;+2
+31/03/2023;UTA;4;griffbl01;Blake Griffin;24:30;1;5;.200;0;2;.000;4;4;1.000;5;7;12;5;1;0;2;0;6;+3
+31/03/2023;UTA;5;Reserves;Reserves
+31/03/2023;UTA;6;brogdma01;Malcolm Brogdon;31:48;7;14;.500;3;8;.375;2;2;1.000;0;3;3;7;1;1;1;0;19;-7
+31/03/2023;UTA;7;willigr01;Grant Williams;17:04;5;6;.833;3;4;.750;0;0;;1;4;5;2;0;1;0;1;13;+10
+31/03/2023;UTA;8;kornelu01;Luke Kornet;15:04;0;0;;0;0;;0;0;;0;2;2;0;0;1;0;0;0;+6
+31/03/2023;UTA;9;hausesa01;Sam Hauser;12:44;1;1;1.000;0;0;;0;0;;0;1;1;2;0;0;1;0;2;+3
+31/03/2023;UTA;10;muscami01;Mike Muscala;12:06;0;3;.000;0;2;.000;0;0;;1;1;2;0;0;0;1;2;0;+5
+31/03/2023;UTA;11;davisjd01;JD Davison;Did Not Play
+31/03/2023;UTA;12;kabenmf01;Mfiondu Kabengele;Did Not Play
+31/03/2023;UTA;13;pritcpa01;Payton Pritchard;Did Not Play

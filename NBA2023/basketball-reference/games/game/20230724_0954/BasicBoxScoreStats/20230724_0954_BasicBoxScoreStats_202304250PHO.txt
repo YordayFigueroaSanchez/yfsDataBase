@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+25/04/2023;LAC;0;westbru01;Russell Westbrook;39:28;3;18;.167;1;6;.167;7;8;.875;1;7;8;8;0;0;5;4;14;-1
+25/04/2023;LAC;1;powelno01;Norman Powell;38:53;8;17;.471;3;7;.429;8;10;.800;1;1;2;3;0;0;1;5;27;-13
+25/04/2023;LAC;2;morrima03;Marcus Morris;23:55;5;11;.455;0;1;.000;2;2;1.000;1;4;5;0;0;0;0;0;12;-15
+25/04/2023;LAC;3;zubaciv01;Ivica Zubac;23:52;5;6;.833;0;0;;6;6;1.000;4;6;10;2;0;1;2;2;16;-8
+25/04/2023;LAC;4;gordoer01;Eric Gordon;20:50;1;4;.250;1;4;.250;0;0;;0;0;0;3;0;0;1;2;3;-14
+25/04/2023;LAC;5;Reserves;Reserves
+25/04/2023;LAC;6;mannte01;Terance Mann;27:24;4;9;.444;2;6;.333;0;2;.000;2;3;5;2;0;0;1;2;10;+11
+25/04/2023;LAC;7;batumni01;Nicolas Batum;26:35;7;10;.700;5;8;.625;0;0;;1;5;6;2;2;0;0;1;19;+8
+25/04/2023;LAC;8;plumlma01;Mason Plumlee;23:54;6;7;.857;0;0;;8;9;.889;7;3;10;3;1;0;0;4;20;+2
+25/04/2023;LAC;9;hylanbo01;Bones Hyland;15:09;4;13;.308;1;4;.250;0;0;;0;0;0;0;1;0;0;1;9;0
+25/04/2023;LAC;10;bostobr01;Brandon Boston Jr.;Did Not Play
+25/04/2023;LAC;11;coffeam01;Amir Coffey;Did Not Play
+25/04/2023;LAC;12;covinro01;Robert Covington;Did Not Play
+25/04/2023;LAC;13;prestja01;Jason Preston;Did Not Play
+25/04/2023;LAC;0;duranke01;Kevin Durant;44:14;10;19;.526;4;6;.667;7;7;1.000;0;6;6;4;1;1;1;3;31;+13
+25/04/2023;LAC;1;bookede01;Devin Booker;41:39;19;27;.704;4;7;.571;5;6;.833;2;6;8;10;2;0;3;4;47;+11
+25/04/2023;LAC;2;paulch01;Chris Paul;37:27;6;13;.462;3;6;.500;0;0;;0;5;5;7;2;0;1;2;15;0
+25/04/2023;LAC;3;aytonde01;Deandre Ayton;35:37;9;18;.500;0;0;;3;4;.750;2;9;11;3;0;0;0;3;21;-1
+25/04/2023;LAC;4;craigto01;Torrey Craig;16:53;0;1;.000;0;0;;0;0;;0;2;2;0;0;0;0;3;0;-5
+25/04/2023;LAC;5;Reserves;Reserves
+25/04/2023;LAC;6;okogijo01;Josh Okogie;32:46;4;7;.571;1;3;.333;2;2;1.000;2;0;2;3;2;0;0;3;11;+7
+25/04/2023;LAC;7;biyombi01;Bismack Biyombo;12:23;2;4;.500;0;0;;4;5;.800;5;3;8;2;0;3;1;5;8;+7
+25/04/2023;LAC;8;shamela01;Landry Shamet;8:57;1;3;.333;1;2;.500;0;0;;0;0;0;0;0;0;0;1;3;+6
+25/04/2023;LAC;9;leeda03;Damion Lee;6:48;0;2;.000;0;2;.000;0;0;;0;1;1;0;0;0;1;3;0;-6
+25/04/2023;LAC;10;payneca01;Cameron Payne;3:16;0;0;;0;0;;0;0;;0;0;0;2;0;0;0;0;0;-2
+25/04/2023;LAC;11;bazleda01;Darius Bazley;Did Not Play
+25/04/2023;LAC;12;landajo01;Jock Landale;Did Not Play
+25/04/2023;LAC;13;rosste01;Terrence Ross;Did Not Play
+25/04/2023;LAC;14;wainris01;Ish Wainright;Did Not Play
+25/04/2023;LAC;15;warretj01;T.J. Warren;Did Not Play

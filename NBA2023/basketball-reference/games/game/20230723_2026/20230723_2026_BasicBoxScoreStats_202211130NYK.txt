@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+13/11/2022;OKC;0;giddejo01;Josh Giddey;36:41;10;14;.714;2;3;.667;2;2;1.000;1;9;10;12;0;0;3;1;24;+15
+13/11/2022;OKC;1;gilgesh01;Shai Gilgeous-Alexander;36:12;13;22;.591;2;3;.667;9;10;.900;0;5;5;8;3;2;6;2;37;+4
+13/11/2022;OKC;2;robinje02;Jeremiah Robinson-Earl;30:44;7;9;.778;3;4;.750;0;0;;3;4;7;0;0;0;1;5;17;+11
+13/11/2022;OKC;3;dortlu01;Luguentz Dort;24:27;8;11;.727;2;5;.400;6;6;1.000;0;3;3;0;0;1;1;5;24;-7
+13/11/2022;OKC;4;pokusal01;Aleksej Pokusevski;18:13;5;8;.625;2;4;.500;0;0;;0;2;2;3;1;1;2;1;12;+11
+13/11/2022;OKC;5;Reserves;Reserves
+13/11/2022;OKC;6;wiggiaa01;Aaron Wiggins;20:58;1;3;.333;1;1;1.000;0;0;;0;3;3;2;1;0;0;5;3;+2
+13/11/2022;OKC;7;willike04;Kenrich Williams;20:17;1;3;.333;0;0;;1;2;.500;0;3;3;3;2;0;0;1;3;+13
+13/11/2022;OKC;8;willija06;Jalen Williams;19:49;4;6;.667;0;1;.000;0;0;;0;0;0;0;0;0;2;3;8;-3
+13/11/2022;OKC;9;joeis01;Isaiah Joe;16:53;3;6;.500;2;5;.400;0;0;;0;3;3;1;2;0;3;3;8;+11
+13/11/2022;OKC;10;muscami01;Mike Muscala;12:26;2;3;.667;2;3;.667;0;0;;0;2;2;2;0;1;1;1;6;-3
+13/11/2022;OKC;11;manntr01;Tre Mann;3:20;1;3;.333;1;2;.500;0;0;;0;0;0;0;0;0;0;0;3;-4
+13/11/2022;OKC;12;waterli01;Lindy Waters III;Did Not Play
+13/11/2022;OKC;13;willija07;Jaylin Williams;Did Not Play
+13/11/2022;OKC;0;randlju01;Julius Randle;33:15;7;14;.500;3;6;.500;8;10;.800;3;7;10;3;0;0;2;3;25;-10
+13/11/2022;OKC;1;reddica01;Cam Reddish;32:38;10;17;.588;2;5;.400;4;4;1.000;1;2;3;2;4;1;1;0;26;+2
+13/11/2022;OKC;2;brunsja01;Jalen Brunson;23:58;5;9;.556;0;2;.000;7;7;1.000;0;1;1;7;3;0;1;2;17;-20
+13/11/2022;OKC;3;harteis01;Isaiah Hartenstein;22:53;5;8;.625;1;2;.500;3;4;.750;5;2;7;1;1;0;2;1;14;-19
+13/11/2022;OKC;4;barrerj01;RJ Barrett;19:25;2;10;.200;0;2;.000;0;0;;1;0;1;0;1;0;2;4;4;-14
+13/11/2022;OKC;5;Reserves;Reserves
+13/11/2022;OKC;6;simsje01;Jericho Sims;25:07;4;4;1.000;0;0;;0;0;;3;5;8;1;0;0;0;2;8;+9
+13/11/2022;OKC;7;quickim01;Immanuel Quickley;23:23;8;17;.471;1;4;.250;7;8;.875;0;1;1;5;3;1;0;3;24;+5
+13/11/2022;OKC;8;fournev01;Evan Fournier;19:55;0;5;.000;0;3;.000;0;0;;0;0;0;2;1;0;0;1;0;0
+13/11/2022;OKC;9;rosede01;Derrick Rose;16:44;3;6;.500;1;2;.500;0;0;;0;2;2;4;0;0;2;1;7;+3
+13/11/2022;OKC;10;toppiob01;Obi Toppin;14:45;4;5;.800;2;3;.667;0;0;;0;2;2;0;0;0;3;1;10;0
+13/11/2022;OKC;11;grimequ01;Quentin Grimes;7:57;0;2;.000;0;2;.000;0;0;;0;0;0;0;0;0;0;0;0;-6
+13/11/2022;OKC;12;arcidry01;Ryan Arcidiacono;Did Not Play
+13/11/2022;OKC;13;mcbrimi01;Miles McBride;Did Not Play
+13/11/2022;OKC;14;mykhasv01;Svi Mykhailiuk;Did Not Play

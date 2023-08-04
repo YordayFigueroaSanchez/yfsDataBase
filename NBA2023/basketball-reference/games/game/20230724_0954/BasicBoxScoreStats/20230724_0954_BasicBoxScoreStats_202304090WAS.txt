@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+09/04/2023;HOU;0;smithja05;Jabari Smith Jr.;31:01;6;11;.545;1;3;.333;7;8;.875;1;4;5;0;0;1;1;3;20;+1
+09/04/2023;HOU;1;chrisjo01;Josh Christopher;30:15;6;10;.600;0;1;.000;1;2;.500;1;1;2;4;0;0;4;1;13;+6
+09/04/2023;HOU;2;greenja05;Jalen Green;27:09;5;11;.455;1;3;.333;3;4;.750;0;2;2;4;1;0;0;0;14;+3
+09/04/2023;HOU;3;sengual01;Alperen Şengün;23:32;4;9;.444;0;0;;4;5;.800;3;9;12;6;2;2;4;3;12;-4
+09/04/2023;HOU;4;martike04;Kenyon Martin Jr.;21:02;5;12;.417;0;2;.000;2;2;1.000;0;3;3;1;0;0;0;1;12;-4
+09/04/2023;HOU;5;Reserves;Reserves
+09/04/2023;HOU;6;easonta01;Tari Eason;26:58;6;11;.545;1;3;.333;3;4;.750;2;6;8;4;0;1;2;2;16;+9
+09/04/2023;HOU;7;washity02;TyTy Washington Jr.;20:51;3;5;.600;2;2;1.000;0;2;.000;0;3;3;0;2;0;0;2;8;+2
+09/04/2023;HOU;8;nixda01;Daishen Nix;17:45;1;4;.250;0;2;.000;0;0;;0;1;1;1;1;0;1;1;2;-1
+09/04/2023;HOU;9;kaminfr01;Frank Kaminsky;16:59;3;7;.429;1;3;.333;0;0;;2;4;6;3;0;1;0;0;7;+4
+09/04/2023;HOU;10;marjabo01;Boban Marjanović;12:38;5;7;.714;0;0;;0;1;.000;3;3;6;1;1;1;1;0;10;+10
+09/04/2023;HOU;11;garubus01;Usman Garuba;11:50;0;3;.000;0;2;.000;0;0;;1;2;3;0;1;0;2;2;0;-1
+09/04/2023;HOU;12;augusdj01;D.J. Augustin;Did Not Play
+09/04/2023;HOU;13;caulewi01;Willie Cauley-Stein;Did Not Play
+09/04/2023;HOU;14;daysda01;Darius Days;Did Not Play
+09/04/2023;HOU;15;hudgitr01;Trevor Hudgins;Did Not Play
+09/04/2023;HOU;0;toddis01;Isaiah Todd;45:26;2;14;.143;1;7;.143;2;2;1.000;2;10;12;4;1;0;1;4;7;-6
+09/04/2023;HOU;1;davisjo06;Johnny Davis;39:47;4;20;.200;3;15;.200;2;4;.500;3;5;8;8;2;0;2;4;13;-13
+09/04/2023;HOU;2;cooksxa01;Xavier Cooks;38:08;5;11;.455;0;0;;0;2;.000;7;7;14;0;2;2;1;2;10;+3
+09/04/2023;HOU;3;goodwjo01;Jordan Goodwin;29:33;8;14;.571;3;8;.375;3;4;.750;0;5;5;5;2;1;4;3;22;+2
+09/04/2023;HOU;4;kispeco01;Corey Kispert;12:18;6;8;.750;5;7;.714;1;1;1.000;1;2;3;1;0;0;0;0;18;+4
+09/04/2023;HOU;5;Reserves;Reserves
+09/04/2023;HOU;6;jacksqu01;Quenton Jackson;32:19;9;13;.692;0;2;.000;1;2;.500;0;2;2;5;2;0;0;3;19;-6
+09/04/2023;HOU;7;nunnke01;Kendrick Nunn;21:48;4;9;.444;2;4;.500;2;2;1.000;1;4;5;3;1;2;4;2;12;-8
+09/04/2023;HOU;8;gillan01;Anthony Gill;20:41;3;8;.375;0;2;.000;2;4;.500;0;2;2;2;1;0;0;3;8;-1
+09/04/2023;HOU;9;gaffoda01;Daniel Gafford;Did Not Play
+09/04/2023;HOU;10;gibsota01;Taj Gibson;Did Not Play
+09/04/2023;HOU;11;wrighde01;Delon Wright;Did Not Play

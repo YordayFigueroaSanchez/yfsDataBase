@@ -1,0 +1,26 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+05/03/2023;POR;0;grantje01;Jerami Grant;38:36;5;14;.357;3;8;.375;7;7;1.000;1;5;6;7;1;2;3;5;20;+5
+05/03/2023;POR;1;reddica01;Cam Reddish;37:05;7;13;.538;2;4;.500;0;0;;1;4;5;3;2;0;2;4;16;-5
+05/03/2023;POR;2;lillada01;Damian Lillard;36:39;10;25;.400;4;16;.250;17;20;.850;3;6;9;6;2;1;5;2;41;+10
+05/03/2023;POR;3;thybuma01;Matisse Thybulle;32:10;2;7;.286;1;6;.167;1;1;1.000;4;4;8;2;1;0;1;3;6;+8
+05/03/2023;POR;4;eubandr01;Drew Eubanks;26:05;5;6;.833;0;0;;3;4;.750;0;6;6;3;1;0;1;2;13;-6
+05/03/2023;POR;5;Reserves;Reserves
+05/03/2023;POR;6;littlna01;Nassir Little;26:51;4;6;.667;3;5;.600;0;0;;0;5;5;3;0;1;1;1;11;-2
+05/03/2023;POR;7;watfotr01;Trendon Watford;22:08;3;6;.500;1;3;.333;0;0;;0;5;5;1;2;0;1;2;7;+11
+05/03/2023;POR;8;sharpsh01;Shaedon Sharpe;20:26;3;6;.500;2;5;.400;0;0;;0;2;2;2;0;1;3;3;8;-6
+05/03/2023;POR;9;johnske07;Keon Johnson;Did Not Play
+05/03/2023;POR;10;knoxke01;Kevin Knox;Did Not Play
+05/03/2023;POR;11;walkeja01;Jabari Walker;Did Not Play
+05/03/2023;POR;0;suggsja01;Jalen Suggs;35:15;6;12;.500;1;3;.333;2;2;1.000;1;3;4;2;3;0;3;4;15;-1
+05/03/2023;POR;1;fultzma01;Markelle Fultz;34:53;5;9;.556;0;1;.000;5;5;1.000;1;4;5;8;4;0;1;2;15;-2
+05/03/2023;POR;2;banchpa01;Paolo Banchero;33:26;9;18;.500;1;4;.250;7;10;.700;1;4;5;2;1;1;3;4;26;-8
+05/03/2023;POR;3;wagnemo01;Moritz Wagner;33:25;5;11;.455;1;6;.167;4;7;.571;1;6;7;1;1;0;0;3;15;-1
+05/03/2023;POR;4;wagnefr01;Franz Wagner;32:43;7;12;.583;4;7;.571;6;7;.857;0;2;2;6;1;0;3;4;24;+2
+05/03/2023;POR;5;Reserves;Reserves
+05/03/2023;POR;6;anthoco01;Cole Anthony;23:54;2;9;.222;1;5;.200;0;0;;0;3;3;6;0;0;1;3;5;-1
+05/03/2023;POR;7;bolbo01;Bol Bol;16:44;4;7;.571;1;2;.500;0;0;;0;8;8;3;1;1;0;2;9;0
+05/03/2023;POR;8;houstca01;Caleb Houstan;15:37;1;3;.333;1;2;.500;0;0;;2;0;2;0;0;0;0;3;3;-4
+05/03/2023;POR;9;schofad01;Admiral Schofield;7:51;1;1;1.000;1;1;1.000;0;0;;0;0;0;1;0;0;0;0;3;-3
+05/03/2023;POR;10;bitadgo01;Goga Bitadze;6:12;2;2;1.000;0;0;;0;0;;0;2;2;0;0;0;0;0;4;+3
+05/03/2023;POR;11;cartemi01;Michael Carter-Williams;Did Not Play
+05/03/2023;POR;12;okekech01;Chuma Okeke;Did Not Play

@@ -1,0 +1,26 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+06/11/2022;CHI;0;dosunay01;Ayo Dosunmu;38:00;6;15;.400;3;8;.375;0;0;;0;3;3;3;0;0;3;4;15;-30
+06/11/2022;CHI;1;derozde01;DeMar DeRozan;37:29;7;9;.778;0;1;.000;6;6;1.000;1;4;5;2;1;1;5;2;20;-8
+06/11/2022;CHI;2;vucevni01;Nikola Vučević;35:28;8;13;.615;2;5;.400;0;0;;4;8;12;6;0;1;4;2;18;-10
+06/11/2022;CHI;3;carusal01;Alex Caruso;32:14;1;11;.091;0;6;.000;2;2;1.000;3;8;11;11;2;2;2;2;4;+15
+06/11/2022;CHI;4;willipa01;Patrick Williams;28:32;5;16;.313;3;6;.500;0;0;;5;2;7;1;0;2;0;4;13;-1
+06/11/2022;CHI;5;Reserves;Reserves
+06/11/2022;CHI;6;greenja02;Javonte Green;21:14;4;7;.571;1;2;.500;1;1;1.000;0;3;3;1;0;0;0;2;10;-9
+06/11/2022;CHI;7;dragigo01;Goran Dragić;20:47;6;10;.600;4;6;.667;0;0;;2;0;2;2;0;0;2;3;16;+1
+06/11/2022;CHI;8;jonesde02;Derrick Jones Jr.;16:30;1;5;.200;0;2;.000;2;4;.500;0;2;2;0;1;3;0;1;4;-4
+06/11/2022;CHI;9;terryda01;Dalen Terry;9:46;2;2;1.000;0;0;;0;0;;0;1;1;1;1;1;1;0;4;+1
+06/11/2022;CHI;10;bradlto01;Tony Bradley;Did Not Play
+06/11/2022;CHI;11;hillma01;Malcolm Hill;Did Not Play
+06/11/2022;CHI;0;barnesc01;Scottie Barnes;40:05;8;19;.421;2;7;.286;1;2;.500;2;8;10;4;1;0;2;1;19;+5
+06/11/2022;CHI;1;vanvlfr01;Fred VanVleet;39:20;9;22;.409;5;13;.385;7;7;1.000;0;5;5;11;0;0;1;1;30;+27
+06/11/2022;CHI;2;anunoog01;OG Anunoby;38:18;10;19;.526;2;5;.400;0;0;;4;2;6;3;3;1;1;3;22;+24
+06/11/2022;CHI;3;kolokch01;Christian Koloko;31:01;4;8;.500;0;1;.000;3;4;.750;2;5;7;2;0;6;1;3;11;+19
+06/11/2022;CHI;4;trentga02;Gary Trent Jr.;20:34;4;11;.364;1;5;.200;3;5;.600;1;2;3;0;1;0;0;0;12;-25
+06/11/2022;CHI;5;Reserves;Reserves
+06/11/2022;CHI;6;bouchch01;Chris Boucher;22:11;4;10;.400;0;2;.000;0;0;;6;0;6;1;1;2;3;3;8;-6
+06/11/2022;CHI;7;porteot01;Otto Porter Jr.;18:47;1;3;.333;0;1;.000;0;0;;1;2;3;3;3;0;0;2;2;-4
+06/11/2022;CHI;8;youngth01;Thaddeus Young;15:33;2;5;.400;0;1;.000;0;0;;4;4;8;2;1;0;0;0;4;+25
+06/11/2022;CHI;9;achiupr01;Precious Achiuwa;14:11;2;6;.333;0;2;.000;1;2;.500;3;1;4;2;1;1;1;3;5;-20
+06/11/2022;CHI;10;bantoda01;Dalano Banton;Did Not Play
+06/11/2022;CHI;11;flynnma01;Malachi Flynn;Did Not Play
+06/11/2022;CHI;12;hernaju01;Juancho Hernangómez;Did Not Play

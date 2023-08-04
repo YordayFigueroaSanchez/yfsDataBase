@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+26/04/2023;GSW;0;curryst01;Stephen Curry;41:58;12;25;.480;2;10;.200;5;6;.833;0;2;2;8;0;0;5;2;31;+4
+26/04/2023;GSW;1;wiggian01;Andrew Wiggins;38:45;9;16;.563;2;5;.400;0;0;;0;4;4;0;2;2;1;5;20;+10
+26/04/2023;GSW;2;looneke01;Kevon Looney;34:32;2;4;.500;0;0;;0;0;;7;15;22;7;0;1;1;4;4;+8
+26/04/2023;GSW;3;thompkl01;Klay Thompson;32:25;10;19;.526;5;11;.455;0;0;;0;2;2;1;0;0;4;5;25;+14
+26/04/2023;GSW;4;poolejo01;Jordan Poole;23:16;4;12;.333;1;6;.167;1;3;.333;0;3;3;6;2;1;0;1;10;+2
+26/04/2023;GSW;5;Reserves;Reserves
+26/04/2023;GSW;6;greendr01;Draymond Green;31:45;8;10;.800;1;2;.500;4;8;.500;0;4;4;7;4;1;3;4;21;+13
+26/04/2023;GSW;7;divindo01;Donte DiVincenzo;17:13;1;5;.200;0;3;.000;0;0;;0;0;0;3;1;1;0;2;2;-11
+26/04/2023;GSW;8;paytoga02;Gary Payton II;15:37;4;5;.800;0;1;.000;0;0;;4;2;6;0;2;0;0;1;8;0
+26/04/2023;GSW;9;moodymo01;Moses Moody;4:29;0;0;;0;0;;2;2;1.000;0;0;0;1;0;1;0;0;2;-5
+26/04/2023;GSW;10;baldwpa01;Patrick Baldwin Jr.;Did Not Play
+26/04/2023;GSW;11;greenja01;JaMychal Green;Did Not Play
+26/04/2023;GSW;12;kuminjo01;Jonathan Kuminga;Did Not Play
+26/04/2023;GSW;13;lamban01;Anthony Lamb;Did Not Play
+26/04/2023;GSW;0;foxde01;De'Aaron Fox;41:43;9;25;.360;3;10;.300;3;3;1.000;2;5;7;9;2;1;6;3;24;-4
+26/04/2023;GSW;1;sabondo01;Domantas Sabonis;36:18;9;15;.600;0;1;.000;3;4;.750;5;5;10;4;3;1;5;5;21;-1
+26/04/2023;GSW;2;murrake02;Keegan Murray;34:37;4;5;.800;2;2;1.000;0;0;;0;6;6;0;0;0;0;1;10;-13
+26/04/2023;GSW;3;barneha02;Harrison Barnes;33:07;3;6;.500;0;2;.000;7;7;1.000;1;2;3;1;2;1;2;1;13;-2
+26/04/2023;GSW;4;huertke01;Kevin Huerter;16:07;4;10;.400;1;4;.250;0;0;;0;4;4;2;0;0;0;2;9;-9
+26/04/2023;GSW;5;Reserves;Reserves
+26/04/2023;GSW;6;monkma01;Malik Monk;29:09;6;14;.429;1;5;.200;8;10;.800;1;4;5;3;2;0;3;3;21;+6
+26/04/2023;GSW;7;mitchda01;Davion Mitchell;24:13;4;10;.400;2;8;.250;0;0;;1;0;1;1;0;0;2;1;10;-4
+26/04/2023;GSW;8;lylestr01;Trey Lyles;13:03;2;4;.500;1;2;.500;0;0;;1;4;5;1;0;0;0;1;5;-2
+26/04/2023;GSW;9;lenal01;Alex Len;11:35;1;1;1.000;0;0;;1;2;.500;1;2;3;1;0;0;1;1;3;-6
+26/04/2023;GSW;10;edwarke02;Kessler Edwards;0:07;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;0
+26/04/2023;GSW;11;daviste02;Terence Davis;Did Not Play
+26/04/2023;GSW;12;doziepj01;PJ Dozier;Did Not Play
+26/04/2023;GSW;13;holmeri01;Richaun Holmes;Did Not Play
+26/04/2023;GSW;14;metuch01;Chimezie Metu;Did Not Play

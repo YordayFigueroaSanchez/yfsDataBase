@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+25/11/2022;POR;0;simonan01;Anfernee Simons;46:58;13;25;.520;4;13;.308;8;8;1.000;0;4;4;5;1;0;1;1;38;+16
+25/11/2022;POR;1;winslju01;Justise Winslow;46:23;3;10;.300;0;1;.000;1;2;.500;4;7;11;4;0;0;0;5;7;+2
+25/11/2022;POR;2;hartjo01;Josh Hart;41:33;4;8;.500;0;2;.000;2;4;.500;6;13;19;4;2;0;3;6;10;+13
+25/11/2022;POR;3;grantje01;Jerami Grant;40:18;10;20;.500;3;7;.429;21;28;.750;0;1;1;2;0;1;2;4;44;-1
+25/11/2022;POR;4;nurkiju01;Jusuf Nurkić;37:46;7;12;.583;2;5;.400;4;5;.800;2;6;8;7;0;2;5;5;20;+16
+25/11/2022;POR;5;Reserves;Reserves
+25/11/2022;POR;6;watfotr01;Trendon Watford;21:04;3;5;.600;0;1;.000;2;2;1.000;1;1;2;1;0;0;1;1;8;-7
+25/11/2022;POR;7;littlna01;Nassir Little;18:19;0;2;.000;0;1;.000;0;0;;0;2;2;1;0;0;0;1;0;-12
+25/11/2022;POR;8;sharpsh01;Shaedon Sharpe;12:39;2;3;.667;1;2;.500;0;2;.000;0;1;1;0;0;0;0;1;5;-12
+25/11/2022;POR;9;butlejo01;John Butler;Did Not Play
+25/11/2022;POR;10;lillada01;Damian Lillard;Did Not Dress
+25/11/2022;POR;11;walkeja01;Jabari Walker;Did Not Play
+25/11/2022;POR;0;barrerj01;RJ Barrett;44:02;6;22;.273;1;7;.143;6;8;.750;1;9;10;5;1;0;3;3;19;-6
+25/11/2022;POR;1;brunsja01;Jalen Brunson;41:18;10;22;.455;3;8;.375;9;9;1.000;1;4;5;4;0;0;1;5;32;-6
+25/11/2022;POR;2;randlju01;Julius Randle;38:31;8;19;.421;3;8;.375;4;4;1.000;0;6;6;3;3;0;2;4;23;-17
+25/11/2022;POR;3;grimequ01;Quentin Grimes;29:58;3;6;.500;1;4;.250;0;0;;2;3;5;5;0;1;2;5;7;-4
+25/11/2022;POR;4;robinmi01;Mitchell Robinson;23:05;6;7;.857;0;0;;0;2;.000;5;3;8;0;0;2;1;6;12;+7
+25/11/2022;POR;5;Reserves;Reserves
+25/11/2022;POR;6;quickim01;Immanuel Quickley;32:25;6;17;.353;4;10;.400;2;2;1.000;1;3;4;5;1;0;1;4;18;+7
+25/11/2022;POR;7;harteis01;Isaiah Hartenstein;16:54;2;3;.667;0;0;;2;2;1.000;0;2;2;2;2;0;0;3;6;-6
+25/11/2022;POR;8;toppiob01;Obi Toppin;14:29;1;3;.333;1;3;.333;0;0;;0;2;2;1;0;0;0;2;3;+14
+25/11/2022;POR;9;simsje01;Jericho Sims;12:36;2;3;.667;0;0;;1;1;1.000;2;0;2;0;0;2;0;2;5;-7
+25/11/2022;POR;10;mcbrimi01;Miles McBride;11:42;2;3;.667;0;1;.000;0;0;;0;0;0;2;0;0;0;1;4;+3
+25/11/2022;POR;11;arcidry01;Ryan Arcidiacono;Did Not Play
+25/11/2022;POR;12;fournev01;Evan Fournier;Did Not Play
+25/11/2022;POR;13;mykhasv01;Svi Mykhailiuk;Did Not Play

@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+02/01/2023;DEN;0;murraja01;Jamal Murray;35:53;6;12;.500;1;3;.333;1;1;1.000;1;2;3;4;1;0;2;0;14;-5
+02/01/2023;DEN;1;gordoaa01;Aaron Gordon;33:25;4;18;.222;0;3;.000;4;6;.667;12;4;16;6;1;0;1;3;12;-10
+02/01/2023;DEN;2;jokicni01;Nikola Jokić;33:17;10;20;.500;1;3;.333;3;4;.750;1;6;7;9;2;0;5;4;24;-9
+02/01/2023;DEN;3;caldwke01;Kentavious Caldwell-Pope;32:51;3;7;.429;1;2;.500;3;3;1.000;1;3;4;2;0;0;1;4;10;-11
+02/01/2023;DEN;4;portemi01;Michael Porter Jr.;27:26;6;9;.667;4;6;.667;2;2;1.000;0;2;2;0;0;1;2;2;18;-4
+02/01/2023;DEN;5;Reserves;Reserves
+02/01/2023;DEN;6;brownbr01;Bruce Brown;22:28;3;6;.500;0;2;.000;2;2;1.000;0;4;4;3;1;0;0;1;8;-7
+02/01/2023;DEN;7;hylanbo01;Bones Hyland;22:20;7;12;.583;4;7;.571;0;0;;1;5;6;2;2;0;1;2;18;-15
+02/01/2023;DEN;8;cancavl01;Vlatko Čančar;16:54;1;3;.333;0;2;.000;0;0;;0;1;1;1;0;0;0;3;2;-7
+02/01/2023;DEN;9;nnajize01;Zeke Nnaji;12:24;1;3;.333;0;1;.000;1;2;.500;2;0;2;0;1;0;2;2;3;0
+02/01/2023;DEN;10;braunch01;Christian Braun;3:02;1;1;1.000;0;0;;0;0;;0;0;0;0;0;0;0;0;2;+3
+02/01/2023;DEN;11;jordade01;DeAndre Jordan;Did Not Play
+02/01/2023;DEN;12;reedda01;Davon Reed;Did Not Play
+02/01/2023;DEN;13;smithis01;Ish Smith;Did Not Play
+02/01/2023;DEN;14;whiteja03;Jack White;Did Not Play
+02/01/2023;DEN;0;edwaran01;Anthony Edwards;36:17;10;24;.417;3;11;.273;6;6;1.000;1;9;10;5;1;0;3;5;29;+13
+02/01/2023;DEN;1;nowelja01;Jaylen Nowell;31:23;8;16;.500;1;7;.143;0;0;;0;4;4;2;1;0;2;3;17;+3
+02/01/2023;DEN;2;anderky01;Kyle Anderson;31:17;6;12;.500;3;4;.750;4;4;1.000;1;3;4;8;3;0;1;2;19;+6
+02/01/2023;DEN;3;goberru01;Rudy Gobert;27:28;3;3;1.000;0;0;;2;4;.500;2;2;4;3;0;2;1;5;8;-4
+02/01/2023;DEN;4;mcdanja02;Jaden McDaniels;24:36;9;10;.900;2;2;1.000;1;2;.500;2;2;4;4;1;1;2;4;21;+13
+02/01/2023;DEN;5;Reserves;Reserves
+02/01/2023;DEN;6;riverau01;Austin Rivers;31:47;2;5;.400;2;5;.400;2;2;1.000;0;1;1;5;1;0;0;1;8;+6
+02/01/2023;DEN;7;knighna01;Nathan Knight;21:46;2;4;.500;1;1;1.000;3;6;.500;4;4;8;2;0;0;0;1;8;+12
+02/01/2023;DEN;8;ryanma01;Matt Ryan;21:04;2;5;.400;1;4;.250;0;0;;0;0;0;0;0;0;1;0;5;+5
+02/01/2023;DEN;9;garzalu01;Luka Garza;14:22;3;8;.375;0;2;.000;3;3;1.000;1;5;6;0;0;1;1;1;9;+11
+02/01/2023;DEN;10;forbebr01;Bryn Forbes;Did Not Play
+02/01/2023;DEN;11;minotjo01;Josh Minott;Did Not Play
+02/01/2023;DEN;12;moorewe01;Wendell Moore Jr.;Did Not Play
+02/01/2023;DEN;13;reidna01;Naz Reid;Did Not Play

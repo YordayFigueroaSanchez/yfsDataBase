@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+12/04/2023;CHI;0;lavinza01;Zach LaVine;40:22;12;22;.545;2;7;.286;13;15;.867;1;5;6;3;1;0;4;2;39;+11
+12/04/2023;CHI;1;vucevni01;Nikola Vučević;38:59;6;14;.429;0;4;.000;2;2;1.000;1;12;13;4;1;1;1;3;14;-6
+12/04/2023;CHI;2;derozde01;DeMar DeRozan;38:36;10;19;.526;0;1;.000;3;5;.600;2;5;7;3;0;2;1;4;23;-4
+12/04/2023;CHI;3;carusal01;Alex Caruso;31:18;4;8;.500;1;4;.250;0;0;;2;1;3;2;3;3;1;5;9;+5
+12/04/2023;CHI;4;beverpa01;Patrick Beverley;25:42;1;5;.200;1;4;.250;0;0;;0;3;3;1;1;1;1;4;3;-1
+12/04/2023;CHI;5;Reserves;Reserves
+12/04/2023;CHI;6;willipa01;Patrick Williams;25:21;4;12;.333;2;5;.400;0;0;;2;0;2;2;2;2;1;1;10;+3
+12/04/2023;CHI;7;whiteco01;Coby White;24:46;4;4;1.000;1;1;1.000;0;0;;0;0;0;5;1;0;1;3;9;+4
+12/04/2023;CHI;8;dosunay01;Ayo Dosunmu;5:55;0;0;;0;0;;0;0;;0;1;1;0;0;0;0;0;0;-2
+12/04/2023;CHI;9;jonesde02;Derrick Jones Jr.;4:33;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;+6
+12/04/2023;CHI;10;drumman01;Andre Drummond;4:28;1;2;.500;0;0;;0;0;;0;1;1;0;0;1;0;0;2;+4
+12/04/2023;CHI;11;greenja02;Javonte Green;Did Not Play
+12/04/2023;CHI;12;jonesca03;Carlik Jones;Did Not Play
+12/04/2023;CHI;13;simonma01;Marko Simonovic;Did Not Play
+12/04/2023;CHI;14;terryda01;Dalen Terry;Did Not Play
+12/04/2023;CHI;0;siakapa01;Pascal Siakam;42:21;13;22;.591;1;3;.333;5;11;.455;2;7;9;6;1;0;3;3;32;+6
+12/04/2023;CHI;1;anunoog01;OG Anunoby;42:21;4;13;.308;2;7;.286;3;8;.375;1;3;4;3;1;1;1;4;13;-3
+12/04/2023;CHI;2;vanvlfr01;Fred VanVleet;42:19;8;22;.364;7;13;.538;3;6;.500;0;12;12;8;1;1;3;4;26;-4
+12/04/2023;CHI;3;barnesc01;Scottie Barnes;40:28;7;13;.538;1;2;.500;4;7;.571;6;4;10;2;2;1;2;2;19;-4
+12/04/2023;CHI;4;poeltja01;Jakob Poeltl;36:36;3;4;.750;0;0;;1;2;.500;2;6;8;3;0;2;5;3;7;+6
+12/04/2023;CHI;5;Reserves;Reserves
+12/04/2023;CHI;6;trentga02;Gary Trent Jr.;16:59;1;7;.143;0;5;.000;0;0;;1;1;2;1;0;0;0;0;2;-9
+12/04/2023;CHI;7;achiupr01;Precious Achiuwa;9:22;2;4;.500;0;0;;2;2;1.000;4;0;4;0;0;0;0;1;6;-9
+12/04/2023;CHI;8;bouchch01;Chris Boucher;7:24;0;1;.000;0;0;;0;0;;0;1;1;0;0;0;0;1;0;-3
+12/04/2023;CHI;9;bartowi01;Will Barton;2:10;0;1;.000;0;1;.000;0;0;;0;0;0;0;0;0;0;0;0;0
+12/04/2023;CHI;10;bantoda01;Dalano Banton;Did Not Play
+12/04/2023;CHI;11;flynnma01;Malachi Flynn;Did Not Play
+12/04/2023;CHI;12;kolokch01;Christian Koloko;Did Not Play
+12/04/2023;CHI;13;wieskjo01;Joe Wieskamp;Did Not Play
+12/04/2023;CHI;14;youngth01;Thaddeus Young;Did Not Play

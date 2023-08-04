@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+22/01/2023;NYK;0;barrerj01;RJ Barrett;41:22;10;18;.556;4;8;.500;6;9;.667;1;6;7;5;0;0;3;4;30;-12
+22/01/2023;NYK;1;brunsja01;Jalen Brunson;37:41;6;15;.400;4;7;.571;5;7;.714;0;1;1;5;1;0;3;4;21;-6
+22/01/2023;NYK;2;randlju01;Julius Randle;37:29;8;14;.571;2;6;.333;5;8;.625;5;14;19;8;0;0;4;5;23;-4
+22/01/2023;NYK;3;grimequ01;Quentin Grimes;33:24;2;8;.250;2;6;.333;2;2;1.000;1;4;5;4;0;0;1;4;8;+1
+22/01/2023;NYK;4;simsje01;Jericho Sims;33:15;5;5;1.000;0;0;;0;0;;2;5;7;3;0;1;1;2;10;-6
+22/01/2023;NYK;5;Reserves;Reserves
+22/01/2023;NYK;6;fournev01;Evan Fournier;21:14;3;9;.333;2;7;.286;0;0;;2;1;3;2;0;0;2;0;8;-7
+22/01/2023;NYK;7;harteis01;Isaiah Hartenstein;14:45;1;3;.333;0;0;;0;0;;2;0;2;0;2;3;0;2;2;-3
+22/01/2023;NYK;8;toppiob01;Obi Toppin;10:31;5;7;.714;4;5;.800;0;0;;0;1;1;1;1;0;0;2;14;-5
+22/01/2023;NYK;9;mcbrimi01;Miles McBride;10:19;0;3;.000;0;2;.000;0;0;;1;1;2;2;0;0;2;1;0;-3
+22/01/2023;NYK;10;arcidry01;Ryan Arcidiacono;Did Not Play
+22/01/2023;NYK;11;mykhasv01;Svi Mykhailiuk;Did Not Play
+22/01/2023;NYK;12;quickim01;Immanuel Quickley;Did Not Dress
+22/01/2023;NYK;13;reddica01;Cam Reddish;Did Not Play
+22/01/2023;NYK;14;rosede01;Derrick Rose;Did Not Play
+22/01/2023;NYK;0;barnesc01;Scottie Barnes;36:41;7;15;.467;1;4;.250;4;5;.800;3;4;7;6;1;2;0;2;19;+11
+22/01/2023;NYK;1;achiupr01;Precious Achiuwa;35:30;2;4;.500;0;0;;8;10;.800;4;7;11;1;2;0;2;5;12;+3
+22/01/2023;NYK;2;trentga02;Gary Trent Jr.;35:29;9;17;.529;6;10;.600;0;0;;0;3;3;2;2;1;1;6;24;+12
+22/01/2023;NYK;3;siakapa01;Pascal Siakam;33:57;9;21;.429;3;6;.500;3;6;.500;3;4;7;6;1;1;1;4;24;-8
+22/01/2023;NYK;4;vanvlfr01;Fred VanVleet;33:37;8;19;.421;4;8;.500;8;8;1.000;0;2;2;3;2;0;1;1;28;+6
+22/01/2023;NYK;5;Reserves;Reserves
+22/01/2023;NYK;6;bouchch01;Chris Boucher;23:17;4;6;.667;1;2;.500;5;6;.833;5;2;7;0;3;0;0;0;14;+14
+22/01/2023;NYK;7;hernaju01;Juancho Hernangómez;15:54;0;2;.000;0;2;.000;0;0;;2;3;5;2;0;0;0;1;0;+14
+22/01/2023;NYK;8;youngth01;Thaddeus Young;14:35;2;3;.667;0;1;.000;0;0;;0;3;3;1;1;0;2;1;4;+7
+22/01/2023;NYK;9;dowtije01;Jeff Dowtin;5:30;0;2;.000;0;0;;0;0;;0;0;0;0;0;0;0;0;0;-7
+22/01/2023;NYK;10;wieskjo01;Joe Wieskamp;5:30;0;1;.000;0;1;.000;0;0;;0;0;0;0;0;0;0;0;0;-7
+22/01/2023;NYK;11;birchkh01;Khem Birch;Did Not Play
+22/01/2023;NYK;12;flynnma01;Malachi Flynn;Did Not Play
+22/01/2023;NYK;13;harpero02;Ron Harper Jr.;Did Not Play
+22/01/2023;NYK;14;kolokch01;Christian Koloko;Did Not Play

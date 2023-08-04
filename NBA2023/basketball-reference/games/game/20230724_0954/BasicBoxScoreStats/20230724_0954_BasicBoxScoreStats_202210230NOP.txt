@@ -1,0 +1,32 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+23/10/2022;UTA;0;markkla01;Lauri Markkanen;39:16;9;17;.529;2;6;.333;11;11;1.000;3;9;12;2;2;1;2;3;31;+6
+23/10/2022;UTA;1;olynyke01;Kelly Olynyk;37:17;7;12;.583;2;3;.667;4;5;.800;1;2;3;5;1;0;1;4;20;-8
+23/10/2022;UTA;2;clarkjo01;Jordan Clarkson;36:44;7;19;.368;3;10;.300;1;2;.500;0;1;1;6;0;1;3;0;18;+4
+23/10/2022;UTA;3;conlemi01;Mike Conley;36:18;3;12;.250;1;6;.167;0;0;;0;2;2;8;0;1;1;1;7;-13
+23/10/2022;UTA;4;vandeja01;Jarred Vanderbilt;28:00;5;7;.714;2;3;.667;3;3;1.000;0;4;4;1;4;1;1;5;15;-4
+23/10/2022;UTA;5;Reserves;Reserves
+23/10/2022;UTA;6;kesslwa01;Walker Kessler;22:16;3;6;.500;0;0;;1;2;.500;6;3;9;2;0;2;0;2;7;+9
+23/10/2022;UTA;7;beaslma01;Malik Beasley;20:58;2;5;.400;0;2;.000;0;1;.000;0;1;1;2;1;0;2;1;4;+2
+23/10/2022;UTA;8;sextoco01;Collin Sexton;18:51;2;10;.200;1;3;.333;3;4;.750;3;2;5;1;2;0;2;1;8;+11
+23/10/2022;UTA;9;gayru01;Rudy Gay;15:59;2;5;.400;1;3;.333;0;0;;2;2;4;2;2;0;2;3;5;+6
+23/10/2022;UTA;10;hortota01;Talen Horton-Tucker;9:12;3;5;.600;1;2;.500;0;0;;0;3;3;0;1;0;2;0;7;-8
+23/10/2022;UTA;11;fontesi01;Simone Fontecchio;0:09;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;0
+23/10/2022;UTA;12;agbajoc01;Ochai Agbaji;Did Not Play
+23/10/2022;UTA;13;alexani01;Nickeil Alexander-Walker;Did Not Play
+23/10/2022;UTA;14;bolmale01;Leandro Bolmaro;Did Not Play
+23/10/2022;UTA;0;mccolcj01;CJ McCollum;40:43;12;25;.480;2;8;.250;2;2;1.000;0;4;4;12;1;0;2;2;28;+9
+23/10/2022;UTA;1;joneshe01;Herbert Jones;35:27;3;9;.333;0;3;.000;3;5;.600;1;3;4;1;0;1;3;6;9;-1
+23/10/2022;UTA;2;willizi01;Zion Williamson;29:53;10;16;.625;0;0;;5;6;.833;2;4;6;1;1;2;4;3;25;-7
+23/10/2022;UTA;3;valanjo01;Jonas Valančiūnas;24:27;2;11;.182;0;1;.000;2;2;1.000;8;1;9;3;1;0;1;3;6;-7
+23/10/2022;UTA;4;ingrabr01;Brandon Ingram;10:49;4;5;.800;1;2;.500;1;2;.500;0;1;1;0;1;0;1;0;10;0
+23/10/2022;UTA;5;Reserves;Reserves
+23/10/2022;UTA;6;murphtr02;Trey Murphy III;39:42;6;11;.545;3;4;.750;1;1;1.000;1;8;9;1;0;0;2;4;16;+14
+23/10/2022;UTA;7;nancela02;Larry Nance Jr.;28:33;5;10;.500;0;2;.000;0;0;;2;5;7;6;0;0;0;0;10;+6
+23/10/2022;UTA;8;alvarjo01;Jose Alvarado;24:10;3;6;.500;1;3;.333;0;0;;0;3;3;4;1;1;3;1;7;-5
+23/10/2022;UTA;9;grahade01;Devonte' Graham;14:55;1;2;.500;1;1;1.000;0;0;;0;1;1;2;1;1;1;1;3;+1
+23/10/2022;UTA;10;marshna01;Naji Marshall;13:30;2;6;.333;0;2;.000;3;4;.750;0;1;1;0;2;1;0;1;7;-7
+23/10/2022;UTA;11;hayesja02;Jaxson Hayes;2:51;0;1;.000;0;1;.000;0;0;;0;0;0;0;0;0;0;1;0;-8
+23/10/2022;UTA;12;daniedy01;Dyson Daniels;Did Not Play
+23/10/2022;UTA;13;hernawi01;Willy Hernangómez;Did Not Play
+23/10/2022;UTA;14;seabrde01;Dereon Seabron;Did Not Play
+23/10/2022;UTA;15;templga01;Garrett Temple;Did Not Play

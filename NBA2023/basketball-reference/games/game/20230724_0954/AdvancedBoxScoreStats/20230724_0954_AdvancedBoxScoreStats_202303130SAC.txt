@@ -1,0 +1,33 @@
+dateId;teamId;order;playerId;Starters;MP;TS%;eFG%;3PAr;FTr;ORB%;DRB%;TRB%;AST%;STL%;BLK%;TOV%;USG%;ORtg;DRtg;BPM
+13/03/2023;MIL;0;lopezbr01;Brook Lopez;36:35;.773;.786;.429;.143;3.7;17.3;11.9;13.7;0.0;7.3;6.3;19.3;147;119;9.4
+13/03/2023;MIL;1;holidjr01;Jrue Holiday;34:23;.533;.500;.556;.333;4.0;13.2;9.5;25.1;1.4;2.6;8.8;14.7;130;120;1.5
+13/03/2023;MIL;2;antetgi01;Giannis Antetokounmpo;33:57;.740;.714;.071;.250;4.0;29.3;19.3;24.4;1.4;0.0;13.9;47.4;126;115;10.8
+13/03/2023;MIL;3;middlkh01;Khris Middleton;33:48;.837;.767;.533;.533;0.0;8.0;4.8;34.3;0.0;0.0;0.0;24.4;178;127;16.0
+13/03/2023;MIL;4;allengr01;Grayson Allen;28:20;.667;.667;.667;.000;0.0;9.6;5.8;3.8;0.0;0.0;33.3;14.2;84;127;-7.3
+13/03/2023;MIL;5;Reserves;Reserves
+13/03/2023;MIL;6;connapa01;Pat Connaughton;21:28;.333;.333;.667;.000;0.0;12.7;7.6;4.7;0.0;0.0;25.0;8.3;64;125;-8.2
+13/03/2023;MIL;7;crowdja01;Jae Crowder;19:21;.400;.400;.400;.000;7.1;14.0;11.3;11.0;0.0;0.0;0.0;11.5;112;125;-5.0
+13/03/2023;MIL;8;portibo01;Bobby Portis;18:52;.798;1.000;.000;2.000;7.3;9.6;8.7;0.0;0.0;0.0;34.7;6.8;116;127;-5.5
+13/03/2023;MIL;9;carteje01;Jevon Carter;13:12;.500;.500;.800;.000;0.0;6.9;4.1;0.0;0.0;0.0;0.0;16.9;96;128;-8.1
+13/03/2023;MIL;10;antetth01;Thanasis Antetokounmpo;Did Not Play
+13/03/2023;MIL;11;beaucma01;MarJon Beauchamp;Did Not Play
+13/03/2023;MIL;12;dragigo01;Goran Dragić;Did Not Play
+13/03/2023;MIL;13;greenaj01;A.J. Green;Did Not Play
+13/03/2023;MIL;14;leoname01;Meyers Leonard;Did Not Play
+13/03/2023;MIL;15;matthwe02;Wesley Matthews;Did Not Play
+13/03/2023;MIL;0;sabondo01;Domantas Sabonis;39:06;.500;.500;.087;.000;23.2;24.6;23.7;56.7;0.0;0.0;4.2;24.6;142;133;11.7
+13/03/2023;MIL;1;foxde01;De'Aaron Fox;36:34;.683;.674;.522;.261;5.0;22.5;11.9;13.6;2.6;2.5;10.5;31.4;125;125;10.9
+13/03/2023;MIL;2;barneha02;Harrison Barnes;30:22;.678;.611;.889;.333;3.0;13.5;7.2;0.0;0.0;0.0;8.8;15.0;128;134;-3.1
+13/03/2023;MIL;3;huertke01;Kevin Huerter;27:47;.824;.824;.647;.000;0.0;4.9;2.0;18.0;0.0;0.0;0.0;24.6;161;135;14.3
+13/03/2023;MIL;4;murrake02;Keegan Murray;22:10;.444;.357;.571;.286;0.0;12.4;4.9;0.0;0.0;0.0;11.3;16.1;85;134;-14.1
+13/03/2023;MIL;5;Reserves;Reserves
+13/03/2023;MIL;6;lylestr01;Trey Lyles;25:50;.429;.429;.857;.000;3.5;31.9;14.8;17.6;0.0;0.0;0.0;10.9;124;133;-1.2
+13/03/2023;MIL;7;monkma01;Malik Monk;20:01;.338;.375;.125;.250;4.5;6.9;5.5;30.9;4.7;0.0;18.4;21.8;85;124;-5.1
+13/03/2023;MIL;8;edwarke02;Kessler Edwards;17:47;.000;.000;.667;.000;0.0;7.7;3.1;0.0;0.0;0.0;0.0;6.8;0;135;-16.3
+13/03/2023;MIL;9;mitchda01;Davion Mitchell;11:26;.000;.000;.667;.000;0.0;12.0;4.8;9.1;0.0;0.0;25.0;14.0;19;134;-22.6
+13/03/2023;MIL;10;metuch01;Chimezie Metu;8:54;.512;.375;.500;.500;0.0;30.8;12.3;0.0;0.0;10.2;0.0;22.0;116;123;-6.1
+13/03/2023;MIL;11;daviste02;Terence Davis;Did Not Play
+13/03/2023;MIL;12;dellama01;Matthew Dellavedova;Did Not Play
+13/03/2023;MIL;13;doziepj01;PJ Dozier;Did Not Play
+13/03/2023;MIL;14;holmeri01;Richaun Holmes;Did Not Play
+13/03/2023;MIL;15;lenal01;Alex Len;Did Not Play

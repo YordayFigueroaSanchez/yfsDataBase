@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+01/04/2023;LAC;0;leonaka01;Kawhi Leonard;41:24;15;28;.536;4;8;.500;6;6;1.000;1;7;8;4;0;1;2;1;40;+3
+01/04/2023;LAC;1;westbru01;Russell Westbrook;39:39;9;18;.500;3;6;.500;3;5;.600;0;3;3;10;1;1;1;5;24;-7
+01/04/2023;LAC;2;powelno01;Norman Powell;31:59;4;9;.444;0;4;.000;4;4;1.000;1;4;5;2;1;0;6;4;12;+6
+01/04/2023;LAC;3;zubaciv01;Ivica Zubac;29:35;5;6;.833;0;0;;5;6;.833;1;5;6;0;0;1;0;4;15;+5
+01/04/2023;LAC;4;batumni01;Nicolas Batum;23:35;1;2;.500;0;1;.000;0;0;;1;2;3;3;0;0;0;2;2;+2
+01/04/2023;LAC;5;Reserves;Reserves
+01/04/2023;LAC;6;mannte01;Terance Mann;24:30;2;6;.333;2;3;.667;0;0;;3;1;4;3;1;1;1;4;6;-13
+01/04/2023;LAC;7;plumlma01;Mason Plumlee;18:12;3;5;.600;0;0;;0;0;;3;2;5;1;1;0;1;4;6;-13
+01/04/2023;LAC;8;covinro01;Robert Covington;15:53;1;4;.250;1;3;.333;1;2;.500;1;1;2;1;0;0;1;3;4;-13
+01/04/2023;LAC;9;hylanbo01;Bones Hyland;15:11;2;7;.286;1;4;.250;0;0;;0;1;1;1;1;0;1;2;5;-10
+01/04/2023;LAC;10;bostobr01;Brandon Boston Jr.;Did Not Play
+01/04/2023;LAC;11;coffeam01;Amir Coffey;Did Not Play
+01/04/2023;LAC;12;diabamo01;Moussa Diabaté;Did Not Play
+01/04/2023;LAC;13;moonxa01;Xavier Moon;Did Not Play
+01/04/2023;LAC;0;murphtr02;Trey Murphy III;38:47;4;8;.500;2;5;.400;9;11;.818;1;3;4;1;2;2;1;2;19;+10
+01/04/2023;LAC;1;ingrabr01;Brandon Ingram;38:44;13;23;.565;0;0;;10;11;.909;0;4;4;8;0;0;1;1;36;+1
+01/04/2023;LAC;2;mccolcj01;CJ McCollum;38:08;8;18;.444;1;5;.200;2;2;1.000;0;1;1;3;3;0;1;1;19;+4
+01/04/2023;LAC;3;joneshe01;Herbert Jones;29:51;2;3;.667;1;1;1.000;7;7;1.000;0;4;4;2;0;1;0;5;12;-1
+01/04/2023;LAC;4;valanjo01;Jonas Valančiūnas;28:05;10;18;.556;1;1;1.000;2;2;1.000;7;5;12;0;0;1;3;3;23;-1
+01/04/2023;LAC;5;Reserves;Reserves
+01/04/2023;LAC;6;nancela02;Larry Nance Jr.;19:55;1;6;.167;0;0;;0;0;;4;2;6;4;1;1;0;0;2;+9
+01/04/2023;LAC;7;richajo01;Josh Richardson;19:04;1;4;.250;1;3;.333;0;0;;0;4;4;1;0;0;1;2;3;+8
+01/04/2023;LAC;8;daniedy01;Dyson Daniels;14:03;2;4;.500;1;2;.500;0;0;;2;0;2;0;0;0;0;0;5;+2
+01/04/2023;LAC;9;marshna01;Naji Marshall;13:22;1;2;.500;0;0;;1;2;.500;0;3;3;2;0;0;0;1;3;+8
+01/04/2023;LAC;10;hayesja02;Jaxson Hayes;Did Not Play
+01/04/2023;LAC;11;hernawi01;Willy Hernangómez;Did Not Play
+01/04/2023;LAC;12;lewiski01;Kira Lewis Jr.;Did Not Play
+01/04/2023;LAC;13;seabrde01;Dereon Seabron;Did Not Play
+01/04/2023;LAC;14;templga01;Garrett Temple;Did Not Play

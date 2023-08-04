@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+11/12/2022;TOR;0;trentga02;Gary Trent Jr.;43:30;8;18;.444;3;8;.375;5;6;.833;0;3;3;1;1;0;1;1;24;-5
+11/12/2022;TOR;1;vanvlfr01;Fred VanVleet;42:18;4;11;.364;2;7;.286;10;12;.833;1;3;4;7;4;0;1;4;20;-5
+11/12/2022;TOR;2;barnesc01;Scottie Barnes;41:05;3;13;.231;1;3;.333;4;4;1.000;0;2;2;0;1;0;1;5;11;-16
+11/12/2022;TOR;3;siakapa01;Pascal Siakam;37:40;6;16;.375;0;4;.000;7;9;.778;1;5;6;7;1;1;4;4;19;-4
+11/12/2022;TOR;4;kolokch01;Christian Koloko;6:35;1;1;1.000;0;0;;0;0;;0;1;1;0;1;2;0;3;2;-3
+11/12/2022;TOR;5;Reserves;Reserves
+11/12/2022;TOR;6;bouchch01;Chris Boucher;27:44;3;8;.375;0;1;.000;6;6;1.000;3;2;5;0;1;2;0;3;12;-8
+11/12/2022;TOR;7;birchkh01;Khem Birch;18:14;4;5;.800;0;1;.000;1;1;1.000;0;1;1;0;0;1;1;2;9;-6
+11/12/2022;TOR;8;youngth01;Thaddeus Young;16:12;1;2;.500;0;1;.000;0;0;;1;2;3;2;0;1;0;3;2;-8
+11/12/2022;TOR;9;bantoda01;Dalano Banton;6:42;0;1;.000;0;0;;0;0;;1;2;3;1;0;0;1;0;0;-5
+11/12/2022;TOR;10;achiupr01;Precious Achiuwa;Did Not Dress
+11/12/2022;TOR;11;anunoog01;OG Anunoby;Did Not Dress
+11/12/2022;TOR;12;flynnma01;Malachi Flynn;Did Not Play
+11/12/2022;TOR;0;banchpa01;Paolo Banchero;36:36;6;14;.429;2;5;.400;6;8;.750;4;8;12;5;1;1;4;1;20;+5
+11/12/2022;TOR;1;wagnefr01;Franz Wagner;36:24;6;14;.429;3;5;.600;8;10;.800;1;2;3;4;0;1;1;3;23;+13
+11/12/2022;TOR;2;fultzma01;Markelle Fultz;23:19;2;5;.400;0;2;.000;3;4;.750;0;1;1;4;0;0;5;5;7;+1
+11/12/2022;TOR;3;bolbo01;Bol Bol;22:04;3;4;.750;0;1;.000;0;0;;1;4;5;2;0;3;1;0;6;-6
+11/12/2022;TOR;4;wagnemo01;Moritz Wagner;20:49;2;8;.250;2;4;.500;0;0;;2;1;3;1;0;0;1;5;6;-2
+11/12/2022;TOR;5;Reserves;Reserves
+11/12/2022;TOR;6;anthoco01;Cole Anthony;29:22;5;9;.556;1;3;.333;3;3;1.000;1;5;6;6;1;0;1;4;14;+11
+11/12/2022;TOR;7;bambamo01;Mo Bamba;23:27;6;6;1.000;2;2;1.000;4;5;.800;1;8;9;1;0;2;0;4;18;+11
+11/12/2022;TOR;8;rosste01;Terrence Ross;23:07;3;6;.500;2;3;.667;0;0;;0;1;1;0;1;0;0;1;8;+16
+11/12/2022;TOR;9;harrike01;Kevon Harris;16:00;2;7;.286;2;4;.500;0;0;;1;0;1;0;0;0;1;1;6;+7
+11/12/2022;TOR;10;schofad01;Admiral Schofield;8:52;1;4;.250;0;2;.000;1;1;1.000;0;1;1;2;0;0;0;4;3;+4
+11/12/2022;TOR;11;hamptrj01;R.J. Hampton;Did Not Play
+11/12/2022;TOR;12;houstca01;Caleb Houstan;Did Not Play

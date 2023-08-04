@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+11/02/2023;CHI;0;derozde01;DeMar DeRozan;39:55;6;10;.600;2;5;.400;2;3;.667;0;1;1;6;0;0;4;3;16;-6
+11/02/2023;CHI;1;vucevni01;Nikola Vučević;36:26;7;13;.538;0;4;.000;0;0;;0;14;14;4;0;1;0;2;14;-3
+11/02/2023;CHI;2;lavinza01;Zach LaVine;36:02;8;16;.500;2;5;.400;5;5;1.000;0;5;5;2;1;1;5;3;23;-1
+11/02/2023;CHI;3;willipa01;Patrick Williams;33:07;6;10;.600;1;3;.333;0;0;;1;5;6;3;4;0;1;2;13;+6
+11/02/2023;CHI;4;dosunay01;Ayo Dosunmu;26:51;3;6;.500;0;0;;0;0;;0;1;1;8;2;0;2;2;6;+2
+11/02/2023;CHI;5;Reserves;Reserves
+11/02/2023;CHI;6;carusal01;Alex Caruso;21:08;0;0;;0;0;;0;0;;0;4;4;1;0;0;1;3;0;-12
+11/02/2023;CHI;7;whiteco01;Coby White;20:03;1;9;.111;0;4;.000;2;2;1.000;1;3;4;3;0;0;3;2;4;-9
+11/02/2023;CHI;8;drumman01;Andre Drummond;11:34;4;6;.667;0;0;;0;1;.000;0;5;5;0;0;1;4;3;8;-5
+11/02/2023;CHI;9;jonesde02;Derrick Jones Jr.;11:23;1;4;.250;0;0;;3;4;.750;4;0;4;0;0;0;0;0;5;-13
+11/02/2023;CHI;10;dragigo01;Goran Dragić;3:31;0;0;;0;0;;0;0;;0;0;0;0;0;0;2;2;0;+1
+11/02/2023;CHI;11;bradlto01;Tony Bradley;Did Not Play
+11/02/2023;CHI;12;terryda01;Dalen Terry;Did Not Play
+11/02/2023;CHI;0;mitchdo01;Donovan Mitchell;38:53;10;18;.556;3;7;.429;6;6;1.000;3;7;10;6;1;2;2;1;29;+9
+11/02/2023;CHI;1;garlada01;Darius Garland;37:13;6;14;.429;3;6;.500;4;4;1.000;0;2;2;7;0;0;5;4;19;+1
+11/02/2023;CHI;2;mobleev01;Evan Mobley;35:39;6;13;.462;2;4;.500;0;0;;1;5;6;3;2;0;2;4;14;+2
+11/02/2023;CHI;3;allenja01;Jarrett Allen;33:10;10;13;.769;0;0;;3;5;.600;4;6;10;0;0;1;2;3;23;+3
+11/02/2023;CHI;4;okorois01;Isaac Okoro;27:00;3;9;.333;1;5;.200;0;0;;0;3;3;0;1;0;0;0;7;0
+11/02/2023;CHI;5;Reserves;Reserves
+11/02/2023;CHI;6;leverca01;Caris LeVert;26:18;0;4;.000;0;2;.000;1;2;.500;1;1;2;2;1;0;0;2;1;+13
+11/02/2023;CHI;7;rubiori01;Ricky Rubio;16:51;0;6;.000;0;5;.000;0;0;;0;1;1;5;3;1;1;0;0;+14
+11/02/2023;CHI;8;osmande01;Cedi Osman;13:45;1;4;.250;0;3;.000;2;2;1.000;0;2;2;2;1;0;0;0;4;+3
+11/02/2023;CHI;9;wadede01;Dean Wade;11:11;0;5;.000;0;3;.000;0;0;;1;2;3;1;0;0;0;1;0;-5
+11/02/2023;CHI;10;diakima01;Mamadi Diakite;Did Not Play
+11/02/2023;CHI;11;lopezro01;Robin Lopez;Did Not Play
+11/02/2023;CHI;12;loveke01;Kevin Love;Did Not Play
+11/02/2023;CHI;13;netora01;Raul Neto;Did Not Play
+11/02/2023;CHI;14;stevela01;Lamar Stevens;Did Not Play
+11/02/2023;CHI;15;windldy01;Dylan Windler;Did Not Play

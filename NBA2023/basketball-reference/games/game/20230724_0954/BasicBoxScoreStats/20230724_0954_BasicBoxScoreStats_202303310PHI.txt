@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+31/03/2023;TOR;0;vanvlfr01;Fred VanVleet;41:45;5;17;.294;3;10;.300;6;7;.857;0;5;5;6;1;0;6;5;19;
+31/03/2023;TOR;1;siakapa01;Pascal Siakam;41:37;5;15;.333;1;3;.333;3;4;.750;0;4;4;7;0;0;2;2;14;
+31/03/2023;TOR;2;anunoog01;OG Anunoby;41:26;6;12;.500;3;8;.375;2;2;1.000;1;2;3;3;1;1;1;5;17;
+31/03/2023;TOR;3;barnesc01;Scottie Barnes;39:51;13;19;.684;0;1;.000;3;4;.750;7;2;9;8;4;1;2;3;29;
+31/03/2023;TOR;4;poeltja01;Jakob Poeltl;33:25;6;8;.750;0;0;;2;4;.500;4;6;10;2;0;0;2;2;14;
+31/03/2023;TOR;5;Reserves;Reserves
+31/03/2023;TOR;6;bouchch01;Chris Boucher;18:27;3;5;.600;1;2;.500;2;2;1.000;0;1;1;0;0;0;0;1;9;
+31/03/2023;TOR;7;dowtije01;Jeff Dowtin;8:54;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;
+31/03/2023;TOR;8;kolokch01;Christian Koloko;7:27;2;3;.667;0;0;;0;0;;1;0;1;0;0;0;0;1;4;
+31/03/2023;TOR;9;achiupr01;Precious Achiuwa;7:08;2;5;.400;0;2;.000;0;0;;1;0;1;0;0;1;0;0;4;
+31/03/2023;TOR;10;flynnma01;Malachi Flynn;Did Not Play
+31/03/2023;TOR;11;harpero02;Ron Harper Jr.;Did Not Play
+31/03/2023;TOR;12;youngth01;Thaddeus Young;Did Not Play
+31/03/2023;TOR;0;hardeja01;James Harden;37:06;9;14;.643;3;6;.500;2;2;1.000;1;2;3;11;2;1;6;2;23;
+31/03/2023;TOR;1;maxeyty01;Tyrese Maxey;36:31;5;8;.625;2;4;.500;1;1;1.000;0;0;0;6;0;0;0;2;13;
+31/03/2023;TOR;2;embiijo01;Joel Embiid;33:34;7;13;.538;0;2;.000;11;12;.917;1;11;12;1;0;1;5;3;25;
+31/03/2023;TOR;3;meltode01;De'Anthony Melton;32:36;5;9;.556;0;3;.000;3;4;.750;1;3;4;3;3;1;1;2;13;
+31/03/2023;TOR;4;tuckepj01;P.J. Tucker;25:43;3;7;.429;3;6;.500;0;0;;2;4;6;1;0;0;1;2;9;
+31/03/2023;TOR;5;Reserves;Reserves
+31/03/2023;TOR;6;mcdanja01;Jalen McDaniels;20:57;3;4;.750;1;1;1.000;0;0;;0;3;3;1;1;2;1;1;7;
+31/03/2023;TOR;7;miltosh01;Shake Milton;15:01;1;2;.500;1;1;1.000;0;0;;0;1;1;2;0;0;0;2;3;
+31/03/2023;TOR;8;reedpa01;Paul Reed;14:26;3;5;.600;0;0;;5;5;1.000;4;2;6;2;0;1;1;0;11;
+31/03/2023;TOR;9;houseda01;Danuel House Jr.;12:12;3;5;.600;1;3;.333;1;1;1.000;0;1;1;1;0;0;0;2;8;
+31/03/2023;TOR;10;niangge01;Georges Niang;11:54;2;6;.333;1;5;.200;0;0;;0;1;1;0;1;0;1;4;5;
+31/03/2023;TOR;11;dedmode01;Dewayne Dedmon;Did Not Play
+31/03/2023;TOR;12;harremo01;Montrezl Harrell;Did Not Play
+31/03/2023;TOR;13;korkmfu01;Furkan Korkmaz;Did Not Play
+31/03/2023;TOR;14;sprinja01;Jaden Springer;Did Not Play

@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+10/11/2022;CHO;0;roziete01;Terry Rozier;43:23;8;25;.320;3;10;.300;3;4;.750;3;5;8;3;0;0;1;2;22;+1
+10/11/2022;CHO;1;plumlma01;Mason Plumlee;38:50;4;4;1.000;0;0;;5;7;.714;2;13;15;5;0;0;3;4;13;+4
+10/11/2022;CHO;2;oubreke01;Kelly Oubre Jr.;38:44;11;20;.550;7;13;.538;0;0;;0;7;7;2;2;1;3;5;29;+2
+10/11/2022;CHO;3;washipj01;P.J. Washington;34:45;4;9;.444;1;3;.333;0;2;.000;0;5;5;0;0;0;4;5;9;-1
+10/11/2022;CHO;4;smithde03;Dennis Smith Jr.;33:33;6;9;.667;0;3;.000;0;0;;0;2;2;8;1;0;2;4;12;+10
+10/11/2022;CHO;5;Reserves;Reserves
+10/11/2022;CHO;6;mcdanja01;Jalen McDaniels;34:10;6;10;.600;3;5;.600;1;2;.500;1;3;4;4;0;0;3;4;16;-5
+10/11/2022;CHO;7;bouknja01;James Bouknight;17:10;0;5;.000;0;4;.000;1;2;.500;0;3;3;0;0;0;1;2;1;-12
+10/11/2022;CHO;8;richani01;Nick Richards;14:10;4;4;1.000;0;0;;2;3;.667;2;2;4;0;1;1;1;4;10;-9
+10/11/2022;CHO;9;maledth01;Théo Maledon;7:37;0;1;.000;0;1;.000;0;0;;0;2;2;1;0;0;1;0;0;-4
+10/11/2022;CHO;10;thorjt01;JT Thor;2:38;0;1;.000;0;0;;0;0;;0;0;0;0;0;0;1;0;0;-11
+10/11/2022;CHO;11;joneska01;Kai Jones;Did Not Play
+10/11/2022;CHO;12;mcgowbr01;Bryce McGowens;Not With Team
+10/11/2022;CHO;13;willima07;Mark Williams;Not With Team
+10/11/2022;CHO;0;butleji01;Jimmy Butler;42:19;11;19;.579;0;1;.000;13;15;.867;3;7;10;8;2;0;2;2;35;+11
+10/11/2022;CHO;1;strusma01;Max Strus;39:43;5;15;.333;2;11;.182;0;0;;0;1;1;1;2;0;1;3;12;+3
+10/11/2022;CHO;2;lowryky01;Kyle Lowry;38:50;3;6;.500;2;5;.400;2;2;1.000;0;3;3;3;0;1;1;1;10;0
+10/11/2022;CHO;3;adebaba01;Bam Adebayo;38:36;6;15;.400;0;1;.000;6;6;1.000;2;12;14;4;2;0;5;5;18;+9
+10/11/2022;CHO;4;martica02;Caleb Martin;30:45;3;8;.375;2;4;.500;1;2;.500;2;2;4;2;1;0;1;2;9;+4
+10/11/2022;CHO;5;Reserves;Reserves
+10/11/2022;CHO;6;vincega01;Gabe Vincent;37:49;3;11;.273;2;7;.286;4;4;1.000;0;4;4;2;1;0;0;4;12;+2
+10/11/2022;CHO;7;robindu01;Duncan Robinson;22:34;5;10;.500;2;6;.333;2;3;.667;0;0;0;1;0;0;0;3;14;0
+10/11/2022;CHO;8;dedmode01;Dewayne Dedmon;14:24;3;6;.500;0;1;.000;1;4;.250;1;1;2;0;1;0;0;5;7;-4
+10/11/2022;CHO;9;hasleud01;Udonis Haslem;Did Not Play
+10/11/2022;CHO;10;highsha01;Haywood Highsmith;Did Not Play
+10/11/2022;CHO;11;jovicni01;Nikola Jović;Did Not Play
+10/11/2022;CHO;12;smithdr01;Dru Smith;Did Not Play

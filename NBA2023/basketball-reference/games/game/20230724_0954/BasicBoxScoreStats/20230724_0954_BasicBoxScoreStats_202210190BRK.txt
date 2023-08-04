@@ -1,0 +1,32 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+19/10/2022;NOP;0;mccolcj01;CJ McCollum;31:03;7;16;.438;3;9;.333;4;5;.800;1;3;4;6;3;0;1;2;21;+23
+19/10/2022;NOP;1;ingrabr01;Brandon Ingram;31:00;10;17;.588;2;4;.500;6;9;.667;0;7;7;5;1;0;4;3;28;+24
+19/10/2022;NOP;2;willizi01;Zion Williamson;30:03;11;22;.500;0;0;;3;4;.750;3;6;9;3;4;0;2;3;25;+13
+19/10/2022;NOP;3;joneshe01;Herbert Jones;27:58;2;7;.286;1;3;.333;1;1;1.000;3;1;4;3;0;1;0;3;6;+34
+19/10/2022;NOP;4;valanjo01;Jonas Valančiūnas;26:37;6;13;.462;1;1;1.000;2;2;1.000;6;7;13;2;0;1;1;1;15;+28
+19/10/2022;NOP;5;Reserves;Reserves
+19/10/2022;NOP;6;murphtr02;Trey Murphy III;23:57;5;7;.714;4;6;.667;2;3;.667;4;5;9;2;0;1;1;4;16;+4
+19/10/2022;NOP;7;nancela02;Larry Nance Jr.;21:23;4;6;.667;0;0;;0;1;.000;3;6;9;2;1;1;3;1;8;-6
+19/10/2022;NOP;8;alvarjo01;Jose Alvarado;15:43;3;6;.500;1;2;.500;0;0;;0;2;2;2;0;0;0;2;7;+3
+19/10/2022;NOP;9;grahade01;Devonte' Graham;15:02;0;3;.000;0;1;.000;0;0;;0;0;0;2;0;0;0;0;0;-4
+19/10/2022;NOP;10;marshna01;Naji Marshall;14:02;2;4;.500;0;0;;0;0;;1;3;4;2;0;0;0;1;4;-7
+19/10/2022;NOP;11;daniedy01;Dyson Daniels;3:12;0;1;.000;0;0;;0;0;;0;0;0;2;0;0;0;1;0;-2
+19/10/2022;NOP;12;hayesja02;Jaxson Hayes;Did Not Dress
+19/10/2022;NOP;13;hernawi01;Willy Hernangómez;Did Not Play
+19/10/2022;NOP;14;seabrde01;Dereon Seabron;Did Not Play
+19/10/2022;NOP;15;templga01;Garrett Temple;Did Not Play
+19/10/2022;NOP;0;irvinky01;Kyrie Irving;34:10;6;19;.316;0;6;.000;3;3;1.000;0;2;2;5;2;0;2;3;15;-18
+19/10/2022;NOP;1;onealro01;Royce O'Neale;34:09;4;7;.571;2;3;.667;0;0;;1;6;7;3;3;2;0;4;10;-27
+19/10/2022;NOP;2;duranke01;Kevin Durant;31:46;11;21;.524;2;6;.333;8;9;.889;0;3;3;2;1;4;4;4;32;-23
+19/10/2022;NOP;3;claxtni01;Nic Claxton;24:47;6;7;.857;0;0;;1;2;.500;3;7;10;0;1;2;4;3;13;-15
+19/10/2022;NOP;4;simmobe01;Ben Simmons;23:10;2;3;.667;0;0;;0;2;.000;0;5;5;5;0;0;3;6;4;-26
+19/10/2022;NOP;5;Reserves;Reserves
+19/10/2022;NOP;6;millspa02;Patty Mills;22:40;5;10;.500;4;9;.444;2;2;1.000;0;1;1;0;0;0;0;0;16;-2
+19/10/2022;NOP;7;sharpda01;Day'Ron Sharpe;22:31;1;8;.125;0;1;.000;2;2;1.000;5;3;8;1;2;2;0;4;4;-10
+19/10/2022;NOP;8;sumneed01;Edmond Sumner;18:54;2;5;.400;0;3;.000;2;2;1.000;0;1;1;3;0;0;3;1;6;+2
+19/10/2022;NOP;9;thomaca02;Cam Thomas;12:42;1;4;.250;0;1;.000;0;0;;0;0;0;1;0;0;0;0;2;+3
+19/10/2022;NOP;10;watanyu01;Yuta Watanabe;8:35;0;1;.000;0;1;.000;0;2;.000;0;0;0;0;0;0;0;0;0;+2
+19/10/2022;NOP;11;edwarke02;Kessler Edwards;3:52;1;3;.333;1;2;.500;0;0;;0;2;2;2;1;0;0;0;3;-1
+19/10/2022;NOP;12;morrima02;Markieff Morris;2:44;1;1;1.000;1;1;1.000;0;0;;0;0;0;0;0;0;0;0;3;+5
+19/10/2022;NOP;13;dukeda01;David Duke Jr.;Did Not Play
+19/10/2022;NOP;14;willial06;Alondes Williams;Did Not Play

@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+18/03/2023;ORL;0;banchpa01;Paolo Banchero;36:24;4;11;.364;0;3;.000;4;9;.444;1;5;6;6;1;1;4;1;12;+1
+18/03/2023;ORL;1;fultzma01;Markelle Fultz;34:33;10;17;.588;1;2;.500;7;8;.875;2;4;6;4;4;1;2;2;28;-5
+18/03/2023;ORL;2;cartewe01;Wendell Carter Jr.;32:55;11;19;.579;4;8;.500;1;1;1.000;2;10;12;2;3;2;3;2;27;+13
+18/03/2023;ORL;3;wagnefr01;Franz Wagner;32:49;7;13;.538;2;7;.286;4;4;1.000;0;4;4;4;1;0;4;4;20;+9
+18/03/2023;ORL;4;harriga01;Gary Harris;29:58;2;5;.400;2;4;.500;0;0;;0;1;1;1;0;1;1;0;6;+6
+18/03/2023;ORL;5;Reserves;Reserves
+18/03/2023;ORL;6;anthoco01;Cole Anthony;28:59;7;14;.500;1;4;.250;3;3;1.000;2;6;8;2;1;0;1;3;18;0
+18/03/2023;ORL;7;houstca01;Caleb Houstan;15:50;0;1;.000;0;1;.000;0;0;;0;2;2;0;1;0;0;2;0;-1
+18/03/2023;ORL;8;bitadgo01;Goga Bitadze;15:05;0;2;.000;0;1;.000;0;0;;1;2;3;2;1;0;0;3;0;-8
+18/03/2023;ORL;9;harrike01;Kevon Harris;8:13;1;1;1.000;0;0;;0;0;;1;1;2;0;2;0;0;3;2;+5
+18/03/2023;ORL;10;bolbo01;Bol Bol;5:14;0;1;.000;0;1;.000;0;0;;0;1;1;2;0;0;2;2;0;+5
+18/03/2023;ORL;11;cartemi01;Michael Carter-Williams;Did Not Play
+18/03/2023;ORL;12;okekech01;Chuma Okeke;Did Not Play
+18/03/2023;ORL;13;schofad01;Admiral Schofield;Did Not Play
+18/03/2023;ORL;14;wagnemo01;Moritz Wagner;Did Not Play
+18/03/2023;ORL;0;westbru01;Russell Westbrook;37:05;5;14;.357;0;3;.000;4;7;.571;2;3;5;9;1;0;6;2;14;-15
+18/03/2023;ORL;1;georgpa01;Paul George;36:49;12;25;.480;2;7;.286;4;4;1.000;0;3;3;1;2;0;6;4;30;-7
+18/03/2023;ORL;2;morrima03;Marcus Morris;31:20;5;8;.625;1;2;.500;2;3;.667;0;3;3;1;2;0;0;4;13;-3
+18/03/2023;ORL;3;gordoer01;Eric Gordon;31:11;3;8;.375;1;3;.333;0;0;;1;1;2;4;0;1;1;3;7;-5
+18/03/2023;ORL;4;zubaciv01;Ivica Zubac;27:14;7;16;.438;0;0;;2;2;1.000;7;9;16;0;0;2;2;2;16;-2
+18/03/2023;ORL;5;Reserves;Reserves
+18/03/2023;ORL;6;covinro01;Robert Covington;22:32;4;7;.571;1;2;.500;2;2;1.000;0;1;1;1;3;0;0;2;11;+6
+18/03/2023;ORL;7;plumlma01;Mason Plumlee;19:14;2;3;.667;0;0;;4;6;.667;1;9;10;3;1;0;0;4;8;-3
+18/03/2023;ORL;8;mannte01;Terance Mann;17:55;3;5;.600;0;2;.000;0;0;;1;0;1;1;0;0;0;1;6;+6
+18/03/2023;ORL;9;batumni01;Nicolas Batum;16:40;1;4;.250;1;3;.333;0;0;;1;1;2;3;0;0;0;2;3;-2
+18/03/2023;ORL;10;coffeam01;Amir Coffey;Did Not Play
+18/03/2023;ORL;11;diabamo01;Moussa Diabaté;Did Not Play
+18/03/2023;ORL;12;hylanbo01;Bones Hyland;Did Not Play
+18/03/2023;ORL;13;prestja01;Jason Preston;Did Not Play

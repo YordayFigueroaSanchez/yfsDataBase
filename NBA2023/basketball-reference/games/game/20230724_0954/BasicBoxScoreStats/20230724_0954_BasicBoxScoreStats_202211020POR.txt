@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+02/11/2022;MEM;0;banede01;Desmond Bane;36:49;7;16;.438;5;8;.625;10;11;.909;1;7;8;5;0;0;3;1;29;+6
+02/11/2022;MEM;1;adamsst01;Steven Adams;33:37;6;9;.667;0;0;;2;3;.667;4;7;11;5;0;2;1;2;14;-6
+02/11/2022;MEM;2;moranja01;Ja Morant;32:04;7;19;.368;0;2;.000;6;7;.857;0;9;9;7;2;0;8;1;20;+1
+02/11/2022;MEM;3;brookdi01;Dillon Brooks;29:34;3;7;.429;1;2;.500;2;2;1.000;0;2;2;0;1;0;0;3;9;-2
+02/11/2022;MEM;4;aldamsa01;Santi Aldama;28:59;4;8;.500;2;4;.500;1;2;.500;3;4;7;0;0;2;0;3;11;0
+02/11/2022;MEM;5;Reserves;Reserves
+02/11/2022;MEM;6;jonesty01;Tyus Jones;23:51;1;6;.167;0;2;.000;0;0;;0;0;0;5;1;0;0;2;2;-1
+02/11/2022;MEM;7;konchjo01;John Konchar;22:05;4;6;.667;2;4;.500;0;0;;2;3;5;4;1;0;1;2;10;+13
+02/11/2022;MEM;8;roddyda01;David Roddy;19:01;3;6;.500;3;6;.500;1;2;.500;0;1;1;2;2;0;0;3;10;+5
+02/11/2022;MEM;9;clarkbr01;Brandon Clarke;14:00;3;6;.500;0;0;;0;0;;0;3;3;0;0;1;1;2;6;+9
+02/11/2022;MEM;10;chandke01;Kennedy Chandler;Did Not Play
+02/11/2022;MEM;11;laravja01;Jake LaRavia;Did Not Play
+02/11/2022;MEM;12;loftoke01;Kenneth Lofton Jr.;Did Not Play
+02/11/2022;MEM;13;tillmxa01;Xavier Tillman Sr.;Did Not Play
+02/11/2022;MEM;14;willivi01;Vince Williams Jr.;Did Not Play
+02/11/2022;MEM;0;simonan01;Anfernee Simons;39:53;10;21;.476;4;11;.364;7;8;.875;0;3;3;8;0;0;4;3;31;+5
+02/11/2022;MEM;1;hartjo01;Josh Hart;39:37;1;4;.250;0;1;.000;3;5;.600;2;4;6;4;1;1;3;4;5;-8
+02/11/2022;MEM;2;grantje01;Jerami Grant;38:17;7;18;.389;3;9;.333;6;7;.857;0;5;5;3;0;1;4;1;23;+8
+02/11/2022;MEM;3;nurkiju01;Jusuf Nurkić;34:44;8;14;.571;3;3;1.000;4;4;1.000;6;7;13;4;1;0;3;5;23;+12
+02/11/2022;MEM;4;sharpsh01;Shaedon Sharpe;24:08;1;6;.167;0;1;.000;0;0;;0;2;2;0;2;1;0;1;2;-6
+02/11/2022;MEM;5;Reserves;Reserves
+02/11/2022;MEM;6;winslju01;Justise Winslow;23:22;1;6;.167;0;0;;0;0;;4;4;8;4;1;0;1;0;2;-11
+02/11/2022;MEM;7;johnske07;Keon Johnson;17:34;4;9;.444;2;5;.400;0;0;;1;4;5;3;0;0;1;1;10;-3
+02/11/2022;MEM;8;littlna01;Nassir Little;12:14;1;5;.200;1;3;.333;0;0;;0;1;1;1;0;0;1;0;3;-9
+02/11/2022;MEM;9;eubandr01;Drew Eubanks;10:11;3;6;.500;0;0;;1;2;.500;3;0;3;0;0;0;3;2;7;-13
+02/11/2022;MEM;10;browngr01;Greg Brown III;Did Not Play
+02/11/2022;MEM;11;lillada01;Damian Lillard;Did Not Dress
+02/11/2022;MEM;12;walkeja01;Jabari Walker;Did Not Play

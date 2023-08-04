@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+26/10/2022;HOU;0;greenja05;Jalen Green;36:04;6;20;.300;2;9;.222;3;4;.750;2;5;7;2;1;1;2;2;17;-19
+26/10/2022;HOU;1;porteke02;Kevin Porter Jr.;35:23;10;22;.455;0;4;.000;4;4;1.000;2;3;5;5;1;1;5;5;24;-3
+26/10/2022;HOU;2;smithja05;Jabari Smith Jr.;32:13;3;10;.300;2;6;.333;2;4;.500;1;8;9;0;1;0;2;4;10;-3
+26/10/2022;HOU;3;gordoer01;Eric Gordon;30:02;6;12;.500;2;7;.286;2;3;.667;0;2;2;3;2;0;1;0;16;-6
+26/10/2022;HOU;4;tateja01;Jae'Sean Tate;20:18;3;5;.600;1;1;1.000;0;0;;2;3;5;1;0;0;2;5;7;+5
+26/10/2022;HOU;5;Reserves;Reserves
+26/10/2022;HOU;6;martike04;Kenyon Martin Jr.;24:54;3;9;.333;0;2;.000;5;7;.714;2;8;10;3;0;0;1;4;11;+4
+26/10/2022;HOU;7;easonta01;Tari Eason;23:10;1;7;.143;1;4;.250;0;0;;3;3;6;1;1;0;0;4;3;-11
+26/10/2022;HOU;8;mathega01;Garrison Mathews;16:07;3;5;.600;3;5;.600;2;2;1.000;0;0;0;1;1;0;0;3;11;0
+26/10/2022;HOU;9;nixda01;Daishen Nix;11:31;0;3;.000;0;2;.000;0;0;;0;0;0;3;0;0;4;0;0;-1
+26/10/2022;HOU;10;garubus01;Usman Garuba;8:29;1;1;1.000;0;0;;0;0;;2;3;5;0;0;0;2;3;2;-5
+26/10/2022;HOU;11;marjabo01;Boban Marjanović;1:49;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;-1
+26/10/2022;HOU;12;chrisjo01;Josh Christopher;Did Not Play
+26/10/2022;HOU;13;hudgitr01;Trevor Hudgins;Did Not Play
+26/10/2022;HOU;0;markkla01;Lauri Markkanen;34:00;10;15;.667;1;4;.250;3;4;.750;1;8;9;3;0;1;4;1;24;+10
+26/10/2022;HOU;1;olynyke01;Kelly Olynyk;29:14;1;8;.125;0;2;.000;2;6;.333;3;5;8;6;1;0;4;6;4;+8
+26/10/2022;HOU;2;clarkjo01;Jordan Clarkson;28:55;6;14;.429;5;10;.500;3;4;.750;3;3;6;5;2;1;0;4;20;+8
+26/10/2022;HOU;3;conlemi01;Mike Conley;27:46;4;11;.364;3;8;.375;2;4;.500;0;3;3;5;1;0;3;5;13;+6
+26/10/2022;HOU;4;vandeja01;Jarred Vanderbilt;19:05;3;7;.429;0;1;.000;0;0;;2;6;8;2;0;0;1;6;6;+7
+26/10/2022;HOU;5;Reserves;Reserves
+26/10/2022;HOU;6;beaslma01;Malik Beasley;29:39;5;12;.417;2;7;.286;2;2;1.000;2;2;4;1;4;1;1;0;14;-4
+26/10/2022;HOU;7;hortota01;Talen Horton-Tucker;28:12;5;11;.455;2;7;.286;2;3;.667;0;7;7;4;2;0;0;3;14;+8
+26/10/2022;HOU;8;gayru01;Rudy Gay;15:43;2;6;.333;0;3;.000;2;2;1.000;0;6;6;1;0;1;0;0;6;-3
+26/10/2022;HOU;9;kesslwa01;Walker Kessler;11:03;0;1;.000;0;0;;4;4;1.000;0;1;1;1;0;1;1;2;4;-4
+26/10/2022;HOU;10;sextoco01;Collin Sexton;10:22;2;3;.667;0;1;.000;0;1;.000;0;0;0;0;1;0;1;1;4;+10
+26/10/2022;HOU;11;fontesi01;Simone Fontecchio;6:01;0;2;.000;0;2;.000;0;0;;0;1;1;0;0;0;0;0;0;-6
+26/10/2022;HOU;12;agbajoc01;Ochai Agbaji;Did Not Play
+26/10/2022;HOU;13;alexani01;Nickeil Alexander-Walker;Did Not Play
+26/10/2022;HOU;14;bolmale01;Leandro Bolmaro;Did Not Play

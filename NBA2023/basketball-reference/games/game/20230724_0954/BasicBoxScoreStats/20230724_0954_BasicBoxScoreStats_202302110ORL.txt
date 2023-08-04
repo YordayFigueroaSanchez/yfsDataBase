@@ -1,0 +1,26 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+11/02/2023;MIA;0;herroty01;Tyler Herro;46:59;10;23;.435;2;10;.200;1;1;1.000;0;2;2;1;0;0;4;5;23;+8
+11/02/2023;MIA;1;adebaba01;Bam Adebayo;43:23;5;10;.500;0;1;.000;3;4;.750;1;16;17;6;2;1;4;2;13;+13
+11/02/2023;MIA;2;vincega01;Gabe Vincent;41:07;6;12;.500;4;10;.400;4;4;1.000;1;1;2;2;1;0;2;4;20;+10
+11/02/2023;MIA;3;butleji01;Jimmy Butler;33:44;7;17;.412;0;1;.000;8;8;1.000;2;5;7;6;2;2;3;2;22;+14
+11/02/2023;MIA;4;martica02;Caleb Martin;25:34;2;6;.333;0;3;.000;4;4;1.000;3;4;7;1;2;1;1;1;8;0
+11/02/2023;MIA;5;Reserves;Reserves
+11/02/2023;MIA;6;strusma01;Max Strus;39:11;4;12;.333;4;11;.364;0;0;;1;3;4;7;0;0;3;4;12;+1
+11/02/2023;MIA;7;highsha01;Haywood Highsmith;16:07;2;4;.500;2;3;.667;0;0;;1;2;3;0;0;1;0;2;6;-9
+11/02/2023;MIA;8;robinor01;Orlando Robinson;9:37;1;1;1.000;0;0;;1;2;.500;2;2;4;1;0;0;1;1;3;-9
+11/02/2023;MIA;9;bouyeja01;Jamaree Bouyea;9:18;0;0;;0;0;;0;0;;0;0;0;0;0;1;1;1;0;-8
+11/02/2023;MIA;10;cainja01;Jamal Cain;Did Not Play
+11/02/2023;MIA;11;hasleud01;Udonis Haslem;Not With Team
+11/02/2023;MIA;0;wagnefr01;Franz Wagner;35:51;4;15;.267;0;4;.000;2;3;.667;0;4;4;4;1;0;4;3;10;0
+11/02/2023;MIA;1;banchpa01;Paolo Banchero;33:46;6;16;.375;0;4;.000;4;4;1.000;5;8;13;1;0;0;3;4;16;-8
+11/02/2023;MIA;2;fultzma01;Markelle Fultz;33:03;7;14;.500;1;2;.500;2;2;1.000;1;3;4;3;1;0;4;5;17;-12
+11/02/2023;MIA;3;cartewe01;Wendell Carter Jr.;31:45;4;5;.800;2;2;1.000;4;4;1.000;2;4;6;3;1;0;4;2;14;-12
+11/02/2023;MIA;4;harriga01;Gary Harris;28:01;2;9;.222;2;6;.333;0;0;;0;2;2;0;2;0;0;3;6;-14
+11/02/2023;MIA;5;Reserves;Reserves
+11/02/2023;MIA;6;suggsja01;Jalen Suggs;27:54;5;7;.714;3;4;.750;1;2;.500;0;0;0;2;4;3;0;2;14;+1
+11/02/2023;MIA;7;wagnemo01;Moritz Wagner;21:15;4;7;.571;2;4;.500;4;6;.667;2;1;3;2;2;1;0;3;14;+8
+11/02/2023;MIA;8;anthoco01;Cole Anthony;19:57;3;9;.333;1;3;.333;0;0;;1;3;4;6;0;1;0;1;7;+8
+11/02/2023;MIA;9;bolbo01;Bol Bol;19:13;1;2;.500;0;0;;0;0;;0;4;4;1;0;0;2;1;2;+4
+11/02/2023;MIA;10;isaacjo01;Jonathan Isaac;14:15;1;3;.333;0;0;;1;2;.500;1;3;4;0;1;0;1;0;3;+5
+11/02/2023;MIA;11;houstca01;Caleb Houstan;Did Not Play
+11/02/2023;MIA;12;schofad01;Admiral Schofield;Did Not Play

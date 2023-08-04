@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+04/02/2023;LAC;0;georgpa01;Paul George;41:48;9;16;.563;5;9;.556;7;7;1.000;0;8;8;5;1;0;4;3;30;+3
+04/02/2023;LAC;1;leonaka01;Kawhi Leonard;41:21;11;23;.478;1;3;.333;12;12;1.000;3;2;5;3;4;0;2;3;35;+8
+04/02/2023;LAC;2;zubaciv01;Ivica Zubac;39:32;1;3;.333;0;0;;0;0;;2;11;13;1;0;1;1;1;2;0
+04/02/2023;LAC;3;morrima03;Marcus Morris;36:24;6;15;.400;4;8;.500;1;2;.500;0;6;6;3;0;1;1;1;17;+10
+04/02/2023;LAC;4;mannte01;Terance Mann;29:27;4;7;.571;1;3;.333;3;3;1.000;2;1;3;2;0;0;1;5;12;+3
+04/02/2023;LAC;5;Reserves;Reserves
+04/02/2023;LAC;6;powelno01;Norman Powell;35:01;8;17;.471;2;6;.333;6;9;.667;1;6;7;3;1;0;2;3;24;-5
+04/02/2023;LAC;7;batumni01;Nicolas Batum;26:57;3;4;.750;3;4;.750;1;2;.500;1;1;2;3;1;2;0;3;10;+12
+04/02/2023;LAC;8;jacksre01;Reggie Jackson;14:30;2;7;.286;0;4;.000;0;0;;0;2;2;4;1;0;2;1;4;-1
+04/02/2023;LAC;9;bostobr01;Brandon Boston Jr.;Did Not Play
+04/02/2023;LAC;10;coffeam01;Amir Coffey;Did Not Play
+04/02/2023;LAC;11;covinro01;Robert Covington;Did Not Play
+04/02/2023;LAC;12;diabamo01;Moussa Diabaté;Did Not Play
+04/02/2023;LAC;13;kennalu01;Luke Kennard;Did Not Play
+04/02/2023;LAC;14;prestja01;Jason Preston;Did Not Play
+04/02/2023;LAC;0;barrerj01;RJ Barrett;43:40;6;21;.286;1;8;.125;1;2;.500;2;3;5;4;1;0;1;5;14;-20
+04/02/2023;LAC;1;randlju01;Julius Randle;40:44;10;18;.556;2;6;.333;6;8;.750;0;11;11;7;1;0;5;5;28;-11
+04/02/2023;LAC;2;grimequ01;Quentin Grimes;38:42;4;8;.500;3;6;.500;2;2;1.000;2;3;5;2;0;0;0;6;13;+2
+04/02/2023;LAC;3;brunsja01;Jalen Brunson;38:22;14;19;.737;5;7;.714;8;10;.800;0;5;5;7;0;0;1;3;41;-5
+04/02/2023;LAC;4;simsje01;Jericho Sims;21:27;0;0;;0;0;;0;0;;0;1;1;2;1;1;1;3;0;-9
+04/02/2023;LAC;5;Reserves;Reserves
+04/02/2023;LAC;6;harteis01;Isaiah Hartenstein;31:33;2;6;.333;0;0;;1;2;.500;6;5;11;4;1;2;2;4;5;+3
+04/02/2023;LAC;7;quickim01;Immanuel Quickley;27:12;3;12;.250;3;7;.429;2;2;1.000;0;4;4;2;1;0;0;2;11;0
+04/02/2023;LAC;8;toppiob01;Obi Toppin;12:16;3;4;.750;2;3;.667;0;0;;0;1;1;1;0;0;0;1;8;+5
+04/02/2023;LAC;9;mcbrimi01;Miles McBride;11:04;3;6;.500;2;3;.667;0;0;;0;3;3;1;1;0;0;1;8;+5
+04/02/2023;LAC;10;arcidry01;Ryan Arcidiacono;Did Not Play
+04/02/2023;LAC;11;fournev01;Evan Fournier;Did Not Play
+04/02/2023;LAC;12;mykhasv01;Svi Mykhailiuk;Did Not Play
+04/02/2023;LAC;13;reddica01;Cam Reddish;Did Not Play
+04/02/2023;LAC;14;rosede01;Derrick Rose;Did Not Play

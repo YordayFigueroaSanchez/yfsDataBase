@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+20/11/2022;DET;0;bogdabo02;Bojan Bogdanović;33:43;8;12;.667;2;5;.400;3;3;1.000;0;3;3;2;0;0;3;3;21;-23
+20/11/2022;DET;1;iveyja01;Jaden Ivey;32:10;8;14;.571;4;4;1.000;4;6;.667;1;3;4;3;0;0;3;5;24;-14
+20/11/2022;DET;2;hayeski01;Killian Hayes;28:55;3;9;.333;2;3;.667;1;1;1.000;0;1;1;6;0;1;1;3;9;-10
+20/11/2022;DET;3;baglema01;Marvin Bagley III;20:56;5;9;.556;0;1;.000;5;5;1.000;2;4;6;0;1;1;1;5;15;-1
+20/11/2022;DET;4;liveris01;Isaiah Livers;16:18;2;4;.500;1;3;.333;0;0;;0;2;2;1;0;0;1;1;5;+3
+20/11/2022;DET;5;Reserves;Reserves
+20/11/2022;DET;6;durenja01;Jalen Duren;27:04;6;8;.750;0;0;;0;0;;5;3;8;1;1;0;1;2;12;-7
+20/11/2022;DET;7;burksal01;Alec Burks;24:34;4;13;.308;1;5;.200;7;8;.875;0;3;3;1;1;1;1;2;16;-11
+20/11/2022;DET;8;knoxke01;Kevin Knox;22:36;4;7;.571;3;5;.600;0;0;;0;5;5;1;0;0;0;1;11;+13
+20/11/2022;DET;9;diallha01;Hamidou Diallo;17:54;2;3;.667;0;0;;0;0;;1;1;2;0;1;0;1;1;4;+4
+20/11/2022;DET;10;josepco01;Cory Joseph;15:50;5;10;.500;2;3;.667;0;0;;1;0;1;5;0;0;0;1;12;+6
+20/11/2022;DET;11;keybr01;Braxton Key;Did Not Play
+20/11/2022;DET;12;mcgruro01;Rodney McGruder;Did Not Play
+20/11/2022;DET;13;noelne01;Nerlens Noel;Did Not Play
+20/11/2022;DET;0;huertke01;Kevin Huerter;38:19;10;19;.526;4;11;.364;0;0;;2;3;5;5;1;0;2;4;24;+20
+20/11/2022;DET;1;barneha02;Harrison Barnes;36:09;8;11;.727;1;2;.500;10;11;.909;2;7;9;3;0;0;0;0;27;+20
+20/11/2022;DET;2;foxde01;De'Aaron Fox;35:59;11;18;.611;2;4;.500;9;9;1.000;0;4;4;7;0;0;2;4;33;+12
+20/11/2022;DET;3;murrake02;Keegan Murray;34:41;4;10;.400;1;6;.167;4;5;.800;0;2;2;1;0;0;2;0;13;+9
+20/11/2022;DET;4;sabondo01;Domantas Sabonis;33:48;4;5;.800;1;1;1.000;6;8;.750;3;10;13;7;1;0;3;5;15;+12
+20/11/2022;DET;5;Reserves;Reserves
+20/11/2022;DET;6;monkma01;Malik Monk;19:05;3;6;.500;0;2;.000;2;2;1.000;0;1;1;3;2;0;2;2;8;-16
+20/11/2022;DET;7;metuch01;Chimezie Metu;14:12;3;4;.750;0;1;.000;0;0;;1;5;6;0;0;0;0;1;6;-4
+20/11/2022;DET;8;mitchda01;Davion Mitchell;14:11;2;5;.400;1;3;.333;0;0;;0;1;1;3;0;0;0;1;5;-4
+20/11/2022;DET;9;lylestr01;Trey Lyles;10:11;1;4;.250;1;4;.250;0;0;;0;0;0;0;0;0;0;0;3;-4
+20/11/2022;DET;10;daviste02;Terence Davis;3:25;1;3;.333;1;1;1.000;0;0;;0;0;0;0;0;0;0;1;3;-5
+20/11/2022;DET;11;dellama01;Matthew Dellavedova;Did Not Play
+20/11/2022;DET;12;holmeri01;Richaun Holmes;Did Not Play
+20/11/2022;DET;13;lenal01;Alex Len;Did Not Play
+20/11/2022;DET;14;monekch01;Chima Moneke;Did Not Play
+20/11/2022;DET;15;okpalkz01;KZ Okpala;Did Not Play

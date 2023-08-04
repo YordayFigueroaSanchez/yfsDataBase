@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+13/02/2023;NOP;0;ingrabr01;Brandon Ingram;32:10;14;24;.583;3;5;.600;3;3;1.000;1;3;4;1;0;0;6;4;34;-11
+13/02/2023;NOP;1;murphtr02;Trey Murphy III;31:30;3;11;.273;3;8;.375;3;4;.750;0;3;3;1;1;3;3;2;12;+13
+13/02/2023;NOP;2;alvarjo01;Jose Alvarado;28:59;6;11;.545;2;6;.333;0;0;;0;1;1;2;1;1;3;4;14;-4
+13/02/2023;NOP;3;valanjo01;Jonas Valančiūnas;24:46;5;6;.833;0;1;.000;4;5;.800;1;7;8;2;0;0;3;4;14;+16
+13/02/2023;NOP;4;joneshe01;Herbert Jones;23:42;2;4;.500;0;1;.000;0;0;;1;4;5;2;2;0;0;3;4;-5
+13/02/2023;NOP;5;Reserves;Reserves
+13/02/2023;NOP;6;richajo01;Josh Richardson;34:07;4;8;.500;0;4;.000;2;2;1.000;0;2;2;3;5;2;0;3;10;+4
+13/02/2023;NOP;7;marshna01;Naji Marshall;22:49;1;2;.500;0;1;.000;2;2;1.000;0;4;4;3;1;1;1;0;4;+8
+13/02/2023;NOP;8;nancela02;Larry Nance Jr.;21:11;2;3;.667;0;1;.000;0;0;;1;3;4;3;0;1;0;1;4;-13
+13/02/2023;NOP;9;lewiski01;Kira Lewis Jr.;18:58;2;5;.400;1;3;.333;2;2;1.000;0;2;2;2;2;0;1;0;7;+7
+13/02/2023;NOP;10;hayesja02;Jaxson Hayes;1:48;0;0;;0;0;;0;0;;0;0;0;0;1;0;1;0;0;0
+13/02/2023;NOP;11;hernawi01;Willy Hernangómez;Did Not Play
+13/02/2023;NOP;12;seabrde01;Dereon Seabron;Did Not Play
+13/02/2023;NOP;13;templga01;Garrett Temple;Did Not Play
+13/02/2023;NOP;0;willija06;Jalen Williams;39:10;9;15;.600;2;3;.667;2;2;1.000;2;5;7;4;2;1;1;1;22;+10
+13/02/2023;NOP;1;gilgesh01;Shai Gilgeous-Alexander;38:58;8;21;.381;0;2;.000;8;9;.889;3;7;10;5;1;0;6;4;24;+9
+13/02/2023;NOP;2;giddejo01;Josh Giddey;32:31;8;16;.500;0;2;.000;1;1;1.000;1;6;7;4;1;0;4;2;17;-8
+13/02/2023;NOP;3;dortlu01;Luguentz Dort;24:08;1;7;.143;0;4;.000;4;6;.667;0;3;3;1;1;0;0;3;6;+13
+13/02/2023;NOP;4;willija07;Jaylin Williams;15:56;0;3;.000;0;3;.000;0;0;;0;1;1;2;0;1;0;2;0;-7
+13/02/2023;NOP;5;Reserves;Reserves
+13/02/2023;NOP;6;willike04;Kenrich Williams;30:51;4;7;.571;1;1;1.000;0;0;;5;3;8;3;1;1;2;2;9;+1
+13/02/2023;NOP;7;joeis01;Isaiah Joe;22:17;6;13;.462;4;11;.364;0;0;;1;2;3;0;0;0;1;1;16;-16
+13/02/2023;NOP;8;robinje02;Jeremiah Robinson-Earl;18:10;0;5;.000;0;4;.000;0;0;;1;2;3;0;2;0;0;2;0;-11
+13/02/2023;NOP;9;wiggiaa01;Aaron Wiggins;12:18;1;1;1.000;1;1;1.000;0;0;;1;0;1;1;0;0;1;0;3;-1
+13/02/2023;NOP;10;waterli01;Lindy Waters III;5:41;1;2;.500;1;2;.500;0;0;;0;0;0;0;0;0;1;0;3;-5
+13/02/2023;NOP;11;manntr01;Tre Mann;Did Not Play
+13/02/2023;NOP;12;saricda01;Dario Šarić;Did Not Play

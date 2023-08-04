@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+03/12/2022;POR;0;simonan01;Anfernee Simons;41:07;15;25;.600;7;12;.583;8;8;1.000;0;2;2;4;1;2;7;3;45;+5
+03/12/2022;POR;1;winslju01;Justise Winslow;39:21;1;3;.333;0;0;;0;0;;2;5;7;5;3;1;2;2;2;0
+03/12/2022;POR;2;nurkiju01;Jusuf Nurkić;38:53;6;12;.500;0;1;.000;3;6;.500;5;9;14;4;0;1;1;4;15;-1
+03/12/2022;POR;3;grantje01;Jerami Grant;37:12;10;18;.556;2;5;.400;11;14;.786;0;0;0;5;0;0;1;2;33;-2
+03/12/2022;POR;4;watfotr01;Trendon Watford;35:23;4;8;.500;0;1;.000;1;2;.500;3;11;14;1;0;1;1;2;9;0
+03/12/2022;POR;5;Reserves;Reserves
+03/12/2022;POR;6;browngr01;Greg Brown III;17:51;2;4;.500;1;3;.333;1;1;1.000;0;4;4;0;0;0;0;3;6;+2
+03/12/2022;POR;7;sharpsh01;Shaedon Sharpe;17:23;3;11;.273;0;1;.000;0;0;;1;3;4;0;1;0;0;3;6;+9
+03/12/2022;POR;8;walkeja01;Jabari Walker;12:50;0;4;.000;0;2;.000;0;0;;1;3;4;0;0;1;1;1;0;+12
+03/12/2022;POR;9;eubandr01;Drew Eubanks;Did Not Dress
+03/12/2022;POR;10;johnske07;Keon Johnson;Did Not Dress
+03/12/2022;POR;11;lillada01;Damian Lillard;Did Not Dress
+03/12/2022;POR;0;clarkjo01;Jordan Clarkson;35:35;10;26;.385;1;9;.111;3;3;1.000;4;1;5;3;0;0;2;6;24;-4
+03/12/2022;POR;1;markkla01;Lauri Markkanen;35:29;4;10;.400;4;6;.667;9;9;1.000;1;5;6;2;3;1;5;2;21;+6
+03/12/2022;POR;2;olynyke01;Kelly Olynyk;35:06;5;8;.625;1;3;.333;4;6;.667;0;9;9;6;1;0;2;4;15;+1
+03/12/2022;POR;3;vandeja01;Jarred Vanderbilt;31:38;6;8;.750;4;4;1.000;0;0;;0;7;7;4;2;0;1;0;16;+5
+03/12/2022;POR;4;sextoco01;Collin Sexton;31:25;6;11;.545;2;4;.500;5;6;.833;1;2;3;0;1;0;1;2;19;+8
+03/12/2022;POR;5;Reserves;Reserves
+03/12/2022;POR;6;beaslma01;Malik Beasley;25:36;1;9;.111;1;6;.167;0;0;;0;1;1;1;0;0;0;3;3;-18
+03/12/2022;POR;7;hortota01;Talen Horton-Tucker;16:35;1;4;.250;0;2;.000;0;2;.000;0;3;3;3;1;0;1;0;2;-13
+03/12/2022;POR;8;kesslwa01;Walker Kessler;16:31;4;4;1.000;0;0;;0;0;;2;6;8;0;0;3;0;3;8;-10
+03/12/2022;POR;9;fontesi01;Simone Fontecchio;12:05;1;4;.250;0;2;.000;1;2;.500;2;0;2;1;0;0;1;2;3;0
+03/12/2022;POR;10;agbajoc01;Ochai Agbaji;Did Not Play
+03/12/2022;POR;11;alexani01;Nickeil Alexander-Walker;Did Not Play
+03/12/2022;POR;12;azubuud01;Udoka Azubuike;Did Not Play
+03/12/2022;POR;13;bolmale01;Leandro Bolmaro;Did Not Play

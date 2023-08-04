@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+10/03/2023;CLE;0;mitchdo01;Donovan Mitchell;42:33;15;30;.500;8;15;.533;4;6;.667;0;3;3;4;1;0;4;4;42;+1
+10/03/2023;CLE;1;leverca01;Caris LeVert;38:41;6;13;.462;4;9;.444;0;0;;0;3;3;4;1;1;2;1;16;-5
+10/03/2023;CLE;2;allenja01;Jarrett Allen;34:11;2;5;.400;0;0;;2;2;1.000;4;9;13;4;1;4;1;1;6;+8
+10/03/2023;CLE;3;okorois01;Isaac Okoro;33:37;6;9;.667;1;2;.500;3;3;1.000;2;0;2;3;2;0;0;2;16;-2
+10/03/2023;CLE;4;mobleev01;Evan Mobley;28:24;4;10;.400;1;3;.333;3;4;.750;0;4;4;2;0;1;0;4;12;-18
+10/03/2023;CLE;5;Reserves;Reserves
+10/03/2023;CLE;6;rubiori01;Ricky Rubio;25:10;3;8;.375;2;7;.286;0;0;;0;3;3;8;0;0;3;3;8;-8
+10/03/2023;CLE;7;stevela01;Lamar Stevens;24:43;2;5;.400;1;3;.333;3;4;.750;2;3;5;0;0;0;0;3;8;+2
+10/03/2023;CLE;8;osmande01;Cedi Osman;12:40;2;6;.333;1;4;.250;2;2;1.000;0;1;1;0;0;0;1;2;7;+4
+10/03/2023;CLE;9;lopezro01;Robin Lopez;0:01;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;-2
+10/03/2023;CLE;10;greenda02;Danny Green;Did Not Play
+10/03/2023;CLE;11;merrisa01;Sam Merrill;Did Not Play
+10/03/2023;CLE;12;netora01;Raul Neto;Did Not Play
+10/03/2023;CLE;13;wadede01;Dean Wade;Did Not Play
+10/03/2023;CLE;0;herroty01;Tyler Herro;38:29;8;15;.533;5;7;.714;4;4;1.000;0;9;9;4;0;0;3;1;25;+6
+10/03/2023;CLE;1;adebaba01;Bam Adebayo;37:19;8;12;.667;0;0;;3;4;.750;0;6;6;4;3;0;4;5;19;+4
+10/03/2023;CLE;2;butleji01;Jimmy Butler;35:02;12;16;.750;1;1;1.000;8;9;.889;2;3;5;3;0;1;1;2;33;-5
+10/03/2023;CLE;3;vincega01;Gabe Vincent;22:11;2;7;.286;0;3;.000;2;2;1.000;1;0;1;3;1;0;2;3;6;-9
+10/03/2023;CLE;4;loveke01;Kevin Love;20:59;2;8;.250;1;5;.200;2;2;1.000;4;3;7;1;0;1;2;0;7;-11
+10/03/2023;CLE;5;Reserves;Reserves
+10/03/2023;CLE;6;martica02;Caleb Martin;27:02;2;4;.500;1;3;.333;2;2;1.000;0;6;6;2;0;0;0;1;7;+17
+10/03/2023;CLE;7;strusma01;Max Strus;25:54;5;8;.625;4;7;.571;0;0;;0;3;3;3;0;1;2;4;14;+11
+10/03/2023;CLE;8;oladivi01;Victor Oladipo;22:23;3;7;.429;2;3;.667;0;0;;0;3;3;2;3;0;1;1;8;+7
+10/03/2023;CLE;9;zelleco01;Cody Zeller;10:41;0;5;.000;0;0;;0;0;;4;2;6;0;0;1;1;3;0;0
+10/03/2023;CLE;10;cainja01;Jamal Cain;Did Not Play
+10/03/2023;CLE;11;hasleud01;Udonis Haslem;Did Not Play
+10/03/2023;CLE;12;highsha01;Haywood Highsmith;Did Not Play
+10/03/2023;CLE;13;yurtsom01;Omer Yurtseven;Did Not Play

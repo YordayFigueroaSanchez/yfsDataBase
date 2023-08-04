@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+11/02/2023;PHI;0;embiijo01;Joel Embiid;37:23;12;18;.667;1;2;.500;12;13;.923;2;11;13;2;2;0;3;3;37;+5
+11/02/2023;PHI;1;hardeja01;James Harden;36:42;9;20;.450;2;6;.333;9;9;1.000;2;4;6;6;1;1;3;2;29;-1
+11/02/2023;PHI;2;harrito02;Tobias Harris;28:37;1;9;.111;1;3;.333;0;0;;0;5;5;2;1;1;1;0;3;+2
+11/02/2023;PHI;3;tuckepj01;P.J. Tucker;26:52;1;2;.500;0;1;.000;0;0;;2;1;3;0;0;0;1;1;2;-3
+11/02/2023;PHI;4;meltode01;De'Anthony Melton;14:21;0;3;.000;0;1;.000;0;0;;1;0;1;0;0;0;0;1;0;-12
+11/02/2023;PHI;5;Reserves;Reserves
+11/02/2023;PHI;6;maxeyty01;Tyrese Maxey;33:40;4;11;.364;0;4;.000;4;4;1.000;0;4;4;3;0;0;2;2;12;+17
+11/02/2023;PHI;7;niangge01;Georges Niang;21:51;2;5;.400;1;4;.250;0;0;;0;1;1;1;0;0;0;2;5;+4
+11/02/2023;PHI;8;mcdanja01;Jalen McDaniels;15:40;2;4;.500;1;1;1.000;0;0;;1;3;4;1;0;0;0;0;5;-1
+11/02/2023;PHI;9;miltosh01;Shake Milton;14:17;1;2;.500;0;1;.000;4;4;1.000;0;1;1;2;0;1;0;1;6;+6
+11/02/2023;PHI;10;reedpa01;Paul Reed;10:37;1;1;1.000;0;0;;0;0;;0;3;3;0;0;0;0;0;2;-2
+11/02/2023;PHI;11;harremo01;Montrezl Harrell;Did Not Play
+11/02/2023;PHI;12;houseda01;Danuel House Jr.;Did Not Play
+11/02/2023;PHI;13;korkmfu01;Furkan Korkmaz;Did Not Play
+11/02/2023;PHI;0;finnedo01;Dorian Finney-Smith;34:28;2;8;.250;1;4;.250;0;0;;3;5;8;2;0;0;1;3;5;+2
+11/02/2023;PHI;1;bridgmi01;Mikal Bridges;34:11;8;18;.444;3;5;.600;4;4;1.000;3;3;6;1;2;0;1;2;23;-8
+11/02/2023;PHI;2;dinwisp01;Spencer Dinwiddie;31:10;2;10;.200;0;4;.000;5;6;.833;0;6;6;6;1;0;3;3;9;+2
+11/02/2023;PHI;3;claxtni01;Nic Claxton;28:52;3;6;.500;0;0;;0;0;;2;3;5;2;0;4;1;4;6;-1
+11/02/2023;PHI;4;johnsca02;Cameron Johnson;28:26;4;13;.308;2;8;.250;2;3;.667;0;7;7;3;3;0;0;1;12;+5
+11/02/2023;PHI;5;Reserves;Reserves
+11/02/2023;PHI;6;thomaca02;Cam Thomas;18:06;7;12;.583;0;2;.000;0;0;;0;1;1;2;0;0;0;1;14;-3
+11/02/2023;PHI;7;onealro01;Royce O'Neale;17:12;1;7;.143;1;4;.250;0;0;;2;2;4;3;1;1;0;0;3;-9
+11/02/2023;PHI;8;simmobe01;Ben Simmons;16:24;2;3;.667;0;0;;0;0;;1;2;3;3;0;1;1;1;4;-1
+11/02/2023;PHI;9;harrijo01;Joe Harris;16:07;6;9;.667;6;9;.667;0;0;;0;0;0;1;0;0;0;2;18;+1
+11/02/2023;PHI;10;millspa02;Patty Mills;7:14;0;1;.000;0;1;.000;0;0;;0;1;1;0;0;0;1;3;0;0
+11/02/2023;PHI;11;watanyu01;Yuta Watanabe;5:03;0;2;.000;0;2;.000;0;0;;0;0;0;0;0;0;0;0;0;0
+11/02/2023;PHI;12;sharpda01;Day'Ron Sharpe;2:47;2;3;.667;0;1;.000;0;0;;1;0;1;0;0;0;0;0;4;-3
+11/02/2023;PHI;13;dukeda01;David Duke Jr.;Did Not Play
+11/02/2023;PHI;14;smithdr01;Dru Smith;Did Not Play
+11/02/2023;PHI;15;sumneed01;Edmond Sumner;Did Not Play

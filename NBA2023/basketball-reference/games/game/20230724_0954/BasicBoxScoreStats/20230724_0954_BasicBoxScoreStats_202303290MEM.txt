@@ -1,0 +1,26 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+29/03/2023;LAC;0;westbru01;Russell Westbrook;35:30;13;18;.722;5;5;1.000;5;9;.556;1;3;4;10;0;2;2;1;36;+3
+29/03/2023;LAC;1;mannte01;Terance Mann;35:12;3;6;.500;1;3;.333;4;4;1.000;1;1;2;3;1;0;0;3;11;+18
+29/03/2023;LAC;2;gordoer01;Eric Gordon;27:32;3;6;.500;2;5;.400;6;6;1.000;0;2;2;2;1;0;2;0;14;-6
+29/03/2023;LAC;3;zubaciv01;Ivica Zubac;22:54;4;7;.571;0;0;;2;5;.400;0;7;7;0;0;1;1;5;10;+9
+29/03/2023;LAC;4;batumni01;Nicolas Batum;19:19;1;5;.200;1;5;.200;1;1;1.000;0;3;3;1;0;0;2;1;4;-8
+29/03/2023;LAC;5;Reserves;Reserves
+29/03/2023;LAC;6;covinro01;Robert Covington;31:46;9;10;.900;7;7;1.000;2;2;1.000;0;4;4;2;3;0;2;4;27;+11
+29/03/2023;LAC;7;powelno01;Norman Powell;24:10;4;9;.444;2;6;.333;3;4;.750;0;1;1;1;2;0;4;3;13;+1
+29/03/2023;LAC;8;plumlma01;Mason Plumlee;22:01;3;3;1.000;0;0;;0;0;;0;4;4;3;0;0;1;3;6;+6
+29/03/2023;LAC;9;hylanbo01;Bones Hyland;21:36;8;14;.571;4;6;.667;0;0;;1;4;5;6;1;1;1;1;20;+11
+29/03/2023;LAC;10;coffeam01;Amir Coffey;Did Not Play
+29/03/2023;LAC;11;diabamo01;Moussa Diabaté;Did Not Play
+29/03/2023;LAC;12;moonxa01;Xavier Moon;Did Not Play
+29/03/2023;LAC;0;moranja01;Ja Morant;35:17;11;28;.393;2;9;.222;12;12;1.000;0;4;4;9;3;0;8;3;36;-6
+29/03/2023;LAC;1;brookdi01;Dillon Brooks;33:42;12;24;.500;2;9;.222;4;6;.667;1;5;6;4;1;1;0;3;30;+1
+29/03/2023;LAC;2;kennalu01;Luke Kennard;32:47;5;9;.556;1;3;.333;1;1;1.000;1;3;4;2;0;1;0;1;12;-8
+29/03/2023;LAC;3;aldamsa01;Santi Aldama;32:38;6;7;.857;2;2;1.000;3;4;.750;3;5;8;1;1;1;2;2;17;-1
+29/03/2023;LAC;4;tillmxa01;Xavier Tillman Sr.;31:10;7;8;.875;0;0;;2;3;.667;5;4;9;5;1;1;1;5;16;-16
+29/03/2023;LAC;5;Reserves;Reserves
+29/03/2023;LAC;6;roddyda01;David Roddy;31:04;3;8;.375;2;5;.400;0;0;;1;4;5;1;1;0;0;2;8;-11
+29/03/2023;LAC;7;laravja01;Jake LaRavia;21:30;2;4;.500;2;4;.500;0;0;;2;1;3;0;0;0;0;1;6;+1
+29/03/2023;LAC;8;chandke01;Kennedy Chandler;12:43;2;3;.667;0;0;;0;0;;0;2;2;3;1;0;1;2;4;-3
+29/03/2023;LAC;9;loftoke01;Kenneth Lofton Jr.;9:09;1;4;.250;0;0;;1;2;.500;1;3;4;1;0;0;1;1;3;-2
+29/03/2023;LAC;10;konchjo01;John Konchar;Did Not Dress
+29/03/2023;LAC;11;willizi02;Ziaire Williams;Did Not Dress

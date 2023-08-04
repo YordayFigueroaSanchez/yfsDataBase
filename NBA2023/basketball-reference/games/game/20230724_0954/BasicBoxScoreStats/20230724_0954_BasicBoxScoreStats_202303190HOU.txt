@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+19/03/2023;NOP;0;mccolcj01;CJ McCollum;39:02;9;18;.500;4;7;.571;4;6;.667;0;6;6;5;2;2;1;2;26;+10
+19/03/2023;NOP;1;ingrabr01;Brandon Ingram;38:59;12;24;.500;1;3;.333;1;2;.500;0;2;2;9;0;0;3;1;26;+8
+19/03/2023;NOP;2;murphtr02;Trey Murphy III;37:55;5;13;.385;3;10;.300;1;1;1.000;1;3;4;1;0;0;1;0;14;+9
+19/03/2023;NOP;3;valanjo01;Jonas Valančiūnas;33:17;6;12;.500;1;1;1.000;8;9;.889;5;7;12;2;1;2;3;5;21;+3
+19/03/2023;NOP;4;joneshe01;Herbert Jones;33:03;4;7;.571;2;4;.500;3;3;1.000;2;2;4;3;1;0;2;4;13;+6
+19/03/2023;NOP;5;Reserves;Reserves
+19/03/2023;NOP;6;marshna01;Naji Marshall;17:08;2;4;.500;1;2;.500;2;2;1.000;1;2;3;2;1;0;0;2;7;+2
+19/03/2023;NOP;7;richajo01;Josh Richardson;16:55;2;4;.500;1;3;.333;1;1;1.000;1;1;2;2;0;0;0;4;6;+5
+19/03/2023;NOP;8;nancela02;Larry Nance Jr.;12:14;1;1;1.000;0;0;;0;0;;0;3;3;1;1;0;0;2;2;+10
+19/03/2023;NOP;9;daniedy01;Dyson Daniels;8:58;1;2;.500;0;1;.000;0;0;;0;3;3;3;1;0;0;2;2;0
+19/03/2023;NOP;10;hayesja02;Jaxson Hayes;2:29;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;1;0;-3
+19/03/2023;NOP;11;hernawi01;Willy Hernangómez;Did Not Play
+19/03/2023;NOP;12;lewiski01;Kira Lewis Jr.;Did Not Play
+19/03/2023;NOP;13;templga01;Garrett Temple;Did Not Play
+19/03/2023;NOP;0;porteke02;Kevin Porter Jr.;40:14;7;15;.467;3;9;.333;8;8;1.000;0;5;5;4;0;0;2;1;25;-9
+19/03/2023;NOP;1;greenja05;Jalen Green;39:19;11;22;.500;4;9;.444;14;14;1.000;1;3;4;1;1;0;2;2;40;-6
+19/03/2023;NOP;2;smithja05;Jabari Smith Jr.;38:08;2;10;.200;0;4;.000;4;4;1.000;0;4;4;0;0;0;0;2;8;-6
+19/03/2023;NOP;3;sengual01;Alperen Şengün;31:08;3;8;.375;0;2;.000;3;4;.750;4;3;7;6;1;1;0;6;9;-2
+19/03/2023;NOP;4;martike04;Kenyon Martin Jr.;27:59;3;5;.600;2;4;.500;0;0;;1;4;5;0;0;0;1;3;8;-8
+19/03/2023;NOP;5;Reserves;Reserves
+19/03/2023;NOP;6;easonta01;Tari Eason;22:17;2;6;.333;0;3;.000;6;6;1.000;1;4;5;0;0;1;2;2;10;-4
+19/03/2023;NOP;7;tateja01;Jae'Sean Tate;22:03;1;4;.250;0;0;;0;0;;1;0;1;4;2;0;2;4;2;-7
+19/03/2023;NOP;8;garubus01;Usman Garuba;10:45;0;1;.000;0;1;.000;1;2;.500;0;5;5;0;0;0;3;1;1;-6
+19/03/2023;NOP;9;chrisjo01;Josh Christopher;8:07;2;5;.400;0;1;.000;0;0;;0;0;0;0;0;0;0;1;4;-2
+19/03/2023;NOP;10;kaminfr01;Frank Kaminsky;Did Not Play
+19/03/2023;NOP;11;marjabo01;Boban Marjanović;Did Not Play
+19/03/2023;NOP;12;nixda01;Daishen Nix;Did Not Play

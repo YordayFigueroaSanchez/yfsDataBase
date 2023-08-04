@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+06/01/2023;NYK;0;randlju01;Julius Randle;39:44;10;22;.455;6;11;.545;6;9;.667;1;10;11;3;0;0;3;3;32;+2
+06/01/2023;NYK;1;brunsja01;Jalen Brunson;38:28;9;19;.474;3;6;.500;5;7;.714;1;4;5;8;1;0;5;2;26;-15
+06/01/2023;NYK;2;quickim01;Immanuel Quickley;37:06;4;8;.500;0;3;.000;5;6;.833;0;5;5;4;0;0;0;3;13;+9
+06/01/2023;NYK;3;grimequ01;Quentin Grimes;35:54;6;13;.462;4;10;.400;0;0;;0;0;0;2;0;0;2;3;16;-19
+06/01/2023;NYK;4;robinmi01;Mitchell Robinson;34:48;4;8;.500;0;0;;2;4;.500;8;10;18;0;0;2;0;6;10;-1
+06/01/2023;NYK;5;Reserves;Reserves
+06/01/2023;NYK;6;mcbrimi01;Miles McBride;21:15;3;6;.500;3;5;.600;0;0;;0;1;1;0;0;1;0;1;9;+14
+06/01/2023;NYK;7;harteis01;Isaiah Hartenstein;16:28;1;3;.333;0;0;;0;0;;3;4;7;0;1;1;1;2;2;+5
+06/01/2023;NYK;8;fournev01;Evan Fournier;12:06;2;4;.500;0;2;.000;0;0;;0;3;3;2;1;0;0;3;4;+23
+06/01/2023;NYK;9;simsje01;Jericho Sims;4:11;0;0;;0;0;;0;0;;0;1;1;0;0;0;0;0;0;+2
+06/01/2023;NYK;10;arcidry01;Ryan Arcidiacono;Did Not Play
+06/01/2023;NYK;11;mykhasv01;Svi Mykhailiuk;Did Not Play
+06/01/2023;NYK;12;reddica01;Cam Reddish;Did Not Play
+06/01/2023;NYK;13;rosede01;Derrick Rose;Did Not Play
+06/01/2023;NYK;14;toppiob01;Obi Toppin;Did Not Play
+06/01/2023;NYK;0;trentga02;Gary Trent Jr.;41:55;8;16;.500;4;8;.500;7;8;.875;0;2;2;1;1;0;0;3;27;+1
+06/01/2023;NYK;1;vanvlfr01;Fred VanVleet;40:45;9;21;.429;3;9;.333;7;9;.778;0;8;8;7;2;1;1;3;28;+10
+06/01/2023;NYK;2;anunoog01;OG Anunoby;40:07;6;12;.500;1;4;.250;0;1;.000;3;6;9;2;3;0;0;5;13;+5
+06/01/2023;NYK;3;siakapa01;Pascal Siakam;39:58;4;14;.286;1;4;.250;9;11;.818;4;9;13;5;0;0;5;4;18;+1
+06/01/2023;NYK;4;barnesc01;Scottie Barnes;35:35;2;10;.200;0;0;;3;4;.750;2;4;6;5;1;1;1;3;7;-8
+06/01/2023;NYK;5;Reserves;Reserves
+06/01/2023;NYK;6;bouchch01;Chris Boucher;15:30;3;5;.600;1;3;.333;2;2;1.000;1;2;3;0;0;0;0;0;9;-11
+06/01/2023;NYK;7;kolokch01;Christian Koloko;12:47;2;2;1.000;0;0;;0;0;;1;2;3;0;0;1;0;3;4;-8
+06/01/2023;NYK;8;achiupr01;Precious Achiuwa;4:34;1;3;.333;0;1;.000;0;0;;0;1;1;1;0;0;0;0;2;-7
+06/01/2023;NYK;9;youngth01;Thaddeus Young;4:15;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;1;0;+4
+06/01/2023;NYK;10;flynnma01;Malachi Flynn;3:03;0;0;;0;0;;0;0;;0;0;0;1;0;0;0;0;0;-9
+06/01/2023;NYK;11;dowtije01;Jeff Dowtin;1:31;0;0;;0;0;;0;0;;1;0;1;0;0;0;0;1;0;+2
+06/01/2023;NYK;12;birchkh01;Khem Birch;Did Not Play
+06/01/2023;NYK;13;hernaju01;Juancho Hernangómez;Did Not Play

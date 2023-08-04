@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+14/01/2023;CLE;0;mitchdo01;Donovan Mitchell;36:46;5;16;.313;2;9;.222;2;4;.500;1;2;3;6;0;0;2;1;14;-5
+14/01/2023;CLE;1;garlada01;Darius Garland;34:38;6;11;.545;1;3;.333;2;2;1.000;0;3;3;4;0;0;4;2;15;-4
+14/01/2023;CLE;2;allenja01;Jarrett Allen;34:10;8;10;.800;0;0;;3;3;1.000;2;6;8;2;0;2;3;3;19;-4
+14/01/2023;CLE;3;mobleev01;Evan Mobley;31:30;6;11;.545;0;2;.000;7;8;.875;2;6;8;1;0;0;3;3;19;-24
+14/01/2023;CLE;4;okorois01;Isaac Okoro;15:24;3;4;.750;2;3;.667;0;0;;0;3;3;1;3;0;1;0;8;-2
+14/01/2023;CLE;5;Reserves;Reserves
+14/01/2023;CLE;6;leverca01;Caris LeVert;31:13;4;8;.500;0;2;.000;4;4;1.000;0;4;4;3;1;0;2;1;12;+4
+14/01/2023;CLE;7;loveke01;Kevin Love;20:04;2;7;.286;2;4;.500;0;0;;2;6;8;2;0;0;2;2;6;+1
+14/01/2023;CLE;8;osmande01;Cedi Osman;15:32;2;4;.500;0;2;.000;2;2;1.000;0;0;0;1;1;0;1;3;6;-5
+14/01/2023;CLE;9;rubiori01;Ricky Rubio;12:46;1;4;.250;1;3;.333;0;0;;0;2;2;2;0;0;0;2;3;-6
+14/01/2023;CLE;10;stevela01;Lamar Stevens;7:57;0;1;.000;0;0;;0;0;;1;0;1;2;0;0;0;0;0;+5
+14/01/2023;CLE;11;lopezro01;Robin Lopez;Did Not Play
+14/01/2023;CLE;12;netora01;Raul Neto;Did Not Play
+14/01/2023;CLE;0;edwaran01;Anthony Edwards;35:22;10;18;.556;3;6;.500;3;3;1.000;0;6;6;7;1;0;4;1;26;+7
+14/01/2023;CLE;1;anderky01;Kyle Anderson;28:06;2;2;1.000;0;0;;0;3;.000;1;4;5;4;2;3;3;2;4;+3
+14/01/2023;CLE;2;mcdanja02;Jaden McDaniels;27:31;4;7;.571;1;3;.333;0;0;;0;0;0;2;4;1;2;5;9;+5
+14/01/2023;CLE;3;russeda01;D'Angelo Russell;20:33;4;8;.500;1;3;.333;0;0;;0;0;0;1;0;0;1;2;9;-6
+14/01/2023;CLE;4;goberru01;Rudy Gobert;13:25;2;3;.667;0;0;;2;2;1.000;0;4;4;0;1;0;0;1;6;-1
+14/01/2023;CLE;5;Reserves;Reserves
+14/01/2023;CLE;6;reidna01;Naz Reid;28:09;8;16;.500;1;7;.143;0;0;;2;5;7;0;0;1;1;4;17;-5
+14/01/2023;CLE;7;nowelja01;Jaylen Nowell;26:27;6;9;.667;0;1;.000;4;5;.800;0;4;4;2;2;0;0;1;16;+11
+14/01/2023;CLE;8;princta02;Taurean Prince;25:43;2;6;.333;1;3;.333;2;2;1.000;0;3;3;2;0;0;1;4;7;+12
+14/01/2023;CLE;9;riverau01;Austin Rivers;25:03;3;6;.500;1;3;.333;0;0;;0;0;0;3;0;0;0;0;7;+3
+14/01/2023;CLE;10;garzalu01;Luka Garza;9:41;4;5;.800;1;2;.500;0;0;;1;1;2;1;0;0;1;1;9;+11
+14/01/2023;CLE;11;forbebr01;Bryn Forbes;Did Not Play
+14/01/2023;CLE;12;knighna01;Nathan Knight;Did Not Play
+14/01/2023;CLE;13;moorewe01;Wendell Moore Jr.;Did Not Play
+14/01/2023;CLE;14;ryanma01;Matt Ryan;Did Not Play

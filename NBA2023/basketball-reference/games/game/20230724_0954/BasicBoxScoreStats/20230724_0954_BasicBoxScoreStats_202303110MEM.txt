@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+11/03/2023;DAL;0;hardyja02;Jaden Hardy;37:25;9;21;.429;3;9;.333;1;4;.250;1;1;2;3;1;0;3;1;22;-7
+11/03/2023;DAL;1;hardati02;Tim Hardaway Jr.;36:26;8;15;.533;4;8;.500;3;5;.600;1;5;6;2;0;2;3;2;23;-2
+11/03/2023;DAL;2;greenjo02;Josh Green;33:36;9;16;.563;3;6;.500;0;0;;3;7;10;4;0;0;3;4;21;-2
+11/03/2023;DAL;3;bullore01;Reggie Bullock;31:45;3;9;.333;1;6;.167;0;0;;2;3;5;1;1;0;1;1;7;-4
+11/03/2023;DAL;4;poweldw01;Dwight Powell;18:53;1;2;.500;0;0;;2;4;.500;2;3;5;3;0;0;0;3;4;+4
+11/03/2023;DAL;5;Reserves;Reserves
+11/03/2023;DAL;6;klebima01;Maxi Kleber;25:51;1;3;.333;1;3;.333;1;2;.500;1;7;8;4;0;1;0;3;4;-8
+11/03/2023;DAL;7;wrighmc01;McKinley Wright IV;20:42;1;2;.500;0;1;.000;2;2;1.000;0;4;4;5;0;0;0;1;4;+6
+11/03/2023;DAL;8;woodch01;Christian Wood;15:20;4;8;.500;0;2;.000;6;6;1.000;0;2;2;1;0;0;1;0;14;-7
+11/03/2023;DAL;9;holidju01;Justin Holiday;13:05;1;4;.250;1;3;.333;0;0;;0;1;1;1;0;0;0;1;3;-2
+11/03/2023;DAL;10;bertada01;Dāvis Bertāns;6:57;2;5;.400;2;5;.400;0;0;;0;0;0;1;2;0;0;1;6;+2
+11/03/2023;DAL;11;mcgeeja01;JaVale McGee;Did Not Play
+11/03/2023;DAL;12;morrima02;Markieff Morris;Did Not Play
+11/03/2023;DAL;13;ntilila01;Frank Ntilikina;Did Not Play
+11/03/2023;DAL;14;pinsoth01;Theo Pinson;Did Not Play
+11/03/2023;DAL;0;banede01;Desmond Bane;34:40;8;18;.444;2;5;.400;7;8;.875;1;6;7;8;0;0;3;3;25;+6
+11/03/2023;DAL;1;brookdi01;Dillon Brooks;33:54;3;9;.333;1;6;.167;1;2;.500;0;5;5;3;1;0;1;3;8;+6
+11/03/2023;DAL;2;jacksja02;Jaren Jackson Jr.;33:16;3;12;.250;0;5;.000;8;9;.889;1;6;7;0;0;2;1;3;14;+3
+11/03/2023;DAL;3;jonesty01;Tyus Jones;33:01;3;9;.333;1;5;.200;4;4;1.000;0;4;4;10;1;0;0;0;11;-1
+11/03/2023;DAL;4;tillmxa01;Xavier Tillman Sr.;27:36;6;8;.750;0;0;;0;0;;6;2;8;2;1;1;3;1;12;-8
+11/03/2023;DAL;5;Reserves;Reserves
+11/03/2023;DAL;6;aldamsa01;Santi Aldama;22:37;5;10;.500;0;4;.000;0;0;;2;3;5;1;0;1;1;2;10;+6
+11/03/2023;DAL;7;roddyda01;David Roddy;22:32;10;13;.769;4;7;.571;0;1;.000;1;3;4;0;2;1;2;0;24;+11
+11/03/2023;DAL;8;kennalu01;Luke Kennard;20:48;3;7;.429;2;6;.333;0;0;;0;3;3;1;2;0;0;2;8;-1
+11/03/2023;DAL;9;konchjo01;John Konchar;11:36;0;0;;0;0;;0;0;;0;2;2;0;0;0;0;2;0;-2
+11/03/2023;DAL;10;chandke01;Kennedy Chandler;Did Not Play
+11/03/2023;DAL;11;loftoke01;Kenneth Lofton Jr.;Did Not Play
+11/03/2023;DAL;12;willizi02;Ziaire Williams;Did Not Play

@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+19/10/2022;HOU;0;porteke02;Kevin Porter Jr.;33:57;9;19;.474;3;5;.600;0;0;;3;4;7;7;2;0;4;2;21;-13
+19/10/2022;HOU;1;smithja05;Jabari Smith Jr.;32:54;6;17;.353;3;11;.273;2;2;1.000;1;6;7;1;0;0;0;4;17;-9
+19/10/2022;HOU;2;greenja05;Jalen Green;32:13;7;20;.350;1;7;.143;1;1;1.000;1;4;5;3;1;1;3;3;16;-16
+19/10/2022;HOU;3;gordoer01;Eric Gordon;29:18;4;9;.444;1;4;.250;2;2;1.000;0;1;1;4;0;0;1;2;11;+8
+19/10/2022;HOU;4;fernabr01;Bruno Fernando;25:03;3;3;1.000;0;0;;1;2;.500;3;6;9;7;0;2;0;0;7;-1
+19/10/2022;HOU;5;Reserves;Reserves
+19/10/2022;HOU;6;martike04;Kenyon Martin Jr.;22:42;1;7;.143;0;2;.000;4;4;1.000;0;5;5;0;1;0;1;4;6;-10
+19/10/2022;HOU;7;sengual01;Alperen Şengün;22:05;5;9;.556;1;2;.500;4;4;1.000;4;5;9;0;0;0;6;3;15;-6
+19/10/2022;HOU;8;easonta01;Tari Eason;15:06;4;6;.667;0;0;;0;0;;3;4;7;0;0;0;0;1;8;-1
+19/10/2022;HOU;9;mathega01;Garrison Mathews;14:03;0;2;.000;0;2;.000;0;0;;0;1;1;1;0;0;0;1;0;+3
+19/10/2022;HOU;10;chrisjo01;Josh Christopher;12:39;3;6;.500;0;2;.000;0;0;;0;3;3;2;0;0;0;0;6;-5
+19/10/2022;HOU;11;garubus01;Usman Garuba;Did Not Play
+19/10/2022;HOU;12;hudgitr01;Trevor Hudgins;Did Not Play
+19/10/2022;HOU;13;marjabo01;Boban Marjanović;Did Not Play
+19/10/2022;HOU;0;murrade01;Dejounte Murray;38:14;8;19;.421;1;5;.200;3;3;1.000;0;5;5;11;5;1;0;0;20;+8
+19/10/2022;HOU;1;youngtr01;Trae Young;37:54;7;22;.318;1;9;.111;8;8;1.000;0;3;3;13;1;1;3;1;23;+16
+19/10/2022;HOU;2;collijo01;John Collins;33:39;9;12;.750;2;2;1.000;4;4;1.000;0;8;8;1;1;0;2;3;24;+11
+19/10/2022;HOU;3;huntede01;De'Andre Hunter;32:08;10;15;.667;1;3;.333;1;2;.500;1;2;3;1;1;0;0;3;22;+12
+19/10/2022;HOU;4;capelca01;Clint Capela;26:03;1;3;.333;0;0;;0;0;;2;6;8;0;0;2;1;2;2;-1
+19/10/2022;HOU;5;Reserves;Reserves
+19/10/2022;HOU;6;okongon01;Onyeka Okongwu;21:07;6;8;.750;0;0;;1;3;.333;1;8;9;0;0;0;0;4;13;+8
+19/10/2022;HOU;7;holidju01;Justin Holiday;18:32;1;5;.200;1;4;.250;0;0;;0;1;1;3;1;1;0;2;3;+3
+19/10/2022;HOU;8;holidaa01;Aaron Holiday;18:02;2;5;.400;1;2;.500;0;0;;0;0;0;1;3;0;2;1;5;-6
+19/10/2022;HOU;9;johnsja05;Jalen Johnson;14:21;1;1;1.000;0;0;;3;4;.750;0;1;1;0;0;0;1;2;5;-1
+19/10/2022;HOU;10;culveja01;Jarrett Culver;Did Not Play
+19/10/2022;HOU;11;forretr01;Trent Forrest;Did Not Play
+19/10/2022;HOU;12;griffaj01;AJ Griffin;Did Not Play
+19/10/2022;HOU;13;kaminfr01;Frank Kaminsky;Did Not Play
+19/10/2022;HOU;14;krejcvi01;Vit Krejci;Did Not Play
+19/10/2022;HOU;15;martity01;Tyrese Martin;Did Not Play

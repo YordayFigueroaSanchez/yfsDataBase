@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+02/04/2023;GSW;0;thompkl01;Klay Thompson;39:06;9;28;.321;5;16;.313;2;2;1.000;1;4;5;4;1;0;1;3;25;0
+02/04/2023;GSW;1;curryst01;Stephen Curry;36:53;8;28;.286;2;14;.143;3;3;1.000;1;2;3;4;0;2;3;1;21;-5
+02/04/2023;GSW;2;greendr01;Draymond Green;36:34;2;7;.286;0;1;.000;0;0;;4;5;9;7;1;0;4;5;4;+1
+02/04/2023;GSW;3;divindo01;Donte DiVincenzo;31:34;8;12;.667;1;4;.250;1;1;1.000;5;8;13;4;2;0;3;3;18;+12
+02/04/2023;GSW;4;looneke01;Kevon Looney;27:04;2;6;.333;0;0;;2;2;1.000;7;7;14;1;1;1;1;2;6;+3
+02/04/2023;GSW;5;Reserves;Reserves
+02/04/2023;GSW;6;kuminjo01;Jonathan Kuminga;22:36;3;5;.600;1;2;.500;2;2;1.000;0;1;1;2;2;0;0;2;9;-1
+02/04/2023;GSW;7;poolejo01;Jordan Poole;19:43;7;13;.538;0;3;.000;3;3;1.000;0;2;2;3;1;0;1;4;17;-6
+02/04/2023;GSW;8;lamban01;Anthony Lamb;15:10;2;4;.500;0;2;.000;4;4;1.000;3;5;8;0;1;1;2;1;8;-2
+02/04/2023;GSW;9;paytoga02;Gary Payton II;11:20;1;2;.500;0;0;;0;0;;1;1;2;1;0;0;0;1;2;-12
+02/04/2023;GSW;10;baldwpa01;Patrick Baldwin Jr.;Did Not Play
+02/04/2023;GSW;11;greenja01;JaMychal Green;Did Not Play
+02/04/2023;GSW;12;moodymo01;Moses Moody;Did Not Play
+02/04/2023;GSW;13;quinole01;Lester Quinones;Did Not Play
+02/04/2023;GSW;0;murraja01;Jamal Murray;41:29;10;21;.476;3;8;.375;3;3;1.000;1;2;3;8;2;2;3;2;26;+8
+02/04/2023;GSW;1;gordoaa01;Aaron Gordon;38:56;6;18;.333;0;3;.000;1;2;.500;6;4;10;7;2;0;2;3;13;+9
+02/04/2023;GSW;2;portemi01;Michael Porter Jr.;33:39;10;17;.588;4;8;.500;5;6;.833;3;8;11;0;0;0;1;1;29;+4
+02/04/2023;GSW;3;greenje02;Jeff Green;26:11;4;8;.500;1;5;.200;1;1;1.000;0;4;4;3;0;1;0;1;10;+1
+02/04/2023;GSW;4;caldwke01;Kentavious Caldwell-Pope;20:59;1;6;.167;0;3;.000;1;1;1.000;0;4;4;0;3;0;3;2;3;-8
+02/04/2023;GSW;5;Reserves;Reserves
+02/04/2023;GSW;6;brownbr01;Bruce Brown;31:43;5;11;.455;0;1;.000;4;5;.800;3;1;4;3;2;1;1;4;14;0
+02/04/2023;GSW;7;watsope01;Peyton Watson;20:28;4;6;.667;0;0;;0;0;;3;2;5;0;0;3;0;2;8;+3
+02/04/2023;GSW;8;braunch01;Christian Braun;16:04;3;10;.300;0;3;.000;0;0;;1;4;5;1;2;0;0;1;6;+7
+02/04/2023;GSW;9;jacksre01;Reggie Jackson;7:08;1;2;.500;1;1;1.000;0;0;;0;1;1;0;0;0;1;1;3;-9
+02/04/2023;GSW;10;cancavl01;Vlatko Čančar;3:23;0;1;.000;0;1;.000;0;0;;0;0;0;2;0;0;0;0;0;-5
+02/04/2023;GSW;11;bryanth01;Thomas Bryant;Did Not Play
+02/04/2023;GSW;12;jordade01;DeAndre Jordan;Did Not Play
+02/04/2023;GSW;13;smithis01;Ish Smith;Did Not Play
+02/04/2023;GSW;14;whiteja03;Jack White;Did Not Play

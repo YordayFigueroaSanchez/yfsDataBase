@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+27/02/2023;MIA;0;herroty01;Tyler Herro;34:39;3;13;.231;2;9;.222;0;0;;1;2;3;2;1;0;0;1;8;+3
+27/02/2023;MIA;1;adebaba01;Bam Adebayo;32:14;4;14;.286;0;0;;5;6;.833;2;5;7;2;1;1;5;3;13;-7
+27/02/2023;MIA;2;butleji01;Jimmy Butler;32:08;9;14;.643;1;1;1.000;4;6;.667;4;7;11;9;4;0;3;1;23;-1
+27/02/2023;MIA;3;vincega01;Gabe Vincent;30:21;5;12;.417;4;8;.500;0;0;;2;1;3;1;0;0;0;3;14;-7
+27/02/2023;MIA;4;loveke01;Kevin Love;21:03;3;8;.375;2;6;.333;0;0;;2;3;5;2;1;0;1;3;8;+1
+27/02/2023;MIA;5;Reserves;Reserves
+27/02/2023;MIA;6;martica02;Caleb Martin;30:38;1;2;.500;0;0;;4;4;1.000;0;4;4;3;1;0;0;0;6;+2
+27/02/2023;MIA;7;strusma01;Max Strus;23:54;4;9;.444;3;8;.375;2;2;1.000;1;0;1;0;0;0;0;3;13;+6
+27/02/2023;MIA;8;oladivi01;Victor Oladipo;19:17;4;6;.667;3;5;.600;0;0;;0;2;2;2;2;0;3;3;11;+4
+27/02/2023;MIA;9;zelleco01;Cody Zeller;15:46;2;3;.667;0;0;;1;4;.250;0;1;1;0;0;2;0;3;5;+9
+27/02/2023;MIA;10;hasleud01;Udonis Haslem;Did Not Play
+27/02/2023;MIA;11;highsha01;Haywood Highsmith;Did Not Play
+27/02/2023;MIA;12;robindu01;Duncan Robinson;Did Not Play
+27/02/2023;MIA;0;hardeja01;James Harden;39:16;5;14;.357;3;8;.375;7;8;.875;1;5;6;12;2;0;4;1;20;+10
+27/02/2023;MIA;1;harrito02;Tobias Harris;34:30;1;4;.250;0;2;.000;0;0;;0;5;5;1;1;0;2;3;2;+6
+27/02/2023;MIA;2;embiijo01;Joel Embiid;33:35;10;17;.588;0;1;.000;7;7;1.000;3;9;12;2;0;1;6;4;27;-2
+27/02/2023;MIA;3;tuckepj01;P.J. Tucker;33:16;2;2;1.000;2;2;1.000;2;2;1.000;1;3;4;0;2;0;1;2;8;-7
+27/02/2023;MIA;4;meltode01;De'Anthony Melton;30:38;2;8;.250;1;5;.200;1;1;1.000;0;3;3;2;1;2;2;0;6;-2
+27/02/2023;MIA;5;Reserves;Reserves
+27/02/2023;MIA;6;maxeyty01;Tyrese Maxey;27:27;8;16;.500;4;7;.571;3;4;.750;0;1;1;2;0;0;2;6;23;0
+27/02/2023;MIA;7;reedpa01;Paul Reed;13:22;2;4;.500;0;0;;2;2;1.000;1;2;3;0;0;0;0;0;6;0
+27/02/2023;MIA;8;miltosh01;Shake Milton;10:19;1;3;.333;0;0;;1;2;.500;0;0;0;0;0;0;0;2;3;-2
+27/02/2023;MIA;9;mcdanja01;Jalen McDaniels;10:16;0;2;.000;0;0;;2;2;1.000;3;1;4;1;1;0;1;4;2;-1
+27/02/2023;MIA;10;niangge01;Georges Niang;7:21;1;3;.333;0;2;.000;0;0;;0;1;1;0;0;0;0;2;2;-12
+27/02/2023;MIA;11;harremo01;Montrezl Harrell;Did Not Play
+27/02/2023;MIA;12;houseda01;Danuel House Jr.;Did Not Play
+27/02/2023;MIA;13;korkmfu01;Furkan Korkmaz;Did Not Play

@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+11/12/2022;LAL;0;jamesle01;LeBron James;36:52;14;24;.583;2;6;.333;5;5;1.000;1;4;5;5;1;0;1;1;35;+18
+11/12/2022;LAL;1;davisan02;Anthony Davis;35:44;12;18;.667;0;1;.000;10;12;.833;3;12;15;7;2;1;1;3;34;+7
+11/12/2022;LAL;2;schrode01;Dennis Schröder;32:47;2;6;.333;1;2;.500;0;0;;0;2;2;5;0;0;2;2;5;+15
+11/12/2022;LAL;3;walkelo01;Lonnie Walker IV;29:50;7;10;.700;4;6;.667;0;0;;0;2;2;0;1;0;0;3;18;+2
+11/12/2022;LAL;4;beverpa01;Patrick Beverley;24:27;1;5;.200;1;4;.250;2;4;.500;0;5;5;3;2;0;0;4;5;+5
+11/12/2022;LAL;5;Reserves;Reserves
+11/12/2022;LAL;6;reaveau01;Austin Reaves;28:35;3;6;.500;3;5;.600;0;0;;0;3;3;2;0;1;3;0;9;+3
+11/12/2022;LAL;7;westbru01;Russell Westbrook;21:23;5;9;.556;0;1;.000;1;2;.500;0;4;4;9;1;0;4;1;11;-12
+11/12/2022;LAL;8;browntr01;Troy Brown Jr.;14:59;0;2;.000;0;1;.000;2;2;1.000;2;2;4;0;1;0;0;0;2;-2
+11/12/2022;LAL;9;bryanth01;Thomas Bryant;12:16;2;4;.500;0;0;;1;2;.500;0;2;2;0;0;2;0;0;5;0
+11/12/2022;LAL;10;nunnke01;Kendrick Nunn;3:07;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;-1
+11/12/2022;LAL;11;chrisma02;Max Christie;Did Not Play
+11/12/2022;LAL;12;jonesda03;Damian Jones;Did Not Play
+11/12/2022;LAL;0;bogdabo02;Bojan Bogdanović;34:46;12;22;.545;6;12;.500;8;8;1.000;1;3;4;2;1;1;4;3;38;+8
+11/12/2022;LAL;1;iveyja01;Jaden Ivey;25:10;6;16;.375;1;6;.167;3;4;.750;1;0;1;2;1;1;2;2;16;-8
+11/12/2022;LAL;2;hayeski01;Killian Hayes;25:00;2;6;.333;1;2;.500;0;0;;0;3;3;9;1;0;2;2;5;-10
+11/12/2022;LAL;3;stewais01;Isaiah Stewart;24:15;2;8;.250;2;7;.286;2;2;1.000;1;4;5;0;0;0;1;0;8;-4
+11/12/2022;LAL;4;durenja01;Jalen Duren;23:42;1;1;1.000;0;0;;1;2;.500;4;9;13;2;1;0;1;4;3;-5
+11/12/2022;LAL;5;Reserves;Reserves
+11/12/2022;LAL;6;beysa01;Saddiq Bey;25:49;5;14;.357;4;8;.500;0;1;.000;1;2;3;1;2;0;0;1;14;-7
+11/12/2022;LAL;7;baglema01;Marvin Bagley III;24:18;5;7;.714;0;1;.000;0;0;;1;3;4;1;0;1;0;2;10;-2
+11/12/2022;LAL;8;burksal01;Alec Burks;23:51;5;10;.500;1;4;.250;0;0;;0;4;4;3;1;0;0;3;11;+2
+11/12/2022;LAL;9;josepco01;Cory Joseph;20:25;3;5;.600;1;2;.500;0;0;;0;2;2;7;2;0;1;0;7;+3
+11/12/2022;LAL;10;knoxke01;Kevin Knox;12:44;2;4;.500;1;3;.333;0;0;;1;0;1;1;0;0;1;2;5;-12
+11/12/2022;LAL;11;diallha01;Hamidou Diallo;Did Not Play
+11/12/2022;LAL;12;mcgruro01;Rodney McGruder;Did Not Play
+11/12/2022;LAL;13;noelne01;Nerlens Noel;Did Not Play

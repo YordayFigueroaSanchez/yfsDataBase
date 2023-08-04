@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+10/12/2022;BRK;0;edwarke02;Kessler Edwards;34:37;3;9;.333;0;4;.000;0;0;;4;5;9;0;1;0;3;2;6;+4
+10/12/2022;BRK;1;millspa02;Patty Mills;33:56;10;20;.500;3;8;.375;1;2;.500;0;6;6;6;1;0;2;0;24;+8
+10/12/2022;BRK;2;sharpda01;Day'Ron Sharpe;32:21;8;13;.615;0;0;;4;5;.800;9;3;12;1;0;2;3;5;20;+4
+10/12/2022;BRK;3;morrima02;Markieff Morris;31:42;4;7;.571;1;3;.333;6;6;1.000;3;8;11;2;1;1;1;1;15;+10
+10/12/2022;BRK;4;sumneed01;Edmond Sumner;26:36;7;13;.538;1;3;.333;6;7;.857;4;3;7;5;2;0;0;5;21;-4
+10/12/2022;BRK;5;Reserves;Reserves
+10/12/2022;BRK;6;thomaca02;Cam Thomas;29:09;13;20;.650;3;3;1.000;4;6;.667;2;1;3;0;0;0;2;3;33;-8
+10/12/2022;BRK;7;dukeda01;David Duke Jr.;25:15;3;8;.375;0;2;.000;1;4;.250;2;1;3;3;1;0;4;4;7;+2
+10/12/2022;BRK;8;watanyu01;Yuta Watanabe;21:08;4;10;.400;1;5;.200;1;2;.500;5;2;7;2;1;0;1;3;10;+4
+10/12/2022;BRK;9;willial06;Alondes Williams;5:16;0;0;;0;0;;0;0;;0;1;1;0;0;0;2;1;0;-5
+10/12/2022;BRK;10;curryse01;Seth Curry;Did Not Dress
+10/12/2022;BRK;11;harrijo01;Joe Harris;Did Not Dress
+10/12/2022;BRK;0;halibty01;Tyrese Haliburton;36:51;12;15;.800;7;8;.875;4;4;1.000;0;1;1;9;3;1;5;1;35;-3
+10/12/2022;BRK;1;hieldbu01;Buddy Hield;33:25;6;11;.545;4;8;.500;1;1;1.000;3;1;4;2;0;0;3;2;17;-13
+10/12/2022;BRK;2;nembhan01;Andrew Nembhard;31:43;2;6;.333;1;4;.250;0;0;;0;2;2;7;2;0;2;2;5;-5
+10/12/2022;BRK;3;turnemy01;Myles Turner;29:31;6;11;.545;1;3;.333;3;5;.600;1;2;3;2;0;1;1;5;16;-7
+10/12/2022;BRK;4;smithja04;Jalen Smith;13:14;5;10;.500;3;8;.375;0;0;;0;3;3;1;0;0;2;2;13;-8
+10/12/2022;BRK;5;Reserves;Reserves
+10/12/2022;BRK;6;mathube01;Bennedict Mathurin;26:22;4;9;.444;0;3;.000;5;5;1.000;1;6;7;3;0;0;2;2;13;+12
+10/12/2022;BRK;7;mccontj01;T.J. McConnell;22:46;3;8;.375;0;2;.000;0;0;;0;2;2;4;4;0;0;2;6;+6
+10/12/2022;BRK;8;brissos01;Oshae Brissett;19:11;4;7;.571;3;5;.600;3;5;.600;0;3;3;0;0;0;1;6;14;-1
+10/12/2022;BRK;9;nesmiaa01;Aaron Nesmith;14:53;4;4;1.000;2;2;1.000;2;2;1.000;1;2;3;1;0;0;1;2;12;+5
+10/12/2022;BRK;10;jacksis01;Isaiah Jackson;12:04;1;4;.250;0;1;.000;0;2;.000;1;1;2;1;1;1;1;3;2;-1
+10/12/2022;BRK;11;bitadgo01;Goga Bitadze;Did Not Play
+10/12/2022;BRK;12;johnsja01;James Johnson;Did Not Play
+10/12/2022;BRK;13;taylote01;Terry Taylor;Did Not Play

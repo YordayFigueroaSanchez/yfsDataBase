@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+05/02/2023;ORL;0;fultzma01;Markelle Fultz;35:56;8;13;.615;0;1;.000;0;0;;1;0;1;5;3;0;3;4;16;+2
+05/02/2023;ORL;1;banchpa01;Paolo Banchero;34:31;6;20;.300;0;4;.000;10;11;.909;2;8;10;5;1;0;1;0;22;+4
+05/02/2023;ORL;2;wagnefr01;Franz Wagner;31:08;5;16;.313;2;5;.400;2;2;1.000;3;3;6;1;1;0;1;3;14;+6
+05/02/2023;ORL;3;cartewe01;Wendell Carter Jr.;29:26;7;12;.583;2;4;.500;4;5;.800;3;9;12;3;0;0;1;0;20;+5
+05/02/2023;ORL;4;harriga01;Gary Harris;27:34;2;4;.500;2;4;.500;2;2;1.000;1;2;3;1;1;0;0;4;8;+8
+05/02/2023;ORL;5;Reserves;Reserves
+05/02/2023;ORL;6;anthoco01;Cole Anthony;20:26;4;8;.500;0;1;.000;1;1;1.000;1;1;2;5;0;1;2;2;9;-2
+05/02/2023;ORL;7;bolbo01;Bol Bol;19:19;3;5;.600;0;1;.000;2;2;1.000;1;3;4;1;0;0;2;2;8;+13
+05/02/2023;ORL;8;wagnemo01;Moritz Wagner;18:34;1;2;.500;0;0;;6;7;.857;1;4;5;4;0;0;0;1;8;+1
+05/02/2023;ORL;9;houstca01;Caleb Houstan;12:04;3;4;.750;2;2;1.000;0;0;;1;1;2;0;0;0;2;2;8;+4
+05/02/2023;ORL;10;isaacjo01;Jonathan Isaac;11:02;3;7;.429;0;1;.000;0;0;;4;3;7;0;0;1;0;0;6;-11
+05/02/2023;ORL;11;bambamo01;Mo Bamba;Player Suspended
+05/02/2023;ORL;12;harrike01;Kevon Harris;Did Not Play
+05/02/2023;ORL;13;rosste01;Terrence Ross;Did Not Play
+05/02/2023;ORL;14;schofad01;Admiral Schofield;Did Not Play
+05/02/2023;ORL;15;suggsja01;Jalen Suggs;Player Suspended
+05/02/2023;ORL;0;ballla01;LaMelo Ball;37:53;13;24;.542;6;13;.462;1;2;.500;2;6;8;6;4;0;4;2;33;-17
+05/02/2023;ORL;1;roziete01;Terry Rozier;36:04;9;14;.643;3;5;.600;3;4;.750;1;2;3;6;0;1;0;2;24;+2
+05/02/2023;ORL;2;washipj01;P.J. Washington;32:39;5;10;.500;2;6;.333;0;1;.000;0;4;4;2;1;2;1;4;12;+5
+05/02/2023;ORL;3;plumlma01;Mason Plumlee;31:11;5;6;.833;0;0;;0;4;.000;3;6;9;4;1;1;2;1;10;-2
+05/02/2023;ORL;4;haywago01;Gordon Hayward;30:48;2;9;.222;0;2;.000;2;2;1.000;0;2;2;2;0;0;2;5;6;-10
+05/02/2023;ORL;5;Reserves;Reserves
+05/02/2023;ORL;6;mcdanja01;Jalen McDaniels;25:24;3;8;.375;1;4;.250;0;0;;2;2;4;4;1;0;1;4;7;-4
+05/02/2023;ORL;7;smithde03;Dennis Smith Jr.;22:03;5;8;.625;0;2;.000;4;6;.667;0;4;4;3;0;0;3;1;14;+3
+05/02/2023;ORL;8;willima07;Mark Williams;16:49;3;3;1.000;0;0;;0;0;;0;4;4;0;1;2;2;4;6;-4
+05/02/2023;ORL;9;thorjt01;JT Thor;7:09;0;1;.000;0;1;.000;1;4;.250;0;1;1;1;0;0;0;0;1;-3
+05/02/2023;ORL;10;mcgowbr01;Bryce McGowens;Did Not Play
+05/02/2023;ORL;11;richani01;Nick Richards;Did Not Play

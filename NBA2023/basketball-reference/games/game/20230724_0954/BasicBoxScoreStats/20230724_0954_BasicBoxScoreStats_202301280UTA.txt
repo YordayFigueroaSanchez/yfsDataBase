@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+28/01/2023;DAL;0;dinwisp01;Spencer Dinwiddie;41:31;11;23;.478;6;11;.545;7;10;.700;0;4;4;8;1;1;3;1;35;-7
+28/01/2023;DAL;1;finnedo01;Dorian Finney-Smith;41:16;4;9;.444;3;7;.429;0;0;;3;6;9;4;2;1;2;1;11;+1
+28/01/2023;DAL;2;greenjo02;Josh Green;37:52;4;12;.333;1;6;.167;2;2;1.000;1;2;3;5;0;0;3;4;11;-7
+28/01/2023;DAL;3;hardati02;Tim Hardaway Jr.;30:39;4;12;.333;1;7;.143;1;2;.500;1;3;4;2;2;0;0;1;10;-3
+28/01/2023;DAL;4;poweldw01;Dwight Powell;22:32;1;3;.333;0;0;;0;0;;2;1;3;3;2;1;2;2;2;-12
+28/01/2023;DAL;5;Reserves;Reserves
+28/01/2023;DAL;6;bullore01;Reggie Bullock;33:27;7;10;.700;5;8;.625;0;0;;0;5;5;2;0;0;0;5;19;-3
+28/01/2023;DAL;7;bertada01;Dāvis Bertāns;13:48;1;5;.200;1;5;.200;0;0;;0;1;1;1;0;0;1;1;3;-3
+28/01/2023;DAL;8;ntilila01;Frank Ntilikina;12:22;2;5;.400;0;1;.000;2;3;.667;0;2;2;1;0;0;2;1;6;-7
+28/01/2023;DAL;9;hardyja02;Jaden Hardy;5:03;1;1;1.000;1;1;1.000;0;0;;0;0;0;0;0;0;1;2;3;+1
+28/01/2023;DAL;10;lawsoaj01;A.J. Lawson;0:30;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;0
+28/01/2023;DAL;11;pinsoth01;Theo Pinson;0:30;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;0
+28/01/2023;DAL;12;wrighmc01;McKinley Wright IV;0:30;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;0
+28/01/2023;DAL;13;mcgeeja01;JaVale McGee;Did Not Play
+28/01/2023;DAL;0;markkla01;Lauri Markkanen;36:00;11;20;.550;4;8;.500;3;4;.750;0;5;5;0;1;1;1;2;29;+7
+28/01/2023;DAL;1;conlemi01;Mike Conley;33:43;2;8;.250;0;4;.000;0;0;;2;3;5;11;4;0;3;3;4;+16
+28/01/2023;DAL;2;clarkjo01;Jordan Clarkson;30:58;4;13;.308;1;4;.250;5;6;.833;3;4;7;3;3;0;5;1;14;+11
+28/01/2023;DAL;3;kesslwa01;Walker Kessler;25:03;6;7;.857;0;0;;2;4;.500;2;9;11;2;0;5;0;1;14;+9
+28/01/2023;DAL;4;olynyke01;Kelly Olynyk;15:01;1;4;.250;1;2;.500;0;0;;0;1;1;2;0;0;2;2;3;+4
+28/01/2023;DAL;5;Reserves;Reserves
+28/01/2023;DAL;6;beaslma01;Malik Beasley;29:47;7;13;.538;5;11;.455;0;0;;1;3;4;2;0;0;1;4;19;+5
+28/01/2023;DAL;7;vandeja01;Jarred Vanderbilt;22:27;3;3;1.000;0;0;;1;4;.250;1;5;6;3;0;0;0;2;7;-1
+28/01/2023;DAL;8;sextoco01;Collin Sexton;19:06;3;7;.429;2;4;.500;4;4;1.000;1;1;2;1;1;0;1;2;12;-10
+28/01/2023;DAL;9;agbajoc01;Ochai Agbaji;17:38;1;3;.333;0;2;.000;2;2;1.000;2;1;3;0;0;0;3;4;4;+2
+28/01/2023;DAL;10;gayru01;Rudy Gay;10:17;1;4;.250;0;1;.000;0;0;;1;4;5;2;0;0;0;2;2;-3
+28/01/2023;DAL;11;alexani01;Nickeil Alexander-Walker;Did Not Play
+28/01/2023;DAL;12;azubuud01;Udoka Azubuike;Did Not Play
+28/01/2023;DAL;13;bolmale01;Leandro Bolmaro;Did Not Play
+28/01/2023;DAL;14;fontesi01;Simone Fontecchio;Did Not Play
+28/01/2023;DAL;15;hortota01;Talen Horton-Tucker;Did Not Play

@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+12/12/2022;CLE;0;garlada01;Darius Garland;39:12;7;22;.318;1;6;.167;3;3;1.000;2;5;7;9;1;0;4;2;18;+10
+12/12/2022;CLE;1;mobleev01;Evan Mobley;37:47;7;12;.583;0;0;;3;4;.750;4;9;13;4;0;1;3;2;17;+2
+12/12/2022;CLE;2;mitchdo01;Donovan Mitchell;36:34;12;24;.500;2;7;.286;2;2;1.000;4;1;5;1;0;0;3;3;28;-9
+12/12/2022;CLE;3;allenja01;Jarrett Allen;36:08;7;11;.636;0;0;;2;2;1.000;3;4;7;3;1;3;0;2;16;+1
+12/12/2022;CLE;4;stevela01;Lamar Stevens;24:32;0;0;;0;0;;0;0;;0;3;3;0;0;0;1;0;0;-9
+12/12/2022;CLE;5;Reserves;Reserves
+12/12/2022;CLE;6;leverca01;Caris LeVert;29:15;9;13;.692;1;4;.250;4;4;1.000;1;1;2;3;2;0;2;1;23;+14
+12/12/2022;CLE;7;okorois01;Isaac Okoro;15:44;0;2;.000;0;2;.000;0;0;;0;3;3;0;2;3;1;0;0;-4
+12/12/2022;CLE;8;loveke01;Kevin Love;13:41;2;6;.333;1;3;.333;2;2;1.000;1;2;3;0;1;0;1;2;7;-8
+12/12/2022;CLE;9;osmande01;Cedi Osman;7:07;1;2;.500;0;1;.000;0;0;;0;1;1;1;0;0;0;1;2;-2
+12/12/2022;CLE;10;lopezro01;Robin Lopez;Did Not Play
+12/12/2022;CLE;11;mobleis01;Isaiah Mobley;Did Not Play
+12/12/2022;CLE;12;netora01;Raul Neto;Did Not Play
+12/12/2022;CLE;0;johnske04;Keldon Johnson;33:35;8;25;.320;1;6;.167;4;5;.800;2;4;6;2;0;1;2;1;21;+3
+12/12/2022;CLE;1;jonestr01;Tre Jones;28:37;6;11;.545;0;0;;3;3;1.000;1;3;4;5;2;0;3;2;15;-16
+12/12/2022;CLE;2;colliza01;Zach Collins;27:49;4;7;.571;0;0;;1;2;.500;6;4;10;5;0;0;2;6;9;-9
+12/12/2022;CLE;3;langfro01;Romeo Langford;24:51;1;5;.200;0;2;.000;1;2;.500;2;1;3;1;1;1;0;1;3;-12
+12/12/2022;CLE;4;robyis01;Isaiah Roby;14:30;4;7;.571;1;2;.500;0;0;;1;2;3;2;0;0;1;1;9;+11
+12/12/2022;CLE;5;Reserves;Reserves
+12/12/2022;CLE;6;vassede01;Devin Vassell;27:34;7;14;.500;2;6;.333;0;0;;0;2;2;3;3;0;0;2;16;0
+12/12/2022;CLE;7;richajo01;Josh Richardson;27:00;9;13;.692;5;7;.714;1;1;1.000;0;1;1;2;0;0;2;3;24;+6
+12/12/2022;CLE;8;bassech01;Charles Bassey;20:11;3;5;.600;0;0;;0;0;;6;5;11;1;0;0;1;1;6;+10
+12/12/2022;CLE;9;sochaje01;Jeremy Sochan;18:17;1;4;.250;0;2;.000;0;2;.000;0;3;3;3;0;0;1;2;2;+14
+12/12/2022;CLE;10;mcderdo01;Doug McDermott;17:36;3;6;.500;0;2;.000;1;1;1.000;1;2;3;1;0;0;0;0;7;-2
+12/12/2022;CLE;11;barlodo01;Dominick Barlow;Did Not Play
+12/12/2022;CLE;12;branhma01;Malaki Branham;Did Not Play
+12/12/2022;CLE;13;dienggo01;Gorgui Dieng;Did Not Play
+12/12/2022;CLE;14;johnsal02;Alize Johnson;Did Not Play

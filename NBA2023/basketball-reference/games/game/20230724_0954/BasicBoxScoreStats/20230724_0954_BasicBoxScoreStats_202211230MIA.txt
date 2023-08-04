@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+23/11/2022;WAS;0;avdijde01;Deni Avdija;40:36;5;10;.500;1;3;.333;1;1;1.000;3;6;9;10;1;2;4;4;12;-3
+23/11/2022;WAS;1;kuzmaky01;Kyle Kuzma;39:58;13;27;.481;2;13;.154;5;7;.714;0;7;7;1;1;0;0;1;33;-9
+23/11/2022;WAS;2;kispeco01;Corey Kispert;39:22;3;8;.375;2;6;.333;0;0;;1;1;2;2;1;0;2;1;8;-5
+23/11/2022;WAS;3;porzikr01;Kristaps Porziņģis;33:09;8;19;.421;2;9;.222;3;6;.500;1;8;9;4;0;0;3;5;21;-3
+23/11/2022;WAS;4;goodwjo01;Jordan Goodwin;24:39;3;7;.429;1;2;.500;1;3;.333;0;1;1;3;1;0;0;2;8;-1
+23/11/2022;WAS;5;Reserves;Reserves
+23/11/2022;WAS;6;bartowi01;Will Barton;29:21;5;10;.500;2;5;.400;1;2;.500;0;7;7;7;1;0;2;2;13;-10
+23/11/2022;WAS;7;gillan01;Anthony Gill;12:31;1;1;1.000;0;0;;0;0;;0;1;1;0;1;2;2;2;2;+2
+23/11/2022;WAS;8;gaffoda01;Daniel Gafford;9:56;2;4;.500;0;0;;0;0;;2;4;6;0;1;0;1;3;4;-10
+23/11/2022;WAS;9;davisjo06;Johnny Davis;5:33;0;0;;0;0;;0;0;;0;1;1;0;0;1;0;0;0;-6
+23/11/2022;WAS;10;gibsota01;Taj Gibson;4:55;2;3;.667;0;0;;0;0;;0;0;0;0;0;0;0;0;4;+5
+23/11/2022;WAS;11;careyve01;Vernon Carey Jr.;Did Not Play
+23/11/2022;WAS;12;dotsode01;Devon Dotson;Did Not Play
+23/11/2022;WAS;13;toddis01;Isaiah Todd;Did Not Play
+23/11/2022;WAS;0;martica02;Caleb Martin;40:29;10;17;.588;4;9;.444;0;0;;4;5;9;4;2;1;0;2;24;-2
+23/11/2022;WAS;1;adebaba01;Bam Adebayo;35:21;5;15;.333;0;0;;5;6;.833;4;7;11;2;2;1;2;4;15;+6
+23/11/2022;WAS;2;lowryky01;Kyle Lowry;35:13;7;12;.583;5;6;.833;9;9;1.000;2;4;6;3;0;1;4;5;28;+19
+23/11/2022;WAS;3;herroty01;Tyler Herro;29:23;6;15;.400;5;10;.500;0;2;.000;0;5;5;3;0;0;3;3;17;-10
+23/11/2022;WAS;4;jovicni01;Nikola Jović;12:28;3;7;.429;1;3;.333;0;0;;0;5;5;0;0;0;2;0;7;-8
+23/11/2022;WAS;5;Reserves;Reserves
+23/11/2022;WAS;6;highsha01;Haywood Highsmith;37:48;2;7;.286;1;4;.250;0;0;;0;8;8;1;1;0;0;0;5;+16
+23/11/2022;WAS;7;vincega01;Gabe Vincent;18:56;1;9;.111;0;6;.000;0;0;;0;1;1;4;0;0;0;0;2;+9
+23/11/2022;WAS;8;cainja01;Jamal Cain;17:43;2;6;.333;0;2;.000;2;2;1.000;4;2;6;2;2;0;1;3;6;+8
+23/11/2022;WAS;9;dedmode01;Dewayne Dedmon;12:39;3;5;.600;0;1;.000;3;3;1.000;0;2;2;1;0;2;0;1;9;+2
+23/11/2022;WAS;10;hasleud01;Udonis Haslem;Did Not Play
+23/11/2022;WAS;11;robinor01;Orlando Robinson;Did Not Play

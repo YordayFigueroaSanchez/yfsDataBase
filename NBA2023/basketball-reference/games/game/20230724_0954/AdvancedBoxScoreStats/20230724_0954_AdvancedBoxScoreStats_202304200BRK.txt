@@ -1,0 +1,32 @@
+dateId;teamId;order;playerId;Starters;MP;TS%;eFG%;3PAr;FTr;ORB%;DRB%;TRB%;AST%;STL%;BLK%;TOV%;USG%;ORtg;DRtg;BPM
+20/04/2023;PHI;0;embiijo01;Joel Embiid;37:38;.461;.385;.231;.385;0.0;29.7;15.9;7.6;1.5;5.2;24.8;25.3;80;104;-7.1
+20/04/2023;PHI;1;maxeyty01;Tyrese Maxey;36:17;.735;.735;.471;.000;0.0;9.2;5.0;14.8;1.5;0.0;5.6;23.4;150;113;10.4
+20/04/2023;PHI;2;harrito02;Tobias Harris;35:55;.558;.538;.308;.077;0.0;21.8;11.7;4.2;0.0;0.0;6.9;19.0;115;114;-0.6
+20/04/2023;PHI;3;hardeja01;James Harden;29:22;.643;.633;.467;.200;4.4;15.2;10.2;24.3;0.0;0.0;10.9;29.4;131;115;7.2
+20/04/2023;PHI;4;tuckepj01;P.J. Tucker;29:17;.387;.333;.667;.667;13.3;19.1;16.4;17.1;0.0;3.3;20.5;7.9;121;111;2.8
+20/04/2023;PHI;5;Reserves;Reserves
+20/04/2023;PHI;6;meltode01;De'Anthony Melton;30:08;.732;.750;.500;.250;8.6;0.0;4.0;5.0;5.5;0.0;18.4;17.0;128;107;8.6
+20/04/2023;PHI;7;niangge01;Georges Niang;19:20;.625;.625;.500;.000;0.0;11.5;6.2;0.0;0.0;0.0;20.0;12.2;101;116;-3.1
+20/04/2023;PHI;8;mcdanja01;Jalen McDaniels;11:41;.400;.400;.200;.000;11.1;19.1;15.4;0.0;0.0;0.0;16.7;24.2;80;114;-11.7
+20/04/2023;PHI;9;reedpa01;Paul Reed;10:22;.250;.250;.000;.000;50.1;21.5;34.7;0.0;0.0;0.0;0.0;18.2;108;114;-7.9
+20/04/2023;PHI;10;dedmode01;Dewayne Dedmon;Did Not Play
+20/04/2023;PHI;11;harremo01;Montrezl Harrell;Did Not Play
+20/04/2023;PHI;12;houseda01;Danuel House Jr.;Did Not Play
+20/04/2023;PHI;13;korkmfu01;Furkan Korkmaz;Did Not Play
+20/04/2023;PHI;14;miltosh01;Shake Milton;Did Not Play
+20/04/2023;PHI;15;sprinja01;Jaden Springer;Did Not Play
+20/04/2023;PHI;0;johnsca02;Cameron Johnson;43:44;.638;.583;.417;.250;0.0;14.8;6.9;16.0;0.0;0.0;0.0;15.1;137;120;0.8
+20/04/2023;PHI;1;bridgmi01;Mikal Bridges;43:09;.468;.423;.269;.154;2.6;15.0;8.3;23.2;1.3;2.2;3.5;33.1;101;116;2.4
+20/04/2023;PHI;2;dinwisp01;Spencer Dinwiddie;42:13;.610;.500;.333;.833;0.0;9.2;4.3;28.1;2.6;0.0;15.5;22.8;116;116;2.3
+20/04/2023;PHI;3;finnedo01;Dorian Finney-Smith;36:21;.375;.375;1.000;.000;12.3;17.8;14.9;4.0;0.0;2.6;20.0;6.8;105;118;-4.7
+20/04/2023;PHI;4;claxtni01;Nic Claxton;27:37;.872;.889;.000;.333;0.0;18.8;8.7;17.3;2.0;0.0;0.0;18.6;175;115;12.8
+20/04/2023;PHI;5;Reserves;Reserves
+20/04/2023;PHI;6;onealro01;Royce O'Neale;29:58;.444;.357;.714;.286;11.2;13.0;12.0;5.2;1.8;3.1;20.2;16.4;92;115;-4.4
+20/04/2023;PHI;7;thomaca02;Cam Thomas;11:12;.500;.500;.333;.000;0.0;11.6;5.4;20.3;0.0;0.0;14.3;31.0;85;121;-10.5
+20/04/2023;PHI;8;harrijo01;Joe Harris;3:31;.000;.000;1.000;.000;0.0;0.0;0.0;0.0;0.0;0.0;0.0;42.4;0;125;-45.6
+20/04/2023;PHI;9;sharpda01;Day'Ron Sharpe;2:15;;;;;0.0;0.0;0.0;62.7;0.0;0.0;;0.0;229;125;16.9
+20/04/2023;PHI;10;curryse01;Seth Curry;Did Not Play
+20/04/2023;PHI;11;dukeda01;David Duke Jr.;Did Not Play
+20/04/2023;PHI;12;millspa02;Patty Mills;Did Not Play
+20/04/2023;PHI;13;sumneed01;Edmond Sumner;Did Not Play
+20/04/2023;PHI;14;watanyu01;Yuta Watanabe;Did Not Play

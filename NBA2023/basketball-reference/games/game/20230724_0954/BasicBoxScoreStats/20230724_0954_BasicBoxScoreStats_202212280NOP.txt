@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+28/12/2022;MIN;0;edwaran01;Anthony Edwards;38:46;10;23;.435;2;6;.333;5;9;.556;1;5;6;2;2;1;4;4;27;-5
+28/12/2022;MIN;1;russeda01;D'Angelo Russell;38:22;8;17;.471;2;7;.286;9;9;1.000;0;3;3;4;2;0;3;1;27;+5
+28/12/2022;MIN;2;mcdanja02;Jaden McDaniels;34:10;8;12;.667;1;2;.500;2;3;.667;3;4;7;3;2;1;0;5;19;+2
+28/12/2022;MIN;3;riverau01;Austin Rivers;33:12;2;6;.333;1;4;.250;0;1;.000;0;2;2;2;0;0;0;6;5;-10
+28/12/2022;MIN;4;goberru01;Rudy Gobert;28:47;4;5;.800;0;0;;2;2;1.000;1;7;8;2;0;4;2;6;10;-6
+28/12/2022;MIN;5;Reserves;Reserves
+28/12/2022;MIN;6;reidna01;Naz Reid;25:28;5;8;.625;2;5;.400;1;2;.500;0;6;6;1;0;2;1;1;13;+6
+28/12/2022;MIN;7;nowelja01;Jaylen Nowell;24:35;5;11;.455;2;4;.500;2;2;1.000;0;2;2;2;0;0;0;2;14;-2
+28/12/2022;MIN;8;forbebr01;Bryn Forbes;13:24;0;1;.000;0;1;.000;2;2;1.000;0;1;1;1;0;0;1;1;2;+4
+28/12/2022;MIN;9;knighna01;Nathan Knight;3:16;0;0;;0;0;;1;2;.500;0;0;0;1;0;0;0;2;1;+1
+28/12/2022;MIN;10;garzalu01;Luka Garza;Did Not Play
+28/12/2022;MIN;11;minotjo01;Josh Minott;Did Not Play
+28/12/2022;MIN;12;moorewe01;Wendell Moore Jr.;Did Not Play
+28/12/2022;MIN;13;ryanma01;Matt Ryan;Did Not Play
+28/12/2022;MIN;0;mccolcj01;CJ McCollum;37:10;7;16;.438;3;6;.500;3;5;.600;1;2;3;6;2;0;4;2;20;+3
+28/12/2022;MIN;1;marshna01;Naji Marshall;35:03;4;9;.444;0;2;.000;4;5;.800;1;6;7;1;0;0;0;3;12;+3
+28/12/2022;MIN;2;willizi01;Zion Williamson;33:57;14;21;.667;1;1;1.000;14;19;.737;0;3;3;5;1;1;4;3;43;+3
+28/12/2022;MIN;3;valanjo01;Jonas Valančiūnas;29:13;4;12;.333;0;3;.000;4;4;1.000;3;8;11;2;0;1;1;3;12;+2
+28/12/2022;MIN;4;murphtr02;Trey Murphy III;26:57;6;8;.750;5;6;.833;4;5;.800;0;3;3;4;0;0;0;3;21;+10
+28/12/2022;MIN;5;Reserves;Reserves
+28/12/2022;MIN;6;daniedy01;Dyson Daniels;18:25;1;3;.333;1;1;1.000;0;2;.000;2;2;4;2;1;1;2;0;3;-5
+28/12/2022;MIN;7;hayesja02;Jaxson Hayes;16:46;1;2;.500;1;1;1.000;0;0;;0;3;3;0;0;0;1;3;3;-2
+28/12/2022;MIN;8;grahade01;Devonte' Graham;15:47;0;3;.000;0;2;.000;0;0;;1;3;4;1;0;1;0;1;0;+2
+28/12/2022;MIN;9;nancela02;Larry Nance Jr.;15:31;0;1;.000;0;0;;0;0;;0;2;2;1;1;0;0;4;0;-1
+28/12/2022;MIN;10;alvarjo01;Jose Alvarado;11:11;2;6;.333;0;1;.000;1;3;.333;1;2;3;0;1;0;1;2;5;-10
+28/12/2022;MIN;11;hernawi01;Willy Hernangómez;Did Not Play
+28/12/2022;MIN;12;lewiski01;Kira Lewis Jr.;Did Not Play
+28/12/2022;MIN;13;seabrde01;Dereon Seabron;Did Not Play
+28/12/2022;MIN;14;templga01;Garrett Temple;Did Not Play

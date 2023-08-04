@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+06/02/2023;DAL;0;greenjo02;Josh Green;37:29;10;17;.588;3;6;.500;6;6;1.000;1;5;6;2;0;0;0;2;29;+39
+06/02/2023;DAL;1;hardati02;Tim Hardaway Jr.;34:35;5;16;.313;3;7;.429;4;7;.571;0;3;3;2;0;0;2;3;17;+10
+06/02/2023;DAL;2;bullore01;Reggie Bullock;33:32;5;11;.455;3;8;.375;0;0;;1;1;2;3;4;1;1;2;13;+6
+06/02/2023;DAL;3;poweldw01;Dwight Powell;28:10;4;5;.800;0;0;;4;5;.800;8;8;16;2;0;1;4;3;12;+11
+06/02/2023;DAL;4;wrighmc01;McKinley Wright IV;19:49;5;10;.500;0;3;.000;0;0;;1;2;3;4;0;0;1;1;10;-16
+06/02/2023;DAL;5;Reserves;Reserves
+06/02/2023;DAL;6;hardyja02;Jaden Hardy;25:39;8;12;.667;4;6;.667;9;9;1.000;1;3;4;4;2;0;2;4;29;+23
+06/02/2023;DAL;7;woodch01;Christian Wood;18:36;1;7;.143;0;4;.000;4;4;1.000;1;8;9;4;0;0;0;2;6;-16
+06/02/2023;DAL;8;pinsoth01;Theo Pinson;12:34;1;2;.500;1;2;.500;0;0;;3;1;4;2;0;0;1;1;3;+3
+06/02/2023;DAL;9;lawsoaj01;A.J. Lawson;12:17;1;4;.250;1;3;.333;0;0;;0;0;0;0;0;0;1;3;3;+1
+06/02/2023;DAL;10;ntilila01;Frank Ntilikina;7:25;0;2;.000;0;0;;0;0;;1;1;2;3;0;1;0;2;0;-3
+06/02/2023;DAL;11;mcgeeja01;JaVale McGee;6:53;0;1;.000;0;0;;0;0;;0;0;0;0;0;1;0;0;0;+6
+06/02/2023;DAL;12;silvach01;Chris Silva;3:01;1;1;1.000;0;0;;0;0;;0;0;0;0;0;0;1;2;2;+1
+06/02/2023;DAL;0;markkla01;Lauri Markkanen;36:15;9;17;.529;1;7;.143;0;0;;1;6;7;0;2;1;2;6;19;-23
+06/02/2023;DAL;1;clarkjo01;Jordan Clarkson;32:09;7;19;.368;0;5;.000;12;15;.800;2;2;4;2;0;0;4;3;26;-6
+06/02/2023;DAL;2;conlemi01;Mike Conley;31:14;4;8;.500;1;4;.250;1;1;1.000;0;1;1;11;0;0;2;1;10;-10
+06/02/2023;DAL;3;olynyke01;Kelly Olynyk;28:09;4;8;.500;0;3;.000;3;3;1.000;3;3;6;3;0;0;0;4;11;-9
+06/02/2023;DAL;4;kesslwa01;Walker Kessler;26:48;6;9;.667;0;0;;1;1;1.000;4;5;9;1;1;3;1;1;13;-8
+06/02/2023;DAL;5;Reserves;Reserves
+06/02/2023;DAL;6;sextoco01;Collin Sexton;25:03;2;3;.667;0;0;;6;6;1.000;0;0;0;1;0;0;2;4;10;-5
+06/02/2023;DAL;7;beaslma01;Malik Beasley;23:04;3;9;.333;3;7;.429;0;0;;0;7;7;1;1;0;2;2;9;-3
+06/02/2023;DAL;8;gayru01;Rudy Gay;15:03;5;11;.455;0;2;.000;0;0;;0;1;1;2;0;0;0;0;10;+4
+06/02/2023;DAL;9;agbajoc01;Ochai Agbaji;13:28;1;3;.333;1;3;.333;0;0;;0;0;0;0;0;0;0;1;3;-11
+06/02/2023;DAL;10;azubuud01;Udoka Azubuike;8:47;0;0;;0;0;;0;0;;0;2;2;0;0;0;0;1;0;+6
+06/02/2023;DAL;11;alexani01;Nickeil Alexander-Walker;Did Not Play
+06/02/2023;DAL;12;bolmale01;Leandro Bolmaro;Did Not Play
+06/02/2023;DAL;13;fontesi01;Simone Fontecchio;Did Not Play
+06/02/2023;DAL;14;hortota01;Talen Horton-Tucker;Did Not Play

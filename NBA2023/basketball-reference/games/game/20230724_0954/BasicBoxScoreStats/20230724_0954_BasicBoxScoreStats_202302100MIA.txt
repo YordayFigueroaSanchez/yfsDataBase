@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+10/02/2023;HOU;0;martike04;Kenyon Martin Jr.;37:53;6;9;.667;1;3;.333;4;5;.800;1;5;6;3;2;2;5;2;17;-19
+10/02/2023;HOU;1;smithja05;Jabari Smith Jr.;34:05;8;16;.500;3;9;.333;3;3;1.000;2;6;8;1;0;1;0;5;22;-3
+10/02/2023;HOU;2;greenja05;Jalen Green;32:32;5;19;.263;0;9;.000;1;1;1.000;1;4;5;4;2;0;4;1;11;-9
+10/02/2023;HOU;3;sengual01;Alperen Şengün;30:57;3;9;.333;0;0;;6;6;1.000;2;6;8;3;1;0;4;2;12;-2
+10/02/2023;HOU;4;tateja01;Jae'Sean Tate;24:26;2;7;.286;0;0;;1;3;.333;2;2;4;1;0;0;1;4;5;-13
+10/02/2023;HOU;5;Reserves;Reserves
+10/02/2023;HOU;6;washity02;TyTy Washington Jr.;22:38;2;7;.286;0;3;.000;2;3;.667;1;5;6;6;0;0;0;1;6;+10
+10/02/2023;HOU;7;easonta01;Tari Eason;19:12;3;5;.600;1;2;.500;1;3;.333;0;3;3;2;1;1;0;0;8;+11
+10/02/2023;HOU;8;nixda01;Daishen Nix;14:04;2;3;.667;1;2;.500;0;0;;0;2;2;1;1;0;1;2;5;+7
+10/02/2023;HOU;9;garubus01;Usman Garuba;13:53;1;2;.500;0;1;.000;0;0;;1;3;4;0;2;0;0;2;2;+2
+10/02/2023;HOU;10;chrisjo01;Josh Christopher;10:20;3;7;.429;1;1;1.000;0;0;;0;1;1;2;2;0;1;2;7;+6
+10/02/2023;HOU;11;daysda01;Darius Days;Did Not Play
+10/02/2023;HOU;12;holidju01;Justin Holiday;Did Not Play
+10/02/2023;HOU;13;hudgitr01;Trevor Hudgins;Did Not Play
+10/02/2023;HOU;14;kaminfr01;Frank Kaminsky;Did Not Play
+10/02/2023;HOU;15;marjabo01;Boban Marjanović;Not With Team
+10/02/2023;HOU;0;herroty01;Tyler Herro;37:13;11;20;.550;5;10;.500;4;4;1.000;2;7;9;8;1;1;4;1;31;+19
+10/02/2023;HOU;1;vincega01;Gabe Vincent;34:37;2;8;.250;1;6;.167;0;0;;0;3;3;4;2;1;2;0;5;0
+10/02/2023;HOU;2;adebaba01;Bam Adebayo;33:58;7;11;.636;0;0;;6;7;.857;1;8;9;3;2;1;3;5;20;+21
+10/02/2023;HOU;3;butleji01;Jimmy Butler;28:23;4;11;.364;0;1;.000;8;8;1.000;2;2;4;4;2;1;1;0;16;+7
+10/02/2023;HOU;4;martica02;Caleb Martin;19:49;2;9;.222;2;6;.333;0;0;;0;9;9;1;0;1;2;5;6;-7
+10/02/2023;HOU;5;Reserves;Reserves
+10/02/2023;HOU;6;strusma01;Max Strus;34:01;4;12;.333;3;11;.273;3;3;1.000;0;0;0;1;1;0;0;4;14;-5
+10/02/2023;HOU;7;highsha01;Haywood Highsmith;23:51;1;3;.333;1;3;.333;0;0;;1;2;3;0;2;0;1;2;3;-8
+10/02/2023;HOU;8;bouyeja01;Jamaree Bouyea;14:06;1;3;.333;0;1;.000;0;0;;0;0;0;0;1;0;2;2;2;+2
+10/02/2023;HOU;9;robinor01;Orlando Robinson;14:02;0;0;;0;0;;0;0;;0;3;3;0;0;1;1;4;0;-19
+10/02/2023;HOU;10;cainja01;Jamal Cain;Did Not Play
+10/02/2023;HOU;11;hasleud01;Udonis Haslem;Not With Team

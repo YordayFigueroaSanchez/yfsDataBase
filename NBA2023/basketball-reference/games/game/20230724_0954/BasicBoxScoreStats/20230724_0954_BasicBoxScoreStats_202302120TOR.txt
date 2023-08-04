@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+12/02/2023;DET;0;bogdabo02;Bojan Bogdanović;37:59;10;18;.556;3;8;.375;10;11;.909;1;4;5;3;0;1;1;2;33;-2
+12/02/2023;DET;1;stewais01;Isaiah Stewart;37:41;5;7;.714;3;4;.750;3;5;.600;0;3;3;1;0;0;1;1;16;+5
+12/02/2023;DET;2;iveyja01;Jaden Ivey;27:29;6;11;.545;3;4;.750;3;4;.750;1;1;2;7;0;0;2;5;18;-2
+12/02/2023;DET;3;durenja01;Jalen Duren;21:12;2;5;.400;0;0;;2;4;.500;1;3;4;1;0;0;1;4;6;-23
+12/02/2023;DET;4;hayeski01;Killian Hayes;20:38;1;10;.100;0;5;.000;0;0;;0;4;4;5;0;1;3;4;2;-13
+12/02/2023;DET;5;Reserves;Reserves
+12/02/2023;DET;6;burksal01;Alec Burks;28:13;6;9;.667;4;7;.571;5;6;.833;1;2;3;2;1;0;2;1;21;+13
+12/02/2023;DET;7;liveris01;Isaiah Livers;27:03;1;5;.200;0;4;.000;0;0;;1;1;2;1;1;1;1;4;2;+16
+12/02/2023;DET;8;diallha01;Hamidou Diallo;22:13;8;11;.727;0;0;;2;2;1.000;1;6;7;1;1;1;1;3;18;0
+12/02/2023;DET;9;josepco01;Cory Joseph;17:32;1;3;.333;0;2;.000;0;0;;0;2;2;4;0;0;4;2;2;+1
+12/02/2023;DET;10;baglema01;Marvin Bagley III;Did Not Dress
+12/02/2023;DET;11;mcgruro01;Rodney McGruder;Did Not Play
+12/02/2023;DET;12;umudest01;Stanley Umude;Did Not Play
+12/02/2023;DET;0;siakapa01;Pascal Siakam;38:20;10;19;.526;1;3;.333;7;10;.700;1;3;4;6;0;2;2;2;28;+6
+12/02/2023;DET;1;barnesc01;Scottie Barnes;37:20;5;6;.833;3;4;.750;7;10;.700;0;4;4;2;1;0;4;5;20;+5
+12/02/2023;DET;2;vanvlfr01;Fred VanVleet;37:07;12;26;.462;6;13;.462;5;7;.714;0;3;3;8;0;1;1;3;35;-4
+12/02/2023;DET;3;achiupr01;Precious Achiuwa;33:03;4;10;.400;0;2;.000;3;6;.500;4;7;11;1;0;0;0;2;11;+5
+12/02/2023;DET;4;poeltja01;Jakob Poeltl;25:04;3;5;.600;0;0;;0;0;;2;3;5;1;2;3;0;6;6;+11
+12/02/2023;DET;5;Reserves;Reserves
+12/02/2023;DET;6;youngth01;Thaddeus Young;24:02;2;5;.400;0;2;.000;0;0;;2;3;5;2;1;0;0;2;4;-9
+12/02/2023;DET;7;flynnma01;Malachi Flynn;18:05;2;5;.400;1;2;.500;0;0;;1;1;2;1;0;0;0;1;5;-3
+12/02/2023;DET;8;bouchch01;Chris Boucher;17:36;3;6;.500;0;2;.000;1;1;1.000;3;2;5;0;1;2;1;3;7;-9
+12/02/2023;DET;9;bantoda01;Dalano Banton;9:22;1;5;.200;0;2;.000;1;2;.500;0;1;1;0;0;0;0;2;3;+3
+12/02/2023;DET;10;hernaju01;Juancho Hernangómez;Did Not Play
+12/02/2023;DET;11;trentga02;Gary Trent Jr.;Did Not Dress
+12/02/2023;DET;12;wieskjo01;Joe Wieskamp;Did Not Play

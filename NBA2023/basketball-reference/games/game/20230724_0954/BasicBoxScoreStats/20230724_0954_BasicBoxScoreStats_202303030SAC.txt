@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+03/03/2023;LAC;0;batumni01;Nicolas Batum;36:46;4;6;.667;3;5;.600;0;0;;0;4;4;0;1;0;0;3;11;+9
+03/03/2023;LAC;1;westbru01;Russell Westbrook;35:30;12;16;.750;1;2;.500;2;5;.400;0;2;2;10;1;2;5;1;27;+10
+03/03/2023;LAC;2;georgpa01;Paul George;34:01;8;16;.500;2;8;.250;10;10;1.000;2;5;7;8;1;0;1;4;28;+6
+03/03/2023;LAC;3;gordoer01;Eric Gordon;30:04;8;13;.615;3;7;.429;2;3;.667;0;3;3;3;1;0;0;2;21;+16
+03/03/2023;LAC;4;plumlma01;Mason Plumlee;25:42;5;7;.714;0;0;;3;5;.600;3;5;8;3;0;1;1;3;13;+1
+03/03/2023;LAC;5;Reserves;Reserves
+03/03/2023;LAC;6;covinro01;Robert Covington;30:59;6;11;.545;3;8;.375;0;0;;0;4;4;1;2;0;0;4;15;-5
+03/03/2023;LAC;7;mannte01;Terance Mann;22:10;3;6;.500;2;4;.500;0;0;;0;0;0;3;0;0;0;3;8;-20
+03/03/2023;LAC;8;coffeam01;Amir Coffey;12:30;0;3;.000;0;1;.000;0;2;.000;0;0;0;1;0;0;0;1;0;-11
+03/03/2023;LAC;9;hylanbo01;Bones Hyland;12:18;1;9;.111;0;6;.000;2;2;1.000;1;3;4;2;1;0;0;3;4;-11
+03/03/2023;LAC;10;morrima03;Marcus Morris;Did Not Dress
+03/03/2023;LAC;11;zubaciv01;Ivica Zubac;Did Not Dress
+03/03/2023;LAC;0;barneha02;Harrison Barnes;36:56;6;11;.545;0;3;.000;8;8;1.000;1;6;7;0;0;0;1;3;20;-5
+03/03/2023;LAC;1;sabondo01;Domantas Sabonis;34:49;10;13;.769;0;0;;3;3;1.000;2;8;10;7;1;1;3;2;23;-6
+03/03/2023;LAC;2;foxde01;De'Aaron Fox;34:00;12;22;.545;1;5;.200;8;8;1.000;3;4;7;7;1;0;2;3;33;-13
+03/03/2023;LAC;3;murrake02;Keegan Murray;32:39;5;10;.500;4;9;.444;0;0;;2;3;5;0;1;0;0;3;14;-3
+03/03/2023;LAC;4;huertke01;Kevin Huerter;22:12;6;9;.667;3;4;.750;3;3;1.000;0;0;0;0;0;0;1;4;18;-10
+03/03/2023;LAC;5;Reserves;Reserves
+03/03/2023;LAC;6;monkma01;Malik Monk;23:14;1;8;.125;0;5;.000;2;2;1.000;0;2;2;8;0;0;3;1;4;+13
+03/03/2023;LAC;7;lylestr01;Trey Lyles;21:37;3;5;.600;2;4;.500;2;2;1.000;1;7;8;1;0;1;1;4;10;+10
+03/03/2023;LAC;8;mitchda01;Davion Mitchell;14:30;2;3;.667;0;1;.000;0;0;;0;1;1;3;0;0;0;2;4;+12
+03/03/2023;LAC;9;metuch01;Chimezie Metu;12:48;1;4;.250;0;0;;0;0;;0;5;5;0;0;0;0;0;2;+9
+03/03/2023;LAC;10;daviste02;Terence Davis;7:12;0;2;.000;0;2;.000;0;0;;0;0;0;0;0;0;0;0;0;-2
+03/03/2023;LAC;11;doziepj01;PJ Dozier;0:03;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;0
+03/03/2023;LAC;12;dellama01;Matthew Dellavedova;Did Not Play
+03/03/2023;LAC;13;edwarke02;Kessler Edwards;Did Not Play
+03/03/2023;LAC;14;elliske01;Keon Ellis;Did Not Play
+03/03/2023;LAC;15;lenal01;Alex Len;Did Not Play

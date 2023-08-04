@@ -1,0 +1,25 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+20/03/2023;GSW;0;thompkl01;Klay Thompson;37:10;11;21;.524;5;13;.385;2;2;1.000;0;7;7;1;1;1;2;0;29;+13
+20/03/2023;GSW;1;curryst01;Stephen Curry;36:06;10;23;.435;5;15;.333;5;5;1.000;1;6;7;5;2;1;4;3;30;+5
+20/03/2023;GSW;2;greendr01;Draymond Green;33:46;4;4;1.000;0;0;;0;0;;0;7;7;7;1;1;2;3;8;+15
+20/03/2023;GSW;3;looneke01;Kevon Looney;23:47;4;7;.571;0;0;;3;6;.500;8;2;10;2;1;0;2;2;11;+4
+20/03/2023;GSW;4;divindo01;Donte DiVincenzo;19:15;1;6;.167;1;5;.200;2;2;1.000;1;2;3;2;3;0;3;2;5;0
+20/03/2023;GSW;5;Reserves;Reserves
+20/03/2023;GSW;6;poolejo01;Jordan Poole;26:22;1;8;.125;1;6;.167;2;2;1.000;0;2;2;8;1;1;2;0;5;+13
+20/03/2023;GSW;7;kuminjo01;Jonathan Kuminga;25:33;7;9;.778;1;2;.500;2;2;1.000;1;2;3;4;0;1;2;2;17;+3
+20/03/2023;GSW;8;lamban01;Anthony Lamb;17:01;3;4;.750;3;4;.750;0;0;;1;2;3;0;1;1;1;1;9;+8
+20/03/2023;GSW;9;greenja01;JaMychal Green;12:54;2;5;.400;0;2;.000;0;0;;3;1;4;2;1;0;0;0;4;+4
+20/03/2023;GSW;10;moodymo01;Moses Moody;8:06;1;1;1.000;1;1;1.000;0;0;;1;1;2;0;1;0;0;1;3;0
+20/03/2023;GSW;11;rolliry01;Ryan Rollins;Did Not Play
+20/03/2023;GSW;0;greenja05;Jalen Green;40:57;7;19;.368;3;7;.429;3;3;1.000;0;3;3;2;1;1;5;5;20;-9
+20/03/2023;GSW;1;smithja05;Jabari Smith Jr.;38:56;7;15;.467;1;4;.250;2;4;.500;4;7;11;2;1;1;0;2;17;+2
+20/03/2023;GSW;2;porteke02;Kevin Porter Jr.;38:16;4;15;.267;3;10;.300;6;6;1.000;1;4;5;5;3;0;5;1;17;-11
+20/03/2023;GSW;3;martike04;Kenyon Martin Jr.;32:32;5;12;.417;0;4;.000;3;3;1.000;1;2;3;1;2;0;0;0;13;-8
+20/03/2023;GSW;4;easonta01;Tari Eason;30:59;9;16;.563;1;5;.200;2;4;.500;4;8;12;1;4;0;2;2;21;-3
+20/03/2023;GSW;5;Reserves;Reserves
+20/03/2023;GSW;6;chrisjo01;Josh Christopher;22:17;3;9;.333;0;3;.000;4;4;1.000;2;1;3;1;3;0;2;3;10;-16
+20/03/2023;GSW;7;garubus01;Usman Garuba;18:59;3;5;.600;1;2;.500;0;0;;1;2;3;0;0;0;0;1;7;-14
+20/03/2023;GSW;8;nixda01;Daishen Nix;17:04;1;2;.500;1;1;1.000;0;0;;0;1;1;2;0;0;3;0;3;-6
+20/03/2023;GSW;9;kaminfr01;Frank Kaminsky;Did Not Play
+20/03/2023;GSW;10;marjabo01;Boban Marjanović;Did Not Play
+20/03/2023;GSW;11;washity02;TyTy Washington Jr.;Did Not Play

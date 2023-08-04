@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+04/04/2023;LAL;0;davisan02;Anthony Davis;42:05;7;16;.438;0;0;;7;12;.583;4;10;14;6;2;2;1;3;21;+4
+04/04/2023;LAL;1;schrode01;Dennis Schröder;41:53;7;17;.412;1;5;.200;3;4;.750;3;0;3;4;1;1;2;5;18;+4
+04/04/2023;LAL;2;reaveau01;Austin Reaves;41:32;8;13;.615;4;7;.571;8;8;1.000;0;3;3;6;0;0;2;1;28;+10
+04/04/2023;LAL;3;jamesle01;LeBron James;38:28;14;27;.519;3;10;.300;6;6;1.000;0;5;5;6;1;1;5;2;37;-7
+04/04/2023;LAL;4;vandeja01;Jarred Vanderbilt;18:20;2;4;.500;2;4;.500;0;0;;1;1;2;1;1;1;0;4;6;+4
+04/04/2023;LAL;5;Reserves;Reserves
+04/04/2023;LAL;6;browntr01;Troy Brown Jr.;25:31;1;4;.250;1;2;.500;0;0;;0;4;4;2;1;0;0;0;3;+2
+04/04/2023;LAL;7;hachiru01;Rui Hachimura;25:15;7;11;.636;1;4;.250;2;3;.667;1;5;6;1;0;0;1;2;17;+4
+04/04/2023;LAL;8;beaslma01;Malik Beasley;21:46;1;3;.333;0;2;.000;1;2;.500;1;1;2;1;0;1;0;2;3;-7
+04/04/2023;LAL;9;gabriwe01;Wenyen Gabriel;10:10;1;1;1.000;0;0;;0;0;;1;4;5;0;0;1;0;2;2;-4
+04/04/2023;LAL;10;chrisma02;Max Christie;Did Not Play
+04/04/2023;LAL;11;reedda01;Davon Reed;Did Not Play
+04/04/2023;LAL;12;swideco01;Cole Swider;Did Not Play
+04/04/2023;LAL;13;walkelo01;Lonnie Walker IV;Did Not Play
+04/04/2023;LAL;0;agbajoc01;Ochai Agbaji;38:09;7;15;.467;4;8;.500;4;4;1.000;1;3;4;3;0;2;1;0;22;-1
+04/04/2023;LAL;1;hortota01;Talen Horton-Tucker;37:17;7;21;.333;0;4;.000;9;13;.692;2;2;4;7;2;1;2;2;23;-2
+04/04/2023;LAL;2;olynyke01;Kelly Olynyk;35:03;7;10;.700;4;4;1.000;5;6;.833;2;5;7;7;0;0;3;5;23;-1
+04/04/2023;LAL;3;samanlu01;Luka Šamanić;22:17;5;6;.833;2;3;.667;0;0;;0;4;4;2;1;0;0;1;12;-2
+04/04/2023;LAL;4;azubuud01;Udoka Azubuike;20:54;1;1;1.000;0;0;;0;0;;0;5;5;0;0;0;0;4;2;-6
+04/04/2023;LAL;5;Reserves;Reserves
+04/04/2023;LAL;6;jonesda03;Damian Jones;32:06;5;5;1.000;3;3;1.000;3;4;.750;1;7;8;1;0;0;1;3;16;+4
+04/04/2023;LAL;7;dunnkr01;Kris Dunn;26:35;4;8;.500;0;1;.000;2;2;1.000;0;4;4;4;1;0;1;5;10;+2
+04/04/2023;LAL;8;fontesi01;Simone Fontecchio;21:34;2;5;.400;2;4;.500;0;0;;0;0;0;0;0;0;1;1;6;-2
+04/04/2023;LAL;9;sextoco01;Collin Sexton;15:43;7;14;.500;0;5;.000;1;2;.500;0;1;1;3;0;0;1;3;15;0
+04/04/2023;LAL;10;toscaju01;Juan Toscano-Anderson;15:22;2;5;.400;0;1;.000;0;0;;0;4;4;2;0;0;2;4;4;-2
+04/04/2023;LAL;11;juzanjo01;Johnny Juzang;Did Not Play
+04/04/2023;LAL;12;pottemi01;Micah Potter;Did Not Play

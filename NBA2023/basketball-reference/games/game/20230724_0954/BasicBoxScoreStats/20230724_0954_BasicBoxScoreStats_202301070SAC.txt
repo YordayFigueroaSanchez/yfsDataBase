@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+07/01/2023;LAL;0;schrode01;Dennis Schröder;38:07;8;11;.727;4;5;.800;7;7;1.000;1;3;4;2;0;0;2;1;27;+13
+07/01/2023;LAL;1;jamesle01;LeBron James;37:43;14;28;.500;1;6;.167;8;9;.889;1;7;8;7;1;0;4;2;37;+15
+07/01/2023;LAL;2;bryanth01;Thomas Bryant;34:19;12;14;.857;0;0;;5;7;.714;4;10;14;0;1;1;2;4;29;+7
+07/01/2023;LAL;3;beverpa01;Patrick Beverley;25:37;2;3;.667;2;3;.667;0;0;;0;1;1;1;0;0;2;3;6;+1
+07/01/2023;LAL;4;toscaju01;Juan Toscano-Anderson;18:18;2;2;1.000;0;0;;0;0;;1;0;1;0;1;1;1;4;4;-22
+07/01/2023;LAL;5;Reserves;Reserves
+07/01/2023;LAL;6;westbru01;Russell Westbrook;33:31;7;14;.500;2;5;.400;7;10;.700;1;4;5;15;0;1;4;3;23;+15
+07/01/2023;LAL;7;chrisma02;Max Christie;23:50;1;2;.500;0;0;;0;0;;0;2;2;0;0;0;0;1;2;0
+07/01/2023;LAL;8;nunnke01;Kendrick Nunn;13:32;1;3;.333;0;1;.000;0;0;;0;0;0;0;1;0;1;0;2;-5
+07/01/2023;LAL;9;gabriwe01;Wenyen Gabriel;13:11;3;5;.600;0;1;.000;0;0;;2;1;3;1;0;0;1;6;6;-12
+07/01/2023;LAL;10;brownst02;Sterling Brown;1:52;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;1;0;-2
+07/01/2023;LAL;11;jonesda03;Damian Jones;Did Not Play
+07/01/2023;LAL;12;pippesc02;Scotty Pippen Jr.;Did Not Play
+07/01/2023;LAL;13;swideco01;Cole Swider;Did Not Play
+07/01/2023;LAL;0;huertke01;Kevin Huerter;39:35;7;15;.467;3;9;.333;0;0;;2;4;6;3;2;1;1;4;17;+7
+07/01/2023;LAL;1;foxde01;De'Aaron Fox;37:53;11;21;.524;0;2;.000;12;14;.857;0;2;2;9;0;0;3;4;34;-2
+07/01/2023;LAL;2;barneha02;Harrison Barnes;36:29;4;9;.444;2;5;.400;8;10;.800;2;0;2;1;0;1;0;1;18;-6
+07/01/2023;LAL;3;sabondo01;Domantas Sabonis;35:45;10;17;.588;0;2;.000;5;7;.714;2;10;12;7;0;1;4;6;25;+4
+07/01/2023;LAL;4;murrake02;Keegan Murray;29:25;6;8;.750;4;5;.800;0;0;;0;0;0;1;2;0;1;2;16;-5
+07/01/2023;LAL;5;Reserves;Reserves
+07/01/2023;LAL;6;mitchda01;Davion Mitchell;18:17;3;5;.600;3;4;.750;0;0;;0;1;1;0;0;0;2;3;9;-4
+07/01/2023;LAL;7;lylestr01;Trey Lyles;13:14;2;4;.500;2;2;1.000;5;6;.833;4;1;5;0;0;1;1;1;11;+6
+07/01/2023;LAL;8;holmeri01;Richaun Holmes;11:13;2;3;.667;0;0;;0;0;;3;2;5;0;0;0;1;3;4;-5
+07/01/2023;LAL;9;daviste02;Terence Davis;9:46;0;4;.000;0;3;.000;0;0;;0;1;1;2;1;0;1;1;0;+1
+07/01/2023;LAL;10;okpalkz01;KZ Okpala;8:13;0;0;;0;0;;0;0;;0;0;0;2;0;0;0;1;0;-4
+07/01/2023;LAL;11;dellama01;Matthew Dellavedova;0:10;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;-2
+07/01/2023;LAL;12;elliske01;Keon Ellis;Did Not Play
+07/01/2023;LAL;13;lenal01;Alex Len;Did Not Play
+07/01/2023;LAL;14;metuch01;Chimezie Metu;Did Not Play
+07/01/2023;LAL;15;quetane01;Neemias Queta;Did Not Play

@@ -1,0 +1,32 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+15/04/2023;ATL;0;murrade01;Dejounte Murray;35:56;10;25;.400;0;6;.000;4;4;1.000;2;6;8;6;3;0;1;1;24;-13
+15/04/2023;ATL;1;youngtr01;Trae Young;34:45;5;18;.278;1;5;.200;5;7;.714;2;1;3;8;2;0;5;1;16;-14
+15/04/2023;ATL;2;huntede01;De'Andre Hunter;29:37;4;10;.400;1;4;.250;2;2;1.000;0;3;3;0;2;0;1;4;11;-9
+15/04/2023;ATL;3;collijo01;John Collins;29:08;5;7;.714;0;1;.000;2;2;1.000;1;3;4;1;0;2;1;3;12;-6
+15/04/2023;ATL;4;capelca01;Clint Capela;26:32;6;8;.750;0;0;;0;0;;0;8;8;0;1;0;0;0;12;-8
+15/04/2023;ATL;5;Reserves;Reserves
+15/04/2023;ATL;6;bogdabo01;Bogdan Bogdanović;27:40;3;10;.300;2;7;.286;1;1;1.000;1;3;4;4;2;2;1;2;9;+3
+15/04/2023;ATL;7;beysa01;Saddiq Bey;23:51;2;6;.333;1;4;.250;1;2;.500;1;3;4;3;2;0;1;0;6;-12
+15/04/2023;ATL;8;okongon01;Onyeka Okongwu;19:07;0;4;.000;0;0;;3;4;.750;5;0;5;0;0;0;0;3;3;-7
+15/04/2023;ATL;9;johnsja05;Jalen Johnson;13:24;3;10;.300;0;2;.000;0;0;;2;4;6;1;1;0;1;3;6;+1
+15/04/2023;ATL;10;fernabr01;Bruno Fernando;Did Not Play
+15/04/2023;ATL;11;griffaj01;AJ Griffin;Did Not Play
+15/04/2023;ATL;12;holidaa01;Aaron Holiday;Did Not Play
+15/04/2023;ATL;13;krejcvi01;Vit Krejci;Did Not Play
+15/04/2023;ATL;14;martity01;Tyrese Martin;Did Not Play
+15/04/2023;ATL;15;mathega01;Garrison Mathews;Did Not Play
+15/04/2023;ATL;0;tatumja01;Jayson Tatum;39:58;10;23;.435;3;7;.429;2;2;1.000;0;11;11;2;0;0;2;2;25;+16
+15/04/2023;ATL;1;whitede01;Derrick White;38:30;7;13;.538;4;7;.571;6;7;.857;1;4;5;7;0;2;2;1;24;+13
+15/04/2023;ATL;2;horfoal01;Al Horford;38:04;2;4;.500;2;4;.500;0;0;;2;7;9;2;1;2;2;2;6;+16
+15/04/2023;ATL;3;brownja02;Jaylen Brown;37:01;12;23;.522;2;6;.333;3;3;1.000;4;8;12;3;1;0;6;3;29;+11
+15/04/2023;ATL;4;smartma01;Marcus Smart;32:18;4;11;.364;2;4;.500;1;2;.500;2;5;7;7;3;2;2;1;11;+5
+15/04/2023;ATL;5;Reserves;Reserves
+15/04/2023;ATL;6;williro04;Robert Williams;21:40;6;6;1.000;0;0;;0;0;;2;6;8;2;1;1;2;2;12;-7
+15/04/2023;ATL;7;brogdma01;Malcolm Brogdon;21:27;1;6;.167;0;3;.000;3;4;.750;1;4;5;2;0;0;0;2;5;+5
+15/04/2023;ATL;8;hausesa01;Sam Hauser;11:02;0;2;.000;0;2;.000;0;0;;0;1;1;0;0;0;0;2;0;+6
+15/04/2023;ATL;9;champju01;Justin Champagnie;Did Not Play
+15/04/2023;ATL;10;griffbl01;Blake Griffin;Did Not Play
+15/04/2023;ATL;11;kornelu01;Luke Kornet;Did Not Play
+15/04/2023;ATL;12;muscami01;Mike Muscala;Did Not Play
+15/04/2023;ATL;13;pritcpa01;Payton Pritchard;Did Not Play
+15/04/2023;ATL;14;willigr01;Grant Williams;Did Not Play

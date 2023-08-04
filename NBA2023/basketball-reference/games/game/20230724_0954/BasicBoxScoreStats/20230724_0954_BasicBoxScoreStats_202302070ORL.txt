@@ -1,0 +1,31 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+07/02/2023;NYK;0;brunsja01;Jalen Brunson;39:07;9;13;.692;3;6;.500;4;5;.800;1;1;2;5;2;0;1;5;25;+13
+07/02/2023;NYK;1;simsje01;Jericho Sims;34:43;4;5;.800;0;1;.000;0;0;;5;4;9;1;2;0;2;1;8;+1
+07/02/2023;NYK;2;barrerj01;RJ Barrett;34:35;5;16;.313;3;8;.375;2;4;.500;1;1;2;3;1;0;0;5;15;-9
+07/02/2023;NYK;3;randlju01;Julius Randle;34:06;7;15;.467;4;10;.400;4;6;.667;1;13;14;6;0;0;4;2;22;+9
+07/02/2023;NYK;4;grimequ01;Quentin Grimes;30:28;4;8;.500;1;4;.250;0;0;;0;4;4;1;0;1;2;2;9;+3
+07/02/2023;NYK;5;Reserves;Reserves
+07/02/2023;NYK;6;quickim01;Immanuel Quickley;31:33;7;15;.467;4;9;.444;0;0;;0;3;3;4;1;0;0;0;18;+9
+07/02/2023;NYK;7;toppiob01;Obi Toppin;13:54;0;6;.000;0;4;.000;3;4;.750;3;3;6;1;0;0;0;2;3;-5
+07/02/2023;NYK;8;harteis01;Isaiah Hartenstein;12:55;1;1;1.000;0;0;;0;0;;0;3;3;0;0;1;1;5;2;+6
+07/02/2023;NYK;9;mcbrimi01;Miles McBride;8:39;0;2;.000;0;1;.000;0;0;;0;0;0;0;0;0;0;0;0;-7
+07/02/2023;NYK;10;arcidry01;Ryan Arcidiacono;Did Not Play
+07/02/2023;NYK;11;fournev01;Evan Fournier;Did Not Play
+07/02/2023;NYK;12;mykhasv01;Svi Mykhailiuk;Did Not Play
+07/02/2023;NYK;13;reddica01;Cam Reddish;Did Not Play
+07/02/2023;NYK;14;rosede01;Derrick Rose;Did Not Play
+07/02/2023;NYK;0;banchpa01;Paolo Banchero;34:08;6;15;.400;0;3;.000;4;8;.500;1;7;8;5;1;0;1;2;16;-7
+07/02/2023;NYK;1;wagnefr01;Franz Wagner;31:48;7;12;.583;1;4;.250;3;4;.750;0;2;2;4;0;1;0;3;18;-2
+07/02/2023;NYK;2;fultzma01;Markelle Fultz;31:30;9;12;.750;0;2;.000;3;3;1.000;2;2;4;6;1;0;3;4;21;-7
+07/02/2023;NYK;3;cartewe01;Wendell Carter Jr.;30:33;5;9;.556;1;4;.250;2;2;1.000;0;6;6;2;0;0;3;3;13;-3
+07/02/2023;NYK;4;harriga01;Gary Harris;27:23;1;3;.333;1;2;.500;0;0;;1;2;3;1;2;0;0;1;3;0
+07/02/2023;NYK;5;Reserves;Reserves
+07/02/2023;NYK;6;anthoco01;Cole Anthony;20:45;3;7;.429;1;2;.500;2;2;1.000;0;3;3;1;0;0;0;1;9;+8
+07/02/2023;NYK;7;suggsja01;Jalen Suggs;20:36;1;4;.250;0;1;.000;1;2;.500;2;1;3;1;0;0;3;2;3;-2
+07/02/2023;NYK;8;wagnemo01;Moritz Wagner;17:27;4;11;.364;2;5;.400;3;3;1.000;1;2;3;1;0;1;1;3;13;-1
+07/02/2023;NYK;9;bolbo01;Bol Bol;13:53;0;1;.000;0;0;;0;0;;0;4;4;1;0;1;0;0;0;+1
+07/02/2023;NYK;10;isaacjo01;Jonathan Isaac;11:57;1;5;.200;0;2;.000;0;0;;2;3;5;1;0;1;0;0;2;-7
+07/02/2023;NYK;11;bambamo01;Mo Bamba;Player Suspended
+07/02/2023;NYK;12;hamptrj01;R.J. Hampton;Did Not Play
+07/02/2023;NYK;13;houstca01;Caleb Houstan;Did Not Play
+07/02/2023;NYK;14;rosste01;Terrence Ross;Did Not Play

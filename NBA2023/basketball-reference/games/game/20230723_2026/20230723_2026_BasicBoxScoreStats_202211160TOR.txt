@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+16/11/2022;MIA;0;martica02;Caleb Martin;38:20;6;10;.600;2;4;.500;0;0;;2;7;9;3;0;2;3;3;14;-1
+16/11/2022;MIA;1;butleji01;Jimmy Butler;38:17;4;8;.500;0;2;.000;5;5;1.000;0;1;1;5;1;0;5;2;13;-4
+16/11/2022;MIA;2;lowryky01;Kyle Lowry;35:34;6;9;.667;4;7;.571;3;4;.750;0;1;1;2;1;1;4;5;19;+1
+16/11/2022;MIA;3;strusma01;Max Strus;35:25;6;11;.545;3;8;.375;5;5;1.000;0;3;3;0;2;1;3;0;20;-7
+16/11/2022;MIA;4;jovicni01;Nikola Jović;23:49;4;8;.500;1;3;.333;4;4;1.000;1;2;3;1;1;0;2;1;13;-3
+16/11/2022;MIA;5;Reserves;Reserves
+16/11/2022;MIA;6;vincega01;Gabe Vincent;32:04;6;11;.545;3;8;.375;1;1;1.000;0;2;2;5;0;0;2;4;16;-8
+16/11/2022;MIA;7;dedmode01;Dewayne Dedmon;15:55;4;4;1.000;0;0;;1;3;.333;0;0;0;0;0;0;2;2;9;-7
+16/11/2022;MIA;8;robindu01;Duncan Robinson;14:32;0;2;.000;0;1;.000;0;0;;1;2;3;3;0;0;2;2;0;-3
+16/11/2022;MIA;9;cainja01;Jamal Cain;6:04;0;3;.000;0;2;.000;0;0;;0;1;1;0;0;0;0;1;0;-8
+16/11/2022;MIA;10;adebaba01;Bam Adebayo;Did Not Dress
+16/11/2022;MIA;11;highsha01;Haywood Highsmith;Did Not Play
+16/11/2022;MIA;12;robinor01;Orlando Robinson;Did Not Play
+16/11/2022;MIA;0;anunoog01;OG Anunoby;43:01;13;18;.722;1;3;.333;5;6;.833;3;7;10;3;0;1;3;2;32;+8
+16/11/2022;MIA;1;barnesc01;Scottie Barnes;41:32;9;14;.643;1;2;.500;0;0;;3;3;6;6;1;1;4;0;19;+4
+16/11/2022;MIA;2;vanvlfr01;Fred VanVleet;39:16;7;21;.333;3;10;.300;6;7;.857;0;1;1;8;0;0;3;5;23;+10
+16/11/2022;MIA;3;youngth01;Thaddeus Young;27:51;6;9;.667;0;0;;0;0;;5;3;8;2;0;0;2;4;12;+2
+16/11/2022;MIA;4;bantoda01;Dalano Banton;20:36;2;10;.200;1;6;.167;0;0;;1;0;1;1;1;0;0;3;5;-14
+16/11/2022;MIA;5;Reserves;Reserves
+16/11/2022;MIA;6;bouchch01;Chris Boucher;25:00;4;7;.571;1;3;.333;6;9;.667;2;8;10;1;1;0;1;3;15;+7
+16/11/2022;MIA;7;hernaju01;Juancho Hernangómez;22:35;0;3;.000;0;2;.000;0;0;;0;4;4;1;1;0;1;1;0;+17
+16/11/2022;MIA;8;kolokch01;Christian Koloko;13:00;2;2;1.000;0;0;;0;0;;1;0;1;0;0;1;0;3;4;+4
+16/11/2022;MIA;9;birchkh01;Khem Birch;7:09;1;2;.500;0;0;;0;0;;1;0;1;1;1;0;0;2;2;+2
+16/11/2022;MIA;10;champju01;Justin Champagnie;Did Not Dress
+16/11/2022;MIA;11;dowtije01;Jeff Dowtin;Did Not Play
+16/11/2022;MIA;12;flynnma01;Malachi Flynn;Did Not Play

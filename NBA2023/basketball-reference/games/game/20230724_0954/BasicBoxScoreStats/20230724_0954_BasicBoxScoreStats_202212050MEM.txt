@@ -1,0 +1,26 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+05/12/2022;MIA;0;herroty01;Tyler Herro;39:44;8;20;.400;3;11;.273;4;4;1.000;2;11;13;5;1;0;2;0;23;+1
+05/12/2022;MIA;1;adebaba01;Bam Adebayo;38:44;5;13;.385;0;0;;5;5;1.000;1;4;5;4;0;0;1;0;15;+9
+05/12/2022;MIA;2;martica02;Caleb Martin;33:56;6;10;.600;4;8;.500;0;0;;0;0;0;0;0;0;1;0;16;-4
+05/12/2022;MIA;3;lowryky01;Kyle Lowry;33:48;3;8;.375;3;8;.375;1;2;.500;1;6;7;6;1;1;2;3;10;+2
+05/12/2022;MIA;4;butleji01;Jimmy Butler;33:17;6;11;.545;1;2;.500;5;8;.625;1;5;6;8;1;0;5;1;18;+3
+05/12/2022;MIA;5;Reserves;Reserves
+05/12/2022;MIA;6;strusma01;Max Strus;22:59;1;5;.200;1;4;.250;2;3;.667;0;1;1;0;1;1;1;1;5;-20
+05/12/2022;MIA;7;vincega01;Gabe Vincent;14:12;0;2;.000;0;2;.000;0;0;;0;1;1;0;0;0;2;2;0;-10
+05/12/2022;MIA;8;highsha01;Haywood Highsmith;14:04;2;5;.400;2;4;.500;0;0;;2;4;6;0;3;1;1;0;6;-4
+05/12/2022;MIA;9;dedmode01;Dewayne Dedmon;9:16;0;5;.000;0;1;.000;0;0;;2;4;6;0;0;0;1;4;0;-17
+05/12/2022;MIA;10;hasleud01;Udonis Haslem;Did Not Play
+05/12/2022;MIA;11;jovicni01;Nikola Jović;Did Not Play
+05/12/2022;MIA;12;robindu01;Duncan Robinson;Did Not Play
+05/12/2022;MIA;0;jonesty01;Tyus Jones;36:15;10;16;.625;3;6;.500;5;5;1.000;0;5;5;10;2;0;1;0;28;+8
+05/12/2022;MIA;1;brookdi01;Dillon Brooks;34:29;7;22;.318;2;11;.182;1;1;1.000;0;4;4;2;1;0;5;4;17;-10
+05/12/2022;MIA;2;aldamsa01;Santi Aldama;33:37;8;12;.667;2;5;.400;0;0;;0;10;10;2;1;1;0;3;18;+6
+05/12/2022;MIA;3;roddyda01;David Roddy;33:37;2;8;.250;0;3;.000;2;2;1.000;1;4;5;2;0;2;0;1;6;+6
+05/12/2022;MIA;4;adamsst01;Steven Adams;27:51;4;6;.667;0;0;;0;0;;1;3;4;1;0;0;1;2;8;-2
+05/12/2022;MIA;5;Reserves;Reserves
+05/12/2022;MIA;6;chandke01;Kennedy Chandler;25:44;4;11;.364;1;4;.250;0;0;;0;3;3;5;2;1;1;0;9;+18
+05/12/2022;MIA;7;clarkbr01;Brandon Clarke;20:09;5;7;.714;0;0;;1;1;1.000;0;4;4;0;1;0;3;2;11;+10
+05/12/2022;MIA;8;tillmxa01;Xavier Tillman Sr.;14:23;2;5;.400;0;1;.000;0;0;;2;2;4;1;1;1;0;1;4;+2
+05/12/2022;MIA;9;willivi01;Vince Williams Jr.;13:55;0;3;.000;0;2;.000;0;0;;0;2;2;0;2;0;0;1;0;+2
+05/12/2022;MIA;10;konchjo01;John Konchar;Did Not Dress
+05/12/2022;MIA;11;loftoke01;Kenneth Lofton Jr.;Did Not Play

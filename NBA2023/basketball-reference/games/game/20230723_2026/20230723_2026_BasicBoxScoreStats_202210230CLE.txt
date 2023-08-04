@@ -1,0 +1,30 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+23/10/2022;WAS;0;bealbr01;Bradley Beal;41:35;11;16;.688;0;1;.000;5;7;.714;1;3;4;5;2;0;6;3;27;-5
+23/10/2022;WAS;1;porzikr01;Kristaps Porziņģis;37:56;7;16;.438;4;8;.500;0;1;.000;1;10;11;3;1;1;2;4;18;+1
+23/10/2022;WAS;2;kuzmaky01;Kyle Kuzma;37:26;4;8;.500;1;2;.500;2;4;.500;0;2;2;3;0;2;0;4;11;-5
+23/10/2022;WAS;3;morrimo01;Monte Morris;26:30;5;8;.625;3;3;1.000;0;0;;0;3;3;6;0;0;1;3;13;+6
+23/10/2022;WAS;4;avdijde01;Deni Avdija;14:27;1;6;.167;0;3;.000;0;0;;0;2;2;0;2;0;1;4;2;+1
+23/10/2022;WAS;5;Reserves;Reserves
+23/10/2022;WAS;6;bartowi01;Will Barton;35:26;4;11;.364;1;3;.333;0;0;;0;4;4;2;2;0;5;2;9;-7
+23/10/2022;WAS;7;wrighde01;Delon Wright;26:30;2;5;.400;1;3;.333;2;3;.667;0;2;2;5;2;0;1;0;7;-16
+23/10/2022;WAS;8;hachiru01;Rui Hachimura;20:19;7;12;.583;2;3;.667;0;0;;1;2;3;1;0;0;1;1;16;-5
+23/10/2022;WAS;9;gaffoda01;Daniel Gafford;14:48;1;2;.500;0;0;;0;0;;1;1;2;0;0;1;1;2;2;-11
+23/10/2022;WAS;10;gillan01;Anthony Gill;10:03;1;3;.333;0;2;.000;0;0;;0;2;2;0;0;0;0;1;2;-9
+23/10/2022;WAS;11;careyve01;Vernon Carey Jr.;Did Not Play
+23/10/2022;WAS;12;davisjo06;Johnny Davis;Did Not Play
+23/10/2022;WAS;13;gibsota01;Taj Gibson;Did Not Play
+23/10/2022;WAS;14;goodwjo01;Jordan Goodwin;Did Not Play
+23/10/2022;WAS;15;toddis01;Isaiah Todd;Did Not Play
+23/10/2022;WAS;0;mitchdo01;Donovan Mitchell;44:34;12;29;.414;5;12;.417;8;9;.889;2;3;5;4;3;1;6;2;37;+4
+23/10/2022;WAS;1;allenja01;Jarrett Allen;37:31;6;13;.462;0;0;;3;4;.750;6;8;14;3;0;2;0;2;15;-1
+23/10/2022;WAS;2;mobleev01;Evan Mobley;36:35;2;7;.286;0;0;;6;6;1.000;2;5;7;2;2;1;2;3;10;-3
+23/10/2022;WAS;3;leverca01;Caris LeVert;35:54;4;14;.286;2;6;.333;0;0;;0;3;3;4;2;0;2;4;10;+15
+23/10/2022;WAS;4;okorois01;Isaac Okoro;20:19;1;4;.250;0;2;.000;0;0;;0;2;2;0;1;0;0;2;2;-5
+23/10/2022;WAS;5;Reserves;Reserves
+23/10/2022;WAS;6;osmande01;Cedi Osman;31:40;6;10;.600;3;5;.600;1;1;1.000;0;0;0;3;1;0;0;3;16;+3
+23/10/2022;WAS;7;wadede01;Dean Wade;21:18;3;4;.750;2;3;.667;4;5;.800;1;2;3;2;0;1;0;1;12;+19
+23/10/2022;WAS;8;lopezro01;Robin Lopez;14:41;3;4;.750;0;0;;0;0;;4;2;6;1;0;0;2;2;6;+8
+23/10/2022;WAS;9;loveke01;Kevin Love;14:22;2;6;.333;1;4;.250;0;0;;0;7;7;0;0;0;1;1;5;+2
+23/10/2022;WAS;10;netora01;Raul Neto;8:06;2;5;.400;0;1;.000;0;0;;1;0;1;0;1;0;0;0;4;+8
+23/10/2022;WAS;11;mobleis01;Isaiah Mobley;Did Not Play
+23/10/2022;WAS;12;stevela01;Lamar Stevens;Did Not Play

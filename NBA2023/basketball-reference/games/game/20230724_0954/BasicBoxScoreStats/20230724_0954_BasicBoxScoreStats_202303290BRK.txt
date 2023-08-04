@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+29/03/2023;HOU;0;smithja05;Jabari Smith Jr.;39:54;5;14;.357;1;5;.200;1;2;.500;3;9;12;2;1;0;1;3;12;-19
+29/03/2023;HOU;1;porteke02;Kevin Porter Jr.;39:37;11;22;.500;4;10;.400;5;5;1.000;2;7;9;6;3;0;1;3;31;-14
+29/03/2023;HOU;2;martike04;Kenyon Martin Jr.;33:45;6;13;.462;3;5;.600;0;0;;2;5;7;1;0;0;0;2;15;-6
+29/03/2023;HOU;3;sengual01;Alperen Şengün;33:19;10;16;.625;0;0;;1;3;.333;8;4;12;2;1;1;2;3;21;-15
+29/03/2023;HOU;4;greenja05;Jalen Green;32:17;5;13;.385;0;4;.000;4;9;.444;1;2;3;5;2;0;2;3;14;-12
+29/03/2023;HOU;5;Reserves;Reserves
+29/03/2023;HOU;6;easonta01;Tari Eason;22:21;0;6;.000;0;2;.000;0;0;;3;3;6;1;0;0;1;1;0;+7
+29/03/2023;HOU;7;chrisjo01;Josh Christopher;17:15;6;10;.600;0;2;.000;2;2;1.000;0;0;0;4;1;0;1;0;14;+3
+29/03/2023;HOU;8;garubus01;Usman Garuba;14:34;2;3;.667;0;1;.000;0;0;;1;1;2;0;1;0;0;2;4;+6
+29/03/2023;HOU;9;nixda01;Daishen Nix;6:58;1;1;1.000;1;1;1.000;0;0;;0;1;1;0;0;1;2;1;3;+5
+29/03/2023;HOU;10;augusdj01;D.J. Augustin;Did Not Play
+29/03/2023;HOU;11;kaminfr01;Frank Kaminsky;Did Not Play
+29/03/2023;HOU;12;marjabo01;Boban Marjanović;Did Not Play
+29/03/2023;HOU;0;bridgmi01;Mikal Bridges;40:22;8;17;.471;4;6;.667;7;8;.875;2;4;6;6;0;1;3;3;27;+14
+29/03/2023;HOU;1;dinwisp01;Spencer Dinwiddie;38:29;8;11;.727;3;4;.750;1;4;.250;0;4;4;11;1;0;1;3;20;+20
+29/03/2023;HOU;2;johnsca02;Cameron Johnson;35:30;11;18;.611;5;9;.556;4;4;1.000;0;7;7;5;1;1;2;2;31;+17
+29/03/2023;HOU;3;claxtni01;Nic Claxton;35:29;8;10;.800;0;0;;2;4;.500;2;8;10;2;1;3;1;3;18;+8
+29/03/2023;HOU;4;finnedo01;Dorian Finney-Smith;27:22;2;8;.250;2;7;.286;0;0;;1;4;5;2;1;2;1;2;6;+3
+29/03/2023;HOU;5;Reserves;Reserves
+29/03/2023;HOU;6;onealro01;Royce O'Neale;25:56;3;7;.429;3;5;.600;0;0;;1;4;5;4;0;0;1;4;9;+6
+29/03/2023;HOU;7;curryse01;Seth Curry;12:39;1;2;.500;0;1;.000;1;1;1.000;0;0;0;0;0;0;0;0;3;-4
+29/03/2023;HOU;8;sharpda01;Day'Ron Sharpe;7:13;2;3;.667;0;0;;0;2;.000;2;1;3;0;0;1;0;0;4;-1
+29/03/2023;HOU;9;watanyu01;Yuta Watanabe;6:59;0;2;.000;0;2;.000;2;2;1.000;0;0;0;1;0;0;0;0;2;-11
+29/03/2023;HOU;10;harrijo01;Joe Harris;5:45;0;1;.000;0;1;.000;0;0;;0;1;1;2;0;0;1;0;0;-5
+29/03/2023;HOU;11;sumneed01;Edmond Sumner;4:16;1;3;.333;0;0;;1;2;.500;0;0;0;0;0;1;2;1;3;-2
+29/03/2023;HOU;12;brownmo01;Moses Brown;Did Not Play
+29/03/2023;HOU;13;millspa02;Patty Mills;Did Not Play
+29/03/2023;HOU;14;thomaca02;Cam Thomas;Did Not Play

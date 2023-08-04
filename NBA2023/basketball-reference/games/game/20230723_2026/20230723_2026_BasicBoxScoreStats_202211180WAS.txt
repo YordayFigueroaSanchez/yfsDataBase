@@ -1,0 +1,26 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+18/11/2022;MIA;0;lowryky01;Kyle Lowry;50:54;8;23;.348;4;11;.364;4;6;.667;1;9;10;15;1;2;3;5;24;+4
+18/11/2022;MIA;1;martica02;Caleb Martin;47:01;3;12;.250;2;5;.400;4;4;1.000;1;4;5;3;2;1;3;1;12;+1
+18/11/2022;MIA;2;strusma01;Max Strus;45:13;8;24;.333;3;14;.214;3;3;1.000;0;5;5;2;0;0;1;0;22;-7
+18/11/2022;MIA;3;highsha01;Haywood Highsmith;41:55;5;17;.294;1;7;.143;1;2;.500;4;10;14;2;2;0;1;1;12;-2
+18/11/2022;MIA;4;jovicni01;Nikola Jović;30:14;4;10;.400;1;3;.333;9;10;.900;2;4;6;0;0;0;0;2;18;+6
+18/11/2022;MIA;5;Reserves;Reserves
+18/11/2022;MIA;6;robinor01;Orlando Robinson;32:12;6;10;.600;0;2;.000;2;3;.667;1;6;7;0;1;1;1;5;14;-2
+18/11/2022;MIA;7;cainja01;Jamal Cain;17:31;1;2;.500;0;1;.000;2;4;.500;1;5;6;1;0;0;0;1;4;-5
+18/11/2022;MIA;8;adebaba01;Bam Adebayo;Did Not Dress
+18/11/2022;MIA;9;butleji01;Jimmy Butler;Did Not Dress
+18/11/2022;MIA;10;robindu01;Duncan Robinson;Did Not Dress
+18/11/2022;MIA;11;vincega01;Gabe Vincent;Did Not Play
+18/11/2022;MIA;0;bealbr01;Bradley Beal;48:30;9;18;.500;5;9;.556;4;4;1.000;0;2;2;8;1;0;7;2;27;+10
+18/11/2022;MIA;1;kuzmaky01;Kyle Kuzma;40:28;9;24;.375;2;12;.167;1;3;.333;0;8;8;5;1;0;4;2;21;+1
+18/11/2022;MIA;2;porzikr01;Kristaps Porziņģis;39:24;7;20;.350;1;6;.167;5;7;.714;2;15;17;5;1;2;1;5;20;-2
+18/11/2022;MIA;3;morrimo01;Monte Morris;26:22;3;8;.375;0;5;.000;0;0;;0;5;5;5;0;0;0;2;6;+1
+18/11/2022;MIA;4;avdijde01;Deni Avdija;14:25;1;2;.500;1;2;.500;0;0;;0;1;1;3;0;0;1;4;3;-3
+18/11/2022;MIA;5;Reserves;Reserves
+18/11/2022;MIA;6;kispeco01;Corey Kispert;38:29;6;9;.667;5;8;.625;0;0;;2;2;4;3;2;0;0;2;17;+8
+18/11/2022;MIA;7;hachiru01;Rui Hachimura;28:25;6;11;.545;1;3;.333;0;0;;1;7;8;3;0;0;1;2;13;-2
+18/11/2022;MIA;8;gibsota01;Taj Gibson;16:14;0;2;.000;0;0;;0;0;;3;5;8;1;1;2;1;4;0;+12
+18/11/2022;MIA;9;bartowi01;Will Barton;8:13;0;2;.000;0;1;.000;0;0;;0;1;1;0;0;0;0;0;0;-11
+18/11/2022;MIA;10;gaffoda01;Daniel Gafford;4:30;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;2;0;-9
+18/11/2022;MIA;11;gillan01;Anthony Gill;Did Not Play
+18/11/2022;MIA;12;toddis01;Isaiah Todd;Did Not Play

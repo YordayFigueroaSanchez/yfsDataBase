@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+11/03/2023;NYK;0;quickim01;Immanuel Quickley;42:08;8;18;.444;3;8;.375;7;8;.875;4;6;10;4;1;0;0;2;26;-9
+11/03/2023;NYK;1;randlju01;Julius Randle;34:40;5;24;.208;3;10;.300;6;8;.750;1;7;8;3;0;0;2;5;19;-8
+11/03/2023;NYK;2;grimequ01;Quentin Grimes;34:08;3;8;.375;0;4;.000;1;1;1.000;1;1;2;4;0;0;0;3;7;0
+11/03/2023;NYK;3;barrerj01;RJ Barrett;30:16;5;12;.417;1;3;.333;0;0;;0;2;2;1;1;0;3;1;11;-21
+11/03/2023;NYK;4;robinmi01;Mitchell Robinson;28:01;2;8;.250;0;0;;2;2;1.000;8;6;14;1;1;2;1;0;6;-10
+11/03/2023;NYK;5;Reserves;Reserves
+11/03/2023;NYK;6;hartjo01;Josh Hart;32:16;3;6;.500;0;1;.000;4;4;1.000;3;5;8;4;0;0;2;3;10;-1
+11/03/2023;NYK;7;harteis01;Isaiah Hartenstein;19:19;2;5;.400;0;1;.000;0;0;;3;2;5;3;1;0;0;2;4;-1
+11/03/2023;NYK;8;toppiob01;Obi Toppin;13:20;4;9;.444;0;4;.000;2;2;1.000;0;5;5;1;0;0;1;0;10;-3
+11/03/2023;NYK;9;mcbrimi01;Miles McBride;5:52;0;0;;0;0;;2;2;1.000;0;0;0;0;1;1;0;1;2;-2
+11/03/2023;NYK;10;fournev01;Evan Fournier;Did Not Play
+11/03/2023;NYK;11;jeffrda01;DaQuan Jeffries;Did Not Play
+11/03/2023;NYK;12;rosede01;Derrick Rose;Did Not Play
+11/03/2023;NYK;13;simsje01;Jericho Sims;Did Not Play
+11/03/2023;NYK;0;georgpa01;Paul George;40:14;10;21;.476;2;8;.250;0;0;;1;7;8;8;1;1;1;1;22;+21
+11/03/2023;NYK;1;leonaka01;Kawhi Leonard;36:48;14;22;.636;3;6;.500;7;7;1.000;0;4;4;2;1;0;1;2;38;+6
+11/03/2023;NYK;2;morrima03;Marcus Morris;30:33;4;7;.571;3;4;.750;0;0;;1;4;5;1;0;0;0;4;11;+1
+11/03/2023;NYK;3;zubaciv01;Ivica Zubac;27:20;4;6;.667;0;0;;0;0;;2;4;6;0;0;1;0;3;8;+6
+11/03/2023;NYK;4;westbru01;Russell Westbrook;22:57;3;8;.375;0;2;.000;1;3;.333;0;5;5;3;1;0;3;2;7;+1
+11/03/2023;NYK;5;Reserves;Reserves
+11/03/2023;NYK;6;gordoer01;Eric Gordon;25:49;4;9;.444;2;5;.400;0;1;.000;0;2;2;3;0;0;0;3;10;+8
+11/03/2023;NYK;7;plumlma01;Mason Plumlee;20:40;1;4;.250;0;0;;4;5;.800;2;2;4;1;0;2;2;3;6;+5
+11/03/2023;NYK;8;mannte01;Terance Mann;18:42;1;6;.167;0;2;.000;0;0;;0;1;1;3;0;0;1;1;2;+2
+11/03/2023;NYK;9;batumni01;Nicolas Batum;16:17;1;4;.250;0;3;.000;0;0;;1;3;4;1;0;0;0;1;2;+5
+11/03/2023;NYK;10;coffeam01;Amir Coffey;0:40;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;0;0;0
+11/03/2023;NYK;11;covinro01;Robert Covington;Did Not Play
+11/03/2023;NYK;12;hylanbo01;Bones Hyland;Did Not Play

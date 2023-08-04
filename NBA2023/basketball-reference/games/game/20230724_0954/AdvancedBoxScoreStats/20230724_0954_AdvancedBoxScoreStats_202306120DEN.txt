@@ -1,0 +1,32 @@
+dateId;teamId;order;playerId;Starters;MP;TS%;eFG%;3PAr;FTr;ORB%;DRB%;TRB%;AST%;STL%;BLK%;TOV%;USG%;ORtg;DRtg;BPM
+12/06/2023;MIA;0;adebaba01;Bam Adebayo;44:08;.479;.450;.000;.100;9.5;17.3;12.9;4.7;1.1;0.0;4.6;21.4;102;101;0.5
+12/06/2023;MIA;1;butleji01;Jimmy Butler;41:18;.460;.333;.278;.611;2.0;5.3;3.5;21.4;3.6;0.0;4.2;25.0;102;99;6.2
+12/06/2023;MIA;2;strusma01;Max Strus;31:36;.482;.458;.500;.083;2.7;24.2;12.0;6.0;0.0;2.7;7.4;18.4;94;99;-1.0
+12/06/2023;MIA;3;vincega01;Gabe Vincent;21:43;.231;.231;.308;.000;0.0;0.0;0.0;25.1;2.3;0.0;0.0;25.9;59;103;-8.3
+12/06/2023;MIA;4;loveke01;Kevin Love;14:10;.375;.375;1.000;.000;0.0;15.4;6.7;0.0;3.5;12.1;0.0;12.2;77;89;3.3
+12/06/2023;MIA;5;Reserves;Reserves
+12/06/2023;MIA;6;lowryky01;Kyle Lowry;34:20;.462;.462;.692;.000;4.9;22.2;12.5;20.4;2.9;2.5;7.1;17.6;100;93;5.5
+12/06/2023;MIA;7;martica02;Caleb Martin;32:02;.506;.444;.444;.222;2.6;13.6;7.4;5.5;1.6;2.7;16.8;16.0;90;99;-2.7
+12/06/2023;MIA;8;robindu01;Duncan Robinson;16:48;.417;.417;.500;.000;0.0;19.5;8.5;31.4;0.0;10.2;25.0;20.6;74;96;2.9
+12/06/2023;MIA;9;highsha01;Haywood Highsmith;2:54;;;;;0.0;37.6;16.4;0.0;0.0;0.0;;0.0;0;95;-10.2
+12/06/2023;MIA;10;zelleco01;Cody Zeller;1:01;.000;.000;.000;.000;82.8;0.0;46.7;0.0;0.0;0.0;0.0;42.5;54;109;-27.6
+12/06/2023;MIA;11;hasleud01;Udonis Haslem;Did Not Play
+12/06/2023;MIA;12;herroty01;Tyler Herro;Did Not Play
+12/06/2023;MIA;13;jovicni01;Nikola Jović;Did Not Play
+12/06/2023;MIA;14;yurtsom01;Omer Yurtseven;Did Not Play
+12/06/2023;MIA;0;jokicni01;Nikola Jokić;42:18;.769;.781;.188;.313;2.6;29.9;18.0;18.6;0.0;1.9;18.0;23.3;125;90;9.9
+12/06/2023;MIA;1;murraja01;Jamal Murray;41:15;.467;.467;.467;.000;0.0;16.3;9.2;30.0;1.2;0.0;28.6;22.6;80;95;-2.9
+12/06/2023;MIA;2;caldwke01;Kentavious Caldwell-Pope;34:00;.506;.450;.500;.200;3.2;7.4;5.6;8.7;2.9;6.9;8.4;15.5;106;89;7.3
+12/06/2023;MIA;3;portemi01;Michael Porter Jr.;33:37;.447;.441;.353;.118;6.5;27.6;18.4;15.3;0.0;0.0;5.3;24.9;99;93;2.6
+12/06/2023;MIA;4;gordoaa01;Aaron Gordon;28:39;.258;.167;.333;.667;7.6;14.7;11.6;4.6;3.5;2.7;11.4;13.6;68;88;-4.7
+12/06/2023;MIA;5;Reserves;Reserves
+12/06/2023;MIA;6;brownbr01;Bruce Brown;28:09;.317;.286;.357;.286;15.5;6.0;10.1;5.5;1.8;0.0;6.0;26.4;79;98;-5.6
+12/06/2023;MIA;7;braunch01;Christian Braun;24:17;.527;.500;.000;1.500;4.5;6.9;5.9;5.8;0.0;3.2;0.0;12.1;121;99;2.5
+12/06/2023;MIA;8;greenje02;Jeff Green;4:44;1.000;1.000;.000;.000;0.0;0.0;0.0;57.2;0.0;0.0;0.0;18.8;202;104;16.6
+12/06/2023;MIA;9;jordade01;DeAndre Jordan;3:01;;;;;0.0;0.0;0.0;0.0;0.0;26.1;;0.0;0;84;5.4
+12/06/2023;MIA;10;bryanth01;Thomas Bryant;Did Not Play
+12/06/2023;MIA;11;cancavl01;Vlatko Čančar;Did Not Play
+12/06/2023;MIA;12;jacksre01;Reggie Jackson;Did Not Play
+12/06/2023;MIA;13;nnajize01;Zeke Nnaji;Did Not Play
+12/06/2023;MIA;14;smithis01;Ish Smith;Did Not Play
+12/06/2023;MIA;15;watsope01;Peyton Watson;Did Not Play

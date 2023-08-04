@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+15/11/2022;LAC;0;georgpa01;Paul George;41:28;7;13;.538;1;3;.333;8;8;1.000;0;7;7;6;2;0;10;4;23;+2
+15/11/2022;LAC;1;morrima03;Marcus Morris;36:34;7;11;.636;1;5;.200;3;4;.750;0;3;3;4;2;0;0;1;18;0
+15/11/2022;LAC;2;zubaciv01;Ivica Zubac;32:38;0;2;.000;0;0;;3;4;.750;2;5;7;4;0;2;1;5;3;-9
+15/11/2022;LAC;3;jacksre01;Reggie Jackson;25:07;3;7;.429;0;3;.000;0;0;;0;4;4;2;1;0;2;0;6;+6
+15/11/2022;LAC;4;kennalu01;Luke Kennard;2:53;0;0;;0;0;;0;0;;0;1;1;0;1;0;0;1;0;+1
+15/11/2022;LAC;5;Reserves;Reserves
+15/11/2022;LAC;6;batumni01;Nicolas Batum;26:26;7;7;1.000;7;7;1.000;1;2;.500;1;4;5;0;1;0;2;3;22;-10
+15/11/2022;LAC;7;walljo01;John Wall;26:21;6;11;.545;1;3;.333;4;6;.667;0;6;6;4;1;0;3;4;17;+11
+15/11/2022;LAC;8;powelno01;Norman Powell;18:16;2;10;.200;1;5;.200;0;0;;0;2;2;1;0;0;0;1;5;-11
+15/11/2022;LAC;9;mannte01;Terance Mann;14:30;1;1;1.000;0;0;;0;0;;0;3;3;1;0;0;0;2;2;+1
+15/11/2022;LAC;10;coffeam01;Amir Coffey;10:21;0;0;;0;0;;2;2;1.000;0;0;0;1;0;0;1;5;2;0
+15/11/2022;LAC;11;covinro01;Robert Covington;5:26;1;2;.500;1;2;.500;0;0;;0;2;2;0;0;0;2;1;3;-1
+15/11/2022;LAC;12;brownmo01;Moses Brown;Did Not Play
+15/11/2022;LAC;0;dinwisp01;Spencer Dinwiddie;40:59;6;15;.400;2;8;.250;2;3;.667;1;2;3;6;2;0;2;2;16;-7
+15/11/2022;LAC;1;doncilu01;Luka Dončić;39:43;11;22;.500;2;5;.400;11;11;1.000;2;9;11;5;3;0;3;3;35;+4
+15/11/2022;LAC;2;finnedo01;Dorian Finney-Smith;36:25;7;15;.467;7;13;.538;0;0;;1;2;3;0;3;0;0;2;21;+4
+15/11/2022;LAC;3;bullore01;Reggie Bullock;30:50;4;8;.500;4;8;.500;1;2;.500;1;2;3;1;0;0;0;3;13;+9
+15/11/2022;LAC;4;poweldw01;Dwight Powell;22:28;1;3;.333;0;0;;1;2;.500;2;0;2;5;1;0;1;3;3;+13
+15/11/2022;LAC;5;Reserves;Reserves
+15/11/2022;LAC;6;woodch01;Christian Wood;23:49;6;8;.750;2;2;1.000;1;4;.250;0;7;7;0;0;0;4;2;15;-4
+15/11/2022;LAC;7;hardati02;Tim Hardaway Jr.;22:28;0;7;.000;0;5;.000;0;0;;1;2;3;3;3;0;2;2;0;-11
+15/11/2022;LAC;8;greenjo02;Josh Green;13:40;0;1;.000;0;1;.000;0;2;.000;0;1;1;0;0;0;0;1;0;-3
+15/11/2022;LAC;9;klebima01;Maxi Kleber;9:38;0;1;.000;0;1;.000;0;0;;0;1;1;0;0;1;0;2;0;+5
+15/11/2022;LAC;10;campafa01;Facundo Campazzo;Did Not Play
+15/11/2022;LAC;11;ntilila01;Frank Ntilikina;Did Not Play
+15/11/2022;LAC;12;pinsoth01;Theo Pinson;Did Not Play

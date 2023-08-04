@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+04/02/2023;DAL;0;hardati02;Tim Hardaway Jr.;35:04;7;16;.438;5;10;.500;3;3;1.000;0;4;4;2;0;0;2;1;22;-2
+04/02/2023;DAL;1;finnedo01;Dorian Finney-Smith;33:41;5;11;.455;3;7;.429;5;6;.833;4;5;9;2;1;0;2;1;18;+10
+04/02/2023;DAL;2;dinwisp01;Spencer Dinwiddie;32:37;9;17;.529;3;6;.500;4;5;.800;0;4;4;4;1;0;3;2;25;-8
+04/02/2023;DAL;3;poweldw01;Dwight Powell;29:51;4;5;.800;0;0;;2;3;.667;3;4;7;1;4;1;0;3;10;-1
+04/02/2023;DAL;4;greenjo02;Josh Green;26:41;5;12;.417;0;4;.000;2;4;.500;1;0;1;4;1;0;1;5;12;-28
+04/02/2023;DAL;5;Reserves;Reserves
+04/02/2023;DAL;6;bullore01;Reggie Bullock;35:12;2;4;.500;1;3;.333;0;0;;1;5;6;3;2;0;2;2;5;+7
+04/02/2023;DAL;7;wrighmc01;McKinley Wright IV;13:37;2;7;.286;0;1;.000;1;2;.500;0;3;3;5;0;0;2;1;5;+7
+04/02/2023;DAL;8;hardyja02;Jaden Hardy;13:24;3;8;.375;1;5;.200;4;4;1.000;0;1;1;1;0;0;1;2;11;-7
+04/02/2023;DAL;9;lawsoaj01;A.J. Lawson;11:09;2;4;.500;1;3;.333;0;0;;1;3;4;0;0;0;0;1;5;+4
+04/02/2023;DAL;10;pinsoth01;Theo Pinson;6:58;0;0;;0;0;;0;0;;0;0;0;0;0;0;1;0;0;-7
+04/02/2023;DAL;11;ntilila01;Frank Ntilikina;1:46;0;1;.000;0;1;.000;0;0;;0;0;0;0;0;0;0;0;0;-5
+04/02/2023;DAL;12;mcgeeja01;JaVale McGee;Did Not Play
+04/02/2023;DAL;13;silvach01;Chris Silva;Did Not Play
+04/02/2023;DAL;0;greendr01;Draymond Green;32:20;6;13;.462;3;7;.429;2;2;1.000;0;9;9;9;0;2;2;3;17;+2
+04/02/2023;DAL;1;thompkl01;Klay Thompson;30:38;4;11;.364;2;6;.333;4;4;1.000;0;2;2;3;0;0;2;1;14;+3
+04/02/2023;DAL;2;wiggian01;Andrew Wiggins;28:34;4;6;.667;0;1;.000;1;2;.500;0;0;0;1;0;0;3;2;9;+6
+04/02/2023;DAL;3;curryst01;Stephen Curry;25:33;7;11;.636;2;6;.333;5;5;1.000;0;6;6;7;0;0;0;2;21;+14
+04/02/2023;DAL;4;looneke01;Kevon Looney;19:02;4;6;.667;0;0;;2;4;.500;3;4;7;0;2;0;0;5;10;-4
+04/02/2023;DAL;5;Reserves;Reserves
+04/02/2023;DAL;6;poolejo01;Jordan Poole;26:45;1;6;.167;1;3;.333;0;0;;0;3;3;1;0;0;4;3;3;-4
+04/02/2023;DAL;7;divindo01;Donte DiVincenzo;23:56;5;7;.714;3;5;.600;0;0;;0;2;2;2;2;0;2;2;13;-5
+04/02/2023;DAL;8;kuminjo01;Jonathan Kuminga;19:54;6;11;.545;1;4;.250;0;0;;0;2;2;1;0;1;1;3;13;+7
+04/02/2023;DAL;9;jeromty01;Ty Jerome;17:41;2;4;.500;1;1;1.000;0;0;;0;2;2;6;1;0;0;2;5;+2
+04/02/2023;DAL;10;greenja01;JaMychal Green;15:37;6;7;.857;1;2;.500;1;2;.500;2;3;5;3;1;2;0;1;14;+9
+04/02/2023;DAL;11;baldwpa01;Patrick Baldwin Jr.;Did Not Play
+04/02/2023;DAL;12;moodymo01;Moses Moody;Did Not Play
+04/02/2023;DAL;13;wisemja01;James Wiseman;Did Not Play

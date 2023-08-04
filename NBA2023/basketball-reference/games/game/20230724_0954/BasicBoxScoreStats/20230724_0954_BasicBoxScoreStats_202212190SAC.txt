@@ -1,0 +1,29 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+19/12/2022;CHO;0;oubreke01;Kelly Oubre Jr.;38:27;12;25;.480;3;8;.375;4;6;.667;1;8;9;1;1;1;4;2;31;+1
+19/12/2022;CHO;1;haywago01;Gordon Hayward;36:43;8;12;.667;1;2;.500;2;2;1.000;1;4;5;1;1;0;4;2;19;+18
+19/12/2022;CHO;2;washipj01;P.J. Washington;29:03;1;6;.167;1;4;.250;0;0;;1;8;9;2;0;1;0;5;3;-5
+19/12/2022;CHO;3;ballla01;LaMelo Ball;27:28;9;19;.474;5;10;.500;0;0;;1;4;5;12;0;0;2;6;23;+3
+19/12/2022;CHO;4;plumlma01;Mason Plumlee;25:08;7;8;.875;0;0;;1;2;.500;0;4;4;3;0;3;1;3;15;-4
+19/12/2022;CHO;5;Reserves;Reserves
+19/12/2022;CHO;6;maledth01;Théo Maledon;26:04;4;10;.400;0;3;.000;4;6;.667;0;7;7;3;1;0;0;2;12;+6
+19/12/2022;CHO;7;mcdanja01;Jalen McDaniels;25:50;1;5;.200;0;4;.000;4;4;1.000;1;2;3;2;0;2;2;2;6;+3
+19/12/2022;CHO;8;richani01;Nick Richards;22:52;6;9;.667;0;0;;2;3;.667;5;6;11;2;1;0;1;3;14;+10
+19/12/2022;CHO;9;thorjt01;JT Thor;8:24;1;1;1.000;0;0;;0;0;;1;2;3;0;0;0;0;0;2;-2
+19/12/2022;CHO;10;bouknja01;James Bouknight;Did Not Play
+19/12/2022;CHO;11;joneska01;Kai Jones;Did Not Play
+19/12/2022;CHO;0;sabondo01;Domantas Sabonis;40:44;12;19;.632;2;2;1.000;2;5;.400;5;18;23;7;1;0;1;4;28;+6
+19/12/2022;CHO;1;foxde01;De'Aaron Fox;33:43;14;25;.560;2;5;.400;7;9;.778;1;4;5;2;0;0;2;5;37;-20
+19/12/2022;CHO;2;huertke01;Kevin Huerter;31:47;3;11;.273;3;8;.375;0;2;.000;1;2;3;1;0;0;0;5;9;+6
+19/12/2022;CHO;3;murrake02;Keegan Murray;31:02;4;9;.444;3;5;.600;0;2;.000;0;1;1;0;1;1;0;4;11;+8
+19/12/2022;CHO;4;barneha02;Harrison Barnes;29:29;3;7;.429;0;2;.000;5;8;.625;0;3;3;3;2;0;1;1;11;+2
+19/12/2022;CHO;5;Reserves;Reserves
+19/12/2022;CHO;6;monkma01;Malik Monk;24:51;4;13;.308;1;6;.167;3;4;.750;0;1;1;4;0;0;2;1;12;-4
+19/12/2022;CHO;7;mitchda01;Davion Mitchell;21:04;3;4;.750;1;2;.500;0;0;;1;0;1;5;1;0;0;0;7;+1
+19/12/2022;CHO;8;daviste02;Terence Davis;14:43;1;4;.250;0;3;.000;0;1;.000;0;0;0;1;3;0;0;1;2;-11
+19/12/2022;CHO;9;quetane01;Neemias Queta;7:16;1;3;.333;0;0;;0;0;;2;2;4;0;0;1;1;0;2;-12
+19/12/2022;CHO;10;lylestr01;Trey Lyles;5:20;0;0;;0;0;;0;0;;0;1;1;0;0;0;1;2;0;-6
+19/12/2022;CHO;11;dellama01;Matthew Dellavedova;Did Not Play
+19/12/2022;CHO;12;holmeri01;Richaun Holmes;Did Not Play
+19/12/2022;CHO;13;lenal01;Alex Len;Did Not Play
+19/12/2022;CHO;14;metuch01;Chimezie Metu;Did Not Play
+19/12/2022;CHO;15;okpalkz01;KZ Okpala;Did Not Play

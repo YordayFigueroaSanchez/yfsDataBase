@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+26/03/2023;OKC;0;willija06;Jalen Williams;37:05;9;14;.643;2;2;1.000;3;3;1.000;1;4;5;4;2;0;1;1;23;+10
+26/03/2023;OKC;1;gilgesh01;Shai Gilgeous-Alexander;35:10;9;17;.529;0;1;.000;13;15;.867;2;0;2;3;4;0;3;1;31;+1
+26/03/2023;OKC;2;giddejo01;Josh Giddey;35:04;7;12;.583;3;5;.600;0;1;.000;1;10;11;6;1;2;2;0;17;-3
+26/03/2023;OKC;3;dortlu01;Luguentz Dort;28:52;2;14;.143;0;6;.000;2;2;1.000;3;3;6;1;2;0;2;4;6;-5
+26/03/2023;OKC;4;willija07;Jaylin Williams;26:53;3;8;.375;0;3;.000;1;2;.500;2;4;6;2;0;0;1;3;7;-4
+26/03/2023;OKC;5;Reserves;Reserves
+26/03/2023;OKC;6;joeis01;Isaiah Joe;28:26;5;12;.417;5;10;.500;5;5;1.000;2;5;7;5;2;0;0;2;20;+2
+26/03/2023;OKC;7;manntr01;Tre Mann;14:40;2;6;.333;1;4;.250;0;0;;1;1;2;2;0;0;0;3;5;+17
+26/03/2023;OKC;8;robinje02;Jeremiah Robinson-Earl;13:10;2;4;.500;1;1;1.000;0;0;;0;1;1;0;1;0;0;2;5;+8
+26/03/2023;OKC;9;diengou01;Ousmane Dieng;12:49;2;5;.400;0;2;.000;0;0;;1;0;1;0;1;0;1;1;4;+11
+26/03/2023;OKC;10;wiggiaa01;Aaron Wiggins;7:51;0;2;.000;0;1;.000;0;0;;0;1;1;0;0;0;1;2;0;-7
+26/03/2023;OKC;11;pokusal01;Aleksej Pokusevski;Did Not Play
+26/03/2023;OKC;12;saricda01;Dario Šarić;Did Not Play
+26/03/2023;OKC;13;waterli01;Lindy Waters III;Did Not Dress
+26/03/2023;OKC;0;sharpsh01;Shaedon Sharpe;35:17;9;13;.692;3;5;.600;8;11;.727;0;5;5;3;0;0;5;3;29;+11
+26/03/2023;OKC;1;thybuma01;Matisse Thybulle;32:51;3;8;.375;2;4;.500;0;0;;0;4;4;1;2;0;1;3;8;+7
+26/03/2023;OKC;2;eubandr01;Drew Eubanks;32:45;3;6;.500;0;0;;1;2;.500;2;8;10;4;1;6;3;2;7;+7
+26/03/2023;OKC;3;arcidry01;Ryan Arcidiacono;26:52;1;6;.167;1;5;.200;0;0;;0;2;2;5;0;0;1;2;3;+4
+26/03/2023;OKC;4;watfotr01;Trendon Watford;10:38;3;4;.750;0;1;.000;0;1;.000;0;2;2;0;0;0;2;0;6;-3
+26/03/2023;OKC;5;Reserves;Reserves
+26/03/2023;OKC;6;littlna01;Nassir Little;31:22;11;21;.524;3;6;.500;3;3;1.000;2;4;6;0;0;0;2;5;28;-5
+26/03/2023;OKC;7;johnske07;Keon Johnson;21:08;4;9;.444;2;4;.500;4;6;.667;1;0;1;5;0;0;3;1;14;-10
+26/03/2023;OKC;8;reddica01;Cam Reddish;19:05;1;4;.250;0;0;;2;2;1.000;0;0;0;0;1;0;1;1;4;-22
+26/03/2023;OKC;9;knoxke01;Kevin Knox;15:25;4;9;.444;3;6;.500;0;0;;1;4;5;0;0;0;0;3;11;-8
+26/03/2023;OKC;10;walkeja01;Jabari Walker;14:37;0;2;.000;0;1;.000;2;2;1.000;2;0;2;0;1;1;0;2;2;-11
+26/03/2023;OKC;11;butlejo01;John Butler;Did Not Play

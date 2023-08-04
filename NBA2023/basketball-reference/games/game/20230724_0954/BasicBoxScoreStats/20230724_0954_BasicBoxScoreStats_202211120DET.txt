@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+12/11/2022;BOS;0;willigr01;Grant Williams;44:54;7;12;.583;3;6;.500;2;2;1.000;1;9;10;4;0;0;1;2;19;+8
+12/11/2022;BOS;1;smartma01;Marcus Smart;43:01;7;17;.412;4;10;.400;0;0;;1;1;2;10;5;1;1;1;18;+4
+12/11/2022;BOS;2;tatumja01;Jayson Tatum;40:59;14;28;.500;7;14;.500;8;10;.800;2;8;10;3;1;1;3;2;43;+7
+12/11/2022;BOS;3;whitede01;Derrick White;25:11;3;12;.250;1;5;.200;5;6;.833;0;3;3;4;0;2;0;4;12;+4
+12/11/2022;BOS;4;griffbl01;Blake Griffin;21:00;3;6;.500;1;3;.333;0;0;;1;5;6;0;0;0;0;1;7;+1
+12/11/2022;BOS;5;Reserves;Reserves
+12/11/2022;BOS;6;hausesa01;Sam Hauser;20:44;2;7;.286;1;6;.167;0;0;;0;1;1;1;0;0;0;2;5;-1
+12/11/2022;BOS;7;vonleno01;Noah Vonleh;19:55;0;2;.000;0;1;.000;2;2;1.000;3;4;7;2;0;0;0;3;2;+11
+12/11/2022;BOS;8;pritcpa01;Payton Pritchard;14:59;2;6;.333;1;3;.333;0;0;;1;1;2;2;0;0;2;0;5;+16
+12/11/2022;BOS;9;kornelu01;Luke Kornet;9:14;1;1;1.000;0;0;;4;4;1.000;0;1;1;1;0;0;0;2;6;-5
+12/11/2022;BOS;10;brownja02;Jaylen Brown;Did Not Dress
+12/11/2022;BOS;11;jacksju01;Justin Jackson;Did Not Play
+12/11/2022;BOS;0;hayeski01;Killian Hayes;35:09;6;14;.429;3;6;.500;0;0;;2;4;6;7;0;0;3;2;15;-2
+12/11/2022;BOS;1;iveyja01;Jaden Ivey;34:10;8;15;.533;4;6;.667;6;6;1.000;2;2;4;3;0;0;4;4;26;-4
+12/11/2022;BOS;2;bogdabo02;Bojan Bogdanović;32:59;9;15;.600;3;7;.429;7;8;.875;0;6;6;4;0;0;4;3;28;-2
+12/11/2022;BOS;3;beysa01;Saddiq Bey;30:29;3;13;.231;2;6;.333;2;2;1.000;0;2;2;2;1;0;0;3;10;-3
+12/11/2022;BOS;4;stewais01;Isaiah Stewart;27:42;3;8;.375;2;4;.500;0;0;;1;8;9;2;1;0;1;3;8;+2
+12/11/2022;BOS;5;Reserves;Reserves
+12/11/2022;BOS;6;liveris01;Isaiah Livers;18:21;1;5;.200;0;3;.000;1;2;.500;2;3;5;0;0;1;1;3;3;-7
+12/11/2022;BOS;7;baglema01;Marvin Bagley III;18:08;2;5;.400;0;1;.000;0;0;;2;2;4;1;0;2;0;0;4;-9
+12/11/2022;BOS;8;durenja01;Jalen Duren;17:11;1;1;1.000;0;0;;0;0;;1;11;12;1;2;0;1;2;2;-9
+12/11/2022;BOS;9;diallha01;Hamidou Diallo;15:10;2;9;.222;1;3;.333;0;0;;1;1;2;1;0;0;0;2;5;-6
+12/11/2022;BOS;10;josepco01;Cory Joseph;10:41;2;4;.500;1;2;.500;2;3;.667;0;0;0;2;0;0;0;1;7;-5
+12/11/2022;BOS;11;knoxke01;Kevin Knox;Did Not Play
+12/11/2022;BOS;12;mcgruro01;Rodney McGruder;Did Not Play
+12/11/2022;BOS;13;noelne01;Nerlens Noel;Did Not Play

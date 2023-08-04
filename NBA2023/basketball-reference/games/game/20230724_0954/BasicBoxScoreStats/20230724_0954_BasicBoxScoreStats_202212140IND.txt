@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+14/12/2022;GSW;0;divindo01;Donte DiVincenzo;37:48;4;10;.400;3;6;.500;4;4;1.000;0;8;8;3;1;0;2;1;15;+19
+14/12/2022;GSW;1;poolejo01;Jordan Poole;33:16;8;22;.364;1;7;.143;3;3;1.000;2;3;5;5;1;0;4;5;20;+5
+14/12/2022;GSW;2;curryst01;Stephen Curry;29:33;11;19;.579;5;10;.500;11;11;1.000;1;6;7;7;2;1;3;2;38;-6
+14/12/2022;GSW;3;greendr01;Draymond Green;27:03;0;3;.000;0;1;.000;1;2;.500;1;1;2;3;0;0;6;1;1;+5
+14/12/2022;GSW;4;looneke01;Kevon Looney;21:23;2;5;.400;0;0;;0;0;;1;5;6;3;0;0;0;3;4;-10
+14/12/2022;GSW;5;Reserves;Reserves
+14/12/2022;GSW;6;kuminjo01;Jonathan Kuminga;24:22;4;13;.308;0;1;.000;1;2;.500;5;3;8;1;1;2;3;3;9;+2
+14/12/2022;GSW;7;moodymo01;Moses Moody;22:57;5;6;.833;2;3;.667;1;1;1.000;0;1;1;3;0;0;1;2;13;-2
+14/12/2022;GSW;8;greenja01;JaMychal Green;19:07;4;4;1.000;3;3;1.000;4;6;.667;2;3;5;1;0;1;2;1;15;-5
+14/12/2022;GSW;9;jeromty01;Ty Jerome;12:53;1;2;.500;0;1;.000;0;0;;0;2;2;1;0;0;1;1;2;-20
+14/12/2022;GSW;10;lamban01;Anthony Lamb;11:38;1;2;.500;0;1;.000;0;0;;0;2;2;0;0;0;1;1;2;-18
+14/12/2022;GSW;11;baldwpa01;Patrick Baldwin Jr.;Did Not Play
+14/12/2022;GSW;0;hieldbu01;Buddy Hield;34:34;6;12;.500;3;8;.375;2;2;1.000;1;4;5;1;1;0;2;2;17;-21
+14/12/2022;GSW;1;halibty01;Tyrese Haliburton;34:21;9;17;.529;5;10;.500;6;7;.857;2;2;4;6;1;2;6;3;29;-2
+14/12/2022;GSW;2;turnemy01;Myles Turner;31:23;8;11;.727;2;3;.667;3;5;.600;0;2;2;3;2;1;2;5;21;+3
+14/12/2022;GSW;3;nembhan01;Andrew Nembhard;30:53;4;6;.667;0;1;.000;0;0;;0;3;3;3;1;0;1;3;8;-7
+14/12/2022;GSW;4;nesmiaa01;Aaron Nesmith;19:31;2;7;.286;2;5;.400;0;0;;1;2;3;1;0;1;0;1;6;-10
+14/12/2022;GSW;5;Reserves;Reserves
+14/12/2022;GSW;6;mathube01;Bennedict Mathurin;36:21;8;14;.571;4;7;.571;4;4;1.000;0;6;6;3;1;0;1;5;24;+34
+14/12/2022;GSW;7;brissos01;Oshae Brissett;20:16;4;8;.500;0;2;.000;3;4;.750;0;2;2;0;3;1;1;2;11;+15
+14/12/2022;GSW;8;smithja04;Jalen Smith;16:37;2;8;.250;0;3;.000;0;0;;1;5;6;4;0;3;2;4;4;+3
+14/12/2022;GSW;9;mccontj01;T.J. McConnell;16:04;1;4;.250;0;0;;3;3;1.000;0;3;3;9;1;0;2;0;5;+15
+14/12/2022;GSW;10;bitadgo01;Goga Bitadze;Did Not Play
+14/12/2022;GSW;11;jacksis01;Isaiah Jackson;Did Not Play
+14/12/2022;GSW;12;johnsja01;James Johnson;Did Not Play
+14/12/2022;GSW;13;taylote01;Terry Taylor;Did Not Play

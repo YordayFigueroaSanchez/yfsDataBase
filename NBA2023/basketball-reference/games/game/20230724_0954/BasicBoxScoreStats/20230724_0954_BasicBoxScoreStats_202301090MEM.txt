@@ -1,0 +1,28 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+09/01/2023;SAS;0;sochaje01;Jeremy Sochan;30:10;2;11;.182;1;3;.333;2;2;1.000;3;2;5;2;2;0;3;3;7;-1
+09/01/2023;SAS;1;jonestr01;Tre Jones;30:09;6;16;.375;1;4;.250;5;5;1.000;0;4;4;7;0;0;2;1;18;-14
+09/01/2023;SAS;2;langfro01;Romeo Langford;27:40;6;11;.545;0;3;.000;1;1;1.000;2;3;5;4;0;1;0;1;13;+4
+09/01/2023;SAS;3;poeltja01;Jakob Poeltl;26:13;6;10;.600;0;0;;1;2;.500;2;5;7;2;2;0;2;4;13;-12
+09/01/2023;SAS;4;bateske01;Keita Bates-Diop;16:59;4;7;.571;2;3;.667;0;0;;0;0;0;0;0;0;0;0;10;0
+09/01/2023;SAS;5;Reserves;Reserves
+09/01/2023;SAS;6;richajo01;Josh Richardson;24:46;6;12;.500;2;6;.333;2;2;1.000;1;4;5;5;2;0;2;3;16;-5
+09/01/2023;SAS;7;branhma01;Malaki Branham;24:44;5;11;.455;2;5;.400;0;0;;0;2;2;1;0;0;3;0;12;-14
+09/01/2023;SAS;8;mcderdo01;Doug McDermott;24:14;3;6;.500;1;3;.333;2;2;1.000;0;5;5;1;0;0;0;4;9;+3
+09/01/2023;SAS;9;johnsst04;Stanley Johnson;19:24;2;4;.500;1;2;.500;1;2;.500;0;3;3;4;0;0;0;4;6;+4
+09/01/2023;SAS;10;colliza01;Zach Collins;15:41;4;9;.444;1;3;.333;0;0;;4;2;6;2;2;0;2;4;9;-5
+09/01/2023;SAS;11;dienggo01;Gorgui Dieng;Did Not Play
+09/01/2023;SAS;12;robyis01;Isaiah Roby;Did Not Play
+09/01/2023;SAS;13;weslebl01;Blake Wesley;Did Not Play
+09/01/2023;SAS;0;jonesty01;Tyus Jones;35:02;11;19;.579;2;4;.500;0;0;;1;2;3;6;3;0;2;1;24;+14
+09/01/2023;SAS;1;brookdi01;Dillon Brooks;31:57;5;13;.385;1;4;.250;4;6;.667;0;5;5;3;3;0;1;5;15;+16
+09/01/2023;SAS;2;jacksja02;Jaren Jackson Jr.;30:13;5;10;.500;2;4;.500;4;6;.667;2;4;6;2;0;5;2;2;16;-4
+09/01/2023;SAS;3;banede01;Desmond Bane;29:04;6;16;.375;3;5;.600;0;1;.000;0;2;2;4;0;0;4;2;15;-6
+09/01/2023;SAS;4;adamsst01;Steven Adams;28:19;5;7;.714;0;0;;3;11;.273;4;11;15;4;1;0;2;0;13;+11
+09/01/2023;SAS;5;Reserves;Reserves
+09/01/2023;SAS;6;willizi02;Ziaire Williams;22:42;4;9;.444;1;4;.250;2;3;.667;1;4;5;0;0;1;1;1;11;+4
+09/01/2023;SAS;7;aldamsa01;Santi Aldama;17:47;5;5;1.000;1;1;1.000;2;2;1.000;0;3;3;0;2;0;1;1;13;+12
+09/01/2023;SAS;8;tillmxa01;Xavier Tillman Sr.;17:12;2;5;.400;0;1;.000;5;6;.833;3;4;7;2;0;0;0;1;9;-6
+09/01/2023;SAS;9;konchjo01;John Konchar;14:46;1;3;.333;1;2;.500;0;0;;0;2;2;1;0;1;0;0;3;+5
+09/01/2023;SAS;10;chandke01;Kennedy Chandler;12:58;1;4;.250;0;1;.000;0;0;;0;2;2;4;0;0;0;2;2;-6
+09/01/2023;SAS;11;laravja01;Jake LaRavia;Did Not Play
+09/01/2023;SAS;12;roddyda01;David Roddy;Did Not Play

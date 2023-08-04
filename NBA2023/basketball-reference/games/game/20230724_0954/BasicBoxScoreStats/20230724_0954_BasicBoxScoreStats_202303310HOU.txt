@@ -1,0 +1,27 @@
+dateId;teamId;order;playerId;Starters;MP;FG;FGA;FG%;3P;3PA;3P%;FT;FTA;FT%;ORB;DRB;TRB;AST;STL;BLK;TOV;PF;PTS;+/-
+31/03/2023;DET;0;iveyja01;Jaden Ivey;34:58;8;20;.400;2;9;.222;0;0;;1;2;3;9;2;0;4;5;18;
+31/03/2023;DET;1;baglema01;Marvin Bagley III;34:27;8;13;.615;0;2;.000;5;6;.833;1;2;3;1;0;0;2;2;21;
+31/03/2023;DET;2;liveris01;Isaiah Livers;28:44;4;8;.500;3;6;.500;1;1;1.000;1;3;4;0;0;1;0;4;12;
+31/03/2023;DET;3;hayeski01;Killian Hayes;28:10;3;8;.375;1;3;.333;3;4;.750;2;3;5;6;0;1;2;3;10;
+31/03/2023;DET;4;wisemja01;James Wiseman;23:30;4;10;.400;0;2;.000;0;0;;1;3;4;1;0;3;0;6;8;
+31/03/2023;DET;5;Reserves;Reserves
+31/03/2023;DET;6;josepco01;Cory Joseph;25:02;7;11;.636;3;6;.500;0;0;;1;3;4;5;1;1;2;1;17;
+31/03/2023;DET;7;durenja01;Jalen Duren;24:30;4;7;.571;0;0;;3;8;.375;5;5;10;0;2;1;1;4;11;
+31/03/2023;DET;8;omorueu01;Eugene Omoruyi;17:11;3;7;.429;1;4;.250;4;6;.667;1;2;3;0;0;0;1;1;11;
+31/03/2023;DET;9;rhodeja01;Jared Rhoden;15:44;2;3;.667;1;2;.500;2;2;1.000;0;3;3;1;0;0;0;2;7;
+31/03/2023;DET;10;hamptrj01;R.J. Hampton;7:43;0;2;.000;0;1;.000;0;0;;0;1;1;1;2;0;0;0;0;
+31/03/2023;DET;11;boehebu01;Buddy Boeheim;Did Not Play
+31/03/2023;DET;12;mcgruro01;Rodney McGruder;Did Not Play
+31/03/2023;DET;0;porteke02;Kevin Porter Jr.;37:51;12;20;.600;7;13;.538;2;3;.667;2;1;3;1;4;0;3;5;33;+3
+31/03/2023;DET;1;smithja05;Jabari Smith Jr.;36:47;4;14;.286;1;6;.167;4;4;1.000;2;9;11;1;0;2;0;4;13;-5
+31/03/2023;DET;2;greenja05;Jalen Green;36:37;10;18;.556;2;5;.400;10;16;.625;0;1;1;5;0;0;3;4;32;+12
+31/03/2023;DET;3;martike04;Kenyon Martin Jr.;35:22;3;6;.500;0;2;.000;9;12;.750;1;5;6;1;0;2;0;3;15;+20
+31/03/2023;DET;4;sengual01;Alperen Şengün;34:54;5;7;.714;0;0;;5;6;.833;3;10;13;7;0;0;4;5;15;+13
+31/03/2023;DET;5;Reserves;Reserves
+31/03/2023;DET;6;easonta01;Tari Eason;24:01;1;11;.091;1;2;.500;2;2;1.000;6;4;10;1;2;1;0;1;5;-6
+31/03/2023;DET;7;chrisjo01;Josh Christopher;15:23;2;5;.400;0;2;.000;0;0;;0;1;1;1;3;0;0;0;4;-1
+31/03/2023;DET;8;marjabo01;Boban Marjanović;7:55;0;0;;0;0;;2;2;1.000;0;1;1;0;0;0;0;0;2;+6
+31/03/2023;DET;9;nixda01;Daishen Nix;6:09;1;2;.500;0;1;.000;0;0;;0;0;0;1;0;0;2;0;2;-2
+31/03/2023;DET;10;garubus01;Usman Garuba;5:00;0;0;;0;0;;0;0;;0;0;0;0;0;0;0;2;0;-10
+31/03/2023;DET;11;augusdj01;D.J. Augustin;Did Not Play
+31/03/2023;DET;12;kaminfr01;Frank Kaminsky;Did Not Play
