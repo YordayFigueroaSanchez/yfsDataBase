@@ -1,0 +1,269 @@
+
+Scorebox Meta
+20230622
+7:05 p.m. Local
+42440
+Yankee Stadium III
+176
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/SEA-2023.png;/teams/SEA/2023.shtml;4;2;2;2;0;0;0;0;0;10;11;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;0;0;0;0;0;0;0;2;2;5;3
+
+Batting home
+DJ LeMahieu;/players/l/lemahdj01.shtml;2B;4;0;0;0;0;2;4;.228;.286;.382;.668;16;14;-0.026; 0.25;0.000;-0.026;-0.01%; 0.23; -1.1;1;0;
+Gleyber Torres;/players/t/torregl01.shtml;DH;4;0;1;0;0;1;4;.253;.328;.429;.756;19;10;-0.015; 0.16;0.001;-0.016;-0.01%; 0.15; -0.4;;;
+Jake Bauers;/players/b/bauerja01.shtml;RF;0;0;0;0;0;0;0;.231;.315;.481;.796;;;;;;;;;;0;0;
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;2;1;1;0;2;1;4;.268;.349;.437;.786;20;10;-0.002; 0.11;0.005;-0.007;-0.00%; 0.10; 1.3;4;1;
+Giancarlo Stanton;/players/s/stantmi03.shtml;RF;3;0;0;0;0;1;3;.190;.250;.410;.660;7;6;-0.018; 0.23;0.000;-0.018;-0.01%; 0.21; -1.8;1;0;GDP
+Oswaldo Cabrera;/players/c/cabreos01.shtml;RF-3B;1;0;0;0;0;0;1;.189;.236;.296;.532;1;1;0.000; 0.00;0.000;0.000;0%; 0.00; -0.4;0;0;
+Josh Donaldson;/players/d/donaljo02.shtml;3B;3;0;0;0;0;0;3;.127;.200;.413;.613;6;5;-0.010; 0.13;0.000;-0.010;-0.01%; 0.12; -0.7;2;3;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;3B-P;1;1;1;2;0;0;1;.237;.275;.362;.637;1;1;0.000; 0.00;0.000;0.000;0%; 0.00; 1.7;0;1;HR
+Billy McKinney;/players/m/mckinbi01.shtml;LF;3;0;1;0;1;0;4;.318;.348;.636;.984;18;10;0.005; 0.06;0.006;-0.001; 0.00%; 0.06; -0.0;0;0;
+Harrison Bader;/players/b/baderha01.shtml;CF;4;0;0;0;0;0;4;.248;.274;.465;.739;14;11;-0.012; 0.10;0.000;-0.012;-0.01%; 0.10; -0.9;2;1;
+Kyle Higashioka;/players/h/higasky01.shtml;C;4;0;0;0;0;2;4;.221;.267;.354;.621;18;13;-0.006; 0.06;0.000;-0.006;-0.00%; 0.06; -0.9;15;0;
+Anthony Volpe;/players/v/volpean01.shtml;SS;2;0;1;0;1;0;3;.196;.273;.364;.637;16;9;0.005; 0.06;0.006;0.000; 0.00%; 0.06; 0.4;1;1;
+Domingo Germán;/players/g/germado01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nick Ramirez;/players/r/ramirni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Albert Abreu;/players/a/abreual01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+HR: Isiah Kiner-Falefa (4, off Chris Flexen, 9th inn, 1 on, 1 out to Deep LF).
+
+
+TB: Isiah Kiner-Falefa 4; Anthony Volpe; Anthony Rizzo; Billy McKinney; Gleyber Torres.
+
+
+GIDP: Giancarlo Stanton (3).
+
+
+RBI: Isiah Kiner-Falefa 2 (17).
+
+
+Team LOB: 6.
+With RISP: 0 for 1.
+
+Batting away
+Jarred Kelenic;/players/k/kelenja01.shtml;LF-RF;5;0;0;0;0;3;5;.255;.323;.470;.793;24;14;-0.028; 0.24;0.002;-0.030;-0.01%; 0.14; -0.8;3;0;
+Julio Rodríguez;/players/r/rodriju01.shtml;CF;5;1;1;0;0;1;5;.238;.300;.415;.715;19;14;0.015; 0.20;0.024;-0.010; 0.01%; 0.11; -0.7;4;0;
+Ty France;/players/f/francty01.shtml;1B;4;2;1;1;0;1;5;.274;.345;.423;.769;15;9;0.073; 0.29;0.075;-0.001; 0.03%; 0.16; 0.8;6;1;HR,HBP
+Teoscar Hernández;/players/h/hernate01.shtml;RF;4;2;3;2;0;1;4;.254;.299;.443;.742;16;12;0.099; 0.52;0.101;-0.003; 0.03%; 0.29; 1.7;1;0;HR
+Dylan Moore;/players/m/mooredy01.shtml;LF;1;0;0;0;0;1;1;.067;.222;.267;.489;3;3;0.000; 0.00;0.000;0.000;0%; 0.00; -0.1;1;0;
+Cal Raleigh;/players/r/raleica01.shtml;C;5;2;2;1;0;1;5;.222;.300;.421;.721;22;15;0.052; 0.38;0.057;-0.005; 0.02%; 0.22; 1.1;7;0;HR
+Eugenio Suárez;/players/s/suareeu01.shtml;3B;3;1;2;2;2;1;5;.217;.314;.333;.647;24;11;0.140; 0.48;0.140;0.000; 0.05%; 0.27; 2.6;0;3;2B
+Mike Ford;/players/f/fordmi01.shtml;DH;4;1;0;1;0;2;5;.154;.190;.462;.652;17;13;0.033; 0.23;0.033;-0.001; 0.01%; 0.13; 0.6;;;SF
+José Caballero;/players/c/cabaljo01.shtml;SS;3;0;0;1;0;2;4;.233;.370;.345;.715;14;10;-0.012; 0.14;0.004;-0.017;-0.00%; 0.08; -0.7;1;4;SF
+Kolten Wong;/players/w/wongko01.shtml;2B;3;1;2;1;1;1;4;.167;.259;.214;.473;18;10;0.050; 0.11;0.050;0.000; 0.02%; 0.07; 1.1;3;1;HR
+Bryan Woo;/players/w/woobr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Ty Adcock;/players/a/adcocty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Chris Flexen;/players/f/flexech01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Eugenio Suárez (10, off Domingo Germán).
+
+
+HR: Kolten Wong (1, off Domingo Germán, 2nd inn, 0 on, 0 outs to Deep RF); Ty France (7, off Domingo Germán, 2nd inn, 0 on, 2 outs to Deep LF-CF); Teoscar Hernández (13, off Domingo Germán, 4th inn, 0 on, 1 out to Deep CF); Cal Raleigh (10, off Domingo Germán, 4th inn, 0 on, 1 out to Deep RF Line).
+
+
+SF: Mike Ford (1, off Domingo Germán); José Caballero (3, off Domingo Germán).
+
+
+HBP: Ty France (13, by Domingo Germán).
+
+
+TB: Teoscar Hernández 6; Kolten Wong 5; Cal Raleigh 5; Ty France 4; Eugenio Suárez 3; Julio Rodríguez.
+
+
+RBI: Eugenio Suárez 2 (41); Teoscar Hernández 2 (41); Cal Raleigh (30); José Caballero (17); Kolten Wong (10); Mike Ford (6); Ty France (33).
+
+
+2-out RBI: Ty France.
+
+
+Team LOB: 6.
+With RISP: 3 for 6.
+
+Pitching home
+Domingo Germán;/players/g/germado01.shtml; L (4-5); 3.1;8;10;8;2;4;4;5.10;23;93;60;36;12;12;5;11;5;0;10;;;-0.423; 0.53;-0.24%; 0.49; -8.2
+Nick Ramirez;/players/r/ramirni01.shtml;Nick Ramirez; 2.2;2;0;0;0;5;0;1.69;9;38;24;6;8;10;2;2;2;0;;0;0;0.001; 0.01; 0.00%; 0.01; 1.3
+Albert Abreu;/players/a/abreual01.shtml;Albert Abreu; 2 ;1;0;0;1;4;0;3.09;8;31;21;7;3;11;3;0;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 1.0
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;Isiah Kiner-Falefa; 1 ;0;0;0;0;1;0;3.00;3;10;6;2;1;3;0;2;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+Pitching away
+Bryan Woo;/players/w/woobr01.shtml; W (1-1); 5.1;2;0;0;3;5;0;5.09;21;93;59;33;12;14;7;6;1;0;66;;;0.074; 0.19; 0.03%; 0.11; 1.8
+Ty Adcock;/players/a/adcocty01.shtml;Ty Adcock; 1.2;0;0;0;0;0;0;0.00;4;12;9;7;0;2;2;2;1;0;;2;0;0.004; 0.04; 0.00%; 0.03; 1.7
+Chris Flexen;/players/f/flexech01.shtml;Chris Flexen; 2 ;3;2;2;1;2;1;7.71;10;31;22;15;5;2;1;6;2;0;;0;0;0.000; 0.00; 0.00%; 0.00; -1.0
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Domingo Germán (5; Ty France).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Domingo Germán (5; Ty France).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Shane Livensparger, 1B - Mark Ripperger, 2B - Dan Bellino, 3B - Phil Cuzzi, LF - (none), RF - (none).
+Time of Game: 2:56.
+Attendance: 42,440.
+Field Condition: Unknown.
+Start Time Weather: 69° F, Wind 9mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Mariners
+1;Jarred Kelenic;/players/k/kelenja01.shtml;LF
+2;Julio Rodríguez;/players/r/rodriju01.shtml;CF
+3;Ty France;/players/f/francty01.shtml;1B
+4;Teoscar Hernández;/players/h/hernate01.shtml;RF
+5;Cal Raleigh;/players/r/raleica01.shtml;C
+6;Eugenio Suárez;/players/s/suareeu01.shtml;3B
+7;Mike Ford;/players/f/fordmi01.shtml;DH
+8;José Caballero;/players/c/cabaljo01.shtml;SS
+9;Kolten Wong;/players/w/wongko01.shtml;2B
+; Bryan Woo;/players/w/woobr01.shtml;P
+Yankees
+1;DJ LeMahieu;/players/l/lemahdj01.shtml;2B
+2;Gleyber Torres;/players/t/torregl01.shtml;DH
+3;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+4;Giancarlo Stanton;/players/s/stantmi03.shtml;RF
+5;Josh Donaldson;/players/d/donaljo02.shtml;3B
+6;Billy McKinney;/players/m/mckinbi01.shtml;LF
+7;Harrison Bader;/players/b/baderha01.shtml;CF
+8;Kyle Higashioka;/players/h/higasky01.shtml;C
+9;Anthony Volpe;/players/v/volpean01.shtml;SS
+; Domingo Germán;/players/g/germado01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t1;1-0;1;123;3,(1-1) BFX;RR;SEA;Eugenio Suárez;Domingo Germán;14%;82%;Double to LF (Line Drive to LF Line); France Scores; Hernández Scores; Raleigh to 3B
+t1;0-0;1;12-;4,(1-2) BCCX;R;SEA;Teoscar Hernández;Domingo Germán;9%;63%;Single to CF (Line Drive to Deep LF-CF); Rodríguez Scores; France to 2B
+t1;1-0;1;12-;6,(3-2) BBSBFX;;SEA;Cal Raleigh;Domingo Germán;5%;68%;Single to RF (Line Drive to Deep RF); France to 3B; Hernández to 2B
+t2;4-0;0;---;4,(2-1) BBFX;R;SEA;Kolten Wong;Domingo Germán;5%;89%;Home Run (Fly Ball to Deep RF)
+t2;5-0;2;---;2,(1-0) BX;R;SEA;Ty France;Domingo Germán;4%;92%;Home Run (Fly Ball to Deep LF-CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Mariners Batting, Tied 0-0, Yankees' Domingo Germán facing 1-2-3 
+t1;0-0;0;---;5,(2-2) BSBCC;O;SEA;Jarred Kelenic;Domingo Germán;-2%;48%;Strikeout Looking
+t1;0-0;1;---;4,(1-2) SS.BX;;SEA;Julio Rodríguez;Domingo Germán;2%;50%;Single to LF (Ground Ball thru SS-3B Hole)
+t1;0-0;1;1--;1,(0-0) H;;SEA;Ty France;Domingo Germán;4%;54%;Hit By Pitch; Rodríguez to 2B
+t1;0-0;1;12-;4,(1-2) BCCX;R;SEA;Teoscar Hernández;Domingo Germán;9%;63%;Single to CF (Line Drive to Deep LF-CF); Rodríguez Scores; France to 2B
+t1;1-0;1;12-;6,(3-2) BBSBFX;;SEA;Cal Raleigh;Domingo Germán;5%;68%;Single to RF (Line Drive to Deep RF); France to 3B; Hernández to 2B
+t1;1-0;1;123;3,(1-1) BFX;RR;SEA;Eugenio Suárez;Domingo Germán;14%;82%;Double to LF (Line Drive to LF Line); France Scores; Hernández Scores; Raleigh to 3B
+t1;3-0;1;-23;5,(0-2) FSFFX;RO;SEA;Mike Ford;Domingo Germán;0%;82%;Lineout: RF/Sacrifice Fly (CF-RF); Raleigh Scores
+t1;4-0;2;-2-;2,(0-1) CX;O;SEA;José Caballero;Domingo Germán;-2%;81%;Popfly: SS (Deep SS-3B Hole)
+;;;;;;;;;4 runs, 4 hits, 0 errors, 1 LOB. Mariners 4, Yankees 0.
+Bottom of the 1st, Yankees Batting, Behind 0-4, Mariners' Bryan Woo facing 1-2-3 
+b1;0-4;0;---;3,(0-2) CCX;O;NYY;DJ LeMahieu;Bryan Woo;2%;83%;Foul Popfly: 1B (1B-C into Foul Terr.)
+b1;0-4;1;---;6,(3-2) BFBFBS;O;NYY;Gleyber Torres;Bryan Woo;1%;84%;Strikeout Swinging
+b1;0-4;2;---;5,(2-2) CS.BBS;O;NYY;Anthony Rizzo;Bryan Woo;1%;85%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 4, Yankees 0.
+Top of the 2nd, Mariners Batting, Ahead 4-0, Yankees' Domingo Germán facing 9-1-2 
+t2;4-0;0;---;4,(2-1) BBFX;R;SEA;Kolten Wong;Domingo Germán;5%;89%;Home Run (Fly Ball to Deep RF)
+t2;5-0;0;---;5,(2-2) BCSBS;O;SEA;Jarred Kelenic;Domingo Germán;-1%;89%;Strikeout Swinging
+t2;5-0;1;---;5,(2-2) BFFB.X;O;SEA;Julio Rodríguez;Domingo Germán;-1%;88%;Groundout: SS-1B
+t2;5-0;2;---;2,(1-0) BX;R;SEA;Ty France;Domingo Germán;4%;92%;Home Run (Fly Ball to Deep LF-CF)
+t2;6-0;2;---;4,(0-2) CSF.C;O;SEA;Teoscar Hernández;Domingo Germán;0%;92%;Strikeout Looking
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Mariners 6, Yankees 0.
+Bottom of the 2nd, Yankees Batting, Behind 0-6, Mariners' Bryan Woo facing 4-5-6 
+b2;0-6;0;---;3,(0-2) CCS;O;NYY;Giancarlo Stanton;Bryan Woo;1%;93%;Strikeout Swinging
+b2;0-6;1;---;1,(0-0) X;O;NYY;Josh Donaldson;Bryan Woo;1%;94%;Flyball: RF (Deep 2B)
+b2;0-6;2;---;6,(3-2) BCBBSB;;NYY;Billy McKinney;Bryan Woo;-1%;93%;Walk
+b2;0-6;2;1--;3,(1-1) CBX;O;NYY;Harrison Bader;Bryan Woo;1%;94%;Groundout: SS-2B/Forceout at 2B; Bader to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mariners 6, Yankees 0.
+Top of the 3rd, Mariners Batting, Ahead 6-0, Yankees' Domingo Germán facing 5-6-7 
+t3;6-0;0;---;2,(0-1) SX;O;SEA;Cal Raleigh;Domingo Germán;0%;94%;Popfly: 3B (Short 3B Line)
+t3;6-0;1;---;5,(3-1) BBBCB;;SEA;Eugenio Suárez;Domingo Germán;0%;94%;Walk
+t3;6-0;1;1--;1,(0-0) X;R;SEA;Mike Ford;Domingo Germán;3%;97%;Fielder's Choice 3B; Suárez Scores/Safe on E1 (catch)/Adv on E5/No RBI/unER; Ford to 3B
+;;;;;;;;;Other Challenged by SEA manager (Scott Servais): Original call overturned as shown.
+t3;7-0;1;--3;5,(3-1) BBSBX;RO;SEA;José Caballero;Domingo Germán;0%;97%;Flyball: CF/Sacrifice Fly (Deep CF); Ford Scores/unER
+t3;8-0;2;---;7,(3-2) BCBFFBB;;SEA;Kolten Wong;Domingo Germán;0%;97%;Walk
+t3;8-0;2;1--;3,(1-1) FBX;;SEA;Jarred Kelenic;Domingo Germán;0%;98%;Reached on E3 (Ground Ball to Weak 1B); Wong to 3B; Kelenic to 1B
+t3;8-0;2;1-3;1,(0-0) X;O;SEA;Julio Rodríguez;Domingo Germán;0%;97%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;2 runs, 0 hits, 3 errors, 2 LOB. Mariners 8, Yankees 0.
+Bottom of the 3rd, Yankees Batting, Behind 0-8, Mariners' Bryan Woo facing 8-9-1 
+b3;0-8;0;---;2,(1-0) BX;O;NYY;Kyle Higashioka;Bryan Woo;1%;98%;Groundout: SS-1B (Weak SS)
+b3;0-8;1;---;5,(3-1) BSBBB;;NYY;Anthony Volpe;Bryan Woo;-1%;97%;Walk
+b3;0-8;1;1--;6,(2-2) CBSBFS;O;NYY;DJ LeMahieu;Bryan Woo;1%;98%;Strikeout Swinging
+b3;0-8;2;1--;3,(2-0) BBX;O;NYY;Gleyber Torres;Bryan Woo;0%;98%;Groundout: SS-2B/Forceout at 2B (Weak SS); Torres to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mariners 8, Yankees 0.
+Top of the 4th, Mariners Batting, Ahead 8-0, Yankees' Domingo Germán facing 3-4-5 
+t4;8-0;0;---;6,(1-2) CFFFBS;O;SEA;Ty France;Domingo Germán;0%;98%;Strikeout Swinging
+t4;8-0;1;---;6,(2-2) FBFBFX;R;SEA;Teoscar Hernández;Domingo Germán;1%;99%;Home Run (Fly Ball to Deep CF)
+t4;9-0;1;---;7,(2-2) CBS.FFBX;R;SEA;Cal Raleigh;Domingo Germán;0%;99%;Home Run (Line Drive to Deep RF Line)
+;;;;;;;;;Nick Ramirez replaces Domingo Germán pitching
+t4;10-0;1;---;4,(1-2) .CCBX;;SEA;Eugenio Suárez;Nick Ramirez;0%;99%;Single to SS (Ground Ball)
+t4;10-0;1;1--;4,(1-2) BCSS;O;SEA;Mike Ford;Nick Ramirez;0%;99%;Strikeout Swinging
+t4;10-0;2;1--;4,(1-2) CFB.S;O;SEA;José Caballero;Nick Ramirez;0%;99%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Mariners 10, Yankees 0.
+Bottom of the 4th, Yankees Batting, Behind 0-10, Mariners' Bryan Woo facing 3-4-5 
+b4;0-10;0;---;8,(3-2) BSFFBBFB;;NYY;Anthony Rizzo;Bryan Woo;0%;99%;Walk
+b4;0-10;0;1--;2,(1-0) BX;O;NYY;Giancarlo Stanton;Bryan Woo;0%;99%;Flyball: CF (CF-RF)
+b4;0-10;1;1--;4,(1-2) FCBX;O;NYY;Josh Donaldson;Bryan Woo;0%;100%;Groundout: 3B-2B/Forceout at 2B (Weak 3B); Donaldson to 1B
+b4;0-10;2;1--;7,(2-2) BF*BSFFX;O;NYY;Billy McKinney;Bryan Woo;0%;100%;Flyball: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mariners 10, Yankees 0.
+Top of the 5th, Mariners Batting, Ahead 10-0, Yankees' Nick Ramirez facing 9-1-2 
+t5;10-0;0;---;5,(2-2) CBBSS;O;SEA;Kolten Wong;Nick Ramirez;0%;100%;Strikeout Swinging
+t5;10-0;1;---;6,(3-2) BBBCS.S;O;SEA;Jarred Kelenic;Nick Ramirez;0%;100%;Strikeout Swinging
+t5;10-0;2;---;5,(2-2) BCC.BX;O;SEA;Julio Rodríguez;Nick Ramirez;0%;100%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 10, Yankees 0.
+Bottom of the 5th, Yankees Batting, Behind 0-10, Mariners' Bryan Woo facing 7-8-9 
+b5;0-10;0;---;4,(1-2) FBCX;O;NYY;Harrison Bader;Bryan Woo;0%;100%;Groundout: 1B-P
+b5;0-10;1;---;5,(0-2) FF.FFS;O;NYY;Kyle Higashioka;Bryan Woo;0%;100%;Strikeout Swinging
+b5;0-10;2;---;8,(3-2) FBS.FBBFX;O;NYY;Anthony Volpe;Bryan Woo;0%;100%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 10, Yankees 0.
+Top of the 6th, Mariners Batting, Ahead 10-0, Yankees' Nick Ramirez facing 3-4-5 
+t6;10-0;0;---;3,(1-1) BFX;O;SEA;Ty France;Nick Ramirez;0%;100%;Lineout: 3B (SS-3B Hole)
+t6;10-0;1;---;2,(1-0) BX;O;SEA;Teoscar Hernández;Nick Ramirez;0%;100%;Single to CF (Line Drive to Deep LF-CF); Hernández out at 2B/CF-2B
+t6;10-0;2;---;5,(2-2) CCB.BS;O;SEA;Cal Raleigh;Nick Ramirez;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Mariners 10, Yankees 0.
+Bottom of the 6th, Yankees Batting, Behind 0-10, Mariners' Bryan Woo facing 1-2-3 
+b6;0-10;0;---;4,(0-2) CC.FX;O;NYY;DJ LeMahieu;Bryan Woo;0%;100%;Groundout: 3B-1B (Weak 3B)
+b6;0-10;1;---;7,(3-2) BCCBBFX;;NYY;Gleyber Torres;Bryan Woo;0%;100%;Single to RF (Line Drive)
+b6;0-10;1;1--;1,(0-0) X;;NYY;Anthony Rizzo;Bryan Woo;0%;100%;Single to RF (Fly Ball to Deep RF Line); Torres to 3B
+;;;;;;;;;Ty Adcock replaces Bryan Woo pitching
+b6;0-10;1;1-3;2,(0-1) .FX;OO;NYY;Giancarlo Stanton;Ty Adcock;0%;100%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Mariners 10, Yankees 0.
+Top of the 7th, Mariners Batting, Ahead 10-0, Yankees' Albert Abreu facing 6-7-8 
+;;;;;;;;;Albert Abreu replaces Nick Ramirez pitchingOswaldo Cabrera replaces Giancarlo Stanton playing RF batting 4th
+t7;10-0;0;---;6,(3-2) ..BCFBBB;;SEA;Eugenio Suárez;Albert Abreu;0%;100%;Walk
+t7;10-0;0;1--;5,(2-2) SBSBC;O;SEA;Mike Ford;Albert Abreu;0%;100%;Strikeout Looking
+t7;10-0;1;1--;3,(0-2) CFC;O;SEA;José Caballero;Albert Abreu;0%;100%;Strikeout Looking
+t7;10-0;2;1--;2,(0-1) CX;;SEA;Kolten Wong;Albert Abreu;0%;100%;Single to RF (Ground Ball thru 2B-1B); Suárez to 2B
+t7;10-0;2;12-;5,(2-2) CCBBX;O;SEA;Jarred Kelenic;Albert Abreu;0%;100%;Groundout: 1B-P
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Mariners 10, Yankees 0.
+Bottom of the 7th, Yankees Batting, Behind 0-10, Mariners' Ty Adcock facing 5-6-7 
+;;;;;;;;;Dylan Moore replaces Teoscar Hernández (RF) playing LF batting 4thJarred Kelenic moves from LF to RF 
+b7;0-10;0;---;1,(0-0) ..X;O;NYY;Josh Donaldson;Ty Adcock;0%;100%;Flyball: CF (Deep LF-CF)
+b7;0-10;1;---;4,(2-1) BBCX;O;NYY;Billy McKinney;Ty Adcock;0%;100%;Lineout: CF (Deep CF)
+b7;0-10;2;---;5,(1-2) CF.BFX;O;NYY;Harrison Bader;Ty Adcock;0%;100%;Groundout: P-1B (P's Left)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 10, Yankees 0.
+Top of the 8th, Mariners Batting, Ahead 10-0, Yankees' Albert Abreu facing 2-3-4 
+;;;;;;;;;Isiah Kiner-Falefa replaces Josh Donaldson playing 3B batting 5th
+t8;10-0;0;---;4,(0-2) .CF.FC;O;SEA;Julio Rodríguez;Albert Abreu;0%;100%;Strikeout Looking
+t8;10-0;1;---;3,(2-0) BBX;O;SEA;Ty France;Albert Abreu;0%;100%;Groundout: 3B-1B (SS-3B Hole)
+t8;10-0;2;---;3,(0-2) CCS;O;SEA;Dylan Moore;Albert Abreu;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 10, Yankees 0.
+Bottom of the 8th, Yankees Batting, Behind 0-10, Mariners' Chris Flexen facing 8-9-1 
+;;;;;;;;;Chris Flexen replaces Ty Adcock pitching
+b8;0-10;0;---;3,(2-0) .BBX;O;NYY;Kyle Higashioka;Chris Flexen;0%;100%;Foul Popfly: RF (1B into Foul Terr.)
+b8;0-10;1;---;3,(0-2) FSX;;NYY;Anthony Volpe;Chris Flexen;0%;100%;Single to RF (Line Drive to Short RF Line)
+b8;0-10;1;1--;3,(0-2) FFS;O;NYY;DJ LeMahieu;Chris Flexen;0%;100%;Strikeout Swinging
+b8;0-10;2;1--;3,(1-1) F*BX;O;NYY;Gleyber Torres;Chris Flexen;0%;100%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mariners 10, Yankees 0.
+Top of the 9th, Mariners Batting, Ahead 10-0, Yankees' Isiah Kiner-Falefa facing 5-6-7 
+;;;;;;;;;Isiah Kiner-Falefa moves from 3B to P Oswaldo Cabrera moves from RF to 3B Jake Bauers replaces Gleyber Torres (DH) playing RF batting 2nd
+t9;10-0;0;---;2,(0-1) ...CX;O;SEA;Cal Raleigh;Isiah Kiner-Falefa;0%;100%;Flyball: CF (Deep CF)
+t9;10-0;1;---;6,(3-2) BBCBCS;O;SEA;Eugenio Suárez;Isiah Kiner-Falefa;0%;100%;Strikeout Swinging
+t9;10-0;2;---;2,(1-0) BX;O;SEA;Mike Ford;Isiah Kiner-Falefa;0%;100%;Popfly: C (Short 1B Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 10, Yankees 0.
+Bottom of the 9th, Yankees Batting, Behind 0-10, Mariners' Chris Flexen facing 3-4-5 
+b9;0-10;0;---;6,(3-2) CBS.BBB;;NYY;Anthony Rizzo;Chris Flexen;0%;100%;Walk
+b9;0-10;0;1--;1,(0-0) X;O;NYY;Oswaldo Cabrera;Chris Flexen;0%;100%;Flyball: RF (Deep CF-RF)
+b9;0-10;1;1--;1,(0-0) X;RR;NYY;Isiah Kiner-Falefa;Chris Flexen;0%;100%;Home Run (Fly Ball to Deep LF); Rizzo Scores
+b9;2-10;1;---;1,(0-0) X;;NYY;Billy McKinney;Chris Flexen;0%;100%;Single to RF (Ground Ball thru 2B-1B)
+b9;2-10;1;1--;2,(0-1) SX;O;NYY;Harrison Bader;Chris Flexen;0%;100%;Lineout: LF
+b9;2-10;2;1--;8,(2-2) CFFF*B*BFS;O;NYY;Kyle Higashioka;Chris Flexen;0%;100%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Mariners 10, Yankees 2.

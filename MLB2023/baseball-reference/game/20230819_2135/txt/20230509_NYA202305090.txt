@@ -1,0 +1,279 @@
+
+Scorebox Meta
+20230509
+7:05 p.m. Local
+33569
+Yankee Stadium III
+164
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/OAK-2023.png;/teams/OAK/2023.shtml;0;1;0;1;0;0;1;2;0;5;10;2
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;0;5;0;2;0;2;1;X;10;10;0
+
+Batting home
+Anthony Volpe;/players/v/volpean01.shtml;SS;5;1;1;0;0;0;5;.205;.303;.331;.634;17;11;-0.057; 0.72;0.006;-0.063;-0.03%; 0.56; -0.2;1;1;3B
+Aaron Judge;/players/j/judgeaa01.shtml;RF;3;1;0;2;1;0;5;.253;.345;.495;.840;21;10;0.059; 0.65;0.084;-0.025; 0.03%; 0.50; 0.4;1;0;SF
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;5;2;2;1;0;0;5;.296;.385;.467;.851;8;7;0.161; 0.60;0.166;-0.005; 0.07%; 0.46; 1.1;4;3;
+Gleyber Torres;/players/t/torregl01.shtml;2B;5;2;2;3;0;0;5;.256;.345;.465;.810;12;8;0.095; 0.70;0.132;-0.037; 0.04%; 0.54; 1.6;2;1;HR
+Harrison Bader;/players/b/baderha01.shtml;CF;4;1;3;1;0;0;4;.440;.462;.840;1.302;13;11;0.060; 0.53;0.091;-0.031; 0.03%; 0.41; 1.3;2;0;CS
+Jake Bauers;/players/b/bauerja01.shtml;DH;2;1;1;3;1;1;4;.167;.267;.667;.933;13;7;0.018; 0.45;0.036;-0.018; 0.01%; 0.35; 1.7;;;HR,SF
+Oswaldo Cabrera;/players/c/cabreos01.shtml;3B-LF;3;0;0;0;0;1;4;.198;.237;.302;.539;12;6;-0.022; 0.25;0.003;-0.025;-0.01%; 0.19; -0.5;1;3;HBP
+Jose Trevino;/players/t/trevijo01.shtml;C;3;1;0;0;1;0;4;.218;.274;.359;.633;16;8;0.027; 0.44;0.044;-0.017; 0.01%; 0.34; -0.5;13;0;
+Aaron Hicks;/players/h/hicksaa01.shtml;LF;0;1;0;0;1;0;1;.153;.231;.220;.451;4;0;0.068; 1.78;0.068;0.000; 0.03%; 1.37; 0.6;0;0;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;3B;3;0;1;0;0;0;3;.197;.230;.225;.455;13;7;-0.001; 0.14;0.007;-0.008;-0.00%; 0.11; 0.4;0;1;2B
+Clarke Schmidt;/players/s/schmicl01.shtml;P;;;;;;;;;;;;;;;;;;;;;3;0;
+Albert Abreu;/players/a/abreual01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Wandy Peralta;/players/p/peralwa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Greg Weissert;/players/w/weissgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Clay Holmes;/players/h/holmecl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Isiah Kiner-Falefa (2, off Spencer Patton).
+
+
+3B: Anthony Volpe (2, off Spencer Patton).
+
+
+HR: Gleyber Torres (6, off Drew Rucinski, 5th inn, 1 on, 1 out to Deep LF Line); Jake Bauers (2, off Spencer Patton, 7th inn, 1 on, 0 outs to Deep LF-CF).
+
+
+SF: Jake Bauers (1, off Drew Rucinski); Aaron Judge (3, off Spencer Patton).
+
+
+HBP: Oswaldo Cabrera (1, by Drew Rucinski).
+
+
+TB: Gleyber Torres 5; Jake Bauers 4; Harrison Bader 3; Anthony Volpe 3; Isiah Kiner-Falefa 2; Anthony Rizzo 2.
+
+
+RBI: Jake Bauers 3 (4); Gleyber Torres 3 (16); Aaron Judge 2 (16); Anthony Rizzo (16); Harrison Bader (8).
+
+
+Team LOB: 6.
+With RISP: 3 for 11.
+
+Batting away
+Esteury Ruiz;/players/r/ruizes01.shtml;CF;5;0;1;0;0;2;5;.275;.335;.352;.688;20;12;-0.077; 0.65;0.009;-0.086;-0.00%; 0.05; -0.4;6;0;
+Ryan Noda;/players/n/nodary01.shtml;1B-RF;2;0;0;0;3;1;5;.239;.412;.443;.855;27;12;0.022; 0.52;0.052;-0.031; 0.00%; 0.04; 0.5;10;0;
+Brent Rooker;/players/r/rookebr01.shtml;DH;5;0;1;0;0;2;5;.313;.431;.657;1.087;19;15;-0.035; 0.72;0.029;-0.064;-0.00%; 0.06; -0.8;;;
+JJ Bleday;/players/b/bledajj01.shtml;RF;2;1;1;0;1;0;3;.375;.423;.708;1.131;11;5;0.061; 0.71;0.072;-0.011; 0.00%; 0.06; 0.5;2;0;2B
+Jesús Aguilar;/players/a/aguilje01.shtml;PH-1B;2;0;0;0;0;1;2;.256;.316;.453;.769;6;5;-0.064; 1.26;0.000;-0.064;-0.00%; 0.11; -1.3;1;0;
+Shea Langeliers;/players/l/langesh01.shtml;C;4;1;3;0;1;1;5;.227;.301;.427;.728;21;11;0.028; 0.83;0.085;-0.057; 0.00%; 0.07; 1.0;2;1;
+Tony Kemp;/players/k/kempto01.shtml;LF;5;0;0;0;0;2;5;.182;.272;.255;.527;13;9;-0.113; 0.78;0.000;-0.113;-0.01%; 0.07; -2.5;1;0;GDP
+Jordan Diaz;/players/d/diazjo03.shtml;2B;4;3;3;4;0;0;4;.286;.286;.595;.881;16;12;0.074; 0.89;0.113;-0.040; 0.00%; 0.08; 3.5;0;1;3·HR
+Jace Peterson;/players/p/peterja01.shtml;3B;4;0;1;1;0;2;4;.202;.298;.273;.571;11;10;0.061; 0.83;0.098;-0.037; 0.00%; 0.07; 0.4;0;4;
+Nick Allen;/players/a/allenni02.shtml;SS;3;0;0;0;1;2;4;.105;.171;.132;.302;23;13;-0.050; 0.67;0.017;-0.067;-0.00%; 0.06; -0.6;2;4;
+Drew Rucinski;/players/r/rucindr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Spencer Patton;/players/p/pattosp01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: JJ Bleday (2, off Clarke Schmidt).
+
+
+HR: Jordan Diaz 3 (4, 1 off Greg Weissert, 8th inn, 1 on, 1 out to Deep LF-CF, 1 off Clarke Schmidt, 4th inn, 0 on, 1 out to Deep LF Line, 1 off Albert Abreu, 7th inn, 0 on, 0 outs to Deep LF).
+
+
+TB: Jordan Diaz 12; Shea Langeliers 3; JJ Bleday 2; Brent Rooker; Jace Peterson; Esteury Ruiz.
+
+
+GIDP: Tony Kemp (3).
+
+
+RBI: Jordan Diaz 4 (8); Jace Peterson (10).
+
+
+2-out RBI: Jace Peterson.
+
+
+Team LOB: 10.
+With RISP: 2 for 10.
+
+Pitching home
+Clarke Schmidt;/players/s/schmicl01.shtml; W (1-3); 6 ;5;2;2;2;7;1;5.35;24;93;61;35;4;22;9;6;2;0;59;;;0.089; 0.96; 0.04%; 0.74; 1.0
+Albert Abreu;/players/a/abreual01.shtml;Albert Abreu; 0.2;1;1;1;1;1;1;4.86;4;15;9;3;2;4;0;2;0;0;;0;0;-0.010; 0.51;-0.01%; 0.40; -0.7
+Wandy Peralta;/players/p/peralwa01.shtml;Wandy Peralta; 0.1;1;0;0;1;0;0;2.03;3;12;7;5;2;0;1;1;1;0;;1;0;0.012; 1.16; 0.01%; 0.89; 0.2
+Greg Weissert;/players/w/weissgr01.shtml;Greg Weissert; 1 ;3;2;2;1;2;1;5.06;7;33;17;8;6;3;2;2;0;0;;0;0;-0.028; 0.23;-0.01%; 0.17; -2.5
+Clay Holmes;/players/h/holmecl01.shtml;Clay Holmes; 1 ;0;0;0;1;3;0;4.85;4;14;10;3;2;5;0;0;0;0;;2;0;0.031; 0.47; 0.01%; 0.36; 1.5
+
+Pitching away
+Drew Rucinski;/players/r/rucindr01.shtml; L (0-3); 5 ;6;7;5;3;2;1;8.16;26;95;54;31;7;16;9;11;4;0;30;;;-0.386; 0.81;-0.02%; 0.07; -4.5
+Spencer Patton;/players/p/pattosp01.shtml;Spencer Patton; 3 ;4;3;3;1;0;1;5.79;14;34;21;15;0;6;3;10;4;0;;0;0;-0.021; 0.07;-0.00%; 0.01; -1.5
+
+indiv_events
+
+Balks: None.
+WP: Clarke Schmidt (1).
+HBP: Drew Rucinski (1; Oswaldo Cabrera).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Clarke Schmidt (1).
+HBP: Drew Rucinski (1; Oswaldo Cabrera).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Andy Fletcher, 1B - Erich Bacchus, 2B - Laz Diaz, 3B - Mike Estabrook, LF - (none), RF - (none).
+Time of Game: 2:44.
+Attendance: 33,569.
+Field Condition: Unknown.
+Start Time Weather: 62° F, Wind 7mph from Right to Left, Cloudy, No Precipitation.
+
+div_lineups
+Athletics
+1;Esteury Ruiz;/players/r/ruizes01.shtml;CF
+2;Ryan Noda;/players/n/nodary01.shtml;1B
+3;Brent Rooker;/players/r/rookebr01.shtml;DH
+4;JJ Bleday;/players/b/bledajj01.shtml;RF
+5;Shea Langeliers;/players/l/langesh01.shtml;C
+6;Tony Kemp;/players/k/kempto01.shtml;LF
+7;Jordan Diaz;/players/d/diazjo03.shtml;2B
+8;Jace Peterson;/players/p/peterja01.shtml;3B
+9;Nick Allen;/players/a/allenni02.shtml;SS
+; Drew Rucinski;/players/r/rucindr01.shtml;P
+Yankees
+1;Anthony Volpe;/players/v/volpean01.shtml;SS
+2;Aaron Judge;/players/j/judgeaa01.shtml;RF
+3;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+4;Gleyber Torres;/players/t/torregl01.shtml;2B
+5;Harrison Bader;/players/b/baderha01.shtml;CF
+6;Jake Bauers;/players/b/bauerja01.shtml;DH
+7;Oswaldo Cabrera;/players/c/cabreos01.shtml;3B
+8;Jose Trevino;/players/t/trevijo01.shtml;C
+9;Aaron Hicks;/players/h/hicksaa01.shtml;LF
+; Clarke Schmidt;/players/s/schmicl01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;1-1;1;12-;2,(0-1) FX;R;NYY;Anthony Rizzo;Drew Rucinski;13%;73%;Single to RF (Line Drive to CF-RF); Hicks Scores/unER; Judge to 3B
+t2;0-0;2;1-3;2,(0-1) CX;R;OAK;Jace Peterson;Clarke Schmidt;-10%;40%;Single to RF (Fly Ball); Bleday Scores; Diaz to 2B
+b3;3-1;1;12-;3,(0-2) TSX;R;NYY;Harrison Bader;Drew Rucinski;8%;88%;Single to CF (Line Drive to CF-RF); Rizzo Scores; Torres to 3B
+b3;0-1;1;1-3;4,(2-1) BBC1X;R;NYY;Aaron Judge;Drew Rucinski;8%;60%;Fielder's Choice 3B; Trevino Scores; Hicks to 2B/Adv on E5; Judge to 1B
+b5;5-2;1;1--;1,(0-0) X;RR;NYY;Gleyber Torres;Drew Rucinski;7%;96%;Home Run (Fly Ball to Deep LF Line); Rizzo Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Athletics Batting, Tied 0-0, Yankees' Clarke Schmidt facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;OAK;Esteury Ruiz;Clarke Schmidt;2%;52%;Groundout: 3B-1B (Weak SS)
+t1;0-0;1;---;5,(2-2) FBC.BS;O;OAK;Ryan Noda;Clarke Schmidt;2%;54%;Strikeout Swinging
+t1;0-0;2;---;3,(0-2) FFC;O;OAK;Brent Rooker;Clarke Schmidt;1%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Yankees 0.
+Bottom of the 1st, Yankees Batting, Tied 0-0, Athletics' Drew Rucinski facing 1-2-3 
+b1;0-0;0;---;5,(2-2) BCFBX;O;NYY;Anthony Volpe;Drew Rucinski;-2%;53%;Flyball: CF (Short CF)
+b1;0-0;1;---;4,(2-1) FBBX;O;NYY;Aaron Judge;Drew Rucinski;-2%;51%;Flyball: CF (Deep CF)
+b1;0-0;2;---;1,(0-0) X;;NYY;Anthony Rizzo;Drew Rucinski;2%;53%;Reached on E8 (Fly Ball to Deep CF-RF); Rizzo to 2B
+b1;0-0;2;-2-;3,(1-1) SB.X;O;NYY;Gleyber Torres;Drew Rucinski;-3%;50%;Flyball: RF (CF-RF)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Athletics 0, Yankees 0.
+Top of the 2nd, Athletics Batting, Tied 0-0, Yankees' Clarke Schmidt facing 4-5-6 
+t2;0-0;0;---;4,(3-0) BBBB;;OAK;JJ Bleday;Clarke Schmidt;-4%;46%;Walk
+t2;0-0;0;1--;6,(3-2) CB1BSB.X;;OAK;Shea Langeliers;Clarke Schmidt;-6%;40%;Single to RF (Ground Ball); Bleday to 2B
+t2;0-0;0;12-;5,(2-2) BBCC.C;O;OAK;Tony Kemp;Clarke Schmidt;6%;46%;Strikeout Looking
+t2;0-0;1;12-;3,(0-2) FCX;O;OAK;Jordan Diaz;Clarke Schmidt;4%;50%;Groundout: 3B-2B/Forceout at 2B (Weak 3B); Bleday to 3B; Diaz to 1B
+t2;0-0;2;1-3;2,(0-1) CX;R;OAK;Jace Peterson;Clarke Schmidt;-10%;40%;Single to RF (Fly Ball); Bleday Scores; Diaz to 2B
+t2;1-0;2;12-;3,(0-2) F2CB;;OAK;Nick Allen;Clarke Schmidt;-1%;39%;Wild Pitch; Diaz to 3B; Peterson to 2B
+t2;1-0;2;-23;5,(2-2) F2CB.BX;O;OAK;Nick Allen;Clarke Schmidt;5%;44%;Flyball: CF
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Athletics 1, Yankees 0.
+Bottom of the 2nd, Yankees Batting, Behind 0-1, Athletics' Drew Rucinski facing 5-6-7 
+b2;0-1;0;---;4,(1-2) BCCX;O;NYY;Harrison Bader;Drew Rucinski;-3%;42%;Groundout: 3B-1B
+b2;0-1;1;---;4,(1-2) TCBS;O;NYY;Jake Bauers;Drew Rucinski;-2%;40%;Strikeout Swinging
+b2;0-1;2;---;6,(3-2) FBBBFC;O;NYY;Oswaldo Cabrera;Drew Rucinski;-1%;39%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 1, Yankees 0.
+Top of the 3rd, Athletics Batting, Ahead 1-0, Yankees' Clarke Schmidt facing 1-2-3 
+t3;1-0;0;---;5,(2-2) BCCBX;O;OAK;Esteury Ruiz;Clarke Schmidt;2%;41%;Lineout: 1B (2B-1B)
+t3;1-0;1;---;6,(3-2) CF.BBBB;;OAK;Ryan Noda;Clarke Schmidt;-2%;38%;Walk
+t3;1-0;1;1--;6,(2-2) FBBF1FX;O;OAK;Brent Rooker;Clarke Schmidt;3%;41%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Rooker to 1B
+t3;1-0;2;1--;6,(2-2) BBCF.FX;;OAK;JJ Bleday;Clarke Schmidt;-3%;38%;Double to RF (Line Drive to RF Line); Rooker to 3B
+t3;1-0;2;-23;3,(0-2) CSC;O;OAK;Shea Langeliers;Clarke Schmidt;6%;43%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Athletics 1, Yankees 0.
+Bottom of the 3rd, Yankees Batting, Behind 0-1, Athletics' Drew Rucinski facing 8-9-1 
+b3;0-1;0;---;4,(3-0) BBBB;;NYY;Jose Trevino;Drew Rucinski;4%;48%;Walk
+b3;0-1;0;1--;4,(3-0) BBBB;;NYY;Aaron Hicks;Drew Rucinski;7%;55%;Walk; Trevino to 2B
+b3;0-1;0;12-;2,(0-1) CX;O;NYY;Anthony Volpe;Drew Rucinski;-3%;52%;Flyball: CF (Deep LF-CF); Trevino to 3B
+b3;0-1;1;1-3;4,(2-1) BBC1X;R;NYY;Aaron Judge;Drew Rucinski;8%;60%;Fielder's Choice 3B; Trevino Scores; Hicks to 2B/Adv on E5; Judge to 1B
+b3;1-1;1;12-;2,(0-1) FX;R;NYY;Anthony Rizzo;Drew Rucinski;13%;73%;Single to RF (Line Drive to CF-RF); Hicks Scores/unER; Judge to 3B
+b3;2-1;1;1-3;5,(2-2) .FSB*BX;R;NYY;Gleyber Torres;Drew Rucinski;6%;79%;Single to CF (Ground Ball thru SS-2B); Judge Scores; Rizzo to 2B
+b3;3-1;1;12-;3,(0-2) TSX;R;NYY;Harrison Bader;Drew Rucinski;8%;88%;Single to CF (Line Drive to CF-RF); Rizzo Scores; Torres to 3B
+b3;4-1;1;1-3;2,(1-0) BX;RO;NYY;Jake Bauers;Drew Rucinski;2%;89%;Flyball: LF/Sacrifice Fly (LF Line); Torres Scores/unER; Bader to 2B
+b3;5-1;2;-2-;2,(1-0) BX;O;NYY;Oswaldo Cabrera;Drew Rucinski;-1%;88%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;5 runs, 3 hits, 1 error, 1 LOB. Athletics 1, Yankees 5.
+Top of the 4th, Athletics Batting, Behind 1-5, Yankees' Clarke Schmidt facing 6-7-8 
+;;;;;;;;;Isiah Kiner-Falefa replaces Aaron Hicks (LF) playing 3B batting 9thOswaldo Cabrera moves from 3B to LF 
+t4;1-5;0;---;2,(1-0) ..BX;O;OAK;Tony Kemp;Clarke Schmidt;2%;90%;Groundout: 1B-P (2B-1B)
+t4;1-5;1;---;4,(1-2) CBCX;R;OAK;Jordan Diaz;Clarke Schmidt;-6%;84%;Home Run (Fly Ball to Deep LF Line)
+t4;2-5;1;---;3,(0-2) CTC;O;OAK;Jace Peterson;Clarke Schmidt;1%;85%;Strikeout Looking
+t4;2-5;2;---;6,(2-2) CFFBBC;O;OAK;Nick Allen;Clarke Schmidt;1%;86%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Athletics 2, Yankees 5.
+Bottom of the 4th, Yankees Batting, Ahead 5-2, Athletics' Drew Rucinski facing 8-9-1 
+b4;5-2;0;---;4,(1-2) SBCX;O;NYY;Jose Trevino;Drew Rucinski;-1%;85%;Groundout: 3B-1B (SS-3B Hole)
+b4;5-2;1;---;6,(3-2) BFBBCX;O;NYY;Isiah Kiner-Falefa;Drew Rucinski;-1%;84%;Groundout: SS-1B
+b4;5-2;2;---;3,(1-1) FBX;O;NYY;Anthony Volpe;Drew Rucinski;-1%;84%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 2, Yankees 5.
+Top of the 5th, Athletics Batting, Behind 2-5, Yankees' Clarke Schmidt facing 1-2-3 
+t5;2-5;0;---;4,(1-2) BTF*S;O;OAK;Esteury Ruiz;Clarke Schmidt;2%;86%;Strikeout Swinging
+t5;2-5;1;---;3,(1-1) BCX;O;OAK;Ryan Noda;Clarke Schmidt;2%;88%;Groundout: 1B-P (2B-1B)
+t5;2-5;2;---;6,(2-2) FBBFFX;O;OAK;Brent Rooker;Clarke Schmidt;1%;89%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 2, Yankees 5.
+Bottom of the 5th, Yankees Batting, Ahead 5-2, Athletics' Drew Rucinski facing 2-3-4 
+b5;5-2;0;---;6,(3-2) BC.BBCX;O;NYY;Aaron Judge;Drew Rucinski;-1%;88%;Groundout: 3B-1B
+b5;5-2;1;---;2,(0-1) CX;;NYY;Anthony Rizzo;Drew Rucinski;1%;89%;Single to LF (Line Drive to Short LF Line)
+b5;5-2;1;1--;1,(0-0) X;RR;NYY;Gleyber Torres;Drew Rucinski;7%;96%;Home Run (Fly Ball to Deep LF Line); Rizzo Scores
+b5;7-2;1;---;5,(1-2) BCCFX;;NYY;Harrison Bader;Drew Rucinski;0%;96%;Single to CF (Line Drive to Short LF-CF)
+b5;7-2;1;1--;4,(2-1) *BB1C>B;O;NYY;Jake Bauers;Drew Rucinski;-1%;96%;Bader Caught Stealing 2B (C-SS)
+b5;7-2;2;---;6,(3-2) *BB1C>B.SB;;NYY;Jake Bauers;Drew Rucinski;0%;96%;Walk
+b5;7-2;2;1--;1,(0-0) H;;NYY;Oswaldo Cabrera;Drew Rucinski;0%;96%;Hit By Pitch; Bauers to 2B
+b5;7-2;2;12-;6,(3-2) B*BC2BS>X;O;NYY;Jose Trevino;Drew Rucinski;-1%;95%;Groundout: SS-1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Athletics 2, Yankees 7.
+Top of the 6th, Athletics Batting, Behind 2-7, Yankees' Clarke Schmidt facing 4-5-6 
+t6;2-7;0;---;1,(0-0) X;O;OAK;JJ Bleday;Clarke Schmidt;1%;96%;Groundout: 1B-P
+t6;2-7;1;---;3,(1-1) BF.X;;OAK;Shea Langeliers;Clarke Schmidt;-1%;95%;Single to LF (Ground Ball thru SS-3B Hole)
+t6;2-7;1;1--;1,(0-0) X;OO;OAK;Tony Kemp;Clarke Schmidt;2%;97%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Athletics 2, Yankees 7.
+Bottom of the 6th, Yankees Batting, Ahead 7-2, Athletics' Spencer Patton facing 9-1-2 
+;;;;;;;;;Spencer Patton replaces Drew Rucinski pitching
+b6;7-2;0;---;4,(2-1) .BCBX;;NYY;Isiah Kiner-Falefa;Spencer Patton;1%;98%;Double to LF (Line Drive to LF Line)
+b6;7-2;0;-2-;4,(1-2) CF*BX;O;NYY;Anthony Volpe;Spencer Patton;0%;98%;Groundout: 3B-1B
+b6;7-2;1;-2-;6,(3-2) C*BBFBB;;NYY;Aaron Judge;Spencer Patton;0%;98%;Walk
+b6;7-2;1;12-;1,(0-0) X;O;NYY;Anthony Rizzo;Spencer Patton;0%;97%;Lineout: CF
+b6;7-2;2;12-;1,(0-0) X;O;NYY;Gleyber Torres;Spencer Patton;0%;97%;Flyball: RF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Athletics 2, Yankees 7.
+Top of the 7th, Athletics Batting, Behind 2-7, Yankees' Albert Abreu facing 7-8-9 
+;;;;;;;;;Albert Abreu replaces Clarke Schmidt pitching
+t7;2-7;0;---;1,(0-0) .X;R;OAK;Jordan Diaz;Albert Abreu;-3%;94%;Home Run (Fly Ball to Deep LF)
+t7;3-7;0;---;2,(0-1) CX;O;OAK;Jace Peterson;Albert Abreu;2%;96%;Flyball: CF (Deep CF)
+t7;3-7;1;---;7,(3-2) BBBCCFB;;OAK;Nick Allen;Albert Abreu;-2%;94%;Walk
+t7;3-7;1;1--;5,(2-2) CM+1BBS;O;OAK;Esteury Ruiz;Albert Abreu;2%;96%;Strikeout Swinging
+;;;;;;;;;Wandy Peralta replaces Albert Abreu pitching
+t7;3-7;2;1--;8,(3-2) .FBS.*BB>F>F>B;;OAK;Ryan Noda;Wandy Peralta;-1%;95%;Walk; Allen to 2B
+t7;3-7;2;12-;1,(0-0) X;;OAK;Brent Rooker;Wandy Peralta;-3%;92%;Single to SS (Line Drive); Allen to 3B; Noda to 2B
+;;;;;;;;;Jesús Aguilar pinch hits for JJ Bleday (RF) batting 4th
+t7;3-7;2;123;3,(1-1) .BSX;O;OAK;Jesús Aguilar;Wandy Peralta;5%;97%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 3 LOB. Athletics 3, Yankees 7.
+Bottom of the 7th, Yankees Batting, Ahead 7-3, Athletics' Spencer Patton facing 5-6-7 
+;;;;;;;;;Jesús Aguilar moves from PH to 1B Ryan Noda moves from 1B to RF 
+b7;7-3;0;---;1,(0-0) ..X;;NYY;Harrison Bader;Spencer Patton;0%;98%;Single to SS (Ground Ball)
+b7;7-3;0;1--;1,(0-0) X;RR;NYY;Jake Bauers;Spencer Patton;2%;99%;Home Run (Fly Ball to Deep LF-CF); Bader Scores
+b7;9-3;0;---;3,(1-1) CBX;O;NYY;Oswaldo Cabrera;Spencer Patton;0%;99%;Flyball: RF (Deep CF-RF)
+b7;9-3;1;---;2,(0-1) CX;O;NYY;Jose Trevino;Spencer Patton;0%;99%;Groundout: SS-1B (Deep SS)
+b7;9-3;2;---;3,(1-1) CBX;O;NYY;Isiah Kiner-Falefa;Spencer Patton;0%;99%;Flyball: CF (Short LF-CF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Athletics 3, Yankees 9.
+Top of the 8th, Athletics Batting, Behind 3-9, Yankees' Greg Weissert facing 5-6-7 
+;;;;;;;;;Greg Weissert replaces Wandy Peralta pitching
+t8;3-9;0;---;4,(2-1) .BSBX;;OAK;Shea Langeliers;Greg Weissert;-1%;99%;Single to LF (Ground Ball thru SS-3B Hole)
+t8;3-9;0;1--;2,(1-0) BX;O;OAK;Tony Kemp;Greg Weissert;1%;99%;Flyball: LF
+t8;3-9;1;1--;8,(3-2) BBBCF.FFX;RR;OAK;Jordan Diaz;Greg Weissert;-1%;98%;Home Run (Fly Ball to Deep LF-CF); Langeliers Scores
+t8;5-9;1;---;4,(1-2) BCSS;O;OAK;Jace Peterson;Greg Weissert;1%;99%;Strikeout Swinging
+t8;5-9;2;---;5,(2-2) BSSBS;O;OAK;Nick Allen;Greg Weissert;0%;99%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Athletics 5, Yankees 9.
+Bottom of the 8th, Yankees Batting, Ahead 9-5, Athletics' Spencer Patton facing 1-2-3 
+b8;9-5;0;---;3,(2-0) BBX;;NYY;Anthony Volpe;Spencer Patton;1%;99%;Triple to CF (Fly Ball to Deep LF-CF)
+b8;9-5;0;--3;1,(0-0) X;RO;NYY;Aaron Judge;Spencer Patton;0%;99%;Lineout: RF/Sacrifice Fly; Volpe Scores
+b8;10-5;1;---;2,(1-0) BX;O;NYY;Anthony Rizzo;Spencer Patton;0%;99%;Flyball: CF (Deep LF-CF)
+b8;10-5;2;---;2,(1-0) BX;O;NYY;Gleyber Torres;Spencer Patton;0%;99%;Lineout: SS (Deep SS)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Athletics 5, Yankees 10.
+Top of the 9th, Athletics Batting, Behind 5-10, Yankees' Greg Weissert facing 1-2-3 
+t9;5-10;0;---;5,(3-1) BBCBX;;OAK;Esteury Ruiz;Greg Weissert;-1%;99%;Single to 1B (Ground Ball to 2B-1B)
+t9;5-10;0;1--;4,(2-1) BBF>B;;OAK;Ryan Noda;Greg Weissert;0%;98%;Defensive Indifference; Ruiz to 2B
+t9;5-10;0;-2-;5,(3-1) BBF>B.B;;OAK;Ryan Noda;Greg Weissert;-1%;97%;Walk
+;;;;;;;;;Clay Holmes replaces Greg Weissert pitching
+t9;5-10;0;12-;3,(0-2) .CCT;O;OAK;Brent Rooker;Clay Holmes;2%;99%;Strikeout Swinging
+t9;5-10;1;12-;3,(0-2) CC*S;O;OAK;Jesús Aguilar;Clay Holmes;1%;100%;Strikeout Swinging
+t9;5-10;2;12-;5,(3-1) SB*BBB;;OAK;Shea Langeliers;Clay Holmes;-1%;99%;Walk; Ruiz to 3B; Noda to 2B
+t9;5-10;2;123;3,(0-2) CFT;O;OAK;Tony Kemp;Clay Holmes;1%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Athletics 5, Yankees 10.

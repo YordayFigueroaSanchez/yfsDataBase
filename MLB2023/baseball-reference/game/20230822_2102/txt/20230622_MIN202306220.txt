@@ -1,0 +1,232 @@
+
+Scorebox Meta
+20230622
+12:10 p.m. Local
+28553
+Target Field
+135
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;0;0;0;0;0;0;0;0;0;0;3;0
+https://cdn.ssref.net/req/202308101/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;2;2;1;0;1;0;0;0;X;6;10;0
+
+Batting home
+Edouard Julien;/players/j/julieed01.shtml;2B;1;0;0;0;0;1;1;.255;.339;.449;.788;6;4;-0.022; 0.87;0.000;-0.022;-0.01%; 0.75; -0.2;0;0;
+Donovan Solano;/players/s/solando01.shtml;PH-1B;1;0;0;0;2;0;3;.277;.376;.384;.760;12;4;0.007; 0.19;0.010;-0.003; 0.00%; 0.17; 0.3;2;1;
+Carlos Correa;/players/c/correca01.shtml;SS;4;1;1;1;0;0;4;.216;.296;.412;.708;11;7;0.078; 0.35;0.100;-0.023; 0.04%; 0.30; 0.1;0;2;HR
+Alex Kirilloff;/players/k/kirilal01.shtml;1B;1;0;0;0;0;1;1;.262;.373;.408;.780;4;3;-0.014; 0.55;0.000;-0.014;-0.01%; 0.47; -0.2;2;1;
+Kyle Farmer;/players/f/farmeky01.shtml;PH-2B;2;1;0;0;1;0;3;.262;.327;.376;.703;12;6;-0.028; 0.30;0.005;-0.033;-0.01%; 0.26; -0.8;1;0;
+Byron Buxton;/players/b/buxtoby01.shtml;DH;4;2;2;2;0;0;4;.215;.315;.459;.775;8;7;0.129; 0.23;0.131;-0.003; 0.07%; 0.20; 1.6;;;2·HR
+Max Kepler;/players/k/keplema01.shtml;RF;4;0;1;0;0;1;4;.201;.271;.403;.674;14;11;-0.002; 0.17;0.009;-0.010;-0.00%; 0.15; -0.5;1;0;
+Royce Lewis;/players/l/lewisro02.shtml;3B;4;0;2;1;0;0;4;.319;.338;.478;.816;19;12;0.008; 0.24;0.025;-0.017; 0.00%; 0.21; 0.7;1;0;SB
+Ryan Jeffers;/players/j/jeffery01.shtml;C;4;1;2;0;0;1;4;.255;.369;.418;.787;15;10;0.016; 0.25;0.025;-0.009; 0.01%; 0.21; 0.3;9;0;2B
+Willi Castro;/players/c/castrwi01.shtml;LF;4;1;1;0;0;0;4;.248;.303;.391;.694;17;10;0.060; 0.33;0.070;-0.010; 0.03%; 0.28; 0.2;3;0;
+Michael A. Taylor;/players/t/taylomi02.shtml;CF;4;0;1;2;0;1;4;.223;.267;.425;.692;11;7;0.054; 0.28;0.060;-0.006; 0.03%; 0.24; 0.4;6;0;2B
+Joe Ryan;/players/r/ryanjo04.shtml;P;;;;;;;;;;;;;;;;;;;;;2;1;
+2B: Michael A. Taylor (9, off Brandon Walter); Ryan Jeffers (7, off Brandon Walter).
+
+
+HR: Carlos Correa (10, off Justin Garza, 1st inn, 0 on, 1 out to Deep LF); Byron Buxton 2 (13, 1 off Justin Garza, 1st inn, 0 on, 2 outs to Deep LF Line, 1 off Brandon Walter, 3rd inn, 0 on, 0 outs to Deep LF-CF).
+
+
+TB: Byron Buxton 8; Carlos Correa 4; Ryan Jeffers 3; Royce Lewis 2; Michael A. Taylor 2; Max Kepler; Willi Castro.
+
+
+RBI: Byron Buxton 2 (27); Michael A. Taylor 2 (24); Royce Lewis (12); Carlos Correa (36).
+
+
+2-out RBI: Byron Buxton; Royce Lewis.
+
+
+Team LOB: 6.
+With RISP: 2 for 8.
+
+Batting away
+Jarren Duran;/players/d/duranja01.shtml;CF;4;0;0;0;0;2;4;.286;.344;.444;.789;11;9;-0.039; 0.38;0.000;-0.039;-0.02%; 0.26; -0.8;3;1;
+Justin Turner;/players/t/turneju01.shtml;DH;4;0;1;0;0;0;4;.284;.362;.462;.824;24;17;-0.008; 0.29;0.014;-0.022;-0.00%; 0.20; -0.3;;;
+Masataka Yoshida;/players/y/yoshima02.shtml;LF;4;0;0;0;0;0;4;.304;.375;.479;.854;11;8;-0.029; 0.29;0.000;-0.029;-0.01%; 0.20; -0.7;1;0;
+Rafael Devers;/players/d/deverra01.shtml;3B;3;0;1;0;0;0;3;.238;.302;.480;.783;9;6;-0.032; 0.45;0.002;-0.035;-0.01%; 0.32; -0.3;1;3;
+Adam Duvall;/players/d/duvalad01.shtml;RF;3;0;0;0;0;2;3;.300;.388;.643;1.030;12;9;-0.032; 0.42;0.000;-0.032;-0.01%; 0.29; -0.6;3;0;
+Triston Casas;/players/c/casastr01.shtml;1B;3;0;0;0;0;2;3;.216;.329;.390;.719;11;9;-0.022; 0.28;0.000;-0.022;-0.01%; 0.19; -0.5;9;0;
+Connor Wong;/players/w/wongco01.shtml;C;3;0;0;0;0;3;3;.238;.306;.433;.738;15;11;-0.023; 0.30;0.000;-0.023;-0.01%; 0.21; -0.5;5;0;
+David Hamilton;/players/h/hamilda03.shtml;SS;3;0;1;0;0;0;3;.333;.333;.333;.667;11;9;-0.017; 0.25;0.001;-0.018;-0.01%; 0.18; -0.3;0;4;
+Pablo Reyes;/players/r/reyespa01.shtml;2B;1;0;0;0;0;0;1;.303;.338;.364;.702;2;2;-0.007; 0.27;0.000;-0.007;-0.00%; 0.19; -0.1;0;0;
+Enrique Hernández;/players/h/hernaen02.shtml;2B;2;0;0;0;0;0;2;.224;.287;.344;.631;6;3;-0.006; 0.12;0.000;-0.006;-0.00%; 0.09; -0.4;2;1;
+Justin Garza;/players/g/garzaju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brandon Walter;/players/w/waltebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joe Jacques;/players/j/jacqujo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+TB: David Hamilton; Rafael Devers; Justin Turner.
+
+
+Team LOB: 3.
+With RISP: 0 for 0.
+
+Pitching home
+Joe Ryan;/players/r/ryanjo04.shtml; W (8-4); 9 ;3;0;0;0;9;0;2.98;30;112;83;55;16;12;6;15;5;0;90;;;0.215; 0.32; 0.11%; 0.27; 4.6
+
+Pitching away
+Justin Garza;/players/g/garzaju01.shtml; L (0-2); 1 ;4;3;3;0;2;2;5.14;7;32;22;16;2;4;1;4;2;0;35;;;-0.174; 0.56;-0.07%; 0.39; -1.9
+Brandon Walter;/players/w/waltebr01.shtml;Brandon Walter; 6.2;6;3;3;3;2;1;4.05;28;92;56;36;5;15;9;14;4;0;;1;1;-0.111; 0.23;-0.05%; 0.16; -0.3
+Joe Jacques;/players/j/jacqujo01.shtml;Joe Jacques; 0.1;0;0;0;0;1;0;2.08;1;5;3;0;0;3;0;0;0;0;;1;0;0.000; 0.02; 0.00%; 0.01; 0.3
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Chris Guccione, 1B - Edwin Moscoso, 2B - Nate Tomlinson, 3B - David Rackley, LF - (none), RF - (none).
+Time of Game: 2:15.
+Attendance: 28,553.
+Field Condition: Unknown.
+Start Time Weather: 86° F, Wind 7mph out to Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Red Sox
+1;Jarren Duran;/players/d/duranja01.shtml;CF
+2;Justin Turner;/players/t/turneju01.shtml;DH
+3;Masataka Yoshida;/players/y/yoshima02.shtml;LF
+4;Rafael Devers;/players/d/deverra01.shtml;3B
+5;Adam Duvall;/players/d/duvalad01.shtml;RF
+6;Triston Casas;/players/c/casastr01.shtml;1B
+7;Connor Wong;/players/w/wongco01.shtml;C
+8;David Hamilton;/players/h/hamilda03.shtml;SS
+9;Pablo Reyes;/players/r/reyespa01.shtml;2B
+; Justin Garza;/players/g/garzaju01.shtml;P
+Twins
+1;Edouard Julien;/players/j/julieed01.shtml;2B
+2;Carlos Correa;/players/c/correca01.shtml;SS
+3;Alex Kirilloff;/players/k/kirilal01.shtml;1B
+4;Byron Buxton;/players/b/buxtoby01.shtml;DH
+5;Max Kepler;/players/k/keplema01.shtml;RF
+6;Royce Lewis;/players/l/lewisro02.shtml;3B
+7;Ryan Jeffers;/players/j/jeffery01.shtml;C
+8;Willi Castro;/players/c/castrwi01.shtml;LF
+9;Michael A. Taylor;/players/t/taylomi02.shtml;CF
+; Joe Ryan;/players/r/ryanjo04.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-0;1;---;2,(1-0) BX;R;MIN;Carlos Correa;Justin Garza;10%;63%;Home Run (Fly Ball to Deep LF)
+b1;1-0;2;---;2,(0-1) CX;R;MIN;Byron Buxton;Justin Garza;9%;71%;Home Run (Fly Ball to Deep LF Line)
+b2;2-0;0;1--;6,(3-2) .CBBBS.X;;MIN;Willi Castro;Brandon Walter;7%;84%;Single to RF (Ground Ball); Jeffers to 3B; Castro to 2B
+b2;2-0;0;-23;4,(2-1) BSBX;RR;MIN;Michael A. Taylor;Brandon Walter;6%;90%;Double to LF (Ground Ball); Jeffers Scores; Castro Scores
+b3;4-0;0;---;2,(0-1) CX;R;MIN;Byron Buxton;Brandon Walter;4%;93%;Home Run (Fly Ball to Deep LF-CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Red Sox Batting, Tied 0-0, Twins' Joe Ryan facing 1-2-3 
+t1;0-0;0;---;4,(1-2) BFFS;O;BOS;Jarren Duran;Joe Ryan;2%;52%;Strikeout Swinging
+t1;0-0;1;---;6,(1-2) FFBFFX;O;BOS;Justin Turner;Joe Ryan;2%;54%;Lineout: CF (Deep CF)
+t1;0-0;2;---;3,(0-2) CC.X;O;BOS;Masataka Yoshida;Joe Ryan;1%;55%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Twins 0.
+Bottom of the 1st, Twins Batting, Tied 0-0, Red Sox' Justin Garza facing 1-2-3 
+b1;0-0;0;---;6,(2-2) FSFBBC;O;MIN;Edouard Julien;Justin Garza;-2%;53%;Strikeout Looking
+b1;0-0;1;---;2,(1-0) BX;R;MIN;Carlos Correa;Justin Garza;10%;63%;Home Run (Fly Ball to Deep LF)
+b1;1-0;1;---;4,(1-2) BFFS;O;MIN;Alex Kirilloff;Justin Garza;-1%;61%;Strikeout Swinging
+b1;1-0;2;---;2,(0-1) CX;R;MIN;Byron Buxton;Justin Garza;9%;71%;Home Run (Fly Ball to Deep LF Line)
+b1;2-0;2;---;4,(1-2) CFBX;;MIN;Max Kepler;Justin Garza;1%;71%;Single to CF (Line Drive to Deep CF-RF)
+b1;2-0;2;1--;8,(3-2) BFB1F*B>F.>F>X;O;MIN;Royce Lewis;Justin Garza;-2%;70%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Red Sox 0, Twins 2.
+Top of the 2nd, Red Sox Batting, Behind 0-2, Twins' Joe Ryan facing 4-5-6 
+t2;0-2;0;---;2,(1-0) BX;O;BOS;Rafael Devers;Joe Ryan;2%;72%;Foul Popfly: 1B-P (1B into Foul Terr.)
+t2;0-2;1;---;5,(1-2) BFF.FS;O;BOS;Adam Duvall;Joe Ryan;2%;74%;Strikeout Swinging
+t2;0-2;2;---;3,(0-2) FF.X;O;BOS;Triston Casas;Joe Ryan;1%;75%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Twins 2.
+Bottom of the 2nd, Twins Batting, Ahead 2-0, Red Sox' Justin Garza facing 7-8-9 
+b2;2-0;0;---;6,(2-2) CF.FBBX;;MIN;Ryan Jeffers;Justin Garza;2%;77%;Single to 3B (Line Drive to SS-3B Hole)
+;;;;;;;;;Brandon Walter replaces Justin Garza pitching
+b2;2-0;0;1--;6,(3-2) .CBBBS.X;;MIN;Willi Castro;Brandon Walter;7%;84%;Single to RF (Ground Ball); Jeffers to 3B; Castro to 2B
+b2;2-0;0;-23;4,(2-1) BSBX;RR;MIN;Michael A. Taylor;Brandon Walter;6%;90%;Double to LF (Ground Ball); Jeffers Scores; Castro Scores
+;;;;;;;;;Donovan Solano pinch hits for Edouard Julien (2B) batting 1st
+b2;4-0;0;-2-;4,(3-0) .BB*BB;;MIN;Donovan Solano;Brandon Walter;1%;91%;Walk
+b2;4-0;0;12-;5,(1-2) BCFFX;O;MIN;Carlos Correa;Brandon Walter;-2%;89%;Flyball: CF (LF-CF)
+;;;;;;;;;Kyle Farmer pinch hits for Alex Kirilloff (1B) batting 3rd
+b2;4-0;1;12-;2,(0-1) .C>X;OO;MIN;Kyle Farmer;Brandon Walter;-3%;86%;Double Play: Flyball: CF (Deep CF); Taylor out at 3B/CF-SS-3B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Red Sox 0, Twins 4.
+Top of the 3rd, Red Sox Batting, Behind 0-4, Twins' Joe Ryan facing 7-8-9 
+;;;;;;;;;Donovan Solano moves from PH to 1B Kyle Farmer moves from PH to 2B 
+t3;0-4;0;---;4,(1-2) ..CS.BS;O;BOS;Connor Wong;Joe Ryan;2%;88%;Strikeout Swinging
+t3;0-4;1;---;4,(1-2) BCFX;O;BOS;David Hamilton;Joe Ryan;1%;89%;Foul Popfly: 3B (3B into Foul Terr.)
+t3;0-4;2;---;2,(0-1) FX;O;BOS;Pablo Reyes;Joe Ryan;1%;89%;Lineout: LF (Short LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Twins 4.
+Bottom of the 3rd, Twins Batting, Ahead 4-0, Red Sox' Brandon Walter facing 4-5-6 
+b3;4-0;0;---;2,(0-1) CX;R;MIN;Byron Buxton;Brandon Walter;4%;93%;Home Run (Fly Ball to Deep LF-CF)
+b3;5-0;0;---;7,(2-2) CBFBF.FC;O;MIN;Max Kepler;Brandon Walter;-1%;93%;Strikeout Looking
+b3;5-0;1;---;1,(0-0) X;;MIN;Royce Lewis;Brandon Walter;1%;93%;Single to LF (Line Drive)
+b3;5-0;1;1--;3,(0-2) CF1>S;O;MIN;Ryan Jeffers;Brandon Walter;0%;93%;Strikeout Swinging, Lewis Steals 2B
+b3;5-0;2;-2-;4,(2-1) SBBX;O;MIN;Willi Castro;Brandon Walter;-1%;92%;Lineout: LF
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Red Sox 0, Twins 5.
+Top of the 4th, Red Sox Batting, Behind 0-5, Twins' Joe Ryan facing 1-2-3 
+t4;0-5;0;---;2,(0-1) CX;O;BOS;Jarren Duran;Joe Ryan;1%;93%;Flyball: CF (Deep CF-RF)
+t4;0-5;1;---;4,(1-2) CBFX;;BOS;Justin Turner;Joe Ryan;-1%;92%;Single to CF (Line Drive to Deep CF-RF)
+t4;0-5;1;1--;3,(1-1) BFX;O;BOS;Masataka Yoshida;Joe Ryan;2%;94%;Flyball: CF (Deep CF)
+t4;0-5;2;1--;5,(2-2) SF*BBX;O;BOS;Rafael Devers;Joe Ryan;1%;95%;Popfly: 1B (Weak 1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 0, Twins 5.
+Bottom of the 4th, Twins Batting, Ahead 5-0, Red Sox' Brandon Walter facing 9-1-2 
+;;;;;;;;;Enrique Hernández replaces Pablo Reyes playing 2B batting 9th
+b4;5-0;0;---;1,(0-0) .X;O;MIN;Michael A. Taylor;Brandon Walter;0%;94%;Groundout: 3B-1B (Weak 3B)
+b4;5-0;1;---;2,(0-1) CX;O;MIN;Donovan Solano;Brandon Walter;0%;94%;Groundout: SS-1B
+b4;5-0;2;---;3,(2-0) BBX;O;MIN;Carlos Correa;Brandon Walter;0%;94%;Popfly: 2B (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Twins 5.
+Top of the 5th, Red Sox Batting, Behind 0-5, Twins' Joe Ryan facing 5-6-7 
+t5;0-5;0;---;6,(2-2) BBCFFS;O;BOS;Adam Duvall;Joe Ryan;1%;95%;Strikeout Swinging
+t5;0-5;1;---;3,(0-2) FS.S;O;BOS;Triston Casas;Joe Ryan;1%;96%;Strikeout Swinging
+t5;0-5;2;---;7,(3-2) FSBBFBS;O;BOS;Connor Wong;Joe Ryan;0%;96%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Twins 5.
+Bottom of the 5th, Twins Batting, Ahead 5-0, Red Sox' Brandon Walter facing 3-4-5 
+b5;5-0;0;---;5,(3-1) BBBCB;;MIN;Kyle Farmer;Brandon Walter;1%;97%;Walk
+b5;5-0;0;1--;2,(1-0) BX;O;MIN;Byron Buxton;Brandon Walter;0%;96%;Groundout: 3B-1B; Farmer to 2B
+b5;5-0;1;-2-;1,(0-0) X;O;MIN;Max Kepler;Brandon Walter;0%;96%;Groundout: 2B-1B (2B-1B); Farmer to 3B
+b5;5-0;2;--3;4,(1-2) BFCX;R;MIN;Royce Lewis;Brandon Walter;2%;98%;Single to CF (Fly Ball to Short LF-CF); Farmer Scores
+b5;6-0;2;1--;5,(3-1) BBBCX;O;MIN;Ryan Jeffers;Brandon Walter;0%;97%;Flyball: RF (Short RF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Red Sox 0, Twins 6.
+Top of the 6th, Red Sox Batting, Behind 0-6, Twins' Joe Ryan facing 8-9-1 
+t6;0-6;0;---;5,(1-2) FCFBX;O;BOS;David Hamilton;Joe Ryan;1%;98%;Groundout: SS-1B (SS-2B)
+t6;0-6;1;---;1,(0-0) X;O;BOS;Enrique Hernández;Joe Ryan;0%;98%;Lineout: CF (Deep CF)
+t6;0-6;2;---;1,(0-0) X;O;BOS;Jarren Duran;Joe Ryan;0%;99%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Twins 6.
+Bottom of the 6th, Twins Batting, Ahead 6-0, Red Sox' Brandon Walter facing 8-9-1 
+b6;6-0;0;---;2,(0-1) CX;O;MIN;Willi Castro;Brandon Walter;0%;99%;Lineout: CF (Deep CF)
+b6;6-0;1;---;1,(0-0) X;O;MIN;Michael A. Taylor;Brandon Walter;0%;98%;Foul Popfly: 1B
+b6;6-0;2;---;6,(3-2) BCCBBB;;MIN;Donovan Solano;Brandon Walter;0%;98%;Walk
+b6;6-0;2;1--;1,(0-0) X;O;MIN;Carlos Correa;Brandon Walter;0%;98%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Red Sox 0, Twins 6.
+Top of the 7th, Red Sox Batting, Behind 0-6, Twins' Joe Ryan facing 2-3-4 
+t7;0-6;0;---;7,(3-2) BBBCFFX;O;BOS;Justin Turner;Joe Ryan;1%;99%;Flyball: CF (Deep LF-CF)
+t7;0-6;1;---;2,(0-1) CX;O;BOS;Masataka Yoshida;Joe Ryan;0%;99%;Groundout: 1B-P (2B-1B)
+t7;0-6;2;---;2,(0-1) CX;;BOS;Rafael Devers;Joe Ryan;0%;99%;Single to LF (Fly Ball to Short LF Line)
+t7;0-6;2;1--;1,(0-0) X;O;BOS;Adam Duvall;Joe Ryan;0%;99%;Flyball: LF (Short LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 0, Twins 6.
+Bottom of the 7th, Twins Batting, Ahead 6-0, Red Sox' Brandon Walter facing 3-4-5 
+b7;6-0;0;---;5,(2-2) FBBFX;O;MIN;Kyle Farmer;Brandon Walter;0%;99%;Groundout: SS-1B
+b7;6-0;1;---;2,(0-1) FX;O;MIN;Byron Buxton;Brandon Walter;0%;99%;Popfly: 1B (Weak 2B-1B)
+b7;6-0;2;---;2,(0-1) FX;O;MIN;Max Kepler;Brandon Walter;0%;99%;Flyball: RF (Short CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Twins 6.
+Top of the 8th, Red Sox Batting, Behind 0-6, Twins' Joe Ryan facing 6-7-8 
+t8;0-6;0;---;5,(2-2) FF.BBS;O;BOS;Triston Casas;Joe Ryan;0%;100%;Strikeout Swinging
+t8;0-6;1;---;4,(0-2) FFFS;O;BOS;Connor Wong;Joe Ryan;0%;100%;Strikeout Swinging
+t8;0-6;2;---;2,(0-1) CX;;BOS;David Hamilton;Joe Ryan;0%;100%;Single to LF (Ground Ball)
+t8;0-6;2;1--;5,(3-1) BFBBX;O;BOS;Enrique Hernández;Joe Ryan;0%;100%;Flyball: CF (LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 0, Twins 6.
+Bottom of the 8th, Twins Batting, Ahead 6-0, Red Sox' Brandon Walter facing 6-7-8 
+b8;6-0;0;---;6,(3-2) BBBCS.X;O;MIN;Royce Lewis;Brandon Walter;0%;100%;Groundout: SS-1B
+b8;6-0;1;---;1,(0-0) X;;MIN;Ryan Jeffers;Brandon Walter;0%;100%;Double to LF (Ground Ball)
+b8;6-0;1;-2-;5,(2-2) FFBBX;O;MIN;Willi Castro;Brandon Walter;0%;100%;Lineout: 2B (Deep 2B)
+;;;;;;;;;Joe Jacques replaces Brandon Walter pitching
+b8;6-0;2;-2-;5,(2-2) .C*BCBC;O;MIN;Michael A. Taylor;Joe Jacques;0%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 0, Twins 6.
+Top of the 9th, Red Sox Batting, Behind 0-6, Twins' Joe Ryan facing 1-2-3 
+t9;0-6;0;---;4,(1-2) FS.BS;O;BOS;Jarren Duran;Joe Ryan;0%;100%;Strikeout Swinging
+t9;0-6;1;---;7,(2-2) BS.BSFFX;O;BOS;Justin Turner;Joe Ryan;0%;100%;Popfly: 2B (2B-1B)
+t9;0-6;2;---;3,(2-0) BBX;O;BOS;Masataka Yoshida;Joe Ryan;0%;100%;Flyball: LF (Short LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Twins 6.

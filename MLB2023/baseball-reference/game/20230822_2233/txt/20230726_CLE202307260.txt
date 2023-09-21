@@ -1,0 +1,287 @@
+
+Scorebox Meta
+20230726
+1:10 p.m. Local
+26699
+Progressive Field
+187
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/KCR-2023.png;/teams/KCR/2023.shtml;0;0;0;0;1;0;0;1;1;3;12;0
+https://cdn.ssref.net/req/202308101/tlogo/br/CLE-2023.png;/teams/CLE/2023.shtml;2;1;1;3;0;1;0;0;X;8;9;0
+
+Batting home
+Steven Kwan;/players/k/kwanst01.shtml;LF;3;0;1;2;2;1;5;.271;.344;.372;.716;21;9;0.102; 0.64;0.125;-0.022; 0.05%; 0.50; 1.9;3;0;
+Andrés Giménez;/players/g/gimenan01.shtml;2B;4;1;0;0;1;1;5;.241;.311;.385;.696;19;12;-0.004; 0.59;0.040;-0.044;-0.00%; 0.46; -1.3;2;3;SB
+José Ramírez;/players/r/ramirjo01.shtml;DH;4;3;3;3;1;0;5;.292;.362;.501;.863;19;10;0.199; 0.54;0.199;0.000; 0.09%; 0.42; 3.0;;;2·HR,SB
+Josh Naylor;/players/n/naylojo01.shtml;1B;4;0;1;0;1;0;5;.302;.341;.499;.840;21;12;-0.009; 0.35;0.023;-0.033;-0.00%; 0.28; -0.5;7;0;
+Will Brennan;/players/b/brennwi02.shtml;RF;3;1;0;0;1;0;5;.258;.293;.371;.664;21;12;0.012; 0.30;0.030;-0.018; 0.01%; 0.23; 0.2;4;0;SB,HBP
+David Fry;/players/f/fryda01.shtml;C;4;1;1;2;0;2;4;.288;.342;.493;.835;11;10;-0.012; 0.49;0.029;-0.041;-0.01%; 0.39; 0.5;8;0;HR
+Tyler Freeman;/players/f/freemty01.shtml;3B;3;1;1;1;1;0;4;.295;.356;.372;.728;25;16;-0.018; 0.40;0.013;-0.031;-0.01%; 0.31; 0.6;0;1;
+Gabriel Arias;/players/a/ariasga01.shtml;SS;4;1;2;0;0;1;4;.188;.295;.306;.601;14;11;0.044; 0.42;0.046;-0.002; 0.02%; 0.33; 0.1;1;1;SB
+Myles Straw;/players/s/strawmy01.shtml;CF;3;0;0;0;1;1;4;.240;.309;.303;.612;17;9;-0.012; 0.47;0.014;-0.025;-0.01%; 0.37; -0.5;2;0;
+Gavin Williams;/players/w/williga01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nick Sandlin;/players/s/sandlni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Eli Morgan;/players/m/morgael01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Enyel De Los Santos;/players/d/delosen01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael Kelly;/players/k/kellymi03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Xzavion Curry;/players/c/curryxz01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: José Ramírez 2 (16, 1 off Alec Marsh, 1st inn, 1 on, 1 out to Deep RF, 1 off Jonathan Heasley, 4th inn, 0 on, 0 outs to Deep CF-RF); David Fry (4, off Jonathan Heasley, 4th inn, 1 on, 1 out to Deep LF).
+
+
+HBP: Will Brennan (4, by Alec Marsh).
+
+
+TB: José Ramírez 9; David Fry 4; Gabriel Arias 2; Tyler Freeman; Josh Naylor; Steven Kwan.
+
+
+RBI: José Ramírez 3 (60); Steven Kwan 2 (36); David Fry 2 (13); Tyler Freeman (5).
+
+
+2-out RBI: Tyler Freeman; Steven Kwan.
+
+
+Team LOB: 9.
+With RISP: 4 for 11.
+
+Batting away
+Maikel Garcia;/players/g/garcima01.shtml;3B;5;0;1;1;0;0;5;.273;.322;.381;.702;23;13;-0.043; 0.60;0.026;-0.068;0%; 0.00; -0.3;0;0;2B
+Bobby Witt;/players/w/wittbo02.shtml;SS;5;0;0;0;0;1;5;.250;.290;.437;.727;17;11;-0.049; 0.37;0.000;-0.049;0%; 0.00; -1.2;2;3;
+MJ Melendez;/players/m/melenmj01.shtml;LF;4;1;2;1;1;0;5;.217;.294;.356;.651;30;15;0.013; 0.24;0.025;-0.012;0%; 0.00; 0.8;1;0;HR
+Salvador Perez;/players/p/perezsa02.shtml;DH;5;0;2;0;0;2;5;.249;.288;.438;.726;15;12;-0.003; 0.38;0.027;-0.030;0%; 0.00; -0.3;;;2B
+Michael Massey;/players/m/massemi02.shtml;2B;4;0;2;0;1;0;5;.219;.274;.350;.624;32;21;0.017; 0.55;0.037;-0.019;0%; 0.00; 0.3;3;3;2B
+Freddy Fermin;/players/f/fermifr01.shtml;C;4;1;2;0;1;0;5;.300;.349;.492;.841;28;17;-0.029; 0.78;0.045;-0.073;0%; 0.00; 0.2;6;0;
+Nick Pratto;/players/p/prattni01.shtml;1B;4;0;1;0;0;3;4;.238;.324;.375;.700;20;13;-0.059; 0.70;0.007;-0.066;0%; 0.00; -0.5;3;0;
+Nicky Lopez;/players/l/lopezni01.shtml;1B;0;0;0;0;0;0;0;.213;.322;.284;.606;;;;;;;;;;1;1;
+Drew Waters;/players/w/waterdr01.shtml;RF-CF;3;0;0;0;1;2;4;.232;.286;.361;.647;17;11;-0.019; 0.53;0.024;-0.043;0%; 0.00; -0.9;3;0;GDP
+Kyle Isbel;/players/i/isbelky01.shtml;CF;3;1;1;0;0;0;3;.212;.249;.358;.606;7;6;-0.028; 0.59;0.009;-0.037;0%; 0.00; -0.5;2;0;
+Dairon Blanco;/players/b/blancda02.shtml;RF;1;0;1;1;0;0;1;.233;.292;.433;.726;4;3;0.002; 0.03;0.002;0.000;0%; 0.00; 1.0;1;0;2B
+Alec Marsh;/players/m/marshal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jonathan Heasley;/players/h/heasljo01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Austin Cox;/players/c/coxau01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dylan Coleman;/players/c/colemdy01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nick Wittgren;/players/w/wittgni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Taylor Clarke;/players/c/clarkta01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Maikel Garcia (14, off Nick Sandlin); Salvador Perez (16, off Enyel De Los Santos); Dairon Blanco (6, off Michael Kelly); Michael Massey (8, off Xzavion Curry).
+
+
+HR: MJ Melendez (8, off Xzavion Curry, 9th inn, 0 on, 1 out to Deep RF Line).
+
+
+TB: MJ Melendez 5; Salvador Perez 3; Michael Massey 3; Dairon Blanco 2; Maikel Garcia 2; Freddy Fermin 2; Kyle Isbel; Nick Pratto.
+
+
+GIDP: Drew Waters (3).
+
+
+RBI: Dairon Blanco (7); Maikel Garcia (30); MJ Melendez (34).
+
+
+2-out RBI: Dairon Blanco.
+
+
+Team LOB: 12.
+With RISP: 1 for 12.
+
+Pitching home
+Gavin Williams;/players/w/williga01.shtml;Gavin Williams; 4 ;3;0;0;2;5;0;3.35;17;87;56;33;15;8;2;8;4;0;59;;;0.176; 0.83; 0.08%; 0.66; 2.0
+Nick Sandlin;/players/s/sandlni01.shtml; W (5-3); 1 ;2;1;1;0;1;0;3.40;5;20;13;8;3;2;2;2;2;0;;0;0;0.000; 0.36; 0.00%; 0.28; -0.5
+Eli Morgan;/players/m/morgael01.shtml;Eli Morgan; 0.2;2;0;0;1;1;0;2.34;5;27;17;10;5;2;0;3;2;0;;0;0;-0.010; 0.68;-0.01%; 0.53; -0.3
+Enyel De Los Santos;/players/d/delosen01.shtml;Enyel De Los Santos; 1.1;1;0;0;0;0;0;2.51;5;20;11;8;0;3;0;5;2;0;;3;0;0.028; 0.22; 0.01%; 0.18; 1.3
+Michael Kelly;/players/k/kellymi03.shtml;Michael Kelly; 1 ;2;1;1;1;0;0;1.59;5;18;11;7;0;4;2;2;2;0;;0;0;0.002; 0.13; 0.00%; 0.10; -0.5
+Xzavion Curry;/players/c/curryxz01.shtml;Xzavion Curry; 1 ;2;1;1;0;1;1;2.98;5;21;14;7;1;6;1;3;1;0;;0;0;0.003; 0.04; 0.00%; 0.03; -0.5
+
+Pitching away
+Alec Marsh;/players/m/marshal01.shtml; L (0-5); 2.2;5;4;4;4;3;1;7.04;18;75;42;24;7;11;3;7;4;0;31;;;-0.211; 0.79; 0.00%; 0.00; -2.3
+Jonathan Heasley;/players/h/heasljo01.shtml;Jonathan Heasley; 1.1;2;3;3;2;2;2;4.91;8;34;23;15;5;3;1;3;0;0;;3;1;-0.092; 0.39; 0.00%; 0.00; -2.7
+Austin Cox;/players/c/coxau01.shtml;Austin Cox; 1 ;0;0;0;1;0;0;3.70;3;9;4;2;1;1;0;2;1;0;;0;0;0.004; 0.10; 0.00%; 0.00; 0.5
+Dylan Coleman;/players/c/colemdy01.shtml;Dylan Coleman; 1 ;2;1;1;1;1;0;11.45;6;30;19;11;3;5;1;3;2;0;;0;0;-0.005; 0.08; 0.00%; 0.00; -0.5
+Nick Wittgren;/players/w/wittgni01.shtml;Nick Wittgren; 1 ;0;0;0;0;0;0;6.08;3;7;5;4;0;1;1;2;0;0;;0;0;0.001; 0.01; 0.00%; 0.00; 0.5
+Taylor Clarke;/players/c/clarkta01.shtml;Taylor Clarke; 1 ;0;0;0;0;0;0;5.86;3;13;8;5;0;3;2;1;1;0;;0;0;0.001; 0.01; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Alec Marsh (4; Will Brennan).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Alec Marsh (4; Will Brennan).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Pat Hoberg, 1B - Nestor Ceja, 2B - Brian O'Nora, 3B - Edwin Jimenez, LF - (none), RF - (none).
+Time of Game: 3:07.
+Attendance: 26,699.
+Field Condition: Unknown.
+Start Time Weather: 86° F, Wind 6mph in from Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Royals
+1;Maikel Garcia;/players/g/garcima01.shtml;3B
+2;Bobby Witt;/players/w/wittbo02.shtml;SS
+3;MJ Melendez;/players/m/melenmj01.shtml;LF
+4;Salvador Perez;/players/p/perezsa02.shtml;DH
+5;Michael Massey;/players/m/massemi02.shtml;2B
+6;Freddy Fermin;/players/f/fermifr01.shtml;C
+7;Nick Pratto;/players/p/prattni01.shtml;1B
+8;Drew Waters;/players/w/waterdr01.shtml;RF
+9;Kyle Isbel;/players/i/isbelky01.shtml;CF
+; Alec Marsh;/players/m/marshal01.shtml;P
+Guardians
+1;Steven Kwan;/players/k/kwanst01.shtml;LF
+2;Andrés Giménez;/players/g/gimenan01.shtml;2B
+3;José Ramírez;/players/r/ramirjo01.shtml;DH
+4;Josh Naylor;/players/n/naylojo01.shtml;1B
+5;Will Brennan;/players/b/brennwi02.shtml;RF
+6;David Fry;/players/f/fryda01.shtml;C
+7;Tyler Freeman;/players/f/freemty01.shtml;3B
+8;Gabriel Arias;/players/a/ariasga01.shtml;SS
+9;Myles Straw;/players/s/strawmy01.shtml;CF
+; Gavin Williams;/players/w/williga01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-0;1;-2-;4,(2-1) 1C>B.BX;RR;CLE;José Ramírez;Alec Marsh;15%;72%;Home Run (Line Drive to Deep RF); Giménez Scores
+t1;0-0;2;123;6,(3-2) BFBFB>X;O;KCR;Freddy Fermin;Gavin Williams;7%;55%;Popfly: 2B (Deep SS-2B)
+b2;2-0;1;-2-;2,(0-1) FX;R;CLE;Steven Kwan;Alec Marsh;7%;83%;Single to CF (Line Drive to Short CF); Arias Scores; Kwan to 2B
+b3;3-0;2;123;5,(3-1) .BFBBB;R;CLE;Steven Kwan;Jonathan Heasley;5%;90%;Walk; Freeman Scores; Arias to 3B; Straw to 2B
+b4;4-0;0;---;2,(0-1) CX;R;CLE;José Ramírez;Jonathan Heasley;3%;95%;Home Run (Fly Ball to Deep CF-RF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Royals Batting, Tied 0-0, Guardians' Gavin Williams facing 1-2-3 
+t1;0-0;0;---;3,(1-1) SBX;O;KCR;Maikel Garcia;Gavin Williams;2%;52%;Flyball: RF (Deep CF-RF)
+t1;0-0;1;---;3,(2-0) BBX;O;KCR;Bobby Witt;Gavin Williams;2%;54%;Flyball: CF (Deep CF)
+t1;0-0;2;---;7,(3-2) BSBCF.BX;;KCR;MJ Melendez;Gavin Williams;-1%;53%;Single to RF (Line Drive to Deep RF)
+t1;0-0;2;1--;2,(0-1) CX;;KCR;Salvador Perez;Gavin Williams;-3%;50%;Single to RF (Line Drive to CF-RF); Melendez to 3B
+t1;0-0;2;1-3;10,(3-2) SF*BBB>F>F>F>F>*B;;KCR;Michael Massey;Gavin Williams;-2%;48%;Walk; Perez to 2B
+t1;0-0;2;123;6,(3-2) BFBFB>X;O;KCR;Freddy Fermin;Gavin Williams;7%;55%;Popfly: 2B (Deep SS-2B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Royals 0, Guardians 0.
+Bottom of the 1st, Guardians Batting, Tied 0-0, Royals' Alec Marsh facing 1-2-3 
+b1;0-0;0;---;5,(2-2) CCBBC;O;CLE;Steven Kwan;Alec Marsh;-2%;53%;Strikeout Looking
+b1;0-0;1;---;5,(3-1) BSBBB;;CLE;Andrés Giménez;Alec Marsh;2%;55%;Walk
+b1;0-0;1;1--;2,(0-1) 1C>B;;CLE;José Ramírez;Alec Marsh;2%;57%;Giménez Steals 2B
+b1;0-0;1;-2-;4,(2-1) 1C>B.BX;RR;CLE;José Ramírez;Alec Marsh;15%;72%;Home Run (Line Drive to Deep RF); Giménez Scores
+b1;2-0;1;---;3,(0-2) SFX;;CLE;Josh Naylor;Alec Marsh;2%;74%;Single to RF (Line Drive)
+b1;2-0;1;1--;2,(1-0) BH;;CLE;Will Brennan;Alec Marsh;2%;76%;Hit By Pitch; Naylor to 2B
+b1;2-0;1;12-;4,(1-2) FFBS;O;CLE;David Fry;Alec Marsh;-3%;73%;Strikeout Swinging
+b1;2-0;2;12-;1,(0-0) X;O;CLE;Tyler Freeman;Alec Marsh;-3%;70%;Groundout: SS-2B/Forceout at 2B; Freeman to 1B
+;;;;;;;;;2 runs, 2 hits, 0 errors, 2 LOB. Royals 0, Guardians 2.
+Top of the 2nd, Royals Batting, Behind 0-2, Guardians' Gavin Williams facing 7-8-9 
+t2;0-2;0;---;8,(3-2) CFBBFF.BS;O;KCR;Nick Pratto;Gavin Williams;2%;72%;Strikeout Swinging
+t2;0-2;1;---;3,(0-2) SSS;O;KCR;Drew Waters;Gavin Williams;2%;74%;Strikeout Swinging
+t2;0-2;2;---;2,(1-0) BX;O;KCR;Kyle Isbel;Gavin Williams;1%;75%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Guardians 2.
+Bottom of the 2nd, Guardians Batting, Ahead 2-0, Royals' Alec Marsh facing 8-9-1 
+b2;2-0;0;---;4,(1-2) BSCX;;CLE;Gabriel Arias;Alec Marsh;2%;77%;Single to CF (Line Drive)
+b2;2-0;0;1--;7,(3-2) FLBBB1>F>C;O;CLE;Myles Straw;Alec Marsh;-1%;76%;Strikeout Looking, Arias Steals 2B
+b2;2-0;1;-2-;2,(0-1) FX;R;CLE;Steven Kwan;Alec Marsh;7%;83%;Single to CF (Line Drive to Short CF); Arias Scores; Kwan to 2B
+;;;;;;;;;Home plate collision Challenged by CLE manager (Terry Francona): Original call upheld upon review.
+b2;3-0;1;-2-;7,(3-2) BBBCS.FX;O;CLE;Andrés Giménez;Alec Marsh;-2%;82%;Groundout: 2B-1B; Kwan to 3B
+b2;3-0;2;--3;4,(3-0) BBBB;;CLE;José Ramírez;Alec Marsh;1%;82%;Walk
+b2;3-0;2;1-3;2,(1-0) B>B;;CLE;Josh Naylor;Alec Marsh;0%;83%;Ramírez Steals 2B
+b2;3-0;2;-23;4,(2-1) B>B.SX;O;CLE;Josh Naylor;Alec Marsh;-3%;80%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Royals 0, Guardians 3.
+Top of the 3rd, Royals Batting, Behind 0-3, Guardians' Gavin Williams facing 1-2-3 
+t3;0-3;0;---;5,(2-2) CFBBX;O;KCR;Maikel Garcia;Gavin Williams;2%;82%;Flyball: RF (Deep 1B)
+t3;0-3;1;---;5,(1-2) BFS.FX;O;KCR;Bobby Witt;Gavin Williams;1%;83%;Lineout: LF (Deep LF-CF)
+t3;0-3;2;---;5,(3-1) FBBB.B;;KCR;MJ Melendez;Gavin Williams;-1%;82%;Walk
+t3;0-3;2;1--;4,(0-2) SSFS;O;KCR;Salvador Perez;Gavin Williams;2%;84%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Royals 0, Guardians 3.
+Bottom of the 3rd, Guardians Batting, Ahead 3-0, Royals' Alec Marsh facing 5-6-7 
+b3;3-0;0;---;3,(0-2) CFX;O;CLE;Will Brennan;Alec Marsh;-1%;83%;Popfly: SS (Short CF)
+b3;3-0;1;---;2,(0-1) FX;O;CLE;David Fry;Alec Marsh;-1%;82%;Flyball: CF
+b3;3-0;2;---;8,(3-2) BBCS.BFFB;;CLE;Tyler Freeman;Alec Marsh;1%;83%;Walk
+b3;3-0;2;1--;4,(1-2) FFB1X;;CLE;Gabriel Arias;Alec Marsh;1%;84%;Single to 3B (Ground Ball to Weak 3B); Freeman to 2B
+b3;3-0;2;12-;6,(3-2) C2B*BCB>B;;CLE;Myles Straw;Alec Marsh;1%;85%;Walk; Freeman to 3B; Arias to 2B
+;;;;;;;;;Jonathan Heasley replaces Alec Marsh pitching
+b3;3-0;2;123;5,(3-1) .BFBBB;R;CLE;Steven Kwan;Jonathan Heasley;5%;90%;Walk; Freeman Scores; Arias to 3B; Straw to 2B
+b3;4-0;2;123;4,(0-2) CFFS;O;CLE;Andrés Giménez;Jonathan Heasley;-2%;88%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 3 LOB. Royals 0, Guardians 4.
+Top of the 4th, Royals Batting, Behind 0-4, Guardians' Gavin Williams facing 5-6-7 
+t4;0-4;0;---;4,(1-2) BSCX;O;KCR;Michael Massey;Gavin Williams;2%;90%;Lineout: CF
+t4;0-4;1;---;9,(3-2) CBBFF.BFFX;;KCR;Freddy Fermin;Gavin Williams;-2%;88%;Single to 3B (Ground Ball to SS-3B Hole)
+t4;0-4;1;1--;5,(1-2) BCFFS;O;KCR;Nick Pratto;Gavin Williams;2%;90%;Strikeout Swinging
+t4;0-4;2;1--;6,(2-2) BSBS>FC;O;KCR;Drew Waters;Gavin Williams;2%;91%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 0, Guardians 4.
+Bottom of the 4th, Guardians Batting, Ahead 4-0, Royals' Jonathan Heasley facing 3-4-5 
+b4;4-0;0;---;2,(0-1) CX;R;CLE;José Ramírez;Jonathan Heasley;3%;95%;Home Run (Fly Ball to Deep CF-RF)
+b4;5-0;0;---;5,(3-1) FBBBB;;CLE;Josh Naylor;Jonathan Heasley;1%;95%;Walk
+b4;5-0;0;1--;4,(0-2) FFFX;O;CLE;Will Brennan;Jonathan Heasley;-1%;95%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Brennan to 1B
+b4;5-0;1;1--;1,(0-0) >C;;CLE;David Fry;Jonathan Heasley;0%;95%;Brennan Steals 2B
+b4;5-0;1;-2-;2,(0-1) >C.X;RR;CLE;David Fry;Jonathan Heasley;3%;98%;Home Run (Fly Ball to Deep LF); Brennan Scores
+b4;7-0;1;---;9,(3-2) SBBBS.FFFX;O;CLE;Tyler Freeman;Jonathan Heasley;0%;98%;Popfly: P (Front of Home)
+b4;7-0;2;---;3,(0-2) SFS;O;CLE;Gabriel Arias;Jonathan Heasley;0%;98%;Strikeout Swinging
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Royals 0, Guardians 7.
+Top of the 5th, Royals Batting, Behind 0-7, Guardians' Nick Sandlin facing 9-1-2 
+;;;;;;;;;Nick Sandlin replaces Gavin Williams pitching
+t5;0-7;0;---;2,(0-1) .CX;;KCR;Kyle Isbel;Nick Sandlin;-1%;97%;Single to SS (Ground Ball to SS-2B)
+t5;0-7;0;1--;5,(3-1) BSBBX;R;KCR;Maikel Garcia;Nick Sandlin;-3%;94%;Double to CF (Line Drive to Deep CF-RF); Isbel Scores
+t5;1-7;0;-2-;3,(1-1) SBX;O;KCR;Bobby Witt;Nick Sandlin;2%;96%;Lineout: LF (Deep LF-CF)
+t5;1-7;1;-2-;6,(2-2) TBBFFX;O;KCR;MJ Melendez;Nick Sandlin;1%;97%;Groundout: 2B-1B (2B-1B); Garcia to 3B
+t5;1-7;2;--3;4,(1-2) CBFS;O;KCR;Salvador Perez;Nick Sandlin;1%;98%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Royals 1, Guardians 7.
+Bottom of the 5th, Guardians Batting, Ahead 7-1, Royals' Austin Cox facing 9-1-2 
+;;;;;;;;;Austin Cox replaces Jonathan Heasley pitching
+b5;7-1;0;---;3,(1-1) .BCX;O;CLE;Myles Straw;Austin Cox;0%;98%;Flyball: CF
+b5;7-1;1;---;5,(3-1) BSBBB;;CLE;Steven Kwan;Austin Cox;0%;98%;Walk
+b5;7-1;1;1--;1,(0-0) X;OO;CLE;Andrés Giménez;Austin Cox;0%;97%;Double Play: Lineout: 2B (2B-1B); Kwan out at 1B/2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 1, Guardians 7.
+Top of the 6th, Royals Batting, Behind 1-7, Guardians' Eli Morgan facing 5-6-7 
+;;;;;;;;;Eli Morgan replaces Nick Sandlin pitching
+t6;1-7;0;---;9,(2-2) .CFBBFFFFX;;KCR;Michael Massey;Eli Morgan;-1%;96%;Single to LF (Line Drive to LF-CF)
+t6;1-7;0;1--;3,(1-1) CBX;;KCR;Freddy Fermin;Eli Morgan;-2%;94%;Single to CF (Line Drive); Massey to 2B
+t6;1-7;0;12-;6,(3-2) BSBSB.S;O;KCR;Nick Pratto;Eli Morgan;2%;96%;Strikeout Swinging
+t6;1-7;1;12-;6,(3-2) SBBFBB;;KCR;Drew Waters;Eli Morgan;-2%;94%;Walk; Massey to 3B; Fermin to 2B
+t6;1-7;1;123;3,(0-2) SFX;O;KCR;Kyle Isbel;Eli Morgan;3%;96%;Popfly: 2B (SS-2B)
+;;;;;;;;;Enyel De Los Santos replaces Eli Morgan pitching
+t6;1-7;2;123;5,(2-2) .BBCCX;O;KCR;Maikel Garcia;Enyel De Los Santos;2%;99%;Lineout: 1B (Front of Home)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Royals 1, Guardians 7.
+Bottom of the 6th, Guardians Batting, Ahead 7-1, Royals' Dylan Coleman facing 3-4-5 
+;;;;;;;;;Dylan Coleman replaces Austin Cox pitchingDrew Waters moves from RF to CF Dairon Blanco replaces Kyle Isbel (CF) playing RF batting 9th
+b6;7-1;0;---;5,(2-2) ...BBCSX;;CLE;José Ramírez;Dylan Coleman;0%;99%;Single to 3B (Ground Ball)
+b6;7-1;0;1--;7,(2-2) .FBFBF>FX;O;CLE;Josh Naylor;Dylan Coleman;0%;99%;Lineout: 2B
+b6;7-1;1;1--;5,(3-1) BB*BC>B;;CLE;Will Brennan;Dylan Coleman;0%;99%;Walk; Ramírez to 2B
+b6;7-1;1;12-;3,(0-2) SFC;O;CLE;David Fry;Dylan Coleman;0%;99%;Strikeout Looking
+b6;7-1;2;12-;7,(2-2) BCCBFFX;R;CLE;Tyler Freeman;Dylan Coleman;1%;99%;Single to CF (Line Drive to CF-RF); Ramírez Scores; Brennan to 3B
+b6;8-1;2;1-3;3,(1-1) BSX;O;CLE;Gabriel Arias;Dylan Coleman;0%;99%;Flyball: RF (Short RF Line)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Royals 1, Guardians 8.
+Top of the 7th, Royals Batting, Behind 1-8, Guardians' Enyel De Los Santos facing 2-3-4 
+t7;1-8;0;---;2,(1-0) BX;O;KCR;Bobby Witt;Enyel De Los Santos;0%;99%;Flyball: RF (RF Line)
+t7;1-8;1;---;7,(3-2) BFBC.BFX;O;KCR;MJ Melendez;Enyel De Los Santos;0%;100%;Lineout: 1B
+t7;1-8;2;---;2,(1-0) BX;;KCR;Salvador Perez;Enyel De Los Santos;0%;99%;Ground-rule Double (Fly Ball to RF Line)
+t7;1-8;2;-2-;4,(2-1) BF*BX;O;KCR;Michael Massey;Enyel De Los Santos;0%;100%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 1, Guardians 8.
+Bottom of the 7th, Guardians Batting, Ahead 8-1, Royals' Nick Wittgren facing 9-1-2 
+;;;;;;;;;Nick Wittgren replaces Dylan Coleman pitching
+b7;8-1;0;---;1,(0-0) .X;O;CLE;Myles Straw;Nick Wittgren;0%;100%;Groundout: SS-1B
+b7;8-1;1;---;4,(2-1) BCBX;O;CLE;Steven Kwan;Nick Wittgren;0%;100%;Flyball: CF (Deep CF)
+b7;8-1;2;---;2,(0-1) FX;O;CLE;Andrés Giménez;Nick Wittgren;0%;100%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 1, Guardians 8.
+Top of the 8th, Royals Batting, Behind 1-8, Guardians' Michael Kelly facing 6-7-8 
+;;;;;;;;;Michael Kelly replaces Enyel De Los Santos pitching
+t8;1-8;0;---;6,(3-2) .CTBBBB;;KCR;Freddy Fermin;Michael Kelly;0%;99%;Walk
+t8;1-8;0;1--;1,(0-0) X;;KCR;Nick Pratto;Michael Kelly;-1%;99%;Single to RF (Line Drive); Fermin to 2B
+t8;1-8;0;12-;2,(0-1) CX;OO;KCR;Drew Waters;Michael Kelly;1%;100%;Ground Ball Double Play: 2B-SS-1B; Fermin to 3B
+t8;1-8;2;--3;4,(1-2) CF.BX;R;KCR;Dairon Blanco;Michael Kelly;0%;100%;Double to CF (Line Drive to Deep CF); Fermin Scores
+t8;2-8;2;-2-;5,(2-2) FCBBX;O;KCR;Maikel Garcia;Michael Kelly;0%;100%;Groundout: P-1B (Front of Home)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Royals 2, Guardians 8.
+Bottom of the 8th, Guardians Batting, Ahead 8-2, Royals' Taylor Clarke facing 3-4-5 
+;;;;;;;;;Taylor Clarke replaces Nick Wittgren pitchingNicky Lopez replaces Nick Pratto playing 1B batting 7th
+b8;8-2;0;---;4,(1-2) ..CFBX;O;CLE;José Ramírez;Taylor Clarke;0%;100%;Groundout: SS-1B
+b8;8-2;1;---;2,(1-0) BX;O;CLE;Josh Naylor;Taylor Clarke;0%;100%;Groundout: 1B-P (2B-1B)
+b8;8-2;2;---;7,(3-2) BCBBCFX;O;CLE;Will Brennan;Taylor Clarke;0%;100%;Lineout: LF (Short LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 2, Guardians 8.
+Top of the 9th, Royals Batting, Behind 2-8, Guardians' Xzavion Curry facing 2-3-4 
+;;;;;;;;;Xzavion Curry replaces Michael Kelly pitching
+t9;2-8;0;---;4,(1-2) .CCBS;O;KCR;Bobby Witt;Xzavion Curry;0%;100%;Strikeout Swinging
+t9;2-8;1;---;5,(3-1) CBBBX;R;KCR;MJ Melendez;Xzavion Curry;0%;100%;Home Run (Fly Ball to Deep RF Line)
+t9;3-8;1;---;3,(1-1) CBX;O;KCR;Salvador Perez;Xzavion Curry;0%;100%;Groundout: 3B-1B (SS-3B Hole)
+t9;3-8;2;---;5,(2-2) BCBFX;;KCR;Michael Massey;Xzavion Curry;0%;100%;Double to CF (Line Drive to Deep CF-RF)
+t9;3-8;2;-2-;4,(0-2) FCFX;O;KCR;Freddy Fermin;Xzavion Curry;0%;100%;Flyball: RF
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Royals 3, Guardians 8.

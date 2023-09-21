@@ -1,0 +1,307 @@
+
+Scorebox Meta
+20230702
+7:10 p.m. Local
+28473
+Citi Field
+197
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/SFG-2023.png;/teams/SFG/2023.shtml;0;0;1;0;0;0;3;0;0;4;8;2
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;3;2;0;0;1;2;X;8;11;0
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;3;2;0;0;1;1;5;.279;.372;.458;.830;15;9;0.018; 0.57;0.050;-0.032; 0.00%; 0.14; -0.2;1;0;HBP
+Tommy Pham;/players/p/phamth01.shtml;LF;4;2;3;1;1;0;5;.295;.362;.530;.892;22;15;0.133; 0.74;0.149;-0.015; 0.02%; 0.19; 2.3;0;0;2·2B
+Francisco Lindor;/players/l/lindofr01.shtml;SS;3;0;0;0;2;0;5;.223;.306;.446;.752;17;8;-0.096; 0.90;0.014;-0.110;-0.01%; 0.23; -1.4;3;3;GDP
+Pete Alonso;/players/a/alonspe01.shtml;DH;4;2;2;3;1;1;5;.221;.316;.520;.835;22;17;0.184; 1.18;0.220;-0.035; 0.03%; 0.30; 2.7;;;HR,2B
+Jeff McNeil;/players/m/mcneije01.shtml;2B;5;0;2;1;0;1;5;.258;.332;.332;.665;14;11;0.150; 1.05;0.184;-0.034; 0.02%; 0.26; 1.1;2;4;
+Starling Marte;/players/m/martest01.shtml;RF;5;0;1;1;0;1;5;.252;.304;.326;.630;23;16;-0.001; 0.67;0.051;-0.052;0%; 0.17; -0.4;0;0;
+Mark Canha;/players/c/canhama01.shtml;1B;4;1;2;1;0;0;4;.245;.337;.394;.732;17;12;0.061; 0.48;0.085;-0.024; 0.01%; 0.12; 0.9;8;0;HR,SB
+Brett Baty;/players/b/batybr01.shtml;3B;3;0;1;0;0;2;4;.244;.312;.360;.672;11;11;-0.024; 0.53;0.014;-0.038;-0.00%; 0.13; -0.1;0;1;SB
+Luis Guillorme;/players/g/guilllu01.shtml;3B;0;0;0;0;0;0;0;.244;.326;.354;.680;;;;;;;;;;0;0;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;3;1;0;0;1;0;4;.214;.272;.460;.732;15;7;-0.014; 0.59;0.030;-0.045;-0.00%; 0.15; -0.9;13;1;
+David Peterson;/players/p/peterda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Grant Hartwig;/players/h/hartwgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jeff Brigham;/players/b/brighje01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dominic Leone;/players/l/leonedo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brooks Raley;/players/r/raleybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Ottavino;/players/o/ottavad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+David Robertson;/players/r/roberda08.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Tommy Pham 2 (14, 1 off Ryan Walker, 1 off Tristan Beck); Pete Alonso (7, off Tyler Rogers).
+
+
+HR: Mark Canha (6, off Alex Wood, 4th inn, 0 on, 0 outs to Deep LF); Pete Alonso (25, off Ryan Walker, 8th inn, 1 on, 2 outs to Deep LF-CF).
+
+
+HBP: Brandon Nimmo (9, by Alex Wood).
+
+
+TB: Pete Alonso 6; Tommy Pham 5; Mark Canha 5; Jeff McNeil 2; Brett Baty; Starling Marte.
+
+
+GIDP: Francisco Lindor (6).
+
+
+RBI: Pete Alonso 3 (58); Jeff McNeil (24); Mark Canha (25); Starling Marte (25); Tommy Pham (34).
+
+
+2-out RBI: Pete Alonso 3; Tommy Pham; Jeff McNeil.
+
+
+Team LOB: 10.
+With RISP: 3 for 10.
+
+Batting away
+Austin Slater;/players/s/slateau01.shtml;LF;2;0;0;0;1;0;3;.347;.405;.458;.863;11;6;-0.013; 0.97;0.036;-0.048;-0.01%; 1.28; -0.1;2;0;
+Blake Sabol;/players/s/sabolbl01.shtml;PH-LF;2;1;1;2;0;1;2;.250;.313;.413;.727;9;7;0.050; 1.54;0.097;-0.047; 0.04%; 2.02; 1.3;1;0;HR
+Wilmer Flores;/players/f/florewi01.shtml;1B;3;0;1;0;1;2;5;.250;.319;.446;.766;19;10;-0.010; 1.18;0.058;-0.067;-0.01%; 1.55; -0.1;8;1;HBP
+Thairo Estrada;/players/e/estrath01.shtml;2B;4;1;1;1;0;1;5;.272;.327;.434;.761;11;7;0.029; 1.36;0.116;-0.087; 0.02%; 1.79; -0.3;3;1;CS,HBP,GDP
+J.D. Davis;/players/d/davisjd01.shtml;DH;5;0;1;1;0;2;5;.284;.361;.456;.817;16;11;-0.043; 1.91;0.154;-0.198;-0.03%; 2.52; -0.3;;;2B
+Patrick Bailey;/players/b/bailepa01.shtml;C;5;0;1;0;0;4;5;.309;.338;.528;.867;27;15;-0.072; 1.04;0.033;-0.105;-0.06%; 1.37; -0.6;6;0;
+Luis Matos;/players/m/matoslu02.shtml;RF-CF;2;0;2;0;1;0;3;.241;.323;.310;.633;10;4;0.060; 0.63;0.060;0.000; 0.05%; 0.83; 0.6;1;0;
+LaMonte Wade Jr.;/players/w/wadela01.shtml;PH-CF;1;0;0;0;1;0;2;.279;.416;.450;.866;5;4;0.015; 1.22;0.020;-0.004; 0.01%; 1.60; -0.0;0;0;IW
+Brandon Crawford;/players/c/crawfbr01.shtml;SS;4;0;1;0;1;2;5;.221;.301;.343;.644;22;15;-0.073; 1.35;0.059;-0.132;-0.06%; 1.77; -0.4;0;5;2B
+Casey Schmitt;/players/s/schmica01.shtml;3B;4;0;0;0;0;1;4;.243;.281;.347;.628;12;8;-0.186; 1.69;0.000;-0.186;-0.15%; 2.22; -1.8;0;2;
+Bryce Johnson;/players/j/johnsbr03.shtml;CF;0;1;0;0;1;0;1;.163;.229;.256;.485;7;3;0.090; 1.51;0.090;0.000; 0.07%; 1.98; 0.8;2;0;SB
+Joc Pederson;/players/p/pederjo01.shtml;PH-RF;1;1;0;0;1;0;3;.252;.381;.458;.839;14;6;0.063; 0.86;0.080;-0.017; 0.05%; 1.14; 0.5;1;0;HBP
+Ross Stripling;/players/s/stripro01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Alex Wood;/players/w/woodal02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tristan Beck;/players/b/becktr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tyler Rogers;/players/r/rogerty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Walker;/players/w/walkery01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Brandon Crawford (9, off David Peterson); J.D. Davis (13, off Dominic Leone).
+
+
+HR: Blake Sabol (8, off Jeff Brigham, 7th inn, 1 on, 0 outs to Deep LF-CF).
+
+
+IBB: LaMonte Wade Jr. (1, by Dominic Leone).
+
+
+HBP: Wilmer Flores (1, by David Peterson); Joc Pederson (4, by Brooks Raley); Thairo Estrada (9, by Adam Ottavino).
+
+
+TB: Blake Sabol 4; Luis Matos 2; Brandon Crawford 2; J.D. Davis 2; Thairo Estrada; Wilmer Flores; Patrick Bailey.
+
+
+GIDP: Thairo Estrada (6).
+
+
+RBI: Blake Sabol 2 (28); J.D. Davis (45); Thairo Estrada (31).
+
+
+Team LOB: 12.
+With RISP: 0 for 8.
+
+Pitching home
+David Peterson;/players/p/peterda01.shtml;David Peterson; 4 ;3;1;1;3;3;0;6.61;17;61;35;16;6;13;6;4;4;0;52;;;0.088; 1.32; 0.01%; 0.33; 1.0
+Grant Hartwig;/players/h/hartwgr01.shtml; W (1-1); 2 ;2;0;0;1;3;0;1.04;9;33;19;8;3;8;2;3;2;0;;0;0;0.066; 0.52; 0.01%; 0.13; 1.0
+Jeff Brigham;/players/b/brighje01.shtml;Jeff Brigham; 0.1;2;3;3;1;1;1;5.16;4;15;9;6;2;1;0;2;1;0;;0;0;-0.130; 0.99;-0.02%; 0.25; -2.0
+Dominic Leone;/players/l/leonedo01.shtml; H (1); 0.1;1;0;0;1;1;0;5.09;3;7;4;3;0;1;0;1;1;0;;1;1;-0.106; 2.16;-0.02%; 0.54; -0.9
+Brooks Raley;/players/r/raleybr01.shtml; H (16); 1 ;0;0;0;0;2;0;2.43;4;23;16;8;3;5;1;0;0;0;;2;0;0.123; 1.91; 0.02%; 0.48; 0.7
+Adam Ottavino;/players/o/ottavad01.shtml; H (9); 0.1;0;0;0;1;1;0;3.97;3;9;3;1;1;1;0;0;0;0;;1;0;0.035; 2.64; 0.01%; 0.66; 0.2
+David Robertson;/players/r/roberda08.shtml;David Robertson; 1 ;0;0;0;0;2;0;1.95;3;15;11;5;2;4;1;0;0;0;;0;0;0.014; 0.18; 0.00%; 0.05; 0.5
+
+Pitching away
+Ross Stripling;/players/s/stripro01.shtml;Ross Stripling; 2 ;0;0;0;1;2;0;6.51;7;24;16;9;1;6;2;2;1;0;57;;;0.099; 0.67; 0.08%; 0.89; 1.0
+Alex Wood;/players/w/woodal02.shtml; L (3-3); 1.2;2;5;4;4;3;1;5.20;12;57;34;17;4;13;1;3;1;0;;0;0;-0.362; 1.52;-0.29%; 1.99; -3.2
+Tristan Beck;/players/b/becktr01.shtml;Tristan Beck; 2.1;4;0;0;1;1;0;3.20;11;41;28;19;2;7;3;6;2;0;;1;1;-0.026; 0.26;-0.02%; 0.34; 0.2
+Tyler Rogers;/players/r/rogerty01.shtml;Tyler Rogers; 1 ;2;1;1;0;0;0;1.91;6;20;16;10;1;4;4;1;0;0;;0;0;-0.075; 0.80;-0.06%; 1.05; -0.5
+Ryan Walker;/players/w/walkery01.shtml;Ryan Walker; 1 ;3;2;2;0;0;1;2.57;6;14;12;8;1;3;2;4;1;0;;0;0;-0.045; 0.20;-0.04%; 0.26; -1.5
+
+indiv_events
+
+Balks: None.
+WP: David Peterson 2 (3); Adam Ottavino (3).
+HBP: Alex Wood (6; Brandon Nimmo); David Peterson (2; Wilmer Flores); Adam Ottavino (5; Thairo Estrada); Brooks Raley (5; Joc Pederson).
+IBB: Dominic Leone (2; LaMonte Wade Jr.).
+Pickoffs: None.
+
+Balks: None.
+WP: David Peterson 2 (3); Adam Ottavino (3).
+HBP: Alex Wood (6; Brandon Nimmo); David Peterson (2; Wilmer Flores); Adam Ottavino (5; Thairo Estrada); Brooks Raley (5; Joc Pederson).
+IBB: Dominic Leone (2; LaMonte Wade Jr.).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Stu Scheurwater, 1B - Tom Hanahan, 2B - Bruce Dreckman, 3B - Malachi Moore, LF - (none), RF - (none).
+Time of Game: 3:17.
+Attendance: 28,473.
+Field Condition: Unknown.
+Start Time Weather: 75° F, Wind 3mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Giants
+1;Austin Slater;/players/s/slateau01.shtml;LF
+2;Wilmer Flores;/players/f/florewi01.shtml;1B
+3;Thairo Estrada;/players/e/estrath01.shtml;2B
+4;J.D. Davis;/players/d/davisjd01.shtml;DH
+5;Patrick Bailey;/players/b/bailepa01.shtml;C
+6;Luis Matos;/players/m/matoslu02.shtml;RF
+7;Brandon Crawford;/players/c/crawfbr01.shtml;SS
+8;Casey Schmitt;/players/s/schmica01.shtml;3B
+9;Bryce Johnson;/players/j/johnsbr03.shtml;CF
+; Ross Stripling;/players/s/stripro01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Tommy Pham;/players/p/phamth01.shtml;LF
+3;Francisco Lindor;/players/l/lindofr01.shtml;SS
+4;Pete Alonso;/players/a/alonspe01.shtml;DH
+5;Jeff McNeil;/players/m/mcneije01.shtml;2B
+6;Starling Marte;/players/m/martest01.shtml;RF
+7;Mark Canha;/players/c/canhama01.shtml;1B
+8;Brett Baty;/players/b/batybr01.shtml;3B
+9;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+; David Peterson;/players/p/peterda01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;1-1;2;123;3,(0-2) CCX;RR;NYM;Jeff McNeil;Alex Wood;18%;76%;Single to 2B (Ground Ball to SS-2B); Nimmo Scores; Pham Scores/Adv on E6/No RBI/unER; Alonso to 2B
+t7;3-5;1;1--;1,(0-0) .1X;R;SFG;J.D. Davis;Dominic Leone;-15%;66%;Double to RF (Line Drive to Deep CF-RF); Estrada Scores
+t8;4-6;2;123;3,(0-2) CFS;O;SFG;J.D. Davis;Adam Ottavino;13%;94%;Strikeout Swinging
+b3;0-1;2;123;10,(3-2) BCFBFFB.>F>F>B;R;NYM;Pete Alonso;Alex Wood;12%;58%;Walk; Alvarez Scores; Nimmo to 3B; Pham to 2B
+t7;1-5;0;1--;5,(2-2) .BSFBX;RR;SFG;Blake Sabol;Jeff Brigham;-10%;82%;Home Run (Fly Ball to Deep LF-CF); Pederson Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Giants Batting, Tied 0-0, Mets' David Peterson facing 1-2-3 
+t1;0-0;0;---;7,(3-2) BCSFBBB;;SFG;Austin Slater;David Peterson;-4%;46%;Walk
+t1;0-0;0;1--;4,(1-2) CBC*S;O;SFG;Wilmer Flores;David Peterson;3%;50%;Strikeout Swinging
+t1;0-0;1;1--;3,(1-1) BCX;OO;SFG;Thairo Estrada;David Peterson;5%;55%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Giants' Ross Stripling facing 1-2-3 
+b1;0-0;0;---;4,(1-2) CCBT;O;NYM;Brandon Nimmo;Ross Stripling;-2%;53%;Strikeout Swinging
+b1;0-0;1;---;2,(1-0) BX;O;NYM;Tommy Pham;Ross Stripling;-2%;51%;Groundout: SS-1B
+b1;0-0;2;---;4,(3-0) BBBB;;NYM;Francisco Lindor;Ross Stripling;1%;52%;Walk
+b1;0-0;2;1--;4,(0-2) CFFX;O;NYM;Pete Alonso;Ross Stripling;-2%;50%;Lineout: 2B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Giants 0, Mets 0.
+Top of the 2nd, Giants Batting, Tied 0-0, Mets' David Peterson facing 4-5-6 
+t2;0-0;0;---;4,(1-2) BSFX;O;SFG;J.D. Davis;David Peterson;2%;52%;Groundout: SS-1B
+t2;0-0;1;---;2,(0-1) CX;;SFG;Patrick Bailey;David Peterson;-3%;50%;Single to SS (Ground Ball)
+t2;0-0;1;1--;4,(3-0) BBBB;;SFG;Luis Matos;David Peterson;-4%;46%;Walk; Bailey to 2B
+t2;0-0;1;12-;3,(0-2) FCS;O;SFG;Brandon Crawford;David Peterson;5%;51%;Strikeout Swinging
+t2;0-0;2;12-;1,(0-0) B;;SFG;Casey Schmitt;David Peterson;-1%;50%;Wild Pitch; Bailey to 3B
+t2;0-0;2;1-3;2,(1-0) B.1X;O;SFG;Casey Schmitt;David Peterson;5%;55%;Lineout: SS (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Giants 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Giants' Ross Stripling facing 5-6-7 
+b2;0-0;0;---;5,(2-2) BCFBS;O;NYM;Jeff McNeil;Ross Stripling;-2%;53%;Strikeout Swinging
+b2;0-0;1;---;3,(0-2) TCX;O;NYM;Starling Marte;Ross Stripling;-2%;51%;Flyball: RF
+b2;0-0;2;---;2,(0-1) CX;O;NYM;Mark Canha;Ross Stripling;-1%;50%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Mets 0.
+Top of the 3rd, Giants Batting, Tied 0-0, Mets' David Peterson facing 9-1-2 
+t3;0-0;0;---;7,(3-2) CFBBBFB;;SFG;Bryce Johnson;David Peterson;-4%;46%;Walk
+t3;0-0;0;1--;2,(0-1) 1CX;O;SFG;Austin Slater;David Peterson;4%;50%;Lineout: SS
+t3;0-0;1;1--;2,(0-1) CB;;SFG;Wilmer Flores;David Peterson;-2%;48%;Wild Pitch; Johnson to 2B
+t3;0-0;1;-2-;3,(1-1) CB.H;;SFG;Wilmer Flores;David Peterson;-2%;46%;Hit By Pitch
+t3;0-0;1;12-;1,(0-0) >B;;SFG;Thairo Estrada;David Peterson;-3%;43%;Johnson Steals 3B
+;;;;;;;;;Tag play Challenged by SFG manager (Gabe Kapler): Original call overturned as shown.
+t3;0-0;1;1-3;2,(1-0) >B.X;RO;SFG;Thairo Estrada;David Peterson;-1%;41%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Johnson Scores; Estrada to 1B
+t3;1-0;2;1--;1,(0-0) 1>S;O;SFG;J.D. Davis;David Peterson;2%;43%;Estrada Caught Stealing 2B (C-2B)
+;;;;;;;;;1 run, 0 hits, 0 errors, 0 LOB. Giants 1, Mets 0.
+Bottom of the 3rd, Mets Batting, Behind 0-1, Giants' Alex Wood facing 8-9-1 
+;;;;;;;;;Alex Wood replaces Ross Stripling pitching
+b3;0-1;0;---;3,(0-2) .SCS;O;NYM;Brett Baty;Alex Wood;-3%;41%;Strikeout Swinging
+b3;0-1;1;---;5,(3-1) CBBB.B;;NYM;Francisco Alvarez;Alex Wood;3%;44%;Walk
+b3;0-1;1;1--;1,(0-0) H;;NYM;Brandon Nimmo;Alex Wood;4%;48%;Hit By Pitch; Alvarez to 2B
+b3;0-1;1;12-;9,(3-2) CBBCFFBFB;;NYM;Tommy Pham;Alex Wood;7%;55%;Walk; Alvarez to 3B; Nimmo to 2B
+b3;0-1;1;123;1,(0-0) X;O;NYM;Francisco Lindor;Alex Wood;-9%;46%;Flyball: CF (Short CF)
+b3;0-1;2;123;10,(3-2) BCFBFFB.>F>F>B;R;NYM;Pete Alonso;Alex Wood;12%;58%;Walk; Alvarez Scores; Nimmo to 3B; Pham to 2B
+b3;1-1;2;123;3,(0-2) CCX;RR;NYM;Jeff McNeil;Alex Wood;18%;76%;Single to 2B (Ground Ball to SS-2B); Nimmo Scores; Pham Scores/Adv on E6/No RBI/unER; Alonso to 2B
+b3;3-1;2;12-;6,(3-2) VBBCS>F>T;O;NYM;Starling Marte;Alex Wood;-3%;73%;Strikeout Swinging
+;;;;;;;;;3 runs, 1 hit, 1 error, 2 LOB. Giants 1, Mets 3.
+Top of the 4th, Giants Batting, Behind 1-3, Mets' David Peterson facing 4-5-6 
+t4;1-3;0;---;2,(1-0) BX;O;SFG;J.D. Davis;David Peterson;3%;76%;Lineout: CF (Deep CF)
+t4;1-3;1;---;6,(3-2) BCBBCC;O;SFG;Patrick Bailey;David Peterson;2%;78%;Strikeout Looking
+t4;1-3;2;---;3,(1-1) BCX;;SFG;Luis Matos;David Peterson;-1%;76%;Single to 3B (Ground Ball to Weak 3B)
+t4;1-3;2;1--;4,(2-1) 1S+1BBX;;SFG;Brandon Crawford;David Peterson;-4%;72%;Double to RF (Line Drive to RF Line); Matos to 3B
+t4;1-3;2;-23;2,(0-1) TX;O;SFG;Casey Schmitt;David Peterson;7%;79%;Groundout: 2B-1B (Deep 2B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Giants 1, Mets 3.
+Bottom of the 4th, Mets Batting, Ahead 3-1, Giants' Alex Wood facing 7-8-9 
+b4;3-1;0;---;3,(1-1) CBX;R;NYM;Mark Canha;Alex Wood;7%;86%;Home Run (Line Drive to Deep LF)
+b4;4-1;0;---;3,(0-2) FCC;O;NYM;Brett Baty;Alex Wood;-1%;85%;Strikeout Looking
+b4;4-1;1;---;7,(3-2) .CBBCBFX;O;NYM;Francisco Alvarez;Alex Wood;-1%;85%;Flyball: CF (CF-RF)
+b4;4-1;2;---;6,(3-2) BSFBBB;;NYM;Brandon Nimmo;Alex Wood;1%;85%;Walk
+;;;;;;;;;Tristan Beck replaces Alex Wood pitching
+b4;4-1;2;1--;3,(0-2) .CCX;R;NYM;Tommy Pham;Tristan Beck;6%;91%;Double to 2B (Fly Ball to Deep 1B); Nimmo Scores
+b4;5-1;2;-2-;6,(3-2) BFF.BBB;;NYM;Francisco Lindor;Tristan Beck;0%;91%;Walk
+b4;5-1;2;12-;5,(1-2) SS*BF>C;O;NYM;Pete Alonso;Tristan Beck;-1%;90%;Strikeout Looking
+;;;;;;;;;2 runs, 2 hits, 0 errors, 2 LOB. Giants 1, Mets 5.
+Top of the 5th, Giants Batting, Behind 1-5, Mets' Grant Hartwig facing 9-1-2 
+;;;;;;;;;Grant Hartwig replaces David Peterson pitchingJoc Pederson pinch hits for Bryce Johnson (CF) batting 9th
+t5;1-5;0;---;2,(1-0) ..BX;O;SFG;Joc Pederson;Grant Hartwig;2%;92%;Groundout: 2B-1B
+t5;1-5;1;---;2,(1-0) BX;O;SFG;Austin Slater;Grant Hartwig;1%;93%;Groundout: SS-1B (Deep SS)
+t5;1-5;2;---;5,(2-2) BBCFX;;SFG;Wilmer Flores;Grant Hartwig;-1%;92%;Single to LF (Line Drive)
+t5;1-5;2;1--;3,(0-2) CFC;O;SFG;Thairo Estrada;Grant Hartwig;1%;93%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 1, Mets 5.
+Bottom of the 5th, Mets Batting, Ahead 5-1, Giants' Tristan Beck facing 5-6-7 
+;;;;;;;;;Luis Matos moves from RF to CF Joc Pederson moves from PH to RF 
+b5;5-1;0;---;1,(0-0) ..X;O;NYM;Jeff McNeil;Tristan Beck;-1%;93%;Flyball: LF (Short LF Line)
+b5;5-1;1;---;5,(3-1) BBBCX;O;NYM;Starling Marte;Tristan Beck;0%;92%;Groundout: 3B-1B
+b5;5-1;2;---;6,(2-2) BCF.BFX;;NYM;Mark Canha;Tristan Beck;0%;93%;Single to 2B (Fly Ball to Short CF)
+b5;5-1;2;1--;2,(0-1) CX;;NYM;Brett Baty;Tristan Beck;0%;93%;Single to RF (Line Drive to Short RF); Canha to 2B
+b5;5-1;2;12-;1,(0-0) X;O;NYM;Francisco Alvarez;Tristan Beck;-1%;92%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Giants 1, Mets 5.
+Top of the 6th, Giants Batting, Behind 1-5, Mets' Grant Hartwig facing 4-5-6 
+t6;1-5;0;---;5,(2-2) SBCBS;O;SFG;J.D. Davis;Grant Hartwig;2%;94%;Strikeout Swinging
+t6;1-5;1;---;6,(3-2) BBSBCT;O;SFG;Patrick Bailey;Grant Hartwig;1%;95%;Strikeout Swinging
+t6;1-5;2;---;3,(1-1) BCX;;SFG;Luis Matos;Grant Hartwig;-1%;94%;Single to CF (Line Drive to LF-CF)
+t6;1-5;2;1--;6,(3-2) BBCB1C>B;;SFG;Brandon Crawford;Grant Hartwig;-1%;92%;Walk; Matos to 2B
+t6;1-5;2;12-;1,(0-0) X;O;SFG;Casey Schmitt;Grant Hartwig;3%;95%;Popfly: 1B (Weak 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Giants 1, Mets 5.
+Bottom of the 6th, Mets Batting, Ahead 5-1, Giants' Tristan Beck facing 1-2-3 
+b6;5-1;0;---;3,(0-2) CFX;O;NYM;Brandon Nimmo;Tristan Beck;0%;95%;Flyball: LF
+b6;5-1;1;---;5,(2-2) BFFBX;;NYM;Tommy Pham;Tristan Beck;0%;95%;Single to RF (Line Drive to Short CF-RF)
+b6;5-1;1;1--;4,(1-2) FF.B1X;OO;NYM;Francisco Lindor;Tristan Beck;-1%;94%;Ground Ball Double Play: 1B-SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Giants 1, Mets 5.
+Top of the 7th, Giants Batting, Behind 1-5, Mets' Jeff Brigham facing 9-1-2 
+;;;;;;;;;Jeff Brigham replaces Grant Hartwig pitching
+t7;1-5;0;---;6,(3-2) .BBBCF.B;;SFG;Joc Pederson;Jeff Brigham;-3%;92%;Walk
+;;;;;;;;;Blake Sabol pinch hits for Austin Slater (LF) batting 1st
+t7;1-5;0;1--;5,(2-2) .BSFBX;RR;SFG;Blake Sabol;Jeff Brigham;-10%;82%;Home Run (Fly Ball to Deep LF-CF); Pederson Scores
+t7;3-5;0;---;3,(0-2) FFS;O;SFG;Wilmer Flores;Jeff Brigham;3%;85%;Strikeout Swinging
+t7;3-5;1;---;1,(0-0) X;;SFG;Thairo Estrada;Jeff Brigham;-4%;81%;Single to CF (Line Drive)
+;;;;;;;;;Dominic Leone replaces Jeff Brigham pitching
+t7;3-5;1;1--;1,(0-0) .1X;R;SFG;J.D. Davis;Dominic Leone;-15%;66%;Double to RF (Line Drive to Deep CF-RF); Estrada Scores
+t7;4-5;1;-2-;6,(3-2) BBFBFC;O;SFG;Patrick Bailey;Dominic Leone;7%;73%;Strikeout Looking
+;;;;;;;;;LaMonte Wade Jr. pinch hits for Luis Matos (CF) batting 6th
+t7;4-5;2;-2-;,(3-0) .VVVV;;SFG;LaMonte Wade Jr.;Dominic Leone;-2%;71%;Intentional Walk
+;;;;;;;;;Brooks Raley replaces Dominic Leone pitching
+t7;4-5;2;12-;6,(1-2) .FBCFFX;O;SFG;Brandon Crawford;Brooks Raley;8%;79%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;3 runs, 3 hits, 0 errors, 2 LOB. Giants 4, Mets 5.
+Bottom of the 7th, Mets Batting, Ahead 5-4, Giants' Tyler Rogers facing 4-5-6 
+;;;;;;;;;Tyler Rogers replaces Tristan Beck pitchingBlake Sabol moves from PH to LF LaMonte Wade Jr. moves from PH to CF 
+b7;5-4;0;---;1,(0-0) ...X;;NYM;Pete Alonso;Tyler Rogers;5%;84%;Double to RF (Ground Ball)
+b7;5-4;0;-2-;3,(0-2) FFX;O;NYM;Jeff McNeil;Tyler Rogers;-1%;84%;Groundout: 1B unassisted (2B-1B); Alonso to 3B
+b7;5-4;1;--3;5,(1-2) CSFBX;R;NYM;Starling Marte;Tyler Rogers;5%;89%;Single to LF (Fly Ball to Short CF); Alonso Scores
+b7;6-4;1;1--;6,(2-2) CBBFFX;O;NYM;Mark Canha;Tyler Rogers;-1%;88%;Groundout: 3B-2B/Forceout at 2B (Weak 3B); Canha to 1B
+b7;6-4;2;1--;3,(0-2) CCX;;NYM;Brett Baty;Tyler Rogers;1%;89%;Reached on Interference on C; Canha to 2B; Baty to 1B
+;;;;;;;;; Challenged by SFG manager (Gabe Kapler): Original call upheld upon review.
+b7;6-4;2;12-;1,(0-0) >B;;NYM;Francisco Alvarez;Tyler Rogers;1%;89%;Canha Steals 3B; Baty Steals 2B
+b7;6-4;2;-23;2,(1-0) >B.X;O;NYM;Francisco Alvarez;Tyler Rogers;-3%;87%;Groundout: SS-1B
+;;;;;;;;;1 run, 2 hits, 1 error, 2 LOB. Giants 4, Mets 6.
+Top of the 8th, Giants Batting, Behind 4-6, Mets' Brooks Raley facing 8-9-1 
+t8;4-6;0;---;7,(3-2) SBS.BFBC;O;SFG;Casey Schmitt;Brooks Raley;4%;90%;Strikeout Looking
+t8;4-6;1;---;6,(2-2) CCBFBH;;SFG;Joc Pederson;Brooks Raley;-4%;86%;Hit By Pitch
+t8;4-6;1;1--;4,(0-2) FCFS;O;SFG;Blake Sabol;Brooks Raley;5%;91%;Strikeout Swinging
+;;;;;;;;;Adam Ottavino replaces Brooks Raley pitching
+t8;4-6;2;1--;2,(1-0) .BB;;SFG;Wilmer Flores;Adam Ottavino;-1%;90%;Wild Pitch; Pederson to 2B
+t8;4-6;2;-2-;4,(3-0) .BB.BB;;SFG;Wilmer Flores;Adam Ottavino;-3%;87%;Walk
+t8;4-6;2;12-;2,(1-0) BH;;SFG;Thairo Estrada;Adam Ottavino;-6%;81%;Hit By Pitch; Pederson to 3B; Flores to 2B
+t8;4-6;2;123;3,(0-2) CFS;O;SFG;J.D. Davis;Adam Ottavino;13%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 3 LOB. Giants 4, Mets 6.
+Bottom of the 8th, Mets Batting, Ahead 6-4, Giants' Ryan Walker facing 1-2-3 
+;;;;;;;;;Ryan Walker replaces Tyler Rogers pitching
+b8;6-4;0;---;1,(0-0) .X;O;NYM;Brandon Nimmo;Ryan Walker;-1%;93%;Flyball: LF (Deep LF)
+b8;6-4;1;---;3,(0-2) CSX;;NYM;Tommy Pham;Ryan Walker;1%;95%;Double to LF (Ground Ball)
+b8;6-4;1;-2-;2,(0-1) CX;O;NYM;Francisco Lindor;Ryan Walker;-1%;94%;Flyball: RF (CF-RF)
+b8;6-4;2;-2-;2,(0-1) CX;RR;NYM;Pete Alonso;Ryan Walker;5%;99%;Home Run (Fly Ball to Deep LF-CF); Pham Scores
+b8;8-4;2;---;2,(1-0) BX;;NYM;Jeff McNeil;Ryan Walker;0%;99%;Single to LF (Line Drive to Short LF)
+b8;8-4;2;1--;4,(1-2) FB>FX;O;NYM;Starling Marte;Ryan Walker;0%;99%;Groundout: SS-2B/Forceout at 2B (SS-2B); Marte to 1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Giants 4, Mets 8.
+Top of the 9th, Giants Batting, Behind 4-8, Mets' David Robertson facing 5-6-7 
+;;;;;;;;;David Robertson replaces Adam Ottavino pitchingLuis Guillorme replaces Brett Baty playing 3B batting 8th
+t9;4-8;0;---;7,(3-2) ..CC.BBFBC;O;SFG;Patrick Bailey;David Robertson;1%;99%;Strikeout Looking
+t9;4-8;1;---;5,(1-2) FFBF.X;O;SFG;LaMonte Wade Jr.;David Robertson;0%;100%;Groundout: P-1B (Front of Home)
+t9;4-8;2;---;3,(0-2) SCS;O;SFG;Brandon Crawford;David Robertson;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 4, Mets 8.

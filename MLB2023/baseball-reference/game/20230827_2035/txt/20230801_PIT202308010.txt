@@ -1,0 +1,247 @@
+
+Scorebox Meta
+20230801
+7:05 p.m. Local
+19427
+PNC Park
+124
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;0;0;0;0;0;0;1;0;0;1;6;0
+https://cdn.ssref.net/req/202308251/tlogo/br/PIT-2023.png;/teams/PIT/2023.shtml;0;3;0;1;0;0;0;0;X;4;8;0
+
+Batting home
+Joshua Palacios;/players/p/palacjo01.shtml;RF;3;0;0;1;0;0;4;.246;.275;.386;.661;11;8;-0.034; 0.55;0.006;-0.040;-0.00%; 0.06; -0.8;4;0;SF
+Bryan Reynolds;/players/r/reynobr01.shtml;LF;4;0;1;0;0;0;4;.258;.322;.434;.756;18;11;-0.013; 0.41;0.018;-0.031;-0.00%; 0.04; -0.2;3;0;
+Andrew McCutchen;/players/m/mccutan01.shtml;DH;4;0;1;0;0;1;4;.257;.378;.397;.775;13;10;0.006; 0.37;0.026;-0.020;0%; 0.04; 0.0;;;
+Jack Suwinski;/players/s/suwinja01.shtml;CF;4;0;0;0;0;1;4;.225;.341;.496;.838;11;11;-0.057; 0.51;0.000;-0.057;-0.00%; 0.05; -1.2;1;0;
+Connor Joe;/players/j/joeco01.shtml;1B;4;1;1;0;0;1;4;.243;.330;.414;.744;11;8;-0.002; 0.46;0.026;-0.028;0%; 0.05; -0.4;6;1;
+Endy Rodríguez;/players/r/rodrien01.shtml;C;3;1;1;1;0;1;3;.231;.286;.462;.747;11;8;0.115; 0.75;0.142;-0.027; 0.01%; 0.08; 0.7;8;0;3B
+Jared Triolo;/players/t/triolja01.shtml;3B;3;1;1;0;0;2;3;.268;.327;.289;.616;11;8;-0.040; 0.60;0.016;-0.056;-0.00%; 0.06; -0.4;0;0;
+Liover Peguero;/players/p/pegueli01.shtml;2B;3;1;1;2;0;1;3;.250;.300;.607;.907;8;6;0.134; 0.65;0.153;-0.018; 0.01%; 0.07; 1.2;3;2;HR
+Alika Williams;/players/w/willial04.shtml;SS;3;0;2;0;0;0;3;.250;.308;.333;.641;13;7;0.041; 0.35;0.047;-0.006; 0.00%; 0.03; 0.8;1;2;2B
+Johan Oviedo;/players/o/oviedjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;2;
+Angel Perdomo;/players/p/perdoan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+David Bednar;/players/b/bednada01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Alika Williams (1, off Matt Manning).
+
+
+3B: Endy Rodríguez (2, off Matt Manning).
+
+
+HR: Liover Peguero (3, off Matt Manning, 2nd inn, 1 on, 2 outs to Deep LF).
+
+
+SF: Joshua Palacios (1, off Matt Manning).
+
+
+TB: Liover Peguero 4; Endy Rodríguez 3; Alika Williams 3; Andrew McCutchen; Connor Joe; Bryan Reynolds; Jared Triolo.
+
+
+RBI: Liover Peguero 2 (8); Endy Rodríguez (6); Joshua Palacios (16).
+
+
+2-out RBI: Liover Peguero 2.
+
+
+Team LOB: 4.
+With RISP: 1 for 6.
+
+Batting away
+Zach McKinstry;/players/m/mckinza01.shtml;2B;3;0;1;0;0;0;3;.239;.313;.366;.679;12;9;0.031; 0.64;0.058;-0.027; 0.01%; 0.17; 0.3;0;4;2B
+Andy Ibáñez;/players/i/ibanean01.shtml;PH-2B;1;0;0;0;0;1;1;.240;.275;.412;.687;5;3;-0.024; 0.92;0.000;-0.024;-0.00%; 0.25; -0.2;0;0;
+Riley Greene;/players/g/greenri03.shtml;CF;4;0;1;0;0;0;4;.307;.371;.467;.838;13;11;-0.044; 0.59;0.019;-0.062;-0.01%; 0.16; -0.5;1;0;2B
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;2;0;1;0;2;0;4;.228;.308;.404;.712;17;8;0.054; 0.77;0.062;-0.007; 0.01%; 0.21; 0.6;5;0;
+Kerry Carpenter;/players/c/carpeke01.shtml;RF;4;0;0;0;0;1;4;.254;.316;.455;.772;9;6;-0.163; 1.35;0.000;-0.163;-0.03%; 0.37; -2.0;3;0;GDP
+Matt Vierling;/players/v/vierlma01.shtml;3B;4;0;0;0;0;2;4;.265;.327;.384;.711;16;11;-0.082; 0.79;0.000;-0.082;-0.01%; 0.21; -1.0;1;1;
+Javier Báez;/players/b/baezja01.shtml;SS;4;1;1;0;0;1;4;.225;.264;.329;.593;13;9;-0.015; 0.58;0.028;-0.044;-0.00%; 0.16; -0.1;2;0;
+Miguel Cabrera;/players/c/cabremi01.shtml;DH;3;0;1;0;0;0;3;.253;.333;.328;.662;14;7;-0.025; 0.72;0.012;-0.037;-0.00%; 0.20; -0.3;;;
+Akil Baddoo;/players/b/baddoak01.shtml;LF;3;0;1;1;0;1;3;.211;.307;.332;.639;11;7;0.011; 0.66;0.044;-0.033; 0.00%; 0.18; 0.5;5;0;
+Jake Rogers;/players/r/rogerja03.shtml;C;3;0;0;0;0;2;3;.212;.294;.433;.727;11;8;-0.093; 0.93;0.000;-0.093;-0.01%; 0.26; -1.1;7;0;GDP
+Matt Manning;/players/m/mannima02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chasen Shreve;/players/s/shrevch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trey Wingenter;/players/w/wingetr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Zach McKinstry (14, off Johan Oviedo); Riley Greene (14, off Johan Oviedo).
+
+
+TB: Riley Greene 2; Zach McKinstry 2; Spencer Torkelson; Javier Báez; Akil Baddoo; Miguel Cabrera.
+
+
+GIDP: Kerry Carpenter (2); Jake Rogers (3).
+
+
+RBI: Akil Baddoo (23).
+
+
+Team LOB: 5.
+With RISP: 1 for 5.
+
+Pitching home
+Johan Oviedo;/players/o/oviedjo01.shtml; W (5-11); 7 ;6;1;1;2;5;0;4.42;27;99;62;39;8;15;6;14;8;0;64;;;0.268; 0.85; 0.02%; 0.09; 2.7
+Angel Perdomo;/players/p/perdoan01.shtml; H (4); 1 ;0;0;0;0;1;0;3.57;3;13;9;7;1;1;0;2;0;0;;0;0;0.046; 0.59; 0.00%; 0.06; 0.5
+David Bednar;/players/b/bednada01.shtml; S (22); 1 ;0;0;0;0;2;0;1.24;3;9;8;3;4;1;0;1;1;0;;0;0;0.036; 0.46; 0.00%; 0.05; 0.5
+
+Pitching away
+Matt Manning;/players/m/mannima02.shtml; L (3-3); 6 ;8;4;4;0;6;1;4.53;26;85;62;39;6;17;7;13;4;0;46;;;-0.171; 0.59;-0.03%; 0.16; -0.8
+Chasen Shreve;/players/s/shrevch01.shtml;Chasen Shreve; 1 ;0;0;0;0;0;0;4.58;3;14;8;5;0;3;0;3;2;0;;0;0;0.014; 0.18; 0.00%; 0.05; 0.5
+Trey Wingenter;/players/w/wingetr01.shtml;Trey Wingenter; 1 ;0;0;0;0;1;0;6.14;3;8;7;3;3;1;0;2;0;0;;0;0;0.007; 0.09; 0.00%; 0.02; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Chad Whitson, 1B - Roberto Ortiz, 2B - Rob Drake, 3B - Bill Miller, LF - (none), RF - (none).
+Time of Game: 2:04.
+Attendance: 19,427.
+Field Condition: Unknown.
+Start Time Weather: 75° F, Wind 6mph out to Centerfield, Cloudy, No Precipitation.
+
+div_lineups
+Tigers
+1;Zach McKinstry;/players/m/mckinza01.shtml;2B
+2;Riley Greene;/players/g/greenri03.shtml;CF
+3;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+4;Kerry Carpenter;/players/c/carpeke01.shtml;RF
+5;Matt Vierling;/players/v/vierlma01.shtml;3B
+6;Javier Báez;/players/b/baezja01.shtml;SS
+7;Miguel Cabrera;/players/c/cabremi01.shtml;DH
+8;Akil Baddoo;/players/b/baddoak01.shtml;LF
+9;Jake Rogers;/players/r/rogerja03.shtml;C
+; Matt Manning;/players/m/mannima02.shtml;P
+Pirates
+1;Joshua Palacios;/players/p/palacjo01.shtml;RF
+2;Bryan Reynolds;/players/r/reynobr01.shtml;LF
+3;Andrew McCutchen;/players/m/mccutan01.shtml;DH
+4;Jack Suwinski;/players/s/suwinja01.shtml;CF
+5;Connor Joe;/players/j/joeco01.shtml;1B
+6;Endy Rodríguez;/players/r/rodrien01.shtml;C
+7;Jared Triolo;/players/t/triolja01.shtml;3B
+8;Liover Peguero;/players/p/pegueli01.shtml;2B
+9;Alika Williams;/players/w/willial04.shtml;SS
+; Johan Oviedo;/players/o/oviedjo01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b2;1-0;2;--3;2,(1-0) BX;RR;PIT;Liover Peguero;Matt Manning;15%;80%;Home Run (Fly Ball to Deep LF); Rodríguez Scores
+b2;0-0;1;1--;4,(1-2) FBCX;R;PIT;Endy Rodríguez;Matt Manning;14%;70%;Triple to LF (Fly Ball to Deep LF-CF); Joe Scores
+t6;0-4;0;1--;1,(0-0) X;OO;DET;Kerry Carpenter;Johan Oviedo;6%;94%;Ground Ball Double Play: 2B-SS-1B
+t1;0-0;0;---;5,(1-2) FCBFX;;DET;Zach McKinstry;Johan Oviedo;-6%;44%;Double to RF (Line Drive to RF Line)
+t7;1-4;1;1--;2,(0-1) CX;OO;DET;Jake Rogers;Johan Oviedo;5%;94%;Ground Ball Double Play: SS-2B-1B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Tigers Batting, Tied 0-0, Pirates' Johan Oviedo facing 1-2-3 
+t1;0-0;0;---;5,(1-2) FCBFX;;DET;Zach McKinstry;Johan Oviedo;-6%;44%;Double to RF (Line Drive to RF Line)
+t1;0-0;0;-2-;5,(1-2) SC.FBX;O;DET;Riley Greene;Johan Oviedo;4%;48%;Flyball: LF (Deep LF)
+t1;0-0;1;-2-;7,(3-2) BCSBFVFB;;DET;Spencer Torkelson;Johan Oviedo;-2%;46%;Walk
+t1;0-0;1;12-;2,(1-0) *BX;O;DET;Kerry Carpenter;Johan Oviedo;4%;51%;Popfly: 2B (2B-1B)
+t1;0-0;2;12-;6,(2-2) CF*BB.FC;O;DET;Matt Vierling;Johan Oviedo;4%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Tigers 0, Pirates 0.
+Bottom of the 1st, Pirates Batting, Tied 0-0, Tigers' Matt Manning facing 1-2-3 
+b1;0-0;0;---;4,(1-2) BCSX;O;PIT;Joshua Palacios;Matt Manning;-2%;53%;Groundout: 2B-1B (2B-1B)
+b1;0-0;1;---;1,(0-0) X;O;PIT;Bryan Reynolds;Matt Manning;-2%;51%;Flyball: CF (Deep LF-CF)
+b1;0-0;2;---;5,(1-2) CF.BFS;O;PIT;Andrew McCutchen;Matt Manning;-1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Pirates 0.
+Top of the 2nd, Tigers Batting, Tied 0-0, Pirates' Johan Oviedo facing 6-7-8 
+t2;0-0;0;---;4,(2-1) BBFX;O;DET;Javier Báez;Johan Oviedo;2%;52%;Flyball: RF (Short RF)
+t2;0-0;1;---;5,(3-1) BBBCX;O;DET;Miguel Cabrera;Johan Oviedo;2%;54%;Popfly: 1B (Weak 2B)
+t2;0-0;2;---;2,(1-0) BX;O;DET;Akil Baddoo;Johan Oviedo;1%;55%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Pirates 0.
+Bottom of the 2nd, Pirates Batting, Tied 0-0, Tigers' Matt Manning facing 4-5-6 
+b2;0-0;0;---;4,(0-2) CFFX;O;PIT;Jack Suwinski;Matt Manning;-2%;53%;Groundout: 2B-1B (2B-1B)
+b2;0-0;1;---;3,(1-1) BCX;;PIT;Connor Joe;Matt Manning;3%;55%;Single to CF (Ground Ball thru SS-2B)
+b2;0-0;1;1--;4,(1-2) FBCX;R;PIT;Endy Rodríguez;Matt Manning;14%;70%;Triple to LF (Fly Ball to Deep LF-CF); Joe Scores
+b2;1-0;1;--3;4,(1-2) CCBS;O;PIT;Jared Triolo;Matt Manning;-5%;64%;Strikeout Swinging
+b2;1-0;2;--3;2,(1-0) BX;RR;PIT;Liover Peguero;Matt Manning;15%;80%;Home Run (Fly Ball to Deep LF); Rodríguez Scores
+b2;3-0;2;---;6,(3-2) FBSBBX;;PIT;Alika Williams;Matt Manning;1%;80%;Single to RF (Ground Ball)
+b2;3-0;2;1--;3,(1-1) B1FX;O;PIT;Joshua Palacios;Matt Manning;-1%;79%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;3 runs, 4 hits, 0 errors, 1 LOB. Tigers 0, Pirates 3.
+Top of the 3rd, Tigers Batting, Behind 0-3, Pirates' Johan Oviedo facing 9-1-2 
+t3;0-3;0;---;6,(3-2) BCFBBS;O;DET;Jake Rogers;Johan Oviedo;2%;81%;Strikeout Swinging
+t3;0-3;1;---;4,(1-2) BFS.X;O;DET;Zach McKinstry;Johan Oviedo;1%;83%;Lineout: 2B (Deep 2B)
+t3;0-3;2;---;1,(0-0) X;;DET;Riley Greene;Johan Oviedo;-2%;81%;Double to LF (Line Drive to Deep LF-CF)
+t3;0-3;2;-2-;5,(3-1) BBFBB;;DET;Spencer Torkelson;Johan Oviedo;-1%;80%;Walk
+t3;0-3;2;12-;3,(2-0) BBX;O;DET;Kerry Carpenter;Johan Oviedo;4%;84%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Tigers 0, Pirates 3.
+Bottom of the 3rd, Pirates Batting, Ahead 3-0, Tigers' Matt Manning facing 2-3-4 
+b3;3-0;0;---;5,(2-2) CBBCX;;PIT;Bryan Reynolds;Matt Manning;2%;85%;Single to LF (Line Drive to Short LF-CF)
+b3;3-0;0;1--;1,(0-0) X;;PIT;Andrew McCutchen;Matt Manning;3%;88%;Single to RF (Fly Ball to Deep RF); Reynolds to 2B
+;;;;;;;;; Challenged by PIT manager (Derek Shelton): Original call overturned as shown.
+b3;3-0;0;12-;3,(0-2) FCX;O;PIT;Jack Suwinski;Matt Manning;-3%;85%;Flyball: LF (Deep LF)
+b3;3-0;1;12-;4,(1-2) CCBC;O;PIT;Connor Joe;Matt Manning;-2%;83%;Strikeout Looking
+b3;3-0;2;12-;6,(2-2) FBBFF.T;O;PIT;Endy Rodríguez;Matt Manning;-2%;81%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Tigers 0, Pirates 3.
+Top of the 4th, Tigers Batting, Behind 0-3, Pirates' Johan Oviedo facing 5-6-7 
+t4;0-3;0;---;3,(0-2) CFC;O;DET;Matt Vierling;Johan Oviedo;2%;83%;Strikeout Looking
+t4;0-3;1;---;3,(1-1) BFX;O;DET;Javier Báez;Johan Oviedo;2%;85%;Groundout: P-1B (Front of Home)
+t4;0-3;2;---;2,(1-0) BX;;DET;Miguel Cabrera;Johan Oviedo;-1%;84%;Single to CF (Line Drive to Deep CF)
+t4;0-3;2;1--;7,(3-2) FFBBFB>S;O;DET;Akil Baddoo;Johan Oviedo;2%;86%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Tigers 0, Pirates 3.
+Bottom of the 4th, Pirates Batting, Ahead 3-0, Tigers' Matt Manning facing 7-8-9 
+b4;3-0;0;---;3,(1-1) FBX;;PIT;Jared Triolo;Matt Manning;2%;87%;Single to LF (Line Drive to Short LF)
+b4;3-0;0;1--;1,(0-0) X;O;PIT;Liover Peguero;Matt Manning;-2%;86%;Foul Popfly: SS (Short LF into Foul Terr.)
+b4;3-0;1;1--;3,(1-1) FBX;;PIT;Alika Williams;Matt Manning;4%;90%;Ground-rule Double (Line Drive to Deep LF); Triolo to 3B
+b4;3-0;1;-23;1,(0-0) X;RO;PIT;Joshua Palacios;Matt Manning;1%;90%;Lineout: LF/Sacrifice Fly (Deep LF); Triolo Scores
+b4;4-0;2;-2-;5,(2-2) BBFCX;O;PIT;Bryan Reynolds;Matt Manning;-1%;89%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Tigers 0, Pirates 4.
+Top of the 5th, Tigers Batting, Behind 0-4, Pirates' Johan Oviedo facing 9-1-2 
+t5;0-4;0;---;3,(0-2) SS.S;O;DET;Jake Rogers;Johan Oviedo;2%;91%;Strikeout Swinging
+t5;0-4;1;---;3,(1-1) CBX;O;DET;Zach McKinstry;Johan Oviedo;1%;92%;Groundout: 1B unassisted
+t5;0-4;2;---;1,(0-0) X;O;DET;Riley Greene;Johan Oviedo;1%;93%;Lineout: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Pirates 4.
+Bottom of the 5th, Pirates Batting, Ahead 4-0, Tigers' Matt Manning facing 3-4-5 
+b5;4-0;0;---;3,(1-1) BFX;O;PIT;Andrew McCutchen;Matt Manning;-1%;92%;Groundout: 3B-1B (Weak 3B)
+b5;4-0;1;---;1,(0-0) X;O;PIT;Jack Suwinski;Matt Manning;0%;92%;Flyball: LF (LF Line)
+b5;4-0;2;---;3,(1-1) SBX;O;PIT;Connor Joe;Matt Manning;0%;91%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Pirates 4.
+Top of the 6th, Tigers Batting, Behind 0-4, Pirates' Johan Oviedo facing 3-4-5 
+t6;0-4;0;---;3,(1-1) BCX;;DET;Spencer Torkelson;Johan Oviedo;-3%;88%;Single to RF (Line Drive to Deep RF Line)
+t6;0-4;0;1--;1,(0-0) X;OO;DET;Kerry Carpenter;Johan Oviedo;6%;94%;Ground Ball Double Play: 2B-SS-1B
+t6;0-4;2;---;6,(3-2) BBCBFX;O;DET;Matt Vierling;Johan Oviedo;1%;95%;Flyball: RF (Deep 1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Tigers 0, Pirates 4.
+Bottom of the 6th, Pirates Batting, Ahead 4-0, Tigers' Matt Manning facing 6-7-8 
+b6;4-0;0;---;1,(0-0) X;O;PIT;Endy Rodríguez;Matt Manning;0%;94%;Popfly: SS (Deep 3B)
+b6;4-0;1;---;4,(1-2) CFBT;O;PIT;Jared Triolo;Matt Manning;0%;94%;Strikeout Swinging
+b6;4-0;2;---;5,(1-2) CBCFS;O;PIT;Liover Peguero;Matt Manning;0%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Pirates 4.
+Top of the 7th, Tigers Batting, Behind 0-4, Pirates' Johan Oviedo facing 6-7-8 
+t7;0-4;0;---;1,(0-0) X;;DET;Javier Báez;Johan Oviedo;-3%;91%;Single to CF (Line Drive to Deep LF-CF)
+t7;0-4;0;1--;7,(3-2) BCBFFBX;O;DET;Miguel Cabrera;Johan Oviedo;2%;93%;Groundout: P-1B (Short 1B Line); Báez to 2B
+t7;0-4;1;-2-;2,(0-1) CX;R;DET;Akil Baddoo;Johan Oviedo;-4%;89%;Single to LF (Line Drive to Short LF Line); Báez Scores
+t7;1-4;1;1--;2,(0-1) CX;OO;DET;Jake Rogers;Johan Oviedo;5%;94%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Tigers 1, Pirates 4.
+Bottom of the 7th, Pirates Batting, Ahead 4-1, Tigers' Chasen Shreve facing 9-1-2 
+;;;;;;;;;Chasen Shreve replaces Matt Manning pitching
+b7;4-1;0;---;4,(2-1) .BCBX;O;PIT;Alika Williams;Chasen Shreve;-1%;93%;Lineout: RF (Deep CF-RF)
+b7;4-1;1;---;3,(1-1) FBX;O;PIT;Joshua Palacios;Chasen Shreve;0%;93%;Flyball: LF (LF-CF)
+b7;4-1;2;---;7,(3-2) BBBCC.FX;O;PIT;Bryan Reynolds;Chasen Shreve;0%;93%;Lineout: 3B (Deep 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 1, Pirates 4.
+Top of the 8th, Tigers Batting, Behind 1-4, Pirates' Angel Perdomo facing 1-2-3 
+;;;;;;;;;Angel Perdomo replaces Johan Oviedo pitchingAndy Ibáñez pinch hits for Zach McKinstry (2B) batting 1st
+t8;1-4;0;---;5,(2-2) ..BFBFS;O;DET;Andy Ibáñez;Angel Perdomo;2%;95%;Strikeout Swinging
+t8;1-4;1;---;6,(1-2) CBFFFX;O;DET;Riley Greene;Angel Perdomo;1%;96%;Flyball: LF (Deep LF-CF)
+t8;1-4;2;---;2,(1-0) BX;O;DET;Spencer Torkelson;Angel Perdomo;1%;97%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 1, Pirates 4.
+Bottom of the 8th, Pirates Batting, Ahead 4-1, Tigers' Trey Wingenter facing 3-4-5 
+;;;;;;;;;Trey Wingenter replaces Chasen Shreve pitchingAndy Ibáñez moves from PH to 2B 
+b8;4-1;0;---;4,(1-2) ..CBFX;O;PIT;Andrew McCutchen;Trey Wingenter;0%;97%;Flyball: LF
+b8;4-1;1;---;3,(0-2) S*S.S;O;PIT;Jack Suwinski;Trey Wingenter;0%;97%;Strikeout Swinging
+b8;4-1;2;---;1,(0-0) X;O;PIT;Connor Joe;Trey Wingenter;0%;96%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 1, Pirates 4.
+Top of the 9th, Tigers Batting, Behind 1-4, Pirates' David Bednar facing 4-5-6 
+;;;;;;;;;David Bednar replaces Angel Perdomo pitching
+t9;1-4;0;---;3,(0-2) .CFS;O;DET;Kerry Carpenter;David Bednar;2%;98%;Strikeout Swinging
+t9;1-4;1;---;1,(0-0) X;O;DET;Matt Vierling;David Bednar;1%;100%;Lineout: RF
+t9;1-4;2;---;5,(1-2) SSFBS;O;DET;Javier Báez;David Bednar;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 1, Pirates 4.

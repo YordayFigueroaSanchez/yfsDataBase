@@ -1,0 +1,286 @@
+
+Scorebox Meta
+20230503
+6:40 p.m. Local
+10428
+loanDepot park
+157
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/ATL-2023.png;/teams/ATL/2023.shtml;0;7;1;0;5;0;0;1;0;14;18;1
+https://cdn.ssref.net/req/202308101/tlogo/br/MIA-2023.png;/teams/MIA/2023.shtml;0;2;2;0;0;0;2;0;0;6;12;0
+
+Batting home
+Jazz Chisholm Jr.;/players/c/chishja01.shtml;CF;3;0;1;0;1;2;4;.239;.295;.407;.702;23;12;-0.037; 0.75;0.043;-0.080;-0.03%; 0.85; -0.9;7;0;CS
+Peyton Burdick;/players/b/burdipe01.shtml;CF;1;0;0;0;0;1;1;.000;.000;.000;.000;6;3;0.000; 0.01;0.000;0.000;0%; 0.01; -0.1;2;0;
+Jorge Soler;/players/s/solerjo01.shtml;DH;5;0;0;0;0;3;5;.202;.284;.423;.708;24;18;-0.059; 0.46;0.000;-0.059;-0.04%; 0.52; -1.5;;;
+Yuli Gurriel;/players/g/gourryu01.shtml;1B;5;1;2;0;0;0;5;.310;.355;.466;.820;29;21;0.031; 0.23;0.040;-0.009; 0.02%; 0.27; 0.2;6;0;2B
+Luis Arraez;/players/a/arraelu01.shtml;2B;3;0;1;1;0;0;3;.432;.491;.547;1.038;8;6;0.024; 0.53;0.049;-0.025; 0.02%; 0.59; 0.5;1;1;2B
+Xavier Edwards;/players/e/edwarxa01.shtml;2B;2;1;1;0;0;0;2;.333;.333;.333;.667;3;3;0.001; 0.01;0.001;0.000; 0.00%; 0.01; 0.2;0;0;
+Jesús Sánchez;/players/s/sanchje02.shtml;LF-RF;4;3;3;2;0;0;4;.255;.356;.431;.787;16;10;0.049; 0.33;0.050;-0.001; 0.03%; 0.37; 2.3;1;0;HR
+Jean Segura;/players/s/segurje01.shtml;3B;3;1;1;0;0;0;3;.200;.240;.232;.472;10;8;-0.045; 0.73;0.041;-0.087;-0.03%; 0.82; -0.3;1;1;2B
+Bryan De La Cruz;/players/d/delacbr01.shtml;LF;1;0;0;0;0;1;1;.250;.291;.365;.656;4;3;-0.002; 0.08;0.000;-0.002;-0.00%; 0.09; -0.2;1;0;
+Garrett Hampson;/players/h/hampsga01.shtml;RF-SS;4;0;1;0;0;2;4;.265;.308;.449;.757;13;10;-0.010; 0.34;0.016;-0.027;-0.01%; 0.39; -0.7;2;2;
+Nick Fortes;/players/f/forteni01.shtml;C;4;0;2;2;0;1;4;.222;.288;.278;.566;17;10;0.038; 0.46;0.051;-0.014; 0.03%; 0.53; 0.9;6;0;
+Jon Berti;/players/b/bertijo01.shtml;SS-3B;3;0;0;0;1;1;4;.241;.309;.356;.666;15;7;0.006; 0.48;0.042;-0.036; 0.00%; 0.54; 0.8;0;3;
+Braxton Garrett;/players/g/garrebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Devin Smeltzer;/players/s/smeltde01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Jacob Stallings;/players/s/stallja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jean Segura (3, off Kyle Wright); Yuli Gurriel (3, off Kyle Wright); Luis Arraez (6, off Kyle Wright).
+
+
+HR: Jesús Sánchez (2, off Dylan Lee, 7th inn, 1 on, 1 out to Deep CF).
+
+
+TB: Jesús Sánchez 6; Yuli Gurriel 3; Jean Segura 2; Luis Arraez 2; Nick Fortes 2; Garrett Hampson; Jazz Chisholm Jr.; Xavier Edwards.
+
+
+RBI: Nick Fortes 2 (5); Jesús Sánchez 2 (6); Luis Arraez (12).
+
+
+2-out RBI: Nick Fortes.
+
+
+Team LOB: 7.
+With RISP: 3 for 11.
+
+Batting away
+Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF;5;2;1;3;1;1;6;.355;.444;.595;1.039;22;13;0.042; 0.33;0.075;-0.033; 0.03%; 0.45; 1.6;2;0;HR,GDP
+Matt Olson;/players/o/olsonma02.shtml;1B;5;1;1;0;0;2;5;.246;.369;.517;.886;16;13;-0.031; 0.27;0.002;-0.033;-0.03%; 0.37; -0.7;5;1;
+Austin Riley;/players/r/rileyau01.shtml;3B;5;1;1;2;0;1;5;.239;.331;.427;.758;16;10;-0.010; 0.21;0.014;-0.024;-0.01%; 0.28; 1.1;1;3;HR
+Sean Murphy;/players/m/murphse01.shtml;C;3;1;2;0;1;0;5;.289;.439;.633;1.072;22;13;0.047; 0.24;0.048;-0.001; 0.04%; 0.32; 0.7;11;1;HBP
+Ozzie Albies;/players/a/albieoz01.shtml;2B;5;2;4;2;0;0;5;.275;.318;.567;.884;9;6;0.101; 0.46;0.102;-0.001; 0.08%; 0.62; 2.9;2;1;HR,2·2B
+Vaughn Grissom;/players/g/grissva01.shtml;SS;5;1;1;0;0;1;5;.276;.323;.293;.616;15;12;0.041; 0.61;0.074;-0.034; 0.03%; 0.83; -0.8;1;2;
+Marcell Ozuna;/players/o/ozunama01.shtml;DH;5;3;3;5;0;0;5;.147;.247;.338;.585;10;8;0.218; 0.56;0.219;-0.001; 0.18%; 0.75; 3.2;;;2·HR
+Kevin Pillar;/players/p/pillake01.shtml;LF;5;2;3;0;0;1;5;.259;.295;.414;.709;16;12;0.029; 0.22;0.034;-0.005; 0.02%; 0.29; 1.0;1;0;
+Michael Harris II;/players/h/harrimi04.shtml;CF;4;1;2;2;0;0;4;.237;.310;.368;.678;13;10;0.056; 0.34;0.074;-0.018; 0.04%; 0.46; 1.2;2;0;HR
+Sam Hilliard;/players/h/hillisa01.shtml;CF;1;0;0;0;0;0;1;.271;.338;.492;.830;1;1;0.000; 0.01;0.000;0.000;0%; 0.01; -0.8;1;0;GDP
+Kyle Wright;/players/w/wrighky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Collin McHugh;/players/m/mchugco01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Jesse Chavez;/players/c/chaveje01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dylan Lee;/players/l/leedy01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kirby Yates;/players/y/yateski01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+A.J. Minter;/players/m/minteaj01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ozzie Albies 2 (6, 2 off Braxton Garrett).
+
+
+HR: Marcell Ozuna 2 (4, 2 off Braxton Garrett, 2nd inn, 3 on, 0 outs to Deep LF Line; 3rd inn, 0 on, 0 outs to Deep LF Line); Michael Harris II (1, off Braxton Garrett, 2nd inn, 1 on, 0 outs to Deep RF); Ronald Acuna Jr. (6, off Braxton Garrett, 5th inn, 2 on, 1 out to Deep CF); Austin Riley (6, off Devin Smeltzer, 5th inn, 1 on, 1 out to Deep LF); Ozzie Albies (9, off Devin Smeltzer, 8th inn, 0 on, 1 out to Deep LF).
+
+
+HBP: Sean Murphy (4, by Devin Smeltzer).
+
+
+TB: Marcell Ozuna 9; Ozzie Albies 9; Michael Harris II 5; Austin Riley 4; Ronald Acuna Jr. 4; Kevin Pillar 3; Sean Murphy 2; Matt Olson; Vaughn Grissom.
+
+
+GIDP: Sam Hilliard (1); Ronald Acuna Jr. (3).
+
+
+RBI: Marcell Ozuna 5 (7); Ronald Acuna Jr. 3 (19); Ozzie Albies 2 (26); Michael Harris II 2 (3); Austin Riley 2 (18).
+
+
+2-out RBI: Ozzie Albies.
+
+
+Team LOB: 5.
+With RISP: 4 for 7.
+
+Pitching home
+Braxton Garrett;/players/g/garrebr01.shtml; L (1-1); 4.1;14;11;11;2;3;4;5.81;28;85;57;37;9;11;6;17;8;0;-8;;;-0.477; 0.57;-0.32%; 0.64; -8.7
+Devin Smeltzer;/players/s/smeltde01.shtml;Devin Smeltzer; 3.2;3;3;3;0;2;2;6.89;15;47;34;20;5;9;3;9;3;0;;0;0;-0.016; 0.02;-0.01%; 0.02; -1.2
+Jacob Stallings;/players/s/stallja01.shtml;Jacob Stallings; 1 ;1;0;0;0;1;0;4.50;3;8;7;3;0;4;2;0;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+Pitching away
+Kyle Wright;/players/w/wrighky01.shtml;Kyle Wright; 2 ;6;4;3;1;3;0;5.79;14;55;34;22;2;10;4;6;4;0;32;;;-0.097; 0.65;-0.08%; 0.88; -3.0
+Collin McHugh;/players/m/mchugco01.shtml; W (1-0); 3 ;3;0;0;0;1;0;2.70;10;41;28;20;3;5;4;5;3;0;;2;1;0.100; 0.69; 0.08%; 0.93; 1.6
+Jesse Chavez;/players/c/chaveje01.shtml;Jesse Chavez; 1 ;1;0;0;1;1;0;3.00;5;26;14;7;2;5;1;2;0;0;;0;0;0.003; 0.08; 0.00%; 0.11; 0.5
+Dylan Lee;/players/l/leedy01.shtml;Dylan Lee; 1 ;2;2;2;0;2;1;3.14;5;16;14;8;4;2;1;2;0;0;;0;0;-0.001; 0.04;-0.00%; 0.05; -1.5
+Kirby Yates;/players/y/yateski01.shtml;Kirby Yates; 1 ;0;0;0;0;3;0;3.38;3;17;11;4;1;6;0;0;0;0;;0;0;0.002; 0.02; 0.00%; 0.03; 0.5
+A.J. Minter;/players/m/minteaj01.shtml;A.J. Minter; 1 ;0;0;0;0;1;0;7.98;3;13;10;6;2;2;0;2;1;0;;0;0;0.001; 0.01; 0.00%; 0.01; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Kyle Wright (2).
+HBP: Devin Smeltzer (3; Sean Murphy).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Kyle Wright (2).
+HBP: Devin Smeltzer (3; Sean Murphy).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Charlie Ramos, 1B - Ramon De Jesus, 2B - Doug Eddings, 3B - Lance Barrett, LF - (none), RF - (none).
+Time of Game: 2:37.
+Attendance: 10,428.
+Start Time Weather: 72° F, Wind 0mph, In Dome.
+
+div_lineups
+Braves
+1;Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF
+2;Matt Olson;/players/o/olsonma02.shtml;1B
+3;Austin Riley;/players/r/rileyau01.shtml;3B
+4;Sean Murphy;/players/m/murphse01.shtml;C
+5;Ozzie Albies;/players/a/albieoz01.shtml;2B
+6;Vaughn Grissom;/players/g/grissva01.shtml;SS
+7;Marcell Ozuna;/players/o/ozunama01.shtml;DH
+8;Kevin Pillar;/players/p/pillake01.shtml;LF
+9;Michael Harris II;/players/h/harrimi04.shtml;CF
+; Kyle Wright;/players/w/wrighky01.shtml;P
+Marlins
+1;Jazz Chisholm Jr.;/players/c/chishja01.shtml;CF
+2;Jorge Soler;/players/s/solerjo01.shtml;DH
+3;Yuli Gurriel;/players/g/gourryu01.shtml;1B
+4;Luis Arraez;/players/a/arraelu01.shtml;2B
+5;Jesús Sánchez;/players/s/sanchje02.shtml;LF
+6;Jean Segura;/players/s/segurje01.shtml;3B
+7;Garrett Hampson;/players/h/hampsga01.shtml;RF
+8;Nick Fortes;/players/f/forteni01.shtml;C
+9;Jon Berti;/players/b/bertijo01.shtml;SS
+; Braxton Garrett;/players/g/garrebr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;0-0;0;123;1,(0-0) X;RRRR;ATL;Marcell Ozuna;Braxton Garrett;17%;84%;Home Run (Fly Ball to Deep LF Line); Murphy Scores; Albies Scores; Grissom Scores
+b3;3-8;0;12-;4,(1-2) .CFBX;OO;MIA;Jean Segura;Collin McHugh;9%;91%;Double Play: Lineout: 3B (SS-3B Hole); Arraez out at 2B/3B-2B
+t2;0-0;0;12-;4,(2-1) *BBFX;;ATL;Vaughn Grissom;Braxton Garrett;7%;67%;Single to RF (Line Drive); Murphy to 3B; Albies to 2B
+t2;4-0;0;1--;3,(1-1) .BCX;RR;ATL;Michael Harris II;Braxton Garrett;7%;93%;Home Run (Fly Ball to Deep RF); Pillar Scores
+t5;8-4;1;12-;1,(0-0) X;RRR;ATL;Ronald Acuna Jr.;Braxton Garrett;7%;98%;Home Run (Line Drive to Deep CF); Ozuna Scores; Pillar Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Braves Batting, Tied 0-0, Marlins' Braxton Garrett facing 1-2-3 
+t1;0-0;0;---;4,(1-2) BFSX;O;ATL;Ronald Acuna Jr.;Braxton Garrett;-2%;48%;Flyball: RF (Deep RF)
+t1;0-0;1;---;5,(2-2) BFBFC;O;ATL;Matt Olson;Braxton Garrett;-2%;46%;Strikeout Looking
+t1;0-0;2;---;1,(0-0) X;O;ATL;Austin Riley;Braxton Garrett;-1%;45%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Marlins 0.
+Bottom of the 1st, Marlins Batting, Tied 0-0, Braves' Kyle Wright facing 1-2-3 
+b1;0-0;0;---;6,(3-2) BBFSBC;O;MIA;Jazz Chisholm Jr.;Kyle Wright;2%;47%;Strikeout Looking
+b1;0-0;1;---;7,(1-2) CBFFFFT;O;MIA;Jorge Soler;Kyle Wright;2%;49%;Strikeout Swinging
+b1;0-0;2;---;8,(3-2) TBCFBFBX;;MIA;Yuli Gurriel;Kyle Wright;-1%;48%;Single to CF (Ground Ball thru SS-2B)
+b1;0-0;2;1--;1,(0-0) X;O;MIA;Luis Arraez;Kyle Wright;2%;50%;Flyball: CF (LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Marlins 0.
+Top of the 2nd, Braves Batting, Tied 0-0, Marlins' Braxton Garrett facing 4-5-6 
+t2;0-0;0;---;7,(3-2) BBCBFFB;;ATL;Sean Murphy;Braxton Garrett;4%;54%;Walk
+t2;0-0;0;1--;1,(0-0) X;;ATL;Ozzie Albies;Braxton Garrett;6%;59%;Single to RF (Line Drive to CF-RF); Murphy to 2B
+t2;0-0;0;12-;4,(2-1) *BBFX;;ATL;Vaughn Grissom;Braxton Garrett;7%;67%;Single to RF (Line Drive); Murphy to 3B; Albies to 2B
+t2;0-0;0;123;1,(0-0) X;RRRR;ATL;Marcell Ozuna;Braxton Garrett;17%;84%;Home Run (Fly Ball to Deep LF Line); Murphy Scores; Albies Scores; Grissom Scores
+t2;4-0;0;---;1,(0-0) X;;ATL;Kevin Pillar;Braxton Garrett;2%;86%;Single to LF (Line Drive)
+t2;4-0;0;1--;3,(1-1) .BCX;RR;ATL;Michael Harris II;Braxton Garrett;7%;93%;Home Run (Fly Ball to Deep RF); Pillar Scores
+t2;6-0;0;---;6,(3-2) FCBBBB;;ATL;Ronald Acuna Jr.;Braxton Garrett;1%;93%;Walk
+t2;6-0;0;1--;3,(0-2) FC1>X;O;ATL;Matt Olson;Braxton Garrett;-1%;93%;Flyball: CF (Deep CF)
+t2;6-0;1;1--;4,(0-2) C*S1FS;O;ATL;Austin Riley;Braxton Garrett;-1%;92%;Strikeout Swinging
+t2;6-0;2;1--;3,(1-1) SBX;;ATL;Sean Murphy;Braxton Garrett;0%;92%;Single to LF (Ground Ball thru SS-3B Hole); Acuña to 2B
+t2;6-0;2;12-;2,(1-0) BX;R;ATL;Ozzie Albies;Braxton Garrett;3%;95%;Double to LF (Line Drive to Deep LF); Acuña Scores; Murphy to 3B
+t2;7-0;2;-23;2,(0-1) CX;O;ATL;Vaughn Grissom;Braxton Garrett;-1%;94%;Lineout: CF (Deep LF-CF)
+;;;;;;;;;7 runs, 7 hits, 0 errors, 2 LOB. Braves 7, Marlins 0.
+Bottom of the 2nd, Marlins Batting, Behind 0-7, Braves' Kyle Wright facing 5-6-7 
+b2;0-7;0;---;3,(2-0) .BBX;;MIA;Jesús Sánchez;Kyle Wright;-1%;93%;Single to CF (Line Drive to Deep CF-RF)
+b2;0-7;0;1--;2,(1-0) BX;;MIA;Jean Segura;Kyle Wright;-4%;89%;Double to LF (Fly Ball to Deep LF Line); Sánchez to 3B
+b2;0-7;0;-23;3,(0-2) CFS;O;MIA;Garrett Hampson;Kyle Wright;2%;91%;Strikeout Swinging
+b2;0-7;1;-23;2,(1-0) BX;RO;MIA;Nick Fortes;Kyle Wright;1%;92%;Groundout: SS-1B; Sánchez Scores
+b2;1-7;2;-2-;2,(1-0) BX;R;MIA;Jon Berti;Kyle Wright;-3%;89%;Reached on E6 (throw) (Ground Ball); Segura Scores/No RBI/unER; Berti to 1B
+b2;2-7;2;1--;3,(2-0) BBB;;MIA;Jazz Chisholm Jr.;Kyle Wright;0%;89%;Wild Pitch; Berti to 2B
+b2;2-7;2;-2-;7,(3-2) BBB.CCFB;;MIA;Jazz Chisholm Jr.;Kyle Wright;-1%;88%;Walk
+b2;2-7;2;12-;1,(0-0) X;O;MIA;Jorge Soler;Kyle Wright;3%;91%;Groundout: 3B-1B
+;;;;;;;;;2 runs, 2 hits, 1 error, 2 LOB. Braves 7, Marlins 2.
+Top of the 3rd, Braves Batting, Ahead 7-2, Marlins' Braxton Garrett facing 7-8-9 
+t3;7-2;0;---;2,(1-0) BX;R;ATL;Marcell Ozuna;Braxton Garrett;3%;94%;Home Run (Fly Ball to Deep LF Line)
+t3;8-2;0;---;5,(2-2) BFBFS;O;ATL;Kevin Pillar;Braxton Garrett;0%;93%;Strikeout Swinging
+t3;8-2;1;---;5,(2-2) CBSBX;;ATL;Michael Harris II;Braxton Garrett;1%;94%;Single to RF (Line Drive to Deep RF Line)
+t3;8-2;1;1--;3,(1-1) C.BX;OO;ATL;Ronald Acuna Jr.;Braxton Garrett;-1%;93%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Braves 8, Marlins 2.
+Bottom of the 3rd, Marlins Batting, Behind 2-8, Braves' Kyle Wright facing 3-4-5 
+b3;2-8;0;---;4,(2-1) BBCX;;MIA;Yuli Gurriel;Kyle Wright;-3%;90%;Double to LF (Line Drive to Short LF Line)
+b3;2-8;0;-2-;3,(1-1) CBX;R;MIA;Luis Arraez;Kyle Wright;-5%;85%;Double to LF (Line Drive to Short LF Line); Gurriel Scores
+b3;3-8;0;-2-;6,(2-2) BCCBFX;;MIA;Jesús Sánchez;Kyle Wright;-3%;82%;Single to RF (Line Drive)
+;;;;;;;;;Collin McHugh replaces Kyle Wright pitching
+b3;3-8;0;12-;4,(1-2) .CFBX;OO;MIA;Jean Segura;Collin McHugh;9%;91%;Double Play: Lineout: 3B (SS-3B Hole); Arraez out at 2B/3B-2B
+b3;3-8;2;1--;1,(0-0) X;;MIA;Garrett Hampson;Collin McHugh;-2%;89%;Single to RF (Line Drive to RF Line); Sánchez to 3B
+b3;3-8;2;1-3;4,(2-1) BBFX;R;MIA;Nick Fortes;Collin McHugh;-5%;84%;Single to RF (Line Drive); Sánchez Scores; Hampson to 2B
+b3;4-8;2;12-;2,(1-0) BX;O;MIA;Jon Berti;Collin McHugh;4%;88%;Groundout: SS-1B
+;;;;;;;;;2 runs, 5 hits, 0 errors, 2 LOB. Braves 8, Marlins 4.
+Top of the 4th, Braves Batting, Ahead 8-4, Marlins' Braxton Garrett facing 2-3-4 
+t4;8-4;0;---;2,(1-0) BX;O;ATL;Matt Olson;Braxton Garrett;-1%;87%;Foul Popfly: 3B (3B into Foul Terr.)
+t4;8-4;1;---;5,(3-1) SBBBX;O;ATL;Austin Riley;Braxton Garrett;-1%;86%;Flyball: CF (Deep CF)
+t4;8-4;2;---;6,(2-2) BBFSFX;;ATL;Sean Murphy;Braxton Garrett;1%;86%;Single to CF (Ground Ball thru SS-2B)
+t4;8-4;2;1--;1,(0-0) X;;ATL;Ozzie Albies;Braxton Garrett;1%;88%;Double to LF (Ground Ball); Murphy to 3B
+t4;8-4;2;-23;2,(0-1) CX;O;ATL;Vaughn Grissom;Braxton Garrett;-2%;86%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Braves 8, Marlins 4.
+Bottom of the 4th, Marlins Batting, Behind 4-8, Braves' Collin McHugh facing 1-2-3 
+b4;4-8;0;---;3,(1-1) CBX;;MIA;Jazz Chisholm Jr.;Collin McHugh;-3%;82%;Single to RF (Ground Ball thru 2B-1B)
+b4;4-8;0;1--;2,(1-0) B1>B;O;MIA;Jorge Soler;Collin McHugh;5%;87%;Chisholm Caught Stealing 2B (C-2B)
+b4;4-8;1;---;7,(3-2) B1>B.FBFF.S;O;MIA;Jorge Soler;Collin McHugh;1%;89%;Strikeout Swinging
+b4;4-8;2;---;7,(2-2) CSBBF.FX;O;MIA;Yuli Gurriel;Collin McHugh;1%;90%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Braves 8, Marlins 4.
+Top of the 5th, Braves Batting, Ahead 8-4, Marlins' Braxton Garrett facing 7-8-9 
+t5;8-4;0;---;1,(0-0) X;;ATL;Marcell Ozuna;Braxton Garrett;1%;91%;Single to LF (Line Drive to Short LF)
+t5;8-4;0;1--;2,(0-1) FX;;ATL;Kevin Pillar;Braxton Garrett;2%;93%;Single to 3B (Ground Ball to SS-3B Hole); Ozuna to 2B
+t5;8-4;0;12-;3,(0-2) 2SCX;O;ATL;Michael Harris II;Braxton Garrett;-2%;91%;Flyball: LF
+t5;8-4;1;12-;1,(0-0) X;RRR;ATL;Ronald Acuna Jr.;Braxton Garrett;7%;98%;Home Run (Line Drive to Deep CF); Ozuna Scores; Pillar Scores
+;;;;;;;;;Devin Smeltzer replaces Braxton Garrett pitching
+t5;11-4;1;---;3,(0-2) .FCX;;ATL;Matt Olson;Devin Smeltzer;0%;98%;Single to CF (Line Drive to Deep CF)
+t5;11-4;1;1--;2,(1-0) BX;RR;ATL;Austin Riley;Devin Smeltzer;1%;99%;Home Run (Fly Ball to Deep LF); Olson Scores
+t5;13-4;1;---;4,(1-2) SCBH;;ATL;Sean Murphy;Devin Smeltzer;0%;99%;Hit By Pitch
+t5;13-4;1;1--;2,(0-1) CX;O;ATL;Ozzie Albies;Devin Smeltzer;0%;99%;Flyball: CF (Deep CF)
+t5;13-4;2;1--;3,(0-2) FFX;O;ATL;Vaughn Grissom;Devin Smeltzer;0%;99%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;5 runs, 5 hits, 0 errors, 1 LOB. Braves 13, Marlins 4.
+Bottom of the 5th, Marlins Batting, Behind 4-13, Braves' Collin McHugh facing 4-5-6 
+b5;4-13;0;---;4,(1-2) CFBX;O;MIA;Luis Arraez;Collin McHugh;0%;99%;Groundout: 2B-1B (2B-1B)
+b5;4-13;1;---;5,(2-2) CBBTX;O;MIA;Jesús Sánchez;Collin McHugh;0%;100%;Groundout: 1B-P
+b5;4-13;2;---;4,(0-2) SFF.X;O;MIA;Jean Segura;Collin McHugh;0%;100%;Flyball: CF (Short CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 13, Marlins 4.
+Top of the 6th, Braves Batting, Ahead 13-4, Marlins' Devin Smeltzer facing 7-8-9 
+t6;13-4;0;---;5,(1-2) CCFBX;O;ATL;Marcell Ozuna;Devin Smeltzer;0%;100%;Groundout: SS-1B
+t6;13-4;1;---;5,(2-2) BFBSX;O;ATL;Kevin Pillar;Devin Smeltzer;0%;100%;Lineout: CF (Deep CF)
+t6;13-4;2;---;2,(0-1) CX;O;ATL;Michael Harris II;Devin Smeltzer;0%;99%;Groundout: P-1B (Weak SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 13, Marlins 4.
+Bottom of the 6th, Marlins Batting, Behind 4-13, Braves' Jesse Chavez facing 7-8-9 
+;;;;;;;;;Jesse Chavez replaces Collin McHugh pitchingSam Hilliard replaces Michael Harris II playing CF batting 9th
+b6;4-13;0;---;5,(2-2) ..CBBC.X;O;MIA;Garrett Hampson;Jesse Chavez;0%;100%;Flyball: RF (Deep RF)
+b6;4-13;1;---;6,(3-2) CBBBFX;;MIA;Nick Fortes;Jesse Chavez;0%;99%;Single to RF (Fly Ball to Short RF Line)
+b6;4-13;1;1--;5,(3-1) BSBBB;;MIA;Jon Berti;Jesse Chavez;0%;99%;Walk; Fortes to 2B
+b6;4-13;1;12-;7,(3-2) BBCBFFS;O;MIA;Jazz Chisholm Jr.;Jesse Chavez;0%;100%;Strikeout Swinging
+b6;4-13;2;12-;3,(0-2) CFX;O;MIA;Jorge Soler;Jesse Chavez;0%;100%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Braves 13, Marlins 4.
+Top of the 7th, Braves Batting, Ahead 13-4, Marlins' Devin Smeltzer facing 1-2-3 
+;;;;;;;;;Xavier Edwards replaces Luis Arraez playing 2B batting 4thJon Berti moves from SS to 3B Garrett Hampson moves from RF to SS Bryan De La Cruz replaces Jean Segura (3B) playing LF batting 6thPeyton Burdick replaces Jazz Chisholm Jr. playing CF batting 1stJesús Sánchez moves from LF to RF 
+t7;13-4;0;---;4,(2-1) ......BBCX;O;ATL;Ronald Acuna Jr.;Devin Smeltzer;0%;100%;Flyball: LF (Deep LF Line)
+t7;13-4;1;---;3,(0-2) CFS;O;ATL;Matt Olson;Devin Smeltzer;0%;100%;Strikeout Swinging
+t7;13-4;2;---;4,(2-1) BSBX;O;ATL;Austin Riley;Devin Smeltzer;0%;100%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 13, Marlins 4.
+Bottom of the 7th, Marlins Batting, Behind 4-13, Braves' Dylan Lee facing 3-4-5 
+;;;;;;;;;Dylan Lee replaces Jesse Chavez pitching
+b7;4-13;0;---;5,(0-2) .FCFFX;O;MIA;Yuli Gurriel;Dylan Lee;0%;100%;Flyball: CF (Deep CF)
+b7;4-13;1;---;1,(0-0) X;;MIA;Xavier Edwards;Dylan Lee;0%;100%;Single to CF (Ground Ball)
+b7;4-13;1;1--;2,(0-1) FX;RR;MIA;Jesús Sánchez;Dylan Lee;0%;99%;Home Run (Fly Ball to Deep CF); Edwards Scores
+b7;6-13;1;---;4,(1-2) BFSS;O;MIA;Bryan De La Cruz;Dylan Lee;0%;100%;Strikeout Swinging
+b7;6-13;2;---;4,(1-2) CSBS;O;MIA;Garrett Hampson;Dylan Lee;0%;100%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Braves 13, Marlins 6.
+Top of the 8th, Braves Batting, Ahead 13-6, Marlins' Devin Smeltzer facing 4-5-6 
+t8;13-6;0;---;2,(0-1) CX;O;ATL;Sean Murphy;Devin Smeltzer;0%;100%;Lineout: CF (Deep CF)
+t8;13-6;1;---;3,(2-0) BBX;R;ATL;Ozzie Albies;Devin Smeltzer;0%;100%;Home Run (Fly Ball to Deep LF)
+t8;14-6;1;---;4,(1-2) BFFS;O;ATL;Vaughn Grissom;Devin Smeltzer;0%;100%;Strikeout Swinging
+t8;14-6;2;---;1,(0-0) X;O;ATL;Marcell Ozuna;Devin Smeltzer;0%;100%;Groundout: SS-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Braves 14, Marlins 6.
+Bottom of the 8th, Marlins Batting, Behind 6-14, Braves' Kirby Yates facing 8-9-1 
+;;;;;;;;;Kirby Yates replaces Dylan Lee pitching
+b8;6-14;0;---;5,(1-2) .BCCFC;O;MIA;Nick Fortes;Kirby Yates;0%;100%;Strikeout Looking
+b8;6-14;1;---;6,(2-2) CFBBFC;O;MIA;Jon Berti;Kirby Yates;0%;100%;Strikeout Looking
+b8;6-14;2;---;6,(3-2) BFBS.BC;O;MIA;Peyton Burdick;Kirby Yates;0%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 14, Marlins 6.
+Top of the 9th, Braves Batting, Ahead 14-6, Marlins' Jacob Stallings facing 8-9-1 
+;;;;;;;;;Jacob Stallings replaces Devin Smeltzer pitching
+t9;14-6;0;---;3,(0-2) .CCX;;ATL;Kevin Pillar;Jacob Stallings;0%;100%;Single to 3B (Ground Ball to Weak 3B)
+t9;14-6;0;1--;1,(0-0) X;OO;ATL;Sam Hilliard;Jacob Stallings;0%;100%;Ground Ball Double Play: 3B-SS-1B
+t9;14-6;2;---;4,(1-2) CBFC;O;ATL;Ronald Acuna Jr.;Jacob Stallings;0%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Braves 14, Marlins 6.
+Bottom of the 9th, Marlins Batting, Behind 6-14, Braves' A.J. Minter facing 2-3-4 
+;;;;;;;;;A.J. Minter replaces Kirby Yates pitching
+b9;6-14;0;---;6,(2-2) .TSBFBS;O;MIA;Jorge Soler;A.J. Minter;0%;100%;Strikeout Swinging
+b9;6-14;1;---;5,(1-2) BCFFX;O;MIA;Yuli Gurriel;A.J. Minter;0%;100%;Lineout: SS (Deep SS)
+b9;6-14;2;---;2,(0-1) CX;O;MIA;Xavier Edwards;A.J. Minter;0%;100%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 14, Marlins 6.

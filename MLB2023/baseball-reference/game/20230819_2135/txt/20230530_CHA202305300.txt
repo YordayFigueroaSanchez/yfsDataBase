@@ -1,0 +1,269 @@
+
+Scorebox Meta
+20230530
+7:10 p.m. Local
+22135
+Guaranteed Rate Field
+163
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;1;0;0;2;0;0;0;0;0;3;5;1
+https://cdn.ssref.net/req/202308101/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;1;0;0;5;0;1;0;0;X;7;11;0
+
+Batting home
+Tim Anderson;/players/a/anderti01.shtml;SS;4;0;0;0;0;1;4;.261;.297;.299;.596;16;12;-0.050; 0.48;0.000;-0.050;-0.01%; 0.15; -0.6;0;1;
+Jake Burger;/players/b/burgeja01.shtml;DH;4;1;3;0;0;0;4;.264;.309;.576;.885;21;13;0.053; 0.47;0.066;-0.012; 0.01%; 0.14; 1.4;;;
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;4;1;3;0;0;0;4;.261;.315;.527;.842;19;13;0.173; 0.82;0.183;-0.009; 0.03%; 0.25; 1.3;6;0;2·2B,GDP
+Eloy Jiménez;/players/j/jimenel02.shtml;RF;3;1;1;1;0;0;4;.271;.336;.458;.794;13;9;0.064; 0.99;0.087;-0.023; 0.01%; 0.30; -0.0;2;0;SF
+Yoán Moncada;/players/m/moncayo01.shtml;3B;2;1;0;0;2;1;4;.263;.318;.414;.732;15;7;0.022; 1.06;0.060;-0.037; 0.00%; 0.32; 0.1;0;3;
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;3;1;2;3;1;0;4;.250;.328;.438;.765;11;7;0.170; 1.16;0.252;-0.083; 0.03%; 0.35; 0.8;5;0;2·2B,GDP
+Andrew Benintendi;/players/b/beninan01.shtml;LF;3;0;0;0;0;1;4;.266;.326;.352;.677;11;7;-0.055; 0.74;0.000;-0.055;-0.01%; 0.22; -1.2;1;0;SH
+Romy Gonzalez;/players/g/gonzaro01.shtml;2B;4;2;2;2;0;1;4;.224;.232;.463;.695;16;11;0.127; 0.75;0.159;-0.032; 0.02%; 0.23; 1.7;0;1;HR,2B,SB
+Seby Zavala;/players/z/zavalse01.shtml;C;3;0;0;0;0;1;3;.155;.191;.238;.429;25;16;-0.037; 0.48;0.000;-0.037;-0.01%; 0.14; -0.6;13;0;
+Lucas Giolito;/players/g/giolilu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Reynaldo López;/players/l/lopezre01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Aaron Bummer;/players/b/bummeaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kendall Graveman;/players/g/graveke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Luis Robert Jr. 2 (15, 2 off Tyler Anderson); Andrew Vaughn 2 (16, 1 off Tyler Anderson, 1 off Aaron Loup); Romy Gonzalez (3, off Tyler Anderson).
+
+
+HR: Romy Gonzalez (3, off Chase Silseth, 6th inn, 0 on, 1 out to Deep LF-CF).
+
+
+SF: Eloy Jiménez (1, off Tyler Anderson).
+
+
+SH: Andrew Benintendi (1, off Tyler Anderson).
+
+
+TB: Romy Gonzalez 6; Luis Robert Jr. 5; Andrew Vaughn 4; Jake Burger 3; Eloy Jiménez.
+
+
+GIDP: Andrew Vaughn (9); Luis Robert Jr. (3).
+
+
+RBI: Andrew Vaughn 3 (39); Romy Gonzalez 2 (12); Eloy Jiménez (20).
+
+
+Team LOB: 4.
+With RISP: 3 for 8.
+
+Batting away
+Taylor Ward;/players/w/wardta01.shtml;LF;4;1;2;1;0;1;4;.226;.299;.337;.636;23;15;0.086; 0.75;0.127;-0.041; 0.05%; 0.70; 1.2;1;0;HR,2B
+Mike Trout;/players/t/troutmi01.shtml;CF;4;0;0;0;0;2;4;.277;.366;.510;.876;21;16;-0.073; 0.70;0.000;-0.073;-0.04%; 0.66; -1.0;1;0;
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;4;1;1;1;0;1;4;.263;.338;.507;.845;15;10;0.081; 0.66;0.123;-0.042; 0.05%; 0.62; 0.4;;;HR
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;4;1;1;0;0;2;4;.248;.301;.443;.744;12;9;-0.009; 0.65;0.036;-0.045;-0.01%; 0.60; -0.3;1;0;
+Brandon Drury;/players/d/drurybr01.shtml;2B;3;0;0;0;0;1;4;.245;.294;.484;.777;23;13;-0.038; 0.84;0.018;-0.056;-0.02%; 0.79; -0.2;4;6;HBP
+Jared Walsh;/players/w/walshja01.shtml;1B;4;0;1;0;0;2;4;.136;.345;.136;.481;18;13;0.005; 0.76;0.048;-0.043; 0.00%; 0.71; -0.1;12;0;
+Gio Urshela;/players/u/urshegi01.shtml;3B;2;0;0;1;1;1;4;.306;.330;.387;.717;22;14;0.004; 0.83;0.031;-0.027; 0.00%; 0.78; -0.4;0;2;SF
+Chad Wallach;/players/w/wallach01.shtml;C;1;0;0;0;1;0;2;.245;.310;.434;.744;9;4;-0.009; 0.76;0.015;-0.024;-0.01%; 0.71; -0.0;4;1;
+Matt Thaiss;/players/t/thaisma01.shtml;PH-C;1;0;0;0;1;1;2;.297;.381;.440;.821;9;3;-0.002; 0.29;0.008;-0.009;-0.00%; 0.28; 0.0;1;0;
+Zach Neto;/players/n/netoza01.shtml;SS;4;0;0;0;0;2;4;.246;.325;.384;.709;18;14;-0.076; 0.73;0.000;-0.076;-0.04%; 0.69; -1.2;0;5;
+Tyler Anderson;/players/a/anderty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Chase Silseth;/players/s/silsech01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Sam Bachman;/players/b/bachmsa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Aaron Loup;/players/l/loupaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Taylor Ward (6, off Aaron Bummer).
+
+
+HR: Taylor Ward (5, off Lucas Giolito, 1st inn, 0 on, 0 outs to Deep LF-CF); Shohei Ohtani (13, off Lucas Giolito, 4th inn, 0 on, 0 outs to Deep CF).
+
+
+SF: Gio Urshela (3, off Lucas Giolito).
+
+
+HBP: Brandon Drury (4, by Kendall Graveman).
+
+
+TB: Taylor Ward 6; Shohei Ohtani 4; Jared Walsh; Hunter Renfroe.
+
+
+RBI: Taylor Ward (18); Gio Urshela (24); Shohei Ohtani (34).
+
+
+Team LOB: 6.
+With RISP: 1 for 6.
+
+Pitching home
+Lucas Giolito;/players/g/giolilu01.shtml; W (4-4); 5 ;4;3;3;2;5;2;4.08;21;97;64;33;16;15;4;10;6;0;50;;;-0.087; 0.86;-0.02%; 0.26; -0.4
+Reynaldo López;/players/l/lopezre01.shtml; H (5); 2 ;0;0;0;0;4;0;5.63;6;33;23;11;7;5;1;1;1;0;;0;0;0.078; 0.51; 0.01%; 0.15; 1.0
+Aaron Bummer;/players/b/bummeaa01.shtml;Aaron Bummer; 0.2;1;0;0;0;1;0;7.71;3;14;10;4;4;2;2;0;0;0;;0;0;0.013; 0.70; 0.00%; 0.21; 0.2
+Kendall Graveman;/players/g/graveke01.shtml;Kendall Graveman; 1.1;0;0;0;1;3;0;2.78;6;26;14;4;3;7;0;1;0;0;;1;0;0.026; 0.43; 0.01%; 0.13; 0.8
+
+Pitching away
+Tyler Anderson;/players/a/anderty01.shtml; L (2-1); 4 ;6;6;6;2;3;0;5.47;19;86;58;35;14;9;6;8;5;0;27;;;-0.471; 1.15;-0.27%; 1.08; -3.9
+Chase Silseth;/players/s/silsech01.shtml;Chase Silseth; 2 ;3;1;1;1;1;1;5.40;9;36;20;12;5;3;5;2;0;0;;0;0;-0.008; 0.47;-0.00%; 0.45; 0.0
+Sam Bachman;/players/b/bachmsa01.shtml;Sam Bachman; 1 ;1;0;0;0;0;0;3.00;3;11;9;6;2;1;3;0;0;0;;0;0;0.007; 0.17; 0.00%; 0.16; 0.5
+Aaron Loup;/players/l/loupaa01.shtml;Aaron Loup; 1 ;1;0;0;0;1;0;6.57;4;14;11;6;2;3;1;2;1;0;;0;0;0.003; 0.06; 0.00%; 0.06; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Chase Silseth (4).
+HBP: Kendall Graveman (3; Brandon Drury).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Chase Silseth (4).
+HBP: Kendall Graveman (3; Brandon Drury).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Clint Vondrak, 1B - James Hoye, 2B - D.J. Reyburn, 3B - John Libka, LF - (none), RF - (none).
+Time of Game: 2:43.
+Attendance: 22,135.
+Field Condition: Unknown.
+Start Time Weather: 73° F, Wind 9mph in from Leftfield, Sunny, No Precipitation.
+
+div_lineups
+Angels
+1;Taylor Ward;/players/w/wardta01.shtml;LF
+2;Mike Trout;/players/t/troutmi01.shtml;CF
+3;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+4;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+5;Brandon Drury;/players/d/drurybr01.shtml;2B
+6;Jared Walsh;/players/w/walshja01.shtml;1B
+7;Gio Urshela;/players/u/urshegi01.shtml;3B
+8;Chad Wallach;/players/w/wallach01.shtml;C
+9;Zach Neto;/players/n/netoza01.shtml;SS
+; Tyler Anderson;/players/a/anderty01.shtml;P
+White Sox
+1;Tim Anderson;/players/a/anderti01.shtml;SS
+2;Jake Burger;/players/b/burgeja01.shtml;DH
+3;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+4;Eloy Jiménez;/players/j/jimenel02.shtml;RF
+5;Yoán Moncada;/players/m/moncayo01.shtml;3B
+6;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+7;Andrew Benintendi;/players/b/beninan01.shtml;LF
+8;Romy Gonzalez;/players/g/gonzaro01.shtml;2B
+9;Seby Zavala;/players/z/zavalse01.shtml;C
+; Lucas Giolito;/players/g/giolilu01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b4;1-3;0;123;1,(0-0) X;RRR;CHW;Andrew Vaughn;Tyler Anderson;21%;74%;Double to CF (Line Drive to Deep LF-CF); Robert Scores; Jiménez Scores; Moncada Scores
+t4;1-1;0;---;3,(0-2) SF.X;R;LAA;Shohei Ohtani;Lucas Giolito;-12%;38%;Home Run (Fly Ball to Deep CF)
+t1;0-0;0;---;6,(3-2) BFBBCX;R;LAA;Taylor Ward;Lucas Giolito;-10%;40%;Home Run (Line Drive to Deep LF-CF)
+b1;0-1;1;1--;7,(3-2) BBSSFBX;;CHW;Luis Robert Jr.;Tyler Anderson;9%;54%;Double to LF (Line Drive to Deep LF Line); Burger to 3B
+b4;1-3;0;-2-;3,(1-1) C2BX;;CHW;Eloy Jiménez;Tyler Anderson;9%;47%;Single to SS (Fly Ball to Short LF-CF); Robert to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, White Sox' Lucas Giolito facing 1-2-3 
+t1;0-0;0;---;6,(3-2) BFBBCX;R;LAA;Taylor Ward;Lucas Giolito;-10%;40%;Home Run (Line Drive to Deep LF-CF)
+t1;1-0;0;---;7,(2-2) SBFBFFS;O;LAA;Mike Trout;Lucas Giolito;2%;42%;Strikeout Swinging
+t1;1-0;1;---;2,(1-0) BX;O;LAA;Shohei Ohtani;Lucas Giolito;1%;44%;Flyball: CF (Deep CF)
+t1;1-0;2;---;3,(0-2) SCS;O;LAA;Hunter Renfroe;Lucas Giolito;1%;45%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Angels 1, White Sox 0.
+Bottom of the 1st, White Sox Batting, Behind 0-1, Angels' Tyler Anderson facing 1-2-3 
+b1;0-1;0;---;3,(0-2) CSX;O;CHW;Tim Anderson;Tyler Anderson;-2%;42%;Groundout: 2B-1B (Deep 2B-1B)
+b1;0-1;1;---;7,(2-2) SF.BFBFX;;CHW;Jake Burger;Tyler Anderson;3%;45%;Single to RF (Line Drive to Short CF-RF)
+b1;0-1;1;1--;7,(3-2) BBSSFBX;;CHW;Luis Robert Jr.;Tyler Anderson;9%;54%;Double to LF (Line Drive to Deep LF Line); Burger to 3B
+b1;0-1;1;-23;4,(1-2) BSFX;RO;CHW;Eloy Jiménez;Tyler Anderson;0%;54%;Flyball: RF/Sacrifice Fly (Deep RF); Burger Scores; Robert to 3B
+b1;1-1;2;--3;2,(0-1) SX;O;CHW;Yoán Moncada;Tyler Anderson;-4%;50%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Angels 1, White Sox 1.
+Top of the 2nd, Angels Batting, Tied 1-1, White Sox' Lucas Giolito facing 5-6-7 
+t2;1-1;0;---;3,(1-1) CBX;O;LAA;Brandon Drury;Lucas Giolito;2%;52%;Lineout: CF (Deep CF-RF)
+t2;1-1;1;---;5,(1-2) CBSFC;O;LAA;Jared Walsh;Lucas Giolito;2%;54%;Strikeout Looking
+t2;1-1;2;---;7,(3-2) SSBBFB*B;;LAA;Gio Urshela;Lucas Giolito;-1%;53%;Walk
+t2;1-1;2;1--;3,(1-1) CBX;O;LAA;Chad Wallach;Lucas Giolito;2%;55%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 1, White Sox 1.
+Bottom of the 2nd, White Sox Batting, Tied 1-1, Angels' Tyler Anderson facing 6-7-8 
+b2;1-1;0;---;7,(3-2) CBSBBF*B;;CHW;Andrew Vaughn;Tyler Anderson;4%;59%;Walk
+b2;1-1;0;1--;5,(2-2) S*BFBS;O;CHW;Andrew Benintendi;Tyler Anderson;-3%;55%;Strikeout Swinging
+b2;1-1;1;1--;3,(0-2) CS+1.S;O;CHW;Romy Gonzalez;Tyler Anderson;-3%;52%;Strikeout Swinging
+b2;1-1;2;1--;5,(1-2) 1BSFF*B;O;CHW;Seby Zavala;Tyler Anderson;-2%;50%;Baserunner Out Advancing; Vaughn out at 2B/C-2B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, White Sox 1.
+Top of the 3rd, Angels Batting, Tied 1-1, White Sox' Lucas Giolito facing 9-1-2 
+t3;1-1;0;---;3,(0-2) CS.X;O;LAA;Zach Neto;Lucas Giolito;3%;53%;Groundout: 3B-1B (Weak 3B)
+t3;1-1;1;---;4,(1-2) BCCX;O;LAA;Taylor Ward;Lucas Giolito;2%;54%;Groundout: SS-1B
+t3;1-1;2;---;4,(1-2) SS.BX;O;LAA;Mike Trout;Lucas Giolito;1%;56%;Lineout: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, White Sox 1.
+Bottom of the 3rd, White Sox Batting, Tied 1-1, Angels' Tyler Anderson facing 9-1-2 
+b3;1-1;0;---;1,(0-0) X;O;CHW;Seby Zavala;Tyler Anderson;-3%;53%;Groundout: 2B-1B
+b3;1-1;1;---;3,(1-1) FBX;O;CHW;Tim Anderson;Tyler Anderson;-2%;51%;Groundout: 2B-1B (Deep 2B)
+b3;1-1;2;---;4,(2-1) FBBX;O;CHW;Jake Burger;Tyler Anderson;-1%;50%;Flyball: LF (Short LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, White Sox 1.
+Top of the 4th, Angels Batting, Tied 1-1, White Sox' Lucas Giolito facing 3-4-5 
+t4;1-1;0;---;3,(0-2) SF.X;R;LAA;Shohei Ohtani;Lucas Giolito;-12%;38%;Home Run (Fly Ball to Deep CF)
+t4;2-1;0;---;2,(1-0) BX;;LAA;Hunter Renfroe;Lucas Giolito;-4%;34%;Single to LF (Ground Ball)
+t4;2-1;0;1--;6,(3-2) SBC*BBX;O;LAA;Brandon Drury;Lucas Giolito;2%;36%;Groundout: 3B-1B (Weak 3B); Renfroe to 2B
+t4;2-1;1;-2-;1,(0-0) X;;LAA;Jared Walsh;Lucas Giolito;-5%;31%;Single to CF (Line Drive to Deep CF-RF); Renfroe to 3B
+t4;2-1;1;1-3;5,(1-2) CFF*BX;RO;LAA;Gio Urshela;Lucas Giolito;-2%;29%;Lineout: CF/Sacrifice Fly (Deep CF-RF); Renfroe Scores
+t4;3-1;2;1--;6,(3-2) *BFC*BB>B;;LAA;Chad Wallach;Lucas Giolito;-2%;28%;Walk; Walsh to 2B
+t4;3-1;2;12-;8,(3-2) BCBS.*B>F>F>X;O;LAA;Zach Neto;Lucas Giolito;3%;31%;Flyball: CF (Deep CF)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Angels 3, White Sox 1.
+Bottom of the 4th, White Sox Batting, Behind 1-3, Angels' Tyler Anderson facing 3-4-5 
+b4;1-3;0;---;4,(2-1) BBCX;;CHW;Luis Robert Jr.;Tyler Anderson;7%;39%;Double to LF (Line Drive to Deep LF Line)
+b4;1-3;0;-2-;3,(1-1) C2BX;;CHW;Eloy Jiménez;Tyler Anderson;9%;47%;Single to SS (Fly Ball to Short LF-CF); Robert to 3B
+b4;1-3;0;1-3;5,(3-1) BBC*BB;;CHW;Yoán Moncada;Tyler Anderson;6%;53%;Walk; Jiménez to 2B
+b4;1-3;0;123;1,(0-0) X;RRR;CHW;Andrew Vaughn;Tyler Anderson;21%;74%;Double to CF (Line Drive to Deep LF-CF); Robert Scores; Jiménez Scores; Moncada Scores
+b4;4-3;0;-2-;1,(0-0) X;O;CHW;Andrew Benintendi;Tyler Anderson;-1%;73%;Bunt Groundout: P-1B/Sacrifice (Short 1B Line); Vaughn to 3B
+b4;4-3;1;--3;2,(0-1) CX;R;CHW;Romy Gonzalez;Tyler Anderson;7%;80%;Double to RF (Line Drive to Deep RF Line); Vaughn Scores
+b4;5-3;1;-2-;1,(0-0) >B;R;CHW;Seby Zavala;Tyler Anderson;5%;85%;Gonzalez Steals 3B; Gonzalez Scores/Adv on E5/No RBI
+b4;6-3;1;---;15,(3-2) >B.SSFBFFBF.FFFFFX;O;CHW;Seby Zavala;Tyler Anderson;-1%;84%;Groundout: SS-1B (SS-3B Hole)
+b4;6-3;2;---;4,(1-2) CBTC;O;CHW;Tim Anderson;Tyler Anderson;-1%;84%;Strikeout Looking
+;;;;;;;;;5 runs, 4 hits, 1 error, 0 LOB. Angels 3, White Sox 6.
+Top of the 5th, Angels Batting, Behind 3-6, White Sox' Lucas Giolito facing 1-2-3 
+t5;3-6;0;---;8,(2-2) CSBBFFFT;O;LAA;Taylor Ward;Lucas Giolito;2%;86%;Strikeout Swinging
+t5;3-6;1;---;7,(2-2) BFS.BFFS;O;LAA;Mike Trout;Lucas Giolito;2%;88%;Strikeout Swinging
+t5;3-6;2;---;4,(2-1) BBCX;O;LAA;Shohei Ohtani;Lucas Giolito;1%;88%;Flyball: RF (Short RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 3, White Sox 6.
+Bottom of the 5th, White Sox Batting, Ahead 6-3, Angels' Chase Silseth facing 2-3-4 
+;;;;;;;;;Chase Silseth replaces Tyler Anderson pitching
+b5;6-3;0;---;6,(3-2) .CFBBBX;;CHW;Jake Burger;Chase Silseth;1%;90%;Single to SS (Ground Ball)
+b5;6-3;0;1--;4,(1-2) CBFX;;CHW;Luis Robert Jr.;Chase Silseth;2%;92%;Single to CF (Ground Ball thru SS-2B); Burger to 2B
+b5;6-3;0;12-;3,(1-1) SBX;O;CHW;Eloy Jiménez;Chase Silseth;-2%;90%;Popfly: 2B (SS-2B)
+b5;6-3;1;12-;2,(1-0) 2BB;;CHW;Yoán Moncada;Chase Silseth;2%;92%;Wild Pitch; Burger to 3B; Robert to 2B
+b5;6-3;1;-23;4,(3-0) 2BB.BB;;CHW;Yoán Moncada;Chase Silseth;0%;92%;Walk
+b5;6-3;1;123;2,(0-1) SX;OO;CHW;Andrew Vaughn;Chase Silseth;-6%;86%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Angels 3, White Sox 6.
+Top of the 6th, Angels Batting, Behind 3-6, White Sox' Reynaldo López facing 4-5-6 
+;;;;;;;;;Reynaldo López replaces Lucas Giolito pitching
+t6;3-6;0;---;2,(0-1) .FX;O;LAA;Hunter Renfroe;Reynaldo López;2%;89%;Groundout: 2B-1B (SS-2B)
+t6;3-6;1;---;8,(2-2) CCFF.FBBS;O;LAA;Brandon Drury;Reynaldo López;2%;90%;Strikeout Swinging
+t6;3-6;2;---;8,(3-2) BCBS.FBFX;O;LAA;Jared Walsh;Reynaldo López;1%;91%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 3, White Sox 6.
+Bottom of the 6th, White Sox Batting, Ahead 6-3, Angels' Chase Silseth facing 7-8-9 
+b6;6-3;0;---;2,(1-0) BX;O;CHW;Andrew Benintendi;Chase Silseth;-1%;90%;Groundout: SS-1B
+b6;6-3;1;---;5,(3-1) SBBBX;R;CHW;Romy Gonzalez;Chase Silseth;4%;95%;Home Run (Fly Ball to Deep LF-CF)
+b6;7-3;1;---;4,(1-2) FBSS;O;CHW;Seby Zavala;Chase Silseth;0%;94%;Strikeout Swinging
+b6;7-3;2;---;6,(2-2) CFBBFX;O;CHW;Tim Anderson;Chase Silseth;0%;94%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Angels 3, White Sox 7.
+Top of the 7th, Angels Batting, Behind 3-7, White Sox' Reynaldo López facing 7-8-9 
+t7;3-7;0;---;6,(2-2) CSBBFT;O;LAA;Gio Urshela;Reynaldo López;2%;96%;Strikeout Swinging
+;;;;;;;;;Matt Thaiss pinch hits for Chad Wallach (C) batting 8th
+t7;3-7;1;---;5,(2-2) .CS.BB*S;O;LAA;Matt Thaiss;Reynaldo López;1%;97%;Strikeout Swinging
+t7;3-7;2;---;4,(1-2) FBSS;O;LAA;Zach Neto;Reynaldo López;0%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 3, White Sox 7.
+Bottom of the 7th, White Sox Batting, Ahead 7-3, Angels' Sam Bachman facing 2-3-4 
+;;;;;;;;;Sam Bachman replaces Chase Silseth pitchingMatt Thaiss moves from PH to C 
+b7;7-3;0;---;4,(1-2) ..FBFX;;CHW;Jake Burger;Sam Bachman;0%;97%;Single to 2B (Ground Ball to 2B-1B)
+b7;7-3;0;1--;4,(0-2) CSFX;OO;CHW;Luis Robert Jr.;Sam Bachman;-1%;97%;Ground Ball Double Play: 3B-2B-1B
+;;;;;;;;;Force Play Challenged by CHW manager (Pedro Grifol): Original call upheld upon review.
+b7;7-3;2;---;3,(1-1) BSX;O;CHW;Eloy Jiménez;Sam Bachman;0%;96%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Angels 3, White Sox 7.
+Top of the 8th, Angels Batting, Behind 3-7, White Sox' Aaron Bummer facing 1-2-3 
+;;;;;;;;;Aaron Bummer replaces Reynaldo López pitching
+t8;3-7;0;---;5,(2-2) .BSCBX;;LAA;Taylor Ward;Aaron Bummer;-3%;93%;Double to LF (Ground Ball)
+t8;3-7;0;-2-;3,(0-2) CSX;O;LAA;Mike Trout;Aaron Bummer;3%;96%;Groundout: 3B-1B (SS-3B Hole)
+t8;3-7;1;-2-;6,(2-2) T*S.B*BFS;O;LAA;Shohei Ohtani;Aaron Bummer;2%;98%;Strikeout Swinging
+;;;;;;;;;Kendall Graveman replaces Aaron Bummer pitching
+t8;3-7;2;-2-;5,(2-2) .CSBBC;O;LAA;Hunter Renfroe;Kendall Graveman;1%;99%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 3, White Sox 7.
+Bottom of the 8th, White Sox Batting, Ahead 7-3, Angels' Aaron Loup facing 5-6-7 
+;;;;;;;;;Aaron Loup replaces Sam Bachman pitching
+b8;7-3;0;---;4,(0-2) .CF.FC;O;CHW;Yoán Moncada;Aaron Loup;0%;99%;Strikeout Looking
+b8;7-3;1;---;1,(0-0) X;;CHW;Andrew Vaughn;Aaron Loup;0%;99%;Double to RF (Fly Ball to Deep CF-RF)
+b8;7-3;1;-2-;3,(1-1) CBX;O;CHW;Andrew Benintendi;Aaron Loup;0%;99%;Lineout: CF (LF-CF)
+b8;7-3;2;-2-;6,(2-2) SBSBFX;O;CHW;Romy Gonzalez;Aaron Loup;0%;98%;Groundout: SS-1B (Deep SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 3, White Sox 7.
+Top of the 9th, Angels Batting, Behind 3-7, White Sox' Kendall Graveman facing 5-6-7 
+t9;3-7;0;---;6,(3-2) CFBBBH;;LAA;Brandon Drury;Kendall Graveman;-2%;97%;Hit By Pitch
+t9;3-7;0;1--;4,(1-2) CFBC;O;LAA;Jared Walsh;Kendall Graveman;2%;98%;Strikeout Looking
+t9;3-7;1;1--;4,(1-2) CTBX;O;LAA;Gio Urshela;Kendall Graveman;1%;100%;Flyball: RF (CF-RF)
+t9;3-7;2;1--;4,(3-0) BBBB;;LAA;Matt Thaiss;Kendall Graveman;-1%;99%;Walk; Drury to 2B
+t9;3-7;2;12-;3,(0-2) CS.S;O;LAA;Zach Neto;Kendall Graveman;1%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Angels 3, White Sox 7.

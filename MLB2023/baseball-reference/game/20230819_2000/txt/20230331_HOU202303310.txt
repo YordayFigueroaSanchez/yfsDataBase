@@ -1,0 +1,277 @@
+
+Scorebox Meta
+20230331
+7:10 p.m. Local
+41453
+Minute Maid Park
+160
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;1;0;0;0;0;2;0;0;0;3;11;0
+https://cdn.ssref.net/req/202308101/tlogo/br/HOU-2023.png;/teams/HOU/2023.shtml;0;0;0;0;0;2;3;1;X;6;7;0
+
+Batting home
+Jeremy Peña;/players/p/penaje02.shtml;SS;3;1;1;0;0;1;4;.286;.375;.286;.661;13;9;-0.004; 1.18;0.086;-0.090;-0.00%; 1.08; -0.2;1;2;CS,HBP
+Alex Bregman;/players/b/bregmal01.shtml;3B;3;1;0;0;1;0;4;.000;.125;.000;.125;12;5;-0.024; 1.78;0.061;-0.085;-0.01%; 1.63; -0.4;1;3;
+Yordan Alvarez;/players/a/alvaryo01.shtml;LF;3;0;1;3;1;1;4;.333;.500;1.000;1.500;18;10;0.458; 1.93;0.487;-0.029; 0.25%; 1.77; 2.4;1;0;2B
+José Abreu;/players/a/abreujo02.shtml;1B;3;1;1;0;1;0;4;.286;.375;.286;.661;13;7;0.010; 0.74;0.055;-0.045; 0.01%; 0.69; -0.0;9;0;
+Kyle Tucker;/players/t/tuckeky01.shtml;RF;3;2;1;2;1;1;4;.200;.500;.800;1.300;23;14;0.143; 0.86;0.211;-0.068; 0.08%; 0.79; 1.8;4;0;HR,SB
+Corey Julks;/players/j/julksco01.shtml;DH;4;0;1;0;0;2;4;.250;.250;.250;.500;18;13;-0.009; 0.82;0.041;-0.050;-0.01%; 0.76; -0.2;;;
+David Hensley;/players/h/henslda01.shtml;2B;3;0;2;1;1;1;4;.667;.750;.667;1.417;19;9;0.165; 0.90;0.179;-0.014; 0.09%; 0.82; 2.2;0;3;SB
+Jake Meyers;/players/m/meyerja02.shtml;CF;3;0;0;0;1;2;4;.000;.143;.000;.143;18;10;-0.198; 1.91;0.054;-0.253;-0.11%; 1.75; -1.8;0;0;GDP
+Martín Maldonado;/players/m/maldoma01.shtml;C;3;1;0;0;1;0;4;.167;.286;.167;.452;11;6;-0.173; 1.64;0.028;-0.201;-0.10%; 1.50; -1.8;11;1;GDP
+Cristian Javier;/players/j/javiecr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Phil Maton;/players/m/matonph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Seth Martinez;/players/m/martise01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Abreu;/players/a/abreubr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Rafael Montero;/players/m/montera01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Yordan Alvarez (1, off Jake Diekman).
+
+
+HR: Kyle Tucker (1, off Lance Lynn, 6th inn, 1 on, 2 outs to Deep CF-RF).
+
+
+HBP: Jeremy Peña (1, by Lance Lynn).
+
+
+TB: Kyle Tucker 4; David Hensley 2; Yordan Alvarez 2; Jeremy Peña; Corey Julks; José Abreu.
+
+
+GIDP: Martín Maldonado (1); Jake Meyers (1).
+
+
+RBI: Yordan Alvarez 3 (4); Kyle Tucker 2 (2); David Hensley (1).
+
+
+2-out RBI: Yordan Alvarez 3; Kyle Tucker 2.
+
+
+Team LOB: 6.
+With RISP: 2 for 7.
+
+Batting away
+Tim Anderson;/players/a/anderti01.shtml;SS;4;1;2;0;1;1;5;.500;.600;.625;1.225;21;11;0.041; 0.89;0.097;-0.056; 0.03%; 0.90; 0.5;1;1;SB
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;5;0;1;0;0;4;5;.333;.333;.333;.667;20;16;-0.095; 1.11;0.027;-0.122;-0.06%; 1.13; -1.0;1;0;
+Andrew Benintendi;/players/b/beninan01.shtml;LF;5;1;1;0;0;0;5;.222;.222;.333;.556;22;16;-0.028; 0.94;0.068;-0.096;-0.02%; 0.95; -0.5;3;0;2B
+Eloy Jiménez;/players/j/jimenel02.shtml;DH;4;1;2;2;0;1;4;.222;.222;.444;.667;10;9;0.144; 1.10;0.194;-0.050; 0.09%; 1.11; 1.5;;;2·2B
+Yoán Moncada;/players/m/moncayo01.shtml;3B;4;0;3;1;0;0;4;.444;.444;.556;1.000;7;6;0.130; 1.00;0.159;-0.029; 0.08%; 1.02; 1.3;2;2;2B
+Gavin Sheets;/players/s/sheetga01.shtml;1B;4;0;0;0;0;2;4;.000;.000;.000;.000;18;13;-0.130; 1.29;0.000;-0.130;-0.08%; 1.31; -1.4;5;0;
+Yasmani Grandal;/players/g/grandya01.shtml;C;4;0;1;0;0;2;4;.250;.250;.625;.875;10;10;-0.063; 1.00;0.023;-0.086;-0.04%; 1.02; -0.6;8;1;
+Oscar Colás;/players/c/colasos01.shtml;RF;3;0;0;0;0;1;4;.200;.333;.200;.533;13;11;-0.103; 1.00;0.005;-0.108;-0.06%; 1.01; -0.9;2;0;HBP,GDP
+Elvis Andrus;/players/a/andruel01.shtml;2B;4;0;1;0;0;0;4;.250;.250;.250;.500;19;14;-0.029; 0.90;0.038;-0.067;-0.02%; 0.91; -0.6;2;2;SB
+Lance Lynn;/players/l/lynnla01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jimmy Lambert;/players/l/lambeji01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kendall Graveman;/players/g/graveke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jake Diekman;/players/d/diekmja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Ruiz;/players/r/ruizjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Eloy Jiménez 2 (2, 2 off Cristian Javier); Andrew Benintendi (1, off Cristian Javier); Yoán Moncada (1, off Cristian Javier).
+
+
+HBP: Oscar Colás (1, by Phil Maton).
+
+
+TB: Yoán Moncada 4; Eloy Jiménez 4; Andrew Benintendi 2; Tim Anderson 2; Elvis Andrus; Luis Robert Jr.; Yasmani Grandal.
+
+
+GIDP: Oscar Colás (1).
+
+
+RBI: Eloy Jiménez 2 (2); Yoán Moncada (1).
+
+
+2-out RBI: Eloy Jiménez.
+
+
+Team LOB: 9.
+With RISP: 3 for 9.
+
+Pitching home
+Cristian Javier;/players/j/javiecr01.shtml;Cristian Javier; 5 ;8;3;3;1;6;0;5.40;23;82;64;34;19;11;7;9;4;0;44;;;-0.088; 0.99;-0.05%; 0.91; -1.1
+Phil Maton;/players/m/matonph01.shtml;Phil Maton; 1 ;0;0;0;0;1;0;0.00;4;13;9;5;1;3;1;1;0;0;;1;0;0.056; 0.70; 0.03%; 0.64; 1.1
+Seth Martinez;/players/m/martise01.shtml; W (1-0); 1 ;1;0;0;0;0;0;0.00;4;13;9;7;1;1;2;2;1;0;;0;0;0.057; 0.99; 0.03%; 0.91; 0.5
+Bryan Abreu;/players/a/abreubr01.shtml; H (1); 1 ;1;0;0;0;3;0;0.00;4;12;11;2;5;4;1;0;0;0;;0;0;0.076; 1.82; 0.04%; 1.67; 0.5
+Rafael Montero;/players/m/montera01.shtml; S (1); 1 ;1;0;0;0;1;0;4.50;4;20;13;8;2;3;1;2;1;0;;0;0;0.034; 0.63; 0.02%; 0.58; 0.5
+
+Pitching away
+Lance Lynn;/players/l/lynnla01.shtml;Lance Lynn; 5.2;3;2;2;4;6;1;3.18;23;96;55;27;16;12;2;10;3;0;57;;;0.142; 1.24; 0.09%; 1.26; 1.0
+Jimmy Lambert;/players/l/lambeji01.shtml; H (1); 0.1;0;0;0;0;0;0;0.00;1;4;3;2;0;1;0;1;0;0;;0;0;0.020; 0.75; 0.01%; 0.76; 0.1
+Kendall Graveman;/players/g/graveke01.shtml; L (1-1); 0.2;2;3;3;2;0;0;16.20;5;15;7;5;0;2;1;2;1;0;;0;0;-0.046; 2.28;-0.03%; 2.31; -0.3
+Jake Diekman;/players/d/diekmja01.shtml; BS (1); 0.1;1;1;1;1;0;0;27.00;3;12;7;4;1;2;0;2;1;0;;3;3;-0.464; 2.32;-0.28%; 2.35; -2.6
+José Ruiz;/players/r/ruizjo01.shtml;José Ruiz; 1 ;1;0;0;0;2;0;0.00;4;18;11;3;6;2;1;1;0;0;;1;1;-0.018; 0.28;-0.01%; 0.28; -0.1
+
+indiv_events
+
+Balks: José Ruiz (1).
+WP: None.
+HBP: Phil Maton (1; Oscar Colás); Lance Lynn (1; Jeremy Peña).
+IBB: None.
+Pickoffs: None.
+
+Balks: José Ruiz (1).
+WP: None.
+HBP: Phil Maton (1; Oscar Colás); Lance Lynn (1; Jeremy Peña).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: LF - (none), RF - (none).
+Time of Game: 2:40.
+Attendance: 41,453.
+Start Time Weather: 73° F, Wind 0mph, In Dome.
+
+div_lineups
+White Sox
+1;Tim Anderson;/players/a/anderti01.shtml;SS
+2;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+3;Andrew Benintendi;/players/b/beninan01.shtml;LF
+4;Eloy Jiménez;/players/j/jimenel02.shtml;DH
+5;Yoán Moncada;/players/m/moncayo01.shtml;3B
+6;Gavin Sheets;/players/s/sheetga01.shtml;1B
+7;Yasmani Grandal;/players/g/grandya01.shtml;C
+8;Oscar Colás;/players/c/colasos01.shtml;RF
+9;Elvis Andrus;/players/a/andruel01.shtml;2B
+; Lance Lynn;/players/l/lynnla01.shtml;P
+Astros
+1;Jeremy Peña;/players/p/penaje02.shtml;SS
+2;Alex Bregman;/players/b/bregmal01.shtml;3B
+3;Yordan Alvarez;/players/a/alvaryo01.shtml;LF
+4;José Abreu;/players/a/abreujo02.shtml;1B
+5;Kyle Tucker;/players/t/tuckeky01.shtml;RF
+6;Corey Julks;/players/j/julksco01.shtml;DH
+7;David Hensley;/players/h/henslda01.shtml;2B
+8;Jake Meyers;/players/m/meyerja02.shtml;CF
+9;Martín Maldonado;/players/m/maldoma01.shtml;C
+; Cristian Javier;/players/j/javiecr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b7;2-3;2;123;2,(1-0) .*BX;RRR;HOU;Yordan Alvarez;Jake Diekman;47%;88%;Double to CF (Fly Ball to Deep LF-CF); Maldonado Scores; Peña Scores; Bregman Scores
+b6;0-3;2;1--;4,(1-2) BFCX;RR;HOU;Kyle Tucker;Lance Lynn;20%;33%;Home Run (Fly Ball to Deep CF-RF); Abreu Scores
+b7;2-3;0;1--;1,(0-0) 1X;OO;HOU;Jake Meyers;Kendall Graveman;-16%;28%;Ground Ball Double Play: SS-2B-1B (SS-3B Hole)
+b5;0-1;0;1--;2,(1-0) 1BX;OO;HOU;Martín Maldonado;Lance Lynn;-11%;36%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+t6;1-0;0;-2-;1,(0-0) X;R;CHW;Eloy Jiménez;Cristian Javier;-10%;17%;Double to RF (Line Drive to Deep CF-RF); Benintendi Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, White Sox Batting, Tied 0-0, Astros' Cristian Javier facing 1-2-3 
+t1;0-0;0;---;6,(3-2) BSBSBB;;CHW;Tim Anderson;Cristian Javier;-4%;46%;Walk
+t1;0-0;0;1--;3,(0-2) FSS;O;CHW;Luis Robert Jr.;Cristian Javier;3%;50%;Strikeout Swinging
+t1;0-0;1;1--;1,(0-0) >C;;CHW;Andrew Benintendi;Cristian Javier;-2%;48%;Anderson Steals 2B
+t1;0-0;1;-2-;7,(1-2) >C.BFFFFX;O;CHW;Andrew Benintendi;Cristian Javier;3%;51%;Groundout: 2B-1B (2B-1B); Anderson to 3B
+t1;0-0;2;--3;5,(1-2) FBSFX;R;CHW;Eloy Jiménez;Cristian Javier;-9%;42%;Double to CF (Line Drive to Deep LF-CF); Anderson Scores
+t1;1-0;2;-2-;2,(0-1) CX;O;CHW;Yoán Moncada;Cristian Javier;3%;45%;Groundout: P-1B (Front of Home)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. White Sox 1, Astros 0.
+Bottom of the 1st, Astros Batting, Behind 0-1, White Sox' Lance Lynn facing 1-2-3 
+b1;0-1;0;---;2,(1-0) BX;O;HOU;Jeremy Peña;Lance Lynn;-2%;42%;Groundout: 3B-1B (Weak 3B)
+b1;0-1;1;---;3,(2-0) BBX;O;HOU;Alex Bregman;Lance Lynn;-2%;41%;Flyball: CF (Deep CF-RF)
+b1;0-1;2;---;4,(2-1) BBCX;O;HOU;Yordan Alvarez;Lance Lynn;-1%;40%;Flyball: LF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 1, Astros 0.
+Top of the 2nd, White Sox Batting, Ahead 1-0, Astros' Cristian Javier facing 6-7-8 
+t2;1-0;0;---;3,(1-1) BCX;O;CHW;Gavin Sheets;Cristian Javier;2%;42%;Groundout: 2B-1B (Deep 2B-1B)
+t2;1-0;1;---;2,(0-1) CX;;CHW;Yasmani Grandal;Cristian Javier;-2%;39%;Single to CF (Line Drive)
+t2;1-0;1;1--;3,(0-2) SFX;OO;CHW;Oscar Colás;Cristian Javier;5%;44%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. White Sox 1, Astros 0.
+Bottom of the 2nd, Astros Batting, Behind 0-1, White Sox' Lance Lynn facing 4-5-6 
+b2;0-1;0;---;4,(3-0) BBBB;;HOU;José Abreu;Lance Lynn;4%;48%;Walk
+b2;0-1;0;1--;5,(2-2) SFB*BS;O;HOU;Kyle Tucker;Lance Lynn;-4%;44%;Strikeout Swinging
+b2;0-1;1;1--;3,(0-2) CFX;;HOU;Corey Julks;Lance Lynn;4%;49%;Single to LF (Line Drive to LF-CF); Abreu to 2B
+b2;0-1;1;12-;5,(3-1) BCBBB;;HOU;David Hensley;Lance Lynn;7%;55%;Walk; Abreu to 3B; Julks to 2B
+b2;0-1;1;123;5,(2-2) *BSSBS;O;HOU;Jake Meyers;Lance Lynn;-8%;47%;Strikeout Swinging
+b2;0-1;2;123;2,(0-1) SX;O;HOU;Martín Maldonado;Lance Lynn;-8%;39%;Foul Popfly: 1B (Front of Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. White Sox 1, Astros 0.
+Top of the 3rd, White Sox Batting, Ahead 1-0, Astros' Cristian Javier facing 9-1-2 
+t3;1-0;0;---;6,(3-2) BCBSBX;O;CHW;Elvis Andrus;Cristian Javier;2%;41%;Flyball: RF
+t3;1-0;1;---;2,(1-0) BX;;CHW;Tim Anderson;Cristian Javier;-2%;39%;Single to RF (Line Drive to Short RF)
+t3;1-0;1;1--;4,(0-2) SS>F1C;O;CHW;Luis Robert Jr.;Cristian Javier;3%;41%;Strikeout Looking
+t3;1-0;2;1--;2,(0-1) 1CX;O;CHW;Andrew Benintendi;Cristian Javier;2%;44%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 1, Astros 0.
+Bottom of the 3rd, Astros Batting, Behind 0-1, White Sox' Lance Lynn facing 1-2-3 
+b3;0-1;0;---;6,(2-2) CBBSFH;;HOU;Jeremy Peña;Lance Lynn;4%;48%;Hit By Pitch
+b3;0-1;0;1--;2,(1-0) *B>X;O;HOU;Alex Bregman;Lance Lynn;-4%;44%;Foul Popfly: 3B (3B into Foul Terr.)
+b3;0-1;1;1--;2,(1-0) B>S;O;HOU;Yordan Alvarez;Lance Lynn;-5%;39%;Peña Caught Stealing 2B (C-SS)
+;;;;;;;;;Tag play Challenged by CHW manager (Pedro Grifol): Original call overturned as shown.Tag play Challenged by CHW manager (Pedro Grifol): Original call overturned as shown.
+b3;0-1;2;---;8,(3-2) B>S.BFFFBB;;HOU;Yordan Alvarez;Lance Lynn;2%;40%;Walk
+b3;0-1;2;1--;1,(0-0) X;O;HOU;José Abreu;Lance Lynn;-3%;38%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 1, Astros 0.
+Top of the 4th, White Sox Batting, Ahead 1-0, Astros' Cristian Javier facing 4-5-6 
+t4;1-0;0;---;3,(0-2) SFS;O;CHW;Eloy Jiménez;Cristian Javier;2%;40%;Strikeout Swinging
+t4;1-0;1;---;1,(0-0) X;;CHW;Yoán Moncada;Cristian Javier;-3%;37%;Single to RF (Ground Ball thru 2B-1B)
+t4;1-0;1;1--;5,(1-2) F1*BSFX;O;CHW;Gavin Sheets;Cristian Javier;3%;40%;Flyball: LF (Deep SS)
+t4;1-0;2;1--;3,(0-2) CF1C;O;CHW;Yasmani Grandal;Cristian Javier;2%;43%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 1, Astros 0.
+Bottom of the 4th, Astros Batting, Behind 0-1, White Sox' Lance Lynn facing 5-6-7 
+b4;0-1;0;---;7,(2-2) BSBFFFX;O;HOU;Kyle Tucker;Lance Lynn;-3%;40%;Lineout: RF
+b4;0-1;1;---;5,(2-2) CBBCS;O;HOU;Corey Julks;Lance Lynn;-2%;38%;Strikeout Swinging
+b4;0-1;2;---;7,(3-2) CBBSBFS;O;HOU;David Hensley;Lance Lynn;-1%;36%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 1, Astros 0.
+Top of the 5th, White Sox Batting, Ahead 1-0, Astros' Cristian Javier facing 8-9-1 
+t5;1-0;0;---;5,(1-2) BCFFX;O;CHW;Oscar Colás;Cristian Javier;2%;39%;Foul Popfly: 3B (3B into Foul Terr.)
+t5;1-0;1;---;4,(1-2) SBCX;;CHW;Elvis Andrus;Cristian Javier;-3%;36%;Single to SS (Ground Ball to Weak SS)
+t5;1-0;1;1--;6,(3-2) BBF1S*B>S;O;CHW;Tim Anderson;Cristian Javier;2%;38%;Strikeout Swinging, Andrus Steals 2B
+t5;1-0;2;-2-;4,(0-2) SSFS;O;CHW;Luis Robert Jr.;Cristian Javier;4%;41%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 1, Astros 0.
+Bottom of the 5th, Astros Batting, Behind 0-1, White Sox' Lance Lynn facing 8-9-1 
+b5;0-1;0;---;7,(3-2) CBBFFBB;;HOU;Jake Meyers;Lance Lynn;5%;47%;Walk
+b5;0-1;0;1--;2,(1-0) 1BX;OO;HOU;Martín Maldonado;Lance Lynn;-11%;36%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b5;0-1;2;---;3,(0-2) SCS;O;HOU;Jeremy Peña;Lance Lynn;-2%;34%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 1, Astros 0.
+Top of the 6th, White Sox Batting, Ahead 1-0, Astros' Cristian Javier facing 3-4-5 
+t6;1-0;0;---;4,(1-2) SBFX;;CHW;Andrew Benintendi;Cristian Javier;-7%;27%;Double to LF (Fly Ball to LF Line)
+t6;1-0;0;-2-;1,(0-0) X;R;CHW;Eloy Jiménez;Cristian Javier;-10%;17%;Double to RF (Line Drive to Deep CF-RF); Benintendi Scores
+t6;2-0;0;-2-;1,(0-0) X;R;CHW;Yoán Moncada;Cristian Javier;-7%;11%;Ground-rule Double (Fly Ball to Deep CF-RF); Jiménez Scores
+;;;;;;;;;Phil Maton replaces Cristian Javier pitching
+t6;3-0;0;-2-;7,(3-2) .BBCFFBS;O;CHW;Gavin Sheets;Phil Maton;2%;13%;Strikeout Swinging
+t6;3-0;1;-2-;2,(0-1) FX;O;CHW;Yasmani Grandal;Phil Maton;1%;14%;Groundout: SS-1B; Moncada to 3B
+t6;3-0;2;--3;2,(0-1) CH;;CHW;Oscar Colás;Phil Maton;0%;14%;Hit By Pitch
+t6;3-0;2;1-3;2,(0-1) C1X;O;CHW;Elvis Andrus;Phil Maton;3%;16%;Flyball: RF (RF Line)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. White Sox 3, Astros 0.
+Bottom of the 6th, Astros Batting, Behind 0-3, White Sox' Lance Lynn facing 2-3-4 
+b6;0-3;0;---;2,(0-1) FX;O;HOU;Alex Bregman;Lance Lynn;-3%;13%;Flyball: LF (Short LF-CF)
+b6;0-3;1;---;4,(1-2) FCB*S;O;HOU;Yordan Alvarez;Lance Lynn;-2%;12%;Strikeout Swinging
+b6;0-3;2;---;5,(2-2) CBSBX;;HOU;José Abreu;Lance Lynn;1%;13%;Single to CF (Line Drive to Deep CF)
+b6;0-3;2;1--;4,(1-2) BFCX;RR;HOU;Kyle Tucker;Lance Lynn;20%;33%;Home Run (Fly Ball to Deep CF-RF); Abreu Scores
+;;;;;;;;;Jimmy Lambert replaces Lance Lynn pitching
+b6;2-3;2;---;4,(1-2) .FBCX;O;HOU;Corey Julks;Jimmy Lambert;-2%;31%;Foul Popfly: 1B
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. White Sox 3, Astros 2.
+Top of the 7th, White Sox Batting, Ahead 3-2, Astros' Seth Martinez facing 1-2-3 
+;;;;;;;;;Seth Martinez replaces Phil Maton pitching
+t7;3-2;0;---;5,(2-2) .CBBFX;O;CHW;Tim Anderson;Seth Martinez;3%;33%;Groundout: 3B-1B (Weak 3B)
+t7;3-2;1;---;3,(1-1) BFX;;CHW;Luis Robert Jr.;Seth Martinez;-3%;31%;Single to RF (Line Drive to Deep CF-RF)
+t7;3-2;1;1--;4,(1-2) FBS1X;O;CHW;Andrew Benintendi;Seth Martinez;3%;34%;Flyball: RF (Deep RF Line)
+t7;3-2;2;1--;1,(0-0) X;O;CHW;Eloy Jiménez;Seth Martinez;3%;36%;Groundout: C-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 3, Astros 2.
+Bottom of the 7th, Astros Batting, Behind 2-3, White Sox' Kendall Graveman facing 7-8-9 
+;;;;;;;;;Kendall Graveman replaces Jimmy Lambert pitching
+b7;2-3;0;---;1,(0-0) .X;;HOU;David Hensley;Kendall Graveman;8%;44%;Single to RF (Line Drive to RF Line)
+b7;2-3;0;1--;1,(0-0) 1X;OO;HOU;Jake Meyers;Kendall Graveman;-16%;28%;Ground Ball Double Play: SS-2B-1B (SS-3B Hole)
+b7;2-3;2;---;6,(3-2) BBBCFB;;HOU;Martín Maldonado;Kendall Graveman;3%;31%;Walk
+b7;2-3;2;1--;2,(0-1) CX;;HOU;Jeremy Peña;Kendall Graveman;4%;35%;Single to LF (Fly Ball); Maldonado to 2B
+b7;2-3;2;12-;5,(3-1) BFBBB;;HOU;Alex Bregman;Kendall Graveman;6%;41%;Walk; Maldonado to 3B; Peña to 2B
+;;;;;;;;;Jake Diekman replaces Kendall Graveman pitching
+b7;2-3;2;123;2,(1-0) .*BX;RRR;HOU;Yordan Alvarez;Jake Diekman;47%;88%;Double to CF (Fly Ball to Deep LF-CF); Maldonado Scores; Peña Scores; Bregman Scores
+b7;5-3;2;-2-;3,(0-2) CSX;O;HOU;José Abreu;Jake Diekman;-2%;86%;Lineout: 3B
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. White Sox 3, Astros 5.
+Top of the 8th, White Sox Batting, Behind 3-5, Astros' Bryan Abreu facing 5-6-7 
+;;;;;;;;;Bryan Abreu replaces Seth Martinez pitching
+t8;3-5;0;---;3,(1-1) .BCX;;CHW;Yoán Moncada;Bryan Abreu;-7%;80%;Single to RF (Ground Ball thru 2B-1B)
+t8;3-5;0;1--;3,(0-2) SSS;O;CHW;Gavin Sheets;Bryan Abreu;6%;86%;Strikeout Swinging
+t8;3-5;1;1--;3,(0-2) CFC;O;CHW;Yasmani Grandal;Bryan Abreu;5%;90%;Strikeout Looking
+t8;3-5;2;1--;3,(0-2) S*SC;O;CHW;Oscar Colás;Bryan Abreu;4%;94%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 3, Astros 5.
+Bottom of the 8th, Astros Batting, Ahead 5-3, White Sox' Jake Diekman facing 5-6-7 
+b8;5-3;0;---;7,(3-2) CBBFBFB;;HOU;Kyle Tucker;Jake Diekman;1%;95%;Walk
+;;;;;;;;;José Ruiz replaces Jake Diekman pitching
+b8;5-3;0;1--;6,(2-2) .1BBCSF>S;O;HOU;Corey Julks;José Ruiz;0%;95%;Strikeout Swinging, Tucker Steals 2B
+b8;5-3;1;-2-;6,(3-2) CBBBSX;R;HOU;David Hensley;José Ruiz;3%;97%;Single to RF (Ground Ball thru 2B-1B); Tucker Scores
+b8;6-3;1;1--;,(0-0) N;;HOU;Jake Meyers;José Ruiz;0%;98%;Balk; Hensley to 2B
+b8;6-3;1;-2-;3,(0-2) N.SS>B;;HOU;Jake Meyers;José Ruiz;1%;98%;Hensley Steals 3B
+b8;6-3;1;--3;5,(2-2) N.SS>B.*BS;O;HOU;Jake Meyers;José Ruiz;-1%;97%;Strikeout Swinging
+b8;6-3;2;--3;1,(0-0) X;O;HOU;Martín Maldonado;José Ruiz;-1%;97%;Flyball: LF (LF-CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. White Sox 3, Astros 6.
+Top of the 9th, White Sox Batting, Behind 3-6, Astros' Rafael Montero facing 9-1-2 
+;;;;;;;;;Rafael Montero replaces Bryan Abreu pitching
+t9;3-6;0;---;7,(1-2) .BSFFFFX;O;CHW;Elvis Andrus;Rafael Montero;2%;99%;Groundout: 3B-1B (SS-3B Hole)
+t9;3-6;1;---;2,(0-1) CX;;CHW;Tim Anderson;Rafael Montero;-2%;96%;Single to CF (Line Drive to Deep CF-RF)
+t9;3-6;1;1--;6,(3-2) BFCBBS;O;CHW;Luis Robert Jr.;Rafael Montero;2%;99%;Strikeout Swinging
+t9;3-6;2;1--;5,(3-1) BCBBX;O;CHW;Andrew Benintendi;Rafael Montero;1%;100%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 3, Astros 6.

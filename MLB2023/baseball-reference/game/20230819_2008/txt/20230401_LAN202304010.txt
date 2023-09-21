@@ -1,0 +1,261 @@
+
+Scorebox Meta
+20230401
+6:10 p.m. Local
+48886
+Dodger Stadium
+134
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/ARI-2023.png;/teams/ARI/2023.shtml;0;1;0;0;0;0;0;0;0;1;5;0
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;5;0;0;0;3;0;1;1;X;10;8;1
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;RF;3;1;1;0;0;0;3;.200;.385;.600;.985;14;9;0.042; 0.49;0.057;-0.015; 0.03%; 0.48; 0.2;0;0;2B
+Jason Heyward;/players/h/heywaja01.shtml;PH-RF;2;0;0;0;0;0;2;.000;.000;.000;.000;6;4;-0.001; 0.01;0.000;-0.001;0%; 0.01; -0.3;3;0;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;3;1;1;0;1;1;4;.250;.357;.250;.607;19;11;0.048; 0.37;0.064;-0.016; 0.03%; 0.37; 0.3;6;1;CS
+J.D. Martinez;/players/m/martijd02.shtml;DH;3;2;2;1;1;1;4;.273;.333;.636;.970;20;10;-0.031; 0.46;0.024;-0.055;-0.02%; 0.46; 1.1;;;HR,2B
+Max Muncy;/players/m/muncyma01.shtml;3B;3;1;0;0;0;2;4;.077;.143;.077;.220;13;8;0.008; 0.58;0.030;-0.022; 0.01%; 0.58; -0.6;2;1;HBP
+James Outman;/players/o/outmaja01.shtml;CF;0;0;0;0;0;0;0;.333;.500;.833;1.333;;;;;;;;;;1;0;
+Chris Taylor;/players/t/tayloch03.shtml;LF-3B;3;0;0;1;0;0;4;.000;.000;.000;.000;9;8;-0.024; 0.75;0.000;-0.024;-0.01%; 0.75; -1.0;1;0;SF
+Miguel Vargas;/players/v/vargami01.shtml;2B;2;2;1;0;2;0;4;.400;.750;.600;1.350;17;6;0.036; 0.50;0.036;0.000; 0.02%; 0.50; 0.6;1;3;
+Trayce Thompson;/players/t/thomptr01.shtml;CF-LF;4;3;3;8;0;1;4;.750;.750;3.000;3.750;16;11;0.276; 0.82;0.287;-0.011; 0.16%; 0.81; 6.6;1;0;3·HR
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;3;0;0;0;1;1;4;.182;.250;.273;.523;13;6;-0.006; 0.12;0.004;-0.010;-0.00%; 0.12; -0.5;1;3;
+Austin Barnes;/players/b/barneau01.shtml;C;4;0;0;0;0;1;4;.000;.000;.000;.000;18;10;-0.016; 0.15;0.000;-0.016;-0.01%; 0.15; -0.9;10;0;
+Clayton Kershaw;/players/k/kershcl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andre Jackson;/players/j/jacksan01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Mookie Betts (1, off Madison Bumgarner); J.D. Martinez (1, off Kevin Ginkel).
+
+
+HR: Trayce Thompson 3 (3, 1 off Kevin Ginkel, 5th inn, 2 on, 2 outs to Deep CF, 1 off Madison Bumgarner, 1st inn, 3 on, 2 outs to Deep LF-CF, 1 off Carlos Vargas, 8th inn, 0 on, 0 outs to Deep LF-CF); J.D. Martinez (1, off Cole Sulser, 7th inn, 0 on, 0 outs to Deep CF-RF).
+
+
+SF: Chris Taylor (1, off Madison Bumgarner).
+
+
+HBP: Max Muncy (1, by Madison Bumgarner).
+
+
+TB: Trayce Thompson 12; J.D. Martinez 6; Mookie Betts 2; Freddie Freeman; Miguel Vargas.
+
+
+RBI: Trayce Thompson 8 (8); Chris Taylor (1); J.D. Martinez (2).
+
+
+2-out RBI: Trayce Thompson 7.
+
+
+Team LOB: 3.
+With RISP: 3 for 6.
+
+Batting away
+Kyle Lewis;/players/l/lewisky01.shtml;DH;4;0;1;0;0;3;4;.222;.222;.667;.889;17;12;-0.066; 0.49;0.000;-0.066;-0.04%; 0.50; -0.9;;;2B
+Ketel Marte;/players/m/marteke01.shtml;2B;4;0;0;0;0;1;4;.091;.167;.091;.258;11;9;-0.044; 0.40;0.000;-0.044;-0.03%; 0.41; -1.1;3;1;
+Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF;4;0;0;0;0;1;4;.167;.167;.167;.333;15;11;-0.031; 0.29;0.000;-0.031;-0.02%; 0.30; -0.7;2;0;
+Christian Walker;/players/w/walkech02.shtml;1B;3;1;2;1;0;0;3;.400;.400;.700;1.100;15;9;0.067; 0.39;0.070;-0.003; 0.04%; 0.40; 1.0;7;1;HR
+Jose Herrera;/players/h/herrejo04.shtml;PH;1;0;0;0;0;0;1;.000;.000;.000;.000;3;2;0.000; 0.00;0.000;0.000;0%; 0.00; -0.2;;;
+Evan Longoria;/players/l/longoev01.shtml;3B;3;0;0;0;0;2;3;.143;.143;.286;.429;22;13;-0.038; 0.56;0.003;-0.041;-0.02%; 0.57; -0.3;0;1;
+Geraldo Perdomo;/players/p/perdoge01.shtml;3B;1;0;0;0;0;0;1;.000;.333;.000;.333;3;3;0.000; 0.00;0.000;0.000;0%; 0.00; -0.1;0;0;
+Corbin Carroll;/players/c/carroco02.shtml;RF;3;0;0;0;0;2;3;.200;.200;.300;.500;8;7;-0.033; 0.40;0.000;-0.033;-0.02%; 0.41; -0.7;1;0;
+Nick Ahmed;/players/a/ahmedni01.shtml;SS;3;0;1;0;0;1;3;.250;.250;.375;.625;9;8;0.021; 0.36;0.031;-0.010; 0.01%; 0.37; 0.0;0;1;
+Gabriel Moreno;/players/m/morenga01.shtml;C;3;0;1;0;0;0;3;.222;.200;.333;.533;5;4;-0.018; 0.66;0.044;-0.062;-0.01%; 0.67; -0.5;7;1;2B,GDP
+Alek Thomas;/players/t/thomaal01.shtml;CF;3;0;0;0;0;0;3;.000;.000;.000;.000;10;8;-0.026; 0.44;0.000;-0.026;-0.02%; 0.46; -0.5;3;0;
+Madison Bumgarner;/players/b/bumgama01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Kevin Ginkel;/players/g/ginkeke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Cole Sulser;/players/s/sulseco01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Carlos Vargas;/players/v/vargaca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Gabriel Moreno (1, off Clayton Kershaw); Kyle Lewis (1, off Andre Jackson).
+
+
+HR: Christian Walker (1, off Clayton Kershaw, 2nd inn, 0 on, 0 outs to Deep LF Line).
+
+
+TB: Christian Walker 5; Kyle Lewis 2; Gabriel Moreno 2; Nick Ahmed.
+
+
+GIDP: Gabriel Moreno (1).
+
+
+RBI: Christian Walker (2).
+
+
+Team LOB: 4.
+With RISP: 0 for 4.
+
+Pitching home
+Clayton Kershaw;/players/k/kershcl01.shtml; W (1-0); 6 ;4;1;1;0;9;1;1.50;21;76;56;23;12;21;7;5;4;0;69;;;0.160; 0.60; 0.10%; 0.60; 2.3
+Andre Jackson;/players/j/jacksan01.shtml; S (1); 3 ;1;0;0;0;1;0;0.00;11;42;30;17;7;6;3;7;2;0;;0;0;0.008; 0.05; 0.01%; 0.05; 1.7
+
+Pitching away
+Madison Bumgarner;/players/b/bumgama01.shtml; L (0-1); 4 ;4;5;5;4;2;1;11.25;20;85;49;34;5;10;4;9;2;0;32;;;-0.275; 0.72;-0.17%; 0.74; -2.8
+Kevin Ginkel;/players/g/ginkeke01.shtml;Kevin Ginkel; 1 ;2;3;3;1;1;1;16.20;6;20;10;4;4;2;2;2;0;0;;0;0;-0.057; 0.29;-0.03%; 0.30; -2.5
+Cole Sulser;/players/s/sulseco01.shtml;Cole Sulser; 2 ;1;1;1;0;2;1;9.00;7;27;16;10;5;1;2;3;1;0;;0;0;0.000; 0.01; 0.00%; 0.01; 0.1
+Carlos Vargas;/players/v/vargaca01.shtml;Carlos Vargas; 1 ;1;1;1;0;2;1;10.80;4;13;10;4;4;2;1;1;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; -0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Madison Bumgarner (1; Max Muncy).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Madison Bumgarner (1; Max Muncy).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - John Tumpane, 1B - Ryan Blakney, 2B - Marvin Hudson, 3B - Hunter Wendelstedt, LF - (none), RF - (none).
+Time of Game: 2:14.
+Attendance: 48,886.
+Field Condition: Unknown.
+Start Time Weather: 64° F, Wind 7mph out to Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Diamondbacks
+1;Kyle Lewis;/players/l/lewisky01.shtml;DH
+2;Ketel Marte;/players/m/marteke01.shtml;2B
+3;Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF
+4;Christian Walker;/players/w/walkech02.shtml;1B
+5;Evan Longoria;/players/l/longoev01.shtml;3B
+6;Corbin Carroll;/players/c/carroco02.shtml;RF
+7;Nick Ahmed;/players/a/ahmedni01.shtml;SS
+8;Gabriel Moreno;/players/m/morenga01.shtml;C
+9;Alek Thomas;/players/t/thomaal01.shtml;CF
+; Madison Bumgarner;/players/b/bumgama01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;RF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;J.D. Martinez;/players/m/martijd02.shtml;DH
+4;Max Muncy;/players/m/muncyma01.shtml;3B
+5;Chris Taylor;/players/t/tayloch03.shtml;LF
+6;Miguel Vargas;/players/v/vargami01.shtml;2B
+7;Trayce Thompson;/players/t/thomptr01.shtml;CF
+8;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+9;Austin Barnes;/players/b/barneau01.shtml;C
+; Clayton Kershaw;/players/k/kershcl01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;1-0;2;123;2,(0-1) .CX;RRRR;LAD;Trayce Thompson;Madison Bumgarner;23%;89%;Home Run (Fly Ball to Deep LF-CF); Freeman Scores; Muncy Scores; Vargas Scores
+t5;1-5;0;1--;2,(0-1) CX;OO;ARI;Gabriel Moreno;Clayton Kershaw;6%;92%;Ground Ball Double Play: SS-2B-1B
+b5;5-1;2;12-;3,(2-0) *BBX;RRR;LAD;Trayce Thompson;Kevin Ginkel;6%;98%;Home Run (Fly Ball to Deep CF); Martinez Scores; Vargas Scores
+b1;0-0;0;-2-;4,(1-2) SBFX;;LAD;Freddie Freeman;Madison Bumgarner;6%;67%;Single to 2B (Ground Ball to Weak 2B-1B); Betts to 3B
+b1;0-0;0;---;5,(2-2) BBFFX;;LAD;Mookie Betts;Madison Bumgarner;6%;61%;Double (Fly Ball to Deep LF-CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Diamondbacks Batting, Tied 0-0, Dodgers' Clayton Kershaw facing 1-2-3 
+t1;0-0;0;---;4,(1-2) CCBS;O;ARI;Kyle Lewis;Clayton Kershaw;2%;52%;Strikeout Swinging
+t1;0-0;1;---;3,(1-1) BSX;O;ARI;Ketel Marte;Clayton Kershaw;2%;54%;Groundout: 3B-1B
+t1;0-0;2;---;3,(1-1) BCX;O;ARI;Lourdes Gurriel Jr.;Clayton Kershaw;1%;55%;Lineout: 3B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 0, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Tied 0-0, Diamondbacks' Madison Bumgarner facing 1-2-3 
+b1;0-0;0;---;5,(2-2) BBFFX;;LAD;Mookie Betts;Madison Bumgarner;6%;61%;Double (Fly Ball to Deep LF-CF)
+b1;0-0;0;-2-;4,(1-2) SBFX;;LAD;Freddie Freeman;Madison Bumgarner;6%;67%;Single to 2B (Ground Ball to Weak 2B-1B); Betts to 3B
+b1;0-0;0;1-3;4,(1-2) BFSS;O;LAD;J.D. Martinez;Madison Bumgarner;-6%;61%;Strikeout Swinging
+b1;0-0;1;1-3;1,(0-0) H;;LAD;Max Muncy;Madison Bumgarner;3%;64%;Hit By Pitch; Freeman to 2B
+b1;0-0;1;123;1,(0-0) X;RO;LAD;Chris Taylor;Madison Bumgarner;-1%;64%;Flyball: RF/Sacrifice Fly; Betts Scores
+b1;1-0;2;12-;4,(3-0) BBBB;;LAD;Miguel Vargas;Madison Bumgarner;2%;66%;Walk; Freeman to 3B; Muncy to 2B
+b1;1-0;2;123;2,(0-1) .CX;RRRR;LAD;Trayce Thompson;Madison Bumgarner;23%;89%;Home Run (Fly Ball to Deep LF-CF); Freeman Scores; Muncy Scores; Vargas Scores
+b1;5-0;2;---;4,(3-0) BBBB;;LAD;Miguel Rojas;Madison Bumgarner;0%;89%;Walk
+b1;5-0;2;1--;6,(3-2) BCB1F*B>X;O;LAD;Austin Barnes;Madison Bumgarner;-1%;88%;Popfly: 2B (Deep 2B)
+;;;;;;;;;5 runs, 3 hits, 0 errors, 1 LOB. Diamondbacks 0, Dodgers 5.
+Top of the 2nd, Diamondbacks Batting, Behind 0-5, Dodgers' Clayton Kershaw facing 4-5-6 
+t2;0-5;0;---;5,(2-2) BCBCX;R;ARI;Christian Walker;Clayton Kershaw;-5%;83%;Home Run (Fly Ball to Deep LF Line)
+t2;1-5;0;---;6,(3-2) CBCBBT;O;ARI;Evan Longoria;Clayton Kershaw;2%;85%;Strikeout Swinging
+t2;1-5;1;---;3,(0-2) CCS;O;ARI;Corbin Carroll;Clayton Kershaw;1%;86%;Strikeout Swinging
+t2;1-5;2;---;4,(1-2) BCSC;O;ARI;Nick Ahmed;Clayton Kershaw;1%;87%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Diamondbacks 1, Dodgers 5.
+Bottom of the 2nd, Dodgers Batting, Ahead 5-1, Diamondbacks' Madison Bumgarner facing 1-2-3 
+b2;5-1;0;---;3,(1-1) CBX;O;LAD;Mookie Betts;Madison Bumgarner;-1%;86%;Groundout: 3B-1B (SS-3B Hole)
+b2;5-1;1;---;3,(1-1) BCX;O;LAD;Freddie Freeman;Madison Bumgarner;-1%;85%;Flyball: LF (LF-CF)
+b2;5-1;2;---;7,(3-2) BFFFBBB;;LAD;J.D. Martinez;Madison Bumgarner;1%;86%;Walk
+b2;5-1;2;1--;2,(0-1) FX;O;LAD;Max Muncy;Madison Bumgarner;-1%;85%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Diamondbacks 1, Dodgers 5.
+Top of the 3rd, Diamondbacks Batting, Behind 1-5, Dodgers' Clayton Kershaw facing 8-9-1 
+t3;1-5;0;---;1,(0-0) X;;ARI;Gabriel Moreno;Clayton Kershaw;-4%;81%;Double to LF (Line Drive to LF Line)
+t3;1-5;0;-2-;4,(0-2) CFFX;O;ARI;Alek Thomas;Clayton Kershaw;2%;82%;Lineout: CF (Deep CF); Moreno to 3B
+t3;1-5;1;--3;4,(1-2) S*SBS;O;ARI;Kyle Lewis;Clayton Kershaw;4%;86%;Strikeout Swinging
+t3;1-5;2;--3;4,(0-2) CFF*S;O;ARI;Ketel Marte;Clayton Kershaw;2%;89%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 1, Dodgers 5.
+Bottom of the 3rd, Dodgers Batting, Ahead 5-1, Diamondbacks' Madison Bumgarner facing 5-6-7 
+b3;5-1;0;---;4,(1-2) .FSBX;O;LAD;Chris Taylor;Madison Bumgarner;-1%;88%;Groundout: P-1B (Short 1B Line)
+b3;5-1;1;---;3,(0-2) FCX;;LAD;Miguel Vargas;Madison Bumgarner;1%;89%;Single to LF (Line Drive to Deep LF-CF)
+b3;5-1;1;1--;8,(2-2) CFBFBFFS;O;LAD;Trayce Thompson;Madison Bumgarner;-1%;88%;Strikeout Swinging
+b3;5-1;2;1--;2,(1-0) BX;O;LAD;Miguel Rojas;Madison Bumgarner;-1%;87%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 1, Dodgers 5.
+Top of the 4th, Diamondbacks Batting, Behind 1-5, Dodgers' Clayton Kershaw facing 3-4-5 
+t4;1-5;0;---;5,(2-2) CF.BBS;O;ARI;Lourdes Gurriel Jr.;Clayton Kershaw;2%;89%;Strikeout Swinging
+t4;1-5;1;---;5,(2-2) BCBC.X;;ARI;Christian Walker;Clayton Kershaw;-2%;87%;Single to CF (Ground Ball thru SS-2B)
+t4;1-5;1;1--;6,(3-2) FBBBS1S;O;ARI;Evan Longoria;Clayton Kershaw;2%;89%;Strikeout Swinging
+t4;1-5;2;1--;1,(0-0) X;O;ARI;Corbin Carroll;Clayton Kershaw;2%;91%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 1, Dodgers 5.
+Bottom of the 4th, Dodgers Batting, Ahead 5-1, Diamondbacks' Madison Bumgarner facing 9-1-2 
+b4;5-1;0;---;5,(2-2) FBBCX;O;LAD;Austin Barnes;Madison Bumgarner;-1%;90%;Popfly: 1B (2B-1B)
+b4;5-1;1;---;6,(2-2) CCFBBX;O;LAD;Mookie Betts;Madison Bumgarner;-1%;89%;Lineout: CF (Deep CF)
+b4;5-1;2;---;7,(3-2) BFBBFFB;;LAD;Freddie Freeman;Madison Bumgarner;0%;90%;Walk
+b4;5-1;2;1--;4,(1-2) FBC>B;O;LAD;J.D. Martinez;Madison Bumgarner;-1%;89%;Freeman Caught Stealing 2B (C-2B)
+;;;;;;;;;Tag play Challenged by ARI manager (Torey Lovullo): Original call overturned as shown.
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 1, Dodgers 5.
+Top of the 5th, Diamondbacks Batting, Behind 1-5, Dodgers' Clayton Kershaw facing 7-8-9 
+t5;1-5;0;---;3,(0-2) FFX;;ARI;Nick Ahmed;Clayton Kershaw;-3%;86%;Single to LF (Ground Ball thru SS-3B Hole)
+t5;1-5;0;1--;2,(0-1) CX;OO;ARI;Gabriel Moreno;Clayton Kershaw;6%;92%;Ground Ball Double Play: SS-2B-1B
+t5;1-5;2;---;4,(1-2) CCBX;O;ARI;Alek Thomas;Clayton Kershaw;1%;93%;Lineout: LF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Diamondbacks 1, Dodgers 5.
+Bottom of the 5th, Dodgers Batting, Ahead 5-1, Diamondbacks' Kevin Ginkel facing 3-4-5 
+;;;;;;;;;Kevin Ginkel replaces Madison Bumgarner pitching
+b5;5-1;0;---;4,(1-2) .SBSX;;LAD;J.D. Martinez;Kevin Ginkel;2%;94%;Double to LF (Ground Ball)
+b5;5-1;0;-2-;5,(2-2) SBC*BS;O;LAD;Max Muncy;Kevin Ginkel;-1%;93%;Strikeout Swinging
+b5;5-1;1;-2-;1,(0-0) X;O;LAD;Chris Taylor;Kevin Ginkel;-1%;92%;Popfly: 2B (Deep 2B-1B)
+b5;5-1;2;-2-;4,(3-0) BBBB;;LAD;Miguel Vargas;Kevin Ginkel;0%;92%;Walk
+b5;5-1;2;12-;3,(2-0) *BBX;RRR;LAD;Trayce Thompson;Kevin Ginkel;6%;98%;Home Run (Fly Ball to Deep CF); Martinez Scores; Vargas Scores
+b5;8-1;2;---;3,(1-1) BCX;O;LAD;Miguel Rojas;Kevin Ginkel;0%;98%;Groundout: SS-1B
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Diamondbacks 1, Dodgers 8.
+Top of the 6th, Diamondbacks Batting, Behind 1-8, Dodgers' Clayton Kershaw facing 1-2-3 
+t6;1-8;0;---;4,(1-2) BCFS;O;ARI;Kyle Lewis;Clayton Kershaw;0%;99%;Strikeout Swinging
+t6;1-8;1;---;3,(1-1) FBX;O;ARI;Ketel Marte;Clayton Kershaw;0%;99%;Groundout: SS-1B
+t6;1-8;2;---;2,(0-1) CX;O;ARI;Lourdes Gurriel Jr.;Clayton Kershaw;0%;99%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 1, Dodgers 8.
+Bottom of the 6th, Dodgers Batting, Ahead 8-1, Diamondbacks' Cole Sulser facing 9-1-2 
+;;;;;;;;;Cole Sulser replaces Kevin Ginkel pitching
+b6;8-1;0;---;3,(2-0) .BBX;O;LAD;Austin Barnes;Cole Sulser;0%;99%;Flyball: CF (Short CF)
+;;;;;;;;;Jason Heyward pinch hits for Mookie Betts (RF) batting 1st
+b6;8-1;1;---;4,(2-1) .FBBX;O;LAD;Jason Heyward;Cole Sulser;0%;99%;Groundout: 1B-P
+b6;8-1;2;---;5,(2-2) BFFBS;O;LAD;Freddie Freeman;Cole Sulser;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 1, Dodgers 8.
+Top of the 7th, Diamondbacks Batting, Behind 1-8, Dodgers' Andre Jackson facing 4-5-6 
+;;;;;;;;;Andre Jackson replaces Clayton Kershaw pitchingJason Heyward moves from PH to RF 
+t7;1-8;0;---;5,(2-2) ..CBBSX;O;ARI;Christian Walker;Andre Jackson;0%;99%;Lineout: 3B (Deep 3B)
+t7;1-8;1;---;10,(3-2) CSFBBFFBF.X;;ARI;Evan Longoria;Andre Jackson;0%;99%;Reached on E5 (Ground Ball to SS-3B Hole); Longoria to 1B
+t7;1-8;1;1--;4,(1-2) CBSS;O;ARI;Corbin Carroll;Andre Jackson;0%;99%;Strikeout Swinging
+t7;1-8;2;1--;2,(0-1) F1X;O;ARI;Nick Ahmed;Andre Jackson;0%;100%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Diamondbacks 1, Dodgers 8.
+Bottom of the 7th, Dodgers Batting, Ahead 8-1, Diamondbacks' Cole Sulser facing 3-4-5 
+b7;8-1;0;---;1,(0-0) X;R;LAD;J.D. Martinez;Cole Sulser;0%;100%;Home Run (Fly Ball to Deep CF-RF)
+b7;9-1;0;---;5,(2-2) BCSBS;O;LAD;Max Muncy;Cole Sulser;0%;100%;Strikeout Swinging
+b7;9-1;1;---;3,(0-2) FSX;O;LAD;Chris Taylor;Cole Sulser;0%;100%;Groundout: P-1B (Weak 2B-1B)
+b7;9-1;2;---;6,(3-2) BSBFB.X;O;LAD;Miguel Vargas;Cole Sulser;0%;100%;Lineout: LF (Deep LF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Diamondbacks 1, Dodgers 9.
+Top of the 8th, Diamondbacks Batting, Behind 1-9, Dodgers' Andre Jackson facing 8-9-1 
+;;;;;;;;;Chris Taylor moves from LF to 3B Trayce Thompson moves from CF to LF James Outman replaces Max Muncy (3B) playing CF batting 4th
+t8;1-9;0;---;2,(1-0) ...BX;O;ARI;Gabriel Moreno;Andre Jackson;0%;100%;Flyball: CF (Deep CF)
+t8;1-9;1;---;2,(1-0) BX;O;ARI;Alek Thomas;Andre Jackson;0%;100%;Popfly: SS (Weak SS-2B)
+t8;1-9;2;---;5,(2-2) BCBSX;;ARI;Kyle Lewis;Andre Jackson;0%;100%;Double to CF (Line Drive to Deep CF-RF)
+t8;1-9;2;-2-;1,(0-0) X;O;ARI;Ketel Marte;Andre Jackson;0%;100%;Groundout: 1B-P
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 1, Dodgers 9.
+Bottom of the 8th, Dodgers Batting, Ahead 9-1, Diamondbacks' Carlos Vargas facing 7-8-9 
+;;;;;;;;;Carlos Vargas replaces Cole Sulser pitchingGeraldo Perdomo replaces Evan Longoria playing 3B batting 5th
+b8;9-1;0;---;3,(1-1) ..BCX;R;LAD;Trayce Thompson;Carlos Vargas;0%;100%;Home Run (Fly Ball to Deep LF-CF)
+b8;10-1;0;---;4,(1-2) BTSS;O;LAD;Miguel Rojas;Carlos Vargas;0%;100%;Strikeout Swinging
+b8;10-1;1;---;4,(1-2) FBSS;O;LAD;Austin Barnes;Carlos Vargas;0%;100%;Strikeout Swinging
+b8;10-1;2;---;2,(0-1) CX;O;LAD;Jason Heyward;Carlos Vargas;0%;100%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Diamondbacks 1, Dodgers 10.
+Top of the 9th, Diamondbacks Batting, Behind 1-10, Dodgers' Andre Jackson facing 3-4-5 
+t9;1-10;0;---;5,(1-2) CFFBX;O;ARI;Lourdes Gurriel Jr.;Andre Jackson;0%;100%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;Jose Herrera pinch hits for Christian Walker (1B) batting 4th
+t9;1-10;1;---;3,(1-1) .CBX;O;ARI;Jose Herrera;Andre Jackson;0%;100%;Flyball: RF (Short RF)
+t9;1-10;2;---;3,(0-2) SSX;O;ARI;Geraldo Perdomo;Andre Jackson;0%;100%;Flyball: RF (CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 1, Dodgers 10.

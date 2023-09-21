@@ -1,0 +1,267 @@
+
+Scorebox Meta
+20230722
+6:07 p.m. Local
+37240
+Angel Stadium of Anaheim
+166
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/PIT-2023.png;/teams/PIT/2023.shtml;0;0;0;0;2;1;0;0;0;3;7;0
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;0;0;0;0;0;0;0;0;0;5;0
+
+Batting home
+Luis Rengifo;/players/r/rengilu01.shtml;2B-SS;4;0;2;0;0;1;4;.215;.306;.338;.644;12;8;-0.020; 0.75;0.032;-0.051;-0.01%; 0.56; -0.2;0;2;
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;4;0;0;0;0;3;4;.302;.397;.668;1.065;15;10;-0.092; 0.84;0.000;-0.092;-0.04%; 0.62; -0.8;;;
+Mickey Moniak;/players/m/moniami01.shtml;CF;4;0;1;0;0;1;4;.333;.364;.624;.988;15;10;-0.006; 0.72;0.042;-0.048;-0.00%; 0.54; -0.1;0;0;
+Taylor Ward;/players/w/wardta01.shtml;LF;1;0;0;0;2;0;4;.249;.333;.407;.741;16;3;0.144; 1.06;0.163;-0.019; 0.07%; 0.79; 1.4;2;0;SB,HBP
+Mike Moustakas;/players/m/moustmi01.shtml;3B;4;0;1;0;0;1;4;.254;.333;.442;.775;10;8;-0.013; 1.48;0.078;-0.091;-0.01%; 1.10; -0.0;2;2;
+Matt Thaiss;/players/t/thaisma01.shtml;C;3;0;0;0;0;2;4;.241;.357;.366;.723;23;11;-0.183; 1.43;0.059;-0.242;-0.08%; 1.07; -2.0;13;0;HBP
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;3;0;1;0;1;1;4;.243;.302;.439;.741;20;13;0.048; 1.77;0.148;-0.100; 0.02%; 1.32; 0.2;2;0;2B
+Trey Cabbage;/players/c/cabbatr01.shtml;1B;4;0;0;0;0;1;4;.263;.263;.526;.789;12;9;-0.310; 2.21;0.000;-0.310;-0.14%; 1.65; -2.5;6;1;GDP
+Andrew Velazquez;/players/v/velazan01.shtml;SS;2;0;0;0;0;1;2;.190;.306;.214;.520;11;7;-0.041; 0.81;0.000;-0.041;-0.02%; 0.61; -0.3;1;2;
+Eduardo Escobar;/players/e/escobed01.shtml;PH-2B;1;0;0;0;0;1;1;.240;.283;.365;.649;6;3;-0.033; 1.11;0.000;-0.033;-0.01%; 0.83; -0.3;0;0;
+Reid Detmers;/players/d/detmere01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gerardo Reyes;/players/r/reyesge01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jaime Barria;/players/b/barrija01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Hunter Renfroe (22, off Carmen Mlodzinski).
+
+
+HBP: Taylor Ward (7, by Ryan Borucki); Matt Thaiss (4, by David Bednar).
+
+
+TB: Luis Rengifo 2; Hunter Renfroe 2; Mickey Moniak; Mike Moustakas.
+
+
+GIDP: Trey Cabbage (1).
+
+
+Team LOB: 8.
+With RISP: 1 for 7.
+
+Batting away
+Connor Joe;/players/j/joeco01.shtml;LF;3;1;1;0;0;0;4;.243;.333;.426;.760;15;10;0.058; 0.74;0.090;-0.032; 0.00%; 0.05; 0.5;1;0;2B,HBP
+Jack Suwinski;/players/s/suwinja01.shtml;PH-CF;1;0;0;0;0;0;1;.225;.347;.500;.847;3;2;-0.003; 0.11;0.000;-0.003;0%; 0.01; -0.2;0;0;
+Bryan Reynolds;/players/r/reynobr01.shtml;CF-LF;5;1;2;1;0;1;5;.257;.323;.424;.747;24;17;0.168; 0.85;0.198;-0.030; 0.01%; 0.06; 1.3;2;0;
+Andrew McCutchen;/players/m/mccutan01.shtml;DH;3;0;1;0;1;1;4;.266;.377;.417;.795;15;8;-0.053; 0.89;0.024;-0.077;-0.00%; 0.06; -0.5;;;
+Carlos Santana;/players/s/santaca01.shtml;1B;4;0;1;1;0;3;4;.228;.315;.380;.695;16;11;0.014; 1.11;0.117;-0.102; 0.00%; 0.08; -0.2;5;0;2B
+Henry Davis;/players/d/davishe01.shtml;RF;3;0;0;0;1;1;4;.286;.386;.449;.835;15;9;-0.080; 1.03;0.007;-0.087;-0.00%; 0.07; -0.9;2;0;IW
+Jared Triolo;/players/t/triolja01.shtml;3B;4;0;0;0;0;3;4;.290;.342;.319;.661;19;10;-0.087; 0.83;0.000;-0.087;-0.00%; 0.06; -1.1;0;1;
+Endy Rodríguez;/players/r/rodrien01.shtml;C;3;1;1;1;1;0;4;.188;.235;.438;.673;23;12;0.077; 0.52;0.099;-0.023; 0.00%; 0.04; 0.8;13;1;HR
+Nick Gonzales;/players/g/gonzani01.shtml;2B;4;0;1;0;0;1;4;.244;.292;.415;.707;11;8;-0.022; 0.51;0.023;-0.045;-0.00%; 0.04; -0.4;2;3;2B
+Liover Peguero;/players/p/pegueli01.shtml;SS;4;0;0;0;0;3;4;.000;.000;.000;.000;22;17;-0.078; 0.71;0.000;-0.078;-0.00%; 0.05; -1.0;2;0;
+Ryan Borucki;/players/b/borucry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Osvaldo Bido;/players/b/bidoos01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Jose Hernandez;/players/h/hernajo03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Carmen Mlodzinski;/players/m/mlodzca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+David Bednar;/players/b/bednada01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Nick Gonzales (6, off Reid Detmers); Connor Joe (19, off Reid Detmers); Carlos Santana (23, off Reid Detmers).
+
+
+HR: Endy Rodríguez (1, off Gerardo Reyes, 6th inn, 0 on, 0 outs to Deep CF-RF).
+
+
+IBB: Henry Davis (1, by Reid Detmers).
+
+
+HBP: Connor Joe (6, by Reid Detmers).
+
+
+TB: Endy Rodríguez 4; Connor Joe 2; Nick Gonzales 2; Carlos Santana 2; Bryan Reynolds 2; Andrew McCutchen.
+
+
+RBI: Carlos Santana (46); Endy Rodríguez (1); Bryan Reynolds (45).
+
+
+2-out RBI: Carlos Santana.
+
+
+Team LOB: 8.
+With RISP: 2 for 7.
+
+Pitching home
+Reid Detmers;/players/d/detmere01.shtml; L (2-7); 5 ;6;2;2;2;9;0;4.38;24;100;65;36;15;14;4;8;5;0;54;;;0.014; 1.06; 0.01%; 0.80; 0.7
+Gerardo Reyes;/players/r/reyesge01.shtml;Gerardo Reyes; 2 ;1;1;1;1;2;1;7.94;8;35;22;13;3;6;1;4;1;0;;0;0;-0.035; 0.41;-0.02%; 0.30; 0.1
+Jaime Barria;/players/b/barrija01.shtml;Jaime Barria; 2 ;0;0;0;0;2;0;3.64;6;28;17;8;4;5;3;1;0;0;;0;0;0.026; 0.16; 0.01%; 0.12; 1.1
+
+Pitching away
+Ryan Borucki;/players/b/borucry01.shtml;Ryan Borucki; 1.2;0;0;0;0;3;0;4.05;6;21;12;3;4;5;0;2;1;0;58;;;0.077; 0.92; 0.00%; 0.07; 0.8
+Osvaldo Bido;/players/b/bidoos01.shtml; W (2-1); 3 ;4;0;0;1;3;0;4.50;13;56;35;24;6;5;3;6;4;0;;1;0;0.179; 1.23; 0.01%; 0.09; 1.6
+Jose Hernandez;/players/h/hernajo03.shtml; H (4); 1.2;0;0;0;0;2;0;3.34;5;21;13;6;1;6;1;2;1;0;;1;0;0.119; 0.89; 0.01%; 0.06; 1.0
+Carmen Mlodzinski;/players/m/mlodzca01.shtml; H (2); 1.2;1;0;0;0;3;0;2.45;6;19;13;5;7;1;2;1;0;0;;0;0;0.085; 0.92; 0.00%; 0.07; 0.8
+David Bednar;/players/b/bednada01.shtml; S (19); 1 ;0;0;0;2;1;0;1.15;5;23;9;5;2;2;1;0;0;0;;0;0;0.045; 2.40; 0.00%; 0.17; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Ryan Borucki (3; Taylor Ward); David Bednar (1; Matt Thaiss); Reid Detmers (7; Connor Joe).
+IBB: Reid Detmers (2; Henry Davis).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Ryan Borucki (3; Taylor Ward); David Bednar (1; Matt Thaiss); Reid Detmers (7; Connor Joe).
+IBB: Reid Detmers (2; Henry Davis).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Mike Muchlinski, 1B - Sean Barber, 2B - Alan Porter, 3B - Jim Wolf, LF - (none), RF - (none).
+Time of Game: 2:46.
+Attendance: 37,240.
+Field Condition: Unknown.
+Start Time Weather: 79° F, Wind 9mph out to Centerfield, Cloudy, No Precipitation.
+
+div_lineups
+Pirates
+1;Connor Joe;/players/j/joeco01.shtml;LF
+2;Bryan Reynolds;/players/r/reynobr01.shtml;CF
+3;Andrew McCutchen;/players/m/mccutan01.shtml;DH
+4;Carlos Santana;/players/s/santaca01.shtml;1B
+5;Henry Davis;/players/d/davishe01.shtml;RF
+6;Jared Triolo;/players/t/triolja01.shtml;3B
+7;Endy Rodríguez;/players/r/rodrien01.shtml;C
+8;Nick Gonzales;/players/g/gonzani01.shtml;2B
+9;Liover Peguero;/players/p/pegueli01.shtml;SS
+; Ryan Borucki;/players/b/borucry01.shtml;P
+Angels
+1;Luis Rengifo;/players/r/rengilu01.shtml;2B
+2;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+3;Mickey Moniak;/players/m/moniami01.shtml;CF
+4;Taylor Ward;/players/w/wardta01.shtml;LF
+5;Mike Moustakas;/players/m/moustmi01.shtml;3B
+6;Matt Thaiss;/players/t/thaisma01.shtml;C
+7;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+8;Trey Cabbage;/players/c/cabbatr01.shtml;1B
+9;Andrew Velazquez;/players/v/velazan01.shtml;SS
+; Reid Detmers;/players/d/detmere01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b9;0-3;1;123;4,(2-1) BBFX;OO;LAA;Trey Cabbage;David Bednar;21%;100%;Ground Ball Double Play: P-C-1B (Front of Home)
+b4;0-0;0;123;8,(3-2) BFFBBFF.X;OO;LAA;Matt Thaiss;Osvaldo Bido;18%;44%;Double Play: Lineout: 2B; Ward out at 2B/2B-SS
+t5;1-0;2;-2-;4,(2-1) CB*BX;R;PIT;Carlos Santana;Reid Detmers;12%;73%;Double to LF (Line Drive to Deep LF-CF); Reynolds Scores
+t5;0-0;1;-2-;4,(2-1) *BCBX;R;PIT;Bryan Reynolds;Reid Detmers;11%;64%;Single to CF (Ground Ball thru Front of Home); Joe Scores
+b9;0-3;1;12-;8,(3-2) CBF*BF*BFB;;LAA;Hunter Renfroe;David Bednar;-10%;79%;Walk; Ward to 3B; Thaiss to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Pirates Batting, Tied 0-0, Angels' Reid Detmers facing 1-2-3 
+t1;0-0;0;---;2,(0-1) CH;;PIT;Connor Joe;Reid Detmers;4%;54%;Hit By Pitch
+t1;0-0;0;1--;2,(0-1) SX;;PIT;Bryan Reynolds;Reid Detmers;9%;62%;Single to RF (Fly Ball to Short RF); Joe to 3B
+t1;0-0;0;1-3;4,(1-2) CF*BS;O;PIT;Andrew McCutchen;Reid Detmers;-6%;56%;Strikeout Swinging
+t1;0-0;1;1-3;3,(0-2) FS1*S;O;PIT;Carlos Santana;Reid Detmers;-6%;50%;Strikeout Swinging
+t1;0-0;2;1-3;6,(1-2) CFBFFS;O;PIT;Henry Davis;Reid Detmers;-5%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Pirates 0, Angels 0.
+Bottom of the 1st, Angels Batting, Tied 0-0, Pirates' Ryan Borucki facing 1-2-3 
+b1;0-0;0;---;3,(0-2) SS.S;O;LAA;Luis Rengifo;Ryan Borucki;2%;47%;Strikeout Swinging
+b1;0-0;1;---;6,(3-2) CBBBFC;O;LAA;Shohei Ohtani;Ryan Borucki;2%;49%;Strikeout Looking
+b1;0-0;2;---;2,(1-0) BX;O;LAA;Mickey Moniak;Ryan Borucki;1%;50%;Flyball: LF (Short LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 0, Angels 0.
+Top of the 2nd, Pirates Batting, Tied 0-0, Angels' Reid Detmers facing 6-7-8 
+t2;0-0;0;---;4,(1-2) FBSS;O;PIT;Jared Triolo;Reid Detmers;-2%;48%;Strikeout Swinging
+t2;0-0;1;---;5,(2-2) CBSBX;O;PIT;Endy Rodríguez;Reid Detmers;-2%;46%;Popfly: 3B (SS-3B Hole)
+t2;0-0;2;---;3,(1-1) CBX;;PIT;Nick Gonzales;Reid Detmers;2%;48%;Double to LF (Line Drive to Deep LF Line)
+t2;0-0;2;-2-;6,(1-2) FSFFBX;O;PIT;Liover Peguero;Reid Detmers;-3%;45%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 0, Angels 0.
+Bottom of the 2nd, Angels Batting, Tied 0-0, Pirates' Ryan Borucki facing 4-5-6 
+b2;0-0;0;---;2,(1-0) BH;;LAA;Taylor Ward;Ryan Borucki;-4%;41%;Hit By Pitch
+b2;0-0;0;1--;2,(1-1) CVX;O;LAA;Mike Moustakas;Ryan Borucki;3%;45%;Lineout: CF
+b2;0-0;1;1--;6,(3-2) SB1*BC.BC;O;LAA;Matt Thaiss;Ryan Borucki;3%;48%;Strikeout Looking
+;;;;;;;;;Osvaldo Bido replaces Ryan Borucki pitching
+b2;0-0;2;1--;1,(0-0) .>C;;LAA;Hunter Renfroe;Osvaldo Bido;-1%;47%;Ward Steals 2B
+b2;0-0;2;-2-;5,(1-2) .>C.CBFB;;LAA;Hunter Renfroe;Osvaldo Bido;0%;46%;Passed Ball; Ward to 3B
+b2;0-0;2;--3;8,(3-2) .>C.CBFB.FBX;O;LAA;Hunter Renfroe;Osvaldo Bido;4%;50%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Pirates 0, Angels 0.
+Top of the 3rd, Pirates Batting, Tied 0-0, Angels' Reid Detmers facing 1-2-3 
+t3;0-0;0;---;8,(3-2) BBBSCFFX;O;PIT;Connor Joe;Reid Detmers;-3%;47%;Flyball: LF (Short LF)
+t3;0-0;1;---;4,(1-2) CF.BS;O;PIT;Bryan Reynolds;Reid Detmers;-2%;46%;Strikeout Swinging
+t3;0-0;2;---;1,(0-0) X;;PIT;Andrew McCutchen;Reid Detmers;1%;47%;Single to CF (Line Drive to Deep CF)
+t3;0-0;2;1--;5,(2-2) FTB*BS;O;PIT;Carlos Santana;Reid Detmers;-3%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 0, Angels 0.
+Bottom of the 3rd, Angels Batting, Tied 0-0, Pirates' Osvaldo Bido facing 8-9-1 
+b3;0-0;0;---;2,(0-1) FX;O;LAA;Trey Cabbage;Osvaldo Bido;3%;47%;Flyball: RF (Deep RF Line)
+b3;0-0;1;---;5,(2-2) FBFB*S;O;LAA;Andrew Velazquez;Osvaldo Bido;2%;49%;Strikeout Swinging
+b3;0-0;2;---;5,(2-2) .BFBCX;;LAA;Luis Rengifo;Osvaldo Bido;-1%;47%;Single to LF (Line Drive to LF-CF)
+b3;0-0;2;1--;4,(1-2) BCT.S;O;LAA;Shohei Ohtani;Osvaldo Bido;3%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 0, Angels 0.
+Top of the 4th, Pirates Batting, Tied 0-0, Angels' Reid Detmers facing 5-6-7 
+t4;0-0;0;---;4,(2-1) CBBX;O;PIT;Henry Davis;Reid Detmers;-3%;47%;Groundout: SS-1B
+t4;0-0;1;---;6,(3-2) FBFBBC;O;PIT;Jared Triolo;Reid Detmers;-2%;45%;Strikeout Looking
+t4;0-0;2;---;7,(3-2) BCBFFBB;;PIT;Endy Rodríguez;Reid Detmers;2%;47%;Walk
+t4;0-0;2;1--;4,(1-2) BFFS;O;PIT;Nick Gonzales;Reid Detmers;-3%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Pirates 0, Angels 0.
+Bottom of the 4th, Angels Batting, Tied 0-0, Pirates' Osvaldo Bido facing 3-4-5 
+b4;0-0;0;---;5,(2-2) S.CBBX;;LAA;Mickey Moniak;Osvaldo Bido;-4%;40%;Single to 1B (Ground Ball to 2B-1B)
+b4;0-0;0;1--;4,(3-0) BBBB;;LAA;Taylor Ward;Osvaldo Bido;-6%;33%;Walk; Moniak to 2B
+b4;0-0;0;12-;1,(0-0) X;;LAA;Mike Moustakas;Osvaldo Bido;-8%;26%;Single to RF (Line Drive to Short RF); Moniak to 3B; Ward to 2B
+b4;0-0;0;123;8,(3-2) BFFBBFF.X;OO;LAA;Matt Thaiss;Osvaldo Bido;18%;44%;Double Play: Lineout: 2B; Ward out at 2B/2B-SS
+b4;0-0;2;1-3;3,(0-2) FS*S;O;LAA;Hunter Renfroe;Osvaldo Bido;6%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Pirates 0, Angels 0.
+Top of the 5th, Pirates Batting, Tied 0-0, Angels' Reid Detmers facing 9-1-2 
+t5;0-0;0;---;9,(3-2) CSBBBFFFC;O;PIT;Liover Peguero;Reid Detmers;-3%;47%;Strikeout Looking
+t5;0-0;1;---;2,(0-1) FX;;PIT;Connor Joe;Reid Detmers;5%;52%;Double to RF (Line Drive to Deep CF-RF)
+t5;0-0;1;-2-;4,(2-1) *BCBX;R;PIT;Bryan Reynolds;Reid Detmers;11%;64%;Single to CF (Ground Ball thru Front of Home); Joe Scores
+t5;1-0;1;1--;4,(2-1) SBBX;O;PIT;Andrew McCutchen;Reid Detmers;-2%;62%;Groundout: 2B-1B (2B-1B); Reynolds to 2B
+t5;1-0;2;-2-;4,(2-1) CB*BX;R;PIT;Carlos Santana;Reid Detmers;12%;73%;Double to LF (Line Drive to Deep LF-CF); Reynolds Scores
+t5;2-0;2;-2-;,(3-0) VVVV;;PIT;Henry Davis;Reid Detmers;1%;74%;Intentional Walk
+t5;2-0;2;12-;3,(2-0) B*BX;O;PIT;Jared Triolo;Reid Detmers;-4%;71%;Lineout: 3B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Pirates 2, Angels 0.
+Bottom of the 5th, Angels Batting, Behind 0-2, Pirates' Osvaldo Bido facing 8-9-1 
+b5;0-2;0;---;3,(1-1) SBX;O;LAA;Trey Cabbage;Osvaldo Bido;3%;74%;Groundout: P-1B
+b5;0-2;1;---;6,(2-2) BBFFFX;O;LAA;Andrew Velazquez;Osvaldo Bido;2%;76%;Flyball: RF (CF-RF)
+b5;0-2;2;---;2,(1-0) BX;;LAA;Luis Rengifo;Osvaldo Bido;-2%;74%;Single to LF (Line Drive to LF-CF)
+;;;;;;;;;Jose Hernandez replaces Osvaldo Bido pitching
+b5;0-2;2;1--;1,(0-0) .X;O;LAA;Shohei Ohtani;Jose Hernandez;3%;77%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 2, Angels 0.
+Top of the 6th, Pirates Batting, Ahead 2-0, Angels' Gerardo Reyes facing 7-8-9 
+;;;;;;;;;Gerardo Reyes replaces Reid Detmers pitching
+t6;2-0;0;---;8,(3-2) .SCBFBB.FX;R;PIT;Endy Rodríguez;Gerardo Reyes;8%;86%;Home Run (Fly Ball to Deep CF-RF)
+t6;3-0;0;---;1,(0-0) X;O;PIT;Nick Gonzales;Gerardo Reyes;-1%;85%;Flyball: RF (Deep CF-RF)
+t6;3-0;1;---;3,(0-2) CFS;O;PIT;Liover Peguero;Gerardo Reyes;-1%;84%;Strikeout Swinging
+t6;3-0;2;---;3,(1-1) BFX;O;PIT;Connor Joe;Gerardo Reyes;-1%;83%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Pirates 3, Angels 0.
+Bottom of the 6th, Angels Batting, Behind 0-3, Pirates' Jose Hernandez facing 3-4-5 
+b6;0-3;0;---;5,(1-2) CBCFS;O;LAA;Mickey Moniak;Jose Hernandez;3%;86%;Strikeout Swinging
+b6;0-3;1;---;6,(3-2) FBBBC.X;O;LAA;Taylor Ward;Jose Hernandez;2%;88%;Popfly: 2B (SS-2B)
+b6;0-3;2;---;3,(1-1) CBX;O;LAA;Mike Moustakas;Jose Hernandez;1%;89%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 3, Angels 0.
+Top of the 7th, Pirates Batting, Ahead 3-0, Angels' Gerardo Reyes facing 2-3-4 
+t7;3-0;0;---;5,(2-2) BFFFVX;O;PIT;Bryan Reynolds;Gerardo Reyes;-1%;88%;Flyball: LF (Short LF)
+t7;3-0;1;---;6,(3-2) BCBC.B*B;;PIT;Andrew McCutchen;Gerardo Reyes;1%;89%;Walk
+t7;3-0;1;1--;4,(1-2) CBFS;O;PIT;Carlos Santana;Gerardo Reyes;-1%;88%;Strikeout Swinging
+t7;3-0;2;1--;5,(3-1) BC1*BBX;O;PIT;Henry Davis;Gerardo Reyes;-1%;87%;Lineout: SS
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Pirates 3, Angels 0.
+Bottom of the 7th, Angels Batting, Behind 0-3, Pirates' Jose Hernandez facing 6-7-8 
+b7;0-3;0;---;6,(3-2) FCBBBC;O;LAA;Matt Thaiss;Jose Hernandez;3%;90%;Strikeout Looking
+;;;;;;;;;Carmen Mlodzinski replaces Jose Hernandez pitching
+b7;0-3;1;---;1,(0-0) .X;;LAA;Hunter Renfroe;Carmen Mlodzinski;-5%;85%;Double to RF (Ground Ball)
+b7;0-3;1;-2-;3,(0-2) CS.S;O;LAA;Trey Cabbage;Carmen Mlodzinski;4%;89%;Strikeout Swinging
+;;;;;;;;;Eduardo Escobar pinch hits for Andrew Velazquez (SS) batting 9th
+b7;0-3;2;-2-;6,(3-2) .S.BBFBS;O;LAA;Eduardo Escobar;Carmen Mlodzinski;3%;93%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 3, Angels 0.
+Top of the 8th, Pirates Batting, Ahead 3-0, Angels' Jaime Barria facing 6-7-8 
+;;;;;;;;;Jaime Barria replaces Gerardo Reyes pitchingEduardo Escobar moves from PH to 2B Luis Rengifo moves from 2B to SS 
+t8;3-0;0;---;6,(3-2) ...BBBCCS;O;PIT;Jared Triolo;Jaime Barria;-1%;92%;Strikeout Swinging
+t8;3-0;1;---;3,(2-0) BBX;O;PIT;Endy Rodríguez;Jaime Barria;-1%;91%;Flyball: RF (Deep RF)
+t8;3-0;2;---;3,(1-1) SBX;O;PIT;Nick Gonzales;Jaime Barria;0%;91%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 3, Angels 0.
+Bottom of the 8th, Angels Batting, Behind 0-3, Pirates' Carmen Mlodzinski facing 1-2-3 
+b8;0-3;0;---;2,(1-0) BX;O;LAA;Luis Rengifo;Carmen Mlodzinski;3%;94%;Popfly: SS (Deep 3B)
+b8;0-3;1;---;4,(1-2) TS.BS;O;LAA;Shohei Ohtani;Carmen Mlodzinski;2%;96%;Strikeout Swinging
+b8;0-3;2;---;3,(1-1) BSX;O;LAA;Mickey Moniak;Carmen Mlodzinski;1%;96%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 3, Angels 0.
+Top of the 9th, Pirates Batting, Ahead 3-0, Angels' Jaime Barria facing 9-1-2 
+t9;3-0;0;---;4,(1-2) CFBS;O;PIT;Liover Peguero;Jaime Barria;0%;96%;Strikeout Swinging
+;;;;;;;;;Jack Suwinski pinch hits for Connor Joe (LF) batting 1st
+t9;3-0;1;---;3,(1-1) .CBX;O;PIT;Jack Suwinski;Jaime Barria;0%;96%;Groundout: 1B-P
+t9;3-0;2;---;9,(3-2) SBBBC.FFFX;O;PIT;Bryan Reynolds;Jaime Barria;0%;96%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 3, Angels 0.
+Bottom of the 9th, Angels Batting, Behind 0-3, Pirates' David Bednar facing 4-5-6 
+;;;;;;;;;David Bednar replaces Carmen Mlodzinski pitchingBryan Reynolds moves from CF to LF Jack Suwinski moves from PH to CF 
+b9;0-3;0;---;4,(3-0) ...BBBB;;LAA;Taylor Ward;David Bednar;-5%;91%;Walk
+b9;0-3;0;1--;4,(1-2) BCSS;O;LAA;Mike Moustakas;David Bednar;5%;95%;Strikeout Swinging
+b9;0-3;1;1--;3,(2-0) BB.H;;LAA;Matt Thaiss;David Bednar;-6%;89%;Hit By Pitch; Ward to 2B
+b9;0-3;1;12-;8,(3-2) CBF*BF*BFB;;LAA;Hunter Renfroe;David Bednar;-10%;79%;Walk; Ward to 3B; Thaiss to 2B
+b9;0-3;1;123;4,(2-1) BBFX;OO;LAA;Trey Cabbage;David Bednar;21%;100%;Ground Ball Double Play: P-C-1B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Pirates 3, Angels 0.

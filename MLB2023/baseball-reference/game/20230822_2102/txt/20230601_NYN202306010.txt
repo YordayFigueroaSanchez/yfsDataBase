@@ -1,0 +1,262 @@
+
+Scorebox Meta
+20230601
+1:10 p.m. Local
+38302
+Citi Field
+152
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/PHI-2023.png;/teams/PHI/2023.shtml;2;0;0;0;0;0;0;0;0;2;6;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;1;2;0;1;0;0;X;4;4;1
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;3;1;1;0;1;0;4;.295;.381;.433;.814;19;10;0.014; 0.66;0.047;-0.034; 0.01%; 0.81; 0.0;4;0;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;3;0;0;0;1;0;4;.220;.293;.422;.715;16;8;-0.031; 0.80;0.024;-0.055;-0.02%; 0.99; -0.5;1;3;
+Jeff McNeil;/players/m/mcneije01.shtml;2B;4;0;1;1;0;0;4;.287;.362;.356;.719;16;11;0.074; 0.92;0.117;-0.043; 0.06%; 1.14; 0.6;0;2;
+Pete Alonso;/players/a/alonspe01.shtml;1B;3;0;0;0;1;2;4;.235;.332;.545;.877;22;14;-0.048; 1.04;0.040;-0.089;-0.04%; 1.28; -0.6;6;1;
+Brett Baty;/players/b/batybr01.shtml;3B;4;1;1;0;0;0;4;.240;.311;.388;.700;16;10;-0.014; 0.96;0.059;-0.073;-0.01%; 1.19; -0.1;2;0;2B
+Starling Marte;/players/m/martest01.shtml;RF;2;1;0;0;0;0;4;.243;.312;.309;.621;9;5;0.022; 0.98;0.055;-0.032; 0.02%; 1.22; -0.1;0;0;SB,HBP,SH
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;2;0;0;0;0;0;2;.215;.359;.308;.667;10;6;-0.080; 1.43;0.000;-0.080;-0.06%; 1.77; -0.7;;;
+Mark Vientos;/players/v/vientma01.shtml;PH-DH-DH;0;0;0;1;0;0;1;.192;.214;.308;.522;6;3;0.032; 1.42;0.032;0.000; 0.02%; 1.76; 0.2;;;SF
+Mark Canha;/players/c/canhama01.shtml;LF;2;1;1;2;1;0;3;.245;.330;.406;.736;13;6;0.227; 0.95;0.253;-0.027; 0.17%; 1.18; 1.7;1;0;HR
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;3;0;0;0;0;1;3;.252;.308;.523;.831;15;9;-0.043; 0.55;0.000;-0.043;-0.03%; 0.68; -0.5;13;0;
+Max Scherzer;/players/s/scherma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Jeff Brigham;/players/b/brighje01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brooks Raley;/players/r/raleybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Drew Smith;/players/s/smithdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Brett Baty (6, off Matt Strahm).
+
+
+HR: Mark Canha (5, off Taijuan Walker, 4th inn, 1 on, 2 outs to Deep LF-CF).
+
+
+SF: Mark Vientos (1, off Matt Strahm).
+
+
+SH: Starling Marte (2, off Matt Strahm).
+
+
+HBP: Starling Marte (5, by Taijuan Walker).
+
+
+TB: Mark Canha 4; Brett Baty 2; Brandon Nimmo; Jeff McNeil.
+
+
+RBI: Mark Canha 2 (18); Mark Vientos (4); Jeff McNeil (17).
+
+
+2-out RBI: Mark Canha 2; Jeff McNeil.
+
+
+Team LOB: 5.
+With RISP: 2 for 5.
+
+Batting away
+Bryson Stott;/players/s/stottbr01.shtml;2B;4;0;0;0;0;2;4;.284;.320;.396;.715;17;13;-0.119; 0.88;0.000;-0.119;-0.06%; 0.68; -1.3;2;4;GDP
+Trea Turner;/players/t/turnetr01.shtml;SS;4;1;1;0;0;2;4;.236;.279;.369;.648;22;13;0.067; 0.97;0.126;-0.059; 0.03%; 0.75; 0.8;1;2;SB
+Bryce Harper;/players/h/harpebr03.shtml;DH;3;1;0;0;1;1;4;.304;.404;.467;.871;12;7;-0.052; 1.15;0.035;-0.088;-0.02%; 0.89; -0.2;;;SB
+Nick Castellanos;/players/c/casteni01.shtml;RF;3;0;3;1;0;0;4;.300;.345;.461;.806;19;12;0.115; 0.88;0.115;0.000; 0.05%; 0.68; 0.8;1;0;SF
+Kyle Schwarber;/players/s/schwaky01.shtml;LF;4;0;0;0;0;2;4;.160;.312;.387;.699;16;12;-0.125; 1.23;0.000;-0.125;-0.06%; 0.95; -0.9;3;0;
+Brandon Marsh;/players/m/marshbr02.shtml;CF;3;0;1;0;0;1;3;.275;.373;.475;.848;11;8;-0.025; 0.95;0.027;-0.052;-0.01%; 0.73; -0.2;4;0;
+Drew Ellis;/players/e/ellisdr01.shtml;PH;1;0;0;0;0;0;1;.000;.000;.000;.000;1;1;-0.036; 1.24;0.000;-0.036;-0.02%; 0.95; -0.2;;;
+Kody Clemens;/players/c/clemeko01.shtml;1B;3;0;0;0;0;1;3;.257;.321;.459;.780;12;9;-0.086; 1.08;0.000;-0.086;-0.04%; 0.83; -0.8;8;1;
+Edmundo Sosa;/players/s/sosaed01.shtml;3B;3;0;0;0;0;2;3;.254;.276;.410;.685;13;10;-0.055; 0.71;0.000;-0.055;-0.03%; 0.55; -0.4;1;3;
+Garrett Stubbs;/players/s/stubbga01.shtml;C;2;0;1;0;0;1;2;.242;.286;.333;.619;6;5;0.005; 0.80;0.027;-0.023; 0.00%; 0.61; 0.2;3;1;
+J.T. Realmuto;/players/r/realmjt01.shtml;PH-C;1;0;0;0;0;0;1;.256;.306;.420;.726;4;3;-0.037; 1.46;0.000;-0.037;-0.02%; 1.12; -0.2;0;0;
+Taijuan Walker;/players/w/walketa01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Matt Strahm;/players/s/strahma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gregory Soto;/players/s/sotogr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Craig Kimbrel;/players/k/kimbrcr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+SF: Nick Castellanos (2, off Max Scherzer).
+
+
+TB: Nick Castellanos 3; Brandon Marsh; Trea Turner; Garrett Stubbs.
+
+
+GIDP: Bryson Stott (6).
+
+
+RBI: Nick Castellanos (29).
+
+
+Team LOB: 4.
+With RISP: 0 for 1.
+
+Pitching home
+Max Scherzer;/players/s/scherma01.shtml; W (5-2); 7 ;5;2;1;1;9;0;3.21;26;101;71;37;20;14;8;8;3;0;69;;;0.199; 0.93; 0.15%; 1.16; 1.5
+Jeff Brigham;/players/b/brighje01.shtml; H (4); 1 ;0;0;0;0;1;0;3.26;3;15;11;6;3;2;1;1;0;0;;0;0;0.075; 0.99; 0.06%; 1.22; 0.5
+Brooks Raley;/players/r/raleybr01.shtml; H (13); 0.2;1;0;0;0;2;0;2.84;3;16;10;2;2;6;1;0;0;0;;0;0;0.039; 1.52; 0.03%; 1.89; 0.3
+Drew Smith;/players/s/smithdr01.shtml; S (2); 0.1;0;0;0;0;0;0;3.86;1;1;1;1;0;0;0;1;0;0;;1;0;0.036; 1.24; 0.03%; 1.54; 0.2
+
+Pitching away
+Taijuan Walker;/players/w/walketa01.shtml; L (4-3); 4 ;2;3;3;3;2;1;5.65;18;74;38;22;4;12;6;6;4;0;45;;;-0.162; 1.13;-0.07%; 0.87; -1.0
+Matt Strahm;/players/s/strahma01.shtml;Matt Strahm; 2 ;2;1;1;1;1;0;3.20;9;41;25;15;5;5;4;3;2;0;;0;0;-0.028; 0.91;-0.01%; 0.70; 0.0
+Gregory Soto;/players/s/sotogr01.shtml;Gregory Soto; 1 ;0;0;0;0;0;0;5.48;3;15;11;6;2;3;1;2;0;0;;0;0;0.024; 0.31; 0.01%; 0.24; 0.5
+Craig Kimbrel;/players/k/kimbrcr01.shtml;Craig Kimbrel; 1 ;0;0;0;0;0;0;5.57;3;12;8;5;3;0;2;1;0;0;;0;0;0.014; 0.18; 0.01%; 0.14; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Taijuan Walker (1; Starling Marte).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Taijuan Walker (1; Starling Marte).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Tripp Gibson, 1B - Edwin Jimenez, 2B - Edwin Moscoso, 3B - Chris Guccione, LF - (none), RF - (none).
+Time of Game: 2:32.
+Attendance: 38,302.
+Field Condition: Unknown.
+Start Time Weather: 82° F, Wind 4mph out to Leftfield, Sunny, No Precipitation.
+
+div_lineups
+Phillies
+1;Bryson Stott;/players/s/stottbr01.shtml;2B
+2;Trea Turner;/players/t/turnetr01.shtml;SS
+3;Bryce Harper;/players/h/harpebr03.shtml;DH
+4;Nick Castellanos;/players/c/casteni01.shtml;RF
+5;Kyle Schwarber;/players/s/schwaky01.shtml;LF
+6;Brandon Marsh;/players/m/marshbr02.shtml;CF
+7;Kody Clemens;/players/c/clemeko01.shtml;1B
+8;Edmundo Sosa;/players/s/sosaed01.shtml;3B
+9;Garrett Stubbs;/players/s/stubbga01.shtml;C
+; Taijuan Walker;/players/w/walketa01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Jeff McNeil;/players/m/mcneije01.shtml;2B
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Brett Baty;/players/b/batybr01.shtml;3B
+6;Starling Marte;/players/m/martest01.shtml;RF
+7;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+8;Mark Canha;/players/c/canhama01.shtml;LF
+9;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+; Max Scherzer;/players/s/scherma01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b4;1-2;2;-2-;5,(3-1) BCBBX;RR;NYM;Mark Canha;Taijuan Walker;25%;65%;Home Run (Fly Ball to Deep LF-CF); Marte Scores
+b3;0-2;2;12-;5,(2-2) BCFBX;R;NYM;Jeff McNeil;Taijuan Walker;12%;44%;Single to CF (Line Drive); Nimmo Scores; Lindor to 3B
+t1;0-0;1;12-;5,(1-2) FSBF>B;R;PHI;Nick Castellanos;Max Scherzer;-10%;36%;Turner Steals 3B; Harper Steals 2B; Turner Scores/Adv on E2 (throw)/No RBI; Harper to 3B
+b3;1-2;2;1-3;4,(1-2) SBFS;O;NYM;Pete Alonso;Taijuan Walker;-6%;38%;Strikeout Swinging
+b6;3-2;0;---;5,(2-2) BCBFX;;NYM;Brett Baty;Matt Strahm;6%;80%;Double to CF (Line Drive to LF-CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Phillies Batting, Tied 0-0, Mets' Max Scherzer facing 1-2-3 
+t1;0-0;0;---;5,(2-2) BBCSS;O;PHI;Bryson Stott;Max Scherzer;2%;52%;Strikeout Swinging
+t1;0-0;1;---;3,(1-1) CBX;;PHI;Trea Turner;Max Scherzer;-2%;50%;Single to LF (Ground Ball)
+t1;0-0;1;1--;5,(3-1) BCB1BB;;PHI;Bryce Harper;Max Scherzer;-4%;46%;Walk; Turner to 2B
+t1;0-0;1;12-;5,(1-2) FSBF>B;R;PHI;Nick Castellanos;Max Scherzer;-10%;36%;Turner Steals 3B; Harper Steals 2B; Turner Scores/Adv on E2 (throw)/No RBI; Harper to 3B
+t1;1-0;1;--3;6,(2-2) FSBF>B.X;RO;PHI;Nick Castellanos;Max Scherzer;-2%;34%;Flyball: CF/Sacrifice Fly (Deep CF); Harper Scores/unER
+t1;2-0;2;---;2,(0-1) CX;O;PHI;Kyle Schwarber;Max Scherzer;1%;35%;Flyball: LF (Short LF-CF)
+;;;;;;;;;2 runs, 1 hit, 1 error, 0 LOB. Phillies 2, Mets 0.
+Bottom of the 1st, Mets Batting, Behind 0-2, Phillies' Taijuan Walker facing 1-2-3 
+b1;0-2;0;---;6,(2-2) CBBCFX;O;NYM;Brandon Nimmo;Taijuan Walker;-2%;33%;Lineout: LF
+b1;0-2;1;---;2,(1-0) BX;O;NYM;Francisco Lindor;Taijuan Walker;-2%;31%;Lineout: CF (Deep CF)
+b1;0-2;2;---;4,(2-1) BCBX;O;NYM;Jeff McNeil;Taijuan Walker;-1%;30%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 2, Mets 0.
+Top of the 2nd, Phillies Batting, Ahead 2-0, Mets' Max Scherzer facing 6-7-8 
+t2;2-0;0;---;2,(0-1) FX;O;PHI;Brandon Marsh;Max Scherzer;2%;32%;Groundout: 2B-1B
+t2;2-0;1;---;4,(1-2) SCBS;O;PHI;Kody Clemens;Max Scherzer;1%;33%;Strikeout Swinging
+t2;2-0;2;---;5,(2-2) BCSBS;O;PHI;Edmundo Sosa;Max Scherzer;1%;34%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 2, Mets 0.
+Bottom of the 2nd, Mets Batting, Behind 0-2, Phillies' Taijuan Walker facing 4-5-6 
+b2;0-2;0;---;8,(3-2) CFBFFBB.B;;NYM;Pete Alonso;Taijuan Walker;4%;38%;Walk
+b2;0-2;0;1--;4,(2-1) BBFX;O;NYM;Brett Baty;Taijuan Walker;-4%;34%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Baty to 1B
+b2;0-2;1;1--;3,(1-1) B1SX;O;NYM;Starling Marte;Taijuan Walker;-2%;32%;Groundout: 3B-1B (Weak 3B); Baty to 2B
+b2;0-2;2;-2-;4,(1-2) BCFX;O;NYM;Daniel Vogelbach;Taijuan Walker;-3%;29%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Phillies 2, Mets 0.
+Top of the 3rd, Phillies Batting, Ahead 2-0, Mets' Max Scherzer facing 9-1-2 
+t3;2-0;0;---;2,(0-1) CX;;PHI;Garrett Stubbs;Max Scherzer;-3%;26%;Single to 2B (Bunt to Short 1B Line)
+t3;2-0;0;1--;3,(1-1) *BFX;OO;PHI;Bryson Stott;Max Scherzer;6%;32%;Ground Ball Double Play: 1B-SS-1B
+t3;2-0;2;---;6,(3-2) FBBBFS;O;PHI;Trea Turner;Max Scherzer;1%;33%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Phillies 2, Mets 0.
+Bottom of the 3rd, Mets Batting, Behind 0-2, Phillies' Taijuan Walker facing 8-9-1 
+b3;0-2;0;---;1,(0-0) X;O;NYM;Mark Canha;Taijuan Walker;-3%;30%;Groundout: SS-1B
+b3;0-2;1;---;1,(0-0) X;O;NYM;Francisco Alvarez;Taijuan Walker;-2%;28%;Groundout: 3B-1B (Weak 3B)
+b3;0-2;2;---;4,(3-0) BBBB;;NYM;Brandon Nimmo;Taijuan Walker;1%;29%;Walk
+b3;0-2;2;1--;5,(3-1) BBCBB;;NYM;Francisco Lindor;Taijuan Walker;2%;32%;Walk; Nimmo to 2B
+b3;0-2;2;12-;5,(2-2) BCFBX;R;NYM;Jeff McNeil;Taijuan Walker;12%;44%;Single to CF (Line Drive); Nimmo Scores; Lindor to 3B
+b3;1-2;2;1-3;4,(1-2) SBFS;O;NYM;Pete Alonso;Taijuan Walker;-6%;38%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Phillies 2, Mets 1.
+Top of the 4th, Phillies Batting, Ahead 2-1, Mets' Max Scherzer facing 3-4-5 
+t4;2-1;0;---;2,(0-1) SX;O;PHI;Bryce Harper;Max Scherzer;2%;40%;Groundout: P-1B (P's Left)
+t4;2-1;1;---;7,(3-2) BBCF.FBX;;PHI;Nick Castellanos;Max Scherzer;-3%;37%;Single to LF (Line Drive to LF Line)
+t4;2-1;1;1--;4,(1-2) SBFS;O;PHI;Kyle Schwarber;Max Scherzer;3%;40%;Strikeout Swinging
+t4;2-1;2;1--;4,(1-2) T+1CBX;;PHI;Brandon Marsh;Max Scherzer;-3%;38%;Single to CF (Ground Ball); Castellanos to 3B
+t4;2-1;2;1-3;5,(1-2) BSF>F>X;O;PHI;Kody Clemens;Max Scherzer;5%;43%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Phillies 2, Mets 1.
+Bottom of the 4th, Mets Batting, Behind 1-2, Phillies' Taijuan Walker facing 5-6-7 
+b4;1-2;0;---;3,(1-1) CBX;O;NYM;Brett Baty;Taijuan Walker;-3%;40%;Groundout: 2B-1B (2B-1B)
+b4;1-2;1;---;2,(1-0) BH;;NYM;Starling Marte;Taijuan Walker;3%;43%;Hit By Pitch
+b4;1-2;1;1--;2,(1-0) 1B>B;;NYM;Daniel Vogelbach;Taijuan Walker;2%;45%;Marte Steals 2B
+b4;1-2;1;-2-;6,(3-2) 1B>B.CBCX;O;NYM;Daniel Vogelbach;Taijuan Walker;-5%;40%;Flyball: LF (Short LF-CF)
+b4;1-2;2;-2-;5,(3-1) BCBBX;RR;NYM;Mark Canha;Taijuan Walker;25%;65%;Home Run (Fly Ball to Deep LF-CF); Marte Scores
+b4;3-2;2;---;7,(3-2) FBBBCFS;O;NYM;Francisco Alvarez;Taijuan Walker;-1%;64%;Strikeout Swinging
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Phillies 2, Mets 3.
+Top of the 5th, Phillies Batting, Behind 2-3, Mets' Max Scherzer facing 8-9-1 
+t5;2-3;0;---;4,(1-2) CCBX;O;PHI;Edmundo Sosa;Max Scherzer;3%;67%;Foul Popfly: 3B (3B into Foul Terr.)
+t5;2-3;1;---;4,(1-2) SBFS;O;PHI;Garrett Stubbs;Max Scherzer;2%;69%;Strikeout Swinging
+t5;2-3;2;---;2,(0-1) CX;O;PHI;Bryson Stott;Max Scherzer;1%;71%;Flyball: CF (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 2, Mets 3.
+Bottom of the 5th, Mets Batting, Ahead 3-2, Phillies' Matt Strahm facing 1-2-3 
+;;;;;;;;;Matt Strahm replaces Taijuan Walker pitching
+b5;3-2;0;---;3,(1-1) .CBX;;NYM;Brandon Nimmo;Matt Strahm;3%;74%;Single to RF (Ground Ball thru 2B-1B)
+b5;3-2;0;1--;5,(1-2) CFBFX;O;NYM;Francisco Lindor;Matt Strahm;-3%;71%;Groundout: SS-2B/Forceout at 2B; Lindor to 1B
+;;;;;;;;;Force Play Challenged by PHI manager (Rob Thomson): Original call overturned as shown.
+b5;3-2;1;1--;2,(1-0) *BX;O;NYM;Jeff McNeil;Matt Strahm;-3%;68%;Groundout: 3B-2B/Forceout at 2B (Weak SS); McNeil to 1B
+b5;3-2;2;1--;4,(1-2) BFSS;O;NYM;Pete Alonso;Matt Strahm;-2%;66%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 2, Mets 3.
+Top of the 6th, Phillies Batting, Behind 2-3, Mets' Max Scherzer facing 2-3-4 
+t6;2-3;0;---;9,(3-2) CSBFFBFBS;O;PHI;Trea Turner;Max Scherzer;4%;70%;Strikeout Swinging
+t6;2-3;1;---;1,(0-0) X;O;PHI;Bryce Harper;Max Scherzer;3%;72%;Lineout: CF (Deep CF)
+t6;2-3;2;---;1,(0-0) X;;PHI;Nick Castellanos;Max Scherzer;-2%;70%;Single to LF (Line Drive to LF Line)
+t6;2-3;2;1--;3,(0-2) SS+1X;O;PHI;Kyle Schwarber;Max Scherzer;4%;74%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 2, Mets 3.
+Bottom of the 6th, Mets Batting, Ahead 3-2, Phillies' Matt Strahm facing 5-6-7 
+b6;3-2;0;---;5,(2-2) BCBFX;;NYM;Brett Baty;Matt Strahm;6%;80%;Double to CF (Line Drive to LF-CF)
+b6;3-2;0;-2-;2,(0-1) *SX;O;NYM;Starling Marte;Matt Strahm;-1%;79%;Bunt Groundout: C-1B/Sacrifice; Baty to 3B
+;;;;;;;;;Mark Vientos pinch hits for Daniel Vogelbach (DH) batting 7th
+b6;3-2;1;--3;6,(3-2) .BBSBTX;RO;NYM;Mark Vientos;Matt Strahm;3%;82%;Lineout: CF/Sacrifice Fly (Deep CF); Baty Scores
+b6;4-2;2;---;7,(3-2) CBC.BFBB;;NYM;Mark Canha;Matt Strahm;1%;83%;Walk
+b6;4-2;2;1--;7,(3-2) SB*BBF.>F>X;O;NYM;Francisco Alvarez;Matt Strahm;-1%;82%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Phillies 2, Mets 4.
+Top of the 7th, Phillies Batting, Behind 2-4, Mets' Max Scherzer facing 6-7-8 
+t7;2-4;0;---;5,(2-2) .CS.BBS;O;PHI;Brandon Marsh;Max Scherzer;3%;85%;Strikeout Swinging
+t7;2-4;1;---;3,(1-1) BFX;O;PHI;Kody Clemens;Max Scherzer;2%;87%;Foul Popfly: C (Behind Home)
+t7;2-4;2;---;4,(0-2) FFFT;O;PHI;Edmundo Sosa;Max Scherzer;1%;89%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 2, Mets 4.
+Bottom of the 7th, Mets Batting, Ahead 4-2, Phillies' Gregory Soto facing 1-2-3 
+;;;;;;;;;Gregory Soto replaces Matt Strahm pitching
+b7;4-2;0;---;6,(2-2) .CCBFBX;O;NYM;Brandon Nimmo;Gregory Soto;-1%;88%;Foul Popfly: 3B (3B into Foul Terr.)
+b7;4-2;1;---;4,(2-1) BSBX;O;NYM;Francisco Lindor;Gregory Soto;-1%;87%;Flyball: RF (CF-RF)
+b7;4-2;2;---;5,(0-2) CSFF.X;O;NYM;Jeff McNeil;Gregory Soto;-1%;86%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 2, Mets 4.
+Top of the 8th, Phillies Batting, Behind 2-4, Mets' Jeff Brigham facing 9-1-2 
+;;;;;;;;;Jeff Brigham replaces Max Scherzer pitchingJ.T. Realmuto pinch hits for Garrett Stubbs (C) batting 9th
+t8;2-4;0;---;4,(1-2) ..BSFX;O;PHI;J.T. Realmuto;Jeff Brigham;4%;90%;Groundout: SS-1B (SS-2B)
+t8;2-4;1;---;7,(1-2) CC.FFFBS;O;PHI;Bryson Stott;Jeff Brigham;2%;93%;Strikeout Swinging
+t8;2-4;2;---;4,(2-1) BSBX;O;PHI;Trea Turner;Jeff Brigham;1%;94%;Foul Popfly: 3B (3B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 2, Mets 4.
+Bottom of the 8th, Mets Batting, Ahead 4-2, Phillies' Craig Kimbrel facing 4-5-6 
+;;;;;;;;;Craig Kimbrel replaces Gregory Soto pitchingJ.T. Realmuto moves from PH to C 
+b8;4-2;0;---;6,(2-2) ..BSFFB.X;O;NYM;Pete Alonso;Craig Kimbrel;-1%;93%;Groundout: 2B-1B (Deep 2B)
+b8;4-2;1;---;4,(1-2) BSS.X;O;NYM;Brett Baty;Craig Kimbrel;0%;93%;Flyball: LF (Deep LF)
+b8;4-2;2;---;2,(1-0) BX;O;NYM;Starling Marte;Craig Kimbrel;0%;93%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 2, Mets 4.
+Top of the 9th, Phillies Batting, Behind 2-4, Mets' Brooks Raley facing 3-4-5 
+;;;;;;;;;Brooks Raley replaces Jeff Brigham pitching
+t9;2-4;0;---;4,(1-2) .BCCS;O;PHI;Bryce Harper;Brooks Raley;4%;96%;Strikeout Swinging
+t9;2-4;1;---;5,(2-2) BCS.BX;;PHI;Nick Castellanos;Brooks Raley;-5%;91%;Single to CF (Ground Ball thru SS-2B)
+t9;2-4;1;1--;7,(3-2) CB1BCBFC;O;PHI;Kyle Schwarber;Brooks Raley;5%;96%;Strikeout Looking
+;;;;;;;;;Drew Smith replaces Brooks Raley pitchingDrew Ellis pinch hits for Brandon Marsh (CF) batting 6th
+t9;2-4;2;1--;1,(0-0) ..>X;O;PHI;Drew Ellis;Drew Smith;4%;100%;Flyball: CF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 2, Mets 4.

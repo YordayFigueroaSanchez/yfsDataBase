@@ -1,0 +1,276 @@
+
+Scorebox Meta
+20230607
+6:40 p.m. Local
+24149
+Coors Field
+167
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/SFG-2023.png;/teams/SFG/2023.shtml;0;0;0;0;0;0;3;2;0;5;8;0
+https://cdn.ssref.net/req/202308101/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;3;0;0;0;1;0;0;0;4;9;0
+
+Batting home
+Charlie Blackmon;/players/b/blackch02.shtml;DH;5;0;1;2;0;2;5;.274;.355;.438;.793;24;16;-0.007; 1.38;0.123;-0.130;-0.00%; 0.54; 1.0;;;2B
+Jurickson Profar;/players/p/profaju01.shtml;LF;4;0;1;0;1;0;5;.243;.321;.397;.718;24;16;-0.048; 0.92;0.063;-0.111;-0.01%; 0.36; -0.5;4;0;2B
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;4;0;0;0;0;1;4;.257;.331;.477;.808;14;8;-0.106; 0.92;0.000;-0.106;-0.03%; 0.36; -1.6;3;1;
+Randal Grichuk;/players/g/grichra01.shtml;CF;3;0;1;0;1;1;4;.336;.393;.482;.875;10;8;-0.019; 0.68;0.018;-0.037;-0.00%; 0.26; -0.2;1;0;2B,IW
+Mike Moustakas;/players/m/moustmi01.shtml;1B;3;1;0;0;1;1;4;.244;.330;.378;.708;18;9;-0.035; 0.86;0.035;-0.070;-0.01%; 0.34; -0.6;4;0;
+Nolan Jones;/players/j/jonesno01.shtml;RF;4;1;2;1;0;0;4;.316;.333;.553;.886;16;10;-0.047; 1.01;0.056;-0.103;-0.01%; 0.39; 0.6;5;0;HR,SB
+Harold Castro;/players/c/castrha01.shtml;2B;4;1;1;0;0;1;4;.276;.289;.333;.622;21;14;-0.043; 1.01;0.035;-0.078;-0.01%; 0.40; -0.4;2;1;
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;4;1;2;1;0;0;4;.248;.292;.398;.690;18;12;0.066; 0.97;0.107;-0.041; 0.02%; 0.38; 1.1;0;1;
+Austin Wynns;/players/w/wynnsau01.shtml;C;3;0;1;0;0;0;3;.190;.255;.238;.493;9;5;0.005; 0.83;0.048;-0.043; 0.00%; 0.32; -0.3;8;0;GDP
+Elias Díaz;/players/d/diazel01.shtml;PH;1;0;0;0;0;1;1;.304;.363;.467;.830;4;3;-0.100; 3.70;0.000;-0.100;-0.02%; 1.44; -0.3;;;
+Connor Seabold;/players/s/seaboco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brent Suter;/players/s/suterbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Justin Lawrence;/players/l/lawreju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brad Hand;/players/h/handbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Charlie Blackmon (14, off Logan Webb); Randal Grichuk (11, off Logan Webb); Jurickson Profar (14, off Taylor Rogers).
+
+
+HR: Nolan Jones (2, off Logan Webb, 6th inn, 0 on, 0 outs to Deep CF-RF).
+
+
+IBB: Randal Grichuk (2, by Taylor Rogers).
+
+
+TB: Nolan Jones 5; Ezequiel Tovar 2; Charlie Blackmon 2; Randal Grichuk 2; Jurickson Profar 2; Austin Wynns; Harold Castro.
+
+
+GIDP: Austin Wynns (3).
+
+
+RBI: Charlie Blackmon 2 (26); Nolan Jones (8); Ezequiel Tovar (24).
+
+
+Team LOB: 7.
+With RISP: 3 for 9.
+
+Batting away
+LaMonte Wade Jr.;/players/w/wadela01.shtml;1B;5;0;2;0;0;1;5;.288;.428;.478;.906;21;17;-0.071; 1.47;0.067;-0.138;-0.04%; 1.44; -0.2;10;1;
+Thairo Estrada;/players/e/estrath01.shtml;2B;5;0;0;0;0;1;5;.300;.346;.468;.814;11;11;-0.196; 1.40;0.000;-0.196;-0.12%; 1.38; -1.9;2;5;
+Joc Pederson;/players/p/pederjo01.shtml;DH;4;1;0;0;1;2;5;.230;.358;.471;.830;25;14;-0.013; 1.17;0.084;-0.097;-0.01%; 1.14; -0.8;;;
+Michael Conforto;/players/c/confomi01.shtml;RF;4;1;0;0;1;1;5;.244;.345;.449;.794;13;8;-0.133; 1.41;0.030;-0.162;-0.08%; 1.38; -1.0;1;0;
+Mitch Haniger;/players/h/hanigmi01.shtml;LF;2;2;1;0;1;0;4;.229;.277;.374;.651;17;11;0.147; 1.29;0.158;-0.011; 0.09%; 1.27; 1.2;2;0;HBP
+Mike Yastrzemski;/players/y/yastrmi01.shtml;CF;2;0;0;0;0;1;2;.253;.315;.455;.770;8;7;-0.057; 1.08;0.000;-0.057;-0.03%; 1.06; -0.6;2;0;
+Austin Slater;/players/s/slateau01.shtml;PH-CF;2;1;2;2;0;0;2;.378;.425;.514;.939;5;3;0.358; 3.17;0.358;0.000; 0.21%; 3.12; 2.3;0;0;
+Blake Sabol;/players/s/sabolbl01.shtml;C;2;0;0;0;0;0;2;.250;.314;.436;.749;9;7;-0.043; 0.76;0.000;-0.043;-0.03%; 0.74; -0.5;4;0;
+Wilmer Flores;/players/f/florewi01.shtml;PH;1;0;1;0;0;0;1;.246;.305;.428;.732;2;2;0.100; 2.57;0.100;0.000; 0.06%; 2.52; 0.8;;;
+Patrick Bailey;/players/b/bailepa01.shtml;C;0;0;0;1;0;0;1;.309;.321;.545;.867;4;2;0.129; 3.64;0.129;0.000; 0.08%; 3.57; 0.7;4;0;SH
+Casey Schmitt;/players/s/schmica01.shtml;3B-SS;3;0;1;2;0;0;4;.296;.307;.429;.736;15;10;0.076; 1.68;0.187;-0.111; 0.04%; 1.64; 0.4;0;3;HBP,GDP
+Brandon Crawford;/players/c/crawfbr01.shtml;SS;2;0;0;0;0;0;2;.188;.278;.339;.617;7;5;-0.061; 1.21;0.000;-0.061;-0.04%; 1.18; -0.7;1;1;
+J.D. Davis;/players/d/davisjd01.shtml;PH-3B;2;0;1;0;0;1;2;.288;.372;.482;.854;8;6;-0.069; 2.00;0.028;-0.097;-0.04%; 1.97; -0.2;0;0;
+Logan Webb;/players/w/webblo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tristan Beck;/players/b/becktr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Taylor Rogers;/players/r/rogerta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tyler Rogers;/players/r/rogerty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Camilo Doval;/players/d/dovalca01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+SH: Patrick Bailey (2, off Justin Lawrence).
+
+
+HBP: Casey Schmitt (1, by Connor Seabold); Mitch Haniger (1, by Justin Lawrence).
+
+
+TB: LaMonte Wade Jr. 2; Austin Slater 2; Mitch Haniger; Casey Schmitt; J.D. Davis; Wilmer Flores.
+
+
+GIDP: Casey Schmitt (2).
+
+
+RBI: Austin Slater 2 (9); Casey Schmitt 2 (18); Patrick Bailey (14).
+
+
+Team LOB: 8.
+With RISP: 4 for 11.
+
+Pitching home
+Connor Seabold;/players/s/seaboco01.shtml;Connor Seabold; 6 ;2;2;2;2;4;0;5.10;23;87;62;34;9;19;3;13;3;0;62;;;0.237; 0.84; 0.06%; 0.33; 2.6
+Brent Suter;/players/s/suterbr01.shtml;Brent Suter; 0 ;3;1;1;0;0;0;2.02;3;9;6;4;0;2;2;1;1;0;;2;2;-0.337; 2.63;-0.08%; 1.02; -3.0
+Justin Lawrence;/players/l/lawreju01.shtml; L (2-3); 2 ;1;2;2;1;2;0;3.41;9;31;21;10;2;9;3;2;1;0;;2;0;-0.118; 3.15;-0.03%; 1.22; 0.2
+Brad Hand;/players/h/handbr01.shtml;Brad Hand; 1 ;2;0;0;0;1;0;3.91;5;18;14;9;1;4;2;2;0;0;;0;0;0.050; 1.22; 0.01%; 0.47; 0.6
+
+Pitching away
+Logan Webb;/players/w/webblo01.shtml;Logan Webb; 5.1;8;4;4;2;3;1;3.09;25;99;62;44;8;10;8;12;8;0;37;;;-0.118; 0.78;-0.07%; 0.77; -0.7
+Tristan Beck;/players/b/becktr01.shtml;Tristan Beck; 0.2;0;0;0;0;0;0;4.00;2;11;6;3;2;1;0;2;0;0;;0;0;0.008; 0.15; 0.01%; 0.15; 0.3
+Taylor Rogers;/players/r/rogerta01.shtml; W (2-2); 1 ;1;0;0;1;3;0;3.54;5;21;13;3;5;5;0;1;1;0;;0;0;0.052; 1.07; 0.03%; 1.05; 0.6
+Tyler Rogers;/players/r/rogerty01.shtml; H (12); 1 ;0;0;0;0;0;0;1.80;3;15;11;9;0;2;2;1;0;0;;0;0;0.156; 1.95; 0.09%; 1.91; 0.6
+Camilo Doval;/players/d/dovalca01.shtml; S (15); 1 ;0;0;0;0;1;0;2.03;3;12;9;4;3;2;2;0;0;0;;0;0;0.233; 2.90; 0.14%; 2.85; 0.6
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Connor Seabold (6; Casey Schmitt); Justin Lawrence (1; Mitch Haniger).
+IBB: Taylor Rogers (1; Randal Grichuk).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Connor Seabold (6; Casey Schmitt); Justin Lawrence (1; Mitch Haniger).
+IBB: Taylor Rogers (1; Randal Grichuk).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Mark Ripperger, 1B - Shane Livensparger, 2B - Phil Cuzzi, 3B - Ryan Wills, LF - (none), RF - (none).
+Time of Game: 2:47.
+Attendance: 24,149.
+Field Condition: Unknown.
+Start Time Weather: 68° F, Wind 3mph in from Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Giants
+1;LaMonte Wade Jr.;/players/w/wadela01.shtml;1B
+2;Thairo Estrada;/players/e/estrath01.shtml;2B
+3;Joc Pederson;/players/p/pederjo01.shtml;DH
+4;Michael Conforto;/players/c/confomi01.shtml;RF
+5;Mitch Haniger;/players/h/hanigmi01.shtml;LF
+6;Mike Yastrzemski;/players/y/yastrmi01.shtml;CF
+7;Blake Sabol;/players/s/sabolbl01.shtml;C
+8;Casey Schmitt;/players/s/schmica01.shtml;3B
+9;Brandon Crawford;/players/c/crawfbr01.shtml;SS
+; Logan Webb;/players/w/webblo01.shtml;P
+Rockies
+1;Charlie Blackmon;/players/b/blackch02.shtml;DH
+2;Jurickson Profar;/players/p/profaju01.shtml;LF
+3;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+4;Randal Grichuk;/players/g/grichra01.shtml;CF
+5;Mike Moustakas;/players/m/moustmi01.shtml;1B
+6;Nolan Jones;/players/j/jonesno01.shtml;RF
+7;Harold Castro;/players/c/castrha01.shtml;2B
+8;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+9;Austin Wynns;/players/w/wynnsau01.shtml;C
+; Connor Seabold;/players/s/seaboco01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t8;3-4;1;12-;3,(1-1) BCX;R;SFG;Austin Slater;Justin Lawrence;27%;63%;Single to LF (Line Drive to LF-CF); Pederson Scores; Haniger to 3B
+t7;1-4;0;123;5,(2-2) CFBBX;RR;SFG;Casey Schmitt;Brent Suter;15%;49%;Single to LF (Ground Ball); Haniger Scores; Slater Scores; Flores to 2B
+t8;4-4;1;1-3;4,(2-1) BFBX;R;SFG;Patrick Bailey;Justin Lawrence;13%;76%;Fielder's Choice /Sacrifice Bunt; Haniger Scores; Slater to 2B; Bailey to 1B
+b2;1-0;1;123;2,(1-0) BX;RR;COL;Charlie Blackmon;Logan Webb;-12%;15%;Double to CF (Line Drive to Deep CF-RF); Castro Scores; Tovar Scores; Wynns to 3B
+t8;5-4;1;12-;4,(0-2) CFFX;OO;SFG;Casey Schmitt;Justin Lawrence;-10%;66%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Giants Batting, Tied 0-0, Rockies' Connor Seabold facing 1-2-3 
+t1;0-0;0;---;3,(1-1) BCX;O;SFG;LaMonte Wade Jr.;Connor Seabold;-2%;48%;Groundout: SS-1B (SS-2B)
+t1;0-0;1;---;2,(0-1) FX;O;SFG;Thairo Estrada;Connor Seabold;-2%;46%;Lineout: RF (CF-RF)
+t1;0-0;2;---;4,(1-2) CBFX;O;SFG;Joc Pederson;Connor Seabold;-1%;45%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Rockies 0.
+Bottom of the 1st, Rockies Batting, Tied 0-0, Giants' Logan Webb facing 1-2-3 
+b1;0-0;0;---;5,(2-2) BBFCT;O;COL;Charlie Blackmon;Logan Webb;2%;47%;Strikeout Swinging
+b1;0-0;1;---;7,(3-2) FBSBFBB;;COL;Jurickson Profar;Logan Webb;-2%;45%;Walk
+b1;0-0;1;1--;1,(0-0) X;O;COL;Ryan McMahon;Logan Webb;3%;48%;Lineout: CF (Deep CF)
+b1;0-0;2;1--;6,(2-2) BCFBFS;O;COL;Randal Grichuk;Logan Webb;2%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Giants 0, Rockies 0.
+Top of the 2nd, Giants Batting, Tied 0-0, Rockies' Connor Seabold facing 4-5-6 
+t2;0-0;0;---;1,(0-0) X;O;SFG;Michael Conforto;Connor Seabold;-2%;48%;Flyball: LF (Deep LF-CF)
+t2;0-0;1;---;6,(3-2) BBBCFB;;SFG;Mitch Haniger;Connor Seabold;3%;50%;Walk
+t2;0-0;1;1--;5,(1-2) CC.*BFX;O;SFG;Mike Yastrzemski;Connor Seabold;-3%;47%;Foul Popfly: 3B
+t2;0-0;2;1--;5,(1-2) TSF*BX;O;SFG;Blake Sabol;Connor Seabold;-3%;45%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Giants 0, Rockies 0.
+Bottom of the 2nd, Rockies Batting, Tied 0-0, Giants' Logan Webb facing 5-6-7 
+b2;0-0;0;---;8,(3-2) .BBBCFFFB;;COL;Mike Moustakas;Logan Webb;-4%;41%;Walk
+b2;0-0;0;1--;2,(1-0) B.X;O;COL;Nolan Jones;Logan Webb;3%;44%;Flyball: LF (LF-CF)
+b2;0-0;1;1--;2,(0-1) CX;;COL;Harold Castro;Logan Webb;-4%;41%;Single to RF (Ground Ball thru 2B-1B); Moustakas to 2B
+b2;0-0;1;12-;1,(0-0) X;R;COL;Ezequiel Tovar;Logan Webb;-9%;32%;Single to LF (Line Drive to Deep LF-CF); Moustakas Scores; Castro to 2B
+b2;1-0;1;12-;2,(1-0) BX;;COL;Austin Wynns;Logan Webb;-5%;27%;Single to LF (Line Drive to LF-CF); Castro to 3B; Tovar to 2B
+b2;1-0;1;123;2,(1-0) BX;RR;COL;Charlie Blackmon;Logan Webb;-12%;15%;Double to CF (Line Drive to Deep CF-RF); Castro Scores; Tovar Scores; Wynns to 3B
+b2;3-0;1;-23;2,(0-1) SX;O;COL;Jurickson Profar;Logan Webb;4%;19%;Foul Popfly: C (Behind Home)
+b2;3-0;2;-23;5,(3-1) BSBBX;O;COL;Ryan McMahon;Logan Webb;3%;23%;Lineout: RF (Deep RF)
+;;;;;;;;;3 runs, 4 hits, 0 errors, 2 LOB. Giants 0, Rockies 3.
+Top of the 3rd, Giants Batting, Behind 0-3, Rockies' Connor Seabold facing 8-9-1 
+t3;0-3;0;---;3,(1-1) BFH;;SFG;Casey Schmitt;Connor Seabold;4%;26%;Hit By Pitch
+t3;0-3;0;1--;5,(2-2) BCBCX;O;SFG;Brandon Crawford;Connor Seabold;-3%;23%;Flyball: RF (Deep RF)
+t3;0-3;1;1--;3,(0-2) CCS;O;SFG;LaMonte Wade Jr.;Connor Seabold;-3%;20%;Strikeout Swinging
+t3;0-3;2;1--;3,(0-2) CFS;O;SFG;Thairo Estrada;Connor Seabold;-2%;18%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Giants 0, Rockies 3.
+Bottom of the 3rd, Rockies Batting, Ahead 3-0, Giants' Logan Webb facing 4-5-6 
+b3;3-0;0;---;1,(0-0) X;O;COL;Randal Grichuk;Logan Webb;1%;19%;Groundout: 3B-1B (Weak 3B)
+b3;3-0;1;---;3,(2-0) .BBX;O;COL;Mike Moustakas;Logan Webb;1%;20%;Groundout: 2B-1B (2B-1B)
+b3;3-0;2;---;6,(2-2) CS.BFBX;;COL;Nolan Jones;Logan Webb;-1%;19%;Single to RF (Ground Ball thru 2B-1B)
+b3;3-0;2;1--;3,(1-1) BS+1>B;;COL;Harold Castro;Logan Webb;-1%;19%;Jones Steals 2B
+b3;3-0;2;-2-;4,(2-1) BS+1>B.X;O;COL;Harold Castro;Logan Webb;2%;21%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Rockies 3.
+Top of the 4th, Giants Batting, Behind 0-3, Rockies' Connor Seabold facing 3-4-5 
+t4;0-3;0;---;8,(3-2) SCBBFFBS;O;SFG;Joc Pederson;Connor Seabold;-2%;18%;Strikeout Swinging
+t4;0-3;1;---;1,(0-0) X;O;SFG;Michael Conforto;Connor Seabold;-2%;17%;Flyball: LF (Deep LF Line)
+t4;0-3;2;---;5,(1-2) CBFFX;O;SFG;Mitch Haniger;Connor Seabold;-1%;15%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Rockies 3.
+Bottom of the 4th, Rockies Batting, Ahead 3-0, Giants' Logan Webb facing 8-9-1 
+b4;3-0;0;---;5,(2-2) BBFFX;;COL;Ezequiel Tovar;Logan Webb;-2%;14%;Single to LF (Line Drive to Short LF)
+b4;3-0;0;1--;1,(0-0) X;OO;COL;Austin Wynns;Logan Webb;4%;18%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b4;3-0;2;---;9,(3-2) BCTBFBFFX;O;COL;Charlie Blackmon;Logan Webb;1%;18%;Flyball: LF (Short LF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Giants 0, Rockies 3.
+Top of the 5th, Giants Batting, Behind 0-3, Rockies' Connor Seabold facing 6-7-8 
+t5;0-3;0;---;3,(0-2) SF.T;O;SFG;Mike Yastrzemski;Connor Seabold;-3%;16%;Strikeout Swinging
+t5;0-3;1;---;4,(1-2) SBS.X;O;SFG;Blake Sabol;Connor Seabold;-2%;14%;Flyball: RF (Deep RF)
+t5;0-3;2;---;3,(1-1) SBX;O;SFG;Casey Schmitt;Connor Seabold;-1%;13%;Flyball: 2B (Deep 2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Rockies 3.
+Bottom of the 5th, Rockies Batting, Ahead 3-0, Giants' Logan Webb facing 2-3-4 
+b5;3-0;0;---;4,(0-2) CCFX;O;COL;Jurickson Profar;Logan Webb;1%;14%;Groundout: SS-1B (SS-2B)
+b5;3-0;1;---;4,(2-1) SBBX;O;COL;Ryan McMahon;Logan Webb;1%;15%;Groundout: 1B unassisted
+b5;3-0;2;---;3,(0-2) CFX;;COL;Randal Grichuk;Logan Webb;-1%;14%;Double to RF (Line Drive to RF Line)
+b5;3-0;2;-2-;1,(0-0) X;O;COL;Mike Moustakas;Logan Webb;2%;16%;Lineout: SS (Deep SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Rockies 3.
+Top of the 6th, Giants Batting, Behind 0-3, Rockies' Connor Seabold facing 9-1-2 
+t6;0-3;0;---;2,(0-1) CX;O;SFG;Brandon Crawford;Connor Seabold;-3%;13%;Flyball: RF (CF-RF)
+t6;0-3;1;---;9,(3-2) CBBCFBFFX;;SFG;LaMonte Wade Jr.;Connor Seabold;3%;16%;Single to LF (Line Drive to LF-CF)
+t6;0-3;1;1--;1,(0-0) X;O;SFG;Thairo Estrada;Connor Seabold;-3%;13%;Flyball: LF (Deep LF)
+t6;0-3;2;1--;1,(0-0) X;O;SFG;Joc Pederson;Connor Seabold;-2%;10%;Lineout: 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Rockies 3.
+Bottom of the 6th, Rockies Batting, Ahead 3-0, Giants' Logan Webb facing 6-7-8 
+b6;3-0;0;---;5,(3-1) BBFBX;R;COL;Nolan Jones;Logan Webb;-4%;6%;Home Run (Fly Ball to Deep CF-RF)
+b6;4-0;0;---;10,(3-2) CFBFBFBFFS;O;COL;Harold Castro;Logan Webb;1%;6%;Strikeout Swinging
+;;;;;;;;;Tristan Beck replaces Logan Webb pitching
+b6;4-0;1;---;5,(2-2) .CSBBX;O;COL;Ezequiel Tovar;Tristan Beck;0%;7%;Flyball: CF (Deep CF)
+b6;4-0;2;---;6,(3-2) BST.BBX;O;COL;Austin Wynns;Tristan Beck;0%;7%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Giants 0, Rockies 4.
+Top of the 7th, Giants Batting, Behind 0-4, Rockies' Connor Seabold facing 4-5-6 
+t7;0-4;0;---;6,(3-2) CBBBC.B;;SFG;Michael Conforto;Connor Seabold;3%;10%;Walk
+t7;0-4;0;1--;4,(0-2) CCFX;;SFG;Mitch Haniger;Connor Seabold;5%;15%;Single to LF (Ground Ball thru SS-3B Hole); Conforto to 2B
+;;;;;;;;;Brent Suter replaces Connor Seabold pitchingAustin Slater pinch hits for Mike Yastrzemski (CF) batting 6th
+t7;0-4;0;12-;2,(1-0) ..*BX;R;SFG;Austin Slater;Brent Suter;9%;24%;Single to LF (Ground Ball); Conforto Scores; Haniger to 2B
+;;;;;;;;;Wilmer Flores pinch hits for Blake Sabol (C) batting 7th
+t7;1-4;0;12-;2,(0-1) .CX;;SFG;Wilmer Flores;Brent Suter;10%;34%;Single to CF (Line Drive to Deep LF-CF); Haniger to 3B; Slater to 2B
+t7;1-4;0;123;5,(2-2) CFBBX;RR;SFG;Casey Schmitt;Brent Suter;15%;49%;Single to LF (Ground Ball); Haniger Scores; Slater Scores; Flores to 2B
+;;;;;;;;;Justin Lawrence replaces Brent Suter pitchingJ.D. Davis pinch hits for Brandon Crawford (SS) batting 9th
+t7;3-4;0;12-;4,(1-2) ..FBFC;O;SFG;J.D. Davis;Justin Lawrence;-10%;39%;Strikeout Looking
+t7;3-4;1;12-;3,(0-2) CCX;O;SFG;LaMonte Wade Jr.;Justin Lawrence;-9%;31%;Foul Popfly: C (Behind Home)
+t7;3-4;2;12-;2,(0-1) CX;O;SFG;Thairo Estrada;Justin Lawrence;-8%;22%;Groundout: 3B unassisted/Forceout at 3B; Estrada to 1B
+;;;;;;;;;3 runs, 4 hits, 0 errors, 2 LOB. Giants 3, Rockies 4.
+Bottom of the 7th, Rockies Batting, Ahead 4-3, Giants' Taylor Rogers facing 1-2-3 
+;;;;;;;;;Taylor Rogers replaces Tristan Beck pitchingPatrick Bailey replaces Wilmer Flores (PH) playing C batting 7thJ.D. Davis moves from PH to 3B Casey Schmitt moves from 3B to SS Austin Slater moves from PH to CF 
+b7;4-3;0;---;5,(2-2) .....BCS.BS;O;COL;Charlie Blackmon;Taylor Rogers;2%;25%;Strikeout Swinging
+b7;4-3;1;---;6,(2-2) BSFBFX;;COL;Jurickson Profar;Taylor Rogers;-4%;21%;Double to LF (Line Drive to LF Line)
+b7;4-3;1;-2-;4,(1-2) BCS.S;O;COL;Ryan McMahon;Taylor Rogers;3%;24%;Strikeout Swinging
+b7;4-3;2;-2-;,(3-0) VVVV;;COL;Randal Grichuk;Taylor Rogers;-1%;23%;Intentional Walk
+b7;4-3;2;12-;6,(3-2) BC*BBC>C;O;COL;Mike Moustakas;Taylor Rogers;4%;28%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Giants 3, Rockies 4.
+Top of the 8th, Giants Batting, Behind 3-4, Rockies' Justin Lawrence facing 3-4-5 
+t8;3-4;0;---;5,(3-1) BBBCB;;SFG;Joc Pederson;Justin Lawrence;8%;36%;Walk
+t8;3-4;0;1--;4,(1-2) CC.BS;O;SFG;Michael Conforto;Justin Lawrence;-8%;28%;Strikeout Swinging
+t8;3-4;1;1--;2,(0-1) SH;;SFG;Mitch Haniger;Justin Lawrence;8%;36%;Hit By Pitch; Pederson to 2B
+t8;3-4;1;12-;3,(1-1) BCX;R;SFG;Austin Slater;Justin Lawrence;27%;63%;Single to LF (Line Drive to LF-CF); Pederson Scores; Haniger to 3B
+t8;4-4;1;1-3;4,(2-1) BFBX;R;SFG;Patrick Bailey;Justin Lawrence;13%;76%;Fielder's Choice /Sacrifice Bunt; Haniger Scores; Slater to 2B; Bailey to 1B
+t8;5-4;1;12-;4,(0-2) CFFX;OO;SFG;Casey Schmitt;Justin Lawrence;-10%;66%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;2 runs, 1 hit, 0 errors, 1 LOB. Giants 5, Rockies 4.
+Bottom of the 8th, Rockies Batting, Behind 4-5, Giants' Tyler Rogers facing 6-7-8 
+;;;;;;;;;Tyler Rogers replaces Taylor Rogers pitching
+b8;4-5;0;---;3,(0-2) .C.CX;O;COL;Nolan Jones;Tyler Rogers;7%;73%;Groundout: 2B-1B
+b8;4-5;1;---;5,(2-2) BBFF.X;O;COL;Harold Castro;Tyler Rogers;5%;78%;Groundout: 2B-1B (2B-1B)
+b8;4-5;2;---;7,(2-2) FFBBFFX;O;COL;Ezequiel Tovar;Tyler Rogers;4%;82%;Popfly: 2B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 5, Rockies 4.
+Top of the 9th, Giants Batting, Ahead 5-4, Rockies' Brad Hand facing 9-1-2 
+;;;;;;;;;Brad Hand replaces Justin Lawrence pitching
+t9;5-4;0;---;4,(1-2) .FCBX;;SFG;J.D. Davis;Brad Hand;3%;84%;Single to LF (Ground Ball)
+t9;5-4;0;1--;3,(0-2) LSX;;SFG;LaMonte Wade Jr.;Brad Hand;4%;88%;Single to RF (Ground Ball thru 2B-1B); Davis to 2B
+t9;5-4;0;12-;3,(0-2) CFX;O;SFG;Thairo Estrada;Brad Hand;-4%;84%;Flyball: LF (Deep LF)
+t9;5-4;1;12-;7,(3-2) FBBCBFC;O;SFG;Joc Pederson;Brad Hand;-4%;81%;Strikeout Looking
+t9;5-4;2;12-;1,(0-0) X;O;SFG;Michael Conforto;Brad Hand;-4%;77%;Foul Popfly: 3B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Giants 5, Rockies 4.
+Bottom of the 9th, Rockies Batting, Behind 4-5, Giants' Camilo Doval facing 9-1-2 
+;;;;;;;;;Camilo Doval replaces Tyler Rogers pitchingElias Díaz pinch hits for Austin Wynns (C) batting 9th
+b9;4-5;0;---;4,(1-2) ..BSC.S;O;COL;Elias Díaz;Camilo Doval;10%;87%;Strikeout Swinging
+b9;4-5;1;---;3,(0-2) CFX;O;COL;Charlie Blackmon;Camilo Doval;8%;94%;Groundout: 1B-P
+b9;4-5;2;---;5,(2-2) SBFBX;O;COL;Jurickson Profar;Camilo Doval;6%;100%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 5, Rockies 4.

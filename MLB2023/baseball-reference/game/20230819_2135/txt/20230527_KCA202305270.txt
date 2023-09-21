@@ -1,0 +1,277 @@
+
+Scorebox Meta
+20230527
+3:10 p.m. Local
+19130
+Kauffman Stadium
+172
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/WSN-2023.png;/teams/WSN/2023.shtml;0;0;0;0;0;4;0;0;0;4;8;0
+https://cdn.ssref.net/req/202308101/tlogo/br/KCR-2023.png;/teams/KCR/2023.shtml;1;0;1;0;0;0;0;0;0;2;7;1
+
+Batting home
+Nick Pratto;/players/p/prattni01.shtml;LF;4;1;0;0;1;2;5;.277;.376;.404;.780;19;11;-0.062; 1.67;0.119;-0.181;-0.00%; 0.10; -0.4;2;0;
+Vinnie Pasquantino;/players/p/pasquvi01.shtml;1B;5;0;1;0;0;2;5;.259;.341;.467;.808;27;18;-0.073; 1.11;0.036;-0.108;-0.00%; 0.06; -0.8;9;0;
+Salvador Perez;/players/p/perezsa02.shtml;C;4;1;2;1;0;1;4;.288;.327;.549;.876;14;10;0.081; 1.22;0.167;-0.086; 0.00%; 0.07; 1.1;10;1;HR
+Bobby Witt;/players/w/wittbo02.shtml;SS;4;0;0;0;0;2;4;.236;.272;.435;.707;13;8;-0.124; 1.03;0.000;-0.124;-0.01%; 0.06; -1.1;2;3;
+MJ Melendez;/players/m/melenmj01.shtml;RF;2;0;0;0;2;0;4;.207;.296;.345;.641;23;12;0.013; 1.04;0.077;-0.064;0%; 0.06; 0.1;1;0;
+Michael Massey;/players/m/massemi02.shtml;DH;4;0;2;0;0;0;4;.223;.275;.317;.591;13;7;0.036; 1.26;0.113;-0.076; 0.00%; 0.08; 0.9;;;SB
+Maikel Garcia;/players/g/garcima01.shtml;3B;4;0;1;0;0;2;4;.286;.345;.390;.734;15;10;-0.124; 1.20;0.037;-0.160;-0.01%; 0.07; -1.0;0;0;2B,GDP
+Drew Waters;/players/w/waterdr01.shtml;CF;4;0;0;0;0;1;4;.250;.250;.250;.500;19;13;-0.167; 1.38;0.000;-0.167;-0.01%; 0.08; -1.6;3;0;
+Nicky Lopez;/players/l/lopezni01.shtml;2B;2;0;1;0;2;0;4;.217;.356;.333;.689;26;15;0.082; 1.21;0.116;-0.034; 0.00%; 0.07; 0.3;0;4;
+Brady Singer;/players/s/singebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Josh Taylor;/players/t/taylojo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Carlos Hernández;/players/h/hernaca04.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Taylor Clarke;/players/c/clarkta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Scott Barlow;/players/b/barlosc01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Maikel Garcia (8, off Josiah Gray).
+
+
+HR: Salvador Perez (12, off Josiah Gray, 3rd inn, 0 on, 2 outs to Deep LF Line).
+
+
+TB: Salvador Perez 5; Maikel Garcia 2; Michael Massey 2; Vinnie Pasquantino; Nicky Lopez.
+
+
+GIDP: Maikel Garcia (1).
+
+
+RBI: Salvador Perez (32).
+
+
+2-out RBI: Salvador Perez.
+
+
+Team LOB: 9.
+With RISP: 0 for 8.
+
+Batting away
+Lane Thomas;/players/t/thomala02.shtml;RF;4;0;1;0;1;2;5;.289;.347;.467;.814;22;13;-0.020; 0.72;0.064;-0.084;-0.01%; 0.39; -0.4;0;0;2B
+Luis García;/players/g/garcilu04.shtml;2B;5;0;0;0;0;1;5;.280;.321;.383;.704;21;13;-0.157; 0.95;0.000;-0.157;-0.05%; 0.51; -1.8;1;2;
+Joey Meneses;/players/m/menesjo01.shtml;DH;4;0;0;0;1;1;5;.300;.335;.391;.726;23;14;-0.090; 0.80;0.012;-0.102;-0.03%; 0.43; -1.2;;;
+Jeimer Candelario;/players/c/candeje01.shtml;3B;4;1;2;0;1;1;5;.262;.324;.451;.775;20;11;0.120; 0.78;0.142;-0.022; 0.04%; 0.42; 0.8;1;0;2B
+Corey Dickerson;/players/d/dickeco01.shtml;LF;4;1;2;1;0;1;4;.333;.379;.630;1.009;11;8;0.090; 1.43;0.181;-0.091; 0.03%; 0.77; 0.6;1;0;2B
+Stone Garrett;/players/g/garrest01.shtml;PR-LF;1;0;0;0;0;1;1;.258;.320;.326;.645;3;3;0.004; 0.38;0.008;-0.004; 0.00%; 0.20; -0.0;0;0;
+Keibert Ruiz;/players/r/ruizke01.shtml;C;3;1;1;1;1;0;4;.229;.299;.343;.642;14;8;0.114; 1.30;0.170;-0.056; 0.04%; 0.70; 0.7;10;0;
+Dominic Smith;/players/s/smithdo02.shtml;1B;3;1;1;0;0;0;4;.276;.362;.315;.677;11;6;0.087; 1.50;0.149;-0.062; 0.03%; 0.81; 0.4;4;4;HBP
+Alex Call;/players/c/callal02.shtml;CF;3;0;0;0;1;1;4;.211;.310;.314;.625;21;10;-0.059; 1.47;0.044;-0.103;-0.02%; 0.79; -0.6;5;0;
+CJ Abrams;/players/a/abramcj01.shtml;SS;4;0;1;2;0;1;4;.240;.291;.401;.692;14;10;0.076; 1.39;0.153;-0.077; 0.02%; 0.74; 0.9;1;0;2B
+Josiah Gray;/players/g/grayjo03.shtml;P;;;;;;;;;;;;;;;;;;;;;2;0;
+Mason Thompson;/players/t/thompma02.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Carl Edwards Jr.;/players/e/edwarca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Hunter Harvey;/players/h/harvehu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kyle Finnegan;/players/f/finneky01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Jeimer Candelario (15, off Brady Singer); Lane Thomas (9, off Brady Singer); Corey Dickerson (2, off Brady Singer); CJ Abrams (8, off Josh Taylor).
+
+
+HBP: Dominic Smith (3, by Brady Singer).
+
+
+TB: Corey Dickerson 3; Jeimer Candelario 3; Lane Thomas 2; CJ Abrams 2; Dominic Smith; Keibert Ruiz.
+
+
+RBI: CJ Abrams 2 (27); Corey Dickerson (8); Keibert Ruiz (19).
+
+
+Team LOB: 10.
+With RISP: 2 for 15.
+
+Pitching home
+Brady Singer;/players/s/singebr01.shtml;Brady Singer; 5 ;4;2;2;3;6;0;7.12;23;90;54;30;9;15;6;7;4;0;54;;;0.058; 1.20; 0.00%; 0.07; 0.9
+Josh Taylor;/players/t/taylojo02.shtml; L (1-3); 0 ;3;2;2;1;0;0;8.15;4;18;9;7;0;2;2;1;1;0;;1;1;-0.443; 2.21;-0.02%; 0.13; -3.9
+Carlos Hernández;/players/h/hernaca04.shtml;Carlos Hernández; 2 ;1;0;0;0;2;0;3.33;7;28;19;12;5;2;1;4;2;0;;2;0;0.173; 0.86; 0.01%; 0.05; 2.5
+Taylor Clarke;/players/c/clarkta01.shtml;Taylor Clarke; 1 ;0;0;0;1;0;0;3.28;4;14;6;4;0;2;1;2;0;0;;0;0;0.029; 0.47; 0.00%; 0.03; 0.5
+Scott Barlow;/players/b/barlosc01.shtml;Scott Barlow; 1 ;0;0;0;0;1;0;4.05;3;10;8;4;1;3;1;1;0;0;;0;0;0.018; 0.23; 0.00%; 0.01; 0.5
+
+Pitching away
+Josiah Gray;/players/g/grayjo03.shtml;Josiah Gray; 4 ;4;2;2;3;4;1;2.77;19;91;57;35;13;9;4;8;4;0;47;;;-0.038; 1.03;-0.01%; 0.55; 0.0
+Mason Thompson;/players/t/thompma02.shtml; W (3-2); 2 ;1;0;0;0;1;0;3.95;6;19;11;7;2;2;1;4;3;0;;0;0;0.108; 0.92; 0.03%; 0.49; 1.0
+Carl Edwards Jr.;/players/e/edwarca01.shtml; H (11); 1 ;1;0;0;1;1;0;2.78;5;18;11;6;3;2;2;1;1;0;;0;0;0.083; 1.79; 0.03%; 0.96; 0.5
+Hunter Harvey;/players/h/harvehu01.shtml; H (10); 1 ;0;0;0;1;2;0;3.70;4;19;10;7;0;3;0;1;0;0;;0;0;0.090; 1.69; 0.03%; 0.91; 0.5
+Kyle Finnegan;/players/f/finneky01.shtml; S (11); 1 ;1;0;0;0;2;0;4.29;4;22;15;7;3;5;1;1;1;0;;0;0;0.093; 1.82; 0.03%; 0.98; 0.5
+
+indiv_events
+
+Balks: Carlos Hernández (2).
+WP: Josiah Gray (3); Brady Singer (1); Taylor Clarke (1).
+HBP: Brady Singer (4; Dominic Smith).
+IBB: None.
+Pickoffs: None.
+
+Balks: Carlos Hernández (2).
+WP: Josiah Gray (3); Brady Singer (1); Taylor Clarke (1).
+HBP: Brady Singer (4; Dominic Smith).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Will Little, 1B - Ryan Additon, 2B - Dan Merzel, 3B - Lance Barksdale, LF - (none), RF - (none).
+Time of Game: 2:52.
+Attendance: 19,130.
+Field Condition: Unknown.
+Start Time Weather: 78° F, Wind 6mph from Right to Left, Sunny, No Precipitation.
+
+div_lineups
+Nationals
+1;Lane Thomas;/players/t/thomala02.shtml;RF
+2;Luis García;/players/g/garcilu04.shtml;2B
+3;Joey Meneses;/players/m/menesjo01.shtml;DH
+4;Jeimer Candelario;/players/c/candeje01.shtml;3B
+5;Corey Dickerson;/players/d/dickeco01.shtml;LF
+6;Keibert Ruiz;/players/r/ruizke01.shtml;C
+7;Dominic Smith;/players/s/smithdo02.shtml;1B
+8;Alex Call;/players/c/callal02.shtml;CF
+9;CJ Abrams;/players/a/abramcj01.shtml;SS
+; Josiah Gray;/players/g/grayjo03.shtml;P
+Royals
+1;Nick Pratto;/players/p/prattni01.shtml;LF
+2;Vinnie Pasquantino;/players/p/pasquvi01.shtml;1B
+3;Salvador Perez;/players/p/perezsa02.shtml;C
+4;Bobby Witt;/players/w/wittbo02.shtml;SS
+5;MJ Melendez;/players/m/melenmj01.shtml;RF
+6;Michael Massey;/players/m/massemi02.shtml;DH
+7;Maikel Garcia;/players/g/garcima01.shtml;3B
+8;Drew Waters;/players/w/waterdr01.shtml;CF
+9;Nicky Lopez;/players/l/lopezni01.shtml;2B
+; Brady Singer;/players/s/singebr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t6;0-2;0;1--;2,(1-0) BX;R;WSN;Corey Dickerson;Brady Singer;16%;44%;Double to CF (Fly Ball to Deep LF-CF); Candelario Scores
+t6;2-2;0;123;5,(2-2) FBBCX;RR;WSN;CJ Abrams;Josh Taylor;15%;88%;Double to RF (Line Drive to Deep RF); Ruiz Scores; Smith Scores; Call to 3B
+t6;2-2;0;1--;3,(1-1) BFX;;WSN;Dominic Smith;Josh Taylor;13%;68%;Single to RF (Ground Ball thru 2B-1B); Ruiz to 3B/Adv on E9
+t6;1-2;0;-2-;4,(2-1) .BC*BX;R;WSN;Keibert Ruiz;Josh Taylor;11%;55%;Single to CF (Ground Ball thru SS-2B); Dickerson Scores
+b3;1-0;2;---;1,(0-0) X;R;KCR;Salvador Perez;Josiah Gray;-10%;26%;Home Run (Fly Ball to Deep LF Line)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Nationals Batting, Tied 0-0, Royals' Brady Singer facing 1-2-3 
+t1;0-0;0;---;3,(0-2) CFS;O;WSN;Lane Thomas;Brady Singer;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;5,(2-2) BFBFX;O;WSN;Luis García;Brady Singer;-2%;46%;Groundout: 2B-1B (Deep 2B)
+t1;0-0;2;---;4,(3-0) BBBB;;WSN;Joey Meneses;Brady Singer;1%;47%;Walk
+t1;0-0;2;1--;4,(3-0) BBBB;;WSN;Jeimer Candelario;Brady Singer;2%;49%;Walk; Meneses to 2B
+t1;0-0;2;12-;4,(1-2) CBSX;O;WSN;Corey Dickerson;Brady Singer;-4%;45%;Lineout: LF (LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Nationals 0, Royals 0.
+Bottom of the 1st, Royals Batting, Tied 0-0, Nationals' Josiah Gray facing 1-2-3 
+b1;0-0;0;---;5,(3-1) CBBBB;;KCR;Nick Pratto;Josiah Gray;-3%;42%;Walk
+b1;0-0;0;1--;3,(1-1) BCX;O;KCR;Vinnie Pasquantino;Josiah Gray;3%;45%;Flyball: CF (Deep CF)
+b1;0-0;1;1--;4,(1-2) BF1SX;;KCR;Salvador Perez;Josiah Gray;-6%;39%;Single to LF (Fly Ball to LF-CF); Pratto to 3B
+b1;0-0;1;1-3;2,(1-0) BX;O;KCR;Bobby Witt;Josiah Gray;6%;45%;Lineout: 3B
+b1;0-0;2;1-3;6,(1-2) SFF*BFB;R;KCR;MJ Melendez;Josiah Gray;-8%;37%;Wild Pitch; Pratto Scores/No RBI; Perez to 2B
+b1;1-0;2;-2-;8,(3-2) SFF*BFB.*BX;O;KCR;MJ Melendez;Josiah Gray;3%;40%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Nationals 0, Royals 1.
+Top of the 2nd, Nationals Batting, Behind 0-1, Royals' Brady Singer facing 6-7-8 
+t2;0-1;0;---;7,(3-2) BFFBFBB;;WSN;Keibert Ruiz;Brady Singer;4%;44%;Walk
+t2;0-1;0;1--;2,(1-0) BX;O;WSN;Dominic Smith;Brady Singer;-4%;40%;Flyball: RF (Deep RF Line)
+t2;0-1;1;1--;2,(1-0) B.B;;WSN;Alex Call;Brady Singer;2%;41%;Wild Pitch; Ruiz to 2B
+t2;0-1;1;-2-;4,(2-1) B.B.CX;O;WSN;Alex Call;Brady Singer;-3%;38%;Groundout: C-1B; Ruiz to 3B
+t2;0-1;2;--3;4,(1-2) CCBS;O;WSN;CJ Abrams;Brady Singer;-4%;34%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Nationals 0, Royals 1.
+Bottom of the 2nd, Royals Batting, Ahead 1-0, Nationals' Josiah Gray facing 6-7-8 
+b2;1-0;0;---;4,(2-1) CBBX;O;KCR;Michael Massey;Josiah Gray;2%;36%;Groundout: 2B-1B
+b2;1-0;1;---;3,(2-0) BBX;;KCR;Maikel Garcia;Josiah Gray;-4%;33%;Double to LF (Line Drive to Deep LF Line)
+b2;1-0;1;-2-;2,(0-1) FX;O;KCR;Drew Waters;Josiah Gray;3%;35%;Groundout: 1B-P; Garcia to 3B
+b2;1-0;2;--3;7,(2-2) CSBBFFX;O;KCR;Nicky Lopez;Josiah Gray;3%;39%;Groundout: 1B-P
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Nationals 0, Royals 1.
+Top of the 3rd, Nationals Batting, Behind 0-1, Royals' Brady Singer facing 1-2-3 
+t3;0-1;0;---;5,(2-2) FBBFX;O;WSN;Lane Thomas;Brady Singer;-3%;36%;Groundout: SS-1B
+t3;0-1;1;---;2,(0-1) FX;O;WSN;Luis García;Brady Singer;-2%;34%;Groundout: 2B-1B (2B-1B)
+t3;0-1;2;---;7,(2-2) CBCBFFC;O;WSN;Joey Meneses;Brady Singer;-1%;33%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 0, Royals 1.
+Bottom of the 3rd, Royals Batting, Ahead 1-0, Nationals' Josiah Gray facing 1-2-3 
+b3;1-0;0;---;4,(0-2) SS.FT;O;KCR;Nick Pratto;Josiah Gray;2%;35%;Strikeout Swinging
+b3;1-0;1;---;10,(3-2) BCSBFFFFBX;O;KCR;Vinnie Pasquantino;Josiah Gray;1%;37%;Lineout: CF (Deep CF)
+b3;1-0;2;---;1,(0-0) X;R;KCR;Salvador Perez;Josiah Gray;-10%;26%;Home Run (Fly Ball to Deep LF Line)
+b3;2-0;2;---;4,(1-2) SBC.S;O;KCR;Bobby Witt;Josiah Gray;1%;27%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Nationals 0, Royals 2.
+Top of the 4th, Nationals Batting, Behind 0-2, Royals' Brady Singer facing 4-5-6 
+t4;0-2;0;---;1,(0-0) X;;WSN;Jeimer Candelario;Brady Singer;7%;34%;Double to RF (Line Drive to Deep RF Line)
+t4;0-2;0;-2-;4,(1-2) BFF*S;O;WSN;Corey Dickerson;Brady Singer;-5%;29%;Strikeout Swinging
+t4;0-2;1;-2-;1,(0-0) X;O;WSN;Keibert Ruiz;Brady Singer;-4%;25%;Groundout: 2B-1B (2B-1B); Candelario to 3B
+t4;0-2;2;--3;3,(1-1) BFH;;WSN;Dominic Smith;Brady Singer;2%;27%;Hit By Pitch
+t4;0-2;2;1-3;6,(3-2) B*BBCC>S;O;WSN;Alex Call;Brady Singer;-6%;21%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Nationals 0, Royals 2.
+Bottom of the 4th, Royals Batting, Ahead 2-0, Nationals' Josiah Gray facing 5-6-7 
+b4;2-0;0;---;5,(3-1) FBBBB;;KCR;MJ Melendez;Josiah Gray;-2%;19%;Walk
+b4;2-0;0;1--;5,(2-2) F1>FBBX;;KCR;Michael Massey;Josiah Gray;-6%;13%;Single to RF (Ground Ball thru 2B-1B); Melendez to 3B
+b4;2-0;0;1-3;4,(0-2) CCFS;O;KCR;Maikel Garcia;Josiah Gray;4%;17%;Strikeout Swinging
+b4;2-0;1;1-3;3,(2-0) BB>S;;KCR;Drew Waters;Josiah Gray;-1%;15%;Massey Steals 2B
+b4;2-0;1;-23;5,(2-2) BB>S.SS;O;KCR;Drew Waters;Josiah Gray;5%;21%;Strikeout Swinging
+b4;2-0;2;-23;11,(3-2) SFFFBFFBBFB;;KCR;Nicky Lopez;Josiah Gray;-1%;20%;Walk
+b4;2-0;2;123;4,(2-1) BBCX;O;KCR;Nick Pratto;Josiah Gray;5%;25%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Nationals 0, Royals 2.
+Top of the 5th, Nationals Batting, Behind 0-2, Royals' Brady Singer facing 9-1-2 
+t5;0-2;0;---;4,(1-2) CBFX;O;WSN;CJ Abrams;Brady Singer;-3%;22%;Foul Popfly: LF (Short LF into Foul Terr.)
+t5;0-2;1;---;5,(2-2) CBBSX;;WSN;Lane Thomas;Brady Singer;5%;27%;Double to LF (Line Drive to Deep LF Line)
+t5;0-2;1;-2-;7,(3-2) SBBS.F*BS;O;WSN;Luis García;Brady Singer;-4%;22%;Strikeout Swinging
+t5;0-2;2;-2-;4,(0-2) CCFX;O;WSN;Joey Meneses;Brady Singer;-4%;19%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Nationals 0, Royals 2.
+Bottom of the 5th, Royals Batting, Ahead 2-0, Nationals' Mason Thompson facing 2-3-4 
+;;;;;;;;;Mason Thompson replaces Josiah Gray pitching
+b5;2-0;0;---;6,(3-2) .BBBCFS;O;KCR;Vinnie Pasquantino;Mason Thompson;1%;20%;Strikeout Swinging
+b5;2-0;1;---;3,(2-0) BBX;O;KCR;Salvador Perez;Mason Thompson;1%;21%;Foul Popfly: 1B
+b5;2-0;2;---;1,(0-0) X;O;KCR;Bobby Witt;Mason Thompson;1%;22%;Lineout: P (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 0, Royals 2.
+Top of the 6th, Nationals Batting, Behind 0-2, Royals' Brady Singer facing 4-5-6 
+t6;0-2;0;---;2,(0-1) CX;;WSN;Jeimer Candelario;Brady Singer;5%;27%;Single to RF (Line Drive)
+t6;0-2;0;1--;2,(1-0) BX;R;WSN;Corey Dickerson;Brady Singer;16%;44%;Double to CF (Fly Ball to Deep LF-CF); Candelario Scores
+;;;;;;;;;Josh Taylor replaces Brady Singer pitching
+t6;1-2;0;-2-;4,(2-1) .BC*BX;R;WSN;Keibert Ruiz;Josh Taylor;11%;55%;Single to CF (Ground Ball thru SS-2B); Dickerson Scores
+t6;2-2;0;1--;3,(1-1) BFX;;WSN;Dominic Smith;Josh Taylor;13%;68%;Single to RF (Ground Ball thru 2B-1B); Ruiz to 3B/Adv on E9
+t6;2-2;0;1-3;6,(3-2) BF*BF.*BB;;WSN;Alex Call;Josh Taylor;4%;73%;Walk; Smith to 2B
+t6;2-2;0;123;5,(2-2) FBBCX;RR;WSN;CJ Abrams;Josh Taylor;15%;88%;Double to RF (Line Drive to Deep RF); Ruiz Scores; Smith Scores; Call to 3B
+;;;;;;;;;Carlos Hernández replaces Josh Taylor pitching
+t6;4-2;0;-23;4,(1-2) .SSBS;O;WSN;Lane Thomas;Carlos Hernández;-4%;84%;Strikeout Swinging
+t6;4-2;1;-23;4,(1-2) FBCX;O;WSN;Luis García;Carlos Hernández;-6%;79%;Groundout: P-1B (P's Left)
+t6;4-2;2;-23;6,(3-2) BFBSBX;O;WSN;Joey Meneses;Carlos Hernández;-4%;74%;Lineout: SS
+;;;;;;;;;4 runs, 5 hits, 1 error, 2 LOB. Nationals 4, Royals 2.
+Bottom of the 6th, Royals Batting, Behind 2-4, Nationals' Mason Thompson facing 5-6-7 
+b6;2-4;0;---;3,(0-2) SF.X;O;KCR;MJ Melendez;Mason Thompson;4%;78%;Lineout: LF (Deep LF)
+b6;2-4;1;---;3,(2-0) BBX;;KCR;Michael Massey;Mason Thompson;-4%;74%;Single to RF (Line Drive to Deep RF)
+b6;2-4;1;1--;3,(1-1) CBX;OO;KCR;Maikel Garcia;Mason Thompson;8%;82%;Ground Ball Double Play: P-2B-1B (Front of Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Nationals 4, Royals 2.
+Top of the 7th, Nationals Batting, Ahead 4-2, Royals' Carlos Hernández facing 4-5-6 
+t7;4-2;0;---;8,(3-2) BCBBFFFS;O;WSN;Jeimer Candelario;Carlos Hernández;-2%;80%;Strikeout Swinging
+t7;4-2;1;---;1,(0-0) X;;WSN;Corey Dickerson;Carlos Hernández;2%;82%;Single to RF (Line Drive)
+;;;;;;;;;Stone Garrett pinch runs for Corey Dickerson (LF) batting 5th
+t7;4-2;1;1--;2,(0-1) .FX;O;WSN;Keibert Ruiz;Carlos Hernández;-2%;80%;Flyball: CF (Deep LF-CF)
+t7;4-2;2;1--;2,(1-1) FBN;;WSN;Dominic Smith;Carlos Hernández;1%;81%;Balk; Garrett to 2B
+t7;4-2;2;-2-;3,(1-1) FBN.X;O;WSN;Dominic Smith;Carlos Hernández;-3%;78%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Nationals 4, Royals 2.
+Bottom of the 7th, Royals Batting, Behind 2-4, Nationals' Carl Edwards Jr. facing 8-9-1 
+;;;;;;;;;Carl Edwards Jr. replaces Mason Thompson pitchingStone Garrett moves from PR to LF 
+b7;2-4;0;---;3,(1-1) ..SBX;O;KCR;Drew Waters;Carl Edwards Jr.;4%;82%;Groundout: 1B unassisted
+b7;2-4;1;---;5,(3-1) BBCBB;;KCR;Nicky Lopez;Carl Edwards Jr.;-5%;77%;Walk
+b7;2-4;1;1--;2,(1-0) BX;O;KCR;Nick Pratto;Carl Edwards Jr.;5%;82%;Groundout: 1B-SS/Forceout at 2B (2B-1B); Pratto to 1B
+b7;2-4;2;1--;2,(0-1) CX;;KCR;Vinnie Pasquantino;Carl Edwards Jr.;-4%;79%;Single to RF (Line Drive to CF-RF); Pratto to 2B
+b7;2-4;2;12-;6,(1-2) BFSFF.S;O;KCR;Salvador Perez;Carl Edwards Jr.;7%;86%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Nationals 4, Royals 2.
+Top of the 8th, Nationals Batting, Ahead 4-2, Royals' Taylor Clarke facing 8-9-1 
+;;;;;;;;;Taylor Clarke replaces Carlos Hernández pitching
+t8;4-2;0;---;5,(2-2) .CBBC.X;O;WSN;Alex Call;Taylor Clarke;-1%;85%;Groundout: 2B-1B
+t8;4-2;1;---;1,(0-0) X;O;WSN;CJ Abrams;Taylor Clarke;-1%;84%;Popfly: SS (SS-3B Hole)
+t8;4-2;2;---;5,(3-1) BFBBB;;WSN;Lane Thomas;Taylor Clarke;1%;85%;Walk
+t8;4-2;2;1--;1,(0-0) 1B;;WSN;Luis García;Taylor Clarke;1%;86%;Wild Pitch; Thomas to 2B
+t8;4-2;2;-2-;3,(2-0) 1B.BX;O;WSN;Luis García;Taylor Clarke;-2%;83%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Nationals 4, Royals 2.
+Bottom of the 8th, Royals Batting, Behind 2-4, Nationals' Hunter Harvey facing 4-5-6 
+;;;;;;;;;Hunter Harvey replaces Carl Edwards Jr. pitching
+b8;2-4;0;---;6,(3-2) .CFBBB.T;O;KCR;Bobby Witt;Hunter Harvey;4%;88%;Strikeout Swinging
+b8;2-4;1;---;7,(3-2) CBFFBBB;;KCR;MJ Melendez;Hunter Harvey;-5%;83%;Walk
+b8;2-4;1;1--;1,(0-0) X;O;KCR;Michael Massey;Hunter Harvey;6%;88%;Flyball: CF (Deep CF)
+b8;2-4;2;1--;5,(2-2) BFFBC;O;KCR;Maikel Garcia;Hunter Harvey;4%;92%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Nationals 4, Royals 2.
+Top of the 9th, Nationals Batting, Ahead 4-2, Royals' Scott Barlow facing 3-4-5 
+;;;;;;;;;Scott Barlow replaces Taylor Clarke pitching
+t9;4-2;0;---;2,(0-1) .CX;O;WSN;Joey Meneses;Scott Barlow;-1%;92%;Popfly: C (Short 1B Line)
+t9;4-2;1;---;5,(2-2) BFFBX;O;WSN;Jeimer Candelario;Scott Barlow;-1%;91%;Groundout: SS-1B (Weak SS-2B)
+t9;4-2;2;---;3,(0-2) CC.S;O;WSN;Stone Garrett;Scott Barlow;0%;91%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 4, Royals 2.
+Bottom of the 9th, Royals Batting, Behind 2-4, Nationals' Kyle Finnegan facing 8-9-1 
+;;;;;;;;;Kyle Finnegan replaces Hunter Harvey pitching
+b9;2-4;0;---;9,(3-2) .FSBBFBFFX;O;KCR;Drew Waters;Kyle Finnegan;5%;95%;Groundout: 1B-P
+b9;2-4;1;---;3,(1-1) SBX;;KCR;Nicky Lopez;Kyle Finnegan;-6%;89%;Single to CF (Line Drive to Short CF)
+b9;2-4;1;1--;4,(1-2) BCCC;O;KCR;Nick Pratto;Kyle Finnegan;6%;95%;Strikeout Looking
+b9;2-4;2;1--;6,(2-2) BCCBFS;O;KCR;Vinnie Pasquantino;Kyle Finnegan;5%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Nationals 4, Royals 2.

@@ -1,0 +1,276 @@
+
+Scorebox Meta
+20230617
+6:10 p.m. Local
+51385
+Dodger Stadium
+147
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/SFG-2023.png;/teams/SFG/2023.shtml;0;0;0;0;4;5;3;0;3;15;16;0
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;0;0;0;0;0;0;0;0;0;6;3
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;RF;3;0;1;0;0;2;3;.269;.371;.522;.893;13;9;-0.058; 0.76;0.003;-0.061;-0.05%; 1.12; -0.2;3;0;
+James Outman;/players/o/outmaja01.shtml;CF;1;0;0;0;0;0;1;.232;.325;.438;.763;1;1;0.000; 0.00;0.000;0.000;0%; 0.00; -0.3;1;0;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;2;0;1;0;0;0;3;.326;.407;.557;.963;12;8;0.001; 0.69;0.017;-0.016; 0.00%; 1.01; 0.6;4;1;HBP
+Jason Heyward;/players/h/heywaja01.shtml;1B;1;0;0;0;0;0;1;.231;.329;.448;.777;2;1;0.000; 0.00;0.000;0.000;0%; 0.00; -0.2;2;1;
+Will Smith;/players/s/smithwi05.shtml;DH;4;0;0;0;0;2;4;.287;.400;.506;.906;20;14;-0.065; 0.62;0.000;-0.065;-0.06%; 0.91; -1.4;;;
+J.D. Martinez;/players/m/martijd02.shtml;LF;4;0;1;0;0;1;4;.257;.299;.584;.883;14;11;-0.059; 0.45;0.000;-0.059;-0.05%; 0.66; -1.1;0;0;GDP
+Jonny Deluca;/players/d/delucjo01.shtml;CF-RF;4;0;1;0;0;0;4;.188;.235;.188;.423;14;9;0.005; 0.37;0.026;-0.021; 0.01%; 0.54; -0.5;2;0;
+Miguel Vargas;/players/v/vargami01.shtml;2B;4;0;0;0;0;0;4;.213;.319;.389;.708;15;9;-0.044; 0.43;0.000;-0.044;-0.04%; 0.64; -0.9;1;3;
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;3;0;0;0;0;0;3;.227;.258;.267;.525;5;5;-0.046; 0.55;0.000;-0.046;-0.04%; 0.81; -0.6;1;1;
+Michael Busch;/players/b/buschmi02.shtml;3B;3;0;2;0;0;0;3;.231;.333;.269;.603;11;8;0.089; 0.51;0.089;0.000; 0.08%; 0.75; 0.6;1;2;2B
+Austin Barnes;/players/b/barneau01.shtml;C;2;0;0;0;1;1;3;.107;.208;.131;.339;11;5;-0.091; 0.78;0.000;-0.091;-0.08%; 1.15; -0.7;10;1;GDP
+Bobby Miller;/players/m/millebo06.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Alex Vesia;/players/v/vesiaal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nick Robertson;/players/r/roberni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Hudson;/players/h/hudsobr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Michael Busch (1, off Alex Wood).
+
+
+HBP: Freddie Freeman (6, by Alex Wood).
+
+
+TB: Michael Busch 3; Freddie Freeman; J.D. Martinez; Mookie Betts; Jonny Deluca.
+
+
+GIDP: J.D. Martinez (6); Austin Barnes (3).
+
+
+Team LOB: 6.
+With RISP: 0 for 6.
+
+Batting away
+LaMonte Wade Jr.;/players/w/wadela01.shtml;1B;5;3;3;4;1;1;6;.280;.416;.469;.885;24;16;0.180; 0.62;0.215;-0.035; 0.14%; 0.82; 4.2;7;0;HR
+Joc Pederson;/players/p/pederjo01.shtml;DH;2;0;1;0;1;0;3;.281;.394;.518;.912;16;10;0.064; 0.77;0.071;-0.007; 0.05%; 1.02; 0.5;;;
+J.D. Davis;/players/d/davisjd01.shtml;PH-DH-DH;3;1;2;5;0;1;3;.291;.372;.493;.865;5;5;0.043; 0.18;0.043;0.000; 0.03%; 0.23; 3.8;;;HR
+Thairo Estrada;/players/e/estrath01.shtml;2B;6;0;2;0;0;1;6;.296;.346;.481;.827;22;15;-0.051; 0.50;0.009;-0.060;-0.04%; 0.66; -0.5;4;2;2B
+Michael Conforto;/players/c/confomi01.shtml;LF;4;0;1;0;0;1;4;.245;.346;.438;.783;11;7;-0.085; 0.80;0.000;-0.085;-0.07%; 1.06; -0.6;2;0;
+Blake Sabol;/players/s/sabolbl01.shtml;PR-LF;2;1;0;0;0;1;2;.245;.316;.409;.725;4;4;0.000; 0.00;0.000;0.000;0%; 0.00; -0.6;2;0;
+Mike Yastrzemski;/players/y/yastrmi01.shtml;RF;4;1;0;0;1;1;5;.242;.310;.445;.755;15;10;-0.042; 0.44;0.011;-0.053;-0.03%; 0.59; -0.6;1;0;
+Luis Matos;/players/m/matoslu02.shtml;CF;3;4;1;0;2;0;5;.250;.538;.250;.788;17;9;0.117; 0.83;0.134;-0.017; 0.09%; 1.10; 2.1;4;0;SB
+Patrick Bailey;/players/b/bailepa01.shtml;C;5;1;1;2;0;2;5;.304;.337;.532;.869;18;13;-0.082; 0.50;0.002;-0.083;-0.07%; 0.67; 0.2;6;0;2B
+Brandon Crawford;/players/c/crawfbr01.shtml;SS;4;2;4;2;0;0;4;.226;.303;.365;.668;10;7;0.145; 0.85;0.145;0.000; 0.11%; 1.12; 2.5;1;2;
+David Villar;/players/v/villada01.shtml;3B;1;1;1;0;0;0;1;.149;.230;.317;.547;5;4;0.000; 0.00;0.000;0.000;0%; 0.00; 0.9;0;1;2B
+Casey Schmitt;/players/s/schmica01.shtml;3B-SS;4;1;0;1;0;2;5;.264;.279;.384;.663;14;10;-0.056; 0.64;0.037;-0.092;-0.04%; 0.85; -1.7;0;3;HBP,GDP
+Alex Wood;/players/w/woodal02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tristan Beck;/players/b/becktr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Thairo Estrada (16, off Bobby Miller); Patrick Bailey (7, off Nick Robertson); David Villar (5, off Bryan Hudson).
+
+
+HR: LaMonte Wade Jr. (9, off Bobby Miller, 5th inn, 2 on, 1 out to Deep RF Line); J.D. Davis (10, off Alex Vesia, 6th inn, 3 on, 2 outs to Deep CF).
+
+
+HBP: Casey Schmitt (2, by Bobby Miller).
+
+
+TB: LaMonte Wade Jr. 6; J.D. Davis 5; Brandon Crawford 4; Thairo Estrada 3; Patrick Bailey 2; David Villar 2; Joc Pederson; Michael Conforto; Luis Matos.
+
+
+GIDP: Casey Schmitt (4).
+
+
+RBI: J.D. Davis 5 (40); LaMonte Wade Jr. 4 (25); Patrick Bailey 2 (19); Brandon Crawford 2 (20); Casey Schmitt (21).
+
+
+2-out RBI: J.D. Davis 5; LaMonte Wade Jr..
+
+
+Team LOB: 7.
+With RISP: 9 for 18.
+
+Pitching home
+Bobby Miller;/players/m/millebo06.shtml; L (3-1); 5.2;7;7;7;3;5;1;2.83;27;92;59;39;9;11;7;11;4;0;29;;;-0.184; 0.99;-0.16%; 1.45; -2.2
+Alex Vesia;/players/v/vesiaal01.shtml;Alex Vesia; 0.1;1;2;2;1;0;1;8.00;3;13;8;6;1;1;0;2;0;0;;2;2;-0.047; 0.29;-0.04%; 0.43; -3.5
+Nick Robertson;/players/r/roberni01.shtml;Nick Robertson; 1 ;4;3;1;0;3;0;7.20;8;22;18;10;5;3;3;2;2;0;;0;0;-0.002; 0.01;-0.00%; 0.01; -2.5
+Bryan Hudson;/players/h/hudsobr01.shtml;Bryan Hudson; 2 ;4;3;3;1;2;0;13.50;11;34;25;12;5;8;5;3;2;0;;0;0;0.000; 0.00; 0.00%; 0.00; -1.9
+
+Pitching away
+Alex Wood;/players/w/woodal02.shtml; W (2-1); 5 ;3;0;0;0;4;0;4.11;18;67;47;25;7;15;5;8;3;0;65;;;0.263; 0.95; 0.21%; 1.26; 2.7
+Tristan Beck;/players/b/becktr01.shtml; S (2); 4 ;3;0;0;1;2;0;3.31;15;51;33;21;5;7;4;8;4;0;;0;0;0.004; 0.05; 0.00%; 0.06; 2.2
+
+indiv_events
+
+Balks: None.
+WP: Tristan Beck (3); Bobby Miller (2).
+HBP: Alex Wood (5; Freddie Freeman); Bobby Miller (1; Casey Schmitt).
+IBB: None.
+Pickoffs: Bobby Miller (0; Luis Matos, 2nd base).
+
+Balks: None.
+WP: Tristan Beck (3); Bobby Miller (2).
+HBP: Alex Wood (5; Freddie Freeman); Bobby Miller (1; Casey Schmitt).
+IBB: None.
+Pickoffs: Bobby Miller (0; Luis Matos, 2nd base).
+
+section_content
+Umpires: HP - Chris Segal, 1B - David Rackley, 2B - Edwin Moscoso, 3B - Nate Tomlinson, LF - (none), RF - (none).
+Time of Game: 2:27.
+Attendance: 51,385.
+Field Condition: Unknown.
+Start Time Weather: 72° F, Wind 6mph out to Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Giants
+1;LaMonte Wade Jr.;/players/w/wadela01.shtml;1B
+2;Joc Pederson;/players/p/pederjo01.shtml;DH
+3;Thairo Estrada;/players/e/estrath01.shtml;2B
+4;Michael Conforto;/players/c/confomi01.shtml;LF
+5;Mike Yastrzemski;/players/y/yastrmi01.shtml;RF
+6;Luis Matos;/players/m/matoslu02.shtml;CF
+7;Patrick Bailey;/players/b/bailepa01.shtml;C
+8;Brandon Crawford;/players/c/crawfbr01.shtml;SS
+9;Casey Schmitt;/players/s/schmica01.shtml;3B
+; Alex Wood;/players/w/woodal02.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;RF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;DH
+4;J.D. Martinez;/players/m/martijd02.shtml;LF
+5;Jonny Deluca;/players/d/delucjo01.shtml;CF
+6;Miguel Vargas;/players/v/vargami01.shtml;2B
+7;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+8;Michael Busch;/players/b/buschmi02.shtml;3B
+9;Austin Barnes;/players/b/barneau01.shtml;C
+; Bobby Miller;/players/m/millebo06.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t5;1-0;1;12-;1,(0-0) X;RRR;SFG;LaMonte Wade Jr.;Bobby Miller;21%;88%;Home Run (Fly Ball to Deep RF Line); Crawford Scores; Schmitt Scores
+t3;0-0;0;1--;2,(0-1) CX;OO;SFG;Casey Schmitt;Bobby Miller;-8%;46%;Ground Ball Double Play: 3B-2B-1B (Deep SS-3B Hole)
+t5;0-0;1;--3;2,(0-1) 2.CX;R;SFG;Brandon Crawford;Bobby Miller;7%;63%;Single to RF (Line Drive to Short RF); Matos Scores
+b3;0-0;0;---;3,(1-1) CBX;;LAD;Michael Busch;Alex Wood;-7%;38%;Double to CF (Line Drive to Deep CF)
+t5;0-0;0;-2-;4,(1-2) FS>B.T;O;SFG;Patrick Bailey;Bobby Miller;-6%;52%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Giants Batting, Tied 0-0, Dodgers' Bobby Miller facing 1-2-3 
+t1;0-0;0;---;5,(2-2) CBFB*S;O;SFG;LaMonte Wade Jr.;Bobby Miller;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;5,(3-1) BBBFB;;SFG;Joc Pederson;Bobby Miller;2%;50%;Walk
+t1;0-0;1;1--;5,(2-2) FBFBX;O;SFG;Thairo Estrada;Bobby Miller;-2%;48%;Groundout: 3B-1B (Weak 3B); Pederson to 2B
+t1;0-0;2;-2-;1,(0-0) B;;SFG;Michael Conforto;Bobby Miller;0%;49%;Wild Pitch; Pederson to 3B
+t1;0-0;2;--3;5,(3-1) B.BFBX;O;SFG;Michael Conforto;Bobby Miller;-4%;45%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Giants 0, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Tied 0-0, Giants' Alex Wood facing 1-2-3 
+b1;0-0;0;---;5,(2-2) BBCCS;O;LAD;Mookie Betts;Alex Wood;2%;47%;Strikeout Swinging
+b1;0-0;1;---;5,(1-2) BFCFX;O;LAD;Freddie Freeman;Alex Wood;2%;49%;Flyball: CF (Deep CF)
+b1;0-0;2;---;5,(2-2) CBC.BX;O;LAD;Will Smith;Alex Wood;1%;50%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Dodgers 0.
+Top of the 2nd, Giants Batting, Tied 0-0, Dodgers' Bobby Miller facing 5-6-7 
+t2;0-0;0;---;1,(0-0) X;O;SFG;Mike Yastrzemski;Bobby Miller;-2%;48%;Flyball: RF (Deep RF Line)
+t2;0-0;1;---;2,(0-1) CX;O;SFG;Luis Matos;Bobby Miller;-2%;46%;Groundout: C-1B
+t2;0-0;2;---;1,(0-0) X;O;SFG;Patrick Bailey;Bobby Miller;-1%;45%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Dodgers 0.
+Bottom of the 2nd, Dodgers Batting, Tied 0-0, Giants' Alex Wood facing 4-5-6 
+b2;0-0;0;---;3,(0-2) CS*S;O;LAD;J.D. Martinez;Alex Wood;2%;47%;Strikeout Swinging
+b2;0-0;1;---;3,(2-0) BBX;;LAD;Jonny Deluca;Alex Wood;-3%;45%;Single to 3B (Ground Ball to Weak 3B)
+b2;0-0;1;1--;6,(2-2) BSCFBX;O;LAD;Miguel Vargas;Alex Wood;3%;48%;Flyball: LF (Deep LF-CF)
+b2;0-0;2;1--;1,(0-0) X;O;LAD;Miguel Rojas;Alex Wood;2%;50%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Dodgers 0.
+Top of the 3rd, Giants Batting, Tied 0-0, Dodgers' Bobby Miller facing 8-9-1 
+t3;0-0;0;---;4,(2-1) CBBX;;SFG;Brandon Crawford;Bobby Miller;4%;54%;Single to P (Ground Ball to Weak SS)
+t3;0-0;0;1--;2,(0-1) CX;OO;SFG;Casey Schmitt;Bobby Miller;-8%;46%;Ground Ball Double Play: 3B-2B-1B (Deep SS-3B Hole)
+t3;0-0;2;---;5,(1-2) CFBFX;O;SFG;LaMonte Wade Jr.;Bobby Miller;-1%;44%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Giants 0, Dodgers 0.
+Bottom of the 3rd, Dodgers Batting, Tied 0-0, Giants' Alex Wood facing 8-9-1 
+b3;0-0;0;---;3,(1-1) CBX;;LAD;Michael Busch;Alex Wood;-7%;38%;Double to CF (Line Drive to Deep CF)
+b3;0-0;0;-2-;5,(2-2) SSBBS;O;LAD;Austin Barnes;Alex Wood;5%;42%;Strikeout Swinging
+b3;0-0;1;-2-;6,(2-2) FBCFBT;O;LAD;Mookie Betts;Alex Wood;4%;46%;Strikeout Swinging
+b3;0-0;2;-2-;2,(0-1) FH;;LAD;Freddie Freeman;Alex Wood;-1%;45%;Hit By Pitch
+b3;0-0;2;12-;6,(1-2) CBFFFX;O;LAD;Will Smith;Alex Wood;5%;50%;Popfly: 2B (Short CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Giants 0, Dodgers 0.
+Top of the 4th, Giants Batting, Tied 0-0, Dodgers' Bobby Miller facing 2-3-4 
+t4;0-0;0;---;9,(2-2) BSS.FFBFFX;;SFG;Joc Pederson;Bobby Miller;4%;54%;Single to CF (Line Drive to CF-RF)
+t4;0-0;0;1--;5,(2-2) FFBBS;O;SFG;Thairo Estrada;Bobby Miller;-4%;50%;Strikeout Swinging
+t4;0-0;1;1--;3,(0-2) F1CS;O;SFG;Michael Conforto;Bobby Miller;-4%;47%;Strikeout Swinging
+t4;0-0;2;1--;2,(1-0) B1X;O;SFG;Mike Yastrzemski;Bobby Miller;-3%;44%;Popfly: 3B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Dodgers 0.
+Bottom of the 4th, Dodgers Batting, Tied 0-0, Giants' Alex Wood facing 4-5-6 
+b4;0-0;0;---;5,(2-2) CFBBX;O;LAD;J.D. Martinez;Alex Wood;3%;47%;Flyball: CF (Deep CF)
+b4;0-0;1;---;1,(0-0) X;O;LAD;Jonny Deluca;Alex Wood;2%;49%;Groundout: SS-1B
+b4;0-0;2;---;3,(1-1) BCX;O;LAD;Miguel Vargas;Alex Wood;1%;50%;Lineout: LF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Dodgers 0.
+Top of the 5th, Giants Batting, Tied 0-0, Dodgers' Bobby Miller facing 6-7-8 
+t5;0-0;0;---;5,(3-1) BBBCB;;SFG;Luis Matos;Bobby Miller;5%;55%;Walk
+t5;0-0;0;1--;3,(0-2) FS>B;;SFG;Patrick Bailey;Bobby Miller;3%;58%;Matos Steals 2B
+t5;0-0;0;-2-;4,(1-2) FS>B.T;O;SFG;Patrick Bailey;Bobby Miller;-6%;52%;Strikeout Swinging
+t5;0-0;1;-2-;,(0-0) 2;;SFG;Brandon Crawford;Bobby Miller;4%;56%;Matos Picked off 2B, safe on E1 (throw); Matos to 3B
+t5;0-0;1;--3;2,(0-1) 2.CX;R;SFG;Brandon Crawford;Bobby Miller;7%;63%;Single to RF (Line Drive to Short RF); Matos Scores
+t5;1-0;1;1--;3,(1-1) FBH;;SFG;Casey Schmitt;Bobby Miller;4%;67%;Hit By Pitch; Crawford to 2B
+t5;1-0;1;12-;1,(0-0) X;RRR;SFG;LaMonte Wade Jr.;Bobby Miller;21%;88%;Home Run (Fly Ball to Deep RF Line); Crawford Scores; Schmitt Scores
+t5;4-0;1;---;2,(0-1) SX;O;SFG;Joc Pederson;Bobby Miller;-1%;87%;Lineout: RF (Deep RF)
+t5;4-0;2;---;1,(0-0) X;;SFG;Thairo Estrada;Bobby Miller;1%;88%;Double to RF (Line Drive to Deep RF Line)
+t5;4-0;2;-2-;1,(0-0) X;O;SFG;Michael Conforto;Bobby Miller;-1%;87%;Groundout: 1B-P
+;;;;;;;;;4 runs, 3 hits, 1 error, 1 LOB. Giants 4, Dodgers 0.
+Bottom of the 5th, Dodgers Batting, Behind 0-4, Giants' Alex Wood facing 7-8-9 
+b5;0-4;0;---;2,(0-1) CX;O;LAD;Miguel Rojas;Alex Wood;2%;89%;Flyball: SS (Deep SS)
+b5;0-4;1;---;5,(1-2) CC.FBX;;LAD;Michael Busch;Alex Wood;-2%;87%;Single to LF (Ground Ball)
+b5;0-4;1;1--;1,(0-0) X;OO;LAD;Austin Barnes;Alex Wood;4%;91%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Giants 4, Dodgers 0.
+Top of the 6th, Giants Batting, Ahead 4-0, Dodgers' Bobby Miller facing 5-6-7 
+t6;4-0;0;---;7,(3-2) FBBBFFB;;SFG;Mike Yastrzemski;Bobby Miller;1%;92%;Walk
+t6;4-0;0;1--;3,(0-2) SCX;;SFG;Luis Matos;Bobby Miller;2%;94%;Single to SS (Ground Ball); Yastrzemski to 2B
+t6;4-0;0;12-;4,(2-1) BCBX;O;SFG;Patrick Bailey;Bobby Miller;-2%;92%;Flyball: RF (CF-RF)
+t6;4-0;1;12-;1,(0-0) X;R;SFG;Brandon Crawford;Bobby Miller;3%;96%;Single to CF (Fly Ball); Yastrzemski Scores; Matos to 2B
+t6;5-0;1;12-;4,(1-2) FCBS;O;SFG;Casey Schmitt;Bobby Miller;-1%;95%;Strikeout Swinging
+;;;;;;;;;Alex Vesia replaces Bobby Miller pitching
+t6;5-0;2;12-;8,(3-2) .BFBCB>F>F>B;;SFG;LaMonte Wade Jr.;Alex Vesia;1%;95%;Walk; Matos to 3B; Crawford to 2B
+;;;;;;;;;J.D. Davis pinch hits for Joc Pederson (DH) batting 2nd
+t6;5-0;2;123;1,(0-0) .X;RRRR;SFG;J.D. Davis;Alex Vesia;4%;99%;Home Run (Fly Ball to Deep CF); Matos Scores; Crawford Scores; Wade Scores
+t6;9-0;2;---;4,(1-2) SFBX;O;SFG;Thairo Estrada;Alex Vesia;0%;99%;Popfly: SS
+;;;;;;;;;5 runs, 3 hits, 0 errors, 0 LOB. Giants 9, Dodgers 0.
+Bottom of the 6th, Dodgers Batting, Behind 0-9, Giants' Tristan Beck facing 1-2-3 
+;;;;;;;;;Tristan Beck replaces Alex Wood pitching
+b6;0-9;0;---;2,(0-1) ..FX;;LAD;Mookie Betts;Tristan Beck;0%;99%;Single to CF (Line Drive)
+b6;0-9;0;1--;5,(2-2) BFBSX;;LAD;Freddie Freeman;Tristan Beck;-1%;98%;Single to RF (Line Drive to Short RF); Betts to 2B
+b6;0-9;0;12-;6,(3-2) BBCBCS;O;LAD;Will Smith;Tristan Beck;1%;99%;Strikeout Swinging
+b6;0-9;1;12-;4,(0-2) CFFX;OO;LAD;J.D. Martinez;Tristan Beck;1%;100%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Giants 9, Dodgers 0.
+Top of the 7th, Giants Batting, Ahead 9-0, Dodgers' Nick Robertson facing 4-5-6 
+;;;;;;;;;Nick Robertson replaces Alex Vesia pitchingJason Heyward replaces Freddie Freeman playing 1B batting 2ndJames Outman replaces Mookie Betts (RF) playing CF batting 1stJonny Deluca moves from CF to RF 
+t7;9-0;0;---;2,(1-0) ....BX;;SFG;Michael Conforto;Nick Robertson;0%;100%;Single to 2B (Ground Ball)
+t7;9-0;0;1--;3,(0-2) CT*S;O;SFG;Mike Yastrzemski;Nick Robertson;0%;100%;Strikeout Swinging
+;;;;;;;;;Blake Sabol pinch runs for Michael Conforto (LF) batting 4th
+t7;9-0;1;1--;2,(0-1) .CX;;SFG;Luis Matos;Nick Robertson;0%;100%;Reached on E5 (throw) (Ground Ball to SS-3B Hole); Sabol to 2B; Matos to 1B
+t7;9-0;1;12-;5,(2-2) C*BFBX;RR;SFG;Patrick Bailey;Nick Robertson;0%;100%;Double to CF (Line Drive to Deep CF-RF); Sabol Scores; Matos Scores/unER
+t7;11-0;1;-2-;3,(1-1) FBX;;SFG;Brandon Crawford;Nick Robertson;0%;100%;Single to RF (Ground Ball thru 2B-1B); Bailey to 3B
+t7;11-0;1;1-3;3,(0-2) SS.S;O;SFG;Casey Schmitt;Nick Robertson;0%;100%;Strikeout Swinging
+t7;11-0;2;1-3;1,(0-0) X;R;SFG;LaMonte Wade Jr.;Nick Robertson;0%;100%;Single to LF (Line Drive to LF-CF); Bailey Scores/unER; Crawford to 2B
+t7;12-0;2;12-;3,(0-2) FFS;O;SFG;J.D. Davis;Nick Robertson;0%;100%;Strikeout Swinging
+;;;;;;;;;3 runs, 4 hits, 1 error, 2 LOB. Giants 12, Dodgers 0.
+Bottom of the 7th, Dodgers Batting, Behind 0-12, Giants' Tristan Beck facing 5-6-7 
+;;;;;;;;;David Villar replaces Brandon Crawford (SS) playing 3B batting 8thCasey Schmitt moves from 3B to SS Blake Sabol moves from PR to LF 
+b7;0-12;0;---;8,(3-2) ...BFBFFFBX;O;LAD;Jonny Deluca;Tristan Beck;0%;100%;Groundout: 3B-1B (SS-3B Hole)
+b7;0-12;1;---;1,(0-0) X;O;LAD;Miguel Vargas;Tristan Beck;0%;100%;Flyball: RF (Deep CF-RF)
+b7;0-12;2;---;2,(0-1) CX;O;LAD;Miguel Rojas;Tristan Beck;0%;100%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 12, Dodgers 0.
+Top of the 8th, Giants Batting, Ahead 12-0, Dodgers' Bryan Hudson facing 3-4-5 
+;;;;;;;;;Bryan Hudson replaces Nick Robertson pitching
+t8;12-0;0;---;4,(1-2) .BFCX;O;SFG;Thairo Estrada;Bryan Hudson;0%;100%;Groundout: 1B-P (2B-1B)
+t8;12-0;1;---;3,(0-2) C.CS;O;SFG;Blake Sabol;Bryan Hudson;0%;100%;Strikeout Swinging
+t8;12-0;2;---;2,(0-1) FX;O;SFG;Mike Yastrzemski;Bryan Hudson;0%;100%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 12, Dodgers 0.
+Bottom of the 8th, Dodgers Batting, Behind 0-12, Giants' Tristan Beck facing 8-9-1 
+b8;0-12;0;---;3,(1-1) BFX;O;LAD;Michael Busch;Tristan Beck;0%;100%;Flyball: LF (Deep LF)
+b8;0-12;1;---;5,(3-1) BCBBB;;LAD;Austin Barnes;Tristan Beck;0%;100%;Walk
+b8;0-12;1;1--;1,(0-0) X;O;LAD;James Outman;Tristan Beck;0%;100%;Popfly: 2B (Deep 2B)
+b8;0-12;2;1--;2,(1-0) BX;O;LAD;Jason Heyward;Tristan Beck;0%;100%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Giants 12, Dodgers 0.
+Top of the 9th, Giants Batting, Ahead 12-0, Dodgers' Bryan Hudson facing 6-7-8 
+t9;12-0;0;---;5,(3-1) BBBCB;;SFG;Luis Matos;Bryan Hudson;0%;100%;Walk
+t9;12-0;0;1--;4,(0-2) SCFC;O;SFG;Patrick Bailey;Bryan Hudson;0%;100%;Strikeout Looking
+t9;12-0;1;1--;5,(1-2) SSFBX;;SFG;David Villar;Bryan Hudson;0%;100%;Double to LF (Line Drive to Deep LF Line); Matos to 3B
+t9;12-0;1;-23;2,(1-0) BX;RO;SFG;Casey Schmitt;Bryan Hudson;0%;100%;Groundout: SS-1B; Matos Scores
+t9;13-0;2;-2-;4,(1-2) BCSX;R;SFG;LaMonte Wade Jr.;Bryan Hudson;0%;100%;Single to 3B (Ground Ball); Villar Scores/No RBI; Wade to 2B/Adv on E5 (throw)
+t9;14-0;2;-2-;1,(0-0) X;R;SFG;J.D. Davis;Bryan Hudson;0%;100%;Single to RF (Ground Ball thru 2B-1B); Wade Scores
+t9;15-0;2;1--;3,(1-1) BCX;;SFG;Thairo Estrada;Bryan Hudson;0%;100%;Single to CF (Line Drive to LF-CF); Davis to 2B
+t9;15-0;2;12-;1,(0-0) X;O;SFG;Blake Sabol;Bryan Hudson;0%;100%;Flyball: CF (Deep CF)
+;;;;;;;;;3 runs, 4 hits, 1 error, 2 LOB. Giants 15, Dodgers 0.
+Bottom of the 9th, Dodgers Batting, Behind 0-15, Giants' Tristan Beck facing 3-4-5 
+b9;0-15;0;---;3,(0-2) SCS;O;LAD;Will Smith;Tristan Beck;0%;100%;Strikeout Swinging
+b9;0-15;1;---;2,(1-0) BX;;LAD;J.D. Martinez;Tristan Beck;0%;100%;Single to LF (Ground Ball)
+b9;0-15;1;1--;2,(0-1) SX;O;LAD;Jonny Deluca;Tristan Beck;0%;100%;Lineout: LF
+b9;0-15;2;1--;3,(1-1) BCB;;LAD;Miguel Vargas;Tristan Beck;0%;100%;Wild Pitch; Martinez to 2B
+b9;0-15;2;-2-;5,(3-1) BCB.BX;O;LAD;Miguel Vargas;Tristan Beck;0%;100%;Popfly: 1B (Weak 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 15, Dodgers 0.

@@ -1,0 +1,273 @@
+
+Scorebox Meta
+20230809
+7:10 p.m. Local
+23377
+Guaranteed Rate Field
+165
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;0;0;1;0;0;1;0;0;2;6;1
+https://cdn.ssref.net/req/202308251/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;0;3;1;0;1;0;0;4;X;9;11;0
+
+Batting home
+Tim Anderson;/players/a/anderti01.shtml;SS;5;0;1;1;0;2;5;.242;.284;.289;.573;16;12;-0.054; 0.45;0.001;-0.055;0%; 0.00; -0.2;3;3;
+Andrew Benintendi;/players/b/beninan01.shtml;LF;5;0;0;0;0;1;5;.272;.337;.354;.691;20;14;-0.053; 0.41;0.000;-0.053;0%; 0.00; -1.3;0;0;
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;1;1;1;0;1;0;2;.271;.325;.563;.889;10;3;0.037; 0.49;0.037;0.000;0%; 0.01; 0.6;0;1;2·SB
+Trayce Thompson;/players/t/thomptr01.shtml;CF;2;1;1;0;1;1;3;.167;.314;.345;.659;14;7;0.030; 0.27;0.030;0.000;0%; 0.00; 0.5;2;0;SB
+Eloy Jiménez;/players/j/jimenel02.shtml;DH;4;0;0;0;0;0;4;.278;.318;.451;.769;14;11;-0.017; 0.53;0.030;-0.047;0%; 0.01; -0.1;;;
+Yoán Moncada;/players/m/moncayo01.shtml;3B;3;1;2;1;1;0;4;.223;.276;.335;.611;19;9;0.102; 0.54;0.121;-0.020; 0.00%; 0.01; 1.2;1;0;2·2B,GDP
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;4;1;1;0;0;0;4;.251;.316;.434;.749;13;10;-0.025; 0.48;0.006;-0.031;0%; 0.00; -0.0;4;2;
+Yasmani Grandal;/players/g/grandya01.shtml;C;3;2;2;1;1;0;4;.247;.322;.369;.692;13;7;0.076; 0.55;0.081;-0.005;0%; 0.00; 1.6;9;1;
+Oscar Colás;/players/c/colasos01.shtml;RF;4;2;1;2;0;2;4;.221;.259;.301;.559;15;11;0.124; 0.52;0.150;-0.026; 0.00%; 0.01; 0.4;3;0;HR
+Elvis Andrus;/players/a/andruel01.shtml;2B;4;1;2;3;0;1;4;.225;.293;.320;.613;18;9;0.020; 0.32;0.031;-0.012;0%; 0.00; 2.2;3;4;2B
+Mike Clevinger;/players/c/clevimi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jimmy Lambert;/players/l/lambeji01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Aaron Bummer;/players/b/bummeaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gregory Santos;/players/s/santogr01.shtml;P;;;;;;;;;;;;;;;;;;;;;2;0;
+2B: Yoán Moncada 2 (10, 2 off Luis Severino); Elvis Andrus (13, off Nick Ramirez).
+
+
+HR: Oscar Colás (3, off Luis Severino, 2nd inn, 1 on, 1 out to Deep CF-RF).
+
+
+TB: Oscar Colás 4; Yoán Moncada 4; Elvis Andrus 3; Yasmani Grandal 2; Luis Robert Jr.; Tim Anderson; Andrew Vaughn; Trayce Thompson.
+
+
+GIDP: Yoán Moncada (4).
+
+
+RBI: Elvis Andrus 3 (28); Oscar Colás 2 (13); Yasmani Grandal (31); Yoán Moncada (17); Tim Anderson (20).
+
+
+2-out RBI: Yoán Moncada.
+
+
+Team LOB: 6.
+With RISP: 5 for 12.
+
+Batting away
+Jake Bauers;/players/b/bauerja01.shtml;1B;3;0;1;0;0;1;3;.227;.305;.481;.786;11;9;-0.003; 0.75;0.035;-0.038;-0.00%; 0.38; -0.1;10;0;
+Anthony Volpe;/players/v/volpean01.shtml;PH-SS;0;0;0;0;1;0;1;.211;.290;.372;.662;6;2;0.042; 0.91;0.042;0.000; 0.01%; 0.46; 0.4;0;0;
+Aaron Judge;/players/j/judgeaa01.shtml;RF;3;1;1;0;1;0;4;.284;.414;.635;1.050;13;8;-0.054; 1.05;0.030;-0.083;-0.02%; 0.53; -0.5;2;0;
+Gleyber Torres;/players/t/torregl01.shtml;2B;3;0;1;0;1;0;4;.270;.336;.444;.780;10;5;0.074; 1.09;0.131;-0.057; 0.02%; 0.55; 0.8;1;5;GDP
+Giancarlo Stanton;/players/s/stantmi03.shtml;DH;4;1;1;2;0;1;4;.204;.278;.463;.741;13;9;-0.066; 1.35;0.048;-0.114;-0.02%; 0.68; -0.1;;;HR
+Billy McKinney;/players/m/mckinbi01.shtml;LF-1B;4;0;1;0;0;1;4;.232;.315;.438;.752;16;12;-0.050; 1.09;0.043;-0.092;-0.01%; 0.55; -0.6;0;1;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;3B;3;0;1;0;1;0;4;.254;.325;.373;.698;17;10;0.032; 0.79;0.086;-0.053; 0.01%; 0.40; -0.1;0;4;CS
+Harrison Bader;/players/b/baderha01.shtml;CF;3;0;0;0;1;3;4;.265;.300;.417;.717;18;11;0.059; 1.10;0.105;-0.046; 0.02%; 0.56; 0.2;1;0;
+Oswaldo Cabrera;/players/c/cabreos01.shtml;SS-LF;3;0;0;0;1;2;4;.202;.266;.303;.569;22;12;-0.085; 1.22;0.024;-0.109;-0.03%; 0.61; -0.8;2;2;
+Kyle Higashioka;/players/h/higasky01.shtml;C;3;0;0;0;0;1;3;.224;.260;.383;.643;14;10;-0.212; 1.71;0.000;-0.212;-0.06%; 0.86; -2.0;8;0;GDP
+Ian Hamilton;/players/h/hamilia01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Luis Severino;/players/s/severlu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Keynan Middleton;/players/m/middlke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Wandy Peralta;/players/p/peralwa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Albert Abreu;/players/a/abreual01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nick Ramirez;/players/r/ramirni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Giancarlo Stanton (18, off Jimmy Lambert, 7th inn, 0 on, 0 outs to Deep RF).
+
+
+TB: Giancarlo Stanton 4; Aaron Judge; Isiah Kiner-Falefa; Billy McKinney; Gleyber Torres; Jake Bauers.
+
+
+GIDP: Gleyber Torres (12); Kyle Higashioka (2).
+
+
+RBI: Giancarlo Stanton 2 (44).
+
+
+Team LOB: 6.
+With RISP: 0 for 7.
+
+Pitching home
+Mike Clevinger;/players/c/clevimi01.shtml; W (5-5); 6 ;3;1;1;3;6;0;3.55;21;86;56;35;5;16;3;9;2;0;65;;;0.214; 0.87; 0.00%; 0.01; 2.2
+Jimmy Lambert;/players/l/lambeji01.shtml;Jimmy Lambert; 0 ;3;1;1;1;0;1;5.93;4;11;7;3;0;4;2;1;1;0;;0;0;-0.268; 1.47;-0.00%; 0.01; -2.8
+Aaron Bummer;/players/b/bummeaa01.shtml; H (8); 1 ;0;0;0;1;1;0;6.37;3;12;7;3;1;3;1;0;0;0;;3;0;0.226; 2.74; 0.00%; 0.02; 2.0
+Gregory Santos;/players/s/santogr01.shtml; S (3); 2 ;0;0;0;1;2;0;2.65;7;31;18;7;4;7;2;2;1;0;;1;0;0.089; 0.97; 0.00%; 0.01; 1.4
+
+Pitching away
+Ian Hamilton;/players/h/hamilia01.shtml;Ian Hamilton; 1 ;0;0;0;1;1;0;1.63;4;10;5;3;1;1;1;1;0;0;53;;;0.049; 0.67; 0.01%; 0.34; 0.5
+Luis Severino;/players/s/severlu01.shtml; L (2-7); 2 ;5;4;4;1;2;1;8.06;12;48;30;16;7;7;2;7;4;0;;0;0;-0.292; 0.68;-0.09%; 0.34; -3.3
+Keynan Middleton;/players/m/middlke01.shtml;Keynan Middleton; 2 ;2;1;1;0;1;0;3.70;8;27;18;12;3;3;5;2;1;0;;1;0;0.008; 0.53; 0.00%; 0.27; 0.4
+Wandy Peralta;/players/p/peralwa01.shtml;Wandy Peralta; 1.2;0;0;0;1;2;0;3.14;6;33;20;9;5;6;3;0;0;0;;0;0;0.018; 0.15; 0.01%; 0.08; 0.8
+Albert Abreu;/players/a/abreual01.shtml;Albert Abreu; 0.1;2;3;3;1;0;0;4.50;4;14;8;4;1;3;3;0;0;0;;1;0;-0.011; 0.17;-0.00%; 0.09; -1.6
+Nick Ramirez;/players/r/ramirni01.shtml;Nick Ramirez; 1 ;2;1;1;0;1;0;2.67;5;20;12;8;3;1;2;2;2;0;;3;3;-0.009; 0.11;-0.00%; 0.06; -1.6
+
+indiv_events
+
+Balks: None.
+WP: Mike Clevinger (4).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Mike Clevinger (4).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Andy Fletcher, 1B - Erich Bacchus, 2B - Laz Diaz, 3B - Mike Estabrook, LF - (none), RF - (none).
+Time of Game: 2:45.
+Attendance: 23,377.
+Field Condition: Unknown.
+Start Time Weather: 76° F, Wind 8mph from Right to Left, Cloudy, No Precipitation.
+
+div_lineups
+Yankees
+1;Jake Bauers;/players/b/bauerja01.shtml;1B
+2;Aaron Judge;/players/j/judgeaa01.shtml;RF
+3;Gleyber Torres;/players/t/torregl01.shtml;2B
+4;Giancarlo Stanton;/players/s/stantmi03.shtml;DH
+5;Billy McKinney;/players/m/mckinbi01.shtml;LF
+6;Isiah Kiner-Falefa;/players/k/kineris01.shtml;3B
+7;Harrison Bader;/players/b/baderha01.shtml;CF
+8;Oswaldo Cabrera;/players/c/cabreos01.shtml;SS
+9;Kyle Higashioka;/players/h/higasky01.shtml;C
+; Ian Hamilton;/players/h/hamilia01.shtml;P
+White Sox
+1;Tim Anderson;/players/a/anderti01.shtml;SS
+2;Andrew Benintendi;/players/b/beninan01.shtml;LF
+3;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+4;Eloy Jiménez;/players/j/jimenel02.shtml;DH
+5;Yoán Moncada;/players/m/moncayo01.shtml;3B
+6;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+7;Yasmani Grandal;/players/g/grandya01.shtml;C
+8;Oscar Colás;/players/c/colasos01.shtml;RF
+9;Elvis Andrus;/players/a/andruel01.shtml;2B
+; Mike Clevinger;/players/c/clevimi01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t7;2-5;1;123;2,(0-1) CX;OO;NYY;Kyle Higashioka;Aaron Bummer;18%;94%;Ground Ball Double Play: 2B-SS-1B
+b2;1-0;1;1--;5,(2-2) SBC*BX;RR;CHW;Oscar Colás;Luis Severino;15%;81%;Home Run (Fly Ball to Deep CF-RF); Grandal Scores
+t7;2-5;0;12-;5,(3-1) B*BBCB;;NYY;Harrison Bader;Jimmy Lambert;-10%;67%;Walk; McKinney to 3B; Kiner-Falefa to 2B
+t7;2-5;0;123;4,(1-2) .CBTC;O;NYY;Oswaldo Cabrera;Aaron Bummer;9%;76%;Strikeout Looking
+t7;2-5;0;1--;1,(0-0) X;;NYY;Isiah Kiner-Falefa;Jimmy Lambert;-7%;78%;Single to LF (Ground Ball thru SS-3B Hole); McKinney to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Yankees Batting, Tied 0-0, White Sox' Mike Clevinger facing 1-2-3 
+t1;0-0;0;---;2,(0-1) FX;;NYY;Jake Bauers;Mike Clevinger;-4%;46%;Single to RF (Line Drive to Deep RF Line)
+t1;0-0;0;1--;2,(0-1) CX;O;NYY;Aaron Judge;Mike Clevinger;3%;50%;Single to CF (Line Drive to Deep CF-RF); Bauers out at 3B/CF-3B
+t1;0-0;1;1--;3,(1-1) BS1X;OO;NYY;Gleyber Torres;Mike Clevinger;5%;55%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 0 LOB. Yankees 0, White Sox 0.
+Bottom of the 1st, White Sox Batting, Tied 0-0, Yankees' Ian Hamilton facing 1-2-3 
+b1;0-0;0;---;3,(0-2) CF.S;O;CHW;Tim Anderson;Ian Hamilton;-2%;53%;Strikeout Swinging
+b1;0-0;1;---;2,(1-0) BX;O;CHW;Andrew Benintendi;Ian Hamilton;-2%;51%;Flyball: RF (Deep CF-RF)
+b1;0-0;2;---;4,(3-0) BBBB;;CHW;Luis Robert Jr.;Ian Hamilton;1%;52%;Walk
+b1;0-0;2;1--;1,(0-0) >X;O;CHW;Eloy Jiménez;Ian Hamilton;-2%;50%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, White Sox 0.
+Top of the 2nd, Yankees Batting, Tied 0-0, White Sox' Mike Clevinger facing 4-5-6 
+t2;0-0;0;---;2,(0-1) CX;O;NYY;Giancarlo Stanton;Mike Clevinger;2%;52%;Flyball: RF (Short RF Line)
+t2;0-0;1;---;3,(0-2) CFC;O;NYY;Billy McKinney;Mike Clevinger;2%;54%;Strikeout Looking
+t2;0-0;2;---;6,(3-2) FCBB.BB;;NYY;Isiah Kiner-Falefa;Mike Clevinger;-1%;53%;Walk
+t2;0-0;2;1--;1,(0-0) >B;O;NYY;Harrison Bader;Mike Clevinger;2%;55%;Kiner-Falefa Caught Stealing 2B (C-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, White Sox 0.
+Bottom of the 2nd, White Sox Batting, Tied 0-0, Yankees' Luis Severino facing 5-6-7 
+;;;;;;;;;Luis Severino replaces Ian Hamilton pitching
+b2;0-0;0;---;4,(2-1) .BBSX;;CHW;Yoán Moncada;Luis Severino;6%;61%;Double to RF (Fly Ball to Deep RF Line)
+b2;0-0;0;-2-;4,(0-2) FFFX;O;CHW;Andrew Vaughn;Luis Severino;-1%;60%;Groundout: 2B-1B (SS-2B); Moncada to 3B
+b2;0-0;1;--3;1,(0-0) X;R;CHW;Yasmani Grandal;Luis Severino;6%;66%;Single to LF (Line Drive); Moncada Scores
+b2;1-0;1;1--;5,(2-2) SBC*BX;RR;CHW;Oscar Colás;Luis Severino;15%;81%;Home Run (Fly Ball to Deep CF-RF); Grandal Scores
+b2;3-0;1;---;6,(3-2) CS.BBBT;O;CHW;Elvis Andrus;Luis Severino;-1%;80%;Strikeout Swinging
+b2;3-0;2;---;4,(1-2) CSBS;O;CHW;Tim Anderson;Luis Severino;-1%;79%;Strikeout Swinging
+;;;;;;;;;3 runs, 3 hits, 0 errors, 0 LOB. Yankees 0, White Sox 3.
+Top of the 3rd, Yankees Batting, Behind 0-3, White Sox' Mike Clevinger facing 7-8-9 
+t3;0-3;0;---;4,(0-2) CCFS;O;NYY;Harrison Bader;Mike Clevinger;2%;81%;Strikeout Swinging
+t3;0-3;1;---;6,(3-2) FBBFB*B;;NYY;Oswaldo Cabrera;Mike Clevinger;-2%;79%;Walk
+t3;0-3;1;1--;5,(2-2) BFF1BX;O;NYY;Kyle Higashioka;Mike Clevinger;3%;82%;Flyball: RF (RF Line)
+t3;0-3;2;1--;3,(0-2) CCS;O;NYY;Jake Bauers;Mike Clevinger;2%;84%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, White Sox 3.
+Bottom of the 3rd, White Sox Batting, Ahead 3-0, Yankees' Luis Severino facing 2-3-4 
+b3;3-0;0;---;4,(1-2) CSBX;O;CHW;Andrew Benintendi;Luis Severino;-1%;83%;Groundout: SS-1B (SS-2B)
+b3;3-0;1;---;6,(3-2) BBSBFX;;CHW;Luis Robert Jr.;Luis Severino;1%;84%;Single to RF (Line Drive to CF-RF)
+b3;3-0;1;1--;1,(0-0) 1>C;;CHW;Eloy Jiménez;Luis Severino;1%;85%;Robert Steals 2B
+b3;3-0;1;-2-;4,(0-2) 1>C.C>FX;O;CHW;Eloy Jiménez;Luis Severino;-2%;83%;Lineout: SS (SS-3B Hole)
+b3;3-0;2;-2-;1,(0-0) 2>C;;CHW;Yoán Moncada;Luis Severino;0%;83%;Robert Steals 3B
+b3;3-0;2;--3;5,(2-2) 2>C.FBBX;R;CHW;Yoán Moncada;Luis Severino;6%;89%;Double to CF (Line Drive to Deep CF-RF); Robert Scores
+b3;4-0;2;-2-;1,(0-0) X;O;CHW;Andrew Vaughn;Luis Severino;-1%;87%;Flyball: RF (Deep RF Line)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Yankees 0, White Sox 4.
+Top of the 4th, Yankees Batting, Behind 0-4, White Sox' Mike Clevinger facing 2-3-4 
+;;;;;;;;;Trayce Thompson replaces Luis Robert Jr. playing CF batting 3rd
+t4;0-4;0;---;5,(3-1) .BBBCB;;NYY;Aaron Judge;Mike Clevinger;-3%;84%;Walk
+t4;0-4;0;1--;1,(0-0) X;;NYY;Gleyber Torres;Mike Clevinger;-7%;77%;Single to LF (Fly Ball to LF-CF); Judge to 3B
+t4;0-4;0;1-3;3,(1-1) BCB;;NYY;Giancarlo Stanton;Mike Clevinger;-1%;76%;Wild Pitch; Torres to 2B
+t4;0-4;0;-23;5,(3-1) BCB.BX;RO;NYY;Giancarlo Stanton;Mike Clevinger;4%;80%;Groundout: SS-1B (SS-3B Hole); Judge Scores
+t4;1-4;1;-2-;8,(3-2) CBSFBFBX;O;NYY;Billy McKinney;Mike Clevinger;3%;83%;Flyball: 2B (Short CF-RF)
+t4;1-4;2;-2-;4,(1-2) BCFX;O;NYY;Isiah Kiner-Falefa;Mike Clevinger;3%;86%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Yankees 1, White Sox 4.
+Bottom of the 4th, White Sox Batting, Ahead 4-1, Yankees' Luis Severino facing 7-8-9 
+b4;4-1;0;---;4,(3-0) BBBB;;CHW;Yasmani Grandal;Luis Severino;2%;87%;Walk
+;;;;;;;;;Keynan Middleton replaces Luis Severino pitching
+b4;4-1;0;1--;3,(0-2) .CFS;O;CHW;Oscar Colás;Keynan Middleton;-2%;86%;Strikeout Swinging
+b4;4-1;1;1--;2,(1-0) BX;;CHW;Elvis Andrus;Keynan Middleton;2%;87%;Single to LF (Ground Ball); Grandal to 2B
+b4;4-1;1;12-;1,(0-0) X;O;CHW;Tim Anderson;Keynan Middleton;-2%;85%;Flyball: 2B (Short CF-RF)
+b4;4-1;2;12-;3,(1-1) T*BX;O;CHW;Andrew Benintendi;Keynan Middleton;-2%;83%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Yankees 1, White Sox 4.
+Top of the 5th, Yankees Batting, Behind 1-4, White Sox' Mike Clevinger facing 7-8-9 
+t5;1-4;0;---;3,(0-2) FFS;O;NYY;Harrison Bader;Mike Clevinger;2%;86%;Strikeout Swinging
+t5;1-4;1;---;8,(3-2) FBBTB.FFT;O;NYY;Oswaldo Cabrera;Mike Clevinger;2%;87%;Strikeout Swinging
+t5;1-4;2;---;7,(2-2) FC.FBFBC;O;NYY;Kyle Higashioka;Mike Clevinger;1%;88%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 1, White Sox 4.
+Bottom of the 5th, White Sox Batting, Ahead 4-1, Yankees' Keynan Middleton facing 3-4-5 
+b5;4-1;0;---;2,(1-0) BX;;CHW;Trayce Thompson;Keynan Middleton;1%;90%;Single to LF (Line Drive to LF-CF)
+b5;4-1;0;1--;4,(1-2) F1BC.>B;;CHW;Eloy Jiménez;Keynan Middleton;1%;91%;Thompson Steals 2B
+b5;4-1;0;-2-;6,(2-2) F1BC.>B.FX;R;CHW;Eloy Jiménez;Keynan Middleton;3%;94%;Reached on E4 (Ground Ball to 2B-1B); Thompson Scores/No RBI; Jiménez to 1B
+b5;5-1;0;1--;5,(2-2) .BCFBX;OO;CHW;Yoán Moncada;Keynan Middleton;-2%;92%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+b5;5-1;2;---;5,(2-2) BSS.BX;O;CHW;Andrew Vaughn;Keynan Middleton;0%;92%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;1 run, 1 hit, 1 error, 0 LOB. Yankees 1, White Sox 5.
+Top of the 6th, Yankees Batting, Behind 1-5, White Sox' Mike Clevinger facing 1-2-3 
+t6;1-5;0;---;6,(2-2) BBCFFX;O;NYY;Jake Bauers;Mike Clevinger;2%;93%;Flyball: SS (Short CF)
+t6;1-5;1;---;1,(0-0) X;O;NYY;Aaron Judge;Mike Clevinger;1%;94%;Flyball: RF (Deep RF)
+t6;1-5;2;---;1,(0-0) X;O;NYY;Gleyber Torres;Mike Clevinger;1%;95%;Groundout: 2B-1B (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 1, White Sox 5.
+Bottom of the 6th, White Sox Batting, Ahead 5-1, Yankees' Wandy Peralta facing 7-8-9 
+;;;;;;;;;Wandy Peralta replaces Keynan Middleton pitching
+b6;5-1;0;---;5,(2-2) .CBBFX;O;CHW;Yasmani Grandal;Wandy Peralta;0%;95%;Groundout: 2B-1B (SS-2B)
+b6;5-1;1;---;5,(1-2) SFFBS;O;CHW;Oscar Colás;Wandy Peralta;0%;94%;Strikeout Swinging
+b6;5-1;2;---;6,(3-2) .BBCBCX;O;CHW;Elvis Andrus;Wandy Peralta;0%;94%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 1, White Sox 5.
+Top of the 7th, Yankees Batting, Behind 1-5, White Sox' Jimmy Lambert facing 4-5-6 
+;;;;;;;;;Jimmy Lambert replaces Mike Clevinger pitching
+t7;1-5;0;---;2,(0-1) .CX;R;NYY;Giancarlo Stanton;Jimmy Lambert;-5%;89%;Home Run (Line Drive to Deep RF)
+t7;2-5;0;---;3,(0-2) CC.X;;NYY;Billy McKinney;Jimmy Lambert;-4%;85%;Single to CF (Ground Ball thru SS-2B)
+t7;2-5;0;1--;1,(0-0) X;;NYY;Isiah Kiner-Falefa;Jimmy Lambert;-7%;78%;Single to LF (Ground Ball thru SS-3B Hole); McKinney to 2B
+t7;2-5;0;12-;5,(3-1) B*BBCB;;NYY;Harrison Bader;Jimmy Lambert;-10%;67%;Walk; McKinney to 3B; Kiner-Falefa to 2B
+;;;;;;;;;Aaron Bummer replaces Jimmy Lambert pitching
+t7;2-5;0;123;4,(1-2) .CBTC;O;NYY;Oswaldo Cabrera;Aaron Bummer;9%;76%;Strikeout Looking
+t7;2-5;1;123;2,(0-1) CX;OO;NYY;Kyle Higashioka;Aaron Bummer;18%;94%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Yankees 2, White Sox 5.
+Bottom of the 7th, White Sox Batting, Ahead 5-2, Yankees' Wandy Peralta facing 1-2-3 
+b7;5-2;0;---;6,(2-2) SBBFFX;O;CHW;Tim Anderson;Wandy Peralta;-1%;93%;Groundout: 2B-1B (P's Left)
+b7;5-2;1;---;4,(1-2) CS.BS;O;CHW;Andrew Benintendi;Wandy Peralta;0%;93%;Strikeout Swinging
+b7;5-2;2;---;7,(3-2) BCBCBFB;;CHW;Trayce Thompson;Wandy Peralta;0%;93%;Walk
+;;;;;;;;;Albert Abreu replaces Wandy Peralta pitching
+b7;5-2;2;1--;3,(1-1) .CB1X;O;CHW;Eloy Jiménez;Albert Abreu;-1%;93%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Yankees 2, White Sox 5.
+Top of the 8th, Yankees Batting, Behind 2-5, White Sox' Aaron Bummer facing 1-2-3 
+;;;;;;;;;Anthony Volpe pinch hits for Jake Bauers (1B) batting 1st
+t8;2-5;0;---;6,(3-2) .FBBS.BB;;NYY;Anthony Volpe;Aaron Bummer;-4%;88%;Walk
+;;;;;;;;;Gregory Santos replaces Aaron Bummer pitching
+t8;2-5;0;1--;5,(1-2) .BCSFX;O;NYY;Aaron Judge;Gregory Santos;4%;92%;Lineout: 2B-SS/Forceout at 2B (Deep 2B); Judge to 1B
+t8;2-5;1;1--;5,(3-1) CBBBB;;NYY;Gleyber Torres;Gregory Santos;-5%;88%;Walk; Judge to 2B
+t8;2-5;1;12-;4,(1-2) BCFS;O;NYY;Giancarlo Stanton;Gregory Santos;5%;93%;Strikeout Swinging
+t8;2-5;2;12-;2,(1-0) *BX;O;NYY;Billy McKinney;Gregory Santos;4%;97%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Yankees 2, White Sox 5.
+Bottom of the 8th, White Sox Batting, Ahead 5-2, Yankees' Albert Abreu facing 5-6-7 
+;;;;;;;;;Billy McKinney moves from LF to 1B Anthony Volpe moves from PH to SS Oswaldo Cabrera moves from SS to LF 
+b8;5-2;0;---;5,(3-1) ...BBSBB;;CHW;Yoán Moncada;Albert Abreu;0%;98%;Walk
+b8;5-2;0;1--;3,(1-1) BCX;;CHW;Andrew Vaughn;Albert Abreu;1%;98%;Single to RF (Ground Ball thru 2B-1B); Moncada to 2B
+b8;5-2;0;12-;3,(0-2) CFX;;CHW;Yasmani Grandal;Albert Abreu;1%;99%;Single to RF (Ground Ball thru 2B-1B); Moncada to 3B; Vaughn to 2B
+;;;;;;;;;Nick Ramirez replaces Albert Abreu pitching
+b8;5-2;0;123;2,(1-0) .BX;O;CHW;Oscar Colás;Nick Ramirez;-1%;98%;Groundout: 1B-C/Forceout at Hm (Weak 2B-1B); Vaughn to 3B; Grandal to 2B; Colás to 1B
+b8;5-2;1;123;4,(2-1) .FBBX;RRR;CHW;Elvis Andrus;Nick Ramirez;2%;100%;Double to LF (Ground Ball); Vaughn Scores; Grandal Scores; Colás Scores
+b8;8-2;1;-2-;2,(1-0) BX;R;CHW;Tim Anderson;Nick Ramirez;0%;100%;Single to CF (Line Drive to Short CF); Andrus Scores
+b8;9-2;1;1--;7,(2-2) CBBFFFX;O;CHW;Andrew Benintendi;Nick Ramirez;0%;100%;Lineout: CF (LF-CF)
+b8;9-2;2;1--;5,(2-2) SBSBS;O;CHW;Trayce Thompson;Nick Ramirez;0%;100%;Strikeout Swinging
+;;;;;;;;;4 runs, 4 hits, 0 errors, 1 LOB. Yankees 2, White Sox 9.
+Top of the 9th, Yankees Batting, Behind 2-9, White Sox' Gregory Santos facing 6-7-8 
+t9;2-9;0;---;6,(2-2) CBBCFX;O;NYY;Isiah Kiner-Falefa;Gregory Santos;0%;100%;Groundout: 1B-P
+t9;2-9;1;---;5,(2-2) BBCSS;O;NYY;Harrison Bader;Gregory Santos;0%;100%;Strikeout Swinging
+t9;2-9;2;---;4,(2-1) CBBX;O;NYY;Oswaldo Cabrera;Gregory Santos;0%;100%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 2, White Sox 9.

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Divs que Aumentan de Longitud en el Centro</title>
+    <style>
+        /* Estilos para el contenedor */
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh; /* 100% del alto de la ventana */
+        }
+
+        /* Estilos para los divs */
+        .rounded-box {
+            width: 100px;
+            height: 100px;
+            background-color: #3498db;
+            border-radius: 10px;
+            margin: 10px;
+            text-align: center;
+            color: #fff;
+            line-height: 100px;
+            transition: width 1s; /* Transición suave del ancho durante 1 segundo */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="rounded-box">Div 1</div>
+        <div class="rounded-box">Div 2</div>
+        <div class="rounded-box">Div 3</div>
+        <div class="rounded-box">Div 4</div>
+    </div>
+
+    <script>
+        // JavaScript para aumentar la longitud de los divs
+        const divs = document.querySelectorAll('.rounded-box');
+        
+        divs.forEach((div, index) => {
+            setTimeout(() => {
+                div.style.width = `${200 + index * 50}px`; // Incrementar el ancho
+            }, index * 1000); // Incrementar el tamaño cada segundo
+        });
+    </script>
+</body>
+</html>

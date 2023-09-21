@@ -1,0 +1,297 @@
+
+Scorebox Meta
+20230911
+7:10 p.m. Local
+40072
+Dodger Stadium
+187
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/SDP-2023.png;/teams/SDP/2023.shtml;1;0;1;2;0;3;0;0;4;11;14;0
+https://cdn.ssref.net/req/202309121/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;1;1;5;0;0;0;0;0;1;8;9;1
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;2B-RF;4;1;2;4;0;0;5;.313;.411;.611;1.022;21;14;0.234; 1.36;0.310;-0.076; 0.01%; 0.12; 2.9;1;4;HR,2B,HBP
+Freddie Freeman;/players/f/freemfr01.shtml;1B;5;1;1;0;0;0;5;.335;.413;.570;.983;24;17;-0.125; 1.04;0.015;-0.140;-0.01%; 0.09; -1.3;11;0;
+Will Smith;/players/s/smithwi05.shtml;C;4;0;0;0;1;1;5;.266;.363;.439;.802;30;22;-0.090; 0.96;0.024;-0.114;-0.01%; 0.08; -0.8;9;1;
+Max Muncy;/players/m/muncyma01.shtml;3B;5;1;1;1;0;1;5;.208;.331;.493;.824;25;14;0.025; 0.86;0.114;-0.089; 0.00%; 0.07; -0.0;0;1;HR
+J.D. Martinez;/players/m/martijd02.shtml;DH;4;2;2;1;1;2;5;.264;.316;.556;.872;28;16;0.053; 0.70;0.089;-0.036; 0.00%; 0.06; 1.4;;;
+Kolten Wong;/players/w/wongko01.shtml;PR-DH;0;0;0;0;0;0;0;.166;.241;.239;.480;;;;;;;;;;;;
+Jason Heyward;/players/h/heywaja01.shtml;RF;3;1;1;0;0;0;3;.271;.351;.486;.837;10;6;0.031; 0.98;0.076;-0.045; 0.00%; 0.08; 0.3;2;0;2B
+Enrique Hernández;/players/h/hernaen02.shtml;PH-2B;1;0;0;0;1;0;2;.235;.294;.354;.648;9;4;0.035; 1.27;0.056;-0.022; 0.00%; 0.11; 0.2;1;2;
+Chris Taylor;/players/t/tayloch03.shtml;LF;5;1;2;1;0;1;5;.236;.327;.441;.769;19;13;-0.043; 1.64;0.113;-0.156;-0.00%; 0.14; 0.2;2;1;
+James Outman;/players/o/outmaja01.shtml;CF;3;0;0;0;1;1;4;.251;.362;.434;.796;15;8;-0.037; 1.16;0.059;-0.096;-0.00%; 0.10; -0.4;0;0;
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;2;1;0;1;1;0;4;.233;.291;.311;.602;16;8;0.033; 1.56;0.095;-0.062; 0.00%; 0.13; 0.8;1;2;HBP
+Gavin Stone;/players/s/stonega01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Caleb Ferguson;/players/f/ferguca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Brasier;/players/b/brasiry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Shelby Miller;/players/m/millesh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Evan Phillips;/players/p/phillev01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Jason Heyward (18, off Pedro Avila); Mookie Betts (37, off Ray Kerr).
+
+
+HR: Mookie Betts (39, off Pedro Avila, 1st inn, 0 on, 0 outs to Deep LF Line); Max Muncy (35, off Pedro Avila, 3rd inn, 0 on, 1 out to Deep RF).
+
+
+HBP: Miguel Rojas (4, by Pedro Avila); Mookie Betts (8, by Luis García).
+
+
+TB: Mookie Betts 6; Max Muncy 4; J.D. Martinez 2; Chris Taylor 2; Jason Heyward 2; Freddie Freeman.
+
+
+RBI: Mookie Betts 4 (103); Miguel Rojas (27); Chris Taylor (49); J.D. Martinez (82); Max Muncy (97).
+
+
+2-out RBI: Mookie Betts 3; J.D. Martinez.
+
+
+Team LOB: 8.
+With RISP: 3 for 11.
+
+Batting away
+Ha-Seong Kim;/players/k/kimha01.shtml;2B;4;1;1;1;0;1;5;.270;.361;.416;.777;11;9;-0.082; 1.69;0.058;-0.140;0%; 0.01; -0.7;0;5;SB,SH
+Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF;5;1;1;0;0;2;5;.257;.320;.453;.773;25;15;-0.111; 1.75;0.014;-0.125;0%; 0.00; -0.9;2;0;
+Juan Soto;/players/s/sotoju01.shtml;LF;5;2;3;4;0;1;5;.260;.400;.488;.888;15;10;0.291; 1.96;0.362;-0.071; 0.00%; 0.00; 2.3;3;0;HR
+Manny Machado;/players/m/machama01.shtml;DH;5;2;2;3;0;2;5;.252;.315;.460;.775;19;13;0.172; 0.69;0.206;-0.034;0%; 0.00; 2.2;;;2·HR
+Xander Bogaerts;/players/b/bogaexa01.shtml;SS;5;2;3;1;0;0;5;.273;.341;.425;.766;13;10;0.074; 1.03;0.136;-0.062;0%; 0.00; 1.5;3;3;HR,2B
+Jurickson Profar;/players/p/profaju01.shtml;1B;4;1;1;0;0;0;4;.246;.324;.379;.704;10;8;-0.063; 1.40;0.041;-0.104;0%; 0.00; -0.5;9;0;
+José Azocar;/players/a/azocajo01.shtml;PR;0;0;0;0;0;0;0;.254;.277;.317;.594;;;0.040; 2.45;0.040;0.000;0%; 0.01; 0.2;;;SB
+Garrett Cooper;/players/c/coopega03.shtml;1B;1;0;0;0;0;1;1;.255;.299;.419;.719;5;4;-0.001; 0.04;0.000;-0.001;0%; 0.00; -0.1;1;0;
+Luis Campusano;/players/c/campulu01.shtml;C;4;0;1;1;0;0;4;.299;.338;.457;.795;12;9;-0.028; 1.46;0.058;-0.086;0%; 0.01; 0.0;6;0;
+Matthew Batten;/players/b/battema01.shtml;3B;3;1;1;1;1;0;4;.274;.366;.435;.802;17;10;0.173; 1.81;0.261;-0.088;0%; 0.01; 1.4;1;0;2B
+Trent Grisham;/players/g/grishtr01.shtml;CF;4;1;1;0;0;0;4;.205;.317;.365;.682;11;8;0.149; 1.79;0.287;-0.138;0%; 0.01; 0.7;2;0;2B
+Pedro Avila;/players/a/avilape01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ray Kerr;/players/k/kerrra01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Luis García;/players/g/garcilu03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tom Cosgrove;/players/c/cosgrto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Robert Suarez;/players/s/suarero01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Josh Hader;/players/h/haderjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Trent Grisham (29, off Gavin Stone); Xander Bogaerts (27, off Gavin Stone); Matthew Batten (4, off Caleb Ferguson).
+
+
+HR: Manny Machado 2 (28, 2 off Gavin Stone, 4th inn, 0 on, 0 outs to Deep LF-CF; 6th inn, 1 on, 0 outs to Deep RF Line); Juan Soto (29, off Evan Phillips, 9th inn, 2 on, 1 out to Deep RF); Xander Bogaerts (18, off Evan Phillips, 9th inn, 0 on, 2 outs to Deep RF Line).
+
+
+SH: Ha-Seong Kim (5, off Evan Phillips).
+
+
+TB: Manny Machado 8; Xander Bogaerts 7; Juan Soto 6; Matthew Batten 2; Trent Grisham 2; Fernando Tatis Jr.; Ha-Seong Kim; Luis Campusano; Jurickson Profar.
+
+
+RBI: Juan Soto 4 (89); Manny Machado 3 (84); Xander Bogaerts (50); Matthew Batten (8); Luis Campusano (21); Ha-Seong Kim (58).
+
+
+2-out RBI: Xander Bogaerts.
+
+
+Team LOB: 4.
+With RISP: 4 for 14.
+
+Pitching home
+Gavin Stone;/players/s/stonega01.shtml;Gavin Stone; 5.1;9;7;7;1;2;2;10.80;25;65;44;28;7;9;12;10;5;0;23;;;-0.321; 1.03;-0.02%; 0.09; -3.7
+Caleb Ferguson;/players/f/ferguca01.shtml; BS (5); 0.2;1;0;0;0;1;0;2.52;3;11;9;6;1;2;0;2;2;0;;2;1;-0.016; 2.75;-0.00%; 0.24; -0.0
+Ryan Brasier;/players/b/brasiry01.shtml;Ryan Brasier; 1 ;0;0;0;0;3;0;3.31;3;17;10;4;3;3;0;0;0;0;;0;0;0.091; 1.17; 0.01%; 0.10; 0.5
+Shelby Miller;/players/m/millesh01.shtml;Shelby Miller; 1 ;1;0;0;0;0;0;2.06;4;17;12;7;1;4;1;3;2;0;;0;0;0.111; 2.48; 0.01%; 0.21; 0.5
+Evan Phillips;/players/p/phillev01.shtml; L (1-4); 1 ;3;4;2;0;1;2;2.47;7;28;21;11;5;5;3;3;1;0;;0;0;-0.479; 2.09;-0.03%; 0.18; -3.5
+
+Pitching away
+Pedro Avila;/players/a/avilape01.shtml;Pedro Avila; 2.2;6;7;7;3;2;2;3.63;18;76;43;26;5;12;2;10;4;0;17;;;-0.322; 1.26;-0.00%; 0.00; -3.2
+Ray Kerr;/players/k/kerrra01.shtml;Ray Kerr; 2.1;1;0;0;0;1;0;4.37;8;38;25;15;5;5;3;4;3;0;;3;3;-0.093; 0.52; 0.00%; 0.00; -1.1
+Luis García;/players/g/garcilu03.shtml;Luis García; 1 ;0;0;0;0;0;0;3.90;4;18;12;10;1;1;3;0;0;0;;0;0;0.078; 1.61; 0.00%; 0.01; 0.5
+Tom Cosgrove;/players/c/cosgrto01.shtml;Tom Cosgrove; 1 ;0;0;0;0;1;0;1.43;3;14;9;5;0;4;1;1;0;0;;0;0;0.091; 1.17; 0.00%; 0.00; 0.5
+Robert Suarez;/players/s/suarero01.shtml; W (3-2); 1 ;0;0;0;0;1;0;5.19;3;8;7;3;4;0;1;1;0;0;;0;0;0.111; 1.44; 0.00%; 0.00; 0.5
+Josh Hader;/players/h/haderjo01.shtml;Josh Hader; 1 ;2;1;1;2;1;0;1.29;7;43;26;19;5;2;0;4;4;0;;0;0;0.021; 1.16; 0.00%; 0.00; -0.5
+
+indiv_events
+
+Balks: None.
+WP: Pedro Avila (5); Luis García (4); Josh Hader (3).
+HBP: Luis García (6; Mookie Betts); Pedro Avila (4; Miguel Rojas).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Pedro Avila (5); Luis García (4); Josh Hader (3).
+HBP: Luis García (6; Mookie Betts); Pedro Avila (4; Miguel Rojas).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Cory Blaser, 1B - Jeremy Riggs, 2B - Ron Kulpa, 3B - Jansen Visconti, LF - (none), RF - (none).
+Time of Game: 3:07.
+Attendance: 40,072.
+Field Condition: Unknown.
+Start Time Weather: 76° F, Wind 4mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Padres
+1;Ha-Seong Kim;/players/k/kimha01.shtml;2B
+2;Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF
+3;Juan Soto;/players/s/sotoju01.shtml;LF
+4;Manny Machado;/players/m/machama01.shtml;DH
+5;Xander Bogaerts;/players/b/bogaexa01.shtml;SS
+6;Jurickson Profar;/players/p/profaju01.shtml;1B
+7;Luis Campusano;/players/c/campulu01.shtml;C
+8;Matthew Batten;/players/b/battema01.shtml;3B
+9;Trent Grisham;/players/g/grishtr01.shtml;CF
+; Pedro Avila;/players/a/avilape01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;2B
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;C
+4;Max Muncy;/players/m/muncyma01.shtml;3B
+5;J.D. Martinez;/players/m/martijd02.shtml;DH
+6;Jason Heyward;/players/h/heywaja01.shtml;RF
+7;Chris Taylor;/players/t/tayloch03.shtml;LF
+8;James Outman;/players/o/outmaja01.shtml;CF
+9;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+; Gavin Stone;/players/s/stonega01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t9;7-7;1;1-3;4,(1-2) B>FFX;RRR;SDP;Juan Soto;Evan Phillips;28%;96%;Home Run (Fly Ball to Deep RF); Grisham Scores/unER; Tatís Scores
+t6;6-7;1;12-;6,(1-2) .CFFFBX;R;SDP;Matthew Batten;Caleb Ferguson;22%;63%;Double to CF (Line Drive to Deep CF); Profar Scores; Campusano to 3B
+t9;7-7;0;---;6,(2-2) .CBC.BFX;;SDP;Trent Grisham;Evan Phillips;17%;67%;Reached on E7 (Fly Ball to Deep LF-CF); Grisham to 2B
+t6;4-7;0;1--;1,(0-0) X;RR;SDP;Manny Machado;Gavin Stone;16%;35%;Home Run (Fly Ball to Deep RF Line); Soto Scores
+b3;4-2;2;123;6,(3-2) .BCC*B*B>X;RRR;LAD;Mookie Betts;Ray Kerr;-15%;8%;Double to CF (Line Drive to Deep LF-CF); Heyward Scores; Taylor Scores; Rojas Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Padres Batting, Tied 0-0, Dodgers' Gavin Stone facing 1-2-3 
+t1;0-0;0;---;3,(2-0) BBX;;SDP;Ha-Seong Kim;Gavin Stone;3%;53%;Single to LF (Ground Ball thru SS-3B Hole)
+t1;0-0;0;1--;5,(2-2) CB1SB1>B;;SDP;Fernando Tatis Jr.;Gavin Stone;2%;56%;Kim Steals 2B
+t1;0-0;0;-2-;6,(3-2) CB1SB1>B.S;O;SDP;Fernando Tatis Jr.;Gavin Stone;-4%;52%;Strikeout Swinging
+t1;0-0;1;-2-;1,(0-0) X;RO;SDP;Juan Soto;Gavin Stone;4%;56%;Single to LF (Ground Ball thru SS-3B Hole); Kim Scores; Soto out at 2B/LF-2B
+t1;1-0;2;---;3,(0-2) CCS;O;SDP;Manny Machado;Gavin Stone;-1%;55%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Padres 1, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Behind 0-1, Padres' Pedro Avila facing 1-2-3 
+b1;0-1;0;---;4,(0-2) CTFX;R;LAD;Mookie Betts;Pedro Avila;-10%;45%;Home Run (Fly Ball to Deep LF Line)
+b1;1-1;0;---;4,(2-1) FBBX;O;LAD;Freddie Freeman;Pedro Avila;2%;47%;Flyball: CF (Deep CF)
+b1;1-1;1;---;6,(0-2) CFFFFC;O;LAD;Will Smith;Pedro Avila;2%;49%;Strikeout Looking
+b1;1-1;2;---;6,(3-2) CFBBBX;O;LAD;Max Muncy;Pedro Avila;1%;50%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Padres 1, Dodgers 1.
+Top of the 2nd, Padres Batting, Tied 1-1, Dodgers' Gavin Stone facing 5-6-7 
+t2;1-1;0;---;6,(3-2) CCBBBX;O;SDP;Xander Bogaerts;Gavin Stone;-2%;48%;Flyball: RF (Deep RF)
+t2;1-1;1;---;3,(1-1) BFX;O;SDP;Jurickson Profar;Gavin Stone;-2%;46%;Flyball: LF (Deep LF)
+t2;1-1;2;---;1,(0-0) X;O;SDP;Luis Campusano;Gavin Stone;-1%;45%;Lineout: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Dodgers 1.
+Bottom of the 2nd, Dodgers Batting, Tied 1-1, Padres' Pedro Avila facing 5-6-7 
+b2;1-1;0;---;7,(3-2) CBSBBF.B;;LAD;J.D. Martinez;Pedro Avila;-4%;41%;Walk
+b2;1-1;0;1--;2,(1-0) BX;O;LAD;Jason Heyward;Pedro Avila;3%;45%;Popfly: SS (Deep SS-2B)
+b2;1-1;1;1--;4,(1-2) FSBX;;LAD;Chris Taylor;Pedro Avila;-4%;41%;Single to LF (Line Drive); Martinez to 2B
+b2;1-1;1;12-;5,(3-1) *BBCBB;;LAD;James Outman;Pedro Avila;-6%;35%;Walk; Martinez to 3B; Taylor to 2B
+b2;1-1;1;123;2,(1-0) *BH;R;LAD;Miguel Rojas;Pedro Avila;-9%;26%;Hit By Pitch; Martinez Scores; Taylor to 3B; Outman to 2B
+b2;2-1;1;123;5,(1-2) CCFBX;O;LAD;Mookie Betts;Pedro Avila;6%;33%;Lineout: SS (Deep SS)
+b2;2-1;2;123;1,(0-0) X;O;LAD;Freddie Freeman;Pedro Avila;6%;39%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 3 LOB. Padres 1, Dodgers 2.
+Top of the 3rd, Padres Batting, Behind 1-2, Dodgers' Gavin Stone facing 8-9-1 
+t3;1-2;0;---;5,(3-1) CBBBB;;SDP;Matthew Batten;Gavin Stone;4%;43%;Walk
+t3;1-2;0;1--;2,(0-1) CX;;SDP;Trent Grisham;Gavin Stone;12%;55%;Double to RF (Line Drive to Deep CF-RF); Batten to 3B
+t3;1-2;0;-23;2,(0-1) SX;RO;SDP;Ha-Seong Kim;Gavin Stone;-3%;52%;Groundout: 2B-1B; Batten Scores
+t3;2-2;1;-2-;2,(0-1) FX;O;SDP;Fernando Tatis Jr.;Gavin Stone;-3%;49%;Groundout: 1B unassisted; Grisham to 3B
+t3;2-2;2;--3;1,(0-0) X;O;SDP;Juan Soto;Gavin Stone;-4%;44%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Padres 2, Dodgers 2.
+Bottom of the 3rd, Dodgers Batting, Tied 2-2, Padres' Pedro Avila facing 3-4-5 
+b3;2-2;0;---;3,(2-0) BBX;O;LAD;Will Smith;Pedro Avila;3%;47%;Foul Popfly: 1B (1B into Foul Terr.)
+b3;2-2;1;---;5,(3-1) BBBCX;R;LAD;Max Muncy;Pedro Avila;-11%;35%;Home Run (Fly Ball to Deep RF)
+b3;3-2;1;---;8,(3-2) BBCSFFBX;;LAD;J.D. Martinez;Pedro Avila;-2%;33%;Single to P (Ground Ball to P's Right)
+b3;3-2;1;1--;3,(1-1) *BFX;;LAD;Jason Heyward;Pedro Avila;-8%;26%;Ground-rule Double (Line Drive to Deep LF-CF); Martinez to 3B
+b3;3-2;1;-23;1,(0-0) X;R;LAD;Chris Taylor;Pedro Avila;-6%;19%;Single to RF (Line Drive to RF Line); Martinez Scores; Heyward to 3B
+b3;4-2;1;1-3;4,(1-2) SCBB;;LAD;James Outman;Pedro Avila;-1%;18%;Wild Pitch; Taylor to 2B
+b3;4-2;1;-23;5,(2-2) SCBB.S;O;LAD;James Outman;Pedro Avila;5%;23%;Strikeout Swinging
+b3;4-2;2;-23;5,(3-1) B*BCBB;;LAD;Miguel Rojas;Pedro Avila;-1%;23%;Walk
+;;;;;;;;;Ray Kerr replaces Pedro Avila pitching
+b3;4-2;2;123;6,(3-2) .BCC*B*B>X;RRR;LAD;Mookie Betts;Ray Kerr;-15%;8%;Double to CF (Line Drive to Deep LF-CF); Heyward Scores; Taylor Scores; Rojas Scores
+b3;7-2;2;-2-;5,(1-2) FBFFX;O;LAD;Freddie Freeman;Ray Kerr;1%;8%;Lineout: RF (Deep CF-RF)
+;;;;;;;;;5 runs, 5 hits, 0 errors, 1 LOB. Padres 2, Dodgers 7.
+Top of the 4th, Padres Batting, Behind 2-7, Dodgers' Gavin Stone facing 4-5-6 
+t4;2-7;0;---;4,(2-1) FBBX;R;SDP;Manny Machado;Gavin Stone;5%;13%;Home Run (Line Drive to Deep LF-CF)
+t4;3-7;0;---;1,(0-0) X;;SDP;Xander Bogaerts;Gavin Stone;4%;17%;Ground-rule Double (Fly Ball to Deep RF Line)
+t4;3-7;0;-2-;1,(0-0) X;O;SDP;Jurickson Profar;Gavin Stone;-2%;15%;Groundout: SS-1B (SS-2B); Bogaerts to 3B
+t4;3-7;1;--3;1,(0-0) X;RO;SDP;Luis Campusano;Gavin Stone;0%;15%;Groundout: 3B-1B (SS-3B Hole); Bogaerts Scores
+t4;4-7;2;---;1,(0-0) X;O;SDP;Matthew Batten;Gavin Stone;-1%;14%;Foul Popfly: C (Behind Home)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Padres 4, Dodgers 7.
+Bottom of the 4th, Dodgers Batting, Ahead 7-4, Padres' Ray Kerr facing 3-4-5 
+b4;7-4;0;---;6,(1-2) CSFFBX;O;LAD;Will Smith;Ray Kerr;1%;16%;Groundout: 1B unassisted
+b4;7-4;1;---;6,(3-2) BBCFBX;O;LAD;Max Muncy;Ray Kerr;1%;16%;Groundout: 2B-1B (Deep 2B-1B)
+b4;7-4;2;---;4,(1-2) SFBS;O;LAD;J.D. Martinez;Ray Kerr;1%;17%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 4, Dodgers 7.
+Top of the 5th, Padres Batting, Behind 4-7, Dodgers' Gavin Stone facing 9-1-2 
+t5;4-7;0;---;1,(0-0) X;O;SDP;Trent Grisham;Gavin Stone;-2%;15%;Bunt Groundout: C-1B (Front of Home)
+t5;4-7;1;---;1,(0-0) X;O;SDP;Ha-Seong Kim;Gavin Stone;-2%;13%;Groundout: 2B-1B
+t5;4-7;2;---;7,(3-2) BSBTBFX;O;SDP;Fernando Tatis Jr.;Gavin Stone;-1%;12%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 4, Dodgers 7.
+Bottom of the 5th, Dodgers Batting, Ahead 7-4, Padres' Ray Kerr facing 6-7-8 
+b5;7-4;0;---;5,(2-2) BSBFX;O;LAD;Jason Heyward;Ray Kerr;1%;13%;Groundout: 2B-1B (2B-1B)
+b5;7-4;1;---;4,(1-2) CBSX;O;LAD;Chris Taylor;Ray Kerr;1%;14%;Flyball: LF (Deep LF-CF)
+b5;7-4;2;---;2,(1-0) BX;O;LAD;James Outman;Ray Kerr;1%;14%;Lineout: LF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 4, Dodgers 7.
+Top of the 6th, Padres Batting, Behind 4-7, Dodgers' Gavin Stone facing 3-4-5 
+t6;4-7;0;---;4,(2-1) BSBX;;SDP;Juan Soto;Gavin Stone;4%;18%;Single to CF (Line Drive to Deep CF)
+t6;4-7;0;1--;1,(0-0) X;RR;SDP;Manny Machado;Gavin Stone;16%;35%;Home Run (Fly Ball to Deep RF Line); Soto Scores
+t6;6-7;0;---;2,(0-1) CX;O;SDP;Xander Bogaerts;Gavin Stone;-4%;31%;Groundout: 2B-1B (SS-2B)
+t6;6-7;1;---;1,(0-0) X;;SDP;Jurickson Profar;Gavin Stone;4%;35%;Single to RF (Line Drive to Deep RF)
+t6;6-7;1;1--;5,(1-2) .CSBFX;;SDP;Luis Campusano;Gavin Stone;6%;41%;Single to LF (Ground Ball thru SS-3B Hole); Profar to 2B
+;;;;;;;;;Caleb Ferguson replaces Gavin Stone pitching
+t6;6-7;1;12-;6,(1-2) .CFFFBX;R;SDP;Matthew Batten;Caleb Ferguson;22%;63%;Double to CF (Line Drive to Deep CF); Profar Scores; Campusano to 3B
+t6;7-7;1;-23;2,(1-0) BX;O;SDP;Trent Grisham;Caleb Ferguson;-11%;51%;Lineout: 1B (2B-1B)
+t6;7-7;2;-23;3,(0-2) FCS;O;SDP;Ha-Seong Kim;Caleb Ferguson;-9%;42%;Strikeout Swinging
+;;;;;;;;;3 runs, 5 hits, 0 errors, 2 LOB. Padres 7, Dodgers 7.
+Bottom of the 6th, Dodgers Batting, Tied 7-7, Padres' Luis García facing 9-1-2 
+;;;;;;;;;Luis García replaces Ray Kerr pitching
+b6;7-7;0;---;8,(2-2) .CSBFBFFX;O;LAD;Miguel Rojas;Luis García;3%;46%;Groundout: SS-1B (Weak SS)
+b6;7-7;1;---;1,(0-0) H;;LAD;Mookie Betts;Luis García;-4%;42%;Hit By Pitch
+b6;7-7;1;1--;2,(0-1) FB;;LAD;Freddie Freeman;Luis García;-3%;39%;Wild Pitch; Betts to 2B
+b6;7-7;1;-2-;6,(2-2) FB.F*BF2X;O;LAD;Freddie Freeman;Luis García;4%;44%;Groundout: 2B-1B; Betts to 3B
+b6;7-7;2;--3;3,(1-1) BFX;O;LAD;Will Smith;Luis García;6%;50%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 7, Dodgers 7.
+Top of the 7th, Padres Batting, Tied 7-7, Dodgers' Ryan Brasier facing 2-3-4 
+;;;;;;;;;Ryan Brasier replaces Caleb Ferguson pitching
+t7;7-7;0;---;6,(3-2) .CBFBBS;O;SDP;Fernando Tatis Jr.;Ryan Brasier;-4%;46%;Strikeout Swinging
+t7;7-7;1;---;5,(2-2) CBC.BS;O;SDP;Juan Soto;Ryan Brasier;-3%;43%;Strikeout Swinging
+t7;7-7;2;---;6,(2-2) FBFBFS;O;SDP;Manny Machado;Ryan Brasier;-2%;41%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 7, Dodgers 7.
+Bottom of the 7th, Dodgers Batting, Tied 7-7, Padres' Tom Cosgrove facing 4-5-6 
+;;;;;;;;;Tom Cosgrove replaces Luis García pitching
+b7;7-7;0;---;4,(1-2) .CFBX;O;LAD;Max Muncy;Tom Cosgrove;4%;45%;Foul Popfly: 3B
+b7;7-7;1;---;6,(3-2) FBFBBC;O;LAD;J.D. Martinez;Tom Cosgrove;3%;48%;Strikeout Looking
+;;;;;;;;;Enrique Hernández pinch hits for Jason Heyward (RF) batting 6th
+b7;7-7;2;---;4,(1-2) .CBC.X;O;LAD;Enrique Hernández;Tom Cosgrove;2%;50%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 7, Dodgers 7.
+Top of the 8th, Padres Batting, Tied 7-7, Dodgers' Shelby Miller facing 5-6-7 
+;;;;;;;;;Shelby Miller replaces Ryan Brasier pitchingEnrique Hernández moves from PH to 2B Mookie Betts moves from 2B to RF 
+t8;7-7;0;---;2,(0-1) ...CX;;SDP;Xander Bogaerts;Shelby Miller;7%;57%;Single to CF (Line Drive)
+t8;7-7;0;1--;5,(1-2) FFBF1X;O;SDP;Jurickson Profar;Shelby Miller;-7%;50%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Profar to 1B
+;;;;;;;;;José Azocar pinch runs for Jurickson Profar (1B) batting 6th
+t8;7-7;1;1--;3,(1-1) .BC>B;;SDP;Luis Campusano;Shelby Miller;4%;54%;Azocar Steals 2B
+t8;7-7;1;-2-;5,(2-2) .BC>B.SX;O;SDP;Luis Campusano;Shelby Miller;-7%;47%;Lineout: LF (Deep LF)
+t8;7-7;2;-2-;5,(2-2) CBBCX;O;SDP;Matthew Batten;Shelby Miller;-8%;39%;Foul Popfly: C (Behind Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 7, Dodgers 7.
+Bottom of the 8th, Dodgers Batting, Tied 7-7, Padres' Robert Suarez facing 7-8-9 
+;;;;;;;;;Robert Suarez replaces Tom Cosgrove pitchingGarrett Cooper replaces José Azocar (PR) playing 1B batting 6th
+b8;7-7;0;---;4,(1-2) ..FS.BS;O;LAD;Chris Taylor;Robert Suarez;5%;44%;Strikeout Swinging
+b8;7-7;1;---;3,(0-2) SSX;O;LAD;James Outman;Robert Suarez;4%;47%;Flyball: LF (LF-CF)
+b8;7-7;2;---;1,(0-0) X;O;LAD;Miguel Rojas;Robert Suarez;3%;50%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 7, Dodgers 7.
+Top of the 9th, Padres Batting, Tied 7-7, Dodgers' Evan Phillips facing 9-1-2 
+;;;;;;;;;Evan Phillips replaces Shelby Miller pitching
+t9;7-7;0;---;6,(2-2) .CBC.BFX;;SDP;Trent Grisham;Evan Phillips;17%;67%;Reached on E7 (Fly Ball to Deep LF-CF); Grisham to 2B
+t9;7-7;0;-2-;2,(0-1) CX;O;SDP;Ha-Seong Kim;Evan Phillips;0%;67%;Bunt Groundout: P-2B/Sacrifice (Short 1B Line); Grisham to 3B
+t9;7-7;1;--3;4,(1-2) BSSX;;SDP;Fernando Tatis Jr.;Evan Phillips;1%;68%;Single to P (Ground Ball)
+t9;7-7;1;1-3;4,(1-2) B>FFX;RRR;SDP;Juan Soto;Evan Phillips;28%;96%;Home Run (Fly Ball to Deep RF); Grisham Scores/unER; Tatís Scores
+t9;10-7;1;---;5,(2-2) SBBFX;O;SDP;Manny Machado;Evan Phillips;0%;96%;Groundout: 2B-1B (SS-2B)
+t9;10-7;2;---;2,(0-1) CX;R;SDP;Xander Bogaerts;Evan Phillips;2%;98%;Home Run (Line Drive to Deep RF Line); Bogaerts Scores/unER
+t9;11-7;2;---;5,(1-2) BCSFS;O;SDP;Garrett Cooper;Evan Phillips;0%;98%;Strikeout Swinging
+;;;;;;;;;4 runs, 3 hits, 1 error, 0 LOB. Padres 11, Dodgers 7.
+Bottom of the 9th, Dodgers Batting, Behind 7-11, Padres' Josh Hader facing 1-2-3 
+;;;;;;;;;Josh Hader replaces Robert Suarez pitching
+b9;7-11;0;---;5,(2-2) .BBFFX;O;LAD;Mookie Betts;Josh Hader;1%;99%;Lineout: RF (Deep RF)
+b9;7-11;1;---;8,(2-2) CSFFFBBX;;LAD;Freddie Freeman;Josh Hader;-1%;98%;Single to RF (Line Drive)
+b9;7-11;1;1--;5,(1-2) BFFFB;;LAD;Will Smith;Josh Hader;0%;98%;Wild Pitch; Freeman to 2B
+b9;7-11;1;-2-;12,(3-2) BFFFB.FFBFFFB;;LAD;Will Smith;Josh Hader;-2%;95%;Walk
+b9;7-11;1;12-;4,(1-2) BFSS;O;LAD;Max Muncy;Josh Hader;3%;98%;Strikeout Swinging
+b9;7-11;2;12-;3,(1-1) FBX;R;LAD;J.D. Martinez;Josh Hader;-3%;96%;Single to CF (Line Drive); Freeman Scores; Smith to 2B
+;;;;;;;;;Kolten Wong pinch runs for J.D. Martinez (DH) batting 5th
+b9;8-11;2;12-;5,(3-1) .C*BBBB;;LAD;Enrique Hernández;Josh Hader;-6%;90%;Walk; Smith to 3B; Wong to 2B
+b9;8-11;2;123;6,(3-2) .SBBBS>X;O;LAD;Chris Taylor;Josh Hader;10%;100%;Lineout: SS
+;;;;;;;;;1 run, 2 hits, 0 errors, 3 LOB. Padres 11, Dodgers 8.

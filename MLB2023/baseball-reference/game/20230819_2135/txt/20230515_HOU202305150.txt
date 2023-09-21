@@ -1,0 +1,276 @@
+
+Scorebox Meta
+20230515
+7:10 p.m. Local
+35413
+Minute Maid Park
+155
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CHC-2023.png;/teams/CHC/2023.shtml;0;0;0;4;0;0;0;0;0;4;8;0
+https://cdn.ssref.net/req/202308101/tlogo/br/HOU-2023.png;/teams/HOU/2023.shtml;4;0;0;0;0;0;2;0;X;6;11;0
+
+Batting home
+Mauricio Dubón;/players/d/dubonma01.shtml;2B;4;2;3;0;0;0;4;.303;.325;.372;.697;10;9;0.096; 0.78;0.102;-0.006; 0.06%; 0.75; 0.7;0;0;
+Alex Bregman;/players/b/bregmal01.shtml;3B;4;1;2;2;0;0;4;.212;.324;.346;.670;12;8;0.406; 1.23;0.444;-0.037; 0.24%; 1.19; 2.4;1;0;HR
+Yordan Alvarez;/players/a/alvaryo01.shtml;LF;2;1;1;0;2;0;4;.291;.397;.567;.964;21;10;-0.130; 0.87;0.052;-0.182;-0.08%; 0.84; -0.6;0;0;
+Kyle Tucker;/players/t/tuckeky01.shtml;RF;4;0;0;0;0;0;4;.264;.349;.431;.780;10;6;-0.097; 1.10;0.000;-0.097;-0.06%; 1.06; -1.2;2;0;
+José Abreu;/players/a/abreujo02.shtml;1B;3;1;2;2;1;1;4;.223;.274;.268;.541;20;11;0.215; 0.98;0.225;-0.010; 0.12%; 0.95; 2.2;5;0;2B
+Jeremy Peña;/players/p/penaje02.shtml;SS;4;1;1;1;0;2;4;.255;.302;.427;.729;14;10;0.004; 0.89;0.070;-0.065; 0.00%; 0.86; -0.1;2;1;
+Chas McCormick;/players/m/mccorch01.shtml;DH;4;0;2;1;0;0;4;.250;.339;.442;.781;9;5;-0.031; 0.90;0.075;-0.105;-0.02%; 0.87; 0.7;;;2B,GDP
+Jake Meyers;/players/m/meyerja02.shtml;CF;3;0;0;0;0;1;4;.236;.308;.349;.657;11;8;-0.035; 0.82;0.030;-0.064;-0.02%; 0.80; -0.8;3;0;HBP
+Martín Maldonado;/players/m/maldoma01.shtml;C;4;0;0;0;0;2;4;.183;.269;.280;.549;20;14;-0.112; 0.85;0.000;-0.112;-0.07%; 0.82; -1.4;14;2;GDP
+Framber Valdez;/players/v/valdefr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Phil Maton;/players/m/matonph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Seth Martinez;/players/m/martise01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Rafael Montero;/players/m/montera01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryne Stanek;/players/s/stanery01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Hector Neris;/players/n/nerishe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: José Abreu (7, off Jameson Taillon); Chas McCormick (4, off Jameson Taillon).
+
+
+HR: Alex Bregman (5, off Michael Fulmer, 7th inn, 1 on, 2 outs to Deep LF).
+
+
+HBP: Jake Meyers (3, by Jameson Taillon).
+
+
+TB: Alex Bregman 5; Mauricio Dubón 3; Chas McCormick 3; José Abreu 3; Jeremy Peña; Yordan Alvarez.
+
+
+GIDP: Martín Maldonado (4); Chas McCormick (1).
+
+
+RBI: Alex Bregman 2 (18); José Abreu 2 (16); Chas McCormick (10); Jeremy Peña (22).
+
+
+2-out RBI: José Abreu 2; Alex Bregman 2; Chas McCormick; Jeremy Peña.
+
+
+Team LOB: 6.
+With RISP: 2 for 8.
+
+Batting away
+Christopher Morel;/players/m/morelch01.shtml;LF-CF;5;1;1;3;0;4;5;.346;.346;.846;1.192;22;15;0.211; 0.80;0.274;-0.062; 0.11%; 0.70; 2.0;2;0;HR
+Dansby Swanson;/players/s/swansda01.shtml;SS;4;0;2;0;0;1;4;.280;.383;.408;.790;16;8;-0.019; 0.79;0.036;-0.055;-0.01%; 0.69; -0.1;0;3;SB
+Ian Happ;/players/h/happia01.shtml;DH;3;0;1;0;1;2;4;.303;.427;.462;.889;21;12;0.007; 0.88;0.057;-0.051; 0.00%; 0.77; 0.0;;;
+Seiya Suzuki;/players/s/suzukse01.shtml;RF;4;0;0;0;0;2;4;.257;.342;.390;.732;18;12;-0.170; 1.28;0.000;-0.170;-0.09%; 1.12; -1.5;1;0;
+Cody Bellinger;/players/b/bellico01.shtml;CF;3;1;1;0;0;0;3;.271;.337;.493;.830;10;7;-0.003; 0.67;0.030;-0.033;-0.00%; 0.58; 0.1;4;0;
+Miles Mastrobuoni;/players/m/mastrmi01.shtml;PH-LF;1;0;0;0;0;1;1;.174;.174;.217;.391;5;3;-0.037; 1.46;0.000;-0.037;-0.02%; 1.28; -0.2;0;0;
+Patrick Wisdom;/players/w/wisdopa01.shtml;3B;3;0;1;0;1;2;4;.242;.343;.589;.931;17;8;-0.021; 0.75;0.031;-0.052;-0.01%; 0.66; -0.2;0;2;2B
+Trey Mancini;/players/m/mancitr01.shtml;1B;3;1;1;0;1;1;4;.258;.326;.363;.689;15;8;0.011; 0.81;0.056;-0.045; 0.01%; 0.71; 0.4;5;2;
+Yan Gomes;/players/g/gomesya01.shtml;C;3;0;0;1;0;2;4;.300;.326;.538;.863;13;8;-0.115; 1.39;0.000;-0.115;-0.06%; 1.21; -0.9;7;0;SF
+Nick Madrigal;/players/m/madrini01.shtml;2B;4;1;1;0;0;1;4;.253;.287;.313;.601;19;11;-0.046; 0.84;0.020;-0.066;-0.02%; 0.73; -0.4;3;3;
+Jameson Taillon;/players/t/taillja01.shtml;P;;;;;;;;;;;;;;;;;;;;;2;0;
+Brandon Hughes;/players/h/hughebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adbert Alzolay;/players/a/alzolad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael Fulmer;/players/f/fulmemi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jeremiah Estrada;/players/e/estraje01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Patrick Wisdom (5, off Framber Valdez).
+
+
+HR: Christopher Morel (4, off Framber Valdez, 4th inn, 2 on, 2 outs to Deep LF).
+
+
+SF: Yan Gomes (2, off Framber Valdez).
+
+
+TB: Christopher Morel 4; Patrick Wisdom 2; Dansby Swanson 2; Nick Madrigal; Ian Happ; Trey Mancini; Cody Bellinger.
+
+
+RBI: Christopher Morel 3 (9); Yan Gomes (17).
+
+
+2-out RBI: Christopher Morel 3.
+
+
+Team LOB: 6.
+With RISP: 1 for 4.
+
+Pitching home
+Framber Valdez;/players/v/valdefr01.shtml;Framber Valdez; 4 ;7;4;4;2;8;1;2.84;21;91;53;26;11;16;4;7;4;0;38;;;-0.199; 0.81;-0.11%; 0.79; -2.0
+Phil Maton;/players/m/matonph01.shtml;Phil Maton; 1 ;0;0;0;1;1;0;0.90;4;15;9;4;2;3;1;1;0;0;;0;0;0.067; 0.94; 0.04%; 0.90; 0.5
+Seth Martinez;/players/m/martise01.shtml;Seth Martinez; 1 ;0;0;0;0;2;0;4.41;3;17;9;4;3;2;0;1;1;0;;0;0;0.076; 0.99; 0.04%; 0.96; 0.5
+Rafael Montero;/players/m/montera01.shtml; W (1-3); 1 ;1;0;0;0;0;0;6.48;3;7;4;3;0;1;1;2;1;0;;0;0;0.089; 1.58; 0.05%; 1.53; 0.5
+Ryne Stanek;/players/s/stanery01.shtml; H (1); 1 ;0;0;0;0;3;0;4.73;3;16;10;3;4;3;0;0;0;0;;0;0;0.076; 0.99; 0.04%; 0.95; 0.5
+Hector Neris;/players/n/nerishe01.shtml; S (2); 1 ;0;0;0;0;2;0;1.47;3;10;7;2;4;1;0;1;1;0;;0;0;0.075; 0.98; 0.04%; 0.95; 0.5
+
+Pitching away
+Jameson Taillon;/players/t/taillja01.shtml;Jameson Taillon; 4.2;7;4;4;1;1;0;6.66;21;68;44;33;3;8;6;12;6;0;34;;;-0.178; 0.92;-0.09%; 0.81; -1.8
+Brandon Hughes;/players/h/hughebr01.shtml;Brandon Hughes; 0.1;0;0;0;0;0;0;3.68;1;1;1;1;0;0;0;1;0;0;;1;0;0.046; 1.62; 0.02%; 1.41; 0.3
+Adbert Alzolay;/players/a/alzolad01.shtml;Adbert Alzolay; 1 ;1;0;0;0;1;0;2.08;3;14;7;5;1;1;2;0;0;0;;0;0;0.076; 1.71; 0.04%; 1.49; 0.5
+Michael Fulmer;/players/f/fulmemi01.shtml; L (0-3); 0.2;2;2;2;1;1;1;7.50;5;20;13;7;2;4;0;3;1;0;;0;0;-0.287; 1.04;-0.15%; 0.91; -1.7
+Jeremiah Estrada;/players/e/estraje01.shtml;Jeremiah Estrada; 1.1;1;0;0;1;3;0;0.00;6;24;16;8;5;3;0;2;1;0;;1;0;0.026; 0.39; 0.01%; 0.34; 0.7
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Jameson Taillon (1; Jake Meyers).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Jameson Taillon (1; Jake Meyers).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Edwin Moscoso, 1B - Chris Guccione, 2B - David Rackley, 3B - Edwin Jimenez, LF - (none), RF - (none).
+Time of Game: 2:35.
+Attendance: 35,413.
+Start Time Weather: 73° F, Wind 0mph, In Dome.
+
+div_lineups
+Cubs
+1;Christopher Morel;/players/m/morelch01.shtml;LF
+2;Dansby Swanson;/players/s/swansda01.shtml;SS
+3;Ian Happ;/players/h/happia01.shtml;DH
+4;Seiya Suzuki;/players/s/suzukse01.shtml;RF
+5;Cody Bellinger;/players/b/bellico01.shtml;CF
+6;Patrick Wisdom;/players/w/wisdopa01.shtml;3B
+7;Trey Mancini;/players/m/mancitr01.shtml;1B
+8;Yan Gomes;/players/g/gomesya01.shtml;C
+9;Nick Madrigal;/players/m/madrini01.shtml;2B
+; Jameson Taillon;/players/t/taillja01.shtml;P
+Astros
+1;Mauricio Dubón;/players/d/dubonma01.shtml;2B
+2;Alex Bregman;/players/b/bregmal01.shtml;3B
+3;Yordan Alvarez;/players/a/alvaryo01.shtml;LF
+4;Kyle Tucker;/players/t/tuckeky01.shtml;RF
+5;José Abreu;/players/a/abreujo02.shtml;1B
+6;Jeremy Peña;/players/p/penaje02.shtml;SS
+7;Chas McCormick;/players/m/mccorch01.shtml;DH
+8;Jake Meyers;/players/m/meyerja02.shtml;CF
+9;Martín Maldonado;/players/m/maldoma01.shtml;C
+; Framber Valdez;/players/v/valdefr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b7;4-4;2;1--;1,(0-0) 1X;RR;HOU;Alex Bregman;Michael Fulmer;33%;87%;Home Run (Fly Ball to Deep LF); Dubón Scores
+t4;1-4;2;12-;4,(0-2) SSFX;RRR;CHC;Christopher Morel;Framber Valdez;-27%;55%;Home Run (Fly Ball to Deep LF); Mancini Scores; Madrigal Scores
+b5;4-4;0;1-3;3,(1-1) FBX;OO;HOU;Yordan Alvarez;Jameson Taillon;-18%;55%;Double Play: Groundout: 1B (Weak 2B-1B); Dubón out at Hm/1B-SS-1B-C; Bregman to 2B
+b1;0-0;2;-23;5,(2-2) BBSFX;RR;HOU;José Abreu;Jameson Taillon;17%;72%;Double to LF (Fly Ball to Deep LF-CF); Dubón Scores; Alvarez Scores
+b5;4-4;0;1--;1,(0-0) X;;HOU;Alex Bregman;Jameson Taillon;12%;73%;Single to LF (Line Drive to Deep LF-CF); Dubón to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Cubs Batting, Tied 0-0, Astros' Framber Valdez facing 1-2-3 
+t1;0-0;0;---;4,(1-2) BFC*S;O;CHC;Christopher Morel;Framber Valdez;2%;52%;Strikeout Swinging; Morel out at 1B/C-1B
+t1;0-0;1;---;6,(3-2) CBFBBS;O;CHC;Dansby Swanson;Framber Valdez;2%;54%;Strikeout Swinging
+t1;0-0;2;---;5,(2-2) SSBB*S;O;CHC;Ian Happ;Framber Valdez;1%;55%;Strikeout Swinging; Happ out at 1B/C-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 0, Astros 0.
+Bottom of the 1st, Astros Batting, Tied 0-0, Cubs' Jameson Taillon facing 1-2-3 
+b1;0-0;0;---;2,(0-1) FX;;HOU;Mauricio Dubón;Jameson Taillon;3%;58%;Single to CF (Fly Ball)
+b1;0-0;0;1--;5,(1-2) CSBFX;O;HOU;Alex Bregman;Jameson Taillon;-3%;55%;Lineout: CF
+b1;0-0;1;1--;4,(2-1) CBBX;;HOU;Yordan Alvarez;Jameson Taillon;3%;59%;Single to CF (Line Drive); Dubón to 2B
+b1;0-0;1;12-;3,(1-1) FBX;O;HOU;Kyle Tucker;Jameson Taillon;-3%;56%;Groundout: 2B-P (2B-1B); Dubón to 3B; Alvarez to 2B
+b1;0-0;2;-23;5,(2-2) BBSFX;RR;HOU;José Abreu;Jameson Taillon;17%;72%;Double to LF (Fly Ball to Deep LF-CF); Dubón Scores; Alvarez Scores
+b1;2-0;2;-2-;2,(0-1) CX;R;HOU;Jeremy Peña;Jameson Taillon;7%;79%;Single to LF (Fly Ball to Short CF); Abreu Scores
+b1;3-0;2;1--;1,(0-0) X;R;HOU;Chas McCormick;Jameson Taillon;7%;86%;Double to LF (Fly Ball to Deep LF-CF); Peña Scores
+b1;4-0;2;-2-;2,(0-1) FX;O;HOU;Jake Meyers;Jameson Taillon;-1%;84%;Groundout: 1B-P
+;;;;;;;;;4 runs, 5 hits, 0 errors, 1 LOB. Cubs 0, Astros 4.
+Top of the 2nd, Cubs Batting, Behind 0-4, Astros' Framber Valdez facing 4-5-6 
+t2;0-4;0;---;6,(3-2) CCBBBS;O;CHC;Seiya Suzuki;Framber Valdez;2%;86%;Strikeout Swinging
+t2;0-4;1;---;2,(1-0) BX;O;CHC;Cody Bellinger;Framber Valdez;1%;87%;Groundout: 1B unassisted
+t2;0-4;2;---;3,(2-0) BBX;;CHC;Patrick Wisdom;Framber Valdez;-1%;86%;Ground-rule Double (Fly Ball to Deep CF-RF)
+t2;0-4;2;-2-;5,(3-1) *BCBBB;;CHC;Trey Mancini;Framber Valdez;-1%;85%;Walk
+t2;0-4;2;12-;2,(1-0) BX;O;CHC;Yan Gomes;Framber Valdez;3%;88%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Cubs 0, Astros 4.
+Bottom of the 2nd, Astros Batting, Ahead 4-0, Cubs' Jameson Taillon facing 9-1-2 
+b2;4-0;0;---;7,(2-2) AF.FBBFFX;O;HOU;Martín Maldonado;Jameson Taillon;-1%;87%;Lineout: 2B (Deep 2B)
+b2;4-0;1;---;2,(0-1) CX;O;HOU;Mauricio Dubón;Jameson Taillon;-1%;86%;Flyball: RF (Deep 1B)
+b2;4-0;2;---;5,(3-1) CBBBX;O;HOU;Alex Bregman;Jameson Taillon;0%;86%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 0, Astros 4.
+Top of the 3rd, Cubs Batting, Behind 0-4, Astros' Framber Valdez facing 9-1-2 
+t3;0-4;0;---;6,(3-2) BFBBC.S;O;CHC;Nick Madrigal;Framber Valdez;2%;88%;Strikeout Swinging
+t3;0-4;1;---;4,(1-2) CBSS;O;CHC;Christopher Morel;Framber Valdez;1%;89%;Strikeout Swinging
+t3;0-4;2;---;4,(2-1) BBFX;;CHC;Dansby Swanson;Framber Valdez;-1%;88%;Single to LF (Line Drive to LF-CF)
+t3;0-4;2;1--;6,(3-2) BBCFB>B;;CHC;Ian Happ;Framber Valdez;-2%;86%;Walk; Swanson to 2B
+t3;0-4;2;12-;6,(2-2) FBFBFX;O;CHC;Seiya Suzuki;Framber Valdez;3%;90%;Groundout: SS unassisted/Forceout at 2B (Deep SS-2B); Suzuki to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Cubs 0, Astros 4.
+Bottom of the 3rd, Astros Batting, Ahead 4-0, Cubs' Jameson Taillon facing 3-4-5 
+b3;4-0;0;---;7,(3-2) CFBBBFB;;HOU;Yordan Alvarez;Jameson Taillon;1%;91%;Walk
+b3;4-0;0;1--;5,(3-1) *BBBCX;O;HOU;Kyle Tucker;Jameson Taillon;-1%;90%;Flyball: CF (Deep CF-RF)
+b3;4-0;1;1--;3,(0-2) FFC;O;HOU;José Abreu;Jameson Taillon;-1%;89%;Strikeout Looking
+b3;4-0;2;1--;1,(0-0) X;O;HOU;Jeremy Peña;Jameson Taillon;-1%;88%;Lineout: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Cubs 0, Astros 4.
+Top of the 4th, Cubs Batting, Behind 0-4, Astros' Framber Valdez facing 5-6-7 
+t4;0-4;0;---;4,(1-2) CF.BX;;CHC;Cody Bellinger;Framber Valdez;-3%;85%;Single to RF (Ground Ball thru 2B-1B)
+t4;0-4;0;1--;4,(1-2) 1CBFC;O;CHC;Patrick Wisdom;Framber Valdez;3%;88%;Strikeout Looking
+t4;0-4;1;1--;2,(0-1) CX;;CHC;Trey Mancini;Framber Valdez;-5%;83%;Single to RF (Line Drive to Deep RF Line); Bellinger to 3B
+t4;0-4;1;1-3;2,(1-0) BX;RO;CHC;Yan Gomes;Framber Valdez;1%;84%;Flyball: RF/Sacrifice Fly (Deep CF-RF); Bellinger Scores
+t4;1-4;2;1--;5,(2-2) CBFBX;;CHC;Nick Madrigal;Framber Valdez;-2%;82%;Single to SS (Ground Ball to SS-2B); Mancini to 2B
+t4;1-4;2;12-;4,(0-2) SSFX;RRR;CHC;Christopher Morel;Framber Valdez;-27%;55%;Home Run (Fly Ball to Deep LF); Mancini Scores; Madrigal Scores
+t4;4-4;2;---;4,(2-1) BBFX;;CHC;Dansby Swanson;Framber Valdez;-2%;53%;Single to CF (Line Drive to Deep CF)
+t4;4-4;2;1--;3,(0-2) CC>B;;CHC;Ian Happ;Framber Valdez;-1%;52%;Swanson Steals 2B
+t4;4-4;2;-2-;7,(2-2) CC>B.FBFC;O;CHC;Ian Happ;Framber Valdez;4%;56%;Strikeout Looking
+;;;;;;;;;4 runs, 5 hits, 0 errors, 1 LOB. Cubs 4, Astros 4.
+Bottom of the 4th, Astros Batting, Tied 4-4, Cubs' Jameson Taillon facing 7-8-9 
+b4;4-4;0;---;3,(2-0) BBX;O;HOU;Chas McCormick;Jameson Taillon;-3%;53%;Groundout: 3B-1B
+b4;4-4;1;---;2,(0-1) FH;;HOU;Jake Meyers;Jameson Taillon;3%;56%;Hit By Pitch
+b4;4-4;1;1--;4,(2-1) *BSB1X;OO;HOU;Martín Maldonado;Jameson Taillon;-6%;50%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 4, Astros 4.
+Top of the 5th, Cubs Batting, Tied 4-4, Astros' Phil Maton facing 4-5-6 
+;;;;;;;;;Phil Maton replaces Framber Valdez pitching
+t5;4-4;0;---;4,(0-2) .CCFS;O;CHC;Seiya Suzuki;Phil Maton;3%;53%;Strikeout Swinging
+t5;4-4;1;---;4,(1-2) CBF.X;O;CHC;Cody Bellinger;Phil Maton;2%;55%;Groundout: 1B unassisted
+t5;4-4;2;---;5,(3-1) BSBBB;;CHC;Patrick Wisdom;Phil Maton;-2%;54%;Walk
+t5;4-4;2;1--;2,(1-0) BX;O;CHC;Trey Mancini;Phil Maton;3%;57%;Flyball: RF (Short RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Cubs 4, Astros 4.
+Bottom of the 5th, Astros Batting, Tied 4-4, Cubs' Jameson Taillon facing 1-2-3 
+b5;4-4;0;---;1,(0-0) X;;HOU;Mauricio Dubón;Jameson Taillon;5%;61%;Single to CF (Line Drive to CF-RF)
+b5;4-4;0;1--;1,(0-0) X;;HOU;Alex Bregman;Jameson Taillon;12%;73%;Single to LF (Line Drive to Deep LF-CF); Dubón to 3B
+b5;4-4;0;1-3;3,(1-1) FBX;OO;HOU;Yordan Alvarez;Jameson Taillon;-18%;55%;Double Play: Groundout: 1B (Weak 2B-1B); Dubón out at Hm/1B-SS-1B-C; Bregman to 2B
+;;;;;;;;;Brandon Hughes replaces Jameson Taillon pitching
+b5;4-4;2;-2-;1,(0-0) .X;O;HOU;Kyle Tucker;Brandon Hughes;-5%;50%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Cubs 4, Astros 4.
+Top of the 6th, Cubs Batting, Tied 4-4, Astros' Seth Martinez facing 8-9-1 
+;;;;;;;;;Seth Martinez replaces Phil Maton pitching
+t6;4-4;0;---;5,(2-2) .CBFBS;O;CHC;Yan Gomes;Seth Martinez;3%;53%;Strikeout Swinging
+t6;4-4;1;---;7,(3-2) CBS.BFBX;O;CHC;Nick Madrigal;Seth Martinez;2%;56%;Lineout: CF
+t6;4-4;2;---;5,(3-2) BFSBBA;O;CHC;Christopher Morel;Seth Martinez;2%;58%;Strikeout
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 4, Astros 4.
+Bottom of the 6th, Astros Batting, Tied 4-4, Cubs' Adbert Alzolay facing 5-6-7 
+;;;;;;;;;Adbert Alzolay replaces Brandon Hughes pitching
+b6;4-4;0;---;5,(3-1) .BFB.BX;;HOU;José Abreu;Adbert Alzolay;5%;63%;Single to CF (Ground Ball thru SS-2B)
+b6;4-4;0;1--;5,(2-2) TBFB.S;O;HOU;Jeremy Peña;Adbert Alzolay;-5%;58%;Strikeout Swinging
+b6;4-4;1;1--;4,(2-1) BBCX;OO;HOU;Chas McCormick;Adbert Alzolay;-8%;50%;Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Cubs 4, Astros 4.
+Top of the 7th, Cubs Batting, Tied 4-4, Astros' Rafael Montero facing 2-3-4 
+;;;;;;;;;Rafael Montero replaces Seth Martinez pitching
+t7;4-4;0;---;2,(1-0) .BX;O;CHC;Dansby Swanson;Rafael Montero;4%;54%;Popfly: 3B (Weak 3B)
+t7;4-4;1;---;3,(1-1) CBX;;CHC;Ian Happ;Rafael Montero;-4%;50%;Single to 2B (Ground Ball to Weak 2B)
+t7;4-4;1;1--;2,(1-0) BX;OO;CHC;Seiya Suzuki;Rafael Montero;9%;59%;Double Play: Lineout: SS; Happ out at 1B/SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Cubs 4, Astros 4.
+Bottom of the 7th, Astros Batting, Tied 4-4, Cubs' Michael Fulmer facing 8-9-1 
+;;;;;;;;;Michael Fulmer replaces Adbert Alzolay pitching
+b7;4-4;0;---;3,(1-1) .BFX;O;HOU;Jake Meyers;Michael Fulmer;-4%;55%;Flyball: LF (Deep LF)
+b7;4-4;1;---;4,(1-2) BCC.S;O;HOU;Martín Maldonado;Michael Fulmer;-3%;52%;Strikeout Swinging
+b7;4-4;2;---;5,(1-2) CBFFX;;HOU;Mauricio Dubón;Michael Fulmer;2%;54%;Single to RF (Line Drive to Short RF Line)
+b7;4-4;2;1--;1,(0-0) 1X;RR;HOU;Alex Bregman;Michael Fulmer;33%;87%;Home Run (Fly Ball to Deep LF); Dubón Scores
+b7;6-4;2;---;7,(3-2) BCBSBFB;;HOU;Yordan Alvarez;Michael Fulmer;1%;88%;Walk
+;;;;;;;;;Jeremiah Estrada replaces Michael Fulmer pitching
+b7;6-4;2;1--;1,(0-0) .X;O;HOU;Kyle Tucker;Jeremiah Estrada;-1%;86%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Cubs 4, Astros 6.
+Top of the 8th, Cubs Batting, Behind 4-6, Astros' Ryne Stanek facing 5-6-7 
+;;;;;;;;;Ryne Stanek replaces Rafael Montero pitchingMiles Mastrobuoni pinch hits for Cody Bellinger (CF) batting 5th
+t8;4-6;0;---;5,(2-2) ..BCFBC;O;CHC;Miles Mastrobuoni;Ryne Stanek;4%;90%;Strikeout Looking
+t8;4-6;1;---;5,(2-2) SBBS.S;O;CHC;Patrick Wisdom;Ryne Stanek;2%;93%;Strikeout Swinging
+t8;4-6;2;---;6,(2-2) CSBFBT;O;CHC;Trey Mancini;Ryne Stanek;1%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 4, Astros 6.
+Bottom of the 8th, Astros Batting, Ahead 6-4, Cubs' Jeremiah Estrada facing 5-6-7 
+;;;;;;;;;Miles Mastrobuoni moves from PH to LF Christopher Morel moves from LF to CF 
+b8;6-4;0;---;7,(3-2) ..CBBF.FBB;;HOU;José Abreu;Jeremiah Estrada;1%;95%;Walk
+b8;6-4;0;1--;6,(2-2) BFSBFT;O;HOU;Jeremy Peña;Jeremiah Estrada;-1%;94%;Strikeout Swinging
+b8;6-4;1;1--;1,(0-0) X;;HOU;Chas McCormick;Jeremiah Estrada;1%;95%;Single to LF (Line Drive); Abreu to 2B
+b8;6-4;1;12-;4,(1-2) CBSS;O;HOU;Jake Meyers;Jeremiah Estrada;-1%;94%;Strikeout Swinging
+b8;6-4;2;12-;5,(1-2) SS.FBC;O;HOU;Martín Maldonado;Jeremiah Estrada;-1%;92%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Cubs 4, Astros 6.
+Top of the 9th, Cubs Batting, Behind 4-6, Astros' Hector Neris facing 8-9-1 
+;;;;;;;;;Hector Neris replaces Ryne Stanek pitching
+t9;4-6;0;---;4,(1-2) .CBFS;O;CHC;Yan Gomes;Hector Neris;4%;96%;Strikeout Swinging
+t9;4-6;1;---;1,(0-0) X;O;CHC;Nick Madrigal;Hector Neris;2%;99%;Lineout: CF (Deep CF)
+t9;4-6;2;---;5,(2-2) SBBSS;O;CHC;Christopher Morel;Hector Neris;1%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 4, Astros 6.

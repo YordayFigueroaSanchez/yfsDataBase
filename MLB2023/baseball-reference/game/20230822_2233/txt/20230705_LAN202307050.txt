@@ -1,0 +1,278 @@
+
+Scorebox Meta
+20230705
+7:10 p.m. Local
+45403
+Dodger Stadium
+164
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/PIT-2023.png;/teams/PIT/2023.shtml;1;0;0;3;0;0;0;0;0;4;9;0
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;0;0;2;4;0;0;0;X;6;6;0
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;2B;5;0;0;0;0;0;5;.268;.372;.551;.923;15;10;-0.141; 1.03;0.000;-0.141;-0.12%; 1.41; -1.6;1;2;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;4;0;2;0;0;1;4;.315;.393;.528;.921;16;11;0.003; 0.78;0.056;-0.053; 0.00%; 1.07; 0.3;6;0;2B
+Will Smith;/players/s/smithwi05.shtml;C;3;1;0;0;1;1;4;.272;.392;.482;.874;21;11;-0.046; 0.84;0.036;-0.083;-0.04%; 1.16; -0.8;12;0;GDP
+Max Muncy;/players/m/muncyma01.shtml;3B;1;2;0;0;2;0;4;.194;.326;.460;.786;17;8;0.069; 1.01;0.103;-0.033; 0.06%; 1.40; 0.8;1;0;HBP
+J.D. Martinez;/players/m/martijd02.shtml;DH;3;2;1;3;1;1;4;.251;.296;.553;.848;14;8;0.338; 1.45;0.381;-0.042; 0.28%; 2.00; 2.3;;;HR
+David Peralta;/players/p/peralda01.shtml;LF;3;1;1;1;0;1;4;.286;.324;.427;.752;13;7;0.142; 0.99;0.188;-0.046; 0.12%; 1.36; 1.1;1;0;HR,HBP,GDP
+Jason Heyward;/players/h/heywaja01.shtml;RF;1;0;0;1;1;1;3;.263;.355;.480;.835;14;7;-0.025; 1.18;0.014;-0.039;-0.02%; 1.62; -0.2;2;0;SF
+Jonny Deluca;/players/d/delucjo01.shtml;PH-RF;1;0;0;0;0;0;1;.250;.323;.393;.715;5;3;-0.007; 0.27;0.000;-0.007;-0.01%; 0.37; -0.3;0;0;
+James Outman;/players/o/outmaja01.shtml;CF;2;0;1;0;1;1;4;.238;.323;.430;.753;15;9;-0.025; 0.81;0.046;-0.071;-0.02%; 1.11; 0.0;3;0;SB,HBP
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;4;0;1;1;0;1;4;.237;.275;.289;.564;12;9;0.017; 1.21;0.094;-0.077; 0.01%; 1.66; -0.0;1;4;
+Bobby Miller;/players/m/millebo06.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Phil Bickford;/players/b/bickfph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Brasier;/players/b/brasiry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Caleb Ferguson;/players/f/ferguca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Daniel Hudson;/players/h/hudsoda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Freddie Freeman (29, off Osvaldo Bido).
+
+
+HR: J.D. Martinez (20, off Roansy Contreras, 5th inn, 2 on, 1 out to Deep LF-CF); David Peralta (6, off Roansy Contreras, 5th inn, 0 on, 1 out to Deep RF Line).
+
+
+SF: Jason Heyward (3, off Osvaldo Bido).
+
+
+HBP: David Peralta (1, by Osvaldo Bido); Max Muncy (3, by Ryan Borucki); James Outman (7, by Yohan Ramirez).
+
+
+TB: J.D. Martinez 4; David Peralta 4; Freddie Freeman 3; Miguel Rojas; James Outman.
+
+
+GIDP: David Peralta (2); Will Smith (3).
+
+
+RBI: J.D. Martinez 3 (59); David Peralta (31); Jason Heyward (22); Miguel Rojas (9).
+
+
+2-out RBI: Miguel Rojas.
+
+
+Team LOB: 7.
+With RISP: 2 for 9.
+
+Batting away
+Andrew McCutchen;/players/m/mccutan01.shtml;DH;3;0;0;0;2;2;5;.268;.383;.425;.808;29;14;0.175; 1.60;0.229;-0.054; 0.06%; 0.88; 0.6;;;
+Bryan Reynolds;/players/r/reynobr01.shtml;LF;4;1;1;1;1;0;5;.273;.345;.465;.811;22;14;0.114; 1.95;0.247;-0.132; 0.04%; 1.06; 0.8;0;0;HR
+Henry Davis;/players/d/davishe01.shtml;RF;5;1;1;0;0;3;5;.288;.354;.390;.744;24;15;-0.250; 2.58;0.061;-0.311;-0.08%; 1.41; -1.4;2;0;2B
+Carlos Santana;/players/s/santaca01.shtml;1B;5;1;1;0;0;1;5;.241;.320;.407;.727;15;11;-0.227; 2.65;0.061;-0.288;-0.07%; 1.45; -1.2;7;2;
+Jack Suwinski;/players/s/suwinja01.shtml;CF;4;1;1;3;1;2;5;.235;.365;.522;.887;25;13;-0.066; 1.99;0.145;-0.211;-0.02%; 1.09; 0.5;4;0;HR
+Nick Gonzales;/players/g/gonzani01.shtml;2B-SS;4;0;2;0;0;1;4;.333;.372;.615;.987;18;12;0.048; 0.78;0.074;-0.026; 0.02%; 0.42; 0.1;2;1;
+Tucupita Marcano;/players/m/marcatu01.shtml;SS;3;0;1;0;0;0;3;.237;.286;.385;.670;14;8;-0.056; 0.98;0.012;-0.068;-0.02%; 0.54; -0.5;1;2;
+Rodolfo Castro;/players/c/castrro01.shtml;PH-2B;1;0;0;0;0;1;1;.231;.320;.359;.679;6;4;-0.050; 2.03;0.000;-0.050;-0.02%; 1.11; -0.3;0;0;
+Jared Triolo;/players/t/triolja01.shtml;3B;4;0;1;0;0;2;4;.286;.375;.321;.696;17;11;-0.006; 0.91;0.059;-0.065;-0.00%; 0.49; -0.2;0;5;
+Austin Hedges;/players/h/hedgeau01.shtml;C;2;0;0;0;1;0;3;.177;.230;.231;.461;12;5;0.050; 1.31;0.092;-0.042; 0.02%; 0.72; 0.1;7;0;
+Connor Joe;/players/j/joeco01.shtml;PH;1;0;1;0;0;0;1;.239;.332;.422;.754;3;2;0.091; 1.59;0.091;0.000; 0.03%; 0.87; 0.6;;;2B
+Osvaldo Bido;/players/b/bidoos01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Roansy Contreras;/players/c/contrro01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Dauri Moreta;/players/m/moretda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Borucki;/players/b/borucry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yohan Ramirez;/players/r/ramiryo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Henry Davis (3, off Bobby Miller); Connor Joe (18, off Daniel Hudson).
+
+
+HR: Bryan Reynolds (9, off Bobby Miller, 1st inn, 0 on, 1 out to Deep CF-RF); Jack Suwinski (19, off Bobby Miller, 4th inn, 2 on, 0 outs to Deep RF).
+
+
+TB: Bryan Reynolds 4; Jack Suwinski 4; Connor Joe 2; Nick Gonzales 2; Henry Davis 2; Jared Triolo; Carlos Santana; Tucupita Marcano.
+
+
+RBI: Jack Suwinski 3 (46); Bryan Reynolds (42).
+
+
+Team LOB: 10.
+With RISP: 2 for 9.
+
+Pitching home
+Bobby Miller;/players/m/millebo06.shtml; W (5-1); 5.2;5;4;4;1;7;2;4.50;23;101;63;36;11;16;7;8;3;0;49;;;-0.094; 0.68;-0.08%; 0.94; -0.9
+Phil Bickford;/players/b/bickfph01.shtml; H (3); 0.1;2;0;0;2;0;0;5.82;5;20;9;6;0;3;1;2;1;0;;1;0;-0.240; 2.05;-0.20%; 2.82; -1.6
+Ryan Brasier;/players/b/brasiry01.shtml; H (3); 1 ;0;0;0;0;0;0;5.83;3;10;7;3;1;3;0;3;2;0;;3;0;0.347; 4.30; 0.29%; 5.90; 2.4
+Caleb Ferguson;/players/f/ferguca01.shtml; H (11); 1 ;1;0;0;0;3;0;2.78;4;25;15;6;5;4;0;1;0;0;;0;0;0.081; 1.46; 0.07%; 2.00; 0.6
+Daniel Hudson;/players/h/hudsoda01.shtml; S (1); 1 ;1;0;0;2;2;0;0.00;6;29;15;9;4;2;0;2;1;0;;0;0;0.081; 4.41; 0.07%; 6.05; 0.6
+
+Pitching away
+Osvaldo Bido;/players/b/bidoos01.shtml;Osvaldo Bido; 4 ;2;2;2;4;4;0;4.70;19;81;46;20;8;18;2;8;3;0;50;;;0.067; 1.26; 0.02%; 0.69; 0.2
+Roansy Contreras;/players/c/contrro01.shtml; L (3-7); 1 ;3;4;4;2;2;2;6.59;8;34;19;9;4;6;2;2;0;0;;0;0;-0.469; 1.05;-0.15%; 0.57; -3.4
+Dauri Moreta;/players/m/moretda01.shtml;Dauri Moreta; 1 ;1;0;0;0;0;0;3.58;3;8;6;3;0;3;1;2;1;0;;0;0;0.033; 0.57; 0.01%; 0.31; 0.6
+Ryan Borucki;/players/b/borucry01.shtml;Ryan Borucki; 1 ;0;0;0;0;1;0;6.35;3;7;4;2;0;2;1;0;0;0;;0;0;0.027; 0.57; 0.01%; 0.31; 0.6
+Yohan Ramirez;/players/r/ramiryo01.shtml;Yohan Ramirez; 1 ;0;0;0;0;0;0;2.88;4;12;8;4;2;2;3;0;0;0;;0;0;0.017; 0.31; 0.01%; 0.17; 0.6
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Yohan Ramirez (6; James Outman); Ryan Borucki (1; Max Muncy); Osvaldo Bido (4; David Peralta).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Yohan Ramirez (6; James Outman); Ryan Borucki (1; Max Muncy); Osvaldo Bido (4; David Peralta).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Clint Vondrak, 1B - John Libka, 2B - James Hoye, 3B - D.J. Reyburn, LF - (none), RF - (none).
+Time of Game: 2:44.
+Attendance: 45,403.
+Field Condition: Unknown.
+Start Time Weather: 69° F, Wind 7mph out to Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Pirates
+1;Andrew McCutchen;/players/m/mccutan01.shtml;DH
+2;Bryan Reynolds;/players/r/reynobr01.shtml;LF
+3;Henry Davis;/players/d/davishe01.shtml;RF
+4;Carlos Santana;/players/s/santaca01.shtml;1B
+5;Jack Suwinski;/players/s/suwinja01.shtml;CF
+6;Nick Gonzales;/players/g/gonzani01.shtml;2B
+7;Tucupita Marcano;/players/m/marcatu01.shtml;SS
+8;Jared Triolo;/players/t/triolja01.shtml;3B
+9;Austin Hedges;/players/h/hedgeau01.shtml;C
+; Osvaldo Bido;/players/b/bidoos01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;2B
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;C
+4;Max Muncy;/players/m/muncyma01.shtml;3B
+5;J.D. Martinez;/players/m/martijd02.shtml;DH
+6;David Peralta;/players/p/peralda01.shtml;LF
+7;Jason Heyward;/players/h/heywaja01.shtml;RF
+8;James Outman;/players/o/outmaja01.shtml;CF
+9;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+; Bobby Miller;/players/m/millebo06.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b5;2-4;1;12-;3,(0-2) FFX;RRR;LAD;J.D. Martinez;Roansy Contreras;32%;68%;Home Run (Fly Ball to Deep LF-CF); Smith Scores; Muncy Scores
+t9;4-6;0;12-;8,(3-2) T.SB*B*BFF*B;;PIT;Bryan Reynolds;Daniel Hudson;-15%;57%;Walk; Joe to 3B; McCutchen to 2B
+t9;4-6;2;123;6,(3-2) SBF*BB>*S;O;PIT;Jack Suwinski;Daniel Hudson;15%;100%;Strikeout Swinging
+t9;4-6;0;123;5,(2-2) BBFFC;O;PIT;Henry Davis;Daniel Hudson;15%;71%;Strikeout Looking
+t9;4-6;1;123;1,(0-0) X;O;PIT;Carlos Santana;Daniel Hudson;14%;85%;Flyball: LF (LF-CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Pirates Batting, Tied 0-0, Dodgers' Bobby Miller facing 1-2-3 
+t1;0-0;0;---;7,(3-2) BFBCBFT;O;PIT;Andrew McCutchen;Bobby Miller;2%;52%;Strikeout Swinging
+t1;0-0;1;---;4,(1-2) CS.BX;R;PIT;Bryan Reynolds;Bobby Miller;-9%;43%;Home Run (Fly Ball to Deep CF-RF)
+t1;1-0;1;---;5,(2-2) SCBBS;O;PIT;Henry Davis;Bobby Miller;1%;44%;Strikeout Swinging
+t1;1-0;2;---;8,(3-2) CBBFBFFT;O;PIT;Carlos Santana;Bobby Miller;1%;45%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Pirates 1, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Behind 0-1, Pirates' Osvaldo Bido facing 1-2-3 
+b1;0-1;0;---;5,(2-2) CSBBX;O;LAD;Mookie Betts;Osvaldo Bido;-2%;43%;Flyball: CF (Deep CF)
+b1;0-1;1;---;4,(2-1) BBSX;;LAD;Freddie Freeman;Osvaldo Bido;4%;47%;Double to RF (Line Drive to Deep RF Line)
+b1;0-1;1;-2-;7,(2-2) CBFFFBX;O;LAD;Will Smith;Osvaldo Bido;-4%;43%;Popfly: SS (Weak SS-2B)
+b1;0-1;2;-2-;4,(1-2) CC*BX;O;LAD;Max Muncy;Osvaldo Bido;-3%;40%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 1, Dodgers 0.
+Top of the 2nd, Pirates Batting, Ahead 1-0, Dodgers' Bobby Miller facing 5-6-7 
+t2;1-0;0;---;5,(1-2) FBCFX;O;PIT;Jack Suwinski;Bobby Miller;2%;42%;Flyball: CF (Deep CF)
+t2;1-0;1;---;3,(0-2) CFX;O;PIT;Nick Gonzales;Bobby Miller;2%;44%;Groundout: SS-1B
+t2;1-0;2;---;7,(3-2) CBBS.FBX;;PIT;Tucupita Marcano;Bobby Miller;-1%;43%;Single to CF (Ground Ball thru SS-2B)
+t2;1-0;2;1--;3,(1-1) *BCX;O;PIT;Jared Triolo;Bobby Miller;2%;45%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 1, Dodgers 0.
+Bottom of the 2nd, Dodgers Batting, Behind 0-1, Pirates' Osvaldo Bido facing 5-6-7 
+b2;0-1;0;---;2,(0-1) CX;O;LAD;J.D. Martinez;Osvaldo Bido;-3%;42%;Flyball: CF (Deep CF-RF)
+b2;0-1;1;---;5,(2-2) BBFF.S;O;LAD;David Peralta;Osvaldo Bido;-2%;41%;Strikeout Swinging
+b2;0-1;2;---;6,(3-2) BBCBCB;;LAD;Jason Heyward;Osvaldo Bido;1%;42%;Walk
+b2;0-1;2;1--;5,(3-2) VBBSC>B;;LAD;James Outman;Osvaldo Bido;2%;44%;Walk; Heyward to 2B
+b2;0-1;2;12-;2,(0-1) CX;O;LAD;Miguel Rojas;Osvaldo Bido;-5%;39%;Groundout: SS-2B/Forceout at 2B (Deep SS); Rojas to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Pirates 1, Dodgers 0.
+Top of the 3rd, Pirates Batting, Ahead 1-0, Dodgers' Bobby Miller facing 9-1-2 
+t3;1-0;0;---;2,(1-0) BX;O;PIT;Austin Hedges;Bobby Miller;2%;42%;Lineout: RF (Deep CF-RF)
+t3;1-0;1;---;3,(1-1) FBX;O;PIT;Andrew McCutchen;Bobby Miller;2%;43%;Lineout: CF (Deep CF-RF)
+t3;1-0;2;---;5,(2-2) BSBF.X;O;PIT;Bryan Reynolds;Bobby Miller;1%;44%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 1, Dodgers 0.
+Bottom of the 3rd, Dodgers Batting, Behind 0-1, Pirates' Osvaldo Bido facing 1-2-3 
+b3;0-1;0;---;3,(1-1) BCX;O;LAD;Mookie Betts;Osvaldo Bido;-3%;42%;Flyball: RF (CF-RF)
+b3;0-1;1;---;4,(1-2) CBFS;O;LAD;Freddie Freeman;Osvaldo Bido;-2%;40%;Strikeout Swinging
+b3;0-1;2;---;6,(3-2) TBS.BBC;O;LAD;Will Smith;Osvaldo Bido;-1%;38%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 1, Dodgers 0.
+Top of the 4th, Pirates Batting, Ahead 1-0, Dodgers' Bobby Miller facing 3-4-5 
+t4;1-0;0;---;1,(0-0) X;;PIT;Henry Davis;Bobby Miller;-6%;32%;Double to LF (Fly Ball to Deep LF)
+t4;1-0;0;-2-;1,(0-0) X;;PIT;Carlos Santana;Bobby Miller;-6%;26%;Single to RF (Line Drive to Short RF); Davis to 3B
+t4;1-0;0;1-3;4,(2-1) C*BBX;RRR;PIT;Jack Suwinski;Bobby Miller;-13%;13%;Home Run (Fly Ball to Deep RF); Davis Scores; Santana Scores
+t4;4-0;0;---;5,(2-2) BCBCS;O;PIT;Nick Gonzales;Bobby Miller;1%;14%;Strikeout Swinging
+t4;4-0;1;---;3,(1-1) SBX;O;PIT;Tucupita Marcano;Bobby Miller;1%;15%;Groundout: 2B-1B
+t4;4-0;2;---;5,(2-2) TCBBS;O;PIT;Jared Triolo;Bobby Miller;1%;16%;Strikeout Swinging
+;;;;;;;;;3 runs, 3 hits, 0 errors, 0 LOB. Pirates 4, Dodgers 0.
+Bottom of the 4th, Dodgers Batting, Behind 0-4, Pirates' Osvaldo Bido facing 4-5-6 
+b4;0-4;0;---;6,(3-2) .CBBBFB;;LAD;Max Muncy;Osvaldo Bido;3%;19%;Walk
+b4;0-4;0;1--;4,(3-0) BBBB;;LAD;J.D. Martinez;Osvaldo Bido;6%;25%;Walk; Muncy to 2B
+b4;0-4;0;12-;5,(2-2) BCBFH;;LAD;David Peralta;Osvaldo Bido;8%;32%;Hit By Pitch; Muncy to 3B; Martinez to 2B
+b4;0-4;0;123;3,(1-1) BFX;RO;LAD;Jason Heyward;Osvaldo Bido;-3%;30%;Flyball: RF/Sacrifice Fly (Deep RF); Muncy Scores; Martinez to 3B
+b4;1-4;1;1-3;3,(0-2) CSS;O;LAD;James Outman;Osvaldo Bido;-7%;23%;Strikeout Swinging
+b4;1-4;2;1-3;2,(0-1) CX;R;LAD;Miguel Rojas;Osvaldo Bido;9%;32%;Single to CF (Line Drive to Deep LF-CF); Martinez Scores; Peralta to 3B
+b4;2-4;2;1-3;5,(2-2) CBBCX;O;LAD;Mookie Betts;Osvaldo Bido;-6%;26%;Groundout: 3B-1B
+;;;;;;;;;2 runs, 1 hit, 0 errors, 2 LOB. Pirates 4, Dodgers 2.
+Top of the 5th, Pirates Batting, Ahead 4-2, Dodgers' Bobby Miller facing 9-1-2 
+t5;4-2;0;---;5,(2-2) .BCFBX;O;PIT;Austin Hedges;Bobby Miller;2%;28%;Groundout: SS-1B (Deep SS)
+t5;4-2;1;---;7,(3-2) SFBBBFS;O;PIT;Andrew McCutchen;Bobby Miller;1%;29%;Strikeout Swinging
+t5;4-2;2;---;3,(1-1) CBX;O;PIT;Bryan Reynolds;Bobby Miller;1%;30%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 4, Dodgers 2.
+Bottom of the 5th, Dodgers Batting, Behind 2-4, Pirates' Roansy Contreras facing 2-3-4 
+;;;;;;;;;Roansy Contreras replaces Osvaldo Bido pitching
+b5;2-4;0;---;4,(1-2) .BCFX;O;LAD;Freddie Freeman;Roansy Contreras;-3%;27%;Groundout: 1B-P (2B-1B)
+b5;2-4;1;---;5,(3-1) BBCB*B;;LAD;Will Smith;Roansy Contreras;4%;30%;Walk
+b5;2-4;1;1--;6,(3-2) VBCCBFB;;LAD;Max Muncy;Roansy Contreras;5%;36%;Walk; Smith to 2B
+b5;2-4;1;12-;3,(0-2) FFX;RRR;LAD;J.D. Martinez;Roansy Contreras;32%;68%;Home Run (Fly Ball to Deep LF-CF); Smith Scores; Muncy Scores
+b5;5-4;1;---;2,(1-0) BX;R;LAD;David Peralta;Roansy Contreras;11%;79%;Home Run (Fly Ball to Deep RF Line)
+b5;6-4;1;---;5,(2-2) .CBBSS;O;LAD;Jason Heyward;Roansy Contreras;-1%;78%;Strikeout Swinging
+b5;6-4;2;---;3,(1-1) .FBX;;LAD;James Outman;Roansy Contreras;1%;79%;Single to RF (Ground Ball thru 2B-1B)
+b5;6-4;2;1--;1,(0-0) >B;;LAD;Miguel Rojas;Roansy Contreras;1%;79%;Outman Steals 2B
+b5;6-4;2;-2-;6,(3-2) >B.BCSBS;O;LAD;Miguel Rojas;Roansy Contreras;-2%;77%;Strikeout Swinging
+;;;;;;;;;4 runs, 3 hits, 0 errors, 1 LOB. Pirates 4, Dodgers 6.
+Top of the 6th, Pirates Batting, Behind 4-6, Dodgers' Bobby Miller facing 3-4-5 
+t6;4-6;0;---;8,(3-2) BBFBFFFS;O;PIT;Henry Davis;Bobby Miller;3%;80%;Strikeout Swinging
+t6;4-6;1;---;2,(0-1) CX;O;PIT;Carlos Santana;Bobby Miller;2%;82%;Groundout: SS-1B (Deep SS-2B)
+t6;4-6;2;---;5,(3-1) BBBCB;;PIT;Jack Suwinski;Bobby Miller;-2%;81%;Walk
+;;;;;;;;;Phil Bickford replaces Bobby Miller pitching
+t6;4-6;2;1--;4,(1-2) .FCBX;;PIT;Nick Gonzales;Phil Bickford;-3%;78%;Single to SS (Ground Ball); Suwinski to 2B
+t6;4-6;2;12-;4,(2-1) BFBX;O;PIT;Tucupita Marcano;Phil Bickford;6%;84%;Flyball: RF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Pirates 4, Dodgers 6.
+Bottom of the 6th, Dodgers Batting, Ahead 6-4, Pirates' Dauri Moreta facing 1-2-3 
+;;;;;;;;;Dauri Moreta replaces Roansy Contreras pitching
+b6;6-4;0;---;1,(0-0) .X;O;LAD;Mookie Betts;Dauri Moreta;-1%;82%;Lineout: CF (Deep CF-RF)
+b6;6-4;1;---;4,(1-2) CCBX;;LAD;Freddie Freeman;Dauri Moreta;1%;84%;Single to CF (Fly Ball to Short CF)
+b6;6-4;1;1--;3,(1-1) CBX;OO;LAD;Will Smith;Dauri Moreta;-3%;81%;Ground Ball Double Play: 3B-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Pirates 4, Dodgers 6.
+Top of the 7th, Pirates Batting, Behind 4-6, Dodgers' Phil Bickford facing 8-9-1 
+t7;4-6;0;---;1,(0-0) X;;PIT;Jared Triolo;Phil Bickford;-6%;75%;Single to LF (Line Drive)
+t7;4-6;0;1--;5,(3-1) CBBBB;;PIT;Austin Hedges;Phil Bickford;-9%;65%;Walk; Triolo to 2B
+t7;4-6;0;12-;6,(3-2) BBBCFB;;PIT;Andrew McCutchen;Phil Bickford;-12%;53%;Walk; Triolo to 3B; Hedges to 2B
+;;;;;;;;;Ryan Brasier replaces Phil Bickford pitching
+t7;4-6;0;123;2,(0-1) .*SX;O;PIT;Bryan Reynolds;Ryan Brasier;11%;65%;Lineout: SS (Deep SS-2B)
+t7;4-6;1;123;5,(2-2) CBC*BX;O;PIT;Henry Davis;Ryan Brasier;12%;76%;Lineout: 2B (Deep 2B)
+t7;4-6;2;123;3,(1-1) BCX;O;PIT;Carlos Santana;Ryan Brasier;12%;88%;Popfly: 3B (Front of Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Pirates 4, Dodgers 6.
+Bottom of the 7th, Dodgers Batting, Ahead 6-4, Pirates' Ryan Borucki facing 4-5-6 
+;;;;;;;;;Ryan Borucki replaces Dauri Moreta pitching
+b7;6-4;0;---;1,(0-0) .H;;LAD;Max Muncy;Ryan Borucki;2%;90%;Hit By Pitch
+b7;6-4;0;1--;5,(2-2) CCB*BT;O;LAD;J.D. Martinez;Ryan Borucki;-2%;88%;Strikeout Swinging
+b7;6-4;1;1--;1,(0-0) X;OO;LAD;David Peralta;Ryan Borucki;-3%;85%;Ground Ball Double Play: 1B-SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 4, Dodgers 6.
+Top of the 8th, Pirates Batting, Behind 4-6, Dodgers' Caleb Ferguson facing 5-6-7 
+;;;;;;;;;Caleb Ferguson replaces Ryan Brasier pitching
+t8;4-6;0;---;5,(2-2) .CSBBC;O;PIT;Jack Suwinski;Caleb Ferguson;4%;89%;Strikeout Looking
+t8;4-6;1;---;6,(3-2) BCFBBX;;PIT;Nick Gonzales;Caleb Ferguson;-5%;85%;Single to LF (Fly Ball to Short LF-CF)
+;;;;;;;;;Rodolfo Castro pinch hits for Tucupita Marcano (SS) batting 7th
+t8;4-6;1;1--;6,(2-2) .CFFB*BS;O;PIT;Rodolfo Castro;Caleb Ferguson;5%;90%;Strikeout Swinging
+t8;4-6;2;1--;8,(3-2) SSFBBB>F>S;O;PIT;Jared Triolo;Caleb Ferguson;4%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 4, Dodgers 6.
+Bottom of the 8th, Dodgers Batting, Ahead 6-4, Pirates' Yohan Ramirez facing 7-8-9 
+;;;;;;;;;Yohan Ramirez replaces Ryan Borucki pitchingRodolfo Castro moves from PH to 2B Nick Gonzales moves from 2B to SS Jonny Deluca pinch hits for Jason Heyward (RF) batting 7th
+b8;6-4;0;---;5,(2-2) ....BCBFX;O;LAD;Jonny Deluca;Yohan Ramirez;-1%;93%;Groundout: 3B-1B
+b8;6-4;1;---;4,(1-2) SBSH;;LAD;James Outman;Yohan Ramirez;1%;94%;Hit By Pitch
+b8;6-4;1;1--;2,(0-1) CX;O;LAD;Miguel Rojas;Yohan Ramirez;-1%;93%;Groundout: 3B-1B (Weak SS); Outman to 2B
+b8;6-4;2;-2-;1,(0-0) X;O;LAD;Mookie Betts;Yohan Ramirez;-1%;92%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Pirates 4, Dodgers 6.
+Top of the 9th, Pirates Batting, Behind 4-6, Dodgers' Daniel Hudson facing 9-1-2 
+;;;;;;;;;Daniel Hudson replaces Caleb Ferguson pitchingJonny Deluca moves from PH to RF Connor Joe pinch hits for Austin Hedges (C) batting 9th
+t9;4-6;0;---;3,(1-1) ...BCX;;PIT;Connor Joe;Daniel Hudson;-9%;83%;Ground-rule Double (Line Drive to Deep LF Line)
+t9;4-6;0;-2-;6,(3-2) FBS*BBB;;PIT;Andrew McCutchen;Daniel Hudson;-11%;72%;Walk
+t9;4-6;0;12-;8,(3-2) T.SB*B*BFF*B;;PIT;Bryan Reynolds;Daniel Hudson;-15%;57%;Walk; Joe to 3B; McCutchen to 2B
+t9;4-6;0;123;5,(2-2) BBFFC;O;PIT;Henry Davis;Daniel Hudson;15%;71%;Strikeout Looking
+t9;4-6;1;123;1,(0-0) X;O;PIT;Carlos Santana;Daniel Hudson;14%;85%;Flyball: LF (LF-CF)
+t9;4-6;2;123;6,(3-2) SBF*BB>*S;O;PIT;Jack Suwinski;Daniel Hudson;15%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Pirates 4, Dodgers 6.

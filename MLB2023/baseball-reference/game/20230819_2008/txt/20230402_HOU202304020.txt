@@ -1,0 +1,281 @@
+
+Scorebox Meta
+20230402
+1:10 p.m. Local
+42835
+Minute Maid Park
+186
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;0;0;0;0;1;2;0;1;2;6;13;0
+https://cdn.ssref.net/req/202308101/tlogo/br/HOU-2023.png;/teams/HOU/2023.shtml;0;0;0;0;0;1;0;0;2;3;7;0
+
+Batting home
+Jeremy Peña;/players/p/penaje02.shtml;SS;4;1;0;0;1;2;5;.267;.389;.333;.722;25;14;-0.137; 1.23;0.019;-0.155;-0.08%; 1.23; -1.0;1;1;
+Alex Bregman;/players/b/bregmal01.shtml;3B;4;0;0;0;1;3;5;.000;.111;.000;.111;23;15;-0.065; 1.02;0.038;-0.102;-0.04%; 1.02; -1.0;1;3;
+Kyle Tucker;/players/t/tuckeky01.shtml;RF;4;0;1;0;1;0;5;.286;.444;.500;.944;20;10;-0.034; 0.89;0.050;-0.083;-0.02%; 0.89; -0.5;2;0;
+José Abreu;/players/a/abreujo02.shtml;1B;4;0;2;1;0;0;5;.375;.444;.375;.819;15;11;0.012; 1.04;0.060;-0.048; 0.01%; 1.04; 1.1;9;2;HBP
+David Hensley;/players/h/henslda01.shtml;DH;5;0;1;1;0;3;5;.250;.308;.250;.558;26;18;-0.133; 1.33;0.029;-0.161;-0.08%; 1.33; -0.4;;;
+Chas McCormick;/players/m/mccorch01.shtml;CF;3;1;1;0;1;1;5;.400;.667;.400;1.067;27;16;0.150; 1.35;0.232;-0.082; 0.09%; 1.35; 1.5;2;0;2·SB,HBP
+Corey Julks;/players/j/julksco01.shtml;LF;4;0;0;0;0;3;4;.167;.167;.167;.333;21;14;-0.149; 1.28;0.000;-0.149;-0.09%; 1.28; -1.4;3;0;
+Mauricio Dubón;/players/d/dubonma01.shtml;2B;4;0;1;0;0;0;4;.143;.143;.143;.286;7;5;-0.080; 1.00;0.015;-0.095;-0.05%; 1.00; -0.8;0;3;
+Martín Maldonado;/players/m/maldoma01.shtml;C;2;0;1;0;1;0;3;.250;.400;.250;.650;9;5;0.007; 1.18;0.036;-0.029; 0.01%; 1.18; 0.1;7;0;
+César Salazar;/players/s/salazce01.shtml;PH;0;1;0;0;1;0;1;;1.000;;;6;2;0.013; 0.34;0.013;0.000; 0.01%; 0.34; 0.6;;;
+Luis Garcia;/players/g/garcilu05.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Phil Maton;/players/m/matonph01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Seth Martinez;/players/m/martise01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HBP: José Abreu (1, by Mike Clevinger); Chas McCormick (1, by Mike Clevinger).
+
+
+TB: José Abreu 2; Martín Maldonado; Chas McCormick; Kyle Tucker; Mauricio Dubón; David Hensley.
+
+
+RBI: David Hensley (2); José Abreu (2).
+
+
+2-out RBI: David Hensley; José Abreu.
+
+
+Team LOB: 12.
+With RISP: 3 for 14.
+
+Batting away
+Tim Anderson;/players/a/anderti01.shtml;SS;5;0;1;1;0;1;5;.389;.450;.500;.950;20;12;-0.086; 1.31;0.070;-0.156;-0.05%; 1.15; -1.0;0;2;2B
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;5;1;2;1;0;0;5;.263;.263;.474;.737;24;14;0.111; 0.81;0.183;-0.072; 0.06%; 0.71; 0.0;2;0;HR,2B
+Andrew Benintendi;/players/b/beninan01.shtml;LF;4;1;0;0;1;0;5;.222;.263;.278;.541;17;10;-0.095; 0.83;0.005;-0.100;-0.05%; 0.73; -1.1;1;0;
+Eloy Jiménez;/players/j/jimenel02.shtml;DH;5;0;0;0;0;3;5;.176;.263;.294;.557;16;12;-0.081; 0.61;0.000;-0.081;-0.04%; 0.54; -1.2;;;
+Yoán Moncada;/players/m/moncayo01.shtml;3B;4;2;3;2;1;1;5;.444;.474;.944;1.418;17;8;0.188; 0.73;0.200;-0.012; 0.10%; 0.65; 3.2;1;2;HR,2·2B
+Hanser Alberto;/players/a/alberha01.shtml;3B;0;0;0;0;0;0;0;;;;;;;;;;;;;;0;0;
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;4;1;2;1;0;0;5;.273;.429;.455;.883;11;7;0.062; 0.92;0.111;-0.049; 0.03%; 0.82; 1.1;7;1;2B,HBP
+Yasmani Grandal;/players/g/grandya01.shtml;C;4;0;3;0;1;0;5;.417;.500;.750;1.250;12;7;0.202; 1.00;0.215;-0.013; 0.11%; 0.88; 2.6;12;0;2B
+Oscar Colás;/players/c/colasos01.shtml;RF;5;1;2;1;0;1;5;.357;.400;.429;.829;14;12;-0.053; 1.06;0.109;-0.162;-0.03%; 0.94; -0.4;3;0;2B,SB
+Elvis Andrus;/players/a/andruel01.shtml;2B;4;0;0;0;0;1;5;.125;.176;.125;.301;20;11;-0.164; 1.27;0.007;-0.171;-0.09%; 1.12; -1.9;0;2;HBP
+Mike Clevinger;/players/c/clevimi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gregory Santos;/players/s/santogr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Aaron Bummer;/players/b/bummeaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Kendall Graveman;/players/g/graveke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Reynaldo López;/players/l/lopezre01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Luis Robert Jr. (1, off Luis Garcia); Yoán Moncada 2 (3, 2 off Luis Garcia); Yasmani Grandal (1, off Luis Garcia); Oscar Colás (1, off Phil Maton); Tim Anderson (2, off Seth Martinez); Andrew Vaughn (2, off Seth Martinez).
+
+
+HR: Luis Robert Jr. (1, off Luis Garcia, 5th inn, 0 on, 1 out to Deep LF Line); Yoán Moncada (2, off Seth Martinez, 9th inn, 1 on, 1 out to Deep LF).
+
+
+HBP: Andrew Vaughn (2, by Luis Garcia); Elvis Andrus (1, by Phil Maton).
+
+
+TB: Yoán Moncada 8; Luis Robert Jr. 6; Yasmani Grandal 4; Andrew Vaughn 3; Oscar Colás 3; Tim Anderson 2.
+
+
+RBI: Yoán Moncada 2 (4); Andrew Vaughn (3); Oscar Colás (1); Tim Anderson (1); Luis Robert Jr. (1).
+
+
+2-out RBI: Tim Anderson.
+
+
+Team LOB: 12.
+With RISP: 5 for 19.
+
+Pitching home
+Luis Garcia;/players/g/garcilu05.shtml; L (0-1); 5 ;7;3;3;2;4;1;5.40;25;91;55;33;12;10;8;10;5;0;43;;;-0.050; 1.32;-0.03%; 1.32; -0.4
+Phil Maton;/players/m/matonph01.shtml;Phil Maton; 2 ;1;0;0;0;2;0;0.00;8;24;15;7;3;5;3;2;0;0;;2;1;0.042; 0.81; 0.03%; 0.81; 1.0
+Seth Martinez;/players/m/martise01.shtml;Seth Martinez; 2 ;5;3;3;1;1;1;9.00;12;36;23;14;0;9;3;7;2;0;;0;0;-0.076; 0.32;-0.05%; 0.32; -2.0
+
+Pitching away
+Mike Clevinger;/players/c/clevimi01.shtml; W (1-0); 5 ;3;0;0;3;8;0;0.00;23;98;60;32;12;16;3;7;3;0;66;;;0.293; 1.15; 0.15%; 1.02; 2.6
+Gregory Santos;/players/s/santogr01.shtml; H (1); 1 ;1;1;1;1;1;0;5.40;5;21;12;5;4;3;2;1;1;0;;0;0;-0.022; 1.55;-0.01%; 1.37; -0.5
+Aaron Bummer;/players/b/bummeaa01.shtml; H (1); 1 ;0;0;0;0;0;0;0.00;3;7;6;3;0;3;2;1;1;0;;0;0;0.084; 1.09; 0.04%; 0.97; 0.5
+Kendall Graveman;/players/g/graveke01.shtml; H (2); 1 ;1;0;0;0;2;0;10.13;4;16;12;4;1;7;2;0;0;0;;0;0;0.054; 0.98; 0.03%; 0.87; 0.5
+Reynaldo López;/players/l/lopezre01.shtml;Reynaldo López; 1 ;2;2;2;2;1;0;13.50;7;37;20;11;5;4;1;3;2;0;;0;0;0.008; 0.76; 0.01%; 0.67; -1.5
+
+indiv_events
+
+Balks: Reynaldo López (1).
+WP: Mike Clevinger (1); Gregory Santos (1); Reynaldo López (1).
+HBP: Phil Maton (2; Elvis Andrus); Luis Garcia (1; Andrew Vaughn); Mike Clevinger 2 (2; José Abreu, Chas McCormick).
+IBB: None.
+Pickoffs: None.
+
+Balks: Reynaldo López (1).
+WP: Mike Clevinger (1); Gregory Santos (1); Reynaldo López (1).
+HBP: Phil Maton (2; Elvis Andrus); Luis Garcia (1; Andrew Vaughn); Mike Clevinger 2 (2; José Abreu, Chas McCormick).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Roberto Ortiz, 1B - Bill Miller, 2B - Rob Drake, 3B - Chad Whitson, LF - (none), RF - (none).
+Time of Game: 3:06.
+Attendance: 42,835.
+Start Time Weather: 73° F, Wind 0mph, In Dome.
+
+div_lineups
+White Sox
+1;Tim Anderson;/players/a/anderti01.shtml;SS
+2;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+3;Andrew Benintendi;/players/b/beninan01.shtml;LF
+4;Eloy Jiménez;/players/j/jimenel02.shtml;DH
+5;Yoán Moncada;/players/m/moncayo01.shtml;3B
+6;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+7;Yasmani Grandal;/players/g/grandya01.shtml;C
+8;Oscar Colás;/players/c/colasos01.shtml;RF
+9;Elvis Andrus;/players/a/andruel01.shtml;2B
+; Mike Clevinger;/players/c/clevimi01.shtml;P
+Astros
+1;Jeremy Peña;/players/p/penaje02.shtml;SS
+2;Alex Bregman;/players/b/bregmal01.shtml;3B
+3;Kyle Tucker;/players/t/tuckeky01.shtml;RF
+4;José Abreu;/players/a/abreujo02.shtml;1B
+5;David Hensley;/players/h/henslda01.shtml;DH
+6;Chas McCormick;/players/m/mccorch01.shtml;CF
+7;Corey Julks;/players/j/julksco01.shtml;LF
+8;Mauricio Dubón;/players/d/dubonma01.shtml;2B
+9;Martín Maldonado;/players/m/maldoma01.shtml;C
+; Luis Garcia;/players/g/garcilu05.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t5;0-0;1;---;5,(2-2) CFBBX;R;CHW;Luis Robert Jr.;Luis Garcia;14%;61%;Home Run (Line Drive to Deep LF Line)
+t4;0-0;1;1--;3,(1-1) CBX;;CHW;Yasmani Grandal;Luis Garcia;10%;60%;Double to RF (Line Drive to Deep RF Line); Moncada to 3B
+t4;0-0;1;-23;2,(0-1) C.X;O;CHW;Oscar Colás;Luis Garcia;-9%;51%;Popfly: 3B (Weak 3B)
+t6;2-0;0;12-;2,(0-1) .FX;R;CHW;Oscar Colás;Phil Maton;8%;93%;Double to LF (Ground Ball); Vaughn Scores; Grandal to 3B
+t6;1-0;0;-2-;1,(0-0) X;R;CHW;Andrew Vaughn;Luis Garcia;8%;80%;Single to CF (Line Drive); Moncada Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, White Sox Batting, Tied 0-0, Astros' Luis Garcia facing 1-2-3 
+t1;0-0;0;---;5,(2-2) BFSB>X;O;CHW;Tim Anderson;Luis Garcia;-2%;48%;Groundout: P-1B (Weak SS-2B)
+t1;0-0;1;---;7,(2-2) FBBFFFX;;CHW;Luis Robert Jr.;Luis Garcia;4%;52%;Double to LF (Line Drive to Deep LF-CF)
+t1;0-0;1;-2-;5,(2-2) BTC*BX;O;CHW;Andrew Benintendi;Luis Garcia;-3%;49%;Groundout: 1B unassisted; Robert to 3B
+t1;0-0;2;--3;4,(1-2) SFBS;O;CHW;Eloy Jiménez;Luis Garcia;-4%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 0, Astros 0.
+Bottom of the 1st, Astros Batting, Tied 0-0, White Sox' Mike Clevinger facing 1-2-3 
+b1;0-0;0;---;4,(2-1) BSBX;O;HOU;Jeremy Peña;Mike Clevinger;2%;47%;Flyball: RF (Deep RF Line)
+b1;0-0;1;---;4,(1-2) FFBS;O;HOU;Alex Bregman;Mike Clevinger;2%;49%;Strikeout Swinging
+b1;0-0;2;---;6,(3-2) CBBFB*B;;HOU;Kyle Tucker;Mike Clevinger;-1%;48%;Walk
+b1;0-0;2;1--;1,(0-0) 1B;;HOU;José Abreu;Mike Clevinger;-1%;47%;Wild Pitch; Tucker to 2B
+b1;0-0;2;-2-;5,(2-2) 1B.SFB>H;;HOU;José Abreu;Mike Clevinger;-1%;46%;Hit By Pitch
+b1;0-0;2;12-;3,(0-2) CCS;O;HOU;David Hensley;Mike Clevinger;4%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. White Sox 0, Astros 0.
+Top of the 2nd, White Sox Batting, Tied 0-0, Astros' Luis Garcia facing 5-6-7 
+t2;0-0;0;---;2,(1-0) BX;;CHW;Yoán Moncada;Luis Garcia;6%;56%;Double to RF (Line Drive to RF Line)
+t2;0-0;0;-2-;1,(0-0) H;;CHW;Andrew Vaughn;Luis Garcia;3%;59%;Hit By Pitch
+t2;0-0;0;12-;1,(0-0) X;;CHW;Yasmani Grandal;Luis Garcia;7%;67%;Single to RF (Ground Ball thru 2B-1B); Moncada to 3B; Vaughn to 2B
+t2;0-0;0;123;3,(0-2) SSS;O;CHW;Oscar Colás;Luis Garcia;-7%;60%;Strikeout Swinging
+t2;0-0;1;123;6,(2-2) BBSCFS;O;CHW;Elvis Andrus;Luis Garcia;-8%;52%;Strikeout Swinging
+t2;0-0;2;123;1,(0-0) X;O;CHW;Tim Anderson;Luis Garcia;-8%;45%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. White Sox 0, Astros 0.
+Bottom of the 2nd, Astros Batting, Tied 0-0, White Sox' Mike Clevinger facing 6-7-8 
+b2;0-0;0;---;7,(2-2) BBCSFFH;;HOU;Chas McCormick;Mike Clevinger;-4%;41%;Hit By Pitch
+;;;;;;;;;Hit by Pitch Challenged by CHW manager (Pedro Grifol): Original call upheld upon review.
+b2;0-0;0;1--;5,(2-2) 1BSBT>B;;HOU;Corey Julks;Mike Clevinger;-3%;39%;McCormick Steals 2B
+b2;0-0;0;-2-;6,(3-2) 1BSBT>B.S;O;HOU;Corey Julks;Mike Clevinger;4%;43%;Strikeout Swinging
+b2;0-0;1;-2-;1,(0-0) X;O;HOU;Mauricio Dubón;Mike Clevinger;3%;46%;Bunt Groundout: 3B-1B (Short 3B Line); McCormick to 3B
+b2;0-0;2;--3;6,(3-2) CCBBB.B;;HOU;Martín Maldonado;Mike Clevinger;-1%;45%;Walk
+b2;0-0;2;1-3;3,(0-2) FFX;O;HOU;Jeremy Peña;Mike Clevinger;5%;50%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. White Sox 0, Astros 0.
+Top of the 3rd, White Sox Batting, Tied 0-0, Astros' Luis Garcia facing 2-3-4 
+t3;0-0;0;---;5,(3-1) BBCBX;O;CHW;Luis Robert Jr.;Luis Garcia;-3%;47%;Groundout: 3B-1B
+t3;0-0;1;---;3,(1-1) CBX;O;CHW;Andrew Benintendi;Luis Garcia;-2%;46%;Groundout: 1B-P (2B-1B)
+t3;0-0;2;---;7,(3-2) FSBBFBS;O;CHW;Eloy Jiménez;Luis Garcia;-1%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Astros 0.
+Bottom of the 3rd, Astros Batting, Tied 0-0, White Sox' Mike Clevinger facing 2-3-4 
+b3;0-0;0;---;4,(1-2) CBFS;O;HOU;Alex Bregman;Mike Clevinger;3%;47%;Strikeout Swinging
+b3;0-0;1;---;5,(2-2) BBFFX;;HOU;Kyle Tucker;Mike Clevinger;-3%;44%;Single to RF (Line Drive to Deep RF)
+b3;0-0;1;1--;1,(0-0) X;O;HOU;José Abreu;Mike Clevinger;3%;47%;Flyball: CF (Deep CF-RF)
+b3;0-0;2;1--;7,(3-2) C*BBS1*B>F>C;O;HOU;David Hensley;Mike Clevinger;3%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 0, Astros 0.
+Top of the 4th, White Sox Batting, Tied 0-0, Astros' Luis Garcia facing 5-6-7 
+t4;0-0;0;---;6,(3-2) BBCBFB;;CHW;Yoán Moncada;Luis Garcia;4%;54%;Walk
+t4;0-0;0;1--;5,(2-2) *BBF1SX;O;CHW;Andrew Vaughn;Luis Garcia;-4%;50%;Flyball: LF
+t4;0-0;1;1--;3,(1-1) CBX;;CHW;Yasmani Grandal;Luis Garcia;10%;60%;Double to RF (Line Drive to Deep RF Line); Moncada to 3B
+t4;0-0;1;-23;2,(0-1) C.X;O;CHW;Oscar Colás;Luis Garcia;-9%;51%;Popfly: 3B (Weak 3B)
+t4;0-0;2;-23;5,(2-2) CS*BBX;O;CHW;Elvis Andrus;Luis Garcia;-7%;44%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. White Sox 0, Astros 0.
+Bottom of the 4th, Astros Batting, Tied 0-0, White Sox' Mike Clevinger facing 6-7-8 
+b4;0-0;0;---;4,(1-2) CFBS;O;HOU;Chas McCormick;Mike Clevinger;3%;47%;Strikeout Swinging
+b4;0-0;1;---;5,(1-2) FSBFS;O;HOU;Corey Julks;Mike Clevinger;2%;49%;Strikeout Swinging
+b4;0-0;2;---;1,(0-0) X;;HOU;Mauricio Dubón;Mike Clevinger;-2%;47%;Single to SS (Ground Ball)
+b4;0-0;2;1--;2,(0-1) CX;O;HOU;Martín Maldonado;Mike Clevinger;3%;50%;Flyball: RF (RF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 0, Astros 0.
+Top of the 5th, White Sox Batting, Tied 0-0, Astros' Luis Garcia facing 1-2-3 
+t5;0-0;0;---;5,(2-2) BBFFX;O;CHW;Tim Anderson;Luis Garcia;-3%;47%;Flyball: RF (RF Line)
+t5;0-0;1;---;5,(2-2) CFBBX;R;CHW;Luis Robert Jr.;Luis Garcia;14%;61%;Home Run (Line Drive to Deep LF Line)
+t5;1-0;1;---;1,(0-0) X;O;CHW;Andrew Benintendi;Luis Garcia;-2%;60%;Flyball: CF (Deep CF)
+t5;1-0;2;---;1,(0-0) X;O;CHW;Eloy Jiménez;Luis Garcia;-1%;58%;Groundout: SS-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. White Sox 1, Astros 0.
+Bottom of the 5th, Astros Batting, Behind 0-1, White Sox' Mike Clevinger facing 1-2-3 
+b5;0-1;0;---;6,(3-2) BBBCCC;O;HOU;Jeremy Peña;Mike Clevinger;3%;62%;Strikeout Looking
+b5;0-1;1;---;7,(3-2) FBBFFBB;;HOU;Alex Bregman;Mike Clevinger;-4%;58%;Walk
+b5;0-1;1;1--;2,(1-0) BX;O;HOU;Kyle Tucker;Mike Clevinger;4%;62%;Foul Popfly: 3B
+b5;0-1;2;1--;3,(0-2) CFX;;HOU;José Abreu;Mike Clevinger;-3%;59%;Single to RF (Line Drive); Bregman to 2B
+b5;0-1;2;12-;6,(2-2) BCFBFX;O;HOU;David Hensley;Mike Clevinger;7%;66%;Lineout: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. White Sox 1, Astros 0.
+Top of the 6th, White Sox Batting, Ahead 1-0, Astros' Luis Garcia facing 5-6-7 
+t6;1-0;0;---;2,(1-0) BX;;CHW;Yoán Moncada;Luis Garcia;7%;73%;Double to RF (Ground Ball)
+t6;1-0;0;-2-;1,(0-0) X;R;CHW;Andrew Vaughn;Luis Garcia;8%;80%;Single to CF (Line Drive); Moncada Scores
+t6;2-0;0;1--;5,(3-1) B*BC*B*B;;CHW;Yasmani Grandal;Luis Garcia;4%;84%;Walk; Vaughn to 2B
+;;;;;;;;;Phil Maton replaces Luis Garcia pitching
+t6;2-0;0;12-;2,(0-1) .FX;R;CHW;Oscar Colás;Phil Maton;8%;93%;Double to LF (Ground Ball); Vaughn Scores; Grandal to 3B
+t6;3-0;0;-23;4,(2-1) CBBH;;CHW;Elvis Andrus;Phil Maton;1%;93%;Hit By Pitch
+t6;3-0;0;123;6,(3-2) BBSBFS;O;CHW;Tim Anderson;Phil Maton;-3%;91%;Strikeout Swinging
+t6;3-0;1;123;2,(0-1) CX;O;CHW;Luis Robert Jr.;Phil Maton;-4%;87%;Flyball: RF (Short CF-RF)
+t6;3-0;2;123;2,(0-1) CX;O;CHW;Andrew Benintendi;Phil Maton;-3%;84%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 3 LOB. White Sox 3, Astros 0.
+Bottom of the 6th, Astros Batting, Behind 0-3, White Sox' Gregory Santos facing 6-7-8 
+;;;;;;;;;Gregory Santos replaces Mike Clevinger pitching
+b6;0-3;0;---;7,(3-2) .BBCBSFB;;HOU;Chas McCormick;Gregory Santos;-5%;79%;Walk
+b6;0-3;0;1--;6,(2-2) CB1BCF>B;;HOU;Corey Julks;Gregory Santos;-2%;77%;McCormick Steals 2B
+b6;0-3;0;-2-;7,(3-2) CB1BCF>B.X;O;HOU;Corey Julks;Gregory Santos;5%;82%;Groundout: SS-1B
+b6;0-3;1;-2-;1,(0-0) X;O;HOU;Mauricio Dubón;Gregory Santos;4%;86%;Groundout: SS-1B
+b6;0-3;2;-2-;1,(0-0) X;;HOU;Martín Maldonado;Gregory Santos;-2%;84%;Single to CF (Line Drive); McCormick to 3B
+b6;0-3;2;1-3;3,(0-2) SS.B;R;HOU;Jeremy Peña;Gregory Santos;-7%;77%;Wild Pitch; McCormick Scores/No RBI; Maldonado to 2B
+b6;1-3;2;-2-;5,(2-2) SS.B.BS;O;HOU;Jeremy Peña;Gregory Santos;5%;81%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. White Sox 3, Astros 1.
+Top of the 7th, White Sox Batting, Ahead 3-1, Astros' Phil Maton facing 4-5-6 
+t7;3-1;0;---;1,(0-0) X;O;CHW;Eloy Jiménez;Phil Maton;-2%;80%;Flyball: LF (Deep LF)
+t7;3-1;1;---;5,(2-2) CBBCS;O;CHW;Yoán Moncada;Phil Maton;-1%;79%;Strikeout Swinging
+t7;3-1;2;---;2,(1-0) BX;O;CHW;Andrew Vaughn;Phil Maton;-1%;78%;Groundout: 1B-2B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 3, Astros 1.
+Bottom of the 7th, Astros Batting, Behind 1-3, White Sox' Aaron Bummer facing 2-3-4 
+;;;;;;;;;Aaron Bummer replaces Gregory Santos pitching
+b7;1-3;0;---;2,(0-1) .CX;O;HOU;Alex Bregman;Aaron Bummer;4%;82%;Groundout: 2B-1B (2B-1B)
+b7;1-3;1;---;3,(1-1) BCX;O;HOU;Kyle Tucker;Aaron Bummer;3%;85%;Lineout: LF (Deep LF)
+b7;1-3;2;---;2,(0-1) CX;O;HOU;José Abreu;Aaron Bummer;2%;86%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 3, Astros 1.
+Top of the 8th, White Sox Batting, Ahead 3-1, Astros' Seth Martinez facing 7-8-9 
+;;;;;;;;;Seth Martinez replaces Phil Maton pitching
+t8;3-1;0;---;1,(0-0) .X;O;CHW;Yasmani Grandal;Seth Martinez;-1%;85%;Flyball: SS (Short LF-CF)
+t8;3-1;1;---;6,(2-2) CFBFBX;;CHW;Oscar Colás;Seth Martinez;1%;86%;Single to 3B (Ground Ball)
+t8;3-1;1;1--;2,(1-0) 1B>B;;CHW;Elvis Andrus;Seth Martinez;1%;87%;Colás Steals 2B
+t8;3-1;1;-2-;4,(2-1) 1B>B.FX;O;CHW;Elvis Andrus;Seth Martinez;-2%;85%;Groundout: 3B-1B (SS-3B Hole)
+t8;3-1;2;-2-;3,(1-1) CBX;R;CHW;Tim Anderson;Seth Martinez;7%;92%;Double to CF (Fly Ball to Deep CF); Colás Scores
+t8;4-1;2;-2-;5,(3-1) BBBCX;O;CHW;Luis Robert Jr.;Seth Martinez;-1%;91%;Popfly: 1B (Weak 1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. White Sox 4, Astros 1.
+Bottom of the 8th, Astros Batting, Behind 1-4, White Sox' Kendall Graveman facing 5-6-7 
+;;;;;;;;;Kendall Graveman replaces Aaron Bummer pitching
+b8;1-4;0;---;5,(1-2) .CCBFC;O;HOU;David Hensley;Kendall Graveman;3%;94%;Strikeout Looking
+b8;1-4;1;---;4,(1-2) SBCX;;HOU;Chas McCormick;Kendall Graveman;-3%;91%;Single to CF (Ground Ball thru SS-2B)
+b8;1-4;1;1--;3,(0-2) CCC;O;HOU;Corey Julks;Kendall Graveman;4%;94%;Strikeout Looking
+b8;1-4;2;1--;4,(2-1) 1B1FBX;O;HOU;Mauricio Dubón;Kendall Graveman;2%;97%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 4, Astros 1.
+Top of the 9th, White Sox Batting, Ahead 4-1, Astros' Seth Martinez facing 3-4-5 
+t9;4-1;0;---;6,(3-2) BBCBC.B;;CHW;Andrew Benintendi;Seth Martinez;1%;97%;Walk
+t9;4-1;0;1--;3,(0-2) CFC;O;CHW;Eloy Jiménez;Seth Martinez;-1%;97%;Strikeout Looking
+t9;4-1;1;1--;2,(1-0) BX;RR;CHW;Yoán Moncada;Seth Martinez;3%;99%;Home Run (Fly Ball to Deep LF); Benintendi Scores
+t9;6-1;1;---;2,(0-1) CX;;CHW;Andrew Vaughn;Seth Martinez;0%;99%;Double to CF (Line Drive to Deep CF)
+t9;6-1;1;-2-;2,(0-1) CX;;CHW;Yasmani Grandal;Seth Martinez;0%;100%;Single to CF (Line Drive); Vaughn to 3B
+t9;6-1;1;1-3;1,(0-0) X;O;CHW;Oscar Colás;Seth Martinez;0%;99%;Flyball: LF (Short LF)
+t9;6-1;2;1-3;1,(0-0) X;O;CHW;Elvis Andrus;Seth Martinez;0%;99%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. White Sox 6, Astros 1.
+Bottom of the 9th, Astros Batting, Behind 1-6, White Sox' Reynaldo López facing 9-1-2 
+;;;;;;;;;Reynaldo López replaces Kendall Graveman pitchingHanser Alberto replaces Yoán Moncada playing 3B batting 5thCésar Salazar pinch hits for Martín Maldonado (C) batting 9th
+b9;1-6;0;---;6,(3-2) ...BBSBFB;;HOU;César Salazar;Reynaldo López;-1%;98%;Walk
+b9;1-6;0;1--;3,(0-2) CSB;;HOU;Jeremy Peña;Reynaldo López;0%;98%;Wild Pitch; Salazar to 2B
+b9;1-6;0;-2-;7,(3-2) CSB.FBBB;;HOU;Jeremy Peña;Reynaldo López;-2%;96%;Walk
+b9;1-6;0;12-;6,(2-2) S*BFFBS;O;HOU;Alex Bregman;Reynaldo López;2%;98%;Strikeout Swinging
+b9;1-6;1;12-;4,(2-1) FBBX;O;HOU;Kyle Tucker;Reynaldo López;1%;99%;Lineout: CF (Deep LF-CF)
+b9;1-6;2;12-;4,(1-2) SB.CX;R;HOU;José Abreu;Reynaldo López;-1%;99%;Single to RF (Ground Ball thru 2B-1B); Salazar Scores; Peña to 3B
+b9;2-6;2;1-3;5,(2-2) BFBFX;R;HOU;David Hensley;Reynaldo López;-3%;96%;Single to RF (Line Drive to Short RF); Peña Scores; Abreu to 2B
+b9;3-6;2;12-;3,(0-2) CCB;;HOU;Chas McCormick;Reynaldo López;-1%;95%;Balk; Abreu to 3B; Hensley to 2B
+b9;3-6;2;-23;5,(2-2) CCB.BX;O;HOU;Chas McCormick;Reynaldo López;5%;100%;Popfly: 1B (Deep 1B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 2 LOB. White Sox 6, Astros 3.

@@ -1,0 +1,278 @@
+
+Scorebox Meta
+20230901
+7:10 p.m. Local
+15105
+Guaranteed Rate Field
+163
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;0;0;0;0;2;1;0;1;0;4;11;0
+https://cdn.ssref.net/req/202309121/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;0;0;1;0;0;0;0;1;0;2;9;1
+
+Batting home
+Tim Anderson;/players/a/anderti01.shtml;SS;3;2;1;0;1;0;4;.241;.285;.297;.582;19;11;0.037; 0.80;0.076;-0.039;0%; 0.00; 0.3;0;2;
+Andrew Benintendi;/players/b/beninan01.shtml;LF;3;0;2;1;1;1;4;.274;.338;.372;.711;22;11;0.244; 1.33;0.280;-0.036;0%; 0.00; 2.1;3;1;2B
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;3;0;1;1;0;0;4;.272;.324;.560;.884;8;8;-0.156; 1.61;0.041;-0.197;0%; 0.00; -1.0;1;0;CS,SF
+Eloy Jiménez;/players/j/jimenel02.shtml;DH;4;0;1;0;0;1;4;.280;.325;.452;.776;17;11;-0.054; 1.24;0.058;-0.112;0%; 0.00; -0.1;;;2B
+Yoán Moncada;/players/m/moncayo01.shtml;3B;4;0;1;0;0;2;4;.248;.292;.378;.669;13;10;-0.053; 1.41;0.068;-0.121;0%; 0.00; -0.7;0;3;
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;4;0;2;0;0;0;4;.257;.317;.428;.745;13;8;0.060; 1.59;0.138;-0.078;0%; 0.00; 0.4;5;0;
+Lenyn Sosa;/players/s/sosale01.shtml;2B;4;0;1;0;0;1;4;.191;.198;.348;.546;11;9;-0.228; 1.94;0.068;-0.296;0%; 0.00; -1.7;5;3;2·GDP
+Oscar Colás;/players/c/colasos01.shtml;RF;4;0;0;0;0;3;4;.217;.258;.308;.566;16;10;-0.150; 1.63;0.000;-0.150;0%; 0.00; -1.0;2;0;
+Korey Lee;/players/l/leeko01.shtml;C;2;0;0;0;0;1;2;.000;.143;.000;.143;10;7;-0.043; 0.84;0.000;-0.043;0%; 0.00; -0.3;9;0;
+Yasmani Grandal;/players/g/grandya01.shtml;PH-C;1;0;0;0;0;0;1;.237;.311;.347;.658;7;5;-0.085; 3.03;0.000;-0.085;0%; 0.00; -0.5;2;0;
+Touki Toussaint;/players/t/toussto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Sammy Peralta;/players/p/peralsa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Lane Ramsey;/players/r/ramsela02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Shaw;/players/s/shawbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Eloy Jiménez (17, off Eduardo Rodriguez); Andrew Benintendi (30, off Beau Brieske).
+
+
+SF: Luis Robert Jr. (2, off Beau Brieske).
+
+
+TB: Andrew Benintendi 3; Andrew Vaughn 2; Eloy Jiménez 2; Lenyn Sosa; Luis Robert Jr.; Tim Anderson; Yoán Moncada.
+
+
+GIDP: Lenyn Sosa 2 (2).
+
+
+RBI: Andrew Benintendi (40); Luis Robert Jr. (71).
+
+
+2-out RBI: Andrew Benintendi.
+
+
+Team LOB: 6.
+With RISP: 2 for 10.
+
+Batting away
+Zach McKinstry;/players/m/mckinza01.shtml;2B;5;0;1;0;0;3;5;.237;.308;.364;.672;34;25;-0.121; 0.99;0.044;-0.164;-0.00%; 0.06; -0.9;3;4;SB
+Riley Greene;/players/g/greenri03.shtml;LF;3;0;2;2;0;0;3;.288;.349;.447;.796;8;5;0.248; 1.27;0.266;-0.018; 0.01%; 0.07; 1.8;1;0;SB
+Andre Lipcius;/players/l/lipcian01.shtml;PH-3B;2;0;0;0;0;1;2;.000;.000;.000;.000;10;6;-0.036; 0.52;0.000;-0.036;-0.00%; 0.04; -0.6;0;1;
+Matt Vierling;/players/v/vierlma01.shtml;3B-LF;3;0;1;0;1;1;5;.260;.319;.362;.682;19;9;0.000; 0.78;0.050;-0.050;0%; 0.05; 0.3;1;1;HBP
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;3;1;0;0;2;1;5;.226;.313;.430;.743;23;10;0.028; 1.13;0.096;-0.068; 0.00%; 0.07; 0.1;7;0;
+Kerry Carpenter;/players/c/carpeke01.shtml;RF;4;0;0;0;0;2;4;.283;.345;.519;.864;13;12;-0.160; 1.50;0.000;-0.160;-0.01%; 0.09; -1.8;4;0;
+Miguel Cabrera;/players/c/cabremi01.shtml;DH;4;0;2;0;0;0;4;.247;.314;.337;.651;15;11;0.006; 1.28;0.091;-0.085;0%; 0.08; 0.2;;;
+Akil Baddoo;/players/b/baddoak01.shtml;PR-DH-DH;0;1;0;0;0;0;0;.219;.306;.365;.672;;;0.017; 0.78;0.017;0.000; 0.00%; 0.05; 0.2;;;SB
+Parker Meadows;/players/m/meadopa01.shtml;CF;4;1;1;0;0;1;4;.289;.386;.474;.860;13;8;0.028; 1.22;0.076;-0.049; 0.00%; 0.07; -0.3;2;0;
+Jake Rogers;/players/r/rogerja03.shtml;C;4;1;3;1;0;1;4;.213;.285;.433;.718;10;9;0.131; 1.02;0.148;-0.017; 0.01%; 0.06; 1.5;9;1;
+Zack Short;/players/s/shortza01.shtml;SS;3;0;1;0;0;0;4;.224;.299;.365;.664;15;10;-0.070; 1.19;0.000;-0.070;-0.00%; 0.07; -1.2;0;2;SH,GDP
+Eduardo Rodriguez;/players/r/rodried05.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Beau Brieske;/players/b/briesbe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Will Vest;/players/v/vestwi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Alex Lange;/players/l/langeal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+SH: Zack Short (1, off Touki Toussaint).
+
+
+HBP: Matt Vierling (4, by Touki Toussaint).
+
+
+TB: Jake Rogers 3; Riley Greene 2; Miguel Cabrera 2; Zack Short; Matt Vierling; Parker Meadows; Zach McKinstry.
+
+
+GIDP: Zack Short (3).
+
+
+RBI: Riley Greene 2 (37); Jake Rogers (39).
+
+
+2-out RBI: Riley Greene 2.
+
+
+Team LOB: 9.
+With RISP: 3 for 12.
+
+Pitching home
+Touki Toussaint;/players/t/toussto01.shtml; L (2-7); 5.1;5;3;3;2;6;0;4.87;24;94;63;38;10;15;7;8;5;0;50;;;-0.071; 1.34; 0.00%; 0.00; -0.1
+Sammy Peralta;/players/p/peralsa01.shtml;Sammy Peralta; 0.2;3;0;0;0;0;0;1.93;4;14;10;8;0;2;1;3;2;0;;2;1;-0.030; 1.15; 0.00%; 0.00; -0.2
+Lane Ramsey;/players/r/ramsela02.shtml;Lane Ramsey; 1.1;2;1;1;1;3;0;4.38;7;34;19;9;6;4;2;1;1;0;;1;0;-0.006; 0.86; 0.00%; 0.00; -0.1
+Bryan Shaw;/players/s/shawbr01.shtml;Bryan Shaw; 1.2;1;0;0;0;1;0;6.18;5;18;13;8;2;3;2;2;1;0;;1;0;0.036; 0.27; 0.00%; 0.00; 1.1
+
+Pitching away
+Eduardo Rodriguez;/players/r/rodried05.shtml; W (10-7); 6.2;6;1;1;2;7;0;3.11;26;103;67;40;13;14;5;12;8;0;63;;;0.235; 1.21; 0.01%; 0.07; 2.2
+Beau Brieske;/players/b/briesbe01.shtml; H (3); 0.2;2;1;1;0;0;0;3.80;4;17;11;8;1;2;1;3;0;0;;2;0;-0.024; 2.28;-0.00%; 0.14; -0.7
+Will Vest;/players/v/vestwi01.shtml; H (8); 0.2;0;0;0;0;1;0;3.57;2;7;5;2;2;1;1;0;0;0;;1;0;0.122; 2.23; 0.00%; 0.13; 0.7
+Alex Lange;/players/l/langeal01.shtml; S (20); 1 ;1;0;0;0;1;0;3.86;3;9;7;3;3;1;2;0;0;0;;0;0;0.096; 2.00; 0.00%; 0.12; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Eduardo Rodriguez (2).
+HBP: Touki Toussaint (5; Matt Vierling).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Eduardo Rodriguez (2).
+HBP: Touki Toussaint (5; Matt Vierling).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Lance Barksdale, 1B - Ramon De Jesus, 2B - Will Little, 3B - Ryan Additon, LF - (none), RF - (none).
+Time of Game: 2:43.
+Attendance: 15,105.
+Field Condition: Unknown.
+Start Time Weather: 77° F, Wind 8mph in from Rightfield, Sunny, No Precipitation.
+
+div_lineups
+Tigers
+1;Zach McKinstry;/players/m/mckinza01.shtml;2B
+2;Riley Greene;/players/g/greenri03.shtml;LF
+3;Matt Vierling;/players/v/vierlma01.shtml;3B
+4;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+5;Kerry Carpenter;/players/c/carpeke01.shtml;RF
+6;Miguel Cabrera;/players/c/cabremi01.shtml;DH
+7;Parker Meadows;/players/m/meadopa01.shtml;CF
+8;Jake Rogers;/players/r/rogerja03.shtml;C
+9;Zack Short;/players/s/shortza01.shtml;SS
+; Eduardo Rodriguez;/players/r/rodried05.shtml;P
+White Sox
+1;Tim Anderson;/players/a/anderti01.shtml;SS
+2;Andrew Benintendi;/players/b/beninan01.shtml;LF
+3;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+4;Eloy Jiménez;/players/j/jimenel02.shtml;DH
+5;Yoán Moncada;/players/m/moncayo01.shtml;3B
+6;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+7;Lenyn Sosa;/players/s/sosale01.shtml;2B
+8;Oscar Colás;/players/c/colasos01.shtml;RF
+9;Korey Lee;/players/l/leeko01.shtml;C
+; Touki Toussaint;/players/t/toussto01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t5;0-1;2;-23;5,(2-2) *BBSFX;RR;DET;Riley Greene;Touki Toussaint;23%;61%;Single to RF (Ground Ball); Meadows Scores; Rogers Scores
+b9;2-4;0;1--;2,(0-1) SX;OO;CHW;Lenyn Sosa;Alex Lange;17%;98%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b8;1-4;0;1--;2,(1-0) BX;;CHW;Andrew Benintendi;Beau Brieske;-14%;72%;Double to LF (Fly Ball to Short LF Line); Anderson to 3B
+b3;0-0;2;-2-;8,(3-2) SFBBF>FB.X;R;CHW;Andrew Benintendi;Eduardo Rodriguez;-12%;35%;Single to CF (Line Drive); Anderson Scores; Benintendi to 2B
+b4;1-0;1;1-3;1,(0-0) X;OO;CHW;Lenyn Sosa;Eduardo Rodriguez;11%;36%;Ground Ball Double Play: SS-2B-1B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Tigers Batting, Tied 0-0, White Sox' Touki Toussaint facing 1-2-3 
+t1;0-0;0;---;4,(0-2) FSFS;O;DET;Zach McKinstry;Touki Toussaint;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;2,(1-0) BX;;DET;Riley Greene;Touki Toussaint;2%;50%;Single to RF (Line Drive to Deep RF)
+t1;0-0;1;1--;2,(1-0) BH;;DET;Matt Vierling;Touki Toussaint;4%;54%;Hit By Pitch; Greene to 2B
+t1;0-0;1;12-;6,(3-2) CBF*B*BB;;DET;Spencer Torkelson;Touki Toussaint;6%;60%;Walk; Greene to 3B; Vierling to 2B
+t1;0-0;1;123;4,(1-2) BFST;O;DET;Kerry Carpenter;Touki Toussaint;-7%;52%;Strikeout Swinging
+t1;0-0;2;123;3,(1-1) BCX;O;DET;Miguel Cabrera;Touki Toussaint;-7%;45%;Lineout: LF (Deep LF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Tigers 0, White Sox 0.
+Bottom of the 1st, White Sox Batting, Tied 0-0, Tigers' Eduardo Rodriguez facing 1-2-3 
+b1;0-0;0;---;4,(1-2) CFBX;O;CHW;Tim Anderson;Eduardo Rodriguez;2%;47%;Groundout: 2B-1B
+b1;0-0;1;---;6,(3-2) FS.BBBB;;CHW;Andrew Benintendi;Eduardo Rodriguez;-2%;45%;Walk
+b1;0-0;1;1--;3,(0-2) FSX;O;CHW;Luis Robert Jr.;Eduardo Rodriguez;2%;47%;Groundout: 2B-1B (2B-1B); Benintendi to 2B
+b1;0-0;2;-2-;4,(1-2) BCFS;O;CHW;Eloy Jiménez;Eduardo Rodriguez;3%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Tigers 0, White Sox 0.
+Top of the 2nd, Tigers Batting, Tied 0-0, White Sox' Touki Toussaint facing 7-8-9 
+t2;0-0;0;---;3,(1-1) FBX;O;DET;Parker Meadows;Touki Toussaint;-2%;48%;Groundout: SS-1B (SS-2B)
+t2;0-0;1;---;3,(0-2) FCS;O;DET;Jake Rogers;Touki Toussaint;-2%;46%;Strikeout Swinging
+t2;0-0;2;---;6,(3-2) BBCBFX;O;DET;Zack Short;Touki Toussaint;-1%;45%;Foul Popfly: 2B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, White Sox 0.
+Bottom of the 2nd, White Sox Batting, Tied 0-0, Tigers' Eduardo Rodriguez facing 5-6-7 
+b2;0-0;0;---;3,(1-1) BFX;O;CHW;Yoán Moncada;Eduardo Rodriguez;2%;47%;Groundout: 3B-1B (SS-3B Hole)
+b2;0-0;1;---;3,(2-0) BBX;O;CHW;Andrew Vaughn;Eduardo Rodriguez;2%;49%;Foul Popfly: RF (Short RF into Foul Terr.)
+b2;0-0;2;---;4,(1-2) FF.BC;O;CHW;Lenyn Sosa;Eduardo Rodriguez;1%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, White Sox 0.
+Top of the 3rd, Tigers Batting, Tied 0-0, White Sox' Touki Toussaint facing 1-2-3 
+t3;0-0;0;---;10,(3-2) BCFBBFFFFX;O;DET;Zach McKinstry;Touki Toussaint;-3%;47%;Groundout: 2B-1B (Deep 2B-1B)
+t3;0-0;1;---;1,(0-0) X;O;DET;Riley Greene;Touki Toussaint;-2%;46%;Flyball: RF (Deep CF-RF)
+t3;0-0;2;---;5,(2-2) BCFBS;O;DET;Matt Vierling;Touki Toussaint;-1%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, White Sox 0.
+Bottom of the 3rd, White Sox Batting, Tied 0-0, Tigers' Eduardo Rodriguez facing 8-9-1 
+b3;0-0;0;---;4,(1-2) FSBS;O;CHW;Oscar Colás;Eduardo Rodriguez;3%;47%;Strikeout Swinging
+b3;0-0;1;---;5,(1-2) BFFF.S;O;CHW;Korey Lee;Eduardo Rodriguez;2%;49%;Strikeout Swinging
+b3;0-0;2;---;7,(3-2) SFBBB.FB;;CHW;Tim Anderson;Eduardo Rodriguez;-1%;47%;Walk
+b3;0-0;2;1--;7,(2-2) SFBBF>FB;;CHW;Andrew Benintendi;Eduardo Rodriguez;-1%;46%;Wild Pitch; Anderson to 2B
+b3;0-0;2;-2-;8,(3-2) SFBBF>FB.X;R;CHW;Andrew Benintendi;Eduardo Rodriguez;-12%;35%;Single to CF (Line Drive); Anderson Scores; Benintendi to 2B
+b3;1-0;2;-2-;3,(0-2) FSX;O;CHW;Luis Robert Jr.;Eduardo Rodriguez;3%;38%;Groundout: P-1B (P's Right)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Tigers 0, White Sox 1.
+Top of the 4th, Tigers Batting, Behind 0-1, White Sox' Touki Toussaint facing 4-5-6 
+t4;0-1;0;---;2,(1-0) BX;O;DET;Spencer Torkelson;Touki Toussaint;-3%;35%;Groundout: 3B-1B (Deep SS-3B Hole)
+t4;0-1;1;---;1,(0-0) X;O;DET;Kerry Carpenter;Touki Toussaint;-2%;33%;Foul Popfly: LF (LF into Foul Terr.)
+t4;0-1;2;---;5,(2-2) .CBBFX;O;DET;Miguel Cabrera;Touki Toussaint;-1%;32%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, White Sox 1.
+Bottom of the 4th, White Sox Batting, Ahead 1-0, Tigers' Eduardo Rodriguez facing 4-5-6 
+b4;1-0;0;---;6,(2-2) BBCCFX;;CHW;Eloy Jiménez;Eduardo Rodriguez;-6%;26%;Double to RF (Line Drive to Deep RF)
+b4;1-0;0;-2-;3,(0-2) CCS;O;CHW;Yoán Moncada;Eduardo Rodriguez;4%;30%;Strikeout Swinging
+b4;1-0;1;-2-;4,(1-2) FBF.X;;CHW;Andrew Vaughn;Eduardo Rodriguez;-4%;25%;Single to CF (Line Drive to Deep CF); Jiménez to 3B
+b4;1-0;1;1-3;1,(0-0) X;OO;CHW;Lenyn Sosa;Eduardo Rodriguez;11%;36%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Tigers 0, White Sox 1.
+Top of the 5th, Tigers Batting, Behind 0-1, White Sox' Touki Toussaint facing 7-8-9 
+t5;0-1;0;---;2,(0-1) CX;;DET;Parker Meadows;Touki Toussaint;5%;42%;Single to RF (Ground Ball)
+t5;0-1;0;1--;3,(0-2) C1FX;;DET;Jake Rogers;Touki Toussaint;8%;49%;Single to LF (Line Drive to Short LF-CF); Meadows to 2B
+t5;0-1;0;12-;2,(0-1) LX;O;DET;Zack Short;Touki Toussaint;-1%;49%;Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Meadows to 3B; Rogers to 2B
+t5;0-1;1;-23;7,(3-2) BCSBFBS;O;DET;Zach McKinstry;Touki Toussaint;-11%;38%;Strikeout Swinging
+t5;0-1;2;-23;5,(2-2) *BBSFX;RR;DET;Riley Greene;Touki Toussaint;23%;61%;Single to RF (Ground Ball); Meadows Scores; Rogers Scores
+t5;2-1;2;1--;4,(0-2) CC.F1>B;;DET;Matt Vierling;Touki Toussaint;1%;62%;Greene Steals 2B
+t5;2-1;2;-2-;5,(1-2) CC.F1>B.X;O;DET;Matt Vierling;Touki Toussaint;-4%;58%;Groundout: P-2B-1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Tigers 2, White Sox 1.
+Bottom of the 5th, White Sox Batting, Behind 1-2, Tigers' Eduardo Rodriguez facing 8-9-1 
+b5;1-2;0;---;5,(2-2) BFCBC;O;CHW;Oscar Colás;Eduardo Rodriguez;3%;62%;Strikeout Looking
+b5;1-2;1;---;5,(2-2) BSS.BX;O;CHW;Korey Lee;Eduardo Rodriguez;2%;64%;Lineout: RF
+b5;1-2;2;---;1,(0-0) X;O;CHW;Tim Anderson;Eduardo Rodriguez;2%;66%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 2, White Sox 1.
+Top of the 6th, Tigers Batting, Ahead 2-1, White Sox' Touki Toussaint facing 4-5-6 
+t6;2-1;0;---;5,(3-1) BBBCB;;DET;Spencer Torkelson;Touki Toussaint;4%;70%;Walk
+t6;2-1;0;1--;5,(0-2) CSFF*S;O;DET;Kerry Carpenter;Touki Toussaint;-4%;66%;Strikeout Swinging
+t6;2-1;1;1--;3,(0-2) CFX;;DET;Miguel Cabrera;Touki Toussaint;7%;73%;Single to RF (Line Drive to RF Line); Torkelson to 3B
+;;;;;;;;;Sammy Peralta replaces Touki Toussaint pitching
+t6;2-1;1;1-3;2,(1-0) .BX;RO;DET;Parker Meadows;Sammy Peralta;2%;76%;Flyball: 2B (Short CF-RF); Torkelson Scores/Adv on E4 (throw)/No RBI
+t6;3-1;2;1--;1,(0-0) X;;DET;Jake Rogers;Sammy Peralta;1%;77%;Single to LF (Line Drive to Deep LF); Cabrera to 2B
+t6;3-1;2;12-;5,(2-2) BTBFX;O;DET;Zack Short;Sammy Peralta;-3%;74%;Single to LF (Line Drive); Cabrera out at Hm/LF-C; Rogers to 2B
+;;;;;;;;;Tag play Challenged by DET manager (A.J. Hinch): Original call upheld upon review.
+;;;;;;;;;1 run, 3 hits, 1 error, 2 LOB. Tigers 3, White Sox 1.
+Bottom of the 6th, White Sox Batting, Behind 1-3, Tigers' Eduardo Rodriguez facing 2-3-4 
+b6;1-3;0;---;6,(3-2) TC.BBBC;O;CHW;Andrew Benintendi;Eduardo Rodriguez;4%;77%;Strikeout Looking
+b6;1-3;1;---;1,(0-0) X;;CHW;Luis Robert Jr.;Eduardo Rodriguez;-4%;73%;Single to CF (Fly Ball to Short CF)
+b6;1-3;1;1--;2,(1-0) B>C;O;CHW;Eloy Jiménez;Eduardo Rodriguez;7%;80%;Robert Caught Stealing 2B (C-2B)
+b6;1-3;2;---;5,(3-1) B>C.BBX;O;CHW;Eloy Jiménez;Eduardo Rodriguez;2%;81%;Lineout: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Tigers 3, White Sox 1.
+Top of the 7th, Tigers Batting, Ahead 3-1, White Sox' Sammy Peralta facing 1-2-3 
+t7;3-1;0;---;6,(1-2) CCFBFX;;DET;Zach McKinstry;Sammy Peralta;2%;84%;Single to CF (Ground Ball thru SS-2B)
+;;;;;;;;;Lane Ramsey replaces Sammy Peralta pitchingAndre Lipcius pinch hits for Riley Greene (LF) batting 2nd
+t7;3-1;0;1--;4,(2-1) ..1BBS>B;;DET;Andre Lipcius;Lane Ramsey;2%;86%;McKinstry Steals 2B
+t7;3-1;0;-2-;6,(3-2) ..1BBS>B.FS;O;DET;Andre Lipcius;Lane Ramsey;-3%;83%;Strikeout Swinging
+t7;3-1;1;-2-;5,(3-1) 2*BTB*BB;;DET;Matt Vierling;Lane Ramsey;1%;84%;Walk
+t7;3-1;1;12-;7,(3-2) BCFF*BBS;O;DET;Spencer Torkelson;Lane Ramsey;-3%;81%;Strikeout Swinging
+t7;3-1;2;12-;3,(0-2) CFX;O;DET;Kerry Carpenter;Lane Ramsey;-3%;78%;Lineout: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Tigers 3, White Sox 1.
+Bottom of the 7th, White Sox Batting, Behind 1-3, Tigers' Eduardo Rodriguez facing 5-6-7 
+;;;;;;;;;Andre Lipcius moves from PH to 3B Matt Vierling moves from 3B to LF 
+b7;1-3;0;---;2,(0-1) ..CX;;CHW;Yoán Moncada;Eduardo Rodriguez;-7%;71%;Single to CF (Line Drive)
+b7;1-3;0;1--;4,(2-1) CBBX;O;CHW;Andrew Vaughn;Eduardo Rodriguez;6%;77%;Flyball: RF (Short RF Line)
+b7;1-3;1;1--;4,(1-2) BFSX;;CHW;Lenyn Sosa;Eduardo Rodriguez;-7%;70%;Single to RF (Line Drive to Short RF); Moncada to 2B
+b7;1-3;1;12-;2,(1-0) BX;O;CHW;Oscar Colás;Eduardo Rodriguez;7%;78%;Flyball: CF (Deep CF); Moncada to 3B
+;;;;;;;;;Beau Brieske replaces Eduardo Rodriguez pitchingYasmani Grandal pinch hits for Korey Lee (C) batting 9th
+b7;1-3;2;1-3;7,(2-2) ..BCSBFFX;O;CHW;Yasmani Grandal;Beau Brieske;9%;86%;Flyball: LF (Short LF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Tigers 3, White Sox 1.
+Top of the 8th, Tigers Batting, Ahead 3-1, White Sox' Lane Ramsey facing 6-7-8 
+;;;;;;;;;Yasmani Grandal moves from PH to C 
+t8;3-1;0;---;4,(1-2) .BCS.X;;DET;Miguel Cabrera;Lane Ramsey;2%;88%;Single to CF (Ground Ball thru SS-2B)
+;;;;;;;;;Akil Baddoo pinch runs for Miguel Cabrera (DH) batting 6th
+t8;3-1;0;1--;2,(1-0) .B1>B;;DET;Parker Meadows;Lane Ramsey;2%;90%;Baddoo Steals 2B
+t8;3-1;0;-2-;6,(3-2) .B1>B.C*SBT;O;DET;Parker Meadows;Lane Ramsey;-2%;87%;Strikeout Swinging
+t8;3-1;1;-2-;3,(1-1) BSX;R;DET;Jake Rogers;Lane Ramsey;6%;93%;Single to CF (Ground Ball thru SS-2B); Baddoo Scores
+;;;;;;;;;Bryan Shaw replaces Lane Ramsey pitching
+t8;4-1;1;1--;2,(0-1) .SX;OO;DET;Zack Short;Bryan Shaw;-2%;91%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Tigers 4, White Sox 1.
+Bottom of the 8th, White Sox Batting, Behind 1-4, Tigers' Beau Brieske facing 1-2-3 
+b8;1-4;0;---;7,(3-2) .FBBCFBX;;CHW;Tim Anderson;Beau Brieske;-5%;86%;Single to CF (Ground Ball thru SS-2B)
+b8;1-4;0;1--;2,(1-0) BX;;CHW;Andrew Benintendi;Beau Brieske;-14%;72%;Double to LF (Fly Ball to Short LF Line); Anderson to 3B
+b8;1-4;0;-23;1,(0-0) X;RO;CHW;Luis Robert Jr.;Beau Brieske;8%;80%;Flyball: RF/Sacrifice Fly (CF-RF); Anderson Scores
+;;;;;;;;;Will Vest replaces Beau Brieske pitching
+b8;2-4;1;-2-;2,(0-1) .SX;O;CHW;Eloy Jiménez;Will Vest;6%;87%;Groundout: P-SS-1B; Benintendi to 3B
+b8;2-4;2;--3;5,(2-2) BFBSC;O;CHW;Yoán Moncada;Will Vest;6%;92%;Strikeout Looking
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Tigers 4, White Sox 2.
+Top of the 9th, Tigers Batting, Ahead 4-2, White Sox' Bryan Shaw facing 1-2-3 
+t9;4-2;0;---;7,(2-2) CCBFFBT;O;DET;Zach McKinstry;Bryan Shaw;-1%;91%;Strikeout Swinging
+t9;4-2;1;---;4,(1-2) FS.BX;O;DET;Andre Lipcius;Bryan Shaw;-1%;91%;Flyball: RF (Deep RF Line)
+t9;4-2;2;---;2,(1-0) BX;;DET;Matt Vierling;Bryan Shaw;0%;91%;Single to CF (Line Drive to Deep CF)
+t9;4-2;2;1--;3,(1-1) *BCX;O;DET;Spencer Torkelson;Bryan Shaw;-1%;90%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Torkelson to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Tigers 4, White Sox 2.
+Bottom of the 9th, White Sox Batting, Behind 2-4, Tigers' Alex Lange facing 6-7-8 
+;;;;;;;;;Alex Lange replaces Will Vest pitching
+b9;2-4;0;---;2,(0-1) .CX;;CHW;Andrew Vaughn;Alex Lange;-9%;81%;Single to 3B (Ground Ball to SS-3B Hole)
+b9;2-4;0;1--;2,(0-1) SX;OO;CHW;Lenyn Sosa;Alex Lange;17%;98%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b9;2-4;2;---;5,(2-2) BS.BF*S;O;CHW;Oscar Colás;Alex Lange;2%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Tigers 4, White Sox 2.

@@ -1,0 +1,279 @@
+
+Scorebox Meta
+20230515
+6:35 p.m. Local
+20148
+Oriole Park at Camden Yards
+171
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;1;2;5;1;0;0;0;0;9;17;0
+https://cdn.ssref.net/req/202308101/tlogo/br/BAL-2023.png;/teams/BAL/2023.shtml;0;2;2;0;1;0;0;0;0;5;6;0
+
+Batting home
+Cedric Mullins;/players/m/mullice01.shtml;CF;4;1;1;1;0;0;4;.267;.357;.480;.837;15;11;-0.019; 0.80;0.036;-0.055;-0.01%; 0.88; 0.4;6;0;HR
+Adley Rutschman;/players/r/rutscad01.shtml;C;4;1;1;0;0;1;4;.286;.409;.449;.858;16;10;-0.093; 0.73;0.017;-0.109;-0.06%; 0.80; -0.7;8;0;
+Anthony Santander;/players/s/santaan02.shtml;1B;4;1;2;2;0;1;4;.262;.329;.469;.798;17;11;0.237; 0.71;0.266;-0.029; 0.15%; 0.78; 1.9;4;0;HR
+Ryan Mountcastle;/players/m/mountry01.shtml;DH;4;0;0;0;0;2;4;.244;.271;.453;.724;18;12;-0.082; 0.85;0.000;-0.082;-0.05%; 0.93; -1.0;;;
+Gunnar Henderson;/players/h/hendegu01.shtml;3B;4;1;1;0;0;1;4;.180;.336;.342;.678;14;10;-0.022; 0.66;0.028;-0.050;-0.01%; 0.72; -0.5;0;1;
+Austin Hays;/players/h/haysau01.shtml;LF;4;0;0;0;0;1;4;.300;.343;.477;.820;17;10;-0.072; 0.73;0.000;-0.072;-0.05%; 0.80; -0.9;1;0;
+Adam Frazier;/players/f/fraziad01.shtml;2B;4;1;1;2;0;0;4;.227;.324;.370;.693;12;7;0.191; 0.45;0.214;-0.023; 0.12%; 0.49; 1.5;3;0;HR
+Terrin Vavra;/players/v/vavrate01.shtml;RF;2;0;0;0;1;0;3;.214;.333;.214;.548;11;6;-0.014; 0.37;0.009;-0.023;-0.01%; 0.40; -0.2;5;0;
+Joey Ortiz;/players/o/ortizjo06.shtml;PH;1;0;0;0;0;1;1;.167;.154;.167;.321;6;4;-0.002; 0.06;0.000;-0.002;-0.00%; 0.07; -0.1;;;
+Jorge Mateo;/players/m/mateojo01.shtml;SS;2;0;0;0;1;0;3;.259;.309;.473;.782;7;3;0.051; 0.92;0.073;-0.022; 0.03%; 1.00; 0.2;0;2;SB
+Grayson Rodriguez;/players/r/rodrigr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Logan Gillaspie;/players/g/gillalo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Austin Voth;/players/v/vothau01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Baker;/players/b/bakerbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Danny Coulombe;/players/c/couloda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Mike Baumann;/players/b/baumami01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Adam Frazier (4, off Shohei Ohtani, 2nd inn, 1 on, 2 outs to Deep RF); Anthony Santander (6, off Shohei Ohtani, 3rd inn, 1 on, 2 outs to Deep CF); Cedric Mullins (6, off Shohei Ohtani, 5th inn, 0 on, 2 outs to Deep RF).
+
+
+TB: Anthony Santander 5; Adam Frazier 4; Cedric Mullins 4; Adley Rutschman; Gunnar Henderson.
+
+
+RBI: Adam Frazier 2 (16); Anthony Santander 2 (22); Cedric Mullins (32).
+
+
+2-out RBI: Adam Frazier 2; Anthony Santander 2; Cedric Mullins.
+
+
+Team LOB: 3.
+With RISP: 0 for 4.
+
+Batting away
+Taylor Ward;/players/w/wardta01.shtml;LF;6;1;2;0;0;2;6;.244;.326;.346;.672;26;17;-0.017; 0.48;0.036;-0.052;-0.01%; 0.47; -0.3;1;0;
+Brett Phillips;/players/p/phillbr02.shtml;LF;0;0;0;0;0;0;0;.077;.250;.077;.327;;;;;;;;;;1;0;
+Mike Trout;/players/t/troutmi01.shtml;CF;5;1;2;0;1;0;6;.281;.369;.503;.873;23;13;0.004; 0.60;0.051;-0.047; 0.00%; 0.58; 0.3;3;0;
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH-DH;5;3;4;3;1;0;6;.303;.377;.555;.932;22;15;0.306; 0.68;0.314;-0.008; 0.18%; 0.65; 2.8;0;0;HR,3B
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;5;1;2;1;1;2;6;.258;.314;.503;.817;22;15;0.041; 0.60;0.088;-0.048; 0.02%; 0.58; 0.4;1;0;2·2B
+Matt Thaiss;/players/t/thaisma01.shtml;1B;4;1;1;1;1;2;5;.288;.386;.390;.776;20;13;0.024; 0.79;0.092;-0.069; 0.01%; 0.76; 0.2;10;0;2B
+Gio Urshela;/players/u/urshegi01.shtml;3B;4;0;2;2;1;0;5;.289;.313;.338;.651;20;13;0.201; 0.74;0.231;-0.030; 0.12%; 0.71; 1.9;0;4;2B
+Luis Rengifo;/players/r/rengilu01.shtml;2B;5;1;1;0;0;1;5;.212;.319;.293;.612;25;16;-0.032; 0.57;0.026;-0.058;-0.02%; 0.55; -1.0;1;3;
+Chad Wallach;/players/w/wallach01.shtml;C;5;1;3;1;0;1;5;.314;.333;.600;.933;17;11;0.197; 0.66;0.204;-0.007; 0.11%; 0.64; 1.7;8;0;HR
+Zach Neto;/players/n/netoza01.shtml;SS;4;0;0;1;0;0;5;.240;.308;.365;.673;14;11;-0.049; 0.88;0.012;-0.061;-0.03%; 0.84; -1.4;2;3;SF
+Shohei Ohtani;/players/o/ohtansh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chris Devenski;/players/d/devench02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matt Moore;/players/m/moorema02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Hunter Renfroe 2 (9, 1 off Grayson Rodriguez, 1 off Logan Gillaspie); Gio Urshela (4, off Grayson Rodriguez); Matt Thaiss (3, off Logan Gillaspie).
+
+
+3B: Shohei Ohtani (2, off Logan Gillaspie).
+
+
+HR: Chad Wallach (3, off Grayson Rodriguez, 4th inn, 0 on, 0 outs to Deep RF); Shohei Ohtani (9, off Grayson Rodriguez, 4th inn, 2 on, 1 out to Deep RF).
+
+
+SF: Zach Neto (1, off Grayson Rodriguez).
+
+
+TB: Shohei Ohtani 9; Chad Wallach 6; Hunter Renfroe 4; Gio Urshela 3; Matt Thaiss 2; Mike Trout 2; Taylor Ward 2; Luis Rengifo.
+
+
+RBI: Shohei Ohtani 3 (29); Gio Urshela 2 (16); Zach Neto (12); Chad Wallach (7); Matt Thaiss (8); Hunter Renfroe (28).
+
+
+2-out RBI: Gio Urshela 2; Hunter Renfroe.
+
+
+Team LOB: 13.
+With RISP: 4 for 12.
+
+Pitching home
+Grayson Rodriguez;/players/r/rodrigr01.shtml; L (2-1); 3.1;9;8;8;3;3;2;6.57;22;79;47;31;6;10;4;12;7;0;10;;;-0.642; 1.11;-0.42%; 1.22; -5.5
+Logan Gillaspie;/players/g/gillalo01.shtml;Logan Gillaspie; 1.2;4;1;1;1;1;0;6.75;10;40;26;20;2;4;1;7;6;0;;1;1;-0.070; 0.50;-0.05%; 0.55; -1.0
+Austin Voth;/players/v/vothau01.shtml;Austin Voth; 1 ;0;0;0;0;0;0;4.71;3;16;12;8;1;3;0;3;2;0;;0;0;0.015; 0.19; 0.01%; 0.21; 0.5
+Bryan Baker;/players/b/bakerbr01.shtml;Bryan Baker; 1 ;2;0;0;0;1;0;1.80;5;19;15;9;2;4;2;2;2;0;;0;0;0.011; 0.28; 0.01%; 0.31; 0.5
+Danny Coulombe;/players/c/couloda01.shtml;Danny Coulombe; 1 ;1;0;0;0;1;0;3.14;4;16;11;8;1;2;2;1;0;0;;0;0;0.008; 0.13; 0.01%; 0.14; 0.5
+Mike Baumann;/players/b/baumami01.shtml;Mike Baumann; 1 ;1;0;0;1;2;0;3.27;5;19;13;6;3;4;0;2;1;0;;0;0;0.004; 0.05; 0.00%; 0.06; 0.5
+
+Pitching away
+Shohei Ohtani;/players/o/ohtansh01.shtml; W (5-1); 7 ;4;5;5;2;5;3;3.23;27;98;61;32;9;20;10;10;4;0;52;;;-0.220; 0.70;-0.13%; 0.68; -1.5
+Chris Devenski;/players/d/devench02.shtml;Chris Devenski; 1 ;2;0;0;0;1;0;2.61;5;22;15;9;3;3;0;4;2;0;;0;0;0.027; 0.83; 0.02%; 0.81; 0.5
+Matt Moore;/players/m/moorema02.shtml;Matt Moore; 1 ;0;0;0;0;1;0;1.29;3;13;8;5;3;0;1;1;0;0;;0;0;0.018; 0.23; 0.01%; 0.22; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Brian O'Nora, 1B - Pat Hoberg, 2B - Emil Jimenez, 3B - Nestor Ceja, LF - (none), RF - (none).
+Time of Game: 2:51.
+Attendance: 20,148.
+Field Condition: Unknown.
+Start Time Weather: 74° F, Wind 7mph out to Rightfield, Sunny, No Precipitation.
+
+div_lineups
+Angels
+1;Taylor Ward;/players/w/wardta01.shtml;LF
+2;Mike Trout;/players/t/troutmi01.shtml;CF
+3;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+4;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+5;Matt Thaiss;/players/t/thaisma01.shtml;1B
+6;Gio Urshela;/players/u/urshegi01.shtml;3B
+7;Luis Rengifo;/players/r/rengilu01.shtml;2B
+8;Chad Wallach;/players/w/wallach01.shtml;C
+9;Zach Neto;/players/n/netoza01.shtml;SS
+; Shohei Ohtani;/players/o/ohtansh01.shtml;P
+Orioles
+1;Cedric Mullins;/players/m/mullice01.shtml;CF
+2;Adley Rutschman;/players/r/rutscad01.shtml;C
+3;Anthony Santander;/players/s/santaan02.shtml;1B
+4;Ryan Mountcastle;/players/m/mountry01.shtml;DH
+5;Gunnar Henderson;/players/h/hendegu01.shtml;3B
+6;Austin Hays;/players/h/haysau01.shtml;LF
+7;Adam Frazier;/players/f/fraziad01.shtml;2B
+8;Terrin Vavra;/players/v/vavrate01.shtml;RF
+9;Jorge Mateo;/players/m/mateojo01.shtml;SS
+; Grayson Rodriguez;/players/r/rodrigr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t4;4-4;1;12-;1,(0-0) X;RRR;LAA;Shohei Ohtani;Grayson Rodriguez;26%;81%;Home Run (Fly Ball to Deep RF); Ward Scores; Trout Scores
+b3;2-3;2;1--;1,(0-0) X;RR;BAL;Anthony Santander;Shohei Ohtani;-24%;36%;Home Run (Fly Ball to Deep CF); Rutschman Scores
+t3;1-2;2;12-;3,(0-2) C*SX;RR;LAA;Gio Urshela;Grayson Rodriguez;22%;60%;Double to LF (Ground Ball); Ohtani Scores; Thaiss Scores
+b2;0-1;2;1--;5,(2-2) FBBF1X;RR;BAL;Adam Frazier;Shohei Ohtani;-21%;38%;Home Run (Fly Ball to Deep RF); Henderson Scores
+t4;3-4;0;---;5,(3-1) BSBBX;R;LAA;Chad Wallach;Grayson Rodriguez;13%;50%;Home Run (Fly Ball to Deep RF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, Orioles' Grayson Rodriguez facing 1-2-3 
+t1;0-0;0;---;5,(2-2) FBCBS;O;LAA;Taylor Ward;Grayson Rodriguez;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;3,(2-0) BBX;O;LAA;Mike Trout;Grayson Rodriguez;-2%;46%;Groundout: 3B-1B
+t1;0-0;2;---;4,(3-0) BBBB;;LAA;Shohei Ohtani;Grayson Rodriguez;1%;47%;Walk
+t1;0-0;2;1--;3,(1-1) BCX;;LAA;Hunter Renfroe;Grayson Rodriguez;4%;51%;Double to LF (Line Drive to Short LF Line); Ohtani to 3B
+t1;0-0;2;-23;4,(1-2) TFBT;O;LAA;Matt Thaiss;Grayson Rodriguez;-6%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Angels 0, Orioles 0.
+Bottom of the 1st, Orioles Batting, Tied 0-0, Angels' Shohei Ohtani facing 1-2-3 
+b1;0-0;0;---;2,(0-1) CX;O;BAL;Cedric Mullins;Shohei Ohtani;2%;47%;Groundout: 1B unassisted
+b1;0-0;1;---;6,(3-2) CBBBC.X;O;BAL;Adley Rutschman;Shohei Ohtani;2%;49%;Groundout: 2B-1B (2B-1B)
+b1;0-0;2;---;7,(3-2) BSBFBFT;O;BAL;Anthony Santander;Shohei Ohtani;1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Orioles 0.
+Top of the 2nd, Angels Batting, Tied 0-0, Orioles' Grayson Rodriguez facing 6-7-8 
+t2;0-0;0;---;2,(1-0) BX;O;LAA;Gio Urshela;Grayson Rodriguez;-2%;48%;Flyball: RF
+t2;0-0;1;---;1,(0-0) X;;LAA;Luis Rengifo;Grayson Rodriguez;3%;50%;Single to RF (Line Drive to Deep CF-RF)
+t2;0-0;1;1--;4,(2-1) B1CBX;;LAA;Chad Wallach;Grayson Rodriguez;7%;57%;Single to LF (Line Drive to LF Line); Rengifo to 3B
+t2;0-0;1;1-3;2,(0-1) FX;RO;LAA;Zach Neto;Grayson Rodriguez;1%;58%;Flyball: CF/Sacrifice Fly (Deep CF); Rengifo Scores
+t2;1-0;2;1--;5,(2-2) BBFCX;O;LAA;Taylor Ward;Grayson Rodriguez;-2%;56%;Popfly: 1B (Short 1B Line)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Angels 1, Orioles 0.
+Bottom of the 2nd, Orioles Batting, Behind 0-1, Angels' Shohei Ohtani facing 4-5-6 
+b2;0-1;0;---;6,(1-2) CBSFFX;O;BAL;Ryan Mountcastle;Shohei Ohtani;3%;59%;Groundout: SS-1B
+b2;0-1;1;---;1,(0-0) X;;BAL;Gunnar Henderson;Shohei Ohtani;-3%;56%;Single to RF (Line Drive)
+b2;0-1;1;1--;4,(2-1) C+1*BBX;O;BAL;Austin Hays;Shohei Ohtani;3%;59%;Popfly: 2B (Deep 2B-1B)
+b2;0-1;2;1--;5,(2-2) FBBF1X;RR;BAL;Adam Frazier;Shohei Ohtani;-21%;38%;Home Run (Fly Ball to Deep RF); Henderson Scores
+b2;2-1;2;---;3,(0-2) CFX;O;BAL;Terrin Vavra;Shohei Ohtani;1%;39%;Lineout: SS (SS-2B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Angels 1, Orioles 2.
+Top of the 3rd, Angels Batting, Behind 1-2, Orioles' Grayson Rodriguez facing 2-3-4 
+t3;1-2;0;---;3,(1-1) CBX;O;LAA;Mike Trout;Grayson Rodriguez;-3%;36%;Lineout: CF (Deep CF)
+t3;1-2;1;---;3,(1-1) BCX;;LAA;Shohei Ohtani;Grayson Rodriguez;3%;39%;Single to RF (Ground Ball)
+t3;1-2;1;1--;1,(0-0) X;O;LAA;Hunter Renfroe;Grayson Rodriguez;-3%;36%;Lineout: CF (Deep CF)
+t3;1-2;2;1--;5,(3-1) *SB1BBB;;LAA;Matt Thaiss;Grayson Rodriguez;2%;38%;Walk; Ohtani to 2B
+t3;1-2;2;12-;3,(0-2) C*SX;RR;LAA;Gio Urshela;Grayson Rodriguez;22%;60%;Double to LF (Ground Ball); Ohtani Scores; Thaiss Scores
+t3;3-2;2;-2-;5,(2-2) SBCBS;O;LAA;Luis Rengifo;Grayson Rodriguez;-3%;57%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Angels 3, Orioles 2.
+Bottom of the 3rd, Orioles Batting, Behind 2-3, Angels' Shohei Ohtani facing 9-1-2 
+b3;2-3;0;---;5,(3-1) BBBCB;;BAL;Jorge Mateo;Shohei Ohtani;-4%;52%;Walk
+b3;2-3;0;1--;2,(1-0) B>C;;BAL;Cedric Mullins;Shohei Ohtani;-3%;49%;Mateo Steals 2B
+b3;2-3;0;-2-;4,(1-2) B>C.SX;O;BAL;Cedric Mullins;Shohei Ohtani;2%;51%;Groundout: SS-1B (Deep SS-2B); Mateo to 3B
+b3;2-3;1;--3;3,(1-1) CBX;O;BAL;Adley Rutschman;Shohei Ohtani;9%;60%;Fielder's Choice ; Mateo out at Hm/3B-C; Rutschman to 1B
+b3;2-3;2;1--;1,(0-0) X;RR;BAL;Anthony Santander;Shohei Ohtani;-24%;36%;Home Run (Fly Ball to Deep CF); Rutschman Scores
+b3;4-3;2;---;6,(3-2) BBBCC.S;O;BAL;Ryan Mountcastle;Shohei Ohtani;1%;37%;Strikeout Swinging
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Angels 3, Orioles 4.
+Top of the 4th, Angels Batting, Behind 3-4, Orioles' Grayson Rodriguez facing 8-9-1 
+t4;3-4;0;---;5,(3-1) BSBBX;R;LAA;Chad Wallach;Grayson Rodriguez;13%;50%;Home Run (Fly Ball to Deep RF)
+t4;4-4;0;---;4,(0-2) CC.FX;O;LAA;Zach Neto;Grayson Rodriguez;-3%;47%;Groundout: SS-1B (Front of Home)
+t4;4-4;1;---;1,(0-0) X;;LAA;Taylor Ward;Grayson Rodriguez;3%;50%;Single to RF (Line Drive to RF Line)
+t4;4-4;1;1--;6,(2-2) FFB1BFX;;LAA;Mike Trout;Grayson Rodriguez;4%;55%;Single to CF (Line Drive); Ward to 2B
+t4;4-4;1;12-;1,(0-0) X;RRR;LAA;Shohei Ohtani;Grayson Rodriguez;26%;81%;Home Run (Fly Ball to Deep RF); Ward Scores; Trout Scores
+t4;7-4;1;---;9,(3-2) BBFF.BFFFB;;LAA;Hunter Renfroe;Grayson Rodriguez;1%;82%;Walk
+;;;;;;;;;Logan Gillaspie replaces Grayson Rodriguez pitching
+t4;7-4;1;1--;2,(0-1) .FX;R;LAA;Matt Thaiss;Logan Gillaspie;7%;89%;Double to CF (Line Drive to Deep CF-RF); Renfroe Scores
+t4;8-4;1;-2-;7,(3-2) BBFBCFB;;LAA;Gio Urshela;Logan Gillaspie;1%;90%;Walk
+t4;8-4;1;12-;5,(2-2) CB*BFX;O;LAA;Luis Rengifo;Logan Gillaspie;-2%;88%;Lineout: RF (Deep CF-RF)
+t4;8-4;2;12-;1,(0-0) X;;LAA;Chad Wallach;Logan Gillaspie;1%;89%;Single to RF (Line Drive); Thaiss to 3B; Urshela to 2B
+t4;8-4;2;123;2,(1-0) BX;O;LAA;Zach Neto;Logan Gillaspie;-3%;86%;Groundout: SS-2B/Forceout at 2B; Neto to 1B
+;;;;;;;;;5 runs, 6 hits, 0 errors, 3 LOB. Angels 8, Orioles 4.
+Bottom of the 4th, Orioles Batting, Behind 4-8, Angels' Shohei Ohtani facing 5-6-7 
+b4;4-8;0;---;2,(0-1) CX;O;BAL;Gunnar Henderson;Shohei Ohtani;2%;88%;Groundout: 2B-1B (Deep 2B-1B)
+b4;4-8;1;---;3,(1-1) BCX;O;BAL;Austin Hays;Shohei Ohtani;1%;89%;Lineout: CF (Deep CF)
+b4;4-8;2;---;3,(2-0) BBX;O;BAL;Adam Frazier;Shohei Ohtani;1%;90%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 8, Orioles 4.
+Top of the 5th, Angels Batting, Ahead 8-4, Orioles' Logan Gillaspie facing 1-2-3 
+t5;8-4;0;---;7,(3-2) BBFSFBX;O;LAA;Taylor Ward;Logan Gillaspie;-1%;89%;Lineout: 2B
+t5;8-4;1;---;1,(0-0) X;O;LAA;Mike Trout;Logan Gillaspie;-1%;89%;Flyball: LF (Short LF)
+t5;8-4;2;---;7,(2-2) BCCBFFX;;LAA;Shohei Ohtani;Logan Gillaspie;1%;90%;Triple to RF (Line Drive to Deep CF-RF)
+t5;8-4;2;--3;2,(1-0) BX;R;LAA;Hunter Renfroe;Logan Gillaspie;4%;94%;Double to LF (Line Drive to Deep LF-CF); Ohtani Scores
+t5;9-4;2;-2-;6,(1-2) S.FFBFT;O;LAA;Matt Thaiss;Logan Gillaspie;-1%;93%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Angels 9, Orioles 4.
+Bottom of the 5th, Orioles Batting, Behind 4-9, Angels' Shohei Ohtani facing 8-9-1 
+b5;4-9;0;---;3,(1-1) BFX;O;BAL;Terrin Vavra;Shohei Ohtani;1%;94%;Lineout: LF (Deep LF)
+b5;4-9;1;---;1,(0-0) X;O;BAL;Jorge Mateo;Shohei Ohtani;1%;95%;Groundout: 3B-1B
+b5;4-9;2;---;4,(2-1) CBBX;R;BAL;Cedric Mullins;Shohei Ohtani;-4%;92%;Home Run (Fly Ball to Deep RF)
+b5;5-9;2;---;5,(2-2) BBCC.S;O;BAL;Adley Rutschman;Shohei Ohtani;1%;92%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Angels 9, Orioles 5.
+Top of the 6th, Angels Batting, Ahead 9-5, Orioles' Austin Voth facing 6-7-8 
+;;;;;;;;;Austin Voth replaces Logan Gillaspie pitching
+t6;9-5;0;---;4,(1-2) .FS.BX;O;LAA;Gio Urshela;Austin Voth;-1%;92%;Lineout: RF
+t6;9-5;1;---;8,(2-2) FCBFFFBX;O;LAA;Luis Rengifo;Austin Voth;0%;91%;Lineout: CF
+t6;9-5;2;---;4,(1-2) CCBX;O;LAA;Chad Wallach;Austin Voth;0%;91%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 9, Orioles 5.
+Bottom of the 6th, Orioles Batting, Behind 5-9, Angels' Shohei Ohtani facing 3-4-5 
+b6;5-9;0;---;2,(0-1) FX;O;BAL;Anthony Santander;Shohei Ohtani;2%;93%;Groundout: 3B-1B
+b6;5-9;1;---;4,(1-2) SS.BS;O;BAL;Ryan Mountcastle;Shohei Ohtani;1%;94%;Strikeout Swinging
+b6;5-9;2;---;5,(2-2) BBCCX;O;BAL;Gunnar Henderson;Shohei Ohtani;1%;94%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 9, Orioles 5.
+Top of the 7th, Angels Batting, Ahead 9-5, Orioles' Bryan Baker facing 9-1-2 
+;;;;;;;;;Bryan Baker replaces Austin Voth pitching
+t7;9-5;0;---;5,(2-2) .CFBBX;O;LAA;Zach Neto;Bryan Baker;-1%;94%;Lineout: CF (Deep CF)
+t7;9-5;1;---;3,(1-1) BFX;;LAA;Taylor Ward;Bryan Baker;1%;94%;Single to LF (Line Drive)
+t7;9-5;1;1--;4,(1-2) BFFX;;LAA;Mike Trout;Bryan Baker;1%;95%;Single to LF (Ground Ball thru SS-3B Hole); Ward to 2B
+t7;9-5;1;12-;4,(0-2) CC.FX;O;LAA;Shohei Ohtani;Bryan Baker;-1%;94%;Groundout: 2B unassisted/Forceout at 2B; Ward to 3B; Ohtani to 1B
+t7;9-5;2;1-3;3,(0-2) C*SS;O;LAA;Hunter Renfroe;Bryan Baker;-1%;93%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Angels 9, Orioles 5.
+Bottom of the 7th, Orioles Batting, Behind 5-9, Angels' Shohei Ohtani facing 6-7-8 
+b7;5-9;0;---;5,(2-2) BBCF.S;O;BAL;Austin Hays;Shohei Ohtani;2%;95%;Strikeout Swinging
+b7;5-9;1;---;2,(0-1) CX;O;BAL;Adam Frazier;Shohei Ohtani;1%;96%;Groundout: SS-1B
+b7;5-9;2;---;5,(3-1) BFBBB;;BAL;Terrin Vavra;Shohei Ohtani;-1%;95%;Walk
+b7;5-9;2;1--;1,(0-0) X;O;BAL;Jorge Mateo;Shohei Ohtani;1%;97%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 9, Orioles 5.
+Top of the 8th, Angels Batting, Ahead 9-5, Orioles' Danny Coulombe facing 5-6-7 
+;;;;;;;;;Danny Coulombe replaces Bryan Baker pitching
+t8;9-5;0;---;3,(1-1) .FBX;O;LAA;Matt Thaiss;Danny Coulombe;0%;96%;Groundout: P-1B (P's Right)
+t8;9-5;1;---;4,(1-2) SFBX;;LAA;Gio Urshela;Danny Coulombe;0%;97%;Single to CF (Ground Ball)
+t8;9-5;1;1--;6,(3-2) FBF.*B*BX;O;LAA;Luis Rengifo;Danny Coulombe;0%;96%;Flyball: RF (Short CF-RF)
+t8;9-5;2;1--;3,(0-2) FCC;O;LAA;Chad Wallach;Danny Coulombe;0%;96%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 9, Orioles 5.
+Bottom of the 8th, Orioles Batting, Behind 5-9, Angels' Chris Devenski facing 1-2-3 
+;;;;;;;;;Chris Devenski replaces Shohei Ohtani pitching
+b8;5-9;0;---;5,(1-2) ..BCFFX;O;BAL;Cedric Mullins;Chris Devenski;2%;97%;Flyball: CF (Short CF)
+b8;5-9;1;---;2,(0-1) CX;;BAL;Adley Rutschman;Chris Devenski;-2%;96%;Single to CF (Line Drive to Deep CF)
+b8;5-9;1;1--;7,(3-2) C*SFBB*BX;;BAL;Anthony Santander;Chris Devenski;-3%;93%;Single to RF (Line Drive to Deep RF); Rutschman to 2B
+b8;5-9;1;12-;2,(1-0) BX;O;BAL;Ryan Mountcastle;Chris Devenski;4%;96%;Popfly: SS
+b8;5-9;2;12-;6,(2-2) *BSF*BFS;O;BAL;Gunnar Henderson;Chris Devenski;2%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Angels 9, Orioles 5.
+Top of the 9th, Angels Batting, Ahead 9-5, Orioles' Mike Baumann facing 9-1-2 
+;;;;;;;;;Mike Baumann replaces Danny Coulombe pitching
+t9;9-5;0;---;1,(0-0) .X;O;LAA;Zach Neto;Mike Baumann;0%;98%;Flyball: CF (CF-RF)
+t9;9-5;1;---;5,(1-2) CBCFS;O;LAA;Taylor Ward;Mike Baumann;0%;98%;Strikeout Swinging
+t9;9-5;2;---;6,(3-2) BFBCB.B;;LAA;Mike Trout;Mike Baumann;0%;98%;Walk
+t9;9-5;2;1--;3,(0-2) CS.X;;LAA;Shohei Ohtani;Mike Baumann;0%;99%;Single to LF (Line Drive to Deep LF); Trout to 2B
+t9;9-5;2;12-;4,(1-2) TB*ST;O;LAA;Hunter Renfroe;Mike Baumann;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Angels 9, Orioles 5.
+Bottom of the 9th, Orioles Batting, Behind 5-9, Angels' Matt Moore facing 6-7-8 
+;;;;;;;;;Matt Moore replaces Chris Devenski pitchingBrett Phillips replaces Taylor Ward playing LF batting 1st
+b9;5-9;0;---;5,(2-2) ..BBFS.X;O;BAL;Austin Hays;Matt Moore;1%;99%;Groundout: 3B-1B (SS-3B Hole)
+b9;5-9;1;---;2,(1-0) BX;O;BAL;Adam Frazier;Matt Moore;1%;100%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;Joey Ortiz pinch hits for Terrin Vavra (RF) batting 8th
+b9;5-9;2;---;6,(2-2) .BSFFBS;O;BAL;Joey Ortiz;Matt Moore;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 9, Orioles 5.

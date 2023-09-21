@@ -1,0 +1,259 @@
+
+Scorebox Meta
+20230819
+1:05 p.m. Local
+42599
+Yankee Stadium III
+158
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;0;4;0;2;0;0;0;1;1;8;12;1
+https://cdn.ssref.net/req/202308251/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;0;0;0;0;1;0;0;0;1;2;1
+
+Batting home
+DJ LeMahieu;/players/l/lemahdj01.shtml;1B;4;0;0;0;0;3;4;.242;.316;.369;.685;16;13;-0.050; 0.47;0.000;-0.050;-0.00%; 0.07; -0.9;5;3;
+Aaron Judge;/players/j/judgeaa01.shtml;RF;4;1;1;1;0;0;4;.280;.411;.628;1.038;8;7;-0.007; 0.30;0.020;-0.027;-0.00%; 0.04; 0.5;4;0;HR
+Gleyber Torres;/players/t/torregl01.shtml;2B;3;0;0;0;1;1;4;.265;.332;.430;.762;16;8;-0.008; 0.25;0.011;-0.019;-0.00%; 0.04; -0.2;1;0;
+Giancarlo Stanton;/players/s/stantmi03.shtml;DH;3;0;0;0;1;3;4;.199;.282;.436;.718;30;18;0.015; 0.35;0.032;-0.017; 0.00%; 0.05; -0.2;;;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;3B;4;0;0;0;0;1;4;.253;.319;.363;.682;10;9;-0.083; 0.50;0.000;-0.083;-0.01%; 0.07; -1.4;2;3;
+Harrison Bader;/players/b/baderha01.shtml;CF;3;0;0;0;0;0;3;.252;.286;.388;.674;10;6;-0.023; 0.30;0.000;-0.023;-0.00%; 0.04; -0.5;3;0;
+Greg Allen;/players/a/allengr01.shtml;LF;2;0;1;0;0;0;3;.182;.308;.409;.717;13;6;0.048; 0.37;0.048;0.000; 0.00%; 0.05; 0.8;1;0;HBP
+Anthony Volpe;/players/v/volpean01.shtml;SS;3;0;0;0;0;1;3;.214;.291;.389;.681;9;6;-0.050; 0.69;0.000;-0.050;-0.00%; 0.10; -0.9;3;3;
+Ben Rortvedt;/players/r/rortvbe01.shtml;C;3;0;0;0;0;0;3;.098;.213;.195;.408;7;5;-0.036; 0.48;0.000;-0.036;-0.00%; 0.07; -0.8;7;0;
+Gerrit Cole;/players/c/colege01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jonathan Loáisiga;/players/l/loaisjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tommy Kahnle;/players/k/kahnlto01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Albert Abreu;/players/a/abreual01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Aaron Judge (24, off Kutter Crawford, 6th inn, 0 on, 1 out to Deep LF-CF).
+
+
+HBP: Greg Allen (2, by Kutter Crawford).
+
+
+TB: Aaron Judge 4; Greg Allen.
+
+
+RBI: Aaron Judge (48).
+
+
+Team LOB: 4.
+With RISP: 0 for 0.
+
+Batting away
+Alex Verdugo;/players/v/verdual01.shtml;RF;4;0;0;0;1;1;5;.273;.341;.429;.770;17;9;-0.031; 0.30;0.004;-0.035;-0.01%; 0.20; -1.0;1;0;
+Rafael Devers;/players/d/deverra01.shtml;3B;5;1;3;1;0;0;5;.270;.342;.519;.861;15;8;0.020; 0.24;0.032;-0.011; 0.01%; 0.16; 0.5;0;1;HR,GDP
+Justin Turner;/players/t/turneju01.shtml;1B;4;0;0;0;0;2;5;.286;.354;.479;.832;24;12;-0.043; 0.34;0.000;-0.044;-0.02%; 0.23; -0.5;5;0;HBP
+Masataka Yoshida;/players/y/yoshima02.shtml;LF;5;1;1;0;0;1;5;.301;.356;.470;.826;22;14;-0.032; 0.27;0.003;-0.035;-0.01%; 0.18; -0.6;4;0;
+Adam Duvall;/players/d/duvalad01.shtml;DH;5;0;2;0;0;0;5;.248;.314;.500;.814;21;14;0.026; 0.27;0.038;-0.011; 0.01%; 0.18; 0.1;;;
+Jarren Duran;/players/d/duranja01.shtml;CF;4;1;1;0;0;1;5;.295;.345;.483;.828;24;15;0.102; 0.32;0.109;-0.008; 0.04%; 0.21; 0.8;2;0;
+Pablo Reyes;/players/r/reyespa01.shtml;SS;4;2;3;1;1;0;5;.322;.362;.441;.803;19;12;0.062; 0.44;0.062;0.000; 0.03%; 0.30; 2.1;1;3;2B,SB
+Connor Wong;/players/w/wongco01.shtml;C;4;2;1;2;0;0;4;.239;.293;.394;.688;17;12;-0.024; 0.70;0.049;-0.073;-0.01%; 0.48; -0.4;11;1;HR
+Luis Urías;/players/u/uriaslu01.shtml;2B;3;1;1;4;1;1;4;.186;.314;.326;.639;13;8;0.224; 0.74;0.232;-0.008; 0.09%; 0.50; 2.3;3;0;HR
+Kutter Crawford;/players/c/crawfku01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+John Schreiber;/players/s/schrejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Mauricio Llovera;/players/l/llovema01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Pablo Reyes (8, off Albert Abreu).
+
+
+HR: Luis Urías (3, off Gerrit Cole, 2nd inn, 3 on, 1 out to Deep LF-CF); Connor Wong (7, off Gerrit Cole, 4th inn, 1 on, 0 outs to Deep RF); Rafael Devers (28, off Albert Abreu, 9th inn, 0 on, 0 outs to Deep CF).
+
+
+HBP: Justin Turner (7, by Albert Abreu).
+
+
+TB: Rafael Devers 6; Luis Urías 4; Connor Wong 4; Pablo Reyes 4; Adam Duvall 2; Jarren Duran; Masataka Yoshida.
+
+
+GIDP: Rafael Devers (9).
+
+
+RBI: Luis Urías 4 (14); Connor Wong 2 (29); Pablo Reyes (16); Rafael Devers (84).
+
+
+Team LOB: 8.
+With RISP: 3 for 9.
+
+Pitching home
+Gerrit Cole;/players/c/colege01.shtml; L (10-4); 4 ;7;6;6;1;4;2;3.03;20;86;54;34;10;10;3;12;5;0;27;;;-0.315; 0.74;-0.03%; 0.11; -4.0
+Jonathan Loáisiga;/players/l/loaisjo01.shtml;Jonathan Loáisiga; 1 ;0;0;0;0;1;0;1.17;3;19;10;7;1;2;0;2;0;0;;0;0;0.007; 0.09; 0.00%; 0.01; 0.5
+Tommy Kahnle;/players/k/kahnlto01.shtml;Tommy Kahnle; 1 ;1;0;0;0;0;0;1.91;4;11;9;5;2;2;3;1;1;0;;0;0;0.005; 0.09; 0.00%; 0.01; 0.5
+Albert Abreu;/players/a/abreual01.shtml;Albert Abreu; 3 ;4;2;1;2;1;1;4.67;16;56;31;18;3;9;4;7;1;0;;0;0;-0.002; 0.07; 0.00%; 0.01; -0.5
+
+Pitching away
+Kutter Crawford;/players/c/crawfku01.shtml; W (6-6); 6 ;1;1;1;2;5;1;3.66;22;82;52;28;8;16;5;9;1;0;69;;;0.166; 0.53; 0.07%; 0.36; 2.1
+John Schreiber;/players/s/schrejo01.shtml;John Schreiber; 1 ;1;0;0;0;1;0;2.86;4;15;9;4;3;2;0;3;3;0;;0;0;0.021; 0.27; 0.01%; 0.18; 0.5
+Mauricio Llovera;/players/l/llovema01.shtml;Mauricio Llovera; 2 ;0;0;0;0;3;0;5.40;6;22;17;7;3;7;1;2;2;0;;0;0;0.009; 0.06; 0.00%; 0.04; 1.0
+
+indiv_events
+
+Balks: None.
+WP: Albert Abreu (5).
+HBP: Kutter Crawford (5; Greg Allen); Albert Abreu (5; Justin Turner).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Albert Abreu (5).
+HBP: Kutter Crawford (5; Greg Allen); Albert Abreu (5; Justin Turner).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Charlie Ramos, 1B - Junior Valentine, 2B - Quinn Wolcott, 3B - Manny Gonzalez, LF - (none), RF - (none).
+Time of Game: 2:38.
+Attendance: 42,599.
+Field Condition: Unknown.
+Start Time Weather: 73° F, Wind 11mph in unknown direction, Cloudy, No Precipitation.
+
+div_lineups
+Red Sox
+1;Alex Verdugo;/players/v/verdual01.shtml;RF
+2;Rafael Devers;/players/d/deverra01.shtml;3B
+3;Justin Turner;/players/t/turneju01.shtml;1B
+4;Masataka Yoshida;/players/y/yoshima02.shtml;LF
+5;Adam Duvall;/players/d/duvalad01.shtml;DH
+6;Jarren Duran;/players/d/duranja01.shtml;CF
+7;Pablo Reyes;/players/r/reyespa01.shtml;SS
+8;Connor Wong;/players/w/wongco01.shtml;C
+9;Luis Urías;/players/u/uriaslu01.shtml;2B
+; Kutter Crawford;/players/c/crawfku01.shtml;P
+Yankees
+1;DJ LeMahieu;/players/l/lemahdj01.shtml;1B
+2;Aaron Judge;/players/j/judgeaa01.shtml;RF
+3;Gleyber Torres;/players/t/torregl01.shtml;2B
+4;Giancarlo Stanton;/players/s/stantmi03.shtml;DH
+5;Isiah Kiner-Falefa;/players/k/kineris01.shtml;3B
+6;Harrison Bader;/players/b/baderha01.shtml;CF
+7;Greg Allen;/players/a/allengr01.shtml;LF
+8;Anthony Volpe;/players/v/volpean01.shtml;SS
+9;Ben Rortvedt;/players/r/rortvbe01.shtml;C
+; Gerrit Cole;/players/c/colege01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;0-0;1;123;1,(0-0) X;RRRR;BOS;Luis Urías;Gerrit Cole;23%;83%;Home Run (Fly Ball to Deep LF-CF); Duran Scores; Reyes Scores; Wong Scores
+t2;0-0;0;1--;8,(2-2) FBSBFFFX;;BOS;Jarren Duran;Gerrit Cole;11%;64%;Single to CF (Line Drive to Deep CF); Duvall to 3B; Duran to 2B
+t2;0-0;0;123;4,(2-1) FBBX;O;BOS;Connor Wong;Gerrit Cole;-7%;60%;Groundout: 3B-C/Forceout at Hm (Weak 3B); Duran to 3B; Reyes to 2B; Wong to 1B
+b2;0-4;0;1--;1,(0-0) X;OO;NYY;Isiah Kiner-Falefa;Kutter Crawford;6%;85%;Double Play: Popfly: C; Stanton out at 1B/C-1B
+t4;4-0;0;-2-;8,(3-2) F>B.SBFFBX;RR;BOS;Connor Wong;Gerrit Cole;5%;95%;Home Run (Fly Ball to Deep RF); Reyes Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Red Sox Batting, Tied 0-0, Yankees' Gerrit Cole facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;BOS;Alex Verdugo;Gerrit Cole;-2%;48%;Popfly: SS (Deep 2B)
+t1;0-0;1;---;3,(1-1) .BCX;;BOS;Rafael Devers;Gerrit Cole;2%;50%;Single to SS (Ground Ball)
+t1;0-0;1;1--;6,(3-2) BBCBF>X;O;BOS;Justin Turner;Gerrit Cole;-3%;47%;Flyball: RF (Deep RF)
+t1;0-0;2;1--;2,(0-1) CX;O;BOS;Masataka Yoshida;Gerrit Cole;-2%;45%;Flyball: RF (CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 0, Yankees 0.
+Bottom of the 1st, Yankees Batting, Tied 0-0, Red Sox' Kutter Crawford facing 1-2-3 
+b1;0-0;0;---;5,(1-2) CFBFS;O;NYY;DJ LeMahieu;Kutter Crawford;2%;47%;Strikeout Swinging
+b1;0-0;1;---;2,(0-1) FX;O;NYY;Aaron Judge;Kutter Crawford;2%;49%;Popfly: 2B
+b1;0-0;2;---;3,(2-0) BBX;O;NYY;Gleyber Torres;Kutter Crawford;1%;50%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Yankees 0.
+Top of the 2nd, Red Sox Batting, Tied 0-0, Yankees' Gerrit Cole facing 5-6-7 
+t2;0-0;0;---;3,(1-1) CBX;;BOS;Adam Duvall;Gerrit Cole;4%;54%;Single to LF (Line Drive to LF Line)
+t2;0-0;0;1--;8,(2-2) FBSBFFFX;;BOS;Jarren Duran;Gerrit Cole;11%;64%;Single to CF (Line Drive to Deep CF); Duvall to 3B; Duran to 2B
+t2;0-0;0;-23;8,(3-2) SBF.BFBFB;;BOS;Pablo Reyes;Gerrit Cole;3%;67%;Walk
+t2;0-0;0;123;4,(2-1) FBBX;O;BOS;Connor Wong;Gerrit Cole;-7%;60%;Groundout: 3B-C/Forceout at Hm (Weak 3B); Duran to 3B; Reyes to 2B; Wong to 1B
+t2;0-0;1;123;1,(0-0) X;RRRR;BOS;Luis Urías;Gerrit Cole;23%;83%;Home Run (Fly Ball to Deep LF-CF); Duran Scores; Reyes Scores; Wong Scores
+t2;4-0;1;---;5,(2-2) FBBFS;O;BOS;Alex Verdugo;Gerrit Cole;-1%;83%;Strikeout Swinging
+t2;4-0;2;---;3,(2-0) BBX;;BOS;Rafael Devers;Gerrit Cole;1%;83%;Single to RF (Line Drive to CF-RF)
+t2;4-0;2;1--;5,(2-2) CBBFX;O;BOS;Justin Turner;Gerrit Cole;-1%;82%;Flyball: RF (Deep RF)
+;;;;;;;;;4 runs, 4 hits, 0 errors, 1 LOB. Red Sox 4, Yankees 0.
+Bottom of the 2nd, Yankees Batting, Behind 0-4, Red Sox' Kutter Crawford facing 4-5-6 
+b2;0-4;0;---;7,(3-2) CCFBBBB;;NYY;Giancarlo Stanton;Kutter Crawford;-3%;79%;Walk
+b2;0-4;0;1--;1,(0-0) X;OO;NYY;Isiah Kiner-Falefa;Kutter Crawford;6%;85%;Double Play: Popfly: C; Stanton out at 1B/C-1B
+b2;0-4;2;---;3,(1-1) FBX;O;NYY;Harrison Bader;Kutter Crawford;1%;86%;Lineout: 2B (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 4, Yankees 0.
+Top of the 3rd, Red Sox Batting, Ahead 4-0, Yankees' Gerrit Cole facing 4-5-6 
+t3;4-0;0;---;5,(2-2) BBFC.S;O;BOS;Masataka Yoshida;Gerrit Cole;-1%;85%;Strikeout Swinging
+t3;4-0;1;---;8,(3-2) CSBFBBFX;O;BOS;Adam Duvall;Gerrit Cole;-1%;84%;Popfly: 2B (Deep SS-2B)
+t3;4-0;2;---;5,(2-2) TS.BBC;O;BOS;Jarren Duran;Gerrit Cole;-1%;84%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 4, Yankees 0.
+Bottom of the 3rd, Yankees Batting, Behind 0-4, Red Sox' Kutter Crawford facing 7-8-9 
+b3;0-4;0;---;5,(3-1) BBBCX;;NYY;Greg Allen;Kutter Crawford;-3%;81%;Reached on E3 (Ground Ball); Allen to 1B
+b3;0-4;0;1--;2,(0-1) MX;O;NYY;Anthony Volpe;Kutter Crawford;3%;84%;Flyball: LF (Short LF-CF)
+b3;0-4;1;1--;2,(1-0) BX;O;NYY;Ben Rortvedt;Kutter Crawford;2%;86%;Foul Popfly: C (Behind Home)
+b3;0-4;2;1--;4,(1-2) *BCFX;O;NYY;DJ LeMahieu;Kutter Crawford;2%;88%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Red Sox 4, Yankees 0.
+Top of the 4th, Red Sox Batting, Ahead 4-0, Yankees' Gerrit Cole facing 7-8-9 
+t4;4-0;0;---;3,(0-2) CS.X;;BOS;Pablo Reyes;Gerrit Cole;1%;89%;Single to CF (Line Drive to LF-CF)
+t4;4-0;0;1--;2,(0-1) F>B;;BOS;Connor Wong;Gerrit Cole;1%;90%;Reyes Steals 2B
+t4;4-0;0;-2-;8,(3-2) F>B.SBFFBX;RR;BOS;Connor Wong;Gerrit Cole;5%;95%;Home Run (Fly Ball to Deep RF); Reyes Scores
+t4;6-0;0;---;4,(1-2) CSBS;O;BOS;Luis Urías;Gerrit Cole;0%;95%;Strikeout Swinging
+t4;6-0;1;---;3,(2-0) BBX;O;BOS;Alex Verdugo;Gerrit Cole;0%;94%;Groundout: SS-1B (Weak SS)
+t4;6-0;2;---;1,(0-0) X;O;BOS;Rafael Devers;Gerrit Cole;0%;94%;Lineout: CF (Deep LF-CF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Red Sox 6, Yankees 0.
+Bottom of the 4th, Yankees Batting, Behind 0-6, Red Sox' Kutter Crawford facing 2-3-4 
+b4;0-6;0;---;2,(0-1) CX;O;NYY;Aaron Judge;Kutter Crawford;1%;95%;Flyball: CF (Deep CF)
+b4;0-6;1;---;5,(3-1) BBBCB;;NYY;Gleyber Torres;Kutter Crawford;-1%;94%;Walk
+b4;0-6;1;1--;5,(2-2) BCSBC;O;NYY;Giancarlo Stanton;Kutter Crawford;1%;95%;Strikeout Looking
+b4;0-6;2;1--;5,(1-2) CBCFS;O;NYY;Isiah Kiner-Falefa;Kutter Crawford;1%;96%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Red Sox 6, Yankees 0.
+Top of the 5th, Red Sox Batting, Ahead 6-0, Yankees' Jonathan Loáisiga facing 3-4-5 
+;;;;;;;;;Jonathan Loáisiga replaces Gerrit Cole pitching
+t5;6-0;0;---;6,(3-2) .BFBFBC;O;BOS;Justin Turner;Jonathan Loáisiga;0%;96%;Strikeout Looking
+t5;6-0;1;---;7,(3-2) BSBFBFX;O;BOS;Masataka Yoshida;Jonathan Loáisiga;0%;96%;Flyball: CF (Deep CF)
+t5;6-0;2;---;6,(3-2) CBF.BBX;O;BOS;Adam Duvall;Jonathan Loáisiga;0%;96%;Popfly: 3B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 6, Yankees 0.
+Bottom of the 5th, Yankees Batting, Behind 0-6, Red Sox' Kutter Crawford facing 6-7-8 
+b5;0-6;0;---;3,(1-1) BFX;O;NYY;Harrison Bader;Kutter Crawford;1%;96%;Groundout: SS-1B (P's Right)
+b5;0-6;1;---;3,(1-1) CBH;;NYY;Greg Allen;Kutter Crawford;-1%;95%;Hit By Pitch
+b5;0-6;1;1--;2,(1-0) BX;O;NYY;Anthony Volpe;Kutter Crawford;1%;97%;Groundout: SS-2B/Forceout at 2B (Weak SS); Volpe to 1B
+b5;0-6;2;1--;3,(0-2) CCX;O;NYY;Ben Rortvedt;Kutter Crawford;1%;97%;Flyball: LF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Red Sox 6, Yankees 0.
+Top of the 6th, Red Sox Batting, Ahead 6-0, Yankees' Tommy Kahnle facing 6-7-8 
+;;;;;;;;;Tommy Kahnle replaces Jonathan Loáisiga pitching
+t6;6-0;0;---;5,(2-2) .FBS.BX;O;BOS;Jarren Duran;Tommy Kahnle;0%;97%;Groundout: 1B-P (Weak 2B-1B)
+t6;6-0;1;---;2,(0-1) CX;;BOS;Pablo Reyes;Tommy Kahnle;0%;97%;Single to LF (Line Drive to Deep LF)
+t6;6-0;1;1--;2,(0-1) CX;O;BOS;Connor Wong;Tommy Kahnle;0%;97%;Groundout: 3B-1B (Weak 3B); Reyes to 2B
+t6;6-0;2;-2-;2,(0-1) S.X;O;BOS;Luis Urías;Tommy Kahnle;0%;97%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 6, Yankees 0.
+Bottom of the 6th, Yankees Batting, Behind 0-6, Red Sox' Kutter Crawford facing 1-2-3 
+b6;0-6;0;---;4,(1-2) BCFS;O;NYY;DJ LeMahieu;Kutter Crawford;1%;98%;Strikeout Swinging
+b6;0-6;1;---;1,(0-0) X;R;NYY;Aaron Judge;Kutter Crawford;-2%;96%;Home Run (Fly Ball to Deep LF-CF)
+b6;1-6;1;---;5,(2-2) FSBBX;O;NYY;Gleyber Torres;Kutter Crawford;1%;96%;Popfly: SS (Short LF-CF)
+b6;1-6;2;---;10,(3-2) SBBCFFBFFS;O;NYY;Giancarlo Stanton;Kutter Crawford;0%;97%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Red Sox 6, Yankees 1.
+Top of the 7th, Red Sox Batting, Ahead 6-1, Yankees' Albert Abreu facing 1-2-3 
+;;;;;;;;;Albert Abreu replaces Tommy Kahnle pitching
+t7;6-1;0;---;5,(3-1) .CBBBB;;BOS;Alex Verdugo;Albert Abreu;0%;97%;Walk
+t7;6-1;0;1--;4,(1-2) CF1BX;OO;BOS;Rafael Devers;Albert Abreu;-1%;96%;Ground Ball Double Play: 1B-SS-1B
+t7;6-1;2;---;5,(2-2) CBBFS;O;BOS;Justin Turner;Albert Abreu;0%;96%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 6, Yankees 1.
+Bottom of the 7th, Yankees Batting, Behind 1-6, Red Sox' John Schreiber facing 5-6-7 
+;;;;;;;;;John Schreiber replaces Kutter Crawford pitching
+b7;1-6;0;---;1,(0-0) .X;O;NYY;Isiah Kiner-Falefa;John Schreiber;1%;97%;Lineout: CF (Deep CF-RF)
+b7;1-6;1;---;4,(2-1) FBBX;O;NYY;Harrison Bader;John Schreiber;1%;98%;Lineout: LF (Deep LF)
+b7;1-6;2;---;5,(2-2) CBSBX;;NYY;Greg Allen;John Schreiber;-1%;97%;Single to LF (Line Drive to LF Line)
+b7;1-6;2;1--;5,(2-2) CBSBS;O;NYY;Anthony Volpe;John Schreiber;1%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 6, Yankees 1.
+Top of the 8th, Red Sox Batting, Ahead 6-1, Yankees' Albert Abreu facing 4-5-6 
+t8;6-1;0;---;4,(1-2) CBSX;;BOS;Masataka Yoshida;Albert Abreu;0%;99%;Single to LF (Ground Ball)
+t8;6-1;0;1--;2,(0-1) C1X;O;BOS;Adam Duvall;Albert Abreu;0%;98%;Flyball: CF (Deep CF)
+t8;6-1;1;1--;1,(0-0) X;;BOS;Jarren Duran;Albert Abreu;0%;99%;Reached on Interference on C; Yoshida to 2B; Duran to 1B
+t8;6-1;1;12-;1,(0-0) X;R;BOS;Pablo Reyes;Albert Abreu;1%;99%;Ground-rule Double (Fly Ball to Deep LF Line); Yoshida Scores/unER; Duran to 3B
+t8;7-1;1;-23;3,(0-2) CFX;O;BOS;Connor Wong;Albert Abreu;0%;99%;Groundout: SS-1B (Weak SS)
+t8;7-1;2;-23;6,(3-2) CTBBBB;;BOS;Luis Urías;Albert Abreu;0%;99%;Walk
+t8;7-1;2;123;3,(0-2) CS.X;O;BOS;Alex Verdugo;Albert Abreu;0%;99%;Popfly: 3B (Weak 3B)
+;;;;;;;;;1 run, 2 hits, 1 error, 3 LOB. Red Sox 7, Yankees 1.
+Bottom of the 8th, Yankees Batting, Behind 1-7, Red Sox' Mauricio Llovera facing 9-1-2 
+;;;;;;;;;Mauricio Llovera replaces John Schreiber pitching
+b8;1-7;0;---;2,(1-0) .BX;O;NYY;Ben Rortvedt;Mauricio Llovera;0%;99%;Groundout: 1B unassisted
+b8;1-7;1;---;3,(0-2) CFC;O;NYY;DJ LeMahieu;Mauricio Llovera;0%;100%;Strikeout Looking
+b8;1-7;2;---;3,(1-1) CBX;O;NYY;Aaron Judge;Mauricio Llovera;0%;100%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 7, Yankees 1.
+Top of the 9th, Red Sox Batting, Ahead 7-1, Yankees' Albert Abreu facing 2-3-4 
+t9;7-1;0;---;4,(3-0) BBBX;R;BOS;Rafael Devers;Albert Abreu;0%;100%;Home Run (Fly Ball to Deep CF)
+t9;8-1;0;---;2,(1-0) BH;;BOS;Justin Turner;Albert Abreu;0%;100%;Hit By Pitch
+t9;8-1;0;1--;4,(2-1) CBBX;O;BOS;Masataka Yoshida;Albert Abreu;0%;100%;Flyball: RF (Deep CF-RF)
+t9;8-1;1;1--;2,(0-1) FX;;BOS;Adam Duvall;Albert Abreu;0%;100%;Single to LF (Line Drive to Short LF-CF); Turner to 2B
+t9;8-1;1;12-;5,(3-1) FBBBX;O;BOS;Jarren Duran;Albert Abreu;0%;100%;Groundout: 1B-SS/Forceout at 2B; Turner to 3B; Duran to 1B
+t9;8-1;2;1-3;4,(2-1) BBFB;;BOS;Pablo Reyes;Albert Abreu;0%;100%;Wild Pitch; Duran to 2B
+t9;8-1;2;-23;5,(3-1) BBFB.X;O;BOS;Pablo Reyes;Albert Abreu;0%;100%;Flyball: LF (Deep LF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Red Sox 8, Yankees 1.
+Bottom of the 9th, Yankees Batting, Behind 1-8, Red Sox' Mauricio Llovera facing 3-4-5 
+b9;1-8;0;---;3,(0-2) CFS;O;NYY;Gleyber Torres;Mauricio Llovera;0%;100%;Strikeout Swinging
+b9;1-8;1;---;8,(3-2) BCBCBFFS;O;NYY;Giancarlo Stanton;Mauricio Llovera;0%;100%;Strikeout Swinging
+b9;1-8;2;---;3,(0-2) CSX;O;NYY;Isiah Kiner-Falefa;Mauricio Llovera;0%;100%;Lineout: LF (Deep LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 8, Yankees 1.

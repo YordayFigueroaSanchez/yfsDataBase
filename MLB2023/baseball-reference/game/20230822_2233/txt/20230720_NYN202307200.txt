@@ -1,0 +1,276 @@
+
+Scorebox Meta
+20230720
+1:10 p.m. Local
+34751
+Citi Field
+157
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;1;1;0;0;0;4;0;0;0;6;9;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;0;1;0;0;1;0;2;4;1
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;3;1;1;0;1;1;4;.261;.360;.442;.802;20;11;0.024; 0.82;0.064;-0.040; 0.01%; 0.27; 0.7;1;0;2B
+Tommy Pham;/players/p/phamth01.shtml;LF;2;0;0;0;0;0;2;.272;.356;.475;.831;8;3;-0.120; 1.51;0.000;-0.120;-0.02%; 0.49; -1.1;1;0;GDP
+Luis Guillorme;/players/g/guilllu01.shtml;2B;2;0;0;0;0;0;2;.240;.306;.350;.656;10;6;-0.029; 0.56;0.000;-0.029;-0.01%; 0.18; -0.7;0;2;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;2;0;0;0;2;2;4;.229;.318;.458;.776;18;10;-0.011; 0.52;0.030;-0.040;-0.00%; 0.17; -0.1;1;3;SB
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;0;1;1;0;0;4;.204;.304;.472;.776;8;6;-0.046; 0.64;0.013;-0.059;-0.01%; 0.21; 0.2;12;1;
+Jeff McNeil;/players/m/mcneije01.shtml;2B-RF;3;0;0;0;1;0;4;.246;.323;.319;.642;15;9;-0.033; 0.56;0.016;-0.048;-0.01%; 0.19; -0.7;0;2;
+Francisco Alvarez;/players/a/alvarfr01.shtml;DH;3;0;0;0;1;1;4;.243;.305;.527;.831;18;8;-0.037; 0.63;0.020;-0.057;-0.01%; 0.21; -0.2;;;
+Brett Baty;/players/b/batybr01.shtml;3B;4;0;0;0;0;1;4;.235;.300;.361;.661;18;13;-0.066; 0.67;0.000;-0.066;-0.01%; 0.22; -0.9;1;3;
+Mark Canha;/players/c/canhama01.shtml;RF-LF;3;0;0;0;0;1;3;.241;.342;.390;.732;17;13;-0.062; 0.82;0.000;-0.062;-0.01%; 0.27; -0.7;1;0;
+Daniel Vogelbach;/players/v/vogelda01.shtml;PH;1;0;0;0;0;1;1;.223;.332;.346;.678;3;3;-0.002; 0.06;0.000;-0.002;0%; 0.02; -0.1;;;
+Omar Narváez;/players/n/narvaom01.shtml;C;3;1;2;1;0;1;3;.209;.294;.279;.573;8;6;0.145; 0.51;0.153;-0.008; 0.03%; 0.17; 1.0;9;0;HR
+José Quintana;/players/q/quintjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Drew Smith;/players/s/smithdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+David Peterson;/players/p/peterda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Dominic Leone;/players/l/leonedo01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Trevor Gott;/players/g/gotttr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Brandon Nimmo (16, off Aaron Bummer).
+
+
+HR: Omar Narváez (1, off Michael Kopech, 5th inn, 0 on, 2 outs to Deep CF-RF).
+
+
+TB: Omar Narváez 5; Brandon Nimmo 2; Pete Alonso.
+
+
+GIDP: Tommy Pham (2).
+
+
+RBI: Pete Alonso (63); Omar Narváez (4).
+
+
+2-out RBI: Omar Narváez; Pete Alonso.
+
+
+Team LOB: 6.
+With RISP: 1 for 5.
+
+Batting away
+Andrew Benintendi;/players/b/beninan01.shtml;LF;5;0;0;0;0;1;5;.287;.352;.372;.724;14;11;-0.052; 0.40;0.000;-0.052;-0.00%; 0.04; -1.0;2;0;
+Tim Anderson;/players/a/anderti01.shtml;SS;3;1;2;0;1;0;4;.235;.274;.275;.550;9;5;0.042; 0.39;0.056;-0.014; 0.00%; 0.03; 0.5;1;2;
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;4;1;1;0;0;2;4;.275;.329;.571;.901;11;9;0.101; 0.98;0.130;-0.030; 0.01%; 0.09; 0.6;2;0;SB
+Eloy Jiménez;/players/j/jimenel02.shtml;DH;4;1;2;1;0;0;4;.272;.316;.463;.779;14;7;0.090; 1.01;0.132;-0.042; 0.01%; 0.10; 0.8;;;GDP
+Jake Burger;/players/b/burgeja01.shtml;1B;3;1;0;0;1;1;4;.221;.279;.525;.803;20;11;-0.015; 0.98;0.029;-0.045;-0.00%; 0.09; -0.3;9;0;
+Yasmani Grandal;/players/g/grandya01.shtml;C;4;1;1;2;0;1;4;.250;.317;.381;.697;18;13;0.038; 1.04;0.104;-0.066; 0.00%; 0.10; 0.7;7;1;2B
+Zach Remillard;/players/r/remilza01.shtml;3B;4;1;2;0;0;2;4;.315;.383;.384;.766;16;13;0.043; 0.44;0.066;-0.023; 0.00%; 0.04; 0.1;0;4;2B
+Oscar Colás;/players/c/colasos01.shtml;RF;3;0;0;1;0;1;4;.200;.237;.264;.501;19;11;-0.024; 0.64;0.009;-0.032;-0.00%; 0.06; -0.7;2;0;SF
+Elvis Andrus;/players/a/andruel01.shtml;2B;3;0;1;2;0;1;4;.208;.288;.278;.566;20;13;0.040; 0.60;0.058;-0.019; 0.00%; 0.05; 0.8;4;4;3B,SF
+Michael Kopech;/players/k/kopecmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Aaron Bummer;/players/b/bummeaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gregory Santos;/players/s/santogr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kendall Graveman;/players/g/graveke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Zach Remillard (5, off José Quintana); Yasmani Grandal (12, off Drew Smith).
+
+
+3B: Elvis Andrus (1, off Drew Smith).
+
+
+SF: Elvis Andrus (2, off José Quintana); Oscar Colás (2, off Drew Smith).
+
+
+TB: Elvis Andrus 3; Zach Remillard 3; Yasmani Grandal 2; Eloy Jiménez 2; Tim Anderson 2; Luis Robert Jr..
+
+
+GIDP: Eloy Jiménez (10).
+
+
+RBI: Yasmani Grandal 2 (26); Elvis Andrus 2 (20); Eloy Jiménez (41); Oscar Colás (9).
+
+
+2-out RBI: Elvis Andrus.
+
+
+Team LOB: 4.
+With RISP: 4 for 9.
+
+Pitching home
+José Quintana;/players/q/quintjo01.shtml; L (0-1); 5 ;6;2;2;0;3;0;3.60;20;77;53;32;6;15;9;8;4;0;50;;;0.006; 0.90; 0.00%; 0.30; 0.5
+Drew Smith;/players/s/smithdr01.shtml;Drew Smith; 0.2;3;4;1;1;1;0;4.65;7;24;15;10;3;2;2;3;3;0;;0;0;-0.291; 1.09;-0.06%; 0.36; -3.9
+David Peterson;/players/p/peterda01.shtml;David Peterson; 1.1;0;0;0;1;2;0;6.35;4;15;8;5;2;1;1;0;0;0;;1;0;0.014; 0.15; 0.00%; 0.05; 0.9
+Dominic Leone;/players/l/leonedo01.shtml;Dominic Leone; 1 ;0;0;0;0;2;0;4.67;3;12;10;4;4;2;1;0;0;0;;0;0;0.004; 0.05; 0.00%; 0.02; 0.5
+Trevor Gott;/players/g/gotttr01.shtml;Trevor Gott; 1 ;0;0;0;0;1;0;4.32;3;13;7;5;1;1;2;0;0;0;;0;0;0.004; 0.04; 0.00%; 0.01; 0.5
+
+Pitching away
+Michael Kopech;/players/k/kopecmi01.shtml; W (4-8); 5.2;2;1;1;4;5;1;4.29;22;89;49;27;6;16;5;8;1;0;62;;;0.182; 0.84; 0.01%; 0.08; 1.8
+Aaron Bummer;/players/b/bummeaa01.shtml;Aaron Bummer; 1.2;1;1;1;1;1;0;7.02;7;29;20;9;1;10;4;1;1;0;;1;0;0.027; 0.47; 0.00%; 0.04; 0.6
+Gregory Santos;/players/s/santogr01.shtml;Gregory Santos; 0.2;1;0;0;0;1;0;2.63;3;11;9;7;1;1;1;1;1;0;;1;1;0.009; 0.36; 0.00%; 0.03; -0.3
+Kendall Graveman;/players/g/graveke01.shtml;Kendall Graveman; 1 ;0;0;0;0;1;0;3.00;3;14;10;5;1;4;1;1;1;0;;0;0;0.018; 0.24; 0.00%; 0.02; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: David Peterson (3; Tim Anderson, 1st base).
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: David Peterson (3; Tim Anderson, 1st base).
+
+section_content
+Umpires: HP - Erich Bacchus, 1B - Ryan Wills, 2B - Mike Estabrook, 3B - Andy Fletcher, LF - (none), RF - (none).
+Time of Game: 2:37.
+Attendance: 34,751.
+Field Condition: Unknown.
+Start Time Weather: 85° F, Wind 3mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+White Sox
+1;Andrew Benintendi;/players/b/beninan01.shtml;LF
+2;Tim Anderson;/players/a/anderti01.shtml;SS
+3;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+4;Eloy Jiménez;/players/j/jimenel02.shtml;DH
+5;Jake Burger;/players/b/burgeja01.shtml;1B
+6;Yasmani Grandal;/players/g/grandya01.shtml;C
+7;Zach Remillard;/players/r/remilza01.shtml;3B
+8;Oscar Colás;/players/c/colasos01.shtml;RF
+9;Elvis Andrus;/players/a/andruel01.shtml;2B
+; Michael Kopech;/players/k/kopecmi01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Tommy Pham;/players/p/phamth01.shtml;LF
+3;Francisco Lindor;/players/l/lindofr01.shtml;SS
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Jeff McNeil;/players/m/mcneije01.shtml;2B
+6;Francisco Alvarez;/players/a/alvarfr01.shtml;DH
+7;Brett Baty;/players/b/batybr01.shtml;3B
+8;Mark Canha;/players/c/canhama01.shtml;RF
+9;Omar Narváez;/players/n/narvaom01.shtml;C
+; José Quintana;/players/q/quintjo01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b5;0-2;2;---;2,(1-0) BX;R;NYM;Omar Narváez;Michael Kopech;-12%;65%;Home Run (Fly Ball to Deep CF-RF)
+t6;2-1;0;123;3,(0-2) FSX;RR;CHW;Yasmani Grandal;Drew Smith;10%;93%;Double to RF (Line Drive to Deep CF-RF); Robert Scores/unER; Jiménez Scores; Burger to 3B
+b3;0-2;1;12-;3,(2-0) BBX;OO;NYM;Tommy Pham;Michael Kopech;10%;73%;Ground Ball Double Play: SS-2B-1B
+t1;0-0;1;1-3;4,(2-1) BBFX;R;CHW;Eloy Jiménez;José Quintana;7%;63%;Single to CF (Line Drive to Short CF-RF); Anderson Scores; Robert to 2B
+t6;2-1;0;-2-;4,(2-1) >B.*BCX;;CHW;Eloy Jiménez;Drew Smith;7%;80%;Single to RF (Ground Ball thru 2B-1B); Robert to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, White Sox Batting, Tied 0-0, Mets' José Quintana facing 1-2-3 
+t1;0-0;0;---;2,(0-1) FX;O;CHW;Andrew Benintendi;José Quintana;-2%;48%;Flyball: LF
+t1;0-0;1;---;1,(0-0) X;;CHW;Tim Anderson;José Quintana;2%;50%;Single to CF (Line Drive)
+t1;0-0;1;1--;4,(2-1) BBC1X;;CHW;Luis Robert Jr.;José Quintana;6%;57%;Single to LF (Line Drive to Deep SS-3B Hole); Anderson to 3B
+t1;0-0;1;1-3;4,(2-1) BBFX;R;CHW;Eloy Jiménez;José Quintana;7%;63%;Single to CF (Line Drive to Short CF-RF); Anderson Scores; Robert to 2B
+t1;1-0;1;12-;5,(2-2) C*BFBX;O;CHW;Jake Burger;José Quintana;-2%;61%;Groundout: 3B-1B; Robert to 3B; Jiménez to 2B
+t1;1-0;2;-23;5,(2-2) CBSB*S;O;CHW;Yasmani Grandal;José Quintana;-5%;55%;Strikeout Swinging
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. White Sox 1, Mets 0.
+Bottom of the 1st, Mets Batting, Behind 0-1, White Sox' Michael Kopech facing 1-2-3 
+b1;0-1;0;---;6,(2-2) CFBBFS;O;NYM;Brandon Nimmo;Michael Kopech;2%;58%;Strikeout Swinging
+b1;0-1;1;---;5,(3-1) FBBBX;O;NYM;Tommy Pham;Michael Kopech;2%;59%;Flyball: RF (Deep RF)
+b1;0-1;2;---;5,(3-1) FBBBB;;NYM;Francisco Lindor;Michael Kopech;-1%;58%;Walk
+b1;0-1;2;1--;1,(0-0) X;O;NYM;Pete Alonso;Michael Kopech;2%;60%;Popfly: 2B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 1, Mets 0.
+Top of the 2nd, White Sox Batting, Ahead 1-0, Mets' José Quintana facing 7-8-9 
+t2;1-0;0;---;8,(3-2) CBBF.FBFX;;CHW;Zach Remillard;José Quintana;6%;66%;Double to LF (Line Drive to Short LF Line)
+t2;1-0;0;-2-;1,(0-0) X;O;CHW;Oscar Colás;José Quintana;-1%;65%;Groundout: SS-1B; Remillard to 3B
+t2;1-0;1;--3;8,(3-2) .CBBTFF*BX;RO;CHW;Elvis Andrus;José Quintana;2%;67%;Flyball: CF/Sacrifice Fly (Deep CF-RF); Remillard Scores
+t2;2-0;2;---;4,(1-2) CFBX;O;CHW;Andrew Benintendi;José Quintana;-1%;66%;Groundout: 2B-1B (Weak 2B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. White Sox 2, Mets 0.
+Bottom of the 2nd, Mets Batting, Behind 0-2, White Sox' Michael Kopech facing 5-6-7 
+b2;0-2;0;---;1,(0-0) X;O;NYM;Jeff McNeil;Michael Kopech;2%;69%;Groundout: 2B-1B (2B-1B)
+b2;0-2;1;---;6,(3-2) CCBBBT;O;NYM;Francisco Alvarez;Michael Kopech;2%;70%;Strikeout Swinging
+b2;0-2;2;---;4,(1-2) BSFX;O;NYM;Brett Baty;Michael Kopech;1%;71%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Mets 0.
+Top of the 3rd, White Sox Batting, Ahead 2-0, Mets' José Quintana facing 2-3-4 
+t3;2-0;0;---;2,(0-1) CX;;CHW;Tim Anderson;José Quintana;3%;74%;Single to LF (Ground Ball)
+t3;2-0;0;1--;3,(0-2) FC1S;O;CHW;Luis Robert Jr.;José Quintana;-3%;72%;Strikeout Swinging
+t3;2-0;1;1--;3,(1-1) 1.C*B1X;OO;CHW;Eloy Jiménez;José Quintana;-4%;68%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. White Sox 2, Mets 0.
+Bottom of the 3rd, Mets Batting, Behind 0-2, White Sox' Michael Kopech facing 8-9-1 
+b3;0-2;0;---;9,(1-2) CCF.BFFFFX;O;NYM;Mark Canha;Michael Kopech;3%;70%;Flyball: RF (Short CF-RF)
+b3;0-2;1;---;3,(1-1) CBX;;NYM;Omar Narváez;Michael Kopech;-3%;67%;Single to RF (Line Drive to RF Line)
+b3;0-2;1;1--;4,(3-0) BBBB;;NYM;Brandon Nimmo;Michael Kopech;-4%;63%;Walk; Narváez to 2B
+b3;0-2;1;12-;3,(2-0) BBX;OO;NYM;Tommy Pham;Michael Kopech;10%;73%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 2, Mets 0.
+Top of the 4th, White Sox Batting, Ahead 2-0, Mets' José Quintana facing 5-6-7 
+;;;;;;;;;Luis Guillorme replaces Tommy Pham (LF) playing 2B batting 2ndMark Canha moves from RF to LF Jeff McNeil moves from 2B to RF 
+t4;2-0;0;---;6,(3-2) ...BCBBC.X;O;CHW;Jake Burger;José Quintana;-2%;71%;Groundout: 3B-1B (SS-3B Hole)
+t4;2-0;1;---;4,(1-2) CCBX;O;CHW;Yasmani Grandal;José Quintana;-1%;70%;Popfly: 1B (Deep 1B)
+t4;2-0;2;---;2,(0-1) CX;;CHW;Zach Remillard;José Quintana;1%;71%;Single to LF (Ground Ball thru SS-3B Hole)
+t4;2-0;2;1--;7,(3-2) SB1BS.1FV>F>X;O;CHW;Oscar Colás;José Quintana;-2%;69%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 2, Mets 0.
+Bottom of the 4th, Mets Batting, Behind 0-2, White Sox' Michael Kopech facing 3-4-5 
+b4;0-2;0;---;3,(0-2) CFS;O;NYM;Francisco Lindor;Michael Kopech;3%;72%;Strikeout Swinging; Lindor out at 1B/C-1B
+b4;0-2;1;---;2,(1-0) BX;O;NYM;Pete Alonso;Michael Kopech;2%;74%;Groundout: 3B-1B (SS-3B Hole)
+b4;0-2;2;---;5,(3-1) BBBCB;;NYM;Jeff McNeil;Michael Kopech;-2%;73%;Walk
+b4;0-2;2;1--;1,(0-0) X;O;NYM;Francisco Alvarez;Michael Kopech;3%;75%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 2, Mets 0.
+Top of the 5th, White Sox Batting, Ahead 2-0, Mets' José Quintana facing 9-1-2 
+t5;2-0;0;---;6,(2-2) FBCF.BS;O;CHW;Elvis Andrus;José Quintana;-2%;74%;Strikeout Swinging
+t5;2-0;1;---;1,(0-0) X;O;CHW;Andrew Benintendi;José Quintana;-1%;72%;Popfly: 3B (Weak 3B)
+t5;2-0;2;---;1,(0-0) X;O;CHW;Tim Anderson;José Quintana;-1%;72%;Groundout: SS-1B (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Mets 0.
+Bottom of the 5th, Mets Batting, Behind 0-2, White Sox' Michael Kopech facing 7-8-9 
+b5;0-2;0;---;6,(3-2) BBBCS.S;O;NYM;Brett Baty;Michael Kopech;3%;75%;Strikeout Swinging
+b5;0-2;1;---;6,(3-2) BCBCBS;O;NYM;Mark Canha;Michael Kopech;2%;77%;Strikeout Swinging
+b5;0-2;2;---;2,(1-0) BX;R;NYM;Omar Narváez;Michael Kopech;-12%;65%;Home Run (Fly Ball to Deep CF-RF)
+b5;1-2;2;---;5,(2-2) BCBCX;O;NYM;Brandon Nimmo;Michael Kopech;2%;66%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. White Sox 2, Mets 1.
+Top of the 6th, White Sox Batting, Ahead 2-1, Mets' Drew Smith facing 3-4-5 
+;;;;;;;;;Drew Smith replaces José Quintana pitching
+t6;2-1;0;---;1,(0-0) .X;;CHW;Luis Robert Jr.;Drew Smith;4%;70%;Reached on E3 (Ground Ball to 2B-1B); Robert to 1B
+t6;2-1;0;1--;1,(0-0) >B;;CHW;Eloy Jiménez;Drew Smith;3%;73%;Robert Steals 2B
+t6;2-1;0;-2-;4,(2-1) >B.*BCX;;CHW;Eloy Jiménez;Drew Smith;7%;80%;Single to RF (Ground Ball thru 2B-1B); Robert to 3B
+t6;2-1;0;1-3;6,(3-2) BBBFF.B;;CHW;Jake Burger;Drew Smith;3%;83%;Walk; Jiménez to 2B
+t6;2-1;0;123;3,(0-2) FSX;RR;CHW;Yasmani Grandal;Drew Smith;10%;93%;Double to RF (Line Drive to Deep CF-RF); Robert Scores/unER; Jiménez Scores; Burger to 3B
+t6;4-1;0;-23;3,(0-2) SF*S;O;CHW;Zach Remillard;Drew Smith;-2%;91%;Strikeout Swinging
+t6;4-1;1;-23;5,(3-1) BBBFX;RO;CHW;Oscar Colás;Drew Smith;1%;92%;Lineout: LF/Sacrifice Fly (Deep LF); Burger Scores/unER
+t6;5-1;2;-2-;2,(0-1) CX;R;CHW;Elvis Andrus;Drew Smith;4%;95%;Triple to CF (Line Drive to Deep CF-RF); Grandal Scores/unER
+;;;;;;;;;David Peterson replaces Drew Smith pitching
+t6;6-1;2;--3;4,(1-2) .CFB*S;O;CHW;Andrew Benintendi;David Peterson;-1%;95%;Strikeout Swinging
+;;;;;;;;;4 runs, 3 hits, 1 error, 1 LOB. White Sox 6, Mets 1.
+Bottom of the 6th, Mets Batting, Behind 1-6, White Sox' Michael Kopech facing 2-3-4 
+b6;1-6;0;---;4,(1-2) CBFX;O;NYM;Luis Guillorme;Michael Kopech;1%;96%;Flyball: CF (Deep CF)
+b6;1-6;1;---;5,(3-1) BBBCB;;NYM;Francisco Lindor;Michael Kopech;-1%;94%;Walk
+b6;1-6;1;1--;3,(0-2) CFX;O;NYM;Pete Alonso;Michael Kopech;2%;96%;Flyball: LF
+;;;;;;;;;Aaron Bummer replaces Michael Kopech pitching
+b6;1-6;2;1--;1,(0-0) .>C;;NYM;Jeff McNeil;Aaron Bummer;0%;96%;Lindor Steals 2B
+b6;1-6;2;-2-;5,(1-2) .>C.CBFX;O;NYM;Jeff McNeil;Aaron Bummer;1%;97%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 6, Mets 1.
+Top of the 7th, White Sox Batting, Ahead 6-1, Mets' David Peterson facing 2-3-4 
+t7;6-1;0;---;5,(3-1) BFBBB;;CHW;Tim Anderson;David Peterson;0%;97%;Walk
+t7;6-1;0;1--;3,(0-2) FFS;O;CHW;Luis Robert Jr.;David Peterson;0%;97%;Strikeout Swinging
+t7;6-1;1;1--;2,(2-0) BB1;O;CHW;Eloy Jiménez;David Peterson;-1%;96%;Anderson Picked off 1B (P-1B)
+t7;6-1;2;---;3,(2-0) BB1.X;O;CHW;Eloy Jiménez;David Peterson;0%;96%;Groundout: 1B unassisted (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 6, Mets 1.
+Bottom of the 7th, Mets Batting, Behind 1-6, White Sox' Aaron Bummer facing 6-7-8 
+b7;1-6;0;---;6,(3-2) BFBBC.B;;NYM;Francisco Alvarez;Aaron Bummer;-2%;94%;Walk
+b7;1-6;0;1--;2,(0-1) FX;O;NYM;Brett Baty;Aaron Bummer;2%;96%;Groundout: SS-2B/Forceout at 2B; Baty to 1B
+b7;1-6;1;1--;2,(0-1) CX;O;NYM;Mark Canha;Aaron Bummer;1%;98%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Canha to 1B
+b7;1-6;2;1--;3,(0-2) CCS;O;NYM;Omar Narváez;Aaron Bummer;1%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 6, Mets 1.
+Top of the 8th, White Sox Batting, Ahead 6-1, Mets' Dominic Leone facing 5-6-7 
+;;;;;;;;;Dominic Leone replaces David Peterson pitching
+t8;6-1;0;---;3,(0-2) .FS.S;O;CHW;Jake Burger;Dominic Leone;0%;98%;Strikeout Swinging
+t8;6-1;1;---;6,(2-2) FBBSFX;O;CHW;Yasmani Grandal;Dominic Leone;0%;98%;Groundout: 1B-P (2B-1B)
+t8;6-1;2;---;3,(0-2) CC*S;O;CHW;Zach Remillard;Dominic Leone;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 6, Mets 1.
+Bottom of the 8th, Mets Batting, Behind 1-6, White Sox' Aaron Bummer facing 1-2-3 
+b8;1-6;0;---;5,(1-2) BCCFX;;NYM;Brandon Nimmo;Aaron Bummer;-2%;96%;Double to LF (Line Drive to LF Line)
+b8;1-6;0;-2-;6,(3-2) BBCBCX;O;NYM;Luis Guillorme;Aaron Bummer;2%;98%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;Gregory Santos replaces Aaron Bummer pitching
+b8;1-6;1;-2-;5,(0-2) .CFFFS;O;NYM;Francisco Lindor;Gregory Santos;1%;99%;Strikeout Swinging
+b8;1-6;2;-2-;2,(1-0) BX;R;NYM;Pete Alonso;Gregory Santos;-1%;97%;Single to RF (Ground Ball thru 2B-1B); Nimmo Scores
+b8;2-6;2;1--;4,(1-2) *BFFX;O;NYM;Jeff McNeil;Gregory Santos;1%;99%;Lineout: LF (LF Line)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. White Sox 6, Mets 2.
+Top of the 9th, White Sox Batting, Ahead 6-2, Mets' Trevor Gott facing 8-9-1 
+;;;;;;;;;Trevor Gott replaces Dominic Leone pitching
+t9;6-2;0;---;6,(3-2) .BBFT.BS;O;CHW;Oscar Colás;Trevor Gott;0%;98%;Strikeout Swinging
+t9;6-2;1;---;4,(2-1) BFBX;O;CHW;Elvis Andrus;Trevor Gott;0%;98%;Groundout: 3B-1B (Weak 3B)
+t9;6-2;2;---;3,(1-1) C.BX;O;CHW;Andrew Benintendi;Trevor Gott;0%;98%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 6, Mets 2.
+Bottom of the 9th, Mets Batting, Behind 2-6, White Sox' Kendall Graveman facing 6-7-8 
+;;;;;;;;;Kendall Graveman replaces Gregory Santos pitching
+b9;2-6;0;---;5,(3-1) .BBCBX;O;NYM;Francisco Alvarez;Kendall Graveman;1%;99%;Lineout: SS (Deep SS)
+b9;2-6;1;---;6,(1-2) CBFFFX;O;NYM;Brett Baty;Kendall Graveman;1%;100%;Groundout: 1B unassisted (Weak 1B)
+;;;;;;;;;Daniel Vogelbach pinch hits for Mark Canha (LF) batting 8th
+b9;2-6;2;---;3,(0-2) .CCS;O;NYM;Daniel Vogelbach;Kendall Graveman;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 6, Mets 2.

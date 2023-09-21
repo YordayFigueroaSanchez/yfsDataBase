@@ -1,0 +1,290 @@
+
+Scorebox Meta
+20230403
+6:40 p.m. Local
+11941
+Great American Ball Park
+155
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CHC-2023.png;/teams/CHC/2023.shtml;3;0;0;0;3;0;0;0;0;6;12;1
+https://cdn.ssref.net/req/202308101/tlogo/br/CIN-2023.png;/teams/CIN/2023.shtml;3;1;0;0;3;0;0;0;X;7;10;1
+
+Batting home
+Jonathan India;/players/i/indiajo01.shtml;2B;3;1;0;1;1;0;5;.357;.500;.643;1.143;20;11;-0.023; 0.94;0.046;-0.069;-0.01%; 0.98; -0.3;1;2;HBP
+Spencer Steer;/players/s/steersp01.shtml;3B;3;1;2;0;1;0;4;.333;.500;.667;1.167;12;8;0.115; 1.20;0.142;-0.026; 0.07%; 1.25; 1.3;1;1;2B
+Wil Myers;/players/m/myerswi01.shtml;1B-RF;4;1;1;1;0;0;4;.143;.250;.143;.393;9;8;-0.066; 1.54;0.059;-0.125;-0.04%; 1.61; -0.8;1;0;
+Tyler Stephenson;/players/s/stephty01.shtml;DH;4;1;2;0;0;1;4;.333;.375;.400;.775;18;11;0.068; 1.31;0.126;-0.058; 0.04%; 1.36; 0.6;;;
+Kevin Newman;/players/n/newmake01.shtml;SS;4;0;1;2;0;0;4;.273;.273;.545;.818;13;10;0.017; 1.43;0.103;-0.087; 0.01%; 1.48; 0.3;2;4;
+Stuart Fairchild;/players/f/faircst01.shtml;LF;3;1;0;0;0;2;4;.000;.333;.000;.333;10;8;-0.026; 1.10;0.052;-0.077;-0.02%; 1.15; -0.5;3;0;HBP
+Luke Maile;/players/m/mailelu01.shtml;C;4;0;0;0;0;1;4;.000;.000;.000;.000;17;11;-0.185; 1.47;0.000;-0.185;-0.12%; 1.52; -1.9;7;2;GDP
+Jose Barrero;/players/g/garcijo02.shtml;CF;1;0;1;0;0;0;1;.125;.125;.125;.250;5;5;0.036; 0.92;0.036;0.000; 0.02%; 0.96; 0.4;0;0;
+Jason Vosler;/players/v/vosleja01.shtml;PR-1B;3;2;1;3;0;2;3;.364;.364;1.182;1.545;12;8;0.333; 1.17;0.366;-0.033; 0.21%; 1.22; 2.2;10;1;HR
+TJ Friedl;/players/f/friedtj01.shtml;RF-CF;4;0;2;0;0;0;4;.267;.313;.600;.913;9;8;0.102; 0.69;0.126;-0.024; 0.06%; 0.72; 1.1;0;0;3B
+Connor Overton;/players/o/overtco01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Ian Gibaut;/players/g/gibauia01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Alex Young;/players/y/youngal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Fernando Cruz;/players/c/cruzfe01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Reiver Sanmartin;/players/s/sanmare01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Buck Farmer;/players/f/farmebu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Derek Law;/players/l/lawde01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Spencer Steer (1, off Keegan Thompson).
+
+
+3B: TJ Friedl (1, off Drew Smyly).
+
+
+HR: Jason Vosler (2, off Drew Smyly, 5th inn, 2 on, 2 outs to Deep LF).
+
+
+HBP: Jonathan India (1, by Drew Smyly); Stuart Fairchild (1, by Drew Smyly).
+
+
+TB: Jason Vosler 4; TJ Friedl 4; Spencer Steer 3; Tyler Stephenson 2; Wil Myers; Kevin Newman; Jose Barrero.
+
+
+GIDP: Luke Maile (1).
+
+
+RBI: Jason Vosler 3 (6); Kevin Newman 2 (4); Wil Myers (1); Jonathan India (2).
+
+
+2-out RBI: Jason Vosler 3.
+
+
+Team LOB: 6.
+With RISP: 4 for 11.
+
+Batting away
+Nico Hoerner;/players/h/hoernni01.shtml;2B;5;1;1;0;0;2;5;.222;.222;.278;.500;15;13;-0.100; 1.21;0.034;-0.134;-0.06%; 1.13; -0.6;3;1;
+Dansby Swanson;/players/s/swansda01.shtml;SS;5;2;3;0;0;1;5;.588;.611;.706;1.317;19;11;0.094; 1.23;0.166;-0.073; 0.05%; 1.15; 1.1;0;4;2B
+Ian Happ;/players/h/happia01.shtml;LF;4;1;1;0;1;1;5;.333;.529;.667;1.196;23;14;0.021; 1.43;0.158;-0.138; 0.01%; 1.34; 0.2;2;0;2B
+Cody Bellinger;/players/b/bellico01.shtml;CF;4;1;1;3;1;0;5;.067;.176;.267;.443;16;9;0.048; 1.98;0.243;-0.196; 0.03%; 1.85; 1.1;2;0;HR
+Trey Mancini;/players/m/mancitr01.shtml;RF;4;0;1;1;0;0;5;.214;.267;.214;.481;20;15;0.024; 1.69;0.116;-0.091; 0.01%; 1.57; 0.4;2;0;
+Patrick Wisdom;/players/w/wisdopa01.shtml;3B;4;1;1;0;0;1;5;.273;.385;.818;1.203;20;14;-0.075; 1.63;0.061;-0.136;-0.04%; 1.52; -0.8;2;3;HBP
+Eric Hosmer;/players/h/hosmeer01.shtml;1B;5;0;3;2;0;1;5;.250;.250;.333;.583;14;11;0.206; 1.97;0.305;-0.099; 0.11%; 1.84; 1.7;7;0;2B
+Nick Madrigal;/players/m/madrini01.shtml;PR;0;0;0;0;0;0;0;.167;.286;.167;.452;;;;;;;;;;;;
+Edwin Rios;/players/r/riosed01.shtml;DH;3;0;0;0;0;1;3;.000;.167;.000;.167;8;7;-0.093; 1.09;0.000;-0.093;-0.05%; 1.01; -1.2;;;
+Luis Torrens;/players/t/torrelu01.shtml;PH-DH-DH;0;0;0;0;1;0;1;.250;.400;.250;.650;4;0;0.056; 3.15;0.056;0.000; 0.03%; 2.93; 0.3;;;
+Miles Mastrobuoni;/players/m/mastrmi01.shtml;PH-DH;1;0;0;0;0;0;1;.000;.000;.000;.000;4;2;-0.148; 5.50;0.000;-0.148;-0.08%; 5.12; -0.5;;;
+Tucker Barnhart;/players/b/barnhtu01.shtml;C;3;0;1;0;0;0;3;.200;.200;.200;.400;13;6;-0.023; 1.06;0.037;-0.059;-0.01%; 0.99; -0.1;4;0;
+Yan Gomes;/players/g/gomesya01.shtml;PH-C;1;0;0;0;0;1;1;.125;.111;.125;.236;3;3;-0.141; 5.35;0.000;-0.141;-0.08%; 4.98; -0.8;2;0;
+Drew Smyly;/players/s/smylydr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Keegan Thompson;/players/t/thompke02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Ian Happ (1, off Connor Overton); Eric Hosmer (1, off Alex Young); Dansby Swanson (2, off Fernando Cruz).
+
+
+HR: Cody Bellinger (1, off Connor Overton, 1st inn, 2 on, 1 out to Deep RF).
+
+
+HBP: Patrick Wisdom (1, by Ian Gibaut).
+
+
+TB: Eric Hosmer 4; Cody Bellinger 4; Dansby Swanson 4; Ian Happ 2; Nico Hoerner; Tucker Barnhart; Trey Mancini; Patrick Wisdom.
+
+
+RBI: Cody Bellinger 3 (4); Eric Hosmer 2 (2); Trey Mancini (2).
+
+
+2-out RBI: Eric Hosmer 2.
+
+
+Team LOB: 11.
+With RISP: 2 for 13.
+
+Pitching home
+Connor Overton;/players/o/overtco01.shtml;Connor Overton; 4 ;8;5;5;1;5;1;11.25;21;80;56;30;11;15;7;8;4;0;30;;;-0.227; 1.06;-0.14%; 1.11; -2.2
+Ian Gibaut;/players/g/gibauia01.shtml;Ian Gibaut; 0.2;0;1;1;0;0;0;3.38;3;7;4;3;0;1;1;1;0;0;;2;1;0.062; 1.91; 0.04%; 1.99; 0.5
+Alex Young;/players/y/youngal01.shtml;Alex Young; 0.1;1;0;0;0;1;0;0.00;2;6;4;1;2;1;0;1;1;0;;2;2;-0.196; 1.68;-0.12%; 1.75; -1.5
+Fernando Cruz;/players/c/cruzfe01.shtml; W (1-0); 1.1;1;0;0;1;0;0;5.40;7;31;18;10;2;5;3;2;1;0;;0;0;0.014; 1.82; 0.01%; 1.89; 0.2
+Reiver Sanmartin;/players/s/sanmare01.shtml; H (1); 0.2;0;0;0;1;2;0;0.00;3;11;6;0;3;3;0;0;0;0;;2;0;0.170; 4.04; 0.11%; 4.20; 1.0
+Buck Farmer;/players/f/farmebu01.shtml; H (1); 1 ;0;0;0;0;0;0;2.45;3;13;8;5;2;1;3;0;0;0;;0;0;0.128; 1.62; 0.08%; 1.68; 0.6
+Derek Law;/players/l/lawde01.shtml; S (1); 1 ;2;0;0;0;0;0;0.00;5;11;9;6;0;3;1;4;3;0;;0;0;0.177; 3.02; 0.11%; 3.14; 0.6
+
+Pitching away
+Drew Smyly;/players/s/smylydr01.shtml; L (0-1); 4.2;9;7;6;2;3;1;11.57;26;93;63;41;10;12;8;11;4;0;21;;;-0.522; 1.40;-0.29%; 1.31; -4.3
+Keegan Thompson;/players/t/thompke02.shtml;Keegan Thompson; 3.1;1;0;0;0;3;0;0.00;11;32;25;11;3;11;4;4;2;0;;0;0;0.152; 0.69; 0.08%; 0.65; 1.8
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Ian Gibaut (1; Patrick Wisdom); Drew Smyly 2 (2; Jonathan India, Stuart Fairchild).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Ian Gibaut (1; Patrick Wisdom); Drew Smyly 2 (2; Jonathan India, Stuart Fairchild).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Bill Miller, 1B - Rob Drake, 2B - Chad Whitson, 3B - Roberto Ortiz, LF - (none), RF - (none).
+Time of Game: 2:35.
+Attendance: 11,941.
+Field Condition: Unknown.
+Start Time Weather: 71° F, Wind 12mph from Right to Left, Sunny, No Precipitation.
+
+div_lineups
+Cubs
+1;Nico Hoerner;/players/h/hoernni01.shtml;2B
+2;Dansby Swanson;/players/s/swansda01.shtml;SS
+3;Ian Happ;/players/h/happia01.shtml;LF
+4;Cody Bellinger;/players/b/bellico01.shtml;CF
+5;Trey Mancini;/players/m/mancitr01.shtml;RF
+6;Patrick Wisdom;/players/w/wisdopa01.shtml;3B
+7;Eric Hosmer;/players/h/hosmeer01.shtml;1B
+8;Edwin Rios;/players/r/riosed01.shtml;DH
+9;Tucker Barnhart;/players/b/barnhtu01.shtml;C
+; Drew Smyly;/players/s/smylydr01.shtml;P
+Reds
+1;Jonathan India;/players/i/indiajo01.shtml;2B
+2;Spencer Steer;/players/s/steersp01.shtml;3B
+3;Wil Myers;/players/m/myerswi01.shtml;1B
+4;Tyler Stephenson;/players/s/stephty01.shtml;DH
+5;Kevin Newman;/players/n/newmake01.shtml;SS
+6;Stuart Fairchild;/players/f/faircst01.shtml;LF
+7;Luke Maile;/players/m/mailelu01.shtml;C
+8;Jose Barrero;/players/g/garcijo02.shtml;CF
+9;TJ Friedl;/players/f/friedtj01.shtml;RF
+; Connor Overton;/players/o/overtco01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b5;4-6;2;12-;4,(2-1) BBFX;RRR;CIN;Jason Vosler;Drew Smyly;37%;66%;Home Run (Fly Ball to Deep LF); Stephenson Scores; Fairchild Scores
+t5;4-4;2;1-3;3,(2-0) .BBX;RR;CHC;Eric Hosmer;Alex Young;-23%;28%;Double to RF (Line Drive to Deep CF-RF); Happ Scores; Wisdom Scores
+t1;0-0;1;1-3;5,(3-1) BBSB>X;RRR;CHC;Cody Bellinger;Connor Overton;-18%;26%;Home Run (Fly Ball to Deep RF); Hoerner Scores; Swanson Scores
+t9;6-7;2;12-;4,(2-1) ..BCBX;O;CHC;Miles Mastrobuoni;Derek Law;15%;100%;Lineout: 1B
+t7;6-7;2;123;3,(0-2) .C*SS;O;CHC;Yan Gomes;Reiver Sanmartin;14%;78%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Cubs Batting, Tied 0-0, Reds' Connor Overton facing 1-2-3 
+t1;0-0;0;---;2,(0-1) CX;;CHC;Nico Hoerner;Connor Overton;-3%;47%;Single to RF (Ground Ball thru 2B-1B)
+t1;0-0;0;1--;2,(1-0) *BX;;CHC;Dansby Swanson;Connor Overton;-8%;38%;Single to CF (Ground Ball thru SS-2B); Hoerner to 3B
+t1;0-0;0;1-3;4,(1-2) CBFS;O;CHC;Ian Happ;Connor Overton;6%;44%;Strikeout Swinging
+t1;0-0;1;1-3;5,(3-1) BBSB>X;RRR;CHC;Cody Bellinger;Connor Overton;-18%;26%;Home Run (Fly Ball to Deep RF); Hoerner Scores; Swanson Scores
+t1;3-0;1;---;4,(0-2) CSFX;;CHC;Trey Mancini;Connor Overton;-2%;25%;Single to CF (Line Drive to Deep CF)
+t1;3-0;1;1--;5,(1-2) FCBFS;O;CHC;Patrick Wisdom;Connor Overton;2%;27%;Strikeout Swinging
+t1;3-0;2;1--;4,(0-2) CCF>X;;CHC;Eric Hosmer;Connor Overton;-2%;25%;Single to RF (Ground Ball thru 2B-1B); Mancini to 3B
+t1;3-0;2;1-3;1,(0-0) X;O;CHC;Edwin Rios;Connor Overton;3%;28%;Groundout: SS-1B
+;;;;;;;;;3 runs, 5 hits, 0 errors, 2 LOB. Cubs 3, Reds 0.
+Bottom of the 1st, Reds Batting, Behind 0-3, Cubs' Drew Smyly facing 1-2-3 
+b1;0-3;0;---;6,(3-2) BBCBF*B;;CIN;Jonathan India;Drew Smyly;3%;32%;Walk
+b1;0-3;0;1--;3,(0-2) CFX;;CIN;Spencer Steer;Drew Smyly;8%;40%;Single to RF (Ground Ball thru 2B-1B); India to 3B
+b1;0-3;0;1-3;1,(0-0) X;R;CIN;Wil Myers;Drew Smyly;6%;46%;Single to CF (Line Drive to Deep CF-RF); India Scores; Steer to 2B
+b1;1-3;0;12-;2,(0-1) CX;;CIN;Tyler Stephenson;Drew Smyly;7%;53%;Single to CF (Line Drive); Steer to 3B; Myers to 2B
+b1;1-3;0;123;4,(1-2) C*BFX;RR;CIN;Kevin Newman;Drew Smyly;10%;64%;Single to CF (Ground Ball thru SS-2B); Steer Scores; Myers Scores; Stephenson to 2B
+b1;3-3;0;12-;5,(1-2) BFTFS;O;CIN;Stuart Fairchild;Drew Smyly;-5%;59%;Strikeout Swinging
+b1;3-3;1;12-;3,(1-1) BSX;OO;CIN;Luke Maile;Drew Smyly;-9%;50%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;3 runs, 4 hits, 0 errors, 1 LOB. Cubs 3, Reds 3.
+Top of the 2nd, Cubs Batting, Tied 3-3, Reds' Connor Overton facing 9-1-2 
+t2;3-3;0;---;6,(3-2) BCBBFX;;CHC;Tucker Barnhart;Connor Overton;-4%;46%;Single to RF (Ground Ball thru 2B-1B)
+t2;3-3;0;1--;4,(1-2) BC1S*S;O;CHC;Nico Hoerner;Connor Overton;4%;50%;Strikeout Swinging
+t2;3-3;1;1--;5,(2-2) BBFSS;O;CHC;Dansby Swanson;Connor Overton;3%;53%;Strikeout Swinging
+t2;3-3;2;1--;5,(3-1) S*BBBB;;CHC;Ian Happ;Connor Overton;-2%;51%;Walk; Barnhart to 2B
+t2;3-3;2;12-;2,(0-1) CX;O;CHC;Cody Bellinger;Connor Overton;4%;55%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Cubs 3, Reds 3.
+Bottom of the 2nd, Reds Batting, Tied 3-3, Cubs' Drew Smyly facing 8-9-1 
+b2;3-3;0;---;5,(0-2) SSFFX;;CIN;Jose Barrero;Drew Smyly;4%;59%;Single to LF (Ground Ball)
+;;;;;;;;;Jason Vosler pinch runs for Jose Barrero (CF) batting 8th
+b2;3-3;0;1--;3,(1-1) CB.X;;CIN;TJ Friedl;Drew Smyly;10%;69%;Single to P (Bunt to P's Left); Vosler to 3B/Adv on E1 (throw); Friedl to 2B
+b2;3-3;0;-23;5,(2-2) FBF*BX;RO;CIN;Jonathan India;Drew Smyly;-4%;65%;Fielder's Choice SS; Vosler Scores/unER; Friedl out at 3B/SS-3B; India to 1B
+b2;4-3;1;1--;3,(0-2) CSX;O;CIN;Spencer Steer;Drew Smyly;-3%;63%;Flyball: CF (Short CF-RF)
+b2;4-3;2;1--;2,(0-1) FX;O;CIN;Wil Myers;Drew Smyly;-2%;60%;Groundout: SS-2B/Forceout at 2B; Myers to 1B
+;;;;;;;;;1 run, 2 hits, 1 error, 1 LOB. Cubs 3, Reds 4.
+Top of the 3rd, Cubs Batting, Behind 3-4, Reds' Connor Overton facing 5-6-7 
+;;;;;;;;;Jason Vosler moves from PR to 1B TJ Friedl moves from RF to CF Wil Myers moves from 1B to RF 
+t3;3-4;0;---;2,(0-1) ...CX;O;CHC;Trey Mancini;Connor Overton;3%;63%;Groundout: SS-1B
+t3;3-4;1;---;7,(1-2) BFFFFFX;O;CHC;Patrick Wisdom;Connor Overton;2%;65%;Flyball: LF (Deep LF Line)
+t3;3-4;2;---;2,(0-1) CX;O;CHC;Eric Hosmer;Connor Overton;1%;66%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 3, Reds 4.
+Bottom of the 3rd, Reds Batting, Ahead 4-3, Cubs' Drew Smyly facing 4-5-6 
+b3;4-3;0;---;6,(3-2) BBCCBX;O;CIN;Tyler Stephenson;Drew Smyly;-2%;64%;Popfly: 2B (SS-2B)
+b3;4-3;1;---;5,(2-2) FTBBX;O;CIN;Kevin Newman;Drew Smyly;-2%;63%;Flyball: LF (Deep LF-CF)
+b3;4-3;2;---;3,(0-2) FS*S;O;CIN;Stuart Fairchild;Drew Smyly;-1%;62%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 3, Reds 4.
+Top of the 4th, Cubs Batting, Behind 3-4, Reds' Connor Overton facing 8-9-1 
+t4;3-4;0;---;4,(1-2) CFBX;O;CHC;Edwin Rios;Connor Overton;3%;65%;Lineout: SS
+t4;3-4;1;---;5,(3-1) BBFBX;O;CHC;Tucker Barnhart;Connor Overton;2%;67%;Foul Popfly: 1B (1B into Foul Terr.)
+t4;3-4;2;---;3,(0-2) CCS;O;CHC;Nico Hoerner;Connor Overton;1%;68%;Strikeout Swinging; Hoerner out at 1B/C-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 3, Reds 4.
+Bottom of the 4th, Reds Batting, Ahead 4-3, Cubs' Drew Smyly facing 7-8-9 
+b4;4-3;0;---;5,(2-2) CSBBX;O;CIN;Luke Maile;Drew Smyly;-2%;66%;Groundout: 3B-1B
+b4;4-3;1;---;4,(1-2) CFBS;O;CIN;Jason Vosler;Drew Smyly;-2%;64%;Strikeout Swinging
+b4;4-3;2;---;2,(0-1) CX;;CIN;TJ Friedl;Drew Smyly;3%;67%;Triple to CF (Line Drive to Deep CF-RF)
+b4;4-3;2;--3;2,(0-1) SH;;CIN;Jonathan India;Drew Smyly;1%;68%;Hit By Pitch
+b4;4-3;2;1-3;4,(3-0) BBBB;;CIN;Spencer Steer;Drew Smyly;2%;70%;Walk; India to 2B
+b4;4-3;2;123;3,(1-1) CBX;O;CIN;Wil Myers;Drew Smyly;-7%;63%;Foul Popfly: 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Cubs 3, Reds 4.
+Top of the 5th, Cubs Batting, Behind 3-4, Reds' Connor Overton facing 2-3-4 
+t5;3-4;0;---;6,(3-2) BCBS.BX;;CHC;Dansby Swanson;Connor Overton;-5%;58%;Single to LF (Line Drive to LF-CF)
+t5;3-4;0;1--;2,(0-1) 1FX;;CHC;Ian Happ;Connor Overton;-14%;44%;Double to RF (Line Drive to Deep RF); Swanson to 3B
+;;;;;;;;;Ian Gibaut replaces Connor Overton pitching
+t5;3-4;0;-23;1,(0-0) .X;O;CHC;Cody Bellinger;Ian Gibaut;7%;51%;Popfly: SS (Deep SS)
+t5;3-4;1;-23;5,(2-2) BCFBX;RO;CHC;Trey Mancini;Ian Gibaut;1%;52%;Groundout: 2B-1B; Swanson Scores; Happ to 3B
+t5;4-4;2;--3;1,(0-0) H;;CHC;Patrick Wisdom;Ian Gibaut;-2%;50%;Hit By Pitch
+;;;;;;;;;Alex Young replaces Ian Gibaut pitching
+t5;4-4;2;1-3;3,(2-0) .BBX;RR;CHC;Eric Hosmer;Alex Young;-23%;28%;Double to RF (Line Drive to Deep CF-RF); Happ Scores; Wisdom Scores
+t5;6-4;2;-2-;3,(0-2) CSS;O;CHC;Edwin Rios;Alex Young;3%;31%;Strikeout Swinging
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Cubs 6, Reds 4.
+Bottom of the 5th, Reds Batting, Behind 4-6, Cubs' Drew Smyly facing 4-5-6 
+b5;4-6;0;---;5,(2-2) BFBFX;;CIN;Tyler Stephenson;Drew Smyly;5%;36%;Single to CF (Line Drive to CF-RF)
+b5;4-6;0;1--;3,(0-2) FFX;O;CIN;Kevin Newman;Drew Smyly;-5%;31%;Flyball: RF (RF Line)
+b5;4-6;1;1--;1,(0-0) H;;CIN;Stuart Fairchild;Drew Smyly;5%;36%;Hit By Pitch; Stephenson to 2B
+b5;4-6;1;12-;4,(1-2) FBFX;O;CIN;Luke Maile;Drew Smyly;-7%;30%;Foul Popfly: 3B (3B into Foul Terr.)
+b5;4-6;2;12-;4,(2-1) BBFX;RRR;CIN;Jason Vosler;Drew Smyly;37%;66%;Home Run (Fly Ball to Deep LF); Stephenson Scores; Fairchild Scores
+;;;;;;;;;Keegan Thompson replaces Drew Smyly pitching
+b5;7-6;2;---;2,(0-1) .CX;O;CIN;TJ Friedl;Keegan Thompson;-1%;65%;Lineout: RF
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Cubs 6, Reds 7.
+Top of the 6th, Cubs Batting, Behind 6-7, Reds' Fernando Cruz facing 9-1-2 
+;;;;;;;;;Fernando Cruz replaces Alex Young pitching
+t6;6-7;0;---;2,(1-0) .BX;O;CHC;Tucker Barnhart;Fernando Cruz;4%;69%;Lineout: 2B (2B-1B)
+t6;6-7;1;---;3,(0-2) CSX;O;CHC;Nico Hoerner;Fernando Cruz;3%;71%;Flyball: LF (LF Line)
+t6;6-7;2;---;3,(0-2) CF.X;;CHC;Dansby Swanson;Fernando Cruz;-4%;68%;Double to LF (Ground Ball)
+t6;6-7;2;-2-;5,(2-2) BFBFX;O;CHC;Ian Happ;Fernando Cruz;5%;73%;Groundout: C-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cubs 6, Reds 7.
+Bottom of the 6th, Reds Batting, Ahead 7-6, Cubs' Keegan Thompson facing 1-2-3 
+b6;7-6;0;---;3,(1-1) CBX;O;CIN;Jonathan India;Keegan Thompson;-2%;71%;Flyball: CF (LF-CF)
+b6;7-6;1;---;2,(0-1) FX;;CIN;Spencer Steer;Keegan Thompson;4%;75%;Double to CF (Line Drive to Deep CF-RF)
+b6;7-6;1;-2-;3,(0-2) CSX;O;CIN;Wil Myers;Keegan Thompson;-3%;72%;Groundout: 3B-1B (SS-3B Hole)
+b6;7-6;2;-2-;5,(2-2) CBBCC;O;CIN;Tyler Stephenson;Keegan Thompson;-4%;68%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cubs 6, Reds 7.
+Top of the 7th, Cubs Batting, Behind 6-7, Reds' Fernando Cruz facing 4-5-6 
+t7;6-7;0;---;6,(3-2) BFBCBB;;CHC;Cody Bellinger;Fernando Cruz;-7%;61%;Walk
+t7;6-7;0;1--;7,(3-2) B*BCS*B+11>F>X;;CHC;Trey Mancini;Fernando Cruz;-10%;51%;Reached on Interference on C; Bellinger to 2B; Mancini to 1B
+t7;6-7;0;12-;5,(3-1) BBBCX;O;CHC;Patrick Wisdom;Fernando Cruz;10%;61%;Bunt Lineout: P
+;;;;;;;;;Reiver Sanmartin replaces Fernando Cruz pitching
+t7;6-7;1;12-;4,(1-2) .CC.BS;O;CHC;Eric Hosmer;Reiver Sanmartin;9%;70%;Strikeout Swinging
+;;;;;;;;;Luis Torrens pinch hits for Edwin Rios (DH) batting 8th
+t7;6-7;2;12-;4,(3-0) .BBBB;;CHC;Luis Torrens;Reiver Sanmartin;-6%;64%;Walk; Bellinger to 3B; Mancini to 2B
+;;;;;;;;;Yan Gomes pinch hits for Tucker Barnhart (C) batting 9th
+t7;6-7;2;123;3,(0-2) .C*SS;O;CHC;Yan Gomes;Reiver Sanmartin;14%;78%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 1 error, 3 LOB. Cubs 6, Reds 7.
+Bottom of the 7th, Reds Batting, Ahead 7-6, Cubs' Keegan Thompson facing 5-6-7 
+;;;;;;;;;Yan Gomes moves from PH to C 
+b7;7-6;0;---;1,(0-0) ..X;O;CIN;Kevin Newman;Keegan Thompson;-2%;76%;Groundout: P-1B (Front of Home)
+b7;7-6;1;---;1,(0-0) X;O;CIN;Stuart Fairchild;Keegan Thompson;-2%;74%;Groundout: SS-1B
+b7;7-6;2;---;5,(2-2) BCSBC;O;CIN;Luke Maile;Keegan Thompson;-1%;73%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 6, Reds 7.
+Top of the 8th, Cubs Batting, Behind 6-7, Reds' Buck Farmer facing 1-2-3 
+;;;;;;;;;Buck Farmer replaces Reiver Sanmartin pitching
+t8;6-7;0;---;3,(1-1) .BCX;O;CHC;Nico Hoerner;Buck Farmer;6%;79%;Groundout: SS-1B (Deep SS)
+t8;6-7;1;---;3,(2-0) BBX;O;CHC;Dansby Swanson;Buck Farmer;4%;83%;Groundout: 3B-1B (SS-3B Hole)
+t8;6-7;2;---;7,(2-2) SS.FBBFX;O;CHC;Ian Happ;Buck Farmer;3%;86%;Groundout: SS-1B (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 6, Reds 7.
+Bottom of the 8th, Reds Batting, Ahead 7-6, Cubs' Keegan Thompson facing 8-9-1 
+b8;7-6;0;---;4,(1-2) SFBC;O;CIN;Jason Vosler;Keegan Thompson;-2%;84%;Strikeout Looking
+b8;7-6;1;---;2,(0-1) CX;O;CIN;TJ Friedl;Keegan Thompson;-1%;83%;Flyball: LF (Deep LF)
+b8;7-6;2;---;4,(1-2) CBFX;O;CIN;Jonathan India;Keegan Thompson;-1%;82%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 6, Reds 7.
+Top of the 9th, Cubs Batting, Behind 6-7, Reds' Derek Law facing 4-5-6 
+;;;;;;;;;Derek Law replaces Buck Farmer pitching
+t9;6-7;0;---;2,(0-1) .CX;O;CHC;Cody Bellinger;Derek Law;8%;90%;Popfly: 3B (Deep SS-3B Hole)
+t9;6-7;1;---;2,(0-1) FX;O;CHC;Trey Mancini;Derek Law;6%;96%;Groundout: 2B-1B
+t9;6-7;2;---;2,(0-1) CX;;CHC;Patrick Wisdom;Derek Law;-4%;91%;Single to RF (Line Drive to Short RF Line)
+t9;6-7;2;1--;1,(0-0) X;;CHC;Eric Hosmer;Derek Law;-6%;85%;Single to RF (Line Drive to Short RF); Wisdom to 2B
+;;;;;;;;;Miles Mastrobuoni pinch hits for Luis Torrens (DH) batting 8thNick Madrigal pinch runs for Eric Hosmer (1B) batting 7th
+t9;6-7;2;12-;4,(2-1) ..BCBX;O;CHC;Miles Mastrobuoni;Derek Law;15%;100%;Lineout: 1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Cubs 6, Reds 7.

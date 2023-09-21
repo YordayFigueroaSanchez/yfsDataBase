@@ -1,0 +1,262 @@
+
+Scorebox Meta
+20230610
+4:05 p.m. Local
+35290
+PNC Park
+151
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;1;0;0;0;2;1;1;5;8;3
+https://cdn.ssref.net/req/202308101/tlogo/br/PIT-2023.png;/teams/PIT/2023.shtml;0;0;0;1;0;0;0;0;0;1;3;0
+
+Batting home
+Andrew McCutchen;/players/m/mccutan01.shtml;DH;3;0;0;0;1;1;4;.264;.379;.425;.804;18;8;-0.046; 0.92;0.024;-0.070;-0.03%; 1.17; -0.4;;;
+Bryan Reynolds;/players/r/reynobr01.shtml;LF;3;0;1;0;1;1;4;.278;.345;.470;.814;18;10;0.050; 1.15;0.088;-0.038; 0.04%; 1.46; 0.4;2;0;
+Connor Joe;/players/j/joeco01.shtml;RF;4;0;1;0;0;1;4;.251;.345;.469;.814;17;11;-0.162; 1.45;0.012;-0.174;-0.12%; 1.85; -1.4;1;0;CS
+Carlos Santana;/players/s/santaca01.shtml;1B;4;0;1;0;0;2;4;.230;.323;.363;.686;15;9;-0.064; 1.22;0.037;-0.101;-0.05%; 1.55; -0.4;4;3;
+Jack Suwinski;/players/s/suwinja01.shtml;CF;3;1;0;0;1;0;4;.238;.351;.500;.851;20;9;-0.031; 1.02;0.069;-0.100;-0.02%; 1.30; -0.5;4;0;GDP
+Ke'Bryan Hayes;/players/h/hayeske01.shtml;3B;4;0;0;0;0;3;4;.262;.304;.418;.722;12;10;0.018; 1.06;0.084;-0.066; 0.01%; 1.35; 0.0;0;2;
+Ji Hwan Bae;/players/b/baeji01.shtml;2B;4;0;0;1;0;0;4;.271;.328;.353;.681;8;6;0.053; 1.24;0.122;-0.070; 0.04%; 1.58; 0.3;1;0;
+Tucupita Marcano;/players/m/marcatu01.shtml;SS;4;0;0;0;0;0;4;.258;.310;.442;.752;12;8;-0.141; 1.14;0.000;-0.141;-0.11%; 1.46; -1.2;2;3;
+Jason Delay;/players/d/delayja01.shtml;C;2;0;0;0;1;1;3;.293;.365;.413;.778;10;5;-0.073; 1.24;0.015;-0.088;-0.06%; 1.58; -0.6;10;0;
+Johan Oviedo;/players/o/oviedjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Dauri Moreta;/players/m/moretda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jose Hernandez;/players/h/hernajo03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Colin Holderman;/players/h/holdeco01.shtml;P;;;;;;;;;;;;;;;;;;;;;2;0;
+Angel Perdomo;/players/p/perdoan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+TB: Carlos Santana; Connor Joe; Bryan Reynolds.
+
+
+GIDP: Jack Suwinski (1).
+
+
+RBI: Ji Hwan Bae (17).
+
+
+Team LOB: 7.
+With RISP: 0 for 4.
+
+Batting away
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;4;0;2;1;1;2;5;.286;.375;.420;.796;19;11;0.157; 0.94;0.185;-0.029; 0.07%; 0.75; 1.0;5;0;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;4;1;1;1;0;0;4;.250;.301;.559;.860;14;8;-0.039; 1.21;0.067;-0.106;-0.02%; 0.96; 0.0;8;2;HR
+Jeff McNeil;/players/m/mcneije01.shtml;2B;3;0;0;0;0;0;4;.275;.352;.343;.696;11;8;-0.030; 1.03;0.051;-0.082;-0.01%; 0.81; -0.6;0;5;HBP,GDP
+Francisco Lindor;/players/l/lindofr01.shtml;DH;4;0;0;0;0;0;4;.218;.292;.425;.716;14;9;-0.177; 1.16;0.000;-0.177;-0.08%; 0.92; -1.5;;;GDP
+Starling Marte;/players/m/martest01.shtml;RF;4;1;1;0;0;2;4;.258;.316;.333;.649;23;14;0.057; 1.04;0.090;-0.033; 0.03%; 0.82; 0.2;0;0;SB
+Brett Baty;/players/b/batybr01.shtml;3B;3;0;0;0;1;2;4;.232;.313;.359;.672;17;8;-0.025; 1.03;0.047;-0.072;-0.01%; 0.82; -0.3;2;1;
+Tommy Pham;/players/p/phamth01.shtml;LF;4;2;2;0;0;1;4;.245;.328;.491;.819;9;7;-0.033; 1.05;0.073;-0.105;-0.02%; 0.83; 0.2;0;0;2B,SB
+Luis Guillorme;/players/g/guilllu01.shtml;SS;3;1;0;0;1;2;4;.231;.324;.277;.601;16;10;-0.046; 1.32;0.014;-0.060;-0.02%; 1.04; -0.7;2;2;IW
+Mark Canha;/players/c/canhama01.shtml;1B;4;0;2;3;0;1;4;.244;.327;.398;.724;17;12;0.240; 1.44;0.336;-0.096; 0.11%; 1.14; 2.1;10;1;2·2B
+Kodai Senga;/players/s/sengako01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+David Robertson;/players/r/roberda08.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Ottavino;/players/o/ottavad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Tommy Pham (7, off Johan Oviedo); Mark Canha 2 (12, 1 off Dauri Moreta, 1 off Angel Perdomo).
+
+
+HR: Francisco Alvarez (12, off Colin Holderman, 8th inn, 0 on, 0 outs to Deep LF-CF).
+
+
+IBB: Luis Guillorme (1, by Dauri Moreta).
+
+
+HBP: Jeff McNeil (6, by Johan Oviedo).
+
+
+TB: Mark Canha 4; Francisco Alvarez 4; Tommy Pham 3; Brandon Nimmo 2; Starling Marte.
+
+
+GIDP: Francisco Lindor (4); Jeff McNeil (4).
+
+
+RBI: Mark Canha 3 (21); Francisco Alvarez (25); Brandon Nimmo (26).
+
+
+2-out RBI: Mark Canha 3; Brandon Nimmo.
+
+
+Team LOB: 5.
+With RISP: 3 for 9.
+
+Pitching home
+Johan Oviedo;/players/o/oviedjo01.shtml; L (3-5); 6.1;4;2;2;2;5;0;4.16;24;90;55;34;7;14;6;10;3;0;60;;;0.203; 1.31; 0.16%; 1.67; 2.0
+Dauri Moreta;/players/m/moretda01.shtml;Dauri Moreta; 0.1;1;1;1;1;1;0;1.91;3;11;6;1;1;4;0;1;1;0;;1;1;-0.268; 2.40;-0.21%; 3.07; -1.6
+Jose Hernandez;/players/h/hernajo03.shtml;Jose Hernandez; 0.1;0;0;0;0;1;0;2.10;1;4;3;2;1;0;0;0;0;0;;1;0;0.026; 0.89; 0.02%; 1.13; 0.3
+Colin Holderman;/players/h/holdeco01.shtml;Colin Holderman; 1 ;1;1;1;0;0;1;3.00;4;15;9;4;4;1;2;2;0;0;;0;0;-0.050; 0.29;-0.04%; 0.37; -0.5
+Angel Perdomo;/players/p/perdoan01.shtml;Angel Perdomo; 1 ;2;1;1;0;3;0;1.80;5;20;14;4;4;6;0;2;2;0;;0;0;-0.016; 0.14;-0.01%; 0.18; -0.5
+
+Pitching away
+Kodai Senga;/players/s/sengako01.shtml; W (6-3); 7 ;2;1;0;4;6;0;3.34;28;96;54;26;11;17;14;4;1;0;73;;;0.322; 1.23; 0.15%; 0.98; 2.7
+David Robertson;/players/r/roberda08.shtml; H (6); 1 ;1;0;0;0;2;0;1.91;4;21;13;6;3;4;0;2;2;0;;0;0;0.055; 1.33; 0.03%; 1.05; 0.5
+Adam Ottavino;/players/o/ottavad01.shtml;Adam Ottavino; 1 ;0;0;0;0;1;0;4.21;3;13;9;5;1;3;1;1;0;0;;0;0;0.020; 0.25; 0.01%; 0.20; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Johan Oviedo (3; Jeff McNeil).
+IBB: Dauri Moreta (1; Luis Guillorme).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Johan Oviedo (3; Jeff McNeil).
+IBB: Dauri Moreta (1; Luis Guillorme).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Ryan Additon, 1B - Dan Merzel, 2B - Will Little, 3B - Lance Barksdale, LF - (none), RF - (none).
+Time of Game: 2:31.
+Attendance: 35,290.
+Field Condition: Unknown.
+Start Time Weather: 81° F, Wind 10mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+3;Jeff McNeil;/players/m/mcneije01.shtml;2B
+4;Francisco Lindor;/players/l/lindofr01.shtml;DH
+5;Starling Marte;/players/m/martest01.shtml;RF
+6;Brett Baty;/players/b/batybr01.shtml;3B
+7;Tommy Pham;/players/p/phamth01.shtml;LF
+8;Luis Guillorme;/players/g/guilllu01.shtml;SS
+9;Mark Canha;/players/c/canhama01.shtml;1B
+; Kodai Senga;/players/s/sengako01.shtml;P
+Pirates
+1;Andrew McCutchen;/players/m/mccutan01.shtml;DH
+2;Bryan Reynolds;/players/r/reynobr01.shtml;LF
+3;Connor Joe;/players/j/joeco01.shtml;RF
+4;Carlos Santana;/players/s/santaca01.shtml;1B
+5;Jack Suwinski;/players/s/suwinja01.shtml;CF
+6;Ke'Bryan Hayes;/players/h/hayeske01.shtml;3B
+7;Ji Hwan Bae;/players/b/baeji01.shtml;2B
+8;Tucupita Marcano;/players/m/marcatu01.shtml;SS
+9;Jason Delay;/players/d/delayja01.shtml;C
+; Johan Oviedo;/players/o/oviedjo01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t7;1-1;2;12-;5,(2-2) BCBCX;RR;NYM;Mark Canha;Dauri Moreta;32%;80%;Double to CF (Line Drive to Deep CF-RF); Marte Scores; Guillorme Scores
+t6;1-1;1;12-;6,(2-2) CFBFBX;OO;NYM;Francisco Lindor;Johan Oviedo;-13%;42%;Ground Ball Double Play: 1B-SS-P (2B-1B)
+b4;0-1;1;1-3;1,(0-0) X;R;PIT;Ji Hwan Bae;Kodai Senga;-12%;36%;Fielder's Choice 2B; Suwinski Scores/unER; Hayes to 3B/Adv on E4; Bae to 1B
+t3;0-0;2;--3;3,(2-0) *B*BX;R;NYM;Brandon Nimmo;Johan Oviedo;10%;58%;Single to LF (Line Drive to Deep SS-3B Hole); Pham Scores
+b3;0-1;2;123;3,(1-1) C*BX;O;PIT;Connor Joe;Kodai Senga;9%;62%;Flyball: CF (Deep CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Mets Batting, Tied 0-0, Pirates' Johan Oviedo facing 1-2-3 
+t1;0-0;0;---;4,(1-2) CCBX;;NYM;Brandon Nimmo;Johan Oviedo;4%;54%;Single to RF (Line Drive)
+t1;0-0;0;1--;4,(2-1) SB*B1X;O;NYM;Francisco Alvarez;Johan Oviedo;-3%;50%;Popfly: 1B
+t1;0-0;1;1--;2,(0-1) FX;OO;NYM;Jeff McNeil;Johan Oviedo;-5%;45%;Ground Ball Double Play: 3B-SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Mets 0, Pirates 0.
+Bottom of the 1st, Pirates Batting, Tied 0-0, Mets' Kodai Senga facing 1-2-3 
+b1;0-0;0;---;5,(3-1) BBBCX;O;PIT;Andrew McCutchen;Kodai Senga;2%;47%;Flyball: CF (LF-CF)
+b1;0-0;1;---;4,(2-1) CBBX;O;PIT;Bryan Reynolds;Kodai Senga;2%;49%;Groundout: 2B-1B
+b1;0-0;2;---;1,(0-0) X;;PIT;Connor Joe;Kodai Senga;-1%;48%;Single to LF (Ground Ball)
+b1;0-0;2;1--;1,(0-0) >B;O;PIT;Carlos Santana;Kodai Senga;2%;50%;Joe Caught Stealing 2B (C-SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Mets 0, Pirates 0.
+Top of the 2nd, Mets Batting, Tied 0-0, Pirates' Johan Oviedo facing 4-5-6 
+t2;0-0;0;---;3,(1-1) BCX;O;NYM;Francisco Lindor;Johan Oviedo;-2%;48%;Flyball: LF (Deep LF-CF)
+t2;0-0;1;---;6,(3-2) BCBBSS;O;NYM;Starling Marte;Johan Oviedo;-2%;46%;Strikeout Swinging
+t2;0-0;2;---;1,(0-0) X;O;NYM;Brett Baty;Johan Oviedo;-1%;45%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Pirates 0.
+Bottom of the 2nd, Pirates Batting, Tied 0-0, Mets' Kodai Senga facing 4-5-6 
+b2;0-0;0;---;2,(1-0) BX;;PIT;Carlos Santana;Kodai Senga;-4%;41%;Single to LF (Ground Ball thru SS-3B Hole)
+b2;0-0;0;1--;5,(2-2) CC*BBX;OO;PIT;Jack Suwinski;Kodai Senga;8%;49%;Ground Ball Double Play: 2B-SS-1B
+b2;0-0;2;---;3,(0-2) CS*S;O;PIT;Ke'Bryan Hayes;Kodai Senga;1%;50%;Strikeout Swinging; Hayes out at 1B/C-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Mets 0, Pirates 0.
+Top of the 3rd, Mets Batting, Tied 0-0, Pirates' Johan Oviedo facing 7-8-9 
+t3;0-0;0;---;1,(0-0) X;;NYM;Tommy Pham;Johan Oviedo;7%;57%;Double to LF (Line Drive to Deep LF-CF)
+t3;0-0;0;-2-;4,(1-2) LBFX;O;NYM;Luis Guillorme;Johan Oviedo;-2%;55%;Flyball: CF (Deep CF); Pham to 3B
+t3;0-0;1;--3;5,(2-2) FBBFC;O;NYM;Mark Canha;Johan Oviedo;-6%;49%;Strikeout Looking
+t3;0-0;2;--3;3,(2-0) *B*BX;R;NYM;Brandon Nimmo;Johan Oviedo;10%;58%;Single to LF (Line Drive to Deep SS-3B Hole); Pham Scores
+t3;1-0;2;1--;3,(1-1) CBX;O;NYM;Francisco Alvarez;Johan Oviedo;-2%;56%;Groundout: 3B-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Mets 1, Pirates 0.
+Bottom of the 3rd, Pirates Batting, Behind 0-1, Mets' Kodai Senga facing 7-8-9 
+b3;0-1;0;---;1,(0-0) X;O;PIT;Ji Hwan Bae;Kodai Senga;3%;59%;Groundout: 2B-1B
+b3;0-1;1;---;2,(0-1) CX;O;PIT;Tucupita Marcano;Kodai Senga;2%;61%;Groundout: 1B unassisted
+b3;0-1;2;---;4,(3-0) BBBB;;PIT;Jason Delay;Kodai Senga;-2%;59%;Walk
+b3;0-1;2;1--;6,(3-2) *BC*BBC>*B;;PIT;Andrew McCutchen;Kodai Senga;-2%;57%;Walk; Delay to 2B
+b3;0-1;2;12-;5,(3-1) *B*BBCB;;PIT;Bryan Reynolds;Kodai Senga;-4%;53%;Walk; Delay to 3B; McCutchen to 2B
+b3;0-1;2;123;3,(1-1) C*BX;O;PIT;Connor Joe;Kodai Senga;9%;62%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 3 LOB. Mets 1, Pirates 0.
+Top of the 4th, Mets Batting, Ahead 1-0, Pirates' Johan Oviedo facing 3-4-5 
+t4;1-0;0;---;4,(1-2) CBCX;O;NYM;Jeff McNeil;Johan Oviedo;-2%;60%;Flyball: RF
+t4;1-0;1;---;1,(0-0) X;O;NYM;Francisco Lindor;Johan Oviedo;-2%;58%;Flyball: CF (Deep LF-CF)
+t4;1-0;2;---;9,(3-2) BBFF.FBFFS;O;NYM;Starling Marte;Johan Oviedo;-1%;57%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 1, Pirates 0.
+Bottom of the 4th, Pirates Batting, Behind 0-1, Mets' Kodai Senga facing 4-5-6 
+b4;0-1;0;---;5,(1-2) BCFF*S;O;PIT;Carlos Santana;Kodai Senga;3%;60%;Strikeout Swinging
+b4;0-1;1;---;6,(3-2) BBFFB*B;;PIT;Jack Suwinski;Kodai Senga;-3%;57%;Walk
+b4;0-1;1;1--;1,(0-0) X;;PIT;Ke'Bryan Hayes;Kodai Senga;-8%;48%;Fielder's Choice 1B; Suwinski to 3B/Safe on E6 (catch); Hayes to 1B
+b4;0-1;1;1-3;1,(0-0) X;R;PIT;Ji Hwan Bae;Kodai Senga;-12%;36%;Fielder's Choice 2B; Suwinski Scores/unER; Hayes to 3B/Adv on E4; Bae to 1B
+b4;1-1;1;1-3;1,(0-0) 1X;O;PIT;Tucupita Marcano;Kodai Senga;8%;44%;Foul Bunt Popfly: 3B
+b4;1-1;2;1-3;2,(0-1) CX;O;PIT;Jason Delay;Kodai Senga;6%;50%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 0 hits, 2 errors, 2 LOB. Mets 1, Pirates 1.
+Top of the 5th, Mets Batting, Tied 1-1, Pirates' Johan Oviedo facing 6-7-8 
+t5;1-1;0;---;5,(3-1) BCBBB;;NYM;Brett Baty;Johan Oviedo;5%;55%;Walk
+t5;1-1;0;1--;1,(0-0) X;O;NYM;Tommy Pham;Johan Oviedo;-4%;50%;Flyball: CF (Deep CF)
+t5;1-1;1;1--;5,(1-2) BCT1FS;O;NYM;Luis Guillorme;Johan Oviedo;-4%;46%;Strikeout Swinging
+t5;1-1;2;1--;3,(0-2) SCX;O;NYM;Mark Canha;Johan Oviedo;-3%;43%;Groundout: SS-2B/Forceout at 2B; Canha to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mets 1, Pirates 1.
+Bottom of the 5th, Pirates Batting, Tied 1-1, Mets' Kodai Senga facing 1-2-3 
+b5;1-1;0;---;5,(2-2) BCBCS;O;PIT;Andrew McCutchen;Kodai Senga;3%;46%;Strikeout Swinging
+b5;1-1;1;---;5,(1-2) SS.BF*S;O;PIT;Bryan Reynolds;Kodai Senga;2%;48%;Strikeout Swinging
+b5;1-1;2;---;7,(3-2) CBSBFB.X;O;PIT;Connor Joe;Kodai Senga;2%;50%;Lineout: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 1, Pirates 1.
+Top of the 6th, Mets Batting, Tied 1-1, Pirates' Johan Oviedo facing 1-2-3 
+t6;1-1;0;---;5,(3-1) BCBBB;;NYM;Brandon Nimmo;Johan Oviedo;5%;55%;Walk
+t6;1-1;0;1--;1,(0-0) X;O;NYM;Francisco Alvarez;Johan Oviedo;-5%;50%;Flyball: LF (Deep LF-CF)
+t6;1-1;1;1--;3,(1-1) BFH;;NYM;Jeff McNeil;Johan Oviedo;5%;55%;Hit By Pitch; Nimmo to 2B
+t6;1-1;1;12-;6,(2-2) CFBFBX;OO;NYM;Francisco Lindor;Johan Oviedo;-13%;42%;Ground Ball Double Play: 1B-SS-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mets 1, Pirates 1.
+Bottom of the 6th, Pirates Batting, Tied 1-1, Mets' Kodai Senga facing 4-5-6 
+b6;1-1;0;---;2,(1-0) BX;O;PIT;Carlos Santana;Kodai Senga;3%;46%;Popfly: 3B (Deep 3B)
+b6;1-1;1;---;3,(2-0) BBX;;PIT;Jack Suwinski;Kodai Senga;-4%;42%;Reached on E3 (Ground Ball to 2B-1B); Suwinski to 1B
+b6;1-1;1;1--;3,(0-2) 1CSS;O;PIT;Ke'Bryan Hayes;Kodai Senga;4%;46%;Strikeout Swinging
+b6;1-1;2;1--;3,(2-0) B+1BX;O;PIT;Ji Hwan Bae;Kodai Senga;4%;50%;Groundout: 2B-1B (Deep 2B-1B)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Mets 1, Pirates 1.
+Top of the 7th, Mets Batting, Tied 1-1, Pirates' Johan Oviedo facing 5-6-7 
+t7;1-1;0;---;5,(2-2) FBCBX;;NYM;Starling Marte;Johan Oviedo;6%;56%;Single to SS (Ground Ball to SS-3B Hole)
+t7;1-1;0;1--;6,(3-2) BFB1FB>S;O;NYM;Brett Baty;Johan Oviedo;-3%;53%;Strikeout Swinging, Marte Steals 2B
+;;;;;;;;;Dauri Moreta replaces Johan Oviedo pitching
+t7;1-1;1;-2-;3,(0-2) .CCS;O;NYM;Tommy Pham;Dauri Moreta;-6%;47%;Strikeout Swinging
+t7;1-1;2;-2-;3,(3-0) BBBV;;NYM;Luis Guillorme;Dauri Moreta;1%;49%;Intentional Walk
+t7;1-1;2;12-;5,(2-2) BCBCX;RR;NYM;Mark Canha;Dauri Moreta;32%;80%;Double to CF (Line Drive to Deep CF-RF); Marte Scores; Guillorme Scores
+;;;;;;;;;Jose Hernandez replaces Dauri Moreta pitching
+t7;3-1;2;-2-;4,(1-2) .BFST;O;NYM;Brandon Nimmo;Jose Hernandez;-3%;78%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Mets 3, Pirates 1.
+Bottom of the 7th, Pirates Batting, Behind 1-3, Mets' Kodai Senga facing 8-9-1 
+b7;1-3;0;---;4,(2-1) BBFX;O;PIT;Tucupita Marcano;Kodai Senga;4%;82%;Groundout: 1B unassisted
+b7;1-3;1;---;4,(1-2) BFC*S;O;PIT;Jason Delay;Kodai Senga;3%;84%;Strikeout Swinging
+b7;1-3;2;---;2,(1-0) BX;O;PIT;Andrew McCutchen;Kodai Senga;2%;86%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 3, Pirates 1.
+Top of the 8th, Mets Batting, Ahead 3-1, Pirates' Colin Holderman facing 2-3-4 
+;;;;;;;;;Colin Holderman replaces Jose Hernandez pitching
+t8;3-1;0;---;6,(3-2) .SBS.BBX;R;NYM;Francisco Alvarez;Colin Holderman;7%;93%;Home Run (Fly Ball to Deep LF-CF)
+t8;4-1;0;---;2,(0-1) SX;O;NYM;Jeff McNeil;Colin Holderman;-1%;92%;Groundout: 1B-P
+t8;4-1;1;---;4,(2-1) CBBX;O;NYM;Francisco Lindor;Colin Holderman;-1%;91%;Groundout: 1B-P
+t8;4-1;2;---;3,(1-1) SBX;O;NYM;Starling Marte;Colin Holderman;0%;91%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Mets 4, Pirates 1.
+Bottom of the 8th, Pirates Batting, Behind 1-4, Mets' David Robertson facing 2-3-4 
+;;;;;;;;;David Robertson replaces Kodai Senga pitching
+b8;1-4;0;---;4,(1-2) .FC.BX;;PIT;Bryan Reynolds;David Robertson;-5%;86%;Single to CF (Line Drive to Deep LF-CF)
+b8;1-4;0;1--;6,(2-2) SBCBFS;O;PIT;Connor Joe;David Robertson;5%;91%;Strikeout Swinging
+b8;1-4;1;1--;5,(2-2) CF*B*BC;O;PIT;Carlos Santana;David Robertson;4%;94%;Strikeout Looking
+b8;1-4;2;1--;6,(3-2) BS+1*BFB>X;O;PIT;Jack Suwinski;David Robertson;2%;96%;Lineout: CF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 4, Pirates 1.
+Top of the 9th, Mets Batting, Ahead 4-1, Pirates' Angel Perdomo facing 6-7-8 
+;;;;;;;;;Angel Perdomo replaces Colin Holderman pitching
+t9;4-1;0;---;5,(2-2) .BCBSS;O;NYM;Brett Baty;Angel Perdomo;0%;96%;Strikeout Swinging
+t9;4-1;1;---;4,(2-1) CBBX;;NYM;Tommy Pham;Angel Perdomo;0%;96%;Single to CF (Line Drive to Deep CF)
+t9;4-1;1;1--;4,(1-2) FB1CT;O;NYM;Luis Guillorme;Angel Perdomo;0%;96%;Strikeout Swinging
+t9;4-1;2;1--;1,(0-0) 1>B;;NYM;Mark Canha;Angel Perdomo;0%;96%;Pham Steals 2B
+t9;4-1;2;-2-;4,(1-2) 1>B.CCX;R;NYM;Mark Canha;Angel Perdomo;2%;98%;Double to RF (Line Drive to Deep CF-RF); Pham Scores
+t9;5-1;2;-2-;3,(0-2) SCS;O;NYM;Brandon Nimmo;Angel Perdomo;0%;98%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Mets 5, Pirates 1.
+Bottom of the 9th, Pirates Batting, Behind 1-5, Mets' Adam Ottavino facing 6-7-8 
+;;;;;;;;;Adam Ottavino replaces David Robertson pitching
+b9;1-5;0;---;5,(2-2) .BCBFS;O;PIT;Ke'Bryan Hayes;Adam Ottavino;1%;99%;Strikeout Swinging
+b9;1-5;1;---;3,(0-2) FC.X;O;PIT;Ji Hwan Bae;Adam Ottavino;1%;100%;Flyball: CF
+b9;1-5;2;---;5,(2-2) CBBFX;O;PIT;Tucupita Marcano;Adam Ottavino;0%;100%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 5, Pirates 1.

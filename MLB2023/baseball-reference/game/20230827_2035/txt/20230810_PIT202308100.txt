@@ -1,0 +1,279 @@
+
+Scorebox Meta
+20230810
+12:35 p.m. Local
+16550
+PNC Park
+166
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/ATL-2023.png;/teams/ATL/2023.shtml;1;1;2;0;0;0;0;0;1;5;12;0
+https://cdn.ssref.net/req/202308251/tlogo/br/PIT-2023.png;/teams/PIT/2023.shtml;0;0;3;0;0;2;2;0;X;7;10;0
+
+Batting home
+Joshua Palacios;/players/p/palacjo01.shtml;LF;4;1;0;0;0;0;5;.226;.262;.387;.649;15;10;-0.095; 1.12;0.034;-0.128;-0.01%; 0.09; -1.0;3;0;HBP
+Bryan Reynolds;/players/r/reynobr01.shtml;DH;4;2;2;0;1;0;5;.269;.334;.455;.789;16;9;0.076; 0.93;0.113;-0.037; 0.00%; 0.08; 0.9;;;
+Ke'Bryan Hayes;/players/h/hayeske01.shtml;3B;5;1;2;3;0;0;5;.255;.291;.412;.703;23;13;0.206; 1.21;0.262;-0.056; 0.01%; 0.10; 2.5;0;2;3B
+Alfonso Rivas;/players/r/rivasal01.shtml;1B;3;0;0;1;0;0;4;.256;.333;.538;.872;16;10;-0.050; 0.99;0.011;-0.062;-0.00%; 0.08; -0.7;9;1;SF
+Henry Davis;/players/d/davishe01.shtml;RF;3;1;1;0;1;2;4;.223;.318;.363;.681;17;9;0.003; 1.16;0.067;-0.065;0%; 0.10; 0.1;1;0;IW
+Jack Suwinski;/players/s/suwinja01.shtml;CF;3;1;1;0;1;1;4;.212;.334;.463;.797;17;8;0.173; 1.31;0.223;-0.050; 0.01%; 0.11; 0.6;3;0;2B
+Liover Peguero;/players/p/pegueli01.shtml;SS-2B;4;0;2;2;0;1;4;.260;.288;.480;.768;11;9;0.137; 1.65;0.194;-0.056; 0.01%; 0.14; 1.5;0;4;SB
+Jared Triolo;/players/t/triolja01.shtml;2B;3;0;0;0;0;3;4;.270;.331;.287;.618;11;9;-0.131; 1.14;0.006;-0.137;-0.01%; 0.10; -0.9;2;2;HBP
+Alika Williams;/players/w/willial04.shtml;SS;0;0;0;0;0;0;0;.222;.300;.278;.578;;;;;;;;;;0;1;
+Jason Delay;/players/d/delayja01.shtml;C;4;1;2;1;0;0;4;.274;.333;.385;.718;13;10;0.060; 1.12;0.078;-0.018; 0.00%; 0.09; -0.4;8;0;
+Bailey Falter;/players/f/falteba01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Thomas Hatch;/players/h/hatchto01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Colin Holderman;/players/h/holdeco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jack Suwinski (15, off Bryce Elder).
+
+
+3B: Ke'Bryan Hayes (6, off Brad Hand).
+
+
+SF: Alfonso Rivas (1, off Bryce Elder).
+
+
+IBB: Henry Davis (2, by Brad Hand).
+
+
+HBP: Joshua Palacios (2, by Bryce Elder); Jared Triolo (2, by Brad Hand).
+
+
+TB: Ke'Bryan Hayes 4; Jason Delay 2; Liover Peguero 2; Jack Suwinski 2; Bryan Reynolds 2; Henry Davis.
+
+
+RBI: Ke'Bryan Hayes 3 (42); Liover Peguero 2 (11); Jason Delay (13); Alfonso Rivas (6).
+
+
+2-out RBI: Liover Peguero.
+
+
+Team LOB: 8.
+With RISP: 3 for 11.
+
+Batting away
+Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF;4;0;1;1;1;0;5;.340;.422;.585;1.007;18;10;0.057; 0.93;0.102;-0.045; 0.01%; 0.21; 0.7;0;0;
+Ozzie Albies;/players/a/albieoz01.shtml;2B;5;1;1;0;0;2;5;.263;.320;.506;.825;17;14;-0.120; 1.39;0.039;-0.159;-0.02%; 0.31; -0.8;1;0;SB
+Austin Riley;/players/r/rileyau01.shtml;3B;5;0;3;1;0;1;5;.277;.337;.501;.838;21;16;0.090; 1.20;0.155;-0.065; 0.01%; 0.27; 0.9;0;3;
+Matt Olson;/players/o/olsonma02.shtml;1B;5;1;2;1;0;1;5;.267;.375;.604;.980;24;17;-0.027; 1.38;0.121;-0.147;-0.00%; 0.31; 0.2;8;0;HR
+Travis d'Arnaud;/players/d/darnatr01.shtml;C;4;1;2;0;0;0;4;.266;.326;.480;.806;10;6;-0.041; 1.13;0.045;-0.086;-0.01%; 0.26; -0.2;7;0;
+Marcell Ozuna;/players/o/ozunama01.shtml;DH;4;0;1;1;0;1;4;.235;.308;.464;.773;13;8;-0.024; 1.10;0.074;-0.098;-0.00%; 0.25; 0.0;;;2B
+Orlando Arcia;/players/a/arciaor01.shtml;SS;3;1;1;1;1;0;4;.301;.357;.472;.829;18;9;0.025; 0.81;0.097;-0.072; 0.00%; 0.18; 0.4;0;1;HR,GDP
+Kevin Pillar;/players/p/pillake01.shtml;LF;4;0;0;0;0;3;4;.227;.254;.422;.676;12;12;-0.071; 0.68;0.000;-0.071;-0.01%; 0.15; -1.1;5;0;
+Michael Harris II;/players/h/harrimi04.shtml;CF;4;1;1;0;0;0;4;.292;.339;.468;.807;25;14;-0.010; 0.90;0.045;-0.055;-0.00%; 0.20; 0.0;3;0;SB
+Bryce Elder;/players/e/elderbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Joe Jiménez;/players/j/jimenjo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brad Hand;/players/h/handbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael Tonkin;/players/t/tonkimi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Marcell Ozuna (11, off Bailey Falter).
+
+
+HR: Orlando Arcia (13, off Bailey Falter, 2nd inn, 0 on, 0 outs to Deep LF-CF); Matt Olson (40, off Bailey Falter, 3rd inn, 0 on, 2 outs to Deep CF).
+
+
+TB: Matt Olson 5; Orlando Arcia 4; Austin Riley 3; Marcell Ozuna 2; Travis d'Arnaud 2; Ronald Acuna Jr.; Michael Harris II; Ozzie Albies.
+
+
+GIDP: Orlando Arcia (12).
+
+
+RBI: Marcell Ozuna (52); Austin Riley (70); Matt Olson (101); Orlando Arcia (43); Ronald Acuna Jr. (70).
+
+
+2-out RBI: Marcell Ozuna; Matt Olson.
+
+
+Team LOB: 8.
+With RISP: 2 for 7.
+
+Pitching home
+Bailey Falter;/players/f/falteba01.shtml;Bailey Falter; 4 ;8;4;4;2;3;2;5.21;22;86;57;39;8;10;8;9;3;0;31;;;-0.172; 0.85;-0.01%; 0.07; -1.9
+Thomas Hatch;/players/h/hatchto01.shtml; W (1-0); 4 ;2;0;0;0;2;0;2.61;13;42;30;17;6;7;7;4;1;0;;0;0;0.257; 1.12; 0.01%; 0.09; 2.1
+Colin Holderman;/players/h/holdeco01.shtml; S (2); 1 ;2;1;1;0;3;0;3.38;5;30;19;11;4;4;0;2;2;0;;0;0;0.036; 1.61; 0.00%; 0.14; -0.5
+
+Pitching away
+Bryce Elder;/players/e/elderbr01.shtml; L (8-4); 5 ;6;5;5;2;5;0;3.64;24;87;52;29;8;15;6;10;4;0;38;;;-0.199; 1.29;-0.03%; 0.29; -1.8
+Joe Jiménez;/players/j/jimenjo02.shtml; BS (2); 1 ;1;0;0;0;1;0;2.57;4;18;14;9;2;3;1;2;1;0;;2;2;-0.048; 2.03;-0.01%; 0.46; 0.0
+Brad Hand;/players/h/handbr01.shtml;Brad Hand; 1 ;3;2;2;1;1;0;4.54;8;24;15;8;1;6;0;5;3;0;;0;0;-0.140; 0.75;-0.02%; 0.17; -1.5
+Michael Tonkin;/players/t/tonkimi01.shtml;Michael Tonkin; 1 ;0;0;0;0;0;0;3.17;3;10;6;4;0;2;1;2;1;0;;0;0;0.007; 0.09; 0.00%; 0.02; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Brad Hand (4; Jared Triolo); Bryce Elder (7; Joshua Palacios).
+IBB: Brad Hand (2; Henry Davis).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Brad Hand (4; Jared Triolo); Bryce Elder (7; Joshua Palacios).
+IBB: Brad Hand (2; Henry Davis).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Alan Porter, 1B - Jim Wolf, 2B - Jeremy Riggs, 3B - Mike Muchlinski, LF - (none), RF - (none).
+Time of Game: 2:46.
+Attendance: 16,550.
+Field Condition: Unknown.
+Start Time Weather: 73° F, Wind 6mph out to Centerfield, Overcast, No Precipitation.
+
+div_lineups
+Braves
+1;Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF
+2;Ozzie Albies;/players/a/albieoz01.shtml;2B
+3;Austin Riley;/players/r/rileyau01.shtml;3B
+4;Matt Olson;/players/o/olsonma02.shtml;1B
+5;Travis d'Arnaud;/players/d/darnatr01.shtml;C
+6;Marcell Ozuna;/players/o/ozunama01.shtml;DH
+7;Orlando Arcia;/players/a/arciaor01.shtml;SS
+8;Kevin Pillar;/players/p/pillake01.shtml;LF
+9;Michael Harris II;/players/h/harrimi04.shtml;CF
+; Bryce Elder;/players/e/elderbr01.shtml;P
+Pirates
+1;Joshua Palacios;/players/p/palacjo01.shtml;LF
+2;Bryan Reynolds;/players/r/reynobr01.shtml;DH
+3;Ke'Bryan Hayes;/players/h/hayeske01.shtml;3B
+4;Alfonso Rivas;/players/r/rivasal01.shtml;1B
+5;Henry Davis;/players/d/davishe01.shtml;RF
+6;Jack Suwinski;/players/s/suwinja01.shtml;CF
+7;Liover Peguero;/players/p/pegueli01.shtml;SS
+8;Jared Triolo;/players/t/triolja01.shtml;2B
+9;Jason Delay;/players/d/delayja01.shtml;C
+; Bailey Falter;/players/f/falteba01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b6;3-4;0;1--;4,(2-1) BBCX;;PIT;Jack Suwinski;Bryce Elder;18%;64%;Double to LF (Fly Ball to Deep LF-CF); Davis to 3B
+b3;0-4;1;123;5,(1-2) CBFFX;RR;PIT;Ke'Bryan Hayes;Bryce Elder;14%;41%;Single to LF (Line Drive to Short LF); Delay Scores; Palacios Scores; Reynolds to 3B
+b7;5-4;0;1--;6,(3-2) CBBCBX;R;PIT;Ke'Bryan Hayes;Brad Hand;12%;93%;Triple to RF (Line Drive to Deep CF-RF); Reynolds Scores
+b6;3-4;0;-23;4,(1-2) .FCBX;R;PIT;Liover Peguero;Joe Jiménez;11%;75%;Single to CF (Line Drive to Deep CF); Davis Scores; Suwinski to 3B
+t2;1-0;0;---;5,(2-2) BFFBX;R;ATL;Orlando Arcia;Bailey Falter;-9%;31%;Home Run (Fly Ball to Deep LF-CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Braves Batting, Tied 0-0, Pirates' Bailey Falter facing 1-2-3 
+t1;0-0;0;---;2,(1-0) BX;O;ATL;Ronald Acuna Jr.;Bailey Falter;2%;52%;Groundout: SS-1B (SS-3B Hole)
+t1;0-0;1;---;3,(0-2) FFX;;ATL;Ozzie Albies;Bailey Falter;-2%;50%;Single to RF (Ground Ball thru 2B-1B)
+t1;0-0;1;1--;3,(0-2) FS>B;;ATL;Austin Riley;Bailey Falter;-1%;48%;Albies Steals 2B
+t1;0-0;1;-2-;4,(1-2) FS>B.X;R;ATL;Austin Riley;Bailey Falter;-8%;40%;Single to LF (Ground Ball); Albies Scores
+t1;1-0;1;1--;1,(0-0) X;;ATL;Matt Olson;Bailey Falter;-3%;37%;Single to RF (Ground Ball thru 2B-1B); Riley to 2B
+t1;1-0;1;12-;4,(2-1) BCBX;O;ATL;Travis d'Arnaud;Bailey Falter;4%;41%;Lineout: LF (Deep LF-CF)
+t1;1-0;2;12-;1,(0-0) X;O;ATL;Marcell Ozuna;Bailey Falter;4%;45%;Groundout: SS-2B/Forceout at 2B; Ozuna to 1B
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Braves 1, Pirates 0.
+Bottom of the 1st, Pirates Batting, Behind 0-1, Braves' Bryce Elder facing 1-2-3 
+b1;0-1;0;---;3,(2-0) BBX;O;PIT;Joshua Palacios;Bryce Elder;-2%;43%;Groundout: 1B unassisted
+b1;0-1;1;---;2,(1-0) BX;;PIT;Bryan Reynolds;Bryce Elder;3%;45%;Single to LF (Line Drive)
+b1;0-1;1;1--;4,(2-1) C*BBX;O;PIT;Ke'Bryan Hayes;Bryce Elder;-3%;42%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Hayes to 1B
+b1;0-1;2;1--;6,(2-2) BCS*BFX;O;PIT;Alfonso Rivas;Bryce Elder;-2%;40%;Groundout: P-1B (Weak SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 1, Pirates 0.
+Top of the 2nd, Braves Batting, Ahead 1-0, Pirates' Bailey Falter facing 7-8-9 
+t2;1-0;0;---;5,(2-2) BFFBX;R;ATL;Orlando Arcia;Bailey Falter;-9%;31%;Home Run (Fly Ball to Deep LF-CF)
+t2;2-0;0;---;3,(0-2) CS*S;O;ATL;Kevin Pillar;Bailey Falter;2%;32%;Strikeout Swinging
+t2;2-0;1;---;6,(3-2) BBCBCX;O;ATL;Michael Harris II;Bailey Falter;1%;34%;Flyball: LF (Short LF)
+t2;2-0;2;---;3,(1-1) CBX;O;ATL;Ronald Acuna Jr.;Bailey Falter;1%;35%;Groundout: 3B-1B (Weak SS)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Braves 2, Pirates 0.
+Bottom of the 2nd, Pirates Batting, Behind 0-2, Braves' Bryce Elder facing 5-6-7 
+b2;0-2;0;---;6,(3-2) CBBFBS;O;PIT;Henry Davis;Bryce Elder;-3%;32%;Strikeout Swinging
+b2;0-2;1;---;2,(1-0) BX;O;PIT;Jack Suwinski;Bryce Elder;-2%;30%;Flyball: LF (LF-CF)
+b2;0-2;2;---;2,(0-1) TX;O;PIT;Liover Peguero;Bryce Elder;-1%;29%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 2, Pirates 0.
+Top of the 3rd, Braves Batting, Ahead 2-0, Pirates' Bailey Falter facing 2-3-4 
+t3;2-0;0;---;1,(0-0) X;O;ATL;Ozzie Albies;Bailey Falter;2%;31%;Groundout: 3B-1B (SS-3B Hole)
+t3;2-0;1;---;6,(2-2) CBFBFX;O;ATL;Austin Riley;Bailey Falter;1%;32%;Foul Popfly: 1B (1B into Foul Terr.)
+t3;2-0;2;---;9,(3-2) BSBBSFFFX;R;ATL;Matt Olson;Bailey Falter;-9%;23%;Home Run (Fly Ball to Deep CF)
+t3;3-0;2;---;1,(0-0) X;;ATL;Travis d'Arnaud;Bailey Falter;-1%;23%;Single to RF (Line Drive to CF-RF)
+t3;3-0;2;1--;3,(1-1) FBX;R;ATL;Marcell Ozuna;Bailey Falter;-7%;15%;Double to CF (Fly Ball to Deep LF-CF); d'Arnaud Scores
+t3;4-0;2;-2-;6,(3-2) BBCF*B*B;;ATL;Orlando Arcia;Bailey Falter;0%;15%;Walk
+t3;4-0;2;12-;4,(0-2) CFFS;O;ATL;Kevin Pillar;Bailey Falter;2%;17%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Braves 4, Pirates 0.
+Bottom of the 3rd, Pirates Batting, Behind 0-4, Braves' Bryce Elder facing 8-9-1 
+b3;0-4;0;---;4,(1-2) SCBS;O;PIT;Jared Triolo;Bryce Elder;-2%;15%;Strikeout Swinging
+b3;0-4;1;---;1,(0-0) X;;PIT;Jason Delay;Bryce Elder;2%;17%;Single to RF (Line Drive to CF-RF)
+b3;0-4;1;1--;2,(0-1) FH;;PIT;Joshua Palacios;Bryce Elder;3%;21%;Hit By Pitch; Delay to 2B
+b3;0-4;1;12-;5,(3-1) BBBC*B;;PIT;Bryan Reynolds;Bryce Elder;6%;26%;Walk; Delay to 3B; Palacios to 2B
+b3;0-4;1;123;5,(1-2) CBFFX;RR;PIT;Ke'Bryan Hayes;Bryce Elder;14%;41%;Single to LF (Line Drive to Short LF); Delay Scores; Palacios Scores; Reynolds to 3B
+b3;2-4;1;1-3;6,(3-2) BBC1SBX;RO;PIT;Alfonso Rivas;Bryce Elder;1%;42%;Flyball: LF/Sacrifice Fly; Reynolds Scores; Hayes to 2B
+;;;;;;;;;Tag play Challenged by PIT manager (Derek Shelton): Original call overturned as shown.
+b3;3-4;2;-2-;5,(2-2) BFBSS;O;PIT;Henry Davis;Bryce Elder;-4%;38%;Strikeout Swinging
+;;;;;;;;;3 runs, 2 hits, 0 errors, 1 LOB. Braves 4, Pirates 3.
+Top of the 4th, Braves Batting, Ahead 4-3, Pirates' Bailey Falter facing 9-1-2 
+t4;4-3;0;---;5,(3-1) BBBCX;O;ATL;Michael Harris II;Bailey Falter;2%;40%;Groundout: SS-1B
+t4;4-3;1;---;8,(3-2) BFBFBFFB;;ATL;Ronald Acuna Jr.;Bailey Falter;-3%;38%;Walk
+t4;4-3;1;1--;3,(0-2) FFS;O;ATL;Ozzie Albies;Bailey Falter;3%;41%;Strikeout Swinging
+t4;4-3;2;1--;5,(1-2) S1FFBX;;ATL;Austin Riley;Bailey Falter;-3%;38%;Single to RF (Line Drive to CF-RF); Acuña to 3B
+t4;4-3;2;1-3;3,(1-1) BCX;O;ATL;Matt Olson;Bailey Falter;5%;43%;Flyball: CF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Braves 4, Pirates 3.
+Bottom of the 4th, Pirates Batting, Behind 3-4, Braves' Bryce Elder facing 6-7-8 
+b4;3-4;0;---;6,(3-2) CBFBBB;;PIT;Jack Suwinski;Bryce Elder;5%;48%;Walk
+b4;3-4;0;1--;4,(1-2) BCCC;O;PIT;Liover Peguero;Bryce Elder;-5%;44%;Strikeout Looking
+b4;3-4;1;1--;3,(0-2) >FC1*S;O;PIT;Jared Triolo;Bryce Elder;-4%;40%;Strikeout Swinging
+b4;3-4;2;1--;4,(2-1) BF*BX;;PIT;Jason Delay;Bryce Elder;4%;43%;Single to LF (Line Drive to Short LF-CF); Suwinski to 3B
+b4;3-4;2;1-3;1,(0-0) X;O;PIT;Joshua Palacios;Bryce Elder;-7%;37%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Braves 4, Pirates 3.
+Top of the 5th, Braves Batting, Ahead 4-3, Pirates' Thomas Hatch facing 5-6-7 
+;;;;;;;;;Thomas Hatch replaces Bailey Falter pitching
+t5;4-3;0;---;4,(2-1) .CBBX;;ATL;Travis d'Arnaud;Thomas Hatch;-4%;33%;Single to 3B (Ground Ball)
+t5;4-3;0;1--;5,(2-2) FS*B*B*S;O;ATL;Marcell Ozuna;Thomas Hatch;4%;36%;Strikeout Swinging
+t5;4-3;1;1--;3,(1-1) BCX;OO;ATL;Orlando Arcia;Thomas Hatch;6%;42%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Braves 4, Pirates 3.
+Bottom of the 5th, Pirates Batting, Behind 3-4, Braves' Bryce Elder facing 2-3-4 
+b5;3-4;0;---;3,(0-2) FFX;O;PIT;Bryan Reynolds;Bryce Elder;-3%;39%;Flyball: CF (Deep CF)
+b5;3-4;1;---;3,(2-0) BBX;O;PIT;Ke'Bryan Hayes;Bryce Elder;-2%;36%;Groundout: SS-1B
+b5;3-4;2;---;2,(0-1) CX;O;PIT;Alfonso Rivas;Bryce Elder;-2%;34%;Flyball: LF (Short LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 4, Pirates 3.
+Top of the 6th, Braves Batting, Ahead 4-3, Pirates' Thomas Hatch facing 8-9-1 
+t6;4-3;0;---;2,(0-1) FX;O;ATL;Kevin Pillar;Thomas Hatch;3%;37%;Groundout: 1B-P (Weak 2B-1B)
+t6;4-3;1;---;8,(3-2) BFBFFFBX;O;ATL;Michael Harris II;Thomas Hatch;2%;39%;Groundout: 1B unassisted (2B-1B)
+t6;4-3;2;---;1,(0-0) X;O;ATL;Ronald Acuna Jr.;Thomas Hatch;1%;40%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 4, Pirates 3.
+Bottom of the 6th, Pirates Batting, Behind 3-4, Braves' Bryce Elder facing 5-6-7 
+b6;3-4;0;---;4,(1-2) CFBX;;PIT;Henry Davis;Bryce Elder;6%;46%;Single to LF (Ground Ball thru SS-3B Hole)
+b6;3-4;0;1--;4,(2-1) BBCX;;PIT;Jack Suwinski;Bryce Elder;18%;64%;Double to LF (Fly Ball to Deep LF-CF); Davis to 3B
+;;;;;;;;;Joe Jiménez replaces Bryce Elder pitching
+b6;3-4;0;-23;4,(1-2) .FCBX;R;PIT;Liover Peguero;Joe Jiménez;11%;75%;Single to CF (Line Drive to Deep CF); Davis Scores; Suwinski to 3B
+b6;4-4;0;1-3;3,(0-2) F1CS;O;PIT;Jared Triolo;Joe Jiménez;-8%;67%;Strikeout Swinging
+b6;4-4;1;1-3;3,(0-2) FF>*B;;PIT;Jason Delay;Joe Jiménez;3%;70%;Peguero Steals 2B
+b6;4-4;1;-23;4,(1-2) FF>*B.X;RO;PIT;Jason Delay;Joe Jiménez;2%;72%;Groundout: 3B-1B (Front of Home); Suwinski Scores
+b6;5-4;2;-2-;7,(2-2) BBCSFFX;O;PIT;Joshua Palacios;Joe Jiménez;-3%;69%;Flyball: CF (Front of Home)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Braves 4, Pirates 5.
+Top of the 7th, Braves Batting, Behind 4-5, Pirates' Thomas Hatch facing 2-3-4 
+t7;4-5;0;---;3,(0-2) CSX;O;ATL;Ozzie Albies;Thomas Hatch;4%;73%;Groundout: 2B-1B (P's Left)
+t7;4-5;1;---;2,(0-1) SX;;ATL;Austin Riley;Thomas Hatch;-5%;68%;Single to RF (Ground Ball)
+t7;4-5;1;1--;2,(0-1) CX;O;ATL;Matt Olson;Thomas Hatch;6%;74%;Lineout: RF (Deep RF)
+t7;4-5;2;1--;1,(0-0) X;O;ATL;Travis d'Arnaud;Thomas Hatch;5%;79%;Flyball: CF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 4, Pirates 5.
+Bottom of the 7th, Pirates Batting, Ahead 5-4, Braves' Brad Hand facing 2-3-4 
+;;;;;;;;;Brad Hand replaces Joe Jiménez pitching
+b7;5-4;0;---;3,(0-2) .SFX;;PIT;Bryan Reynolds;Brad Hand;3%;81%;Single to RF (Line Drive)
+b7;5-4;0;1--;6,(3-2) CBBCBX;R;PIT;Ke'Bryan Hayes;Brad Hand;12%;93%;Triple to RF (Line Drive to Deep CF-RF); Reynolds Scores
+b7;6-4;0;--3;2,(1-0) BX;O;PIT;Alfonso Rivas;Brad Hand;-2%;91%;Flyball: CF
+b7;6-4;1;--3;2,(3-0) BBVV;;PIT;Henry Davis;Brad Hand;1%;92%;Intentional Walk
+b7;6-4;1;1-3;5,(2-2) BBCFC;O;PIT;Jack Suwinski;Brad Hand;-3%;88%;Strikeout Looking
+b7;6-4;2;1-3;1,(0-0) X;R;PIT;Liover Peguero;Brad Hand;5%;94%;Single to CF (Line Drive to Short CF-RF); Hayes Scores; Davis to 2B
+b7;7-4;2;12-;1,(0-0) H;;PIT;Jared Triolo;Brad Hand;1%;94%;Hit By Pitch; Davis to 3B; Peguero to 2B
+b7;7-4;2;123;4,(0-2) CCFX;O;PIT;Jason Delay;Brad Hand;-2%;93%;Flyball: LF (Deep LF)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 3 LOB. Braves 4, Pirates 7.
+Top of the 8th, Braves Batting, Behind 4-7, Pirates' Thomas Hatch facing 6-7-8 
+;;;;;;;;;Liover Peguero moves from SS to 2B Alika Williams replaces Jared Triolo (2B) playing SS batting 8th
+t8;4-7;0;---;4,(2-1) ..BCBX;O;ATL;Marcell Ozuna;Thomas Hatch;2%;95%;Groundout: SS-1B
+t8;4-7;1;---;4,(2-1) CBBX;O;ATL;Orlando Arcia;Thomas Hatch;1%;96%;Flyball: LF
+t8;4-7;2;---;3,(0-2) CS.*S;O;ATL;Kevin Pillar;Thomas Hatch;1%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 4, Pirates 7.
+Bottom of the 8th, Pirates Batting, Ahead 7-4, Braves' Michael Tonkin facing 1-2-3 
+;;;;;;;;;Michael Tonkin replaces Brad Hand pitching
+b8;7-4;0;---;2,(0-1) .CX;O;PIT;Joshua Palacios;Michael Tonkin;0%;97%;Lineout: 1B (Deep 1B)
+b8;7-4;1;---;3,(2-0) BBX;O;PIT;Bryan Reynolds;Michael Tonkin;0%;97%;Groundout: 1B unassisted
+b8;7-4;2;---;5,(2-2) CFBBX;O;PIT;Ke'Bryan Hayes;Michael Tonkin;0%;96%;Popfly: 1B (Deep 1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 4, Pirates 7.
+Top of the 9th, Braves Batting, Behind 4-7, Pirates' Colin Holderman facing 9-1-2 
+;;;;;;;;;Colin Holderman replaces Thomas Hatch pitching
+t9;4-7;0;---;6,(2-2) .BSCBFX;;ATL;Michael Harris II;Colin Holderman;-4%;93%;Single to RF (Line Drive to Deep CF-RF)
+t9;4-7;0;1--;2,(1-0) B>B;;ATL;Ronald Acuna Jr.;Colin Holderman;-1%;92%;Harris Steals 2B
+t9;4-7;0;-2-;4,(2-1) B>B.CX;R;ATL;Ronald Acuna Jr.;Colin Holderman;-7%;84%;Single to CF (Line Drive); Harris Scores
+t9;5-7;0;1--;7,(3-2) FBFBBFS;O;ATL;Ozzie Albies;Colin Holderman;7%;91%;Strikeout Swinging
+t9;5-7;1;1--;4,(1-2) CF*BS;O;ATL;Austin Riley;Colin Holderman;5%;96%;Strikeout Swinging
+t9;5-7;2;1--;1,(0-0) >*B;;ATL;Matt Olson;Colin Holderman;0%;96%;Defensive Indifference; Acuña to 2B
+t9;5-7;2;-2-;4,(2-2) >*B.BSFN;;ATL;Matt Olson;Colin Holderman;0%;96%;Defensive Indifference; Acuña to 3B
+t9;5-7;2;--3;9,(3-2) >*B.BSFN.BFFFC;O;ATL;Matt Olson;Colin Holderman;4%;100%;Strikeout Looking
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Braves 5, Pirates 7.

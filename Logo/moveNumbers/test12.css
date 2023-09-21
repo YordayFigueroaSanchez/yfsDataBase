@@ -1,0 +1,28 @@
+.container {
+    width: 400px;
+    height: 400px;
+    position: relative;
+}
+
+.character {
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* font-size: 24px;
+    width: 24px;
+    height: 24px;
+    background-color: red;
+    border-radius: 50%; */
+    animation: moveAlongPath 5s linear infinite;
+}
+
+@keyframes moveAlongPath {
+    0% {
+        animation-timing-function: linear;
+        transform: translateX(0);
+    }
+    100% {
+        animation-timing-function: linear;
+        transform: translateX(100%);
+    }
+}

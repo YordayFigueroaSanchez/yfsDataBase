@@ -1,0 +1,295 @@
+
+Scorebox Meta
+20230709
+1:35 p.m. Local
+35460
+Fenway Park
+185
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/OAK-2023.png;/teams/OAK/2023.shtml;1;1;0;0;1;0;0;0;0;3;11;2
+https://cdn.ssref.net/req/202308101/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;1;0;0;0;0;2;0;1;X;4;7;1
+
+Batting home
+Rob Refsnyder;/players/r/refsnro01.shtml;LF;3;1;0;0;1;2;4;.265;.390;.348;.738;21;12;-0.057; 1.36;0.060;-0.116;-0.03%; 1.12; -0.3;2;0;
+Alex Verdugo;/players/v/verdual01.shtml;RF;0;0;0;0;0;0;0;.290;.360;.457;.817;;;;;;;;;;1;0;
+Justin Turner;/players/t/turneju01.shtml;1B;3;0;1;0;0;0;4;.288;.362;.462;.824;13;9;-0.024; 1.02;0.059;-0.083;-0.01%; 0.83; -0.2;9;2;2B,HBP
+Rafael Devers;/players/d/deverra01.shtml;3B;4;0;1;0;0;1;4;.254;.325;.493;.818;18;13;-0.061; 1.33;0.048;-0.109;-0.03%; 1.09; -0.3;0;0;
+Adam Duvall;/players/d/duvalad01.shtml;RF-CF;2;1;1;2;0;1;4;.257;.328;.522;.850;14;8;0.141; 1.25;0.163;-0.022; 0.07%; 1.02; 1.1;0;0;HR,HBP,SF
+Masataka Yoshida;/players/y/yoshima02.shtml;DH;4;2;2;1;0;1;4;.316;.382;.492;.874;21;14;0.260; 1.52;0.335;-0.075; 0.13%; 1.24; 0.8;;;HR,SB
+Jorge Alfaro;/players/a/alfarjo01.shtml;C;2;0;0;0;2;0;4;.147;.216;.353;.569;21;13;0.013; 1.30;0.087;-0.074; 0.01%; 1.06; 0.2;10;0;
+Connor Wong;/players/w/wongco01.shtml;C;0;0;0;0;0;0;0;.235;.296;.407;.703;;;;;;;;;;1;1;
+Enrique Hernández;/players/h/hernaen02.shtml;CF;2;0;0;0;0;0;2;.221;.278;.324;.602;4;4;-0.083; 1.73;0.000;-0.083;-0.04%; 1.42; -0.8;0;0;
+Jarren Duran;/players/d/duranja01.shtml;PH-CF-LF;2;0;1;0;0;0;2;.320;.367;.519;.886;13;8;-0.023; 1.26;0.028;-0.051;-0.01%; 1.03; 0.1;0;0;
+Christian Arroyo;/players/a/arroych01.shtml;2B;4;0;1;1;0;1;4;.259;.291;.401;.692;16;11;0.044; 1.51;0.170;-0.126; 0.02%; 1.23; -0.3;1;5;2B,GDP
+Yu Chang;/players/c/changyu01.shtml;SS;3;0;0;0;1;0;4;.137;.185;.314;.499;13;6;-0.072; 1.21;0.012;-0.084;-0.04%; 0.99; -0.7;3;2;
+Tayler Scott;/players/s/scottta02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Chris Murphy;/players/m/murphch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Josh Winckowski;/players/w/winckjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joely Rodríguez;/players/r/rodrijo06.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chris Martin;/players/m/martich02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Kenley Jansen;/players/j/janseke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Justin Turner (19, off JP Sears); Christian Arroyo (14, off Paul Blackburn).
+
+
+HR: Adam Duvall (6, off Paul Blackburn, 6th inn, 0 on, 0 outs to Deep LF-CF); Masataka Yoshida (10, off Ken Waldichuk, 8th inn, 0 on, 0 outs to Deep LF).
+
+
+SF: Adam Duvall (2, off JP Sears).
+
+
+HBP: Justin Turner (6, by JP Sears); Adam Duvall (4, by JP Sears).
+
+
+TB: Masataka Yoshida 5; Adam Duvall 4; Justin Turner 2; Christian Arroyo 2; Jarren Duran; Rafael Devers.
+
+
+GIDP: Christian Arroyo (6).
+
+
+RBI: Adam Duvall 2 (23); Christian Arroyo (21); Masataka Yoshida (44).
+
+
+2-out RBI: Christian Arroyo.
+
+
+Team LOB: 8.
+With RISP: 2 for 8.
+
+Batting away
+Tony Kemp;/players/k/kempto01.shtml;2B-LF;4;0;1;0;1;0;5;.197;.286;.283;.568;20;11;-0.036; 1.44;0.091;-0.127;0%; 0.00; -0.9;3;1;SB
+Ryan Noda;/players/n/nodary01.shtml;1B;4;1;1;1;1;2;5;.229;.381;.403;.784;19;10;0.025; 1.85;0.189;-0.164;0%; 0.00; 0.6;6;0;2B
+Seth Brown;/players/b/brownse01.shtml;LF-RF;5;0;1;0;0;0;5;.201;.266;.384;.650;19;14;-0.143; 1.84;0.058;-0.201;0%; 0.00; -1.3;4;0;
+Brent Rooker;/players/r/rookebr01.shtml;DH;3;1;3;1;1;0;5;.246;.341;.485;.826;17;8;0.378; 1.41;0.378;0.000;0%; 0.00; 2.7;;;HR,SB,HBP
+Nick Allen;/players/a/allenni02.shtml;PR-DH;0;0;0;0;0;0;0;.195;.248;.230;.478;;;-0.193; 4.55;0.000;-0.193;0%; 0.00; -0.7;;;CS
+JJ Bleday;/players/b/bledajj01.shtml;CF;5;0;1;0;0;2;5;.213;.313;.368;.681;22;14;-0.157; 1.52;0.000;-0.157;0%; 0.00; -1.3;0;0;
+Cody Thomas;/players/t/thomaco01.shtml;RF;3;0;0;0;0;2;3;.286;.286;.429;.714;13;9;-0.064; 0.83;0.000;-0.064;0%; 0.00; -0.7;3;0;
+Jordan Diaz;/players/d/diazjo03.shtml;PH-2B;2;0;0;0;0;1;2;.240;.270;.406;.676;12;7;-0.153; 2.29;0.000;-0.153;0%; 0.00; -0.8;0;0;
+Manny Piña;/players/p/pinama01.shtml;C;4;0;2;0;0;1;4;.250;.250;.500;.750;13;11;-0.075; 1.46;0.053;-0.128;0%; 0.00; -0.2;5;0;
+Shea Langeliers;/players/l/langesh01.shtml;C;0;0;0;0;0;0;0;.205;.267;.366;.633;;;;;;;;;;1;0;
+Jace Peterson;/players/p/peterja01.shtml;3B;3;1;2;0;1;1;4;.209;.299;.309;.609;15;8;0.119; 1.27;0.144;-0.024;0%; 0.00; 1.2;1;4;
+Tyler Wade;/players/w/wadety01.shtml;SS;3;0;0;0;1;0;4;.255;.309;.314;.623;11;7;-0.063; 1.68;0.060;-0.123;0%; 0.00; -0.5;1;1;
+JP Sears;/players/s/searsjp01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Paul Blackburn;/players/b/blackpa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ken Waldichuk;/players/w/waldike01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Shintaro Fujinami;/players/f/fujinsh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ryan Noda (16, off Tayler Scott).
+
+
+HR: Brent Rooker (16, off Josh Winckowski, 5th inn, 0 on, 1 out to Deep LF).
+
+
+HBP: Brent Rooker (6, by Tayler Scott).
+
+
+TB: Brent Rooker 6; Manny Piña 2; Jace Peterson 2; Ryan Noda 2; JJ Bleday; Tony Kemp; Seth Brown.
+
+
+RBI: Brent Rooker (44); Ryan Noda (36).
+
+
+2-out RBI: Ryan Noda.
+
+
+Team LOB: 12.
+With RISP: 0 for 13.
+
+Pitching home
+Tayler Scott;/players/s/scottta02.shtml;Tayler Scott; 1 ;2;1;0;0;0;0;6.75;5;14;8;5;2;1;3;1;1;0;47;;;-0.046; 0.73;-0.02%; 0.59; -0.4
+Chris Murphy;/players/m/murphch01.shtml;Chris Murphy; 3 ;2;1;1;4;4;0;2.16;15;67;38;20;8;10;4;3;2;0;;0;0;0.054; 1.34; 0.03%; 1.10; 0.7
+Josh Winckowski;/players/w/winckjo01.shtml;Josh Winckowski; 2 ;5;1;1;0;2;1;3.20;11;37;25;16;2;7;6;3;2;0;;0;0;-0.168; 1.14;-0.08%; 0.93; -0.9
+Joely Rodríguez;/players/r/rodrijo06.shtml;Joely Rodríguez; 1 ;0;0;0;0;2;0;14.40;3;13;10;5;2;3;1;0;0;0;;2;0;0.235; 2.99; 0.11%; 2.44; 1.6
+Chris Martin;/players/m/martich02.shtml; W (3-1); 1 ;2;0;0;0;0;0;1.57;5;10;8;7;0;1;3;2;0;0;;0;0;0.113; 2.87; 0.06%; 2.34; 0.6
+Kenley Jansen;/players/j/janseke01.shtml; S (19); 1 ;0;0;0;1;1;0;3.23;3;20;10;5;3;2;0;1;0;0;;0;0;0.174; 2.80; 0.08%; 2.29; 0.6
+
+Pitching away
+JP Sears;/players/s/searsjp01.shtml;JP Sears; 5 ;2;1;1;3;4;0;3.97;21;89;55;42;3;10;4;8;0;0;60;;;0.211; 1.24; 0.00%; 0.00; 1.8
+Paul Blackburn;/players/b/blackpa01.shtml; BS (1); 1 ;3;2;2;1;1;1;4.86;7;39;23;18;2;3;0;5;2;0;;0;0;-0.227; 1.96; 0.00%; 0.00; -1.4
+Ken Waldichuk;/players/w/waldike01.shtml; L (2-6); 1.1;2;1;1;0;1;1;6.63;6;21;16;7;4;5;3;2;0;0;;0;0;-0.169; 1.06; 0.00%; 0.00; -0.6
+Shintaro Fujinami;/players/f/fujinsh01.shtml;Shintaro Fujinami; 0.2;0;0;0;0;0;0;9.00;2;5;4;2;1;1;0;2;0;0;;1;0;0.048; 0.82; 0.00%; 0.00; 0.7
+
+indiv_events
+
+Balks: None.
+WP: JP Sears (1); Tayler Scott (1).
+HBP: JP Sears 2 (10; Justin Turner, Adam Duvall); Tayler Scott (2; Brent Rooker).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: JP Sears (1); Tayler Scott (1).
+HBP: JP Sears 2 (10; Justin Turner, Adam Duvall); Tayler Scott (2; Brent Rooker).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Emil Jimenez, 1B - Manny Gonzalez, 2B - Adrian Johnson, 3B - Phil Cuzzi, LF - (none), RF - (none).
+Time of Game: 3:05.
+Attendance: 35,460.
+Field Condition: Unknown.
+Start Time Weather: 80° F, Wind 12mph in from Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Athletics
+1;Tony Kemp;/players/k/kempto01.shtml;2B
+2;Ryan Noda;/players/n/nodary01.shtml;1B
+3;Seth Brown;/players/b/brownse01.shtml;LF
+4;Brent Rooker;/players/r/rookebr01.shtml;DH
+5;JJ Bleday;/players/b/bledajj01.shtml;CF
+6;Cody Thomas;/players/t/thomaco01.shtml;RF
+7;Manny Piña;/players/p/pinama01.shtml;C
+8;Jace Peterson;/players/p/peterja01.shtml;3B
+9;Tyler Wade;/players/w/wadety01.shtml;SS
+; JP Sears;/players/s/searsjp01.shtml;P
+Red Sox
+1;Rob Refsnyder;/players/r/refsnro01.shtml;LF
+2;Justin Turner;/players/t/turneju01.shtml;1B
+3;Rafael Devers;/players/d/deverra01.shtml;3B
+4;Adam Duvall;/players/d/duvalad01.shtml;RF
+5;Masataka Yoshida;/players/y/yoshima02.shtml;DH
+6;Jorge Alfaro;/players/a/alfarjo01.shtml;C
+7;Enrique Hernández;/players/h/hernaen02.shtml;CF
+8;Christian Arroyo;/players/a/arroych01.shtml;2B
+9;Yu Chang;/players/c/changyu01.shtml;SS
+; Tayler Scott;/players/s/scottta02.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b8;3-3;0;---;6,(1-2) CCBFFX;R;BOS;Masataka Yoshida;Ken Waldichuk;25%;86%;Home Run (Fly Ball to Deep LF)
+t9;3-4;0;1--;1,(0-0) .>B;O;OAK;JJ Bleday;Kenley Jansen;19%;90%;Allen Caught Stealing 2B (C-SS)
+b6;2-3;2;--3;8,(3-2) F>B.FFBBFX;R;BOS;Christian Arroyo;Paul Blackburn;17%;55%;Double to RF (Line Drive to Deep CF-RF); Yoshida Scores
+b6;1-3;0;---;5,(3-1) .BBBFX;R;BOS;Adam Duvall;Paul Blackburn;13%;41%;Home Run (Fly Ball to Deep LF-CF)
+t5;2-1;1;---;2,(1-0) BX;R;OAK;Brent Rooker;Josh Winckowski;-12%;28%;Home Run (Fly Ball to Deep LF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Athletics Batting, Tied 0-0, Red Sox' Tayler Scott facing 1-2-3 
+t1;0-0;0;---;2,(1-0) BX;O;OAK;Tony Kemp;Tayler Scott;2%;52%;Groundout: 2B-1B
+t1;0-0;1;---;1,(0-0) X;;OAK;Ryan Noda;Tayler Scott;-4%;48%;Double to LF (Line Drive to Deep LF)
+t1;0-0;1;-2-;3,(0-2) SS.B;R;OAK;Seth Brown;Tayler Scott;-6%;43%;Wild Pitch; Noda Scores/Adv on E2 (throw)/No RBI/unER
+t1;1-0;1;---;4,(1-2) SS.B.X;O;OAK;Seth Brown;Tayler Scott;1%;44%;Groundout: P-1B
+t1;1-0;2;---;1,(0-0) H;;OAK;Brent Rooker;Tayler Scott;-1%;43%;Hit By Pitch
+t1;1-0;2;1--;6,(3-2) BFBCB>X;O;OAK;JJ Bleday;Tayler Scott;2%;45%;Single to 2B/runner struck by batted ball and is out (Ground Ball to 2B-1B); Rooker out at 2B/2B
+;;;;;;;;;1 run, 2 hits, 1 error, 1 LOB. Athletics 1, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Behind 0-1, Athletics' JP Sears facing 1-2-3 
+b1;0-1;0;---;6,(3-2) CCBBBB;;BOS;Rob Refsnyder;JP Sears;4%;49%;Walk
+b1;0-1;0;1--;2,(0-1) CB;;BOS;Justin Turner;JP Sears;2%;51%;Wild Pitch; Refsnyder to 2B
+b1;0-1;0;-2-;4,(1-2) CB.FX;O;BOS;Justin Turner;JP Sears;-4%;47%;Foul Popfly: 1B (1B into Foul Terr.)
+b1;0-1;1;-2-;1,(0-0) X;;BOS;Rafael Devers;JP Sears;5%;52%;Single to 3B (Ground Ball to SS-3B Hole); Refsnyder to 3B
+b1;0-1;1;1-3;4,(2-1) BBFX;RO;BOS;Adam Duvall;JP Sears;0%;52%;Flyball: RF/Sacrifice Fly; Refsnyder Scores
+b1;1-1;2;1--;5,(2-2) FBSBX;O;BOS;Masataka Yoshida;JP Sears;-2%;50%;Groundout: 3B-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Athletics 1, Red Sox 1.
+Top of the 2nd, Athletics Batting, Tied 1-1, Red Sox' Chris Murphy facing 6-7-8 
+;;;;;;;;;Chris Murphy replaces Tayler Scott pitching
+t2;1-1;0;---;5,(2-2) .BFFBS;O;OAK;Cody Thomas;Chris Murphy;2%;52%;Strikeout Swinging
+t2;1-1;1;---;1,(0-0) X;;OAK;Manny Piña;Chris Murphy;-3%;50%;Single to LF (Line Drive)
+t2;1-1;1;1--;5,(3-1) BBBCB;;OAK;Jace Peterson;Chris Murphy;-4%;46%;Walk; Piña to 2B
+t2;1-1;1;12-;5,(3-1) BBBCB;;OAK;Tyler Wade;Chris Murphy;-6%;40%;Walk; Piña to 3B; Peterson to 2B
+t2;1-1;1;123;9,(3-2) BFSFFBFB.X;O;OAK;Tony Kemp;Chris Murphy;8%;48%;Groundout: 1B-C/Forceout at Hm; Peterson to 3B; Wade to 2B; Kemp to 1B
+t2;1-1;2;123;6,(3-2) CBF.BB>B;R;OAK;Ryan Noda;Chris Murphy;-10%;38%;Walk; Peterson Scores; Wade to 3B; Kemp to 2B
+t2;2-1;2;123;4,(0-2) CS.FX;O;OAK;Seth Brown;Chris Murphy;7%;45%;Flyball: LF (Short LF-CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 3 LOB. Athletics 2, Red Sox 1.
+Bottom of the 2nd, Red Sox Batting, Behind 1-2, Athletics' JP Sears facing 6-7-8 
+b2;1-2;0;---;5,(3-1) BFBBB;;BOS;Jorge Alfaro;JP Sears;4%;49%;Walk
+b2;1-2;0;1--;2,(0-1) CX;O;BOS;Enrique Hernández;JP Sears;-4%;45%;Foul Popfly: 3B (3B into Foul Terr.)
+b2;1-2;1;1--;5,(2-2) BFBFS;O;BOS;Christian Arroyo;JP Sears;-3%;42%;Strikeout Swinging
+b2;1-2;2;1--;1,(0-0) X;O;BOS;Yu Chang;JP Sears;-3%;39%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Athletics 2, Red Sox 1.
+Top of the 3rd, Athletics Batting, Ahead 2-1, Red Sox' Chris Murphy facing 4-5-6 
+t3;2-1;0;---;1,(0-0) X;;OAK;Brent Rooker;Chris Murphy;-3%;36%;Single to LF (Line Drive to LF Line)
+t3;2-1;0;1--;4,(1-2) BSTS;O;OAK;JJ Bleday;Chris Murphy;3%;39%;Strikeout Swinging
+t3;2-1;1;1--;3,(1-1) BC>*B;;OAK;Cody Thomas;Chris Murphy;-2%;38%;Rooker Steals 2B
+t3;2-1;1;-2-;5,(2-2) BC>*B.FX;O;OAK;Cody Thomas;Chris Murphy;3%;41%;Groundout: 2B-1B (2B-1B); Rooker to 3B
+t3;2-1;2;--3;4,(1-2) BCCX;O;OAK;Manny Piña;Chris Murphy;4%;44%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 2, Red Sox 1.
+Bottom of the 3rd, Red Sox Batting, Behind 1-2, Athletics' JP Sears facing 1-2-3 
+b3;1-2;0;---;1,(0-0) X;O;BOS;Rob Refsnyder;JP Sears;-3%;42%;Flyball: LF (Deep LF-CF)
+b3;1-2;1;---;5,(1-2) BCFFH;;BOS;Justin Turner;JP Sears;3%;45%;Hit By Pitch
+b3;1-2;1;1--;8,(2-2) BFFFBFF1X;O;BOS;Rafael Devers;JP Sears;-4%;41%;Popfly: 2B (Weak 2B)
+b3;1-2;2;1--;2,(0-1) FH;;BOS;Adam Duvall;JP Sears;2%;43%;Hit By Pitch; Turner to 2B
+b3;1-2;2;12-;7,(3-2) BTFBB>F>C;O;BOS;Masataka Yoshida;JP Sears;-5%;38%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Athletics 2, Red Sox 1.
+Top of the 4th, Athletics Batting, Ahead 2-1, Red Sox' Chris Murphy facing 8-9-1 
+t4;2-1;0;---;6,(2-2) BCSFBS;O;OAK;Jace Peterson;Chris Murphy;2%;41%;Strikeout Swinging
+t4;2-1;1;---;1,(0-0) X;O;OAK;Tyler Wade;Chris Murphy;2%;42%;Groundout: 2B-1B (2B-1B)
+t4;2-1;2;---;6,(3-2) .BBBCFB;;OAK;Tony Kemp;Chris Murphy;-1%;41%;Walk
+t4;2-1;2;1--;3,(2-0) 1BB>C;;OAK;Ryan Noda;Chris Murphy;-1%;40%;Kemp Steals 2B
+t4;2-1;2;-2-;5,(2-2) 1BB>C.F.S;O;OAK;Ryan Noda;Chris Murphy;4%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Athletics 2, Red Sox 1.
+Bottom of the 4th, Red Sox Batting, Behind 1-2, Athletics' JP Sears facing 6-7-8 
+b4;1-2;0;---;11,(3-2) FBBFFFBFFFB;;BOS;Jorge Alfaro;JP Sears;5%;48%;Walk
+b4;1-2;0;1--;2,(0-1) CX;O;BOS;Enrique Hernández;JP Sears;-4%;44%;Flyball: RF (Short RF Line)
+b4;1-2;1;1--;1,(0-0) X;OO;BOS;Christian Arroyo;JP Sears;-7%;37%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 2, Red Sox 1.
+Top of the 5th, Athletics Batting, Ahead 2-1, Red Sox' Josh Winckowski facing 3-4-5 
+;;;;;;;;;Josh Winckowski replaces Chris Murphy pitching
+t5;2-1;0;---;5,(2-2) .BCBF.X;O;OAK;Seth Brown;Josh Winckowski;3%;39%;Groundout: 2B-1B (2B-1B)
+t5;2-1;1;---;2,(1-0) BX;R;OAK;Brent Rooker;Josh Winckowski;-12%;28%;Home Run (Fly Ball to Deep LF)
+t5;3-1;1;---;1,(0-0) X;O;OAK;JJ Bleday;Josh Winckowski;1%;29%;Groundout: SS-1B (Deep SS)
+t5;3-1;2;---;3,(0-2) CCC;O;OAK;Cody Thomas;Josh Winckowski;1%;30%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Athletics 3, Red Sox 1.
+Bottom of the 5th, Red Sox Batting, Behind 1-3, Athletics' JP Sears facing 9-1-2 
+b5;1-3;0;---;4,(2-1) BCBX;O;BOS;Yu Chang;JP Sears;-3%;27%;Popfly: 2B (Deep 1B)
+b5;1-3;1;---;6,(2-2) BCFBFT;O;BOS;Rob Refsnyder;JP Sears;-2%;25%;Strikeout Swinging
+b5;1-3;2;---;2,(1-0) BX;;BOS;Justin Turner;JP Sears;3%;27%;Double to CF (Fly Ball to Deep LF-CF)
+b5;1-3;2;-2-;7,(2-2) CBBFFFS;O;BOS;Rafael Devers;JP Sears;-4%;23%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 3, Red Sox 1.
+Top of the 6th, Athletics Batting, Ahead 3-1, Red Sox' Josh Winckowski facing 7-8-9 
+t6;3-1;0;---;5,(1-2) CBF.FX;;OAK;Manny Piña;Josh Winckowski;-3%;20%;Single to 3B (Ground Ball to Short 3B Line)
+t6;3-1;0;1--;1,(0-0) X;;OAK;Jace Peterson;Josh Winckowski;-4%;16%;Single to RF (Line Drive); Piña to 2B
+t6;3-1;0;12-;3,(0-2) LLX;O;OAK;Tyler Wade;Josh Winckowski;4%;20%;Foul Bunt Popfly: C (Behind Home)
+t6;3-1;1;12-;2,(1-0) BX;O;OAK;Tony Kemp;Josh Winckowski;3%;23%;Groundout: 1B-SS/Forceout at 2B; Piña to 3B; Kemp to 1B
+t6;3-1;2;1-3;6,(3-2) CBB*BS.>S;O;OAK;Ryan Noda;Josh Winckowski;4%;27%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Athletics 3, Red Sox 1.
+Bottom of the 6th, Red Sox Batting, Behind 1-3, Athletics' Paul Blackburn facing 4-5-6 
+;;;;;;;;;Paul Blackburn replaces JP Sears pitching
+b6;1-3;0;---;5,(3-1) .BBBFX;R;BOS;Adam Duvall;Paul Blackburn;13%;41%;Home Run (Fly Ball to Deep LF-CF)
+b6;2-3;0;---;3,(1-1) CBX;;BOS;Masataka Yoshida;Paul Blackburn;6%;47%;Single to SS (Pop Fly to Short CF)
+b6;2-3;0;1--;3,(0-2) CFX;O;BOS;Jorge Alfaro;Paul Blackburn;-6%;41%;Flyball: RF (Deep RF)
+;;;;;;;;;Jarren Duran pinch hits for Enrique Hernández (CF) batting 7th
+b6;2-3;1;1--;7,(2-2) .FF.FBBFX;O;BOS;Jarren Duran;Paul Blackburn;-5%;36%;Lineout: LF (Deep LF)
+b6;2-3;2;1--;2,(0-1) F>B;;BOS;Christian Arroyo;Paul Blackburn;2%;38%;Yoshida Steals 2B; Yoshida to 3B/Adv on E2 (throw)
+b6;2-3;2;--3;8,(3-2) F>B.FFBBFX;R;BOS;Christian Arroyo;Paul Blackburn;17%;55%;Double to RF (Line Drive to Deep CF-RF); Yoshida Scores
+b6;3-3;2;-2-;5,(3-1) *BSBBB;;BOS;Yu Chang;Paul Blackburn;1%;57%;Walk
+b6;3-3;2;12-;8,(3-2) CFBBFFB>S;O;BOS;Rob Refsnyder;Paul Blackburn;-7%;50%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 1 error, 2 LOB. Athletics 3, Red Sox 3.
+Top of the 7th, Athletics Batting, Tied 3-3, Red Sox' Josh Winckowski facing 3-4-5 
+;;;;;;;;;Jarren Duran moves from PH to CF 
+t7;3-3;0;---;3,(1-1) .FBX;;OAK;Seth Brown;Josh Winckowski;-6%;44%;Single to CF (Line Drive to Deep CF-RF)
+t7;3-3;0;1--;6,(3-2) B*BCBFX;;OAK;Brent Rooker;Josh Winckowski;-8%;36%;Single to SS (Ground Ball); Brown to 2B
+;;;;;;;;;Joely Rodríguez replaces Josh Winckowski pitching
+t7;3-3;0;12-;4,(2-2) .VCFBX;O;OAK;JJ Bleday;Joely Rodríguez;3%;39%;Groundout: 2B-SS/Forceout at 2B; Brown to 3B; Bleday to 1B
+;;;;;;;;;Jordan Diaz pinch hits for Cody Thomas (RF) batting 6th
+t7;3-3;1;1-3;6,(2-2) .B*BCF.>FS;O;OAK;Jordan Diaz;Joely Rodríguez;11%;50%;Strikeout Swinging
+t7;3-3;2;1-3;3,(0-2) C>F.1S;O;OAK;Manny Piña;Joely Rodríguez;9%;59%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Athletics 3, Red Sox 3.
+Bottom of the 7th, Red Sox Batting, Tied 3-3, Athletics' Ken Waldichuk facing 2-3-4 
+;;;;;;;;;Ken Waldichuk replaces Paul Blackburn pitchingShea Langeliers replaces Manny Piña playing C batting 7thJordan Diaz moves from PH to 2B Tony Kemp moves from 2B to LF Seth Brown moves from LF to RF 
+b7;3-3;0;---;2,(0-1) .....CX;O;BOS;Justin Turner;Ken Waldichuk;-4%;55%;Groundout: 3B-1B
+b7;3-3;1;---;2,(1-0) BX;O;BOS;Rafael Devers;Ken Waldichuk;-3%;52%;Popfly: SS (Deep SS-3B Hole)
+b7;3-3;2;---;3,(0-2) SSS;O;BOS;Adam Duvall;Ken Waldichuk;-2%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 3, Red Sox 3.
+Top of the 8th, Athletics Batting, Tied 3-3, Red Sox' Chris Martin facing 8-9-1 
+;;;;;;;;;Chris Martin replaces Joely Rodríguez pitching
+t8;3-3;0;---;3,(1-1) .FBX;;OAK;Jace Peterson;Chris Martin;-7%;43%;Single to 2B (Ground Ball to 2B-1B)
+t8;3-3;0;1--;2,(0-1) .LX;O;OAK;Tyler Wade;Chris Martin;7%;50%;Bunt Popfly: 1B (Weak 2B)
+t8;3-3;1;1--;1,(0-0) X;;OAK;Tony Kemp;Chris Martin;-7%;43%;Single to RF (Fly Ball to Short RF); Peterson to 2B
+t8;3-3;1;12-;1,(0-0) X;O;OAK;Ryan Noda;Chris Martin;9%;52%;Flyball: LF (Deep LF-CF)
+t8;3-3;2;12-;3,(1-1) CBX;O;OAK;Seth Brown;Chris Martin;9%;61%;Groundout: P-1B (P's Left)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Athletics 3, Red Sox 3.
+Bottom of the 8th, Red Sox Batting, Tied 3-3, Athletics' Ken Waldichuk facing 5-6-7 
+b8;3-3;0;---;6,(1-2) CCBFFX;R;BOS;Masataka Yoshida;Ken Waldichuk;25%;86%;Home Run (Fly Ball to Deep LF)
+b8;4-3;0;---;2,(0-1) CX;O;BOS;Jorge Alfaro;Ken Waldichuk;-2%;85%;Groundout: 3B-1B (SS-3B Hole)
+b8;4-3;1;---;6,(3-2) BCBS.BX;;BOS;Jarren Duran;Ken Waldichuk;3%;87%;Single to SS (Ground Ball); Duran to 2B/Adv on E6
+;;;;;;;;;Shintaro Fujinami replaces Ken Waldichuk pitching
+b8;4-3;1;-2-;2,(0-1) .CX;O;BOS;Christian Arroyo;Shintaro Fujinami;-2%;85%;Flyball: RF (Short RF)
+b8;4-3;2;-2-;3,(1-1) S*BX;O;BOS;Yu Chang;Shintaro Fujinami;-2%;83%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;1 run, 2 hits, 1 error, 1 LOB. Athletics 3, Red Sox 4.
+Top of the 9th, Athletics Batting, Behind 3-4, Red Sox' Kenley Jansen facing 4-5-6 
+;;;;;;;;;Kenley Jansen replaces Chris Martin pitchingConnor Wong replaces Jorge Alfaro playing C batting 6thJarren Duran moves from CF to LF Adam Duvall moves from RF to CF Alex Verdugo replaces Rob Refsnyder (LF) playing RF batting 1st
+t9;3-4;0;---;7,(3-2) .....FSBBBFB;;OAK;Brent Rooker;Kenley Jansen;-12%;71%;Walk
+;;;;;;;;;Nick Allen pinch runs for Brent Rooker (DH) batting 4th
+t9;3-4;0;1--;1,(0-0) .>B;O;OAK;JJ Bleday;Kenley Jansen;19%;90%;Allen Caught Stealing 2B (C-SS)
+t9;3-4;1;---;7,(3-2) .>B.CSBBFS;O;OAK;JJ Bleday;Kenley Jansen;6%;96%;Strikeout Swinging
+t9;3-4;2;---;6,(3-2) BBCFBX;O;OAK;Jordan Diaz;Kenley Jansen;4%;100%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 3, Red Sox 4.

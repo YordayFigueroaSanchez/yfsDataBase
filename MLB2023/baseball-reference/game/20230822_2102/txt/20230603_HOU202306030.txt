@@ -1,0 +1,283 @@
+
+Scorebox Meta
+20230603
+3:10 p.m. Local
+39222
+Minute Maid Park
+192
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;0;1;0;0;0;4;0;1;6;12;1
+https://cdn.ssref.net/req/202308101/tlogo/br/HOU-2023.png;/teams/HOU/2023.shtml;1;0;1;5;0;0;2;0;X;9;11;0
+
+Batting home
+Mauricio Dubón;/players/d/dubonma01.shtml;2B;4;1;2;1;0;0;5;.295;.326;.382;.708;16;13;0.054; 0.64;0.076;-0.022; 0.04%; 0.88; 0.3;2;2;SF
+Jeremy Peña;/players/p/penaje02.shtml;SS;4;3;1;0;1;0;5;.248;.307;.431;.738;20;13;0.086; 0.87;0.122;-0.036; 0.07%; 1.18; 1.0;2;3;2B
+Yordan Alvarez;/players/a/alvaryo01.shtml;DH;4;1;1;1;1;1;5;.283;.396;.588;.984;15;9;0.012; 0.98;0.078;-0.066; 0.01%; 1.33; 0.5;;;
+Alex Bregman;/players/b/bregmal01.shtml;3B;1;1;1;4;4;0;5;.251;.355;.402;.757;19;2;0.151; 0.85;0.151;0.000; 0.12%; 1.16; 4.0;1;0;HR
+José Abreu;/players/a/abreujo02.shtml;1B;5;0;1;1;0;1;5;.213;.273;.264;.537;19;16;0.046; 0.84;0.106;-0.060; 0.04%; 1.14; -1.4;5;0;GDP
+Chas McCormick;/players/m/mccorch01.shtml;RF;5;1;2;2;0;1;5;.242;.314;.474;.788;23;15;0.140; 0.78;0.185;-0.045; 0.11%; 1.06; 1.3;1;0;HR,2B
+Corey Julks;/players/j/julksco01.shtml;LF;4;0;0;0;0;1;4;.260;.277;.393;.671;16;10;-0.081; 0.72;0.000;-0.081;-0.07%; 0.98; -1.3;3;0;
+Jake Meyers;/players/m/meyerja02.shtml;CF;3;1;1;0;1;2;4;.243;.323;.417;.740;20;11;-0.023; 0.40;0.013;-0.035;-0.02%; 0.54; 0.3;5;0;2B
+Martín Maldonado;/players/m/maldoma01.shtml;C;3;1;2;0;1;0;4;.208;.295;.308;.602;17;10;0.041; 0.36;0.045;-0.004; 0.03%; 0.49; 0.4;8;0;GDP
+Cristian Javier;/players/j/javiecr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryne Stanek;/players/s/stanery01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Hector Neris;/players/n/nerishe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Rafael Montero;/players/m/montera01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Pressly;/players/p/pressry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jeremy Peña (14, off Patrick Sandoval); Chas McCormick (7, off Patrick Sandoval); Jake Meyers (8, off Ben Joyce).
+
+
+HR: Alex Bregman (8, off Jacob Webb, 4th inn, 3 on, 1 out to Deep LF); Chas McCormick (5, off Ben Joyce, 7th inn, 0 on, 0 outs to Deep CF-RF).
+
+
+SF: Mauricio Dubón (2, off Ben Joyce).
+
+
+TB: Chas McCormick 6; Alex Bregman 4; Martín Maldonado 2; Mauricio Dubón 2; Jeremy Peña 2; Jake Meyers 2; José Abreu; Yordan Alvarez.
+
+
+GIDP: Martín Maldonado (7); José Abreu (7).
+
+
+RBI: Alex Bregman 4 (36); Chas McCormick 2 (16); Mauricio Dubón (10); José Abreu (23); Yordan Alvarez (51).
+
+
+2-out RBI: Chas McCormick; José Abreu.
+
+
+Team LOB: 9.
+With RISP: 5 for 11.
+
+Batting away
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;5;2;4;2;0;0;5;.274;.348;.540;.888;21;13;0.269; 0.71;0.285;-0.016; 0.15%; 0.65; 4.0;;;3B,2B,GDP
+Mike Trout;/players/t/troutmi01.shtml;CF;5;0;1;1;0;2;5;.267;.360;.498;.858;22;12;-0.068; 1.05;0.055;-0.123;-0.04%; 0.96; -1.0;2;0;
+Brandon Drury;/players/d/drurybr01.shtml;2B;4;0;1;0;1;1;5;.254;.302;.497;.800;20;12;0.006; 1.01;0.080;-0.073; 0.00%; 0.92; -0.0;3;4;
+Taylor Ward;/players/w/wardta01.shtml;LF;5;0;1;0;0;1;5;.240;.309;.356;.665;18;12;-0.144; 1.23;0.003;-0.147;-0.08%; 1.12; -1.2;1;0;
+Matt Thaiss;/players/t/thaisma01.shtml;C;4;0;1;0;1;1;5;.282;.380;.417;.798;28;16;0.063; 0.98;0.106;-0.042; 0.03%; 0.89; -0.0;6;0;2B
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;4;1;1;1;0;1;4;.256;.306;.457;.763;21;16;-0.165; 1.75;0.015;-0.179;-0.09%; 1.59; -0.3;1;0;HR
+Jared Walsh;/players/w/walshja01.shtml;1B;4;0;0;0;0;1;4;.162;.326;.243;.569;14;11;-0.074; 0.68;0.000;-0.074;-0.04%; 0.61; -0.9;9;0;
+Luis Rengifo;/players/r/rengilu01.shtml;3B;4;2;3;0;0;0;4;.219;.312;.292;.604;16;11;0.063; 0.46;0.070;-0.007; 0.03%; 0.41; 1.0;1;2;2B
+Livan Soto;/players/s/sotoli01.shtml;SS;3;1;0;0;1;1;4;.222;.417;.222;.639;23;14;-0.025; 0.85;0.031;-0.056;-0.01%; 0.78; -0.1;1;4;
+Patrick Sandoval;/players/s/sandopa02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jacob Webb;/players/w/webbja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Sam Bachman;/players/b/bachmsa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ben Joyce;/players/j/joycebe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Soriano;/players/s/soriajo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Matt Thaiss (5, off Cristian Javier); Luis Rengifo (4, off Ryne Stanek); Shohei Ohtani (9, off Ryne Stanek).
+
+
+3B: Shohei Ohtani (3, off Cristian Javier).
+
+
+HR: Hunter Renfroe (11, off Ryne Stanek, 7th inn, 0 on, 0 outs to Deep LF Line).
+
+
+TB: Shohei Ohtani 7; Luis Rengifo 4; Hunter Renfroe 4; Matt Thaiss 2; Brandon Drury; Taylor Ward; Mike Trout.
+
+
+GIDP: Shohei Ohtani (6).
+
+
+RBI: Shohei Ohtani 2 (40); Hunter Renfroe (30); Mike Trout (32).
+
+
+Team LOB: 8.
+With RISP: 2 for 10.
+
+Pitching home
+Cristian Javier;/players/j/javiecr01.shtml; W (7-1); 6 ;6;1;1;0;5;0;2.84;23;102;65;36;10;19;5;13;7;0;61;;;0.131; 0.89; 0.11%; 1.21; 2.0
+Ryne Stanek;/players/s/stanery01.shtml;Ryne Stanek; 0.1;3;4;4;1;0;1;5.03;5;27;18;13;3;2;1;3;0;0;;0;0;-0.099; 0.40;-0.08%; 0.55; -2.9
+Hector Neris;/players/n/nerishe01.shtml; H (11); 0.2;1;0;0;2;1;0;1.13;5;22;11;4;3;4;2;0;0;0;;2;2;0.004; 2.46; 0.00%; 3.34; -0.6
+Rafael Montero;/players/m/montera01.shtml;Rafael Montero; 1 ;0;0;0;0;0;0;6.08;3;13;10;8;0;2;0;3;2;0;;0;0;0.023; 0.30; 0.02%; 0.40; 0.5
+Ryan Pressly;/players/p/pressry01.shtml;Ryan Pressly; 1 ;2;1;1;0;2;0;3.33;5;19;13;7;4;2;2;1;1;0;;0;0;0.015; 0.56; 0.01%; 0.76; -0.5
+
+Pitching away
+Patrick Sandoval;/players/s/sandopa02.shtml; L (3-5); 3.1;7;6;5;3;4;0;3.99;21;72;44;24;11;9;7;7;6;0;25;;;-0.247; 1.25;-0.14%; 1.14; -2.6
+Jacob Webb;/players/w/webbja01.shtml;Jacob Webb; 0.2;1;1;1;0;0;1;3.52;3;12;8;7;0;1;2;1;0;0;;3;3;-0.113; 0.58;-0.06%; 0.53; -2.4
+Sam Bachman;/players/b/bachmsa01.shtml;Sam Bachman; 2 ;0;0;0;4;0;0;1.80;8;38;16;8;3;5;3;1;1;0;;0;0;0.007; 0.10; 0.00%; 0.09; 1.0
+Ben Joyce;/players/j/joycebe01.shtml;Ben Joyce; 1 ;3;2;2;0;1;1;6.00;6;31;23;16;2;5;1;4;3;0;;0;0;-0.076; 0.27;-0.04%; 0.24; -1.5
+José Soriano;/players/s/soriajo02.shtml;José Soriano; 1 ;0;0;0;1;1;0;0.00;4;12;8;4;2;2;1;1;0;0;;0;0;0.003; 0.05; 0.00%; 0.05; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Hector Neris (2); Ryan Pressly (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Hector Neris (2); Ryan Pressly (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Mark Wegner, 1B - Bruce Dreckman, 2B - Stu Scheurwater, 3B - Malachi Moore, LF - (none), RF - (none).
+Time of Game: 3:12.
+Attendance: 39,222.
+Start Time Weather: 73° F, Wind 0mph, In Dome.
+
+div_lineups
+Angels
+1;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+2;Mike Trout;/players/t/troutmi01.shtml;CF
+3;Brandon Drury;/players/d/drurybr01.shtml;2B
+4;Taylor Ward;/players/w/wardta01.shtml;LF
+5;Matt Thaiss;/players/t/thaisma01.shtml;C
+6;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+7;Jared Walsh;/players/w/walshja01.shtml;1B
+8;Luis Rengifo;/players/r/rengilu01.shtml;3B
+9;Livan Soto;/players/s/sotoli01.shtml;SS
+; Patrick Sandoval;/players/s/sandopa02.shtml;P
+Astros
+1;Mauricio Dubón;/players/d/dubonma01.shtml;2B
+2;Jeremy Peña;/players/p/penaje02.shtml;SS
+3;Yordan Alvarez;/players/a/alvaryo01.shtml;DH
+4;Alex Bregman;/players/b/bregmal01.shtml;3B
+5;José Abreu;/players/a/abreujo02.shtml;1B
+6;Chas McCormick;/players/m/mccorch01.shtml;RF
+7;Corey Julks;/players/j/julksco01.shtml;LF
+8;Jake Meyers;/players/m/meyerja02.shtml;CF
+9;Martín Maldonado;/players/m/maldoma01.shtml;C
+; Cristian Javier;/players/j/javiecr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t3;0-1;1;1--;3,(2-0) B*B1X;R;LAA;Shohei Ohtani;Cristian Javier;-16%;45%;Triple to CF (Line Drive to Deep CF-RF); Rengifo Scores
+b3;1-1;2;12-;2,(1-0) BX;R;HOU;Chas McCormick;Patrick Sandoval;13%;68%;Double to LF (Line Drive to LF Line); Peña Scores; Bregman to 3B
+t7;5-7;2;123;3,(0-2) CSX;O;LAA;Hunter Renfroe;Hector Neris;12%;89%;Groundout: SS-1B
+b4;3-1;1;123;2,(1-0) .BX;RRRR;HOU;Alex Bregman;Jacob Webb;12%;97%;Home Run (Fly Ball to Deep LF); Dubón Scores/unER; Peña Scores; Alvarez Scores
+b1;0-0;2;12-;5,(1-2) CFB2FX;R;HOU;José Abreu;Patrick Sandoval;11%;65%;Single to CF (Line Drive); Peña Scores; Bregman to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, Astros' Cristian Javier facing 1-2-3 
+t1;0-0;0;---;6,(3-2) BBBSCX;;LAA;Shohei Ohtani;Cristian Javier;-4%;46%;Single to CF (Ground Ball thru SS-2B)
+t1;0-0;0;1--;3,(2-0) BBX;O;LAA;Mike Trout;Cristian Javier;3%;50%;Lineout: CF (Deep CF)
+t1;0-0;1;1--;5,(3-1) 1TBBBX;O;LAA;Brandon Drury;Cristian Javier;3%;53%;Foul Popfly: 1B
+t1;0-0;2;1--;2,(0-1) CX;O;LAA;Taylor Ward;Cristian Javier;2%;55%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 0, Astros 0.
+Bottom of the 1st, Astros Batting, Tied 0-0, Angels' Patrick Sandoval facing 1-2-3 
+b1;0-0;0;---;3,(0-2) FCX;;HOU;Mauricio Dubón;Patrick Sandoval;4%;58%;Single to SS (Ground Ball)
+;;;;;;;;;Force Play Challenged by HOU manager (Dusty Baker): Original call overturned as shown.
+b1;0-0;0;1--;4,(1-2) *SBS1X;O;HOU;Jeremy Peña;Patrick Sandoval;-3%;55%;Groundout: 2B-SS/Forceout at 2B; Peña to 1B
+b1;0-0;1;1--;1,(0-0) X;O;HOU;Yordan Alvarez;Patrick Sandoval;-2%;53%;Groundout: 1B unassisted; Peña to 2B
+b1;0-0;2;-2-;4,(3-0) BBBB;;HOU;Alex Bregman;Patrick Sandoval;1%;54%;Walk
+b1;0-0;2;12-;5,(1-2) CFB2FX;R;HOU;José Abreu;Patrick Sandoval;11%;65%;Single to CF (Line Drive); Peña Scores; Bregman to 3B
+b1;1-0;2;1-3;5,(1-2) CSFBX;O;HOU;Chas McCormick;Patrick Sandoval;-4%;61%;Foul Popfly: 3B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Angels 0, Astros 1.
+Top of the 2nd, Angels Batting, Behind 0-1, Astros' Cristian Javier facing 5-6-7 
+t2;0-1;0;---;7,(2-2) CSBFBFX;O;LAA;Matt Thaiss;Cristian Javier;2%;63%;Lineout: 2B (Deep 2B)
+t2;0-1;1;---;6,(2-2) BSF.BFX;O;LAA;Hunter Renfroe;Cristian Javier;2%;65%;Groundout: SS-1B
+t2;0-1;2;---;4,(1-2) BCFX;O;LAA;Jared Walsh;Cristian Javier;1%;66%;Popfly: 3B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Astros 1.
+Bottom of the 2nd, Astros Batting, Ahead 1-0, Angels' Patrick Sandoval facing 7-8-9 
+b2;1-0;0;---;2,(0-1) CX;O;HOU;Corey Julks;Patrick Sandoval;-2%;64%;Lineout: RF (Deep RF)
+b2;1-0;1;---;5,(2-2) CS.BBS;O;HOU;Jake Meyers;Patrick Sandoval;-1%;62%;Strikeout Swinging
+b2;1-0;2;---;5,(3-1) CBBBB;;HOU;Martín Maldonado;Patrick Sandoval;1%;63%;Walk
+b2;1-0;2;1--;1,(0-0) X;O;HOU;Mauricio Dubón;Patrick Sandoval;-2%;61%;Groundout: SS-2B/Forceout at 2B; Dubón to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 0, Astros 1.
+Top of the 3rd, Angels Batting, Behind 0-1, Astros' Cristian Javier facing 8-9-1 
+t3;0-1;0;---;8,(3-2) CCBBFFBX;;LAA;Luis Rengifo;Cristian Javier;-4%;57%;Single to SS (Ground Ball)
+t3;0-1;0;1--;2,(0-1) C>X;O;LAA;Livan Soto;Cristian Javier;4%;61%;Lineout: LF (LF-CF)
+t3;0-1;1;1--;3,(2-0) B*B1X;R;LAA;Shohei Ohtani;Cristian Javier;-16%;45%;Triple to CF (Line Drive to Deep CF-RF); Rengifo Scores
+t3;1-1;1;--3;5,(2-2) CFBBS;O;LAA;Mike Trout;Cristian Javier;7%;51%;Strikeout Swinging
+t3;1-1;2;--3;4,(0-2) CFFS;O;LAA;Brandon Drury;Cristian Javier;4%;55%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Angels 1, Astros 1.
+Bottom of the 3rd, Astros Batting, Tied 1-1, Angels' Patrick Sandoval facing 2-3-4 
+b3;1-1;0;---;1,(0-0) X;;HOU;Jeremy Peña;Patrick Sandoval;7%;62%;Double to CF (Line Drive to Deep LF-CF)
+b3;1-1;0;-2-;5,(2-2) *BBFFT;O;HOU;Yordan Alvarez;Patrick Sandoval;-5%;58%;Strikeout Swinging
+b3;1-1;1;-2-;5,(3-1) BBBFB;;HOU;Alex Bregman;Patrick Sandoval;2%;60%;Walk
+b3;1-1;1;12-;3,(0-2) 2CS*S;O;HOU;José Abreu;Patrick Sandoval;-5%;55%;Strikeout Swinging
+b3;1-1;2;12-;2,(1-0) BX;R;HOU;Chas McCormick;Patrick Sandoval;13%;68%;Double to LF (Line Drive to LF Line); Peña Scores; Bregman to 3B
+b3;2-1;2;-23;5,(3-1) BBSBX;O;HOU;Corey Julks;Patrick Sandoval;-5%;63%;Lineout: LF
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Angels 1, Astros 2.
+Top of the 4th, Angels Batting, Behind 1-2, Astros' Cristian Javier facing 4-5-6 
+t4;1-2;0;---;5,(2-2) BFBCX;O;LAA;Taylor Ward;Cristian Javier;3%;65%;Flyball: CF (Deep CF)
+t4;1-2;1;---;6,(3-2) BBBC.SX;;LAA;Matt Thaiss;Cristian Javier;-5%;60%;Double to LF (Line Drive to Short LF Line)
+t4;1-2;1;-2-;6,(2-2) CFF*BBS;O;LAA;Hunter Renfroe;Cristian Javier;4%;65%;Strikeout Swinging
+t4;1-2;2;-2-;4,(1-2) BSFS;O;LAA;Jared Walsh;Cristian Javier;4%;69%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 1, Astros 2.
+Bottom of the 4th, Astros Batting, Ahead 2-1, Angels' Patrick Sandoval facing 8-9-1 
+b4;2-1;0;---;5,(2-2) CBF.BS;O;HOU;Jake Meyers;Patrick Sandoval;-2%;67%;Strikeout Swinging
+b4;2-1;1;---;3,(1-1) SBX;;HOU;Martín Maldonado;Patrick Sandoval;2%;69%;Single to RF (Line Drive to Short RF)
+b4;2-1;1;1--;1,(0-0) X;;HOU;Mauricio Dubón;Patrick Sandoval;3%;72%;Single to CF (Ground Ball thru SS-2B); Maldonado to 2B
+b4;2-1;1;12-;5,(2-2) BCFBX;;HOU;Jeremy Peña;Patrick Sandoval;5%;77%;Fielder's Choice SS; Maldonado to 3B; Dubón to 2B/Adv on E6; Peña to 1B
+b4;2-1;1;123;2,(0-1) SX;R;HOU;Yordan Alvarez;Patrick Sandoval;8%;85%;Single to 2B (Ground Ball to 2B-1B); Maldonado Scores; Dubón to 3B; Peña to 2B
+;;;;;;;;;Jacob Webb replaces Patrick Sandoval pitching
+b4;3-1;1;123;2,(1-0) .BX;RRRR;HOU;Alex Bregman;Jacob Webb;12%;97%;Home Run (Fly Ball to Deep LF); Dubón Scores/unER; Peña Scores; Alvarez Scores
+b4;7-1;1;---;3,(0-2) FF.X;O;HOU;José Abreu;Jacob Webb;0%;97%;Groundout: 3B-1B (Short 3B Line)
+b4;7-1;2;---;7,(3-2) CF.BFBBX;O;HOU;Chas McCormick;Jacob Webb;0%;96%;Groundout: SS-1B
+;;;;;;;;;5 runs, 4 hits, 1 error, 0 LOB. Angels 1, Astros 7.
+Top of the 5th, Angels Batting, Behind 1-7, Astros' Cristian Javier facing 8-9-1 
+t5;1-7;0;---;2,(1-0) BX;;LAA;Luis Rengifo;Cristian Javier;-1%;95%;Single to LF (Ground Ball)
+t5;1-7;0;1--;5,(2-2) BBFC1C;O;LAA;Livan Soto;Cristian Javier;1%;96%;Strikeout Looking
+t5;1-7;1;1--;4,(1-2) CC*BX;OO;LAA;Shohei Ohtani;Cristian Javier;2%;98%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Angels 1, Astros 7.
+Bottom of the 5th, Astros Batting, Ahead 7-1, Angels' Sam Bachman facing 7-8-9 
+;;;;;;;;;Sam Bachman replaces Jacob Webb pitching
+b5;7-1;0;---;5,(2-2) .BSBSX;O;HOU;Corey Julks;Sam Bachman;0%;98%;Lineout: 1B (2B-1B)
+b5;7-1;1;---;7,(3-2) CBF.BFBB;;HOU;Jake Meyers;Sam Bachman;0%;98%;Walk
+b5;7-1;1;1--;3,(1-1) BCX;OO;HOU;Martín Maldonado;Sam Bachman;0%;97%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, Astros 7.
+Top of the 6th, Angels Batting, Behind 1-7, Astros' Cristian Javier facing 2-3-4 
+t6;1-7;0;---;6,(3-2) CFBBBX;O;LAA;Mike Trout;Cristian Javier;1%;98%;Flyball: RF (RF Line)
+t6;1-7;1;---;2,(0-1) CX;O;LAA;Brandon Drury;Cristian Javier;0%;99%;Lineout: CF (Deep CF)
+t6;1-7;2;---;4,(1-2) BFSX;;LAA;Taylor Ward;Cristian Javier;0%;98%;Single to LF (Line Drive)
+t6;1-7;2;1--;3,(1-1) *BCX;O;LAA;Matt Thaiss;Cristian Javier;1%;99%;Flyball: LF (Short LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 1, Astros 7.
+Bottom of the 6th, Astros Batting, Ahead 7-1, Angels' Sam Bachman facing 1-2-3 
+b6;7-1;0;---;3,(1-1) CBX;O;HOU;Mauricio Dubón;Sam Bachman;0%;99%;Groundout: SS-1B
+b6;7-1;1;---;6,(3-2) BBBCFB;;HOU;Jeremy Peña;Sam Bachman;0%;99%;Walk
+b6;7-1;1;1--;6,(3-2) BBCB*SB;;HOU;Yordan Alvarez;Sam Bachman;0%;99%;Walk; Peña to 2B
+b6;7-1;1;12-;4,(3-0) BB*BB;;HOU;Alex Bregman;Sam Bachman;0%;99%;Walk; Peña to 3B; Alvarez to 2B
+b6;7-1;1;123;4,(2-1) *BFB.X;OO;HOU;José Abreu;Sam Bachman;-1%;98%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Angels 1, Astros 7.
+Top of the 7th, Angels Batting, Behind 1-7, Astros' Ryne Stanek facing 6-7-8 
+;;;;;;;;;Ryne Stanek replaces Cristian Javier pitching
+t7;1-7;0;---;6,(1-2) .BSSFFX;R;LAA;Hunter Renfroe;Ryne Stanek;-1%;97%;Home Run (Fly Ball to Deep LF Line)
+t7;2-7;0;---;4,(1-2) FBFX;O;LAA;Jared Walsh;Ryne Stanek;1%;98%;Flyball: LF (LF Line)
+t7;2-7;1;---;5,(1-2) FBFFX;;LAA;Luis Rengifo;Ryne Stanek;-1%;97%;Double to LF (Ground Ball)
+t7;2-7;1;-2-;6,(3-2) BBBCCB;;LAA;Livan Soto;Ryne Stanek;-1%;95%;Walk
+t7;2-7;1;12-;6,(2-2) *BFSFBX;R;LAA;Shohei Ohtani;Ryne Stanek;-7%;89%;Double to LF (Fly Ball to Deep LF); Rengifo Scores; Soto to 3B
+;;;;;;;;;Hector Neris replaces Ryne Stanek pitching
+t7;3-7;1;-23;1,(0-0) .B;R;LAA;Mike Trout;Hector Neris;-2%;87%;Wild Pitch; Soto Scores/No RBI; Ohtani to 3B
+t7;4-7;1;--3;2,(1-0) .B.X;R;LAA;Mike Trout;Hector Neris;-6%;81%;Single to LF (Ground Ball thru SS-3B Hole); Ohtani Scores
+t7;5-7;1;1--;5,(3-1) *BBCBB;;LAA;Brandon Drury;Hector Neris;-6%;75%;Walk; Trout to 2B
+t7;5-7;1;12-;5,(2-2) *BCBFS;O;LAA;Taylor Ward;Hector Neris;7%;83%;Strikeout Swinging
+t7;5-7;2;12-;7,(3-2) BBBCS>F>B;;LAA;Matt Thaiss;Hector Neris;-5%;77%;Walk; Trout to 3B; Drury to 2B
+t7;5-7;2;123;3,(0-2) CSX;O;LAA;Hunter Renfroe;Hector Neris;12%;89%;Groundout: SS-1B
+;;;;;;;;;4 runs, 4 hits, 0 errors, 3 LOB. Angels 5, Astros 7.
+Bottom of the 7th, Astros Batting, Ahead 7-5, Angels' Ben Joyce facing 6-7-8 
+;;;;;;;;;Ben Joyce replaces Sam Bachman pitching
+b7;7-5;0;---;6,(3-2) .CBBBCX;R;HOU;Chas McCormick;Ben Joyce;5%;94%;Home Run (Fly Ball to Deep CF-RF)
+b7;8-5;0;---;4,(1-2) CBFS;O;HOU;Corey Julks;Ben Joyce;-1%;94%;Strikeout Swinging
+b7;8-5;1;---;3,(1-1) BFX;;HOU;Jake Meyers;Ben Joyce;1%;95%;Double to LF (Line Drive to LF Line)
+b7;8-5;1;-2-;6,(1-2) FSBFFX;;HOU;Martín Maldonado;Ben Joyce;1%;96%;Single to RF (Line Drive to Short RF); Meyers to 3B
+b7;8-5;1;1-3;8,(2-2) BFBFFFFX;RO;HOU;Mauricio Dubón;Ben Joyce;1%;97%;Lineout: CF/Sacrifice Fly (Deep CF-RF); Meyers Scores
+b7;9-5;2;1--;4,(0-2) CCFX;O;HOU;Jeremy Peña;Ben Joyce;0%;97%;Groundout: 1B unassisted
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Angels 5, Astros 9.
+Top of the 8th, Angels Batting, Behind 5-9, Astros' Rafael Montero facing 7-8-9 
+;;;;;;;;;Rafael Montero replaces Hector Neris pitching
+t8;5-9;0;---;2,(0-1) ...CX;O;LAA;Jared Walsh;Rafael Montero;1%;98%;Lineout: 1B (Deep 1B)
+t8;5-9;1;---;1,(0-0) X;O;LAA;Luis Rengifo;Rafael Montero;1%;99%;Lineout: 2B (Deep 2B)
+t8;5-9;2;---;10,(3-2) BCF.BFFBFFX;O;LAA;Livan Soto;Rafael Montero;0%;99%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 5, Astros 9.
+Bottom of the 8th, Astros Batting, Ahead 9-5, Angels' José Soriano facing 3-4-5 
+;;;;;;;;;José Soriano replaces Ben Joyce pitching
+b8;9-5;0;---;1,(0-0) .X;O;HOU;Yordan Alvarez;José Soriano;0%;99%;Groundout: 2B-1B (2B-1B)
+b8;9-5;1;---;4,(3-0) BBBB;;HOU;Alex Bregman;José Soriano;0%;99%;Walk
+b8;9-5;1;1--;4,(0-2) CS.FX;O;HOU;José Abreu;José Soriano;0%;99%;Flyball: CF (Deep CF)
+b8;9-5;2;1--;3,(0-2) CFS;O;HOU;Chas McCormick;José Soriano;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 5, Astros 9.
+Top of the 9th, Angels Batting, Behind 5-9, Astros' Ryan Pressly facing 1-2-3 
+;;;;;;;;;Ryan Pressly replaces Rafael Montero pitching
+t9;5-9;0;---;2,(0-1) .CX;;LAA;Shohei Ohtani;Ryan Pressly;-2%;97%;Single to RF (Ground Ball)
+t9;5-9;0;1--;6,(2-2) *BSF*BFS;O;LAA;Mike Trout;Ryan Pressly;2%;99%;Strikeout Swinging
+t9;5-9;1;1--;4,(1-2) SFBX;;LAA;Brandon Drury;Ryan Pressly;-2%;97%;Single to LF (Line Drive to LF-CF); Ohtani to 2B
+t9;5-9;1;12-;2,(1-0) BX;O;LAA;Taylor Ward;Ryan Pressly;2%;99%;Groundout: 2B-SS/Forceout at 2B (SS-2B); Ohtani to 3B; Ward to 1B
+t9;5-9;2;1-3;1,(0-0) B;R;LAA;Matt Thaiss;Ryan Pressly;0%;99%;Wild Pitch; Ohtani Scores/No RBI; Ward to 2B
+t9;6-9;2;-2-;5,(2-2) B.BCFS;O;LAA;Matt Thaiss;Ryan Pressly;1%;100%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Angels 6, Astros 9.

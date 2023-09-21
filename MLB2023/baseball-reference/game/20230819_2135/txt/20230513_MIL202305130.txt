@@ -1,0 +1,286 @@
+
+Scorebox Meta
+20230513
+6:10 p.m. Local
+35766
+American Family Field
+163
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/KCR-2023.png;/teams/KCR/2023.shtml;1;0;1;0;1;0;0;0;0;3;9;0
+https://cdn.ssref.net/req/202308101/tlogo/br/MIL-2023.png;/teams/MIL/2023.shtml;0;0;2;0;0;1;0;0;1;4;7;1
+
+Batting home
+Christian Yelich;/players/y/yelicch01.shtml;LF;4;2;2;3;0;2;4;.255;.337;.407;.744;19;11;0.349; 1.06;0.394;-0.045; 0.24%; 1.23; 2.5;4;0;2·HR
+Jesse Winker;/players/w/winkeje01.shtml;DH;2;0;0;0;0;1;2;.224;.348;.263;.611;7;5;-0.029; 0.56;0.000;-0.029;-0.02%; 0.66; -0.3;;;
+Luke Voit;/players/v/voitlu01.shtml;PH-DH-DH;2;0;0;0;0;2;2;.221;.284;.265;.548;10;6;-0.080; 1.56;0.000;-0.080;-0.06%; 1.82; -0.5;;;
+Willy Adames;/players/a/adamewi01.shtml;SS;4;0;1;0;0;1;4;.225;.319;.401;.721;14;10;-0.029; 0.97;0.042;-0.071;-0.02%; 1.13; -0.1;2;3;
+Rowdy Tellez;/players/t/tellero01.shtml;1B;3;0;1;0;1;1;4;.244;.328;.529;.858;20;11;-0.072; 1.10;0.043;-0.115;-0.05%; 1.28; -0.8;4;0;GDP
+Tyrone Taylor;/players/t/tayloty01.shtml;PR-RF;0;0;0;0;0;0;0;.212;.206;.303;.509;;;0.030; 1.81;0.030;0.000; 0.02%; 2.11; 0.1;0;0;SB
+William Contreras;/players/c/contrwi02.shtml;C;2;0;0;0;1;0;4;.266;.370;.413;.783;17;7;-0.055; 1.33;0.044;-0.099;-0.04%; 1.56; -0.2;9;0;HBP
+Brian Anderson;/players/a/anderbr06.shtml;RF-3B;3;1;1;0;1;0;4;.248;.329;.414;.742;21;13;0.072; 1.56;0.113;-0.040; 0.05%; 1.82; 0.4;1;0;
+Brice Turang;/players/t/turanbr02.shtml;2B;4;1;1;0;0;2;4;.240;.295;.327;.622;14;11;-0.172; 2.42;0.043;-0.215;-0.12%; 2.81; -1.0;2;3;
+Owen Miller;/players/m/milleow01.shtml;3B-1B;4;0;1;0;0;1;4;.318;.343;.439;.782;16;11;0.105; 1.79;0.209;-0.104; 0.07%; 2.09; 0.1;3;1;2B
+Joey Wiemer;/players/w/wiemejo01.shtml;CF;3;0;0;1;0;1;4;.207;.273;.345;.618;12;8;0.075; 1.81;0.154;-0.079; 0.05%; 2.12; -0.7;2;0;SF
+Adrian Houser;/players/h/housead01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Hoby Milner;/players/m/milneho01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joel Payamps;/players/p/payamjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Peter Strzelecki;/players/s/strzepe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Devin Williams;/players/w/willide03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Owen Miller (5, off Carlos Hernández).
+
+
+HR: Christian Yelich 2 (6, 1 off Josh Taylor, 6th inn, 0 on, 0 outs to Deep LF, 1 off Zack Greinke, 3rd inn, 1 on, 2 outs to Deep CF).
+
+
+SF: Joey Wiemer (1, off Carlos Hernández).
+
+
+HBP: William Contreras (1, by Zack Greinke).
+
+
+TB: Christian Yelich 8; Owen Miller 2; Brice Turang; Willy Adames; Brian Anderson; Rowdy Tellez.
+
+
+GIDP: Rowdy Tellez (7).
+
+
+RBI: Christian Yelich 3 (21); Joey Wiemer (12).
+
+
+2-out RBI: Christian Yelich 2.
+
+
+Team LOB: 6.
+With RISP: 0 for 2.
+
+Batting away
+Bobby Witt;/players/w/wittbo02.shtml;SS;5;1;2;0;0;1;5;.228;.267;.419;.686;23;18;-0.023; 1.17;0.082;-0.105;-0.00%; 0.20; 0.1;2;5;2B
+Vinnie Pasquantino;/players/p/pasquvi01.shtml;DH;4;0;0;0;0;0;5;.276;.366;.500;.866;19;12;-0.092; 1.39;0.059;-0.150;-0.01%; 0.24; -0.9;;;HBP
+Salvador Perez;/players/p/perezsa02.shtml;C;4;1;2;1;0;1;4;.295;.342;.532;.874;11;7;0.112; 1.35;0.185;-0.072; 0.01%; 0.24; 1.0;11;0;HR
+MJ Melendez;/players/m/melenmj01.shtml;RF;3;1;1;1;0;1;4;.212;.290;.372;.663;28;20;-0.043; 1.30;0.031;-0.074;-0.00%; 0.23; -0.3;2;0;2B,SF
+Nick Pratto;/players/p/prattni01.shtml;1B;4;0;2;1;0;1;4;.351;.431;.544;.975;14;8;0.085; 1.01;0.148;-0.063; 0.01%; 0.17; 0.9;7;0;2·2B
+Matt Duffy;/players/d/duffyma01.shtml;3B;3;0;0;0;0;1;3;.333;.373;.444;.817;13;8;-0.081; 1.03;0.000;-0.081;-0.01%; 0.18; -0.9;0;2;
+Edward Olivares;/players/o/olivaed02.shtml;PH-LF;1;0;0;0;0;1;1;.237;.304;.404;.708;4;4;-0.048; 1.86;0.000;-0.048;-0.01%; 0.32; -0.2;0;0;
+Michael Massey;/players/m/massemi02.shtml;2B;4;0;1;0;0;1;4;.224;.271;.308;.580;19;14;-0.082; 1.15;0.023;-0.105;-0.01%; 0.20; -0.5;2;1;
+Nate Eaton;/players/e/eatonna01.shtml;LF-3B;3;0;1;0;1;1;4;.053;.100;.053;.153;16;9;0.012; 0.96;0.063;-0.051; 0.00%; 0.17; 0.3;0;0;
+Jackie Bradley Jr.;/players/b/bradlja02.shtml;CF;4;0;0;0;0;1;4;.169;.244;.239;.483;11;8;-0.148; 1.57;0.000;-0.148;-0.01%; 0.28; -1.1;2;0;
+Zack Greinke;/players/g/greinza01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Josh Taylor;/players/t/taylojo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Taylor Clarke;/players/c/clarkta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Aroldis Chapman;/players/c/chapmar01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Carlos Hernández;/players/h/hernaca04.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Bobby Witt (6, off Adrian Houser); MJ Melendez (8, off Adrian Houser); Nick Pratto 2 (5, 1 off Adrian Houser, 1 off Hoby Milner).
+
+
+HR: Salvador Perez (8, off Adrian Houser, 5th inn, 0 on, 0 outs to Deep LF Line).
+
+
+SF: MJ Melendez (2, off Adrian Houser).
+
+
+HBP: Vinnie Pasquantino (2, by Joel Payamps).
+
+
+TB: Salvador Perez 5; Nick Pratto 4; Bobby Witt 3; MJ Melendez 2; Michael Massey; Nate Eaton.
+
+
+RBI: MJ Melendez (18); Salvador Perez (22); Nick Pratto (13).
+
+
+2-out RBI: Nick Pratto.
+
+
+Team LOB: 8.
+With RISP: 2 for 9.
+
+Pitching home
+Adrian Houser;/players/h/housead01.shtml;Adrian Houser; 4 ;8;3;3;1;2;1;5.19;21;88;59;34;5;20;7;11;5;0;35;;;-0.143; 1.10;-0.10%; 1.28; -0.9
+Hoby Milner;/players/m/milneho01.shtml;Hoby Milner; 2 ;1;0;0;0;1;0;3.94;7;27;20;11;3;6;1;5;3;0;;0;0;0.111; 0.96; 0.08%; 1.11; 1.0
+Joel Payamps;/players/p/payamjo01.shtml;Joel Payamps; 1 ;0;0;0;0;2;0;2.79;4;19;11;8;2;1;0;1;0;0;;0;0;0.089; 1.86; 0.06%; 2.17; 0.5
+Peter Strzelecki;/players/s/strzepe01.shtml;Peter Strzelecki; 1 ;0;0;0;0;3;0;3.50;3;14;10;2;6;2;0;0;0;0;;0;0;0.109; 1.42; 0.08%; 1.65; 0.5
+Devin Williams;/players/w/willide03.shtml; W (3-0); 1 ;0;0;0;0;1;0;0.73;3;10;8;4;1;3;1;1;0;0;;0;0;0.141; 1.84; 0.10%; 2.14; 0.5
+
+Pitching away
+Zack Greinke;/players/g/greinza01.shtml;Zack Greinke; 5 ;3;2;2;0;5;1;5.01;18;71;46;24;8;14;6;6;1;0;58;;;0.071; 0.94; 0.01%; 0.16; 0.6
+Josh Taylor;/players/t/taylojo02.shtml; BS (1); 0.2;2;1;1;1;1;1;6.39;5;21;11;3;2;6;1;2;0;0;;0;0;-0.167; 1.17;-0.02%; 0.20; -0.9
+Taylor Clarke;/players/c/clarkta01.shtml;Taylor Clarke; 1.1;0;0;0;1;3;0;4.19;5;26;15;7;4;4;1;0;0;0;;2;0;0.154; 2.01; 0.02%; 0.35; 1.0
+Aroldis Chapman;/players/c/chapmar01.shtml;Aroldis Chapman; 1 ;0;0;0;1;2;0;3.68;4;19;11;4;3;4;0;1;0;0;;0;0;0.109; 1.78; 0.01%; 0.31; 0.5
+Carlos Hernández;/players/h/hernaca04.shtml; L (0-1); 0.2;2;1;1;0;0;0;4.74;4;13;10;6;3;1;0;4;1;0;;0;0;-0.359; 3.12;-0.04%; 0.54; -0.8
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Joel Payamps (2; Vinnie Pasquantino); Zack Greinke (1; William Contreras).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Joel Payamps (2; Vinnie Pasquantino); Zack Greinke (1; William Contreras).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Tripp Gibson, 1B - Brennan Miller, 2B - Brock Ballou, 3B - Mark Carlson, LF - (none), RF - (none).
+Time of Game: 2:43.
+Attendance: 35,766.
+Start Time Weather: 68° F, Wind 0mph, In Dome.
+
+div_lineups
+Royals
+1;Bobby Witt;/players/w/wittbo02.shtml;SS
+2;Vinnie Pasquantino;/players/p/pasquvi01.shtml;DH
+3;Salvador Perez;/players/p/perezsa02.shtml;C
+4;MJ Melendez;/players/m/melenmj01.shtml;RF
+5;Nick Pratto;/players/p/prattni01.shtml;1B
+6;Matt Duffy;/players/d/duffyma01.shtml;3B
+7;Michael Massey;/players/m/massemi02.shtml;2B
+8;Nate Eaton;/players/e/eatonna01.shtml;LF
+9;Jackie Bradley Jr.;/players/b/bradlja02.shtml;CF
+; Zack Greinke;/players/g/greinza01.shtml;P
+Brewers
+1;Christian Yelich;/players/y/yelicch01.shtml;LF
+2;Jesse Winker;/players/w/winkeje01.shtml;DH
+3;Willy Adames;/players/a/adamewi01.shtml;SS
+4;Rowdy Tellez;/players/t/tellero01.shtml;1B
+5;William Contreras;/players/c/contrwi02.shtml;C
+6;Brian Anderson;/players/a/anderbr06.shtml;RF
+7;Brice Turang;/players/t/turanbr02.shtml;2B
+8;Owen Miller;/players/m/milleow01.shtml;3B
+9;Joey Wiemer;/players/w/wiemejo01.shtml;CF
+; Adrian Houser;/players/h/housead01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;0-2;2;1--;3,(2-0) B1BX;RR;MIL;Christian Yelich;Zack Greinke;21%;51%;Home Run (Fly Ball to Deep CF); Turang Scores
+b9;3-3;1;1--;3,(0-2) CFX;;MIL;Owen Miller;Carlos Hernández;21%;85%;Double to LF (Line Drive to Deep LF-CF); Anderson to 3B
+b6;2-3;0;---;4,(2-1) .BCBX;R;MIL;Christian Yelich;Josh Taylor;18%;58%;Home Run (Fly Ball to Deep LF)
+b9;3-3;1;-23;2,(0-1) SX;RO;MIL;Joey Wiemer;Carlos Hernández;15%;100%;Flyball: CF/Sacrifice Fly (Deep CF); Anderson Scores
+t5;2-2;0;---;2,(1-0) BX;R;KCR;Salvador Perez;Adrian Houser;-14%;36%;Home Run (Fly Ball to Deep LF Line)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Royals Batting, Tied 0-0, Brewers' Adrian Houser facing 1-2-3 
+t1;0-0;0;---;3,(0-2) CCX;;KCR;Bobby Witt;Adrian Houser;-6%;44%;Double to CF (Line Drive to Deep CF-RF)
+t1;0-0;0;-2-;3,(1-1) BCX;O;KCR;Vinnie Pasquantino;Adrian Houser;4%;48%;Popfly: 2B (Deep 2B)
+t1;0-0;1;-2-;3,(1-1) 2FBX;;KCR;Salvador Perez;Adrian Houser;-5%;44%;Single to 2B (Ground Ball to SS-2B); Witt to 3B
+t1;0-0;1;1-3;10,(3-2) FBCFFBFBFX;RO;KCR;MJ Melendez;Adrian Houser;-1%;43%;Flyball: LF/Sacrifice Fly (Deep LF-CF); Witt Scores
+t1;1-0;2;1--;5,(2-2) BFBSC;O;KCR;Nick Pratto;Adrian Houser;2%;45%;Strikeout Looking
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Royals 1, Brewers 0.
+Bottom of the 1st, Brewers Batting, Behind 0-1, Royals' Zack Greinke facing 1-2-3 
+b1;0-1;0;---;5,(1-2) BCFFT;O;MIL;Christian Yelich;Zack Greinke;-2%;42%;Strikeout Swinging
+b1;0-1;1;---;6,(2-2) BCFBF.C;O;MIL;Jesse Winker;Zack Greinke;-2%;41%;Strikeout Looking
+b1;0-1;2;---;6,(3-2) BBCF.BX;O;MIL;Willy Adames;Zack Greinke;-1%;40%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 1, Brewers 0.
+Top of the 2nd, Royals Batting, Ahead 1-0, Brewers' Adrian Houser facing 6-7-8 
+t2;1-0;0;---;7,(3-2) SBCBFBX;O;KCR;Matt Duffy;Adrian Houser;2%;42%;Groundout: SS-1B (SS-2B)
+t2;1-0;1;---;3,(0-2) CSX;;KCR;Michael Massey;Adrian Houser;-2%;40%;Single to CF (Line Drive to Deep CF-RF)
+t2;1-0;1;1--;6,(3-2) BBCBC>B;;KCR;Nate Eaton;Adrian Houser;-3%;36%;Walk; Massey to 2B
+t2;1-0;1;12-;4,(2-1) *BBCX;O;KCR;Jackie Bradley Jr.;Adrian Houser;3%;40%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Massey to 3B; Bradley to 1B
+t2;1-0;2;1-3;4,(1-2) CBFX;O;KCR;Bobby Witt;Adrian Houser;5%;44%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Witt to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Royals 1, Brewers 0.
+Bottom of the 2nd, Brewers Batting, Behind 0-1, Royals' Zack Greinke facing 4-5-6 
+b2;0-1;0;---;5,(2-2) CBBC.S;O;MIL;Rowdy Tellez;Zack Greinke;-3%;42%;Strikeout Swinging
+b2;0-1;1;---;3,(1-1) BCX;O;MIL;William Contreras;Zack Greinke;-2%;40%;Groundout: SS-1B (Weak SS)
+b2;0-1;2;---;5,(2-2) BFBFX;O;MIL;Brian Anderson;Zack Greinke;-1%;39%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 1, Brewers 0.
+Top of the 3rd, Royals Batting, Ahead 1-0, Brewers' Adrian Houser facing 2-3-4 
+t3;1-0;0;---;5,(2-2) FSBBX;O;KCR;Vinnie Pasquantino;Adrian Houser;2%;41%;Groundout: 2B-1B (Deep 2B)
+t3;1-0;1;---;1,(0-0) X;O;KCR;Salvador Perez;Adrian Houser;2%;43%;Groundout: SS-1B
+t3;1-0;2;---;7,(2-2) CCFFBBX;;KCR;MJ Melendez;Adrian Houser;-2%;40%;Double to RF (Line Drive)
+t3;1-0;2;-2-;2,(1-0) BX;R;KCR;Nick Pratto;Adrian Houser;-10%;30%;Double to LF (Line Drive to Short LF Line); Melendez Scores
+t3;2-0;2;-2-;5,(2-2) BCBCS;O;KCR;Matt Duffy;Adrian Houser;3%;33%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Royals 2, Brewers 0.
+Bottom of the 3rd, Brewers Batting, Behind 0-2, Royals' Zack Greinke facing 7-8-9 
+b3;0-2;0;---;3,(0-2) CSX;;MIL;Brice Turang;Zack Greinke;4%;37%;Single to 3B (Ground Ball)
+b3;0-2;0;1--;5,(2-2) BS1CBX;O;MIL;Owen Miller;Zack Greinke;-4%;33%;Flyball: RF (Short RF)
+b3;0-2;1;1--;1,(0-0) X;O;MIL;Joey Wiemer;Zack Greinke;-3%;30%;Flyball: SS (Short CF)
+b3;0-2;2;1--;3,(2-0) B1BX;RR;MIL;Christian Yelich;Zack Greinke;21%;51%;Home Run (Fly Ball to Deep CF); Turang Scores
+b3;2-2;2;---;1,(0-0) X;O;MIL;Jesse Winker;Zack Greinke;-1%;50%;Popfly: 2B (Deep 2B-1B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Royals 2, Brewers 2.
+Top of the 4th, Royals Batting, Tied 2-2, Brewers' Adrian Houser facing 7-8-9 
+t4;2-2;0;---;5,(1-2) BCCFX;O;KCR;Michael Massey;Adrian Houser;3%;53%;Flyball: LF (Deep LF)
+t4;2-2;1;---;2,(0-1) CX;;KCR;Nate Eaton;Adrian Houser;-3%;50%;Single to RF (Ground Ball thru 2B-1B)
+t4;2-2;1;1--;2,(0-1) FX;O;KCR;Jackie Bradley Jr.;Adrian Houser;3%;53%;Flyball: CF (Deep CF)
+t4;2-2;2;1--;2,(0-1) CF;;KCR;Bobby Witt;Adrian Houser;0%;53%;E3 on Foul Ball
+t4;2-2;2;1--;7,(3-2) CF.B>FBB1>X;;KCR;Bobby Witt;Adrian Houser;-2%;51%;Single to LF (Line Drive); Eaton to 2B
+t4;2-2;2;12-;2,(0-1) CX;O;KCR;Vinnie Pasquantino;Adrian Houser;5%;56%;Foul Popfly: 3B (3B into Foul Terr.)
+;;;;;;;;;0 runs, 2 hits, 1 error, 2 LOB. Royals 2, Brewers 2.
+Bottom of the 4th, Brewers Batting, Tied 2-2, Royals' Zack Greinke facing 3-4-5 
+b4;2-2;0;---;2,(0-1) SX;;MIL;Willy Adames;Zack Greinke;4%;60%;Single to CF (Line Drive)
+b4;2-2;0;1--;6,(3-2) CBBBFX;OO;MIL;Rowdy Tellez;Zack Greinke;-9%;51%;Ground Ball Double Play: 2B-SS-1B
+b4;2-2;2;---;3,(1-1) CBH;;MIL;William Contreras;Zack Greinke;2%;53%;Hit By Pitch
+b4;2-2;2;1--;3,(0-2) SSX;O;MIL;Brian Anderson;Zack Greinke;-3%;50%;Popfly: 2B (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 2, Brewers 2.
+Top of the 5th, Royals Batting, Tied 2-2, Brewers' Adrian Houser facing 3-4-5 
+t5;2-2;0;---;2,(1-0) BX;R;KCR;Salvador Perez;Adrian Houser;-14%;36%;Home Run (Fly Ball to Deep LF Line)
+;;;;;;;;;Hoby Milner replaces Adrian Houser pitching
+t5;3-2;0;---;2,(0-1) .CX;O;KCR;MJ Melendez;Hoby Milner;2%;39%;Lineout: CF (Deep CF)
+t5;3-2;1;---;5,(2-2) BCFBX;;KCR;Nick Pratto;Hoby Milner;-4%;34%;Double to CF (Fly Ball to Deep CF-RF)
+t5;3-2;1;-2-;1,(0-0) X;O;KCR;Matt Duffy;Hoby Milner;3%;37%;Groundout: SS-1B (SS-2B); Pratto to 3B
+t5;3-2;2;--3;6,(2-2) CFFBBX;O;KCR;Michael Massey;Hoby Milner;4%;42%;Foul Popfly: 3B (3B into Foul Terr.)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Royals 3, Brewers 2.
+Bottom of the 5th, Brewers Batting, Behind 2-3, Royals' Zack Greinke facing 7-8-9 
+b5;2-3;0;---;5,(2-2) FBSBC;O;MIL;Brice Turang;Zack Greinke;-3%;38%;Strikeout Looking
+b5;2-3;1;---;2,(0-1) CX;O;MIL;Owen Miller;Zack Greinke;-2%;36%;Groundout: SS-1B (Deep SS)
+b5;2-3;2;---;7,(3-2) BFSBFBC;O;MIL;Joey Wiemer;Zack Greinke;-2%;34%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Brewers 2.
+Top of the 6th, Royals Batting, Ahead 3-2, Brewers' Hoby Milner facing 8-9-1 
+t6;3-2;0;---;3,(1-1) BCX;O;KCR;Nate Eaton;Hoby Milner;3%;37%;Lineout: RF (Deep CF-RF)
+t6;3-2;1;---;4,(1-2) CS.BS;O;KCR;Jackie Bradley Jr.;Hoby Milner;2%;38%;Strikeout Swinging
+t6;3-2;2;---;6,(1-2) CBS.FFX;O;KCR;Bobby Witt;Hoby Milner;1%;40%;Lineout: LF (LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Brewers 2.
+Bottom of the 6th, Brewers Batting, Behind 2-3, Royals' Josh Taylor facing 1-2-3 
+;;;;;;;;;Josh Taylor replaces Zack Greinke pitching
+b6;2-3;0;---;4,(2-1) .BCBX;R;MIL;Christian Yelich;Josh Taylor;18%;58%;Home Run (Fly Ball to Deep LF)
+;;;;;;;;;Luke Voit pinch hits for Jesse Winker (DH) batting 2nd
+b6;3-3;0;---;6,(3-2) .CBSB.BC;O;MIL;Luke Voit;Josh Taylor;-3%;54%;Strikeout Looking
+b6;3-3;1;---;3,(1-1) CBX;O;MIL;Willy Adames;Josh Taylor;-2%;52%;Groundout: SS-1B
+b6;3-3;2;---;2,(0-1) CX;;MIL;Rowdy Tellez;Josh Taylor;2%;54%;Single to SS (Fly Ball to Short CF)
+b6;3-3;2;1--;6,(3-2) *S*BCB*B>B;;MIL;William Contreras;Josh Taylor;3%;56%;Walk; Tellez to 2B
+;;;;;;;;;Taylor Clarke replaces Josh Taylor pitching
+b6;3-3;2;12-;8,(3-2) .FBBCB>F>F>B;;MIL;Brian Anderson;Taylor Clarke;4%;60%;Walk; Tellez to 3B; Contreras to 2B
+b6;3-3;2;123;3,(0-2) TF*S;O;MIL;Brice Turang;Taylor Clarke;-10%;50%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 3 LOB. Royals 3, Brewers 3.
+Top of the 7th, Royals Batting, Tied 3-3, Brewers' Joel Payamps facing 2-3-4 
+;;;;;;;;;Joel Payamps replaces Hoby Milner pitching
+t7;3-3;0;---;3,(1-1) ..BFH;;KCR;Vinnie Pasquantino;Joel Payamps;-6%;44%;Hit By Pitch
+t7;3-3;0;1--;5,(2-2) BBFFS;O;KCR;Salvador Perez;Joel Payamps;6%;50%;Strikeout Swinging
+t7;3-3;1;1--;9,(3-2) FBCFBBFFS;O;KCR;MJ Melendez;Joel Payamps;5%;55%;Strikeout Swinging
+t7;3-3;2;1--;2,(1-0) *BX;O;KCR;Nick Pratto;Joel Payamps;4%;59%;Popfly: SS (Deep SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Royals 3, Brewers 3.
+Bottom of the 7th, Brewers Batting, Tied 3-3, Royals' Taylor Clarke facing 8-9-1 
+b7;3-3;0;---;6,(3-2) CBSBBS;O;MIL;Owen Miller;Taylor Clarke;-4%;55%;Strikeout Swinging
+b7;3-3;1;---;2,(1-0) BX;O;MIL;Joey Wiemer;Taylor Clarke;-3%;52%;Groundout: SS-1B (SS-3B Hole)
+b7;3-3;2;---;7,(3-2) BBBCCFS;O;MIL;Christian Yelich;Taylor Clarke;-2%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Brewers 3.
+Top of the 8th, Royals Batting, Tied 3-3, Brewers' Peter Strzelecki facing 6-7-8 
+;;;;;;;;;Peter Strzelecki replaces Joel Payamps pitchingEdward Olivares pinch hits for Matt Duffy (3B) batting 6th
+t8;3-3;0;---;4,(0-2) ..CCFS;O;KCR;Edward Olivares;Peter Strzelecki;5%;55%;Strikeout Swinging
+t8;3-3;1;---;5,(2-2) FBBSS;O;KCR;Michael Massey;Peter Strzelecki;4%;58%;Strikeout Swinging
+t8;3-3;2;---;5,(2-2) BSBSS;O;KCR;Nate Eaton;Peter Strzelecki;3%;61%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Brewers 3.
+Bottom of the 8th, Brewers Batting, Tied 3-3, Royals' Aroldis Chapman facing 2-3-4 
+;;;;;;;;;Aroldis Chapman replaces Taylor Clarke pitchingNate Eaton moves from LF to 3B Edward Olivares moves from PH to LF 
+b8;3-3;0;---;4,(1-2) ...CSBS;O;MIL;Luke Voit;Aroldis Chapman;-5%;56%;Strikeout Swinging
+b8;3-3;1;---;3,(0-2) FCS;O;MIL;Willy Adames;Aroldis Chapman;-4%;53%;Strikeout Swinging
+b8;3-3;2;---;7,(3-2) CBFFB.BB;;MIL;Rowdy Tellez;Aroldis Chapman;2%;55%;Walk
+;;;;;;;;;Tyrone Taylor pinch runs for Rowdy Tellez (1B) batting 4th
+b8;3-3;2;1--;2,(1-0) .1B>B;;MIL;William Contreras;Aroldis Chapman;3%;58%;Taylor Steals 2B
+b8;3-3;2;-2-;5,(3-1) .1B>B.BCX;O;MIL;William Contreras;Aroldis Chapman;-8%;50%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Royals 3, Brewers 3.
+Top of the 9th, Royals Batting, Tied 3-3, Brewers' Devin Williams facing 9-1-2 
+;;;;;;;;;Devin Williams replaces Peter Strzelecki pitchingOwen Miller moves from 3B to 1B Brian Anderson moves from RF to 3B Tyrone Taylor moves from PR to RF 
+t9;3-3;0;---;1,(0-0) ....X;O;KCR;Jackie Bradley Jr.;Devin Williams;6%;56%;Flyball: LF (Short LF)
+t9;3-3;1;---;3,(0-2) CCS;O;KCR;Bobby Witt;Devin Williams;5%;61%;Strikeout Swinging
+t9;3-3;2;---;6,(2-2) BBCFFX;O;KCR;Vinnie Pasquantino;Devin Williams;3%;64%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Brewers 3.
+Bottom of the 9th, Brewers Batting, Tied 3-3, Royals' Carlos Hernández facing 6-7-8 
+;;;;;;;;;Carlos Hernández replaces Aroldis Chapman pitching
+b9;3-3;0;---;5,(2-2) .BFSBX;;MIL;Brian Anderson;Carlos Hernández;7%;71%;Single to CF (Fly Ball)
+b9;3-3;0;1--;3,(1-1) BS1X;O;MIL;Brice Turang;Carlos Hernández;-8%;64%;Flyball: CF
+b9;3-3;1;1--;3,(0-2) CFX;;MIL;Owen Miller;Carlos Hernández;21%;85%;Double to LF (Line Drive to Deep LF-CF); Anderson to 3B
+b9;3-3;1;-23;2,(0-1) SX;RO;MIL;Joey Wiemer;Carlos Hernández;15%;100%;Flyball: CF/Sacrifice Fly (Deep CF); Anderson Scores
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Royals 3, Brewers 4.

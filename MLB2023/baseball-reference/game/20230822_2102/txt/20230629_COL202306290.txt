@@ -1,0 +1,290 @@
+
+Scorebox Meta
+20230629
+6:40 p.m. Local
+36667
+Coors Field
+175
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;1;0;1;6;3;1;2;0;0;14;18;0
+https://cdn.ssref.net/req/202308101/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;1;0;2;0;0;0;0;0;0;3;9;0
+
+Batting home
+Jurickson Profar;/players/p/profaju01.shtml;LF;4;1;3;0;0;0;4;.238;.321;.377;.698;19;11;0.073; 0.55;0.078;-0.005; 0.00%; 0.02; 0.9;1;0;
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;4;2;1;0;0;1;4;.265;.300;.429;.729;18;14;0.075; 0.99;0.113;-0.039; 0.00%; 0.03; -0.4;0;1;SB
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;3;0;1;0;0;1;3;.264;.345;.476;.821;10;6;0.000; 0.93;0.060;-0.061;0%; 0.02; -0.1;0;2;
+Brenton Doyle;/players/d/doylebr02.shtml;CF;1;0;0;0;0;0;1;.217;.275;.369;.644;1;1;0.000; 0.00;0.000;0.000;0%; 0.00; -0.1;3;0;
+Elias Díaz;/players/d/diazel01.shtml;C;2;0;1;3;0;1;3;.287;.342;.462;.804;11;8;0.116; 1.15;0.118;-0.002; 0.00%; 0.03; 0.8;6;0;SF
+Austin Wynns;/players/w/wynnsau01.shtml;C;1;0;1;0;0;0;1;.192;.246;.231;.476;1;1;0.000; 0.00;0.000;0.000;0%; 0.00; 0.4;5;0;
+C.J. Cron;/players/c/croncj01.shtml;DH;3;0;1;0;0;1;3;.233;.278;.418;.696;12;8;-0.034; 0.65;0.019;-0.052;-0.00%; 0.02; -0.6;;;
+Jorge Alfaro;/players/a/alfarjo01.shtml;PH-DH;1;0;0;0;0;0;1;.161;.188;.387;.575;2;2;0.000; 0.00;0.000;0.000;0%; 0.00; -0.9;;;GDP
+Nolan Jones;/players/j/jonesno01.shtml;RF;4;0;0;0;0;1;4;.308;.395;.529;.924;12;10;-0.060; 0.56;0.000;-0.060;-0.00%; 0.01; -1.0;2;0;
+Randal Grichuk;/players/g/grichra01.shtml;CF;3;0;1;0;0;1;3;.294;.357;.428;.785;15;9;-0.007; 0.46;0.018;-0.025;0%; 0.01; -0.3;4;0;
+Coco Montes;/players/m/monteco01.shtml;3B;0;0;0;0;0;0;0;.200;.263;.343;.606;;;;;;;;;;0;0;
+Elehuris Montero;/players/m/monteel01.shtml;1B;3;0;0;0;0;2;3;.196;.224;.314;.538;11;9;-0.040; 0.51;0.000;-0.040;-0.00%; 0.01; -0.7;6;0;
+Harold Castro;/players/c/castrha01.shtml;2B;3;0;0;0;0;1;3;.272;.290;.340;.629;11;8;-0.028; 0.32;0.000;-0.028;-0.00%; 0.01; -0.5;0;1;
+Chase Anderson;/players/a/anderch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Peter Lambert;/players/l/lambepe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gavin Hollowell;/players/h/holloga01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Matt Carasiti;/players/c/carasma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matt Koch;/players/k/kochma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+SF: Elias Díaz (4, off Emmet Sheehan).
+
+
+TB: Jurickson Profar 3; Austin Wynns; Elias Díaz; C.J. Cron; Ezequiel Tovar; Randal Grichuk; Ryan McMahon.
+
+
+GIDP: Jorge Alfaro (2).
+
+
+RBI: Elias Díaz 3 (45).
+
+
+Team LOB: 3.
+With RISP: 1 for 3.
+
+Batting away
+Mookie Betts;/players/b/bettsmo01.shtml;SS;2;3;2;1;1;0;4;.260;.360;.523;.883;21;12;0.113; 1.35;0.121;-0.008; 0.09%; 1.76; 1.3;1;0;2·2B,SF
+Miguel Rojas;/players/r/rojasmi02.shtml;PH-SS;2;0;1;0;0;1;2;.235;.277;.282;.560;5;5;0.000; 0.01;0.000;0.000;0%; 0.01; -0.1;0;0;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;3;1;2;3;0;0;4;.321;.399;.544;.943;14;8;0.167; 1.30;0.185;-0.018; 0.13%; 1.70; 2.8;4;0;HBP
+Yonny Hernández;/players/h/hernayo02.shtml;2B;1;1;0;0;0;1;2;.200;.286;.200;.486;10;5;0.000; 0.01;0.000;0.000;0%; 0.01; 0.0;3;2;HBP
+Max Muncy;/players/m/muncyma01.shtml;3B;6;1;2;3;0;2;6;.192;.321;.466;.786;19;16;0.072; 0.87;0.185;-0.113; 0.06%; 1.14; 1.0;0;2;2B
+J.D. Martinez;/players/m/martijd02.shtml;DH;6;2;4;4;0;0;6;.267;.310;.586;.896;18;13;0.282; 0.69;0.285;-0.003; 0.22%; 0.91; 3.2;;;HR
+David Peralta;/players/p/peralda01.shtml;LF;4;1;1;0;0;2;4;.273;.310;.406;.716;25;16;-0.066; 0.55;0.002;-0.069;-0.05%; 0.72; -0.4;1;0;
+Jonny Deluca;/players/d/delucjo01.shtml;PH-LF;2;0;1;1;0;0;2;.208;.269;.250;.519;5;4;0.002; 0.02;0.002;0.000; 0.00%; 0.03; 0.9;0;0;
+Jason Heyward;/players/h/heywaja01.shtml;RF;5;2;3;1;0;1;5;.252;.344;.477;.822;16;13;0.048; 0.58;0.088;-0.041; 0.04%; 0.76; 1.3;1;0;2·2B
+Miguel Vargas;/players/v/vargami01.shtml;2B-1B;4;1;1;1;1;1;5;.199;.302;.378;.680;21;11;0.009; 0.55;0.046;-0.037; 0.01%; 0.72; 0.4;5;3;3B
+James Outman;/players/o/outmaja01.shtml;CF;4;2;1;0;1;1;5;.235;.319;.416;.734;22;15;0.083; 0.66;0.102;-0.020; 0.07%; 0.87; 0.5;2;0;
+Austin Barnes;/players/b/barneau01.shtml;C;5;0;0;0;0;2;5;.101;.198;.124;.322;21;16;-0.113; 0.67;0.000;-0.113;-0.09%; 0.87; -2.3;9;0;
+Emmet Sheehan;/players/s/sheehem01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Yency Almonte;/players/a/almonye01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Victor González;/players/g/gonzavi02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Justin Bruihl;/players/b/bruihju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Mookie Betts 2 (17, 2 off Chase Anderson); Jason Heyward 2 (11, 1 off Chase Anderson, 1 off Peter Lambert); Max Muncy (6, off Peter Lambert).
+
+
+3B: Miguel Vargas (4, off Gavin Hollowell).
+
+
+HR: J.D. Martinez (19, off Peter Lambert, 4th inn, 1 on, 2 outs to Deep RF).
+
+
+SF: Mookie Betts (4, off Chase Anderson).
+
+
+HBP: Freddie Freeman (7, by Chase Anderson); Yonny Hernández (1, by Gavin Hollowell).
+
+
+TB: J.D. Martinez 7; Jason Heyward 5; Mookie Betts 4; Miguel Vargas 3; Max Muncy 3; Freddie Freeman 2; David Peralta; Miguel Rojas; Jonny Deluca; James Outman.
+
+
+RBI: J.D. Martinez 4 (55); Max Muncy 3 (48); Freddie Freeman 3 (52); Jonny Deluca (2); Mookie Betts (51); Jason Heyward (18); Miguel Vargas (31).
+
+
+2-out RBI: Max Muncy 3; J.D. Martinez 3; Freddie Freeman 3; Jonny Deluca; Jason Heyward.
+
+
+Team LOB: 9.
+With RISP: 11 for 23.
+
+Pitching home
+Chase Anderson;/players/a/anderch01.shtml; L (0-3); 3.2;6;6;6;2;6;0;6.50;20;87;57;33;11;13;0;11;4;0;29;;;-0.255; 1.45;-0.00%; 0.04; -2.2
+Peter Lambert;/players/l/lambepe01.shtml;Peter Lambert; 1 ;5;5;5;1;0;1;6.89;9;31;18;13;2;3;3;5;2;0;;2;2;-0.325; 0.59;-0.01%; 0.02; -5.3
+Gavin Hollowell;/players/h/holloga01.shtml;Gavin Hollowell; 2 ;3;2;2;0;2;0;6.75;10;38;29;16;6;7;3;4;3;0;;2;1;-0.012; 0.07; 0.00%; 0.00; -0.6
+Matt Carasiti;/players/c/carasma01.shtml;Matt Carasiti; 1.1;4;1;1;0;3;0;7.06;8;32;23;13;5;5;3;2;2;0;;1;1;-0.003; 0.01; 0.00%; 0.00; -1.1
+Matt Koch;/players/k/kochma01.shtml;Matt Koch; 1 ;0;0;0;0;0;0;0.00;3;9;7;5;1;1;0;3;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.6
+
+Pitching away
+Emmet Sheehan;/players/s/sheehem01.shtml; W (2-0); 5 ;7;3;3;0;5;0;2.65;21;88;60;40;11;9;8;8;3;0;46;;;-0.100; 0.96;-0.08%; 1.25; -0.0
+Yency Almonte;/players/a/almonye01.shtml;Yency Almonte; 1 ;0;0;0;0;2;0;5.50;3;10;8;2;3;3;1;0;0;0;;0;0;0.004; 0.05; 0.00%; 0.07; 0.6
+Victor González;/players/g/gonzavi02.shtml;Victor González; 1 ;0;0;0;0;2;0;4.43;3;13;9;3;5;1;0;1;0;0;;0;0;0.001; 0.01; 0.00%; 0.01; 0.6
+Justin Bruihl;/players/b/bruihju01.shtml;Justin Bruihl; 2 ;2;0;0;0;0;0;3.93;6;12;10;8;2;0;3;3;1;0;;0;0;0.000; 0.00; 0.00%; 0.01; 1.2
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Gavin Hollowell (1; Yonny Hernández); Chase Anderson (5; Freddie Freeman).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Gavin Hollowell (1; Yonny Hernández); Chase Anderson (5; Freddie Freeman).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Alex MacKay, 1B - Alfonso Márquez, 2B - Doug Eddings, 3B - Lance Barrett, LF - (none), RF - (none).
+Time of Game: 2:55.
+Attendance: 36,667.
+Field Condition: Unknown.
+Start Time Weather: 68° F, Wind 4mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;SS
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Max Muncy;/players/m/muncyma01.shtml;3B
+4;J.D. Martinez;/players/m/martijd02.shtml;DH
+5;David Peralta;/players/p/peralda01.shtml;LF
+6;Jason Heyward;/players/h/heywaja01.shtml;RF
+7;Miguel Vargas;/players/v/vargami01.shtml;2B
+8;James Outman;/players/o/outmaja01.shtml;CF
+9;Austin Barnes;/players/b/barneau01.shtml;C
+; Emmet Sheehan;/players/s/sheehem01.shtml;P
+Rockies
+1;Jurickson Profar;/players/p/profaju01.shtml;LF
+2;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+3;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+4;Elias Díaz;/players/d/diazel01.shtml;C
+5;C.J. Cron;/players/c/croncj01.shtml;DH
+6;Nolan Jones;/players/j/jonesno01.shtml;RF
+7;Randal Grichuk;/players/g/grichra01.shtml;CF
+8;Elehuris Montero;/players/m/monteel01.shtml;1B
+9;Harold Castro;/players/c/castrha01.shtml;2B
+; Chase Anderson;/players/a/anderch01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t4;4-3;2;1-3;2,(0-1) .CX;RR;LAD;Max Muncy;Peter Lambert;17%;78%;Double to RF (Fly Ball to Deep CF-RF); Outman Scores; Freeman Scores
+b3;1-2;1;-23;2,(0-1) FX;RR;COL;Elias Díaz;Emmet Sheehan;-12%;34%;Single to LF (Line Drive to LF-CF); Profar Scores; Tovar Scores
+t4;3-3;2;1-3;1,(0-0) X;R;LAD;Freddie Freeman;Chase Anderson;11%;61%;Single to CF (Line Drive); Vargas Scores; Outman to 3B
+t4;6-3;2;-2-;4,(2-1) CBBX;RR;LAD;J.D. Martinez;Peter Lambert;11%;89%;Home Run (Fly Ball to Deep RF); Muncy Scores
+b3;1-2;0;1--;2,(0-1) L>X;;COL;Ezequiel Tovar;Emmet Sheehan;-10%;41%;Single to RF (Ground Ball); Profar to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Dodgers Batting, Tied 0-0, Rockies' Chase Anderson facing 1-2-3 
+t1;0-0;0;---;5,(1-2) CCBFX;;LAD;Mookie Betts;Chase Anderson;5%;55%;Double to CF (Fly Ball to Deep CF-RF)
+t1;0-0;0;-2-;4,(1-2) CBFH;;LAD;Freddie Freeman;Chase Anderson;3%;58%;Hit By Pitch
+t1;0-0;0;12-;8,(3-2) BBBCCFFS;O;LAD;Max Muncy;Chase Anderson;-5%;53%;Strikeout Swinging
+t1;0-0;1;12-;2,(0-1) SX;R;LAD;J.D. Martinez;Chase Anderson;8%;62%;Single to CF (Fly Ball); Betts Scores; Freeman to 2B
+t1;1-0;1;12-;8,(3-2) BBCF.BFFS;O;LAD;David Peralta;Chase Anderson;-4%;58%;Strikeout Swinging
+t1;1-0;2;12-;3,(0-2) CFS;O;LAD;Jason Heyward;Chase Anderson;-4%;54%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Dodgers 1, Rockies 0.
+Bottom of the 1st, Rockies Batting, Behind 0-1, Dodgers' Emmet Sheehan facing 1-2-3 
+b1;0-1;0;---;6,(3-2) BC.BBSX;;COL;Jurickson Profar;Emmet Sheehan;-4%;50%;Single to RF (Fly Ball to Short CF-RF)
+b1;0-1;0;1--;4,(1-2) BSFX;O;COL;Ezequiel Tovar;Emmet Sheehan;4%;54%;Groundout: P-SS/Forceout at 2B (Weak SS-2B); Tovar to 1B
+b1;0-1;1;1--;3,(1-1) BCX;;COL;Ryan McMahon;Emmet Sheehan;-6%;48%;Single to RF (Ground Ball); Tovar to 3B
+b1;0-1;1;1-3;5,(2-2) BFF.BX;RO;COL;Elias Díaz;Emmet Sheehan;0%;48%;Flyball: CF/Sacrifice Fly (Deep CF); Tovar Scores
+b1;1-1;2;1--;5,(3-1) BBFBX;;COL;C.J. Cron;Emmet Sheehan;-2%;46%;Single to SS (Ground Ball to SS-3B Hole); McMahon to 2B
+b1;1-1;2;12-;4,(0-2) CSFS;O;COL;Nolan Jones;Emmet Sheehan;4%;50%;Strikeout Swinging
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Dodgers 1, Rockies 1.
+Top of the 2nd, Dodgers Batting, Tied 1-1, Rockies' Chase Anderson facing 7-8-9 
+t2;1-1;0;---;1,(0-0) X;O;LAD;Miguel Vargas;Chase Anderson;-2%;48%;Flyball: CF (Deep LF-CF)
+t2;1-1;1;---;4,(1-2) CFBS;O;LAD;James Outman;Chase Anderson;-2%;46%;Strikeout Swinging
+t2;1-1;2;---;3,(0-2) CFX;O;LAD;Austin Barnes;Chase Anderson;-1%;45%;Flyball: LF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 1, Rockies 1.
+Bottom of the 2nd, Rockies Batting, Tied 1-1, Dodgers' Emmet Sheehan facing 7-8-9 
+b2;1-1;0;---;5,(2-2) FBBSX;O;COL;Randal Grichuk;Emmet Sheehan;2%;47%;Flyball: RF (Deep RF)
+b2;1-1;1;---;5,(1-2) FF.BF*S;O;COL;Elehuris Montero;Emmet Sheehan;2%;49%;Strikeout Swinging
+b2;1-1;2;---;3,(0-2) FF*S;O;COL;Harold Castro;Emmet Sheehan;1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 1, Rockies 1.
+Top of the 3rd, Dodgers Batting, Tied 1-1, Rockies' Chase Anderson facing 1-2-3 
+t3;1-1;0;---;6,(3-2) FCBBBX;;LAD;Mookie Betts;Chase Anderson;6%;56%;Double to LF (Line Drive to Deep LF-CF)
+t3;1-1;0;-2-;4,(1-2) SBCX;O;LAD;Freddie Freeman;Chase Anderson;-2%;54%;Flyball: CF (Deep CF); Betts to 3B
+t3;1-1;1;--3;2,(0-1) FX;O;LAD;Max Muncy;Chase Anderson;-6%;48%;Flyball: CF (Deep SS-2B)
+t3;1-1;2;--3;3,(1-1) BSX;R;LAD;J.D. Martinez;Chase Anderson;9%;57%;Single to CF (Line Drive to Short CF); Betts Scores
+t3;2-1;2;1--;7,(3-2) BBSF*B>F>S;O;LAD;David Peralta;Chase Anderson;-2%;55%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Dodgers 2, Rockies 1.
+Bottom of the 3rd, Rockies Batting, Behind 1-2, Dodgers' Emmet Sheehan facing 1-2-3 
+b3;1-2;0;---;5,(2-2) CBBCX;;COL;Jurickson Profar;Emmet Sheehan;-4%;51%;Single to RF (Ground Ball thru 2B-1B)
+b3;1-2;0;1--;2,(0-1) L>X;;COL;Ezequiel Tovar;Emmet Sheehan;-10%;41%;Single to RF (Ground Ball); Profar to 3B
+b3;1-2;0;1-3;2,(1-0) B>B;;COL;Ryan McMahon;Emmet Sheehan;-2%;39%;Tovar Steals 2B
+b3;1-2;0;-23;6,(3-2) B>B.FBSC;O;COL;Ryan McMahon;Emmet Sheehan;6%;45%;Strikeout Looking
+b3;1-2;1;-23;2,(0-1) FX;RR;COL;Elias Díaz;Emmet Sheehan;-12%;34%;Single to LF (Line Drive to LF-CF); Profar Scores; Tovar Scores
+b3;3-2;1;1--;3,(0-2) CCX;OO;COL;C.J. Cron;Emmet Sheehan;5%;39%;Double Play: Lineout: 2B; Díaz out at 1B/2B-1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 0 LOB. Dodgers 2, Rockies 3.
+Top of the 4th, Dodgers Batting, Behind 2-3, Rockies' Chase Anderson facing 6-7-8 
+t4;2-3;0;---;1,(0-0) .X;;LAD;Jason Heyward;Chase Anderson;7%;46%;Double to RF (Line Drive to Deep CF-RF)
+t4;2-3;0;-2-;5,(3-1) CBBBB;;LAD;Miguel Vargas;Chase Anderson;4%;50%;Walk
+t4;2-3;0;12-;8,(3-2) BSFFBFBB;;LAD;James Outman;Chase Anderson;8%;58%;Walk; Heyward to 3B; Vargas to 2B
+t4;2-3;0;123;8,(3-2) BFF.BFBFT;O;LAD;Austin Barnes;Chase Anderson;-8%;50%;Strikeout Swinging
+t4;2-3;1;123;4,(1-2) CS*BX;RO;LAD;Mookie Betts;Chase Anderson;-1%;50%;Flyball: CF/Sacrifice Fly (Deep CF); Heyward Scores; Vargas to 3B
+t4;3-3;2;1-3;1,(0-0) X;R;LAD;Freddie Freeman;Chase Anderson;11%;61%;Single to CF (Line Drive); Vargas Scores; Outman to 3B
+;;;;;;;;;Peter Lambert replaces Chase Anderson pitching
+t4;4-3;2;1-3;2,(0-1) .CX;RR;LAD;Max Muncy;Peter Lambert;17%;78%;Double to RF (Fly Ball to Deep CF-RF); Outman Scores; Freeman Scores
+t4;6-3;2;-2-;4,(2-1) CBBX;RR;LAD;J.D. Martinez;Peter Lambert;11%;89%;Home Run (Fly Ball to Deep RF); Muncy Scores
+t4;8-3;2;---;6,(2-2) FS.BFBX;O;LAD;David Peralta;Peter Lambert;0%;89%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;6 runs, 4 hits, 0 errors, 0 LOB. Dodgers 8, Rockies 3.
+Bottom of the 4th, Rockies Batting, Behind 3-8, Dodgers' Emmet Sheehan facing 6-7-8 
+b4;3-8;0;---;4,(1-2) C.FBX;O;COL;Nolan Jones;Emmet Sheehan;2%;90%;Groundout: 2B-1B (2B-1B)
+b4;3-8;1;---;5,(2-2) BFSBX;;COL;Randal Grichuk;Emmet Sheehan;-2%;89%;Single to CF (Line Drive to Deep CF)
+b4;3-8;1;1--;2,(0-1) FX;O;COL;Elehuris Montero;Emmet Sheehan;2%;91%;Foul Popfly: 1B (1B into Foul Terr.)
+b4;3-8;2;1--;4,(2-1) BBSX;O;COL;Harold Castro;Emmet Sheehan;2%;92%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 8, Rockies 3.
+Top of the 5th, Dodgers Batting, Ahead 8-3, Rockies' Peter Lambert facing 6-7-8 
+t5;8-3;0;---;1,(0-0) X;;LAD;Jason Heyward;Peter Lambert;2%;94%;Double to CF (Line Drive to Deep CF)
+t5;8-3;0;-2-;1,(0-0) X;O;LAD;Miguel Vargas;Peter Lambert;-1%;93%;Foul Popfly: 1B
+t5;8-3;1;-2-;3,(1-1) SBX;;LAD;James Outman;Peter Lambert;2%;95%;Single to CF (Line Drive); Heyward to 3B; Outman to 2B
+t5;8-3;1;-23;3,(1-1) FBX;O;LAD;Austin Barnes;Peter Lambert;-2%;92%;Groundout: 3B-1B (Weak 3B)
+t5;8-3;2;-23;6,(3-2) B*BCFB*B;;LAD;Mookie Betts;Peter Lambert;0%;93%;Walk
+t5;8-3;2;123;5,(3-1) BFBBX;RR;LAD;Freddie Freeman;Peter Lambert;4%;97%;Single to RF (Ground Ball); Heyward Scores; Outman Scores; Betts to 2B
+;;;;;;;;;Gavin Hollowell replaces Peter Lambert pitching
+t5;10-3;2;12-;3,(0-2) .FSX;R;LAD;Max Muncy;Gavin Hollowell;1%;98%;Single to RF (Line Drive); Betts Scores; Freeman to 2B
+t5;11-3;2;12-;3,(0-2) FFX;O;LAD;J.D. Martinez;Gavin Hollowell;0%;98%;Groundout: P-1B
+;;;;;;;;;3 runs, 4 hits, 0 errors, 2 LOB. Dodgers 11, Rockies 3.
+Bottom of the 5th, Rockies Batting, Behind 3-11, Dodgers' Emmet Sheehan facing 1-2-3 
+b5;3-11;0;---;6,(3-2) BFBBFX;O;COL;Jurickson Profar;Emmet Sheehan;1%;98%;Groundout: 2B-P (2B-1B)
+b5;3-11;1;---;8,(2-2) BFFFFBFS;O;COL;Ezequiel Tovar;Emmet Sheehan;0%;99%;Strikeout Swinging
+b5;3-11;2;---;1,(0-0) X;O;COL;Ryan McMahon;Emmet Sheehan;0%;99%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 11, Rockies 3.
+Top of the 6th, Dodgers Batting, Ahead 11-3, Rockies' Gavin Hollowell facing 5-6-7 
+t6;11-3;0;---;4,(1-2) FSBX;;LAD;David Peralta;Gavin Hollowell;0%;99%;Single to LF (Line Drive to Short LF)
+t6;11-3;0;1--;4,(1-2) CBFX;O;LAD;Jason Heyward;Gavin Hollowell;0%;99%;Flyball: RF (Deep CF-RF)
+t6;11-3;1;1--;3,(2-0) BBB;;LAD;Miguel Vargas;Gavin Hollowell;0%;99%;Passed Ball; Peralta to 2B
+t6;11-3;1;-2-;6,(3-2) BBB.CFX;R;LAD;Miguel Vargas;Gavin Hollowell;1%;100%;Triple to CF (Line Drive to Deep CF-RF); Peralta Scores
+t6;12-3;1;--3;3,(0-2) SSX;O;LAD;James Outman;Gavin Hollowell;0%;99%;Groundout: SS-1B (Weak SS)
+t6;12-3;2;--3;4,(1-2) CBSX;O;LAD;Austin Barnes;Gavin Hollowell;0%;99%;Groundout: 3B-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Dodgers 12, Rockies 3.
+Bottom of the 6th, Rockies Batting, Behind 3-12, Dodgers' Yency Almonte facing 4-5-6 
+;;;;;;;;;Yency Almonte replaces Emmet Sheehan pitchingMiguel Vargas moves from 2B to 1B Yonny Hernández replaces Freddie Freeman (1B) playing 2B batting 2nd
+b6;3-12;0;---;4,(1-2) ...BFS.S;O;COL;Elias Díaz;Yency Almonte;0%;99%;Strikeout Swinging
+b6;3-12;1;---;4,(1-2) CBCS;O;COL;C.J. Cron;Yency Almonte;0%;100%;Strikeout Swinging
+b6;3-12;2;---;2,(0-1) CX;O;COL;Nolan Jones;Yency Almonte;0%;100%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 12, Rockies 3.
+Top of the 7th, Dodgers Batting, Ahead 12-3, Rockies' Gavin Hollowell facing 1-2-3 
+;;;;;;;;;Austin Wynns replaces Elias Díaz playing C batting 4thMiguel Rojas pinch hits for Mookie Betts (SS) batting 1st
+t7;12-3;0;---;3,(0-2) ..CFS;O;LAD;Miguel Rojas;Gavin Hollowell;0%;100%;Strikeout Swinging
+t7;12-3;1;---;5,(2-2) BFCB.H;;LAD;Yonny Hernández;Gavin Hollowell;0%;100%;Hit By Pitch
+t7;12-3;1;1--;3,(0-2) CCT;O;LAD;Max Muncy;Gavin Hollowell;0%;100%;Strikeout Swinging
+;;;;;;;;;Matt Carasiti replaces Gavin Hollowell pitching
+t7;12-3;2;1--;1,(0-0) .X;;LAD;J.D. Martinez;Matt Carasiti;0%;100%;Single to RF (Line Drive to Deep CF-RF); Hernández to 2B
+;;;;;;;;;Jonny Deluca pinch hits for David Peralta (LF) batting 5th
+t7;12-3;2;12-;2,(1-0) .BX;R;LAD;Jonny Deluca;Matt Carasiti;0%;100%;Single to CF (Ground Ball thru SS-2B); Hernández Scores; Martinez to 3B
+t7;13-3;2;1-3;7,(2-2) BFBSFFX;R;LAD;Jason Heyward;Matt Carasiti;0%;100%;Single to SS (Ground Ball); Martinez Scores; Deluca to 2B
+t7;14-3;2;12-;8,(3-2) CFBBFB>F>C;O;LAD;Miguel Vargas;Matt Carasiti;0%;100%;Strikeout Looking
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Dodgers 14, Rockies 3.
+Bottom of the 7th, Rockies Batting, Behind 3-14, Dodgers' Victor González facing 7-8-9 
+;;;;;;;;;Victor González replaces Yency Almonte pitchingMiguel Rojas moves from PH to SS Jonny Deluca moves from PH to LF 
+b7;3-14;0;---;5,(2-2) ...FSBBS;O;COL;Randal Grichuk;Victor González;0%;100%;Strikeout Swinging
+b7;3-14;1;---;4,(1-2) FS.B*S;O;COL;Elehuris Montero;Victor González;0%;100%;Strikeout Swinging
+b7;3-14;2;---;4,(1-2) CSBX;O;COL;Harold Castro;Victor González;0%;100%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 14, Rockies 3.
+Top of the 8th, Dodgers Batting, Ahead 14-3, Rockies' Matt Carasiti facing 8-9-1 
+;;;;;;;;;Coco Montes replaces Randal Grichuk (CF) playing 3B batting 7thBrenton Doyle replaces Ryan McMahon (3B) playing CF batting 3rd
+t8;14-3;0;---;4,(1-2) ..CFBX;O;LAD;James Outman;Matt Carasiti;0%;100%;Lineout: CF (Deep CF)
+t8;14-3;1;---;3,(0-2) SCS;O;LAD;Austin Barnes;Matt Carasiti;0%;100%;Strikeout Swinging
+t8;14-3;2;---;2,(0-1) FX;;LAD;Miguel Rojas;Matt Carasiti;0%;100%;Single to LF (Ground Ball thru SS-3B Hole)
+t8;14-3;2;1--;5,(2-2) BCBSS;O;LAD;Yonny Hernández;Matt Carasiti;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 14, Rockies 3.
+Bottom of the 8th, Rockies Batting, Behind 3-14, Dodgers' Justin Bruihl facing 1-2-3 
+;;;;;;;;;Justin Bruihl replaces Victor González pitching
+b8;3-14;0;---;2,(0-1) .FX;;COL;Jurickson Profar;Justin Bruihl;0%;100%;Single to CF (Ground Ball thru SS-2B)
+b8;3-14;0;1--;4,(1-2) BSFX;OO;COL;Ezequiel Tovar;Justin Bruihl;0%;100%;Double Play: Flyball: 2B (Deep 2B-1B); Profar out at 1B/2B-1B
+b8;3-14;2;---;1,(0-0) X;O;COL;Brenton Doyle;Justin Bruihl;0%;100%;Flyball: 2B (Short CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Dodgers 14, Rockies 3.
+Top of the 9th, Dodgers Batting, Ahead 14-3, Rockies' Matt Koch facing 3-4-5 
+;;;;;;;;;Matt Koch replaces Matt Carasiti pitching
+t9;14-3;0;---;1,(0-0) .X;O;LAD;Max Muncy;Matt Koch;0%;100%;Flyball: CF (Deep LF-CF)
+t9;14-3;1;---;5,(2-2) CSBBX;O;LAD;J.D. Martinez;Matt Koch;0%;100%;Flyball: CF (Deep CF-RF)
+t9;14-3;2;---;3,(0-2) FFX;O;LAD;Jonny Deluca;Matt Koch;0%;100%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 14, Rockies 3.
+Bottom of the 9th, Rockies Batting, Behind 3-14, Dodgers' Justin Bruihl facing 4-5-6 
+b9;3-14;0;---;1,(0-0) X;;COL;Austin Wynns;Justin Bruihl;0%;100%;Single to LF (Line Drive to Deep LF-CF)
+;;;;;;;;;Jorge Alfaro pinch hits for C.J. Cron (DH) batting 5th
+b9;3-14;0;1--;2,(0-1) .SX;OO;COL;Jorge Alfaro;Justin Bruihl;0%;100%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b9;3-14;2;---;2,(1-0) BX;O;COL;Nolan Jones;Justin Bruihl;0%;100%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Dodgers 14, Rockies 3.

@@ -1,0 +1,279 @@
+
+Scorebox Meta
+20230805
+7:10 p.m. Local
+35823
+Progressive Field
+179
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;0;0;1;2;0;2;0;2;0;7;12;2
+https://cdn.ssref.net/req/202308251/tlogo/br/CLE-2023.png;/teams/CLE/2023.shtml;0;0;0;0;0;2;0;2;0;4;7;0
+
+Batting home
+Steven Kwan;/players/k/kwanst01.shtml;LF;5;0;1;0;0;1;5;.273;.347;.379;.726;20;14;-0.077; 0.86;0.027;-0.104;-0.04%; 0.70; -0.8;6;0;
+Andrés Giménez;/players/g/gimenan01.shtml;2B;4;1;1;0;1;1;5;.239;.310;.388;.698;25;17;0.070; 0.84;0.107;-0.037; 0.03%; 0.68; 0.8;1;6;2B,SB
+José Ramírez;/players/r/ramirjo01.shtml;3B;3;0;1;1;0;0;3;.289;.360;.501;.861;13;10;-0.052; 1.08;0.044;-0.096;-0.03%; 0.88; 0.0;0;1;2B
+José Tena;/players/t/tenajo01.shtml;PR-SS;2;1;0;0;0;0;2;.000;.000;.000;.000;12;8;-0.019; 0.33;0.000;-0.019;-0.01%; 0.27; -0.4;1;0;
+Oscar Gonzalez;/players/g/gonzaos01.shtml;RF;3;1;1;0;1;0;4;.237;.276;.333;.609;12;7;-0.012; 0.83;0.045;-0.057;-0.01%; 0.67; 0.1;1;0;
+Kole Calhoun;/players/c/calhoko01.shtml;DH;3;1;1;1;0;1;4;.333;.500;.333;.833;18;11;0.043; 0.96;0.094;-0.051; 0.02%; 0.77; 0.7;;;HBP
+Brayan Rocchio;/players/r/rocchbr01.shtml;SS-3B;4;0;0;0;0;2;4;.200;.231;.200;.431;15;12;-0.150; 1.06;0.017;-0.167;-0.07%; 0.85; -1.2;2;0;GDP
+Will Brennan;/players/b/brennwi02.shtml;CF;3;0;2;2;1;0;4;.260;.295;.367;.662;9;5;0.054; 1.04;0.128;-0.073; 0.03%; 0.84; 1.7;3;0;CS
+Bo Naylor;/players/n/naylobo01.shtml;C;2;0;0;0;2;0;4;.198;.277;.374;.651;17;6;-0.039; 1.25;0.044;-0.084;-0.02%; 1.00; -0.3;7;1;
+Gabriel Arias;/players/a/ariasga01.shtml;1B;4;0;0;0;0;2;4;.201;.297;.314;.610;19;14;-0.110; 1.15;0.000;-0.110;-0.05%; 0.93; -1.0;6;0;
+Noah Syndergaard;/players/s/syndeno01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Eli Morgan;/players/m/morgael01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael Kelly;/players/k/kellymi03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Andrés Giménez (19, off Michael Kopech); José Ramírez (27, off Michael Kopech).
+
+
+HBP: Kole Calhoun (1, by Aaron Bummer).
+
+
+TB: Will Brennan 2; Andrés Giménez 2; José Ramírez 2; Kole Calhoun; Oscar Gonzalez; Steven Kwan.
+
+
+GIDP: Brayan Rocchio (4).
+
+
+RBI: Will Brennan 2 (30); Kole Calhoun (1); José Ramírez (65).
+
+
+2-out RBI: Will Brennan 2.
+
+
+Team LOB: 8.
+With RISP: 4 for 13.
+
+Batting away
+Tim Anderson;/players/a/anderti01.shtml;SS;3;0;1;0;0;1;3;.244;.285;.292;.576;7;5;0.023; 0.77;0.060;-0.037;0%; 0.01; 0.2;1;1;2B
+Yoán Moncada;/players/m/moncayo01.shtml;3B;2;0;0;0;0;1;2;.224;.269;.333;.602;10;5;-0.010; 0.18;0.000;-0.010;0%; 0.00; -0.3;0;0;
+Andrew Benintendi;/players/b/beninan01.shtml;LF;5;0;1;0;0;1;5;.278;.345;.360;.705;21;12;0.030; 0.54;0.066;-0.036;0%; 0.00; 0.0;2;0;
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;3;1;2;1;1;0;5;.270;.324;.557;.881;15;7;0.178; 0.53;0.180;-0.003; 0.00%; 0.00; 1.7;2;1;HR,2·SB,HBP
+Eloy Jiménez;/players/j/jimenel02.shtml;DH;5;0;1;0;0;0;5;.278;.322;.460;.782;10;8;-0.088; 0.75;0.011;-0.099;0%; 0.00; -1.1;;;
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;4;1;1;1;0;1;4;.249;.316;.430;.746;15;11;-0.068; 1.15;0.108;-0.176;0%; 0.01; -1.3;9;1;HR,GDP
+Yasmani Grandal;/players/g/grandya01.shtml;C;3;1;1;0;1;1;4;.246;.316;.372;.688;22;13;-0.020; 0.54;0.021;-0.041;0%; 0.00; 0.2;6;1;
+Oscar Colás;/players/c/colasos01.shtml;RF;4;2;1;1;0;1;4;.219;.259;.284;.543;7;6;0.051; 0.52;0.090;-0.039;0%; 0.00; 0.2;2;0;HR
+Elvis Andrus;/players/a/andruel01.shtml;2B-SS;4;2;3;2;0;0;4;.215;.288;.304;.592;11;8;0.136; 0.59;0.145;-0.009; 0.00%; 0.00; 2.9;1;5;HR,2B,2·SB
+Zach Remillard;/players/r/remilza01.shtml;3B-2B;4;0;1;2;0;1;4;.267;.327;.347;.674;16;11;-0.023; 0.45;0.027;-0.050;0%; 0.00; 0.1;3;2;CS
+Michael Kopech;/players/k/kopecmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Bryan Shaw;/players/s/shawbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Aaron Bummer;/players/b/bummeaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Tim Anderson (12, off Noah Syndergaard); Elvis Andrus (10, off Michael Kelly).
+
+
+HR: Luis Robert Jr. (30, off Noah Syndergaard, 3rd inn, 0 on, 2 outs to Deep LF); Andrew Vaughn (14, off Noah Syndergaard, 4th inn, 0 on, 0 outs to Deep LF Line); Oscar Colás (2, off Noah Syndergaard, 4th inn, 0 on, 1 out to Deep CF-RF); Elvis Andrus (3, off Noah Syndergaard, 6th inn, 1 on, 2 outs to Deep LF Line).
+
+
+HBP: Luis Robert Jr. (11, by Noah Syndergaard).
+
+
+TB: Elvis Andrus 7; Luis Robert Jr. 5; Oscar Colás 4; Andrew Vaughn 4; Tim Anderson 2; Andrew Benintendi; Eloy Jiménez; Yasmani Grandal; Zach Remillard.
+
+
+GIDP: Andrew Vaughn (12).
+
+
+RBI: Elvis Andrus 2 (23); Zach Remillard 2 (15); Andrew Vaughn (59); Oscar Colás (11); Luis Robert Jr. (61).
+
+
+2-out RBI: Elvis Andrus 2; Luis Robert Jr..
+
+
+Team LOB: 6.
+With RISP: 2 for 7.
+
+Pitching home
+Noah Syndergaard;/players/s/syndeno01.shtml; L (1-5); 6 ;9;5;5;0;3;4;6.75;27;83;56;38;7;11;8;15;5;0;37;;;-0.188; 0.77;-0.09%; 0.62; -2.1
+Eli Morgan;/players/m/morgael01.shtml;Eli Morgan; 1.1;1;1;1;2;3;0;3.43;7;31;16;9;5;2;0;2;2;0;;0;0;0.019; 0.35; 0.01%; 0.28; 0.5
+Michael Kelly;/players/k/kellymi03.shtml;Michael Kelly; 1.2;2;1;1;0;1;0;4.00;6;20;14;8;3;3;0;5;4;0;;1;1;-0.040; 0.17;-0.02%; 0.14; -1.0
+
+Pitching away
+Michael Kopech;/players/k/kopecmi01.shtml; W (5-10); 5.1;3;2;2;4;3;0;4.43;22;97;60;34;9;17;7;8;6;0;53;;;0.168; 0.94; 0.00%; 0.01; 0.8
+Bryan Shaw;/players/s/shawbr01.shtml; H (1); 1.2;2;0;0;0;2;0;6.08;6;20;16;10;2;4;2;2;1;0;;2;1;0.097; 1.60; 0.00%; 0.01; 0.7
+Aaron Bummer;/players/b/bummeaa01.shtml;Aaron Bummer; 2 ;2;2;2;1;2;0;6.53;11;43;28;12;7;9;3;4;1;0;;0;0;0.027; 0.65; 0.00%; 0.00; -1.0
+
+indiv_events
+
+Balks: None.
+WP: Aaron Bummer (4).
+HBP: Noah Syndergaard (8; Luis Robert Jr.); Aaron Bummer (3; Kole Calhoun).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Aaron Bummer (4).
+HBP: Noah Syndergaard (8; Luis Robert Jr.); Aaron Bummer (3; Kole Calhoun).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Mark Wegner, 1B - Stu Scheurwater, 2B - Malachi Moore, 3B - Bruce Dreckman, LF - (none), RF - (none).
+Time of Game: 2:59.
+Attendance: 35,823.
+Field Condition: Unknown.
+Start Time Weather: 77° F, Wind 6mph in from Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+White Sox
+1;Tim Anderson;/players/a/anderti01.shtml;SS
+2;Andrew Benintendi;/players/b/beninan01.shtml;LF
+3;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+4;Eloy Jiménez;/players/j/jimenel02.shtml;DH
+5;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+6;Yasmani Grandal;/players/g/grandya01.shtml;C
+7;Oscar Colás;/players/c/colasos01.shtml;RF
+8;Elvis Andrus;/players/a/andruel01.shtml;2B
+9;Zach Remillard;/players/r/remilza01.shtml;3B
+; Michael Kopech;/players/k/kopecmi01.shtml;P
+Guardians
+1;Steven Kwan;/players/k/kwanst01.shtml;LF
+2;Andrés Giménez;/players/g/gimenan01.shtml;2B
+3;José Ramírez;/players/r/ramirjo01.shtml;3B
+4;Oscar Gonzalez;/players/g/gonzaos01.shtml;RF
+5;Kole Calhoun;/players/c/calhoko01.shtml;DH
+6;Brayan Rocchio;/players/r/rocchbr01.shtml;SS
+7;Will Brennan;/players/b/brennwi02.shtml;CF
+8;Bo Naylor;/players/n/naylobo01.shtml;C
+9;Gabriel Arias;/players/a/ariasga01.shtml;1B
+; Noah Syndergaard;/players/s/syndeno01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t1;0-0;1;123;4,(1-2) CBFX;OO;CHW;Andrew Vaughn;Noah Syndergaard;-15%;45%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b6;2-5;1;1-3;1,(0-0) X;OO;CLE;Brayan Rocchio;Bryan Shaw;13%;90%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+t3;0-0;2;---;6,(3-2) BFBFBX;R;CHW;Luis Robert Jr.;Noah Syndergaard;12%;58%;Home Run (Fly Ball to Deep LF)
+t4;1-0;0;---;1,(0-0) X;R;CHW;Andrew Vaughn;Noah Syndergaard;11%;74%;Home Run (Fly Ball to Deep LF Line)
+t6;3-0;2;1--;1,(0-0) 1X;RR;CHW;Elvis Andrus;Noah Syndergaard;9%;95%;Home Run (Fly Ball to Deep LF Line); Colás Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, White Sox Batting, Tied 0-0, Guardians' Noah Syndergaard facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;;CHW;Tim Anderson;Noah Syndergaard;6%;56%;Double to RF (Line Drive to Deep RF Line)
+t1;0-0;0;-2-;5,(2-2) BSFBX;;CHW;Andrew Benintendi;Noah Syndergaard;7%;63%;Single to CF (Line Drive to LF-CF); Anderson to 3B
+t1;0-0;0;1-3;1,(0-0) H;;CHW;Luis Robert Jr.;Noah Syndergaard;4%;66%;Hit By Pitch; Benintendi to 2B
+t1;0-0;0;123;2,(0-1) SX;O;CHW;Eloy Jiménez;Noah Syndergaard;-7%;60%;Flyball: LF
+t1;0-0;1;123;4,(1-2) CBFX;OO;CHW;Andrew Vaughn;Noah Syndergaard;-15%;45%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. White Sox 0, Guardians 0.
+Bottom of the 1st, Guardians Batting, Tied 0-0, White Sox' Michael Kopech facing 1-2-3 
+b1;0-0;0;---;3,(1-1) CBX;O;CLE;Steven Kwan;Michael Kopech;2%;47%;Groundout: SS-1B
+b1;0-0;1;---;5,(2-2) FBFBX;;CLE;Andrés Giménez;Michael Kopech;-2%;45%;Reached on E7 (Line Drive); Giménez to 1B
+b1;0-0;1;1--;4,(0-2) C>F1>F>X;OO;CLE;José Ramírez;Michael Kopech;5%;50%;Double Play: Flyball: CF (Deep CF); Giménez out at 1B/CF-2B-1B
+;;;;;;;;;0 runs, 0 hits, 1 error, 0 LOB. White Sox 0, Guardians 0.
+Top of the 2nd, White Sox Batting, Tied 0-0, Guardians' Noah Syndergaard facing 6-7-8 
+t2;0-0;0;---;8,(3-2) BBBCFFFS;O;CHW;Yasmani Grandal;Noah Syndergaard;-2%;48%;Strikeout Swinging
+t2;0-0;1;---;2,(1-0) BX;O;CHW;Oscar Colás;Noah Syndergaard;-2%;46%;Groundout: 2B-1B (2B-1B)
+t2;0-0;2;---;2,(1-0) .BX;;CHW;Elvis Andrus;Noah Syndergaard;1%;47%;Single to LF (Ground Ball thru SS-3B Hole)
+t2;0-0;2;1--;2,(0-1) S>P;;CHW;Zach Remillard;Noah Syndergaard;1%;48%;Andrus Steals 2B
+t2;0-0;2;-2-;4,(1-2) S>P.S>B;;CHW;Zach Remillard;Noah Syndergaard;0%;49%;Andrus Steals 3B
+t2;0-0;2;--3;6,(3-2) S>P.S>B.BS;O;CHW;Zach Remillard;Noah Syndergaard;-4%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 0, Guardians 0.
+Bottom of the 2nd, Guardians Batting, Tied 0-0, White Sox' Michael Kopech facing 4-5-6 
+b2;0-0;0;---;2,(0-1) SX;O;CLE;Oscar Gonzalez;Michael Kopech;2%;47%;Groundout: 3B-1B
+b2;0-0;1;---;6,(3-2) BBSFBS;O;CLE;Kole Calhoun;Michael Kopech;2%;49%;Strikeout Swinging
+b2;0-0;2;---;4,(1-2) CBFX;O;CLE;Brayan Rocchio;Michael Kopech;1%;50%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Guardians 0.
+Top of the 3rd, White Sox Batting, Tied 0-0, Guardians' Noah Syndergaard facing 1-2-3 
+t3;0-0;0;---;3,(2-0) BBX;O;CHW;Tim Anderson;Noah Syndergaard;-3%;47%;Flyball: CF (Deep CF)
+t3;0-0;1;---;6,(3-2) BFBBFX;O;CHW;Andrew Benintendi;Noah Syndergaard;-2%;46%;Groundout: 2B-1B (2B-1B)
+t3;0-0;2;---;6,(3-2) BFBFBX;R;CHW;Luis Robert Jr.;Noah Syndergaard;12%;58%;Home Run (Fly Ball to Deep LF)
+t3;1-0;2;---;2,(0-1) CX;O;CHW;Eloy Jiménez;Noah Syndergaard;-1%;57%;Lineout: SS
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. White Sox 1, Guardians 0.
+Bottom of the 3rd, Guardians Batting, Behind 0-1, White Sox' Michael Kopech facing 7-8-9 
+b3;0-1;0;---;2,(0-1) CX;O;CLE;Will Brennan;Michael Kopech;3%;60%;Lineout: RF (Deep RF)
+b3;0-1;1;---;5,(3-1) BBBCB;;CLE;Bo Naylor;Michael Kopech;-3%;57%;Walk
+b3;0-1;1;1--;4,(0-2) CCFX;O;CLE;Gabriel Arias;Michael Kopech;2%;59%;Groundout: 1B unassisted; Naylor to 2B
+b3;0-1;2;-2-;4,(2-1) CB*BX;O;CLE;Steven Kwan;Michael Kopech;4%;63%;Lineout: 3B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 1, Guardians 0.
+Top of the 4th, White Sox Batting, Ahead 1-0, Guardians' Noah Syndergaard facing 5-6-7 
+t4;1-0;0;---;1,(0-0) X;R;CHW;Andrew Vaughn;Noah Syndergaard;11%;74%;Home Run (Fly Ball to Deep LF Line)
+t4;2-0;0;---;2,(0-1) CX;O;CHW;Yasmani Grandal;Noah Syndergaard;-2%;72%;Popfly: 1B (Weak 2B-1B)
+t4;2-0;1;---;1,(0-0) .X;R;CHW;Oscar Colás;Noah Syndergaard;9%;81%;Home Run (Line Drive to Deep CF-RF)
+t4;3-0;1;---;2,(0-1) CX;O;CHW;Elvis Andrus;Noah Syndergaard;-1%;80%;Groundout: 2B-1B (SS-2B)
+t4;3-0;2;---;3,(0-2) TFX;O;CHW;Zach Remillard;Noah Syndergaard;-1%;79%;Flyball: LF (Deep LF Line)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. White Sox 3, Guardians 0.
+Bottom of the 4th, Guardians Batting, Behind 0-3, White Sox' Michael Kopech facing 2-3-4 
+b4;0-3;0;---;8,(3-2) CBS.BFFBB;;CLE;Andrés Giménez;Michael Kopech;-4%;75%;Walk
+b4;0-3;0;1--;1,(0-0) >B;;CLE;José Ramírez;Michael Kopech;-2%;73%;Giménez Steals 2B
+b4;0-3;0;-2-;3,(1-1) >B.CX;O;CLE;José Ramírez;Michael Kopech;5%;77%;Foul Popfly: 3B
+b4;0-3;1;-2-;3,(0-2) CC.X;O;CLE;Oscar Gonzalez;Michael Kopech;3%;81%;Groundout: 2B-1B (2B-1B); Giménez to 3B
+b4;0-3;2;--3;5,(1-2) SFBFX;O;CLE;Kole Calhoun;Michael Kopech;3%;84%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 3, Guardians 0.
+Top of the 5th, White Sox Batting, Ahead 3-0, Guardians' Noah Syndergaard facing 1-2-3 
+t5;3-0;0;---;3,(0-2) CCC;O;CHW;Tim Anderson;Noah Syndergaard;-1%;83%;Strikeout Looking
+t5;3-0;1;---;3,(1-1) CBX;O;CHW;Andrew Benintendi;Noah Syndergaard;-1%;82%;Lineout: LF
+t5;3-0;2;---;1,(0-0) X;;CHW;Luis Robert Jr.;Noah Syndergaard;1%;83%;Single to 2B (Ground Ball to 2B-1B)
+t5;3-0;2;1--;2,(0-1) >F>B;;CHW;Eloy Jiménez;Noah Syndergaard;1%;84%;Robert Steals 2B
+t5;3-0;2;-2-;3,(1-1) >F>B.>B;;CHW;Eloy Jiménez;Noah Syndergaard;0%;84%;Robert Steals 3B
+t5;3-0;2;--3;4,(2-1) >F>B.>B.X;O;CHW;Eloy Jiménez;Noah Syndergaard;-2%;82%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 3, Guardians 0.
+Bottom of the 5th, Guardians Batting, Behind 0-3, White Sox' Michael Kopech facing 6-7-8 
+b5;0-3;0;---;6,(1-2) BCCFFS;O;CLE;Brayan Rocchio;Michael Kopech;3%;84%;Strikeout Swinging
+b5;0-3;1;---;4,(3-0) BBBB;;CLE;Will Brennan;Michael Kopech;-3%;81%;Walk
+b5;0-3;1;1--;2,(1-0) 1B>B;O;CLE;Bo Naylor;Michael Kopech;5%;86%;Brennan Caught Stealing 2B (C-SS)
+;;;;;;;;;Tag play Challenged by CHW manager (Pedro Grifol): Original call overturned as shown.
+b5;0-3;2;---;4,(3-0) 1B>B.BB;;CLE;Bo Naylor;Michael Kopech;-1%;85%;Walk
+b5;0-3;2;1--;6,(3-2) BFBSB>S;O;CLE;Gabriel Arias;Michael Kopech;2%;87%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 3, Guardians 0.
+Top of the 6th, White Sox Batting, Ahead 3-0, Guardians' Noah Syndergaard facing 5-6-7 
+t6;3-0;0;---;4,(1-2) CSBX;O;CHW;Andrew Vaughn;Noah Syndergaard;-1%;86%;Groundout: 2B-1B (SS-2B)
+t6;3-0;1;---;7,(2-2) FBBCFFX;;CHW;Yasmani Grandal;Noah Syndergaard;1%;87%;Single to RF (Fly Ball to Short CF-RF)
+t6;3-0;1;1--;1,(0-0) X;O;CHW;Oscar Colás;Noah Syndergaard;-1%;86%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Colás to 1B
+t6;3-0;2;1--;1,(0-0) 1X;RR;CHW;Elvis Andrus;Noah Syndergaard;9%;95%;Home Run (Fly Ball to Deep LF Line); Colás Scores
+t6;5-0;2;---;2,(1-0) BX;O;CHW;Zach Remillard;Noah Syndergaard;0%;95%;Flyball: CF
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. White Sox 5, Guardians 0.
+Bottom of the 6th, Guardians Batting, Behind 0-5, White Sox' Michael Kopech facing 1-2-3 
+b6;0-5;0;---;4,(1-2) BSCX;O;CLE;Steven Kwan;Michael Kopech;1%;96%;Lineout: RF (Deep RF)
+b6;0-5;1;---;6,(2-2) BCF.FBX;;CLE;Andrés Giménez;Michael Kopech;-2%;94%;Double to RF (Line Drive to RF Line)
+b6;0-5;1;-2-;6,(2-2) BCFBFX;R;CLE;José Ramírez;Michael Kopech;-4%;90%;Double to RF (Ground Ball); Giménez Scores
+;;;;;;;;;Zach Remillard moves from 3B to 2B Yoán Moncada replaces Tim Anderson (SS) playing 3B batting 1stElvis Andrus moves from 2B to SS José Tena pinch runs for José Ramírez (3B) batting 3rd
+b6;1-5;1;-2-;3,(1-1) ....F.....B.X;;CLE;Oscar Gonzalez;Michael Kopech;-4%;86%;Single to RF (Line Drive to CF-RF); Tena to 3B
+;;;;;;;;;Bryan Shaw replaces Michael Kopech pitching
+b6;1-5;1;1-3;3,(0-2) .CFX;R;CLE;Kole Calhoun;Bryan Shaw;-9%;77%;Single to RF (Line Drive to Deep RF); Tena Scores; Gonzalez to 3B
+b6;2-5;1;1-3;1,(0-0) X;OO;CLE;Brayan Rocchio;Bryan Shaw;13%;90%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;2 runs, 4 hits, 0 errors, 1 LOB. White Sox 5, Guardians 2.
+Top of the 7th, White Sox Batting, Ahead 5-2, Guardians' Eli Morgan facing 1-2-3 
+;;;;;;;;;Eli Morgan replaces Noah Syndergaard pitchingBrayan Rocchio moves from SS to 3B José Tena moves from PR to SS 
+t7;5-2;0;---;5,(3-1) ...BBFBX;O;CHW;Yoán Moncada;Eli Morgan;-1%;89%;Lineout: CF (Deep CF)
+t7;5-2;1;---;5,(2-2) BCS.BS;O;CHW;Andrew Benintendi;Eli Morgan;-1%;88%;Strikeout Swinging
+t7;5-2;2;---;6,(3-2) FBBFBB;;CHW;Luis Robert Jr.;Eli Morgan;0%;89%;Walk
+t7;5-2;2;1--;1,(0-0) >X;;CHW;Eloy Jiménez;Eli Morgan;1%;90%;Single to RF (Line Drive to Short RF); Robert to 3B
+t7;5-2;2;1-3;6,(2-2) *BFBFFS;O;CHW;Andrew Vaughn;Eli Morgan;-2%;88%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. White Sox 5, Guardians 2.
+Bottom of the 7th, Guardians Batting, Behind 2-5, White Sox' Bryan Shaw facing 7-8-9 
+b7;2-5;0;---;2,(0-1) CX;;CLE;Will Brennan;Bryan Shaw;-5%;83%;Single to LF (Fly Ball to Short LF-CF)
+b7;2-5;0;1--;3,(1-1) BCX;O;CLE;Bo Naylor;Bryan Shaw;3%;86%;Groundout: 1B unassisted; Brennan to 2B
+b7;2-5;1;-2-;4,(1-2) SBFC;O;CLE;Gabriel Arias;Bryan Shaw;4%;90%;Strikeout Looking
+b7;2-5;2;-2-;7,(2-2) BFFFF*BS;O;CLE;Steven Kwan;Bryan Shaw;3%;93%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 5, Guardians 2.
+Top of the 8th, White Sox Batting, Ahead 5-2, Guardians' Eli Morgan facing 6-7-8 
+t8;5-2;0;---;5,(3-1) BBFBB;;CHW;Yasmani Grandal;Eli Morgan;1%;94%;Walk
+t8;5-2;0;1--;3,(0-2) C*S.S;O;CHW;Oscar Colás;Eli Morgan;-1%;93%;Strikeout Swinging
+;;;;;;;;;Michael Kelly replaces Eli Morgan pitching
+t8;5-2;1;1--;6,(2-2) .CFF*BBX;;CHW;Elvis Andrus;Michael Kelly;2%;96%;Double to LF (Line Drive to Deep LF-CF); Grandal to 3B
+t8;5-2;1;-23;5,(1-2) CBCFX;RR;CHW;Zach Remillard;Michael Kelly;3%;98%;Single to LF (Line Drive to Short LF); Grandal Scores; Andrus Scores
+t8;7-2;1;1--;3,(1-1) B1S>B;O;CHW;Yoán Moncada;Michael Kelly;0%;98%;Remillard Caught Stealing 2B (C-SS)
+t8;7-2;2;---;5,(2-2) B1S>B.S.S;O;CHW;Yoán Moncada;Michael Kelly;0%;98%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. White Sox 7, Guardians 2.
+Bottom of the 8th, Guardians Batting, Behind 2-7, White Sox' Aaron Bummer facing 2-3-4 
+;;;;;;;;;Aaron Bummer replaces Bryan Shaw pitching
+b8;2-7;0;---;3,(0-2) .CFS;O;CLE;Andrés Giménez;Aaron Bummer;1%;99%;Strikeout Swinging
+b8;2-7;1;---;9,(3-2) CSBBFB.FFX;O;CLE;José Tena;Aaron Bummer;0%;99%;Flyball: LF (Short LF)
+b8;2-7;2;---;4,(3-0) BBBB;;CLE;Oscar Gonzalez;Aaron Bummer;0%;99%;Walk
+b8;2-7;2;1--;4,(2-1) BCBH;;CLE;Kole Calhoun;Aaron Bummer;-1%;98%;Hit By Pitch; Gonzalez to 2B
+b8;2-7;2;12-;4,(1-2) *BCSS;;CLE;Brayan Rocchio;Aaron Bummer;-2%;97%;Strikeout Swinging, Wild Pitch; Gonzalez to 3B; Calhoun to 2B; Rocchio to 1B
+b8;2-7;2;123;1,(0-0) X;RR;CLE;Will Brennan;Aaron Bummer;-5%;92%;Single to CF (Line Drive to Short LF-CF); Gonzalez Scores; Calhoun Scores; Rocchio to 3B/Adv on E8
+b8;4-7;2;1-3;5,(2-2) CBCBX;O;CLE;Bo Naylor;Aaron Bummer;5%;97%;Flyball: CF (LF-CF)
+;;;;;;;;;2 runs, 1 hit, 1 error, 2 LOB. White Sox 7, Guardians 4.
+Top of the 9th, White Sox Batting, Ahead 7-4, Guardians' Michael Kelly facing 2-3-4 
+t9;7-4;0;---;2,(1-0) BX;O;CHW;Andrew Benintendi;Michael Kelly;0%;96%;Flyball: RF (CF-RF)
+t9;7-4;1;---;1,(0-0) X;O;CHW;Luis Robert Jr.;Michael Kelly;0%;96%;Lineout: LF (LF-CF)
+t9;7-4;2;---;1,(0-0) X;O;CHW;Eloy Jiménez;Michael Kelly;0%;96%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 7, Guardians 4.
+Bottom of the 9th, Guardians Batting, Behind 4-7, White Sox' Aaron Bummer facing 9-1-2 
+b9;4-7;0;---;5,(1-2) CSBFX;O;CLE;Gabriel Arias;Aaron Bummer;2%;98%;Groundout: SS-1B
+b9;4-7;1;---;2,(0-1) CX;;CLE;Steven Kwan;Aaron Bummer;-3%;96%;Single to LF (Ground Ball)
+b9;4-7;1;1--;3,(0-2) SS.X;O;CLE;Andrés Giménez;Aaron Bummer;3%;99%;Groundout: SS-2B/Forceout at 2B; Giménez to 1B
+;;;;;;;;;Force Play Challenged by CLE manager (Terry Francona): Original call upheld upon review.
+b9;4-7;2;1--;3,(1-1) CBX;O;CLE;José Tena;Aaron Bummer;1%;100%;Flyball: LF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 7, Guardians 4.

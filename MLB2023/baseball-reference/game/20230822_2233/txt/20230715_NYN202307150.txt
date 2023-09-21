@@ -1,0 +1,277 @@
+
+Scorebox Meta
+20230715
+7:15 p.m. Local
+38225
+Citi Field
+171
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;0;1;0;0;0;0;1;3;5;11;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;1;0;0;0;0;0;1;3;2
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;4;1;1;1;0;0;4;.266;.363;.449;.811;23;14;0.084; 0.80;0.135;-0.050; 0.01%; 0.23; 0.4;3;1;HR
+Francisco Lindor;/players/l/lindofr01.shtml;SS;2;0;0;0;2;1;4;.235;.319;.470;.789;17;7;0.078; 0.85;0.099;-0.021; 0.01%; 0.24; 0.4;2;2;
+Jeff McNeil;/players/m/mcneije01.shtml;LF-RF;4;0;0;0;0;0;4;.248;.324;.321;.645;14;8;-0.156; 1.13;0.000;-0.156;-0.03%; 0.32; -1.4;1;0;GDP
+Pete Alonso;/players/a/alonspe01.shtml;1B;3;0;1;0;0;1;3;.210;.310;.490;.800;10;5;-0.066; 1.15;0.037;-0.103;-0.01%; 0.33; -0.2;4;3;GDP
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;2;0;0;0;0;0;2;.222;.332;.351;.683;5;4;-0.107; 1.34;0.000;-0.107;-0.02%; 0.38; -1.0;;;GDP
+Tommy Pham;/players/p/phamth01.shtml;PH-DH-DH;0;0;0;0;1;0;1;.271;.347;.476;.823;10;6;0.098; 2.48;0.098;0.000; 0.02%; 0.70; 0.4;;;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;3;0;1;0;0;0;3;.236;.292;.505;.796;8;5;0.206; 1.75;0.238;-0.033; 0.03%; 0.49; 0.7;12;0;
+DJ Stewart;/players/s/stewadj01.shtml;RF;2;0;0;0;0;1;2;.200;.375;.200;.575;8;5;-0.042; 0.83;0.000;-0.042;-0.01%; 0.23; -0.3;0;0;
+Mark Canha;/players/c/canhama01.shtml;PH-LF;1;0;0;0;0;0;1;.241;.340;.395;.735;1;1;-0.151; 3.57;0.000;-0.151;-0.03%; 1.01; -0.7;0;0;
+Brett Baty;/players/b/batybr01.shtml;3B;3;0;0;0;0;3;3;.238;.308;.346;.654;10;9;-0.238; 2.42;0.000;-0.238;-0.04%; 0.68; -1.1;1;0;
+Luis Guillorme;/players/g/guilllu01.shtml;2B;3;0;0;0;0;2;3;.242;.314;.347;.662;16;12;-0.180; 2.20;0.000;-0.180;-0.03%; 0.62; -0.8;2;4;
+Kodai Senga;/players/s/sengako01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Brooks Raley;/players/r/raleybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Ottavino;/players/o/ottavad01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Grant Hartwig;/players/h/hartwgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dominic Leone;/players/l/leonedo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Brandon Nimmo (14, off Tony Gonsolin, 4th inn, 0 on, 0 outs to Deep CF).
+
+
+TB: Brandon Nimmo 4; Francisco Alvarez; Pete Alonso.
+
+
+GIDP: Daniel Vogelbach (4); Pete Alonso (11); Jeff McNeil (5).
+
+
+RBI: Brandon Nimmo (42).
+
+
+Team LOB: 2.
+With RISP: 0 for 3.
+
+Batting away
+Mookie Betts;/players/b/bettsmo01.shtml;2B;4;2;4;1;1;0;5;.287;.387;.596;.983;22;13;0.244; 1.10;0.244;0.000; 0.21%; 1.56; 2.3;1;1;HR,IW
+Freddie Freeman;/players/f/freemfr01.shtml;1B;4;0;0;0;1;2;5;.317;.396;.551;.947;18;12;-0.143; 1.58;0.012;-0.155;-0.12%; 2.23; -1.2;7;2;
+Will Smith;/players/s/smithwi05.shtml;C;4;1;1;0;0;1;5;.273;.389;.483;.873;19;11;-0.033; 1.31;0.087;-0.120;-0.03%; 1.84; 0.1;8;0;2B,HBP,GDP
+Max Muncy;/players/m/muncyma01.shtml;3B;4;2;1;0;1;1;5;.196;.333;.467;.800;19;14;0.125; 1.44;0.172;-0.047; 0.11%; 2.03; 1.0;1;0;
+J.D. Martinez;/players/m/martijd02.shtml;DH;5;0;3;1;0;2;5;.261;.309;.576;.885;20;14;0.071; 1.60;0.196;-0.125; 0.06%; 2.26; 0.4;;;
+David Peralta;/players/p/peralda01.shtml;LF-RF;5;0;1;2;0;1;5;.276;.315;.421;.736;22;14;-0.052; 2.03;0.095;-0.147;-0.04%; 2.86; -0.3;4;0;
+Jason Heyward;/players/h/heywaja01.shtml;RF;2;0;0;0;0;2;2;.247;.343;.451;.793;11;8;-0.054; 1.01;0.000;-0.054;-0.05%; 1.44; -0.5;0;0;
+Chris Taylor;/players/t/tayloch03.shtml;PH-LF;3;0;1;0;0;1;3;.208;.276;.452;.728;10;8;-0.013; 0.83;0.028;-0.041;-0.01%; 1.17; -0.2;0;0;
+James Outman;/players/o/outmaja01.shtml;CF;2;0;0;0;0;1;2;.240;.325;.424;.749;10;6;-0.047; 0.93;0.000;-0.047;-0.04%; 1.31; -0.4;3;0;
+Jake Marisnick;/players/m/marisja01.shtml;PH-CF;1;0;0;0;0;0;2;.222;.269;.403;.672;9;6;-0.011; 1.52;0.018;-0.029;-0.01%; 2.13; 0.1;0;0;HBP
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;4;0;0;0;0;0;4;.230;.276;.284;.560;9;5;-0.060; 1.22;0.042;-0.102;-0.05%; 1.71; -0.8;2;4;
+Tony Gonsolin;/players/g/gonsoto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Alex Vesia;/players/v/vesiaal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brusdar Graterol;/players/g/gratebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Caleb Ferguson;/players/f/ferguca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Evan Phillips;/players/p/phillev01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Will Smith (10, off Grant Hartwig).
+
+
+HR: Mookie Betts (27, off Kodai Senga, 3rd inn, 0 on, 2 outs to Deep RF Line).
+
+
+IBB: Mookie Betts (3, by Brooks Raley).
+
+
+HBP: Will Smith (6, by Kodai Senga); Jake Marisnick (2, by Adam Ottavino).
+
+
+TB: Mookie Betts 7; J.D. Martinez 3; Will Smith 2; Max Muncy; Chris Taylor; David Peralta.
+
+
+GIDP: Will Smith (4).
+
+
+RBI: David Peralta 2 (34); J.D. Martinez (64); Mookie Betts (64).
+
+
+2-out RBI: David Peralta; Mookie Betts.
+
+
+Team LOB: 11.
+With RISP: 2 for 8.
+
+Pitching home
+Kodai Senga;/players/s/sengako01.shtml;Kodai Senga; 6 ;4;1;1;2;9;1;3.20;24;103;64;32;12;20;6;6;5;0;67;;;0.226; 1.30; 0.04%; 0.37; 2.0
+Brooks Raley;/players/r/raleybr01.shtml;Brooks Raley; 1 ;0;0;0;1;1;0;2.23;5;16;11;7;2;2;0;3;0;0;;0;0;0.088; 1.72; 0.01%; 0.48; 0.5
+Adam Ottavino;/players/o/ottavad01.shtml; L (0-4); 1 ;3;1;1;0;0;0;3.86;7;18;15;8;1;6;5;1;1;0;;0;0;-0.196; 2.18;-0.03%; 0.61; -0.5
+Grant Hartwig;/players/h/hartwgr01.shtml;Grant Hartwig; 0.2;4;3;2;0;1;0;2.25;6;28;18;9;5;4;0;5;4;0;;0;0;-0.146; 0.75;-0.03%; 0.21; -2.7
+Dominic Leone;/players/l/leonedo01.shtml;Dominic Leone; 0.1;0;0;0;0;0;0;4.85;1;4;3;2;1;0;0;1;0;0;;1;0;0.002; 0.07; 0.00%; 0.02; 0.2
+
+Pitching away
+Tony Gonsolin;/players/g/gonsoto01.shtml;Tony Gonsolin; 5 ;2;1;1;1;3;1;3.72;16;54;33;19;5;9;4;8;4;0;61;;;0.150; 0.89; 0.13%; 1.25; 1.5
+Alex Vesia;/players/v/vesiaal01.shtml;Alex Vesia; 1 ;0;0;0;0;2;0;6.45;3;17;12;8;1;3;0;1;0;0;;0;0;0.075; 0.99; 0.06%; 1.40; 0.5
+Brusdar Graterol;/players/g/gratebr01.shtml; W (3-2); 1 ;0;0;0;1;0;0;1.80;3;11;4;3;0;1;1;1;0;0;;0;0;0.088; 1.95; 0.07%; 2.75; 0.5
+Caleb Ferguson;/players/f/ferguca01.shtml; H (12); 1 ;1;0;0;1;2;0;2.62;5;21;15;8;4;3;0;2;1;0;;0;0;0.142; 4.06; 0.12%; 5.73; 0.5
+Evan Phillips;/players/p/phillev01.shtml;Evan Phillips; 1 ;0;0;0;0;1;0;2.48;3;19;12;9;0;3;2;0;0;0;;0;0;0.018; 0.24; 0.01%; 0.33; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Adam Ottavino (6; Jake Marisnick); Kodai Senga (3; Will Smith).
+IBB: Brooks Raley (1; Mookie Betts).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Adam Ottavino (6; Jake Marisnick); Kodai Senga (3; Will Smith).
+IBB: Brooks Raley (1; Mookie Betts).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Alex Tosi, 1B - Brian Knight, 2B - Todd Tichenor, 3B - Tony Randazzo, LF - (none), RF - (none).
+Time of Game: 2:51.
+Attendance: 38,225.
+Field Condition: Unknown.
+Start Time Weather: 79° F, Wind 3mph out to Leftfield, Overcast, Drizzle.
+
+div_lineups
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;2B
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;C
+4;Max Muncy;/players/m/muncyma01.shtml;3B
+5;J.D. Martinez;/players/m/martijd02.shtml;DH
+6;David Peralta;/players/p/peralda01.shtml;LF
+7;Jason Heyward;/players/h/heywaja01.shtml;RF
+8;James Outman;/players/o/outmaja01.shtml;CF
+9;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+; Tony Gonsolin;/players/g/gonsoto01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Jeff McNeil;/players/m/mcneije01.shtml;LF
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+6;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+7;DJ Stewart;/players/s/stewadj01.shtml;RF
+8;Brett Baty;/players/b/batybr01.shtml;3B
+9;Luis Guillorme;/players/g/guilllu01.shtml;2B
+; Kodai Senga;/players/s/sengako01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b8;1-2;0;1--;3,(2-0) BBX;;NYM;Francisco Alvarez;Caleb Ferguson;-24%;36%;Single to LF (Line Drive to Deep LF-CF); Pham to 3B
+b8;1-2;1;1-3;3,(0-2) SSS;O;NYM;Brett Baty;Caleb Ferguson;19%;70%;Strikeout Swinging
+b8;1-2;0;1-3;1,(0-0) .X;O;NYM;Mark Canha;Caleb Ferguson;15%;51%;Foul Popfly: 1B
+b8;1-2;2;1-3;4,(0-2) CTFS;O;NYM;Luis Guillorme;Caleb Ferguson;14%;84%;Strikeout Swinging
+t8;1-1;1;1--;1,(0-0) >X;;LAD;J.D. Martinez;Adam Ottavino;14%;64%;Single to RF (Ground Ball thru 2B-1B); Muncy to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Dodgers Batting, Tied 0-0, Mets' Kodai Senga facing 1-2-3 
+t1;0-0;0;---;4,(1-2) CFBX;;LAD;Mookie Betts;Kodai Senga;4%;54%;Single to CF (Line Drive to LF-CF)
+t1;0-0;0;1--;3,(0-2) CTS;O;LAD;Freddie Freeman;Kodai Senga;-3%;50%;Strikeout Swinging
+t1;0-0;1;1--;4,(2-1) 1BFBX;OO;LAD;Will Smith;Kodai Senga;-5%;45%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Dodgers 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Dodgers' Tony Gonsolin facing 1-2-3 
+b1;0-0;0;---;5,(2-2) BBFCX;O;NYM;Brandon Nimmo;Tony Gonsolin;2%;47%;Groundout: SS-1B (SS-2B)
+b1;0-0;1;---;1,(0-0) X;O;NYM;Francisco Lindor;Tony Gonsolin;2%;49%;Lineout: CF (Deep CF)
+b1;0-0;2;---;2,(1-0) BX;O;NYM;Jeff McNeil;Tony Gonsolin;1%;50%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Mets 0.
+Top of the 2nd, Dodgers Batting, Tied 0-0, Mets' Kodai Senga facing 4-5-6 
+t2;0-0;0;---;4,(1-2) BCCX;O;LAD;Max Muncy;Kodai Senga;-2%;48%;Groundout: 1B-P
+t2;0-0;1;---;5,(2-2) SSBBX;;LAD;J.D. Martinez;Kodai Senga;3%;50%;Single to 1B (Line Drive to Deep 2B-1B)
+t2;0-0;1;1--;7,(3-2) BBFBCFC;O;LAD;David Peralta;Kodai Senga;-3%;47%;Strikeout Looking
+t2;0-0;2;1--;8,(3-2) BFCB*B>F>F>S;O;LAD;Jason Heyward;Kodai Senga;-2%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Dodgers' Tony Gonsolin facing 4-5-6 
+b2;0-0;0;---;3,(2-0) BBX;;NYM;Pete Alonso;Tony Gonsolin;-4%;41%;Single to CF (Line Drive)
+b2;0-0;0;1--;4,(1-2) CBFX;OO;NYM;Daniel Vogelbach;Tony Gonsolin;8%;49%;Ground Ball Double Play: 1B-SS-1B
+b2;0-0;2;---;3,(1-1) BCX;O;NYM;Francisco Alvarez;Tony Gonsolin;1%;50%;Lineout: 3B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Dodgers 0, Mets 0.
+Top of the 3rd, Dodgers Batting, Tied 0-0, Mets' Kodai Senga facing 8-9-1 
+t3;0-0;0;---;6,(3-2) CBCBBX;O;LAD;James Outman;Kodai Senga;-3%;47%;Groundout: 2B-1B (2B-1B)
+t3;0-0;1;---;2,(1-0) BX;O;LAD;Miguel Rojas;Kodai Senga;-2%;46%;Lineout: CF (Deep CF)
+t3;0-0;2;---;5,(2-2) BSBCX;R;LAD;Mookie Betts;Kodai Senga;12%;58%;Home Run (Fly Ball to Deep RF Line)
+t3;1-0;2;---;6,(3-2) BFCBBB;;LAD;Freddie Freeman;Kodai Senga;1%;59%;Walk
+t3;1-0;2;1--;4,(1-2) BFSC;O;LAD;Will Smith;Kodai Senga;-2%;57%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Dodgers 1, Mets 0.
+Bottom of the 3rd, Mets Batting, Behind 0-1, Dodgers' Tony Gonsolin facing 7-8-9 
+b3;0-1;0;---;5,(2-2) BFBSC;O;NYM;DJ Stewart;Tony Gonsolin;3%;59%;Strikeout Looking
+b3;0-1;1;---;4,(1-2) BCSS;O;NYM;Brett Baty;Tony Gonsolin;2%;61%;Strikeout Swinging
+b3;0-1;2;---;3,(1-1) BCX;O;NYM;Luis Guillorme;Tony Gonsolin;1%;63%;Groundout: P-1B (Short 3B Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 1, Mets 0.
+Top of the 4th, Dodgers Batting, Ahead 1-0, Mets' Kodai Senga facing 4-5-6 
+t4;1-0;0;---;4,(0-2) CSF.S;O;LAD;Max Muncy;Kodai Senga;-2%;60%;Strikeout Swinging
+t4;1-0;1;---;7,(2-2) CFFBBFC;O;LAD;J.D. Martinez;Kodai Senga;-2%;59%;Strikeout Looking
+t4;1-0;2;---;3,(2-0) BBX;O;LAD;David Peralta;Kodai Senga;-1%;57%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 1, Mets 0.
+Bottom of the 4th, Mets Batting, Behind 0-1, Dodgers' Tony Gonsolin facing 1-2-3 
+b4;0-1;0;---;6,(2-2) SBBCFX;R;NYM;Brandon Nimmo;Tony Gonsolin;-13%;44%;Home Run (Fly Ball to Deep CF)
+b4;1-1;0;---;5,(3-1) BBCBB;;NYM;Francisco Lindor;Tony Gonsolin;-4%;40%;Walk
+b4;1-1;0;1--;2,(1-0) BX;OO;NYM;Jeff McNeil;Tony Gonsolin;9%;49%;Ground Ball Double Play: SS-1B (SS-2B)
+b4;1-1;2;---;5,(2-2) FT.BBS;O;NYM;Pete Alonso;Tony Gonsolin;1%;50%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Dodgers 1, Mets 1.
+Top of the 5th, Dodgers Batting, Tied 1-1, Mets' Kodai Senga facing 7-8-9 
+t5;1-1;0;---;3,(0-2) CS*S;O;LAD;Jason Heyward;Kodai Senga;-3%;47%;Strikeout Swinging
+t5;1-1;1;---;4,(1-2) FBFC;O;LAD;James Outman;Kodai Senga;-2%;45%;Strikeout Looking
+t5;1-1;2;---;2,(1-0) BX;O;LAD;Miguel Rojas;Kodai Senga;-1%;43%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 1, Mets 1.
+Bottom of the 5th, Mets Batting, Tied 1-1, Dodgers' Tony Gonsolin facing 5-6-7 
+b5;1-1;0;---;1,(0-0) X;O;NYM;Daniel Vogelbach;Tony Gonsolin;3%;46%;Flyball: LF (Deep LF)
+b5;1-1;1;---;2,(0-1) CX;O;NYM;Francisco Alvarez;Tony Gonsolin;2%;49%;Flyball: CF (Deep CF-RF)
+b5;1-1;2;---;3,(1-1) FBX;O;NYM;DJ Stewart;Tony Gonsolin;1%;50%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 1, Mets 1.
+Top of the 6th, Dodgers Batting, Tied 1-1, Mets' Kodai Senga facing 1-2-3 
+t6;1-1;0;---;7,(3-2) CFFBB.BX;;LAD;Mookie Betts;Kodai Senga;5%;55%;Single to RF (Line Drive to Short RF)
+t6;1-1;0;1--;2,(1-0) *BX;O;LAD;Freddie Freeman;Kodai Senga;-2%;53%;Groundout: 1B unassisted (Weak 1B); Betts to 2B
+t6;1-1;1;-2-;1,(0-0) H;;LAD;Will Smith;Kodai Senga;3%;55%;Hit By Pitch
+t6;1-1;1;12-;7,(3-2) CBBBCF*B;;LAD;Max Muncy;Kodai Senga;9%;64%;Walk; Betts to 3B; Smith to 2B
+t6;1-1;1;123;4,(1-2) FSB*S;O;LAD;J.D. Martinez;Kodai Senga;-11%;53%;Strikeout Swinging
+t6;1-1;2;123;1,(0-0) X;O;LAD;David Peralta;Kodai Senga;-11%;42%;Groundout: P-C/Forceout at Hm (Front of Home); Peralta to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Dodgers 1, Mets 1.
+Bottom of the 6th, Mets Batting, Tied 1-1, Dodgers' Alex Vesia facing 8-9-1 
+;;;;;;;;;Alex Vesia replaces Tony Gonsolin pitching
+b6;1-1;0;---;3,(0-2) .CSC;O;NYM;Brett Baty;Alex Vesia;3%;46%;Strikeout Looking
+b6;1-1;1;---;9,(3-2) FBBTFFFBC;O;NYM;Luis Guillorme;Alex Vesia;2%;48%;Strikeout Looking
+b6;1-1;2;---;5,(2-2) BFBF.X;O;NYM;Brandon Nimmo;Alex Vesia;2%;50%;Flyball: LF (Short LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 1, Mets 1.
+Top of the 7th, Dodgers Batting, Tied 1-1, Mets' Brooks Raley facing 7-8-9 
+;;;;;;;;;Brooks Raley replaces Kodai Senga pitchingChris Taylor pinch hits for Jason Heyward (RF) batting 7th
+t7;1-1;0;---;5,(1-2) ..FBS.FS;O;LAD;Chris Taylor;Brooks Raley;-4%;46%;Strikeout Swinging
+;;;;;;;;;Jake Marisnick pinch hits for James Outman (CF) batting 8th
+t7;1-1;1;---;5,(2-2) .CFB.BX;O;LAD;Jake Marisnick;Brooks Raley;-3%;43%;Flyball: CF
+t7;1-1;2;---;3,(2-0) BBX;;LAD;Miguel Rojas;Brooks Raley;4%;47%;Reached on E9 (Fly Ball to Short RF Line); Rojas to 2B
+t7;1-1;2;-2-;,(3-0) VVVV;;LAD;Mookie Betts;Brooks Raley;1%;49%;Intentional Walk
+t7;1-1;2;12-;3,(0-2) CFX;O;LAD;Freddie Freeman;Brooks Raley;-8%;41%;Foul Popfly: 3B (3B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 1 error, 2 LOB. Dodgers 1, Mets 1.
+Bottom of the 7th, Mets Batting, Tied 1-1, Dodgers' Brusdar Graterol facing 2-3-4 
+;;;;;;;;;Brusdar Graterol replaces Alex Vesia pitchingChris Taylor moves from PH to LF Jake Marisnick moves from PH to CF David Peralta moves from LF to RF 
+b7;1-1;0;---;5,(3-1) ....BBB.FB;;NYM;Francisco Lindor;Brusdar Graterol;-6%;36%;Walk
+b7;1-1;0;1--;4,(2-1) BBCX;O;NYM;Jeff McNeil;Brusdar Graterol;5%;41%;Flyball: RF
+b7;1-1;1;1--;2,(1-0) BX;OO;NYM;Pete Alonso;Brusdar Graterol;9%;50%;Ground Ball Double Play: P-2B-1B (Weak SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 1, Mets 1.
+Top of the 8th, Dodgers Batting, Tied 1-1, Mets' Adam Ottavino facing 3-4-5 
+;;;;;;;;;Adam Ottavino replaces Brooks Raley pitching
+t8;1-1;0;---;6,(2-2) .BCBCFX;O;LAD;Will Smith;Adam Ottavino;-5%;45%;Groundout: 1B-P
+t8;1-1;1;---;2,(0-1) CX;;LAD;Max Muncy;Adam Ottavino;5%;50%;Single to RF (Ground Ball thru 2B-1B)
+t8;1-1;1;1--;1,(0-0) >X;;LAD;J.D. Martinez;Adam Ottavino;14%;64%;Single to RF (Ground Ball thru 2B-1B); Muncy to 3B
+t8;1-1;1;1-3;2,(0-1) SX;RO;LAD;David Peralta;Adam Ottavino;8%;72%;Groundout: 1B-SS/Forceout at 2B (Weak 1B); Muncy Scores; Peralta to 1B
+;;;;;;;;;Force Play Challenged by NYM manager (Buck Showalter): Original call upheld upon review.
+t8;2-1;2;1--;1,(0-0) 1X;;LAD;Chris Taylor;Adam Ottavino;3%;75%;Single to RF (Line Drive to Short RF); Peralta to 3B
+t8;2-1;2;1-3;4,(0-2) 11CC>FH;;LAD;Jake Marisnick;Adam Ottavino;2%;77%;Hit By Pitch; Taylor to 2B
+t8;2-1;2;123;2,(0-1) CX;O;LAD;Miguel Rojas;Adam Ottavino;-7%;70%;Groundout: 2B-SS/Forceout at 2B; Rojas to 1B
+;;;;;;;;;1 run, 3 hits, 0 errors, 3 LOB. Dodgers 2, Mets 1.
+Bottom of the 8th, Mets Batting, Behind 1-2, Dodgers' Caleb Ferguson facing 5-6-7 
+;;;;;;;;;Caleb Ferguson replaces Brusdar Graterol pitchingTommy Pham pinch hits for Daniel Vogelbach (DH) batting 5th
+b8;1-2;0;---;10,(3-2) ..CCFBBFBFFB;;NYM;Tommy Pham;Caleb Ferguson;-10%;60%;Walk
+b8;1-2;0;1--;3,(2-0) BBX;;NYM;Francisco Alvarez;Caleb Ferguson;-24%;36%;Single to LF (Line Drive to Deep LF-CF); Pham to 3B
+;;;;;;;;;Mark Canha pinch hits for DJ Stewart (RF) batting 7th
+b8;1-2;0;1-3;1,(0-0) .X;O;NYM;Mark Canha;Caleb Ferguson;15%;51%;Foul Popfly: 1B
+b8;1-2;1;1-3;3,(0-2) SSS;O;NYM;Brett Baty;Caleb Ferguson;19%;70%;Strikeout Swinging
+b8;1-2;2;1-3;4,(0-2) CTFS;O;NYM;Luis Guillorme;Caleb Ferguson;14%;84%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Dodgers 2, Mets 1.
+Top of the 9th, Dodgers Batting, Ahead 2-1, Mets' Grant Hartwig facing 1-2-3 
+;;;;;;;;;Grant Hartwig replaces Adam Ottavino pitchingMark Canha moves from PH to LF Jeff McNeil moves from LF to RF 
+t9;2-1;0;---;6,(3-2) ....BCBBSX;;LAD;Mookie Betts;Grant Hartwig;2%;86%;Single to LF (Line Drive to LF Line)
+t9;2-1;0;1--;4,(1-2) FB1SC+1;O;LAD;Freddie Freeman;Grant Hartwig;-2%;84%;Strikeout
+t9;2-1;1;1--;4,(2-1) S1BBX;;LAD;Will Smith;Grant Hartwig;6%;90%;Double to CF (Line Drive to Deep CF-RF); Betts to 3B
+t9;2-1;1;-23;2,(0-1) CX;R;LAD;Max Muncy;Grant Hartwig;4%;94%;Reached on E5 (Pop Fly to SS-3B Hole); Betts Scores/No RBI; Muncy to 1B
+t9;3-1;1;12-;3,(1-1) BSX;RO;LAD;J.D. Martinez;Grant Hartwig;3%;97%;Single to CF (Line Drive to Deep LF-CF); Smith Scores; Muncy to 3B; Martinez out at 2B/CF-SS-2B
+t9;4-1;2;--3;9,(3-2) CSBBFBFFX;R;LAD;David Peralta;Grant Hartwig;2%;98%;Single to LF (Line Drive to LF-CF); Muncy Scores/unER
+;;;;;;;;;Dominic Leone replaces Grant Hartwig pitching
+t9;5-1;2;1--;4,(1-2) .FSBX;O;LAD;Chris Taylor;Dominic Leone;0%;98%;Flyball: RF (Short RF)
+;;;;;;;;;3 runs, 4 hits, 1 error, 1 LOB. Dodgers 5, Mets 1.
+Bottom of the 9th, Mets Batting, Behind 1-5, Dodgers' Evan Phillips facing 1-2-3 
+;;;;;;;;;Evan Phillips replaces Caleb Ferguson pitching
+b9;1-5;0;---;7,(3-2) .BCCBBFX;O;NYM;Brandon Nimmo;Evan Phillips;1%;99%;Groundout: 1B-P
+b9;1-5;1;---;6,(2-2) BBFT.FT;O;NYM;Francisco Lindor;Evan Phillips;1%;100%;Strikeout Swinging
+b9;1-5;2;---;6,(2-2) FBCB.FX;O;NYM;Jeff McNeil;Evan Phillips;0%;100%;Groundout: SS-1B (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 5, Mets 1.

@@ -1,0 +1,280 @@
+
+Scorebox Meta
+20230809
+7:10 p.m. Local
+37527
+Citi Field
+186
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/CHC-2023.png;/teams/CHC/2023.shtml;1;1;0;0;0;0;0;0;1;3;7;0
+https://cdn.ssref.net/req/202308251/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;2;0;2;0;0;X;4;8;0
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;5;0;1;0;0;2;5;.253;.349;.422;.772;24;14;-0.075; 0.83;0.017;-0.092;-0.01%; 0.12; -1.1;4;0;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;4;0;1;0;0;0;4;.231;.295;.487;.782;20;12;-0.042; 1.00;0.036;-0.078;-0.00%; 0.14; -0.7;12;0;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;3;1;1;0;1;1;4;.246;.333;.469;.803;19;12;0.053; 1.09;0.075;-0.021; 0.01%; 0.16; 0.3;0;3;
+Pete Alonso;/players/a/alonspe01.shtml;1B;2;1;1;2;2;0;4;.227;.321;.533;.854;19;8;0.178; 1.64;0.272;-0.094; 0.01%; 0.24; 1.6;5;1;HR,SB
+Jeff McNeil;/players/m/mcneije01.shtml;RF;4;1;1;1;0;0;4;.253;.330;.338;.668;13;9;0.088; 1.14;0.166;-0.078; 0.01%; 0.17; 0.1;1;0;HR
+Abraham Almonte;/players/a/almonab01.shtml;DH;3;1;1;0;1;2;4;.167;.286;.333;.619;14;9;0.010; 0.84;0.067;-0.057; 0.00%; 0.12; 0.3;;;2B
+Mark Vientos;/players/v/vientma01.shtml;3B;4;0;0;0;0;1;4;.198;.233;.302;.535;13;9;-0.013; 0.89;0.055;-0.067;-0.00%; 0.13; -0.1;0;1;
+Danny Mendick;/players/m/mendida01.shtml;3B;0;0;0;0;0;0;0;.212;.235;.364;.599;;;;;;;;;;0;1;
+Jonathan Araúz;/players/a/arauzjo01.shtml;2B;4;0;1;1;0;3;4;.154;.214;.154;.368;18;13;-0.023; 0.90;0.040;-0.063;-0.00%; 0.13; -0.1;2;2;
+Rafael Ortega;/players/o/ortegra01.shtml;LF;4;0;1;0;0;1;4;.200;.259;.240;.499;17;12;-0.007; 0.82;0.047;-0.054;0%; 0.12; -0.5;2;0;SB
+David Peterson;/players/p/peterda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Grant Hartwig;/players/h/hartwgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Gott;/players/g/gotttr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Josh Walker;/players/w/walkejo03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Ottavino;/players/o/ottavad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Phil Bickford;/players/b/bickfph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Abraham Almonte (1, off Hayden Wesneski).
+
+
+HR: Pete Alonso (35, off Kyle Hendricks, 4th inn, 1 on, 0 outs to Deep LF-CF); Jeff McNeil (5, off Hayden Wesneski, 6th inn, 0 on, 0 outs to Deep CF-RF).
+
+
+TB: Jeff McNeil 4; Pete Alonso 4; Abraham Almonte 2; Brandon Nimmo; Francisco Alvarez; Francisco Lindor; Jonathan Araúz; Rafael Ortega.
+
+
+RBI: Pete Alonso 2 (87); Jonathan Araúz (2); Jeff McNeil (38).
+
+
+Team LOB: 9.
+With RISP: 1 for 11.
+
+Batting away
+Christopher Morel;/players/m/morelch01.shtml;DH;4;1;1;1;1;2;5;.268;.339;.529;.868;23;13;-0.223; 2.05;0.117;-0.340;-0.16%; 2.50; -0.2;;;HR
+Nico Hoerner;/players/h/hoernni01.shtml;2B;3;0;1;0;2;1;5;.275;.333;.393;.726;19;9;-0.011; 2.33;0.074;-0.085;-0.01%; 2.84; 0.0;2;3;
+Ian Happ;/players/h/happia01.shtml;LF;5;0;0;0;0;2;5;.241;.367;.405;.772;23;15;-0.382; 2.76;0.000;-0.382;-0.28%; 3.37; -2.3;1;0;GDP
+Cody Bellinger;/players/b/bellico01.shtml;CF-1B;4;0;0;0;0;2;4;.327;.377;.550;.928;19;13;-0.086; 0.84;0.000;-0.086;-0.06%; 1.03; -0.7;4;0;
+Dansby Swanson;/players/s/swansda01.shtml;SS;4;0;0;0;0;3;4;.256;.339;.444;.782;20;12;-0.072; 0.71;0.000;-0.072;-0.05%; 0.86; -0.7;2;0;
+Seiya Suzuki;/players/s/suzukse01.shtml;RF;4;2;3;1;0;0;4;.254;.332;.406;.738;9;5;0.181; 0.88;0.198;-0.017; 0.13%; 1.07; 2.0;0;0;HR,3B
+Jeimer Candelario;/players/c/candeje01.shtml;3B;4;0;2;0;0;0;4;.277;.358;.501;.859;14;10;0.166; 1.99;0.213;-0.047; 0.12%; 2.44; 0.4;0;3;
+Patrick Wisdom;/players/w/wisdopa01.shtml;1B;2;0;0;0;0;1;2;.196;.290;.491;.781;8;5;-0.043; 0.82;0.000;-0.043;-0.03%; 1.00; -0.5;4;1;
+Mike Tauchman;/players/t/tauchmi01.shtml;PH-CF;0;0;0;0;2;0;2;.284;.379;.442;.821;11;3;0.121; 2.37;0.121;0.000; 0.09%; 2.88; 0.6;0;0;
+Miguel Amaya;/players/a/amayami01.shtml;C;2;0;0;0;0;1;3;.253;.378;.396;.774;14;9;0.012; 1.23;0.060;-0.048; 0.01%; 1.50; -0.1;10;0;HBP
+Nick Madrigal;/players/m/madrini01.shtml;PH;0;0;0;0;0;0;1;.273;.333;.353;.686;2;1;0.006; 5.43;0.006;0.000; 0.01%; 6.63; -0.1;;;SH
+Kyle Hendricks;/players/h/hendrky01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Hayden Wesneski;/players/w/wesneha01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jose Cuas;/players/c/cuasjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Julian Merryweather;/players/m/merryju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Mark Leiter Jr.;/players/l/leitema02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+3B: Seiya Suzuki (3, off David Peterson).
+
+
+HR: Christopher Morel (18, off David Peterson, 1st inn, 0 on, 0 outs to Deep LF); Seiya Suzuki (10, off Adam Ottavino, 9th inn, 0 on, 0 outs to Deep LF-CF).
+
+
+SH: Nick Madrigal (4, off Phil Bickford).
+
+
+HBP: Miguel Amaya (11, by Trevor Gott).
+
+
+TB: Seiya Suzuki 8; Christopher Morel 4; Jeimer Candelario 2; Nico Hoerner.
+
+
+GIDP: Ian Happ (8).
+
+
+RBI: Christopher Morel (55); Seiya Suzuki (38).
+
+
+Team LOB: 9.
+With RISP: 0 for 6.
+
+Pitching home
+David Peterson;/players/p/peterda01.shtml;David Peterson; 3.2;4;2;2;2;5;1;5.61;16;62;36;14;12;10;4;5;3;0;48;;;-0.066; 0.70;-0.01%; 0.10; -0.4
+Grant Hartwig;/players/h/hartwgr01.shtml; W (4-1); 2.1;1;0;0;0;2;0;3.27;8;38;26;15;2;9;3;3;0;0;;2;0;0.176; 1.00; 0.01%; 0.14; 1.5
+Trevor Gott;/players/g/gotttr01.shtml; H (8); 1 ;0;0;0;1;1;0;4.17;5;19;9;5;1;3;1;1;0;0;;0;0;0.071; 1.94; 0.01%; 0.28; 0.5
+Josh Walker;/players/w/walkejo03.shtml; H (1); 1 ;0;0;0;0;2;0;6.75;3;16;10;4;4;2;0;1;0;0;;0;0;0.075; 0.99; 0.01%; 0.14; 0.5
+Adam Ottavino;/players/o/ottavad01.shtml;Adam Ottavino; 0 ;2;1;1;1;0;1;3.52;3;10;4;3;0;1;0;2;1;0;;0;0;-0.368; 3.20;-0.03%; 0.47; -2.0
+Phil Bickford;/players/b/bickfph01.shtml; S (1); 1 ;0;0;0;1;2;0;5.83;4;17;10;4;4;2;1;0;0;0;;2;0;0.442; 6.57; 0.04%; 0.95; 1.5
+
+Pitching away
+Kyle Hendricks;/players/h/hendrky01.shtml;Kyle Hendricks; 5 ;5;2;2;2;6;1;3.96;22;94;58;29;10;19;7;7;3;0;53;;;0.035; 1.23; 0.03%; 1.50; 0.5
+Hayden Wesneski;/players/w/wesneha01.shtml; L (2-4); 0 ;3;2;2;0;0;1;4.79;4;14;8;6;0;2;1;3;3;0;;0;0;-0.320; 1.08;-0.23%; 1.32; -3.0
+Jose Cuas;/players/c/cuasjo01.shtml;Jose Cuas; 1.2;0;0;0;2;2;0;4.08;7;36;19;12;5;2;0;3;0;0;;2;0;0.081; 0.66; 0.06%; 0.81; 1.6
+Julian Merryweather;/players/m/merryju01.shtml;Julian Merryweather; 0.1;0;0;0;0;1;0;3.51;1;3;3;1;1;1;0;0;0;0;;2;0;0.020; 0.79; 0.01%; 0.97; 0.4
+Mark Leiter Jr.;/players/l/leitema02.shtml;Mark Leiter Jr.; 1 ;0;0;0;0;1;0;2.88;3;10;10;5;0;5;2;0;0;0;;0;0;0.014; 0.18; 0.01%; 0.22; 0.5
+
+indiv_events
+
+Balks: Adam Ottavino (3).
+WP: None.
+HBP: Trevor Gott (3; Miguel Amaya).
+IBB: None.
+Pickoffs: None.
+
+Balks: Adam Ottavino (3).
+WP: None.
+HBP: Trevor Gott (3; Miguel Amaya).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Ryan Wills, 1B - Alfonso Márquez, 2B - Ramon De Jesus, 3B - Lance Barrett, LF - (none), RF - (none).
+Time of Game: 3:06.
+Attendance: 37,527.
+Field Condition: Unknown.
+Start Time Weather: 84° F, Wind 10mph out to Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Cubs
+1;Christopher Morel;/players/m/morelch01.shtml;DH
+2;Nico Hoerner;/players/h/hoernni01.shtml;2B
+3;Ian Happ;/players/h/happia01.shtml;LF
+4;Cody Bellinger;/players/b/bellico01.shtml;CF
+5;Dansby Swanson;/players/s/swansda01.shtml;SS
+6;Seiya Suzuki;/players/s/suzukse01.shtml;RF
+7;Jeimer Candelario;/players/c/candeje01.shtml;3B
+8;Patrick Wisdom;/players/w/wisdopa01.shtml;1B
+9;Miguel Amaya;/players/a/amayami01.shtml;C
+; Kyle Hendricks;/players/h/hendrky01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+3;Francisco Lindor;/players/l/lindofr01.shtml;SS
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Jeff McNeil;/players/m/mcneije01.shtml;RF
+6;Abraham Almonte;/players/a/almonab01.shtml;DH
+7;Mark Vientos;/players/v/vientma01.shtml;3B
+8;Jonathan Araúz;/players/a/arauzjo01.shtml;2B
+9;Rafael Ortega;/players/o/ortegra01.shtml;LF
+; David Peterson;/players/p/peterda01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t9;3-4;1;-23;5,(1-2) SS.BFC;O;CHC;Christopher Morel;Phil Bickford;25%;80%;Strikeout Looking
+t9;3-4;2;123;6,(1-2) CSFFBS;O;CHC;Ian Happ;Phil Bickford;23%;100%;Strikeout Swinging
+b4;0-2;0;1--;3,(1-1) 1CBX;RR;NYM;Pete Alonso;Kyle Hendricks;20%;56%;Home Run (Fly Ball to Deep LF-CF); Lindor Scores
+b6;2-2;0;---;2,(1-0) .BX;R;NYM;Jeff McNeil;Hayden Wesneski;17%;74%;Home Run (Line Drive to Deep CF-RF)
+t9;3-4;0;---;1,(0-0) X;;CHC;Jeimer Candelario;Adam Ottavino;-12%;72%;Single to RF (Line Drive to RF Line)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Cubs Batting, Tied 0-0, Mets' David Peterson facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;R;CHC;Christopher Morel;David Peterson;-10%;40%;Home Run (Fly Ball to Deep LF)
+t1;1-0;0;---;4,(1-2) CBS*S;O;CHC;Nico Hoerner;David Peterson;2%;42%;Strikeout Swinging
+t1;1-0;1;---;5,(2-2) BCFBS;O;CHC;Ian Happ;David Peterson;1%;44%;Strikeout Swinging
+t1;1-0;2;---;4,(1-2) .CBCS;O;CHC;Cody Bellinger;David Peterson;1%;45%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Cubs 1, Mets 0.
+Bottom of the 1st, Mets Batting, Behind 0-1, Cubs' Kyle Hendricks facing 1-2-3 
+b1;0-1;0;---;5,(2-2) BCBFX;O;NYM;Brandon Nimmo;Kyle Hendricks;-2%;42%;Lineout: SS
+b1;0-1;1;---;5,(2-2) CC.BBX;O;NYM;Francisco Alvarez;Kyle Hendricks;-2%;41%;Popfly: 2B (SS-2B)
+b1;0-1;2;---;4,(1-2) CTBS;O;NYM;Francisco Lindor;Kyle Hendricks;-1%;40%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 1, Mets 0.
+Top of the 2nd, Cubs Batting, Ahead 1-0, Mets' David Peterson facing 5-6-7 
+t2;1-0;0;---;6,(3-2) CFBBBC;O;CHC;Dansby Swanson;David Peterson;2%;42%;Strikeout Looking
+t2;1-0;1;---;1,(0-0) X;;CHC;Seiya Suzuki;David Peterson;-7%;35%;Triple to RF (Line Drive to Deep CF-RF)
+t2;1-0;1;--3;3,(1-1) SBS;R;CHC;Jeimer Candelario;David Peterson;-3%;32%;Passed Ball; Suzuki Scores/No RBI
+t2;2-0;1;---;7,(3-2) SBS.FBBX;O;CHC;Jeimer Candelario;David Peterson;1%;33%;Groundout: 3B-1B
+t2;2-0;2;---;4,(2-1) BSBX;O;CHC;Patrick Wisdom;David Peterson;1%;34%;Lineout: CF
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Cubs 2, Mets 0.
+Bottom of the 2nd, Mets Batting, Behind 0-2, Cubs' Kyle Hendricks facing 4-5-6 
+b2;0-2;0;---;5,(3-1) CBBB.B;;NYM;Pete Alonso;Kyle Hendricks;4%;38%;Walk
+b2;0-2;0;1--;1,(0-0) X;O;NYM;Jeff McNeil;Kyle Hendricks;-4%;34%;Flyball: CF (Deep LF-CF)
+b2;0-2;1;1--;2,(1-0) B>C;;NYM;Abraham Almonte;Kyle Hendricks;2%;36%;Alonso Steals 2B
+b2;0-2;1;-2-;4,(1-2) B>C.FS;O;NYM;Abraham Almonte;Kyle Hendricks;-4%;32%;Strikeout Swinging
+b2;0-2;2;-2-;2,(0-1) CX;O;NYM;Mark Vientos;Kyle Hendricks;-3%;29%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Cubs 2, Mets 0.
+Top of the 3rd, Cubs Batting, Ahead 2-0, Mets' David Peterson facing 9-1-2 
+t3;2-0;0;---;4,(1-2) BCS.S;O;CHC;Miguel Amaya;David Peterson;2%;30%;Strikeout Swinging
+t3;2-0;1;---;5,(3-1) BSBBB;;CHC;Christopher Morel;David Peterson;-2%;28%;Walk
+t3;2-0;1;1--;5,(3-1) B11BCBB;;CHC;Nico Hoerner;David Peterson;-3%;26%;Walk; Morel to 2B
+t3;2-0;1;12-;6,(3-2) BSBCBX;OO;CHC;Ian Happ;David Peterson;7%;33%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Cubs 2, Mets 0.
+Bottom of the 3rd, Mets Batting, Behind 0-2, Cubs' Kyle Hendricks facing 8-9-1 
+b3;0-2;0;---;4,(1-2) CBFS;O;NYM;Jonathan Araúz;Kyle Hendricks;-3%;30%;Strikeout Swinging
+b3;0-2;1;---;2,(1-0) BX;;NYM;Rafael Ortega;Kyle Hendricks;3%;33%;Single to LF (Ground Ball)
+b3;0-2;1;1--;2,(0-1) F>B;;NYM;Brandon Nimmo;Kyle Hendricks;2%;35%;Ortega Steals 2B
+b3;0-2;1;-2-;5,(2-2) F>B.BSS;O;NYM;Brandon Nimmo;Kyle Hendricks;-4%;30%;Strikeout Swinging
+b3;0-2;2;-2-;5,(2-2) FFB*BX;O;NYM;Francisco Alvarez;Kyle Hendricks;-4%;27%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cubs 2, Mets 0.
+Top of the 4th, Cubs Batting, Ahead 2-0, Mets' David Peterson facing 4-5-6 
+t4;2-0;0;---;4,(1-2) FBFX;O;CHC;Cody Bellinger;David Peterson;2%;29%;Flyball: LF (Deep LF-CF)
+t4;2-0;1;---;1,(0-0) X;O;CHC;Dansby Swanson;David Peterson;1%;30%;Groundout: SS-1B
+t4;2-0;2;---;1,(0-0) X;;CHC;Seiya Suzuki;David Peterson;-1%;29%;Single to LF (Line Drive)
+t4;2-0;2;1--;4,(1-2) CBSX;;CHC;Jeimer Candelario;David Peterson;-2%;27%;Single to 3B (Ground Ball); Suzuki to 2B
+;;;;;;;;;Grant Hartwig replaces David Peterson pitching
+t4;2-0;2;12-;4,(1-2) .BCFC;O;CHC;Patrick Wisdom;Grant Hartwig;3%;31%;Strikeout Looking
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Cubs 2, Mets 0.
+Bottom of the 4th, Mets Batting, Behind 0-2, Cubs' Kyle Hendricks facing 3-4-5 
+b4;0-2;0;---;4,(1-2) CBCX;;NYM;Francisco Lindor;Kyle Hendricks;5%;36%;Single to CF (Line Drive to Deep CF)
+b4;0-2;0;1--;3,(1-1) 1CBX;RR;NYM;Pete Alonso;Kyle Hendricks;20%;56%;Home Run (Fly Ball to Deep LF-CF); Lindor Scores
+b4;2-2;0;---;3,(0-2) FCX;O;NYM;Jeff McNeil;Kyle Hendricks;-3%;53%;Groundout: 3B-1B (Weak 3B)
+b4;2-2;1;---;3,(0-2) FCS;O;NYM;Abraham Almonte;Kyle Hendricks;-2%;51%;Strikeout Swinging
+b4;2-2;2;---;3,(1-1) CBX;O;NYM;Mark Vientos;Kyle Hendricks;-1%;50%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Cubs 2, Mets 2.
+Top of the 5th, Cubs Batting, Tied 2-2, Mets' Grant Hartwig facing 9-1-2 
+t5;2-2;0;---;5,(1-2) CFFBX;O;CHC;Miguel Amaya;Grant Hartwig;3%;53%;Groundout: SS-1B (Deep SS)
+t5;2-2;1;---;7,(3-2) BCBCBFX;O;CHC;Christopher Morel;Grant Hartwig;2%;55%;Flyball: CF (Deep CF)
+t5;2-2;2;---;4,(0-2) CC.FX;;CHC;Nico Hoerner;Grant Hartwig;-2%;54%;Single to RF (Ground Ball)
+t5;2-2;2;1--;4,(2-1) C1B+1BX;O;CHC;Ian Happ;Grant Hartwig;3%;57%;Flyball: CF (LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cubs 2, Mets 2.
+Bottom of the 5th, Mets Batting, Tied 2-2, Cubs' Kyle Hendricks facing 8-9-1 
+b5;2-2;0;---;5,(2-2) SBCBS;O;NYM;Jonathan Araúz;Kyle Hendricks;-3%;54%;Strikeout Swinging
+b5;2-2;1;---;7,(3-2) CBS.BBFX;O;NYM;Rafael Ortega;Kyle Hendricks;-2%;52%;Flyball: CF (Deep LF-CF)
+b5;2-2;2;---;5,(3-1) CBBBX;;NYM;Brandon Nimmo;Kyle Hendricks;2%;53%;Single to 2B (Ground Ball to 2B-1B)
+b5;2-2;2;1--;7,(3-2) CB1BFF*B.>X;;NYM;Francisco Alvarez;Kyle Hendricks;4%;57%;Single to LF (Line Drive to Short LF); Nimmo to 3B
+b5;2-2;2;1-3;7,(3-2) BBFBF>F>*B;;NYM;Francisco Lindor;Kyle Hendricks;3%;59%;Walk; Alvarez to 2B
+b5;2-2;2;123;5,(2-2) CBSBX;O;NYM;Pete Alonso;Kyle Hendricks;-9%;50%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Cubs 2, Mets 2.
+Top of the 6th, Cubs Batting, Tied 2-2, Mets' Grant Hartwig facing 4-5-6 
+t6;2-2;0;---;5,(1-2) BCFFX;O;CHC;Cody Bellinger;Grant Hartwig;3%;53%;Flyball: LF
+t6;2-2;1;---;5,(2-2) S.FBBS;O;CHC;Dansby Swanson;Grant Hartwig;2%;56%;Strikeout Swinging
+t6;2-2;2;---;4,(2-1) BBFX;O;CHC;Seiya Suzuki;Grant Hartwig;2%;58%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 2, Mets 2.
+Bottom of the 6th, Mets Batting, Tied 2-2, Cubs' Hayden Wesneski facing 5-6-7 
+;;;;;;;;;Hayden Wesneski replaces Kyle Hendricks pitching
+b6;2-2;0;---;2,(1-0) .BX;R;NYM;Jeff McNeil;Hayden Wesneski;17%;74%;Home Run (Line Drive to Deep CF-RF)
+b6;3-2;0;---;1,(0-0) X;;NYM;Abraham Almonte;Hayden Wesneski;6%;80%;Double to LF (Line Drive to Deep LF)
+b6;3-2;0;-2-;5,(3-1) C*BBBX;;NYM;Mark Vientos;Hayden Wesneski;5%;86%;Fielder's Choice SS; Almonte to 3B; Vientos to 1B
+b6;3-2;0;1-3;6,(2-2) CBFFBX;R;NYM;Jonathan Araúz;Hayden Wesneski;4%;90%;Single to RF (Line Drive to Short RF); Almonte Scores; Vientos to 2B
+;;;;;;;;;Jose Cuas replaces Hayden Wesneski pitching
+b6;4-2;0;12-;4,(1-2) .MBLL;O;NYM;Rafael Ortega;Jose Cuas;-3%;87%;Strikeout (foul bunt)
+b6;4-2;1;12-;6,(3-2) BS*BBCS;O;NYM;Brandon Nimmo;Jose Cuas;-2%;84%;Strikeout Swinging
+b6;4-2;2;12-;3,(1-1) SBX;O;NYM;Francisco Alvarez;Jose Cuas;-3%;82%;Flyball: LF (Deep LF)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Cubs 2, Mets 4.
+Top of the 7th, Cubs Batting, Behind 2-4, Mets' Trevor Gott facing 7-8-9 
+;;;;;;;;;Trevor Gott replaces Grant Hartwig pitching
+t7;2-4;0;---;2,(0-1) .CX;O;CHC;Jeimer Candelario;Trevor Gott;3%;85%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;Mike Tauchman pinch hits for Patrick Wisdom (1B) batting 8th
+t7;2-4;1;---;5,(3-1) .BCBBB;;CHC;Mike Tauchman;Trevor Gott;-4%;81%;Walk
+t7;2-4;1;1--;5,(2-2) FBBFH;;CHC;Miguel Amaya;Trevor Gott;-6%;75%;Hit By Pitch; Tauchman to 2B
+t7;2-4;1;12-;5,(2-2) BC>FBS;O;CHC;Christopher Morel;Trevor Gott;7%;82%;Strikeout Swinging
+t7;2-4;2;12-;2,(1-0) BX;O;CHC;Nico Hoerner;Trevor Gott;6%;89%;Flyball: RF (Short RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Cubs 2, Mets 4.
+Bottom of the 7th, Mets Batting, Ahead 4-2, Cubs' Jose Cuas facing 3-4-5 
+;;;;;;;;;Cody Bellinger moves from CF to 1B Mike Tauchman moves from PH to CF 
+b7;4-2;0;---;4,(1-2) ..FBFX;O;NYM;Francisco Lindor;Jose Cuas;-1%;88%;Popfly: SS (Weak SS-2B)
+b7;4-2;1;---;6,(3-2) CBBBF.B;;NYM;Pete Alonso;Jose Cuas;1%;89%;Walk
+b7;4-2;1;1--;7,(3-2) BBFBF>F>X;O;NYM;Jeff McNeil;Jose Cuas;-1%;88%;Popfly: 2B
+b7;4-2;2;1--;6,(3-2) BS1BFB.>B;;NYM;Abraham Almonte;Jose Cuas;1%;89%;Walk; Alonso to 2B
+;;;;;;;;;Julian Merryweather replaces Jose Cuas pitching
+b7;4-2;2;12-;3,(0-2) .CFS;O;NYM;Mark Vientos;Julian Merryweather;-2%;86%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Cubs 2, Mets 4.
+Top of the 8th, Cubs Batting, Behind 2-4, Mets' Josh Walker facing 3-4-5 
+;;;;;;;;;Josh Walker replaces Trevor Gott pitchingDanny Mendick replaces Mark Vientos playing 3B batting 7th
+t8;2-4;0;---;2,(0-1) ..FX;O;CHC;Ian Happ;Josh Walker;4%;90%;Flyball: CF (Deep CF-RF)
+t8;2-4;1;---;6,(3-2) S.SBBBS;O;CHC;Cody Bellinger;Josh Walker;2%;93%;Strikeout Swinging
+t8;2-4;2;---;8,(3-2) CCBBBFFS;O;CHC;Dansby Swanson;Josh Walker;1%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 2, Mets 4.
+Bottom of the 8th, Mets Batting, Ahead 4-2, Cubs' Mark Leiter Jr. facing 8-9-1 
+;;;;;;;;;Mark Leiter Jr. replaces Julian Merryweather pitching
+b8;4-2;0;---;3,(0-2) .CCC;O;NYM;Jonathan Araúz;Mark Leiter Jr.;-1%;93%;Strikeout Looking
+b8;4-2;1;---;4,(0-2) CFFX;O;NYM;Rafael Ortega;Mark Leiter Jr.;0%;93%;Groundout: 2B-1B (2B-1B)
+b8;4-2;2;---;3,(0-2) CFX;O;NYM;Brandon Nimmo;Mark Leiter Jr.;0%;93%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 2, Mets 4.
+Top of the 9th, Cubs Batting, Behind 2-4, Mets' Adam Ottavino facing 6-7-8 
+;;;;;;;;;Adam Ottavino replaces Josh Walker pitching
+t9;2-4;0;---;3,(2-0) .BBX;R;CHC;Seiya Suzuki;Adam Ottavino;-9%;84%;Home Run (Fly Ball to Deep LF-CF)
+t9;3-4;0;---;1,(0-0) X;;CHC;Jeimer Candelario;Adam Ottavino;-12%;72%;Single to RF (Line Drive to RF Line)
+t9;3-4;0;1--;5,(3-2) 1BC*B1BF1;;CHC;Mike Tauchman;Adam Ottavino;-8%;64%;Balk; Candelario to 2B
+t9;3-4;0;-2-;6,(3-2) 1BC*B1BF1.B;;CHC;Mike Tauchman;Adam Ottavino;-8%;56%;Walk
+;;;;;;;;;Phil Bickford replaces Adam Ottavino pitchingNick Madrigal pinch hits for Miguel Amaya (C) batting 9th
+t9;3-4;0;12-;2,(1-0) ..B+2X;O;CHC;Nick Madrigal;Phil Bickford;-1%;55%;Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Candelario to 3B; Tauchman to 2B
+t9;3-4;1;-23;5,(1-2) SS.BFC;O;CHC;Christopher Morel;Phil Bickford;25%;80%;Strikeout Looking
+t9;3-4;2;-23;4,(3-0) BBBB;;CHC;Nico Hoerner;Phil Bickford;-3%;77%;Walk
+t9;3-4;2;123;6,(1-2) CSFFBS;O;CHC;Ian Happ;Phil Bickford;23%;100%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 3 LOB. Cubs 3, Mets 4.

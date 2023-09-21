@@ -1,0 +1,266 @@
+
+Scorebox Meta
+20230501
+4:47 p.m. Local
+27603
+Citi Field
+152
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/ATL-2023.png;/teams/ATL/2023.shtml;0;0;0;0;0;3;0;0;0;3;6;1
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;1;0;0;1;2;0;1;X;5;9;0
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;4;0;1;0;0;1;4;.320;.419;.456;.876;24;16;-0.041; 1.13;0.045;-0.086;-0.03%; 1.30; -0.4;2;0;
+Starling Marte;/players/m/martest01.shtml;RF;4;0;1;1;0;1;4;.226;.314;.301;.615;10;9;0.003; 1.06;0.063;-0.060; 0.00%; 1.21; 0.0;2;0;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;3;0;0;0;1;1;4;.215;.325;.430;.755;19;12;-0.024; 0.82;0.023;-0.047;-0.02%; 0.94; -0.4;2;1;SB
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;0;0;0;0;2;4;.248;.320;.558;.878;13;10;-0.111; 1.03;0.000;-0.111;-0.08%; 1.18; -1.4;6;1;
+Jeff McNeil;/players/m/mcneije01.shtml;2B;4;2;2;1;0;0;4;.304;.418;.441;.859;9;8;0.090; 0.90;0.130;-0.040; 0.06%; 1.03; 1.4;1;3;HR
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;3;1;1;1;1;1;4;.278;.426;.389;.815;20;10;0.089; 0.98;0.165;-0.075; 0.06%; 1.12; 0.4;;;2B,GDP
+Mark Canha;/players/c/canhama01.shtml;LF;3;1;1;0;1;1;4;.225;.314;.360;.674;19;10;0.027; 0.94;0.069;-0.041; 0.02%; 1.08; 0.2;1;0;
+Brett Baty;/players/b/batybr01.shtml;3B;4;1;1;0;0;1;4;.333;.381;.538;.919;14;9;-0.057; 1.41;0.059;-0.116;-0.04%; 1.61; -0.5;1;2;2B
+Luis Guillorme;/players/g/guilllu01.shtml;3B;0;0;0;0;0;0;0;.233;.340;.256;.596;;;;;;;;;;0;0;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;4;0;2;2;0;1;4;.225;.244;.325;.569;9;8;0.330; 1.27;0.377;-0.047; 0.23%; 1.46; 1.6;11;0;2B
+Tylor Megill;/players/m/megilty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Drew Smith;/players/s/smithdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+David Robertson;/players/r/roberda08.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Daniel Vogelbach (3, off Charlie Morton); Brett Baty (2, off Charlie Morton); Francisco Alvarez (1, off Michael Tonkin).
+
+
+HR: Jeff McNeil (2, off Joe Jiménez, 8th inn, 0 on, 0 outs to Deep RF).
+
+
+TB: Jeff McNeil 5; Francisco Alvarez 3; Daniel Vogelbach 2; Brett Baty 2; Brandon Nimmo; Mark Canha; Starling Marte.
+
+
+GIDP: Daniel Vogelbach (1).
+
+
+RBI: Francisco Alvarez 2 (4); Jeff McNeil (10); Daniel Vogelbach (11); Starling Marte (8).
+
+
+2-out RBI: Francisco Alvarez 2.
+
+
+Team LOB: 7.
+With RISP: 3 for 11.
+
+Batting away
+Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF;0;0;0;0;0;0;1;.363;.450;.584;1.034;3;2;0.035; 0.87;0.035;0.000; 0.03%; 1.19; 0.4;;;HBP
+Kevin Pillar;/players/p/pillake01.shtml;PR-RF;3;0;0;0;0;0;3;.226;.268;.396;.664;4;4;-0.132; 1.53;0.000;-0.132;-0.11%; 2.10; -0.9;3;0;
+Vaughn Grissom;/players/g/grissva01.shtml;SS;0;0;0;0;0;0;0;.294;.321;.314;.634;;;;;;;;;;0;0;
+Matt Olson;/players/o/olsonma02.shtml;1B;3;1;0;0;1;1;4;.245;.366;.536;.903;20;12;-0.073; 1.53;0.036;-0.108;-0.06%; 2.09; -0.5;5;0;
+Austin Riley;/players/r/rileyau01.shtml;3B;4;0;1;0;0;1;4;.241;.333;.417;.750;16;9;-0.060; 1.52;0.061;-0.121;-0.05%; 2.08; -0.8;0;3;GDP
+Sean Murphy;/players/m/murphse01.shtml;DH;3;1;2;0;1;1;4;.282;.413;.647;1.061;17;12;0.060; 1.87;0.129;-0.069; 0.05%; 2.56; 0.7;;;
+Eddie Rosario;/players/r/rosared01.shtml;LF;3;0;1;3;1;2;4;.225;.279;.413;.692;18;9;0.377; 2.46;0.470;-0.093; 0.31%; 3.36; 2.6;2;0;2B
+Ozzie Albies;/players/a/albieoz01.shtml;2B;4;0;1;0;0;0;4;.243;.286;.477;.763;16;10;-0.085; 1.77;0.088;-0.173;-0.07%; 2.41; -0.9;2;2;2B,GDP
+Sam Hilliard;/players/h/hillisa01.shtml;CF-RF;4;0;0;0;0;3;4;.276;.344;.500;.844;17;12;-0.202; 2.06;0.000;-0.202;-0.17%; 2.82; -1.4;0;0;
+Ehire Adrianza;/players/a/adriaeh01.shtml;SS;2;0;0;0;0;0;2;.000;.091;.000;.091;10;7;-0.080; 1.55;0.000;-0.080;-0.07%; 2.12; -0.6;2;1;
+Michael Harris II;/players/h/harrimi04.shtml;PH-CF;1;0;0;0;1;1;2;.207;.303;.241;.544;9;4;-0.009; 1.68;0.049;-0.058;-0.01%; 2.29; -0.1;1;0;
+Chadwick Tromp;/players/t/trompch01.shtml;C;4;1;1;0;0;1;4;.143;.143;.214;.357;9;8;-0.025; 1.33;0.080;-0.105;-0.02%; 1.81; -0.1;9;0;2B
+Charlie Morton;/players/m/mortoch02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael Tonkin;/players/t/tonkimi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joe Jiménez;/players/j/jimenjo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Chadwick Tromp (1, off Tylor Megill); Eddie Rosario (4, off Tylor Megill); Ozzie Albies (3, off David Robertson).
+
+
+HBP: Ronald Acuna Jr. (2, by Tylor Megill).
+
+
+TB: Chadwick Tromp 2; Sean Murphy 2; Ozzie Albies 2; Eddie Rosario 2; Austin Riley.
+
+
+GIDP: Ozzie Albies (3); Austin Riley (7).
+
+
+RBI: Eddie Rosario 3 (8).
+
+
+2-out RBI: Eddie Rosario 3.
+
+
+Team LOB: 6.
+With RISP: 1 for 10.
+
+Pitching home
+Tylor Megill;/players/m/megilty01.shtml;Tylor Megill; 5.2;4;3;3;3;4;0;4.11;23;87;56;37;7;12;7;8;3;0;50;;;-0.143; 1.62;-0.10%; 1.86; -0.3
+Drew Smith;/players/s/smithdr01.shtml; W (2-1); 1.1;0;0;0;1;2;0;2.45;5;17;11;7;0;4;1;1;0;0;;1;0;0.140; 1.70; 0.10%; 1.94; 0.9
+David Robertson;/players/r/roberda08.shtml; S (5); 2 ;2;0;0;0;4;0;0.68;8;35;22;10;5;7;1;3;1;0;;0;0;0.196; 2.04; 0.13%; 2.33; 1.0
+
+Pitching away
+Charlie Morton;/players/m/mortoch02.shtml; L (3-3); 5.1;6;4;4;3;6;0;3.38;25;92;61;36;12;13;9;7;4;0;43;;;-0.060; 1.09;-0.05%; 1.49; 0.1
+Michael Tonkin;/players/t/tonkimi01.shtml; BS (2); 1.2;1;0;0;0;1;0;2.25;6;17;13;7;2;4;2;3;1;0;;2;2;-0.190; 1.55;-0.16%; 2.12; -0.6
+Joe Jiménez;/players/j/jimenjo02.shtml;Joe Jiménez; 1 ;2;1;1;0;2;1;3.00;5;28;18;8;3;7;0;3;1;0;;0;0;-0.058; 0.29;-0.05%; 0.40; -0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Tylor Megill (2; Ronald Acuna Jr.).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Tylor Megill (2; Ronald Acuna Jr.).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Junior Valentine, 1B - Adrian Johnson, 2B - Quinn Wolcott, 3B - Ryan Wills, LF - (none), RF - (none).
+Time of Game: 2:32.
+Attendance: 27,603.
+Field Condition: Unknown.
+Start Time Weather: 62° F, Wind 7mph out to Centerfield, Cloudy, No Precipitation.
+
+div_lineups
+Braves
+1;Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF
+2;Matt Olson;/players/o/olsonma02.shtml;1B
+3;Austin Riley;/players/r/rileyau01.shtml;3B
+4;Sean Murphy;/players/m/murphse01.shtml;DH
+5;Eddie Rosario;/players/r/rosared01.shtml;LF
+6;Ozzie Albies;/players/a/albieoz01.shtml;2B
+7;Sam Hilliard;/players/h/hillisa01.shtml;CF
+8;Ehire Adrianza;/players/a/adriaeh01.shtml;SS
+9;Chadwick Tromp;/players/t/trompch01.shtml;C
+; Charlie Morton;/players/m/mortoch02.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Starling Marte;/players/m/martest01.shtml;RF
+3;Francisco Lindor;/players/l/lindofr01.shtml;SS
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Jeff McNeil;/players/m/mcneije01.shtml;2B
+6;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+7;Mark Canha;/players/c/canhama01.shtml;LF
+8;Brett Baty;/players/b/batybr01.shtml;3B
+9;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+; Tylor Megill;/players/m/megilty01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t6;0-2;2;123;3,(2-0) *BBX;RRR;ATL;Eddie Rosario;Tylor Megill;-39%;35%;Double to CF (Line Drive to Deep CF-RF); Tromp Scores; Olson Scores; Murphy Scores; Rosario to 3B
+b6;2-3;2;12-;2,(0-1) SX;RR;NYM;Francisco Alvarez;Michael Tonkin;35%;73%;Double to LF (Line Drive to LF Line); Vogelbach Scores; Canha Scores
+b2;0-0;1;1--;6,(2-2) B1BCFFX;R;NYM;Daniel Vogelbach;Charlie Morton;12%;67%;Double to CF (Line Drive to Deep CF); McNeil Scores
+t9;3-5;0;---;5,(2-2) .CBFBX;;ATL;Ozzie Albies;David Robertson;-9%;84%;Double to RF (Line Drive to RF Line)
+t6;0-2;0;---;2,(0-1) CX;;ATL;Chadwick Tromp;Tylor Megill;-8%;70%;Double to RF (Line Drive to RF Line)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Braves Batting, Tied 0-0, Mets' Tylor Megill facing 1-2-3 
+t1;0-0;0;---;3,(0-2) FFH;;ATL;Ronald Acuna Jr.;Tylor Megill;-4%;46%;Hit By Pitch
+;;;;;;;;;Kevin Pillar pinch runs for Ronald Acuna Jr. (RF) batting 1st
+t1;0-0;0;1--;6,(2-2) .CCFB*BS;O;ATL;Matt Olson;Tylor Megill;3%;50%;Strikeout Swinging
+t1;0-0;1;1--;3,(2-0) 1BBX;OO;ATL;Austin Riley;Tylor Megill;5%;55%;Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Braves' Charlie Morton facing 1-2-3 
+;;;;;;;;;Kevin Pillar moves from PR to RF 
+b1;0-0;0;---;8,(2-2) .BSSFBFFX;O;NYM;Brandon Nimmo;Charlie Morton;-2%;53%;Flyball: LF
+b1;0-0;1;---;2,(0-1) SX;O;NYM;Starling Marte;Charlie Morton;-2%;51%;Lineout: RF (Deep RF)
+b1;0-0;2;---;5,(1-2) BCFFT;O;NYM;Francisco Lindor;Charlie Morton;-1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Mets 0.
+Top of the 2nd, Braves Batting, Tied 0-0, Mets' Tylor Megill facing 4-5-6 
+t2;0-0;0;---;1,(0-0) X;;ATL;Sean Murphy;Tylor Megill;-4%;46%;Single to LF (Line Drive to Short LF)
+t2;0-0;0;1--;4,(1-2) SBFS;O;ATL;Eddie Rosario;Tylor Megill;4%;50%;Strikeout Swinging
+t2;0-0;1;1--;2,(1-0) *BX;OO;ATL;Ozzie Albies;Tylor Megill;5%;55%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Braves 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Braves' Charlie Morton facing 4-5-6 
+b2;0-0;0;---;1,(0-0) X;O;NYM;Pete Alonso;Charlie Morton;-2%;53%;Groundout: 3B-1B (SS-3B Hole)
+b2;0-0;1;---;2,(0-1) CX;;NYM;Jeff McNeil;Charlie Morton;3%;55%;Single to LF (Ground Ball thru SS-3B Hole)
+b2;0-0;1;1--;6,(2-2) B1BCFFX;R;NYM;Daniel Vogelbach;Charlie Morton;12%;67%;Double to CF (Line Drive to Deep CF); McNeil Scores
+b2;1-0;1;-2-;4,(1-2) CBSS;O;NYM;Mark Canha;Charlie Morton;-3%;64%;Strikeout Swinging
+b2;1-0;2;-2-;3,(0-2) FCS;O;NYM;Brett Baty;Charlie Morton;-3%;61%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Braves 0, Mets 1.
+Top of the 3rd, Braves Batting, Behind 0-1, Mets' Tylor Megill facing 7-8-9 
+t3;0-1;0;---;4,(1-2) BFFX;O;ATL;Sam Hilliard;Tylor Megill;3%;64%;Flyball: CF (Deep CF)
+t3;0-1;1;---;5,(2-2) FBF.BX;O;ATL;Ehire Adrianza;Tylor Megill;2%;66%;Groundout: 3B-1B
+t3;0-1;2;---;1,(0-0) X;O;ATL;Chadwick Tromp;Tylor Megill;1%;67%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Mets 1.
+Bottom of the 3rd, Mets Batting, Ahead 1-0, Braves' Charlie Morton facing 9-1-2 
+b3;1-0;0;---;2,(0-1) CX;;NYM;Francisco Alvarez;Charlie Morton;3%;70%;Single to CF (Ground Ball)
+b3;1-0;0;1--;9,(3-2) FBBFFFBFS;O;NYM;Brandon Nimmo;Charlie Morton;-3%;67%;Strikeout Swinging
+b3;1-0;1;1--;4,(1-2) CF*BS;O;NYM;Starling Marte;Charlie Morton;-3%;65%;Strikeout Swinging
+b3;1-0;2;1--;5,(3-1) F*B*BBB;;NYM;Francisco Lindor;Charlie Morton;2%;66%;Walk; Alvarez to 2B
+b3;1-0;2;12-;5,(2-2) *BCBCS;O;NYM;Pete Alonso;Charlie Morton;-4%;62%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Braves 0, Mets 1.
+Top of the 4th, Braves Batting, Behind 0-1, Mets' Tylor Megill facing 1-2-3 
+t4;0-1;0;---;1,(0-0) X;O;ATL;Kevin Pillar;Tylor Megill;3%;65%;Flyball: CF (Deep CF-RF)
+t4;0-1;1;---;3,(1-1) BFX;O;ATL;Matt Olson;Tylor Megill;2%;67%;Groundout: 2B-1B
+t4;0-1;2;---;5,(2-2) BCSBS;O;ATL;Austin Riley;Tylor Megill;1%;69%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Mets 1.
+Bottom of the 4th, Mets Batting, Ahead 1-0, Braves' Charlie Morton facing 5-6-7 
+b4;1-0;0;---;1,(0-0) X;;NYM;Jeff McNeil;Charlie Morton;3%;72%;Reached on E6 (Ground Ball to SS-2B); McNeil to 1B
+b4;1-0;0;1--;3,(2-0) BB1X;OO;NYM;Daniel Vogelbach;Charlie Morton;-7%;65%;Ground Ball Double Play: 2B-SS-1B
+b4;1-0;2;---;2,(1-0) BX;O;NYM;Mark Canha;Charlie Morton;-1%;64%;Lineout: SS (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 1 error, 0 LOB. Braves 0, Mets 1.
+Top of the 5th, Braves Batting, Behind 0-1, Mets' Tylor Megill facing 4-5-6 
+t5;0-1;0;---;6,(0-2) CFFFFX;;ATL;Sean Murphy;Tylor Megill;-5%;59%;Single to LF (Ground Ball)
+t5;0-1;0;1--;6,(3-2) FFBBB*B;;ATL;Eddie Rosario;Tylor Megill;-8%;51%;Walk; Murphy to 2B
+t5;0-1;0;12-;6,(2-2) FFBF*BX;O;ATL;Ozzie Albies;Tylor Megill;8%;58%;Flyball: LF (LF Line)
+t5;0-1;1;12-;4,(1-2) BFSS;O;ATL;Sam Hilliard;Tylor Megill;6%;65%;Strikeout Swinging
+t5;0-1;2;12-;5,(1-2) CCF*BX;O;ATL;Ehire Adrianza;Tylor Megill;6%;71%;Groundout: SS unassisted/Forceout at 2B; Adrianza to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Braves 0, Mets 1.
+Bottom of the 5th, Mets Batting, Ahead 1-0, Braves' Charlie Morton facing 8-9-1 
+b5;1-0;0;---;4,(1-2) .CBSX;;NYM;Brett Baty;Charlie Morton;6%;77%;Double to RF (Line Drive to Deep RF Line)
+b5;1-0;0;-2-;1,(0-0) X;O;NYM;Francisco Alvarez;Charlie Morton;-4%;73%;Groundout: 3B-1B (Weak 3B)
+b5;1-0;1;-2-;1,(0-0) X;;NYM;Brandon Nimmo;Charlie Morton;5%;77%;Single to LF (Ground Ball); Baty to 3B
+b5;1-0;1;1-3;2,(0-1) SX;R;NYM;Starling Marte;Charlie Morton;6%;84%;Single to CF (Ground Ball thru SS-2B); Baty Scores; Nimmo to 2B
+b5;2-0;1;12-;8,(2-2) SBFFFFBX;O;NYM;Francisco Lindor;Charlie Morton;-2%;81%;Groundout: 2B unassisted/Forceout at 2B; Nimmo to 3B; Lindor to 1B
+b5;2-0;2;1-3;2,(1-0) B>C;;NYM;Pete Alonso;Charlie Morton;1%;82%;Lindor Steals 2B
+b5;2-0;2;-23;3,(1-1) B>C.X;O;NYM;Pete Alonso;Charlie Morton;-4%;78%;Popfly: 2B (Deep 2B)
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Braves 0, Mets 2.
+Top of the 6th, Braves Batting, Behind 0-2, Mets' Tylor Megill facing 9-1-2 
+t6;0-2;0;---;2,(0-1) CX;;ATL;Chadwick Tromp;Tylor Megill;-8%;70%;Double to RF (Line Drive to RF Line)
+t6;0-2;0;-2-;2,(0-1) CX;O;ATL;Kevin Pillar;Tylor Megill;6%;76%;Flyball: RF
+t6;0-2;1;-2-;7,(3-2) CBCB*BFB;;ATL;Matt Olson;Tylor Megill;-4%;72%;Walk
+t6;0-2;1;12-;2,(0-1) CX;O;ATL;Austin Riley;Tylor Megill;6%;78%;Flyball: RF (Deep CF-RF); Tromp to 3B
+t6;0-2;2;1-3;6,(3-2) FBBBC>B;;ATL;Sean Murphy;Tylor Megill;-4%;74%;Walk; Olson to 2B
+t6;0-2;2;123;3,(2-0) *BBX;RRR;ATL;Eddie Rosario;Tylor Megill;-39%;35%;Double to CF (Line Drive to Deep CF-RF); Tromp Scores; Olson Scores; Murphy Scores; Rosario to 3B
+;;;;;;;;;Tag play Challenged by ATL manager (Brian Snitker): Original call overturned as shown.
+;;;;;;;;;Drew Smith replaces Tylor Megill pitching
+t6;3-2;2;--3;3,(1-1) .BFX;O;ATL;Ozzie Albies;Drew Smith;4%;39%;Groundout: 1B-P
+;;;;;;;;;3 runs, 2 hits, 0 errors, 1 LOB. Braves 3, Mets 2.
+Bottom of the 6th, Mets Batting, Behind 2-3, Braves' Charlie Morton facing 5-6-7 
+b6;2-3;0;---;1,(0-0) X;O;NYM;Jeff McNeil;Charlie Morton;-4%;35%;Flyball: RF (Deep RF Line)
+b6;2-3;1;---;5,(3-1) BBBCB;;NYM;Daniel Vogelbach;Charlie Morton;4%;40%;Walk
+b6;2-3;1;1--;5,(3-1) CBBBB;;NYM;Mark Canha;Charlie Morton;6%;46%;Walk; Vogelbach to 2B
+;;;;;;;;;Michael Tonkin replaces Charlie Morton pitching
+b6;2-3;1;12-;2,(1-0) .BX;O;NYM;Brett Baty;Michael Tonkin;-8%;38%;Flyball: RF (CF-RF)
+b6;2-3;2;12-;2,(0-1) SX;RR;NYM;Francisco Alvarez;Michael Tonkin;35%;73%;Double to LF (Line Drive to LF Line); Vogelbach Scores; Canha Scores
+b6;4-3;2;-2-;6,(3-2) BCBBFX;O;NYM;Brandon Nimmo;Michael Tonkin;-3%;69%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;2 runs, 1 hit, 0 errors, 1 LOB. Braves 3, Mets 4.
+Top of the 7th, Braves Batting, Behind 3-4, Mets' Drew Smith facing 7-8-9 
+t7;3-4;0;---;4,(1-2) CCBT;O;ATL;Sam Hilliard;Drew Smith;4%;74%;Strikeout Swinging
+;;;;;;;;;Michael Harris II pinch hits for Ehire Adrianza (SS) batting 8th
+t7;3-4;1;---;5,(3-1) .CBBBB;;ATL;Michael Harris II;Drew Smith;-5%;69%;Walk
+t7;3-4;1;1--;4,(0-2) 1FFFC;O;ATL;Chadwick Tromp;Drew Smith;6%;74%;Strikeout Looking
+t7;3-4;2;1--;1,(0-0) X;O;ATL;Kevin Pillar;Drew Smith;5%;79%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Braves 3, Mets 4.
+Bottom of the 7th, Mets Batting, Ahead 4-3, Braves' Michael Tonkin facing 2-3-4 
+;;;;;;;;;Vaughn Grissom replaces Kevin Pillar (RF) playing SS batting 1stMichael Harris II moves from PH to CF Sam Hilliard moves from CF to RF 
+b7;4-3;0;---;2,(0-1) ...CX;O;NYM;Starling Marte;Michael Tonkin;-2%;77%;Groundout: 3B-1B
+b7;4-3;1;---;1,(0-0) X;O;NYM;Francisco Lindor;Michael Tonkin;-1%;76%;Flyball: LF (Deep LF)
+b7;4-3;2;---;4,(0-2) CCF.S;O;NYM;Pete Alonso;Michael Tonkin;-1%;75%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 3, Mets 4.
+Top of the 8th, Braves Batting, Behind 3-4, Mets' David Robertson facing 2-3-4 
+;;;;;;;;;David Robertson replaces Drew Smith pitching
+t8;3-4;0;---;4,(1-2) .CBFX;O;ATL;Matt Olson;David Robertson;6%;80%;Popfly: 3B (Deep 3B)
+t8;3-4;1;---;6,(3-2) TBBCBX;;ATL;Austin Riley;David Robertson;-6%;74%;Single to LF (Ground Ball)
+t8;3-4;1;1--;4,(1-2) *BSCC;O;ATL;Sean Murphy;David Robertson;7%;81%;Strikeout Looking
+t8;3-4;2;1--;5,(2-2) 1BB*SF*S;O;ATL;Eddie Rosario;David Robertson;6%;87%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 3, Mets 4.
+Bottom of the 8th, Mets Batting, Ahead 4-3, Braves' Joe Jiménez facing 5-6-7 
+;;;;;;;;;Joe Jiménez replaces Michael Tonkin pitching
+b8;4-3;0;---;5,(1-2) .FBCFX;R;NYM;Jeff McNeil;Joe Jiménez;7%;94%;Home Run (Fly Ball to Deep RF)
+b8;5-3;0;---;6,(2-2) CSFBBC;O;NYM;Daniel Vogelbach;Joe Jiménez;-1%;93%;Strikeout Looking
+b8;5-3;1;---;8,(3-2) CSBB.FFBX;;NYM;Mark Canha;Joe Jiménez;1%;94%;Single to CF (Line Drive to Deep CF)
+b8;5-3;1;1--;5,(3-1) B*B*BCX;O;NYM;Brett Baty;Joe Jiménez;-1%;93%;Flyball: CF (Deep CF)
+b8;5-3;2;1--;4,(1-2) CS.BC;O;NYM;Francisco Alvarez;Joe Jiménez;-1%;93%;Strikeout Looking
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Braves 3, Mets 5.
+Top of the 9th, Braves Batting, Behind 3-5, Mets' David Robertson facing 6-7-8 
+;;;;;;;;;Luis Guillorme replaces Brett Baty playing 3B batting 8th
+t9;3-5;0;---;5,(2-2) .CBFBX;;ATL;Ozzie Albies;David Robertson;-9%;84%;Double to RF (Line Drive to RF Line)
+t9;3-5;0;-2-;5,(2-2) BCBCS;O;ATL;Sam Hilliard;David Robertson;7%;90%;Strikeout Swinging
+t9;3-5;1;-2-;4,(1-2) SFBT;O;ATL;Michael Harris II;David Robertson;6%;96%;Strikeout Swinging
+t9;3-5;2;-2-;2,(1-0) BX;O;ATL;Chadwick Tromp;David Robertson;4%;100%;Popfly: C
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 3, Mets 5.

@@ -1,0 +1,266 @@
+
+Scorebox Meta
+20230508
+6:40 p.m. Local
+9071
+Chase Field
+153
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/MIA-2023.png;/teams/MIA/2023.shtml;0;0;0;0;1;0;0;0;1;2;9;1
+https://cdn.ssref.net/req/202308101/tlogo/br/ARI-2023.png;/teams/ARI/2023.shtml;0;0;0;1;0;3;1;0;X;5;13;0
+
+Batting home
+Ketel Marte;/players/m/marteke01.shtml;2B;5;0;1;1;0;0;5;.264;.324;.496;.819;11;9;-0.034; 1.10;0.062;-0.096;-0.02%; 1.25; -0.2;1;5;
+Corbin Carroll;/players/c/carroco02.shtml;CF-LF;5;0;0;0;0;3;5;.301;.368;.531;.899;21;14;-0.130; 0.96;0.000;-0.130;-0.09%; 1.09; -1.9;2;0;
+Emmanuel Rivera;/players/r/riverem01.shtml;DH;5;2;2;0;0;0;5;.406;.424;.594;1.018;19;10;0.012; 0.61;0.058;-0.046; 0.01%; 0.70; 0.4;;;2B
+Christian Walker;/players/w/walkech02.shtml;1B;4;1;2;2;0;0;4;.289;.324;.563;.886;18;10;0.283; 0.97;0.317;-0.034; 0.19%; 1.11; 1.5;13;1;HR,2B
+Evan Longoria;/players/l/longoev01.shtml;3B;4;1;1;0;0;2;4;.197;.250;.364;.614;12;10;-0.042; 0.67;0.023;-0.065;-0.03%; 0.77; -0.7;0;1;
+Pavin Smith;/players/s/smithpa04.shtml;RF;3;1;2;1;1;1;4;.273;.412;.436;.848;21;11;0.071; 0.76;0.104;-0.033; 0.05%; 0.86; 1.3;3;0;
+Nick Ahmed;/players/a/ahmedni01.shtml;SS;4;0;1;0;0;1;4;.227;.239;.318;.557;20;15;-0.118; 0.95;0.003;-0.120;-0.08%; 1.09; -1.0;0;3;
+Gabriel Moreno;/players/m/morenga01.shtml;C;4;0;3;1;0;0;4;.315;.323;.404;.727;11;7;0.223; 1.05;0.228;-0.006; 0.15%; 1.20; 1.6;6;2;2B,SB
+Dominic Fletcher;/players/f/fletcdo01.shtml;LF;2;0;0;0;0;1;2;.391;.440;.478;.918;5;4;-0.090; 1.59;0.000;-0.090;-0.06%; 1.82; -0.8;0;0;
+Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;PH;0;0;0;0;1;0;1;.310;.368;.522;.890;7;3;0.015; 0.99;0.015;0.000; 0.01%; 1.13; 0.3;;;
+Alek Thomas;/players/t/thomaal01.shtml;PR-CF;1;0;1;0;0;0;1;.200;.264;.340;.604;1;1;0.002; 0.04;0.002;0.000; 0.00%; 0.05; 0.4;1;0;
+Zac Gallen;/players/g/galleza01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+José Ruiz;/players/r/ruizjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joe Mantiply;/players/m/mantijo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Gabriel Moreno (5, off Braxton Garrett); Christian Walker (8, off Braxton Garrett); Emmanuel Rivera (3, off Chi Chi González).
+
+
+HR: Christian Walker (9, off Braxton Garrett, 6th inn, 0 on, 1 out to Deep LF).
+
+
+TB: Christian Walker 6; Gabriel Moreno 4; Emmanuel Rivera 3; Pavin Smith 2; Evan Longoria; Nick Ahmed; Ketel Marte; Alek Thomas.
+
+
+RBI: Christian Walker 2 (28); Ketel Marte (16); Gabriel Moreno (16); Pavin Smith (13).
+
+
+2-out RBI: Pavin Smith; Ketel Marte; Gabriel Moreno.
+
+
+Team LOB: 10.
+With RISP: 3 for 15.
+
+Batting away
+Jazz Chisholm Jr.;/players/c/chishja01.shtml;CF;4;0;1;0;0;1;4;.223;.277;.369;.646;10;9;-0.091; 1.19;0.024;-0.115;-0.05%; 1.08; -0.6;2;0;
+Jorge Soler;/players/s/solerjo01.shtml;DH;3;0;1;0;1;0;4;.226;.304;.468;.772;17;7;0.054; 1.09;0.115;-0.061; 0.03%; 1.00; -0.0;;;GDP
+Yuli Gurriel;/players/g/gourryu01.shtml;1B;4;0;1;0;0;1;4;.269;.310;.423;.733;12;10;-0.095; 1.10;0.006;-0.100;-0.05%; 1.01; -0.7;6;0;
+Luis Arraez;/players/a/arraelu01.shtml;2B;4;0;1;0;0;0;4;.414;.469;.509;.978;11;8;-0.019; 1.12;0.051;-0.070;-0.01%; 1.03; -0.4;3;1;
+Bryan De La Cruz;/players/d/delacbr01.shtml;LF;4;1;1;0;0;0;4;.256;.290;.350;.641;15;10;-0.110; 1.19;0.018;-0.128;-0.06%; 1.09; -0.5;3;0;
+Jean Segura;/players/s/segurje01.shtml;3B;3;0;0;0;0;3;3;.186;.233;.212;.446;14;9;-0.109; 1.40;0.000;-0.109;-0.06%; 1.28; -0.8;0;0;
+Jon Berti;/players/b/bertijo01.shtml;3B;1;0;0;0;0;0;1;.267;.322;.362;.684;7;4;-0.018; 0.77;0.000;-0.018;-0.01%; 0.70; -0.4;0;0;
+Nick Fortes;/players/f/forteni01.shtml;C;4;1;1;0;0;2;4;.212;.268;.258;.525;11;10;-0.025; 0.81;0.036;-0.061;-0.01%; 0.74; -0.5;8;0;
+Jesús Sánchez;/players/s/sanchje02.shtml;RF;3;0;2;1;0;0;3;.267;.353;.467;.820;8;5;0.195; 1.15;0.211;-0.016; 0.11%; 1.05; 1.4;0;0;2·2B
+Garrett Hampson;/players/h/hampsga01.shtml;PH;1;0;1;1;0;0;1;.263;.300;.439;.739;3;2;0.009; 0.12;0.009;0.000; 0.01%; 0.11; 1.0;;;2B
+Joey Wendle;/players/w/wendljo01.shtml;SS;3;0;0;0;0;1;3;.083;.154;.250;.404;11;7;-0.089; 1.12;0.000;-0.089;-0.05%; 1.02; -0.8;2;5;
+Peyton Burdick;/players/b/burdipe01.shtml;PH;1;0;0;0;0;0;1;.000;.333;.000;.333;4;4;-0.013; 0.45;0.000;-0.013;-0.01%; 0.41; -0.3;;;
+Braxton Garrett;/players/g/garrebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Andrew Nardi;/players/n/nardian01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chi Chi González;/players/g/gonzach01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jesús Sánchez 2 (6, 2 off Zac Gallen); Garrett Hampson (7, off Joe Mantiply).
+
+
+TB: Jesús Sánchez 4; Garrett Hampson 2; Luis Arraez; Nick Fortes; Yuli Gurriel; Jazz Chisholm Jr.; Jorge Soler; Bryan De La Cruz.
+
+
+GIDP: Jorge Soler (4).
+
+
+RBI: Garrett Hampson (6); Jesús Sánchez (7).
+
+
+2-out RBI: Garrett Hampson.
+
+
+Team LOB: 7.
+With RISP: 1 for 10.
+
+Pitching home
+Zac Gallen;/players/g/galleza01.shtml; W (5-1); 7 ;5;1;1;1;7;0;2.36;27;90;62;37;8;17;9;10;5;0;69;;;0.270; 1.29; 0.18%; 1.47; 2.6
+José Ruiz;/players/r/ruizjo01.shtml;José Ruiz; 1.2;3;1;1;0;1;0;7.47;7;26;17;9;1;7;3;3;2;0;;0;0;0.035; 0.50; 0.02%; 0.57; 0.8
+Joe Mantiply;/players/m/mantijo01.shtml;Joe Mantiply; 0.1;1;0;0;0;0;0;2.35;2;7;6;4;0;2;1;1;0;0;;1;1;0.004; 0.33; 0.00%; 0.38; -0.8
+
+Pitching away
+Braxton Garrett;/players/g/garrebr01.shtml; L (1-2); 5.1;7;4;4;1;6;1;5.97;24;87;57;30;12;15;8;9;5;0;43;;;-0.081; 1.10;-0.04%; 1.01; -0.1
+Andrew Nardi;/players/n/nardian01.shtml;Andrew Nardi; 0.2;2;0;0;1;0;0;4.41;5;22;12;9;1;2;3;1;0;0;;2;2;-0.090; 1.41;-0.05%; 1.29; -0.8
+Chi Chi González;/players/g/gonzach01.shtml;Chi Chi González; 2 ;4;1;1;0;2;0;3.38;10;37;25;14;3;8;4;4;2;0;;0;0;-0.019; 0.16;-0.01%; 0.15; 0.0
+
+indiv_events
+
+Balks: Zac Gallen (1).
+WP: Zac Gallen (2).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: Zac Gallen (1).
+WP: Zac Gallen (2).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Mark Ripperger, 1B - Shane Livensparger, 2B - Dan Bellino, 3B - Phil Cuzzi, LF - (none), RF - (none).
+Time of Game: 2:33.
+Attendance: 9,071.
+Field Condition: Unknown.
+Start Time Weather: 89° F, Wind 4mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Marlins
+1;Jazz Chisholm Jr.;/players/c/chishja01.shtml;CF
+2;Jorge Soler;/players/s/solerjo01.shtml;DH
+3;Yuli Gurriel;/players/g/gourryu01.shtml;1B
+4;Luis Arraez;/players/a/arraelu01.shtml;2B
+5;Bryan De La Cruz;/players/d/delacbr01.shtml;LF
+6;Jean Segura;/players/s/segurje01.shtml;3B
+7;Nick Fortes;/players/f/forteni01.shtml;C
+8;Jesús Sánchez;/players/s/sanchje02.shtml;RF
+9;Joey Wendle;/players/w/wendljo01.shtml;SS
+; Braxton Garrett;/players/g/garrebr01.shtml;P
+Diamondbacks
+1;Ketel Marte;/players/m/marteke01.shtml;2B
+2;Corbin Carroll;/players/c/carroco02.shtml;CF
+3;Emmanuel Rivera;/players/r/riverem01.shtml;DH
+4;Christian Walker;/players/w/walkech02.shtml;1B
+5;Evan Longoria;/players/l/longoev01.shtml;3B
+6;Pavin Smith;/players/s/smithpa04.shtml;RF
+7;Nick Ahmed;/players/a/ahmedni01.shtml;SS
+8;Gabriel Moreno;/players/m/morenga01.shtml;C
+9;Dominic Fletcher;/players/f/fletcdo01.shtml;LF
+; Zac Gallen;/players/g/galleza01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b6;1-1;1;---;4,(1-2) CS.BX;R;ARI;Christian Walker;Braxton Garrett;18%;72%;Home Run (Fly Ball to Deep LF)
+t5;0-1;1;1--;2,(1-0) BX;R;MIA;Jesús Sánchez;Zac Gallen;-16%;48%;Double to LF (Line Drive to Deep LF); Fortes Scores
+b4;0-0;0;1--;3,(1-1) FBX;R;ARI;Christian Walker;Braxton Garrett;14%;74%;Double to LF (Line Drive to Deep LF-CF); Rivera Scores
+b6;2-1;2;1-3;3,(2-0) BBX;R;ARI;Gabriel Moreno;Andrew Nardi;10%;84%;Single to CF (Ground Ball thru SS-2B); Longoria Scores; Smith to 2B
+b3;0-0;0;---;1,(0-0) X;;ARI;Gabriel Moreno;Braxton Garrett;7%;62%;Double to LF (Ground Ball)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Marlins Batting, Tied 0-0, Diamondbacks' Zac Gallen facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;MIA;Jazz Chisholm Jr.;Zac Gallen;2%;52%;Groundout: 2B-1B (2B-1B)
+t1;0-0;1;---;3,(2-0) BBX;O;MIA;Jorge Soler;Zac Gallen;2%;54%;Lineout: RF (Deep RF)
+t1;0-0;2;---;5,(0-2) CFFFS;O;MIA;Yuli Gurriel;Zac Gallen;1%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 0, Diamondbacks 0.
+Bottom of the 1st, Diamondbacks Batting, Tied 0-0, Marlins' Braxton Garrett facing 1-2-3 
+b1;0-0;0;---;2,(1-1) VCX;O;ARI;Ketel Marte;Braxton Garrett;-2%;53%;Groundout: SS-1B
+b1;0-0;1;---;4,(1-2) FSBX;O;ARI;Corbin Carroll;Braxton Garrett;-2%;51%;Groundout: 1B unassisted
+b1;0-0;2;---;2,(1-0) BX;O;ARI;Emmanuel Rivera;Braxton Garrett;-1%;50%;Lineout: 2B (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 0, Diamondbacks 0.
+Top of the 2nd, Marlins Batting, Tied 0-0, Diamondbacks' Zac Gallen facing 4-5-6 
+t2;0-0;0;---;2,(1-0) BX;O;MIA;Luis Arraez;Zac Gallen;2%;52%;Lineout: CF (Deep LF-CF)
+t2;0-0;1;---;5,(1-2) CCBFX;O;MIA;Bryan De La Cruz;Zac Gallen;2%;54%;Groundout: SS-1B
+t2;0-0;2;---;6,(3-2) CBBF.BS;O;MIA;Jean Segura;Zac Gallen;1%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 0, Diamondbacks 0.
+Bottom of the 2nd, Diamondbacks Batting, Tied 0-0, Marlins' Braxton Garrett facing 4-5-6 
+b2;0-0;0;---;5,(3-1) BBBCX;O;ARI;Christian Walker;Braxton Garrett;-2%;53%;Groundout: SS-1B
+b2;0-0;1;---;1,(0-0) X;O;ARI;Evan Longoria;Braxton Garrett;-2%;51%;Groundout: P-1B (Front of Home)
+b2;0-0;2;---;5,(3-1) BBCBB;;ARI;Pavin Smith;Braxton Garrett;1%;52%;Walk
+b2;0-0;2;1--;5,(1-2) FCF*BC;O;ARI;Nick Ahmed;Braxton Garrett;-2%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Marlins 0, Diamondbacks 0.
+Top of the 3rd, Marlins Batting, Tied 0-0, Diamondbacks' Zac Gallen facing 7-8-9 
+t3;0-0;0;---;2,(0-1) FX;O;MIA;Nick Fortes;Zac Gallen;3%;53%;Groundout: 3B-1B (SS-3B Hole)
+t3;0-0;1;---;2,(1-0) BX;;MIA;Jesús Sánchez;Zac Gallen;-5%;48%;Double to LF (Line Drive to LF-CF)
+t3;0-0;1;-2-;2,(1-0) BX;O;MIA;Joey Wendle;Zac Gallen;3%;51%;Groundout: SS-1B (SS-2B); Sánchez to 3B
+t3;0-0;2;--3;2,(0-1) CX;O;MIA;Jazz Chisholm Jr.;Zac Gallen;4%;56%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 0, Diamondbacks 0.
+Bottom of the 3rd, Diamondbacks Batting, Tied 0-0, Marlins' Braxton Garrett facing 8-9-1 
+b3;0-0;0;---;1,(0-0) X;;ARI;Gabriel Moreno;Braxton Garrett;7%;62%;Double to LF (Ground Ball)
+b3;0-0;0;-2-;4,(1-2) BLL*S;O;ARI;Dominic Fletcher;Braxton Garrett;-5%;58%;Strikeout Swinging
+b3;0-0;1;-2-;2,(0-1) FX;O;ARI;Ketel Marte;Braxton Garrett;-3%;54%;Groundout: SS-1B; Moreno to 3B
+b3;0-0;2;--3;5,(2-2) *SSBBC;O;ARI;Corbin Carroll;Braxton Garrett;-4%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 0, Diamondbacks 0.
+Top of the 4th, Marlins Batting, Tied 0-0, Diamondbacks' Zac Gallen facing 2-3-4 
+t4;0-0;0;---;3,(1-1) BCX;;MIA;Jorge Soler;Zac Gallen;-4%;46%;Single to CF (Fly Ball)
+t4;0-0;0;1--;1,(0-0) X;O;MIA;Yuli Gurriel;Zac Gallen;4%;50%;Popfly: 1B (Short 1B Line)
+t4;0-0;1;1--;1,(0-1) CN;;MIA;Luis Arraez;Zac Gallen;-2%;48%;Balk; Soler to 2B
+t4;0-0;1;-2-;3,(0-2) CN.CX;O;MIA;Luis Arraez;Zac Gallen;4%;51%;Groundout: 1B unassisted; Soler to 3B
+t4;0-0;2;--3;6,(3-2) F*BF*B*BX;O;MIA;Bryan De La Cruz;Zac Gallen;5%;56%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 0, Diamondbacks 0.
+Bottom of the 4th, Diamondbacks Batting, Tied 0-0, Marlins' Braxton Garrett facing 3-4-5 
+b4;0-0;0;---;6,(3-2) BFBFBX;;ARI;Emmanuel Rivera;Braxton Garrett;4%;60%;Single to LF (Line Drive to LF Line)
+b4;0-0;0;1--;3,(1-1) FBX;R;ARI;Christian Walker;Braxton Garrett;14%;74%;Double to LF (Line Drive to Deep LF-CF); Rivera Scores
+b4;1-0;0;-2-;4,(1-2) CBSS;O;ARI;Evan Longoria;Braxton Garrett;-4%;70%;Strikeout Swinging
+b4;1-0;1;-2-;4,(1-2) S*BC2*S;O;ARI;Pavin Smith;Braxton Garrett;-3%;67%;Strikeout Swinging
+b4;1-0;2;-2-;6,(2-2) S*BCBFX;O;ARI;Nick Ahmed;Braxton Garrett;-3%;64%;Popfly: SS
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Marlins 0, Diamondbacks 1.
+Top of the 5th, Marlins Batting, Behind 0-1, Diamondbacks' Zac Gallen facing 6-7-8 
+t5;0-1;0;---;4,(1-2) BSF.S;O;MIA;Jean Segura;Zac Gallen;3%;67%;Strikeout Swinging
+t5;0-1;1;---;1,(0-0) X;;MIA;Nick Fortes;Zac Gallen;-4%;63%;Single to LF (Ground Ball)
+t5;0-1;1;1--;2,(1-0) BX;R;MIA;Jesús Sánchez;Zac Gallen;-16%;48%;Double to LF (Line Drive to Deep LF); Fortes Scores
+t5;1-1;1;-2-;6,(3-2) CTB*BBT;O;MIA;Joey Wendle;Zac Gallen;5%;52%;Strikeout Swinging
+t5;1-1;2;-2-;3,(0-2) CFB;;MIA;Jazz Chisholm Jr.;Zac Gallen;-1%;52%;Wild Pitch; Sánchez to 3B
+t5;1-1;2;--3;4,(1-2) CFB.*S;O;MIA;Jazz Chisholm Jr.;Zac Gallen;5%;57%;Strikeout Swinging; Chisholm out at 1B/C-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Marlins 1, Diamondbacks 1.
+Bottom of the 5th, Diamondbacks Batting, Tied 1-1, Marlins' Braxton Garrett facing 8-9-1 
+b5;1-1;0;---;4,(1-2) CFBX;;ARI;Gabriel Moreno;Braxton Garrett;5%;61%;Single to RF (Ground Ball thru 2B-1B)
+b5;1-1;0;1--;1,(0-0) X;O;ARI;Dominic Fletcher;Braxton Garrett;-4%;57%;Flyball: LF (Deep LF-CF)
+b5;1-1;1;1--;3,(1-1) B>FX;O;ARI;Ketel Marte;Braxton Garrett;-4%;53%;Flyball: CF (Deep CF)
+b5;1-1;2;1--;4,(2-1) BCB1>C;;ARI;Corbin Carroll;Braxton Garrett;1%;55%;Moreno Steals 2B
+b5;1-1;2;-2-;5,(2-2) BCB1>C.S;O;ARI;Corbin Carroll;Braxton Garrett;-5%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 1, Diamondbacks 1.
+Top of the 6th, Marlins Batting, Tied 1-1, Diamondbacks' Zac Gallen facing 2-3-4 
+t6;1-1;0;---;6,(3-2) BFBBFB;;MIA;Jorge Soler;Zac Gallen;-5%;45%;Walk
+t6;1-1;0;1--;3,(1-1) BFX;O;MIA;Yuli Gurriel;Zac Gallen;5%;50%;Flyball: CF (Deep CF)
+t6;1-1;1;1--;3,(1-1) C1BX;;MIA;Luis Arraez;Zac Gallen;-5%;45%;Single to CF (Line Drive); Soler to 2B
+t6;1-1;1;12-;3,(1-1) B*SX;O;MIA;Bryan De La Cruz;Zac Gallen;7%;51%;Flyball: RF (CF-RF)
+t6;1-1;2;12-;4,(1-2) SFBC;O;MIA;Jean Segura;Zac Gallen;7%;58%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Marlins 1, Diamondbacks 1.
+Bottom of the 6th, Diamondbacks Batting, Tied 1-1, Marlins' Braxton Garrett facing 3-4-5 
+;;;;;;;;;Jon Berti replaces Jean Segura playing 3B batting 6th
+b6;1-1;0;---;3,(1-1) ..CBX;O;ARI;Emmanuel Rivera;Braxton Garrett;-3%;54%;Lineout: LF (Deep LF-CF)
+b6;1-1;1;---;4,(1-2) CS.BX;R;ARI;Christian Walker;Braxton Garrett;18%;72%;Home Run (Fly Ball to Deep LF)
+b6;2-1;1;---;4,(1-2) BCS.X;;ARI;Evan Longoria;Braxton Garrett;2%;74%;Single to LF (Ground Ball thru SS-3B Hole)
+b6;2-1;1;1--;4,(2-1) BF*BX;;ARI;Pavin Smith;Braxton Garrett;6%;80%;Single to RF (Line Drive); Longoria to 3B/Adv on E9
+;;;;;;;;;Andrew Nardi replaces Braxton Garrett pitching
+b6;2-1;1;1-3;7,(2-2) .FS*BBFFX;O;ARI;Nick Ahmed;Andrew Nardi;-6%;74%;Flyball: LF
+b6;2-1;2;1-3;3,(2-0) BBX;R;ARI;Gabriel Moreno;Andrew Nardi;10%;84%;Single to CF (Ground Ball thru SS-2B); Longoria Scores; Smith to 2B
+;;;;;;;;;Lourdes Gurriel Jr. pinch hits for Dominic Fletcher (LF) batting 9th
+b6;3-1;2;12-;7,(3-2) .C*BFB*B>F>B;;ARI;Lourdes Gurriel Jr.;Andrew Nardi;2%;86%;Walk; Smith to 3B; Moreno to 2B
+;;;;;;;;;Alek Thomas pinch runs for Lourdes Gurriel Jr. (PH) batting 9th
+b6;3-1;2;123;1,(0-0) .X;R;ARI;Ketel Marte;Andrew Nardi;6%;92%;Single to SS (Ground Ball); Smith Scores; Moreno to 3B; Thomas to 2B
+b6;4-1;2;123;4,(2-1) CBBX;O;ARI;Corbin Carroll;Andrew Nardi;-2%;89%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;3 runs, 5 hits, 1 error, 3 LOB. Marlins 1, Diamondbacks 4.
+Top of the 7th, Marlins Batting, Behind 1-4, Diamondbacks' Zac Gallen facing 7-8-9 
+;;;;;;;;;Corbin Carroll moves from CF to LF Alek Thomas moves from PR to CF 
+t7;1-4;0;---;4,(0-2) ..CCF*S;O;MIA;Nick Fortes;Zac Gallen;2%;92%;Strikeout Swinging; Fortes out at 1B/C-1B
+t7;1-4;1;---;4,(1-2) CBCX;O;MIA;Jesús Sánchez;Zac Gallen;2%;93%;Flyball: CF (Deep CF-RF)
+t7;1-4;2;---;3,(0-2) CT.X;O;MIA;Joey Wendle;Zac Gallen;1%;94%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 1, Diamondbacks 4.
+Bottom of the 7th, Diamondbacks Batting, Ahead 4-1, Marlins' Chi Chi González facing 3-4-5 
+;;;;;;;;;Chi Chi González replaces Andrew Nardi pitching
+b7;4-1;0;---;2,(1-0) .BX;;ARI;Emmanuel Rivera;Chi Chi González;2%;96%;Double to LF (Line Drive to Deep LF)
+b7;4-1;0;-2-;6,(3-2) CSBBBX;O;ARI;Christian Walker;Chi Chi González;-1%;95%;Flyball: CF (Short CF)
+b7;4-1;1;-2-;3,(0-2) CFC;O;ARI;Evan Longoria;Chi Chi González;-1%;94%;Strikeout Looking
+b7;4-1;2;-2-;8,(3-2) C*BBCFF*BX;R;ARI;Pavin Smith;Chi Chi González;3%;97%;Single to CF (Ground Ball thru Weak SS-2B); Rivera Scores
+b7;5-1;2;1--;2,(0-1) SX;;ARI;Nick Ahmed;Chi Chi González;0%;97%;Single to CF (Ground Ball thru SS-2B); Smith to 2B
+b7;5-1;2;12-;3,(1-1) BFX;O;ARI;Gabriel Moreno;Chi Chi González;-1%;96%;Groundout: SS-2B/Forceout at 2B; Moreno to 1B
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Marlins 1, Diamondbacks 5.
+Top of the 8th, Marlins Batting, Behind 1-5, Diamondbacks' José Ruiz facing 1-2-3 
+;;;;;;;;;José Ruiz replaces Zac Gallen pitching
+t8;1-5;0;---;3,(0-2) .S.FX;;MIA;Jazz Chisholm Jr.;José Ruiz;-2%;94%;Single to CF (Line Drive to Deep LF-CF)
+t8;1-5;0;1--;5,(3-1) CBBBX;OO;MIA;Jorge Soler;José Ruiz;4%;98%;Ground Ball Double Play: SS-2B-1B (SS-3B Hole)
+t8;1-5;2;---;3,(1-1) CBX;;MIA;Yuli Gurriel;José Ruiz;-1%;98%;Single to SS (Ground Ball)
+t8;1-5;2;1--;3,(1-1) C*BX;O;MIA;Luis Arraez;José Ruiz;1%;99%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Marlins 1, Diamondbacks 5.
+Bottom of the 8th, Diamondbacks Batting, Ahead 5-1, Marlins' Chi Chi González facing 9-1-2 
+b8;5-1;0;---;1,(0-0) X;;ARI;Alek Thomas;Chi Chi González;0%;99%;Single to RF (Line Drive)
+b8;5-1;0;1--;3,(1-1) CBX;O;ARI;Ketel Marte;Chi Chi González;0%;99%;Groundout: SS-2B/Forceout at 2B; Marte to 1B
+b8;5-1;1;1--;3,(0-2) CFS;O;ARI;Corbin Carroll;Chi Chi González;0%;99%;Strikeout Swinging
+b8;5-1;2;1--;6,(3-2) CFBB*B>X;O;ARI;Emmanuel Rivera;Chi Chi González;0%;98%;Popfly: SS (Deep SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 1, Diamondbacks 5.
+Top of the 9th, Marlins Batting, Behind 1-5, Diamondbacks' José Ruiz facing 5-6-7 
+t9;1-5;0;---;1,(0-0) X;;MIA;Bryan De La Cruz;José Ruiz;-2%;97%;Single to RF (Line Drive to Short RF Line)
+t9;1-5;0;1--;7,(3-2) CBBCFBX;O;MIA;Jon Berti;José Ruiz;2%;98%;Foul Popfly: 1B (1B into Foul Terr.)
+t9;1-5;1;1--;4,(1-2) CT.BC;O;MIA;Nick Fortes;José Ruiz;1%;100%;Strikeout Looking
+;;;;;;;;;Joe Mantiply replaces José Ruiz pitchingGarrett Hampson pinch hits for Jesús Sánchez (RF) batting 8th
+t9;1-5;2;1--;2,(1-0) ..B>C;;MIA;Garrett Hampson;Joe Mantiply;0%;100%;Defensive Indifference; De La Cruz to 2B
+t9;1-5;2;-2-;3,(1-1) ..B>C.X;R;MIA;Garrett Hampson;Joe Mantiply;-1%;99%;Double to LF (Ground Ball); De La Cruz Scores
+;;;;;;;;;Peyton Burdick pinch hits for Joey Wendle (SS) batting 9th
+t9;2-5;2;-2-;4,(0-2) .CFF.X;O;MIA;Peyton Burdick;Joe Mantiply;1%;100%;Flyball: RF (Deep RF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Marlins 2, Diamondbacks 5.

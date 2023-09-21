@@ -1,0 +1,263 @@
+
+Scorebox Meta
+20230718
+7:05 p.m. Local
+21622
+PNC Park
+135
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CLE-2023.png;/teams/CLE/2023.shtml;5;0;2;1;0;0;0;0;2;10;13;0
+https://cdn.ssref.net/req/202308101/tlogo/br/PIT-2023.png;/teams/PIT/2023.shtml;0;0;0;0;0;1;0;0;0;1;5;1
+
+Batting home
+Connor Joe;/players/j/joeco01.shtml;LF;4;1;1;1;0;0;4;.242;.332;.426;.758;19;12;-0.013; 0.20;0.006;-0.020;-0.00%; 0.02; 0.5;5;0;HR
+Bryan Reynolds;/players/r/reynobr01.shtml;CF;4;0;0;0;0;2;4;.258;.327;.432;.759;18;12;-0.019; 0.18;0.000;-0.019;-0.00%; 0.02; -0.7;2;0;
+Andrew McCutchen;/players/m/mccutan01.shtml;DH;4;0;1;0;0;1;4;.266;.377;.420;.797;17;11;-0.010; 0.10;0.000;-0.011;-0.00%; 0.01; -0.0;;;
+Carlos Santana;/players/s/santaca01.shtml;1B;4;0;1;0;0;0;4;.232;.317;.386;.702;11;7;-0.011; 0.21;0.007;-0.018;-0.00%; 0.02; -0.3;7;0;
+Henry Davis;/players/d/davishe01.shtml;RF;3;0;1;0;1;0;4;.273;.373;.386;.759;17;9;0.026; 0.21;0.031;-0.004; 0.00%; 0.02; 0.1;1;0;GDP
+Jared Triolo;/players/t/triolja01.shtml;3B;3;0;1;0;0;0;3;.298;.359;.333;.693;7;5;-0.022; 0.48;0.004;-0.026;-0.00%; 0.05; -0.1;1;1;
+Endy Rodríguez;/players/r/rodrien01.shtml;C;3;0;0;0;0;3;3;.000;.000;.000;.000;16;11;-0.032; 0.35;0.000;-0.032;-0.00%; 0.04; -1.4;3;0;
+Nick Gonzales;/players/g/gonzani01.shtml;2B;3;0;0;0;0;2;3;.236;.273;.417;.689;14;8;-0.018; 0.22;0.000;-0.018;-0.00%; 0.02; -1.1;3;6;
+Liover Peguero;/players/p/pegueli01.shtml;SS;3;0;0;0;0;3;3;.000;.000;.000;.000;15;10;-0.011; 0.14;0.000;-0.011;-0.00%; 0.01; -0.7;5;1;
+Mitch Keller;/players/k/kellemi03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Angel Perdomo;/players/p/perdoan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Carmen Mlodzinski;/players/m/mlodzca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yohan Ramirez;/players/r/ramiryo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+HR: Connor Joe (7, off Eli Morgan, 6th inn, 0 on, 1 out to Deep LF-CF).
+
+
+TB: Connor Joe 4; Carlos Santana; Andrew McCutchen; Henry Davis; Jared Triolo.
+
+
+GIDP: Henry Davis (2).
+
+
+RBI: Connor Joe (25).
+
+
+Team LOB: 4.
+With RISP: 0 for 3.
+
+Batting away
+Steven Kwan;/players/k/kwanst01.shtml;LF;5;2;2;0;0;0;5;.272;.345;.369;.714;21;13;0.060; 0.27;0.069;-0.009; 0.03%; 0.23; 0.8;1;0;2·2B
+Amed Rosario;/players/r/rosaram01.shtml;SS;4;1;1;1;1;0;5;.262;.306;.359;.665;12;6;0.064; 0.30;0.070;-0.007; 0.03%; 0.26; 0.5;1;3;
+Gabriel Arias;/players/a/ariasga01.shtml;SS;0;0;0;0;0;0;0;.181;.289;.304;.594;;;;;;;;;;0;0;
+José Ramírez;/players/r/ramirjo01.shtml;3B;4;2;2;0;1;0;5;.288;.362;.497;.859;17;10;0.044; 0.29;0.048;-0.004; 0.02%; 0.25; 0.7;0;2;
+Tyler Freeman;/players/f/freemty01.shtml;3B;0;0;0;0;0;0;0;.304;.347;.391;.738;;;;;;;;;;0;2;
+Josh Naylor;/players/n/naylojo01.shtml;1B;5;2;2;6;0;0;5;.311;.351;.524;.875;8;6;0.146; 0.44;0.154;-0.008; 0.07%; 0.38; 3.4;7;0;2·HR
+David Fry;/players/f/fryda01.shtml;1B;0;0;0;0;0;0;0;.273;.333;.400;.733;;;;;;;;;;1;0;
+Andrés Giménez;/players/g/gimenan01.shtml;2B;5;1;3;0;0;2;5;.248;.320;.391;.712;23;16;0.020; 0.16;0.024;-0.005; 0.01%; 0.14; -0.0;3;2;
+Josh Bell;/players/b/belljo02.shtml;DH;5;2;2;2;0;1;5;.232;.323;.386;.708;19;15;0.038; 0.22;0.055;-0.017; 0.02%; 0.19; 1.4;;;HR
+Will Brennan;/players/b/brennwi02.shtml;RF;4;0;0;0;0;0;4;.262;.294;.379;.673;13;11;-0.013; 0.18;0.000;-0.013;-0.01%; 0.16; -1.0;1;0;
+Myles Straw;/players/s/strawmy01.shtml;CF;4;0;1;1;0;0;4;.239;.305;.303;.608;14;10;0.049; 0.18;0.053;-0.003; 0.03%; 0.15; 0.4;1;0;
+Bo Naylor;/players/n/naylobo01.shtml;C;4;0;0;0;0;0;4;.200;.257;.338;.596;14;10;-0.017; 0.15;0.000;-0.017;-0.01%; 0.13; -0.9;12;0;
+Logan Allen;/players/a/allenlo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Eli Morgan;/players/m/morgael01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Stephan;/players/s/stephtr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Enyel De Los Santos;/players/d/delosen01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tim Herrin;/players/h/herriti01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Steven Kwan 2 (24, 2 off Mitch Keller).
+
+
+HR: Josh Naylor 2 (15, 1 off Yohan Ramirez, 9th inn, 1 on, 2 outs to Deep RF Line, 1 off Mitch Keller, 1st inn, 2 on, 0 outs to Deep CF-RF); Josh Bell (10, off Mitch Keller, 3rd inn, 1 on, 1 out to Deep RF Line).
+
+
+TB: Josh Naylor 8; Josh Bell 5; Steven Kwan 4; Andrés Giménez 3; José Ramírez 2; Myles Straw; Amed Rosario.
+
+
+RBI: Josh Naylor 6 (75); Josh Bell 2 (44); Amed Rosario (37); Myles Straw (17).
+
+
+2-out RBI: Josh Naylor 2; Myles Straw.
+
+
+Team LOB: 5.
+With RISP: 3 for 6.
+
+Pitching home
+Mitch Keller;/players/k/kellemi03.shtml; L (9-5); 6 ;10;8;8;2;1;2;3.73;30;102;69;49;5;15;8;19;12;0;19;;;-0.393; 0.34;-0.02%; 0.03; -4.8
+Angel Perdomo;/players/p/perdoan01.shtml;Angel Perdomo; 1 ;0;0;0;0;2;0;3.57;3;12;10;6;2;2;1;0;0;0;;0;0;0.002; 0.03; 0.00%; 0.00; 0.5
+Carmen Mlodzinski;/players/m/mlodzca01.shtml;Carmen Mlodzinski; 1 ;0;0;0;0;0;0;2.77;3;7;4;4;0;0;0;3;2;0;;0;0;0.001; 0.01; 0.00%; 0.00; 0.5
+Yohan Ramirez;/players/r/ramiryo01.shtml;Yohan Ramirez; 1 ;3;2;2;0;0;1;4.25;6;20;14;9;3;2;2;4;3;0;;0;0;-0.001; 0.00; 0.00%; 0.00; -1.5
+
+Pitching away
+Logan Allen;/players/a/allenlo02.shtml; W (4-2); 5 ;1;0;0;1;8;0;3.21;17;77;48;27;8;13;4;4;3;0;72;;;0.097; 0.30; 0.05%; 0.26; 2.6
+Eli Morgan;/players/m/morgael01.shtml;Eli Morgan; 1 ;1;1;1;0;1;1;2.29;4;15;12;7;3;2;2;1;0;0;;0;0;0.001; 0.09; 0.00%; 0.07; -0.5
+Trevor Stephan;/players/s/stephtr01.shtml;Trevor Stephan; 1 ;2;0;0;0;1;0;3.35;5;18;10;5;4;1;3;1;0;0;;0;0;0.007; 0.32; 0.00%; 0.27; 0.5
+Enyel De Los Santos;/players/d/delosen01.shtml;Enyel De Los Santos; 1 ;0;0;0;0;1;0;2.75;3;17;10;7;0;3;1;1;1;0;;0;0;0.004; 0.05; 0.00%; 0.05; 0.5
+Tim Herrin;/players/h/herriti01.shtml;Tim Herrin; 1 ;1;0;0;0;0;0;5.01;3;7;5;5;0;0;3;0;0;0;;0;0;0.000; 0.01; 0.00%; 0.01; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Mitch Keller (4).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Mitch Keller (4).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Adrian Johnson, 1B - Jeremy Riggs, 2B - Junior Valentine, 3B - Manny Gonzalez, LF - (none), RF - (none).
+Time of Game: 2:15.
+Attendance: 21,622.
+Field Condition: Unknown.
+Start Time Weather: 80° F, Wind 8mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Guardians
+1;Steven Kwan;/players/k/kwanst01.shtml;LF
+2;Amed Rosario;/players/r/rosaram01.shtml;SS
+3;José Ramírez;/players/r/ramirjo01.shtml;3B
+4;Josh Naylor;/players/n/naylojo01.shtml;1B
+5;Andrés Giménez;/players/g/gimenan01.shtml;2B
+6;Josh Bell;/players/b/belljo02.shtml;DH
+7;Will Brennan;/players/b/brennwi02.shtml;RF
+8;Myles Straw;/players/s/strawmy01.shtml;CF
+9;Bo Naylor;/players/n/naylobo01.shtml;C
+; Logan Allen;/players/a/allenlo02.shtml;P
+Pirates
+1;Connor Joe;/players/j/joeco01.shtml;LF
+2;Bryan Reynolds;/players/r/reynobr01.shtml;CF
+3;Andrew McCutchen;/players/m/mccutan01.shtml;DH
+4;Carlos Santana;/players/s/santaca01.shtml;1B
+5;Henry Davis;/players/d/davishe01.shtml;RF
+6;Jared Triolo;/players/t/triolja01.shtml;3B
+7;Endy Rodríguez;/players/r/rodrien01.shtml;C
+8;Nick Gonzales;/players/g/gonzani01.shtml;2B
+9;Liover Peguero;/players/p/pegueli01.shtml;SS
+; Mitch Keller;/players/k/kellemi03.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t1;1-0;0;12-;1,(0-0) X;RRR;CLE;Josh Naylor;Mitch Keller;15%;82%;Home Run (Fly Ball to Deep CF-RF); Rosario Scores; Ramírez Scores
+t1;0-0;0;-2-;2,(1-0) BX;R;CLE;Amed Rosario;Mitch Keller;7%;63%;Single to RF (Ground Ball); Kwan Scores
+t1;0-0;0;---;3,(1-1) BFX;;CLE;Steven Kwan;Mitch Keller;6%;56%;Double to RF (Line Drive to Deep CF-RF)
+t3;5-0;1;1--;1,(0-0) 1X;RR;CLE;Josh Bell;Mitch Keller;5%;96%;Home Run (Fly Ball to Deep RF Line); Giménez Scores
+t1;4-0;2;-2-;3,(0-2) CCX;R;CLE;Myles Straw;Mitch Keller;5%;87%;Single to RF (Line Drive to Short RF Line); Bell Scores; Straw to 2B/Adv on E9
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Guardians Batting, Tied 0-0, Pirates' Mitch Keller facing 1-2-3 
+t1;0-0;0;---;3,(1-1) BFX;;CLE;Steven Kwan;Mitch Keller;6%;56%;Double to RF (Line Drive to Deep CF-RF)
+t1;0-0;0;-2-;2,(1-0) BX;R;CLE;Amed Rosario;Mitch Keller;7%;63%;Single to RF (Ground Ball); Kwan Scores
+t1;1-0;0;1--;1,(0-0) X;;CLE;José Ramírez;Mitch Keller;5%;67%;Single to LF (Line Drive); Rosario to 2B
+t1;1-0;0;12-;1,(0-0) X;RRR;CLE;Josh Naylor;Mitch Keller;15%;82%;Home Run (Fly Ball to Deep CF-RF); Rosario Scores; Ramírez Scores
+t1;4-0;0;---;6,(2-2) BFFFBX;;CLE;Andrés Giménez;Mitch Keller;2%;84%;Single to RF (Ground Ball thru 2B-1B)
+t1;4-0;0;1--;2,(0-1) SX;O;CLE;Josh Bell;Mitch Keller;-2%;82%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Bell to 1B
+t1;4-0;1;1--;5,(0-2) CCFFX;O;CLE;Will Brennan;Mitch Keller;-1%;82%;Groundout: 3B-1B; Bell to 2B
+t1;4-0;2;-2-;3,(0-2) CCX;R;CLE;Myles Straw;Mitch Keller;5%;87%;Single to RF (Line Drive to Short RF Line); Bell Scores; Straw to 2B/Adv on E9
+t1;5-0;2;-2-;7,(2-2) FBCBFFX;O;CLE;Bo Naylor;Mitch Keller;-1%;86%;Lineout: SS (Deep SS-2B)
+;;;;;;;;;5 runs, 6 hits, 1 error, 1 LOB. Guardians 5, Pirates 0.
+Bottom of the 1st, Pirates Batting, Behind 0-5, Guardians' Logan Allen facing 1-2-3 
+b1;0-5;0;---;5,(2-2) BCBFX;O;PIT;Connor Joe;Logan Allen;2%;87%;Lineout: SS
+b1;0-5;1;---;4,(1-2) BCCS;O;PIT;Bryan Reynolds;Logan Allen;1%;88%;Strikeout Swinging
+b1;0-5;2;---;6,(3-2) BCBCBT;O;PIT;Andrew McCutchen;Logan Allen;1%;89%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 5, Pirates 0.
+Top of the 2nd, Guardians Batting, Ahead 5-0, Pirates' Mitch Keller facing 1-2-3 
+t2;5-0;0;---;3,(1-1) CBX;O;CLE;Steven Kwan;Mitch Keller;-1%;88%;Groundout: 2B-1B (Deep 2B-1B)
+t2;5-0;1;---;3,(1-1) BSX;O;CLE;Amed Rosario;Mitch Keller;-1%;87%;Flyball: RF (RF Line)
+t2;5-0;2;---;2,(0-1) CX;O;CLE;José Ramírez;Mitch Keller;0%;87%;Lineout: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 5, Pirates 0.
+Bottom of the 2nd, Pirates Batting, Behind 0-5, Guardians' Logan Allen facing 4-5-6 
+b2;0-5;0;---;2,(0-1) CX;O;PIT;Carlos Santana;Logan Allen;2%;89%;Groundout: 1B unassisted (2B-1B)
+b2;0-5;1;---;8,(3-2) BFBFBFFB;;PIT;Henry Davis;Logan Allen;-2%;87%;Walk
+b2;0-5;1;1--;3,(1-1) F*BX;O;PIT;Jared Triolo;Logan Allen;2%;89%;Groundout: SS-2B/Forceout at 2B; Triolo to 1B
+b2;0-5;2;1--;4,(0-2) FCF*S;O;PIT;Endy Rodríguez;Logan Allen;1%;90%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Guardians 5, Pirates 0.
+Top of the 3rd, Guardians Batting, Ahead 5-0, Pirates' Mitch Keller facing 4-5-6 
+t3;5-0;0;---;1,(0-0) X;O;CLE;Josh Naylor;Mitch Keller;-1%;90%;Lineout: LF
+t3;5-0;1;---;4,(2-1) BFBX;;CLE;Andrés Giménez;Mitch Keller;1%;90%;Single to RF (Line Drive to CF-RF)
+t3;5-0;1;1--;1,(0-0) 1X;RR;CLE;Josh Bell;Mitch Keller;5%;96%;Home Run (Fly Ball to Deep RF Line); Giménez Scores
+t3;7-0;1;---;5,(1-2) FBFFX;O;CLE;Will Brennan;Mitch Keller;0%;95%;Lineout: SS (SS-2B)
+t3;7-0;2;---;2,(1-0) BX;O;CLE;Myles Straw;Mitch Keller;0%;95%;Lineout: CF (Deep CF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Guardians 7, Pirates 0.
+Bottom of the 3rd, Pirates Batting, Behind 0-7, Guardians' Logan Allen facing 8-9-1 
+b3;0-7;0;---;5,(2-2) TBBSC;O;PIT;Nick Gonzales;Logan Allen;1%;96%;Strikeout Looking
+b3;0-7;1;---;5,(2-2) CSBBS;O;PIT;Liover Peguero;Logan Allen;1%;97%;Strikeout Swinging
+b3;0-7;2;---;1,(0-0) X;O;PIT;Connor Joe;Logan Allen;0%;97%;Foul Popfly: C (Behind Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 7, Pirates 0.
+Top of the 4th, Guardians Batting, Ahead 7-0, Pirates' Mitch Keller facing 9-1-2 
+t4;7-0;0;---;5,(2-2) BBFFX;O;CLE;Bo Naylor;Mitch Keller;0%;97%;Flyball: LF
+t4;7-0;1;---;4,(1-2) CCBX;;CLE;Steven Kwan;Mitch Keller;0%;97%;Double to RF (Line Drive to RF Line)
+t4;7-0;1;-2-;4,(3-0) BBBB;;CLE;Amed Rosario;Mitch Keller;0%;97%;Walk
+t4;7-0;1;12-;1,(0-0) B;;CLE;José Ramírez;Mitch Keller;1%;98%;Wild Pitch; Kwan to 3B; Rosario to 2B
+t4;7-0;1;-23;6,(3-2) B.B*BCFB;;CLE;José Ramírez;Mitch Keller;0%;98%;Walk
+t4;7-0;1;123;2,(1-0) BX;RO;CLE;Josh Naylor;Mitch Keller;0%;98%;Groundout: 2B-1B; Kwan Scores; Rosario to 3B; Ramírez to 2B
+t4;8-0;2;-23;5,(2-2) BF*B*SS;O;CLE;Andrés Giménez;Mitch Keller;0%;98%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Guardians 8, Pirates 0.
+Bottom of the 4th, Pirates Batting, Behind 0-8, Guardians' Logan Allen facing 2-3-4 
+b4;0-8;0;---;6,(3-2) BFBBFS;O;PIT;Bryan Reynolds;Logan Allen;0%;98%;Strikeout Swinging
+b4;0-8;1;---;7,(3-2) BBCCFBX;O;PIT;Andrew McCutchen;Logan Allen;0%;99%;Groundout: 3B-1B (SS-3B Hole)
+b4;0-8;2;---;4,(2-1) BBCX;O;PIT;Carlos Santana;Logan Allen;0%;99%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 8, Pirates 0.
+Top of the 5th, Guardians Batting, Ahead 8-0, Pirates' Mitch Keller facing 6-7-8 
+t5;8-0;0;---;5,(2-2) CBSBX;;CLE;Josh Bell;Mitch Keller;0%;99%;Single to RF (Line Drive)
+t5;8-0;0;1--;1,(0-0) X;O;CLE;Will Brennan;Mitch Keller;0%;99%;Foul Popfly: 3B (3B into Foul Terr.)
+t5;8-0;1;1--;5,(1-2) BCFFX;O;CLE;Myles Straw;Mitch Keller;0%;99%;Groundout: SS-2B/Forceout at 2B; Straw to 1B
+t5;8-0;2;1--;1,(0-0) X;O;CLE;Bo Naylor;Mitch Keller;0%;98%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 8, Pirates 0.
+Bottom of the 5th, Pirates Batting, Behind 0-8, Guardians' Logan Allen facing 5-6-7 
+b5;0-8;0;---;3,(1-1) BFX;O;PIT;Henry Davis;Logan Allen;0%;99%;Lineout: CF (Deep CF)
+b5;0-8;1;---;1,(0-0) X;;PIT;Jared Triolo;Logan Allen;0%;98%;Single to LF (Line Drive)
+b5;0-8;1;1--;6,(2-2) BBCFF*S;O;PIT;Endy Rodríguez;Logan Allen;0%;99%;Strikeout Swinging
+b5;0-8;2;1--;7,(3-2) F*BBFB>F>S;O;PIT;Nick Gonzales;Logan Allen;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 8, Pirates 0.
+Top of the 6th, Guardians Batting, Ahead 8-0, Pirates' Mitch Keller facing 1-2-3 
+t6;8-0;0;---;6,(2-2) CCBBFX;O;CLE;Steven Kwan;Mitch Keller;0%;99%;Flyball: LF
+t6;8-0;1;---;2,(0-1) CX;O;CLE;Amed Rosario;Mitch Keller;0%;99%;Lineout: CF (Deep CF)
+t6;8-0;2;---;5,(2-2) BFFBX;O;CLE;José Ramírez;Mitch Keller;0%;99%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 8, Pirates 0.
+Bottom of the 6th, Pirates Batting, Behind 0-8, Guardians' Eli Morgan facing 9-1-2 
+;;;;;;;;;Eli Morgan replaces Logan Allen pitching
+b6;0-8;0;---;4,(1-2) .BCFC;O;PIT;Liover Peguero;Eli Morgan;0%;99%;Strikeout Looking
+b6;0-8;1;---;7,(2-2) FSBFBFX;R;PIT;Connor Joe;Eli Morgan;-1%;99%;Home Run (Fly Ball to Deep LF-CF)
+b6;1-8;1;---;3,(0-2) SSX;O;PIT;Bryan Reynolds;Eli Morgan;0%;99%;Groundout: 2B-1B
+b6;1-8;2;---;1,(0-0) X;O;PIT;Andrew McCutchen;Eli Morgan;0%;99%;Groundout: 3B-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Guardians 8, Pirates 1.
+Top of the 7th, Guardians Batting, Ahead 8-1, Pirates' Angel Perdomo facing 4-5-6 
+;;;;;;;;;Angel Perdomo replaces Mitch Keller pitching
+t7;8-1;0;---;1,(0-0) .X;O;CLE;Josh Naylor;Angel Perdomo;0%;99%;Groundout: 2B-1B (2B-1B)
+t7;8-1;1;---;4,(1-2) BCF.S;O;CLE;Andrés Giménez;Angel Perdomo;0%;99%;Strikeout Swinging
+t7;8-1;2;---;7,(1-2) FSFFBFC;O;CLE;Josh Bell;Angel Perdomo;0%;99%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 8, Pirates 1.
+Bottom of the 7th, Pirates Batting, Behind 1-8, Guardians' Trevor Stephan facing 4-5-6 
+;;;;;;;;;Trevor Stephan replaces Eli Morgan pitching
+b7;1-8;0;---;4,(2-1) .BS.BX;;PIT;Carlos Santana;Trevor Stephan;-1%;98%;Single to RF (Ground Ball thru 2B-1B)
+b7;1-8;0;1--;3,(1-1) BSX;;PIT;Henry Davis;Trevor Stephan;-1%;97%;Single to LF (Ground Ball); Santana to 2B
+b7;1-8;0;12-;3,(1-1) C*BX;O;PIT;Jared Triolo;Trevor Stephan;1%;98%;Foul Popfly: RF (RF into Foul Terr.); Santana to 3B; Davis to 2B
+b7;1-8;1;-23;6,(3-2) BSF*BBS;O;PIT;Endy Rodríguez;Trevor Stephan;1%;99%;Strikeout Swinging
+b7;1-8;2;-23;2,(1-0) BX;O;PIT;Nick Gonzales;Trevor Stephan;1%;100%;Groundout: SS-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Guardians 8, Pirates 1.
+Top of the 8th, Guardians Batting, Ahead 8-1, Pirates' Carmen Mlodzinski facing 7-8-9 
+;;;;;;;;;Carmen Mlodzinski replaces Angel Perdomo pitching
+t8;8-1;0;---;2,(1-0) .BX;O;CLE;Will Brennan;Carmen Mlodzinski;0%;100%;Lineout: SS (Deep SS)
+t8;8-1;1;---;4,(2-1) TBBX;O;CLE;Myles Straw;Carmen Mlodzinski;0%;100%;Lineout: LF (Deep LF)
+t8;8-1;2;---;1,(0-0) X;O;CLE;Bo Naylor;Carmen Mlodzinski;0%;99%;Popfly: 2B (Short CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 8, Pirates 1.
+Bottom of the 8th, Pirates Batting, Behind 1-8, Guardians' Enyel De Los Santos facing 9-1-2 
+;;;;;;;;;Enyel De Los Santos replaces Trevor Stephan pitching
+b8;1-8;0;---;6,(2-2) .BFFFBC;O;PIT;Liover Peguero;Enyel De Los Santos;0%;100%;Strikeout Looking
+b8;1-8;1;---;6,(3-2) BBCBFX;O;PIT;Connor Joe;Enyel De Los Santos;0%;100%;Lineout: LF (Deep LF)
+b8;1-8;2;---;5,(2-2) CBBFX;O;PIT;Bryan Reynolds;Enyel De Los Santos;0%;100%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 8, Pirates 1.
+Top of the 9th, Guardians Batting, Ahead 8-1, Pirates' Yohan Ramirez facing 1-2-3 
+;;;;;;;;;Yohan Ramirez replaces Carmen Mlodzinski pitching
+t9;8-1;0;---;5,(3-1) .BBCBX;O;CLE;Steven Kwan;Yohan Ramirez;0%;100%;Lineout: SS
+t9;8-1;1;---;1,(0-0) X;O;CLE;Amed Rosario;Yohan Ramirez;0%;100%;Lineout: 2B (Deep 2B)
+t9;8-1;2;---;3,(1-1) BCX;;CLE;José Ramírez;Yohan Ramirez;0%;100%;Single to RF (Line Drive)
+t9;8-1;2;1--;3,(1-1) BSX;RR;CLE;Josh Naylor;Yohan Ramirez;0%;100%;Home Run (Fly Ball to Deep RF Line); Ramírez Scores
+t9;10-1;2;---;4,(0-2) SSFX;;CLE;Andrés Giménez;Yohan Ramirez;0%;100%;Single to CF (Ground Ball)
+t9;10-1;2;1--;4,(1-2) BFFX;O;CLE;Josh Bell;Yohan Ramirez;0%;100%;Groundout: P-2B-1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Guardians 10, Pirates 1.
+Bottom of the 9th, Pirates Batting, Behind 1-10, Guardians' Tim Herrin facing 3-4-5 
+;;;;;;;;;Tim Herrin replaces Enyel De Los Santos pitchingDavid Fry replaces Josh Naylor playing 1B batting 4thTyler Freeman replaces José Ramírez playing 3B batting 3rdGabriel Arias replaces Amed Rosario playing SS batting 2nd
+b9;1-10;0;---;3,(0-2) ....FFX;;PIT;Andrew McCutchen;Tim Herrin;0%;100%;Single to LF (Ground Ball)
+b9;1-10;0;1--;1,(0-0) X;O;PIT;Carlos Santana;Tim Herrin;0%;100%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Santana to 1B
+b9;1-10;1;1--;3,(2-0) BBX;OO;PIT;Henry Davis;Tim Herrin;0%;100%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Guardians 10, Pirates 1.

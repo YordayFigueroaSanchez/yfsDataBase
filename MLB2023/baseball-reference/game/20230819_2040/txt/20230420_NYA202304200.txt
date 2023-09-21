@@ -1,0 +1,280 @@
+
+Scorebox Meta
+20230420
+4:05 p.m. Local
+39315
+Yankee Stadium III
+169
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;0;0;0;2;0;1;0;0;3;7;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;5;0;0;0;0;0;3;1;X;9;9;0
+
+Batting home
+Anthony Volpe;/players/v/volpean01.shtml;SS;3;1;0;0;2;2;5;.193;.343;.298;.641;26;13;0.027; 0.35;0.044;-0.017; 0.02%; 0.35; -0.3;0;2;
+Aaron Judge;/players/j/judgeaa01.shtml;RF;4;2;1;0;1;2;5;.273;.383;.576;.958;19;11;0.064; 0.47;0.088;-0.024; 0.04%; 0.47; 0.5;2;0;
+Franchy Cordero;/players/c/cordefr02.shtml;RF;0;0;0;0;0;0;0;.200;.238;.525;.763;;;;;;;;;;0;0;
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;3;2;3;1;2;0;5;.344;.449;.578;1.027;22;11;0.080; 0.47;0.080;0.000; 0.05%; 0.47; 2.2;8;0;
+Gleyber Torres;/players/t/torregl01.shtml;DH;4;1;1;0;1;1;5;.250;.395;.417;.811;20;9;-0.036; 0.57;0.023;-0.060;-0.02%; 0.57; 0.2;;;
+DJ LeMahieu;/players/l/lemahdj01.shtml;3B;3;2;1;1;1;1;5;.250;.344;.482;.826;20;9;0.099; 0.64;0.111;-0.012; 0.06%; 0.64; 1.3;0;0;2B,HBP
+Oswald Peraza;/players/p/perazos02.shtml;2B;4;1;1;2;1;2;5;.286;.500;.286;.786;23;15;0.045; 0.63;0.074;-0.029; 0.03%; 0.64; 0.8;1;4;
+Oswaldo Cabrera;/players/c/cabreos01.shtml;LF;4;0;0;0;1;2;5;.228;.250;.263;.513;14;13;-0.076; 0.54;0.000;-0.076;-0.05%; 0.54; -2.1;2;0;GDP,IW
+Jose Trevino;/players/t/trevijo01.shtml;C;4;0;1;3;1;0;5;.220;.256;.341;.597;20;12;0.132; 0.59;0.157;-0.025; 0.08%; 0.59; 0.9;10;0;2B
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;CF;3;0;1;2;1;0;4;.138;.167;.138;.305;19;10;0.036; 0.34;0.052;-0.015; 0.02%; 0.35; 1.5;3;0;SB
+Nestor Cortes;/players/c/cortene01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Ron Marinaccio;/players/m/marinro01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Wandy Peralta;/players/p/peralwa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ian Hamilton;/players/h/hamilia01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Greg Weissert;/players/w/weissgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jose Trevino (2, off Patrick Sandoval); DJ LeMahieu (5, off Jimmy Herget).
+
+
+IBB: Oswaldo Cabrera (1, by Jimmy Herget).
+
+
+HBP: DJ LeMahieu (2, by Tucker Davidson).
+
+
+TB: Anthony Rizzo 3; DJ LeMahieu 2; Jose Trevino 2; Aaron Judge; Isiah Kiner-Falefa; Oswald Peraza; Gleyber Torres.
+
+
+GIDP: Oswaldo Cabrera (2).
+
+
+RBI: Jose Trevino 3 (7); Isiah Kiner-Falefa 2 (2); Oswald Peraza 2 (2); DJ LeMahieu (7); Anthony Rizzo (10).
+
+
+2-out RBI: Jose Trevino 3; Isiah Kiner-Falefa 2.
+
+
+Team LOB: 11.
+With RISP: 6 for 18.
+
+Batting away
+Taylor Ward;/players/w/wardta01.shtml;LF;4;0;0;1;0;2;5;.224;.310;.329;.639;24;16;-0.114; 1.09;0.000;-0.114;-0.07%; 1.08; -1.1;0;0;SF
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;3;0;0;0;1;0;4;.269;.364;.478;.841;12;7;-0.041; 0.94;0.022;-0.063;-0.02%; 0.93; -0.8;;;
+Mike Trout;/players/t/troutmi01.shtml;CF;4;0;1;0;0;1;4;.299;.427;.522;.949;10;7;0.007; 1.07;0.054;-0.047; 0.00%; 1.06; -0.2;1;0;
+Anthony Rendon;/players/r/rendoan01.shtml;3B;4;0;0;0;0;2;4;.256;.373;.282;.655;14;10;-0.155; 1.52;0.000;-0.155;-0.09%; 1.50; -1.3;1;3;
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;4;0;1;0;0;1;4;.264;.354;.500;.854;16;9;-0.008; 0.28;0.013;-0.020;-0.01%; 0.28; -0.4;1;0;
+Brandon Drury;/players/d/drurybr01.shtml;1B;4;1;1;0;0;1;4;.190;.222;.293;.515;14;9;-0.009; 0.38;0.021;-0.030;-0.01%; 0.38; -0.1;7;0;
+Luis Rengifo;/players/r/rengilu01.shtml;2B;2;2;1;0;2;0;4;.191;.345;.277;.621;20;11;0.122; 0.58;0.124;-0.002; 0.07%; 0.57; 1.8;3;2;2B
+Logan O'Hoppe;/players/o/ohopplo01.shtml;C;4;0;3;2;0;0;4;.283;.339;.547;.886;13;9;0.166; 0.97;0.187;-0.021; 0.10%; 0.96; 2.1;10;0;2B
+Matt Thaiss;/players/t/thaisma01.shtml;PR;0;0;0;0;0;0;0;.000;.250;.000;.250;;;;;;;;;;;;
+Zach Neto;/players/n/netoza01.shtml;SS;3;0;0;0;0;2;4;.136;.240;.227;.467;14;9;-0.100; 1.18;0.023;-0.123;-0.06%; 1.17; -1.5;1;2;HBP,GDP
+Patrick Sandoval;/players/s/sandopa02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Tucker Davidson;/players/d/davidtu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jimmy Herget;/players/h/hergeji01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Aaron Loup;/players/l/loupaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Luis Rengifo (1, off Nestor Cortes); Logan O'Hoppe (2, off Ron Marinaccio).
+
+
+SF: Taylor Ward (1, off Nestor Cortes).
+
+
+HBP: Zach Neto (3, by Nestor Cortes).
+
+
+TB: Logan O'Hoppe 4; Luis Rengifo 2; Brandon Drury; Hunter Renfroe; Mike Trout.
+
+
+GIDP: Zach Neto (3).
+
+
+RBI: Logan O'Hoppe 2 (13); Taylor Ward (8).
+
+
+Team LOB: 7.
+With RISP: 2 for 8.
+
+Pitching home
+Nestor Cortes;/players/c/cortene01.shtml; W (3-0); 6 ;4;3;3;2;7;0;3.09;25;94;60;37;8;15;5;10;2;0;57;;;0.080; 0.73; 0.05%; 0.73; 0.6
+Ron Marinaccio;/players/m/marinro01.shtml; H (3); 0.2;1;0;0;0;1;0;1.04;3;11;8;5;0;3;2;0;0;0;;1;1;-0.008; 1.87;-0.01%; 1.89; -0.4
+Wandy Peralta;/players/p/peralwa01.shtml; H (3); 0.1;1;0;0;1;0;0;1.23;3;6;2;2;0;0;1;1;0;0;;1;0;0.043; 2.87; 0.03%; 2.90; 0.3
+Ian Hamilton;/players/h/hamilia01.shtml;Ian Hamilton; 1 ;0;0;0;0;0;0;1.69;3;11;8;7;0;1;2;1;0;0;;0;0;0.012; 0.16; 0.01%; 0.16; 0.5
+Greg Weissert;/players/w/weissgr01.shtml;Greg Weissert; 1 ;1;0;0;0;1;0;0.00;3;15;9;5;2;2;2;0;0;0;;0;0;0.003; 0.09; 0.00%; 0.09; 0.5
+
+Pitching away
+Patrick Sandoval;/players/s/sandopa02.shtml; L (1-1); 4 ;4;5;5;6;5;0;3.38;22;93;50;22;12;16;6;5;4;0;33;;;-0.312; 0.73;-0.18%; 0.72; -3.0
+Tucker Davidson;/players/d/davidtu01.shtml;Tucker Davidson; 2 ;0;1;1;2;3;0;2.84;8;38;21;6;3;12;2;0;0;0;;0;0;0.023; 0.38; 0.01%; 0.38; 0.6
+Jimmy Herget;/players/h/hergeji01.shtml;Jimmy Herget; 1 ;2;2;2;2;0;0;6.23;7;22;13;8;1;4;3;2;2;0;;1;1;-0.079; 0.47;-0.05%; 0.46; -2.1
+Aaron Loup;/players/l/loupaa01.shtml;Aaron Loup; 1 ;3;1;1;1;2;0;6.75;7;30;19;8;3;8;2;2;1;0;;0;0;-0.003; 0.03;-0.00%; 0.03; -0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Tucker Davidson (1; DJ LeMahieu); Nestor Cortes (3; Zach Neto).
+IBB: Jimmy Herget (1; Oswaldo Cabrera).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Tucker Davidson (1; DJ LeMahieu); Nestor Cortes (3; Zach Neto).
+IBB: Jimmy Herget (1; Oswaldo Cabrera).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Will Little, 1B - Ryan Additon, 2B - Dan Merzel, 3B - Lance Barksdale, LF - (none), RF - (none).
+Time of Game: 2:49.
+Attendance: 39,315.
+Field Condition: Unknown.
+Start Time Weather: 63° F, Wind 7mph out to Leftfield, Sunny, No Precipitation.
+
+div_lineups
+Angels
+1;Taylor Ward;/players/w/wardta01.shtml;LF
+2;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+3;Mike Trout;/players/t/troutmi01.shtml;CF
+4;Anthony Rendon;/players/r/rendoan01.shtml;3B
+5;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+6;Brandon Drury;/players/d/drurybr01.shtml;1B
+7;Luis Rengifo;/players/r/rengilu01.shtml;2B
+8;Logan O'Hoppe;/players/o/ohopplo01.shtml;C
+9;Zach Neto;/players/n/netoza01.shtml;SS
+; Patrick Sandoval;/players/s/sandopa02.shtml;P
+Yankees
+1;Anthony Volpe;/players/v/volpean01.shtml;SS
+2;Aaron Judge;/players/j/judgeaa01.shtml;RF
+3;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+4;Gleyber Torres;/players/t/torregl01.shtml;DH
+5;DJ LeMahieu;/players/l/lemahdj01.shtml;3B
+6;Oswald Peraza;/players/p/perazos02.shtml;2B
+7;Oswaldo Cabrera;/players/c/cabreos01.shtml;LF
+8;Jose Trevino;/players/t/trevijo01.shtml;C
+9;Isiah Kiner-Falefa;/players/k/kineris01.shtml;CF
+; Nestor Cortes;/players/c/cortene01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;2-0;2;123;6,(3-2) SBFBB>X;RRR;NYY;Jose Trevino;Patrick Sandoval;15%;90%;Double to LF (Line Drive to Deep LF-CF); Rizzo Scores; LeMahieu Scores; Peraza Scores
+t7;2-5;0;1--;1,(0-0) .X;R;LAA;Logan O'Hoppe;Ron Marinaccio;-12%;73%;Double to LF (Ground Ball); Rengifo Scores
+t7;3-5;2;123;2,(1-0) *BX;O;LAA;Anthony Rendon;Wandy Peralta;12%;89%;Flyball: LF (Deep LF)
+b1;0-0;0;1--;4,(2-1) BC*BX;;NYY;Aaron Judge;Patrick Sandoval;9%;67%;Single to LF (Ground Ball); Volpe to 3B
+b1;1-0;1;123;6,(3-2) BC*BSBB;R;NYY;Oswald Peraza;Patrick Sandoval;7%;80%;Walk; Judge Scores; Rizzo to 3B; LeMahieu to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, Yankees' Nestor Cortes facing 1-2-3 
+t1;0-0;0;---;8,(3-2) CBBBCFFC;O;LAA;Taylor Ward;Nestor Cortes;2%;52%;Strikeout Looking
+t1;0-0;1;---;1,(0-0) X;O;LAA;Shohei Ohtani;Nestor Cortes;2%;54%;Foul Popfly: P
+t1;0-0;2;---;3,(1-1) BCX;O;LAA;Mike Trout;Nestor Cortes;1%;55%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Yankees 0.
+Bottom of the 1st, Yankees Batting, Tied 0-0, Angels' Patrick Sandoval facing 1-2-3 
+b1;0-0;0;---;7,(3-2) CBCFBBB;;NYY;Anthony Volpe;Patrick Sandoval;4%;58%;Walk
+b1;0-0;0;1--;4,(2-1) BC*BX;;NYY;Aaron Judge;Patrick Sandoval;9%;67%;Single to LF (Ground Ball); Volpe to 3B
+b1;0-0;0;1-3;3,(1-1) BSX;R;NYY;Anthony Rizzo;Patrick Sandoval;5%;72%;Single to CF (Line Drive to Deep CF); Volpe Scores; Judge to 2B
+b1;1-0;0;12-;1,(0-0) X;O;NYY;Gleyber Torres;Patrick Sandoval;-4%;68%;Lineout: 3B
+b1;1-0;1;12-;4,(3-0) BBBB;;NYY;DJ LeMahieu;Patrick Sandoval;5%;73%;Walk; Judge to 3B; Rizzo to 2B
+b1;1-0;1;123;6,(3-2) BC*BSBB;R;NYY;Oswald Peraza;Patrick Sandoval;7%;80%;Walk; Judge Scores; Rizzo to 3B; LeMahieu to 2B
+b1;2-0;1;123;3,(0-2) CSC;O;NYY;Oswaldo Cabrera;Patrick Sandoval;-5%;75%;Strikeout Looking
+b1;2-0;2;123;6,(3-2) SBFBB>X;RRR;NYY;Jose Trevino;Patrick Sandoval;15%;90%;Double to LF (Line Drive to Deep LF-CF); Rizzo Scores; LeMahieu Scores; Peraza Scores
+b1;5-0;2;-2-;5,(2-2) CBBCX;O;NYY;Isiah Kiner-Falefa;Patrick Sandoval;-1%;89%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;5 runs, 3 hits, 0 errors, 1 LOB. Angels 0, Yankees 5.
+Top of the 2nd, Angels Batting, Behind 0-5, Yankees' Nestor Cortes facing 4-5-6 
+t2;0-5;0;---;5,(2-2) CBFBS;O;LAA;Anthony Rendon;Nestor Cortes;1%;91%;Strikeout Swinging
+t2;0-5;1;---;6,(2-2) FCBBFS;O;LAA;Hunter Renfroe;Nestor Cortes;1%;92%;Strikeout Swinging
+t2;0-5;2;---;2,(0-1) FX;O;LAA;Brandon Drury;Nestor Cortes;1%;92%;Flyball: RF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Yankees 5.
+Bottom of the 2nd, Yankees Batting, Ahead 5-0, Angels' Patrick Sandoval facing 1-2-3 
+b2;5-0;0;---;6,(3-2) FFBBBB;;NYY;Anthony Volpe;Patrick Sandoval;1%;93%;Walk
+b2;5-0;0;1--;4,(1-2) CBCT;O;NYY;Aaron Judge;Patrick Sandoval;-1%;92%;Strikeout Swinging
+b2;5-0;1;1--;4,(1-2) BCFX;;NYY;Anthony Rizzo;Patrick Sandoval;1%;93%;Single to LF (Ground Ball thru SS-3B Hole); Volpe to 2B
+b2;5-0;1;12-;4,(2-1) BFBX;O;NYY;Gleyber Torres;Patrick Sandoval;-1%;92%;Lineout: SS (Deep SS)
+b2;5-0;2;12-;1,(0-0) X;O;NYY;DJ LeMahieu;Patrick Sandoval;-1%;91%;Groundout: P-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Angels 0, Yankees 5.
+Top of the 3rd, Angels Batting, Behind 0-5, Yankees' Nestor Cortes facing 7-8-9 
+t3;0-5;0;---;6,(3-2) BBFSB*B;;LAA;Luis Rengifo;Nestor Cortes;-2%;89%;Walk
+t3;0-5;0;1--;5,(2-2) FFBBX;O;LAA;Logan O'Hoppe;Nestor Cortes;2%;91%;Foul Popfly: 1B
+t3;0-5;1;1--;1,(0-0) 1H;;LAA;Zach Neto;Nestor Cortes;-2%;88%;Hit By Pitch; Rengifo to 2B
+t3;0-5;1;12-;3,(1-1) BFX;O;LAA;Taylor Ward;Nestor Cortes;3%;91%;Flyball: CF (Deep CF); Rengifo to 3B
+t3;0-5;2;1-3;7,(2-2) BSCBFFX;O;LAA;Shohei Ohtani;Nestor Cortes;3%;93%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Angels 0, Yankees 5.
+Bottom of the 3rd, Yankees Batting, Ahead 5-0, Angels' Patrick Sandoval facing 6-7-8 
+b3;5-0;0;---;4,(1-2) CSBS;O;NYY;Oswald Peraza;Patrick Sandoval;-1%;93%;Strikeout Swinging
+b3;5-0;1;---;6,(1-2) FFFBFX;O;NYY;Oswaldo Cabrera;Patrick Sandoval;0%;93%;Groundout: 3B-1B (SS-3B Hole)
+b3;5-0;2;---;5,(3-1) BBSBB;;NYY;Jose Trevino;Patrick Sandoval;0%;93%;Walk
+b3;5-0;2;1--;3,(1-1) C*BX;O;NYY;Isiah Kiner-Falefa;Patrick Sandoval;-1%;92%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 0, Yankees 5.
+Top of the 4th, Angels Batting, Behind 0-5, Yankees' Nestor Cortes facing 3-4-5 
+t4;0-5;0;---;4,(1-2) CBS.T;O;LAA;Mike Trout;Nestor Cortes;1%;94%;Strikeout Swinging
+t4;0-5;1;---;4,(2-2) FFVBX;O;LAA;Anthony Rendon;Nestor Cortes;1%;94%;Flyball: RF (Short CF-RF)
+t4;0-5;2;---;6,(3-2) CBFBBX;O;LAA;Hunter Renfroe;Nestor Cortes;0%;95%;Lineout: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Yankees 5.
+Bottom of the 4th, Yankees Batting, Ahead 5-0, Angels' Patrick Sandoval facing 1-2-3 
+b4;5-0;0;---;5,(2-2) BSBSS;O;NYY;Anthony Volpe;Patrick Sandoval;0%;94%;Strikeout Swinging
+b4;5-0;1;---;3,(0-2) CSX;O;NYY;Aaron Judge;Patrick Sandoval;0%;94%;Groundout: 3B-1B (SS-3B Hole)
+b4;5-0;2;---;4,(3-0) BBBB;;NYY;Anthony Rizzo;Patrick Sandoval;0%;94%;Walk
+b4;5-0;2;1--;5,(2-2) BBCCS;O;NYY;Gleyber Torres;Patrick Sandoval;0%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 0, Yankees 5.
+Top of the 5th, Angels Batting, Behind 0-5, Yankees' Nestor Cortes facing 6-7-8 
+t5;0-5;0;---;4,(2-1) BCBX;;LAA;Brandon Drury;Nestor Cortes;-2%;92%;Single to 3B (Ground Ball)
+t5;0-5;0;1--;1,(0-0) X;;LAA;Luis Rengifo;Nestor Cortes;-6%;86%;Double to RF (Fly Ball to Deep RF Line); Drury to 3B
+t5;0-5;0;-23;3,(1-1) BSX;R;LAA;Logan O'Hoppe;Nestor Cortes;-6%;80%;Single to LF (Line Drive); Drury Scores; Rengifo to 3B
+t5;1-5;0;1-3;3,(0-2) CFC;O;LAA;Zach Neto;Nestor Cortes;5%;85%;Strikeout Looking
+t5;1-5;1;1-3;2,(0-1) FX;RO;LAA;Taylor Ward;Nestor Cortes;1%;87%;Flyball: CF/Sacrifice Fly (Deep CF); Rengifo Scores
+t5;2-5;2;1--;1,(0-0) X;O;LAA;Shohei Ohtani;Nestor Cortes;2%;89%;Groundout: 2B-1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Angels 2, Yankees 5.
+Bottom of the 5th, Yankees Batting, Ahead 5-2, Angels' Tucker Davidson facing 5-6-7 
+;;;;;;;;;Tucker Davidson replaces Patrick Sandoval pitching
+b5;5-2;0;---;5,(2-2) .CBBCH;;NYY;DJ LeMahieu;Tucker Davidson;1%;90%;Hit By Pitch
+b5;5-2;0;1--;6,(2-2) CBBCFC;O;NYY;Oswald Peraza;Tucker Davidson;-1%;89%;Strikeout Looking
+b5;5-2;1;1--;2,(0-1) CX;OO;NYY;Oswaldo Cabrera;Tucker Davidson;-2%;87%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 2, Yankees 5.
+Top of the 6th, Angels Batting, Behind 2-5, Yankees' Nestor Cortes facing 3-4-5 
+t6;2-5;0;---;2,(1-0) BX;O;LAA;Mike Trout;Nestor Cortes;2%;89%;Flyball: LF (Deep LF)
+t6;2-5;1;---;3,(0-2) CF.S;O;LAA;Anthony Rendon;Nestor Cortes;2%;90%;Strikeout Swinging
+t6;2-5;2;---;2,(1-0) BX;;LAA;Hunter Renfroe;Nestor Cortes;-1%;89%;Single to LF (Ground Ball thru SS-3B Hole)
+t6;2-5;2;1--;5,(2-2) CBFBC;O;LAA;Brandon Drury;Nestor Cortes;2%;91%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 2, Yankees 5.
+Bottom of the 6th, Yankees Batting, Ahead 5-2, Angels' Tucker Davidson facing 8-9-1 
+b6;5-2;0;---;3,(0-2) CFX;O;NYY;Jose Trevino;Tucker Davidson;-1%;91%;Groundout: 2B-1B (2B-1B)
+b6;5-2;1;---;6,(3-2) BBBCCB;;NYY;Isiah Kiner-Falefa;Tucker Davidson;1%;91%;Walk
+b6;5-2;1;1--;5,(2-2) CBFBS;O;NYY;Anthony Volpe;Tucker Davidson;-1%;90%;Strikeout Swinging
+b6;5-2;2;1--;4,(1-2) SCB>*B;;NYY;Aaron Judge;Tucker Davidson;0%;91%;Kiner-Falefa Steals 2B
+b6;5-2;2;-2-;5,(2-2) SCB>*B.S;O;NYY;Aaron Judge;Tucker Davidson;-1%;90%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 2, Yankees 5.
+Top of the 7th, Angels Batting, Behind 2-5, Yankees' Nestor Cortes facing 7-8-9 
+t7;2-5;0;---;7,(3-2) SFBBBFB;;LAA;Luis Rengifo;Nestor Cortes;-4%;85%;Walk
+;;;;;;;;;Ron Marinaccio replaces Nestor Cortes pitching
+t7;2-5;0;1--;1,(0-0) .X;R;LAA;Logan O'Hoppe;Ron Marinaccio;-12%;73%;Double to LF (Ground Ball); Rengifo Scores
+t7;3-5;0;-2-;4,(1-2) BCFC;O;LAA;Zach Neto;Ron Marinaccio;6%;79%;Strikeout Looking
+t7;3-5;1;-2-;6,(2-2) BCFFBX;O;LAA;Taylor Ward;Ron Marinaccio;5%;85%;Groundout: SS-1B
+;;;;;;;;;Wandy Peralta replaces Ron Marinaccio pitching
+t7;3-5;2;-2-;3,(3-0) .V*BBB;;LAA;Shohei Ohtani;Wandy Peralta;-2%;82%;Walk
+t7;3-5;2;12-;1,(0-0) X;;LAA;Mike Trout;Wandy Peralta;-5%;77%;Single to 2B (Ground Ball to SS-2B); O'Hoppe to 3B; Ohtani to 2B
+t7;3-5;2;123;2,(1-0) *BX;O;LAA;Anthony Rendon;Wandy Peralta;12%;89%;Flyball: LF (Deep LF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 3 LOB. Angels 3, Yankees 5.
+Bottom of the 7th, Yankees Batting, Ahead 5-3, Angels' Tucker Davidson facing 3-4-5 
+b7;5-3;0;---;6,(3-2) CFBBBB;;NYY;Anthony Rizzo;Tucker Davidson;2%;90%;Walk
+;;;;;;;;;Jimmy Herget replaces Tucker Davidson pitching
+b7;5-3;0;1--;4,(3-0) .BBBB;;NYY;Gleyber Torres;Jimmy Herget;2%;93%;Walk; Rizzo to 2B
+b7;5-3;0;12-;3,(1-1) CBX;R;NYY;DJ LeMahieu;Jimmy Herget;5%;97%;Double to LF (Line Drive to Deep LF Line); Rizzo Scores; Torres to 3B
+b7;6-3;0;-23;5,(1-2) CFF*BX;O;NYY;Oswald Peraza;Jimmy Herget;-1%;96%;Groundout: 3B-1B (Weak 3B)
+b7;6-3;1;-23;,(3-0) VVVV;;NYY;Oswaldo Cabrera;Jimmy Herget;0%;96%;Intentional Walk
+b7;6-3;1;123;2,(0-1) CX;O;NYY;Jose Trevino;Jimmy Herget;-2%;95%;Lineout: 2B (Deep 2B)
+b7;6-3;2;123;5,(2-2) BBFCX;RR;NYY;Isiah Kiner-Falefa;Jimmy Herget;4%;99%;Single to CF (Ground Ball thru SS-2B); Torres Scores; LeMahieu Scores; Cabrera to 3B
+b7;8-3;2;1-3;3,(1-1) SBX;O;NYY;Anthony Volpe;Jimmy Herget;0%;98%;Groundout: SS-2B/Forceout at 2B; Volpe to 1B
+;;;;;;;;;3 runs, 2 hits, 0 errors, 2 LOB. Angels 3, Yankees 8.
+Top of the 8th, Angels Batting, Behind 3-8, Yankees' Ian Hamilton facing 5-6-7 
+;;;;;;;;;Ian Hamilton replaces Wandy Peralta pitching
+t8;3-8;0;---;2,(1-0) .BX;O;LAA;Hunter Renfroe;Ian Hamilton;1%;99%;Groundout: P-1B
+t8;3-8;1;---;3,(1-1) CBX;O;LAA;Brandon Drury;Ian Hamilton;0%;99%;Foul Popfly: C (3B-C into Foul Terr.)
+t8;3-8;2;---;6,(1-2) .BFFFFX;O;LAA;Luis Rengifo;Ian Hamilton;0%;100%;Groundout: 2B-1B (Deep 2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 3, Yankees 8.
+Bottom of the 8th, Yankees Batting, Ahead 8-3, Angels' Aaron Loup facing 2-3-4 
+;;;;;;;;;Aaron Loup replaces Jimmy Herget pitching
+b8;8-3;0;---;3,(3-0) .VBBB;;NYY;Aaron Judge;Aaron Loup;0%;100%;Walk
+b8;8-3;0;1--;5,(1-2) CBSFX;;NYY;Anthony Rizzo;Aaron Loup;0%;100%;Single to 3B (Ground Ball to Weak 3B); Judge to 2B
+b8;8-3;0;12-;6,(3-2) BBBCCX;;NYY;Gleyber Torres;Aaron Loup;0%;100%;Single to RF (Ground Ball thru 2B-1B); Judge to 3B; Rizzo to 2B
+b8;8-3;0;123;7,(3-2) BCBFFBS;O;NYY;DJ LeMahieu;Aaron Loup;0%;100%;Strikeout Swinging
+b8;8-3;1;123;2,(0-1) CX;R;NYY;Oswald Peraza;Aaron Loup;0%;100%;Single to LF (Line Drive); Judge Scores; Rizzo to 3B; Torres to 2B
+b8;9-3;1;123;3,(0-2) CCS;O;NYY;Oswaldo Cabrera;Aaron Loup;0%;100%;Strikeout Swinging
+b8;9-3;2;123;4,(1-2) CBF.X;O;NYY;Jose Trevino;Aaron Loup;0%;100%;Flyball: RF (Deep 2B-1B)
+;;;;;;;;;1 run, 3 hits, 0 errors, 3 LOB. Angels 3, Yankees 9.
+Top of the 9th, Angels Batting, Behind 3-9, Yankees' Greg Weissert facing 8-9-1 
+;;;;;;;;;Greg Weissert replaces Ian Hamilton pitchingFranchy Cordero replaces Aaron Judge playing RF batting 2nd
+t9;3-9;0;---;4,(2-2) ..VBCFX;;LAA;Logan O'Hoppe;Greg Weissert;0%;99%;Single to SS (Ground Ball)
+;;;;;;;;;Matt Thaiss pinch runs for Logan O'Hoppe (C) batting 8th
+t9;3-9;0;1--;6,(3-2) .FCBB.BX;OO;LAA;Zach Neto;Greg Weissert;1%;100%;Ground Ball Double Play: SS-2B-1B (Deep SS)
+t9;3-9;2;---;5,(2-2) SBBFS;O;LAA;Taylor Ward;Greg Weissert;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Angels 3, Yankees 9.

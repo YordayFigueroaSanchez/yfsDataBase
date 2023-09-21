@@ -1,0 +1,239 @@
+
+Scorebox Meta
+20230416
+1:10 p.m. Local
+43875
+Petco Park
+142
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/MIL-2023.png;/teams/MIL/2023.shtml;0;1;0;0;0;0;0;0;0;1;4;1
+https://cdn.ssref.net/req/202308101/tlogo/br/SDP-2023.png;/teams/SDP/2023.shtml;0;0;0;0;0;0;0;0;0;0;5;0
+
+Batting home
+Xander Bogaerts;/players/b/bogaexa01.shtml;SS;4;0;1;0;0;0;4;.354;.427;.585;1.011;14;10;-0.053; 1.11;0.035;-0.089;-0.03%; 1.08; -0.1;1;0;
+Manny Machado;/players/m/machama01.shtml;3B;4;0;1;0;0;2;4;.254;.292;.343;.635;15;10;-0.002; 1.25;0.089;-0.091;-0.00%; 1.22; 0.5;0;0;
+Juan Soto;/players/s/sotoju01.shtml;LF;3;0;0;0;1;2;4;.172;.351;.379;.731;18;10;0.035; 1.66;0.134;-0.099; 0.02%; 1.61; -0.5;2;0;
+Nelson Cruz;/players/c/cruzne02.shtml;DH;4;0;0;0;0;2;4;.300;.326;.525;.851;19;12;-0.239; 2.29;0.000;-0.239;-0.14%; 2.23; -1.4;;;
+Jake Cronenworth;/players/c/croneja01.shtml;1B;4;0;0;0;0;1;4;.222;.338;.444;.783;10;7;-0.227; 2.29;0.000;-0.227;-0.13%; 2.23; -1.2;5;0;
+Ha-Seong Kim;/players/k/kimha01.shtml;2B;4;0;2;0;0;0;4;.255;.309;.451;.760;14;9;0.029; 1.60;0.089;-0.060; 0.02%; 1.55; -0.1;0;3;
+Austin Nola;/players/n/nolaau01.shtml;C;3;0;1;0;1;0;4;.139;.262;.167;.429;15;6;0.174; 2.15;0.204;-0.031; 0.10%; 2.08; 0.9;14;0;2B
+Trent Grisham;/players/g/grishtr01.shtml;CF;4;0;0;0;0;3;4;.222;.319;.476;.796;19;11;-0.420; 3.88;0.000;-0.420;-0.24%; 3.77; -1.8;2;0;
+José Azocar;/players/a/azocajo01.shtml;RF;2;0;0;0;0;1;2;.233;.258;.300;.558;4;4;-0.065; 1.23;0.000;-0.065;-0.04%; 1.19; -0.5;3;0;
+Matt Carpenter;/players/c/carpema01.shtml;PH;1;0;0;0;0;0;1;.167;.324;.300;.624;2;2;-0.063; 2.47;0.000;-0.063;-0.04%; 2.40; -0.2;;;
+Rougned Odor;/players/o/odorro01.shtml;RF;0;0;0;0;0;0;0;.143;.280;.238;.518;;;;;;;;;;0;0;
+Yu Darvish;/players/d/darviyu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Steven Wilson;/players/w/wilsost02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Josh Hader;/players/h/haderjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Austin Nola (1, off Wade Miley).
+
+
+TB: Austin Nola 2; Ha-Seong Kim 2; Manny Machado; Xander Bogaerts.
+
+
+Team LOB: 8.
+With RISP: 0 for 6.
+
+Batting away
+Christian Yelich;/players/y/yelicch01.shtml;LF;4;0;0;0;0;3;4;.227;.320;.348;.668;20;14;-0.108; 1.05;0.000;-0.108;-0.08%; 1.23; -1.1;1;0;
+Willy Adames;/players/a/adamewi01.shtml;SS;3;0;0;0;1;3;4;.259;.380;.448;.829;21;15;-0.038; 0.76;0.024;-0.062;-0.03%; 0.89; -0.4;0;3;
+Rowdy Tellez;/players/t/tellero01.shtml;1B;4;0;1;0;0;2;4;.240;.322;.560;.882;16;13;-0.034; 0.79;0.026;-0.061;-0.02%; 0.93; -0.4;8;0;
+William Contreras;/players/c/contrwi02.shtml;C;4;0;0;0;0;0;4;.318;.400;.364;.764;12;8;-0.094; 0.93;0.000;-0.094;-0.07%; 1.08; -0.9;11;0;
+Garrett Mitchell;/players/m/mitchga01.shtml;CF;3;1;2;0;1;1;4;.286;.340;.531;.870;10;6;0.091; 0.86;0.107;-0.016; 0.06%; 1.01; 0.8;2;0;SB
+Brian Anderson;/players/a/anderbr06.shtml;DH;3;0;0;1;0;1;4;.269;.355;.500;.855;18;13;-0.060; 1.16;0.022;-0.082;-0.04%; 1.35; -0.6;;;SF
+Brice Turang;/players/t/turanbr02.shtml;2B;4;0;1;0;0;3;4;.273;.333;.364;.697;19;12;0.023; 0.83;0.066;-0.043; 0.02%; 0.97; 0.2;0;1;SB
+Mike Brosseau;/players/b/brossmi01.shtml;3B;2;0;0;0;1;1;3;.259;.355;.556;.910;14;7;-0.028; 0.94;0.034;-0.062;-0.02%; 1.10; -0.2;0;4;
+Joey Wiemer;/players/w/wiemejo01.shtml;RF;3;0;0;0;0;0;3;.188;.291;.292;.583;8;5;-0.081; 1.07;0.000;-0.081;-0.06%; 1.24; -0.8;5;0;
+Wade Miley;/players/m/mileywa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Peter Strzelecki;/players/s/strzepe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Devin Williams;/players/w/willide03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+SF: Brian Anderson (2, off Yu Darvish).
+
+
+TB: Garrett Mitchell 2; Brice Turang; Rowdy Tellez.
+
+
+RBI: Brian Anderson (14).
+
+
+Team LOB: 6.
+With RISP: 0 for 4.
+
+Pitching home
+Yu Darvish;/players/d/darviyu01.shtml; L (0-2); 7 ;4;1;1;2;12;0;3.44;27;100;68;28;18;22;3;10;6;0;75;;;0.243; 0.97; 0.14%; 0.94; 2.4
+Steven Wilson;/players/w/wilsost02.shtml;Steven Wilson; 1 ;0;0;0;1;0;0;0.84;4;25;16;11;2;3;1;2;0;0;;0;0;0.051; 0.90; 0.03%; 0.87; 0.5
+Josh Hader;/players/h/haderjo01.shtml;Josh Hader; 1 ;0;0;0;0;2;0;1.29;3;13;9;5;2;2;1;0;0;0;;0;0;0.037; 0.49; 0.02%; 0.48; 0.5
+
+Pitching away
+Wade Miley;/players/m/mileywa01.shtml; W (2-1); 7 ;4;0;0;0;8;0;1.50;26;89;59;28;13;18;9;9;2;0;77;;;0.494; 1.19; 0.35%; 1.39; 3.4
+Peter Strzelecki;/players/s/strzepe01.shtml; H (3); 1 ;0;0;0;0;0;0;0.00;3;8;6;4;0;2;2;1;0;0;;0;0;0.140; 1.85; 0.10%; 2.16; 0.5
+Devin Williams;/players/w/willide03.shtml; S (2); 1 ;1;0;0;2;3;0;0.00;6;33;16;6;6;4;0;1;1;0;;0;0;0.197; 5.73; 0.14%; 6.68; 0.5
+
+indiv_events
+
+Balks: Yu Darvish (1).
+WP: Wade Miley (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: Yu Darvish (1).
+WP: Wade Miley (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Phil Cuzzi, 1B - Mark Ripperger, 2B - Shane Livensparger, 3B - Dan Bellino, LF - (none), RF - (none).
+Time of Game: 2:22.
+Attendance: 43,875.
+Field Condition: Unknown.
+Start Time Weather: 62° F, Wind 7mph from Left to Right, Overcast, No Precipitation.
+
+div_lineups
+Brewers
+1;Christian Yelich;/players/y/yelicch01.shtml;LF
+2;Willy Adames;/players/a/adamewi01.shtml;SS
+3;Rowdy Tellez;/players/t/tellero01.shtml;1B
+4;William Contreras;/players/c/contrwi02.shtml;C
+5;Garrett Mitchell;/players/m/mitchga01.shtml;CF
+6;Brian Anderson;/players/a/anderbr06.shtml;DH
+7;Brice Turang;/players/t/turanbr02.shtml;2B
+8;Mike Brosseau;/players/b/brossmi01.shtml;3B
+9;Joey Wiemer;/players/w/wiemejo01.shtml;RF
+; Wade Miley;/players/m/mileywa01.shtml;P
+Padres
+1;Xander Bogaerts;/players/b/bogaexa01.shtml;SS
+2;Manny Machado;/players/m/machama01.shtml;3B
+3;Juan Soto;/players/s/sotoju01.shtml;LF
+4;Nelson Cruz;/players/c/cruzne02.shtml;DH
+5;Jake Cronenworth;/players/c/croneja01.shtml;1B
+6;Ha-Seong Kim;/players/k/kimha01.shtml;2B
+7;Austin Nola;/players/n/nolaau01.shtml;C
+8;Trent Grisham;/players/g/grishtr01.shtml;CF
+9;José Azocar;/players/a/azocajo01.shtml;RF
+; Yu Darvish;/players/d/darviyu01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b9;0-1;2;123;6,(3-2) *BSB*BF>C;O;SDP;Trent Grisham;Devin Williams;27%;100%;Strikeout Looking
+b9;0-1;0;---;6,(3-2) ..CBCBBB;;SDP;Juan Soto;Devin Williams;-13%;67%;Walk
+b9;0-1;0;1--;7,(3-2) F*BSBFBC;O;SDP;Nelson Cruz;Devin Williams;12%;79%;Strikeout Looking
+b9;0-1;1;1--;4,(1-2) SFB*S;O;SDP;Jake Cronenworth;Devin Williams;11%;90%;Strikeout Swinging
+b9;0-1;2;12-;6,(3-2) *BS*BF.B>B;;SDP;Austin Nola;Devin Williams;-10%;73%;Walk; Soto to 3B; Kim to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Brewers Batting, Tied 0-0, Padres' Yu Darvish facing 1-2-3 
+t1;0-0;0;---;3,(0-2) CCS;O;MIL;Christian Yelich;Yu Darvish;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;4,(1-2) BFCS;O;MIL;Willy Adames;Yu Darvish;-2%;46%;Strikeout Swinging
+t1;0-0;2;---;3,(0-2) CSS;O;MIL;Rowdy Tellez;Yu Darvish;-1%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 0, Padres 0.
+Bottom of the 1st, Padres Batting, Tied 0-0, Brewers' Wade Miley facing 1-2-3 
+b1;0-0;0;---;3,(1-1) CB.X;;SDP;Xander Bogaerts;Wade Miley;-4%;42%;Single to 3B (Ground Ball)
+b1;0-0;0;1--;2,(0-1) CX;;SDP;Manny Machado;Wade Miley;-9%;33%;Single to CF (Line Drive to Deep CF); Bogaerts to 3B
+b1;0-0;0;1-3;5,(2-2) *BSFBC;O;SDP;Juan Soto;Wade Miley;6%;39%;Strikeout Looking
+b1;0-0;1;1-3;3,(0-2) CSS;O;SDP;Nelson Cruz;Wade Miley;7%;45%;Strikeout Swinging
+b1;0-0;2;1-3;2,(0-1) CX;O;SDP;Jake Cronenworth;Wade Miley;5%;50%;Flyball: LF (Deep LF Line)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Brewers 0, Padres 0.
+Top of the 2nd, Brewers Batting, Tied 0-0, Padres' Yu Darvish facing 4-5-6 
+t2;0-0;0;---;1,(0-0) X;O;MIL;William Contreras;Yu Darvish;-2%;48%;Groundout: 2B-1B
+t2;0-0;1;---;1,(0-0) X;;MIL;Garrett Mitchell;Yu Darvish;3%;50%;Single to 3B (Bunt to Short 3B Line)
+t2;0-0;1;1--;2,(1-1) B1C1;;MIL;Brian Anderson;Yu Darvish;2%;52%;Balk; Mitchell to 2B
+t2;0-0;1;-2-;5,(2-2) B1C1.BF>B;;MIL;Brian Anderson;Yu Darvish;3%;55%;Mitchell Steals 3B
+t2;0-0;1;--3;7,(3-2) B1C1.BF>B.FX;RO;MIL;Brian Anderson;Yu Darvish;2%;57%;Lineout: LF/Sacrifice Fly (Short LF); Mitchell Scores
+t2;1-0;2;---;4,(1-2) CFBS;O;MIL;Brice Turang;Yu Darvish;-1%;56%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Brewers 1, Padres 0.
+Bottom of the 2nd, Padres Batting, Behind 0-1, Brewers' Wade Miley facing 6-7-8 
+b2;0-1;0;---;3,(1-1) BCX;O;SDP;Ha-Seong Kim;Wade Miley;3%;59%;Groundout: SS-1B
+b2;0-1;1;---;2,(1-0) BX;;SDP;Austin Nola;Wade Miley;-5%;54%;Ground-rule Double (Ground Ball)
+b2;0-1;1;-2-;2,(0-1) FB;;SDP;Trent Grisham;Wade Miley;-3%;51%;Wild Pitch; Nola to 3B
+b2;0-1;1;--3;5,(2-2) FB.SBS;O;SDP;Trent Grisham;Wade Miley;6%;58%;Strikeout Swinging
+b2;0-1;2;--3;3,(0-2) CFS;O;SDP;José Azocar;Wade Miley;4%;62%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 1, Padres 0.
+Top of the 3rd, Brewers Batting, Ahead 1-0, Padres' Yu Darvish facing 8-9-1 
+t3;1-0;0;---;5,(3-1) CBBBB;;MIL;Mike Brosseau;Yu Darvish;3%;65%;Walk
+t3;1-0;0;1--;3,(1-1) BCX;O;MIL;Joey Wiemer;Yu Darvish;-3%;62%;Flyball: CF (Deep CF)
+t3;1-0;1;1--;7,(2-2) FBBCF1FS;O;MIL;Christian Yelich;Yu Darvish;-3%;59%;Strikeout Swinging
+t3;1-0;2;1--;3,(0-2) FCS;O;MIL;Willy Adames;Yu Darvish;-2%;57%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Brewers 1, Padres 0.
+Bottom of the 3rd, Padres Batting, Behind 0-1, Brewers' Wade Miley facing 1-2-3 
+b3;0-1;0;---;6,(3-2) CBFBBX;O;SDP;Xander Bogaerts;Wade Miley;3%;60%;Flyball: RF (Deep RF)
+b3;0-1;1;---;3,(0-2) CFS;O;SDP;Manny Machado;Wade Miley;2%;61%;Strikeout Swinging
+b3;0-1;2;---;2,(0-1) CX;O;SDP;Juan Soto;Wade Miley;1%;63%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 1, Padres 0.
+Top of the 4th, Brewers Batting, Ahead 1-0, Padres' Yu Darvish facing 3-4-5 
+t4;1-0;0;---;4,(1-2) BCS.S;O;MIL;Rowdy Tellez;Yu Darvish;-2%;60%;Strikeout Swinging
+t4;1-0;1;---;3,(1-1) SBX;O;MIL;William Contreras;Yu Darvish;-2%;59%;Groundout: 2B-1B
+t4;1-0;2;---;5,(3-1) BCBBB;;MIL;Garrett Mitchell;Yu Darvish;1%;60%;Walk
+t4;1-0;2;1--;4,(1-2) CC*BX;O;MIL;Brian Anderson;Yu Darvish;-2%;58%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Brewers 1, Padres 0.
+Bottom of the 4th, Padres Batting, Behind 0-1, Brewers' Wade Miley facing 4-5-6 
+b4;0-1;0;---;3,(1-1) CBX;O;SDP;Nelson Cruz;Wade Miley;3%;61%;Groundout: SS-1B (Deep SS-3B Hole)
+b4;0-1;1;---;2,(1-0) BX;O;SDP;Jake Cronenworth;Wade Miley;2%;63%;Groundout: 3B-1B
+b4;0-1;2;---;4,(1-2) BCFX;;SDP;Ha-Seong Kim;Wade Miley;-2%;61%;Single to RF (Fly Ball to RF Line)
+b4;0-1;2;1--;2,(1-0) 1BX;O;SDP;Austin Nola;Wade Miley;3%;64%;Flyball: RF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 1, Padres 0.
+Top of the 5th, Brewers Batting, Ahead 1-0, Padres' Yu Darvish facing 7-8-9 
+t5;1-0;0;---;4,(2-1) BCBX;;MIL;Brice Turang;Yu Darvish;4%;68%;Single to LF (Line Drive)
+t5;1-0;0;1--;5,(1-2) 1CT*BF>B;;MIL;Mike Brosseau;Yu Darvish;3%;71%;Turang Steals 2B
+t5;1-0;0;-2-;6,(2-2) 1CT*BF>B.S;O;MIL;Mike Brosseau;Yu Darvish;-4%;66%;Strikeout Swinging
+t5;1-0;1;-2-;4,(2-1) FBBX;O;MIL;Joey Wiemer;Yu Darvish;-4%;63%;Popfly: SS (Deep SS)
+t5;1-0;2;-2-;5,(2-2) BBCCS;O;MIL;Christian Yelich;Yu Darvish;-4%;59%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 1, Padres 0.
+Bottom of the 5th, Padres Batting, Behind 0-1, Brewers' Wade Miley facing 8-9-1 
+b5;0-1;0;---;7,(3-2) SBS.FBBS;O;SDP;Trent Grisham;Wade Miley;3%;62%;Strikeout Swinging
+b5;0-1;1;---;1,(0-0) X;O;SDP;José Azocar;Wade Miley;2%;65%;Flyball: CF (Deep CF-RF)
+b5;0-1;2;---;3,(0-2) CSX;O;SDP;Xander Bogaerts;Wade Miley;2%;67%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 1, Padres 0.
+Top of the 6th, Brewers Batting, Ahead 1-0, Padres' Yu Darvish facing 2-3-4 
+t6;1-0;0;---;4,(1-2) FC.BS;O;MIL;Willy Adames;Yu Darvish;-2%;64%;Strikeout Swinging
+t6;1-0;1;---;5,(2-2) FBBCX;;MIL;Rowdy Tellez;Yu Darvish;3%;67%;Single to LF (Line Drive to LF-CF)
+t6;1-0;1;1--;2,(0-1) CX;O;MIL;William Contreras;Yu Darvish;-3%;64%;Lineout: CF (Deep CF)
+t6;1-0;2;1--;1,(0-0) X;;MIL;Garrett Mitchell;Yu Darvish;2%;66%;Single to CF (Line Drive); Tellez to 2B
+t6;1-0;2;12-;3,(0-2) SSS;O;MIL;Brian Anderson;Yu Darvish;-5%;61%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Brewers 1, Padres 0.
+Bottom of the 6th, Padres Batting, Behind 0-1, Brewers' Wade Miley facing 2-3-4 
+b6;0-1;0;---;6,(3-2) BBCB.CS;O;SDP;Manny Machado;Wade Miley;4%;65%;Strikeout Swinging
+b6;0-1;1;---;5,(2-2) CBCBT;O;SDP;Juan Soto;Wade Miley;3%;68%;Strikeout Swinging
+b6;0-1;2;---;6,(3-2) BSBFBX;O;SDP;Nelson Cruz;Wade Miley;2%;70%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 1, Padres 0.
+Top of the 7th, Brewers Batting, Ahead 1-0, Padres' Yu Darvish facing 7-8-9 
+t7;1-0;0;---;5,(1-2) FCBFS;O;MIL;Brice Turang;Yu Darvish;-2%;67%;Strikeout Swinging
+t7;1-0;1;---;3,(1-1) BSX;O;MIL;Mike Brosseau;Yu Darvish;-2%;66%;Popfly: 1B
+t7;1-0;2;---;1,(0-0) X;O;MIL;Joey Wiemer;Yu Darvish;-1%;64%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 1, Padres 0.
+Bottom of the 7th, Padres Batting, Behind 0-1, Brewers' Wade Miley facing 5-6-7 
+b7;0-1;0;---;2,(1-0) BX;O;SDP;Jake Cronenworth;Wade Miley;5%;69%;Lineout: RF
+b7;0-1;1;---;3,(1-1) LBX;O;SDP;Ha-Seong Kim;Wade Miley;3%;73%;Flyball: RF (RF Line)
+b7;0-1;2;---;5,(3-1) BBBCX;;SDP;Austin Nola;Wade Miley;-3%;70%;Reached on E5 (throw) (Ground Ball); Nola to 1B
+b7;0-1;2;1--;1,(0-0) X;O;SDP;Trent Grisham;Wade Miley;5%;75%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Brewers 1, Padres 0.
+Top of the 8th, Brewers Batting, Ahead 1-0, Padres' Steven Wilson facing 1-2-3 
+;;;;;;;;;Steven Wilson replaces Yu Darvish pitching
+t8;1-0;0;---;5,(2-2) .FBSBX;O;MIL;Christian Yelich;Steven Wilson;-2%;73%;Groundout: 2B-1B (Deep 2B)
+t8;1-0;1;---;10,(3-2) SFB.BFFBFFB;;MIL;Willy Adames;Steven Wilson;2%;75%;Walk
+t8;1-0;1;1--;4,(0-2) CTFX;O;MIL;Rowdy Tellez;Steven Wilson;-3%;72%;Flyball: RF (CF-RF)
+t8;1-0;2;1--;6,(3-2) CBBC1B>X;O;MIL;William Contreras;Steven Wilson;-2%;70%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Brewers 1, Padres 0.
+Bottom of the 8th, Padres Batting, Behind 0-1, Brewers' Peter Strzelecki facing 9-1-2 
+;;;;;;;;;Peter Strzelecki replaces Wade Miley pitchingMatt Carpenter pinch hits for José Azocar (RF) batting 9th
+b8;0-1;0;---;2,(0-1) ..CX;O;SDP;Matt Carpenter;Peter Strzelecki;6%;76%;Groundout: 3B-1B (Weak 3B)
+b8;0-1;1;---;2,(0-1) CX;O;SDP;Xander Bogaerts;Peter Strzelecki;5%;81%;Flyball: RF (Deep RF Line)
+b8;0-1;2;---;4,(2-1) FBBX;O;SDP;Manny Machado;Peter Strzelecki;3%;84%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 1, Padres 0.
+Top of the 9th, Brewers Batting, Ahead 1-0, Padres' Josh Hader facing 5-6-7 
+;;;;;;;;;Josh Hader replaces Steven Wilson pitchingRougned Odor replaces Matt Carpenter (PH) playing RF batting 9th
+t9;1-0;0;---;3,(0-2) ..CT.T;O;MIL;Garrett Mitchell;Josh Hader;-2%;82%;Strikeout Swinging
+t9;1-0;1;---;4,(1-2) BFSX;O;MIL;Brian Anderson;Josh Hader;-1%;81%;Groundout: P-1B (Front of Home)
+t9;1-0;2;---;6,(3-2) BFBCBS;O;MIL;Brice Turang;Josh Hader;-1%;80%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 1, Padres 0.
+Bottom of the 9th, Padres Batting, Behind 0-1, Brewers' Devin Williams facing 3-4-5 
+;;;;;;;;;Devin Williams replaces Peter Strzelecki pitching
+b9;0-1;0;---;6,(3-2) ..CBCBBB;;SDP;Juan Soto;Devin Williams;-13%;67%;Walk
+b9;0-1;0;1--;7,(3-2) F*BSBFBC;O;SDP;Nelson Cruz;Devin Williams;12%;79%;Strikeout Looking
+b9;0-1;1;1--;4,(1-2) SFB*S;O;SDP;Jake Cronenworth;Devin Williams;11%;90%;Strikeout Swinging
+b9;0-1;2;1--;4,(2-1) SBBX;;SDP;Ha-Seong Kim;Devin Williams;-7%;83%;Single to LF (Line Drive to Short LF); Soto to 2B
+b9;0-1;2;12-;6,(3-2) *BS*BF.B>B;;SDP;Austin Nola;Devin Williams;-10%;73%;Walk; Soto to 3B; Kim to 2B
+b9;0-1;2;123;6,(3-2) *BSB*BF>C;O;SDP;Trent Grisham;Devin Williams;27%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Brewers 1, Padres 0.

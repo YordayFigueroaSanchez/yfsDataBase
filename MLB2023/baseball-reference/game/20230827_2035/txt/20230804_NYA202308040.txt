@@ -1,0 +1,278 @@
+
+Scorebox Meta
+20230804
+7:05 p.m. Local
+42105
+Yankee Stadium III
+184
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/HOU-2023.png;/teams/HOU/2023.shtml;3;1;0;0;1;2;0;0;0;7;9;0
+https://cdn.ssref.net/req/202308251/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;0;1;0;1;0;0;1;0;3;8;0
+
+Batting home
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;RF;5;1;1;1;0;0;5;.253;.318;.376;.693;17;13;-0.060; 0.73;0.058;-0.118;-0.03%; 0.59; -0.9;3;0;HR,GDP
+Jake Bauers;/players/b/bauerja01.shtml;1B;4;1;2;1;0;2;4;.229;.305;.494;.799;21;12;0.070; 0.40;0.088;-0.019; 0.03%; 0.33; 0.9;10;1;HR
+Gleyber Torres;/players/t/torregl01.shtml;2B;4;0;1;0;0;1;4;.263;.325;.428;.754;11;8;0.009; 0.54;0.036;-0.027; 0.00%; 0.44; -0.1;0;0;
+Giancarlo Stanton;/players/s/stantmi03.shtml;DH;3;1;1;1;1;1;4;.205;.280;.470;.750;19;10;0.001; 0.81;0.052;-0.051; 0.00%; 0.67; 0.7;;;HR
+Billy McKinney;/players/m/mckinbi01.shtml;LF;4;0;0;0;0;1;4;.228;.304;.455;.759;15;9;-0.086; 0.87;0.000;-0.086;-0.04%; 0.71; -1.0;1;0;
+DJ LeMahieu;/players/l/lemahdj01.shtml;3B;4;0;2;0;0;0;4;.235;.307;.369;.677;18;11;0.007; 0.72;0.048;-0.042; 0.00%; 0.59; 0.6;1;4;2B
+Harrison Bader;/players/b/baderha01.shtml;CF;3;0;0;0;1;1;4;.252;.284;.414;.699;14;8;-0.036; 0.82;0.030;-0.065;-0.02%; 0.68; -0.5;3;0;
+Anthony Volpe;/players/v/volpean01.shtml;SS;4;0;0;0;0;1;4;.213;.288;.380;.668;18;14;-0.075; 0.74;0.000;-0.075;-0.04%; 0.61; -1.2;0;3;
+Kyle Higashioka;/players/h/higasky01.shtml;C;2;0;1;0;0;0;2;.229;.262;.377;.639;10;7;0.020; 0.62;0.033;-0.013; 0.01%; 0.52; 0.2;6;0;
+Aaron Judge;/players/j/judgeaa01.shtml;PH;1;0;0;0;0;1;1;.289;.410;.649;1.060;3;3;-0.024; 1.09;0.000;-0.024;-0.01%; 0.90; -0.5;;;
+Ben Rortvedt;/players/r/rortvbe01.shtml;C;0;0;0;0;1;0;1;.143;.308;.190;.498;8;4;0.009; 0.28;0.009;0.000; 0.01%; 0.23; 0.2;2;0;
+Luis Severino;/players/s/severlu01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Albert Abreu;/players/a/abreual01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Nick Ramirez;/players/r/ramirni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Keynan Middleton;/players/m/middlke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: DJ LeMahieu (17, off Hector Neris).
+
+
+HR: Jake Bauers (10, off Hunter Brown, 3rd inn, 0 on, 2 outs to Deep LF Line); Isiah Kiner-Falefa (6, off Hunter Brown, 5th inn, 0 on, 2 outs to Deep CF-RF); Giancarlo Stanton (17, off Rafael Montero, 8th inn, 0 on, 2 outs to Deep LF).
+
+
+TB: Jake Bauers 5; Isiah Kiner-Falefa 4; Giancarlo Stanton 4; DJ LeMahieu 3; Kyle Higashioka; Gleyber Torres.
+
+
+GIDP: Isiah Kiner-Falefa (10).
+
+
+RBI: Isiah Kiner-Falefa (29); Jake Bauers (23); Giancarlo Stanton (42).
+
+
+2-out RBI: Giancarlo Stanton; Isiah Kiner-Falefa; Jake Bauers.
+
+
+Team LOB: 7.
+With RISP: 0 for 7.
+
+Batting away
+Jose Altuve;/players/a/altuvjo01.shtml;2B;5;1;2;0;0;1;5;.281;.376;.490;.867;17;14;0.051; 0.69;0.094;-0.043; 0.06%; 1.25; 0.3;1;5;2B
+Alex Bregman;/players/b/bregmal01.shtml;3B;3;1;0;1;1;1;5;.249;.347;.419;.766;25;13;-0.008; 0.83;0.055;-0.063;-0.01%; 1.51; 0.2;1;3;HBP
+Yordan Alvarez;/players/a/alvaryo01.shtml;DH;4;1;2;1;1;1;5;.294;.402;.615;1.017;20;13;0.007; 0.73;0.070;-0.062; 0.01%; 1.33; 0.3;;;HR
+Kyle Tucker;/players/t/tuckeky01.shtml;RF;3;1;1;2;2;0;5;.300;.379;.514;.893;20;10;0.088; 0.92;0.121;-0.034; 0.09%; 1.65; 1.6;2;0;2B,2·SB
+Yainer Diaz;/players/d/diazya02.shtml;C;5;1;1;3;0;0;5;.273;.291;.515;.806;16;12;0.200; 0.64;0.233;-0.033; 0.22%; 1.16; 1.1;8;0;HR
+José Abreu;/players/a/abreujo02.shtml;1B;5;0;0;0;0;2;5;.239;.296;.351;.647;21;17;-0.034; 0.22;0.000;-0.034;-0.04%; 0.40; -1.1;9;1;
+Chas McCormick;/players/m/mccorch01.shtml;LF;4;1;0;0;1;1;5;.281;.371;.533;.904;23;16;0.005; 0.23;0.021;-0.016; 0.01%; 0.41; -0.2;1;0;
+Jeremy Peña;/players/p/penaje02.shtml;SS;3;0;2;0;1;0;4;.240;.299;.371;.670;15;8;0.042; 0.46;0.053;-0.011; 0.05%; 0.82; 0.9;3;2;
+Jake Meyers;/players/m/meyerja02.shtml;CF;4;1;1;0;0;2;4;.230;.309;.379;.688;16;13;-0.015; 0.58;0.038;-0.052;-0.02%; 1.05; -0.5;2;0;2B
+Hunter Brown;/players/b/brownhu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Hector Neris;/players/n/nerishe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Rafael Montero;/players/m/montera01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Ryan Pressly;/players/p/pressry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jose Altuve (9, off Luis Severino); Jake Meyers (14, off Albert Abreu); Kyle Tucker (28, off Nick Ramirez).
+
+
+HR: Yainer Diaz (14, off Luis Severino, 1st inn, 2 on, 2 outs to Deep RF); Yordan Alvarez (20, off Luis Severino, 5th inn, 0 on, 0 outs to Deep LF-CF).
+
+
+HBP: Alex Bregman (3, by Luis Severino).
+
+
+TB: Yordan Alvarez 5; Yainer Diaz 4; Jose Altuve 3; Jeremy Peña 2; Kyle Tucker 2; Jake Meyers 2.
+
+
+RBI: Yainer Diaz 3 (34); Kyle Tucker 2 (77); Alex Bregman (70); Yordan Alvarez (60).
+
+
+2-out RBI: Yainer Diaz 3; Kyle Tucker 2.
+
+
+Team LOB: 9.
+With RISP: 3 for 12.
+
+Pitching home
+Luis Severino;/players/s/severlu01.shtml; L (2-6); 4 ;5;5;5;3;4;2;7.74;21;87;56;37;6;13;7;6;2;0;33;;;-0.287; 0.91;-0.14%; 0.74; -3.0
+Albert Abreu;/players/a/abreual01.shtml;Albert Abreu; 1.2;1;2;2;2;1;0;4.05;8;40;25;17;4;4;2;3;0;0;;0;0;0.018; 0.47; 0.01%; 0.39; 0.5
+Nick Ramirez;/players/r/ramirni01.shtml;Nick Ramirez; 2.1;3;0;0;1;1;0;2.48;11;36;27;18;4;5;5;4;1;0;;2;2;-0.069; 0.28;-0.03%; 0.23; -0.5
+Keynan Middleton;/players/m/middlke01.shtml;Keynan Middleton; 1 ;0;0;0;0;2;0;3.86;3;10;8;2;2;4;1;0;0;0;;0;0;0.004; 0.04; 0.00%; 0.03; 0.5
+
+Pitching away
+Hunter Brown;/players/b/brownhu01.shtml; W (8-7); 6 ;5;2;2;1;4;2;4.07;23;93;61;34;4;23;10;8;2;0;57;;;0.120; 0.79; 0.13%; 1.42; 1.0
+Hector Neris;/players/n/nerishe01.shtml;Hector Neris; 1 ;1;0;0;1;2;0;1.35;5;19;12;5;2;5;0;2;2;0;;0;0;0.020; 0.87; 0.02%; 1.57; 0.5
+Rafael Montero;/players/m/montera01.shtml;Rafael Montero; 1 ;1;1;1;0;2;1;5.94;4;20;13;6;5;2;1;1;1;0;;0;0;0.006; 0.18; 0.01%; 0.32; -0.5
+Ryan Pressly;/players/p/pressry01.shtml;Ryan Pressly; 1 ;1;0;0;1;0;0;3.04;5;22;13;9;0;4;3;1;1;0;;0;0;0.018; 0.54; 0.02%; 0.98; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Albert Abreu (3).
+HBP: Luis Severino (3; Alex Bregman).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Albert Abreu (3).
+HBP: Luis Severino (3; Alex Bregman).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Tony Randazzo, 1B - Alex Tosi, 2B - Angel Hernandez, 3B - Todd Tichenor, LF - (none), RF - (none).
+Time of Game: 3:04.
+Attendance: 42,105.
+Field Condition: Unknown.
+Start Time Weather: 74° F, Wind 10mph from Right to Left, Cloudy, No Precipitation.
+
+div_lineups
+Astros
+1;Jose Altuve;/players/a/altuvjo01.shtml;2B
+2;Alex Bregman;/players/b/bregmal01.shtml;3B
+3;Yordan Alvarez;/players/a/alvaryo01.shtml;DH
+4;Kyle Tucker;/players/t/tuckeky01.shtml;RF
+5;Yainer Diaz;/players/d/diazya02.shtml;C
+6;José Abreu;/players/a/abreujo02.shtml;1B
+7;Chas McCormick;/players/m/mccorch01.shtml;LF
+8;Jeremy Peña;/players/p/penaje02.shtml;SS
+9;Jake Meyers;/players/m/meyerja02.shtml;CF
+; Hunter Brown;/players/b/brownhu01.shtml;P
+Yankees
+1;Isiah Kiner-Falefa;/players/k/kineris01.shtml;RF
+2;Jake Bauers;/players/b/bauerja01.shtml;1B
+3;Gleyber Torres;/players/t/torregl01.shtml;2B
+4;Giancarlo Stanton;/players/s/stantmi03.shtml;DH
+5;Billy McKinney;/players/m/mckinbi01.shtml;LF
+6;DJ LeMahieu;/players/l/lemahdj01.shtml;3B
+7;Harrison Bader;/players/b/baderha01.shtml;CF
+8;Anthony Volpe;/players/v/volpean01.shtml;SS
+9;Kyle Higashioka;/players/h/higasky01.shtml;C
+; Luis Severino;/players/s/severlu01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t1;0-0;2;-23;4,(2-1) *B>B.FX;RRR;HOU;Yainer Diaz;Luis Severino;23%;74%;Home Run (Fly Ball to Deep RF); Altuve Scores; Tucker Scores
+t6;5-2;2;123;2,(0-1) CX;RR;HOU;Kyle Tucker;Nick Ramirez;8%;96%;Double to RF (Line Drive to RF Line); Meyers Scores; Bregman Scores; Alvarez to 3B
+b3;0-4;2;---;5,(3-1) BBBCX;R;NYY;Jake Bauers;Hunter Brown;-6%;81%;Home Run (Fly Ball to Deep LF Line)
+b3;0-4;0;1--;1,(0-0) X;OO;NYY;Isiah Kiner-Falefa;Hunter Brown;6%;87%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+t5;4-1;0;---;5,(2-2) BFBCX;R;HOU;Yordan Alvarez;Luis Severino;6%;90%;Home Run (Fly Ball to Deep LF-CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Astros Batting, Tied 0-0, Yankees' Luis Severino facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;;HOU;Jose Altuve;Luis Severino;6%;56%;Double to LF (Line Drive to Deep LF Line)
+t1;0-0;0;-2-;7,(3-2) BBCFFBC;O;HOU;Alex Bregman;Luis Severino;-4%;52%;Strikeout Looking
+t1;0-0;1;-2-;2,(0-1) FX;O;HOU;Yordan Alvarez;Luis Severino;-3%;49%;Groundout: 1B-P (2B-1B); Altuve to 3B
+t1;0-0;2;--3;5,(3-1) BBCBB;;HOU;Kyle Tucker;Luis Severino;1%;50%;Walk
+t1;0-0;2;1-3;2,(1-0) *B>B;;HOU;Yainer Diaz;Luis Severino;1%;51%;Tucker Steals 2B
+t1;0-0;2;-23;4,(2-1) *B>B.FX;RRR;HOU;Yainer Diaz;Luis Severino;23%;74%;Home Run (Fly Ball to Deep RF); Altuve Scores; Tucker Scores
+t1;3-0;2;---;2,(0-1) SX;O;HOU;José Abreu;Luis Severino;-1%;74%;Groundout: 3B-1B
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Astros 3, Yankees 0.
+Bottom of the 1st, Yankees Batting, Behind 0-3, Astros' Hunter Brown facing 1-2-3 
+b1;0-3;0;---;5,(1-2) CBCFX;O;NYY;Isiah Kiner-Falefa;Hunter Brown;2%;76%;Groundout: 2B-1B
+b1;0-3;1;---;2,(1-0) BX;;NYY;Jake Bauers;Hunter Brown;-2%;73%;Single to RF (Ground Ball thru 2B-1B)
+b1;0-3;1;1--;1,(0-0) X;;NYY;Gleyber Torres;Hunter Brown;-4%;70%;Single to CF (Ground Ball thru SS-2B); Bauers to 2B
+b1;0-3;1;12-;5,(2-2) BC>FBC;O;NYY;Giancarlo Stanton;Hunter Brown;4%;74%;Strikeout Looking
+b1;0-3;2;12-;4,(1-2) SFBX;O;NYY;Billy McKinney;Hunter Brown;4%;78%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Astros 3, Yankees 0.
+Top of the 2nd, Astros Batting, Ahead 3-0, Yankees' Luis Severino facing 7-8-9 
+t2;3-0;0;---;9,(3-2) CFFB.FBFBB;;HOU;Chas McCormick;Luis Severino;2%;80%;Walk
+t2;3-0;0;1--;4,(3-0) B1BBB;;HOU;Jeremy Peña;Luis Severino;3%;83%;Walk; McCormick to 2B
+t2;3-0;0;12-;4,(1-2) FLBS;O;HOU;Jake Meyers;Luis Severino;-3%;80%;Strikeout Swinging
+t2;3-0;1;12-;4,(0-2) CFFX;;HOU;Jose Altuve;Luis Severino;3%;84%;Single to RF (Fly Ball to Short CF-RF); McCormick to 3B; Peña to 2B
+t2;3-0;1;123;6,(3-2) FBBFB.H;R;HOU;Alex Bregman;Luis Severino;5%;89%;Hit By Pitch; McCormick Scores; Peña to 3B; Altuve to 2B
+t2;4-0;1;123;5,(1-2) FCFBS;O;HOU;Yordan Alvarez;Luis Severino;-3%;85%;Strikeout Swinging
+t2;4-0;2;123;3,(1-1) CBX;O;HOU;Kyle Tucker;Luis Severino;-3%;82%;Lineout: LF
+;;;;;;;;;1 run, 1 hit, 0 errors, 3 LOB. Astros 4, Yankees 0.
+Bottom of the 2nd, Yankees Batting, Behind 0-4, Astros' Hunter Brown facing 6-7-8 
+b2;0-4;0;---;5,(2-2) CBBFX;O;NYY;DJ LeMahieu;Hunter Brown;2%;84%;Lineout: CF (Deep CF)
+b2;0-4;1;---;3,(0-2) CCC;O;NYY;Harrison Bader;Hunter Brown;1%;85%;Strikeout Looking
+b2;0-4;2;---;2,(0-1) CX;O;NYY;Anthony Volpe;Hunter Brown;1%;86%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 4, Yankees 0.
+Top of the 3rd, Astros Batting, Ahead 4-0, Yankees' Luis Severino facing 5-6-7 
+t3;4-0;0;---;2,(0-1) FX;O;HOU;Yainer Diaz;Luis Severino;-1%;85%;Groundout: 3B-1B
+t3;4-0;1;---;3,(0-2) CC.X;O;HOU;José Abreu;Luis Severino;-1%;84%;Flyball: RF (CF-RF)
+t3;4-0;2;---;4,(1-2) BCC.X;O;HOU;Chas McCormick;Luis Severino;0%;84%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 4, Yankees 0.
+Bottom of the 3rd, Yankees Batting, Behind 0-4, Astros' Hunter Brown facing 9-1-2 
+b3;0-4;0;---;2,(0-1) CX;;NYY;Kyle Higashioka;Hunter Brown;-3%;81%;Single to SS (Line Drive to Short LF-CF)
+b3;0-4;0;1--;1,(0-0) X;OO;NYY;Isiah Kiner-Falefa;Hunter Brown;6%;87%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+b3;0-4;2;---;5,(3-1) BBBCX;R;NYY;Jake Bauers;Hunter Brown;-6%;81%;Home Run (Fly Ball to Deep LF Line)
+b3;1-4;2;---;1,(0-0) X;O;NYY;Gleyber Torres;Hunter Brown;1%;82%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Astros 4, Yankees 1.
+Top of the 4th, Astros Batting, Ahead 4-1, Yankees' Luis Severino facing 8-9-1 
+t4;4-1;0;---;4,(1-2) FBS.X;;HOU;Jeremy Peña;Luis Severino;2%;84%;Single to 3B (Ground Ball)
+t4;4-1;0;1--;4,(1-2) FFBS;O;HOU;Jake Meyers;Luis Severino;-2%;82%;Strikeout Swinging
+t4;4-1;1;1--;5,(1-2) 1CLFB>X;O;HOU;Jose Altuve;Luis Severino;-1%;81%;Groundout: SS-1B; Peña to 2B
+t4;4-1;2;-2-;4,(1-2) BFSX;O;HOU;Alex Bregman;Luis Severino;-2%;79%;Groundout: P-1B (P's Left)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 4, Yankees 1.
+Bottom of the 4th, Yankees Batting, Behind 1-4, Astros' Hunter Brown facing 4-5-6 
+b4;1-4;0;---;5,(3-1) BBBCB;;NYY;Giancarlo Stanton;Hunter Brown;-4%;75%;Walk
+b4;1-4;0;1--;1,(0-0) X;O;NYY;Billy McKinney;Hunter Brown;4%;78%;Groundout: 1B-SS/Forceout at 2B (2B-1B); McKinney to 1B
+b4;1-4;1;1--;3,(1-1) CBX;O;NYY;DJ LeMahieu;Hunter Brown;2%;81%;Groundout: 3B-1B (Weak 3B); McKinney to 2B
+b4;1-4;2;-2-;4,(1-2) CBFX;O;NYY;Harrison Bader;Hunter Brown;3%;84%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Astros 4, Yankees 1.
+Top of the 5th, Astros Batting, Ahead 4-1, Yankees' Luis Severino facing 3-4-5 
+t5;4-1;0;---;5,(2-2) BFBCX;R;HOU;Yordan Alvarez;Luis Severino;6%;90%;Home Run (Fly Ball to Deep LF-CF)
+;;;;;;;;;Albert Abreu replaces Luis Severino pitching
+t5;5-1;0;---;6,(3-2) .BBSBFB;;HOU;Kyle Tucker;Albert Abreu;1%;91%;Walk
+t5;5-1;0;1--;4,(0-2) CFFX;O;HOU;Yainer Diaz;Albert Abreu;-1%;90%;Flyball: RF (Short CF-RF)
+t5;5-1;1;1--;2,(1-0) 1B1>S;;HOU;José Abreu;Albert Abreu;1%;91%;Tucker Steals 2B
+t5;5-1;1;-2-;3,(1-1) 1B1>S.X;O;HOU;José Abreu;Albert Abreu;-2%;89%;Fielder's Choice ; Tucker out at 3B/SS-3B; Abreu to 1B
+t5;5-1;2;1--;4,(1-2) C*BFX;O;HOU;Chas McCormick;Albert Abreu;-1%;88%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Astros 5, Yankees 1.
+Bottom of the 5th, Yankees Batting, Behind 1-5, Astros' Hunter Brown facing 8-9-1 
+b5;1-5;0;---;8,(2-2) BBCCFFFX;O;NYY;Anthony Volpe;Hunter Brown;2%;90%;Popfly: 1B
+b5;1-5;1;---;8,(3-2) BBCBF.FFX;O;NYY;Kyle Higashioka;Hunter Brown;1%;91%;Flyball: RF (Deep 2B-1B)
+b5;1-5;2;---;6,(2-2) CBFFBX;R;NYY;Isiah Kiner-Falefa;Hunter Brown;-6%;86%;Home Run (Fly Ball to Deep CF-RF)
+b5;2-5;2;---;7,(2-2) CBBSFFC;O;NYY;Jake Bauers;Hunter Brown;1%;87%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Astros 5, Yankees 2.
+Top of the 6th, Astros Batting, Ahead 5-2, Yankees' Albert Abreu facing 8-9-1 
+t6;5-2;0;---;5,(2-2) BFBFX;O;HOU;Jeremy Peña;Albert Abreu;-1%;85%;Groundout: P-1B (Short 1B Line)
+t6;5-2;1;---;6,(1-2) FFBFF.X;;HOU;Jake Meyers;Albert Abreu;2%;88%;Ground-rule Double (Fly Ball to RF Line)
+t6;5-2;1;-2-;5,(1-2) CCFBB;;HOU;Jose Altuve;Albert Abreu;2%;89%;Wild Pitch; Meyers to 3B
+t6;5-2;1;--3;6,(2-2) CCFBB.S;O;HOU;Jose Altuve;Albert Abreu;-3%;86%;Strikeout Swinging
+t6;5-2;2;--3;6,(3-2) BBS*BFB;;HOU;Alex Bregman;Albert Abreu;0%;87%;Walk
+;;;;;;;;;Nick Ramirez replaces Albert Abreu pitching
+t6;5-2;2;1-3;6,(3-2) .BTSBB>B;;HOU;Yordan Alvarez;Nick Ramirez;1%;87%;Walk; Bregman to 2B
+t6;5-2;2;123;2,(0-1) CX;RR;HOU;Kyle Tucker;Nick Ramirez;8%;96%;Double to RF (Line Drive to RF Line); Meyers Scores; Bregman Scores; Alvarez to 3B
+t6;7-2;2;-23;5,(2-2) BFFBX;O;HOU;Yainer Diaz;Nick Ramirez;-1%;95%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 2 LOB. Astros 7, Yankees 2.
+Bottom of the 6th, Yankees Batting, Behind 2-7, Astros' Hunter Brown facing 3-4-5 
+b6;2-7;0;---;5,(2-2) CBBF.X;O;NYY;Gleyber Torres;Hunter Brown;1%;96%;Flyball: RF (RF Line)
+b6;2-7;1;---;4,(2-1) BBSX;O;NYY;Giancarlo Stanton;Hunter Brown;1%;97%;Groundout: 2B-1B
+b6;2-7;2;---;6,(3-2) BCCBBS;O;NYY;Billy McKinney;Hunter Brown;0%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 7, Yankees 2.
+Top of the 7th, Astros Batting, Ahead 7-2, Yankees' Nick Ramirez facing 6-7-8 
+t7;7-2;0;---;7,(1-2) CFBFFFS;O;HOU;José Abreu;Nick Ramirez;0%;97%;Strikeout Swinging
+t7;7-2;1;---;3,(1-1) FBX;O;HOU;Chas McCormick;Nick Ramirez;0%;96%;Groundout: 3B-1B (SS-3B Hole)
+t7;7-2;2;---;2,(0-1) TX;;HOU;Jeremy Peña;Nick Ramirez;0%;97%;Single to 3B (Ground Ball to Weak 3B)
+t7;7-2;2;1--;2,(0-1) C1X;O;HOU;Jake Meyers;Nick Ramirez;0%;96%;Flyball: CF (Short CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 7, Yankees 2.
+Bottom of the 7th, Yankees Batting, Behind 2-7, Astros' Hector Neris facing 6-7-8 
+;;;;;;;;;Hector Neris replaces Hunter Brown pitching
+b7;2-7;0;---;2,(1-0) .BX;;NYY;DJ LeMahieu;Hector Neris;-3%;94%;Double to LF (Line Drive to Deep LF-CF)
+b7;2-7;0;-2-;5,(3-1) BCBBB;;NYY;Harrison Bader;Hector Neris;-3%;91%;Walk
+b7;2-7;0;12-;5,(1-2) BCFFS;O;NYY;Anthony Volpe;Hector Neris;3%;94%;Strikeout Swinging
+;;;;;;;;;Aaron Judge pinch hits for Kyle Higashioka (C) batting 9th
+b7;2-7;1;12-;3,(0-2) .CFS;O;NYY;Aaron Judge;Hector Neris;2%;97%;Strikeout Swinging
+b7;2-7;2;12-;4,(1-2) CBCX;O;NYY;Isiah Kiner-Falefa;Hector Neris;2%;98%;Lineout: 3B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Astros 7, Yankees 2.
+Top of the 8th, Astros Batting, Ahead 7-2, Yankees' Nick Ramirez facing 1-2-3 
+;;;;;;;;;Ben Rortvedt replaces Aaron Judge (PH) playing C batting 9th
+t8;7-2;0;---;1,(0-0) .X;O;HOU;Jose Altuve;Nick Ramirez;0%;98%;Flyball: CF (Deep CF)
+t8;7-2;1;---;2,(0-1) CX;O;HOU;Alex Bregman;Nick Ramirez;0%;98%;Flyball: RF
+t8;7-2;2;---;2,(0-1) .CX;;HOU;Yordan Alvarez;Nick Ramirez;0%;98%;Single to 3B (Ground Ball to Weak 3B)
+t8;7-2;2;1--;4,(1-2) SS*BX;O;HOU;Kyle Tucker;Nick Ramirez;0%;98%;Groundout: 1B unassisted (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 7, Yankees 2.
+Bottom of the 8th, Yankees Batting, Behind 2-7, Astros' Rafael Montero facing 2-3-4 
+;;;;;;;;;Rafael Montero replaces Hector Neris pitching
+b8;2-7;0;---;7,(3-2) .BSCF.BBS;O;NYY;Jake Bauers;Rafael Montero;1%;99%;Strikeout Swinging
+b8;2-7;1;---;4,(1-2) BSFS;O;NYY;Gleyber Torres;Rafael Montero;0%;99%;Strikeout Swinging
+b8;2-7;2;---;5,(1-2) CSFBX;R;NYY;Giancarlo Stanton;Rafael Montero;-1%;98%;Home Run (Line Drive to Deep LF)
+b8;3-7;2;---;4,(2-1) BBFX;O;NYY;Billy McKinney;Rafael Montero;0%;99%;Groundout: P-1B (Weak SS-2B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Astros 7, Yankees 3.
+Top of the 9th, Astros Batting, Ahead 7-3, Yankees' Keynan Middleton facing 5-6-7 
+;;;;;;;;;Keynan Middleton replaces Nick Ramirez pitching
+t9;7-3;0;---;1,(0-0) .X;O;HOU;Yainer Diaz;Keynan Middleton;0%;98%;Groundout: P-1B (Front of Home)
+t9;7-3;1;---;6,(2-2) CBS.FBC;O;HOU;José Abreu;Keynan Middleton;0%;98%;Strikeout Looking
+t9;7-3;2;---;3,(0-2) CCS;O;HOU;Chas McCormick;Keynan Middleton;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 7, Yankees 3.
+Bottom of the 9th, Yankees Batting, Behind 3-7, Astros' Ryan Pressly facing 6-7-8 
+;;;;;;;;;Ryan Pressly replaces Rafael Montero pitching
+b9;3-7;0;---;8,(3-2) .CBBBCFFX;;NYY;DJ LeMahieu;Ryan Pressly;-2%;96%;Single to 3B (Ground Ball)
+b9;3-7;0;1--;2,(1-0) BX;O;NYY;Harrison Bader;Ryan Pressly;2%;98%;Groundout: SS-2B/Forceout at 2B (SS-2B); Bader to 1B
+b9;3-7;1;1--;3,(1-1) CBX;O;NYY;Anthony Volpe;Ryan Pressly;1%;99%;Lineout: LF
+b9;3-7;2;1--;8,(3-2) BCBT.FB>F>B;;NYY;Ben Rortvedt;Ryan Pressly;-1%;99%;Walk; Bader to 2B
+b9;3-7;2;12-;1,(0-0) X;O;NYY;Isiah Kiner-Falefa;Ryan Pressly;1%;100%;Groundout: 2B-SS/Forceout at 2B; Kiner-Falefa to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Astros 7, Yankees 3.

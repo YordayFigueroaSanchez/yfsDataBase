@@ -1,0 +1,271 @@
+
+Scorebox Meta
+20230614
+5:05 p.m. Local
+24186
+Comerica Park
+142
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/ATL-2023.png;/teams/ATL/2023.shtml;1;1;1;2;0;1;0;0;0;6;10;0
+https://cdn.ssref.net/req/202308101/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;0;0;1;4;0;0;0;0;0;5;6;0
+
+Batting home
+Zack Short;/players/s/shortza01.shtml;2B;3;0;0;0;0;1;3;.264;.325;.417;.742;14;11;-0.066; 0.87;0.000;-0.066;-0.01%; 0.33; -0.6;3;3;
+Kerry Carpenter;/players/c/carpeke01.shtml;PH-LF;1;0;0;0;0;0;1;.267;.320;.467;.786;5;3;-0.049; 1.91;0.000;-0.049;-0.01%; 0.72; -0.2;0;0;
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;3;0;1;0;1;1;4;.235;.323;.383;.705;16;7;-0.010; 0.80;0.041;-0.051;-0.00%; 0.30; 0.1;6;1;
+Andy Ibáñez;/players/i/ibanean01.shtml;LF-3B-LF-2B;4;1;1;1;0;0;4;.221;.254;.407;.661;10;7;0.005; 0.89;0.087;-0.082; 0.00%; 0.33; 0.4;1;0;HR
+Javier Báez;/players/b/baezja01.shtml;SS;4;0;1;0;0;1;4;.228;.267;.320;.587;12;10;-0.084; 1.23;0.021;-0.105;-0.02%; 0.46; -0.4;2;3;
+Matt Vierling;/players/v/vierlma01.shtml;RF-CF;4;1;1;1;0;0;4;.244;.301;.372;.673;12;9;-0.040; 1.30;0.071;-0.112;-0.01%; 0.49; 0.2;2;0;HR
+Jonathan Schoop;/players/s/schoojo01.shtml;3B;1;1;1;0;1;0;2;.210;.295;.260;.555;7;3;0.082; 0.97;0.082;0.000; 0.02%; 0.37; 0.8;0;0;
+Zach McKinstry;/players/m/mckinza01.shtml;PH-LF-RF;2;0;0;0;0;0;2;.250;.346;.386;.733;12;8;-0.047; 0.92;0.000;-0.047;-0.01%; 0.34; -0.2;0;0;
+Miguel Cabrera;/players/c/cabremi01.shtml;DH;3;1;0;0;1;2;4;.226;.302;.322;.624;21;13;-0.098; 2.09;0.068;-0.166;-0.02%; 0.79; -0.2;;;
+Jake Rogers;/players/r/rogerja03.shtml;C;4;1;1;3;0;1;4;.174;.273;.443;.716;13;9;0.116; 1.86;0.240;-0.125; 0.03%; 0.70; 1.4;7;1;HR
+Jake Marisnick;/players/m/marisja01.shtml;CF;2;0;0;0;0;0;2;.200;.243;.257;.500;7;6;-0.051; 0.96;0.000;-0.051;-0.01%; 0.36; -0.5;5;0;
+Nick Maton;/players/m/matonni01.shtml;PH-3B;1;0;0;0;0;1;1;.160;.288;.303;.591;7;4;-0.019; 0.75;0.000;-0.019;-0.00%; 0.28; -0.1;0;0;
+Eric Haase;/players/h/haaseer01.shtml;PH;1;0;0;0;0;1;1;.218;.278;.309;.587;4;4;-0.047; 1.81;0.000;-0.047;-0.01%; 0.68; -0.1;;;
+Michael Lorenzen;/players/l/lorenmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Jason Foley;/players/f/foleyja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+José Cisnero;/players/c/cisnejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chasen Shreve;/players/s/shrevch01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+HR: Andy Ibáñez (4, off Dylan Dodd, 3rd inn, 0 on, 2 outs to Deep LF); Matt Vierling (5, off Dylan Dodd, 4th inn, 0 on, 0 outs to Deep LF Line); Jake Rogers (9, off Dylan Dodd, 4th inn, 2 on, 0 outs to Deep LF).
+
+
+TB: Andy Ibáñez 4; Jake Rogers 4; Matt Vierling 4; Spencer Torkelson; Javier Báez; Jonathan Schoop.
+
+
+RBI: Jake Rogers 3 (21); Andy Ibáñez (10); Matt Vierling (16).
+
+
+2-out RBI: Andy Ibáñez.
+
+
+Team LOB: 4.
+With RISP: 1 for 2.
+
+Batting away
+Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF;3;2;1;1;2;0;5;.333;.405;.580;.985;18;9;0.086; 0.84;0.156;-0.070; 0.06%; 1.00; 0.9;3;0;HR,CS
+Matt Olson;/players/o/olsonma02.shtml;1B;4;0;1;0;1;3;5;.228;.347;.483;.830;26;16;0.078; 1.00;0.136;-0.058; 0.06%; 1.20; 0.6;9;0;
+Austin Riley;/players/r/rileyau01.shtml;3B;3;0;1;1;0;0;4;.265;.329;.439;.768;16;11;0.025; 1.10;0.071;-0.046; 0.02%; 1.32; 0.0;0;3;SF
+Sean Murphy;/players/m/murphse01.shtml;C;4;0;0;0;0;1;4;.276;.377;.526;.903;9;8;-0.143; 1.15;0.000;-0.143;-0.10%; 1.37; -1.4;8;0;GDP
+Marcell Ozuna;/players/o/ozunama01.shtml;DH;4;0;1;0;0;1;4;.246;.324;.497;.821;14;9;-0.130; 1.19;0.024;-0.155;-0.09%; 1.42; -1.1;;;GDP
+Eddie Rosario;/players/r/rosared01.shtml;LF;3;2;2;1;1;0;4;.249;.282;.450;.732;14;8;0.200; 0.91;0.215;-0.015; 0.14%; 1.08; 1.5;3;0;HR
+Ozzie Albies;/players/a/albieoz01.shtml;2B;4;2;2;1;0;1;4;.257;.312;.486;.798;12;7;0.101; 1.04;0.168;-0.067; 0.07%; 1.23; 1.2;1;2;HR,2B
+Orlando Arcia;/players/a/arciaor01.shtml;SS;4;0;2;2;0;1;4;.331;.383;.470;.853;19;12;0.035; 0.99;0.097;-0.062; 0.03%; 1.18; 0.8;1;2;
+Michael Harris II;/players/h/harrimi04.shtml;CF;4;0;0;0;0;0;4;.221;.288;.364;.652;10;9;-0.060; 0.56;0.000;-0.060;-0.04%; 0.67; -0.9;2;0;
+Dylan Dodd;/players/d/dodddy01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Collin McHugh;/players/m/mchugco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joe Jiménez;/players/j/jimenjo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+A.J. Minter;/players/m/minteaj01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ozzie Albies (12, off Michael Lorenzen).
+
+
+HR: Ozzie Albies (15, off Michael Lorenzen, 2nd inn, 0 on, 2 outs to Deep RF); Ronald Acuna Jr. (15, off Michael Lorenzen, 3rd inn, 0 on, 0 outs to Deep CF); Eddie Rosario (9, off Michael Lorenzen, 6th inn, 0 on, 0 outs to Deep RF).
+
+
+SF: Austin Riley (6, off Michael Lorenzen).
+
+
+TB: Ozzie Albies 6; Eddie Rosario 5; Ronald Acuna Jr. 4; Orlando Arcia 2; Austin Riley; Marcell Ozuna; Matt Olson.
+
+
+GIDP: Sean Murphy (8); Marcell Ozuna (5).
+
+
+RBI: Orlando Arcia 2 (23); Eddie Rosario (27); Ronald Acuna Jr. (44); Ozzie Albies (44); Austin Riley (34).
+
+
+2-out RBI: Ozzie Albies.
+
+
+Team LOB: 5.
+With RISP: 1 for 7.
+
+Pitching home
+Michael Lorenzen;/players/l/lorenmi01.shtml; L (2-4); 6 ;9;6;6;2;3;3;4.23;27;94;61;42;10;9;7;15;7;0;31;;;-0.336; 0.94;-0.08%; 0.35; -3.0
+Jason Foley;/players/f/foleyja01.shtml;Jason Foley; 1 ;0;0;0;1;1;0;2.54;3;17;8;4;2;2;1;0;0;0;;0;0;0.055; 1.00; 0.01%; 0.38; 0.5
+José Cisnero;/players/c/cisnejo01.shtml;José Cisnero; 1 ;1;0;0;1;2;0;2.55;5;16;11;4;3;4;1;1;1;0;;0;0;0.052; 1.27; 0.01%; 0.48; 0.5
+Chasen Shreve;/players/s/shrevch01.shtml;Chasen Shreve; 1 ;0;0;0;0;1;0;4.38;3;11;9;3;4;2;2;0;0;0;;0;0;0.038; 0.50; 0.01%; 0.19; 0.5
+
+Pitching away
+Dylan Dodd;/players/d/dodddy01.shtml;Dylan Dodd; 4 ;6;5;5;3;2;3;7.40;21;79;50;33;6;11;4;12;4;0;29;;;-0.294; 1.03;-0.21%; 1.23; -3.0
+Collin McHugh;/players/m/mchugco01.shtml; W (3-0); 3 ;0;0;0;0;4;0;2.79;9;44;29;15;8;6;2;3;1;0;;0;0;0.262; 1.15; 0.19%; 1.37; 1.5
+Joe Jiménez;/players/j/jimenjo02.shtml; H (4); 1.2;0;0;0;0;1;0;3.47;5;13;11;7;1;3;1;3;0;0;;0;0;0.294; 2.34; 0.21%; 2.78; 0.9
+A.J. Minter;/players/m/minteaj01.shtml; S (10); 0.1;0;0;0;0;1;0;5.68;1;4;4;2;1;1;0;0;0;0;;0;0;0.047; 1.81; 0.03%; 2.15; 0.1
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Mark Carlson, 1B - Brennan Miller, 2B - Jordan Baker, 3B - Ryan Wills, LF - (none), RF - (none).
+Time of Game: 2:22.
+Attendance: 24,186.
+Field Condition: Unknown.
+Start Time Weather: 73° F, Wind 9mph out to Centerfield, Cloudy, No Precipitation.
+
+div_lineups
+Braves
+1;Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF
+2;Matt Olson;/players/o/olsonma02.shtml;1B
+3;Austin Riley;/players/r/rileyau01.shtml;3B
+4;Sean Murphy;/players/m/murphse01.shtml;C
+5;Marcell Ozuna;/players/o/ozunama01.shtml;DH
+6;Eddie Rosario;/players/r/rosared01.shtml;LF
+7;Ozzie Albies;/players/a/albieoz01.shtml;2B
+8;Orlando Arcia;/players/a/arciaor01.shtml;SS
+9;Michael Harris II;/players/h/harrimi04.shtml;CF
+; Dylan Dodd;/players/d/dodddy01.shtml;P
+Tigers
+1;Zack Short;/players/s/shortza01.shtml;2B
+2;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+3;Andy Ibáñez;/players/i/ibanean01.shtml;LF
+4;Javier Báez;/players/b/baezja01.shtml;SS
+5;Matt Vierling;/players/v/vierlma01.shtml;RF
+6;Jonathan Schoop;/players/s/schoojo01.shtml;3B
+7;Miguel Cabrera;/players/c/cabremi01.shtml;DH
+8;Jake Rogers;/players/r/rogerja03.shtml;C
+9;Jake Marisnick;/players/m/marisja01.shtml;CF
+; Michael Lorenzen;/players/l/lorenmi01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b4;2-5;0;12-;1,(0-0) X;RRR;DET;Jake Rogers;Dylan Dodd;-24%;44%;Home Run (Fly Ball to Deep LF); Schoop Scores; Cabrera Scores
+t6;5-5;0;---;3,(2-1) ..VSBX;R;ATL;Eddie Rosario;Michael Lorenzen;16%;66%;Home Run (Fly Ball to Deep RF)
+t5;5-5;1;12-;5,(2-2) CFBBX;OO;ATL;Marcell Ozuna;Michael Lorenzen;-12%;43%;Ground Ball Double Play: SS-2B-1B (Weak SS)
+t2;1-0;2;---;4,(2-1) FBBX;R;ATL;Ozzie Albies;Michael Lorenzen;10%;67%;Home Run (Fly Ball to Deep RF)
+t1;0-0;0;1--;3,(0-2) FFX;;ATL;Matt Olson;Michael Lorenzen;9%;62%;Single to CF (Ground Ball); Acuña to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Braves Batting, Tied 0-0, Tigers' Michael Lorenzen facing 1-2-3 
+t1;0-0;0;---;7,(3-2) SBBBFFB;;ATL;Ronald Acuna Jr.;Michael Lorenzen;4%;54%;Walk
+t1;0-0;0;1--;3,(0-2) FFX;;ATL;Matt Olson;Michael Lorenzen;9%;62%;Single to CF (Ground Ball); Acuña to 3B
+t1;0-0;0;1-3;2,(0-1) FX;RO;ATL;Austin Riley;Michael Lorenzen;-2%;60%;Flyball: 2B/Sacrifice Fly (Short CF-RF); Acuña Scores
+t1;1-0;1;1--;1,(0-0) X;OO;ATL;Sean Murphy;Michael Lorenzen;-5%;55%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Braves 1, Tigers 0.
+Bottom of the 1st, Tigers Batting, Behind 0-1, Braves' Dylan Dodd facing 1-2-3 
+b1;0-1;0;---;5,(2-2) FBBCS;O;DET;Zack Short;Dylan Dodd;2%;58%;Strikeout Swinging
+b1;0-1;1;---;4,(3-0) BBBB;;DET;Spencer Torkelson;Dylan Dodd;-3%;55%;Walk
+b1;0-1;1;1--;5,(1-2) CCFBX;O;DET;Andy Ibáñez;Dylan Dodd;3%;58%;Flyball: LF (LF-CF)
+b1;0-1;2;1--;1,(0-0) X;;DET;Javier Báez;Dylan Dodd;-2%;56%;Single to RF (Line Drive to Short CF-RF); Torkelson to 2B
+b1;0-1;2;12-;2,(1-0) BX;O;DET;Matt Vierling;Dylan Dodd;4%;61%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Braves 1, Tigers 0.
+Top of the 2nd, Braves Batting, Ahead 1-0, Tigers' Michael Lorenzen facing 5-6-7 
+t2;1-0;0;---;6,(3-2) CBFBBS;O;ATL;Marcell Ozuna;Michael Lorenzen;-2%;58%;Strikeout Swinging
+t2;1-0;1;---;4,(1-2) BSFX;O;ATL;Eddie Rosario;Michael Lorenzen;-1%;57%;Lineout: 2B (Deep 2B)
+t2;1-0;2;---;4,(2-1) FBBX;R;ATL;Ozzie Albies;Michael Lorenzen;10%;67%;Home Run (Fly Ball to Deep RF)
+t2;2-0;2;---;8,(3-2) CCBBF.BFX;;ATL;Orlando Arcia;Michael Lorenzen;1%;68%;Single to LF (Line Drive)
+t2;2-0;2;1--;2,(0-1) CX;O;ATL;Michael Harris II;Michael Lorenzen;-2%;66%;Flyball: LF (LF-CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Braves 2, Tigers 0.
+Bottom of the 2nd, Tigers Batting, Behind 0-2, Braves' Dylan Dodd facing 6-7-8 
+b2;0-2;0;---;6,(3-2) BBFBSB;;DET;Jonathan Schoop;Dylan Dodd;-4%;62%;Walk
+b2;0-2;0;1--;5,(2-2) BBCST;O;DET;Miguel Cabrera;Dylan Dodd;4%;66%;Strikeout Swinging
+b2;0-2;1;1--;6,(2-2) BCFF*BX;O;DET;Jake Rogers;Dylan Dodd;3%;69%;Lineout: SS (Deep SS)
+b2;0-2;2;1--;2,(0-1) TX;O;DET;Jake Marisnick;Dylan Dodd;2%;72%;Flyball: RF (Short RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Braves 2, Tigers 0.
+Top of the 3rd, Braves Batting, Ahead 2-0, Tigers' Michael Lorenzen facing 1-2-3 
+t3;2-0;0;---;3,(1-1) BCX;R;ATL;Ronald Acuna Jr.;Michael Lorenzen;8%;80%;Home Run (Fly Ball to Deep CF)
+t3;3-0;0;---;4,(1-2) SBS.S;O;ATL;Matt Olson;Michael Lorenzen;-1%;79%;Strikeout Swinging
+t3;3-0;1;---;5,(2-2) SBFBX;O;ATL;Austin Riley;Michael Lorenzen;-1%;78%;Groundout: 2B-1B
+t3;3-0;2;---;3,(0-2) CFS;O;ATL;Sean Murphy;Michael Lorenzen;-1%;77%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Braves 3, Tigers 0.
+Bottom of the 3rd, Tigers Batting, Behind 0-3, Braves' Dylan Dodd facing 1-2-3 
+b3;0-3;0;---;5,(0-2) CSFFX;O;DET;Zack Short;Dylan Dodd;2%;79%;Foul Popfly: 1B (1B into Foul Terr.)
+b3;0-3;1;---;5,(3-1) BBFBX;O;DET;Spencer Torkelson;Dylan Dodd;2%;81%;Groundout: 3B-1B
+b3;0-3;2;---;3,(2-0) BBX;R;DET;Andy Ibáñez;Dylan Dodd;-9%;72%;Home Run (Fly Ball to Deep LF)
+b3;1-3;2;---;4,(0-2) CC.FX;O;DET;Javier Báez;Dylan Dodd;1%;73%;Groundout: 3B-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Braves 3, Tigers 1.
+Top of the 4th, Braves Batting, Ahead 3-1, Tigers' Michael Lorenzen facing 5-6-7 
+t4;3-1;0;---;2,(0-1) CX;O;ATL;Marcell Ozuna;Michael Lorenzen;-2%;72%;Flyball: CF (Deep CF-RF)
+t4;3-1;1;---;2,(0-1) CX;;ATL;Eddie Rosario;Michael Lorenzen;2%;73%;Single to P (Bunt to Short 3B Line)
+t4;3-1;1;1--;4,(3-0) BBBX;;ATL;Ozzie Albies;Michael Lorenzen;7%;80%;Double to RF (Line Drive to Deep RF Line); Rosario to 3B
+t4;3-1;1;-23;4,(2-1) BFBX;RR;ATL;Orlando Arcia;Michael Lorenzen;9%;89%;Single to LF (Ground Ball); Rosario Scores; Albies Scores; Arcia to 2B
+t4;5-1;1;-2-;1,(0-0) X;O;ATL;Michael Harris II;Michael Lorenzen;-1%;87%;Lineout: CF (Deep CF)
+t4;5-1;2;-2-;1,(0-0) X;O;ATL;Ronald Acuna Jr.;Michael Lorenzen;-1%;86%;Lineout: CF (Deep CF-RF)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Braves 5, Tigers 1.
+Bottom of the 4th, Tigers Batting, Behind 1-5, Braves' Dylan Dodd facing 5-6-7 
+b4;1-5;0;---;4,(1-2) CF.BX;R;DET;Matt Vierling;Dylan Dodd;-7%;79%;Home Run (Fly Ball to Deep LF Line)
+b4;2-5;0;---;1,(0-0) X;;DET;Jonathan Schoop;Dylan Dodd;-4%;75%;Single to CF (Line Drive to Deep CF)
+b4;2-5;0;1--;7,(3-2) BSSFBBB;;DET;Miguel Cabrera;Dylan Dodd;-7%;68%;Walk; Schoop to 2B
+b4;2-5;0;12-;1,(0-0) X;RRR;DET;Jake Rogers;Dylan Dodd;-24%;44%;Home Run (Fly Ball to Deep LF); Schoop Scores; Cabrera Scores
+b4;5-5;0;---;5,(1-2) FBCFX;O;DET;Jake Marisnick;Dylan Dodd;3%;47%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;Force Play Challenged by DET manager (A.J. Hinch): Original call upheld upon review.
+b4;5-5;1;---;4,(1-2) CFBX;O;DET;Zack Short;Dylan Dodd;2%;49%;Popfly: 2B (SS-2B)
+b4;5-5;2;---;3,(1-1) BFX;;DET;Spencer Torkelson;Dylan Dodd;-1%;47%;Single to LF (Line Drive to LF-CF)
+b4;5-5;2;1--;1,(0-0) X;O;DET;Andy Ibáñez;Dylan Dodd;3%;50%;Flyball: CF (Deep CF)
+;;;;;;;;;4 runs, 4 hits, 0 errors, 1 LOB. Braves 5, Tigers 5.
+Top of the 5th, Braves Batting, Tied 5-5, Tigers' Michael Lorenzen facing 2-3-4 
+t5;5-5;0;---;6,(3-2) FFBBBB;;ATL;Matt Olson;Michael Lorenzen;5%;55%;Walk
+t5;5-5;0;1--;4,(1-2) FFBX;;ATL;Austin Riley;Michael Lorenzen;7%;62%;Single to RF (Line Drive to Short CF-RF); Olson to 2B
+t5;5-5;0;12-;1,(0-0) X;O;ATL;Sean Murphy;Michael Lorenzen;-7%;55%;Flyball: RF (Short CF-RF)
+t5;5-5;1;12-;5,(2-2) CFBBX;OO;ATL;Marcell Ozuna;Michael Lorenzen;-12%;43%;Ground Ball Double Play: SS-2B-1B (Weak SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 5, Tigers 5.
+Bottom of the 5th, Tigers Batting, Tied 5-5, Braves' Collin McHugh facing 4-5-6 
+;;;;;;;;;Collin McHugh replaces Dylan Dodd pitching
+b5;5-5;0;---;5,(2-2) .BSS.BS;O;DET;Javier Báez;Collin McHugh;3%;46%;Strikeout Swinging
+b5;5-5;1;---;4,(1-2) CC.BX;O;DET;Matt Vierling;Collin McHugh;2%;49%;Lineout: 1B (Deep 2B-1B)
+;;;;;;;;;Zach McKinstry pinch hits for Jonathan Schoop (3B) batting 6th
+b5;5-5;2;---;8,(3-2) .BFBFBFFX;O;DET;Zach McKinstry;Collin McHugh;1%;50%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 5, Tigers 5.
+Top of the 6th, Braves Batting, Tied 5-5, Tigers' Michael Lorenzen facing 6-7-8 
+;;;;;;;;;Andy Ibáñez moves from LF to 3B Zach McKinstry moves from PH to LF 
+t6;5-5;0;---;3,(2-1) ..VSBX;R;ATL;Eddie Rosario;Michael Lorenzen;16%;66%;Home Run (Fly Ball to Deep RF)
+t6;6-5;0;---;1,(0-0) X;O;ATL;Ozzie Albies;Michael Lorenzen;-2%;64%;Flyball: CF
+t6;6-5;1;---;4,(2-1) BBFX;O;ATL;Orlando Arcia;Michael Lorenzen;-2%;62%;Lineout: CF (Deep CF)
+t6;6-5;2;---;4,(1-2) BFSX;O;ATL;Michael Harris II;Michael Lorenzen;-1%;61%;Groundout: P-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Braves 6, Tigers 5.
+Bottom of the 6th, Tigers Batting, Behind 5-6, Braves' Collin McHugh facing 7-8-9 
+b6;5-6;0;---;6,(2-2) FBBF.FX;O;DET;Miguel Cabrera;Collin McHugh;4%;65%;Groundout: 3B-1B
+b6;5-6;1;---;4,(1-2) BFS.S;O;DET;Jake Rogers;Collin McHugh;3%;68%;Strikeout Swinging
+;;;;;;;;;Nick Maton pinch hits for Jake Marisnick (CF) batting 9th
+b6;5-6;2;---;7,(3-2) .CS.BBBFT;O;DET;Nick Maton;Collin McHugh;2%;70%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 6, Tigers 5.
+Top of the 7th, Braves Batting, Ahead 6-5, Tigers' Jason Foley facing 1-2-3 
+;;;;;;;;;Jason Foley replaces Michael Lorenzen pitchingNick Maton moves from PH to 3B Andy Ibáñez moves from 3B to LF Matt Vierling moves from RF to CF Zach McKinstry moves from LF to RF 
+t7;6-5;0;---;5,(3-1) .....BBFBB;;ATL;Ronald Acuna Jr.;Jason Foley;4%;73%;Walk
+t7;6-5;0;1--;7,(3-2) BCSB1B1>F>S;OO;ATL;Matt Olson;Jason Foley;-8%;65%;Double Play: Strikeout Swinging, Acuña Caught Stealing 2B (C-SS)
+t7;6-5;2;---;5,(2-2) BCFBX;O;ATL;Austin Riley;Jason Foley;-1%;64%;Groundout: P-1B (Weak 2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 6, Tigers 5.
+Bottom of the 7th, Tigers Batting, Behind 5-6, Braves' Collin McHugh facing 1-2-3 
+;;;;;;;;;Kerry Carpenter pinch hits for Zack Short (2B) batting 1st
+b7;5-6;0;---;5,(2-2) .CBBSX;O;DET;Kerry Carpenter;Collin McHugh;5%;69%;Flyball: LF (Short LF Line)
+b7;5-6;1;---;4,(1-2) BCC.S;O;DET;Spencer Torkelson;Collin McHugh;4%;72%;Strikeout Swinging
+b7;5-6;2;---;1,(0-0) X;O;DET;Andy Ibáñez;Collin McHugh;2%;75%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 6, Tigers 5.
+Top of the 8th, Braves Batting, Ahead 6-5, Tigers' José Cisnero facing 4-5-6 
+;;;;;;;;;José Cisnero replaces Jason Foley pitchingAndy Ibáñez moves from LF to 2B Kerry Carpenter moves from PH to LF 
+t8;6-5;0;---;4,(1-2) ...CBFX;O;ATL;Sean Murphy;José Cisnero;-2%;73%;Lineout: CF (Deep CF)
+t8;6-5;1;---;1,(0-0) X;;ATL;Marcell Ozuna;José Cisnero;2%;75%;Single to CF (Ground Ball thru SS-2B)
+t8;6-5;1;1--;5,(3-1) BBBCB;;ATL;Eddie Rosario;José Cisnero;3%;78%;Walk; Ozuna to 2B
+t8;6-5;1;12-;3,(0-2) SFS;O;ATL;Ozzie Albies;José Cisnero;-4%;74%;Strikeout Swinging
+t8;6-5;2;12-;3,(0-2) SCC;O;ATL;Orlando Arcia;José Cisnero;-4%;70%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Braves 6, Tigers 5.
+Bottom of the 8th, Tigers Batting, Behind 5-6, Braves' Joe Jiménez facing 4-5-6 
+;;;;;;;;;Joe Jiménez replaces Collin McHugh pitching
+b8;5-6;0;---;2,(0-1) .CX;O;DET;Javier Báez;Joe Jiménez;6%;76%;Flyball: LF (Deep LF)
+b8;5-6;1;---;2,(0-1) CX;O;DET;Matt Vierling;Joe Jiménez;5%;81%;Flyball: RF (RF Line)
+b8;5-6;2;---;4,(1-2) CBFX;O;DET;Zach McKinstry;Joe Jiménez;3%;84%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 6, Tigers 5.
+Top of the 9th, Braves Batting, Ahead 6-5, Tigers' Chasen Shreve facing 9-1-2 
+;;;;;;;;;Chasen Shreve replaces José Cisnero pitching
+t9;6-5;0;---;3,(0-2) .CSX;O;ATL;Michael Harris II;Chasen Shreve;-2%;82%;Groundout: 1B-P
+t9;6-5;1;---;2,(0-1) CX;O;ATL;Ronald Acuna Jr.;Chasen Shreve;-1%;81%;Groundout: SS-1B
+t9;6-5;2;---;6,(2-2) SBSFBS;O;ATL;Matt Olson;Chasen Shreve;-1%;80%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 6, Tigers 5.
+Bottom of the 9th, Tigers Batting, Behind 5-6, Braves' Joe Jiménez facing 7-8-9 
+b9;5-6;0;---;3,(0-2) FT*S;O;DET;Miguel Cabrera;Joe Jiménez;9%;89%;Strikeout Swinging
+b9;5-6;1;---;2,(1-0) BX;O;DET;Jake Rogers;Joe Jiménez;7%;95%;Flyball: CF (Deep CF)
+;;;;;;;;;A.J. Minter replaces Joe Jiménez pitchingEric Haase pinch hits for Nick Maton (3B) batting 9th
+b9;5-6;2;---;4,(0-2) ..CT.FS;O;DET;Eric Haase;A.J. Minter;5%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 6, Tigers 5.

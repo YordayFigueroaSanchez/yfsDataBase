@@ -1,0 +1,272 @@
+
+Scorebox Meta
+20230729
+3:07 p.m. Local
+41997
+Rogers Centre
+179
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;0;0;0;1;0;0;0;0;1;6;0
+https://cdn.ssref.net/req/202308101/tlogo/br/TOR-2023.png;/teams/TOR/2023.shtml;0;0;0;0;2;0;2;2;X;6;10;0
+
+Batting home
+Whit Merrifield;/players/m/merriwh01.shtml;LF-2B;5;0;2;1;0;0;5;.306;.355;.428;.783;24;19;0.003; 0.55;0.059;-0.055; 0.00%; 0.72; 0.7;0;0;2B
+Bo Bichette;/players/b/bichebo01.shtml;SS;5;0;2;0;0;0;5;.318;.349;.494;.843;12;11;0.012; 0.36;0.037;-0.025; 0.01%; 0.47; -0.4;0;0;2B
+Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;1B;3;0;0;0;1;0;4;.268;.341;.449;.790;18;11;-0.068; 0.71;0.002;-0.070;-0.05%; 0.92; -0.5;1;0;IW
+Matt Chapman;/players/c/chapmma01.shtml;3B;2;0;0;0;2;1;4;.261;.354;.465;.819;22;12;-0.005; 0.81;0.043;-0.048;-0.00%; 1.05; 0.2;0;0;
+George Springer;/players/s/springe01.shtml;RF;4;0;0;0;0;3;4;.252;.321;.389;.710;15;10;-0.086; 0.89;0.000;-0.086;-0.07%; 1.15; -1.5;4;0;
+Danny Jansen;/players/j/janseda01.shtml;DH;3;1;1;0;1;2;4;.233;.297;.490;.787;21;13;0.017; 0.56;0.041;-0.024; 0.01%; 0.73; 0.6;;;
+Alejandro Kirk;/players/k/kirkal01.shtml;C;4;3;3;3;0;1;4;.260;.338;.364;.702;14;10;0.125; 1.06;0.171;-0.046; 0.10%; 1.38; 2.5;16;0;2·HR
+Santiago Espinal;/players/e/espinsa01.shtml;2B;3;1;1;2;0;1;3;.232;.306;.324;.630;13;8;0.188; 1.45;0.243;-0.055; 0.15%; 1.88; 0.9;1;0;HR
+Daulton Varsho;/players/v/varshda01.shtml;PH-LF;1;0;0;0;0;1;1;.211;.274;.351;.625;7;4;-0.001; 0.02;0.000;-0.001;0%; 0.03; -0.2;0;0;
+Kevin Kiermaier;/players/k/kiermke01.shtml;CF;4;1;1;0;0;0;4;.276;.338;.425;.763;13;9;-0.036; 0.54;0.011;-0.047;-0.03%; 0.70; -0.4;5;0;
+Alek Manoah;/players/m/manoaal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Génesis Cabrera;/players/c/cabrege01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jay Jackson;/players/j/jacksja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Richards;/players/r/richatr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nate Pearson;/players/p/pearsna01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yimi García;/players/g/garciyi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Bo Bichette (25, off Reynaldo López); Whit Merrifield (19, off Aaron Loup).
+
+
+HR: Santiago Espinal (2, off Reid Detmers, 5th inn, 1 on, 0 outs to Deep LF); Alejandro Kirk 2 (6, 1 off Jaime Barria, 8th inn, 1 on, 0 outs to Deep LF Line, 1 off Aaron Loup, 7th inn, 0 on, 0 outs to Deep LF Line).
+
+
+IBB: Vladimir Guerrero Jr. (3, by Aaron Loup).
+
+
+TB: Alejandro Kirk 9; Santiago Espinal 4; Bo Bichette 3; Whit Merrifield 3; Kevin Kiermaier; Danny Jansen.
+
+
+RBI: Alejandro Kirk 3 (28); Santiago Espinal 2 (15); Whit Merrifield (48).
+
+
+Team LOB: 8.
+With RISP: 0 for 5.
+
+Batting away
+Luis Rengifo;/players/r/rengilu01.shtml;SS-LF;4;1;2;0;1;1;5;.224;.311;.380;.691;17;10;-0.014; 1.42;0.084;-0.098;-0.01%; 1.50; -0.1;2;2;2B
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;2;0;1;0;2;1;5;.302;.400;.683;1.083;12;8;0.148; 1.31;0.156;-0.008; 0.09%; 1.39; 1.0;;;2B,HBP,2·IW
+Mickey Moniak;/players/m/moniami01.shtml;CF;4;0;0;0;1;3;5;.325;.358;.592;.950;22;15;-0.122; 2.00;0.077;-0.200;-0.08%; 2.12; -1.1;2;0;
+Taylor Ward;/players/w/wardta01.shtml;LF;2;0;0;1;0;1;3;.253;.335;.421;.756;10;4;0.056; 1.82;0.112;-0.056; 0.03%; 1.92; 0.5;0;0;HBP
+Andrew Velazquez;/players/v/velazan01.shtml;PR-SS;1;0;0;0;0;1;1;.211;.308;.298;.606;5;3;-0.044; 1.73;0.000;-0.044;-0.03%; 1.83; -0.2;0;1;
+Trey Cabbage;/players/c/cabbatr01.shtml;PH;1;0;0;0;0;1;1;.241;.233;.414;.647;3;3;-0.001; 0.05;0.000;-0.001;-0.00%; 0.05; -0.2;;;
+Mike Moustakas;/players/m/moustmi01.shtml;1B;4;0;1;0;0;2;4;.268;.338;.444;.782;11;8;-0.112; 1.56;0.038;-0.149;-0.07%; 1.66; -0.9;7;0;
+Matt Thaiss;/players/t/thaisma01.shtml;C;4;0;0;0;0;1;4;.237;.347;.353;.700;25;16;-0.159; 1.60;0.000;-0.159;-0.10%; 1.69; -1.5;10;0;
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;4;0;2;0;0;1;4;.251;.312;.452;.763;14;9;0.094; 1.08;0.136;-0.042; 0.06%; 1.15; 0.6;2;0;2B
+Eduardo Escobar;/players/e/escobed01.shtml;3B;4;0;0;0;0;3;4;.242;.285;.376;.661;18;13;-0.142; 1.28;0.000;-0.142;-0.09%; 1.36; -1.2;0;1;
+Michael Stefanic;/players/s/stefami01.shtml;2B;3;0;0;0;1;0;4;.200;.333;.250;.583;17;10;-0.056; 1.30;0.032;-0.087;-0.03%; 1.38; -0.3;1;1;
+Reid Detmers;/players/d/detmere01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Reynaldo López;/players/l/lopezre01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Aaron Loup;/players/l/loupaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jaime Barria;/players/b/barrija01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Shohei Ohtani (17, off Alek Manoah); Luis Rengifo (8, off Alek Manoah); Hunter Renfroe (25, off Jay Jackson).
+
+
+IBB: Shohei Ohtani 2 (10, 1 by Trevor Richards, 1 by Alek Manoah).
+
+
+HBP: Shohei Ohtani (2, by Alek Manoah); Taylor Ward (8, by Alek Manoah).
+
+
+TB: Hunter Renfroe 3; Luis Rengifo 3; Shohei Ohtani 2; Mike Moustakas.
+
+
+RBI: Taylor Ward (47).
+
+
+Team LOB: 12.
+With RISP: 0 for 10.
+
+Pitching home
+Alek Manoah;/players/m/manoaal01.shtml;Alek Manoah; 4.1;4;1;1;3;6;0;5.87;22;82;53;38;8;7;4;7;1;0;54;;;-0.025; 1.42;-0.02%; 1.83; -0.1
+Génesis Cabrera;/players/c/cabrege01.shtml; W (2-1); 0.2;0;0;0;0;1;0;4.54;2;9;6;4;2;0;0;1;0;0;;3;0;0.152; 2.77; 0.12%; 3.60; 1.6
+Jay Jackson;/players/j/jacksja01.shtml; H (1); 0.2;1;0;0;1;1;0;0.55;4;20;10;5;2;3;0;2;1;0;;0;0;-0.001; 1.93; 0.00%; 2.50; 0.0
+Trevor Richards;/players/r/richatr01.shtml; H (8); 1.1;0;0;0;1;4;0;3.04;5;25;15;4;4;7;0;0;0;0;;2;0;0.177; 2.29; 0.14%; 2.97; 1.0
+Nate Pearson;/players/p/pearsna01.shtml; H (3); 1 ;0;0;0;0;1;0;4.62;3;7;5;2;1;2;0;2;0;0;;0;0;0.043; 0.56; 0.03%; 0.72; 0.5
+Yimi García;/players/g/garciyi01.shtml;Yimi García; 1 ;1;0;0;0;2;0;4.30;4;11;10;4;3;3;1;1;0;0;;0;0;0.006; 0.19; 0.01%; 0.24; 0.5
+
+Pitching away
+Reid Detmers;/players/d/detmere01.shtml; L (2-8); 4.2;3;2;2;2;5;1;4.35;19;91;61;35;9;17;5;7;3;0;53;;;-0.046; 1.04;-0.03%; 1.10; 0.4
+Reynaldo López;/players/l/lopezre01.shtml;Reynaldo López; 1.1;1;0;0;0;3;0;4.15;5;19;14;8;5;1;1;1;1;0;;0;0;0.058; 0.70; 0.04%; 0.74; 0.6
+Aaron Loup;/players/l/loupaa01.shtml;Aaron Loup; 0.2;3;2;2;2;0;1;5.16;7;27;17;11;0;6;2;3;2;0;;0;0;-0.156; 0.43;-0.10%; 0.46; -2.3
+Jaime Barria;/players/b/barrija01.shtml;Jaime Barria; 1.1;3;2;2;0;1;1;3.79;7;22;15;11;1;3;0;6;1;0;;3;0;-0.004; 0.13;-0.00%; 0.14; -0.7
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Alek Manoah 2 (8; Shohei Ohtani, Taylor Ward).
+IBB: Trevor Richards (1; Shohei Ohtani); Aaron Loup (4; Vladimir Guerrero Jr.); Alek Manoah (1; Shohei Ohtani).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Alek Manoah 2 (8; Shohei Ohtani, Taylor Ward).
+IBB: Trevor Richards (1; Shohei Ohtani); Aaron Loup (4; Vladimir Guerrero Jr.); Alek Manoah (1; Shohei Ohtani).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Andy Fletcher, 1B - Erich Bacchus, 2B - Ryan Wills, 3B - Mike Estabrook, LF - (none), RF - (none).
+Time of Game: 2:59.
+Attendance: 41,997.
+Start Time Weather: 68° F, Wind 0mph, In Dome.
+
+div_lineups
+Angels
+1;Luis Rengifo;/players/r/rengilu01.shtml;SS
+2;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+3;Mickey Moniak;/players/m/moniami01.shtml;CF
+4;Taylor Ward;/players/w/wardta01.shtml;LF
+5;Mike Moustakas;/players/m/moustmi01.shtml;1B
+6;Matt Thaiss;/players/t/thaisma01.shtml;C
+7;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+8;Eduardo Escobar;/players/e/escobed01.shtml;3B
+9;Michael Stefanic;/players/s/stefami01.shtml;2B
+; Reid Detmers;/players/d/detmere01.shtml;P
+Blue Jays
+1;Whit Merrifield;/players/m/merriwh01.shtml;LF
+2;Bo Bichette;/players/b/bichebo01.shtml;SS
+3;Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;1B
+4;Matt Chapman;/players/c/chapmma01.shtml;3B
+5;George Springer;/players/s/springe01.shtml;RF
+6;Danny Jansen;/players/j/janseda01.shtml;DH
+7;Alejandro Kirk;/players/k/kirkal01.shtml;C
+8;Santiago Espinal;/players/e/espinsa01.shtml;2B
+9;Kevin Kiermaier;/players/k/kiermke01.shtml;CF
+; Alek Manoah;/players/m/manoaal01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b5;0-1;0;1--;5,(3-1) BC*BBX;RR;TOR;Santiago Espinal;Reid Detmers;24%;71%;Home Run (Fly Ball to Deep LF); Kirk Scores
+t6;1-2;2;123;7,(3-2) SS.BBF*B>C;O;LAA;Mickey Moniak;Trevor Richards;12%;74%;Strikeout Looking
+t5;0-0;1;123;3,(2-0) BBH;R;LAA;Taylor Ward;Alek Manoah;-11%;26%;Hit By Pitch; Rengifo Scores; Ohtani to 3B; Moniak to 2B
+t6;1-2;0;---;5,(2-2) .CBBS.X;;LAA;Hunter Renfroe;Jay Jackson;-10%;56%;Double to RF (Line Drive to Deep RF Line)
+b7;2-1;0;---;3,(1-1) .BCX;R;TOR;Alejandro Kirk;Aaron Loup;10%;89%;Home Run (Line Drive to Deep LF Line)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, Blue Jays' Alek Manoah facing 1-2-3 
+t1;0-0;0;---;6,(2-2) BCFBFC;O;LAA;Luis Rengifo;Alek Manoah;2%;52%;Strikeout Looking
+t1;0-0;1;---;5,(1-2) TBFFH;;LAA;Shohei Ohtani;Alek Manoah;-2%;50%;Hit By Pitch
+t1;0-0;1;1--;3,(0-2) TS*S;O;LAA;Mickey Moniak;Alek Manoah;3%;53%;Strikeout Swinging
+t1;0-0;2;1--;6,(3-2) BFF*B*B>T;O;LAA;Taylor Ward;Alek Manoah;2%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 0, Blue Jays 0.
+Bottom of the 1st, Blue Jays Batting, Tied 0-0, Angels' Reid Detmers facing 1-2-3 
+b1;0-0;0;---;5,(1-2) CBFFX;O;TOR;Whit Merrifield;Reid Detmers;-2%;53%;Groundout: 2B-1B (SS-2B)
+b1;0-0;1;---;1,(0-0) X;O;TOR;Bo Bichette;Reid Detmers;-2%;51%;Groundout: SS-1B (Deep SS)
+b1;0-0;2;---;10,(3-2) SBBBFFFFFX;O;TOR;Vladimir Guerrero Jr.;Reid Detmers;-1%;50%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Blue Jays 0.
+Top of the 2nd, Angels Batting, Tied 0-0, Blue Jays' Alek Manoah facing 5-6-7 
+t2;0-0;0;---;2,(1-0) BX;;LAA;Mike Moustakas;Alek Manoah;-4%;46%;Single to 1B (Ground Ball)
+t2;0-0;0;1--;5,(2-2) FBS*BX;O;LAA;Matt Thaiss;Alek Manoah;4%;50%;Flyball: CF (Deep CF)
+t2;0-0;1;1--;3,(2-0) B*BX;;LAA;Hunter Renfroe;Alek Manoah;-4%;46%;Single to CF (Ground Ball thru SS-2B); Moustakas to 2B
+t2;0-0;1;12-;4,(0-2) FCFX;O;LAA;Eduardo Escobar;Alek Manoah;5%;51%;Flyball: RF (CF-RF)
+t2;0-0;2;12-;7,(3-2) C*BBFF*B.>B;;LAA;Michael Stefanic;Alek Manoah;-3%;48%;Walk; Moustakas to 3B; Renfroe to 2B
+t2;0-0;2;123;2,(1-0) *BX;O;LAA;Luis Rengifo;Alek Manoah;8%;55%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Angels 0, Blue Jays 0.
+Bottom of the 2nd, Blue Jays Batting, Tied 0-0, Angels' Reid Detmers facing 4-5-6 
+b2;0-0;0;---;6,(3-2) SBBCBB;;TOR;Matt Chapman;Reid Detmers;4%;59%;Walk
+b2;0-0;0;1--;4,(1-2) CBCC;O;TOR;George Springer;Reid Detmers;-3%;55%;Strikeout Looking
+b2;0-0;1;1--;6,(3-2) BCB*BC>B;;TOR;Danny Jansen;Reid Detmers;4%;59%;Walk; Chapman to 2B
+b2;0-0;1;12-;8,(3-2) BCS.FBFBC;O;TOR;Alejandro Kirk;Reid Detmers;-5%;54%;Strikeout Looking
+b2;0-0;2;12-;3,(0-2) CS.S;O;TOR;Santiago Espinal;Reid Detmers;-4%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Angels 0, Blue Jays 0.
+Top of the 3rd, Angels Batting, Tied 0-0, Blue Jays' Alek Manoah facing 2-3-4 
+t3;0-0;0;---;3,(1-1) BFX;;LAA;Shohei Ohtani;Alek Manoah;-7%;43%;Double to RF (Ground Ball)
+t3;0-0;0;-2-;3,(0-2) FFS;O;LAA;Mickey Moniak;Alek Manoah;5%;48%;Strikeout Swinging
+t3;0-0;1;-2-;1,(0-0) X;O;LAA;Taylor Ward;Alek Manoah;3%;51%;Flyball: RF (Deep CF-RF); Ohtani to 3B
+t3;0-0;2;--3;1,(0-0) X;O;LAA;Mike Moustakas;Alek Manoah;4%;56%;Groundout: P-1B (Weak 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 0, Blue Jays 0.
+Bottom of the 3rd, Blue Jays Batting, Tied 0-0, Angels' Reid Detmers facing 9-1-2 
+b3;0-0;0;---;1,(0-0) X;O;TOR;Kevin Kiermaier;Reid Detmers;-3%;53%;Popfly: SS (SS-2B)
+b3;0-0;1;---;2,(0-1) CX;O;TOR;Whit Merrifield;Reid Detmers;-2%;51%;Lineout: CF (Deep CF)
+b3;0-0;2;---;4,(0-2) SFFX;;TOR;Bo Bichette;Reid Detmers;1%;53%;Single to RF (Line Drive to Deep CF-RF)
+b3;0-0;2;1--;6,(3-2) 1*BBSBT>X;O;TOR;Vladimir Guerrero Jr.;Reid Detmers;-3%;50%;Popfly: 2B (Deep 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 0, Blue Jays 0.
+Top of the 4th, Angels Batting, Tied 0-0, Blue Jays' Alek Manoah facing 6-7-8 
+t4;0-0;0;---;6,(1-2) FSFBFX;O;LAA;Matt Thaiss;Alek Manoah;3%;53%;Flyball: CF (Deep CF)
+t4;0-0;1;---;5,(1-2) FFFBC;O;LAA;Hunter Renfroe;Alek Manoah;2%;55%;Strikeout Looking
+t4;0-0;2;---;5,(2-2) BFBF.*S;O;LAA;Eduardo Escobar;Alek Manoah;1%;56%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Blue Jays 0.
+Bottom of the 4th, Blue Jays Batting, Tied 0-0, Angels' Reid Detmers facing 4-5-6 
+b4;0-0;0;---;5,(1-2) CCFBX;O;TOR;Matt Chapman;Reid Detmers;-3%;53%;Flyball: CF (Deep CF)
+b4;0-0;1;---;5,(2-2) BFBFS;O;TOR;George Springer;Reid Detmers;-2%;51%;Strikeout Swinging
+b4;0-0;2;---;10,(3-2) CFBBFBFFFS;O;TOR;Danny Jansen;Reid Detmers;-1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Blue Jays 0.
+Top of the 5th, Angels Batting, Tied 0-0, Blue Jays' Alek Manoah facing 9-1-2 
+t5;0-0;0;---;4,(0-2) CFFX;O;LAA;Michael Stefanic;Alek Manoah;3%;53%;Flyball: RF (Short RF Line)
+t5;0-0;1;---;2,(0-1) CX;;LAA;Luis Rengifo;Alek Manoah;-6%;47%;Double to RF (Line Drive to Deep RF Line)
+t5;0-0;1;-2-;,(3-0) VVVV;;LAA;Shohei Ohtani;Alek Manoah;-2%;45%;Intentional Walk
+t5;0-0;1;12-;6,(3-2) BSSBBB;;LAA;Mickey Moniak;Alek Manoah;-8%;37%;Walk; Rengifo to 3B; Ohtani to 2B
+t5;0-0;1;123;3,(2-0) BBH;R;LAA;Taylor Ward;Alek Manoah;-11%;26%;Hit By Pitch; Rengifo Scores; Ohtani to 3B; Moniak to 2B
+;;;;;;;;;Génesis Cabrera replaces Alek Manoah pitchingAndrew Velazquez pinch runs for Taylor Ward (LF) batting 4th
+t5;1-0;1;123;3,(0-2) ..SFS;O;LAA;Mike Moustakas;Génesis Cabrera;8%;34%;Strikeout Swinging
+t5;1-0;2;123;6,(3-2) BFBBT>X;O;LAA;Matt Thaiss;Génesis Cabrera;8%;41%;Popfly: 2B
+;;;;;;;;;1 run, 1 hit, 0 errors, 3 LOB. Angels 1, Blue Jays 0.
+Bottom of the 5th, Blue Jays Batting, Behind 0-1, Angels' Reid Detmers facing 7-8-9 
+;;;;;;;;;Andrew Velazquez moves from PR to SS Luis Rengifo moves from SS to LF 
+b5;0-1;0;---;1,(0-0) ..X;;TOR;Alejandro Kirk;Reid Detmers;5%;47%;Single to LF (Line Drive to Deep LF)
+b5;0-1;0;1--;5,(3-1) BC*BBX;RR;TOR;Santiago Espinal;Reid Detmers;24%;71%;Home Run (Fly Ball to Deep LF); Kirk Scores
+b5;2-1;0;---;3,(1-1) CBX;O;TOR;Kevin Kiermaier;Reid Detmers;-2%;69%;Groundout: SS-1B (SS-2B)
+b5;2-1;1;---;6,(1-2) CBFFFX;O;TOR;Whit Merrifield;Reid Detmers;-2%;67%;Groundout: 3B-1B
+;;;;;;;;;Reynaldo López replaces Reid Detmers pitching
+b5;2-1;2;---;3,(1-1) .BCX;;TOR;Bo Bichette;Reynaldo López;2%;70%;Double to LF (Line Drive to LF Line)
+b5;2-1;2;-2-;2,(1-0) BX;O;TOR;Vladimir Guerrero Jr.;Reynaldo López;-3%;66%;Groundout: P-1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Angels 1, Blue Jays 2.
+Top of the 6th, Angels Batting, Behind 1-2, Blue Jays' Jay Jackson facing 7-8-9 
+;;;;;;;;;Jay Jackson replaces Génesis Cabrera pitching
+t6;1-2;0;---;5,(2-2) .CBBS.X;;LAA;Hunter Renfroe;Jay Jackson;-10%;56%;Double to RF (Line Drive to Deep RF Line)
+t6;1-2;0;-2-;4,(1-2) BCFS;O;LAA;Eduardo Escobar;Jay Jackson;7%;63%;Strikeout Swinging
+t6;1-2;1;-2-;5,(3-1) BBBCX;O;LAA;Michael Stefanic;Jay Jackson;5%;68%;Flyball: CF (Deep CF); Renfroe to 3B
+t6;1-2;2;--3;6,(3-2) FFB*BBB;;LAA;Luis Rengifo;Jay Jackson;-2%;66%;Walk
+;;;;;;;;;Trevor Richards replaces Jay Jackson pitching
+t6;1-2;2;1-3;,(3-0) .VVVV;;LAA;Shohei Ohtani;Trevor Richards;-4%;62%;Intentional Walk; Rengifo to 2B
+t6;1-2;2;123;7,(3-2) SS.BBF*B>C;O;LAA;Mickey Moniak;Trevor Richards;12%;74%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Angels 1, Blue Jays 2.
+Bottom of the 6th, Blue Jays Batting, Ahead 2-1, Angels' Reynaldo López facing 4-5-6 
+b6;2-1;0;---;6,(1-2) SBS.FFS;O;TOR;Matt Chapman;Reynaldo López;-2%;72%;Strikeout Swinging
+b6;2-1;1;---;4,(1-2) BFFS;O;TOR;George Springer;Reynaldo López;-2%;71%;Strikeout Swinging
+b6;2-1;2;---;4,(1-2) FFBS;O;TOR;Danny Jansen;Reynaldo López;-1%;70%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, Blue Jays 2.
+Top of the 7th, Angels Batting, Behind 1-2, Blue Jays' Trevor Richards facing 4-5-6 
+t7;1-2;0;---;5,(2-2) LCBBS;O;LAA;Andrew Velazquez;Trevor Richards;4%;74%;Strikeout Swinging
+t7;1-2;1;---;5,(2-2) BCBCC;O;LAA;Mike Moustakas;Trevor Richards;3%;77%;Strikeout Looking
+t7;1-2;2;---;8,(3-2) BSBCFBFC;O;LAA;Matt Thaiss;Trevor Richards;2%;79%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, Blue Jays 2.
+Bottom of the 7th, Blue Jays Batting, Ahead 2-1, Angels' Aaron Loup facing 7-8-9 
+;;;;;;;;;Aaron Loup replaces Reynaldo López pitching
+b7;2-1;0;---;3,(1-1) .BCX;R;TOR;Alejandro Kirk;Aaron Loup;10%;89%;Home Run (Line Drive to Deep LF Line)
+b7;3-1;0;---;5,(2-2) FBBFX;O;TOR;Santiago Espinal;Aaron Loup;-1%;88%;Flyball: RF (RF Line)
+b7;3-1;1;---;6,(2-2) CBCBFX;;TOR;Kevin Kiermaier;Aaron Loup;1%;89%;Single to SS (Ground Ball to Weak SS)
+b7;3-1;1;1--;6,(1-2) CF>FFB1X;R;TOR;Whit Merrifield;Aaron Loup;6%;95%;Double to CF (Line Drive to Deep CF-RF); Kiermaier Scores
+b7;4-1;1;-2-;2,(0-1) CX;O;TOR;Bo Bichette;Aaron Loup;-1%;94%;Interference by Batter: C unassisted
+b7;4-1;2;-2-;,(3-0) VVVV;;TOR;Vladimir Guerrero Jr.;Aaron Loup;0%;94%;Intentional Walk
+b7;4-1;2;12-;5,(3-1) BBCBB;;TOR;Matt Chapman;Aaron Loup;1%;95%;Walk; Merrifield to 3B; Guerrero to 2B
+;;;;;;;;;Jaime Barria replaces Aaron Loup pitching
+b7;4-1;2;123;2,(1-0) .*BX;O;TOR;George Springer;Jaime Barria;-2%;93%;Flyball: LF (Deep LF)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 3 LOB. Angels 1, Blue Jays 4.
+Top of the 8th, Angels Batting, Behind 1-4, Blue Jays' Nate Pearson facing 7-8-9 
+;;;;;;;;;Nate Pearson replaces Trevor Richards pitching
+t8;1-4;0;---;1,(0-0) .X;O;LAA;Hunter Renfroe;Nate Pearson;2%;95%;Foul Popfly: C (Behind Home)
+t8;1-4;1;---;5,(2-2) CBC.BS;O;LAA;Eduardo Escobar;Nate Pearson;1%;97%;Strikeout Swinging
+t8;1-4;2;---;1,(0-0) X;O;LAA;Michael Stefanic;Nate Pearson;1%;97%;Flyball: RF (Short RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, Blue Jays 4.
+Bottom of the 8th, Blue Jays Batting, Ahead 4-1, Angels' Jaime Barria facing 6-7-8 
+b8;4-1;0;---;1,(0-0) X;;TOR;Danny Jansen;Jaime Barria;0%;98%;Single to RF (Fly Ball to CF-RF)
+b8;4-1;0;1--;2,(0-1) CX;RR;TOR;Alejandro Kirk;Jaime Barria;2%;100%;Home Run (Fly Ball to Deep LF Line); Jansen Scores
+;;;;;;;;;Daulton Varsho pinch hits for Santiago Espinal (2B) batting 8th
+b8;6-1;0;---;7,(3-2) .FSBFBBC;O;TOR;Daulton Varsho;Jaime Barria;0%;99%;Strikeout Looking
+b8;6-1;1;---;3,(1-1) BCX;O;TOR;Kevin Kiermaier;Jaime Barria;0%;99%;Flyball: RF (CF-RF)
+b8;6-1;2;---;5,(2-2) BFBFX;;TOR;Whit Merrifield;Jaime Barria;0%;99%;Single to CF (Line Drive to Deep CF)
+b8;6-1;2;1--;2,(0-1) FX;O;TOR;Bo Bichette;Jaime Barria;0%;99%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Angels 1, Blue Jays 6.
+Top of the 9th, Angels Batting, Behind 1-6, Blue Jays' Yimi García facing 1-2-3 
+;;;;;;;;;Yimi García replaces Nate Pearson pitchingWhit Merrifield moves from LF to 2B Daulton Varsho moves from PH to LF 
+t9;1-6;0;---;1,(0-0) ...X;;LAA;Luis Rengifo;Yimi García;-1%;99%;Single to CF (Ground Ball)
+t9;1-6;0;1--;4,(1-2) TBC.C;O;LAA;Shohei Ohtani;Yimi García;1%;99%;Strikeout Looking
+t9;1-6;1;1--;3,(0-2) TSX;O;LAA;Mickey Moniak;Yimi García;0%;100%;Flyball: CF (Deep CF)
+;;;;;;;;;Trey Cabbage pinch hits for Andrew Velazquez (SS) batting 4th
+t9;1-6;2;1--;3,(0-2) .CSS;O;LAA;Trey Cabbage;Yimi García;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 1, Blue Jays 6.

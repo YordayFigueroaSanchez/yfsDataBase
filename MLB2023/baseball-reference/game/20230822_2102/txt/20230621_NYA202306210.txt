@@ -1,0 +1,253 @@
+
+Scorebox Meta
+20230621
+7:05 p.m. Local
+41090
+Yankee Stadium III
+146
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/SEA-2023.png;/teams/SEA/2023.shtml;0;0;0;0;0;0;0;1;1;2;4;1
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;0;2;1;0;0;1;0;X;4;5;0
+
+Batting home
+Jake Bauers;/players/b/bauerja01.shtml;RF;2;1;1;2;1;0;3;.231;.315;.481;.796;16;8;0.164; 0.95;0.186;-0.022; 0.09%; 0.87; 1.8;5;0;HR
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;PH-LF;1;0;0;0;0;0;1;.232;.270;.338;.608;1;1;-0.002; 0.08;0.000;-0.002;-0.00%; 0.07; -0.2;0;0;
+Gleyber Torres;/players/t/torregl01.shtml;2B;3;0;0;0;1;2;4;.253;.329;.431;.760;30;19;-0.012; 0.47;0.020;-0.033;-0.01%; 0.43; 0.1;1;3;
+Willie Calhoun;/players/c/calhowi01.shtml;DH;3;0;1;0;1;1;4;.239;.309;.403;.712;18;11;0.006; 0.41;0.029;-0.023; 0.00%; 0.37; -0.4;;;
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;3;0;0;0;1;0;4;.266;.344;.436;.780;13;6;-0.075; 0.61;0.003;-0.078;-0.04%; 0.56; -1.2;8;1;
+Josh Donaldson;/players/d/donaljo02.shtml;3B;4;0;0;0;0;1;4;.133;.209;.433;.642;17;13;-0.049; 0.47;0.000;-0.049;-0.03%; 0.43; -0.9;0;1;
+Harrison Bader;/players/b/baderha01.shtml;CF;4;0;0;0;0;0;4;.258;.284;.485;.769;16;10;-0.043; 0.42;0.000;-0.043;-0.02%; 0.39; -0.9;3;0;
+Billy McKinney;/players/m/mckinbi01.shtml;LF-RF;3;1;2;1;0;0;3;.317;.333;.659;.992;10;6;0.088; 0.34;0.092;-0.004; 0.05%; 0.31; 1.0;0;0;HR
+Kyle Higashioka;/players/h/higasky01.shtml;C;3;0;0;0;0;0;3;.229;.276;.367;.643;19;12;-0.037; 0.45;0.000;-0.037;-0.02%; 0.41; -0.6;6;0;
+Anthony Volpe;/players/v/volpean01.shtml;SS;2;2;1;1;1;0;3;.194;.269;.363;.632;11;7;0.066; 0.47;0.071;-0.005; 0.04%; 0.43; 1.3;3;7;HR
+Jhony Brito;/players/b/britojh01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Jimmy Cordero;/players/c/cordeji01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Wandy Peralta;/players/p/peralwa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael King;/players/k/kingmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tommy Kahnle;/players/k/kahnlto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Jake Bauers (6, off Luis Castillo, 3rd inn, 1 on, 0 outs to Deep RF); Billy McKinney (3, off Luis Castillo, 4th inn, 0 on, 1 out to Deep RF Line); Anthony Volpe (10, off Gabe Speier, 7th inn, 0 on, 1 out to Deep LF-CF).
+
+
+TB: Billy McKinney 5; Jake Bauers 4; Anthony Volpe 4; Willie Calhoun.
+
+
+RBI: Jake Bauers 2 (16); Anthony Volpe (28); Billy McKinney (5).
+
+
+Team LOB: 5.
+With RISP: 0 for 3.
+
+Batting away
+José Caballero;/players/c/cabaljo01.shtml;SS;4;0;1;0;0;1;4;.239;.380;.354;.734;14;11;0.001; 0.55;0.035;-0.034; 0.00%; 0.35; 0.0;3;1;
+Julio Rodríguez;/players/r/rodriju01.shtml;CF;2;1;0;0;2;0;4;.239;.302;.419;.720;19;10;0.006; 0.95;0.066;-0.060; 0.00%; 0.61; 0.1;2;0;SB
+Ty France;/players/f/francty01.shtml;1B;4;0;1;0;0;1;4;.274;.344;.415;.759;8;7;0.004; 1.05;0.077;-0.073; 0.00%; 0.68; -0.1;5;0;
+Teoscar Hernández;/players/h/hernate01.shtml;RF;4;0;0;0;0;1;4;.246;.293;.428;.720;17;14;-0.126; 1.34;0.000;-0.126;-0.05%; 0.87; -1.0;6;1;
+Jarred Kelenic;/players/k/kelenja01.shtml;LF;3;0;1;1;0;1;4;.260;.328;.480;.808;16;10;-0.054; 1.16;0.039;-0.093;-0.02%; 0.75; 0.0;1;0;SF
+Eugenio Suárez;/players/s/suareeu01.shtml;3B;4;0;0;0;0;2;4;.212;.306;.326;.632;14;11;-0.097; 0.94;0.000;-0.097;-0.04%; 0.61; -0.9;1;2;
+Cal Raleigh;/players/r/raleica01.shtml;C;3;0;0;0;0;0;3;.218;.298;.408;.705;8;5;-0.053; 0.70;0.000;-0.053;-0.02%; 0.45; -0.6;4;0;
+Mike Ford;/players/f/fordmi01.shtml;DH;2;0;0;0;0;0;2;.171;.216;.514;.731;11;5;-0.047; 0.86;0.000;-0.047;-0.02%; 0.56; -0.5;;;
+AJ Pollock;/players/p/polloaj01.shtml;PH-DH-DH;1;0;0;0;0;0;1;.160;.222;.302;.524;6;3;-0.007; 0.28;0.000;-0.007;-0.00%; 0.18; -0.2;;;
+Kolten Wong;/players/w/wongko01.shtml;2B;2;0;0;0;0;0;2;.154;.245;.179;.423;7;4;-0.041; 0.82;0.000;-0.041;-0.02%; 0.54; -0.4;1;2;
+Dylan Moore;/players/m/mooredy01.shtml;PH-2B;1;1;1;1;0;0;1;.071;.235;.286;.521;2;2;0.019; 0.12;0.019;0.000; 0.01%; 0.08; 1.0;1;0;HR
+Luis Castillo;/players/c/castilu02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matt Brash;/players/b/brashma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gabe Speier;/players/s/speiega01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tayler Saucedo;/players/s/sauceta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Dylan Moore (1, off Wandy Peralta, 8th inn, 0 on, 2 outs to Deep LF).
+
+
+SF: Jarred Kelenic (2, off Tommy Kahnle).
+
+
+TB: Dylan Moore 4; Jarred Kelenic; José Caballero; Ty France.
+
+
+RBI: Dylan Moore (1); Jarred Kelenic (34).
+
+
+2-out RBI: Dylan Moore.
+
+
+Team LOB: 4.
+With RISP: 0 for 3.
+
+Pitching home
+Jhony Brito;/players/b/britojh01.shtml; W (4-3); 5.2;2;0;0;1;3;0;4.89;20;81;51;28;6;17;7;9;3;0;67;;;0.284; 0.88; 0.16%; 0.81; 2.8
+Jimmy Cordero;/players/c/cordeji01.shtml; H (8); 1.1;0;0;0;0;1;0;3.41;4;12;9;4;1;4;2;1;0;0;;1;0;0.068; 0.64; 0.04%; 0.58; 0.7
+Wandy Peralta;/players/p/peralwa01.shtml;Wandy Peralta; 0.2;1;1;1;0;0;1;2.79;3;9;6;4;0;2;2;1;0;0;;0;0;0.002; 0.30; 0.00%; 0.27; -0.6
+Michael King;/players/k/kingmi01.shtml; H (3); 0.2;1;1;1;1;1;0;3.00;4;14;10;4;2;4;1;1;0;0;;0;0;-0.050; 1.36;-0.03%; 1.25; -0.6
+Tommy Kahnle;/players/k/kahnlto01.shtml; S (1); 0.2;0;0;0;0;1;0;0.00;2;6;6;1;2;3;0;1;0;0;;2;1;0.090; 1.73; 0.05%; 1.58; 0.2
+
+Pitching away
+Luis Castillo;/players/c/castilu02.shtml; L (4-6); 5 ;4;3;3;4;3;2;2.89;22;103;66;38;10;18;1;14;4;0;46;;;-0.108; 0.66;-0.04%; 0.43; -0.5
+Matt Brash;/players/b/brashma01.shtml;Matt Brash; 1 ;0;0;0;0;0;0;3.94;3;15;7;5;0;2;1;2;0;0;;0;0;0.017; 0.23; 0.01%; 0.14; 0.5
+Gabe Speier;/players/s/speiega01.shtml;Gabe Speier; 1 ;1;1;1;0;1;1;2.45;4;16;10;6;2;2;1;2;0;0;;0;0;-0.022; 0.14;-0.01%; 0.09; -0.5
+Tayler Saucedo;/players/s/sauceta01.shtml;Tayler Saucedo; 1 ;0;0;0;1;0;0;2.95;4;17;10;6;2;2;2;1;1;0;;0;0;0.007; 0.12; 0.00%; 0.07; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Phil Cuzzi, 1B - Shane Livensparger, 2B - Mark Ripperger, 3B - Dan Bellino, LF - (none), RF - (none).
+Time of Game: 2:26.
+Attendance: 41,090.
+Field Condition: Unknown.
+Start Time Weather: 69° F, Wind 14mph in from Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Mariners
+1;José Caballero;/players/c/cabaljo01.shtml;SS
+2;Julio Rodríguez;/players/r/rodriju01.shtml;CF
+3;Ty France;/players/f/francty01.shtml;1B
+4;Teoscar Hernández;/players/h/hernate01.shtml;RF
+5;Jarred Kelenic;/players/k/kelenja01.shtml;LF
+6;Eugenio Suárez;/players/s/suareeu01.shtml;3B
+7;Cal Raleigh;/players/r/raleica01.shtml;C
+8;Mike Ford;/players/f/fordmi01.shtml;DH
+9;Kolten Wong;/players/w/wongko01.shtml;2B
+; Luis Castillo;/players/c/castilu02.shtml;P
+Yankees
+1;Jake Bauers;/players/b/bauerja01.shtml;RF
+2;Gleyber Torres;/players/t/torregl01.shtml;2B
+3;Willie Calhoun;/players/c/calhowi01.shtml;DH
+4;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+5;Josh Donaldson;/players/d/donaljo02.shtml;3B
+6;Harrison Bader;/players/b/baderha01.shtml;CF
+7;Billy McKinney;/players/m/mckinbi01.shtml;LF
+8;Kyle Higashioka;/players/h/higasky01.shtml;C
+9;Anthony Volpe;/players/v/volpean01.shtml;SS
+; Jhony Brito;/players/b/britojh01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;0-0;0;1--;6,(3-2) BT1BSBX;RR;NYY;Jake Bauers;Luis Castillo;17%;77%;Home Run (Fly Ball to Deep RF); Volpe Scores
+b4;2-0;1;---;2,(1-0) BX;R;NYY;Billy McKinney;Luis Castillo;8%;85%;Home Run (Fly Ball to Deep RF Line)
+t9;1-4;0;1--;2,(0-1) CX;;SEA;Ty France;Michael King;-8%;85%;Single to SS (Ground Ball); Rodríguez to 2B
+t9;1-4;0;12-;3,(0-2) CTX;O;SEA;Teoscar Hernández;Michael King;6%;91%;Flyball: CF (Deep CF); Rodríguez to 3B
+t9;1-4;1;1-3;3,(0-2) .SC.X;RO;SEA;Jarred Kelenic;Tommy Kahnle;5%;96%;Flyball: CF/Sacrifice Fly (Deep LF-CF); Rodríguez Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Mariners Batting, Tied 0-0, Yankees' Jhony Brito facing 1-2-3 
+t1;0-0;0;---;4,(2-1) BBCX;;SEA;José Caballero;Jhony Brito;-4%;46%;Single to CF (Line Drive to Deep CF-RF)
+t1;0-0;0;1--;2,(1-0) B1X;O;SEA;Julio Rodríguez;Jhony Brito;3%;50%;Groundout: SS-2B/Forceout at 2B; Rodríguez to 1B
+t1;0-0;1;1--;2,(0-1) C>C;;SEA;Ty France;Jhony Brito;-2%;48%;Rodríguez Steals 2B
+t1;0-0;1;-2-;3,(0-2) C>C.S;O;SEA;Ty France;Jhony Brito;3%;52%;Strikeout Swinging
+t1;0-0;2;-2-;7,(2-2) CCBFF*BX;O;SEA;Teoscar Hernández;Jhony Brito;3%;55%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mariners 0, Yankees 0.
+Bottom of the 1st, Yankees Batting, Tied 0-0, Mariners' Luis Castillo facing 1-2-3 
+b1;0-0;0;---;4,(1-2) BCCX;O;NYY;Jake Bauers;Luis Castillo;-2%;53%;Groundout: 2B-1B
+b1;0-0;1;---;5,(1-2) .CSFBX;O;NYY;Gleyber Torres;Luis Castillo;-2%;51%;Flyball: RF (CF-RF)
+b1;0-0;2;---;6,(3-2) BBBCCB;;NYY;Willie Calhoun;Luis Castillo;1%;52%;Walk
+b1;0-0;2;1--;5,(3-1) BBCB.X;O;NYY;Anthony Rizzo;Luis Castillo;-2%;50%;Flyball: LF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mariners 0, Yankees 0.
+Top of the 2nd, Mariners Batting, Tied 0-0, Yankees' Jhony Brito facing 5-6-7 
+t2;0-0;0;---;5,(2-2) CBBFX;O;SEA;Jarred Kelenic;Jhony Brito;2%;52%;Lineout: CF (Deep CF)
+t2;0-0;1;---;5,(2-2) SBCBC;O;SEA;Eugenio Suárez;Jhony Brito;2%;54%;Strikeout Looking
+t2;0-0;2;---;1,(0-0) X;O;SEA;Cal Raleigh;Jhony Brito;1%;55%;Popfly: SS (Deep SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 0, Yankees 0.
+Bottom of the 2nd, Yankees Batting, Tied 0-0, Mariners' Luis Castillo facing 5-6-7 
+b2;0-0;0;---;4,(1-2) CBFX;O;NYY;Josh Donaldson;Luis Castillo;-2%;53%;Lineout: RF (Deep RF)
+b2;0-0;1;---;3,(1-1) BCX;O;NYY;Harrison Bader;Luis Castillo;-2%;51%;Flyball: RF (Short RF Line)
+b2;0-0;2;---;3,(0-2) FSX;;NYY;Billy McKinney;Luis Castillo;1%;52%;Single to RF (Line Drive)
+b2;0-0;2;1--;6,(3-2) BBBCF>X;O;NYY;Kyle Higashioka;Luis Castillo;-2%;50%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mariners 0, Yankees 0.
+Top of the 3rd, Mariners Batting, Tied 0-0, Yankees' Jhony Brito facing 8-9-1 
+t3;0-0;0;---;5,(3-1) BCBBX;O;SEA;Mike Ford;Jhony Brito;3%;53%;Groundout: SS-1B (Short CF)
+t3;0-0;1;---;1,(0-0) X;O;SEA;Kolten Wong;Jhony Brito;2%;54%;Groundout: 2B-1B (2B-1B)
+t3;0-0;2;---;3,(0-2) CCX;O;SEA;José Caballero;Jhony Brito;1%;56%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 0, Yankees 0.
+Bottom of the 3rd, Yankees Batting, Tied 0-0, Mariners' Luis Castillo facing 9-1-2 
+b3;0-0;0;---;8,(3-2) BCFBFBFB;;NYY;Anthony Volpe;Luis Castillo;4%;59%;Walk
+b3;0-0;0;1--;6,(3-2) BT1BSBX;RR;NYY;Jake Bauers;Luis Castillo;17%;77%;Home Run (Fly Ball to Deep RF); Volpe Scores
+b3;2-0;0;---;12,(3-2) BCSBBF.FFFFFC;O;NYY;Gleyber Torres;Luis Castillo;-2%;75%;Strikeout Looking
+b3;2-0;1;---;2,(0-1) CX;;NYY;Willie Calhoun;Luis Castillo;2%;77%;Single to CF (Line Drive to Deep LF-CF)
+b3;2-0;1;1--;1,(0-0) X;O;NYY;Anthony Rizzo;Luis Castillo;-2%;75%;Popfly: 3B
+b3;2-0;2;1--;4,(0-2) SFFS;O;NYY;Josh Donaldson;Luis Castillo;-2%;73%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Mariners 0, Yankees 2.
+Top of the 4th, Mariners Batting, Behind 0-2, Yankees' Jhony Brito facing 2-3-4 
+t4;0-2;0;---;3,(0-2) CF.X;O;SEA;Julio Rodríguez;Jhony Brito;3%;76%;Flyball: RF (Deep CF-RF)
+t4;0-2;1;---;1,(0-0) X;O;SEA;Ty France;Jhony Brito;2%;78%;Groundout: SS-1B
+t4;0-2;2;---;4,(1-2) .BCFS;O;SEA;Teoscar Hernández;Jhony Brito;1%;79%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 0, Yankees 2.
+Bottom of the 4th, Yankees Batting, Ahead 2-0, Mariners' Luis Castillo facing 6-7-8 
+b4;2-0;0;---;4,(1-2) BCCX;O;NYY;Harrison Bader;Luis Castillo;-2%;77%;Flyball: RF (RF Line)
+b4;2-0;1;---;2,(1-0) BX;R;NYY;Billy McKinney;Luis Castillo;8%;85%;Home Run (Fly Ball to Deep RF Line)
+b4;3-0;1;---;5,(1-2) BCS.FX;O;NYY;Kyle Higashioka;Luis Castillo;-1%;84%;Lineout: CF (Deep CF-RF)
+b4;3-0;2;---;2,(0-1) CX;O;NYY;Anthony Volpe;Luis Castillo;-1%;84%;Popfly: 2B (Short CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Mariners 0, Yankees 3.
+Top of the 5th, Mariners Batting, Behind 0-3, Yankees' Jhony Brito facing 5-6-7 
+t5;0-3;0;---;3,(2-0) BBX;;SEA;Jarred Kelenic;Jhony Brito;-4%;80%;Single to CF (Line Drive to Deep CF)
+t5;0-3;0;1--;4,(1-2) FFBX;O;SEA;Eugenio Suárez;Jhony Brito;4%;84%;Flyball: RF (Short RF Line)
+t5;0-3;1;1--;6,(3-2) BBSBFX;O;SEA;Cal Raleigh;Jhony Brito;3%;87%;Groundout: 3B-SS/Forceout at 2B (SS-3B Hole); Raleigh to 1B
+t5;0-3;2;1--;6,(3-2) BCBSB.>X;O;SEA;Mike Ford;Jhony Brito;2%;89%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mariners 0, Yankees 3.
+Bottom of the 5th, Yankees Batting, Ahead 3-0, Mariners' Luis Castillo facing 1-2-3 
+b5;3-0;0;---;6,(3-2) SBCBB.B;;NYY;Jake Bauers;Luis Castillo;1%;90%;Walk
+b5;3-0;0;1--;7,(3-2) BBSFBFB;;NYY;Gleyber Torres;Luis Castillo;2%;92%;Walk; Bauers to 2B
+b5;3-0;0;12-;6,(2-2) BFFBFS;O;NYY;Willie Calhoun;Luis Castillo;-2%;90%;Strikeout Swinging
+b5;3-0;1;12-;2,(0-1) FX;OO;NYY;Anthony Rizzo;Luis Castillo;-4%;87%;Double Play: Flyball: RF (RF Line); Torres out at 1B/RF-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mariners 0, Yankees 3.
+Top of the 6th, Mariners Batting, Behind 0-3, Yankees' Jhony Brito facing 9-1-2 
+t6;0-3;0;---;6,(3-2) BFBBSX;O;SEA;Kolten Wong;Jhony Brito;2%;89%;Flyball: RF (Short RF Line)
+t6;0-3;1;---;4,(1-2) CC.BX;O;SEA;José Caballero;Jhony Brito;2%;90%;Popfly: SS (Deep SS)
+t6;0-3;2;---;8,(3-2) CBF.FBFBB;;SEA;Julio Rodríguez;Jhony Brito;-1%;89%;Walk
+;;;;;;;;;Jimmy Cordero replaces Jhony Brito pitching
+t6;0-3;2;1--;2,(1-0) .BX;O;SEA;Ty France;Jimmy Cordero;2%;91%;Groundout: SS-2B-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mariners 0, Yankees 3.
+Bottom of the 6th, Yankees Batting, Ahead 3-0, Mariners' Matt Brash facing 5-6-7 
+;;;;;;;;;Matt Brash replaces Luis Castillo pitching
+b6;3-0;0;---;6,(3-2) .BBCBFX;O;NYY;Josh Donaldson;Matt Brash;-1%;91%;Popfly: SS (Deep SS-2B)
+b6;3-0;1;---;4,(2-1) BFBX;O;NYY;Harrison Bader;Matt Brash;-1%;90%;Flyball: RF (Short CF-RF)
+b6;3-0;2;---;5,(3-1) BBBCX;O;NYY;Billy McKinney;Matt Brash;0%;90%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 0, Yankees 3.
+Top of the 7th, Mariners Batting, Behind 0-3, Yankees' Jimmy Cordero facing 4-5-6 
+t7;0-3;0;---;3,(0-2) CC.X;O;SEA;Teoscar Hernández;Jimmy Cordero;2%;92%;Flyball: RF (Deep 2B-1B)
+t7;0-3;1;---;5,(2-2) .CBBSC;O;SEA;Jarred Kelenic;Jimmy Cordero;2%;93%;Strikeout Looking
+t7;0-3;2;---;2,(0-1) FX;O;SEA;Eugenio Suárez;Jimmy Cordero;1%;94%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 0, Yankees 3.
+Bottom of the 7th, Yankees Batting, Ahead 3-0, Mariners' Gabe Speier facing 8-9-1 
+;;;;;;;;;Gabe Speier replaces Matt Brash pitching
+b7;3-0;0;---;8,(3-2) .BSCBFFBX;O;NYY;Kyle Higashioka;Gabe Speier;-1%;94%;Popfly: SS (Weak SS)
+b7;3-0;1;---;1,(0-0) X;R;NYY;Anthony Volpe;Gabe Speier;3%;97%;Home Run (Fly Ball to Deep LF-CF)
+;;;;;;;;;Isiah Kiner-Falefa pinch hits for Jake Bauers (RF) batting 1st
+b7;4-0;1;---;1,(0-0) .X;O;NYY;Isiah Kiner-Falefa;Gabe Speier;0%;97%;Groundout: SS-1B (Deep SS)
+b7;4-0;2;---;6,(3-2) CBFBBS;O;NYY;Gleyber Torres;Gabe Speier;0%;96%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Mariners 0, Yankees 4.
+Top of the 8th, Mariners Batting, Behind 0-4, Yankees' Wandy Peralta facing 7-8-9 
+;;;;;;;;;Wandy Peralta replaces Jimmy Cordero pitchingIsiah Kiner-Falefa moves from PH to LF Billy McKinney moves from LF to RF 
+t8;0-4;0;---;1,(0-0) ...X;O;SEA;Cal Raleigh;Wandy Peralta;1%;98%;Groundout: SS-1B (Deep SS)
+;;;;;;;;;AJ Pollock pinch hits for Mike Ford (DH) batting 8th
+t8;0-4;1;---;6,(3-2) .CBF.BBX;O;SEA;AJ Pollock;Wandy Peralta;1%;99%;Groundout: SS-1B
+;;;;;;;;;Dylan Moore pinch hits for Kolten Wong (2B) batting 9th
+t8;0-4;2;---;2,(0-1) .CX;R;SEA;Dylan Moore;Wandy Peralta;-2%;97%;Home Run (Fly Ball to Deep LF)
+;;;;;;;;;Michael King replaces Wandy Peralta pitching
+t8;1-4;2;---;3,(0-2) .FCS;O;SEA;José Caballero;Michael King;1%;97%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Mariners 1, Yankees 4.
+Bottom of the 8th, Yankees Batting, Ahead 4-1, Mariners' Tayler Saucedo facing 3-4-5 
+;;;;;;;;;Tayler Saucedo replaces Gabe Speier pitchingDylan Moore moves from PH to 2B 
+b8;4-1;0;---;4,(1-2) ...FFBX;O;NYY;Willie Calhoun;Tayler Saucedo;0%;97%;Groundout: 3B-1B
+b8;4-1;1;---;5,(3-1) BFBBB;;NYY;Anthony Rizzo;Tayler Saucedo;0%;97%;Walk
+b8;4-1;1;1--;3,(0-2) CSX;O;NYY;Josh Donaldson;Tayler Saucedo;0%;97%;Groundout: 3B-2B/Forceout at 2B; Donaldson to 2B/Adv on E4 (throw)
+b8;4-1;2;-2-;5,(2-2) SBBCX;O;NYY;Harrison Bader;Tayler Saucedo;0%;97%;Lineout: SS (Deep SS)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Mariners 1, Yankees 4.
+Top of the 9th, Mariners Batting, Behind 1-4, Yankees' Michael King facing 2-3-4 
+t9;1-4;0;---;6,(3-2) BCS.BBB;;SEA;Julio Rodríguez;Michael King;-4%;93%;Walk
+t9;1-4;0;1--;2,(0-1) CX;;SEA;Ty France;Michael King;-8%;85%;Single to SS (Ground Ball); Rodríguez to 2B
+t9;1-4;0;12-;3,(0-2) CTX;O;SEA;Teoscar Hernández;Michael King;6%;91%;Flyball: CF (Deep CF); Rodríguez to 3B
+;;;;;;;;;Tommy Kahnle replaces Michael King pitching
+t9;1-4;1;1-3;3,(0-2) .SC.X;RO;SEA;Jarred Kelenic;Tommy Kahnle;5%;96%;Flyball: CF/Sacrifice Fly (Deep LF-CF); Rodríguez Scores
+t9;2-4;2;1--;3,(0-2) CSC;O;SEA;Eugenio Suárez;Tommy Kahnle;4%;100%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Mariners 2, Yankees 4.

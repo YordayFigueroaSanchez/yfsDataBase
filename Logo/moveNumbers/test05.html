@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Números Aleatorios con Movimiento al Centro</title>
+    <style>
+        /* Estilo de ejemplo para los números */
+        body {
+            overflow: hidden;
+        }
+
+        .numero {
+            position: absolute;
+            font-size: 24px;
+            animation: moverNumero 2s ease-in-out infinite; /* Animación personalizada */
+        }
+
+        @keyframes moverNumero {
+            0% {
+                opacity: 0;
+                transform: translate(-50%, -50%) scale(0);
+            }
+            50% {
+                opacity: 1;
+                transform: translate(0, 0) scale(1.2);
+            }
+            100% {
+                opacity: 0;
+                transform: translate(-50%, -50%) scale(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <script>
+        // Función para generar un número aleatorio en un rango específico
+        function generarNumeroAleatorio(min, max) {
+            return Math.floor(Math.random() * (max - min + 1)) + min;
+        }
+
+        // Función para crear y mover números aleatorios al centro de la web
+        function crearYMoverNumeroAleatorio() {
+            const numero = document.createElement('div');
+            numero.className = 'numero';
+            numero.textContent = generarNumeroAleatorio(1, 100); // Genera un número aleatorio del 1 al 100
+            document.body.appendChild(numero);
+
+            // Mueve el número desde la esquina superior hasta el centro de la web
+            const x = window.innerWidth / 2; // Posición horizontal en el centro
+            const y = window.innerHeight / 2; // Posición vertical en el centro
+            numero.style.transform = `translate(${x}px, ${y}px)`;
+        }
+
+        // Genera números aleatorios y los mueve continuamente
+        setInterval(crearYMoverNumeroAleatorio, 2000); // Genera un número cada 2 segundos
+    </script>
+</body>
+</html>

@@ -1,0 +1,256 @@
+
+Scorebox Meta
+20230425
+7:10 p.m. Local
+20507
+Citi Field
+153
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/WSN-2023.png;/teams/WSN/2023.shtml;0;1;1;0;0;3;0;0;0;5;11;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;0;0;0;0;0;0;0;5;1
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;3;0;1;0;1;2;4;.349;.456;.494;.950;14;8;0.026; 0.99;0.053;-0.027; 0.02%; 1.15; -0.0;1;0;
+Starling Marte;/players/m/martest01.shtml;RF;4;0;0;0;0;2;4;.227;.318;.320;.638;19;13;-0.150; 1.44;0.000;-0.150;-0.10%; 1.68; -1.3;1;0;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;0;1;0;0;0;4;.222;.330;.456;.786;9;7;-0.043; 0.56;0.009;-0.052;-0.03%; 0.65; -0.2;1;4;
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;0;0;0;0;2;4;.255;.333;.585;.918;13;9;-0.069; 0.64;0.000;-0.069;-0.05%; 0.74; -1.3;13;1;GDP
+Jeff McNeil;/players/m/mcneije01.shtml;LF;4;0;0;0;0;0;4;.282;.402;.388;.790;10;7;-0.035; 0.34;0.000;-0.035;-0.02%; 0.40; -0.5;2;0;
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;3;0;1;0;0;1;3;.256;.407;.372;.780;11;8;-0.029; 0.71;0.014;-0.043;-0.02%; 0.82; -0.3;;;
+Brett Baty;/players/b/batybr01.shtml;3B;3;0;1;0;0;2;3;.250;.280;.292;.572;16;10;0.024; 0.67;0.056;-0.032; 0.02%; 0.78; 0.0;1;2;2B
+Luis Guillorme;/players/g/guilllu01.shtml;2B;3;0;0;0;0;2;3;.244;.354;.268;.622;17;12;-0.078; 0.97;0.000;-0.078;-0.06%; 1.12; -0.7;2;5;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;3;0;1;0;0;2;3;.167;.167;.267;.433;10;8;-0.002; 0.86;0.025;-0.027;-0.00%; 0.99; -0.2;5;2;
+José Butto;/players/b/buttojo01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Jimmy Yacabonis;/players/y/yacabji01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tommy Hunter;/players/h/hunteto02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Ottavino;/players/o/ottavad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Brett Baty (1, off Josiah Gray).
+
+
+TB: Brett Baty 2; Brandon Nimmo; Francisco Alvarez; Daniel Vogelbach; Francisco Lindor.
+
+
+GIDP: Pete Alonso (3).
+
+
+Team LOB: 5.
+With RISP: 1 for 3.
+
+Batting away
+Alex Call;/players/c/callal02.shtml;LF;3;1;2;0;2;0;5;.222;.354;.286;.640;19;8;0.063; 0.80;0.085;-0.022; 0.02%; 0.47; 1.0;1;0;
+Luis García;/players/g/garcilu04.shtml;2B;5;2;1;2;0;0;5;.222;.265;.349;.614;25;14;-0.012; 1.12;0.094;-0.106;-0.00%; 0.66; -0.2;1;4;2B
+Jeimer Candelario;/players/c/candeje01.shtml;3B;4;0;0;0;1;2;5;.247;.296;.393;.689;22;12;-0.021; 0.47;0.019;-0.040;-0.01%; 0.28; -0.7;0;0;
+Joey Meneses;/players/m/menesjo01.shtml;DH;5;0;3;2;0;1;5;.267;.298;.367;.665;13;10;0.107; 0.64;0.144;-0.038; 0.04%; 0.38; 1.6;;;
+Keibert Ruiz;/players/r/ruizke01.shtml;C;4;1;3;1;1;0;5;.288;.350;.425;.775;17;8;0.082; 0.50;0.121;-0.039; 0.03%; 0.29; 1.0;13;0;HR
+Dominic Smith;/players/s/smithdo02.shtml;1B;4;0;1;0;1;0;5;.234;.330;.234;.563;19;10;0.008; 0.47;0.038;-0.030; 0.00%; 0.28; -0.6;6;0;
+Lane Thomas;/players/t/thomala02.shtml;RF;4;0;0;0;1;1;5;.265;.311;.313;.624;25;13;-0.035; 0.61;0.019;-0.054;-0.01%; 0.36; -0.9;3;0;
+CJ Abrams;/players/a/abramcj01.shtml;SS;5;0;0;0;0;1;5;.205;.284;.342;.626;11;9;-0.024; 0.56;0.027;-0.051;-0.01%; 0.33; -0.5;3;0;
+Victor Robles;/players/r/roblevi01.shtml;CF;4;1;1;0;0;0;5;.288;.373;.364;.737;18;10;-0.023; 0.50;0.022;-0.044;-0.01%; 0.30; -0.2;0;0;SB,HBP
+Josiah Gray;/players/g/grayjo03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Mason Thompson;/players/t/thompma02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Luis García (2, off Jimmy Yacabonis).
+
+
+HR: Keibert Ruiz (2, off José Butto, 2nd inn, 0 on, 1 out to Deep CF-RF).
+
+
+HBP: Victor Robles (3, by Jimmy Yacabonis).
+
+
+TB: Keibert Ruiz 6; Joey Meneses 3; Luis García 2; Alex Call 2; Victor Robles; Dominic Smith.
+
+
+RBI: Luis García 2 (9); Joey Meneses 2 (9); Keibert Ruiz (8).
+
+
+2-out RBI: Joey Meneses 2.
+
+
+Team LOB: 13.
+With RISP: 4 for 12.
+
+Pitching home
+José Butto;/players/b/buttojo01.shtml; L (0-1); 4.2;4;2;2;6;1;1;2.79;24;93;46;23;6;17;11;6;3;0;43;;;-0.027; 0.93;-0.02%; 1.08; 0.1
+Jimmy Yacabonis;/players/y/yacabji01.shtml;Jimmy Yacabonis; 2 ;6;3;3;0;3;0;6.35;13;45;28;15;2;11;4;5;2;0;;2;0;-0.130; 0.44;-0.09%; 0.51; -2.1
+Tommy Hunter;/players/h/hunteto02.shtml;Tommy Hunter; 1.1;1;0;0;0;1;0;7.11;5;15;10;7;0;3;3;1;0;0;;2;0;0.011; 0.09; 0.01%; 0.10; 1.0
+Adam Ottavino;/players/o/ottavad01.shtml;Adam Ottavino; 1 ;0;0;0;0;0;0;2.00;3;16;10;7;0;3;2;1;0;0;;0;0;0.002; 0.02; 0.00%; 0.02; 0.5
+
+Pitching away
+Josiah Gray;/players/g/grayjo03.shtml; W (1-4); 6 ;4;0;0;1;9;0;2.93;23;91;60;29;17;14;3;10;2;0;72;;;0.312; 1.02; 0.11%; 0.60; 3.0
+Mason Thompson;/players/t/thompma02.shtml; S (1); 3 ;1;0;0;0;4;0;0.96;9;28;22;8;6;8;5;0;0;0;;0;0;0.043; 0.23; 0.01%; 0.14; 1.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Jimmy Yacabonis (1; Victor Robles).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Jimmy Yacabonis (1; Victor Robles).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Brennan Miller, 1B - Mark Carlson, 2B - Jordan Baker, 3B - Tripp Gibson, LF - (none), RF - (none).
+Time of Game: 2:33.
+Attendance: 20,507.
+Field Condition: Unknown.
+Start Time Weather: 57° F, Wind 4mph out to Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Nationals
+1;Alex Call;/players/c/callal02.shtml;LF
+2;Luis García;/players/g/garcilu04.shtml;2B
+3;Jeimer Candelario;/players/c/candeje01.shtml;3B
+4;Joey Meneses;/players/m/menesjo01.shtml;DH
+5;Keibert Ruiz;/players/r/ruizke01.shtml;C
+6;Dominic Smith;/players/s/smithdo02.shtml;1B
+7;Lane Thomas;/players/t/thomala02.shtml;RF
+8;CJ Abrams;/players/a/abramcj01.shtml;SS
+9;Victor Robles;/players/r/roblevi01.shtml;CF
+; Josiah Gray;/players/g/grayjo03.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Starling Marte;/players/m/martest01.shtml;RF
+3;Francisco Lindor;/players/l/lindofr01.shtml;SS
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Jeff McNeil;/players/m/mcneije01.shtml;LF
+6;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+7;Brett Baty;/players/b/batybr01.shtml;3B
+8;Luis Guillorme;/players/g/guilllu01.shtml;2B
+9;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+; José Butto;/players/b/buttojo01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t3;1-0;2;12-;2,(0-1) CX;R;WSN;Joey Meneses;José Butto;11%;71%;Single to CF (Line Drive); García Scores; Candelario to 3B
+t2;0-0;1;---;3,(2-0) BBX;R;WSN;Keibert Ruiz;José Butto;11%;58%;Home Run (Fly Ball to Deep CF-RF)
+b5;0-2;2;123;7,(3-2) CTBFBB>S;O;NYM;Starling Marte;Josiah Gray;11%;78%;Strikeout Swinging
+t6;2-0;1;1-3;6,(3-2) FBCBB>X;RR;WSN;Luis García;Jimmy Yacabonis;9%;93%;Double to CF (Fly Ball to Deep CF-RF); Robles Scores; Call Scores
+t4;2-0;2;123;6,(3-2) BBCFB>X;O;WSN;Luis García;José Butto;-6%;69%;Groundout: SS-1B (SS-2B)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Nationals Batting, Tied 0-0, Mets' José Butto facing 1-2-3 
+t1;0-0;0;---;3,(2-0) BBX;O;WSN;Alex Call;José Butto;-2%;48%;Flyball: CF
+t1;0-0;1;---;4,(2-1) BCBX;O;WSN;Luis García;José Butto;-2%;46%;Lineout: 1B (Deep 1B)
+t1;0-0;2;---;6,(2-2) SSBFBS;O;WSN;Jeimer Candelario;José Butto;-1%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Nationals' Josiah Gray facing 1-2-3 
+b1;0-0;0;---;4,(1-2) CBFS;O;NYM;Brandon Nimmo;Josiah Gray;2%;47%;Strikeout Swinging
+b1;0-0;1;---;4,(1-2) CBSX;O;NYM;Starling Marte;Josiah Gray;2%;49%;Groundout: 2B-1B
+b1;0-0;2;---;2,(1-0) BX;O;NYM;Francisco Lindor;Josiah Gray;1%;50%;Flyball: RF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 0, Mets 0.
+Top of the 2nd, Nationals Batting, Tied 0-0, Mets' José Butto facing 4-5-6 
+t2;0-0;0;---;2,(0-1) CX;O;WSN;Joey Meneses;José Butto;-2%;48%;Single to 3B (Ground Ball); Meneses out at 2B/3B-2B
+t2;0-0;1;---;3,(2-0) BBX;R;WSN;Keibert Ruiz;José Butto;11%;58%;Home Run (Fly Ball to Deep CF-RF)
+t2;1-0;1;---;5,(3-1) BBBCB;;WSN;Dominic Smith;José Butto;2%;61%;Walk
+t2;1-0;1;1--;4,(1-2) BSSX;O;WSN;Lane Thomas;José Butto;-2%;59%;Groundout: C-1B; Smith to 2B
+t2;1-0;2;-2-;1,(0-0) X;O;WSN;CJ Abrams;José Butto;-3%;56%;Groundout: 2B-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Nationals 1, Mets 0.
+Bottom of the 2nd, Mets Batting, Behind 0-1, Nationals' Josiah Gray facing 4-5-6 
+b2;0-1;0;---;3,(0-2) CSS;O;NYM;Pete Alonso;Josiah Gray;3%;58%;Strikeout Swinging
+b2;0-1;1;---;5,(3-1) BBFBX;O;NYM;Jeff McNeil;Josiah Gray;2%;60%;Foul Popfly: 1B (1B into Foul Terr.)
+b2;0-1;2;---;5,(2-2) CCBBX;;NYM;Daniel Vogelbach;Josiah Gray;-1%;59%;Single to RF (Ground Ball)
+b2;0-1;2;1--;4,(1-2) FFBS;O;NYM;Brett Baty;Josiah Gray;3%;61%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Nationals 1, Mets 0.
+Top of the 3rd, Nationals Batting, Ahead 1-0, Mets' José Butto facing 9-1-2 
+t3;1-0;0;---;1,(0-0) X;O;WSN;Victor Robles;José Butto;-2%;59%;Groundout: SS-1B (SS-2B)
+t3;1-0;1;---;5,(3-1) CBBBB;;WSN;Alex Call;José Butto;2%;62%;Walk
+t3;1-0;1;1--;4,(1-2) C.FB11X;O;WSN;Luis García;José Butto;-3%;59%;Groundout: SS-2B/Forceout at 2B; García to 1B
+t3;1-0;2;1--;5,(3-1) BBC*BB;;WSN;Jeimer Candelario;José Butto;2%;61%;Walk; García to 2B
+t3;1-0;2;12-;2,(0-1) CX;R;WSN;Joey Meneses;José Butto;11%;71%;Single to CF (Line Drive); García Scores; Candelario to 3B
+t3;2-0;2;1-3;5,(3-1) BBBCX;O;WSN;Keibert Ruiz;José Butto;-4%;68%;Popfly: 3B (Front of Home)
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Nationals 2, Mets 0.
+Bottom of the 3rd, Mets Batting, Behind 0-2, Nationals' Josiah Gray facing 8-9-1 
+b3;0-2;0;---;8,(2-2) BFBCFFFS;O;NYM;Luis Guillorme;Josiah Gray;3%;70%;Strikeout Swinging
+b3;0-2;1;---;4,(1-2) CBFS;O;NYM;Francisco Alvarez;Josiah Gray;2%;72%;Strikeout Swinging
+b3;0-2;2;---;1,(0-0) X;;NYM;Brandon Nimmo;Josiah Gray;-1%;71%;Single to RF (Line Drive)
+b3;0-2;2;1--;5,(2-2) SBBST;O;NYM;Starling Marte;Josiah Gray;3%;73%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Nationals 2, Mets 0.
+Top of the 4th, Nationals Batting, Ahead 2-0, Mets' José Butto facing 6-7-8 
+t4;2-0;0;---;5,(2-2) BCBFX;O;WSN;Dominic Smith;José Butto;-2%;71%;Groundout: P-1B (P's Left)
+t4;2-0;1;---;6,(3-2) BBBCCB;;WSN;Lane Thomas;José Butto;2%;73%;Walk
+t4;2-0;1;1--;1,(0-0) X;;WSN;CJ Abrams;José Butto;3%;76%;Fielder's Choice SS; Thomas to 2B/Adv on E6; Abrams to 1B
+t4;2-0;1;12-;3,(1-1) BSX;O;WSN;Victor Robles;José Butto;-2%;74%;Groundout: 3B-1B (Weak 3B); Thomas to 3B; Abrams to 2B
+t4;2-0;2;-23;6,(3-2) BB*BCFB;;WSN;Alex Call;José Butto;1%;75%;Walk
+t4;2-0;2;123;6,(3-2) BBCFB>X;O;WSN;Luis García;José Butto;-6%;69%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 1 error, 3 LOB. Nationals 2, Mets 0.
+Bottom of the 4th, Mets Batting, Behind 0-2, Nationals' Josiah Gray facing 3-4-5 
+b4;0-2;0;---;3,(0-2) CS.X;O;NYM;Francisco Lindor;Josiah Gray;3%;72%;Flyball: LF (Deep LF)
+b4;0-2;1;---;5,(2-2) BSBSS;O;NYM;Pete Alonso;Josiah Gray;2%;74%;Strikeout Swinging
+b4;0-2;2;---;2,(0-1) SX;O;NYM;Jeff McNeil;Josiah Gray;1%;75%;Popfly: SS (Deep SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 2, Mets 0.
+Top of the 5th, Nationals Batting, Ahead 2-0, Mets' José Butto facing 3-4-5 
+t5;2-0;0;---;4,(1-2) FBCX;O;WSN;Jeimer Candelario;José Butto;-2%;74%;Groundout: 1B-P (Weak 2B-1B)
+;;;;;;;;;Force Play Challenged by WSN manager (Dave Martinez): Original call upheld upon review.
+t5;2-0;1;---;2,(1-0) BX;O;WSN;Joey Meneses;José Butto;-1%;72%;Groundout: C-1B
+t5;2-0;2;---;6,(3-2) BBBCCB;;WSN;Keibert Ruiz;José Butto;1%;73%;Walk
+t5;2-0;2;1--;4,(2-1) CBBX;;WSN;Dominic Smith;José Butto;2%;75%;Single to RF (Line Drive to Short RF); Ruiz to 2B
+;;;;;;;;;Jimmy Yacabonis replaces José Butto pitching
+t5;2-0;2;12-;6,(3-2) .CFBBB>S;O;WSN;Lane Thomas;Jimmy Yacabonis;-3%;71%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Nationals 2, Mets 0.
+Bottom of the 5th, Mets Batting, Behind 0-2, Nationals' Josiah Gray facing 6-7-8 
+b5;0-2;0;---;4,(1-2) CBCC;O;NYM;Daniel Vogelbach;Josiah Gray;3%;75%;Strikeout Looking
+b5;0-2;1;---;7,(3-2) BST.FBBX;;NYM;Brett Baty;Josiah Gray;-6%;69%;Double to LF (Line Drive to LF Line)
+b5;0-2;1;-2-;4,(1-2) CFBX;O;NYM;Luis Guillorme;Josiah Gray;5%;74%;Popfly: SS (Deep SS)
+b5;0-2;2;-2-;3,(1-1) BSX;;NYM;Francisco Alvarez;Josiah Gray;-3%;71%;Single to SS (Ground Ball to Weak SS-2B); Baty to 3B
+b5;0-2;2;1-3;4,(3-0) BBBB;;NYM;Brandon Nimmo;Josiah Gray;-4%;68%;Walk; Alvarez to 2B
+b5;0-2;2;123;7,(3-2) CTBFBB>S;O;NYM;Starling Marte;Josiah Gray;11%;78%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Nationals 2, Mets 0.
+Top of the 6th, Nationals Batting, Ahead 2-0, Mets' Jimmy Yacabonis facing 8-9-1 
+t6;2-0;0;---;4,(1-2) CBFC;O;WSN;CJ Abrams;Jimmy Yacabonis;-2%;76%;Strikeout Looking
+t6;2-0;1;---;3,(1-1) BTX;;WSN;Victor Robles;Jimmy Yacabonis;2%;78%;Single to RF (Line Drive to CF-RF)
+t6;2-0;1;1--;2,(0-1) CX;;WSN;Alex Call;Jimmy Yacabonis;5%;83%;Single to CF (Ground Ball); Robles to 3B
+t6;2-0;1;1-3;6,(3-2) FBCBB>X;RR;WSN;Luis García;Jimmy Yacabonis;9%;93%;Double to CF (Fly Ball to Deep CF-RF); Robles Scores; Call Scores
+t6;4-0;1;-2-;4,(1-2) CBSC;O;WSN;Jeimer Candelario;Jimmy Yacabonis;-1%;92%;Strikeout Looking
+t6;4-0;2;-2-;3,(1-1) BCX;R;WSN;Joey Meneses;Jimmy Yacabonis;3%;95%;Single to CF (Ground Ball thru SS-2B); García Scores
+t6;5-0;2;1--;2,(0-1) CX;;WSN;Keibert Ruiz;Jimmy Yacabonis;0%;95%;Single to RF (Line Drive); Meneses to 2B
+t6;5-0;2;12-;1,(0-0) C;;WSN;Dominic Smith;Jimmy Yacabonis;0%;96%;Passed Ball; Meneses to 3B; Ruiz to 2B
+t6;5-0;2;-23;3,(1-1) C.BX;O;WSN;Dominic Smith;Jimmy Yacabonis;-1%;94%;Flyball: LF (Short LF Line)
+;;;;;;;;;3 runs, 5 hits, 0 errors, 2 LOB. Nationals 5, Mets 0.
+Bottom of the 6th, Mets Batting, Behind 0-5, Nationals' Josiah Gray facing 3-4-5 
+b6;0-5;0;---;2,(0-1) CX;O;NYM;Francisco Lindor;Josiah Gray;1%;96%;Popfly: SS (Deep SS-3B Hole)
+b6;0-5;1;---;4,(2-1) BBFX;O;NYM;Pete Alonso;Josiah Gray;1%;97%;Flyball: RF
+b6;0-5;2;---;1,(0-0) X;O;NYM;Jeff McNeil;Josiah Gray;0%;97%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 5, Mets 0.
+Top of the 7th, Nationals Batting, Ahead 5-0, Mets' Jimmy Yacabonis facing 7-8-9 
+t7;5-0;0;---;3,(2-0) BBX;O;WSN;Lane Thomas;Jimmy Yacabonis;0%;97%;Groundout: 2B-1B (Weak 2B)
+t7;5-0;1;---;2,(0-1) FX;O;WSN;CJ Abrams;Jimmy Yacabonis;0%;96%;Flyball: LF (Deep LF)
+t7;5-0;2;---;4,(2-1) .BBTH;;WSN;Victor Robles;Jimmy Yacabonis;0%;97%;Hit By Pitch
+t7;5-0;2;1--;1,(0-0) >B;;WSN;Alex Call;Jimmy Yacabonis;0%;97%;Robles Steals 2B
+t7;5-0;2;-2-;3,(1-1) >B.CX;;WSN;Alex Call;Jimmy Yacabonis;0%;97%;Single to 3B (Ground Ball to SS-3B Hole); Robles to 3B
+;;;;;;;;;Tommy Hunter replaces Jimmy Yacabonis pitching
+t7;5-0;2;1-3;5,(2-2) .FBBF1>X;O;WSN;Luis García;Tommy Hunter;-1%;96%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Nationals 5, Mets 0.
+Bottom of the 7th, Mets Batting, Behind 0-5, Nationals' Mason Thompson facing 6-7-8 
+;;;;;;;;;Mason Thompson replaces Josiah Gray pitching
+b7;0-5;0;---;2,(0-1) .CX;O;NYM;Daniel Vogelbach;Mason Thompson;1%;97%;Groundout: 2B-1B
+b7;0-5;1;---;5,(2-2) CBBSS;O;NYM;Brett Baty;Mason Thompson;1%;98%;Strikeout Swinging
+b7;0-5;2;---;5,(2-2) CBBFC;O;NYM;Luis Guillorme;Mason Thompson;0%;98%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 5, Mets 0.
+Top of the 8th, Nationals Batting, Ahead 5-0, Mets' Tommy Hunter facing 3-4-5 
+t8;5-0;0;---;3,(2-0) BBX;O;WSN;Jeimer Candelario;Tommy Hunter;0%;98%;Flyball: RF
+t8;5-0;1;---;4,(1-2) BCFC;O;WSN;Joey Meneses;Tommy Hunter;0%;98%;Strikeout Looking
+t8;5-0;2;---;1,(0-0) X;;WSN;Keibert Ruiz;Tommy Hunter;0%;98%;Single to CF (Ground Ball thru SS-2B)
+t8;5-0;2;1--;2,(0-1) CX;O;WSN;Dominic Smith;Tommy Hunter;0%;98%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Nationals 5, Mets 0.
+Bottom of the 8th, Mets Batting, Behind 0-5, Nationals' Mason Thompson facing 9-1-2 
+b8;0-5;0;---;3,(0-2) CCS;O;NYM;Francisco Alvarez;Mason Thompson;1%;99%;Strikeout Swinging
+b8;0-5;1;---;5,(1-2) CF.FBS;O;NYM;Brandon Nimmo;Mason Thompson;0%;99%;Strikeout Swinging
+b8;0-5;2;---;3,(0-2) CSX;O;NYM;Starling Marte;Mason Thompson;0%;99%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 5, Mets 0.
+Top of the 9th, Nationals Batting, Ahead 5-0, Mets' Adam Ottavino facing 7-8-9 
+;;;;;;;;;Adam Ottavino replaces Tommy Hunter pitching
+t9;5-0;0;---;6,(2-2) .BCBFFX;O;WSN;Lane Thomas;Adam Ottavino;0%;99%;Groundout: 2B-1B (Weak SS-2B)
+t9;5-0;1;---;3,(1-1) BFX;O;WSN;CJ Abrams;Adam Ottavino;0%;99%;Groundout: SS-1B (SS-2B)
+t9;5-0;2;---;7,(3-2) CBCFBBX;O;WSN;Victor Robles;Adam Ottavino;0%;99%;Popfly: SS (Short LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 5, Mets 0.
+Bottom of the 9th, Mets Batting, Behind 0-5, Nationals' Mason Thompson facing 3-4-5 
+b9;0-5;0;---;2,(1-0) BX;;NYM;Francisco Lindor;Mason Thompson;-1%;98%;Single to RF (Ground Ball thru 2B-1B)
+b9;0-5;0;1--;1,(0-0) X;OO;NYM;Pete Alonso;Mason Thompson;2%;100%;Ground Ball Double Play: P-2B-1B
+b9;0-5;2;---;2,(0-1) SX;O;NYM;Jeff McNeil;Mason Thompson;0%;100%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Nationals 5, Mets 0.

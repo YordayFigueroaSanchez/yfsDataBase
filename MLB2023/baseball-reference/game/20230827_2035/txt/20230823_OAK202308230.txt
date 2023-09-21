@@ -1,0 +1,267 @@
+
+Scorebox Meta
+20230823
+12:37 p.m. Local
+5075
+Oakland Coliseum
+163
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/KCR-2023.png;/teams/KCR/2023.shtml;0;0;1;2;1;0;0;0;0;4;5;0
+https://cdn.ssref.net/req/202308251/tlogo/br/OAK-2023.png;/teams/OAK/2023.shtml;0;0;0;0;0;0;0;0;0;0;2;0
+
+Batting home
+Jonah Bride;/players/b/bridejo01.shtml;DH;3;0;1;0;0;1;3;.167;.279;.194;.474;19;12;0.003; 0.92;0.036;-0.033;0%; 0.00; 0.0;;;
+Seth Brown;/players/b/brownse01.shtml;PH-DH-DH;1;0;0;0;0;0;1;.217;.282;.402;.684;6;3;-0.063; 2.90;0.000;-0.063;0%; 0.00; -0.8;;;
+Zack Gelof;/players/g/gelofza01.shtml;2B;4;0;0;0;0;2;4;.295;.363;.598;.961;24;13;-0.133; 1.32;0.000;-0.133;0%; 0.00; -1.5;2;2;
+Carlos Pérez;/players/p/perezca02.shtml;1B;2;0;0;0;0;0;2;.221;.287;.357;.644;8;4;-0.051; 1.06;0.000;-0.051;0%; 0.00; -0.5;5;1;
+Ryan Noda;/players/n/nodary01.shtml;PH-1B;1;0;0;0;0;0;2;.232;.383;.418;.801;6;3;0.004; 0.52;0.020;-0.016;0%; 0.00; 0.2;1;0;HBP
+Brent Rooker;/players/r/rookebr01.shtml;RF;4;0;0;0;0;2;4;.245;.328;.470;.799;19;12;-0.066; 0.67;0.000;-0.066;0%; 0.00; -0.9;6;0;
+Aledmys Díaz;/players/d/diazal02.shtml;LF-3B;4;0;0;0;0;4;4;.223;.282;.326;.608;21;16;-0.049; 0.48;0.000;-0.049;0%; 0.00; -0.7;0;1;
+Jordan Diaz;/players/d/diazjo03.shtml;3B;2;0;0;0;0;2;2;.225;.284;.393;.676;9;7;-0.034; 0.69;0.000;-0.034;0%; 0.00; -0.4;1;1;
+Tony Kemp;/players/k/kempto01.shtml;PH-LF;1;0;0;0;1;0;2;.214;.303;.305;.608;7;3;0.022; 0.35;0.027;-0.005;0%; 0.00; 0.2;0;0;
+Shea Langeliers;/players/l/langesh01.shtml;C;2;0;0;0;1;1;3;.204;.269;.373;.642;17;9;0.030; 0.66;0.052;-0.022;0%; 0.00; 0.4;8;2;
+Esteury Ruiz;/players/r/ruizes01.shtml;CF;2;0;0;0;0;1;2;.243;.298;.320;.618;8;4;-0.033; 0.68;0.000;-0.033;0%; 0.00; -0.3;2;0;
+Lawrence Butler;/players/b/butlela01.shtml;PH-CF;1;0;0;0;0;0;1;.237;.237;.368;.605;6;4;-0.038; 2.01;0.000;-0.038;0%; 0.00; -0.3;0;0;
+Nick Allen;/players/a/allenni02.shtml;SS;2;0;1;0;1;0;3;.199;.249;.262;.511;9;3;0.067; 0.98;0.084;-0.017;0%; 0.00; 0.4;1;0;
+Adrián Martinez;/players/m/martiad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Francisco Pérez;/players/p/perezfr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Kyle Muller;/players/m/mulleky01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Sean Newcomb;/players/n/newcose01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HBP: Ryan Noda (7, by Carlos Hernández).
+
+
+TB: Jonah Bride; Nick Allen.
+
+
+Team LOB: 6.
+With RISP: 0 for 4.
+
+Batting away
+Maikel Garcia;/players/g/garcima01.shtml;3B;3;0;0;1;0;1;5;.283;.328;.376;.704;19;9;-0.038; 0.91;0.079;-0.117;0%; 0.00; -1.3;1;2;SB,CS,HBP,SF,GDP
+Bobby Witt;/players/w/wittbo02.shtml;SS;3;1;2;1;1;0;4;.280;.320;.506;.826;25;14;0.102; 0.46;0.106;-0.004;0%; 0.00; 1.3;2;1;HR
+Michael Massey;/players/m/massemi02.shtml;2B;4;0;0;0;0;1;4;.226;.273;.361;.634;15;11;-0.054; 0.67;0.000;-0.054;0%; 0.00; -0.8;3;2;
+Salvador Perez;/players/p/perezsa02.shtml;1B;3;0;0;0;1;1;4;.253;.297;.426;.723;9;6;-0.021; 0.56;0.009;-0.029;0%; 0.00; -0.4;4;1;IW
+MJ Melendez;/players/m/melenmj01.shtml;LF;4;0;0;0;0;2;4;.234;.304;.391;.695;12;9;-0.070; 0.70;0.000;-0.070;0%; 0.00; -1.0;0;0;
+Matt Beaty;/players/b/beatyma01.shtml;DH;1;1;1;0;0;0;2;.286;.375;.381;.756;4;2;0.061; 0.76;0.061;0.000;0%; 0.00; 0.6;;;HBP
+Nelson Velázquez;/players/v/velazne01.shtml;PH-DH-DH;2;0;0;0;0;0;2;.234;.279;.594;.873;4;2;-0.008; 0.15;0.000;-0.008;0%; 0.00; -0.4;;;
+Freddy Fermin;/players/f/fermifr01.shtml;C;4;0;0;0;0;3;4;.285;.317;.489;.806;20;14;-0.068; 0.73;0.000;-0.068;0%; 0.00; -0.9;13;0;
+Drew Waters;/players/w/waterdr01.shtml;CF;2;1;1;1;2;0;4;.228;.299;.393;.692;19;7;0.134; 0.48;0.158;-0.023;0%; 0.00; 1.8;3;0;3B,SB
+Dairon Blanco;/players/b/blancda02.shtml;RF;2;1;1;1;2;1;4;.247;.316;.438;.755;16;7;0.120; 0.60;0.133;-0.014;0%; 0.00; 0.8;1;0;HR,CS
+Cole Ragans;/players/r/raganco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Taylor Clarke;/players/c/clarkta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jackson Kowar;/players/k/kowarja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Carlos Hernández;/players/h/hernaca04.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+3B: Drew Waters (5, off Francisco Pérez).
+
+
+HR: Dairon Blanco (1, off Adrián Martinez, 3rd inn, 0 on, 0 outs to Deep LF); Bobby Witt (26, off Kyle Muller, 5th inn, 0 on, 0 outs to Deep LF-CF).
+
+
+SF: Maikel Garcia (10, off Francisco Pérez).
+
+
+IBB: Salvador Perez (6, by Francisco Pérez).
+
+
+HBP: Maikel Garcia (2, by Adrián Martinez); Matt Beaty (2, by Francisco Pérez).
+
+
+TB: Bobby Witt 5; Dairon Blanco 4; Drew Waters 3; Matt Beaty.
+
+
+GIDP: Maikel Garcia (9).
+
+
+RBI: Dairon Blanco (14); Bobby Witt (81); Maikel Garcia (43); Drew Waters (25).
+
+
+Team LOB: 6.
+With RISP: 0 for 2.
+
+Pitching home
+Adrián Martinez;/players/m/martiad01.shtml; L (0-2); 2.1;3;1;1;1;3;1;5.71;11;41;24;15;4;5;1;5;3;0;49;;;-0.026; 0.94; 0.00%; 0.00; -0.1
+Francisco Pérez;/players/p/perezfr01.shtml;Francisco Pérez; 1.2;1;2;2;2;2;0;8.53;8;26;14;9;4;1;1;2;0;0;;1;0;-0.122; 1.17; 0.00%; 0.00; -1.0
+Kyle Muller;/players/m/mulleky01.shtml;Kyle Muller; 4 ;1;1;1;2;3;1;7.28;15;66;38;24;8;6;3;7;1;0;;0;0;-0.013; 0.20; 0.00%; 0.00; 0.9
+Sean Newcomb;/players/n/newcose01.shtml;Sean Newcomb; 1 ;0;0;0;1;1;0;0.00;3;10;5;2;0;3;1;0;0;0;;0;0;0.003; 0.08; 0.00%; 0.00; 0.5
+
+Pitching away
+Cole Ragans;/players/r/raganco01.shtml; W (5-4); 6 ;2;0;0;0;11;0;3.66;20;99;61;31;18;12;5;4;2;0;79;;;0.271; 0.79; 0.00%; 0.00; 2.8
+Taylor Clarke;/players/c/clarkta01.shtml;Taylor Clarke; 1 ;0;0;0;0;1;0;5.55;3;10;7;2;3;2;0;2;0;0;;0;0;0.030; 0.40; 0.00%; 0.00; 0.5
+Jackson Kowar;/players/k/kowarja01.shtml;Jackson Kowar; 0.1;0;0;0;3;0;0;5.02;4;21;7;3;2;2;1;0;0;0;;0;0;-0.094; 1.28; 0.00%; 0.00; -1.1
+Carlos Hernández;/players/h/hernaca04.shtml; S (3); 1.2;0;0;0;0;1;0;4.28;6;29;18;11;3;4;1;3;0;0;;3;0;0.134; 1.16; 0.00%; 0.00; 2.0
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Carlos Hernández (1; Ryan Noda); Adrián Martinez (3; Maikel Garcia); Francisco Pérez (1; Matt Beaty).
+IBB: Francisco Pérez (1; Salvador Perez).
+Pickoffs: Francisco Pérez (1; Dairon Blanco, 2nd base (CS)).
+
+Balks: None.
+WP: None.
+HBP: Carlos Hernández (1; Ryan Noda); Adrián Martinez (3; Maikel Garcia); Francisco Pérez (1; Matt Beaty).
+IBB: Francisco Pérez (1; Salvador Perez).
+Pickoffs: Francisco Pérez (1; Dairon Blanco, 2nd base (CS)).
+
+section_content
+Umpires: HP - Paul Clemons, 1B - Jeremie Rehak, 2B - Chad Fairchild, 3B - Nic Lentz, LF - (none), RF - (none).
+Time of Game: 2:43.
+Attendance: 5,075.
+Field Condition: Unknown.
+Start Time Weather: 82° F, Wind 8mph out to Rightfield, Sunny, No Precipitation.
+
+div_lineups
+Royals
+1;Maikel Garcia;/players/g/garcima01.shtml;3B
+2;Bobby Witt;/players/w/wittbo02.shtml;SS
+3;Michael Massey;/players/m/massemi02.shtml;2B
+4;Salvador Perez;/players/p/perezsa02.shtml;1B
+5;MJ Melendez;/players/m/melenmj01.shtml;LF
+6;Matt Beaty;/players/b/beatyma01.shtml;DH
+7;Freddy Fermin;/players/f/fermifr01.shtml;C
+8;Drew Waters;/players/w/waterdr01.shtml;CF
+9;Dairon Blanco;/players/b/blancda02.shtml;RF
+; Cole Ragans;/players/r/raganco01.shtml;P
+Athletics
+1;Jonah Bride;/players/b/bridejo01.shtml;DH
+2;Zack Gelof;/players/g/gelofza01.shtml;2B
+3;Carlos Pérez;/players/p/perezca02.shtml;1B
+4;Brent Rooker;/players/r/rookebr01.shtml;RF
+5;Aledmys Díaz;/players/d/diazal02.shtml;LF
+6;Jordan Diaz;/players/d/diazjo03.shtml;3B
+7;Shea Langeliers;/players/l/langesh01.shtml;C
+8;Esteury Ruiz;/players/r/ruizes01.shtml;CF
+9;Nick Allen;/players/a/allenni02.shtml;SS
+; Adrián Martinez;/players/m/martiad01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t4;1-0;1;1--;5,(2-2) FF*BBX;R;KCR;Drew Waters;Francisco Pérez;15%;78%;Triple to CF (Fly Ball to Deep CF-RF); Beaty Scores
+t3;0-0;0;---;2,(1-0) BX;R;KCR;Dairon Blanco;Adrián Martinez;12%;62%;Home Run (Fly Ball to Deep LF)
+t3;1-0;0;-2-;2,(1-0) 1>B.>C;O;KCR;Bobby Witt;Adrián Martinez;-8%;60%;Garcia Caught Stealing 3B (C-3B)
+b8;0-4;1;123;6,(3-2) ..BSS.*BBX;O;OAK;Seth Brown;Carlos Hernández;6%;93%;Popfly: 3B (Weak 2B-1B)
+t5;3-0;0;---;8,(3-2) .BBFC.FBFX;R;KCR;Bobby Witt;Kyle Muller;6%;91%;Home Run (Fly Ball to Deep LF-CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Royals Batting, Tied 0-0, Athletics' Adrián Martinez facing 1-2-3 
+t1;0-0;0;---;5,(2-2) CBFBC;O;KCR;Maikel Garcia;Adrián Martinez;-2%;48%;Strikeout Looking
+t1;0-0;1;---;5,(3-2) SBSB.BV;;KCR;Bobby Witt;Adrián Martinez;2%;50%;Walk
+t1;0-0;1;1--;2,(0-1) C1X;O;KCR;Michael Massey;Adrián Martinez;-3%;48%;Flyball: RF (Short RF Line)
+t1;0-0;2;1--;2,(1-0) BX;O;KCR;Salvador Perez;Adrián Martinez;-2%;45%;Lineout: RF (RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Royals 0, Athletics 0.
+Bottom of the 1st, Athletics Batting, Tied 0-0, Royals' Cole Ragans facing 1-2-3 
+b1;0-0;0;---;4,(1-2) CFBX;;OAK;Jonah Bride;Cole Ragans;-4%;42%;Single to RF (Line Drive to Deep RF)
+b1;0-0;0;1--;6,(3-2) BFBBSS;O;OAK;Zack Gelof;Cole Ragans;3%;45%;Strikeout Swinging
+b1;0-0;1;1--;3,(2-0) B*BX;O;OAK;Carlos Pérez;Cole Ragans;3%;48%;Groundout: 3B-2B/Forceout at 2B; Pérez to 1B
+b1;0-0;2;1--;5,(2-2) BBFFS;O;OAK;Brent Rooker;Cole Ragans;2%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 0, Athletics 0.
+Top of the 2nd, Royals Batting, Tied 0-0, Athletics' Adrián Martinez facing 5-6-7 
+t2;0-0;0;---;3,(0-2) CTT;O;KCR;MJ Melendez;Adrián Martinez;-2%;48%;Strikeout Swinging
+t2;0-0;1;---;3,(1-1) BFX;;KCR;Matt Beaty;Adrián Martinez;3%;50%;Single to LF (Line Drive to LF-CF)
+t2;0-0;1;1--;7,(2-2) SFB*BFFS;O;KCR;Freddy Fermin;Adrián Martinez;-3%;47%;Strikeout Swinging
+t2;0-0;2;1--;5,(2-2) BBFFX;O;KCR;Drew Waters;Adrián Martinez;-2%;45%;Groundout: P-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 0, Athletics 0.
+Bottom of the 2nd, Athletics Batting, Tied 0-0, Royals' Cole Ragans facing 5-6-7 
+b2;0-0;0;---;4,(1-2) SCBS;O;OAK;Aledmys Díaz;Cole Ragans;2%;47%;Strikeout Swinging
+b2;0-0;1;---;3,(0-2) CSS;O;OAK;Jordan Diaz;Cole Ragans;2%;49%;Strikeout Swinging
+b2;0-0;2;---;5,(2-2) SBF.BS;O;OAK;Shea Langeliers;Cole Ragans;1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Athletics 0.
+Top of the 3rd, Royals Batting, Tied 0-0, Athletics' Adrián Martinez facing 9-1-2 
+t3;0-0;0;---;2,(1-0) BX;R;KCR;Dairon Blanco;Adrián Martinez;12%;62%;Home Run (Fly Ball to Deep LF)
+t3;1-0;0;---;3,(2-0) BBH;;KCR;Maikel Garcia;Adrián Martinez;3%;65%;Hit By Pitch
+t3;1-0;0;1--;1,(0-0) 1>B;;KCR;Bobby Witt;Adrián Martinez;3%;68%;Garcia Steals 2B
+t3;1-0;0;-2-;2,(1-0) 1>B.>C;O;KCR;Bobby Witt;Adrián Martinez;-8%;60%;Garcia Caught Stealing 3B (C-3B)
+t3;1-0;1;---;4,(2-1) 1>B.>C.BX;;KCR;Bobby Witt;Adrián Martinez;2%;62%;Single to CF (Line Drive to Deep CF-RF)
+;;;;;;;;;Francisco Pérez replaces Adrián Martinez pitching
+t3;1-0;1;1--;2,(0-1) .S1>X;O;KCR;Michael Massey;Francisco Pérez;-2%;61%;Groundout: 1B unassisted; Witt to 2B
+t3;1-0;2;-2-;,(3-0) VVVV;;KCR;Salvador Perez;Francisco Pérez;1%;61%;Intentional Walk
+t3;1-0;2;12-;4,(1-2) FCB*S;O;KCR;MJ Melendez;Francisco Pérez;-4%;57%;Strikeout Swinging; Melendez out at 1B/C-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Royals 1, Athletics 0.
+Bottom of the 3rd, Athletics Batting, Behind 0-1, Royals' Cole Ragans facing 8-9-1 
+b3;0-1;0;---;5,(2-2) BCFBS;O;OAK;Esteury Ruiz;Cole Ragans;3%;60%;Strikeout Swinging
+b3;0-1;1;---;1,(0-0) X;;OAK;Nick Allen;Cole Ragans;-3%;57%;Single to SS (Ground Ball)
+b3;0-1;1;1--;8,(3-2) CCB1BFF.B>X;O;OAK;Jonah Bride;Cole Ragans;2%;59%;Groundout: 3B-1B; Allen to 2B
+b3;0-1;2;-2-;5,(3-1) BBSBX;O;OAK;Zack Gelof;Cole Ragans;4%;63%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 1, Athletics 0.
+Top of the 4th, Royals Batting, Ahead 1-0, Athletics' Francisco Pérez facing 6-7-8 
+t4;1-0;0;---;1,(0-0) H;;KCR;Matt Beaty;Francisco Pérez;4%;67%;Hit By Pitch
+t4;1-0;0;1--;4,(1-2) F*BSS;O;KCR;Freddy Fermin;Francisco Pérez;-3%;63%;Strikeout Swinging
+t4;1-0;1;1--;5,(2-2) FF*BBX;R;KCR;Drew Waters;Francisco Pérez;15%;78%;Triple to CF (Fly Ball to Deep CF-RF); Beaty Scores
+t4;2-0;1;--3;5,(3-1) BBF*BB;;KCR;Dairon Blanco;Francisco Pérez;1%;80%;Walk
+t4;2-0;1;1-3;5,(3-1) B1FBBX;RO;KCR;Maikel Garcia;Francisco Pérez;2%;81%;Flyball: RF/Sacrifice Fly (Deep RF); Waters Scores
+t4;3-0;2;1--;,(0-0) 1;O;KCR;Bobby Witt;Francisco Pérez;-1%;80%;Blanco Caught Stealing (PO) 2B (P-1B-SS)
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Royals 3, Athletics 0.
+Bottom of the 4th, Athletics Batting, Behind 0-3, Royals' Cole Ragans facing 3-4-5 
+b4;0-3;0;---;5,(2-2) BBCCX;O;OAK;Carlos Pérez;Cole Ragans;2%;83%;Lineout: CF (Deep CF)
+b4;0-3;1;---;8,(3-2) FBFBFBFS;O;OAK;Brent Rooker;Cole Ragans;2%;84%;Strikeout Swinging
+b4;0-3;2;---;6,(1-2) C.FFBFS;O;OAK;Aledmys Díaz;Cole Ragans;1%;85%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Athletics 0.
+Top of the 5th, Royals Batting, Ahead 3-0, Athletics' Kyle Muller facing 2-3-4 
+;;;;;;;;;Kyle Muller replaces Francisco Pérez pitching
+t5;3-0;0;---;8,(3-2) .BBFC.FBFX;R;KCR;Bobby Witt;Kyle Muller;6%;91%;Home Run (Fly Ball to Deep LF-CF)
+t5;4-0;0;---;7,(3-2) BBFSBFS;O;KCR;Michael Massey;Kyle Muller;-1%;90%;Strikeout Swinging
+t5;4-0;1;---;3,(1-1) BSX;O;KCR;Salvador Perez;Kyle Muller;-1%;90%;Groundout: P-1B
+t5;4-0;2;---;2,(1-0) BX;O;KCR;MJ Melendez;Kyle Muller;0%;89%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Royals 4, Athletics 0.
+Bottom of the 5th, Athletics Batting, Behind 0-4, Royals' Cole Ragans facing 6-7-8 
+b5;0-4;0;---;6,(2-2) BFFBFS;O;OAK;Jordan Diaz;Cole Ragans;2%;91%;Strikeout Swinging
+b5;0-4;1;---;6,(2-2) SS.BBFX;O;OAK;Shea Langeliers;Cole Ragans;1%;92%;Groundout: P-2B-1B (Front of Home)
+b5;0-4;2;---;3,(2-0) BBX;O;OAK;Esteury Ruiz;Cole Ragans;1%;93%;Popfly: 2B (Weak SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 4, Athletics 0.
+Top of the 6th, Royals Batting, Ahead 4-0, Athletics' Kyle Muller facing 6-7-8 
+;;;;;;;;;Nelson Velázquez pinch hits for Matt Beaty (DH) batting 6th
+t6;4-0;0;---;2,(1-0) .BX;O;KCR;Nelson Velázquez;Kyle Muller;-1%;92%;Flyball: RF (RF Line)
+t6;4-0;1;---;4,(2-1) BBSX;O;KCR;Freddy Fermin;Kyle Muller;0%;92%;Flyball: RF (Deep RF)
+t6;4-0;2;---;5,(3-1) BBBCB;;KCR;Drew Waters;Kyle Muller;0%;92%;Walk
+t6;4-0;2;1--;2,(0-1) C>B;;KCR;Dairon Blanco;Kyle Muller;0%;92%;Waters Steals 2B
+t6;4-0;2;-2-;6,(3-2) C>B.SBBB;;KCR;Dairon Blanco;Kyle Muller;0%;93%;Walk
+t6;4-0;2;12-;3,(1-1) *BCX;O;KCR;Maikel Garcia;Kyle Muller;-1%;92%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Royals 4, Athletics 0.
+Bottom of the 6th, Athletics Batting, Behind 0-4, Royals' Cole Ragans facing 9-1-2 
+b6;0-4;0;---;4,(2-1) .BCBX;O;OAK;Nick Allen;Cole Ragans;2%;93%;Flyball: CF (Deep LF-CF)
+b6;0-4;1;---;7,(3-2) CBBBSFC;O;OAK;Jonah Bride;Cole Ragans;1%;94%;Strikeout Looking
+b6;0-4;2;---;5,(2-2) FBFB.S;O;OAK;Zack Gelof;Cole Ragans;1%;95%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 4, Athletics 0.
+Top of the 7th, Royals Batting, Ahead 4-0, Athletics' Kyle Muller facing 2-3-4 
+t7;4-0;0;---;8,(3-2) BSFFBF.BX;O;KCR;Bobby Witt;Kyle Muller;0%;94%;Flyball: RF (Deep RF)
+t7;4-0;1;---;4,(1-2) CBFX;O;KCR;Michael Massey;Kyle Muller;0%;94%;Groundout: 2B-P
+t7;4-0;2;---;4,(1-2) BFF*S;O;KCR;Salvador Perez;Kyle Muller;0%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 4, Athletics 0.
+Bottom of the 7th, Athletics Batting, Behind 0-4, Royals' Taylor Clarke facing 3-4-5 
+;;;;;;;;;Taylor Clarke replaces Cole Ragans pitchingRyan Noda pinch hits for Carlos Pérez (1B) batting 3rd
+b7;0-4;0;---;1,(0-0) ..X;O;OAK;Ryan Noda;Taylor Clarke;2%;95%;Popfly: SS (Short CF)
+b7;0-4;1;---;5,(2-2) BSBCX;O;OAK;Brent Rooker;Taylor Clarke;1%;96%;Flyball: CF (Deep CF)
+b7;0-4;2;---;4,(1-2) SBCS;O;OAK;Aledmys Díaz;Taylor Clarke;0%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 4, Athletics 0.
+Top of the 8th, Royals Batting, Ahead 4-0, Athletics' Kyle Muller facing 5-6-7 
+;;;;;;;;;Ryan Noda moves from PH to 1B 
+t8;4-0;0;---;3,(1-1) .BCX;O;KCR;MJ Melendez;Kyle Muller;0%;97%;Lineout: 2B (Deep 2B-1B)
+t8;4-0;1;---;2,(1-0) BX;O;KCR;Nelson Velázquez;Kyle Muller;0%;96%;Flyball: CF (Deep CF)
+t8;4-0;2;---;5,(1-2) FBFFS;O;KCR;Freddy Fermin;Kyle Muller;0%;96%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 4, Athletics 0.
+Bottom of the 8th, Athletics Batting, Behind 0-4, Royals' Jackson Kowar facing 6-7-8 
+;;;;;;;;;Jackson Kowar replaces Taylor Clarke pitchingTony Kemp pinch hits for Jordan Diaz (3B) batting 6th
+b8;0-4;0;---;5,(3-1) ..BBCBB;;OAK;Tony Kemp;Jackson Kowar;-3%;94%;Walk
+b8;0-4;0;1--;6,(3-2) BBBCT.B;;OAK;Shea Langeliers;Jackson Kowar;-5%;88%;Walk; Kemp to 2B
+;;;;;;;;;Lawrence Butler pinch hits for Esteury Ruiz (CF) batting 8th
+b8;0-4;0;12-;6,(2-2) .SBS.BFX;O;OAK;Lawrence Butler;Jackson Kowar;4%;92%;Groundout: 1B-SS/Forceout at 2B; Kemp to 3B; Butler to 1B
+b8;0-4;1;1-3;4,(3-0) BBBB;;OAK;Nick Allen;Jackson Kowar;-5%;87%;Walk; Butler to 2B
+;;;;;;;;;Carlos Hernández replaces Jackson Kowar pitchingSeth Brown pinch hits for Jonah Bride (DH) batting 1st
+b8;0-4;1;123;6,(3-2) ..BSS.*BBX;O;OAK;Seth Brown;Carlos Hernández;6%;93%;Popfly: 3B (Weak 2B-1B)
+b8;0-4;2;123;8,(3-2) CBSBFF*B>X;O;OAK;Zack Gelof;Carlos Hernández;6%;99%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 3 LOB. Royals 4, Athletics 0.
+Top of the 9th, Royals Batting, Ahead 4-0, Athletics' Sean Newcomb facing 8-9-1 
+;;;;;;;;;Sean Newcomb replaces Kyle Muller pitchingAledmys Díaz moves from LF to 3B Tony Kemp moves from PH to LF Lawrence Butler moves from PH to CF 
+t9;4-0;0;---;4,(3-0) .....BBBB;;KCR;Drew Waters;Sean Newcomb;0%;99%;Walk
+t9;4-0;0;1--;3,(0-2) CC1T;O;KCR;Dairon Blanco;Sean Newcomb;0%;99%;Strikeout Swinging
+t9;4-0;1;1--;3,(1-1) CBX;OO;KCR;Maikel Garcia;Sean Newcomb;0%;98%;Ground Ball Double Play: 3B-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 4, Athletics 0.
+Bottom of the 9th, Athletics Batting, Behind 0-4, Royals' Carlos Hernández facing 3-4-5 
+b9;0-4;0;---;5,(2-2) CBBF.H;;OAK;Ryan Noda;Carlos Hernández;-2%;96%;Hit By Pitch
+b9;0-4;0;1--;1,(0-0) X;O;OAK;Brent Rooker;Carlos Hernández;2%;98%;Foul Popfly: 2B (1B into Foul Terr.)
+b9;0-4;1;1--;7,(2-2) *BBCFFFC;O;OAK;Aledmys Díaz;Carlos Hernández;1%;100%;Strikeout Looking
+b9;0-4;2;1--;2,(0-1) FX;O;OAK;Tony Kemp;Carlos Hernández;0%;100%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Royals 4, Athletics 0.

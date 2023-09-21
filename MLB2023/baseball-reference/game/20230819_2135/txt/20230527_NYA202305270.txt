@@ -1,0 +1,265 @@
+
+Scorebox Meta
+20230527
+1:05 p.m. Local
+46963
+Yankee Stadium III
+152
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/SDP-2023.png;/teams/SDP/2023.shtml;0;0;0;1;0;0;1;0;0;0;2;3;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;1;0;0;0;0;0;1;0;0;1;3;8;1
+
+Batting home
+Gleyber Torres;/players/t/torregl01.shtml;2B;4;0;1;0;0;0;4;.263;.345;.454;.799;15;11;0.013; 1.18;0.074;-0.061; 0.01%; 1.08; -0.2;1;2;
+Aaron Judge;/players/j/judgeaa01.shtml;DH;4;1;1;0;0;1;4;.286;.396;.617;1.013;12;8;-0.180; 1.22;0.024;-0.204;-0.10%; 1.13; -0.7;;;GDP
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;4;0;1;0;0;1;4;.303;.376;.507;.884;14;12;-0.049; 1.38;0.063;-0.112;-0.03%; 1.27; 0.1;8;3;
+Greg Allen;/players/a/allengr01.shtml;PR;0;1;0;0;0;0;0;.250;.250;.750;1.000;;;0.000;;0.000;0.000;0%;; 0.0;;;
+DJ LeMahieu;/players/l/lemahdj01.shtml;3B;3;1;2;2;1;0;4;.257;.326;.427;.753;11;7;0.247; 1.64;0.266;-0.019; 0.14%; 1.51; 1.4;0;3;HR,2B,IW
+Harrison Bader;/players/b/baderha01.shtml;CF;4;0;1;0;0;1;4;.250;.281;.476;.757;13;8;-0.046; 2.05;0.043;-0.089;-0.03%; 1.89; -0.7;1;0;CS
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;LF;4;0;1;1;0;0;4;.206;.260;.351;.610;20;11;0.085; 1.71;0.156;-0.071; 0.05%; 1.58; 0.2;3;0;
+Oswaldo Cabrera;/players/c/cabreos01.shtml;RF;3;0;1;0;0;0;3;.201;.253;.302;.555;12;10;0.028; 1.08;0.064;-0.036; 0.01%; 1.00; 0.1;5;0;
+Kyle Higashioka;/players/h/higasky01.shtml;C;3;0;0;0;0;2;3;.173;.235;.333;.568;13;9;-0.088; 1.21;0.000;-0.088;-0.05%; 1.12; -0.6;8;0;
+Anthony Volpe;/players/v/volpean01.shtml;SS;3;0;0;0;0;0;3;.197;.280;.356;.636;11;9;-0.162; 1.50;0.000;-0.162;-0.09%; 1.38; -1.0;3;1;GDP
+Luis Severino;/players/s/severlu01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;2;
+Michael King;/players/k/kingmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Wandy Peralta;/players/p/peralwa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Clay Holmes;/players/h/holmecl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: DJ LeMahieu (9, off Michael Wacha).
+
+
+HR: DJ LeMahieu (6, off Michael Wacha, 7th inn, 0 on, 1 out to Deep CF-RF).
+
+
+IBB: DJ LeMahieu (1, by Nick Martinez).
+
+
+TB: DJ LeMahieu 6; Aaron Judge; Oswaldo Cabrera; Harrison Bader; Isiah Kiner-Falefa; Anthony Rizzo; Gleyber Torres.
+
+
+GIDP: Anthony Volpe (2); Aaron Judge (2).
+
+
+RBI: DJ LeMahieu 2 (21); Isiah Kiner-Falefa (7).
+
+
+Team LOB: 3.
+With RISP: 2 for 4.
+
+Batting away
+Rougned Odor;/players/o/odorro01.shtml;3B;5;0;0;0;0;1;5;.208;.291;.390;.680;14;10;-0.225; 1.72;0.000;-0.225;-0.10%; 1.31; -1.3;0;3;
+Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF;5;1;1;1;0;2;5;.254;.297;.486;.783;20;14;-0.061; 1.60;0.126;-0.187;-0.03%; 1.21; 0.2;2;0;HR
+Juan Soto;/players/s/sotoju01.shtml;LF;2;0;0;0;2;1;4;.263;.424;.508;.932;16;8;0.028; 0.70;0.056;-0.027; 0.01%; 0.53; 0.2;2;1;
+Jake Cronenworth;/players/c/croneja01.shtml;2B;4;0;1;0;0;0;4;.213;.336;.376;.713;8;7;-0.058; 1.44;0.040;-0.098;-0.03%; 1.09; -0.6;2;3;
+Brandon Dixon;/players/d/dixonbr01.shtml;1B;4;0;0;0;0;1;4;.233;.324;.367;.690;18;15;-0.165; 1.59;0.000;-0.165;-0.07%; 1.21; -1.0;10;0;
+Nelson Cruz;/players/c/cruzne02.shtml;DH;2;0;0;0;1;0;3;.245;.278;.392;.670;13;7;-0.020; 0.80;0.022;-0.041;-0.01%; 0.60; -0.2;;;
+José Azocar;/players/a/azocajo01.shtml;PR-DH-DH;0;1;0;0;0;0;0;.227;.244;.273;.517;;;0.000;;0.000;0.000;0%;; 0.0;;;
+Xander Bogaerts;/players/b/bogaexa01.shtml;PH-DH-DH;1;0;0;0;0;0;1;.258;.352;.405;.757;5;3;-0.059; 2.32;0.000;-0.059;-0.03%; 1.76; -0.2;;;
+Trent Grisham;/players/g/grishtr01.shtml;CF;3;0;0;0;1;0;4;.185;.305;.352;.657;14;9;-0.060; 1.65;0.093;-0.153;-0.03%; 1.25; -0.4;2;0;CS
+Ha-Seong Kim;/players/k/kimha01.shtml;SS;3;0;1;1;1;1;4;.239;.320;.381;.701;15;7;0.180; 1.39;0.232;-0.052; 0.08%; 1.05; 1.0;3;5;
+Brett Sullivan;/players/s/sullibr01.shtml;C;3;0;0;0;0;2;3;.174;.191;.304;.496;11;7;-0.108; 1.25;0.000;-0.108;-0.05%; 0.95; -0.9;7;1;
+Austin Nola;/players/n/nolaau01.shtml;PH-C;1;0;0;0;0;0;1;.134;.257;.186;.442;3;2;-0.106; 3.94;0.000;-0.106;-0.05%; 2.99; -0.4;0;0;
+Michael Wacha;/players/w/wachami01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nick Martinez;/players/m/martini01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Fernando Tatis Jr. (9, off Luis Severino, 4th inn, 0 on, 1 out to Deep LF-CF).
+
+
+TB: Fernando Tatis Jr. 4; Jake Cronenworth; Ha-Seong Kim.
+
+
+RBI: Ha-Seong Kim (17); Fernando Tatis Jr. (18).
+
+
+2-out RBI: Ha-Seong Kim.
+
+
+Team LOB: 7.
+With RISP: 1 for 6.
+
+Pitching home
+Luis Severino;/players/s/severlu01.shtml;Luis Severino; 6.2;1;2;1;3;5;1;1.59;25;82;54;33;5;16;6;11;2;0;68;;;0.247; 0.92; 0.14%; 0.85; 2.1
+Michael King;/players/k/kingmi01.shtml;Michael King; 1 ;1;0;0;1;2;0;1.88;5;22;12;6;2;4;2;0;0;0;;2;1;-0.095; 1.87;-0.05%; 1.72; -0.3
+Wandy Peralta;/players/p/peralwa01.shtml;Wandy Peralta; 1.1;1;0;0;1;0;0;2.45;5;25;16;10;3;3;3;1;0;0;;1;0;0.189; 2.31; 0.10%; 2.13; 0.7
+Clay Holmes;/players/h/holmecl01.shtml; W (3-2); 1 ;0;0;0;0;1;0;3.00;3;8;7;3;2;2;1;1;0;0;;0;0;0.311; 3.85; 0.17%; 3.56; 1.1
+
+Pitching away
+Michael Wacha;/players/w/wachami01.shtml;Michael Wacha; 7 ;5;2;2;0;4;1;3.45;24;92;69;40;12;17;9;11;4;0;63;;;0.096; 0.93; 0.04%; 0.71; 1.5
+Nick Martinez;/players/m/martini01.shtml; L (2-2); 2.1;3;1;0;1;1;0;2.82;9;29;19;13;4;2;5;2;1;0;;0;0;0.057; 2.88; 0.03%; 2.19; -0.1
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: Nick Martinez (1; DJ LeMahieu).
+Pickoffs: Wandy Peralta (1; Trent Grisham, 2nd base (CS)).
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: Nick Martinez (1; DJ LeMahieu).
+Pickoffs: Wandy Peralta (1; Trent Grisham, 2nd base (CS)).
+
+section_content
+Umpires: HP - Rob Drake, 1B - Bill Miller, 2B - Roberto Ortiz, 3B - Chad Whitson, LF - (none), RF - (none).
+Time of Game: 2:32.
+Attendance: 46,963.
+Field Condition: Unknown.
+Start Time Weather: 72° F, Wind 6mph from Right to Left, Sunny, No Precipitation.
+
+div_lineups
+Padres
+1;Rougned Odor;/players/o/odorro01.shtml;3B
+2;Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF
+3;Juan Soto;/players/s/sotoju01.shtml;LF
+4;Jake Cronenworth;/players/c/croneja01.shtml;2B
+5;Brandon Dixon;/players/d/dixonbr01.shtml;1B
+6;Nelson Cruz;/players/c/cruzne02.shtml;DH
+7;Trent Grisham;/players/g/grishtr01.shtml;CF
+8;Ha-Seong Kim;/players/k/kimha01.shtml;SS
+9;Brett Sullivan;/players/s/sullibr01.shtml;C
+; Michael Wacha;/players/w/wachami01.shtml;P
+Yankees
+1;Gleyber Torres;/players/t/torregl01.shtml;2B
+2;Aaron Judge;/players/j/judgeaa01.shtml;DH
+3;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+4;DJ LeMahieu;/players/l/lemahdj01.shtml;3B
+5;Harrison Bader;/players/b/baderha01.shtml;CF
+6;Isiah Kiner-Falefa;/players/k/kineris01.shtml;LF
+7;Oswaldo Cabrera;/players/c/cabreos01.shtml;RF
+8;Kyle Higashioka;/players/h/higasky01.shtml;C
+9;Anthony Volpe;/players/v/volpean01.shtml;SS
+; Luis Severino;/players/s/severlu01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b7;1-2;1;---;3,(1-1) CBX;R;NYY;DJ LeMahieu;Michael Wacha;24%;55%;Home Run (Line Drive to Deep CF-RF)
+t7;1-1;2;12-;1,(0-0) .X;R;SDP;Ha-Seong Kim;Michael King;-22%;30%;Single to LF (Ground Ball thru SS-3B Hole); Azocar Scores/unER; Grisham to 3B; Kim to 2B
+b9;2-2;0;1--;4,(2-1) *BBSX;OO;NYY;Aaron Judge;Nick Martinez;-18%;54%;Ground Ball Double Play: 3B-2B-1B
+b10;2-2;1;-23;3,(2-0) >*B.*BX;R;NYY;Isiah Kiner-Falefa;Nick Martinez;16%;100%;Single to 3B (Ground Ball); Allen Scores/unER; Bader to 3B
+t4;0-1;1;---;2,(0-1) FX;R;SDP;Fernando Tatis Jr.;Luis Severino;-13%;53%;Home Run (Fly Ball to Deep LF-CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Padres Batting, Tied 0-0, Yankees' Luis Severino facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;SDP;Rougned Odor;Luis Severino;2%;52%;Flyball: SS (Deep SS-3B Hole)
+t1;0-0;1;---;5,(2-2) BCSBC;O;SDP;Fernando Tatis Jr.;Luis Severino;2%;54%;Strikeout Looking
+t1;0-0;2;---;3,(1-2) CFVC;O;SDP;Juan Soto;Luis Severino;1%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Yankees 0.
+Bottom of the 1st, Yankees Batting, Tied 0-0, Padres' Michael Wacha facing 1-2-3 
+b1;0-0;0;---;5,(3-1) BBFBX;O;NYY;Gleyber Torres;Michael Wacha;-2%;53%;Popfly: 1B (Front of Home)
+b1;0-0;1;---;4,(2-1) BBSX;;NYY;Aaron Judge;Michael Wacha;2%;55%;Single to LF (Line Drive to Deep LF Line)
+b1;0-0;1;1--;3,(0-2) CS.X;;NYY;Anthony Rizzo;Michael Wacha;6%;61%;Single to CF (Line Drive to CF-RF); Judge to 3B
+b1;0-0;1;1-3;3,(1-1) BCX;RO;NYY;DJ LeMahieu;Michael Wacha;2%;64%;Double to LF (Ground Ball); Judge Scores; Rizzo out at Hm/LF-SS-C; LeMahieu to 3B
+b1;1-0;2;--3;5,(2-2) C*BBFS;O;NYY;Harrison Bader;Michael Wacha;-3%;60%;Strikeout Swinging
+;;;;;;;;;1 run, 3 hits, 0 errors, 1 LOB. Padres 0, Yankees 1.
+Top of the 2nd, Padres Batting, Behind 0-1, Yankees' Luis Severino facing 4-5-6 
+t2;0-1;0;---;2,(0-1) CX;O;SDP;Jake Cronenworth;Luis Severino;2%;63%;Popfly: 2B
+t2;0-1;1;---;4,(0-2) CFFX;O;SDP;Brandon Dixon;Luis Severino;2%;65%;Groundout: P-1B (Weak SS-2B)
+t2;0-1;2;---;4,(1-2) BCS.X;O;SDP;Nelson Cruz;Luis Severino;1%;66%;Lineout: LF (Deep LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Yankees 1.
+Bottom of the 2nd, Yankees Batting, Ahead 1-0, Padres' Michael Wacha facing 6-7-8 
+b2;1-0;0;---;1,(0-0) X;O;NYY;Isiah Kiner-Falefa;Michael Wacha;-2%;64%;Groundout: SS-1B
+b2;1-0;1;---;5,(1-2) BCFFX;O;NYY;Oswaldo Cabrera;Michael Wacha;-1%;62%;Flyball: RF
+b2;1-0;2;---;3,(0-2) CFS;O;NYY;Kyle Higashioka;Michael Wacha;-1%;61%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Yankees 1.
+Top of the 3rd, Padres Batting, Behind 0-1, Yankees' Luis Severino facing 7-8-9 
+t3;0-1;0;---;1,(0-0) X;O;SDP;Trent Grisham;Luis Severino;3%;64%;Lineout: CF (Deep CF)
+t3;0-1;1;---;6,(3-2) CBBFBT;O;SDP;Ha-Seong Kim;Luis Severino;2%;66%;Strikeout Swinging
+t3;0-1;2;---;5,(2-2) CFBBS;O;SDP;Brett Sullivan;Luis Severino;1%;67%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Yankees 1.
+Bottom of the 3rd, Yankees Batting, Ahead 1-0, Padres' Michael Wacha facing 9-1-2 
+b3;1-0;0;---;2,(0-1) FX;O;NYY;Anthony Volpe;Michael Wacha;-2%;65%;Groundout: SS-1B (SS-3B Hole)
+b3;1-0;1;---;3,(0-2) CFX;O;NYY;Gleyber Torres;Michael Wacha;-1%;63%;Flyball: RF (Deep RF)
+b3;1-0;2;---;3,(0-2) CCC;O;NYY;Aaron Judge;Michael Wacha;-1%;62%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Yankees 1.
+Top of the 4th, Padres Batting, Behind 0-1, Yankees' Luis Severino facing 1-2-3 
+t4;0-1;0;---;4,(2-1) BBCX;O;SDP;Rougned Odor;Luis Severino;3%;65%;Groundout: 1B-P
+t4;0-1;1;---;2,(0-1) FX;R;SDP;Fernando Tatis Jr.;Luis Severino;-13%;53%;Home Run (Fly Ball to Deep LF-CF)
+t4;1-1;1;---;6,(3-2) CBBBC.B;;SDP;Juan Soto;Luis Severino;-3%;50%;Walk
+t4;1-1;1;1--;4,(1-2) C1BFX;O;SDP;Jake Cronenworth;Luis Severino;3%;53%;Groundout: 1B-SS/Forceout at 2B (2B-1B); Cronenworth to 1B
+t4;1-1;2;1--;4,(1-2) FBFS;O;SDP;Brandon Dixon;Luis Severino;3%;56%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Padres 1, Yankees 1.
+Bottom of the 4th, Yankees Batting, Tied 1-1, Padres' Michael Wacha facing 3-4-5 
+b4;1-1;0;---;2,(0-1) FX;O;NYY;Anthony Rizzo;Michael Wacha;-3%;53%;Popfly: SS (SS-3B Hole)
+b4;1-1;1;---;5,(2-2) BBCCX;O;NYY;DJ LeMahieu;Michael Wacha;-2%;51%;Foul Popfly: C (Behind Home)
+b4;1-1;2;---;2,(1-0) BX;;NYY;Harrison Bader;Michael Wacha;1%;53%;Single to CF (Ground Ball thru SS-2B)
+b4;1-1;2;1--;5,(1-2) FBS1F1>B;O;NYY;Isiah Kiner-Falefa;Michael Wacha;-3%;50%;Bader Caught Stealing 2B (C-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Padres 1, Yankees 1.
+Top of the 5th, Padres Batting, Tied 1-1, Yankees' Luis Severino facing 6-7-8 
+t5;1-1;0;---;2,(1-0) BX;O;SDP;Nelson Cruz;Luis Severino;3%;53%;Groundout: P-1B (Front of Home)
+t5;1-1;1;---;4,(1-2) FFBX;O;SDP;Trent Grisham;Luis Severino;2%;55%;Flyball: LF (LF Line)
+t5;1-1;2;---;4,(3-0) BBBB;;SDP;Ha-Seong Kim;Luis Severino;-2%;54%;Walk
+t5;1-1;2;1--;1,(0-0) X;O;SDP;Brett Sullivan;Luis Severino;3%;57%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 1, Yankees 1.
+Bottom of the 5th, Yankees Batting, Tied 1-1, Padres' Michael Wacha facing 6-7-8 
+b5;1-1;0;---;2,(0-1) CX;O;NYY;Isiah Kiner-Falefa;Michael Wacha;-3%;54%;Groundout: SS-1B
+b5;1-1;1;---;3,(0-2) CSX;O;NYY;Oswaldo Cabrera;Michael Wacha;-2%;52%;Groundout: 2B-1B
+b5;1-1;2;---;5,(2-2) BFCBS;O;NYY;Kyle Higashioka;Michael Wacha;-2%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Yankees 1.
+Top of the 6th, Padres Batting, Tied 1-1, Yankees' Luis Severino facing 1-2-3 
+t6;1-1;0;---;1,(0-0) X;O;SDP;Rougned Odor;Luis Severino;3%;53%;Flyball: RF (Short RF)
+t6;1-1;1;---;5,(2-2) BFBSX;O;SDP;Fernando Tatis Jr.;Luis Severino;2%;56%;Groundout: 1B unassisted
+t6;1-1;2;---;2,(0-1) F.X;O;SDP;Juan Soto;Luis Severino;2%;58%;Flyball: LF (LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Yankees 1.
+Bottom of the 6th, Yankees Batting, Tied 1-1, Padres' Michael Wacha facing 9-1-2 
+b6;1-1;0;---;6,(1-2) FSBFFX;O;NYY;Anthony Volpe;Michael Wacha;-3%;54%;Groundout: 3B-1B (SS-3B Hole)
+b6;1-1;1;---;4,(1-2) FSBX;O;NYY;Gleyber Torres;Michael Wacha;-2%;52%;Groundout: 1B unassisted
+b6;1-1;2;---;1,(0-0) X;O;NYY;Aaron Judge;Michael Wacha;-2%;50%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Yankees 1.
+Top of the 7th, Padres Batting, Tied 1-1, Yankees' Luis Severino facing 4-5-6 
+t7;1-1;0;---;1,(0-0) X;O;SDP;Jake Cronenworth;Luis Severino;4%;54%;Flyball: RF (CF-RF)
+t7;1-1;1;---;2,(0-1) CX;O;SDP;Brandon Dixon;Luis Severino;3%;57%;Flyball: RF (RF Line)
+t7;1-1;2;---;7,(3-2) BCF.FBBB;;SDP;Nelson Cruz;Luis Severino;-2%;55%;Walk
+;;;;;;;;;José Azocar pinch runs for Nelson Cruz (DH) batting 6th
+t7;1-1;2;1--;2,(0-1) .CX;;SDP;Trent Grisham;Luis Severino;-3%;51%;Reached on E4 (Ground Ball to 2B-1B); Azocar to 2B; Grisham to 1B
+;;;;;;;;;Michael King replaces Luis Severino pitching
+t7;1-1;2;12-;1,(0-0) .X;R;SDP;Ha-Seong Kim;Michael King;-22%;30%;Single to LF (Ground Ball thru SS-3B Hole); Azocar Scores/unER; Grisham to 3B; Kim to 2B
+t7;2-1;2;-23;5,(2-2) CBBSC;O;SDP;Brett Sullivan;Michael King;6%;36%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 1 error, 2 LOB. Padres 2, Yankees 1.
+Bottom of the 7th, Yankees Batting, Behind 1-2, Padres' Michael Wacha facing 3-4-5 
+b7;1-2;0;---;4,(1-2) .CS.BX;O;NYY;Anthony Rizzo;Michael Wacha;-5%;31%;Groundout: 1B unassisted
+b7;1-2;1;---;3,(1-1) CBX;R;NYY;DJ LeMahieu;Michael Wacha;24%;55%;Home Run (Line Drive to Deep CF-RF)
+b7;2-2;1;---;4,(1-2) BSFX;O;NYY;Harrison Bader;Michael Wacha;-3%;52%;Flyball: LF (Deep LF-CF)
+b7;2-2;2;---;9,(2-2) CSBFFBFF.X;O;NYY;Isiah Kiner-Falefa;Michael Wacha;-2%;50%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Padres 2, Yankees 2.
+Top of the 8th, Padres Batting, Tied 2-2, Yankees' Michael King facing 1-2-3 
+t8;2-2;0;---;5,(2-2) BFBSX;O;SDP;Rougned Odor;Michael King;5%;55%;Groundout: 3B-1B
+t8;2-2;1;---;6,(2-2) BCFBFC;O;SDP;Fernando Tatis Jr.;Michael King;3%;58%;Strikeout Looking
+t8;2-2;2;---;5,(3-1) BBBF*B;;SDP;Juan Soto;Michael King;-3%;56%;Walk
+;;;;;;;;;Wandy Peralta replaces Michael King pitching
+t8;2-2;2;1--;1,(0-0) .X;;SDP;Jake Cronenworth;Wandy Peralta;-4%;52%;Single to LF (Fly Ball to Short LF); Soto to 2B
+t8;2-2;2;12-;8,(2-2) SBS+2FFBFX;O;SDP;Brandon Dixon;Wandy Peralta;9%;61%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Padres 2, Yankees 2.
+Bottom of the 8th, Yankees Batting, Tied 2-2, Padres' Nick Martinez facing 7-8-9 
+;;;;;;;;;Nick Martinez replaces Michael Wacha pitching
+b8;2-2;0;---;4,(1-2) .CBS.X;;NYY;Oswaldo Cabrera;Nick Martinez;6%;67%;Single to P (Ground Ball to Weak SS-2B)
+b8;2-2;0;1--;5,(2-2) L*B1B1FX;O;NYY;Kyle Higashioka;Nick Martinez;-6%;61%;Flyball: CF (Deep LF-CF)
+b8;2-2;1;1--;3,(1-1) BFX;OO;NYY;Anthony Volpe;Nick Martinez;-11%;50%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Padres 2, Yankees 2.
+Top of the 9th, Padres Batting, Tied 2-2, Yankees' Wandy Peralta facing 6-7-8 
+;;;;;;;;;Xander Bogaerts pinch hits for José Azocar (DH) batting 6th
+t9;2-2;0;---;5,(2-2) .CBCBX;O;SDP;Xander Bogaerts;Wandy Peralta;6%;56%;Groundout: SS-1B
+t9;2-2;1;---;7,(3-2) FBS.BBFB;;SDP;Trent Grisham;Wandy Peralta;-6%;50%;Walk
+t9;2-2;1;1--;3,(1-2) BCF1;O;SDP;Ha-Seong Kim;Wandy Peralta;10%;60%;Grisham Caught Stealing (PO) 2B (P-1B-2B-1B-SS)
+t9;2-2;2;---;4,(1-2) BCF1.X;O;SDP;Ha-Seong Kim;Wandy Peralta;3%;64%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 2, Yankees 2.
+Bottom of the 9th, Yankees Batting, Tied 2-2, Padres' Nick Martinez facing 1-2-3 
+b9;2-2;0;---;3,(0-2) .FFX;;NYY;Gleyber Torres;Nick Martinez;7%;71%;Single to LF (Line Drive)
+b9;2-2;0;1--;4,(2-1) *BBSX;OO;NYY;Aaron Judge;Nick Martinez;-18%;54%;Ground Ball Double Play: 3B-2B-1B
+b9;2-2;2;---;5,(1-2) CS.FB*S;O;NYY;Anthony Rizzo;Nick Martinez;-4%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Padres 2, Yankees 2.
+Top of the 10th, Padres Batting, Tied 2-2, Yankees' Clay Holmes facing 9-1-2 
+;;;;;;;;;Clay Holmes replaces Wandy Peralta pitchingAustin Nola pinch hits for Brett Sullivan (C) batting 9thHa-Seong Kim running at second base to start the extra inning
+t10;2-2;0;-2-;3,(1-1) ...BLX;O;SDP;Austin Nola;Clay Holmes;11%;61%;Flyball: RF (Short CF-RF)
+t10;2-2;1;-2-;3,(0-2) CSC;O;SDP;Rougned Odor;Clay Holmes;9%;70%;Strikeout Looking
+t10;2-2;2;-2-;2,(0-1) SX;O;SDP;Fernando Tatis Jr.;Clay Holmes;11%;81%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;Force Play Challenged by NYY manager (Aaron Boone): Original call overturned as shown.
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 2, Yankees 2.
+Bottom of the 10th, Yankees Batting, Tied 2-2, Padres' Nick Martinez facing 4-5-6 
+;;;;;;;;;Austin Nola moves from PH to C Greg Allen pinch runs for Anthony Rizzo (1B) batting 3rdGreg Allen running at second base to start the extra inning
+b10;2-2;0;-2-;,(3-0) ...VVVV;;NYY;DJ LeMahieu;Nick Martinez;0%;82%;Intentional Walk
+b10;2-2;0;12-;2,(1-0) BX;O;NYY;Harrison Bader;Nick Martinez;1%;82%;Bunt Groundout: 3B-SS/Forceout at 2B (Short 3B Line); Allen to 3B; Bader to 1B
+b10;2-2;1;1-3;1,(0-0) >*B;;NYY;Isiah Kiner-Falefa;Nick Martinez;2%;84%;Defensive Indifference; Bader to 2B
+b10;2-2;1;-23;3,(2-0) >*B.*BX;R;NYY;Isiah Kiner-Falefa;Nick Martinez;16%;100%;Single to 3B (Ground Ball); Allen Scores/unER; Bader to 3B
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Padres 2, Yankees 3.

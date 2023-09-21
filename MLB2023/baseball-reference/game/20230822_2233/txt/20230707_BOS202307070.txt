@@ -1,0 +1,253 @@
+
+Scorebox Meta
+20230707
+7:10 p.m. Local
+31157
+Fenway Park
+141
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/OAK-2023.png;/teams/OAK/2023.shtml;0;0;0;0;1;0;2;0;0;3;7;0
+https://cdn.ssref.net/req/202308101/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;0;5;0;0;0;0;2;0;X;7;10;1
+
+Batting home
+Jarren Duran;/players/d/duranja01.shtml;LF;4;2;2;1;0;1;4;.313;.361;.500;.861;17;10;0.062; 0.58;0.087;-0.025; 0.03%; 0.41; 1.1;0;0;3B
+Justin Turner;/players/t/turneju01.shtml;DH;4;0;2;1;0;1;4;.287;.359;.462;.820;15;8;0.032; 0.65;0.071;-0.039; 0.01%; 0.45; 0.4;;;
+Rafael Devers;/players/d/deverra01.shtml;3B;3;1;0;1;1;0;4;.253;.324;.494;.818;6;4;-0.018; 0.75;0.016;-0.033;-0.01%; 0.52; -0.2;0;0;SB,IW
+Adam Duvall;/players/d/duvalad01.shtml;CF;4;0;1;1;0;3;4;.252;.323;.495;.818;16;10;0.019; 0.53;0.053;-0.034; 0.01%; 0.37; 0.3;2;0;
+Alex Verdugo;/players/v/verdual01.shtml;RF;4;1;2;1;0;1;4;.287;.356;.448;.804;19;11;0.055; 0.46;0.066;-0.011; 0.02%; 0.32; 0.8;3;0;
+Enrique Hernández;/players/h/hernaen02.shtml;2B;4;1;1;0;0;1;4;.225;.283;.331;.614;12;9;0.073; 0.51;0.087;-0.015; 0.03%; 0.35; 0.1;3;3;
+Triston Casas;/players/c/casastr01.shtml;1B;3;1;1;0;1;0;4;.221;.329;.389;.718;12;6;0.068; 0.62;0.073;-0.005; 0.03%; 0.43; 0.8;7;0;
+Connor Wong;/players/w/wongco01.shtml;C;4;0;0;0;0;2;4;.234;.297;.408;.705;11;9;-0.075; 0.60;0.000;-0.075;-0.03%; 0.42; -1.5;11;0;
+Yu Chang;/players/c/changyu01.shtml;SS;4;1;1;2;0;3;4;.146;.180;.333;.513;18;12;0.101; 0.77;0.117;-0.016; 0.04%; 0.54; 0.8;0;2;
+Brennan Bernardino;/players/b/bernabr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Nick Pivetta;/players/p/pivetni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Joe Jacques;/players/j/jacqujo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+3B: Jarren Duran (2, off Luis Medina).
+
+
+IBB: Rafael Devers (4, by Luis Medina).
+
+
+TB: Jarren Duran 4; Justin Turner 2; Alex Verdugo 2; Yu Chang; Enrique Hernández; Triston Casas; Adam Duvall.
+
+
+RBI: Yu Chang 2 (10); Alex Verdugo (36); Jarren Duran (30); Rafael Devers (69); Adam Duvall (21); Justin Turner (51).
+
+
+2-out RBI: Alex Verdugo; Adam Duvall.
+
+
+Team LOB: 5.
+With RISP: 5 for 9.
+
+Batting away
+Tony Kemp;/players/k/kempto01.shtml;2B;4;0;1;0;0;1;4;.196;.283;.283;.567;17;13;0.006; 0.66;0.053;-0.047;0%; 0.00; 0.6;1;3;
+Jordan Diaz;/players/d/diazjo03.shtml;DH;4;0;1;0;0;1;4;.256;.287;.433;.721;13;8;-0.041; 0.70;0.025;-0.066;0%; 0.00; -0.5;;;
+Ryan Noda;/players/n/nodary01.shtml;1B;3;0;0;0;0;2;3;.227;.379;.402;.781;10;9;-0.043; 0.54;0.000;-0.043;0%; 0.00; -0.6;4;1;
+Aledmys Díaz;/players/d/diazal02.shtml;PH-1B;1;0;0;0;0;0;1;.203;.256;.282;.538;2;1;-0.048; 1.03;0.000;-0.048;0%; 0.00; -0.8;1;0;GDP
+Brent Rooker;/players/r/rookebr01.shtml;LF;4;0;0;0;0;3;4;.237;.331;.458;.790;15;11;-0.049; 0.47;0.000;-0.049;0%; 0.00; -0.7;1;0;
+JJ Bleday;/players/b/bledajj01.shtml;CF;4;0;1;0;0;2;4;.205;.312;.370;.682;16;14;0.020; 0.38;0.042;-0.022;0%; 0.00; -0.1;1;0;2B
+Jace Peterson;/players/p/peterja01.shtml;3B;3;0;0;0;0;2;3;.203;.293;.305;.598;13;10;-0.062; 0.80;0.000;-0.062;0%; 0.00; -0.8;1;1;
+Nick Allen;/players/a/allenni02.shtml;PH;1;0;1;0;0;0;1;.202;.250;.239;.489;5;2;0.010; 0.24;0.010;0.000;0%; 0.00; 0.3;;;
+Shea Langeliers;/players/l/langesh01.shtml;C;3;1;1;0;1;0;4;.208;.271;.371;.642;18;8;0.013; 0.63;0.038;-0.025;0%; 0.00; -0.2;11;1;2B,GDP
+Seth Brown;/players/b/brownse01.shtml;RF;2;2;1;2;1;0;3;.201;.268;.390;.657;11;6;0.040; 0.95;0.092;-0.052;0%; 0.00; 1.2;0;0;HR
+Tyler Wade;/players/w/wadety01.shtml;SS;3;0;1;0;0;0;3;.271;.314;.333;.647;9;8;-0.028; 0.63;0.011;-0.039;0%; 0.00; -0.2;3;1;
+Sam Long;/players/l/longsa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Luis Medina;/players/m/medinlu02.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Angel Felipe;/players/f/felipan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: JJ Bleday (9, off Brennan Bernardino); Shea Langeliers (11, off Nick Pivetta).
+
+
+HR: Seth Brown (8, off Nick Pivetta, 7th inn, 1 on, 1 out to Deep CF-RF).
+
+
+TB: Seth Brown 4; Shea Langeliers 2; JJ Bleday 2; Nick Allen; Tyler Wade; Jordan Diaz; Tony Kemp.
+
+
+GIDP: Shea Langeliers (8); Aledmys Díaz (10).
+
+
+RBI: Seth Brown 2 (24).
+
+
+Team LOB: 4.
+With RISP: 2 for 5.
+
+Pitching home
+Brennan Bernardino;/players/b/bernabr01.shtml;Brennan Bernardino; 2 ;1;0;0;1;3;0;2.51;8;31;18;7;6;5;2;2;2;0;56;;;0.103; 0.99; 0.04%; 0.69; 1.1
+Nick Pivetta;/players/p/pivetni01.shtml; W (5-5); 5 ;4;3;2;1;8;1;4.83;20;76;60;33;13;14;4;7;2;0;;0;0;0.035; 0.53; 0.01%; 0.37; -0.2
+Joe Jacques;/players/j/jacqujo01.shtml;Joe Jacques; 2 ;2;0;0;0;0;0;5.06;6;22;12;7;2;3;3;3;3;0;;0;0;0.043; 0.47; 0.02%; 0.33; 1.1
+
+Pitching away
+Sam Long;/players/l/longsa01.shtml; L (0-1); 1 ;3;3;3;1;2;0;4.36;7;31;21;9;6;6;3;1;1;0;36;;;-0.110; 1.04; 0.00%; 0.00; -1.3
+Luis Medina;/players/m/medinlu02.shtml;Luis Medina; 6 ;7;4;4;1;9;0;6.34;26;84;50;26;15;9;8;8;5;0;;3;3;-0.212; 0.56; 0.00%; 0.00; -1.8
+Angel Felipe;/players/f/felipan01.shtml;Angel Felipe; 1 ;0;0;0;0;1;0;0.00;3;11;8;4;2;2;1;1;0;0;;0;0;0.004; 0.05; 0.00%; 0.00; 0.6
+
+indiv_events
+
+Balks: None.
+WP: Luis Medina (6).
+HBP: None.
+IBB: Luis Medina (1; Rafael Devers).
+Pickoffs: None.
+
+Balks: None.
+WP: Luis Medina (6).
+HBP: None.
+IBB: Luis Medina (1; Rafael Devers).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Adrian Johnson, 1B - Phil Cuzzi, 2B - Emil Jimenez, 3B - Manny Gonzalez, LF - (none), RF - (none).
+Time of Game: 2:21.
+Attendance: 31,157.
+Field Condition: Unknown.
+Start Time Weather: 82° F, Wind 9mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Athletics
+1;Tony Kemp;/players/k/kempto01.shtml;2B
+2;Jordan Diaz;/players/d/diazjo03.shtml;DH
+3;Ryan Noda;/players/n/nodary01.shtml;1B
+4;Brent Rooker;/players/r/rookebr01.shtml;LF
+5;JJ Bleday;/players/b/bledajj01.shtml;CF
+6;Jace Peterson;/players/p/peterja01.shtml;3B
+7;Shea Langeliers;/players/l/langesh01.shtml;C
+8;Seth Brown;/players/b/brownse01.shtml;RF
+9;Tyler Wade;/players/w/wadety01.shtml;SS
+; Sam Long;/players/l/longsa01.shtml;P
+Red Sox
+1;Jarren Duran;/players/d/duranja01.shtml;LF
+2;Justin Turner;/players/t/turneju01.shtml;DH
+3;Rafael Devers;/players/d/deverra01.shtml;3B
+4;Adam Duvall;/players/d/duvalad01.shtml;CF
+5;Alex Verdugo;/players/v/verdual01.shtml;RF
+6;Enrique Hernández;/players/h/hernaen02.shtml;2B
+7;Triston Casas;/players/c/casastr01.shtml;1B
+8;Connor Wong;/players/w/wongco01.shtml;C
+9;Yu Chang;/players/c/changyu01.shtml;SS
+; Brennan Bernardino;/players/b/bernabr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b2;0-0;1;123;1,(0-0) X;RR;BOS;Yu Chang;Luis Medina;12%;77%;Single to CF (Ground Ball thru SS-2B); Verdugo Scores; Hernández Scores; Casas to 2B
+b2;0-0;0;1--;3,(0-2) C*SX;;BOS;Enrique Hernández;Sam Long;9%;68%;Single to CF (Ground Ball thru SS-2B); Verdugo to 3B
+t7;1-5;1;-2-;1,(0-0) X;RR;OAK;Seth Brown;Nick Pivetta;-9%;84%;Home Run (Fly Ball to Deep CF-RF); Langeliers Scores
+b2;0-0;0;123;5,(2-2) .BBFC*S;O;BOS;Connor Wong;Luis Medina;-6%;65%;Strikeout Swinging
+t5;0-5;2;12-;4,(0-2) CFFX;R;OAK;Tony Kemp;Nick Pivetta;-5%;88%;Single to 3B (Ground Ball to Weak 3B); Brown Scores/Adv on E5 (throw)/No RBI/unER; Wade to 3B; Kemp to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Athletics Batting, Tied 0-0, Red Sox' Brennan Bernardino facing 1-2-3 
+t1;0-0;0;---;3,(1-1) BCX;O;OAK;Tony Kemp;Brennan Bernardino;2%;52%;Lineout: CF
+t1;0-0;1;---;4,(1-2) SS.BS;O;OAK;Jordan Diaz;Brennan Bernardino;2%;54%;Strikeout Swinging
+t1;0-0;2;---;4,(1-2) BFF.C;O;OAK;Ryan Noda;Brennan Bernardino;1%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Tied 0-0, Athletics' Sam Long facing 1-2-3 
+b1;0-0;0;---;6,(3-2) BBBCFS;O;BOS;Jarren Duran;Sam Long;-2%;53%;Strikeout Swinging
+b1;0-0;1;---;4,(1-2) CFBX;;BOS;Justin Turner;Sam Long;2%;55%;Single to CF (Line Drive)
+b1;0-0;1;1--;2,(0-1) *SX;O;BOS;Rafael Devers;Sam Long;-3%;52%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Devers to 1B
+b1;0-0;2;1--;4,(1-2) F*B*S*S;O;BOS;Adam Duvall;Sam Long;-2%;50%;Strikeout Swinging; Duvall out at 1B/C-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 0, Red Sox 0.
+Top of the 2nd, Athletics Batting, Tied 0-0, Red Sox' Brennan Bernardino facing 4-5-6 
+t2;0-0;0;---;5,(2-2) FBBCS;O;OAK;Brent Rooker;Brennan Bernardino;2%;52%;Strikeout Swinging
+t2;0-0;1;---;3,(1-1) BCX;;OAK;JJ Bleday;Brennan Bernardino;-4%;48%;Ground-rule Double (Line Drive to Deep CF-RF)
+t2;0-0;1;-2-;5,(2-2) CBBSX;O;OAK;Jace Peterson;Brennan Bernardino;3%;51%;Groundout: SS-1B; Bleday to 3B
+t2;0-0;2;--3;4,(3-0) BBBB;;OAK;Shea Langeliers;Brennan Bernardino;-1%;50%;Walk
+t2;0-0;2;1-3;3,(1-1) BSX;O;OAK;Seth Brown;Brennan Bernardino;5%;55%;Groundout: P unassisted (Weak 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Athletics 0, Red Sox 0.
+Bottom of the 2nd, Red Sox Batting, Tied 0-0, Athletics' Sam Long facing 5-6-7 
+b2;0-0;0;---;5,(1-2) CCBFX;;BOS;Alex Verdugo;Sam Long;4%;59%;Single to CF (Ground Ball)
+b2;0-0;0;1--;3,(0-2) C*SX;;BOS;Enrique Hernández;Sam Long;9%;68%;Single to CF (Ground Ball thru SS-2B); Verdugo to 3B
+b2;0-0;0;1-3;7,(3-2) CS.BB*BFB;;BOS;Triston Casas;Sam Long;4%;71%;Walk; Hernández to 2B
+;;;;;;;;;Luis Medina replaces Sam Long pitching
+b2;0-0;0;123;5,(2-2) .BBFC*S;O;BOS;Connor Wong;Luis Medina;-6%;65%;Strikeout Swinging
+b2;0-0;1;123;1,(0-0) X;RR;BOS;Yu Chang;Luis Medina;12%;77%;Single to CF (Ground Ball thru SS-2B); Verdugo Scores; Hernández Scores; Casas to 2B
+b2;2-0;1;12-;1,(0-0) B;;BOS;Jarren Duran;Luis Medina;3%;80%;Wild Pitch; Casas to 3B; Chang to 2B
+b2;2-0;1;-23;2,(1-0) B.X;R;BOS;Jarren Duran;Luis Medina;5%;85%;Single to 2B (Ground Ball); Casas Scores; Chang to 3B
+b2;3-0;1;1-3;4,(3-0) BBBX;R;BOS;Justin Turner;Luis Medina;5%;90%;Single to RF (Line Drive); Chang Scores; Duran to 3B
+b2;4-0;1;1-3;2,(1-0) BX;RO;BOS;Rafael Devers;Luis Medina;1%;90%;Groundout: SS unassisted/Forceout at 2B; Duran Scores; Devers to 1B
+b2;5-0;2;1--;4,(1-2) .BSS*S;O;BOS;Adam Duvall;Luis Medina;-1%;90%;Strikeout Swinging
+;;;;;;;;;5 runs, 5 hits, 0 errors, 1 LOB. Athletics 0, Red Sox 5.
+Top of the 3rd, Athletics Batting, Behind 0-5, Red Sox' Nick Pivetta facing 9-1-2 
+;;;;;;;;;Nick Pivetta replaces Brennan Bernardino pitching
+t3;0-5;0;---;5,(1-2) .CCBFX;O;OAK;Tyler Wade;Nick Pivetta;1%;91%;Lineout: CF (Deep CF-RF)
+t3;0-5;1;---;5,(2-2) BBCS.C;O;OAK;Tony Kemp;Nick Pivetta;1%;92%;Strikeout Looking
+t3;0-5;2;---;2,(1-0) BX;O;OAK;Jordan Diaz;Nick Pivetta;1%;93%;Lineout: 2B (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Red Sox 5.
+Bottom of the 3rd, Red Sox Batting, Ahead 5-0, Athletics' Luis Medina facing 5-6-7 
+b3;5-0;0;---;6,(2-2) CBBC.FS;O;BOS;Alex Verdugo;Luis Medina;-1%;92%;Strikeout Swinging
+b3;5-0;1;---;2,(0-1) CX;O;BOS;Enrique Hernández;Luis Medina;0%;92%;Groundout: SS-1B
+b3;5-0;2;---;2,(1-0) BX;O;BOS;Triston Casas;Luis Medina;0%;91%;Lineout: SS (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Red Sox 5.
+Top of the 4th, Athletics Batting, Behind 0-5, Red Sox' Nick Pivetta facing 3-4-5 
+t4;0-5;0;---;2,(0-1) CX;O;OAK;Ryan Noda;Nick Pivetta;1%;93%;Groundout: 2B-1B (Weak 2B-1B)
+t4;0-5;1;---;5,(2-2) CBBTT;O;OAK;Brent Rooker;Nick Pivetta;1%;94%;Strikeout Swinging
+t4;0-5;2;---;4,(0-2) CSF*S;O;OAK;JJ Bleday;Nick Pivetta;1%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Red Sox 5.
+Bottom of the 4th, Red Sox Batting, Ahead 5-0, Athletics' Luis Medina facing 8-9-1 
+b4;5-0;0;---;1,(0-0) X;O;BOS;Connor Wong;Luis Medina;-1%;94%;Groundout: 3B-1B (Weak 3B)
+b4;5-0;1;---;5,(2-2) CBSBT;O;BOS;Yu Chang;Luis Medina;0%;93%;Strikeout Swinging
+b4;5-0;2;---;8,(3-2) FF.BFBFBX;O;BOS;Jarren Duran;Luis Medina;0%;93%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Red Sox 5.
+Top of the 5th, Athletics Batting, Behind 0-5, Red Sox' Nick Pivetta facing 6-7-8 
+t5;0-5;0;---;4,(1-2) BCSC;O;OAK;Jace Peterson;Nick Pivetta;1%;94%;Strikeout Looking
+t5;0-5;1;---;5,(2-2) BSS.BX;O;OAK;Shea Langeliers;Nick Pivetta;1%;95%;Popfly: 1B (2B-1B)
+t5;0-5;2;---;7,(3-2) BBBCFF.B;;OAK;Seth Brown;Nick Pivetta;-1%;95%;Walk
+t5;0-5;2;1--;2,(0-1) CX;;OAK;Tyler Wade;Nick Pivetta;-1%;93%;Single to CF (Ground Ball thru SS-2B); Brown to 2B
+t5;0-5;2;12-;4,(0-2) CFFX;R;OAK;Tony Kemp;Nick Pivetta;-5%;88%;Single to 3B (Ground Ball to Weak 3B); Brown Scores/Adv on E5 (throw)/No RBI/unER; Wade to 3B; Kemp to 2B
+t5;1-5;2;-23;2,(0-1) FX;O;OAK;Jordan Diaz;Nick Pivetta;4%;93%;Flyball: RF (CF-RF)
+;;;;;;;;;1 run, 2 hits, 1 error, 2 LOB. Athletics 1, Red Sox 5.
+Bottom of the 5th, Red Sox Batting, Ahead 5-1, Athletics' Luis Medina facing 2-3-4 
+b5;5-1;0;---;2,(1-0) BX;O;BOS;Justin Turner;Luis Medina;-1%;92%;Popfly: 2B (Deep SS-2B)
+b5;5-1;1;---;2,(1-0) BX;O;BOS;Rafael Devers;Luis Medina;-1%;91%;Foul Popfly: 3B (Behind Home)
+b5;5-1;2;---;6,(3-2) BCBFB.S;O;BOS;Adam Duvall;Luis Medina;0%;91%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 1, Red Sox 5.
+Top of the 6th, Athletics Batting, Behind 1-5, Red Sox' Nick Pivetta facing 3-4-5 
+t6;1-5;0;---;4,(0-2) FF.FS;O;OAK;Ryan Noda;Nick Pivetta;2%;93%;Strikeout Swinging
+t6;1-5;1;---;4,(0-2) SFF*S;O;OAK;Brent Rooker;Nick Pivetta;1%;94%;Strikeout Swinging
+t6;1-5;2;---;6,(1-2) FBCFFS;O;OAK;JJ Bleday;Nick Pivetta;1%;95%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 1, Red Sox 5.
+Bottom of the 6th, Red Sox Batting, Ahead 5-1, Athletics' Luis Medina facing 5-6-7 
+b6;5-1;0;---;3,(2-0) BBX;O;BOS;Alex Verdugo;Luis Medina;-1%;94%;Flyball: LF (Deep LF-CF)
+b6;5-1;1;---;1,(0-0) X;O;BOS;Enrique Hernández;Luis Medina;0%;94%;Groundout: 1B-P (2B-1B)
+b6;5-1;2;---;2,(1-0) BX;;BOS;Triston Casas;Luis Medina;0%;94%;Single to CF (Line Drive to Deep CF-RF)
+b6;5-1;2;1--;3,(0-2) FSS;O;BOS;Connor Wong;Luis Medina;-1%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 1, Red Sox 5.
+Top of the 7th, Athletics Batting, Behind 1-5, Red Sox' Nick Pivetta facing 6-7-8 
+t7;1-5;0;---;4,(0-2) SS.FS;O;OAK;Jace Peterson;Nick Pivetta;2%;95%;Strikeout Swinging
+t7;1-5;1;---;3,(1-1) CBX;;OAK;Shea Langeliers;Nick Pivetta;-2%;93%;Double to LF (Fly Ball to LF Line)
+t7;1-5;1;-2-;1,(0-0) X;RR;OAK;Seth Brown;Nick Pivetta;-9%;84%;Home Run (Fly Ball to Deep CF-RF); Langeliers Scores
+t7;3-5;1;---;2,(0-1) FX;O;OAK;Tyler Wade;Nick Pivetta;2%;87%;Bunt Groundout: P-1B (Short 1B Line)
+t7;3-5;2;---;5,(1-2) .FBFFX;O;OAK;Tony Kemp;Nick Pivetta;1%;88%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Athletics 3, Red Sox 5.
+Bottom of the 7th, Red Sox Batting, Ahead 5-3, Athletics' Luis Medina facing 9-1-2 
+b7;5-3;0;---;4,(1-2) BSSS;O;BOS;Yu Chang;Luis Medina;-1%;87%;Strikeout Swinging
+b7;5-3;1;---;1,(0-0) X;;BOS;Jarren Duran;Luis Medina;4%;91%;Triple to RF (Line Drive to Deep RF Line)
+b7;5-3;1;--3;5,(2-2) *BCBCS;O;BOS;Justin Turner;Luis Medina;-3%;88%;Strikeout Swinging
+b7;5-3;2;--3;,(3-0) VVVV;;BOS;Rafael Devers;Luis Medina;0%;88%;Intentional Walk
+b7;5-3;2;1-3;1,(0-0) >B;;BOS;Adam Duvall;Luis Medina;0%;88%;Devers Steals 2B
+b7;5-3;2;-23;2,(1-0) >B.X;R;BOS;Adam Duvall;Luis Medina;5%;94%;Single to SS (Ground Ball); Duran Scores; Devers to 3B
+b7;6-3;2;1-3;5,(3-1) B1B*BCX;R;BOS;Alex Verdugo;Luis Medina;3%;97%;Single to LF (Line Drive to LF-CF); Devers Scores; Duvall to 2B
+b7;7-3;2;12-;6,(3-2) BFBBS>S;O;BOS;Enrique Hernández;Luis Medina;-1%;96%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Athletics 3, Red Sox 7.
+Top of the 8th, Athletics Batting, Behind 3-7, Red Sox' Joe Jacques facing 2-3-4 
+;;;;;;;;;Joe Jacques replaces Nick Pivetta pitching
+t8;3-7;0;---;5,(3-1) .BBF.BX;;OAK;Jordan Diaz;Joe Jacques;-3%;93%;Single to LF (Line Drive to LF-CF)
+;;;;;;;;;Aledmys Díaz pinch hits for Ryan Noda (1B) batting 3rd
+t8;3-7;0;1--;2,(1-0) .BX;OO;OAK;Aledmys Díaz;Joe Jacques;5%;98%;Ground Ball Double Play: 2B-1B
+t8;3-7;2;---;1,(0-0) X;O;OAK;Brent Rooker;Joe Jacques;0%;99%;Lineout: RF (Deep RF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Athletics 3, Red Sox 7.
+Bottom of the 8th, Red Sox Batting, Ahead 7-3, Athletics' Angel Felipe facing 7-8-9 
+;;;;;;;;;Angel Felipe replaces Luis Medina pitchingAledmys Díaz moves from PH to 1B 
+b8;7-3;0;---;1,(0-0) ..X;O;BOS;Triston Casas;Angel Felipe;0%;99%;Groundout: 2B-1B (2B-1B)
+b8;7-3;1;---;2,(0-1) CX;O;BOS;Connor Wong;Angel Felipe;0%;98%;Flyball: CF (Deep CF)
+b8;7-3;2;---;8,(3-2) CBBSFFBS;O;BOS;Yu Chang;Angel Felipe;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 3, Red Sox 7.
+Top of the 9th, Athletics Batting, Behind 3-7, Red Sox' Joe Jacques facing 5-6-7 
+t9;3-7;0;---;3,(0-2) CS.X;O;OAK;JJ Bleday;Joe Jacques;1%;99%;Groundout: 1B unassisted (Weak 1B)
+;;;;;;;;;Nick Allen pinch hits for Jace Peterson (3B) batting 6th
+t9;3-7;1;---;5,(3-1) .BBCBX;;OAK;Nick Allen;Joe Jacques;-1%;98%;Single to RF (Line Drive to Deep CF-RF)
+t9;3-7;1;1--;6,(3-2) C*BBS.BX;OO;OAK;Shea Langeliers;Joe Jacques;2%;100%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Athletics 3, Red Sox 7.

@@ -1,0 +1,262 @@
+
+Scorebox Meta
+20230602
+7:10 p.m. Local
+52534
+Dodger Stadium
+146
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;1;0;1;0;0;0;0;2;4;5;1
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;6;0;1;0;0;1;0;0;X;8;13;0
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;RF;4;2;4;3;1;0;5;.266;.371;.551;.922;19;13;0.152; 0.30;0.152;0.000; 0.11%; 0.37; 3.6;0;0;2·HR,SB
+Freddie Freeman;/players/f/freemfr01.shtml;1B;5;0;0;0;0;0;5;.339;.412;.575;.987;26;12;-0.034; 0.26;0.000;-0.034;-0.03%; 0.32; -1.3;7;1;
+Will Smith;/players/s/smithwi05.shtml;C;4;1;2;0;0;0;4;.317;.419;.540;.958;19;11;0.008; 0.27;0.022;-0.014; 0.01%; 0.33; -0.2;11;0;
+Max Muncy;/players/m/muncyma01.shtml;3B;4;1;1;2;0;1;4;.210;.336;.530;.867;20;12;0.132; 0.34;0.141;-0.009; 0.10%; 0.41; 1.1;0;4;HR
+J.D. Martinez;/players/m/martijd02.shtml;DH;4;2;2;1;0;1;4;.283;.324;.627;.951;18;14;0.037; 0.19;0.041;-0.004; 0.03%; 0.23; 0.8;;;HR
+Jason Heyward;/players/h/heywaja01.shtml;LF;4;1;2;0;0;0;4;.238;.352;.486;.838;16;11;0.019; 0.22;0.023;-0.004; 0.01%; 0.27; 0.2;1;0;2B
+Miguel Vargas;/players/v/vargami01.shtml;2B;3;1;1;0;1;1;4;.220;.324;.401;.725;16;9;0.029; 0.35;0.032;-0.003; 0.02%; 0.42; 0.5;3;1;
+James Outman;/players/o/outmaja01.shtml;CF;4;0;1;1;0;1;4;.235;.322;.464;.786;14;9;0.024; 0.41;0.044;-0.021; 0.02%; 0.50; -0.4;4;0;
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;3;0;0;1;0;0;4;.217;.252;.261;.513;10;8;-0.005; 0.32;0.003;-0.008;-0.00%; 0.39; -0.9;0;1;SF
+Clayton Kershaw;/players/k/kershcl01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Yency Almonte;/players/a/almonye01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Phil Bickford;/players/b/bickfph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jason Heyward (8, off Tommy Kahnle).
+
+
+HR: Mookie Betts 2 (15, 1 off Ryan Weber, 6th inn, 0 on, 1 out to Deep LF Line, 1 off Luis Severino, 1st inn, 0 on, 0 outs to Deep LF); Max Muncy (18, off Luis Severino, 1st inn, 1 on, 1 out to Deep LF); J.D. Martinez (13, off Luis Severino, 3rd inn, 0 on, 0 outs to Deep CF).
+
+
+SF: Miguel Rojas (2, off Luis Severino).
+
+
+TB: Mookie Betts 10; J.D. Martinez 5; Max Muncy 4; Jason Heyward 3; Will Smith 2; James Outman; Miguel Vargas.
+
+
+RBI: Mookie Betts 3 (36); Max Muncy 2 (42); James Outman (30); J.D. Martinez (40); Miguel Rojas (5).
+
+
+2-out RBI: Mookie Betts.
+
+
+Team LOB: 6.
+With RISP: 3 for 5.
+
+Batting away
+Gleyber Torres;/players/t/torregl01.shtml;2B;4;0;1;0;0;1;4;.267;.341;.438;.779;11;8;0.002; 0.52;0.035;-0.032; 0.00%; 0.54; -0.5;2;1;
+Aaron Judge;/players/j/judgeaa01.shtml;RF;4;0;0;0;0;2;4;.291;.402;.663;1.065;15;9;-0.098; 0.58;0.000;-0.098;-0.06%; 0.59; -1.6;1;0;GDP
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;4;0;0;0;0;2;4;.298;.369;.495;.864;16;11;-0.026; 0.25;0.000;-0.026;-0.02%; 0.26; -0.7;6;0;
+Giancarlo Stanton;/players/s/stantmi03.shtml;DH;3;2;1;1;1;0;4;.273;.310;.600;.910;19;12;0.011; 0.19;0.026;-0.015; 0.01%; 0.20; 0.9;;;HR
+Josh Donaldson;/players/d/donaljo02.shtml;3B;4;2;2;3;0;1;4;.200;.238;.650;.888;11;8;0.026; 0.18;0.038;-0.011; 0.02%; 0.19; 2.4;2;1;2·HR
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;LF-CF;4;0;0;0;0;3;4;.227;.270;.353;.623;22;15;-0.031; 0.30;0.000;-0.031;-0.02%; 0.31; -0.8;3;0;
+Anthony Volpe;/players/v/volpean01.shtml;SS;4;0;0;0;0;1;4;.190;.268;.351;.619;13;10;-0.017; 0.16;0.000;-0.017;-0.01%; 0.17; -0.5;1;2;
+Jose Trevino;/players/t/trevijo01.shtml;C;2;0;1;0;0;0;2;.216;.266;.324;.590;8;5;-0.008; 0.35;0.006;-0.014;-0.01%; 0.36; -0.1;4;1;
+Jake Bauers;/players/b/bauerja01.shtml;PH-LF;0;0;0;0;1;0;1;.214;.333;.429;.762;5;1;0.007; 0.23;0.007;0.000; 0.01%; 0.24; 0.4;0;0;
+Greg Allen;/players/a/allengr01.shtml;CF;1;0;0;0;1;1;2;.214;.313;.571;.884;13;7;0.002; 0.36;0.011;-0.009; 0.00%; 0.37; 0.0;5;0;
+Willie Calhoun;/players/c/calhowi01.shtml;PH;1;0;0;0;0;0;1;.245;.314;.387;.700;3;1;-0.007; 0.32;0.000;-0.007;-0.01%; 0.33; -0.4;;;
+Kyle Higashioka;/players/h/higasky01.shtml;C;0;0;0;0;0;0;0;.218;.269;.379;.648;;;;;;;;;;0;0;
+Luis Severino;/players/s/severlu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Tommy Kahnle;/players/k/kahnlto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Weber;/players/w/weberry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Albert Abreu;/players/a/abreual01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Josh Donaldson 2 (3, 1 off Phil Bickford, 9th inn, 1 on, 1 out to Deep LF-CF, 1 off Clayton Kershaw, 2nd inn, 0 on, 1 out to Deep LF-CF); Giancarlo Stanton (5, off Clayton Kershaw, 4th inn, 0 on, 2 outs to Deep LF-CF).
+
+
+TB: Josh Donaldson 8; Giancarlo Stanton 4; Jose Trevino; Gleyber Torres.
+
+
+GIDP: Aaron Judge (3).
+
+
+RBI: Josh Donaldson 3 (4); Giancarlo Stanton (12).
+
+
+2-out RBI: Giancarlo Stanton.
+
+
+Team LOB: 3.
+With RISP: 0 for 1.
+
+Pitching home
+Clayton Kershaw;/players/k/kershcl01.shtml; W (7-4); 7 ;4;2;2;1;9;2;3.25;25;96;65;37;13;15;7;8;3;0;69;;;0.129; 0.38; 0.10%; 0.46; 1.8
+Yency Almonte;/players/a/almonye01.shtml;Yency Almonte; 1 ;0;0;0;1;0;0;6.75;4;14;6;3;1;2;0;3;1;0;;0;0;0.007; 0.20; 0.01%; 0.25; 0.5
+Phil Bickford;/players/b/bickfph01.shtml;Phil Bickford; 1 ;1;2;2;1;2;1;7.33;5;26;16;9;7;0;1;1;0;0;;0;0;0.003; 0.08; 0.00%; 0.09; -1.5
+
+Pitching away
+Luis Severino;/players/s/severlu01.shtml; L (0-1); 4 ;9;7;7;1;2;3;5.28;21;83;55;33;7;15;8;10;5;0;17;;;-0.363; 0.46;-0.22%; 0.48; -4.8
+Tommy Kahnle;/players/k/kahnlto01.shtml;Tommy Kahnle; 1 ;1;0;0;1;1;0;0.00;5;29;17;7;5;5;0;3;2;0;;0;0;0.009; 0.16; 0.01%; 0.17; 0.5
+Ryan Weber;/players/w/weberry01.shtml;Ryan Weber; 2 ;2;1;1;0;1;1;3.14;8;29;20;14;1;5;3;4;0;0;;0;0;-0.008; 0.05;-0.01%; 0.05; 0.1
+Albert Abreu;/players/a/abreual01.shtml;Albert Abreu; 1 ;1;0;0;0;0;0;3.45;4;17;10;6;1;3;0;4;3;0;;0;0;0.001; 0.01; 0.00%; 0.01; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Hunter Wendelstedt, 1B - John Tumpane, 2B - Ryan Blakney, 3B - Marvin Hudson, LF - (none), RF - (none).
+Time of Game: 2:26.
+Attendance: 52,534.
+Field Condition: Unknown.
+Start Time Weather: 67° F, Wind 9mph out to Rightfield, Sunny, No Precipitation.
+
+div_lineups
+Yankees
+1;Gleyber Torres;/players/t/torregl01.shtml;2B
+2;Aaron Judge;/players/j/judgeaa01.shtml;RF
+3;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+4;Giancarlo Stanton;/players/s/stantmi03.shtml;DH
+5;Josh Donaldson;/players/d/donaljo02.shtml;3B
+6;Isiah Kiner-Falefa;/players/k/kineris01.shtml;LF
+7;Anthony Volpe;/players/v/volpean01.shtml;SS
+8;Jose Trevino;/players/t/trevijo01.shtml;C
+9;Greg Allen;/players/a/allengr01.shtml;CF
+; Luis Severino;/players/s/severlu01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;RF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;C
+4;Max Muncy;/players/m/muncyma01.shtml;3B
+5;J.D. Martinez;/players/m/martijd02.shtml;DH
+6;Jason Heyward;/players/h/heywaja01.shtml;LF
+7;Miguel Vargas;/players/v/vargami01.shtml;2B
+8;James Outman;/players/o/outmaja01.shtml;CF
+9;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+; Clayton Kershaw;/players/k/kershcl01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;1-0;1;1--;5,(2-2) BSBCX;RR;LAD;Max Muncy;Luis Severino;14%;79%;Home Run (Fly Ball to Deep LF); Smith Scores
+b1;0-0;0;---;2,(0-1) CX;R;LAD;Mookie Betts;Luis Severino;9%;64%;Home Run (Line Drive to Deep LF)
+t1;0-0;0;1--;1,(0-0) X;OO;NYY;Aaron Judge;Clayton Kershaw;7%;54%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b1;3-0;1;123;2,(0-1) SX;R;LAD;James Outman;Luis Severino;4%;89%;Single to CF (Line Drive to Deep CF); Martinez Scores; Heyward to 3B; Vargas to 2B
+t1;0-0;0;---;1,(0-0) X;;NYY;Gleyber Torres;Clayton Kershaw;-3%;47%;Single to CF (Line Drive to Deep CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Yankees Batting, Tied 0-0, Dodgers' Clayton Kershaw facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;;NYY;Gleyber Torres;Clayton Kershaw;-3%;47%;Single to CF (Line Drive to Deep CF)
+t1;0-0;0;1--;1,(0-0) X;OO;NYY;Aaron Judge;Clayton Kershaw;7%;54%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+t1;0-0;2;---;3,(0-2) SS.C;O;NYY;Anthony Rizzo;Clayton Kershaw;1%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Yankees 0, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Tied 0-0, Yankees' Luis Severino facing 1-2-3 
+b1;0-0;0;---;2,(0-1) CX;R;LAD;Mookie Betts;Luis Severino;9%;64%;Home Run (Line Drive to Deep LF)
+b1;1-0;0;---;5,(3-1) BCBBX;O;LAD;Freddie Freeman;Luis Severino;-2%;62%;Groundout: 2B-1B (Deep 2B)
+b1;1-0;1;---;1,(0-0) X;;LAD;Will Smith;Luis Severino;2%;64%;Single to SS (Ground Ball to SS-3B Hole)
+;;;;;;;;;Force Play Challenged by LAD manager (Dave Roberts): Original call overturned as shown.
+b1;1-0;1;1--;5,(2-2) BSBCX;RR;LAD;Max Muncy;Luis Severino;14%;79%;Home Run (Fly Ball to Deep LF); Smith Scores
+b1;3-0;1;---;4,(1-2) CCBX;;LAD;J.D. Martinez;Luis Severino;1%;80%;Single to 3B (Ground Ball to Weak 3B)
+b1;3-0;1;1--;3,(1-1) CBX;;LAD;Jason Heyward;Luis Severino;2%;82%;Single to CF (Ground Ball); Martinez to 2B
+b1;3-0;1;12-;2,(0-1) SX;;LAD;Miguel Vargas;Luis Severino;3%;85%;Single to LF (Ground Ball thru SS-3B Hole); Martinez to 3B; Heyward to 2B
+b1;3-0;1;123;2,(0-1) SX;R;LAD;James Outman;Luis Severino;4%;89%;Single to CF (Line Drive to Deep CF); Martinez Scores; Heyward to 3B; Vargas to 2B
+b1;4-0;1;123;1,(0-0) X;RO;LAD;Miguel Rojas;Luis Severino;0%;90%;Flyball: CF/Sacrifice Fly (Deep LF-CF); Heyward Scores
+b1;5-0;2;12-;3,(0-2) CCX;R;LAD;Mookie Betts;Luis Severino;3%;93%;Single to LF (Ground Ball thru SS-3B Hole); Vargas Scores; Outman to 3B
+b1;6-0;2;1-3;6,(3-2) BBF>F>FB+3;O;LAD;Freddie Freeman;Luis Severino;-1%;92%;Outman Picked off 3B (C-3B)
+;;;;;;;;;6 runs, 8 hits, 0 errors, 1 LOB. Yankees 0, Dodgers 6.
+Top of the 2nd, Yankees Batting, Behind 0-6, Dodgers' Clayton Kershaw facing 4-5-6 
+t2;0-6;0;---;3,(0-2) CFX;O;NYY;Giancarlo Stanton;Clayton Kershaw;1%;93%;Flyball: LF (Deep LF Line)
+t2;0-6;1;---;5,(2-2) FCBBX;R;NYY;Josh Donaldson;Clayton Kershaw;-3%;90%;Home Run (Fly Ball to Deep LF-CF)
+t2;1-6;1;---;4,(1-2) CBFS;O;NYY;Isiah Kiner-Falefa;Clayton Kershaw;1%;91%;Strikeout Swinging
+t2;1-6;2;---;2,(0-1) SX;O;NYY;Anthony Volpe;Clayton Kershaw;1%;91%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Yankees 1, Dodgers 6.
+Bottom of the 2nd, Dodgers Batting, Ahead 6-1, Yankees' Luis Severino facing 2-3-4 
+b2;6-1;0;---;3,(1-1) SBX;O;LAD;Freddie Freeman;Luis Severino;-1%;91%;Lineout: CF (LF-CF)
+b2;6-1;1;---;6,(2-2) CFBBF.X;O;LAD;Will Smith;Luis Severino;0%;90%;Groundout: SS-1B
+b2;6-1;2;---;5,(2-2) BSCBS;O;LAD;Max Muncy;Luis Severino;0%;90%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 1, Dodgers 6.
+Top of the 3rd, Yankees Batting, Behind 1-6, Dodgers' Clayton Kershaw facing 8-9-1 
+t3;1-6;0;---;7,(3-2) CBBFFBX;O;NYY;Jose Trevino;Clayton Kershaw;1%;91%;Lineout: CF (Deep CF)
+t3;1-6;1;---;5,(2-2) CSBBS;O;NYY;Greg Allen;Clayton Kershaw;1%;92%;Strikeout Swinging
+t3;1-6;2;---;4,(1-2) FCBC;O;NYY;Gleyber Torres;Clayton Kershaw;1%;93%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 1, Dodgers 6.
+Bottom of the 3rd, Dodgers Batting, Ahead 6-1, Yankees' Luis Severino facing 5-6-7 
+b3;6-1;0;---;4,(1-2) FFBX;R;LAD;J.D. Martinez;Luis Severino;3%;95%;Home Run (Fly Ball to Deep CF)
+b3;7-1;0;---;4,(1-2) CFBX;O;LAD;Jason Heyward;Luis Severino;0%;95%;Lineout: RF (Deep RF)
+b3;7-1;1;---;5,(1-2) FCBFS;O;LAD;Miguel Vargas;Luis Severino;0%;95%;Strikeout Swinging
+b3;7-1;2;---;2,(1-0) BX;O;LAD;James Outman;Luis Severino;0%;95%;Flyball: LF (LF-CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Yankees 1, Dodgers 7.
+Top of the 4th, Yankees Batting, Behind 1-7, Dodgers' Clayton Kershaw facing 2-3-4 
+t4;1-7;0;---;5,(2-2) CBBSS;O;NYY;Aaron Judge;Clayton Kershaw;1%;96%;Strikeout Swinging
+t4;1-7;1;---;4,(1-2) C.FBS;O;NYY;Anthony Rizzo;Clayton Kershaw;1%;96%;Strikeout Swinging
+t4;1-7;2;---;5,(2-2) BFBSX;R;NYY;Giancarlo Stanton;Clayton Kershaw;-2%;94%;Home Run (Fly Ball to Deep LF-CF)
+t4;2-7;2;---;4,(1-2) FFBC;O;NYY;Josh Donaldson;Clayton Kershaw;1%;94%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Yankees 2, Dodgers 7.
+Bottom of the 4th, Dodgers Batting, Ahead 7-2, Yankees' Luis Severino facing 9-1-2 
+b4;7-2;0;---;5,(2-2) BFCBX;O;LAD;Miguel Rojas;Luis Severino;-1%;94%;Groundout: P-1B (P's Left)
+b4;7-2;1;---;6,(3-2) BFBB.CB;;LAD;Mookie Betts;Luis Severino;1%;94%;Walk
+b4;7-2;1;1--;2,(0-1) F1X;O;LAD;Freddie Freeman;Luis Severino;-1%;94%;Flyball: CF (Deep CF)
+b4;7-2;2;1--;5,(1-2) B1FCF>B;;LAD;Will Smith;Luis Severino;0%;94%;Betts Steals 2B; Betts to 3B/Adv on E2 (throw)
+b4;7-2;2;--3;7,(3-2) B1FCF>B.BX;O;LAD;Will Smith;Luis Severino;-1%;93%;Lineout: 1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Yankees 2, Dodgers 7.
+Top of the 5th, Yankees Batting, Behind 2-7, Dodgers' Clayton Kershaw facing 6-7-8 
+t5;2-7;0;---;4,(1-2) BCFX;O;NYY;Isiah Kiner-Falefa;Clayton Kershaw;1%;94%;Groundout: 1B-P (Weak 2B-1B)
+t5;2-7;1;---;5,(1-2) FFBFX;O;NYY;Anthony Volpe;Clayton Kershaw;1%;95%;Groundout: SS-1B (Deep SS)
+t5;2-7;2;---;1,(0-0) X;;NYY;Jose Trevino;Clayton Kershaw;-1%;95%;Single to CF (Line Drive to Deep LF-CF)
+t5;2-7;2;1--;8,(3-2) SB*BFF1*B>F>B;;NYY;Greg Allen;Clayton Kershaw;-1%;93%;Walk; Trevino to 2B
+t5;2-7;2;12-;3,(1-1) C*BX;O;NYY;Gleyber Torres;Clayton Kershaw;2%;96%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Yankees 2, Dodgers 7.
+Bottom of the 5th, Dodgers Batting, Ahead 7-2, Yankees' Tommy Kahnle facing 4-5-6 
+;;;;;;;;;Tommy Kahnle replaces Luis Severino pitching
+b5;7-2;0;---;7,(3-2) .BSCBBFX;O;LAD;Max Muncy;Tommy Kahnle;0%;95%;Flyball: CF (Deep LF-CF)
+b5;7-2;1;---;5,(1-2) SCFBX;O;LAD;J.D. Martinez;Tommy Kahnle;0%;95%;Lineout: 3B (SS-3B Hole)
+b5;7-2;2;---;6,(2-2) BBCCFX;;LAD;Jason Heyward;Tommy Kahnle;0%;95%;Double to RF (Line Drive to Deep CF-RF)
+b5;7-2;2;-2-;5,(3-1) BSBBB;;LAD;Miguel Vargas;Tommy Kahnle;0%;96%;Walk
+b5;7-2;2;12-;6,(2-2) BBSCFS;O;LAD;James Outman;Tommy Kahnle;-1%;95%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Yankees 2, Dodgers 7.
+Top of the 6th, Yankees Batting, Behind 2-7, Dodgers' Clayton Kershaw facing 2-3-4 
+t6;2-7;0;---;6,(3-2) BBFC.BS;O;NYY;Aaron Judge;Clayton Kershaw;1%;96%;Strikeout Swinging
+t6;2-7;1;---;3,(1-1) FBX;O;NYY;Anthony Rizzo;Clayton Kershaw;1%;97%;Groundout: 1B unassisted (Short 1B Line)
+t6;2-7;2;---;2,(1-0) BX;O;NYY;Giancarlo Stanton;Clayton Kershaw;0%;97%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 2, Dodgers 7.
+Bottom of the 6th, Dodgers Batting, Ahead 7-2, Yankees' Ryan Weber facing 9-1-2 
+;;;;;;;;;Ryan Weber replaces Tommy Kahnle pitching
+b6;7-2;0;---;3,(0-2) .CSX;O;LAD;Miguel Rojas;Ryan Weber;0%;97%;Groundout: 3B-1B
+b6;7-2;1;---;2,(0-1) CX;R;LAD;Mookie Betts;Ryan Weber;1%;98%;Home Run (Fly Ball to Deep LF Line)
+b6;8-2;1;---;4,(1-2) FTBX;O;LAD;Freddie Freeman;Ryan Weber;0%;98%;Flyball: LF (Deep LF)
+b6;8-2;2;---;5,(3-1) BBFBX;;LAD;Will Smith;Ryan Weber;0%;98%;Single to SS (Ground Ball to SS-3B Hole)
+b6;8-2;2;1--;3,(1-1) CBX;O;LAD;Max Muncy;Ryan Weber;0%;98%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Yankees 2, Dodgers 8.
+Top of the 7th, Yankees Batting, Behind 2-8, Dodgers' Clayton Kershaw facing 5-6-7 
+t7;2-8;0;---;1,(0-0) X;O;NYY;Josh Donaldson;Clayton Kershaw;1%;99%;Groundout: 3B-1B (SS-3B Hole)
+t7;2-8;1;---;8,(3-2) CFBBBFFS;O;NYY;Isiah Kiner-Falefa;Clayton Kershaw;0%;99%;Strikeout Swinging
+t7;2-8;2;---;2,(1-0) BX;O;NYY;Anthony Volpe;Clayton Kershaw;0%;99%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 2, Dodgers 8.
+Bottom of the 7th, Dodgers Batting, Ahead 8-2, Yankees' Ryan Weber facing 5-6-7 
+b7;8-2;0;---;5,(1-2) BFFFT;O;LAD;J.D. Martinez;Ryan Weber;0%;99%;Strikeout Swinging
+b7;8-2;1;---;3,(1-1) BCX;O;LAD;Jason Heyward;Ryan Weber;0%;99%;Flyball: CF
+b7;8-2;2;---;4,(2-1) BCBX;O;LAD;Miguel Vargas;Ryan Weber;0%;99%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 2, Dodgers 8.
+Top of the 8th, Yankees Batting, Behind 2-8, Dodgers' Yency Almonte facing 8-9-1 
+;;;;;;;;;Yency Almonte replaces Clayton Kershaw pitchingJake Bauers pinch hits for Jose Trevino (C) batting 8th
+t8;2-8;0;---;5,(3-1) ..CBBBB;;NYY;Jake Bauers;Yency Almonte;-1%;98%;Walk
+;;;;;;;;;Willie Calhoun pinch hits for Greg Allen (CF) batting 9th
+t8;2-8;0;1--;3,(2-0) .BBX;O;NYY;Willie Calhoun;Yency Almonte;1%;99%;Popfly: 2B (2B-1B)
+t8;2-8;1;1--;3,(1-1) BSX;O;NYY;Gleyber Torres;Yency Almonte;0%;100%;Flyball: CF (Deep LF-CF)
+t8;2-8;2;1--;3,(1-1) CBX;O;NYY;Aaron Judge;Yency Almonte;0%;100%;Lineout: 2B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Yankees 2, Dodgers 8.
+Bottom of the 8th, Dodgers Batting, Ahead 8-2, Yankees' Albert Abreu facing 8-9-1 
+;;;;;;;;;Albert Abreu replaces Ryan Weber pitchingKyle Higashioka replaces Willie Calhoun (PH) playing C batting 9thJake Bauers moves from PH to LF Isiah Kiner-Falefa moves from LF to CF 
+b8;8-2;0;---;4,(2-1) ....BBCX;O;LAD;James Outman;Albert Abreu;0%;100%;Popfly: 2B (Deep 2B)
+b8;8-2;1;---;1,(0-0) X;O;LAD;Miguel Rojas;Albert Abreu;0%;100%;Lineout: 2B (Deep 2B)
+b8;8-2;2;---;6,(2-2) .BBCCFX;;LAD;Mookie Betts;Albert Abreu;0%;100%;Single to CF (Line Drive)
+b8;8-2;2;1--;6,(3-2) FBB*BS>X;O;LAD;Freddie Freeman;Albert Abreu;0%;100%;Lineout: SS (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 2, Dodgers 8.
+Top of the 9th, Yankees Batting, Behind 2-8, Dodgers' Phil Bickford facing 3-4-5 
+;;;;;;;;;Phil Bickford replaces Yency Almonte pitching
+t9;2-8;0;---;6,(3-2) .BBFTB.X;O;NYY;Anthony Rizzo;Phil Bickford;0%;100%;Groundout: 1B unassisted (Deep 1B)
+t9;2-8;1;---;9,(3-2) BSSBFBFFB;;NYY;Giancarlo Stanton;Phil Bickford;0%;100%;Walk
+t9;2-8;1;1--;1,(0-0) X;RR;NYY;Josh Donaldson;Phil Bickford;0%;99%;Home Run (Fly Ball to Deep LF-CF); Stanton Scores
+t9;4-8;1;---;6,(2-2) BSBFF*S;O;NYY;Isiah Kiner-Falefa;Phil Bickford;0%;100%;Strikeout Swinging
+t9;4-8;2;---;4,(1-2) BSSS;O;NYY;Anthony Volpe;Phil Bickford;0%;100%;Strikeout Swinging
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Yankees 4, Dodgers 8.

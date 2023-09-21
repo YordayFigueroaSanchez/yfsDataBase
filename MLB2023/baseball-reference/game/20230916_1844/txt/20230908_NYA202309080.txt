@@ -1,0 +1,282 @@
+
+Scorebox Meta
+20230908
+7:05 p.m. Local
+37115
+Yankee Stadium III
+182
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/MIL-2023.png;/teams/MIL/2023.shtml;0;0;0;2;0;0;3;3;0;8;16;0
+https://cdn.ssref.net/req/202309121/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;0;2;0;0;0;0;0;0;2;3;2
+
+Batting home
+DJ LeMahieu;/players/l/lemahdj01.shtml;1B;3;0;0;0;1;1;4;.242;.324;.401;.725;22;14;-0.023; 0.78;0.035;-0.058;-0.00%; 0.04; -0.1;9;0;
+Aaron Judge;/players/j/judgeaa01.shtml;DH;2;1;1;0;2;1;4;.265;.397;.613;1.009;21;11;0.073; 0.74;0.089;-0.015; 0.00%; 0.03; 1.2;;;
+Jasson Domínguez;/players/d/dominja01.shtml;CF;3;1;1;2;1;1;4;.296;.345;.778;1.123;19;10;0.209; 1.31;0.267;-0.058; 0.01%; 0.06; 1.5;2;0;HR,SB
+Gleyber Torres;/players/t/torregl01.shtml;2B;4;0;0;0;0;1;4;.273;.341;.468;.809;13;10;-0.109; 1.15;0.000;-0.109;-0.00%; 0.05; -1.3;1;2;
+Austin Wells;/players/w/wellsau01.shtml;C;3;0;0;0;1;0;4;.118;.200;.176;.376;16;10;-0.031; 0.97;0.023;-0.053;-0.00%; 0.04; -0.7;11;0;
+Anthony Volpe;/players/v/volpean01.shtml;SS;4;0;0;0;0;2;4;.214;.293;.397;.690;16;11;-0.117; 1.21;0.000;-0.117;-0.00%; 0.05; -1.2;1;4;
+Oswald Peraza;/players/p/perazos02.shtml;3B;4;0;1;0;0;1;4;.185;.279;.231;.510;13;8;-0.043; 0.99;0.042;-0.085;-0.00%; 0.04; -0.4;0;2;2B
+Jake Bauers;/players/b/bauerja01.shtml;RF;4;0;0;0;0;2;4;.203;.282;.419;.701;23;16;-0.074; 0.72;0.000;-0.074;-0.00%; 0.03; -0.8;2;0;
+Oswaldo Cabrera;/players/c/cabreos01.shtml;LF;3;0;0;0;0;0;3;.207;.275;.295;.570;9;7;-0.088; 1.10;0.000;-0.088;-0.00%; 0.05; -0.8;1;0;
+Luis Severino;/players/s/severlu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jhony Brito;/players/b/britojh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jonathan Loáisiga;/players/l/loaisjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Greg Weissert;/players/w/weissgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tommy Kahnle;/players/k/kahnlto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Oswald Peraza (5, off Colin Rea).
+
+
+HR: Jasson Domínguez (4, off Colin Rea, 3rd inn, 1 on, 1 out to Deep CF-RF).
+
+
+TB: Jasson Domínguez 4; Oswald Peraza 2; Aaron Judge.
+
+
+RBI: Jasson Domínguez 2 (7).
+
+
+Team LOB: 6.
+With RISP: 0 for 9.
+
+Batting away
+Christian Yelich;/players/y/yelicch01.shtml;LF;4;0;1;0;1;2;5;.274;.363;.435;.798;21;13;0.011; 1.06;0.052;-0.041; 0.00%; 0.55; -0.4;3;0;
+William Contreras;/players/c/contrwi02.shtml;C;5;1;2;1;0;1;5;.281;.357;.456;.814;20;15;-0.008; 1.41;0.124;-0.133;-0.00%; 0.72; 0.1;9;0;SB,GDP
+Carlos Santana;/players/s/santaca01.shtml;1B;5;2;3;2;0;1;5;.235;.315;.415;.730;22;14;0.097; 1.04;0.166;-0.068; 0.03%; 0.54; 1.8;7;1;
+Sal Frelick;/players/f/frelisa01.shtml;CF-RF;5;0;1;0;0;2;5;.243;.357;.391;.748;21;15;-0.037; 1.00;0.052;-0.088;-0.01%; 0.51; -1.2;4;0;
+Willy Adames;/players/a/adamewi01.shtml;SS;4;1;2;3;0;0;5;.212;.298;.403;.701;11;8;0.295; 1.08;0.347;-0.052; 0.09%; 0.56; 2.5;0;1;HR,2B,HBP
+Rowdy Tellez;/players/t/tellero01.shtml;DH;5;0;1;0;0;2;5;.215;.288;.387;.676;15;11;0.001; 0.90;0.097;-0.096;0%; 0.46; -0.7;;;
+Mark Canha;/players/c/canhama01.shtml;RF;3;0;1;0;1;1;4;.263;.359;.403;.762;16;7;-0.090; 1.23;0.023;-0.113;-0.03%; 0.63; -0.3;2;0;
+Joey Wiemer;/players/w/wiemejo01.shtml;PR-CF;1;1;0;0;0;0;1;.207;.287;.366;.653;2;2;0.009; 0.21;0.009;0.000; 0.00%; 0.12; 0.1;1;0;
+Brice Turang;/players/t/turanbr02.shtml;2B;5;1;3;0;0;1;5;.222;.290;.312;.602;16;13;-0.027; 1.18;0.100;-0.128;-0.01%; 0.61; 0.6;0;1;2·SB
+Andruw Monasterio;/players/m/monasan01.shtml;3B;5;2;2;2;0;1;5;.271;.343;.371;.714;22;13;0.045; 0.89;0.127;-0.082; 0.01%; 0.46; 0.8;0;3;2·2B
+Colin Rea;/players/r/reaco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Abner Uribe;/players/u/uribeab01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Megill;/players/m/megiltr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryse Wilson;/players/w/wilsobr02.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Thyago Vieira;/players/v/vieirth01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Andruw Monasterio 2 (12, 1 off Jhony Brito, 1 off Greg Weissert); Willy Adames (20, off Jonathan Loáisiga).
+
+
+HR: Willy Adames (24, off Luis Severino, 4th inn, 1 on, 1 out to Deep CF-RF).
+
+
+HBP: Willy Adames (6, by Luis Severino).
+
+
+TB: Willy Adames 6; Andruw Monasterio 4; Brice Turang 3; Carlos Santana 3; William Contreras 2; Mark Canha; Sal Frelick; Rowdy Tellez; Christian Yelich.
+
+
+GIDP: William Contreras (19).
+
+
+RBI: Willy Adames 3 (71); Carlos Santana 2 (73); Andruw Monasterio 2 (21); William Contreras (67).
+
+
+2-out RBI: Willy Adames.
+
+
+Team LOB: 10.
+With RISP: 7 for 20.
+
+Pitching home
+Luis Severino;/players/s/severlu01.shtml;Luis Severino; 4 ;4;2;2;1;5;1;6.65;17;70;45;27;9;9;8;2;0;0;50;;;-0.058; 1.06;-0.00%; 0.05; -0.3
+Jhony Brito;/players/b/britojh01.shtml; L (6-7); 2.1;3;1;1;1;3;0;4.83;11;33;20;11;4;5;3;4;1;0;;1;0;0.099; 2.00; 0.00%; 0.09; 1.0
+Jonathan Loáisiga;/players/l/loaisjo01.shtml;Jonathan Loáisiga; 0.2;3;2;2;0;0;0;1.62;5;21;14;10;2;2;2;3;1;0;;1;1;-0.279; 1.28;-0.01%; 0.06; -2.0
+Greg Weissert;/players/w/weissgr01.shtml;Greg Weissert; 1 ;5;3;3;0;2;0;6.30;8;26;20;9;2;9;4;2;1;0;;0;0;-0.062; 0.23;-0.00%; 0.01; -2.5
+Tommy Kahnle;/players/k/kahnlto01.shtml;Tommy Kahnle; 1 ;1;0;0;0;1;0;2.50;4;16;12;6;1;5;1;2;0;0;;0;0;0.001; 0.01; 0.00%; 0.00; 0.5
+
+Pitching away
+Colin Rea;/players/r/reaco01.shtml;Colin Rea; 4.2;3;2;2;2;6;1;5.02;19;85;57;33;10;14;3;8;4;0;54;;;0.042; 1.05; 0.01%; 0.54; 0.5
+Abner Uribe;/players/u/uribeab01.shtml; W (1-0); 1.1;0;0;0;2;1;0;1.59;6;28;15;5;5;5;1;2;0;0;;0;0;0.092; 1.82; 0.03%; 0.94; 0.6
+Trevor Megill;/players/m/megiltr01.shtml; H (2); 1 ;0;0;0;0;1;0;3.49;3;12;9;6;3;0;1;1;0;0;;0;0;0.057; 0.74; 0.02%; 0.38; 0.5
+Bryse Wilson;/players/w/wilsobr02.shtml;Bryse Wilson; 1 ;0;0;0;1;0;0;2.82;4;15;8;6;1;1;2;1;0;0;;0;0;0.008; 0.23; 0.00%; 0.12; 0.5
+Thyago Vieira;/players/v/vieirth01.shtml;Thyago Vieira; 1 ;0;0;0;0;1;0;0.00;3;12;8;4;2;2;1;1;1;0;;0;0;0.003; 0.04; 0.00%; 0.03; 0.5
+
+indiv_events
+
+Balks: Greg Weissert (1).
+WP: None.
+HBP: Luis Severino (5; Willy Adames).
+IBB: None.
+Pickoffs: Luis Severino (3; Willy Adames, 1st base).
+
+Balks: Greg Weissert (1).
+WP: None.
+HBP: Luis Severino (5; Willy Adames).
+IBB: None.
+Pickoffs: Luis Severino (3; Willy Adames, 1st base).
+
+section_content
+Umpires: HP - John Libka, 1B - D.J. Reyburn, 2B - Angel Hernandez, 3B - James Hoye, LF - (none), RF - (none).
+Time of Game: 3:02.
+Attendance: 37,115.
+Field Condition: Unknown.
+Start Time Weather: 75° F, Wind 5mph in unknown direction, Cloudy, No Precipitation.
+
+div_lineups
+Brewers
+1;Christian Yelich;/players/y/yelicch01.shtml;LF
+2;William Contreras;/players/c/contrwi02.shtml;C
+3;Carlos Santana;/players/s/santaca01.shtml;1B
+4;Sal Frelick;/players/f/frelisa01.shtml;CF
+5;Willy Adames;/players/a/adamewi01.shtml;SS
+6;Rowdy Tellez;/players/t/tellero01.shtml;DH
+7;Mark Canha;/players/c/canhama01.shtml;RF
+8;Brice Turang;/players/t/turanbr02.shtml;2B
+9;Andruw Monasterio;/players/m/monasan01.shtml;3B
+; Colin Rea;/players/r/reaco01.shtml;P
+Yankees
+1;DJ LeMahieu;/players/l/lemahdj01.shtml;1B
+2;Aaron Judge;/players/j/judgeaa01.shtml;DH
+3;Jasson Domínguez;/players/d/dominja01.shtml;CF
+4;Gleyber Torres;/players/t/torregl01.shtml;2B
+5;Austin Wells;/players/w/wellsau01.shtml;C
+6;Anthony Volpe;/players/v/volpean01.shtml;SS
+7;Oswald Peraza;/players/p/perazos02.shtml;3B
+8;Jake Bauers;/players/b/bauerja01.shtml;RF
+9;Oswaldo Cabrera;/players/c/cabreos01.shtml;LF
+; Luis Severino;/players/s/severlu01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t4;0-2;1;1--;3,(0-2) SFX;RR;MIL;Willy Adames;Luis Severino;20%;47%;Home Run (Fly Ball to Deep CF-RF); Santana Scores
+b3;0-0;1;1--;5,(2-2) TTBBX;RR;NYY;Jasson Domínguez;Colin Rea;-19%;25%;Home Run (Fly Ball to Deep CF-RF); Judge Scores
+t7;3-2;1;-2-;6,(3-2) FBB1N.BCX;R;MIL;Carlos Santana;Jonathan Loáisiga;12%;83%;Single to RF (Ground Ball thru 2B-1B); Contreras Scores; Santana to 2B/Adv on E9 (throw)
+t7;2-2;0;---;4,(2-1) BBCX;;MIL;Andruw Monasterio;Jhony Brito;11%;61%;Double to LF (Line Drive to Deep LF Line)
+t7;2-2;1;--3;7,(2-2) .BSSBFFX;R;MIL;William Contreras;Jonathan Loáisiga;10%;69%;Single to LF (Line Drive); Monasterio Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Brewers Batting, Tied 0-0, Yankees' Luis Severino facing 1-2-3 
+t1;0-0;0;---;5,(2-2) CBBFS;O;MIL;Christian Yelich;Luis Severino;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;6,(3-2) BCBBFS;O;MIL;William Contreras;Luis Severino;-2%;46%;Strikeout Swinging
+t1;0-0;2;---;1,(0-0) X;O;MIL;Carlos Santana;Luis Severino;-1%;45%;Groundout: 1B unassisted (Weak 1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 0, Yankees 0.
+Bottom of the 1st, Yankees Batting, Tied 0-0, Brewers' Colin Rea facing 1-2-3 
+b1;0-0;0;---;7,(3-2) CBFFBBB;;NYY;DJ LeMahieu;Colin Rea;-3%;42%;Walk
+b1;0-0;0;1--;9,(3-2) FFBBFFBFB;;NYY;Aaron Judge;Colin Rea;-5%;36%;Walk; LeMahieu to 2B
+b1;0-0;0;12-;4,(1-2) BFCS;O;NYY;Jasson Domínguez;Colin Rea;5%;41%;Strikeout Swinging
+b1;0-0;1;12-;4,(1-2) TBFS;O;NYY;Gleyber Torres;Colin Rea;4%;46%;Strikeout Swinging
+b1;0-0;2;12-;5,(2-2) BFCBX;O;NYY;Austin Wells;Colin Rea;4%;50%;Flyball: LF (LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Brewers 0, Yankees 0.
+Top of the 2nd, Brewers Batting, Tied 0-0, Yankees' Luis Severino facing 4-5-6 
+t2;0-0;0;---;5,(2-2) CBFBX;O;MIL;Sal Frelick;Luis Severino;-2%;48%;Groundout: 2B-1B (2B-1B)
+t2;0-0;1;---;2,(0-1) CH;;MIL;Willy Adames;Luis Severino;3%;50%;Hit By Pitch
+t2;0-0;1;1--;2,(1-1) CB1;;MIL;Rowdy Tellez;Luis Severino;4%;55%;Adames Picked off 1B, safe on E1 (throw); Adames to 3B
+t2;0-0;1;--3;4,(1-2) CB1.FS;O;MIL;Rowdy Tellez;Luis Severino;-6%;49%;Strikeout Swinging
+t2;0-0;2;--3;6,(3-2) SB*BBFB;;MIL;Mark Canha;Luis Severino;1%;50%;Walk
+t2;0-0;2;1-3;5,(0-2) C>FFFS;O;MIL;Brice Turang;Luis Severino;-5%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 1 error, 2 LOB. Brewers 0, Yankees 0.
+Bottom of the 2nd, Yankees Batting, Tied 0-0, Brewers' Colin Rea facing 6-7-8 
+b2;0-0;0;---;4,(1-2) CSB*S;O;NYY;Anthony Volpe;Colin Rea;2%;47%;Strikeout Swinging
+b2;0-0;1;---;2,(1-0) BX;;NYY;Oswald Peraza;Colin Rea;-4%;43%;Double to LF (Line Drive to Deep LF Line)
+b2;0-0;1;-2-;6,(2-2) CSBBFX;O;NYY;Jake Bauers;Colin Rea;3%;46%;Flyball: CF (Deep CF-RF); Peraza to 3B
+b2;0-0;2;--3;1,(0-0) X;O;NYY;Oswaldo Cabrera;Colin Rea;4%;50%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 0, Yankees 0.
+Top of the 3rd, Brewers Batting, Tied 0-0, Yankees' Luis Severino facing 9-1-2 
+t3;0-0;0;---;5,(2-2) BCFBX;O;MIL;Andruw Monasterio;Luis Severino;-3%;47%;Groundout: 3B-1B (Weak 3B)
+t3;0-0;1;---;6,(1-2) SSFFBX;;MIL;Christian Yelich;Luis Severino;3%;50%;Single to CF (Ground Ball thru SS-2B)
+t3;0-0;1;1--;2,(0-1) CX;OO;MIL;William Contreras;Luis Severino;-6%;44%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Brewers 0, Yankees 0.
+Bottom of the 3rd, Yankees Batting, Tied 0-0, Brewers' Colin Rea facing 1-2-3 
+b3;0-0;0;---;7,(2-2) BBCC.FFX;O;NYY;DJ LeMahieu;Colin Rea;3%;47%;Lineout: RF
+b3;0-0;1;---;2,(0-1) CX;;NYY;Aaron Judge;Colin Rea;-3%;44%;Single to LF (Line Drive to Deep LF)
+b3;0-0;1;1--;5,(2-2) TTBBX;RR;NYY;Jasson Domínguez;Colin Rea;-19%;25%;Home Run (Fly Ball to Deep CF-RF); Judge Scores
+b3;2-0;1;---;3,(1-1) BCX;O;NYY;Gleyber Torres;Colin Rea;1%;26%;Lineout: CF (Deep CF)
+b3;2-0;2;---;2,(0-1) SX;O;NYY;Austin Wells;Colin Rea;1%;27%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Brewers 0, Yankees 2.
+Top of the 4th, Brewers Batting, Behind 0-2, Yankees' Luis Severino facing 3-4-5 
+t4;0-2;0;---;7,(3-2) BBFBFFX;;MIL;Carlos Santana;Luis Severino;4%;32%;Single to RF (Ground Ball)
+t4;0-2;0;1--;6,(2-2) BFCFBS;O;MIL;Sal Frelick;Luis Severino;-4%;28%;Strikeout Swinging
+t4;0-2;1;1--;3,(0-2) SFX;RR;MIL;Willy Adames;Luis Severino;20%;47%;Home Run (Fly Ball to Deep CF-RF); Santana Scores
+t4;2-2;1;---;2,(1-0) BX;O;MIL;Rowdy Tellez;Luis Severino;-2%;45%;Flyball: RF (Deep CF-RF)
+t4;2-2;2;---;3,(2-0) BBX;O;MIL;Mark Canha;Luis Severino;-1%;44%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Brewers 2, Yankees 2.
+Bottom of the 4th, Yankees Batting, Tied 2-2, Brewers' Colin Rea facing 6-7-8 
+b4;2-2;0;---;7,(3-2) BBFFB.FS;O;NYY;Anthony Volpe;Colin Rea;3%;47%;Strikeout Swinging
+b4;2-2;1;---;3,(0-2) SSC;O;NYY;Oswald Peraza;Colin Rea;2%;49%;Strikeout Looking
+b4;2-2;2;---;4,(1-2) CBFX;O;NYY;Jake Bauers;Colin Rea;1%;50%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 2, Yankees 2.
+Top of the 5th, Brewers Batting, Tied 2-2, Yankees' Luis Severino facing 8-9-1 
+t5;2-2;0;---;2,(1-0) BX;;MIL;Brice Turang;Luis Severino;5%;55%;Single to LF (Ground Ball)
+;;;;;;;;;Jhony Brito replaces Luis Severino pitching
+t5;2-2;0;1--;1,(0-0) .1>C;;MIL;Andruw Monasterio;Jhony Brito;3%;58%;Turang Steals 2B
+t5;2-2;0;-2-;5,(2-2) .1>C.BFBS;O;MIL;Andruw Monasterio;Jhony Brito;-6%;52%;Strikeout Swinging
+t5;2-2;1;-2-;5,(3-1) BFBBB;;MIL;Christian Yelich;Jhony Brito;2%;55%;Walk
+t5;2-2;1;12-;2,(0-1) CX;O;MIL;William Contreras;Jhony Brito;-6%;49%;Flyball: CF
+t5;2-2;2;12-;3,(0-2) CSS;O;MIL;Carlos Santana;Jhony Brito;-6%;43%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Brewers 2, Yankees 2.
+Bottom of the 5th, Yankees Batting, Tied 2-2, Brewers' Colin Rea facing 9-1-2 
+b5;2-2;0;---;6,(2-2) CFBBFX;O;NYY;Oswaldo Cabrera;Colin Rea;3%;46%;Groundout: 1B unassisted
+b5;2-2;1;---;4,(1-2) BCCS;O;NYY;DJ LeMahieu;Colin Rea;2%;48%;Strikeout Swinging
+;;;;;;;;;Abner Uribe replaces Colin Rea pitching
+b5;2-2;2;---;5,(2-2) .BCS.BS;O;NYY;Aaron Judge;Abner Uribe;2%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 2, Yankees 2.
+Top of the 6th, Brewers Batting, Tied 2-2, Yankees' Jhony Brito facing 4-5-6 
+t6;2-2;0;---;2,(1-0) BX;;MIL;Sal Frelick;Jhony Brito;5%;55%;Single to LF (Ground Ball)
+t6;2-2;0;1--;2,(1-0) BX;O;MIL;Willy Adames;Jhony Brito;-5%;50%;Flyball: RF (Short RF)
+t6;2-2;1;1--;3,(1-1) F11B>X;;MIL;Rowdy Tellez;Jhony Brito;10%;60%;Single to RF (Ground Ball thru 2B-1B); Frelick to 3B
+t6;2-2;1;1-3;4,(1-2) CFBS;O;MIL;Mark Canha;Jhony Brito;-10%;50%;Strikeout Swinging
+t6;2-2;2;1-3;1,(0-0) X;O;MIL;Brice Turang;Jhony Brito;-8%;42%;Flyball: SS (Deep SS-2B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Brewers 2, Yankees 2.
+Bottom of the 6th, Yankees Batting, Tied 2-2, Brewers' Abner Uribe facing 3-4-5 
+b6;2-2;0;---;6,(3-2) BBCSBB;;NYY;Jasson Domínguez;Abner Uribe;-5%;37%;Walk
+b6;2-2;0;1--;2,(0-1) CX;O;NYY;Gleyber Torres;Abner Uribe;5%;42%;Flyball: LF (Deep LF-CF)
+b6;2-2;1;1--;1,(0-0) >C;;NYY;Austin Wells;Abner Uribe;-3%;39%;Domínguez Steals 2B
+b6;2-2;1;-2-;7,(3-2) >C.BBSFBB;;NYY;Austin Wells;Abner Uribe;-2%;37%;Walk
+b6;2-2;1;12-;2,(0-1) *SX;O;NYY;Anthony Volpe;Abner Uribe;6%;44%;Flyball: CF (Deep CF)
+b6;2-2;2;12-;6,(3-2) TCB*BB>X;O;NYY;Oswald Peraza;Abner Uribe;6%;50%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Brewers 2, Yankees 2.
+Top of the 7th, Brewers Batting, Tied 2-2, Yankees' Jhony Brito facing 9-1-2 
+t7;2-2;0;---;4,(2-1) BBCX;;MIL;Andruw Monasterio;Jhony Brito;11%;61%;Double to LF (Line Drive to Deep LF Line)
+t7;2-2;0;-2-;2,(1-0) BX;O;MIL;Christian Yelich;Jhony Brito;-2%;59%;Groundout: 1B unassisted; Monasterio to 3B
+;;;;;;;;;Jonathan Loáisiga replaces Jhony Brito pitching
+t7;2-2;1;--3;7,(2-2) .BSSBFFX;R;MIL;William Contreras;Jonathan Loáisiga;10%;69%;Single to LF (Line Drive); Monasterio Scores
+t7;3-2;1;1--;3,(2-1) FBB1N;;MIL;Carlos Santana;Jonathan Loáisiga;2%;71%;Contreras Steals 2B
+t7;3-2;1;-2-;6,(3-2) FBB1N.BCX;R;MIL;Carlos Santana;Jonathan Loáisiga;12%;83%;Single to RF (Ground Ball thru 2B-1B); Contreras Scores; Santana to 2B/Adv on E9 (throw)
+t7;4-2;1;-2-;5,(1-2) FBCFX;O;MIL;Sal Frelick;Jonathan Loáisiga;-2%;81%;Groundout: SS-1B (Weak SS); Santana to 3B
+t7;4-2;2;--3;2,(1-0) BX;R;MIL;Willy Adames;Jonathan Loáisiga;8%;89%;Double to RF (Fly Ball to Deep 1B); Santana Scores
+t7;5-2;2;-2-;1,(0-0) X;O;MIL;Rowdy Tellez;Jonathan Loáisiga;-2%;87%;Flyball: LF (LF Line)
+;;;;;;;;;3 runs, 4 hits, 1 error, 1 LOB. Brewers 5, Yankees 2.
+Bottom of the 7th, Yankees Batting, Behind 2-5, Brewers' Trevor Megill facing 8-9-1 
+;;;;;;;;;Trevor Megill replaces Abner Uribe pitching
+b7;2-5;0;---;6,(2-2) .SSFBBS;O;NYY;Jake Bauers;Trevor Megill;3%;90%;Strikeout Swinging
+b7;2-5;1;---;2,(0-1) FX;O;NYY;Oswaldo Cabrera;Trevor Megill;2%;92%;Bunt Groundout: 3B-1B (Weak 3B)
+b7;2-5;2;---;4,(1-2) FBFX;O;NYY;DJ LeMahieu;Trevor Megill;1%;93%;Flyball: RF (RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 5, Yankees 2.
+Top of the 8th, Brewers Batting, Ahead 5-2, Yankees' Greg Weissert facing 7-8-9 
+;;;;;;;;;Greg Weissert replaces Jonathan Loáisiga pitching
+t8;5-2;0;---;3,(2-0) .BBX;;MIL;Mark Canha;Greg Weissert;1%;94%;Single to SS (Ground Ball to SS-3B Hole)
+;;;;;;;;;Joey Wiemer pinch runs for Mark Canha (RF) batting 7th
+t8;5-2;0;1--;3,(2-1) .CBB1N;;MIL;Brice Turang;Greg Weissert;1%;95%;Balk; Wiemer to 2B
+t8;5-2;0;-2-;5,(2-2) .CBB1N.LX;;MIL;Brice Turang;Greg Weissert;2%;96%;Single to SS (Ground Ball); Wiemer to 3B
+t8;5-2;0;1-3;1,(0-0) >C;;MIL;Andruw Monasterio;Greg Weissert;0%;97%;Turang Steals 2B
+t8;5-2;0;-23;2,(0-1) >C.X;RR;MIL;Andruw Monasterio;Greg Weissert;2%;99%;Double to LF (Fly Ball to Deep LF-CF); Wiemer Scores; Turang Scores
+t8;7-2;0;-2-;3,(0-2) CTC;O;MIL;Christian Yelich;Greg Weissert;0%;98%;Strikeout Looking
+t8;7-2;1;-2-;3,(0-2) CCX;;MIL;William Contreras;Greg Weissert;0%;99%;Single to LF (Ground Ball thru SS-3B Hole); Monasterio to 3B
+t8;7-2;1;1-3;5,(2-2) CFBBX;R;MIL;Carlos Santana;Greg Weissert;1%;99%;Single to RF (Line Drive to Short RF Line); Monasterio Scores; Contreras to 3B
+t8;8-2;1;1-3;3,(0-2) SCS;O;MIL;Sal Frelick;Greg Weissert;0%;99%;Strikeout Swinging
+t8;8-2;2;1-3;2,(0-1) C.X;O;MIL;Willy Adames;Greg Weissert;0%;99%;Groundout: SS-1B
+;;;;;;;;;3 runs, 5 hits, 0 errors, 2 LOB. Brewers 8, Yankees 2.
+Bottom of the 8th, Yankees Batting, Behind 2-8, Brewers' Bryse Wilson facing 2-3-4 
+;;;;;;;;;Bryse Wilson replaces Trevor Megill pitchingJoey Wiemer moves from PR to CF Sal Frelick moves from CF to RF 
+b8;2-8;0;---;5,(3-1) ...BBBCB;;NYY;Aaron Judge;Bryse Wilson;-1%;98%;Walk
+b8;2-8;0;1--;4,(2-1) *BF*BX;O;NYY;Jasson Domínguez;Bryse Wilson;1%;99%;Groundout: 1B-P; Judge to 2B
+b8;2-8;1;-2-;4,(1-2) BFFX;O;NYY;Gleyber Torres;Bryse Wilson;1%;99%;Groundout: SS-1B; Judge to 3B
+b8;2-8;2;--3;2,(0-1) SX;O;NYY;Austin Wells;Bryse Wilson;0%;100%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Brewers 8, Yankees 2.
+Top of the 9th, Brewers Batting, Ahead 8-2, Yankees' Tommy Kahnle facing 6-7-8 
+;;;;;;;;;Tommy Kahnle replaces Greg Weissert pitching
+t9;8-2;0;---;5,(1-2) .CCBFS;O;MIL;Rowdy Tellez;Tommy Kahnle;0%;100%;Strikeout Swinging
+t9;8-2;1;---;2,(0-1) CX;O;MIL;Joey Wiemer;Tommy Kahnle;0%;100%;Groundout: SS-1B (Weak SS)
+t9;8-2;2;---;3,(0-2) CFX;;MIL;Brice Turang;Tommy Kahnle;0%;100%;Single to CF (Fly Ball)
+t9;8-2;2;1--;6,(3-2) BBBCF>X;O;MIL;Andruw Monasterio;Tommy Kahnle;0%;100%;Flyball: CF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 8, Yankees 2.
+Bottom of the 9th, Yankees Batting, Behind 2-8, Brewers' Thyago Vieira facing 6-7-8 
+;;;;;;;;;Thyago Vieira replaces Bryse Wilson pitching
+b9;2-8;0;---;3,(1-1) .BCX;O;NYY;Anthony Volpe;Thyago Vieira;0%;100%;Groundout: 3B-1B (Weak 3B)
+b9;2-8;1;---;2,(1-0) BX;O;NYY;Oswald Peraza;Thyago Vieira;0%;100%;Lineout: RF (Deep CF-RF)
+b9;2-8;2;---;7,(2-2) BC.BSFFS;O;NYY;Jake Bauers;Thyago Vieira;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 8, Yankees 2.

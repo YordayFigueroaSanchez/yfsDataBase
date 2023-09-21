@@ -1,0 +1,273 @@
+
+Scorebox Meta
+20230716
+5:10 p.m. Local
+34805
+Citi Field
+167
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;0;0;0;0;0;0;1;0;0;1;4;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;0;1;0;0;0;0;1;2;6;0
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;4;0;0;1;0;0;4;.263;.359;.444;.803;11;8;-0.057; 1.65;0.029;-0.086;-0.01%; 0.38; -0.6;6;0;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;0;0;0;0;2;4;.232;.316;.464;.780;13;9;-0.118; 1.09;0.000;-0.118;-0.02%; 0.25; -1.0;2;2;
+Jeff McNeil;/players/m/mcneije01.shtml;2B;4;0;1;0;0;0;4;.248;.323;.323;.647;11;6;-0.053; 0.83;0.022;-0.074;-0.01%; 0.19; -0.4;1;0;2B
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;0;0;0;0;1;4;.207;.306;.484;.790;18;14;-0.124; 1.20;0.000;-0.124;-0.02%; 0.27; -0.9;5;2;
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;4;0;1;0;0;1;4;.223;.330;.349;.679;17;10;0.007; 0.92;0.055;-0.048; 0.00%; 0.21; -0.2;;;
+DJ Stewart;/players/s/stewadj01.shtml;PR-DH-DH;0;0;0;0;0;0;0;.200;.375;.200;.575;;;0.044; 2.92;0.044;0.000; 0.01%; 0.66; 0.1;;;SB
+Starling Marte;/players/m/martest01.shtml;RF;4;1;1;0;0;3;4;.254;.308;.332;.640;18;13;-0.036; 1.48;0.070;-0.106;-0.01%; 0.34; -0.1;5;0;SB
+Brett Baty;/players/b/batybr01.shtml;3B;4;1;1;0;0;1;4;.239;.307;.344;.651;15;9;-0.152; 1.68;0.013;-0.165;-0.02%; 0.38; -0.7;2;1;
+Mark Canha;/players/c/canhama01.shtml;LF;2;0;1;0;0;0;3;.243;.344;.396;.740;12;7;0.019; 0.90;0.043;-0.024; 0.00%; 0.20; 0.2;1;0;SB,HBP
+Luis Guillorme;/players/g/guilllu01.shtml;PH;1;0;1;1;0;0;1;.250;.321;.365;.685;3;3;0.190; 2.58;0.190;0.000; 0.03%; 0.58; 1.0;;;2B
+Omar Narváez;/players/n/narvaom01.shtml;C;2;0;0;0;1;0;3;.175;.271;.175;.446;13;6;0.019; 1.54;0.075;-0.056; 0.00%; 0.35; 0.1;7;0;
+Max Scherzer;/players/s/scherma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Gott;/players/g/gotttr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brooks Raley;/players/r/raleybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+David Robertson;/players/r/roberda08.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Jeff McNeil (14, off Bobby Miller); Luis Guillorme (6, off Nick Robertson).
+
+
+HBP: Mark Canha (8, by Bobby Miller).
+
+
+TB: Luis Guillorme 2; Jeff McNeil 2; Brett Baty; Mark Canha; Starling Marte; Daniel Vogelbach.
+
+
+RBI: Brandon Nimmo (43); Luis Guillorme (8).
+
+
+Team LOB: 7.
+With RISP: 1 for 6.
+
+Batting away
+Mookie Betts;/players/b/bettsmo01.shtml;2B;4;0;1;1;1;1;5;.286;.387;.592;.979;27;12;0.013; 2.53;0.201;-0.187; 0.01%; 3.52; 0.3;1;2;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;3;0;0;0;1;1;4;.314;.394;.546;.941;22;11;-0.044; 1.80;0.066;-0.110;-0.04%; 2.51; -0.1;9;1;
+Max Muncy;/players/m/muncyma01.shtml;3B;4;0;0;0;0;2;4;.193;.329;.459;.789;17;12;-0.198; 1.79;0.000;-0.198;-0.17%; 2.50; -1.3;0;3;
+J.D. Martinez;/players/m/martijd02.shtml;DH;4;0;0;0;0;1;4;.258;.305;.569;.873;18;10;-0.180; 1.83;0.000;-0.180;-0.15%; 2.55; -1.2;;;
+David Peralta;/players/p/peralda01.shtml;LF-RF;4;0;0;0;0;0;4;.271;.310;.413;.723;14;11;-0.144; 1.43;0.000;-0.144;-0.12%; 2.00; -0.9;3;0;
+Jason Heyward;/players/h/heywaja01.shtml;RF;1;0;1;0;0;0;1;.251;.346;.454;.799;1;1;-0.011; 0.42;0.000;-0.011;-0.01%; 0.58; -0.1;1;0;
+Jake Marisnick;/players/m/marisja01.shtml;CF;2;0;0;0;0;0;2;.216;.263;.392;.654;7;4;-0.051; 0.99;0.000;-0.051;-0.04%; 1.39; -0.3;1;0;
+Chris Taylor;/players/t/tayloch03.shtml;PH-LF;1;0;1;0;0;0;1;.213;.280;.462;.741;2;1;0.070; 1.32;0.070;0.000; 0.06%; 1.84; 0.2;0;0;2B
+James Outman;/players/o/outmaja01.shtml;CF-RF-CF;2;1;0;0;2;1;4;.238;.327;.421;.748;19;9;-0.008; 1.92;0.120;-0.129;-0.01%; 2.67; 0.1;2;0;
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;4;0;1;0;0;0;4;.231;.276;.284;.559;11;9;0.054; 2.44;0.128;-0.073; 0.04%; 3.39; -0.0;1;1;
+Austin Barnes;/players/b/barneau01.shtml;C;2;0;0;0;0;1;2;.102;.191;.122;.313;8;5;-0.043; 0.79;0.000;-0.043;-0.04%; 1.09; -0.3;7;0;
+Will Smith;/players/s/smithwi05.shtml;PH-C;2;0;0;0;0;0;2;.270;.387;.480;.866;5;3;-0.219; 5.19;0.000;-0.219;-0.18%; 7.22; -0.9;1;0;
+Bobby Miller;/players/m/millebo06.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Brusdar Graterol;/players/g/gratebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Brasier;/players/b/brasiry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Phil Bickford;/players/b/bickfph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Alex Vesia;/players/v/vesiaal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Evan Phillips;/players/p/phillev01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nick Robertson;/players/r/roberni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Chris Taylor (7, off David Robertson).
+
+
+TB: Chris Taylor 2; Miguel Rojas; Mookie Betts; Jason Heyward.
+
+
+RBI: Mookie Betts (65).
+
+
+Team LOB: 7.
+With RISP: 1 for 11.
+
+Pitching home
+Max Scherzer;/players/s/scherma01.shtml;Max Scherzer; 7 ;1;0;0;3;6;0;3.99;24;97;58;35;10;13;3;12;1;0;78;;;0.456; 1.13; 0.06%; 0.26; 3.5
+Trevor Gott;/players/g/gotttr01.shtml; BS (4); 0.1;2;1;1;1;0;0;3.90;4;15;7;5;1;1;0;3;2;0;;0;0;-0.318; 3.60;-0.04%; 0.81; -1.4
+Brooks Raley;/players/r/raleybr01.shtml;Brooks Raley; 0.2;0;0;0;0;0;0;2.18;2;12;6;3;0;3;1;1;0;0;;2;0;0.176; 3.83; 0.02%; 0.87; 0.9
+David Robertson;/players/r/roberda08.shtml; W (4-2); 2 ;1;0;0;0;1;0;1.96;7;27;17;13;2;2;2;4;1;0;;0;0;0.448; 3.42; 0.06%; 0.78; 1.6
+
+Pitching away
+Bobby Miller;/players/m/millebo06.shtml;Bobby Miller; 4.2;3;1;1;1;5;0;4.25;19;77;47;24;8;15;4;8;2;0;58;;;0.062; 1.10; 0.05%; 1.53; 0.9
+Brusdar Graterol;/players/g/gratebr01.shtml;Brusdar Graterol; 0.1;0;0;0;0;0;0;1.79;1;1;1;1;0;0;1;0;0;0;;2;0;0.056; 1.90; 0.05%; 2.64; 0.6
+Ryan Brasier;/players/b/brasiry01.shtml;Ryan Brasier; 1 ;0;0;0;0;1;0;5.29;3;12;8;3;2;3;1;1;1;0;;0;0;0.047; 0.62; 0.04%; 0.87; 0.5
+Phil Bickford;/players/b/bickfph01.shtml;Phil Bickford; 1 ;1;0;0;0;1;0;5.66;4;16;12;8;1;3;1;2;0;0;;0;0;0.043; 0.71; 0.04%; 0.98; 0.5
+Alex Vesia;/players/v/vesiaal01.shtml;Alex Vesia; 1 ;0;0;0;0;0;0;6.17;3;4;4;3;0;1;2;1;0;0;;0;0;0.107; 1.41; 0.09%; 1.96; 0.5
+Evan Phillips;/players/p/phillev01.shtml;Evan Phillips; 1 ;1;0;0;0;1;0;2.41;4;18;10;4;5;1;1;2;1;0;;0;0;0.137; 2.70; 0.11%; 3.76; 0.5
+Nick Robertson;/players/r/roberni01.shtml; L (0-1); 0 ;1;1;0;0;0;0;6.23;1;3;3;3;0;0;1;0;0;0;;0;0;-0.190; 2.58;-0.16%; 3.59; -1.0
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Bobby Miller (3; Mark Canha).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Bobby Miller (3; Mark Canha).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Brian Knight, 1B - Todd Tichenor, 2B - Tony Randazzo, 3B - Alex Tosi, LF - (none), RF - (none).
+Time of Game: 2:47.
+Attendance: 34,805.
+Field Condition: Unknown.
+Start Time Weather: 79° F, Wind 7mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;2B
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Max Muncy;/players/m/muncyma01.shtml;3B
+4;J.D. Martinez;/players/m/martijd02.shtml;DH
+5;David Peralta;/players/p/peralda01.shtml;LF
+6;Jason Heyward;/players/h/heywaja01.shtml;RF
+7;James Outman;/players/o/outmaja01.shtml;CF
+8;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+9;Austin Barnes;/players/b/barneau01.shtml;C
+; Bobby Miller;/players/m/millebo06.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Jeff McNeil;/players/m/mcneije01.shtml;2B
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+6;Starling Marte;/players/m/martest01.shtml;RF
+7;Brett Baty;/players/b/batybr01.shtml;3B
+8;Mark Canha;/players/c/canhama01.shtml;LF
+9;Omar Narváez;/players/n/narvaom01.shtml;C
+; Max Scherzer;/players/s/scherma01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b10;1-1;0;-2-;3,(0-2) ...LLX;R;NYM;Luis Guillorme;Nick Robertson;19%;100%;Double to RF (Ground Ball); Baty Scores/unER
+t10;1-1;1;--3;3,(1-1) SBX;O;LAD;Will Smith;David Robertson;16%;68%;Groundout: SS-1B (Weak SS)
+t8;0-1;1;1-3;5,(3-1) BBCBX;R;LAD;Mookie Betts;Trevor Gott;-16%;43%;Single to LF (Line Drive to LF-CF); Outman Scores; Rojas to 2B
+t10;1-1;2;--3;3,(2-0) *BBX;O;LAD;Mookie Betts;David Robertson;13%;81%;Flyball: RF (Deep RF Line)
+t8;0-1;0;1--;2,(1-1) VF.1X;;LAD;Miguel Rojas;Trevor Gott;-13%;53%;Single to RF (Line Drive to Short CF-RF); Outman to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Dodgers Batting, Tied 0-0, Mets' Max Scherzer facing 1-2-3 
+t1;0-0;0;---;6,(3-2) CBBFBC;O;LAD;Mookie Betts;Max Scherzer;2%;52%;Strikeout Looking
+t1;0-0;1;---;4,(2-1) BSBX;O;LAD;Freddie Freeman;Max Scherzer;2%;54%;Lineout: RF (Deep RF Line)
+t1;0-0;2;---;4,(1-2) BCFS;O;LAD;Max Muncy;Max Scherzer;1%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Dodgers' Bobby Miller facing 1-2-3 
+b1;0-0;0;---;3,(1-1) CBX;O;NYM;Brandon Nimmo;Bobby Miller;-2%;53%;Flyball: LF (Short LF-CF)
+b1;0-0;1;---;4,(1-2) CBCC;O;NYM;Francisco Lindor;Bobby Miller;-2%;51%;Strikeout Looking
+b1;0-0;2;---;3,(1-1) BCX;;NYM;Jeff McNeil;Bobby Miller;2%;53%;Double to RF (Line Drive to Deep RF Line)
+b1;0-0;2;-2-;4,(1-2) BTCX;O;NYM;Pete Alonso;Bobby Miller;-3%;50%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 0, Mets 0.
+Top of the 2nd, Dodgers Batting, Tied 0-0, Mets' Max Scherzer facing 4-5-6 
+t2;0-0;0;---;5,(2-2) BFBFS;O;LAD;J.D. Martinez;Max Scherzer;2%;52%;Strikeout Swinging
+t2;0-0;1;---;4,(1-2) BFFX;O;LAD;David Peralta;Max Scherzer;2%;54%;Flyball: RF (Short CF-RF)
+t2;0-0;2;---;1,(0-0) X;O;LAD;Jason Heyward;Max Scherzer;1%;55%;Single to 3B (Ground Ball); Heyward out at 2B/3B-2B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Dodgers 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Dodgers' Bobby Miller facing 5-6-7 
+b2;0-0;0;---;1,(0-0) X;O;NYM;Daniel Vogelbach;Bobby Miller;-2%;53%;Flyball: LF
+b2;0-0;1;---;4,(1-2) CSBS;O;NYM;Starling Marte;Bobby Miller;-2%;51%;Strikeout Swinging
+b2;0-0;2;---;1,(0-0) X;;NYM;Brett Baty;Bobby Miller;1%;52%;Single to RF (Line Drive to CF-RF)
+b2;0-0;2;1--;6,(2-2) CFBBFX;O;NYM;Mark Canha;Bobby Miller;-2%;50%;Foul Popfly: RF (1B into Foul Terr.)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 0, Mets 0.
+Top of the 3rd, Dodgers Batting, Tied 0-0, Mets' Max Scherzer facing 7-8-9 
+t3;0-0;0;---;3,(1-1) SBX;O;LAD;James Outman;Max Scherzer;3%;53%;Flyball: LF (Short LF)
+t3;0-0;1;---;1,(0-0) X;O;LAD;Miguel Rojas;Max Scherzer;2%;54%;Flyball: CF (Deep LF-CF)
+t3;0-0;2;---;5,(2-2) BBCS.C;O;LAD;Austin Barnes;Max Scherzer;1%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Mets 0.
+Bottom of the 3rd, Mets Batting, Tied 0-0, Dodgers' Bobby Miller facing 9-1-2 
+b3;0-0;0;---;3,(2-0) BBX;O;NYM;Omar Narváez;Bobby Miller;-3%;53%;Flyball: CF (Deep CF)
+b3;0-0;1;---;1,(0-0) X;O;NYM;Brandon Nimmo;Bobby Miller;-2%;51%;Flyball: CF (Deep CF)
+b3;0-0;2;---;6,(3-2) CBC.BBC;O;NYM;Francisco Lindor;Bobby Miller;-1%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Mets 0.
+Top of the 4th, Dodgers Batting, Tied 0-0, Mets' Max Scherzer facing 1-2-3 
+t4;0-0;0;---;7,(3-2) CFBBFBB;;LAD;Mookie Betts;Max Scherzer;-4%;46%;Walk
+t4;0-0;0;1--;7,(3-2) BF1BBF>F>B;;LAD;Freddie Freeman;Max Scherzer;-7%;39%;Walk; Betts to 2B
+t4;0-0;0;12-;5,(1-2) CFBFS;O;LAD;Max Muncy;Max Scherzer;6%;45%;Strikeout Swinging
+t4;0-0;1;12-;5,(3-1) BSBBX;O;LAD;J.D. Martinez;Max Scherzer;5%;51%;Foul Popfly: 1B (1B into Foul Terr.)
+t4;0-0;2;12-;3,(0-2) TFX;O;LAD;David Peralta;Max Scherzer;5%;56%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Dodgers 0, Mets 0.
+Bottom of the 4th, Mets Batting, Tied 0-0, Dodgers' Bobby Miller facing 3-4-5 
+;;;;;;;;;Jake Marisnick replaces Jason Heyward (RF) playing CF batting 6thJames Outman moves from CF to RF 
+b4;0-0;0;---;3,(2-0) ..BBX;O;NYM;Jeff McNeil;Bobby Miller;-3%;53%;Popfly: 1B (Weak 1B)
+b4;0-0;1;---;5,(0-2) CS.FFT;O;NYM;Pete Alonso;Bobby Miller;-2%;51%;Strikeout Swinging
+b4;0-0;2;---;6,(3-2) BBBCFX;O;NYM;Daniel Vogelbach;Bobby Miller;-1%;50%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Mets 0.
+Top of the 5th, Dodgers Batting, Tied 0-0, Mets' Max Scherzer facing 6-7-8 
+t5;0-0;0;---;6,(3-2) BCSBBX;O;LAD;Jake Marisnick;Max Scherzer;3%;53%;Flyball: CF (Deep CF-RF)
+t5;0-0;1;---;6,(3-2) BFCBBB;;LAD;James Outman;Max Scherzer;-3%;50%;Walk
+t5;0-0;1;1--;2,(0-1) CX;O;LAD;Miguel Rojas;Max Scherzer;4%;54%;Popfly: SS (Deep SS)
+t5;0-0;2;1--;3,(1-1) FB.X;O;LAD;Austin Barnes;Max Scherzer;3%;57%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Dodgers 0, Mets 0.
+Bottom of the 5th, Mets Batting, Tied 0-0, Dodgers' Bobby Miller facing 6-7-8 
+b5;0-0;0;---;5,(1-2) BSM.FX;;NYM;Starling Marte;Bobby Miller;5%;61%;Single to RF (Ground Ball)
+b5;0-0;0;1--;7,(3-2) 1SBBT*B>F>S;O;NYM;Brett Baty;Bobby Miller;-2%;59%;Strikeout Swinging, Marte Steals 2B
+b5;0-0;1;-2-;4,(2-1) BBCH;;NYM;Mark Canha;Bobby Miller;2%;61%;Hit By Pitch
+b5;0-0;1;12-;5,(3-1) BBBC>B;;NYM;Omar Narváez;Bobby Miller;8%;69%;Walk; Marte to 3B; Canha to 2B
+b5;0-0;1;123;6,(2-2) SFBFBX;RO;NYM;Brandon Nimmo;Bobby Miller;3%;72%;Groundout: P-1B (Weak SS-2B); Marte Scores; Canha to 3B; Narváez to 2B
+;;;;;;;;;Brusdar Graterol replaces Bobby Miller pitching
+b5;1-0;2;-23;1,(0-0) .X;O;NYM;Francisco Lindor;Brusdar Graterol;-6%;66%;Groundout: SS-1B (Deep SS-2B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Dodgers 0, Mets 1.
+Top of the 6th, Dodgers Batting, Behind 0-1, Mets' Max Scherzer facing 1-2-3 
+t6;0-1;0;---;6,(3-2) FFBBBX;O;LAD;Mookie Betts;Max Scherzer;4%;70%;Flyball: RF (Deep RF)
+t6;0-1;1;---;5,(2-2) BCBFS;O;LAD;Freddie Freeman;Max Scherzer;3%;73%;Strikeout Swinging
+t6;0-1;2;---;2,(0-1) CX;O;LAD;Max Muncy;Max Scherzer;2%;74%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Mets 1.
+Bottom of the 6th, Mets Batting, Ahead 1-0, Dodgers' Ryan Brasier facing 3-4-5 
+;;;;;;;;;Ryan Brasier replaces Brusdar Graterol pitching
+b6;1-0;0;---;4,(2-1) .BFBX;O;NYM;Jeff McNeil;Ryan Brasier;-2%;72%;Lineout: CF (Deep CF)
+b6;1-0;1;---;4,(1-2) CCBX;O;NYM;Pete Alonso;Ryan Brasier;-2%;71%;Groundout: 3B-1B (SS-3B Hole)
+b6;1-0;2;---;4,(1-2) CSBS;O;NYM;Daniel Vogelbach;Ryan Brasier;-1%;70%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Mets 1.
+Top of the 7th, Dodgers Batting, Behind 0-1, Mets' Max Scherzer facing 4-5-6 
+t7;0-1;0;---;1,(0-0) X;O;LAD;J.D. Martinez;Max Scherzer;4%;74%;Flyball: CF (Deep CF)
+t7;0-1;1;---;5,(2-2) BBCSX;O;LAD;David Peralta;Max Scherzer;3%;77%;Groundout: 1B unassisted
+t7;0-1;2;---;1,(0-0) X;O;LAD;Jake Marisnick;Max Scherzer;2%;79%;Popfly: 3B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Mets 1.
+Bottom of the 7th, Mets Batting, Ahead 1-0, Dodgers' Phil Bickford facing 6-7-8 
+;;;;;;;;;Phil Bickford replaces Ryan Brasier pitching
+b7;1-0;0;---;3,(0-2) .CTS;O;NYM;Starling Marte;Phil Bickford;-2%;77%;Strikeout Swinging
+b7;1-0;1;---;6,(3-2) BCFBBX;O;NYM;Brett Baty;Phil Bickford;-1%;76%;Flyball: LF (LF-CF)
+b7;1-0;2;---;2,(0-1) CX;;NYM;Mark Canha;Phil Bickford;1%;77%;Single to CF (Ground Ball thru SS-2B)
+b7;1-0;2;1--;3,(0-2) FF>B;;NYM;Omar Narváez;Phil Bickford;1%;78%;Canha Steals 2B
+b7;1-0;2;-2-;5,(1-2) FF>B.FX;O;NYM;Omar Narváez;Phil Bickford;-3%;75%;Flyball: SS (Short CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 0, Mets 1.
+Top of the 8th, Dodgers Batting, Behind 0-1, Mets' Trevor Gott facing 7-8-9 
+;;;;;;;;;Trevor Gott replaces Max Scherzer pitching
+t8;0-1;0;---;6,(3-2) .SBFBBB;;LAD;James Outman;Trevor Gott;-9%;66%;Walk
+t8;0-1;0;1--;2,(1-1) VF.1X;;LAD;Miguel Rojas;Trevor Gott;-13%;53%;Single to RF (Line Drive to Short CF-RF); Outman to 2B
+;;;;;;;;;Will Smith pinch hits for Austin Barnes (C) batting 9th
+t8;0-1;0;12-;2,(1-0) .BX;O;LAD;Will Smith;Trevor Gott;5%;59%;Flyball: RF (Deep RF); Outman to 3B
+t8;0-1;1;1-3;5,(3-1) BBCBX;R;LAD;Mookie Betts;Trevor Gott;-16%;43%;Single to LF (Line Drive to LF-CF); Outman Scores; Rojas to 2B
+;;;;;;;;;Brooks Raley replaces Trevor Gott pitching
+t8;1-1;1;12-;6,(3-2) .BCBFBX;O;LAD;Freddie Freeman;Brooks Raley;7%;50%;Groundout: 1B-SS/Forceout at 2B (Deep 1B); Rojas to 3B; Freeman to 1B
+t8;1-1;2;1-3;6,(3-2) BCCBB>X;O;LAD;Max Muncy;Brooks Raley;11%;61%;Foul Popfly: 3B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Dodgers 1, Mets 1.
+Bottom of the 8th, Mets Batting, Tied 1-1, Dodgers' Alex Vesia facing 1-2-3 
+;;;;;;;;;Alex Vesia replaces Phil Bickford pitchingWill Smith moves from PH to C 
+b8;1-1;0;---;1,(0-0) ..X;O;NYM;Brandon Nimmo;Alex Vesia;-5%;56%;Popfly: 2B (Weak 2B)
+b8;1-1;1;---;2,(0-1) CX;O;NYM;Francisco Lindor;Alex Vesia;-3%;53%;Groundout: 2B-1B (SS-2B)
+b8;1-1;2;---;1,(0-0) X;O;NYM;Jeff McNeil;Alex Vesia;-3%;50%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 1, Mets 1.
+Top of the 9th, Dodgers Batting, Tied 1-1, Mets' David Robertson facing 4-5-6 
+;;;;;;;;;David Robertson replaces Brooks Raley pitching
+t9;1-1;0;---;7,(3-2) .BBCFBFX;O;LAD;J.D. Martinez;David Robertson;6%;56%;Foul Popfly: 1B (1B into Foul Terr.)
+t9;1-1;1;---;2,(0-1) CX;O;LAD;David Peralta;David Robertson;4%;60%;Groundout: 1B-P
+;;;;;;;;;Chris Taylor pinch hits for Jake Marisnick (CF) batting 6th
+t9;1-1;2;---;2,(1-0) .BX;;LAD;Chris Taylor;David Robertson;-7%;53%;Double to LF (Line Drive to Deep LF Line)
+t9;1-1;2;-2-;4,(1-2) BFFT;O;LAD;James Outman;David Robertson;10%;64%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 1, Mets 1.
+Bottom of the 9th, Mets Batting, Tied 1-1, Dodgers' Evan Phillips facing 4-5-6 
+;;;;;;;;;Evan Phillips replaces Alex Vesia pitchingChris Taylor moves from PH to LF James Outman moves from RF to CF David Peralta moves from LF to RF 
+b9;1-1;0;---;5,(2-2) ....BSSBX;O;NYM;Pete Alonso;Evan Phillips;-6%;58%;Foul Popfly: 1B
+b9;1-1;1;---;6,(3-2) ABSBFB.X;;NYM;Daniel Vogelbach;Evan Phillips;5%;63%;Single to RF (Line Drive to CF-RF)
+;;;;;;;;;DJ Stewart pinch runs for Daniel Vogelbach (DH) batting 5th
+b9;1-1;1;1--;6,(3-2) .BSBBC>S;O;NYM;Starling Marte;Evan Phillips;-3%;61%;Strikeout Swinging, Stewart Steals 2B
+;;;;;;;;;Tag play Challenged by LAD manager (Dave Roberts): Original call upheld upon review.
+b9;1-1;2;-2-;1,(0-0) X;O;NYM;Brett Baty;Evan Phillips;-11%;50%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 1, Mets 1.
+Top of the 10th, Dodgers Batting, Tied 1-1, Mets' David Robertson facing 8-9-1 
+;;;;;;;;;James Outman running at second base to start the extra inning
+t10;1-1;0;-2-;6,(2-2) ..BBFSFX;O;LAD;Miguel Rojas;David Robertson;2%;52%;Flyball: CF (Deep CF); Outman to 3B
+t10;1-1;1;--3;3,(1-1) SBX;O;LAD;Will Smith;David Robertson;16%;68%;Groundout: SS-1B (Weak SS)
+t10;1-1;2;--3;3,(2-0) *BBX;O;LAD;Mookie Betts;David Robertson;13%;81%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Dodgers 1, Mets 1.
+Bottom of the 10th, Mets Batting, Tied 1-1, Dodgers' Nick Robertson facing 8-9-1 
+;;;;;;;;;Nick Robertson replaces Evan Phillips pitchingLuis Guillorme pinch hits for Mark Canha (LF) batting 8thBrett Baty running at second base to start the extra inning
+b10;1-1;0;-2-;3,(0-2) ...LLX;R;NYM;Luis Guillorme;Nick Robertson;19%;100%;Double to RF (Ground Ball); Baty Scores/unER
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Dodgers 1, Mets 2.

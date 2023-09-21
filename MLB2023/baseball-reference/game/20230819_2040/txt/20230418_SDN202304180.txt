@@ -1,0 +1,265 @@
+
+Scorebox Meta
+20230418
+6:40 p.m. Local
+42693
+Petco Park
+152
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/ATL-2023.png;/teams/ATL/2023.shtml;0;1;0;1;0;0;0;3;3;8;8;0
+https://cdn.ssref.net/req/202308101/tlogo/br/SDP-2023.png;/teams/SDP/2023.shtml;0;0;0;0;0;0;0;1;0;1;4;0
+
+Batting home
+Trent Grisham;/players/g/grishtr01.shtml;CF;4;1;1;0;0;3;4;.224;.316;.478;.793;14;12;-0.043; 0.58;0.011;-0.054;-0.02%; 0.51; -0.1;2;0;2B
+Manny Machado;/players/m/machama01.shtml;3B;4;0;1;0;0;1;4;.240;.275;.320;.595;11;8;-0.044; 0.72;0.018;-0.062;-0.02%; 0.63; 0.0;0;4;
+Juan Soto;/players/s/sotoju01.shtml;LF;2;0;1;1;2;0;4;.175;.366;.365;.731;18;7;0.083; 0.83;0.100;-0.017; 0.04%; 0.72; 0.8;7;0;
+Xander Bogaerts;/players/b/bogaexa01.shtml;SS;3;0;0;0;0;1;4;.347;.422;.556;.977;19;14;-0.035; 1.23;0.075;-0.111;-0.02%; 1.07; -0.4;0;0;HBP,GDP
+Matt Carpenter;/players/c/carpema01.shtml;DH;3;0;0;0;1;2;4;.152;.317;.273;.590;16;8;-0.069; 1.29;0.041;-0.110;-0.04%; 1.14; -0.7;;;
+Jake Cronenworth;/players/c/croneja01.shtml;1B;4;0;1;0;0;0;4;.210;.315;.419;.734;22;17;-0.122; 1.33;0.001;-0.123;-0.06%; 1.17; -0.6;6;1;2B
+Ha-Seong Kim;/players/k/kimha01.shtml;2B;3;0;0;0;0;3;4;.224;.286;.397;.682;22;12;-0.064; 1.02;0.022;-0.087;-0.03%; 0.90; -0.9;2;2;HBP
+Rougned Odor;/players/o/odorro01.shtml;RF;4;0;0;0;0;3;4;.115;.233;.192;.426;15;11;-0.095; 0.87;0.000;-0.095;-0.05%; 0.77; -1.0;2;0;
+Brett Sullivan;/players/s/sullibr01.shtml;C;3;0;0;0;0;0;3;.000;.000;.000;.000;10;6;-0.057; 0.75;0.000;-0.057;-0.03%; 0.66; -0.6;7;1;
+Blake Snell;/players/s/snellbl01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Steven Wilson;/players/w/wilsost02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nabil Crismatt;/players/c/crismna01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Reiss Knehr;/players/k/knehrre01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Trent Grisham (5, off Nick Anderson); Jake Cronenworth (4, off Kirby Yates).
+
+
+HBP: Xander Bogaerts (2, by Spencer Strider); Ha-Seong Kim (1, by Jesse Chavez).
+
+
+TB: Jake Cronenworth 2; Trent Grisham 2; Juan Soto; Manny Machado.
+
+
+GIDP: Xander Bogaerts (3).
+
+
+RBI: Juan Soto (8).
+
+
+Team LOB: 7.
+With RISP: 1 for 7.
+
+Batting away
+Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF;4;1;0;0;1;1;5;.368;.448;.553;1.001;23;11;-0.144; 0.85;0.002;-0.146;-0.10%; 1.02; -1.6;2;0;GDP
+Matt Olson;/players/o/olsonma02.shtml;1B;4;2;1;3;1;2;5;.296;.405;.648;1.053;21;11;-0.032; 0.58;0.029;-0.061;-0.02%; 0.70; 2.1;5;0;HR
+Austin Riley;/players/r/rileyau01.shtml;3B;5;0;0;0;0;3;5;.294;.383;.500;.883;29;18;-0.054; 0.44;0.000;-0.054;-0.04%; 0.53; -0.9;0;1;
+Sean Murphy;/players/m/murphse01.shtml;C;4;3;2;1;1;0;5;.275;.431;.647;1.078;17;9;0.152; 0.59;0.164;-0.012; 0.11%; 0.71; 1.5;13;0;HR
+Ozzie Albies;/players/a/albieoz01.shtml;2B;4;1;1;3;0;0;4;.250;.276;.431;.707;17;10;0.034; 0.89;0.095;-0.061; 0.03%; 1.07; 1.7;2;5;HR
+Vaughn Grissom;/players/g/grissva01.shtml;SS;3;0;1;0;0;0;4;.316;.381;.368;.749;13;8;0.047; 0.59;0.060;-0.014; 0.03%; 0.72; 0.5;1;1;HBP
+Kevin Pillar;/players/p/pillake01.shtml;LF;4;0;1;1;0;1;4;.231;.259;.269;.528;12;8;0.116; 0.84;0.147;-0.031; 0.08%; 1.02; 0.9;3;0;2B
+Marcell Ozuna;/players/o/ozunama01.shtml;DH;3;0;0;0;1;0;4;.085;.204;.234;.438;20;12;-0.065; 0.73;0.027;-0.092;-0.05%; 0.89; -0.9;;;
+Eli White;/players/w/whiteel04.shtml;CF;1;0;0;0;1;0;2;.091;.286;.091;.377;10;3;-0.015; 1.47;0.039;-0.054;-0.01%; 1.77; 0.0;0;0;
+Sam Hilliard;/players/h/hillisa01.shtml;PH-CF;2;1;2;0;0;0;2;.345;.457;.552;1.009;5;3;0.014; 0.30;0.014;0.000; 0.01%; 0.37; 0.5;0;0;
+Spencer Strider;/players/s/stridsp01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Jesse Chavez;/players/c/chaveje01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nick Anderson;/players/a/anderni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kirby Yates;/players/y/yateski01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Kevin Pillar (1, off Blake Snell).
+
+
+HR: Sean Murphy (4, off Blake Snell, 4th inn, 0 on, 0 outs to Deep LF); Ozzie Albies (4, off Nabil Crismatt, 8th inn, 2 on, 1 out to Deep CF); Matt Olson (6, off Reiss Knehr, 9th inn, 2 on, 1 out to Deep RF).
+
+
+HBP: Vaughn Grissom (1, by Nabil Crismatt).
+
+
+TB: Sean Murphy 5; Ozzie Albies 4; Matt Olson 4; Kevin Pillar 2; Sam Hilliard 2; Vaughn Grissom.
+
+
+GIDP: Ronald Acuna Jr. (2).
+
+
+RBI: Matt Olson 3 (20); Ozzie Albies 3 (14); Kevin Pillar (2); Sean Murphy (14).
+
+
+Team LOB: 5.
+With RISP: 3 for 8.
+
+Pitching home
+Blake Snell;/players/s/snellbl01.shtml; L (0-3); 5 ;3;2;2;3;5;1;6.00;20;95;54;31;14;9;3;9;4;0;55;;;0.001; 0.97; 0.00%; 0.85; 0.5
+Steven Wilson;/players/w/wilsost02.shtml;Steven Wilson; 1 ;0;0;0;0;0;0;0.77;3;11;8;5;0;3;1;2;0;0;;0;0;0.037; 0.48; 0.02%; 0.42; 0.5
+Nabil Crismatt;/players/c/crismna01.shtml;Nabil Crismatt; 2 ;3;3;3;1;2;1;10.80;11;44;23;14;3;6;3;4;1;0;;0;0;-0.078; 0.63;-0.04%; 0.55; -2.0
+Reiss Knehr;/players/k/knehrre01.shtml;Reiss Knehr; 1 ;2;3;3;1;0;1;9.00;6;17;8;6;1;1;2;3;1;0;;0;0;-0.013; 0.04;-0.01%; 0.03; -2.5
+
+Pitching away
+Spencer Strider;/players/s/stridsp01.shtml; W (2-0); 6 ;1;0;0;3;9;0;2.45;22;98;63;27;16;20;5;4;3;0;76;;;0.360; 1.23; 0.26%; 1.49; 2.9
+Jesse Chavez;/players/c/chaveje01.shtml; H (7); 1 ;0;0;0;0;2;0;0.00;4;18;11;4;2;5;1;0;0;0;;0;0;0.080; 1.14; 0.06%; 1.38; 0.5
+Nick Anderson;/players/a/anderni01.shtml;Nick Anderson; 1 ;2;1;1;0;0;0;3.12;5;16;11;8;0;3;3;2;1;0;;0;0;0.006; 0.41; 0.00%; 0.49; -0.5
+Kirby Yates;/players/y/yateski01.shtml;Kirby Yates; 1 ;1;0;0;0;2;0;4.05;4;15;10;6;2;2;0;2;1;0;;0;0;0.001; 0.02; 0.00%; 0.03; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Spencer Strider (1; Xander Bogaerts); Nabil Crismatt (1; Vaughn Grissom); Jesse Chavez (1; Ha-Seong Kim).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Spencer Strider (1; Xander Bogaerts); Nabil Crismatt (1; Vaughn Grissom); Jesse Chavez (1; Ha-Seong Kim).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Chad Whitson, 1B - Roberto Ortiz, 2B - Rob Drake, 3B - Bill Miller, LF - (none), RF - (none).
+Time of Game: 2:32.
+Attendance: 42,693.
+Field Condition: Unknown.
+Start Time Weather: 60° F, Wind 9mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Braves
+1;Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF
+2;Matt Olson;/players/o/olsonma02.shtml;1B
+3;Austin Riley;/players/r/rileyau01.shtml;3B
+4;Sean Murphy;/players/m/murphse01.shtml;C
+5;Ozzie Albies;/players/a/albieoz01.shtml;2B
+6;Vaughn Grissom;/players/g/grissva01.shtml;SS
+7;Kevin Pillar;/players/p/pillake01.shtml;LF
+8;Marcell Ozuna;/players/o/ozunama01.shtml;DH
+9;Eli White;/players/w/whiteel04.shtml;CF
+; Spencer Strider;/players/s/stridsp01.shtml;P
+Padres
+1;Trent Grisham;/players/g/grishtr01.shtml;CF
+2;Manny Machado;/players/m/machama01.shtml;3B
+3;Juan Soto;/players/s/sotoju01.shtml;LF
+4;Xander Bogaerts;/players/b/bogaexa01.shtml;SS
+5;Matt Carpenter;/players/c/carpema01.shtml;DH
+6;Jake Cronenworth;/players/c/croneja01.shtml;1B
+7;Ha-Seong Kim;/players/k/kimha01.shtml;2B
+8;Rougned Odor;/players/o/odorro01.shtml;RF
+9;Brett Sullivan;/players/s/sullibr01.shtml;C
+; Blake Snell;/players/s/snellbl01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;0-0;1;12-;3,(0-2) SSX;R;ATL;Kevin Pillar;Blake Snell;15%;69%;Ground-rule Double (Line Drive to Deep LF Line); Murphy Scores; Grissom to 3B
+t4;1-0;0;---;4,(2-1) BCBX;R;ATL;Sean Murphy;Blake Snell;11%;74%;Home Run (Fly Ball to Deep LF)
+t8;2-0;1;12-;6,(3-2) B*BBCSX;RRR;ATL;Ozzie Albies;Nabil Crismatt;10%;98%;Home Run (Fly Ball to Deep CF); Olson Scores; Murphy Scores
+b6;0-2;1;1--;4,(1-2) BCSX;OO;SDP;Xander Bogaerts;Spencer Strider;8%;82%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b4;0-2;0;1--;4,(1-2) CS.BH;;SDP;Xander Bogaerts;Spencer Strider;-8%;57%;Hit By Pitch; Soto to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Braves Batting, Tied 0-0, Padres' Blake Snell facing 1-2-3 
+t1;0-0;0;---;7,(2-2) BCBCFFS;O;ATL;Ronald Acuna Jr.;Blake Snell;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;3,(0-2) SC.X;O;ATL;Matt Olson;Blake Snell;-2%;46%;Flyball: RF (Deep CF-RF)
+t1;0-0;2;---;5,(2-2) CFBBS;O;ATL;Austin Riley;Blake Snell;-1%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Padres 0.
+Bottom of the 1st, Padres Batting, Tied 0-0, Braves' Spencer Strider facing 1-2-3 
+b1;0-0;0;---;7,(2-2) BFCFBFS;O;SDP;Trent Grisham;Spencer Strider;2%;47%;Strikeout Swinging
+b1;0-0;1;---;3,(1-1) BFX;O;SDP;Manny Machado;Spencer Strider;2%;49%;Groundout: P unassisted (Short 1B Line)
+b1;0-0;2;---;4,(3-0) .BBBB;;SDP;Juan Soto;Spencer Strider;-1%;48%;Walk
+b1;0-0;2;1--;4,(0-2) CCF1S;O;SDP;Xander Bogaerts;Spencer Strider;2%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Braves 0, Padres 0.
+Top of the 2nd, Braves Batting, Tied 0-0, Padres' Blake Snell facing 4-5-6 
+t2;0-0;0;---;6,(3-2) BBCSBB;;ATL;Sean Murphy;Blake Snell;4%;54%;Walk
+t2;0-0;0;1--;6,(2-2) SF*B*BFX;O;ATL;Ozzie Albies;Blake Snell;-4%;50%;Flyball: RF (Deep RF)
+t2;0-0;1;1--;2,(0-1) CX;;ATL;Vaughn Grissom;Blake Snell;4%;54%;Single to CF (Line Drive to Short CF); Murphy to 2B
+t2;0-0;1;12-;3,(0-2) SSX;R;ATL;Kevin Pillar;Blake Snell;15%;69%;Ground-rule Double (Line Drive to Deep LF Line); Murphy Scores; Grissom to 3B
+t2;1-0;1;-23;7,(2-2) BFFFFBX;O;ATL;Marcell Ozuna;Blake Snell;-7%;62%;Flyball: LF (Deep SS)
+t2;1-0;2;-23;6,(3-2) BF*BFBX;O;ATL;Eli White;Blake Snell;-5%;56%;Lineout: CF (Deep CF-RF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Braves 1, Padres 0.
+Bottom of the 2nd, Padres Batting, Behind 0-1, Braves' Spencer Strider facing 5-6-7 
+b2;0-1;0;---;5,(3-1) BBCBB;;SDP;Matt Carpenter;Spencer Strider;-4%;52%;Walk
+b2;0-1;0;1--;6,(0-2) CSFF.FX;O;SDP;Jake Cronenworth;Spencer Strider;4%;56%;Lineout: LF
+b2;0-1;1;1--;7,(3-2) CSBBBF1S;O;SDP;Ha-Seong Kim;Spencer Strider;3%;59%;Strikeout Swinging
+b2;0-1;2;1--;5,(2-2) CCB*BS;O;SDP;Rougned Odor;Spencer Strider;3%;62%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Braves 1, Padres 0.
+Top of the 3rd, Braves Batting, Ahead 1-0, Padres' Blake Snell facing 1-2-3 
+t3;1-0;0;---;4,(2-1) BFBX;O;ATL;Ronald Acuna Jr.;Blake Snell;-2%;59%;Groundout: 1B-P (2B-1B)
+t3;1-0;1;---;6,(3-2) SBBSBC;O;ATL;Matt Olson;Blake Snell;-2%;58%;Strikeout Looking
+t3;1-0;2;---;9,(3-2) SFBFFFBBT;O;ATL;Austin Riley;Blake Snell;-1%;57%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 1, Padres 0.
+Bottom of the 3rd, Padres Batting, Behind 0-1, Braves' Spencer Strider facing 9-1-2 
+b3;0-1;0;---;4,(2-1) BBCX;O;SDP;Brett Sullivan;Spencer Strider;3%;60%;Lineout: LF (Deep LF Line)
+b3;0-1;1;---;3,(0-2) CSS;O;SDP;Trent Grisham;Spencer Strider;2%;61%;Strikeout Swinging
+b3;0-1;2;---;5,(2-2) CBF.BS;O;SDP;Manny Machado;Spencer Strider;1%;63%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 1, Padres 0.
+Top of the 4th, Braves Batting, Ahead 1-0, Padres' Blake Snell facing 4-5-6 
+t4;1-0;0;---;4,(2-1) BCBX;R;ATL;Sean Murphy;Blake Snell;11%;74%;Home Run (Fly Ball to Deep LF)
+t4;2-0;0;---;4,(2-1) BBFX;O;ATL;Ozzie Albies;Blake Snell;-2%;72%;Flyball: LF (LF-CF)
+t4;2-0;1;---;3,(1-1) BSX;O;ATL;Vaughn Grissom;Blake Snell;-1%;71%;Groundout: 3B-1B (SS-3B Hole)
+t4;2-0;2;---;1,(0-0) X;O;ATL;Kevin Pillar;Blake Snell;-1%;70%;Lineout: LF (Deep LF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Braves 2, Padres 0.
+Bottom of the 4th, Padres Batting, Behind 0-2, Braves' Spencer Strider facing 3-4-5 
+b4;0-2;0;---;7,(3-2) FF.BBFBB;;SDP;Juan Soto;Spencer Strider;-5%;65%;Walk
+b4;0-2;0;1--;4,(1-2) CS.BH;;SDP;Xander Bogaerts;Spencer Strider;-8%;57%;Hit By Pitch; Soto to 2B
+b4;0-2;0;12-;4,(1-2) *S*B*SS;O;SDP;Matt Carpenter;Spencer Strider;7%;65%;Strikeout Swinging
+b4;0-2;1;12-;7,(2-2) BCBFF.FX;O;SDP;Jake Cronenworth;Spencer Strider;6%;70%;Lineout: RF (Deep CF-RF)
+b4;0-2;2;12-;6,(3-2) BBCT.B>S;O;SDP;Ha-Seong Kim;Spencer Strider;5%;76%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Braves 2, Padres 0.
+Top of the 5th, Braves Batting, Ahead 2-0, Padres' Blake Snell facing 8-9-1 
+t5;2-0;0;---;5,(3-1) BFBBB;;ATL;Marcell Ozuna;Blake Snell;3%;78%;Walk
+t5;2-0;0;1--;4,(3-0) BB*BB;;ATL;Eli White;Blake Snell;4%;82%;Walk; Ozuna to 2B
+t5;2-0;0;12-;4,(2-1) BSBX;OO;ATL;Ronald Acuna Jr.;Blake Snell;-7%;75%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole); Ozuna to 3B
+t5;2-0;2;--3;6,(3-2) BCB*BSS;O;ATL;Matt Olson;Blake Snell;-3%;72%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Braves 2, Padres 0.
+Bottom of the 5th, Padres Batting, Behind 0-2, Braves' Spencer Strider facing 8-9-1 
+b5;0-2;0;---;2,(0-1) CX;O;SDP;Rougned Odor;Spencer Strider;3%;75%;Flyball: RF (Deep CF-RF)
+b5;0-2;1;---;1,(0-0) X;O;SDP;Brett Sullivan;Spencer Strider;2%;77%;Groundout: 2B-1B (Deep 2B)
+b5;0-2;2;---;3,(0-2) CF.S;O;SDP;Trent Grisham;Spencer Strider;1%;79%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 2, Padres 0.
+Top of the 6th, Braves Batting, Ahead 2-0, Padres' Steven Wilson facing 3-4-5 
+;;;;;;;;;Steven Wilson replaces Blake Snell pitching
+t6;2-0;0;---;6,(2-2) .BCFBFX;O;ATL;Austin Riley;Steven Wilson;-2%;77%;Groundout: 2B-1B (SS-2B)
+t6;2-0;1;---;4,(1-2) CBCX;O;ATL;Sean Murphy;Steven Wilson;-1%;76%;Flyball: LF (LF Line)
+t6;2-0;2;---;1,(0-0) X;O;ATL;Ozzie Albies;Steven Wilson;-1%;75%;Flyball: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 2, Padres 0.
+Bottom of the 6th, Padres Batting, Behind 0-2, Braves' Spencer Strider facing 2-3-4 
+b6;0-2;0;---;2,(0-1) CX;O;SDP;Manny Machado;Spencer Strider;3%;78%;Groundout: SS-1B (SS-3B Hole)
+b6;0-2;1;---;5,(2-2) CBCBX;;SDP;Juan Soto;Spencer Strider;-4%;74%;Single to 2B (Ground Ball)
+b6;0-2;1;1--;4,(1-2) BCSX;OO;SDP;Xander Bogaerts;Spencer Strider;8%;82%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Braves 2, Padres 0.
+Top of the 7th, Braves Batting, Ahead 2-0, Padres' Nabil Crismatt facing 6-7-8 
+;;;;;;;;;Nabil Crismatt replaces Steven Wilson pitching
+t7;2-0;0;---;6,(3-2) .BCBFBH;;ATL;Vaughn Grissom;Nabil Crismatt;2%;84%;Hit By Pitch
+t7;2-0;0;1--;6,(3-2) 1LFBP*BC+1;O;ATL;Kevin Pillar;Nabil Crismatt;-2%;82%;Strikeout
+t7;2-0;1;1--;3,(0-2) CFX;O;ATL;Marcell Ozuna;Nabil Crismatt;-2%;80%;Flyball: LF (Short LF-CF)
+;;;;;;;;;Sam Hilliard pinch hits for Eli White (CF) batting 9th
+t7;2-0;2;1--;2,(1-0) .1*BX;;ATL;Sam Hilliard;Nabil Crismatt;1%;82%;Single to RF (Line Drive to Short RF); Grissom to 2B
+t7;2-0;2;12-;4,(2-1) *BBFX;O;ATL;Ronald Acuna Jr.;Nabil Crismatt;-3%;79%;Groundout: 3B-2B/Forceout at 2B; Acuña to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Braves 2, Padres 0.
+Bottom of the 7th, Padres Batting, Behind 0-2, Braves' Jesse Chavez facing 5-6-7 
+;;;;;;;;;Jesse Chavez replaces Spencer Strider pitchingSam Hilliard moves from PH to CF 
+b7;0-2;0;---;5,(2-2) ..CSBBC;O;SDP;Matt Carpenter;Jesse Chavez;4%;83%;Strikeout Looking
+b7;0-2;1;---;4,(1-2) CFBX;O;SDP;Jake Cronenworth;Jesse Chavez;3%;85%;Groundout: 2B-1B
+b7;0-2;2;---;4,(1-2) CBCH;;SDP;Ha-Seong Kim;Jesse Chavez;-2%;83%;Hit By Pitch
+b7;0-2;2;1--;5,(2-2) F1FBB>*S;O;SDP;Rougned Odor;Jesse Chavez;4%;87%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Braves 2, Padres 0.
+Top of the 8th, Braves Batting, Ahead 2-0, Padres' Nabil Crismatt facing 2-3-4 
+t8;2-0;0;---;5,(3-1) BBBCB;;ATL;Matt Olson;Nabil Crismatt;2%;89%;Walk
+t8;2-0;0;1--;7,(3-2) BCSFBBS;O;ATL;Austin Riley;Nabil Crismatt;-2%;87%;Strikeout Swinging
+t8;2-0;1;1--;1,(0-0) X;;ATL;Sean Murphy;Nabil Crismatt;2%;89%;Single to LF (Ground Ball); Olson to 2B
+t8;2-0;1;12-;6,(3-2) B*BBCSX;RRR;ATL;Ozzie Albies;Nabil Crismatt;10%;98%;Home Run (Fly Ball to Deep CF); Olson Scores; Murphy Scores
+t8;5-0;1;---;2,(0-1) FX;O;ATL;Vaughn Grissom;Nabil Crismatt;0%;98%;Groundout: C-1B
+t8;5-0;2;---;2,(1-0) BX;O;ATL;Kevin Pillar;Nabil Crismatt;0%;98%;Flyball: LF (Deep LF)
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Braves 5, Padres 0.
+Bottom of the 8th, Padres Batting, Behind 0-5, Braves' Nick Anderson facing 9-1-2 
+;;;;;;;;;Nick Anderson replaces Jesse Chavez pitching
+b8;0-5;0;---;5,(2-2) .BBFC.X;O;SDP;Brett Sullivan;Nick Anderson;1%;99%;Groundout: 2B-1B
+b8;0-5;1;---;1,(0-0) X;;SDP;Trent Grisham;Nick Anderson;-1%;98%;Double to RF (Line Drive to Deep RF Line)
+b8;0-5;1;-2-;1,(0-0) X;;SDP;Manny Machado;Nick Anderson;-2%;96%;Single to RF (Ground Ball thru 2B-1B); Grisham to 3B
+b8;0-5;1;1-3;2,(1-0) BX;RO;SDP;Juan Soto;Nick Anderson;2%;98%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Grisham Scores; Soto to 1B
+b8;1-5;2;1--;7,(2-2) BC1CBFFX;O;SDP;Xander Bogaerts;Nick Anderson;1%;99%;Flyball: LF (Short LF-CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Braves 5, Padres 1.
+Top of the 9th, Braves Batting, Ahead 5-1, Padres' Reiss Knehr facing 8-9-1 
+;;;;;;;;;Reiss Knehr replaces Nabil Crismatt pitching
+t9;5-1;0;---;5,(2-2) .CBSBX;O;ATL;Marcell Ozuna;Reiss Knehr;0%;98%;Groundout: 3B-1B
+t9;5-1;1;---;3,(1-1) FBX;;ATL;Sam Hilliard;Reiss Knehr;0%;99%;Single to RF (Line Drive to CF-RF)
+t9;5-1;1;1--;4,(3-0) BBBB;;ATL;Ronald Acuna Jr.;Reiss Knehr;0%;99%;Walk; Hilliard to 2B
+t9;5-1;1;12-;1,(0-0) X;RRR;ATL;Matt Olson;Reiss Knehr;1%;100%;Home Run (Fly Ball to Deep RF); Hilliard Scores; Acuña Scores
+t9;8-1;1;---;2,(1-0) BX;O;ATL;Austin Riley;Reiss Knehr;0%;100%;Flyball: CF (Deep LF-CF)
+t9;8-1;2;---;2,(1-0) BX;O;ATL;Sean Murphy;Reiss Knehr;0%;100%;Groundout: P-1B (Weak 3B)
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Braves 8, Padres 1.
+Bottom of the 9th, Padres Batting, Behind 1-8, Braves' Kirby Yates facing 5-6-7 
+;;;;;;;;;Kirby Yates replaces Nick Anderson pitching
+b9;1-8;0;---;2,(1-0) .BX;O;SDP;Matt Carpenter;Kirby Yates;0%;100%;Popfly: 2B (2B-1B)
+b9;1-8;1;---;5,(2-2) BBFFX;;SDP;Jake Cronenworth;Kirby Yates;0%;100%;Double to RF (Line Drive to Deep RF Line)
+b9;1-8;1;-2-;5,(2-2) CFBBS;O;SDP;Ha-Seong Kim;Kirby Yates;0%;100%;Strikeout Swinging
+b9;1-8;2;-2-;3,(0-2) CF*S;O;SDP;Rougned Odor;Kirby Yates;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 8, Padres 1.

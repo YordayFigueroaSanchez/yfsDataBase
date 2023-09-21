@@ -1,0 +1,286 @@
+
+Scorebox Meta
+20230624
+4:15 p.m. Local
+49218
+Dodger Stadium
+171
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/HOU-2023.png;/teams/HOU/2023.shtml;0;0;1;0;5;1;0;0;0;7;13;0
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;3;0;0;0;0;0;2;3;X;8;5;0
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;RF-2B;4;0;0;0;0;1;4;.257;.353;.503;.857;9;6;-0.117; 1.04;0.000;-0.117;-0.09%; 1.34; -1.1;2;1;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;3;1;0;0;1;1;4;.316;.397;.545;.941;18;9;0.031; 0.92;0.080;-0.049; 0.02%; 1.18; -0.2;8;0;
+Will Smith;/players/s/smithwi05.shtml;C;3;2;1;1;1;1;4;.292;.407;.508;.914;25;15;0.198; 1.08;0.220;-0.022; 0.15%; 1.39; 1.3;8;2;HR
+J.D. Martinez;/players/m/martijd02.shtml;DH;2;1;0;0;2;0;4;.254;.302;.560;.862;19;9;0.137; 1.38;0.161;-0.024; 0.11%; 1.77; 0.6;;;
+Jonny Deluca;/players/d/delucjo01.shtml;PR-DH-DH;0;1;0;0;0;0;0;.190;.227;.238;.465;;;0.240; 3.87;0.240;0.000; 0.18%; 4.97; 0.8;;;
+Jason Heyward;/players/h/heywaja01.shtml;LF-RF;2;2;1;3;0;0;4;.241;.339;.468;.807;13;7;0.151; 1.75;0.191;-0.040; 0.12%; 2.25; 1.9;3;0;HR,HBP,SF
+James Outman;/players/o/outmaja01.shtml;CF;4;0;1;1;0;2;4;.240;.325;.434;.760;23;13;0.232; 1.73;0.278;-0.047; 0.18%; 2.22; 0.6;1;0;2B
+Miguel Vargas;/players/v/vargami01.shtml;2B;2;0;0;0;0;0;2;.202;.303;.378;.680;6;6;-0.040; 0.77;0.000;-0.040;-0.03%; 0.98; -0.5;3;4;
+David Peralta;/players/p/peralda01.shtml;PH-LF;2;1;1;2;0;1;2;.267;.308;.407;.715;7;5;-0.051; 1.99;0.110;-0.161;-0.04%; 2.56; 0.9;0;0;HR
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;3;0;0;0;1;1;4;.233;.275;.277;.552;15;10;-0.051; 0.80;0.005;-0.056;-0.04%; 1.02; -0.4;1;1;
+Michael Busch;/players/b/buschmi02.shtml;3B;3;0;1;0;1;1;4;.220;.319;.293;.612;27;18;0.010; 0.62;0.050;-0.040; 0.01%; 0.80; -0.3;1;1;2B
+Bobby Miller;/players/m/millebo06.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yency Almonte;/players/a/almonye01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Brasier;/players/b/brasiry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Phil Bickford;/players/b/bickfph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Evan Phillips;/players/p/phillev01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Michael Busch (3, off Phil Maton); James Outman (10, off Bryan Abreu).
+
+
+HR: Will Smith (11, off Ronel Blanco, 1st inn, 0 on, 2 outs to Deep LF Line); Jason Heyward (8, off Ronel Blanco, 1st inn, 1 on, 2 outs to Deep RF); David Peralta (5, off Phil Maton, 7th inn, 1 on, 1 out to Deep RF).
+
+
+SF: Jason Heyward (2, off Bryan Abreu).
+
+
+HBP: Jason Heyward (2, by Phil Maton).
+
+
+TB: Will Smith 4; Jason Heyward 4; David Peralta 4; James Outman 2; Michael Busch 2.
+
+
+RBI: Jason Heyward 3 (17); David Peralta 2 (28); Will Smith (39); James Outman (34).
+
+
+2-out RBI: Jason Heyward 2; Will Smith.
+
+
+Team LOB: 4.
+With RISP: 1 for 4.
+
+Batting away
+Jose Altuve;/players/a/altuvjo01.shtml;2B;5;2;3;1;0;1;5;.263;.351;.424;.775;18;11;0.163; 1.11;0.196;-0.033; 0.11%; 1.20; 1.7;0;1;SB
+Alex Bregman;/players/b/bregmal01.shtml;3B;5;1;2;4;0;0;5;.249;.344;.410;.754;19;13;0.253; 1.19;0.311;-0.058; 0.17%; 1.29; 2.4;1;2;HR,2B
+Kyle Tucker;/players/t/tuckeky01.shtml;RF;2;1;1;0;3;0;5;.275;.355;.442;.797;15;7;0.150; 1.23;0.160;-0.011; 0.10%; 1.33; 1.0;2;0;IW
+José Abreu;/players/a/abreujo02.shtml;1B;4;0;2;1;0;0;5;.229;.281;.314;.595;13;11;-0.181; 1.91;0.120;-0.301;-0.12%; 2.08; -0.0;6;1;2B,SF,GDP
+Yainer Diaz;/players/d/diazya02.shtml;C;5;0;2;1;0;1;5;.276;.289;.512;.801;17;13;-0.045; 1.10;0.115;-0.159;-0.03%; 1.20; -0.3;8;0;2B,GDP
+Jeremy Peña;/players/p/penaje02.shtml;SS;4;0;1;0;0;3;4;.245;.305;.397;.702;16;10;-0.075; 0.69;0.011;-0.086;-0.05%; 0.75; -1.2;2;1;
+Bligh Madris;/players/m/madribl01.shtml;DH;3;0;0;0;1;2;4;.000;.250;.000;.250;17;9;-0.052; 0.83;0.013;-0.065;-0.03%; 0.90; -0.4;;;
+Corey Julks;/players/j/julksco01.shtml;LF;4;1;1;0;0;1;4;.253;.294;.389;.683;11;7;-0.059; 0.85;0.048;-0.106;-0.04%; 0.93; -1.6;1;0;GDP
+Jake Meyers;/players/m/meyerja02.shtml;CF;3;2;1;0;1;1;4;.225;.306;.385;.691;13;7;0.085; 0.88;0.111;-0.026; 0.06%; 0.95; 0.5;3;0;2B
+Ronel Blanco;/players/b/blancro01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Phil Maton;/players/m/matonph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Hector Neris;/players/n/nerishe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Abreu;/players/a/abreubr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryne Stanek;/players/s/stanery01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jake Meyers (10, off Bobby Miller); Yainer Diaz (9, off Bobby Miller); José Abreu (12, off Bobby Miller); Alex Bregman (10, off Ryan Brasier).
+
+
+HR: Alex Bregman (11, off Bobby Miller, 5th inn, 3 on, 0 outs to Deep LF Line).
+
+
+SF: José Abreu (4, off Ryan Brasier).
+
+
+IBB: Kyle Tucker (3, by Ryan Brasier).
+
+
+TB: Alex Bregman 6; Jose Altuve 3; Yainer Diaz 3; José Abreu 3; Jake Meyers 2; Jeremy Peña; Kyle Tucker; Corey Julks.
+
+
+GIDP: Yainer Diaz (8); José Abreu (9); Corey Julks (2).
+
+
+RBI: Alex Bregman 4 (48); Yainer Diaz (16); José Abreu (34); Jose Altuve (11).
+
+
+Team LOB: 7.
+With RISP: 4 for 11.
+
+Pitching home
+Bobby Miller;/players/m/millebo06.shtml;Bobby Miller; 4 ;10;6;6;3;3;1;4.13;23;80;48;32;6;10;7;10;5;0;18;;;-0.516; 1.21;-0.40%; 1.55; -5.2
+Yency Almonte;/players/a/almonye01.shtml;Yency Almonte; 1 ;0;0;0;1;1;0;5.85;3;12;5;2;2;1;1;0;0;0;;2;0;0.098; 1.00; 0.07%; 1.29; 1.9
+Ryan Brasier;/players/b/brasiry01.shtml;Ryan Brasier; 1 ;2;1;1;1;1;0;6.94;6;14;11;4;4;3;1;3;2;0;;0;0;-0.039; 0.65;-0.03%; 0.83; -0.5
+Phil Bickford;/players/b/bickfph01.shtml; W (2-2); 2 ;0;0;0;0;4;0;6.83;6;25;17;6;4;7;1;1;0;0;;0;0;0.046; 0.30; 0.04%; 0.38; 1.1
+Evan Phillips;/players/p/phillev01.shtml; S (10); 1 ;1;0;0;0;0;0;2.05;3;8;7;3;1;3;2;1;0;0;;0;0;0.172; 2.98; 0.13%; 3.83; 0.5
+
+Pitching away
+Ronel Blanco;/players/b/blancro01.shtml;Ronel Blanco; 6 ;2;3;3;2;6;2;4.63;22;99;66;43;15;8;6;8;1;0;60;;;-0.021; 0.54;-0.01%; 0.58; 0.3
+Phil Maton;/players/m/matonph01.shtml;Phil Maton; 0.2;2;2;2;0;0;1;1.91;5;12;8;6;1;1;0;4;0;0;;0;0;-0.119; 0.97;-0.08%; 1.05; -1.8
+Hector Neris;/players/n/nerishe01.shtml; H (15); 0.1;0;0;0;0;0;0;1.15;1;2;1;1;0;0;0;1;0;0;;1;0;0.052; 1.79; 0.03%; 1.95; 0.3
+Bryan Abreu;/players/a/abreubr01.shtml; L (2-2); 0.1;1;3;3;3;0;0;2.75;5;30;13;6;0;7;0;2;1;0;;0;0;-0.601; 3.83;-0.39%; 4.17; -2.9
+Ryne Stanek;/players/s/stanery01.shtml;Ryne Stanek; 0.2;0;0;0;1;2;0;4.38;3;19;10;7;3;0;0;0;0;0;;2;1;-0.051; 2.27;-0.03%; 2.46; 0.5
+
+indiv_events
+
+Balks: Ryne Stanek (1).
+WP: None.
+HBP: Phil Maton (6; Jason Heyward).
+IBB: Ryan Brasier (1; Kyle Tucker).
+Pickoffs: None.
+
+Balks: Ryne Stanek (1).
+WP: None.
+HBP: Phil Maton (6; Jason Heyward).
+IBB: Ryan Brasier (1; Kyle Tucker).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Manny Gonzalez, 1B - Quinn Wolcott, 2B - Junior Valentine, 3B - Jose Navas, LF - (none), RF - (none).
+Time of Game: 2:51.
+Attendance: 49,218.
+Field Condition: Unknown.
+Start Time Weather: 76° F, Wind 6mph out to Rightfield, Sunny, No Precipitation.
+
+div_lineups
+Astros
+1;Jose Altuve;/players/a/altuvjo01.shtml;2B
+2;Alex Bregman;/players/b/bregmal01.shtml;3B
+3;Kyle Tucker;/players/t/tuckeky01.shtml;RF
+4;José Abreu;/players/a/abreujo02.shtml;1B
+5;Yainer Diaz;/players/d/diazya02.shtml;C
+6;Jeremy Peña;/players/p/penaje02.shtml;SS
+7;Bligh Madris;/players/m/madribl01.shtml;DH
+8;Corey Julks;/players/j/julksco01.shtml;LF
+9;Jake Meyers;/players/m/meyerja02.shtml;CF
+; Ronel Blanco;/players/b/blancro01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;RF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;C
+4;J.D. Martinez;/players/m/martijd02.shtml;DH
+5;Jason Heyward;/players/h/heywaja01.shtml;LF
+6;James Outman;/players/o/outmaja01.shtml;CF
+7;Miguel Vargas;/players/v/vargami01.shtml;2B
+8;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+9;Michael Busch;/players/b/buschmi02.shtml;3B
+; Bobby Miller;/players/m/millebo06.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b8;6-7;1;1-3;5,(3-1) BBC.BX;R;LAD;James Outman;Bryan Abreu;28%;78%;Ground-rule Double (Fly Ball to Deep RF); Smith Scores; Deluca to 3B
+t5;1-3;0;123;5,(2-2) FBF*BX;RRRR;HOU;Alex Bregman;Bobby Miller;-27%;26%;Home Run (Fly Ball to Deep LF Line); Julks Scores; Meyers Scores; Altuve Scores
+t9;7-8;0;1--;2,(0-1) CX;OO;HOU;José Abreu;Evan Phillips;25%;96%;Ground Ball Double Play: P-2B-1B
+b8;7-7;2;-23;5,(3-2) BFF*BBN;R;LAD;Miguel Rojas;Ryne Stanek;24%;86%;Balk; Deluca Scores/No RBI; Outman to 3B
+b8;7-7;1;-23;6,(2-2) .*BSF.FBS;O;LAD;David Peralta;Ryne Stanek;-16%;62%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Astros Batting, Tied 0-0, Dodgers' Bobby Miller facing 1-2-3 
+t1;0-0;0;---;5,(3-1) BBCBX;O;HOU;Jose Altuve;Bobby Miller;2%;52%;Flyball: RF (Short RF)
+t1;0-0;1;---;5,(2-2) BCBFX;O;HOU;Alex Bregman;Bobby Miller;2%;54%;Foul Popfly: 1B (1B into Foul Terr.)
+t1;0-0;2;---;2,(0-1) TX;O;HOU;Kyle Tucker;Bobby Miller;1%;55%;Flyball: LF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 0, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Tied 0-0, Astros' Ronel Blanco facing 1-2-3 
+b1;0-0;0;---;2,(1-0) BX;O;LAD;Mookie Betts;Ronel Blanco;-2%;53%;Flyball: LF (Deep LF Line)
+b1;0-0;1;---;1,(0-0) X;O;LAD;Freddie Freeman;Ronel Blanco;-2%;51%;Groundout: 1B-P
+b1;0-0;2;---;4,(2-1) BCBX;R;LAD;Will Smith;Ronel Blanco;10%;61%;Home Run (Fly Ball to Deep LF Line)
+b1;1-0;2;---;7,(3-2) BBCSBFB;;LAD;J.D. Martinez;Ronel Blanco;1%;62%;Walk
+b1;1-0;2;1--;2,(1-0) BX;RR;LAD;Jason Heyward;Ronel Blanco;16%;78%;Home Run (Line Drive to Deep RF); Martinez Scores
+b1;3-0;2;---;5,(2-2) BFBFS;O;LAD;James Outman;Ronel Blanco;-1%;77%;Strikeout Swinging
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Astros 0, Dodgers 3.
+Top of the 2nd, Astros Batting, Behind 0-3, Dodgers' Bobby Miller facing 4-5-6 
+t2;0-3;0;---;4,(1-2) CFBX;;HOU;José Abreu;Bobby Miller;-3%;74%;Single to CF (Ground Ball thru SS-2B)
+t2;0-3;0;1--;2,(1-0) BX;OO;HOU;Yainer Diaz;Bobby Miller;7%;81%;Ground Ball Double Play: 3B-2B-1B
+t2;0-3;2;---;3,(2-0) BBX;;HOU;Jeremy Peña;Bobby Miller;-1%;80%;Single to RF (Ground Ball)
+t2;0-3;2;1--;4,(1-2) FBC>*S;O;HOU;Bligh Madris;Bobby Miller;2%;82%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Astros 0, Dodgers 3.
+Bottom of the 2nd, Dodgers Batting, Ahead 3-0, Astros' Ronel Blanco facing 7-8-9 
+b2;3-0;0;---;2,(0-1) FX;O;LAD;Miguel Vargas;Ronel Blanco;-1%;80%;Popfly: 1B (2B-1B)
+b2;3-0;1;---;4,(0-2) SFFS;O;LAD;Miguel Rojas;Ronel Blanco;-1%;79%;Strikeout Swinging
+b2;3-0;2;---;6,(1-2) FSFBFX;O;LAD;Michael Busch;Ronel Blanco;-1%;79%;Flyball: SS (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 0, Dodgers 3.
+Top of the 3rd, Astros Batting, Behind 0-3, Dodgers' Bobby Miller facing 8-9-1 
+t3;0-3;0;---;1,(0-0) X;O;HOU;Corey Julks;Bobby Miller;2%;81%;Lineout: SS (Deep SS-3B Hole)
+t3;0-3;1;---;2,(1-0) BX;;HOU;Jake Meyers;Bobby Miller;-4%;77%;Double to LF (Line Drive to Deep LF Line)
+t3;0-3;1;-2-;4,(1-2) CBFX;R;HOU;Jose Altuve;Bobby Miller;-7%;70%;Single to RF (Line Drive to CF-RF); Meyers Scores
+t3;1-3;1;1--;2,(0-1) C>B;;HOU;Alex Bregman;Bobby Miller;-1%;69%;Altuve Steals 2B
+t3;1-3;1;-2-;3,(1-1) C>B.X;O;HOU;Alex Bregman;Bobby Miller;3%;72%;Groundout: 2B-1B; Altuve to 3B
+t3;1-3;2;--3;6,(3-2) FFBBBB;;HOU;Kyle Tucker;Bobby Miller;-2%;71%;Walk
+t3;1-3;2;1-3;2,(0-1) F1X;O;HOU;José Abreu;Bobby Miller;5%;76%;Groundout: SS-2B/Forceout at 2B; Abreu to 1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Astros 1, Dodgers 3.
+Bottom of the 3rd, Dodgers Batting, Ahead 3-1, Astros' Ronel Blanco facing 1-2-3 
+b3;3-1;0;---;4,(1-2) CSBS;O;LAD;Mookie Betts;Ronel Blanco;-2%;74%;Strikeout Swinging
+b3;3-1;1;---;4,(2-1) BBFX;O;LAD;Freddie Freeman;Ronel Blanco;-1%;73%;Flyball: SS (Short LF-CF)
+b3;3-1;2;---;7,(2-2) BBCS.FFX;O;LAD;Will Smith;Ronel Blanco;-1%;72%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 1, Dodgers 3.
+Top of the 4th, Astros Batting, Behind 1-3, Dodgers' Bobby Miller facing 5-6-7 
+t4;1-3;0;---;2,(0-1) CX;;HOU;Yainer Diaz;Bobby Miller;-7%;66%;Double to CF (Fly Ball to CF-RF)
+t4;1-3;0;-2-;4,(1-2) CBST;O;HOU;Jeremy Peña;Bobby Miller;5%;70%;Strikeout Swinging
+t4;1-3;1;-2-;6,(2-2) SS*BFBS;O;HOU;Bligh Madris;Bobby Miller;4%;75%;Strikeout Swinging
+t4;1-3;2;-2-;1,(0-0) *B;O;HOU;Corey Julks;Bobby Miller;4%;78%;Baserunner Out Advancing; Diaz out at 3B/C-3B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Astros 1, Dodgers 3.
+Bottom of the 4th, Dodgers Batting, Ahead 3-1, Astros' Ronel Blanco facing 4-5-6 
+b4;3-1;0;---;2,(1-0) BX;O;LAD;J.D. Martinez;Ronel Blanco;-2%;76%;Flyball: CF (CF-RF)
+b4;3-1;1;---;5,(2-2) BSFBX;O;LAD;Jason Heyward;Ronel Blanco;-1%;75%;Groundout: 2B-1B
+b4;3-1;2;---;8,(3-2) BBCS.FBFC;O;LAD;James Outman;Ronel Blanco;-1%;74%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 1, Dodgers 3.
+Top of the 5th, Astros Batting, Behind 1-3, Dodgers' Bobby Miller facing 8-9-1 
+t5;1-3;0;---;1,(0-0) X;;HOU;Corey Julks;Bobby Miller;-5%;70%;Single to RF (Line Drive to RF Line)
+t5;1-3;0;1--;5,(3-1) BBBC>B;;HOU;Jake Meyers;Bobby Miller;-7%;62%;Walk; Julks to 2B
+t5;1-3;0;12-;1,(0-0) X;;HOU;Jose Altuve;Bobby Miller;-10%;52%;Single to 1B (Bunt to 2B-1B); Julks to 3B; Meyers to 2B
+t5;1-3;0;123;5,(2-2) FBF*BX;RRRR;HOU;Alex Bregman;Bobby Miller;-27%;26%;Home Run (Fly Ball to Deep LF Line); Julks Scores; Meyers Scores; Altuve Scores
+t5;5-3;0;---;5,(3-1) BBCBB;;HOU;Kyle Tucker;Bobby Miller;-3%;23%;Walk
+t5;5-3;0;1--;2,(0-1) 1SX;;HOU;José Abreu;Bobby Miller;-8%;15%;Double to CF (Line Drive to Short CF); Tucker to 3B
+t5;5-3;0;-23;5,(1-2) *BFFFX;R;HOU;Yainer Diaz;Bobby Miller;-5%;10%;Single to CF (Ground Ball thru SS-2B); Tucker Scores; Abreu to 3B
+;;;;;;;;;Yency Almonte replaces Bobby Miller pitching
+t5;6-3;0;1-3;5,(2-2) .BSBFS;O;HOU;Jeremy Peña;Yency Almonte;3%;13%;Strikeout Swinging
+t5;6-3;1;1-3;4,(3-0) BBBB;;HOU;Bligh Madris;Yency Almonte;-1%;12%;Walk; Diaz to 2B
+t5;6-3;1;123;3,(1-1) CBX;OO;HOU;Corey Julks;Yency Almonte;8%;20%;Ground Ball Double Play: 2B-1B (SS-2B)
+;;;;;;;;;5 runs, 5 hits, 0 errors, 2 LOB. Astros 6, Dodgers 3.
+Bottom of the 5th, Dodgers Batting, Behind 3-6, Astros' Ronel Blanco facing 7-8-9 
+b5;3-6;0;---;4,(0-2) SF.FX;O;LAD;Miguel Vargas;Ronel Blanco;-3%;17%;Groundout: 3B-1B
+b5;3-6;1;---;3,(1-1) BCX;O;LAD;Miguel Rojas;Ronel Blanco;-2%;16%;Flyball: CF (CF-RF)
+b5;3-6;2;---;11,(3-2) SBBBTFFF.FFB;;LAD;Michael Busch;Ronel Blanco;1%;17%;Walk
+b5;3-6;2;1--;1,(0-0) X;O;LAD;Mookie Betts;Ronel Blanco;-3%;14%;Groundout: P-1B (Weak 2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Astros 6, Dodgers 3.
+Top of the 6th, Astros Batting, Ahead 6-3, Dodgers' Ryan Brasier facing 9-1-2 
+;;;;;;;;;Ryan Brasier replaces Yency Almonte pitching
+t6;6-3;0;---;2,(0-1) .SX;O;HOU;Jake Meyers;Ryan Brasier;1%;16%;Groundout: 2B-1B (SS-2B)
+t6;6-3;1;---;3,(1-1) CBX;;HOU;Jose Altuve;Ryan Brasier;-1%;14%;Single to 1B (Pop Fly to Weak 2B)
+t6;6-3;1;1--;2,(0-1) CX;;HOU;Alex Bregman;Ryan Brasier;-4%;10%;Double to LF (Line Drive to LF Line); Altuve to 3B
+t6;6-3;1;-23;,(3-0) VVVV;;HOU;Kyle Tucker;Ryan Brasier;0%;10%;Intentional Walk
+t6;6-3;1;123;3,(1-1) SBX;RO;HOU;José Abreu;Ryan Brasier;-1%;9%;Lineout: CF/Sacrifice Fly (CF-RF); Altuve Scores
+t6;7-3;2;12-;4,(1-2) CBS*S;O;HOU;Yainer Diaz;Ryan Brasier;1%;10%;Strikeout Swinging; Diaz out at 1B/C-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Astros 7, Dodgers 3.
+Bottom of the 6th, Dodgers Batting, Behind 3-7, Astros' Ronel Blanco facing 2-3-4 
+b6;3-7;0;---;8,(3-2) SBBSFBFT;O;LAD;Freddie Freeman;Ronel Blanco;-2%;8%;Strikeout Swinging
+b6;3-7;1;---;5,(2-2) BBFCS;O;LAD;Will Smith;Ronel Blanco;-1%;7%;Strikeout Swinging
+b6;3-7;2;---;4,(1-2) BFFX;O;LAD;J.D. Martinez;Ronel Blanco;-1%;6%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 7, Dodgers 3.
+Top of the 7th, Astros Batting, Ahead 7-3, Dodgers' Phil Bickford facing 6-7-8 
+;;;;;;;;;Phil Bickford replaces Ryan Brasier pitching
+t7;7-3;0;---;4,(1-2) .CBS.S;O;HOU;Jeremy Peña;Phil Bickford;1%;7%;Strikeout Swinging
+t7;7-3;1;---;3,(1-1) CBX;O;HOU;Bligh Madris;Phil Bickford;0%;7%;Flyball: LF (LF Line)
+t7;7-3;2;---;5,(2-2) BFFBS;O;HOU;Corey Julks;Phil Bickford;0%;8%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 7, Dodgers 3.
+Bottom of the 7th, Dodgers Batting, Behind 3-7, Astros' Phil Maton facing 5-6-7 
+;;;;;;;;;Phil Maton replaces Ronel Blanco pitching
+b7;3-7;0;---;1,(0-0) .H;;LAD;Jason Heyward;Phil Maton;3%;11%;Hit By Pitch
+b7;3-7;0;1--;5,(2-2) TFBBX;O;LAD;James Outman;Phil Maton;-3%;8%;Popfly: 3B
+;;;;;;;;;David Peralta pinch hits for Miguel Vargas (2B) batting 7th
+b7;3-7;1;1--;1,(0-0) .X;RR;LAD;David Peralta;Phil Maton;11%;19%;Home Run (Fly Ball to Deep RF); Heyward Scores
+b7;5-7;1;---;2,(0-1) SX;O;LAD;Miguel Rojas;Phil Maton;-3%;16%;Flyball: RF (Short RF Line)
+b7;5-7;2;---;3,(1-1) BCX;;LAD;Michael Busch;Phil Maton;4%;20%;Double to LF (Fly Ball to Deep LF Line)
+;;;;;;;;;Hector Neris replaces Phil Maton pitching
+b7;5-7;2;-2-;2,(1-0) .BX;O;LAD;Mookie Betts;Hector Neris;-5%;14%;Flyball: CF (Deep CF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Astros 7, Dodgers 5.
+Top of the 8th, Astros Batting, Ahead 7-5, Dodgers' Phil Bickford facing 9-1-2 
+;;;;;;;;;Mookie Betts moves from RF to 2B David Peralta moves from PH to LF Jason Heyward moves from LF to RF 
+t8;7-5;0;---;4,(1-2) ...FBT.S;O;HOU;Jake Meyers;Phil Bickford;1%;16%;Strikeout Swinging
+t8;7-5;1;---;5,(2-2) CBBCC;O;HOU;Jose Altuve;Phil Bickford;1%;17%;Strikeout Looking
+t8;7-5;2;---;4,(1-2) CBCX;O;HOU;Alex Bregman;Phil Bickford;1%;18%;Groundout: P-1B (Short 1B Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 7, Dodgers 5.
+Bottom of the 8th, Dodgers Batting, Behind 5-7, Astros' Bryan Abreu facing 2-3-4 
+;;;;;;;;;Bryan Abreu replaces Hector Neris pitching
+b8;5-7;0;---;5,(3-1) .BCBB*B;;LAD;Freddie Freeman;Bryan Abreu;8%;26%;Walk
+b8;5-7;0;1--;9,(3-2) CT.F1FBBBFB;;LAD;Will Smith;Bryan Abreu;12%;38%;Walk; Freeman to 2B
+b8;5-7;0;12-;6,(3-2) B*BCBC.B;;LAD;J.D. Martinez;Bryan Abreu;15%;53%;Walk; Freeman to 3B; Smith to 2B
+b8;5-7;0;123;5,(2-2) CCBBX;RO;LAD;Jason Heyward;Bryan Abreu;-3%;50%;Lineout: RF/Sacrifice Fly; Freeman Scores; Smith to 3B
+;;;;;;;;;Jonny Deluca pinch runs for J.D. Martinez (DH) batting 4th
+b8;6-7;1;1-3;5,(3-1) BBC.BX;R;LAD;James Outman;Bryan Abreu;28%;78%;Ground-rule Double (Fly Ball to Deep RF); Smith Scores; Deluca to 3B
+;;;;;;;;;Ryne Stanek replaces Bryan Abreu pitching
+b8;7-7;1;-23;6,(2-2) .*BSF.FBS;O;LAD;David Peralta;Ryne Stanek;-16%;62%;Strikeout Swinging
+b8;7-7;2;-23;5,(3-2) BFF*BBN;R;LAD;Miguel Rojas;Ryne Stanek;24%;86%;Balk; Deluca Scores/No RBI; Outman to 3B
+b8;8-7;2;--3;6,(3-2) BFF*BBN.*B;;LAD;Miguel Rojas;Ryne Stanek;1%;86%;Walk
+b8;8-7;2;1-3;7,(3-2) BSBBF>F>T;O;LAD;Michael Busch;Ryne Stanek;-3%;83%;Strikeout Swinging
+;;;;;;;;;3 runs, 1 hit, 0 errors, 2 LOB. Astros 7, Dodgers 8.
+Top of the 9th, Astros Batting, Behind 7-8, Dodgers' Evan Phillips facing 3-4-5 
+;;;;;;;;;Evan Phillips replaces Phil Bickford pitching
+t9;7-8;0;---;2,(0-1) ....CX;;HOU;Kyle Tucker;Evan Phillips;-12%;71%;Single to RF (Ground Ball)
+t9;7-8;0;1--;2,(0-1) CX;OO;HOU;José Abreu;Evan Phillips;25%;96%;Ground Ball Double Play: P-2B-1B
+t9;7-8;2;---;4,(1-2) BCSX;O;HOU;Yainer Diaz;Evan Phillips;4%;100%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Astros 7, Dodgers 8.

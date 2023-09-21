@@ -1,0 +1,264 @@
+
+Scorebox Meta
+20230613
+7:10 p.m. Local
+45561
+Dodger Stadium
+148
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;0;0;0;0;0;0;0;0;1;1;3;1
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;4;0;0;0;0;1;0;0;X;5;8;1
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;SS-RF;4;0;1;0;0;1;4;.263;.365;.534;.899;15;11;-0.036; 0.41;0.004;-0.041;-0.03%; 0.49; -0.2;2;1;2B
+Freddie Freeman;/players/f/freemfr01.shtml;1B;3;1;0;0;1;2;4;.335;.410;.579;.989;20;11;0.007; 0.31;0.024;-0.018; 0.01%; 0.38; -0.6;7;3;
+Will Smith;/players/s/smithwi05.shtml;C;4;1;1;2;0;2;4;.290;.393;.521;.914;22;13;0.146; 0.42;0.161;-0.015; 0.10%; 0.51; 1.0;10;0;HR
+Jason Heyward;/players/h/heywaja01.shtml;RF-LF;3;2;2;0;0;0;3;.244;.347;.480;.827;17;12;0.024; 0.29;0.031;-0.006; 0.02%; 0.35; 0.7;1;0;
+Jonny Deluca;/players/d/delucjo01.shtml;PH-LF;1;0;1;0;0;0;1;.250;.333;.250;.583;2;1;-0.003; 0.00;0.000;-0.003;-0.00%; 0.00; -0.3;0;0;
+J.D. Martinez;/players/m/martijd02.shtml;DH;3;0;0;0;1;2;4;.265;.306;.610;.916;19;11;-0.022; 0.32;0.004;-0.026;-0.02%; 0.38; -0.3;;;
+David Peralta;/players/p/peralda01.shtml;LF;2;1;1;2;0;0;2;.265;.294;.404;.698;5;3;0.124; 0.44;0.131;-0.008; 0.09%; 0.53; 1.6;0;0;HR
+Miguel Rojas;/players/r/rojasmi02.shtml;PH-SS;2;0;0;0;0;0;2;.209;.239;.246;.486;8;6;0.012; 0.17;0.012;0.000; 0.01%; 0.20; 0.7;0;0;
+Miguel Vargas;/players/v/vargami01.shtml;2B;3;0;1;1;0;0;4;.227;.328;.414;.742;19;13;0.005; 0.18;0.010;-0.005; 0.00%; 0.22; -0.1;2;3;SF
+James Outman;/players/o/outmaja01.shtml;CF;3;0;0;0;0;3;3;.229;.327;.448;.775;15;12;-0.027; 0.31;0.000;-0.027;-0.02%; 0.38; -1.3;3;0;
+Chris Taylor;/players/t/tayloch03.shtml;3B;3;0;1;0;0;0;3;.208;.272;.455;.727;9;6;-0.005; 0.25;0.010;-0.014;-0.00%; 0.30; -0.5;0;1;
+Tony Gonsolin;/players/g/gonsoto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Caleb Ferguson;/players/f/ferguca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Evan Phillips;/players/p/phillev01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Tayler Scott;/players/s/scottta02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brusdar Graterol;/players/g/gratebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Mookie Betts (15, off Garrett Crochet).
+
+
+HR: Will Smith (10, off Lance Lynn, 1st inn, 1 on, 1 out to Deep LF-CF); David Peralta (4, off Lance Lynn, 1st inn, 1 on, 2 outs to Deep CF).
+
+
+SF: Miguel Vargas (3, off Garrett Crochet).
+
+
+TB: Will Smith 4; David Peralta 4; Mookie Betts 2; Jason Heyward 2; Chris Taylor; Jonny Deluca; Miguel Vargas.
+
+
+RBI: Will Smith 2 (35); David Peralta 2 (25); Miguel Vargas (29).
+
+
+2-out RBI: David Peralta 2.
+
+
+Team LOB: 5.
+With RISP: 1 for 6.
+
+Batting away
+Tim Anderson;/players/a/anderti01.shtml;SS;3;0;0;0;1;0;4;.259;.299;.306;.605;13;8;-0.033; 0.47;0.009;-0.043;-0.01%; 0.21; -0.6;1;0;
+Andrew Benintendi;/players/b/beninan01.shtml;LF;4;0;0;0;0;2;4;.265;.336;.339;.675;20;12;-0.044; 0.40;0.000;-0.044;-0.01%; 0.18; -0.7;2;0;
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;3;0;0;0;1;1;4;.261;.317;.518;.835;26;16;-0.017; 0.53;0.021;-0.038;-0.01%; 0.23; -0.4;3;0;SB
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;4;1;2;0;0;1;4;.248;.331;.434;.765;11;9;-0.013; 0.54;0.030;-0.043;-0.00%; 0.24; 0.4;6;0;2B
+Yoán Moncada;/players/m/moncayo01.shtml;3B;4;0;1;0;0;0;4;.232;.279;.370;.648;13;10;-0.005; 0.55;0.036;-0.041;-0.00%; 0.24; 0.4;0;1;
+Jake Burger;/players/b/burgeja01.shtml;DH;3;0;0;0;0;2;4;.245;.296;.568;.864;14;7;-0.007; 0.64;0.030;-0.037;-0.00%; 0.28; -0.5;;;HBP
+Yasmani Grandal;/players/g/grandya01.shtml;C;3;0;0;1;0;0;4;.258;.321;.399;.720;10;7;-0.077; 0.74;0.000;-0.077;-0.02%; 0.33; -1.0;11;0;SF
+Gavin Sheets;/players/s/sheetga01.shtml;RF;2;0;0;0;0;1;2;.225;.297;.391;.688;10;8;-0.035; 0.64;0.000;-0.035;-0.01%; 0.28; -0.5;1;0;
+Clint Frazier;/players/f/frazicl01.shtml;PH-RF;2;0;0;0;0;1;2;.222;.349;.278;.627;7;4;-0.011; 0.20;0.000;-0.011;-0.00%; 0.09; -0.4;0;1;
+Romy Gonzalez;/players/g/gonzaro01.shtml;2B;3;0;0;0;0;2;3;.194;.208;.376;.585;10;8;-0.033; 0.42;0.000;-0.033;-0.01%; 0.19; -0.5;0;2;
+Lance Lynn;/players/l/lynnla01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Garrett Crochet;/players/c/crochga01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tanner Banks;/players/b/banksta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Andrew Vaughn (19, off Tayler Scott).
+
+
+SF: Yasmani Grandal (1, off Brusdar Graterol).
+
+
+HBP: Jake Burger (4, by Tony Gonsolin).
+
+
+TB: Andrew Vaughn 3; Yoán Moncada.
+
+
+RBI: Yasmani Grandal (18).
+
+
+Team LOB: 7.
+With RISP: 0 for 4.
+
+Pitching home
+Tony Gonsolin;/players/g/gonsoto01.shtml; W (4-1); 6 ;2;0;0;2;6;0;1.93;24;90;60;35;8;17;9;6;3;0;72;;;0.234; 0.62; 0.17%; 0.75; 3.3
+Caleb Ferguson;/players/f/ferguca01.shtml;Caleb Ferguson; 1 ;0;0;0;0;2;0;3.75;3;12;8;1;4;3;0;1;0;0;;0;0;0.019; 0.24; 0.01%; 0.29; 0.5
+Evan Phillips;/players/p/phillev01.shtml;Evan Phillips; 1 ;0;0;0;0;1;0;2.55;3;17;11;9;1;1;1;1;1;0;;0;0;0.014; 0.18; 0.01%; 0.21; 0.5
+Tayler Scott;/players/s/scottta02.shtml;Tayler Scott; 0.1;1;1;1;0;1;0;5.79;3;11;7;3;1;3;1;1;1;0;;0;0;-0.010; 0.45;-0.01%; 0.54; -0.7
+Brusdar Graterol;/players/g/gratebr01.shtml;Brusdar Graterol; 0.2;0;0;0;0;0;0;1.91;2;4;3;2;0;1;1;1;0;0;;2;1;0.017; 0.32; 0.01%; 0.38; 0.2
+
+Pitching away
+Lance Lynn;/players/l/lynnla01.shtml; L (4-7); 5 ;6;5;4;2;6;2;6.75;23;105;67;44;15;8;6;9;5;0;41;;;-0.231; 0.39;-0.06%; 0.17; -2.3
+Garrett Crochet;/players/c/crochga01.shtml;Garrett Crochet; 2 ;2;0;0;0;3;0;3.60;8;35;25;14;5;6;1;4;2;0;;2;1;0.003; 0.16; 0.00%; 0.07; 1.1
+Tanner Banks;/players/b/banksta01.shtml;Tanner Banks; 1 ;0;0;0;0;1;0;3.00;3;11;7;4;2;1;1;1;0;0;;0;0;0.002; 0.02; 0.00%; 0.01; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Lance Lynn (2); Tony Gonsolin (1).
+HBP: Tony Gonsolin (4; Jake Burger).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Lance Lynn (2); Tony Gonsolin (1).
+HBP: Tony Gonsolin (4; Jake Burger).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Brian O'Nora, 1B - Pat Hoberg, 2B - Jacob Metz, 3B - Nestor Ceja, LF - (none), RF - (none).
+Time of Game: 2:28.
+Attendance: 45,561.
+Field Condition: Unknown.
+Start Time Weather: 65° F, Wind 7mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+White Sox
+1;Tim Anderson;/players/a/anderti01.shtml;SS
+2;Andrew Benintendi;/players/b/beninan01.shtml;LF
+3;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+4;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+5;Yoán Moncada;/players/m/moncayo01.shtml;3B
+6;Jake Burger;/players/b/burgeja01.shtml;DH
+7;Yasmani Grandal;/players/g/grandya01.shtml;C
+8;Gavin Sheets;/players/s/sheetga01.shtml;RF
+9;Romy Gonzalez;/players/g/gonzaro01.shtml;2B
+; Lance Lynn;/players/l/lynnla01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;SS
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;C
+4;Jason Heyward;/players/h/heywaja01.shtml;RF
+5;J.D. Martinez;/players/m/martijd02.shtml;DH
+6;David Peralta;/players/p/peralda01.shtml;LF
+7;Miguel Vargas;/players/v/vargami01.shtml;2B
+8;James Outman;/players/o/outmaja01.shtml;CF
+9;Chris Taylor;/players/t/tayloch03.shtml;3B
+; Tony Gonsolin;/players/g/gonsoto01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-0;1;1--;5,(3-1) BCBBX;RR;LAD;Will Smith;Lance Lynn;16%;71%;Home Run (Fly Ball to Deep LF-CF); Freeman Scores
+b1;2-0;2;1--;1,(0-0) X;RR;LAD;David Peralta;Lance Lynn;13%;84%;Home Run (Fly Ball to Deep CF); Heyward Scores
+t4;0-4;2;12-;2,(1-0) BX;O;CHW;Yasmani Grandal;Tony Gonsolin;3%;91%;Groundout: 2B-1B (2B-1B)
+t1;0-0;2;-2-;3,(1-1) >C.BX;O;CHW;Andrew Vaughn;Tony Gonsolin;3%;55%;Lineout: 1B (2B-1B)
+b1;0-0;1;---;7,(3-2) SBBFBFB;;LAD;Freddie Freeman;Lance Lynn;2%;55%;Walk
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, White Sox Batting, Tied 0-0, Dodgers' Tony Gonsolin facing 1-2-3 
+t1;0-0;0;---;3,(0-2) CFX;O;CHW;Tim Anderson;Tony Gonsolin;2%;52%;Lineout: RF (Deep RF)
+t1;0-0;1;---;4,(1-2) CBFT;O;CHW;Andrew Benintendi;Tony Gonsolin;2%;54%;Strikeout Swinging
+t1;0-0;2;---;9,(3-2) CBSFBFBF.*B;;CHW;Luis Robert Jr.;Tony Gonsolin;-1%;53%;Walk
+t1;0-0;2;1--;1,(0-0) >C;;CHW;Andrew Vaughn;Tony Gonsolin;-1%;52%;Robert Steals 2B
+t1;0-0;2;-2-;3,(1-1) >C.BX;O;CHW;Andrew Vaughn;Tony Gonsolin;3%;55%;Lineout: 1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 0, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Tied 0-0, White Sox' Lance Lynn facing 1-2-3 
+b1;0-0;0;---;4,(1-2) BFSS;O;LAD;Mookie Betts;Lance Lynn;-2%;53%;Strikeout Swinging
+b1;0-0;1;---;7,(3-2) SBBFBFB;;LAD;Freddie Freeman;Lance Lynn;2%;55%;Walk
+b1;0-0;1;1--;5,(3-1) BCBBX;RR;LAD;Will Smith;Lance Lynn;16%;71%;Home Run (Fly Ball to Deep LF-CF); Freeman Scores
+b1;2-0;1;---;6,(2-2) BCFBFX;;LAD;Jason Heyward;Lance Lynn;2%;73%;Single to CF (Ground Ball thru Weak 2B)
+b1;2-0;1;1--;4,(1-2) SBCS;O;LAD;J.D. Martinez;Lance Lynn;-2%;71%;Strikeout Swinging
+b1;2-0;2;1--;1,(0-0) X;RR;LAD;David Peralta;Lance Lynn;13%;84%;Home Run (Fly Ball to Deep CF); Heyward Scores
+b1;4-0;2;---;5,(2-2) BFSBX;O;LAD;Miguel Vargas;Lance Lynn;-1%;84%;Groundout: 2B-1B
+;;;;;;;;;4 runs, 3 hits, 0 errors, 0 LOB. White Sox 0, Dodgers 4.
+Top of the 2nd, White Sox Batting, Behind 0-4, Dodgers' Tony Gonsolin facing 5-6-7 
+t2;0-4;0;---;3,(0-2) CFX;O;CHW;Yoán Moncada;Tony Gonsolin;2%;85%;Groundout: 2B-1B (2B-1B)
+t2;0-4;1;---;2,(1-0) BX;;CHW;Jake Burger;Tony Gonsolin;-2%;83%;Reached on E6 (throw) (Ground Ball); Burger to 1B
+t2;0-4;1;1--;2,(0-1) CX;O;CHW;Yasmani Grandal;Tony Gonsolin;2%;86%;Flyball: CF (LF-CF)
+t2;0-4;2;1--;2,(0-1) CX;O;CHW;Gavin Sheets;Tony Gonsolin;2%;87%;Popfly: 2B (Deep 2B-1B)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. White Sox 0, Dodgers 4.
+Bottom of the 2nd, Dodgers Batting, Ahead 4-0, White Sox' Lance Lynn facing 8-9-1 
+b2;4-0;0;---;7,(2-2) BFF.BFFS;O;LAD;James Outman;Lance Lynn;-1%;86%;Strikeout Swinging
+b2;4-0;1;---;1,(0-0) X;;LAD;Chris Taylor;Lance Lynn;1%;87%;Single to RF (Line Drive)
+b2;4-0;1;1--;5,(2-2) F1BFB>X;O;LAD;Mookie Betts;Lance Lynn;-1%;86%;Lineout: CF (Deep CF)
+b2;4-0;2;1--;1,(0-0) X;O;LAD;Freddie Freeman;Lance Lynn;-1%;85%;Groundout: 1B unassisted (Weak 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 0, Dodgers 4.
+Top of the 3rd, White Sox Batting, Behind 0-4, Dodgers' Tony Gonsolin facing 9-1-2 
+t3;0-4;0;---;2,(0-1) CX;O;CHW;Romy Gonzalez;Tony Gonsolin;2%;87%;Groundout: 2B-1B (SS-2B)
+t3;0-4;1;---;3,(0-2) SCX;O;CHW;Tim Anderson;Tony Gonsolin;1%;88%;Groundout: SS-1B
+t3;0-4;2;---;6,(2-2) FFFBBC;O;CHW;Andrew Benintendi;Tony Gonsolin;1%;89%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Dodgers 4.
+Bottom of the 3rd, Dodgers Batting, Ahead 4-0, White Sox' Lance Lynn facing 3-4-5 
+b3;4-0;0;---;6,(2-2) FBS.FBT;O;LAD;Will Smith;Lance Lynn;-1%;88%;Strikeout Swinging
+b3;4-0;1;---;5,(1-2) BCFFX;O;LAD;Jason Heyward;Lance Lynn;-1%;87%;Lineout: SS
+b3;4-0;2;---;5,(2-2) SBFBX;O;LAD;J.D. Martinez;Lance Lynn;0%;87%;Groundout: 1B unassisted (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Dodgers 4.
+Top of the 4th, White Sox Batting, Behind 0-4, Dodgers' Tony Gonsolin facing 3-4-5 
+t4;0-4;0;---;4,(1-2) CFBX;O;CHW;Luis Robert Jr.;Tony Gonsolin;2%;89%;Popfly: 1B
+t4;0-4;1;---;2,(0-1) CX;;CHW;Andrew Vaughn;Tony Gonsolin;-2%;87%;Single to LF (Line Drive to Deep LF-CF)
+t4;0-4;1;1--;2,(0-1) CX;O;CHW;Yoán Moncada;Tony Gonsolin;2%;89%;Groundout: 1B-SS/Forceout at 2B (Weak 2B-1B); Moncada to 1B
+t4;0-4;2;1--;2,(1-0) BB;;CHW;Jake Burger;Tony Gonsolin;-1%;89%;Wild Pitch; Moncada to 2B
+t4;0-4;2;-2-;3,(2-0) BB.H;;CHW;Jake Burger;Tony Gonsolin;-1%;88%;Hit By Pitch
+t4;0-4;2;12-;2,(1-0) BX;O;CHW;Yasmani Grandal;Tony Gonsolin;3%;91%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. White Sox 0, Dodgers 4.
+Bottom of the 4th, Dodgers Batting, Ahead 4-0, White Sox' Lance Lynn facing 6-7-8 
+b4;4-0;0;---;4,(2-1) BBFX;O;LAD;David Peralta;Lance Lynn;-1%;90%;Lineout: LF (Deep LF)
+b4;4-0;1;---;6,(2-2) SFBFBX;;LAD;Miguel Vargas;Lance Lynn;1%;91%;Single to CF (Line Drive to Deep CF-RF)
+b4;4-0;1;1--;4,(1-2) CBSS;O;LAD;James Outman;Lance Lynn;-1%;90%;Strikeout Swinging
+b4;4-0;2;1--;2,(0-1) FX;O;LAD;Chris Taylor;Lance Lynn;-1%;89%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 0, Dodgers 4.
+Top of the 5th, White Sox Batting, Behind 0-4, Dodgers' Tony Gonsolin facing 8-9-1 
+t5;0-4;0;---;8,(2-2) CFBFFFB*S;O;CHW;Gavin Sheets;Tony Gonsolin;2%;91%;Strikeout Swinging
+t5;0-4;1;---;5,(2-2) SS.BBC;O;CHW;Romy Gonzalez;Tony Gonsolin;1%;92%;Strikeout Looking
+t5;0-4;2;---;4,(3-0) BBBB;;CHW;Tim Anderson;Tony Gonsolin;-1%;91%;Walk
+t5;0-4;2;1--;3,(2-0) B*BX;O;CHW;Andrew Benintendi;Tony Gonsolin;2%;93%;Groundout: SS unassisted/Forceout at 2B (SS-2B); Benintendi to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 0, Dodgers 4.
+Bottom of the 5th, Dodgers Batting, Ahead 4-0, White Sox' Lance Lynn facing 1-2-3 
+b5;4-0;0;---;5,(1-2) CSBFX;O;LAD;Mookie Betts;Lance Lynn;-1%;92%;Flyball: CF
+b5;4-0;1;---;6,(3-2) FSBBBS;O;LAD;Freddie Freeman;Lance Lynn;0%;92%;Strikeout Swinging
+b5;4-0;2;---;4,(1-2) BCFX;O;LAD;Will Smith;Lance Lynn;0%;91%;Foul Popfly: RF (Short RF into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Dodgers 4.
+Top of the 6th, White Sox Batting, Behind 0-4, Dodgers' Tony Gonsolin facing 3-4-5 
+t6;0-4;0;---;6,(3-2) BBBCFX;O;CHW;Luis Robert Jr.;Tony Gonsolin;2%;93%;Groundout: 3B-1B (SS-3B Hole)
+t6;0-4;1;---;4,(1-2) FFBS;O;CHW;Andrew Vaughn;Tony Gonsolin;1%;94%;Strikeout Swinging
+t6;0-4;2;---;4,(1-2) BFSX;;CHW;Yoán Moncada;Tony Gonsolin;-1%;93%;Single to 2B (Ground Ball to 2B-1B)
+t6;0-4;2;1--;4,(1-2) FBSC;O;CHW;Jake Burger;Tony Gonsolin;2%;95%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 0, Dodgers 4.
+Bottom of the 6th, Dodgers Batting, Ahead 4-0, White Sox' Lance Lynn facing 4-5-6 
+b6;4-0;0;---;6,(2-2) CBFFBX;;LAD;Jason Heyward;Lance Lynn;1%;95%;Single to CF (Ground Ball)
+b6;4-0;0;1--;5,(2-2) FBF*BB;;LAD;J.D. Martinez;Lance Lynn;1%;96%;Wild Pitch; Heyward to 2B
+b6;4-0;0;-2-;6,(3-2) FBF*BB.B;;LAD;J.D. Martinez;Lance Lynn;0%;97%;Walk
+;;;;;;;;;Garrett Crochet replaces Lance Lynn pitchingMiguel Rojas pinch hits for David Peralta (LF) batting 6th
+b6;4-0;0;12-;6,(1-2) ..CCFBFX;;LAD;Miguel Rojas;Garrett Crochet;1%;98%;Fielder's Choice 3B; Heyward to 3B/Adv on E5; Martinez to 2B; Rojas to 1B
+b6;4-0;0;123;3,(0-2) SFX;RO;LAD;Miguel Vargas;Garrett Crochet;0%;98%;Flyball: CF/Sacrifice Fly (Deep CF-RF); Heyward Scores/unER; Martinez to 3B
+b6;5-0;1;1-3;4,(0-2) FSFT;O;LAD;James Outman;Garrett Crochet;-1%;97%;Strikeout Swinging
+b6;5-0;2;1-3;6,(3-2) BBBCC.>X;O;LAD;Chris Taylor;Garrett Crochet;-1%;97%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;1 run, 1 hit, 1 error, 2 LOB. White Sox 0, Dodgers 5.
+Top of the 7th, White Sox Batting, Behind 0-5, Dodgers' Caleb Ferguson facing 7-8-9 
+;;;;;;;;;Caleb Ferguson replaces Tony Gonsolin pitchingMiguel Rojas moves from PH to SS Jason Heyward moves from RF to LF Mookie Betts moves from SS to RF 
+t7;0-5;0;---;4,(2-1) ....BSBX;O;CHW;Yasmani Grandal;Caleb Ferguson;1%;98%;Popfly: 2B (Deep SS-2B)
+;;;;;;;;;Clint Frazier pinch hits for Gavin Sheets (RF) batting 8th
+t7;0-5;1;---;5,(2-2) .SBBCS;O;CHW;Clint Frazier;Caleb Ferguson;1%;98%;Strikeout Swinging
+t7;0-5;2;---;3,(0-2) CC*S;O;CHW;Romy Gonzalez;Caleb Ferguson;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Dodgers 5.
+Bottom of the 7th, Dodgers Batting, Ahead 5-0, White Sox' Garrett Crochet facing 1-2-3 
+;;;;;;;;;Clint Frazier moves from PH to RF 
+b7;5-0;0;---;1,(0-0) .X;;LAD;Mookie Betts;Garrett Crochet;0%;99%;Double to CF (Line Drive to Deep LF-CF)
+b7;5-0;0;-2-;6,(2-2) BSBCFS;O;LAD;Freddie Freeman;Garrett Crochet;0%;99%;Strikeout Swinging
+b7;5-0;1;-2-;7,(3-2) BCBFFBS;O;LAD;Will Smith;Garrett Crochet;0%;98%;Strikeout Swinging
+;;;;;;;;;Jonny Deluca pinch hits for Jason Heyward (LF) batting 4th
+b7;5-0;2;-2-;2,(1-0) .*BX;O;LAD;Jonny Deluca;Garrett Crochet;0%;98%;Single to RF (Line Drive to Short RF); Betts out at Hm/RF-C
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. White Sox 0, Dodgers 5.
+Top of the 8th, White Sox Batting, Behind 0-5, Dodgers' Evan Phillips facing 1-2-3 
+;;;;;;;;;Evan Phillips replaces Caleb Ferguson pitchingJonny Deluca moves from PH to LF 
+t8;0-5;0;---;3,(1-1) ..CBX;O;CHW;Tim Anderson;Evan Phillips;1%;99%;Lineout: CF (Deep CF-RF)
+t8;0-5;1;---;7,(3-2) BBFFF.BX;O;CHW;Andrew Benintendi;Evan Phillips;0%;99%;Groundout: 1B-P
+t8;0-5;2;---;7,(2-2) BTBSFFT;O;CHW;Luis Robert Jr.;Evan Phillips;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Dodgers 5.
+Bottom of the 8th, Dodgers Batting, Ahead 5-0, White Sox' Tanner Banks facing 5-6-7 
+;;;;;;;;;Tanner Banks replaces Garrett Crochet pitching
+b8;5-0;0;---;4,(1-2) .SBCFA;O;LAD;J.D. Martinez;Tanner Banks;0%;99%;Strikeout
+b8;5-0;1;---;2,(1-0) BX;O;LAD;Miguel Rojas;Tanner Banks;0%;99%;Flyball: LF (Deep LF Line)
+b8;5-0;2;---;5,(2-2) BBFSX;O;LAD;Miguel Vargas;Tanner Banks;0%;99%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Dodgers 5.
+Top of the 9th, White Sox Batting, Behind 0-5, Dodgers' Tayler Scott facing 4-5-6 
+;;;;;;;;;Tayler Scott replaces Evan Phillips pitching
+t9;0-5;0;---;2,(0-1) .CX;;CHW;Andrew Vaughn;Tayler Scott;-1%;98%;Ground-rule Double (Line Drive to RF Line)
+t9;0-5;0;-2-;4,(2-1) BBCX;;CHW;Yoán Moncada;Tayler Scott;-2%;96%;Fielder's Choice P; Vaughn to 3B; Moncada to 1B
+t9;0-5;0;1-3;5,(2-2) BCFBS;O;CHW;Jake Burger;Tayler Scott;2%;98%;Strikeout Swinging
+;;;;;;;;;Brusdar Graterol replaces Tayler Scott pitching
+t9;0-5;1;1-3;2,(0-1) .CX;RO;CHW;Yasmani Grandal;Brusdar Graterol;1%;100%;Flyball: CF/Sacrifice Fly (Deep CF); Vaughn Scores
+t9;1-5;2;1--;2,(1-0) BX;O;CHW;Clint Frazier;Brusdar Graterol;0%;100%;Groundout: 1B-P
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. White Sox 1, Dodgers 5.

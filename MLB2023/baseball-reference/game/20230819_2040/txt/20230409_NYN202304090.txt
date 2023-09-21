@@ -1,0 +1,279 @@
+
+Scorebox Meta
+20230409
+1:40 p.m. Local
+33697
+Citi Field
+172
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/MIA-2023.png;/teams/MIA/2023.shtml;3;0;0;0;3;0;1;0;0;7;11;2
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;1;0;0;1;0;0;0;0;2;9;1
+
+Batting home
+Tommy Pham;/players/p/phamth01.shtml;CF;5;0;1;0;0;2;5;.227;.292;.409;.701;15;11;-0.066; 0.80;0.024;-0.090;-0.04%; 0.85; -0.8;4;0;
+Starling Marte;/players/m/martest01.shtml;RF;1;0;1;0;0;0;1;.303;.378;.485;.863;3;2;0.058; 0.86;0.058;0.000; 0.04%; 0.93; 0.7;0;0;2B,SB
+Luis Guillorme;/players/g/guilllu01.shtml;2B;4;1;1;0;0;0;4;.188;.235;.188;.423;9;6;0.004; 0.67;0.044;-0.039; 0.00%; 0.71; -0.5;3;2;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;5;0;0;0;0;3;5;.206;.349;.382;.731;22;16;-0.112; 0.79;0.000;-0.112;-0.07%; 0.85; -1.5;0;4;
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;0;1;1;0;2;4;.237;.326;.658;.983;12;8;-0.058; 0.80;0.036;-0.094;-0.04%; 0.85; -0.1;7;2;GDP
+Mark Canha;/players/c/canhama01.shtml;DH;4;1;2;0;0;0;4;.229;.357;.400;.757;17;11;0.031; 0.73;0.069;-0.037; 0.02%; 0.79; 0.3;;;2B
+Jeff McNeil;/players/m/mcneije01.shtml;2B-RF;2;0;1;0;2;0;4;.250;.357;.333;.690;18;5;0.169; 1.05;0.169;0.000; 0.11%; 1.13; 2.0;2;0;2B
+Eduardo Escobar;/players/e/escobed01.shtml;3B;4;0;1;0;0;1;4;.125;.152;.250;.402;12;9;-0.028; 1.56;0.108;-0.136;-0.02%; 1.67; -0.8;0;4;2B
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;4;0;1;1;0;2;4;.250;.250;.250;.500;15;11;-0.048; 1.19;0.074;-0.123;-0.03%; 1.27; -0.6;7;0;
+Tim Locastro;/players/l/locasti01.shtml;LF;4;0;0;0;0;2;4;.000;.375;.000;.375;19;14;-0.150; 1.32;0.009;-0.160;-0.10%; 1.41; -1.1;1;0;
+Carlos Carrasco;/players/c/carraca01.shtml;P;;;;;;;;;;;;;;;;;;;;;2;0;
+Stephen Nogosek;/players/n/nogosst01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dennis Santana;/players/s/santade01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Starling Marte (3, off Braxton Garrett); Jeff McNeil (3, off Braxton Garrett); Eduardo Escobar (1, off Braxton Garrett); Mark Canha (3, off Braxton Garrett).
+
+
+TB: Mark Canha 3; Jeff McNeil 2; Eduardo Escobar 2; Starling Marte 2; Francisco Alvarez; Tommy Pham; Luis Guillorme; Pete Alonso.
+
+
+GIDP: Pete Alonso (2).
+
+
+RBI: Pete Alonso (11); Francisco Alvarez (1).
+
+
+2-out RBI: Pete Alonso.
+
+
+Team LOB: 10.
+With RISP: 2 for 12.
+
+Batting away
+Jazz Chisholm Jr.;/players/c/chishja01.shtml;CF;4;2;2;1;0;1;4;.235;.297;.441;.738;20;11;0.125; 0.90;0.148;-0.023; 0.07%; 0.79; 1.2;1;0;2·SB
+Garrett Hampson;/players/h/hampsga01.shtml;CF;1;0;0;0;0;0;1;.000;.000;.000;.000;2;1;-0.001; 0.02;0.000;-0.001;0%; 0.02; -0.2;1;0;
+Garrett Cooper;/players/c/coopega03.shtml;DH;5;2;2;2;0;1;5;.324;.361;.676;1.038;17;12;0.057; 0.55;0.104;-0.046; 0.03%; 0.48; 1.5;;;HR,2B
+Luis Arraez;/players/a/arraelu01.shtml;2B;4;1;2;0;1;0;5;.471;.538;.529;1.068;19;9;0.019; 0.42;0.032;-0.013; 0.01%; 0.37; 0.6;3;1;
+Bryan De La Cruz;/players/d/delacbr01.shtml;LF;2;1;2;4;2;0;5;.273;.346;.455;.801;18;9;0.226; 0.61;0.226;0.000; 0.12%; 0.54; 2.8;1;0;HR,SF
+Yuli Gurriel;/players/g/gourryu01.shtml;1B;4;0;1;0;1;0;5;.333;.385;.333;.718;20;10;0.023; 0.37;0.041;-0.019; 0.01%; 0.32; 0.3;6;0;
+Avisaíl García;/players/g/garciav01.shtml;RF;2;0;0;0;0;0;2;.103;.161;.207;.368;4;3;-0.046; 0.81;0.000;-0.046;-0.02%; 0.71; -0.7;0;0;
+Jesús Sánchez;/players/s/sanchje02.shtml;RF;2;0;1;0;1;1;3;.143;.333;.214;.548;9;5;0.014; 0.17;0.017;-0.002; 0.01%; 0.14; 0.1;1;0;SB
+Jean Segura;/players/s/segurje01.shtml;3B;4;0;0;0;0;0;4;.188;.235;.188;.423;15;11;-0.093; 0.52;0.001;-0.094;-0.05%; 0.46; -1.7;1;5;SB,GDP
+Nick Fortes;/players/f/forteni01.shtml;C;4;0;0;0;0;2;4;.143;.182;.286;.468;11;9;-0.038; 0.38;0.000;-0.038;-0.02%; 0.34; -1.0;12;0;
+Jon Berti;/players/b/bertijo01.shtml;SS;4;1;1;0;0;2;4;.207;.207;.207;.414;21;13;0.012; 0.44;0.033;-0.021; 0.01%; 0.39; -0.4;1;2;SB
+Braxton Garrett;/players/g/garrebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tanner Scott;/players/s/scottta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+JT Chargois;/players/c/chargjt01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dylan Floro;/players/f/florody01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+A.J. Puk;/players/p/pukaj01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Garrett Cooper (1, off Stephen Nogosek).
+
+
+HR: Bryan De La Cruz (1, off Carlos Carrasco, 1st inn, 2 on, 1 out to Deep LF-CF); Garrett Cooper (3, off Carlos Carrasco, 5th inn, 1 on, 1 out to Deep LF).
+
+
+SF: Bryan De La Cruz (1, off Stephen Nogosek).
+
+
+TB: Garrett Cooper 6; Bryan De La Cruz 5; Jazz Chisholm Jr. 2; Luis Arraez 2; Jesús Sánchez; Yuli Gurriel; Jon Berti.
+
+
+GIDP: Jean Segura (4).
+
+
+RBI: Bryan De La Cruz 4 (5); Garrett Cooper 2 (7); Jazz Chisholm Jr. (3).
+
+
+Team LOB: 8.
+With RISP: 3 for 8.
+
+Pitching home
+Carlos Carrasco;/players/c/carraca01.shtml; L (0-2); 4.2;6;6;6;3;1;2;11.42;22;83;45;28;3;14;8;10;8;0;26;;;-0.306; 0.78;-0.20%; 0.83; -3.7
+Stephen Nogosek;/players/n/nogosst01.shtml;Stephen Nogosek; 3.1;3;1;1;1;5;0;1.69;14;52;34;16;5;13;3;5;3;0;;1;0;0.004; 0.22; 0.00%; 0.24; 0.7
+Dennis Santana;/players/s/santade01.shtml;Dennis Santana; 1 ;2;0;0;1;1;0;6.23;6;21;14;4;5;5;3;1;1;0;;0;0;0.002; 0.03; 0.00%; 0.03; 0.5
+
+Pitching away
+Braxton Garrett;/players/g/garrebr01.shtml;Braxton Garrett; 4.2;9;2;2;1;7;0;4.70;23;85;56;29;12;15;7;8;6;0;44;;;0.071; 1.26; 0.04%; 1.10; -0.1
+Tanner Scott;/players/s/scottta01.shtml; W (1-1); 1.1;0;0;0;1;1;0;9.82;5;18;11;6;1;4;2;1;1;0;;2;0;0.087; 1.15; 0.05%; 1.01; 1.1
+JT Chargois;/players/c/chargjt01.shtml;JT Chargois; 0.1;0;0;0;0;0;0;0.00;1;3;1;1;0;0;1;0;0;0;;0;0;0.011; 0.42; 0.01%; 0.37; 0.2
+Dylan Floro;/players/f/florody01.shtml;Dylan Floro; 1.2;0;0;0;0;3;0;0.00;6;25;17;8;2;7;0;3;0;0;;0;0;0.024; 0.28; 0.01%; 0.24; 0.8
+A.J. Puk;/players/p/pukaj01.shtml;A.J. Puk; 1 ;0;0;0;0;1;0;3.00;4;11;8;3;1;4;2;1;0;0;;0;0;0.008; 0.24; 0.00%; 0.21; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Jeff Nelson, 1B - CB Bucknor, 2B - Chris Segal, 3B - Ben May, LF - (none), RF - (none).
+Time of Game: 2:52.
+Attendance: 33,697.
+Field Condition: Unknown.
+Start Time Weather: 49° F, Wind 6mph in from Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Marlins
+1;Jazz Chisholm Jr.;/players/c/chishja01.shtml;CF
+2;Garrett Cooper;/players/c/coopega03.shtml;DH
+3;Luis Arraez;/players/a/arraelu01.shtml;2B
+4;Bryan De La Cruz;/players/d/delacbr01.shtml;LF
+5;Yuli Gurriel;/players/g/gourryu01.shtml;1B
+6;Avisaíl García;/players/g/garciav01.shtml;RF
+7;Jean Segura;/players/s/segurje01.shtml;3B
+8;Nick Fortes;/players/f/forteni01.shtml;C
+9;Jon Berti;/players/b/bertijo01.shtml;SS
+; Braxton Garrett;/players/g/garrebr01.shtml;P
+Mets
+1;Tommy Pham;/players/p/phamth01.shtml;CF
+2;Starling Marte;/players/m/martest01.shtml;RF
+3;Francisco Lindor;/players/l/lindofr01.shtml;SS
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Mark Canha;/players/c/canhama01.shtml;DH
+6;Jeff McNeil;/players/m/mcneije01.shtml;2B
+7;Eduardo Escobar;/players/e/escobed01.shtml;3B
+8;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+9;Tim Locastro;/players/l/locasti01.shtml;LF
+; Carlos Carrasco;/players/c/carraca01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t1;0-0;1;1-3;3,(0-2) CCX;RRR;MIA;Bryan De La Cruz;Carlos Carrasco;19%;75%;Home Run (Line Drive to Deep LF-CF); Chisholm Scores; Arraez Scores
+b4;1-3;1;1--;5,(2-2) VS.*SBFX;;NYM;Eduardo Escobar;Braxton Garrett;-11%;58%;Double to LF (Ground Ball); McNeil to 3B
+b2;0-3;0;1--;5,(3-1) BBBCX;;NYM;Jeff McNeil;Braxton Garrett;-11%;61%;Double to RF (Line Drive to Short RF Line); Canha to 3B
+b4;1-3;1;-23;5,(2-2) BBFS*S;O;NYM;Francisco Alvarez;Braxton Garrett;10%;68%;Strikeout Swinging
+t5;4-1;1;1--;2,(0-1) F1X;RR;MIA;Garrett Cooper;Carlos Carrasco;9%;93%;Home Run (Fly Ball to Deep LF); Chisholm Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Marlins Batting, Tied 0-0, Mets' Carlos Carrasco facing 1-2-3 
+t1;0-0;0;---;2,(1-0) BX;;MIA;Jazz Chisholm Jr.;Carlos Carrasco;4%;54%;Single to RF (Line Drive)
+t1;0-0;0;1--;6,(3-2) 1.BCCBB>S;O;MIA;Garrett Cooper;Carlos Carrasco;-2%;52%;Strikeout Swinging, Chisholm Steals 2B
+t1;0-0;1;-2-;3,(2-0) BB>B;;MIA;Luis Arraez;Carlos Carrasco;3%;54%;Chisholm Steals 3B
+t1;0-0;1;--3;5,(3-1) BB>B.C*B;;MIA;Luis Arraez;Carlos Carrasco;2%;56%;Walk
+t1;0-0;1;1-3;3,(0-2) CCX;RRR;MIA;Bryan De La Cruz;Carlos Carrasco;19%;75%;Home Run (Line Drive to Deep LF-CF); Chisholm Scores; Arraez Scores
+t1;3-0;1;---;2,(1-0) BX;O;MIA;Yuli Gurriel;Carlos Carrasco;-1%;74%;Groundout: SS-1B
+t1;3-0;2;---;2,(0-1) SX;O;MIA;Avisaíl García;Carlos Carrasco;-1%;74%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Marlins 3, Mets 0.
+Bottom of the 1st, Mets Batting, Behind 0-3, Marlins' Braxton Garrett facing 1-2-3 
+b1;0-3;0;---;5,(2-2) BCCBS;O;NYM;Tommy Pham;Braxton Garrett;2%;76%;Strikeout Swinging
+b1;0-3;1;---;3,(1-1) BCX;;NYM;Starling Marte;Braxton Garrett;-4%;72%;Double to LF (Line Drive to LF Line)
+b1;0-3;1;-2-;3,(1-1) CB>C;;NYM;Francisco Lindor;Braxton Garrett;-2%;70%;Marte Steals 3B
+b1;0-3;1;--3;4,(1-2) CB>C.*S;O;NYM;Francisco Lindor;Braxton Garrett;5%;75%;Strikeout Swinging
+b1;0-3;2;--3;5,(2-2) CBSBS;O;NYM;Pete Alonso;Braxton Garrett;3%;78%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 3, Mets 0.
+Top of the 2nd, Marlins Batting, Ahead 3-0, Mets' Carlos Carrasco facing 7-8-9 
+;;;;;;;;;Luis Guillorme replaces Starling Marte (RF) playing 2B batting 2ndJeff McNeil moves from 2B to RF 
+t2;3-0;0;---;8,(2-2) ..CCF.BFFBX;O;MIA;Jean Segura;Carlos Carrasco;-1%;77%;Lineout: RF (Deep CF-RF)
+t2;3-0;1;---;2,(0-1) CX;O;MIA;Nick Fortes;Carlos Carrasco;-1%;76%;Groundout: 2B-1B
+t2;3-0;2;---;5,(2-2) FBS.BX;O;MIA;Jon Berti;Carlos Carrasco;-1%;75%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 3, Mets 0.
+Bottom of the 2nd, Mets Batting, Behind 0-3, Marlins' Braxton Garrett facing 5-6-7 
+b2;0-3;0;---;2,(0-1) CX;;NYM;Mark Canha;Braxton Garrett;-4%;71%;Single to LF (Line Drive to Short LF)
+b2;0-3;0;1--;5,(3-1) BBBCX;;NYM;Jeff McNeil;Braxton Garrett;-11%;61%;Double to RF (Line Drive to Short RF Line); Canha to 3B
+b2;0-3;0;-23;3,(0-2) CFS;O;NYM;Eduardo Escobar;Braxton Garrett;6%;66%;Strikeout Swinging
+b2;0-3;1;-23;4,(1-2) *S*BFX;R;NYM;Francisco Alvarez;Braxton Garrett;-7%;59%;Single to RF (Line Drive); Canha Scores; McNeil to 3B
+b2;1-3;1;1-3;7,(2-2) B*BCFFFC;O;NYM;Tim Locastro;Braxton Garrett;7%;66%;Strikeout Looking
+b2;1-3;2;1-3;1,(0-0) X;O;NYM;Tommy Pham;Braxton Garrett;5%;71%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Pham to 1B
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Marlins 3, Mets 1.
+Top of the 3rd, Marlins Batting, Ahead 3-1, Mets' Carlos Carrasco facing 1-2-3 
+t3;3-1;0;---;7,(3-2) BBBCCFX;O;MIA;Jazz Chisholm Jr.;Carlos Carrasco;-2%;70%;Groundout: 1B-P (2B-1B)
+t3;3-1;1;---;1,(0-0) X;O;MIA;Garrett Cooper;Carlos Carrasco;-1%;68%;Lineout: CF (Deep CF)
+t3;3-1;2;---;4,(2-1) BCBX;O;MIA;Luis Arraez;Carlos Carrasco;-1%;68%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 3, Mets 1.
+Bottom of the 3rd, Mets Batting, Behind 1-3, Marlins' Braxton Garrett facing 2-3-4 
+b3;1-3;0;---;1,(0-0) X;;NYM;Luis Guillorme;Braxton Garrett;-4%;63%;Single to P (Line Drive)
+b3;1-3;0;1--;6,(1-2) CBFFFS;O;NYM;Francisco Lindor;Braxton Garrett;4%;67%;Strikeout Swinging
+b3;1-3;1;1--;1,(0-0) X;OO;NYM;Pete Alonso;Braxton Garrett;6%;73%;Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Marlins 3, Mets 1.
+Top of the 4th, Marlins Batting, Ahead 3-1, Mets' Carlos Carrasco facing 4-5-6 
+t4;3-1;0;---;5,(3-1) BFBBB;;MIA;Bryan De La Cruz;Carlos Carrasco;3%;76%;Walk
+t4;3-1;0;1--;3,(2-0) BBX;;MIA;Yuli Gurriel;Carlos Carrasco;4%;80%;Single to LF (Line Drive to Deep 3B); De La Cruz to 2B
+t4;3-1;0;12-;2,(1-0) BX;O;MIA;Avisaíl García;Carlos Carrasco;-4%;76%;Lineout: RF (Deep RF)
+t4;3-1;1;12-;4,(2-1) BCBX;OO;MIA;Jean Segura;Carlos Carrasco;-7%;69%;Ground Ball Double Play: SS-2B-1B (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 3, Mets 1.
+Bottom of the 4th, Mets Batting, Behind 1-3, Marlins' Braxton Garrett facing 5-6-7 
+;;;;;;;;;Jesús Sánchez replaces Avisaíl García playing RF batting 6th
+b4;1-3;0;---;8,(3-2) .CBBBC.FFX;O;NYM;Mark Canha;Braxton Garrett;3%;72%;Groundout: 3B-1B
+b4;1-3;1;---;4,(3-0) BBBB;;NYM;Jeff McNeil;Braxton Garrett;-3%;69%;Walk
+b4;1-3;1;1--;5,(2-2) VS.*SBFX;;NYM;Eduardo Escobar;Braxton Garrett;-11%;58%;Double to LF (Ground Ball); McNeil to 3B
+b4;1-3;1;-23;5,(2-2) BBFS*S;O;NYM;Francisco Alvarez;Braxton Garrett;10%;68%;Strikeout Swinging
+b4;1-3;2;-23;3,(1-1) F*BX;O;NYM;Tim Locastro;Braxton Garrett;8%;75%;Flyball: LF (Short LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Marlins 3, Mets 1.
+Top of the 5th, Marlins Batting, Ahead 3-1, Mets' Carlos Carrasco facing 8-9-1 
+t5;3-1;0;---;1,(0-0) X;O;MIA;Nick Fortes;Carlos Carrasco;-2%;74%;Groundout: SS-1B
+t5;3-1;1;---;6,(3-2) CBBBFX;;MIA;Jon Berti;Carlos Carrasco;2%;75%;Single to RF (Line Drive to Deep RF)
+t5;3-1;1;1--;2,(1-0) 1B>B;;MIA;Jazz Chisholm Jr.;Carlos Carrasco;1%;77%;Berti Steals 2B
+t5;3-1;1;-2-;4,(2-1) 1B>B.CX;R;MIA;Jazz Chisholm Jr.;Carlos Carrasco;7%;84%;Single to LF (Line Drive to Short LF); Berti Scores
+t5;4-1;1;1--;2,(0-1) F1X;RR;MIA;Garrett Cooper;Carlos Carrasco;9%;93%;Home Run (Fly Ball to Deep LF); Chisholm Scores
+t5;6-1;1;---;4,(2-1) FBBX;O;MIA;Luis Arraez;Carlos Carrasco;0%;93%;Flyball: LF (Deep LF-CF)
+t5;6-1;2;---;5,(3-1) BBFBB;;MIA;Bryan De La Cruz;Carlos Carrasco;0%;93%;Walk
+;;;;;;;;;Stephen Nogosek replaces Carlos Carrasco pitching
+t5;6-1;2;1--;2,(1-0) .BX;O;MIA;Yuli Gurriel;Stephen Nogosek;-1%;93%;Groundout: SS-2B/Forceout at 2B; Gurriel to 1B
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Marlins 6, Mets 1.
+Bottom of the 5th, Mets Batting, Behind 1-6, Marlins' Braxton Garrett facing 1-2-3 
+b5;1-6;0;---;1,(0-1) AX;;NYM;Tommy Pham;Braxton Garrett;-2%;90%;Single to LF (Ground Ball thru SS-2B)
+b5;1-6;0;1--;3,(1-1) CBX;O;NYM;Luis Guillorme;Braxton Garrett;2%;93%;Groundout: SS-2B/Forceout at 2B; Guillorme to 1B
+b5;1-6;1;1--;3,(1-1) BSX;O;NYM;Francisco Lindor;Braxton Garrett;1%;94%;Groundout: 3B-1B; Guillorme to 2B
+b5;1-6;2;-2-;1,(0-0) X;R;NYM;Pete Alonso;Braxton Garrett;-4%;90%;Single to CF (Line Drive); Guillorme Scores
+b5;2-6;2;1--;5,(3-1) BFBBX;;NYM;Mark Canha;Braxton Garrett;-3%;87%;Double to LF (Fly Ball to Deep LF); Alonso to 3B
+;;;;;;;;;Tanner Scott replaces Braxton Garrett pitching
+b5;2-6;2;-23;4,(3-0) .BBBB;;NYM;Jeff McNeil;Tanner Scott;-2%;85%;Walk
+b5;2-6;2;123;2,(1-0) BX;O;NYM;Eduardo Escobar;Tanner Scott;7%;92%;Groundout: 3B unassisted/Forceout at 3B; Escobar to 1B
+;;;;;;;;;1 run, 3 hits, 0 errors, 3 LOB. Marlins 6, Mets 2.
+Top of the 6th, Marlins Batting, Ahead 6-2, Mets' Stephen Nogosek facing 6-7-8 
+t6;6-2;0;---;2,(0-1) SX;;MIA;Jesús Sánchez;Stephen Nogosek;1%;93%;Single to LF (Line Drive to Short LF Line)
+t6;6-2;0;1--;1,(0-0) X;O;MIA;Jean Segura;Stephen Nogosek;-1%;92%;Flyball: CF (Deep CF)
+t6;6-2;1;1--;3,(0-2) 1CFS;O;MIA;Nick Fortes;Stephen Nogosek;-1%;91%;Strikeout Swinging
+t6;6-2;2;1--;4,(2-1) BBF>C;;MIA;Jon Berti;Stephen Nogosek;0%;92%;Sánchez Steals 2B
+t6;6-2;2;-2-;5,(2-2) BBF>C.C;O;MIA;Jon Berti;Stephen Nogosek;-1%;90%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 6, Mets 2.
+Bottom of the 6th, Mets Batting, Behind 2-6, Marlins' Tanner Scott facing 8-9-1 
+b6;2-6;0;---;3,(1-1) CBX;O;NYM;Francisco Alvarez;Tanner Scott;2%;92%;Groundout: P-1B
+b6;2-6;1;---;6,(1-2) BCFFFS;O;NYM;Tim Locastro;Tanner Scott;1%;94%;Strikeout Swinging
+b6;2-6;2;---;3,(0-2) CCX;O;NYM;Tommy Pham;Tanner Scott;1%;94%;Lineout: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 6, Mets 2.
+Top of the 7th, Marlins Batting, Ahead 6-2, Mets' Stephen Nogosek facing 1-2-3 
+t7;6-2;0;---;7,(3-2) CCBBFBC;O;MIA;Jazz Chisholm Jr.;Stephen Nogosek;-1%;94%;Strikeout Looking
+t7;6-2;1;---;4,(1-2) .BCFX;;MIA;Garrett Cooper;Stephen Nogosek;1%;95%;Double to RF (Line Drive to Deep RF Line)
+t7;6-2;1;-2-;4,(2-1) CBB2X;;MIA;Luis Arraez;Stephen Nogosek;1%;96%;Single to 2B (Ground Ball); Cooper to 3B
+t7;6-2;1;1-3;1,(0-0) X;RO;MIA;Bryan De La Cruz;Stephen Nogosek;1%;97%;Lineout: CF/Sacrifice Fly (Deep CF); Cooper Scores
+t7;7-2;2;1--;7,(2-2) CFFBFBX;O;MIA;Yuli Gurriel;Stephen Nogosek;0%;96%;Flyball: CF
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Marlins 7, Mets 2.
+Bottom of the 7th, Mets Batting, Behind 2-7, Marlins' JT Chargois facing 2-3-4 
+;;;;;;;;;JT Chargois replaces Tanner Scott pitchingGarrett Hampson replaces Jazz Chisholm Jr. playing CF batting 1st
+b7;2-7;0;---;3,(2-0) ..BBX;O;NYM;Luis Guillorme;JT Chargois;1%;97%;Groundout: 3B-1B
+;;;;;;;;;Dylan Floro replaces JT Chargois pitching
+b7;2-7;1;---;8,(3-2) .BBCFBFF*S;O;NYM;Francisco Lindor;Dylan Floro;1%;98%;Strikeout Swinging
+b7;2-7;2;---;5,(2-2) BCFBC;O;NYM;Pete Alonso;Dylan Floro;0%;98%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 7, Mets 2.
+Top of the 8th, Marlins Batting, Ahead 7-2, Mets' Stephen Nogosek facing 6-7-8 
+t8;7-2;0;---;4,(3-0) BBBB;;MIA;Jesús Sánchez;Stephen Nogosek;0%;99%;Walk
+t8;7-2;0;1--;2,(0-1) CX;O;MIA;Jean Segura;Stephen Nogosek;0%;98%;Groundout: 3B-2B/Forceout at 2B (Weak 3B); Segura to 1B
+t8;7-2;1;1--;5,(2-2) CSBB1C;O;MIA;Nick Fortes;Stephen Nogosek;0%;98%;Strikeout Looking
+t8;7-2;2;1--;1,(0-0) >C;;MIA;Jon Berti;Stephen Nogosek;0%;98%;Segura Steals 2B; Segura to 3B/Adv on E2 (throw)
+t8;7-2;2;--3;5,(1-2) >C.BSFS;O;MIA;Jon Berti;Stephen Nogosek;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Marlins 7, Mets 2.
+Bottom of the 8th, Mets Batting, Behind 2-7, Marlins' Dylan Floro facing 5-6-7 
+b8;2-7;0;---;2,(0-1) CX;O;NYM;Mark Canha;Dylan Floro;1%;99%;Flyball: CF (Deep CF)
+b8;2-7;1;---;5,(2-2) CBBCX;;NYM;Jeff McNeil;Dylan Floro;-1%;98%;Reached on E7 (Fly Ball to LF-CF); McNeil to 2B
+b8;2-7;1;-2-;2,(1-0) BX;O;NYM;Eduardo Escobar;Dylan Floro;1%;99%;Flyball: RF (Short CF-RF)
+b8;2-7;2;-2-;3,(0-2) SFC;O;NYM;Francisco Alvarez;Dylan Floro;1%;99%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Marlins 7, Mets 2.
+Top of the 9th, Marlins Batting, Ahead 7-2, Mets' Dennis Santana facing 1-2-3 
+;;;;;;;;;Dennis Santana replaces Stephen Nogosek pitching
+t9;7-2;0;---;2,(1-0) .BX;O;MIA;Garrett Hampson;Dennis Santana;0%;99%;Groundout: 3B-1B (Weak 3B)
+t9;7-2;1;---;4,(1-2) SCBX;O;MIA;Garrett Cooper;Dennis Santana;0%;99%;Groundout: P unassisted (Short 1B Line)
+t9;7-2;2;---;2,(0-1) CX;;MIA;Luis Arraez;Dennis Santana;0%;99%;Single to SS (Ground Ball)
+t9;7-2;2;1--;4,(1-2) BCSX;;MIA;Bryan De La Cruz;Dennis Santana;0%;99%;Single to LF (Line Drive to LF-CF); Arraez to 2B
+t9;7-2;2;12-;6,(3-2) CBBC*B>B;;MIA;Yuli Gurriel;Dennis Santana;0%;99%;Walk; Arraez to 3B; De La Cruz to 2B
+t9;7-2;2;123;3,(0-2) SSS;O;MIA;Jesús Sánchez;Dennis Santana;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Marlins 7, Mets 2.
+Bottom of the 9th, Mets Batting, Behind 2-7, Marlins' A.J. Puk facing 9-1-2 
+;;;;;;;;;A.J. Puk replaces Dylan Floro pitching
+b9;2-7;0;---;3,(1-1) .CBX;;NYM;Tim Locastro;A.J. Puk;-1%;98%;Reached on E5 (Ground Ball to SS-3B Hole); Locastro to 1B
+b9;2-7;0;1--;5,(2-2) BCCBS;O;NYM;Tommy Pham;A.J. Puk;1%;99%;Strikeout Swinging
+b9;2-7;1;1--;2,(0-1) CX;O;NYM;Luis Guillorme;A.J. Puk;1%;100%;Popfly: SS (Deep SS-3B Hole)
+b9;2-7;2;1--;1,(0-0) X;O;NYM;Francisco Lindor;A.J. Puk;0%;100%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Marlins 7, Mets 2.

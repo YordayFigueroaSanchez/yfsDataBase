@@ -1,0 +1,264 @@
+
+Scorebox Meta
+20230912
+7:10 p.m. Local
+42194
+Dodger Stadium
+156
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/SDP-2023.png;/teams/SDP/2023.shtml;0;0;0;1;1;0;0;0;0;2;5;0
+https://cdn.ssref.net/req/202309121/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;1;0;3;3;0;0;2;2;X;11;11;1
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;2B-RF;3;1;0;0;2;1;5;.311;.411;.607;1.018;20;10;-0.066; 0.56;0.002;-0.067;-0.01%; 0.06; -0.4;4;2;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;5;4;4;2;0;1;5;.339;.416;.579;.995;18;13;0.186; 0.45;0.189;-0.003; 0.01%; 0.05; 3.1;5;0;HR,2B
+Will Smith;/players/s/smithwi05.shtml;C;3;3;2;3;1;0;5;.269;.367;.450;.818;20;11;0.204; 0.48;0.204;0.000; 0.01%; 0.05; 3.6;6;0;HR,2B,HBP
+Max Muncy;/players/m/muncyma01.shtml;3B;3;1;1;1;1;1;5;.208;.332;.492;.824;18;9;0.017; 0.44;0.021;-0.004; 0.00%; 0.05; -0.0;2;2;SF
+J.D. Martinez;/players/m/martijd02.shtml;DH;3;0;1;2;2;0;5;.265;.319;.555;.874;20;11;0.000; 0.45;0.033;-0.033;0%; 0.05; 2.3;;;
+David Peralta;/players/p/peralda01.shtml;LF;3;0;0;1;0;1;3;.269;.305;.391;.696;16;13;-0.015; 0.70;0.008;-0.023;-0.00%; 0.08; -0.5;3;0;
+Amed Rosario;/players/r/rosaram01.shtml;PH-2B;1;0;0;0;0;1;1;.260;.302;.376;.678;5;4;-0.004; 0.14;0.000;-0.004;0%; 0.02; -0.8;1;0;
+Jason Heyward;/players/h/heywaja01.shtml;RF;3;0;0;0;0;1;3;.269;.348;.481;.828;13;11;-0.036; 0.44;0.000;-0.036;-0.00%; 0.05; -0.8;3;0;
+Chris Taylor;/players/t/tayloch03.shtml;PH-LF;1;0;1;1;0;0;1;.238;.329;.443;.772;4;3;0.005; 0.14;0.005;0.000;0%; 0.02; 1.0;0;0;
+James Outman;/players/o/outmaja01.shtml;CF;3;0;0;1;0;2;4;.249;.359;.431;.790;19;11;-0.023; 0.23;0.001;-0.024;-0.00%; 0.03; -0.8;1;0;SF
+Enrique Hernández;/players/h/hernaen02.shtml;SS;4;2;2;0;0;0;4;.238;.296;.355;.651;14;10;0.041; 0.31;0.044;-0.003; 0.00%; 0.04; 0.0;2;2;
+Lance Lynn;/players/l/lynnla01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kyle Hurt;/players/h/hurtky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Will Smith (21, off Michael Wacha); Freddie Freeman (55, off Rich Hill).
+
+
+HR: Freddie Freeman (26, off Michael Wacha, 3rd inn, 1 on, 1 out to Deep LF-CF); Will Smith (18, off Michael Wacha, 4th inn, 2 on, 2 outs to Deep CF).
+
+
+SF: Max Muncy (6, off Michael Wacha); James Outman (4, off Rich Hill).
+
+
+HBP: Will Smith (10, by Nick Hernandez).
+
+
+TB: Freddie Freeman 8; Will Smith 6; Enrique Hernández 2; J.D. Martinez; Max Muncy; Chris Taylor.
+
+
+RBI: Will Smith 3 (71); Freddie Freeman 2 (93); J.D. Martinez 2 (84); Chris Taylor (50); Max Muncy (98); David Peralta (51); James Outman (64).
+
+
+2-out RBI: Will Smith 3; J.D. Martinez 2.
+
+
+Team LOB: 6.
+With RISP: 3 for 10.
+
+Batting away
+Jurickson Profar;/players/p/profaju01.shtml;1B-2B;3;0;1;0;1;0;4;.247;.326;.379;.705;11;6;0.051; 0.52;0.064;-0.013;0%; 0.00; 0.2;7;1;
+Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF;4;1;2;1;0;0;4;.259;.322;.459;.781;11;7;0.010; 0.76;0.073;-0.063;0%; 0.00; 0.8;3;0;HR,GDP
+Juan Soto;/players/s/sotoju01.shtml;LF;4;1;1;0;0;1;4;.260;.399;.488;.887;21;13;-0.013; 0.68;0.044;-0.057;0%; 0.00; -0.3;2;1;2B
+Manny Machado;/players/m/machama01.shtml;DH;4;0;1;0;0;0;4;.252;.315;.458;.773;17;10;0.002; 0.86;0.058;-0.056;0%; 0.00; -0.1;;;
+Xander Bogaerts;/players/b/bogaexa01.shtml;SS;2;0;0;0;1;1;3;.272;.341;.423;.764;17;8;0.001; 1.18;0.050;-0.049;0%; 0.01; -0.1;1;2;
+Garrett Cooper;/players/c/coopega03.shtml;1B;1;0;0;0;0;1;1;.255;.299;.418;.717;6;5;0.000; 0.01;0.000;0.000;0%; 0.00; -0.3;0;0;
+Trent Grisham;/players/g/grishtr01.shtml;CF;4;0;0;1;0;1;4;.204;.315;.362;.677;12;9;-0.077; 0.89;0.000;-0.077;0%; 0.00; -1.0;1;0;
+Matthew Batten;/players/b/battema01.shtml;2B-SS;4;0;0;0;0;1;4;.258;.347;.409;.756;16;11;-0.069; 0.78;0.000;-0.069;0%; 0.00; -1.0;2;3;
+Brett Sullivan;/players/s/sullibr01.shtml;C;3;0;0;0;0;0;3;.176;.189;.294;.483;11;6;-0.065; 0.77;0.000;-0.065;0%; 0.00; -0.8;8;0;
+Eguy Rosario;/players/r/rosareg01.shtml;3B;3;0;0;0;0;1;3;.143;.143;.571;.714;13;8;-0.031; 0.49;0.005;-0.036;0%; 0.00; -0.4;0;2;
+Michael Wacha;/players/w/wachami01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nick Hernandez;/players/h/hernani01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Rich Hill;/players/h/hillri01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Juan Soto (28, off Lance Lynn).
+
+
+HR: Fernando Tatis Jr. (24, off Lance Lynn, 5th inn, 0 on, 2 outs to Deep CF-RF).
+
+
+TB: Fernando Tatis Jr. 5; Juan Soto 2; Manny Machado; Jurickson Profar.
+
+
+GIDP: Fernando Tatis Jr. (14).
+
+
+RBI: Fernando Tatis Jr. (72); Trent Grisham (48).
+
+
+2-out RBI: Fernando Tatis Jr..
+
+
+Team LOB: 5.
+With RISP: 1 for 7.
+
+Pitching home
+Lance Lynn;/players/l/lynnla01.shtml; W (11-11); 7 ;5;2;2;2;3;1;5.94;28;111;64;37;10;17;6;17;7;0;60;;;0.187; 0.90; 0.01%; 0.10; 1.8
+Kyle Hurt;/players/h/hurtky01.shtml;Kyle Hurt; 2 ;0;0;0;0;3;0;0.00;6;24;19;9;5;5;2;1;0;0;;0;0;0.004; 0.03; 0.00%; 0.00; 1.1
+
+Pitching away
+Michael Wacha;/players/w/wachami01.shtml; L (11-4); 4 ;7;7;7;3;3;2;3.43;22;86;56;38;8;10;9;7;3;0;20;;;-0.312; 0.75;-0.00%; 0.00; -4.8
+Nick Hernandez;/players/h/hernani01.shtml;Nick Hernandez; 2 ;1;2;2;2;3;0;9.00;10;48;27;17;5;5;1;3;0;0;;0;0;0.006; 0.10; 0.00%; 0.00; -0.8
+Rich Hill;/players/h/hillri01.shtml;Rich Hill; 2 ;3;2;2;1;2;0;5.53;9;33;23;14;2;7;1;5;3;0;;3;2;-0.003; 0.04; 0.00%; 0.00; -1.1
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Nick Hernandez (1; Will Smith).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Nick Hernandez (1; Will Smith).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Jeremy Riggs, 1B - Ron Kulpa, 2B - Jansen Visconti, 3B - Cory Blaser, LF - (none), RF - (none).
+Time of Game: 2:36.
+Attendance: 42,194.
+Field Condition: Unknown.
+Start Time Weather: 73° F, Wind 5mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Padres
+1;Jurickson Profar;/players/p/profaju01.shtml;1B
+2;Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF
+3;Juan Soto;/players/s/sotoju01.shtml;LF
+4;Manny Machado;/players/m/machama01.shtml;DH
+5;Xander Bogaerts;/players/b/bogaexa01.shtml;SS
+6;Trent Grisham;/players/g/grishtr01.shtml;CF
+7;Matthew Batten;/players/b/battema01.shtml;2B
+8;Brett Sullivan;/players/s/sullibr01.shtml;C
+9;Eguy Rosario;/players/r/rosareg01.shtml;3B
+; Michael Wacha;/players/w/wachami01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;2B
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;C
+4;Max Muncy;/players/m/muncyma01.shtml;3B
+5;J.D. Martinez;/players/m/martijd02.shtml;DH
+6;David Peralta;/players/p/peralda01.shtml;LF
+7;Jason Heyward;/players/h/heywaja01.shtml;RF
+8;James Outman;/players/o/outmaja01.shtml;CF
+9;Enrique Hernández;/players/h/hernaen02.shtml;SS
+; Lance Lynn;/players/l/lynnla01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;1-0;1;1--;1,(0-0) X;RR;LAD;Freddie Freeman;Michael Wacha;15%;82%;Home Run (Fly Ball to Deep LF-CF); Hernández Scores
+b4;4-1;2;12-;2,(0-1) CX;RRR;LAD;Will Smith;Michael Wacha;11%;96%;Home Run (Fly Ball to Deep CF); Hernández Scores; Freeman Scores
+b1;0-0;1;1--;2,(0-1) CX;;LAD;Will Smith;Michael Wacha;8%;63%;Double to LF (Line Drive to Deep LF Line); Freeman to 3B
+t3;0-1;1;1--;4,(2-1) FBBX;OO;SDP;Fernando Tatis Jr.;Lance Lynn;6%;67%;Ground Ball Double Play: SS-2B-1B
+t4;0-4;0;-2-;6,(3-2) BSSBBX;;SDP;Manny Machado;Lance Lynn;-6%;77%;Single to LF (Line Drive to Deep LF); Soto to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Padres Batting, Tied 0-0, Dodgers' Lance Lynn facing 1-2-3 
+t1;0-0;0;---;6,(3-2) CS.BBBB;;SDP;Jurickson Profar;Lance Lynn;-3%;47%;Walk
+t1;0-0;0;1--;3,(1-1) LBX;;SDP;Fernando Tatis Jr.;Lance Lynn;-5%;41%;Single to SS (Ground Ball); Profar to 2B
+t1;0-0;0;12-;5,(3-1) B*BBSX;O;SDP;Juan Soto;Lance Lynn;5%;46%;Popfly: 3B (Weak 3B)
+t1;0-0;1;12-;6,(2-2) CFFB*BX;O;SDP;Manny Machado;Lance Lynn;4%;51%;Flyball: RF (Deep CF-RF)
+t1;0-0;2;12-;6,(3-2) BBCF.B>S;O;SDP;Xander Bogaerts;Lance Lynn;4%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Padres 0, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Tied 0-0, Padres' Michael Wacha facing 1-2-3 
+b1;0-0;0;---;5,(1-2) CFBFX;O;LAD;Mookie Betts;Michael Wacha;-2%;53%;Groundout: SS-1B (Deep SS)
+b1;0-0;1;---;4,(2-1) BFBX;;LAD;Freddie Freeman;Michael Wacha;2%;55%;Single to CF (Ground Ball thru SS-2B)
+b1;0-0;1;1--;2,(0-1) CX;;LAD;Will Smith;Michael Wacha;8%;63%;Double to LF (Line Drive to Deep LF Line); Freeman to 3B
+b1;0-0;1;-23;4,(1-2) BFTX;RO;LAD;Max Muncy;Michael Wacha;0%;63%;Lineout: CF/Sacrifice Fly (Deep CF); Freeman Scores
+b1;1-0;2;-2-;1,(0-0) X;O;LAD;J.D. Martinez;Michael Wacha;-3%;60%;Groundout: 2B-1B (Deep 2B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Padres 0, Dodgers 1.
+Top of the 2nd, Padres Batting, Behind 0-1, Dodgers' Lance Lynn facing 6-7-8 
+t2;0-1;0;---;3,(1-1) CBX;O;SDP;Trent Grisham;Lance Lynn;2%;63%;Lineout: SS (SS-2B)
+t2;0-1;1;---;4,(1-2) BLSX;O;SDP;Matthew Batten;Lance Lynn;2%;64%;Groundout: 2B-1B (SS-2B)
+t2;0-1;2;---;5,(3-1) BBCBX;O;SDP;Brett Sullivan;Lance Lynn;1%;65%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Dodgers 1.
+Bottom of the 2nd, Dodgers Batting, Ahead 1-0, Padres' Michael Wacha facing 6-7-8 
+b2;1-0;0;---;3,(0-2) CS*S;O;LAD;David Peralta;Michael Wacha;-2%;63%;Strikeout Swinging
+b2;1-0;1;---;6,(1-2) BCFFFX;O;LAD;Jason Heyward;Michael Wacha;-1%;62%;Groundout: 2B-1B (2B-1B)
+b2;1-0;2;---;5,(2-2) BFBFS;O;LAD;James Outman;Michael Wacha;-1%;61%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Dodgers 1.
+Top of the 3rd, Padres Batting, Behind 0-1, Dodgers' Lance Lynn facing 9-1-2 
+t3;0-1;0;---;7,(2-2) CBBC.FFC;O;SDP;Eguy Rosario;Lance Lynn;3%;64%;Strikeout Looking
+t3;0-1;1;---;1,(0-0) X;;SDP;Jurickson Profar;Lance Lynn;-3%;61%;Single to LF (Fly Ball to Short CF)
+t3;0-1;1;1--;4,(2-1) FBBX;OO;SDP;Fernando Tatis Jr.;Lance Lynn;6%;67%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Padres 0, Dodgers 1.
+Bottom of the 3rd, Dodgers Batting, Ahead 1-0, Padres' Michael Wacha facing 9-1-2 
+b3;1-0;0;---;3,(1-1) CBX;;LAD;Enrique Hernández;Michael Wacha;3%;70%;Single to CF (Line Drive to CF-RF)
+b3;1-0;0;1--;1,(0-0) X;O;LAD;Mookie Betts;Michael Wacha;-3%;67%;Flyball: RF (Deep RF)
+b3;1-0;1;1--;1,(0-0) X;RR;LAD;Freddie Freeman;Michael Wacha;15%;82%;Home Run (Fly Ball to Deep LF-CF); Hernández Scores
+b3;3-0;1;---;5,(3-1) BBCBB;;LAD;Will Smith;Michael Wacha;1%;84%;Walk
+b3;3-0;1;1--;4,(3-0) B*BBB;;LAD;Max Muncy;Michael Wacha;2%;85%;Walk; Smith to 2B
+b3;3-0;1;12-;8,(3-2) SFBBFFBB;;LAD;J.D. Martinez;Michael Wacha;3%;88%;Walk; Smith to 3B; Muncy to 2B
+b3;3-0;1;123;3,(0-2) FS.X;RO;LAD;David Peralta;Michael Wacha;1%;89%;Groundout: 1B-SS/Forceout at 2B (2B-1B); Smith Scores; Muncy to 3B; Peralta to 1B
+b3;4-0;2;1-3;3,(0-2) CFX;O;LAD;Jason Heyward;Michael Wacha;-2%;87%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;3 runs, 2 hits, 0 errors, 2 LOB. Padres 0, Dodgers 4.
+Top of the 4th, Padres Batting, Behind 0-4, Dodgers' Lance Lynn facing 3-4-5 
+t4;0-4;0;---;7,(3-2) CBBBCFX;;SDP;Juan Soto;Lance Lynn;-4%;83%;Double to LF (Line Drive to Deep LF Line)
+t4;0-4;0;-2-;6,(3-2) BSSBBX;;SDP;Manny Machado;Lance Lynn;-6%;77%;Single to LF (Line Drive to Deep LF); Soto to 3B
+t4;0-4;0;1-3;5,(3-1) BBBC*B;;SDP;Xander Bogaerts;Lance Lynn;-5%;72%;Walk; Machado to 2B
+t4;0-4;0;123;1,(0-0) X;RO;SDP;Trent Grisham;Lance Lynn;5%;77%;Bunt Groundout: 3B unassisted/Forceout at 3B (Weak 3B); Soto Scores; Bogaerts to 2B; Grisham to 1B
+t4;1-4;1;12-;3,(1-1) BCX;O;SDP;Matthew Batten;Lance Lynn;4%;81%;Lineout: RF (Deep RF); Bogaerts to 3B
+t4;1-4;2;1-3;3,(1-1) BSX;O;SDP;Brett Sullivan;Lance Lynn;5%;86%;Flyball: LF (Short LF-CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Padres 1, Dodgers 4.
+Bottom of the 4th, Dodgers Batting, Ahead 4-1, Padres' Michael Wacha facing 8-9-1 
+b4;4-1;0;---;5,(2-2) .BBFSX;O;LAD;James Outman;Michael Wacha;-1%;84%;Flyball: RF (RF Line)
+b4;4-1;1;---;6,(2-2) SFBBF.X;;LAD;Enrique Hernández;Michael Wacha;1%;86%;Single to 2B (Ground Ball to SS-2B)
+b4;4-1;1;1--;4,(1-2) *BCC1S;O;LAD;Mookie Betts;Michael Wacha;-1%;84%;Strikeout Swinging
+b4;4-1;2;1--;6,(2-2) FBF*BFX;;LAD;Freddie Freeman;Michael Wacha;1%;85%;Single to RF (Ground Ball thru 2B-1B); Hernández to 2B
+b4;4-1;2;12-;2,(0-1) CX;RRR;LAD;Will Smith;Michael Wacha;11%;96%;Home Run (Fly Ball to Deep CF); Hernández Scores; Freeman Scores
+b4;7-1;2;---;5,(3-1) BBFBX;O;LAD;Max Muncy;Michael Wacha;0%;96%;Groundout: 3B-1B
+;;;;;;;;;3 runs, 3 hits, 0 errors, 0 LOB. Padres 1, Dodgers 7.
+Top of the 5th, Padres Batting, Behind 1-7, Dodgers' Lance Lynn facing 9-1-2 
+t5;1-7;0;---;4,(2-1) BCBX;O;SDP;Eguy Rosario;Lance Lynn;1%;97%;Popfly: 2B (Deep 2B)
+t5;1-7;1;---;3,(1-1) SBX;O;SDP;Jurickson Profar;Lance Lynn;1%;97%;Flyball: CF (CF-RF)
+t5;1-7;2;---;1,(0-0) X;R;SDP;Fernando Tatis Jr.;Lance Lynn;-2%;95%;Home Run (Fly Ball to Deep CF-RF)
+t5;2-7;2;---;5,(2-2) BFBCS;O;SDP;Juan Soto;Lance Lynn;0%;96%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Padres 2, Dodgers 7.
+Bottom of the 5th, Dodgers Batting, Ahead 7-2, Padres' Nick Hernandez facing 5-6-7 
+;;;;;;;;;Nick Hernandez replaces Michael Wacha pitching
+b5;7-2;0;---;5,(1-2) .SFBFX;O;LAD;J.D. Martinez;Nick Hernandez;0%;95%;Flyball: RF
+b5;7-2;1;---;10,(3-2) FBSFFFBBFX;O;LAD;David Peralta;Nick Hernandez;0%;95%;Flyball: LF (LF Line)
+b5;7-2;2;---;4,(1-2) BFFS;O;LAD;Jason Heyward;Nick Hernandez;0%;95%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 2, Dodgers 7.
+Top of the 6th, Padres Batting, Behind 2-7, Dodgers' Lance Lynn facing 4-5-6 
+t6;2-7;0;---;3,(1-1) SBX;O;SDP;Manny Machado;Lance Lynn;1%;96%;Lineout: LF (Deep LF-CF)
+t6;2-7;1;---;6,(2-2) CBT.FBX;O;SDP;Xander Bogaerts;Lance Lynn;1%;97%;Lineout: SS (Deep SS)
+t6;2-7;2;---;3,(1-1) CBX;O;SDP;Trent Grisham;Lance Lynn;0%;97%;Lineout: 2B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 2, Dodgers 7.
+Bottom of the 6th, Dodgers Batting, Ahead 7-2, Padres' Nick Hernandez facing 8-9-1 
+b6;7-2;0;---;6,(3-2) BSFBBC;O;LAD;James Outman;Nick Hernandez;0%;97%;Strikeout Looking
+b6;7-2;1;---;3,(1-1) BCX;O;LAD;Enrique Hernández;Nick Hernandez;0%;97%;Groundout: 3B-1B
+b6;7-2;2;---;5,(3-1) BBBCB;;LAD;Mookie Betts;Nick Hernandez;0%;97%;Walk
+b6;7-2;2;1--;3,(0-2) F>F1C;O;LAD;Freddie Freeman;Nick Hernandez;0%;97%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 2, Dodgers 7.
+Top of the 7th, Padres Batting, Behind 2-7, Dodgers' Lance Lynn facing 7-8-9 
+t7;2-7;0;---;5,(2-2) CBFBX;O;SDP;Matthew Batten;Lance Lynn;1%;98%;Popfly: 2B (Deep 2B-1B)
+t7;2-7;1;---;3,(1-1) BFX;O;SDP;Brett Sullivan;Lance Lynn;1%;98%;Flyball: RF (Short CF-RF)
+t7;2-7;2;---;2,(1-0) BX;;SDP;Eguy Rosario;Lance Lynn;0%;98%;Reached on E5 (Ground Ball to SS-3B Hole); Rosario to 1B
+t7;2-7;2;1--;1,(0-0) X;O;SDP;Jurickson Profar;Lance Lynn;1%;98%;Flyball: LF (Short LF Line)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Padres 2, Dodgers 7.
+Bottom of the 7th, Dodgers Batting, Ahead 7-2, Padres' Nick Hernandez facing 3-4-5 
+b7;7-2;0;---;6,(2-2) BBCS.FH;;LAD;Will Smith;Nick Hernandez;0%;99%;Hit By Pitch
+b7;7-2;0;1--;2,(1-0) BX;;LAD;Max Muncy;Nick Hernandez;0%;99%;Single to 3B (Fly Ball to Deep 3B); Smith to 2B
+b7;7-2;0;12-;4,(3-0) BB*BB;;LAD;J.D. Martinez;Nick Hernandez;0%;99%;Walk; Smith to 3B; Muncy to 2B
+;;;;;;;;;Rich Hill replaces Nick Hernandez pitchingAmed Rosario pinch hits for David Peralta (LF) batting 6th
+b7;7-2;0;123;5,(1-2) ..BFSFC;O;LAD;Amed Rosario;Rich Hill;0%;99%;Strikeout Looking
+;;;;;;;;;Chris Taylor pinch hits for Jason Heyward (RF) batting 7th
+b7;7-2;1;123;4,(1-2) .CFBX;R;LAD;Chris Taylor;Rich Hill;1%;100%;Single to CF (Line Drive); Smith Scores; Muncy to 3B; Martinez to 2B
+b7;8-2;1;123;3,(1-1) BCX;RO;LAD;James Outman;Rich Hill;0%;100%;Flyball: LF/Sacrifice Fly (Deep LF-CF); Muncy Scores
+b7;9-2;2;12-;2,(0-1) CX;O;LAD;Enrique Hernández;Rich Hill;0%;100%;Groundout: SS-2B/Forceout at 2B; Hernández to 1B
+;;;;;;;;;2 runs, 2 hits, 0 errors, 2 LOB. Padres 2, Dodgers 9.
+Top of the 8th, Padres Batting, Behind 2-9, Dodgers' Kyle Hurt facing 2-3-4 
+;;;;;;;;;Kyle Hurt replaces Lance Lynn pitchingAmed Rosario moves from PH to 2B Chris Taylor moves from PH to LF Mookie Betts moves from 2B to RF 
+t8;2-9;0;---;3,(1-1) ....CBX;O;SDP;Fernando Tatis Jr.;Kyle Hurt;0%;100%;Flyball: 2B (Short CF)
+t8;2-9;1;---;4,(0-2) CC.FX;O;SDP;Juan Soto;Kyle Hurt;0%;100%;Groundout: SS-1B
+t8;2-9;2;---;2,(1-0) BX;O;SDP;Manny Machado;Kyle Hurt;0%;100%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 2, Dodgers 9.
+Bottom of the 8th, Dodgers Batting, Ahead 9-2, Padres' Rich Hill facing 1-2-3 
+;;;;;;;;;Garrett Cooper replaces Xander Bogaerts (SS) playing 1B batting 5thJurickson Profar moves from 1B to 2B Matthew Batten moves from 2B to SS 
+b8;9-2;0;---;5,(3-1) ...BBBCB;;LAD;Mookie Betts;Rich Hill;0%;100%;Walk
+b8;9-2;0;1--;4,(1-2) FFBX;;LAD;Freddie Freeman;Rich Hill;0%;100%;Double to RF (Line Drive to Deep RF Line); Betts to 3B
+b8;9-2;0;-23;5,(2-2) FCBBX;O;LAD;Will Smith;Rich Hill;0%;100%;Flyball: SS (Deep SS)
+b8;9-2;1;-23;3,(0-2) FCS;O;LAD;Max Muncy;Rich Hill;0%;100%;Strikeout Swinging
+b8;9-2;2;-23;2,(0-1) FX;RRO;LAD;J.D. Martinez;Rich Hill;0%;100%;Single to LF (Line Drive); Betts Scores; Freeman Scores; Martinez out at 2B/LF-P-2B
+;;;;;;;;;Tag play Challenged by SDP manager (Bob Melvin): Original call overturned as shown.
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Padres 2, Dodgers 11.
+Top of the 9th, Padres Batting, Behind 2-11, Dodgers' Kyle Hurt facing 5-6-7 
+t9;2-11;0;---;6,(1-2) SFFFBS;O;SDP;Garrett Cooper;Kyle Hurt;0%;100%;Strikeout Swinging
+t9;2-11;1;---;5,(1-2) CSFBS;O;SDP;Trent Grisham;Kyle Hurt;0%;100%;Strikeout Swinging
+t9;2-11;2;---;4,(1-2) CBST;O;SDP;Matthew Batten;Kyle Hurt;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 2, Dodgers 11.

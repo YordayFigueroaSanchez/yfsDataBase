@@ -1,0 +1,256 @@
+
+Scorebox Meta
+20230714
+7:10 p.m. Local
+40503
+Citi Field
+168
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;0;0;0;3;1;0;1;1;6;7;1
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;0;0;0;0;0;0;0;1;0
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;4;0;1;0;0;2;4;.266;.364;.442;.806;12;10;0.015; 0.62;0.059;-0.044; 0.00%; 0.21; 0.1;2;0;2B
+Tommy Pham;/players/p/phamth01.shtml;DH;4;0;0;0;0;1;4;.271;.345;.476;.821;17;13;-0.074; 0.62;0.000;-0.074;-0.01%; 0.21; -1.0;;;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;0;0;0;0;3;4;.236;.317;.472;.789;18;11;-0.074; 0.69;0.000;-0.074;-0.01%; 0.24; -0.9;1;2;
+Pete Alonso;/players/a/alonspe01.shtml;1B;3;0;0;0;1;1;4;.208;.310;.492;.802;15;8;-0.017; 0.55;0.010;-0.026;-0.00%; 0.19; -0.3;3;2;
+Starling Marte;/players/m/martest01.shtml;RF;2;0;0;0;0;0;3;.254;.309;.333;.642;7;5;-0.045; 0.94;0.015;-0.060;-0.01%; 0.33; -0.5;2;1;HBP
+Jeff McNeil;/players/m/mcneije01.shtml;2B;3;0;0;0;0;2;3;.251;.328;.325;.653;16;9;-0.062; 0.78;0.000;-0.062;-0.01%; 0.27; -0.6;3;1;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;3;0;0;0;0;0;3;.235;.291;.507;.798;10;7;-0.048; 0.64;0.000;-0.048;-0.01%; 0.22; -0.5;11;0;
+Brett Baty;/players/b/batybr01.shtml;3B;2;0;0;0;0;1;3;.242;.312;.351;.663;11;7;0.010; 0.48;0.029;-0.019; 0.00%; 0.16; -0.1;0;0;
+Mark Canha;/players/c/canhama01.shtml;LF;3;0;0;0;0;0;3;.242;.341;.397;.738;12;9;-0.062; 0.84;0.000;-0.062;-0.01%; 0.29; -0.7;4;0;
+Justin Verlander;/players/v/verlaju01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+David Peterson;/players/p/peterda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Gott;/players/g/gotttr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Dominic Leone;/players/l/leonedo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Drew Smith;/players/s/smithdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Brandon Nimmo (14, off Julio Urías).
+
+
+HBP: Starling Marte (8, by Julio Urías).
+
+
+TB: Brandon Nimmo 2.
+
+
+Team LOB: 4.
+With RISP: 0 for 3.
+
+Batting away
+Mookie Betts;/players/b/bettsmo01.shtml;2B;5;0;2;1;0;0;5;.278;.379;.583;.962;9;7;0.068; 1.02;0.114;-0.045; 0.06%; 1.47; 0.9;3;0;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;3;0;1;2;2;2;5;.320;.398;.557;.955;26;13;0.156; 0.76;0.171;-0.016; 0.13%; 1.09; 2.2;4;2;2B
+Will Smith;/players/s/smithwi05.shtml;C;5;0;0;1;0;3;5;.273;.389;.483;.872;24;17;-0.099; 0.63;0.001;-0.100;-0.08%; 0.90; -1.5;10;0;
+Max Muncy;/players/m/muncyma01.shtml;3B;3;0;0;0;2;2;5;.195;.332;.470;.802;27;12;-0.035; 0.55;0.020;-0.054;-0.03%; 0.79; -0.5;0;1;
+J.D. Martinez;/players/m/martijd02.shtml;DH;4;1;1;1;1;2;5;.255;.304;.576;.880;18;11;-0.020; 0.54;0.036;-0.056;-0.02%; 0.78; 0.1;;;HR
+David Peralta;/players/p/peralda01.shtml;LF;4;0;0;0;0;1;4;.278;.318;.426;.744;17;12;-0.071; 0.71;0.000;-0.071;-0.06%; 1.02; -1.0;1;0;
+Jason Heyward;/players/h/heywaja01.shtml;RF;3;2;0;0;1;1;4;.250;.346;.456;.802;21;14;0.002; 0.53;0.033;-0.031; 0.00%; 0.76; -0.3;4;0;
+James Outman;/players/o/outmaja01.shtml;CF;2;2;2;0;2;0;4;.242;.327;.428;.754;20;10;0.047; 0.66;0.071;-0.024; 0.04%; 0.94; 1.1;3;0;2B,CS
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;3;1;1;1;1;0;4;.235;.281;.290;.571;19;7;0.094; 1.11;0.120;-0.027; 0.08%; 1.59; 0.5;0;1;
+Julio Urías;/players/u/uriasju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yency Almonte;/players/a/almonye01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Caleb Ferguson;/players/f/ferguca01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Ryan Brasier;/players/b/brasiry01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Freddie Freeman (32, off Justin Verlander); James Outman (11, off Drew Smith).
+
+
+HR: J.D. Martinez (23, off Dominic Leone, 8th inn, 0 on, 1 out to Deep CF-RF).
+
+
+TB: J.D. Martinez 4; James Outman 3; Mookie Betts 2; Freddie Freeman 2; Miguel Rojas.
+
+
+RBI: Freddie Freeman 2 (63); J.D. Martinez (63); Miguel Rojas (11); Mookie Betts (63); Will Smith (47).
+
+
+2-out RBI: Miguel Rojas.
+
+
+Team LOB: 8.
+With RISP: 4 for 10.
+
+Pitching home
+Justin Verlander;/players/v/verlaju01.shtml; L (3-5); 5 ;2;3;3;6;6;0;3.72;22;104;59;32;10;17;1;9;4;0;51;;;-0.099; 1.15;-0.02%; 0.39; -0.5
+David Peterson;/players/p/peterda01.shtml;David Peterson; 1 ;2;1;1;1;1;0;6.51;5;22;12;5;3;4;1;2;2;0;;0;0;-0.039; 0.57;-0.01%; 0.20; -0.5
+Trevor Gott;/players/g/gotttr01.shtml;Trevor Gott; 1 ;0;0;0;0;1;0;3.66;3;15;9;6;1;2;1;1;0;0;;0;0;0.012; 0.15; 0.00%; 0.05; 0.5
+Dominic Leone;/players/l/leonedo01.shtml;Dominic Leone; 1 ;1;1;1;0;2;1;4.91;4;14;9;3;3;3;0;2;0;0;;0;0;-0.014; 0.08;-0.00%; 0.03; -0.5
+Drew Smith;/players/s/smithdr01.shtml;Drew Smith; 1 ;2;1;1;2;1;0;4.45;7;26;15;9;2;4;1;3;1;0;;0;0;-0.003; 0.02;-0.00%; 0.01; -0.5
+
+Pitching away
+Julio Urías;/players/u/uriasju01.shtml; W (7-5); 6 ;1;0;0;1;7;0;4.35;22;85;55;25;9;20;0;12;5;0;76;;;0.305; 0.86; 0.26%; 1.24; 3.0
+Yency Almonte;/players/a/almonye01.shtml;Yency Almonte; 1 ;0;0;0;0;1;0;5.02;3;11;7;3;1;3;2;0;0;0;;0;0;0.034; 0.45; 0.03%; 0.64; 0.5
+Caleb Ferguson;/players/f/ferguca01.shtml;Caleb Ferguson; 1 ;0;0;0;0;1;0;2.70;3;12;10;6;2;2;1;1;0;0;;0;0;0.015; 0.19; 0.01%; 0.27; 0.5
+Ryan Brasier;/players/b/brasiry01.shtml;Ryan Brasier; 1 ;0;0;0;0;1;0;5.46;3;10;7;4;1;2;2;0;0;0;;0;0;0.003; 0.04; 0.00%; 0.05; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Julio Urías (3; Starling Marte).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Julio Urías (3; Starling Marte).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Tony Randazzo, 1B - Alex Tosi, 2B - Brian Knight, 3B - Todd Tichenor, LF - (none), RF - (none).
+Time of Game: 2:48.
+Attendance: 40,503.
+Field Condition: Unknown.
+Start Time Weather: 82° F, Wind 9mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;2B
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;C
+4;Max Muncy;/players/m/muncyma01.shtml;3B
+5;J.D. Martinez;/players/m/martijd02.shtml;DH
+6;David Peralta;/players/p/peralda01.shtml;LF
+7;Jason Heyward;/players/h/heywaja01.shtml;RF
+8;James Outman;/players/o/outmaja01.shtml;CF
+9;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+; Julio Urías;/players/u/uriasju01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Tommy Pham;/players/p/phamth01.shtml;DH
+3;Francisco Lindor;/players/l/lindofr01.shtml;SS
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Starling Marte;/players/m/martest01.shtml;RF
+6;Jeff McNeil;/players/m/mcneije01.shtml;2B
+7;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+8;Brett Baty;/players/b/batybr01.shtml;3B
+9;Mark Canha;/players/c/canhama01.shtml;LF
+; Justin Verlander;/players/v/verlaju01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t5;1-0;1;123;2,(1-0) BX;RR;LAD;Freddie Freeman;Justin Verlander;15%;89%;Double to RF (Line Drive to RF Line); Outman Scores; Rojas Scores; Betts to 3B
+t5;0-0;1;123;2,(1-0) BX;R;LAD;Mookie Betts;Justin Verlander;11%;74%;Single to LF (Line Drive); Heyward Scores; Outman to 3B; Rojas to 2B
+t5;0-0;1;12-;5,(3-1) BB*BCB;;LAD;Miguel Rojas;Justin Verlander;8%;63%;Walk; Heyward to 3B; Outman to 2B
+b1;0-0;0;---;4,(1-2) CFBX;;NYM;Brandon Nimmo;Julio Urías;-6%;39%;Double to RF (Line Drive to Deep CF-RF)
+t5;0-0;1;1--;6,(3-2) *BSB+1BCB;;LAD;James Outman;Justin Verlander;5%;55%;Walk; Heyward to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Dodgers Batting, Tied 0-0, Mets' Justin Verlander facing 1-2-3 
+t1;0-0;0;---;2,(0-1) CX;O;LAD;Mookie Betts;Justin Verlander;-2%;48%;Flyball: CF
+t1;0-0;1;---;6,(3-2) FBBBFB;;LAD;Freddie Freeman;Justin Verlander;2%;50%;Walk
+t1;0-0;1;1--;4,(1-2) BSS+1C;O;LAD;Will Smith;Justin Verlander;-3%;47%;Strikeout Looking
+t1;0-0;2;1--;8,(3-2) CB*B.CFFB>B;;LAD;Max Muncy;Justin Verlander;2%;49%;Walk; Freeman to 2B
+t1;0-0;2;12-;3,(0-2) FFS;O;LAD;J.D. Martinez;Justin Verlander;-4%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Dodgers 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Dodgers' Julio Urías facing 1-2-3 
+b1;0-0;0;---;4,(1-2) CFBX;;NYM;Brandon Nimmo;Julio Urías;-6%;39%;Double to RF (Line Drive to Deep CF-RF)
+b1;0-0;0;-2-;6,(2-2) CCBFBS;O;NYM;Tommy Pham;Julio Urías;4%;43%;Strikeout Swinging
+b1;0-0;1;-2-;7,(3-2) C*BFBBFC;O;NYM;Francisco Lindor;Julio Urías;3%;47%;Strikeout Looking
+b1;0-0;2;-2-;5,(3-1) BCBBB;;NYM;Pete Alonso;Julio Urías;-1%;46%;Walk
+b1;0-0;2;12-;2,(0-1) CX;O;NYM;Starling Marte;Julio Urías;4%;50%;Flyball: RF (Short RF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Dodgers 0, Mets 0.
+Top of the 2nd, Dodgers Batting, Tied 0-0, Mets' Justin Verlander facing 6-7-8 
+t2;0-0;0;---;7,(3-2) BCCBFBX;O;LAD;David Peralta;Justin Verlander;-2%;48%;Lineout: 1B
+t2;0-0;1;---;7,(1-2) CCFFBFX;O;LAD;Jason Heyward;Justin Verlander;-2%;46%;Groundout: 1B-P (2B-1B)
+t2;0-0;2;---;7,(3-2) SBBSFBB;;LAD;James Outman;Justin Verlander;1%;47%;Walk
+t2;0-0;2;1--;2,(1-1) BFN;O;LAD;Miguel Rojas;Justin Verlander;-2%;45%;Outman Caught Stealing 2B (P-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Dodgers' Julio Urías facing 6-7-8 
+b2;0-0;0;---;4,(2-1) BFBX;O;NYM;Jeff McNeil;Julio Urías;2%;47%;Flyball: LF (Deep LF)
+b2;0-0;1;---;5,(2-2) BFFB.X;O;NYM;Francisco Alvarez;Julio Urías;2%;49%;Popfly: 2B (Short CF)
+b2;0-0;2;---;5,(2-2) CBTB*S;O;NYM;Brett Baty;Julio Urías;1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Mets 0.
+Top of the 3rd, Dodgers Batting, Tied 0-0, Mets' Justin Verlander facing 9-1-2 
+t3;0-0;0;---;5,(2-2) BFBCX;O;LAD;Miguel Rojas;Justin Verlander;-3%;47%;Lineout: 1B (2B-1B)
+t3;0-0;1;---;1,(0-0) X;O;LAD;Mookie Betts;Justin Verlander;-2%;46%;Flyball: RF (Deep CF-RF)
+t3;0-0;2;---;5,(2-2) BBSFC;O;LAD;Freddie Freeman;Justin Verlander;-1%;45%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Mets 0.
+Bottom of the 3rd, Mets Batting, Tied 0-0, Dodgers' Julio Urías facing 9-1-2 
+b3;0-0;0;---;2,(0-1) CX;O;NYM;Mark Canha;Julio Urías;3%;47%;Lineout: 2B
+b3;0-0;1;---;1,(0-0) X;O;NYM;Brandon Nimmo;Julio Urías;2%;49%;Lineout: RF (Deep RF)
+b3;0-0;2;---;5,(2-2) CBBCX;O;NYM;Tommy Pham;Julio Urías;1%;50%;Lineout: RF (Deep RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Mets 0.
+Top of the 4th, Dodgers Batting, Tied 0-0, Mets' Justin Verlander facing 3-4-5 
+t4;0-0;0;---;5,(2-2) BBCC.S;O;LAD;Will Smith;Justin Verlander;-3%;47%;Strikeout Swinging
+t4;0-0;1;---;7,(3-2) CBBTFBS;O;LAD;Max Muncy;Justin Verlander;-2%;45%;Strikeout Swinging
+t4;0-0;2;---;3,(2-0) BBX;O;LAD;J.D. Martinez;Justin Verlander;-1%;44%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Mets 0.
+Bottom of the 4th, Mets Batting, Tied 0-0, Dodgers' Julio Urías facing 3-4-5 
+b4;0-0;0;---;1,(0-0) X;O;NYM;Francisco Lindor;Julio Urías;3%;47%;Flyball: CF
+b4;0-0;1;---;4,(1-2) CFBX;O;NYM;Pete Alonso;Julio Urías;2%;49%;Popfly: 2B (Deep 2B-1B)
+b4;0-0;2;---;3,(1-1) BCH;;NYM;Starling Marte;Julio Urías;-1%;47%;Hit By Pitch
+;;;;;;;;;Hit by Pitch Challenged by LAD manager (Dave Roberts): Original call upheld upon review.
+b4;0-0;2;1--;6,(2-2) BFC1BFT;O;NYM;Jeff McNeil;Julio Urías;3%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Dodgers 0, Mets 0.
+Top of the 5th, Dodgers Batting, Tied 0-0, Mets' Justin Verlander facing 6-7-8 
+t5;0-0;0;---;5,(1-2) FF.BFX;O;LAD;David Peralta;Justin Verlander;-3%;47%;Flyball: LF (Short LF-CF)
+t5;0-0;1;---;6,(3-2) BFFBBB;;LAD;Jason Heyward;Justin Verlander;3%;50%;Walk
+t5;0-0;1;1--;6,(3-2) *BSB+1BCB;;LAD;James Outman;Justin Verlander;5%;55%;Walk; Heyward to 2B
+t5;0-0;1;12-;5,(3-1) BB*BCB;;LAD;Miguel Rojas;Justin Verlander;8%;63%;Walk; Heyward to 3B; Outman to 2B
+t5;0-0;1;123;2,(1-0) BX;R;LAD;Mookie Betts;Justin Verlander;11%;74%;Single to LF (Line Drive); Heyward Scores; Outman to 3B; Rojas to 2B
+t5;1-0;1;123;2,(1-0) BX;RR;LAD;Freddie Freeman;Justin Verlander;15%;89%;Double to RF (Line Drive to RF Line); Outman Scores; Rojas Scores; Betts to 3B
+t5;3-0;1;-23;4,(0-2) CCFS;O;LAD;Will Smith;Justin Verlander;-4%;84%;Strikeout Swinging
+t5;3-0;2;-23;2,(1-0) BX;O;LAD;Max Muncy;Justin Verlander;-3%;81%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;3 runs, 2 hits, 0 errors, 2 LOB. Dodgers 3, Mets 0.
+Bottom of the 5th, Mets Batting, Behind 0-3, Dodgers' Julio Urías facing 7-8-9 
+b5;0-3;0;---;2,(0-1) CX;O;NYM;Francisco Alvarez;Julio Urías;3%;84%;Lineout: CF (Deep CF)
+b5;0-3;1;---;5,(2-2) BCSBX;;NYM;Brett Baty;Julio Urías;-3%;81%;Reached on Interference on C; Baty to 1B
+b5;0-3;1;1--;2,(1-0) BX;O;NYM;Mark Canha;Julio Urías;3%;84%;Foul Popfly: 1B (1B into Foul Terr.)
+b5;0-3;2;1--;4,(1-2) SBSC;O;NYM;Brandon Nimmo;Julio Urías;2%;87%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Dodgers 3, Mets 0.
+Top of the 6th, Dodgers Batting, Ahead 3-0, Mets' David Peterson facing 5-6-7 
+;;;;;;;;;David Peterson replaces Justin Verlander pitching
+t6;3-0;0;---;6,(3-2) .BFBCBB;;LAD;J.D. Martinez;David Peterson;2%;88%;Walk
+t6;3-0;0;1--;4,(1-2) BSFS;O;LAD;David Peralta;David Peterson;-2%;87%;Strikeout Swinging
+t6;3-0;1;1--;4,(1-2) SBCX;O;LAD;Jason Heyward;David Peterson;-1%;85%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Heyward to 1B
+t6;3-0;2;1--;3,(1-1) CBX;;LAD;James Outman;David Peterson;1%;86%;Single to LF (Line Drive to Short LF-CF); Heyward to 2B
+t6;3-0;2;12-;5,(3-1) BBCBX;RO;LAD;Miguel Rojas;David Peterson;4%;91%;Single to RF (Line Drive to Short RF); Heyward Scores; Outman to 3B; Rojas out at 2B/RF-1B-SS-2B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Dodgers 4, Mets 0.
+Bottom of the 6th, Mets Batting, Behind 0-4, Dodgers' Julio Urías facing 2-3-4 
+b6;0-4;0;---;3,(0-2) CFX;O;NYM;Tommy Pham;Julio Urías;2%;92%;Flyball: RF (Deep CF-RF)
+b6;0-4;1;---;4,(1-2) CBSC;O;NYM;Francisco Lindor;Julio Urías;1%;94%;Strikeout Looking
+b6;0-4;2;---;5,(2-2) SS.BBS;O;NYM;Pete Alonso;Julio Urías;1%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 4, Mets 0.
+Top of the 7th, Dodgers Batting, Ahead 4-0, Mets' Trevor Gott facing 1-2-3 
+;;;;;;;;;Trevor Gott replaces David Peterson pitching
+t7;4-0;0;---;3,(1-1) .CBX;O;LAD;Mookie Betts;Trevor Gott;-1%;94%;Flyball: RF
+t7;4-0;1;---;5,(2-2) BFBCS;O;LAD;Freddie Freeman;Trevor Gott;0%;93%;Strikeout Swinging
+t7;4-0;2;---;7,(3-2) BBFBFF.X;O;LAD;Will Smith;Trevor Gott;0%;93%;Groundout: P-1B (P's Left)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 4, Mets 0.
+Bottom of the 7th, Mets Batting, Behind 0-4, Dodgers' Yency Almonte facing 5-6-7 
+;;;;;;;;;Yency Almonte replaces Julio Urías pitching
+b7;0-4;0;---;2,(0-1) .CX;O;NYM;Starling Marte;Yency Almonte;2%;95%;Groundout: 3B-1B (Weak 3B)
+b7;0-4;1;---;6,(3-2) CBS.BBC;O;NYM;Jeff McNeil;Yency Almonte;1%;96%;Strikeout Looking
+b7;0-4;2;---;3,(1-1) BFX;O;NYM;Francisco Alvarez;Yency Almonte;1%;97%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 4, Mets 0.
+Top of the 8th, Dodgers Batting, Ahead 4-0, Mets' Dominic Leone facing 4-5-6 
+;;;;;;;;;Dominic Leone replaces Trevor Gott pitching
+t8;4-0;0;---;6,(3-2) .SBBCBC;O;LAD;Max Muncy;Dominic Leone;0%;96%;Strikeout Looking
+t8;4-0;1;---;3,(1-1) FBX;R;LAD;J.D. Martinez;Dominic Leone;2%;98%;Home Run (Fly Ball to Deep CF-RF)
+t8;5-0;1;---;1,(0-0) X;O;LAD;David Peralta;Dominic Leone;0%;98%;Flyball: CF (Deep CF)
+t8;5-0;2;---;4,(1-2) BSCS;O;LAD;Jason Heyward;Dominic Leone;0%;98%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Dodgers 5, Mets 0.
+Bottom of the 8th, Mets Batting, Behind 0-5, Dodgers' Caleb Ferguson facing 8-9-1 
+;;;;;;;;;Caleb Ferguson replaces Yency Almonte pitching
+b8;0-5;0;---;1,(0-0) .X;O;NYM;Brett Baty;Caleb Ferguson;1%;99%;Groundout: 1B-P
+b8;0-5;1;---;8,(2-2) CFBFFBFX;O;NYM;Mark Canha;Caleb Ferguson;0%;99%;Flyball: CF (Deep CF)
+b8;0-5;2;---;3,(0-2) SSC;O;NYM;Brandon Nimmo;Caleb Ferguson;0%;99%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 5, Mets 0.
+Top of the 9th, Dodgers Batting, Ahead 5-0, Mets' Drew Smith facing 8-9-1 
+;;;;;;;;;Drew Smith replaces Dominic Leone pitching
+t9;5-0;0;---;4,(1-2) .CC.BX;;LAD;James Outman;Drew Smith;0%;100%;Double to RF (Fly Ball to Short RF)
+t9;5-0;0;-2-;2,(1-0) BX;O;LAD;Miguel Rojas;Drew Smith;0%;99%;Lineout: LF (Deep LF-CF)
+t9;5-0;1;-2-;1,(0-0) X;;LAD;Mookie Betts;Drew Smith;0%;100%;Single to RF (Fly Ball to Short CF-RF); Outman to 3B
+t9;5-0;1;1-3;8,(3-2) BB+1CFF11B>F>B;;LAD;Freddie Freeman;Drew Smith;0%;100%;Walk; Betts to 2B
+t9;5-0;1;123;4,(1-2) TFBX;RO;LAD;Will Smith;Drew Smith;0%;100%;Groundout: SS-2B/Forceout at 2B; Outman Scores; Betts to 3B; Smith to 1B
+t9;6-0;2;1-3;4,(3-0) BBBB;;LAD;Max Muncy;Drew Smith;0%;100%;Walk; Smith to 2B
+t9;6-0;2;123;3,(0-2) CSS;O;LAD;J.D. Martinez;Drew Smith;0%;100%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 3 LOB. Dodgers 6, Mets 0.
+Bottom of the 9th, Mets Batting, Behind 0-6, Dodgers' Ryan Brasier facing 2-3-4 
+;;;;;;;;;Ryan Brasier replaces Caleb Ferguson pitching
+b9;0-6;0;---;3,(0-2) .CFX;O;NYM;Tommy Pham;Ryan Brasier;0%;100%;Groundout: 1B unassisted (Short 1B Line)
+b9;0-6;1;---;6,(3-2) BBTBCS;O;NYM;Francisco Lindor;Ryan Brasier;0%;100%;Strikeout Swinging
+b9;0-6;2;---;1,(0-0) X;O;NYM;Pete Alonso;Ryan Brasier;0%;100%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 6, Mets 0.

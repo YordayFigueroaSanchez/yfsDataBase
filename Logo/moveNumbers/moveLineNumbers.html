@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mover Números en Línea Recta</title>
+    <style>
+        /* Estilo de ejemplo para los números */
+        .numero-container {
+            position: relative;
+        }
+
+        .numero {
+            position: absolute;
+            top: 50px;
+            left: 0;
+            transition: left 1s ease; /* Animación de movimiento horizontal de 1 segundo */
+        }
+    </style>
+</head>
+<body>
+    <!-- Contenedor para los números -->
+    <div class="numero-container">
+        <!-- Elementos con la clase "numero" que deseas mover -->
+        <div class="numero">1</div>
+        <div class="numero">2</div>
+        <div class="numero">3</div>
+    </div>
+
+    <script>
+        // Obtener todos los elementos con la clase "numero"
+        const numeros = document.querySelectorAll('.numero');
+
+        // Función para mover los números en línea recta
+        function moverNumeros() {
+            let leftPosition = 0; // Inicializar la posición izquierda en 0
+            numeros.forEach(numero => {
+                numero.style.left = leftPosition + 'px'; // Establecer la nueva posición izquierda
+                leftPosition += 50; // Aumentar la posición izquierda para el siguiente número
+            });
+        }
+
+        // Llamar a la función para mover los números cada 2 segundos
+        setInterval(moverNumeros, 2000);
+    </script>
+</body>
+</html>

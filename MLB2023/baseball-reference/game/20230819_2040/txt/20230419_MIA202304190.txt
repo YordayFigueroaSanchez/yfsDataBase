@@ -1,0 +1,322 @@
+
+Scorebox Meta
+20230419
+1:10 p.m. Local
+8272
+loanDepot park
+217
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/SFG-2023.png;/teams/SFG/2023.shtml;0;0;0;1;0;0;0;0;0;0;4;5;7;0
+https://cdn.ssref.net/req/202308101/tlogo/br/MIA-2023.png;/teams/MIA/2023.shtml;0;0;0;0;1;0;0;0;0;0;1;2;10;0
+
+Batting home
+Jazz Chisholm Jr.;/players/c/chishja01.shtml;CF;6;0;1;0;0;4;6;.235;.297;.412;.709;27;19;-0.118; 2.09;0.161;-0.278;-0.07%; 2.04; -1.0;1;0;SB
+Garrett Cooper;/players/c/coopega03.shtml;1B;5;0;1;1;0;1;6;.313;.352;.493;.845;16;11;0.009; 1.46;0.196;-0.187; 0.01%; 1.42; 0.2;12;0;HBP
+Jesús Sánchez;/players/s/sanchje02.shtml;PR;0;0;0;0;0;0;0;.174;.345;.261;.606;;;;;;;;;;;;
+Luis Arraez;/players/a/arraelu01.shtml;2B;5;0;1;0;1;0;6;.438;.493;.578;1.071;21;13;-0.151; 1.92;0.035;-0.186;-0.09%; 1.88; -0.9;1;5;SB,IW
+Jorge Soler;/players/s/solerjo01.shtml;DH;3;0;1;0;2;1;5;.267;.343;.633;.977;15;8;0.032; 1.83;0.099;-0.068; 0.02%; 1.79; 0.8;;;IW
+Bryan De La Cruz;/players/d/delacbr01.shtml;LF;5;0;1;0;0;2;5;.288;.328;.356;.684;24;16;-0.322; 2.42;0.017;-0.339;-0.19%; 2.37; -2.0;4;0;
+Avisaíl García;/players/g/garciav01.shtml;RF;5;1;1;0;0;3;5;.156;.208;.244;.453;16;12;-0.262; 2.47;0.027;-0.289;-0.15%; 2.42; -1.4;0;0;
+Jon Berti;/players/b/bertijo01.shtml;3B;5;0;1;1;0;1;5;.224;.246;.310;.556;19;12;-0.110; 1.44;0.053;-0.163;-0.07%; 1.41; -0.1;1;4;2B
+Jacob Stallings;/players/s/stallja01.shtml;C;4;0;1;0;0;1;4;.161;.257;.258;.515;15;9;-0.048; 1.11;0.029;-0.078;-0.03%; 1.08; -0.5;9;1;
+Nick Fortes;/players/f/forteni01.shtml;PR-C;1;0;0;0;0;1;1;.156;.182;.250;.432;5;4;-0.046; 1.83;0.000;-0.046;-0.03%; 1.79; -0.4;3;0;
+Garrett Hampson;/players/h/hampsga01.shtml;SS;4;1;2;0;1;2;5;.222;.300;.444;.744;27;15;0.105; 1.43;0.162;-0.057; 0.06%; 1.40; 0.5;2;2;SB
+Trevor Rogers;/players/r/rogertr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+George Soriano;/players/s/soriage01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matt Barnes;/players/b/barnema01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andrew Nardi;/players/n/nardian01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Huascar Brazoban;/players/b/brazohu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tanner Scott;/players/s/scottta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Devin Smeltzer;/players/s/smeltde01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jon Berti (2, off Sean Hjelle).
+
+
+IBB: Luis Arraez (1, by Camilo Doval); Jorge Soler (1, by Camilo Doval).
+
+
+HBP: Garrett Cooper (1, by Taylor Rogers).
+
+
+TB: Garrett Hampson 2; Jon Berti 2; Luis Arraez; Jacob Stallings; Avisaíl García; Garrett Cooper; Jazz Chisholm Jr.; Jorge Soler; Bryan De La Cruz.
+
+
+RBI: Garrett Cooper (10); Jon Berti (6).
+
+
+2-out RBI: Garrett Cooper.
+
+
+Team LOB: 15.
+With RISP: 2 for 16.
+
+Batting away
+Thairo Estrada;/players/e/estrath01.shtml;SS-2B;5;1;1;0;0;1;5;.323;.371;.523;.895;26;16;-0.227; 2.05;0.035;-0.263;-0.09%; 1.35; -0.9;0;1;
+Wilmer Flores;/players/f/florewi01.shtml;1B;5;1;1;0;0;0;5;.320;.358;.480;.838;16;13;-0.156; 1.76;0.043;-0.199;-0.06%; 1.16; -0.8;5;1;
+Darin Ruf;/players/r/rufda01.shtml;DH;2;0;1;1;1;1;3;.267;.389;.400;.789;17;8;0.089; 1.54;0.177;-0.088; 0.04%; 1.01; 0.8;;;2B
+Michael Conforto;/players/c/confomi01.shtml;PH-DH-DH;2;1;1;2;0;1;2;.233;.377;.512;.889;6;4;0.368; 2.42;0.404;-0.035; 0.15%; 1.59; 1.4;;;HR
+J.D. Davis;/players/d/davisjd01.shtml;3B;5;0;1;0;0;2;5;.333;.373;.593;.965;13;10;-0.033; 0.96;0.063;-0.096;-0.01%; 0.63; -0.0;1;1;
+David Villar;/players/v/villada01.shtml;2B;5;1;1;0;0;2;5;.179;.281;.393;.674;23;15;-0.138; 1.21;0.021;-0.159;-0.06%; 0.79; -1.0;0;2;2B
+Brandon Crawford;/players/c/crawfbr01.shtml;SS;0;0;0;0;0;0;0;.160;.250;.300;.550;;;;;;;;;;0;0;
+Mike Yastrzemski;/players/y/yastrmi01.shtml;CF-RF;5;1;1;2;0;1;5;.239;.271;.478;.749;22;14;-0.029; 1.36;0.141;-0.170;-0.01%; 0.90; 0.5;3;0;HR
+Joey Bart;/players/b/bartjo01.shtml;C;2;0;0;0;1;0;5;.333;.407;.375;.782;18;10;0.020; 1.05;0.066;-0.046; 0.01%; 0.69; 0.5;17;0;2·HBP
+Heliot Ramos;/players/r/ramoshe02.shtml;LF;4;0;0;0;1;1;5;.190;.227;.238;.465;18;10;-0.052; 2.05;0.065;-0.116;-0.02%; 1.35; -1.1;2;0;
+Brett Wisely;/players/w/wiselbr01.shtml;CF;0;0;0;0;0;0;0;.000;.000;.000;.000;;;;;;;;;;0;0;
+LaMonte Wade Jr.;/players/w/wadela01.shtml;RF-LF;4;0;0;0;0;2;4;.200;.439;.300;.739;20;14;-0.254; 2.75;0.000;-0.254;-0.10%; 1.81; -1.3;4;0;
+Alex Cobb;/players/c/cobbal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+John Brebbia;/players/b/brebbjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Scott Alexander;/players/a/alexasc02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tyler Rogers;/players/r/rogerty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Camilo Doval;/players/d/dovalca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Sean Hjelle;/players/h/hjellse01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Taylor Rogers;/players/r/rogerta01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Darin Ruf (2, off Trevor Rogers); David Villar (3, off Devin Smeltzer).
+
+
+HR: Michael Conforto (4, off Devin Smeltzer, 11th inn, 1 on, 1 out to Deep CF-RF); Mike Yastrzemski (4, off Devin Smeltzer, 11th inn, 1 on, 2 outs to Deep RF Line).
+
+
+HBP: Joey Bart 2 (2, 1 by Andrew Nardi, 1 by Devin Smeltzer).
+
+
+TB: Mike Yastrzemski 4; Michael Conforto 4; Darin Ruf 2; David Villar 2; J.D. Davis; Thairo Estrada; Wilmer Flores.
+
+
+RBI: Michael Conforto 2 (8); Mike Yastrzemski 2 (9); Darin Ruf (2).
+
+
+2-out RBI: Mike Yastrzemski 2.
+
+
+Team LOB: 8.
+With RISP: 3 for 13.
+
+Pitching home
+Trevor Rogers;/players/r/rogertr01.shtml;Trevor Rogers; 3 ;3;1;1;1;3;0;4.00;12;58;35;19;4;12;3;5;1;0;51;;;-0.029; 1.04;-0.02%; 1.01; -0.1
+George Soriano;/players/s/soriage01.shtml;George Soriano; 2 ;1;0;0;1;1;0;0.00;8;35;21;10;3;8;2;4;2;0;;1;0;0.168; 1.42; 0.10%; 1.38; 1.7
+Matt Barnes;/players/b/barnema01.shtml;Matt Barnes; 1 ;0;0;0;0;2;0;2.70;3;9;7;1;1;5;1;0;0;0;;0;0;0.076; 1.00; 0.04%; 0.98; 0.5
+Andrew Nardi;/players/n/nardian01.shtml;Andrew Nardi; 0.2;0;0;0;1;0;0;4.32;4;17;10;6;1;3;1;1;0;0;;0;0;-0.013; 2.00;-0.01%; 1.95; -0.1
+Huascar Brazoban;/players/b/brazohu01.shtml;Huascar Brazoban; 1.2;0;0;0;0;2;0;3.75;5;21;15;6;5;4;1;2;1;0;;2;0;0.271; 2.01; 0.16%; 1.96; 1.4
+Tanner Scott;/players/s/scottta01.shtml;Tanner Scott; 1.2;0;0;0;0;2;0;4.32;5;16;11;5;3;3;2;1;0;0;;0;0;0.394; 3.60; 0.23%; 3.52; 1.4
+Devin Smeltzer;/players/s/smeltde01.shtml; L (0-1); 1 ;3;4;3;0;1;2;14.40;7;23;15;9;1;5;3;2;0;0;;0;0;-0.455; 1.47;-0.27%; 1.44; -2.9
+
+Pitching away
+Alex Cobb;/players/c/cobbal01.shtml;Alex Cobb; 5 ;7;1;1;1;8;0;2.79;23;92;57;27;14;16;7;7;3;0;56;;;0.139; 1.27; 0.06%; 0.84; 1.6
+John Brebbia;/players/b/brebbjo01.shtml;John Brebbia; 1.1;0;0;0;0;2;0;6.43;4;16;10;4;3;3;0;2;0;0;;0;0;0.115; 1.12; 0.05%; 0.74; 0.8
+Scott Alexander;/players/a/alexasc02.shtml;Scott Alexander; 1 ;0;0;0;0;1;0;1.23;3;14;10;7;2;1;1;1;0;0;;0;0;0.097; 1.26; 0.04%; 0.83; 0.5
+Tyler Rogers;/players/r/rogerty01.shtml;Tyler Rogers; 1.1;2;0;0;0;1;0;0.00;6;22;16;8;2;6;3;2;1;0;;0;0;0.090; 1.71; 0.03%; 1.13; 0.3
+Camilo Doval;/players/d/dovalca01.shtml; W (1-2); 1.1;0;0;0;2;2;0;2.57;6;17;11;6;3;2;0;2;0;0;;2;0;0.426; 4.35; 0.17%; 2.87; 1.6
+Sean Hjelle;/players/h/hjellse01.shtml;Sean Hjelle; 0.1;1;1;0;1;1;0;6.75;3;14;8;3;1;4;1;0;0;0;;0;0;-0.059; 1.34;-0.02%; 0.89; -0.8
+Taylor Rogers;/players/r/rogerta01.shtml; S (1); 0.2;0;0;0;0;1;0;13.50;3;10;7;3;1;3;1;0;0;0;;2;0;0.104; 2.75; 0.04%; 1.81; 0.9
+
+indiv_events
+
+Balks: Alex Cobb (1).
+WP: Alex Cobb (1).
+HBP: Taylor Rogers (1; Garrett Cooper); Andrew Nardi (1; Joey Bart); Devin Smeltzer (1; Joey Bart).
+IBB: Camilo Doval 2 (2; Luis Arraez, Jorge Soler).
+Pickoffs: None.
+
+Balks: Alex Cobb (1).
+WP: Alex Cobb (1).
+HBP: Taylor Rogers (1; Garrett Cooper); Andrew Nardi (1; Joey Bart); Devin Smeltzer (1; Joey Bart).
+IBB: Camilo Doval 2 (2; Luis Arraez, Jorge Soler).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Charlie Ramos, 1B - Alfonso Márquez, 2B - Doug Eddings, 3B - Lance Barrett, LF - (none), RF - (none).
+Time of Game: 3:37.
+Attendance: 8,272.
+Start Time Weather: 72° F, Wind 0mph, In Dome.
+
+div_lineups
+Giants
+1;Thairo Estrada;/players/e/estrath01.shtml;SS
+2;Wilmer Flores;/players/f/florewi01.shtml;1B
+3;Darin Ruf;/players/r/rufda01.shtml;DH
+4;J.D. Davis;/players/d/davisjd01.shtml;3B
+5;David Villar;/players/v/villada01.shtml;2B
+6;Mike Yastrzemski;/players/y/yastrmi01.shtml;CF
+7;Joey Bart;/players/b/bartjo01.shtml;C
+8;Heliot Ramos;/players/r/ramoshe02.shtml;LF
+9;LaMonte Wade Jr.;/players/w/wadela01.shtml;RF
+; Alex Cobb;/players/c/cobbal01.shtml;P
+Marlins
+1;Jazz Chisholm Jr.;/players/c/chishja01.shtml;CF
+2;Garrett Cooper;/players/c/coopega03.shtml;1B
+3;Luis Arraez;/players/a/arraelu01.shtml;2B
+4;Jorge Soler;/players/s/solerjo01.shtml;DH
+5;Bryan De La Cruz;/players/d/delacbr01.shtml;LF
+6;Avisaíl García;/players/g/garciav01.shtml;RF
+7;Jon Berti;/players/b/bertijo01.shtml;3B
+8;Jacob Stallings;/players/s/stallja01.shtml;C
+9;Garrett Hampson;/players/h/hampsga01.shtml;SS
+; Trevor Rogers;/players/r/rogertr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t11;1-1;1;-2-;1,(0-0) X;RR;SFG;Michael Conforto;Devin Smeltzer;40%;80%;Home Run (Fly Ball to Deep CF-RF); Estrada Scores/unER
+b10;1-1;1;123;4,(1-2) CBSS;O;MIA;Bryan De La Cruz;Camilo Doval;17%;34%;Strikeout Swinging
+t10;1-1;1;--3;5,(2-2) SCBBS;O;SFG;LaMonte Wade Jr.;Tanner Scott;-16%;32%;Strikeout Swinging
+b10;1-1;2;123;5,(2-2) CBFBS;O;MIA;Avisaíl García;Camilo Doval;16%;50%;Strikeout Swinging
+t4;0-0;0;1--;6,(3-2) BBBCFX;R;SFG;Darin Ruf;Trevor Rogers;14%;68%;Double to LF (Fly Ball to Deep LF-CF); Flores Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Giants Batting, Tied 0-0, Marlins' Trevor Rogers facing 1-2-3 
+t1;0-0;0;---;6,(3-2) BBBCS.X;;SFG;Thairo Estrada;Trevor Rogers;4%;54%;Single to RF (Ground Ball)
+t1;0-0;0;1--;2,(0-1) 1CX;O;SFG;Wilmer Flores;Trevor Rogers;-3%;50%;Popfly: 1B (Weak 2B)
+t1;0-0;1;1--;6,(3-2) C*BFBBB;;SFG;Darin Ruf;Trevor Rogers;4%;54%;Walk; Estrada to 2B
+t1;0-0;1;12-;2,(0-2) FS+1;O;SFG;J.D. Davis;Trevor Rogers;-5%;48%;Ruf Picked off 1B (C-1B)
+t1;0-0;2;-2-;4,(1-2) FS+1.BT;O;SFG;J.D. Davis;Trevor Rogers;-3%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Marlins 0.
+Bottom of the 1st, Marlins Batting, Tied 0-0, Giants' Alex Cobb facing 1-2-3 
+b1;0-0;0;---;4,(1-2) FBS.C;O;MIA;Jazz Chisholm Jr.;Alex Cobb;2%;47%;Strikeout Looking
+b1;0-0;1;---;4,(1-2) CBFC;O;MIA;Garrett Cooper;Alex Cobb;2%;49%;Strikeout Looking
+b1;0-0;2;---;4,(2-1) CBBX;O;MIA;Luis Arraez;Alex Cobb;1%;50%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Marlins 0.
+Top of the 2nd, Giants Batting, Tied 0-0, Marlins' Trevor Rogers facing 5-6-7 
+t2;0-0;0;---;4,(1-2) CBCS;O;SFG;David Villar;Trevor Rogers;-2%;48%;Strikeout Swinging
+t2;0-0;1;---;5,(2-2) CCBBX;O;SFG;Mike Yastrzemski;Trevor Rogers;-2%;46%;Groundout: 3B-1B (Deep SS)
+t2;0-0;2;---;6,(2-2) CBTFBX;O;SFG;Joey Bart;Trevor Rogers;-1%;45%;Flyball: LF (Short LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Marlins 0.
+Bottom of the 2nd, Marlins Batting, Tied 0-0, Giants' Alex Cobb facing 4-5-6 
+b2;0-0;0;---;5,(2-2) SBCBX;;MIA;Jorge Soler;Alex Cobb;-4%;41%;Single to RF (Line Drive to Deep CF-RF)
+b2;0-0;0;1--;2,(0-1) CB;;MIA;Bryan De La Cruz;Alex Cobb;-3%;39%;Wild Pitch; Soler to 2B
+b2;0-0;0;-2-;5,(2-2) CB.*BSS;O;MIA;Bryan De La Cruz;Alex Cobb;4%;43%;Strikeout Swinging
+b2;0-0;1;-2-;4,(1-2) FBCS;O;MIA;Avisaíl García;Alex Cobb;4%;47%;Strikeout Swinging
+b2;0-0;2;-2-;7,(3-2) BSBFBFS;O;MIA;Jon Berti;Alex Cobb;3%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Marlins 0.
+Top of the 3rd, Giants Batting, Tied 0-0, Marlins' Trevor Rogers facing 8-9-1 
+t3;0-0;0;---;1,(0-0) X;O;SFG;Heliot Ramos;Trevor Rogers;-3%;47%;Groundout: 3B-1B (SS-3B Hole)
+t3;0-0;1;---;8,(3-2) CBBFFFBC;O;SFG;LaMonte Wade Jr.;Trevor Rogers;-2%;46%;Strikeout Looking
+t3;0-0;2;---;5,(3-1) BBFBX;O;SFG;Thairo Estrada;Trevor Rogers;-1%;44%;Lineout: LF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Marlins 0.
+Bottom of the 3rd, Marlins Batting, Tied 0-0, Giants' Alex Cobb facing 8-9-1 
+b3;0-0;0;---;1,(0-0) X;O;MIA;Jacob Stallings;Alex Cobb;3%;47%;Flyball: CF (Deep CF)
+b3;0-0;1;---;6,(2-2) CFFBBS;O;MIA;Garrett Hampson;Alex Cobb;2%;49%;Strikeout Swinging
+b3;0-0;2;---;6,(3-2) CBSBB.X;;MIA;Jazz Chisholm Jr.;Alex Cobb;-1%;47%;Single to CF (Ground Ball thru SS-2B)
+b3;0-0;2;1--;,(0-0) 111;;MIA;Garrett Cooper;Alex Cobb;-1%;46%;Balk; Chisholm to 2B
+b3;0-0;2;-2-;2,(0-1) 111.CX;O;MIA;Garrett Cooper;Alex Cobb;4%;50%;Flyball: RF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Marlins 0.
+Top of the 4th, Giants Batting, Tied 0-0, Marlins' Trevor Rogers facing 2-3-4 
+t4;0-0;0;---;5,(1-2) BCSFX;;SFG;Wilmer Flores;Trevor Rogers;4%;54%;Single to CF (Fly Ball to Short CF)
+t4;0-0;0;1--;6,(3-2) BBBCFX;R;SFG;Darin Ruf;Trevor Rogers;14%;68%;Double to LF (Fly Ball to Deep LF-CF); Flores Scores
+;;;;;;;;;George Soriano replaces Trevor Rogers pitching
+t4;1-0;0;-2-;4,(2-1) .BBFX;;SFG;J.D. Davis;George Soriano;6%;75%;Single to CF (Line Drive); Ruf to 3B
+t4;1-0;0;1-3;6,(3-2) BBSF*BX;O;SFG;David Villar;George Soriano;-6%;69%;Lineout: 3B
+t4;1-0;1;1-3;7,(3-2) CFBBFBS;O;SFG;Mike Yastrzemski;George Soriano;-7%;62%;Strikeout Swinging
+t4;1-0;2;1-3;6,(3-2) CBCB*B>B;;SFG;Joey Bart;George Soriano;2%;64%;Walk; Davis to 2B
+t4;1-0;2;123;2,(0-1) CX;O;SFG;Heliot Ramos;George Soriano;-7%;57%;Groundout: SS-2B/Forceout at 2B; Ramos to 1B
+;;;;;;;;;1 run, 3 hits, 0 errors, 3 LOB. Giants 1, Marlins 0.
+Bottom of the 4th, Marlins Batting, Behind 0-1, Giants' Alex Cobb facing 3-4-5 
+b4;0-1;0;---;6,(3-2) BCBCBX;O;MIA;Luis Arraez;Alex Cobb;3%;60%;Lineout: 3B (SS-3B Hole)
+b4;0-1;1;---;1,(0-0) X;O;MIA;Jorge Soler;Alex Cobb;2%;62%;Flyball: LF (LF-CF)
+b4;0-1;2;---;6,(3-2) BBCS.BX;;MIA;Bryan De La Cruz;Alex Cobb;-2%;61%;Single to RF (Ground Ball thru P's Left)
+b4;0-1;2;1--;1,(0-0) 1X;;MIA;Avisaíl García;Alex Cobb;-3%;58%;Single to 2B (Ground Ball to 2B-1B); De La Cruz to 2B
+b4;0-1;2;12-;3,(1-1) BFX;O;MIA;Jon Berti;Alex Cobb;6%;64%;Groundout: 1B unassisted (2B-1B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Giants 1, Marlins 0.
+Top of the 5th, Giants Batting, Ahead 1-0, Marlins' George Soriano facing 9-1-2 
+t5;1-0;0;---;3,(0-2) CCX;O;SFG;LaMonte Wade Jr.;George Soriano;-2%;61%;Groundout: 2B-1B
+t5;1-0;1;---;5,(2-2) BCS.BX;O;SFG;Thairo Estrada;George Soriano;-2%;60%;Flyball: LF (Deep LF)
+t5;1-0;2;---;2,(0-1) CX;O;SFG;Wilmer Flores;George Soriano;-1%;58%;Popfly: SS (Deep SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 1, Marlins 0.
+Bottom of the 5th, Marlins Batting, Behind 0-1, Giants' Alex Cobb facing 8-9-1 
+b5;0-1;0;---;5,(2-2) BTF.BC;O;MIA;Jacob Stallings;Alex Cobb;3%;62%;Strikeout Looking
+b5;0-1;1;---;5,(2-2) BFF.BX;;MIA;Garrett Hampson;Alex Cobb;-4%;58%;Single to 3B (Ground Ball to Weak 3B)
+b5;0-1;1;1--;1,(0-0) >C;;MIA;Jazz Chisholm Jr.;Alex Cobb;-2%;56%;Hampson Steals 2B
+b5;0-1;1;-2-;3,(0-2) >C.S.S;O;MIA;Jazz Chisholm Jr.;Alex Cobb;5%;61%;Strikeout Swinging
+b5;0-1;2;-2-;1,(0-0) X;R;MIA;Garrett Cooper;Alex Cobb;-14%;47%;Single to LF (Ground Ball thru SS-3B Hole); Hampson Scores
+b5;1-1;2;1--;3,(2-0) BBX;;MIA;Luis Arraez;Alex Cobb;-3%;44%;Single to RF (Line Drive); Cooper to 2B
+b5;1-1;2;12-;5,(3-1) CBBBB;;MIA;Jorge Soler;Alex Cobb;-4%;41%;Walk; Cooper to 3B; Arraez to 2B
+b5;1-1;2;123;5,(1-2) SBSFX;O;MIA;Bryan De La Cruz;Alex Cobb;9%;50%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 3 hits, 0 errors, 3 LOB. Giants 1, Marlins 1.
+Top of the 6th, Giants Batting, Tied 1-1, Marlins' Matt Barnes facing 3-4-5 
+;;;;;;;;;Matt Barnes replaces George Soriano pitching
+t6;1-1;0;---;5,(2-2) .CBBSC;O;SFG;Darin Ruf;Matt Barnes;-3%;47%;Strikeout Looking
+t6;1-1;1;---;1,(0-0) X;O;SFG;J.D. Davis;Matt Barnes;-2%;44%;Groundout: 2B-1B (SS-2B)
+t6;1-1;2;---;3,(0-2) CCC;O;SFG;David Villar;Matt Barnes;-2%;42%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 1, Marlins 1.
+Bottom of the 6th, Marlins Batting, Tied 1-1, Giants' John Brebbia facing 6-7-8 
+;;;;;;;;;John Brebbia replaces Alex Cobb pitching
+b6;1-1;0;---;3,(0-2) .SFS;O;MIA;Avisaíl García;John Brebbia;3%;46%;Strikeout Swinging
+b6;1-1;1;---;3,(1-1) CBX;O;MIA;Jon Berti;John Brebbia;2%;48%;Flyball: RF (Deep CF-RF)
+b6;1-1;2;---;4,(2-1) FBBX;O;MIA;Jacob Stallings;John Brebbia;2%;50%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 1, Marlins 1.
+Top of the 7th, Giants Batting, Tied 1-1, Marlins' Andrew Nardi facing 6-7-8 
+;;;;;;;;;Andrew Nardi replaces Matt Barnes pitching
+t7;1-1;0;---;4,(1-2) .BCFX;O;SFG;Mike Yastrzemski;Andrew Nardi;-4%;46%;Popfly: C (Front of Home)
+t7;1-1;1;---;2,(0-1) SH;;SFG;Joey Bart;Andrew Nardi;4%;50%;Hit By Pitch
+t7;1-1;1;1--;7,(3-2) B*BBCF.FB;;SFG;Heliot Ramos;Andrew Nardi;6%;56%;Walk; Bart to 2B
+t7;1-1;1;12-;4,(1-2) CFBX;O;SFG;LaMonte Wade Jr.;Andrew Nardi;-5%;51%;Groundout: 3B-1B (Weak SS); Bart to 3B; Ramos to 2B
+;;;;;;;;;Huascar Brazoban replaces Andrew Nardi pitching
+t7;1-1;2;-23;6,(2-2) .CC.B*BFX;O;SFG;Thairo Estrada;Huascar Brazoban;-10%;41%;Lineout: LF (Deep LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Giants 1, Marlins 1.
+Bottom of the 7th, Marlins Batting, Tied 1-1, Giants' John Brebbia facing 9-1-2 
+b7;1-1;0;---;6,(3-2) CCBBBS;O;MIA;Garrett Hampson;John Brebbia;4%;45%;Strikeout Swinging
+;;;;;;;;;Scott Alexander replaces John Brebbia pitching
+b7;1-1;1;---;4,(2-2) .VTMBS;O;MIA;Jazz Chisholm Jr.;Scott Alexander;3%;48%;Strikeout Swinging
+b7;1-1;2;---;7,(3-2) BBBCFFX;O;MIA;Garrett Cooper;Scott Alexander;2%;50%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 1, Marlins 1.
+Top of the 8th, Giants Batting, Tied 1-1, Marlins' Huascar Brazoban facing 2-3-4 
+t8;1-1;0;---;2,(0-1) FX;O;SFG;Wilmer Flores;Huascar Brazoban;-5%;45%;Groundout: SS-1B (Deep SS-3B Hole)
+;;;;;;;;;Michael Conforto pinch hits for Darin Ruf (DH) batting 3rd
+t8;1-1;1;---;5,(2-2) .BBSF.C;O;SFG;Michael Conforto;Huascar Brazoban;-4%;42%;Strikeout Looking
+t8;1-1;2;---;3,(0-2) SCS;O;SFG;J.D. Davis;Huascar Brazoban;-3%;39%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 1, Marlins 1.
+Bottom of the 8th, Marlins Batting, Tied 1-1, Giants' Scott Alexander facing 3-4-5 
+b8;1-1;0;---;3,(1-2) .FFVX;O;MIA;Luis Arraez;Scott Alexander;5%;44%;Groundout: SS-1B
+;;;;;;;;;Tyler Rogers replaces Scott Alexander pitching
+b8;1-1;1;---;3,(0-2) .CST;O;MIA;Jorge Soler;Tyler Rogers;4%;47%;Strikeout Swinging
+b8;1-1;2;---;4,(1-2) CBCX;O;MIA;Bryan De La Cruz;Tyler Rogers;3%;50%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 1, Marlins 1.
+Top of the 9th, Giants Batting, Tied 1-1, Marlins' Huascar Brazoban facing 5-6-7 
+t9;1-1;0;---;5,(2-2) SBS.BX;O;SFG;David Villar;Huascar Brazoban;-6%;44%;Flyball: CF
+;;;;;;;;;Tanner Scott replaces Huascar Brazoban pitching
+t9;1-1;1;---;3,(1-1) .LBX;O;SFG;Mike Yastrzemski;Tanner Scott;-5%;39%;Popfly: SS (Short CF)
+t9;1-1;2;---;1,(0-0) X;O;SFG;Joey Bart;Tanner Scott;-3%;36%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 1, Marlins 1.
+Bottom of the 9th, Marlins Batting, Tied 1-1, Giants' Tyler Rogers facing 6-7-8 
+b9;1-1;0;---;3,(1-1) FBX;O;MIA;Avisaíl García;Tyler Rogers;6%;42%;Groundout: 2B-1B (SS-2B)
+b9;1-1;1;---;4,(1-2) BCS.X;O;MIA;Jon Berti;Tyler Rogers;5%;46%;Foul Popfly: C (Behind Home)
+b9;1-1;2;---;5,(2-2) BBFCX;;MIA;Jacob Stallings;Tyler Rogers;-3%;43%;Single to LF (Ground Ball thru SS-3B Hole)
+b9;1-1;2;1--;3,(1-1) CBX;;MIA;Garrett Hampson;Tyler Rogers;-5%;39%;Single to RF (Line Drive to Short RF); Stallings to 2B
+;;;;;;;;;Camilo Doval replaces Tyler Rogers pitchingNick Fortes pinch runs for Jacob Stallings (C) batting 8th
+b9;1-1;2;12-;6,(2-2) ..*BFF.FBX;O;MIA;Jazz Chisholm Jr.;Camilo Doval;11%;50%;Flyball: LF (Short LF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Giants 1, Marlins 1.
+Top of the 10th, Giants Batting, Tied 1-1, Marlins' Tanner Scott facing 8-9-1 
+;;;;;;;;;Nick Fortes moves from PR to C Joey Bart running at second base to start the extra inning
+t10;1-1;0;-2-;3,(2-0) ..BBX;O;SFG;Heliot Ramos;Tanner Scott;-2%;48%;Groundout: 2B-1B; Bart to 3B
+t10;1-1;1;--3;5,(2-2) SCBBS;O;SFG;LaMonte Wade Jr.;Tanner Scott;-16%;32%;Strikeout Swinging
+t10;1-1;2;--3;4,(0-2) CC.FS;O;SFG;Thairo Estrada;Tanner Scott;-13%;19%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Giants 1, Marlins 1.
+Bottom of the 10th, Marlins Batting, Tied 1-1, Giants' Camilo Doval facing 2-3-4 
+;;;;;;;;;Jazz Chisholm Jr. running at second base to start the extra inning
+b10;1-1;0;-2-;1,(0-0) .X;O;MIA;Garrett Cooper;Camilo Doval;11%;30%;Flyball: RF (Short CF-RF)
+b10;1-1;1;-2-;,(3-0) VVVV;;MIA;Luis Arraez;Camilo Doval;-1%;29%;Intentional Walk
+b10;1-1;1;12-;1,(0-0) >B;;MIA;Jorge Soler;Camilo Doval;-14%;15%;Chisholm Steals 3B; Arraez Steals 2B
+b10;1-1;1;-23;1,(3-0) >B.VVV;;MIA;Jorge Soler;Camilo Doval;1%;17%;Intentional Walk
+b10;1-1;1;123;4,(1-2) CBSS;O;MIA;Bryan De La Cruz;Camilo Doval;17%;34%;Strikeout Swinging
+b10;1-1;2;123;5,(2-2) CBFBS;O;MIA;Avisaíl García;Camilo Doval;16%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 3 LOB. Giants 1, Marlins 1.
+Top of the 11th, Giants Batting, Tied 1-1, Marlins' Devin Smeltzer facing 2-3-4 
+;;;;;;;;;Devin Smeltzer replaces Tanner Scott pitchingThairo Estrada running at second base to start the extra inning
+t11;1-1;0;-2-;5,(2-2) ..CCB*BX;O;SFG;Wilmer Flores;Devin Smeltzer;-11%;39%;Groundout: 3B-1B
+t11;1-1;1;-2-;1,(0-0) X;RR;SFG;Michael Conforto;Devin Smeltzer;40%;80%;Home Run (Fly Ball to Deep CF-RF); Estrada Scores/unER
+t11;3-1;1;---;1,(0-0) X;O;SFG;J.D. Davis;Devin Smeltzer;-1%;78%;Groundout: 2B-1B
+t11;3-1;2;---;5,(2-2) CFBBX;;SFG;David Villar;Devin Smeltzer;2%;81%;Double to RF (Ground Ball)
+t11;3-1;2;-2-;3,(1-1) BCX;RR;SFG;Mike Yastrzemski;Devin Smeltzer;14%;95%;Home Run (Fly Ball to Deep RF Line); Villar Scores
+t11;5-1;2;---;3,(0-2) CF.H;;SFG;Joey Bart;Devin Smeltzer;0%;95%;Hit By Pitch
+t11;5-1;2;1--;5,(2-2) BFF*B.S;O;SFG;Heliot Ramos;Devin Smeltzer;1%;96%;Strikeout Swinging
+;;;;;;;;;4 runs, 3 hits, 0 errors, 1 LOB. Giants 5, Marlins 1.
+Bottom of the 11th, Marlins Batting, Behind 1-5, Giants' Sean Hjelle facing 7-8-9 
+;;;;;;;;;Sean Hjelle replaces Camilo Doval pitchingThairo Estrada moves from SS to 2B Brandon Crawford replaces David Villar (2B) playing SS batting 5thLaMonte Wade Jr. moves from RF to LF Brett Wisely replaces Heliot Ramos (LF) playing CF batting 8thMike Yastrzemski moves from CF to RF Avisaíl García running at second base to start the extra inning
+b11;1-5;0;-2-;2,(1-0) .......BX;R;MIA;Jon Berti;Sean Hjelle;-5%;90%;Double to RF (Ground Ball); García Scores/unER
+b11;2-5;0;-2-;5,(1-2) CS*BFC;O;MIA;Nick Fortes;Sean Hjelle;5%;95%;Strikeout Looking
+b11;2-5;1;-2-;7,(3-2) BCC*BBFB;;MIA;Garrett Hampson;Sean Hjelle;-5%;90%;Walk
+;;;;;;;;;Taylor Rogers replaces Sean Hjelle pitching
+b11;2-5;1;12-;4,(1-2) .FBSC;O;MIA;Jazz Chisholm Jr.;Taylor Rogers;6%;96%;Strikeout Looking
+b11;2-5;2;12-;1,(0-0) H;;MIA;Garrett Cooper;Taylor Rogers;-6%;90%;Hit By Pitch; Berti to 3B; Hampson to 2B
+;;;;;;;;;Jesús Sánchez pinch runs for Garrett Cooper (1B) batting 2nd
+b11;2-5;2;123;5,(1-2) .CC*BFX;O;MIA;Luis Arraez;Taylor Rogers;10%;100%;Groundout: 1B-P (Weak 2B-1B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 3 LOB. Giants 5, Marlins 2.

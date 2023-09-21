@@ -1,0 +1,263 @@
+
+Scorebox Meta
+20230414
+7:05 p.m. Local
+41039
+Yankee Stadium III
+131
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;0;0;0;0;0;1;1;2;0;4;7;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;2;0;0;0;0;1;0;0;0;3;8;0
+
+Batting home
+Anthony Volpe;/players/v/volpean01.shtml;SS;3;1;1;1;1;2;4;.171;.277;.317;.594;19;9;0.088; 0.56;0.114;-0.027; 0.05%; 0.58; 0.9;1;1;HR
+Aaron Judge;/players/j/judgeaa01.shtml;CF;4;1;1;1;0;1;4;.294;.373;.608;.981;7;7;-0.010; 1.15;0.088;-0.098;-0.01%; 1.19; 0.2;1;0;HR
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;4;0;1;0;0;3;4;.319;.411;.553;.964;19;12;-0.049; 0.87;0.024;-0.073;-0.03%; 0.90; -0.2;7;0;
+Giancarlo Stanton;/players/s/stantmi03.shtml;DH;4;1;2;1;0;1;4;.271;.300;.563;.863;11;7;0.111; 0.84;0.142;-0.031; 0.07%; 0.87; 0.7;;;HR
+Aaron Hicks;/players/h/hicksaa01.shtml;PR-DH-DH;0;0;0;0;0;0;0;.158;.200;.158;.358;;;;;;;;;;;;
+Gleyber Torres;/players/t/torregl01.shtml;2B;4;0;0;0;0;2;4;.302;.444;.535;.979;17;13;-0.117; 1.09;0.000;-0.117;-0.07%; 1.12; -1.0;5;3;
+Franchy Cordero;/players/c/cordefr02.shtml;RF;4;0;1;0;0;2;4;.250;.294;.656;.950;11;8;0.097; 1.22;0.134;-0.037; 0.06%; 1.25; -0.2;2;0;
+Oswaldo Cabrera;/players/c/cabreos01.shtml;LF;4;0;2;0;0;0;4;.286;.295;.333;.629;9;6;-0.255; 1.43;0.041;-0.296;-0.16%; 1.48; -0.3;2;0;SB,GDP
+Jose Trevino;/players/t/trevijo01.shtml;C;3;0;0;0;0;0;3;.200;.226;.300;.526;11;8;-0.066; 0.86;0.000;-0.066;-0.04%; 0.89; -0.9;9;0;
+Willie Calhoun;/players/c/calhowi01.shtml;PH;1;0;0;0;0;0;1;.154;.154;.231;.385;5;3;-0.047; 1.82;0.000;-0.047;-0.03%; 1.88; -0.1;;;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;3B;3;0;0;0;0;0;3;.091;.091;.091;.182;11;8;-0.048; 0.65;0.000;-0.048;-0.03%; 0.67; -0.7;0;3;
+Nestor Cortes;/players/c/cortene01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Clay Holmes;/players/h/holmecl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Wandy Peralta;/players/p/peralwa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+HR: Anthony Volpe (1, off Louie Varland, 1st inn, 0 on, 0 outs to Deep LF); Aaron Judge (5, off Louie Varland, 1st inn, 0 on, 0 outs to Deep CF-RF); Giancarlo Stanton (4, off Louie Varland, 6th inn, 0 on, 0 outs to Deep LF Line).
+
+
+TB: Giancarlo Stanton 5; Aaron Judge 4; Anthony Volpe 4; Oswaldo Cabrera 2; Franchy Cordero; Anthony Rizzo.
+
+
+GIDP: Oswaldo Cabrera (1).
+
+
+RBI: Aaron Judge (8); Giancarlo Stanton (9); Anthony Volpe (1).
+
+
+Team LOB: 5.
+With RISP: 0 for 1.
+
+Batting away
+Byron Buxton;/players/b/buxtoby01.shtml;DH;3;1;0;0;1;2;4;.271;.340;.458;.798;18;11;0.063; 1.50;0.127;-0.064; 0.04%; 1.76; 0.0;;;
+Carlos Correa;/players/c/correca01.shtml;SS;4;1;2;3;0;1;4;.250;.318;.475;.793;18;11;0.416; 1.69;0.458;-0.042; 0.29%; 1.99; 2.2;2;6;HR,2B
+Donovan Solano;/players/s/solando01.shtml;1B;3;0;1;0;0;0;3;.341;.386;.439;.825;15;12;0.010; 0.72;0.046;-0.036; 0.01%; 0.84; 0.2;7;0;2B
+Nick Gordon;/players/g/gordoni01.shtml;PH-LF-2B;1;0;0;0;0;0;1;.100;.122;.125;.247;2;2;-0.063; 1.12;0.000;-0.063;-0.04%; 1.31; -0.6;0;0;
+Jose Miranda;/players/m/miranjo01.shtml;3B-1B;4;0;2;0;0;0;4;.232;.295;.250;.545;12;8;0.024; 1.06;0.095;-0.071; 0.02%; 1.25; 0.3;2;4;GDP
+Ryan Jeffers;/players/j/jeffery01.shtml;C;2;0;0;0;1;1;4;.353;.476;.706;1.182;15;8;-0.026; 1.44;0.085;-0.111;-0.02%; 1.69; 0.1;11;0;HBP
+Kyle Garlick;/players/g/garliky01.shtml;RF;3;1;1;1;0;1;3;.250;.250;1.000;1.250;8;5;0.000; 1.69;0.114;-0.114;0%; 1.98; -0.1;3;0;HR
+Trevor Larnach;/players/l/larnatr01.shtml;RF-LF;1;0;0;0;0;1;1;.255;.350;.353;.703;6;4;-0.023; 1.00;0.000;-0.023;-0.02%; 1.17; -0.4;1;0;
+Willi Castro;/players/c/castrwi01.shtml;LF-3B;3;0;0;0;0;1;4;.118;.211;.176;.387;13;9;-0.094; 1.33;0.048;-0.143;-0.07%; 1.56; -1.0;0;0;HBP,GDP
+Edouard Julien;/players/j/julieed01.shtml;2B;3;0;0;0;0;1;3;.200;.273;.500;.773;9;7;-0.142; 1.23;0.000;-0.142;-0.10%; 1.45; -1.1;1;0;GDP
+Christian Vázquez;/players/v/vazquch01.shtml;PH;1;0;0;0;0;0;1;.367;.457;.467;.924;2;1;-0.018; 0.65;0.000;-0.018;-0.01%; 0.76; -0.2;;;
+Matt Wallner;/players/w/wallnma01.shtml;RF;0;0;0;0;0;0;0;.000;.273;.000;.273;;;;;;;;;;0;0;
+Michael A. Taylor;/players/t/taylomi02.shtml;CF;3;1;1;0;0;1;3;.260;.275;.480;.755;10;7;0.058; 1.10;0.087;-0.029; 0.04%; 1.29; 0.1;0;0;
+Louie Varland;/players/v/varlalo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Emilio Pagán;/players/p/paganem01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jorge López;/players/l/lopezjo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jhoan Duran;/players/d/duranjh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Donovan Solano (4, off Nestor Cortes); Carlos Correa (3, off Clay Holmes).
+
+
+HR: Carlos Correa (2, off Nestor Cortes, 6th inn, 0 on, 1 out to Deep RF Line); Kyle Garlick (1, off Nestor Cortes, 7th inn, 0 on, 1 out to Deep LF).
+
+
+HBP: Ryan Jeffers (1, by Nestor Cortes); Willi Castro (2, by Nestor Cortes).
+
+
+TB: Carlos Correa 6; Kyle Garlick 4; Jose Miranda 2; Donovan Solano 2; Michael A. Taylor.
+
+
+GIDP: Jose Miranda (2); Willi Castro (1); Edouard Julien (1).
+
+
+RBI: Carlos Correa 3 (6); Kyle Garlick (1).
+
+
+Team LOB: 4.
+With RISP: 2 for 7.
+
+Pitching home
+Nestor Cortes;/players/c/cortene01.shtml;Nestor Cortes; 7 ;5;2;2;0;7;2;2.60;26;93;63;37;12;14;4;13;3;0;66;;;0.199; 1.14; 0.12%; 1.18; 1.5
+Clay Holmes;/players/h/holmecl01.shtml; L (0-1); 1 ;2;2;2;1;0;0;5.40;5;17;11;7;2;2;3;1;1;0;;0;0;-0.442; 2.45;-0.27%; 2.53; -1.5
+Wandy Peralta;/players/p/peralwa01.shtml;Wandy Peralta; 1 ;0;0;0;1;2;0;0.00;4;18;11;5;4;2;1;0;0;0;;0;0;0.038; 0.80; 0.02%; 0.82; 0.5
+
+Pitching away
+Louie Varland;/players/v/varlalo01.shtml;Louie Varland; 6 ;6;3;3;1;8;3;4.50;25;83;57;31;12;14;8;8;4;0;55;;;-0.091; 0.62;-0.06%; 0.72; 0.0
+Emilio Pagán;/players/p/paganem01.shtml; W (1-0); 1 ;0;0;0;0;1;0;1.69;3;12;8;5;2;1;1;1;0;0;;0;0;0.043; 0.57; 0.03%; 0.67; 0.5
+Jorge López;/players/l/lopezjo02.shtml; H (4); 1 ;1;0;0;0;2;0;0.00;4;15;11;5;2;4;2;0;0;0;;0;0;0.142; 2.00; 0.10%; 2.35; 0.5
+Jhoan Duran;/players/d/duranjh01.shtml; S (4); 1 ;1;0;0;0;0;0;3.38;3;10;5;4;0;1;1;2;1;0;;0;0;0.202; 3.57; 0.14%; 4.18; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Nestor Cortes 2 (2; Ryan Jeffers, Willi Castro).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Nestor Cortes 2 (2; Ryan Jeffers, Willi Castro).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - John Libka, 1B - Nate Tomlinson, 2B - James Hoye, 3B - D.J. Reyburn, LF - (none), RF - (none).
+Time of Game: 2:11.
+Attendance: 41,039.
+Field Condition: Unknown.
+Start Time Weather: 78° F, Wind 14mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Twins
+1;Byron Buxton;/players/b/buxtoby01.shtml;DH
+2;Carlos Correa;/players/c/correca01.shtml;SS
+3;Donovan Solano;/players/s/solando01.shtml;1B
+4;Jose Miranda;/players/m/miranjo01.shtml;3B
+5;Ryan Jeffers;/players/j/jeffery01.shtml;C
+6;Kyle Garlick;/players/g/garliky01.shtml;RF
+7;Willi Castro;/players/c/castrwi01.shtml;LF
+8;Edouard Julien;/players/j/julieed01.shtml;2B
+9;Michael A. Taylor;/players/t/taylomi02.shtml;CF
+; Louie Varland;/players/v/varlalo01.shtml;P
+Yankees
+1;Anthony Volpe;/players/v/volpean01.shtml;SS
+2;Aaron Judge;/players/j/judgeaa01.shtml;CF
+3;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+4;Giancarlo Stanton;/players/s/stantmi03.shtml;DH
+5;Gleyber Torres;/players/t/torregl01.shtml;2B
+6;Franchy Cordero;/players/c/cordefr02.shtml;RF
+7;Oswaldo Cabrera;/players/c/cabreos01.shtml;LF
+8;Jose Trevino;/players/t/trevijo01.shtml;C
+9;Isiah Kiner-Falefa;/players/k/kineris01.shtml;3B
+; Nestor Cortes;/players/c/cortene01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t8;2-3;0;12-;4,(1-2) BCSX;RR;MIN;Carlos Correa;Clay Holmes;34%;81%;Double to RF (Ground Ball); Taylor Scores; Buxton Scores
+b9;3-4;0;1--;2,(1-0) BX;OO;NYY;Oswaldo Cabrera;Jhoan Duran;29%;95%;Ground Ball Double Play: SS-1B
+b9;3-4;0;---;3,(2-0) ....BBX;;NYY;Franchy Cordero;Jhoan Duran;-13%;66%;Single to RF (Line Drive to Deep 2B)
+t8;2-3;0;1--;6,(3-2) BFSBBB;;MIN;Byron Buxton;Clay Holmes;13%;47%;Walk; Taylor to 2B
+t6;0-2;1;---;3,(1-1) BCX;R;MIN;Carlos Correa;Nestor Cortes;11%;30%;Home Run (Fly Ball to Deep RF Line)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Twins Batting, Tied 0-0, Yankees' Nestor Cortes facing 1-2-3 
+t1;0-0;0;---;3,(0-2) FSX;O;MIN;Byron Buxton;Nestor Cortes;-2%;48%;Flyball: LF (LF-CF)
+t1;0-0;1;---;7,(3-2) BBCBFF.C;O;MIN;Carlos Correa;Nestor Cortes;-2%;46%;Strikeout Looking
+t1;0-0;2;---;3,(0-2) CFX;O;MIN;Donovan Solano;Nestor Cortes;-1%;45%;Flyball: RF (Short RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 0, Yankees 0.
+Bottom of the 1st, Yankees Batting, Tied 0-0, Twins' Louie Varland facing 1-2-3 
+b1;0-0;0;---;2,(1-0) BX;R;NYY;Anthony Volpe;Louie Varland;-10%;35%;Home Run (Fly Ball to Deep LF)
+b1;1-0;0;---;1,(0-0) .X;R;NYY;Aaron Judge;Louie Varland;-9%;27%;Home Run (Fly Ball to Deep CF-RF)
+b1;2-0;0;---;3,(1-1) BCX;;NYY;Anthony Rizzo;Louie Varland;-2%;24%;Single to RF (Ground Ball)
+b1;2-0;0;1--;4,(1-2) BFFS;O;NYY;Giancarlo Stanton;Louie Varland;2%;26%;Strikeout Swinging
+b1;2-0;1;1--;6,(2-2) F1C*BFBX;O;NYY;Gleyber Torres;Louie Varland;2%;28%;Flyball: RF (Deep CF-RF)
+b1;2-0;2;1--;3,(0-2) CSC;O;NYY;Franchy Cordero;Louie Varland;2%;30%;Strikeout Looking
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Twins 0, Yankees 2.
+Top of the 2nd, Twins Batting, Behind 0-2, Yankees' Nestor Cortes facing 4-5-6 
+t2;0-2;0;---;5,(2-2) FBBSX;;MIN;Jose Miranda;Nestor Cortes;4%;34%;Single to LF (Line Drive)
+t2;0-2;0;1--;2,(0-1) FH;;MIN;Ryan Jeffers;Nestor Cortes;6%;40%;Hit By Pitch; Miranda to 2B
+t2;0-2;0;12-;5,(2-2) BSBC*S;O;MIN;Kyle Garlick;Nestor Cortes;-6%;34%;Strikeout Swinging
+t2;0-2;1;12-;4,(2-1) BBS.X;OO;MIN;Willi Castro;Nestor Cortes;-9%;25%;Ground Ball Double Play: 3B-2B-1B (Weak SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 0, Yankees 2.
+Bottom of the 2nd, Yankees Batting, Ahead 2-0, Twins' Louie Varland facing 7-8-9 
+b2;2-0;0;---;1,(0-0) X;;NYY;Oswaldo Cabrera;Louie Varland;-2%;23%;Single to CF (Line Drive to Deep CF)
+b2;2-0;0;1--;5,(1-2) CFB1FX;O;NYY;Jose Trevino;Louie Varland;2%;25%;Flyball: RF (Deep RF)
+b2;2-0;1;1--;6,(2-2) CCBF*B1X;O;NYY;Isiah Kiner-Falefa;Louie Varland;2%;27%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Kiner-Falefa to 1B
+b2;2-0;2;1--;5,(2-2) SBBF1S;O;NYY;Anthony Volpe;Louie Varland;2%;29%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 0, Yankees 2.
+Top of the 3rd, Twins Batting, Behind 0-2, Yankees' Nestor Cortes facing 8-9-1 
+t3;0-2;0;---;1,(0-0) X;O;MIN;Edouard Julien;Nestor Cortes;-2%;26%;Groundout: P-1B (Front of Home)
+t3;0-2;1;---;2,(1-0) BX;O;MIN;Michael A. Taylor;Nestor Cortes;-2%;24%;Popfly: SS (SS-3B Hole)
+t3;0-2;2;---;5,(2-2) CFBBC;O;MIN;Byron Buxton;Nestor Cortes;-1%;23%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 0, Yankees 2.
+Bottom of the 3rd, Yankees Batting, Ahead 2-0, Twins' Louie Varland facing 2-3-4 
+b3;2-0;0;---;1,(0-0) X;O;NYY;Aaron Judge;Louie Varland;2%;25%;Groundout: SS-1B
+b3;2-0;1;---;6,(3-2) BBB.CCS;O;NYY;Anthony Rizzo;Louie Varland;1%;26%;Strikeout Swinging
+b3;2-0;2;---;1,(0-0) X;O;NYY;Giancarlo Stanton;Louie Varland;1%;27%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 0, Yankees 2.
+Top of the 4th, Twins Batting, Behind 0-2, Yankees' Nestor Cortes facing 2-3-4 
+t4;0-2;0;---;4,(2-1) BCBX;O;MIN;Carlos Correa;Nestor Cortes;-3%;24%;Flyball: CF (Deep CF-RF)
+t4;0-2;1;---;8,(2-2) BBCFFFFX;;MIN;Donovan Solano;Nestor Cortes;5%;29%;Double to LF (Ground Ball thru SS-3B Hole)
+t4;0-2;1;-2-;5,(2-2) B*S*BFX;;MIN;Jose Miranda;Nestor Cortes;6%;34%;Single to P (Line Drive to P's Left); Solano to 3B
+t4;0-2;1;1-3;2,(1-0) BX;O;MIN;Ryan Jeffers;Nestor Cortes;-8%;27%;Popfly: 2B (Short CF)
+t4;0-2;2;1-3;2,(1-0) BX;O;MIN;Kyle Garlick;Nestor Cortes;-6%;21%;Popfly: 1B (Weak 2B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Twins 0, Yankees 2.
+Bottom of the 4th, Yankees Batting, Ahead 2-0, Twins' Louie Varland facing 5-6-7 
+b4;2-0;0;---;1,(0-0) X;O;NYY;Gleyber Torres;Louie Varland;2%;23%;Groundout: SS-1B
+b4;2-0;1;---;3,(0-2) CCS;O;NYY;Franchy Cordero;Louie Varland;1%;24%;Strikeout Swinging
+b4;2-0;2;---;5,(2-2) BCFBX;;NYY;Oswaldo Cabrera;Louie Varland;-1%;23%;Single to RF (Line Drive)
+b4;2-0;2;1--;1,(0-0) >S;;NYY;Jose Trevino;Louie Varland;-1%;22%;Cabrera Steals 2B
+b4;2-0;2;-2-;3,(1-1) >S.BX;O;NYY;Jose Trevino;Louie Varland;2%;25%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 0, Yankees 2.
+Top of the 5th, Twins Batting, Behind 0-2, Yankees' Nestor Cortes facing 7-8-9 
+t5;0-2;0;---;4,(1-2) SBFH;;MIN;Willi Castro;Nestor Cortes;5%;29%;Hit By Pitch
+t5;0-2;0;1--;2,(0-1) CX;OO;MIN;Edouard Julien;Nestor Cortes;-10%;20%;Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+t5;0-2;2;---;4,(1-2) CBF.S;O;MIN;Michael A. Taylor;Nestor Cortes;-1%;19%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 0, Yankees 2.
+Bottom of the 5th, Yankees Batting, Ahead 2-0, Twins' Louie Varland facing 9-1-2 
+b5;2-0;0;---;4,(1-2) BSSX;O;NYY;Isiah Kiner-Falefa;Louie Varland;1%;20%;Groundout: SS-1B
+b5;2-0;1;---;4,(3-0) BBBB;;NYY;Anthony Volpe;Louie Varland;-2%;18%;Walk
+b5;2-0;1;1--;3,(0-2) SFS;O;NYY;Aaron Judge;Louie Varland;2%;20%;Strikeout Swinging
+b5;2-0;2;1--;5,(1-2) 1C1B>FF>S;O;NYY;Anthony Rizzo;Louie Varland;2%;22%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Twins 0, Yankees 2.
+Top of the 6th, Twins Batting, Behind 0-2, Yankees' Nestor Cortes facing 1-2-3 
+t6;0-2;0;---;4,(1-2) FFBS;O;MIN;Byron Buxton;Nestor Cortes;-3%;19%;Strikeout Swinging
+t6;0-2;1;---;3,(1-1) BCX;R;MIN;Carlos Correa;Nestor Cortes;11%;30%;Home Run (Fly Ball to Deep RF Line)
+t6;1-2;1;---;4,(1-2) FCBX;O;MIN;Donovan Solano;Nestor Cortes;-3%;28%;Lineout: RF (RF Line)
+t6;1-2;2;---;1,(0-0) X;O;MIN;Jose Miranda;Nestor Cortes;-2%;26%;Popfly: 1B (Weak 1B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Twins 1, Yankees 2.
+Bottom of the 6th, Yankees Batting, Ahead 2-1, Twins' Louie Varland facing 4-5-6 
+b6;2-1;0;---;2,(1-0) BX;R;NYY;Giancarlo Stanton;Louie Varland;-11%;15%;Home Run (Line Drive to Deep LF Line)
+b6;3-1;0;---;6,(2-2) BFF.BFC;O;NYY;Gleyber Torres;Louie Varland;1%;17%;Strikeout Looking
+b6;3-1;1;---;2,(1-0) BX;O;NYY;Franchy Cordero;Louie Varland;1%;18%;Groundout: 3B-1B
+b6;3-1;2;---;1,(0-0) X;O;NYY;Oswaldo Cabrera;Louie Varland;1%;18%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Twins 1, Yankees 3.
+Top of the 7th, Twins Batting, Behind 1-3, Yankees' Nestor Cortes facing 5-6-7 
+t7;1-3;0;---;4,(1-2) CBF.S;O;MIN;Ryan Jeffers;Nestor Cortes;-3%;15%;Strikeout Swinging
+t7;1-3;1;---;1,(0-0) X;R;MIN;Kyle Garlick;Nestor Cortes;11%;26%;Home Run (Fly Ball to Deep LF)
+t7;2-3;1;---;2,(0-1) SX;O;MIN;Willi Castro;Nestor Cortes;-3%;23%;Flyball: LF (Deep LF)
+t7;2-3;2;---;6,(2-2) BCFFBS;O;MIN;Edouard Julien;Nestor Cortes;-2%;21%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Twins 2, Yankees 3.
+Bottom of the 7th, Yankees Batting, Ahead 3-2, Twins' Emilio Pagán facing 8-9-1 
+;;;;;;;;;Emilio Pagán replaces Louie Varland pitchingTrevor Larnach replaces Kyle Garlick playing RF batting 6th
+b7;3-2;0;---;3,(1-1) ..BSX;O;NYY;Jose Trevino;Emilio Pagán;2%;23%;Groundout: SS-1B
+b7;3-2;1;---;1,(0-0) X;O;NYY;Isiah Kiner-Falefa;Emilio Pagán;1%;24%;Flyball: RF (Deep CF-RF)
+b7;3-2;2;---;8,(3-2) BBCFFFBS;O;NYY;Anthony Volpe;Emilio Pagán;1%;25%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 2, Yankees 3.
+Top of the 8th, Twins Batting, Behind 2-3, Yankees' Clay Holmes facing 9-1-2 
+;;;;;;;;;Clay Holmes replaces Nestor Cortes pitching
+t8;2-3;0;---;4,(1-2) .FBF.X;;MIN;Michael A. Taylor;Clay Holmes;9%;34%;Single to RF (Line Drive to Short RF)
+t8;2-3;0;1--;6,(3-2) BFSBBB;;MIN;Byron Buxton;Clay Holmes;13%;47%;Walk; Taylor to 2B
+t8;2-3;0;12-;4,(1-2) BCSX;RR;MIN;Carlos Correa;Clay Holmes;34%;81%;Double to RF (Ground Ball); Taylor Scores; Buxton Scores
+;;;;;;;;;Nick Gordon pinch hits for Donovan Solano (1B) batting 3rd
+t8;4-3;0;-2-;2,(0-1) .CX;O;MIN;Nick Gordon;Clay Holmes;-6%;75%;Fielder's Choice ; Correa out at 3B/SS-2B; Gordon to 1B
+t8;4-3;1;1--;1,(0-0) X;OO;MIN;Jose Miranda;Clay Holmes;-5%;69%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Twins 4, Yankees 3.
+Bottom of the 8th, Yankees Batting, Behind 3-4, Twins' Jorge López facing 2-3-4 
+;;;;;;;;;Jorge López replaces Emilio Pagán pitchingJose Miranda moves from 3B to 1B Willi Castro moves from LF to 3B Nick Gordon moves from PH to LF 
+b8;3-4;0;---;2,(0-1) ....CX;O;NYY;Aaron Judge;Jorge López;6%;76%;Groundout: SS-1B (SS-3B Hole)
+b8;3-4;1;---;5,(2-2) BSBFC;O;NYY;Anthony Rizzo;Jorge López;5%;80%;Strikeout Looking
+b8;3-4;2;---;4,(2-1) BBCX;;NYY;Giancarlo Stanton;Jorge López;-4%;77%;Single to CF (Ground Ball thru SS-2B)
+;;;;;;;;;Aaron Hicks pinch runs for Giancarlo Stanton (DH) batting 4th
+b8;3-4;2;1--;4,(0-2) .CFFS;O;NYY;Gleyber Torres;Jorge López;7%;84%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 4, Yankees 3.
+Top of the 9th, Twins Batting, Ahead 4-3, Yankees' Wandy Peralta facing 5-6-7 
+;;;;;;;;;Wandy Peralta replaces Clay Holmes pitching
+t9;4-3;0;---;7,(3-2) ..BBBCFFB;;MIN;Ryan Jeffers;Wandy Peralta;2%;86%;Walk
+t9;4-3;0;1--;6,(2-2) SBF1BF1S;O;MIN;Trevor Larnach;Wandy Peralta;-2%;84%;Strikeout Swinging
+t9;4-3;1;1--;3,(0-2) CSS;O;MIN;Willi Castro;Wandy Peralta;-2%;82%;Strikeout Swinging
+;;;;;;;;;Christian Vázquez pinch hits for Edouard Julien (2B) batting 8th
+t9;4-3;2;1--;2,(1-0) .BX;O;MIN;Christian Vázquez;Wandy Peralta;-2%;80%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Twins 4, Yankees 3.
+Bottom of the 9th, Yankees Batting, Behind 3-4, Twins' Jhoan Duran facing 6-7-8 
+;;;;;;;;;Jhoan Duran replaces Jorge López pitchingNick Gordon moves from LF to 2B Trevor Larnach moves from RF to LF Matt Wallner replaces Christian Vázquez (PH) playing RF batting 8th
+b9;3-4;0;---;3,(2-0) ....BBX;;NYY;Franchy Cordero;Jhoan Duran;-13%;66%;Single to RF (Line Drive to Deep 2B)
+b9;3-4;0;1--;2,(1-0) BX;OO;NYY;Oswaldo Cabrera;Jhoan Duran;29%;95%;Ground Ball Double Play: SS-1B
+;;;;;;;;;Willie Calhoun pinch hits for Jose Trevino (C) batting 8th
+b9;3-4;2;---;5,(2-2) .BBFCX;O;NYY;Willie Calhoun;Jhoan Duran;5%;100%;Popfly: SS (Deep SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Twins 4, Yankees 3.

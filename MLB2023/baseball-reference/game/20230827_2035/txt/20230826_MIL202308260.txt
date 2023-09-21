@@ -1,0 +1,252 @@
+
+Scorebox Meta
+20230826
+6:10 p.m. Local
+39945
+American Family Field
+151
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/SDP-2023.png;/teams/SDP/2023.shtml;0;1;0;0;0;1;0;2;0;4;5;2
+https://cdn.ssref.net/req/202308251/tlogo/br/MIL-2023.png;/teams/MIL/2023.shtml;0;0;0;0;5;0;0;0;X;5;6;1
+
+Batting home
+Christian Yelich;/players/y/yelicch01.shtml;LF;3;1;0;0;1;1;4;.282;.370;.448;.818;18;11;-0.137; 1.12;0.015;-0.153;-0.05%; 0.70; -1.3;2;0;GDP
+William Contreras;/players/c/contrwi02.shtml;C;4;1;1;2;0;1;4;.276;.352;.449;.801;15;11;0.099; 1.06;0.165;-0.066; 0.04%; 0.66; 1.2;12;0;2B
+Carlos Santana;/players/s/santaca01.shtml;1B;3;0;1;1;1;0;4;.230;.308;.413;.721;17;8;0.007; 0.59;0.042;-0.035; 0.00%; 0.37; 0.5;8;1;2B
+Sal Frelick;/players/f/frelisa01.shtml;CF;4;0;0;0;0;0;4;.238;.373;.400;.773;11;8;-0.055; 0.52;0.000;-0.055;-0.02%; 0.33; -0.8;0;0;
+Willy Adames;/players/a/adamewi01.shtml;SS;3;0;0;0;1;1;4;.215;.297;.398;.696;20;9;-0.051; 0.62;0.003;-0.054;-0.02%; 0.39; -0.5;1;2;
+Mark Canha;/players/c/canhama01.shtml;DH;3;1;1;0;1;2;4;.245;.344;.377;.721;20;10;0.030; 0.74;0.059;-0.028; 0.01%; 0.46; 0.3;;;
+Brice Turang;/players/t/turanbr02.shtml;2B;4;0;1;0;0;1;4;.226;.296;.327;.623;13;8;0.044; 0.91;0.082;-0.038; 0.02%; 0.57; -0.4;3;4;
+Andruw Monasterio;/players/m/monasan01.shtml;3B;3;1;2;1;0;0;3;.259;.340;.360;.699;14;8;0.277; 1.66;0.285;-0.008; 0.10%; 1.04; 1.9;1;2;SB
+Tyrone Taylor;/players/t/tayloty01.shtml;RF;2;1;0;0;0;0;3;.217;.257;.392;.648;10;7;-0.005; 1.41;0.067;-0.072;-0.00%; 0.88; -0.1;0;0;SB,HBP
+Freddy Peralta;/players/p/peralfr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Elvis Peguero;/players/p/pegueel01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Joel Payamps;/players/p/payamjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Devin Williams;/players/w/willide03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: William Contreras (30, off Pedro Avila); Carlos Santana (27, off Scott Barlow).
+
+
+HBP: Tyrone Taylor (3, by Pedro Avila).
+
+
+TB: William Contreras 2; Andruw Monasterio 2; Carlos Santana 2; Brice Turang; Mark Canha.
+
+
+GIDP: Christian Yelich (12).
+
+
+RBI: William Contreras 2 (61); Andruw Monasterio (18); Carlos Santana (67).
+
+
+Team LOB: 5.
+With RISP: 3 for 8.
+
+Batting away
+Ha-Seong Kim;/players/k/kimha01.shtml;2B;3;1;0;0;1;0;4;.276;.368;.442;.809;20;13;-0.057; 0.97;0.029;-0.086;-0.00%; 0.10; -0.5;2;1;
+Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF;4;1;1;0;0;3;4;.263;.325;.461;.787;19;11;-0.012; 0.78;0.042;-0.054;-0.00%; 0.09; -0.3;2;0;
+Juan Soto;/players/s/sotoju01.shtml;DH;2;1;1;2;2;0;4;.258;.399;.485;.883;16;8;0.162; 0.96;0.185;-0.023; 0.01%; 0.10; 1.9;;;HR
+Manny Machado;/players/m/machama01.shtml;3B;4;0;1;1;0;1;4;.251;.319;.462;.782;17;11;-0.026; 1.30;0.069;-0.095;-0.00%; 0.14; 0.4;1;2;
+Xander Bogaerts;/players/b/bogaexa01.shtml;SS;4;1;1;1;0;1;4;.261;.332;.398;.730;14;10;-0.043; 1.29;0.103;-0.146;-0.00%; 0.14; -0.2;2;5;HR,GDP
+Luis Campusano;/players/c/campulu01.shtml;C;3;0;0;0;1;1;4;.283;.323;.457;.780;11;6;-0.030; 0.94;0.042;-0.073;-0.00%; 0.10; -0.2;6;0;
+Ben Gamel;/players/g/gamelbe01.shtml;LF;4;0;0;0;0;0;4;.200;.200;.267;.467;16;10;-0.034; 1.47;0.073;-0.107;-0.00%; 0.16; 0.0;0;0;
+Garrett Cooper;/players/c/coopega03.shtml;1B;4;0;1;0;0;2;4;.258;.305;.429;.734;13;10;-0.099; 1.41;0.013;-0.112;-0.01%; 0.15; -0.5;9;1;
+Trent Grisham;/players/g/grishtr01.shtml;CF;3;0;0;0;0;3;3;.204;.314;.365;.679;15;9;-0.115; 1.32;0.000;-0.115;-0.01%; 0.14; -1.2;1;0;
+Gary Sánchez;/players/s/sanchga02.shtml;PH;1;0;0;0;0;1;1;.209;.283;.479;.762;5;3;-0.037; 1.43;0.000;-0.037;-0.00%; 0.15; -0.1;;;
+Pedro Avila;/players/a/avilape01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Scott Barlow;/players/b/barlosc01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tom Cosgrove;/players/c/cosgrto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Robert Suarez;/players/s/suarero01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Xander Bogaerts (15, off Freddy Peralta, 2nd inn, 0 on, 0 outs to Deep LF); Juan Soto (25, off Joel Payamps, 8th inn, 1 on, 0 outs to Deep LF-CF).
+
+
+TB: Xander Bogaerts 4; Juan Soto 4; Garrett Cooper; Manny Machado; Fernando Tatis Jr..
+
+
+GIDP: Xander Bogaerts (18).
+
+
+RBI: Juan Soto 2 (78); Xander Bogaerts (45); Manny Machado (76).
+
+
+Team LOB: 5.
+With RISP: 1 for 5.
+
+Pitching home
+Freddy Peralta;/players/p/peralfr01.shtml; W (11-8); 5.1;2;2;2;3;9;1;3.95;21;94;59;27;15;17;4;5;1;0;62;;;0.114; 0.72; 0.04%; 0.45; 1.2
+Elvis Peguero;/players/p/pegueel01.shtml; H (18); 1.2;1;0;0;1;1;0;3.54;7;23;14;8;2;4;3;2;1;0;;2;1;0.074; 1.86; 0.03%; 1.16; 0.4
+Joel Payamps;/players/p/payamjo01.shtml; H (23); 1 ;2;2;2;0;0;1;2.12;5;15;9;5;0;4;2;3;1;0;;0;0;-0.062; 1.47;-0.02%; 0.92; -1.5
+Devin Williams;/players/w/willide03.shtml; S (31); 1 ;0;0;0;0;2;0;1.46;3;14;9;3;3;3;1;0;0;0;;0;0;0.166; 2.16; 0.06%; 1.35; 0.5
+
+Pitching away
+Pedro Avila;/players/a/avilape01.shtml; L (0-1); 4.1;5;5;5;2;4;0;2.63;20;78;45;22;12;11;11;2;1;0;35;;;-0.261; 1.34;-0.02%; 0.15; -2.4
+Scott Barlow;/players/b/barlosc01.shtml;Scott Barlow; 1.1;1;0;0;2;0;0;5.23;7;28;13;7;0;6;2;3;1;0;;1;1;0.003; 0.44; 0.00%; 0.05; 0.4
+Tom Cosgrove;/players/c/cosgrto01.shtml;Tom Cosgrove; 1.1;0;0;0;0;0;0;1.63;4;16;12;8;1;3;2;2;0;0;;0;0;0.017; 0.17; 0.00%; 0.02; 0.6
+Robert Suarez;/players/s/suarero01.shtml;Robert Suarez; 1 ;0;0;0;0;2;0;4.40;3;16;10;3;2;5;0;1;0;0;;0;0;0.032; 0.42; 0.00%; 0.05; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Pedro Avila (3; Tyrone Taylor).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Pedro Avila (3; Tyrone Taylor).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Lance Barksdale, 1B - Ramon De Jesus, 2B - Will Little, 3B - Dan Merzel, LF - (none), RF - (none).
+Time of Game: 2:31.
+Attendance: 39,945.
+Start Time Weather: 67° F, Wind 0mph, In Dome.
+
+div_lineups
+Padres
+1;Ha-Seong Kim;/players/k/kimha01.shtml;2B
+2;Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF
+3;Juan Soto;/players/s/sotoju01.shtml;DH
+4;Manny Machado;/players/m/machama01.shtml;3B
+5;Xander Bogaerts;/players/b/bogaexa01.shtml;SS
+6;Luis Campusano;/players/c/campulu01.shtml;C
+7;Ben Gamel;/players/g/gamelbe01.shtml;LF
+8;Garrett Cooper;/players/c/coopega03.shtml;1B
+9;Trent Grisham;/players/g/grishtr01.shtml;CF
+; Pedro Avila;/players/a/avilape01.shtml;P
+Brewers
+1;Christian Yelich;/players/y/yelicch01.shtml;LF
+2;William Contreras;/players/c/contrwi02.shtml;C
+3;Carlos Santana;/players/s/santaca01.shtml;1B
+4;Sal Frelick;/players/f/frelisa01.shtml;CF
+5;Willy Adames;/players/a/adamewi01.shtml;SS
+6;Mark Canha;/players/c/canhama01.shtml;DH
+7;Brice Turang;/players/t/turanbr02.shtml;2B
+8;Andruw Monasterio;/players/m/monasan01.shtml;3B
+9;Tyrone Taylor;/players/t/tayloty01.shtml;RF
+; Freddy Peralta;/players/p/peralfr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b5;2-1;1;12-;3,(1-1) FBX;RR;MIL;William Contreras;Pedro Avila;16%;91%;Double to LF (Ground Ball); Taylor Scores; Yelich Scores; Contreras to 3B/Adv on E7
+t8;2-5;0;1--;2,(0-1) C.X;RR;SDP;Juan Soto;Joel Payamps;-14%;74%;Home Run (Fly Ball to Deep LF-CF); Tatís Scores
+b5;0-1;0;12-;1,(0-0) X;R;MIL;Andruw Monasterio;Pedro Avila;13%;68%;Single to LF (Ground Ball); Canha Scores; Turang to 2B
+b3;0-1;0;12-;3,(0-2) CFX;OO;MIL;Christian Yelich;Pedro Avila;-13%;42%;Ground Ball Double Play: 2B-SS-1B (2B-1B); Monasterio to 3B
+b5;1-1;1;12-;1,(0-0) >B;R;MIL;Christian Yelich;Pedro Avila;11%;73%;Monasterio Steals 3B; Taylor Steals 2B; Monasterio Scores/Adv on E2 (throw)/No RBI
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Padres Batting, Tied 0-0, Brewers' Freddy Peralta facing 1-2-3 
+t1;0-0;0;---;5,(1-2) SBF.FX;O;SDP;Ha-Seong Kim;Freddy Peralta;2%;52%;Popfly: 3B (Weak 3B)
+t1;0-0;1;---;4,(1-2) BCCS;O;SDP;Fernando Tatis Jr.;Freddy Peralta;2%;54%;Strikeout Swinging
+t1;0-0;2;---;5,(3-1) BSBB.B;;SDP;Juan Soto;Freddy Peralta;-1%;53%;Walk
+t1;0-0;2;1--;7,(2-2) FCFFBBS;O;SDP;Manny Machado;Freddy Peralta;2%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 0, Brewers 0.
+Bottom of the 1st, Brewers Batting, Tied 0-0, Padres' Pedro Avila facing 1-2-3 
+b1;0-0;0;---;5,(2-2) BBFCS;O;MIL;Christian Yelich;Pedro Avila;-2%;53%;Strikeout Swinging
+b1;0-0;1;---;3,(0-2) SCC;O;MIL;William Contreras;Pedro Avila;-2%;51%;Strikeout Looking
+b1;0-0;2;---;6,(3-2) BFBBS.B;;MIL;Carlos Santana;Pedro Avila;1%;52%;Walk
+b1;0-0;2;1--;3,(1-1) CBX;O;MIL;Sal Frelick;Pedro Avila;-2%;50%;Groundout: 1B unassisted (Weak 1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 0, Brewers 0.
+Top of the 2nd, Padres Batting, Tied 0-0, Brewers' Freddy Peralta facing 5-6-7 
+t2;0-0;0;---;6,(3-2) CFBBBX;R;SDP;Xander Bogaerts;Freddy Peralta;-10%;40%;Home Run (Fly Ball to Deep LF)
+t2;1-0;0;---;1,(0-0) X;O;SDP;Luis Campusano;Freddy Peralta;2%;42%;Lineout: LF (Deep LF)
+t2;1-0;1;---;4,(1-2) CFBX;O;SDP;Ben Gamel;Freddy Peralta;2%;43%;Groundout: SS-1B
+t2;1-0;2;---;4,(1-2) SCBS;O;SDP;Garrett Cooper;Freddy Peralta;1%;44%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Padres 1, Brewers 0.
+Bottom of the 2nd, Brewers Batting, Behind 0-1, Padres' Pedro Avila facing 5-6-7 
+b2;0-1;0;---;5,(2-2) BFBS.S;O;MIL;Willy Adames;Pedro Avila;-3%;42%;Strikeout Swinging
+b2;0-1;1;---;5,(2-2) CBBS.S;O;MIL;Mark Canha;Pedro Avila;-2%;40%;Strikeout Swinging
+b2;0-1;2;---;3,(1-1) CBX;O;MIL;Brice Turang;Pedro Avila;-1%;39%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Brewers 0.
+Top of the 3rd, Padres Batting, Ahead 1-0, Brewers' Freddy Peralta facing 9-1-2 
+t3;1-0;0;---;5,(2-2) BCCBT;O;SDP;Trent Grisham;Freddy Peralta;2%;41%;Strikeout Swinging
+t3;1-0;1;---;6,(2-2) CCBFBX;O;SDP;Ha-Seong Kim;Freddy Peralta;2%;43%;Groundout: 3B-1B (Short 3B Line)
+t3;1-0;2;---;4,(1-2) BFS*S;O;SDP;Fernando Tatis Jr.;Freddy Peralta;1%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Brewers 0.
+Bottom of the 3rd, Brewers Batting, Behind 0-1, Padres' Pedro Avila facing 8-9-1 
+b3;0-1;0;---;6,(3-2) CBSBBX;;MIL;Andruw Monasterio;Pedro Avila;4%;48%;Single to LF (Line Drive to Short LF-CF)
+b3;0-1;0;1--;2,(0-1) LH;;MIL;Tyrone Taylor;Pedro Avila;7%;55%;Hit By Pitch; Monasterio to 2B
+b3;0-1;0;12-;3,(0-2) CFX;OO;MIL;Christian Yelich;Pedro Avila;-13%;42%;Ground Ball Double Play: 2B-SS-1B (2B-1B); Monasterio to 3B
+b3;0-1;2;--3;5,(1-2) CSBFX;O;MIL;William Contreras;Pedro Avila;-4%;38%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 1, Brewers 0.
+Top of the 4th, Padres Batting, Ahead 1-0, Brewers' Freddy Peralta facing 3-4-5 
+t4;1-0;0;---;1,(0-0) X;O;SDP;Juan Soto;Freddy Peralta;2%;40%;Flyball: SS (Short LF-CF)
+t4;1-0;1;---;2,(0-1) CX;O;SDP;Manny Machado;Freddy Peralta;2%;42%;Popfly: 2B
+t4;1-0;2;---;4,(1-2) C.BCS;O;SDP;Xander Bogaerts;Freddy Peralta;1%;43%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Brewers 0.
+Bottom of the 4th, Brewers Batting, Behind 0-1, Padres' Pedro Avila facing 3-4-5 
+b4;0-1;0;---;5,(3-1) BSBBX;O;MIL;Carlos Santana;Pedro Avila;-3%;40%;Groundout: 1B-P
+b4;0-1;1;---;3,(1-1) CBX;O;MIL;Sal Frelick;Pedro Avila;-2%;38%;Groundout: P-1B (Front of Home)
+b4;0-1;2;---;5,(3-1) BSBBX;O;MIL;Willy Adames;Pedro Avila;-1%;36%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Brewers 0.
+Top of the 5th, Padres Batting, Ahead 1-0, Brewers' Freddy Peralta facing 6-7-8 
+t5;1-0;0;---;4,(1-2) CBS.S;O;SDP;Luis Campusano;Freddy Peralta;2%;39%;Strikeout Swinging
+t5;1-0;1;---;5,(2-2) TFBBX;O;SDP;Ben Gamel;Freddy Peralta;2%;40%;Groundout: 2B-1B (2B-1B)
+t5;1-0;2;---;1,(0-0) X;;SDP;Garrett Cooper;Freddy Peralta;-1%;39%;Single to 2B (Ground Ball)
+t5;1-0;2;1--;5,(2-2) FBBS1S;O;SDP;Trent Grisham;Freddy Peralta;3%;42%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 1, Brewers 0.
+Bottom of the 5th, Brewers Batting, Behind 0-1, Padres' Pedro Avila facing 6-7-8 
+b5;0-1;0;---;6,(3-2) CFBBBX;;MIL;Mark Canha;Pedro Avila;5%;47%;Single to 3B (Ground Ball to SS-3B Hole)
+b5;0-1;0;1--;1,(0-0) X;;MIL;Brice Turang;Pedro Avila;8%;55%;Single to P (Bunt); Canha to 2B
+b5;0-1;0;12-;1,(0-0) X;R;MIL;Andruw Monasterio;Pedro Avila;13%;68%;Single to LF (Ground Ball); Canha Scores; Turang to 2B
+b5;1-1;0;12-;4,(1-2) FS*BX;O;MIL;Tyrone Taylor;Pedro Avila;-7%;61%;Groundout: SS-3B/Forceout at 3B; Monasterio to 2B; Taylor to 1B
+b5;1-1;1;12-;1,(0-0) >B;R;MIL;Christian Yelich;Pedro Avila;11%;73%;Monasterio Steals 3B; Taylor Steals 2B; Monasterio Scores/Adv on E2 (throw)/No RBI
+b5;2-1;1;-2-;4,(3-0) >B.BBB;;MIL;Christian Yelich;Pedro Avila;2%;74%;Walk
+b5;2-1;1;12-;3,(1-1) FBX;RR;MIL;William Contreras;Pedro Avila;16%;91%;Double to LF (Ground Ball); Taylor Scores; Yelich Scores; Contreras to 3B/Adv on E7
+;;;;;;;;;Scott Barlow replaces Pedro Avila pitching
+b5;4-1;1;--3;3,(2-0) .BBX;R;MIL;Carlos Santana;Scott Barlow;3%;94%;Double to RF (Line Drive to Short RF Line); Contreras Scores
+b5;5-1;1;-2-;2,(0-1) CX;O;MIL;Sal Frelick;Scott Barlow;-1%;93%;Groundout: SS-1B (SS-2B); Santana to 3B
+b5;5-1;2;--3;4,(3-0) BBBB;;MIL;Willy Adames;Scott Barlow;0%;93%;Walk
+b5;5-1;2;1-3;5,(3-1) CBBBB;;MIL;Mark Canha;Scott Barlow;0%;94%;Walk; Adames to 2B
+b5;5-1;2;123;3,(1-1) BCX;O;MIL;Brice Turang;Scott Barlow;-2%;92%;Flyball: 2B (Short CF)
+;;;;;;;;;5 runs, 5 hits, 2 errors, 3 LOB. Padres 1, Brewers 5.
+Top of the 6th, Padres Batting, Behind 1-5, Brewers' Freddy Peralta facing 1-2-3 
+t6;1-5;0;---;7,(3-2) BCBBF.FB;;SDP;Ha-Seong Kim;Freddy Peralta;-3%;89%;Walk
+t6;1-5;0;1--;6,(3-2) S*BFBBS;O;SDP;Fernando Tatis Jr.;Freddy Peralta;3%;92%;Strikeout Swinging
+t6;1-5;1;1--;8,(3-2) BCCBFFB>B;;SDP;Juan Soto;Freddy Peralta;-3%;89%;Walk; Kim to 2B
+;;;;;;;;;Elvis Peguero replaces Freddy Peralta pitching
+t6;1-5;1;12-;3,(1-1) .F*BX;R;SDP;Manny Machado;Elvis Peguero;-7%;82%;Single to LF (Line Drive to Deep SS-3B Hole); Kim Scores; Soto to 2B
+t6;2-5;1;12-;2,(0-1) CX;OO;SDP;Xander Bogaerts;Elvis Peguero;9%;91%;Ground Ball Double Play: 3B-2B-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Padres 2, Brewers 5.
+Bottom of the 6th, Brewers Batting, Ahead 5-2, Padres' Scott Barlow facing 8-9-1 
+b6;5-2;0;---;7,(3-2) BBCCBFX;O;MIL;Andruw Monasterio;Scott Barlow;-1%;90%;Groundout: SS-1B (SS-3B Hole)
+b6;5-2;1;---;4,(1-2) BCFX;O;MIL;Tyrone Taylor;Scott Barlow;-1%;90%;Popfly: 2B (Deep 2B-1B)
+;;;;;;;;;Tom Cosgrove replaces Scott Barlow pitching
+b6;5-2;2;---;6,(1-2) .SBFFFX;O;MIL;Christian Yelich;Tom Cosgrove;0%;89%;Popfly: SS (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 2, Brewers 5.
+Top of the 7th, Padres Batting, Behind 2-5, Brewers' Elvis Peguero facing 6-7-8 
+t7;2-5;0;---;5,(3-1) BBCBB;;SDP;Luis Campusano;Elvis Peguero;-4%;85%;Walk
+t7;2-5;0;1--;2,(1-0) BX;;SDP;Ben Gamel;Elvis Peguero;-7%;78%;Fielder's Choice 1B; Campusano to 2B/Safe on E6 (catch); Gamel to 1B
+t7;2-5;0;12-;4,(1-2) SCBX;O;SDP;Garrett Cooper;Elvis Peguero;5%;83%;Flyball: LF (Deep LF-CF); Campusano to 3B
+t7;2-5;1;1-3;5,(2-2) BBSFT;O;SDP;Trent Grisham;Elvis Peguero;7%;89%;Strikeout Swinging
+t7;2-5;2;1-3;2,(0-1) CX;O;SDP;Ha-Seong Kim;Elvis Peguero;5%;94%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 1 error, 2 LOB. Padres 2, Brewers 5.
+Bottom of the 7th, Brewers Batting, Ahead 5-2, Padres' Tom Cosgrove facing 2-3-4 
+b7;5-2;0;---;4,(2-1) BBCX;O;MIL;William Contreras;Tom Cosgrove;-1%;94%;Flyball: CF
+b7;5-2;1;---;3,(0-2) FCX;O;MIL;Carlos Santana;Tom Cosgrove;0%;93%;Groundout: SS-1B (SS-3B Hole)
+b7;5-2;2;---;3,(1-1) CBX;O;MIL;Sal Frelick;Tom Cosgrove;0%;93%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 2, Brewers 5.
+Top of the 8th, Padres Batting, Behind 2-5, Brewers' Joel Payamps facing 2-3-4 
+;;;;;;;;;Joel Payamps replaces Elvis Peguero pitching
+t8;2-5;0;---;5,(3-1) .BBBCX;;SDP;Fernando Tatis Jr.;Joel Payamps;-4%;89%;Single to CF (Line Drive to Deep CF)
+t8;2-5;0;1--;2,(0-1) C.X;RR;SDP;Juan Soto;Joel Payamps;-14%;74%;Home Run (Fly Ball to Deep LF-CF); Tatís Scores
+t8;4-5;0;---;5,(3-1) CBBBX;O;SDP;Manny Machado;Joel Payamps;6%;80%;Groundout: SS-1B
+t8;4-5;1;---;2,(0-1) CX;O;SDP;Xander Bogaerts;Joel Payamps;4%;84%;Popfly: 2B (Deep SS-2B)
+t8;4-5;2;---;1,(0-0) X;O;SDP;Luis Campusano;Joel Payamps;3%;87%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Padres 4, Brewers 5.
+Bottom of the 8th, Brewers Batting, Ahead 5-4, Padres' Robert Suarez facing 5-6-7 
+;;;;;;;;;Robert Suarez replaces Tom Cosgrove pitching
+b8;5-4;0;---;6,(2-2) .CFBBF.X;O;MIL;Willy Adames;Robert Suarez;-1%;85%;Flyball: RF (RF Line)
+b8;5-4;1;---;4,(1-2) SCBC;O;MIL;Mark Canha;Robert Suarez;-1%;84%;Strikeout Looking
+b8;5-4;2;---;6,(3-2) CBBBSC;O;MIL;Brice Turang;Robert Suarez;-1%;83%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 4, Brewers 5.
+Top of the 9th, Padres Batting, Behind 4-5, Brewers' Devin Williams facing 7-8-9 
+;;;;;;;;;Devin Williams replaces Joel Payamps pitching
+t9;4-5;0;---;5,(2-2) .CBFBX;O;SDP;Ben Gamel;Devin Williams;7%;91%;Groundout: 2B-1B
+t9;4-5;1;---;4,(1-2) BSC.*S;O;SDP;Garrett Cooper;Devin Williams;5%;96%;Strikeout Swinging
+;;;;;;;;;Gary Sánchez pinch hits for Trent Grisham (CF) batting 9th
+t9;4-5;2;---;5,(2-2) .BFC.BS;O;SDP;Gary Sánchez;Devin Williams;4%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 4, Brewers 5.

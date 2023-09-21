@@ -1,0 +1,246 @@
+
+Scorebox Meta
+20230330
+1:05 p.m. Local
+46172
+Yankee Stadium III
+153
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/SFG-2023.png;/teams/SFG/2023.shtml;0;0;0;0;0;0;0;0;0;0;4;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;1;0;0;2;0;0;2;0;X;5;8;0
+
+Batting home
+DJ LeMahieu;/players/l/lemahdj01.shtml;2B;4;0;1;1;0;3;4;.250;.250;.250;.500;12;11;-0.031; 0.72;0.028;-0.059;-0.02%; 0.67; 0.2;1;2;
+Aaron Judge;/players/j/judgeaa01.shtml;CF-RF;4;1;2;2;0;2;4;.500;.500;1.250;1.750;16;11;0.081; 0.54;0.117;-0.037; 0.04%; 0.49; 1.6;1;0;HR
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;4;0;1;0;0;1;4;.250;.250;.250;.500;19;12;-0.021; 0.52;0.021;-0.042;-0.01%; 0.48; -0.8;5;2;
+Giancarlo Stanton;/players/s/stantmi03.shtml;RF;4;0;1;0;0;1;4;.250;.250;.250;.500;13;12;-0.050; 0.52;0.001;-0.051;-0.03%; 0.48; -0.3;0;0;
+Estevan Florial;/players/f/flories01.shtml;PR-CF;0;0;0;0;0;0;0;;;;;;;;;;;;;;0;0;
+Josh Donaldson;/players/d/donaljo02.shtml;3B;4;1;1;0;0;2;4;.250;.250;.250;.500;12;9;-0.001; 0.37;0.023;-0.024;-0.00%; 0.34; -0.3;0;0;
+Gleyber Torres;/players/t/torregl01.shtml;DH;3;2;1;2;1;0;4;.333;.500;1.333;1.833;13;7;0.156; 0.49;0.176;-0.021; 0.09%; 0.45; 1.7;;;HR,SB
+Oswaldo Cabrera;/players/c/cabreos01.shtml;LF;4;0;0;0;0;4;4;.000;.000;.000;.000;19;13;-0.031; 0.31;0.000;-0.031;-0.02%; 0.29; -1.1;1;0;
+Jose Trevino;/players/t/trevijo01.shtml;C;3;1;1;0;0;2;3;.333;.333;.333;.667;9;7;-0.004; 0.29;0.012;-0.015;-0.00%; 0.27; 0.3;17;0;
+Anthony Volpe;/players/v/volpean01.shtml;SS;2;0;0;0;1;1;3;.000;.333;.000;.333;13;7;0.022; 0.73;0.048;-0.026; 0.01%; 0.68; -0.4;0;3;SB
+Gerrit Cole;/players/c/colege01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Wandy Peralta;/players/p/peralwa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jonathan Loáisiga;/players/l/loaisjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ron Marinaccio;/players/m/marinro01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+HR: Aaron Judge (1, off Logan Webb, 1st inn, 0 on, 1 out to Deep CF); Gleyber Torres (1, off Logan Webb, 4th inn, 1 on, 1 out to Deep RF).
+
+
+TB: Aaron Judge 5; Gleyber Torres 4; DJ LeMahieu; Jose Trevino; Giancarlo Stanton; Anthony Rizzo; Josh Donaldson.
+
+
+RBI: Gleyber Torres 2 (2); Aaron Judge 2 (2); DJ LeMahieu (1).
+
+
+2-out RBI: Aaron Judge; DJ LeMahieu.
+
+
+Team LOB: 5.
+With RISP: 3 for 9.
+
+Batting away
+LaMonte Wade Jr.;/players/w/wadela01.shtml;1B-LF;3;0;0;0;1;0;4;.000;.250;.000;.250;16;7;-0.008; 0.62;0.035;-0.044;-0.01%; 0.57; -0.2;5;0;
+Michael Conforto;/players/c/confomi01.shtml;RF;4;0;1;0;0;2;4;.250;.250;.250;.500;18;13;-0.006; 0.72;0.041;-0.047;-0.00%; 0.66; -0.2;0;0;
+Wilmer Flores;/players/f/florewi01.shtml;3B;3;0;0;0;1;1;4;.000;.250;.000;.250;23;11;-0.065; 1.02;0.047;-0.112;-0.04%; 0.94; -0.9;1;1;GDP
+Joc Pederson;/players/p/pederjo01.shtml;DH;3;0;0;0;1;3;4;.000;.250;.000;.250;24;15;-0.071; 0.78;0.004;-0.075;-0.04%; 0.71; -0.4;;;
+Mike Yastrzemski;/players/y/yastrmi01.shtml;CF;2;0;0;0;0;2;2;.000;.000;.000;.000;11;6;-0.061; 1.24;0.000;-0.061;-0.03%; 1.14; -0.5;0;0;
+J.D. Davis;/players/d/davisjd01.shtml;PH-1B;2;0;0;0;0;2;2;.000;.000;.000;.000;10;6;-0.028; 0.55;0.000;-0.028;-0.02%; 0.51; -0.5;1;0;
+Thairo Estrada;/players/e/estrath01.shtml;2B;4;0;2;0;0;1;4;.500;.500;.500;1.000;10;8;0.045; 0.74;0.075;-0.031; 0.02%; 0.68; 0.3;0;1;SB
+Brandon Crawford;/players/c/crawfbr01.shtml;SS;3;0;0;0;0;2;3;.000;.000;.000;.000;15;10;-0.089; 1.14;0.000;-0.089;-0.05%; 1.04; -0.9;0;2;
+Blake Sabol;/players/s/sabolbl01.shtml;LF;2;0;0;0;0;1;2;.000;.000;.000;.000;7;4;-0.049; 0.91;0.000;-0.049;-0.03%; 0.83; -0.5;0;0;
+David Villar;/players/v/villada01.shtml;PH;1;0;0;0;0;0;1;.000;.000;.000;.000;2;2;-0.026; 0.91;0.000;-0.026;-0.01%; 0.83; -0.3;;;
+Brett Wisely;/players/w/wiselbr01.shtml;CF;0;0;0;0;0;0;0;;;;;;;;;;;;;;1;0;
+Roberto Pérez;/players/p/perezro02.shtml;C;2;0;1;0;0;1;2;.500;.500;.500;1.000;8;5;-0.014; 0.69;0.012;-0.027;-0.01%; 0.62; -0.1;15;0;
+Matt Beaty;/players/b/beatyma01.shtml;PH;1;0;0;0;0;1;1;.000;.000;.000;.000;6;6;-0.007; 0.27;0.000;-0.007;-0.00%; 0.25; -0.2;;;
+Joey Bart;/players/b/bartjo01.shtml;C;0;0;0;0;0;0;0;;;;;;;;;;;;;;1;0;
+Logan Webb;/players/w/webblo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+John Brebbia;/players/b/brebbjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tyler Rogers;/players/r/rogerty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+TB: Thairo Estrada 2; Roberto Pérez; Michael Conforto.
+
+
+GIDP: Wilmer Flores (1).
+
+
+Team LOB: 6.
+With RISP: 0 for 3.
+
+Pitching home
+Gerrit Cole;/players/c/colege01.shtml; W (1-0); 6 ;3;0;0;2;11;0;0.00;22;95;56;27;17;12;5;4;3;0;75;;;0.315; 0.98; 0.18%; 0.91; 3.0
+Wandy Peralta;/players/p/peralwa01.shtml; H (1); 0.2;1;0;0;0;2;0;0.00;3;14;8;1;3;4;0;1;1;0;;0;0;0.021; 1.00; 0.01%; 0.93; 0.2
+Jonathan Loáisiga;/players/l/loaisjo01.shtml; H (1); 0.1;0;0;0;0;0;0;0.00;1;2;2;1;0;1;0;1;0;0;;1;0;0.026; 0.91; 0.01%; 0.84; 0.3
+Ron Marinaccio;/players/m/marinro01.shtml;Ron Marinaccio; 2 ;0;0;0;1;3;0;0.00;7;39;27;20;3;4;2;1;0;0;;0;0;0.018; 0.14; 0.01%; 0.13; 1.0
+
+Pitching away
+Logan Webb;/players/w/webblo01.shtml; L (0-1); 6 ;4;4;4;2;12;2;6.00;24;92;65;27;15;23;5;5;1;0;58;;;-0.088; 0.60;-0.05%; 0.55; -0.3
+John Brebbia;/players/b/brebbjo01.shtml;John Brebbia; 1 ;3;1;1;0;3;0;9.00;6;23;16;6;7;3;1;2;1;0;;1;1;-0.032; 0.31;-0.02%; 0.28; -1.1
+Tyler Rogers;/players/r/rogerty01.shtml;Tyler Rogers; 1 ;1;0;0;0;1;0;0.00;4;11;8;5;0;3;2;1;0;0;;0;0;0.001; 0.03; 0.00%; 0.03; 0.5
+
+indiv_events
+
+Balks: Wandy Peralta (1).
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: Wandy Peralta (1).
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Laz Diaz, 1B - Andy Fletcher, 2B - Erich Bacchus, 3B - Mike Estabrook, LF - (none), RF - (none).
+Time of Game: 2:33.
+Attendance: 46,172.
+Field Condition: Unknown.
+Start Time Weather: 39° F, Wind 13mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Giants
+1;LaMonte Wade Jr.;/players/w/wadela01.shtml;1B
+2;Michael Conforto;/players/c/confomi01.shtml;RF
+3;Wilmer Flores;/players/f/florewi01.shtml;3B
+4;Joc Pederson;/players/p/pederjo01.shtml;DH
+5;Mike Yastrzemski;/players/y/yastrmi01.shtml;CF
+6;Thairo Estrada;/players/e/estrath01.shtml;2B
+7;Brandon Crawford;/players/c/crawfbr01.shtml;SS
+8;Blake Sabol;/players/s/sabolbl01.shtml;LF
+9;Roberto Pérez;/players/p/perezro02.shtml;C
+; Logan Webb;/players/w/webblo01.shtml;P
+Yankees
+1;DJ LeMahieu;/players/l/lemahdj01.shtml;2B
+2;Aaron Judge;/players/j/judgeaa01.shtml;CF
+3;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+4;Giancarlo Stanton;/players/s/stantmi03.shtml;RF
+5;Josh Donaldson;/players/d/donaljo02.shtml;3B
+6;Gleyber Torres;/players/t/torregl01.shtml;DH
+7;Oswaldo Cabrera;/players/c/cabreos01.shtml;LF
+8;Jose Trevino;/players/t/trevijo01.shtml;C
+9;Anthony Volpe;/players/v/volpean01.shtml;SS
+; Gerrit Cole;/players/c/colege01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b4;1-0;1;1--;1,(0-0) X;RR;NYY;Gleyber Torres;Logan Webb;16%;85%;Home Run (Fly Ball to Deep RF); Donaldson Scores
+b1;0-0;1;---;2,(0-1) CX;R;NYY;Aaron Judge;Logan Webb;10%;63%;Home Run (Fly Ball to Deep CF)
+t6;0-3;0;1--;6,(3-2) *BCBBFX;OO;SFG;Wilmer Flores;Gerrit Cole;8%;90%;Ground Ball Double Play: SS-2B-1B
+t4;0-1;0;---;5,(3-1) FBBBB;;SFG;Wilmer Flores;Gerrit Cole;-5%;58%;Walk
+t4;0-1;0;1--;5,(2-2) SFBBS;O;SFG;Joc Pederson;Gerrit Cole;4%;62%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Giants Batting, Tied 0-0, Yankees' Gerrit Cole facing 1-2-3 
+t1;0-0;0;---;4,(3-0) BBBB;;SFG;LaMonte Wade Jr.;Gerrit Cole;-4%;46%;Walk
+t1;0-0;0;1--;5,(1-2) FBFFC;O;SFG;Michael Conforto;Gerrit Cole;3%;50%;Strikeout Looking
+t1;0-0;1;1--;5,(2-2) CBBFC;O;SFG;Wilmer Flores;Gerrit Cole;3%;53%;Strikeout Looking
+t1;0-0;2;1--;7,(3-2) CB+1BSF1B.>S;O;SFG;Joc Pederson;Gerrit Cole;2%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Giants 0, Yankees 0.
+Bottom of the 1st, Yankees Batting, Tied 0-0, Giants' Logan Webb facing 1-2-3 
+b1;0-0;0;---;4,(1-2) CBFS;O;NYY;DJ LeMahieu;Logan Webb;-2%;53%;Strikeout Swinging
+b1;0-0;1;---;2,(0-1) CX;R;NYY;Aaron Judge;Logan Webb;10%;63%;Home Run (Fly Ball to Deep CF)
+b1;1-0;1;---;5,(2-2) CCBB.X;;NYY;Anthony Rizzo;Logan Webb;2%;65%;Single to LF (Line Drive)
+b1;1-0;1;1--;6,(1-2) CBSFFC;O;NYY;Giancarlo Stanton;Logan Webb;-2%;62%;Strikeout Looking
+b1;1-0;2;1--;3,(0-2) CFC;O;NYY;Josh Donaldson;Logan Webb;-2%;60%;Strikeout Looking
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Giants 0, Yankees 1.
+Top of the 2nd, Giants Batting, Behind 0-1, Yankees' Gerrit Cole facing 5-6-7 
+t2;0-1;0;---;5,(2-2) FBFBS;O;SFG;Mike Yastrzemski;Gerrit Cole;2%;63%;Strikeout Swinging
+t2;0-1;1;---;2,(0-1) CX;;SFG;Thairo Estrada;Gerrit Cole;-3%;60%;Single to CF (Line Drive)
+t2;0-1;1;1--;6,(2-2) S1SB>FBS;O;SFG;Brandon Crawford;Gerrit Cole;3%;63%;Strikeout Swinging
+t2;0-1;2;1--;3,(1-1) SB>S;;SFG;Blake Sabol;Gerrit Cole;-1%;62%;Estrada Steals 2B
+t2;0-1;2;-2-;5,(2-2) SB>S.*BS;O;SFG;Blake Sabol;Gerrit Cole;3%;66%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Yankees 1.
+Bottom of the 2nd, Yankees Batting, Ahead 1-0, Giants' Logan Webb facing 6-7-8 
+b2;1-0;0;---;1,(0-0) X;O;NYY;Gleyber Torres;Logan Webb;-2%;64%;Groundout: SS-1B
+b2;1-0;1;---;6,(3-2) CBCBBS;O;NYY;Oswaldo Cabrera;Logan Webb;-1%;62%;Strikeout Swinging
+b2;1-0;2;---;4,(1-2) BCCC;O;NYY;Jose Trevino;Logan Webb;-1%;61%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Yankees 1.
+Top of the 3rd, Giants Batting, Behind 0-1, Yankees' Gerrit Cole facing 9-1-2 
+t3;0-1;0;---;5,(2-2) FBF.BC;O;SFG;Roberto Pérez;Gerrit Cole;3%;64%;Strikeout Looking
+t3;0-1;1;---;5,(2-2) FLBBX;O;SFG;LaMonte Wade Jr.;Gerrit Cole;2%;66%;Groundout: 2B-1B (Deep 2B)
+t3;0-1;2;---;5,(2-2) CBB.FC;O;SFG;Michael Conforto;Gerrit Cole;1%;67%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Yankees 1.
+Bottom of the 3rd, Yankees Batting, Ahead 1-0, Giants' Logan Webb facing 9-1-2 
+b3;1-0;0;---;6,(3-2) FBBCBB;;NYY;Anthony Volpe;Logan Webb;3%;70%;Walk
+b3;1-0;0;1--;4,(0-2) SF1F>C;O;NYY;DJ LeMahieu;Logan Webb;-1%;69%;Strikeout Looking, Volpe Steals 2B
+b3;1-0;1;-2-;4,(1-2) CSBS;O;NYY;Aaron Judge;Logan Webb;-3%;66%;Strikeout Swinging
+b3;1-0;2;-2-;6,(3-2) BFBFBX;O;NYY;Anthony Rizzo;Logan Webb;-3%;62%;Popfly: 3B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Giants 0, Yankees 1.
+Top of the 4th, Giants Batting, Behind 0-1, Yankees' Gerrit Cole facing 3-4-5 
+t4;0-1;0;---;5,(3-1) FBBBB;;SFG;Wilmer Flores;Gerrit Cole;-5%;58%;Walk
+t4;0-1;0;1--;5,(2-2) SFBBS;O;SFG;Joc Pederson;Gerrit Cole;4%;62%;Strikeout Swinging
+t4;0-1;1;1--;6,(3-2) BBSSBS;O;SFG;Mike Yastrzemski;Gerrit Cole;4%;66%;Strikeout Swinging
+t4;0-1;2;1--;1,(0-0) X;O;SFG;Thairo Estrada;Gerrit Cole;3%;69%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Giants 0, Yankees 1.
+Bottom of the 4th, Yankees Batting, Ahead 1-0, Giants' Logan Webb facing 4-5-6 
+b4;1-0;0;---;2,(0-1) CX;O;NYY;Giancarlo Stanton;Logan Webb;-2%;67%;Groundout: SS-1B
+b4;1-0;1;---;3,(1-1) BCX;;NYY;Josh Donaldson;Logan Webb;2%;69%;Single to LF (Ground Ball thru SS-3B Hole)
+b4;1-0;1;1--;1,(0-0) X;RR;NYY;Gleyber Torres;Logan Webb;16%;85%;Home Run (Fly Ball to Deep RF); Donaldson Scores
+b4;3-0;1;---;4,(1-2) BFFS;O;NYY;Oswaldo Cabrera;Logan Webb;-1%;84%;Strikeout Swinging
+b4;3-0;2;---;4,(1-2) CBFS;O;NYY;Jose Trevino;Logan Webb;-1%;84%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Giants 0, Yankees 3.
+Top of the 5th, Giants Batting, Behind 0-3, Yankees' Gerrit Cole facing 7-8-9 
+t5;0-3;0;---;4,(1-2) CBS.X;O;SFG;Brandon Crawford;Gerrit Cole;2%;86%;Flyball: LF (Deep LF-CF)
+t5;0-3;1;---;2,(1-0) BX;O;SFG;Blake Sabol;Gerrit Cole;2%;88%;Groundout: 1B-P (2B-1B)
+t5;0-3;2;---;3,(1-1) CBX;;SFG;Roberto Pérez;Gerrit Cole;-1%;86%;Single to CF (Line Drive to Deep CF-RF)
+t5;0-3;2;1--;5,(2-2) CBF*BX;O;SFG;LaMonte Wade Jr.;Gerrit Cole;2%;89%;Groundout: 1B unassisted (Weak 1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Yankees 3.
+Bottom of the 5th, Yankees Batting, Ahead 3-0, Giants' Logan Webb facing 9-1-2 
+b5;3-0;0;---;2,(0-1) FX;O;NYY;Anthony Volpe;Logan Webb;-1%;88%;Groundout: 3B-1B (SS-3B Hole)
+b5;3-0;1;---;3,(0-2) FCS;O;NYY;DJ LeMahieu;Logan Webb;-1%;87%;Strikeout Swinging
+b5;3-0;2;---;5,(2-2) BSS.BS;O;NYY;Aaron Judge;Logan Webb;0%;86%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Yankees 3.
+Top of the 6th, Giants Batting, Behind 0-3, Yankees' Gerrit Cole facing 2-3-4 
+t6;0-3;0;---;1,(0-0) X;;SFG;Michael Conforto;Gerrit Cole;-4%;82%;Single to LF (Line Drive to LF-CF)
+t6;0-3;0;1--;6,(3-2) *BCBBFX;OO;SFG;Wilmer Flores;Gerrit Cole;8%;90%;Ground Ball Double Play: SS-2B-1B
+t6;0-3;2;---;3,(0-2) SFS;O;SFG;Joc Pederson;Gerrit Cole;1%;91%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Giants 0, Yankees 3.
+Bottom of the 6th, Yankees Batting, Ahead 3-0, Giants' Logan Webb facing 3-4-5 
+b6;3-0;0;---;3,(1-1) FBX;O;NYY;Anthony Rizzo;Logan Webb;-1%;91%;Groundout: 2B-1B (2B-1B)
+b6;3-0;1;---;3,(0-2) SCX;O;NYY;Giancarlo Stanton;Logan Webb;-1%;90%;Foul Popfly: 1B (1B into Foul Terr.)
+b6;3-0;2;---;4,(1-2) BCSC;O;NYY;Josh Donaldson;Logan Webb;0%;90%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Yankees 3.
+Top of the 7th, Giants Batting, Behind 0-3, Yankees' Wandy Peralta facing 5-6-7 
+;;;;;;;;;Wandy Peralta replaces Gerrit Cole pitchingJ.D. Davis pinch hits for Mike Yastrzemski (CF) batting 5th
+t7;0-3;0;---;6,(3-2) ..BSBBSC;O;SFG;J.D. Davis;Wandy Peralta;2%;92%;Strikeout Looking
+t7;0-3;1;---;3,(1-1) CBX;;SFG;Thairo Estrada;Wandy Peralta;-3%;89%;Single to RF (Line Drive to Deep CF-RF)
+t7;0-3;1;1--;3,(1-2) BCSN;;SFG;Brandon Crawford;Wandy Peralta;-1%;88%;Balk; Estrada to 2B
+t7;0-3;1;-2-;5,(2-2) BCSN.BC;O;SFG;Brandon Crawford;Wandy Peralta;4%;92%;Strikeout Looking
+;;;;;;;;;Jonathan Loáisiga replaces Wandy Peralta pitchingDavid Villar pinch hits for Blake Sabol (LF) batting 8th
+t7;0-3;2;-2-;2,(0-1) ..CX;O;SFG;David Villar;Jonathan Loáisiga;3%;94%;Flyball: CF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Yankees 3.
+Bottom of the 7th, Yankees Batting, Ahead 3-0, Giants' Logan Webb facing 6-7-8 
+;;;;;;;;;J.D. Davis moves from PH to 1B LaMonte Wade Jr. moves from 1B to LF Brett Wisely replaces David Villar (PH) playing CF batting 8th
+b7;3-0;0;---;7,(3-2) ...FBBSB.FB;;NYY;Gleyber Torres;Logan Webb;1%;95%;Walk
+;;;;;;;;;John Brebbia replaces Logan Webb pitching
+b7;3-0;0;1--;6,(2-2) .FB1SFB>S;O;NYY;Oswaldo Cabrera;John Brebbia;0%;95%;Strikeout Swinging, Torres Steals 2B
+b7;3-0;1;-2-;1,(0-0) X;;NYY;Jose Trevino;John Brebbia;1%;96%;Single to LF (Line Drive); Torres to 3B
+b7;3-0;1;1-3;5,(2-2) CBBSS;O;NYY;Anthony Volpe;John Brebbia;-2%;94%;Strikeout Swinging
+b7;3-0;2;1-3;1,(0-0) X;R;NYY;DJ LeMahieu;John Brebbia;3%;97%;Single to LF (Ground Ball thru SS-3B Hole); Torres Scores; Trevino to 2B
+b7;4-0;2;12-;5,(2-2) BCBSX;R;NYY;Aaron Judge;John Brebbia;2%;99%;Single to CF (Fly Ball to Short CF); Trevino Scores; LeMahieu to 3B
+b7;5-0;2;1-3;5,(1-2) BCSFS;O;NYY;Anthony Rizzo;John Brebbia;0%;98%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Giants 0, Yankees 5.
+Top of the 8th, Giants Batting, Behind 0-5, Yankees' Ron Marinaccio facing 9-1-2 
+;;;;;;;;;Ron Marinaccio replaces Jonathan Loáisiga pitchingMatt Beaty pinch hits for Roberto Pérez (C) batting 9th
+t8;0-5;0;---;6,(0-2) ..FFFFFS;O;SFG;Matt Beaty;Ron Marinaccio;1%;99%;Strikeout Swinging
+t8;0-5;1;---;2,(1-0) BX;O;SFG;LaMonte Wade Jr.;Ron Marinaccio;0%;99%;Foul Popfly: C (Behind Home)
+t8;0-5;2;---;7,(2-2) FF.BFBFX;O;SFG;Michael Conforto;Ron Marinaccio;0%;100%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Yankees 5.
+Bottom of the 8th, Yankees Batting, Ahead 5-0, Giants' Tyler Rogers facing 4-5-6 
+;;;;;;;;;Tyler Rogers replaces John Brebbia pitchingJoey Bart replaces Matt Beaty (PH) playing C batting 9th
+b8;5-0;0;---;2,(0-1) ..CX;;NYY;Giancarlo Stanton;Tyler Rogers;0%;100%;Single to CF (Ground Ball thru SS-2B)
+;;;;;;;;;Estevan Florial pinch runs for Giancarlo Stanton (RF) batting 4th
+b8;5-0;0;1--;2,(1-0) .BX;O;NYY;Josh Donaldson;Tyler Rogers;0%;100%;Groundout: P-1B (Front of Home); Florial to 2B
+b8;5-0;1;-2-;4,(2-1) BCBX;O;NYY;Gleyber Torres;Tyler Rogers;0%;99%;Flyball: CF (Deep CF); Florial to 3B
+b8;5-0;2;--3;3,(0-2) FFC;O;NYY;Oswaldo Cabrera;Tyler Rogers;0%;99%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Yankees 5.
+Top of the 9th, Giants Batting, Behind 0-5, Yankees' Ron Marinaccio facing 3-4-5 
+;;;;;;;;;Estevan Florial moves from PR to CF Aaron Judge moves from CF to RF 
+t9;0-5;0;---;7,(3-2) ..BBCFF.BX;O;SFG;Wilmer Flores;Ron Marinaccio;0%;100%;Groundout: SS-1B
+t9;0-5;1;---;9,(3-2) S.BBSFBFFB;;SFG;Joc Pederson;Ron Marinaccio;0%;99%;Walk
+t9;0-5;1;1--;4,(1-2) A>F*BFC;O;SFG;J.D. Davis;Ron Marinaccio;0%;100%;Strikeout Looking
+t9;0-5;2;1--;4,(1-2) BFC>C;O;SFG;Thairo Estrada;Ron Marinaccio;0%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Giants 0, Yankees 5.

@@ -1,0 +1,291 @@
+
+Scorebox Meta
+20230826
+7:10 p.m. Local
+35890
+Citi Field
+177
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;1;4;0;0;0;0;0;0;0;5;9;1
+https://cdn.ssref.net/req/202308251/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;2;0;1;0;0;0;3;7;0
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;5;0;0;0;0;2;5;.260;.356;.432;.787;21;15;-0.166; 1.29;0.000;-0.166;-0.01%; 0.07; -1.3;2;0;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;5;1;1;0;0;2;5;.255;.338;.472;.810;25;17;-0.055; 1.07;0.077;-0.132;-0.00%; 0.06; 0.3;0;4;SB
+Jeff McNeil;/players/m/mcneije01.shtml;2B-1B;4;1;1;0;0;1;4;.266;.335;.354;.690;11;7;-0.038; 1.00;0.043;-0.081;-0.00%; 0.05; -0.1;3;2;SB
+Pete Alonso;/players/a/alonspe01.shtml;1B;3;0;0;0;0;2;4;.220;.325;.521;.846;14;7;-0.004; 1.23;0.079;-0.082;0%; 0.07; -0.7;9;0;HBP
+Danny Mendick;/players/m/mendida01.shtml;PR-2B;0;0;0;0;0;0;0;.190;.230;.293;.523;;;;;;;;;;0;0;
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;4;1;1;1;0;0;4;.224;.330;.398;.728;17;10;-0.032; 1.29;0.089;-0.121;-0.00%; 0.07; -0.1;;;HR
+DJ Stewart;/players/s/stewadj01.shtml;RF;3;0;2;1;1;1;4;.263;.345;.566;.911;16;10;0.128; 1.11;0.152;-0.024; 0.00%; 0.06; 1.3;2;0;2B
+Omar Narváez;/players/n/narvaom01.shtml;C;3;0;0;0;1;2;4;.195;.281;.268;.550;17;9;-0.120; 1.56;0.020;-0.140;-0.00%; 0.09; -0.9;8;0;
+Rafael Ortega;/players/o/ortegra01.shtml;LF;2;0;1;0;2;0;4;.229;.333;.300;.633;19;9;0.043; 1.69;0.126;-0.084; 0.00%; 0.09; 0.8;2;0;SB
+Jonathan Araúz;/players/a/arauzjo01.shtml;3B;3;0;1;0;0;0;3;.135;.211;.250;.461;13;8;-0.044; 1.80;0.072;-0.116;-0.00%; 0.09; -0.6;1;5;
+Abraham Almonte;/players/a/almonab01.shtml;PH;1;0;0;0;0;0;1;.067;.125;.133;.258;3;3;-0.047; 1.85;0.000;-0.047;-0.00%; 0.10; -0.2;;;
+Carlos Carrasco;/players/c/carraca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Sean Reid-Foley;/players/r/reidfse01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Phil Bickford;/players/b/bickfph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Drew Smith;/players/s/smithdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Kolarek;/players/k/kolarad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Ottavino;/players/o/ottavad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brooks Raley;/players/r/raleybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: DJ Stewart (5, off Aaron Loup).
+
+
+HR: Daniel Vogelbach (12, off Dominic Leone, 6th inn, 0 on, 1 out to Deep LF-CF).
+
+
+HBP: Pete Alonso (17, by José Soriano).
+
+
+TB: Daniel Vogelbach 4; DJ Stewart 3; Jeff McNeil; Jonathan Araúz; Rafael Ortega; Francisco Lindor.
+
+
+RBI: DJ Stewart (13); Daniel Vogelbach (42).
+
+
+2-out RBI: DJ Stewart.
+
+
+Team LOB: 8.
+With RISP: 1 for 10.
+
+Batting away
+Luis Rengifo;/players/r/rengilu01.shtml;SS-2B;5;1;2;1;0;0;5;.244;.329;.399;.729;10;7;0.039; 0.56;0.086;-0.047; 0.00%; 0.01; 0.4;2;1;2B
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;3;2;2;1;2;0;5;.307;.412;.672;1.083;17;10;0.109; 0.41;0.125;-0.016; 0.00%; 0.01; 1.7;;;3B,2B,2·SB,IW
+Brandon Drury;/players/d/drurybr01.shtml;2B-1B;5;0;2;2;0;2;5;.267;.304;.487;.791;18;13;0.094; 0.66;0.130;-0.037; 0.00%; 0.02; 0.8;5;2;2B
+Mike Moustakas;/players/m/moustmi01.shtml;3B;4;0;0;0;0;2;4;.261;.315;.436;.751;20;14;-0.057; 0.56;0.000;-0.057;-0.00%; 0.01; -1.0;1;0;
+Logan O'Hoppe;/players/o/ohopplo01.shtml;C;4;0;0;0;0;0;4;.234;.294;.455;.749;17;10;-0.049; 0.46;0.000;-0.049;-0.00%; 0.01; -0.9;8;2;
+Mickey Moniak;/players/m/moniami01.shtml;CF;4;1;1;1;0;1;4;.277;.308;.496;.804;15;8;0.075; 0.41;0.095;-0.021; 0.00%; 0.01; 0.6;1;0;HR
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;3;0;1;0;1;0;4;.241;.301;.429;.730;20;11;0.010; 0.38;0.034;-0.024;0%; 0.01; 0.4;1;0;2B
+Trey Cabbage;/players/c/cabbatr01.shtml;1B;3;1;1;0;0;2;3;.216;.211;.378;.589;11;8;0.004; 0.42;0.032;-0.028;0%; 0.01; -0.3;5;0;2B
+Andrew Velazquez;/players/v/velazan01.shtml;SS;1;0;0;0;0;0;1;.187;.282;.307;.589;3;2;-0.008; 0.30;0.000;-0.008;0%; 0.01; -0.2;0;0;
+Randal Grichuk;/players/g/grichra01.shtml;LF;4;0;0;0;0;1;4;.263;.315;.440;.756;15;10;-0.053; 0.51;0.000;-0.053;-0.00%; 0.01; -1.1;4;0;
+Chase Silseth;/players/s/silsech01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Aaron Loup;/players/l/loupaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dominic Leone;/players/l/leonedo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Soriano;/players/s/soriajo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Carlos Estévez;/players/e/estevca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Shohei Ohtani (24, off Carlos Carrasco); Trey Cabbage (3, off Carlos Carrasco); Brandon Drury (21, off Carlos Carrasco); Hunter Renfroe (30, off Drew Smith); Luis Rengifo (14, off Brooks Raley).
+
+
+3B: Shohei Ohtani (8, off Carlos Carrasco).
+
+
+HR: Mickey Moniak (13, off Carlos Carrasco, 2nd inn, 0 on, 0 outs to Deep RF).
+
+
+IBB: Shohei Ohtani (18, by Brooks Raley).
+
+
+TB: Shohei Ohtani 5; Mickey Moniak 4; Brandon Drury 3; Luis Rengifo 3; Trey Cabbage 2; Hunter Renfroe 2.
+
+
+RBI: Brandon Drury 2 (59); Shohei Ohtani (92); Luis Rengifo (41); Mickey Moniak (40).
+
+
+2-out RBI: Brandon Drury; Shohei Ohtani; Luis Rengifo.
+
+
+Team LOB: 7.
+With RISP: 3 for 10.
+
+Pitching home
+Carlos Carrasco;/players/c/carraca01.shtml; L (3-8); 1.2;7;5;5;0;1;1;6.80;12;49;31;17;5;9;1;10;7;0;22;;;-0.338; 0.79;-0.01%; 0.04; -4.3
+Sean Reid-Foley;/players/r/reidfse01.shtml;Sean Reid-Foley; 1.1;0;0;0;1;3;0;0.00;5;25;15;6;5;4;0;1;0;0;;1;0;0.026; 0.24; 0.00%; 0.01; 0.8
+Phil Bickford;/players/b/bickfph01.shtml;Phil Bickford; 2 ;0;0;0;1;2;0;5.69;7;26;16;8;5;3;3;1;0;0;;0;0;0.041; 0.28; 0.00%; 0.02; 1.0
+Drew Smith;/players/s/smithdr01.shtml;Drew Smith; 1 ;1;0;0;0;1;0;3.83;4;18;11;5;4;2;1;2;1;0;;0;0;0.025; 0.58; 0.00%; 0.03; 0.5
+Adam Kolarek;/players/k/kolarad01.shtml;Adam Kolarek; 1 ;0;0;0;0;1;0;0.00;3;7;6;2;1;3;1;1;0;0;;0;0;0.035; 0.46; 0.00%; 0.02; 0.5
+Adam Ottavino;/players/o/ottavad01.shtml;Adam Ottavino; 1 ;0;0;0;0;0;0;3.18;3;10;7;5;1;1;3;0;0;0;;0;0;0.029; 0.38; 0.00%; 0.02; 0.5
+Brooks Raley;/players/r/raleybr01.shtml;Brooks Raley; 1 ;1;0;0;1;0;0;2.45;5;11;7;6;0;1;3;1;0;0;;0;0;0.018; 0.34; 0.00%; 0.02; 0.5
+
+Pitching away
+Chase Silseth;/players/s/silsech01.shtml;Chase Silseth; 3.1;2;2;2;2;3;0;4.10;13;57;32;15;6;11;1;7;4;0;49;;;0.032; 0.71; 0.00%; 0.02; 0.1
+Aaron Loup;/players/l/loupaa01.shtml; W (2-2); 1.2;3;0;0;0;3;0;5.63;8;34;21;15;1;5;3;2;1;0;;1;1;0.062; 1.66; 0.00%; 0.04; 0.5
+Dominic Leone;/players/l/leonedo01.shtml; H (3); 1 ;1;1;1;2;2;1;4.61;6;31;17;9;4;4;0;2;0;0;;0;0;-0.023; 1.19; 0.00%; 0.03; -0.5
+José Soriano;/players/s/soriajo02.shtml; H (13); 2 ;1;0;0;0;2;0;2.81;8;24;16;7;4;5;0;5;1;0;;0;0;0.172; 2.21; 0.00%; 0.06; 1.0
+Carlos Estévez;/players/e/estevca01.shtml; S (28); 1 ;0;0;0;0;0;0;3.40;3;10;9;6;1;2;2;1;0;0;;0;0;0.092; 1.21; 0.00%; 0.03; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: José Soriano (6; Pete Alonso).
+IBB: Brooks Raley (3; Shohei Ohtani).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: José Soriano (6; Pete Alonso).
+IBB: Brooks Raley (3; Shohei Ohtani).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Chad Fairchild, 1B - Nic Lentz, 2B - Paul Clemons, 3B - Jeremie Rehak, LF - (none), RF - (none).
+Time of Game: 2:57.
+Attendance: 35,890.
+Field Condition: Unknown.
+Start Time Weather: 82° F, Wind 2mph out to Leftfield, Sunny, No Precipitation.
+
+div_lineups
+Angels
+1;Luis Rengifo;/players/r/rengilu01.shtml;SS
+2;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+3;Brandon Drury;/players/d/drurybr01.shtml;2B
+4;Mike Moustakas;/players/m/moustmi01.shtml;3B
+5;Logan O'Hoppe;/players/o/ohopplo01.shtml;C
+6;Mickey Moniak;/players/m/moniami01.shtml;CF
+7;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+8;Trey Cabbage;/players/c/cabbatr01.shtml;1B
+9;Randal Grichuk;/players/g/grichra01.shtml;LF
+; Chase Silseth;/players/s/silsech01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Jeff McNeil;/players/m/mcneije01.shtml;2B
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+6;DJ Stewart;/players/s/stewadj01.shtml;RF
+7;Omar Narváez;/players/n/narvaom01.shtml;C
+8;Rafael Ortega;/players/o/ortegra01.shtml;LF
+9;Jonathan Araúz;/players/a/arauzjo01.shtml;3B
+; Carlos Carrasco;/players/c/carraca01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;1-0;0;---;4,(2-1) BCBX;R;LAA;Mickey Moniak;Carlos Carrasco;10%;70%;Home Run (Fly Ball to Deep RF)
+b8;3-5;1;12-;4,(1-2) CFBS;O;NYM;Omar Narváez;José Soriano;9%;84%;Strikeout Swinging
+b6;2-5;1;---;5,(3-2) FVBBCX;R;NYM;Daniel Vogelbach;Dominic Leone;-9%;78%;Home Run (Fly Ball to Deep LF-CF)
+b8;3-5;2;12-;4,(1-2) CC.*BX;O;NYM;Rafael Ortega;José Soriano;8%;93%;Flyball: CF (Deep CF-RF)
+t1;0-0;1;-2-;3,(0-2) CSX;R;LAA;Brandon Drury;Carlos Carrasco;8%;60%;Single to LF (Line Drive to Deep LF-CF); Ohtani Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, Mets' Carlos Carrasco facing 1-2-3 
+t1;0-0;0;---;4,(2-1) BBCX;O;LAA;Luis Rengifo;Carlos Carrasco;-2%;48%;Lineout: 3B (SS-3B Hole)
+t1;0-0;1;---;8,(2-2) BBCF.FFFX;;LAA;Shohei Ohtani;Carlos Carrasco;4%;52%;Double to CF (Line Drive to Deep CF-RF)
+t1;0-0;1;-2-;3,(0-2) CSX;R;LAA;Brandon Drury;Carlos Carrasco;8%;60%;Single to LF (Line Drive to Deep LF-CF); Ohtani Scores
+t1;1-0;1;1--;6,(2-2) SBBFFS;O;LAA;Mike Moustakas;Carlos Carrasco;-3%;57%;Strikeout Swinging
+t1;1-0;2;1--;6,(3-2) BSBBC>X;O;LAA;Logan O'Hoppe;Carlos Carrasco;-2%;55%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Angels 1, Mets 0.
+Bottom of the 1st, Mets Batting, Behind 0-1, Angels' Chase Silseth facing 1-2-3 
+b1;0-1;0;---;7,(3-2) BBBCCFX;O;NYM;Brandon Nimmo;Chase Silseth;2%;58%;Flyball: LF (Short LF Line)
+b1;0-1;1;---;7,(3-2) CBBB.FFS;O;NYM;Francisco Lindor;Chase Silseth;2%;59%;Strikeout Swinging; Lindor out at 1B/C-1B
+b1;0-1;2;---;6,(3-2) BBFBS.C;O;NYM;Jeff McNeil;Chase Silseth;1%;60%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, Mets 0.
+Top of the 2nd, Angels Batting, Ahead 1-0, Mets' Carlos Carrasco facing 6-7-8 
+t2;1-0;0;---;4,(2-1) BCBX;R;LAA;Mickey Moniak;Carlos Carrasco;10%;70%;Home Run (Fly Ball to Deep RF)
+t2;2-0;0;---;6,(3-2) CSBBBX;O;LAA;Hunter Renfroe;Carlos Carrasco;-2%;68%;Flyball: LF (LF Line)
+t2;2-0;1;---;2,(1-0) BX;;LAA;Trey Cabbage;Carlos Carrasco;3%;71%;Double to RF (Line Drive to RF Line)
+t2;2-0;1;-2-;1,(0-0) X;O;LAA;Randal Grichuk;Carlos Carrasco;-3%;69%;Flyball: CF
+t2;2-0;2;-2-;1,(0-0) X;R;LAA;Luis Rengifo;Carlos Carrasco;8%;76%;Single to CF (Line Drive to Deep CF-RF); Cabbage Scores
+t2;3-0;2;1--;2,(0-1) CX;R;LAA;Shohei Ohtani;Carlos Carrasco;8%;84%;Triple to RF (Line Drive to Deep RF Line); Rengifo Scores
+t2;4-0;2;--3;6,(3-2) BBCCB.X;R;LAA;Brandon Drury;Carlos Carrasco;5%;89%;Double to LF (Line Drive); Ohtani Scores
+;;;;;;;;;Sean Reid-Foley replaces Carlos Carrasco pitching
+t2;5-0;2;-2-;7,(3-2) .FBFB*BFC;O;LAA;Mike Moustakas;Sean Reid-Foley;-1%;88%;Strikeout Looking
+;;;;;;;;;4 runs, 5 hits, 0 errors, 1 LOB. Angels 5, Mets 0.
+Bottom of the 2nd, Mets Batting, Behind 0-5, Angels' Chase Silseth facing 4-5-6 
+b2;0-5;0;---;4,(1-2) BCCS;O;NYM;Pete Alonso;Chase Silseth;1%;89%;Strikeout Swinging
+b2;0-5;1;---;5,(2-2) BCFBX;O;NYM;Daniel Vogelbach;Chase Silseth;1%;90%;Foul Popfly: 3B (3B into Foul Terr.)
+b2;0-5;2;---;6,(3-2) BBCFB.B;;NYM;DJ Stewart;Chase Silseth;-1%;89%;Walk
+b2;0-5;2;1--;1,(0-0) X;O;NYM;Omar Narváez;Chase Silseth;1%;91%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 5, Mets 0.
+Top of the 3rd, Angels Batting, Ahead 5-0, Mets' Sean Reid-Foley facing 5-6-7 
+t3;5-0;0;---;4,(2-1) BBCX;O;LAA;Logan O'Hoppe;Sean Reid-Foley;-1%;90%;Flyball: 2B (Short CF-RF)
+t3;5-0;1;---;5,(1-2) BSFFS;O;LAA;Mickey Moniak;Sean Reid-Foley;0%;90%;Strikeout Swinging
+t3;5-0;2;---;6,(3-2) BBBCSB;;LAA;Hunter Renfroe;Sean Reid-Foley;0%;90%;Walk
+t3;5-0;2;1--;3,(0-2) SSC;O;LAA;Trey Cabbage;Sean Reid-Foley;-1%;89%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 5, Mets 0.
+Bottom of the 3rd, Mets Batting, Behind 0-5, Angels' Chase Silseth facing 8-9-1 
+b3;0-5;0;---;6,(3-2) BCBBCB;;NYM;Rafael Ortega;Chase Silseth;-3%;87%;Walk
+b3;0-5;0;1--;4,(1-2) 1CBFX;OO;NYM;Jonathan Araúz;Chase Silseth;5%;92%;Double Play: Lineout: 1B unassisted; Ortega out at 1B/1B
+b3;0-5;2;---;1,(0-0) X;O;NYM;Brandon Nimmo;Chase Silseth;1%;92%;Flyball: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 5, Mets 0.
+Top of the 4th, Angels Batting, Ahead 5-0, Mets' Phil Bickford facing 9-1-2 
+;;;;;;;;;Phil Bickford replaces Sean Reid-Foley pitching
+t4;5-0;0;---;3,(0-2) .CFS;O;LAA;Randal Grichuk;Phil Bickford;-1%;92%;Strikeout Swinging
+t4;5-0;1;---;2,(0-1) FX;O;LAA;Luis Rengifo;Phil Bickford;0%;91%;Groundout: SS-1B
+t4;5-0;2;---;5,(3-1) BSBBB;;LAA;Shohei Ohtani;Phil Bickford;0%;92%;Walk
+t4;5-0;2;1--;1,(0-0) >B;;LAA;Brandon Drury;Phil Bickford;0%;92%;Ohtani Steals 2B
+t4;5-0;2;-2-;3,(1-1) >B.F>C;;LAA;Brandon Drury;Phil Bickford;0%;92%;Ohtani Steals 3B
+t4;5-0;2;--3;5,(2-2) >B.F>C.BS;O;LAA;Brandon Drury;Phil Bickford;-1%;91%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 5, Mets 0.
+Bottom of the 4th, Mets Batting, Behind 0-5, Angels' Chase Silseth facing 2-3-4 
+b4;0-5;0;---;4,(1-2) SS.BX;;NYM;Francisco Lindor;Chase Silseth;-3%;88%;Single to CF (Line Drive)
+b4;0-5;0;1--;2,(0-1) SX;;NYM;Jeff McNeil;Chase Silseth;-4%;84%;Single to CF (Line Drive); Lindor to 2B
+b4;0-5;0;12-;4,(3-0) B2BBX;O;NYM;Pete Alonso;Chase Silseth;4%;88%;Lineout: SS (Weak SS)
+b4;0-5;1;12-;1,(0-0) C;R;NYM;Daniel Vogelbach;Chase Silseth;-5%;83%;Lindor Steals 3B; McNeil Steals 2B; Lindor Scores/Adv on E3 (throw)/No RBI; McNeil to 3B
+;;;;;;;;;Aaron Loup replaces Chase Silseth pitching
+b4;1-5;1;--3;2,(0-1) C...X;O;NYM;Daniel Vogelbach;Aaron Loup;4%;87%;Flyball: LF (Short LF)
+b4;1-5;2;--3;3,(1-1) BSX;R;NYM;DJ Stewart;Aaron Loup;-7%;81%;Double to LF (Line Drive to LF Line); McNeil Scores
+b4;2-5;2;-2-;6,(3-2) BFBCBC;O;NYM;Omar Narváez;Aaron Loup;3%;84%;Strikeout Looking
+;;;;;;;;;2 runs, 3 hits, 1 error, 1 LOB. Angels 5, Mets 2.
+Top of the 5th, Angels Batting, Ahead 5-2, Mets' Phil Bickford facing 4-5-6 
+t5;5-2;0;---;5,(1-2) BCSFX;O;LAA;Mike Moustakas;Phil Bickford;-1%;83%;Groundout: 3B-1B (SS-3B Hole)
+t5;5-2;1;---;3,(1-1) S.BX;O;LAA;Logan O'Hoppe;Phil Bickford;-1%;82%;Groundout: 3B-1B (Deep 3B)
+t5;5-2;2;---;3,(2-0) BBX;O;LAA;Mickey Moniak;Phil Bickford;-1%;81%;Flyball: LF (Short LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 5, Mets 2.
+Bottom of the 5th, Mets Batting, Behind 2-5, Angels' Aaron Loup facing 8-9-1 
+b5;2-5;0;---;2,(1-0) BX;;NYM;Rafael Ortega;Aaron Loup;-4%;77%;Single to SS (Ground Ball)
+b5;2-5;0;1--;6,(3-2) BBFF*BX;;NYM;Jonathan Araúz;Aaron Loup;-7%;70%;Single to LF (Ground Ball); Ortega to 2B
+b5;2-5;0;12-;7,(2-2) BCBFFFT;O;NYM;Brandon Nimmo;Aaron Loup;7%;76%;Strikeout Swinging
+b5;2-5;1;12-;2,(0-1) F>B;;NYM;Francisco Lindor;Aaron Loup;-3%;74%;Ortega Steals 3B
+b5;2-5;1;1-3;7,(3-2) F>B.*BB.FFC;O;NYM;Francisco Lindor;Aaron Loup;7%;81%;Strikeout Looking
+b5;2-5;2;1-3;1,(0-0) X;O;NYM;Jeff McNeil;Aaron Loup;5%;87%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Angels 5, Mets 2.
+Top of the 6th, Angels Batting, Ahead 5-2, Mets' Drew Smith facing 7-8-9 
+;;;;;;;;;Drew Smith replaces Phil Bickford pitching
+t6;5-2;0;---;5,(2-2) .SBBCX;;LAA;Hunter Renfroe;Drew Smith;3%;90%;Double to CF (Line Drive to Deep CF)
+t6;5-2;0;-2-;6,(2-2) BSBSFS;O;LAA;Trey Cabbage;Drew Smith;-2%;87%;Strikeout Swinging
+t6;5-2;1;-2-;5,(2-2) BCBFX;O;LAA;Randal Grichuk;Drew Smith;-1%;86%;Flyball: RF; Renfroe to 3B
+t6;5-2;2;--3;2,(1-0) BX;O;LAA;Luis Rengifo;Drew Smith;-2%;84%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 5, Mets 2.
+Bottom of the 6th, Mets Batting, Behind 2-5, Angels' Dominic Leone facing 4-5-6 
+;;;;;;;;;Dominic Leone replaces Aaron Loup pitching
+b6;2-5;0;---;5,(2-2) .BBFFS;O;NYM;Pete Alonso;Dominic Leone;3%;87%;Strikeout Swinging
+b6;2-5;1;---;5,(3-2) FVBBCX;R;NYM;Daniel Vogelbach;Dominic Leone;-9%;78%;Home Run (Fly Ball to Deep LF-CF)
+b6;3-5;1;---;5,(1-2) SBS.FS;O;NYM;DJ Stewart;Dominic Leone;2%;80%;Strikeout Swinging
+b6;3-5;2;---;6,(3-2) CBBFBB;;NYM;Omar Narváez;Dominic Leone;-2%;78%;Walk
+b6;3-5;2;1--;7,(3-2) C*BFBF*B>B;;NYM;Rafael Ortega;Dominic Leone;-3%;75%;Walk; Narváez to 2B
+b6;3-5;2;12-;3,(1-1) CBX;O;NYM;Jonathan Araúz;Dominic Leone;7%;82%;Flyball: 2B (Deep 1B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Angels 5, Mets 3.
+Top of the 7th, Angels Batting, Ahead 5-3, Mets' Adam Kolarek facing 2-3-4 
+;;;;;;;;;Adam Kolarek replaces Drew Smith pitching
+t7;5-3;0;---;2,(1-0) .BX;O;LAA;Shohei Ohtani;Adam Kolarek;-2%;80%;Flyball: CF
+t7;5-3;1;---;3,(0-2) SCC;O;LAA;Brandon Drury;Adam Kolarek;-1%;79%;Strikeout Looking
+t7;5-3;2;---;2,(0-1) CX;O;LAA;Mike Moustakas;Adam Kolarek;-1%;78%;Groundout: SS-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 5, Mets 3.
+Bottom of the 7th, Mets Batting, Behind 3-5, Angels' José Soriano facing 1-2-3 
+;;;;;;;;;José Soriano replaces Dominic Leone pitchingBrandon Drury moves from 2B to 1B Luis Rengifo moves from SS to 2B Andrew Velazquez replaces Trey Cabbage (1B) playing SS batting 8th
+b7;3-5;0;---;3,(0-2) ....CFS;O;NYM;Brandon Nimmo;José Soriano;4%;82%;Strikeout Swinging; Nimmo out at 1B/C-1B
+b7;3-5;1;---;3,(1-1) BSX;O;NYM;Francisco Lindor;José Soriano;3%;85%;Popfly: 2B (Deep 2B-1B)
+b7;3-5;2;---;2,(1-0) BX;O;NYM;Jeff McNeil;José Soriano;2%;86%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 5, Mets 3.
+Top of the 8th, Angels Batting, Ahead 5-3, Mets' Adam Ottavino facing 5-6-7 
+;;;;;;;;;Adam Ottavino replaces Adam Kolarek pitching
+t8;5-3;0;---;4,(1-2) .CFBX;O;LAA;Logan O'Hoppe;Adam Ottavino;-1%;85%;Groundout: 3B-1B (SS-3B Hole)
+t8;5-3;1;---;3,(2-0) BBX;O;LAA;Mickey Moniak;Adam Ottavino;-1%;84%;Groundout: 2B-1B (2B-1B)
+t8;5-3;2;---;3,(0-2) SFX;O;LAA;Hunter Renfroe;Adam Ottavino;-1%;84%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 5, Mets 3.
+Bottom of the 8th, Mets Batting, Behind 3-5, Angels' José Soriano facing 4-5-6 
+b8;3-5;0;---;1,(0-0) H;;NYM;Pete Alonso;José Soriano;-8%;76%;Hit By Pitch
+;;;;;;;;;Danny Mendick pinch runs for Pete Alonso (1B) batting 4th
+b8;3-5;0;1--;5,(3-1) ..BBSBX;O;NYM;Daniel Vogelbach;José Soriano;7%;83%;Flyball: LF (Short LF-CF)
+b8;3-5;1;1--;2,(0-1) CX;;NYM;DJ Stewart;José Soriano;-8%;75%;Single to RF (Line Drive); Mendick to 2B
+b8;3-5;1;12-;4,(1-2) CFBS;O;NYM;Omar Narváez;José Soriano;9%;84%;Strikeout Swinging
+b8;3-5;2;12-;4,(1-2) CC.*BX;O;NYM;Rafael Ortega;José Soriano;8%;93%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Angels 5, Mets 3.
+Top of the 9th, Angels Batting, Ahead 5-3, Mets' Brooks Raley facing 8-9-1 
+;;;;;;;;;Brooks Raley replaces Adam Ottavino pitchingJeff McNeil moves from 2B to 1B Danny Mendick moves from PR to 2B 
+t9;5-3;0;---;3,(1-1) ...CBX;O;LAA;Andrew Velazquez;Brooks Raley;-1%;92%;Flyball: RF (Deep RF Line)
+t9;5-3;1;---;6,(3-2) BBFFBX;O;LAA;Randal Grichuk;Brooks Raley;-1%;91%;Groundout: SS-1B
+t9;5-3;2;---;1,(0-0) X;;LAA;Luis Rengifo;Brooks Raley;1%;92%;Double to LF (Ground Ball thru SS-3B Hole)
+t9;5-3;2;-2-;,(3-0) VVVV;;LAA;Shohei Ohtani;Brooks Raley;0%;92%;Intentional Walk
+t9;5-3;2;12-;1,(0-0) X;O;LAA;Brandon Drury;Brooks Raley;-1%;91%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Angels 5, Mets 3.
+Bottom of the 9th, Mets Batting, Behind 3-5, Angels' Carlos Estévez facing 9-1-2 
+;;;;;;;;;Carlos Estévez replaces José Soriano pitchingAbraham Almonte pinch hits for Jonathan Araúz (3B) batting 9th
+b9;3-5;0;---;3,(0-2) ..S.FX;O;NYM;Abraham Almonte;Carlos Estévez;5%;95%;Groundout: 1B unassisted
+b9;3-5;1;---;3,(1-1) CBX;O;NYM;Brandon Nimmo;Carlos Estévez;3%;99%;Groundout: 2B-1B (Deep 2B)
+b9;3-5;2;---;4,(0-2) CFFX;O;NYM;Francisco Lindor;Carlos Estévez;2%;100%;Popfly: 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 5, Mets 3.

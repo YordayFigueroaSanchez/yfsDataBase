@@ -1,0 +1,250 @@
+
+Scorebox Meta
+20230827
+12:05 p.m. Local
+38341
+Citi Field
+150
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;0;0;0;0;0;1;1;0;2;4;0
+https://cdn.ssref.net/req/202309121/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;1;0;0;0;1;1;3;9;1
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;3;0;0;0;1;2;4;.258;.355;.429;.784;16;10;-0.052; 1.06;0.035;-0.087;-0.00%; 0.04; -0.1;3;0;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;1;1;0;0;0;4;.255;.337;.470;.807;11;8;0.019; 1.52;0.100;-0.081; 0.00%; 0.06; -0.5;1;3;
+Jeff McNeil;/players/m/mcneije01.shtml;2B;4;1;1;0;0;0;4;.266;.335;.353;.688;5;5;-0.093; 1.48;0.030;-0.123;-0.00%; 0.05; -0.5;1;2;
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;0;2;1;0;2;4;.223;.326;.523;.850;17;11;0.272; 1.53;0.329;-0.057; 0.01%; 0.05; 0.6;7;0;2B
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;3;0;2;0;0;0;3;.229;.333;.402;.735;12;7;0.026; 0.91;0.049;-0.023; 0.00%; 0.03; 0.2;;;
+Danny Mendick;/players/m/mendida01.shtml;PH-DH-DH;1;0;0;0;0;1;1;.186;.226;.288;.514;4;3;-0.080; 2.84;0.000;-0.080;-0.00%; 0.10; -0.3;;;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;3;0;1;1;0;1;4;.215;.287;.440;.727;13;10;0.138; 1.67;0.202;-0.064; 0.00%; 0.06; 0.7;11;0;HBP
+Tim Locastro;/players/l/locasti01.shtml;PR;0;1;0;0;0;0;0;.143;.333;.286;.619;;;0.000;;0.000;0.000;0%;; 0.0;;;
+DJ Stewart;/players/s/stewadj01.shtml;RF;4;0;1;0;0;1;4;.263;.341;.550;.891;11;7;0.013; 1.68;0.104;-0.091;0%; 0.06; -0.2;0;0;
+Mark Vientos;/players/v/vientma01.shtml;3B;3;0;0;0;1;2;4;.190;.231;.281;.512;14;7;0.045; 1.56;0.121;-0.075; 0.00%; 0.05; 0.2;0;1;
+Rafael Ortega;/players/o/ortegra01.shtml;LF;4;0;1;1;0;2;4;.230;.329;.297;.627;18;11;0.009; 1.17;0.063;-0.054;0%; 0.04; 0.6;4;0;
+David Peterson;/players/p/peterda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Drew Smith;/players/s/smithdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Ottavino;/players/o/ottavad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Pete Alonso (14, off Matt Moore).
+
+
+HBP: Francisco Alvarez (5, by Reynaldo López).
+
+
+TB: Pete Alonso 3; Daniel Vogelbach 2; DJ Stewart; Jeff McNeil; Francisco Alvarez; Rafael Ortega; Francisco Lindor.
+
+
+RBI: Pete Alonso (96); Rafael Ortega (6); Francisco Alvarez (47).
+
+
+2-out RBI: Francisco Alvarez; Pete Alonso.
+
+
+Team LOB: 9.
+With RISP: 3 for 6.
+
+Batting away
+Luis Rengifo;/players/r/rengilu01.shtml;2B;3;1;2;1;1;0;4;.247;.333;.410;.743;16;8;0.270; 1.11;0.307;-0.037; 0.00%; 0.03; 1.4;0;3;HR
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;4;0;0;0;0;2;4;.305;.409;.666;1.075;18;14;-0.119; 1.17;0.000;-0.119;-0.00%; 0.03; -1.1;;;
+Brandon Drury;/players/d/drurybr01.shtml;1B;4;0;0;0;0;2;4;.264;.301;.482;.783;13;8;-0.090; 0.90;0.000;-0.090;-0.00%; 0.03; -0.8;3;0;
+Eduardo Escobar;/players/e/escobed01.shtml;3B;4;0;0;0;0;2;4;.226;.273;.353;.626;13;11;-0.098; 0.94;0.000;-0.098;-0.00%; 0.02; -0.7;0;0;
+Randal Grichuk;/players/g/grichra01.shtml;LF;3;1;1;0;1;1;4;.264;.318;.439;.757;18;9;-0.019; 1.25;0.064;-0.083;0%; 0.03; -0.1;1;0;
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;3;0;0;0;1;0;4;.239;.301;.426;.727;22;11;-0.021; 1.44;0.069;-0.090;0%; 0.04; -0.2;2;0;
+Mickey Moniak;/players/m/moniami01.shtml;CF;4;0;1;0;0;1;4;.277;.307;.493;.800;9;8;0.035; 1.70;0.112;-0.077; 0.00%; 0.04; 0.2;3;0;
+Chad Wallach;/players/w/wallach01.shtml;C;3;0;0;1;0;2;3;.204;.273;.394;.667;16;9;-0.027; 2.24;0.021;-0.048;0%; 0.05; -0.4;12;0;
+Andrew Velazquez;/players/v/velazan01.shtml;SS;3;0;0;0;0;1;3;.179;.273;.295;.568;9;7;-0.134; 1.58;0.000;-0.134;-0.00%; 0.04; -0.9;3;0;
+Griffin Canning;/players/c/cannigr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matt Moore;/players/m/moorema02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Reynaldo López;/players/l/lopezre01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Luis Rengifo (12, off Drew Smith, 8th inn, 0 on, 0 outs to Deep CF-RF).
+
+
+TB: Luis Rengifo 5; Randal Grichuk; Mickey Moniak.
+
+
+RBI: Chad Wallach (14); Luis Rengifo (42).
+
+
+Team LOB: 5.
+With RISP: 1 for 4.
+
+Pitching home
+David Peterson;/players/p/peterda01.shtml;David Peterson; 7 ;3;1;1;3;8;0;5.23;27;104;65;34;12;19;9;7;3;0;72;;;0.259; 1.33; 0.01%; 0.05; 2.5
+Drew Smith;/players/s/smithdr01.shtml;Drew Smith; 1 ;1;1;1;0;2;1;3.94;4;15;11;6;5;0;0;2;0;0;;0;0;-0.194; 0.98;-0.00%; 0.03; -0.5
+Adam Ottavino;/players/o/ottavad01.shtml; W (1-4); 1 ;0;0;0;0;1;0;3.12;3;15;9;5;1;3;0;2;0;0;;0;0;0.138; 1.82; 0.00%; 0.06; 0.5
+
+Pitching away
+Griffin Canning;/players/c/cannigr01.shtml;Griffin Canning; 7 ;5;1;1;1;9;0;4.38;27;94;63;28;17;18;4;13;5;0;71;;;0.259; 0.97; 0.00%; 0.03; 2.5
+Matt Moore;/players/m/moorema02.shtml; BS (1); 1 ;2;1;1;0;2;0;2.30;5;14;10;4;4;2;0;3;2;0;;0;0;-0.194; 2.74;-0.00%; 0.07; -0.5
+Reynaldo López;/players/l/lopezre01.shtml; L (2-7); 0 ;2;1;1;1;0;0;3.86;4;13;6;6;0;0;0;2;2;0;;0;0;-0.362; 2.81;-0.01%; 0.07; -2.8
+
+indiv_events
+
+Balks: None.
+WP: Matt Moore (1).
+HBP: Reynaldo López (1; Francisco Alvarez).
+IBB: None.
+Pickoffs: David Peterson (4; Luis Rengifo, 1st base).
+
+Balks: None.
+WP: Matt Moore (1).
+HBP: Reynaldo López (1; Francisco Alvarez).
+IBB: None.
+Pickoffs: David Peterson (4; Luis Rengifo, 1st base).
+
+section_content
+Umpires: HP - Nic Lentz, 1B - Paul Clemons, 2B - Jeremie Rehak, 3B - Chad Fairchild, LF - (none), RF - (none).
+Time of Game: 2:30.
+Attendance: 38,341.
+Field Condition: Unknown.
+Start Time Weather: 79° F, Wind 7mph in from Leftfield, Sunny, No Precipitation.
+
+div_lineups
+Angels
+1;Luis Rengifo;/players/r/rengilu01.shtml;2B
+2;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+3;Brandon Drury;/players/d/drurybr01.shtml;1B
+4;Eduardo Escobar;/players/e/escobed01.shtml;3B
+5;Randal Grichuk;/players/g/grichra01.shtml;LF
+6;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+7;Mickey Moniak;/players/m/moniami01.shtml;CF
+8;Chad Wallach;/players/w/wallach01.shtml;C
+9;Andrew Velazquez;/players/v/velazan01.shtml;SS
+; Griffin Canning;/players/c/cannigr01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Jeff McNeil;/players/m/mcneije01.shtml;2B
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+6;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+7;DJ Stewart;/players/s/stewadj01.shtml;RF
+8;Mark Vientos;/players/v/vientma01.shtml;3B
+9;Rafael Ortega;/players/o/ortegra01.shtml;LF
+; David Peterson;/players/p/peterda01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b8;1-2;2;-2-;4,(2-1) BB.TX;R;NYM;Pete Alonso;Matt Moore;32%;58%;Double to LF (Line Drive to Deep LF-CF); Lindor Scores
+t8;1-1;0;---;3,(1-1) .FBX;R;LAA;Luis Rengifo;Drew Smith;-25%;25%;Home Run (Fly Ball to Deep CF-RF)
+b4;0-0;2;12-;2,(0-1) FX;R;NYM;Francisco Alvarez;Griffin Canning;13%;68%;Single to 2B (Ground Ball to SS-2B); McNeil Scores; Vogelbach to 2B
+b9;2-2;0;12-;4,(3-0) *BBBB;;NYM;Mark Vientos;Reynaldo López;12%;94%;Walk; Locastro to 3B; Stewart to 2B
+t7;0-1;1;12-;1,(0-0) X;;LAA;Mickey Moniak;David Peterson;-11%;51%;Single to 3B (Bunt to Short 3B Line); Grichuk to 3B; Renfroe to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, Mets' David Peterson facing 1-2-3 
+t1;0-0;0;---;6,(3-2) CBBFBB;;LAA;Luis Rengifo;David Peterson;-4%;46%;Walk
+t1;0-0;0;1--;4,(0-2) C1CFX;O;LAA;Shohei Ohtani;David Peterson;3%;50%;Lineout: LF
+t1;0-0;1;1--;4,(1-2) BCST;O;LAA;Brandon Drury;David Peterson;3%;53%;Strikeout Swinging
+t1;0-0;2;1--;3,(0-2) CFS;O;LAA;Eduardo Escobar;David Peterson;2%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Angels' Griffin Canning facing 1-2-3 
+b1;0-0;0;---;6,(3-2) BBCBSB;;NYM;Brandon Nimmo;Griffin Canning;4%;58%;Walk
+b1;0-0;0;1--;3,(1-1) BS.X;O;NYM;Francisco Lindor;Griffin Canning;-3%;55%;Popfly: SS (Weak SS)
+b1;0-0;1;1--;1,(0-0) X;O;NYM;Jeff McNeil;Griffin Canning;-3%;52%;Foul Popfly: C (Behind Home)
+b1;0-0;2;1--;6,(3-2) S1BBBC.1>C;O;NYM;Pete Alonso;Griffin Canning;-2%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 0, Mets 0.
+Top of the 2nd, Angels Batting, Tied 0-0, Mets' David Peterson facing 5-6-7 
+t2;0-0;0;---;2,(1-0) BX;O;LAA;Randal Grichuk;David Peterson;2%;52%;Groundout: 3B-1B (SS-3B Hole)
+t2;0-0;1;---;5,(3-1) BCBBX;O;LAA;Hunter Renfroe;David Peterson;2%;54%;Groundout: SS-1B (Deep SS-3B Hole)
+t2;0-0;2;---;3,(0-2) SSC;O;LAA;Mickey Moniak;David Peterson;1%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Angels' Griffin Canning facing 5-6-7 
+b2;0-0;0;---;4,(2-1) CBBX;O;NYM;Daniel Vogelbach;Griffin Canning;-2%;53%;Groundout: 2B-1B (2B-1B)
+b2;0-0;1;---;2,(0-1) SX;O;NYM;Francisco Alvarez;Griffin Canning;-2%;51%;Groundout: 2B-1B (SS-2B)
+b2;0-0;2;---;5,(2-2) SF.BBS;O;NYM;DJ Stewart;Griffin Canning;-1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Mets 0.
+Top of the 3rd, Angels Batting, Tied 0-0, Mets' David Peterson facing 8-9-1 
+t3;0-0;0;---;7,(3-2) BCS.BBFS;O;LAA;Chad Wallach;David Peterson;3%;53%;Strikeout Swinging
+t3;0-0;1;---;5,(2-2) BLBFX;O;LAA;Andrew Velazquez;David Peterson;2%;54%;Flyball: CF (Deep CF)
+t3;0-0;2;---;2,(1-0) BX;;LAA;Luis Rengifo;David Peterson;-1%;53%;Single to 1B (Ground Ball to 2B-1B)
+t3;0-0;2;1--;2,(1-1) C1B1;;LAA;Shohei Ohtani;David Peterson;-1%;52%;Rengifo Picked off 1B, safe on E1 (throw); Rengifo to 2B
+t3;0-0;2;-2-;4,(1-2) C1B1.FS;O;LAA;Shohei Ohtani;David Peterson;4%;56%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 1 error, 1 LOB. Angels 0, Mets 0.
+Bottom of the 3rd, Mets Batting, Tied 0-0, Angels' Griffin Canning facing 8-9-1 
+b3;0-0;0;---;5,(2-2) CBBF.S;O;NYM;Mark Vientos;Griffin Canning;-3%;53%;Strikeout Swinging
+b3;0-0;1;---;5,(2-2) SBS.BS;O;NYM;Rafael Ortega;Griffin Canning;-2%;51%;Strikeout Swinging
+b3;0-0;2;---;4,(1-2) CSBS;O;NYM;Brandon Nimmo;Griffin Canning;-1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Mets 0.
+Top of the 4th, Angels Batting, Tied 0-0, Mets' David Peterson facing 3-4-5 
+t4;0-0;0;---;3,(2-0) BBX;O;LAA;Brandon Drury;David Peterson;3%;53%;Flyball: LF (Deep LF-CF)
+t4;0-0;1;---;3,(0-2) CFX;O;LAA;Eduardo Escobar;David Peterson;2%;55%;Groundout: SS-1B
+t4;0-0;2;---;6,(3-2) SBBFBB;;LAA;Randal Grichuk;David Peterson;-2%;53%;Walk
+t4;0-0;2;1--;4,(1-2) BCC.X;O;LAA;Hunter Renfroe;David Peterson;3%;56%;Groundout: SS-2B/Forceout at 2B; Renfroe to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 0, Mets 0.
+Bottom of the 4th, Mets Batting, Tied 0-0, Angels' Griffin Canning facing 2-3-4 
+b4;0-0;0;---;3,(0-2) SF.X;O;NYM;Francisco Lindor;Griffin Canning;-3%;53%;Flyball: RF (Short RF)
+b4;0-0;1;---;1,(0-0) X;;NYM;Jeff McNeil;Griffin Canning;3%;56%;Single to LF (Line Drive)
+b4;0-0;1;1--;5,(1-2) C+1SFBC;O;NYM;Pete Alonso;Griffin Canning;-3%;53%;Strikeout Looking
+b4;0-0;2;1--;3,(1-1) 1BFX;;NYM;Daniel Vogelbach;Griffin Canning;2%;55%;Single to RF (Line Drive to Short RF); McNeil to 2B
+b4;0-0;2;12-;2,(0-1) FX;R;NYM;Francisco Alvarez;Griffin Canning;13%;68%;Single to 2B (Ground Ball to SS-2B); McNeil Scores; Vogelbach to 2B
+b4;1-0;2;12-;3,(1-1) BSX;O;NYM;DJ Stewart;Griffin Canning;-4%;64%;Popfly: SS (Short CF)
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Angels 0, Mets 1.
+Top of the 5th, Angels Batting, Behind 0-1, Mets' David Peterson facing 7-8-9 
+t5;0-1;0;---;3,(1-1) BCX;O;LAA;Mickey Moniak;David Peterson;3%;67%;Groundout: 2B-1B
+t5;0-1;1;---;7,(3-2) SBBBCFC;O;LAA;Chad Wallach;David Peterson;2%;69%;Strikeout Looking
+t5;0-1;2;---;3,(0-2) CC.M;O;LAA;Andrew Velazquez;David Peterson;1%;71%;Strikeout (missed bunt)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Mets 1.
+Bottom of the 5th, Mets Batting, Ahead 1-0, Angels' Griffin Canning facing 8-9-1 
+b5;1-0;0;---;2,(1-0) BX;O;NYM;Mark Vientos;Griffin Canning;-2%;69%;Groundout: 2B-1B
+b5;1-0;1;---;5,(2-2) BBFCC;O;NYM;Rafael Ortega;Griffin Canning;-2%;67%;Strikeout Looking
+b5;1-0;2;---;3,(1-1) BCX;O;NYM;Brandon Nimmo;Griffin Canning;-1%;66%;Lineout: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Mets 1.
+Top of the 6th, Angels Batting, Behind 0-1, Mets' David Peterson facing 1-2-3 
+t6;0-1;0;---;5,(3-2) FBVBF.X;O;LAA;Luis Rengifo;David Peterson;4%;70%;Popfly: SS (Deep SS)
+t6;0-1;1;---;4,(1-2) CBFX;O;LAA;Shohei Ohtani;David Peterson;3%;72%;Groundout: 2B-1B (2B-1B)
+t6;0-1;2;---;3,(2-0) BBX;O;LAA;Brandon Drury;David Peterson;2%;74%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Mets 1.
+Bottom of the 6th, Mets Batting, Ahead 1-0, Angels' Griffin Canning facing 2-3-4 
+b6;1-0;0;---;3,(1-1) FBX;O;NYM;Francisco Lindor;Griffin Canning;-2%;72%;Popfly: SS (Deep SS)
+b6;1-0;1;---;2,(0-1) CX;O;NYM;Jeff McNeil;Griffin Canning;-2%;71%;Flyball: LF (Short LF)
+b6;1-0;2;---;2,(0-1) CX;;NYM;Pete Alonso;Griffin Canning;1%;72%;Single to LF (Line Drive to Short LF-CF)
+b6;1-0;2;1--;5,(2-2) BBCCX;;NYM;Daniel Vogelbach;Griffin Canning;3%;74%;Single to LF (Fly Ball to Short LF Line); Alonso to 3B
+b6;1-0;2;1-3;6,(2-2) SFBF*BS;O;NYM;Francisco Alvarez;Griffin Canning;-5%;69%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Angels 0, Mets 1.
+Top of the 7th, Angels Batting, Behind 0-1, Mets' David Peterson facing 4-5-6 
+t7;0-1;0;---;4,(1-2) CBF.S;O;LAA;Eduardo Escobar;David Peterson;4%;74%;Strikeout Swinging
+t7;0-1;1;---;3,(1-1) FBX;;LAA;Randal Grichuk;David Peterson;-5%;69%;Single to CF (Line Drive to Deep CF)
+t7;0-1;1;1--;7,(3-2) *BFBSFBB;;LAA;Hunter Renfroe;David Peterson;-7%;62%;Walk; Grichuk to 2B
+t7;0-1;1;12-;1,(0-0) X;;LAA;Mickey Moniak;David Peterson;-11%;51%;Single to 3B (Bunt to Short 3B Line); Grichuk to 3B; Renfroe to 2B
+t7;0-1;1;123;2,(1-0) *BX;RO;LAA;Chad Wallach;David Peterson;-2%;49%;Groundout: 1B unassisted (Weak 1B); Grichuk Scores; Renfroe to 3B; Moniak to 2B
+t7;1-1;2;-23;1,(0-0) X;O;LAA;Andrew Velazquez;David Peterson;10%;59%;Lineout: 1B (2B-1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Angels 1, Mets 1.
+Bottom of the 7th, Mets Batting, Tied 1-1, Angels' Griffin Canning facing 7-8-9 
+b7;1-1;0;---;2,(1-0) BX;O;NYM;DJ Stewart;Griffin Canning;-4%;55%;Flyball: RF (Deep CF-RF)
+b7;1-1;1;---;3,(0-2) CFC;O;NYM;Mark Vientos;Griffin Canning;-3%;52%;Strikeout Looking
+b7;1-1;2;---;3,(1-1) CBX;O;NYM;Rafael Ortega;Griffin Canning;-2%;50%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, Mets 1.
+Top of the 8th, Angels Batting, Tied 1-1, Mets' Drew Smith facing 1-2-3 
+;;;;;;;;;Drew Smith replaces David Peterson pitching
+t8;1-1;0;---;3,(1-1) .FBX;R;LAA;Luis Rengifo;Drew Smith;-25%;25%;Home Run (Fly Ball to Deep CF-RF)
+t8;2-1;0;---;6,(2-2) BBSSFT;O;LAA;Shohei Ohtani;Drew Smith;2%;28%;Strikeout Swinging
+t8;2-1;1;---;3,(0-2) SSS;O;LAA;Brandon Drury;Drew Smith;2%;29%;Strikeout Swinging
+t8;2-1;2;---;3,(1-1) BFX;O;LAA;Eduardo Escobar;Drew Smith;1%;31%;Flyball: LF (Deep SS-3B Hole)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Angels 2, Mets 1.
+Bottom of the 8th, Mets Batting, Behind 1-2, Angels' Matt Moore facing 1-2-3 
+;;;;;;;;;Matt Moore replaces Griffin Canning pitching
+b8;1-2;0;---;3,(0-2) .CSC;O;NYM;Brandon Nimmo;Matt Moore;-6%;24%;Strikeout Looking
+b8;1-2;1;---;2,(1-0) BX;;NYM;Francisco Lindor;Matt Moore;7%;31%;Single to CF (Line Drive to Short CF)
+b8;1-2;1;1--;1,(0-0) X;O;NYM;Jeff McNeil;Matt Moore;-8%;23%;Flyball: CF (Deep LF-CF)
+b8;1-2;2;1--;2,(1-0) BB;;NYM;Pete Alonso;Matt Moore;3%;26%;Wild Pitch; Lindor to 2B
+b8;1-2;2;-2-;4,(2-1) BB.TX;R;NYM;Pete Alonso;Matt Moore;32%;58%;Double to LF (Line Drive to Deep LF-CF); Lindor Scores
+;;;;;;;;;Danny Mendick pinch hits for Daniel Vogelbach (DH) batting 5th
+b8;2-2;2;-2-;4,(1-2) .BSSS;O;NYM;Danny Mendick;Matt Moore;-8%;50%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Angels 2, Mets 2.
+Top of the 9th, Angels Batting, Tied 2-2, Mets' Adam Ottavino facing 5-6-7 
+;;;;;;;;;Adam Ottavino replaces Drew Smith pitching
+t9;2-2;0;---;7,(3-2) ..BCCBBFS;O;LAA;Randal Grichuk;Adam Ottavino;6%;56%;Strikeout Swinging
+t9;2-2;1;---;6,(3-2) BCBBFX;O;LAA;Hunter Renfroe;Adam Ottavino;5%;60%;Flyball: LF (Deep LF-CF)
+t9;2-2;2;---;2,(0-1) FX;O;LAA;Mickey Moniak;Adam Ottavino;3%;64%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 2, Mets 2.
+Bottom of the 9th, Mets Batting, Tied 2-2, Angels' Reynaldo López facing 6-7-8 
+;;;;;;;;;Reynaldo López replaces Matt Moore pitching
+b9;2-2;0;---;3,(0-2) .FFH;;NYM;Francisco Alvarez;Reynaldo López;7%;71%;Hit By Pitch
+;;;;;;;;;Hit by Pitch Challenged by LAA manager (Phil Nevin): Original call upheld upon review.
+;;;;;;;;;Tim Locastro pinch runs for Francisco Alvarez (C) batting 6th
+b9;2-2;0;1--;1,(0-0) .X;;NYM;DJ Stewart;Reynaldo López;10%;82%;Single to RF (Line Drive); Locastro to 2B
+b9;2-2;0;12-;4,(3-0) *BBBB;;NYM;Mark Vientos;Reynaldo López;12%;94%;Walk; Locastro to 3B; Stewart to 2B
+b9;2-2;0;123;5,(2-2) BBFF.X;R;NYM;Rafael Ortega;Reynaldo López;6%;100%;Single to RF (Line Drive to Short RF Line); Locastro Scores; Stewart to 3B; Vientos to 2B
+;;;;;;;;;1 run, 2 hits, 0 errors, 3 LOB. Angels 2, Mets 3.

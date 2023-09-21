@@ -1,0 +1,259 @@
+
+Scorebox Meta
+20230908
+7:10 p.m. Local
+26154
+Target Field
+154
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;2;0;0;0;0;0;2;4;1
+https://cdn.ssref.net/req/202309121/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;1;0;0;1;0;0;3;0;X;5;8;0
+
+Batting home
+Edouard Julien;/players/j/julieed01.shtml;DH;3;0;0;0;1;1;4;.272;.374;.449;.824;22;10;-0.034; 0.93;0.046;-0.080;-0.01%; 0.30; -0.5;;;
+Jorge Polanco;/players/p/polanjo01.shtml;2B;3;1;1;0;1;1;4;.261;.344;.466;.810;17;10;0.041; 1.09;0.092;-0.051; 0.01%; 0.35; 0.3;1;5;
+Royce Lewis;/players/l/lewisro02.shtml;3B;4;1;2;2;0;0;4;.320;.370;.545;.915;12;7;0.071; 1.27;0.215;-0.143; 0.01%; 0.41; 0.8;0;1;2·2B,GDP
+Max Kepler;/players/k/keplema01.shtml;RF;4;0;1;1;0;1;4;.248;.317;.469;.786;16;10;-0.038; 0.99;0.055;-0.093;-0.01%; 0.32; 0.1;4;0;
+Carlos Correa;/players/c/correca01.shtml;SS;3;1;2;1;1;1;4;.232;.313;.406;.718;20;11;0.114; 0.93;0.148;-0.034; 0.02%; 0.30; 1.3;1;2;HR,2B
+Alex Kirilloff;/players/k/kirilal01.shtml;1B;4;0;1;0;0;1;4;.270;.355;.439;.794;17;11;-0.035; 0.99;0.042;-0.077;-0.01%; 0.32; -0.8;8;0;
+Christian Vázquez;/players/v/vazquch01.shtml;C;4;0;0;0;0;1;4;.219;.277;.322;.598;14;8;-0.081; 0.82;0.000;-0.081;-0.02%; 0.27; -1.0;11;0;
+Matt Wallner;/players/w/wallnma01.shtml;LF;2;0;0;0;1;1;3;.226;.353;.484;.837;14;6;0.007; 1.17;0.056;-0.049; 0.00%; 0.38; -0.1;0;0;
+Andrew Stevenson;/players/s/stevean01.shtml;PR-CF;1;1;0;0;0;0;1;.235;.278;.235;.513;2;1;0.114; 1.34;0.116;-0.002; 0.02%; 0.43; 0.5;0;0;SB
+Willi Castro;/players/c/castrwi01.shtml;CF-LF;3;1;1;0;1;1;4;.247;.329;.375;.704;19;14;0.062; 0.94;0.092;-0.030; 0.01%; 0.30; 0.4;2;0;SB
+Dallas Keuchel;/players/k/keuchda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Emilio Pagán;/players/p/paganem01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Caleb Thielbar;/players/t/thielca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Griffin Jax;/players/j/jaxgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jhoan Duran;/players/d/duranjh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Royce Lewis 2 (7, 1 off Kodai Senga, 1 off Sean Reid-Foley); Carlos Correa (27, off Grant Hartwig).
+
+
+HR: Carlos Correa (18, off Kodai Senga, 4th inn, 0 on, 0 outs to Deep LF).
+
+
+TB: Carlos Correa 6; Royce Lewis 4; Max Kepler; Alex Kirilloff; Jorge Polanco; Willi Castro.
+
+
+GIDP: Royce Lewis (4).
+
+
+RBI: Royce Lewis 2 (41); Max Kepler (53); Carlos Correa (63).
+
+
+2-out RBI: Max Kepler; Royce Lewis.
+
+
+Team LOB: 7.
+With RISP: 2 for 9.
+
+Batting away
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;4;0;0;0;0;0;4;.263;.356;.451;.807;8;7;-0.078; 0.73;0.000;-0.078;-0.00%; 0.01; -0.8;3;0;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;3;1;0;0;1;0;4;.214;.290;.436;.726;21;14;-0.011; 0.84;0.046;-0.057;0%; 0.01; -0.1;8;0;
+Pete Alonso;/players/a/alonspe01.shtml;1B;3;1;1;0;1;0;4;.225;.330;.529;.860;18;9;0.134; 1.01;0.170;-0.035; 0.00%; 0.02; 1.2;8;0;2B
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;0;1;2;0;2;4;.251;.331;.467;.798;17;12;0.051; 1.27;0.129;-0.078; 0.00%; 0.02; 0.4;1;2;2B
+Mark Vientos;/players/v/vientma01.shtml;DH;4;0;0;0;0;3;4;.208;.256;.340;.597;17;12;-0.125; 1.10;0.000;-0.125;-0.00%; 0.02; -1.2;;;
+Jeff McNeil;/players/m/mcneije01.shtml;RF;3;0;1;0;1;1;4;.266;.332;.361;.693;12;8;0.037; 0.81;0.060;-0.024;0%; 0.01; 0.2;0;0;
+Ronny Mauricio;/players/m/mauriro01.shtml;2B;3;0;0;0;0;1;3;.364;.364;.409;.773;8;6;-0.165; 1.67;0.000;-0.165;-0.00%; 0.03; -1.5;1;5;GDP
+Brett Baty;/players/b/batybr01.shtml;3B;3;0;0;0;0;2;3;.215;.284;.323;.608;11;7;-0.091; 1.13;0.000;-0.091;-0.00%; 0.02; -0.7;1;0;
+Tim Locastro;/players/l/locasti01.shtml;LF;2;0;1;0;0;1;2;.167;.306;.267;.572;8;6;-0.007; 0.67;0.015;-0.022;0%; 0.01; -0.0;2;0;
+Rafael Ortega;/players/o/ortegra01.shtml;PH-LF;1;0;0;0;0;1;1;.229;.333;.289;.622;3;3;-0.024; 0.91;0.000;-0.024;0%; 0.02; -0.2;0;0;
+Kodai Senga;/players/s/sengako01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Sean Reid-Foley;/players/r/reidfse01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Grant Hartwig;/players/h/hartwgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Sam Coonrod;/players/c/coonrsa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Pete Alonso (16, off Dallas Keuchel); Francisco Lindor (31, off Dallas Keuchel).
+
+
+TB: Francisco Lindor 2; Pete Alonso 2; Tim Locastro; Jeff McNeil.
+
+
+GIDP: Ronny Mauricio (1).
+
+
+RBI: Francisco Lindor 2 (85).
+
+
+Team LOB: 4.
+With RISP: 1 for 3.
+
+Pitching home
+Dallas Keuchel;/players/k/keuchda01.shtml;Dallas Keuchel; 5 ;3;2;2;2;6;0;4.78;19;75;49;25;8;16;6;5;5;0;57;;;0.034; 1.00; 0.01%; 0.32; 0.6
+Emilio Pagán;/players/p/paganem01.shtml;Emilio Pagán; 1 ;0;0;0;0;0;0;3.38;3;11;8;3;2;3;1;2;0;0;;0;0;0.076; 1.00; 0.01%; 0.32; 0.5
+Caleb Thielbar;/players/t/thielca01.shtml; W (3-1); 1 ;1;0;0;0;2;0;2.22;4;15;11;6;1;4;0;2;2;0;;0;0;0.089; 1.56; 0.02%; 0.50; 0.5
+Griffin Jax;/players/j/jaxgr01.shtml; H (23); 1 ;0;0;0;0;1;0;3.88;3;8;8;5;0;3;1;1;0;0;;0;0;0.045; 0.58; 0.01%; 0.19; 0.5
+Jhoan Duran;/players/d/duranjh01.shtml; S (25); 1 ;0;0;0;1;2;0;2.56;4;14;8;2;3;3;1;0;0;0;;0;0;0.035; 0.93; 0.01%; 0.30; 0.5
+
+Pitching away
+Kodai Senga;/players/s/sengako01.shtml;Kodai Senga; 6 ;4;2;2;4;5;1;3.07;25;101;57;44;6;7;7;9;2;0;57;;;0.110; 1.08; 0.00%; 0.02; 1.1
+Sean Reid-Foley;/players/r/reidfse01.shtml; L (0-1); 0.2;2;3;3;1;2;0;4.05;5;28;16;7;4;5;1;1;1;0;;0;0;-0.290; 1.59;-0.00%; 0.03; -1.8
+Grant Hartwig;/players/h/hartwgr01.shtml;Grant Hartwig; 0.1;2;0;0;0;0;0;5.19;3;13;8;5;0;3;1;2;1;0;;1;1;-0.048; 0.44;-0.00%; 0.01; -0.7
+Sam Coonrod;/players/c/coonrsa01.shtml;Sam Coonrod; 1 ;0;0;0;0;1;0;7.11;3;11;7;4;2;1;1;1;0;0;;0;0;0.007; 0.09; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Cory Blaser, 1B - Ron Kulpa, 2B - Jansen Visconti, 3B - Carlos Torres, LF - (none), RF - (none).
+Time of Game: 2:34.
+Attendance: 26,154.
+Field Condition: Unknown.
+Start Time Weather: 75° F, Wind 3mph out to Leftfield, Sunny, No Precipitation.
+
+div_lineups
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+3;Pete Alonso;/players/a/alonspe01.shtml;1B
+4;Francisco Lindor;/players/l/lindofr01.shtml;SS
+5;Mark Vientos;/players/v/vientma01.shtml;DH
+6;Jeff McNeil;/players/m/mcneije01.shtml;RF
+7;Ronny Mauricio;/players/m/mauriro01.shtml;2B
+8;Brett Baty;/players/b/batybr01.shtml;3B
+9;Tim Locastro;/players/l/locasti01.shtml;LF
+; Kodai Senga;/players/s/sengako01.shtml;P
+Twins
+1;Edouard Julien;/players/j/julieed01.shtml;DH
+2;Jorge Polanco;/players/p/polanjo01.shtml;2B
+3;Royce Lewis;/players/l/lewisro02.shtml;3B
+4;Max Kepler;/players/k/keplema01.shtml;RF
+5;Carlos Correa;/players/c/correca01.shtml;SS
+6;Alex Kirilloff;/players/k/kirilal01.shtml;1B
+7;Christian Vázquez;/players/v/vazquch01.shtml;C
+8;Matt Wallner;/players/w/wallnma01.shtml;LF
+9;Willi Castro;/players/c/castrwi01.shtml;CF
+; Dallas Keuchel;/players/k/keuchda01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b4;1-2;0;---;4,(2-1) BTBX;R;MIN;Carlos Correa;Kodai Senga;13%;56%;Home Run (Fly Ball to Deep LF)
+t4;0-1;0;1--;7,(3-2) CBF.*B*BFX;;NYM;Pete Alonso;Dallas Keuchel;-13%;44%;Double to LF (Line Drive to Deep LF); Alvarez to 3B
+t4;0-1;0;-23;2,(0-1) FX;RR;NYM;Francisco Lindor;Dallas Keuchel;-13%;32%;Ground-rule Double (Line Drive to RF Line); Alvarez Scores; Alonso Scores
+b5;2-2;0;12-;7,(3-2) F*BF*B*BFX;OO;MIN;Royce Lewis;Kodai Senga;-13%;55%;Ground Ball Double Play: SS-2B-1B; Julien to 3B
+b7;2-2;0;12-;3,(0-2) CC>B;R;MIN;Edouard Julien;Sean Reid-Foley;12%;84%;Stevenson Steals 3B; Castro Steals 2B; Stevenson Scores/Adv on E2 (throw)/No RBI
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Mets Batting, Tied 0-0, Twins' Dallas Keuchel facing 1-2-3 
+t1;0-0;0;---;3,(0-2) CFX;O;NYM;Brandon Nimmo;Dallas Keuchel;2%;52%;Lineout: RF (Deep RF)
+t1;0-0;1;---;7,(2-2) CBBFFF.X;O;NYM;Francisco Alvarez;Dallas Keuchel;2%;54%;Groundout: P-1B (Short 1B Line)
+t1;0-0;2;---;3,(1-1) CBX;O;NYM;Pete Alonso;Dallas Keuchel;1%;55%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Twins 0.
+Bottom of the 1st, Twins Batting, Tied 0-0, Mets' Kodai Senga facing 1-2-3 
+b1;0-0;0;---;7,(3-2) BFBFB.FX;O;MIN;Edouard Julien;Kodai Senga;-2%;53%;Groundout: 2B-1B
+b1;0-0;1;---;6,(3-2) BFBFBB;;MIN;Jorge Polanco;Kodai Senga;2%;55%;Walk
+b1;0-0;1;1--;1,(0-0) X;R;MIN;Royce Lewis;Kodai Senga;11%;66%;Double to LF (Line Drive to LF Line); Polanco Scores
+b1;1-0;1;-2-;4,(1-2) BFFS;O;MIN;Max Kepler;Kodai Senga;-3%;63%;Strikeout Swinging
+b1;1-0;2;-2-;6,(3-2) BS*BS.B*B;;MIN;Carlos Correa;Kodai Senga;1%;64%;Walk
+b1;1-0;2;12-;3,(1-1) FBX;O;MIN;Alex Kirilloff;Kodai Senga;-4%;60%;Popfly: SS
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Mets 0, Twins 1.
+Top of the 2nd, Mets Batting, Behind 0-1, Twins' Dallas Keuchel facing 4-5-6 
+t2;0-1;0;---;6,(2-2) BBCCFS;O;NYM;Francisco Lindor;Dallas Keuchel;2%;63%;Strikeout Swinging
+t2;0-1;1;---;5,(2-2) BFBF.S;O;NYM;Mark Vientos;Dallas Keuchel;2%;64%;Strikeout Swinging
+t2;0-1;2;---;2,(0-1) CX;O;NYM;Jeff McNeil;Dallas Keuchel;1%;66%;Lineout: RF (Deep RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Twins 1.
+Bottom of the 2nd, Twins Batting, Ahead 1-0, Mets' Kodai Senga facing 7-8-9 
+b2;1-0;0;---;4,(2-1) BBFX;O;MIN;Christian Vázquez;Kodai Senga;-2%;64%;Groundout: 2B-1B
+b2;1-0;1;---;6,(3-2) BFCB.BC;O;MIN;Matt Wallner;Kodai Senga;-1%;62%;Strikeout Looking
+b2;1-0;2;---;8,(3-2) BCBF.BFF*B;;MIN;Willi Castro;Kodai Senga;1%;63%;Walk
+b2;1-0;2;1--;3,(2-0) 1B+1BX;O;MIN;Edouard Julien;Kodai Senga;-2%;61%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mets 0, Twins 1.
+Top of the 3rd, Mets Batting, Behind 0-1, Twins' Dallas Keuchel facing 7-8-9 
+t3;0-1;0;---;1,(0-0) X;O;NYM;Ronny Mauricio;Dallas Keuchel;3%;64%;Groundout: P-1B
+t3;0-1;1;---;5,(2-2) BSS.B*S;O;NYM;Brett Baty;Dallas Keuchel;2%;66%;Strikeout Swinging
+t3;0-1;2;---;5,(2-2) BCBSX;;NYM;Tim Locastro;Dallas Keuchel;-1%;64%;Single to CF (Line Drive to Deep CF)
+t3;0-1;2;1--;2,(1-0) BX;O;NYM;Brandon Nimmo;Dallas Keuchel;3%;67%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 0, Twins 1.
+Bottom of the 3rd, Twins Batting, Ahead 1-0, Mets' Kodai Senga facing 2-3-4 
+b3;1-0;0;---;3,(0-2) CFX;O;MIN;Jorge Polanco;Kodai Senga;-2%;65%;Flyball: CF (Deep CF-RF)
+b3;1-0;1;---;1,(0-0) X;O;MIN;Royce Lewis;Kodai Senga;-2%;63%;Flyball: CF (Deep CF)
+b3;1-0;2;---;7,(3-2) FBF.BBFX;O;MIN;Max Kepler;Kodai Senga;-1%;62%;Flyball: LF (Deep LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Twins 1.
+Top of the 4th, Mets Batting, Behind 0-1, Twins' Dallas Keuchel facing 2-3-4 
+t4;0-1;0;---;7,(3-2) CBBBFFB;;NYM;Francisco Alvarez;Dallas Keuchel;-5%;58%;Walk
+t4;0-1;0;1--;7,(3-2) CBF.*B*BFX;;NYM;Pete Alonso;Dallas Keuchel;-13%;44%;Double to LF (Line Drive to Deep LF); Alvarez to 3B
+t4;0-1;0;-23;2,(0-1) FX;RR;NYM;Francisco Lindor;Dallas Keuchel;-13%;32%;Ground-rule Double (Line Drive to RF Line); Alvarez Scores; Alonso Scores
+t4;2-1;0;-2-;4,(1-2) CFBC;O;NYM;Mark Vientos;Dallas Keuchel;4%;36%;Strikeout Looking
+t4;2-1;1;-2-;5,(3-1) BBF*BB;;NYM;Jeff McNeil;Dallas Keuchel;-2%;34%;Walk
+t4;2-1;1;12-;3,(1-1) C*BX;OO;NYM;Ronny Mauricio;Dallas Keuchel;9%;43%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Mets 2, Twins 1.
+Bottom of the 4th, Twins Batting, Behind 1-2, Mets' Kodai Senga facing 5-6-7 
+b4;1-2;0;---;4,(2-1) BTBX;R;MIN;Carlos Correa;Kodai Senga;13%;56%;Home Run (Fly Ball to Deep LF)
+b4;2-2;0;---;3,(1-1) .CBX;;MIN;Alex Kirilloff;Kodai Senga;4%;60%;Single to RF (Ground Ball)
+b4;2-2;0;1--;2,(1-0) BX;O;MIN;Christian Vázquez;Kodai Senga;-4%;56%;Lineout: LF (Deep LF)
+b4;2-2;1;1--;2,(1-0) BX;O;MIN;Matt Wallner;Kodai Senga;-3%;53%;Popfly: 3B (Weak 3B)
+b4;2-2;2;1--;3,(0-2) CFS;O;MIN;Willi Castro;Kodai Senga;-3%;50%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Mets 2, Twins 2.
+Top of the 5th, Mets Batting, Tied 2-2, Twins' Dallas Keuchel facing 8-9-1 
+t5;2-2;0;---;4,(1-2) CBSS;O;NYM;Brett Baty;Dallas Keuchel;3%;53%;Strikeout Swinging
+t5;2-2;1;---;3,(0-2) CCC;O;NYM;Tim Locastro;Dallas Keuchel;2%;55%;Strikeout Looking
+t5;2-2;2;---;1,(0-0) X;O;NYM;Brandon Nimmo;Dallas Keuchel;1%;57%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 2, Twins 2.
+Bottom of the 5th, Twins Batting, Tied 2-2, Mets' Kodai Senga facing 1-2-3 
+b5;2-2;0;---;5,(3-1) BFBBB;;MIN;Edouard Julien;Kodai Senga;5%;61%;Walk
+b5;2-2;0;1--;1,(0-0) X;;MIN;Jorge Polanco;Kodai Senga;7%;68%;Single to RF (Ground Ball thru 2B-1B); Julien to 2B
+b5;2-2;0;12-;7,(3-2) F*BF*B*BFX;OO;MIN;Royce Lewis;Kodai Senga;-13%;55%;Ground Ball Double Play: SS-2B-1B; Julien to 3B
+b5;2-2;2;--3;2,(1-0) BX;O;MIN;Max Kepler;Kodai Senga;-5%;50%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 2, Twins 2.
+Top of the 6th, Mets Batting, Tied 2-2, Twins' Emilio Pagán facing 2-3-4 
+;;;;;;;;;Emilio Pagán replaces Dallas Keuchel pitching
+t6;2-2;0;---;4,(1-2) .BCCX;O;NYM;Francisco Alvarez;Emilio Pagán;3%;53%;Flyball: RF (Deep 1B)
+t6;2-2;1;---;3,(1-1) BSX;O;NYM;Pete Alonso;Emilio Pagán;2%;56%;Groundout: 3B-1B
+t6;2-2;2;---;4,(1-2) CS.BX;O;NYM;Francisco Lindor;Emilio Pagán;2%;58%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 2, Twins 2.
+Bottom of the 6th, Twins Batting, Tied 2-2, Mets' Kodai Senga facing 5-6-7 
+b6;2-2;0;---;4,(0-2) FSFC;O;MIN;Carlos Correa;Kodai Senga;-3%;54%;Strikeout Looking
+b6;2-2;1;---;7,(3-2) BBFT.FBS;O;MIN;Alex Kirilloff;Kodai Senga;-2%;52%;Strikeout Swinging
+b6;2-2;2;---;2,(1-0) BX;O;MIN;Christian Vázquez;Kodai Senga;-2%;50%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 2, Twins 2.
+Top of the 7th, Mets Batting, Tied 2-2, Twins' Caleb Thielbar facing 5-6-7 
+;;;;;;;;;Caleb Thielbar replaces Emilio Pagán pitching
+t7;2-2;0;---;7,(2-2) .CBF.BFFS;O;NYM;Mark Vientos;Caleb Thielbar;4%;54%;Strikeout Swinging
+t7;2-2;1;---;2,(0-1) CX;;NYM;Jeff McNeil;Caleb Thielbar;-4%;50%;Single to LF (Line Drive)
+t7;2-2;1;1--;4,(1-2) *BCFC;O;NYM;Ronny Mauricio;Caleb Thielbar;5%;55%;Strikeout Looking
+t7;2-2;2;1--;2,(1-0) B1X;O;NYM;Brett Baty;Caleb Thielbar;4%;59%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 2, Twins 2.
+Bottom of the 7th, Twins Batting, Tied 2-2, Mets' Sean Reid-Foley facing 8-9-1 
+;;;;;;;;;Sean Reid-Foley replaces Kodai Senga pitching
+b7;2-2;0;---;6,(3-2) .FBBBC.B;;MIN;Matt Wallner;Sean Reid-Foley;6%;65%;Walk
+;;;;;;;;;Andrew Stevenson pinch runs for Matt Wallner (LF) batting 8th
+b7;2-2;0;1--;5,(0-2) .1CS>FF>X;;MIN;Willi Castro;Sean Reid-Foley;8%;73%;Single to 3B (Ground Ball to P's Right); Stevenson to 2B
+b7;2-2;0;12-;3,(0-2) CC>B;R;MIN;Edouard Julien;Sean Reid-Foley;12%;84%;Stevenson Steals 3B; Castro Steals 2B; Stevenson Scores/Adv on E2 (throw)/No RBI
+b7;3-2;0;-2-;7,(3-2) CC>B.BB.FS;O;MIN;Edouard Julien;Sean Reid-Foley;-4%;81%;Strikeout Swinging
+b7;3-2;1;-2-;7,(3-2) BSBSFBC;O;MIN;Jorge Polanco;Sean Reid-Foley;-3%;77%;Strikeout Looking
+b7;3-2;2;-2-;3,(2-0) B*BX;R;MIN;Royce Lewis;Sean Reid-Foley;10%;88%;Double to CF (Line Drive to Deep CF); Castro Scores
+;;;;;;;;;Grant Hartwig replaces Sean Reid-Foley pitching
+b7;4-2;2;-2-;3,(1-1) .CBX;R;MIN;Max Kepler;Grant Hartwig;5%;93%;Single to CF (Fly Ball to Short CF); Lewis Scores
+b7;5-2;2;1--;6,(3-2) FB1BBC>X;;MIN;Carlos Correa;Grant Hartwig;1%;94%;Double to LF (Line Drive to Deep LF); Kepler to 3B
+b7;5-2;2;-23;4,(1-2) CFBX;O;MIN;Alex Kirilloff;Grant Hartwig;-1%;93%;Groundout: 2B-1B
+;;;;;;;;;3 runs, 4 hits, 1 error, 2 LOB. Mets 2, Twins 5.
+Top of the 8th, Mets Batting, Behind 2-5, Twins' Griffin Jax facing 9-1-2 
+;;;;;;;;;Griffin Jax replaces Caleb Thielbar pitchingWilli Castro moves from CF to LF Andrew Stevenson moves from PR to CF Rafael Ortega pinch hits for Tim Locastro (LF) batting 9th
+t8;2-5;0;---;3,(0-2) ....CCT;O;NYM;Rafael Ortega;Griffin Jax;2%;95%;Strikeout Swinging
+t8;2-5;1;---;2,(0-1) CX;O;NYM;Brandon Nimmo;Griffin Jax;1%;97%;Foul Popfly: LF (Short LF into Foul Terr.)
+t8;2-5;2;---;3,(0-2) TTX;O;NYM;Francisco Alvarez;Griffin Jax;1%;97%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 2, Twins 5.
+Bottom of the 8th, Twins Batting, Ahead 5-2, Mets' Sam Coonrod facing 7-8-9 
+;;;;;;;;;Sam Coonrod replaces Grant Hartwig pitchingRafael Ortega moves from PH to LF 
+b8;5-2;0;---;6,(2-2) ..CS.BFBS;O;MIN;Christian Vázquez;Sam Coonrod;0%;97%;Strikeout Swinging
+b8;5-2;1;---;2,(1-0) BX;O;MIN;Andrew Stevenson;Sam Coonrod;0%;97%;Groundout: P-1B (Weak 2B-1B)
+b8;5-2;2;---;3,(1-1) BFX;O;MIN;Willi Castro;Sam Coonrod;0%;97%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 2, Twins 5.
+Top of the 9th, Mets Batting, Behind 2-5, Twins' Jhoan Duran facing 3-4-5 
+;;;;;;;;;Jhoan Duran replaces Griffin Jax pitching
+t9;2-5;0;---;5,(3-1) .BBBCB;;NYM;Pete Alonso;Jhoan Duran;-4%;93%;Walk
+t9;2-5;0;1--;5,(2-2) BBCSS;O;NYM;Francisco Lindor;Jhoan Duran;4%;96%;Strikeout Swinging
+t9;2-5;1;1--;1,(0-0) X;O;NYM;Mark Vientos;Jhoan Duran;3%;99%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Vientos to 1B
+t9;2-5;2;1--;3,(0-2) CFS;O;NYM;Jeff McNeil;Jhoan Duran;1%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mets 2, Twins 5.

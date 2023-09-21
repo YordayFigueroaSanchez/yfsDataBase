@@ -1,0 +1,263 @@
+
+Scorebox Meta
+20230405
+1:05 p.m. Local
+35847
+Yankee Stadium III
+150
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/PHI-2023.png;/teams/PHI/2023.shtml;0;0;0;0;0;0;1;1;0;2;5;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;1;0;0;0;0;1;2;0;X;4;9;0
+
+Batting home
+DJ LeMahieu;/players/l/lemahdj01.shtml;2B;3;1;1;0;1;1;4;.300;.364;.650;1.014;18;12;0.025; 0.59;0.062;-0.037; 0.01%; 0.53; 0.4;0;1;2B
+Aaron Judge;/players/j/judgeaa01.shtml;CF;3;1;1;0;1;1;4;.348;.423;.609;1.032;17;9;-0.011; 0.61;0.039;-0.050;-0.01%; 0.55; 0.0;1;0;SB
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;4;0;1;0;0;1;4;.313;.455;.563;1.017;15;10;-0.039; 0.89;0.033;-0.071;-0.02%; 0.80; -0.7;6;0;
+Gleyber Torres;/players/t/torregl01.shtml;DH;4;0;3;2;0;0;4;.421;.560;.789;1.349;15;12;0.181; 0.77;0.232;-0.051; 0.10%; 0.69; 2.2;;;2B,2·SB,CS
+Josh Donaldson;/players/d/donaljo02.shtml;3B;1;0;0;0;0;0;1;.125;.176;.313;.489;5;1;-0.020; 0.77;0.000;-0.020;-0.01%; 0.69; -0.2;1;0;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;3B;3;0;0;0;0;1;3;.000;.000;.000;.000;10;8;-0.060; 0.70;0.000;-0.060;-0.03%; 0.62; -1.1;1;2;
+Oswaldo Cabrera;/players/c/cabreos01.shtml;LF;3;1;1;0;1;0;4;.267;.313;.333;.646;14;6;0.024; 0.64;0.065;-0.041; 0.01%; 0.57; -0.0;1;0;2B
+Franchy Cordero;/players/c/cordefr02.shtml;RF;4;0;1;0;0;1;4;.222;.222;.333;.556;10;9;-0.033; 0.88;0.033;-0.066;-0.02%; 0.78; -0.7;1;1;
+Jose Trevino;/players/t/trevijo01.shtml;C;3;1;1;2;0;1;3;.308;.308;.538;.846;15;12;0.042; 1.18;0.146;-0.104; 0.02%; 1.06; 0.6;13;0;HR,GDP
+Anthony Volpe;/players/v/volpean01.shtml;SS;3;0;0;0;0;2;3;.176;.333;.176;.510;13;10;-0.036; 0.46;0.000;-0.036;-0.02%; 0.41; -0.5;3;2;
+Gerrit Cole;/players/c/colege01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Jonathan Loáisiga;/players/l/loaisjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Clay Holmes;/players/h/holmecl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Oswaldo Cabrera (1, off Aaron Nola); DJ LeMahieu (2, off Aaron Nola); Gleyber Torres (1, off Seranthony Domínguez).
+
+
+HR: Jose Trevino (1, off Gregory Soto, 7th inn, 1 on, 1 out to Deep LF Line).
+
+
+TB: Jose Trevino 4; Gleyber Torres 4; Oswaldo Cabrera 2; DJ LeMahieu 2; Franchy Cordero; Aaron Judge; Anthony Rizzo.
+
+
+GIDP: Jose Trevino (1).
+
+
+RBI: Gleyber Torres 2 (6); Jose Trevino 2 (3).
+
+
+2-out RBI: Gleyber Torres 2.
+
+
+Team LOB: 6.
+With RISP: 2 for 11.
+
+Batting away
+Trea Turner;/players/t/turnetr01.shtml;SS;4;0;1;0;0;2;4;.370;.393;.556;.948;19;14;-0.094; 0.92;0.015;-0.109;-0.05%; 0.75; -0.8;2;1;
+Kyle Schwarber;/players/s/schwaky01.shtml;LF;4;1;1;1;0;0;4;.154;.154;.385;.538;14;10;-0.020; 0.83;0.051;-0.071;-0.01%; 0.68; 0.4;0;0;HR
+J.T. Realmuto;/players/r/realmjt01.shtml;C;4;0;0;0;0;3;4;.263;.300;.421;.721;14;11;-0.072; 0.71;0.000;-0.072;-0.03%; 0.58; -0.5;8;1;
+Darick Hall;/players/h/hallda02.shtml;1B;2;0;1;0;0;0;2;.222;.263;.278;.541;4;3;-0.038; 0.74;0.000;-0.038;-0.02%; 0.60; -0.3;3;0;
+Edmundo Sosa;/players/s/sosaed01.shtml;3B-CF;2;0;0;0;0;1;2;.300;.300;.400;.700;9;6;-0.048; 0.93;0.000;-0.048;-0.02%; 0.76; -0.3;0;1;
+Nick Castellanos;/players/c/casteni01.shtml;DH;3;1;0;0;1;3;4;.182;.280;.318;.598;20;12;-0.048; 1.09;0.040;-0.088;-0.02%; 0.90; -0.4;;;
+Bryson Stott;/players/s/stottbr01.shtml;2B;4;0;2;0;0;1;4;.435;.458;.565;1.024;18;13;0.037; 1.02;0.084;-0.047; 0.02%; 0.83; 0.3;2;5;2B
+Alec Bohm;/players/b/bohmal01.shtml;3B-1B;2;0;0;0;1;1;4;.350;.458;.600;1.058;18;10;0.070; 1.35;0.116;-0.046; 0.03%; 1.10; 0.4;3;0;HBP
+Jake Cave;/players/c/caveja01.shtml;RF;1;0;0;1;1;1;3;.167;.267;.167;.433;15;8;-0.051; 2.26;0.028;-0.079;-0.03%; 1.85; -0.2;2;0;SF
+Cristian Pache;/players/p/pachecr01.shtml;CF;2;0;0;0;0;0;2;.000;.000;.000;.000;3;2;-0.080; 1.55;0.000;-0.080;-0.04%; 1.27; -0.6;4;0;
+Josh Harrison;/players/h/harrijo05.shtml;PH-3B;1;0;0;0;0;0;1;.167;.167;.167;.333;1;1;-0.084; 3.25;0.000;-0.084;-0.04%; 2.66; -0.4;0;0;
+Aaron Nola;/players/n/nolaaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gregory Soto;/players/s/sotogr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Seranthony Domínguez;/players/d/dominse01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Bryson Stott (3, off Gerrit Cole).
+
+
+HR: Kyle Schwarber (2, off Jonathan Loáisiga, 8th inn, 0 on, 1 out to Deep RF).
+
+
+SF: Jake Cave (1, off Jonathan Loáisiga).
+
+
+HBP: Alec Bohm (1, by Jonathan Loáisiga).
+
+
+TB: Kyle Schwarber 4; Bryson Stott 3; Trea Turner; Darick Hall.
+
+
+RBI: Jake Cave (1); Kyle Schwarber (4).
+
+
+Team LOB: 5.
+With RISP: 0 for 3.
+
+Pitching home
+Gerrit Cole;/players/c/colege01.shtml; W (2-0); 6.1;3;1;1;3;8;0;0.73;23;103;68;38;15;15;4;8;4;0;68;;;0.364; 0.94; 0.19%; 0.84; 3.0
+Jonathan Loáisiga;/players/l/loaisjo01.shtml; H (2); 1.2;2;1;1;0;1;1;2.70;8;16;13;9;2;2;4;2;1;0;;1;1;-0.012; 1.96;-0.01%; 1.76; -1.0
+Clay Holmes;/players/h/holmecl01.shtml; S (1); 1 ;0;0;0;0;3;0;6.75;3;16;9;2;1;6;0;0;0;0;;0;0;0.074; 0.97; 0.04%; 0.87; 0.5
+
+Pitching away
+Aaron Nola;/players/n/nolaaa01.shtml; L (0-1); 6 ;7;3;3;1;5;0;7.45;24;87;62;32;8;22;6;12;6;0;50;;;0.024; 0.87; 0.01%; 0.71; 0.6
+Gregory Soto;/players/s/sotogr01.shtml;Gregory Soto; 1 ;1;1;1;2;3;1;18.00;6;34;21;9;9;3;0;1;0;0;;1;1;-0.112; 0.50;-0.06%; 0.41; -1.1
+Seranthony Domínguez;/players/d/dominse01.shtml;Seranthony Domínguez; 1 ;1;0;0;0;0;0;18.00;4;11;8;6;1;1;2;2;1;0;;0;0;0.014; 0.32; 0.01%; 0.26; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Jonathan Loáisiga (1; Alec Bohm).
+IBB: None.
+Pickoffs: Gerrit Cole (1; Trea Turner, 1st base).
+
+Balks: None.
+WP: None.
+HBP: Jonathan Loáisiga (1; Alec Bohm).
+IBB: None.
+Pickoffs: Gerrit Cole (1; Trea Turner, 1st base).
+
+section_content
+Umpires: HP - Nic Lentz, 1B - Jeremie Rehak, 2B - Paul Emmel, 3B - Chad Fairchild, LF - (none), RF - (none).
+Time of Game: 2:30.
+Attendance: 35,847.
+Field Condition: Unknown.
+Start Time Weather: 48° F, Wind 15mph from Left to Right, Overcast, Drizzle.
+
+div_lineups
+Phillies
+1;Trea Turner;/players/t/turnetr01.shtml;SS
+2;Kyle Schwarber;/players/s/schwaky01.shtml;LF
+3;J.T. Realmuto;/players/r/realmjt01.shtml;C
+4;Darick Hall;/players/h/hallda02.shtml;1B
+5;Nick Castellanos;/players/c/casteni01.shtml;DH
+6;Bryson Stott;/players/s/stottbr01.shtml;2B
+7;Alec Bohm;/players/b/bohmal01.shtml;3B
+8;Jake Cave;/players/c/caveja01.shtml;RF
+9;Cristian Pache;/players/p/pachecr01.shtml;CF
+; Aaron Nola;/players/n/nolaaa01.shtml;P
+Yankees
+1;DJ LeMahieu;/players/l/lemahdj01.shtml;2B
+2;Aaron Judge;/players/j/judgeaa01.shtml;CF
+3;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+4;Gleyber Torres;/players/t/torregl01.shtml;DH
+5;Josh Donaldson;/players/d/donaljo02.shtml;3B
+6;Oswaldo Cabrera;/players/c/cabreos01.shtml;LF
+7;Franchy Cordero;/players/c/cordefr02.shtml;RF
+8;Jose Trevino;/players/t/trevijo01.shtml;C
+9;Anthony Volpe;/players/v/volpean01.shtml;SS
+; Gerrit Cole;/players/c/colege01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b7;2-1;1;1--;7,(0-2) CSFFFFX;RR;NYY;Jose Trevino;Gregory Soto;15%;94%;Home Run (Fly Ball to Deep LF Line); Cabrera Scores
+b6;1-0;2;-2-;5,(0-2) CFFFX;R;NYY;Gleyber Torres;Aaron Nola;10%;83%;Single to CF (Ground Ball thru SS-2B); LeMahieu Scores
+t7;0-2;1;12-;1,(0-0) H;;PHI;Alec Bohm;Jonathan Loáisiga;-10%;65%;Hit By Pitch; Castellanos to 3B; Stott to 2B
+b1;0-0;2;-2-;7,(2-2) CF1F>B.BFX;R;NYY;Gleyber Torres;Aaron Nola;9%;62%;Single to LF (Line Drive to Short LF); Judge Scores
+t7;1-2;2;12-;1,(0-0) .X;O;PHI;Josh Harrison;Jonathan Loáisiga;8%;79%;Groundout: 3B unassisted/Forceout at 3B (SS-3B Hole); Harrison to 1B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Phillies Batting, Tied 0-0, Yankees' Gerrit Cole facing 1-2-3 
+t1;0-0;0;---;6,(2-2) FBBFFC;O;PHI;Trea Turner;Gerrit Cole;2%;52%;Strikeout Looking
+t1;0-0;1;---;7,(3-2) CBBFBFX;O;PHI;Kyle Schwarber;Gerrit Cole;2%;54%;Popfly: SS (SS-2B)
+t1;0-0;2;---;4,(0-2) CFFC;O;PHI;J.T. Realmuto;Gerrit Cole;1%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Yankees 0.
+Bottom of the 1st, Yankees Batting, Tied 0-0, Phillies' Aaron Nola facing 1-2-3 
+b1;0-0;0;---;5,(1-2) CCBFS;O;NYY;DJ LeMahieu;Aaron Nola;-2%;53%;Strikeout Swinging
+b1;0-0;1;---;2,(1-0) BX;;NYY;Aaron Judge;Aaron Nola;2%;55%;Single to LF (Line Drive to LF-CF)
+b1;0-0;1;1--;3,(1-1) CBX;O;NYY;Anthony Rizzo;Aaron Nola;-3%;52%;Flyball: CF
+b1;0-0;2;1--;4,(0-2) CF1F>B;;NYY;Gleyber Torres;Aaron Nola;1%;53%;Judge Steals 2B
+b1;0-0;2;-2-;7,(2-2) CF1F>B.BFX;R;NYY;Gleyber Torres;Aaron Nola;9%;62%;Single to LF (Line Drive to Short LF); Judge Scores
+b1;1-0;2;1--;4,(1-2) 1SSB>B;O;NYY;Josh Donaldson;Aaron Nola;-2%;60%;Torres Caught Stealing 2B (C-2B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Phillies 0, Yankees 1.
+Top of the 2nd, Phillies Batting, Behind 0-1, Yankees' Gerrit Cole facing 4-5-6 
+t2;0-1;0;---;3,(1-1) CBX;O;PHI;Darick Hall;Gerrit Cole;2%;63%;Popfly: 3B (Weak SS)
+t2;0-1;1;---;5,(2-2) BCSBC;O;PHI;Nick Castellanos;Gerrit Cole;2%;65%;Strikeout Looking
+t2;0-1;2;---;9,(2-2) BTFFFFBFX;;PHI;Bryson Stott;Gerrit Cole;-2%;62%;Ground-rule Double (Line Drive to Deep LF Line)
+t2;0-1;2;-2-;4,(1-2) SSBX;O;PHI;Alec Bohm;Gerrit Cole;3%;66%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 0, Yankees 1.
+Bottom of the 2nd, Yankees Batting, Ahead 1-0, Phillies' Aaron Nola facing 5-6-7 
+b2;1-0;0;---;1,(0-0) X;O;NYY;Josh Donaldson;Aaron Nola;-2%;64%;Flyball: CF (Deep CF-RF)
+b2;1-0;1;---;3,(2-0) BBX;;NYY;Oswaldo Cabrera;Aaron Nola;4%;67%;Double to SS (Fly Ball to Deep 3B)
+b2;1-0;1;-2-;3,(1-1) BCX;O;NYY;Franchy Cordero;Aaron Nola;-3%;65%;Groundout: 2B-1B (2B-1B); Cabrera to 3B
+b2;1-0;2;--3;6,(2-2) CBFFBS;O;NYY;Jose Trevino;Aaron Nola;-3%;61%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 0, Yankees 1.
+Top of the 3rd, Phillies Batting, Behind 0-1, Yankees' Gerrit Cole facing 8-9-1 
+;;;;;;;;;Isiah Kiner-Falefa replaces Josh Donaldson playing 3B batting 5th
+t3;0-1;0;---;7,(3-2) .CBBBSFS;O;PHI;Jake Cave;Gerrit Cole;3%;64%;Strikeout Swinging
+t3;0-1;1;---;1,(0-0) X;O;PHI;Cristian Pache;Gerrit Cole;2%;66%;Groundout: 3B-1B (SS-3B Hole)
+t3;0-1;2;---;3,(0-2) SFX;;PHI;Trea Turner;Gerrit Cole;-1%;64%;Single to 3B (Ground Ball to Weak SS)
+t3;0-1;2;1--;,(0-0) 1;O;PHI;Kyle Schwarber;Gerrit Cole;3%;67%;Turner Picked off 1B (P-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Phillies 0, Yankees 1.
+Bottom of the 3rd, Yankees Batting, Ahead 1-0, Phillies' Aaron Nola facing 9-1-2 
+b3;1-0;0;---;3,(0-2) CFC;O;NYY;Anthony Volpe;Aaron Nola;-2%;65%;Strikeout Looking
+b3;1-0;1;---;2,(0-1) SX;O;NYY;DJ LeMahieu;Aaron Nola;-1%;63%;Groundout: SS-1B
+b3;1-0;2;---;5,(2-2) CBSBS;O;NYY;Aaron Judge;Aaron Nola;-1%;62%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Yankees 1.
+Top of the 4th, Phillies Batting, Behind 0-1, Yankees' Gerrit Cole facing 2-3-4 
+t4;0-1;0;---;1,(0-0) X;O;PHI;Kyle Schwarber;Gerrit Cole;3%;65%;Lineout: CF (Deep LF-CF)
+t4;0-1;1;---;3,(2-0) BBX;O;PHI;J.T. Realmuto;Gerrit Cole;2%;67%;Groundout: SS-1B
+t4;0-1;2;---;1,(0-0) X;O;PHI;Darick Hall;Gerrit Cole;1%;69%;Single to RF (Line Drive to Short RF Line); Hall out at 2B/RF-SS
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Phillies 0, Yankees 1.
+Bottom of the 4th, Yankees Batting, Ahead 1-0, Phillies' Aaron Nola facing 3-4-5 
+b4;1-0;0;---;3,(1-1) CBX;;NYY;Anthony Rizzo;Aaron Nola;3%;72%;Single to RF (Line Drive to Short RF)
+b4;1-0;0;1--;1,(0-0) X;O;NYY;Gleyber Torres;Aaron Nola;-3%;69%;Lineout: RF (RF Line)
+b4;1-0;1;1--;5,(2-2) CB*BCC;O;NYY;Isiah Kiner-Falefa;Aaron Nola;-3%;66%;Strikeout Looking
+b4;1-0;2;1--;1,(0-0) X;O;NYY;Oswaldo Cabrera;Aaron Nola;-2%;64%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 0, Yankees 1.
+Top of the 5th, Phillies Batting, Behind 0-1, Yankees' Gerrit Cole facing 5-6-7 
+t5;0-1;0;---;3,(0-2) CFC;O;PHI;Nick Castellanos;Gerrit Cole;3%;67%;Strikeout Looking
+t5;0-1;1;---;3,(1-1) BCX;O;PHI;Bryson Stott;Gerrit Cole;2%;69%;Popfly: SS (Deep SS-2B)
+t5;0-1;2;---;8,(3-2) BCBFBFFB;;PHI;Alec Bohm;Gerrit Cole;-2%;68%;Walk
+t5;0-1;2;1--;7,(3-2) C.BBBS>F>B;;PHI;Jake Cave;Gerrit Cole;-3%;65%;Walk; Bohm to 2B
+t5;0-1;2;12-;2,(1-0) BX;O;PHI;Cristian Pache;Gerrit Cole;6%;71%;Foul Popfly: C (Behind Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Phillies 0, Yankees 1.
+Bottom of the 5th, Yankees Batting, Ahead 1-0, Phillies' Aaron Nola facing 7-8-9 
+;;;;;;;;;Alec Bohm moves from 3B to 1B Edmundo Sosa replaces Darick Hall (1B) playing 3B batting 4th
+b5;1-0;0;---;3,(0-2) ..FFX;;NYY;Franchy Cordero;Aaron Nola;3%;74%;Single to 2B (Ground Ball to 2B-1B)
+b5;1-0;0;1--;2,(1-0) BX;OO;NYY;Jose Trevino;Aaron Nola;-7%;67%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b5;1-0;2;---;5,(1-2) BFCFX;O;NYY;Anthony Volpe;Aaron Nola;-1%;66%;Foul Popfly: RF (RF into Foul Terr.)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Phillies 0, Yankees 1.
+Top of the 6th, Phillies Batting, Behind 0-1, Yankees' Gerrit Cole facing 1-2-3 
+t6;0-1;0;---;8,(3-2) BFSBFFBS;O;PHI;Trea Turner;Gerrit Cole;4%;70%;Strikeout Swinging
+t6;0-1;1;---;2,(0-1) SX;O;PHI;Kyle Schwarber;Gerrit Cole;3%;72%;Lineout: RF (Deep RF)
+t6;0-1;2;---;3,(0-2) CFS;O;PHI;J.T. Realmuto;Gerrit Cole;2%;74%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Yankees 1.
+Bottom of the 6th, Yankees Batting, Ahead 1-0, Phillies' Aaron Nola facing 1-2-3 
+b6;1-0;0;---;4,(1-2) CCBX;;NYY;DJ LeMahieu;Aaron Nola;6%;80%;Double to CF (Line Drive to Deep LF-CF)
+b6;1-0;0;-2-;4,(1-2) CBCX;O;NYY;Aaron Judge;Aaron Nola;-4%;76%;Lineout: CF (Deep CF)
+b6;1-0;1;-2-;3,(0-2) CSX;O;NYY;Anthony Rizzo;Aaron Nola;-3%;73%;Popfly: SS (Deep SS)
+b6;1-0;2;-2-;5,(0-2) CFFFX;R;NYY;Gleyber Torres;Aaron Nola;10%;83%;Single to CF (Ground Ball thru SS-2B); LeMahieu Scores
+b6;2-0;2;1--;1,(0-0) 1>C;;NYY;Isiah Kiner-Falefa;Aaron Nola;1%;84%;Torres Steals 2B
+b6;2-0;2;-2-;2,(0-1) 1>C.X;O;NYY;Isiah Kiner-Falefa;Aaron Nola;-2%;82%;Flyball: CF (Short CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Phillies 0, Yankees 2.
+Top of the 7th, Phillies Batting, Behind 0-2, Yankees' Gerrit Cole facing 4-5-6 
+t7;0-2;0;---;7,(3-2) CSBBBFS;O;PHI;Edmundo Sosa;Gerrit Cole;3%;85%;Strikeout Swinging
+t7;0-2;1;---;6,(3-2) SBBSFBV;;PHI;Nick Castellanos;Gerrit Cole;-4%;81%;Walk
+;;;;;;;;;Jonathan Loáisiga replaces Gerrit Cole pitching
+t7;0-2;1;1--;1,(0-0) .X;;PHI;Bryson Stott;Jonathan Loáisiga;-6%;75%;Single to RF (Ground Ball thru 2B-1B); Castellanos to 2B
+t7;0-2;1;12-;1,(0-0) H;;PHI;Alec Bohm;Jonathan Loáisiga;-10%;65%;Hit By Pitch; Castellanos to 3B; Stott to 2B
+t7;0-2;1;123;1,(0-0) X;RO;PHI;Jake Cave;Jonathan Loáisiga;5%;71%;Flyball: LF/Sacrifice Fly (Deep LF); Castellanos Scores
+;;;;;;;;;Josh Harrison pinch hits for Cristian Pache (CF) batting 9th
+t7;1-2;2;12-;1,(0-0) .X;O;PHI;Josh Harrison;Jonathan Loáisiga;8%;79%;Groundout: 3B unassisted/Forceout at 3B (SS-3B Hole); Harrison to 1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Phillies 1, Yankees 2.
+Bottom of the 7th, Yankees Batting, Ahead 2-1, Phillies' Aaron Nola facing 6-7-8 
+;;;;;;;;;Josh Harrison moves from PH to 3B Edmundo Sosa moves from 3B to CF 
+b7;2-1;0;---;5,(3-1) ..BBBCB;;NYY;Oswaldo Cabrera;Aaron Nola;3%;82%;Walk
+;;;;;;;;;Gregory Soto replaces Aaron Nola pitching
+b7;2-1;0;1--;3,(0-2) .CSS;O;NYY;Franchy Cordero;Gregory Soto;-3%;79%;Strikeout Swinging
+b7;2-1;1;1--;7,(0-2) CSFFFFX;RR;NYY;Jose Trevino;Gregory Soto;15%;94%;Home Run (Fly Ball to Deep LF Line); Cabrera Scores
+b7;4-1;1;---;5,(2-2) FBFBS;O;NYY;Anthony Volpe;Gregory Soto;0%;93%;Strikeout Swinging
+b7;4-1;2;---;7,(3-2) BSBSBFB;;NYY;DJ LeMahieu;Gregory Soto;0%;94%;Walk
+b7;4-1;2;1--;6,(3-2) FBS*BB>B;;NYY;Aaron Judge;Gregory Soto;0%;94%;Walk; LeMahieu to 2B
+b7;4-1;2;12-;6,(3-2) BSBCB>S;O;NYY;Anthony Rizzo;Gregory Soto;-1%;93%;Strikeout Swinging
+;;;;;;;;;2 runs, 1 hit, 0 errors, 2 LOB. Phillies 1, Yankees 4.
+Top of the 8th, Phillies Batting, Behind 1-4, Yankees' Jonathan Loáisiga facing 1-2-3 
+t8;1-4;0;---;2,(0-1) CX;O;PHI;Trea Turner;Jonathan Loáisiga;2%;95%;Groundout: SS-1B
+t8;1-4;1;---;4,(1-2) CBFX;R;PHI;Kyle Schwarber;Jonathan Loáisiga;-5%;90%;Home Run (Line Drive to Deep RF)
+t8;2-4;1;---;4,(1-2) SFBS;O;PHI;J.T. Realmuto;Jonathan Loáisiga;2%;93%;Strikeout Swinging
+t8;2-4;2;---;2,(0-1) FX;O;PHI;Edmundo Sosa;Jonathan Loáisiga;1%;94%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Phillies 2, Yankees 4.
+Bottom of the 8th, Yankees Batting, Ahead 4-2, Phillies' Seranthony Domínguez facing 4-5-6 
+;;;;;;;;;Seranthony Domínguez replaces Gregory Soto pitching
+b8;4-2;0;---;2,(1-0) .BX;;NYY;Gleyber Torres;Seranthony Domínguez;2%;96%;Ground-rule Double (Line Drive to Deep LF-CF)
+b8;4-2;0;-2-;1,(0-0) >C;;NYY;Isiah Kiner-Falefa;Seranthony Domínguez;1%;97%;Torres Steals 3B
+b8;4-2;0;--3;3,(0-2) >C.FX;O;NYY;Isiah Kiner-Falefa;Seranthony Domínguez;-1%;96%;Groundout: 2B-1B (Weak 2B)
+b8;4-2;1;--3;5,(2-2) BTSBX;O;NYY;Oswaldo Cabrera;Seranthony Domínguez;-2%;94%;Popfly: SS (SS-2B)
+b8;4-2;2;--3;1,(0-0) X;O;NYY;Franchy Cordero;Seranthony Domínguez;-1%;93%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 2, Yankees 4.
+Top of the 9th, Phillies Batting, Behind 2-4, Yankees' Clay Holmes facing 5-6-7 
+;;;;;;;;;Clay Holmes replaces Jonathan Loáisiga pitching
+t9;2-4;0;---;6,(3-2) .CBFBBC;O;PHI;Nick Castellanos;Clay Holmes;4%;96%;Strikeout Looking
+t9;2-4;1;---;5,(2-2) BBCFS;O;PHI;Bryson Stott;Clay Holmes;2%;99%;Strikeout Swinging
+t9;2-4;2;---;5,(2-2) BCCBC;O;PHI;Alec Bohm;Clay Holmes;1%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 2, Yankees 4.

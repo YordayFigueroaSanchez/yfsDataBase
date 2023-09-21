@@ -1,0 +1,251 @@
+
+Scorebox Meta
+20230503
+6:40 p.m. Local
+16734
+Comerica Park
+138
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;1;0;0;0;0;0;1;5;0
+https://cdn.ssref.net/req/202308101/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;2;1;0;3;0;0;0;2;X;8;12;1
+
+Batting home
+Zach McKinstry;/players/m/mckinza01.shtml;2B;2;1;1;0;2;0;4;.274;.338;.452;.790;26;12;0.042; 0.48;0.057;-0.015; 0.02%; 0.31; 1.1;0;1;
+Zack Short;/players/s/shortza01.shtml;2B;1;0;0;0;0;0;1;.444;.500;.778;1.278;5;3;0.000; 0.00;0.000;0.000;0%; 0.00; -0.2;0;2;
+Riley Greene;/players/g/greenri03.shtml;CF;4;1;2;1;0;1;4;.243;.298;.330;.629;11;9;0.059; 0.63;0.073;-0.015; 0.02%; 0.41; 0.7;2;0;
+Javier Báez;/players/b/baezja01.shtml;SS;4;0;0;0;0;0;4;.237;.292;.320;.612;15;14;-0.054; 0.67;0.000;-0.054;-0.02%; 0.44; -1.8;2;1;GDP
+Nick Maton;/players/m/matonni01.shtml;3B;3;0;0;1;0;1;4;.163;.263;.349;.611;16;11;-0.002; 0.57;0.011;-0.013;-0.00%; 0.37; -0.6;1;3;SF
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;4;1;2;1;0;1;4;.210;.265;.314;.579;15;11;0.091; 0.26;0.099;-0.008; 0.03%; 0.17; 1.2;8;3;2B
+Akil Baddoo;/players/b/baddoak01.shtml;LF;4;1;1;0;0;1;4;.220;.324;.271;.595;17;10;-0.003; 0.39;0.024;-0.026;-0.00%; 0.25; -0.4;6;0;
+Matt Vierling;/players/v/vierlma01.shtml;RF;4;1;1;2;0;0;4;.281;.333;.416;.749;10;7;0.084; 0.42;0.103;-0.019; 0.03%; 0.28; 0.8;1;1;HR
+Eric Haase;/players/h/haaseer01.shtml;C;4;2;2;1;0;1;4;.278;.333;.417;.750;13;9;0.070; 0.20;0.079;-0.009; 0.03%; 0.14; 1.0;2;1;HR,2B
+Andy Ibáñez;/players/i/ibanean01.shtml;DH;4;1;3;2;0;0;4;.214;.214;.214;.429;12;8;0.023; 0.17;0.024;-0.001; 0.01%; 0.12; 2.0;;;
+Michael Lorenzen;/players/l/lorenmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;5;1;
+Tyler Holton;/players/h/holtoty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jason Foley;/players/f/foleyja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Spencer Torkelson (5, off Max Scherzer); Eric Haase (4, off John Curtiss).
+
+
+HR: Eric Haase (2, off Max Scherzer, 2nd inn, 0 on, 1 out to Deep LF); Matt Vierling (2, off Max Scherzer, 4th inn, 1 on, 0 outs to Deep LF-CF).
+
+
+SF: Nick Maton (1, off Max Scherzer).
+
+
+TB: Eric Haase 6; Matt Vierling 4; Andy Ibáñez 3; Spencer Torkelson 3; Riley Greene 2; Akil Baddoo; Zach McKinstry.
+
+
+GIDP: Javier Báez (5).
+
+
+RBI: Andy Ibáñez 2 (2); Matt Vierling 2 (10); Spencer Torkelson (12); Eric Haase (11); Riley Greene (8); Nick Maton (14).
+
+
+2-out RBI: Andy Ibáñez 2; Spencer Torkelson.
+
+
+Team LOB: 5.
+With RISP: 2 for 5.
+
+Batting away
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;4;0;1;0;0;1;4;.304;.398;.438;.836;17;10;-0.054; 0.69;0.009;-0.063;-0.03%; 0.72; -0.4;4;0;2B
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;0;1;0;0;0;4;.217;.321;.443;.764;11;8;-0.056; 0.56;0.000;-0.056;-0.04%; 0.58; -0.9;0;0;
+Jeff McNeil;/players/m/mcneije01.shtml;RF;3;0;0;0;1;0;4;.294;.408;.422;.830;15;8;-0.017; 0.43;0.019;-0.036;-0.01%; 0.45; -0.3;6;0;
+Pete Alonso;/players/a/alonspe01.shtml;1B;3;1;1;0;1;1;4;.250;.323;.550;.873;14;9;0.038; 0.66;0.076;-0.038; 0.02%; 0.69; -0.3;2;1;
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;4;0;1;1;0;0;4;.271;.411;.390;.801;17;12;0.076; 0.80;0.116;-0.039; 0.05%; 0.84; 0.6;;;2B
+Mark Canha;/players/c/canhama01.shtml;LF;4;0;1;0;0;0;4;.229;.319;.385;.704;12;10;-0.020; 0.78;0.039;-0.059;-0.01%; 0.81; -0.4;4;0;
+Brett Baty;/players/b/batybr01.shtml;3B;3;0;0;0;0;0;3;.311;.367;.489;.856;8;7;-0.089; 1.24;0.000;-0.089;-0.06%; 1.30; -1.0;0;1;
+Luis Guillorme;/players/g/guilllu01.shtml;2B;3;0;0;0;0;0;3;.217;.321;.239;.560;15;11;-0.086; 1.07;0.000;-0.086;-0.05%; 1.12; -0.9;2;1;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;3;0;0;0;0;0;3;.209;.227;.302;.530;8;6;0.017; 0.53;0.036;-0.019; 0.01%; 0.55; -0.1;5;0;
+Max Scherzer;/players/s/scherma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Zach Muckenhirn;/players/m/muckeza01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+José Butto;/players/b/buttojo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+John Curtiss;/players/c/curtijo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Daniel Vogelbach (4, off Michael Lorenzen); Brandon Nimmo (7, off Tyler Holton).
+
+
+TB: Daniel Vogelbach 2; Brandon Nimmo 2; Mark Canha; Pete Alonso; Francisco Lindor.
+
+
+RBI: Daniel Vogelbach (12).
+
+
+Team LOB: 5.
+With RISP: 0 for 7.
+
+Pitching home
+Michael Lorenzen;/players/l/lorenmi01.shtml; W (1-1); 7 ;4;1;1;2;1;0;5.14;26;96;67;39;6;22;12;11;4;0;64;;;0.177; 0.89; 0.07%; 0.58; 2.6
+Tyler Holton;/players/h/holtoty01.shtml;Tyler Holton; 1 ;1;0;0;0;0;0;1.69;4;13;8;5;1;2;2;2;1;0;;0;0;0.012; 0.24; 0.01%; 0.16; 0.5
+Jason Foley;/players/f/foleyja01.shtml;Jason Foley; 1 ;0;0;0;0;1;0;1.32;3;8;6;2;0;4;0;2;1;0;;0;0;0.001; 0.01; 0.00%; 0.01; 0.5
+
+Pitching away
+Max Scherzer;/players/s/scherma01.shtml; L (2-2); 3.1;8;6;6;1;3;2;5.56;19;75;53;32;10;11;2;13;4;0;22;;;-0.319; 0.70;-0.20%; 0.73; -4.1
+Zach Muckenhirn;/players/m/muckeza01.shtml;Zach Muckenhirn; 1.2;1;0;0;0;0;0;0.00;5;10;8;7;1;0;2;3;2;0;;2;1;0.004; 0.25; 0.00%; 0.26; 0.7
+José Butto;/players/b/buttojo01.shtml;José Butto; 2.1;1;1;1;1;2;0;3.00;9;42;25;16;4;5;1;5;1;0;;0;0;0.009; 0.06; 0.01%; 0.06; 1.0
+John Curtiss;/players/c/curtijo02.shtml;John Curtiss; 0.2;2;1;1;0;0;0;4.85;4;13;8;6;0;2;2;2;0;0;;1;1;-0.004; 0.03;-0.00%; 0.03; -1.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Gabe Morales, 1B - Adam Beck, 2B - Dan Iassogna, 3B - Brian Walsh, LF - (none), RF - (none).
+Time of Game: 2:18.
+Attendance: 16,734.
+Field Condition: Unknown.
+Start Time Weather: 52° F, Wind 14mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Jeff McNeil;/players/m/mcneije01.shtml;RF
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+6;Mark Canha;/players/c/canhama01.shtml;LF
+7;Brett Baty;/players/b/batybr01.shtml;3B
+8;Luis Guillorme;/players/g/guilllu01.shtml;2B
+9;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+; Max Scherzer;/players/s/scherma01.shtml;P
+Tigers
+1;Zach McKinstry;/players/m/mckinza01.shtml;2B
+2;Riley Greene;/players/g/greenri03.shtml;CF
+3;Javier Báez;/players/b/baezja01.shtml;SS
+4;Nick Maton;/players/m/matonni01.shtml;3B
+5;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+6;Akil Baddoo;/players/b/baddoak01.shtml;LF
+7;Matt Vierling;/players/v/vierlma01.shtml;RF
+8;Eric Haase;/players/h/haaseer01.shtml;C
+9;Andy Ibáñez;/players/i/ibanean01.shtml;DH
+; Michael Lorenzen;/players/l/lorenmi01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t4;0-3;0;1--;4,(0-2) CFFX;R;NYM;Daniel Vogelbach;Michael Lorenzen;-12%;66%;Double to RF (Line Drive to Deep RF Line); Alonso Scores
+b4;3-1;0;1--;3,(1-1) L1BX;RR;DET;Matt Vierling;Max Scherzer;10%;91%;Home Run (Fly Ball to Deep LF-CF); Baddoo Scores
+b1;1-0;2;1--;2,(0-1) C1X;R;DET;Spencer Torkelson;Max Scherzer;10%;72%;Double to CF (Fly Ball to Deep CF); Greene Scores
+b2;2-0;1;---;2,(0-1) CX;R;DET;Eric Haase;Max Scherzer;8%;81%;Home Run (Fly Ball to Deep LF)
+b1;0-0;0;1--;3,(0-2) CFX;;DET;Riley Greene;Max Scherzer;5%;64%;Single to 1B (Ground Ball); McKinstry to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Mets Batting, Tied 0-0, Tigers' Michael Lorenzen facing 1-2-3 
+t1;0-0;0;---;6,(3-2) CBBBCX;O;NYM;Brandon Nimmo;Michael Lorenzen;2%;52%;Flyball: LF (Deep LF Line)
+t1;0-0;1;---;2,(1-0) BX;O;NYM;Francisco Lindor;Michael Lorenzen;2%;54%;Single to RF (Line Drive to Deep RF Line); Lindor out at 2B/RF-SS
+t1;0-0;2;---;5,(1-2) FBSFX;O;NYM;Jeff McNeil;Michael Lorenzen;1%;55%;Groundout: C-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Mets 0, Tigers 0.
+Bottom of the 1st, Tigers Batting, Tied 0-0, Mets' Max Scherzer facing 1-2-3 
+b1;0-0;0;---;5,(3-1) FBBBB;;DET;Zach McKinstry;Max Scherzer;3%;58%;Walk
+b1;0-0;0;1--;3,(0-2) CFX;;DET;Riley Greene;Max Scherzer;5%;64%;Single to 1B (Ground Ball); McKinstry to 2B
+b1;0-0;0;12-;3,(0-2) FSX;O;DET;Javier Báez;Max Scherzer;-2%;61%;Flyball: RF (Deep RF); McKinstry to 3B
+b1;0-0;1;1-3;3,(1-1) SBX;RO;DET;Nick Maton;Max Scherzer;1%;62%;Flyball: LF/Sacrifice Fly (LF-CF); McKinstry Scores
+b1;1-0;2;1--;2,(0-1) C1X;R;DET;Spencer Torkelson;Max Scherzer;10%;72%;Double to CF (Fly Ball to Deep CF); Greene Scores
+b1;2-0;2;-2-;6,(3-2) BSBBFX;O;DET;Akil Baddoo;Max Scherzer;-2%;70%;Flyball: LF (Deep LF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Mets 0, Tigers 2.
+Top of the 2nd, Mets Batting, Behind 0-2, Tigers' Michael Lorenzen facing 4-5-6 
+t2;0-2;0;---;3,(1-1) BCX;;NYM;Pete Alonso;Michael Lorenzen;-4%;66%;Single to CF (Ground Ball thru Front of Home)
+t2;0-2;0;1--;3,(0-2) CCX;O;NYM;Daniel Vogelbach;Michael Lorenzen;4%;70%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Vogelbach to 1B
+t2;0-2;1;1--;4,(1-2) BCFX;;NYM;Mark Canha;Michael Lorenzen;-4%;66%;Single to RF (Line Drive); Vogelbach to 2B
+t2;0-2;1;12-;4,(1-2) CSBX;O;NYM;Brett Baty;Michael Lorenzen;5%;70%;Flyball: LF (Deep LF)
+t2;0-2;2;12-;5,(1-2) FBCFX;O;NYM;Luis Guillorme;Michael Lorenzen;4%;75%;Flyball: CF (Short LF-CF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Mets 0, Tigers 2.
+Bottom of the 2nd, Tigers Batting, Ahead 2-0, Mets' Max Scherzer facing 7-8-9 
+b2;2-0;0;---;1,(0-0) X;O;DET;Matt Vierling;Max Scherzer;-2%;73%;Flyball: RF (Short RF)
+b2;2-0;1;---;2,(0-1) CX;R;DET;Eric Haase;Max Scherzer;8%;81%;Home Run (Fly Ball to Deep LF)
+b2;3-0;1;---;4,(1-2) CSBX;;DET;Andy Ibáñez;Max Scherzer;1%;82%;Single to LF (Line Drive to Short LF-CF)
+b2;3-0;1;1--;9,(3-2) BBCBF.>F>F>F>X;O;DET;Zach McKinstry;Max Scherzer;-2%;81%;Lineout: CF (Deep CF)
+b2;3-0;2;1--;2,(0-1) SX;O;DET;Riley Greene;Max Scherzer;-1%;80%;Flyball: LF (Short LF-CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Mets 0, Tigers 3.
+Top of the 3rd, Mets Batting, Behind 0-3, Tigers' Michael Lorenzen facing 9-1-2 
+t3;0-3;0;---;1,(0-0) X;;NYM;Francisco Alvarez;Michael Lorenzen;-4%;76%;Reached on E5 (Ground Ball to Short LF); Alvarez to 1B
+t3;0-3;0;1--;3,(1-1) F.BX;O;NYM;Brandon Nimmo;Michael Lorenzen;3%;79%;Foul Popfly: LF (Deep LF into Foul Terr.)
+t3;0-3;1;1--;3,(0-2) CFX;O;NYM;Francisco Lindor;Michael Lorenzen;3%;82%;Flyball: LF (Deep LF Line)
+t3;0-3;2;1--;5,(2-2) BBSFX;O;NYM;Jeff McNeil;Michael Lorenzen;2%;84%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Mets 0, Tigers 3.
+Bottom of the 3rd, Tigers Batting, Ahead 3-0, Mets' Max Scherzer facing 3-4-5 
+b3;3-0;0;---;5,(1-2) SBFFX;O;DET;Javier Báez;Max Scherzer;-1%;83%;Flyball: CF (Deep CF)
+b3;3-0;1;---;5,(1-2) BCS.FC;O;DET;Nick Maton;Max Scherzer;-1%;82%;Strikeout Looking
+b3;3-0;2;---;4,(1-2) CT.BS;O;DET;Spencer Torkelson;Max Scherzer;-1%;81%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Tigers 3.
+Top of the 4th, Mets Batting, Behind 0-3, Tigers' Michael Lorenzen facing 4-5-6 
+t4;0-3;0;---;6,(3-2) CBBCB.B;;NYM;Pete Alonso;Michael Lorenzen;-4%;78%;Walk
+t4;0-3;0;1--;4,(0-2) CFFX;R;NYM;Daniel Vogelbach;Michael Lorenzen;-12%;66%;Double to RF (Line Drive to Deep RF Line); Alonso Scores
+t4;1-3;0;-2-;5,(1-2) CFBFX;O;NYM;Mark Canha;Michael Lorenzen;5%;71%;Groundout: SS-1B
+t4;1-3;1;-2-;2,(0-1) SX;O;NYM;Brett Baty;Michael Lorenzen;4%;75%;Groundout: 1B-P (2B-1B); Vogelbach to 3B
+t4;1-3;2;--3;2,(0-1) CX;O;NYM;Luis Guillorme;Michael Lorenzen;4%;79%;Flyball: LF
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Mets 1, Tigers 3.
+Bottom of the 4th, Tigers Batting, Ahead 3-1, Mets' Max Scherzer facing 6-7-8 
+b4;3-1;0;---;3,(1-1) BCX;;DET;Akil Baddoo;Max Scherzer;2%;81%;Single to LF (Line Drive)
+b4;3-1;0;1--;3,(1-1) L1BX;RR;DET;Matt Vierling;Max Scherzer;10%;91%;Home Run (Fly Ball to Deep LF-CF); Baddoo Scores
+b4;5-1;0;---;6,(2-2) CS.BBFC;O;DET;Eric Haase;Max Scherzer;-1%;91%;Strikeout Looking
+b4;5-1;1;---;2,(0-1) SX;;DET;Andy Ibáñez;Max Scherzer;1%;91%;Single to LF (Line Drive to LF Line)
+b4;5-1;1;1--;7,(3-2) FBF1BFB>X;;DET;Zach McKinstry;Max Scherzer;2%;93%;Single to CF (Ground Ball thru SS-2B); Ibáñez to 3B
+;;;;;;;;;Zach Muckenhirn replaces Max Scherzer pitching
+b4;5-1;1;1-3;1,(0-0) .X;R;DET;Riley Greene;Zach Muckenhirn;2%;95%;Single to RF (Line Drive to Short RF); Ibáñez Scores; McKinstry to 2B
+b4;6-1;1;12-;2,(0-1) FX;OO;DET;Javier Báez;Zach Muckenhirn;-2%;94%;Ground Ball Double Play: P-2B-1B (Weak SS-2B)
+;;;;;;;;;3 runs, 5 hits, 0 errors, 1 LOB. Mets 1, Tigers 6.
+Top of the 5th, Mets Batting, Behind 1-6, Tigers' Michael Lorenzen facing 9-1-2 
+t5;1-6;0;---;2,(0-1) CX;O;NYM;Francisco Alvarez;Michael Lorenzen;1%;95%;Groundout: 3B-1B
+t5;1-6;1;---;4,(1-2) CFBC;O;NYM;Brandon Nimmo;Michael Lorenzen;1%;96%;Strikeout Looking
+t5;1-6;2;---;3,(1-1) BSX;O;NYM;Francisco Lindor;Michael Lorenzen;0%;96%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 1, Tigers 6.
+Bottom of the 5th, Tigers Batting, Ahead 6-1, Mets' Zach Muckenhirn facing 4-5-6 
+b5;6-1;0;---;2,(0-1) SX;O;DET;Nick Maton;Zach Muckenhirn;0%;96%;Groundout: 1B-P
+b5;6-1;1;---;3,(2-0) BBX;O;DET;Spencer Torkelson;Zach Muckenhirn;0%;95%;Flyball: RF (Deep CF-RF)
+b5;6-1;2;---;2,(0-1) FX;O;DET;Akil Baddoo;Zach Muckenhirn;0%;95%;Lineout: 2B (Deep 2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 1, Tigers 6.
+Top of the 6th, Mets Batting, Behind 1-6, Tigers' Michael Lorenzen facing 3-4-5 
+t6;1-6;0;---;4,(3-0) BBBB;;NYM;Jeff McNeil;Michael Lorenzen;-2%;93%;Walk
+t6;1-6;0;1--;2,(0-1) *SX;OO;NYM;Pete Alonso;Michael Lorenzen;4%;97%;Double Play: Lineout: P (P's Left); McNeil out at 1B/P-1B
+t6;1-6;2;---;6,(3-2) BBBCC.X;O;NYM;Daniel Vogelbach;Michael Lorenzen;0%;97%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 1, Tigers 6.
+Bottom of the 6th, Tigers Batting, Ahead 6-1, Mets' José Butto facing 7-8-9 
+;;;;;;;;;José Butto replaces Zach Muckenhirn pitching
+b6;6-1;0;---;4,(1-2) .CBS.X;O;DET;Matt Vierling;José Butto;0%;97%;Groundout: 3B-1B (SS-3B Hole)
+b6;6-1;1;---;1,(0-0) X;O;DET;Eric Haase;José Butto;0%;97%;Lineout: LF
+b6;6-1;2;---;4,(3-0) BBBX;O;DET;Andy Ibáñez;José Butto;0%;97%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 1, Tigers 6.
+Top of the 7th, Mets Batting, Behind 1-6, Tigers' Michael Lorenzen facing 6-7-8 
+t7;1-6;0;---;2,(0-1) CX;O;NYM;Mark Canha;Michael Lorenzen;1%;98%;Groundout: 3B-1B (SS-3B Hole)
+t7;1-6;1;---;2,(0-1) CX;O;NYM;Brett Baty;Michael Lorenzen;1%;98%;Groundout: 3B-1B (SS-3B Hole)
+t7;1-6;2;---;8,(3-2) BFCFFBBX;O;NYM;Luis Guillorme;Michael Lorenzen;0%;99%;Groundout: P unassisted (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 1, Tigers 6.
+Bottom of the 7th, Tigers Batting, Ahead 6-1, Mets' José Butto facing 1-2-3 
+b7;6-1;0;---;5,(3-1) BCBBB;;DET;Zach McKinstry;José Butto;0%;99%;Walk
+b7;6-1;0;1--;5,(2-2) B+1CF1BS;O;DET;Riley Greene;José Butto;0%;99%;Strikeout Swinging
+b7;6-1;1;1--;5,(0-2) C1F>FFX;O;DET;Javier Báez;José Butto;0%;98%;Flyball: CF
+b7;6-1;2;1--;6,(3-2) BBFBF>X;O;DET;Nick Maton;José Butto;0%;98%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mets 1, Tigers 6.
+Top of the 8th, Mets Batting, Behind 1-6, Tigers' Tyler Holton facing 9-1-2 
+;;;;;;;;;Tyler Holton replaces Michael Lorenzen pitchingZack Short replaces Zach McKinstry playing 2B batting 1st
+t8;1-6;0;---;5,(2-2) ..BFS.BX;O;NYM;Francisco Alvarez;Tyler Holton;1%;99%;Groundout: 2B-1B
+t8;1-6;1;---;4,(2-1) CBBX;;NYM;Brandon Nimmo;Tyler Holton;-1%;98%;Double to CF (Line Drive to Deep CF)
+t8;1-6;1;-2-;3,(1-1) CBX;O;NYM;Francisco Lindor;Tyler Holton;1%;99%;Flyball: CF (Deep CF)
+t8;1-6;2;-2-;1,(0-0) X;O;NYM;Jeff McNeil;Tyler Holton;1%;99%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 1, Tigers 6.
+Bottom of the 8th, Tigers Batting, Ahead 6-1, Mets' José Butto facing 5-6-7 
+b8;6-1;0;---;6,(1-2) CFFFBX;;DET;Spencer Torkelson;José Butto;0%;100%;Single to LF (Fly Ball to Short LF)
+b8;6-1;0;1--;6,(3-2) BBSBST;O;DET;Akil Baddoo;José Butto;0%;100%;Strikeout Swinging
+;;;;;;;;;John Curtiss replaces José Butto pitching
+b8;6-1;1;1--;2,(1-0) .BX;O;DET;Matt Vierling;John Curtiss;0%;99%;Flyball: RF (Short RF Line)
+b8;6-1;2;1--;4,(2-1) BBFX;;DET;Eric Haase;John Curtiss;0%;100%;Double to LF (Ground Ball); Torkelson to 3B
+b8;6-1;2;-23;2,(0-1) CX;RR;DET;Andy Ibáñez;John Curtiss;0%;100%;Single to LF (Ground Ball); Torkelson Scores; Haase Scores
+b8;8-1;2;1--;5,(2-2) CFBB1X;O;DET;Zack Short;John Curtiss;0%;100%;Flyball: RF (RF Line)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Mets 1, Tigers 8.
+Top of the 9th, Mets Batting, Behind 1-8, Tigers' Jason Foley facing 4-5-6 
+;;;;;;;;;Jason Foley replaces Tyler Holton pitching
+t9;1-8;0;---;3,(0-2) .CCC;O;NYM;Pete Alonso;Jason Foley;0%;100%;Strikeout Looking
+t9;1-8;1;---;4,(2-1) BCBX;O;NYM;Daniel Vogelbach;Jason Foley;0%;100%;Lineout: 3B (SS-3B Hole)
+t9;1-8;2;---;1,(0-0) X;O;NYM;Mark Canha;Jason Foley;0%;100%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 1, Tigers 8.

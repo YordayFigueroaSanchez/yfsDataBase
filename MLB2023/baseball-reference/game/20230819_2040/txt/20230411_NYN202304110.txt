@@ -1,0 +1,278 @@
+
+Scorebox Meta
+20230411
+7:10 p.m. Local
+30769
+Citi Field
+171
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/SDP-2023.png;/teams/SDP/2023.shtml;0;0;0;0;2;0;0;0;2;4;9;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;1;0;0;0;0;1;2;5;0
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;2;0;0;0;2;1;4;.188;.413;.219;.632;24;11;0.021; 1.67;0.079;-0.058; 0.01%; 1.74; 0.2;1;0;
+Starling Marte;/players/m/martest01.shtml;RF;4;0;1;0;0;0;4;.297;.366;.459;.825;10;7;-0.107; 2.07;0.053;-0.161;-0.07%; 2.15; -0.1;2;0;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;3;1;1;0;1;2;4;.225;.373;.400;.773;22;13;-0.030; 2.10;0.112;-0.142;-0.02%; 2.18; 0.7;1;3;
+Pete Alonso;/players/a/alonspe01.shtml;1B;3;1;1;0;1;1;4;.222;.314;.578;.892;18;11;-0.048; 1.66;0.153;-0.201;-0.03%; 1.73; -0.6;9;1;
+Mark Canha;/players/c/canhama01.shtml;DH;3;0;0;1;0;1;4;.214;.320;.381;.701;20;15;-0.191; 1.86;0.031;-0.222;-0.12%; 1.94; -1.9;;;SF,GDP
+Jeff McNeil;/players/m/mcneije01.shtml;2B;3;0;1;0;1;0;4;.256;.360;.349;.709;16;8;0.051; 0.86;0.085;-0.034; 0.03%; 0.90; 0.2;1;5;
+Tommy Pham;/players/p/phamth01.shtml;LF;4;0;1;1;0;0;4;.231;.286;.385;.670;20;12;-0.006; 1.65;0.097;-0.103;-0.00%; 1.71; 0.4;0;0;
+Eduardo Escobar;/players/e/escobed01.shtml;3B;2;0;0;0;1;0;3;.111;.154;.222;.376;11;4;0.062; 1.29;0.098;-0.035; 0.04%; 1.35; 0.1;0;1;
+Tim Locastro;/players/l/locasti01.shtml;PR;0;0;0;0;0;0;0;.000;.375;.000;.375;;;0.075; 3.93;0.075;0.000; 0.05%; 4.09; 0.2;;;SB
+Luis Guillorme;/players/g/guilllu01.shtml;3B;0;0;0;0;0;0;0;.211;.250;.211;.461;;;;;;;;;;1;0;
+Tomás Nido;/players/n/nidoto01.shtml;PH;1;0;0;0;0;0;1;.150;.143;.150;.293;3;3;-0.054; 4.71;0.000;-0.054;-0.03%; 4.91; -0.3;;;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;4;0;0;0;0;3;4;.125;.125;.125;.250;21;13;-0.304; 2.44;0.000;-0.304;-0.19%; 2.54; -1.4;9;0;
+David Peterson;/players/p/peterda01.shtml;P;;;;;;;;;;;;;;;;;;;;;3;0;
+Denyi Reyes;/players/r/reyesde02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brooks Raley;/players/r/raleybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dennis Santana;/players/s/santade01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+SF: Mark Canha (1, off Ryan Weathers).
+
+
+TB: Tommy Pham; Jeff McNeil; Pete Alonso; Starling Marte; Francisco Lindor.
+
+
+GIDP: Mark Canha (1).
+
+
+RBI: Tommy Pham (4); Mark Canha (4).
+
+
+Team LOB: 7.
+With RISP: 1 for 8.
+
+Batting away
+Xander Bogaerts;/players/b/bogaexa01.shtml;SS;5;1;2;2;0;0;5;.333;.426;.667;1.093;16;13;0.068; 1.18;0.148;-0.080; 0.04%; 1.20; 1.2;0;3;HR
+Manny Machado;/players/m/machama01.shtml;3B;5;0;1;2;0;0;5;.271;.294;.333;.627;28;19;0.192; 0.99;0.248;-0.056; 0.12%; 1.01; 1.1;1;3;2B
+Juan Soto;/players/s/sotoju01.shtml;LF;3;0;0;0;1;2;4;.190;.358;.381;.739;20;12;-0.075; 0.92;0.012;-0.087;-0.05%; 0.94; -0.7;2;0;
+Nelson Cruz;/players/c/cruzne02.shtml;DH;4;0;0;0;0;2;4;.292;.320;.625;.945;11;9;-0.084; 0.81;0.000;-0.084;-0.05%; 0.82; -0.8;;;
+Jake Cronenworth;/players/c/croneja01.shtml;1B;2;0;1;0;1;0;4;.205;.333;.359;.692;13;7;0.047; 0.66;0.065;-0.018; 0.03%; 0.67; 0.5;11;0;HBP
+Ha-Seong Kim;/players/k/kimha01.shtml;2B;3;0;1;0;0;1;4;.289;.357;.553;.910;16;11;-0.046; 0.96;0.026;-0.072;-0.03%; 0.97; -0.5;2;3;SB,SH
+Luis Campusano;/players/c/campulu01.shtml;C;4;2;3;0;0;0;4;.267;.250;.333;.583;10;6;0.111; 1.15;0.149;-0.039; 0.07%; 1.17; 1.2;8;0;2B
+Trent Grisham;/players/g/grishtr01.shtml;CF;4;0;0;0;0;1;4;.205;.300;.455;.755;15;13;-0.225; 1.45;0.000;-0.225;-0.14%; 1.47; -2.2;2;0;GDP
+Brandon Dixon;/players/d/dixonbr01.shtml;RF;3;1;1;0;0;2;3;.333;.333;.333;.667;10;8;0.008; 1.14;0.052;-0.044; 0.01%; 1.15; -0.0;1;0;
+José Azocar;/players/a/azocajo01.shtml;RF;1;0;0;0;0;1;1;.211;.250;.263;.513;7;4;-0.026; 0.92;0.000;-0.026;-0.02%; 0.93; -0.4;0;0;
+Ryan Weathers;/players/w/weathry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Brent Honeywell Jr.;/players/h/honeybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Luis García;/players/g/garcilu03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Steven Wilson;/players/w/wilsost02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Josh Hader;/players/h/haderjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Manny Machado (3, off David Peterson); Luis Campusano (1, off Dennis Santana).
+
+
+HR: Xander Bogaerts (4, off Dennis Santana, 9th inn, 1 on, 2 outs to Deep LF Line).
+
+
+SH: Ha-Seong Kim (1, off David Peterson).
+
+
+HBP: Jake Cronenworth (1, by Brooks Raley).
+
+
+TB: Xander Bogaerts 5; Luis Campusano 4; Manny Machado 2; Brandon Dixon; Jake Cronenworth; Ha-Seong Kim.
+
+
+GIDP: Trent Grisham (1).
+
+
+RBI: Manny Machado 2 (5); Xander Bogaerts 2 (10).
+
+
+2-out RBI: Manny Machado 2; Xander Bogaerts 2.
+
+
+Team LOB: 7.
+With RISP: 3 for 9.
+
+Pitching home
+David Peterson;/players/p/peterda01.shtml; L (0-2); 5.2;6;2;2;2;6;0;4.91;24;89;63;39;10;14;9;7;4;0;53;;;0.018; 1.17; 0.01%; 1.22; 0.8
+Denyi Reyes;/players/r/reyesde02.shtml;Denyi Reyes; 1.1;1;0;0;0;2;0;0.00;5;21;16;8;5;3;3;0;0;0;;1;0;0.082; 0.91; 0.05%; 0.94; 0.7
+Brooks Raley;/players/r/raleybr01.shtml;Brooks Raley; 1 ;0;0;0;0;0;0;9.00;4;15;9;7;0;2;2;1;0;0;;0;0;0.052; 0.74; 0.03%; 0.78; 0.5
+Dennis Santana;/players/s/santade01.shtml;Dennis Santana; 1 ;2;2;2;0;1;1;8.44;5;21;14;8;3;3;1;3;1;0;;0;0;-0.122; 0.69;-0.08%; 0.72; -1.5
+
+Pitching away
+Ryan Weathers;/players/w/weathry01.shtml; W (1-0); 5 ;3;1;1;2;3;0;2.70;18;89;55;31;7;17;8;5;3;0;58;;;0.150; 1.18; 0.09%; 1.19; 1.5
+Brent Honeywell Jr.;/players/h/honeybr01.shtml; H (1); 1 ;0;0;0;0;1;0;1.35;3;12;6;3;2;1;1;1;0;0;;0;0;0.088; 1.16; 0.05%; 1.17; 0.5
+Luis García;/players/g/garcilu03.shtml; H (4); 1 ;1;0;0;0;0;0;7.94;4;12;8;5;1;2;2;2;1;0;;0;0;0.109; 1.52; 0.07%; 1.54; 0.5
+Steven Wilson;/players/w/wilsost02.shtml; H (3); 1 ;0;0;0;2;2;0;1.23;5;21;12;4;5;3;1;0;0;0;;0;0;0.142; 3.85; 0.09%; 3.90; 0.5
+Josh Hader;/players/h/haderjo01.shtml; S (4); 1 ;1;1;1;2;2;0;1.80;6;31;16;8;6;2;2;0;0;0;;0;0;0.042; 2.72; 0.03%; 2.76; -0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Brooks Raley (1; Jake Cronenworth).
+IBB: None.
+Pickoffs: Ryan Weathers (1; Pete Alonso, 1st base).
+
+Balks: None.
+WP: None.
+HBP: Brooks Raley (1; Jake Cronenworth).
+IBB: None.
+Pickoffs: Ryan Weathers (1; Pete Alonso, 1st base).
+
+section_content
+Umpires: HP - Will Little, 1B - Ryan Additon, 2B - Dan Merzel, 3B - Lance Barksdale, LF - (none), RF - (none).
+Time of Game: 2:51.
+Attendance: 30,769.
+Field Condition: Unknown.
+Start Time Weather: 69° F, Wind 8mph out to Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Padres
+1;Xander Bogaerts;/players/b/bogaexa01.shtml;SS
+2;Manny Machado;/players/m/machama01.shtml;3B
+3;Juan Soto;/players/s/sotoju01.shtml;LF
+4;Nelson Cruz;/players/c/cruzne02.shtml;DH
+5;Jake Cronenworth;/players/c/croneja01.shtml;1B
+6;Ha-Seong Kim;/players/k/kimha01.shtml;2B
+7;Luis Campusano;/players/c/campulu01.shtml;C
+8;Trent Grisham;/players/g/grishtr01.shtml;CF
+9;Brandon Dixon;/players/d/dixonbr01.shtml;RF
+; Ryan Weathers;/players/w/weathry01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Starling Marte;/players/m/martest01.shtml;RF
+3;Francisco Lindor;/players/l/lindofr01.shtml;SS
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Mark Canha;/players/c/canhama01.shtml;DH
+6;Jeff McNeil;/players/m/mcneije01.shtml;2B
+7;Tommy Pham;/players/p/phamth01.shtml;LF
+8;Eduardo Escobar;/players/e/escobed01.shtml;3B
+9;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+; David Peterson;/players/p/peterda01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t5;0-1;2;-23;7,(2-2) BCSBFFX;RR;SDP;Manny Machado;David Peterson;25%;62%;Double to LF (Line Drive to Deep 3B); Campusano Scores; Dixon Scores
+b9;2-4;2;-23;7,(3-2) .BBSSFBS;O;NYM;Francisco Alvarez;Josh Hader;15%;100%;Strikeout Swinging
+b1;0-0;1;123;6,(1-2) SS.FBFX;OO;NYM;Mark Canha;Ryan Weathers;14%;50%;Ground Ball Double Play: 2B-1B (SS-2B)
+t9;2-1;2;-2-;3,(1-1) CBX;RR;SDP;Xander Bogaerts;Dennis Santana;13%;96%;Home Run (Fly Ball to Deep LF Line); Campusano Scores
+b8;1-2;2;12-;5,(1-2) SFFBS;O;NYM;Francisco Lindor;Steven Wilson;12%;84%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Padres Batting, Tied 0-0, Mets' David Peterson facing 1-2-3 
+t1;0-0;0;---;2,(0-1) FX;O;SDP;Xander Bogaerts;David Peterson;-2%;48%;Groundout: SS-1B
+t1;0-0;1;---;8,(3-2) BSFFBFBX;O;SDP;Manny Machado;David Peterson;-2%;46%;Lineout: RF
+t1;0-0;2;---;7,(3-2) CTBBFBB;;SDP;Juan Soto;David Peterson;1%;47%;Walk
+t1;0-0;2;1--;3,(0-2) CS.S;O;SDP;Nelson Cruz;David Peterson;-2%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Padres' Ryan Weathers facing 1-2-3 
+b1;0-0;0;---;5,(3-1) CBBBB;;NYM;Brandon Nimmo;Ryan Weathers;-4%;42%;Walk
+b1;0-0;0;1--;1,(0-0) X;;NYM;Starling Marte;Ryan Weathers;-5%;36%;Single to P (Bunt); Nimmo to 2B
+b1;0-0;0;12-;6,(3-2) C*BBCBB;;NYM;Francisco Lindor;Ryan Weathers;-7%;29%;Walk; Nimmo to 3B; Marte to 2B
+b1;0-0;0;123;8,(3-2) CC*BFB.FBS;O;NYM;Pete Alonso;Ryan Weathers;6%;36%;Strikeout Swinging
+b1;0-0;1;123;6,(1-2) SS.FBFX;OO;NYM;Mark Canha;Ryan Weathers;14%;50%;Ground Ball Double Play: 2B-1B (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Padres 0, Mets 0.
+Top of the 2nd, Padres Batting, Tied 0-0, Mets' David Peterson facing 5-6-7 
+t2;0-0;0;---;3,(1-1) CBX;;SDP;Jake Cronenworth;David Peterson;4%;54%;Single to LF (Ground Ball)
+t2;0-0;0;1--;1,(0-0) X;O;SDP;Ha-Seong Kim;David Peterson;-2%;52%;Bunt Groundout: P unassisted/Sacrifice; Cronenworth to 2B
+t2;0-0;1;-2-;2,(1-0) *BX;;SDP;Luis Campusano;David Peterson;5%;57%;Single to 2B (Ground Ball); Cronenworth to 3B
+t2;0-0;1;1-3;3,(1-1) BCX;OO;SDP;Trent Grisham;David Peterson;-12%;45%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Padres 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Padres' Ryan Weathers facing 6-7-8 
+b2;0-0;0;---;4,(1-2) BFFX;O;NYM;Jeff McNeil;Ryan Weathers;2%;47%;Groundout: SS-1B
+b2;0-0;1;---;7,(3-2) CBCBFBX;O;NYM;Tommy Pham;Ryan Weathers;2%;49%;Groundout: SS-1B
+b2;0-0;2;---;1,(0-0) X;O;NYM;Eduardo Escobar;Ryan Weathers;1%;50%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Mets 0.
+Top of the 3rd, Padres Batting, Tied 0-0, Mets' David Peterson facing 9-1-2 
+t3;0-0;0;---;3,(0-2) FFS;O;SDP;Brandon Dixon;David Peterson;-3%;47%;Strikeout Swinging
+t3;0-0;1;---;2,(0-1) CX;O;SDP;Xander Bogaerts;David Peterson;-2%;46%;Groundout: 3B-1B (SS-3B Hole)
+t3;0-0;2;---;1,(0-0) X;O;SDP;Manny Machado;David Peterson;-1%;44%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Mets 0.
+Bottom of the 3rd, Mets Batting, Tied 0-0, Padres' Ryan Weathers facing 9-1-2 
+b3;0-0;0;---;6,(3-2) BBBCCX;O;NYM;Francisco Alvarez;Ryan Weathers;3%;47%;Groundout: 3B-1B (SS-3B Hole)
+b3;0-0;1;---;11,(3-2) BCSFFBFFFBS;O;NYM;Brandon Nimmo;Ryan Weathers;2%;49%;Strikeout Swinging
+b3;0-0;2;---;4,(2-1) FBBX;O;NYM;Starling Marte;Ryan Weathers;1%;50%;Lineout: 2B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Mets 0.
+Top of the 4th, Padres Batting, Tied 0-0, Mets' David Peterson facing 3-4-5 
+t4;0-0;0;---;3,(0-2) FF.C;O;SDP;Juan Soto;David Peterson;-3%;47%;Strikeout Looking
+t4;0-0;1;---;3,(0-2) SST;O;SDP;Nelson Cruz;David Peterson;-2%;45%;Strikeout Swinging
+t4;0-0;2;---;6,(3-2) FFBBBB;;SDP;Jake Cronenworth;David Peterson;2%;47%;Walk
+t4;0-0;2;1--;6,(3-2) 1BBC*SB>C;O;SDP;Ha-Seong Kim;David Peterson;-3%;44%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 0, Mets 0.
+Bottom of the 4th, Mets Batting, Tied 0-0, Padres' Ryan Weathers facing 3-4-5 
+b4;0-0;0;---;4,(1-2) CBCX;;NYM;Francisco Lindor;Ryan Weathers;-4%;40%;Single to LF (Line Drive to Deep LF Line)
+b4;0-0;0;1--;2,(0-1) T1X;;NYM;Pete Alonso;Ryan Weathers;-11%;29%;Single to RF (Line Drive to Short RF); Lindor to 3B
+b4;0-0;0;1-3;4,(1-2) BSFF1;O;NYM;Mark Canha;Ryan Weathers;9%;38%;Alonso Picked off 1B (P-1B)
+b4;0-0;1;--3;5,(1-2) BSFF1.X;RO;NYM;Mark Canha;Ryan Weathers;-3%;35%;Flyball: RF/Sacrifice Fly (Deep RF); Lindor Scores
+b4;1-0;2;---;5,(2-2) CBBFX;O;NYM;Jeff McNeil;Ryan Weathers;1%;36%;Groundout: 2B-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Padres 0, Mets 1.
+Top of the 5th, Padres Batting, Behind 0-1, Mets' David Peterson facing 7-8-9 
+t5;0-1;0;---;3,(1-1) BFX;;SDP;Luis Campusano;David Peterson;5%;41%;Single to LF (Line Drive to Deep LF Line)
+t5;0-1;0;1--;4,(0-2) FCFX;O;SDP;Trent Grisham;David Peterson;-5%;36%;Foul Popfly: P (3B-C into Foul Terr.)
+t5;0-1;1;1--;4,(2-1) TBBX;;SDP;Brandon Dixon;David Peterson;5%;42%;Single to LF (Ground Ball); Campusano to 2B
+t5;0-1;1;12-;5,(1-2) CFBFX;O;SDP;Xander Bogaerts;David Peterson;-4%;38%;Groundout: 1B unassisted (2B-1B); Campusano to 3B; Dixon to 2B
+t5;0-1;2;-23;7,(2-2) BCSBFFX;RR;SDP;Manny Machado;David Peterson;25%;62%;Double to LF (Line Drive to Deep 3B); Campusano Scores; Dixon Scores
+t5;2-1;2;-2-;5,(2-2) CFBBS;O;SDP;Juan Soto;David Peterson;-4%;59%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Padres 2, Mets 1.
+Bottom of the 5th, Mets Batting, Behind 1-2, Padres' Ryan Weathers facing 7-8-9 
+b5;1-2;0;---;4,(1-2) BCSX;O;NYM;Tommy Pham;Ryan Weathers;3%;62%;Groundout: 3B-1B (SS-3B Hole)
+b5;1-2;1;---;5,(3-1) BBBCX;O;NYM;Eduardo Escobar;Ryan Weathers;2%;65%;Groundout: 3B-1B (SS-3B Hole)
+b5;1-2;2;---;5,(2-2) CFBBC;O;NYM;Francisco Alvarez;Ryan Weathers;2%;66%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 2, Mets 1.
+Top of the 6th, Padres Batting, Ahead 2-1, Mets' David Peterson facing 4-5-6 
+t6;2-1;0;---;1,(0-0) X;O;SDP;Nelson Cruz;David Peterson;-2%;64%;Flyball: CF (Deep CF)
+t6;2-1;1;---;2,(0-1) CX;O;SDP;Jake Cronenworth;David Peterson;-2%;62%;Popfly: 2B (Deep 2B-1B)
+t6;2-1;2;---;5,(1-2) BCS.FX;;SDP;Ha-Seong Kim;David Peterson;1%;63%;Single to RF (Line Drive to Short RF)
+;;;;;;;;;Denyi Reyes replaces David Peterson pitching
+t6;2-1;2;1--;2,(1-0) .B1>S;;SDP;Luis Campusano;Denyi Reyes;1%;64%;Kim Steals 2B
+t6;2-1;2;-2-;3,(1-1) .B1>S.X;O;SDP;Luis Campusano;Denyi Reyes;-4%;61%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 2, Mets 1.
+Bottom of the 6th, Mets Batting, Behind 1-2, Padres' Brent Honeywell Jr. facing 1-2-3 
+;;;;;;;;;Brent Honeywell Jr. replaces Ryan Weathers pitching
+b6;1-2;0;---;3,(2-0) .BBX;O;NYM;Brandon Nimmo;Brent Honeywell Jr.;4%;65%;Groundout: 2B-1B
+b6;1-2;1;---;2,(1-0) BX;O;NYM;Starling Marte;Brent Honeywell Jr.;3%;67%;Flyball: CF (Deep CF-RF)
+b6;1-2;2;---;7,(3-2) BSBCFB.S;O;NYM;Francisco Lindor;Brent Honeywell Jr.;2%;69%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 2, Mets 1.
+Top of the 7th, Padres Batting, Ahead 2-1, Mets' Denyi Reyes facing 8-9-1 
+t7;2-1;0;---;5,(1-2) CSBFT;O;SDP;Trent Grisham;Denyi Reyes;-2%;67%;Strikeout Swinging
+t7;2-1;1;---;3,(0-2) CC*S;O;SDP;Brandon Dixon;Denyi Reyes;-2%;65%;Strikeout Swinging
+t7;2-1;2;---;4,(1-2) BSFX;;SDP;Xander Bogaerts;Denyi Reyes;1%;66%;Single to 3B (Ground Ball to Front of Home)
+t7;2-1;2;1--;6,(2-2) BFSBFX;O;SDP;Manny Machado;Denyi Reyes;-3%;64%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 2, Mets 1.
+Bottom of the 7th, Mets Batting, Behind 1-2, Padres' Luis García facing 4-5-6 
+;;;;;;;;;Luis García replaces Brent Honeywell Jr. pitchingJosé Azocar replaces Brandon Dixon playing RF batting 9th
+b7;1-2;0;---;2,(0-1) ..CX;O;NYM;Pete Alonso;Luis García;5%;69%;Lineout: CF (Deep CF)
+b7;1-2;1;---;2,(0-1) FX;O;NYM;Mark Canha;Luis García;4%;72%;Flyball: LF (Deep LF)
+b7;1-2;2;---;2,(1-0) BX;;NYM;Jeff McNeil;Luis García;-3%;69%;Single to 2B (Ground Ball to 2B-1B)
+b7;1-2;2;1--;6,(3-2) BBC*BS>X;O;NYM;Tommy Pham;Luis García;5%;75%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 2, Mets 1.
+Top of the 8th, Padres Batting, Ahead 2-1, Mets' Brooks Raley facing 3-4-5 
+;;;;;;;;;Brooks Raley replaces Denyi Reyes pitching
+t8;2-1;0;---;5,(2-2) .BFCBX;O;SDP;Juan Soto;Brooks Raley;-2%;72%;Groundout: 2B-1B (2B-1B)
+t8;2-1;1;---;4,(2-1) FBBX;O;SDP;Nelson Cruz;Brooks Raley;-2%;71%;Flyball: RF (Deep RF Line)
+t8;2-1;2;---;2,(0-1) FH;;SDP;Jake Cronenworth;Brooks Raley;1%;72%;Hit By Pitch
+t8;2-1;2;1--;4,(1-2) CBFX;O;SDP;Ha-Seong Kim;Brooks Raley;-2%;69%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 2, Mets 1.
+Bottom of the 8th, Mets Batting, Behind 1-2, Padres' Steven Wilson facing 8-9-1 
+;;;;;;;;;Steven Wilson replaces Luis García pitching
+b8;1-2;0;---;5,(3-1) .BBBCB;;NYM;Eduardo Escobar;Steven Wilson;-10%;60%;Walk
+;;;;;;;;;Tim Locastro pinch runs for Eduardo Escobar (3B) batting 8th
+b8;1-2;0;1--;2,(0-1) .S>S;;NYM;Francisco Alvarez;Steven Wilson;-7%;52%;Locastro Steals 2B
+b8;1-2;0;-2-;3,(0-2) .S>S.S;O;NYM;Francisco Alvarez;Steven Wilson;12%;64%;Strikeout Swinging
+b8;1-2;1;-2-;5,(3-1) BCBBB;;NYM;Brandon Nimmo;Steven Wilson;-4%;59%;Walk
+b8;1-2;1;12-;3,(0-2) CFX;O;NYM;Starling Marte;Steven Wilson;12%;71%;Groundout: 3B unassisted/Forceout at 3B (SS-3B Hole); Nimmo to 2B; Marte to 1B
+b8;1-2;2;12-;5,(1-2) SFFBS;O;NYM;Francisco Lindor;Steven Wilson;12%;84%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Padres 2, Mets 1.
+Top of the 9th, Padres Batting, Ahead 2-1, Mets' Dennis Santana facing 7-8-9 
+;;;;;;;;;Dennis Santana replaces Brooks Raley pitchingLuis Guillorme replaces Tim Locastro (PR) playing 3B batting 8th
+t9;2-1;0;---;2,(1-0) ..BX;;SDP;Luis Campusano;Dennis Santana;5%;88%;Double to CF (Line Drive to Deep LF-CF)
+t9;2-1;0;-2-;3,(0-2) STX;O;SDP;Trent Grisham;Dennis Santana;-3%;85%;Popfly: 3B (Deep SS-3B Hole)
+t9;2-1;1;-2-;7,(3-2) CBFBBFS;O;SDP;José Azocar;Dennis Santana;-3%;83%;Strikeout Swinging
+t9;2-1;2;-2-;3,(1-1) CBX;RR;SDP;Xander Bogaerts;Dennis Santana;13%;96%;Home Run (Fly Ball to Deep LF Line); Campusano Scores
+t9;4-1;2;---;6,(2-2) BSCFBX;O;SDP;Manny Machado;Dennis Santana;0%;96%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Padres 4, Mets 1.
+Bottom of the 9th, Mets Batting, Behind 1-4, Padres' Josh Hader facing 4-5-6 
+;;;;;;;;;Josh Hader replaces Steven Wilson pitching
+b9;1-4;0;---;6,(3-2) .BBSBF.B;;NYM;Pete Alonso;Josh Hader;-5%;91%;Walk
+b9;1-4;0;1--;7,(3-2) BBCFBFS;O;NYM;Mark Canha;Josh Hader;4%;95%;Strikeout Swinging
+;;;;;;;;;Hit by Pitch Challenged by NYM manager (Buck Showalter): Original call upheld upon review.
+b9;1-4;1;1--;5,(3-1) CB*BBB;;NYM;Jeff McNeil;Josh Hader;-6%;90%;Walk; Alonso to 2B
+b9;1-4;1;12-;3,(1-1) FBX;R;NYM;Tommy Pham;Josh Hader;-10%;80%;Single to CF (Ground Ball thru SS-2B); Alonso Scores; McNeil to 2B
+;;;;;;;;;Tomás Nido pinch hits for Luis Guillorme (3B) batting 8th
+b9;2-4;1;12-;3,(0-2) .FS>X;O;NYM;Tomás Nido;Josh Hader;5%;85%;Groundout: P-1B (Weak 2B); McNeil to 3B; Pham to 2B
+b9;2-4;2;-23;7,(3-2) .BBSSFBS;O;NYM;Francisco Alvarez;Josh Hader;15%;100%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Padres 4, Mets 2.

@@ -1,0 +1,257 @@
+
+Scorebox Meta
+20230822
+7:10 p.m. Local
+22173
+Progressive Field
+150
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;2;0;1;0;0;0;0;0;0;3;6;0
+https://cdn.ssref.net/req/202308251/tlogo/br/CLE-2023.png;/teams/CLE/2023.shtml;0;0;0;2;0;0;5;1;X;8;12;0
+
+Batting home
+Steven Kwan;/players/k/kwanst01.shtml;LF;4;1;1;1;1;0;5;.271;.341;.382;.723;25;18;0.146; 1.33;0.215;-0.069; 0.03%; 0.52; 0.7;2;0;
+José Ramírez;/players/r/ramirjo01.shtml;3B;5;1;1;1;0;1;5;.280;.352;.476;.828;22;17;0.160; 1.04;0.218;-0.058; 0.04%; 0.41; -0.2;0;1;
+Kole Calhoun;/players/c/calhoko01.shtml;1B;4;1;1;3;0;0;4;.306;.370;.469;.840;9;8;0.109; 1.04;0.175;-0.066; 0.03%; 0.41; 2.1;7;1;HR
+Oscar Gonzalez;/players/g/gonzaos01.shtml;DH;4;1;1;1;0;3;4;.221;.250;.331;.581;16;15;0.033; 0.64;0.088;-0.055; 0.01%; 0.25; 0.5;;;HR
+Andrés Giménez;/players/g/gimenan01.shtml;2B;4;2;2;0;0;1;4;.245;.315;.389;.704;18;14;-0.004; 0.72;0.033;-0.036;-0.00%; 0.29; 0.4;1;5;SB
+Gabriel Arias;/players/a/ariasga01.shtml;SS;4;0;1;1;0;1;4;.198;.286;.330;.616;13;10;0.041; 0.99;0.102;-0.061; 0.01%; 0.39; 0.2;2;2;
+Will Brennan;/players/b/brennwi02.shtml;RF;4;1;3;0;0;0;4;.257;.289;.360;.649;20;13;0.096; 1.21;0.119;-0.023; 0.02%; 0.48; 0.8;2;0;SB
+Bo Naylor;/players/n/naylobo01.shtml;C;3;0;0;0;1;1;4;.194;.281;.347;.627;17;11;-0.037; 1.42;0.038;-0.075;-0.01%; 0.56; -0.8;9;0;
+Myles Straw;/players/s/strawmy01.shtml;CF;4;1;2;1;0;0;4;.241;.305;.303;.608;9;9;-0.094; 1.51;0.019;-0.113;-0.02%; 0.60; 0.4;3;0;
+Noah Syndergaard;/players/s/syndeno01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Sam Hentges;/players/h/hentgsa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Stephan;/players/s/stephtr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Emmanuel Clase;/players/c/claseem01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Oscar Gonzalez (2, off Bobby Miller, 4th inn, 0 on, 2 outs to Deep RF Line); Kole Calhoun (2, off Caleb Ferguson, 7th inn, 2 on, 2 outs to Deep RF Line).
+
+
+TB: Kole Calhoun 4; Oscar Gonzalez 4; Will Brennan 3; Myles Straw 2; Andrés Giménez 2; Gabriel Arias; José Ramírez; Steven Kwan.
+
+
+RBI: Kole Calhoun 3 (9); Myles Straw (24); Gabriel Arias (15); José Ramírez (67); Steven Kwan (43); Oscar Gonzalez (11).
+
+
+2-out RBI: Kole Calhoun 3; Myles Straw; Gabriel Arias; Steven Kwan; Oscar Gonzalez; José Ramírez.
+
+
+Team LOB: 6.
+With RISP: 5 for 9.
+
+Batting away
+Mookie Betts;/players/b/bettsmo01.shtml;2B-RF;3;2;2;0;1;1;4;.300;.397;.598;.995;19;12;0.095; 0.86;0.117;-0.022; 0.01%; 0.22; 0.9;0;5;2B,2·SB
+Freddie Freeman;/players/f/freemfr01.shtml;1B;4;0;1;1;0;1;4;.332;.410;.572;.982;20;15;-0.011; 0.96;0.080;-0.092;-0.00%; 0.25; 0.0;8;2;SB
+Will Smith;/players/s/smithwi05.shtml;C;4;1;1;2;0;0;4;.274;.371;.464;.835;11;6;0.100; 0.82;0.155;-0.056; 0.01%; 0.21; 0.7;7;0;HR
+Max Muncy;/players/m/muncyma01.shtml;3B;4;0;1;0;0;0;4;.193;.329;.466;.795;18;9;-0.043; 0.52;0.007;-0.050;-0.01%; 0.13; -0.3;1;0;
+David Peralta;/players/p/peralda01.shtml;LF;4;0;0;0;0;0;4;.271;.303;.399;.701;14;10;-0.046; 0.41;0.000;-0.046;-0.01%; 0.10; -1.2;3;0;GDP
+Jason Heyward;/players/h/heywaja01.shtml;RF;2;0;0;0;0;1;2;.248;.339;.457;.797;7;5;-0.026; 0.53;0.000;-0.026;-0.00%; 0.13; -0.4;0;0;
+Enrique Hernández;/players/h/hernaen02.shtml;PH-2B;2;0;0;0;0;2;2;.232;.286;.338;.624;9;7;-0.025; 0.49;0.000;-0.025;-0.00%; 0.13; -0.3;1;1;
+James Outman;/players/o/outmaja01.shtml;CF;3;0;0;0;0;1;3;.250;.353;.429;.782;12;9;-0.036; 0.49;0.000;-0.036;-0.01%; 0.12; -0.4;2;0;
+Michael Busch;/players/b/buschmi02.shtml;DH;3;0;0;0;0;2;3;.188;.278;.250;.528;17;11;-0.045; 0.59;0.000;-0.045;-0.01%; 0.15; -0.4;;;
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;3;0;1;0;0;1;3;.217;.272;.292;.563;12;7;-0.011; 0.62;0.023;-0.035;-0.00%; 0.16; -0.0;1;2;
+Bobby Miller;/players/m/millebo06.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Caleb Ferguson;/players/f/ferguca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Hudson;/players/h/hudsobr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Mookie Betts (33, off Noah Syndergaard).
+
+
+HR: Will Smith (16, off Noah Syndergaard, 1st inn, 1 on, 1 out to Deep LF).
+
+
+TB: Will Smith 4; Mookie Betts 3; Freddie Freeman; Max Muncy; Miguel Rojas.
+
+
+GIDP: David Peralta (6).
+
+
+RBI: Will Smith 2 (63); Freddie Freeman (84).
+
+
+Team LOB: 3.
+With RISP: 2 for 7.
+
+Pitching home
+Noah Syndergaard;/players/s/syndeno01.shtml;Noah Syndergaard; 6 ;4;3;3;1;4;1;6.42;23;95;65;39;8;18;6;12;8;0;55;;;-0.035; 0.73;-0.01%; 0.29; -0.0
+Sam Hentges;/players/h/hentgsa01.shtml; W (2-2); 1 ;0;0;0;0;3;0;4.95;3;16;11;4;6;1;0;0;0;0;;0;0;0.055; 0.73; 0.01%; 0.29; 0.5
+Trevor Stephan;/players/s/stephtr01.shtml;Trevor Stephan; 1 ;1;0;0;0;1;0;2.82;4;16;8;4;2;2;2;1;0;0;;0;0;0.023; 0.60; 0.01%; 0.24; 0.5
+Emmanuel Clase;/players/c/claseem01.shtml;Emmanuel Clase; 1 ;1;0;0;0;1;0;3.04;3;12;7;5;0;2;2;0;0;0;;0;0;0.006; 0.18; 0.00%; 0.07; 0.5
+
+Pitching away
+Bobby Miller;/players/m/millebo06.shtml; L (7-3); 6.1;6;4;4;1;5;1;3.86;26;97;75;43;18;14;11;9;4;0;49;;;0.082; 1.09; 0.01%; 0.28; 0.6
+Caleb Ferguson;/players/f/ferguca01.shtml; BS (4); 0.2;3;3;3;0;1;1;2.87;5;17;12;7;2;3;2;2;1;0;;2;2;-0.528; 2.52;-0.08%; 0.64; -4.1
+Bryan Hudson;/players/h/hudsobr01.shtml;Bryan Hudson; 1 ;3;1;1;1;1;0;8.10;7;35;28;16;3;9;3;2;2;0;;0;0;-0.005; 0.06;-0.00%; 0.02; -0.5
+
+indiv_events
+
+Balks: None.
+WP: Bobby Miller (5).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Bobby Miller (5).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Mark Wegner, 1B - Malachi Moore, 2B - Bruce Dreckman, 3B - Stu Scheurwater, LF - (none), RF - (none).
+Time of Game: 2:30.
+Attendance: 22,173.
+Field Condition: Unknown.
+Start Time Weather: 72° F, Wind 17mph from Right to Left, Sunny, No Precipitation.
+
+div_lineups
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;2B
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;C
+4;Max Muncy;/players/m/muncyma01.shtml;3B
+5;David Peralta;/players/p/peralda01.shtml;LF
+6;Jason Heyward;/players/h/heywaja01.shtml;RF
+7;James Outman;/players/o/outmaja01.shtml;CF
+8;Michael Busch;/players/b/buschmi02.shtml;DH
+9;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+; Bobby Miller;/players/m/millebo06.shtml;P
+Guardians
+1;Steven Kwan;/players/k/kwanst01.shtml;LF
+2;José Ramírez;/players/r/ramirjo01.shtml;3B
+3;Kole Calhoun;/players/c/calhoko01.shtml;1B
+4;Oscar Gonzalez;/players/g/gonzaos01.shtml;DH
+5;Andrés Giménez;/players/g/gimenan01.shtml;2B
+6;Gabriel Arias;/players/a/ariasga01.shtml;SS
+7;Will Brennan;/players/b/brennwi02.shtml;RF
+8;Bo Naylor;/players/n/naylobo01.shtml;C
+9;Myles Straw;/players/s/strawmy01.shtml;CF
+; Noah Syndergaard;/players/s/syndeno01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b7;3-3;2;12-;4,(2-1) BCBX;R;CLE;José Ramírez;Caleb Ferguson;22%;79%;Single to RF (Ground Ball); Straw Scores; Kwan to 3B
+b7;2-3;2;1-3;4,(2-1) FBBX;R;CLE;Steven Kwan;Caleb Ferguson;21%;57%;Single to CF (Line Drive to LF-CF); Brennan Scores; Straw to 2B
+b7;4-3;2;1-3;1,(0-0) X;RRR;CLE;Kole Calhoun;Caleb Ferguson;18%;97%;Home Run (Fly Ball to Deep RF Line); Kwan Scores; Ramírez Scores
+t1;0-0;1;-2-;1,(0-0) X;RR;LAD;Will Smith;Noah Syndergaard;-16%;33%;Home Run (Fly Ball to Deep LF); Betts Scores
+b4;1-3;2;--3;7,(3-2) >S.*BBSB.FX;R;CLE;Gabriel Arias;Bobby Miller;10%;39%;Single to LF (Line Drive); Giménez Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Dodgers Batting, Tied 0-0, Guardians' Noah Syndergaard facing 1-2-3 
+t1;0-0;0;---;3,(0-2) CCX;;LAD;Mookie Betts;Noah Syndergaard;-4%;46%;Single to LF (Line Drive to LF Line)
+t1;0-0;0;1--;2,(0-1) S>P;;LAD;Freddie Freeman;Noah Syndergaard;-2%;44%;Betts Steals 2B
+t1;0-0;0;-2-;5,(2-2) S>P.BST;O;LAD;Freddie Freeman;Noah Syndergaard;4%;48%;Strikeout Swinging
+t1;0-0;1;-2-;1,(0-0) X;RR;LAD;Will Smith;Noah Syndergaard;-16%;33%;Home Run (Fly Ball to Deep LF); Betts Scores
+t1;2-0;1;---;5,(3-1) BBBCX;O;LAD;Max Muncy;Noah Syndergaard;1%;34%;Lineout: 2B (Deep 2B)
+t1;2-0;2;---;1,(0-0) X;O;LAD;David Peralta;Noah Syndergaard;1%;35%;Flyball: LF (Deep LF Line)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Dodgers 2, Guardians 0.
+Bottom of the 1st, Guardians Batting, Behind 0-2, Dodgers' Bobby Miller facing 1-2-3 
+b1;0-2;0;---;2,(0-1) CX;O;CLE;Steven Kwan;Bobby Miller;-2%;32%;Flyball: LF (Short LF-CF)
+b1;0-2;1;---;6,(3-2) BCBBFS;O;CLE;José Ramírez;Bobby Miller;-2%;31%;Strikeout Swinging
+b1;0-2;2;---;1,(0-0) X;O;CLE;Kole Calhoun;Bobby Miller;-1%;30%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Guardians 0.
+Top of the 2nd, Dodgers Batting, Ahead 2-0, Guardians' Noah Syndergaard facing 6-7-8 
+t2;2-0;0;---;5,(2-2) CBBSS;O;LAD;Jason Heyward;Noah Syndergaard;2%;32%;Strikeout Swinging
+t2;2-0;1;---;4,(1-2) BCSX;O;LAD;James Outman;Noah Syndergaard;1%;33%;Lineout: LF (Deep LF-CF)
+t2;2-0;2;---;6,(3-2) FBFBBX;O;LAD;Michael Busch;Noah Syndergaard;1%;34%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Guardians 0.
+Bottom of the 2nd, Guardians Batting, Behind 0-2, Dodgers' Bobby Miller facing 4-5-6 
+b2;0-2;0;---;4,(0-2) CCFS;O;CLE;Oscar Gonzalez;Bobby Miller;-2%;31%;Strikeout Swinging
+b2;0-2;1;---;3,(0-2) CS.S;O;CLE;Andrés Giménez;Bobby Miller;-2%;29%;Strikeout Swinging
+b2;0-2;2;---;1,(0-0) X;O;CLE;Gabriel Arias;Bobby Miller;-1%;28%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Guardians 0.
+Top of the 3rd, Dodgers Batting, Ahead 2-0, Guardians' Noah Syndergaard facing 9-1-2 
+t3;2-0;0;---;4,(1-2) CBCC;O;LAD;Miguel Rojas;Noah Syndergaard;2%;30%;Strikeout Looking
+t3;2-0;1;---;6,(3-2) SBBBF.B;;LAD;Mookie Betts;Noah Syndergaard;-2%;28%;Walk
+t3;2-0;1;1--;1,(0-0) 1>P;;LAD;Freddie Freeman;Noah Syndergaard;-1%;27%;Betts Steals 2B
+t3;2-0;1;-2-;10,(2-2) 1>P.FFBFFFFFX;R;LAD;Freddie Freeman;Noah Syndergaard;-7%;20%;Single to RF (Line Drive to Short CF-RF); Betts Scores
+t3;3-0;1;1--;2,(0-1) F>B;;LAD;Will Smith;Noah Syndergaard;-1%;19%;Freeman Steals 2B
+t3;3-0;1;-2-;4,(2-1) F>B.BX;O;LAD;Will Smith;Noah Syndergaard;2%;21%;Lineout: CF (CF-RF)
+t3;3-0;2;-2-;5,(2-2) BCCBX;O;LAD;Max Muncy;Noah Syndergaard;2%;23%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Dodgers 3, Guardians 0.
+Bottom of the 3rd, Guardians Batting, Behind 0-3, Dodgers' Bobby Miller facing 7-8-9 
+b3;0-3;0;---;6,(3-2) SBBFBX;O;CLE;Will Brennan;Bobby Miller;-2%;21%;Groundout: 2B-1B
+b3;0-3;1;---;3,(0-2) CCT;O;CLE;Bo Naylor;Bobby Miller;-2%;19%;Strikeout Swinging
+b3;0-3;2;---;1,(0-0) X;;CLE;Myles Straw;Bobby Miller;1%;20%;Single to RF (Ground Ball thru 2B-1B)
+b3;0-3;2;1--;4,(0-2) CCFX;O;CLE;Steven Kwan;Bobby Miller;-2%;18%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 3, Guardians 0.
+Top of the 4th, Dodgers Batting, Ahead 3-0, Guardians' Noah Syndergaard facing 5-6-7 
+t4;3-0;0;---;3,(0-2) CFX;O;LAD;David Peralta;Noah Syndergaard;1%;19%;Groundout: 2B-1B (2B-1B)
+t4;3-0;1;---;2,(0-1) FX;O;LAD;Jason Heyward;Noah Syndergaard;1%;20%;Groundout: 2B-1B (2B-1B)
+t4;3-0;2;---;4,(1-2) CBSX;O;LAD;James Outman;Noah Syndergaard;1%;21%;Groundout: 1B-P
+;;;;;;;;;Force Play Challenged by CLE manager (Terry Francona): Original call overturned as shown.
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 3, Guardians 0.
+Bottom of the 4th, Guardians Batting, Behind 0-3, Dodgers' Bobby Miller facing 2-3-4 
+b4;0-3;0;---;5,(0-2) CSFFX;O;CLE;José Ramírez;Bobby Miller;-2%;18%;Lineout: LF (LF-CF)
+b4;0-3;1;---;2,(0-1) FX;O;CLE;Kole Calhoun;Bobby Miller;-2%;17%;Groundout: 2B-1B
+b4;0-3;2;---;3,(0-2) SF.X;R;CLE;Oscar Gonzalez;Bobby Miller;9%;26%;Home Run (Fly Ball to Deep RF Line)
+b4;1-3;2;---;5,(1-2) BTF.FX;;CLE;Andrés Giménez;Bobby Miller;2%;27%;Single to RF (Line Drive to Short RF Line)
+b4;1-3;2;1--;1,(0-0) >S;;CLE;Gabriel Arias;Bobby Miller;1%;28%;Giménez Steals 2B
+b4;1-3;2;-2-;5,(2-2) >S.*BBSB;;CLE;Gabriel Arias;Bobby Miller;0%;29%;Wild Pitch; Giménez to 3B
+b4;1-3;2;--3;7,(3-2) >S.*BBSB.FX;R;CLE;Gabriel Arias;Bobby Miller;10%;39%;Single to LF (Line Drive); Giménez Scores
+b4;2-3;2;1--;4,(2-1) BLBX;;CLE;Will Brennan;Bobby Miller;3%;42%;Single to LF (Ground Ball); Arias to 2B
+b4;2-3;2;12-;4,(2-1) BSBX;O;CLE;Bo Naylor;Bobby Miller;-6%;36%;Flyball: LF
+;;;;;;;;;2 runs, 4 hits, 0 errors, 2 LOB. Dodgers 3, Guardians 2.
+Top of the 5th, Dodgers Batting, Ahead 3-2, Guardians' Noah Syndergaard facing 8-9-1 
+t5;3-2;0;---;4,(0-2) CFFC;O;LAD;Michael Busch;Noah Syndergaard;2%;38%;Strikeout Looking
+t5;3-2;1;---;3,(1-1) BCX;O;LAD;Miguel Rojas;Noah Syndergaard;2%;40%;Groundout: SS-1B (Deep SS)
+t5;3-2;2;---;5,(1-2) CSFBX;;LAD;Mookie Betts;Noah Syndergaard;-2%;37%;Double to LF (Line Drive to LF Line)
+t5;3-2;2;-2-;4,(1-2) BFFX;O;LAD;Freddie Freeman;Noah Syndergaard;4%;41%;Lineout: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 3, Guardians 2.
+Bottom of the 5th, Guardians Batting, Behind 2-3, Dodgers' Bobby Miller facing 9-1-2 
+b5;2-3;0;---;3,(0-2) CFX;O;CLE;Myles Straw;Bobby Miller;-3%;38%;Groundout: SS-1B
+b5;2-3;1;---;5,(1-2) .BSCFX;O;CLE;Steven Kwan;Bobby Miller;-2%;35%;Groundout: P-1B
+b5;2-3;2;---;3,(0-2) SSX;O;CLE;José Ramírez;Bobby Miller;-2%;34%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 3, Guardians 2.
+Top of the 6th, Dodgers Batting, Ahead 3-2, Guardians' Noah Syndergaard facing 3-4-5 
+t6;3-2;0;---;1,(0-0) X;O;LAD;Will Smith;Noah Syndergaard;2%;36%;Foul Popfly: RF (RF into Foul Terr.)
+t6;3-2;1;---;3,(1-1) BCX;O;LAD;Max Muncy;Noah Syndergaard;2%;38%;Lineout: CF (Deep CF)
+t6;3-2;2;---;7,(3-2) BCBBFFX;O;LAD;David Peralta;Noah Syndergaard;1%;39%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 3, Guardians 2.
+Bottom of the 6th, Guardians Batting, Behind 2-3, Dodgers' Bobby Miller facing 3-4-5 
+b6;2-3;0;---;5,(1-2) CBFFX;O;CLE;Kole Calhoun;Bobby Miller;-4%;35%;Groundout: 2B-1B (2B-1B)
+b6;2-3;1;---;4,(0-2) FF.FS;O;CLE;Oscar Gonzalez;Bobby Miller;-3%;32%;Strikeout Swinging
+b6;2-3;2;---;3,(1-1) S.BX;O;CLE;Andrés Giménez;Bobby Miller;-2%;30%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 3, Guardians 2.
+Top of the 7th, Dodgers Batting, Ahead 3-2, Guardians' Sam Hentges facing 6-7-8 
+;;;;;;;;;Sam Hentges replaces Noah Syndergaard pitchingEnrique Hernández pinch hits for Jason Heyward (RF) batting 6th
+t7;3-2;0;---;5,(1-2) ..CFBF*S;O;LAD;Enrique Hernández;Sam Hentges;2%;33%;Strikeout Swinging
+t7;3-2;1;---;4,(1-2) BFSS;O;LAD;James Outman;Sam Hentges;2%;35%;Strikeout Swinging
+t7;3-2;2;---;7,(3-2) SBSBFBS;O;LAD;Michael Busch;Sam Hentges;1%;36%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 3, Guardians 2.
+Bottom of the 7th, Guardians Batting, Behind 2-3, Dodgers' Bobby Miller facing 6-7-8 
+;;;;;;;;;Enrique Hernández moves from PH to 2B Mookie Betts moves from 2B to RF 
+b7;2-3;0;---;2,(0-1) ...CX;O;CLE;Gabriel Arias;Bobby Miller;-5%;31%;Groundout: 2B-1B
+b7;2-3;1;---;5,(1-2) SSBFX;;CLE;Will Brennan;Bobby Miller;5%;36%;Single to CF (Line Drive to LF-CF)
+b7;2-3;1;1--;4,(2-1) SBB1>B;;CLE;Bo Naylor;Bobby Miller;4%;40%;Brennan Steals 2B
+b7;2-3;1;-2-;6,(3-2) SBB1>B.FB;;CLE;Bo Naylor;Bobby Miller;4%;44%;Walk
+;;;;;;;;;Caleb Ferguson replaces Bobby Miller pitching
+b7;2-3;1;12-;3,(0-2) .CCX;O;CLE;Myles Straw;Caleb Ferguson;-8%;36%;Groundout: SS-2B/Forceout at 2B; Brennan to 3B; Straw to 1B
+b7;2-3;2;1-3;4,(2-1) FBBX;R;CLE;Steven Kwan;Caleb Ferguson;21%;57%;Single to CF (Line Drive to LF-CF); Brennan Scores; Straw to 2B
+b7;3-3;2;12-;4,(2-1) BCBX;R;CLE;José Ramírez;Caleb Ferguson;22%;79%;Single to RF (Ground Ball); Straw Scores; Kwan to 3B
+b7;4-3;2;1-3;1,(0-0) X;RRR;CLE;Kole Calhoun;Caleb Ferguson;18%;97%;Home Run (Fly Ball to Deep RF Line); Kwan Scores; Ramírez Scores
+b7;7-3;2;---;5,(1-2) SBF.FS;O;CLE;Oscar Gonzalez;Caleb Ferguson;0%;97%;Strikeout Swinging
+;;;;;;;;;5 runs, 4 hits, 0 errors, 0 LOB. Dodgers 3, Guardians 7.
+Top of the 8th, Dodgers Batting, Behind 3-7, Guardians' Trevor Stephan facing 9-1-2 
+;;;;;;;;;Trevor Stephan replaces Sam Hentges pitching
+t8;3-7;0;---;5,(3-1) .BBF.BX;;LAD;Miguel Rojas;Trevor Stephan;-2%;94%;Single to LF (Ground Ball thru SS-3B Hole)
+t8;3-7;0;1--;5,(2-2) CBCBS;O;LAD;Mookie Betts;Trevor Stephan;2%;96%;Strikeout Swinging
+t8;3-7;1;1--;1,(0-0) +1X;O;LAD;Freddie Freeman;Trevor Stephan;1%;98%;Groundout: 2B-1B (2B-1B); Rojas to 2B
+t8;3-7;2;-2-;5,(3-1) SBBBX;O;LAD;Will Smith;Trevor Stephan;1%;99%;Popfly: SS (Short LF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 3, Guardians 7.
+Bottom of the 8th, Guardians Batting, Ahead 7-3, Dodgers' Bryan Hudson facing 5-6-7 
+;;;;;;;;;Bryan Hudson replaces Caleb Ferguson pitching
+b8;7-3;0;---;7,(2-2) .CS.FFBBX;;CLE;Andrés Giménez;Bryan Hudson;0%;99%;Single to CF (Line Drive to Deep CF-RF)
+b8;7-3;0;1--;3,(0-2) CF1S;O;CLE;Gabriel Arias;Bryan Hudson;0%;99%;Strikeout Swinging
+b8;7-3;1;1--;5,(1-2) BSC1FX;;CLE;Will Brennan;Bryan Hudson;0%;99%;Single to CF (Line Drive); Giménez to 2B
+b8;7-3;1;12-;4,(0-2) CC>FX;O;CLE;Bo Naylor;Bryan Hudson;0%;99%;Groundout: 1B-SS/Forceout at 2B; Giménez to 3B; Naylor to 1B
+b8;7-3;2;1-3;2,(0-1) CX;R;CLE;Myles Straw;Bryan Hudson;1%;100%;Single to SS (Ground Ball to Weak SS-2B); Giménez Scores; Naylor to 2B
+b8;8-3;2;12-;10,(3-2) CBCFBB>F>F>F>B;;CLE;Steven Kwan;Bryan Hudson;0%;100%;Walk; Naylor to 3B; Straw to 2B
+b8;8-3;2;123;4,(0-2) CFFX;O;CLE;José Ramírez;Bryan Hudson;0%;99%;Groundout: 3B unassisted/Forceout at 3B (Front of Home); Ramírez to 1B
+;;;;;;;;;1 run, 3 hits, 0 errors, 3 LOB. Dodgers 3, Guardians 8.
+Top of the 9th, Dodgers Batting, Behind 3-8, Guardians' Emmanuel Clase facing 4-5-6 
+;;;;;;;;;Emmanuel Clase replaces Trevor Stephan pitching
+t9;3-8;0;---;5,(3-1) .FBBBX;;LAD;Max Muncy;Emmanuel Clase;-1%;99%;Single to P (Ground Ball)
+t9;3-8;0;1--;3,(1-1) BFX;OO;LAD;David Peralta;Emmanuel Clase;1%;100%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+t9;3-8;2;---;4,(1-2) CBFC;O;LAD;Enrique Hernández;Emmanuel Clase;0%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Dodgers 3, Guardians 8.

@@ -1,0 +1,282 @@
+
+Scorebox Meta
+20230825
+7:10 p.m. Local
+38271
+Citi Field
+186
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;0;2;0;0;0;0;0;1;3;6;1
+https://cdn.ssref.net/req/202308251/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;1;0;0;0;0;0;0;1;4;0
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;4;0;0;0;0;0;4;.263;.359;.436;.795;16;11;-0.316; 1.64;0.000;-0.316;-0.01%; 0.13; -1.8;0;0;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;1;1;1;0;1;4;.255;.339;.475;.814;10;10;0.013; 1.05;0.108;-0.095; 0.00%; 0.08; 0.5;0;2;HR
+Jeff McNeil;/players/m/mcneije01.shtml;RF;3;0;1;0;1;0;4;.266;.336;.355;.691;22;12;0.046; 1.08;0.097;-0.051; 0.00%; 0.09; 0.1;1;0;2B
+Pete Alonso;/players/a/alonspe01.shtml;1B;1;0;0;0;3;0;4;.222;.326;.525;.850;27;12;0.014; 1.70;0.094;-0.080; 0.00%; 0.13; 0.5;8;1;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;3;0;0;0;1;2;4;.214;.285;.441;.726;19;12;-0.115; 2.01;0.056;-0.171;-0.01%; 0.16; -0.4;14;0;
+DJ Stewart;/players/s/stewadj01.shtml;DH;4;0;0;0;0;3;4;.247;.325;.548;.873;24;14;-0.174; 1.61;0.000;-0.174;-0.01%; 0.12; -1.3;;;
+Danny Mendick;/players/m/mendida01.shtml;2B;3;0;1;0;0;1;3;.190;.230;.293;.523;12;7;0.065; 1.59;0.132;-0.067; 0.00%; 0.13; -0.0;1;3;2B
+Rafael Ortega;/players/o/ortegra01.shtml;PH;1;0;0;0;0;0;1;.221;.312;.294;.606;3;2;-0.030; 1.20;0.000;-0.030;-0.00%; 0.09; -0.2;;;
+Jonathan Araúz;/players/a/arauzjo01.shtml;3B;3;0;1;0;0;1;4;.122;.204;.245;.449;13;9;0.105; 1.40;0.163;-0.059; 0.01%; 0.11; 0.4;0;4;SH
+Tim Locastro;/players/l/locasti01.shtml;LF;3;0;0;0;0;2;3;.143;.333;.286;.619;10;8;-0.181; 1.80;0.000;-0.181;-0.01%; 0.14; -1.1;2;0;
+Daniel Vogelbach;/players/v/vogelda01.shtml;PH;1;0;0;0;0;1;1;.223;.331;.388;.719;6;3;-0.048; 1.66;0.000;-0.048;-0.00%; 0.13; -0.3;;;
+Kodai Senga;/players/s/sengako01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Kolarek;/players/k/kolarad01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Trevor Gott;/players/g/gotttr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Sam Coonrod;/players/c/coonrsa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brooks Raley;/players/r/raleybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jeff McNeil (20, off Patrick Sandoval); Danny Mendick (3, off Matt Moore).
+
+
+HR: Francisco Lindor (24, off Patrick Sandoval, 3rd inn, 0 on, 2 outs to Deep LF Line).
+
+
+SH: Jonathan Araúz (2, off Matt Moore).
+
+
+TB: Francisco Lindor 4; Jeff McNeil 2; Danny Mendick 2; Jonathan Araúz.
+
+
+RBI: Francisco Lindor (79).
+
+
+2-out RBI: Francisco Lindor.
+
+
+Team LOB: 8.
+With RISP: 0 for 7.
+
+Batting away
+Nolan Schanuel;/players/s/schanno01.shtml;1B;4;1;1;1;0;2;5;.348;.516;.348;.864;21;14;0.070; 0.94;0.129;-0.059;0%; 0.01; 0.8;3;1;HBP
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;2;1;1;0;3;0;5;.305;.408;.665;1.074;16;6;0.147; 0.89;0.171;-0.023; 0.00%; 0.01; 1.7;;;2B,IW
+Brandon Drury;/players/d/drurybr01.shtml;2B;3;0;1;1;0;1;4;.266;.303;.486;.789;10;7;-0.017; 1.17;0.030;-0.046;0%; 0.01; -0.3;1;1;SF
+Andrew Velazquez;/players/v/velazan01.shtml;PR-SS;1;0;0;0;0;0;1;.189;.286;.311;.597;1;1;-0.010; 1.05;0.013;-0.023;0%; 0.01; -0.7;0;0;SB
+Mike Moustakas;/players/m/moustmi01.shtml;3B;4;0;1;1;0;2;4;.265;.319;.443;.761;15;12;-0.033; 1.17;0.055;-0.088;0%; 0.01; -0.3;1;0;
+Luis Rengifo;/players/r/rengilu01.shtml;SS-2B;4;0;1;0;0;1;4;.241;.328;.397;.725;17;11;-0.047; 1.04;0.038;-0.085;0%; 0.01; -0.5;1;0;
+Logan O'Hoppe;/players/o/ohopplo01.shtml;C;3;0;1;0;1;1;4;.247;.309;.479;.788;15;9;0.049; 0.89;0.084;-0.035;0%; 0.01; 0.4;12;0;
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;3;1;0;0;1;2;4;.240;.300;.427;.727;16;9;-0.112; 1.06;0.024;-0.135;-0.00%; 0.01; -1.0;1;0;GDP
+Mickey Moniak;/players/m/moniami01.shtml;CF;4;0;0;0;0;4;4;.278;.309;.489;.797;19;14;-0.109; 1.14;0.000;-0.109;-0.00%; 0.01; -1.2;2;0;
+Randal Grichuk;/players/g/grichra01.shtml;LF;3;0;0;0;1;1;4;.266;.319;.446;.765;27;17;-0.060; 0.89;0.014;-0.074;0%; 0.01; -0.5;5;1;
+Patrick Sandoval;/players/s/sandopa02.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Matt Moore;/players/m/moorema02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Reynaldo López;/players/l/lopezre01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Carlos Estévez;/players/e/estevca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Shohei Ohtani (23, off Kodai Senga).
+
+
+SF: Brandon Drury (5, off Kodai Senga).
+
+
+IBB: Shohei Ohtani (17, by Brooks Raley).
+
+
+HBP: Nolan Schanuel (1, by Kodai Senga).
+
+
+TB: Shohei Ohtani 2; Brandon Drury; Logan O'Hoppe; Mike Moustakas; Nolan Schanuel; Luis Rengifo.
+
+
+GIDP: Hunter Renfroe (14).
+
+
+RBI: Mike Moustakas (44); Nolan Schanuel (2); Brandon Drury (57).
+
+
+2-out RBI: Nolan Schanuel.
+
+
+Team LOB: 9.
+With RISP: 2 for 8.
+
+Pitching home
+Kodai Senga;/players/s/sengako01.shtml; L (10-7); 6.2;4;2;2;3;10;0;3.17;27;105;67;36;19;12;7;6;3;0;65;;;0.127; 1.10; 0.01%; 0.09; 1.4
+Adam Kolarek;/players/k/kolarad01.shtml;Adam Kolarek; 1 ;1;0;0;0;2;0;0.00;4;15;12;6;1;5;2;0;0;0;;0;0;0.028; 0.82; 0.00%; 0.06; 0.3
+Trevor Gott;/players/g/gotttr01.shtml;Trevor Gott; 0.1;0;0;0;0;1;0;4.53;1;7;5;3;0;2;0;0;0;0;;1;0;0.038; 1.33; 0.00%; 0.10; 0.3
+Sam Coonrod;/players/c/coonrsa01.shtml;Sam Coonrod; 0.2;0;1;1;2;1;0;2.25;4;24;12;6;2;4;1;0;0;0;;0;0;0.000; 0.68; 0.00%; 0.05; 0.0
+Brooks Raley;/players/r/raleybr01.shtml;Brooks Raley; 0.1;1;0;0;1;0;0;2.51;3;6;4;2;0;2;1;1;0;0;;2;1;-0.071; 0.97;-0.00%; 0.08; -0.5
+
+Pitching away
+Patrick Sandoval;/players/s/sandopa02.shtml; W (7-10); 6 ;2;1;1;4;7;1;3.95;24;107;65;32;10;23;3;10;3;0;67;;;0.278; 1.17; 0.00%; 0.01; 2.0
+Matt Moore;/players/m/moorema02.shtml; H (20); 1 ;1;0;0;0;1;0;2.14;4;14;10;6;3;1;1;2;0;0;;0;0;0.109; 2.85; 0.00%; 0.03; 0.5
+Reynaldo López;/players/l/lopezre01.shtml; H (14); 1 ;0;0;0;1;1;0;3.69;4;21;13;5;2;6;0;2;0;0;;0;0;0.142; 2.53; 0.00%; 0.02; 0.5
+Carlos Estévez;/players/e/estevca01.shtml; S (27); 1 ;1;0;0;0;2;0;3.46;4;20;12;8;3;1;0;2;1;0;;0;0;0.092; 1.37; 0.00%; 0.02; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Sam Coonrod (1).
+HBP: Kodai Senga (5; Nolan Schanuel).
+IBB: Brooks Raley (2; Shohei Ohtani).
+Pickoffs: None.
+
+Balks: None.
+WP: Sam Coonrod (1).
+HBP: Kodai Senga (5; Nolan Schanuel).
+IBB: Brooks Raley (2; Shohei Ohtani).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Jeremie Rehak, 1B - Chad Fairchild, 2B - Nic Lentz, 3B - Paul Clemons, LF - (none), RF - (none).
+Time of Game: 3:06.
+Attendance: 38,271.
+Field Condition: Unknown.
+Start Time Weather: 76° F, Wind 6mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Angels
+1;Nolan Schanuel;/players/s/schanno01.shtml;1B
+2;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+3;Brandon Drury;/players/d/drurybr01.shtml;2B
+4;Mike Moustakas;/players/m/moustmi01.shtml;3B
+5;Luis Rengifo;/players/r/rengilu01.shtml;SS
+6;Logan O'Hoppe;/players/o/ohopplo01.shtml;C
+7;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+8;Mickey Moniak;/players/m/moniami01.shtml;CF
+9;Randal Grichuk;/players/g/grichra01.shtml;LF
+; Patrick Sandoval;/players/s/sandopa02.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Jeff McNeil;/players/m/mcneije01.shtml;RF
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+6;DJ Stewart;/players/s/stewadj01.shtml;DH
+7;Danny Mendick;/players/m/mendida01.shtml;2B
+8;Jonathan Araúz;/players/a/arauzjo01.shtml;3B
+9;Tim Locastro;/players/l/locasti01.shtml;LF
+; Kodai Senga;/players/s/sengako01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b7;1-2;1;1-3;2,(0-1) FX;OO;NYM;Brandon Nimmo;Matt Moore;25%;75%;Double Play: Flyball: LF (Short LF Line); Mendick out at Hm/LF-C
+b7;1-2;0;---;6,(3-2) .BSBBFX;;NYM;Danny Mendick;Matt Moore;-13%;51%;Double to RF (Fly Ball to Deep RF Line)
+b7;1-2;0;-2-;3,(1-1) CBX;;NYM;Jonathan Araúz;Matt Moore;-13%;38%;Fielder's Choice /Sacrifice Bunt; Mendick to 3B; Araúz to 1B/Adv on E2
+b7;1-2;0;1-3;3,(0-2) LSS;O;NYM;Tim Locastro;Matt Moore;12%;50%;Strikeout Swinging
+t3;0-0;0;1--;4,(1-2) FBC.X;;LAA;Shohei Ohtani;Kodai Senga;11%;65%;Double to RF (Line Drive to Deep RF); Schanuel to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, Mets' Kodai Senga facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;LAA;Nolan Schanuel;Kodai Senga;-2%;48%;Groundout: 2B-1B
+t1;0-0;1;---;4,(3-0) BBBB;;LAA;Shohei Ohtani;Kodai Senga;2%;50%;Walk
+t1;0-0;1;1--;4,(1-2) BCSS;O;LAA;Brandon Drury;Kodai Senga;-3%;47%;Strikeout Swinging
+t1;0-0;2;1--;3,(0-2) SCX;O;LAA;Mike Moustakas;Kodai Senga;-2%;45%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Angels' Patrick Sandoval facing 1-2-3 
+b1;0-0;0;---;4,(1-2) CBCX;O;NYM;Brandon Nimmo;Patrick Sandoval;2%;47%;Popfly: 2B
+b1;0-0;1;---;3,(0-2) CCS;O;NYM;Francisco Lindor;Patrick Sandoval;2%;49%;Strikeout Swinging
+b1;0-0;2;---;8,(3-2) FBFFFBB.X;O;NYM;Jeff McNeil;Patrick Sandoval;1%;50%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Mets 0.
+Top of the 2nd, Angels Batting, Tied 0-0, Mets' Kodai Senga facing 5-6-7 
+t2;0-0;0;---;6,(3-2) BFBBFX;;LAA;Luis Rengifo;Kodai Senga;4%;54%;Single to SS (Ground Ball)
+t2;0-0;0;1--;1,(0-0) 1X;;LAA;Logan O'Hoppe;Kodai Senga;6%;60%;Single to LF (Line Drive to Short LF-CF); Rengifo to 2B
+t2;0-0;0;12-;4,(1-2) BST.S;O;LAA;Hunter Renfroe;Kodai Senga;-6%;54%;Strikeout Swinging
+t2;0-0;1;12-;4,(1-2) F*BC*S;O;LAA;Mickey Moniak;Kodai Senga;-5%;49%;Strikeout Swinging
+t2;0-0;2;12-;6,(2-2) C*SFBBX;O;LAA;Randal Grichuk;Kodai Senga;-4%;45%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Angels 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Angels' Patrick Sandoval facing 4-5-6 
+b2;0-0;0;---;6,(3-2) CBFBB.B;;NYM;Pete Alonso;Patrick Sandoval;-4%;41%;Walk
+b2;0-0;0;1--;6,(3-2) B*BFSB.B;;NYM;Francisco Alvarez;Patrick Sandoval;-6%;36%;Walk; Alonso to 2B
+b2;0-0;0;12-;5,(2-2) BCCBS;O;NYM;DJ Stewart;Patrick Sandoval;5%;41%;Strikeout Swinging
+b2;0-0;1;12-;5,(2-2) CCBBS;O;NYM;Danny Mendick;Patrick Sandoval;5%;46%;Strikeout Swinging
+b2;0-0;2;12-;4,(1-2) BCSS;O;NYM;Jonathan Araúz;Patrick Sandoval;4%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Angels 0, Mets 0.
+Top of the 3rd, Angels Batting, Tied 0-0, Mets' Kodai Senga facing 1-2-3 
+t3;0-0;0;---;6,(2-2) BSS.FBH;;LAA;Nolan Schanuel;Kodai Senga;4%;54%;Hit By Pitch
+t3;0-0;0;1--;4,(1-2) FBC.X;;LAA;Shohei Ohtani;Kodai Senga;11%;65%;Double to RF (Line Drive to Deep RF); Schanuel to 3B
+t3;0-0;0;-23;2,(1-0) BX;RO;LAA;Brandon Drury;Kodai Senga;1%;66%;Flyball: RF/Sacrifice Fly (Deep CF-RF); Schanuel Scores; Ohtani to 3B
+t3;1-0;1;--3;1,(0-0) X;R;LAA;Mike Moustakas;Kodai Senga;6%;72%;Single to CF (Line Drive); Ohtani Scores
+t3;2-0;1;1--;3,(1-1) F*BX;O;LAA;Luis Rengifo;Kodai Senga;-2%;69%;Flyball: LF (Deep LF-CF)
+t3;2-0;2;1--;3,(0-2) CT*S;O;LAA;Logan O'Hoppe;Kodai Senga;-2%;68%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Angels 2, Mets 0.
+Bottom of the 3rd, Mets Batting, Behind 0-2, Angels' Patrick Sandoval facing 9-1-2 
+b3;0-2;0;---;2,(1-0) BX;O;NYM;Tim Locastro;Patrick Sandoval;3%;70%;Lineout: 3B (SS-3B Hole)
+b3;0-2;1;---;4,(1-2) CFBX;O;NYM;Brandon Nimmo;Patrick Sandoval;2%;72%;Flyball: LF (LF-CF)
+b3;0-2;2;---;2,(0-1) C.X;R;NYM;Francisco Lindor;Patrick Sandoval;-11%;61%;Home Run (Fly Ball to Deep LF Line)
+b3;1-2;2;---;4,(2-1) BFBX;;NYM;Jeff McNeil;Patrick Sandoval;-3%;59%;Double to RF (Line Drive to Deep RF Line)
+b3;1-2;2;-2-;6,(3-2) CBBT.BB;;NYM;Pete Alonso;Patrick Sandoval;-1%;57%;Walk
+b3;1-2;2;12-;3,(0-2) CFS;O;NYM;Francisco Alvarez;Patrick Sandoval;5%;62%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Angels 2, Mets 1.
+Top of the 4th, Angels Batting, Ahead 2-1, Mets' Kodai Senga facing 7-8-9 
+t4;2-1;0;---;5,(2-2) BCBFC;O;LAA;Hunter Renfroe;Kodai Senga;-2%;60%;Strikeout Looking
+t4;2-1;1;---;4,(1-2) FBFS;O;LAA;Mickey Moniak;Kodai Senga;-2%;59%;Strikeout Swinging
+t4;2-1;2;---;7,(3-2) CSBFBBX;O;LAA;Randal Grichuk;Kodai Senga;-1%;57%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 2, Mets 1.
+Bottom of the 4th, Mets Batting, Behind 1-2, Angels' Patrick Sandoval facing 6-7-8 
+b4;1-2;0;---;5,(3-1) BFBBX;O;NYM;DJ Stewart;Patrick Sandoval;3%;60%;Groundout: 1B-P
+b4;1-2;1;---;1,(0-0) X;O;NYM;Danny Mendick;Patrick Sandoval;2%;63%;Flyball: CF (Deep CF)
+b4;1-2;2;---;1,(0-0) X;O;NYM;Jonathan Araúz;Patrick Sandoval;1%;64%;Flyball: RF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 2, Mets 1.
+Top of the 5th, Angels Batting, Ahead 2-1, Mets' Kodai Senga facing 1-2-3 
+t5;2-1;0;---;4,(1-2) BFC*S;O;LAA;Nolan Schanuel;Kodai Senga;-2%;62%;Strikeout Swinging
+t5;2-1;1;---;5,(3-1) BSBBB;;LAA;Shohei Ohtani;Kodai Senga;3%;64%;Walk
+t5;2-1;1;1--;2,(1-0) BX;O;LAA;Brandon Drury;Kodai Senga;-2%;62%;Groundout: 2B-1B; Ohtani to 2B
+t5;2-1;2;-2-;6,(2-2) *BCFFBS;O;LAA;Mike Moustakas;Kodai Senga;-4%;59%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 2, Mets 1.
+Bottom of the 5th, Mets Batting, Behind 1-2, Angels' Patrick Sandoval facing 9-1-2 
+b5;1-2;0;---;5,(1-2) BCC.FC;O;NYM;Tim Locastro;Patrick Sandoval;3%;62%;Strikeout Looking
+b5;1-2;1;---;6,(3-2) BBCBCX;O;NYM;Brandon Nimmo;Patrick Sandoval;2%;65%;Flyball: LF (Deep LF)
+b5;1-2;2;---;3,(0-2) FS.X;O;NYM;Francisco Lindor;Patrick Sandoval;2%;66%;Groundout: P-1B (Weak SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 2, Mets 1.
+Top of the 6th, Angels Batting, Ahead 2-1, Mets' Kodai Senga facing 5-6-7 
+t6;2-1;0;---;1,(0-0) X;O;LAA;Luis Rengifo;Kodai Senga;-2%;64%;Flyball: LF (LF Line)
+t6;2-1;1;---;7,(3-2) FBBFFB.B;;LAA;Logan O'Hoppe;Kodai Senga;3%;66%;Walk
+t6;2-1;1;1--;1,(0-0) X;OO;LAA;Hunter Renfroe;Kodai Senga;-6%;61%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 2, Mets 1.
+Bottom of the 6th, Mets Batting, Behind 1-2, Angels' Patrick Sandoval facing 3-4-5 
+b6;1-2;0;---;4,(1-2) BFF.X;O;NYM;Jeff McNeil;Patrick Sandoval;4%;65%;Popfly: SS (Deep SS-3B Hole)
+b6;1-2;1;---;6,(3-2) CBSBB.B;;NYM;Pete Alonso;Patrick Sandoval;-4%;60%;Walk
+b6;1-2;1;1--;6,(2-2) CB*BFFX;O;NYM;Francisco Alvarez;Patrick Sandoval;5%;65%;Lineout: LF (Deep LF-CF)
+b6;1-2;2;1--;8,(3-2) BCBSFB>F>C;O;NYM;DJ Stewart;Patrick Sandoval;4%;69%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 2, Mets 1.
+Top of the 7th, Angels Batting, Ahead 2-1, Mets' Kodai Senga facing 8-9-1 
+t7;2-1;0;---;4,(1-2) BFSS;O;LAA;Mickey Moniak;Kodai Senga;-2%;67%;Strikeout Swinging
+t7;2-1;1;---;7,(1-2) CSFBFF*S;O;LAA;Randal Grichuk;Kodai Senga;-2%;65%;Strikeout Swinging
+;;;;;;;;;Adam Kolarek replaces Kodai Senga pitching
+t7;2-1;2;---;5,(1-2) .BCC.FC;O;LAA;Nolan Schanuel;Adam Kolarek;-1%;64%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 2, Mets 1.
+Bottom of the 7th, Mets Batting, Behind 1-2, Angels' Matt Moore facing 7-8-9 
+;;;;;;;;;Matt Moore replaces Patrick Sandoval pitching
+b7;1-2;0;---;6,(3-2) .BSBBFX;;NYM;Danny Mendick;Matt Moore;-13%;51%;Double to RF (Fly Ball to Deep RF Line)
+b7;1-2;0;-2-;3,(1-1) CBX;;NYM;Jonathan Araúz;Matt Moore;-13%;38%;Fielder's Choice /Sacrifice Bunt; Mendick to 3B; Araúz to 1B/Adv on E2
+b7;1-2;0;1-3;3,(0-2) LSS;O;NYM;Tim Locastro;Matt Moore;12%;50%;Strikeout Swinging
+b7;1-2;1;1-3;2,(0-1) FX;OO;NYM;Brandon Nimmo;Matt Moore;25%;75%;Double Play: Flyball: LF (Short LF Line); Mendick out at Hm/LF-C
+;;;;;;;;;0 runs, 1 hit, 1 error, 1 LOB. Angels 2, Mets 1.
+Top of the 8th, Angels Batting, Ahead 2-1, Mets' Adam Kolarek facing 2-3-4 
+t8;2-1;0;---;3,(1-1) CBX;O;LAA;Shohei Ohtani;Adam Kolarek;-2%;72%;Groundout: 1B-P
+t8;2-1;1;---;2,(0-1) CX;;LAA;Brandon Drury;Adam Kolarek;2%;75%;Single to 3B (Ground Ball to Weak 3B)
+;;;;;;;;;Andrew Velazquez pinch runs for Brandon Drury (2B) batting 3rd
+t8;2-1;1;1--;5,(1-2) .FBFF1.>S;O;LAA;Mike Moustakas;Adam Kolarek;-2%;73%;Strikeout Swinging, Velazquez Steals 2B
+;;;;;;;;;Trevor Gott replaces Adam Kolarek pitching
+t8;2-1;2;-2-;7,(2-2) .CBBF.FFC;O;LAA;Luis Rengifo;Trevor Gott;-4%;69%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 2, Mets 1.
+Bottom of the 8th, Mets Batting, Behind 1-2, Angels' Reynaldo López facing 2-3-4 
+;;;;;;;;;Reynaldo López replaces Matt Moore pitchingLuis Rengifo moves from SS to 2B Andrew Velazquez moves from PR to SS 
+b8;1-2;0;---;2,(0-1) ...CX;O;NYM;Francisco Lindor;Reynaldo López;6%;76%;Flyball: LF (Deep LF Line)
+b8;1-2;1;---;6,(3-2) BSBCB.B;;NYM;Jeff McNeil;Reynaldo López;-7%;69%;Walk
+b8;1-2;1;1--;9,(3-2) CB*BBC.F1FFX;O;NYM;Pete Alonso;Reynaldo López;8%;77%;Popfly: 1B
+b8;1-2;2;1--;4,(1-2) CBCS;O;NYM;Francisco Alvarez;Reynaldo López;7%;84%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 2, Mets 1.
+Top of the 9th, Angels Batting, Ahead 2-1, Mets' Sam Coonrod facing 6-7-8 
+;;;;;;;;;Sam Coonrod replaces Trevor Gott pitching
+t9;2-1;0;---;4,(2-1) .CBBX;O;LAA;Logan O'Hoppe;Sam Coonrod;-2%;82%;Groundout: SS-1B
+t9;2-1;1;---;6,(3-2) CCBBBB;;LAA;Hunter Renfroe;Sam Coonrod;2%;84%;Walk
+t9;2-1;1;1--;7,(2-2) FTBF*BFS;O;LAA;Mickey Moniak;Sam Coonrod;-2%;82%;Strikeout Swinging
+t9;2-1;2;1--;7,(3-2) CSBBFB>B;;LAA;Randal Grichuk;Sam Coonrod;2%;84%;Walk, Wild Pitch; Renfroe to 3B
+;;;;;;;;;Brooks Raley replaces Sam Coonrod pitching
+t9;2-1;2;1-3;5,(2-2) .CBC*BX;R;LAA;Nolan Schanuel;Brooks Raley;9%;93%;Single to CF (Fly Ball to Short CF); Renfroe Scores; Grichuk to 3B
+t9;3-1;2;1-3;,(3-0) VVVV;;LAA;Shohei Ohtani;Brooks Raley;1%;93%;Intentional Walk; Schanuel to 2B
+t9;3-1;2;123;1,(0-0) X;O;LAA;Andrew Velazquez;Brooks Raley;-2%;91%;Groundout: SS-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 3 LOB. Angels 3, Mets 1.
+Bottom of the 9th, Mets Batting, Behind 1-3, Angels' Carlos Estévez facing 6-7-8 
+;;;;;;;;;Carlos Estévez replaces Reynaldo López pitching
+b9;1-3;0;---;6,(2-2) .SBBFFS;O;NYM;DJ Stewart;Carlos Estévez;5%;95%;Strikeout Swinging
+;;;;;;;;;Rafael Ortega pinch hits for Danny Mendick (2B) batting 7th
+b9;1-3;1;---;3,(1-1) .FBX;O;NYM;Rafael Ortega;Carlos Estévez;3%;99%;Flyball: CF (Deep CF)
+b9;1-3;2;---;5,(2-2) BCBFX;;NYM;Jonathan Araúz;Carlos Estévez;-3%;95%;Single to LF (Line Drive)
+;;;;;;;;;Daniel Vogelbach pinch hits for Tim Locastro (LF) batting 9th
+b9;1-3;2;1--;1,(0-0) .>B;;NYM;Daniel Vogelbach;Carlos Estévez;0%;95%;Defensive Indifference; Araúz to 2B
+b9;1-3;2;-2-;6,(3-2) .>B.BFS.BT;O;NYM;Daniel Vogelbach;Carlos Estévez;5%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 3, Mets 1.

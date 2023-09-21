@@ -1,0 +1,275 @@
+
+Scorebox Meta
+20230804
+7:10 p.m. Local
+36376
+Fenway Park
+151
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/TOR-2023.png;/teams/TOR/2023.shtml;2;1;0;1;0;2;0;0;1;7;14;0
+https://cdn.ssref.net/req/202308251/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;0;0;2;0;0;0;1;0;0;3;6;1
+
+Batting home
+Jarren Duran;/players/d/duranja01.shtml;LF-CF;4;1;3;2;0;0;4;.317;.367;.522;.889;8;6;0.229; 0.90;0.240;-0.011; 0.15%; 0.97; 2.3;1;0;HR
+Alex Verdugo;/players/v/verdual01.shtml;RF;3;0;0;0;0;1;3;.270;.343;.424;.768;8;8;-0.159; 1.40;0.000;-0.159;-0.10%; 1.52; -1.5;4;0;CS
+Rob Refsnyder;/players/r/refsnro01.shtml;PH-LF;0;0;0;0;1;0;1;.272;.393;.344;.738;5;1;0.052; 1.13;0.052;0.000; 0.03%; 1.22; 0.4;0;0;
+Masataka Yoshida;/players/y/yoshima02.shtml;DH;4;0;1;0;0;0;4;.305;.365;.481;.846;11;7;-0.006; 1.10;0.074;-0.080;-0.00%; 1.19; -0.1;;;2B
+Rafael Devers;/players/d/deverra01.shtml;3B;2;0;0;0;1;1;4;.263;.333;.510;.843;20;11;0.008; 1.12;0.069;-0.060; 0.01%; 1.21; 0.1;0;1;HBP
+Adam Duvall;/players/d/duvalad01.shtml;CF-RF;4;0;0;0;0;0;4;.242;.312;.503;.815;14;10;-0.135; 1.23;0.000;-0.135;-0.09%; 1.33; -1.3;1;0;
+Triston Casas;/players/c/casastr01.shtml;1B;4;0;0;0;0;1;4;.252;.353;.474;.827;9;8;-0.154; 1.00;0.000;-0.154;-0.10%; 1.08; -1.6;10;2;GDP
+Connor Wong;/players/w/wongco01.shtml;C;4;0;0;0;0;3;4;.243;.300;.392;.692;12;11;-0.083; 0.79;0.000;-0.083;-0.05%; 0.86; -0.9;6;0;
+Luis Urías;/players/u/uriaslu01.shtml;2B;3;1;1;0;1;1;4;.155;.310;.241;.551;15;10;0.049; 0.52;0.063;-0.014; 0.03%; 0.56; 0.3;1;3;
+Yu Chang;/players/c/changyu01.shtml;SS;3;1;1;1;0;0;3;.170;.210;.370;.580;10;7;-0.019; 1.04;0.042;-0.060;-0.01%; 1.13; 0.5;3;5;HR
+James Paxton;/players/p/paxtoja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Mauricio Llovera;/players/l/llovema01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Joe Jacques;/players/j/jacqujo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Richard Bleier;/players/b/bleieri01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Masataka Yoshida (24, off Alek Manoah).
+
+
+HR: Jarren Duran (8, off Alek Manoah, 3rd inn, 1 on, 2 outs to Deep LF-CF); Yu Chang (6, off Alek Manoah, 7th inn, 0 on, 2 outs to Deep LF-CF).
+
+
+HBP: Rafael Devers (6, by Alek Manoah).
+
+
+TB: Jarren Duran 6; Yu Chang 4; Masataka Yoshida 2; Luis Urías.
+
+
+GIDP: Triston Casas (7).
+
+
+RBI: Jarren Duran 2 (39); Yu Chang (18).
+
+
+2-out RBI: Jarren Duran 2; Yu Chang.
+
+
+Team LOB: 5.
+With RISP: 1 for 4.
+
+Batting away
+Whit Merrifield;/players/m/merriwh01.shtml;LF-2B;5;1;2;1;0;1;5;.300;.346;.429;.775;14;11;0.056; 0.67;0.105;-0.050; 0.04%; 0.88; 0.4;1;0;HR
+George Springer;/players/s/springe01.shtml;RF;3;1;1;1;1;1;5;.246;.317;.379;.696;25;15;0.122; 0.65;0.149;-0.027; 0.10%; 0.86; 1.3;2;0;2B
+Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;1B;5;1;2;2;0;0;5;.266;.343;.448;.792;22;16;0.074; 0.81;0.152;-0.078; 0.06%; 1.07; 0.9;7;0;HR,2B
+Danny Jansen;/players/j/janseda01.shtml;C;5;0;2;0;0;0;5;.228;.290;.478;.768;13;10;-0.015; 0.46;0.027;-0.042;-0.01%; 0.60; 0.0;8;0;
+Alejandro Kirk;/players/k/kirkal01.shtml;DH;5;0;1;0;0;0;5;.256;.336;.354;.689;22;14;-0.062; 0.49;0.020;-0.082;-0.05%; 0.64; -1.9;;;2·GDP
+Matt Chapman;/players/c/chapmma01.shtml;3B;4;1;2;1;1;1;5;.256;.352;.462;.814;21;12;0.045; 0.51;0.069;-0.024; 0.03%; 0.67; 1.2;2;2;HR,2B
+Davis Schneider;/players/s/schneda03.shtml;2B;5;1;2;1;0;1;5;.400;.400;1.000;1.400;16;13;0.028; 0.62;0.089;-0.061; 0.02%; 0.81; 0.3;0;1;HR
+Kevin Kiermaier;/players/k/kiermke01.shtml;CF;0;0;0;0;0;0;0;.268;.331;.411;.742;;;;;;;;;;1;0;
+Paul DeJong;/players/d/dejonpa01.shtml;SS;4;0;0;0;0;2;4;.225;.288;.398;.686;15;11;-0.078; 0.74;0.000;-0.078;-0.06%; 0.97; -1.2;4;3;
+Daulton Varsho;/players/v/varshda01.shtml;CF-LF;3;2;2;1;1;0;4;.214;.278;.362;.640;11;6;0.111; 0.47;0.118;-0.007; 0.09%; 0.62; 1.2;2;0;HR
+Alek Manoah;/players/m/manoaal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;3;
+Tim Mayza;/players/m/mayzati01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jordan Hicks;/players/h/hicksjo03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Matt Chapman (34, off James Paxton); George Springer (15, off James Paxton); Vladimir Guerrero Jr. (22, off Mauricio Llovera).
+
+
+HR: Whit Merrifield (10, off James Paxton, 1st inn, 0 on, 0 outs to Deep LF Line); Vladimir Guerrero Jr. (18, off James Paxton, 1st inn, 0 on, 1 out to Deep LF-CF); Davis Schneider (1, off James Paxton, 2nd inn, 0 on, 1 out to Deep LF); Daulton Varsho (13, off Mauricio Llovera, 6th inn, 0 on, 0 outs to Deep RF Line); Matt Chapman (15, off Richard Bleier, 9th inn, 0 on, 2 outs to Deep CF-RF).
+
+
+TB: Matt Chapman 6; Vladimir Guerrero Jr. 6; Daulton Varsho 5; Whit Merrifield 5; Davis Schneider 5; Danny Jansen 2; George Springer 2; Alejandro Kirk.
+
+
+GIDP: Alejandro Kirk 2 (15).
+
+
+RBI: Vladimir Guerrero Jr. 2 (69); George Springer (43); Matt Chapman (46); Davis Schneider (1); Daulton Varsho (35); Whit Merrifield (51).
+
+
+2-out RBI: George Springer; Matt Chapman.
+
+
+Team LOB: 9.
+With RISP: 0 for 7.
+
+Pitching home
+James Paxton;/players/p/paxtoja01.shtml; L (6-3); 5 ;9;4;4;2;4;3;3.60;26;94;62;36;13;12;7;12;5;0;35;;;-0.173; 0.79;-0.11%; 0.85; -1.3
+Mauricio Llovera;/players/l/llovema01.shtml;Mauricio Llovera; 1.1;3;2;2;1;1;1;3.00;8;31;20;11;0;9;2;4;2;0;;0;0;-0.123; 0.43;-0.08%; 0.46; -1.5
+Joe Jacques;/players/j/jacqujo01.shtml;Joe Jacques; 1.2;0;0;0;0;1;0;5.68;5;18;14;7;0;7;3;1;0;0;;1;0;0.032; 0.24; 0.02%; 0.26; 1.1
+Richard Bleier;/players/b/bleieri01.shtml;Richard Bleier; 1 ;2;1;1;0;0;1;5.40;4;16;12;8;0;4;2;2;0;0;;0;0;-0.016; 0.14;-0.01%; 0.15; -0.5
+
+Pitching away
+Alek Manoah;/players/m/manoaal01.shtml; W (3-8); 6.2;6;3;3;2;5;2;5.72;27;89;62;33;12;17;9;10;3;0;53;;;0.130; 1.07; 0.10%; 1.40; 0.7
+Tim Mayza;/players/m/mayzati01.shtml; H (16); 1 ;0;0;0;1;1;0;1.18;4;14;8;3;0;5;1;1;1;0;;0;0;0.044; 1.27; 0.03%; 1.66; 0.4
+Jordan Hicks;/players/h/hicksjo03.shtml; S (9); 1.1;0;0;0;0;1;0;3.80;4;9;9;3;2;4;1;2;1;0;;1;0;0.045; 0.40; 0.03%; 0.52; 0.8
+
+indiv_events
+
+Balks: None.
+WP: James Paxton (3).
+HBP: Alek Manoah (9; Rafael Devers).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: James Paxton (3).
+HBP: Alek Manoah (9; Rafael Devers).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Rob Drake, 1B - Bill Miller, 2B - Chad Whitson, 3B - Roberto Ortiz, LF - (none), RF - (none).
+Time of Game: 2:31.
+Attendance: 36,376.
+Field Condition: Unknown.
+Start Time Weather: 77° F, Wind 3mph out to Centerfield, Overcast, No Precipitation.
+
+div_lineups
+Blue Jays
+1;Whit Merrifield;/players/m/merriwh01.shtml;LF
+2;George Springer;/players/s/springe01.shtml;RF
+3;Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;1B
+4;Danny Jansen;/players/j/janseda01.shtml;C
+5;Alejandro Kirk;/players/k/kirkal01.shtml;DH
+6;Matt Chapman;/players/c/chapmma01.shtml;3B
+7;Davis Schneider;/players/s/schneda03.shtml;2B
+8;Paul DeJong;/players/d/dejonpa01.shtml;SS
+9;Daulton Varsho;/players/v/varshda01.shtml;CF
+; Alek Manoah;/players/m/manoaal01.shtml;P
+Red Sox
+1;Jarren Duran;/players/d/duranja01.shtml;LF
+2;Alex Verdugo;/players/v/verdual01.shtml;RF
+3;Masataka Yoshida;/players/y/yoshima02.shtml;DH
+4;Rafael Devers;/players/d/deverra01.shtml;3B
+5;Adam Duvall;/players/d/duvalad01.shtml;CF
+6;Triston Casas;/players/c/casastr01.shtml;1B
+7;Connor Wong;/players/w/wongco01.shtml;C
+8;Luis Urías;/players/u/uriaslu01.shtml;2B
+9;Yu Chang;/players/c/changyu01.shtml;SS
+; James Paxton;/players/p/paxtoja01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;0-3;2;1--;4,(2-1) CBBX;RR;BOS;Jarren Duran;Alek Manoah;-18%;61%;Home Run (Fly Ball to Deep LF-CF); Urías Scores
+t4;3-2;2;1--;3,(1-1) FBX;R;TOR;George Springer;James Paxton;12%;71%;Double to LF (Fly Ball to Deep LF-CF); Varsho Scores
+b4;2-4;1;12-;1,(0-0) X;OO;BOS;Triston Casas;Alek Manoah;11%;74%;Ground Ball Double Play: SS-1B (SS-2B)
+t1;0-0;0;---;1,(0-0) X;R;TOR;Whit Merrifield;James Paxton;9%;59%;Home Run (Fly Ball to Deep LF Line)
+t1;1-0;1;---;2,(0-1) SX;R;TOR;Vladimir Guerrero Jr.;James Paxton;9%;66%;Home Run (Fly Ball to Deep LF-CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Blue Jays Batting, Tied 0-0, Red Sox' James Paxton facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;R;TOR;Whit Merrifield;James Paxton;9%;59%;Home Run (Fly Ball to Deep LF Line)
+t1;1-0;0;---;1,(0-0) X;O;TOR;George Springer;James Paxton;-2%;57%;Flyball: LF (Deep LF-CF)
+t1;1-0;1;---;2,(0-1) SX;R;TOR;Vladimir Guerrero Jr.;James Paxton;9%;66%;Home Run (Fly Ball to Deep LF-CF)
+t1;2-0;1;---;2,(0-1) CX;O;TOR;Danny Jansen;James Paxton;-1%;65%;Groundout: 3B-1B (Deep SS-3B Hole)
+t1;2-0;2;---;5,(3-1) BBBCX;O;TOR;Alejandro Kirk;James Paxton;-1%;64%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Blue Jays 2, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Behind 0-2, Blue Jays' Alek Manoah facing 1-2-3 
+b1;0-2;0;---;1,(0-0) X;;BOS;Jarren Duran;Alek Manoah;-4%;60%;Single to RF (Line Drive to Short RF)
+b1;0-2;0;1--;3,(0-2) CCX;O;BOS;Alex Verdugo;Alek Manoah;4%;64%;Groundout: P-SS/Forceout at 2B; Verdugo to 1B
+b1;0-2;1;1--;1,(0-1) CN;O;BOS;Masataka Yoshida;Alek Manoah;4%;68%;Verdugo Caught Stealing 2B (P-SS)
+b1;0-2;2;---;2,(0-1) CN.X;O;BOS;Masataka Yoshida;Alek Manoah;1%;69%;Lineout: LF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Blue Jays 2, Red Sox 0.
+Top of the 2nd, Blue Jays Batting, Ahead 2-0, Red Sox' James Paxton facing 6-7-8 
+t2;2-0;0;---;2,(0-1) CX;O;TOR;Matt Chapman;James Paxton;-2%;67%;Flyball: RF (Deep CF-RF)
+t2;2-0;1;---;3,(1-1) BFX;R;TOR;Davis Schneider;James Paxton;8%;76%;Home Run (Fly Ball to Deep LF)
+t2;3-0;1;---;2,(1-0) BX;O;TOR;Paul DeJong;James Paxton;-1%;75%;Groundout: P-1B
+t2;3-0;2;---;5,(3-1) BCBBB;;TOR;Daulton Varsho;James Paxton;1%;75%;Walk
+t2;3-0;2;1--;5,(1-2) BCSFX;;TOR;Whit Merrifield;James Paxton;1%;77%;Single to SS (Ground Ball to Weak SS); Varsho to 2B
+t2;3-0;2;12-;6,(2-2) CFBF*BX;;TOR;George Springer;James Paxton;2%;78%;Reached on Interference on C; Varsho to 3B; Merrifield to 2B; Springer to 1B
+t2;3-0;2;123;5,(2-2) *BCF*BX;O;TOR;Vladimir Guerrero Jr.;James Paxton;-5%;74%;Groundout: SS-1B
+;;;;;;;;;1 run, 2 hits, 1 error, 3 LOB. Blue Jays 3, Red Sox 0.
+Bottom of the 2nd, Red Sox Batting, Behind 0-3, Blue Jays' Alek Manoah facing 4-5-6 
+b2;0-3;0;---;6,(2-2) BSBFFX;O;BOS;Rafael Devers;Alek Manoah;2%;76%;Groundout: 2B-1B
+b2;0-3;1;---;5,(2-2) CS.BBX;O;BOS;Adam Duvall;Alek Manoah;2%;78%;Flyball: CF (Short CF-RF)
+b2;0-3;2;---;4,(1-2) CC.BT;O;BOS;Triston Casas;Alek Manoah;1%;79%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 3, Red Sox 0.
+Top of the 3rd, Blue Jays Batting, Ahead 3-0, Red Sox' James Paxton facing 4-5-6 
+t3;3-0;0;---;1,(0-0) X;;TOR;Danny Jansen;James Paxton;2%;81%;Single to LF (Line Drive to Deep LF-CF)
+t3;3-0;0;1--;2,(0-1) CX;OO;TOR;Alejandro Kirk;James Paxton;-5%;76%;Ground Ball Double Play: 2B-SS-1B
+t3;3-0;2;---;2,(0-1) CX;;TOR;Matt Chapman;James Paxton;1%;78%;Double to LF (Line Drive to LF Line)
+t3;3-0;2;-2-;1,(0-0) S;;TOR;Davis Schneider;James Paxton;0%;78%;Wild Pitch; Chapman to 3B
+t3;3-0;2;--3;2,(0-1) S.X;O;TOR;Davis Schneider;James Paxton;-2%;75%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Blue Jays 3, Red Sox 0.
+Bottom of the 3rd, Red Sox Batting, Behind 0-3, Blue Jays' Alek Manoah facing 7-8-9 
+b3;0-3;0;---;3,(0-2) CFS;O;BOS;Connor Wong;Alek Manoah;2%;78%;Strikeout Swinging
+b3;0-3;1;---;6,(3-2) BBFFBB;;BOS;Luis Urías;Alek Manoah;-3%;75%;Walk
+b3;0-3;1;1--;3,(1-1) FBX;O;BOS;Yu Chang;Alek Manoah;3%;78%;Lineout: 3B (SS-3B Hole)
+b3;0-3;2;1--;4,(2-1) CBBX;RR;BOS;Jarren Duran;Alek Manoah;-18%;61%;Home Run (Fly Ball to Deep LF-CF); Urías Scores
+b3;2-3;2;---;2,(0-1) CX;O;BOS;Alex Verdugo;Alek Manoah;1%;62%;Groundout: P-1B
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Blue Jays 3, Red Sox 2.
+Top of the 4th, Blue Jays Batting, Ahead 3-2, Red Sox' James Paxton facing 8-9-1 
+t4;3-2;0;---;6,(2-2) BSS.FBS;O;TOR;Paul DeJong;James Paxton;-2%;59%;Strikeout Swinging
+t4;3-2;1;---;2,(0-1) CX;;TOR;Daulton Varsho;James Paxton;3%;62%;Single to 1B (Ground Ball)
+t4;3-2;1;1--;5,(2-2) FBSBS;O;TOR;Whit Merrifield;James Paxton;-3%;59%;Strikeout Swinging
+t4;3-2;2;1--;3,(1-1) FBX;R;TOR;George Springer;James Paxton;12%;71%;Double to LF (Fly Ball to Deep LF-CF); Varsho Scores
+t4;4-2;2;-2-;7,(3-2) FBBBFFX;O;TOR;Vladimir Guerrero Jr.;James Paxton;-3%;68%;Lineout: SS (Deep SS)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Blue Jays 4, Red Sox 2.
+Bottom of the 4th, Red Sox Batting, Behind 2-4, Blue Jays' Alek Manoah facing 3-4-5 
+b4;2-4;0;---;4,(2-1) CBBX;;BOS;Masataka Yoshida;Alek Manoah;-7%;61%;Double to CF (Fly Ball to LF-CF)
+b4;2-4;0;-2-;4,(1-2) BSFH;;BOS;Rafael Devers;Alek Manoah;-5%;56%;Hit By Pitch
+b4;2-4;0;12-;3,(1-1) FBX;O;BOS;Adam Duvall;Alek Manoah;7%;63%;Foul Popfly: C (Behind Home)
+b4;2-4;1;12-;1,(0-0) X;OO;BOS;Triston Casas;Alek Manoah;11%;74%;Ground Ball Double Play: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 4, Red Sox 2.
+Top of the 5th, Blue Jays Batting, Ahead 4-2, Red Sox' James Paxton facing 4-5-6 
+t5;4-2;0;---;6,(3-2) BBSFBX;O;TOR;Danny Jansen;James Paxton;-2%;72%;Popfly: 1B (P's Left)
+t5;4-2;1;---;4,(1-2) CBFX;;TOR;Alejandro Kirk;James Paxton;2%;74%;Single to RF (Line Drive)
+t5;4-2;1;1--;6,(3-2) BBFBF*B;;TOR;Matt Chapman;James Paxton;3%;77%;Walk; Kirk to 2B
+t5;4-2;1;12-;5,(1-2) CSF*B*S;O;TOR;Davis Schneider;James Paxton;-4%;74%;Strikeout Swinging
+t5;4-2;2;12-;4,(1-2) FSBS;O;TOR;Paul DeJong;James Paxton;-4%;70%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Blue Jays 4, Red Sox 2.
+Bottom of the 5th, Red Sox Batting, Behind 2-4, Blue Jays' Alek Manoah facing 7-8-9 
+b5;2-4;0;---;4,(1-2) SBF.S;O;BOS;Connor Wong;Alek Manoah;3%;73%;Strikeout Swinging
+b5;2-4;1;---;4,(1-2) CBSX;;BOS;Luis Urías;Alek Manoah;-4%;70%;Single to RF (Ground Ball)
+b5;2-4;1;1--;3,(1-1) CB1X;O;BOS;Yu Chang;Alek Manoah;3%;73%;Groundout: SS-1B (Weak SS-2B); Urías to 2B
+b5;2-4;2;-2-;1,(0-0) X;;BOS;Jarren Duran;Alek Manoah;-3%;70%;Single to SS (Ground Ball to SS-2B); Urías to 3B
+b5;2-4;2;1-3;3,(0-2) CFS;O;BOS;Alex Verdugo;Alek Manoah;7%;77%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Blue Jays 4, Red Sox 2.
+Top of the 6th, Blue Jays Batting, Ahead 4-2, Red Sox' Mauricio Llovera facing 9-1-2 
+;;;;;;;;;Mauricio Llovera replaces James Paxton pitching
+t6;4-2;0;---;2,(1-0) .BX;R;TOR;Daulton Varsho;Mauricio Llovera;8%;86%;Home Run (Fly Ball to Deep RF Line)
+t6;5-2;0;---;2,(0-1) CX;O;TOR;Whit Merrifield;Mauricio Llovera;-1%;84%;Groundout: 1B-P
+t6;5-2;1;---;7,(3-2) BBFCBFB;;TOR;George Springer;Mauricio Llovera;1%;86%;Walk
+t6;5-2;1;1--;4,(0-2) CFF>X;R;TOR;Vladimir Guerrero Jr.;Mauricio Llovera;6%;92%;Double to CF (Line Drive to Deep LF-CF); Springer Scores
+t6;6-2;1;-2-;1,(0-0) X;O;TOR;Danny Jansen;Mauricio Llovera;-1%;91%;Flyball: RF (Deep RF); Guerrero to 3B
+t6;6-2;2;--3;5,(2-2) BCBCX;O;TOR;Alejandro Kirk;Mauricio Llovera;-1%;89%;Lineout: RF (Deep RF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Blue Jays 6, Red Sox 2.
+Bottom of the 6th, Red Sox Batting, Behind 2-6, Blue Jays' Alek Manoah facing 3-4-5 
+b6;2-6;0;---;3,(1-1) CBX;O;BOS;Masataka Yoshida;Alek Manoah;2%;92%;Groundout: 1B unassisted
+b6;2-6;1;---;5,(3-1) BBCBB;;BOS;Rafael Devers;Alek Manoah;-2%;89%;Walk
+b6;2-6;1;1--;4,(1-2) SFBX;O;BOS;Adam Duvall;Alek Manoah;3%;92%;Flyball: RF (CF-RF)
+b6;2-6;2;1--;2,(0-1) SX;O;BOS;Triston Casas;Alek Manoah;2%;94%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Blue Jays 6, Red Sox 2.
+Top of the 7th, Blue Jays Batting, Ahead 6-2, Red Sox' Mauricio Llovera facing 6-7-8 
+t7;6-2;0;---;6,(3-2) FBCBBC;O;TOR;Matt Chapman;Mauricio Llovera;-1%;93%;Strikeout Looking
+t7;6-2;1;---;4,(1-2) BCCX;;TOR;Davis Schneider;Mauricio Llovera;1%;94%;Single to 2B (Ground Ball)
+;;;;;;;;;Joe Jacques replaces Mauricio Llovera pitching
+t7;6-2;1;1--;3,(0-2) .CFX;O;TOR;Paul DeJong;Joe Jacques;-1%;93%;Groundout: 1B-SS/Forceout at 2B (2B-1B); DeJong to 1B
+t7;6-2;2;1--;2,(0-1) CX;O;TOR;Daulton Varsho;Joe Jacques;-1%;92%;Flyball: RF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 6, Red Sox 2.
+Bottom of the 7th, Red Sox Batting, Behind 2-6, Blue Jays' Alek Manoah facing 7-8-9 
+b7;2-6;0;---;3,(0-2) FSS;O;BOS;Connor Wong;Alek Manoah;2%;94%;Strikeout Swinging
+b7;2-6;1;---;2,(0-1) FX;O;BOS;Luis Urías;Alek Manoah;1%;95%;Groundout: 3B-1B (SS-3B Hole)
+b7;2-6;2;---;4,(1-2) CCBX;R;BOS;Yu Chang;Alek Manoah;-4%;91%;Home Run (Fly Ball to Deep LF-CF)
+;;;;;;;;;Tim Mayza replaces Alek Manoah pitching
+b7;3-6;2;---;2,(0-1) .CX;O;BOS;Jarren Duran;Tim Mayza;1%;92%;Lineout: RF (Deep RF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Blue Jays 6, Red Sox 3.
+Top of the 8th, Blue Jays Batting, Ahead 6-3, Red Sox' Joe Jacques facing 1-2-3 
+t8;6-3;0;---;1,(0-0) X;O;TOR;Whit Merrifield;Joe Jacques;-1%;92%;Groundout: SS-1B (Deep SS)
+t8;6-3;1;---;8,(3-2) CBBCBFF.C;O;TOR;George Springer;Joe Jacques;-1%;91%;Strikeout Looking
+t8;6-3;2;---;4,(1-2) CBCX;O;TOR;Vladimir Guerrero Jr.;Joe Jacques;0%;91%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 6, Red Sox 3.
+Bottom of the 8th, Red Sox Batting, Behind 3-6, Blue Jays' Tim Mayza facing 2-3-4 
+;;;;;;;;;Rob Refsnyder pinch hits for Alex Verdugo (RF) batting 2nd
+b8;3-6;0;---;5,(3-1) .CBBBB;;BOS;Rob Refsnyder;Tim Mayza;-5%;85%;Walk
+b8;3-6;0;1--;2,(1-0) BX;O;BOS;Masataka Yoshida;Tim Mayza;5%;90%;Groundout: 3B-SS/Forceout at 2B; Yoshida to 1B
+b8;3-6;1;1--;5,(1-2) CCBFC;O;BOS;Rafael Devers;Tim Mayza;4%;94%;Strikeout Looking
+;;;;;;;;;Jordan Hicks replaces Tim Mayza pitching
+b8;3-6;2;1--;2,(0-1) .CX;O;BOS;Adam Duvall;Jordan Hicks;2%;96%;Foul Popfly: 3B (3B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Blue Jays 6, Red Sox 3.
+Top of the 9th, Blue Jays Batting, Ahead 6-3, Red Sox' Richard Bleier facing 4-5-6 
+;;;;;;;;;Richard Bleier replaces Joe Jacques pitchingRob Refsnyder moves from PH to LF Jarren Duran moves from LF to CF Adam Duvall moves from CF to RF 
+t9;6-3;0;---;3,(0-2) ....CFX;;TOR;Danny Jansen;Richard Bleier;1%;97%;Single to SS (Ground Ball to Weak SS-2B)
+t9;6-3;0;1--;6,(2-2) BBCFFX;OO;TOR;Alejandro Kirk;Richard Bleier;-1%;96%;Ground Ball Double Play: SS-2B-1B
+t9;6-3;2;---;5,(2-2) FBBCX;R;TOR;Matt Chapman;Richard Bleier;2%;98%;Home Run (Fly Ball to Deep CF-RF)
+t9;7-3;2;---;2,(0-1) CX;O;TOR;Davis Schneider;Richard Bleier;0%;98%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Blue Jays 7, Red Sox 3.
+Bottom of the 9th, Red Sox Batting, Behind 3-7, Blue Jays' Jordan Hicks facing 6-7-8 
+;;;;;;;;;Whit Merrifield moves from LF to 2B Daulton Varsho moves from CF to LF Kevin Kiermaier replaces Davis Schneider (2B) playing CF batting 7th
+b9;3-7;0;---;2,(0-1) ...CX;O;BOS;Triston Casas;Jordan Hicks;1%;99%;Groundout: SS-1B (Deep SS-2B)
+b9;3-7;1;---;2,(0-1) CX;O;BOS;Connor Wong;Jordan Hicks;1%;100%;Lineout: CF (Deep CF)
+b9;3-7;2;---;3,(0-2) CSS;O;BOS;Luis Urías;Jordan Hicks;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 7, Red Sox 3.

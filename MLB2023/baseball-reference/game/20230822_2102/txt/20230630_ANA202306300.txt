@@ -1,0 +1,267 @@
+
+Scorebox Meta
+20230630
+6:38 p.m. Local
+34957
+Angel Stadium of Anaheim
+167
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/ARI-2023.png;/teams/ARI/2023.shtml;1;4;0;0;0;0;0;1;0;6;5;1
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;0;0;0;0;1;0;1;0;2;4;0
+
+Batting home
+Taylor Ward;/players/w/wardta01.shtml;LF;4;0;1;0;0;0;4;.240;.312;.373;.685;12;8;-0.027; 0.51;0.017;-0.044;-0.02%; 0.56; -0.3;3;0;
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;2;2;1;1;2;0;4;.310;.396;.674;1.070;17;6;0.065; 0.57;0.084;-0.019; 0.04%; 0.64; 1.4;;;HR
+Mike Trout;/players/t/troutmi01.shtml;CF;4;0;2;0;0;1;4;.263;.368;.491;.860;16;9;0.100; 0.79;0.114;-0.014; 0.07%; 0.88; 1.5;3;0;
+Anthony Rendon;/players/r/rendoan01.shtml;3B;3;0;0;0;1;1;4;.243;.363;.309;.672;17;8;-0.115; 1.32;0.026;-0.140;-0.08%; 1.48; -1.2;1;1;GDP
+Mike Moustakas;/players/m/moustmi01.shtml;1B;4;0;0;0;0;3;4;.265;.355;.432;.787;18;12;-0.098; 0.97;0.000;-0.098;-0.07%; 1.08; -1.2;7;1;
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;4;0;0;0;0;1;4;.250;.296;.455;.752;17;10;-0.064; 0.60;0.000;-0.064;-0.04%; 0.67; -1.0;0;0;
+Eduardo Escobar;/players/e/escobed01.shtml;2B;4;0;0;0;0;2;4;.246;.293;.408;.701;24;15;-0.048; 0.45;0.000;-0.048;-0.03%; 0.50; -0.8;1;2;
+Chad Wallach;/players/w/wallach01.shtml;C;2;0;0;0;0;1;2;.221;.288;.432;.720;8;6;-0.021; 0.39;0.000;-0.021;-0.01%; 0.43; -0.4;9;0;
+Matt Thaiss;/players/t/thaisma01.shtml;PH-C;1;0;0;0;0;0;2;.267;.373;.387;.760;7;3;0.019; 0.27;0.021;-0.002; 0.01%; 0.29; 0.2;2;0;HBP
+David Fletcher;/players/f/fletcda02.shtml;SS;2;0;0;0;0;0;2;.222;.263;.306;.569;5;5;-0.025; 0.47;0.000;-0.025;-0.02%; 0.53; -0.4;0;4;
+Luis Rengifo;/players/r/rengilu01.shtml;PH-SS;1;0;0;0;0;1;1;.202;.292;.298;.590;3;3;-0.024; 0.93;0.000;-0.024;-0.02%; 1.04; -0.3;0;0;
+Griffin Canning;/players/c/cannigr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Aaron Loup;/players/l/loupaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Victor Mederos;/players/m/medervi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Shohei Ohtani (30, off Tommy Henry, 6th inn, 0 on, 0 outs to Deep RF).
+
+
+HBP: Matt Thaiss (3, by Miguel Castro).
+
+
+TB: Shohei Ohtani 4; Mike Trout 2; Taylor Ward.
+
+
+GIDP: Anthony Rendon (5).
+
+
+RBI: Shohei Ohtani (67).
+
+
+Team LOB: 6.
+With RISP: 0 for 3.
+
+Batting away
+Geraldo Perdomo;/players/p/perdoge01.shtml;SS;4;1;0;0;1;0;5;.285;.388;.435;.823;20;11;-0.020; 0.45;0.018;-0.039;-0.02%; 0.60; -1.2;1;1;
+Ketel Marte;/players/m/marteke01.shtml;2B;4;1;1;0;1;1;5;.291;.372;.514;.885;19;11;0.009; 0.53;0.032;-0.023; 0.01%; 0.71; -0.1;2;3;
+Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;DH;5;2;2;4;0;1;5;.274;.324;.496;.821;18;13;0.249; 0.73;0.265;-0.016; 0.20%; 0.97; 2.7;;;HR
+Christian Walker;/players/w/walkech02.shtml;1B;4;0;0;0;1;2;5;.278;.343;.522;.865;20;15;0.008; 0.25;0.019;-0.012; 0.01%; 0.33; -0.4;5;1;
+Evan Longoria;/players/l/longoev01.shtml;3B;3;1;1;1;1;2;4;.254;.313;.562;.874;21;12;0.088; 0.55;0.100;-0.012; 0.07%; 0.73; 0.8;0;2;
+Dominic Fletcher;/players/f/fletcdo01.shtml;LF;4;0;1;0;0;2;4;.305;.345;.463;.808;17;13;-0.042; 0.48;0.005;-0.047;-0.03%; 0.65; -0.4;2;0;
+Alek Thomas;/players/t/thomaal01.shtml;CF;3;0;0;0;1;2;4;.222;.268;.366;.634;19;12;-0.019; 0.34;0.009;-0.027;-0.01%; 0.45; 0.2;3;0;
+Carson Kelly;/players/k/kellyca02.shtml;C;2;0;0;1;1;1;4;.200;.242;.233;.476;16;9;-0.008; 0.36;0.013;-0.022;-0.01%; 0.48; -0.1;11;0;SF
+Jake McCarthy;/players/m/mccarja02.shtml;RF;2;1;0;0;1;0;4;.247;.319;.355;.674;12;7;0.000; 0.23;0.013;-0.013;0%; 0.31; -0.1;3;0;HBP
+Tommy Henry;/players/h/henryto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Austin Adams;/players/a/adamsau02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Miguel Castro;/players/c/castrmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andrew Chafin;/players/c/chafian01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kevin Ginkel;/players/g/ginkeke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Lourdes Gurriel Jr. (13, off Griffin Canning, 2nd inn, 3 on, 2 outs to Deep LF).
+
+
+SF: Carson Kelly (1, off Victor Mederos).
+
+
+HBP: Jake McCarthy (3, by Victor Mederos).
+
+
+TB: Lourdes Gurriel Jr. 5; Ketel Marte; Dominic Fletcher; Evan Longoria.
+
+
+RBI: Lourdes Gurriel Jr. 4 (49); Evan Longoria (22); Carson Kelly (3).
+
+
+2-out RBI: Lourdes Gurriel Jr. 4; Evan Longoria.
+
+
+Team LOB: 7.
+With RISP: 2 for 5.
+
+Pitching home
+Griffin Canning;/players/c/cannigr01.shtml; L (6-3); 6 ;3;5;5;4;9;1;4.29;25;112;72;35;20;17;7;5;1;0;51;;;-0.267; 0.59;-0.18%; 0.65; -1.8
+Aaron Loup;/players/l/loupaa01.shtml;Aaron Loup; 1 ;1;0;0;1;0;0;4.79;5;18;11;6;1;4;2;2;1;0;;0;0;0.013; 0.29; 0.01%; 0.32; 0.5
+Victor Mederos;/players/m/medervi01.shtml;Victor Mederos; 2 ;1;1;1;2;2;0;4.50;10;32;20;7;2;11;2;3;1;0;;0;0;-0.011; 0.15;-0.01%; 0.16; 0.1
+
+Pitching away
+Tommy Henry;/players/h/henryto01.shtml; W (5-1); 5.2;4;1;1;2;8;1;4.08;23;95;58;31;12;15;3;10;4;0;63;;;0.155; 0.76; 0.12%; 1.02; 1.9
+Austin Adams;/players/a/adamsau02.shtml;Austin Adams; 0.1;0;0;0;0;0;0;3.38;1;6;3;1;1;1;0;1;0;0;;1;0;0.017; 0.58; 0.01%; 0.78; 0.2
+Miguel Castro;/players/c/castrmi01.shtml;Miguel Castro; 1 ;0;0;0;0;1;0;3.24;4;10;6;3;0;3;0;2;0;0;;0;0;0.037; 0.66; 0.03%; 0.88; 0.5
+Andrew Chafin;/players/c/chafian01.shtml;Andrew Chafin; 1 ;0;1;0;1;0;0;2.89;4;17;8;5;2;1;3;0;0;0;;0;0;0.007; 0.63; 0.01%; 0.84; -0.5
+Kevin Ginkel;/players/g/ginkeke01.shtml;Kevin Ginkel; 1 ;0;0;0;0;1;0;2.59;3;16;10;7;1;2;1;1;1;0;;0;0;0.020; 0.25; 0.02%; 0.34; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Miguel Castro (1; Matt Thaiss); Victor Mederos (1; Jake McCarthy).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Miguel Castro (1; Matt Thaiss); Victor Mederos (1; Jake McCarthy).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Ramon De Jesus, 1B - Alfonso Márquez, 2B - Doug Eddings, 3B - Lance Barrett, LF - (none), RF - (none).
+Time of Game: 2:47.
+Attendance: 34,957.
+Field Condition: Unknown.
+Start Time Weather: 76° F, Wind 8mph out to Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Diamondbacks
+1;Geraldo Perdomo;/players/p/perdoge01.shtml;SS
+2;Ketel Marte;/players/m/marteke01.shtml;2B
+3;Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;DH
+4;Christian Walker;/players/w/walkech02.shtml;1B
+5;Evan Longoria;/players/l/longoev01.shtml;3B
+6;Dominic Fletcher;/players/f/fletcdo01.shtml;LF
+7;Alek Thomas;/players/t/thomaal01.shtml;CF
+8;Carson Kelly;/players/k/kellyca02.shtml;C
+9;Jake McCarthy;/players/m/mccarja02.shtml;RF
+; Tommy Henry;/players/h/henryto01.shtml;P
+Angels
+1;Taylor Ward;/players/w/wardta01.shtml;LF
+2;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+3;Mike Trout;/players/t/troutmi01.shtml;CF
+4;Anthony Rendon;/players/r/rendoan01.shtml;3B
+5;Mike Moustakas;/players/m/moustmi01.shtml;1B
+6;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+7;Eduardo Escobar;/players/e/escobed01.shtml;2B
+8;Chad Wallach;/players/w/wallach01.shtml;C
+9;David Fletcher;/players/f/fletcda02.shtml;SS
+; Griffin Canning;/players/c/cannigr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;1-0;2;123;6,(3-2) CBBC.*B>X;RRRR;ARI;Lourdes Gurriel Jr.;Griffin Canning;25%;88%;Home Run (Fly Ball to Deep LF); McCarthy Scores; Perdomo Scores; Marte Scores
+t1;0-0;2;12-;6,(2-2) BSSFBX;R;ARI;Evan Longoria;Griffin Canning;10%;59%;Single to LF (Line Drive); Gurriel Scores; Walker to 2B
+b8;1-6;0;1-3;2,(1-0) BX;ROO;LAA;Anthony Rendon;Andrew Chafin;6%;98%;Ground Ball Double Play: SS-2B-1B (Weak SS); Ohtani Scores/No RBI/unER
+b1;0-1;1;12-;6,(3-2) CBBSBS;O;LAA;Anthony Rendon;Tommy Henry;5%;56%;Strikeout Swinging
+b1;0-1;2;12-;3,(0-2) CFS;O;LAA;Mike Moustakas;Tommy Henry;4%;60%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Diamondbacks Batting, Tied 0-0, Angels' Griffin Canning facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;ARI;Geraldo Perdomo;Griffin Canning;-2%;48%;Groundout: SS-1B
+t1;0-0;1;---;7,(2-2) BCBCF.FX;O;ARI;Ketel Marte;Griffin Canning;-2%;46%;Flyball: CF (Deep CF)
+t1;0-0;2;---;2,(0-1) SX;;ARI;Lourdes Gurriel Jr.;Griffin Canning;1%;47%;Single to 2B (Ground Ball)
+t1;0-0;2;1--;7,(3-2) BBSS.1*B>F>B;;ARI;Christian Walker;Griffin Canning;2%;49%;Walk; Gurriel to 2B
+t1;0-0;2;12-;6,(2-2) BSSFBX;R;ARI;Evan Longoria;Griffin Canning;10%;59%;Single to LF (Line Drive); Gurriel Scores; Walker to 2B
+t1;1-0;2;12-;5,(2-2) SB+2FBX;O;ARI;Dominic Fletcher;Griffin Canning;-4%;55%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Diamondbacks 1, Angels 0.
+Bottom of the 1st, Angels Batting, Behind 0-1, Diamondbacks' Tommy Henry facing 1-2-3 
+b1;0-1;0;---;2,(0-1) CX;O;LAA;Taylor Ward;Tommy Henry;2%;57%;Lineout: CF (Deep CF)
+b1;0-1;1;---;4,(3-0) BBBB;;LAA;Shohei Ohtani;Tommy Henry;-3%;55%;Walk
+b1;0-1;1;1--;2,(1-0) BX;;LAA;Mike Trout;Tommy Henry;-4%;51%;Single to LF (Line Drive); Ohtani to 2B
+b1;0-1;1;12-;6,(3-2) CBBSBS;O;LAA;Anthony Rendon;Tommy Henry;5%;56%;Strikeout Swinging
+b1;0-1;2;12-;3,(0-2) CFS;O;LAA;Mike Moustakas;Tommy Henry;4%;60%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Diamondbacks 1, Angels 0.
+Top of the 2nd, Diamondbacks Batting, Ahead 1-0, Angels' Griffin Canning facing 7-8-9 
+t2;1-0;0;---;5,(1-2) BSCFX;O;ARI;Alek Thomas;Griffin Canning;-2%;58%;Groundout: 3B-1B
+t2;1-0;1;---;1,(0-0) X;O;ARI;Carson Kelly;Griffin Canning;-2%;57%;Popfly: 3B (Weak 3B)
+t2;1-0;2;---;6,(3-2) BBSFBB;;ARI;Jake McCarthy;Griffin Canning;1%;58%;Walk
+t2;1-0;2;1--;5,(3-1) C+11BBBB;;ARI;Geraldo Perdomo;Griffin Canning;2%;60%;Walk; McCarthy to 2B
+t2;1-0;2;12-;5,(3-1) BBBCB;;ARI;Ketel Marte;Griffin Canning;3%;62%;Walk; McCarthy to 3B; Perdomo to 2B
+t2;1-0;2;123;6,(3-2) CBBC.*B>X;RRRR;ARI;Lourdes Gurriel Jr.;Griffin Canning;25%;88%;Home Run (Fly Ball to Deep LF); McCarthy Scores; Perdomo Scores; Marte Scores
+t2;5-0;2;---;3,(0-2) FSS;O;ARI;Christian Walker;Griffin Canning;0%;87%;Strikeout Swinging
+;;;;;;;;;4 runs, 1 hit, 0 errors, 0 LOB. Diamondbacks 5, Angels 0.
+Bottom of the 2nd, Angels Batting, Behind 0-5, Diamondbacks' Tommy Henry facing 6-7-8 
+b2;0-5;0;---;2,(0-1) CX;O;LAA;Hunter Renfroe;Tommy Henry;2%;89%;Foul Popfly: C (Behind Home)
+b2;0-5;1;---;8,(3-2) BBBCFF.FS;O;LAA;Eduardo Escobar;Tommy Henry;1%;90%;Strikeout Swinging
+b2;0-5;2;---;2,(0-1) CX;O;LAA;Chad Wallach;Tommy Henry;1%;90%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 5, Angels 0.
+Top of the 3rd, Diamondbacks Batting, Ahead 5-0, Angels' Griffin Canning facing 5-6-7 
+t3;5-0;0;---;3,(0-2) CC.S;O;ARI;Evan Longoria;Griffin Canning;-1%;90%;Strikeout Swinging
+t3;5-0;1;---;5,(1-2) FBFFS;O;ARI;Dominic Fletcher;Griffin Canning;-1%;89%;Strikeout Swinging
+t3;5-0;2;---;6,(2-2) BBCSFS;O;ARI;Alek Thomas;Griffin Canning;0%;89%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 5, Angels 0.
+Bottom of the 3rd, Angels Batting, Behind 0-5, Diamondbacks' Tommy Henry facing 9-1-2 
+b3;0-5;0;---;3,(0-2) CFX;O;LAA;David Fletcher;Tommy Henry;2%;90%;Groundout: 2B-1B
+b3;0-5;1;---;2,(1-0) BX;;LAA;Taylor Ward;Tommy Henry;-2%;89%;Single to CF (Line Drive to Deep CF)
+b3;0-5;1;1--;5,(2-2) BBCS.X;O;LAA;Shohei Ohtani;Tommy Henry;2%;90%;Groundout: 1B-SS/Forceout at 2B; Ohtani to 1B
+b3;0-5;2;1--;6,(2-2) CSF*BB.S;O;LAA;Mike Trout;Tommy Henry;1%;92%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 5, Angels 0.
+Top of the 4th, Diamondbacks Batting, Ahead 5-0, Angels' Griffin Canning facing 8-9-1 
+t4;5-0;0;---;6,(2-2) BCBF.FS;O;ARI;Carson Kelly;Griffin Canning;-1%;91%;Strikeout Swinging
+t4;5-0;1;---;1,(0-0) X;O;ARI;Jake McCarthy;Griffin Canning;0%;91%;Flyball: CF (Deep CF)
+t4;5-0;2;---;5,(2-2) BCF.BX;O;ARI;Geraldo Perdomo;Griffin Canning;0%;90%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 5, Angels 0.
+Bottom of the 4th, Angels Batting, Behind 0-5, Diamondbacks' Tommy Henry facing 4-5-6 
+b4;0-5;0;---;6,(3-2) BBCFBB;;LAA;Anthony Rendon;Tommy Henry;-3%;88%;Walk
+b4;0-5;0;1--;7,(3-2) CSFBBBS;O;LAA;Mike Moustakas;Tommy Henry;2%;90%;Strikeout Swinging
+b4;0-5;1;1--;5,(2-2) FBBFS;O;LAA;Hunter Renfroe;Tommy Henry;2%;92%;Strikeout Swinging
+b4;0-5;2;1--;5,(2-2) BCBFX;O;LAA;Eduardo Escobar;Tommy Henry;1%;93%;Flyball: RF (Short RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Diamondbacks 5, Angels 0.
+Top of the 5th, Diamondbacks Batting, Ahead 5-0, Angels' Griffin Canning facing 2-3-4 
+t5;5-0;0;---;5,(2-2) CBFBS;O;ARI;Ketel Marte;Griffin Canning;-1%;93%;Strikeout Swinging
+t5;5-0;1;---;3,(0-2) CFX;O;ARI;Lourdes Gurriel Jr.;Griffin Canning;0%;92%;Groundout: SS-1B (SS-3B Hole)
+t5;5-0;2;---;4,(1-2) FFBX;O;ARI;Christian Walker;Griffin Canning;0%;92%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 5, Angels 0.
+Bottom of the 5th, Angels Batting, Behind 0-5, Diamondbacks' Tommy Henry facing 8-9-1 
+b5;0-5;0;---;6,(2-2) BFS.BFS;O;LAA;Chad Wallach;Tommy Henry;1%;94%;Strikeout Swinging
+b5;0-5;1;---;2,(0-1) CX;O;LAA;David Fletcher;Tommy Henry;1%;95%;Flyball: RF (Short CF-RF)
+b5;0-5;2;---;7,(3-2) FBBF.FBX;O;LAA;Taylor Ward;Tommy Henry;1%;95%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 5, Angels 0.
+Top of the 6th, Diamondbacks Batting, Ahead 5-0, Angels' Griffin Canning facing 5-6-7 
+t6;5-0;0;---;8,(3-2) CFBFBBFS;O;ARI;Evan Longoria;Griffin Canning;0%;95%;Strikeout Swinging
+t6;5-0;1;---;4,(1-2) BCFS;O;ARI;Dominic Fletcher;Griffin Canning;0%;94%;Strikeout Swinging
+t6;5-0;2;---;3,(0-2) CSS;O;ARI;Alek Thomas;Griffin Canning;0%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 5, Angels 0.
+Bottom of the 6th, Angels Batting, Behind 0-5, Diamondbacks' Tommy Henry facing 2-3-4 
+b6;0-5;0;---;2,(1-0) BX;R;LAA;Shohei Ohtani;Tommy Henry;-4%;90%;Home Run (Fly Ball to Deep RF)
+b6;1-5;0;---;2,(1-0) BX;;LAA;Mike Trout;Tommy Henry;-3%;86%;Single to CF (Line Drive to Deep LF-CF)
+b6;1-5;0;1--;3,(1-1) FBX;O;LAA;Anthony Rendon;Tommy Henry;3%;90%;Groundout: 3B-2B/Forceout at 2B; Rendon to 1B
+b6;1-5;1;1--;5,(2-2) CFBBC;O;LAA;Mike Moustakas;Tommy Henry;3%;92%;Strikeout Looking
+;;;;;;;;;Austin Adams replaces Tommy Henry pitching
+b6;1-5;2;1--;6,(3-2) .BSBCB>X;O;LAA;Hunter Renfroe;Austin Adams;2%;94%;Foul Popfly: 1B (Behind Home)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Diamondbacks 5, Angels 1.
+Top of the 7th, Diamondbacks Batting, Ahead 5-1, Angels' Aaron Loup facing 8-9-1 
+;;;;;;;;;Aaron Loup replaces Griffin Canning pitching
+t7;5-1;0;---;5,(3-1) .CBBBB;;ARI;Carson Kelly;Aaron Loup;1%;95%;Walk
+t7;5-1;0;1--;4,(0-2) MCFX;O;ARI;Jake McCarthy;Aaron Loup;-1%;94%;Flyball: LF (Deep LF)
+t7;5-1;1;1--;6,(3-2) BBBCFX;O;ARI;Geraldo Perdomo;Aaron Loup;-1%;93%;Groundout: SS-2B/Forceout at 2B; Perdomo to 1B
+t7;5-1;2;1--;1,(0-0) X;;ARI;Ketel Marte;Aaron Loup;0%;94%;Single to CF (Line Drive); Perdomo to 2B
+t7;5-1;2;12-;2,(0-1) CX;O;ARI;Lourdes Gurriel Jr.;Aaron Loup;-1%;93%;Groundout: 1B-P (Weak 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Diamondbacks 5, Angels 1.
+Bottom of the 7th, Angels Batting, Behind 1-5, Diamondbacks' Miguel Castro facing 7-8-9 
+;;;;;;;;;Miguel Castro replaces Austin Adams pitching
+b7;1-5;0;---;5,(3-1) .BCBBX;O;LAA;Eduardo Escobar;Miguel Castro;2%;94%;Flyball: LF (Deep LF Line)
+;;;;;;;;;Matt Thaiss pinch hits for Chad Wallach (C) batting 8th
+b7;1-5;1;---;1,(0-0) .H;;LAA;Matt Thaiss;Miguel Castro;-2%;92%;Hit By Pitch
+;;;;;;;;;Luis Rengifo pinch hits for David Fletcher (SS) batting 9th
+b7;1-5;1;1--;3,(0-2) .CFC;O;LAA;Luis Rengifo;Miguel Castro;2%;95%;Strikeout Looking
+b7;1-5;2;1--;1,(0-0) X;O;LAA;Taylor Ward;Miguel Castro;2%;96%;Flyball: RF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Diamondbacks 5, Angels 1.
+Top of the 8th, Diamondbacks Batting, Ahead 5-1, Angels' Victor Mederos facing 4-5-6 
+;;;;;;;;;Victor Mederos replaces Aaron Loup pitchingMatt Thaiss moves from PH to C Luis Rengifo moves from PH to SS 
+t8;5-1;0;---;2,(0-1) ...CX;O;ARI;Christian Walker;Victor Mederos;0%;96%;Groundout: 2B-1B
+t8;5-1;1;---;4,(3-0) BBBB;;ARI;Evan Longoria;Victor Mederos;0%;96%;Walk
+t8;5-1;1;1--;3,(0-2) CCX;;ARI;Dominic Fletcher;Victor Mederos;1%;97%;Single to RF (Ground Ball thru 2B-1B); Longoria to 2B
+t8;5-1;1;12-;5,(3-1) BB*BCB;;ARI;Alek Thomas;Victor Mederos;1%;98%;Walk; Longoria to 3B; Fletcher to 2B
+t8;5-1;1;123;4,(1-2) CBC.X;RO;ARI;Carson Kelly;Victor Mederos;1%;98%;Lineout: CF/Sacrifice Fly (Deep CF-RF); Longoria Scores; Fletcher to 3B
+t8;6-1;2;1-3;1,(0-0) H;;ARI;Jake McCarthy;Victor Mederos;0%;98%;Hit By Pitch; Thomas to 2B
+t8;6-1;2;123;3,(0-2) CFX;O;ARI;Geraldo Perdomo;Victor Mederos;-1%;98%;Flyball: LF
+;;;;;;;;;1 run, 1 hit, 0 errors, 3 LOB. Diamondbacks 6, Angels 1.
+Bottom of the 8th, Angels Batting, Behind 1-6, Diamondbacks' Andrew Chafin facing 2-3-4 
+;;;;;;;;;Andrew Chafin replaces Miguel Castro pitching
+b8;1-6;0;---;6,(3-2) .FS.BBBB;;LAA;Shohei Ohtani;Andrew Chafin;-2%;96%;Walk
+b8;1-6;0;1--;6,(3-2) CBSB*BX;;LAA;Mike Trout;Andrew Chafin;-4%;92%;Fielder's Choice 1B; Ohtani to 3B/Adv on E3 (throw); Trout to 1B
+b8;1-6;0;1-3;2,(1-0) BX;ROO;LAA;Anthony Rendon;Andrew Chafin;6%;98%;Ground Ball Double Play: SS-2B-1B (Weak SS); Ohtani Scores/No RBI/unER
+b8;2-6;2;---;3,(1-1) BFX;O;LAA;Mike Moustakas;Andrew Chafin;0%;98%;Groundout: 3B-1B
+;;;;;;;;;1 run, 0 hits, 1 error, 0 LOB. Diamondbacks 6, Angels 2.
+Top of the 9th, Diamondbacks Batting, Ahead 6-2, Angels' Victor Mederos facing 2-3-4 
+t9;6-2;0;---;1,(0-0) X;O;ARI;Ketel Marte;Victor Mederos;0%;98%;Flyball: LF (Deep LF)
+t9;6-2;1;---;5,(2-2) CBBCS;O;ARI;Lourdes Gurriel Jr.;Victor Mederos;0%;98%;Strikeout Swinging
+t9;6-2;2;---;4,(0-2) CC.FS;O;ARI;Christian Walker;Victor Mederos;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 6, Angels 2.
+Bottom of the 9th, Angels Batting, Behind 2-6, Diamondbacks' Kevin Ginkel facing 6-7-8 
+;;;;;;;;;Kevin Ginkel replaces Andrew Chafin pitching
+b9;2-6;0;---;4,(2-1) .CBBX;O;LAA;Hunter Renfroe;Kevin Ginkel;1%;99%;Lineout: LF (LF Line)
+b9;2-6;1;---;6,(1-2) BFT.FFS;O;LAA;Eduardo Escobar;Kevin Ginkel;1%;100%;Strikeout Swinging
+b9;2-6;2;---;6,(3-2) BFBBC.X;O;LAA;Matt Thaiss;Kevin Ginkel;0%;100%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 6, Angels 2.

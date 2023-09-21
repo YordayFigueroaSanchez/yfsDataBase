@@ -1,0 +1,295 @@
+
+Scorebox Meta
+20230722
+1:20 p.m. Local
+40425
+Wrigley Field
+195
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/STL-2023.png;/teams/STL/2023.shtml;1;0;2;0;2;1;0;0;0;6;10;0
+https://cdn.ssref.net/req/202308101/tlogo/br/CHC-2023.png;/teams/CHC/2023.shtml;0;1;2;0;2;3;0;0;X;8;15;1
+
+Batting home
+Mike Tauchman;/players/t/tauchmi01.shtml;CF;5;1;1;0;0;0;5;.258;.363;.387;.749;18;13;-0.026; 1.15;0.071;-0.097;-0.01%; 0.46; -0.7;2;0;
+Nico Hoerner;/players/h/hoernni01.shtml;2B;4;3;3;0;1;0;5;.273;.328;.383;.711;23;14;0.164; 1.03;0.178;-0.015; 0.04%; 0.41; 1.2;1;2;2B,SB
+Ian Happ;/players/h/happia01.shtml;LF;3;3;2;0;2;1;5;.246;.373;.387;.761;21;11;0.235; 1.62;0.265;-0.030; 0.06%; 0.65; 1.8;1;0;2B
+Cody Bellinger;/players/b/bellico01.shtml;1B;5;0;2;4;0;0;5;.319;.371;.539;.910;22;14;0.250; 2.08;0.368;-0.118; 0.06%; 0.83; 1.5;8;0;
+Seiya Suzuki;/players/s/suzukse01.shtml;RF;5;0;3;2;0;1;5;.264;.341;.405;.746;16;12;0.055; 1.24;0.158;-0.103; 0.01%; 0.50; 0.9;1;0;SB
+Dansby Swanson;/players/s/swansda01.shtml;SS;4;1;2;1;0;1;5;.261;.347;.413;.760;20;12;0.143; 1.17;0.190;-0.048; 0.03%; 0.47; 1.4;0;3;2B,HBP
+Christopher Morel;/players/m/morelch01.shtml;DH;4;0;1;1;1;3;5;.268;.329;.531;.860;28;13;0.032; 1.05;0.113;-0.081; 0.01%; 0.42; -0.4;;;
+Yan Gomes;/players/g/gomesya01.shtml;C;5;0;1;0;0;1;5;.263;.306;.416;.722;19;13;-0.103; 1.25;0.030;-0.133;-0.03%; 0.50; -1.6;12;0;
+Miles Mastrobuoni;/players/m/mastrmi01.shtml;3B;2;0;0;0;0;0;2;.212;.302;.282;.584;9;6;-0.070; 1.29;0.000;-0.070;-0.02%; 0.52; -0.7;1;0;
+Patrick Wisdom;/players/w/wisdopa01.shtml;PH-3B;1;0;0;0;1;1;2;.197;.294;.486;.780;11;5;-0.025; 1.00;0.016;-0.041;-0.01%; 0.40; 0.1;0;2;
+Michael Fulmer;/players/f/fulmemi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Drew Smyly;/players/s/smylydr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Daniel Palencia;/players/p/palenda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Julian Merryweather;/players/m/merryju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Mark Leiter Jr.;/players/l/leitema02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adbert Alzolay;/players/a/alzolad01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Dansby Swanson (16, off Miles Mikolas); Nico Hoerner (16, off Miles Mikolas); Ian Happ (20, off Miles Mikolas).
+
+
+HBP: Dansby Swanson (3, by Drew VerHagen).
+
+
+TB: Nico Hoerner 4; Dansby Swanson 3; Seiya Suzuki 3; Ian Happ 3; Cody Bellinger 2; Christopher Morel; Yan Gomes; Mike Tauchman.
+
+
+RBI: Cody Bellinger 4 (41); Seiya Suzuki 2 (33); Dansby Swanson (37); Christopher Morel (43).
+
+
+2-out RBI: Dansby Swanson.
+
+
+Team LOB: 12.
+With RISP: 7 for 17.
+
+Batting away
+Lars Nootbaar;/players/n/nootbla01.shtml;CF;4;3;3;1;1;1;5;.264;.364;.398;.761;18;11;0.316; 1.38;0.347;-0.031; 0.04%; 0.26; 2.6;5;0;HR,2B
+Paul Goldschmidt;/players/g/goldspa01.shtml;1B;4;1;1;1;1;1;5;.283;.371;.466;.837;13;7;0.009; 1.21;0.090;-0.081; 0.00%; 0.23; 0.2;2;1;
+Nolan Gorman;/players/g/gormano01.shtml;2B;4;1;2;1;1;0;5;.243;.325;.489;.813;19;12;0.215; 1.32;0.257;-0.042; 0.02%; 0.25; 2.0;2;1;HR
+Nolan Arenado;/players/a/arenano01.shtml;DH;3;1;1;0;1;0;4;.286;.336;.520;.856;20;11;-0.026; 1.36;0.045;-0.071;-0.00%; 0.26; -0.2;;;
+Brendan Donovan;/players/d/donovbr01.shtml;PH-DH;1;0;1;0;0;0;1;.286;.374;.434;.808;1;1;0.054; 1.15;0.054;0.000; 0.01%; 0.21; 0.4;;;
+Willson Contreras;/players/c/contrwi01.shtml;C;2;0;1;2;0;0;3;.244;.339;.428;.767;9;5;0.054; 1.34;0.132;-0.078; 0.01%; 0.25; 0.1;3;1;2B,SF,GDP
+Iván Herrera;/players/h/herreiv01.shtml;C;1;0;0;0;0;1;1;.368;.455;.421;.876;8;6;-0.036; 1.37;0.000;-0.036;-0.00%; 0.26; -0.3;6;0;
+Alec Burleson;/players/b/burleal01.shtml;PH;1;0;0;0;0;1;1;.237;.290;.389;.679;9;6;-0.053; 2.18;0.000;-0.053;-0.01%; 0.41; -0.3;;;
+Tyler O'Neill;/players/o/oneilty01.shtml;LF;4;0;1;0;1;2;5;.235;.310;.343;.653;27;17;-0.056; 1.05;0.040;-0.096;-0.01%; 0.20; -0.4;2;0;
+Jordan Walker;/players/w/walkejo02.shtml;RF;4;0;0;0;0;2;4;.279;.340;.447;.787;13;11;-0.096; 1.07;0.000;-0.096;-0.01%; 0.20; -1.1;0;0;
+Paul DeJong;/players/d/dejonpa01.shtml;SS;4;0;0;0;0;2;4;.234;.299;.426;.725;15;11;-0.127; 1.19;0.000;-0.127;-0.01%; 0.22; -1.1;2;0;
+José Fermín;/players/f/fermijo01.shtml;3B;4;0;0;0;0;1;4;.091;.167;.091;.258;19;12;-0.097; 0.90;0.000;-0.097;-0.01%; 0.17; -0.8;1;1;
+Miles Mikolas;/players/m/mikolmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Zack Thompson;/players/t/thompza02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Drew VerHagen;/players/v/verhadr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dakota Hudson;/players/h/hudsoda02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Lars Nootbaar (13, off Drew Smyly); Willson Contreras (22, off Drew Smyly).
+
+
+HR: Lars Nootbaar (7, off Michael Fulmer, 1st inn, 0 on, 0 outs to Deep LF); Nolan Gorman (20, off Drew Smyly, 5th inn, 0 on, 2 outs to Deep RF).
+
+
+SF: Willson Contreras (2, off Drew Smyly).
+
+
+TB: Lars Nootbaar 7; Nolan Gorman 5; Willson Contreras 2; Tyler O'Neill; Brendan Donovan; Paul Goldschmidt; Nolan Arenado.
+
+
+GIDP: Willson Contreras (11).
+
+
+RBI: Willson Contreras 2 (40); Paul Goldschmidt (50); Lars Nootbaar (28); Nolan Gorman (62).
+
+
+2-out RBI: Nolan Gorman; Willson Contreras.
+
+
+Team LOB: 9.
+With RISP: 1 for 9.
+
+Pitching home
+Michael Fulmer;/players/f/fulmemi01.shtml;Michael Fulmer; 2 ;3;1;1;1;2;1;4.43;9;29;18;11;4;3;4;2;1;0;47;;;0.001; 1.04; 0.00%; 0.41; 0.1
+Drew Smyly;/players/s/smylydr01.shtml;Drew Smyly; 3.2;6;5;4;1;5;1;4.60;19;79;54;30;10;14;4;9;7;0;;0;0;-0.259; 1.04;-0.06%; 0.42; -2.1
+Daniel Palencia;/players/p/palenda01.shtml; W (2-0); 0.1;0;0;0;2;0;0;2.84;3;15;5;2;0;3;1;0;0;0;;1;1;-0.135; 2.38;-0.03%; 0.95; -0.8
+Julian Merryweather;/players/m/merryju01.shtml; H (7); 1 ;0;0;0;0;2;0;4.01;3;18;14;8;2;4;1;0;0;0;;0;0;0.075; 0.96; 0.02%; 0.38; 0.5
+Mark Leiter Jr.;/players/l/leitema02.shtml; H (16); 1 ;0;0;0;1;0;0;3.29;4;14;8;5;0;3;3;0;0;0;;0;0;0.081; 1.08; 0.02%; 0.43; 0.5
+Adbert Alzolay;/players/a/alzolad01.shtml; S (9); 1 ;1;0;0;0;2;0;2.51;4;16;11;7;2;2;0;2;2;0;;0;0;0.081; 1.48; 0.02%; 0.59; 0.5
+
+Pitching away
+Miles Mikolas;/players/m/mikolmi01.shtml;Miles Mikolas; 5 ;11;5;5;1;3;0;4.33;26;102;70;44;7;19;7;15;5;0;27;;;-0.300; 1.36;-0.03%; 0.26; -2.3
+Zack Thompson;/players/t/thompza02.shtml; L (2-3); 0.1;2;3;3;2;1;0;5.79;5;23;11;3;0;8;1;1;1;0;;0;0;-0.392; 2.39;-0.04%; 0.45; -2.7
+Drew VerHagen;/players/v/verhadr01.shtml;Drew VerHagen; 0.2;1;0;0;0;2;0;4.70;4;20;10;3;6;1;1;0;0;0;;2;1;-0.008; 1.47;-0.00%; 0.28; 0.2
+Dakota Hudson;/players/h/hudsoda02.shtml;Dakota Hudson; 2 ;1;0;0;2;2;0;2.40;9;42;24;14;4;6;2;3;2;0;;0;0;0.043; 0.48; 0.01%; 0.09; 1.1
+
+indiv_events
+
+Balks: None.
+WP: Zack Thompson (1); Daniel Palencia 2 (3).
+HBP: Drew VerHagen (2; Dansby Swanson).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Zack Thompson (1); Daniel Palencia 2 (3).
+HBP: Drew VerHagen (2; Dansby Swanson).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Cory Blaser, 1B - Brock Ballou, 2B - Jansen Visconti, 3B - Ron Kulpa, LF - (none), RF - (none).
+Time of Game: 3:15.
+Attendance: 40,425.
+Field Condition: Unknown.
+Start Time Weather: 82° F, Wind 9mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Cardinals
+1;Lars Nootbaar;/players/n/nootbla01.shtml;CF
+2;Paul Goldschmidt;/players/g/goldspa01.shtml;1B
+3;Nolan Gorman;/players/g/gormano01.shtml;2B
+4;Nolan Arenado;/players/a/arenano01.shtml;DH
+5;Willson Contreras;/players/c/contrwi01.shtml;C
+6;Tyler O'Neill;/players/o/oneilty01.shtml;LF
+7;Jordan Walker;/players/w/walkejo02.shtml;RF
+8;Paul DeJong;/players/d/dejonpa01.shtml;SS
+9;José Fermín;/players/f/fermijo01.shtml;3B
+; Miles Mikolas;/players/m/mikolmi01.shtml;P
+Cubs
+1;Mike Tauchman;/players/t/tauchmi01.shtml;CF
+2;Nico Hoerner;/players/h/hoernni01.shtml;2B
+3;Ian Happ;/players/h/happia01.shtml;LF
+4;Cody Bellinger;/players/b/bellico01.shtml;1B
+5;Seiya Suzuki;/players/s/suzukse01.shtml;RF
+6;Dansby Swanson;/players/s/swansda01.shtml;SS
+7;Christopher Morel;/players/m/morelch01.shtml;DH
+8;Yan Gomes;/players/g/gomesya01.shtml;C
+9;Miles Mastrobuoni;/players/m/mastrmi01.shtml;3B
+; Michael Fulmer;/players/f/fulmemi01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b6;5-6;1;123;6,(2-2) BC.CBFX;RR;CHC;Cody Bellinger;Zack Thompson;23%;80%;Single to RF (Ground Ball thru 2B-1B); Tauchman Scores; Hoerner Scores; Happ to 3B
+t5;3-3;2;---;5,(2-2) FBFBX;R;STL;Nolan Gorman;Drew Smyly;-14%;41%;Home Run (Fly Ball to Deep RF)
+b3;1-3;1;12-;7,(2-2) FFFBFB>X;R;CHC;Cody Bellinger;Miles Mikolas;14%;52%;Single to LF (Ground Ball); Hoerner Scores; Happ to 3B
+t6;5-5;2;123;2,(0-1) C.B;R;STL;Nolan Arenado;Daniel Palencia;-13%;34%;Wild Pitch; Nootbaar Scores/No RBI; Goldschmidt to 3B; Gorman to 2B
+t5;4-3;2;1--;4,(2-1) BCBX;R;STL;Willson Contreras;Drew Smyly;-13%;27%;Double to CF (Line Drive to Deep LF-CF); Arenado Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Cardinals Batting, Tied 0-0, Cubs' Michael Fulmer facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;R;STL;Lars Nootbaar;Michael Fulmer;-9%;41%;Home Run (Fly Ball to Deep LF)
+t1;1-0;0;---;1,(0-0) X;O;STL;Paul Goldschmidt;Michael Fulmer;2%;43%;Groundout: P-1B (P's Left)
+t1;1-0;1;---;1,(0-0) X;;STL;Nolan Gorman;Michael Fulmer;-2%;41%;Single to RF (Line Drive to Deep CF-RF)
+t1;1-0;1;1--;5,(3-1) BFBBB;;STL;Nolan Arenado;Michael Fulmer;-3%;37%;Walk; Gorman to 2B
+t1;1-0;1;12-;2,(0-1) FX;OO;STL;Willson Contreras;Michael Fulmer;8%;45%;Ground Ball Double Play: 2B-1B (SS-2B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Cardinals 1, Cubs 0.
+Bottom of the 1st, Cubs Batting, Behind 0-1, Cardinals' Miles Mikolas facing 1-2-3 
+b1;0-1;0;---;1,(0-0) X;O;CHC;Mike Tauchman;Miles Mikolas;-2%;43%;Flyball: LF (Deep LF Line)
+b1;0-1;1;---;6,(3-2) BBFBC.X;;CHC;Nico Hoerner;Miles Mikolas;3%;45%;Single to RF (Ground Ball thru 2B-1B)
+b1;0-1;1;1--;4,(0-2) CSFS;O;CHC;Ian Happ;Miles Mikolas;-3%;42%;Strikeout Swinging
+b1;0-1;2;1--;4,(2-1) BF*B>C;;CHC;Cody Bellinger;Miles Mikolas;1%;43%;Hoerner Steals 2B
+b1;0-1;2;-2-;5,(2-2) BF*B>C.X;O;CHC;Cody Bellinger;Miles Mikolas;-3%;40%;Lineout: LF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cardinals 1, Cubs 0.
+Top of the 2nd, Cardinals Batting, Ahead 1-0, Cubs' Michael Fulmer facing 6-7-8 
+t2;1-0;0;---;1,(0-0) X;;STL;Tyler O'Neill;Michael Fulmer;-3%;37%;Single to CF (Ground Ball thru SS-2B)
+t2;1-0;0;1--;6,(2-2) CBBS.1F>X;O;STL;Jordan Walker;Michael Fulmer;2%;38%;Groundout: C unassisted; O'Neill to 2B
+t2;1-0;1;-2-;5,(2-2) SBTBS;O;STL;Paul DeJong;Michael Fulmer;3%;42%;Strikeout Swinging
+t2;1-0;2;-2-;7,(3-2) CBCFBBS;O;STL;José Fermín;Michael Fulmer;3%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cardinals 1, Cubs 0.
+Bottom of the 2nd, Cubs Batting, Behind 0-1, Cardinals' Miles Mikolas facing 5-6-7 
+b2;0-1;0;---;4,(1-2) CBFX;O;CHC;Seiya Suzuki;Miles Mikolas;-3%;42%;Flyball: CF (Deep CF)
+b2;0-1;1;---;1,(0-0) X;;CHC;Dansby Swanson;Miles Mikolas;4%;47%;Double to RF (Line Drive to Deep RF Line)
+b2;0-1;1;-2-;3,(1-1) BSX;R;CHC;Christopher Morel;Miles Mikolas;9%;55%;Single to LF (Line Drive to Short LF Line); Swanson Scores
+b2;1-1;1;1--;1,(0-0) X;O;CHC;Yan Gomes;Miles Mikolas;-2%;53%;Groundout: 3B-1B (Weak SS); Morel to 2B
+b2;1-1;2;-2-;4,(1-2) BCFX;O;CHC;Miles Mastrobuoni;Miles Mikolas;-3%;50%;Foul Popfly: 3B (3B into Foul Terr.)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Cardinals 1, Cubs 1.
+Top of the 3rd, Cardinals Batting, Tied 1-1, Cubs' Drew Smyly facing 1-2-3 
+;;;;;;;;;Drew Smyly replaces Michael Fulmer pitching
+t3;1-1;0;---;4,(1-2) .BCCX;;STL;Lars Nootbaar;Drew Smyly;-7%;43%;Double to RF (Ground Ball)
+t3;1-1;0;-2-;1,(0-0) X;R;STL;Paul Goldschmidt;Drew Smyly;-8%;36%;Single to RF (Line Drive to Deep CF-RF); Nootbaar Scores
+t3;2-1;0;1--;6,(1-2) CBSFFX;;STL;Nolan Gorman;Drew Smyly;-5%;31%;Fielder's Choice P; Goldschmidt to 2B/Adv on E1; Gorman to 1B
+t3;2-1;0;12-;3,(1-1) BCX;O;STL;Nolan Arenado;Drew Smyly;0%;31%;Groundout: 2B-1B (Front of Home); Goldschmidt to 3B; Gorman to 2B
+;;;;;;;;;Force Play Challenged by CHC manager (David Ross): Original call overturned as shown.
+t3;2-1;1;-23;3,(2-0) BBX;RO;STL;Willson Contreras;Drew Smyly;-1%;31%;Flyball: RF/Sacrifice Fly (Deep RF); Goldschmidt Scores/unER; Gorman to 3B
+t3;3-1;2;--3;6,(2-2) CCBFBC;O;STL;Tyler O'Neill;Drew Smyly;3%;34%;Strikeout Looking
+;;;;;;;;;2 runs, 2 hits, 1 error, 1 LOB. Cardinals 3, Cubs 1.
+Bottom of the 3rd, Cubs Batting, Behind 1-3, Cardinals' Miles Mikolas facing 1-2-3 
+b3;1-3;0;---;6,(2-2) CBFBFX;O;CHC;Mike Tauchman;Miles Mikolas;-3%;31%;Flyball: CF (Deep LF-CF)
+b3;1-3;1;---;5,(1-2) CBFFX;;CHC;Nico Hoerner;Miles Mikolas;3%;34%;Single to RF (Fly Ball to Short RF)
+b3;1-3;1;1--;5,(2-2) CBS*B1X;;CHC;Ian Happ;Miles Mikolas;4%;38%;Single to LF (Line Drive); Hoerner to 2B
+b3;1-3;1;12-;7,(2-2) FFFBFB>X;R;CHC;Cody Bellinger;Miles Mikolas;14%;52%;Single to LF (Ground Ball); Hoerner Scores; Happ to 3B
+b3;2-3;1;1-3;4,(0-2) CFF*S;O;CHC;Seiya Suzuki;Miles Mikolas;-8%;44%;Strikeout Swinging
+b3;2-3;2;1-3;2,(0-1) FX;R;CHC;Dansby Swanson;Miles Mikolas;11%;56%;Single to CF (Ground Ball thru SS-2B); Happ Scores; Bellinger to 3B
+b3;3-3;2;1-3;3,(0-2) SFB;O;CHC;Christopher Morel;Miles Mikolas;-6%;50%;Baserunner Out Advancing; Bellinger out at Hm/C-P
+;;;;;;;;;Tag play Challenged by CHC manager (David Ross): Original call upheld upon review.
+;;;;;;;;;2 runs, 4 hits, 0 errors, 1 LOB. Cardinals 3, Cubs 3.
+Top of the 4th, Cardinals Batting, Tied 3-3, Cubs' Drew Smyly facing 7-8-9 
+t4;3-3;0;---;1,(0-0) .X;O;STL;Jordan Walker;Drew Smyly;3%;53%;Lineout: LF (LF-CF)
+t4;3-3;1;---;4,(1-2) CBS.S;O;STL;Paul DeJong;Drew Smyly;2%;55%;Strikeout Swinging
+t4;3-3;2;---;4,(1-2) BCF.X;O;STL;José Fermín;Drew Smyly;1%;56%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 3, Cubs 3.
+Bottom of the 4th, Cubs Batting, Tied 3-3, Cardinals' Miles Mikolas facing 7-8-9 
+b4;3-3;0;---;7,(3-2) CCFBB.BS;O;CHC;Christopher Morel;Miles Mikolas;-3%;53%;Strikeout Swinging
+b4;3-3;1;---;3,(1-1) CBX;;CHC;Yan Gomes;Miles Mikolas;3%;56%;Single to RF (Fly Ball to Short RF)
+b4;3-3;1;1--;5,(2-2) BCBCX;O;CHC;Miles Mastrobuoni;Miles Mikolas;-3%;53%;Groundout: 1B-SS/Forceout at 2B (Weak 1B); Mastrobuoni to 1B
+b4;3-3;2;1--;5,(2-2) FBF1BX;O;CHC;Mike Tauchman;Miles Mikolas;-3%;50%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cardinals 3, Cubs 3.
+Top of the 5th, Cardinals Batting, Tied 3-3, Cubs' Drew Smyly facing 1-2-3 
+t5;3-3;0;---;3,(0-2) CCC;O;STL;Lars Nootbaar;Drew Smyly;3%;53%;Strikeout Looking
+t5;3-3;1;---;4,(1-2) BSS*S;O;STL;Paul Goldschmidt;Drew Smyly;2%;55%;Strikeout Swinging
+t5;3-3;2;---;5,(2-2) FBFBX;R;STL;Nolan Gorman;Drew Smyly;-14%;41%;Home Run (Fly Ball to Deep RF)
+t5;4-3;2;---;7,(2-2) SSBFBFX;;STL;Nolan Arenado;Drew Smyly;-1%;40%;Single to CF (Line Drive)
+t5;4-3;2;1--;4,(2-1) BCBX;R;STL;Willson Contreras;Drew Smyly;-13%;27%;Double to CF (Line Drive to Deep LF-CF); Arenado Scores
+t5;5-3;2;-2-;8,(3-2) FFBFBBFB;;STL;Tyler O'Neill;Drew Smyly;-1%;26%;Walk
+t5;5-3;2;12-;3,(0-2) FFS;O;STL;Jordan Walker;Drew Smyly;4%;30%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Cardinals 5, Cubs 3.
+Bottom of the 5th, Cubs Batting, Behind 3-5, Cardinals' Miles Mikolas facing 2-3-4 
+b5;3-5;0;---;2,(0-1) CX;;CHC;Nico Hoerner;Miles Mikolas;8%;38%;Double to LF (Line Drive to Deep LF)
+b5;3-5;0;-2-;1,(0-0) X;;CHC;Ian Happ;Miles Mikolas;12%;50%;Double to LF (Fly Ball to Short LF Line); Hoerner to 3B
+b5;3-5;0;-23;1,(0-0) X;RO;CHC;Cody Bellinger;Miles Mikolas;-1%;49%;Groundout: 2B-1B (2B-1B); Hoerner Scores; Happ to 3B
+b5;4-5;1;--3;2,(0-1) CX;R;CHC;Seiya Suzuki;Miles Mikolas;8%;57%;Single to CF (Fly Ball to Short CF); Happ Scores
+b5;5-5;1;1--;5,(2-2) CCBBX;O;CHC;Dansby Swanson;Miles Mikolas;-4%;53%;Popfly: SS (SS-2B)
+b5;5-5;2;1--;5,(3-1) *BBFBB;;CHC;Christopher Morel;Miles Mikolas;3%;56%;Walk; Suzuki to 2B
+b5;5-5;2;12-;5,(2-2) CBBFX;O;CHC;Yan Gomes;Miles Mikolas;-6%;50%;Groundout: 2B unassisted/Forceout at 2B (SS-2B); Gomes to 1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Cardinals 5, Cubs 5.
+Top of the 6th, Cardinals Batting, Tied 5-5, Cubs' Drew Smyly facing 8-9-1 
+t6;5-5;0;---;5,(1-2) FSFBX;O;STL;Paul DeJong;Drew Smyly;3%;53%;Lineout: 3B
+t6;5-5;1;---;4,(2-1) BBFX;O;STL;José Fermín;Drew Smyly;3%;56%;Lineout: CF (Deep CF)
+t6;5-5;2;---;4,(2-1) CBBX;;STL;Lars Nootbaar;Drew Smyly;-2%;54%;Single to CF (Ground Ball thru SS-2B)
+;;;;;;;;;Daniel Palencia replaces Drew Smyly pitching
+t6;5-5;2;1--;1,(0-0) .B;;STL;Paul Goldschmidt;Daniel Palencia;-2%;53%;Wild Pitch; Nootbaar to 2B
+t6;5-5;2;-2-;4,(3-0) .B.BBB;;STL;Paul Goldschmidt;Daniel Palencia;-1%;51%;Walk
+t6;5-5;2;12-;6,(3-2) BBCBC>B;;STL;Nolan Gorman;Daniel Palencia;-4%;47%;Walk; Nootbaar to 3B; Goldschmidt to 2B
+t6;5-5;2;123;2,(0-1) C.B;R;STL;Nolan Arenado;Daniel Palencia;-13%;34%;Wild Pitch; Nootbaar Scores/No RBI; Goldschmidt to 3B; Gorman to 2B
+t6;6-5;2;-23;5,(2-2) C.B.BFX;O;STL;Nolan Arenado;Daniel Palencia;7%;41%;Groundout: SS-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Cardinals 6, Cubs 5.
+Bottom of the 6th, Cubs Batting, Behind 5-6, Cardinals' Zack Thompson facing 9-1-2 
+;;;;;;;;;Zack Thompson replaces Miles Mikolas pitchingIván Herrera replaces Willson Contreras playing C batting 5thPatrick Wisdom pinch hits for Miles Mastrobuoni (3B) batting 9th
+b6;5-6;0;---;5,(2-2) ...BCCBC;O;CHC;Patrick Wisdom;Zack Thompson;-4%;37%;Strikeout Looking
+b6;5-6;1;---;1,(0-0) X;;CHC;Mike Tauchman;Zack Thompson;4%;41%;Single to LF (Line Drive to LF Line)
+b6;5-6;1;1--;1,(0-0) B;;CHC;Nico Hoerner;Zack Thompson;3%;44%;Wild Pitch; Tauchman to 2B
+b6;5-6;1;-2-;5,(3-1) B.B*BCB;;CHC;Nico Hoerner;Zack Thompson;3%;47%;Walk
+b6;5-6;1;12-;6,(3-2) CBBBCB;;CHC;Ian Happ;Zack Thompson;10%;57%;Walk; Tauchman to 3B; Hoerner to 2B
+b6;5-6;1;123;6,(2-2) BC.CBFX;RR;CHC;Cody Bellinger;Zack Thompson;23%;80%;Single to RF (Ground Ball thru 2B-1B); Tauchman Scores; Hoerner Scores; Happ to 3B
+;;;;;;;;;Drew VerHagen replaces Zack Thompson pitching
+b6;7-6;1;1-3;4,(3-0) .BBBX;R;CHC;Seiya Suzuki;Drew VerHagen;6%;86%;Single to LF (Ground Ball); Happ Scores; Bellinger to 2B
+b6;8-6;1;12-;6,(2-2) BSBS.FH;;CHC;Dansby Swanson;Drew VerHagen;3%;89%;Hit By Pitch; Bellinger to 3B; Suzuki to 2B
+b6;8-6;1;123;5,(2-2) S*BBFS;O;CHC;Christopher Morel;Drew VerHagen;-4%;85%;Strikeout Swinging
+b6;8-6;2;123;5,(2-2) BCSBS;O;CHC;Yan Gomes;Drew VerHagen;-4%;81%;Strikeout Swinging
+;;;;;;;;;3 runs, 3 hits, 0 errors, 3 LOB. Cardinals 6, Cubs 8.
+Top of the 7th, Cardinals Batting, Behind 6-8, Cubs' Julian Merryweather facing 5-6-7 
+;;;;;;;;;Julian Merryweather replaces Daniel Palencia pitchingPatrick Wisdom moves from PH to 3B 
+t7;6-8;0;---;8,(2-2) ...BCCFFFBS;O;STL;Iván Herrera;Julian Merryweather;4%;84%;Strikeout Swinging
+t7;6-8;1;---;7,(2-2) CBCFFBX;O;STL;Tyler O'Neill;Julian Merryweather;2%;87%;Groundout: SS-1B
+t7;6-8;2;---;3,(0-2) FF.S;O;STL;Jordan Walker;Julian Merryweather;1%;88%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 6, Cubs 8.
+Bottom of the 7th, Cubs Batting, Ahead 8-6, Cardinals' Dakota Hudson facing 9-1-2 
+;;;;;;;;;Dakota Hudson replaces Drew VerHagen pitching
+b7;8-6;0;---;6,(3-2) .SBTBBB;;CHC;Patrick Wisdom;Dakota Hudson;2%;90%;Walk
+b7;8-6;0;1--;5,(1-2) C*BCFX;O;CHC;Mike Tauchman;Dakota Hudson;-2%;88%;Lineout: CF
+b7;8-6;1;1--;5,(1-2) CS*BFX;O;CHC;Nico Hoerner;Dakota Hudson;-1%;87%;Groundout: P-2B/Forceout at 2B (Weak 2B); Hoerner to 1B
+b7;8-6;2;1--;5,(3-1) *BBBCB;;CHC;Ian Happ;Dakota Hudson;1%;88%;Walk; Hoerner to 2B
+b7;8-6;2;12-;3,(2-0) BBX;O;CHC;Cody Bellinger;Dakota Hudson;-2%;86%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Cardinals 6, Cubs 8.
+Top of the 8th, Cardinals Batting, Behind 6-8, Cubs' Mark Leiter Jr. facing 8-9-1 
+;;;;;;;;;Mark Leiter Jr. replaces Julian Merryweather pitching
+t8;6-8;0;---;1,(0-0) .X;O;STL;Paul DeJong;Mark Leiter Jr.;4%;89%;Groundout: 3B-1B (Deep SS-3B Hole)
+t8;6-8;1;---;4,(1-2) BCF.X;O;STL;José Fermín;Mark Leiter Jr.;3%;92%;Groundout: SS-1B
+t8;6-8;2;---;6,(3-2) BCBBFB;;STL;Lars Nootbaar;Mark Leiter Jr.;-2%;90%;Walk
+t8;6-8;2;1--;3,(1-1) BCX;O;STL;Paul Goldschmidt;Mark Leiter Jr.;4%;94%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Cardinals 6, Cubs 8.
+Bottom of the 8th, Cubs Batting, Ahead 8-6, Cardinals' Dakota Hudson facing 5-6-7 
+b8;8-6;0;---;2,(0-1) CX;;CHC;Seiya Suzuki;Dakota Hudson;1%;95%;Single to 3B (Ground Ball)
+b8;8-6;0;1--;6,(3-2) FBFB*B>S;O;CHC;Dansby Swanson;Dakota Hudson;0%;94%;Strikeout Swinging, Suzuki Steals 2B
+b8;8-6;1;-2-;5,(2-2) FS*BBC;O;CHC;Christopher Morel;Dakota Hudson;-1%;93%;Strikeout Looking
+b8;8-6;2;-2-;5,(1-2) BTFFX;O;CHC;Yan Gomes;Dakota Hudson;-1%;92%;Foul Popfly: C (Behind Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cardinals 6, Cubs 8.
+Top of the 9th, Cardinals Batting, Behind 6-8, Cubs' Adbert Alzolay facing 3-4-5 
+;;;;;;;;;Adbert Alzolay replaces Mark Leiter Jr. pitching
+t9;6-8;0;---;1,(0-0) .X;O;STL;Nolan Gorman;Adbert Alzolay;4%;96%;Lineout: P (Weak SS-2B)
+;;;;;;;;;Brendan Donovan pinch hits for Nolan Arenado (DH) batting 4th
+t9;6-8;1;---;1,(0-0) .X;;STL;Brendan Donovan;Adbert Alzolay;-5%;91%;Single to CF (Line Drive to CF-RF)
+;;;;;;;;;Alec Burleson pinch hits for Iván Herrera (C) batting 5th
+t9;6-8;1;1--;9,(3-2) .CBFFFBF*BC;O;STL;Alec Burleson;Adbert Alzolay;5%;96%;Strikeout Looking
+t9;6-8;2;1--;4,(1-2) FSB>B;;STL;Tyler O'Neill;Adbert Alzolay;0%;96%;Defensive Indifference; Donovan to 2B
+t9;6-8;2;-2-;5,(2-2) FSB>B.S;O;STL;Tyler O'Neill;Adbert Alzolay;4%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cardinals 6, Cubs 8.

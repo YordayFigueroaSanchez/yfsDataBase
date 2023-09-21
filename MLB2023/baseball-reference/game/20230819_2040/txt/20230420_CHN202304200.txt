@@ -1,0 +1,293 @@
+
+Scorebox Meta
+20230420
+6:40 p.m. Local
+32817
+Wrigley Field
+173
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;1;1;0;0;0;0;0;4;6;9;0
+https://cdn.ssref.net/req/202308101/tlogo/br/CHC-2023.png;/teams/CHC/2023.shtml;0;1;0;1;0;0;0;0;0;2;6;1
+
+Batting home
+Nico Hoerner;/players/h/hoernni01.shtml;2B;5;0;1;1;0;0;5;.338;.384;.400;.784;21;16;-0.095; 1.10;0.000;-0.095;-0.06%; 1.21; -1.0;1;5;
+Dansby Swanson;/players/s/swansda01.shtml;SS;2;0;1;0;2;0;4;.338;.449;.385;.833;17;6;0.036; 1.00;0.066;-0.029; 0.02%; 1.10; 0.5;1;0;
+Ian Happ;/players/h/happia01.shtml;LF;4;0;0;0;0;0;4;.304;.402;.507;.910;17;13;-0.127; 1.35;0.000;-0.127;-0.08%; 1.48; -1.1;3;0;
+Seiya Suzuki;/players/s/suzukse01.shtml;RF;3;0;1;0;1;0;4;.348;.464;.478;.943;15;6;0.033; 1.27;0.095;-0.062; 0.02%; 1.40; 0.1;2;0;
+Cody Bellinger;/players/b/bellico01.shtml;CF;2;1;1;1;0;0;4;.290;.367;.507;.874;17;12;0.204; 1.66;0.226;-0.022; 0.14%; 1.83; 1.7;3;1;HR,2·HBP
+Patrick Wisdom;/players/w/wisdopa01.shtml;3B;4;0;0;0;0;0;4;.262;.324;.708;1.032;16;11;-0.297; 1.95;0.000;-0.297;-0.20%; 2.15; -2.3;1;2;GDP
+Eric Hosmer;/players/h/hosmeer01.shtml;DH;1;1;0;0;1;0;2;.240;.309;.340;.649;11;7;0.031; 0.93;0.048;-0.017; 0.02%; 1.02; 0.2;;;
+Nick Madrigal;/players/m/madrini01.shtml;PH-DH-DH;2;0;0;0;0;0;2;.323;.364;.387;.751;6;4;-0.129; 2.35;0.000;-0.129;-0.08%; 2.59; -0.6;;;
+Trey Mancini;/players/m/mancitr01.shtml;1B;4;0;2;0;0;2;4;.217;.238;.283;.521;15;12;0.111; 0.95;0.148;-0.037; 0.07%; 1.05; 0.8;6;0;2B
+Tucker Barnhart;/players/b/barnhtu01.shtml;C;4;0;0;0;0;3;4;.217;.269;.217;.487;12;11;-0.117; 0.90;0.000;-0.117;-0.08%; 0.99; -1.1;10;0;
+Javier Assad;/players/a/assadja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adbert Alzolay;/players/a/alzolad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brandon Hughes;/players/h/hughebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael Rucker;/players/r/ruckemi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brad Boxberger;/players/b/boxbebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael Fulmer;/players/f/fulmemi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Julian Merryweather;/players/m/merryju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Trey Mancini (1, off Michael Grove).
+
+
+HR: Cody Bellinger (4, off Michael Grove, 2nd inn, 0 on, 0 outs to Deep CF).
+
+
+HBP: Cody Bellinger 2 (2, 1 by Caleb Ferguson, 1 by Michael Grove).
+
+
+TB: Cody Bellinger 4; Trey Mancini 3; Seiya Suzuki; Nico Hoerner; Dansby Swanson.
+
+
+GIDP: Patrick Wisdom (1).
+
+
+RBI: Nico Hoerner (5); Cody Bellinger (13).
+
+
+Team LOB: 8.
+With RISP: 1 for 7.
+
+Batting away
+James Outman;/players/o/outmaja01.shtml;RF;5;2;2;5;0;1;5;.290;.397;.645;1.042;24;15;0.279; 2.15;0.380;-0.101; 0.15%; 1.94; 2.9;2;1;2·HR
+Freddie Freeman;/players/f/freemfr01.shtml;1B;4;0;0;0;1;0;5;.295;.385;.462;.846;14;8;0.027; 0.94;0.089;-0.062; 0.01%; 0.84; -0.4;9;0;SB
+J.D. Martinez;/players/m/martijd02.shtml;DH;5;0;0;0;0;2;5;.256;.302;.526;.828;16;11;-0.102; 0.82;0.000;-0.102;-0.06%; 0.74; -0.8;;;
+Max Muncy;/players/m/muncyma01.shtml;3B;2;1;1;1;2;1;4;.246;.418;.639;1.057;19;10;0.110; 1.96;0.145;-0.035; 0.06%; 1.77; 1.1;0;5;HR,SB,IW
+Trayce Thompson;/players/t/thomptr01.shtml;CF;4;0;0;0;0;2;4;.206;.325;.559;.884;16;12;-0.190; 1.67;0.000;-0.190;-0.10%; 1.50; -1.3;2;0;
+David Peralta;/players/p/peralda01.shtml;LF;3;1;2;0;1;1;4;.220;.250;.317;.567;24;15;0.064; 1.13;0.105;-0.041; 0.03%; 1.02; 0.3;3;0;
+Miguel Vargas;/players/v/vargami01.shtml;2B;4;1;2;0;0;2;4;.216;.388;.314;.702;13;9;0.092; 1.69;0.159;-0.067; 0.05%; 1.52; 0.5;2;3;2B
+Luke Williams;/players/w/willilu01.shtml;SS;2;0;1;0;0;1;2;.143;.143;.143;.286;10;6;-0.002; 1.22;0.034;-0.036;-0.00%; 1.11; 0.0;2;1;SB
+Mookie Betts;/players/b/bettsmo01.shtml;PH-SS;2;0;1;0;0;0;2;.273;.392;.455;.847;6;4;0.026; 2.42;0.042;-0.016; 0.01%; 2.19; -0.1;1;1;
+Austin Barnes;/players/b/barneau01.shtml;C;3;0;0;0;0;0;3;.040;.111;.040;.151;12;7;-0.182; 1.70;0.000;-0.182;-0.10%; 1.53; -1.5;4;0;GDP
+Jason Heyward;/players/h/heywaja01.shtml;PH;0;1;0;0;1;0;1;.200;.306;.533;.839;9;5;0.031; 5.08;0.031;0.000; 0.02%; 4.58; 0.4;;;
+Austin Wynns;/players/w/wynnsau01.shtml;C;0;0;0;0;0;0;0;.125;.125;.250;.375;;;;;;;;;;2;0;
+Michael Grove;/players/g/grovemi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Phil Bickford;/players/b/bickfph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Justin Bruihl;/players/b/bruihju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yency Almonte;/players/a/almonye01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Caleb Ferguson;/players/f/ferguca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brusdar Graterol;/players/g/gratebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Miguel Vargas (3, off Adbert Alzolay).
+
+
+HR: Max Muncy (8, off Javier Assad, 2nd inn, 0 on, 0 outs to Deep CF-RF); James Outman 2 (5, 1 off Michael Fulmer, 9th inn, 3 on, 1 out to Deep RF, 1 off Javier Assad, 3rd inn, 0 on, 0 outs to Deep CF-RF).
+
+
+IBB: Max Muncy (2, by Brad Boxberger).
+
+
+TB: James Outman 8; Max Muncy 4; Miguel Vargas 3; David Peralta 2; Mookie Betts; Luke Williams.
+
+
+GIDP: Austin Barnes (1).
+
+
+RBI: James Outman 5 (15); Max Muncy (16).
+
+
+Team LOB: 6.
+With RISP: 1 for 6.
+
+Pitching home
+Javier Assad;/players/a/assadja01.shtml;Javier Assad; 3 ;3;2;2;2;3;2;9.82;14;62;40;26;5;9;3;6;0;0;46;;;-0.067; 0.89;-0.04%; 0.97; -0.4
+Adbert Alzolay;/players/a/alzolad01.shtml;Adbert Alzolay; 1 ;2;0;0;0;1;0;2.79;4;12;10;6;3;1;1;2;1;0;;0;0;0.052; 1.02; 0.03%; 1.12; 0.5
+Brandon Hughes;/players/h/hughebr01.shtml;Brandon Hughes; 2 ;0;0;0;0;4;0;0.00;6;24;15;4;7;4;2;0;0;0;;0;0;0.145; 0.94; 0.10%; 1.03; 1.1
+Michael Rucker;/players/r/ruckemi01.shtml;Michael Rucker; 1 ;1;0;0;0;1;0;3.12;3;11;7;2;1;4;1;1;1;0;;0;0;0.090; 1.58; 0.06%; 1.75; 0.5
+Brad Boxberger;/players/b/boxbebr01.shtml;Brad Boxberger; 1 ;0;0;0;2;1;0;1.23;5;22;11;7;1;3;0;2;0;0;;0;0;0.110; 2.67; 0.07%; 2.94; 0.5
+Michael Fulmer;/players/f/fulmemi01.shtml; L (0-2); 0.1;3;4;4;1;0;1;7.56;5;23;13;11;0;2;0;4;2;0;;0;0;-0.483; 4.08;-0.32%; 4.49; -3.8
+Julian Merryweather;/players/m/merryju01.shtml;Julian Merryweather; 0.2;0;0;0;0;0;0;8.64;2;9;6;4;1;1;1;1;0;0;;0;0;0.002; 0.04; 0.00%; 0.05; 0.3
+
+Pitching away
+Michael Grove;/players/g/grovemi01.shtml;Michael Grove; 3 ;5;2;2;2;0;1;8.44;17;67;45;30;1;14;9;5;2;0;39;;;-0.129; 1.21;-0.07%; 1.09; -0.9
+Phil Bickford;/players/b/bickfph01.shtml;Phil Bickford; 2 ;1;0;0;1;1;0;3.00;7;32;19;11;4;4;3;2;1;0;;2;1;0.182; 1.41; 0.10%; 1.27; 1.5
+Justin Bruihl;/players/b/bruihju01.shtml;Justin Bruihl; 1 ;0;0;0;0;2;0;0.00;3;12;8;2;2;4;1;0;0;0;;0;0;0.077; 1.00; 0.04%; 0.90; 0.5
+Yency Almonte;/players/a/almonye01.shtml;Yency Almonte; 1 ;0;0;0;1;0;0;6.14;4;18;10;5;1;4;1;2;0;0;;0;0;0.027; 1.32; 0.01%; 1.20; 0.1
+Caleb Ferguson;/players/f/ferguca01.shtml; W (1-0); 1 ;0;0;0;0;0;0;2.45;3;11;9;6;3;0;1;1;1;0;;1;0;0.173; 2.96; 0.09%; 2.67; 0.9
+Brusdar Graterol;/players/g/gratebr01.shtml;Brusdar Graterol; 1 ;0;0;0;0;2;0;3.12;3;7;7;2;2;3;0;1;0;0;;0;0;0.020; 0.25; 0.01%; 0.23; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Caleb Ferguson (2; Cody Bellinger); Michael Grove (1; Cody Bellinger).
+IBB: Brad Boxberger (1; Max Muncy).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Caleb Ferguson (2; Cody Bellinger); Michael Grove (1; Cody Bellinger).
+IBB: Brad Boxberger (1; Max Muncy).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Ryan Wills, 1B - Andy Fletcher, 2B - Mike Estabrook, 3B - Erich Bacchus, LF - (none), RF - (none).
+Time of Game: 2:53.
+Attendance: 32,817.
+Field Condition: Unknown.
+Start Time Weather: 70° F, Wind 14mph out to Centerfield, Cloudy, No Precipitation.
+
+div_lineups
+Dodgers
+1;James Outman;/players/o/outmaja01.shtml;RF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;J.D. Martinez;/players/m/martijd02.shtml;DH
+4;Max Muncy;/players/m/muncyma01.shtml;3B
+5;Trayce Thompson;/players/t/thomptr01.shtml;CF
+6;David Peralta;/players/p/peralda01.shtml;LF
+7;Miguel Vargas;/players/v/vargami01.shtml;2B
+8;Luke Williams;/players/w/willilu01.shtml;SS
+9;Austin Barnes;/players/b/barneau01.shtml;C
+; Michael Grove;/players/g/grovemi01.shtml;P
+Cubs
+1;Nico Hoerner;/players/h/hoernni01.shtml;2B
+2;Dansby Swanson;/players/s/swansda01.shtml;SS
+3;Ian Happ;/players/h/happia01.shtml;LF
+4;Seiya Suzuki;/players/s/suzukse01.shtml;RF
+5;Cody Bellinger;/players/b/bellico01.shtml;CF
+6;Patrick Wisdom;/players/w/wisdopa01.shtml;3B
+7;Eric Hosmer;/players/h/hosmeer01.shtml;DH
+8;Trey Mancini;/players/m/mancitr01.shtml;1B
+9;Tucker Barnhart;/players/b/barnhtu01.shtml;C
+; Javier Assad;/players/a/assadja01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t9;2-2;1;123;6,(3-2) BFBT*BX;RRRR;LAD;James Outman;Michael Fulmer;27%;98%;Home Run (Fly Ball to Deep RF); Peralta Scores; Vargas Scores; Heyward Scores
+b8;2-2;0;12-;5,(1-2) BSFFX;OO;CHC;Patrick Wisdom;Caleb Ferguson;17%;41%;Ground Ball Double Play: SS-1B; Suzuki to 3B
+b4;1-2;0;1--;5,(1-2) BFFFX;;CHC;Trey Mancini;Michael Grove;-14%;39%;Double to LF (Line Drive to Deep LF); Hosmer to 3B
+t8;2-2;2;-23;6,(1-2) F>F>B.FFX;O;LAD;Trayce Thompson;Brad Boxberger;-12%;39%;Flyball: LF (Deep LF-CF)
+t9;2-2;0;1--;1,(0-0) X;;LAD;Miguel Vargas;Michael Fulmer;12%;70%;Single to RF (Line Drive to CF-RF); Peralta to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Dodgers Batting, Tied 0-0, Cubs' Javier Assad facing 1-2-3 
+t1;0-0;0;---;5,(2-2) FBFBX;O;LAD;James Outman;Javier Assad;-2%;48%;Popfly: 3B (SS-3B Hole)
+t1;0-0;1;---;2,(0-1) FX;O;LAD;Freddie Freeman;Javier Assad;-2%;46%;Groundout: 2B-1B
+t1;0-0;2;---;4,(1-2) CS.BS;O;LAD;J.D. Martinez;Javier Assad;-1%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Cubs 0.
+Bottom of the 1st, Cubs Batting, Tied 0-0, Dodgers' Michael Grove facing 1-2-3 
+b1;0-0;0;---;7,(2-2) CBBFFFX;O;CHC;Nico Hoerner;Michael Grove;2%;47%;Lineout: CF
+b1;0-0;1;---;2,(0-1) CX;;CHC;Dansby Swanson;Michael Grove;-2%;45%;Single to CF (Ground Ball)
+b1;0-0;1;1--;3,(1-1) BCX;O;CHC;Ian Happ;Michael Grove;2%;47%;Groundout: 1B unassisted; Swanson to 2B
+;;;;;;;;;Tag play Challenged by CHC manager (David Ross): Original call overturned as shown.
+b1;0-0;2;-2-;4,(2-1) BFBX;O;CHC;Seiya Suzuki;Michael Grove;3%;50%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 0, Cubs 0.
+Top of the 2nd, Dodgers Batting, Tied 0-0, Cubs' Javier Assad facing 4-5-6 
+t2;0-0;0;---;2,(0-1) FX;R;LAD;Max Muncy;Javier Assad;10%;60%;Home Run (Fly Ball to Deep CF-RF)
+t2;1-0;0;---;5,(2-2) BBCSS;O;LAD;Trayce Thompson;Javier Assad;-2%;58%;Strikeout Swinging
+t2;1-0;1;---;10,(3-2) BBCSBFFFFB;;LAD;David Peralta;Javier Assad;2%;60%;Walk
+t2;1-0;1;1--;6,(2-2) BBFFFT;O;LAD;Miguel Vargas;Javier Assad;-3%;58%;Strikeout Swinging
+t2;1-0;2;1--;6,(3-2) BC*BBC>X;;LAD;Luke Williams;Javier Assad;2%;60%;Single to 3B (Ground Ball); Peralta to 3B
+t2;1-0;2;1-3;1,(0-0) >B;;LAD;Austin Barnes;Javier Assad;1%;61%;Williams Steals 2B
+t2;1-0;2;-23;6,(3-2) >B.F*BBCX;O;LAD;Austin Barnes;Javier Assad;-6%;55%;Flyball: RF (RF Line)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Dodgers 1, Cubs 0.
+Bottom of the 2nd, Cubs Batting, Behind 0-1, Dodgers' Michael Grove facing 5-6-7 
+b2;0-1;0;---;2,(0-1) CX;R;CHC;Cody Bellinger;Michael Grove;-11%;45%;Home Run (Fly Ball to Deep CF)
+b2;1-1;0;---;3,(1-1) BCX;O;CHC;Patrick Wisdom;Michael Grove;2%;47%;Popfly: 2B (Deep 2B)
+b2;1-1;1;---;3,(0-2) CFX;O;CHC;Eric Hosmer;Michael Grove;2%;49%;Groundout: 2B-1B
+b2;1-1;2;---;3,(1-1) CBX;;CHC;Trey Mancini;Michael Grove;-1%;48%;Single to 2B (Ground Ball)
+b2;1-1;2;1--;2,(0-1) CX;O;CHC;Tucker Barnhart;Michael Grove;2%;50%;Popfly: SS (Deep SS)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Dodgers 1, Cubs 1.
+Top of the 3rd, Dodgers Batting, Tied 1-1, Cubs' Javier Assad facing 1-2-3 
+t3;1-1;0;---;5,(1-2) FCBFX;R;LAD;James Outman;Javier Assad;11%;61%;Home Run (Fly Ball to Deep CF-RF)
+t3;2-1;0;---;1,(0-0) X;O;LAD;Freddie Freeman;Javier Assad;-2%;59%;Flyball: LF
+t3;2-1;1;---;1,(0-0) X;O;LAD;J.D. Martinez;Javier Assad;-2%;57%;Groundout: 2B-1B (Deep 2B)
+t3;2-1;2;---;8,(3-2) CBBCFFB*B;;LAD;Max Muncy;Javier Assad;1%;58%;Walk
+t3;2-1;2;1--;1,(0-0) X;O;LAD;Trayce Thompson;Javier Assad;-2%;56%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Dodgers 2, Cubs 1.
+Bottom of the 3rd, Cubs Batting, Behind 1-2, Dodgers' Michael Grove facing 1-2-3 
+b3;1-2;0;---;5,(1-2) BCCFX;O;CHC;Nico Hoerner;Michael Grove;3%;59%;Groundout: 3B-1B (SS-3B Hole)
+b3;1-2;1;---;4,(3-0) BBBB;;CHC;Dansby Swanson;Michael Grove;-3%;56%;Walk
+b3;1-2;1;1--;7,(2-2) B1BCC1FFX;O;CHC;Ian Happ;Michael Grove;3%;59%;Groundout: 2B-SS/Forceout at 2B; Happ to 1B
+b3;1-2;2;1--;2,(0-1) FX;;CHC;Seiya Suzuki;Michael Grove;-3%;56%;Single to LF (Ground Ball thru SS-2B); Happ to 3B
+b3;1-2;2;1-3;5,(1-2) FBCF.H;;CHC;Cody Bellinger;Michael Grove;-3%;53%;Hit By Pitch; Suzuki to 2B
+b3;1-2;2;123;2,(1-0) *BX;O;CHC;Patrick Wisdom;Michael Grove;9%;62%;Groundout: SS-2B/Forceout at 2B; Wisdom to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Dodgers 2, Cubs 1.
+Top of the 4th, Dodgers Batting, Ahead 2-1, Cubs' Adbert Alzolay facing 6-7-8 
+;;;;;;;;;Adbert Alzolay replaces Javier Assad pitching
+t4;2-1;0;---;5,(1-2) .CFBFX;O;LAD;David Peralta;Adbert Alzolay;-2%;60%;Single to 2B (Ground Ball to SS-2B); Peralta out at 2B/CF-SS
+t4;2-1;1;---;1,(0-0) X;;LAD;Miguel Vargas;Adbert Alzolay;4%;64%;Double to CF (Line Drive to Deep CF)
+t4;2-1;1;-2-;4,(1-2) SS*BS;O;LAD;Luke Williams;Adbert Alzolay;-4%;60%;Strikeout Swinging
+t4;2-1;2;-2-;2,(0-1) FX;O;LAD;Austin Barnes;Adbert Alzolay;-4%;57%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Dodgers 2, Cubs 1.
+Bottom of the 4th, Cubs Batting, Behind 1-2, Dodgers' Michael Grove facing 7-8-9 
+b4;1-2;0;---;8,(3-2) CSFBFBBB;;CHC;Eric Hosmer;Michael Grove;-5%;52%;Walk
+b4;1-2;0;1--;5,(1-2) BFFFX;;CHC;Trey Mancini;Michael Grove;-14%;39%;Double to LF (Line Drive to Deep LF); Hosmer to 3B
+;;;;;;;;;Phil Bickford replaces Michael Grove pitching
+b4;1-2;0;-23;3,(0-2) .CS*S;O;CHC;Tucker Barnhart;Phil Bickford;7%;46%;Strikeout Swinging
+b4;1-2;1;-23;6,(2-2) CBCBFX;RO;CHC;Nico Hoerner;Phil Bickford;0%;46%;Single to RF (Ground Ball thru 2B-1B); Hosmer Scores; Mancini out at Hm/RF-C; Hoerner to 2B
+b4;2-2;2;-2-;5,(3-1) BCBBB;;CHC;Dansby Swanson;Phil Bickford;-1%;45%;Walk
+b4;2-2;2;12-;1,(0-0) X;O;CHC;Ian Happ;Phil Bickford;5%;50%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Dodgers 2, Cubs 2.
+Top of the 5th, Dodgers Batting, Tied 2-2, Cubs' Brandon Hughes facing 1-2-3 
+;;;;;;;;;Brandon Hughes replaces Adbert Alzolay pitching
+t5;2-2;0;---;3,(0-2) .CFS;O;LAD;James Outman;Brandon Hughes;-3%;47%;Strikeout Swinging
+t5;2-2;1;---;3,(1-1) SBX;O;LAD;Freddie Freeman;Brandon Hughes;-2%;45%;Groundout: 2B-1B (2B-1B)
+t5;2-2;2;---;3,(2-0) BBX;O;LAD;J.D. Martinez;Brandon Hughes;-2%;43%;Groundout: 3B-1B
+;;;;;;;;;Force Play Challenged by CHC manager (David Ross): Original call overturned as shown.
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Cubs 2.
+Bottom of the 5th, Cubs Batting, Tied 2-2, Dodgers' Phil Bickford facing 4-5-6 
+b5;2-2;0;---;5,(3-1) BFBBX;O;CHC;Seiya Suzuki;Phil Bickford;3%;46%;Groundout: 3B-1B (SS-3B Hole)
+b5;2-2;1;---;6,(2-2) FSBFBX;O;CHC;Cody Bellinger;Phil Bickford;2%;48%;Flyball: LF
+b5;2-2;2;---;6,(2-2) FSBBFX;O;CHC;Patrick Wisdom;Phil Bickford;2%;50%;Lineout: LF (LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Cubs 2.
+Top of the 6th, Dodgers Batting, Tied 2-2, Cubs' Brandon Hughes facing 4-5-6 
+t6;2-2;0;---;5,(2-2) SBSBC;O;LAD;Max Muncy;Brandon Hughes;-3%;47%;Strikeout Looking
+t6;2-2;1;---;4,(1-2) CFBS;O;LAD;Trayce Thompson;Brandon Hughes;-2%;44%;Strikeout Swinging
+t6;2-2;2;---;6,(3-2) CBSBBS;O;LAD;David Peralta;Brandon Hughes;-2%;42%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Cubs 2.
+Bottom of the 6th, Cubs Batting, Tied 2-2, Dodgers' Justin Bruihl facing 7-8-9 
+;;;;;;;;;Justin Bruihl replaces Phil Bickford pitchingNick Madrigal pinch hits for Eric Hosmer (DH) batting 7th
+b6;2-2;0;---;4,(2-1) ..BBCX;O;CHC;Nick Madrigal;Justin Bruihl;3%;46%;Groundout: 3B-1B
+b6;2-2;1;---;4,(1-2) BFCS;O;CHC;Trey Mancini;Justin Bruihl;3%;48%;Strikeout Swinging
+b6;2-2;2;---;4,(1-2) CCBS;O;CHC;Tucker Barnhart;Justin Bruihl;2%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Cubs 2.
+Top of the 7th, Dodgers Batting, Tied 2-2, Cubs' Michael Rucker facing 7-8-9 
+;;;;;;;;;Michael Rucker replaces Brandon Hughes pitching
+t7;2-2;0;---;5,(2-2) ..BCS.BC;O;LAD;Miguel Vargas;Michael Rucker;-4%;46%;Strikeout Looking
+;;;;;;;;;Mookie Betts pinch hits for Luke Williams (SS) batting 8th
+t7;2-2;1;---;2,(0-1) .CX;;LAD;Mookie Betts;Michael Rucker;4%;50%;Single to RF (Line Drive to CF-RF)
+t7;2-2;1;1--;4,(2-1) 1C*BBX;OO;LAD;Austin Barnes;Michael Rucker;-9%;41%;Ground Ball Double Play: 3B-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Dodgers 2, Cubs 2.
+Bottom of the 7th, Cubs Batting, Tied 2-2, Dodgers' Yency Almonte facing 1-2-3 
+;;;;;;;;;Yency Almonte replaces Justin Bruihl pitchingMookie Betts moves from PH to SS 
+b7;2-2;0;---;2,(0-1) ..CX;O;CHC;Nico Hoerner;Yency Almonte;4%;45%;Groundout: 3B-1B
+b7;2-2;1;---;6,(3-2) BCBCBX;O;CHC;Dansby Swanson;Yency Almonte;3%;48%;Flyball: RF (Deep RF)
+b7;2-2;2;---;6,(1-2) SBCFFX;O;CHC;Ian Happ;Yency Almonte;2%;50%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Cubs 2.
+Top of the 8th, Dodgers Batting, Tied 2-2, Cubs' Brad Boxberger facing 1-2-3 
+;;;;;;;;;Brad Boxberger replaces Michael Rucker pitching
+t8;2-2;0;---;5,(3-1) .BSBBX;O;LAD;James Outman;Brad Boxberger;-5%;45%;Flyball: LF (Deep LF-CF)
+t8;2-2;1;---;5,(3-1) CBBBB;;LAD;Freddie Freeman;Brad Boxberger;5%;50%;Walk
+t8;2-2;1;1--;2,(0-2) AFC;O;LAD;J.D. Martinez;Brad Boxberger;-6%;44%;Strikeout Looking
+t8;2-2;2;1--;4,(2-1) BC*B>B;;LAD;Max Muncy;Brad Boxberger;4%;48%;Freeman Steals 2B; Freeman to 3B/Adv on E2 (throw)
+t8;2-2;2;--3;4,(3-1) BC*B>B.V;;LAD;Max Muncy;Brad Boxberger;2%;50%;Intentional Walk
+t8;2-2;2;1-3;3,(0-2) F>F>B;;LAD;Trayce Thompson;Brad Boxberger;1%;51%;Muncy Steals 2B
+t8;2-2;2;-23;6,(1-2) F>F>B.FFX;O;LAD;Trayce Thompson;Brad Boxberger;-12%;39%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 1 error, 2 LOB. Dodgers 2, Cubs 2.
+Bottom of the 8th, Cubs Batting, Tied 2-2, Dodgers' Yency Almonte facing 4-5-6 
+b8;2-2;0;---;4,(3-0) BBBB;;CHC;Seiya Suzuki;Yency Almonte;-6%;33%;Walk
+;;;;;;;;;Caleb Ferguson replaces Yency Almonte pitching
+b8;2-2;0;1--;4,(0-2) .FSFH;;CHC;Cody Bellinger;Caleb Ferguson;-9%;24%;Hit By Pitch; Suzuki to 2B
+b8;2-2;0;12-;5,(1-2) BSFFX;OO;CHC;Patrick Wisdom;Caleb Ferguson;17%;41%;Ground Ball Double Play: SS-1B; Suzuki to 3B
+b8;2-2;2;--3;2,(0-1) SX;O;CHC;Nick Madrigal;Caleb Ferguson;9%;50%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Dodgers 2, Cubs 2.
+Top of the 9th, Dodgers Batting, Tied 2-2, Cubs' Michael Fulmer facing 6-7-8 
+;;;;;;;;;Michael Fulmer replaces Brad Boxberger pitching
+t9;2-2;0;---;3,(1-1) .BCX;;LAD;David Peralta;Michael Fulmer;8%;58%;Single to RF (Line Drive to Short CF-RF)
+t9;2-2;0;1--;1,(0-0) X;;LAD;Miguel Vargas;Michael Fulmer;12%;70%;Single to RF (Line Drive to CF-RF); Peralta to 2B
+t9;2-2;0;12-;4,(2-1) BCBX;O;LAD;Mookie Betts;Michael Fulmer;-2%;68%;Flyball: CF (Deep CF); Peralta to 3B
+;;;;;;;;;Jason Heyward pinch hits for Austin Barnes (C) batting 9th
+t9;2-2;1;1-3;9,(3-2) .FBTFBBFFB;;LAD;Jason Heyward;Michael Fulmer;3%;71%;Walk; Vargas to 2B
+t9;2-2;1;123;6,(3-2) BFBT*BX;RRRR;LAD;James Outman;Michael Fulmer;27%;98%;Home Run (Fly Ball to Deep RF); Peralta Scores; Vargas Scores; Heyward Scores
+;;;;;;;;;Julian Merryweather replaces Michael Fulmer pitching
+t9;6-2;1;---;3,(1-1) .BFX;O;LAD;Freddie Freeman;Julian Merryweather;0%;98%;Groundout: 2B-1B (2B-1B)
+t9;6-2;2;---;6,(2-2) CBSFBX;O;LAD;J.D. Martinez;Julian Merryweather;0%;98%;Flyball: RF
+;;;;;;;;;4 runs, 3 hits, 0 errors, 0 LOB. Dodgers 6, Cubs 2.
+Bottom of the 9th, Cubs Batting, Behind 2-6, Dodgers' Brusdar Graterol facing 8-9-1 
+;;;;;;;;;Brusdar Graterol replaces Caleb Ferguson pitchingAustin Wynns replaces Jason Heyward (PH) playing C batting 9th
+b9;2-6;0;---;3,(0-2) ..CF*S;O;CHC;Trey Mancini;Brusdar Graterol;1%;99%;Strikeout Swinging
+b9;2-6;1;---;3,(0-2) CS.C;O;CHC;Tucker Barnhart;Brusdar Graterol;1%;100%;Strikeout Looking
+b9;2-6;2;---;1,(0-0) X;O;CHC;Nico Hoerner;Brusdar Graterol;0%;100%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 6, Cubs 2.

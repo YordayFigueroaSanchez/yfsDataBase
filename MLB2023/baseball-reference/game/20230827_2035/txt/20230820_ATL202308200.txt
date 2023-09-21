@@ -1,0 +1,288 @@
+
+Scorebox Meta
+20230820
+1:35 p.m. Local
+40291
+Truist Park
+191
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/SFG-2023.png;/teams/SFG/2023.shtml;0;1;2;0;0;0;0;0;1;4;10;2
+https://cdn.ssref.net/req/202308251/tlogo/br/ATL-2023.png;/teams/ATL/2023.shtml;0;2;0;0;0;0;0;1;0;3;6;0
+
+Batting home
+Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF;3;1;0;0;1;0;4;.331;.417;.569;.986;23;14;0.197; 2.07;0.355;-0.157; 0.01%; 0.15; -0.2;3;0;SB,GDP
+Eddie Rosario;/players/r/rosared01.shtml;LF;3;0;1;0;1;1;4;.260;.310;.480;.789;17;11;0.102; 1.42;0.135;-0.033; 0.01%; 0.11; 0.5;0;0;
+Austin Riley;/players/r/rileyau01.shtml;3B;4;0;1;0;0;1;4;.279;.338;.509;.847;22;15;-0.231; 1.92;0.021;-0.253;-0.01%; 0.14; -1.4;0;2;SB,GDP
+Matt Olson;/players/o/olsonma02.shtml;1B;3;0;0;0;1;0;4;.269;.379;.601;.981;19;11;-0.066; 1.40;0.010;-0.075;-0.00%; 0.10; -0.5;5;1;IW
+Marcell Ozuna;/players/o/ozunama01.shtml;DH;4;0;0;0;0;2;4;.249;.323;.477;.799;23;13;-0.168; 1.60;0.000;-0.168;-0.01%; 0.12; -1.1;;;
+Sean Murphy;/players/m/murphse01.shtml;C;4;0;0;0;0;1;4;.274;.383;.531;.914;17;12;-0.138; 1.77;0.028;-0.166;-0.01%; 0.13; -0.4;13;0;
+Kevin Pillar;/players/p/pillake01.shtml;CF;4;1;1;0;0;0;4;.235;.266;.426;.692;8;7;-0.123; 1.52;0.017;-0.140;-0.01%; 0.11; -0.5;3;0;
+Orlando Arcia;/players/a/arciaor01.shtml;SS;4;1;1;2;0;2;4;.278;.332;.442;.774;15;9;0.091; 1.22;0.199;-0.108; 0.00%; 0.09; 1.4;0;2;HR
+Nicky Lopez;/players/l/lopezni01.shtml;2B;2;0;2;0;0;0;2;.235;.336;.317;.653;8;6;0.064; 0.86;0.064;0.000; 0.00%; 0.07; 0.5;1;2;
+Vaughn Grissom;/players/g/grissva01.shtml;PH-2B;1;0;0;0;0;1;1;.269;.306;.299;.604;4;3;-0.066; 2.51;0.000;-0.066;-0.00%; 0.18; -0.3;0;0;
+Max Fried;/players/f/friedma01.shtml;P;;;;;;;;;;;;;;;;;;;;;2;0;
+Michael Tonkin;/players/t/tonkimi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kirby Yates;/players/y/yateski01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Collin McHugh;/players/m/mchugco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Orlando Arcia (14, off Jakob Junis, 2nd inn, 1 on, 2 outs to Deep LF).
+
+
+IBB: Matt Olson (8, by Camilo Doval).
+
+
+TB: Orlando Arcia 4; Nicky Lopez 2; Kevin Pillar; Austin Riley; Eddie Rosario.
+
+
+GIDP: Austin Riley (16); Ronald Acuna Jr. (12).
+
+
+RBI: Orlando Arcia 2 (47).
+
+
+2-out RBI: Orlando Arcia 2.
+
+
+Team LOB: 5.
+With RISP: 0 for 3.
+
+Batting away
+Austin Slater;/players/s/slateau01.shtml;CF;3;0;0;0;0;1;3;.242;.315;.379;.694;10;6;-0.051; 0.65;0.000;-0.051;-0.03%; 0.74; -0.5;2;0;
+Michael Conforto;/players/c/confomi01.shtml;PH-RF;1;1;0;0;1;1;2;.249;.343;.407;.750;16;9;0.042; 1.88;0.082;-0.040; 0.03%; 2.11; 0.1;0;0;
+Thairo Estrada;/players/e/estrath01.shtml;2B;4;1;2;0;0;0;5;.274;.325;.429;.755;18;13;0.214; 1.40;0.253;-0.039; 0.14%; 1.58; 1.6;3;2;2B,HBP
+Wilmer Flores;/players/f/florewi01.shtml;1B;4;1;2;2;0;0;5;.301;.359;.541;.900;13;9;0.272; 1.59;0.317;-0.045; 0.18%; 1.79; 2.2;11;1;HR,HBP
+Patrick Bailey;/players/b/bailepa01.shtml;C;4;0;1;0;1;2;5;.264;.314;.410;.724;22;13;-0.137; 1.29;0.026;-0.163;-0.09%; 1.46; -0.9;8;0;
+J.D. Davis;/players/d/davisjd01.shtml;DH;5;0;2;0;0;3;5;.249;.326;.412;.738;25;16;-0.243; 2.06;0.038;-0.281;-0.16%; 2.31; -1.5;;;
+Heliot Ramos;/players/r/ramoshe02.shtml;RF-LF;3;0;0;0;0;1;3;.220;.256;.390;.646;7;7;-0.127; 1.60;0.000;-0.127;-0.08%; 1.79; -1.4;0;0;
+Wade Meckler;/players/m/mecklwa01.shtml;PH-CF;0;0;0;0;1;0;1;.176;.263;.176;.440;5;1;0.035; 0.96;0.035;0.000; 0.02%; 1.08; 0.4;0;0;
+Joc Pederson;/players/p/pederjo01.shtml;PH-LF;0;0;0;1;1;0;1;.232;.345;.407;.752;4;0;0.308; 6.90;0.308;0.000; 0.21%; 7.76; 1.0;0;0;
+Luis Matos;/players/m/matoslu02.shtml;LF-CF-LF-CF;5;1;2;1;0;0;5;.245;.309;.337;.646;20;12;0.009; 1.26;0.125;-0.116; 0.01%; 1.42; -0.2;0;0;HR
+Johan Camargo;/players/c/camarjo01.shtml;SS;4;0;1;0;0;2;4;.286;.333;.286;.619;20;13;-0.063; 1.11;0.040;-0.103;-0.04%; 1.24; -0.7;2;3;
+Casey Schmitt;/players/s/schmica01.shtml;3B;4;0;0;0;0;2;4;.200;.252;.283;.535;19;12;-0.100; 0.95;0.000;-0.100;-0.07%; 1.07; -1.0;0;7;
+Jakob Junis;/players/j/junisja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Alex Wood;/players/w/woodal02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tristan Beck;/players/b/becktr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Luke Jackson;/players/j/jackslu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Taylor Rogers;/players/r/rogerta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Camilo Doval;/players/d/dovalca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Thairo Estrada (22, off Max Fried).
+
+
+HR: Luis Matos (2, off Max Fried, 2nd inn, 0 on, 0 outs to Deep LF-CF); Wilmer Flores (17, off Max Fried, 3rd inn, 1 on, 0 outs to Deep LF Line).
+
+
+HBP: Thairo Estrada (10, by Kirby Yates); Wilmer Flores (4, by Kirby Yates).
+
+
+TB: Wilmer Flores 5; Luis Matos 5; Thairo Estrada 3; J.D. Davis 2; Johan Camargo; Patrick Bailey.
+
+
+RBI: Wilmer Flores 2 (43); Joc Pederson (40); Luis Matos (10).
+
+
+2-out RBI: Joc Pederson.
+
+
+Team LOB: 12.
+With RISP: 1 for 8.
+
+Pitching home
+Max Fried;/players/f/friedma01.shtml;Max Fried; 5.2;9;3;3;1;6;2;2.83;27;103;68;42;10;16;10;10;5;0;44;;;-0.024; 1.06;-0.00%; 0.08; 0.0
+Michael Tonkin;/players/t/tonkimi01.shtml;Michael Tonkin; 2.1;1;0;0;1;4;0;3.43;9;47;29;14;9;6;0;4;2;0;;1;0;0.146; 1.02; 0.01%; 0.07; 1.3
+Kirby Yates;/players/y/yateski01.shtml; L (7-1); 0.2;0;1;1;2;2;0;2.96;6;26;12;6;3;3;0;0;0;0;;0;0;-0.339; 4.17;-0.01%; 0.30; -1.3
+Collin McHugh;/players/m/mchugco01.shtml;Collin McHugh; 0.1;0;0;0;0;0;0;3.53;1;3;2;1;0;1;0;1;1;0;;3;0;0.055; 2.13; 0.00%; 0.16; 0.8
+
+Pitching away
+Jakob Junis;/players/j/junisja01.shtml;Jakob Junis; 1.2;2;2;0;0;1;1;4.00;8;43;27;18;1;8;4;3;1;0;48;;;-0.119; 0.86;-0.08%; 0.96; -1.0
+Alex Wood;/players/w/woodal02.shtml;Alex Wood; 1.1;2;0;0;0;0;0;4.76;5;19;14;9;1;4;3;2;1;0;;0;0;0.072; 0.88; 0.05%; 0.99; 0.7
+Tristan Beck;/players/b/becktr01.shtml; H (3); 3 ;2;0;0;0;3;0;3.39;10;41;28;17;5;6;3;4;2;0;;0;0;0.236; 1.13; 0.16%; 1.27; 1.6
+Luke Jackson;/players/j/jackslu01.shtml; H (2); 1 ;0;0;0;0;0;0;2.25;3;5;5;3;0;2;3;0;0;0;;0;0;0.112; 1.44; 0.08%; 1.62; 0.5
+Taylor Rogers;/players/r/rogerta01.shtml; H (8); 0.1;0;1;0;2;1;0;2.81;3;19;10;5;1;4;0;0;0;0;;0;0;-0.097; 2.59;-0.07%; 2.91; -0.4
+Camilo Doval;/players/d/dovalca01.shtml; W (5-3); 1.2;0;0;0;1;3;0;2.29;6;29;17;8;5;4;2;0;0;0;;2;1;0.135; 3.49; 0.09%; 3.92; 0.5
+
+indiv_events
+
+Balks: Michael Tonkin (1).
+WP: Max Fried (2).
+HBP: Kirby Yates 2 (4; Thairo Estrada, Wilmer Flores).
+IBB: Camilo Doval (4; Matt Olson).
+Pickoffs: None.
+
+Balks: Michael Tonkin (1).
+WP: Max Fried (2).
+HBP: Kirby Yates 2 (4; Thairo Estrada, Wilmer Flores).
+IBB: Camilo Doval (4; Matt Olson).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Angel Hernandez, 1B - James Hoye, 2B - John Libka, 3B - D.J. Reyburn, LF - (none), RF - (none).
+Time of Game: 3:11.
+Attendance: 40,291.
+Field Condition: Unknown.
+Start Time Weather: 89° F, Wind 8mph out to Rightfield, Sunny, No Precipitation.
+
+div_lineups
+Giants
+1;Austin Slater;/players/s/slateau01.shtml;CF
+2;Thairo Estrada;/players/e/estrath01.shtml;2B
+3;Wilmer Flores;/players/f/florewi01.shtml;1B
+4;Patrick Bailey;/players/b/bailepa01.shtml;C
+5;J.D. Davis;/players/d/davisjd01.shtml;DH
+6;Heliot Ramos;/players/r/ramoshe02.shtml;RF
+7;Luis Matos;/players/m/matoslu02.shtml;LF
+8;Johan Camargo;/players/c/camarjo01.shtml;SS
+9;Casey Schmitt;/players/s/schmica01.shtml;3B
+; Jakob Junis;/players/j/junisja01.shtml;P
+Braves
+1;Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF
+2;Eddie Rosario;/players/r/rosared01.shtml;LF
+3;Austin Riley;/players/r/rileyau01.shtml;3B
+4;Matt Olson;/players/o/olsonma02.shtml;1B
+5;Marcell Ozuna;/players/o/ozunama01.shtml;DH
+6;Sean Murphy;/players/m/murphse01.shtml;C
+7;Kevin Pillar;/players/p/pillake01.shtml;CF
+8;Orlando Arcia;/players/a/arciaor01.shtml;SS
+9;Nicky Lopez;/players/l/lopezni01.shtml;2B
+; Max Fried;/players/f/friedma01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t9;3-3;2;123;4,(3-0) .BBBB;R;SFG;Joc Pederson;Kirby Yates;31%;84%;Walk; Conforto Scores; Estrada to 3B; Flores to 2B
+b8;2-3;2;12-;1,(0-0) >C;R;ATL;Matt Olson;Camilo Doval;-28%;42%;Acuña Steals 3B; Acuña Scores/Adv on E2 (throw)/No RBI/unER; Rosario to 2B
+b2;0-1;2;1--;2,(1-0) BX;RR;ATL;Orlando Arcia;Jakob Junis;-20%;38%;Home Run (Fly Ball to Deep LF); Pillar Scores/unER; Arcia Scores/unER
+t9;3-3;1;123;5,(2-2) BSFBS;O;SFG;J.D. Davis;Kirby Yates;-18%;53%;Strikeout Swinging
+t3;1-2;0;-2-;2,(0-1) FX;RR;SFG;Wilmer Flores;Max Fried;15%;61%;Home Run (Fly Ball to Deep LF Line); Estrada Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Giants Batting, Tied 0-0, Braves' Max Fried facing 1-2-3 
+t1;0-0;0;---;2,(1-0) BX;O;SFG;Austin Slater;Max Fried;-2%;48%;Groundout: 3B-1B (SS-3B Hole)
+t1;0-0;1;---;2,(0-1) FX;;SFG;Thairo Estrada;Max Fried;2%;50%;Single to CF (Line Drive)
+t1;0-0;1;1--;3,(1-1) CBX;;SFG;Wilmer Flores;Max Fried;3%;54%;Single to 3B (Ground Ball to SS-3B Hole); Estrada to 2B
+t1;0-0;1;12-;2,(0-1) FB;;SFG;Patrick Bailey;Max Fried;5%;58%;Wild Pitch; Estrada to 3B; Flores to 2B
+t1;0-0;1;-23;5,(3-1) FB.BBB;;SFG;Patrick Bailey;Max Fried;1%;59%;Walk
+t1;0-0;1;123;5,(1-2) FFBFS;O;SFG;J.D. Davis;Max Fried;-7%;52%;Strikeout Swinging
+t1;0-0;2;123;3,(0-2) CSX;O;SFG;Heliot Ramos;Max Fried;-7%;45%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Giants 0, Braves 0.
+Bottom of the 1st, Braves Batting, Tied 0-0, Giants' Jakob Junis facing 1-2-3 
+b1;0-0;0;---;8,(3-2) CBBC.BFFX;O;ATL;Ronald Acuna Jr.;Jakob Junis;2%;47%;Groundout: SS-1B
+b1;0-0;1;---;3,(2-0) BBX;O;ATL;Eddie Rosario;Jakob Junis;2%;49%;Groundout: 1B unassisted
+b1;0-0;2;---;5,(2-2) CTBBX;;ATL;Austin Riley;Jakob Junis;-1%;48%;Single to LF (Line Drive to Short LF Line)
+b1;0-0;2;1--;5,(2-2) B*BCT>B;;ATL;Matt Olson;Jakob Junis;-1%;47%;Riley Steals 2B
+b1;0-0;2;-2-;7,(3-2) B*BCT>B.FX;O;ATL;Matt Olson;Jakob Junis;3%;50%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Braves 0.
+Top of the 2nd, Giants Batting, Tied 0-0, Braves' Max Fried facing 7-8-9 
+t2;0-0;0;---;5,(2-2) BBTF.X;R;SFG;Luis Matos;Max Fried;10%;60%;Home Run (Fly Ball to Deep LF-CF)
+t2;1-0;0;---;6,(2-2) BFBS.FS;O;SFG;Johan Camargo;Max Fried;-2%;58%;Strikeout Swinging
+t2;1-0;1;---;6,(3-2) BBCFBX;O;SFG;Casey Schmitt;Max Fried;-2%;56%;Groundout: 2B-1B (2B-1B)
+t2;1-0;2;---;4,(2-1) SBBX;O;SFG;Austin Slater;Max Fried;-1%;55%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Giants 1, Braves 0.
+Bottom of the 2nd, Braves Batting, Behind 0-1, Giants' Jakob Junis facing 5-6-7 
+b2;0-1;0;---;7,(3-2) BCT.BFBC;O;ATL;Marcell Ozuna;Jakob Junis;3%;58%;Strikeout Looking
+b2;0-1;1;---;9,(2-2) CSBFFF.FBX;;ATL;Sean Murphy;Jakob Junis;-3%;55%;Reached on E5 (Ground Ball to SS-3B Hole); Murphy to 1B
+b2;0-1;1;1--;2,(0-1) CX;O;ATL;Kevin Pillar;Jakob Junis;3%;58%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Pillar to 1B
+b2;0-1;2;1--;2,(1-0) BX;RR;ATL;Orlando Arcia;Jakob Junis;-20%;38%;Home Run (Fly Ball to Deep LF); Pillar Scores/unER; Arcia Scores/unER
+;;;;;;;;;Alex Wood replaces Jakob Junis pitching
+b2;2-1;2;---;1,(0-0) .X;;ATL;Nicky Lopez;Alex Wood;-1%;37%;Single to LF (Line Drive)
+b2;2-1;2;1--;4,(1-2) BCSX;O;ATL;Ronald Acuna Jr.;Alex Wood;2%;39%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;2 runs, 2 hits, 1 error, 1 LOB. Giants 1, Braves 2.
+Top of the 3rd, Giants Batting, Behind 1-2, Braves' Max Fried facing 2-3-4 
+t3;1-2;0;---;2,(0-1) CX;;SFG;Thairo Estrada;Max Fried;7%;46%;Double to LF (Line Drive to Short LF Line)
+t3;1-2;0;-2-;2,(0-1) FX;RR;SFG;Wilmer Flores;Max Fried;15%;61%;Home Run (Fly Ball to Deep LF Line); Estrada Scores
+t3;3-2;0;---;9,(3-2) SBBCFFFBC;O;SFG;Patrick Bailey;Max Fried;-2%;58%;Strikeout Looking
+t3;3-2;1;---;5,(3-1) BBFBX;;SFG;J.D. Davis;Max Fried;2%;61%;Single to RF (Fly Ball to Deep RF)
+t3;3-2;1;1--;1,(0-0) X;O;SFG;Heliot Ramos;Max Fried;-3%;58%;Groundout: SS-2B/Forceout at 2B; Ramos to 1B
+;;;;;;;;;Force Play Challenged by SFG manager (Gabe Kapler): Original call overturned as shown.
+t3;3-2;2;1--;5,(3-1) 1BBBCX;;SFG;Luis Matos;Max Fried;3%;61%;Single to CF (Ground Ball thru SS-2B); Ramos to 3B
+t3;3-2;2;1-3;3,(0-2) F.FX;O;SFG;Johan Camargo;Max Fried;-5%;56%;Flyball: CF
+;;;;;;;;;2 runs, 4 hits, 0 errors, 2 LOB. Giants 3, Braves 2.
+Bottom of the 3rd, Braves Batting, Behind 2-3, Giants' Alex Wood facing 2-3-4 
+b3;2-3;0;---;2,(0-1) .CX;;ATL;Eddie Rosario;Alex Wood;-4%;51%;Single to LF (Ground Ball thru SS-3B Hole)
+b3;2-3;0;1--;6,(2-2) FBBCFX;OO;ATL;Austin Riley;Alex Wood;9%;60%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b3;2-3;2;---;6,(2-2) CFFBBX;O;ATL;Matt Olson;Alex Wood;1%;62%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Giants 3, Braves 2.
+Top of the 4th, Giants Batting, Ahead 3-2, Braves' Max Fried facing 9-1-2 
+t4;3-2;0;---;2,(1-0) BX;O;SFG;Casey Schmitt;Max Fried;-2%;59%;Flyball: CF (Deep CF)
+t4;3-2;1;---;4,(1-2) CFBS;O;SFG;Austin Slater;Max Fried;-2%;58%;Strikeout Swinging
+t4;3-2;2;---;4,(2-1) BCBX;O;SFG;Thairo Estrada;Max Fried;-1%;56%;Lineout: RF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 3, Braves 2.
+Bottom of the 4th, Braves Batting, Behind 2-3, Giants' Tristan Beck facing 5-6-7 
+;;;;;;;;;Tristan Beck replaces Alex Wood pitching
+b4;2-3;0;---;3,(1-1) .BFX;O;ATL;Marcell Ozuna;Tristan Beck;3%;60%;Popfly: SS
+b4;2-3;1;---;4,(1-2) BCFS;O;ATL;Sean Murphy;Tristan Beck;2%;62%;Strikeout Swinging
+b4;2-3;2;---;1,(0-0) X;;ATL;Kevin Pillar;Tristan Beck;-2%;60%;Single to RF (Line Drive to Short CF-RF)
+b4;2-3;2;1--;6,(2-2) BCB1FF1S;O;ATL;Orlando Arcia;Tristan Beck;3%;63%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 3, Braves 2.
+Top of the 5th, Giants Batting, Ahead 3-2, Braves' Max Fried facing 3-4-5 
+t5;3-2;0;---;3,(0-2) CSX;O;SFG;Wilmer Flores;Max Fried;-3%;61%;Lineout: P
+t5;3-2;1;---;1,(0-0) X;O;SFG;Patrick Bailey;Max Fried;-2%;59%;Groundout: SS-1B
+t5;3-2;2;---;5,(2-2) BCCBX;;SFG;J.D. Davis;Max Fried;1%;60%;Single to CF (Ground Ball thru SS-2B)
+t5;3-2;2;1--;3,(0-2) CFS;O;SFG;Heliot Ramos;Max Fried;-3%;58%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 3, Braves 2.
+Bottom of the 5th, Braves Batting, Behind 2-3, Giants' Tristan Beck facing 9-1-2 
+b5;2-3;0;---;7,(2-2) BFS.FFBX;;ATL;Nicky Lopez;Tristan Beck;-5%;52%;Single to LF (Line Drive)
+b5;2-3;0;1--;5,(1-2) C.FFBX;OO;ATL;Ronald Acuna Jr.;Tristan Beck;11%;64%;Ground Ball Double Play: SS-2B-1B (SS-3B Hole)
+b5;2-3;2;---;3,(0-2) FCS;O;ATL;Eddie Rosario;Tristan Beck;2%;65%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Giants 3, Braves 2.
+Top of the 6th, Giants Batting, Ahead 3-2, Braves' Max Fried facing 7-8-9 
+t6;3-2;0;---;3,(1-1) BCX;O;SFG;Luis Matos;Max Fried;-3%;63%;Groundout: 3B-1B (SS-3B Hole)
+t6;3-2;1;---;6,(3-2) BFBBS.X;;SFG;Johan Camargo;Max Fried;3%;65%;Single to CF (Line Drive to CF-RF)
+t6;3-2;1;1--;4,(0-2) FCFC;O;SFG;Casey Schmitt;Max Fried;-3%;62%;Strikeout Looking
+;;;;;;;;;Michael Tonkin replaces Max Fried pitchingMichael Conforto pinch hits for Austin Slater (CF) batting 1st
+t6;3-2;2;1--;,(0-0) ..N;;SFG;Michael Conforto;Michael Tonkin;1%;63%;Balk; Camargo to 2B
+t6;3-2;2;-2-;8,(3-2) ..N.BCSBFBFS;O;SFG;Michael Conforto;Michael Tonkin;-4%;59%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 3, Braves 2.
+Bottom of the 6th, Braves Batting, Behind 2-3, Giants' Tristan Beck facing 3-4-5 
+;;;;;;;;;Heliot Ramos moves from RF to LF Luis Matos moves from LF to CF Michael Conforto moves from PH to RF 
+b6;2-3;0;---;2,(0-1) ...SX;O;ATL;Austin Riley;Tristan Beck;4%;63%;Groundout: 3B-1B (SS-3B Hole)
+b6;2-3;1;---;5,(3-1) CBBBX;O;ATL;Matt Olson;Tristan Beck;3%;66%;Popfly: SS (Weak SS)
+b6;2-3;2;---;5,(3-1) BBCBX;O;ATL;Marcell Ozuna;Tristan Beck;2%;68%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 3, Braves 2.
+Top of the 7th, Giants Batting, Ahead 3-2, Braves' Michael Tonkin facing 2-3-4 
+t7;3-2;0;---;7,(2-2) FFFBFBX;O;SFG;Thairo Estrada;Michael Tonkin;-3%;66%;Foul Popfly: C (Behind Home)
+t7;3-2;1;---;3,(1-1) BCX;O;SFG;Wilmer Flores;Michael Tonkin;-2%;64%;Flyball: RF (Deep 1B)
+t7;3-2;2;---;3,(1-1) BCX;;SFG;Patrick Bailey;Michael Tonkin;1%;65%;Single to CF (Line Drive)
+t7;3-2;2;1--;5,(1-2) SSBFS;O;SFG;J.D. Davis;Michael Tonkin;-3%;62%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 3, Braves 2.
+Bottom of the 7th, Braves Batting, Behind 2-3, Giants' Luke Jackson facing 6-7-8 
+;;;;;;;;;Luke Jackson replaces Tristan Beck pitching
+b7;2-3;0;---;1,(0-0) .X;O;ATL;Sean Murphy;Luke Jackson;5%;67%;Groundout: 3B-1B (SS-3B Hole)
+b7;2-3;1;---;3,(0-2) .CCX;O;ATL;Kevin Pillar;Luke Jackson;4%;71%;Groundout: 3B-1B (SS-3B Hole)
+b7;2-3;2;---;1,(0-0) X;O;ATL;Orlando Arcia;Luke Jackson;3%;74%;Groundout: SS-1B (Deep SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 3, Braves 2.
+Top of the 8th, Giants Batting, Ahead 3-2, Braves' Michael Tonkin facing 6-7-8 
+;;;;;;;;;Wade Meckler pinch hits for Heliot Ramos (LF) batting 6th
+t8;3-2;0;---;5,(3-1) .SBBBB;;SFG;Wade Meckler;Michael Tonkin;4%;77%;Walk
+t8;3-2;0;1--;4,(1-2) C1CBX;O;SFG;Luis Matos;Michael Tonkin;-3%;74%;Lineout: RF
+t8;3-2;1;1--;5,(2-2) CBS.*BS;O;SFG;Johan Camargo;Michael Tonkin;-3%;71%;Strikeout Swinging
+t8;3-2;2;1--;7,(3-2) BFBFFB>S;O;SFG;Casey Schmitt;Michael Tonkin;-3%;68%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Giants 3, Braves 2.
+Bottom of the 8th, Braves Batting, Behind 2-3, Giants' Taylor Rogers facing 9-1-2 
+;;;;;;;;;Taylor Rogers replaces Luke Jackson pitchingLuis Matos moves from CF to LF Wade Meckler moves from PH to CF Vaughn Grissom pinch hits for Nicky Lopez (2B) batting 9th
+b8;2-3;0;---;4,(1-2) ....BCSC;O;ATL;Vaughn Grissom;Taylor Rogers;7%;74%;Strikeout Looking
+b8;2-3;1;---;6,(3-2) BCBBCB;;ATL;Ronald Acuna Jr.;Taylor Rogers;-7%;67%;Walk
+b8;2-3;1;1--;9,(3-2) FFBBFBFFB;;ATL;Eddie Rosario;Taylor Rogers;-9%;58%;Walk; Acuña to 2B
+;;;;;;;;;Camilo Doval replaces Taylor Rogers pitching
+b8;2-3;1;12-;9,(3-2) .BBBCCFFFS;O;ATL;Austin Riley;Camilo Doval;12%;70%;Strikeout Swinging
+b8;2-3;2;12-;1,(0-0) >C;R;ATL;Matt Olson;Camilo Doval;-28%;42%;Acuña Steals 3B; Acuña Scores/Adv on E2 (throw)/No RBI/unER; Rosario to 2B
+b8;3-3;2;-2-;1,(3-1) >C.VVVV;;ATL;Matt Olson;Camilo Doval;-1%;41%;Intentional Walk
+b8;3-3;2;12-;8,(3-2) CBSFBFB>S;O;ATL;Marcell Ozuna;Camilo Doval;9%;50%;Strikeout Swinging
+;;;;;;;;;1 run, 0 hits, 1 error, 2 LOB. Giants 3, Braves 3.
+Top of the 9th, Giants Batting, Tied 3-3, Braves' Kirby Yates facing 1-2-3 
+;;;;;;;;;Kirby Yates replaces Michael Tonkin pitchingVaughn Grissom moves from PH to 2B 
+t9;3-3;0;---;8,(3-2) ..CBF.BBFF*B;;SFG;Michael Conforto;Kirby Yates;8%;58%;Walk
+t9;3-3;0;1--;3,(0-2) FCH;;SFG;Thairo Estrada;Kirby Yates;12%;70%;Hit By Pitch; Conforto to 2B
+t9;3-3;0;12-;2,(1-0) BH;;SFG;Wilmer Flores;Kirby Yates;13%;83%;Hit By Pitch; Conforto to 3B; Estrada to 2B
+t9;3-3;0;123;4,(1-2) CBTS;O;SFG;Patrick Bailey;Kirby Yates;-12%;71%;Strikeout Swinging
+t9;3-3;1;123;5,(2-2) BSFBS;O;SFG;J.D. Davis;Kirby Yates;-18%;53%;Strikeout Swinging
+;;;;;;;;;Joc Pederson pinch hits for Wade Meckler (CF) batting 6th
+t9;3-3;2;123;4,(3-0) .BBBB;R;SFG;Joc Pederson;Kirby Yates;31%;84%;Walk; Conforto Scores; Estrada to 3B; Flores to 2B
+;;;;;;;;;Collin McHugh replaces Kirby Yates pitching
+t9;4-3;2;123;3,(1-1) .BCX;O;SFG;Luis Matos;Collin McHugh;-5%;78%;Lineout: CF (Deep CF)
+;;;;;;;;;1 run, 0 hits, 0 errors, 3 LOB. Giants 4, Braves 3.
+Bottom of the 9th, Braves Batting, Behind 3-4, Giants' Camilo Doval facing 6-7-8 
+;;;;;;;;;Joc Pederson moves from PH to LF Luis Matos moves from LF to CF 
+b9;3-4;0;---;3,(2-0) ..BBX;O;ATL;Sean Murphy;Camilo Doval;9%;88%;Groundout: 3B-1B (Weak 3B)
+b9;3-4;1;---;2,(1-0) BX;O;ATL;Kevin Pillar;Camilo Doval;7%;95%;Groundout: 3B-1B (SS-3B Hole)
+b9;3-4;2;---;6,(3-2) BFBBS.S;O;ATL;Orlando Arcia;Camilo Doval;5%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 4, Braves 3.

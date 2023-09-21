@@ -1,0 +1,261 @@
+
+Scorebox Meta
+20230730
+1:10 p.m. Local
+31789
+Coors Field
+143
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/OAK-2023.png;/teams/OAK/2023.shtml;0;0;0;0;0;0;0;0;0;0;5;1
+https://cdn.ssref.net/req/202308101/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;0;1;0;1;0;0;0;X;2;6;0
+
+Batting home
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;4;1;1;0;0;0;4;.259;.289;.421;.711;18;11;0.017; 0.72;0.057;-0.040;0%; 0.00; 0.2;2;1;2B
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;4;0;2;2;0;0;4;.257;.338;.461;.799;14;10;0.120; 1.02;0.202;-0.082;0%; 0.00; 0.8;0;2;2B,GDP
+Randal Grichuk;/players/g/grichra01.shtml;RF;3;0;0;0;1;1;4;.308;.365;.496;.861;17;10;-0.053; 0.57;0.008;-0.061;0%; 0.00; -0.5;1;0;
+C.J. Cron;/players/c/croncj01.shtml;DH;3;0;1;0;1;1;4;.260;.304;.476;.780;19;10;0.030; 0.69;0.069;-0.039;0%; 0.00; 0.5;;;2B
+Elehuris Montero;/players/m/monteel01.shtml;PR-DH-DH;0;0;0;0;0;0;0;.209;.231;.348;.579;;;;;;;;;;;;
+Nolan Jones;/players/j/jonesno01.shtml;LF;4;0;2;0;0;0;4;.273;.351;.485;.836;17;8;0.036; 0.80;0.067;-0.031;0%; 0.00; 0.1;1;0;SB
+Jurickson Profar;/players/p/profaju01.shtml;LF;0;0;0;0;0;0;0;.243;.325;.373;.698;;;;;;;;;;0;0;
+Michael Toglia;/players/t/toglimi01.shtml;1B;4;0;0;0;0;3;4;.203;.277;.339;.616;18;13;-0.131; 0.94;0.000;-0.131;0%; 0.00; -1.9;7;1;
+Harold Castro;/players/c/castrha01.shtml;2B;2;0;0;0;0;2;2;.270;.287;.340;.627;8;7;-0.073; 1.25;0.000;-0.073;0%; 0.00; -0.8;3;4;
+Alan Trejo;/players/t/trejoal01.shtml;PH-2B;1;0;0;0;0;1;1;.248;.282;.340;.622;6;5;-0.024; 0.81;0.000;-0.024;0%; 0.00; -0.4;0;0;
+Brenton Doyle;/players/d/doylebr02.shtml;CF;3;0;0;0;0;1;3;.198;.258;.335;.592;10;7;-0.064; 0.79;0.000;-0.064;0%; 0.00; -0.8;4;0;
+Austin Wynns;/players/w/wynnsau01.shtml;C;2;1;0;0;0;0;3;.209;.270;.299;.569;8;3;0.009; 0.68;0.037;-0.028;0%; 0.00; -0.0;8;1;HBP
+Ty Blach;/players/b/blachty01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Matt Koch;/players/k/kochma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brent Suter;/players/s/suterbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Daniel Bard;/players/b/bardda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Justin Lawrence;/players/l/lawreju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: C.J. Cron (12, off Luis Medina); Ezequiel Tovar (23, off Luis Medina); Ryan McMahon (22, off Luis Medina).
+
+
+HBP: Austin Wynns (1, by Luis Medina).
+
+
+TB: Ryan McMahon 3; Ezequiel Tovar 2; C.J. Cron 2; Nolan Jones 2.
+
+
+GIDP: Ryan McMahon (15).
+
+
+RBI: Ryan McMahon 2 (50).
+
+
+2-out RBI: Ryan McMahon 2.
+
+
+Team LOB: 7.
+With RISP: 2 for 12.
+
+Batting away
+Tony Kemp;/players/k/kempto01.shtml;LF;3;0;0;0;1;0;4;.214;.300;.306;.606;16;11;-0.048; 1.14;0.068;-0.116;0%; 0.00; -0.6;0;0;CS
+Zack Gelof;/players/g/gelofza01.shtml;2B;4;0;0;0;0;3;4;.218;.283;.491;.774;17;13;-0.116; 1.16;0.000;-0.116;0%; 0.00; -0.9;1;2;
+Brent Rooker;/players/r/rookebr01.shtml;RF;4;0;1;0;0;0;4;.248;.341;.476;.817;8;6;-0.034; 1.03;0.044;-0.079;0%; 0.00; -0.2;4;0;
+Jordan Diaz;/players/d/diazjo03.shtml;1B;3;0;0;0;0;1;3;.252;.288;.412;.700;9;7;-0.106; 1.36;0.000;-0.106;0%; 0.00; -0.9;5;0;
+Seth Brown;/players/b/brownse01.shtml;PH-1B;1;0;0;0;0;1;1;.207;.287;.404;.691;5;3;-0.045; 1.66;0.000;-0.045;0%; 0.00; -0.3;1;0;
+Ramón Laureano;/players/l/laurera01.shtml;CF;3;0;2;0;0;0;3;.220;.283;.376;.659;7;7;0.029; 1.05;0.067;-0.037;0%; 0.00; 0.2;2;0;
+JJ Bleday;/players/b/bledajj01.shtml;PH;1;0;0;0;0;1;1;.212;.329;.384;.713;3;3;-0.029; 1.09;0.000;-0.029;0%; 0.00; -0.2;;;
+Shea Langeliers;/players/l/langesh01.shtml;C;3;0;0;0;1;1;4;.202;.266;.365;.630;19;10;-0.056; 1.14;0.036;-0.091;0%; 0.00; -0.3;9;0;
+Tyler Soderstrom;/players/s/soderty01.shtml;DH;3;0;1;0;0;0;3;.211;.302;.211;.513;10;8;-0.042; 1.46;0.031;-0.073;0%; 0.00; -0.5;;;
+Aledmys Díaz;/players/d/diazal02.shtml;3B;2;0;1;0;1;0;3;.209;.263;.283;.546;15;9;0.036; 1.72;0.088;-0.052;0%; 0.00; 0.1;1;2;
+Nick Allen;/players/a/allenni02.shtml;SS;3;0;0;0;0;1;3;.182;.230;.221;.451;6;5;-0.222; 2.36;0.000;-0.222;0%; 0.00; -1.7;1;3;GDP
+Luis Medina;/players/m/medinlu02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Sam Moll;/players/m/mollsa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Austin Pruitt;/players/p/pruitau01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Angel Felipe;/players/f/felipan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+TB: Ramón Laureano 2; Tyler Soderstrom; Brent Rooker; Aledmys Díaz.
+
+
+GIDP: Nick Allen (4).
+
+
+Team LOB: 6.
+With RISP: 0 for 3.
+
+Pitching home
+Ty Blach;/players/b/blachty01.shtml; W (1-0); 5 ;3;0;0;1;2;0;4.22;18;52;41;26;5;10;9;6;3;0;62;;;0.306; 1.10; 0.00%; 0.00; 3.0
+Matt Koch;/players/k/kochma01.shtml; H (1); 1 ;0;0;0;0;1;0;1.84;3;12;9;6;1;2;1;1;1;0;;0;0;0.073; 0.90; 0.00%; 0.00; 0.6
+Brent Suter;/players/s/suterbr01.shtml; H (4); 1 ;2;0;0;1;2;0;2.79;6;27;17;8;5;4;3;0;0;0;;0;0;0.080; 2.06; 0.00%; 0.00; 0.6
+Daniel Bard;/players/b/bardda01.shtml; H (5); 1 ;0;0;0;1;1;0;2.89;3;12;6;1;2;3;0;1;0;0;;0;0;0.086; 1.88; 0.00%; 0.00; 0.6
+Justin Lawrence;/players/l/lawreju01.shtml; S (8); 1 ;0;0;0;0;2;0;2.89;3;12;9;4;1;4;0;1;0;0;;0;0;0.088; 1.09; 0.00%; 0.00; 0.6
+
+Pitching away
+Luis Medina;/players/m/medinlu02.shtml; L (3-8); 5.1;6;2;2;0;6;0;5.35;23;91;60;35;16;9;9;7;2;0;54;;;0.047; 0.94; 0.00%; 0.00; 1.0
+Sam Moll;/players/m/mollsa01.shtml;Sam Moll; 0.2;0;0;0;0;2;0;4.54;2;13;10;4;4;2;0;0;0;0;;1;0;0.037; 0.79; 0.00%; 0.00; 0.6
+Austin Pruitt;/players/p/pruitau01.shtml;Austin Pruitt; 1 ;0;0;0;0;0;0;3.66;3;11;6;4;1;1;0;3;1;0;;0;0;0.030; 0.38; 0.00%; 0.00; 0.6
+Angel Felipe;/players/f/felipan01.shtml;Angel Felipe; 1 ;0;0;0;2;1;0;1.80;5;20;8;3;1;4;1;1;0;0;;0;0;0.019; 0.41; 0.00%; 0.00; 0.6
+
+indiv_events
+
+Balks: Luis Medina (1).
+WP: Luis Medina (8).
+HBP: Luis Medina (2; Austin Wynns).
+IBB: None.
+Pickoffs: None.
+
+Balks: Luis Medina (1).
+WP: Luis Medina (8).
+HBP: Luis Medina (2; Austin Wynns).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Bill Miller, 1B - Chad Whitson, 2B - Roberto Ortiz, 3B - Rob Drake, LF - (none), RF - (none).
+Time of Game: 2:23.
+Attendance: 31,789.
+Field Condition: Unknown.
+Start Time Weather: 93° F, Wind 6mph in from Centerfield, Cloudy, No Precipitation.
+
+div_lineups
+Athletics
+1;Tony Kemp;/players/k/kempto01.shtml;LF
+2;Zack Gelof;/players/g/gelofza01.shtml;2B
+3;Brent Rooker;/players/r/rookebr01.shtml;RF
+4;Jordan Diaz;/players/d/diazjo03.shtml;1B
+5;Ramón Laureano;/players/l/laurera01.shtml;CF
+6;Shea Langeliers;/players/l/langesh01.shtml;C
+7;Tyler Soderstrom;/players/s/soderty01.shtml;DH
+8;Aledmys Díaz;/players/d/diazal02.shtml;3B
+9;Nick Allen;/players/a/allenni02.shtml;SS
+; Luis Medina;/players/m/medinlu02.shtml;P
+Rockies
+1;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+2;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+3;Randal Grichuk;/players/g/grichra01.shtml;RF
+4;C.J. Cron;/players/c/croncj01.shtml;DH
+5;Nolan Jones;/players/j/jonesno01.shtml;LF
+6;Michael Toglia;/players/t/toglimi01.shtml;1B
+7;Harold Castro;/players/c/castrha01.shtml;2B
+8;Brenton Doyle;/players/d/doylebr02.shtml;CF
+9;Austin Wynns;/players/w/wynnsau01.shtml;C
+; Ty Blach;/players/b/blachty01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t7;0-2;2;123;3,(0-2) CSC;O;OAK;Nick Allen;Brent Suter;12%;87%;Strikeout Looking
+b5;1-0;2;-2-;6,(2-2) CF*BF*BX;R;COL;Ryan McMahon;Luis Medina;10%;79%;Double to LF (Ground Ball); Tovar Scores
+b3;0-0;2;-2-;3,(1-1) N.F*BX;R;COL;Ryan McMahon;Luis Medina;10%;63%;Single to LF (Line Drive to Short LF-CF); Wynns Scores
+t5;0-1;1;1--;1,(0-0) X;OO;OAK;Nick Allen;Ty Blach;8%;70%;Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+b1;0-0;0;1--;4,(1-2) FSBX;OO;COL;Ryan McMahon;Luis Medina;-7%;51%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Athletics Batting, Tied 0-0, Rockies' Ty Blach facing 1-2-3 
+t1;0-0;0;---;4,(0-2) CFF.X;O;OAK;Tony Kemp;Ty Blach;2%;52%;Groundout: 2B-1B (Deep 2B)
+t1;0-0;1;---;4,(1-2) SLBS;O;OAK;Zack Gelof;Ty Blach;2%;54%;Strikeout Swinging
+t1;0-0;2;---;3,(1-1) CBX;O;OAK;Brent Rooker;Ty Blach;1%;55%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Rockies 0.
+Bottom of the 1st, Rockies Batting, Tied 0-0, Athletics' Luis Medina facing 1-2-3 
+b1;0-0;0;---;5,(2-2) FBBFX;;COL;Ezequiel Tovar;Luis Medina;3%;59%;Reached on E3 (Pop Fly); Tovar to 1B
+b1;0-0;0;1--;4,(1-2) FSBX;OO;COL;Ryan McMahon;Luis Medina;-7%;51%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+b1;0-0;2;---;6,(3-2) BSBBCS;O;COL;Randal Grichuk;Luis Medina;-1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 1 error, 0 LOB. Athletics 0, Rockies 0.
+Top of the 2nd, Athletics Batting, Tied 0-0, Rockies' Ty Blach facing 4-5-6 
+t2;0-0;0;---;1,(0-0) X;O;OAK;Jordan Diaz;Ty Blach;2%;52%;Flyball: CF (Deep CF-RF)
+t2;0-0;1;---;4,(0-2) CFFX;;OAK;Ramón Laureano;Ty Blach;-3%;50%;Single to RF (Ground Ball thru 2B-1B)
+t2;0-0;1;1--;5,(3-1) BBBCB;;OAK;Shea Langeliers;Ty Blach;-4%;46%;Walk; Laureano to 2B
+t2;0-0;1;12-;3,(0-2) C>FX;O;OAK;Tyler Soderstrom;Ty Blach;4%;50%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Laureano to 3B; Soderstrom to 1B
+;;;;;;;;;Force Play Challenged by OAK manager (Mark Kotsay): Original call overturned as shown.
+t2;0-0;2;1-3;3,(1-1) BFX;O;OAK;Aledmys Díaz;Ty Blach;5%;55%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Athletics 0, Rockies 0.
+Bottom of the 2nd, Rockies Batting, Tied 0-0, Athletics' Luis Medina facing 4-5-6 
+b2;0-0;0;---;4,(1-2) BCFX;;COL;C.J. Cron;Luis Medina;6%;61%;Double to LF (Ground Ball)
+b2;0-0;0;-2-;4,(1-2) FFBX;O;COL;Nolan Jones;Luis Medina;-2%;60%;Groundout: 3B-1B (Weak 3B); Cron to 3B
+b2;0-0;1;--3;5,(1-2) CCBFS;O;COL;Michael Toglia;Luis Medina;-6%;54%;Strikeout Swinging
+b2;0-0;2;--3;4,(1-2) CBF*S;O;COL;Harold Castro;Luis Medina;-4%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 0, Rockies 0.
+Top of the 3rd, Athletics Batting, Tied 0-0, Rockies' Ty Blach facing 9-1-2 
+t3;0-0;0;---;2,(1-0) BX;O;OAK;Nick Allen;Ty Blach;3%;53%;Flyball: CF (Deep CF)
+t3;0-0;1;---;1,(0-0) X;O;OAK;Tony Kemp;Ty Blach;2%;55%;Bunt Groundout: P-1B (P's Left)
+t3;0-0;2;---;4,(1-2) CBS.X;O;OAK;Zack Gelof;Ty Blach;1%;56%;Lineout: 2B (Deep 2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Rockies 0.
+Bottom of the 3rd, Rockies Batting, Tied 0-0, Athletics' Luis Medina facing 8-9-1 
+b3;0-0;0;---;4,(1-2) FFBS;O;COL;Brenton Doyle;Luis Medina;-3%;53%;Strikeout Swinging
+b3;0-0;1;---;4,(2-1) BSBH;;COL;Austin Wynns;Luis Medina;3%;56%;Hit By Pitch
+b3;0-0;1;1--;4,(1-2) FF*BX;O;COL;Ezequiel Tovar;Luis Medina;-3%;53%;Flyball: CF (Deep CF)
+b3;0-0;2;1--;,(0-0) N;;COL;Ryan McMahon;Luis Medina;1%;54%;Balk; Wynns to 2B
+b3;0-0;2;-2-;3,(1-1) N.F*BX;R;COL;Ryan McMahon;Luis Medina;10%;63%;Single to LF (Line Drive to Short LF-CF); Wynns Scores
+b3;1-0;2;1--;2,(0-1) SX;O;COL;Randal Grichuk;Luis Medina;-2%;61%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Athletics 0, Rockies 1.
+Top of the 4th, Athletics Batting, Behind 0-1, Rockies' Ty Blach facing 3-4-5 
+t4;0-1;0;---;2,(0-1) CX;;OAK;Brent Rooker;Ty Blach;-4%;57%;Single to LF (Line Drive to Deep LF-CF)
+t4;0-1;0;1--;3,(0-2) CFS;O;OAK;Jordan Diaz;Ty Blach;4%;61%;Strikeout Swinging
+t4;0-1;1;1--;1,(0-0) X;O;OAK;Ramón Laureano;Ty Blach;4%;65%;Foul Popfly: 2B (1B into Foul Terr.)
+t4;0-1;2;1--;4,(1-2) FS.*BX;O;OAK;Shea Langeliers;Ty Blach;3%;68%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 0, Rockies 1.
+Bottom of the 4th, Rockies Batting, Ahead 1-0, Athletics' Luis Medina facing 4-5-6 
+b4;1-0;0;---;6,(2-2) BBFS.FS;O;COL;C.J. Cron;Luis Medina;-2%;65%;Strikeout Swinging
+b4;1-0;1;---;5,(3-1) BBS.BX;;COL;Nolan Jones;Luis Medina;2%;68%;Single to 2B (Ground Ball)
+b4;1-0;1;1--;1,(0-0) B;;COL;Michael Toglia;Luis Medina;2%;69%;Wild Pitch; Jones to 2B
+b4;1-0;1;-2-;2,(1-0) B.X;O;COL;Michael Toglia;Luis Medina;-3%;66%;Foul Popfly: 3B
+b4;1-0;2;-2-;4,(0-2) SS.FS;O;COL;Harold Castro;Luis Medina;-3%;63%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 0, Rockies 1.
+Top of the 5th, Athletics Batting, Behind 0-1, Rockies' Ty Blach facing 7-8-9 
+t5;0-1;0;---;2,(0-1) CX;O;OAK;Tyler Soderstrom;Ty Blach;3%;66%;Groundout: 1B unassisted
+t5;0-1;1;---;5,(1-2) FC.BFX;;OAK;Aledmys Díaz;Ty Blach;-4%;62%;Single to CF (Ground Ball thru SS-2B)
+t5;0-1;1;1--;1,(0-0) X;OO;OAK;Nick Allen;Ty Blach;8%;70%;Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Athletics 0, Rockies 1.
+Bottom of the 5th, Rockies Batting, Ahead 1-0, Athletics' Luis Medina facing 8-9-1 
+b5;1-0;0;---;2,(0-1) CX;O;COL;Brenton Doyle;Luis Medina;-2%;68%;Lineout: RF (Deep RF Line)
+b5;1-0;1;---;1,(0-0) X;O;COL;Austin Wynns;Luis Medina;-2%;66%;Groundout: SS-1B
+b5;1-0;2;---;5,(3-1) .BBCBX;;COL;Ezequiel Tovar;Luis Medina;2%;68%;Double to CF (Fly Ball to Deep CF-RF)
+b5;1-0;2;-2-;6,(2-2) CF*BF*BX;R;COL;Ryan McMahon;Luis Medina;10%;79%;Double to LF (Ground Ball); Tovar Scores
+b5;2-0;2;-2-;3,(0-2) SFX;O;COL;Randal Grichuk;Luis Medina;-3%;76%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Athletics 0, Rockies 2.
+Top of the 6th, Athletics Batting, Behind 0-2, Rockies' Matt Koch facing 1-2-3 
+;;;;;;;;;Matt Koch replaces Ty Blach pitching
+t6;0-2;0;---;5,(1-2) .CF.FBX;O;OAK;Tony Kemp;Matt Koch;3%;79%;Groundout: 2B-1B (2B-1B)
+t6;0-2;1;---;5,(1-2) BCFFS;O;OAK;Zack Gelof;Matt Koch;2%;82%;Strikeout Swinging
+t6;0-2;2;---;2,(1-0) BX;O;OAK;Brent Rooker;Matt Koch;2%;83%;Lineout: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Rockies 2.
+Bottom of the 6th, Rockies Batting, Ahead 2-0, Athletics' Luis Medina facing 4-5-6 
+b6;2-0;0;---;5,(2-2) BBSCX;O;COL;C.J. Cron;Luis Medina;-2%;82%;Groundout: SS-1B
+b6;2-0;1;---;3,(2-0) BBX;;COL;Nolan Jones;Luis Medina;2%;83%;Single to RF (Ground Ball)
+;;;;;;;;;Sam Moll replaces Luis Medina pitching
+b6;2-0;1;1--;4,(1-2) .SS1B>B;;COL;Michael Toglia;Sam Moll;1%;84%;Jones Steals 2B
+b6;2-0;1;-2-;7,(2-2) .SS1B>B.FF*S;O;COL;Michael Toglia;Sam Moll;-2%;82%;Strikeout Swinging
+;;;;;;;;;Alan Trejo pinch hits for Harold Castro (2B) batting 7th
+b6;2-0;2;-2-;6,(1-2) .CCF*BFS;O;COL;Alan Trejo;Sam Moll;-2%;80%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 0, Rockies 2.
+Top of the 7th, Athletics Batting, Behind 0-2, Rockies' Brent Suter facing 4-5-6 
+;;;;;;;;;Brent Suter replaces Matt Koch pitchingAlan Trejo moves from PH to 2B 
+t7;0-2;0;---;5,(2-2) ..SBSBX;O;OAK;Jordan Diaz;Brent Suter;4%;83%;Groundout: 3B-1B
+t7;0-2;1;---;2,(0-1) CX;;OAK;Ramón Laureano;Brent Suter;-4%;79%;Single to 3B (Ground Ball to SS-3B Hole)
+t7;0-2;1;1--;5,(2-2) CF.1BBS;O;OAK;Shea Langeliers;Brent Suter;5%;84%;Strikeout Swinging
+t7;0-2;2;1--;5,(2-2) BFFBX;;OAK;Tyler Soderstrom;Brent Suter;-3%;81%;Single to LF (Ground Ball thru SS-3B Hole); Laureano to 2B
+t7;0-2;2;12-;7,(3-2) *BFSFBB>B;;OAK;Aledmys Díaz;Brent Suter;-5%;76%;Walk; Laureano to 3B; Soderstrom to 2B
+t7;0-2;2;123;3,(0-2) CSC;O;OAK;Nick Allen;Brent Suter;12%;87%;Strikeout Looking
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Athletics 0, Rockies 2.
+Bottom of the 7th, Rockies Batting, Ahead 2-0, Athletics' Austin Pruitt facing 8-9-1 
+;;;;;;;;;Austin Pruitt replaces Sam Moll pitching
+b7;2-0;0;---;4,(2-1) .BSBX;O;COL;Brenton Doyle;Austin Pruitt;-1%;86%;Flyball: 2B (Deep 2B)
+b7;2-0;1;---;3,(2-0) BBX;O;COL;Austin Wynns;Austin Pruitt;-1%;85%;Flyball: RF (Short RF Line)
+b7;2-0;2;---;4,(1-2) FBCX;O;COL;Ezequiel Tovar;Austin Pruitt;-1%;84%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Rockies 2.
+Top of the 8th, Athletics Batting, Behind 0-2, Rockies' Daniel Bard facing 1-2-3 
+;;;;;;;;;Daniel Bard replaces Brent Suter pitching
+t8;0-2;0;---;6,(3-2) .BCC.BBB;;OAK;Tony Kemp;Daniel Bard;-7%;78%;Walk
+t8;0-2;0;1--;4,(1-2) SBSC;O;OAK;Zack Gelof;Daniel Bard;6%;84%;Strikeout Looking
+t8;0-2;1;1--;1,(0-0) X;O;OAK;Brent Rooker;Daniel Bard;5%;89%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;Seth Brown pinch hits for Jordan Diaz (1B) batting 4th
+t8;0-2;2;1--;1,(0-0) .>B;O;OAK;Seth Brown;Daniel Bard;4%;93%;Kemp Caught Stealing 2B (C-SS)
+;;;;;;;;;Tag play Challenged by OAK manager (Mark Kotsay): Original call upheld upon review.
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Rockies 2.
+Bottom of the 8th, Rockies Batting, Ahead 2-0, Athletics' Angel Felipe facing 2-3-4 
+;;;;;;;;;Angel Felipe replaces Austin Pruitt pitchingSeth Brown moves from PH to 1B 
+b8;2-0;0;---;1,(0-0) ..X;O;COL;Ryan McMahon;Angel Felipe;-1%;92%;Groundout: 2B-1B (2B-1B)
+b8;2-0;1;---;6,(3-2) CSBBB*B;;COL;Randal Grichuk;Angel Felipe;1%;93%;Walk
+b8;2-0;1;1--;4,(3-0) BBBB;;COL;C.J. Cron;Angel Felipe;1%;94%;Walk; Grichuk to 2B
+;;;;;;;;;Elehuris Montero pinch runs for C.J. Cron (DH) batting 4th
+b8;2-0;1;12-;5,(3-1) .BC*BBX;O;COL;Nolan Jones;Angel Felipe;-1%;93%;Flyball: CF (Deep CF)
+b8;2-0;2;12-;4,(1-2) BFCC;O;COL;Michael Toglia;Angel Felipe;-2%;91%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Athletics 0, Rockies 2.
+Top of the 9th, Athletics Batting, Behind 0-2, Rockies' Justin Lawrence facing 4-5-6 
+;;;;;;;;;Justin Lawrence replaces Daniel Bard pitchingJurickson Profar replaces Nolan Jones playing LF batting 5th
+t9;0-2;0;---;4,(1-2) ...BFC.S;O;OAK;Seth Brown;Justin Lawrence;4%;96%;Strikeout Swinging
+;;;;;;;;;JJ Bleday pinch hits for Ramón Laureano (CF) batting 5th
+t9;0-2;1;---;3,(0-2) .FFC;O;OAK;JJ Bleday;Justin Lawrence;3%;99%;Strikeout Looking
+t9;0-2;2;---;5,(2-2) CC.BBX;O;OAK;Shea Langeliers;Justin Lawrence;1%;100%;Flyball: CF (CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Rockies 2.

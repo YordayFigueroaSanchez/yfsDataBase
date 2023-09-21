@@ -1,0 +1,273 @@
+
+Scorebox Meta
+20230804
+7:10 p.m. Local
+29408
+Target Field
+167
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/ARI-2023.png;/teams/ARI/2023.shtml;0;1;0;1;0;0;0;0;0;2;9;0
+https://cdn.ssref.net/req/202308251/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;0;0;1;0;0;1;1;0;X;3;7;0
+
+Batting home
+Carlos Correa;/players/c/correca01.shtml;SS;4;0;0;0;0;2;4;.220;.295;.383;.679;15;10;-0.093; 0.92;0.000;-0.093;-0.06%; 0.91; -0.9;1;1;
+Edouard Julien;/players/j/julieed01.shtml;2B;3;0;1;0;1;2;4;.287;.373;.508;.881;16;9;0.005; 0.65;0.040;-0.035; 0.00%; 0.64; 0.1;1;0;
+Kyle Farmer;/players/f/farmeky01.shtml;3B;0;0;0;0;0;0;0;.249;.311;.385;.696;;;;;;;;;;0;2;
+Jorge Polanco;/players/p/polanjo01.shtml;3B-2B;3;1;1;1;1;1;4;.241;.299;.434;.734;19;9;0.105; 0.79;0.151;-0.046; 0.06%; 0.78; 1.1;0;1;HR
+Max Kepler;/players/k/keplema01.shtml;RF;4;1;1;1;0;1;4;.230;.294;.445;.739;9;6;0.107; 1.15;0.181;-0.073; 0.06%; 1.13; 0.2;3;0;HR
+Matt Wallner;/players/w/wallnma01.shtml;DH;2;0;0;0;1;2;4;.247;.375;.534;.909;19;9;-0.015; 1.16;0.049;-0.064;-0.01%; 1.15; 0.1;;;HBP
+Willi Castro;/players/c/castrwi01.shtml;LF;4;0;1;0;0;1;4;.246;.332;.369;.701;18;13;-0.059; 1.35;0.053;-0.112;-0.03%; 1.33; -0.9;3;0;SB
+Christian Vázquez;/players/v/vazquch01.shtml;C;4;0;2;0;0;0;4;.226;.292;.308;.600;10;8;-0.017; 0.94;0.039;-0.056;-0.01%; 0.92; -0.2;7;0;
+Joey Gallo;/players/g/gallojo01.shtml;1B;3;0;0;0;1;2;4;.176;.290;.437;.727;17;9;-0.060; 1.30;0.034;-0.095;-0.04%; 1.28; -0.4;6;0;
+Michael A. Taylor;/players/t/taylomi02.shtml;CF;4;1;1;1;0;1;4;.223;.272;.432;.704;16;11;0.077; 1.60;0.201;-0.124; 0.04%; 1.57; -0.1;5;0;HR
+Bailey Ober;/players/o/oberba01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Dylan Floro;/players/f/florody01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Caleb Thielbar;/players/t/thielca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Emilio Pagán;/players/p/paganem01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jhoan Duran;/players/d/duranjh01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+HR: Jorge Polanco (6, off Merrill Kelly, 3rd inn, 0 on, 2 outs to Deep RF Line); Max Kepler (16, off Merrill Kelly, 6th inn, 0 on, 0 outs to Deep CF-RF); Michael A. Taylor (14, off Scott McGough, 7th inn, 0 on, 0 outs to Deep RF).
+
+
+HBP: Matt Wallner (6, by Merrill Kelly).
+
+
+TB: Max Kepler 4; Jorge Polanco 4; Michael A. Taylor 4; Christian Vázquez 2; Edouard Julien; Willi Castro.
+
+
+RBI: Jorge Polanco (20); Michael A. Taylor (34); Max Kepler (40).
+
+
+2-out RBI: Jorge Polanco.
+
+
+Team LOB: 9.
+With RISP: 0 for 4.
+
+Batting away
+Geraldo Perdomo;/players/p/perdoge01.shtml;SS;5;0;1;0;0;1;5;.272;.375;.400;.775;19;15;-0.279; 2.12;0.034;-0.313;-0.19%; 2.43; -1.2;2;2;
+Ketel Marte;/players/m/marteke01.shtml;2B;5;0;0;0;0;1;5;.287;.363;.504;.867;30;19;-0.295; 2.12;0.000;-0.295;-0.20%; 2.43; -1.5;1;2;
+Corbin Carroll;/players/c/carroco02.shtml;CF;4;0;1;0;0;1;4;.276;.353;.525;.878;16;12;-0.079; 1.10;0.022;-0.100;-0.05%; 1.26; -0.5;2;0;2B
+Christian Walker;/players/w/walkech02.shtml;1B;4;0;1;0;0;1;4;.263;.340;.509;.849;16;10;0.034; 1.37;0.101;-0.067; 0.02%; 1.57; -0.2;6;0;
+Tommy Pham;/players/p/phamth01.shtml;LF;4;0;1;0;0;1;4;.265;.346;.462;.808;17;10;-0.099; 1.50;0.038;-0.136;-0.07%; 1.72; -0.5;1;0;
+Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;DH;3;2;1;1;0;1;4;.250;.298;.460;.758;16;13;0.019; 1.46;0.137;-0.118; 0.01%; 1.67; 0.6;;;HR,HBP
+Emmanuel Rivera;/players/r/riverem01.shtml;3B;2;0;0;0;0;0;2;.280;.325;.393;.718;9;5;-0.049; 1.01;0.000;-0.049;-0.03%; 1.17; -0.5;0;1;
+Jace Peterson;/players/p/peterja01.shtml;PH-3B;2;0;0;0;0;0;2;.221;.310;.321;.631;9;6;-0.105; 2.08;0.000;-0.105;-0.07%; 2.39; -0.5;0;1;
+Jake McCarthy;/players/m/mccarja02.shtml;RF;3;0;2;0;1;0;4;.250;.325;.342;.666;21;13;0.091; 1.11;0.118;-0.026; 0.06%; 1.28; 0.4;0;0;
+Jose Herrera;/players/h/herrejo04.shtml;C;3;0;1;1;0;1;3;.222;.313;.278;.591;10;8;0.071; 1.44;0.132;-0.061; 0.05%; 1.65; 0.6;12;0;
+Alek Thomas;/players/t/thomaal01.shtml;PH;1;0;1;0;0;0;1;.237;.271;.412;.683;2;2;0.240; 4.89;0.240;0.000; 0.17%; 5.60; 0.8;;;SB
+Merrill Kelly;/players/k/kellyme01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Scott McGough;/players/m/mcgousc01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Luis Frías;/players/f/friaslu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Miguel Castro;/players/c/castrmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Corbin Carroll (22, off Bailey Ober).
+
+
+HR: Lourdes Gurriel Jr. (17, off Bailey Ober, 2nd inn, 0 on, 1 out to Deep LF Line).
+
+
+HBP: Lourdes Gurriel Jr. (5, by Bailey Ober).
+
+
+TB: Lourdes Gurriel Jr. 4; Jake McCarthy 2; Corbin Carroll 2; Jose Herrera; Geraldo Perdomo; Tommy Pham; Christian Walker; Alek Thomas.
+
+
+RBI: Jose Herrera (7); Lourdes Gurriel Jr. (59).
+
+
+2-out RBI: Jose Herrera.
+
+
+Team LOB: 9.
+With RISP: 1 for 7.
+
+Pitching home
+Bailey Ober;/players/o/oberba01.shtml;Bailey Ober; 5 ;6;2;2;0;3;1;3.21;22;104;72;42;15;15;5;13;2;0;50;;;0.020; 0.94; 0.01%; 0.93; 0.6
+Dylan Floro;/players/f/florody01.shtml;Dylan Floro; 1 ;1;0;0;0;1;0;4.29;4;19;12;6;4;2;0;3;2;0;;0;0;0.056; 1.19; 0.03%; 1.17; 0.5
+Caleb Thielbar;/players/t/thielca01.shtml; W (1-1); 1.1;0;0;0;0;2;0;1.42;4;12;9;6;1;2;1;1;1;0;;0;0;0.144; 1.41; 0.08%; 1.39; 0.8
+Emilio Pagán;/players/p/paganem01.shtml; H (4); 0.2;1;0;0;0;0;0;3.19;3;11;8;7;1;0;2;1;1;0;;0;0;0.066; 2.59; 0.04%; 2.56; 0.3
+Jhoan Duran;/players/d/duranjh01.shtml; S (20); 1 ;1;0;0;1;1;0;2.89;5;19;12;7;0;5;2;1;0;0;;0;0;0.164; 4.59; 0.10%; 4.52; 0.5
+
+Pitching away
+Merrill Kelly;/players/k/kellyme01.shtml;Merrill Kelly; 6 ;6;2;2;1;9;2;3.21;26;93;62;35;14;13;7;8;3;0;60;;;0.076; 1.12; 0.05%; 1.29; 1.1
+Scott McGough;/players/m/mcgousc01.shtml; L (1-7); 0.2;1;1;1;3;2;1;4.31;6;28;12;3;4;5;0;1;0;0;;0;0;-0.216; 1.14;-0.15%; 1.30; -1.3
+Luis Frías;/players/f/friaslu01.shtml;Luis Frías; 0.1;0;0;0;0;1;0;5.84;1;6;4;2;0;2;0;0;0;0;;3;0;0.059; 2.32; 0.04%; 2.66; 0.8
+Miguel Castro;/players/c/castrmi01.shtml;Miguel Castro; 1 ;0;0;0;0;0;0;3.97;3;12;6;3;0;3;1;2;1;0;;0;0;0.032; 0.42; 0.02%; 0.48; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Emilio Pagán (1).
+HBP: Bailey Ober (6; Lourdes Gurriel Jr.); Merrill Kelly (4; Matt Wallner).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Emilio Pagán (1).
+HBP: Bailey Ober (6; Lourdes Gurriel Jr.); Merrill Kelly (4; Matt Wallner).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Vic Carapazza, 1B - Emil Jimenez, 2B - Adam Hamari, 3B - Nick Mahrley, LF - (none), RF - (none).
+Time of Game: 2:47.
+Attendance: 29,408.
+Field Condition: Unknown.
+Start Time Weather: 83° F, Wind 6mph in from Centerfield, Overcast, No Precipitation.
+
+div_lineups
+Diamondbacks
+1;Geraldo Perdomo;/players/p/perdoge01.shtml;SS
+2;Ketel Marte;/players/m/marteke01.shtml;2B
+3;Corbin Carroll;/players/c/carroco02.shtml;CF
+4;Christian Walker;/players/w/walkech02.shtml;1B
+5;Tommy Pham;/players/p/phamth01.shtml;LF
+6;Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;DH
+7;Emmanuel Rivera;/players/r/riverem01.shtml;3B
+8;Jake McCarthy;/players/m/mccarja02.shtml;RF
+9;Jose Herrera;/players/h/herrejo04.shtml;C
+; Merrill Kelly;/players/k/kellyme01.shtml;P
+Twins
+1;Carlos Correa;/players/c/correca01.shtml;SS
+2;Edouard Julien;/players/j/julieed01.shtml;2B
+3;Jorge Polanco;/players/p/polanjo01.shtml;3B
+4;Max Kepler;/players/k/keplema01.shtml;RF
+5;Matt Wallner;/players/w/wallnma01.shtml;DH
+6;Willi Castro;/players/c/castrwi01.shtml;LF
+7;Christian Vázquez;/players/v/vazquch01.shtml;C
+8;Joey Gallo;/players/g/gallojo01.shtml;1B
+9;Michael A. Taylor;/players/t/taylomi02.shtml;CF
+; Bailey Ober;/players/o/oberba01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t9;2-3;1;1-3;1,(0-0) 1X;O;ARI;Geraldo Perdomo;Jhoan Duran;21%;84%;Bunt Popfly: P (Front of Home)
+t9;2-3;2;-23;6,(3-2) CC>B.BBC;O;ARI;Ketel Marte;Jhoan Duran;20%;100%;Strikeout Looking
+t9;2-3;1;1--;2,(0-1) .F1X;;ARI;Alek Thomas;Jhoan Duran;-20%;62%;Single to LF (Ground Ball); McCarthy to 3B
+b7;2-2;0;---;4,(1-2) .BFFX;R;MIN;Michael A. Taylor;Scott McGough;20%;79%;Home Run (Fly Ball to Deep RF)
+b6;1-2;0;---;1,(0-0) .X;R;MIN;Max Kepler;Merrill Kelly;18%;58%;Home Run (Fly Ball to Deep CF-RF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Diamondbacks Batting, Tied 0-0, Twins' Bailey Ober facing 1-2-3 
+t1;0-0;0;---;7,(2-2) CBS.FBFX;O;ARI;Geraldo Perdomo;Bailey Ober;2%;52%;Flyball: CF (Deep LF-CF)
+t1;0-0;1;---;10,(3-2) FFFB.BFBFFX;O;ARI;Ketel Marte;Bailey Ober;2%;54%;Flyball: CF (Deep CF)
+t1;0-0;2;---;3,(0-2) CC.X;;ARI;Corbin Carroll;Bailey Ober;-2%;52%;Double to RF (Line Drive to Deep CF-RF)
+t1;0-0;2;-2-;2,(0-1) FX;O;ARI;Christian Walker;Bailey Ober;3%;55%;Foul Popfly: LF (3B into Foul Terr.)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 0, Twins 0.
+Bottom of the 1st, Twins Batting, Tied 0-0, Diamondbacks' Merrill Kelly facing 1-2-3 
+b1;0-0;0;---;5,(2-2) BBFFC;O;MIN;Carlos Correa;Merrill Kelly;-2%;53%;Strikeout Looking
+b1;0-0;1;---;6,(3-2) BBCCB.C;O;MIN;Edouard Julien;Merrill Kelly;-2%;51%;Strikeout Looking
+b1;0-0;2;---;5,(2-2) BFFBX;O;MIN;Jorge Polanco;Merrill Kelly;-1%;50%;Popfly: SS (Deep SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 0, Twins 0.
+Top of the 2nd, Diamondbacks Batting, Tied 0-0, Twins' Bailey Ober facing 5-6-7 
+t2;0-0;0;---;3,(1-1) BCX;O;ARI;Tommy Pham;Bailey Ober;2%;52%;Foul Popfly: 1B (1B into Foul Terr.)
+t2;0-0;1;---;4,(1-2) CS.BX;R;ARI;Lourdes Gurriel Jr.;Bailey Ober;-11%;42%;Home Run (Line Drive to Deep LF Line)
+t2;1-0;1;---;4,(2-1) FBBX;O;ARI;Emmanuel Rivera;Bailey Ober;1%;43%;Groundout: P-1B (Short 1B Line)
+t2;1-0;2;---;4,(1-2) CBFX;;ARI;Jake McCarthy;Bailey Ober;-1%;42%;Single to RF (Ground Ball thru 2B-1B)
+t2;1-0;2;1--;2,(0-1) 1CX;O;ARI;Jose Herrera;Bailey Ober;2%;44%;Flyball: RF (CF-RF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Diamondbacks 1, Twins 0.
+Bottom of the 2nd, Twins Batting, Behind 0-1, Diamondbacks' Merrill Kelly facing 4-5-6 
+b2;0-1;0;---;2,(1-0) BX;O;MIN;Max Kepler;Merrill Kelly;-3%;42%;Groundout: 1B unassisted
+b2;0-1;1;---;4,(1-2) BCFH;;MIN;Matt Wallner;Merrill Kelly;3%;44%;Hit By Pitch
+b2;0-1;1;1--;2,(0-1) FX;O;MIN;Willi Castro;Merrill Kelly;-3%;41%;Groundout: 2B-SS/Forceout at 2B; Castro to 1B
+b2;0-1;2;1--;2,(0-1) SX;;MIN;Christian Vázquez;Merrill Kelly;2%;44%;Single to RF (Line Drive to RF Line); Castro to 2B
+b2;0-1;2;12-;6,(3-2) BBTFB>B;;MIN;Joey Gallo;Merrill Kelly;3%;47%;Walk; Castro to 3B; Vázquez to 2B
+b2;0-1;2;123;4,(1-2) BFS.C;O;MIN;Michael A. Taylor;Merrill Kelly;-8%;39%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Diamondbacks 1, Twins 0.
+Top of the 3rd, Diamondbacks Batting, Ahead 1-0, Twins' Bailey Ober facing 1-2-3 
+t3;1-0;0;---;2,(0-1) C.X;;ARI;Geraldo Perdomo;Bailey Ober;-3%;35%;Single to RF (Ground Ball thru 2B-1B)
+t3;1-0;0;1--;6,(2-2) BB1SCF.X;O;ARI;Ketel Marte;Bailey Ober;3%;39%;Flyball: 2B (Deep 2B-1B)
+t3;1-0;1;1--;5,(2-2) SBS.BS;O;ARI;Corbin Carroll;Bailey Ober;3%;41%;Strikeout Swinging
+t3;1-0;2;1--;6,(3-2) S1CB*BB>S;O;ARI;Christian Walker;Bailey Ober;2%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 1, Twins 0.
+Bottom of the 3rd, Twins Batting, Behind 0-1, Diamondbacks' Merrill Kelly facing 1-2-3 
+b3;0-1;0;---;4,(1-2) CBSX;O;MIN;Carlos Correa;Merrill Kelly;-3%;41%;Groundout: 3B-1B
+b3;0-1;1;---;3,(0-2) FFC;O;MIN;Edouard Julien;Merrill Kelly;-2%;39%;Strikeout Looking
+b3;0-1;2;---;4,(2-1) CBBX;R;MIN;Jorge Polanco;Merrill Kelly;12%;51%;Home Run (Fly Ball to Deep RF Line)
+b3;1-1;2;---;2,(1-0) BX;O;MIN;Max Kepler;Merrill Kelly;-1%;50%;Lineout: CF (Deep LF-CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Diamondbacks 1, Twins 1.
+Top of the 4th, Diamondbacks Batting, Tied 1-1, Twins' Bailey Ober facing 5-6-7 
+t4;1-1;0;---;5,(2-2) CBBSS;O;ARI;Tommy Pham;Bailey Ober;3%;53%;Strikeout Swinging
+t4;1-1;1;---;3,(0-2) SFH;;ARI;Lourdes Gurriel Jr.;Bailey Ober;-3%;50%;Hit By Pitch
+t4;1-1;1;1--;5,(2-2) BCSBX;O;ARI;Emmanuel Rivera;Bailey Ober;3%;53%;Flyball: RF (Deep RF)
+t4;1-1;2;1--;6,(2-2) CBC.*BFX;;ARI;Jake McCarthy;Bailey Ober;-2%;51%;Single to CF (Ground Ball); Gurriel to 2B
+t4;1-1;2;12-;3,(0-2) FFX;R;ARI;Jose Herrera;Bailey Ober;-13%;38%;Single to SS (Fly Ball to Short LF-CF); Gurriel Scores; McCarthy to 3B
+t4;2-1;2;1-3;6,(2-2) BSTFBX;O;ARI;Geraldo Perdomo;Bailey Ober;5%;43%;Flyball: LF (Deep 3B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Diamondbacks 2, Twins 1.
+Bottom of the 4th, Twins Batting, Behind 1-2, Diamondbacks' Merrill Kelly facing 5-6-7 
+b4;1-2;0;---;6,(2-2) CBSFBS;O;MIN;Matt Wallner;Merrill Kelly;-3%;40%;Strikeout Swinging
+b4;1-2;1;---;7,(3-2) BCS.BFBX;O;MIN;Willi Castro;Merrill Kelly;-2%;38%;Groundout: 2B-1B
+b4;1-2;2;---;3,(0-2) FF.X;;MIN;Christian Vázquez;Merrill Kelly;2%;39%;Single to CF (Ground Ball thru SS-2B)
+b4;1-2;2;1--;5,(2-2) SSBBS;O;MIN;Joey Gallo;Merrill Kelly;-3%;36%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 2, Twins 1.
+Top of the 5th, Diamondbacks Batting, Ahead 2-1, Twins' Bailey Ober facing 2-3-4 
+t5;2-1;0;---;5,(2-2) FFBBX;O;ARI;Ketel Marte;Bailey Ober;2%;39%;Flyball: CF (Deep LF-CF)
+t5;2-1;1;---;7,(2-2) SB.SBFFX;O;ARI;Corbin Carroll;Bailey Ober;2%;40%;Flyball: CF (Deep CF-RF)
+t5;2-1;2;---;6,(2-2) BCBFF.X;O;ARI;Christian Walker;Bailey Ober;1%;41%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 2, Twins 1.
+Bottom of the 5th, Twins Batting, Behind 1-2, Diamondbacks' Merrill Kelly facing 9-1-2 
+b5;1-2;0;---;2,(0-1) SX;O;MIN;Michael A. Taylor;Merrill Kelly;-3%;38%;Groundout: SS-1B (Deep SS-3B Hole)
+b5;1-2;1;---;1,(0-0) X;O;MIN;Carlos Correa;Merrill Kelly;-2%;36%;Groundout: SS-1B
+b5;1-2;2;---;1,(0-0) X;;MIN;Edouard Julien;Merrill Kelly;2%;38%;Single to CF (Line Drive to Deep CF)
+b5;1-2;2;1--;5,(2-2) *BBFSS;O;MIN;Jorge Polanco;Merrill Kelly;-4%;34%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 2, Twins 1.
+Top of the 6th, Diamondbacks Batting, Ahead 2-1, Twins' Dylan Floro facing 5-6-7 
+;;;;;;;;;Dylan Floro replaces Bailey Ober pitching
+t6;2-1;0;---;6,(3-2) .BBSCBX;;ARI;Tommy Pham;Dylan Floro;-4%;30%;Single to RF (Line Drive)
+t6;2-1;0;1--;3,(0-2) FFS;O;ARI;Lourdes Gurriel Jr.;Dylan Floro;4%;34%;Strikeout Swinging
+;;;;;;;;;Jace Peterson pinch hits for Emmanuel Rivera (3B) batting 7th
+t6;2-1;1;1--;7,(3-2) .S1BS.B>FBX;O;ARI;Jace Peterson;Dylan Floro;3%;37%;Lineout: RF
+t6;2-1;2;1--;3,(1-1) 1CB>X;O;ARI;Jake McCarthy;Dylan Floro;3%;40%;Flyball: LF (Short LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 2, Twins 1.
+Bottom of the 6th, Twins Batting, Behind 1-2, Diamondbacks' Merrill Kelly facing 4-5-6 
+;;;;;;;;;Jace Peterson moves from PH to 3B 
+b6;1-2;0;---;1,(0-0) .X;R;MIN;Max Kepler;Merrill Kelly;18%;58%;Home Run (Fly Ball to Deep CF-RF)
+b6;2-2;0;---;5,(2-2) BFFBS;O;MIN;Matt Wallner;Merrill Kelly;-3%;54%;Strikeout Swinging
+b6;2-2;1;---;3,(0-2) FCX;;MIN;Willi Castro;Merrill Kelly;4%;58%;Single to RF (Fly Ball to Short CF-RF)
+b6;2-2;1;1--;1,(0-1) AX;O;MIN;Christian Vázquez;Merrill Kelly;-4%;54%;Popfly: 2B (2B-1B)
+b6;2-2;2;1--;1,(0-0) 1>B;;MIN;Joey Gallo;Merrill Kelly;2%;55%;Castro Steals 2B
+b6;2-2;2;-2-;4,(1-2) 1>B.CFS;O;MIN;Joey Gallo;Merrill Kelly;-5%;50%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Diamondbacks 2, Twins 2.
+Top of the 7th, Diamondbacks Batting, Tied 2-2, Twins' Caleb Thielbar facing 9-1-2 
+;;;;;;;;;Caleb Thielbar replaces Dylan Floro pitching
+t7;2-2;0;---;5,(2-2) .BBF.FC;O;ARI;Jose Herrera;Caleb Thielbar;4%;54%;Strikeout Looking
+t7;2-2;1;---;3,(1-2) CFVS;O;ARI;Geraldo Perdomo;Caleb Thielbar;3%;57%;Strikeout Swinging
+t7;2-2;2;---;3,(1-1) BFX;O;ARI;Ketel Marte;Caleb Thielbar;2%;59%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 2, Twins 2.
+Bottom of the 7th, Twins Batting, Tied 2-2, Diamondbacks' Scott McGough facing 9-1-2 
+;;;;;;;;;Scott McGough replaces Merrill Kelly pitching
+b7;2-2;0;---;4,(1-2) .BFFX;R;MIN;Michael A. Taylor;Scott McGough;20%;79%;Home Run (Fly Ball to Deep RF)
+b7;3-2;0;---;5,(2-2) BBSS.C;O;MIN;Carlos Correa;Scott McGough;-2%;77%;Strikeout Looking
+b7;3-2;1;---;6,(3-2) BCBBS.*B;;MIN;Edouard Julien;Scott McGough;2%;79%;Walk
+b7;3-2;1;1--;5,(3-1) BBCB*B;;MIN;Jorge Polanco;Scott McGough;3%;82%;Walk; Julien to 2B
+b7;3-2;1;12-;4,(1-2) CC.BS;O;MIN;Max Kepler;Scott McGough;-4%;78%;Strikeout Swinging
+b7;3-2;2;12-;4,(3-0) B*B.BB;;MIN;Matt Wallner;Scott McGough;2%;80%;Walk; Julien to 3B; Polanco to 2B
+;;;;;;;;;Luis Frías replaces Scott McGough pitching
+b7;3-2;2;123;6,(2-2) .CBFFBC;O;MIN;Willi Castro;Luis Frías;-6%;75%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 3 LOB. Diamondbacks 2, Twins 3.
+Top of the 8th, Diamondbacks Batting, Behind 2-3, Twins' Caleb Thielbar facing 3-4-5 
+;;;;;;;;;Jorge Polanco moves from 3B to 2B Kyle Farmer replaces Edouard Julien (2B) playing 3B batting 2nd
+t8;2-3;0;---;1,(0-0) ..X;O;ARI;Corbin Carroll;Caleb Thielbar;6%;80%;Lineout: SS (Deep SS-2B)
+;;;;;;;;;Emilio Pagán replaces Caleb Thielbar pitching
+t8;2-3;1;---;2,(1-0) .BX;;ARI;Christian Walker;Emilio Pagán;-6%;74%;Single to CF (Line Drive to Deep CF)
+t8;2-3;1;1--;1,(0-0) B;;ARI;Tommy Pham;Emilio Pagán;-4%;70%;Wild Pitch; Walker to 2B
+t8;2-3;1;-2-;3,(1-1) B.SX;O;ARI;Tommy Pham;Emilio Pagán;8%;79%;Groundout: 3B-1B (SS-3B Hole)
+t8;2-3;2;-2-;6,(1-2) FFBFFX;O;ARI;Lourdes Gurriel Jr.;Emilio Pagán;8%;87%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 2, Twins 3.
+Bottom of the 8th, Twins Batting, Ahead 3-2, Diamondbacks' Miguel Castro facing 7-8-9 
+;;;;;;;;;Miguel Castro replaces Luis Frías pitching
+b8;3-2;0;---;4,(2-1) .CBBX;O;MIN;Christian Vázquez;Miguel Castro;-1%;85%;Lineout: CF (Deep CF-RF)
+b8;3-2;1;---;2,(1-0) BX;O;MIN;Joey Gallo;Miguel Castro;-1%;84%;Flyball: LF (Deep LF-CF)
+b8;3-2;2;---;6,(3-2) BBCBCX;O;MIN;Michael A. Taylor;Miguel Castro;-1%;84%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 2, Twins 3.
+Top of the 9th, Diamondbacks Batting, Behind 2-3, Twins' Jhoan Duran facing 7-8-9 
+;;;;;;;;;Jhoan Duran replaces Emilio Pagán pitching
+t9;2-3;0;---;2,(0-1) .CX;O;ARI;Jace Peterson;Jhoan Duran;7%;91%;Flyball: CF (Deep CF)
+t9;2-3;1;---;8,(3-2) CFBFFBBB;;ARI;Jake McCarthy;Jhoan Duran;-8%;83%;Walk
+;;;;;;;;;Alek Thomas pinch hits for Jose Herrera (C) batting 9th
+t9;2-3;1;1--;2,(0-1) .F1X;;ARI;Alek Thomas;Jhoan Duran;-20%;62%;Single to LF (Ground Ball); McCarthy to 3B
+t9;2-3;1;1-3;1,(0-0) 1X;O;ARI;Geraldo Perdomo;Jhoan Duran;21%;84%;Bunt Popfly: P (Front of Home)
+t9;2-3;2;1-3;3,(0-2) CC>B;;ARI;Ketel Marte;Jhoan Duran;-4%;80%;Thomas Steals 2B
+t9;2-3;2;-23;6,(3-2) CC>B.BBC;O;ARI;Ketel Marte;Jhoan Duran;20%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Diamondbacks 2, Twins 3.

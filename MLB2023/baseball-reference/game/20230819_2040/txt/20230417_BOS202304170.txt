@@ -1,0 +1,275 @@
+
+Scorebox Meta
+20230417
+11:10 a.m. Local
+34942
+Fenway Park
+183
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;4;1;0;0;0;0;0;0;0;5;9;0
+https://cdn.ssref.net/req/202308101/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;1;0;0;0;0;2;0;0;1;4;8;3
+
+Batting home
+Raimel Tapia;/players/t/tapiara01.shtml;RF;3;1;0;0;2;3;5;.267;.389;.467;.856;25;13;0.050; 1.36;0.162;-0.112; 0.03%; 1.16; 0.4;4;0;
+Rafael Devers;/players/d/deverra01.shtml;3B;5;0;2;1;0;0;5;.273;.314;.652;.966;22;15;0.069; 1.92;0.188;-0.119; 0.04%; 1.64; 0.5;0;2;2B
+Rob Refsnyder;/players/r/refsnro01.shtml;LF;5;1;1;1;0;1;5;.211;.348;.316;.664;24;17;-0.225; 2.44;0.040;-0.265;-0.12%; 2.08; -0.8;2;0;
+Masataka Yoshida;/players/y/yoshima02.shtml;DH;4;0;0;0;1;1;5;.186;.340;.279;.619;25;16;-0.245; 2.28;0.024;-0.270;-0.13%; 1.95; -1.0;;;
+Triston Casas;/players/c/casastr01.shtml;1B;3;1;1;0;1;0;4;.146;.222;.333;.556;18;11;0.082; 1.22;0.134;-0.052; 0.04%; 1.04; 1.1;7;1;2B
+Enrique Hernández;/players/h/hernaen02.shtml;SS;3;0;1;1;0;1;4;.175;.273;.333;.606;10;8;-0.088; 1.40;0.028;-0.115;-0.04%; 1.20; -0.9;0;2;SF
+Reese McGuire;/players/m/mcguire01.shtml;C;3;0;1;1;0;1;3;.385;.407;.500;.907;13;10;0.001; 1.42;0.078;-0.078;0%; 1.21; -0.1;9;1;
+Justin Turner;/players/t/turneju01.shtml;PH;1;0;0;0;0;0;1;.267;.384;.383;.767;1;1;-0.046; 1.56;0.000;-0.046;-0.02%; 1.33; -0.2;;;
+Connor Wong;/players/w/wongco01.shtml;C;0;0;0;0;0;0;0;.156;.250;.250;.500;;;;;;;;;;1;0;
+Christian Arroyo;/players/a/arroych01.shtml;2B;3;0;0;0;0;0;3;.160;.192;.200;.392;7;5;-0.078; 0.95;0.000;-0.078;-0.04%; 0.81; -0.8;1;2;
+Alex Verdugo;/players/v/verdual01.shtml;PH;1;1;1;0;0;0;1;.328;.394;.438;.832;3;2;0.096; 1.97;0.096;0.000; 0.05%; 1.68; 0.4;;;
+Jarren Duran;/players/d/duranja01.shtml;CF;3;0;1;0;1;2;4;.333;.500;.667;1.167;17;10;0.038; 1.78;0.133;-0.095; 0.02%; 1.52; 0.5;2;0;2B,SB
+Brayan Bello;/players/b/bellobr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kutter Crawford;/players/c/crawfku01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Rafael Devers (4, off Tucker Davidson); Jarren Duran (1, off Tucker Davidson); Triston Casas (3, off Aaron Loup).
+
+
+SF: Enrique Hernández (1, off Aaron Loup).
+
+
+TB: Rafael Devers 3; Triston Casas 2; Jarren Duran 2; Alex Verdugo; Enrique Hernández; Rob Refsnyder; Reese McGuire.
+
+
+RBI: Reese McGuire (2); Rafael Devers (16); Enrique Hernández (8); Rob Refsnyder (7).
+
+
+2-out RBI: Reese McGuire.
+
+
+Team LOB: 9.
+With RISP: 2 for 14.
+
+Batting away
+Zach Neto;/players/n/netoza01.shtml;SS;5;1;1;0;0;1;5;.077;.077;.077;.154;20;13;-0.016; 0.53;0.036;-0.052;-0.01%; 0.51; -0.2;0;2;
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH-DH;5;1;2;0;0;0;5;.298;.385;.491;.876;11;6;0.050; 0.53;0.093;-0.043; 0.03%; 0.51; 0.5;0;0;CS
+Taylor Ward;/players/w/wardta01.shtml;LF;4;1;0;0;0;2;5;.238;.333;.349;.683;17;12;-0.027; 0.59;0.035;-0.061;-0.01%; 0.57; -0.9;0;0;HBP
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;4;1;1;4;0;2;4;.267;.362;.533;.896;16;12;0.197; 0.96;0.219;-0.023; 0.11%; 0.92; 2.1;1;0;HR
+Gio Urshela;/players/u/urshegi01.shtml;3B;3;1;0;0;1;0;4;.327;.362;.418;.780;13;9;-0.024; 0.47;0.016;-0.039;-0.01%; 0.45; -0.5;2;2;
+Jake Lamb;/players/l/lambja01.shtml;1B;4;0;3;0;0;0;4;.242;.306;.273;.578;13;10;0.056; 0.45;0.065;-0.009; 0.03%; 0.43; 1.2;7;1;
+Luis Rengifo;/players/r/rengilu01.shtml;2B;0;0;0;0;0;0;0;.178;.315;.244;.559;;;;;;;;;;0;1;
+Brandon Drury;/players/d/drurybr01.shtml;2B-1B;3;0;1;1;0;0;4;.204;.241;.327;.567;10;8;0.007; 0.69;0.032;-0.026; 0.00%; 0.66; 0.1;1;1;SF
+Logan O'Hoppe;/players/o/ohopplo01.shtml;C;4;0;1;0;0;1;4;.244;.300;.533;.833;28;20;-0.034; 0.49;0.010;-0.043;-0.02%; 0.47; -0.8;8;1;
+Brett Phillips;/players/p/phillbr02.shtml;CF;4;0;0;0;0;4;4;.000;.375;.000;.375;16;12;-0.058; 0.57;0.000;-0.058;-0.03%; 0.55; -1.3;7;0;
+Shohei Ohtani;/players/o/ohtansh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tucker Davidson;/players/d/davidtu01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Aaron Loup;/players/l/loupaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matt Moore;/players/m/moorema02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Quijada;/players/q/quijajo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Carlos Estévez;/players/e/estevca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Hunter Renfroe (4, off Brayan Bello, 1st inn, 2 on, 1 out to Deep LF).
+
+
+SF: Brandon Drury (2, off Brayan Bello).
+
+
+HBP: Taylor Ward (2, by Brayan Bello).
+
+
+TB: Hunter Renfroe 4; Jake Lamb 3; Shohei Ohtani 2; Brandon Drury; Zach Neto; Logan O'Hoppe.
+
+
+RBI: Hunter Renfroe 4 (15); Brandon Drury (5).
+
+
+Team LOB: 7.
+With RISP: 1 for 10.
+
+Pitching home
+Brayan Bello;/players/b/bellobr01.shtml; L (0-1); 2.2;8;5;5;1;5;1;16.88;18;68;46;23;10;13;5;6;5;0;26;;;-0.327; 0.82;-0.17%; 0.70; -3.8
+Kutter Crawford;/players/c/crawfku01.shtml;Kutter Crawford; 6.1;1;0;0;0;5;0;4.42;21;76;56;37;8;11;8;8;2;0;;2;0;0.175; 0.39; 0.09%; 0.34; 3.8
+
+Pitching away
+Shohei Ohtani;/players/o/ohtansh01.shtml;Shohei Ohtani; 2 ;0;1;1;1;3;0;0.86;7;31;20;9;7;4;1;2;0;0;54;;;0.018; 0.78; 0.01%; 0.75; 0.1
+Tucker Davidson;/players/d/davidtu01.shtml; W (1-1); 3.1;3;1;1;2;3;0;2.53;15;54;35;21;7;7;5;5;1;0;;0;0;0.128; 1.16; 0.07%; 1.11; 1.6
+Aaron Loup;/players/l/loupaa01.shtml;Aaron Loup; 0.2;2;1;1;0;0;0;6.23;4;9;7;5;2;0;2;2;1;0;;1;1;-0.085; 1.32;-0.05%; 1.27; -1.4
+Matt Moore;/players/m/moorema02.shtml; H (4); 1 ;0;0;0;1;1;0;2.45;4;26;17;13;2;2;0;2;2;0;;0;0;0.088; 2.14; 0.05%; 2.05; 0.6
+José Quijada;/players/q/quijajo01.shtml; H (4); 1 ;1;0;0;0;0;0;0.00;4;19;14;11;1;2;1;3;1;0;;0;0;0.097; 1.31; 0.06%; 1.26; 0.6
+Carlos Estévez;/players/e/estevca01.shtml; S (2); 1 ;2;1;1;1;2;0;2.57;6;26;15;9;1;5;1;2;1;0;;0;0;0.102; 4.51; 0.06%; 4.32; -0.5
+
+indiv_events
+
+Balks: None.
+WP: Shohei Ohtani 2 (3).
+HBP: Brayan Bello (1; Taylor Ward).
+IBB: None.
+Pickoffs: Kutter Crawford (0; Zach Neto, 1st base).
+
+Balks: None.
+WP: Shohei Ohtani 2 (3).
+HBP: Brayan Bello (1; Taylor Ward).
+IBB: None.
+Pickoffs: Kutter Crawford (0; Zach Neto, 1st base).
+
+section_content
+Umpires: HP - Jansen Visconti, 1B - Ron Kulpa, 2B - Cory Blaser, 3B - Carlos Torres, LF - (none), RF - (none).
+Time of Game: 3:03.
+Attendance: 34,942.
+Field Condition: Unknown.
+Start Time Weather: 50° F, Wind 3mph out to Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Angels
+1;Zach Neto;/players/n/netoza01.shtml;SS
+2;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+3;Taylor Ward;/players/w/wardta01.shtml;LF
+4;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+5;Gio Urshela;/players/u/urshegi01.shtml;3B
+6;Jake Lamb;/players/l/lambja01.shtml;1B
+7;Brandon Drury;/players/d/drurybr01.shtml;2B
+8;Logan O'Hoppe;/players/o/ohopplo01.shtml;C
+9;Brett Phillips;/players/p/phillbr02.shtml;CF
+; Shohei Ohtani;/players/o/ohtansh01.shtml;P
+Red Sox
+1;Raimel Tapia;/players/t/tapiara01.shtml;RF
+2;Rafael Devers;/players/d/deverra01.shtml;3B
+3;Rob Refsnyder;/players/r/refsnro01.shtml;LF
+4;Masataka Yoshida;/players/y/yoshima02.shtml;DH
+5;Triston Casas;/players/c/casastr01.shtml;1B
+6;Enrique Hernández;/players/h/hernaen02.shtml;SS
+7;Reese McGuire;/players/m/mcguire01.shtml;C
+8;Christian Arroyo;/players/a/arroych01.shtml;2B
+9;Jarren Duran;/players/d/duranja01.shtml;CF
+; Brayan Bello;/players/b/bellobr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t1;0-0;1;12-;2,(1-0) BX;RRR;LAA;Hunter Renfroe;Brayan Bello;20%;74%;Home Run (Fly Ball to Deep LF); Ohtani Scores; Ward Scores
+b9;4-5;2;12-;4,(1-2) CBFX;O;BOS;Masataka Yoshida;Carlos Estévez;18%;100%;Popfly: 3B (Front of Home)
+b9;4-5;1;12-;6,(3-2) BBBCFS;O;BOS;Rob Refsnyder;Carlos Estévez;17%;82%;Strikeout Swinging
+b9;3-5;1;12-;2,(0-1) FX;R;BOS;Rafael Devers;Carlos Estévez;-14%;65%;Single to RF (Ground Ball thru 2B-1B); Verdugo Scores; Tapia to 2B
+b9;3-5;0;---;3,(1-1) ..BT.X;;BOS;Alex Verdugo;Carlos Estévez;-10%;80%;Single to CF (Line Drive to Deep CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, Red Sox' Brayan Bello facing 1-2-3 
+t1;0-0;0;---;5,(1-2) SCBFC;O;LAA;Zach Neto;Brayan Bello;-2%;48%;Strikeout Looking
+t1;0-0;1;---;1,(0-0) X;;LAA;Shohei Ohtani;Brayan Bello;2%;50%;Single to CF (Line Drive to Deep 2B)
+t1;0-0;1;1--;5,(2-2) CFBBH;;LAA;Taylor Ward;Brayan Bello;3%;54%;Hit By Pitch; Ohtani to 2B
+t1;0-0;1;12-;2,(1-0) BX;RRR;LAA;Hunter Renfroe;Brayan Bello;20%;74%;Home Run (Fly Ball to Deep LF); Ohtani Scores; Ward Scores
+t1;3-0;1;---;6,(3-2) CBBBCB;;LAA;Gio Urshela;Brayan Bello;2%;76%;Walk
+t1;3-0;1;1--;3,(1-1) CBX;;LAA;Jake Lamb;Brayan Bello;4%;80%;Single to CF (Line Drive to Deep CF-RF); Urshela to 3B
+t1;3-0;1;1-3;1,(0-0) X;RO;LAA;Brandon Drury;Brayan Bello;1%;80%;Lineout: LF/Sacrifice Fly; Urshela Scores
+t1;4-0;2;1--;11,(3-2) CBSFBB>F>F>F>F>X;;LAA;Logan O'Hoppe;Brayan Bello;1%;81%;Single to LF (Ground Ball); Lamb to 2B
+t1;4-0;2;12-;3,(0-2) CS.S;O;LAA;Brett Phillips;Brayan Bello;-2%;79%;Strikeout Swinging
+;;;;;;;;;4 runs, 4 hits, 0 errors, 2 LOB. Angels 4, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Behind 0-4, Angels' Shohei Ohtani facing 1-2-3 
+b1;0-4;0;---;4,(3-0) BBBB;;BOS;Raimel Tapia;Shohei Ohtani;-3%;76%;Walk
+b1;0-4;0;1--;2,(0-1) FB;;BOS;Rafael Devers;Shohei Ohtani;-2%;75%;Wild Pitch; Tapia to 2B
+b1;0-4;0;-2-;4,(1-2) FB.FB;;BOS;Rafael Devers;Shohei Ohtani;-2%;73%;Wild Pitch; Tapia to 3B
+b1;0-4;0;--3;7,(3-2) FB.FB.FBX;O;BOS;Rafael Devers;Shohei Ohtani;4%;76%;Foul Popfly: 3B (3B into Foul Terr.)
+b1;0-4;1;--3;4,(1-2) CSBX;RO;BOS;Rob Refsnyder;Shohei Ohtani;0%;76%;Groundout: SS-1B (Deep SS); Tapia Scores
+b1;1-4;2;---;4,(1-2) CFBS;O;BOS;Masataka Yoshida;Shohei Ohtani;1%;77%;Strikeout Swinging
+;;;;;;;;;1 run, 0 hits, 0 errors, 0 LOB. Angels 4, Red Sox 1.
+Top of the 2nd, Angels Batting, Ahead 4-1, Red Sox' Brayan Bello facing 1-2-3 
+t2;4-1;0;---;1,(0-0) X;;LAA;Zach Neto;Brayan Bello;2%;79%;Single to LF (Line Drive)
+t2;4-1;0;1--;3,(2-0) BBX;;LAA;Shohei Ohtani;Brayan Bello;5%;84%;Single to RF (Ground Ball thru 2B-1B); Neto to 3B
+t2;4-1;0;1-3;5,(2-2) SBSBS;O;LAA;Taylor Ward;Brayan Bello;-3%;81%;Strikeout Swinging
+t2;4-1;1;1-3;1,(0-0) X;RO;LAA;Hunter Renfroe;Brayan Bello;2%;82%;Groundout: SS-1B (Weak SS-2B); Neto Scores; Ohtani to 2B
+t2;5-1;2;-2-;3,(0-2) FFX;O;LAA;Gio Urshela;Brayan Bello;-2%;81%;Lineout: LF
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Angels 5, Red Sox 1.
+Bottom of the 2nd, Red Sox Batting, Behind 1-5, Angels' Shohei Ohtani facing 5-6-7 
+b2;1-5;0;---;3,(1-1) BSX;O;BOS;Triston Casas;Shohei Ohtani;2%;83%;Flyball: CF
+b2;1-5;1;---;3,(0-2) CSC;O;BOS;Enrique Hernández;Shohei Ohtani;1%;84%;Strikeout Looking
+b2;1-5;2;---;6,(1-2) BSSFF*S;O;BOS;Reese McGuire;Shohei Ohtani;1%;85%;Strikeout Swinging; McGuire out at 1B/C-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 5, Red Sox 1.
+Top of the 3rd, Angels Batting, Ahead 5-1, Red Sox' Brayan Bello facing 6-7-8 
+t3;5-1;0;---;5,(1-2) CF.BFX;;LAA;Jake Lamb;Brayan Bello;2%;87%;Single to CF (Ground Ball thru SS-2B)
+t3;5-1;0;1--;4,(1-2) CFBX;;LAA;Brandon Drury;Brayan Bello;2%;89%;Single to CF (Ground Ball thru SS-2B); Lamb to 2B
+t3;5-1;0;12-;3,(0-2) CSS;O;LAA;Logan O'Hoppe;Brayan Bello;-2%;87%;Strikeout Swinging
+t3;5-1;1;12-;6,(3-2) BBBC2CS;O;LAA;Brett Phillips;Brayan Bello;-2%;85%;Strikeout Swinging
+;;;;;;;;;Kutter Crawford replaces Brayan Bello pitching
+t3;5-1;2;12-;5,(2-2) LBBF.X;O;LAA;Zach Neto;Kutter Crawford;-2%;83%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Angels 5, Red Sox 1.
+Bottom of the 3rd, Red Sox Batting, Behind 1-5, Angels' Tucker Davidson facing 8-9-1 
+;;;;;;;;;Tucker Davidson replaces Shohei Ohtani pitching
+b3;1-5;0;---;2,(1-0) ..BX;O;BOS;Christian Arroyo;Tucker Davidson;2%;85%;Groundout: SS-1B
+b3;1-5;1;---;3,(0-2) LFC;O;BOS;Jarren Duran;Tucker Davidson;1%;86%;Strikeout Looking
+b3;1-5;2;---;4,(1-2) BCFS;O;BOS;Raimel Tapia;Tucker Davidson;1%;87%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 5, Red Sox 1.
+Top of the 4th, Angels Batting, Ahead 5-1, Red Sox' Kutter Crawford facing 2-3-4 
+t4;5-1;0;---;3,(1-1) BCX;O;LAA;Shohei Ohtani;Kutter Crawford;-1%;86%;Flyball: CF (CF-RF)
+t4;5-1;1;---;1,(0-0) X;O;LAA;Taylor Ward;Kutter Crawford;-1%;85%;Groundout: SS-1B (SS-2B)
+t4;5-1;2;---;3,(0-2) CC.S;O;LAA;Hunter Renfroe;Kutter Crawford;-1%;85%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 5, Red Sox 1.
+Bottom of the 4th, Red Sox Batting, Behind 1-5, Angels' Tucker Davidson facing 2-3-4 
+b4;1-5;0;---;3,(2-0) BBX;;BOS;Rafael Devers;Tucker Davidson;-5%;79%;Double to CF (Fly Ball to Deep LF-CF)
+b4;1-5;0;-2-;5,(1-2) BCSFX;O;BOS;Rob Refsnyder;Tucker Davidson;4%;83%;Groundout: 2B-1B (SS-2B)
+b4;1-5;1;-2-;6,(3-2) BBBCFB;;BOS;Masataka Yoshida;Tucker Davidson;-2%;81%;Walk
+b4;1-5;1;12-;6,(3-2) BFC*BBB;;BOS;Triston Casas;Tucker Davidson;-6%;75%;Walk; Devers to 3B; Yoshida to 2B
+b4;1-5;1;123;2,(0-1) FX;O;BOS;Enrique Hernández;Tucker Davidson;7%;82%;Lineout: 1B
+b4;1-5;2;123;4,(1-2) FBSX;O;BOS;Reese McGuire;Tucker Davidson;7%;89%;Flyball: CF (Short CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Angels 5, Red Sox 1.
+Top of the 5th, Angels Batting, Ahead 5-1, Red Sox' Kutter Crawford facing 5-6-7 
+t5;5-1;0;---;3,(0-2) FFX;O;LAA;Gio Urshela;Kutter Crawford;-1%;88%;Groundout: 2B-1B
+t5;5-1;1;---;3,(1-1) BFX;;LAA;Jake Lamb;Kutter Crawford;1%;89%;Single to LF (Line Drive)
+t5;5-1;1;1--;2,(1-0) BX;O;LAA;Brandon Drury;Kutter Crawford;-1%;88%;Flyball: RF (RF Line)
+t5;5-1;2;1--;10,(3-2) BCF*BFB>F>F>F>X;O;LAA;Logan O'Hoppe;Kutter Crawford;-1%;87%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 5, Red Sox 1.
+Bottom of the 5th, Red Sox Batting, Behind 1-5, Angels' Tucker Davidson facing 8-9-1 
+b5;1-5;0;---;1,(0-0) X;O;BOS;Christian Arroyo;Tucker Davidson;2%;89%;Groundout: 1B-P (2B-1B)
+b5;1-5;1;---;3,(1-1) BCX;;BOS;Jarren Duran;Tucker Davidson;-3%;86%;Double to LF (Fly Ball to LF-CF)
+b5;1-5;1;-2-;5,(2-2) BB2SFS;O;BOS;Raimel Tapia;Tucker Davidson;3%;89%;Strikeout Swinging
+b5;1-5;2;-2-;2,(0-1) CX;O;BOS;Rafael Devers;Tucker Davidson;2%;91%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 5, Red Sox 1.
+Top of the 6th, Angels Batting, Ahead 5-1, Red Sox' Kutter Crawford facing 9-1-2 
+t6;5-1;0;---;4,(1-2) SCBS;O;LAA;Brett Phillips;Kutter Crawford;-1%;90%;Strikeout Swinging
+t6;5-1;1;---;4,(1-2) CFBX;;LAA;Zach Neto;Kutter Crawford;1%;91%;Reached on E6 (throw) (Ground Ball); Neto to 1B
+t6;5-1;1;1--;1,(1-0) B1;;LAA;Shohei Ohtani;Kutter Crawford;1%;92%;Neto Picked off 1B, safe on E1 (throw); Neto to 2B
+t6;5-1;1;-2-;2,(1-0) B1.X;;LAA;Shohei Ohtani;Kutter Crawford;2%;93%;Reached on E1 (throw) (Ground Ball to Short 1B Line); Neto to 3B; Ohtani to 1B
+t6;5-1;1;1-3;2,(0-1) T>S;O;LAA;Taylor Ward;Kutter Crawford;-3%;91%;Ohtani Caught Stealing 2B (C-2B)
+t6;5-1;2;--3;3,(0-2) T>S.X;O;LAA;Taylor Ward;Kutter Crawford;-1%;89%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 3 errors, 1 LOB. Angels 5, Red Sox 1.
+Bottom of the 6th, Red Sox Batting, Behind 1-5, Angels' Tucker Davidson facing 3-4-5 
+b6;1-5;0;---;3,(0-2) FSX;;BOS;Rob Refsnyder;Tucker Davidson;-4%;86%;Single to LF (Ground Ball thru SS-3B Hole)
+b6;1-5;0;1--;5,(2-2) BBSFX;O;BOS;Masataka Yoshida;Tucker Davidson;3%;89%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;Aaron Loup replaces Tucker Davidson pitching
+b6;1-5;1;1--;1,(0-0) .X;;BOS;Triston Casas;Aaron Loup;-7%;82%;Double to RF (Line Drive to Deep 1B); Refsnyder to 3B
+b6;1-5;1;-23;1,(0-0) X;RO;BOS;Enrique Hernández;Aaron Loup;3%;85%;Flyball: CF/Sacrifice Fly (Deep CF-RF); Refsnyder Scores; Casas to 3B
+b6;2-5;2;--3;3,(1-1) BFX;R;BOS;Reese McGuire;Aaron Loup;-8%;77%;Single to P (Ground Ball to Weak 1B); Casas Scores
+b6;3-5;2;1--;4,(1-2) BSSX;O;BOS;Christian Arroyo;Aaron Loup;4%;81%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Angels 5, Red Sox 3.
+Top of the 7th, Angels Batting, Ahead 5-3, Red Sox' Kutter Crawford facing 4-5-6 
+t7;5-3;0;---;10,(3-2) FSFBFFFBBC;O;LAA;Hunter Renfroe;Kutter Crawford;-2%;79%;Strikeout Looking
+t7;5-3;1;---;1,(0-0) X;O;LAA;Gio Urshela;Kutter Crawford;-1%;78%;Groundout: 2B-1B
+t7;5-3;2;---;2,(0-1) CX;O;LAA;Jake Lamb;Kutter Crawford;-1%;77%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 5, Red Sox 3.
+Bottom of the 7th, Red Sox Batting, Behind 3-5, Angels' Matt Moore facing 9-1-2 
+;;;;;;;;;Matt Moore replaces Aaron Loup pitchingBrandon Drury moves from 2B to 1B Luis Rengifo replaces Jake Lamb (1B) playing 2B batting 6th
+b7;3-5;0;---;5,(3-1) ...BCBBB;;BOS;Jarren Duran;Matt Moore;-7%;70%;Walk
+b7;3-5;0;1--;6,(0-2) *SF1>F>FF>B;;BOS;Raimel Tapia;Matt Moore;-3%;67%;Duran Steals 2B
+b7;3-5;0;-2-;7,(1-2) *SF1>F>FF>B.*S;O;BOS;Raimel Tapia;Matt Moore;7%;74%;Strikeout Swinging
+b7;3-5;1;-2-;8,(2-2) CFF*BFF*BX;O;BOS;Rafael Devers;Matt Moore;6%;80%;Lineout: CF (Deep CF); Duran to 3B
+b7;3-5;2;--3;6,(2-2) *BFF*BFX;O;BOS;Rob Refsnyder;Matt Moore;6%;85%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 5, Red Sox 3.
+Top of the 8th, Angels Batting, Ahead 5-3, Red Sox' Kutter Crawford facing 7-8-9 
+t8;5-3;0;---;3,(0-2) FFX;O;LAA;Brandon Drury;Kutter Crawford;-1%;84%;Flyball: RF (CF-RF)
+t8;5-3;1;---;4,(2-1) BCBX;O;LAA;Logan O'Hoppe;Kutter Crawford;-1%;83%;Foul Popfly: 1B (1B into Foul Terr.)
+t8;5-3;2;---;3,(0-2) CFS;O;LAA;Brett Phillips;Kutter Crawford;-1%;82%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 5, Red Sox 3.
+Bottom of the 8th, Red Sox Batting, Behind 3-5, Angels' José Quijada facing 4-5-6 
+;;;;;;;;;José Quijada replaces Matt Moore pitching
+b8;3-5;0;---;6,(1-2) .BSCFFX;O;BOS;Masataka Yoshida;José Quijada;5%;87%;Groundout: 2B-1B
+b8;3-5;1;---;8,(2-2) BCF.BFFFX;O;BOS;Triston Casas;José Quijada;3%;90%;Flyball: CF (Deep CF)
+b8;3-5;2;---;4,(2-1) FBBX;;BOS;Enrique Hernández;José Quijada;-3%;87%;Single to CF (Line Drive to Deep LF-CF)
+;;;;;;;;;Justin Turner pinch hits for Reese McGuire (C) batting 7th
+b8;3-5;2;1--;1,(0-0) .X;O;BOS;Justin Turner;José Quijada;5%;92%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 5, Red Sox 3.
+Top of the 9th, Angels Batting, Ahead 5-3, Red Sox' Kutter Crawford facing 1-2-3 
+;;;;;;;;;Connor Wong replaces Justin Turner (PH) playing C batting 7th
+t9;5-3;0;---;5,(3-1) .BBSBX;O;LAA;Zach Neto;Kutter Crawford;-1%;91%;Flyball: RF (Short RF Line)
+t9;5-3;1;---;2,(1-0) BX;O;LAA;Shohei Ohtani;Kutter Crawford;-1%;90%;Lineout: CF (Deep CF-RF)
+t9;5-3;2;---;3,(0-2) CFS;O;LAA;Taylor Ward;Kutter Crawford;-1%;90%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 5, Red Sox 3.
+Bottom of the 9th, Red Sox Batting, Behind 3-5, Angels' Carlos Estévez facing 8-9-1 
+;;;;;;;;;Carlos Estévez replaces José Quijada pitchingAlex Verdugo pinch hits for Christian Arroyo (2B) batting 8th
+b9;3-5;0;---;3,(1-1) ..BT.X;;BOS;Alex Verdugo;Carlos Estévez;-10%;80%;Single to CF (Line Drive to Deep CF)
+b9;3-5;0;1--;6,(2-2) CBC.FBT;O;BOS;Jarren Duran;Carlos Estévez;8%;88%;Strikeout Swinging
+b9;3-5;1;1--;5,(3-1) BBBCB;;BOS;Raimel Tapia;Carlos Estévez;-10%;79%;Walk; Verdugo to 2B
+b9;3-5;1;12-;2,(0-1) FX;R;BOS;Rafael Devers;Carlos Estévez;-14%;65%;Single to RF (Ground Ball thru 2B-1B); Verdugo Scores; Tapia to 2B
+b9;4-5;1;12-;6,(3-2) BBBCFS;O;BOS;Rob Refsnyder;Carlos Estévez;17%;82%;Strikeout Swinging
+b9;4-5;2;12-;4,(1-2) CBFX;O;BOS;Masataka Yoshida;Carlos Estévez;18%;100%;Popfly: 3B (Front of Home)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Angels 5, Red Sox 4.

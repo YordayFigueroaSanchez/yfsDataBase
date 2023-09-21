@@ -1,0 +1,248 @@
+
+Scorebox Meta
+20230410
+7:10 p.m. Local
+30244
+Citi Field
+158
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/SDP-2023.png;/teams/SDP/2023.shtml;0;0;0;0;0;0;0;0;0;0;2;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;2;0;0;0;3;0;X;5;7;1
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;4;2;1;0;0;0;4;.200;.405;.233;.638;12;9;-0.016; 0.63;0.025;-0.041;-0.01%; 0.64; -0.6;4;0;SB
+Francisco Lindor;/players/l/lindofr01.shtml;SS;3;1;1;2;0;2;4;.216;.362;.405;.767;20;10;0.030; 0.67;0.053;-0.023; 0.02%; 0.68; 1.7;0;2;2B,HBP
+Jeff McNeil;/players/m/mcneije01.shtml;RF;4;0;1;2;0;1;4;.250;.348;.350;.698;13;8;0.186; 0.71;0.211;-0.026; 0.11%; 0.72; 1.3;1;0;2B
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;0;0;0;0;1;4;.214;.298;.595;.893;15;8;-0.061; 0.58;0.000;-0.061;-0.04%; 0.59; -1.0;3;1;
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;3;0;1;0;1;0;4;.250;.429;.313;.741;17;8;0.042; 0.39;0.049;-0.007; 0.03%; 0.39; 0.4;;;
+Mark Canha;/players/c/canhama01.shtml;LF;4;1;1;0;0;1;4;.231;.348;.410;.758;17;12;-0.023; 0.65;0.029;-0.052;-0.01%; 0.66; -0.1;0;0;2B
+Luis Guillorme;/players/g/guilllu01.shtml;2B;3;1;1;0;0;1;3;.211;.250;.211;.461;8;7;-0.017; 0.71;0.026;-0.043;-0.01%; 0.72; 0.2;1;1;
+Eduardo Escobar;/players/e/escobed01.shtml;3B;2;0;0;1;0;0;3;.118;.139;.235;.374;12;9;-0.043; 0.69;0.000;-0.043;-0.03%; 0.70; -0.8;2;1;SF
+Tomás Nido;/players/n/nidoto01.shtml;C;3;0;1;0;0;0;3;.158;.150;.158;.308;11;7;-0.024; 0.52;0.008;-0.032;-0.01%; 0.53; -0.0;15;0;
+Max Scherzer;/players/s/scherma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+John Curtiss;/players/c/curtijo02.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Drew Smith;/players/s/smithdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+David Robertson;/players/r/roberda08.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Ottavino;/players/o/ottavad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jeff McNeil (4, off Yu Darvish); Mark Canha (4, off Yu Darvish); Francisco Lindor (4, off Tim Hill).
+
+
+SF: Eduardo Escobar (1, off Yu Darvish).
+
+
+HBP: Francisco Lindor (2, by Yu Darvish).
+
+
+TB: Francisco Lindor 2; Jeff McNeil 2; Mark Canha 2; Brandon Nimmo; Tomás Nido; Luis Guillorme; Daniel Vogelbach.
+
+
+RBI: Francisco Lindor 2 (7); Jeff McNeil 2 (5); Eduardo Escobar (4).
+
+
+2-out RBI: Francisco Lindor 2; Jeff McNeil 2.
+
+
+Team LOB: 4.
+With RISP: 3 for 6.
+
+Batting away
+Trent Grisham;/players/g/grishtr01.shtml;CF;3;0;0;0;1;2;4;.225;.326;.500;.826;22;14;-0.068; 0.98;0.035;-0.104;-0.04%; 1.02; -0.7;1;0;
+Manny Machado;/players/m/machama01.shtml;3B;4;0;0;0;0;1;4;.279;.304;.326;.630;18;10;-0.100; 0.99;0.000;-0.100;-0.06%; 1.03; -1.1;1;1;
+Juan Soto;/players/s/sotoju01.shtml;LF;2;0;0;0;2;1;4;.205;.367;.410;.778;26;12;0.025; 0.69;0.053;-0.028; 0.01%; 0.71; 0.2;3;0;
+Xander Bogaerts;/players/b/bogaexa01.shtml;SS;3;0;1;0;1;0;4;.325;.429;.625;1.054;14;9;-0.066; 0.72;0.038;-0.104;-0.04%; 0.75; 0.0;1;3;SB,GDP
+Matt Carpenter;/players/c/carpema01.shtml;DH;4;0;0;0;0;4;4;.182;.333;.364;.697;18;13;-0.103; 1.00;0.000;-0.103;-0.06%; 1.04; -1.2;;;
+Jake Cronenworth;/players/c/croneja01.shtml;1B;4;0;0;0;0;2;4;.189;.295;.351;.647;18;13;-0.085; 0.83;0.000;-0.085;-0.05%; 0.87; -1.2;6;0;
+Ha-Seong Kim;/players/k/kimha01.shtml;2B;3;0;1;0;1;2;4;.286;.359;.571;.930;17;10;0.060; 0.55;0.073;-0.013; 0.04%; 0.57; 0.1;5;3;
+Rougned Odor;/players/o/odorro01.shtml;RF;2;0;0;0;1;1;3;.143;.294;.286;.580;13;9;-0.012; 1.48;0.068;-0.080;-0.01%; 1.54; 0.0;2;0;
+Austin Nola;/players/n/nolaau01.shtml;C;3;0;0;0;0;1;3;.115;.207;.115;.322;20;13;-0.077; 1.17;0.000;-0.077;-0.05%; 1.22; -0.6;5;1;
+Yu Darvish;/players/d/darviyu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tim Hill;/players/h/hillti01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Domingo Tapia;/players/t/tapiado01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+TB: Xander Bogaerts; Ha-Seong Kim.
+
+
+GIDP: Xander Bogaerts (2).
+
+
+Team LOB: 7.
+With RISP: 0 for 8.
+
+Pitching home
+Max Scherzer;/players/s/scherma01.shtml; W (2-1); 5 ;1;0;0;3;6;0;4.41;18;97;61;34;12;15;2;7;2;0;68;;;0.271; 1.11; 0.17%; 1.12; 2.5
+John Curtiss;/players/c/curtijo02.shtml; H (2); 1 ;0;0;0;2;1;0;1.42;5;24;11;6;2;3;2;0;0;0;;0;0;0.066; 1.18; 0.04%; 1.20; 0.5
+Drew Smith;/players/s/smithdr01.shtml; H (3); 1 ;0;0;0;1;2;0;4.50;4;15;10;4;3;3;0;1;1;0;;0;0;0.071; 1.30; 0.04%; 1.32; 0.5
+David Robertson;/players/r/roberda08.shtml;David Robertson; 1 ;0;0;0;0;2;0;0.00;3;12;8;1;3;4;0;1;0;0;;0;0;0.012; 0.16; 0.01%; 0.16; 0.5
+Adam Ottavino;/players/o/ottavad01.shtml;Adam Ottavino; 1 ;1;0;0;0;3;0;2.25;4;18;13;4;3;6;0;1;1;0;;0;0;0.006; 0.21; 0.00%; 0.21; 0.5
+
+Pitching away
+Yu Darvish;/players/d/darviyu01.shtml; L (0-1); 6.1;6;5;5;1;5;0;4.76;27;104;67;39;7;21;9;11;4;0;45;;;-0.043; 0.71;-0.03%; 0.74; -0.4
+Tim Hill;/players/h/hillti01.shtml;Tim Hill; 0.2;1;0;0;0;0;0;4.15;3;9;5;5;0;0;1;2;2;0;;2;2;-0.032; 0.33;-0.02%; 0.34; -1.1
+Domingo Tapia;/players/t/tapiado01.shtml;Domingo Tapia; 1 ;0;0;0;0;1;0;4.26;3;12;6;3;2;1;0;2;1;0;;0;0;0.001; 0.02; 0.00%; 0.02; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Yu Darvish (3; Francisco Lindor).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Yu Darvish (3; Francisco Lindor).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: LF - (none), RF - (none).
+Time of Game: 2:38.
+Attendance: 30,244.
+Field Condition: Unknown.
+Start Time Weather: 55° F, Wind 9mph out to Leftfield, Sunny, No Precipitation.
+
+div_lineups
+Padres
+1;Trent Grisham;/players/g/grishtr01.shtml;CF
+2;Manny Machado;/players/m/machama01.shtml;3B
+3;Juan Soto;/players/s/sotoju01.shtml;LF
+4;Xander Bogaerts;/players/b/bogaexa01.shtml;SS
+5;Matt Carpenter;/players/c/carpema01.shtml;DH
+6;Jake Cronenworth;/players/c/croneja01.shtml;1B
+7;Ha-Seong Kim;/players/k/kimha01.shtml;2B
+8;Rougned Odor;/players/o/odorro01.shtml;RF
+9;Austin Nola;/players/n/nolaau01.shtml;C
+; Yu Darvish;/players/d/darviyu01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Jeff McNeil;/players/m/mcneije01.shtml;RF
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+6;Mark Canha;/players/c/canhama01.shtml;LF
+7;Luis Guillorme;/players/g/guilllu01.shtml;2B
+8;Eduardo Escobar;/players/e/escobed01.shtml;3B
+9;Tomás Nido;/players/n/nidoto01.shtml;C
+; Max Scherzer;/players/s/scherma01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;0-0;2;12-;1,(0-0) X;RR;NYM;Jeff McNeil;Yu Darvish;21%;76%;Double to RF (Line Drive to RF Line); Nimmo Scores; Lindor Scores; McNeil to 3B
+t1;0-0;1;12-;2,(0-1) CX;OO;SDP;Xander Bogaerts;Max Scherzer;9%;55%;Ground Ball Double Play: SS-2B-1B
+t3;0-0;1;--3;5,(1-2) SB*SFC;O;SDP;Trent Grisham;Max Scherzer;7%;51%;Strikeout Looking
+t6;0-2;2;12-;3,(0-2) CFT;O;SDP;Matt Carpenter;John Curtiss;6%;85%;Strikeout Swinging
+t7;0-2;1;1--;3,(0-2) C1SS;O;SDP;Rougned Odor;Drew Smith;4%;86%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Padres Batting, Tied 0-0, Mets' Max Scherzer facing 1-2-3 
+t1;0-0;0;---;7,(3-2) BCBBC.FB;;SDP;Trent Grisham;Max Scherzer;-4%;46%;Walk
+t1;0-0;0;1--;5,(2-2) SBS.*B+1S;O;SDP;Manny Machado;Max Scherzer;3%;50%;Strikeout Swinging
+t1;0-0;1;1--;9,(3-2) BBCFF*B>F1>FB;;SDP;Juan Soto;Max Scherzer;-4%;46%;Walk; Grisham to 2B
+t1;0-0;1;12-;2,(0-1) CX;OO;SDP;Xander Bogaerts;Max Scherzer;9%;55%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Padres' Yu Darvish facing 1-2-3 
+b1;0-0;0;---;5,(2-2) BCCBX;O;NYM;Brandon Nimmo;Yu Darvish;-2%;53%;Popfly: 3B
+b1;0-0;1;---;7,(3-2) FTBFBBS;O;NYM;Francisco Lindor;Yu Darvish;-2%;51%;Strikeout Swinging
+b1;0-0;2;---;2,(1-0) BX;O;NYM;Jeff McNeil;Yu Darvish;-1%;50%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Mets 0.
+Top of the 2nd, Padres Batting, Tied 0-0, Mets' Max Scherzer facing 5-6-7 
+t2;0-0;0;---;5,(2-2) BCFBS;O;SDP;Matt Carpenter;Max Scherzer;2%;52%;Strikeout Swinging
+t2;0-0;1;---;7,(3-2) BCBFFBX;O;SDP;Jake Cronenworth;Max Scherzer;2%;54%;Lineout: RF
+t2;0-0;2;---;5,(1-2) BFCFC;O;SDP;Ha-Seong Kim;Max Scherzer;1%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Padres' Yu Darvish facing 4-5-6 
+b2;0-0;0;---;4,(1-2) BCF.C;O;NYM;Pete Alonso;Yu Darvish;-2%;53%;Strikeout Looking
+b2;0-0;1;---;3,(1-1) CBX;;NYM;Daniel Vogelbach;Yu Darvish;3%;55%;Single to CF (Fly Ball to Short CF)
+b2;0-0;1;1--;3,(0-2) CFX;O;NYM;Mark Canha;Yu Darvish;-3%;52%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Canha to 1B
+b2;0-0;2;1--;2,(0-1) CX;O;NYM;Luis Guillorme;Yu Darvish;-2%;50%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 0, Mets 0.
+Top of the 3rd, Padres Batting, Tied 0-0, Mets' Max Scherzer facing 8-9-1 
+t3;0-0;0;---;7,(3-2) BBBCS.FB;;SDP;Rougned Odor;Max Scherzer;-4%;46%;Walk
+t3;0-0;0;1--;2,(1-1) LB+1;;SDP;Austin Nola;Max Scherzer;-3%;43%;Baserunner Advance; Odor to 2B/Adv on E2 (throw)
+t3;0-0;0;-2-;6,(3-2) LB+1.C.BBX;O;SDP;Austin Nola;Max Scherzer;2%;45%;Groundout: SS-1B; Odor to 3B
+t3;0-0;1;--3;5,(1-2) SB*SFC;O;SDP;Trent Grisham;Max Scherzer;7%;51%;Strikeout Looking
+t3;0-0;2;--3;6,(3-2) SSBBBX;O;SDP;Manny Machado;Max Scherzer;4%;56%;Popfly: 3B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Padres 0, Mets 0.
+Bottom of the 3rd, Mets Batting, Tied 0-0, Padres' Yu Darvish facing 8-9-1 
+b3;0-0;0;---;3,(0-2) FFX;O;NYM;Eduardo Escobar;Yu Darvish;-3%;53%;Groundout: SS-1B
+b3;0-0;1;---;3,(1-1) BSX;O;NYM;Tomás Nido;Yu Darvish;-2%;51%;Flyball: 2B (Deep 2B)
+b3;0-0;2;---;4,(1-2) CBFX;;NYM;Brandon Nimmo;Yu Darvish;1%;53%;Single to CF (Ground Ball thru SS-2B)
+b3;0-0;2;1--;1,(0-0) >B;;NYM;Francisco Lindor;Yu Darvish;1%;54%;Nimmo Steals 2B
+b3;0-0;2;-2-;2,(1-0) >B.H;;NYM;Francisco Lindor;Yu Darvish;1%;55%;Hit By Pitch
+b3;0-0;2;12-;1,(0-0) X;RR;NYM;Jeff McNeil;Yu Darvish;21%;76%;Double to RF (Line Drive to RF Line); Nimmo Scores; Lindor Scores; McNeil to 3B
+b3;2-0;2;--3;4,(1-2) CT*BX;O;NYM;Pete Alonso;Yu Darvish;-3%;73%;Flyball: CF (Short CF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Padres 0, Mets 2.
+Top of the 4th, Padres Batting, Behind 0-2, Mets' Max Scherzer facing 3-4-5 
+t4;0-2;0;---;6,(3-2) CBBB.CX;O;SDP;Juan Soto;Max Scherzer;3%;76%;Foul Popfly: 3B (3B into Foul Terr.)
+t4;0-2;1;---;5,(1-2) CBFFX;O;SDP;Xander Bogaerts;Max Scherzer;2%;78%;Flyball: CF (Deep CF-RF)
+t4;0-2;2;---;4,(1-2) FBFS;O;SDP;Matt Carpenter;Max Scherzer;1%;79%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Mets 2.
+Bottom of the 4th, Mets Batting, Ahead 2-0, Padres' Yu Darvish facing 5-6-7 
+b4;2-0;0;---;5,(3-1) BBBCB;;NYM;Daniel Vogelbach;Yu Darvish;2%;81%;Walk
+b4;2-0;0;1--;4,(2-1) BCBX;O;NYM;Mark Canha;Yu Darvish;-2%;79%;Lineout: SS
+b4;2-0;1;1--;5,(1-2) CCBF*S;O;NYM;Luis Guillorme;Yu Darvish;-2%;77%;Strikeout Swinging
+b4;2-0;2;1--;6,(2-2) BBCC.FX;O;NYM;Eduardo Escobar;Yu Darvish;-2%;75%;Flyball: 2B (Deep 2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 0, Mets 2.
+Top of the 5th, Padres Batting, Behind 0-2, Mets' Max Scherzer facing 6-7-8 
+t5;0-2;0;---;2,(0-1) CX;O;SDP;Jake Cronenworth;Max Scherzer;3%;78%;Flyball: CF (Deep CF)
+t5;0-2;1;---;2,(1-0) BX;;SDP;Ha-Seong Kim;Max Scherzer;-3%;75%;Single to CF (Line Drive to Deep LF-CF)
+t5;0-2;1;1--;3,(0-2) SF.X;O;SDP;Rougned Odor;Max Scherzer;4%;79%;Foul Popfly: C (3B-C into Foul Terr.)
+t5;0-2;2;1--;11,(3-2) 1FFBBB1>F>F.>F>F>F>S;O;SDP;Austin Nola;Max Scherzer;3%;81%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 0, Mets 2.
+Bottom of the 5th, Mets Batting, Ahead 2-0, Padres' Yu Darvish facing 9-1-2 
+b5;2-0;0;---;6,(3-2) BSBBFX;O;NYM;Tomás Nido;Yu Darvish;-1%;80%;Flyball: RF (Deep RF)
+b5;2-0;1;---;2,(0-1) FX;O;NYM;Brandon Nimmo;Yu Darvish;-1%;79%;Groundout: 2B-1B
+b5;2-0;2;---;8,(3-2) CTBBFFBT;O;NYM;Francisco Lindor;Yu Darvish;-1%;78%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Mets 2.
+Top of the 6th, Padres Batting, Behind 0-2, Mets' John Curtiss facing 1-2-3 
+;;;;;;;;;John Curtiss replaces Max Scherzer pitching
+t6;0-2;0;---;7,(3-2) .SBBFFBX;O;SDP;Trent Grisham;John Curtiss;3%;81%;Groundout: 1B-P
+t6;0-2;1;---;4,(2-1) BSBX;O;SDP;Manny Machado;John Curtiss;2%;83%;Groundout: 3B-1B
+t6;0-2;2;---;5,(3-1) .BBBCB;;SDP;Juan Soto;John Curtiss;-2%;82%;Walk
+t6;0-2;2;1--;5,(3-1) BBBCB;;SDP;Xander Bogaerts;John Curtiss;-3%;79%;Walk; Soto to 2B
+t6;0-2;2;12-;3,(0-2) CFT;O;SDP;Matt Carpenter;John Curtiss;6%;85%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Padres 0, Mets 2.
+Bottom of the 6th, Mets Batting, Ahead 2-0, Padres' Yu Darvish facing 3-4-5 
+b6;2-0;0;---;5,(2-2) BCS.B*S;O;NYM;Jeff McNeil;Yu Darvish;-1%;83%;Strikeout Swinging; McNeil out at 1B/C-1B
+b6;2-0;1;---;4,(3-0) BBBX;O;NYM;Pete Alonso;Yu Darvish;-1%;82%;Groundout: SS-1B
+b6;2-0;2;---;4,(1-2) BCF.X;O;NYM;Daniel Vogelbach;Yu Darvish;-1%;82%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Mets 2.
+Top of the 7th, Padres Batting, Behind 0-2, Mets' Drew Smith facing 6-7-8 
+;;;;;;;;;Drew Smith replaces John Curtiss pitching
+t7;0-2;0;---;3,(0-2) .CF.S;O;SDP;Jake Cronenworth;Drew Smith;3%;85%;Strikeout Swinging
+t7;0-2;1;---;6,(3-2) CBFBBB;;SDP;Ha-Seong Kim;Drew Smith;-4%;81%;Walk
+t7;0-2;1;1--;3,(0-2) C1SS;O;SDP;Rougned Odor;Drew Smith;4%;86%;Strikeout Swinging
+t7;0-2;2;1--;3,(1-1) TBX;O;SDP;Austin Nola;Drew Smith;3%;89%;Lineout: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 0, Mets 2.
+Bottom of the 7th, Mets Batting, Ahead 2-0, Padres' Yu Darvish facing 6-7-8 
+b7;2-0;0;---;6,(2-2) BCC.FBX;;NYM;Mark Canha;Yu Darvish;3%;92%;Double to LF (Line Drive to Deep LF Line)
+b7;2-0;0;-2-;1,(0-0) X;;NYM;Luis Guillorme;Yu Darvish;3%;94%;Single to 3B (Bunt to Weak 3B); Canha to 3B
+b7;2-0;0;1-3;3,(1-1) BSX;RO;NYM;Eduardo Escobar;Yu Darvish;0%;94%;Lineout: LF/Sacrifice Fly; Canha Scores
+b7;3-0;1;1--;2,(0-1) CX;;NYM;Tomás Nido;Yu Darvish;1%;95%;Single to 3B (Ground Ball to Weak 3B); Guillorme to 2B
+;;;;;;;;;Tim Hill replaces Yu Darvish pitching
+b7;3-0;1;12-;1,(0-0) .X;O;NYM;Brandon Nimmo;Tim Hill;-1%;94%;Groundout: SS-2B/Forceout at 2B; Guillorme to 3B; Nimmo to 1B
+b7;3-0;2;1-3;3,(2-0) BBX;RR;NYM;Francisco Lindor;Tim Hill;4%;99%;Double to LF (Line Drive to Deep LF Line); Guillorme Scores; Nimmo Scores
+b7;5-0;2;-2-;5,(2-2) FFBBX;O;NYM;Jeff McNeil;Tim Hill;0%;98%;Lineout: 2B
+;;;;;;;;;3 runs, 4 hits, 0 errors, 1 LOB. Padres 0, Mets 5.
+Top of the 8th, Padres Batting, Behind 0-5, Mets' David Robertson facing 1-2-3 
+;;;;;;;;;David Robertson replaces Drew Smith pitching
+t8;0-5;0;---;3,(0-2) .CCS;O;SDP;Trent Grisham;David Robertson;1%;99%;Strikeout Swinging
+t8;0-5;1;---;3,(1-1) CBX;O;SDP;Manny Machado;David Robertson;0%;99%;Flyball: CF (Short CF-RF)
+t8;0-5;2;---;6,(3-2) .BCBSBS;O;SDP;Juan Soto;David Robertson;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Mets 5.
+Bottom of the 8th, Mets Batting, Ahead 5-0, Padres' Domingo Tapia facing 4-5-6 
+;;;;;;;;;Domingo Tapia replaces Tim Hill pitching
+b8;5-0;0;---;3,(2-0) .BBX;O;NYM;Pete Alonso;Domingo Tapia;0%;99%;Lineout: RF (CF-RF)
+b8;5-0;1;---;5,(3-1) BBCBX;O;NYM;Daniel Vogelbach;Domingo Tapia;0%;99%;Flyball: LF (Deep LF-CF)
+b8;5-0;2;---;4,(1-2) SSBT;O;NYM;Mark Canha;Domingo Tapia;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Mets 5.
+Top of the 9th, Padres Batting, Behind 0-5, Mets' Adam Ottavino facing 4-5-6 
+;;;;;;;;;Adam Ottavino replaces David Robertson pitching
+t9;0-5;0;---;2,(0-1) .CX;;SDP;Xander Bogaerts;Adam Ottavino;-1%;99%;Single to LF (Line Drive)
+t9;0-5;0;1--;2,(1-0) B>B;;SDP;Matt Carpenter;Adam Ottavino;0%;98%;Bogaerts Steals 2B
+t9;0-5;0;-2-;6,(2-2) B>B.CSFS;O;SDP;Matt Carpenter;Adam Ottavino;1%;99%;Strikeout Swinging
+t9;0-5;1;-2-;1,(0-0) >C;;SDP;Jake Cronenworth;Adam Ottavino;0%;99%;Defensive Indifference; Bogaerts to 3B
+t9;0-5;1;--3;6,(2-2) >C.B*SF*BT;O;SDP;Jake Cronenworth;Adam Ottavino;1%;100%;Strikeout Swinging
+t9;0-5;2;--3;4,(1-2) CBCC;O;SDP;Ha-Seong Kim;Adam Ottavino;0%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 0, Mets 5.

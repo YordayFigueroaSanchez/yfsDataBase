@@ -1,0 +1,276 @@
+
+Scorebox Meta
+20230429
+6:10 p.m. Local
+34399
+Coors Field
+170
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/ARI-2023.png;/teams/ARI/2023.shtml;1;6;0;1;0;1;0;1;1;11;16;0
+https://cdn.ssref.net/req/202308101/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;1;0;0;0;3;0;0;0;4;8;1
+
+Batting home
+Charlie Blackmon;/players/b/blackch02.shtml;DH;4;0;0;0;0;0;4;.263;.375;.389;.764;19;12;-0.069; 0.53;0.000;-0.069;-0.02%; 0.23; -1.8;;;
+Kris Bryant;/players/b/bryankr01.shtml;RF;4;0;0;0;0;1;4;.297;.360;.426;.786;16;8;-0.035; 0.34;0.000;-0.035;-0.01%; 0.14; -0.8;2;0;
+Elias Díaz;/players/d/diazel01.shtml;C;3;1;1;0;1;1;4;.316;.379;.456;.835;15;9;-0.003; 0.23;0.014;-0.017;-0.00%; 0.10; 0.4;10;1;
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;4;2;2;1;0;2;4;.242;.318;.453;.770;12;9;0.017; 0.34;0.036;-0.019; 0.00%; 0.15; 1.1;1;1;2·2B
+C.J. Cron;/players/c/croncj01.shtml;1B;4;1;1;1;0;0;4;.223;.255;.426;.681;9;7;-0.011; 0.34;0.020;-0.031;-0.00%; 0.14; -0.0;6;0;2B
+Randal Grichuk;/players/g/grichra01.shtml;LF;4;0;2;0;0;1;4;.500;.500;.500;1.000;16;12;0.007; 0.30;0.025;-0.018; 0.00%; 0.13; -0.0;1;0;
+Brenton Doyle;/players/d/doylebr02.shtml;CF;3;0;0;1;1;0;4;.176;.263;.235;.498;15;7;-0.014; 0.39;0.009;-0.023;-0.00%; 0.16; -0.3;4;0;SB
+Alan Trejo;/players/t/trejoal01.shtml;2B;3;0;1;1;0;1;3;.214;.241;.268;.509;10;7;0.010; 0.49;0.034;-0.024; 0.00%; 0.21; 0.4;3;2;
+Yonathan Daza;/players/d/dazayo01.shtml;PH;1;0;0;0;0;0;1;.270;.304;.351;.655;2;2;-0.001; 0.02;0.000;-0.001;0%; 0.01; -0.2;;;
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;4;0;1;0;0;1;4;.200;.253;.282;.535;14;9;-0.026; 0.39;0.015;-0.041;-0.01%; 0.17; -0.3;0;3;3B
+Noah Davis;/players/d/davisno01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Connor Seabold;/players/s/seaboco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jake Bird;/players/b/birdja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Pierce Johnson;/players/j/johnspi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ryan McMahon 2 (8, 2 off Tommy Henry); C.J. Cron (4, off Tommy Henry).
+
+
+3B: Ezequiel Tovar (1, off Tommy Henry).
+
+
+TB: Ryan McMahon 4; Ezequiel Tovar 3; C.J. Cron 2; Randal Grichuk 2; Alan Trejo; Elias Díaz.
+
+
+RBI: C.J. Cron (12); Alan Trejo (5); Brenton Doyle (2); Ryan McMahon (13).
+
+
+2-out RBI: Alan Trejo.
+
+
+Team LOB: 5.
+With RISP: 3 for 9.
+
+Batting away
+Josh Rojas;/players/r/rojasjo01.shtml;2B;5;2;2;2;0;0;5;.287;.326;.379;.706;15;9;0.135; 0.58;0.141;-0.006; 0.09%; 0.65; 1.3;2;0;2B
+Geraldo Perdomo;/players/p/perdoge01.shtml;SS;5;2;3;4;0;0;5;.390;.463;.627;1.090;15;8;0.065; 0.45;0.109;-0.044; 0.04%; 0.50; 2.3;4;3;HR
+Corbin Carroll;/players/c/carroco02.shtml;LF;4;0;1;1;0;3;4;.309;.374;.536;.910;21;14;0.040; 0.53;0.074;-0.035; 0.03%; 0.59; -0.3;0;0;CS
+Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF;1;0;0;0;0;0;1;.274;.307;.389;.696;2;1;-0.002; 0.09;0.000;-0.002;-0.00%; 0.10; -0.4;2;0;
+Christian Walker;/players/w/walkech02.shtml;1B;5;1;3;2;0;1;5;.255;.290;.439;.728;19;15;0.001; 0.26;0.029;-0.028; 0.00%; 0.29; 1.5;3;0;HR
+Evan Longoria;/players/l/longoev01.shtml;DH;5;0;0;0;0;2;5;.208;.246;.358;.604;20;14;-0.038; 0.28;0.000;-0.038;-0.03%; 0.31; -1.5;;;
+Pavin Smith;/players/s/smithpa04.shtml;RF;4;1;0;0;1;1;5;.308;.438;.538;.976;20;12;0.011; 0.21;0.023;-0.012; 0.01%; 0.24; -0.7;4;0;
+Emmanuel Rivera;/players/r/riverem01.shtml;3B;5;1;3;0;0;0;5;.583;.583;.667;1.250;23;15;0.038; 0.30;0.043;-0.004; 0.03%; 0.34; 0.8;2;1;2B
+Alek Thomas;/players/t/thomaal01.shtml;CF;5;2;2;0;0;2;5;.190;.270;.342;.611;23;14;0.047; 0.44;0.058;-0.011; 0.03%; 0.50; 0.4;2;1;2B
+Jose Herrera;/players/h/herrejo04.shtml;C;3;2;2;2;1;1;4;.259;.355;.333;.688;22;11;0.079; 0.66;0.088;-0.009; 0.05%; 0.73; 2.3;8;0;2·2B
+Tommy Henry;/players/h/henryto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+José Ruiz;/players/r/ruizjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kevin Ginkel;/players/g/ginkeke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Scott McGough;/players/m/mcgousc01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Anthony Misiewicz;/players/m/misiean01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Josh Rojas (8, off Noah Davis); Jose Herrera 2 (2, 1 off Jake Bird, 1 off Connor Seabold); Alek Thomas (4, off Jake Bird); Emmanuel Rivera (1, off Pierce Johnson).
+
+
+HR: Geraldo Perdomo (2, off Noah Davis, 2nd inn, 2 on, 1 out to Deep RF); Christian Walker (4, off Pierce Johnson, 9th inn, 0 on, 0 outs to Deep LF).
+
+
+TB: Christian Walker 6; Geraldo Perdomo 6; Emmanuel Rivera 4; Jose Herrera 4; Alek Thomas 3; Josh Rojas 3; Corbin Carroll.
+
+
+RBI: Geraldo Perdomo 4 (16); Jose Herrera 2 (4); Christian Walker 2 (19); Josh Rojas 2 (16); Corbin Carroll (9).
+
+
+2-out RBI: Christian Walker.
+
+
+Team LOB: 6.
+With RISP: 7 for 17.
+
+Pitching home
+Noah Davis;/players/d/davisno01.shtml; L (0-1); 2 ;7;7;7;2;2;1;6.17;14;54;32;18;6;8;5;5;3;0;14;;;-0.375; 0.93;-0.10%; 0.40; -5.8
+Connor Seabold;/players/s/seaboco01.shtml;Connor Seabold; 3.1;5;2;2;0;3;0;5.27;15;67;41;23;7;11;5;7;2;0;;0;0;-0.003; 0.17;-0.00%; 0.07; -0.2
+Jake Bird;/players/b/birdja01.shtml;Jake Bird; 2.2;2;1;1;0;2;0;3.66;10;35;25;16;4;5;4;4;2;0;;1;0;0.004; 0.09; 0.00%; 0.04; 0.8
+Pierce Johnson;/players/j/johnspi01.shtml;Pierce Johnson; 1 ;2;1;1;0;3;1;4.35;5;24;15;4;3;8;0;2;1;0;;0;0;-0.002; 0.01; 0.00%; 0.00; -0.4
+
+Pitching away
+Tommy Henry;/players/h/henryto01.shtml; W (1-0); 5.1;7;4;4;1;3;0;6.52;23;75;49;37;6;6;7;12;4;0;40;;;0.079; 0.39; 0.05%; 0.43; -0.2
+José Ruiz;/players/r/ruizjo01.shtml;José Ruiz; 0.2;1;0;0;0;1;0;9.26;3;13;9;5;2;2;1;1;1;0;;1;1;0.006; 0.57; 0.00%; 0.64; -0.2
+Kevin Ginkel;/players/g/ginkeke01.shtml;Kevin Ginkel; 1 ;0;0;0;0;1;0;3.65;3;16;10;7;2;1;0;2;0;0;;0;0;0.027; 0.34; 0.02%; 0.38; 0.6
+Scott McGough;/players/m/mcgousc01.shtml;Scott McGough; 1 ;0;0;0;1;2;0;3.95;4;17;9;2;3;4;0;1;0;0;;0;0;0.011; 0.26; 0.01%; 0.29; 0.6
+Anthony Misiewicz;/players/m/misiean01.shtml;Anthony Misiewicz; 1 ;0;0;0;0;0;0;3.86;3;7;5;4;1;0;0;3;2;0;;0;0;0.002; 0.02; 0.00%; 0.03; 0.6
+
+indiv_events
+
+Balks: None.
+WP: Noah Davis (2); Connor Seabold (2).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Noah Davis (2); Connor Seabold (2).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Emil Jimenez, 1B - Paul Emmel, 2B - Chad Fairchild, 3B - Nic Lentz, LF - (none), RF - (none).
+Time of Game: 2:50.
+Attendance: 34,399.
+Field Condition: Unknown.
+Start Time Weather: 72° F, Wind 7mph in from Centerfield, Cloudy, No Precipitation.
+
+div_lineups
+Diamondbacks
+1;Josh Rojas;/players/r/rojasjo01.shtml;2B
+2;Geraldo Perdomo;/players/p/perdoge01.shtml;SS
+3;Corbin Carroll;/players/c/carroco02.shtml;LF
+4;Christian Walker;/players/w/walkech02.shtml;1B
+5;Evan Longoria;/players/l/longoev01.shtml;DH
+6;Pavin Smith;/players/s/smithpa04.shtml;RF
+7;Emmanuel Rivera;/players/r/riverem01.shtml;3B
+8;Alek Thomas;/players/t/thomaal01.shtml;CF
+9;Jose Herrera;/players/h/herrejo04.shtml;C
+; Tommy Henry;/players/h/henryto01.shtml;P
+Rockies
+1;Charlie Blackmon;/players/b/blackch02.shtml;DH
+2;Kris Bryant;/players/b/bryankr01.shtml;RF
+3;Elias Díaz;/players/d/diazel01.shtml;C
+4;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+5;C.J. Cron;/players/c/croncj01.shtml;1B
+6;Randal Grichuk;/players/g/grichra01.shtml;LF
+7;Brenton Doyle;/players/d/doylebr02.shtml;CF
+8;Alan Trejo;/players/t/trejoal01.shtml;2B
+9;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+; Noah Davis;/players/d/davisno01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;4-0;1;12-;2,(1-0) BX;RRR;ARI;Geraldo Perdomo;Noah Davis;10%;93%;Home Run (Fly Ball to Deep RF); Herrera Scores; Rojas Scores
+t2;2-0;1;123;6,(3-2) FBBSBX;RR;ARI;Josh Rojas;Noah Davis;9%;84%;Single to LF (Line Drive); Rivera Scores; Thomas Scores; Herrera to 2B
+t2;1-0;1;123;6,(3-2) CBBBFB;R;ARI;Jose Herrera;Noah Davis;7%;75%;Walk; Smith Scores; Rivera to 3B; Thomas to 2B
+t1;0-0;1;-2-;2,(0-1) SX;R;ARI;Corbin Carroll;Noah Davis;7%;59%;Single to RF (Ground Ball); Rojas Scores
+t1;0-0;0;---;2,(1-0) BX;;ARI;Josh Rojas;Noah Davis;5%;55%;Double to RF (Line Drive to Deep CF-RF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Diamondbacks Batting, Tied 0-0, Rockies' Noah Davis facing 1-2-3 
+t1;0-0;0;---;2,(1-0) BX;;ARI;Josh Rojas;Noah Davis;5%;55%;Double to RF (Line Drive to Deep CF-RF)
+t1;0-0;0;-2-;1,(0-0) X;O;ARI;Geraldo Perdomo;Noah Davis;-4%;51%;Flyball: LF (LF Line)
+t1;0-0;1;-2-;2,(0-1) SX;R;ARI;Corbin Carroll;Noah Davis;7%;59%;Single to RF (Ground Ball); Rojas Scores
+t1;1-0;1;1--;7,(1-2) SBF.1FFF>S;OO;ARI;Christian Walker;Noah Davis;-5%;54%;Double Play: Strikeout Swinging, Carroll Caught Stealing 2B (C-2B)
+;;;;;;;;;Tag play Challenged by COL manager (Bud Black): Original call overturned as shown.
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Diamondbacks 1, Rockies 0.
+Bottom of the 1st, Rockies Batting, Behind 0-1, Diamondbacks' Tommy Henry facing 1-2-3 
+b1;0-1;0;---;2,(0-1) CX;O;COL;Charlie Blackmon;Tommy Henry;2%;56%;Popfly: SS (Deep SS-2B)
+b1;0-1;1;---;5,(2-2) BBFFS;O;COL;Kris Bryant;Tommy Henry;2%;58%;Strikeout Swinging
+b1;0-1;2;---;4,(1-2) SFBS;O;COL;Elias Díaz;Tommy Henry;1%;59%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 1, Rockies 0.
+Top of the 2nd, Diamondbacks Batting, Ahead 1-0, Rockies' Noah Davis facing 5-6-7 
+t2;1-0;0;---;1,(0-0) X;O;ARI;Evan Longoria;Noah Davis;-2%;57%;Groundout: SS-1B
+t2;1-0;1;---;6,(3-2) BCBBCB;;ARI;Pavin Smith;Noah Davis;2%;59%;Walk
+t2;1-0;1;1--;4,(1-2) CBCX;;ARI;Emmanuel Rivera;Noah Davis;3%;63%;Single to CF (Ground Ball thru SS-2B); Smith to 2B
+t2;1-0;1;12-;3,(1-1) CBX;;ARI;Alek Thomas;Noah Davis;5%;68%;Single to 1B (Ground Ball to 2B-1B); Smith to 3B; Rivera to 2B
+t2;1-0;1;123;6,(3-2) CBBBFB;R;ARI;Jose Herrera;Noah Davis;7%;75%;Walk; Smith Scores; Rivera to 3B; Thomas to 2B
+t2;2-0;1;123;6,(3-2) FBBSBX;RR;ARI;Josh Rojas;Noah Davis;9%;84%;Single to LF (Line Drive); Rivera Scores; Thomas Scores; Herrera to 2B
+t2;4-0;1;12-;2,(1-0) BX;RRR;ARI;Geraldo Perdomo;Noah Davis;10%;93%;Home Run (Fly Ball to Deep RF); Herrera Scores; Rojas Scores
+t2;7-0;1;---;6,(3-2) BBBCST;O;ARI;Corbin Carroll;Noah Davis;0%;93%;Strikeout Swinging
+t2;7-0;2;---;3,(1-1) SBX;;ARI;Christian Walker;Noah Davis;0%;93%;Single to CF (Line Drive to Deep LF-CF)
+t2;7-0;2;1--;1,(0-0) B;;ARI;Evan Longoria;Noah Davis;0%;94%;Wild Pitch; Walker to 2B
+t2;7-0;2;-2-;5,(2-2) B..BCFX;O;ARI;Evan Longoria;Noah Davis;-1%;93%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;6 runs, 5 hits, 0 errors, 1 LOB. Diamondbacks 7, Rockies 0.
+Bottom of the 2nd, Rockies Batting, Behind 0-7, Diamondbacks' Tommy Henry facing 4-5-6 
+b2;0-7;0;---;2,(1-0) BX;;COL;Ryan McMahon;Tommy Henry;-2%;91%;Double to LF (Ground Ball)
+b2;0-7;0;-2-;2,(0-1) FX;O;COL;C.J. Cron;Tommy Henry;2%;92%;Popfly: SS (Weak SS-2B)
+b2;0-7;1;-2-;6,(2-2) BCBSFX;O;COL;Randal Grichuk;Tommy Henry;1%;94%;Lineout: RF (Deep CF-RF)
+b2;0-7;2;-2-;5,(3-1) BBFBB;;COL;Brenton Doyle;Tommy Henry;-1%;93%;Walk
+b2;0-7;2;12-;1,(0-0) X;R;COL;Alan Trejo;Tommy Henry;-3%;90%;Single to 2B (Fly Ball to Short CF-RF); McMahon Scores; Doyle to 3B
+b2;1-7;2;1-3;3,(1-1) FBX;O;COL;Ezequiel Tovar;Tommy Henry;3%;92%;Groundout: P-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Diamondbacks 7, Rockies 1.
+Top of the 3rd, Diamondbacks Batting, Ahead 7-1, Rockies' Connor Seabold facing 6-7-8 
+;;;;;;;;;Connor Seabold replaces Noah Davis pitching
+t3;7-1;0;---;4,(1-2) .BCFX;O;ARI;Pavin Smith;Connor Seabold;-1%;92%;Flyball: CF (Deep CF-RF)
+t3;7-1;1;---;1,(0-0) X;;ARI;Emmanuel Rivera;Connor Seabold;1%;93%;Single to CF (Line Drive to Deep CF-RF); Rivera to 2B/Adv on E8
+t3;7-1;1;-2-;7,(3-2) BSSBBFS;O;ARI;Alek Thomas;Connor Seabold;-1%;92%;Strikeout Swinging
+t3;7-1;2;-2-;5,(2-2) CBBCC;O;ARI;Jose Herrera;Connor Seabold;-1%;91%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 1 error, 1 LOB. Diamondbacks 7, Rockies 1.
+Bottom of the 3rd, Rockies Batting, Behind 1-7, Diamondbacks' Tommy Henry facing 1-2-3 
+b3;1-7;0;---;4,(2-1) BBFX;O;COL;Charlie Blackmon;Tommy Henry;1%;92%;Popfly: SS (SS-3B Hole)
+b3;1-7;1;---;6,(3-2) SBBBFX;O;COL;Kris Bryant;Tommy Henry;1%;93%;Lineout: CF (Deep CF)
+b3;1-7;2;---;4,(1-2) BFF.X;O;COL;Elias Díaz;Tommy Henry;1%;94%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 7, Rockies 1.
+Top of the 4th, Diamondbacks Batting, Ahead 7-1, Rockies' Connor Seabold facing 1-2-3 
+t4;7-1;0;---;2,(0-1) CX;O;ARI;Josh Rojas;Connor Seabold;-1%;93%;Flyball: CF (Deep CF-RF)
+t4;7-1;1;---;4,(2-1) BCBX;;ARI;Geraldo Perdomo;Connor Seabold;1%;94%;Single to RF (Ground Ball)
+t4;7-1;1;1--;4,(1-2) CFBB;;ARI;Corbin Carroll;Connor Seabold;0%;94%;Wild Pitch; Perdomo to 2B
+t4;7-1;1;-2-;6,(3-2) CFBB.B.S;O;ARI;Corbin Carroll;Connor Seabold;-1%;93%;Strikeout Swinging
+t4;7-1;2;-2-;4,(1-2) BCFX;R;ARI;Christian Walker;Connor Seabold;2%;96%;Single to CF (Ground Ball thru SS-2B); Perdomo Scores
+t4;8-1;2;1--;6,(3-2) BBCBS>X;O;ARI;Evan Longoria;Connor Seabold;0%;95%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Diamondbacks 8, Rockies 1.
+Bottom of the 4th, Rockies Batting, Behind 1-8, Diamondbacks' Tommy Henry facing 4-5-6 
+b4;1-8;0;---;4,(0-2) CFFS;O;COL;Ryan McMahon;Tommy Henry;1%;96%;Strikeout Swinging
+b4;1-8;1;---;4,(1-2) CFBX;O;COL;C.J. Cron;Tommy Henry;1%;97%;Groundout: 3B-1B
+b4;1-8;2;---;1,(0-0) X;;COL;Randal Grichuk;Tommy Henry;0%;96%;Single to CF (Ground Ball thru SS-2B)
+b4;1-8;2;1--;3,(1-1) FBX;O;COL;Brenton Doyle;Tommy Henry;1%;97%;Groundout: SS-2B/Forceout at 2B; Doyle to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 8, Rockies 1.
+Top of the 5th, Diamondbacks Batting, Ahead 8-1, Rockies' Connor Seabold facing 6-7-8 
+t5;8-1;0;---;2,(0-1) SX;O;ARI;Pavin Smith;Connor Seabold;0%;97%;Foul Popfly: 3B (3B into Foul Terr.)
+t5;8-1;1;---;8,(3-2) CBBFBFFX;O;ARI;Emmanuel Rivera;Connor Seabold;0%;97%;Lineout: CF (Deep CF)
+t5;8-1;2;---;4,(1-2) FBFX;O;ARI;Alek Thomas;Connor Seabold;0%;96%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 8, Rockies 1.
+Bottom of the 5th, Rockies Batting, Behind 1-8, Diamondbacks' Tommy Henry facing 8-9-1 
+b5;1-8;0;---;5,(2-2) BFBCX;O;COL;Alan Trejo;Tommy Henry;1%;97%;Lineout: 3B
+b5;1-8;1;---;3,(1-1) BCX;;COL;Ezequiel Tovar;Tommy Henry;-1%;96%;Triple to RF (Line Drive to RF Line)
+b5;1-8;1;--3;4,(2-1) BFBX;OO;COL;Charlie Blackmon;Tommy Henry;2%;98%;Double Play: Flyball: CF; Tovar out at Hm/CF-C
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Diamondbacks 8, Rockies 1.
+Top of the 6th, Diamondbacks Batting, Ahead 8-1, Rockies' Connor Seabold facing 9-1-2 
+t6;8-1;0;---;6,(2-2) BSCFBX;;ARI;Jose Herrera;Connor Seabold;0%;99%;Double to RF (Ground Ball)
+t6;8-1;0;-2-;3,(2-0) BBX;O;ARI;Josh Rojas;Connor Seabold;0%;98%;Groundout: 1B unassisted; Herrera to 3B
+t6;8-1;1;--3;5,(3-1) BFB*BX;R;ARI;Geraldo Perdomo;Connor Seabold;0%;99%;Single to RF (Ground Ball thru 2B-1B); Herrera Scores
+;;;;;;;;;Jake Bird replaces Connor Seabold pitching
+t6;9-1;1;1--;7,(1-2) .CSFFBF*S;O;ARI;Corbin Carroll;Jake Bird;0%;99%;Strikeout Swinging
+t6;9-1;2;1--;1,(0-0) X;O;ARI;Christian Walker;Jake Bird;0%;99%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Walker to 1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Diamondbacks 9, Rockies 1.
+Bottom of the 6th, Rockies Batting, Behind 1-9, Diamondbacks' Tommy Henry facing 2-3-4 
+b6;1-9;0;---;3,(2-0) BBX;O;COL;Kris Bryant;Tommy Henry;0%;99%;Flyball: RF (Deep RF Line)
+b6;1-9;1;---;2,(0-1) FX;;COL;Elias Díaz;Tommy Henry;0%;99%;Single to LF (Ground Ball thru SS-3B Hole)
+b6;1-9;1;1--;1,(0-0) X;R;COL;Ryan McMahon;Tommy Henry;-1%;97%;Double to CF (Fly Ball to Deep LF-CF); Díaz Scores
+;;;;;;;;;Lourdes Gurriel Jr. replaces Corbin Carroll playing LF batting 3rd
+b6;2-9;1;-2-;1,(0-0) .X;R;COL;C.J. Cron;Tommy Henry;-2%;95%;Double to LF (Fly Ball to Deep LF-CF); McMahon Scores
+;;;;;;;;;José Ruiz replaces Tommy Henry pitching
+b6;3-9;1;-2-;4,(1-2) .BCCX;;COL;Randal Grichuk;José Ruiz;-2%;93%;Single to LF (Line Drive to Deep LF); Cron to 3B
+b6;3-9;1;1-3;5,(2-2) FBFBX;RO;COL;Brenton Doyle;José Ruiz;1%;95%;Groundout: SS-2B/Forceout at 2B; Cron Scores; Doyle to 1B
+b6;4-9;2;1--;1,(0-0) >S;;COL;Alan Trejo;José Ruiz;0%;94%;Doyle Steals 2B
+b6;4-9;2;-2-;4,(1-2) >S.FBS;O;COL;Alan Trejo;José Ruiz;2%;96%;Strikeout Swinging
+;;;;;;;;;3 runs, 4 hits, 0 errors, 1 LOB. Diamondbacks 9, Rockies 4.
+Top of the 7th, Diamondbacks Batting, Ahead 9-4, Rockies' Jake Bird facing 5-6-7 
+t7;9-4;0;---;5,(1-2) CS.BFT;O;ARI;Evan Longoria;Jake Bird;0%;96%;Strikeout Swinging
+t7;9-4;1;---;2,(0-1) FX;O;ARI;Pavin Smith;Jake Bird;0%;95%;Groundout: SS-1B (SS-2B)
+t7;9-4;2;---;5,(2-2) BSBFX;O;ARI;Emmanuel Rivera;Jake Bird;0%;95%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 9, Rockies 4.
+Bottom of the 7th, Rockies Batting, Behind 4-9, Diamondbacks' Kevin Ginkel facing 9-1-2 
+;;;;;;;;;Kevin Ginkel replaces José Ruiz pitching
+b7;4-9;0;---;5,(2-2) .FBFBS;O;COL;Ezequiel Tovar;Kevin Ginkel;1%;96%;Strikeout Swinging
+b7;4-9;1;---;9,(3-2) CSBBBFFFX;O;COL;Charlie Blackmon;Kevin Ginkel;1%;97%;Flyball: LF (Deep LF-CF)
+b7;4-9;2;---;2,(1-0) BX;O;COL;Kris Bryant;Kevin Ginkel;0%;98%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 9, Rockies 4.
+Top of the 8th, Diamondbacks Batting, Ahead 9-4, Rockies' Jake Bird facing 8-9-1 
+t8;9-4;0;---;3,(1-1) FBX;;ARI;Alek Thomas;Jake Bird;1%;98%;Double to CF (Line Drive to Deep LF-CF)
+t8;9-4;0;-2-;5,(3-1) CBB*BX;R;ARI;Jose Herrera;Jake Bird;1%;99%;Double to RF (Line Drive to Deep CF-RF); Thomas Scores
+t8;10-4;0;-2-;2,(0-1) CX;O;ARI;Josh Rojas;Jake Bird;0%;99%;Flyball: RF (Deep RF Line); Herrera to 3B
+t8;10-4;1;--3;3,(1-1) CBX;O;ARI;Geraldo Perdomo;Jake Bird;0%;99%;Groundout: 2B-1B
+t8;10-4;2;--3;2,(1-0) BX;O;ARI;Lourdes Gurriel Jr.;Jake Bird;0%;99%;Flyball: 2B (Short RF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Diamondbacks 10, Rockies 4.
+Bottom of the 8th, Rockies Batting, Behind 4-10, Diamondbacks' Scott McGough facing 3-4-5 
+;;;;;;;;;Scott McGough replaces Kevin Ginkel pitching
+b8;4-10;0;---;5,(3-1) .BBBCB;;COL;Elias Díaz;Scott McGough;-1%;98%;Walk
+b8;4-10;0;1--;5,(2-2) CC*B*BS;O;COL;Ryan McMahon;Scott McGough;1%;99%;Strikeout Swinging
+b8;4-10;1;1--;2,(1-0) BX;O;COL;C.J. Cron;Scott McGough;1%;99%;Flyball: SS (Deep SS-2B)
+b8;4-10;2;1--;5,(1-2) CSFBS;O;COL;Randal Grichuk;Scott McGough;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Diamondbacks 10, Rockies 4.
+Top of the 9th, Diamondbacks Batting, Ahead 10-4, Rockies' Pierce Johnson facing 4-5-6 
+;;;;;;;;;Pierce Johnson replaces Jake Bird pitching
+t9;10-4;0;---;4,(1-2) .CS.BX;R;ARI;Christian Walker;Pierce Johnson;0%;100%;Home Run (Fly Ball to Deep LF)
+t9;11-4;0;---;3,(0-2) CCT;O;ARI;Evan Longoria;Pierce Johnson;0%;100%;Strikeout Swinging
+t9;11-4;1;---;6,(3-2) CBBCB*S;O;ARI;Pavin Smith;Pierce Johnson;0%;100%;Strikeout Swinging
+t9;11-4;2;---;5,(2-2) SCBBX;;ARI;Emmanuel Rivera;Pierce Johnson;0%;100%;Double to LF (Line Drive to Deep LF)
+t9;11-4;2;-2-;6,(3-2) BFBCBC;O;ARI;Alek Thomas;Pierce Johnson;0%;100%;Strikeout Looking
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Diamondbacks 11, Rockies 4.
+Bottom of the 9th, Rockies Batting, Behind 4-11, Diamondbacks' Anthony Misiewicz facing 7-8-9 
+;;;;;;;;;Anthony Misiewicz replaces Scott McGough pitching
+b9;4-11;0;---;2,(1-0) .BX;O;COL;Brenton Doyle;Anthony Misiewicz;0%;100%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;Yonathan Daza pinch hits for Alan Trejo (2B) batting 8th
+b9;4-11;1;---;2,(0-1) .FX;O;COL;Yonathan Daza;Anthony Misiewicz;0%;100%;Lineout: 3B (SS-3B Hole)
+b9;4-11;2;---;3,(1-1) BSX;O;COL;Ezequiel Tovar;Anthony Misiewicz;0%;100%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 11, Rockies 4.

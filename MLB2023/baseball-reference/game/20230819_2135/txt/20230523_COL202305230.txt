@@ -1,0 +1,267 @@
+
+Scorebox Meta
+20230523
+6:40 p.m. Local
+19470
+Coors Field
+148
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/MIA-2023.png;/teams/MIA/2023.shtml;1;0;0;0;0;2;0;0;1;4;11;1
+https://cdn.ssref.net/req/202308101/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;0;0;1;4;0;0;0;X;5;7;0
+
+Batting home
+Charlie Blackmon;/players/b/blackch02.shtml;DH;4;1;1;1;0;0;4;.275;.364;.419;.782;21;12;0.069; 1.08;0.144;-0.075; 0.02%; 0.59; 0.3;;;2B
+Jurickson Profar;/players/p/profaju01.shtml;LF;3;1;0;0;1;0;4;.250;.332;.409;.740;15;8;-0.056; 0.94;0.016;-0.072;-0.02%; 0.51; -0.5;2;0;
+Elias Díaz;/players/d/diazel01.shtml;C;4;1;3;0;0;0;4;.345;.400;.504;.904;7;5;0.047; 0.92;0.078;-0.032; 0.01%; 0.50; 0.8;5;1;2B
+Randal Grichuk;/players/g/grichra01.shtml;RF;3;1;1;2;1;1;4;.344;.411;.469;.880;14;8;0.147; 1.14;0.171;-0.025; 0.05%; 0.62; 1.9;3;0;IW
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;3;0;0;1;1;1;4;.216;.290;.377;.668;21;10;-0.018; 0.90;0.053;-0.070;-0.01%; 0.49; -0.4;2;4;SB
+Harold Castro;/players/c/castrha01.shtml;2B;4;0;1;1;0;1;4;.274;.292;.345;.637;12;9;0.054; 0.92;0.111;-0.057; 0.02%; 0.50; -0.1;2;2;
+Brenton Doyle;/players/d/doylebr02.shtml;CF;4;0;0;0;0;2;4;.239;.280;.479;.759;17;11;-0.111; 0.78;0.000;-0.111;-0.04%; 0.42; -1.3;5;0;GDP
+Michael Toglia;/players/t/toglimi01.shtml;1B;3;1;0;0;1;1;4;.150;.190;.200;.390;19;12;-0.001; 0.71;0.044;-0.045;0%; 0.39; -0.2;7;1;
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;3;0;1;0;0;0;3;.218;.256;.359;.615;16;12;-0.006; 0.96;0.047;-0.052;-0.00%; 0.52; -0.1;0;0;2B
+Austin Gomber;/players/g/gombeau01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Jake Bird;/players/b/birdja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brent Suter;/players/s/suterbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Pierce Johnson;/players/j/johnspi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ezequiel Tovar (11, off Eury Pérez); Charlie Blackmon (12, off Eury Pérez); Elias Díaz (10, off Andrew Nardi).
+
+
+IBB: Randal Grichuk (1, by Andrew Nardi).
+
+
+TB: Elias Díaz 4; Ezequiel Tovar 2; Charlie Blackmon 2; Randal Grichuk; Harold Castro.
+
+
+GIDP: Brenton Doyle (1).
+
+
+RBI: Randal Grichuk 2 (7); Harold Castro (15); Charlie Blackmon (18); Ryan McMahon (19).
+
+
+2-out RBI: Harold Castro.
+
+
+Team LOB: 6.
+With RISP: 3 for 9.
+
+Batting away
+Jon Berti;/players/b/bertijo01.shtml;SS;4;2;2;0;1;0;5;.284;.329;.362;.691;19;13;0.103; 1.04;0.144;-0.041; 0.06%; 1.02; 0.6;2;2;
+Jorge Soler;/players/s/solerjo01.shtml;RF;5;1;2;2;0;1;5;.246;.323;.526;.849;14;10;0.115; 1.53;0.231;-0.116; 0.07%; 1.51; 1.1;1;0;HR,2B
+Jonathan Davis;/players/d/davisjo05.shtml;PR;0;0;0;0;0;0;0;;;;;;;;;;;;;;;;
+Luis Arraez;/players/a/arraelu01.shtml;2B;5;0;0;0;0;0;5;.371;.424;.461;.885;16;13;-0.251; 1.79;0.000;-0.251;-0.15%; 1.76; -1.7;1;4;
+Garrett Cooper;/players/c/coopega03.shtml;DH;5;1;1;2;0;1;5;.242;.285;.391;.675;14;10;-0.081; 1.43;0.109;-0.190;-0.05%; 1.41; 0.9;;;HR
+Bryan De La Cruz;/players/d/delacbr01.shtml;LF;3;0;1;0;1;0;4;.302;.341;.457;.798;20;10;0.029; 0.72;0.065;-0.036; 0.02%; 0.71; 0.0;1;0;
+Yuli Gurriel;/players/g/gourryu01.shtml;1B;4;0;3;0;0;0;4;.263;.306;.384;.689;12;7;0.087; 1.24;0.119;-0.032; 0.05%; 1.22; 0.6;10;0;
+Jean Segura;/players/s/segurje01.shtml;3B;4;0;0;0;0;1;4;.194;.261;.229;.490;20;13;-0.188; 1.93;0.000;-0.188;-0.11%; 1.90; -1.5;0;4;
+Nick Fortes;/players/f/forteni01.shtml;C;4;0;2;0;0;0;4;.223;.270;.287;.557;11;7;-0.031; 1.40;0.075;-0.106;-0.02%; 1.38; -0.3;7;0;
+Garrett Hampson;/players/h/hampsga01.shtml;CF;3;0;0;0;0;2;3;.231;.263;.363;.626;10;8;-0.112; 1.43;0.000;-0.112;-0.07%; 1.41; -0.9;1;0;
+Joey Wendle;/players/w/wendljo01.shtml;PH;1;0;0;0;0;1;1;.156;.224;.267;.491;3;3;-0.045; 1.66;0.000;-0.045;-0.03%; 1.64; -0.3;;;
+Eury Pérez;/players/p/perezeu02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Huascar Brazoban;/players/b/brazohu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Andrew Nardi;/players/n/nardian01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Matt Barnes;/players/b/barnema01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Jorge Soler (10, off Pierce Johnson).
+
+
+HR: Jorge Soler (13, off Austin Gomber, 1st inn, 0 on, 1 out to Deep CF); Garrett Cooper (4, off Austin Gomber, 6th inn, 1 on, 2 outs to Deep RF).
+
+
+TB: Jorge Soler 6; Garrett Cooper 4; Yuli Gurriel 3; Nick Fortes 2; Jon Berti 2; Bryan De La Cruz.
+
+
+RBI: Garrett Cooper 2 (17); Jorge Soler 2 (29).
+
+
+2-out RBI: Garrett Cooper 2.
+
+
+Team LOB: 9.
+With RISP: 0 for 7.
+
+Pitching home
+Austin Gomber;/players/g/gombeau01.shtml; W (4-4); 5.2;4;3;3;1;2;2;6.48;22;75;51;35;3;13;7;12;6;0;50;;;0.106; 0.78; 0.03%; 0.42; 0.4
+Jake Bird;/players/b/birdja01.shtml; H (2); 0.1;2;0;0;0;1;0;2.48;3;15;9;4;3;2;0;2;2;0;;0;0;0.015; 1.28; 0.01%; 0.70; 0.1
+Brent Suter;/players/s/suterbr01.shtml; H (2); 2 ;3;0;0;1;2;0;0.88;10;37;24;11;4;9;5;2;1;0;;0;0;0.166; 2.21; 0.05%; 1.20; 1.2
+Pierce Johnson;/players/j/johnspi01.shtml; S (10); 1 ;2;1;1;0;1;0;4.95;5;12;10;6;2;2;0;4;2;0;;0;0;0.088; 2.60; 0.03%; 1.41; -0.4
+
+Pitching away
+Eury Pérez;/players/p/perezeu02.shtml; L (1-1); 4.1;4;4;3;3;3;0;3.86;20;82;47;25;13;9;4;10;7;0;41;;;-0.041; 1.16;-0.02%; 1.14; -0.0
+Huascar Brazoban;/players/b/brazohu01.shtml;Huascar Brazoban; 1.2;2;1;1;0;1;0;3.76;7;34;23;14;3;6;5;1;1;0;;2;2;-0.134; 0.85;-0.08%; 0.83; -1.4
+Andrew Nardi;/players/n/nardian01.shtml;Andrew Nardi; 1 ;1;0;0;1;1;0;3.22;5;15;9;6;1;2;1;2;2;0;;0;0;0.030; 0.54; 0.02%; 0.54; 0.6
+Matt Barnes;/players/b/barnema01.shtml;Matt Barnes; 1 ;0;0;0;0;1;0;3.54;3;11;8;4;3;1;2;0;0;0;;0;0;0.019; 0.23; 0.01%; 0.23; 0.6
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: Andrew Nardi (2; Randal Grichuk).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: Andrew Nardi (2; Randal Grichuk).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Derek Thomas, 1B - Malachi Moore, 2B - Mark Wegner, 3B - Bruce Dreckman, LF - (none), RF - (none).
+Time of Game: 2:28.
+Attendance: 19,470.
+Field Condition: Unknown.
+Start Time Weather: 75° F, Wind 5mph from Right to Left, Cloudy, No Precipitation.
+
+div_lineups
+Marlins
+1;Jon Berti;/players/b/bertijo01.shtml;SS
+2;Jorge Soler;/players/s/solerjo01.shtml;RF
+3;Luis Arraez;/players/a/arraelu01.shtml;2B
+4;Garrett Cooper;/players/c/coopega03.shtml;DH
+5;Bryan De La Cruz;/players/d/delacbr01.shtml;LF
+6;Yuli Gurriel;/players/g/gourryu01.shtml;1B
+7;Jean Segura;/players/s/segurje01.shtml;3B
+8;Nick Fortes;/players/f/forteni01.shtml;C
+9;Garrett Hampson;/players/h/hampsga01.shtml;CF
+; Eury Pérez;/players/p/perezeu02.shtml;P
+Rockies
+1;Charlie Blackmon;/players/b/blackch02.shtml;DH
+2;Jurickson Profar;/players/p/profaju01.shtml;LF
+3;Elias Díaz;/players/d/diazel01.shtml;C
+4;Randal Grichuk;/players/g/grichra01.shtml;RF
+5;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+6;Harold Castro;/players/c/castrha01.shtml;2B
+7;Brenton Doyle;/players/d/doylebr02.shtml;CF
+8;Michael Toglia;/players/t/toglimi01.shtml;1B
+9;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+; Austin Gomber;/players/g/gombeau01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b5;1-1;1;1--;7,(3-2) BBBCF>F>X;R;COL;Charlie Blackmon;Eury Pérez;14%;72%;Double to CF (Line Drive to Deep CF); Toglia Scores
+t9;3-5;1;1--;3,(1-1) BFX;R;MIA;Jorge Soler;Pierce Johnson;-14%;76%;Double to RF (Line Drive to Deep RF Line); Berti Scores
+t9;4-5;2;-2-;3,(1-1) SBX;O;MIA;Garrett Cooper;Pierce Johnson;12%;100%;Flyball: RF (Deep RF)
+t9;4-5;1;-2-;1,(0-0) .X;O;MIA;Luis Arraez;Pierce Johnson;12%;88%;Flyball: LF (LF Line)
+b5;2-1;1;123;2,(2-0) VBX;RR;COL;Randal Grichuk;Huascar Brazoban;12%;90%;Single to CF (Line Drive to Deep LF-CF); Blackmon Scores; Profar Scores; Díaz to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Marlins Batting, Tied 0-0, Rockies' Austin Gomber facing 1-2-3 
+t1;0-0;0;---;3,(1-1) BCX;O;MIA;Jon Berti;Austin Gomber;2%;52%;Groundout: 2B-1B
+t1;0-0;1;---;1,(0-0) X;R;MIA;Jorge Soler;Austin Gomber;-9%;43%;Home Run (Fly Ball to Deep CF)
+t1;1-0;1;---;4,(0-2) SFFX;O;MIA;Luis Arraez;Austin Gomber;2%;45%;Lineout: CF (Deep LF-CF)
+t1;1-0;2;---;3,(1-1) FBX;O;MIA;Garrett Cooper;Austin Gomber;1%;46%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Marlins 1, Rockies 0.
+Bottom of the 1st, Rockies Batting, Behind 0-1, Marlins' Eury Pérez facing 1-2-3 
+b1;0-1;0;---;4,(1-2) CFBX;O;COL;Charlie Blackmon;Eury Pérez;-2%;44%;Popfly: C
+b1;0-1;1;---;4,(1-2) SBSX;O;COL;Jurickson Profar;Eury Pérez;-2%;42%;Groundout: 3B-1B (Weak SS)
+b1;0-1;2;---;2,(1-0) BX;;COL;Elias Díaz;Eury Pérez;1%;43%;Single to LF (Line Drive to Short LF)
+b1;0-1;2;1--;6,(3-2) BC*BSB>S;O;COL;Randal Grichuk;Eury Pérez;-2%;41%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 1, Rockies 0.
+Top of the 2nd, Marlins Batting, Ahead 1-0, Rockies' Austin Gomber facing 5-6-7 
+t2;1-0;0;---;2,(0-1) CX;O;MIA;Bryan De La Cruz;Austin Gomber;2%;43%;Lineout: CF (Deep CF)
+t2;1-0;1;---;3,(1-1) BFX;;MIA;Yuli Gurriel;Austin Gomber;-2%;41%;Single to LF (Ground Ball thru SS-3B Hole)
+t2;1-0;1;1--;2,(0-1) FX;O;MIA;Jean Segura;Austin Gomber;3%;43%;Groundout: 3B-2B/Forceout at 2B (Weak 3B); Segura to 1B
+t2;1-0;2;1--;2,(0-1) FX;O;MIA;Nick Fortes;Austin Gomber;2%;46%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 1, Rockies 0.
+Bottom of the 2nd, Rockies Batting, Behind 0-1, Marlins' Eury Pérez facing 5-6-7 
+b2;0-1;0;---;6,(3-2) SBBSBB;;COL;Ryan McMahon;Eury Pérez;4%;49%;Walk
+b2;0-1;0;1--;3,(0-2) CF1S;O;COL;Harold Castro;Eury Pérez;-4%;46%;Strikeout Swinging
+b2;0-1;1;1--;4,(1-2) CSBX;OO;COL;Brenton Doyle;Eury Pérez;-6%;40%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 1, Rockies 0.
+Top of the 3rd, Marlins Batting, Ahead 1-0, Rockies' Austin Gomber facing 9-1-2 
+t3;1-0;0;---;3,(1-1) CBX;O;MIA;Garrett Hampson;Austin Gomber;2%;42%;Flyball: RF
+t3;1-0;1;---;2,(1-0) BX;O;MIA;Jon Berti;Austin Gomber;2%;44%;Groundout: 3B-1B (SS-3B Hole)
+t3;1-0;2;---;6,(3-2) CCBBBX;O;MIA;Jorge Soler;Austin Gomber;1%;45%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 1, Rockies 0.
+Bottom of the 3rd, Rockies Batting, Behind 0-1, Marlins' Eury Pérez facing 8-9-1 
+b3;0-1;0;---;4,(1-2) BSFS;O;COL;Michael Toglia;Eury Pérez;-3%;42%;Strikeout Swinging
+b3;0-1;1;---;5,(1-2) BSFFX;;COL;Ezequiel Tovar;Eury Pérez;5%;47%;Double to CF (Line Drive to Deep RF)
+b3;0-1;1;-2-;4,(2-1) *BFBX;O;COL;Charlie Blackmon;Eury Pérez;-4%;43%;Groundout: 2B-1B (2B-1B); Tovar to 3B
+b3;0-1;2;--3;4,(2-1) TBBX;O;COL;Jurickson Profar;Eury Pérez;-4%;39%;Lineout: RF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 1, Rockies 0.
+Top of the 4th, Marlins Batting, Ahead 1-0, Rockies' Austin Gomber facing 3-4-5 
+t4;1-0;0;---;5,(2-2) CBBFX;O;MIA;Luis Arraez;Austin Gomber;3%;41%;Lineout: 3B (SS-3B Hole)
+t4;1-0;1;---;3,(0-2) TFS;O;MIA;Garrett Cooper;Austin Gomber;2%;43%;Strikeout Swinging
+t4;1-0;2;---;6,(3-2) CBBBF.X;O;MIA;Bryan De La Cruz;Austin Gomber;1%;44%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 1, Rockies 0.
+Bottom of the 4th, Rockies Batting, Behind 0-1, Marlins' Eury Pérez facing 3-4-5 
+b4;0-1;0;---;1,(0-0) X;O;COL;Elias Díaz;Eury Pérez;-3%;41%;Flyball: CF (Deep CF)
+b4;0-1;1;---;6,(2-2) CBSBFX;;COL;Randal Grichuk;Eury Pérez;5%;46%;Reached on E8 (Line Drive to Deep LF-CF); Grichuk to 2B
+b4;0-1;1;-2-;3,(1-1) BSX;O;COL;Ryan McMahon;Eury Pérez;-5%;42%;Flyball: LF (Short LF)
+b4;0-1;2;-2-;2,(1-0) BX;R;COL;Harold Castro;Eury Pérez;11%;53%;Single to CF (Line Drive); Grichuk Scores/unER
+b4;1-1;2;1--;4,(2-1) BBF>X;O;COL;Brenton Doyle;Eury Pérez;-3%;50%;Groundout: 3B-1B
+;;;;;;;;;1 run, 1 hit, 1 error, 1 LOB. Marlins 1, Rockies 1.
+Top of the 5th, Marlins Batting, Tied 1-1, Rockies' Austin Gomber facing 6-7-8 
+t5;1-1;0;---;2,(1-0) BX;O;MIA;Yuli Gurriel;Austin Gomber;3%;53%;Lineout: CF (Deep CF)
+t5;1-1;1;---;5,(3-1) BBFBX;O;MIA;Jean Segura;Austin Gomber;2%;56%;Groundout: P-1B (Front of Home)
+t5;1-1;2;---;3,(2-0) BBX;;MIA;Nick Fortes;Austin Gomber;-2%;54%;Single to LF (Line Drive to Deep LF)
+t5;1-1;2;1--;3,(0-2) CCS;O;MIA;Garrett Hampson;Austin Gomber;3%;57%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 1, Rockies 1.
+Bottom of the 5th, Rockies Batting, Tied 1-1, Marlins' Eury Pérez facing 8-9-1 
+b5;1-1;0;---;5,(3-1) BBCBB;;COL;Michael Toglia;Eury Pérez;4%;62%;Walk
+b5;1-1;0;1--;3,(1-1) C*BX;O;COL;Ezequiel Tovar;Eury Pérez;-4%;57%;Lineout: SS (Deep SS)
+b5;1-1;1;1--;7,(3-2) BBBCF>F>X;R;COL;Charlie Blackmon;Eury Pérez;14%;72%;Double to CF (Line Drive to Deep CF); Toglia Scores
+b5;2-1;1;-2-;5,(3-1) CB*BBB;;COL;Jurickson Profar;Eury Pérez;2%;73%;Walk
+;;;;;;;;;Huascar Brazoban replaces Eury Pérez pitching
+b5;2-1;1;12-;3,(1-1) .BSX;;COL;Elias Díaz;Huascar Brazoban;5%;78%;Single to P (Ground Ball to Short 3B Line); Blackmon to 3B; Profar to 2B
+b5;2-1;1;123;2,(2-0) VBX;RR;COL;Randal Grichuk;Huascar Brazoban;12%;90%;Single to CF (Line Drive to Deep LF-CF); Blackmon Scores; Profar Scores; Díaz to 3B
+b5;4-1;1;1-3;6,(3-2) BB.CBTX;RO;COL;Ryan McMahon;Huascar Brazoban;1%;91%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Díaz Scores; McMahon to 1B
+;;;;;;;;;Force Play Challenged by COL manager (Bud Black): Original call overturned as shown.
+b5;5-1;2;1--;1,(0-0) >C;;COL;Harold Castro;Huascar Brazoban;0%;91%;McMahon Steals 2B
+b5;5-1;2;-2-;5,(2-2) >C.BFBX;O;COL;Harold Castro;Huascar Brazoban;-1%;90%;Groundout: P-1B
+;;;;;;;;;4 runs, 3 hits, 0 errors, 1 LOB. Marlins 1, Rockies 5.
+Top of the 6th, Marlins Batting, Behind 1-5, Rockies' Austin Gomber facing 1-2-3 
+t6;1-5;0;---;10,(3-2) CBC.BFFFBFB;;MIA;Jon Berti;Austin Gomber;-3%;87%;Walk
+t6;1-5;0;1--;1,(0-0) X;O;MIA;Jorge Soler;Austin Gomber;3%;90%;Lineout: LF (Deep LF)
+t6;1-5;1;1--;5,(1-2) CCF*BX;O;MIA;Luis Arraez;Austin Gomber;2%;93%;Foul Popfly: 3B (3B into Foul Terr.)
+t6;1-5;2;1--;1,(0-0) X;RR;MIA;Garrett Cooper;Austin Gomber;-11%;82%;Home Run (Fly Ball to Deep RF); Berti Scores
+;;;;;;;;;Jake Bird replaces Austin Gomber pitching
+t6;3-5;2;---;6,(3-2) .CBBFBX;;MIA;Bryan De La Cruz;Jake Bird;-2%;80%;Single to LF (Line Drive to Short LF)
+t6;3-5;2;1--;3,(1-1) BSX;;MIA;Yuli Gurriel;Jake Bird;-3%;77%;Single to RF (Line Drive to Deep RF); De La Cruz to 2B
+t6;3-5;2;12-;6,(2-2) CSBFBS;O;MIA;Jean Segura;Jake Bird;6%;83%;Strikeout Swinging; Segura out at 1B/C-1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Marlins 3, Rockies 5.
+Bottom of the 6th, Rockies Batting, Ahead 5-3, Marlins' Huascar Brazoban facing 7-8-9 
+b6;5-3;0;---;5,(2-2) BBCCS;O;COL;Brenton Doyle;Huascar Brazoban;-2%;82%;Strikeout Swinging
+b6;5-3;1;---;5,(0-2) CF.FFX;O;COL;Michael Toglia;Huascar Brazoban;-1%;80%;Groundout: SS-1B (Weak SS-2B)
+b6;5-3;2;---;8,(2-2) CSBBFFFX;O;COL;Ezequiel Tovar;Huascar Brazoban;-1%;80%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 3, Rockies 5.
+Top of the 7th, Marlins Batting, Behind 3-5, Rockies' Brent Suter facing 8-9-1 
+;;;;;;;;;Brent Suter replaces Jake Bird pitching
+t7;3-5;0;---;3,(1-1) .CBX;;MIA;Nick Fortes;Brent Suter;-6%;74%;Single to P (Ground Ball)
+t7;3-5;0;1--;4,(1-2) BSS.S;O;MIA;Garrett Hampson;Brent Suter;6%;79%;Strikeout Swinging
+t7;3-5;1;1--;2,(0-1) FX;;MIA;Jon Berti;Brent Suter;-6%;73%;Single to RF (Line Drive to Short RF); Fortes to 2B
+t7;3-5;1;12-;3,(0-2) CCC;O;MIA;Jorge Soler;Brent Suter;7%;81%;Strikeout Looking
+t7;3-5;2;12-;1,(0-0) X;O;MIA;Luis Arraez;Brent Suter;7%;88%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Marlins 3, Rockies 5.
+Bottom of the 7th, Rockies Batting, Ahead 5-3, Marlins' Andrew Nardi facing 1-2-3 
+;;;;;;;;;Andrew Nardi replaces Huascar Brazoban pitching
+b7;5-3;0;---;6,(3-2) .CBFBBX;O;COL;Charlie Blackmon;Andrew Nardi;-1%;86%;Groundout: 3B-1B (SS-3B Hole)
+b7;5-3;1;---;2,(0-1) FX;O;COL;Jurickson Profar;Andrew Nardi;-1%;85%;Lineout: P
+b7;5-3;2;---;1,(0-0) X;;COL;Elias Díaz;Andrew Nardi;1%;87%;Double to LF (Line Drive to Deep LF)
+b7;5-3;2;-2-;,(3-0) VVVV;;COL;Randal Grichuk;Andrew Nardi;0%;87%;Intentional Walk
+b7;5-3;2;12-;6,(3-2) FBBSB>C;O;COL;Ryan McMahon;Andrew Nardi;-2%;84%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Marlins 3, Rockies 5.
+Top of the 8th, Marlins Batting, Behind 3-5, Rockies' Brent Suter facing 4-5-6 
+t8;3-5;0;---;4,(2-1) BBCX;O;MIA;Garrett Cooper;Brent Suter;4%;89%;Groundout: 2B-1B
+t8;3-5;1;---;6,(3-2) BCBBS.B;;MIA;Bryan De La Cruz;Brent Suter;-5%;84%;Walk
+t8;3-5;1;1--;4,(2-1) BCBX;;MIA;Yuli Gurriel;Brent Suter;-7%;77%;Single to 1B (Ground Ball); De La Cruz to 2B
+t8;3-5;1;12-;7,(2-2) CFBBFF.X;O;MIA;Jean Segura;Brent Suter;8%;85%;Groundout: P-2B/Forceout at 2B; De La Cruz to 3B; Segura to 1B
+t8;3-5;2;1-3;3,(1-1) CBX;O;MIA;Nick Fortes;Brent Suter;8%;93%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Marlins 3, Rockies 5.
+Bottom of the 8th, Rockies Batting, Ahead 5-3, Marlins' Matt Barnes facing 6-7-8 
+;;;;;;;;;Matt Barnes replaces Andrew Nardi pitching
+b8;5-3;0;---;2,(0-1) .FX;O;COL;Harold Castro;Matt Barnes;-1%;92%;Groundout: 2B-1B
+b8;5-3;1;---;4,(1-2) FCBS;O;COL;Brenton Doyle;Matt Barnes;-1%;92%;Strikeout Swinging
+b8;5-3;2;---;5,(2-2) SBBSX;O;COL;Michael Toglia;Matt Barnes;0%;91%;Groundout: P-1B (Short 1B Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 3, Rockies 5.
+Top of the 9th, Marlins Batting, Behind 3-5, Rockies' Pierce Johnson facing 9-1-2 
+;;;;;;;;;Pierce Johnson replaces Brent Suter pitchingJoey Wendle pinch hits for Garrett Hampson (CF) batting 9th
+t9;3-5;0;---;3,(0-2) ..FC.S;O;MIA;Joey Wendle;Pierce Johnson;4%;96%;Strikeout Swinging
+t9;3-5;1;---;2,(0-1) CX;;MIA;Jon Berti;Pierce Johnson;-5%;90%;Single to RF (Line Drive to RF Line)
+;;;;;;;;; Challenged by COL manager (Bud Black): Original call upheld upon review.
+t9;3-5;1;1--;3,(1-1) BFX;R;MIA;Jorge Soler;Pierce Johnson;-14%;76%;Double to RF (Line Drive to Deep RF Line); Berti Scores
+;;;;;;;;;Jonathan Davis pinch runs for Jorge Soler (RF) batting 2nd
+t9;4-5;1;-2-;1,(0-0) .X;O;MIA;Luis Arraez;Pierce Johnson;12%;88%;Flyball: LF (LF Line)
+t9;4-5;2;-2-;3,(1-1) SBX;O;MIA;Garrett Cooper;Pierce Johnson;12%;100%;Flyball: RF (Deep RF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Marlins 4, Rockies 5.

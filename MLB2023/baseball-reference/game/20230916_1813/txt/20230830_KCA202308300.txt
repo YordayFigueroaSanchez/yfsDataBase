@@ -1,0 +1,255 @@
+
+Scorebox Meta
+20230830
+7:10 p.m. Local
+10592
+Kauffman Stadium
+145
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/PIT-2023.png;/teams/PIT/2023.shtml;1;2;0;0;0;0;1;0;0;4;6;0
+https://cdn.ssref.net/req/202309121/tlogo/br/KCR-2023.png;/teams/KCR/2023.shtml;0;0;0;1;0;0;0;0;0;1;4;1
+
+Batting home
+Maikel Garcia;/players/g/garcima01.shtml;3B;3;0;1;0;1;2;4;.277;.323;.373;.696;19;12;0.068; 0.81;0.102;-0.034;0%; 0.00; 0.8;4;5;3B
+Bobby Witt;/players/w/wittbo02.shtml;SS;4;1;1;1;0;1;4;.276;.317;.501;.817;17;11;-0.020; 1.35;0.095;-0.115;0%; 0.00; 0.0;1;4;HR
+MJ Melendez;/players/m/melenmj01.shtml;LF;4;0;0;0;0;3;4;.231;.300;.384;.683;22;14;-0.109; 1.03;0.000;-0.109;0%; 0.00; -1.2;0;0;
+Nelson Velázquez;/players/v/velazne01.shtml;DH;3;0;0;0;1;1;4;.225;.279;.563;.842;14;8;-0.011; 0.85;0.050;-0.060;0%; 0.00; -0.4;;;
+Matt Beaty;/players/b/beatyma01.shtml;1B;3;0;0;0;0;1;3;.250;.344;.321;.665;12;7;-0.074; 1.03;0.000;-0.074;0%; 0.00; -0.6;10;0;
+Freddy Fermin;/players/f/fermifr01.shtml;C;2;0;1;0;1;0;3;.284;.318;.482;.800;16;9;0.004; 1.02;0.064;-0.061;0%; 0.00; -0.0;6;0;GDP
+Dairon Blanco;/players/b/blancda02.shtml;RF;3;0;0;0;0;1;3;.237;.308;.412;.721;11;8;-0.156; 1.31;0.000;-0.156;0%; 0.00; -1.3;1;0;GDP
+Samad Taylor;/players/t/taylosa04.shtml;2B;3;0;1;0;0;1;3;.207;.288;.276;.564;15;10;-0.006; 0.71;0.032;-0.038;0%; 0.00; -0.1;3;2;
+Kyle Isbel;/players/i/isbelky01.shtml;CF;3;0;0;0;0;0;3;.235;.265;.377;.642;11;6;-0.109; 1.15;0.000;-0.109;0%; 0.00; -0.9;2;0;GDP
+Angel Zerpa;/players/z/zerpaan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Collin Snider;/players/s/snideco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Taylor Clarke;/players/c/clarkta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jackson Kowar;/players/k/kowarja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+3B: Maikel Garcia (3, off David Bednar).
+
+
+HR: Bobby Witt (27, off Andre Jackson, 4th inn, 0 on, 0 outs to Deep LF-CF).
+
+
+TB: Bobby Witt 4; Maikel Garcia 3; Samad Taylor; Freddy Fermin.
+
+
+GIDP: Dairon Blanco (2); Freddy Fermin (7); Kyle Isbel (5).
+
+
+RBI: Bobby Witt (82).
+
+
+Team LOB: 3.
+With RISP: 0 for 3.
+
+Batting away
+Connor Joe;/players/j/joeco01.shtml;RF;4;0;0;0;0;0;4;.247;.344;.426;.769;17;8;-0.064; 0.60;0.000;-0.064;0%; 0.00; -1.0;2;0;
+Ji Hwan Bae;/players/b/baeji01.shtml;CF;0;0;0;0;0;0;0;.240;.309;.316;.625;;;;;;;;;;1;0;
+Bryan Reynolds;/players/r/reynobr01.shtml;LF;3;1;2;1;1;0;4;.265;.326;.467;.793;18;11;0.117; 0.43;0.127;-0.009;0%; 0.00; 1.5;0;0;HR
+Andrew McCutchen;/players/m/mccutan01.shtml;DH;3;0;0;0;1;0;4;.247;.367;.386;.753;17;10;-0.024; 0.62;0.022;-0.046;0%; 0.00; -0.6;;;
+Endy Rodríguez;/players/r/rodrien01.shtml;C;4;0;0;0;0;2;4;.236;.300;.373;.673;14;10;-0.084; 0.64;0.000;-0.084;0%; 0.00; -1.2;10;0;GDP
+Liover Peguero;/players/p/pegueli01.shtml;2B;4;1;1;0;0;1;4;.248;.298;.448;.746;14;11;0.029; 0.45;0.056;-0.027;0%; 0.00; 0.0;4;4;2B
+Vinny Capra;/players/c/capravi01.shtml;3B;3;1;1;1;1;1;4;.200;.294;.267;.561;17;7;0.086; 0.59;0.105;-0.019;0%; 0.00; 1.0;1;2;2B
+Jack Suwinski;/players/s/suwinja01.shtml;CF-RF;4;1;2;2;0;1;4;.207;.334;.445;.779;13;9;0.128; 0.60;0.149;-0.021;0%; 0.00; 1.4;3;0;HR
+Alika Williams;/players/w/willial04.shtml;SS;3;0;0;0;0;1;3;.203;.284;.266;.550;9;8;-0.058; 0.61;0.000;-0.058;0%; 0.00; -1.1;2;2;GDP
+Alfonso Rivas;/players/r/rivasal01.shtml;1B;3;0;0;0;0;0;3;.197;.301;.394;.696;12;7;-0.045; 0.55;0.000;-0.045;0%; 0.00; -0.7;3;1;
+Andre Jackson;/players/j/jacksan01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Ryan Borucki;/players/b/borucry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Thomas Hatch;/players/h/hatchto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Colin Holderman;/players/h/holdeco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+David Bednar;/players/b/bednada01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Liover Peguero (3, off Angel Zerpa); Vinny Capra (1, off Angel Zerpa).
+
+
+HR: Bryan Reynolds (19, off Angel Zerpa, 1st inn, 0 on, 1 out to Deep LF-CF); Jack Suwinski (22, off Collin Snider, 7th inn, 0 on, 1 out to Deep CF).
+
+
+TB: Jack Suwinski 5; Bryan Reynolds 5; Liover Peguero 2; Vinny Capra 2.
+
+
+GIDP: Alika Williams (2); Endy Rodríguez (1).
+
+
+RBI: Jack Suwinski 2 (56); Vinny Capra (1); Bryan Reynolds (65).
+
+
+Team LOB: 3.
+With RISP: 2 for 4.
+
+Pitching home
+Angel Zerpa;/players/z/zerpaan01.shtml; L (1-3); 5.2;5;3;3;2;3;1;7.04;22;84;49;29;6;14;10;7;5;0;48;;;-0.064; 0.71; 0.00%; 0.00; -0.0
+Collin Snider;/players/s/snideco01.shtml;Collin Snider; 1.1;1;1;1;0;1;1;5.87;5;23;16;9;2;5;1;3;0;0;;0;0;-0.048; 0.38; 0.00%; 0.00; -0.4
+Taylor Clarke;/players/c/clarkta01.shtml;Taylor Clarke; 1 ;0;0;0;1;1;0;5.44;4;14;9;5;3;1;0;2;0;0;;0;0;0.016; 0.28; 0.00%; 0.00; 0.5
+Jackson Kowar;/players/k/kowarja01.shtml;Jackson Kowar; 1 ;0;0;0;0;1;0;6.38;3;10;7;3;2;2;1;1;0;0;;0;0;0.009; 0.11; 0.00%; 0.00; 0.5
+
+Pitching away
+Andre Jackson;/players/j/jacksan01.shtml; W (1-1); 5.2;2;1;1;2;7;1;4.46;20;86;54;31;7;16;3;8;3;0;66;;;0.224; 0.90; 0.00%; 0.00; 1.9
+Ryan Borucki;/players/b/borucry01.shtml; H (4); 0.1;0;0;0;0;1;0;3.49;1;4;3;1;2;0;0;0;0;0;;1;0;0.035; 1.23; 0.00%; 0.01; 0.2
+Thomas Hatch;/players/h/hatchto01.shtml; H (3); 1 ;0;0;0;1;0;0;3.20;3;15;8;7;1;0;2;0;0;0;;0;0;0.057; 1.51; 0.00%; 0.01; 0.5
+Colin Holderman;/players/h/holdeco01.shtml; H (23); 1 ;1;0;0;0;1;0;3.06;3;14;9;5;0;4;2;0;0;0;;0;0;0.054; 1.06; 0.00%; 0.01; 0.5
+David Bednar;/players/b/bednada01.shtml; S (29); 1 ;1;0;0;0;1;0;2.13;4;18;11;7;3;1;0;3;1;0;;0;0;0.043; 1.21; 0.00%; 0.01; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: Angel Zerpa (1; Jack Suwinski, 1st base).
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: Angel Zerpa (1; Jack Suwinski, 1st base).
+
+section_content
+Umpires: HP - Pat Hoberg, 1B - Tom Hanahan, 2B - Nestor Ceja, 3B - Brian O'Nora, LF - (none), RF - (none).
+Time of Game: 2:25.
+Attendance: 10,592.
+Field Condition: Unknown.
+Start Time Weather: 83° F, Wind 9mph from Right to Left, Sunny, No Precipitation.
+
+div_lineups
+Pirates
+1;Connor Joe;/players/j/joeco01.shtml;RF
+2;Bryan Reynolds;/players/r/reynobr01.shtml;LF
+3;Andrew McCutchen;/players/m/mccutan01.shtml;DH
+4;Endy Rodríguez;/players/r/rodrien01.shtml;C
+5;Liover Peguero;/players/p/pegueli01.shtml;2B
+6;Vinny Capra;/players/c/capravi01.shtml;3B
+7;Jack Suwinski;/players/s/suwinja01.shtml;CF
+8;Alika Williams;/players/w/willial04.shtml;SS
+9;Alfonso Rivas;/players/r/rivasal01.shtml;1B
+; Andre Jackson;/players/j/jacksan01.shtml;P
+Royals
+1;Maikel Garcia;/players/g/garcima01.shtml;3B
+2;Bobby Witt;/players/w/wittbo02.shtml;SS
+3;MJ Melendez;/players/m/melenmj01.shtml;LF
+4;Nelson Velázquez;/players/v/velazne01.shtml;DH
+5;Matt Beaty;/players/b/beatyma01.shtml;1B
+6;Freddy Fermin;/players/f/fermifr01.shtml;C
+7;Dairon Blanco;/players/b/blancda02.shtml;RF
+8;Samad Taylor;/players/t/taylosa04.shtml;2B
+9;Kyle Isbel;/players/i/isbelky01.shtml;CF
+; Angel Zerpa;/players/z/zerpaan01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b5;1-3;0;1--;3,(2-0) *BBX;OO;KCR;Dairon Blanco;Andre Jackson;11%;76%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+t1;0-0;1;---;6,(2-2) BCF.FBX;R;PIT;Bryan Reynolds;Angel Zerpa;10%;58%;Home Run (Line Drive to Deep LF-CF)
+b4;0-3;0;---;2,(0-1) CX;R;KCR;Bobby Witt;Andre Jackson;-10%;69%;Home Run (Fly Ball to Deep LF-CF)
+t2;1-0;0;-2-;3,(2-0) BBX;R;PIT;Vinny Capra;Angel Zerpa;9%;74%;Double to LF (Ground Ball); Peguero Scores
+t7;3-1;1;---;2,(0-1) SX;R;PIT;Jack Suwinski;Collin Snider;8%;88%;Home Run (Fly Ball to Deep CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Pirates Batting, Tied 0-0, Royals' Angel Zerpa facing 1-2-3 
+t1;0-0;0;---;6,(3-2) CCBBBX;O;PIT;Connor Joe;Angel Zerpa;-2%;48%;Groundout: SS-1B
+t1;0-0;1;---;6,(2-2) BCF.FBX;R;PIT;Bryan Reynolds;Angel Zerpa;10%;58%;Home Run (Line Drive to Deep LF-CF)
+t1;1-0;1;---;8,(3-2) BBBCS.FFB;;PIT;Andrew McCutchen;Angel Zerpa;2%;60%;Walk
+t1;1-0;1;1--;5,(3-1) BFBBX;OO;PIT;Endy Rodríguez;Angel Zerpa;-5%;55%;Ground Ball Double Play: 3B-2B-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Pirates 1, Royals 0.
+Bottom of the 1st, Royals Batting, Behind 0-1, Pirates' Andre Jackson facing 1-2-3 
+b1;0-1;0;---;4,(1-2) CBCS;O;KCR;Maikel Garcia;Andre Jackson;2%;58%;Strikeout Swinging
+b1;0-1;1;---;6,(2-2) CBBFFT;O;KCR;Bobby Witt;Andre Jackson;2%;59%;Strikeout Swinging
+b1;0-1;2;---;6,(3-2) BCFBBS;O;KCR;MJ Melendez;Andre Jackson;1%;60%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 1, Royals 0.
+Top of the 2nd, Pirates Batting, Ahead 1-0, Royals' Angel Zerpa facing 5-6-7 
+t2;1-0;0;---;2,(0-1) CX;;PIT;Liover Peguero;Angel Zerpa;6%;66%;Double to LF (Line Drive to LF-CF)
+t2;1-0;0;-2-;3,(2-0) BBX;R;PIT;Vinny Capra;Angel Zerpa;9%;74%;Double to LF (Ground Ball); Peguero Scores
+t2;2-0;0;-2-;2,(1-0) *BX;R;PIT;Jack Suwinski;Angel Zerpa;5%;80%;Single to RF (Ground Ball); Capra Scores
+t2;3-0;0;1--;3,(0-2) FCS;O;PIT;Alika Williams;Angel Zerpa;-2%;78%;Strikeout Swinging
+t2;3-0;1;1--;1,(0-1) C1;;PIT;Alfonso Rivas;Angel Zerpa;1%;79%;Suwinski Picked off 1B, safe on E1 (throw); Suwinski to 2B
+t2;3-0;1;-2-;5,(2-2) C1.FBBX;O;PIT;Alfonso Rivas;Angel Zerpa;-2%;77%;Flyball: CF
+t2;3-0;2;-2-;6,(3-2) CBCBB.X;O;PIT;Connor Joe;Angel Zerpa;-2%;75%;Groundout: SS-1B
+;;;;;;;;;2 runs, 3 hits, 1 error, 1 LOB. Pirates 3, Royals 0.
+Bottom of the 2nd, Royals Batting, Behind 0-3, Pirates' Andre Jackson facing 4-5-6 
+b2;0-3;0;---;4,(1-2) CBC.S;O;KCR;Nelson Velázquez;Andre Jackson;2%;77%;Strikeout Swinging
+b2;0-3;1;---;7,(3-2) CBFBBFC;O;KCR;Matt Beaty;Andre Jackson;2%;78%;Strikeout Looking
+b2;0-3;2;---;7,(3-2) BBBCFF.*B;;KCR;Freddy Fermin;Andre Jackson;-1%;77%;Walk
+b2;0-3;2;1--;3,(0-2) CFX;O;KCR;Dairon Blanco;Andre Jackson;2%;79%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Blanco to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Pirates 3, Royals 0.
+Top of the 3rd, Pirates Batting, Ahead 3-0, Royals' Angel Zerpa facing 2-3-4 
+t3;3-0;0;---;2,(0-1) CX;;PIT;Bryan Reynolds;Angel Zerpa;2%;81%;Single to RF (Line Drive)
+t3;3-0;0;1--;1,(0-0) X;O;PIT;Andrew McCutchen;Angel Zerpa;-2%;79%;Popfly: 3B (Short 3B Line)
+t3;3-0;1;1--;1,(0-0) X;O;PIT;Endy Rodríguez;Angel Zerpa;-2%;78%;Lineout: 3B (SS-3B Hole)
+t3;3-0;2;1--;2,(0-1) CX;O;PIT;Liover Peguero;Angel Zerpa;-1%;76%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 3, Royals 0.
+Bottom of the 3rd, Royals Batting, Behind 0-3, Pirates' Andre Jackson facing 8-9-1 
+b3;0-3;0;---;8,(3-2) BBFFFFBS;O;KCR;Samad Taylor;Andre Jackson;2%;79%;Strikeout Swinging
+b3;0-3;1;---;3,(1-1) BSX;O;KCR;Kyle Isbel;Andre Jackson;2%;80%;Flyball: RF (RF Line)
+b3;0-3;2;---;3,(0-2) CCS;O;KCR;Maikel Garcia;Andre Jackson;1%;81%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 3, Royals 0.
+Top of the 4th, Pirates Batting, Ahead 3-0, Royals' Angel Zerpa facing 6-7-8 
+t4;3-0;0;---;4,(3-0) BBBB;;PIT;Vinny Capra;Angel Zerpa;2%;83%;Walk
+t4;3-0;0;1--;6,(2-2) CFFBBS;O;PIT;Jack Suwinski;Angel Zerpa;-2%;81%;Strikeout Swinging
+t4;3-0;1;1--;3,(1-1) C1BX;OO;PIT;Alika Williams;Angel Zerpa;-3%;78%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 3, Royals 0.
+Bottom of the 4th, Royals Batting, Behind 0-3, Pirates' Andre Jackson facing 2-3-4 
+b4;0-3;0;---;2,(0-1) CX;R;KCR;Bobby Witt;Andre Jackson;-10%;69%;Home Run (Fly Ball to Deep LF-CF)
+b4;1-3;0;---;7,(2-2) BFC.FBFX;O;KCR;MJ Melendez;Andre Jackson;3%;72%;Lineout: RF (Deep RF)
+b4;1-3;1;---;1,(0-0) X;O;KCR;Nelson Velázquez;Andre Jackson;2%;74%;Flyball: CF (Deep CF)
+b4;1-3;2;---;4,(2-1) CBBX;O;KCR;Matt Beaty;Andre Jackson;1%;75%;Popfly: 2B (Short CF-RF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Pirates 3, Royals 1.
+Top of the 5th, Pirates Batting, Ahead 3-1, Royals' Angel Zerpa facing 9-1-2 
+t5;3-1;0;---;2,(1-0) BX;O;PIT;Alfonso Rivas;Angel Zerpa;-2%;73%;Lineout: 3B
+t5;3-1;1;---;4,(3-0) BBBX;O;PIT;Connor Joe;Angel Zerpa;-1%;72%;Groundout: 3B-1B (Deep 3B)
+t5;3-1;2;---;2,(1-0) BX;O;PIT;Bryan Reynolds;Angel Zerpa;-1%;71%;Groundout: SS-1B (Deep SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 3, Royals 1.
+Bottom of the 5th, Royals Batting, Behind 1-3, Pirates' Andre Jackson facing 6-7-8 
+b5;1-3;0;---;2,(0-1) SX;;KCR;Freddy Fermin;Andre Jackson;-5%;66%;Single to LF (Line Drive)
+b5;1-3;0;1--;3,(2-0) *BBX;OO;KCR;Dairon Blanco;Andre Jackson;11%;76%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b5;1-3;2;---;3,(1-1) BCX;O;KCR;Samad Taylor;Andre Jackson;1%;78%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Pirates 3, Royals 1.
+Top of the 6th, Pirates Batting, Ahead 3-1, Royals' Angel Zerpa facing 3-4-5 
+t6;3-1;0;---;7,(3-2) CBBSBFX;O;PIT;Andrew McCutchen;Angel Zerpa;-2%;76%;Groundout: 3B-1B (Weak 3B)
+t6;3-1;1;---;4,(0-2) FSFS;O;PIT;Endy Rodríguez;Angel Zerpa;-1%;75%;Strikeout Swinging
+;;;;;;;;;Collin Snider replaces Angel Zerpa pitching
+t6;3-1;2;---;7,(3-2) .CBFBBFX;O;PIT;Liover Peguero;Collin Snider;-1%;74%;Groundout: SS-1B (Deep SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 3, Royals 1.
+Bottom of the 6th, Royals Batting, Behind 1-3, Pirates' Andre Jackson facing 9-1-2 
+b6;1-3;0;---;3,(1-1) LBX;O;KCR;Kyle Isbel;Andre Jackson;4%;77%;Groundout: 1B-P
+b6;1-3;1;---;6,(3-2) BBFFBB;;KCR;Maikel Garcia;Andre Jackson;-4%;73%;Walk
+b6;1-3;1;1--;4,(2-1) FB1B1X;O;KCR;Bobby Witt;Andre Jackson;5%;78%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;Ryan Borucki replaces Andre Jackson pitching
+b6;1-3;2;1--;4,(1-2) .1FBSS;O;KCR;MJ Melendez;Ryan Borucki;4%;81%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Pirates 3, Royals 1.
+Top of the 7th, Pirates Batting, Ahead 3-1, Royals' Collin Snider facing 6-7-8 
+t7;3-1;0;---;6,(2-2) CCBBFS;O;PIT;Vinny Capra;Collin Snider;-2%;80%;Strikeout Swinging
+t7;3-1;1;---;2,(0-1) SX;R;PIT;Jack Suwinski;Collin Snider;8%;88%;Home Run (Fly Ball to Deep CF)
+t7;4-1;1;---;3,(0-2) CF.X;O;PIT;Alika Williams;Collin Snider;-1%;88%;Popfly: 3B
+t7;4-1;2;---;5,(2-2) BCFBX;O;PIT;Alfonso Rivas;Collin Snider;-1%;87%;Flyball: RF (Deep RF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Pirates 4, Royals 1.
+Bottom of the 7th, Royals Batting, Behind 1-4, Pirates' Thomas Hatch facing 4-5-6 
+;;;;;;;;;Thomas Hatch replaces Ryan Borucki pitching
+b7;1-4;0;---;7,(3-2) .FBFBFB.B;;KCR;Nelson Velázquez;Thomas Hatch;-5%;82%;Walk
+b7;1-4;0;1--;1,(0-0) X;O;KCR;Matt Beaty;Thomas Hatch;5%;87%;Groundout: 2B-SS/Forceout at 2B; Beaty to 1B
+b7;1-4;1;1--;7,(3-2) .BFBSBFX;OO;KCR;Freddy Fermin;Thomas Hatch;6%;93%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 4, Royals 1.
+Top of the 8th, Pirates Batting, Ahead 4-1, Royals' Taylor Clarke facing 1-2-3 
+;;;;;;;;;Taylor Clarke replaces Collin Snider pitching
+t8;4-1;0;---;1,(0-0) .X;O;PIT;Connor Joe;Taylor Clarke;-1%;92%;Popfly: 2B
+t8;4-1;1;---;8,(3-2) SBBS.FFBB;;PIT;Bryan Reynolds;Taylor Clarke;1%;93%;Walk
+t8;4-1;1;1--;1,(0-0) 1X;O;PIT;Andrew McCutchen;Taylor Clarke;-1%;92%;Flyball: CF (Deep CF)
+t8;4-1;2;1--;4,(1-2) B1FC.>S;O;PIT;Endy Rodríguez;Taylor Clarke;-1%;91%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Pirates 4, Royals 1.
+Bottom of the 8th, Royals Batting, Behind 1-4, Pirates' Colin Holderman facing 7-8-9 
+;;;;;;;;;Colin Holderman replaces Thomas Hatch pitchingJi Hwan Bae replaces Connor Joe (RF) playing CF batting 1stJack Suwinski moves from CF to RF 
+b8;1-4;0;---;5,(1-2) ...CTFBC;O;KCR;Dairon Blanco;Colin Holderman;3%;94%;Strikeout Looking
+b8;1-4;1;---;4,(1-2) FCBX;;KCR;Samad Taylor;Colin Holderman;-3%;91%;Single to SS (Ground Ball to SS-2B)
+b8;1-4;1;1--;5,(3-1) BBC.BX;OO;KCR;Kyle Isbel;Colin Holderman;6%;97%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Pirates 4, Royals 1.
+Top of the 9th, Pirates Batting, Ahead 4-1, Royals' Jackson Kowar facing 5-6-7 
+;;;;;;;;;Jackson Kowar replaces Taylor Clarke pitching
+t9;4-1;0;---;3,(0-2) .CSS;O;PIT;Liover Peguero;Jackson Kowar;0%;96%;Strikeout Swinging
+t9;4-1;1;---;4,(2-1) CBBX;O;PIT;Vinny Capra;Jackson Kowar;0%;96%;Groundout: 3B-1B
+t9;4-1;2;---;3,(1-1) BFX;O;PIT;Jack Suwinski;Jackson Kowar;0%;96%;Popfly: SS (Short CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 4, Royals 1.
+Bottom of the 9th, Royals Batting, Behind 1-4, Pirates' David Bednar facing 1-2-3 
+;;;;;;;;;David Bednar replaces Colin Holderman pitching
+b9;1-4;0;---;6,(2-2) .SFBFBX;;KCR;Maikel Garcia;David Bednar;-6%;90%;Triple to CF (Line Drive to Deep CF)
+b9;1-4;0;--3;5,(2-2) FBS*BX;O;KCR;Bobby Witt;David Bednar;5%;95%;Flyball: CF
+b9;1-4;1;--3;5,(2-2) BCBFS;O;KCR;MJ Melendez;David Bednar;3%;98%;Strikeout Swinging
+b9;1-4;2;--3;2,(1-0) *BX;O;KCR;Nelson Velázquez;David Bednar;2%;100%;Popfly: 3B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 4, Royals 1.

@@ -1,0 +1,271 @@
+
+Scorebox Meta
+20230408
+3:05 p.m. Local
+33578
+Wrigley Field
+175
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/TEX-2023.png;/teams/TEX/2023.shtml;0;0;1;0;0;0;1;0;1;3;7;5
+https://cdn.ssref.net/req/202308101/tlogo/br/CHC-2023.png;/teams/CHC/2023.shtml;1;0;1;1;0;2;1;4;X;10;14;0
+
+Batting home
+Nico Hoerner;/players/h/hoernni01.shtml;2B;5;2;2;0;0;2;5;.333;.333;.394;.727;26;16;-0.071; 0.50;0.010;-0.080;-0.04%; 0.47; -0.3;4;2;SB
+Dansby Swanson;/players/s/swansda01.shtml;SS;4;2;2;1;1;1;5;.429;.515;.500;1.015;17;9;0.145; 0.63;0.161;-0.015; 0.08%; 0.59; 1.4;1;1;
+Ian Happ;/players/h/happia01.shtml;LF;4;0;1;3;1;1;5;.375;.531;.625;1.156;23;12;-0.061; 0.83;0.025;-0.086;-0.03%; 0.78; 1.6;3;0;CS
+Trey Mancini;/players/m/mancitr01.shtml;1B;5;1;3;1;0;0;5;.259;.276;.259;.535;17;10;0.061; 0.39;0.071;-0.010; 0.03%; 0.36; 1.3;8;0;
+Patrick Wisdom;/players/w/wisdopa01.shtml;RF;4;2;2;1;0;2;4;.348;.400;.826;1.226;20;14;0.122; 0.64;0.149;-0.027; 0.07%; 0.59; 1.1;4;0;HR
+Luis Torrens;/players/t/torrelu01.shtml;DH;2;0;0;0;0;1;2;.167;.286;.167;.452;6;6;-0.031; 0.59;0.000;-0.031;-0.02%; 0.56; -0.4;;;
+Eric Hosmer;/players/h/hosmeer01.shtml;PH-DH-DH;2;0;1;2;0;1;2;.300;.364;.400;.764;7;5;0.055; 0.47;0.057;-0.001; 0.03%; 0.43; 0.9;;;
+Cody Bellinger;/players/b/bellico01.shtml;CF;4;0;0;0;0;0;4;.185;.267;.296;.563;21;15;0.005; 0.37;0.024;-0.019; 0.00%; 0.34; -0.4;2;0;SB
+Yan Gomes;/players/g/gomesya01.shtml;C;4;1;1;1;0;1;4;.118;.111;.294;.405;13;10;-0.039; 0.44;0.009;-0.047;-0.02%; 0.41; 0.3;5;1;HR
+Nick Madrigal;/players/m/madrini01.shtml;3B;4;2;2;0;0;0;4;.300;.364;.400;.764;21;16;0.046; 0.45;0.067;-0.021; 0.03%; 0.42; 0.3;0;3;2B
+Justin Steele;/players/s/steelju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Keegan Thompson;/players/t/thompke02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brad Boxberger;/players/b/boxbebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael Rucker;/players/r/ruckemi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Nick Madrigal (1, off Martín Pérez).
+
+
+HR: Patrick Wisdom (3, off Martín Pérez, 4th inn, 0 on, 0 outs to Deep LF-CF); Yan Gomes (1, off Taylor Hearn, 8th inn, 0 on, 2 outs to Deep LF Line).
+
+
+TB: Patrick Wisdom 5; Yan Gomes 4; Trey Mancini 3; Nick Madrigal 3; Dansby Swanson 2; Nico Hoerner 2; Eric Hosmer; Ian Happ.
+
+
+RBI: Ian Happ 3 (6); Eric Hosmer 2 (6); Yan Gomes (3); Patrick Wisdom (6); Trey Mancini (6); Dansby Swanson (3).
+
+
+2-out RBI: Ian Happ 2; Yan Gomes; Trey Mancini.
+
+
+Team LOB: 6.
+With RISP: 4 for 8.
+
+Batting away
+Marcus Semien;/players/s/semiema01.shtml;2B;5;1;1;0;0;0;5;.206;.222;.324;.546;15;11;-0.108; 0.86;0.000;-0.108;-0.06%; 0.82; -0.8;1;0;2B
+Corey Seager;/players/s/seageco01.shtml;SS;4;1;2;0;1;1;5;.276;.389;.345;.734;15;9;0.110; 0.87;0.139;-0.030; 0.06%; 0.84; 0.8;1;0;2B
+Nathaniel Lowe;/players/l/lowena01.shtml;1B;4;0;2;2;1;0;5;.273;.314;.424;.739;21;12;0.061; 0.82;0.100;-0.040; 0.03%; 0.79; 2.0;5;1;
+Adolis García;/players/g/garciad02.shtml;CF;4;0;0;0;1;1;5;.267;.333;.400;.733;24;13;-0.078; 1.24;0.026;-0.104;-0.04%; 1.19; -1.1;4;0;
+Josh Jung;/players/j/jungjo01.shtml;3B;4;0;1;1;0;1;4;.267;.313;.500;.813;13;9;-0.064; 1.75;0.077;-0.141;-0.04%; 1.68; -0.7;0;3;
+Robbie Grossman;/players/g/grossro01.shtml;RF;4;0;0;0;0;1;4;.185;.233;.333;.567;17;10;-0.110; 1.13;0.000;-0.110;-0.06%; 1.08; -1.2;3;0;
+Mitch Garver;/players/g/garvemi01.shtml;DH;2;0;0;0;2;1;4;.263;.364;.579;.943;18;8;-0.011; 0.83;0.045;-0.056;-0.01%; 0.80; -0.2;;;
+Jonah Heim;/players/h/heimjo01.shtml;C;4;0;1;0;0;0;4;.176;.176;.235;.412;19;14;-0.025; 0.91;0.039;-0.064;-0.01%; 0.87; -0.2;9;1;
+Ezequiel Duran;/players/d/duranez01.shtml;LF;2;0;0;0;0;1;2;.143;.143;.143;.286;10;7;-0.069; 1.47;0.000;-0.069;-0.04%; 1.41; -0.7;0;0;
+Josh H. Smith;/players/s/smithjo11.shtml;PH-LF;1;1;0;0;1;0;2;.286;.615;.286;.901;10;5;0.028; 0.32;0.028;0.000; 0.02%; 0.31; 0.1;0;0;
+Martín Pérez;/players/p/perezma02.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Ian Kennedy;/players/k/kenneia01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brock Burke;/players/b/burkebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Taylor Hearn;/players/h/hearnta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dane Dunning;/players/d/dunnida01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Corey Seager (2, off Justin Steele); Marcus Semien (1, off Michael Rucker).
+
+
+TB: Corey Seager 3; Nathaniel Lowe 2; Marcus Semien 2; Jonah Heim; Josh Jung.
+
+
+RBI: Nathaniel Lowe 2 (7); Josh Jung (5).
+
+
+2-out RBI: Nathaniel Lowe.
+
+
+Team LOB: 10.
+With RISP: 3 for 14.
+
+Pitching home
+Justin Steele;/players/s/steelju01.shtml; W (1-0); 6 ;4;1;1;4;3;0;0.75;26;96;60;38;11;11;9;10;4;0;59;;;0.241; 1.22; 0.14%; 1.14; 2.2
+Keegan Thompson;/players/t/thompke02.shtml;Keegan Thompson; 1 ;1;1;1;2;1;0;1.69;6;30;18;8;4;6;1;2;1;0;;0;0;0.001; 1.43; 0.00%; 1.34; -0.5
+Brad Boxberger;/players/b/boxbebr01.shtml;Brad Boxberger; 1 ;0;0;0;0;0;0;0.00;3;14;7;4;1;2;1;2;0;0;;0;0;0.025; 0.32; 0.01%; 0.30; 0.5
+Michael Rucker;/players/r/ruckemi01.shtml;Michael Rucker; 1 ;2;1;1;0;2;0;6.00;5;22;13;6;3;4;1;2;2;0;;0;0;0.001; 0.01; 0.00%; 0.01; -0.5
+
+Pitching away
+Martín Pérez;/players/p/perezma02.shtml; L (1-1); 5 ;5;3;2;0;5;1;2.53;20;90;66;40;9;17;6;9;4;0;52;;;-0.103; 0.81;-0.06%; 0.78; -0.4
+Ian Kennedy;/players/k/kenneia01.shtml;Ian Kennedy; 0.1;2;2;1;0;1;0;3.86;3;13;7;3;4;0;1;1;0;0;;0;0;-0.050; 0.54;-0.03%; 0.51; -0.9
+Brock Burke;/players/b/burkebr01.shtml;Brock Burke; 0.2;1;0;0;0;1;0;2.70;3;9;7;3;3;1;1;1;0;0;;2;2;-0.046; 0.44;-0.03%; 0.42; -0.6
+Taylor Hearn;/players/h/hearnta01.shtml;Taylor Hearn; 1.2;5;4;4;1;2;1;7.20;11;49;30;19;5;6;2;6;4;0;;0;0;-0.030; 0.17;-0.02%; 0.16; -1.4
+Dane Dunning;/players/d/dunnida01.shtml;Dane Dunning; 0.1;1;1;0;1;0;0;0.00;3;10;5;3;1;1;1;1;1;0;;2;2;-0.005; 0.04;-0.00%; 0.04; -2.5
+
+indiv_events
+
+Balks: Martín Pérez (2).
+WP: Keegan Thompson (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: Martín Pérez (2).
+WP: Keegan Thompson (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Charlie Ramos, 1B - Brian O'Nora, 2B - Pat Hoberg, 3B - Nestor Ceja, LF - (none), RF - (none).
+Time of Game: 2:55.
+Attendance: 33,578.
+Field Condition: Unknown.
+Start Time Weather: 57° F, Wind 10mph out to Leftfield, Sunny, No Precipitation.
+
+div_lineups
+Rangers
+1;Marcus Semien;/players/s/semiema01.shtml;2B
+2;Corey Seager;/players/s/seageco01.shtml;SS
+3;Nathaniel Lowe;/players/l/lowena01.shtml;1B
+4;Adolis García;/players/g/garciad02.shtml;CF
+5;Josh Jung;/players/j/jungjo01.shtml;3B
+6;Robbie Grossman;/players/g/grossro01.shtml;RF
+7;Mitch Garver;/players/g/garvemi01.shtml;DH
+8;Jonah Heim;/players/h/heimjo01.shtml;C
+9;Ezequiel Duran;/players/d/duranez01.shtml;LF
+; Martín Pérez;/players/p/perezma02.shtml;P
+Cubs
+1;Nico Hoerner;/players/h/hoernni01.shtml;2B
+2;Dansby Swanson;/players/s/swansda01.shtml;SS
+3;Ian Happ;/players/h/happia01.shtml;LF
+4;Trey Mancini;/players/m/mancitr01.shtml;1B
+5;Patrick Wisdom;/players/w/wisdopa01.shtml;RF
+6;Luis Torrens;/players/t/torrelu01.shtml;DH
+7;Cody Bellinger;/players/b/bellico01.shtml;CF
+8;Yan Gomes;/players/g/gomesya01.shtml;C
+9;Nick Madrigal;/players/m/madrini01.shtml;3B
+; Justin Steele;/players/s/steelju01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b4;2-1;0;---;4,(1-2) BFSX;R;CHC;Patrick Wisdom;Martín Pérez;10%;78%;Home Run (Fly Ball to Deep LF-CF)
+b3;1-1;1;-2-;5,(3-1) BBT*BX;R;CHC;Dansby Swanson;Martín Pérez;9%;67%;Single to RF (Line Drive to Deep 2B-1B); Madrigal Scores
+t3;0-1;1;1-3;2,(0-1) TX;R;TEX;Josh Jung;Justin Steele;-8%;46%;Single to RF (Line Drive to Short RF); Seager Scores; García to 2B
+t3;0-1;0;---;1,(0-0) X;;TEX;Corey Seager;Justin Steele;-7%;54%;Double to LF (Line Drive to Deep LF-CF)
+b3;1-1;0;---;7,(1-2) CCFBFFX;;CHC;Nick Madrigal;Martín Pérez;7%;62%;Double to RF (Line Drive to Short CF-RF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Rangers Batting, Tied 0-0, Cubs' Justin Steele facing 1-2-3 
+t1;0-0;0;---;3,(0-2) CSX;O;TEX;Marcus Semien;Justin Steele;2%;52%;Groundout: 3B-1B
+t1;0-0;1;---;1,(0-0) X;;TEX;Corey Seager;Justin Steele;-2%;50%;Single to RF (Ground Ball)
+t1;0-0;1;1--;8,(3-2) BCS*BFBFB;;TEX;Nathaniel Lowe;Justin Steele;-4%;46%;Walk; Seager to 2B
+t1;0-0;1;12-;2,(1-0) BX;O;TEX;Adolis García;Justin Steele;4%;50%;Groundout: SS unassisted/Forceout at 2B; Seager to 3B; García to 1B
+t1;0-0;2;1-3;4,(2-1) CBBX;O;TEX;Josh Jung;Justin Steele;5%;55%;Groundout: P-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Rangers 0, Cubs 0.
+Bottom of the 1st, Cubs Batting, Tied 0-0, Rangers' Martín Pérez facing 1-2-3 
+b1;0-0;0;---;3,(0-2) CS.C;O;CHC;Nico Hoerner;Martín Pérez;-2%;53%;Strikeout Looking
+b1;0-0;1;---;2,(1-0) BX;;CHC;Dansby Swanson;Martín Pérez;4%;57%;Single to SS (Ground Ball); Swanson to 2B/Adv on E6 (throw)
+b1;0-0;1;-2-;5,(1-2) SSBFFN;;CHC;Ian Happ;Martín Pérez;3%;59%;Balk; Swanson to 3B
+b1;0-0;1;--3;7,(2-2) SSBFFN.BX;RO;CHC;Ian Happ;Martín Pérez;2%;61%;Groundout: 1B unassisted (Weak 1B); Swanson Scores/unER
+b1;1-0;2;---;3,(1-1) FBX;O;CHC;Trey Mancini;Martín Pérez;-1%;60%;Popfly: 2B (Short CF-RF)
+;;;;;;;;;1 run, 1 hit, 1 error, 0 LOB. Rangers 0, Cubs 1.
+Top of the 2nd, Rangers Batting, Behind 0-1, Cubs' Justin Steele facing 6-7-8 
+t2;0-1;0;---;4,(2-1) BFBX;O;TEX;Robbie Grossman;Justin Steele;2%;63%;Popfly: 2B
+t2;0-1;1;---;5,(3-1) BCBBB;;TEX;Mitch Garver;Justin Steele;-3%;60%;Walk
+t2;0-1;1;1--;4,(1-2) BFCX;;TEX;Jonah Heim;Justin Steele;-4%;56%;Single to 2B (Ground Ball to Front of Home); Garver to 2B
+t2;0-1;1;12-;3,(0-2) CFS;O;TEX;Ezequiel Duran;Justin Steele;5%;61%;Strikeout Swinging
+t2;0-1;2;12-;3,(1-1) SBX;O;TEX;Marcus Semien;Justin Steele;5%;66%;Popfly: 2B (Deep 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Rangers 0, Cubs 1.
+Bottom of the 2nd, Cubs Batting, Ahead 1-0, Rangers' Martín Pérez facing 5-6-7 
+b2;1-0;0;---;3,(0-2) FSC;O;CHC;Patrick Wisdom;Martín Pérez;-2%;63%;Strikeout Looking
+b2;1-0;1;---;3,(0-2) CFX;O;CHC;Luis Torrens;Martín Pérez;-1%;62%;Flyball: RF (Short RF)
+b2;1-0;2;---;7,(2-2) CBBCF.FX;;CHC;Cody Bellinger;Martín Pérez;1%;63%;Reached on E4 (Ground Ball to 2B-1B); Bellinger to 1B
+b2;1-0;2;1--;1,(0-0) >C;;CHC;Yan Gomes;Martín Pérez;1%;64%;Bellinger Steals 2B; Bellinger to 3B/Adv on E2 (throw)
+b2;1-0;2;--3;2,(0-1) >C.X;O;CHC;Yan Gomes;Martín Pérez;-3%;61%;Groundout: 3B-1B (Short 3B Line)
+;;;;;;;;;0 runs, 0 hits, 2 errors, 1 LOB. Rangers 0, Cubs 1.
+Top of the 3rd, Rangers Batting, Behind 0-1, Cubs' Justin Steele facing 2-3-4 
+t3;0-1;0;---;1,(0-0) X;;TEX;Corey Seager;Justin Steele;-7%;54%;Double to LF (Line Drive to Deep LF-CF)
+t3;0-1;0;-2-;1,(0-0) X;O;TEX;Nathaniel Lowe;Justin Steele;2%;56%;Flyball: LF (Deep LF-CF); Seager to 3B
+t3;0-1;1;--3;5,(3-1) BBBCB;;TEX;Adolis García;Justin Steele;-3%;54%;Walk
+t3;0-1;1;1-3;2,(0-1) TX;R;TEX;Josh Jung;Justin Steele;-8%;46%;Single to RF (Line Drive to Short RF); Seager Scores; García to 2B
+t3;1-1;1;12-;4,(1-2) FBFX;O;TEX;Robbie Grossman;Justin Steele;5%;51%;Popfly: 2B (Deep SS-2B)
+t3;1-1;2;12-;3,(0-2) FFS;O;TEX;Mitch Garver;Justin Steele;5%;56%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Rangers 1, Cubs 1.
+Bottom of the 3rd, Cubs Batting, Tied 1-1, Rangers' Martín Pérez facing 9-1-2 
+b3;1-1;0;---;7,(1-2) CCFBFFX;;CHC;Nick Madrigal;Martín Pérez;7%;62%;Double to RF (Line Drive to Short CF-RF)
+b3;1-1;0;-2-;8,(3-2) BBBCFFF.C;O;CHC;Nico Hoerner;Martín Pérez;-5%;58%;Strikeout Looking
+b3;1-1;1;-2-;5,(3-1) BBT*BX;R;CHC;Dansby Swanson;Martín Pérez;9%;67%;Single to RF (Line Drive to Deep 2B-1B); Madrigal Scores
+b3;2-1;1;1--;3,(2-0) 1BBX;O;CHC;Ian Happ;Martín Pérez;-3%;64%;Groundout: 1B-SS/Forceout at 2B (Weak 1B); Happ to 1B
+b3;2-1;2;1--;7,(3-2) BCBFFB>X;;CHC;Trey Mancini;Martín Pérez;2%;67%;Single to CF (Line Drive); Happ to 3B
+b3;2-1;2;1-3;2,(0-1) F>S;O;CHC;Patrick Wisdom;Martín Pérez;-5%;62%;Happ Caught Stealing Hm (C-3B-P)
+;;;;;;;;;1 run, 3 hits, 0 errors, 1 LOB. Rangers 1, Cubs 2.
+Top of the 4th, Rangers Batting, Behind 1-2, Cubs' Justin Steele facing 8-9-1 
+t4;1-2;0;---;5,(1-2) BFS.FX;O;TEX;Jonah Heim;Justin Steele;3%;65%;Lineout: CF (Deep CF)
+t4;1-2;1;---;7,(3-2) BSS.BFBX;O;TEX;Ezequiel Duran;Justin Steele;2%;67%;Groundout: 2B-1B
+t4;1-2;2;---;1,(0-0) X;O;TEX;Marcus Semien;Justin Steele;1%;68%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 1, Cubs 2.
+Bottom of the 4th, Cubs Batting, Ahead 2-1, Rangers' Martín Pérez facing 5-6-7 
+b4;2-1;0;---;4,(1-2) BFSX;R;CHC;Patrick Wisdom;Martín Pérez;10%;78%;Home Run (Fly Ball to Deep LF-CF)
+b4;3-1;0;---;3,(0-2) CFS;O;CHC;Luis Torrens;Martín Pérez;-2%;77%;Strikeout Swinging
+b4;3-1;1;---;1,(0-0) X;O;CHC;Cody Bellinger;Martín Pérez;-1%;76%;Flyball: RF (Short RF)
+b4;3-1;2;---;4,(1-2) CBFX;O;CHC;Yan Gomes;Martín Pérez;-1%;75%;Flyball: CF
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Rangers 1, Cubs 3.
+Top of the 5th, Rangers Batting, Behind 1-3, Cubs' Justin Steele facing 2-3-4 
+t5;1-3;0;---;2,(1-0) BX;O;TEX;Corey Seager;Justin Steele;3%;78%;Flyball: LF
+t5;1-3;1;---;7,(3-2) CBBCFBX;O;TEX;Nathaniel Lowe;Justin Steele;2%;80%;Groundout: P-1B (Short 1B Line)
+t5;1-3;2;---;4,(1-2) BFSX;O;TEX;Adolis García;Justin Steele;1%;81%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 1, Cubs 3.
+Bottom of the 5th, Cubs Batting, Ahead 3-1, Rangers' Martín Pérez facing 9-1-2 
+b5;3-1;0;---;7,(1-2) C.FFBFFX;O;CHC;Nick Madrigal;Martín Pérez;-2%;80%;Groundout: P-1B (Front of Home)
+b5;3-1;1;---;6,(3-2) FBBBC.X;O;CHC;Nico Hoerner;Martín Pérez;-1%;78%;Lineout: CF (Deep CF)
+b5;3-1;2;---;3,(0-2) CS.S;O;CHC;Dansby Swanson;Martín Pérez;-1%;78%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 1, Cubs 3.
+Top of the 6th, Rangers Batting, Behind 1-3, Cubs' Justin Steele facing 5-6-7 
+t6;1-3;0;---;2,(1-0) BX;O;TEX;Josh Jung;Justin Steele;3%;81%;Flyball: RF
+t6;1-3;1;---;4,(1-2) SBSC;O;TEX;Robbie Grossman;Justin Steele;2%;83%;Strikeout Looking
+t6;1-3;2;---;7,(3-2) CBFFBBB;;TEX;Mitch Garver;Justin Steele;-2%;81%;Walk
+t6;1-3;2;1--;4,(1-2) FBFX;O;TEX;Jonah Heim;Justin Steele;3%;84%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Heim to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rangers 1, Cubs 3.
+Bottom of the 6th, Cubs Batting, Ahead 3-1, Rangers' Ian Kennedy facing 3-4-5 
+;;;;;;;;;Ian Kennedy replaces Martín Pérez pitching
+b6;3-1;0;---;6,(3-2) .BSSBBS;O;CHC;Ian Happ;Ian Kennedy;-1%;83%;Strikeout Swinging
+b6;3-1;1;---;2,(1-0) BX;;CHC;Trey Mancini;Ian Kennedy;1%;84%;Single to CF (Fly Ball to CF-RF)
+b6;3-1;1;1--;5,(2-2) BSBTX;;CHC;Patrick Wisdom;Ian Kennedy;5%;89%;Single to SS (Ground Ball); Mancini to 3B/Adv on E6 (throw); Wisdom to 2B
+;;;;;;;;;Brock Burke replaces Ian Kennedy pitchingEric Hosmer pinch hits for Luis Torrens (DH) batting 6th
+b6;3-1;1;-23;2,(0-1) ..CX;RR;CHC;Eric Hosmer;Brock Burke;6%;95%;Single to CF (Ground Ball thru SS-2B); Mancini Scores; Wisdom Scores/unER
+b6;5-1;1;1--;2,(1-0) BX;O;CHC;Cody Bellinger;Brock Burke;-1%;94%;Popfly: 1B (Short 1B Line)
+b6;5-1;2;1--;5,(1-2) BSSFS;O;CHC;Yan Gomes;Brock Burke;-1%;94%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 1 error, 1 LOB. Rangers 1, Cubs 5.
+Top of the 7th, Rangers Batting, Behind 1-5, Cubs' Keegan Thompson facing 9-1-2 
+;;;;;;;;;Keegan Thompson replaces Justin Steele pitchingJosh H. Smith pinch hits for Ezequiel Duran (LF) batting 9th
+t7;1-5;0;---;7,(3-2) ...CBCBF.BB;;TEX;Josh H. Smith;Keegan Thompson;-3%;91%;Walk
+t7;1-5;0;1--;3,(0-2) SCX;O;TEX;Marcus Semien;Keegan Thompson;3%;94%;Lineout: RF (Deep RF)
+t7;1-5;1;1--;6,(3-2) CBBCBB;;TEX;Corey Seager;Keegan Thompson;-3%;91%;Walk; Smith to 2B
+t7;1-5;1;12-;1,(0-0) X;R;TEX;Nathaniel Lowe;Keegan Thompson;-7%;84%;Single to CF (Ground Ball); Smith Scores; Seager to 2B
+t7;2-5;1;12-;8,(3-2) CFBBFB.FX;O;TEX;Adolis García;Keegan Thompson;5%;90%;Flyball: RF (Short RF Line)
+t7;2-5;2;12-;2,(0-1) SS;;TEX;Josh Jung;Keegan Thompson;-2%;88%;Wild Pitch; Seager to 3B; Lowe to 2B
+t7;2-5;2;-23;5,(1-2) SS.BFS;O;TEX;Josh Jung;Keegan Thompson;6%;94%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Rangers 2, Cubs 5.
+Bottom of the 7th, Cubs Batting, Ahead 5-2, Rangers' Taylor Hearn facing 9-1-2 
+;;;;;;;;;Taylor Hearn replaces Brock Burke pitchingJosh H. Smith moves from PH to LF 
+b7;5-2;0;---;4,(2-1) ..SBBX;O;CHC;Nick Madrigal;Taylor Hearn;-1%;93%;Groundout: 3B-1B (SS-3B Hole)
+b7;5-2;1;---;5,(2-2) BBCFX;;CHC;Nico Hoerner;Taylor Hearn;1%;94%;Single to CF (Line Drive)
+b7;5-2;1;1--;1,(0-0) X;O;CHC;Dansby Swanson;Taylor Hearn;-1%;93%;Flyball: CF (Deep CF)
+b7;5-2;2;1--;1,(0-0) 1>B;;CHC;Ian Happ;Taylor Hearn;0%;94%;Hoerner Steals 2B
+b7;5-2;2;-2-;6,(3-2) 1>B.SFBBB;;CHC;Ian Happ;Taylor Hearn;0%;94%;Walk
+b7;5-2;2;12-;2,(1-0) BX;R;CHC;Trey Mancini;Taylor Hearn;3%;97%;Single to RF (Line Drive to Deep CF-RF); Hoerner Scores; Happ to 3B
+b7;6-2;2;1-3;6,(1-2) CBCF>F1S;O;CHC;Patrick Wisdom;Taylor Hearn;-1%;96%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Rangers 2, Cubs 6.
+Top of the 8th, Rangers Batting, Behind 2-6, Cubs' Brad Boxberger facing 6-7-8 
+;;;;;;;;;Brad Boxberger replaces Keegan Thompson pitching
+t8;2-6;0;---;5,(3-1) .BBBCX;O;TEX;Robbie Grossman;Brad Boxberger;1%;98%;Flyball: LF
+t8;2-6;1;---;3,(2-0) BBX;O;TEX;Mitch Garver;Brad Boxberger;1%;98%;Groundout: SS-1B
+t8;2-6;2;---;6,(2-2) CSBB.FX;O;TEX;Jonah Heim;Brad Boxberger;0%;99%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 2, Cubs 6.
+Bottom of the 8th, Cubs Batting, Ahead 6-2, Rangers' Taylor Hearn facing 6-7-8 
+b8;6-2;0;---;5,(2-2) CFBBS;O;CHC;Eric Hosmer;Taylor Hearn;0%;99%;Strikeout Swinging
+b8;6-2;1;---;11,(3-2) BSCFFFBBFFX;O;CHC;Cody Bellinger;Taylor Hearn;0%;99%;Lineout: RF (Deep RF)
+b8;6-2;2;---;2,(1-0) BX;R;CHC;Yan Gomes;Taylor Hearn;1%;99%;Home Run (Fly Ball to Deep LF Line)
+b8;7-2;2;---;3,(1-1) CBX;;CHC;Nick Madrigal;Taylor Hearn;0%;99%;Single to RF (Ground Ball thru 2B-1B)
+b8;7-2;2;1--;4,(2-1) BFBX;;CHC;Nico Hoerner;Taylor Hearn;0%;99%;Single to RF (Line Drive); Madrigal to 2B
+;;;;;;;;;Dane Dunning replaces Taylor Hearn pitching
+b8;7-2;2;12-;6,(3-2) .BBCBF.>B;;CHC;Dansby Swanson;Dane Dunning;0%;100%;Walk; Madrigal to 3B; Hoerner to 2B
+b8;7-2;2;123;1,(0-0) X;RRR;CHC;Ian Happ;Dane Dunning;0%;100%;Single to CF (Ground Ball); Madrigal Scores; Hoerner Scores; Swanson Scores/Adv on E8 (throw)/No RBI/unER
+b8;10-2;2;1--;3,(1-2) ABS.X;O;CHC;Trey Mancini;Dane Dunning;0%;100%;Lineout: CF (Deep CF-RF)
+;;;;;;;;;4 runs, 4 hits, 1 error, 1 LOB. Rangers 2, Cubs 10.
+Top of the 9th, Rangers Batting, Behind 2-10, Cubs' Michael Rucker facing 9-1-2 
+;;;;;;;;;Michael Rucker replaces Brad Boxberger pitching
+t9;2-10;0;---;3,(1-1) .BCX;O;TEX;Josh H. Smith;Michael Rucker;0%;100%;Groundout: 2B-1B (2B-1B)
+t9;2-10;1;---;5,(3-1) BSBBX;;TEX;Marcus Semien;Michael Rucker;0%;100%;Double to LF (Line Drive to Deep LF Line)
+t9;2-10;1;-2-;5,(1-2) CS.F*BC;O;TEX;Corey Seager;Michael Rucker;0%;100%;Strikeout Looking
+t9;2-10;2;-2-;4,(2-1) BBCX;R;TEX;Nathaniel Lowe;Michael Rucker;0%;100%;Single to LF (Line Drive to Deep 3B); Semien Scores
+t9;3-10;2;1--;3,(1-1) *B>F>B;;TEX;Adolis García;Michael Rucker;0%;100%;Defensive Indifference; Lowe to 2B
+t9;3-10;2;-2-;5,(2-2) *B>F>B.F.*S;O;TEX;Adolis García;Michael Rucker;0%;100%;Strikeout Swinging; García out at 1B/C-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Rangers 3, Cubs 10.

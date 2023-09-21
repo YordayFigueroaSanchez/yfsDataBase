@@ -1,0 +1,264 @@
+
+Scorebox Meta
+20230813
+1:10 p.m. Local
+40333
+Minute Maid Park
+169
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;0;1;0;0;1;0;0;0;2;4;0
+https://cdn.ssref.net/req/202308251/tlogo/br/HOU-2023.png;/teams/HOU/2023.shtml;0;0;0;0;0;1;0;0;0;1;7;1
+
+Batting home
+Jose Altuve;/players/a/altuvjo01.shtml;DH;4;0;0;0;1;1;5;.314;.413;.535;.948;31;20;-0.128; 1.25;0.019;-0.148;-0.12%; 1.94; -0.7;;;
+Alex Bregman;/players/b/bregmal01.shtml;3B;4;0;2;0;0;0;4;.254;.353;.417;.770;15;10;0.003; 1.05;0.058;-0.055; 0.00%; 1.63; -0.2;0;1;
+Yordan Alvarez;/players/a/alvaryo01.shtml;LF;4;0;0;0;0;1;4;.274;.379;.567;.946;19;12;-0.159; 1.49;0.000;-0.159;-0.15%; 2.31; -1.0;0;0;
+Kyle Tucker;/players/t/tuckeky01.shtml;RF;4;0;1;0;0;1;4;.297;.378;.519;.896;17;10;-0.068; 1.41;0.055;-0.123;-0.06%; 2.19; -0.3;2;0;2B
+Chas McCormick;/players/m/mccorch01.shtml;CF;4;0;2;0;0;2;4;.280;.368;.517;.885;12;10;0.055; 1.52;0.126;-0.071; 0.05%; 2.36; 0.1;1;0;SB
+Jon Singleton;/players/s/singljo02.shtml;1B;2;1;0;0;2;1;4;.140;.275;.302;.577;19;9;0.032; 1.88;0.142;-0.110; 0.03%; 2.91; 0.5;12;1;
+Mauricio Dubón;/players/d/dubonma01.shtml;2B;4;0;1;0;0;1;4;.261;.294;.363;.657;14;11;-0.141; 1.94;0.041;-0.181;-0.13%; 3.02; -0.7;0;4;
+Grae Kessinger;/players/k/kessigr01.shtml;SS;4;0;1;0;0;1;4;.194;.293;.333;.626;13;8;-0.111; 2.01;0.073;-0.184;-0.10%; 3.12; -0.2;1;4;2B
+Martín Maldonado;/players/m/maldoma01.shtml;C;3;0;0;0;0;2;3;.179;.247;.313;.560;13;11;-0.125; 1.46;0.000;-0.125;-0.12%; 2.26; -0.9;10;0;
+Yainer Diaz;/players/d/diazya02.shtml;PH;1;0;0;0;0;1;1;.275;.293;.514;.807;3;3;-0.067; 2.67;0.000;-0.067;-0.06%; 4.14; -0.2;;;
+José Urquidy;/players/u/urquijo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Parker Mushinski;/players/m/mushipa01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Kendall Graveman;/players/g/graveke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Abreu;/players/a/abreubr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Rafael Montero;/players/m/montera01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryne Stanek;/players/s/stanery01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Grae Kessinger (2, off Chase Silseth); Kyle Tucker (29, off Chase Silseth).
+
+
+TB: Alex Bregman 2; Chas McCormick 2; Kyle Tucker 2; Grae Kessinger 2; Mauricio Dubón.
+
+
+Team LOB: 9.
+With RISP: 0 for 8.
+
+Batting away
+Mickey Moniak;/players/m/moniami01.shtml;CF;4;0;1;1;0;1;4;.289;.320;.521;.841;16;10;-0.014; 1.15;0.115;-0.129;-0.00%; 0.18; -0.3;4;0;2B,GDP
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;3;1;1;1;1;1;4;.305;.408;.665;1.073;21;11;0.153; 0.79;0.202;-0.048; 0.01%; 0.13; 1.3;;;HR,SB
+Brandon Drury;/players/d/drurybr01.shtml;2B;4;0;0;0;0;2;4;.274;.315;.487;.802;19;12;-0.066; 0.66;0.000;-0.066;-0.01%; 0.10; -0.8;1;0;
+Mike Moustakas;/players/m/moustmi01.shtml;1B-3B;3;0;0;0;1;0;4;.268;.327;.453;.780;12;8;-0.059; 0.94;0.007;-0.066;-0.01%; 0.15; -0.4;5;0;
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;4;0;0;0;0;1;4;.246;.305;.440;.744;12;7;-0.098; 0.81;0.000;-0.098;-0.01%; 0.13; -1.1;3;0;
+Luis Rengifo;/players/r/rengilu01.shtml;SS;3;0;0;0;0;2;3;.237;.320;.397;.718;15;11;-0.049; 0.63;0.000;-0.049;-0.01%; 0.10; -0.5;1;2;
+Andrew Velazquez;/players/v/velazan01.shtml;SS;0;0;0;0;1;0;1;.217;.319;.350;.669;6;2;0.012; 1.40;0.012;0.000; 0.00%; 0.22; 0.3;0;0;
+Randal Grichuk;/players/g/grichra01.shtml;LF;4;0;0;0;0;0;4;.287;.341;.472;.813;10;6;-0.117; 1.16;0.000;-0.117;-0.01%; 0.18; -1.4;2;0;
+Eduardo Escobar;/players/e/escobed01.shtml;3B;3;1;1;0;0;1;3;.238;.281;.376;.657;9;7;0.016; 0.63;0.046;-0.030; 0.00%; 0.10; 0.1;0;3;2B
+C.J. Cron;/players/c/croncj01.shtml;1B;0;0;0;0;0;0;0;.248;.296;.440;.736;;;;;;;;;;0;0;
+Chad Wallach;/players/w/wallach01.shtml;C;2;0;1;0;1;1;3;.205;.276;.402;.677;14;8;0.012; 0.95;0.051;-0.039; 0.00%; 0.15; 0.2;11;0;
+Chase Silseth;/players/s/silsech01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Soriano;/players/s/soriajo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Reynaldo López;/players/l/lopezre01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matt Moore;/players/m/moorema02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Carlos Estévez;/players/e/estevca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Eduardo Escobar (5, off José Urquidy); Mickey Moniak (18, off José Urquidy).
+
+
+HR: Shohei Ohtani (41, off Parker Mushinski, 6th inn, 0 on, 2 outs to Deep CF).
+
+
+TB: Shohei Ohtani 4; Eduardo Escobar 2; Mickey Moniak 2; Chad Wallach.
+
+
+GIDP: Mickey Moniak (3).
+
+
+RBI: Shohei Ohtani (84); Mickey Moniak (38).
+
+
+2-out RBI: Shohei Ohtani; Mickey Moniak.
+
+
+Team LOB: 5.
+With RISP: 1 for 5.
+
+Pitching home
+José Urquidy;/players/u/urquijo01.shtml; L (2-3); 5 ;3;1;1;0;7;0;5.50;18;80;54;38;10;6;7;4;1;0;64;;;0.103; 0.81; 0.10%; 1.25; 1.2
+Parker Mushinski;/players/m/mushipa01.shtml;Parker Mushinski; 1.1;1;1;1;0;0;1;3.27;4;9;7;5;0;2;3;1;0;0;;1;0;-0.018; 0.84;-0.02%; 1.30; 0.1
+Kendall Graveman;/players/g/graveke01.shtml;Kendall Graveman; 1.1;0;0;0;1;1;0;3.38;5;11;6;3;2;1;2;1;0;0;;0;0;0.060; 0.67; 0.06%; 1.04; 0.5
+Bryan Abreu;/players/a/abreubr01.shtml;Bryan Abreu; 0.1;0;0;0;0;0;0;2.29;1;3;2;1;0;1;1;0;0;0;;1;0;0.025; 0.90; 0.02%; 1.40; 0.2
+Rafael Montero;/players/m/montera01.shtml;Rafael Montero; 0.2;0;0;0;3;1;0;5.62;5;28;11;7;2;2;0;1;0;0;;0;0;-0.012; 1.14;-0.01%; 1.77; -0.3
+Ryne Stanek;/players/s/stanery01.shtml;Ryne Stanek; 0.1;0;0;0;0;0;0;4.24;1;3;2;1;0;1;0;1;0;0;;3;0;0.051; 2.03; 0.05%; 3.15; 0.8
+
+Pitching away
+Chase Silseth;/players/s/silsech01.shtml; W (4-1); 5 ;4;0;0;2;5;0;3.27;21;84;54;34;6;14;5;9;6;0;62;;;0.301; 1.20; 0.03%; 0.19; 2.6
+José Soriano;/players/s/soriajo02.shtml; H (12); 1 ;1;1;1;1;1;0;3.33;5;18;12;5;4;3;1;2;1;0;;0;0;-0.049; 1.50;-0.01%; 0.23; -0.5
+Reynaldo López;/players/l/lopezre01.shtml; H (12); 1 ;1;0;0;0;0;0;3.86;4;22;14;9;4;1;1;3;0;0;;0;0;0.109; 1.52; 0.01%; 0.24; 0.5
+Matt Moore;/players/m/moorema02.shtml; H (18); 1 ;1;0;0;0;3;0;1.66;4;20;15;8;3;4;0;1;1;0;;0;0;0.143; 2.73; 0.01%; 0.43; 0.5
+Carlos Estévez;/players/e/estevca01.shtml; S (25); 1 ;0;0;0;0;2;0;3.42;3;12;9;3;4;2;0;1;0;0;;0;0;0.204; 2.67; 0.02%; 0.42; 0.5
+
+indiv_events
+
+Balks: None.
+WP: José Soriano (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: José Soriano (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Lance Barrett, 1B - Ryan Wills, 2B - Alfonso Márquez, 3B - Ramon De Jesus, LF - (none), RF - (none).
+Time of Game: 2:49.
+Attendance: 40,333.
+Start Time Weather: 73° F, Wind 0mph, In Dome.
+
+div_lineups
+Angels
+1;Mickey Moniak;/players/m/moniami01.shtml;CF
+2;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+3;Brandon Drury;/players/d/drurybr01.shtml;2B
+4;Mike Moustakas;/players/m/moustmi01.shtml;1B
+5;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+6;Luis Rengifo;/players/r/rengilu01.shtml;SS
+7;Randal Grichuk;/players/g/grichra01.shtml;LF
+8;Eduardo Escobar;/players/e/escobed01.shtml;3B
+9;Chad Wallach;/players/w/wallach01.shtml;C
+; Chase Silseth;/players/s/silsech01.shtml;P
+Astros
+1;Jose Altuve;/players/a/altuvjo01.shtml;DH
+2;Alex Bregman;/players/b/bregmal01.shtml;3B
+3;Yordan Alvarez;/players/a/alvaryo01.shtml;LF
+4;Kyle Tucker;/players/t/tuckeky01.shtml;RF
+5;Chas McCormick;/players/m/mccorch01.shtml;CF
+6;Jon Singleton;/players/s/singljo02.shtml;1B
+7;Mauricio Dubón;/players/d/dubonma01.shtml;2B
+8;Grae Kessinger;/players/k/kessigr01.shtml;SS
+9;Martín Maldonado;/players/m/maldoma01.shtml;C
+; José Urquidy;/players/u/urquijo01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t6;1-0;2;---;2,(1-0) BX;R;LAA;Shohei Ohtani;Parker Mushinski;13%;75%;Home Run (Fly Ball to Deep CF)
+t3;0-0;2;-2-;3,(2-0) BBX;R;LAA;Mickey Moniak;José Urquidy;12%;60%;Double to RF (Line Drive to Deep RF Line); Escobar Scores
+b6;0-2;2;1-3;1,(0-0) B;R;HOU;Grae Kessinger;José Soriano;-11%;63%;Wild Pitch; Singleton Scores/No RBI; Dubón to 2B
+b8;1-2;2;-2-;8,(2-2) 1CFFBF>B.FS;O;HOU;Mauricio Dubón;Matt Moore;10%;84%;Strikeout Swinging
+b9;1-2;0;---;4,(1-2) .CS.BS;O;HOU;Grae Kessinger;Carlos Estévez;9%;89%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, Astros' José Urquidy facing 1-2-3 
+t1;0-0;0;---;6,(2-2) CSBBFT;O;LAA;Mickey Moniak;José Urquidy;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;6,(3-2) BFS.BBX;O;LAA;Shohei Ohtani;José Urquidy;-2%;46%;Groundout: 2B-1B
+t1;0-0;2;---;7,(2-2) SF.FBBFS;O;LAA;Brandon Drury;José Urquidy;-1%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Astros 0.
+Bottom of the 1st, Astros Batting, Tied 0-0, Angels' Chase Silseth facing 1-2-3 
+b1;0-0;0;---;10,(2-2) .CCBFFBFFF*S;O;HOU;Jose Altuve;Chase Silseth;2%;47%;Strikeout Swinging
+b1;0-0;1;---;6,(1-2) CBFFFX;O;HOU;Alex Bregman;Chase Silseth;2%;49%;Lineout: LF (LF-CF)
+b1;0-0;2;---;4,(1-2) CBFS;O;HOU;Yordan Alvarez;Chase Silseth;1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Astros 0.
+Top of the 2nd, Angels Batting, Tied 0-0, Astros' José Urquidy facing 4-5-6 
+t2;0-0;0;---;3,(0-2) TCX;O;LAA;Mike Moustakas;José Urquidy;-2%;48%;Flyball: RF (Deep CF-RF)
+t2;0-0;1;---;4,(1-2) FCBS;O;LAA;Hunter Renfroe;José Urquidy;-2%;46%;Strikeout Swinging
+t2;0-0;2;---;8,(3-2) FBBC.FFBS;O;LAA;Luis Rengifo;José Urquidy;-1%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Astros 0.
+Bottom of the 2nd, Astros Batting, Tied 0-0, Angels' Chase Silseth facing 4-5-6 
+b2;0-0;0;---;5,(2-2) CBLBX;O;HOU;Kyle Tucker;Chase Silseth;2%;47%;Flyball: CF (Deep LF-CF)
+b2;0-0;1;---;1,(0-0) X;;HOU;Chas McCormick;Chase Silseth;-3%;45%;Single to RF (Ground Ball thru 2B-1B)
+b2;0-0;1;1--;4,(2-1) C1BBX;O;HOU;Jon Singleton;Chase Silseth;3%;48%;Flyball: CF
+b2;0-0;2;1--;1,(0-0) 1X;O;HOU;Mauricio Dubón;Chase Silseth;2%;50%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 0, Astros 0.
+Top of the 3rd, Angels Batting, Tied 0-0, Astros' José Urquidy facing 7-8-9 
+t3;0-0;0;---;3,(1-1) BFX;O;LAA;Randal Grichuk;José Urquidy;-3%;47%;Groundout: SS-1B
+t3;0-0;1;---;4,(2-1) BTBX;;LAA;Eduardo Escobar;José Urquidy;5%;52%;Double to LF (Fly Ball to Deep 3B)
+t3;0-0;1;-2-;6,(1-2) SFFFBS;O;LAA;Chad Wallach;José Urquidy;-4%;48%;Strikeout Swinging
+t3;0-0;2;-2-;3,(2-0) BBX;R;LAA;Mickey Moniak;José Urquidy;12%;60%;Double to RF (Line Drive to Deep RF Line); Escobar Scores
+t3;1-0;2;-2-;5,(2-2) T*BBFT;O;LAA;Shohei Ohtani;José Urquidy;-3%;56%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Angels 1, Astros 0.
+Bottom of the 3rd, Astros Batting, Behind 0-1, Angels' Chase Silseth facing 8-9-1 
+b3;0-1;0;---;6,(3-2) BBFC.BX;;HOU;Grae Kessinger;Chase Silseth;-7%;49%;Double to LF (Line Drive to Short LF Line)
+b3;0-1;0;-2-;6,(1-2) LLFBFS;O;HOU;Martín Maldonado;Chase Silseth;5%;54%;Strikeout Swinging
+b3;0-1;1;-2-;2,(0-1) CX;O;HOU;Jose Altuve;Chase Silseth;4%;58%;Lineout: LF (Short LF)
+b3;0-1;2;-2-;1,(0-0) X;O;HOU;Alex Bregman;Chase Silseth;4%;62%;Flyball: RF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 1, Astros 0.
+Top of the 4th, Angels Batting, Ahead 1-0, Astros' José Urquidy facing 3-4-5 
+t4;1-0;0;---;5,(2-2) BSBFX;O;LAA;Brandon Drury;José Urquidy;-2%;60%;Groundout: 3B-1B (SS-3B Hole)
+t4;1-0;1;---;3,(0-2) FFX;O;LAA;Mike Moustakas;José Urquidy;-2%;58%;Groundout: 2B-1B
+t4;1-0;2;---;2,(1-0) BX;O;LAA;Hunter Renfroe;José Urquidy;-1%;57%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, Astros 0.
+Bottom of the 4th, Astros Batting, Behind 0-1, Angels' Chase Silseth facing 3-4-5 
+b4;0-1;0;---;6,(2-2) CFBFBX;O;HOU;Yordan Alvarez;Chase Silseth;3%;60%;Lineout: 1B
+b4;0-1;1;---;3,(1-1) SBX;;HOU;Kyle Tucker;Chase Silseth;-5%;55%;Ground-rule Double (Line Drive to Deep RF Line)
+b4;0-1;1;-2-;5,(2-2) CFBBS;O;HOU;Chas McCormick;Chase Silseth;5%;59%;Strikeout Swinging
+b4;0-1;2;-2-;4,(3-0) BBBB;;HOU;Jon Singleton;Chase Silseth;-1%;58%;Walk
+b4;0-1;2;12-;3,(1-1) *BCX;O;HOU;Mauricio Dubón;Chase Silseth;6%;64%;Groundout: SS-2B/Forceout at 2B; Dubón to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Angels 1, Astros 0.
+Top of the 5th, Angels Batting, Ahead 1-0, Astros' José Urquidy facing 6-7-8 
+t5;1-0;0;---;6,(1-2) CBFFF*S;O;LAA;Luis Rengifo;José Urquidy;-2%;61%;Strikeout Swinging
+t5;1-0;1;---;3,(2-0) BBX;O;LAA;Randal Grichuk;José Urquidy;-2%;60%;Groundout: 2B-1B
+t5;1-0;2;---;2,(0-1) FX;O;LAA;Eduardo Escobar;José Urquidy;-1%;58%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, Astros 0.
+Bottom of the 5th, Astros Batting, Behind 0-1, Angels' Chase Silseth facing 8-9-1 
+b5;0-1;0;---;1,(0-0) X;O;HOU;Grae Kessinger;Chase Silseth;3%;62%;Groundout: 3B-1B (SS-3B Hole)
+b5;0-1;1;---;4,(1-2) C.SBC;O;HOU;Martín Maldonado;Chase Silseth;2%;64%;Strikeout Looking
+b5;0-1;2;---;5,(3-1) BFBBB;;HOU;Jose Altuve;Chase Silseth;-2%;62%;Walk
+b5;0-1;2;1--;2,(1-0) BX;;HOU;Alex Bregman;Chase Silseth;-3%;59%;Single to LF (Line Drive to Short LF); Altuve to 2B
+b5;0-1;2;12-;5,(2-2) BCBFX;O;HOU;Yordan Alvarez;Chase Silseth;7%;66%;Groundout: SS unassisted/Forceout at 2B (SS-2B); Alvarez to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Angels 1, Astros 0.
+Top of the 6th, Angels Batting, Ahead 1-0, Astros' José Urquidy facing 9-1-2 
+t6;1-0;0;---;4,(1-2) BFCX;;LAA;Chad Wallach;José Urquidy;4%;70%;Single to LF (Ground Ball thru SS-3B Hole)
+;;;;;;;;;Parker Mushinski replaces José Urquidy pitching
+t6;1-0;0;1--;4,(1-2) .BCTX;OO;LAA;Mickey Moniak;Parker Mushinski;-8%;62%;Ground Ball Double Play: 2B-SS-1B
+t6;1-0;2;---;2,(1-0) BX;R;LAA;Shohei Ohtani;Parker Mushinski;13%;75%;Home Run (Fly Ball to Deep CF)
+t6;2-0;2;---;1,(0-0) X;O;LAA;Brandon Drury;Parker Mushinski;-1%;74%;Groundout: SS-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Angels 2, Astros 0.
+Bottom of the 6th, Astros Batting, Behind 0-2, Angels' José Soriano facing 4-5-6 
+;;;;;;;;;José Soriano replaces Chase Silseth pitching
+b6;0-2;0;---;3,(1-1) .CBX;O;HOU;Kyle Tucker;José Soriano;4%;78%;Flyball: RF
+b6;0-2;1;---;3,(0-2) SS.S;O;HOU;Chas McCormick;José Soriano;2%;80%;Strikeout Swinging
+b6;0-2;2;---;8,(3-2) CSBFF.BBB;;HOU;Jon Singleton;José Soriano;-2%;78%;Walk
+b6;0-2;2;1--;2,(0-1) CX;;HOU;Mauricio Dubón;José Soriano;-4%;74%;Single to CF (Line Drive to CF-RF); Singleton to 3B
+b6;0-2;2;1-3;1,(0-0) B;R;HOU;Grae Kessinger;José Soriano;-11%;63%;Wild Pitch; Singleton Scores/No RBI; Dubón to 2B
+b6;1-2;2;-2-;2,(1-0) B.X;O;HOU;Grae Kessinger;José Soriano;6%;69%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Angels 2, Astros 1.
+Top of the 7th, Angels Batting, Ahead 2-1, Astros' Parker Mushinski facing 4-5-6 
+t7;2-1;0;---;2,(0-1) CX;O;LAA;Mike Moustakas;Parker Mushinski;-3%;67%;Groundout: 1B-P
+;;;;;;;;;Kendall Graveman replaces Parker Mushinski pitching
+t7;2-1;1;---;2,(1-0) .BX;O;LAA;Hunter Renfroe;Kendall Graveman;-2%;65%;Flyball: CF (LF-CF)
+t7;2-1;2;---;1,(0-0) X;O;LAA;Luis Rengifo;Kendall Graveman;-1%;64%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 2, Astros 1.
+Bottom of the 7th, Astros Batting, Behind 1-2, Angels' Reynaldo López facing 9-1-2 
+;;;;;;;;;Reynaldo López replaces José Soriano pitchingAndrew Velazquez replaces Luis Rengifo playing SS batting 6th
+b7;1-2;0;---;3,(0-2) ..CS.X;O;HOU;Martín Maldonado;Reynaldo López;5%;69%;Flyball: CF (Deep CF)
+b7;1-2;1;---;9,(3-2) BFBSFFFBX;O;HOU;Jose Altuve;Reynaldo López;4%;72%;Groundout: 3B-1B (SS-3B Hole)
+b7;1-2;2;---;6,(3-2) SS.BBBX;;HOU;Alex Bregman;Reynaldo López;-3%;69%;Single to RF (Fly Ball to Short CF-RF)
+b7;1-2;2;1--;4,(2-1) FB+1BX;O;HOU;Yordan Alvarez;Reynaldo López;5%;75%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 2, Astros 1.
+Top of the 8th, Angels Batting, Ahead 2-1, Astros' Kendall Graveman facing 7-8-9 
+t8;2-1;0;---;1,(0-0) X;O;LAA;Randal Grichuk;Kendall Graveman;-2%;72%;Groundout: SS-1B (SS-3B Hole)
+t8;2-1;1;---;3,(0-2) CS.S;O;LAA;Eduardo Escobar;Kendall Graveman;-2%;70%;Strikeout Swinging
+t8;2-1;2;---;4,(3-0) BBBB;;LAA;Chad Wallach;Kendall Graveman;1%;72%;Walk
+;;;;;;;;;Bryan Abreu replaces Kendall Graveman pitching
+t8;2-1;2;1--;3,(1-1) .CBX;O;LAA;Mickey Moniak;Bryan Abreu;-3%;69%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 2, Astros 1.
+Bottom of the 8th, Astros Batting, Behind 1-2, Angels' Matt Moore facing 4-5-6 
+;;;;;;;;;Matt Moore replaces Reynaldo López pitchingC.J. Cron replaces Eduardo Escobar (3B) playing 1B batting 8thMike Moustakas moves from 1B to 3B 
+b8;1-2;0;---;6,(3-2) ...BBCBSS;O;HOU;Kyle Tucker;Matt Moore;6%;76%;Strikeout Swinging
+b8;1-2;1;---;3,(0-2) CFX;;HOU;Chas McCormick;Matt Moore;-7%;69%;Single to LF (Line Drive to Deep LF)
+b8;1-2;1;1--;3,(0-2) FFC;O;HOU;Jon Singleton;Matt Moore;8%;77%;Strikeout Looking
+b8;1-2;2;1--;6,(1-2) 1CFFBF>B;;HOU;Mauricio Dubón;Matt Moore;-3%;74%;McCormick Steals 2B
+b8;1-2;2;-2-;8,(2-2) 1CFFBF>B.FS;O;HOU;Mauricio Dubón;Matt Moore;10%;84%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 2, Astros 1.
+Top of the 9th, Angels Batting, Ahead 2-1, Astros' Rafael Montero facing 2-3-4 
+;;;;;;;;;Rafael Montero replaces Bryan Abreu pitching
+t9;2-1;0;---;8,(3-2) .BCF.BBFFB;;LAA;Shohei Ohtani;Rafael Montero;2%;86%;Walk
+t9;2-1;0;1--;6,(3-2) FBBF1B>S;O;LAA;Brandon Drury;Rafael Montero;2%;88%;Strikeout Swinging, Ohtani Steals 2B; Ohtani to 3B/Adv on E2 (throw)
+t9;2-1;1;--3;4,(3-0) BBBB;;LAA;Mike Moustakas;Rafael Montero;1%;89%;Walk
+t9;2-1;1;1-3;4,(2-1) *BCBX;O;LAA;Hunter Renfroe;Rafael Montero;-5%;84%;Foul Popfly: C (Behind Home)
+t9;2-1;2;1-3;6,(3-2) BSBBF>B;;LAA;Andrew Velazquez;Rafael Montero;1%;85%;Walk; Moustakas to 2B
+;;;;;;;;;Ryne Stanek replaces Rafael Montero pitching
+t9;2-1;2;123;3,(1-1) .CBX;O;LAA;Randal Grichuk;Ryne Stanek;-5%;80%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 0 hits, 1 error, 3 LOB. Angels 2, Astros 1.
+Bottom of the 9th, Astros Batting, Behind 1-2, Angels' Carlos Estévez facing 8-9-1 
+;;;;;;;;;Carlos Estévez replaces Matt Moore pitching
+b9;1-2;0;---;4,(1-2) .CS.BS;O;HOU;Grae Kessinger;Carlos Estévez;9%;89%;Strikeout Swinging
+;;;;;;;;;Yainer Diaz pinch hits for Martín Maldonado (C) batting 9th
+b9;1-2;1;---;3,(0-2) .FCS;O;HOU;Yainer Diaz;Carlos Estévez;7%;95%;Strikeout Swinging
+b9;1-2;2;---;5,(2-2) FSBBX;O;HOU;Jose Altuve;Carlos Estévez;5%;100%;Flyball: RF (CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 2, Astros 1.

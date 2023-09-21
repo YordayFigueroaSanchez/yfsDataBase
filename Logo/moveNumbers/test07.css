@@ -1,0 +1,22 @@
+#container {
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  
+  .moving-char {
+    display: inline-block;
+    font-size: 24px;
+    color: #ff0000; /* Color del texto */
+    font-family: Arial, sans-serif;
+    animation: moveRight 4s linear infinite; /* Cambia la duración según tus necesidades */
+  }
+  
+  @keyframes moveRight {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  

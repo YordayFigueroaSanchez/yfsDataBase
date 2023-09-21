@@ -1,0 +1,270 @@
+
+Scorebox Meta
+20230813
+1:10 p.m. Local
+45904
+Dodger Stadium
+161
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;0;1;2;0;0;0;0;0;3;5;1
+https://cdn.ssref.net/req/202308251/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;2;1;1;0;3;0;1;X;8;10;0
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;RF;5;0;2;2;0;1;5;.287;.388;.579;.968;22;13;0.040; 0.72;0.105;-0.065; 0.01%; 0.41; 1.1;1;1;2B
+Freddie Freeman;/players/f/freemfr01.shtml;1B;4;0;0;0;1;1;5;.339;.417;.588;1.005;14;7;-0.059; 0.52;0.002;-0.060;-0.02%; 0.30; -0.8;4;0;IW
+Will Smith;/players/s/smithwi05.shtml;C;4;1;1;0;0;0;4;.275;.379;.471;.851;11;8;0.002; 0.50;0.038;-0.036; 0.00%; 0.29; -0.3;14;0;2B
+Amed Rosario;/players/r/rosaram01.shtml;DH;3;1;2;0;0;0;3;.267;.306;.388;.694;10;7;0.140; 0.83;0.152;-0.012; 0.05%; 0.48; 1.5;;;2B
+Jason Heyward;/players/h/heywaja01.shtml;PH-DH-DH;0;0;0;0;1;0;1;.248;.342;.460;.802;6;2;0.005; 0.14;0.005;0.000; 0.00%; 0.08; 0.4;;;
+Enrique Hernández;/players/h/hernaen02.shtml;2B;4;1;1;0;0;0;4;.236;.291;.348;.638;18;10;-0.015; 0.83;0.032;-0.047;-0.01%; 0.48; -1.0;1;0;GDP
+Max Muncy;/players/m/muncyma01.shtml;3B;3;2;1;1;1;0;4;.194;.334;.476;.810;16;9;0.074; 0.94;0.104;-0.030; 0.03%; 0.54; 0.7;1;2;
+Chris Taylor;/players/t/tayloch03.shtml;LF;2;2;1;0;2;0;4;.218;.306;.414;.720;25;14;0.066; 0.65;0.094;-0.028; 0.02%; 0.37; 1.9;0;0;2·SB
+James Outman;/players/o/outmaja01.shtml;CF;4;0;1;0;0;2;4;.257;.360;.436;.797;22;13;-0.025; 1.00;0.050;-0.075;-0.01%; 0.58; -0.7;4;0;
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;2;1;1;4;0;0;4;.219;.271;.287;.558;29;18;0.156; 1.20;0.156;0.000; 0.05%; 0.69; 0.9;2;2;HR,2·SF
+Julio Urías;/players/u/uriasju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Alex Vesia;/players/v/vesiaal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Victor González;/players/g/gonzavi02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Amed Rosario (22, off Kyle Freeland); Will Smith (18, off Kyle Freeland); Mookie Betts (32, off Tyler Kinley).
+
+
+HR: Miguel Rojas (2, off Kyle Freeland, 4th inn, 0 on, 2 outs to Deep LF-CF).
+
+
+SF: Miguel Rojas 2 (5, 1 off Justin Bruihl, 1 off Tyler Kinley).
+
+
+IBB: Freddie Freeman (9, by Daniel Bard).
+
+
+TB: Miguel Rojas 4; Mookie Betts 3; Amed Rosario 3; Will Smith 2; Chris Taylor; Enrique Hernández; Max Muncy; James Outman.
+
+
+GIDP: Enrique Hernández (16).
+
+
+RBI: Miguel Rojas 4 (20); Mookie Betts 2 (80); Max Muncy (76).
+
+
+2-out RBI: Mookie Betts 2; Miguel Rojas.
+
+
+Team LOB: 6.
+With RISP: 5 for 13.
+
+Batting away
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;4;0;0;0;0;2;4;.255;.290;.421;.711;11;10;-0.079; 0.73;0.000;-0.079;0%; 0.00; -0.8;0;1;
+Jurickson Profar;/players/p/profaju01.shtml;LF;1;0;0;0;0;0;1;.237;.318;.365;.683;2;2;-0.016; 0.63;0.000;-0.016;0%; 0.00; -0.2;2;0;
+Cole Tucker;/players/t/tuckeco01.shtml;PH-RF;3;0;2;1;0;1;3;.429;.500;.429;.929;14;10;0.031; 0.93;0.068;-0.038;0%; 0.00; 0.8;1;0;
+Brendan Rodgers;/players/r/rodgebr02.shtml;2B;3;0;0;0;0;2;4;.171;.216;.171;.388;15;9;-0.001; 0.72;0.044;-0.045;0%; 0.00; -0.1;2;1;HBP
+Elias Díaz;/players/d/diazel01.shtml;DH;4;1;1;0;0;1;4;.266;.321;.416;.736;11;9;-0.027; 0.89;0.037;-0.064;0%; 0.00; -0.5;;;
+Nolan Jones;/players/j/jonesno01.shtml;RF-LF;4;0;0;0;0;3;4;.267;.348;.485;.833;13;10;-0.087; 0.89;0.000;-0.087;0%; 0.00; -1.3;4;0;
+Alan Trejo;/players/t/trejoal01.shtml;3B;3;1;1;2;0;1;3;.248;.287;.357;.644;6;6;0.167; 0.84;0.208;-0.040;0%; 0.00; 1.4;0;3;HR
+Elehuris Montero;/players/m/monteel01.shtml;1B;3;0;0;0;0;1;3;.192;.220;.327;.546;19;14;-0.043; 0.52;0.000;-0.043;0%; 0.00; -0.5;4;0;
+Brenton Doyle;/players/d/doylebr02.shtml;CF;3;0;0;0;0;1;3;.196;.254;.322;.576;6;5;-0.072; 0.92;0.000;-0.072;0%; 0.00; -0.8;6;0;
+Austin Wynns;/players/w/wynnsau01.shtml;C;3;1;1;0;0;1;3;.200;.253;.288;.540;18;14;0.012; 0.64;0.043;-0.031;0%; 0.00; 0.1;4;0;2B
+Kyle Freeland;/players/f/freelky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tyler Kinley;/players/k/kinlety01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Daniel Bard;/players/b/bardda01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Justin Bruihl;/players/b/bruihju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Austin Wynns (4, off Julio Urías).
+
+
+HR: Alan Trejo (2, off Julio Urías, 4th inn, 1 on, 2 outs to Deep LF-CF).
+
+
+HBP: Brendan Rodgers (1, by Julio Urías).
+
+
+TB: Alan Trejo 4; Cole Tucker 2; Austin Wynns 2; Elias Díaz.
+
+
+RBI: Alan Trejo 2 (19); Cole Tucker (2).
+
+
+2-out RBI: Alan Trejo 2; Cole Tucker.
+
+
+Team LOB: 2.
+With RISP: 1 for 4.
+
+Pitching home
+Julio Urías;/players/u/uriasju01.shtml; W (10-6); 7 ;4;3;3;0;12;1;4.35;25;88;69;33;17;19;5;7;4;0;69;;;0.084; 0.93; 0.03%; 0.54; 0.8
+Alex Vesia;/players/v/vesiaal01.shtml;Alex Vesia; 1 ;0;0;0;0;0;0;5.61;3;12;10;7;2;1;1;2;0;0;;0;0;0.026; 0.33; 0.01%; 0.19; 0.5
+Victor González;/players/g/gonzavi02.shtml;Victor González; 1 ;1;0;0;0;1;0;5.11;4;15;10;5;0;5;2;1;0;0;;0;0;0.007; 0.21; 0.00%; 0.12; 0.5
+
+Pitching away
+Kyle Freeland;/players/f/freelky01.shtml; L (4-13); 5 ;6;4;4;1;1;1;4.94;22;89;56;43;5;8;4;16;5;0;39;;;-0.185; 0.94; 0.00%; 0.00; -1.3
+Tyler Kinley;/players/k/kinlety01.shtml;Tyler Kinley; 0.2;3;3;3;1;1;0;8.31;6;28;14;9;1;4;1;3;2;0;;0;0;-0.208; 1.40; 0.00%; 0.00; -2.8
+Daniel Bard;/players/b/bardda01.shtml;Daniel Bard; 1.1;0;0;0;2;0;0;3.43;5;22;11;7;0;4;1;2;1;0;;1;0;0.015; 0.24; 0.00%; 0.00; 0.9
+Justin Bruihl;/players/b/bruihju01.shtml;Justin Bruihl; 1 ;1;1;1;1;2;0;5.26;5;34;20;13;2;5;1;1;1;0;;0;0;-0.006; 0.06; 0.00%; 0.00; -0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Julio Urías (5; Brendan Rodgers).
+IBB: Daniel Bard (3; Freddie Freeman).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Julio Urías (5; Brendan Rodgers).
+IBB: Daniel Bard (3; Freddie Freeman).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Andy Fletcher, 1B - Erich Bacchus, 2B - Laz Diaz, 3B - Mike Estabrook, LF - (none), RF - (none).
+Time of Game: 2:41.
+Attendance: 45,904.
+Field Condition: Unknown.
+Start Time Weather: 83° F, Wind 6mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Rockies
+1;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+2;Jurickson Profar;/players/p/profaju01.shtml;LF
+3;Brendan Rodgers;/players/r/rodgebr02.shtml;2B
+4;Elias Díaz;/players/d/diazel01.shtml;DH
+5;Nolan Jones;/players/j/jonesno01.shtml;RF
+6;Alan Trejo;/players/t/trejoal01.shtml;3B
+7;Elehuris Montero;/players/m/monteel01.shtml;1B
+8;Brenton Doyle;/players/d/doylebr02.shtml;CF
+9;Austin Wynns;/players/w/wynnsau01.shtml;C
+; Kyle Freeland;/players/f/freelky01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;RF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;C
+4;Amed Rosario;/players/r/rosaram01.shtml;DH
+5;Enrique Hernández;/players/h/hernaen02.shtml;2B
+6;Max Muncy;/players/m/muncyma01.shtml;3B
+7;Chris Taylor;/players/t/tayloch03.shtml;LF
+8;James Outman;/players/o/outmaja01.shtml;CF
+9;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+; Julio Urías;/players/u/uriasju01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t4;1-3;2;1--;2,(0-1) FX;RR;COL;Alan Trejo;Julio Urías;-21%;55%;Home Run (Fly Ball to Deep LF-CF); Díaz Scores
+b4;3-3;2;---;7,(3-2) FBFBFBX;R;LAD;Miguel Rojas;Kyle Freeland;13%;65%;Home Run (Fly Ball to Deep LF-CF)
+b6;5-3;2;1-3;3,(2-0) BBX;RR;LAD;Mookie Betts;Tyler Kinley;10%;95%;Double to CF (Line Drive to Deep CF-RF); Muncy Scores; Taylor Scores
+b3;2-1;1;-2-;1,(0-0) X;R;LAD;Amed Rosario;Kyle Freeland;9%;77%;Single to RF (Line Drive); Smith Scores/Adv on E9/No RBI; Rosario to 2B
+b2;0-0;0;---;6,(2-2) CFBBFX;;LAD;Amed Rosario;Kyle Freeland;6%;61%;Double to LF (Line Drive to LF Line)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Rockies Batting, Tied 0-0, Dodgers' Julio Urías facing 1-2-3 
+t1;0-0;0;---;3,(0-2) CCT;O;COL;Ezequiel Tovar;Julio Urías;2%;52%;Strikeout Swinging
+t1;0-0;1;---;2,(0-1) CX;O;COL;Jurickson Profar;Julio Urías;2%;54%;Groundout: SS-1B
+t1;0-0;2;---;4,(1-2) BCSS;O;COL;Brendan Rodgers;Julio Urías;1%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 0, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Tied 0-0, Rockies' Kyle Freeland facing 1-2-3 
+b1;0-0;0;---;7,(3-2) BFBFBFX;O;LAD;Mookie Betts;Kyle Freeland;-2%;53%;Flyball: LF (Deep LF)
+b1;0-0;1;---;3,(2-0) BBX;O;LAD;Freddie Freeman;Kyle Freeland;-2%;51%;Flyball: CF (Deep CF)
+b1;0-0;2;---;2,(0-1) FX;O;LAD;Will Smith;Kyle Freeland;-1%;50%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 0, Dodgers 0.
+Top of the 2nd, Rockies Batting, Tied 0-0, Dodgers' Julio Urías facing 4-5-6 
+t2;0-0;0;---;3,(0-2) CSX;;COL;Elias Díaz;Julio Urías;-4%;46%;Single to RF (Ground Ball thru 2B-1B)
+t2;0-0;0;1--;1,(0-0) X;O;COL;Nolan Jones;Julio Urías;4%;50%;Foul Popfly: 3B (3B into Foul Terr.)
+t2;0-0;1;1--;3,(0-2) CFS;O;COL;Alan Trejo;Julio Urías;3%;53%;Strikeout Swinging
+t2;0-0;2;1--;8,(1-2) CBSFFFFX;O;COL;Elehuris Montero;Julio Urías;2%;55%;Popfly: SS (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rockies 0, Dodgers 0.
+Bottom of the 2nd, Dodgers Batting, Tied 0-0, Rockies' Kyle Freeland facing 4-5-6 
+b2;0-0;0;---;6,(2-2) CFBBFX;;LAD;Amed Rosario;Kyle Freeland;6%;61%;Double to LF (Line Drive to LF Line)
+b2;0-0;0;-2-;6,(3-2) CBBBFX;O;LAD;Enrique Hernández;Kyle Freeland;-2%;60%;Lineout: RF (Deep RF); Rosario to 3B
+b2;0-0;1;--3;2,(0-1) SX;R;LAD;Max Muncy;Kyle Freeland;6%;66%;Single to RF (Ground Ball thru 2B-1B); Rosario Scores
+b2;1-0;1;1--;5,(3-1) BBSBB;;LAD;Chris Taylor;Kyle Freeland;3%;69%;Walk; Muncy to 2B
+b2;1-0;1;12-;3,(0-2) SFX;;LAD;James Outman;Kyle Freeland;5%;74%;Single to RF (Line Drive to Deep RF); Muncy to 3B; Taylor to 2B
+b2;1-0;1;123;8,(2-2) FTBFFBFX;RO;LAD;Miguel Rojas;Kyle Freeland;0%;74%;Popfly: 2B (Deep 2B); Muncy Scores
+b2;2-0;2;12-;4,(2-1) BFBX;O;LAD;Mookie Betts;Kyle Freeland;-3%;71%;Lineout: LF (Deep LF)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Rockies 0, Dodgers 2.
+Top of the 3rd, Rockies Batting, Behind 0-2, Dodgers' Julio Urías facing 8-9-1 
+t3;0-2;0;---;1,(0-0) X;O;COL;Brenton Doyle;Julio Urías;3%;73%;Foul Bunt Popfly: C (Behind Home)
+t3;0-2;1;---;5,(2-2) CBBF.X;;COL;Austin Wynns;Julio Urías;-4%;69%;Double to LF (Line Drive to Deep LF Line)
+t3;0-2;1;-2-;2,(0-1) FX;O;COL;Ezequiel Tovar;Julio Urías;4%;73%;Lineout: RF (Deep RF)
+;;;;;;;;;Cole Tucker pinch hits for Jurickson Profar (LF) batting 2nd
+t3;0-2;2;-2-;5,(2-2) .SCBBX;RO;COL;Cole Tucker;Julio Urías;-6%;67%;Single to RF (Line Drive to RF Line); Wynns Scores; Tucker out at 2B/RF-SS
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Rockies 1, Dodgers 2.
+Bottom of the 3rd, Dodgers Batting, Ahead 2-1, Rockies' Kyle Freeland facing 2-3-4 
+;;;;;;;;;Nolan Jones moves from RF to LF Cole Tucker moves from PH to RF 
+b3;2-1;0;---;2,(1-0) ..BX;O;LAD;Freddie Freeman;Kyle Freeland;-2%;65%;Flyball: LF (LF Line)
+b3;2-1;1;---;3,(1-1) CBX;;LAD;Will Smith;Kyle Freeland;4%;68%;Double to LF (Fly Ball to Deep LF-CF)
+b3;2-1;1;-2-;1,(0-0) X;R;LAD;Amed Rosario;Kyle Freeland;9%;77%;Single to RF (Line Drive); Smith Scores/Adv on E9/No RBI; Rosario to 2B
+b3;3-1;1;-2-;2,(1-0) 2BX;O;LAD;Enrique Hernández;Kyle Freeland;-2%;75%;Flyball: CF (Deep CF); Rosario to 3B
+b3;3-1;2;--3;1,(0-0) X;O;LAD;Max Muncy;Kyle Freeland;-3%;72%;Flyball: CF (Short CF)
+;;;;;;;;;1 run, 2 hits, 1 error, 1 LOB. Rockies 1, Dodgers 3.
+Top of the 4th, Rockies Batting, Behind 1-3, Dodgers' Julio Urías facing 3-4-5 
+t4;1-3;0;---;2,(0-1) CH;;COL;Brendan Rodgers;Julio Urías;-4%;68%;Hit By Pitch
+t4;1-3;0;1--;1,(0-0) X;O;COL;Elias Díaz;Julio Urías;4%;72%;Groundout: 3B-2B/Forceout at 2B (Deep 3B); Díaz to 1B
+t4;1-3;1;1--;3,(0-2) CTS;O;COL;Nolan Jones;Julio Urías;3%;76%;Strikeout Swinging
+t4;1-3;2;1--;2,(0-1) FX;RR;COL;Alan Trejo;Julio Urías;-21%;55%;Home Run (Fly Ball to Deep LF-CF); Díaz Scores
+t4;3-3;2;---;6,(2-2) BSFBFX;O;COL;Elehuris Montero;Julio Urías;1%;56%;Groundout: P-1B (Weak SS-2B)
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Rockies 3, Dodgers 3.
+Bottom of the 4th, Dodgers Batting, Tied 3-3, Rockies' Kyle Freeland facing 7-8-9 
+b4;3-3;0;---;8,(3-2) CFBBFBFX;O;LAD;Chris Taylor;Kyle Freeland;-3%;53%;Groundout: SS-1B
+b4;3-3;1;---;7,(3-2) FCBFBBX;O;LAD;James Outman;Kyle Freeland;-2%;51%;Flyball: RF (Deep CF-RF)
+b4;3-3;2;---;7,(3-2) FBFBFBX;R;LAD;Miguel Rojas;Kyle Freeland;13%;65%;Home Run (Fly Ball to Deep LF-CF)
+b4;4-3;2;---;4,(1-2) CSBS;O;LAD;Mookie Betts;Kyle Freeland;-1%;63%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Rockies 3, Dodgers 4.
+Top of the 5th, Rockies Batting, Behind 3-4, Dodgers' Julio Urías facing 8-9-1 
+t5;3-4;0;---;4,(1-2) BTCT;O;COL;Brenton Doyle;Julio Urías;3%;67%;Strikeout Swinging
+t5;3-4;1;---;5,(1-2) CBFF*S;O;COL;Austin Wynns;Julio Urías;2%;69%;Strikeout Swinging
+t5;3-4;2;---;3,(0-2) SF*S;O;COL;Ezequiel Tovar;Julio Urías;2%;71%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 3, Dodgers 4.
+Bottom of the 5th, Dodgers Batting, Ahead 4-3, Rockies' Kyle Freeland facing 2-3-4 
+b5;4-3;0;---;3,(1-1) BFX;O;LAD;Freddie Freeman;Kyle Freeland;-2%;68%;Flyball: CF (Deep CF)
+b5;4-3;1;---;2,(0-1) CX;O;LAD;Will Smith;Kyle Freeland;-2%;67%;Flyball: LF (Deep LF Line)
+b5;4-3;2;---;3,(1-1) CBX;O;LAD;Amed Rosario;Kyle Freeland;-1%;66%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;Force Play Challenged by COL manager (Bud Black): Original call overturned as shown.
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 3, Dodgers 4.
+Top of the 6th, Rockies Batting, Behind 3-4, Dodgers' Julio Urías facing 2-3-4 
+t6;3-4;0;---;6,(2-2) BBCCFS;O;COL;Cole Tucker;Julio Urías;4%;69%;Strikeout Swinging
+t6;3-4;1;---;5,(2-2) SCBBT;O;COL;Brendan Rodgers;Julio Urías;3%;72%;Strikeout Swinging
+t6;3-4;2;---;4,(1-2) SFBS;O;COL;Elias Díaz;Julio Urías;2%;74%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 3, Dodgers 4.
+Bottom of the 6th, Dodgers Batting, Ahead 4-3, Rockies' Tyler Kinley facing 5-6-7 
+;;;;;;;;;Tyler Kinley replaces Kyle Freeland pitching
+b6;4-3;0;---;5,(2-2) .BFBCX;;LAD;Enrique Hernández;Tyler Kinley;3%;77%;Single to CF (Line Drive to Deep LF-CF)
+b6;4-3;0;1--;6,(3-2) BB+1FBC>B;;LAD;Max Muncy;Tyler Kinley;5%;82%;Walk; Hernández to 2B
+b6;4-3;0;12-;1,(0-0) X;;LAD;Chris Taylor;Tyler Kinley;6%;87%;Single to 1B (Ground Ball to Weak SS-2B); Hernández to 3B; Muncy to 2B
+b6;4-3;0;123;6,(3-2) CBB*BCT;O;LAD;James Outman;Tyler Kinley;-5%;82%;Strikeout Swinging
+b6;4-3;1;123;7,(3-2) SBFBFBX;RO;LAD;Miguel Rojas;Tyler Kinley;2%;84%;Flyball: CF/Sacrifice Fly (Deep CF-RF); Hernández Scores; Muncy to 3B
+b6;5-3;2;1-3;3,(2-0) BBX;RR;LAD;Mookie Betts;Tyler Kinley;10%;95%;Double to CF (Line Drive to Deep CF-RF); Muncy Scores; Taylor Scores
+;;;;;;;;;Daniel Bard replaces Tyler Kinley pitching
+b6;7-3;2;-2-;,(3-0) .VVVV;;LAD;Freddie Freeman;Daniel Bard;0%;95%;Intentional Walk
+b6;7-3;2;12-;4,(2-1) BCBX;O;LAD;Will Smith;Daniel Bard;-1%;94%;Lineout: P (P's Left)
+;;;;;;;;;3 runs, 3 hits, 0 errors, 2 LOB. Rockies 3, Dodgers 7.
+Top of the 7th, Rockies Batting, Behind 3-7, Dodgers' Julio Urías facing 5-6-7 
+t7;3-7;0;---;4,(1-2) CFBC;O;COL;Nolan Jones;Julio Urías;2%;95%;Strikeout Looking
+t7;3-7;1;---;1,(0-0) X;O;COL;Alan Trejo;Julio Urías;1%;96%;Lineout: CF (Deep CF)
+t7;3-7;2;---;5,(2-2) BSBSC;O;COL;Elehuris Montero;Julio Urías;1%;97%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 3, Dodgers 7.
+Bottom of the 7th, Dodgers Batting, Ahead 7-3, Rockies' Daniel Bard facing 4-5-6 
+;;;;;;;;;Jason Heyward pinch hits for Amed Rosario (DH) batting 4th
+b7;7-3;0;---;6,(3-2) .FBCBBB;;LAD;Jason Heyward;Daniel Bard;0%;97%;Walk
+b7;7-3;0;1--;5,(2-2) CBFBX;OO;LAD;Enrique Hernández;Daniel Bard;-1%;96%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b7;7-3;2;---;7,(3-2) FBBCFBX;O;LAD;Max Muncy;Daniel Bard;0%;96%;Flyball: LF (Short LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 3, Dodgers 7.
+Top of the 8th, Rockies Batting, Behind 3-7, Dodgers' Alex Vesia facing 8-9-1 
+;;;;;;;;;Alex Vesia replaces Julio Urías pitching
+t8;3-7;0;---;1,(0-0) ..X;O;COL;Brenton Doyle;Alex Vesia;1%;98%;Flyball: CF (Deep CF-RF)
+t8;3-7;1;---;8,(1-2) BSS.FFFFX;O;COL;Austin Wynns;Alex Vesia;1%;98%;Flyball: CF (Short CF)
+t8;3-7;2;---;3,(1-1) BCX;O;COL;Ezequiel Tovar;Alex Vesia;0%;99%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 3, Dodgers 7.
+Bottom of the 8th, Dodgers Batting, Ahead 7-3, Rockies' Justin Bruihl facing 7-8-9 
+;;;;;;;;;Justin Bruihl replaces Daniel Bard pitching
+b8;7-3;0;---;11,(3-2) .FSFFFBBFFBB;;LAD;Chris Taylor;Justin Bruihl;0%;99%;Walk
+b8;7-3;0;1--;2,(1-0) B>B;;LAD;James Outman;Justin Bruihl;0%;99%;Taylor Steals 2B
+b8;7-3;0;-2-;6,(3-2) B>B.CCBC;O;LAD;James Outman;Justin Bruihl;0%;99%;Strikeout Looking
+b8;7-3;1;-2-;4,(2-1) *BFB>C;;LAD;Miguel Rojas;Justin Bruihl;0%;99%;Taylor Steals 3B
+b8;7-3;1;--3;7,(3-2) *BFB>C.BFX;RO;LAD;Miguel Rojas;Justin Bruihl;0%;99%;Lineout: CF/Sacrifice Fly; Taylor Scores
+b8;8-3;2;---;4,(1-2) CBFX;;LAD;Mookie Betts;Justin Bruihl;0%;99%;Single to LF (Ground Ball thru SS-3B Hole)
+b8;8-3;2;1--;6,(3-2) BB1FF*B>S;O;LAD;Freddie Freeman;Justin Bruihl;0%;99%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Rockies 3, Dodgers 8.
+Top of the 9th, Rockies Batting, Behind 3-8, Dodgers' Victor González facing 2-3-4 
+;;;;;;;;;Victor González replaces Alex Vesia pitching
+t9;3-8;0;---;3,(0-2) .CCX;;COL;Cole Tucker;Victor González;-1%;99%;Single to CF (Ground Ball thru SS-2B)
+t9;3-8;0;1--;4,(2-1) CB*BX;O;COL;Brendan Rodgers;Victor González;1%;99%;Groundout: 3B-1B (SS-3B Hole); Tucker to 2B
+t9;3-8;1;-2-;3,(1-1) BFX;O;COL;Elias Díaz;Victor González;1%;100%;Flyball: CF
+t9;3-8;2;-2-;5,(2-2) BFCBC;O;COL;Nolan Jones;Victor González;0%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rockies 3, Dodgers 8.

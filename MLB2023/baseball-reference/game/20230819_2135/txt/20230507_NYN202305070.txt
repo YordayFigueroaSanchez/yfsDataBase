@@ -1,0 +1,290 @@
+
+Scorebox Meta
+20230507
+1:40 p.m. Local
+36501
+Citi Field
+186
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;1;0;2;0;7;0;1;0;2;13;14;1
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;3;0;0;1;1;0;1;0;0;6;9;0
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;3;1;0;0;1;1;5;.310;.407;.460;.867;27;13;0.017; 0.83;0.060;-0.043; 0.01%; 0.83; -0.2;1;0;HBP
+Francisco Lindor;/players/l/lindofr01.shtml;SS;3;1;0;0;2;0;5;.217;.320;.426;.746;19;10;0.091; 1.06;0.128;-0.037; 0.05%; 1.06; 0.6;3;3;
+Jeff McNeil;/players/m/mcneije01.shtml;RF;5;1;3;2;0;0;5;.289;.394;.405;.799;20;12;0.173; 1.18;0.197;-0.024; 0.10%; 1.18; 1.7;3;0;
+Pete Alonso;/players/a/alonspe01.shtml;1B;3;0;0;0;2;1;5;.235;.318;.508;.825;21;11;-0.031; 1.09;0.046;-0.077;-0.02%; 1.09; -0.6;7;2;
+Brett Baty;/players/b/batybr01.shtml;3B;5;0;1;2;0;1;5;.286;.344;.446;.791;19;11;0.000; 1.22;0.115;-0.115;0%; 1.22; -0.3;0;2;
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;4;1;1;1;1;2;5;.265;.398;.412;.809;22;11;-0.011; 0.56;0.030;-0.041;-0.01%; 0.56; 0.5;;;HR
+Mark Canha;/players/c/canhama01.shtml;LF;5;1;1;0;0;1;5;.222;.304;.370;.674;14;11;-0.053; 0.58;0.014;-0.067;-0.03%; 0.58; -0.6;0;0;2B
+Luis Guillorme;/players/g/guilllu01.shtml;2B;4;0;2;1;0;1;4;.235;.328;.255;.582;17;12;-0.037; 0.74;0.026;-0.064;-0.02%; 0.74; 0.0;5;2;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;3;1;1;0;1;1;4;.220;.264;.320;.584;16;8;0.054; 0.55;0.074;-0.020; 0.03%; 0.55; 0.4;7;0;2B
+Joey Lucchesi;/players/l/lucchjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jimmy Yacabonis;/players/y/yacabji01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tommy Hunter;/players/h/hunteto02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jeff Brigham;/players/b/brighje01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Dominic Leone;/players/l/leonedo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Francisco Alvarez (2, off Ryan Feltner); Mark Canha (7, off Brent Suter).
+
+
+HR: Daniel Vogelbach (2, off Daniel Bard, 7th inn, 0 on, 0 outs to Deep RF).
+
+
+HBP: Brandon Nimmo (3, by Ryan Feltner).
+
+
+TB: Daniel Vogelbach 4; Jeff McNeil 3; Luis Guillorme 2; Francisco Alvarez 2; Mark Canha 2; Brett Baty.
+
+
+RBI: Brett Baty 2 (6); Jeff McNeil 2 (12); Daniel Vogelbach (13); Luis Guillorme (3).
+
+
+Team LOB: 10.
+With RISP: 5 for 9.
+
+Batting away
+Jurickson Profar;/players/p/profaju01.shtml;LF;5;1;2;1;1;2;6;.216;.306;.336;.642;24;16;0.078; 0.60;0.130;-0.053; 0.03%; 0.34; 1.0;1;0;2B
+Randal Grichuk;/players/g/grichra01.shtml;DH;5;2;1;1;1;0;6;.407;.484;.593;1.076;31;18;0.128; 0.59;0.152;-0.024; 0.04%; 0.33; 0.3;;;HR
+Kris Bryant;/players/b/bryankr01.shtml;RF;5;1;2;3;0;1;5;.300;.387;.467;.854;16;13;0.272; 0.89;0.292;-0.020; 0.09%; 0.49; 1.6;1;1;HR
+C.J. Cron;/players/c/croncj01.shtml;1B;3;1;0;0;2;0;5;.235;.295;.445;.740;19;10;0.012; 0.56;0.048;-0.036; 0.00%; 0.31; -0.1;8;1;
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;4;1;1;0;1;1;5;.210;.286;.387;.672;20;11;0.105; 0.65;0.128;-0.024; 0.03%; 0.36; 0.9;0;1;2B
+Alan Trejo;/players/t/trejoal01.shtml;2B;5;2;2;0;0;1;5;.250;.271;.324;.595;20;13;-0.114; 0.86;0.009;-0.123;-0.04%; 0.48; -0.3;3;0;2B
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;5;1;2;2;0;0;5;.243;.288;.396;.685;14;13;0.072; 0.72;0.121;-0.049; 0.02%; 0.40; 1.4;3;4;2B
+Austin Wynns;/players/w/wynnsau01.shtml;C;3;1;1;2;1;1;5;.188;.263;.250;.513;21;12;0.066; 0.40;0.080;-0.014; 0.02%; 0.22; 0.4;8;0;SF
+Brenton Doyle;/players/d/doylebr02.shtml;CF;5;3;3;3;0;1;5;.250;.314;.375;.689;11;10;0.084; 0.47;0.118;-0.035; 0.03%; 0.26; 3.3;2;0;HR,SB
+Ryan Feltner;/players/f/feltnry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Brent Suter;/players/s/suterbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Nick Mears;/players/m/mearsni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Daniel Bard;/players/b/bardda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brad Hand;/players/h/handbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Justin Lawrence;/players/l/lawreju01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Jurickson Profar (5, off Joey Lucchesi); Ryan McMahon (9, off Jimmy Yacabonis); Ezequiel Tovar (9, off Jimmy Yacabonis); Alan Trejo (5, off Tommy Hunter).
+
+
+HR: Randal Grichuk (1, off Joey Lucchesi, 1st inn, 0 on, 1 out to Deep LF); Kris Bryant (5, off Jimmy Yacabonis, 5th inn, 1 on, 0 outs to Deep LF-CF); Brenton Doyle (1, off Tommy Hunter, 5th inn, 1 on, 1 out to Deep RF).
+
+
+SF: Austin Wynns (1, off Dominic Leone).
+
+
+TB: Brenton Doyle 6; Kris Bryant 5; Randal Grichuk 4; Ezequiel Tovar 3; Alan Trejo 3; Jurickson Profar 3; Ryan McMahon 2; Austin Wynns.
+
+
+RBI: Brenton Doyle 3 (5); Kris Bryant 3 (13); Austin Wynns 2 (4); Ezequiel Tovar 2 (15); Randal Grichuk (1); Jurickson Profar (11).
+
+
+2-out RBI: Brenton Doyle.
+
+
+Team LOB: 7.
+With RISP: 4 for 11.
+
+Pitching home
+Joey Lucchesi;/players/l/lucchjo01.shtml;Joey Lucchesi; 4 ;4;3;3;3;4;1;4.43;19;70;43;25;7;11;5;7;3;0;43;;;-0.103; 1.01;-0.06%; 1.01; -1.0
+Jimmy Yacabonis;/players/y/yacabji01.shtml; L (2-1); 0.1;3;5;5;2;0;1;9.00;6;20;11;6;1;4;1;3;1;0;;0;0;-0.489; 1.46;-0.29%; 1.46; -4.2
+Tommy Hunter;/players/h/hunteto02.shtml;Tommy Hunter; 2.2;4;3;3;1;2;1;7.11;13;49;36;26;3;7;6;4;2;0;;1;1;-0.109; 0.18;-0.07%; 0.18; -2.3
+Jeff Brigham;/players/b/brighje01.shtml;Jeff Brigham; 1 ;0;0;0;0;1;0;3.60;3;9;6;4;1;1;1;1;0;0;;0;0;0.004; 0.05; 0.00%; 0.05; 0.5
+Dominic Leone;/players/l/leonedo01.shtml;Dominic Leone; 1 ;3;2;2;0;0;0;6.00;6;28;20;13;3;4;1;5;2;0;;0;0;-0.005; 0.03;-0.00%; 0.03; -1.5
+
+Pitching away
+Ryan Feltner;/players/f/feltnry01.shtml;Ryan Feltner; 3.1;4;4;4;6;3;0;5.08;20;83;43;19;6;18;3;7;4;0;33;;;-0.277; 1.23;-0.09%; 0.68; -2.6
+Brent Suter;/players/s/suterbr01.shtml; W (1-0); 1.2;3;1;1;0;3;0;1.23;8;35;20;9;4;7;3;2;1;0;;3;1;0.031; 1.25; 0.01%; 0.69; 0.1
+Nick Mears;/players/m/mearsni01.shtml;Nick Mears; 1 ;0;0;0;1;0;0;4.50;4;20;10;6;0;4;1;2;0;0;;0;0;0.024; 0.34; 0.01%; 0.19; 0.5
+Daniel Bard;/players/b/bardda01.shtml;Daniel Bard; 1 ;1;1;1;0;0;1;1.50;4;13;10;5;0;5;2;2;0;0;;0;0;0.003; 0.26; 0.00%; 0.14; -0.5
+Brad Hand;/players/h/handbr01.shtml;Brad Hand; 1 ;1;0;0;0;1;0;3.55;4;13;9;6;1;2;1;2;1;0;;0;0;0.015; 0.20; 0.01%; 0.11; 0.5
+Justin Lawrence;/players/l/lawreju01.shtml;Justin Lawrence; 1 ;0;0;0;0;1;0;1.47;3;11;7;3;1;3;2;0;0;0;;0;0;0.001; 0.01; 0.00%; 0.01; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Dominic Leone (1).
+HBP: Ryan Feltner (1; Brandon Nimmo).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Dominic Leone (1).
+HBP: Ryan Feltner (1; Brandon Nimmo).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Marvin Hudson, 1B - Hunter Wendelstedt, 2B - John Tumpane, 3B - Alex MacKay, LF - (none), RF - (none).
+Time of Game: 3:06.
+Attendance: 36,501.
+Field Condition: Unknown.
+Start Time Weather: 75° F, Wind 4mph out to Rightfield, Sunny, No Precipitation.
+
+div_lineups
+Rockies
+1;Jurickson Profar;/players/p/profaju01.shtml;LF
+2;Randal Grichuk;/players/g/grichra01.shtml;DH
+3;Kris Bryant;/players/b/bryankr01.shtml;RF
+4;C.J. Cron;/players/c/croncj01.shtml;1B
+5;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+6;Alan Trejo;/players/t/trejoal01.shtml;2B
+7;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+8;Austin Wynns;/players/w/wynnsau01.shtml;C
+9;Brenton Doyle;/players/d/doylebr02.shtml;CF
+; Ryan Feltner;/players/f/feltnry01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Jeff McNeil;/players/m/mcneije01.shtml;RF
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Brett Baty;/players/b/batybr01.shtml;3B
+6;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+7;Mark Canha;/players/c/canhama01.shtml;LF
+8;Luis Guillorme;/players/g/guilllu01.shtml;2B
+9;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+; Joey Lucchesi;/players/l/lucchjo01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t5;3-4;0;1--;2,(0-1) CX;RR;COL;Kris Bryant;Jimmy Yacabonis;23%;64%;Home Run (Fly Ball to Deep LF-CF); Grichuk Scores
+t3;1-3;0;1--;2,(0-1) CX;R;COL;Jurickson Profar;Joey Lucchesi;13%;46%;Double to CF (Line Drive to Deep CF-RF); Doyle Scores
+t5;5-4;1;-23;3,(0-2) FCX;RR;COL;Ezequiel Tovar;Jimmy Yacabonis;12%;85%;Double to RF (Ground Ball); Cron Scores; McMahon Scores
+b1;1-1;1;-23;2,(1-0) BX;RR;NYM;Brett Baty;Ryan Feltner;-12%;25%;Single to RF (Ground Ball thru 2B-1B); Lindor Scores; McNeil Scores; Baty to 2B/Adv on E9 (throw)
+t5;5-4;0;1--;4,(1-2) SBFX;;COL;Ryan McMahon;Jimmy Yacabonis;11%;78%;Double to LF (Line Drive to LF Line); Cron to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Rockies Batting, Tied 0-0, Mets' Joey Lucchesi facing 1-2-3 
+t1;0-0;0;---;4,(1-2) CFB*S;O;COL;Jurickson Profar;Joey Lucchesi;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;6,(3-2) B.BBCSX;R;COL;Randal Grichuk;Joey Lucchesi;10%;58%;Home Run (Fly Ball to Deep LF)
+t1;1-0;1;---;1,(0-0) X;O;COL;Kris Bryant;Joey Lucchesi;-1%;56%;Flyball: 2B (Short CF-RF)
+t1;1-0;2;---;8,(3-2) BBCBCFFB;;COL;C.J. Cron;Joey Lucchesi;1%;57%;Walk
+t1;1-0;2;1--;1,(0-0) X;O;COL;Ryan McMahon;Joey Lucchesi;-2%;55%;Groundout: 2B-SS/Forceout at 2B (2B-1B); McMahon to 1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Rockies 1, Mets 0.
+Bottom of the 1st, Mets Batting, Behind 0-1, Rockies' Ryan Feltner facing 1-2-3 
+b1;0-1;0;---;4,(3-0) BBBB;;NYM;Brandon Nimmo;Ryan Feltner;-4%;52%;Walk
+b1;0-1;0;1--;6,(3-2) BBCBF>B;;NYM;Francisco Lindor;Ryan Feltner;-6%;46%;Walk; Nimmo to 2B
+b1;0-1;0;12-;3,(1-1) BSX;R;NYM;Jeff McNeil;Ryan Feltner;-9%;36%;Single to CF (Line Drive to Deep LF-CF); Nimmo Scores; Lindor to 2B
+b1;1-1;0;12-;2,(1-0) BX;O;NYM;Pete Alonso;Ryan Feltner;0%;37%;Groundout: P-1B (Short 1B Line); Lindor to 3B; McNeil to 2B
+b1;1-1;1;-23;2,(1-0) BX;RR;NYM;Brett Baty;Ryan Feltner;-12%;25%;Single to RF (Ground Ball thru 2B-1B); Lindor Scores; McNeil Scores; Baty to 2B/Adv on E9 (throw)
+b1;3-1;1;-2-;5,(3-1) BC*BBB;;NYM;Daniel Vogelbach;Ryan Feltner;-1%;24%;Walk
+b1;3-1;1;12-;3,(1-1) BCX;O;NYM;Mark Canha;Ryan Feltner;3%;27%;Lineout: SS
+b1;3-1;2;12-;7,(2-2) BBCCFFX;O;NYM;Luis Guillorme;Ryan Feltner;3%;30%;Single to RF (Line Drive to Short RF); Baty to 3B; Vogelbach out at 3B/RF-SS
+;;;;;;;;;3 runs, 3 hits, 1 error, 2 LOB. Rockies 1, Mets 3.
+Top of the 2nd, Rockies Batting, Behind 1-3, Mets' Joey Lucchesi facing 6-7-8 
+t2;1-3;0;---;8,(2-2) CFFFB.BFS;O;COL;Alan Trejo;Joey Lucchesi;-2%;28%;Strikeout Swinging
+t2;1-3;1;---;2,(0-1) CX;O;COL;Ezequiel Tovar;Joey Lucchesi;-2%;26%;Groundout: SS-1B (Weak SS)
+t2;1-3;2;---;6,(3-2) BCFBBS;O;COL;Austin Wynns;Joey Lucchesi;-1%;25%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 1, Mets 3.
+Bottom of the 2nd, Mets Batting, Ahead 3-1, Rockies' Ryan Feltner facing 9-1-2 
+b2;3-1;0;---;5,(3-1) BBBCB;;NYM;Francisco Alvarez;Ryan Feltner;-2%;23%;Walk
+b2;3-1;0;1--;8,(3-2) CBCBFBFX;O;NYM;Brandon Nimmo;Ryan Feltner;2%;25%;Groundout: SS-2B/Forceout at 2B (Weak SS); Nimmo to 1B
+b2;3-1;1;1--;2,(0-1) CX;O;NYM;Francisco Lindor;Ryan Feltner;2%;27%;Lineout: 2B
+b2;3-1;2;1--;2,(0-1) FX;O;NYM;Jeff McNeil;Ryan Feltner;2%;29%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rockies 1, Mets 3.
+Top of the 3rd, Rockies Batting, Behind 1-3, Mets' Joey Lucchesi facing 9-1-2 
+t3;1-3;0;---;1,(0-0) X;;COL;Brenton Doyle;Joey Lucchesi;4%;33%;Single to P (Bunt)
+t3;1-3;0;1--;2,(0-1) CX;R;COL;Jurickson Profar;Joey Lucchesi;13%;46%;Double to CF (Line Drive to Deep CF-RF); Doyle Scores
+t3;2-3;0;-2-;2,(1-0) BX;O;COL;Randal Grichuk;Joey Lucchesi;-2%;44%;Lineout: RF (Deep RF); Profar to 3B
+t3;2-3;1;--3;3,(1-1) FBX;R;COL;Kris Bryant;Joey Lucchesi;6%;50%;Single to CF (Fly Ball to Short CF); Profar Scores
+t3;3-3;1;1--;4,(1-2) 1SFBX;O;COL;C.J. Cron;Joey Lucchesi;-3%;47%;Groundout: SS-2B/Forceout at 2B; Cron to 1B
+t3;3-3;2;1--;6,(3-2) CBBFB>B;;COL;Ryan McMahon;Joey Lucchesi;2%;49%;Walk; Cron to 2B
+t3;3-3;2;12-;4,(2-1) *BS.BX;O;COL;Alan Trejo;Joey Lucchesi;-5%;44%;Groundout: 2B unassisted/Forceout at 2B; Trejo to 1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Rockies 3, Mets 3.
+Bottom of the 3rd, Mets Batting, Tied 3-3, Rockies' Ryan Feltner facing 4-5-6 
+b3;3-3;0;---;7,(3-2) CCBFBBB;;NYM;Pete Alonso;Ryan Feltner;-4%;41%;Walk
+b3;3-3;0;1--;3,(0-2) CSS;O;NYM;Brett Baty;Ryan Feltner;4%;44%;Strikeout Swinging
+b3;3-3;1;1--;6,(3-2) BBBCFS;O;NYM;Daniel Vogelbach;Ryan Feltner;3%;47%;Strikeout Swinging
+b3;3-3;2;1--;2,(0-1) CX;O;NYM;Mark Canha;Ryan Feltner;3%;50%;Flyball: 2B (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rockies 3, Mets 3.
+Top of the 4th, Rockies Batting, Tied 3-3, Mets' Joey Lucchesi facing 7-8-9 
+t4;3-3;0;---;1,(0-0) X;O;COL;Ezequiel Tovar;Joey Lucchesi;-3%;47%;Foul Popfly: 1B (1B into Foul Terr.)
+t4;3-3;1;---;6,(3-2) CBBFBB;;COL;Austin Wynns;Joey Lucchesi;3%;50%;Walk
+t4;3-3;1;1--;3,(0-2) CF1S;O;COL;Brenton Doyle;Joey Lucchesi;-3%;47%;Strikeout Swinging
+t4;3-3;2;1--;2,(1-0) BX;O;COL;Jurickson Profar;Joey Lucchesi;-3%;44%;Lineout: 2B (Deep 2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rockies 3, Mets 3.
+Bottom of the 4th, Mets Batting, Tied 3-3, Rockies' Ryan Feltner facing 8-9-1 
+b4;3-3;0;---;3,(0-2) CCS;O;NYM;Luis Guillorme;Ryan Feltner;3%;47%;Strikeout Swinging
+b4;3-3;1;---;3,(1-1) CBX;;NYM;Francisco Alvarez;Ryan Feltner;-5%;42%;Double to LF (Fly Ball to Deep LF-CF)
+b4;3-3;1;-2-;5,(2-2) FBBSH;;NYM;Brandon Nimmo;Ryan Feltner;-2%;40%;Hit By Pitch
+b4;3-3;1;12-;5,(3-1) BBCBB;;NYM;Francisco Lindor;Ryan Feltner;-7%;33%;Walk; Alvarez to 3B; Nimmo to 2B
+;;;;;;;;;Brent Suter replaces Ryan Feltner pitching
+b4;3-3;1;123;3,(1-1) .CBX;R;NYM;Jeff McNeil;Brent Suter;-10%;23%;Single to 2B (Ground Ball); Alvarez Scores; Nimmo to 3B; Lindor to 2B
+b4;4-3;1;123;5,(1-2) CSBFC;O;NYM;Pete Alonso;Brent Suter;7%;29%;Strikeout Looking
+b4;4-3;2;123;6,(3-2) B*BFBS>X;O;NYM;Brett Baty;Brent Suter;7%;36%;Groundout: P-1B (Weak 2B-1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 3 LOB. Rockies 3, Mets 4.
+Top of the 5th, Rockies Batting, Behind 3-4, Mets' Jimmy Yacabonis facing 2-3-4 
+;;;;;;;;;Jimmy Yacabonis replaces Joey Lucchesi pitching
+t5;3-4;0;---;5,(3-1) .CBBBB;;COL;Randal Grichuk;Jimmy Yacabonis;5%;41%;Walk
+t5;3-4;0;1--;2,(0-1) CX;RR;COL;Kris Bryant;Jimmy Yacabonis;23%;64%;Home Run (Fly Ball to Deep LF-CF); Grichuk Scores
+t5;5-4;0;---;5,(3-1) BBBCB;;COL;C.J. Cron;Jimmy Yacabonis;4%;68%;Walk
+t5;5-4;0;1--;4,(1-2) SBFX;;COL;Ryan McMahon;Jimmy Yacabonis;11%;78%;Double to LF (Line Drive to LF Line); Cron to 3B
+t5;5-4;0;-23;1,(0-0) X;O;COL;Alan Trejo;Jimmy Yacabonis;-5%;73%;Popfly: SS
+t5;5-4;1;-23;3,(0-2) FCX;RR;COL;Ezequiel Tovar;Jimmy Yacabonis;12%;85%;Double to RF (Ground Ball); Cron Scores; McMahon Scores
+;;;;;;;;;Tommy Hunter replaces Jimmy Yacabonis pitching
+t5;7-4;1;-2-;5,(2-2) .FBBS>X;R;COL;Austin Wynns;Tommy Hunter;5%;90%;Single to LF (Ground Ball); Tovar Scores
+t5;8-4;1;1--;2,(0-1) SX;RR;COL;Brenton Doyle;Tommy Hunter;6%;96%;Home Run (Fly Ball to Deep RF); Wynns Scores
+t5;10-4;1;---;4,(1-2) FFBC;O;COL;Jurickson Profar;Tommy Hunter;0%;96%;Strikeout Looking
+t5;10-4;2;---;2,(0-1) CX;O;COL;Randal Grichuk;Tommy Hunter;0%;96%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;7 runs, 5 hits, 0 errors, 0 LOB. Rockies 10, Mets 4.
+Bottom of the 5th, Mets Batting, Behind 4-10, Rockies' Brent Suter facing 6-7-8 
+b5;4-10;0;---;5,(2-2) CBSBC;O;NYM;Daniel Vogelbach;Brent Suter;1%;97%;Strikeout Looking
+b5;4-10;1;---;3,(2-0) BBX;;NYM;Mark Canha;Brent Suter;-1%;95%;Double to LF (Fly Ball to Deep LF Line)
+b5;4-10;1;-2-;1,(0-0) X;R;NYM;Luis Guillorme;Brent Suter;-3%;93%;Single to CF (Line Drive to Deep LF-CF); Canha Scores
+b5;5-10;1;1--;6,(3-2) BBCSBC;O;NYM;Francisco Alvarez;Brent Suter;2%;94%;Strikeout Looking
+b5;5-10;2;1--;6,(3-2) B1FFBB>X;O;NYM;Brandon Nimmo;Brent Suter;1%;95%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Rockies 10, Mets 5.
+Top of the 6th, Rockies Batting, Ahead 10-5, Mets' Tommy Hunter facing 3-4-5 
+t6;10-5;0;---;6,(1-2) CFBFFX;O;COL;Kris Bryant;Tommy Hunter;0%;95%;Lineout: 3B-1B (Deep 3B)
+t6;10-5;1;---;1,(0-0) X;O;COL;C.J. Cron;Tommy Hunter;0%;95%;Groundout: 1B unassisted (Weak 1B)
+t6;10-5;2;---;5,(2-2) BFBFS;O;COL;Ryan McMahon;Tommy Hunter;0%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 10, Mets 5.
+Bottom of the 6th, Mets Batting, Behind 5-10, Rockies' Nick Mears facing 2-3-4 
+;;;;;;;;;Nick Mears replaces Brent Suter pitching
+b6;5-10;0;---;5,(1-2) .CFBFX;O;NYM;Francisco Lindor;Nick Mears;1%;96%;Groundout: 1B unassisted
+b6;5-10;1;---;5,(3-1) BBCBX;O;NYM;Jeff McNeil;Nick Mears;1%;97%;Flyball: RF (Short RF)
+b6;5-10;2;---;6,(3-2) BBCFBB;;NYM;Pete Alonso;Nick Mears;-1%;96%;Walk
+b6;5-10;2;1--;4,(2-1) BCBX;O;NYM;Brett Baty;Nick Mears;1%;97%;Popfly: SS
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rockies 10, Mets 5.
+Top of the 7th, Rockies Batting, Ahead 10-5, Mets' Tommy Hunter facing 6-7-8 
+t7;10-5;0;---;2,(0-1) FX;;COL;Alan Trejo;Tommy Hunter;1%;98%;Double to LF (Fly Ball to Deep LF-CF)
+t7;10-5;0;-2-;5,(1-2) .CBFFX;O;COL;Ezequiel Tovar;Tommy Hunter;-1%;97%;Lineout: RF (Deep RF)
+t7;10-5;1;-2-;1,(0-0) X;O;COL;Austin Wynns;Tommy Hunter;0%;97%;Groundout: 2B-1B; Trejo to 3B
+t7;10-5;2;--3;2,(0-1) CX;R;COL;Brenton Doyle;Tommy Hunter;1%;98%;Single to SS (Ground Ball to Weak 3B); Trejo Scores
+t7;11-5;2;1--;1,(0-0) 1>B;;COL;Jurickson Profar;Tommy Hunter;0%;98%;Doyle Steals 2B
+t7;11-5;2;-2-;7,(3-2) 1>B.BCBFFB;;COL;Jurickson Profar;Tommy Hunter;0%;98%;Walk
+t7;11-5;2;12-;7,(2-2) CFFBBFX;O;COL;Randal Grichuk;Tommy Hunter;0%;98%;Groundout: SS-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Rockies 11, Mets 5.
+Bottom of the 7th, Mets Batting, Behind 5-11, Rockies' Daniel Bard facing 6-7-8 
+;;;;;;;;;Daniel Bard replaces Nick Mears pitching
+b7;5-11;0;---;2,(0-1) .CX;R;NYM;Daniel Vogelbach;Daniel Bard;-2%;96%;Home Run (Fly Ball to Deep RF)
+b7;6-11;0;---;3,(0-2) CFX;O;NYM;Mark Canha;Daniel Bard;1%;97%;Flyball: LF (Deep LF-CF)
+b7;6-11;1;---;6,(3-2) CBBBCX;O;NYM;Luis Guillorme;Daniel Bard;1%;98%;Groundout: SS-1B
+b7;6-11;2;---;2,(0-1) CX;O;NYM;Francisco Alvarez;Daniel Bard;0%;98%;Groundout: SS-1B (Weak SS)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Rockies 11, Mets 6.
+Top of the 8th, Rockies Batting, Ahead 11-6, Mets' Jeff Brigham facing 3-4-5 
+;;;;;;;;;Jeff Brigham replaces Tommy Hunter pitching
+t8;11-6;0;---;4,(1-2) .CBF.S;O;COL;Kris Bryant;Jeff Brigham;0%;98%;Strikeout Swinging
+t8;11-6;1;---;1,(0-0) X;O;COL;C.J. Cron;Jeff Brigham;0%;98%;Flyball: CF (Deep CF)
+t8;11-6;2;---;4,(2-1) FBBX;O;COL;Ryan McMahon;Jeff Brigham;0%;98%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 11, Mets 6.
+Bottom of the 8th, Mets Batting, Behind 6-11, Rockies' Brad Hand facing 1-2-3 
+;;;;;;;;;Brad Hand replaces Daniel Bard pitching
+b8;6-11;0;---;4,(1-2) .BCFS;O;NYM;Brandon Nimmo;Brad Hand;1%;99%;Strikeout Swinging
+b8;6-11;1;---;1,(0-0) X;O;NYM;Francisco Lindor;Brad Hand;0%;99%;Flyball: CF (Deep CF)
+b8;6-11;2;---;7,(3-2) CBBFFBX;;NYM;Jeff McNeil;Brad Hand;0%;99%;Single to LF (Line Drive)
+b8;6-11;2;1--;1,(0-0) X;O;NYM;Pete Alonso;Brad Hand;1%;99%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rockies 11, Mets 6.
+Top of the 9th, Rockies Batting, Ahead 11-6, Mets' Dominic Leone facing 6-7-8 
+;;;;;;;;;Dominic Leone replaces Jeff Brigham pitching
+t9;11-6;0;---;5,(3-1) .BBFBX;;COL;Alan Trejo;Dominic Leone;0%;99%;Single to LF (Line Drive to LF-CF)
+t9;11-6;0;1--;3,(0-2) SC+1X;;COL;Ezequiel Tovar;Dominic Leone;0%;100%;Single to 2B (Line Drive to Deep 2B); Trejo to 3B
+t9;11-6;0;1-3;3,(0-2) SS.X;RO;COL;Austin Wynns;Dominic Leone;0%;100%;Flyball: RF/Sacrifice Fly (RF Line); Trejo Scores
+t9;12-6;1;1--;3,(1-1) BCX;O;COL;Brenton Doyle;Dominic Leone;0%;100%;Groundout: 1B-SS/Forceout at 2B; Doyle to 1B
+;;;;;;;;;Force Play Challenged by COL manager (Bud Black): Original call overturned as shown.
+t9;12-6;2;1--;5,(1-2) CFBFX;;COL;Jurickson Profar;Dominic Leone;0%;100%;Single to RF (Fly Ball to Short CF-RF); Doyle to 3B
+t9;12-6;2;1-3;3,(0-2) CFB;R;COL;Randal Grichuk;Dominic Leone;0%;100%;Wild Pitch; Doyle Scores/No RBI; Profar to 2B
+t9;13-6;2;-2-;9,(3-2) CFB.BFFBFX;O;COL;Randal Grichuk;Dominic Leone;0%;100%;Popfly: 2B (Deep 2B-1B)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Rockies 13, Mets 6.
+Bottom of the 9th, Mets Batting, Behind 6-13, Rockies' Justin Lawrence facing 5-6-7 
+;;;;;;;;;Justin Lawrence replaces Brad Hand pitching
+b9;6-13;0;---;4,(2-1) .BBCX;O;NYM;Brett Baty;Justin Lawrence;0%;100%;Groundout: 1B-P
+b9;6-13;1;---;4,(2-1) CBBX;O;NYM;Daniel Vogelbach;Justin Lawrence;0%;100%;Groundout: SS-1B
+b9;6-13;2;---;3,(0-2) CFS;O;NYM;Mark Canha;Justin Lawrence;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 13, Mets 6.

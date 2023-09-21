@@ -1,0 +1,251 @@
+
+Scorebox Meta
+20230402
+1:35 p.m. Local
+42053
+Yankee Stadium III
+147
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/SFG-2023.png;/teams/SFG/2023.shtml;0;0;0;0;0;0;0;0;0;0;3;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;0;3;1;0;0;2;0;X;6;7;1
+
+Batting home
+Gleyber Torres;/players/t/torregl01.shtml;2B;3;1;1;0;1;0;4;.200;.333;.500;.833;21;11;0.014; 0.41;0.044;-0.030; 0.01%; 0.36; 1.2;1;4;SB
+Aaron Judge;/players/j/judgeaa01.shtml;RF;4;1;1;1;0;2;4;.462;.462;.923;1.385;15;9;0.077; 0.62;0.119;-0.042; 0.04%; 0.55; -0.1;2;0;HR
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;1;1;1;1;1;0;4;.375;.538;.500;1.038;20;12;0.059; 0.45;0.069;-0.010; 0.03%; 0.40; 0.5;7;1;CS,HBP,SF
+Giancarlo Stanton;/players/s/stantmi03.shtml;DH;3;1;1;2;1;0;4;.250;.308;.750;1.058;13;6;0.107; 0.83;0.159;-0.052; 0.06%; 0.74; 1.0;;;HR
+Josh Donaldson;/players/d/donaljo02.shtml;3B;3;0;0;0;1;2;4;.182;.250;.455;.705;22;12;0.017; 0.53;0.029;-0.012; 0.01%; 0.47; -0.3;0;2;
+Oswaldo Cabrera;/players/c/cabreos01.shtml;LF;4;0;2;0;0;2;4;.250;.250;.250;.500;19;12;-0.069; 0.80;0.007;-0.076;-0.04%; 0.71; -0.5;1;0;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;CF;4;0;0;0;0;0;4;.000;.000;.000;.000;20;14;-0.039; 0.36;0.000;-0.039;-0.02%; 0.33; -0.8;3;0;
+Kyle Higashioka;/players/h/higasky01.shtml;C;4;1;1;1;0;0;4;.250;.250;1.000;1.250;12;8;0.032; 0.30;0.052;-0.019; 0.02%; 0.27; 0.4;12;0;HR
+Anthony Volpe;/players/v/volpean01.shtml;SS;3;1;0;0;1;0;4;.222;.364;.222;.586;13;6;-0.003; 0.21;0.015;-0.019;-0.00%; 0.19; 0.4;0;0;SB
+Jhony Brito;/players/b/britojh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Jimmy Cordero;/players/c/cordeji01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ron Marinaccio;/players/m/marinro01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Colten Brewer;/players/b/breweco01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+HR: Aaron Judge (2, off Ross Stripling, 3rd inn, 0 on, 1 out to Deep LF-CF); Giancarlo Stanton (2, off Ross Stripling, 3rd inn, 1 on, 1 out to Deep CF); Kyle Higashioka (1, off Ross Stripling, 4th inn, 0 on, 0 outs to Deep LF).
+
+
+SF: Anthony Rizzo (1, off Sean Hjelle).
+
+
+HBP: Anthony Rizzo (1, by Ross Stripling).
+
+
+TB: Kyle Higashioka 4; Giancarlo Stanton 4; Aaron Judge 4; Oswaldo Cabrera 2; Anthony Rizzo; Gleyber Torres.
+
+
+RBI: Giancarlo Stanton 2 (3); Kyle Higashioka (1); Aaron Judge (4); Anthony Rizzo (2).
+
+
+Team LOB: 6.
+With RISP: 0 for 6.
+
+Batting away
+LaMonte Wade Jr.;/players/w/wadela01.shtml;LF;2;0;0;0;0;2;4;.125;.462;.125;.587;17;10;0.006; 0.61;0.040;-0.034; 0.00%; 0.56; 0.2;0;0;2·HBP
+Michael Conforto;/players/c/confomi01.shtml;RF;3;0;0;0;1;1;4;.083;.154;.083;.237;20;12;-0.027; 0.86;0.038;-0.065;-0.01%; 0.78; -0.6;1;0;
+J.D. Davis;/players/d/davisjd01.shtml;1B;3;0;1;0;1;1;4;.200;.333;.200;.533;23;12;-0.115; 0.86;0.015;-0.131;-0.06%; 0.79; -1.1;9;0;GDP
+Joc Pederson;/players/p/pederjo01.shtml;DH;4;0;0;0;0;0;4;.182;.308;.455;.762;13;8;-0.075; 0.65;0.000;-0.075;-0.04%; 0.59; -1.2;;;
+Mike Yastrzemski;/players/y/yastrmi01.shtml;CF;4;0;1;0;0;1;4;.273;.273;.455;.727;13;10;-0.011; 0.57;0.030;-0.041;-0.01%; 0.52; -0.4;2;0;
+David Villar;/players/v/villada01.shtml;3B;4;0;0;0;0;2;4;.200;.200;.200;.400;14;11;-0.054; 0.56;0.000;-0.054;-0.03%; 0.51; -1.1;0;2;
+Brandon Crawford;/players/c/crawfbr01.shtml;SS;3;0;0;0;0;2;3;.273;.273;.636;.909;13;9;-0.037; 0.49;0.000;-0.037;-0.02%; 0.45; -0.5;3;2;
+Blake Sabol;/players/s/sabolbl01.shtml;C;3;0;0;0;0;1;3;.143;.333;.143;.476;5;5;-0.044; 0.55;0.000;-0.044;-0.02%; 0.50; -0.7;6;0;
+Thairo Estrada;/players/e/estrath01.shtml;2B;3;0;1;0;0;2;3;.333;.333;.333;.667;13;11;0.052; 0.84;0.072;-0.020; 0.03%; 0.77; 0.8;3;2;
+Ross Stripling;/players/s/stripro01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;3;
+Sean Hjelle;/players/h/hjellse01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Scott Alexander;/players/a/alexasc02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HBP: LaMonte Wade Jr. 2 (2, 1 by Colten Brewer, 1 by Jimmy Cordero).
+
+
+TB: Thairo Estrada; Mike Yastrzemski; J.D. Davis.
+
+
+GIDP: J.D. Davis (1).
+
+
+Team LOB: 6.
+With RISP: 0 for 5.
+
+Pitching home
+Jhony Brito;/players/b/britojh01.shtml; W (1-0); 5 ;2;0;0;1;6;0;0.00;17;76;51;27;15;9;6;4;1;0;68;;;0.236; 0.76; 0.13%; 0.67; 2.5
+Jimmy Cordero;/players/c/cordeji01.shtml;Jimmy Cordero; 0.2;1;0;0;0;2;0;0.00;4;16;12;5;2;5;1;0;0;0;;0;0;-0.008; 1.30;-0.00%; 1.15; -0.1
+Ron Marinaccio;/players/m/marinro01.shtml; H (1); 1.1;0;0;0;0;3;0;0.00;4;15;10;4;5;1;0;1;0;0;;2;0;0.070; 0.61; 0.04%; 0.55; 1.1
+Colten Brewer;/players/b/breweco01.shtml;Colten Brewer; 2 ;0;0;0;1;1;0;0.00;8;24;15;8;3;4;4;1;1;0;;0;0;0.009; 0.08; 0.01%; 0.07; 1.0
+
+Pitching away
+Ross Stripling;/players/s/stripro01.shtml; L (0-1); 5 ;6;4;4;2;3;3;7.20;23;95;57;30;12;15;7;10;3;0;40;;;-0.183; 0.76;-0.10%; 0.69; -1.5
+Sean Hjelle;/players/h/hjellse01.shtml;Sean Hjelle; 2 ;0;2;2;3;3;0;9.00;9;46;24;8;2;14;0;3;3;0;;0;0;-0.011; 0.12;-0.01%; 0.11; -1.0
+Scott Alexander;/players/a/alexasc02.shtml;Scott Alexander; 1 ;1;0;0;0;0;0;0.00;4;14;9;8;0;1;4;0;0;0;;0;0;0.001; 0.01; 0.00%; 0.01; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Sean Hjelle 3 (3); Jimmy Cordero (1).
+HBP: Colten Brewer (1; LaMonte Wade Jr.); Jimmy Cordero (1; LaMonte Wade Jr.); Ross Stripling (1; Anthony Rizzo).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Sean Hjelle 3 (3); Jimmy Cordero (1).
+HBP: Colten Brewer (1; LaMonte Wade Jr.); Jimmy Cordero (1; LaMonte Wade Jr.); Ross Stripling (1; Anthony Rizzo).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Erich Bacchus, 1B - Mike Estabrook, 2B - Laz Diaz, 3B - Andy Fletcher, LF - (none), RF - (none).
+Time of Game: 2:27.
+Attendance: 42,053.
+Field Condition: Unknown.
+Start Time Weather: 47° F, Wind 15mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Giants
+1;LaMonte Wade Jr.;/players/w/wadela01.shtml;LF
+2;Michael Conforto;/players/c/confomi01.shtml;RF
+3;J.D. Davis;/players/d/davisjd01.shtml;1B
+4;Joc Pederson;/players/p/pederjo01.shtml;DH
+5;Mike Yastrzemski;/players/y/yastrmi01.shtml;CF
+6;David Villar;/players/v/villada01.shtml;3B
+7;Brandon Crawford;/players/c/crawfbr01.shtml;SS
+8;Blake Sabol;/players/s/sabolbl01.shtml;C
+9;Thairo Estrada;/players/e/estrath01.shtml;2B
+; Ross Stripling;/players/s/stripro01.shtml;P
+Yankees
+1;Gleyber Torres;/players/t/torregl01.shtml;2B
+2;Aaron Judge;/players/j/judgeaa01.shtml;RF
+3;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+4;Giancarlo Stanton;/players/s/stantmi03.shtml;DH
+5;Josh Donaldson;/players/d/donaljo02.shtml;3B
+6;Oswaldo Cabrera;/players/c/cabreos01.shtml;LF
+7;Isiah Kiner-Falefa;/players/k/kineris01.shtml;CF
+8;Kyle Higashioka;/players/h/higasky01.shtml;C
+9;Anthony Volpe;/players/v/volpean01.shtml;SS
+; Jhony Brito;/players/b/britojh01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;1-0;1;1--;1,(0-0) X;RR;NYY;Giancarlo Stanton;Ross Stripling;16%;83%;Home Run (Fly Ball to Deep CF); Rizzo Scores
+b3;0-0;1;---;2,(1-0) BX;R;NYY;Aaron Judge;Ross Stripling;12%;65%;Home Run (Fly Ball to Deep LF-CF)
+t4;0-3;0;1--;6,(3-2) CBBBSX;OO;SFG;J.D. Davis;Jhony Brito;7%;85%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b1;0-0;2;123;6,(3-2) FSBB*B>S;O;NYY;Oswaldo Cabrera;Ross Stripling;-7%;50%;Strikeout Swinging
+t6;0-4;1;-23;5,(2-2) B.FFBC;O;SFG;J.D. Davis;Jimmy Cordero;6%;91%;Strikeout Looking
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Giants Batting, Tied 0-0, Yankees' Jhony Brito facing 1-2-3 
+t1;0-0;0;---;4,(1-2) FSBS;O;SFG;LaMonte Wade Jr.;Jhony Brito;2%;52%;Strikeout Swinging
+t1;0-0;1;---;10,(3-2) BBBCSFFFFX;O;SFG;Michael Conforto;Jhony Brito;2%;54%;Lineout: CF
+t1;0-0;2;---;6,(2-2) BCSBFX;;SFG;J.D. Davis;Jhony Brito;-1%;53%;Single to LF (Ground Ball thru SS-3B Hole)
+t1;0-0;2;1--;7,(2-2) SBFFF1BX;O;SFG;Joc Pederson;Jhony Brito;2%;55%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Yankees 0.
+Bottom of the 1st, Yankees Batting, Tied 0-0, Giants' Ross Stripling facing 1-2-3 
+b1;0-0;0;---;4,(1-2) CCBX;;NYY;Gleyber Torres;Ross Stripling;3%;58%;Single to RF (Ground Ball thru 2B-1B)
+b1;0-0;0;1--;3,(0-2) S1CS;O;NYY;Aaron Judge;Ross Stripling;-3%;55%;Strikeout Swinging
+b1;0-0;1;1--;5,(3-1) BBB.CB;;NYY;Anthony Rizzo;Ross Stripling;3%;59%;Walk; Torres to 2B
+b1;0-0;1;12-;2,(1-0) BX;O;NYY;Giancarlo Stanton;Ross Stripling;-4%;54%;Lineout: SS
+b1;0-0;2;12-;8,(3-2) CBS*BFFB>B;;NYY;Josh Donaldson;Ross Stripling;3%;57%;Walk; Torres to 3B; Rizzo to 2B
+b1;0-0;2;123;6,(3-2) FSBB*B>S;O;NYY;Oswaldo Cabrera;Ross Stripling;-7%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Giants 0, Yankees 0.
+Top of the 2nd, Giants Batting, Tied 0-0, Yankees' Jhony Brito facing 5-6-7 
+t2;0-0;0;---;4,(1-2) FCBX;O;SFG;Mike Yastrzemski;Jhony Brito;2%;52%;Groundout: 3B-1B (Weak SS-2B)
+t2;0-0;1;---;4,(1-2) SCBT;O;SFG;David Villar;Jhony Brito;2%;54%;Strikeout Swinging
+t2;0-0;2;---;4,(1-2) FSBS;O;SFG;Brandon Crawford;Jhony Brito;1%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Yankees 0.
+Bottom of the 2nd, Yankees Batting, Tied 0-0, Giants' Ross Stripling facing 7-8-9 
+b2;0-0;0;---;6,(2-2) FCFBBX;O;NYY;Isiah Kiner-Falefa;Ross Stripling;-2%;53%;Lineout: 1B (2B-1B)
+b2;0-0;1;---;4,(2-1) BFBX;O;NYY;Kyle Higashioka;Ross Stripling;-2%;51%;Flyball: CF (Short CF)
+b2;0-0;2;---;2,(1-0) BX;O;NYY;Anthony Volpe;Ross Stripling;-1%;50%;Groundout: SS-1B (Weak SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Yankees 0.
+Top of the 3rd, Giants Batting, Tied 0-0, Yankees' Jhony Brito facing 8-9-1 
+t3;0-0;0;---;3,(0-2) CFS;O;SFG;Blake Sabol;Jhony Brito;3%;53%;Strikeout Swinging
+t3;0-0;1;---;5,(1-2) CCFBS;O;SFG;Thairo Estrada;Jhony Brito;2%;54%;Strikeout Swinging
+t3;0-0;2;---;5,(2-2) BSFBS;O;SFG;LaMonte Wade Jr.;Jhony Brito;1%;56%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Yankees 0.
+Bottom of the 3rd, Yankees Batting, Tied 0-0, Giants' Ross Stripling facing 1-2-3 
+b3;0-0;0;---;5,(3-1) CBBBX;O;NYY;Gleyber Torres;Ross Stripling;-3%;53%;Flyball: 2B
+b3;0-0;1;---;2,(1-0) BX;R;NYY;Aaron Judge;Ross Stripling;12%;65%;Home Run (Fly Ball to Deep LF-CF)
+b3;1-0;1;---;3,(1-1) CBX;;NYY;Anthony Rizzo;Ross Stripling;2%;67%;Single to P (Line Drive to Deep SS-2B)
+b3;1-0;1;1--;1,(0-0) X;RR;NYY;Giancarlo Stanton;Ross Stripling;16%;83%;Home Run (Fly Ball to Deep CF); Rizzo Scores
+b3;3-0;1;---;2,(1-0) BX;O;NYY;Josh Donaldson;Ross Stripling;-1%;82%;Groundout: 3B-1B (Weak 3B)
+b3;3-0;2;---;8,(3-2) CBSBBFFX;;NYY;Oswaldo Cabrera;Ross Stripling;1%;83%;Single to CF (Ground Ball thru Weak SS-2B)
+b3;3-0;2;1--;2,(0-1) 1CX;O;NYY;Isiah Kiner-Falefa;Ross Stripling;-1%;82%;Groundout: P-1B
+;;;;;;;;;3 runs, 4 hits, 0 errors, 1 LOB. Giants 0, Yankees 3.
+Top of the 4th, Giants Batting, Behind 0-3, Yankees' Jhony Brito facing 2-3-4 
+t4;0-3;0;---;5,(3-1) BBBCB;;SFG;Michael Conforto;Jhony Brito;-4%;78%;Walk
+t4;0-3;0;1--;6,(3-2) CBBBSX;OO;SFG;J.D. Davis;Jhony Brito;7%;85%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+t4;0-3;2;---;2,(1-0) BX;O;SFG;Joc Pederson;Jhony Brito;1%;86%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Yankees 3.
+Bottom of the 4th, Yankees Batting, Ahead 3-0, Giants' Ross Stripling facing 8-9-1 
+b4;3-0;0;---;2,(0-1) CX;R;NYY;Kyle Higashioka;Ross Stripling;5%;91%;Home Run (Fly Ball to Deep LF)
+b4;4-0;0;---;3,(1-1) BCX;O;NYY;Anthony Volpe;Ross Stripling;-1%;91%;Flyball: RF (Deep RF)
+b4;4-0;1;---;7,(2-2) BSS.BFFX;O;NYY;Gleyber Torres;Ross Stripling;-1%;90%;Groundout: P-1B (Short 1B Line)
+b4;4-0;2;---;4,(2-1) CBBX;O;NYY;Aaron Judge;Ross Stripling;0%;90%;Groundout: 2B-1B (Weak SS)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Giants 0, Yankees 4.
+Top of the 5th, Giants Batting, Behind 0-4, Yankees' Jhony Brito facing 5-6-7 
+t5;0-4;0;---;1,(0-0) X;;SFG;Mike Yastrzemski;Jhony Brito;-3%;87%;Single to 3B (Bunt to Weak 3B)
+t5;0-4;0;1--;4,(1-2) S11FBX;O;SFG;David Villar;Jhony Brito;3%;90%;Flyball: CF (Deep CF)
+t5;0-4;1;1--;5,(2-2) S1BBF1X;O;SFG;Brandon Crawford;Jhony Brito;2%;92%;Flyball: LF
+t5;0-4;2;1--;1,(0-0) X;O;SFG;Blake Sabol;Jhony Brito;2%;93%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Yankees 4.
+Bottom of the 5th, Yankees Batting, Ahead 4-0, Giants' Ross Stripling facing 3-4-5 
+b5;4-0;0;---;4,(0-2) CS.FH;;NYY;Anthony Rizzo;Ross Stripling;1%;94%;Hit By Pitch
+b5;4-0;0;1--;5,(2-2) SF*BBX;O;NYY;Giancarlo Stanton;Ross Stripling;-1%;93%;Flyball: SS (Deep SS)
+b5;4-0;1;1--;1,(1-0) BN;O;NYY;Josh Donaldson;Ross Stripling;-1%;92%;Rizzo Caught Stealing 2B (P-2B)
+b5;4-0;2;---;7,(3-2) BN.BSCBFS;O;NYY;Josh Donaldson;Ross Stripling;0%;92%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Yankees 4.
+Top of the 6th, Giants Batting, Behind 0-4, Yankees' Jimmy Cordero facing 9-1-2 
+;;;;;;;;;Jimmy Cordero replaces Jhony Brito pitching
+t6;0-4;0;---;4,(0-2) .CCFX;;SFG;Thairo Estrada;Jimmy Cordero;-3%;89%;Single to P (Ground Ball to SS-2B)
+;;;;;;;;;Force Play Challenged by SFG manager (Gabe Kapler): Original call overturned as shown.
+t6;0-4;0;1--;3,(1-2) CSB1;;SFG;LaMonte Wade Jr.;Jimmy Cordero;-1%;88%;Baserunner Advance; Estrada to 2B/Adv on E3
+t6;0-4;0;-2-;4,(1-2) CSB1.H;;SFG;LaMonte Wade Jr.;Jimmy Cordero;-4%;84%;Hit By Pitch
+t6;0-4;0;12-;3,(0-2) FSC;O;SFG;Michael Conforto;Jimmy Cordero;5%;89%;Strikeout Looking
+t6;0-4;1;12-;1,(0-0) B;;SFG;J.D. Davis;Jimmy Cordero;-3%;86%;Wild Pitch; Estrada to 3B; Wade to 2B
+t6;0-4;1;-23;5,(2-2) B.FFBC;O;SFG;J.D. Davis;Jimmy Cordero;6%;91%;Strikeout Looking
+;;;;;;;;;Ron Marinaccio replaces Jimmy Cordero pitching
+t6;0-4;2;-23;2,(1-0) .BX;O;SFG;Joc Pederson;Ron Marinaccio;4%;95%;Flyball: RF (CF-RF)
+;;;;;;;;;0 runs, 1 hit, 1 error, 2 LOB. Giants 0, Yankees 4.
+Bottom of the 6th, Yankees Batting, Ahead 4-0, Giants' Sean Hjelle facing 6-7-8 
+;;;;;;;;;Sean Hjelle replaces Ross Stripling pitching
+b6;4-0;0;---;4,(1-2) .BCSC;O;NYY;Oswaldo Cabrera;Sean Hjelle;0%;95%;Strikeout Looking
+b6;4-0;1;---;4,(1-2) BCCX;O;NYY;Isiah Kiner-Falefa;Sean Hjelle;0%;94%;Lineout: 2B (SS-2B)
+b6;4-0;2;---;4,(1-2) CBCX;O;NYY;Kyle Higashioka;Sean Hjelle;0%;94%;Lineout: SS (Deep SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Yankees 4.
+Top of the 7th, Giants Batting, Behind 0-4, Yankees' Ron Marinaccio facing 5-6-7 
+t7;0-4;0;---;5,(2-2) SBBFS;O;SFG;Mike Yastrzemski;Ron Marinaccio;2%;96%;Strikeout Swinging
+t7;0-4;1;---;4,(1-2) BCSS;O;SFG;David Villar;Ron Marinaccio;1%;97%;Strikeout Swinging
+t7;0-4;2;---;4,(1-2) FFBS;O;SFG;Brandon Crawford;Ron Marinaccio;0%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Yankees 4.
+Bottom of the 7th, Yankees Batting, Ahead 4-0, Giants' Sean Hjelle facing 9-1-2 
+b7;4-0;0;---;5,(3-1) BBCBB;;NYY;Anthony Volpe;Sean Hjelle;0%;98%;Walk
+b7;4-0;0;1--;4,(2-1) BB+1C1B;;NYY;Gleyber Torres;Sean Hjelle;0%;98%;Wild Pitch; Volpe to 2B
+b7;4-0;0;-2-;5,(3-1) BB+1C1B.B;;NYY;Gleyber Torres;Sean Hjelle;0%;98%;Walk
+b7;4-0;0;12-;6,(3-2) BFB*BCT;O;NYY;Aaron Judge;Sean Hjelle;-1%;98%;Strikeout Swinging
+b7;4-0;1;12-;5,(1-2) CC.*BF>B;;NYY;Anthony Rizzo;Sean Hjelle;1%;98%;Volpe Steals 3B; Torres Steals 2B
+b7;4-0;1;-23;8,(2-2) CC.*BF>B.FFX;RO;NYY;Anthony Rizzo;Sean Hjelle;0%;99%;Lineout: CF/Sacrifice Fly (Deep LF-CF); Volpe Scores
+b7;5-0;2;-2-;1,(0-0) B;;NYY;Giancarlo Stanton;Sean Hjelle;0%;99%;Wild Pitch; Torres to 3B
+b7;5-0;2;--3;5,(3-1) B.CBBB;;NYY;Giancarlo Stanton;Sean Hjelle;0%;99%;Walk
+b7;5-0;2;1-3;4,(1-2) CBCB;R;NYY;Josh Donaldson;Sean Hjelle;1%;99%;Wild Pitch; Torres Scores/No RBI; Stanton to 2B
+b7;6-0;2;-2-;5,(2-2) CBCB.S;O;NYY;Josh Donaldson;Sean Hjelle;0%;99%;Strikeout Swinging
+;;;;;;;;;2 runs, 0 hits, 0 errors, 1 LOB. Giants 0, Yankees 6.
+Top of the 8th, Giants Batting, Behind 0-6, Yankees' Colten Brewer facing 8-9-1 
+;;;;;;;;;Colten Brewer replaces Ron Marinaccio pitching
+t8;0-6;0;---;1,(0-0) .X;O;SFG;Blake Sabol;Colten Brewer;0%;100%;Groundout: 1B-P
+t8;0-6;1;---;4,(1-2) CBSS;O;SFG;Thairo Estrada;Colten Brewer;0%;100%;Strikeout Swinging
+t8;0-6;2;---;4,(1-2) CBFH;;SFG;LaMonte Wade Jr.;Colten Brewer;0%;100%;Hit By Pitch
+t8;0-6;2;1--;2,(1-0) BX;O;SFG;Michael Conforto;Colten Brewer;0%;100%;Lineout: RF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Giants 0, Yankees 6.
+Bottom of the 8th, Yankees Batting, Ahead 6-0, Giants' Scott Alexander facing 6-7-8 
+;;;;;;;;;Scott Alexander replaces Sean Hjelle pitching
+b8;6-0;0;---;1,(0-0) .X;;NYY;Oswaldo Cabrera;Scott Alexander;0%;100%;Single to LF (Ground Ball)
+b8;6-0;0;1--;8,(3-2) CFB*BFFBX;O;NYY;Isiah Kiner-Falefa;Scott Alexander;0%;100%;Groundout: 3B-1B (Weak 3B); Cabrera to 2B
+b8;6-0;1;-2-;2,(1-0) *BX;O;NYY;Kyle Higashioka;Scott Alexander;0%;100%;Groundout: SS-1B; Cabrera to 3B
+b8;6-0;2;--3;3,(1-1) FBX;O;NYY;Anthony Volpe;Scott Alexander;0%;100%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Yankees 6.
+Top of the 9th, Giants Batting, Behind 0-6, Yankees' Colten Brewer facing 3-4-5 
+t9;0-6;0;---;6,(3-2) BSBFBB;;SFG;J.D. Davis;Colten Brewer;0%;99%;Walk
+t9;0-6;0;1--;2,(1-0) *BX;O;SFG;Joc Pederson;Colten Brewer;0%;100%;Groundout: 2B-1B; Davis to 2B
+t9;0-6;1;-2-;3,(0-2) CFX;O;SFG;Mike Yastrzemski;Colten Brewer;0%;100%;Groundout: 1B unassisted; Davis to 3B
+t9;0-6;2;--3;2,(0-1) CX;O;SFG;David Villar;Colten Brewer;0%;100%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Giants 0, Yankees 6.

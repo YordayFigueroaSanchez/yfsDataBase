@@ -1,0 +1,265 @@
+
+Scorebox Meta
+20230411
+6:40 p.m. Local
+16153
+Target Field
+143
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;2;0;0;0;0;0;0;0;1;0;3;4;1
+https://cdn.ssref.net/req/202308101/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;2;1;0;0;0;0;0;0;0;1;4;9;1
+
+Batting home
+Donovan Solano;/players/s/solando01.shtml;1B;4;1;2;0;0;1;4;.321;.387;.357;.744;13;9;0.016; 0.64;0.049;-0.032; 0.01%; 0.73; 0.2;9;0;
+Byron Buxton;/players/b/buxtoby01.shtml;DH;4;1;1;2;0;1;4;.308;.341;.538;.880;16;11;0.108; 0.86;0.159;-0.051; 0.07%; 0.99; 1.0;;;HR
+Trevor Larnach;/players/l/larnatr01.shtml;LF;3;0;1;0;1;2;4;.310;.420;.429;.849;20;12;-0.017; 0.63;0.026;-0.043;-0.01%; 0.72; -0.1;4;0;
+Jose Miranda;/players/m/miranjo01.shtml;3B;4;0;0;0;0;0;4;.182;.250;.182;.432;17;11;-0.071; 0.69;0.000;-0.071;-0.05%; 0.79; -0.9;0;3;
+Nick Gordon;/players/g/gordoni01.shtml;2B;4;0;2;0;0;0;4;.133;.161;.167;.328;8;6;-0.004; 0.54;0.033;-0.037;-0.00%; 0.62; -0.1;0;0;2B
+Kyle Farmer;/players/f/farmeky01.shtml;SS;4;0;0;0;0;4;4;.233;.273;.367;.639;24;16;-0.128; 1.20;0.000;-0.128;-0.09%; 1.38; -1.0;0;2;
+Matt Wallner;/players/w/wallnma01.shtml;RF;4;0;0;0;0;3;4;.000;.300;.000;.300;18;15;-0.102; 1.00;0.000;-0.102;-0.07%; 1.16; -0.8;0;0;
+Christian Vázquez;/players/v/vazquch01.shtml;C;4;0;1;0;0;2;4;.320;.433;.360;.793;14;9;-0.088; 0.86;0.000;-0.088;-0.06%; 1.00; -0.7;14;0;2B
+Willi Castro;/players/c/castrwi01.shtml;PR;0;1;0;0;0;0;0;.000;.083;.000;.083;;;0.000;;0.000;0.000;0%;; 0.0;;;
+Michael A. Taylor;/players/t/taylomi02.shtml;CF;4;1;2;1;0;2;4;.205;.225;.333;.558;10;9;0.273; 1.00;0.298;-0.025; 0.19%; 1.15; 1.5;2;0;HR
+Pablo López;/players/l/lopezpa01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Caleb Thielbar;/players/t/thielca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jhoan Duran;/players/d/duranjh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Griffin Jax;/players/j/jaxgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Nick Gordon (1, off Lance Lynn); Christian Vázquez (1, off Reynaldo López).
+
+
+HR: Byron Buxton (2, off Lance Lynn, 1st inn, 1 on, 0 outs to Deep LF-CF); Michael A. Taylor (1, off Lance Lynn, 2nd inn, 0 on, 2 outs to Deep LF-CF).
+
+
+TB: Michael A. Taylor 5; Byron Buxton 4; Nick Gordon 3; Christian Vázquez 2; Donovan Solano 2; Trevor Larnach.
+
+
+RBI: Byron Buxton 2 (5); Michael A. Taylor (1).
+
+
+2-out RBI: Michael A. Taylor.
+
+
+Team LOB: 6.
+With RISP: 1 for 2.
+
+Batting away
+Andrew Benintendi;/players/b/beninan01.shtml;LF;4;1;1;0;0;1;4;.261;.306;.304;.610;20;14;-0.018; 0.72;0.035;-0.053;-0.01%; 0.74; 0.1;0;0;
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;4;2;2;1;0;0;4;.347;.347;.714;1.061;7;5;0.371; 1.70;0.435;-0.064; 0.23%; 1.75; 1.6;2;0;HR
+Gavin Sheets;/players/s/sheetga01.shtml;DH;3;0;0;0;1;1;4;.333;.462;.333;.795;22;14;-0.080; 1.38;0.025;-0.105;-0.05%; 1.42; -0.2;;;
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;4;0;1;2;0;2;4;.268;.388;.415;.802;22;13;0.053; 1.26;0.128;-0.075; 0.03%; 1.29; 1.3;8;0;2B
+Yasmani Grandal;/players/g/grandya01.shtml;C;4;0;0;0;0;2;4;.265;.359;.441;.800;14;10;-0.146; 1.30;0.000;-0.146;-0.09%; 1.34; -1.2;14;1;
+Lenyn Sosa;/players/s/sosale01.shtml;PR;0;0;0;0;0;0;0;;;;;;;;;;;;;;;;
+Seby Zavala;/players/z/zavalse01.shtml;C;0;0;0;0;0;0;0;.300;.300;.600;.900;;;;;;;;;;0;0;
+Jake Burger;/players/b/burgeja01.shtml;3B;3;0;0;0;0;2;3;.273;.333;.727;1.061;12;9;-0.110; 1.06;0.000;-0.110;-0.07%; 1.09; -1.1;0;1;
+Hanser Alberto;/players/a/alberha01.shtml;3B;1;0;0;0;0;0;1;.286;.286;.500;.786;2;1;-0.018; 3.94;0.000;-0.018;-0.01%; 4.05; -0.2;1;0;
+Oscar Colás;/players/c/colasos01.shtml;RF;4;0;0;0;0;2;4;.275;.326;.375;.701;12;9;-0.243; 2.23;0.000;-0.243;-0.15%; 2.29; -1.4;2;1;
+Romy Gonzalez;/players/g/gonzaro01.shtml;2B;4;0;0;0;0;2;4;.158;.158;.158;.316;13;11;-0.242; 2.29;0.000;-0.242;-0.15%; 2.35; -1.1;0;1;
+Elvis Andrus;/players/a/andruel01.shtml;SS;3;0;0;0;0;2;3;.156;.188;.178;.365;10;9;-0.079; 1.05;0.000;-0.079;-0.05%; 1.08; -0.5;0;2;
+Lance Lynn;/players/l/lynnla01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Keynan Middleton;/players/m/middlke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jake Diekman;/players/d/diekmja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Reynaldo López;/players/l/lopezre01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jesse Scholtens;/players/s/scholje01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Andrew Vaughn (6, off Pablo López).
+
+
+HR: Luis Robert Jr. (5, off Jhoan Duran, 9th inn, 0 on, 0 outs to Deep LF-CF).
+
+
+TB: Luis Robert Jr. 5; Andrew Vaughn 2; Andrew Benintendi.
+
+
+RBI: Andrew Vaughn 2 (9); Luis Robert Jr. (11).
+
+
+Team LOB: 3.
+With RISP: 1 for 7.
+
+Pitching home
+Pablo López;/players/l/lopezpa01.shtml;Pablo López; 7.2;3;2;2;1;10;0;1.35;27;98;70;37;17;16;7;9;5;0;74;;;0.366; 1.09; 0.25%; 1.26; 2.0
+Caleb Thielbar;/players/t/thielca01.shtml; H (3); 0.1;0;0;0;0;1;0;4.50;1;4;3;2;1;0;0;0;0;0;;0;0;0.027; 1.04; 0.02%; 1.20; 0.1
+Jhoan Duran;/players/d/duranjh01.shtml; BS (1); 1 ;1;1;1;0;3;1;2.70;4;24;16;11;3;2;0;1;0;0;;0;0;-0.194; 2.10;-0.14%; 2.42; -0.5
+Griffin Jax;/players/j/jaxgr01.shtml; W (1-1); 1 ;0;0;0;0;0;0;3.38;3;8;6;4;1;1;2;1;0;0;;0;0;0.313; 4.95; 0.22%; 5.70; 1.1
+
+Pitching away
+Lance Lynn;/players/l/lynnla01.shtml;Lance Lynn; 6 ;7;3;3;0;10;2;7.31;25;98;69;36;17;16;6;9;7;0;56;;;-0.018; 0.71;-0.01%; 0.72; 0.1
+Keynan Middleton;/players/m/middlke01.shtml;Keynan Middleton; 1.1;0;0;0;0;3;0;0.00;4;16;11;3;8;0;0;1;0;0;;0;0;0.058; 0.57; 0.04%; 0.58; 0.8
+Jake Diekman;/players/d/diekmja01.shtml;Jake Diekman; 0.2;0;0;0;1;0;0;8.44;3;14;9;5;1;3;1;1;0;0;;0;0;0.018; 0.55; 0.01%; 0.57; 0.3
+Reynaldo López;/players/l/lopezre01.shtml;Reynaldo López; 1 ;1;0;0;0;2;0;6.35;3;11;8;3;0;5;0;1;1;0;;0;0;0.140; 1.83; 0.09%; 1.88; 0.5
+Jesse Scholtens;/players/s/scholje01.shtml; L (0-1); 0 ;1;1;0;0;0;0;3.00;1;1;1;1;0;0;1;0;0;0;;0;0;-0.187; 2.56;-0.11%; 2.63; -0.8
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Sean Barber, 1B - Alan Porter, 2B - Jim Wolf, 3B - Mike Muchlinski, LF - (none), RF - (none).
+Time of Game: 2:23.
+Attendance: 16,153.
+Field Condition: Unknown.
+Start Time Weather: 78° F, Wind 11mph from Right to Left, Sunny, No Precipitation.
+
+div_lineups
+White Sox
+1;Andrew Benintendi;/players/b/beninan01.shtml;LF
+2;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+3;Gavin Sheets;/players/s/sheetga01.shtml;DH
+4;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+5;Yasmani Grandal;/players/g/grandya01.shtml;C
+6;Jake Burger;/players/b/burgeja01.shtml;3B
+7;Oscar Colás;/players/c/colasos01.shtml;RF
+8;Romy Gonzalez;/players/g/gonzaro01.shtml;2B
+9;Elvis Andrus;/players/a/andruel01.shtml;SS
+; Lance Lynn;/players/l/lynnla01.shtml;P
+Twins
+1;Donovan Solano;/players/s/solando01.shtml;1B
+2;Byron Buxton;/players/b/buxtoby01.shtml;DH
+3;Trevor Larnach;/players/l/larnatr01.shtml;LF
+4;Jose Miranda;/players/m/miranjo01.shtml;3B
+5;Nick Gordon;/players/g/gordoni01.shtml;2B
+6;Kyle Farmer;/players/f/farmeky01.shtml;SS
+7;Matt Wallner;/players/w/wallnma01.shtml;RF
+8;Christian Vázquez;/players/v/vazquch01.shtml;C
+9;Michael A. Taylor;/players/t/taylomi02.shtml;CF
+; Pablo López;/players/l/lopezpa01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t9;2-3;0;---;1,(0-0) .X;R;CHW;Luis Robert Jr.;Jhoan Duran;-33%;50%;Home Run (Fly Ball to Deep LF-CF)
+b10;3-3;0;-2-;1,(0-0) ....X;R;MIN;Michael A. Taylor;Jesse Scholtens;19%;100%;Single to 3B (Bunt); Castro Scores/Adv on E5 (throw)/No RBI/unER
+t10;3-3;1;--3;2,(1-0) *BX;O;CHW;Oscar Colás;Griffin Jax;16%;68%;Flyball: LF (Short LF)
+b1;0-2;0;1--;2,(0-1) CX;RR;MIN;Byron Buxton;Lance Lynn;16%;55%;Home Run (Line Drive to Deep LF-CF); Solano Scores
+t10;3-3;2;--3;4,(0-2) CSFX;O;CHW;Romy Gonzalez;Griffin Jax;13%;81%;Groundout: P-1B (Front of Home)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, White Sox Batting, Tied 0-0, Twins' Pablo López facing 1-2-3 
+t1;0-0;0;---;9,(3-2) CBFFFFBBX;;CHW;Andrew Benintendi;Pablo López;-4%;46%;Single to CF (Line Drive)
+t1;0-0;0;1--;1,(0-0) X;;CHW;Luis Robert Jr.;Pablo López;-10%;36%;Single to P (Ground Ball); Benintendi to 3B/Adv on E1 (throw); Robert to 2B
+t1;0-0;0;-23;5,(3-1) CBBBB;;CHW;Gavin Sheets;Pablo López;-2%;34%;Walk
+t1;0-0;0;123;3,(1-1) TBX;RR;CHW;Andrew Vaughn;Pablo López;-13%;21%;Double to LF (Line Drive to Deep LF Line); Benintendi Scores; Robert Scores; Sheets to 3B
+t1;2-0;0;-23;4,(0-2) SSFS;O;CHW;Yasmani Grandal;Pablo López;4%;25%;Strikeout Swinging
+t1;2-0;1;-23;6,(3-2) BBBCC.X;O;CHW;Jake Burger;Pablo López;6%;31%;Groundout: 3B-1B (Weak 3B)
+t1;2-0;2;-23;3,(1-1) SBX;O;CHW;Oscar Colás;Pablo López;4%;35%;Groundout: 1B unassisted
+;;;;;;;;;2 runs, 3 hits, 1 error, 2 LOB. White Sox 2, Twins 0.
+Bottom of the 1st, Twins Batting, Behind 0-2, White Sox' Lance Lynn facing 1-2-3 
+b1;0-2;0;---;2,(0-1) CX;;MIN;Donovan Solano;Lance Lynn;4%;39%;Single to RF (Line Drive to Deep RF)
+b1;0-2;0;1--;2,(0-1) CX;RR;MIN;Byron Buxton;Lance Lynn;16%;55%;Home Run (Line Drive to Deep LF-CF); Solano Scores
+b1;2-2;0;---;8,(3-2) CBFBBFFC;O;MIN;Trevor Larnach;Lance Lynn;-2%;53%;Strikeout Looking
+b1;2-2;1;---;1,(0-0) X;O;MIN;Jose Miranda;Lance Lynn;-2%;51%;Groundout: SS-1B
+b1;2-2;2;---;5,(2-2) CBSBX;;MIN;Nick Gordon;Lance Lynn;2%;53%;Double to RF (Line Drive to Deep RF)
+b1;2-2;2;-2-;8,(3-2) CBSFF*BBS;O;MIN;Kyle Farmer;Lance Lynn;-3%;50%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. White Sox 2, Twins 2.
+Top of the 2nd, White Sox Batting, Tied 2-2, Twins' Pablo López facing 8-9-1 
+t2;2-2;0;---;4,(1-2) CBFS;O;CHW;Romy Gonzalez;Pablo López;2%;52%;Strikeout Swinging
+t2;2-2;1;---;2,(0-1) CX;O;CHW;Elvis Andrus;Pablo López;2%;54%;Groundout: SS-1B
+t2;2-2;2;---;2,(0-1) FX;O;CHW;Andrew Benintendi;Pablo López;1%;55%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Twins 2.
+Bottom of the 2nd, Twins Batting, Tied 2-2, White Sox' Lance Lynn facing 7-8-9 
+b2;2-2;0;---;8,(3-2) FBSBFB.FS;O;MIN;Matt Wallner;Lance Lynn;-2%;53%;Strikeout Swinging
+b2;2-2;1;---;1,(0-0) X;O;MIN;Christian Vázquez;Lance Lynn;-2%;51%;Flyball: RF (Deep CF-RF)
+b2;2-2;2;---;2,(0-1) CX;R;MIN;Michael A. Taylor;Lance Lynn;11%;62%;Home Run (Line Drive to Deep LF-CF)
+b2;3-2;2;---;1,(0-0) X;;MIN;Donovan Solano;Lance Lynn;1%;63%;Single to CF (Line Drive)
+b2;3-2;2;1--;6,(2-2) FSBFBC;O;MIN;Byron Buxton;Lance Lynn;-2%;61%;Strikeout Looking
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. White Sox 2, Twins 3.
+Top of the 3rd, White Sox Batting, Behind 2-3, Twins' Pablo López facing 2-3-4 
+t3;2-3;0;---;2,(0-1) CX;O;CHW;Luis Robert Jr.;Pablo López;3%;64%;Groundout: P-1B (Weak SS-2B)
+t3;2-3;1;---;3,(1-1) BCX;O;CHW;Gavin Sheets;Pablo López;2%;66%;Lineout: 1B (Deep 1B)
+t3;2-3;2;---;6,(2-2) BCCBFT;O;CHW;Andrew Vaughn;Pablo López;1%;67%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Twins 3.
+Bottom of the 3rd, Twins Batting, Ahead 3-2, White Sox' Lance Lynn facing 3-4-5 
+b3;3-2;0;---;4,(1-2) SSBC;O;MIN;Trevor Larnach;Lance Lynn;-2%;65%;Strikeout Looking
+b3;3-2;1;---;4,(2-1) BFBX;O;MIN;Jose Miranda;Lance Lynn;-2%;63%;Groundout: P-1B (P's Left)
+b3;3-2;2;---;1,(0-0) X;;MIN;Nick Gordon;Lance Lynn;1%;64%;Single to RF (Line Drive to Deep RF)
+b3;3-2;2;1--;4,(1-2) SBF1>T;O;MIN;Kyle Farmer;Lance Lynn;-2%;62%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 2, Twins 3.
+Top of the 4th, White Sox Batting, Behind 2-3, Twins' Pablo López facing 5-6-7 
+t4;2-3;0;---;1,(0-0) X;O;CHW;Yasmani Grandal;Pablo López;3%;65%;Flyball: LF (Deep LF)
+t4;2-3;1;---;3,(0-2) CSS;O;CHW;Jake Burger;Pablo López;2%;67%;Strikeout Swinging
+t4;2-3;2;---;3,(0-2) SFS;O;CHW;Oscar Colás;Pablo López;1%;69%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Twins 3.
+Bottom of the 4th, Twins Batting, Ahead 3-2, White Sox' Lance Lynn facing 7-8-9 
+b4;3-2;0;---;4,(0-2) SS.FX;O;MIN;Matt Wallner;Lance Lynn;-2%;66%;Lineout: 1B (Deep 1B)
+b4;3-2;1;---;4,(0-2) CCFS;O;MIN;Christian Vázquez;Lance Lynn;-2%;65%;Strikeout Swinging
+b4;3-2;2;---;4,(1-2) CS.BS;O;MIN;Michael A. Taylor;Lance Lynn;-1%;64%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Twins 3.
+Top of the 5th, White Sox Batting, Behind 2-3, Twins' Pablo López facing 8-9-1 
+t5;2-3;0;---;1,(0-0) X;O;CHW;Romy Gonzalez;Pablo López;3%;67%;Lineout: P (Weak SS-2B)
+t5;2-3;1;---;3,(0-2) CF.S;O;CHW;Elvis Andrus;Pablo López;2%;69%;Strikeout Swinging
+t5;2-3;2;---;5,(2-2) BCBFX;O;CHW;Andrew Benintendi;Pablo López;2%;71%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Twins 3.
+Bottom of the 5th, Twins Batting, Ahead 3-2, White Sox' Lance Lynn facing 1-2-3 
+b5;3-2;0;---;5,(3-1) BBBCX;O;MIN;Donovan Solano;Lance Lynn;-2%;69%;Groundout: SS-1B (Deep SS-2B)
+b5;3-2;1;---;6,(2-2) BFCBFX;O;MIN;Byron Buxton;Lance Lynn;-2%;67%;Groundout: P-1B (Weak SS-2B)
+b5;3-2;2;---;2,(0-1) SX;;MIN;Trevor Larnach;Lance Lynn;1%;68%;Single to RF (Ground Ball thru 2B-1B)
+b5;3-2;2;1--;5,(3-1) BBSBX;O;MIN;Jose Miranda;Lance Lynn;-2%;66%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 2, Twins 3.
+Top of the 6th, White Sox Batting, Behind 2-3, Twins' Pablo López facing 2-3-4 
+t6;2-3;0;---;3,(2-0) BBX;O;CHW;Luis Robert Jr.;Pablo López;4%;70%;Groundout: 3B-1B (Weak 3B)
+t6;2-3;1;---;2,(0-1) CX;O;CHW;Gavin Sheets;Pablo López;3%;72%;Flyball: LF
+t6;2-3;2;---;7,(3-2) .SFBFBBX;O;CHW;Andrew Vaughn;Pablo López;2%;74%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Twins 3.
+Bottom of the 6th, Twins Batting, Ahead 3-2, White Sox' Lance Lynn facing 5-6-7 
+b6;3-2;0;---;1,(0-0) X;O;MIN;Nick Gordon;Lance Lynn;-2%;72%;Flyball: CF (Deep CF)
+b6;3-2;1;---;7,(3-2) CFFBBBC;O;MIN;Kyle Farmer;Lance Lynn;-2%;70%;Strikeout Looking
+b6;3-2;2;---;3,(0-2) FF*S;O;MIN;Matt Wallner;Lance Lynn;-1%;69%;Strikeout Swinging; Wallner out at 1B/C-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Twins 3.
+Top of the 7th, White Sox Batting, Behind 2-3, Twins' Pablo López facing 5-6-7 
+t7;2-3;0;---;4,(2-1) CBBX;O;CHW;Yasmani Grandal;Pablo López;4%;74%;Flyball: CF (Deep CF)
+t7;2-3;1;---;3,(0-2) FF.S;O;CHW;Jake Burger;Pablo López;3%;77%;Strikeout Swinging
+t7;2-3;2;---;4,(1-2) BFF*S;O;CHW;Oscar Colás;Pablo López;2%;79%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Twins 3.
+Bottom of the 7th, Twins Batting, Ahead 3-2, White Sox' Keynan Middleton facing 8-9-1 
+;;;;;;;;;Keynan Middleton replaces Lance Lynn pitching
+b7;3-2;0;---;6,(3-2) .SBBSB.*S;O;MIN;Christian Vázquez;Keynan Middleton;-2%;77%;Strikeout Swinging
+b7;3-2;1;---;3,(0-2) SS.S;O;MIN;Michael A. Taylor;Keynan Middleton;-1%;75%;Strikeout Swinging
+b7;3-2;2;---;5,(1-2) BFS.FS;O;MIN;Donovan Solano;Keynan Middleton;-1%;74%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Twins 3.
+Top of the 8th, White Sox Batting, Behind 2-3, Twins' Pablo López facing 8-9-1 
+t8;2-3;0;---;4,(1-2) SSBT;O;CHW;Romy Gonzalez;Pablo López;6%;80%;Strikeout Swinging
+t8;2-3;1;---;5,(1-2) .SCBFS;O;CHW;Elvis Andrus;Pablo López;4%;84%;Strikeout Swinging
+;;;;;;;;;Caleb Thielbar replaces Pablo López pitching
+t8;2-3;2;---;4,(1-2) .BFFS;O;CHW;Andrew Benintendi;Caleb Thielbar;3%;87%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Twins 3.
+Bottom of the 8th, Twins Batting, Ahead 3-2, White Sox' Keynan Middleton facing 2-3-4 
+b8;3-2;0;---;2,(1-0) BX;O;MIN;Byron Buxton;Keynan Middleton;-1%;85%;Flyball: RF (Deep RF)
+;;;;;;;;;Jake Diekman replaces Keynan Middleton pitching
+b8;3-2;1;---;6,(3-2) .BBBC.CB;;MIN;Trevor Larnach;Jake Diekman;1%;87%;Walk
+b8;3-2;1;1--;7,(1-2) CSF>FF1BX;O;MIN;Jose Miranda;Jake Diekman;-2%;85%;Flyball: CF
+b8;3-2;2;1--;1,(0-0) X;O;MIN;Nick Gordon;Jake Diekman;-2%;83%;Groundout: P-1B (P's Left)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 2, Twins 3.
+Top of the 9th, White Sox Batting, Behind 2-3, Twins' Jhoan Duran facing 2-3-4 
+;;;;;;;;;Jhoan Duran replaces Caleb Thielbar pitching
+t9;2-3;0;---;1,(0-0) .X;R;CHW;Luis Robert Jr.;Jhoan Duran;-33%;50%;Home Run (Fly Ball to Deep LF-CF)
+t9;3-3;0;---;12,(3-2) BSFBFFB.FFFFT;O;CHW;Gavin Sheets;Jhoan Duran;6%;56%;Strikeout Swinging
+t9;3-3;1;---;6,(3-2) BCCBBS;O;CHW;Andrew Vaughn;Jhoan Duran;5%;61%;Strikeout Swinging
+t9;3-3;2;---;5,(2-2) BFBTS;O;CHW;Yasmani Grandal;Jhoan Duran;3%;64%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. White Sox 3, Twins 3.
+Bottom of the 9th, Twins Batting, Tied 3-3, White Sox' Reynaldo López facing 6-7-8 
+;;;;;;;;;Reynaldo López replaces Jake Diekman pitchingHanser Alberto replaces Jake Burger playing 3B batting 6th
+b9;3-3;0;---;5,(1-2) ..CBFFC;O;MIN;Kyle Farmer;Reynaldo López;-6%;58%;Strikeout Looking
+b9;3-3;1;---;3,(0-2) CC.C;O;MIN;Matt Wallner;Reynaldo López;-5%;54%;Strikeout Looking
+b9;3-3;2;---;3,(2-0) BBX;O;MIN;Christian Vázquez;Reynaldo López;-4%;50%;Double to RF (Line Drive to Deep CF-RF); Vázquez out at 3B/RF-2B-3B
+;;;;;;;;;Tag play Challenged by MIN manager (Rocco Baldelli): Original call upheld upon review.
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. White Sox 3, Twins 3.
+Top of the 10th, White Sox Batting, Tied 3-3, Twins' Griffin Jax facing 6-7-8 
+;;;;;;;;;Griffin Jax replaces Jhoan Duran pitchingLenyn Sosa pinch runs for Yasmani Grandal (C) batting 5thLenyn Sosa running at second base to start the extra inning
+t10;3-3;0;-2-;2,(1-0) ...BX;O;CHW;Hanser Alberto;Griffin Jax;2%;52%;Groundout: SS-1B (SS-2B); Sosa to 3B
+t10;3-3;1;--3;2,(1-0) *BX;O;CHW;Oscar Colás;Griffin Jax;16%;68%;Flyball: LF (Short LF)
+t10;3-3;2;--3;4,(0-2) CSFX;O;CHW;Romy Gonzalez;Griffin Jax;13%;81%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 3, Twins 3.
+Bottom of the 10th, Twins Batting, Tied 3-3, White Sox' Jesse Scholtens facing 9-1-2 
+;;;;;;;;;Jesse Scholtens replaces Reynaldo López pitchingSeby Zavala replaces Lenyn Sosa (PR) playing C batting 5thWilli Castro pinch runs for Christian Vázquez (C) batting 8thWilli Castro running at second base to start the extra inning
+b10;3-3;0;-2-;1,(0-0) ....X;R;MIN;Michael A. Taylor;Jesse Scholtens;19%;100%;Single to 3B (Bunt); Castro Scores/Adv on E5 (throw)/No RBI/unER
+;;;;;;;;;1 run, 1 hit, 1 error, 1 LOB. White Sox 3, Twins 4.

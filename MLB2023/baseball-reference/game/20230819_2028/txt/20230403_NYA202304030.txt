@@ -1,0 +1,267 @@
+
+Scorebox Meta
+20230403
+7:05 p.m. Local
+37202
+Yankee Stadium III
+161
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/PHI-2023.png;/teams/PHI/2023.shtml;0;0;0;1;0;0;0;0;0;1;11;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;2;0;1;0;5;0;0;0;X;8;9;0
+
+Batting home
+DJ LeMahieu;/players/l/lemahdj01.shtml;3B;5;2;2;0;0;0;5;.308;.357;.538;.896;16;11;0.097; 0.40;0.111;-0.014; 0.05%; 0.36; -0.1;3;2;3B
+Aaron Judge;/players/j/judgeaa01.shtml;CF;4;1;1;0;1;2;5;.412;.444;.765;1.209;26;15;0.003; 0.45;0.033;-0.029; 0.00%; 0.41; 0.1;2;0;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;PR-CF;0;0;0;0;0;0;0;.000;.000;.000;.000;;;;;;;;;;0;0;
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;4;1;1;2;1;0;5;.333;.500;.667;1.167;18;9;0.132; 0.58;0.148;-0.016; 0.07%; 0.53; 1.5;4;3;HR
+Giancarlo Stanton;/players/s/stantmi03.shtml;DH;4;1;0;1;1;2;5;.188;.278;.563;.840;21;12;0.008; 0.53;0.020;-0.012; 0.00%; 0.48; -0.2;;;
+Gleyber Torres;/players/t/torregl01.shtml;2B;2;2;2;2;3;0;5;.333;.529;.833;1.363;26;10;0.159; 0.45;0.159;0.000; 0.09%; 0.41; 3.1;1;0;HR,SB
+Franchy Cordero;/players/c/cordefr02.shtml;RF;5;1;1;2;0;1;5;.200;.200;.400;.600;14;10;-0.014; 0.40;0.039;-0.053;-0.01%; 0.36; 0.1;0;0;2B
+Oswaldo Cabrera;/players/c/cabreos01.shtml;RF;0;0;0;0;0;0;0;.250;.250;.250;.500;;;;;;;;;;0;0;
+Aaron Hicks;/players/h/hicksaa01.shtml;LF;3;0;0;0;1;1;4;.000;.200;.000;.200;16;9;-0.010; 0.53;0.009;-0.019;-0.01%; 0.48; -0.8;3;0;
+Jose Trevino;/players/t/trevijo01.shtml;C;4;0;2;1;0;0;4;.300;.300;.300;.600;11;9;-0.051; 0.66;0.010;-0.061;-0.03%; 0.59; 0.1;8;0;
+Anthony Volpe;/players/v/volpean01.shtml;SS;2;0;0;0;2;1;4;.182;.400;.182;.582;19;8;-0.023; 0.24;0.001;-0.024;-0.01%; 0.21; 0.1;3;2;
+Nestor Cortes;/players/c/cortene01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Ian Hamilton;/players/h/hamilia01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Jonathan Loáisiga;/players/l/loaisjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Clay Holmes;/players/h/holmecl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Franchy Cordero (1, off Yunior Marte).
+
+
+3B: DJ LeMahieu (1, off Taijuan Walker).
+
+
+HR: Gleyber Torres (2, off Taijuan Walker, 3rd inn, 0 on, 2 outs to Deep RF); Anthony Rizzo (1, off Yunior Marte, 5th inn, 1 on, 1 out to Deep RF Line).
+
+
+TB: Gleyber Torres 5; DJ LeMahieu 4; Anthony Rizzo 4; Franchy Cordero 2; Jose Trevino 2; Aaron Judge.
+
+
+RBI: Anthony Rizzo 2 (4); Gleyber Torres 2 (4); Franchy Cordero 2 (2); Jose Trevino (1); Giancarlo Stanton (4).
+
+
+2-out RBI: Jose Trevino; Gleyber Torres.
+
+
+Team LOB: 10.
+With RISP: 4 for 13.
+
+Batting away
+Trea Turner;/players/t/turnetr01.shtml;SS;5;0;2;0;0;1;5;.389;.421;.667;1.088;17;13;-0.043; 0.67;0.033;-0.076;-0.02%; 0.52; -0.3;0;2;
+Kyle Schwarber;/players/s/schwaky01.shtml;LF;4;0;0;0;0;2;4;.059;.059;.059;.118;23;14;-0.097; 0.94;0.000;-0.097;-0.04%; 0.73; -1.3;2;0;
+J.T. Realmuto;/players/r/realmjt01.shtml;C;4;0;1;0;0;0;4;.333;.375;.533;.908;11;8;-0.077; 0.69;0.000;-0.077;-0.04%; 0.53; -1.1;7;0;
+Nick Castellanos;/players/c/casteni01.shtml;RF;4;0;0;0;0;2;4;.267;.353;.467;.820;15;12;-0.051; 0.51;0.000;-0.051;-0.02%; 0.40; -1.0;1;0;
+Alec Bohm;/players/b/bohmal01.shtml;DH;4;1;3;0;0;0;4;.467;.500;.800;1.300;16;11;0.067; 0.34;0.068;-0.001; 0.03%; 0.27; 0.8;;;2B
+Darick Hall;/players/h/hallda02.shtml;1B;4;0;1;0;0;0;4;.250;.308;.333;.641;12;9;0.004; 0.64;0.039;-0.035; 0.00%; 0.50; -0.2;8;2;
+Edmundo Sosa;/players/s/sosaed01.shtml;3B;4;0;1;1;0;1;4;.375;.375;.500;.875;14;11;0.018; 0.84;0.069;-0.052; 0.01%; 0.66; -0.2;1;2;
+Bryson Stott;/players/s/stottbr01.shtml;2B;4;0;1;0;0;0;4;.400;.438;.467;.904;15;12;-0.072; 0.68;0.001;-0.072;-0.03%; 0.53; -0.6;0;1;
+Brandon Marsh;/players/m/marshbr02.shtml;CF;4;0;2;0;0;1;4;.364;.364;.727;1.091;17;10;0.052; 0.55;0.078;-0.025; 0.02%; 0.43; 0.4;3;0;2B
+Taijuan Walker;/players/w/walketa01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Yunior Marte;/players/m/marteyu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andrew Vasquez;/players/v/vasquan02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Seranthony Domínguez;/players/d/dominse01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Alec Bohm (2, off Nestor Cortes); Brandon Marsh (2, off Nestor Cortes).
+
+
+TB: Alec Bohm 4; Brandon Marsh 3; Trea Turner 2; Edmundo Sosa; Darick Hall; J.T. Realmuto; Bryson Stott.
+
+
+RBI: Edmundo Sosa (1).
+
+
+2-out RBI: Edmundo Sosa.
+
+
+Team LOB: 9.
+With RISP: 2 for 10.
+
+Pitching home
+Nestor Cortes;/players/c/cortene01.shtml; W (1-0); 5 ;7;1;1;0;3;0;1.80;21;80;55;34;9;12;4;14;6;0;52;;;0.182; 1.08; 0.10%; 0.98; 1.5
+Ian Hamilton;/players/h/hamilia01.shtml;Ian Hamilton; 1.2;3;0;0;0;2;0;0.00;8;36;26;13;9;4;3;3;3;0;;0;0;0.008; 0.14; 0.01%; 0.13; 0.6
+Jonathan Loáisiga;/players/l/loaisjo01.shtml;Jonathan Loáisiga; 1.1;0;0;0;0;0;0;0.00;4;10;8;5;2;1;3;1;0;0;;2;0;0.007; 0.07; 0.00%; 0.06; 0.9
+Clay Holmes;/players/h/holmecl01.shtml;Clay Holmes; 1 ;1;0;0;0;2;0;10.80;4;14;11;5;3;3;2;0;0;0;;0;0;0.001; 0.02; 0.00%; 0.02; 0.5
+
+Pitching away
+Taijuan Walker;/players/w/walketa01.shtml; L (0-1); 4.1;4;4;4;3;5;1;8.31;20;87;50;26;10;14;9;3;1;0;41;;;-0.134; 0.87;-0.06%; 0.68; -1.0
+Yunior Marte;/players/m/marteyu01.shtml;Yunior Marte; 0.1;3;4;4;3;1;1;54.00;7;31;15;4;2;9;0;3;2;0;;1;1;-0.173; 0.29;-0.08%; 0.23; -4.9
+Andrew Vasquez;/players/v/vasquan02.shtml;Andrew Vasquez; 2.1;1;0;0;2;0;0;0.00;10;30;18;10;0;8;4;4;0;0;;2;0;0.004; 0.03; 0.00%; 0.02; 1.4
+Seranthony Domínguez;/players/d/dominse01.shtml;Seranthony Domínguez; 1 ;1;0;0;1;1;0;36.00;5;19;10;4;4;2;2;1;1;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: Andrew Vasquez (1).
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: Andrew Vasquez (1).
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Paul Emmel, 1B - Chad Fairchild, 2B - Nic Lentz, 3B - Jeremie Rehak, LF - (none), RF - (none).
+Time of Game: 2:41.
+Attendance: 37,202.
+Field Condition: Unknown.
+Start Time Weather: 53° F, Wind 17mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Phillies
+1;Trea Turner;/players/t/turnetr01.shtml;SS
+2;Kyle Schwarber;/players/s/schwaky01.shtml;LF
+3;J.T. Realmuto;/players/r/realmjt01.shtml;C
+4;Nick Castellanos;/players/c/casteni01.shtml;RF
+5;Alec Bohm;/players/b/bohmal01.shtml;DH
+6;Darick Hall;/players/h/hallda02.shtml;1B
+7;Edmundo Sosa;/players/s/sosaed01.shtml;3B
+8;Bryson Stott;/players/s/stottbr01.shtml;2B
+9;Brandon Marsh;/players/m/marshbr02.shtml;CF
+; Taijuan Walker;/players/w/walketa01.shtml;P
+Yankees
+1;DJ LeMahieu;/players/l/lemahdj01.shtml;3B
+2;Aaron Judge;/players/j/judgeaa01.shtml;CF
+3;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+4;Giancarlo Stanton;/players/s/stantmi03.shtml;DH
+5;Gleyber Torres;/players/t/torregl01.shtml;2B
+6;Franchy Cordero;/players/c/cordefr02.shtml;RF
+7;Aaron Hicks;/players/h/hicksaa01.shtml;LF
+8;Jose Trevino;/players/t/trevijo01.shtml;C
+9;Anthony Volpe;/players/v/volpean01.shtml;SS
+; Nestor Cortes;/players/c/cortene01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b5;3-1;1;1--;4,(2-1) .BCBX;RR;NYY;Anthony Rizzo;Yunior Marte;11%;93%;Home Run (Fly Ball to Deep RF Line); LeMahieu Scores
+b1;0-0;0;---;6,(3-2) CBFBBX;;NYY;DJ LeMahieu;Taijuan Walker;9%;64%;Triple to RF (Line Drive)
+b3;2-0;2;---;7,(3-2) BCSFBBX;R;NYY;Gleyber Torres;Taijuan Walker;8%;82%;Home Run (Fly Ball to Deep RF)
+t5;1-3;0;---;2,(1-0) BX;;PHI;Brandon Marsh;Nestor Cortes;-7%;68%;Double to LF (Ground Ball)
+t4;0-3;2;--3;3,(1-1) BCX;R;PHI;Edmundo Sosa;Nestor Cortes;-7%;76%;Single to LF (Ground Ball thru SS-3B Hole); Bohm Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Phillies Batting, Tied 0-0, Yankees' Nestor Cortes facing 1-2-3 
+t1;0-0;0;---;6,(2-2) BSFFBX;O;PHI;Trea Turner;Nestor Cortes;2%;52%;Popfly: SS
+t1;0-0;1;---;9,(3-2) BSS.BFBFFT;O;PHI;Kyle Schwarber;Nestor Cortes;2%;54%;Strikeout Swinging
+t1;0-0;2;---;3,(0-2) SCX;O;PHI;J.T. Realmuto;Nestor Cortes;1%;55%;Popfly: SS
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Yankees 0.
+Bottom of the 1st, Yankees Batting, Tied 0-0, Phillies' Taijuan Walker facing 1-2-3 
+b1;0-0;0;---;6,(3-2) CBFBBX;;NYY;DJ LeMahieu;Taijuan Walker;9%;64%;Triple to RF (Line Drive)
+b1;0-0;0;--3;7,(3-2) BCB*BSFB;;NYY;Aaron Judge;Taijuan Walker;3%;67%;Walk
+b1;0-0;0;1-3;6,(3-2) CBBC1*BB;;NYY;Anthony Rizzo;Taijuan Walker;4%;71%;Walk; Judge to 2B
+b1;0-0;0;123;3,(1-1) BCX;RO;NYY;Giancarlo Stanton;Taijuan Walker;1%;72%;Groundout: SS-1B; LeMahieu Scores; Judge to 3B; Rizzo to 2B
+b1;1-0;1;-23;2,(1-0) BX;R;NYY;Gleyber Torres;Taijuan Walker;6%;78%;Single to P (Ground Ball); Judge Scores; Rizzo to 3B
+b1;2-0;1;1-3;2,(1-0) BX;O;NYY;Franchy Cordero;Taijuan Walker;-5%;73%;Flyball: LF (Short LF)
+b1;2-0;2;1-3;5,(2-2) CB1BS>B;;NYY;Aaron Hicks;Taijuan Walker;1%;74%;Torres Steals 2B
+b1;2-0;2;-23;6,(3-2) CB1BS>B.B;;NYY;Aaron Hicks;Taijuan Walker;1%;75%;Walk
+b1;2-0;2;123;1,(0-0) X;O;NYY;Jose Trevino;Taijuan Walker;-5%;70%;Groundout: SS-1B
+;;;;;;;;;2 runs, 2 hits, 0 errors, 3 LOB. Phillies 0, Yankees 2.
+Top of the 2nd, Phillies Batting, Behind 0-2, Yankees' Nestor Cortes facing 4-5-6 
+t2;0-2;0;---;6,(2-2) CBCFBT;O;PHI;Nick Castellanos;Nestor Cortes;2%;72%;Strikeout Swinging
+t2;0-2;1;---;6,(1-2) FCBFFX;;PHI;Alec Bohm;Nestor Cortes;-3%;70%;Single to RF (Line Drive to Deep CF-RF)
+t2;0-2;1;1--;5,(1-2) CFFBX;;PHI;Darick Hall;Nestor Cortes;-4%;66%;Single to RF (Line Drive to CF-RF); Bohm to 2B
+t2;0-2;1;12-;5,(1-2) SBFFX;O;PHI;Edmundo Sosa;Nestor Cortes;5%;71%;Popfly: SS (Deep SS-3B Hole)
+t2;0-2;2;12-;4,(1-2) BCCX;O;PHI;Bryson Stott;Nestor Cortes;4%;75%;Groundout: 3B unassisted/Forceout at 3B (Weak 3B); Stott to 1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Phillies 0, Yankees 2.
+Bottom of the 2nd, Yankees Batting, Ahead 2-0, Phillies' Taijuan Walker facing 9-1-2 
+b2;2-0;0;---;2,(0-1) CX;O;NYY;Anthony Volpe;Taijuan Walker;-2%;73%;Groundout: 1B unassisted
+b2;2-0;1;---;2,(0-1) CX;O;NYY;DJ LeMahieu;Taijuan Walker;-1%;72%;Groundout: P-1B (Weak SS)
+b2;2-0;2;---;5,(2-2) CSBBS;O;NYY;Aaron Judge;Taijuan Walker;-1%;71%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Yankees 2.
+Top of the 3rd, Phillies Batting, Behind 0-2, Yankees' Nestor Cortes facing 9-1-2 
+t3;0-2;0;---;5,(2-2) BCBCS;O;PHI;Brandon Marsh;Nestor Cortes;2%;74%;Strikeout Swinging
+t3;0-2;1;---;2,(0-1) CX;;PHI;Trea Turner;Nestor Cortes;-3%;71%;Single to RF (Line Drive)
+t3;0-2;1;1--;5,(2-2) BCSB1X;O;PHI;Kyle Schwarber;Nestor Cortes;3%;74%;Flyball: CF
+t3;0-2;2;1--;2,(1-0) 1BX;O;PHI;J.T. Realmuto;Nestor Cortes;2%;77%;Flyball: LF (Short LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 0, Yankees 2.
+Bottom of the 3rd, Yankees Batting, Ahead 2-0, Phillies' Taijuan Walker facing 3-4-5 
+b3;2-0;0;---;2,(0-1) FX;O;NYY;Anthony Rizzo;Taijuan Walker;-2%;75%;Groundout: 2B-1B
+b3;2-0;1;---;8,(3-2) FSBBFBFS;O;NYY;Giancarlo Stanton;Taijuan Walker;-1%;74%;Strikeout Swinging
+b3;2-0;2;---;7,(3-2) BCSFBBX;R;NYY;Gleyber Torres;Taijuan Walker;8%;82%;Home Run (Fly Ball to Deep RF)
+b3;3-0;2;---;5,(2-2) BFFBS;O;NYY;Franchy Cordero;Taijuan Walker;-1%;82%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Phillies 0, Yankees 3.
+Top of the 4th, Phillies Batting, Behind 0-3, Yankees' Nestor Cortes facing 4-5-6 
+t4;0-3;0;---;1,(0-0) X;O;PHI;Nick Castellanos;Nestor Cortes;2%;84%;Foul Popfly: C (Behind Home)
+t4;0-3;1;---;3,(2-0) BBX;;PHI;Alec Bohm;Nestor Cortes;-4%;80%;Double to LF (Line Drive to Deep LF)
+t4;0-3;1;-2-;2,(1-0) BX;O;PHI;Darick Hall;Nestor Cortes;3%;83%;Lineout: 1B-P; Bohm to 3B
+t4;0-3;2;--3;3,(1-1) BCX;R;PHI;Edmundo Sosa;Nestor Cortes;-7%;76%;Single to LF (Ground Ball thru SS-3B Hole); Bohm Scores
+t4;1-3;2;1--;1,(0-0) X;O;PHI;Bryson Stott;Nestor Cortes;3%;79%;Flyball: LF
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Phillies 1, Yankees 3.
+Bottom of the 4th, Yankees Batting, Ahead 3-1, Phillies' Taijuan Walker facing 7-8-9 
+b4;3-1;0;---;4,(2-1) FBBX;O;NYY;Aaron Hicks;Taijuan Walker;-2%;77%;Groundout: 1B unassisted
+b4;3-1;1;---;5,(1-2) CCFBX;O;NYY;Jose Trevino;Taijuan Walker;-1%;76%;Groundout: 1B-P (2B-1B)
+b4;3-1;2;---;6,(3-2) CBBBFS;O;NYY;Anthony Volpe;Taijuan Walker;-1%;75%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 1, Yankees 3.
+Top of the 5th, Phillies Batting, Behind 1-3, Yankees' Nestor Cortes facing 9-1-2 
+t5;1-3;0;---;2,(1-0) BX;;PHI;Brandon Marsh;Nestor Cortes;-7%;68%;Double to LF (Ground Ball)
+t5;1-3;0;-2-;2,(1-0) BX;O;PHI;Trea Turner;Nestor Cortes;5%;73%;Groundout: 3B-1B (SS-3B Hole)
+t5;1-3;1;-2-;3,(1-1) BSX;O;PHI;Kyle Schwarber;Nestor Cortes;4%;78%;Popfly: 3B (SS-3B Hole)
+t5;1-3;2;-2-;5,(2-2) BSBFX;O;PHI;J.T. Realmuto;Nestor Cortes;4%;81%;Single to RF (Line Drive); Marsh out at 3B/P-3B; Realmuto to 2B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Phillies 1, Yankees 3.
+Bottom of the 5th, Yankees Batting, Ahead 3-1, Phillies' Taijuan Walker facing 1-2-3 
+b5;3-1;0;---;2,(0-1) CX;;NYY;DJ LeMahieu;Taijuan Walker;2%;84%;Single to CF (Ground Ball thru SS-2B)
+b5;3-1;0;1--;6,(3-2) *BFF*B*B1S;O;NYY;Aaron Judge;Taijuan Walker;-2%;82%;Strikeout Swinging
+;;;;;;;;;Yunior Marte replaces Taijuan Walker pitching
+b5;3-1;1;1--;4,(2-1) .BCBX;RR;NYY;Anthony Rizzo;Yunior Marte;11%;93%;Home Run (Fly Ball to Deep RF Line); LeMahieu Scores
+b5;5-1;1;---;4,(3-0) BBBB;;NYY;Giancarlo Stanton;Yunior Marte;1%;93%;Walk
+b5;5-1;1;1--;5,(3-1) BBCBB;;NYY;Gleyber Torres;Yunior Marte;1%;94%;Walk; Stanton to 2B
+b5;5-1;1;12-;5,(1-2) CCFBX;RR;NYY;Franchy Cordero;Yunior Marte;4%;98%;Double to CF (Line Drive to Deep CF-RF); Stanton Scores; Torres Scores
+b5;7-1;1;-2-;4,(1-2) CBSS;O;NYY;Aaron Hicks;Yunior Marte;0%;98%;Strikeout Swinging
+b5;7-1;2;-2-;3,(0-2) CCX;R;NYY;Jose Trevino;Yunior Marte;1%;99%;Single to CF (Line Drive to Deep LF-CF); Cordero Scores
+b5;8-1;2;1--;6,(3-2) BBBCC>B;;NYY;Anthony Volpe;Yunior Marte;0%;99%;Walk; Trevino to 2B
+;;;;;;;;;Andrew Vasquez replaces Yunior Marte pitching
+b5;8-1;2;12-;3,(1-1) .BCX;O;NYY;DJ LeMahieu;Andrew Vasquez;0%;99%;Flyball: RF
+;;;;;;;;;5 runs, 4 hits, 0 errors, 2 LOB. Phillies 1, Yankees 8.
+Top of the 6th, Phillies Batting, Behind 1-8, Yankees' Ian Hamilton facing 4-5-6 
+;;;;;;;;;Ian Hamilton replaces Nestor Cortes pitching
+t6;1-8;0;---;5,(1-2) .CSBFS;O;PHI;Nick Castellanos;Ian Hamilton;0%;99%;Strikeout Swinging
+t6;1-8;1;---;4,(1-2) SFBX;;PHI;Alec Bohm;Ian Hamilton;0%;99%;Single to RF (Line Drive to Short RF)
+t6;1-8;1;1--;2,(0-1) FX;O;PHI;Darick Hall;Ian Hamilton;0%;99%;Groundout: SS-1B; Bohm to 2B
+t6;1-8;2;-2-;2,(0-1) CX;O;PHI;Edmundo Sosa;Ian Hamilton;0%;99%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 1, Yankees 8.
+Bottom of the 6th, Yankees Batting, Ahead 8-1, Phillies' Andrew Vasquez facing 2-3-4 
+b6;8-1;0;---;3,(0-2) CFX;O;NYY;Aaron Judge;Andrew Vasquez;0%;99%;Flyball: CF (Deep CF)
+b6;8-1;1;---;3,(1-1) CBX;O;NYY;Anthony Rizzo;Andrew Vasquez;0%;99%;Groundout: 3B-1B (SS-3B Hole)
+b6;8-1;2;---;2,(0-1) CX;O;NYY;Giancarlo Stanton;Andrew Vasquez;0%;99%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 1, Yankees 8.
+Top of the 7th, Phillies Batting, Behind 1-8, Yankees' Ian Hamilton facing 8-9-1 
+t7;1-8;0;---;7,(2-2) BCCBFFX;O;PHI;Bryson Stott;Ian Hamilton;0%;99%;Lineout: CF (Deep CF)
+t7;1-8;1;---;6,(2-2) BBFSFX;;PHI;Brandon Marsh;Ian Hamilton;0%;99%;Single to LF (Ground Ball thru SS-3B Hole)
+t7;1-8;1;1--;4,(1-2) S*BSX;;PHI;Trea Turner;Ian Hamilton;-1%;99%;Single to CF (Line Drive); Marsh to 2B
+t7;1-8;1;12-;6,(3-2) BSSB*BS;O;PHI;Kyle Schwarber;Ian Hamilton;1%;99%;Strikeout Swinging
+;;;;;;;;;Jonathan Loáisiga replaces Ian Hamilton pitching
+t7;1-8;2;12-;1,(0-0) .X;O;PHI;J.T. Realmuto;Jonathan Loáisiga;0%;100%;Flyball: LF (Deep CF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Phillies 1, Yankees 8.
+Bottom of the 7th, Yankees Batting, Ahead 8-1, Phillies' Andrew Vasquez facing 5-6-7 
+b7;8-1;0;---;6,(3-2) BCBCBB;;NYY;Gleyber Torres;Andrew Vasquez;0%;100%;Walk
+b7;8-1;0;1--;,(0-0) N;;NYY;Franchy Cordero;Andrew Vasquez;0%;100%;Balk; Torres to 2B
+b7;8-1;0;-2-;1,(0-0) N.X;O;NYY;Franchy Cordero;Andrew Vasquez;0%;100%;Flyball: CF (Short CF)
+b7;8-1;1;-2-;2,(0-1) CX;O;NYY;Aaron Hicks;Andrew Vasquez;0%;100%;Groundout: 3B-1B (Weak 3B)
+b7;8-1;2;-2-;2,(1-0) BX;;NYY;Jose Trevino;Andrew Vasquez;0%;100%;Single to 3B (Ground Ball); Torres to 3B
+b7;8-1;2;1-3;5,(3-1) CBBBB;;NYY;Anthony Volpe;Andrew Vasquez;0%;100%;Walk; Trevino to 2B
+b7;8-1;2;123;3,(1-1) FBX;O;NYY;DJ LeMahieu;Andrew Vasquez;0%;100%;Groundout: 3B unassisted/Forceout at 3B (SS-3B Hole); LeMahieu to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Phillies 1, Yankees 8.
+Top of the 8th, Phillies Batting, Behind 1-8, Yankees' Jonathan Loáisiga facing 4-5-6 
+t8;1-8;0;---;3,(0-2) SSX;O;PHI;Nick Castellanos;Jonathan Loáisiga;0%;100%;Groundout: P-1B
+t8;1-8;1;---;3,(1-1) BCX;O;PHI;Alec Bohm;Jonathan Loáisiga;0%;100%;Groundout: 1B-P (2B-1B)
+t8;1-8;2;---;3,(1-1) BFX;O;PHI;Darick Hall;Jonathan Loáisiga;0%;100%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 1, Yankees 8.
+Bottom of the 8th, Yankees Batting, Ahead 8-1, Phillies' Seranthony Domínguez facing 2-3-4 
+;;;;;;;;;Seranthony Domínguez replaces Andrew Vasquez pitching
+b8;8-1;0;---;5,(2-2) .CBBFX;;NYY;Aaron Judge;Seranthony Domínguez;0%;100%;Single to LF (Ground Ball thru SS-3B Hole)
+;;;;;;;;;Isiah Kiner-Falefa pinch runs for Aaron Judge (CF) batting 2nd
+b8;8-1;0;1--;3,(2-0) BB.X;O;NYY;Anthony Rizzo;Seranthony Domínguez;0%;100%;Lineout: LF
+b8;8-1;1;1--;4,(1-2) CS*BS;O;NYY;Giancarlo Stanton;Seranthony Domínguez;0%;100%;Strikeout Swinging
+b8;8-1;2;1--;6,(3-2) SS*BB*B>*B;;NYY;Gleyber Torres;Seranthony Domínguez;0%;100%;Walk; Kiner-Falefa to 2B
+b8;8-1;2;12-;1,(0-0) X;O;NYY;Franchy Cordero;Seranthony Domínguez;0%;100%;Groundout: 1B-P
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Phillies 1, Yankees 8.
+Top of the 9th, Phillies Batting, Behind 1-8, Yankees' Clay Holmes facing 7-8-9 
+;;;;;;;;;Clay Holmes replaces Jonathan Loáisiga pitchingIsiah Kiner-Falefa moves from PR to CF Oswaldo Cabrera replaces Franchy Cordero playing RF batting 6th
+t9;1-8;0;---;4,(1-2) ...FSBC;O;PHI;Edmundo Sosa;Clay Holmes;0%;100%;Strikeout Looking
+t9;1-8;1;---;3,(0-2) FF.X;;PHI;Bryson Stott;Clay Holmes;0%;100%;Single to P (Ground Ball to Weak SS-2B)
+t9;1-8;1;1--;4,(2-1) BBCX;O;PHI;Brandon Marsh;Clay Holmes;0%;100%;Groundout: SS-2B/Forceout at 2B; Marsh to 1B
+t9;1-8;2;1--;3,(0-2) CSS;O;PHI;Trea Turner;Clay Holmes;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 1, Yankees 8.

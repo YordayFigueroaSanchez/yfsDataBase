@@ -1,0 +1,226 @@
+
+Scorebox Meta
+20230418
+4:17 p.m. Local
+10099
+Comerica Park
+110
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CLE-2023.png;/teams/CLE/2023.shtml;0;0;0;0;0;0;0;0;0;0;4;0
+https://cdn.ssref.net/req/202308101/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;0;0;0;0;0;1;0;0;X;1;5;0
+
+Batting home
+Nick Maton;/players/m/matonni01.shtml;3B;4;0;0;0;0;0;4;.163;.281;.388;.668;15;10;-0.147; 1.18;0.000;-0.147;-0.08%; 1.06; -1.4;0;2;GDP
+Riley Greene;/players/g/greenri03.shtml;CF;4;1;1;1;0;2;4;.262;.314;.415;.730;18;13;0.112; 0.89;0.168;-0.056; 0.06%; 0.80; 0.4;0;0;HR
+Javier Báez;/players/b/baezja01.shtml;SS;4;0;1;0;0;2;4;.193;.254;.246;.500;12;8;-0.012; 0.60;0.030;-0.041;-0.01%; 0.54; -0.2;2;1;
+Kerry Carpenter;/players/c/carpeke01.shtml;DH;4;0;0;0;0;2;4;.238;.319;.548;.867;14;11;-0.080; 0.81;0.000;-0.080;-0.04%; 0.73; -0.8;;;
+Tyler Nevin;/players/n/nevinty01.shtml;LF;2;0;1;0;1;0;3;.167;.400;.167;.567;14;6;0.039; 0.70;0.049;-0.011; 0.02%; 0.63; 0.4;1;0;
+Akil Baddoo;/players/b/baddoak01.shtml;LF;0;0;0;0;0;0;0;.208;.321;.250;.571;;;;;;;;;;0;0;
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;3;0;1;0;0;0;3;.222;.227;.317;.545;7;6;-0.053; 1.33;0.028;-0.081;-0.03%; 1.20; -0.3;7;1;
+Matt Vierling;/players/v/vierlma01.shtml;RF;3;0;0;0;0;1;3;.220;.264;.320;.584;8;6;-0.081; 1.05;0.000;-0.081;-0.04%; 0.95; -0.8;3;0;
+Jonathan Schoop;/players/s/schoojo01.shtml;2B;3;0;1;0;0;0;3;.200;.310;.200;.510;10;7;-0.019; 0.95;0.028;-0.047;-0.01%; 0.85; -0.0;3;3;
+Jake Rogers;/players/r/rogerja03.shtml;C;1;0;0;0;2;1;3;.222;.344;.519;.862;18;10;0.009; 0.95;0.044;-0.035; 0.01%; 0.86; -0.1;11;1;
+Eduardo Rodriguez;/players/r/rodried05.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Jason Foley;/players/f/foleyja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Riley Greene (2, off Peyton Battenfield, 6th inn, 0 on, 0 outs to Deep LF Line).
+
+
+TB: Riley Greene 4; Spencer Torkelson; Javier Báez; Jonathan Schoop; Tyler Nevin.
+
+
+GIDP: Nick Maton (2).
+
+
+RBI: Riley Greene (5).
+
+
+Team LOB: 6.
+With RISP: 0 for 3.
+
+Batting away
+Will Brennan;/players/b/brennwi02.shtml;LF;4;0;0;0;0;1;4;.256;.318;.359;.677;11;8;-0.124; 1.22;0.000;-0.124;-0.08%; 1.39; -0.7;1;0;
+Myles Straw;/players/s/strawmy01.shtml;CF;4;0;1;0;0;0;4;.310;.412;.362;.774;16;13;-0.025; 1.39;0.070;-0.096;-0.02%; 1.58; -0.2;3;0;
+José Ramírez;/players/r/ramirjo01.shtml;3B;4;0;0;0;0;4;4;.271;.373;.429;.802;17;12;-0.131; 1.35;0.000;-0.131;-0.09%; 1.55; -0.7;1;0;
+Josh Bell;/players/b/belljo02.shtml;1B;3;0;1;0;0;1;3;.203;.316;.344;.660;12;8;-0.031; 1.25;0.038;-0.068;-0.02%; 1.43; -0.0;4;1;
+Josh Naylor;/players/n/naylojo01.shtml;DH;3;0;0;0;0;0;3;.161;.234;.268;.502;8;5;-0.111; 1.44;0.000;-0.111;-0.08%; 1.65; -0.8;;;
+Oscar Gonzalez;/players/g/gonzaos01.shtml;RF;3;0;1;0;0;2;3;.156;.191;.267;.458;9;8;0.036; 1.42;0.087;-0.051; 0.03%; 1.62; -0.1;5;0;
+Andrés Giménez;/players/g/gimenan01.shtml;2B;2;0;0;0;0;0;3;.275;.342;.391;.733;12;8;-0.079; 1.64;0.000;-0.079;-0.05%; 1.87; -0.5;0;2;SH
+Gabriel Arias;/players/a/ariasga01.shtml;SS;3;0;1;0;0;2;3;.154;.214;.308;.522;13;9;-0.145; 1.75;0.040;-0.185;-0.10%; 2.00; -0.8;1;3;CS
+Cam Gallagher;/players/g/gallaca01.shtml;C;2;0;0;0;0;1;2;.125;.222;.188;.410;7;5;-0.042; 0.85;0.000;-0.042;-0.03%; 0.97; -0.3;6;0;
+Steven Kwan;/players/k/kwanst01.shtml;PH;1;0;0;0;0;0;1;.257;.357;.314;.671;6;4;-0.082; 2.88;0.000;-0.082;-0.06%; 3.29; -0.3;;;
+Meibrys Viloria;/players/v/vilorme01.shtml;C;0;0;0;0;0;0;0;.000;.250;.000;.250;;;;;;;;;;2;0;
+Peyton Battenfield;/players/b/battepe01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Xzavion Curry;/players/c/curryxz01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+SH: Andrés Giménez (1, off Eduardo Rodriguez).
+
+
+TB: Myles Straw; Gabriel Arias; Oscar Gonzalez; Josh Bell.
+
+
+Team LOB: 3.
+With RISP: 0 for 2.
+
+Pitching home
+Eduardo Rodriguez;/players/r/rodried05.shtml; W (1-2); 8 ;4;0;0;0;10;0;3.00;27;99;72;45;12;15;9;8;4;0;84;;;0.571; 1.37; 0.31%; 1.23; 4.0
+Jason Foley;/players/f/foleyja01.shtml; S (1); 1 ;0;0;0;0;1;0;1.13;3;12;8;4;1;3;2;0;0;0;;0;0;0.162; 2.13; 0.09%; 1.92; 0.5
+
+Pitching away
+Peyton Battenfield;/players/b/battepe01.shtml; L (0-1); 6 ;3;1;1;3;5;1;1.69;23;87;58;34;11;13;7;8;2;0;64;;;0.159; 0.95; 0.11%; 1.08; 2.0
+Xzavion Curry;/players/c/curryxz01.shtml;Xzavion Curry; 2 ;2;0;0;0;3;0;3.75;8;29;19;9;5;5;0;5;3;0;;0;0;0.074; 0.89; 0.05%; 1.01; 1.0
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Tony Randazzo, 1B - Todd Tichenor, 2B - Brian Knight, 3B - Brian Walsh, LF - (none), RF - (none).
+Time of Game: 1:50.
+Attendance: 10,099.
+Field Condition: Unknown.
+Start Time Weather: 46° F, Wind 17mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Guardians
+1;Will Brennan;/players/b/brennwi02.shtml;LF
+2;Myles Straw;/players/s/strawmy01.shtml;CF
+3;José Ramírez;/players/r/ramirjo01.shtml;3B
+4;Josh Bell;/players/b/belljo02.shtml;1B
+5;Josh Naylor;/players/n/naylojo01.shtml;DH
+6;Oscar Gonzalez;/players/g/gonzaos01.shtml;RF
+7;Andrés Giménez;/players/g/gimenan01.shtml;2B
+8;Gabriel Arias;/players/a/ariasga01.shtml;SS
+9;Cam Gallagher;/players/g/gallaca01.shtml;C
+; Peyton Battenfield;/players/b/battepe01.shtml;P
+Tigers
+1;Nick Maton;/players/m/matonni01.shtml;3B
+2;Riley Greene;/players/g/greenri03.shtml;CF
+3;Javier Báez;/players/b/baezja01.shtml;SS
+4;Kerry Carpenter;/players/c/carpeke01.shtml;DH
+5;Tyler Nevin;/players/n/nevinty01.shtml;LF
+6;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+7;Matt Vierling;/players/v/vierlma01.shtml;RF
+8;Jonathan Schoop;/players/s/schoojo01.shtml;2B
+9;Jake Rogers;/players/r/rogerja03.shtml;C
+; Eduardo Rodriguez;/players/r/rodried05.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b6;0-0;0;---;4,(1-2) CCBX;R;DET;Riley Greene;Peyton Battenfield;17%;74%;Home Run (Fly Ball to Deep LF Line)
+t8;0-1;0;---;2,(0-1) FX;;CLE;Oscar Gonzalez;Eduardo Rodriguez;-9%;66%;Single to CF (Line Drive)
+t8;0-1;1;-2-;6,(2-2) CSBBFT;O;CLE;Gabriel Arias;Eduardo Rodriguez;8%;79%;Strikeout Swinging
+t8;0-1;2;-2-;6,(2-2) .CFBFBX;O;CLE;Steven Kwan;Eduardo Rodriguez;8%;87%;Groundout: 2B-1B (Front of Home)
+t9;0-1;0;---;2,(0-1) ..FX;O;CLE;Will Brennan;Jason Foley;7%;91%;Groundout: 3B-1B (SS-3B Hole)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Guardians Batting, Tied 0-0, Tigers' Eduardo Rodriguez facing 1-2-3 
+t1;0-0;0;---;4,(1-2) CCBC;O;CLE;Will Brennan;Eduardo Rodriguez;2%;52%;Strikeout Looking
+t1;0-0;1;---;3,(0-2) CFX;O;CLE;Myles Straw;Eduardo Rodriguez;2%;54%;Flyball: RF (Deep RF Line)
+t1;0-0;2;---;4,(1-2) BCFS;O;CLE;José Ramírez;Eduardo Rodriguez;1%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Tigers 0.
+Bottom of the 1st, Tigers Batting, Tied 0-0, Guardians' Peyton Battenfield facing 1-2-3 
+b1;0-0;0;---;2,(1-0) BX;O;DET;Nick Maton;Peyton Battenfield;-2%;53%;Flyball: CF (Deep CF-RF)
+b1;0-0;1;---;5,(2-2) BBCFS;O;DET;Riley Greene;Peyton Battenfield;-2%;51%;Strikeout Swinging
+b1;0-0;2;---;5,(2-2) BCSBS;O;DET;Javier Báez;Peyton Battenfield;-1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Tigers 0.
+Top of the 2nd, Guardians Batting, Tied 0-0, Tigers' Eduardo Rodriguez facing 4-5-6 
+t2;0-0;0;---;3,(1-1) BFX;;CLE;Josh Bell;Eduardo Rodriguez;-4%;46%;Single to CF (Ground Ball)
+t2;0-0;0;1--;3,(1-1) CBX;O;CLE;Josh Naylor;Eduardo Rodriguez;4%;50%;Groundout: 2B-SS/Forceout at 2B; Naylor to 1B
+t2;0-0;1;1--;4,(1-2) BCCS;O;CLE;Oscar Gonzalez;Eduardo Rodriguez;3%;53%;Strikeout Swinging
+t2;0-0;2;1--;5,(2-2) FFBBX;O;CLE;Andrés Giménez;Eduardo Rodriguez;2%;55%;Groundout: P-SS/Forceout at 2B (Weak SS-2B); Giménez to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 0, Tigers 0.
+Bottom of the 2nd, Tigers Batting, Tied 0-0, Guardians' Peyton Battenfield facing 4-5-6 
+b2;0-0;0;---;3,(0-2) CCX;O;DET;Kerry Carpenter;Peyton Battenfield;-2%;53%;Groundout: 2B-1B (2B-1B)
+b2;0-0;1;---;3,(1-1) FBX;;DET;Tyler Nevin;Peyton Battenfield;3%;55%;Single to RF (Ground Ball)
+b2;0-0;1;1--;1,(0-0) X;O;DET;Spencer Torkelson;Peyton Battenfield;-3%;52%;Lineout: RF (Deep RF Line)
+b2;0-0;2;1--;3,(1-1) C*BX;O;DET;Matt Vierling;Peyton Battenfield;-2%;50%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 0, Tigers 0.
+Top of the 3rd, Guardians Batting, Tied 0-0, Tigers' Eduardo Rodriguez facing 8-9-1 
+t3;0-0;0;---;2,(0-1) CX;;CLE;Gabriel Arias;Eduardo Rodriguez;-4%;46%;Single to 2B (Ground Ball to 2B-1B)
+t3;0-0;0;1--;5,(1-2) BFFF>B;O;CLE;Cam Gallagher;Eduardo Rodriguez;7%;53%;Arias Caught Stealing 2B (C-2B)
+t3;0-0;1;---;6,(2-2) BFFF>B.C;O;CLE;Cam Gallagher;Eduardo Rodriguez;2%;54%;Strikeout Looking
+t3;0-0;2;---;1,(0-0) X;O;CLE;Will Brennan;Eduardo Rodriguez;1%;55%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Guardians 0, Tigers 0.
+Bottom of the 3rd, Tigers Batting, Tied 0-0, Guardians' Peyton Battenfield facing 8-9-1 
+b3;0-0;0;---;2,(0-1) FX;O;DET;Jonathan Schoop;Peyton Battenfield;-3%;53%;Flyball: CF (Deep CF)
+b3;0-0;1;---;7,(3-2) CSBFBBB;;DET;Jake Rogers;Peyton Battenfield;3%;56%;Walk
+b3;0-0;1;1--;1,(0-0) X;OO;DET;Nick Maton;Peyton Battenfield;-6%;50%;Ground Ball Double Play: 2B-SS-1B (Weak 2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Tigers 0.
+Top of the 4th, Guardians Batting, Tied 0-0, Tigers' Eduardo Rodriguez facing 2-3-4 
+t4;0-0;0;---;3,(0-2) FFX;O;CLE;Myles Straw;Eduardo Rodriguez;3%;53%;Lineout: RF (RF Line)
+t4;0-0;1;---;4,(1-2) FBSS;O;CLE;José Ramírez;Eduardo Rodriguez;2%;55%;Strikeout Swinging
+t4;0-0;2;---;6,(2-2) BFB.CFS;O;CLE;Josh Bell;Eduardo Rodriguez;1%;56%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Tigers 0.
+Bottom of the 4th, Tigers Batting, Tied 0-0, Guardians' Peyton Battenfield facing 2-3-4 
+b4;0-0;0;---;4,(0-2) FSFX;O;DET;Riley Greene;Peyton Battenfield;-3%;53%;Groundout: 1B-P (2B-1B)
+b4;0-0;1;---;1,(0-0) X;;DET;Javier Báez;Peyton Battenfield;3%;56%;Single to CF (Fly Ball to Short CF)
+b4;0-0;1;1--;3,(0-2) FFS;O;DET;Kerry Carpenter;Peyton Battenfield;-3%;53%;Strikeout Swinging
+b4;0-0;2;1--;4,(3-0) BBBB;;DET;Tyler Nevin;Peyton Battenfield;2%;55%;Walk; Báez to 2B
+b4;0-0;2;12-;4,(0-2) FFFX;O;DET;Spencer Torkelson;Peyton Battenfield;-5%;50%;Groundout: 3B unassisted/Forceout at 3B (SS-3B Hole); Torkelson to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Guardians 0, Tigers 0.
+Top of the 5th, Guardians Batting, Tied 0-0, Tigers' Eduardo Rodriguez facing 5-6-7 
+t5;0-0;0;---;4,(2-1) BTBX;O;CLE;Josh Naylor;Eduardo Rodriguez;3%;53%;Lineout: RF (Deep RF)
+t5;0-0;1;---;3,(0-2) SFS;O;CLE;Oscar Gonzalez;Eduardo Rodriguez;2%;55%;Strikeout Swinging
+t5;0-0;2;---;5,(1-2) CS.FBX;O;CLE;Andrés Giménez;Eduardo Rodriguez;1%;57%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Tigers 0.
+Bottom of the 5th, Tigers Batting, Tied 0-0, Guardians' Peyton Battenfield facing 7-8-9 
+b5;0-0;0;---;3,(0-2) FFS;O;DET;Matt Vierling;Peyton Battenfield;-3%;54%;Strikeout Swinging
+b5;0-0;1;---;6,(3-2) BBBCCX;O;DET;Jonathan Schoop;Peyton Battenfield;-2%;51%;Groundout: SS-1B
+b5;0-0;2;---;7,(3-2) BBBCFFB;;DET;Jake Rogers;Peyton Battenfield;2%;53%;Walk
+b5;0-0;2;1--;5,(1-2) SFF1*B>X;O;DET;Nick Maton;Peyton Battenfield;-3%;50%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Guardians 0, Tigers 0.
+Top of the 6th, Guardians Batting, Tied 0-0, Tigers' Eduardo Rodriguez facing 8-9-1 
+t6;0-0;0;---;5,(2-2) CBFBS;O;CLE;Gabriel Arias;Eduardo Rodriguez;3%;53%;Strikeout Swinging
+t6;0-0;1;---;1,(0-0) X;O;CLE;Cam Gallagher;Eduardo Rodriguez;2%;56%;Popfly: 2B (Deep 2B)
+t6;0-0;2;---;4,(2-1) BBFX;O;CLE;Will Brennan;Eduardo Rodriguez;2%;58%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Tigers 0.
+Bottom of the 6th, Tigers Batting, Tied 0-0, Guardians' Peyton Battenfield facing 2-3-4 
+b6;0-0;0;---;4,(1-2) CCBX;R;DET;Riley Greene;Peyton Battenfield;17%;74%;Home Run (Fly Ball to Deep LF Line)
+b6;1-0;0;---;3,(0-2) CSS;O;DET;Javier Báez;Peyton Battenfield;-2%;72%;Strikeout Swinging
+b6;1-0;1;---;4,(2-1) BFBX;O;DET;Kerry Carpenter;Peyton Battenfield;-2%;71%;Lineout: RF (Deep RF)
+b6;1-0;2;---;7,(3-2) CSBBBFX;O;DET;Tyler Nevin;Peyton Battenfield;-1%;70%;Groundout: SS-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Guardians 0, Tigers 1.
+Top of the 7th, Guardians Batting, Behind 0-1, Tigers' Eduardo Rodriguez facing 2-3-4 
+t7;0-1;0;---;5,(1-2) LFBFX;;CLE;Myles Straw;Eduardo Rodriguez;-7%;63%;Single to RF (Line Drive to Short RF)
+t7;0-1;0;1--;4,(1-2) BFSS;O;CLE;José Ramírez;Eduardo Rodriguez;7%;69%;Strikeout Swinging
+t7;0-1;1;1--;3,(1-1) BFX;O;CLE;Josh Bell;Eduardo Rodriguez;6%;75%;Foul Popfly: 1B
+t7;0-1;2;1--;1,(0-0) X;O;CLE;Josh Naylor;Eduardo Rodriguez;5%;79%;Flyball: LF (Short LF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 0, Tigers 1.
+Bottom of the 7th, Tigers Batting, Ahead 1-0, Guardians' Xzavion Curry facing 6-7-8 
+;;;;;;;;;Xzavion Curry replaces Peyton Battenfield pitching
+b7;1-0;0;---;2,(1-0) .BX;;DET;Spencer Torkelson;Xzavion Curry;3%;82%;Single to CF (Fly Ball)
+b7;1-0;0;1--;2,(1-0) BX;O;DET;Matt Vierling;Xzavion Curry;-3%;79%;Lineout: RF (Deep CF-RF)
+b7;1-0;1;1--;2,(0-1) SX;;DET;Jonathan Schoop;Xzavion Curry;3%;82%;Single to RF (Line Drive to CF-RF); Torkelson to 2B
+b7;1-0;1;12-;4,(0-2) CCFS;O;DET;Jake Rogers;Xzavion Curry;-4%;78%;Strikeout Swinging
+b7;1-0;2;12-;7,(3-2) BSCB*B>F>X;O;DET;Nick Maton;Xzavion Curry;-4%;75%;Lineout: LF (Deep LF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Guardians 0, Tigers 1.
+Top of the 8th, Guardians Batting, Behind 0-1, Tigers' Eduardo Rodriguez facing 6-7-8 
+t8;0-1;0;---;2,(0-1) FX;;CLE;Oscar Gonzalez;Eduardo Rodriguez;-9%;66%;Single to CF (Line Drive)
+t8;0-1;0;1--;2,(1-0) BX;O;CLE;Andrés Giménez;Eduardo Rodriguez;4%;70%;Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Gonzalez to 2B
+t8;0-1;1;-2-;6,(2-2) CSBBFT;O;CLE;Gabriel Arias;Eduardo Rodriguez;8%;79%;Strikeout Swinging
+;;;;;;;;;Steven Kwan pinch hits for Cam Gallagher (C) batting 9th
+t8;0-1;2;-2-;6,(2-2) .CFBFBX;O;CLE;Steven Kwan;Eduardo Rodriguez;8%;87%;Groundout: 2B-1B (Front of Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 0, Tigers 1.
+Bottom of the 8th, Tigers Batting, Ahead 1-0, Guardians' Xzavion Curry facing 2-3-4 
+;;;;;;;;;Meibrys Viloria replaces Steven Kwan (PH) playing C batting 9th
+b8;1-0;0;---;5,(2-2) .BBFCS;O;DET;Riley Greene;Xzavion Curry;-1%;86%;Strikeout Swinging
+b8;1-0;1;---;3,(2-0) BBX;O;DET;Javier Báez;Xzavion Curry;-1%;85%;Foul Popfly: RF (Short RF into Foul Terr.)
+b8;1-0;2;---;4,(1-2) CBFS;O;DET;Kerry Carpenter;Xzavion Curry;-1%;84%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Tigers 1.
+Top of the 9th, Guardians Batting, Behind 0-1, Tigers' Jason Foley facing 1-2-3 
+;;;;;;;;;Jason Foley replaces Eduardo Rodriguez pitchingAkil Baddoo replaces Tyler Nevin playing LF batting 5th
+t9;0-1;0;---;2,(0-1) ..FX;O;CLE;Will Brennan;Jason Foley;7%;91%;Groundout: 3B-1B (SS-3B Hole)
+t9;0-1;1;---;5,(2-2) CBBC.X;O;CLE;Myles Straw;Jason Foley;5%;96%;Groundout: 2B-1B (2B-1B)
+t9;0-1;2;---;5,(2-2) CBBFS;O;CLE;José Ramírez;Jason Foley;4%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Tigers 1.

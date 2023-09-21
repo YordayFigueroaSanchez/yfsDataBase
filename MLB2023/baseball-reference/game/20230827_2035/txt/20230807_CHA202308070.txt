@@ -1,0 +1,264 @@
+
+Scorebox Meta
+20230807
+7:10 p.m. Local
+27574
+Guaranteed Rate Field
+160
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;0;0;0;0;0;1;0;0;1;6;1
+https://cdn.ssref.net/req/202308251/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;0;2;0;0;0;0;0;3;X;5;6;0
+
+Batting home
+Tim Anderson;/players/a/anderti01.shtml;SS;2;0;0;0;0;2;3;.242;.285;.290;.575;13;7;-0.013; 0.54;0.017;-0.030;0%; 0.00; -0.1;0;0;HBP
+Zach Remillard;/players/r/remilza01.shtml;PH-2B;0;1;0;0;0;0;1;.257;.316;.333;.649;1;1;0.034; 0.92;0.034;0.000;0%; 0.01; 0.8;0;0;SH
+Andrew Benintendi;/players/b/beninan01.shtml;LF;3;0;0;1;0;1;4;.276;.342;.357;.699;18;11;-0.068; 0.69;0.000;-0.068;0%; 0.01; -1.4;2;0;SF,GDP
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;4;0;1;2;0;0;4;.270;.323;.558;.881;9;7;0.005; 0.48;0.042;-0.037;0%; 0.00; 1.2;5;0;2B
+Eloy Jiménez;/players/j/jimenel02.shtml;DH;4;0;1;0;0;1;4;.279;.320;.456;.776;17;11;-0.016; 0.43;0.017;-0.033;0%; 0.00; -0.5;;;
+Yoán Moncada;/players/m/moncayo01.shtml;3B;3;1;0;0;1;1;4;.214;.262;.319;.580;17;10;-0.017; 0.59;0.026;-0.042;0%; 0.01; -0.6;1;0;
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;3;1;2;2;0;0;3;.253;.319;.440;.759;8;5;0.179; 0.80;0.194;-0.015; 0.00%; 0.00; 1.8;4;0;HR
+Yasmani Grandal;/players/g/grandya01.shtml;C;2;0;0;0;1;0;3;.244;.316;.368;.683;18;11;-0.029; 0.71;0.017;-0.046;0%; 0.00; -0.4;12;0;
+Gavin Sheets;/players/s/sheetga01.shtml;RF;3;0;1;0;0;0;3;.220;.292;.359;.651;15;9;-0.032; 0.66;0.020;-0.053;0%; 0.00; -0.4;2;0;GDP
+Trayce Thompson;/players/t/thomptr01.shtml;PR-RF;0;1;0;0;0;0;0;.159;.303;.341;.644;;;0.000;;0.000;0.000;0%;; 0.0;0;0;
+Elvis Andrus;/players/a/andruel01.shtml;2B-SS;3;1;1;0;0;0;3;.224;.294;.318;.612;7;5;0.001; 0.63;0.029;-0.027;0%; 0.01; 0.2;1;1;
+Dylan Cease;/players/c/ceasedy01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Brent Honeywell Jr.;/players/h/honeybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Lane Ramsey;/players/r/ramsela02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Shaw;/players/s/shawbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Luis Robert Jr. (30, off Tommy Kahnle).
+
+
+HR: Andrew Vaughn (15, off Gerrit Cole, 2nd inn, 1 on, 1 out to Deep CF).
+
+
+SF: Andrew Benintendi (3, off Tommy Kahnle).
+
+
+SH: Zach Remillard (3, off Tommy Kahnle).
+
+
+HBP: Tim Anderson (2, by Gerrit Cole).
+
+
+TB: Andrew Vaughn 5; Luis Robert Jr. 2; Elvis Andrus; Gavin Sheets; Eloy Jiménez.
+
+
+GIDP: Gavin Sheets (4); Andrew Benintendi (6).
+
+
+RBI: Luis Robert Jr. 2 (64); Andrew Vaughn 2 (61); Andrew Benintendi (31).
+
+
+Team LOB: 3.
+With RISP: 1 for 4.
+
+Batting away
+Jake Bauers;/players/b/bauerja01.shtml;1B;5;0;0;0;0;3;5;.223;.302;.486;.788;18;12;-0.259; 1.98;0.000;-0.259;-0.07%; 0.95; -2.2;8;0;
+Aaron Judge;/players/j/judgeaa01.shtml;RF;4;1;2;0;1;1;5;.282;.406;.626;1.032;23;15;0.076; 0.89;0.121;-0.045; 0.02%; 0.43; 1.0;2;0;2B
+Gleyber Torres;/players/t/torregl01.shtml;2B;4;0;1;0;1;1;5;.270;.336;.448;.784;22;13;0.028; 1.19;0.106;-0.078; 0.01%; 0.57; 0.0;2;5;
+Giancarlo Stanton;/players/s/stantmi03.shtml;DH;4;0;0;0;1;2;5;.203;.279;.457;.736;21;12;0.044; 1.26;0.123;-0.079; 0.01%; 0.61; -0.4;;;
+Billy McKinney;/players/m/mckinbi01.shtml;LF;2;0;0;1;2;1;5;.223;.314;.447;.760;22;9;-0.006; 1.45;0.059;-0.065;-0.00%; 0.70; -0.2;2;0;SF
+DJ LeMahieu;/players/l/lemahdj01.shtml;3B;3;0;1;0;1;1;4;.240;.315;.373;.688;18;11;-0.079; 1.90;0.093;-0.172;-0.02%; 0.91; -0.3;1;1;
+Harrison Bader;/players/b/baderha01.shtml;CF;3;0;1;0;1;1;4;.261;.294;.419;.713;13;6;0.003; 2.02;0.127;-0.124; 0.00%; 0.97; 0.5;2;0;
+Anthony Volpe;/players/v/volpean01.shtml;SS;3;0;1;0;1;1;4;.211;.287;.373;.660;17;11;-0.005; 1.97;0.118;-0.123;-0.00%; 0.95; -0.1;2;3;
+Ben Rortvedt;/players/r/rortvbe01.shtml;C;2;0;0;0;0;0;2;.115;.258;.154;.412;7;5;-0.110; 1.99;0.000;-0.110;-0.03%; 0.95; -1.1;3;0;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;PH;1;0;0;0;0;0;1;.250;.321;.369;.689;5;3;-0.106; 3.97;0.000;-0.106;-0.03%; 1.91; -0.8;;;
+Kyle Higashioka;/players/h/higasky01.shtml;C;1;0;0;0;0;1;1;.223;.260;.369;.629;5;3;-0.040; 1.59;0.000;-0.040;-0.01%; 0.77; -0.2;2;0;
+Gerrit Cole;/players/c/colege01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Tommy Kahnle;/players/k/kahnlto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Aaron Judge (11, off Bryan Shaw).
+
+
+SF: Billy McKinney (1, off Lane Ramsey).
+
+
+TB: Aaron Judge 3; DJ LeMahieu; Harrison Bader; Anthony Volpe; Gleyber Torres.
+
+
+RBI: Billy McKinney (13).
+
+
+Team LOB: 13.
+With RISP: 1 for 12.
+
+Pitching home
+Dylan Cease;/players/c/ceasedy01.shtml; W (5-5); 5.1;1;0;0;7;6;0;4.42;24;104;58;28;12;18;2;9;2;0;65;;;0.270; 1.24; 0.00%; 0.01; 2.6
+Brent Honeywell Jr.;/players/h/honeybr01.shtml; H (4); 0.2;2;0;0;0;0;0;3.99;4;12;7;6;0;1;2;2;1;0;;1;0;0.071; 3.14; 0.00%; 0.02; 0.5
+Lane Ramsey;/players/r/ramsela02.shtml; H (1); 1 ;2;1;1;1;2;0;3.86;6;23;14;7;1;6;2;1;0;0;;0;0;-0.025; 2.99; 0.00%; 0.03; -0.5
+Bryan Shaw;/players/s/shawbr01.shtml; S (1); 2 ;1;0;0;0;4;0;5.28;7;32;21;6;6;9;0;3;1;0;;0;0;0.139; 0.94; 0.00%; 0.01; 1.1
+
+Pitching away
+Gerrit Cole;/players/c/colege01.shtml; L (10-3); 7 ;5;4;4;2;3;1;2.75;27;105;64;42;7;15;9;12;5;0;52;;;0.026; 0.64; 0.01%; 0.31; 0.7
+Tommy Kahnle;/players/k/kahnlto01.shtml;Tommy Kahnle; 1 ;1;1;0;0;2;0;2.13;5;18;13;8;4;1;1;2;2;0;;2;2;-0.071; 0.48;-0.02%; 0.23; -1.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Gerrit Cole (7; Tim Anderson).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Gerrit Cole (7; Tim Anderson).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Laz Diaz, 1B - Mike Estabrook, 2B - Andy Fletcher, 3B - Erich Bacchus, LF - (none), RF - (none).
+Time of Game: 2:40.
+Attendance: 27,574.
+Field Condition: Unknown.
+Start Time Weather: 74° F, Wind 7mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Yankees
+1;Jake Bauers;/players/b/bauerja01.shtml;1B
+2;Aaron Judge;/players/j/judgeaa01.shtml;RF
+3;Gleyber Torres;/players/t/torregl01.shtml;2B
+4;Giancarlo Stanton;/players/s/stantmi03.shtml;DH
+5;Billy McKinney;/players/m/mckinbi01.shtml;LF
+6;DJ LeMahieu;/players/l/lemahdj01.shtml;3B
+7;Harrison Bader;/players/b/baderha01.shtml;CF
+8;Anthony Volpe;/players/v/volpean01.shtml;SS
+9;Ben Rortvedt;/players/r/rortvbe01.shtml;C
+; Gerrit Cole;/players/c/colege01.shtml;P
+White Sox
+1;Tim Anderson;/players/a/anderti01.shtml;SS
+2;Andrew Benintendi;/players/b/beninan01.shtml;LF
+3;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+4;Eloy Jiménez;/players/j/jimenel02.shtml;DH
+5;Yoán Moncada;/players/m/moncayo01.shtml;3B
+6;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+7;Yasmani Grandal;/players/g/grandya01.shtml;C
+8;Gavin Sheets;/players/s/sheetga01.shtml;RF
+9;Elvis Andrus;/players/a/andruel01.shtml;2B
+; Dylan Cease;/players/c/ceasedy01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b2;0-0;1;1--;4,(2-1) BBCX;RR;CHW;Andrew Vaughn;Gerrit Cole;18%;73%;Home Run (Fly Ball to Deep CF); Moncada Scores
+t7;1-2;1;1-3;3,(0-2) CFC;O;NYY;DJ LeMahieu;Lane Ramsey;13%;69%;Strikeout Looking
+t7;0-2;0;12-;6,(3-2) BBBCFB;;NYY;Giancarlo Stanton;Lane Ramsey;-12%;54%;Walk; Judge to 3B; Torres to 2B
+t6;0-2;2;123;2,(1-0) BX;O;NYY;Jake Bauers;Brent Honeywell Jr.;11%;84%;Groundout: 1B unassisted
+t6;0-2;1;123;5,(2-2) .BCFBX;O;NYY;Isiah Kiner-Falefa;Brent Honeywell Jr.;11%;74%;Flyball: RF (Short CF-RF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Yankees Batting, Tied 0-0, White Sox' Dylan Cease facing 1-2-3 
+t1;0-0;0;---;5,(2-2) BFSBS;O;NYY;Jake Bauers;Dylan Cease;2%;52%;Strikeout Swinging
+t1;0-0;1;---;2,(0-1) SX;O;NYY;Aaron Judge;Dylan Cease;2%;54%;Popfly: 2B (Deep 2B)
+t1;0-0;2;---;6,(3-2) BBCCBB;;NYY;Gleyber Torres;Dylan Cease;-1%;53%;Walk
+t1;0-0;2;1--;5,(2-2) B*BFS1C;O;NYY;Giancarlo Stanton;Dylan Cease;2%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, White Sox 0.
+Bottom of the 1st, White Sox Batting, Tied 0-0, Yankees' Gerrit Cole facing 1-2-3 
+b1;0-0;0;---;5,(2-2) CBFBS;O;CHW;Tim Anderson;Gerrit Cole;-2%;53%;Strikeout Swinging
+b1;0-0;1;---;6,(2-2) CBC.BFC;O;CHW;Andrew Benintendi;Gerrit Cole;-2%;51%;Strikeout Looking
+b1;0-0;2;---;2,(0-1) FX;O;CHW;Luis Robert Jr.;Gerrit Cole;-1%;50%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, White Sox 0.
+Top of the 2nd, Yankees Batting, Tied 0-0, White Sox' Dylan Cease facing 5-6-7 
+t2;0-0;0;---;5,(3-1) BBFBB;;NYY;Billy McKinney;Dylan Cease;-4%;46%;Walk
+t2;0-0;0;1--;7,(3-2) C*BF*BBFB;;NYY;DJ LeMahieu;Dylan Cease;-6%;41%;Walk; McKinney to 2B
+t2;0-0;0;12-;5,(3-1) CB*BBB;;NYY;Harrison Bader;Dylan Cease;-7%;33%;Walk; McKinney to 3B; LeMahieu to 2B
+t2;0-0;0;123;5,(1-2) CBSFX;O;NYY;Anthony Volpe;Dylan Cease;7%;40%;Flyball: LF (Short LF)
+t2;0-0;1;123;4,(1-2) C*S.BX;O;NYY;Ben Rortvedt;Dylan Cease;8%;48%;Flyball: LF (Short LF)
+t2;0-0;2;123;3,(1-1) CBX;O;NYY;Jake Bauers;Dylan Cease;8%;55%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 3 LOB. Yankees 0, White Sox 0.
+Bottom of the 2nd, White Sox Batting, Tied 0-0, Yankees' Gerrit Cole facing 4-5-6 
+b2;0-0;0;---;3,(1-1) BFX;O;CHW;Eloy Jiménez;Gerrit Cole;-2%;53%;Lineout: RF
+b2;0-0;1;---;6,(3-2) BCBSBB;;CHW;Yoán Moncada;Gerrit Cole;3%;55%;Walk
+b2;0-0;1;1--;4,(2-1) BBCX;RR;CHW;Andrew Vaughn;Gerrit Cole;18%;73%;Home Run (Fly Ball to Deep CF); Moncada Scores
+b2;2-0;1;---;9,(3-2) CBFBFBFFB;;CHW;Yasmani Grandal;Gerrit Cole;2%;75%;Walk
+b2;2-0;1;1--;6,(3-2) BS*BBSX;OO;CHW;Gavin Sheets;Gerrit Cole;-4%;71%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Yankees 0, White Sox 2.
+Top of the 3rd, Yankees Batting, Behind 0-2, White Sox' Dylan Cease facing 2-3-4 
+t3;0-2;0;---;7,(3-2) BBCBSFB;;NYY;Aaron Judge;Dylan Cease;-4%;67%;Walk
+t3;0-2;0;1--;3,(0-2) FFC;O;NYY;Gleyber Torres;Dylan Cease;4%;71%;Strikeout Looking
+t3;0-2;1;1--;2,(0-1) CX;O;NYY;Giancarlo Stanton;Dylan Cease;3%;74%;Flyball: RF (Short CF-RF)
+t3;0-2;2;1--;6,(3-2) BBBCF>B;;NYY;Billy McKinney;Dylan Cease;-2%;72%;Walk; Judge to 2B
+t3;0-2;2;12-;3,(1-1) BCX;O;NYY;DJ LeMahieu;Dylan Cease;5%;76%;Groundout: P-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Yankees 0, White Sox 2.
+Bottom of the 3rd, White Sox Batting, Ahead 2-0, Yankees' Gerrit Cole facing 9-1-2 
+b3;2-0;0;---;1,(0-0) .X;O;CHW;Elvis Andrus;Gerrit Cole;-2%;75%;Groundout: 3B-1B
+b3;2-0;1;---;2,(0-1) FH;;CHW;Tim Anderson;Gerrit Cole;2%;76%;Hit By Pitch
+b3;2-0;1;1--;4,(2-1) .BFB1X;OO;CHW;Andrew Benintendi;Gerrit Cole;-4%;73%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, White Sox 2.
+Top of the 4th, Yankees Batting, Behind 0-2, White Sox' Dylan Cease facing 7-8-9 
+t4;0-2;0;---;1,(0-0) X;O;NYY;Harrison Bader;Dylan Cease;3%;75%;Flyball: CF (LF-CF)
+t4;0-2;1;---;5,(3-1) BBBCB;;NYY;Anthony Volpe;Dylan Cease;-3%;72%;Walk
+t4;0-2;1;1--;3,(1-1) C*BX;O;NYY;Ben Rortvedt;Dylan Cease;3%;76%;Popfly: 3B
+t4;0-2;2;1--;4,(1-2) BCF1>S;O;NYY;Jake Bauers;Dylan Cease;3%;78%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, White Sox 2.
+Bottom of the 4th, White Sox Batting, Ahead 2-0, Yankees' Gerrit Cole facing 3-4-5 
+b4;2-0;0;---;1,(0-0) X;O;CHW;Luis Robert Jr.;Gerrit Cole;-2%;77%;Flyball: RF (CF-RF)
+b4;2-0;1;---;6,(3-2) BFF.BBX;;CHW;Eloy Jiménez;Gerrit Cole;2%;79%;Single to CF (Line Drive to Deep CF)
+b4;2-0;1;1--;1,(0-0) X;O;CHW;Yoán Moncada;Gerrit Cole;-2%;77%;Flyball: LF
+b4;2-0;2;1--;1,(0-0) X;;CHW;Andrew Vaughn;Gerrit Cole;2%;78%;Single to LF (Line Drive to Deep LF-CF); Jiménez to 3B
+b4;2-0;2;1-3;4,(1-2) CBCX;O;CHW;Yasmani Grandal;Gerrit Cole;-4%;75%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Yankees 0, White Sox 2.
+Top of the 5th, Yankees Batting, Behind 0-2, White Sox' Dylan Cease facing 2-3-4 
+t5;0-2;0;---;7,(2-2) FFBBF.FS;O;NYY;Aaron Judge;Dylan Cease;3%;78%;Strikeout Swinging
+t5;0-2;1;---;5,(2-2) BCFBX;O;NYY;Gleyber Torres;Dylan Cease;2%;80%;Lineout: CF (CF-RF)
+t5;0-2;2;---;3,(0-2) CSS;O;NYY;Giancarlo Stanton;Dylan Cease;1%;81%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, White Sox 2.
+Bottom of the 5th, White Sox Batting, Ahead 2-0, Yankees' Gerrit Cole facing 8-9-1 
+b5;2-0;0;---;4,(1-2) CFBX;O;CHW;Gavin Sheets;Gerrit Cole;-2%;80%;Popfly: 3B (Deep 3B)
+b5;2-0;1;---;3,(1-1) BFX;O;CHW;Elvis Andrus;Gerrit Cole;-1%;78%;Popfly: 2B (Deep 2B-1B)
+b5;2-0;2;---;6,(3-2) SFBBBC;O;CHW;Tim Anderson;Gerrit Cole;-1%;78%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, White Sox 2.
+Top of the 6th, Yankees Batting, Behind 0-2, White Sox' Dylan Cease facing 5-6-7 
+t6;0-2;0;---;3,(2-0) BBX;O;NYY;Billy McKinney;Dylan Cease;3%;81%;Flyball: CF (Short CF)
+t6;0-2;1;---;5,(2-2) BFBS.X;;NYY;DJ LeMahieu;Dylan Cease;-4%;77%;Single to LF (Line Drive)
+;;;;;;;;;Brent Honeywell Jr. replaces Dylan Cease pitching
+t6;0-2;1;1--;2,(1-0) .BX;;NYY;Harrison Bader;Brent Honeywell Jr.;-5%;72%;Single to RF (Line Drive to RF Line); LeMahieu to 2B
+t6;0-2;1;12-;3,(1-1) FBX;;NYY;Anthony Volpe;Brent Honeywell Jr.;-9%;63%;Single to LF (Ground Ball thru SS-3B Hole); LeMahieu to 3B; Bader to 2B
+;;;;;;;;;Isiah Kiner-Falefa pinch hits for Ben Rortvedt (C) batting 9th
+t6;0-2;1;123;5,(2-2) .BCFBX;O;NYY;Isiah Kiner-Falefa;Brent Honeywell Jr.;11%;74%;Flyball: RF (Short CF-RF)
+t6;0-2;2;123;2,(1-0) BX;O;NYY;Jake Bauers;Brent Honeywell Jr.;11%;84%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 3 hits, 0 errors, 3 LOB. Yankees 0, White Sox 2.
+Bottom of the 6th, White Sox Batting, Ahead 2-0, Yankees' Gerrit Cole facing 2-3-4 
+;;;;;;;;;Kyle Higashioka replaces Isiah Kiner-Falefa (PH) playing C batting 9th
+b6;2-0;0;---;7,(3-2) .BSBFBFX;O;CHW;Andrew Benintendi;Gerrit Cole;-1%;83%;Foul Popfly: LF (Short LF into Foul Terr.)
+b6;2-0;1;---;3,(1-1) FBX;O;CHW;Luis Robert Jr.;Gerrit Cole;-1%;82%;Groundout: SS-1B (Deep SS)
+b6;2-0;2;---;3,(1-1) SBX;O;CHW;Eloy Jiménez;Gerrit Cole;-1%;81%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, White Sox 2.
+Top of the 7th, Yankees Batting, Behind 0-2, White Sox' Lane Ramsey facing 2-3-4 
+;;;;;;;;;Lane Ramsey replaces Brent Honeywell Jr. pitching
+t7;0-2;0;---;4,(1-2) .CCBX;;NYY;Aaron Judge;Lane Ramsey;-6%;75%;Single to LF (Ground Ball thru SS-3B Hole)
+t7;0-2;0;1--;2,(1-0) BX;;NYY;Gleyber Torres;Lane Ramsey;-9%;66%;Single to 3B (Ground Ball to Weak 3B); Judge to 2B
+t7;0-2;0;12-;6,(3-2) BBBCFB;;NYY;Giancarlo Stanton;Lane Ramsey;-12%;54%;Walk; Judge to 3B; Torres to 2B
+t7;0-2;0;123;3,(1-1) C*BX;RO;NYY;Billy McKinney;Lane Ramsey;3%;56%;Flyball: CF/Sacrifice Fly (Deep LF-CF); Judge Scores; Torres to 3B
+t7;1-2;1;1-3;3,(0-2) CFC;O;NYY;DJ LeMahieu;Lane Ramsey;13%;69%;Strikeout Looking
+t7;1-2;2;1-3;5,(2-2) FFB*BS;O;NYY;Harrison Bader;Lane Ramsey;10%;79%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Yankees 1, White Sox 2.
+Bottom of the 7th, White Sox Batting, Ahead 2-1, Yankees' Gerrit Cole facing 5-6-7 
+b7;2-1;0;---;2,(0-1) CX;O;CHW;Yoán Moncada;Gerrit Cole;-2%;77%;Groundout: 2B-1B (2B-1B)
+b7;2-1;1;---;3,(1-1) CBX;O;CHW;Andrew Vaughn;Gerrit Cole;-1%;75%;Popfly: 2B (Deep 2B)
+b7;2-1;2;---;5,(2-2) BBCFX;O;CHW;Yasmani Grandal;Gerrit Cole;-1%;74%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 1, White Sox 2.
+Top of the 8th, Yankees Batting, Behind 1-2, White Sox' Bryan Shaw facing 8-9-1 
+;;;;;;;;;Bryan Shaw replaces Lane Ramsey pitching
+t8;1-2;0;---;4,(0-2) .CSFC;O;NYY;Anthony Volpe;Bryan Shaw;6%;80%;Strikeout Looking
+t8;1-2;1;---;5,(2-2) .CBBS.C;O;NYY;Kyle Higashioka;Bryan Shaw;4%;84%;Strikeout Looking
+t8;1-2;2;---;4,(1-2) FSBS;O;NYY;Jake Bauers;Bryan Shaw;3%;86%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 1, White Sox 2.
+Bottom of the 8th, White Sox Batting, Ahead 2-1, Yankees' Gerrit Cole facing 8-9-1 
+b8;2-1;0;---;5,(2-2) FFBBX;;CHW;Gavin Sheets;Gerrit Cole;2%;89%;Single to RF (Ground Ball thru 2B-1B)
+;;;;;;;;;Trayce Thompson pinch runs for Gavin Sheets (RF) batting 8th
+b8;2-1;0;1--;3,(1-1) .CB1X;;CHW;Elvis Andrus;Gerrit Cole;3%;91%;Single to RF (Line Drive to Deep 2B-1B); Thompson to 2B
+;;;;;;;;;Tommy Kahnle replaces Gerrit Cole pitchingZach Remillard pinch hits for Tim Anderson (SS) batting 1st
+b8;2-1;0;12-;1,(0-0) ..X;;CHW;Zach Remillard;Tommy Kahnle;3%;95%;Fielder's Choice /Sacrifice Bunt; Thompson to 3B; Andrus to 2B; Remillard to 1B/Adv on E1
+b8;2-1;0;123;1,(0-0) X;RO;CHW;Andrew Benintendi;Tommy Kahnle;0%;95%;Lineout: CF/Sacrifice Fly (Deep LF-CF); Thompson Scores
+b8;3-1;1;12-;3,(1-1) SBX;RR;CHW;Luis Robert Jr.;Tommy Kahnle;4%;99%;Double to RF (Line Drive to RF Line); Andrus Scores; Remillard Scores/unER
+b8;5-1;1;-2-;5,(1-2) FC*BFS;O;CHW;Eloy Jiménez;Tommy Kahnle;0%;99%;Strikeout Swinging
+b8;5-1;2;-2-;8,(3-2) SFFBBBFS;O;CHW;Yoán Moncada;Tommy Kahnle;0%;98%;Strikeout Swinging
+;;;;;;;;;3 runs, 3 hits, 1 error, 1 LOB. Yankees 1, White Sox 5.
+Top of the 9th, Yankees Batting, Behind 1-5, White Sox' Bryan Shaw facing 2-3-4 
+;;;;;;;;;Zach Remillard moves from PH to 2B Elvis Andrus moves from 2B to SS Trayce Thompson moves from PR to RF 
+t9;1-5;0;---;3,(1-1) ...CBX;;NYY;Aaron Judge;Bryan Shaw;-2%;96%;Double to LF (Line Drive to Deep LF Line)
+t9;1-5;0;-2-;6,(2-2) BBCCFX;O;NYY;Gleyber Torres;Bryan Shaw;2%;98%;Flyball: CF (Deep CF); Judge to 3B
+t9;1-5;1;--3;5,(3-1) BBBCX;O;NYY;Giancarlo Stanton;Bryan Shaw;1%;100%;Foul Popfly: 1B (1B into Foul Terr.)
+t9;1-5;2;--3;5,(2-2) CS.BBS;O;NYY;Billy McKinney;Bryan Shaw;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 1, White Sox 5.

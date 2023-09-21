@@ -1,0 +1,260 @@
+
+Scorebox Meta
+20230513
+6:15 p.m. Local
+23242
+Guaranteed Rate Field
+157
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/HOU-2023.png;/teams/HOU/2023.shtml;0;0;0;0;0;0;1;0;0;1;8;1
+https://cdn.ssref.net/req/202308101/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;0;0;0;1;0;0;0;2;X;3;13;0
+
+Batting home
+Tim Anderson;/players/a/anderti01.shtml;SS;4;0;3;0;0;0;4;.264;.309;.319;.628;11;7;-0.012; 0.80;0.039;-0.051;-0.00%; 0.23; -0.0;1;2;
+Andrew Benintendi;/players/b/beninan01.shtml;LF;3;0;2;0;1;0;4;.264;.321;.326;.647;14;6;0.142; 1.01;0.158;-0.016; 0.02%; 0.29; 1.1;0;0;2B,SB
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;4;0;0;0;0;2;4;.242;.331;.412;.743;18;9;-0.269; 1.75;0.000;-0.269;-0.05%; 0.49; -2.3;2;0;GDP
+Yoán Moncada;/players/m/moncayo01.shtml;3B;4;1;3;0;0;0;4;.319;.333;.574;.908;13;9;0.199; 1.16;0.227;-0.028; 0.03%; 0.33; 1.4;2;2;2·2B
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;4;2;2;2;0;0;4;.268;.331;.537;.868;15;10;0.203; 1.34;0.277;-0.074; 0.03%; 0.38; 0.9;3;0;HR
+Gavin Sheets;/players/s/sheetga01.shtml;RF;4;0;1;0;0;0;4;.253;.330;.410;.739;20;11;-0.012; 0.95;0.049;-0.062;-0.00%; 0.27; -0.3;5;0;
+Jake Marisnick;/players/m/marisja01.shtml;RF;0;0;0;0;0;0;0;;;;;;;;;;;;;;0;0;
+Hanser Alberto;/players/a/alberha01.shtml;2B;4;0;1;0;0;2;4;.255;.300;.491;.791;10;9;-0.070; 0.96;0.018;-0.088;-0.01%; 0.27; -0.8;5;1;
+Seby Zavala;/players/z/zavalse01.shtml;C;4;0;1;1;0;0;4;.167;.206;.283;.490;15;11;-0.041; 1.27;0.073;-0.114;-0.01%; 0.36; -0.3;9;1;
+Carlos Pérez;/players/p/perezca03.shtml;DH;2;0;0;0;0;1;2;.250;.250;.250;.500;9;6;-0.041; 0.81;0.000;-0.041;-0.01%; 0.23; -0.4;;;
+Adam Haseley;/players/h/haselad01.shtml;PH-DH-DH;2;0;0;0;0;0;2;.267;.333;.333;.667;5;4;-0.046; 0.88;0.000;-0.046;-0.01%; 0.25; -0.5;;;
+Dylan Cease;/players/c/ceasedy01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Reynaldo López;/players/l/lopezre01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joe Kelly;/players/k/kellyjo05.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kendall Graveman;/players/g/graveke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Yoán Moncada 2 (6, 1 off Rafael Montero, 1 off Brandon Bielak); Andrew Benintendi (9, off Brandon Bielak).
+
+
+HR: Luis Robert Jr. (10, off Brandon Bielak, 4th inn, 0 on, 1 out to Deep LF).
+
+
+TB: Luis Robert Jr. 5; Yoán Moncada 5; Andrew Benintendi 3; Tim Anderson 3; Hanser Alberto; Seby Zavala; Gavin Sheets.
+
+
+GIDP: Andrew Vaughn (8).
+
+
+RBI: Luis Robert Jr. 2 (26); Seby Zavala (5).
+
+
+2-out RBI: Seby Zavala.
+
+
+Team LOB: 9.
+With RISP: 3 for 10.
+
+Batting away
+Mauricio Dubón;/players/d/dubonma01.shtml;2B;4;0;1;1;0;1;4;.292;.315;.365;.680;12;9;0.090; 1.75;0.179;-0.089; 0.06%; 1.79; 0.2;2;4;
+Alex Bregman;/players/b/bregmal01.shtml;3B;4;0;1;0;0;0;4;.203;.322;.324;.646;14;11;-0.102; 1.35;0.024;-0.126;-0.06%; 1.38; -0.6;0;0;
+Yordan Alvarez;/players/a/alvaryo01.shtml;DH;4;0;1;0;0;1;4;.281;.385;.562;.947;12;7;-0.099; 1.23;0.014;-0.113;-0.06%; 1.25; -0.7;;;
+Kyle Tucker;/players/t/tuckeky01.shtml;RF;4;0;1;0;0;1;4;.263;.354;.431;.785;16;12;-0.068; 1.03;0.019;-0.087;-0.04%; 1.06; -0.4;2;1;
+José Abreu;/players/a/abreujo02.shtml;1B;3;0;0;0;1;2;4;.213;.263;.253;.516;24;13;-0.041; 1.09;0.030;-0.071;-0.03%; 1.11; -0.1;11;0;
+Jeremy Peña;/players/p/penaje02.shtml;SS;4;0;3;0;0;0;4;.255;.303;.431;.734;18;11;0.067; 1.86;0.189;-0.122; 0.04%; 1.90; 0.1;2;4;CS
+Corey Julks;/players/j/julksco01.shtml;LF;4;1;0;0;0;3;4;.262;.280;.359;.640;21;13;-0.170; 1.73;0.000;-0.170;-0.10%; 1.77; -1.2;3;0;
+César Salazar;/players/s/salazce01.shtml;C;3;0;0;0;0;1;3;.200;.273;.200;.473;14;8;-0.105; 1.41;0.000;-0.105;-0.06%; 1.44; -0.7;4;1;
+Yainer Diaz;/players/d/diazya02.shtml;PH;1;0;0;0;0;0;1;.214;.250;.286;.536;3;1;-0.059; 2.12;0.000;-0.059;-0.04%; 2.17; -0.4;;;
+Jake Meyers;/players/m/meyerja02.shtml;CF;3;0;1;0;1;0;4;.243;.310;.359;.669;15;8;0.038; 1.06;0.087;-0.049; 0.02%; 1.09; 0.1;0;0;
+Brandon Bielak;/players/b/bielabr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Phil Maton;/players/m/matonph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryne Stanek;/players/s/stanery01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Rafael Montero;/players/m/montera01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+TB: Jeremy Peña 3; Alex Bregman; Yordan Alvarez; Kyle Tucker; Jake Meyers; Mauricio Dubón.
+
+
+RBI: Mauricio Dubón (8).
+
+
+2-out RBI: Mauricio Dubón.
+
+
+Team LOB: 8.
+With RISP: 1 for 6.
+
+Pitching home
+Dylan Cease;/players/c/ceasedy01.shtml;Dylan Cease; 6 ;4;0;0;2;5;0;4.86;23;97;58;30;13;15;3;13;3;0;67;;;0.367; 1.04; 0.06%; 0.29; 3.1
+Reynaldo López;/players/l/lopezre01.shtml; H (3); 0.2;2;1;1;0;1;0;8.27;4;17;11;6;1;4;1;2;1;0;;0;0;0.000; 2.11; 0.00%; 0.60; 0.0
+Joe Kelly;/players/k/kellyjo05.shtml; W (1-1); 1.1;1;0;0;0;2;0;3.86;5;21;17;9;3;5;3;0;0;0;;2;1;0.005; 2.13; 0.00%; 0.60; 0.0
+Kendall Graveman;/players/g/graveke01.shtml; S (2); 1 ;1;0;0;0;1;0;3.86;4;14;7;3;1;3;1;2;0;0;;0;0;0.076; 2.11; 0.01%; 0.60; 0.5
+
+Pitching away
+Brandon Bielak;/players/b/bielabr01.shtml;Brandon Bielak; 5 ;8;1;1;0;4;1;3.29;21;80;49;26;10;13;9;8;2;0;51;;;0.127; 1.03; 0.08%; 1.05; 1.6
+Phil Maton;/players/m/matonph01.shtml;Phil Maton; 1 ;2;0;0;0;0;0;0.95;5;20;16;15;0;1;2;3;2;0;;0;0;0.048; 1.12; 0.03%; 1.15; 0.5
+Ryne Stanek;/players/s/stanery01.shtml;Ryne Stanek; 1 ;0;0;0;1;1;0;5.11;4;16;8;4;1;3;2;0;0;0;;0;0;0.089; 1.52; 0.06%; 1.56; 0.5
+Rafael Montero;/players/m/montera01.shtml; L (0-3); 1 ;3;2;2;0;0;0;6.89;6;14;9;6;0;3;1;5;2;0;;0;0;-0.316; 1.07;-0.19%; 1.10; -1.5
+
+indiv_events
+
+Balks: None.
+WP: Kendall Graveman (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Kendall Graveman (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Bruce Dreckman, 1B - Stu Scheurwater, 2B - Malachi Moore, 3B - Mark Wegner, LF - (none), RF - (none).
+Time of Game: 2:37.
+Attendance: 23,242.
+Field Condition: Unknown.
+Start Time Weather: 59° F, Wind 11mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Astros
+1;Mauricio Dubón;/players/d/dubonma01.shtml;2B
+2;Alex Bregman;/players/b/bregmal01.shtml;3B
+3;Yordan Alvarez;/players/a/alvaryo01.shtml;DH
+4;Kyle Tucker;/players/t/tuckeky01.shtml;RF
+5;José Abreu;/players/a/abreujo02.shtml;1B
+6;Jeremy Peña;/players/p/penaje02.shtml;SS
+7;Corey Julks;/players/j/julksco01.shtml;LF
+8;César Salazar;/players/s/salazce01.shtml;C
+9;Jake Meyers;/players/m/meyerja02.shtml;CF
+; Brandon Bielak;/players/b/bielabr01.shtml;P
+White Sox
+1;Tim Anderson;/players/a/anderti01.shtml;SS
+2;Andrew Benintendi;/players/b/beninan01.shtml;LF
+3;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+4;Yoán Moncada;/players/m/moncayo01.shtml;3B
+5;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+6;Gavin Sheets;/players/s/sheetga01.shtml;RF
+7;Hanser Alberto;/players/a/alberha01.shtml;2B
+8;Seby Zavala;/players/z/zavalse01.shtml;C
+9;Carlos Pérez;/players/p/perezca03.shtml;DH
+; Dylan Cease;/players/c/ceasedy01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t7;0-1;2;1-3;4,(1-2) .CBC>X;R;HOU;Mauricio Dubón;Joe Kelly;-18%;51%;Single to P (Ground Ball to Weak 2B-1B); Julks Scores; Meyers to 2B
+b8;1-1;0;-2-;3,(1-1) CBX;R;CHW;Luis Robert Jr.;Rafael Montero;15%;89%;Single to RF (Line Drive to Short RF); Moncada Scores
+b8;1-1;0;---;3,(1-1) .BCX;;CHW;Yoán Moncada;Rafael Montero;13%;74%;Double to RF (Line Drive to RF Line)
+b4;0-0;1;---;3,(0-2) CSX;R;CHW;Luis Robert Jr.;Brandon Bielak;13%;66%;Home Run (Fly Ball to Deep LF)
+b3;0-0;1;1-3;3,(1-1) BCX;OO;CHW;Andrew Vaughn;Brandon Bielak;-13%;50%;Ground Ball Double Play: P-2B-1B (Front of Home)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Astros Batting, Tied 0-0, White Sox' Dylan Cease facing 1-2-3 
+t1;0-0;0;---;5,(2-2) SSBBS;O;HOU;Mauricio Dubón;Dylan Cease;2%;52%;Strikeout Swinging
+t1;0-0;1;---;2,(1-0) BX;;HOU;Alex Bregman;Dylan Cease;-2%;50%;Single to CF (Line Drive to CF-RF)
+t1;0-0;1;1--;1,(0-0) X;O;HOU;Yordan Alvarez;Dylan Cease;3%;53%;Popfly: SS (Short CF-RF)
+t1;0-0;2;1--;5,(2-2) CFB1*BX;;HOU;Kyle Tucker;Dylan Cease;-2%;51%;Single to 2B (Ground Ball); Bregman to 2B
+t1;0-0;2;12-;8,(3-2) SS.B*BFFB>B;;HOU;José Abreu;Dylan Cease;-3%;48%;Walk; Bregman to 3B; Tucker to 2B
+t1;0-0;2;123;5,(2-2) BCC.*BX;O;HOU;Jeremy Peña;Dylan Cease;7%;55%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Peña to 1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Astros 0, White Sox 0.
+Bottom of the 1st, White Sox Batting, Tied 0-0, Astros' Brandon Bielak facing 1-2-3 
+b1;0-0;0;---;3,(1-1) SBX;O;CHW;Tim Anderson;Brandon Bielak;-2%;53%;Single to RF (Fly Ball to Deep RF); Anderson out at 2B/RF-SS
+b1;0-0;1;---;5,(2-2) CCBBX;O;CHW;Andrew Benintendi;Brandon Bielak;-2%;51%;Popfly: 2B (Deep 2B)
+b1;0-0;2;---;6,(3-2) CBBBC.*S;O;CHW;Andrew Vaughn;Brandon Bielak;-1%;50%;Strikeout Swinging; Vaughn out at 1B/C-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Astros 0, White Sox 0.
+Top of the 2nd, Astros Batting, Tied 0-0, White Sox' Dylan Cease facing 7-8-9 
+t2;0-0;0;---;4,(1-2) CFBC;O;HOU;Corey Julks;Dylan Cease;2%;52%;Strikeout Looking
+t2;0-0;1;---;5,(2-2) BFBFX;O;HOU;César Salazar;Dylan Cease;2%;54%;Flyball: RF (Deep RF)
+t2;0-0;2;---;3,(1-1) CBX;O;HOU;Jake Meyers;Dylan Cease;1%;55%;Lineout: 3B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 0, White Sox 0.
+Bottom of the 2nd, White Sox Batting, Tied 0-0, Astros' Brandon Bielak facing 4-5-6 
+b2;0-0;0;---;6,(3-2) CBSBBX;;CHW;Yoán Moncada;Brandon Bielak;6%;61%;Double to RF (Fly Ball to Deep CF-RF)
+b2;0-0;0;-2-;6,(3-2) CB*BBCX;O;CHW;Luis Robert Jr.;Brandon Bielak;-4%;57%;Groundout: SS-1B
+b2;0-0;1;-2-;6,(3-2) SB*BBFX;;CHW;Gavin Sheets;Brandon Bielak;5%;62%;Single to CF (Line Drive); Moncada to 3B
+b2;0-0;1;1-3;3,(0-2) C*S.*S;O;CHW;Hanser Alberto;Brandon Bielak;-7%;55%;Strikeout Swinging
+b2;0-0;2;1-3;1,(0-0) X;O;CHW;Seby Zavala;Brandon Bielak;-5%;50%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Astros 0, White Sox 0.
+Top of the 3rd, Astros Batting, Tied 0-0, White Sox' Dylan Cease facing 1-2-3 
+t3;0-0;0;---;2,(0-1) FX;O;HOU;Mauricio Dubón;Dylan Cease;3%;53%;Foul Popfly: RF (Short RF into Foul Terr.)
+t3;0-0;1;---;5,(2-2) CBFBX;O;HOU;Alex Bregman;Dylan Cease;2%;54%;Flyball: RF (Deep RF)
+t3;0-0;2;---;4,(2-1) BBCX;;HOU;Yordan Alvarez;Dylan Cease;-1%;53%;Single to CF (Line Drive)
+t3;0-0;2;1--;4,(1-2) CFBX;O;HOU;Kyle Tucker;Dylan Cease;3%;56%;Popfly: 3B (Deep SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 0, White Sox 0.
+Bottom of the 3rd, White Sox Batting, Tied 0-0, Astros' Brandon Bielak facing 9-1-2 
+b3;0-0;0;---;6,(2-2) BBFS.FS;O;CHW;Carlos Pérez;Brandon Bielak;-3%;53%;Strikeout Swinging
+b3;0-0;1;---;5,(2-2) CBBFX;;CHW;Tim Anderson;Brandon Bielak;3%;56%;Single to 3B (Ground Ball)
+b3;0-0;1;1--;3,(2-0) 1*BBX;;CHW;Andrew Benintendi;Brandon Bielak;7%;63%;Single to RF (Ground Ball); Anderson to 3B
+b3;0-0;1;1-3;3,(1-1) BCX;OO;CHW;Andrew Vaughn;Brandon Bielak;-13%;50%;Ground Ball Double Play: P-2B-1B (Front of Home)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Astros 0, White Sox 0.
+Top of the 4th, Astros Batting, Tied 0-0, White Sox' Dylan Cease facing 5-6-7 
+t4;0-0;0;---;6,(2-2) SBS.FBS;O;HOU;José Abreu;Dylan Cease;3%;53%;Strikeout Swinging
+t4;0-0;1;---;8,(3-2) CF.BFBBFX;;HOU;Jeremy Peña;Dylan Cease;-3%;50%;Single to LF (Ground Ball)
+t4;0-0;1;1--;3,(0-2) CF>B;O;HOU;Corey Julks;Dylan Cease;5%;55%;Peña Caught Stealing 2B (C-2B)
+t4;0-0;2;---;5,(2-2) CF>B.BS;O;HOU;Corey Julks;Dylan Cease;1%;56%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Astros 0, White Sox 0.
+Bottom of the 4th, White Sox Batting, Tied 0-0, Astros' Brandon Bielak facing 4-5-6 
+b4;0-0;0;---;1,(0-0) X;O;CHW;Yoán Moncada;Brandon Bielak;-3%;53%;Groundout: 2B-1B
+b4;0-0;1;---;3,(0-2) CSX;R;CHW;Luis Robert Jr.;Brandon Bielak;13%;66%;Home Run (Fly Ball to Deep LF)
+b4;1-0;1;---;7,(3-2) CBBFFBX;O;CHW;Gavin Sheets;Brandon Bielak;-2%;65%;Flyball: LF (Short LF-CF)
+b4;1-0;2;---;4,(1-2) BFFS;O;CHW;Hanser Alberto;Brandon Bielak;-1%;64%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Astros 0, White Sox 1.
+Top of the 5th, Astros Batting, Behind 0-1, White Sox' Dylan Cease facing 8-9-1 
+t5;0-1;0;---;4,(2-1) CBBX;O;HOU;César Salazar;Dylan Cease;3%;67%;Flyball: RF (RF Line)
+t5;0-1;1;---;6,(3-2) BBSS.BB;;HOU;Jake Meyers;Dylan Cease;-4%;63%;Walk
+t5;0-1;1;1--;1,(0-0) X;O;HOU;Mauricio Dubón;Dylan Cease;4%;68%;Flyball: CF
+t5;0-1;2;1--;2,(0-1) CX;O;HOU;Alex Bregman;Dylan Cease;3%;71%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Astros 0, White Sox 1.
+Bottom of the 5th, White Sox Batting, Ahead 1-0, Astros' Brandon Bielak facing 8-9-1 
+b5;1-0;0;---;3,(1-1) CBX;O;CHW;Seby Zavala;Brandon Bielak;-2%;69%;Groundout: SS-1B (SS-2B)
+b5;1-0;1;---;3,(1-1) BFX;O;CHW;Carlos Pérez;Brandon Bielak;-2%;67%;Groundout: SS-1B (SS-3B Hole)
+b5;1-0;2;---;1,(0-0) X;;CHW;Tim Anderson;Brandon Bielak;1%;68%;Single to RF (Ground Ball thru 2B-1B)
+b5;1-0;2;1--;1,(0-0) X;;CHW;Andrew Benintendi;Brandon Bielak;3%;72%;Double to LF (Line Drive to LF Line); Anderson to 3B
+b5;1-0;2;-23;4,(3-0) BBBX;O;CHW;Andrew Vaughn;Brandon Bielak;-6%;66%;Groundout: SS-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Astros 0, White Sox 1.
+Top of the 6th, Astros Batting, Behind 0-1, White Sox' Dylan Cease facing 3-4-5 
+t6;0-1;0;---;6,(3-2) BBSBCC;O;HOU;Yordan Alvarez;Dylan Cease;4%;70%;Strikeout Looking
+t6;0-1;1;---;3,(1-1) SBX;O;HOU;Kyle Tucker;Dylan Cease;3%;72%;Popfly: 2B (2B-1B)
+t6;0-1;2;---;3,(2-0) BBX;O;HOU;José Abreu;Dylan Cease;2%;74%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 0, White Sox 1.
+Bottom of the 6th, White Sox Batting, Ahead 1-0, Astros' Phil Maton facing 4-5-6 
+;;;;;;;;;Phil Maton replaces Brandon Bielak pitching
+b6;1-0;0;---;3,(0-2) .CFX;;CHW;Yoán Moncada;Phil Maton;3%;77%;Single to LF (Ground Ball thru SS-3B Hole)
+b6;1-0;0;1--;3,(1-1) BFX;O;CHW;Luis Robert Jr.;Phil Maton;-3%;74%;Flyball: RF (Deep RF Line)
+b6;1-0;1;1--;2,(0-1) FX;O;CHW;Gavin Sheets;Phil Maton;-3%;72%;Groundout: SS unassisted/Forceout at 2B (Weak SS-2B); Sheets to 1B
+b6;1-0;2;1--;2,(0-1) TX;;CHW;Hanser Alberto;Phil Maton;2%;73%;Single to CF (Line Drive); Sheets to 2B
+b6;1-0;2;12-;10,(3-2) FBFFFBB>F>F.>X;O;CHW;Seby Zavala;Phil Maton;-4%;69%;Lineout: 1B (2B-1B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Astros 0, White Sox 1.
+Top of the 7th, Astros Batting, Behind 0-1, White Sox' Reynaldo López facing 6-7-8 
+;;;;;;;;;Reynaldo López replaces Dylan Cease pitching
+t7;0-1;0;---;4,(2-1) ..CBBX;;HOU;Jeremy Peña;Reynaldo López;-7%;62%;Single to LF (Line Drive to Deep LF-CF)
+t7;0-1;0;1--;6,(2-2) BFBCFX;O;HOU;Corey Julks;Reynaldo López;7%;69%;Groundout: SS-2B/Forceout at 2B (SS-2B); Julks to 1B
+;;;;;;;;;Force Play Challenged by CHW manager (Pedro Grifol): Original call upheld upon review.
+t7;0-1;1;1--;5,(2-2) CBFBS;O;HOU;César Salazar;Reynaldo López;6%;74%;Strikeout Swinging
+t7;0-1;2;1--;2,(0-1) CX;;HOU;Jake Meyers;Reynaldo López;-5%;69%;Single to RF (Fly Ball to Short CF-RF); Julks to 3B
+;;;;;;;;;Joe Kelly replaces Reynaldo López pitching
+t7;0-1;2;1-3;4,(1-2) .CBC>X;R;HOU;Mauricio Dubón;Joe Kelly;-18%;51%;Single to P (Ground Ball to Weak 2B-1B); Julks Scores; Meyers to 2B
+t7;1-1;2;12-;5,(0-2) FSFFX;O;HOU;Alex Bregman;Joe Kelly;8%;59%;Groundout: 3B-2B/Forceout at 2B (Weak SS); Bregman to 1B
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Astros 1, White Sox 1.
+Bottom of the 7th, White Sox Batting, Tied 1-1, Astros' Ryne Stanek facing 9-1-2 
+;;;;;;;;;Ryne Stanek replaces Phil Maton pitchingAdam Haseley pinch hits for Carlos Pérez (DH) batting 9th
+b7;1-1;0;---;4,(1-2) ..BSCX;O;CHW;Adam Haseley;Ryne Stanek;-4%;55%;Groundout: 1B unassisted
+b7;1-1;1;---;2,(1-0) BX;O;CHW;Tim Anderson;Ryne Stanek;-3%;52%;Groundout: 2B-1B
+b7;1-1;2;---;5,(3-1) BBCBB;;CHW;Andrew Benintendi;Ryne Stanek;2%;54%;Walk
+b7;1-1;2;1--;4,(1-2) CF1B>*B;;CHW;Andrew Vaughn;Ryne Stanek;3%;57%;Benintendi Steals 2B; Benintendi to 3B/Adv on E2 (throw)
+b7;1-1;2;--3;5,(2-2) CF1B>*B.T;O;CHW;Andrew Vaughn;Ryne Stanek;-7%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Astros 1, White Sox 1.
+Top of the 8th, Astros Batting, Tied 1-1, White Sox' Joe Kelly facing 3-4-5 
+t8;1-1;0;---;1,(0-0) .X;O;HOU;Yordan Alvarez;Joe Kelly;5%;55%;Groundout: 2B-1B (2B-1B)
+t8;1-1;1;---;4,(0-2) SCFC;O;HOU;Kyle Tucker;Joe Kelly;4%;58%;Strikeout Looking
+t8;1-1;2;---;7,(3-2) BBCF.FBS;O;HOU;José Abreu;Joe Kelly;3%;61%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 1, White Sox 1.
+Bottom of the 8th, White Sox Batting, Tied 1-1, Astros' Rafael Montero facing 4-5-6 
+;;;;;;;;;Rafael Montero replaces Ryne Stanek pitching
+b8;1-1;0;---;3,(1-1) .BCX;;CHW;Yoán Moncada;Rafael Montero;13%;74%;Double to RF (Line Drive to RF Line)
+b8;1-1;0;-2-;3,(1-1) CBX;R;CHW;Luis Robert Jr.;Rafael Montero;15%;89%;Single to RF (Line Drive to Short RF); Moncada Scores
+b8;2-1;0;1--;5,(3-1) BBBCX;O;CHW;Gavin Sheets;Rafael Montero;-2%;87%;Flyball: LF (Short LF)
+b8;2-1;1;1--;1,(0-0) X;O;CHW;Hanser Alberto;Rafael Montero;-1%;86%;Groundout: 2B-1B; Robert to 2B
+b8;2-1;2;-2-;1,(0-0) X;R;CHW;Seby Zavala;Rafael Montero;7%;93%;Single to RF (Fly Ball to Short CF-RF); Robert Scores
+b8;3-1;2;1--;1,(0-0) X;O;CHW;Adam Haseley;Rafael Montero;-1%;92%;Flyball: LF (Short LF Line)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Astros 1, White Sox 3.
+Top of the 9th, Astros Batting, Behind 1-3, White Sox' Kendall Graveman facing 6-7-8 
+;;;;;;;;;Kendall Graveman replaces Joe Kelly pitchingJake Marisnick replaces Gavin Sheets playing RF batting 6th
+t9;1-3;0;---;1,(0-0) ..X;;HOU;Jeremy Peña;Kendall Graveman;-8%;85%;Single to 1B (Pop Fly to Deep 1B)
+t9;1-3;0;1--;2,(1-0) BB;;HOU;Corey Julks;Kendall Graveman;-1%;84%;Wild Pitch; Peña to 2B
+t9;1-3;0;-2-;6,(3-2) BB.CCBS;O;HOU;Corey Julks;Kendall Graveman;7%;90%;Strikeout Swinging
+;;;;;;;;;Yainer Diaz pinch hits for César Salazar (C) batting 8th
+t9;1-3;1;-2-;3,(2-0) .BBX;O;HOU;Yainer Diaz;Kendall Graveman;6%;96%;Groundout: SS-1B
+t9;1-3;2;-2-;4,(2-1) C*BBX;O;HOU;Jake Meyers;Kendall Graveman;4%;100%;Flyball: CF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 1, White Sox 3.

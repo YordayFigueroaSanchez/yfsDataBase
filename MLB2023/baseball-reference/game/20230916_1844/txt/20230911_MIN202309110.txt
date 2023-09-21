@@ -1,0 +1,287 @@
+
+Scorebox Meta
+20230911
+6:40 p.m. Local
+18683
+Target Field
+191
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/TBR-2023.png;/teams/TBR/2023.shtml;1;0;1;0;3;2;0;0;0;7;13;0
+https://cdn.ssref.net/req/202309121/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;0;0;0;1;0;3;0;0;0;4;6;1
+
+Batting home
+Edouard Julien;/players/j/julieed01.shtml;2B;2;1;1;0;1;1;3;.272;.381;.448;.829;13;7;0.035; 0.88;0.058;-0.024; 0.00%; 0.16; 0.5;0;4;
+Jordan Luplow;/players/l/luplojo01.shtml;PH-LF;0;0;0;0;1;0;1;.242;.347;.387;.734;7;3;0.051; 1.09;0.051;0.000; 0.01%; 0.19; 0.4;0;0;
+Alex Kirilloff;/players/k/kirilal01.shtml;1B;3;1;1;0;0;1;3;.266;.352;.430;.782;8;7;-0.094; 1.20;0.027;-0.121;-0.01%; 0.21; -0.5;8;2;
+Kyle Farmer;/players/f/farmeky01.shtml;PH-1B;1;0;0;0;0;1;1;.257;.315;.412;.727;10;7;-0.047; 2.01;0.000;-0.047;-0.01%; 0.36; -0.4;1;0;
+Royce Lewis;/players/l/lewisro02.shtml;3B;4;1;1;3;0;2;4;.312;.363;.540;.902;20;12;0.015; 1.00;0.090;-0.075; 0.00%; 0.17; 1.3;0;1;HR
+Max Kepler;/players/k/keplema01.shtml;RF;3;1;2;1;1;1;4;.251;.319;.480;.800;24;14;0.195; 1.03;0.218;-0.023; 0.02%; 0.18; 1.7;1;0;HR
+Carlos Correa;/players/c/correca01.shtml;SS;4;0;0;0;0;2;4;.228;.310;.401;.710;14;9;-0.128; 1.33;0.000;-0.128;-0.01%; 0.23; -1.1;4;3;
+Willi Castro;/players/c/castrwi01.shtml;LF-2B;4;0;0;0;0;2;4;.254;.332;.396;.728;13;11;-0.120; 0.95;0.000;-0.120;-0.01%; 0.17; -1.1;2;1;GDP
+Donovan Solano;/players/s/solando01.shtml;DH;3;0;0;0;0;1;4;.290;.376;.409;.785;19;12;-0.076; 0.84;0.013;-0.089;-0.01%; 0.15; -0.6;;;HBP
+Ryan Jeffers;/players/j/jeffery01.shtml;C;4;0;1;0;0;1;4;.269;.368;.457;.826;17;12;-0.005; 0.72;0.043;-0.049;-0.00%; 0.13; -0.3;8;0;
+Andrew Stevenson;/players/s/stevean01.shtml;CF;3;0;0;0;0;1;3;.190;.227;.190;.418;8;6;-0.058; 0.81;0.000;-0.058;-0.01%; 0.14; -0.6;2;0;
+Sonny Gray;/players/g/grayso01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Dylan Floro;/players/f/florody01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brent Headrick;/players/h/headrbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Josh Winder;/players/w/windejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+HR: Max Kepler (22, off Tyler Glasnow, 4th inn, 0 on, 1 out to Deep RF); Royce Lewis (12, off Tyler Glasnow, 6th inn, 2 on, 0 outs to Deep LF).
+
+
+HBP: Donovan Solano (11, by Pete Fairbanks).
+
+
+TB: Max Kepler 5; Royce Lewis 4; Edouard Julien; Ryan Jeffers; Alex Kirilloff.
+
+
+GIDP: Willi Castro (4).
+
+
+RBI: Royce Lewis 3 (44); Max Kepler (57).
+
+
+Team LOB: 4.
+With RISP: 1 for 4.
+
+Batting away
+Yandy Díaz;/players/d/diazya01.shtml;1B;6;2;4;1;0;0;6;.324;.404;.513;.916;20;13;0.127; 0.65;0.140;-0.014; 0.06%; 0.47; 1.6;3;0;HR,2B
+Brandon Lowe;/players/l/lowebr01.shtml;2B;5;1;1;0;0;2;5;.233;.330;.440;.770;22;15;-0.147; 0.96;0.006;-0.153;-0.06%; 0.69; -1.5;3;1;GDP
+Randy Arozarena;/players/a/arozara01.shtml;LF;4;1;2;0;1;1;5;.256;.369;.422;.791;23;14;0.089; 0.72;0.125;-0.038; 0.04%; 0.52; 1.4;2;0;
+Josh Lowe;/players/l/lowejo01.shtml;RF-CF;5;1;3;1;0;0;5;.287;.327;.494;.821;19;10;0.080; 0.75;0.099;-0.019; 0.03%; 0.55; 0.7;3;0;SB
+Jose Siri;/players/s/sirijo01.shtml;CF;2;1;1;1;0;0;3;.222;.267;.494;.761;10;6;0.002; 1.46;0.091;-0.089; 0.00%; 1.06; -0.2;1;0;HBP
+Vidal Bruján;/players/b/brujavi01.shtml;RF;2;0;0;1;0;0;2;.178;.250;.205;.455;6;4;-0.006; 0.37;0.006;-0.012;-0.00%; 0.27; -0.3;1;0;
+Luke Raley;/players/r/raleylu01.shtml;DH;3;0;1;0;0;1;5;.251;.337;.490;.827;22;11;0.007; 0.92;0.057;-0.050; 0.00%; 0.67; 0.4;;;2B,2·HBP
+Taylor Walls;/players/w/wallsta01.shtml;SS;4;1;1;3;1;2;5;.212;.318;.360;.678;24;17;0.166; 1.06;0.255;-0.090; 0.07%; 0.77; 1.3;2;2;HR
+Jonathan Aranda;/players/a/arandjo01.shtml;3B;2;0;0;0;3;0;5;.224;.381;.367;.748;29;13;0.015; 0.44;0.042;-0.028; 0.01%; 0.32; 0.4;0;1;
+René Pinto;/players/p/pintore02.shtml;C;5;0;0;0;0;2;5;.258;.279;.470;.749;23;16;-0.066; 0.54;0.000;-0.066;-0.03%; 0.40; -1.4;12;1;
+Tyler Glasnow;/players/g/glasnty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kevin Kelly;/players/k/kellyke02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jake Diekman;/players/d/diekmja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Pete Fairbanks;/players/f/fairbpe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Yandy Díaz (30, off Sonny Gray); Luke Raley (23, off Brent Headrick).
+
+
+HR: Taylor Walls (8, off Dylan Floro, 5th inn, 2 on, 2 outs to Deep RF); Yandy Díaz (20, off Brent Headrick, 6th inn, 0 on, 0 outs to Deep RF).
+
+
+HBP: Luke Raley 2 (18, 2 by Sonny Gray); Jose Siri (2, by Dylan Floro).
+
+
+TB: Yandy Díaz 8; Taylor Walls 4; Josh Lowe 3; Luke Raley 2; Randy Arozarena 2; Brandon Lowe; Jose Siri.
+
+
+GIDP: Brandon Lowe (7).
+
+
+RBI: Taylor Walls 3 (32); Yandy Díaz (71); Vidal Bruján (6); Jose Siri (56); Josh Lowe (74).
+
+
+2-out RBI: Taylor Walls 3.
+
+
+Team LOB: 12.
+With RISP: 4 for 15.
+
+Pitching home
+Sonny Gray;/players/g/grayso01.shtml; L (7-7); 4 ;6;2;1;1;5;0;2.96;20;89;55;32;10;13;7;5;2;0;48;;;-0.024; 1.20;-0.00%; 0.21; 0.1
+Dylan Floro;/players/f/florody01.shtml;Dylan Floro; 1 ;2;3;3;1;2;1;5.06;7;24;14;6;1;7;2;1;0;0;;0;0;-0.239; 1.02;-0.03%; 0.18; -2.5
+Brent Headrick;/players/h/headrbr01.shtml;Brent Headrick; 2.1;4;2;2;0;1;1;6.57;11;47;31;20;4;7;5;5;2;0;;0;0;-0.021; 0.24;-0.00%; 0.04; -0.7
+Josh Winder;/players/w/windejo01.shtml;Josh Winder; 1.2;1;0;0;3;0;0;4.18;8;38;19;11;3;5;3;2;0;0;;0;0;0.018; 0.24; 0.00%; 0.04; 0.8
+
+Pitching away
+Tyler Glasnow;/players/g/glasnty01.shtml; W (9-5); 6 ;6;4;4;2;8;2;3.15;24;93;60;31;12;17;5;9;2;0;50;;;0.079; 1.06; 0.03%; 0.77; -0.9
+Kevin Kelly;/players/k/kellyke02.shtml; H (11); 1 ;0;0;0;0;2;0;3.22;3;13;10;3;2;5;0;1;1;0;;0;0;0.057; 0.74; 0.03%; 0.54; 0.5
+Jake Diekman;/players/d/diekmja01.shtml; H (8); 1 ;0;0;0;1;2;0;3.73;4;30;18;9;4;5;1;0;0;0;;0;0;0.054; 1.32; 0.02%; 0.96; 0.5
+Pete Fairbanks;/players/f/fairbpe01.shtml; S (23); 1 ;0;0;0;0;1;0;2.23;4;17;12;7;3;2;0;2;1;0;;0;0;0.043; 0.58; 0.02%; 0.43; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Tyler Glasnow (9); Sonny Gray 2 (6).
+HBP: Sonny Gray 2 (6; Luke Raley, Luke Raley); Pete Fairbanks (3; Donovan Solano); Dylan Floro (3; Jose Siri).
+IBB: None.
+Pickoffs: Josh Winder (1; Randy Arozarena, 1st base); Sonny Gray (3; Jose Siri, 2nd base).
+
+Balks: None.
+WP: Tyler Glasnow (9); Sonny Gray 2 (6).
+HBP: Sonny Gray 2 (6; Luke Raley, Luke Raley); Pete Fairbanks (3; Donovan Solano); Dylan Floro (3; Jose Siri).
+IBB: None.
+Pickoffs: Josh Winder (1; Randy Arozarena, 1st base); Sonny Gray (3; Jose Siri, 2nd base).
+
+section_content
+Umpires: HP - Dan Iassogna, 1B - Brian Walsh, 2B - Gabe Morales, 3B - Chris Guccione, LF - (none), RF - (none).
+Time of Game: 3:11.
+Attendance: 18,683.
+Field Condition: Unknown.
+Start Time Weather: 72° F, Wind 6mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Rays
+1;Yandy Díaz;/players/d/diazya01.shtml;1B
+2;Brandon Lowe;/players/l/lowebr01.shtml;2B
+3;Randy Arozarena;/players/a/arozara01.shtml;LF
+4;Josh Lowe;/players/l/lowejo01.shtml;RF
+5;Jose Siri;/players/s/sirijo01.shtml;CF
+6;Luke Raley;/players/r/raleylu01.shtml;DH
+7;Taylor Walls;/players/w/wallsta01.shtml;SS
+8;Jonathan Aranda;/players/a/arandjo01.shtml;3B
+9;René Pinto;/players/p/pintore02.shtml;C
+; Tyler Glasnow;/players/g/glasnty01.shtml;P
+Twins
+1;Edouard Julien;/players/j/julieed01.shtml;2B
+2;Alex Kirilloff;/players/k/kirilal01.shtml;1B
+3;Royce Lewis;/players/l/lewisro02.shtml;3B
+4;Max Kepler;/players/k/keplema01.shtml;RF
+5;Carlos Correa;/players/c/correca01.shtml;SS
+6;Willi Castro;/players/c/castrwi01.shtml;LF
+7;Donovan Solano;/players/s/solando01.shtml;DH
+8;Ryan Jeffers;/players/j/jeffery01.shtml;C
+9;Andrew Stevenson;/players/s/stevean01.shtml;CF
+; Sonny Gray;/players/g/grayso01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t5;2-1;2;12-;3,(0-2) CCX;RRR;TBR;Taylor Walls;Dylan Floro;25%;88%;Home Run (Fly Ball to Deep RF); Lowe Scores; Siri Scores
+b4;0-2;1;---;1,(0-0) X;R;MIN;Max Kepler;Tyler Glasnow;-12%;60%;Home Run (Fly Ball to Deep RF)
+b3;0-2;1;12-;3,(1-1) BCX;OO;MIN;Alex Kirilloff;Tyler Glasnow;10%;73%;Double Play: Popfly: SS (Deep SS-3B Hole); Jeffers out at 2B/SS-2B
+b6;1-7;0;12-;4,(2-1) C*BBX;RRR;MIN;Royce Lewis;Tyler Glasnow;-9%;84%;Home Run (Line Drive to Deep LF); Julien Scores; Kirilloff Scores
+t2;1-0;1;12-;2,(1-0) BX;OO;TBR;Brandon Lowe;Sonny Gray;-8%;56%;Ground Ball Double Play: 2B-SS-1B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Rays Batting, Tied 0-0, Twins' Sonny Gray facing 1-2-3 
+t1;0-0;0;---;5,(2-2) CSBBX;;TBR;Yandy Díaz;Sonny Gray;4%;54%;Single to RF (Fly Ball to Short RF)
+t1;0-0;0;1--;6,(1-2) CS.F*B1FC;O;TBR;Brandon Lowe;Sonny Gray;-3%;50%;Strikeout Looking
+t1;0-0;1;1--;4,(2-1) BBSC;;TBR;Randy Arozarena;Sonny Gray;2%;52%;Passed Ball; Díaz to 2B
+t1;0-0;1;-2-;7,(3-2) BBSC.BFX;;TBR;Randy Arozarena;Sonny Gray;5%;56%;Single to LF (Line Drive); Díaz to 3B
+t1;0-0;1;1-3;2,(1-0) BX;R;TBR;Josh Lowe;Sonny Gray;7%;63%;Single to CF (Ground Ball thru SS-2B); Díaz Scores; Arozarena to 2B
+t1;1-0;1;12-;4,(1-2) *BS*SX;O;TBR;Jose Siri;Sonny Gray;-4%;59%;Flyball: LF (Deep LF-CF)
+t1;1-0;2;12-;6,(3-2) FBBBSH;;TBR;Luke Raley;Sonny Gray;3%;62%;Hit By Pitch; Arozarena to 3B; Lowe to 2B
+t1;1-0;2;123;3,(0-2) FSC;O;TBR;Taylor Walls;Sonny Gray;-6%;55%;Strikeout Looking
+;;;;;;;;;1 run, 3 hits, 0 errors, 3 LOB. Rays 1, Twins 0.
+Bottom of the 1st, Twins Batting, Behind 0-1, Rays' Tyler Glasnow facing 1-2-3 
+b1;0-1;0;---;3,(0-2) CSC;O;MIN;Edouard Julien;Tyler Glasnow;2%;58%;Strikeout Looking
+b1;0-1;1;---;3,(0-2) FSS;O;MIN;Alex Kirilloff;Tyler Glasnow;2%;59%;Strikeout Swinging
+b1;0-1;2;---;4,(1-2) FTB*S;O;MIN;Royce Lewis;Tyler Glasnow;1%;60%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 1, Twins 0.
+Top of the 2nd, Rays Batting, Ahead 1-0, Twins' Sonny Gray facing 8-9-1 
+t2;1-0;0;---;7,(3-2) BBBCF.FB;;TBR;Jonathan Aranda;Sonny Gray;3%;64%;Walk
+t2;1-0;0;1--;3,(0-2) CC.S;O;TBR;René Pinto;Sonny Gray;-3%;60%;Strikeout Swinging
+t2;1-0;1;1--;2,(1-0) BX;;TBR;Yandy Díaz;Sonny Gray;3%;64%;Single to CF (Ground Ball thru SS-2B); Aranda to 2B
+t2;1-0;1;12-;2,(1-0) BX;OO;TBR;Brandon Lowe;Sonny Gray;-8%;56%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rays 1, Twins 0.
+Bottom of the 2nd, Twins Batting, Behind 0-1, Rays' Tyler Glasnow facing 4-5-6 
+b2;0-1;0;---;7,(3-2) CF.FBBBB;;MIN;Max Kepler;Tyler Glasnow;-4%;52%;Walk
+b2;0-1;0;1--;5,(2-2) FFB*BS;O;MIN;Carlos Correa;Tyler Glasnow;4%;55%;Strikeout Swinging
+b2;0-1;1;1--;4,(1-2) C*SBS;O;MIN;Willi Castro;Tyler Glasnow;2%;58%;Strikeout Swinging, Passed Ball; Kepler to 2B
+b2;0-1;2;-2-;2,(0-1) SB;;MIN;Donovan Solano;Tyler Glasnow;0%;57%;Wild Pitch; Kepler to 3B
+b2;0-1;2;--3;7,(3-2) SB.S*BFBX;O;MIN;Donovan Solano;Tyler Glasnow;4%;61%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rays 1, Twins 0.
+Top of the 3rd, Rays Batting, Ahead 1-0, Twins' Sonny Gray facing 3-4-5 
+t3;1-0;0;---;1,(0-0) X;;TBR;Randy Arozarena;Sonny Gray;3%;65%;Reached on E6 (Ground Ball); Arozarena to 1B
+t3;1-0;0;1--;6,(3-2) BBBC1F>X;O;TBR;Josh Lowe;Sonny Gray;-2%;63%;Groundout: 2B-1B (2B-1B); Arozarena to 2B
+t3;1-0;1;-2-;1,(0-0) B;;TBR;Jose Siri;Sonny Gray;3%;66%;Wild Pitch; Arozarena to 3B
+t3;1-0;1;--3;4,(2-1) B.BFX;R;TBR;Jose Siri;Sonny Gray;5%;71%;Single to LF (Ground Ball); Arozarena Scores/unER
+t3;2-0;1;1--;1,(0-0) H;;TBR;Luke Raley;Sonny Gray;3%;74%;Hit By Pitch; Siri to 2B
+t3;2-0;1;12-;2,(1-1) BC2;O;TBR;Taylor Walls;Sonny Gray;-5%;69%;Siri Picked off 2B (P-SS)
+t3;2-0;2;1--;9,(3-2) BC2.BFFFFB>S;O;TBR;Taylor Walls;Sonny Gray;-2%;67%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 1 error, 1 LOB. Rays 2, Twins 0.
+Bottom of the 3rd, Twins Batting, Behind 0-2, Rays' Tyler Glasnow facing 8-9-1 
+b3;0-2;0;---;1,(0-0) X;;MIN;Ryan Jeffers;Tyler Glasnow;-4%;63%;Single to CF (Ground Ball)
+b3;0-2;0;1--;3,(1-1) F*BX;O;MIN;Andrew Stevenson;Tyler Glasnow;4%;67%;Flyball: CF (Deep CF)
+b3;0-2;1;1--;6,(3-2) BBBCC.B;;MIN;Edouard Julien;Tyler Glasnow;-4%;62%;Walk; Jeffers to 2B
+b3;0-2;1;12-;3,(1-1) BCX;OO;MIN;Alex Kirilloff;Tyler Glasnow;10%;73%;Double Play: Popfly: SS (Deep SS-3B Hole); Jeffers out at 2B/SS-2B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rays 2, Twins 0.
+Top of the 4th, Rays Batting, Ahead 2-0, Twins' Sonny Gray facing 8-9-1 
+t4;2-0;0;---;8,(2-2) CF.FBFFBX;O;TBR;Jonathan Aranda;Sonny Gray;-2%;71%;Groundout: 1B-P
+t4;2-0;1;---;5,(2-2) BFBFX;O;TBR;René Pinto;Sonny Gray;-1%;70%;Flyball: RF (Deep RF)
+t4;2-0;2;---;3,(1-1) CBX;;TBR;Yandy Díaz;Sonny Gray;2%;72%;Double to CF (Line Drive to Deep LF-CF)
+t4;2-0;2;-2-;4,(1-2) TB*SB;;TBR;Brandon Lowe;Sonny Gray;0%;72%;Wild Pitch; Díaz to 3B
+t4;2-0;2;--3;5,(2-2) TB*SB.C;O;TBR;Brandon Lowe;Sonny Gray;-3%;69%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rays 2, Twins 0.
+Bottom of the 4th, Twins Batting, Behind 0-2, Rays' Tyler Glasnow facing 3-4-5 
+b4;0-2;0;---;7,(3-2) BBCS.FBC;O;MIN;Royce Lewis;Tyler Glasnow;3%;72%;Strikeout Looking
+b4;0-2;1;---;1,(0-0) X;R;MIN;Max Kepler;Tyler Glasnow;-12%;60%;Home Run (Fly Ball to Deep RF)
+b4;1-2;1;---;1,(0-0) X;O;MIN;Carlos Correa;Tyler Glasnow;2%;62%;Popfly: 2B
+b4;1-2;2;---;3,(1-1) BCX;O;MIN;Willi Castro;Tyler Glasnow;1%;64%;Flyball: LF
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Rays 2, Twins 1.
+Top of the 5th, Rays Batting, Ahead 2-1, Twins' Dylan Floro facing 3-4-5 
+;;;;;;;;;Dylan Floro replaces Sonny Gray pitching
+t5;2-1;0;---;4,(1-2) .CTBC;O;TBR;Randy Arozarena;Dylan Floro;-2%;61%;Strikeout Looking
+t5;2-1;1;---;2,(1-0) BX;;TBR;Josh Lowe;Dylan Floro;3%;64%;Single to 1B (Ground Ball)
+t5;2-1;1;1--;2,(0-1) 1CH;;TBR;Jose Siri;Dylan Floro;4%;68%;Hit By Pitch; Lowe to 2B
+t5;2-1;1;12-;6,(3-2) LBBF*BS;O;TBR;Luke Raley;Dylan Floro;-5%;63%;Strikeout Swinging
+t5;2-1;2;12-;3,(0-2) CCX;RRR;TBR;Taylor Walls;Dylan Floro;25%;88%;Home Run (Fly Ball to Deep RF); Lowe Scores; Siri Scores
+t5;5-1;2;---;5,(3-1) BBBCB;;TBR;Jonathan Aranda;Dylan Floro;0%;89%;Walk
+t5;5-1;2;1--;2,(0-1) CX;O;TBR;René Pinto;Dylan Floro;-1%;88%;Groundout: SS-1B
+;;;;;;;;;3 runs, 2 hits, 0 errors, 1 LOB. Rays 5, Twins 1.
+Bottom of the 5th, Twins Batting, Behind 1-5, Rays' Tyler Glasnow facing 7-8-9 
+;;;;;;;;;Josh Lowe moves from RF to CF Vidal Bruján replaces Jose Siri (CF) playing RF batting 5th
+b5;1-5;0;---;3,(0-2) ..CFS;O;MIN;Donovan Solano;Tyler Glasnow;2%;90%;Strikeout Swinging
+b5;1-5;1;---;4,(2-1) FBBX;O;MIN;Ryan Jeffers;Tyler Glasnow;1%;91%;Flyball: RF (Short RF)
+b5;1-5;2;---;1,(0-0) X;O;MIN;Andrew Stevenson;Tyler Glasnow;1%;92%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 5, Twins 1.
+Top of the 6th, Rays Batting, Ahead 5-1, Twins' Brent Headrick facing 1-2-3 
+;;;;;;;;;Brent Headrick replaces Dylan Floro pitching
+t6;5-1;0;---;2,(0-1) .CX;R;TBR;Yandy Díaz;Brent Headrick;3%;95%;Home Run (Fly Ball to Deep RF)
+t6;6-1;0;---;6,(3-2) SBBBCX;;TBR;Brandon Lowe;Brent Headrick;1%;96%;Single to RF (Ground Ball thru 2B-1B)
+t6;6-1;0;1--;5,(1-2) C*BFFX;;TBR;Randy Arozarena;Brent Headrick;1%;97%;Single to LF (Ground Ball thru SS-3B Hole); Lowe to 2B
+t6;6-1;0;12-;5,(3-1) F*BBBX;O;TBR;Josh Lowe;Brent Headrick;0%;96%;Flyball: CF (Deep CF); Lowe to 3B
+t6;6-1;1;1-3;1,(0-0) X;RO;TBR;Vidal Bruján;Brent Headrick;1%;97%;Bunt Groundout: 1B-SS/Forceout at 2B (Weak 2B-1B); Lowe Scores; Bruján to 1B
+t6;7-1;2;1--;3,(1-1) S*BX;;TBR;Luke Raley;Brent Headrick;0%;97%;Ground-rule Double (Line Drive to Deep LF); Bruján to 3B
+t6;7-1;2;-23;2,(0-1) CX;O;TBR;Taylor Walls;Brent Headrick;-1%;97%;Lineout: SS (Deep SS-3B Hole)
+;;;;;;;;;2 runs, 4 hits, 0 errors, 2 LOB. Rays 7, Twins 1.
+Bottom of the 6th, Twins Batting, Behind 1-7, Rays' Tyler Glasnow facing 1-2-3 
+b6;1-7;0;---;4,(2-1) BBCX;;MIN;Edouard Julien;Tyler Glasnow;-1%;95%;Single to RF (Ground Ball)
+b6;1-7;0;1--;2,(0-1) CX;;MIN;Alex Kirilloff;Tyler Glasnow;-3%;93%;Single to RF (Ground Ball); Julien to 2B
+b6;1-7;0;12-;4,(2-1) C*BBX;RRR;MIN;Royce Lewis;Tyler Glasnow;-9%;84%;Home Run (Line Drive to Deep LF); Julien Scores; Kirilloff Scores
+b6;4-7;0;---;8,(3-2) FBF.FFBBX;;MIN;Max Kepler;Tyler Glasnow;-5%;79%;Single to RF (Line Drive)
+b6;4-7;0;1--;6,(3-2) BSB*BCC;O;MIN;Carlos Correa;Tyler Glasnow;4%;83%;Strikeout Looking
+b6;4-7;1;1--;3,(0-2) FCX;OO;MIN;Willi Castro;Tyler Glasnow;6%;89%;Ground Ball Double Play: SS-1B (SS-2B)
+;;;;;;;;;3 runs, 4 hits, 0 errors, 0 LOB. Rays 7, Twins 4.
+Top of the 7th, Rays Batting, Ahead 7-4, Twins' Brent Headrick facing 8-9-1 
+t7;7-4;0;---;5,(2-2) BCFBX;O;TBR;Jonathan Aranda;Brent Headrick;-1%;88%;Groundout: 2B-1B (2B-1B)
+t7;7-4;1;---;9,(3-2) CBBSBFFFS;O;TBR;René Pinto;Brent Headrick;-1%;88%;Strikeout Swinging
+t7;7-4;2;---;6,(3-2) BCBFBX;O;TBR;Yandy Díaz;Brent Headrick;-1%;87%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 7, Twins 4.
+Bottom of the 7th, Twins Batting, Behind 4-7, Rays' Kevin Kelly facing 7-8-9 
+;;;;;;;;;Kevin Kelly replaces Tyler Glasnow pitching
+b7;4-7;0;---;4,(1-2) .CCBX;O;MIN;Donovan Solano;Kevin Kelly;3%;90%;Lineout: LF (LF-CF)
+b7;4-7;1;---;5,(1-2) CS.BFT;O;MIN;Ryan Jeffers;Kevin Kelly;2%;92%;Strikeout Swinging
+b7;4-7;2;---;4,(1-2) CBCS;O;MIN;Andrew Stevenson;Kevin Kelly;1%;93%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 7, Twins 4.
+Top of the 8th, Rays Batting, Ahead 7-4, Twins' Brent Headrick facing 2-3-4 
+t8;7-4;0;---;3,(0-2) FF.X;O;TBR;Brandon Lowe;Brent Headrick;-1%;92%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;Josh Winder replaces Brent Headrick pitching
+t8;7-4;1;---;6,(3-2) .CBBFB*B;;TBR;Randy Arozarena;Josh Winder;1%;93%;Walk
+t8;7-4;1;1--;1,(1-0) B1;O;TBR;Josh Lowe;Josh Winder;-1%;92%;Arozarena Picked off 1B (P-1B)
+;;;;;;;;;Tag play Challenged by TBR manager (Kevin Cash): Original call upheld upon review.
+t8;7-4;2;---;4,(1-2) B1.FSX;;TBR;Josh Lowe;Josh Winder;0%;92%;Single to LF (Fly Ball)
+t8;7-4;2;1--;1,(0-0) >S;;TBR;Vidal Bruján;Josh Winder;0%;92%;Lowe Steals 2B
+t8;7-4;2;-2-;5,(2-2) >S.BS*BX;O;TBR;Vidal Bruján;Josh Winder;-1%;91%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rays 7, Twins 4.
+Bottom of the 8th, Twins Batting, Behind 4-7, Rays' Jake Diekman facing 1-2-3 
+;;;;;;;;;Jake Diekman replaces Kevin Kelly pitchingJordan Luplow pinch hits for Edouard Julien (2B) batting 1st
+b8;4-7;0;---;7,(3-2) ..BCC.FBBB;;MIN;Jordan Luplow;Jake Diekman;-5%;86%;Walk
+;;;;;;;;;Kyle Farmer pinch hits for Alex Kirilloff (1B) batting 2nd
+b8;4-7;0;1--;10,(3-2) .BBSSFFFFBC;O;MIN;Kyle Farmer;Jake Diekman;5%;91%;Strikeout Looking
+b8;4-7;1;1--;5,(2-2) BCS.*BX;O;MIN;Royce Lewis;Jake Diekman;4%;94%;Groundout: 3B-2B/Forceout at 2B (Weak 3B); Lewis to 1B
+b8;4-7;2;1--;8,(3-2) CFFBF.BB>S;O;MIN;Max Kepler;Jake Diekman;2%;97%;Strikeout Swinging; Kepler out at 1B/C-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rays 7, Twins 4.
+Top of the 9th, Rays Batting, Ahead 7-4, Twins' Josh Winder facing 6-7-8 
+;;;;;;;;;Kyle Farmer moves from PH to 1B Willi Castro moves from LF to 2B Jordan Luplow moves from PH to LF 
+t9;7-4;0;---;6,(2-2) ...BBCCFX;O;TBR;Luke Raley;Josh Winder;0%;96%;Groundout: 2B-1B
+t9;7-4;1;---;7,(3-2) CBBBF.FB;;TBR;Taylor Walls;Josh Winder;0%;97%;Walk
+t9;7-4;1;1--;4,(3-0) B*BBB;;TBR;Jonathan Aranda;Josh Winder;1%;97%;Walk; Walls to 2B
+t9;7-4;1;12-;4,(2-1) FBBX;O;TBR;René Pinto;Josh Winder;-1%;97%;Groundout: 3B-2B/Forceout at 2B; Walls to 3B; Pinto to 1B
+t9;7-4;2;1-3;2,(0-1) CX;O;TBR;Yandy Díaz;Josh Winder;-1%;96%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Rays 7, Twins 4.
+Bottom of the 9th, Twins Batting, Behind 4-7, Rays' Pete Fairbanks facing 5-6-7 
+;;;;;;;;;Pete Fairbanks replaces Jake Diekman pitching
+b9;4-7;0;---;2,(0-1) .CX;O;MIN;Carlos Correa;Pete Fairbanks;2%;98%;Flyball: CF (CF-RF)
+b9;4-7;1;---;3,(0-2) SS.C;O;MIN;Willi Castro;Pete Fairbanks;1%;100%;Strikeout Looking
+b9;4-7;2;---;5,(2-2) TBBSH;;MIN;Donovan Solano;Pete Fairbanks;-1%;98%;Hit By Pitch
+b9;4-7;2;1--;4,(1-2) BFFB;;MIN;Ryan Jeffers;Pete Fairbanks;0%;98%;Passed Ball; Solano to 2B
+b9;4-7;2;-2-;7,(2-2) BFFB.FFX;O;MIN;Ryan Jeffers;Pete Fairbanks;2%;100%;Lineout: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rays 7, Twins 4.

@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.scrolling-text {
+    position: absolute;
+    white-space: nowrap;
+    animation: scrollText 10s linear forwards;
+    animation-fill-mode: forwards; /* Detiene la animación en el último frame */
+}
+
+@keyframes scrollText {
+    0% {
+        transform: translateX(0); /* Comienza desde la derecha */
+    }
+    50% {
+        transform: translateX(50%); /* Se detiene en la mitad de la ventana */
+    }
+    100% {
+        transform: translateX(100%); /* Asegura que el texto esté completamente fuera de la pantalla al final */
+    }
+}

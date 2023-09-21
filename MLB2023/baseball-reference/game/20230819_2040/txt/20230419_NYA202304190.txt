@@ -1,0 +1,296 @@
+
+Scorebox Meta
+20230419
+7:05 p.m. Local
+38131
+Yankee Stadium III
+200
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;0;0;0;1;0;0;1;0;0;2;7;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;2;0;0;0;0;0;0;0;0;1;3;6;0
+
+Batting home
+Anthony Volpe;/players/v/volpean01.shtml;SS;4;1;2;0;1;1;5;.204;.338;.315;.653;25;12;-0.002; 1.17;0.132;-0.134;-0.00%; 1.11; 0.5;0;3;SB
+Aaron Judge;/players/j/judgeaa01.shtml;CF-RF;3;1;1;2;2;1;5;.274;.382;.597;.978;30;18;0.096; 1.75;0.184;-0.088; 0.06%; 1.65; 1.4;7;0;HR,IW
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;3;0;1;0;1;0;5;.311;.411;.557;.968;27;18;0.176; 1.88;0.219;-0.043; 0.10%; 1.78; 0.8;9;1;HBP
+Gleyber Torres;/players/t/torregl01.shtml;2B;4;0;0;1;0;0;5;.250;.394;.429;.823;16;11;0.037; 2.40;0.166;-0.129; 0.02%; 2.27; -1.4;3;3;SF
+DJ LeMahieu;/players/l/lemahdj01.shtml;3B;4;0;0;0;0;1;4;.245;.322;.472;.794;11;9;-0.167; 1.54;0.000;-0.167;-0.10%; 1.46; -1.2;0;4;
+Willie Calhoun;/players/c/calhowi01.shtml;DH;2;0;0;0;1;1;3;.158;.200;.211;.411;13;7;-0.003; 0.56;0.024;-0.027;-0.00%; 0.53; 0.0;;;
+Oswald Peraza;/players/p/perazos02.shtml;PH-DH-DH;0;0;0;0;0;0;1;.333;.600;.333;.933;2;0;0.074; 2.26;0.074;0.000; 0.04%; 2.14; 0.4;;;HBP
+Oswaldo Cabrera;/players/c/cabreos01.shtml;LF;4;0;1;0;0;0;4;.245;.255;.283;.538;8;5;-0.091; 1.70;0.044;-0.135;-0.05%; 1.61; -1.0;0;0;SB
+Jose Trevino;/players/t/trevijo01.shtml;C;4;0;1;0;0;2;4;.216;.237;.324;.561;15;10;-0.102; 1.19;0.021;-0.123;-0.06%; 1.13; -0.8;10;0;2B,GDP
+Franchy Cordero;/players/c/cordefr02.shtml;RF;3;0;0;0;0;1;3;.200;.238;.525;.763;15;8;-0.058; 0.71;0.000;-0.058;-0.03%; 0.67; -0.7;1;0;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;PH-CF;1;1;0;0;0;1;1;.115;.115;.115;.231;7;5;-0.108; 3.83;0.000;-0.108;-0.06%; 3.63; -0.3;0;0;
+Jhony Brito;/players/b/britojh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael King;/players/k/kingmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Wandy Peralta;/players/p/peralwa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Clay Holmes;/players/h/holmecl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ian Hamilton;/players/h/hamilia01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jose Trevino (1, off Jaime Barria).
+
+
+HR: Aaron Judge (6, off Griffin Canning, 1st inn, 1 on, 0 outs to Deep LF-CF).
+
+
+SF: Gleyber Torres (1, off Matt Moore).
+
+
+IBB: Aaron Judge (1, by Matt Moore).
+
+
+HBP: Oswald Peraza (1, by Matt Moore); Anthony Rizzo (4, by Matt Moore).
+
+
+TB: Aaron Judge 4; Anthony Volpe 2; Jose Trevino 2; Oswaldo Cabrera; Anthony Rizzo.
+
+
+GIDP: Jose Trevino (3).
+
+
+RBI: Aaron Judge 2 (11); Gleyber Torres (7).
+
+
+Team LOB: 9.
+With RISP: 0 for 9.
+
+Batting away
+Taylor Ward;/players/w/wardta01.shtml;LF;4;0;0;1;0;1;5;.236;.329;.347;.676;21;12;-0.139; 1.91;0.031;-0.171;-0.09%; 2.03; -1.1;1;0;HBP
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;4;0;0;0;1;2;5;.281;.370;.500;.870;22;11;-0.135; 1.88;0.050;-0.185;-0.09%; 2.00; -1.1;;;
+Mike Trout;/players/t/troutmi01.shtml;CF;5;0;2;0;0;3;5;.302;.436;.540;.976;33;20;-0.135; 1.97;0.072;-0.207;-0.09%; 2.08; -0.5;5;0;
+Anthony Rendon;/players/r/rendoan01.shtml;3B;4;0;1;0;1;0;5;.286;.404;.314;.719;19;10;0.026; 1.95;0.109;-0.084; 0.02%; 2.06; 0.2;1;1;
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;4;1;1;0;1;0;5;.265;.359;.515;.874;19;12;-0.291; 2.43;0.085;-0.376;-0.18%; 2.58; -1.7;0;1;GDP
+Gio Urshela;/players/u/urshegi01.shtml;1B;5;0;1;1;0;1;5;.297;.328;.375;.703;16;10;-0.042; 2.43;0.229;-0.272;-0.03%; 2.58; -0.6;8;1;
+Brandon Drury;/players/d/drurybr01.shtml;2B;4;0;0;0;0;2;4;.185;.220;.296;.517;16;10;-0.140; 1.32;0.000;-0.140;-0.09%; 1.41; -0.9;1;3;
+Matt Thaiss;/players/t/thaisma01.shtml;C;1;1;0;0;2;1;3;.000;.250;.000;.250;17;6;0.072; 0.81;0.082;-0.010; 0.05%; 0.86; 0.4;4;0;
+Brett Phillips;/players/p/phillbr02.shtml;PR;0;0;0;0;0;0;0;.000;.375;.000;.375;;;;;;;;;;;;
+Logan O'Hoppe;/players/o/ohopplo01.shtml;C;1;0;0;0;0;0;1;.245;.309;.510;.819;1;1;-0.059; 2.32;0.000;-0.059;-0.04%; 2.46; -0.2;4;0;
+Zach Neto;/players/n/netoza01.shtml;SS;3;0;2;0;0;0;4;.158;.238;.263;.501;14;8;0.197; 1.65;0.242;-0.045; 0.12%; 1.75; 1.7;4;2;2·2B,HBP
+Griffin Canning;/players/c/cannigr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Jaime Barria;/players/b/barrija01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Carlos Estévez;/players/e/estevca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matt Moore;/players/m/moorema02.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Zach Neto 2 (2, 2 off Jhony Brito).
+
+
+HBP: Zach Neto (2, by Michael King); Taylor Ward (3, by Clay Holmes).
+
+
+TB: Zach Neto 4; Mike Trout 2; Anthony Rendon; Hunter Renfroe; Gio Urshela.
+
+
+GIDP: Hunter Renfroe (3).
+
+
+RBI: Gio Urshela (9); Taylor Ward (7).
+
+
+2-out RBI: Gio Urshela.
+
+
+Team LOB: 11.
+With RISP: 1 for 15.
+
+Pitching home
+Jhony Brito;/players/b/britojh01.shtml;Jhony Brito; 4.1;3;1;1;3;3;0;5.40;18;84;47;31;5;11;3;9;3;0;53;;;0.094; 1.00; 0.05%; 0.94; 1.1
+Michael King;/players/k/kingmi01.shtml;Michael King; 2.1;2;0;0;1;4;0;1.50;10;44;24;9;6;9;3;1;0;0;;2;1;0.160; 2.22; 0.09%; 2.10; 1.0
+Wandy Peralta;/players/p/peralwa01.shtml; BS (1); 1.1;2;1;1;0;2;0;1.29;6;26;16;10;3;3;1;3;1;0;;2;0;-0.056; 2.11;-0.03%; 1.99; -0.1
+Clay Holmes;/players/h/holmecl01.shtml;Clay Holmes; 1 ;0;0;0;1;1;0;4.70;5;17;7;3;1;3;2;0;0;0;;0;0;0.138; 2.45; 0.08%; 2.32; 0.5
+Ian Hamilton;/players/h/hamilia01.shtml; W (1-1); 1 ;0;0;0;0;0;0;1.86;3;7;6;5;0;1;2;1;1;0;;0;0;0.311; 4.95; 0.18%; 4.68; 1.1
+
+Pitching away
+Griffin Canning;/players/c/cannigr01.shtml;Griffin Canning; 5.1;4;2;2;3;4;1;3.48;21;100;58;30;12;16;5;9;2;0;53;;;-0.033; 0.71;-0.02%; 0.75; 0.1
+Jaime Barria;/players/b/barrija01.shtml;Jaime Barria; 1.2;1;0;0;0;1;0;3.18;6;19;13;7;2;4;2;3;1;0;;2;0;0.124; 1.02; 0.08%; 1.08; 1.4
+Carlos Estévez;/players/e/estevca01.shtml;Carlos Estévez; 1 ;1;0;0;1;1;0;2.25;5;30;20;13;3;4;1;2;0;0;;0;0;0.107; 2.86; 0.07%; 3.03; 0.5
+Matt Moore;/players/m/moorema02.shtml; L (1-1); 1.2;0;1;0;1;2;0;2.00;8;20;12;7;2;3;2;1;0;0;;0;0;-0.051; 3.48;-0.03%; 3.69; 0.2
+
+indiv_events
+
+Balks: Wandy Peralta (2).
+WP: Griffin Canning (1).
+HBP: Matt Moore 2 (2; Oswald Peraza, Anthony Rizzo); Michael King (2; Zach Neto); Clay Holmes (2; Taylor Ward).
+IBB: Matt Moore (1; Aaron Judge).
+Pickoffs: None.
+
+Balks: Wandy Peralta (2).
+WP: Griffin Canning (1).
+HBP: Matt Moore 2 (2; Oswald Peraza, Anthony Rizzo); Michael King (2; Zach Neto); Clay Holmes (2; Taylor Ward).
+IBB: Matt Moore (1; Aaron Judge).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Lance Barksdale, 1B - Will Little, 2B - Ryan Additon, 3B - Dan Merzel, LF - (none), RF - (none).
+Time of Game: 3:20.
+Attendance: 38,131.
+Field Condition: Unknown.
+Start Time Weather: 61° F, Wind 9mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Angels
+1;Taylor Ward;/players/w/wardta01.shtml;LF
+2;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+3;Mike Trout;/players/t/troutmi01.shtml;CF
+4;Anthony Rendon;/players/r/rendoan01.shtml;3B
+5;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+6;Gio Urshela;/players/u/urshegi01.shtml;1B
+7;Brandon Drury;/players/d/drurybr01.shtml;2B
+8;Matt Thaiss;/players/t/thaisma01.shtml;C
+9;Zach Neto;/players/n/netoza01.shtml;SS
+; Griffin Canning;/players/c/cannigr01.shtml;P
+Yankees
+1;Anthony Volpe;/players/v/volpean01.shtml;SS
+2;Aaron Judge;/players/j/judgeaa01.shtml;CF
+3;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+4;Gleyber Torres;/players/t/torregl01.shtml;2B
+5;DJ LeMahieu;/players/l/lemahdj01.shtml;3B
+6;Willie Calhoun;/players/c/calhowi01.shtml;DH
+7;Oswaldo Cabrera;/players/c/cabreos01.shtml;LF
+8;Jose Trevino;/players/t/trevijo01.shtml;C
+9;Franchy Cordero;/players/c/cordefr02.shtml;RF
+; Jhony Brito;/players/b/britojh01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t8;1-2;2;-2-;2,(0-1) FN.X;R;LAA;Gio Urshela;Wandy Peralta;-23%;56%;Single to CF (Fly Ball to Short CF-RF); Renfroe Scores
+t6;1-2;0;12-;2,(0-1) CX;OO;LAA;Hunter Renfroe;Michael King;17%;68%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole); Trout to 3B
+b10;2-2;1;123;2,(1-0) BX;RO;NYY;Gleyber Torres;Matt Moore;17%;100%;Flyball: CF/Sacrifice Fly (Deep CF-RF); Kiner-Falefa Scores/unER
+t10;2-2;1;--3;4,(0-2) FCFX;O;LAA;Hunter Renfroe;Ian Hamilton;16%;68%;Groundout: 3B-1B (Weak 3B)
+b1;0-0;0;1--;6,(3-2) FC1BB*B>X;RR;NYY;Aaron Judge;Griffin Canning;15%;73%;Home Run (Fly Ball to Deep LF-CF); Volpe Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, Yankees' Jhony Brito facing 1-2-3 
+t1;0-0;0;---;4,(0-2) FFFX;O;LAA;Taylor Ward;Jhony Brito;2%;52%;Flyball: RF (Short CF-RF)
+t1;0-0;1;---;6,(3-2) BCBS.BX;O;LAA;Shohei Ohtani;Jhony Brito;2%;54%;Flyball: CF (Deep CF)
+t1;0-0;2;---;8,(3-2) SBFBFBFX;;LAA;Mike Trout;Jhony Brito;-1%;53%;Single to RF (Line Drive to RF Line)
+t1;0-0;2;1--;7,(3-2) CBF1BB>F>B;;LAA;Anthony Rendon;Jhony Brito;-2%;51%;Walk; Trout to 2B
+t1;0-0;2;12-;2,(1-0) BX;O;LAA;Hunter Renfroe;Jhony Brito;4%;55%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Angels 0, Yankees 0.
+Bottom of the 1st, Yankees Batting, Tied 0-0, Angels' Griffin Canning facing 1-2-3 
+b1;0-0;0;---;5,(3-1) BBBCX;;NYY;Anthony Volpe;Griffin Canning;4%;58%;Single to LF (Line Drive to LF-CF)
+b1;0-0;0;1--;6,(3-2) FC1BB*B>X;RR;NYY;Aaron Judge;Griffin Canning;15%;73%;Home Run (Fly Ball to Deep LF-CF); Volpe Scores
+b1;2-0;0;---;8,(3-2) CBBC.BFFX;O;NYY;Anthony Rizzo;Griffin Canning;-2%;72%;Flyball: CF (Deep CF)
+b1;2-0;1;---;4,(1-2) CSBX;O;NYY;Gleyber Torres;Griffin Canning;-1%;71%;Flyball: CF (Deep CF-RF)
+b1;2-0;2;---;3,(1-1) BCX;O;NYY;DJ LeMahieu;Griffin Canning;-1%;70%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Angels 0, Yankees 2.
+Top of the 2nd, Angels Batting, Behind 0-2, Yankees' Jhony Brito facing 6-7-8 
+t2;0-2;0;---;4,(2-1) BCBX;O;LAA;Gio Urshela;Jhony Brito;2%;72%;Flyball: CF
+t2;0-2;1;---;4,(1-2) TBCC;O;LAA;Brandon Drury;Jhony Brito;2%;74%;Strikeout Looking
+t2;0-2;2;---;7,(3-2) CBS.FBBC;O;LAA;Matt Thaiss;Jhony Brito;1%;75%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Yankees 2.
+Bottom of the 2nd, Yankees Batting, Ahead 2-0, Angels' Griffin Canning facing 6-7-8 
+b2;2-0;0;---;5,(3-1) BBSBB;;NYY;Willie Calhoun;Griffin Canning;2%;77%;Walk
+b2;2-0;0;1--;1,(0-0) X;O;NYY;Oswaldo Cabrera;Griffin Canning;-2%;75%;Foul Popfly: 3B (3B into Foul Terr.)
+b2;2-0;1;1--;3,(1-1) CBX;OO;NYY;Jose Trevino;Griffin Canning;-4%;71%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Yankees 2.
+Top of the 3rd, Angels Batting, Behind 0-2, Yankees' Jhony Brito facing 9-1-2 
+t3;0-2;0;---;5,(3-1) BFBBX;;LAA;Zach Neto;Jhony Brito;-6%;65%;Double to LF (Line Drive to Deep LF Line)
+t3;0-2;0;-2-;4,(2-1) BFBX;O;LAA;Taylor Ward;Jhony Brito;5%;70%;Foul Popfly: 1B (1B into Foul Terr.)
+t3;0-2;1;-2-;1,(0-0) X;O;LAA;Shohei Ohtani;Jhony Brito;3%;73%;Groundout: 2B-1B; Neto to 3B
+t3;0-2;2;--3;10,(3-2) CFFBFFFBBS;O;LAA;Mike Trout;Jhony Brito;4%;77%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 0, Yankees 2.
+Bottom of the 3rd, Yankees Batting, Ahead 2-0, Angels' Griffin Canning facing 9-1-2 
+b3;2-0;0;---;6,(3-2) CBBBSX;O;NYY;Franchy Cordero;Griffin Canning;-2%;75%;Groundout: 1B unassisted
+b3;2-0;1;---;6,(3-2) BSSBBB;;NYY;Anthony Volpe;Griffin Canning;2%;77%;Walk
+b3;2-0;1;1--;1,(0-0) B;;NYY;Aaron Judge;Griffin Canning;1%;78%;Wild Pitch; Volpe to 2B
+b3;2-0;1;-2-;8,(3-2) B.*BCFFFB>S;O;NYY;Aaron Judge;Griffin Canning;-2%;76%;Strikeout Swinging, Volpe Steals 3B
+b3;2-0;2;--3;3,(0-2) SF.X;O;NYY;Anthony Rizzo;Griffin Canning;-3%;73%;Popfly: 1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 0, Yankees 2.
+Top of the 4th, Angels Batting, Behind 0-2, Yankees' Jhony Brito facing 4-5-6 
+t4;0-2;0;---;2,(1-0) BX;O;LAA;Anthony Rendon;Jhony Brito;3%;76%;Groundout: SS-1B (Deep SS-2B)
+t4;0-2;1;---;6,(3-2) CBFBBB;;LAA;Hunter Renfroe;Jhony Brito;-3%;73%;Walk
+t4;0-2;1;1--;3,(1-1) BCX;OO;LAA;Gio Urshela;Jhony Brito;6%;79%;Groundout: 3B-2B/Forceout at 2B; Urshela out at 2B/1B-2B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Yankees 2.
+Bottom of the 4th, Yankees Batting, Ahead 2-0, Angels' Griffin Canning facing 4-5-6 
+b4;2-0;0;---;6,(2-2) BCFFBX;O;NYY;Gleyber Torres;Griffin Canning;-2%;77%;Groundout: SS-1B
+b4;2-0;1;---;1,(0-0) X;O;NYY;DJ LeMahieu;Griffin Canning;-1%;76%;Foul Popfly: 1B (1B into Foul Terr.)
+b4;2-0;2;---;4,(1-2) CBSS;O;NYY;Willie Calhoun;Griffin Canning;-1%;75%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Yankees 2.
+Top of the 5th, Angels Batting, Behind 0-2, Yankees' Jhony Brito facing 7-8-9 
+t5;0-2;0;---;4,(2-1) SBBX;O;LAA;Brandon Drury;Jhony Brito;3%;78%;Flyball: CF
+t5;0-2;1;---;5,(3-1) BFBBB;;LAA;Matt Thaiss;Jhony Brito;-3%;75%;Walk
+t5;0-2;1;1--;2,(0-1) CX;;LAA;Zach Neto;Jhony Brito;-11%;64%;Double to LF (Line Drive to Deep LF Line); Thaiss to 3B
+;;;;;;;;;Michael King replaces Jhony Brito pitching
+t5;0-2;1;-23;5,(3-1) .BBBCX;RO;LAA;Taylor Ward;Michael King;2%;66%;Groundout: SS-1B; Thaiss Scores; Neto to 3B
+t5;1-2;2;--3;5,(2-2) BCBFS;O;LAA;Shohei Ohtani;Michael King;5%;71%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Angels 1, Yankees 2.
+Bottom of the 5th, Yankees Batting, Ahead 2-1, Angels' Griffin Canning facing 7-8-9 
+b5;2-1;0;---;2,(1-0) BX;O;NYY;Oswaldo Cabrera;Griffin Canning;-2%;69%;Single to RF (Line Drive to CF-RF); Cabrera out at 2B/RF-SS
+b5;2-1;1;---;6,(2-2) CBSBFT;O;NYY;Jose Trevino;Griffin Canning;-2%;67%;Strikeout Swinging
+b5;2-1;2;---;4,(2-1) CBBX;O;NYY;Franchy Cordero;Griffin Canning;-1%;66%;Groundout: P-1B (Weak SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Angels 1, Yankees 2.
+Top of the 6th, Angels Batting, Behind 1-2, Yankees' Michael King facing 3-4-5 
+t6;1-2;0;---;5,(3-1) BBSBX;;LAA;Mike Trout;Michael King;-6%;60%;Single to RF (Fly Ball to Short RF)
+t6;1-2;0;1--;3,(1-1) CBX;;LAA;Anthony Rendon;Michael King;-9%;51%;Single to LF (Ground Ball); Trout to 2B
+t6;1-2;0;12-;2,(0-1) CX;OO;LAA;Hunter Renfroe;Michael King;17%;68%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole); Trout to 3B
+t6;1-2;2;--3;5,(2-2) BCBSC;O;LAA;Gio Urshela;Michael King;6%;74%;Strikeout Looking
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Angels 1, Yankees 2.
+Bottom of the 6th, Yankees Batting, Ahead 2-1, Angels' Griffin Canning facing 1-2-3 
+b6;2-1;0;---;6,(3-2) C.BFBBS;O;NYY;Anthony Volpe;Griffin Canning;-2%;72%;Strikeout Swinging
+b6;2-1;1;---;7,(3-2) BBCBC.F*B;;NYY;Aaron Judge;Griffin Canning;2%;74%;Walk
+b6;2-1;1;1--;6,(1-2) BSF.FFX;;NYY;Anthony Rizzo;Griffin Canning;3%;77%;Single to LF (Fly Ball to LF Line); Judge to 2B
+;;;;;;;;;Jaime Barria replaces Griffin Canning pitching
+b6;2-1;1;12-;1,(0-0) .X;O;NYY;Gleyber Torres;Jaime Barria;-4%;74%;Popfly: SS (SS-2B)
+b6;2-1;2;12-;4,(1-2) BCFX;O;NYY;DJ LeMahieu;Jaime Barria;-4%;69%;Groundout: 2B-SS/Forceout at 2B; LeMahieu to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Angels 1, Yankees 2.
+Top of the 7th, Angels Batting, Behind 1-2, Yankees' Michael King facing 7-8-9 
+t7;1-2;0;---;4,(1-2) BCFS;O;LAA;Brandon Drury;Michael King;4%;74%;Strikeout Swinging
+t7;1-2;1;---;5,(3-1) FBBBB;;LAA;Matt Thaiss;Michael King;-5%;69%;Walk
+;;;;;;;;;Brett Phillips pinch runs for Matt Thaiss (C) batting 8th
+t7;1-2;1;1--;4,(1-2) .B1CS.1H;;LAA;Zach Neto;Michael King;-7%;62%;Hit By Pitch; Phillips to 2B
+t7;1-2;1;12-;6,(2-2) CBFBFS;O;LAA;Taylor Ward;Michael King;9%;71%;Strikeout Swinging
+;;;;;;;;;Wandy Peralta replaces Michael King pitching
+t7;1-2;2;12-;5,(2-2) .FB*BFS;O;LAA;Shohei Ohtani;Wandy Peralta;8%;79%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Angels 1, Yankees 2.
+Bottom of the 7th, Yankees Batting, Ahead 2-1, Angels' Jaime Barria facing 6-7-8 
+;;;;;;;;;Logan O'Hoppe replaces Brett Phillips (PR) playing C batting 8th
+b7;2-1;0;---;4,(1-2) .BCFX;O;NYY;Willie Calhoun;Jaime Barria;-2%;77%;Flyball: LF
+b7;2-1;1;---;3,(1-1) SBX;O;NYY;Oswaldo Cabrera;Jaime Barria;-1%;76%;Groundout: 2B-1B (2B-1B)
+b7;2-1;2;---;2,(1-0) BX;;NYY;Jose Trevino;Jaime Barria;2%;78%;Double to LF (Line Drive to Deep LF Line)
+b7;2-1;2;-2-;5,(2-2) BCCBS;O;NYY;Franchy Cordero;Jaime Barria;-3%;75%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 1, Yankees 2.
+Top of the 8th, Angels Batting, Behind 1-2, Yankees' Wandy Peralta facing 3-4-5 
+t8;1-2;0;---;4,(1-2) BCF.T;O;LAA;Mike Trout;Wandy Peralta;6%;80%;Strikeout Swinging
+t8;1-2;1;---;6,(3-2) BCS.BBX;O;LAA;Anthony Rendon;Wandy Peralta;4%;84%;Flyball: CF
+t8;1-2;2;---;5,(2-2) CBBSX;;LAA;Hunter Renfroe;Wandy Peralta;-3%;81%;Single to LF (Ground Ball thru SS-3B Hole)
+t8;1-2;2;1--;1,(0-1) FN;;LAA;Gio Urshela;Wandy Peralta;-2%;79%;Balk; Renfroe to 2B
+t8;1-2;2;-2-;2,(0-1) FN.X;R;LAA;Gio Urshela;Wandy Peralta;-23%;56%;Single to CF (Fly Ball to Short CF-RF); Renfroe Scores
+t8;2-2;2;1--;4,(2-1) BFBX;O;LAA;Brandon Drury;Wandy Peralta;5%;61%;Lineout: CF (Deep CF-RF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Angels 2, Yankees 2.
+Bottom of the 8th, Yankees Batting, Tied 2-2, Angels' Carlos Estévez facing 1-2-3 
+;;;;;;;;;Carlos Estévez replaces Jaime Barria pitching
+b8;2-2;0;---;7,(3-2) .CFBBFBX;;NYY;Anthony Volpe;Carlos Estévez;6%;67%;Single to CF (Ground Ball thru SS-2B)
+b8;2-2;0;1--;9,(2-2) BCS.1FFBFFX;O;NYY;Aaron Judge;Carlos Estévez;-6%;61%;Flyball: CF (Deep CF)
+b8;2-2;1;1--;8,(3-2) SBFF*B>FB>B;;NYY;Anthony Rizzo;Carlos Estévez;6%;67%;Walk; Volpe to 2B
+b8;2-2;1;12-;3,(1-1) BCX;O;NYY;Gleyber Torres;Carlos Estévez;-6%;61%;Flyball: CF (Deep CF); Volpe to 3B
+b8;2-2;2;1-3;3,(0-2) CFS;O;NYY;DJ LeMahieu;Carlos Estévez;-11%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Angels 2, Yankees 2.
+Top of the 9th, Angels Batting, Tied 2-2, Yankees' Clay Holmes facing 8-9-1 
+;;;;;;;;;Clay Holmes replaces Wandy Peralta pitching
+t9;2-2;0;---;1,(0-0) .X;O;LAA;Logan O'Hoppe;Clay Holmes;6%;56%;Groundout: SS-1B
+t9;2-2;1;---;3,(1-1) BCX;O;LAA;Zach Neto;Clay Holmes;4%;60%;Groundout: 3B-1B (SS-3B Hole)
+t9;2-2;2;---;2,(1-0) BH;;LAA;Taylor Ward;Clay Holmes;-3%;57%;Hit By Pitch
+t9;2-2;2;1--;5,(3-1) BBBCB;;LAA;Shohei Ohtani;Clay Holmes;-5%;52%;Walk; Ward to 2B
+t9;2-2;2;12-;6,(3-2) BBCFB>S;O;LAA;Mike Trout;Clay Holmes;11%;64%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Angels 2, Yankees 2.
+Bottom of the 9th, Yankees Batting, Tied 2-2, Angels' Matt Moore facing 6-7-8 
+;;;;;;;;;Matt Moore replaces Carlos Estévez pitchingOswald Peraza pinch hits for Willie Calhoun (DH) batting 6th
+b9;2-2;0;---;2,(1-0) ...BH;;NYY;Oswald Peraza;Matt Moore;7%;71%;Hit By Pitch
+b9;2-2;0;1--;2,(1-0) BX;O;NYY;Oswaldo Cabrera;Matt Moore;-8%;64%;Bunt Groundout: 1B-SS/Forceout at 2B (Weak 2B-1B); Cabrera to 1B
+b9;2-2;1;1--;4,(1-2) C*BF1>S;O;NYY;Jose Trevino;Matt Moore;-3%;61%;Strikeout Swinging, Cabrera Steals 2B
+;;;;;;;;;Isiah Kiner-Falefa pinch hits for Franchy Cordero (RF) batting 9th
+b9;2-2;2;-2-;7,(2-2) .BCSFBFT;O;NYY;Isiah Kiner-Falefa;Matt Moore;-11%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 2, Yankees 2.
+Top of the 10th, Angels Batting, Tied 2-2, Yankees' Ian Hamilton facing 4-5-6 
+;;;;;;;;;Ian Hamilton replaces Clay Holmes pitchingIsiah Kiner-Falefa moves from PH to CF Aaron Judge moves from CF to RF Mike Trout running at second base to start the extra inning
+t10;2-2;0;-2-;1,(0-0) .....X;O;LAA;Anthony Rendon;Ian Hamilton;2%;52%;Groundout: 2B-1B; Trout to 3B
+t10;2-2;1;--3;4,(0-2) FCFX;O;LAA;Hunter Renfroe;Ian Hamilton;16%;68%;Groundout: 3B-1B (Weak 3B)
+t10;2-2;2;--3;2,(1-0) BX;O;LAA;Gio Urshela;Ian Hamilton;13%;81%;Lineout: RF (Short RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 2, Yankees 2.
+Bottom of the 10th, Yankees Batting, Tied 2-2, Angels' Matt Moore facing 1-2-3 
+;;;;;;;;;Isiah Kiner-Falefa running at second base to start the extra inning
+b10;2-2;0;-2-;1,(0-0) .X;O;NYY;Anthony Volpe;Matt Moore;-11%;70%;Bunt Popfly: P (Front of Home)
+b10;2-2;1;-2-;,(3-0) VVVV;;NYY;Aaron Judge;Matt Moore;1%;71%;Intentional Walk
+b10;2-2;1;12-;2,(0-1) CH;;NYY;Anthony Rizzo;Matt Moore;13%;83%;Hit By Pitch; Kiner-Falefa to 3B; Judge to 2B
+b10;2-2;1;123;2,(1-0) BX;RO;NYY;Gleyber Torres;Matt Moore;17%;100%;Flyball: CF/Sacrifice Fly (Deep CF-RF); Kiner-Falefa Scores/unER
+;;;;;;;;;1 run, 0 hits, 0 errors, 2 LOB. Angels 2, Yankees 3.

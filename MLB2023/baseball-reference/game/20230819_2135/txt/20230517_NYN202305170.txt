@@ -1,0 +1,310 @@
+
+Scorebox Meta
+20230517
+7:10 p.m. Local
+29695
+Citi Field
+191
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/TBR-2023.png;/teams/TBR/2023.shtml;0;0;0;1;0;0;1;2;1;2;7;10;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;0;0;0;2;0;3;3;8;8;0
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;5;1;0;0;0;2;5;.299;.385;.421;.806;18;12;-0.113; 0.89;0.000;-0.113;-0.06%; 0.75; -0.7;0;0;
+Eduardo Escobar;/players/e/escobed01.shtml;2B;1;0;0;0;1;0;2;.208;.256;.431;.687;11;4;0.028; 0.75;0.040;-0.012; 0.01%; 0.64; 0.3;0;0;
+Jeff McNeil;/players/m/mcneije01.shtml;PH-2B;3;1;1;0;0;1;3;.277;.359;.365;.724;15;9;0.081; 2.17;0.164;-0.084; 0.04%; 1.84; 0.2;1;0;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;5;0;2;0;0;3;5;.229;.309;.418;.727;18;12;-0.118; 2.06;0.091;-0.209;-0.06%; 1.75; -0.3;2;1;
+Pete Alonso;/players/a/alonspe01.shtml;1B;5;1;1;3;0;0;5;.232;.330;.524;.854;15;11;0.602; 2.03;0.785;-0.184; 0.31%; 1.73; 0.4;5;1;HR,GDP
+Tommy Pham;/players/p/phamth01.shtml;DH;1;0;1;0;1;0;2;.200;.301;.357;.658;8;3;0.054; 0.73;0.054;0.000; 0.03%; 0.62; 0.5;;;
+Daniel Vogelbach;/players/v/vogelda01.shtml;PH-DH-DH;1;1;0;0;1;1;2;.247;.379;.365;.743;8;3;-0.013; 1.51;0.047;-0.060;-0.01%; 1.28; 0.1;;;
+Starling Marte;/players/m/martest01.shtml;RF;3;1;1;0;0;1;4;.238;.301;.287;.588;12;10;0.047; 1.50;0.121;-0.074; 0.02%; 1.27; 0.2;2;1;HBP
+Mark Canha;/players/c/canhama01.shtml;LF;2;1;0;0;0;0;3;.227;.300;.371;.671;9;6;-0.041; 1.51;0.046;-0.087;-0.02%; 1.28; -0.5;3;0;HBP
+Brett Baty;/players/b/batybr01.shtml;PH-LF;1;0;0;0;0;1;1;.241;.326;.392;.718;4;3;-0.081; 3.50;0.000;-0.081;-0.04%; 2.97; -0.6;0;0;
+Mark Vientos;/players/v/vientma01.shtml;3B;4;1;1;2;0;0;4;.250;.250;1.000;1.250;12;10;0.207; 1.75;0.326;-0.119; 0.10%; 1.48; 0.8;0;2;HR
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;4;1;1;3;0;0;4;.218;.274;.423;.697;11;6;0.415; 1.19;0.493;-0.078; 0.21%; 1.01; 2.1;16;2;HR
+Kodai Senga;/players/s/sengako01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jeff Brigham;/players/b/brighje01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Adam Ottavino;/players/o/ottavad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Stephen Nogosek;/players/n/nogosst01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+David Robertson;/players/r/roberda08.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Mark Vientos (1, off Ryan Thompson, 7th inn, 1 on, 1 out to Deep CF); Francisco Alvarez (4, off Jason Adam, 9th inn, 2 on, 2 outs to Deep LF-CF); Pete Alonso (15, off Pete Fairbanks, 10th inn, 2 on, 1 out to Deep LF-CF).
+
+
+HBP: Mark Canha (3, by Ryan Thompson); Starling Marte (3, by Jason Adam).
+
+
+TB: Mark Vientos 4; Francisco Alvarez 4; Pete Alonso 4; Francisco Lindor 2; Tommy Pham; Jeff McNeil; Starling Marte.
+
+
+GIDP: Pete Alonso (6).
+
+
+RBI: Francisco Alvarez 3 (9); Pete Alonso 3 (36); Mark Vientos 2 (2).
+
+
+2-out RBI: Francisco Alvarez 3.
+
+
+Team LOB: 5.
+With RISP: 4 for 10.
+
+Batting away
+Josh Lowe;/players/l/lowejo01.shtml;RF;5;1;2;1;1;2;6;.300;.364;.608;.972;26;15;0.176; 0.77;0.228;-0.052; 0.10%; 0.76; 1.0;1;0;2B,SB
+Wander Franco;/players/f/francwa01.shtml;SS;3;0;0;0;2;1;5;.288;.351;.500;.851;27;14;0.070; 0.85;0.108;-0.038; 0.04%; 0.84; 0.4;0;5;2·SB
+Randy Arozarena;/players/a/arozara01.shtml;DH;4;1;1;1;1;2;5;.310;.395;.544;.939;21;11;0.045; 1.46;0.153;-0.108; 0.03%; 1.44; 0.2;;;SB
+Brandon Lowe;/players/l/lowebr01.shtml;2B;3;2;2;2;2;1;5;.208;.311;.446;.757;24;14;0.273; 1.13;0.305;-0.032; 0.16%; 1.12; 2.1;3;5;HR,2B
+Isaac Paredes;/players/p/paredis01.shtml;1B;5;0;2;1;0;0;5;.293;.369;.496;.865;12;10;0.125; 1.09;0.190;-0.065; 0.07%; 1.08; 0.5;9;0;2B
+Taylor Walls;/players/w/wallsta01.shtml;3B;5;1;1;0;0;4;5;.277;.365;.564;.930;27;15;-0.052; 1.48;0.100;-0.152;-0.03%; 1.46; -1.2;1;0;2·SB
+Luke Raley;/players/r/raleylu01.shtml;LF;4;0;0;0;0;3;5;.258;.324;.557;.881;26;17;-0.172; 1.57;0.018;-0.190;-0.10%; 1.55; -1.0;3;0;SB,HBP
+Francisco Mejía;/players/m/mejiafr01.shtml;C;4;0;0;0;0;3;4;.212;.274;.333;.607;11;10;-0.089; 0.89;0.000;-0.089;-0.05%; 0.87; -1.1;8;0;
+Harold Ramírez;/players/r/ramirha02.shtml;PH;1;1;1;1;0;0;1;.330;.380;.554;.934;4;3;0.150; 6.09;0.150;0.000; 0.09%; 6.00; 0.6;;;
+Christian Bethancourt;/players/b/bethach01.shtml;C;0;0;0;0;0;0;0;.228;.265;.489;.754;;;;;;;;;;1;0;
+Jose Siri;/players/s/sirijo01.shtml;CF;5;1;1;1;0;1;5;.222;.284;.528;.812;17;13;0.043; 0.99;0.140;-0.097; 0.03%; 0.97; -0.2;2;0;HR
+Josh Fleming;/players/f/flemijo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kevin Kelly;/players/k/kellyke02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jake Diekman;/players/d/diekmja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Thompson;/players/t/thompry02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Colin Poche;/players/p/pocheco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jason Adam;/players/a/adamja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Pete Fairbanks;/players/f/fairbpe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Brandon Lowe (5, off Kodai Senga); Isaac Paredes (9, off Kodai Senga); Josh Lowe (10, off Stephen Nogosek).
+
+
+HR: Jose Siri (6, off Jeff Brigham, 7th inn, 0 on, 2 outs to Deep CF-RF); Brandon Lowe (8, off Adam Ottavino, 8th inn, 1 on, 0 outs to Deep RF).
+
+
+HBP: Luke Raley (4, by Adam Ottavino).
+
+
+TB: Brandon Lowe 6; Jose Siri 4; Isaac Paredes 3; Josh Lowe 3; Taylor Walls; Harold Ramírez; Randy Arozarena.
+
+
+RBI: Brandon Lowe 2 (24); Isaac Paredes (29); Harold Ramírez (18); Jose Siri (14); Randy Arozarena (36); Josh Lowe (29).
+
+
+2-out RBI: Jose Siri; Josh Lowe.
+
+
+Team LOB: 10.
+With RISP: 5 for 19.
+
+Pitching home
+Kodai Senga;/players/s/sengako01.shtml;Kodai Senga; 6 ;3;1;1;3;12;0;3.77;24;104;65;32;17;16;1;8;3;0;71;;;0.189; 1.12; 0.10%; 0.95; 2.0
+Jeff Brigham;/players/b/brighje01.shtml;Jeff Brigham; 1 ;1;1;1;1;2;1;3.21;5;22;13;7;3;3;1;1;0;0;;0;0;-0.089; 0.67;-0.04%; 0.56; -0.5
+Adam Ottavino;/players/o/ottavad01.shtml;Adam Ottavino; 1 ;2;2;2;1;2;1;3.71;7;21;14;3;3;8;0;3;1;0;;0;0;-0.336; 1.28;-0.17%; 1.09; -1.5
+Stephen Nogosek;/players/n/nogosst01.shtml;Stephen Nogosek; 1 ;2;1;1;1;1;0;4.76;6;31;17;11;1;5;3;1;1;0;;0;0;-0.033; 0.32;-0.02%; 0.27; -0.5
+David Robertson;/players/r/roberda08.shtml; W (2-0); 1 ;2;2;1;0;0;0;1.00;4;17;13;7;5;1;2;2;1;0;;0;0;-0.300; 3.47;-0.15%; 2.94; -0.9
+
+Pitching away
+Josh Fleming;/players/f/flemijo01.shtml;Josh Fleming; 5 ;3;0;0;2;2;0;3.68;19;67;41;20;4;17;9;6;6;0;61;;;0.295; 1.06; 0.17%; 1.04; 2.5
+Kevin Kelly;/players/k/kellyke02.shtml; H (4); 0.2;1;0;0;0;0;0;4.84;3;10;7;5;0;2;1;2;2;0;;0;0;0.028; 1.61; 0.02%; 1.59; 0.2
+Jake Diekman;/players/d/diekmja01.shtml; H (3); 0.1;0;0;0;0;1;0;7.90;1;4;3;0;0;3;0;0;0;0;;1;0;0.060; 2.10; 0.03%; 2.07; 0.3
+Ryan Thompson;/players/t/thompry02.shtml; BS (2); 1 ;1;2;2;0;1;1;6.43;5;14;10;5;1;4;2;1;0;0;;0;0;-0.283; 1.33;-0.17%; 1.31; -1.5
+Colin Poche;/players/p/pocheco01.shtml; H (6); 1 ;0;0;0;0;2;0;1.72;3;14;8;2;2;4;0;1;0;0;;0;0;0.090; 1.17; 0.05%; 1.15; 0.5
+Jason Adam;/players/a/adamja01.shtml; BS (3); 1 ;1;3;3;1;2;1;3.00;6;21;11;4;2;5;0;2;0;0;;0;0;-0.458; 2.01;-0.27%; 1.98; -2.5
+Pete Fairbanks;/players/f/fairbpe01.shtml; L (0-1); 0.1;2;3;2;0;1;1;2.25;3;11;9;6;2;1;0;2;1;0;;0;0;-0.800; 4.53;-0.47%; 4.47; -2.1
+
+indiv_events
+
+Balks: None.
+WP: Josh Fleming (2); Kodai Senga (5).
+HBP: Ryan Thompson (2; Mark Canha); Adam Ottavino (3; Luke Raley); Jason Adam (3; Starling Marte).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Josh Fleming (2); Kodai Senga (5).
+HBP: Ryan Thompson (2; Mark Canha); Adam Ottavino (3; Luke Raley); Jason Adam (3; Starling Marte).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: LF - (none), RF - (none).
+Time of Game: 3:11.
+Attendance: 29,695.
+Field Condition: Unknown.
+Start Time Weather: 60° F, Wind 11mph in from Leftfield, Sunny, No Precipitation.
+
+div_lineups
+Rays
+1;Josh Lowe;/players/l/lowejo01.shtml;RF
+2;Wander Franco;/players/f/francwa01.shtml;SS
+3;Randy Arozarena;/players/a/arozara01.shtml;DH
+4;Brandon Lowe;/players/l/lowebr01.shtml;2B
+5;Isaac Paredes;/players/p/paredis01.shtml;1B
+6;Taylor Walls;/players/w/wallsta01.shtml;3B
+7;Luke Raley;/players/r/raleylu01.shtml;LF
+8;Francisco Mejía;/players/m/mejiafr01.shtml;C
+9;Jose Siri;/players/s/sirijo01.shtml;CF
+; Josh Fleming;/players/f/flemijo01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Eduardo Escobar;/players/e/escobed01.shtml;2B
+3;Francisco Lindor;/players/l/lindofr01.shtml;SS
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Tommy Pham;/players/p/phamth01.shtml;DH
+6;Starling Marte;/players/m/martest01.shtml;RF
+7;Mark Canha;/players/c/canhama01.shtml;LF
+8;Mark Vientos;/players/v/vientma01.shtml;3B
+9;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+; Kodai Senga;/players/s/sengako01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b10;5-7;1;1-3;2,(0-1) CX;RRR;NYM;Pete Alonso;Pete Fairbanks;79%;100%;Home Run (Fly Ball to Deep LF-CF); Nimmo Scores/unER; McNeil Scores
+b9;2-5;2;12-;2,(1-0) BX;RRR;NYM;Francisco Alvarez;Jason Adam;49%;54%;Home Run (Fly Ball to Deep LF-CF); Vogelbach Scores; Marte Scores
+b7;0-2;1;1--;2,(0-1) CX;RR;NYM;Mark Vientos;Ryan Thompson;33%;55%;Home Run (Fly Ball to Deep CF); Canha Scores
+t8;2-2;0;-2-;4,(1-2) 1C>C.*BX;RR;TBR;Brandon Lowe;Adam Ottavino;-23%;14%;Home Run (Fly Ball to Deep RF); Arozarena Scores
+t10;6-5;2;-2-;2,(0-1) CX;RO;TBR;Josh Lowe;David Robertson;-19%;20%;Single to RF (Line Drive to Deep CF-RF); Ramírez Scores; Lowe out at 2B/RF-C-SS
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Rays Batting, Tied 0-0, Mets' Kodai Senga facing 1-2-3 
+t1;0-0;0;---;5,(2-2) CCBBS;O;TBR;Josh Lowe;Kodai Senga;2%;52%;Strikeout Swinging
+t1;0-0;1;---;6,(3-2) SBBFBB;;TBR;Wander Franco;Kodai Senga;-2%;50%;Walk
+t1;0-0;1;1--;1,(0-0) 1>C;;TBR;Randy Arozarena;Kodai Senga;-2%;48%;Franco Steals 2B
+t1;0-0;1;-2-;4,(2-1) 1>C.*BBX;O;TBR;Randy Arozarena;Kodai Senga;3%;52%;Lineout: LF
+t1;0-0;2;-2-;4,(1-2) FFB*S;O;TBR;Brandon Lowe;Kodai Senga;3%;55%;Strikeout Swinging; Lowe out at 1B/C-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rays 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Rays' Josh Fleming facing 1-2-3 
+b1;0-0;0;---;5,(2-2) BBCCS;O;NYM;Brandon Nimmo;Josh Fleming;-2%;53%;Strikeout Swinging
+b1;0-0;1;---;5,(3-1) BFBBB;;NYM;Eduardo Escobar;Josh Fleming;2%;55%;Walk
+b1;0-0;1;1--;1,(0-0) B;;NYM;Francisco Lindor;Josh Fleming;2%;57%;Wild Pitch; Escobar to 2B
+b1;0-0;1;-2-;2,(1-0) B.X;;NYM;Francisco Lindor;Josh Fleming;5%;61%;Single to RF (Line Drive); Escobar to 3B
+b1;0-0;1;1-3;1,(0-0) X;OO;NYM;Pete Alonso;Josh Fleming;-11%;50%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rays 0, Mets 0.
+Top of the 2nd, Rays Batting, Tied 0-0, Mets' Kodai Senga facing 5-6-7 
+t2;0-0;0;---;1,(0-0) X;;TBR;Isaac Paredes;Kodai Senga;-4%;46%;Single to LF (Line Drive to Deep SS-3B Hole)
+t2;0-0;0;1--;5,(2-2) CBBFT;O;TBR;Taylor Walls;Kodai Senga;4%;50%;Strikeout Swinging
+t2;0-0;1;1--;6,(2-2) S*BBSF*S;O;TBR;Luke Raley;Kodai Senga;3%;53%;Strikeout Swinging
+t2;0-0;2;1--;4,(1-2) C*BCC;O;TBR;Francisco Mejía;Kodai Senga;2%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rays 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Rays' Josh Fleming facing 5-6-7 
+b2;0-0;0;---;2,(1-0) BX;;NYM;Tommy Pham;Josh Fleming;4%;59%;Single to RF (Ground Ball)
+b2;0-0;0;1--;2,(0-1) FX;O;NYM;Starling Marte;Josh Fleming;-3%;55%;Lineout: RF (Deep RF)
+b2;0-0;1;1--;3,(0-2) CCX;O;NYM;Mark Canha;Josh Fleming;-3%;52%;Groundout: 2B unassisted/Forceout at 2B (SS-2B); Canha to 1B
+;;;;;;;;;Force Play Challenged by NYM manager (Buck Showalter): Original call overturned as shown.
+b2;0-0;2;1--;6,(1-2) BSSFFX;O;NYM;Mark Vientos;Josh Fleming;-2%;50%;Groundout: SS-2B/Forceout at 2B; Vientos to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rays 0, Mets 0.
+Top of the 3rd, Rays Batting, Tied 0-0, Mets' Kodai Senga facing 9-1-2 
+t3;0-0;0;---;3,(1-1) CBX;O;TBR;Jose Siri;Kodai Senga;3%;53%;Flyball: LF (Deep LF-CF)
+t3;0-0;1;---;8,(3-2) BBCFFBFS;O;TBR;Josh Lowe;Kodai Senga;2%;54%;Strikeout Swinging
+t3;0-0;2;---;6,(0-2) CSFFF*S;O;TBR;Wander Franco;Kodai Senga;1%;56%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 0, Mets 0.
+Bottom of the 3rd, Mets Batting, Tied 0-0, Rays' Josh Fleming facing 9-1-2 
+b3;0-0;0;---;4,(2-1) CBBX;O;NYM;Francisco Alvarez;Josh Fleming;-3%;53%;Groundout: SS-1B
+b3;0-0;1;---;3,(1-1) BCX;O;NYM;Brandon Nimmo;Josh Fleming;-2%;51%;Groundout: 1B unassisted (2B-1B)
+b3;0-0;2;---;6,(3-2) BC.CBBX;O;NYM;Eduardo Escobar;Josh Fleming;-1%;50%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 0, Mets 0.
+Top of the 4th, Rays Batting, Tied 0-0, Mets' Kodai Senga facing 3-4-5 
+t4;0-0;0;---;4,(1-2) BFCS;O;TBR;Randy Arozarena;Kodai Senga;3%;53%;Strikeout Swinging
+t4;0-0;1;---;1,(0-0) X;;TBR;Brandon Lowe;Kodai Senga;-5%;48%;Double to RF (Line Drive to RF Line)
+t4;0-0;1;-2-;3,(1-1) C*BX;R;TBR;Isaac Paredes;Kodai Senga;-12%;36%;Ground-rule Double (Fly Ball to Deep CF-RF); Lowe Scores
+t4;1-0;1;-2-;2,(0-1) FB;;TBR;Taylor Walls;Kodai Senga;-3%;33%;Wild Pitch; Paredes to 3B
+t4;1-0;1;--3;6,(3-2) FB.BFBS;O;TBR;Taylor Walls;Kodai Senga;6%;39%;Strikeout Swinging
+t4;1-0;2;--3;5,(1-2) *SSFBS;O;TBR;Luke Raley;Kodai Senga;4%;43%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Rays 1, Mets 0.
+Bottom of the 4th, Mets Batting, Behind 0-1, Rays' Josh Fleming facing 3-4-5 
+b4;0-1;0;---;4,(1-2) CC.BS;O;NYM;Francisco Lindor;Josh Fleming;-3%;40%;Strikeout Swinging
+b4;0-1;1;---;6,(3-2) CCBBBX;O;NYM;Pete Alonso;Josh Fleming;-2%;37%;Lineout: LF (Deep LF-CF)
+b4;0-1;2;---;6,(3-2) BBBCFB;;NYM;Tommy Pham;Josh Fleming;2%;39%;Walk
+b4;0-1;2;1--;2,(0-1) CX;;NYM;Starling Marte;Josh Fleming;3%;42%;Single to RF (Line Drive to RF Line); Pham to 2B
+b4;0-1;2;12-;3,(1-1) BCX;O;NYM;Mark Canha;Josh Fleming;-6%;36%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Rays 1, Mets 0.
+Top of the 5th, Rays Batting, Ahead 1-0, Mets' Kodai Senga facing 8-9-1 
+t5;1-0;0;---;1,(0-0) X;O;TBR;Francisco Mejía;Kodai Senga;2%;38%;Flyball: RF (Deep RF)
+t5;1-0;1;---;4,(2-1) BBCX;O;TBR;Jose Siri;Kodai Senga;2%;40%;Groundout: SS-1B
+t5;1-0;2;---;3,(1-1) BFX;O;TBR;Josh Lowe;Kodai Senga;1%;41%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 1, Mets 0.
+Bottom of the 5th, Mets Batting, Behind 0-1, Rays' Josh Fleming facing 8-9-1 
+b5;0-1;0;---;1,(0-0) X;O;NYM;Mark Vientos;Josh Fleming;-3%;38%;Groundout: 2B-1B (SS-2B)
+b5;0-1;1;---;3,(1-1) CBX;O;NYM;Francisco Alvarez;Josh Fleming;-2%;35%;Groundout: SS-1B
+b5;0-1;2;---;3,(1-1) BCX;O;NYM;Brandon Nimmo;Josh Fleming;-2%;34%;Lineout: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 1, Mets 0.
+Top of the 6th, Rays Batting, Ahead 1-0, Mets' Kodai Senga facing 2-3-4 
+t6;1-0;0;---;5,(3-1) FBBBB;;TBR;Wander Franco;Kodai Senga;-4%;30%;Walk
+t6;1-0;0;1--;1,(0-0) 1>S;;TBR;Randy Arozarena;Kodai Senga;-3%;27%;Franco Steals 2B
+t6;1-0;0;-2-;4,(1-2) 1>S.*S*BC;O;TBR;Randy Arozarena;Kodai Senga;5%;32%;Strikeout Looking
+t6;1-0;1;-2-;8,(3-2) *S*BBFFBFB;;TBR;Brandon Lowe;Kodai Senga;-2%;30%;Walk
+t6;1-0;1;12-;2,(0-1) FX;O;TBR;Isaac Paredes;Kodai Senga;5%;35%;Foul Popfly: 1B (1B into Foul Terr.)
+t6;1-0;2;12-;6,(3-2) FBCBB>C;O;TBR;Taylor Walls;Kodai Senga;5%;39%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Rays 1, Mets 0.
+Bottom of the 6th, Mets Batting, Behind 0-1, Rays' Kevin Kelly facing 2-3-4 
+;;;;;;;;;Kevin Kelly replaces Josh Fleming pitchingJeff McNeil pinch hits for Eduardo Escobar (2B) batting 2nd
+b6;0-1;0;---;4,(1-2) ..CBFX;O;NYM;Jeff McNeil;Kevin Kelly;-4%;35%;Lineout: CF (Deep LF-CF)
+b6;0-1;1;---;3,(2-0) BBX;;NYM;Francisco Lindor;Kevin Kelly;4%;40%;Single to RF (Line Drive to Deep RF)
+b6;0-1;1;1--;3,(0-2) CFX;O;NYM;Pete Alonso;Kevin Kelly;-3%;37%;Groundout: 2B-1B (SS-2B); Lindor to 2B
+;;;;;;;;;Jake Diekman replaces Kevin Kelly pitchingDaniel Vogelbach pinch hits for Tommy Pham (DH) batting 5th
+b6;0-1;2;-2-;4,(1-2) ..BCCC;O;NYM;Daniel Vogelbach;Jake Diekman;-6%;31%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rays 1, Mets 0.
+Top of the 7th, Rays Batting, Ahead 1-0, Mets' Jeff Brigham facing 7-8-9 
+;;;;;;;;;Jeff Brigham replaces Kodai Senga pitchingJeff McNeil moves from PH to 2B 
+t7;1-0;0;---;6,(2-2) ...BFBFFC;O;TBR;Luke Raley;Jeff Brigham;2%;33%;Strikeout Looking
+t7;1-0;1;---;3,(0-2) SSS;O;TBR;Francisco Mejía;Jeff Brigham;2%;35%;Strikeout Swinging
+t7;1-0;2;---;4,(1-2) BCFX;R;TBR;Jose Siri;Jeff Brigham;-14%;21%;Home Run (Fly Ball to Deep CF-RF)
+t7;2-0;2;---;5,(3-1) FBBBB;;TBR;Josh Lowe;Jeff Brigham;-1%;20%;Walk
+t7;2-0;2;1--;1,(0-0) >B;;TBR;Wander Franco;Jeff Brigham;-1%;19%;Lowe Steals 2B
+t7;2-0;2;-2-;4,(2-1) >B.C+2BX;O;TBR;Wander Franco;Jeff Brigham;2%;22%;Groundout: P-1B (Weak 2B-1B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Rays 2, Mets 0.
+Bottom of the 7th, Mets Batting, Behind 0-2, Rays' Ryan Thompson facing 6-7-8 
+;;;;;;;;;Ryan Thompson replaces Jake Diekman pitching
+b7;0-2;0;---;4,(0-2) .CFFS;O;NYM;Starling Marte;Ryan Thompson;-4%;18%;Strikeout Swinging
+b7;0-2;1;---;3,(1-1) BCH;;NYM;Mark Canha;Ryan Thompson;5%;22%;Hit By Pitch
+b7;0-2;1;1--;2,(0-1) CX;RR;NYM;Mark Vientos;Ryan Thompson;33%;55%;Home Run (Fly Ball to Deep CF); Canha Scores
+b7;2-2;1;---;2,(1-0) BX;O;NYM;Francisco Alvarez;Ryan Thompson;-3%;52%;Groundout: SS-1B
+b7;2-2;2;---;3,(1-1) CBX;O;NYM;Brandon Nimmo;Ryan Thompson;-2%;50%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Rays 2, Mets 2.
+Top of the 8th, Rays Batting, Tied 2-2, Mets' Adam Ottavino facing 3-4-5 
+;;;;;;;;;Adam Ottavino replaces Jeff Brigham pitching
+t8;2-2;0;---;5,(3-1) .BBBCB;;TBR;Randy Arozarena;Adam Ottavino;-7%;43%;Walk
+t8;2-2;0;1--;2,(0-1) 1C>C;;TBR;Brandon Lowe;Adam Ottavino;-6%;37%;Arozarena Steals 2B
+;;;;;;;;;Tag play Challenged by NYM manager (Buck Showalter): Original call upheld upon review.
+t8;2-2;0;-2-;4,(1-2) 1C>C.*BX;RR;TBR;Brandon Lowe;Adam Ottavino;-23%;14%;Home Run (Fly Ball to Deep RF); Arozarena Scores
+t8;4-2;0;---;2,(0-1) CX;O;TBR;Isaac Paredes;Adam Ottavino;1%;15%;Flyball: LF (Deep LF-CF)
+t8;4-2;1;---;3,(1-1) BCX;;TBR;Taylor Walls;Adam Ottavino;-1%;13%;Single to CF (Line Drive to LF-CF)
+t8;4-2;1;1--;1,(0-0) H;;TBR;Luke Raley;Adam Ottavino;-2%;12%;Hit By Pitch; Walls to 2B
+t8;4-2;1;12-;3,(0-2) SCS;O;TBR;Francisco Mejía;Adam Ottavino;2%;14%;Strikeout Swinging
+t8;4-2;2;12-;1,(0-0) >S;;TBR;Jose Siri;Adam Ottavino;-1%;13%;Walls Steals 3B; Raley Steals 2B
+t8;4-2;2;-23;3,(0-2) >S.CC;O;TBR;Jose Siri;Adam Ottavino;3%;16%;Strikeout Looking
+;;;;;;;;;2 runs, 2 hits, 0 errors, 2 LOB. Rays 4, Mets 2.
+Bottom of the 8th, Mets Batting, Behind 2-4, Rays' Colin Poche facing 2-3-4 
+;;;;;;;;;Colin Poche replaces Ryan Thompson pitching
+b8;2-4;0;---;6,(3-2) .BBBCCS;O;NYM;Jeff McNeil;Colin Poche;-4%;12%;Strikeout Swinging
+b8;2-4;1;---;5,(2-2) BCF.BS;O;NYM;Francisco Lindor;Colin Poche;-3%;9%;Strikeout Swinging
+b8;2-4;2;---;3,(1-1) BCX;O;NYM;Pete Alonso;Colin Poche;-2%;7%;Foul Popfly: 3B (3B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 4, Mets 2.
+Top of the 9th, Rays Batting, Ahead 4-2, Mets' Stephen Nogosek facing 1-2-3 
+;;;;;;;;;Stephen Nogosek replaces Adam Ottavino pitching
+t9;4-2;0;---;3,(1-1) .BFX;;TBR;Josh Lowe;Stephen Nogosek;-2%;5%;Double to RF (Line Drive to Deep RF Line)
+t9;4-2;0;-2-;6,(3-2) C*BBFBX;O;TBR;Wander Franco;Stephen Nogosek;0%;5%;Groundout: 1B-P; Lowe to 3B
+t9;4-2;1;--3;4,(2-1) *BFBX;R;TBR;Randy Arozarena;Stephen Nogosek;-2%;3%;Single to SS (Ground Ball); Lowe Scores
+t9;5-2;1;1--;7,(3-2) 1BFBC1F*B>B;;TBR;Brandon Lowe;Stephen Nogosek;0%;3%;Walk; Arozarena to 2B
+t9;5-2;1;12-;4,(1-2) BFC.X;O;TBR;Isaac Paredes;Stephen Nogosek;1%;3%;Groundout: 3B-2B/Forceout at 2B (Weak 3B); Arozarena to 3B; Paredes to 1B
+t9;5-2;2;1-3;7,(3-2) C*BCBB>F>S;O;TBR;Taylor Walls;Stephen Nogosek;1%;4%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Rays 5, Mets 2.
+Bottom of the 9th, Mets Batting, Behind 2-5, Rays' Jason Adam facing 5-6-7 
+;;;;;;;;;Jason Adam replaces Colin Poche pitching
+b9;2-5;0;---;4,(3-0) .BBBB;;NYM;Daniel Vogelbach;Jason Adam;5%;9%;Walk
+b9;2-5;0;1--;4,(1-2) CFBH;;NYM;Starling Marte;Jason Adam;9%;18%;Hit By Pitch; Vogelbach to 2B
+;;;;;;;;;Brett Baty pinch hits for Mark Canha (LF) batting 7th
+b9;2-5;0;12-;4,(1-2) .CBFS;O;NYM;Brett Baty;Jason Adam;-8%;10%;Strikeout Swinging
+b9;2-5;1;12-;3,(1-1) BCX;O;NYM;Mark Vientos;Jason Adam;-6%;4%;Flyball: CF
+b9;2-5;2;12-;2,(1-0) BX;RRR;NYM;Francisco Alvarez;Jason Adam;49%;54%;Home Run (Fly Ball to Deep LF-CF); Vogelbach Scores; Marte Scores
+b9;5-5;2;---;4,(1-2) CBCS;O;NYM;Brandon Nimmo;Jason Adam;-4%;50%;Strikeout Swinging
+;;;;;;;;;3 runs, 1 hit, 0 errors, 0 LOB. Rays 5, Mets 5.
+Top of the 10th, Rays Batting, Tied 5-5, Mets' David Robertson facing 7-8-9 
+;;;;;;;;;David Robertson replaces Stephen Nogosek pitchingBrett Baty moves from PH to LF Taylor Walls running at second base to start the extra inning
+t10;5-5;0;-2-;3,(0-2) ...SF>B;;TBR;Luke Raley;David Robertson;-8%;42%;Walls Steals 3B
+t10;5-5;0;--3;8,(3-2) ...SF>B.FBFBX;O;TBR;Luke Raley;David Robertson;10%;52%;Popfly: SS (Weak SS)
+;;;;;;;;;Harold Ramírez pinch hits for Francisco Mejía (C) batting 8th
+t10;5-5;1;--3;4,(1-2) .S*B*SX;R;TBR;Harold Ramírez;David Robertson;-15%;37%;Single to CF (Ground Ball thru SS-2B); Walls Scores/unER
+t10;6-5;1;1--;3,(0-2) SS.X;O;TBR;Jose Siri;David Robertson;2%;39%;Groundout: 3B-1B (SS-3B Hole); Ramírez to 2B
+t10;6-5;2;-2-;2,(0-1) CX;RO;TBR;Josh Lowe;David Robertson;-19%;20%;Single to RF (Line Drive to Deep CF-RF); Ramírez Scores; Lowe out at 2B/RF-C-SS
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Rays 7, Mets 5.
+Bottom of the 10th, Mets Batting, Behind 5-7, Rays' Pete Fairbanks facing 2-3-4 
+;;;;;;;;;Pete Fairbanks replaces Jason Adam pitchingChristian Bethancourt replaces Harold Ramírez (PH) playing C batting 8thBrandon Nimmo running at second base to start the extra inning
+b10;5-7;0;-2-;5,(2-2) ...BF*BSX;;NYM;Jeff McNeil;Pete Fairbanks;16%;36%;Single to RF (Line Drive to Short CF-RF); Nimmo to 3B
+b10;5-7;0;1-3;4,(0-2) FFF*S;O;NYM;Francisco Lindor;Pete Fairbanks;-15%;22%;Strikeout Swinging
+b10;5-7;1;1-3;2,(0-1) CX;RRR;NYM;Pete Alonso;Pete Fairbanks;79%;100%;Home Run (Fly Ball to Deep LF-CF); Nimmo Scores/unER; McNeil Scores
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Rays 7, Mets 8.

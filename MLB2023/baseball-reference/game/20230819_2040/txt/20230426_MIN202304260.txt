@@ -1,0 +1,268 @@
+
+Scorebox Meta
+20230426
+12:10 p.m. Local
+20511
+Target Field
+147
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;5;0;6;0;0;0;1;0;12;14;0
+https://cdn.ssref.net/req/202308101/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;0;1;0;2;0;2;1;0;0;6;5;2
+
+Batting home
+Max Kepler;/players/k/keplema01.shtml;RF;4;0;0;1;0;1;4;.204;.259;.388;.647;10;8;-0.065; 0.71;0.000;-0.065;-0.04%; 0.81; -0.7;2;0;
+Carlos Correa;/players/c/correca01.shtml;SS;2;0;0;0;0;0;2;.200;.270;.338;.607;7;5;-0.058; 0.81;0.000;-0.058;-0.04%; 0.91; -0.7;3;0;GDP
+Ryan Jeffers;/players/j/jeffery01.shtml;C;2;0;0;0;0;1;2;.294;.368;.500;.868;7;5;-0.011; 0.20;0.000;-0.011;-0.01%; 0.21; -0.5;6;0;
+Trevor Larnach;/players/l/larnatr01.shtml;LF;3;1;0;0;1;2;4;.235;.351;.395;.746;13;9;-0.014; 0.18;0.003;-0.017;-0.01%; 0.20; -0.1;5;0;
+Jose Miranda;/players/m/miranjo01.shtml;DH;3;3;2;3;0;0;4;.240;.305;.323;.628;11;8;0.065; 0.20;0.067;-0.002; 0.04%; 0.22; 2.6;;;2·HR,HBP
+Joey Gallo;/players/g/gallojo01.shtml;1B-CF;4;1;1;2;0;2;4;.262;.367;.810;1.177;13;9;-0.012; 0.26;0.013;-0.024;-0.01%; 0.29; 1.3;3;0;HR
+Donovan Solano;/players/s/solando01.shtml;2B;4;0;1;0;0;2;4;.286;.348;.365;.713;11;10;0.014; 0.20;0.021;-0.007; 0.01%; 0.22; -0.3;0;1;
+Nick Gordon;/players/g/gordoni01.shtml;CF-SS;4;1;1;0;0;0;4;.115;.132;.192;.324;18;12;-0.007; 0.33;0.019;-0.026;-0.01%; 0.37; 0.3;2;0;3B
+Christian Vázquez;/players/v/vazquch01.shtml;C-1B;4;0;0;0;0;3;4;.259;.344;.315;.659;15;11;-0.036; 0.31;0.000;-0.036;-0.02%; 0.35; -1.1;5;1;
+Willi Castro;/players/c/castrwi01.shtml;3B;1;0;0;0;2;0;3;.161;.297;.323;.620;17;9;0.042; 0.39;0.045;-0.002; 0.03%; 0.44; 0.5;1;1;
+Kenta Maeda;/players/m/maedake01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brent Headrick;/players/h/headrbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Emilio Pagán;/players/p/paganem01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+3B: Nick Gordon (1, off Domingo Germán).
+
+
+HR: Jose Miranda 2 (2, 2 off Domingo Germán, 2nd inn, 0 on, 0 outs to Deep LF; 4th inn, 1 on, 0 outs to Deep LF-CF); Joey Gallo (7, off Domingo Germán, 6th inn, 1 on, 2 outs to Deep RF Line).
+
+
+HBP: Jose Miranda (1, by Domingo Germán).
+
+
+TB: Jose Miranda 8; Joey Gallo 4; Nick Gordon 3; Donovan Solano.
+
+
+GIDP: Carlos Correa (2).
+
+
+RBI: Jose Miranda 3 (11); Joey Gallo 2 (14); Max Kepler (5).
+
+
+2-out RBI: Joey Gallo 2.
+
+
+Team LOB: 2.
+With RISP: 0 for 2.
+
+Batting away
+Anthony Volpe;/players/v/volpean01.shtml;SS;3;3;2;3;2;1;5;.228;.358;.354;.712;20;9;0.091; 0.75;0.113;-0.022; 0.05%; 0.67; 2.4;2;3;2B
+Aaron Judge;/players/j/judgeaa01.shtml;DH;4;1;3;3;1;1;5;.267;.358;.522;.881;23;13;0.149; 0.52;0.172;-0.023; 0.08%; 0.46; 2.2;;;2·2B,CS
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;5;1;2;2;0;1;5;.292;.379;.517;.895;16;14;-0.010; 0.36;0.026;-0.036;-0.01%; 0.33; 1.4;6;1;2B
+DJ LeMahieu;/players/l/lemahdj01.shtml;3B;4;0;0;1;0;2;5;.280;.353;.467;.820;15;10;-0.046; 0.36;0.003;-0.049;-0.03%; 0.32; -1.3;0;1;SF
+Gleyber Torres;/players/t/torregl01.shtml;2B;5;2;2;2;0;1;5;.266;.392;.443;.835;24;17;0.095; 0.27;0.104;-0.009; 0.05%; 0.24; 1.9;1;4;HR,2B
+Willie Calhoun;/players/c/calhowi01.shtml;RF;5;1;2;1;0;1;5;.226;.273;.258;.531;19;10;0.047; 0.26;0.048;-0.001; 0.03%; 0.23; 0.1;0;0;
+Franchy Cordero;/players/c/cordefr02.shtml;RF;0;0;0;0;0;0;0;.160;.192;.420;.612;;;;;;;;;;2;0;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;CF;5;1;1;0;0;2;5;.179;.238;.179;.418;21;14;0.037; 0.35;0.050;-0.012; 0.02%; 0.32; -0.1;3;0;
+Kyle Higashioka;/players/h/higasky01.shtml;C;5;1;1;0;0;2;5;.171;.194;.343;.537;16;11;-0.037; 0.43;0.014;-0.051;-0.02%; 0.38; -0.7;11;0;
+Oswaldo Cabrera;/players/c/cabreos01.shtml;LF;3;2;1;0;1;0;4;.216;.244;.297;.541;11;6;0.092; 0.60;0.094;-0.002; 0.05%; 0.54; 1.5;1;0;
+Domingo Germán;/players/g/germado01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Ian Hamilton;/players/h/hamilia01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Clay Holmes;/players/h/holmecl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Aaron Judge 2 (5, 2 off Kenta Maeda); Gleyber Torres (3, off Kenta Maeda); Anthony Volpe (2, off Kenta Maeda); Anthony Rizzo (5, off Kenta Maeda).
+
+
+HR: Gleyber Torres (3, off Brent Headrick, 4th inn, 1 on, 1 out to Deep LF-CF).
+
+
+SF: DJ LeMahieu (1, off Brent Headrick).
+
+
+TB: Gleyber Torres 6; Aaron Judge 5; Anthony Volpe 3; Anthony Rizzo 3; Willie Calhoun 2; Kyle Higashioka; Oswaldo Cabrera; Isiah Kiner-Falefa.
+
+
+RBI: Anthony Volpe 3 (7); Aaron Judge 3 (14); Anthony Rizzo 2 (13); Gleyber Torres 2 (9); Willie Calhoun (2); DJ LeMahieu (10).
+
+
+Team LOB: 5.
+With RISP: 6 for 11.
+
+Pitching home
+Kenta Maeda;/players/m/maedake01.shtml; L (0-4); 3 ;11;10;10;2;2;0;9.00;21;71;46;29;5;12;6;11;7;0;-3;;;-0.413; 0.84;-0.28%; 0.94; -8.1
+Brent Headrick;/players/h/headrbr01.shtml;Brent Headrick; 5 ;3;2;2;2;8;1;3.24;20;84;51;30;12;9;2;8;1;0;;1;1;-0.006; 0.05;-0.00%; 0.05; 0.2
+Emilio Pagán;/players/p/paganem01.shtml;Emilio Pagán; 1 ;0;0;0;0;1;0;7.00;3;10;7;3;2;2;0;2;0;0;;0;0;0.001; 0.01; 0.00%; 0.01; 0.5
+
+Pitching away
+Domingo Germán;/players/g/germado01.shtml; W (2-2); 6 ;5;6;6;2;8;3;5.54;25;84;60;27;17;16;4;10;3;0;44;;;0.049; 0.39; 0.03%; 0.35; -2.8
+Ian Hamilton;/players/h/hamilia01.shtml;Ian Hamilton; 2 ;0;0;0;1;2;0;1.84;7;29;19;12;4;3;4;0;0;0;;1;1;0.030; 0.28; 0.02%; 0.25; 1.0
+Clay Holmes;/players/h/holmecl01.shtml;Clay Holmes; 1 ;0;0;0;0;1;0;3.72;3;9;7;3;2;2;0;2;1;0;;0;0;0.003; 0.04; 0.00%; 0.04; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Domingo Germán (1; Jose Miranda).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Domingo Germán (1; Jose Miranda).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Chad Whitson, 1B - Roberto Ortiz, 2B - Rob Drake, 3B - Bill Miller, LF - (none), RF - (none).
+Time of Game: 2:27.
+Attendance: 20,511.
+Field Condition: Unknown.
+Start Time Weather: 50° F, Wind 6mph from Right to Left, Sunny, No Precipitation.
+
+div_lineups
+Yankees
+1;Anthony Volpe;/players/v/volpean01.shtml;SS
+2;Aaron Judge;/players/j/judgeaa01.shtml;DH
+3;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+4;DJ LeMahieu;/players/l/lemahdj01.shtml;3B
+5;Gleyber Torres;/players/t/torregl01.shtml;2B
+6;Willie Calhoun;/players/c/calhowi01.shtml;RF
+7;Isiah Kiner-Falefa;/players/k/kineris01.shtml;CF
+8;Kyle Higashioka;/players/h/higasky01.shtml;C
+9;Oswaldo Cabrera;/players/c/cabreos01.shtml;LF
+; Domingo Germán;/players/g/germado01.shtml;P
+Twins
+1;Max Kepler;/players/k/keplema01.shtml;RF
+2;Carlos Correa;/players/c/correca01.shtml;SS
+3;Trevor Larnach;/players/l/larnatr01.shtml;LF
+4;Jose Miranda;/players/m/miranjo01.shtml;DH
+5;Joey Gallo;/players/g/gallojo01.shtml;1B
+6;Donovan Solano;/players/s/solando01.shtml;2B
+7;Nick Gordon;/players/g/gordoni01.shtml;CF
+8;Christian Vázquez;/players/v/vazquch01.shtml;C
+9;Willi Castro;/players/c/castrwi01.shtml;3B
+; Kenta Maeda;/players/m/maedake01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;2-0;1;123;2,(1-0) BX;RRR;NYY;Aaron Judge;Kenta Maeda;13%;90%;Double to LF (Line Drive to LF Line); Kiner-Falefa Scores; Cabrera Scores; Volpe Scores
+t2;0-0;0;---;2,(0-1) SX;;NYY;Gleyber Torres;Kenta Maeda;9%;59%;Double to CF (Ground Ball); Torres to 3B/Adv on E8 (throw)
+t2;1-0;1;123;3,(1-1) BSX;R;NYY;Anthony Volpe;Kenta Maeda;8%;77%;Single to RF (Line Drive); Calhoun Scores; Kiner-Falefa to 3B; Cabrera to 2B
+b2;0-5;0;---;1,(0-0) X;R;MIN;Jose Miranda;Domingo Germán;-6%;82%;Home Run (Fly Ball to Deep LF)
+t2;1-0;1;12-;4,(3-0) BBBB;;NYY;Oswaldo Cabrera;Kenta Maeda;5%;69%;Walk; Calhoun to 3B; Kiner-Falefa to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Yankees Batting, Tied 0-0, Twins' Kenta Maeda facing 1-2-3 
+t1;0-0;0;---;4,(1-2) FBFS;O;NYY;Anthony Volpe;Kenta Maeda;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;5,(2-2) .STBBX;;NYY;Aaron Judge;Kenta Maeda;4%;52%;Double to LF (Line Drive to Deep LF Line)
+t1;0-0;1;-2-;3,(0-2) CCX;O;NYY;Anthony Rizzo;Kenta Maeda;-3%;49%;Lineout: RF (Deep RF); Judge to 3B
+t1;0-0;2;--3;1,(0-0) X;O;NYY;DJ LeMahieu;Kenta Maeda;-4%;45%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 0, Twins 0.
+Bottom of the 1st, Twins Batting, Tied 0-0, Yankees' Domingo Germán facing 1-2-3 
+b1;0-0;0;---;4,(1-2) BCFS;O;MIN;Max Kepler;Domingo Germán;2%;47%;Strikeout Swinging
+b1;0-0;1;---;2,(0-1) SX;O;MIN;Carlos Correa;Domingo Germán;2%;49%;Groundout: 3B-1B
+b1;0-0;2;---;4,(0-2) CSFS;O;MIN;Trevor Larnach;Domingo Germán;1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Twins 0.
+Top of the 2nd, Yankees Batting, Tied 0-0, Twins' Kenta Maeda facing 5-6-7 
+t2;0-0;0;---;2,(0-1) SX;;NYY;Gleyber Torres;Kenta Maeda;9%;59%;Double to CF (Ground Ball); Torres to 3B/Adv on E8 (throw)
+t2;0-0;0;--3;2,(1-0) BX;R;NYY;Willie Calhoun;Kenta Maeda;4%;64%;Single to 1B (Ground Ball); Torres Scores
+t2;1-0;0;1--;1,(0-0) X;;NYY;Isiah Kiner-Falefa;Kenta Maeda;5%;69%;Single to 2B (Bunt to Short 1B Line); Calhoun to 2B
+t2;1-0;0;12-;1,(0-0) X;O;NYY;Kyle Higashioka;Kenta Maeda;-5%;64%;Lineout: CF (Deep CF)
+t2;1-0;1;12-;4,(3-0) BBBB;;NYY;Oswaldo Cabrera;Kenta Maeda;5%;69%;Walk; Calhoun to 3B; Kiner-Falefa to 2B
+t2;1-0;1;123;3,(1-1) BSX;R;NYY;Anthony Volpe;Kenta Maeda;8%;77%;Single to RF (Line Drive); Calhoun Scores; Kiner-Falefa to 3B; Cabrera to 2B
+t2;2-0;1;123;2,(1-0) BX;RRR;NYY;Aaron Judge;Kenta Maeda;13%;90%;Double to LF (Line Drive to LF Line); Kiner-Falefa Scores; Cabrera Scores; Volpe Scores
+t2;5-0;1;-2-;4,(1-2) CCB>B;O;NYY;Anthony Rizzo;Kenta Maeda;-2%;88%;Judge Caught Stealing 3B (C-3B)
+t2;5-0;2;---;6,(2-2) CCB>B..FS;O;NYY;Anthony Rizzo;Kenta Maeda;0%;87%;Strikeout Swinging
+;;;;;;;;;5 runs, 5 hits, 1 error, 0 LOB. Yankees 5, Twins 0.
+Bottom of the 2nd, Twins Batting, Behind 0-5, Yankees' Domingo Germán facing 4-5-6 
+b2;0-5;0;---;1,(0-0) X;R;MIN;Jose Miranda;Domingo Germán;-6%;82%;Home Run (Fly Ball to Deep LF)
+b2;1-5;0;---;3,(1-1) CBX;O;MIN;Joey Gallo;Domingo Germán;2%;84%;Flyball: CF (Short CF-RF)
+b2;1-5;1;---;1,(0-0) X;;MIN;Donovan Solano;Domingo Germán;-2%;82%;Single to CF (Line Drive)
+b2;1-5;1;1--;7,(2-2) SFF.BBFX;O;MIN;Nick Gordon;Domingo Germán;2%;84%;Flyball: LF
+b2;1-5;2;1--;4,(1-2) SBFS;O;MIN;Christian Vázquez;Domingo Germán;2%;86%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Yankees 5, Twins 1.
+Top of the 3rd, Yankees Batting, Ahead 5-1, Twins' Kenta Maeda facing 4-5-6 
+t3;5-1;0;---;3,(1-1) CBX;O;NYY;DJ LeMahieu;Kenta Maeda;-1%;85%;Groundout: 3B-1B (SS-3B Hole)
+t3;5-1;1;---;6,(1-2) CCBFFX;O;NYY;Gleyber Torres;Kenta Maeda;-1%;84%;Popfly: SS
+t3;5-1;2;---;6,(3-2) BBCBCX;;NYY;Willie Calhoun;Kenta Maeda;1%;85%;Single to CF (Line Drive to Deep CF)
+t3;5-1;2;1--;7,(3-2) FCBBFB>X;O;NYY;Isiah Kiner-Falefa;Kenta Maeda;-1%;84%;Flyball: LF (Deep LF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 5, Twins 1.
+Bottom of the 3rd, Twins Batting, Behind 1-5, Yankees' Domingo Germán facing 9-1-2 
+b3;1-5;0;---;7,(3-2) CBFBBF.B;;MIN;Willi Castro;Domingo Germán;-3%;80%;Walk
+b3;1-5;0;1--;1,(0-0) X;O;MIN;Max Kepler;Domingo Germán;3%;83%;Flyball: CF (Deep CF)
+b3;1-5;1;1--;5,(2-2) CBSBX;OO;MIN;Carlos Correa;Domingo Germán;4%;88%;Ground Ball Double Play: SS-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 5, Twins 1.
+Top of the 4th, Yankees Batting, Ahead 5-1, Twins' Kenta Maeda facing 8-9-1 
+t4;5-1;0;---;1,(0-0) X;;NYY;Kyle Higashioka;Kenta Maeda;1%;89%;Single to LF (Ground Ball thru SS-3B Hole)
+t4;5-1;0;1--;2,(0-1) FX;;NYY;Oswaldo Cabrera;Kenta Maeda;4%;93%;Single to P (Bunt); Higashioka to 3B/Adv on E1 (throw); Cabrera to 2B
+t4;5-1;0;-23;3,(1-1) BFX;RR;NYY;Anthony Volpe;Kenta Maeda;3%;96%;Double to CF (Fly Ball to Deep LF-CF); Higashioka Scores; Cabrera Scores
+t4;7-1;0;-2-;6,(3-2) BBFCBB;;NYY;Aaron Judge;Kenta Maeda;0%;97%;Walk
+t4;7-1;0;12-;3,(0-2) CTX;RR;NYY;Anthony Rizzo;Kenta Maeda;2%;99%;Double to RF (Line Drive to Deep CF-RF); Volpe Scores; Judge Scores
+;;;;;;;;;Brent Headrick replaces Kenta Maeda pitching
+t4;9-1;0;-2-;4,(1-2) B.CFS;O;NYY;DJ LeMahieu;Brent Headrick;0%;98%;Strikeout Swinging
+t4;9-1;1;-2-;7,(2-2) FBBF.FFX;RR;NYY;Gleyber Torres;Brent Headrick;1%;99%;Home Run (Fly Ball to Deep LF-CF); Rizzo Scores
+t4;11-1;1;---;3,(2-0) BBX;O;NYY;Willie Calhoun;Brent Headrick;0%;99%;Groundout: 2B-1B (2B-1B)
+t4;11-1;2;---;7,(2-2) BFFFFBC;O;NYY;Isiah Kiner-Falefa;Brent Headrick;0%;99%;Strikeout Looking
+;;;;;;;;;6 runs, 5 hits, 1 error, 0 LOB. Yankees 11, Twins 1.
+Bottom of the 4th, Twins Batting, Behind 1-11, Yankees' Domingo Germán facing 3-4-5 
+b4;1-11;0;---;5,(3-1) BBBC*B;;MIN;Trevor Larnach;Domingo Germán;0%;99%;Walk
+b4;1-11;0;1--;3,(0-2) FCX;RR;MIN;Jose Miranda;Domingo Germán;-1%;98%;Home Run (Fly Ball to Deep LF-CF); Larnach Scores
+b4;3-11;0;---;4,(1-2) SFBS;O;MIN;Joey Gallo;Domingo Germán;0%;98%;Strikeout Swinging
+b4;3-11;1;---;2,(0-1) CX;O;MIN;Donovan Solano;Domingo Germán;0%;99%;Lineout: SS
+b4;3-11;2;---;4,(2-1) BBSX;O;MIN;Nick Gordon;Domingo Germán;0%;99%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Yankees 11, Twins 3.
+Top of the 5th, Yankees Batting, Ahead 11-3, Twins' Brent Headrick facing 8-9-1 
+t5;11-3;0;---;4,(1-2) BFSS;O;NYY;Kyle Higashioka;Brent Headrick;0%;99%;Strikeout Swinging
+t5;11-3;1;---;2,(0-1) FX;O;NYY;Oswaldo Cabrera;Brent Headrick;0%;99%;Flyball: SS (Deep SS-2B)
+t5;11-3;2;---;6,(3-2) BCBSBB;;NYY;Anthony Volpe;Brent Headrick;0%;99%;Walk
+t5;11-3;2;1--;6,(2-2) BBSSFX;;NYY;Aaron Judge;Brent Headrick;0%;99%;Single to LF (Line Drive to Deep LF); Volpe to 2B
+t5;11-3;2;12-;3,(0-2) C*SX;O;NYY;Anthony Rizzo;Brent Headrick;0%;99%;Popfly: SS
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Yankees 11, Twins 3.
+Bottom of the 5th, Twins Batting, Behind 3-11, Yankees' Domingo Germán facing 8-9-1 
+b5;3-11;0;---;3,(0-2) CF.S;O;MIN;Christian Vázquez;Domingo Germán;0%;99%;Strikeout Swinging
+b5;3-11;1;---;2,(0-1) SX;O;MIN;Willi Castro;Domingo Germán;0%;99%;Lineout: CF
+b5;3-11;2;---;3,(1-1) CBX;O;MIN;Max Kepler;Domingo Germán;0%;99%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 11, Twins 3.
+Top of the 6th, Yankees Batting, Ahead 11-3, Twins' Brent Headrick facing 4-5-6 
+;;;;;;;;;Ryan Jeffers replaces Carlos Correa (SS) playing C batting 2ndChristian Vázquez moves from C to 1B Nick Gordon moves from CF to SS Joey Gallo moves from 1B to CF 
+t6;11-3;0;---;5,(2-2) ....BFBC.T;O;NYY;DJ LeMahieu;Brent Headrick;0%;99%;Strikeout Swinging
+t6;11-3;1;---;5,(2-2) BFBF*S;O;NYY;Gleyber Torres;Brent Headrick;0%;99%;Strikeout Swinging
+t6;11-3;2;---;6,(3-2) FBFBBS;O;NYY;Willie Calhoun;Brent Headrick;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 11, Twins 3.
+Bottom of the 6th, Twins Batting, Behind 3-11, Yankees' Domingo Germán facing 2-3-4 
+b6;3-11;0;---;4,(1-2) CSBC;O;MIN;Ryan Jeffers;Domingo Germán;0%;99%;Strikeout Looking
+b6;3-11;1;---;3,(0-2) CSS;O;MIN;Trevor Larnach;Domingo Germán;0%;99%;Strikeout Swinging
+b6;3-11;2;---;3,(1-1) BFH;;MIN;Jose Miranda;Domingo Germán;0%;99%;Hit By Pitch
+b6;3-11;2;1--;1,(0-0) X;RR;MIN;Joey Gallo;Domingo Germán;-1%;98%;Home Run (Fly Ball to Deep RF Line); Miranda Scores
+b6;5-11;2;---;4,(0-2) CSFC;O;MIN;Donovan Solano;Domingo Germán;0%;98%;Strikeout Looking
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Yankees 11, Twins 5.
+Top of the 7th, Yankees Batting, Ahead 11-5, Twins' Brent Headrick facing 7-8-9 
+t7;11-5;0;---;1,(0-0) X;O;NYY;Isiah Kiner-Falefa;Brent Headrick;0%;98%;Flyball: RF (Deep CF-RF)
+t7;11-5;1;---;7,(3-2) CBBFBFC;O;NYY;Kyle Higashioka;Brent Headrick;0%;98%;Strikeout Looking
+t7;11-5;2;---;3,(1-1) CBX;O;NYY;Oswaldo Cabrera;Brent Headrick;0%;98%;Flyball: LF (Short LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 11, Twins 5.
+Bottom of the 7th, Twins Batting, Behind 5-11, Yankees' Domingo Germán facing 7-8-9 
+b7;5-11;0;---;4,(2-1) CBBX;;MIN;Nick Gordon;Domingo Germán;-2%;96%;Triple to CF (Fly Ball to Deep CF-RF)
+;;;;;;;;;Ian Hamilton replaces Domingo Germán pitching
+b7;5-11;0;--3;6,(2-2) .FFFBBC;O;MIN;Christian Vázquez;Ian Hamilton;1%;97%;Strikeout Looking
+b7;5-11;1;--3;8,(3-2) TBFFB*BF*B;;MIN;Willi Castro;Ian Hamilton;-1%;96%;Walk
+b7;5-11;1;1-3;2,(0-1) CX;RO;MIN;Max Kepler;Ian Hamilton;1%;97%;Groundout: 2B-SS/Forceout at 2B (Deep 2B-1B); Gordon Scores; Kepler to 1B
+b7;6-11;2;1--;3,(1-1) FB1X;O;MIN;Ryan Jeffers;Ian Hamilton;1%;98%;Groundout: SS-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Yankees 11, Twins 6.
+Top of the 8th, Yankees Batting, Ahead 11-6, Twins' Brent Headrick facing 1-2-3 
+t8;11-6;0;---;4,(3-0) BBBB;;NYY;Anthony Volpe;Brent Headrick;0%;98%;Walk
+t8;11-6;0;1--;4,(1-2) SBS.C;O;NYY;Aaron Judge;Brent Headrick;0%;98%;Strikeout Looking
+t8;11-6;1;1--;1,(0-0) X;;NYY;Anthony Rizzo;Brent Headrick;1%;99%;Single to 2B (Ground Ball); Volpe to 3B
+t8;11-6;1;1-3;2,(1-0) BX;RO;NYY;DJ LeMahieu;Brent Headrick;0%;99%;Flyball: LF/Sacrifice Fly (Deep LF Line); Volpe Scores
+t8;12-6;2;1--;4,(2-1) BBSX;O;NYY;Gleyber Torres;Brent Headrick;0%;99%;Flyball: LF (Deep LF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Yankees 12, Twins 6.
+Bottom of the 8th, Twins Batting, Behind 6-12, Yankees' Ian Hamilton facing 3-4-5 
+b8;6-12;0;---;1,(0-0) X;O;MIN;Trevor Larnach;Ian Hamilton;0%;99%;Groundout: 2B-1B (Deep 2B)
+b8;6-12;1;---;4,(1-2) SC.BX;O;MIN;Jose Miranda;Ian Hamilton;0%;100%;Groundout: 2B-1B
+b8;6-12;2;---;5,(2-2) BBSSS;O;MIN;Joey Gallo;Ian Hamilton;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 12, Twins 6.
+Top of the 9th, Yankees Batting, Ahead 12-6, Twins' Emilio Pagán facing 6-7-8 
+;;;;;;;;;Emilio Pagán replaces Brent Headrick pitching
+t9;12-6;0;---;2,(0-1) .CX;O;NYY;Willie Calhoun;Emilio Pagán;0%;100%;Flyball: CF (Deep LF-CF)
+t9;12-6;1;---;5,(2-2) BCBSS;O;NYY;Isiah Kiner-Falefa;Emilio Pagán;0%;100%;Strikeout Swinging
+t9;12-6;2;---;3,(1-1) BFX;O;NYY;Kyle Higashioka;Emilio Pagán;0%;100%;Flyball: LF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 12, Twins 6.
+Bottom of the 9th, Twins Batting, Behind 6-12, Yankees' Clay Holmes facing 6-7-8 
+;;;;;;;;;Clay Holmes replaces Ian Hamilton pitchingFranchy Cordero replaces Willie Calhoun playing RF batting 6th
+b9;6-12;0;---;4,(1-2) ..CSBS;O;MIN;Donovan Solano;Clay Holmes;0%;100%;Strikeout Swinging
+b9;6-12;1;---;3,(0-2) CFX;O;MIN;Nick Gordon;Clay Holmes;0%;100%;Flyball: RF (Deep RF)
+b9;6-12;2;---;2,(1-0) BX;O;MIN;Christian Vázquez;Clay Holmes;0%;100%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 12, Twins 6.

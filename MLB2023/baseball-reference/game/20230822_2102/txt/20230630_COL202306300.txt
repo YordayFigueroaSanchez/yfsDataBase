@@ -1,0 +1,256 @@
+
+Scorebox Meta
+20230630
+6:10 p.m. Local
+47239
+Coors Field
+145
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;0;0;1;2;0;0;0;2;0;5;9;1
+https://cdn.ssref.net/req/202308101/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;5;0;0;0;3;0;0;X;8;11;2
+
+Batting home
+Jurickson Profar;/players/p/profaju01.shtml;DH;5;0;2;2;0;1;5;.241;.322;.378;.700;27;18;0.025; 0.59;0.072;-0.047;0%; 0.01; 0.7;;;
+Kris Bryant;/players/b/bryankr01.shtml;RF;4;0;0;0;0;1;4;.258;.339;.366;.705;21;14;-0.052; 0.44;0.000;-0.052;-0.00%; 0.01; -1.5;1;0;GDP
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;3;0;2;0;1;1;4;.268;.350;.478;.828;23;13;0.020; 0.24;0.024;-0.004;0%; 0.01; 0.6;0;3;
+Elias Díaz;/players/d/diazel01.shtml;C;4;0;1;0;0;1;4;.286;.340;.459;.799;15;11;-0.054; 0.48;0.013;-0.067;0%; 0.01; -1.2;10;0;
+C.J. Cron;/players/c/croncj01.shtml;1B;3;2;1;0;1;1;4;.235;.284;.416;.700;19;8;0.047; 0.47;0.057;-0.010; 0.00%; 0.01; 0.3;10;1;
+Nolan Jones;/players/j/jonesno01.shtml;LF;4;2;2;0;0;1;4;.315;.398;.528;.926;14;11;0.076; 0.64;0.083;-0.007; 0.00%; 0.01; 0.9;0;0;
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;4;2;2;3;0;1;4;.269;.303;.441;.744;10;9;0.128; 0.88;0.150;-0.022; 0.00%; 0.01; 2.2;1;5;HR
+Harold Castro;/players/c/castrha01.shtml;2B;4;1;1;2;0;0;4;.271;.289;.337;.626;12;9;0.068; 0.65;0.088;-0.020; 0.00%; 0.01; 0.5;2;3;
+Brenton Doyle;/players/d/doylebr02.shtml;CF;3;1;0;0;0;1;4;.213;.270;.363;.633;16;10;0.037; 0.36;0.049;-0.012;0%; 0.01; 0.7;2;0;SB,SH
+Austin Gomber;/players/g/gombeau01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Jake Bird;/players/b/birdja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Pierce Johnson;/players/j/johnspi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Ezequiel Tovar (8, off Chasen Shreve, 6th inn, 2 on, 0 outs to Deep LF Line).
+
+
+SH: Brenton Doyle (1, off Michael Lorenzen).
+
+
+TB: Ezequiel Tovar 5; Nolan Jones 2; Jurickson Profar 2; Ryan McMahon 2; Harold Castro; Elias Díaz; C.J. Cron.
+
+
+GIDP: Kris Bryant (3).
+
+
+RBI: Ezequiel Tovar 3 (39); Jurickson Profar 2 (30); Harold Castro 2 (22).
+
+
+Team LOB: 5.
+With RISP: 4 for 6.
+
+Batting away
+Matt Vierling;/players/v/vierlma01.shtml;RF-CF;4;0;1;0;0;1;4;.273;.336;.411;.748;10;8;-0.069; 1.08;0.034;-0.103;-0.02%; 0.47; -1.2;6;0;GDP
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;4;1;1;1;0;0;4;.223;.304;.390;.694;14;11;-0.050; 0.89;0.015;-0.065;-0.01%; 0.39; -0.2;4;1;
+Andy Ibáñez;/players/i/ibanean01.shtml;3B;4;1;2;2;0;0;4;.239;.275;.423;.698;11;9;0.075; 0.72;0.105;-0.030; 0.02%; 0.31; 1.9;0;2;HR
+Javier Báez;/players/b/baezja01.shtml;SS;4;1;1;0;0;2;4;.227;.263;.329;.592;14;10;-0.071; 0.96;0.031;-0.102;-0.02%; 0.42; -0.7;0;1;
+Jake Rogers;/players/r/rogerja03.shtml;C;3;1;1;0;0;2;3;.200;.299;.455;.755;12;7;-0.008; 1.50;0.074;-0.083;-0.00%; 0.65; 0.1;7;1;
+Kerry Carpenter;/players/c/carpeke01.shtml;PH-RF;1;0;0;0;0;1;1;.267;.317;.489;.805;6;4;-0.017; 0.63;0.000;-0.017;-0.00%; 0.27; -0.2;1;0;
+Miguel Cabrera;/players/c/cabremi01.shtml;DH;4;0;1;1;0;1;4;.236;.320;.318;.637;9;8;0.050; 0.97;0.107;-0.057; 0.01%; 0.42; 0.7;;;
+Zach McKinstry;/players/m/mckinza01.shtml;LF-RF-LF;3;0;0;0;1;1;4;.244;.332;.367;.699;15;8;-0.014; 0.88;0.043;-0.056;-0.00%; 0.38; -0.2;1;0;
+Zack Short;/players/s/shortza01.shtml;2B;4;0;1;0;0;1;4;.226;.291;.368;.659;17;12;-0.037; 0.90;0.025;-0.061;-0.01%; 0.39; -0.5;2;1;
+Jake Marisnick;/players/m/marisja01.shtml;CF;2;1;1;0;0;1;2;.207;.258;.310;.568;6;6;-0.033; 1.17;0.041;-0.074;-0.01%; 0.51; 0.1;1;0;SB
+Eric Haase;/players/h/haaseer01.shtml;PH-LF-C;2;0;0;0;0;0;2;.218;.269;.310;.579;9;7;-0.031; 0.66;0.012;-0.043;-0.01%; 0.28; -0.3;1;0;GDP
+Michael Lorenzen;/players/l/lorenmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Chasen Shreve;/players/s/shrevch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Mason Englert;/players/e/englema01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+HR: Andy Ibáñez (6, off Jake Bird, 8th inn, 1 on, 0 outs to Deep LF).
+
+
+TB: Andy Ibáñez 5; Jake Marisnick; Spencer Torkelson; Javier Báez; Zack Short; Jake Rogers; Matt Vierling; Miguel Cabrera.
+
+
+GIDP: Eric Haase (6); Matt Vierling (3).
+
+
+RBI: Andy Ibáñez 2 (17); Spencer Torkelson (40); Miguel Cabrera (12).
+
+
+Team LOB: 4.
+With RISP: 1 for 7.
+
+Pitching home
+Austin Gomber;/players/g/gombeau01.shtml; W (6-7); 7 ;6;3;2;1;7;0;6.64;28;84;60;27;9;24;13;7;3;0;61;;;0.174; 1.06; 0.00%; 0.02; 1.2
+Jake Bird;/players/b/birdja01.shtml;Jake Bird; 1 ;2;2;2;0;2;1;3.44;5;24;19;12;4;3;2;1;0;0;;0;0;-0.010; 0.58; 0.00%; 0.01; -1.4
+Pierce Johnson;/players/j/johnspi01.shtml; S (13); 1 ;1;0;0;0;1;0;6.00;3;15;11;7;1;3;1;1;1;0;;0;0;0.041; 0.80; 0.00%; 0.02; 0.6
+
+Pitching away
+Michael Lorenzen;/players/l/lorenmi01.shtml; L (2-6); 5 ;7;5;5;1;4;0;4.28;22;95;63;40;9;14;7;10;6;0;36;;;-0.180; 0.72;-0.05%; 0.31; -2.0
+Chasen Shreve;/players/s/shrevch01.shtml;Chasen Shreve; 0.2;3;3;3;1;1;1;5.16;6;24;14;8;1;5;2;2;0;0;;0;0;-0.132; 0.45;-0.03%; 0.19; -2.7
+Mason Englert;/players/e/englema01.shtml;Mason Englert; 2.1;1;0;0;0;3;0;4.50;9;38;26;15;5;6;3;3;1;0;;1;0;0.017; 0.11; 0.01%; 0.05; 1.5
+
+indiv_events
+
+Balks: None.
+WP: Austin Gomber (3).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Austin Gomber (3).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - D.J. Reyburn, 1B - Clint Vondrak, 2B - John Libka, 3B - James Hoye, LF - (none), RF - (none).
+Time of Game: 2:25.
+Attendance: 47,239.
+Field Condition: Unknown.
+Start Time Weather: 66° F, Wind 4mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Tigers
+1;Matt Vierling;/players/v/vierlma01.shtml;RF
+2;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+3;Andy Ibáñez;/players/i/ibanean01.shtml;3B
+4;Javier Báez;/players/b/baezja01.shtml;SS
+5;Jake Rogers;/players/r/rogerja03.shtml;C
+6;Miguel Cabrera;/players/c/cabremi01.shtml;DH
+7;Zach McKinstry;/players/m/mckinza01.shtml;LF
+8;Zack Short;/players/s/shortza01.shtml;2B
+9;Jake Marisnick;/players/m/marisja01.shtml;CF
+; Michael Lorenzen;/players/l/lorenmi01.shtml;P
+Rockies
+1;Jurickson Profar;/players/p/profaju01.shtml;DH
+2;Kris Bryant;/players/b/bryankr01.shtml;RF
+3;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+4;Elias Díaz;/players/d/diazel01.shtml;C
+5;C.J. Cron;/players/c/croncj01.shtml;1B
+6;Nolan Jones;/players/j/jonesno01.shtml;LF
+7;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+8;Harold Castro;/players/c/castrha01.shtml;2B
+9;Brenton Doyle;/players/d/doylebr02.shtml;CF
+; Austin Gomber;/players/g/gombeau01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t4;1-5;0;12-;1,(0-0) X;R;DET;Miguel Cabrera;Austin Gomber;-11%;67%;Single to RF (Ground Ball); Báez Scores; Rogers to 3B
+b2;0-0;0;123;1,(0-0) X;RR;COL;Harold Castro;Michael Lorenzen;9%;80%;Single to LF (Line Drive to LF-CF); Cron Scores; Jones Scores; Tovar to 2B
+b6;5-3;0;12-;1,(0-0) X;RRR;COL;Ezequiel Tovar;Chasen Shreve;8%;97%;Home Run (Fly Ball to Deep LF Line); Cron Scores; Jones Scores
+t4;3-5;1;1-3;4,(0-2) S1SFT;O;DET;Jake Marisnick;Austin Gomber;7%;72%;Strikeout Swinging
+b2;2-0;0;123;7,(2-2) BCBFFFX;RR;COL;Jurickson Profar;Michael Lorenzen;7%;91%;Single to RF (Line Drive to RF Line); Tovar Scores; Castro Scores; Doyle to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Tigers Batting, Tied 0-0, Rockies' Austin Gomber facing 1-2-3 
+t1;0-0;0;---;2,(0-1) CX;;DET;Matt Vierling;Austin Gomber;-3%;47%;Single to CF (Line Drive)
+t1;0-0;0;1--;1,(0-0) X;O;DET;Spencer Torkelson;Austin Gomber;3%;50%;Flyball: RF (CF-RF)
+t1;0-0;1;1--;2,(0-1) CX;;DET;Andy Ibáñez;Austin Gomber;-6%;44%;Single to CF (Line Drive); Vierling to 3B
+t1;0-0;1;1-3;4,(1-2) CS*B1S;O;DET;Javier Báez;Austin Gomber;6%;50%;Strikeout Swinging
+t1;0-0;2;1-3;6,(3-2) BBCB*S>C;O;DET;Jake Rogers;Austin Gomber;5%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Tigers 0, Rockies 0.
+Bottom of the 1st, Rockies Batting, Tied 0-0, Tigers' Michael Lorenzen facing 1-2-3 
+b1;0-0;0;---;3,(1-1) CBX;O;COL;Jurickson Profar;Michael Lorenzen;-2%;53%;Flyball: RF (Deep RF)
+b1;0-0;1;---;4,(2-1) BCBX;O;COL;Kris Bryant;Michael Lorenzen;-2%;51%;Groundout: 3B-1B
+b1;0-0;2;---;7,(3-2) BBBSC.FB;;COL;Ryan McMahon;Michael Lorenzen;1%;52%;Walk
+b1;0-0;2;1--;6,(3-2) BCBFB>X;O;COL;Elias Díaz;Michael Lorenzen;-2%;50%;Lineout: RF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Tigers 0, Rockies 0.
+Top of the 2nd, Tigers Batting, Tied 0-0, Rockies' Austin Gomber facing 6-7-8 
+t2;0-0;0;---;2,(0-1) CX;O;DET;Miguel Cabrera;Austin Gomber;2%;52%;Groundout: SS-1B
+t2;0-0;1;---;3,(1-1) CBX;O;DET;Zach McKinstry;Austin Gomber;2%;54%;Popfly: SS
+t2;0-0;2;---;3,(0-2) CFX;O;DET;Zack Short;Austin Gomber;1%;55%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Rockies 0.
+Bottom of the 2nd, Rockies Batting, Tied 0-0, Tigers' Michael Lorenzen facing 5-6-7 
+b2;0-0;0;---;4,(2-1) CBBX;;COL;C.J. Cron;Michael Lorenzen;4%;59%;Single to LF (Line Drive)
+b2;0-0;0;1--;3,(1-1) *BSX;;COL;Nolan Jones;Michael Lorenzen;5%;64%;Single to LF (Ground Ball); Cron to 2B
+b2;0-0;0;12-;3,(0-2) CSX;;COL;Ezequiel Tovar;Michael Lorenzen;7%;71%;Single to RF (Fly Ball to Short CF-RF); Cron to 3B; Jones to 2B
+b2;0-0;0;123;1,(0-0) X;RR;COL;Harold Castro;Michael Lorenzen;9%;80%;Single to LF (Line Drive to LF-CF); Cron Scores; Jones Scores; Tovar to 2B
+b2;2-0;0;12-;1,(0-0) X;;COL;Brenton Doyle;Michael Lorenzen;4%;84%;Fielder's Choice /Sacrifice Bunt; Tovar to 3B; Castro to 2B; Doyle to 1B
+b2;2-0;0;123;7,(2-2) BCBFFFX;RR;COL;Jurickson Profar;Michael Lorenzen;7%;91%;Single to RF (Line Drive to RF Line); Tovar Scores; Castro Scores; Doyle to 3B
+b2;4-0;0;1-3;3,(1-1) CBX;ROO;COL;Kris Bryant;Michael Lorenzen;-2%;89%;Ground Ball Double Play: SS-2B-1B; Doyle Scores/No RBI
+b2;5-0;2;---;8,(3-2) SF.BFBBFS;O;COL;Ryan McMahon;Michael Lorenzen;0%;89%;Strikeout Swinging
+;;;;;;;;;5 runs, 5 hits, 0 errors, 0 LOB. Tigers 0, Rockies 5.
+Top of the 3rd, Tigers Batting, Behind 0-5, Rockies' Austin Gomber facing 9-1-2 
+t3;0-5;0;---;2,(0-1) C.X;;DET;Jake Marisnick;Austin Gomber;-2%;86%;Single to CF (Ground Ball thru SS-2B)
+t3;0-5;0;1--;4,(1-2) CSBC;O;DET;Matt Vierling;Austin Gomber;1%;87%;Strikeout Looking, Marisnick Steals 2B; Marisnick to 3B/Adv on E2 (throw)
+t3;0-5;1;--3;4,(1-2) CS.BX;RO;DET;Spencer Torkelson;Austin Gomber;0%;87%;Groundout: 3B-1B (SS-3B Hole); Marisnick Scores/unER
+t3;1-5;2;---;1,(0-0) X;O;DET;Andy Ibáñez;Austin Gomber;1%;88%;Groundout: SS-1B
+;;;;;;;;;1 run, 1 hit, 1 error, 0 LOB. Tigers 1, Rockies 5.
+Bottom of the 3rd, Rockies Batting, Ahead 5-1, Tigers' Michael Lorenzen facing 4-5-6 
+b3;5-1;0;---;1,(0-0) X;;COL;Elias Díaz;Michael Lorenzen;1%;89%;Single to LF (Ground Ball thru SS-3B Hole)
+b3;5-1;0;1--;2,(1-0) *BB;O;COL;C.J. Cron;Michael Lorenzen;-2%;87%;Baserunner Out Advancing; Díaz out at 2B/C-2B
+b3;5-1;1;---;5,(3-1) *BB.CBX;O;COL;C.J. Cron;Michael Lorenzen;-1%;86%;Groundout: 3B-1B
+b3;5-1;2;---;4,(0-2) CFFX;O;COL;Nolan Jones;Michael Lorenzen;-1%;86%;Groundout: 1B-P
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Tigers 1, Rockies 5.
+Top of the 4th, Tigers Batting, Behind 1-5, Rockies' Austin Gomber facing 4-5-6 
+t4;1-5;0;---;3,(1-1) CBX;;DET;Javier Báez;Austin Gomber;-3%;83%;Single to CF (Ground Ball thru SS-2B)
+t4;1-5;0;1--;1,(0-0) X;;DET;Jake Rogers;Austin Gomber;-5%;78%;Single to LF (Ground Ball thru SS-3B Hole); Báez to 2B
+t4;1-5;0;12-;1,(0-0) X;R;DET;Miguel Cabrera;Austin Gomber;-11%;67%;Single to RF (Ground Ball); Báez Scores; Rogers to 3B
+t4;2-5;0;1-3;2,(1-0) BB;R;DET;Zach McKinstry;Austin Gomber;-3%;65%;Wild Pitch; Rogers Scores/No RBI; Cabrera to 2B
+t4;3-5;0;-2-;5,(3-1) BB.CBB;;DET;Zach McKinstry;Austin Gomber;-4%;60%;Walk
+t4;3-5;0;12-;5,(2-2) *BBFCX;O;DET;Zack Short;Austin Gomber;4%;64%;Flyball: CF (Deep CF); Cabrera to 3B
+t4;3-5;1;1-3;4,(0-2) S1SFT;O;DET;Jake Marisnick;Austin Gomber;7%;72%;Strikeout Swinging
+t4;3-5;2;1-3;2,(0-1) CX;O;DET;Matt Vierling;Austin Gomber;6%;77%;Groundout: 2B-1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Tigers 3, Rockies 5.
+Bottom of the 4th, Rockies Batting, Ahead 5-3, Tigers' Michael Lorenzen facing 7-8-9 
+b4;5-3;0;---;5,(1-2) FFFBC;O;COL;Ezequiel Tovar;Michael Lorenzen;-2%;75%;Strikeout Looking
+b4;5-3;1;---;6,(2-2) BSFFBX;O;COL;Harold Castro;Michael Lorenzen;-1%;74%;Lineout: CF (Deep LF-CF)
+b4;5-3;2;---;4,(2-1) BFBX;O;COL;Brenton Doyle;Michael Lorenzen;-1%;73%;Flyball: RF (RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 3, Rockies 5.
+Top of the 5th, Tigers Batting, Behind 3-5, Rockies' Austin Gomber facing 2-3-4 
+t5;3-5;0;---;2,(1-0) BX;O;DET;Spencer Torkelson;Austin Gomber;3%;76%;Lineout: 1B (2B-1B)
+t5;3-5;1;---;4,(1-2) CFBX;O;DET;Andy Ibáñez;Austin Gomber;2%;78%;Flyball: CF
+t5;3-5;2;---;2,(1-0) BX;O;DET;Javier Báez;Austin Gomber;1%;80%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 3, Rockies 5.
+Bottom of the 5th, Rockies Batting, Ahead 5-3, Tigers' Michael Lorenzen facing 1-2-3 
+b5;5-3;0;---;2,(0-1) CX;O;COL;Jurickson Profar;Michael Lorenzen;-2%;78%;Flyball: RF (CF-RF)
+b5;5-3;1;---;7,(2-2) CF.FBFBS;O;COL;Kris Bryant;Michael Lorenzen;-1%;77%;Strikeout Swinging
+b5;5-3;2;---;6,(2-2) SBF.BFX;;COL;Ryan McMahon;Michael Lorenzen;1%;78%;Single to LF (Line Drive)
+b5;5-3;2;1--;5,(1-2) FC.BFS;O;COL;Elias Díaz;Michael Lorenzen;-2%;76%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Tigers 3, Rockies 5.
+Top of the 6th, Tigers Batting, Behind 3-5, Rockies' Austin Gomber facing 5-6-7 
+t6;3-5;0;---;5,(2-2) CBF.BC;O;DET;Jake Rogers;Austin Gomber;3%;79%;Strikeout Looking
+t6;3-5;1;---;4,(1-2) BCFC;O;DET;Miguel Cabrera;Austin Gomber;2%;82%;Strikeout Looking
+t6;3-5;2;---;1,(0-0) X;O;DET;Zach McKinstry;Austin Gomber;1%;83%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 3, Rockies 5.
+Bottom of the 6th, Rockies Batting, Ahead 5-3, Tigers' Chasen Shreve facing 5-6-7 
+;;;;;;;;;Chasen Shreve replaces Michael Lorenzen pitching
+b6;5-3;0;---;5,(3-1) .BBBCB;;COL;C.J. Cron;Chasen Shreve;2%;85%;Walk
+b6;5-3;0;1--;3,(1-1) C*BX;;COL;Nolan Jones;Chasen Shreve;3%;88%;Single to CF (Ground Ball thru SS-2B); Cron to 2B
+b6;5-3;0;12-;1,(0-0) X;RRR;COL;Ezequiel Tovar;Chasen Shreve;8%;97%;Home Run (Fly Ball to Deep LF Line); Cron Scores; Jones Scores
+b6;8-3;0;---;2,(0-1) CX;O;COL;Harold Castro;Chasen Shreve;0%;96%;Flyball: RF (Deep RF)
+b6;8-3;1;---;5,(2-2) BBFFS;O;COL;Brenton Doyle;Chasen Shreve;0%;96%;Strikeout Swinging
+b6;8-3;2;---;8,(3-2) CBCBBFFX;;COL;Jurickson Profar;Chasen Shreve;0%;96%;Single to SS (Ground Ball)
+;;;;;;;;;Mason Englert replaces Chasen Shreve pitching
+b6;8-3;2;1--;7,(2-2) .*BSBCFFX;O;COL;Kris Bryant;Mason Englert;0%;96%;Groundout: P-1B (Front of Home)
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Tigers 3, Rockies 8.
+Top of the 7th, Tigers Batting, Behind 3-8, Rockies' Austin Gomber facing 8-9-1 
+t7;3-8;0;---;5,(2-2) CCBBC;O;DET;Zack Short;Austin Gomber;1%;97%;Strikeout Looking
+;;;;;;;;;Eric Haase pinch hits for Jake Marisnick (CF) batting 9th
+t7;3-8;1;---;4,(1-2) .SBSX;;DET;Eric Haase;Austin Gomber;-1%;96%;Reached on E6 (throw) (Ground Ball); Haase to 1B
+t7;3-8;1;1--;2,(1-0) BX;OO;DET;Matt Vierling;Austin Gomber;2%;98%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 1 error, 0 LOB. Tigers 3, Rockies 8.
+Bottom of the 7th, Rockies Batting, Ahead 8-3, Tigers' Mason Englert facing 3-4-5 
+;;;;;;;;;Eric Haase moves from PH to LF Matt Vierling moves from RF to CF Zach McKinstry moves from LF to RF 
+b7;8-3;0;---;2,(1-0) ...BX;;COL;Ryan McMahon;Mason Englert;0%;98%;Single to RF (Ground Ball thru 2B-1B)
+b7;8-3;0;1--;3,(0-2) CSX;O;COL;Elias Díaz;Mason Englert;0%;98%;Flyball: CF (Deep CF)
+b7;8-3;1;1--;5,(2-2) S*BBFT;O;COL;C.J. Cron;Mason Englert;0%;98%;Strikeout Swinging
+b7;8-3;2;1--;4,(1-2) FC*B*S;O;COL;Nolan Jones;Mason Englert;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Tigers 3, Rockies 8.
+Top of the 8th, Tigers Batting, Behind 3-8, Rockies' Jake Bird facing 2-3-4 
+;;;;;;;;;Jake Bird replaces Austin Gomber pitching
+t8;3-8;0;---;7,(1-2) .SCBFFFX;;DET;Spencer Torkelson;Jake Bird;-1%;96%;Single to P (Ground Ball to Front of Home)
+t8;3-8;0;1--;4,(1-2) BCCX;RR;DET;Andy Ibáñez;Jake Bird;-5%;92%;Home Run (Fly Ball to Deep LF); Torkelson Scores
+t8;5-8;0;---;5,(1-2) SFFBS;O;DET;Javier Báez;Jake Bird;3%;94%;Strikeout Swinging
+;;;;;;;;;Kerry Carpenter pinch hits for Jake Rogers (C) batting 5th
+t8;5-8;1;---;6,(2-2) .BFFFBS;O;DET;Kerry Carpenter;Jake Bird;2%;96%;Strikeout Swinging
+t8;5-8;2;---;2,(0-1) FX;O;DET;Miguel Cabrera;Jake Bird;1%;97%;Groundout: SS-1B
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Tigers 5, Rockies 8.
+Bottom of the 8th, Rockies Batting, Ahead 8-5, Tigers' Mason Englert facing 7-8-9 
+;;;;;;;;;Eric Haase moves from LF to C Zach McKinstry moves from RF to LF Kerry Carpenter moves from PH to RF 
+b8;8-5;0;---;1,(0-0) ...X;O;COL;Ezequiel Tovar;Mason Englert;0%;96%;Flyball: RF (Deep RF Line)
+b8;8-5;1;---;3,(1-1) BCX;O;COL;Harold Castro;Mason Englert;0%;96%;Lineout: LF (Deep LF)
+b8;8-5;2;---;6,(2-2) BCFBFX;;COL;Brenton Doyle;Mason Englert;0%;96%;Reached on E6 (Ground Ball); Doyle to 1B
+b8;8-5;2;1--;6,(2-2) B1CFBF>B;;COL;Jurickson Profar;Mason Englert;0%;97%;Doyle Steals 2B
+b8;8-5;2;-2-;7,(3-2) B1CFBF>B.S;O;COL;Jurickson Profar;Mason Englert;-1%;96%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Tigers 5, Rockies 8.
+Top of the 9th, Tigers Batting, Behind 5-8, Rockies' Pierce Johnson facing 7-8-9 
+;;;;;;;;;Pierce Johnson replaces Jake Bird pitching
+t9;5-8;0;---;6,(2-2) .CSBBFC;O;DET;Zach McKinstry;Pierce Johnson;2%;98%;Strikeout Looking
+t9;5-8;1;---;4,(1-2) BCFX;;DET;Zack Short;Pierce Johnson;-2%;96%;Single to CF (Line Drive to Deep CF)
+t9;5-8;1;1--;5,(1-2) BFTFX;OO;DET;Eric Haase;Pierce Johnson;4%;100%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Tigers 5, Rockies 8.

@@ -1,0 +1,268 @@
+
+Scorebox Meta
+20230509
+6:40 p.m. Local
+13608
+Chase Field
+149
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/MIA-2023.png;/teams/MIA/2023.shtml;1;3;0;0;2;0;0;0;0;6;9;0
+https://cdn.ssref.net/req/202308101/tlogo/br/ARI-2023.png;/teams/ARI/2023.shtml;0;0;0;1;0;0;0;1;0;2;11;0
+
+Batting home
+Ketel Marte;/players/m/marteke01.shtml;2B;5;0;1;0;0;1;5;.262;.319;.492;.811;15;9;-0.053; 0.63;0.016;-0.069;-0.04%; 0.77; -0.7;1;4;2B
+Emmanuel Rivera;/players/r/riverem01.shtml;DH;3;0;0;0;0;1;3;.371;.389;.543;.932;12;8;-0.050; 0.61;0.000;-0.050;-0.04%; 0.74; -0.7;;;
+Pavin Smith;/players/s/smithpa04.shtml;PH-DH-DH;2;0;1;0;0;1;2;.281;.414;.439;.853;8;6;0.021; 0.41;0.028;-0.007; 0.01%; 0.49; 0.3;;;
+Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF;5;0;1;0;0;2;5;.305;.362;.508;.870;18;12;-0.076; 0.56;0.007;-0.083;-0.06%; 0.68; -1.5;2;0;GDP
+Christian Walker;/players/w/walkech02.shtml;1B;3;1;0;0;1;1;4;.282;.322;.550;.871;17;9;-0.018; 0.51;0.022;-0.040;-0.01%; 0.61; -0.5;8;1;
+Evan Longoria;/players/l/longoev01.shtml;3B;4;1;3;1;0;0;4;.229;.276;.443;.719;12;6;0.069; 0.54;0.082;-0.013; 0.05%; 0.65; 1.6;1;1;HR,2B
+Corbin Carroll;/players/c/carroco02.shtml;CF;4;0;1;0;0;0;4;.299;.364;.521;.886;14;8;-0.058; 0.88;0.014;-0.072;-0.04%; 1.06; -0.6;2;0;
+Nick Ahmed;/players/a/ahmedni01.shtml;SS;4;0;2;1;0;0;4;.243;.254;.329;.582;15;10;0.030; 0.80;0.073;-0.043; 0.02%; 0.97; 0.4;6;4;
+Gabriel Moreno;/players/m/morenga01.shtml;C;3;0;1;0;1;0;4;.315;.330;.402;.732;19;10;0.019; 0.82;0.049;-0.031; 0.01%; 0.99; 0.1;4;1;
+Dominic Fletcher;/players/f/fletcdo01.shtml;RF;4;0;1;0;0;1;4;.370;.414;.444;.858;17;10;-0.096; 1.26;0.022;-0.119;-0.07%; 1.53; -1.0;2;0;
+Brandon Pfaadt;/players/p/pfaadbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kevin Ginkel;/players/g/ginkeke01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Scott McGough;/players/m/mcgousc01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Evan Longoria (3, off Jesús Luzardo); Ketel Marte (8, off Jesús Luzardo).
+
+
+HR: Evan Longoria (4, off Matt Barnes, 8th inn, 0 on, 1 out to Deep LF).
+
+
+TB: Evan Longoria 7; Ketel Marte 2; Nick Ahmed 2; Corbin Carroll; Dominic Fletcher; Gabriel Moreno; Pavin Smith; Lourdes Gurriel Jr..
+
+
+GIDP: Lourdes Gurriel Jr. (5).
+
+
+RBI: Nick Ahmed (9); Evan Longoria (7).
+
+
+2-out RBI: Nick Ahmed.
+
+
+Team LOB: 10.
+With RISP: 2 for 9.
+
+Batting away
+Jazz Chisholm Jr.;/players/c/chishja01.shtml;CF;2;3;1;0;2;0;4;.227;.290;.371;.661;19;8;0.099; 0.79;0.101;-0.002; 0.05%; 0.65; 1.2;1;0;2·SB
+Jorge Soler;/players/s/solerjo01.shtml;DH;4;2;2;5;0;1;4;.234;.310;.516;.825;22;15;0.251; 0.85;0.294;-0.043; 0.12%; 0.70; 3.5;;;2·HR
+Luis Arraez;/players/a/arraelu01.shtml;2B;4;0;1;1;0;0;4;.408;.463;.500;.963;7;6;0.068; 0.42;0.081;-0.012; 0.03%; 0.35; 0.3;2;4;
+Bryan De La Cruz;/players/d/delacbr01.shtml;LF;4;0;1;0;0;1;4;.256;.289;.347;.636;16;13;-0.031; 0.41;0.006;-0.037;-0.01%; 0.34; -0.4;2;0;
+Jesús Sánchez;/players/s/sanchje02.shtml;RF;4;0;2;0;0;1;4;.281;.361;.500;.861;11;8;0.014; 0.33;0.034;-0.020; 0.01%; 0.27; -0.1;3;0;2·2B,GDP
+Yuli Gurriel;/players/g/gourryu01.shtml;1B;4;0;0;0;0;0;4;.256;.295;.402;.698;15;8;-0.065; 0.56;0.000;-0.065;-0.03%; 0.46; -1.3;9;0;
+Joey Wendle;/players/w/wendljo01.shtml;SS;4;0;0;0;0;1;4;.063;.118;.188;.305;16;11;-0.035; 0.34;0.000;-0.035;-0.02%; 0.28; -0.9;3;2;
+Nick Fortes;/players/f/forteni01.shtml;C;4;0;0;0;0;0;4;.200;.253;.243;.496;15;12;-0.025; 0.25;0.000;-0.025;-0.01%; 0.21; -0.6;7;1;
+Jon Berti;/players/b/bertijo01.shtml;3B;4;1;2;0;0;0;4;.275;.328;.376;.704;19;12;0.012; 0.15;0.022;-0.010; 0.01%; 0.13; -0.2;0;1;2B,CS
+Jesús Luzardo;/players/l/luzarje01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Huascar Brazoban;/players/b/brazohu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matt Barnes;/players/b/barnema01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dylan Floro;/players/f/florody01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Jesús Sánchez 2 (8, 1 off Kevin Ginkel, 1 off Brandon Pfaadt); Jon Berti (5, off Brandon Pfaadt).
+
+
+HR: Jorge Soler 2 (9, 2 off Brandon Pfaadt, 2nd inn, 2 on, 2 outs to Deep LF-CF; 5th inn, 1 on, 0 outs to Deep LF-CF).
+
+
+TB: Jorge Soler 8; Jesús Sánchez 4; Jon Berti 3; Luis Arraez; Jazz Chisholm Jr.; Bryan De La Cruz.
+
+
+GIDP: Jesús Sánchez (4).
+
+
+RBI: Jorge Soler 5 (20); Luis Arraez (13).
+
+
+2-out RBI: Jorge Soler 3.
+
+
+Team LOB: 3.
+With RISP: 3 for 6.
+
+Pitching home
+Brandon Pfaadt;/players/p/pfaadbr01.shtml; L (0-1); 5 ;7;6;6;2;3;2;12.10;23;88;58;35;12;11;3;15;5;0;30;;;-0.313; 0.68;-0.23%; 0.83; -3.4
+Kevin Ginkel;/players/g/ginkeke01.shtml;Kevin Ginkel; 2.2;1;0;0;0;1;0;3.86;9;34;23;14;4;5;5;3;2;0;;0;0;0.018; 0.09; 0.01%; 0.11; 1.2
+Scott McGough;/players/m/mcgousc01.shtml;Scott McGough; 1.1;1;0;0;0;0;0;5.40;4;18;13;7;3;3;3;1;0;0;;1;0;0.007; 0.06; 0.01%; 0.07; 0.8
+
+Pitching away
+Jesús Luzardo;/players/l/luzarje01.shtml; W (3-2); 6 ;7;1;1;2;5;0;3.38;27;104;60;35;10;15;8;12;4;0;57;;;0.165; 0.83; 0.08%; 0.68; 2.1
+Huascar Brazoban;/players/b/brazohu01.shtml;Huascar Brazoban; 1 ;0;0;0;0;2;0;2.05;3;10;8;3;3;2;0;1;0;0;;0;0;0.021; 0.27; 0.01%; 0.23; 0.5
+Matt Barnes;/players/b/barnema01.shtml;Matt Barnes; 1 ;2;1;1;0;0;1;3.94;5;20;12;5;1;6;3;2;0;0;;0;0;0.007; 0.27; 0.00%; 0.23; -0.5
+Dylan Floro;/players/f/florody01.shtml;Dylan Floro; 1 ;2;0;0;0;0;0;1.72;4;13;8;8;0;0;3;1;1;0;;0;0;0.019; 0.82; 0.01%; 0.67; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Shane Livensparger, 1B - Dan Bellino, 2B - Phil Cuzzi, 3B - Mark Ripperger, LF - (none), RF - (none).
+Time of Game: 2:29.
+Attendance: 13,608.
+Field Condition: Unknown.
+Start Time Weather: 91° F, Wind 4mph in from Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Marlins
+1;Jazz Chisholm Jr.;/players/c/chishja01.shtml;CF
+2;Jorge Soler;/players/s/solerjo01.shtml;DH
+3;Luis Arraez;/players/a/arraelu01.shtml;2B
+4;Bryan De La Cruz;/players/d/delacbr01.shtml;LF
+5;Jesús Sánchez;/players/s/sanchje02.shtml;RF
+6;Yuli Gurriel;/players/g/gourryu01.shtml;1B
+7;Joey Wendle;/players/w/wendljo01.shtml;SS
+8;Nick Fortes;/players/f/forteni01.shtml;C
+9;Jon Berti;/players/b/bertijo01.shtml;3B
+; Jesús Luzardo;/players/l/luzarje01.shtml;P
+Diamondbacks
+1;Ketel Marte;/players/m/marteke01.shtml;2B
+2;Emmanuel Rivera;/players/r/riverem01.shtml;DH
+3;Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF
+4;Christian Walker;/players/w/walkech02.shtml;1B
+5;Evan Longoria;/players/l/longoev01.shtml;3B
+6;Corbin Carroll;/players/c/carroco02.shtml;CF
+7;Nick Ahmed;/players/a/ahmedni01.shtml;SS
+8;Gabriel Moreno;/players/m/morenga01.shtml;C
+9;Dominic Fletcher;/players/f/fletcdo01.shtml;RF
+; Brandon Pfaadt;/players/p/pfaadbr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;1-0;2;12-;3,(1-1) BFX;RRR;MIA;Jorge Soler;Brandon Pfaadt;23%;82%;Home Run (Fly Ball to Deep LF-CF); Berti Scores; Chisholm Scores
+b4;1-4;2;123;4,(2-1) BCBX;O;ARI;Dominic Fletcher;Jesús Luzardo;8%;84%;Groundout: 3B-1B (Weak SS)
+t1;0-0;1;-2-;3,(1-1) BSX;R;MIA;Luis Arraez;Brandon Pfaadt;8%;60%;Single to CF (Ground Ball thru SS-2B); Chisholm Scores
+t5;4-1;0;-2-;8,(3-2) B1>C.SBFBFX;RR;MIA;Jorge Soler;Brandon Pfaadt;7%;94%;Home Run (Fly Ball to Deep LF-CF); Chisholm Scores
+b4;0-4;2;1-3;3,(0-2) CFX;R;ARI;Nick Ahmed;Jesús Luzardo;-7%;79%;Single to LF (Line Drive to Deep LF); Walker Scores; Carroll to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Marlins Batting, Tied 0-0, Diamondbacks' Brandon Pfaadt facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;;MIA;Jazz Chisholm Jr.;Brandon Pfaadt;4%;54%;Single to RF (Line Drive)
+t1;0-0;0;1--;1,(0-0) >B;;MIA;Jorge Soler;Brandon Pfaadt;2%;56%;Chisholm Steals 2B
+t1;0-0;0;-2-;7,(2-2) >B.CBFFFT;O;MIA;Jorge Soler;Brandon Pfaadt;-4%;52%;Strikeout Swinging
+t1;0-0;1;-2-;3,(1-1) BSX;R;MIA;Luis Arraez;Brandon Pfaadt;8%;60%;Single to CF (Ground Ball thru SS-2B); Chisholm Scores
+t1;1-0;1;1--;2,(0-1) CX;O;MIA;Bryan De La Cruz;Brandon Pfaadt;-3%;57%;Popfly: 2B (Deep 2B)
+t1;1-0;2;1--;4,(2-1) 1BBFX;;MIA;Jesús Sánchez;Brandon Pfaadt;3%;60%;Double to LF (Line Drive to Deep 3B); Arraez to 3B
+t1;1-0;2;-23;7,(3-2) BCBFBFX;O;MIA;Yuli Gurriel;Brandon Pfaadt;-5%;55%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Marlins 1, Diamondbacks 0.
+Bottom of the 1st, Diamondbacks Batting, Behind 0-1, Marlins' Jesús Luzardo facing 1-2-3 
+b1;0-1;0;---;5,(3-1) BFBB.X;O;ARI;Ketel Marte;Jesús Luzardo;2%;58%;Popfly: 1B (Deep 2B-1B)
+b1;0-1;1;---;3,(0-2) CF*S;O;ARI;Emmanuel Rivera;Jesús Luzardo;2%;59%;Strikeout Swinging; Rivera out at 1B/C-1B
+b1;0-1;2;---;6,(3-2) BBFF.BX;O;ARI;Lourdes Gurriel Jr.;Jesús Luzardo;1%;60%;Popfly: SS (Deep SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 1, Diamondbacks 0.
+Top of the 2nd, Marlins Batting, Ahead 1-0, Diamondbacks' Brandon Pfaadt facing 7-8-9 
+t2;1-0;0;---;5,(2-2) SS.BBX;O;MIA;Joey Wendle;Brandon Pfaadt;-2%;58%;Popfly: SS (Deep SS-2B)
+t2;1-0;1;---;2,(0-1) CX;O;MIA;Nick Fortes;Brandon Pfaadt;-2%;57%;Groundout: SS-1B (Deep SS-3B Hole)
+t2;1-0;2;---;5,(2-2) BCFBX;;MIA;Jon Berti;Brandon Pfaadt;2%;59%;Double to RF (Fly Ball to Deep CF-RF)
+t2;1-0;2;-2-;6,(3-2) S*BBFB*B;;MIA;Jazz Chisholm Jr.;Brandon Pfaadt;1%;60%;Walk
+t2;1-0;2;12-;3,(1-1) BFX;RRR;MIA;Jorge Soler;Brandon Pfaadt;23%;82%;Home Run (Fly Ball to Deep LF-CF); Berti Scores; Chisholm Scores
+t2;4-0;2;---;1,(0-0) X;O;MIA;Luis Arraez;Brandon Pfaadt;-1%;82%;Popfly: SS (Deep SS-3B Hole)
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Marlins 4, Diamondbacks 0.
+Bottom of the 2nd, Diamondbacks Batting, Behind 0-4, Marlins' Jesús Luzardo facing 4-5-6 
+b2;0-4;0;---;5,(2-2) CBT.BS;O;ARI;Christian Walker;Jesús Luzardo;2%;84%;Strikeout Swinging
+b2;0-4;1;---;2,(1-0) BX;;ARI;Evan Longoria;Jesús Luzardo;-3%;81%;Double to LF (Ground Ball)
+b2;0-4;1;-2-;4,(2-1) CBBX;O;ARI;Corbin Carroll;Jesús Luzardo;3%;83%;Groundout: 2B-1B (2B-1B); Longoria to 3B
+b2;0-4;2;--3;1,(0-0) X;O;ARI;Nick Ahmed;Jesús Luzardo;3%;86%;Foul Popfly: C (Behind Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 4, Diamondbacks 0.
+Top of the 3rd, Marlins Batting, Ahead 4-0, Diamondbacks' Brandon Pfaadt facing 4-5-6 
+t3;4-0;0;---;4,(1-2) FBSS;O;MIA;Bryan De La Cruz;Brandon Pfaadt;-1%;85%;Strikeout Swinging
+t3;4-0;1;---;3,(0-2) .FSS;O;MIA;Jesús Sánchez;Brandon Pfaadt;-1%;84%;Strikeout Swinging
+t3;4-0;2;---;3,(2-0) BBX;O;MIA;Yuli Gurriel;Brandon Pfaadt;-1%;84%;Popfly: SS (Deep SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 4, Diamondbacks 0.
+Bottom of the 3rd, Diamondbacks Batting, Behind 0-4, Marlins' Jesús Luzardo facing 8-9-1 
+b3;0-4;0;---;5,(2-2) BCFBX;O;ARI;Gabriel Moreno;Jesús Luzardo;2%;86%;Groundout: P-SS-1B
+b3;0-4;1;---;5,(2-2) SSBB*S;O;ARI;Dominic Fletcher;Jesús Luzardo;1%;87%;Strikeout Swinging
+b3;0-4;2;---;2,(0-1) SX;;ARI;Ketel Marte;Jesús Luzardo;-2%;85%;Double to CF (Line Drive to Deep LF-CF)
+b3;0-4;2;-2-;3,(1-1) FBX;O;ARI;Emmanuel Rivera;Jesús Luzardo;2%;88%;Flyball: RF (CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 4, Diamondbacks 0.
+Top of the 4th, Marlins Batting, Ahead 4-0, Diamondbacks' Brandon Pfaadt facing 7-8-9 
+t4;4-0;0;---;3,(1-1) BCX;O;MIA;Joey Wendle;Brandon Pfaadt;-1%;87%;Flyball: LF (Deep LF)
+t4;4-0;1;---;2,(0-1) SX;O;MIA;Nick Fortes;Brandon Pfaadt;-1%;86%;Lineout: 3B (SS-3B Hole)
+t4;4-0;2;---;3,(1-1) CBX;O;MIA;Jon Berti;Brandon Pfaadt;0%;86%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 4, Diamondbacks 0.
+Bottom of the 4th, Diamondbacks Batting, Behind 0-4, Marlins' Jesús Luzardo facing 3-4-5 
+b4;0-4;0;---;3,(0-2) CFC;O;ARI;Lourdes Gurriel Jr.;Jesús Luzardo;2%;88%;Strikeout Looking
+b4;0-4;1;---;6,(3-2) BBFFBB;;ARI;Christian Walker;Jesús Luzardo;-2%;85%;Walk
+b4;0-4;1;1--;3,(1-1) BCX;;ARI;Evan Longoria;Jesús Luzardo;-3%;82%;Single to RF (Line Drive to Short RF); Walker to 2B
+b4;0-4;1;12-;4,(2-1) CB*BX;O;ARI;Corbin Carroll;Jesús Luzardo;4%;86%;Groundout: 2B-SS/Forceout at 2B; Walker to 3B; Carroll to 1B
+b4;0-4;2;1-3;3,(0-2) CFX;R;ARI;Nick Ahmed;Jesús Luzardo;-7%;79%;Single to LF (Line Drive to Deep LF); Walker Scores; Carroll to 2B
+b4;1-4;2;12-;7,(3-2) BBBCF>F>B;;ARI;Gabriel Moreno;Jesús Luzardo;-4%;75%;Walk; Carroll to 3B; Ahmed to 2B
+b4;1-4;2;123;4,(2-1) BCBX;O;ARI;Dominic Fletcher;Jesús Luzardo;8%;84%;Groundout: 3B-1B (Weak SS)
+;;;;;;;;;1 run, 2 hits, 0 errors, 3 LOB. Marlins 4, Diamondbacks 1.
+Top of the 5th, Marlins Batting, Ahead 4-1, Diamondbacks' Brandon Pfaadt facing 1-2-3 
+t5;4-1;0;---;6,(3-2) CSBBBB;;MIA;Jazz Chisholm Jr.;Brandon Pfaadt;2%;85%;Walk
+t5;4-1;0;1--;2,(1-0) B1>C;;MIA;Jorge Soler;Brandon Pfaadt;2%;87%;Chisholm Steals 2B
+t5;4-1;0;-2-;8,(3-2) B1>C.SBFBFX;RR;MIA;Jorge Soler;Brandon Pfaadt;7%;94%;Home Run (Fly Ball to Deep LF-CF); Chisholm Scores
+t5;6-1;0;---;2,(0-1) CX;O;MIA;Luis Arraez;Brandon Pfaadt;-1%;93%;Lineout: SS (Deep SS)
+t5;6-1;1;---;5,(0-2) FSFFX;;MIA;Bryan De La Cruz;Brandon Pfaadt;1%;94%;Single to CF (Line Drive)
+t5;6-1;1;1--;3,(1-1) BCX;OO;MIA;Jesús Sánchez;Brandon Pfaadt;-1%;92%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Marlins 6, Diamondbacks 1.
+Bottom of the 5th, Diamondbacks Batting, Behind 1-6, Marlins' Jesús Luzardo facing 1-2-3 
+b5;1-6;0;---;4,(1-2) CBC.S;O;ARI;Ketel Marte;Jesús Luzardo;1%;94%;Strikeout Swinging
+b5;1-6;1;---;6,(3-2) BBBCFX;O;ARI;Emmanuel Rivera;Jesús Luzardo;1%;95%;Flyball: RF (CF-RF)
+b5;1-6;2;---;2,(1-1) ABX;;ARI;Lourdes Gurriel Jr.;Jesús Luzardo;-1%;94%;Single to SS (Ground Ball)
+b5;1-6;2;1--;3,(1-1) S*BX;O;ARI;Christian Walker;Jesús Luzardo;1%;95%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 6, Diamondbacks 1.
+Top of the 6th, Marlins Batting, Ahead 6-1, Diamondbacks' Kevin Ginkel facing 6-7-8 
+;;;;;;;;;Kevin Ginkel replaces Brandon Pfaadt pitching
+t6;6-1;0;---;4,(2-1) .BTBX;O;MIA;Yuli Gurriel;Kevin Ginkel;0%;95%;Groundout: 2B-1B (Deep 2B)
+t6;6-1;1;---;4,(1-2) CFB.T;O;MIA;Joey Wendle;Kevin Ginkel;0%;95%;Strikeout Swinging
+t6;6-1;2;---;5,(2-2) CBSBX;O;MIA;Nick Fortes;Kevin Ginkel;0%;94%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 6, Diamondbacks 1.
+Bottom of the 6th, Diamondbacks Batting, Behind 1-6, Marlins' Jesús Luzardo facing 5-6-7 
+b6;1-6;0;---;2,(1-0) BX;O;ARI;Evan Longoria;Jesús Luzardo;1%;96%;Flyball: CF (Deep CF)
+b6;1-6;1;---;3,(2-0) BBX;;ARI;Corbin Carroll;Jesús Luzardo;-1%;94%;Single to LF (Ground Ball)
+b6;1-6;1;1--;7,(3-2) BSBBCFX;O;ARI;Nick Ahmed;Jesús Luzardo;2%;96%;Flyball: LF (Deep LF)
+b6;1-6;2;1--;2,(1-0) BX;;ARI;Gabriel Moreno;Jesús Luzardo;-1%;95%;Single to CF (Line Drive to Deep CF); Carroll to 2B
+b6;1-6;2;12-;4,(2-1) S*B*BX;O;ARI;Dominic Fletcher;Jesús Luzardo;2%;97%;Groundout: SS unassisted/Forceout at 2B; Fletcher to 1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Marlins 6, Diamondbacks 1.
+Top of the 7th, Marlins Batting, Ahead 6-1, Diamondbacks' Kevin Ginkel facing 9-1-2 
+t7;6-1;0;---;5,(1-2) FC.FBX;O;MIA;Jon Berti;Kevin Ginkel;0%;96%;Groundout: SS-1B
+t7;6-1;1;---;5,(2-2) FS.BBX;O;MIA;Jazz Chisholm Jr.;Kevin Ginkel;0%;96%;Flyball: RF (Deep RF Line)
+t7;6-1;2;---;4,(1-2) CS.BX;O;MIA;Jorge Soler;Kevin Ginkel;0%;96%;Lineout: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 6, Diamondbacks 1.
+Bottom of the 7th, Diamondbacks Batting, Behind 1-6, Marlins' Huascar Brazoban facing 1-2-3 
+;;;;;;;;;Huascar Brazoban replaces Jesús Luzardo pitching
+b7;1-6;0;---;2,(1-0) .BX;O;ARI;Ketel Marte;Huascar Brazoban;1%;97%;Flyball: LF (Short LF)
+;;;;;;;;;Pavin Smith pinch hits for Emmanuel Rivera (DH) batting 2nd
+b7;1-6;1;---;3,(1-2) .CSVS;O;ARI;Pavin Smith;Huascar Brazoban;1%;98%;Strikeout Swinging
+b7;1-6;2;---;5,(1-2) BCFFS;O;ARI;Lourdes Gurriel Jr.;Huascar Brazoban;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 6, Diamondbacks 1.
+Top of the 8th, Marlins Batting, Ahead 6-1, Diamondbacks' Kevin Ginkel facing 3-4-5 
+t8;6-1;0;---;1,(0-0) .X;O;MIA;Luis Arraez;Kevin Ginkel;0%;98%;Groundout: 3B-1B (Weak SS)
+t8;6-1;1;---;5,(2-2) CBSBX;O;MIA;Bryan De La Cruz;Kevin Ginkel;0%;98%;Groundout: 1B-P
+t8;6-1;2;---;1,(0-0) X;;MIA;Jesús Sánchez;Kevin Ginkel;0%;98%;Double to LF (Line Drive to Short LF Line)
+;;;;;;;;;Scott McGough replaces Kevin Ginkel pitching
+t8;6-1;2;-2-;1,(0-0) .X;O;MIA;Yuli Gurriel;Scott McGough;0%;98%;Groundout: SS-1B (Deep SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 6, Diamondbacks 1.
+Bottom of the 8th, Diamondbacks Batting, Behind 1-6, Marlins' Matt Barnes facing 4-5-6 
+;;;;;;;;;Matt Barnes replaces Huascar Brazoban pitching
+b8;1-6;0;---;3,(1-1) .CBX;O;ARI;Christian Walker;Matt Barnes;1%;99%;Popfly: 2B (Weak 2B)
+b8;1-6;1;---;5,(3-1) CB.BBX;R;ARI;Evan Longoria;Matt Barnes;-2%;97%;Home Run (Fly Ball to Deep LF)
+b8;2-6;1;---;3,(0-2) CCX;O;ARI;Corbin Carroll;Matt Barnes;1%;98%;Groundout: 1B unassisted
+b8;2-6;2;---;4,(2-1) SBBX;;ARI;Nick Ahmed;Matt Barnes;-1%;97%;Single to RF (Ground Ball thru 2B-1B)
+b8;2-6;2;1--;5,(2-2) CBC*BX;O;ARI;Gabriel Moreno;Matt Barnes;1%;98%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Marlins 6, Diamondbacks 2.
+Top of the 9th, Marlins Batting, Ahead 6-2, Diamondbacks' Scott McGough facing 7-8-9 
+t9;6-2;0;---;4,(1-2) BSS.X;O;MIA;Joey Wendle;Scott McGough;0%;98%;Groundout: 2B-1B (2B-1B)
+t9;6-2;1;---;6,(1-2) BCFFFX;O;MIA;Nick Fortes;Scott McGough;0%;98%;Flyball: CF (Deep CF-RF)
+t9;6-2;2;---;6,(3-2) BBCBS.X;;MIA;Jon Berti;Scott McGough;0%;98%;Single to RF (Ground Ball)
+t9;6-2;2;1--;1,(0-0) >C;O;MIA;Jazz Chisholm Jr.;Scott McGough;0%;98%;Berti Caught Stealing 2B (C-SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Marlins 6, Diamondbacks 2.
+Bottom of the 9th, Diamondbacks Batting, Behind 2-6, Marlins' Dylan Floro facing 9-1-2 
+;;;;;;;;;Dylan Floro replaces Matt Barnes pitching
+b9;2-6;0;---;4,(1-2) .BFTX;;ARI;Dominic Fletcher;Dylan Floro;-2%;96%;Single to LF (Ground Ball thru SS-3B Hole)
+b9;2-6;0;1--;2,(1-0) BX;O;ARI;Ketel Marte;Dylan Floro;2%;98%;Groundout: SS-1B; Fletcher to 2B
+b9;2-6;1;-2-;5,(2-2) BFFBX;;ARI;Pavin Smith;Dylan Floro;-3%;95%;Single to RF (Line Drive to Deep CF-RF); Fletcher to 3B
+b9;2-6;1;1-3;2,(1-0) B.X;OO;ARI;Lourdes Gurriel Jr.;Dylan Floro;5%;100%;Ground Ball Double Play: P-2B-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Marlins 6, Diamondbacks 2.

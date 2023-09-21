@@ -1,0 +1,297 @@
+
+Scorebox Meta
+20230828
+7:10 p.m. Local
+33771
+Fenway Park
+201
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/HOU-2023.png;/teams/HOU/2023.shtml;0;1;1;0;1;6;2;2;0;13;18;0
+https://cdn.ssref.net/req/202309121/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;2;0;0;0;2;0;0;0;1;5;10;1
+
+Batting home
+Alex Verdugo;/players/v/verdual01.shtml;RF;4;0;0;0;1;0;5;.278;.343;.444;.787;19;10;-0.064; 0.93;0.031;-0.095;-0.03%; 0.82; -0.8;5;0;
+Rafael Devers;/players/d/deverra01.shtml;3B;4;0;0;0;0;2;4;.269;.345;.512;.856;24;16;-0.090; 0.91;0.000;-0.090;-0.05%; 0.79; -1.1;1;0;
+Ceddanne Rafaela;/players/r/rafaece01.shtml;CF;1;0;1;0;0;0;1;1.000;1.000;1.000;2.000;1;1;0.001; 0.03;0.001;0.000; 0.00%; 0.03; 0.5;0;0;
+Justin Turner;/players/t/turneju01.shtml;DH;4;1;1;0;0;0;4;.290;.361;.495;.855;10;9;-0.049; 0.69;0.012;-0.062;-0.03%; 0.60; -0.6;;;
+Rob Refsnyder;/players/r/refsnro01.shtml;PH-DH-DH;1;0;0;0;0;0;1;.256;.377;.324;.701;3;2;-0.002; 0.08;0.000;-0.002;-0.00%; 0.07; -1.2;;;
+Masataka Yoshida;/players/y/yoshima02.shtml;LF;3;3;3;0;2;0;5;.298;.352;.460;.812;26;12;0.145; 0.66;0.145;0.000; 0.08%; 0.58; 1.8;1;0;2B
+Adam Duvall;/players/d/duvalad01.shtml;CF;3;1;1;2;1;1;4;.272;.335;.582;.916;15;10;0.198; 1.35;0.256;-0.058; 0.10%; 1.18; 1.2;0;0;HR
+David Hamilton;/players/h/hamilda03.shtml;2B;1;0;0;0;0;0;1;.133;.257;.200;.457;2;1;0.000; 0.02;0.000;0.000;0%; 0.02; -0.4;1;0;
+Triston Casas;/players/c/casastr01.shtml;1B;3;0;1;2;2;0;5;.257;.359;.484;.843;21;10;0.212; 1.02;0.216;-0.004; 0.11%; 0.89; 1.9;10;1;2B
+Trevor Story;/players/s/storytr01.shtml;SS;5;0;1;0;0;2;5;.206;.250;.324;.574;17;11;-0.118; 0.98;0.000;-0.118;-0.06%; 0.86; -1.4;2;4;
+Connor Wong;/players/w/wongco01.shtml;C;4;0;1;1;1;1;5;.250;.303;.409;.712;19;11;-0.026; 0.79;0.025;-0.050;-0.01%; 0.69; 0.7;6;1;
+Luis Urías;/players/u/uriaslu01.shtml;2B-3B;3;0;1;0;2;0;5;.181;.328;.305;.633;19;9;-0.039; 0.91;0.042;-0.080;-0.02%; 0.80; -0.5;1;3;
+Chris Sale;/players/s/salech01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kyle Barraclough;/players/b/barraky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Triston Casas (18, off Cristian Javier); Masataka Yoshida (28, off Cristian Javier).
+
+
+HR: Adam Duvall (17, off Cristian Javier, 5th inn, 1 on, 0 outs to Deep LF-CF).
+
+
+TB: Adam Duvall 4; Masataka Yoshida 4; Triston Casas 2; Connor Wong; Luis Urías; Trevor Story; Justin Turner; Ceddanne Rafaela.
+
+
+RBI: Triston Casas 2 (53); Adam Duvall 2 (49); Connor Wong (32).
+
+
+2-out RBI: Triston Casas 2; Connor Wong.
+
+
+Team LOB: 13.
+With RISP: 3 for 12.
+
+Batting away
+Jose Altuve;/players/a/altuvjo01.shtml;2B;6;4;4;4;0;1;6;.322;.415;.529;.944;15;11;0.507; 1.25;0.533;-0.026; 0.63%; 2.56; 5.1;1;4;HR,3B,2B
+Mauricio Dubón;/players/d/dubonma01.shtml;2B;0;0;0;0;0;0;0;.275;.305;.393;.698;;;;;;;;;;0;0;
+Alex Bregman;/players/b/bregmal01.shtml;3B;4;2;1;0;0;3;6;.261;.363;.440;.803;22;13;-0.088; 0.93;0.021;-0.109;-0.11%; 1.92; -0.2;0;2;2·HBP
+Yordan Alvarez;/players/a/alvaryo01.shtml;LF;4;2;4;4;2;0;6;.288;.394;.560;.954;16;7;0.374; 0.97;0.374;0.000; 0.46%; 2.00; 4.5;3;0;HR
+Jake Meyers;/players/m/meyerja02.shtml;PR-CF;0;0;0;0;0;0;0;.229;.302;.384;.686;;;;;;;;;;1;0;
+Kyle Tucker;/players/t/tuckeky01.shtml;RF;5;1;2;0;1;1;6;.293;.374;.521;.895;29;15;-0.120; 0.76;0.022;-0.142;-0.15%; 1.56; -0.7;2;0;SB
+Corey Julks;/players/j/julksco01.shtml;LF;0;0;0;0;0;0;0;.245;.297;.352;.650;;;;;;;;;;0;0;
+José Abreu;/players/a/abreujo02.shtml;1B;4;1;2;2;2;0;6;.236;.294;.350;.644;34;17;0.093; 0.68;0.120;-0.027; 0.11%; 1.40; 1.7;10;1;HR
+Chas McCormick;/players/m/mccorch01.shtml;CF-RF;4;0;1;1;0;0;6;.282;.365;.517;.883;17;12;-0.018; 0.76;0.062;-0.080;-0.02%; 1.57; -0.1;1;0;HBP,SF
+Yainer Diaz;/players/d/diazya02.shtml;DH;5;1;1;1;1;0;6;.282;.304;.532;.836;20;11;-0.028; 0.78;0.083;-0.111;-0.03%; 1.60; -0.3;;;GDP
+Jeremy Peña;/players/p/penaje02.shtml;SS;5;1;2;0;1;0;6;.258;.322;.384;.706;14;7;0.110; 0.62;0.125;-0.015; 0.14%; 1.28; 0.0;0;0;2B
+Martín Maldonado;/players/m/maldoma01.shtml;C;6;1;1;0;0;2;6;.183;.250;.326;.576;19;14;-0.161; 0.94;0.001;-0.162;-0.20%; 1.94; -2.0;8;0;
+Cristian Javier;/players/j/javiecr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kendall Graveman;/players/g/graveke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Urquidy;/players/u/urquijo01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+2B: Jeremy Peña (25, off Chris Sale); Jose Altuve (16, off Chris Sale).
+
+
+3B: Jose Altuve (2, off Kyle Barraclough).
+
+
+HR: José Abreu (11, off Chris Sale, 2nd inn, 0 on, 0 outs to Deep LF-CF); Yordan Alvarez (22, off Kyle Barraclough, 6th inn, 2 on, 1 out to Deep CF-RF); Jose Altuve (10, off Kyle Barraclough, 8th inn, 1 on, 1 out to Deep LF-CF).
+
+
+SF: Chas McCormick (2, off Kyle Barraclough).
+
+
+HBP: Alex Bregman 2 (6, 2 by Kyle Barraclough); Chas McCormick (9, by Kyle Barraclough).
+
+
+TB: Jose Altuve 10; Yordan Alvarez 7; José Abreu 5; Jeremy Peña 3; Kyle Tucker 2; Martín Maldonado; Chas McCormick; Alex Bregman; Yainer Diaz.
+
+
+GIDP: Yainer Diaz (11).
+
+
+RBI: Yordan Alvarez 4 (76); Jose Altuve 4 (34); José Abreu 2 (61); Yainer Diaz (49); Chas McCormick (59).
+
+
+Team LOB: 14.
+With RISP: 7 for 16.
+
+Pitching home
+Chris Sale;/players/s/salech01.shtml;Chris Sale; 4.2;7;3;3;2;6;1;4.75;23;92;56;34;12;10;5;10;3;0;42;;;-0.108; 1.18;-0.06%; 1.03; -0.8
+Kyle Barraclough;/players/b/barraky01.shtml; L (1-1); 4.1;11;10;10;5;1;2;12.91;31;94;51;37;6;8;9;13;5;0;;2;0;-0.561; 0.62;-0.29%; 0.54; -7.3
+
+Pitching away
+Cristian Javier;/players/j/javiecr01.shtml;Cristian Javier; 4 ;6;4;4;6;4;1;4.66;24;100;57;34;10;13;5;9;3;0;32;;;-0.290; 1.31;-0.36%; 2.69; -2.2
+Kendall Graveman;/players/g/graveke01.shtml; W (4-6); 1 ;0;0;0;1;1;0;3.24;4;19;9;2;5;2;0;2;0;0;;1;0;0.084; 1.24; 0.10%; 2.55; 0.9
+José Urquidy;/players/u/urquijo01.shtml; S (1); 4 ;4;1;1;2;1;0;5.21;17;57;36;23;6;7;5;9;2;0;;0;0;0.037; 0.12; 0.04%; 0.23; 1.2
+
+indiv_events
+
+Balks: None.
+WP: Chris Sale (3).
+HBP: Kyle Barraclough 3 (4; Alex Bregman, Chas McCormick, Alex Bregman).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Chris Sale (3).
+HBP: Kyle Barraclough 3 (4; Alex Bregman, Chas McCormick, Alex Bregman).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Dan Iassogna, 1B - Clint Vondrak, 2B - Gabe Morales, 3B - Adam Beck, LF - (none), RF - (none).
+Time of Game: 3:21.
+Attendance: 33,771.
+Field Condition: Unknown.
+Start Time Weather: 70° F, Wind 3mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Astros
+1;Jose Altuve;/players/a/altuvjo01.shtml;2B
+2;Alex Bregman;/players/b/bregmal01.shtml;3B
+3;Yordan Alvarez;/players/a/alvaryo01.shtml;LF
+4;Kyle Tucker;/players/t/tuckeky01.shtml;RF
+5;José Abreu;/players/a/abreujo02.shtml;1B
+6;Chas McCormick;/players/m/mccorch01.shtml;CF
+7;Yainer Diaz;/players/d/diazya02.shtml;DH
+8;Jeremy Peña;/players/p/penaje02.shtml;SS
+9;Martín Maldonado;/players/m/maldoma01.shtml;C
+; Cristian Javier;/players/j/javiecr01.shtml;P
+Red Sox
+1;Alex Verdugo;/players/v/verdual01.shtml;RF
+2;Rafael Devers;/players/d/deverra01.shtml;3B
+3;Justin Turner;/players/t/turneju01.shtml;DH
+4;Masataka Yoshida;/players/y/yoshima02.shtml;LF
+5;Adam Duvall;/players/d/duvalad01.shtml;CF
+6;Triston Casas;/players/c/casastr01.shtml;1B
+7;Trevor Story;/players/s/storytr01.shtml;SS
+8;Connor Wong;/players/w/wongco01.shtml;C
+9;Luis Urías;/players/u/uriaslu01.shtml;2B
+; Chris Sale;/players/s/salech01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t6;3-4;1;12-;1,(0-0) X;RR;HOU;Jose Altuve;Kyle Barraclough;30%;71%;Triple to RF (Fly Ball to Deep CF); Diaz Scores; Peña Scores
+b5;2-3;0;1--;4,(1-2) C1BFX;RR;BOS;Adam Duvall;Cristian Javier;-23%;30%;Home Run (Fly Ball to Deep LF-CF); Yoshida Scores
+t6;5-4;1;1-3;2,(1-0) BX;RRR;HOU;Yordan Alvarez;Kyle Barraclough;18%;90%;Home Run (Fly Ball to Deep CF-RF); Altuve Scores; Bregman Scores
+b1;0-0;2;123;3,(2-0) BBX;RR;BOS;Triston Casas;Cristian Javier;-16%;27%;Double to RF (Line Drive to RF Line); Turner Scores; Yoshida Scores; Duvall to 3B
+t5;2-2;2;1-3;2,(0-1) CB;R;HOU;José Abreu;Chris Sale;12%;61%;Wild Pitch; Altuve Scores/No RBI; Alvarez to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Astros Batting, Tied 0-0, Red Sox' Chris Sale facing 1-2-3 
+t1;0-0;0;---;5,(1-2) CLFBS;O;HOU;Jose Altuve;Chris Sale;-2%;48%;Strikeout Swinging; Altuve out at 1B/C-1B
+t1;0-0;1;---;4,(1-2) FS.BC;O;HOU;Alex Bregman;Chris Sale;-2%;46%;Strikeout Looking
+t1;0-0;2;---;5,(3-1) BBBCB;;HOU;Yordan Alvarez;Chris Sale;1%;47%;Walk
+t1;0-0;2;1--;5,(2-2) BCBFX;O;HOU;Kyle Tucker;Chris Sale;-2%;45%;Popfly: 1B (Weak 2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Astros 0, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Tied 0-0, Astros' Cristian Javier facing 1-2-3 
+b1;0-0;0;---;3,(1-1) BFX;O;BOS;Alex Verdugo;Cristian Javier;2%;47%;Groundout: 2B-1B (2B-1B)
+b1;0-0;1;---;6,(2-2) S.BBCFS;O;BOS;Rafael Devers;Cristian Javier;2%;49%;Strikeout Swinging
+b1;0-0;2;---;1,(0-0) X;;BOS;Justin Turner;Cristian Javier;-1%;48%;Single to CF (Fly Ball to Short CF)
+b1;0-0;2;1--;4,(2-1) CBBX;;BOS;Masataka Yoshida;Cristian Javier;-2%;46%;Single to P (Ground Ball to Front of Home); Turner to 2B
+b1;0-0;2;12-;4,(3-0) BBBB;;BOS;Adam Duvall;Cristian Javier;-3%;43%;Walk; Turner to 3B; Yoshida to 2B
+b1;0-0;2;123;3,(2-0) BBX;RR;BOS;Triston Casas;Cristian Javier;-16%;27%;Double to RF (Line Drive to RF Line); Turner Scores; Yoshida Scores; Duvall to 3B
+b1;2-0;2;-23;5,(2-2) BSF.BS;O;BOS;Trevor Story;Cristian Javier;4%;31%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Astros 0, Red Sox 2.
+Top of the 2nd, Astros Batting, Behind 0-2, Red Sox' Chris Sale facing 5-6-7 
+t2;0-2;0;---;5,(2-2) CBBCX;R;HOU;José Abreu;Chris Sale;9%;40%;Home Run (Fly Ball to Deep LF-CF)
+t2;1-2;0;---;3,(0-2) SS.X;O;HOU;Chas McCormick;Chris Sale;-3%;38%;Flyball: RF (Deep RF)
+t2;1-2;1;---;2,(1-0) BX;O;HOU;Yainer Diaz;Chris Sale;-2%;36%;Lineout: RF (Short RF Line)
+t2;1-2;2;---;3,(0-2) CF.X;;HOU;Jeremy Peña;Chris Sale;2%;38%;Double to CF (Fly Ball to LF-CF)
+t2;1-2;2;-2-;4,(1-2) S>F.*BX;O;HOU;Martín Maldonado;Chris Sale;-3%;35%;Popfly: 1B (2B-1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Astros 1, Red Sox 2.
+Bottom of the 2nd, Red Sox Batting, Ahead 2-1, Astros' Cristian Javier facing 8-9-1 
+b2;2-1;0;---;3,(1-1) CBX;O;BOS;Connor Wong;Cristian Javier;2%;37%;Groundout: 3B-1B (SS-3B Hole)
+b2;2-1;1;---;5,(2-2) SF.BBX;;BOS;Luis Urías;Cristian Javier;-2%;35%;Single to SS (Ground Ball)
+b2;2-1;1;1--;4,(3-0) BBBB;;BOS;Alex Verdugo;Cristian Javier;-3%;31%;Walk; Urías to 2B
+b2;2-1;1;12-;3,(1-1) BSX;O;BOS;Rafael Devers;Cristian Javier;4%;35%;Foul Popfly: 1B
+b2;2-1;2;12-;1,(0-0) X;O;BOS;Justin Turner;Cristian Javier;4%;39%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Astros 1, Red Sox 2.
+Top of the 3rd, Astros Batting, Behind 1-2, Red Sox' Chris Sale facing 1-2-3 
+t3;1-2;0;---;1,(0-0) X;;HOU;Jose Altuve;Chris Sale;7%;46%;Double to RF (Fly Ball to Deep CF)
+t3;1-2;0;-2-;4,(1-2) C*BFS;O;HOU;Alex Bregman;Chris Sale;-5%;41%;Strikeout Swinging
+t3;1-2;1;-2-;1,(0-0) X;R;HOU;Yordan Alvarez;Chris Sale;9%;50%;Single to RF (Ground Ball); Altuve Scores
+t3;2-2;1;1--;6,(3-2) BFBBFX;O;HOU;Kyle Tucker;Chris Sale;-3%;47%;Groundout: 1B-SS/Forceout at 2B (Weak 1B); Tucker to 1B
+t3;2-2;2;1--;6,(3-2) BBFBS>X;O;HOU;José Abreu;Chris Sale;-3%;44%;Flyball: LF (Short LF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Astros 2, Red Sox 2.
+Bottom of the 3rd, Red Sox Batting, Tied 2-2, Astros' Cristian Javier facing 4-5-6 
+b3;2-2;0;---;4,(1-2) CBFX;;BOS;Masataka Yoshida;Cristian Javier;-7%;38%;Double to CF (Line Drive to LF-CF)
+b3;2-2;0;-2-;4,(0-2) CFFS;O;BOS;Adam Duvall;Cristian Javier;5%;42%;Strikeout Swinging
+b3;2-2;1;-2-;5,(3-1) CBBB.B;;BOS;Triston Casas;Cristian Javier;-2%;40%;Walk
+b3;2-2;1;12-;2,(0-1) FX;O;BOS;Trevor Story;Cristian Javier;4%;44%;Flyball: CF (Deep CF-RF); Yoshida to 3B
+b3;2-2;2;1-3;6,(3-2) FSBBB>B;;BOS;Connor Wong;Cristian Javier;-2%;42%;Walk; Casas to 2B
+b3;2-2;2;123;2,(0-1) SX;O;BOS;Luis Urías;Cristian Javier;8%;50%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Astros 2, Red Sox 2.
+Top of the 4th, Astros Batting, Tied 2-2, Red Sox' Chris Sale facing 6-7-8 
+t4;2-2;0;---;2,(1-0) BX;;HOU;Chas McCormick;Chris Sale;4%;54%;Single to CF (Line Drive)
+t4;2-2;0;1--;3,(1-1) BSX;OO;HOU;Yainer Diaz;Chris Sale;-9%;45%;Ground Ball Double Play: SS-1B (SS-2B)
+t4;2-2;2;---;2,(1-0) BX;;HOU;Jeremy Peña;Chris Sale;2%;47%;Reached on E1 (throw) (Ground Ball to P's Right); Peña to 1B
+t4;2-2;2;1--;5,(2-2) 1BFSBS;O;HOU;Martín Maldonado;Chris Sale;-3%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 1 error, 1 LOB. Astros 2, Red Sox 2.
+Bottom of the 4th, Red Sox Batting, Tied 2-2, Astros' Cristian Javier facing 1-2-3 
+b4;2-2;0;---;4,(1-2) BCF.X;O;BOS;Alex Verdugo;Cristian Javier;3%;47%;Groundout: 2B-1B
+b4;2-2;1;---;7,(2-2) CFBFFBS;O;BOS;Rafael Devers;Cristian Javier;2%;49%;Strikeout Swinging
+b4;2-2;2;---;4,(1-2) CFBX;O;BOS;Justin Turner;Cristian Javier;1%;50%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 2, Red Sox 2.
+Top of the 5th, Astros Batting, Tied 2-2, Red Sox' Chris Sale facing 1-2-3 
+t5;2-2;0;---;3,(2-0) BBX;;HOU;Jose Altuve;Chris Sale;5%;55%;Single to LF (Ground Ball thru SS-3B Hole)
+t5;2-2;0;1--;7,(3-2) FBFBB>FS;O;HOU;Alex Bregman;Chris Sale;-4%;50%;Strikeout Swinging
+t5;2-2;1;1--;3,(0-2) CFX;;HOU;Yordan Alvarez;Chris Sale;8%;59%;Single to RF (Line Drive to RF Line); Altuve to 3B
+t5;2-2;1;1-3;6,(3-2) TBBBFS;O;HOU;Kyle Tucker;Chris Sale;-9%;50%;Strikeout Swinging
+t5;2-2;2;1-3;2,(0-1) CB;R;HOU;José Abreu;Chris Sale;12%;61%;Wild Pitch; Altuve Scores/No RBI; Alvarez to 2B
+t5;3-2;2;-2-;4,(2-1) CB.BB;;HOU;José Abreu;Chris Sale;1%;62%;Passed Ball; Alvarez to 3B
+t5;3-2;2;--3;7,(3-2) CB.BB.FFB;;HOU;José Abreu;Chris Sale;1%;63%;Walk
+;;;;;;;;;Kyle Barraclough replaces Chris Sale pitching
+t5;3-2;2;1-3;6,(2-2) .C*BFBFX;O;HOU;Chas McCormick;Kyle Barraclough;-6%;58%;Groundout: 2B-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Astros 3, Red Sox 2.
+Bottom of the 5th, Red Sox Batting, Behind 2-3, Astros' Cristian Javier facing 4-5-6 
+b5;2-3;0;---;8,(3-2) CBCBFFBB;;BOS;Masataka Yoshida;Cristian Javier;-5%;52%;Walk
+b5;2-3;0;1--;4,(1-2) C1BFX;RR;BOS;Adam Duvall;Cristian Javier;-23%;30%;Home Run (Fly Ball to Deep LF-CF); Yoshida Scores
+b5;4-3;0;---;8,(3-2) CF.BFBBFB;;BOS;Triston Casas;Cristian Javier;-3%;26%;Walk
+;;;;;;;;;Kendall Graveman replaces Cristian Javier pitching
+b5;4-3;0;1--;6,(3-2) .BSS.B*BS;O;BOS;Trevor Story;Kendall Graveman;3%;29%;Strikeout Swinging
+b5;4-3;1;1--;1,(0-0) X;O;BOS;Connor Wong;Kendall Graveman;3%;32%;Foul Popfly: C
+b5;4-3;2;1--;6,(3-2) CBS.*BB>*B;;BOS;Luis Urías;Kendall Graveman;-2%;30%;Walk; Casas to 2B
+b5;4-3;2;12-;6,(3-2) BBBCS>X;O;BOS;Alex Verdugo;Kendall Graveman;4%;35%;Flyball: LF (Short LF)
+;;;;;;;;;2 runs, 1 hit, 0 errors, 2 LOB. Astros 3, Red Sox 4.
+Top of the 6th, Astros Batting, Behind 3-4, Red Sox' Kyle Barraclough facing 7-8-9 
+t6;3-4;0;---;6,(3-2) BBBCFB;;HOU;Yainer Diaz;Kyle Barraclough;6%;40%;Walk
+t6;3-4;0;1--;4,(3-0) BBBB;;HOU;Jeremy Peña;Kyle Barraclough;9%;49%;Walk; Diaz to 2B
+t6;3-4;0;12-;2,(0-1) LX;O;HOU;Martín Maldonado;Kyle Barraclough;-8%;41%;Flyball: RF (Short RF Line)
+t6;3-4;1;12-;1,(0-0) X;RR;HOU;Jose Altuve;Kyle Barraclough;30%;71%;Triple to RF (Fly Ball to Deep CF); Diaz Scores; Peña Scores
+t6;5-4;1;--3;1,(0-0) H;;HOU;Alex Bregman;Kyle Barraclough;2%;73%;Hit By Pitch
+t6;5-4;1;1-3;2,(1-0) BX;RRR;HOU;Yordan Alvarez;Kyle Barraclough;18%;90%;Home Run (Fly Ball to Deep CF-RF); Altuve Scores; Bregman Scores
+t6;8-4;1;---;6,(3-2) BFBFBB;;HOU;Kyle Tucker;Kyle Barraclough;1%;91%;Walk
+t6;8-4;1;1--;3,(2-0) *BB>S;;HOU;José Abreu;Kyle Barraclough;1%;92%;Tucker Steals 2B
+t6;8-4;1;-2-;5,(3-1) *BB>S.BB;;HOU;José Abreu;Kyle Barraclough;0%;92%;Walk
+t6;8-4;1;12-;1,(0-0) H;;HOU;Chas McCormick;Kyle Barraclough;2%;94%;Hit By Pitch; Tucker to 3B; Abreu to 2B
+t6;8-4;1;123;2,(0-1) SX;R;HOU;Yainer Diaz;Kyle Barraclough;2%;97%;Single to 1B (Ground Ball); Tucker Scores; Abreu to 3B; McCormick to 2B
+t6;9-4;1;123;2,(1-0) BX;O;HOU;Jeremy Peña;Kyle Barraclough;-1%;95%;Foul Popfly: 3B
+t6;9-4;2;123;4,(0-2) CFFS;O;HOU;Martín Maldonado;Kyle Barraclough;-1%;94%;Strikeout Swinging
+;;;;;;;;;6 runs, 3 hits, 0 errors, 3 LOB. Astros 9, Red Sox 4.
+Bottom of the 6th, Red Sox Batting, Behind 4-9, Astros' José Urquidy facing 2-3-4 
+;;;;;;;;;José Urquidy replaces Kendall Graveman pitching
+b6;4-9;0;---;8,(3-2) .CBFBFFBX;O;BOS;Rafael Devers;José Urquidy;1%;95%;Foul Popfly: 1B
+b6;4-9;1;---;4,(0-2) CFFX;O;BOS;Justin Turner;José Urquidy;1%;96%;Flyball: RF (Deep RF Line)
+b6;4-9;2;---;6,(3-2) BBSBFX;;BOS;Masataka Yoshida;José Urquidy;-1%;95%;Single to LF (Ground Ball thru SS-3B Hole)
+b6;4-9;2;1--;3,(0-2) CSX;O;BOS;Adam Duvall;José Urquidy;1%;96%;Popfly: 2B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 9, Red Sox 4.
+Top of the 7th, Astros Batting, Ahead 9-4, Red Sox' Kyle Barraclough facing 1-2-3 
+t7;9-4;0;---;2,(0-1) FX;O;HOU;Jose Altuve;Kyle Barraclough;0%;96%;Popfly: 1B
+t7;9-4;1;---;5,(2-2) BCBFH;;HOU;Alex Bregman;Kyle Barraclough;0%;96%;Hit By Pitch
+t7;9-4;1;1--;1,(0-0) X;;HOU;Yordan Alvarez;Kyle Barraclough;0%;97%;Single to LF (Fly Ball to Short LF-CF); Bregman to 2B
+t7;9-4;1;12-;5,(2-2) CBBCX;;HOU;Kyle Tucker;Kyle Barraclough;1%;98%;Single to RF (Ground Ball thru 2B-1B); Bregman to 3B; Alvarez to 2B
+t7;9-4;1;123;6,(2-2) BCFFBX;R;HOU;José Abreu;Kyle Barraclough;1%;99%;Single to RF (Line Drive to CF-RF); Bregman Scores; Alvarez to 3B; Tucker to 2B
+t7;10-4;1;123;1,(0-0) X;RO;HOU;Chas McCormick;Kyle Barraclough;0%;99%;Lineout: RF/Sacrifice Fly (Deep RF); Alvarez Scores; Tucker to 3B
+t7;11-4;2;1-3;5,(3-1) BBFBX;O;HOU;Yainer Diaz;Kyle Barraclough;0%;99%;Groundout: SS-2B/Forceout at 2B; Diaz to 1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Astros 11, Red Sox 4.
+Bottom of the 7th, Red Sox Batting, Behind 4-11, Astros' José Urquidy facing 6-7-8 
+b7;4-11;0;---;2,(1-0) BX;O;BOS;Triston Casas;José Urquidy;0%;99%;Groundout: 2B-1B
+b7;4-11;1;---;2,(0-1) FX;O;BOS;Trevor Story;José Urquidy;0%;99%;Groundout: 2B-1B
+b7;4-11;2;---;4,(1-2) CBS.T;O;BOS;Connor Wong;José Urquidy;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 11, Red Sox 4.
+Top of the 8th, Astros Batting, Ahead 11-4, Red Sox' Kyle Barraclough facing 8-9-1 
+;;;;;;;;;David Hamilton replaces Adam Duvall (CF) playing 2B batting 5thLuis Urías moves from 2B to 3B Ceddanne Rafaela replaces Rafael Devers (3B) playing CF batting 2nd
+t8;11-4;0;---;2,(1-0) ...BX;O;HOU;Jeremy Peña;Kyle Barraclough;0%;100%;Groundout: SS-1B
+t8;11-4;1;---;1,(0-0) X;;HOU;Martín Maldonado;Kyle Barraclough;0%;100%;Single to RF (Line Drive to Short RF)
+t8;11-4;1;1--;3,(1-1) FBX;RR;HOU;Jose Altuve;Kyle Barraclough;0%;100%;Home Run (Fly Ball to Deep LF-CF); Maldonado Scores
+t8;13-4;1;---;1,(0-0) X;;HOU;Alex Bregman;Kyle Barraclough;0%;100%;Single to RF (Line Drive to CF-RF)
+t8;13-4;1;1--;4,(3-0) BB*BB;;HOU;Yordan Alvarez;Kyle Barraclough;0%;100%;Walk; Bregman to 2B
+;;;;;;;;;Jake Meyers pinch runs for Yordan Alvarez (LF) batting 3rd
+t8;13-4;1;12-;1,(0-0) .X;O;HOU;Kyle Tucker;Kyle Barraclough;0%;100%;Single to 1B/runner struck by batted ball and is out (Ground Ball); Meyers out at 2B/1B
+t8;13-4;2;12-;5,(2-2) CSBBX;O;HOU;José Abreu;Kyle Barraclough;0%;100%;Groundout: SS-2B/Forceout at 2B (SS-2B); Abreu to 1B
+;;;;;;;;;2 runs, 4 hits, 0 errors, 2 LOB. Astros 13, Red Sox 4.
+Bottom of the 8th, Red Sox Batting, Behind 4-13, Astros' José Urquidy facing 9-1-2 
+;;;;;;;;;Mauricio Dubón replaces Jose Altuve playing 2B batting 1stCorey Julks replaces Kyle Tucker (RF) playing LF batting 4thJake Meyers moves from PR to CF Chas McCormick moves from CF to RF 
+b8;4-13;0;---;5,(3-1) ....CBBBB;;BOS;Luis Urías;José Urquidy;0%;100%;Walk
+b8;4-13;0;1--;2,(0-1) CX;O;BOS;Alex Verdugo;José Urquidy;0%;100%;Groundout: P-1B; Urías to 2B
+b8;4-13;1;-2-;1,(0-0) X;;BOS;Ceddanne Rafaela;José Urquidy;0%;100%;Single to RF (Fly Ball to Short CF-RF); Urías to 3B
+;;;;;;;;;Rob Refsnyder pinch hits for Justin Turner (DH) batting 3rd
+b8;4-13;1;1-3;3,(1-1) .BSX;OO;BOS;Rob Refsnyder;José Urquidy;0%;100%;Double Play: Popfly: 1B (Deep 1B); Rafaela out at 1B/1B-P
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 13, Red Sox 4.
+Top of the 9th, Astros Batting, Ahead 13-4, Red Sox' Kyle Barraclough facing 6-7-8 
+t9;13-4;0;---;4,(1-2) .BFSX;O;HOU;Chas McCormick;Kyle Barraclough;0%;100%;Groundout: 3B-1B (SS-3B Hole)
+t9;13-4;1;---;2,(0-1) SX;O;HOU;Yainer Diaz;Kyle Barraclough;0%;100%;Groundout: 3B-1B (Weak 3B)
+t9;13-4;2;---;1,(0-0) X;;HOU;Jeremy Peña;Kyle Barraclough;0%;100%;Single to CF (Line Drive)
+t9;13-4;2;1--;3,(2-0) BBX;O;HOU;Martín Maldonado;Kyle Barraclough;0%;100%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 13, Red Sox 4.
+Bottom of the 9th, Red Sox Batting, Behind 4-13, Astros' José Urquidy facing 4-5-6 
+b9;4-13;0;---;4,(3-0) BBBB;;BOS;Masataka Yoshida;José Urquidy;0%;100%;Walk
+b9;4-13;0;1--;2,(1-0) BX;O;BOS;David Hamilton;José Urquidy;0%;100%;Foul Popfly: C
+b9;4-13;1;1--;3,(0-2) CFX;O;BOS;Triston Casas;José Urquidy;0%;100%;Flyball: CF (Deep LF-CF)
+b9;4-13;2;1--;2,(1-0) BX;;BOS;Trevor Story;José Urquidy;0%;100%;Single to RF (Line Drive); Yoshida to 2B
+b9;4-13;2;12-;5,(2-2) SS*B*BX;R;BOS;Connor Wong;José Urquidy;0%;100%;Single to CF (Line Drive to Deep CF-RF); Yoshida Scores; Story to 3B
+b9;5-13;2;1-3;1,(0-0) X;O;BOS;Luis Urías;José Urquidy;0%;100%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Astros 13, Red Sox 5.

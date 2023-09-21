@@ -1,0 +1,243 @@
+
+Scorebox Meta
+20230416
+1:35 p.m. Local
+34790
+Fenway Park
+117
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;1;0;0;0;0;0;0;0;1;4;0
+https://cdn.ssref.net/req/202308101/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;0;0;2;0;0;0;0;0;X;2;7;0
+
+Batting home
+Alex Verdugo;/players/v/verdual01.shtml;RF;4;1;2;0;0;1;4;.317;.386;.429;.814;18;12;0.029; 0.79;0.063;-0.035; 0.01%; 0.67; 0.3;3;0;SB
+Justin Turner;/players/t/turneju01.shtml;1B;4;1;2;2;0;0;4;.271;.389;.390;.779;16;12;0.178; 0.93;0.213;-0.035; 0.09%; 0.78; 1.5;7;0;HR
+Rob Refsnyder;/players/r/refsnro01.shtml;LF;3;0;1;0;1;1;4;.212;.366;.333;.699;19;12;0.027; 0.72;0.059;-0.032; 0.01%; 0.61; 0.3;1;0;
+Rafael Devers;/players/d/deverra01.shtml;3B;3;0;0;0;0;0;3;.262;.308;.656;.963;5;3;-0.124; 0.90;0.000;-0.124;-0.06%; 0.76; -1.5;1;3;GDP
+Enrique Hernández;/players/h/hernaen02.shtml;CF;3;0;1;0;0;1;3;.167;.274;.333;.608;14;8;-0.023; 1.09;0.040;-0.063;-0.01%; 0.92; -0.2;3;0;
+Masataka Yoshida;/players/y/yoshima02.shtml;DH;2;0;0;0;0;1;3;.205;.354;.308;.662;12;7;0.023; 1.01;0.060;-0.037; 0.01%; 0.85; 0.2;;;HBP
+Christian Arroyo;/players/a/arroych01.shtml;2B;3;0;1;0;0;1;3;.170;.204;.213;.417;12;9;-0.105; 1.02;0.021;-0.127;-0.05%; 0.86; -1.0;5;4;GDP
+Connor Wong;/players/w/wongco01.shtml;C;3;0;0;0;0;1;3;.156;.250;.250;.500;9;8;-0.112; 1.11;0.000;-0.112;-0.06%; 0.94; -1.2;7;1;GDP
+Yu Chang;/players/c/changyu01.shtml;SS;3;0;0;0;0;1;3;.087;.160;.217;.377;7;5;-0.060; 0.77;0.000;-0.060;-0.03%; 0.65; -0.7;0;2;
+Garrett Whitlock;/players/w/whitlga01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kaleb Ort;/players/o/ortka01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Ryan Brasier;/players/b/brasiry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Justin Turner (1, off Reid Detmers, 3rd inn, 1 on, 1 out to Deep LF).
+
+
+HBP: Masataka Yoshida (2, by Reid Detmers).
+
+
+TB: Justin Turner 5; Alex Verdugo 2; Christian Arroyo; Enrique Hernández; Rob Refsnyder.
+
+
+GIDP: Connor Wong (1); Christian Arroyo (3); Rafael Devers (2).
+
+
+RBI: Justin Turner 2 (6).
+
+
+Team LOB: 4.
+With RISP: 1 for 5.
+
+Batting away
+Zach Neto;/players/n/netoza01.shtml;SS;4;0;0;0;0;0;4;.000;.000;.000;.000;18;10;-0.296; 1.87;0.000;-0.296;-0.17%; 1.79; -2.2;1;4;2·GDP
+Mike Trout;/players/t/troutmi01.shtml;CF;4;0;0;0;0;2;4;.278;.435;.537;.972;18;11;-0.102; 0.99;0.000;-0.102;-0.06%; 0.94; -0.6;2;0;
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;4;0;0;0;0;0;4;.288;.383;.500;.883;12;9;-0.125; 1.19;0.000;-0.125;-0.07%; 1.14; -0.7;;;
+Anthony Rendon;/players/r/rendoan01.shtml;3B;3;1;1;0;0;0;3;.286;.421;.321;.742;17;10;0.007; 1.01;0.061;-0.053; 0.00%; 0.96; 0.3;0;0;2B
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;3;0;0;0;0;2;3;.268;.369;.500;.869;12;8;-0.052; 0.86;0.000;-0.052;-0.03%; 0.82; -0.4;4;0;
+Gio Urshela;/players/u/urshegi01.shtml;1B;3;0;1;0;0;1;3;.346;.370;.442;.813;6;5;-0.006; 1.59;0.086;-0.092;-0.00%; 1.53; -0.5;5;0;
+Brett Phillips;/players/p/phillbr02.shtml;PR;0;0;0;0;0;0;0;.000;.750;.000;.750;;;-0.107; 4.04;0.000;-0.107;-0.06%; 3.86; -0.5;;;
+Jake Lamb;/players/l/lambja01.shtml;1B;0;0;0;0;0;0;0;.172;.250;.207;.457;;;;;;;;;;0;0;
+Luis Rengifo;/players/r/rengilu01.shtml;LF;1;0;0;0;1;1;2;.178;.315;.244;.559;11;6;-0.010; 1.14;0.013;-0.023;-0.01%; 1.08; -0.0;2;0;
+Taylor Ward;/players/w/wardta01.shtml;PH-LF;1;0;0;0;0;0;1;.254;.343;.373;.716;2;1;-0.081; 3.40;0.000;-0.081;-0.05%; 3.25; -0.4;0;0;
+Brandon Drury;/players/d/drurybr01.shtml;2B;2;0;1;1;1;0;3;.196;.240;.326;.566;9;3;0.120; 1.73;0.182;-0.063; 0.07%; 1.66; 0.7;2;3;CS
+Logan O'Hoppe;/players/o/ohopplo01.shtml;C;2;0;1;0;1;0;3;.244;.304;.561;.865;20;8;-0.015; 2.29;0.092;-0.107;-0.01%; 2.19; 0.3;7;0;
+Reid Detmers;/players/d/detmere01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andrew Wantz;/players/w/wantzan01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Anthony Rendon (1, off Garrett Whitlock).
+
+
+TB: Anthony Rendon 2; Brandon Drury; Logan O'Hoppe; Gio Urshela.
+
+
+GIDP: Zach Neto 2 (2).
+
+
+RBI: Brandon Drury (4).
+
+
+2-out RBI: Brandon Drury.
+
+
+Team LOB: 2.
+With RISP: 1 for 4.
+
+Pitching home
+Garrett Whitlock;/players/w/whitlga01.shtml; W (1-1); 7 ;3;1;1;2;5;0;4.50;23;99;61;28;14;19;8;8;4;0;70;;;0.368; 1.10; 0.19%; 0.93; 2.9
+Kaleb Ort;/players/o/ortka01.shtml; H (1); 1 ;1;0;0;1;0;0;5.00;4;15;6;3;1;2;1;2;0;0;;0;0;0.126; 3.41; 0.06%; 2.87; 0.6
+Ryan Brasier;/players/b/brasiry01.shtml; S (1); 1 ;0;0;0;0;1;0;4.82;3;11;7;3;2;2;0;2;1;0;;0;0;0.173; 2.21; 0.09%; 1.86; 0.6
+
+Pitching away
+Reid Detmers;/players/d/detmere01.shtml; L (0-1); 6.1;6;2;2;1;7;1;4.50;25;97;65;37;10;18;6;10;3;0;59;;;0.084; 0.96; 0.05%; 0.92; 1.3
+Andrew Wantz;/players/w/wantzan01.shtml;Andrew Wantz; 1.2;1;0;0;0;0;0;0.00;5;15;11;7;1;3;2;3;1;0;;1;0;0.083; 0.68; 0.05%; 0.65; 1.1
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Reid Detmers (2; Masataka Yoshida).
+IBB: None.
+Pickoffs: Kaleb Ort (1; Brett Phillips, 2nd base).
+
+Balks: None.
+WP: None.
+HBP: Reid Detmers (2; Masataka Yoshida).
+IBB: None.
+Pickoffs: Kaleb Ort (1; Brett Phillips, 2nd base).
+
+section_content
+Umpires: HP - Carlos Torres, 1B - Jansen Visconti, 2B - Ron Kulpa, 3B - Cory Blaser, LF - (none), RF - (none).
+Time of Game: 1:57.
+Attendance: 34,790.
+Field Condition: Unknown.
+Start Time Weather: 54° F, Wind 3mph from Right to Left, Cloudy, No Precipitation.
+
+div_lineups
+Angels
+1;Zach Neto;/players/n/netoza01.shtml;SS
+2;Mike Trout;/players/t/troutmi01.shtml;CF
+3;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+4;Anthony Rendon;/players/r/rendoan01.shtml;3B
+5;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+6;Gio Urshela;/players/u/urshegi01.shtml;1B
+7;Luis Rengifo;/players/r/rengilu01.shtml;LF
+8;Brandon Drury;/players/d/drurybr01.shtml;2B
+9;Logan O'Hoppe;/players/o/ohopplo01.shtml;C
+; Reid Detmers;/players/d/detmere01.shtml;P
+Red Sox
+1;Alex Verdugo;/players/v/verdual01.shtml;RF
+2;Justin Turner;/players/t/turneju01.shtml;1B
+3;Rob Refsnyder;/players/r/refsnro01.shtml;LF
+4;Rafael Devers;/players/d/deverra01.shtml;3B
+5;Enrique Hernández;/players/h/hernaen02.shtml;CF
+6;Masataka Yoshida;/players/y/yoshima02.shtml;DH
+7;Christian Arroyo;/players/a/arroych01.shtml;2B
+8;Connor Wong;/players/w/wongco01.shtml;C
+9;Yu Chang;/players/c/changyu01.shtml;SS
+; Garrett Whitlock;/players/w/whitlga01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;0-1;1;-2-;2,(0-1) >C.X;RR;BOS;Justin Turner;Reid Detmers;18%;64%;Home Run (Fly Ball to Deep LF); Verdugo Scores
+t6;1-2;0;1--;5,(2-2) CBCBX;OO;LAA;Zach Neto;Garrett Whitlock;12%;72%;Ground Ball Double Play: SS-2B-1B
+b2;0-1;0;12-;6,(2-2) CFBFBX;OO;BOS;Christian Arroyo;Reid Detmers;-12%;43%;Ground Ball Double Play: SS-2B-1B; Hernández to 3B
+t8;1-2;1;12-;6,(3-2) .*BBBCSX;O;LAA;Logan O'Hoppe;Kaleb Ort;11%;75%;Flyball: CF (Deep LF-CF)
+t8;1-2;2;12-;2,(1-1) CB2;O;LAA;Zach Neto;Kaleb Ort;11%;86%;Phillips Picked off 2B (P-2B)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, Red Sox' Garrett Whitlock facing 1-2-3 
+t1;0-0;0;---;5,(2-2) BCC.BX;O;LAA;Zach Neto;Garrett Whitlock;2%;52%;Groundout: 3B-1B (SS-3B Hole)
+t1;0-0;1;---;4,(1-2) CBFS;O;LAA;Mike Trout;Garrett Whitlock;2%;54%;Strikeout Swinging
+t1;0-0;2;---;4,(1-2) BCFX;O;LAA;Shohei Ohtani;Garrett Whitlock;1%;55%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Tied 0-0, Angels' Reid Detmers facing 1-2-3 
+b1;0-0;0;---;6,(2-2) CCBBFX;O;BOS;Alex Verdugo;Reid Detmers;-2%;53%;Groundout: SS-1B
+b1;0-0;1;---;6,(2-2) CBSBFX;O;BOS;Justin Turner;Reid Detmers;-2%;51%;Flyball: RF (Deep RF)
+b1;0-0;2;---;4,(3-0) BBBB;;BOS;Rob Refsnyder;Reid Detmers;1%;52%;Walk
+b1;0-0;2;1--;1,(0-0) X;O;BOS;Rafael Devers;Reid Detmers;-2%;50%;Flyball: CF (CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 0, Red Sox 0.
+Top of the 2nd, Angels Batting, Tied 0-0, Red Sox' Garrett Whitlock facing 4-5-6 
+t2;0-0;0;---;4,(2-1) CBBX;;LAA;Anthony Rendon;Garrett Whitlock;-6%;44%;Double to RF (Line Drive)
+t2;0-0;0;-2-;2,(0-1) FX;O;LAA;Hunter Renfroe;Garrett Whitlock;2%;46%;Groundout: 2B-1B; Rendon to 3B
+t2;0-0;1;--3;1,(0-0) X;O;LAA;Gio Urshela;Garrett Whitlock;6%;51%;Lineout: 3B (SS-3B Hole)
+t2;0-0;2;--3;6,(3-2) .SCBB*BB;;LAA;Luis Rengifo;Garrett Whitlock;-1%;50%;Walk
+t2;0-0;2;1-3;2,(1-0) BX;R;LAA;Brandon Drury;Garrett Whitlock;-10%;40%;Single to RF (Line Drive to Short CF-RF); Rendon Scores; Rengifo to 3B
+t2;1-0;2;1-3;5,(2-2) S*BCB>B;O;LAA;Logan O'Hoppe;Garrett Whitlock;5%;45%;Drury Caught Stealing 2B (C-2B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Angels 1, Red Sox 0.
+Bottom of the 2nd, Red Sox Batting, Behind 0-1, Angels' Reid Detmers facing 5-6-7 
+b2;0-1;0;---;7,(3-2) CFFBBB.X;;BOS;Enrique Hernández;Reid Detmers;4%;49%;Single to CF (Line Drive to Deep LF-CF)
+b2;0-1;0;1--;1,(0-0) H;;BOS;Masataka Yoshida;Reid Detmers;6%;55%;Hit By Pitch; Hernández to 2B
+b2;0-1;0;12-;6,(2-2) CFBFBX;OO;BOS;Christian Arroyo;Reid Detmers;-12%;43%;Ground Ball Double Play: SS-2B-1B; Hernández to 3B
+b2;0-1;2;--3;4,(0-2) FFFS;O;BOS;Connor Wong;Reid Detmers;-4%;39%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 1, Red Sox 0.
+Top of the 3rd, Angels Batting, Ahead 1-0, Red Sox' Garrett Whitlock facing 9-1-2 
+t3;1-0;0;---;3,(0-2) CSX;;LAA;Logan O'Hoppe;Garrett Whitlock;-3%;36%;Single to CF (Ground Ball thru SS-2B)
+t3;1-0;0;1--;5,(2-2) FSBBX;OO;LAA;Zach Neto;Garrett Whitlock;7%;43%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+t3;1-0;2;---;2,(0-1) SX;O;LAA;Mike Trout;Garrett Whitlock;1%;44%;Popfly: 2B (Deep 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Angels 1, Red Sox 0.
+Bottom of the 3rd, Red Sox Batting, Behind 0-1, Angels' Reid Detmers facing 9-1-2 
+b3;0-1;0;---;2,(1-0) BX;O;BOS;Yu Chang;Reid Detmers;-3%;42%;Flyball: LF (Short LF-CF)
+b3;0-1;1;---;4,(1-2) CFBX;;BOS;Alex Verdugo;Reid Detmers;3%;45%;Single to CF (Line Drive)
+b3;0-1;1;1--;1,(0-0) >C;;BOS;Justin Turner;Reid Detmers;2%;46%;Verdugo Steals 2B
+b3;0-1;1;-2-;2,(0-1) >C.X;RR;BOS;Justin Turner;Reid Detmers;18%;64%;Home Run (Fly Ball to Deep LF); Verdugo Scores
+b3;2-1;1;---;8,(2-2) CSFFFBBC;O;BOS;Rob Refsnyder;Reid Detmers;-2%;63%;Strikeout Looking
+b3;2-1;2;---;2,(1-0) BX;O;BOS;Rafael Devers;Reid Detmers;-1%;62%;Flyball: LF
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Angels 1, Red Sox 2.
+Top of the 4th, Angels Batting, Behind 1-2, Red Sox' Garrett Whitlock facing 3-4-5 
+t4;1-2;0;---;3,(1-1) BCX;O;LAA;Shohei Ohtani;Garrett Whitlock;3%;65%;Flyball: RF (Deep RF)
+t4;1-2;1;---;6,(3-2) CBBC.BX;O;LAA;Anthony Rendon;Garrett Whitlock;2%;67%;Groundout: 3B-1B (SS-3B Hole)
+t4;1-2;2;---;4,(1-2) BCSS;O;LAA;Hunter Renfroe;Garrett Whitlock;1%;68%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, Red Sox 2.
+Bottom of the 4th, Red Sox Batting, Ahead 2-1, Angels' Reid Detmers facing 5-6-7 
+b4;2-1;0;---;5,(2-2) BFBFS;O;BOS;Enrique Hernández;Reid Detmers;-2%;66%;Strikeout Swinging
+b4;2-1;1;---;4,(1-2) BFSS;O;BOS;Masataka Yoshida;Reid Detmers;-2%;64%;Strikeout Swinging
+b4;2-1;2;---;4,(0-2) CFFS;O;BOS;Christian Arroyo;Reid Detmers;-1%;63%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, Red Sox 2.
+Top of the 5th, Angels Batting, Behind 1-2, Red Sox' Garrett Whitlock facing 6-7-8 
+t5;1-2;0;---;4,(1-2) CBSS;O;LAA;Gio Urshela;Garrett Whitlock;3%;67%;Strikeout Swinging
+t5;1-2;1;---;5,(1-2) FBSFS;O;LAA;Luis Rengifo;Garrett Whitlock;2%;69%;Strikeout Swinging
+t5;1-2;2;---;3,(1-1) FBX;O;LAA;Brandon Drury;Garrett Whitlock;2%;70%;Foul Popfly: C (Behind Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, Red Sox 2.
+Bottom of the 5th, Red Sox Batting, Ahead 2-1, Angels' Reid Detmers facing 8-9-1 
+b5;2-1;0;---;4,(1-2) CBCX;O;BOS;Connor Wong;Reid Detmers;-2%;68%;Flyball: RF (CF-RF)
+b5;2-1;1;---;3,(0-2) FS.S;O;BOS;Yu Chang;Reid Detmers;-2%;66%;Strikeout Swinging
+b5;2-1;2;---;5,(2-2) CBBSC;O;BOS;Alex Verdugo;Reid Detmers;-1%;65%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, Red Sox 2.
+Top of the 6th, Angels Batting, Behind 1-2, Red Sox' Garrett Whitlock facing 9-1-2 
+t6;1-2;0;---;6,(3-2) FBFBBB;;LAA;Logan O'Hoppe;Garrett Whitlock;-6%;59%;Walk
+t6;1-2;0;1--;5,(2-2) CBCBX;OO;LAA;Zach Neto;Garrett Whitlock;12%;72%;Ground Ball Double Play: SS-2B-1B
+t6;1-2;2;---;5,(3-1) BCBBX;O;LAA;Mike Trout;Garrett Whitlock;2%;74%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, Red Sox 2.
+Bottom of the 6th, Red Sox Batting, Ahead 2-1, Angels' Reid Detmers facing 2-3-4 
+b6;2-1;0;---;4,(1-2) BCFX;;BOS;Justin Turner;Reid Detmers;3%;77%;Single to LF (Ground Ball thru SS-3B Hole)
+b6;2-1;0;1--;2,(0-1) CX;;BOS;Rob Refsnyder;Reid Detmers;5%;81%;Single to CF (Line Drive to Deep CF); Turner to 2B
+b6;2-1;0;12-;2,(1-0) BX;OO;BOS;Rafael Devers;Reid Detmers;-9%;72%;Ground Ball Double Play: SS-1B (Deep SS-2B); Turner to 3B
+b6;2-1;2;--3;2,(1-0) BX;O;BOS;Enrique Hernández;Reid Detmers;-4%;68%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Angels 1, Red Sox 2.
+Top of the 7th, Angels Batting, Behind 1-2, Red Sox' Garrett Whitlock facing 3-4-5 
+t7;1-2;0;---;2,(0-1) CX;O;LAA;Shohei Ohtani;Garrett Whitlock;5%;73%;Groundout: 2B-1B
+t7;1-2;1;---;7,(2-2) CCBFBFX;O;LAA;Anthony Rendon;Garrett Whitlock;3%;76%;Flyball: RF (RF Line)
+t7;1-2;2;---;6,(3-2) BSFBBS;O;LAA;Hunter Renfroe;Garrett Whitlock;2%;78%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, Red Sox 2.
+Bottom of the 7th, Red Sox Batting, Ahead 2-1, Angels' Reid Detmers facing 6-7-8 
+b7;2-1;0;---;7,(3-2) CBCBBFX;O;BOS;Masataka Yoshida;Reid Detmers;-2%;76%;Groundout: 2B-1B
+b7;2-1;1;---;2,(1-0) BX;;BOS;Christian Arroyo;Reid Detmers;2%;78%;Single to LF (Ground Ball thru SS-3B Hole)
+;;;;;;;;;Andrew Wantz replaces Reid Detmers pitching
+b7;2-1;1;1--;1,(0-0) .X;OO;BOS;Connor Wong;Andrew Wantz;-5%;74%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Angels 1, Red Sox 2.
+Top of the 8th, Angels Batting, Behind 1-2, Red Sox' Kaleb Ort facing 6-7-8 
+;;;;;;;;;Kaleb Ort replaces Garrett Whitlock pitching
+t8;1-2;0;---;1,(0-0) .X;;LAA;Gio Urshela;Kaleb Ort;-9%;65%;Single to LF (Ground Ball)
+;;;;;;;;;Taylor Ward pinch hits for Luis Rengifo (LF) batting 7th
+t8;1-2;0;1--;2,(1-0) .BX;O;LAA;Taylor Ward;Kaleb Ort;8%;73%;Flyball: CF (Short CF)
+t8;1-2;1;1--;4,(3-0) BBBB;;LAA;Brandon Drury;Kaleb Ort;-8%;65%;Walk; Urshela to 2B
+;;;;;;;;;Brett Phillips pinch runs for Gio Urshela (1B) batting 6th
+t8;1-2;1;12-;6,(3-2) .*BBBCSX;O;LAA;Logan O'Hoppe;Kaleb Ort;11%;75%;Flyball: CF (Deep LF-CF)
+t8;1-2;2;12-;2,(1-1) CB2;O;LAA;Zach Neto;Kaleb Ort;11%;86%;Phillips Picked off 2B (P-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 1, Red Sox 2.
+Bottom of the 8th, Red Sox Batting, Ahead 2-1, Angels' Andrew Wantz facing 9-1-2 
+;;;;;;;;;Jake Lamb replaces Brett Phillips (PR) playing 1B batting 6thTaylor Ward moves from PH to LF 
+b8;2-1;0;---;2,(1-0) ..BX;O;BOS;Yu Chang;Andrew Wantz;-2%;85%;Groundout: P unassisted (Weak 1B)
+b8;2-1;1;---;3,(1-1) BCX;;BOS;Alex Verdugo;Andrew Wantz;2%;86%;Single to RF (Line Drive to Deep RF)
+b8;2-1;1;1--;4,(1-2) FBSX;O;BOS;Justin Turner;Andrew Wantz;-2%;84%;Flyball: RF (Short RF Line)
+b8;2-1;2;1--;5,(1-2) C1CBFX;O;BOS;Rob Refsnyder;Andrew Wantz;-2%;83%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 1, Red Sox 2.
+Top of the 9th, Angels Batting, Behind 1-2, Red Sox' Ryan Brasier facing 1-2-3 
+;;;;;;;;;Ryan Brasier replaces Kaleb Ort pitching
+t9;1-2;0;---;1,(0-0) .X;O;LAA;Zach Neto;Ryan Brasier;8%;90%;Lineout: CF (Deep CF)
+t9;1-2;1;---;7,(3-2) CS.BFBBS;O;LAA;Mike Trout;Ryan Brasier;6%;96%;Strikeout Swinging
+t9;1-2;2;---;3,(1-1) CBX;O;LAA;Shohei Ohtani;Ryan Brasier;4%;100%;Flyball: LF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 1, Red Sox 2.

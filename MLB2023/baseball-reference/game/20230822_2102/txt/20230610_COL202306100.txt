@@ -1,0 +1,273 @@
+
+Scorebox Meta
+20230610
+1:10 p.m. Local
+37234
+Coors Field
+173
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/SDP-2023.png;/teams/SDP/2023.shtml;1;0;0;0;0;2;0;0;0;3;9;1
+https://cdn.ssref.net/req/202308101/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;1;0;0;1;0;0;0;0;2;5;0
+
+Batting home
+Jurickson Profar;/players/p/profaju01.shtml;LF;3;0;0;0;1;0;4;.243;.323;.389;.712;22;13;-0.055; 1.81;0.031;-0.086;-0.01%; 0.38; -0.6;2;0;
+Randal Grichuk;/players/g/grichra01.shtml;DH;4;0;1;0;0;1;4;.328;.385;.467;.852;16;11;-0.209; 1.66;0.014;-0.223;-0.03%; 0.34; -1.1;;;CS
+Ryan McMahon;/players/m/mcmahry01.shtml;3B-2B;4;0;1;0;0;3;4;.261;.336;.470;.806;20;13;-0.136; 1.49;0.013;-0.149;-0.02%; 0.31; -0.5;0;3;
+Elias Díaz;/players/d/diazel01.shtml;C;3;0;0;0;0;0;3;.294;.350;.452;.802;10;6;-0.097; 1.17;0.000;-0.097;-0.01%; 0.25; -0.7;8;1;
+Austin Wynns;/players/w/wynnsau01.shtml;C;1;0;0;0;0;0;1;.186;.250;.233;.483;4;3;-0.077; 2.93;0.000;-0.077;-0.01%; 0.61; -0.2;2;0;
+Elehuris Montero;/players/m/monteel01.shtml;1B;4;0;0;0;0;1;4;.221;.254;.338;.592;13;8;-0.135; 1.25;0.000;-0.135;-0.02%; 0.26; -0.7;10;0;
+Nolan Jones;/players/j/jonesno01.shtml;RF;3;1;1;1;0;0;3;.348;.400;.630;1.030;17;12;0.042; 0.96;0.100;-0.058; 0.01%; 0.20; 0.6;1;0;HR
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;3;1;2;0;0;0;3;.253;.296;.401;.697;12;8;0.236; 1.89;0.254;-0.018; 0.03%; 0.40; 1.1;0;1;
+Alan Trejo;/players/t/trejoal01.shtml;2B;2;0;0;1;0;1;2;.241;.271;.313;.584;9;6;0.058; 1.08;0.070;-0.012; 0.01%; 0.23; 0.5;1;1;
+Charlie Blackmon;/players/b/blackch02.shtml;PH;1;0;0;0;0;0;1;.265;.347;.422;.769;4;4;-0.034; 3.02;0.000;-0.034;-0.00%; 0.63; -0.2;;;
+Harold Castro;/players/c/castrha01.shtml;CF;0;0;0;0;0;0;0;.266;.278;.320;.599;;;;;;;;;;0;0;
+Brenton Doyle;/players/d/doylebr02.shtml;CF;2;0;0;0;0;1;2;.211;.256;.367;.623;7;4;-0.081; 1.00;0.000;-0.081;-0.01%; 0.21; -0.9;3;0;CS
+Mike Moustakas;/players/m/moustmi01.shtml;PH-3B;1;0;0;0;0;0;1;.255;.342;.415;.757;2;2;-0.169; 3.76;0.000;-0.169;-0.02%; 0.78; -0.6;0;1;
+Kyle Freeland;/players/f/freelky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Jake Bird;/players/b/birdja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brad Hand;/players/h/handbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Daniel Bard;/players/b/bardda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Pierce Johnson;/players/j/johnspi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Justin Lawrence;/players/l/lawreju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+HR: Nolan Jones (3, off Ryan Weathers, 2nd inn, 0 on, 1 out to Deep LF Line).
+
+
+TB: Nolan Jones 4; Ezequiel Tovar 2; Randal Grichuk; Ryan McMahon.
+
+
+RBI: Alan Trejo (13); Nolan Jones (11).
+
+
+Team LOB: 3.
+With RISP: 0 for 4.
+
+Batting away
+Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF;5;0;2;2;0;1;5;.266;.315;.516;.831;19;12;0.249; 1.71;0.329;-0.080; 0.12%; 1.33; 1.5;3;0;2B
+Juan Soto;/players/s/sotoju01.shtml;LF;5;0;0;0;0;1;5;.262;.414;.471;.884;14;10;-0.180; 1.19;0.000;-0.180;-0.08%; 0.93; -1.8;0;0;
+Manny Machado;/players/m/machama01.shtml;3B;5;1;3;0;0;1;5;.249;.298;.392;.689;21;15;0.025; 0.89;0.110;-0.084; 0.01%; 0.69; 0.2;1;4;2B,CS
+Gary Sánchez;/players/s/sanchga02.shtml;DH;5;0;1;1;0;2;5;.267;.306;.644;.951;25;18;-0.047; 1.11;0.099;-0.146;-0.02%; 0.86; -0.3;;;
+Xander Bogaerts;/players/b/bogaexa01.shtml;SS;2;1;1;0;2;0;4;.258;.345;.394;.739;16;6;0.086; 1.23;0.116;-0.030; 0.04%; 0.96; 0.7;3;2;
+Jake Cronenworth;/players/c/croneja01.shtml;1B;3;0;0;0;1;1;4;.214;.326;.366;.692;16;10;-0.105; 1.72;0.032;-0.137;-0.05%; 1.34; -0.8;7;2;
+Ha-Seong Kim;/players/k/kimha01.shtml;2B;3;1;0;0;1;1;4;.237;.335;.363;.698;17;9;-0.075; 1.68;0.055;-0.130;-0.03%; 1.31; -0.9;2;1;
+Trent Grisham;/players/g/grishtr01.shtml;CF;4;0;1;0;0;3;4;.193;.314;.365;.679;19;13;-0.085; 1.53;0.043;-0.128;-0.04%; 1.19; -0.7;3;0;2B
+Austin Nola;/players/n/nolaau01.shtml;C;3;0;1;0;1;0;4;.135;.256;.180;.436;17;9;-0.027; 1.62;0.066;-0.093;-0.01%; 1.26; -0.3;7;1;
+Ryan Weathers;/players/w/weathry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Drew Carlton;/players/c/carltdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Steven Wilson;/players/w/wilsost02.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Tim Hill;/players/h/hillti01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nick Martinez;/players/m/martini01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Josh Hader;/players/h/haderjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Trent Grisham (15, off Kyle Freeland); Fernando Tatis Jr. (11, off Kyle Freeland); Manny Machado (9, off Daniel Bard).
+
+
+TB: Manny Machado 4; Fernando Tatis Jr. 3; Trent Grisham 2; Austin Nola; Gary Sánchez; Xander Bogaerts.
+
+
+RBI: Fernando Tatis Jr. 2 (32); Gary Sánchez (13).
+
+
+2-out RBI: Fernando Tatis Jr. 2; Gary Sánchez.
+
+
+Team LOB: 10.
+With RISP: 1 for 12.
+
+Pitching home
+Kyle Freeland;/players/f/freelky01.shtml;Kyle Freeland; 5 ;6;1;1;2;5;0;3.91;22;90;59;32;5;22;8;7;3;0;54;;;0.205; 1.16; 0.03%; 0.24; 2.0
+Jake Bird;/players/b/birdja01.shtml; L (1-1); 0.2;2;2;2;2;2;0;3.43;6;28;14;6;3;5;1;1;1;0;;0;0;-0.286; 2.59;-0.04%; 0.54; -2.0
+Brad Hand;/players/h/handbr01.shtml;Brad Hand; 0.1;0;0;0;0;0;0;3.86;1;2;1;1;0;0;1;0;0;0;;2;0;0.060; 2.06; 0.01%; 0.43; 0.6
+Daniel Bard;/players/b/bardda01.shtml;Daniel Bard; 1 ;1;0;0;1;1;0;0.96;5;20;10;5;1;4;1;2;0;0;;0;0;0.066; 1.60; 0.01%; 0.33; 0.6
+Pierce Johnson;/players/j/johnspi01.shtml;Pierce Johnson; 1 ;0;0;0;0;1;0;7.20;3;10;7;3;2;2;1;1;1;0;;0;0;0.064; 0.79; 0.01%; 0.17; 0.6
+Justin Lawrence;/players/l/lawreju01.shtml;Justin Lawrence; 1 ;0;0;0;0;1;0;3.31;3;14;11;8;1;2;2;0;0;0;;0;0;0.049; 0.62; 0.01%; 0.13; 0.6
+
+Pitching away
+Ryan Weathers;/players/w/weathry01.shtml;Ryan Weathers; 3 ;3;1;1;0;2;1;4.93;11;43;25;15;6;4;3;6;4;0;51;;;0.069; 0.73; 0.03%; 0.57; 0.8
+Drew Carlton;/players/c/carltdr01.shtml; W (2-0); 2 ;1;1;1;0;1;0;4.30;7;28;21;14;4;3;3;3;2;0;;0;0;-0.009; 1.08;-0.00%; 0.84; 0.2
+Steven Wilson;/players/w/wilsost02.shtml; H (11); 1.2;0;0;0;0;2;0;2.84;5;27;17;10;3;4;2;1;0;0;;0;0;0.183; 1.37; 0.08%; 1.07; 1.1
+Tim Hill;/players/h/hillti01.shtml; H (7); 0.1;0;0;0;0;0;0;3.42;1;4;3;2;0;1;1;0;0;0;;0;0;0.027; 0.97; 0.01%; 0.75; 0.1
+Nick Martinez;/players/m/martini01.shtml; H (6); 1 ;1;0;0;1;0;0;2.84;5;21;14;8;4;2;2;2;0;0;;0;0;0.156; 3.69; 0.07%; 2.87; 0.6
+Josh Hader;/players/h/haderjo01.shtml; S (15); 1 ;0;0;0;0;2;0;1.42;3;13;10;4;4;2;1;0;0;0;;0;0;0.232; 2.89; 0.11%; 2.25; 0.6
+
+indiv_events
+
+Balks: None.
+WP: Drew Carlton (1); Nick Martinez (2).
+HBP: None.
+IBB: None.
+Pickoffs: Ryan Weathers (4; Randal Grichuk, 2nd base (CS)).
+
+Balks: None.
+WP: Drew Carlton (1); Nick Martinez (2).
+HBP: None.
+IBB: None.
+Pickoffs: Ryan Weathers (4; Randal Grichuk, 2nd base (CS)).
+
+section_content
+Umpires: HP - Adam Hamari, 1B - Nick Mahrley, 2B - Vic Carapazza, 3B - Jerry Layne, LF - (none), RF - (none).
+Time of Game: 2:53.
+Attendance: 37,234.
+Field Condition: Unknown.
+Start Time Weather: 73° F, Wind 2mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Padres
+1;Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF
+2;Juan Soto;/players/s/sotoju01.shtml;LF
+3;Manny Machado;/players/m/machama01.shtml;3B
+4;Gary Sánchez;/players/s/sanchga02.shtml;DH
+5;Xander Bogaerts;/players/b/bogaexa01.shtml;SS
+6;Jake Cronenworth;/players/c/croneja01.shtml;1B
+7;Ha-Seong Kim;/players/k/kimha01.shtml;2B
+8;Trent Grisham;/players/g/grishtr01.shtml;CF
+9;Austin Nola;/players/n/nolaau01.shtml;C
+; Ryan Weathers;/players/w/weathry01.shtml;P
+Rockies
+1;Jurickson Profar;/players/p/profaju01.shtml;LF
+2;Randal Grichuk;/players/g/grichra01.shtml;DH
+3;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+4;Elias Díaz;/players/d/diazel01.shtml;C
+5;Elehuris Montero;/players/m/monteel01.shtml;1B
+6;Nolan Jones;/players/j/jonesno01.shtml;RF
+7;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+8;Alan Trejo;/players/t/trejoal01.shtml;2B
+9;Brenton Doyle;/players/d/doylebr02.shtml;CF
+; Kyle Freeland;/players/f/freelky01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t6;1-2;2;123;4,(2-1) BCBX;RR;SDP;Fernando Tatis Jr.;Jake Bird;25%;64%;Single to RF (Line Drive); Bogaerts Scores; Kim Scores; Nola to 3B
+b8;2-3;1;--3;2,(0-1) .SX;O;COL;Mike Moustakas;Nick Martinez;17%;70%;Foul Popfly: 3B (3B into Foul Terr.)
+b8;2-3;2;1-3;3,(1-1) BSX;O;COL;Randal Grichuk;Nick Martinez;15%;82%;Flyball: SS (Deep SS)
+b2;0-1;1;---;3,(2-0) BBX;R;COL;Nolan Jones;Ryan Weathers;-10%;47%;Home Run (Fly Ball to Deep LF Line)
+b9;2-3;0;---;4,(0-2) .CS.FS;O;COL;Ryan McMahon;Josh Hader;10%;87%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Padres Batting, Tied 0-0, Rockies' Kyle Freeland facing 1-2-3 
+t1;0-0;0;---;6,(2-2) SBFBFS;O;SDP;Fernando Tatis Jr.;Kyle Freeland;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;2,(0-1) CX;O;SDP;Juan Soto;Kyle Freeland;-2%;46%;Groundout: 1B unassisted
+t1;0-0;2;---;5,(1-2) CCFBX;;SDP;Manny Machado;Kyle Freeland;1%;47%;Single to LF (Line Drive to Deep LF)
+t1;0-0;2;1--;3,(0-2) FF>X;R;SDP;Gary Sánchez;Kyle Freeland;10%;57%;Single to LF (Line Drive to Deep LF-CF); Machado Scores; Sánchez to 2B
+t1;1-0;2;-2-;2,(0-1) CX;O;SDP;Xander Bogaerts;Kyle Freeland;-3%;54%;Groundout: SS-1B (Front of Home)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Padres 1, Rockies 0.
+Bottom of the 1st, Rockies Batting, Behind 0-1, Padres' Ryan Weathers facing 1-2-3 
+b1;0-1;0;---;3,(0-2) CFX;O;COL;Jurickson Profar;Ryan Weathers;2%;56%;Lineout: RF
+b1;0-1;1;---;5,(2-2) CBSBX;O;COL;Randal Grichuk;Ryan Weathers;2%;58%;Flyball: RF (Short CF-RF)
+b1;0-1;2;---;5,(3-1) SBBBX;;COL;Ryan McMahon;Ryan Weathers;-1%;57%;Single to CF (Line Drive to Deep CF)
+b1;0-1;2;1--;1,(0-0) X;O;COL;Elias Díaz;Ryan Weathers;2%;59%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 1, Rockies 0.
+Top of the 2nd, Padres Batting, Ahead 1-0, Rockies' Kyle Freeland facing 6-7-8 
+t2;1-0;0;---;6,(3-2) CBBF.BB;;SDP;Jake Cronenworth;Kyle Freeland;3%;63%;Walk
+t2;1-0;0;1--;3,(0-2) CFX;O;SDP;Ha-Seong Kim;Kyle Freeland;-3%;59%;Flyball: LF (Deep LF)
+t2;1-0;1;1--;5,(2-2) C.FBBS;O;SDP;Trent Grisham;Kyle Freeland;-3%;57%;Strikeout Swinging
+t2;1-0;2;1--;3,(0-2) FC1X;;SDP;Austin Nola;Kyle Freeland;2%;59%;Single to SS (Ground Ball to SS-3B Hole); Cronenworth to 2B
+t2;1-0;2;12-;6,(3-2) BBBCC.>X;O;SDP;Fernando Tatis Jr.;Kyle Freeland;-4%;54%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Padres 1, Rockies 0.
+Bottom of the 2nd, Rockies Batting, Behind 0-1, Padres' Ryan Weathers facing 5-6-7 
+b2;0-1;0;---;3,(2-0) BBX;O;COL;Elehuris Montero;Ryan Weathers;3%;57%;Lineout: CF (Deep CF)
+b2;0-1;1;---;3,(2-0) BBX;R;COL;Nolan Jones;Ryan Weathers;-10%;47%;Home Run (Fly Ball to Deep LF Line)
+b2;1-1;1;---;3,(1-1) SBX;O;COL;Ezequiel Tovar;Ryan Weathers;2%;49%;Groundout: 3B-1B (Weak 3B)
+b2;1-1;2;---;5,(2-2) BSFBS;O;COL;Alan Trejo;Ryan Weathers;1%;50%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Padres 1, Rockies 1.
+Top of the 3rd, Padres Batting, Tied 1-1, Rockies' Kyle Freeland facing 2-3-4 
+t3;1-1;0;---;5,(2-2) CBBC.C;O;SDP;Juan Soto;Kyle Freeland;-3%;47%;Strikeout Looking
+t3;1-1;1;---;1,(0-0) X;;SDP;Manny Machado;Kyle Freeland;3%;50%;Single to LF (Ground Ball thru SS-3B Hole)
+t3;1-1;1;1--;5,(2-2) BBCFC;O;SDP;Gary Sánchez;Kyle Freeland;-3%;47%;Strikeout Looking
+t3;1-1;2;1--;1,(0-0) >B;O;SDP;Xander Bogaerts;Kyle Freeland;-3%;44%;Machado Caught Stealing 2B (C-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Padres 1, Rockies 1.
+Bottom of the 3rd, Rockies Batting, Tied 1-1, Padres' Ryan Weathers facing 9-1-2 
+b3;1-1;0;---;5,(2-2) BBFST;O;COL;Brenton Doyle;Ryan Weathers;3%;47%;Strikeout Swinging
+b3;1-1;1;---;6,(2-2) BB.CCFX;O;COL;Jurickson Profar;Ryan Weathers;2%;49%;Lineout: CF (Deep CF-RF)
+b3;1-1;2;---;3,(1-1) BFX;;COL;Randal Grichuk;Ryan Weathers;-1%;47%;Single to RF (Ground Ball thru 2B-1B)
+b3;1-1;2;1--;1,(1-0) *B1;O;COL;Ryan McMahon;Ryan Weathers;3%;50%;Grichuk Caught Stealing (PO) 2B (P-1B-SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Padres 1, Rockies 1.
+Top of the 4th, Padres Batting, Tied 1-1, Rockies' Kyle Freeland facing 5-6-7 
+t4;1-1;0;---;4,(3-0) BBBB;;SDP;Xander Bogaerts;Kyle Freeland;4%;54%;Walk
+t4;1-1;0;1--;3,(0-2) CFX;O;SDP;Jake Cronenworth;Kyle Freeland;-4%;50%;Flyball: CF (Deep CF)
+t4;1-1;1;1--;5,(2-2) FBCBX;O;SDP;Ha-Seong Kim;Kyle Freeland;-4%;47%;Flyball: CF (Deep CF-RF)
+t4;1-1;2;1--;3,(1-1) BCX;;SDP;Trent Grisham;Kyle Freeland;4%;51%;Double to RF (Ground Ball); Bogaerts to 3B
+t4;1-1;2;-23;7,(3-2) CBBBCFX;O;SDP;Austin Nola;Kyle Freeland;-7%;44%;Flyball: RF (CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Padres 1, Rockies 1.
+Bottom of the 4th, Rockies Batting, Tied 1-1, Padres' Drew Carlton facing 3-4-5 
+;;;;;;;;;Drew Carlton replaces Ryan Weathers pitching
+b4;1-1;0;---;3,(0-2) .SS.S;O;COL;Ryan McMahon;Drew Carlton;3%;46%;Strikeout Swinging
+b4;1-1;1;---;2,(1-0) BX;O;COL;Elias Díaz;Drew Carlton;2%;49%;Groundout: SS-1B (SS-3B Hole)
+b4;1-1;2;---;2,(0-1) CX;O;COL;Elehuris Montero;Drew Carlton;1%;50%;Lineout: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Rockies 1.
+Top of the 5th, Padres Batting, Tied 1-1, Rockies' Kyle Freeland facing 1-2-3 
+t5;1-1;0;---;1,(0-0) X;;SDP;Fernando Tatis Jr.;Kyle Freeland;8%;58%;Double to CF (Line Drive to Deep CF)
+;;;;;;;;;Tag play Challenged by COL manager (Bud Black): Original call upheld upon review.
+t5;1-1;0;-2-;4,(1-2) BSCX;O;SDP;Juan Soto;Kyle Freeland;-5%;52%;Groundout: P-1B
+t5;1-1;1;-2-;5,(2-2) FBBFX;O;SDP;Manny Machado;Kyle Freeland;-4%;48%;Groundout: 3B-1B (SS-3B Hole); Tatís to 3B
+t5;1-1;2;--3;5,(1-2) CFBF*S;O;SDP;Gary Sánchez;Kyle Freeland;-5%;43%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 1, Rockies 1.
+Bottom of the 5th, Rockies Batting, Tied 1-1, Padres' Drew Carlton facing 6-7-8 
+b5;1-1;0;---;10,(2-2) CF.FBFFFBFX;O;COL;Nolan Jones;Drew Carlton;3%;46%;Flyball: CF (Deep CF)
+b5;1-1;1;---;4,(1-2) FSBX;;COL;Ezequiel Tovar;Drew Carlton;-5%;41%;Single to CF (Line Drive to Deep CF); Tovar to 2B/Adv on E8
+b5;1-1;1;-2-;2,(0-1) CB;;COL;Alan Trejo;Drew Carlton;-4%;37%;Wild Pitch; Tovar to 3B
+b5;1-1;1;--3;4,(1-2) CB.FX;R;COL;Alan Trejo;Drew Carlton;-7%;30%;Fielder's Choice 2B; Tovar Scores; Trejo to 1B
+b5;2-1;1;1--;2,(1-0) BX;O;COL;Brenton Doyle;Drew Carlton;3%;33%;Groundout: SS-2B/Forceout at 2B; Doyle to 1B
+b5;2-1;2;1--;1,(0-0) >B;O;COL;Jurickson Profar;Drew Carlton;3%;36%;Doyle Caught Stealing 2B (C-SS)
+;;;;;;;;;1 run, 1 hit, 1 error, 0 LOB. Padres 1, Rockies 2.
+Top of the 6th, Padres Batting, Behind 1-2, Rockies' Jake Bird facing 5-6-7 
+;;;;;;;;;Jake Bird replaces Kyle Freeland pitching
+t6;1-2;0;---;4,(1-2) .CBS.X;;SDP;Xander Bogaerts;Jake Bird;6%;41%;Single to SS (Ground Ball to SS-3B Hole)
+t6;1-2;0;1--;6,(2-2) CBBCFS;O;SDP;Jake Cronenworth;Jake Bird;-5%;36%;Strikeout Swinging
+t6;1-2;1;1--;4,(3-0) BBBB;;SDP;Ha-Seong Kim;Jake Bird;6%;41%;Walk; Bogaerts to 2B
+t6;1-2;1;12-;6,(1-2) .TSFFBC;O;SDP;Trent Grisham;Jake Bird;-7%;34%;Strikeout Looking
+t6;1-2;2;12-;4,(3-0) BBBB;;SDP;Austin Nola;Jake Bird;5%;39%;Walk; Bogaerts to 3B; Kim to 2B
+t6;1-2;2;123;4,(2-1) BCBX;RR;SDP;Fernando Tatis Jr.;Jake Bird;25%;64%;Single to RF (Line Drive); Bogaerts Scores; Kim Scores; Nola to 3B
+;;;;;;;;;Brad Hand replaces Jake Bird pitching
+t6;3-2;2;1-3;2,(2-0) 1.VBX;O;SDP;Juan Soto;Brad Hand;-6%;58%;Groundout: 1B unassisted
+;;;;;;;;;2 runs, 2 hits, 0 errors, 2 LOB. Padres 3, Rockies 2.
+Bottom of the 6th, Rockies Batting, Behind 2-3, Padres' Steven Wilson facing 1-2-3 
+;;;;;;;;;Steven Wilson replaces Drew Carlton pitching
+b6;2-3;0;---;5,(2-2) .BBFCX;O;COL;Jurickson Profar;Steven Wilson;4%;62%;Groundout: 1B-P
+b6;2-3;1;---;5,(1-2) BFCFS;O;COL;Randal Grichuk;Steven Wilson;3%;65%;Strikeout Swinging
+b6;2-3;2;---;7,(3-2) BCC.BBFS;O;COL;Ryan McMahon;Steven Wilson;2%;67%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 3, Rockies 2.
+Top of the 7th, Padres Batting, Ahead 3-2, Rockies' Daniel Bard facing 3-4-5 
+;;;;;;;;;Daniel Bard replaces Brad Hand pitching
+t7;3-2;0;---;6,(3-2) .BCBFBX;;SDP;Manny Machado;Daniel Bard;7%;74%;Double to LF (Fly Ball to Deep LF-CF)
+t7;3-2;0;-2-;3,(1-1) BCX;O;SDP;Gary Sánchez;Daniel Bard;-5%;69%;Groundout: 3B-1B (SS-3B Hole)
+t7;3-2;1;-2-;5,(3-1) BBBCB;;SDP;Xander Bogaerts;Daniel Bard;2%;71%;Walk
+t7;3-2;1;12-;1,(0-0) X;O;SDP;Jake Cronenworth;Daniel Bard;-4%;67%;Flyball: CF (Deep CF-RF); Machado to 3B
+t7;3-2;2;1-3;5,(2-2) BCB>FS;O;SDP;Ha-Seong Kim;Daniel Bard;-6%;61%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Padres 3, Rockies 2.
+Bottom of the 7th, Rockies Batting, Behind 2-3, Padres' Steven Wilson facing 4-5-6 
+b7;2-3;0;---;7,(3-2) BFBF.FBX;O;COL;Elias Díaz;Steven Wilson;5%;66%;Popfly: 2B
+b7;2-3;1;---;3,(1-1) BSX;O;COL;Elehuris Montero;Steven Wilson;4%;70%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;Tim Hill replaces Steven Wilson pitching
+b7;2-3;2;---;4,(1-2) .BCT.X;O;COL;Nolan Jones;Tim Hill;3%;72%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 3, Rockies 2.
+Top of the 8th, Padres Batting, Ahead 3-2, Rockies' Pierce Johnson facing 8-9-1 
+;;;;;;;;;Pierce Johnson replaces Daniel Bard pitchingAustin Wynns replaces Elias Díaz playing C batting 4th
+t8;3-2;0;---;5,(2-2) .F.S.BBC;O;SDP;Trent Grisham;Pierce Johnson;-3%;70%;Strikeout Looking
+t8;3-2;1;---;3,(1-1) BCX;O;SDP;Austin Nola;Pierce Johnson;-2%;68%;Lineout: LF (Deep LF-CF)
+t8;3-2;2;---;2,(0-1) SX;O;SDP;Fernando Tatis Jr.;Pierce Johnson;-2%;66%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 3, Rockies 2.
+Bottom of the 8th, Rockies Batting, Behind 2-3, Padres' Nick Martinez facing 7-8-9 
+;;;;;;;;;Nick Martinez replaces Tim Hill pitching
+b8;2-3;0;---;5,(2-2) .BCSBX;;COL;Ezequiel Tovar;Nick Martinez;-9%;57%;Single to 3B (Ground Ball to Short 3B Line)
+;;;;;;;;;Charlie Blackmon pinch hits for Alan Trejo (2B) batting 8th
+b8;2-3;0;1--;1,(0-0) .S;;COL;Charlie Blackmon;Nick Martinez;-7%;50%;Wild Pitch; Tovar to 2B
+b8;2-3;0;-2-;4,(0-2) .S.FFX;O;COL;Charlie Blackmon;Nick Martinez;3%;53%;Groundout: 2B-1B; Tovar to 3B
+;;;;;;;;;Mike Moustakas pinch hits for Brenton Doyle (CF) batting 9th
+b8;2-3;1;--3;2,(0-1) .SX;O;COL;Mike Moustakas;Nick Martinez;17%;70%;Foul Popfly: 3B (3B into Foul Terr.)
+b8;2-3;2;--3;7,(3-2) BCFFBBB;;COL;Jurickson Profar;Nick Martinez;-3%;67%;Walk
+b8;2-3;2;1-3;3,(1-1) BSX;O;COL;Randal Grichuk;Nick Martinez;15%;82%;Flyball: SS (Deep SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Padres 3, Rockies 2.
+Top of the 9th, Padres Batting, Ahead 3-2, Rockies' Justin Lawrence facing 2-3-4 
+;;;;;;;;;Justin Lawrence replaces Pierce Johnson pitchingRyan McMahon moves from 3B to 2B Mike Moustakas moves from PH to 3B Harold Castro replaces Charlie Blackmon (PH) playing CF batting 8th
+t9;3-2;0;---;1,(0-0) ....X;O;SDP;Juan Soto;Justin Lawrence;-2%;80%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;Force Play Challenged by SDP manager (Bob Melvin): Original call upheld upon review.
+t9;3-2;1;---;4,(0-2) CFFS;O;SDP;Manny Machado;Justin Lawrence;-2%;78%;Strikeout Swinging
+t9;3-2;2;---;9,(3-2) CBBFFFFBX;O;SDP;Gary Sánchez;Justin Lawrence;-1%;77%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 3, Rockies 2.
+Bottom of the 9th, Rockies Batting, Behind 2-3, Padres' Josh Hader facing 3-4-5 
+;;;;;;;;;Josh Hader replaces Nick Martinez pitching
+b9;2-3;0;---;4,(0-2) .CS.FS;O;COL;Ryan McMahon;Josh Hader;10%;87%;Strikeout Swinging
+b9;2-3;1;---;4,(1-2) CF.BX;O;COL;Austin Wynns;Josh Hader;8%;94%;Groundout: P-1B (Front of Home)
+b9;2-3;2;---;5,(2-2) SBBF.S;O;COL;Elehuris Montero;Josh Hader;6%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 3, Rockies 2.

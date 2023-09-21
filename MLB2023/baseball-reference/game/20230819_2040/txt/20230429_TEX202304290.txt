@@ -1,0 +1,234 @@
+
+Scorebox Meta
+20230429
+6:05 p.m. Local
+40027
+Globe Life Field
+126
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;0;0;0;0;0;0;0;0;0;3;0
+https://cdn.ssref.net/req/202308101/tlogo/br/TEX-2023.png;/teams/TEX/2023.shtml;0;0;0;0;2;0;0;0;X;2;5;0
+
+Batting home
+Marcus Semien;/players/s/semiema01.shtml;2B;4;0;0;0;0;1;4;.278;.352;.472;.825;11;8;-0.103; 0.83;0.000;-0.103;-0.07%; 0.96; -1.3;3;2;
+Travis Jankowski;/players/j/jankotr01.shtml;CF;3;0;0;0;1;1;4;.302;.393;.396;.790;19;8;-0.084; 0.79;0.033;-0.117;-0.06%; 0.91; -1.0;0;0;SB
+Nathaniel Lowe;/players/l/lowena01.shtml;1B;2;0;0;0;1;1;4;.252;.325;.430;.755;18;8;-0.049; 0.93;0.027;-0.076;-0.03%; 1.07; -0.1;11;0;HBP
+Adolis García;/players/g/garciad02.shtml;RF;4;0;0;0;0;1;4;.255;.307;.500;.807;14;7;-0.094; 0.83;0.000;-0.094;-0.07%; 0.96; -1.5;4;0;GDP
+Josh Jung;/players/j/jungjo01.shtml;3B;3;0;0;0;0;2;3;.260;.311;.458;.769;11;8;-0.060; 0.80;0.000;-0.060;-0.04%; 0.92; -0.7;0;6;
+Jonah Heim;/players/h/heimjo01.shtml;C;2;0;0;0;1;0;3;.278;.369;.514;.883;14;10;-0.019; 0.57;0.011;-0.030;-0.01%; 0.65; -0.1;8;0;
+Robbie Grossman;/players/g/grossro01.shtml;DH;3;1;1;0;0;1;3;.250;.317;.417;.734;11;8;0.009; 0.87;0.046;-0.037; 0.01%; 1.00; -0.2;;;
+Ezequiel Duran;/players/d/duranez01.shtml;SS;3;1;2;2;0;0;3;.310;.344;.466;.810;8;4;0.227; 1.09;0.238;-0.011; 0.16%; 1.25; 1.8;0;2;HR
+Bubba Thompson;/players/t/thompbu01.shtml;LF;3;0;2;0;0;0;3;.233;.258;.433;.691;9;8;0.096; 0.72;0.123;-0.027; 0.07%; 0.83; 0.9;1;0;2B,CS
+Nathan Eovaldi;/players/e/eovalna01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Bubba Thompson (4, off Jhony Brito).
+
+
+HR: Ezequiel Duran (2, off Jhony Brito, 5th inn, 1 on, 0 outs to Deep LF).
+
+
+HBP: Nathaniel Lowe (1, by Wandy Peralta).
+
+
+TB: Ezequiel Duran 5; Bubba Thompson 3; Robbie Grossman.
+
+
+GIDP: Adolis García (1).
+
+
+RBI: Ezequiel Duran 2 (10).
+
+
+Team LOB: 5.
+With RISP: 0 for 5.
+
+Batting away
+Anthony Volpe;/players/v/volpean01.shtml;SS;4;0;0;0;0;1;4;.216;.337;.330;.666;19;13;-0.095; 0.91;0.000;-0.095;-0.05%; 0.81; -0.8;1;3;
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;4;0;1;0;0;2;4;.293;.383;.495;.878;15;10;0.002; 0.66;0.043;-0.041; 0.00%; 0.60; 0.0;7;1;
+Gleyber Torres;/players/t/torregl01.shtml;2B;3;0;0;0;0;0;3;.244;.361;.433;.794;10;7;-0.136; 1.16;0.000;-0.136;-0.07%; 1.05; -1.2;1;1;GDP
+DJ LeMahieu;/players/l/lemahdj01.shtml;3B;3;0;0;0;0;2;3;.256;.323;.453;.776;12;9;-0.061; 0.79;0.000;-0.061;-0.03%; 0.71; -0.5;0;5;
+Willie Calhoun;/players/c/calhowi01.shtml;DH;3;0;1;0;0;0;3;.243;.275;.270;.545;13;7;0.016; 0.80;0.047;-0.031; 0.01%; 0.72; 0.1;;;
+Oswaldo Cabrera;/players/c/cabreos01.shtml;RF;2;0;0;0;0;0;3;.207;.233;.293;.525;9;7;-0.071; 1.26;0.000;-0.071;-0.04%; 1.14; -0.6;0;0;SH
+Jose Trevino;/players/t/trevijo01.shtml;C;3;0;0;0;0;1;3;.237;.262;.373;.635;16;12;-0.097; 1.21;0.000;-0.097;-0.05%; 1.09; -0.8;8;1;
+Jake Bauers;/players/b/bauerja01.shtml;LF;0;0;0;0;0;0;0;;;;;;;;;;;;;;1;0;
+Aaron Hicks;/players/h/hicksaa01.shtml;LF;3;0;0;0;0;1;3;.125;.205;.125;.330;10;7;-0.078; 0.94;0.000;-0.078;-0.04%; 0.85; -0.6;4;0;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;CF;3;0;1;0;0;1;3;.174;.224;.174;.398;9;6;-0.058; 1.08;0.014;-0.072;-0.03%; 0.97; -0.4;1;0;
+Jhony Brito;/players/b/britojh01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Ron Marinaccio;/players/m/marinro01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ian Hamilton;/players/h/hamilia01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Wandy Peralta;/players/p/peralwa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+SH: Oswaldo Cabrera (1, off Nathan Eovaldi).
+
+
+TB: Willie Calhoun; Isiah Kiner-Falefa; Anthony Rizzo.
+
+
+GIDP: Gleyber Torres (4).
+
+
+Team LOB: 2.
+With RISP: 0 for 2.
+
+Pitching home
+Nathan Eovaldi;/players/e/eovalna01.shtml; W (3-2); 9 ;3;0;0;0;8;0;3.93;29;113;78;45;13;20;14;7;2;0;89;;;0.577; 0.97; 0.40%; 1.11; 4.7
+
+Pitching away
+Jhony Brito;/players/b/britojh01.shtml; L (2-3); 5 ;4;2;2;1;5;1;5.56;20;59;43;21;6;16;6;8;3;0;55;;;0.007; 1.00; 0.00%; 0.90; 0.6
+Ron Marinaccio;/players/m/marinro01.shtml;Ron Marinaccio; 1 ;0;0;0;2;2;0;2.31;5;28;14;10;2;2;1;0;0;0;;0;0;0.031; 0.71; 0.02%; 0.64; 0.5
+Ian Hamilton;/players/h/hamilia01.shtml;Ian Hamilton; 1 ;1;0;0;0;0;0;1.72;3;17;10;5;2;3;1;2;1;0;;0;0;0.025; 0.43; 0.01%; 0.39; 0.5
+Wandy Peralta;/players/p/peralwa01.shtml;Wandy Peralta; 1 ;0;0;0;0;0;0;2.70;3;11;4;2;0;2;2;0;0;0;;0;0;0.015; 0.26; 0.01%; 0.24; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Wandy Peralta (2; Nathaniel Lowe).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Wandy Peralta (2; Nathaniel Lowe).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Jeremy Riggs, 1B - Chris Guccione, 2B - Lance Barrett, 3B - Ryan Blakney, LF - (none), RF - (none).
+Time of Game: 2:06.
+Attendance: 40,027.
+Start Time Weather: 74° F, Wind 0mph, In Dome.
+
+div_lineups
+Yankees
+1;Anthony Volpe;/players/v/volpean01.shtml;SS
+2;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+3;Gleyber Torres;/players/t/torregl01.shtml;2B
+4;DJ LeMahieu;/players/l/lemahdj01.shtml;3B
+5;Willie Calhoun;/players/c/calhowi01.shtml;DH
+6;Oswaldo Cabrera;/players/c/cabreos01.shtml;RF
+7;Jose Trevino;/players/t/trevijo01.shtml;C
+8;Jake Bauers;/players/b/bauerja01.shtml;LF
+9;Isiah Kiner-Falefa;/players/k/kineris01.shtml;CF
+; Jhony Brito;/players/b/britojh01.shtml;P
+Rangers
+1;Marcus Semien;/players/s/semiema01.shtml;2B
+2;Travis Jankowski;/players/j/jankotr01.shtml;CF
+3;Nathaniel Lowe;/players/l/lowena01.shtml;1B
+4;Adolis García;/players/g/garciad02.shtml;RF
+5;Josh Jung;/players/j/jungjo01.shtml;3B
+6;Jonah Heim;/players/h/heimjo01.shtml;C
+7;Robbie Grossman;/players/g/grossro01.shtml;DH
+8;Ezequiel Duran;/players/d/duranez01.shtml;SS
+9;Bubba Thompson;/players/t/thompbu01.shtml;LF
+; Nathan Eovaldi;/players/e/eovalna01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b5;0-0;0;1--;2,(1-0) B1X;RR;TEX;Ezequiel Duran;Jhony Brito;20%;81%;Home Run (Line Drive to Deep LF); Grossman Scores
+b3;0-0;0;1--;1,(0-0) X;;TEX;Bubba Thompson;Jhony Brito;11%;71%;Double to LF (Ground Ball thru SS-3B Hole); Duran to 3B
+b3;0-0;1;-23;4,(1-2) BCSX;O;TEX;Travis Jankowski;Jhony Brito;-10%;55%;Fielder's Choice ; Duran out at Hm/SS-C; Jankowski to 1B
+t4;0-0;0;1--;2,(0-1) FX;OO;NYY;Gleyber Torres;Nathan Eovaldi;9%;55%;Ground Ball Double Play: SS-2B-1B
+b3;0-0;0;-23;2,(1-0) BX;O;TEX;Marcus Semien;Jhony Brito;-6%;65%;Flyball: LF (Short LF-CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Yankees Batting, Tied 0-0, Rangers' Nathan Eovaldi facing 1-2-3 
+t1;0-0;0;---;3,(1-1) CBX;O;NYY;Anthony Volpe;Nathan Eovaldi;2%;52%;Groundout: 3B-1B (Weak 3B)
+t1;0-0;1;---;3,(0-2) FS.S;O;NYY;Anthony Rizzo;Nathan Eovaldi;2%;54%;Strikeout Swinging
+t1;0-0;2;---;6,(3-2) BCFBBX;O;NYY;Gleyber Torres;Nathan Eovaldi;1%;55%;Flyball: 2B (Deep 2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rangers 0.
+Bottom of the 1st, Rangers Batting, Tied 0-0, Yankees' Jhony Brito facing 1-2-3 
+b1;0-0;0;---;3,(0-2) .FFS;O;TEX;Marcus Semien;Jhony Brito;-2%;53%;Strikeout Swinging
+b1;0-0;1;---;4,(3-0) BBBB;;TEX;Travis Jankowski;Jhony Brito;2%;55%;Walk
+b1;0-0;1;1--;5,(2-2) CBBS1>C;O;TEX;Nathaniel Lowe;Jhony Brito;-2%;53%;Strikeout Looking, Jankowski Steals 2B
+b1;0-0;2;-2-;2,(0-1) CX;O;TEX;Adolis García;Jhony Brito;-3%;50%;Flyball: LF (Deep LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, Rangers 0.
+Top of the 2nd, Yankees Batting, Tied 0-0, Rangers' Nathan Eovaldi facing 4-5-6 
+t2;0-0;0;---;3,(0-2) CSC;O;NYY;DJ LeMahieu;Nathan Eovaldi;2%;52%;Strikeout Looking
+t2;0-0;1;---;2,(1-0) BX;O;NYY;Willie Calhoun;Nathan Eovaldi;2%;54%;Groundout: 1B unassisted (Weak 1B)
+t2;0-0;2;---;5,(2-2) BCSBX;O;NYY;Oswaldo Cabrera;Nathan Eovaldi;1%;55%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rangers 0.
+Bottom of the 2nd, Rangers Batting, Tied 0-0, Yankees' Jhony Brito facing 5-6-7 
+;;;;;;;;;Aaron Hicks replaces Jake Bauers playing LF batting 8th
+b2;0-0;0;---;5,(2-2) .BBCC.C;O;TEX;Josh Jung;Jhony Brito;-2%;53%;Strikeout Looking
+b2;0-0;1;---;4,(0-2) CS.FX;O;TEX;Jonah Heim;Jhony Brito;-2%;51%;Flyball: LF (Short LF-CF)
+b2;0-0;2;---;4,(1-2) CSBC;O;TEX;Robbie Grossman;Jhony Brito;-1%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rangers 0.
+Top of the 3rd, Yankees Batting, Tied 0-0, Rangers' Nathan Eovaldi facing 7-8-9 
+t3;0-0;0;---;6,(2-2) FF.BBFS;O;NYY;Jose Trevino;Nathan Eovaldi;3%;53%;Strikeout Swinging
+t3;0-0;1;---;5,(2-2) SCBBS;O;NYY;Aaron Hicks;Nathan Eovaldi;2%;54%;Strikeout Swinging
+t3;0-0;2;---;2,(1-0) BX;;NYY;Isiah Kiner-Falefa;Nathan Eovaldi;-1%;53%;Single to CF (Ground Ball thru SS-2B)
+t3;0-0;2;1--;4,(1-2) F1F*BC;O;NYY;Anthony Volpe;Nathan Eovaldi;3%;56%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 0, Rangers 0.
+Bottom of the 3rd, Rangers Batting, Tied 0-0, Yankees' Jhony Brito facing 8-9-1 
+b3;0-0;0;---;2,(0-1) FX;;TEX;Ezequiel Duran;Jhony Brito;4%;60%;Single to LF (Line Drive to LF-CF)
+b3;0-0;0;1--;1,(0-0) X;;TEX;Bubba Thompson;Jhony Brito;11%;71%;Double to LF (Ground Ball thru SS-3B Hole); Duran to 3B
+b3;0-0;0;-23;2,(1-0) BX;O;TEX;Marcus Semien;Jhony Brito;-6%;65%;Flyball: LF (Short LF-CF)
+b3;0-0;1;-23;4,(1-2) BCSX;O;TEX;Travis Jankowski;Jhony Brito;-10%;55%;Fielder's Choice ; Duran out at Hm/SS-C; Jankowski to 1B
+b3;0-0;2;12-;4,(1-2) CBCX;O;TEX;Nathaniel Lowe;Jhony Brito;-5%;50%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Yankees 0, Rangers 0.
+Top of the 4th, Yankees Batting, Tied 0-0, Rangers' Nathan Eovaldi facing 2-3-4 
+t4;0-0;0;---;3,(1-1) C.BX;;NYY;Anthony Rizzo;Nathan Eovaldi;-4%;46%;Single to 2B (Ground Ball to 2B-1B)
+t4;0-0;0;1--;2,(0-1) FX;OO;NYY;Gleyber Torres;Nathan Eovaldi;9%;55%;Ground Ball Double Play: SS-2B-1B
+t4;0-0;2;---;5,(2-2) CBFBX;O;NYY;DJ LeMahieu;Nathan Eovaldi;1%;56%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Yankees 0, Rangers 0.
+Bottom of the 4th, Rangers Batting, Tied 0-0, Yankees' Jhony Brito facing 4-5-6 
+b4;0-0;0;---;3,(2-0) BBX;O;TEX;Adolis García;Jhony Brito;-3%;53%;Groundout: 1B-P
+b4;0-0;1;---;2,(0-1) FX;O;TEX;Josh Jung;Jhony Brito;-2%;51%;Groundout: 3B-1B
+b4;0-0;2;---;1,(0-0) X;O;TEX;Jonah Heim;Jhony Brito;-1%;50%;Flyball: LF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rangers 0.
+Top of the 5th, Yankees Batting, Tied 0-0, Rangers' Nathan Eovaldi facing 5-6-7 
+t5;0-0;0;---;5,(2-2) BCFBX;;NYY;Willie Calhoun;Nathan Eovaldi;-5%;45%;Single to 2B (Ground Ball)
+t5;0-0;0;1--;2,(0-1) FX;O;NYY;Oswaldo Cabrera;Nathan Eovaldi;2%;48%;Bunt Groundout: 3B-1B/Sacrifice; Calhoun to 2B
+t5;0-0;1;-2-;4,(0-2) FFFX;O;NYY;Jose Trevino;Nathan Eovaldi;5%;52%;Lineout: RF
+t5;0-0;2;-2-;2,(0-1) CX;O;NYY;Aaron Hicks;Nathan Eovaldi;5%;57%;Groundout: 2B-1B (Deep 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 0, Rangers 0.
+Bottom of the 5th, Rangers Batting, Tied 0-0, Yankees' Jhony Brito facing 7-8-9 
+b5;0-0;0;---;3,(0-2) SCX;;TEX;Robbie Grossman;Jhony Brito;5%;61%;Single to LF (Line Drive to LF-CF)
+b5;0-0;0;1--;2,(1-0) B1X;RR;TEX;Ezequiel Duran;Jhony Brito;20%;81%;Home Run (Line Drive to Deep LF); Grossman Scores
+b5;2-0;0;---;2,(0-1) CX;O;TEX;Bubba Thompson;Jhony Brito;-2%;80%;Groundout: 3B-1B (Weak 3B)
+b5;2-0;1;---;3,(1-1) FBX;O;TEX;Marcus Semien;Jhony Brito;-1%;79%;Groundout: 3B-1B
+b5;2-0;2;---;3,(0-2) FCC;O;TEX;Travis Jankowski;Jhony Brito;-1%;78%;Strikeout Looking
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Yankees 0, Rangers 2.
+Top of the 6th, Yankees Batting, Behind 0-2, Rangers' Nathan Eovaldi facing 9-1-2 
+t6;0-2;0;---;4,(1-2) CBSS;O;NYY;Isiah Kiner-Falefa;Nathan Eovaldi;3%;81%;Strikeout Swinging
+t6;0-2;1;---;4,(2-1) BFBX;O;NYY;Anthony Volpe;Nathan Eovaldi;2%;83%;Flyball: RF
+t6;0-2;2;---;6,(3-2) BC.FBBS;O;NYY;Anthony Rizzo;Nathan Eovaldi;1%;84%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rangers 2.
+Bottom of the 6th, Rangers Batting, Ahead 2-0, Yankees' Ron Marinaccio facing 3-4-5 
+;;;;;;;;;Ron Marinaccio replaces Jhony Brito pitching
+b6;2-0;0;---;5,(3-1) .BBBFB;;TEX;Nathaniel Lowe;Ron Marinaccio;2%;86%;Walk
+b6;2-0;0;1--;6,(3-2) BB.CBFS;O;TEX;Adolis García;Ron Marinaccio;-2%;85%;Strikeout Swinging
+b6;2-0;1;1--;4,(1-2) F1BFS;O;TEX;Josh Jung;Ron Marinaccio;-2%;83%;Strikeout Swinging
+b6;2-0;2;1--;9,(3-2) F>F1BBFF1B.>F>B;;TEX;Jonah Heim;Ron Marinaccio;1%;84%;Walk; Lowe to 2B
+b6;2-0;2;12-;4,(2-1) BBCX;O;TEX;Robbie Grossman;Ron Marinaccio;-3%;81%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Yankees 0, Rangers 2.
+Top of the 7th, Yankees Batting, Behind 0-2, Rangers' Nathan Eovaldi facing 3-4-5 
+t7;0-2;0;---;2,(0-1) CX;O;NYY;Gleyber Torres;Nathan Eovaldi;3%;85%;Groundout: 3B-1B (Weak 3B)
+t7;0-2;1;---;4,(1-2) CBCS;O;NYY;DJ LeMahieu;Nathan Eovaldi;2%;87%;Strikeout Swinging
+t7;0-2;2;---;6,(3-2) BBCBS.X;O;NYY;Willie Calhoun;Nathan Eovaldi;1%;89%;Groundout: 3B-1B (Weak SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rangers 2.
+Bottom of the 7th, Rangers Batting, Ahead 2-0, Yankees' Ian Hamilton facing 8-9-1 
+;;;;;;;;;Ian Hamilton replaces Ron Marinaccio pitching
+b7;2-0;0;---;4,(3-0) .BBBX;O;TEX;Ezequiel Duran;Ian Hamilton;-1%;88%;Groundout: SS-1B
+b7;2-0;1;---;6,(1-2) SBCFFX;;TEX;Bubba Thompson;Ian Hamilton;1%;89%;Single to CF (Line Drive to Deep LF-CF)
+b7;2-0;1;1--;3,(1-1) 1SBX;O;TEX;Marcus Semien;Ian Hamilton;-1%;87%;Flyball: CF (Deep CF-RF)
+b7;2-0;2;1--;4,(1-2) B1CC.1>B;O;TEX;Travis Jankowski;Ian Hamilton;-1%;86%;Thompson Caught Stealing 2B (C-SS)
+;;;;;;;;;Tag play Challenged by TEX manager (Bruce Bochy): Original call upheld upon review.
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Yankees 0, Rangers 2.
+Top of the 8th, Yankees Batting, Behind 0-2, Rangers' Nathan Eovaldi facing 6-7-8 
+t8;0-2;0;---;2,(0-1) CX;O;NYY;Oswaldo Cabrera;Nathan Eovaldi;4%;90%;Groundout: 1B unassisted
+t8;0-2;1;---;6,(2-2) CS.FBBX;O;NYY;Jose Trevino;Nathan Eovaldi;2%;92%;Popfly: 2B (Deep SS-2B)
+t8;0-2;2;---;3,(1-1) BCX;O;NYY;Aaron Hicks;Nathan Eovaldi;1%;94%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rangers 2.
+Bottom of the 8th, Rangers Batting, Ahead 2-0, Yankees' Wandy Peralta facing 2-3-4 
+;;;;;;;;;Wandy Peralta replaces Ian Hamilton pitching
+b8;2-0;0;---;4,(2-1) .BBCX;O;TEX;Travis Jankowski;Wandy Peralta;-1%;93%;Groundout: 3B-1B (Weak 3B)
+b8;2-0;1;---;4,(2-1) CBBH;;TEX;Nathaniel Lowe;Wandy Peralta;1%;94%;Hit By Pitch
+b8;2-0;1;1--;3,(2-0) BBX;OO;TEX;Adolis García;Wandy Peralta;-2%;92%;Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rangers 2.
+Top of the 9th, Yankees Batting, Behind 0-2, Rangers' Nathan Eovaldi facing 9-1-2 
+t9;0-2;0;---;3,(1-1) FBX;O;NYY;Isiah Kiner-Falefa;Nathan Eovaldi;4%;96%;Groundout: 3B-1B (Weak 3B)
+t9;0-2;1;---;8,(2-2) BFFBFFFX;O;NYY;Anthony Volpe;Nathan Eovaldi;2%;99%;Groundout: SS-1B (Weak SS)
+t9;0-2;2;---;3,(1-1) FBX;O;NYY;Anthony Rizzo;Nathan Eovaldi;1%;100%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rangers 2.

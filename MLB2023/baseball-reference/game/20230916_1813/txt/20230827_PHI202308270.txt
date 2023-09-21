@@ -1,0 +1,246 @@
+
+Scorebox Meta
+20230827
+1:35 p.m. Local
+41141
+Citizens Bank Park
+162
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/STL-2023.png;/teams/STL/2023.shtml;0;0;0;0;0;0;0;0;0;0;2;1
+https://cdn.ssref.net/req/202309121/tlogo/br/PHI-2023.png;/teams/PHI/2023.shtml;1;0;0;0;1;0;1;0;X;3;11;0
+
+Batting home
+Kyle Schwarber;/players/s/schwaky01.shtml;LF;4;1;1;1;0;1;4;.189;.335;.456;.792;13;8;0.034; 1.07;0.097;-0.063; 0.01%; 0.68; -0.0;1;0;HR
+Trea Turner;/players/t/turnetr01.shtml;SS;3;1;1;1;0;0;4;.255;.305;.409;.715;16;10;0.028; 1.05;0.080;-0.052; 0.01%; 0.67; 0.0;0;3;SF
+Nick Castellanos;/players/c/casteni01.shtml;RF;4;0;1;0;0;0;4;.276;.311;.471;.782;17;12;-0.052; 0.63;0.013;-0.065;-0.02%; 0.40; -0.5;2;0;
+Bryce Harper;/players/h/harpebr03.shtml;DH;3;0;1;1;1;1;4;.306;.399;.479;.878;13;7;0.040; 0.76;0.068;-0.028; 0.01%; 0.48; 0.8;;;
+Alec Bohm;/players/b/bohmal01.shtml;1B;4;0;0;0;0;1;4;.281;.334;.428;.762;14;10;-0.069; 0.71;0.000;-0.069;-0.03%; 0.45; -1.2;7;0;
+J.T. Realmuto;/players/r/realmjt01.shtml;C;4;0;2;0;0;2;4;.251;.311;.454;.765;21;14;-0.040; 0.66;0.019;-0.058;-0.01%; 0.41; -0.1;12;0;2B
+Bryson Stott;/players/s/stottbr01.shtml;2B;4;0;1;0;0;1;4;.296;.342;.443;.785;16;10;-0.036; 0.63;0.009;-0.045;-0.01%; 0.40; -1.0;2;1;
+Edmundo Sosa;/players/s/sosaed01.shtml;3B;4;0;1;0;0;0;4;.256;.295;.430;.726;14;11;-0.021; 0.54;0.022;-0.043;-0.01%; 0.34; -0.5;2;1;
+Johan Rojas;/players/r/rojasjo03.shtml;CF;3;1;3;0;0;0;3;.310;.355;.437;.792;18;10;0.105; 0.77;0.105;0.000; 0.04%; 0.49; 1.4;1;0;2B
+Aaron Nola;/players/n/nolaaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Alvarado;/players/a/alvarjo03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Craig Kimbrel;/players/k/kimbrcr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Johan Rojas (6, off Drew Rom); J.T. Realmuto (26, off Jacob Barnes).
+
+
+HR: Kyle Schwarber (36, off Drew Rom, 1st inn, 0 on, 0 outs to Deep CF).
+
+
+SF: Trea Turner (1, off Drew Rom).
+
+
+TB: Kyle Schwarber 4; Johan Rojas 4; J.T. Realmuto 3; Trea Turner; Bryson Stott; Nick Castellanos; Bryce Harper; Edmundo Sosa.
+
+
+RBI: Bryce Harper (50); Trea Turner (51); Kyle Schwarber (84).
+
+
+2-out RBI: Bryce Harper.
+
+
+Team LOB: 8.
+With RISP: 2 for 10.
+
+Batting away
+Tommy Edman;/players/e/edmanto01.shtml;SS-CF;4;0;1;0;0;0;4;.241;.300;.409;.709;13;9;0.005; 0.74;0.059;-0.053;0%; 0.00; 0.1;2;0;2B
+Alec Burleson;/players/b/burleal01.shtml;LF;3;0;0;0;1;1;4;.242;.296;.399;.696;16;11;-0.061; 0.81;0.022;-0.084;0%; 0.00; -0.5;1;0;
+Paul Goldschmidt;/players/g/goldspa01.shtml;1B;4;0;1;0;0;2;4;.276;.364;.455;.819;14;10;-0.026; 1.08;0.072;-0.098;0%; 0.00; 0.0;5;1;2B
+Nolan Arenado;/players/a/arenano01.shtml;DH;4;0;0;0;0;1;4;.279;.327;.499;.826;15;10;-0.126; 1.12;0.000;-0.126;0%; 0.00; -1.3;;;
+Willson Contreras;/players/c/contrwi01.shtml;C;4;0;0;0;0;2;4;.253;.348;.423;.771;17;12;-0.114; 1.03;0.000;-0.114;0%; 0.00; -1.2;6;0;
+Nolan Gorman;/players/g/gormano01.shtml;2B;2;0;0;0;1;2;3;.237;.324;.479;.804;16;9;-0.005; 0.83;0.036;-0.040;0%; 0.00; -0.1;1;0;
+Jordan Walker;/players/w/walkejo02.shtml;RF;2;0;0;0;1;2;3;.253;.324;.409;.733;13;6;-0.026; 0.89;0.026;-0.052;0%; 0.00; -0.1;4;0;
+Richie Palacios;/players/p/palacri01.shtml;CF;2;0;0;0;0;0;2;.304;.333;.522;.855;9;5;-0.060; 1.09;0.000;-0.060;0%; 0.00; -0.5;2;0;
+Luken Baker;/players/b/bakerlu01.shtml;PH;1;0;0;0;0;1;1;.205;.225;.282;.507;5;3;-0.029; 1.16;0.000;-0.029;0%; 0.00; -0.3;;;
+Masyn Winn;/players/w/winnma01.shtml;SS;0;0;0;0;0;0;0;.172;.172;.207;.379;;;;;;;;;;0;1;
+Taylor Motter;/players/m/motteta01.shtml;3B;3;0;0;0;0;1;3;.178;.231;.219;.450;11;6;-0.069; 0.86;0.000;-0.069;0%; 0.00; -0.6;1;2;
+Drew Rom;/players/r/romdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Jacob Barnes;/players/b/barneja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+John King;/players/k/kingjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+James Naile;/players/n/naileja01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Tommy Edman (21, off Aaron Nola); Paul Goldschmidt (26, off Craig Kimbrel).
+
+
+TB: Tommy Edman 2; Paul Goldschmidt 2.
+
+
+Team LOB: 5.
+With RISP: 0 for 4.
+
+Pitching home
+Aaron Nola;/players/n/nolaaa01.shtml; W (12-8); 7 ;1;0;0;1;9;0;4.30;23;95;64;32;12;20;5;8;2;0;83;;;0.431; 0.92; 0.16%; 0.59; 3.6
+José Alvarado;/players/a/alvarjo03.shtml; H (8); 1 ;0;0;0;1;2;0;1.24;4;15;7;2;1;4;1;0;0;0;;0;0;0.044; 0.81; 0.02%; 0.52; 0.5
+Craig Kimbrel;/players/k/kimbrcr01.shtml; S (20); 1 ;1;0;0;1;1;0;3.27;5;19;10;4;6;0;0;3;1;0;;0;0;0.034; 1.15; 0.01%; 0.73; 0.5
+
+Pitching away
+Drew Rom;/players/r/romdr01.shtml; L (0-2); 5.1;5;2;2;1;6;1;8.00;22;96;62;37;12;13;4;11;3;0;55;;;0.027; 0.92; 0.00%; 0.00; 0.8
+Jacob Barnes;/players/b/barneja01.shtml;Jacob Barnes; 0.2;3;1;1;0;0;0;6.75;5;20;13;7;1;5;1;4;2;0;;0;0;0.001; 0.58; 0.00%; 0.00; -0.1
+John King;/players/k/kingjo01.shtml;John King; 0.2;2;0;0;0;0;0;4.33;4;15;9;5;3;1;2;2;1;0;;1;1;-0.037; 0.62; 0.00%; 0.00; -0.5
+James Naile;/players/n/naileja01.shtml;James Naile; 1.1;1;0;0;0;0;0;8.80;4;11;8;7;0;1;2;2;2;0;;2;0;0.018; 0.24; 0.00%; 0.00; 1.0
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Malachi Moore, 1B - Bruce Dreckman, 2B - Stu Scheurwater, 3B - Mark Wegner, LF - (none), RF - (none).
+Time of Game: 2:42.
+Attendance: 41,141.
+Field Condition: Unknown.
+Start Time Weather: 86° F, Wind 7mph out to Leftfield, Sunny, No Precipitation.
+
+div_lineups
+Cardinals
+1;Tommy Edman;/players/e/edmanto01.shtml;SS
+2;Alec Burleson;/players/b/burleal01.shtml;LF
+3;Paul Goldschmidt;/players/g/goldspa01.shtml;1B
+4;Nolan Arenado;/players/a/arenano01.shtml;DH
+5;Willson Contreras;/players/c/contrwi01.shtml;C
+6;Nolan Gorman;/players/g/gormano01.shtml;2B
+7;Jordan Walker;/players/w/walkejo02.shtml;RF
+8;Richie Palacios;/players/p/palacri01.shtml;CF
+9;Taylor Motter;/players/m/motteta01.shtml;3B
+; Drew Rom;/players/r/romdr01.shtml;P
+Phillies
+1;Kyle Schwarber;/players/s/schwaky01.shtml;LF
+2;Trea Turner;/players/t/turnetr01.shtml;SS
+3;Nick Castellanos;/players/c/casteni01.shtml;RF
+4;Bryce Harper;/players/h/harpebr03.shtml;DH
+5;Alec Bohm;/players/b/bohmal01.shtml;1B
+6;J.T. Realmuto;/players/r/realmjt01.shtml;C
+7;Bryson Stott;/players/s/stottbr01.shtml;2B
+8;Edmundo Sosa;/players/s/sosaed01.shtml;3B
+9;Johan Rojas;/players/r/rojasjo03.shtml;CF
+; Aaron Nola;/players/n/nolaaa01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-0;0;---;1,(0-0) X;R;PHI;Kyle Schwarber;Drew Rom;10%;65%;Home Run (Fly Ball to Deep CF)
+t9;0-3;1;1--;4,(2-1) BSBX;;STL;Paul Goldschmidt;Craig Kimbrel;-7%;89%;Double to LF (Line Drive to Deep LF Line); Burleson to 3B
+t9;0-3;1;-23;3,(1-1) *B*SX;O;STL;Nolan Arenado;Craig Kimbrel;7%;96%;Popfly: 2B (Deep 2B-1B)
+b5;1-0;0;---;6,(3-2) BBCBF.X;;PHI;Johan Rojas;Drew Rom;6%;77%;Double to LF (Fly Ball to Deep LF)
+t1;0-0;0;---;3,(2-0) BBX;;STL;Tommy Edman;Aaron Nola;-6%;44%;Double to RF (Fly Ball to RF Line)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Cardinals Batting, Tied 0-0, Phillies' Aaron Nola facing 1-2-3 
+t1;0-0;0;---;3,(2-0) BBX;;STL;Tommy Edman;Aaron Nola;-6%;44%;Double to RF (Fly Ball to RF Line)
+t1;0-0;0;-2-;3,(0-2) CS*S;O;STL;Alec Burleson;Aaron Nola;4%;48%;Strikeout Swinging
+t1;0-0;1;-2-;2,(0-1) FX;O;STL;Paul Goldschmidt;Aaron Nola;4%;53%;Fielder's Choice ; Edman out at 2B/SS-2B; Goldschmidt to 1B
+t1;0-0;2;1--;4,(1-2) CBC>X;O;STL;Nolan Arenado;Aaron Nola;2%;55%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cardinals 0, Phillies 0.
+Bottom of the 1st, Phillies Batting, Tied 0-0, Cardinals' Drew Rom facing 1-2-3 
+b1;0-0;0;---;1,(0-0) X;R;PHI;Kyle Schwarber;Drew Rom;10%;65%;Home Run (Fly Ball to Deep CF)
+b1;1-0;0;---;5,(2-2) BSTBX;;PHI;Trea Turner;Drew Rom;5%;70%;Single to CF (Line Drive to Deep CF-RF); Turner to 2B/Adv on E8
+b1;1-0;0;-2-;5,(0-2) SC.FFX;O;PHI;Nick Castellanos;Drew Rom;-4%;66%;Groundout: 3B-1B
+b1;1-0;1;-2-;6,(3-2) .BBCBCB;;PHI;Bryce Harper;Drew Rom;2%;68%;Walk
+b1;1-0;1;12-;5,(1-2) FFBFS;O;PHI;Alec Bohm;Drew Rom;-4%;64%;Strikeout Swinging
+b1;1-0;2;12-;4,(1-2) CF*BS;O;PHI;J.T. Realmuto;Drew Rom;-4%;60%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 1 error, 2 LOB. Cardinals 0, Phillies 1.
+Top of the 2nd, Cardinals Batting, Behind 0-1, Phillies' Aaron Nola facing 5-6-7 
+t2;0-1;0;---;5,(2-2) CSBBS;O;STL;Willson Contreras;Aaron Nola;2%;63%;Strikeout Swinging
+t2;0-1;1;---;5,(1-2) CSFBC;O;STL;Nolan Gorman;Aaron Nola;2%;64%;Strikeout Looking
+t2;0-1;2;---;4,(1-2) BSC.C;O;STL;Jordan Walker;Aaron Nola;1%;66%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 0, Phillies 1.
+Bottom of the 2nd, Phillies Batting, Ahead 1-0, Cardinals' Drew Rom facing 7-8-9 
+b2;1-0;0;---;4,(1-2) BCFC;O;PHI;Bryson Stott;Drew Rom;-2%;64%;Strikeout Looking
+b2;1-0;1;---;5,(2-2) BFFBX;;PHI;Edmundo Sosa;Drew Rom;2%;66%;Single to LF (Line Drive)
+b2;1-0;1;1--;7,(3-2) *BBCCBFX;;PHI;Johan Rojas;Drew Rom;3%;69%;Single to CF (Line Drive to Deep CF); Sosa to 2B
+b2;1-0;1;12-;6,(2-2) CBBSFS;O;PHI;Kyle Schwarber;Drew Rom;-4%;65%;Strikeout Swinging
+b2;1-0;2;12-;1,(0-0) X;O;PHI;Trea Turner;Drew Rom;-4%;61%;Groundout: P-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Cardinals 0, Phillies 1.
+Top of the 3rd, Cardinals Batting, Behind 0-1, Phillies' Aaron Nola facing 8-9-1 
+t3;0-1;0;---;4,(1-2) SFBX;O;STL;Richie Palacios;Aaron Nola;3%;64%;Groundout: 1B unassisted
+t3;0-1;1;---;5,(3-1) BFBBX;O;STL;Taylor Motter;Aaron Nola;2%;66%;Popfly: 3B
+t3;0-1;2;---;6,(1-2) CBC.FFX;O;STL;Tommy Edman;Aaron Nola;1%;67%;Flyball: RF (CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 0, Phillies 1.
+Bottom of the 3rd, Phillies Batting, Ahead 1-0, Cardinals' Drew Rom facing 3-4-5 
+b3;1-0;0;---;2,(1-0) BX;O;PHI;Nick Castellanos;Drew Rom;-2%;65%;Flyball: RF (Short RF)
+b3;1-0;1;---;2,(1-0) BX;O;PHI;Bryce Harper;Drew Rom;-2%;63%;Popfly: SS (SS-2B)
+b3;1-0;2;---;6,(3-2) CBBSBX;O;PHI;Alec Bohm;Drew Rom;-1%;62%;Flyball: RF (RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 0, Phillies 1.
+Top of the 4th, Cardinals Batting, Behind 0-1, Phillies' Aaron Nola facing 2-3-4 
+t4;0-1;0;---;5,(1-2) FSBFX;O;STL;Alec Burleson;Aaron Nola;3%;65%;Groundout: 2B-1B (2B-1B)
+t4;0-1;1;---;4,(1-2) CCBC;O;STL;Paul Goldschmidt;Aaron Nola;2%;67%;Strikeout Looking
+t4;0-1;2;---;6,(2-2) CFBFBS;O;STL;Nolan Arenado;Aaron Nola;1%;69%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 0, Phillies 1.
+Bottom of the 4th, Phillies Batting, Ahead 1-0, Cardinals' Drew Rom facing 6-7-8 
+b4;1-0;0;---;6,(2-2) FSBBFS;O;PHI;J.T. Realmuto;Drew Rom;-2%;66%;Strikeout Swinging
+b4;1-0;1;---;4,(1-2) TBTX;O;PHI;Bryson Stott;Drew Rom;-2%;65%;Groundout: 1B-P
+b4;1-0;2;---;5,(1-2) CFFBX;O;PHI;Edmundo Sosa;Drew Rom;-1%;64%;Popfly: SS (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 0, Phillies 1.
+Top of the 5th, Cardinals Batting, Behind 0-1, Phillies' Aaron Nola facing 5-6-7 
+t5;0-1;0;---;5,(1-2) CBSF.X;O;STL;Willson Contreras;Aaron Nola;3%;67%;Foul Popfly: 1B
+t5;0-1;1;---;6,(3-2) FBBFBB;;STL;Nolan Gorman;Aaron Nola;-4%;63%;Walk
+t5;0-1;1;1--;5,(2-2) BFBF1C;O;STL;Jordan Walker;Aaron Nola;4%;68%;Strikeout Looking
+t5;0-1;2;1--;5,(3-1) BB*BCX;O;STL;Richie Palacios;Aaron Nola;3%;71%;Flyball: 3B (Deep 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Cardinals 0, Phillies 1.
+Bottom of the 5th, Phillies Batting, Ahead 1-0, Cardinals' Drew Rom facing 9-1-2 
+b5;1-0;0;---;6,(3-2) BBCBF.X;;PHI;Johan Rojas;Drew Rom;6%;77%;Double to LF (Fly Ball to Deep LF)
+b5;1-0;0;-2-;1,(0-0) X;O;PHI;Kyle Schwarber;Drew Rom;-1%;76%;Groundout: 1B unassisted; Rojas to 3B
+b5;1-0;1;--3;6,(3-2) C*BBBFX;RO;PHI;Trea Turner;Drew Rom;3%;79%;Flyball: LF/Sacrifice Fly (Deep LF-CF); Rojas Scores
+b5;2-0;2;---;5,(2-2) BSFBX;O;PHI;Nick Castellanos;Drew Rom;-1%;78%;Flyball: RF
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Cardinals 0, Phillies 2.
+Top of the 6th, Cardinals Batting, Behind 0-2, Phillies' Aaron Nola facing 9-1-2 
+t6;0-2;0;---;5,(2-2) FBBS.C;O;STL;Taylor Motter;Aaron Nola;3%;81%;Strikeout Looking
+t6;0-2;1;---;2,(0-1) CX;O;STL;Tommy Edman;Aaron Nola;2%;83%;Lineout: 1B (2B-1B)
+t6;0-2;2;---;2,(0-1) CX;O;STL;Alec Burleson;Aaron Nola;1%;85%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 0, Phillies 2.
+Bottom of the 6th, Phillies Batting, Ahead 2-0, Cardinals' Drew Rom facing 4-5-6 
+b6;2-0;0;---;4,(1-2) SFBS;O;PHI;Bryce Harper;Drew Rom;-1%;83%;Strikeout Swinging
+;;;;;;;;;Jacob Barnes replaces Drew Rom pitching
+b6;2-0;1;---;1,(0-0) .X;O;PHI;Alec Bohm;Jacob Barnes;-1%;82%;Flyball: RF (Short RF)
+b6;2-0;2;---;7,(2-2) BBSCFFX;;PHI;J.T. Realmuto;Jacob Barnes;1%;84%;Double to CF (Line Drive to Deep CF)
+b6;2-0;2;-2-;5,(3-1) BBBCX;;PHI;Bryson Stott;Jacob Barnes;1%;85%;Single to 2B (Ground Ball to 2B-1B); Realmuto to 3B
+b6;2-0;2;1-3;2,(0-1) CX;O;PHI;Edmundo Sosa;Jacob Barnes;-3%;81%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Cardinals 0, Phillies 2.
+Top of the 7th, Cardinals Batting, Behind 0-2, Phillies' Aaron Nola facing 3-4-5 
+t7;0-2;0;---;4,(1-2) BFST;O;STL;Paul Goldschmidt;Aaron Nola;3%;85%;Strikeout Swinging
+t7;0-2;1;---;2,(1-0) BX;O;STL;Nolan Arenado;Aaron Nola;2%;87%;Flyball: RF
+t7;0-2;2;---;3,(1-1) BFX;O;STL;Willson Contreras;Aaron Nola;1%;89%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 0, Phillies 2.
+Bottom of the 7th, Phillies Batting, Ahead 2-0, Cardinals' Jacob Barnes facing 9-1-2 
+b7;2-0;0;---;5,(2-2) CC.BBX;;PHI;Johan Rojas;Jacob Barnes;2%;90%;Single to P (Line Drive to Weak 2B)
+;;;;;;;;;John King replaces Jacob Barnes pitching
+b7;2-0;0;1--;5,(3-1) .1BBBC1X;O;PHI;Kyle Schwarber;John King;-2%;89%;Flyball: CF (Short CF)
+b7;2-0;1;1--;4,(1-2) S*BS>X;O;PHI;Trea Turner;John King;-1%;87%;Groundout: 2B unassisted/Forceout at 2B (SS-2B); Turner to 1B
+;;;;;;;;;Force Play Challenged by PHI manager (Rob Thomson): Original call upheld upon review.
+b7;2-0;2;1--;5,(2-2) 1SBF.1BX;;PHI;Nick Castellanos;John King;1%;89%;Single to LF (Ground Ball); Turner to 3B
+b7;2-0;2;1-3;1,(0-0) X;R;PHI;Bryce Harper;John King;5%;94%;Single to LF (Line Drive); Turner Scores; Castellanos to 2B
+;;;;;;;;;James Naile replaces John King pitching
+b7;3-0;2;12-;2,(0-1) .FX;O;PHI;Alec Bohm;James Naile;-1%;93%;Lineout: P (Front of Home)
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Cardinals 0, Phillies 3.
+Top of the 8th, Cardinals Batting, Behind 0-3, Phillies' José Alvarado facing 6-7-8 
+;;;;;;;;;José Alvarado replaces Aaron Nola pitching
+t8;0-3;0;---;5,(2-2) .BCBCS;O;STL;Nolan Gorman;José Alvarado;2%;95%;Strikeout Swinging
+t8;0-3;1;---;4,(3-0) BBBB;;STL;Jordan Walker;José Alvarado;-3%;93%;Walk
+;;;;;;;;;Luken Baker pinch hits for Richie Palacios (CF) batting 8th
+t8;0-3;1;1--;5,(2-2) .*BFBCC;O;STL;Luken Baker;José Alvarado;3%;95%;Strikeout Looking
+t8;0-3;2;1--;1,(0-0) X;O;STL;Taylor Motter;José Alvarado;2%;97%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Cardinals 0, Phillies 3.
+Bottom of the 8th, Phillies Batting, Ahead 3-0, Cardinals' James Naile facing 6-7-8 
+;;;;;;;;;Masyn Winn replaces Luken Baker (PH) playing SS batting 8thTommy Edman moves from SS to CF 
+b8;3-0;0;---;4,(2-1) ..BBFX;;PHI;J.T. Realmuto;James Naile;0%;98%;Single to CF (Ground Ball)
+b8;3-0;0;1--;3,(1-1) CBX;OO;PHI;Bryson Stott;James Naile;-1%;97%;Double Play: Lineout: 3B (SS-3B Hole); Realmuto out at 1B/3B-1B
+b8;3-0;2;---;2,(0-1) FX;O;PHI;Edmundo Sosa;James Naile;0%;97%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Cardinals 0, Phillies 3.
+Top of the 9th, Cardinals Batting, Behind 0-3, Phillies' Craig Kimbrel facing 1-2-3 
+;;;;;;;;;Craig Kimbrel replaces José Alvarado pitching
+t9;0-3;0;---;2,(1-0) .BX;O;STL;Tommy Edman;Craig Kimbrel;2%;99%;Flyball: CF
+t9;0-3;1;---;6,(3-2) BSBBFB;;STL;Alec Burleson;Craig Kimbrel;-2%;96%;Walk
+t9;0-3;1;1--;4,(2-1) BSBX;;STL;Paul Goldschmidt;Craig Kimbrel;-7%;89%;Double to LF (Line Drive to Deep LF Line); Burleson to 3B
+t9;0-3;1;-23;3,(1-1) *B*SX;O;STL;Nolan Arenado;Craig Kimbrel;7%;96%;Popfly: 2B (Deep 2B-1B)
+t9;0-3;2;-23;4,(1-2) *SSBS;O;STL;Willson Contreras;Craig Kimbrel;4%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Cardinals 0, Phillies 3.

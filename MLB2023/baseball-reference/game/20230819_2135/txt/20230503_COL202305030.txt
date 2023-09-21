@@ -1,0 +1,274 @@
+
+Scorebox Meta
+20230503
+6:40 p.m. Local
+20640
+Coors Field
+161
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/MIL-2023.png;/teams/MIL/2023.shtml;0;0;0;0;0;0;0;0;1;1;5;1
+https://cdn.ssref.net/req/202308101/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;0;0;4;0;0;2;1;X;7;10;0
+
+Batting home
+Charlie Blackmon;/players/b/blackch02.shtml;DH;4;1;1;1;1;0;5;.275;.385;.431;.817;24;10;-0.029; 0.36;0.012;-0.041;-0.01%; 0.17; 0.7;;;HR
+Jurickson Profar;/players/p/profaju01.shtml;LF;5;1;1;0;0;2;5;.219;.294;.343;.637;21;14;-0.049; 0.45;0.007;-0.056;-0.01%; 0.20; -0.6;0;0;2B
+Kris Bryant;/players/b/bryankr01.shtml;RF;4;2;1;2;0;0;4;.299;.370;.449;.818;14;9;0.032; 0.43;0.052;-0.021; 0.01%; 0.20; 1.4;3;0;HR
+C.J. Cron;/players/c/croncj01.shtml;1B;2;1;1;0;2;1;4;.250;.297;.490;.788;16;7;0.077; 0.66;0.102;-0.025; 0.02%; 0.30; 1.1;6;0;2B
+Elias Díaz;/players/d/diazel01.shtml;C;4;1;2;1;0;0;4;.337;.390;.500;.890;11;7;0.046; 0.71;0.078;-0.032; 0.01%; 0.33; 0.5;6;1;
+Randal Grichuk;/players/g/grichra01.shtml;CF;2;1;1;0;2;0;4;.500;.563;.643;1.205;19;8;0.034; 0.58;0.040;-0.006; 0.01%; 0.27; 0.9;4;0;
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;4;0;0;0;0;3;4;.215;.292;.402;.694;19;11;-0.103; 0.84;0.000;-0.103;-0.03%; 0.39; -3.0;0;1;
+Alan Trejo;/players/t/trejoal01.shtml;2B;4;0;2;3;0;1;4;.233;.258;.300;.558;8;7;0.174; 0.92;0.200;-0.027; 0.05%; 0.42; 2.1;3;2;2B
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;4;0;1;0;0;1;4;.219;.265;.333;.598;13;8;-0.040; 0.54;0.027;-0.067;-0.01%; 0.25; -1.0;4;2;CS
+Kyle Freeland;/players/f/freelky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Brent Suter;/players/s/suterbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Daniel Bard;/players/b/bardda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Justin Lawrence;/players/l/lawreju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dinelson Lamet;/players/l/lametdi01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Jake Bird;/players/b/birdja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: C.J. Cron (7, off Eric Lauer); Alan Trejo (4, off Eric Lauer); Jurickson Profar (4, off Hoby Milner).
+
+
+HR: Kris Bryant (4, off Hoby Milner, 7th inn, 1 on, 1 out to Deep LF-CF); Charlie Blackmon (3, off Jake Cousins, 8th inn, 0 on, 2 outs to Deep CF-RF).
+
+
+TB: Kris Bryant 4; Charlie Blackmon 4; Alan Trejo 3; Jurickson Profar 2; C.J. Cron 2; Elias Díaz 2; Ezequiel Tovar; Randal Grichuk.
+
+
+RBI: Alan Trejo 3 (8); Kris Bryant 2 (10); Elias Díaz (14); Charlie Blackmon (9).
+
+
+2-out RBI: Alan Trejo 3; Charlie Blackmon.
+
+
+Team LOB: 7.
+With RISP: 4 for 8.
+
+Batting away
+Christian Yelich;/players/y/yelicch01.shtml;LF;3;0;1;0;1;0;4;.227;.320;.345;.665;15;8;0.000; 0.86;0.048;-0.048; 0.00%; 1.00; -0.0;2;0;
+Willy Adames;/players/a/adamewi01.shtml;SS;4;0;0;0;0;1;4;.222;.328;.398;.726;14;9;-0.077; 0.74;0.000;-0.077;-0.05%; 0.86; -1.1;1;0;
+William Contreras;/players/c/contrwi02.shtml;C;3;1;0;0;1;1;4;.282;.371;.388;.759;12;7;-0.053; 0.65;0.002;-0.055;-0.04%; 0.75; -0.2;9;1;
+Mike Brosseau;/players/b/brossmi01.shtml;3B;2;0;0;0;0;0;2;.216;.273;.431;.704;7;4;-0.071; 1.25;0.000;-0.071;-0.05%; 1.45; -0.7;1;1;
+Brice Turang;/players/t/turanbr02.shtml;PH-2B;1;0;1;0;1;0;2;.238;.291;.350;.641;10;5;0.038; 0.47;0.038;0.000; 0.03%; 0.55; 1.3;0;2;2B
+Rowdy Tellez;/players/t/tellero01.shtml;DH;4;0;1;0;0;1;4;.258;.336;.559;.896;23;16;-0.031; 0.61;0.026;-0.056;-0.02%; 0.70; -0.7;;;
+Luke Voit;/players/v/voitlu01.shtml;1B;2;0;0;0;1;1;4;.208;.276;.245;.521;15;7;-0.055; 0.61;0.015;-0.069;-0.04%; 0.71; -0.5;3;0;HBP,GDP
+Tyrone Taylor;/players/t/tayloty01.shtml;RF-CF;3;0;0;1;0;1;4;.000;.000;.000;.000;20;13;-0.071; 0.65;0.000;-0.071;-0.05%; 0.76; -1.1;4;1;SF
+Owen Miller;/players/m/milleow01.shtml;2B-3B;4;0;2;0;0;0;4;.292;.333;.354;.688;13;8;0.005; 0.61;0.059;-0.053; 0.00%; 0.70; -0.6;1;0;CS
+Joey Wiemer;/players/w/wiemejo01.shtml;CF;2;0;0;0;0;1;2;.213;.293;.348;.641;11;7;-0.043; 0.86;0.000;-0.043;-0.03%; 1.00; -0.5;2;0;
+Jesse Winker;/players/w/winkeje01.shtml;PH-RF;1;0;0;0;0;0;1;.246;.353;.298;.651;4;2;-0.003; 0.10;0.000;-0.003;-0.00%; 0.12; -0.2;1;0;
+Eric Lauer;/players/l/lauerer01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Elvis Peguero;/players/p/pegueel01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Hoby Milner;/players/m/milneho01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jake Cousins;/players/c/cousija01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Brice Turang (3, off Daniel Bard).
+
+
+SF: Tyrone Taylor (1, off Jake Bird).
+
+
+HBP: Luke Voit (2, by Daniel Bard).
+
+
+TB: Owen Miller 2; Brice Turang 2; Rowdy Tellez; Christian Yelich.
+
+
+GIDP: Luke Voit (2).
+
+
+RBI: Tyrone Taylor (1).
+
+
+Team LOB: 7.
+With RISP: 0 for 5.
+
+Pitching home
+Kyle Freeland;/players/f/freelky01.shtml; W (3-3); 5 ;3;0;0;0;5;0;3.76;16;62;39;24;6;9;7;4;1;0;66;;;0.273; 0.94; 0.07%; 0.43; 3.0
+Brent Suter;/players/s/suterbr01.shtml;Brent Suter; 1 ;1;0;0;0;1;0;0.98;4;20;13;10;1;2;0;3;1;0;;0;0;0.040; 0.86; 0.01%; 0.40; 0.6
+Daniel Bard;/players/b/bardda01.shtml;Daniel Bard; 0.2;1;0;0;0;0;0;0.00;4;20;15;12;2;1;0;3;1;0;;0;0;0.004; 0.70; 0.00%; 0.33; 0.0
+Justin Lawrence;/players/l/lawreju01.shtml; H (4); 1.1;0;0;0;1;0;0;1.65;5;19;11;7;1;3;1;3;2;0;;2;0;0.041; 0.31; 0.01%; 0.14; 1.2
+Dinelson Lamet;/players/l/lametdi01.shtml;Dinelson Lamet; 0.1;0;1;1;3;0;0;12.66;4;19;5;2;1;2;1;0;0;0;;0;0;-0.004; 0.10;-0.00%; 0.04; -1.1
+Jake Bird;/players/b/birdja01.shtml;Jake Bird; 0.2;0;0;0;0;0;0;3.27;2;4;3;3;0;0;0;2;0;0;;3;1;0.005; 0.14; 0.00%; 0.07; 0.7
+
+Pitching away
+Eric Lauer;/players/l/lauerer01.shtml; L (3-3); 4.2;4;4;0;4;6;0;4.40;22;84;48;25;12;11;1;11;4;0;50;;;-0.143; 0.93;-0.10%; 1.08; -1.5
+Elvis Peguero;/players/p/pegueel01.shtml;Elvis Peguero; 1.1;1;0;0;0;1;0;2.70;5;16;11;6;5;0;1;3;2;0;;2;0;0.028; 0.24; 0.02%; 0.28; 1.1
+Hoby Milner;/players/m/milneho01.shtml;Hoby Milner; 0.1;2;2;2;0;0;1;4.50;3;12;6;3;0;3;2;1;0;0;;0;0;-0.026; 0.13;-0.02%; 0.15; -1.7
+Jake Cousins;/players/c/cousija01.shtml;Jake Cousins; 1.2;3;1;1;1;1;1;1.93;8;33;16;12;3;1;2;4;2;0;;0;0;0.000; 0.04; 0.00%; 0.05; -0.1
+
+indiv_events
+
+Balks: None.
+WP: Kyle Freeland (1); Daniel Bard (1).
+HBP: Daniel Bard (1; Luke Voit).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Kyle Freeland (1); Daniel Bard (1).
+HBP: Daniel Bard (1; Luke Voit).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - James Hoye, 1B - D.J. Reyburn, 2B - John Libka, 3B - Edwin Jimenez, LF - (none), RF - (none).
+Time of Game: 2:41.
+Attendance: 20,640.
+Field Condition: Unknown.
+Start Time Weather: 77° F, Wind 7mph from Right to Left, Cloudy, No Precipitation.
+
+div_lineups
+Brewers
+1;Christian Yelich;/players/y/yelicch01.shtml;LF
+2;Willy Adames;/players/a/adamewi01.shtml;SS
+3;William Contreras;/players/c/contrwi02.shtml;C
+4;Mike Brosseau;/players/b/brossmi01.shtml;3B
+5;Rowdy Tellez;/players/t/tellero01.shtml;DH
+6;Luke Voit;/players/v/voitlu01.shtml;1B
+7;Tyrone Taylor;/players/t/tayloty01.shtml;RF
+8;Owen Miller;/players/m/milleow01.shtml;2B
+9;Joey Wiemer;/players/w/wiemejo01.shtml;CF
+; Eric Lauer;/players/l/lauerer01.shtml;P
+Rockies
+1;Charlie Blackmon;/players/b/blackch02.shtml;DH
+2;Jurickson Profar;/players/p/profaju01.shtml;LF
+3;Kris Bryant;/players/b/bryankr01.shtml;RF
+4;C.J. Cron;/players/c/croncj01.shtml;1B
+5;Elias Díaz;/players/d/diazel01.shtml;C
+6;Randal Grichuk;/players/g/grichra01.shtml;CF
+7;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+8;Alan Trejo;/players/t/trejoal01.shtml;2B
+9;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+; Kyle Freeland;/players/f/freelky01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b4;1-0;2;123;1,(0-0) X;RRR;COL;Alan Trejo;Eric Lauer;20%;89%;Double to LF (Fly Ball to Deep LF-CF); Cron Scores/unER; Díaz Scores/unER; Grichuk Scores/unER
+b4;0-0;1;1--;1,(0-0) X;;COL;C.J. Cron;Eric Lauer;9%;66%;Double to LF (Line Drive to LF Line); Bryant to 3B
+b4;0-0;1;-23;4,(1-2) FF.*BX;R;COL;Elias Díaz;Eric Lauer;8%;74%;Single to RF (Line Drive to CF-RF); Bryant Scores/unER; Cron to 3B
+b4;1-0;1;123;6,(3-2) BBBCS.S;O;COL;Ryan McMahon;Eric Lauer;-7%;69%;Strikeout Swinging
+t2;0-0;1;1--;1,(0-0) X;OO;MIL;Luke Voit;Kyle Freeland;6%;56%;Ground Ball Double Play: SS-2B-1B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Brewers Batting, Tied 0-0, Rockies' Kyle Freeland facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;MIL;Christian Yelich;Kyle Freeland;2%;52%;Groundout: 1B unassisted
+t1;0-0;1;---;4,(1-2) CBTC;O;MIL;Willy Adames;Kyle Freeland;2%;54%;Strikeout Looking
+t1;0-0;2;---;3,(0-2) CCS;O;MIL;William Contreras;Kyle Freeland;1%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 0, Rockies 0.
+Bottom of the 1st, Rockies Batting, Tied 0-0, Brewers' Eric Lauer facing 1-2-3 
+b1;0-0;0;---;4,(2-1) BTBX;O;COL;Charlie Blackmon;Eric Lauer;-2%;53%;Lineout: 2B (Deep 2B)
+b1;0-0;1;---;7,(2-2) BCCBFFS;O;COL;Jurickson Profar;Eric Lauer;-2%;51%;Strikeout Swinging
+b1;0-0;2;---;3,(1-1) SBX;O;COL;Kris Bryant;Eric Lauer;-1%;50%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 0, Rockies 0.
+Top of the 2nd, Brewers Batting, Tied 0-0, Rockies' Kyle Freeland facing 4-5-6 
+t2;0-0;0;---;2,(1-0) BX;O;MIL;Mike Brosseau;Kyle Freeland;3%;53%;Flyball: 2B (Deep 2B)
+t2;0-0;1;---;5,(1-2) CCF.BX;;MIL;Rowdy Tellez;Kyle Freeland;-3%;50%;Single to LF (Line Drive)
+t2;0-0;1;1--;1,(0-0) X;OO;MIL;Luke Voit;Kyle Freeland;6%;56%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Brewers 0, Rockies 0.
+Bottom of the 2nd, Rockies Batting, Tied 0-0, Brewers' Eric Lauer facing 4-5-6 
+b2;0-0;0;---;5,(1-2) FBFFC;O;COL;C.J. Cron;Eric Lauer;-2%;53%;Strikeout Looking
+b2;0-0;1;---;3,(2-0) BBX;O;COL;Elias Díaz;Eric Lauer;-2%;51%;Flyball: RF (CF-RF)
+b2;0-0;2;---;7,(3-2) CBSBBFB;;COL;Randal Grichuk;Eric Lauer;1%;53%;Walk
+b2;0-0;2;1--;5,(2-2) 1BSFBS;O;COL;Ryan McMahon;Eric Lauer;-3%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Brewers 0, Rockies 0.
+Top of the 3rd, Brewers Batting, Tied 0-0, Rockies' Kyle Freeland facing 7-8-9 
+t3;0-0;0;---;6,(2-2) BFFBFX;O;MIL;Tyrone Taylor;Kyle Freeland;3%;53%;Flyball: RF (CF-RF)
+t3;0-0;1;---;4,(2-1) BBFX;;MIL;Owen Miller;Kyle Freeland;-3%;50%;Single to SS (Ground Ball)
+t3;0-0;1;1--;2,(0-1) F1>B;O;MIL;Joey Wiemer;Kyle Freeland;5%;55%;Miller Caught Stealing 2B (C-2B)
+t3;0-0;2;---;5,(2-2) F1>B.BSX;O;MIL;Joey Wiemer;Kyle Freeland;1%;56%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Brewers 0, Rockies 0.
+Bottom of the 3rd, Rockies Batting, Tied 0-0, Brewers' Eric Lauer facing 8-9-1 
+b3;0-0;0;---;2,(0-1) CX;O;COL;Alan Trejo;Eric Lauer;-3%;53%;Flyball: LF (Deep LF)
+b3;0-0;1;---;2,(1-0) BX;;COL;Ezequiel Tovar;Eric Lauer;3%;56%;Single to LF (Fly Ball to LF Line)
+b3;0-0;1;1--;3,(2-0) BB>C;O;COL;Charlie Blackmon;Eric Lauer;-5%;51%;Tovar Caught Stealing 2B (C-SS)
+b3;0-0;2;---;4,(2-1) BB>C.X;O;COL;Charlie Blackmon;Eric Lauer;-1%;50%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Brewers 0, Rockies 0.
+Top of the 4th, Brewers Batting, Tied 0-0, Rockies' Kyle Freeland facing 1-2-3 
+t4;0-0;0;---;4,(2-1) BBFX;;MIL;Christian Yelich;Kyle Freeland;-4%;46%;Single to LF (Ground Ball)
+t4;0-0;0;1--;3,(2-0) BBX;O;MIL;Willy Adames;Kyle Freeland;4%;50%;Flyball: CF (Deep CF)
+t4;0-0;1;1--;2,(1-0) BX;O;MIL;William Contreras;Kyle Freeland;2%;52%;Groundout: 3B-1B (Weak SS); Yelich to 2B
+t4;0-0;2;-2-;1,(0-0) B;;MIL;Mike Brosseau;Kyle Freeland;-1%;52%;Wild Pitch; Yelich to 3B
+t4;0-0;2;--3;5,(2-2) B.CBS.X;O;MIL;Mike Brosseau;Kyle Freeland;5%;56%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 0, Rockies 0.
+Bottom of the 4th, Rockies Batting, Tied 0-0, Brewers' Eric Lauer facing 2-3-4 
+b4;0-0;0;---;3,(0-2) CSS;O;COL;Jurickson Profar;Eric Lauer;-3%;54%;Strikeout Swinging
+b4;0-0;1;---;6,(3-2) CBBS.BX;;COL;Kris Bryant;Eric Lauer;3%;57%;Reached on E5 (Ground Ball to SS-3B Hole); Bryant to 1B
+b4;0-0;1;1--;1,(0-0) X;;COL;C.J. Cron;Eric Lauer;9%;66%;Double to LF (Line Drive to LF Line); Bryant to 3B
+b4;0-0;1;-23;4,(1-2) FF.*BX;R;COL;Elias Díaz;Eric Lauer;8%;74%;Single to RF (Line Drive to CF-RF); Bryant Scores/unER; Cron to 3B
+b4;1-0;1;1-3;4,(3-0) B*BBB;;COL;Randal Grichuk;Eric Lauer;2%;76%;Walk; Díaz to 2B
+b4;1-0;1;123;6,(3-2) BBBCS.S;O;COL;Ryan McMahon;Eric Lauer;-7%;69%;Strikeout Swinging
+b4;1-0;2;123;1,(0-0) X;RRR;COL;Alan Trejo;Eric Lauer;20%;89%;Double to LF (Fly Ball to Deep LF-CF); Cron Scores/unER; Díaz Scores/unER; Grichuk Scores/unER
+b4;4-0;2;-2-;3,(0-2) FFS;O;COL;Ezequiel Tovar;Eric Lauer;-1%;88%;Strikeout Swinging
+;;;;;;;;;4 runs, 3 hits, 1 error, 1 LOB. Brewers 0, Rockies 4.
+Top of the 5th, Brewers Batting, Behind 0-4, Rockies' Kyle Freeland facing 5-6-7 
+t5;0-4;0;---;6,(3-2) BBCBFT;O;MIL;Rowdy Tellez;Kyle Freeland;2%;90%;Strikeout Swinging
+t5;0-4;1;---;4,(1-2) SFBS;O;MIL;Luke Voit;Kyle Freeland;1%;91%;Strikeout Swinging
+t5;0-4;2;---;7,(3-2) BBBCFF*S;O;MIL;Tyrone Taylor;Kyle Freeland;1%;92%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 0, Rockies 4.
+Bottom of the 5th, Rockies Batting, Ahead 4-0, Brewers' Eric Lauer facing 1-2-3 
+b5;4-0;0;---;5,(3-1) BBBCB;;COL;Charlie Blackmon;Eric Lauer;1%;93%;Walk
+b5;4-0;0;1--;2,(0-1) >FX;O;COL;Jurickson Profar;Eric Lauer;-1%;92%;Popfly: 3B
+b5;4-0;1;1--;3,(0-2) S1CX;O;COL;Kris Bryant;Eric Lauer;-1%;91%;Lineout: CF
+b5;4-0;2;1--;4,(3-0) B1BBB;;COL;C.J. Cron;Eric Lauer;1%;92%;Walk; Blackmon to 2B
+;;;;;;;;;Elvis Peguero replaces Eric Lauer pitching
+b5;4-0;2;12-;3,(1-1) .BFX;O;COL;Elias Díaz;Elvis Peguero;-1%;90%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Brewers 0, Rockies 4.
+Top of the 6th, Brewers Batting, Behind 0-4, Rockies' Brent Suter facing 8-9-1 
+;;;;;;;;;Brent Suter replaces Kyle Freeland pitching
+t6;0-4;0;---;5,(2-2) .CFBBX;;MIL;Owen Miller;Brent Suter;-3%;87%;Single to CF (Fly Ball to CF-RF)
+t6;0-4;0;1--;6,(2-2) B1CFBFS;O;MIL;Joey Wiemer;Brent Suter;3%;90%;Strikeout Swinging
+t6;0-4;1;1--;3,(1-1) BF11X;O;MIL;Christian Yelich;Brent Suter;2%;92%;Lineout: CF (Short CF)
+t6;0-4;2;1--;6,(2-2) FF*BB.FX;O;MIL;Willy Adames;Brent Suter;2%;94%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 0, Rockies 4.
+Bottom of the 6th, Rockies Batting, Ahead 4-0, Brewers' Elvis Peguero facing 6-7-8 
+b6;4-0;0;---;3,(1-1) BSX;O;COL;Randal Grichuk;Elvis Peguero;-1%;94%;Groundout: 3B-1B
+b6;4-0;1;---;4,(1-2) SFBS;O;COL;Ryan McMahon;Elvis Peguero;0%;93%;Strikeout Swinging
+b6;4-0;2;---;1,(0-0) X;;COL;Alan Trejo;Elvis Peguero;0%;93%;Single to LF (Line Drive to Deep LF)
+b6;4-0;2;1--;5,(2-2) BSB1SX;O;COL;Ezequiel Tovar;Elvis Peguero;-1%;93%;Flyball: CF (CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 0, Rockies 4.
+Top of the 7th, Brewers Batting, Behind 0-4, Rockies' Daniel Bard facing 3-4-5 
+;;;;;;;;;Daniel Bard replaces Brent Suter pitching
+t7;0-4;0;---;3,(0-2) .CSX;O;MIL;William Contreras;Daniel Bard;2%;95%;Lineout: RF
+;;;;;;;;;Brice Turang pinch hits for Mike Brosseau (3B) batting 4th
+t7;0-4;1;---;4,(1-2) .BSFX;;MIL;Brice Turang;Daniel Bard;-3%;92%;Double to CF (Fly Ball to Deep CF)
+t7;0-4;1;-2-;3,(0-2) FFB;;MIL;Rowdy Tellez;Daniel Bard;-1%;91%;Wild Pitch; Turang to 3B
+t7;0-4;1;--3;8,(1-2) FFB.F.FFFX;O;MIL;Rowdy Tellez;Daniel Bard;3%;94%;Flyball: SS (Short LF)
+t7;0-4;2;--3;5,(2-2) FBFBH;;MIL;Luke Voit;Daniel Bard;-1%;93%;Hit By Pitch
+;;;;;;;;;Justin Lawrence replaces Daniel Bard pitching
+t7;0-4;2;1-3;4,(1-2) .SCBX;O;MIL;Tyrone Taylor;Justin Lawrence;3%;96%;Lineout: SS (Deep SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Brewers 0, Rockies 4.
+Bottom of the 7th, Rockies Batting, Ahead 4-0, Brewers' Hoby Milner facing 1-2-3 
+;;;;;;;;;Hoby Milner replaces Elvis Peguero pitchingBrice Turang moves from PH to 2B Owen Miller moves from 2B to 3B 
+b7;4-0;0;---;6,(3-2) ...BBBCCX;O;COL;Charlie Blackmon;Hoby Milner;0%;96%;Groundout: 2B-1B (2B-1B)
+b7;4-0;1;---;4,(2-1) BCBX;;COL;Jurickson Profar;Hoby Milner;1%;97%;Double to LF (Ground Ball)
+b7;4-0;1;-2-;2,(1-0) B2X;RR;COL;Kris Bryant;Hoby Milner;2%;99%;Home Run (Fly Ball to Deep LF-CF); Profar Scores
+;;;;;;;;;Jake Cousins replaces Hoby Milner pitching
+b7;6-0;1;---;6,(3-2) .BBFBF.B;;COL;C.J. Cron;Jake Cousins;0%;99%;Walk
+b7;6-0;1;1--;1,(0-0) X;;COL;Elias Díaz;Jake Cousins;0%;99%;Single to RF (Ground Ball thru 2B-1B); Cron to 2B
+b7;6-0;1;12-;5,(2-2) BFSBX;;COL;Randal Grichuk;Jake Cousins;0%;99%;Single to LF (Line Drive to Deep LF); Cron to 3B; Díaz to 2B
+b7;6-0;1;123;4,(2-1) FBBX;OO;COL;Ryan McMahon;Jake Cousins;-1%;99%;Double Play: Flyball: RF (CF-RF); Cron out at Hm/RF-C
+;;;;;;;;;2 runs, 4 hits, 0 errors, 2 LOB. Brewers 0, Rockies 6.
+Top of the 8th, Brewers Batting, Behind 0-6, Rockies' Justin Lawrence facing 8-9-1 
+t8;0-6;0;---;3,(1-1) CBX;O;MIL;Owen Miller;Justin Lawrence;0%;99%;Groundout: SS-1B (Deep SS)
+;;;;;;;;;Jesse Winker pinch hits for Joey Wiemer (CF) batting 9th
+t8;0-6;1;---;4,(2-1) .FBBX;O;MIL;Jesse Winker;Justin Lawrence;0%;100%;Lineout: CF (Deep CF)
+t8;0-6;2;---;7,(3-2) BBBCFFB;;MIL;Christian Yelich;Justin Lawrence;0%;99%;Walk
+t8;0-6;2;1--;1,(0-0) X;O;MIL;Willy Adames;Justin Lawrence;0%;100%;Popfly: SS (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Brewers 0, Rockies 6.
+Bottom of the 8th, Rockies Batting, Ahead 6-0, Brewers' Jake Cousins facing 8-9-1 
+;;;;;;;;;Tyrone Taylor moves from RF to CF Jesse Winker moves from PH to RF 
+b8;6-0;0;---;4,(1-2) ..CSBS;O;COL;Alan Trejo;Jake Cousins;0%;100%;Strikeout Swinging
+b8;6-0;1;---;3,(2-0) BBX;O;COL;Ezequiel Tovar;Jake Cousins;0%;100%;Lineout: RF (Deep RF)
+b8;6-0;2;---;5,(3-1) BFBBX;R;COL;Charlie Blackmon;Jake Cousins;0%;100%;Home Run (Fly Ball to Deep CF-RF)
+b8;7-0;2;---;5,(3-1) BBFBX;O;COL;Jurickson Profar;Jake Cousins;0%;100%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Brewers 0, Rockies 7.
+Top of the 9th, Brewers Batting, Behind 0-7, Rockies' Dinelson Lamet facing 3-4-5 
+;;;;;;;;;Dinelson Lamet replaces Justin Lawrence pitching
+t9;0-7;0;---;4,(3-0) .BBBB;;MIL;William Contreras;Dinelson Lamet;0%;100%;Walk
+t9;0-7;0;1--;6,(3-2) BCC*BBB;;MIL;Brice Turang;Dinelson Lamet;0%;99%;Walk; Contreras to 2B
+t9;0-7;0;12-;4,(2-1) *BBTX;O;MIL;Rowdy Tellez;Dinelson Lamet;0%;100%;Groundout: P unassisted (P's Left); Contreras to 3B; Turang to 2B
+t9;0-7;1;-23;5,(3-1) *B*SBBB;;MIL;Luke Voit;Dinelson Lamet;0%;99%;Walk
+;;;;;;;;;Jake Bird replaces Dinelson Lamet pitching
+t9;0-7;1;123;3,(1-1) .FBX;RO;MIL;Tyrone Taylor;Jake Bird;0%;100%;Flyball: CF/Sacrifice Fly (Deep CF); Contreras Scores; Turang to 3B
+t9;1-7;2;1-3;1,(0-0) X;O;MIL;Owen Miller;Jake Bird;0%;100%;Popfly: SS
+;;;;;;;;;1 run, 0 hits, 0 errors, 2 LOB. Brewers 1, Rockies 7.

@@ -1,0 +1,262 @@
+
+Scorebox Meta
+20230621
+12:10 p.m. Local
+15701
+loanDepot park
+147
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/TOR-2023.png;/teams/TOR/2023.shtml;0;5;0;0;0;0;0;1;0;6;11;0
+https://cdn.ssref.net/req/202308101/tlogo/br/MIA-2023.png;/teams/MIA/2023.shtml;0;0;0;2;0;0;1;0;0;3;9;0
+
+Batting home
+Luis Arraez;/players/a/arraelu01.shtml;2B;5;0;2;0;0;0;5;.398;.447;.485;.932;14;11;-0.214; 1.49;0.052;-0.266;-0.15%; 1.74; -1.3;2;5;GDP
+Jorge Soler;/players/s/solerjo01.shtml;DH;4;0;0;0;0;0;4;.252;.353;.543;.896;20;18;-0.173; 1.22;0.000;-0.173;-0.12%; 1.42; -1.6;;;GDP
+Bryan De La Cruz;/players/d/delacbr01.shtml;LF;4;1;1;0;0;1;4;.274;.323;.421;.744;15;11;-0.024; 0.61;0.025;-0.049;-0.02%; 0.72; -0.1;2;0;
+Jesús Sánchez;/players/s/sanchje02.shtml;RF;4;1;1;0;0;0;4;.273;.347;.500;.847;15;12;0.012; 0.84;0.072;-0.060; 0.01%; 0.98; 0.5;2;0;2B
+Garrett Cooper;/players/c/coopega03.shtml;1B;4;0;1;2;0;3;4;.228;.263;.391;.654;14;11;0.053; 0.70;0.089;-0.037; 0.04%; 0.82; 0.7;11;0;2B
+Joey Wendle;/players/w/wendljo01.shtml;SS;4;0;1;0;0;1;4;.252;.304;.383;.688;19;12;-0.073; 0.75;0.008;-0.081;-0.05%; 0.88; -0.7;2;4;
+Jonathan Davis;/players/d/davisjo05.shtml;CF;3;1;2;0;1;0;4;.275;.342;.391;.733;16;7;0.097; 0.93;0.111;-0.014; 0.07%; 1.08; 0.8;1;0;
+Jacob Stallings;/players/s/stallja01.shtml;C;2;0;0;0;0;1;3;.165;.267;.223;.490;10;6;0.017; 1.61;0.084;-0.067; 0.01%; 1.88; -0.1;6;0;HBP
+Nick Fortes;/players/f/forteni01.shtml;PR-C;0;0;0;0;1;0;1;.250;.300;.351;.651;5;1;0.053; 1.25;0.053;0.000; 0.04%; 1.46; 0.2;1;1;
+Garrett Hampson;/players/h/hampsga01.shtml;3B;3;0;1;1;0;2;3;.240;.321;.336;.657;10;8;0.076; 1.72;0.132;-0.056; 0.05%; 2.01; 0.4;0;1;
+Yuli Gurriel;/players/g/gourryu01.shtml;PH;1;0;0;0;0;1;1;.259;.314;.385;.699;3;3;-0.061; 2.75;0.000;-0.061;-0.04%; 3.21; -0.5;;;
+Sandy Alcantara;/players/a/alcansa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Steven Okert;/players/o/okertst01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Huascar Brazoban;/players/b/brazohu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jesús Sánchez (12, off Kevin Gausman); Garrett Cooper (7, off Kevin Gausman).
+
+
+HBP: Jacob Stallings (2, by Kevin Gausman).
+
+
+TB: Jesús Sánchez 2; Luis Arraez 2; Jonathan Davis 2; Garrett Cooper 2; Joey Wendle; Garrett Hampson; Bryan De La Cruz.
+
+
+GIDP: Jorge Soler (10); Luis Arraez (12).
+
+
+RBI: Garrett Cooper 2 (30); Garrett Hampson (10).
+
+
+Team LOB: 7.
+With RISP: 2 for 9.
+
+Batting away
+George Springer;/players/s/springe01.shtml;RF;5;1;2;2;0;0;5;.261;.326;.402;.728;12;10;0.045; 0.61;0.096;-0.051; 0.02%; 0.50; 0.7;0;0;GDP
+Whit Merrifield;/players/m/merriwh01.shtml;LF;5;0;1;1;0;1;5;.298;.355;.383;.738;11;8;-0.004; 0.43;0.047;-0.051;-0.00%; 0.35; -0.4;4;0;
+Daulton Varsho;/players/v/varshda01.shtml;LF;0;0;0;0;0;0;0;.228;.295;.401;.695;;;;;;;;;;0;0;
+Brandon Belt;/players/b/beltbr01.shtml;DH;4;0;1;0;0;2;4;.263;.375;.429;.804;18;11;-0.019; 0.39;0.012;-0.031;-0.01%; 0.33; -0.6;;;
+Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;1B;4;0;0;0;0;0;4;.275;.345;.423;.767;8;6;-0.048; 0.44;0.000;-0.048;-0.02%; 0.36; -0.8;6;0;
+Matt Chapman;/players/c/chapmma01.shtml;3B;3;2;2;1;1;1;4;.269;.349;.472;.821;15;8;0.128; 0.49;0.135;-0.007; 0.06%; 0.41; 1.5;1;3;HR,2B
+Cavan Biggio;/players/b/biggica01.shtml;2B;4;1;2;1;0;1;4;.191;.262;.374;.636;11;8;0.095; 0.55;0.107;-0.012; 0.05%; 0.46; 0.8;1;1;2B
+Santiago Espinal;/players/e/espinsa01.shtml;SS;4;1;1;0;0;1;4;.218;.295;.287;.582;24;18;0.026; 0.59;0.058;-0.033; 0.01%; 0.49; 0.0;2;2;
+Kevin Kiermaier;/players/k/kiermke01.shtml;CF;4;1;1;1;0;1;4;.274;.329;.432;.760;10;8;0.068; 0.73;0.090;-0.022; 0.03%; 0.60; 0.6;4;0;SB
+Tyler Heineman;/players/h/heinety01.shtml;C;3;0;1;0;1;1;4;.227;.370;.273;.643;12;8;-0.029; 0.43;0.019;-0.048;-0.01%; 0.36; -0.4;9;1;
+Kevin Gausman;/players/g/gausmke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Erik Swanson;/players/s/swanser01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Richards;/players/r/richatr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jordan Romano;/players/r/romanjo03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Matt Chapman (25, off Sandy Alcantara); Cavan Biggio (3, off Sandy Alcantara).
+
+
+HR: Matt Chapman (10, off Steven Okert, 8th inn, 0 on, 0 outs to Deep LF).
+
+
+TB: Matt Chapman 6; Cavan Biggio 3; George Springer 2; Santiago Espinal; Whit Merrifield; Tyler Heineman; Kevin Kiermaier; Brandon Belt.
+
+
+GIDP: George Springer (10).
+
+
+RBI: George Springer 2 (31); Matt Chapman (35); Whit Merrifield (29); Cavan Biggio (13); Kevin Kiermaier (17).
+
+
+Team LOB: 5.
+With RISP: 5 for 10.
+
+Pitching home
+Sandy Alcantara;/players/a/alcansa01.shtml; L (2-6); 7 ;10;5;5;2;6;0;5.08;31;96;67;38;10;19;13;10;8;0;41;;;-0.221; 0.59;-0.15%; 0.69; -1.4
+Steven Okert;/players/o/okertst01.shtml;Steven Okert; 1 ;1;1;1;0;2;1;2.13;4;18;12;9;2;1;0;2;0;0;;0;0;-0.050; 0.28;-0.03%; 0.33; -0.5
+Huascar Brazoban;/players/b/brazohu01.shtml;Huascar Brazoban; 1 ;0;0;0;0;0;0;3.68;3;7;6;4;0;2;1;2;0;0;;0;0;0.009; 0.11; 0.01%; 0.13; 0.5
+
+Pitching away
+Kevin Gausman;/players/g/gausmke01.shtml; W (7-3); 6 ;8;3;3;1;6;0;3.10;27;100;72;43;8;21;10;9;3;0;49;;;-0.114; 0.98;-0.06%; 0.81; -0.9
+Erik Swanson;/players/s/swanser01.shtml; H (19); 1 ;0;0;0;0;0;0;2.57;2;7;7;5;0;2;2;0;0;0;;2;0;0.256; 2.83; 0.13%; 2.34; 1.5
+Trevor Richards;/players/r/richatr01.shtml; H (4); 1 ;0;0;0;0;1;0;3.71;3;13;9;6;2;1;0;2;1;0;;0;0;0.054; 0.69; 0.03%; 0.57; 0.5
+Jordan Romano;/players/r/romanjo03.shtml; S (22); 1 ;1;0;0;1;2;0;2.59;5;21;12;6;3;3;1;1;1;0;;0;0;0.043; 1.39; 0.02%; 1.15; 0.5
+
+indiv_events
+
+Balks: Jordan Romano (1).
+WP: None.
+HBP: Kevin Gausman (2; Jacob Stallings).
+IBB: None.
+Pickoffs: None.
+
+Balks: Jordan Romano (1).
+WP: None.
+HBP: Kevin Gausman (2; Jacob Stallings).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Nick Mahrley, 1B - Adam Hamari, 2B - Vic Carapazza, 3B - Jerry Layne, LF - (none), RF - (none).
+Time of Game: 2:27.
+Attendance: 15,701.
+Start Time Weather: 72° F, Wind 0mph, In Dome.
+
+div_lineups
+Blue Jays
+1;George Springer;/players/s/springe01.shtml;RF
+2;Whit Merrifield;/players/m/merriwh01.shtml;LF
+3;Brandon Belt;/players/b/beltbr01.shtml;DH
+4;Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;1B
+5;Matt Chapman;/players/c/chapmma01.shtml;3B
+6;Cavan Biggio;/players/b/biggica01.shtml;2B
+7;Santiago Espinal;/players/e/espinsa01.shtml;SS
+8;Kevin Kiermaier;/players/k/kiermke01.shtml;CF
+9;Tyler Heineman;/players/h/heinety01.shtml;C
+; Kevin Gausman;/players/g/gausmke01.shtml;P
+Marlins
+1;Luis Arraez;/players/a/arraelu01.shtml;2B
+2;Jorge Soler;/players/s/solerjo01.shtml;DH
+3;Bryan De La Cruz;/players/d/delacbr01.shtml;LF
+4;Jesús Sánchez;/players/s/sanchje02.shtml;RF
+5;Garrett Cooper;/players/c/coopega03.shtml;1B
+6;Joey Wendle;/players/w/wendljo01.shtml;SS
+7;Jonathan Davis;/players/d/davisjo05.shtml;CF
+8;Jacob Stallings;/players/s/stallja01.shtml;C
+9;Garrett Hampson;/players/h/hampsga01.shtml;3B
+; Sandy Alcantara;/players/a/alcansa01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b7;3-5;0;12-;2,(0-1) ..CX;OO;MIA;Luis Arraez;Erik Swanson;20%;81%;Ground Ball Double Play: SS-1B (SS-2B); Fortes to 3B
+b7;2-5;0;12-;4,(2-1) BCBX;R;MIA;Garrett Hampson;Kevin Gausman;-13%;61%;Single to RF (Ground Ball); Davis Scores; Stallings to 2B
+t2;0-0;0;-2-;2,(0-1) CX;R;TOR;Cavan Biggio;Sandy Alcantara;10%;66%;Double to RF (Line Drive to RF Line); Chapman Scores
+b4;0-5;0;-23;1,(0-0) X;RR;MIA;Garrett Cooper;Kevin Gausman;-9%;72%;Double to LF (Fly Ball to Deep LF-CF); De La Cruz Scores; Sánchez Scores
+b5;2-5;0;1--;5,(0-2) CFFFX;OO;MIA;Jorge Soler;Kevin Gausman;9%;85%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Blue Jays Batting, Tied 0-0, Marlins' Sandy Alcantara facing 1-2-3 
+t1;0-0;0;---;4,(1-2) SBSX;O;TOR;George Springer;Sandy Alcantara;-2%;48%;Groundout: 3B-1B (SS-3B Hole)
+t1;0-0;1;---;3,(1-1) CBX;O;TOR;Whit Merrifield;Sandy Alcantara;-2%;46%;Groundout: SS-1B
+t1;0-0;2;---;7,(3-2) CCBFBBX;;TOR;Brandon Belt;Sandy Alcantara;1%;47%;Single to LF (Line Drive)
+t1;0-0;2;1--;2,(0-1) FX;O;TOR;Vladimir Guerrero Jr.;Sandy Alcantara;-2%;45%;Lineout: RF (Deep RF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 0, Marlins 0.
+Bottom of the 1st, Marlins Batting, Tied 0-0, Blue Jays' Kevin Gausman facing 1-2-3 
+b1;0-0;0;---;2,(0-1) SX;O;MIA;Luis Arraez;Kevin Gausman;2%;47%;Flyball: LF (Deep LF Line)
+b1;0-0;1;---;6,(2-2) BCFFBX;O;MIA;Jorge Soler;Kevin Gausman;2%;49%;Groundout: SS-1B
+b1;0-0;2;---;7,(3-2) BSCBFBX;O;MIA;Bryan De La Cruz;Kevin Gausman;1%;50%;Lineout: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Marlins 0.
+Top of the 2nd, Blue Jays Batting, Tied 0-0, Marlins' Sandy Alcantara facing 5-6-7 
+t2;0-0;0;---;2,(0-1) CX;;TOR;Matt Chapman;Sandy Alcantara;6%;56%;Double to LF (Ground Ball)
+t2;0-0;0;-2-;2,(0-1) CX;R;TOR;Cavan Biggio;Sandy Alcantara;10%;66%;Double to RF (Line Drive to RF Line); Chapman Scores
+t2;1-0;0;-2-;2,(0-1) FX;;TOR;Santiago Espinal;Sandy Alcantara;6%;72%;Single to LF (Line Drive to Short LF-CF); Biggio to 3B
+t2;1-0;0;1-3;2,(0-1) M1X;R;TOR;Kevin Kiermaier;Sandy Alcantara;7%;79%;Single to CF (Ground Ball); Biggio Scores; Espinal to 3B
+t2;2-0;0;1-3;3,(0-2) LLO;O;TOR;Tyler Heineman;Sandy Alcantara;-4%;75%;Strikeout
+t2;2-0;1;1-3;1,(0-0) >C;;TOR;George Springer;Sandy Alcantara;2%;76%;Kiermaier Steals 2B
+t2;2-0;1;-23;2,(0-1) >C.X;RR;TOR;George Springer;Sandy Alcantara;9%;85%;Single to LF (Ground Ball thru SS-3B Hole); Espinal Scores; Kiermaier Scores; Springer to 2B
+t2;4-0;1;-2-;2,(1-0) BX;R;TOR;Whit Merrifield;Sandy Alcantara;5%;90%;Single to CF (Line Drive); Springer Scores; Merrifield to 2B
+t2;5-0;1;-2-;5,(2-2) BCBCT;O;TOR;Brandon Belt;Sandy Alcantara;-1%;89%;Strikeout Swinging
+t2;5-0;2;-2-;3,(1-1) BFX;O;TOR;Vladimir Guerrero Jr.;Sandy Alcantara;-1%;87%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;5 runs, 6 hits, 0 errors, 1 LOB. Blue Jays 5, Marlins 0.
+Bottom of the 2nd, Marlins Batting, Behind 0-5, Blue Jays' Kevin Gausman facing 4-5-6 
+b2;0-5;0;---;7,(0-2) CCFFFFX;O;MIA;Jesús Sánchez;Kevin Gausman;2%;89%;Flyball: LF (Deep LF)
+b2;0-5;1;---;3,(0-2) CS.S;O;MIA;Garrett Cooper;Kevin Gausman;1%;90%;Strikeout Swinging
+b2;0-5;2;---;6,(2-2) CBFBFX;;MIA;Joey Wendle;Kevin Gausman;-1%;89%;Single to LF (Line Drive to Short LF)
+b2;0-5;2;1--;2,(1-0) BX;O;MIA;Jonathan Davis;Kevin Gausman;1%;91%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 5, Marlins 0.
+Top of the 3rd, Blue Jays Batting, Ahead 5-0, Marlins' Sandy Alcantara facing 5-6-7 
+t3;5-0;0;---;6,(2-2) BCS.BFS;O;TOR;Matt Chapman;Sandy Alcantara;-1%;90%;Strikeout Swinging
+t3;5-0;1;---;5,(2-2) BSCBS;O;TOR;Cavan Biggio;Sandy Alcantara;-1%;89%;Strikeout Swinging
+t3;5-0;2;---;3,(0-2) FC.X;O;TOR;Santiago Espinal;Sandy Alcantara;0%;89%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 5, Marlins 0.
+Bottom of the 3rd, Marlins Batting, Behind 0-5, Blue Jays' Kevin Gausman facing 8-9-1 
+b3;0-5;0;---;4,(1-2) CBFS;O;MIA;Jacob Stallings;Kevin Gausman;2%;90%;Strikeout Swinging
+b3;0-5;1;---;3,(0-2) CC.S;O;MIA;Garrett Hampson;Kevin Gausman;1%;91%;Strikeout Swinging
+b3;0-5;2;---;2,(1-0) BX;;MIA;Luis Arraez;Kevin Gausman;-1%;91%;Single to CF (Ground Ball thru SS-2B)
+b3;0-5;2;1--;4,(0-2) FC>FX;O;MIA;Jorge Soler;Kevin Gausman;1%;92%;Groundout: P-1B (P's Left)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 5, Marlins 0.
+Top of the 4th, Blue Jays Batting, Ahead 5-0, Marlins' Sandy Alcantara facing 8-9-1 
+t4;5-0;0;---;2,(0-1) CX;O;TOR;Kevin Kiermaier;Sandy Alcantara;-1%;91%;Groundout: SS-1B
+t4;5-0;1;---;2,(0-1) CX;;TOR;Tyler Heineman;Sandy Alcantara;1%;92%;Single to CF (Line Drive)
+t4;5-0;1;1--;1,(0-0) X;;TOR;George Springer;Sandy Alcantara;1%;93%;Single to RF (Line Drive); Heineman to 2B
+t4;5-0;1;12-;2,(1-0) *BX;OO;TOR;Whit Merrifield;Sandy Alcantara;-2%;91%;Double Play: Lineout: SS (Deep SS); Heineman out at 2B/SS-2B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Blue Jays 5, Marlins 0.
+Bottom of the 4th, Marlins Batting, Behind 0-5, Blue Jays' Kevin Gausman facing 3-4-5 
+b4;0-5;0;---;1,(0-0) X;;MIA;Bryan De La Cruz;Kevin Gausman;-3%;88%;Single to LF (Ground Ball)
+b4;0-5;0;1--;2,(0-1) FX;;MIA;Jesús Sánchez;Kevin Gausman;-7%;81%;Double to RF (Line Drive to Deep CF-RF); De La Cruz to 3B
+b4;0-5;0;-23;1,(0-0) X;RR;MIA;Garrett Cooper;Kevin Gausman;-9%;72%;Double to LF (Fly Ball to Deep LF-CF); De La Cruz Scores; Sánchez Scores
+b4;2-5;0;-2-;6,(3-2) BC*B*BCX;O;MIA;Joey Wendle;Kevin Gausman;5%;77%;Flyball: LF (Deep LF)
+b4;2-5;1;-2-;5,(3-1) BBBCB;;MIA;Jonathan Davis;Kevin Gausman;-3%;74%;Walk
+b4;2-5;1;12-;5,(2-2) B*BCFX;O;MIA;Jacob Stallings;Kevin Gausman;5%;79%;Groundout: C-3B/Forceout at 3B; Davis to 2B; Stallings to 1B
+b4;2-5;2;12-;3,(0-2) F.FT;O;MIA;Garrett Hampson;Kevin Gausman;5%;84%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Blue Jays 5, Marlins 2.
+Top of the 5th, Blue Jays Batting, Ahead 5-2, Marlins' Sandy Alcantara facing 3-4-5 
+t5;5-2;0;---;1,(0-0) X;O;TOR;Brandon Belt;Sandy Alcantara;-1%;82%;Flyball: LF (Deep SS-3B Hole)
+t5;5-2;1;---;2,(1-0) BX;O;TOR;Vladimir Guerrero Jr.;Sandy Alcantara;-1%;81%;Groundout: 2B-1B (SS-2B)
+t5;5-2;2;---;5,(3-1) BBBCB;;TOR;Matt Chapman;Sandy Alcantara;1%;82%;Walk
+t5;5-2;2;1--;3,(1-1) BCX;;TOR;Cavan Biggio;Sandy Alcantara;1%;83%;Single to RF (Ground Ball); Chapman to 2B
+t5;5-2;2;12-;9,(3-2) CB*BFFFF.*B>X;O;TOR;Santiago Espinal;Sandy Alcantara;-2%;81%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Blue Jays 5, Marlins 2.
+Bottom of the 5th, Marlins Batting, Behind 2-5, Blue Jays' Kevin Gausman facing 1-2-3 
+b5;2-5;0;---;5,(1-2) CBCFX;;MIA;Luis Arraez;Kevin Gausman;-4%;76%;Single to RF (Ground Ball)
+b5;2-5;0;1--;5,(0-2) CFFFX;OO;MIA;Jorge Soler;Kevin Gausman;9%;85%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b5;2-5;2;---;3,(0-2) FC.S;O;MIA;Bryan De La Cruz;Kevin Gausman;1%;86%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Blue Jays 5, Marlins 2.
+Top of the 6th, Blue Jays Batting, Ahead 5-2, Marlins' Sandy Alcantara facing 8-9-1 
+t6;5-2;0;---;1,(0-0) X;O;TOR;Kevin Kiermaier;Sandy Alcantara;-1%;85%;Popfly: SS (Deep SS)
+t6;5-2;1;---;5,(3-1) .CBBBB;;TOR;Tyler Heineman;Sandy Alcantara;1%;86%;Walk
+t6;5-2;1;1--;1,(0-0) X;OO;TOR;George Springer;Sandy Alcantara;-3%;84%;Ground Ball Double Play: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 5, Marlins 2.
+Bottom of the 6th, Marlins Batting, Behind 2-5, Blue Jays' Kevin Gausman facing 4-5-6 
+b6;2-5;0;---;3,(2-0) BBX;O;MIA;Jesús Sánchez;Kevin Gausman;3%;86%;Flyball: CF (Deep LF-CF)
+b6;2-5;1;---;4,(1-2) BFFS;O;MIA;Garrett Cooper;Kevin Gausman;2%;88%;Strikeout Swinging
+b6;2-5;2;---;3,(1-1) CBX;O;MIA;Joey Wendle;Kevin Gausman;1%;89%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 5, Marlins 2.
+Top of the 7th, Blue Jays Batting, Ahead 5-2, Marlins' Sandy Alcantara facing 2-3-4 
+t7;5-2;0;---;3,(0-2) CFS;O;TOR;Whit Merrifield;Sandy Alcantara;-1%;88%;Strikeout Swinging
+t7;5-2;1;---;5,(2-2) BSSBC;O;TOR;Brandon Belt;Sandy Alcantara;-1%;88%;Strikeout Looking
+t7;5-2;2;---;1,(0-0) X;O;TOR;Vladimir Guerrero Jr.;Sandy Alcantara;-1%;87%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 5, Marlins 2.
+Bottom of the 7th, Marlins Batting, Behind 2-5, Blue Jays' Kevin Gausman facing 7-8-9 
+b7;2-5;0;---;3,(1-1) CBX;;MIA;Jonathan Davis;Kevin Gausman;-5%;82%;Single to LF (Ground Ball)
+b7;2-5;0;1--;1,(0-0) H;;MIA;Jacob Stallings;Kevin Gausman;-8%;74%;Hit By Pitch; Davis to 2B
+b7;2-5;0;12-;4,(2-1) BCBX;R;MIA;Garrett Hampson;Kevin Gausman;-13%;61%;Single to RF (Ground Ball); Davis Scores; Stallings to 2B
+;;;;;;;;;Erik Swanson replaces Kevin Gausman pitchingNick Fortes pinch runs for Jacob Stallings (C) batting 8th
+b7;3-5;0;12-;2,(0-1) ..CX;OO;MIA;Luis Arraez;Erik Swanson;20%;81%;Ground Ball Double Play: SS-1B (SS-2B); Fortes to 3B
+b7;3-5;2;--3;5,(0-2) CFFFX;O;MIA;Jorge Soler;Erik Swanson;6%;86%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Blue Jays 5, Marlins 3.
+Top of the 8th, Blue Jays Batting, Ahead 5-3, Marlins' Steven Okert facing 5-6-7 
+;;;;;;;;;Steven Okert replaces Sandy Alcantara pitchingNick Fortes moves from PR to C 
+t8;5-3;0;---;2,(1-0) ..BX;R;TOR;Matt Chapman;Steven Okert;7%;93%;Home Run (Fly Ball to Deep LF)
+t8;6-3;0;---;1,(0-0) X;O;TOR;Cavan Biggio;Steven Okert;-1%;92%;Flyball: RF (Deep RF Line)
+t8;6-3;1;---;10,(3-2) CFFBFFBFBS;O;TOR;Santiago Espinal;Steven Okert;-1%;92%;Strikeout Swinging; Espinal out at 1B/C-1B
+t8;6-3;2;---;5,(2-2) FFBBS;O;TOR;Kevin Kiermaier;Steven Okert;0%;91%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Blue Jays 6, Marlins 3.
+Bottom of the 8th, Marlins Batting, Behind 3-6, Blue Jays' Trevor Richards facing 3-4-5 
+;;;;;;;;;Trevor Richards replaces Erik Swanson pitching
+b8;3-6;0;---;4,(1-2) .BCFX;O;MIA;Bryan De La Cruz;Trevor Richards;3%;94%;Flyball: LF
+b8;3-6;1;---;3,(1-1) S.BX;O;MIA;Jesús Sánchez;Trevor Richards;2%;96%;Lineout: CF (Deep CF)
+b8;3-6;2;---;6,(2-2) BFBFF*S;O;MIA;Garrett Cooper;Trevor Richards;1%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 6, Marlins 3.
+Top of the 9th, Blue Jays Batting, Ahead 6-3, Marlins' Huascar Brazoban facing 9-1-2 
+;;;;;;;;;Huascar Brazoban replaces Steven Okert pitching
+t9;6-3;0;---;2,(0-1) .CX;O;TOR;Tyler Heineman;Huascar Brazoban;0%;96%;Flyball: CF (Deep CF-RF)
+t9;6-3;1;---;4,(1-2) CFBX;O;TOR;George Springer;Huascar Brazoban;0%;96%;Flyball: LF (Short LF Line)
+t9;6-3;2;---;1,(0-0) X;O;TOR;Whit Merrifield;Huascar Brazoban;0%;96%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 6, Marlins 3.
+Bottom of the 9th, Marlins Batting, Behind 3-6, Blue Jays' Jordan Romano facing 6-7-8 
+;;;;;;;;;Jordan Romano replaces Trevor Richards pitchingDaulton Varsho replaces Whit Merrifield playing LF batting 2nd
+b9;3-6;0;---;4,(1-2) ..BCS.S;O;MIA;Joey Wendle;Jordan Romano;2%;98%;Strikeout Swinging
+b9;3-6;1;---;6,(3-2) SBBCBX;;MIA;Jonathan Davis;Jordan Romano;-3%;95%;Single to LF (Line Drive)
+b9;3-6;1;1--;1,(1-0) BN;;MIA;Nick Fortes;Jordan Romano;-1%;95%;Balk; Davis to 2B
+b9;3-6;1;-2-;5,(3-1) BN.FBBB;;MIA;Nick Fortes;Jordan Romano;-5%;90%;Walk
+;;;;;;;;;Yuli Gurriel pinch hits for Garrett Hampson (3B) batting 9th
+b9;3-6;1;12-;3,(0-2) .CFT;O;MIA;Yuli Gurriel;Jordan Romano;6%;96%;Strikeout Swinging
+b9;3-6;2;12-;3,(1-1) FBX;O;MIA;Luis Arraez;Jordan Romano;4%;100%;Groundout: SS unassisted/Forceout at 2B (SS-2B); Arraez to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Blue Jays 6, Marlins 3.

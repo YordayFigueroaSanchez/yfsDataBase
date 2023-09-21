@@ -1,0 +1,256 @@
+
+Scorebox Meta
+20230611
+1:40 p.m. Local
+23069
+Tropicana Field
+142
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/TEX-2023.png;/teams/TEX/2023.shtml;0;0;3;0;0;0;0;0;0;3;5;0
+https://cdn.ssref.net/req/202308101/tlogo/br/TBR-2023.png;/teams/TBR/2023.shtml;2;2;0;3;0;0;0;0;X;7;12;1
+
+Batting home
+Yandy Díaz;/players/d/diazya01.shtml;1B;4;2;2;0;0;1;4;.313;.405;.548;.953;18;12;0.072; 0.68;0.097;-0.025; 0.04%; 0.58; 0.4;10;0;
+Wander Franco;/players/f/francwa01.shtml;SS;4;2;2;3;0;0;4;.299;.360;.486;.846;12;7;0.192; 0.98;0.212;-0.020; 0.10%; 0.84; 2.2;1;5;HR
+Harold Ramírez;/players/r/ramirha02.shtml;DH;3;0;3;1;0;0;3;.306;.351;.517;.867;8;7;0.138; 0.75;0.138;0.000; 0.07%; 0.64; 2.2;;;SB
+Josh Lowe;/players/l/lowejo01.shtml;PH-DH-DH;1;0;0;0;0;0;1;.298;.342;.548;.889;5;4;-0.003; 0.10;0.000;-0.003;-0.00%; 0.09; -0.2;;;
+Randy Arozarena;/players/a/arozara01.shtml;LF;4;0;1;1;0;1;4;.289;.405;.489;.894;21;13;0.055; 0.70;0.076;-0.021; 0.03%; 0.60; 0.3;0;0;
+Isaac Paredes;/players/p/paredis01.shtml;3B;3;0;0;1;1;1;4;.260;.344;.485;.829;13;5;0.021; 0.72;0.032;-0.012; 0.01%; 0.62; -0.2;1;0;
+Jose Siri;/players/s/sirijo01.shtml;CF;4;0;1;0;0;2;4;.223;.275;.531;.805;17;12;-0.079; 0.63;0.008;-0.087;-0.04%; 0.54; -1.3;3;0;CS
+Christian Bethancourt;/players/b/bethach01.shtml;C;4;0;0;0;0;1;4;.231;.260;.441;.701;11;9;-0.090; 0.67;0.000;-0.090;-0.05%; 0.57; -1.5;7;0;GDP
+Manuel Margot;/players/m/margoma01.shtml;RF;3;1;2;0;1;0;4;.247;.322;.338;.660;17;9;0.002; 0.39;0.026;-0.024; 0.00%; 0.33; 0.3;3;0;2B
+Taylor Walls;/players/w/wallsta01.shtml;2B;3;2;1;1;1;1;4;.211;.321;.410;.731;14;7;0.099; 0.46;0.105;-0.006; 0.05%; 0.39; 0.9;2;3;2B
+Shane McClanahan;/players/m/mcclash01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;3;
+Colin Poche;/players/p/pocheco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jason Adam;/players/a/adamja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Taylor Walls (7, off Martín Pérez); Manuel Margot (6, off Yerry Rodríguez).
+
+
+HR: Wander Franco (8, off Martín Pérez, 4th inn, 2 on, 1 out to Deep LF).
+
+
+TB: Wander Franco 5; Manuel Margot 3; Harold Ramírez 3; Yandy Díaz 2; Taylor Walls 2; Jose Siri; Randy Arozarena.
+
+
+GIDP: Christian Bethancourt (4).
+
+
+RBI: Wander Franco 3 (32); Isaac Paredes (45); Taylor Walls (22); Randy Arozarena (44); Harold Ramírez (30).
+
+
+2-out RBI: Harold Ramírez.
+
+
+Team LOB: 5.
+With RISP: 4 for 12.
+
+Batting away
+Marcus Semien;/players/s/semiema01.shtml;2B;4;1;1;1;0;0;4;.296;.361;.487;.848;16;10;0.104; 0.75;0.143;-0.039; 0.07%; 0.83; 1.0;4;2;2B
+Corey Seager;/players/s/seageco01.shtml;DH;4;0;1;1;0;2;4;.348;.399;.606;1.005;15;11;0.026; 0.57;0.050;-0.024; 0.02%; 0.63; 0.1;;;
+Nathaniel Lowe;/players/l/lowena01.shtml;1B;4;0;1;0;0;2;4;.272;.353;.429;.782;21;15;-0.052; 0.78;0.012;-0.064;-0.03%; 0.86; -0.7;4;0;
+Adolis García;/players/g/garciad02.shtml;RF;3;0;0;0;1;1;4;.265;.328;.500;.828;18;11;-0.056; 0.71;0.009;-0.065;-0.04%; 0.79; -0.4;3;0;
+Josh Jung;/players/j/jungjo01.shtml;3B;4;0;1;0;0;0;4;.285;.333;.508;.842;7;7;-0.022; 0.61;0.033;-0.055;-0.01%; 0.68; 0.3;1;0;2B
+Jonah Heim;/players/h/heimjo01.shtml;C;3;0;0;0;1;1;4;.277;.332;.450;.782;18;11;-0.023; 0.86;0.036;-0.059;-0.01%; 0.95; -0.5;9;1;
+Ezequiel Duran;/players/d/duranez01.shtml;SS;4;0;0;0;0;1;4;.310;.359;.510;.869;16;12;-0.121; 0.96;0.000;-0.121;-0.08%; 1.06; -2.0;0;3;GDP
+Robbie Grossman;/players/g/grossro01.shtml;LF;3;1;1;1;0;0;3;.238;.315;.392;.706;11;7;0.046; 0.45;0.064;-0.018; 0.03%; 0.50; 0.8;1;1;HR
+Leody Taveras;/players/t/taverle01.shtml;CF;2;1;0;0;1;0;3;.293;.354;.460;.814;14;7;0.007; 0.65;0.036;-0.029; 0.01%; 0.72; -0.1;2;0;
+Martín Pérez;/players/p/perezma02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Leclerc;/players/l/leclejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Grant Anderson;/players/a/andergr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yerry Rodríguez;/players/r/rodriye01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Marcus Semien (20, off Shane McClanahan); Josh Jung (13, off Jason Adam).
+
+
+HR: Robbie Grossman (7, off Shane McClanahan, 3rd inn, 0 on, 0 outs to Deep LF).
+
+
+TB: Robbie Grossman 4; Josh Jung 2; Marcus Semien 2; Nathaniel Lowe; Corey Seager.
+
+
+GIDP: Ezequiel Duran (2).
+
+
+RBI: Robbie Grossman (32); Marcus Semien (51); Corey Seager (34).
+
+
+Team LOB: 4.
+With RISP: 1 for 2.
+
+Pitching home
+Shane McClanahan;/players/m/mcclash01.shtml; W (10-1); 7 ;4;3;3;1;5;1;2.18;26;96;68;37;18;13;9;11;5;0;61;;;0.055; 0.73; 0.03%; 0.63; 0.4
+Colin Poche;/players/p/pocheco01.shtml;Colin Poche; 1 ;0;0;0;0;1;0;2.19;3;14;8;5;1;2;1;1;0;0;;0;0;0.022; 0.29; 0.01%; 0.25; 0.5
+Jason Adam;/players/a/adamja01.shtml;Jason Adam; 1 ;1;0;0;2;1;0;2.86;5;26;15;9;3;3;2;0;0;0;;0;0;0.014; 0.88; 0.01%; 0.75; 0.5
+
+Pitching away
+Martín Pérez;/players/p/perezma02.shtml; L (6-2); 3.1;10;7;7;3;2;1;4.67;21;75;45;26;4;15;7;9;6;0;11;;;-0.454; 1.04;-0.30%; 1.15; -5.6
+José Leclerc;/players/l/leclejo01.shtml;José Leclerc; 2.2;1;0;0;0;2;0;2.57;8;35;21;12;2;7;0;6;1;0;;1;0;0.037; 0.24; 0.02%; 0.26; 1.5
+Grant Anderson;/players/a/andergr01.shtml;Grant Anderson; 1 ;0;0;0;0;1;0;3.18;3;12;8;4;2;2;0;2;0;0;;0;0;0.006; 0.08; 0.00%; 0.09; 0.5
+Yerry Rodríguez;/players/r/rodriye01.shtml;Yerry Rodríguez; 1 ;1;0;0;0;2;0;3.60;4;14;11;6;4;1;1;1;1;0;;0;0;0.003; 0.04; 0.00%; 0.05; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Brock Ballou, 1B - Ron Kulpa, 2B - Jansen Visconti, 3B - Carlos Torres, LF - (none), RF - (none).
+Time of Game: 2:22.
+Attendance: 23,069.
+Start Time Weather: 72° F, Wind 0mph, In Dome.
+
+div_lineups
+Rangers
+1;Marcus Semien;/players/s/semiema01.shtml;2B
+2;Corey Seager;/players/s/seageco01.shtml;DH
+3;Nathaniel Lowe;/players/l/lowena01.shtml;1B
+4;Adolis García;/players/g/garciad02.shtml;RF
+5;Josh Jung;/players/j/jungjo01.shtml;3B
+6;Jonah Heim;/players/h/heimjo01.shtml;C
+7;Ezequiel Duran;/players/d/duranez01.shtml;SS
+8;Robbie Grossman;/players/g/grossro01.shtml;LF
+9;Leody Taveras;/players/t/taverle01.shtml;CF
+; Martín Pérez;/players/p/perezma02.shtml;P
+Rays
+1;Yandy Díaz;/players/d/diazya01.shtml;1B
+2;Wander Franco;/players/f/francwa01.shtml;SS
+3;Harold Ramírez;/players/r/ramirha02.shtml;DH
+4;Randy Arozarena;/players/a/arozara01.shtml;LF
+5;Isaac Paredes;/players/p/paredis01.shtml;3B
+6;Jose Siri;/players/s/sirijo01.shtml;CF
+7;Christian Bethancourt;/players/b/bethach01.shtml;C
+8;Manuel Margot;/players/m/margoma01.shtml;RF
+9;Taylor Walls;/players/w/wallsta01.shtml;2B
+; Shane McClanahan;/players/m/mcclash01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b4;4-3;1;1-3;4,(2-1) BFBX;RRR;TBR;Wander Franco;Martín Pérez;16%;91%;Home Run (Line Drive to Deep LF); Walls Scores; Díaz Scores
+t3;1-4;0;1--;4,(2-1) S*BBX;R;TEX;Marcus Semien;Shane McClanahan;-14%;62%;Double to CF (Fly Ball to Deep LF-CF); Taveras Scores; Semien to 3B/Adv on E8
+t9;3-7;1;123;3,(0-2) FCX;OO;TEX;Ezequiel Duran;Jason Adam;8%;100%;Ground Ball Double Play: 2B-SS-1B
+b2;2-0;0;1--;1,(0-0) X;R;TBR;Taylor Walls;Martín Pérez;8%;86%;Double to LF (Ground Ball); Margot Scores
+b1;0-0;0;123;7,(2-2) SBCFFBX;R;TBR;Randy Arozarena;Martín Pérez;8%;78%;Single to RF (Line Drive); Díaz Scores; Franco to 3B; Ramírez to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Rangers Batting, Tied 0-0, Rays' Shane McClanahan facing 1-2-3 
+t1;0-0;0;---;4,(1-2) FSBX;O;TEX;Marcus Semien;Shane McClanahan;2%;52%;Flyball: CF (Deep LF-CF)
+t1;0-0;1;---;3,(1-1) FBX;O;TEX;Corey Seager;Shane McClanahan;2%;54%;Groundout: SS-1B (SS-2B)
+t1;0-0;2;---;2,(0-1) SX;;TEX;Nathaniel Lowe;Shane McClanahan;-1%;53%;Single to LF (Line Drive to LF Line)
+t1;0-0;2;1--;6,(3-2) *BBCCB>X;O;TEX;Adolis García;Shane McClanahan;2%;55%;Groundout: 2B unassisted/Forceout at 2B; García to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rangers 0, Rays 0.
+Bottom of the 1st, Rays Batting, Tied 0-0, Rangers' Martín Pérez facing 1-2-3 
+b1;0-0;0;---;4,(2-1) BBFX;;TBR;Yandy Díaz;Martín Pérez;4%;58%;Single to LF (Line Drive to Deep LF-CF)
+b1;0-0;0;1--;5,(3-1) BBCBX;;TBR;Wander Franco;Martín Pérez;5%;64%;Single to RF (Ground Ball thru 2B-1B); Díaz to 2B
+b1;0-0;0;12-;3,(1-1) FBX;;TBR;Harold Ramírez;Martín Pérez;7%;71%;Single to CF (Fly Ball); Díaz to 3B; Franco to 2B
+b1;0-0;0;123;7,(2-2) SBCFFBX;R;TBR;Randy Arozarena;Martín Pérez;8%;78%;Single to RF (Line Drive); Díaz Scores; Franco to 3B; Ramírez to 2B
+b1;1-0;0;123;1,(0-0) X;RO;TBR;Isaac Paredes;Martín Pérez;0%;78%;Groundout: SS-2B/Forceout at 2B; Franco Scores; Ramírez to 3B; Paredes to 1B
+b1;2-0;1;1-3;4,(1-2) CSBX;O;TBR;Jose Siri;Martín Pérez;-5%;74%;Flyball: RF (Short RF)
+b1;2-0;2;1-3;1,(0-0) X;O;TBR;Christian Bethancourt;Martín Pérez;-3%;70%;Flyball: RF (RF Line)
+;;;;;;;;;2 runs, 4 hits, 0 errors, 2 LOB. Rangers 0, Rays 2.
+Top of the 2nd, Rangers Batting, Behind 0-2, Rays' Shane McClanahan facing 5-6-7 
+t2;0-2;0;---;4,(0-2) SS.FX;O;TEX;Josh Jung;Shane McClanahan;2%;73%;Groundout: P-2B-1B
+t2;0-2;1;---;4,(1-2) BFFS;O;TEX;Jonah Heim;Shane McClanahan;2%;74%;Strikeout Swinging
+t2;0-2;2;---;4,(1-2) CBS.S;O;TEX;Ezequiel Duran;Shane McClanahan;1%;75%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 0, Rays 2.
+Bottom of the 2nd, Rays Batting, Ahead 2-0, Rangers' Martín Pérez facing 8-9-1 
+b2;2-0;0;---;5,(3-1) BBBCB;;TBR;Manuel Margot;Martín Pérez;2%;78%;Walk
+b2;2-0;0;1--;1,(0-0) X;R;TBR;Taylor Walls;Martín Pérez;8%;86%;Double to LF (Ground Ball); Margot Scores
+b2;3-0;0;-2-;3,(0-2) C>FC;O;TBR;Yandy Díaz;Martín Pérez;-2%;84%;Strikeout Looking
+b2;3-0;1;-2-;1,(0-0) X;O;TBR;Wander Franco;Martín Pérez;-2%;82%;Lineout: LF
+b2;3-0;2;-2-;2,(0-1) CX;R;TBR;Harold Ramírez;Martín Pérez;5%;87%;Single to CF (Ground Ball thru SS-2B); Walls Scores
+b2;4-0;2;1--;6,(3-2) B1CBCB>X;O;TBR;Randy Arozarena;Martín Pérez;-1%;87%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Rangers 0, Rays 4.
+Top of the 3rd, Rangers Batting, Behind 0-4, Rays' Shane McClanahan facing 8-9-1 
+t3;0-4;0;---;2,(1-0) BX;R;TEX;Robbie Grossman;Shane McClanahan;-6%;80%;Home Run (Fly Ball to Deep LF)
+t3;1-4;0;---;6,(3-2) BBCFBB;;TEX;Leody Taveras;Shane McClanahan;-4%;77%;Walk
+t3;1-4;0;1--;4,(2-1) S*BBX;R;TEX;Marcus Semien;Shane McClanahan;-14%;62%;Double to CF (Fly Ball to Deep LF-CF); Taveras Scores; Semien to 3B/Adv on E8
+t3;2-4;0;--3;4,(1-2) S+3BSX;R;TEX;Corey Seager;Shane McClanahan;-5%;57%;Single to CF (Ground Ball thru SS-2B); Semien Scores
+t3;3-4;0;1--;4,(1-2) BCTX;O;TEX;Nathaniel Lowe;Shane McClanahan;4%;61%;Foul Popfly: 3B (3B into Foul Terr.)
+t3;3-4;1;1--;1,(0-0) X;O;TEX;Adolis García;Shane McClanahan;3%;65%;Flyball: RF (Deep CF-RF)
+t3;3-4;2;1--;1,(0-0) X;O;TEX;Josh Jung;Shane McClanahan;3%;67%;Lineout: CF
+;;;;;;;;;3 runs, 3 hits, 1 error, 1 LOB. Rangers 3, Rays 4.
+Bottom of the 3rd, Rays Batting, Ahead 4-3, Rangers' Martín Pérez facing 5-6-7 
+b3;4-3;0;---;4,(3-0) BBBB;;TBR;Isaac Paredes;Martín Pérez;3%;70%;Walk
+b3;4-3;0;1--;4,(1-2) BSFC;O;TBR;Jose Siri;Martín Pérez;-3%;67%;Strikeout Looking
+b3;4-3;1;1--;3,(1-1) FBX;OO;TBR;Christian Bethancourt;Martín Pérez;-5%;63%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 3, Rays 4.
+Top of the 4th, Rangers Batting, Behind 3-4, Rays' Shane McClanahan facing 6-7-8 
+t4;3-4;0;---;2,(0-1) FX;O;TEX;Jonah Heim;Shane McClanahan;3%;66%;Groundout: SS-1B
+t4;3-4;1;---;4,(2-1) CBBX;O;TEX;Ezequiel Duran;Shane McClanahan;2%;68%;Lineout: 2B (Deep 2B)
+t4;3-4;2;---;4,(1-2) BSFX;O;TEX;Robbie Grossman;Shane McClanahan;1%;69%;Groundout: P-1B (Weak SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 3, Rays 4.
+Bottom of the 4th, Rays Batting, Ahead 4-3, Rangers' Martín Pérez facing 8-9-1 
+b4;4-3;0;---;3,(0-2) CSX;O;TBR;Manuel Margot;Martín Pérez;-2%;67%;Single to LF (Line Drive to Deep LF); Margot out at 2B/LF-2B
+;;;;;;;;;Tag play Challenged by TBR manager (Kevin Cash): Original call upheld upon review.
+b4;4-3;1;---;6,(3-2) BBBCT.B;;TBR;Taylor Walls;Martín Pérez;2%;69%;Walk
+b4;4-3;1;1--;5,(2-2) B1BCC.X;;TBR;Yandy Díaz;Martín Pérez;6%;75%;Single to CF (Ground Ball thru SS-2B); Walls to 3B
+b4;4-3;1;1-3;4,(2-1) BFBX;RRR;TBR;Wander Franco;Martín Pérez;16%;91%;Home Run (Line Drive to Deep LF); Walls Scores; Díaz Scores
+b4;7-3;1;---;3,(0-2) CFX;;TBR;Harold Ramírez;Martín Pérez;1%;92%;Single to CF (Line Drive to Deep CF)
+;;;;;;;;;José Leclerc replaces Martín Pérez pitching
+b4;7-3;1;1--;4,(2-1) .B1FB>C;;TBR;Randy Arozarena;José Leclerc;1%;92%;Ramírez Steals 2B
+b4;7-3;1;-2-;6,(2-2) .B1FB>C.FS;O;TBR;Randy Arozarena;José Leclerc;-1%;91%;Strikeout Swinging
+b4;7-3;2;-2-;3,(2-0) BBX;O;TBR;Isaac Paredes;José Leclerc;-1%;90%;Foul Popfly: C (Behind Home)
+;;;;;;;;;3 runs, 4 hits, 0 errors, 1 LOB. Rangers 3, Rays 7.
+Top of the 5th, Rangers Batting, Behind 3-7, Rays' Shane McClanahan facing 9-1-2 
+t5;3-7;0;---;2,(0-1) CX;O;TEX;Leody Taveras;Shane McClanahan;2%;92%;Lineout: RF (Deep RF)
+t5;3-7;1;---;5,(2-2) CBBF.X;O;TEX;Marcus Semien;Shane McClanahan;1%;93%;Groundout: SS-1B (SS-3B Hole)
+t5;3-7;2;---;3,(0-2) CTS;O;TEX;Corey Seager;Shane McClanahan;1%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 3, Rays 7.
+Bottom of the 5th, Rays Batting, Ahead 7-3, Rangers' José Leclerc facing 6-7-8 
+b5;7-3;0;---;5,(2-2) FBBCX;;TBR;Jose Siri;José Leclerc;1%;94%;Single to LF (Line Drive to Deep LF-CF)
+b5;7-3;0;1--;3,(1-1) BS1X;O;TBR;Christian Bethancourt;José Leclerc;-1%;94%;Foul Popfly: C (Behind Home)
+b5;7-3;1;1--;2,(1-0) B>B;O;TBR;Manuel Margot;José Leclerc;-1%;93%;Siri Caught Stealing 2B (C-2B)
+b5;7-3;2;---;5,(3-1) B>B.BCX;O;TBR;Manuel Margot;José Leclerc;0%;92%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Rangers 3, Rays 7.
+Top of the 6th, Rangers Batting, Behind 3-7, Rays' Shane McClanahan facing 3-4-5 
+t6;3-7;0;---;7,(2-2) BCSFFBS;O;TEX;Nathaniel Lowe;Shane McClanahan;2%;94%;Strikeout Swinging
+t6;3-7;1;---;3,(0-2) SCS;O;TEX;Adolis García;Shane McClanahan;1%;95%;Strikeout Swinging
+t6;3-7;2;---;1,(0-0) X;O;TEX;Josh Jung;Shane McClanahan;1%;95%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 3, Rays 7.
+Bottom of the 6th, Rays Batting, Ahead 7-3, Rangers' José Leclerc facing 9-1-2 
+b6;7-3;0;---;5,(2-2) BBCFC;O;TBR;Taylor Walls;José Leclerc;0%;95%;Strikeout Looking
+b6;7-3;1;---;6,(2-2) BCCBFX;O;TBR;Yandy Díaz;José Leclerc;0%;95%;Flyball: CF (Deep CF)
+b6;7-3;2;---;2,(0-1) TX;O;TBR;Wander Franco;José Leclerc;0%;95%;Foul Popfly: 3B (3B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 3, Rays 7.
+Top of the 7th, Rangers Batting, Behind 3-7, Rays' Shane McClanahan facing 6-7-8 
+t7;3-7;0;---;6,(2-2) BSBFFX;O;TEX;Jonah Heim;Shane McClanahan;1%;96%;Flyball: RF
+t7;3-7;1;---;5,(1-2) SC.BFX;O;TEX;Ezequiel Duran;Shane McClanahan;1%;97%;Groundout: 2B-1B (2B-1B)
+t7;3-7;2;---;5,(2-2) BCFBX;O;TEX;Robbie Grossman;Shane McClanahan;0%;97%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 3, Rays 7.
+Bottom of the 7th, Rays Batting, Ahead 7-3, Rangers' Grant Anderson facing 3-4-5 
+;;;;;;;;;Grant Anderson replaces José Leclerc pitchingJosh Lowe pinch hits for Harold Ramírez (DH) batting 3rd
+b7;7-3;0;---;5,(1-2) ..CSFBX;O;TBR;Josh Lowe;Grant Anderson;0%;97%;Flyball: RF
+b7;7-3;1;---;2,(1-0) BX;O;TBR;Randy Arozarena;Grant Anderson;0%;97%;Flyball: CF (Deep CF)
+b7;7-3;2;---;5,(2-2) BCFBS;O;TBR;Isaac Paredes;Grant Anderson;0%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 3, Rays 7.
+Top of the 8th, Rangers Batting, Behind 3-7, Rays' Colin Poche facing 9-1-2 
+;;;;;;;;;Colin Poche replaces Shane McClanahan pitching
+t8;3-7;0;---;6,(3-2) ..CBT.BBX;O;TEX;Leody Taveras;Colin Poche;1%;98%;Groundout: SS-1B
+t8;3-7;1;---;3,(1-1) BFX;O;TEX;Marcus Semien;Colin Poche;1%;99%;Foul Popfly: 1B (1B into Foul Terr.)
+t8;3-7;2;---;5,(2-2) CBBFS;O;TEX;Corey Seager;Colin Poche;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 3, Rays 7.
+Bottom of the 8th, Rays Batting, Ahead 7-3, Rangers' Yerry Rodríguez facing 6-7-8 
+;;;;;;;;;Yerry Rodríguez replaces Grant Anderson pitching
+b8;7-3;0;---;4,(1-2) .SBSC;O;TBR;Jose Siri;Yerry Rodríguez;0%;99%;Strikeout Looking
+b8;7-3;1;---;4,(0-2) SFFS;O;TBR;Christian Bethancourt;Yerry Rodríguez;0%;99%;Strikeout Swinging
+b8;7-3;2;---;4,(1-2) BFFX;;TBR;Manuel Margot;Yerry Rodríguez;0%;99%;Double to RF (Line Drive to Deep RF Line)
+b8;7-3;2;-2-;2,(1-0) BX;O;TBR;Taylor Walls;Yerry Rodríguez;0%;99%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rangers 3, Rays 7.
+Top of the 9th, Rangers Batting, Behind 3-7, Rays' Jason Adam facing 3-4-5 
+;;;;;;;;;Jason Adam replaces Colin Poche pitching
+t9;3-7;0;---;8,(3-2) .CBBSFFBS;O;TEX;Nathaniel Lowe;Jason Adam;1%;99%;Strikeout Swinging
+t9;3-7;1;---;8,(3-2) FBBFB.FFB;;TEX;Adolis García;Jason Adam;-1%;99%;Walk
+t9;3-7;1;1--;1,(0-0) X;;TEX;Josh Jung;Jason Adam;-3%;95%;Double to LF (Ground Ball); García to 3B
+t9;3-7;1;-23;6,(3-2) BBBCS.B;;TEX;Jonah Heim;Jason Adam;-4%;92%;Walk
+t9;3-7;1;123;3,(0-2) FCX;OO;TEX;Ezequiel Duran;Jason Adam;8%;100%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Rangers 3, Rays 7.

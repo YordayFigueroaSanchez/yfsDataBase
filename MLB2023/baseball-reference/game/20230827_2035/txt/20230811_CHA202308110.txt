@@ -1,0 +1,306 @@
+
+Scorebox Meta
+20230811
+7:10 p.m. Local
+30059
+Guaranteed Rate Field
+203
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/MIL-2023.png;/teams/MIL/2023.shtml;1;1;0;0;2;2;0;0;0;1;7;11;0
+https://cdn.ssref.net/req/202308251/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;2;0;2;1;0;0;1;0;0;0;6;10;1
+
+Batting home
+Tim Anderson;/players/a/anderti01.shtml;SS;4;0;1;1;1;1;5;.242;.285;.288;.574;24;13;-0.001; 1.41;0.076;-0.077;0%; 0.01; 0.4;1;1;
+Andrew Benintendi;/players/b/beninan01.shtml;LF;4;2;1;0;1;1;5;.272;.338;.353;.691;25;14;-0.105; 1.59;0.065;-0.171;-0.00%; 0.02; -0.4;3;0;
+Eloy Jiménez;/players/j/jimenel02.shtml;DH;5;3;3;2;0;1;5;.283;.322;.463;.785;15;10;0.219; 1.38;0.289;-0.070; 0.00%; 0.01; 2.1;;;HR
+Yoán Moncada;/players/m/moncayo01.shtml;3B;5;0;2;1;0;3;5;.228;.279;.342;.621;22;13;0.182; 1.53;0.265;-0.084; 0.00%; 0.02; 1.1;3;1;2B
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;5;0;2;1;0;1;5;.252;.317;.433;.750;16;9;0.046; 1.40;0.099;-0.052;0%; 0.01; 0.7;9;1;
+Luis Robert Jr.;/players/r/roberlu01.shtml;PR;0;0;0;0;0;0;0;.271;.325;.563;.889;;;;;;;;;;;;
+Yasmani Grandal;/players/g/grandya01.shtml;C;3;0;0;1;1;0;5;.245;.320;.366;.686;18;11;-0.230; 2.06;0.012;-0.242;-0.00%; 0.02; -0.8;11;0;SF
+Trayce Thompson;/players/t/thomptr01.shtml;CF;3;0;0;0;1;1;4;.161;.311;.333;.645;14;8;-0.088; 1.60;0.064;-0.151;-0.00%; 0.02; -1.4;1;0;GDP
+Gavin Sheets;/players/s/sheetga01.shtml;PH;1;0;0;0;0;0;1;.215;.286;.350;.636;4;3;-0.120; 4.92;0.000;-0.120;-0.00%; 0.05; -0.3;;;
+Oscar Colás;/players/c/colasos01.shtml;RF;3;1;0;0;1;1;5;.217;.258;.295;.554;17;12;-0.213; 2.26;0.024;-0.237;-0.00%; 0.02; -0.6;1;0;SH
+Elvis Andrus;/players/a/andruel01.shtml;2B;4;0;1;0;0;0;4;.226;.292;.319;.611;15;10;-0.064; 1.23;0.023;-0.086;-0.00%; 0.01; -0.6;0;6;
+Michael Kopech;/players/k/kopecmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Shaw;/players/s/shawbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Aaron Bummer;/players/b/bummeaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gregory Santos;/players/s/santogr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jimmy Lambert;/players/l/lambeji01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Yoán Moncada (11, off Elvis Peguero).
+
+
+HR: Eloy Jiménez (14, off Corbin Burnes, 3rd inn, 1 on, 0 outs to Deep LF-CF).
+
+
+SF: Yasmani Grandal (2, off Corbin Burnes).
+
+
+SH: Oscar Colás (2, off Joel Payamps).
+
+
+TB: Eloy Jiménez 6; Yoán Moncada 3; Andrew Vaughn 2; Elvis Andrus; Andrew Benintendi; Tim Anderson.
+
+
+GIDP: Trayce Thompson (1).
+
+
+RBI: Eloy Jiménez 2 (50); Yasmani Grandal (32); Tim Anderson (21); Andrew Vaughn (62); Yoán Moncada (18).
+
+
+Team LOB: 9.
+With RISP: 3 for 12.
+
+Batting away
+Christian Yelich;/players/y/yelicch01.shtml;LF;4;1;1;0;2;0;6;.290;.376;.467;.842;20;8;0.100; 1.55;0.191;-0.091; 0.08%; 1.93; 1.1;3;0;SB,IW
+William Contreras;/players/c/contrwi02.shtml;DH;6;0;2;2;0;3;6;.278;.345;.450;.796;23;17;0.159; 1.56;0.294;-0.135; 0.12%; 1.95; 1.6;;;
+Carlos Santana;/players/s/santaca01.shtml;1B;6;1;2;0;0;1;6;.228;.309;.398;.707;27;17;-0.107; 1.25;0.052;-0.159;-0.08%; 1.56; -1.1;9;1;
+Sal Frelick;/players/f/frelisa01.shtml;RF-CF;3;1;1;0;2;0;5;.264;.425;.509;.934;17;6;0.028; 1.25;0.131;-0.103; 0.02%; 1.56; 0.6;2;0;SB
+Willy Adames;/players/a/adamewi01.shtml;SS;4;0;1;2;1;1;5;.202;.288;.381;.670;17;10;-0.026; 1.86;0.145;-0.171;-0.02%; 2.32; 0.1;0;2;
+Andruw Monasterio;/players/m/monasan01.shtml;3B;4;0;0;0;1;2;5;.282;.363;.403;.766;24;15;-0.190; 1.90;0.020;-0.210;-0.14%; 2.37; -1.4;0;2;
+Brice Turang;/players/t/turanbr02.shtml;2B;5;1;0;0;0;1;5;.222;.294;.337;.631;13;9;-0.197; 1.50;0.000;-0.197;-0.15%; 1.88; -1.7;1;3;
+Victor Caratini;/players/c/caratvi01.shtml;C;4;2;2;1;1;1;5;.252;.343;.388;.731;20;10;0.067; 1.57;0.192;-0.125; 0.05%; 1.95; 1.0;9;0;HR
+Joey Wiemer;/players/w/wiemejo01.shtml;CF;4;1;1;0;0;2;4;.216;.293;.384;.677;18;14;0.018; 1.30;0.089;-0.071; 0.01%; 1.62; -0.0;3;0;
+Mark Canha;/players/c/canhama01.shtml;PH;1;0;1;1;0;0;1;.240;.334;.370;.704;7;4;0.273; 3.42;0.273;0.000; 0.20%; 4.27; 1.0;;;2B
+Tyrone Taylor;/players/t/tayloty01.shtml;PR-RF;0;0;0;0;0;0;0;.185;.198;.333;.532;;;;;;;;;;0;0;
+Corbin Burnes;/players/b/burneco01.shtml;P;;;;;;;;;;;;;;;;;;;;;2;0;
+Elvis Peguero;/players/p/pegueel01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Joel Payamps;/players/p/payamjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Devin Williams;/players/w/willide03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Abner Uribe;/players/u/uribeab01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Mark Canha (18, off Jimmy Lambert).
+
+
+HR: Victor Caratini (6, off Michael Kopech, 2nd inn, 0 on, 0 outs to Deep CF-RF).
+
+
+IBB: Christian Yelich (4, by Jimmy Lambert).
+
+
+TB: Victor Caratini 5; William Contreras 2; Carlos Santana 2; Mark Canha 2; Sal Frelick; Joey Wiemer; Christian Yelich; Willy Adames.
+
+
+RBI: Willy Adames 2 (51); William Contreras 2 (53); Victor Caratini (19); Mark Canha (33).
+
+
+Team LOB: 12.
+With RISP: 5 for 17.
+
+Pitching home
+Michael Kopech;/players/k/kopecmi01.shtml;Michael Kopech; 4.1;5;4;4;5;4;1;4.58;23;96;49;26;9;14;5;9;3;0;36;;;-0.214; 1.12;-0.00%; 0.01; -2.1
+Bryan Shaw;/players/s/shawbr01.shtml;Bryan Shaw; 0.2;2;2;2;0;0;0;6.19;4;15;10;8;1;1;3;1;1;0;;1;0;-0.053; 1.79; 0.00%; 0.02; -0.3
+Aaron Bummer;/players/b/bummeaa01.shtml; BS (3); 2 ;2;0;0;1;4;0;6.07;9;35;23;7;7;9;3;1;1;0;;2;2;-0.057; 1.92; 0.00%; 0.02; 0.0
+Gregory Santos;/players/s/santogr01.shtml;Gregory Santos; 1 ;1;0;0;0;0;0;2.60;4;12;9;5;2;2;3;1;0;0;;0;0;0.109; 1.52; 0.00%; 0.01; 0.5
+Jimmy Lambert;/players/l/lambeji01.shtml; L (2-2); 2 ;1;1;0;1;3;0;5.52;8;28;19;8;4;7;1;3;2;0;;0;0;0.090; 2.47; 0.00%; 0.02; 0.7
+
+Pitching away
+Corbin Burnes;/players/b/burneco01.shtml;Corbin Burnes; 5.2;8;5;5;3;5;1;3.60;27;107;62;35;13;14;8;11;5;0;35;;;-0.231; 1.02;-0.17%; 1.27; -2.1
+Elvis Peguero;/players/p/pegueel01.shtml; BS (5); 1.1;2;1;1;0;0;0;3.94;6;21;14;9;1;4;3;3;0;0;;1;0;-0.092; 2.13;-0.07%; 2.67; -0.2
+Joel Payamps;/players/p/payamjo01.shtml;Joel Payamps; 1 ;0;0;0;2;1;0;1.79;5;18;10;6;2;2;1;1;0;0;;0;0;0.109; 2.85; 0.08%; 3.55; 0.5
+Devin Williams;/players/w/willide03.shtml; W (7-3); 1 ;0;0;0;0;3;0;1.39;3;14;9;2;5;2;0;0;0;0;;0;0;0.141; 1.84; 0.10%; 2.30; 0.5
+Abner Uribe;/players/u/uribeab01.shtml; S (1); 1 ;0;0;0;0;0;0;1.35;3;10;8;5;1;2;2;1;0;0;;0;0;0.450; 5.07; 0.34%; 6.33; 1.1
+
+indiv_events
+
+Balks: None.
+WP: Corbin Burnes 2 (7); Michael Kopech (7).
+HBP: None.
+IBB: Jimmy Lambert (3; Christian Yelich).
+Pickoffs: None.
+
+Balks: None.
+WP: Corbin Burnes 2 (7); Michael Kopech (7).
+HBP: None.
+IBB: Jimmy Lambert (3; Christian Yelich).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Carlos Torres, 1B - Jansen Visconti, 2B - Cory Blaser, 3B - Ron Kulpa, LF - (none), RF - (none).
+Time of Game: 3:23.
+Attendance: 30,059.
+Field Condition: Unknown.
+Start Time Weather: 83° F, Wind 12mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Brewers
+1;Christian Yelich;/players/y/yelicch01.shtml;LF
+2;William Contreras;/players/c/contrwi02.shtml;DH
+3;Carlos Santana;/players/s/santaca01.shtml;1B
+4;Sal Frelick;/players/f/frelisa01.shtml;RF
+5;Willy Adames;/players/a/adamewi01.shtml;SS
+6;Andruw Monasterio;/players/m/monasan01.shtml;3B
+7;Brice Turang;/players/t/turanbr02.shtml;2B
+8;Victor Caratini;/players/c/caratvi01.shtml;C
+9;Joey Wiemer;/players/w/wiemejo01.shtml;CF
+; Corbin Burnes;/players/b/burneco01.shtml;P
+White Sox
+1;Tim Anderson;/players/a/anderti01.shtml;SS
+2;Andrew Benintendi;/players/b/beninan01.shtml;LF
+3;Eloy Jiménez;/players/j/jimenel02.shtml;DH
+4;Yoán Moncada;/players/m/moncayo01.shtml;3B
+5;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+6;Yasmani Grandal;/players/g/grandya01.shtml;C
+7;Trayce Thompson;/players/t/thomptr01.shtml;CF
+8;Oscar Colás;/players/c/colasos01.shtml;RF
+9;Elvis Andrus;/players/a/andruel01.shtml;2B
+; Michael Kopech;/players/k/kopecmi01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t10;6-6;1;-2-;7,(3-2) .CBBBF.FX;R;MIL;Mark Canha;Jimmy Lambert;27%;67%;Double to LF (Line Drive to LF Line); Turang Scores/unER
+t6;4-5;0;123;2,(0-1) FX;RR;MIL;William Contreras;Aaron Bummer;20%;81%;Single to P (Ground Ball to P's Right); Caratini Scores; Wiemer Scores/Adv on E1 (throw)/No RBI; Yelich to 3B; Contreras to 2B
+b7;5-6;1;1--;2,(0-1) FX;;CHW;Yoán Moncada;Elvis Peguero;-18%;45%;Double to LF (Fly Ball to Short LF Line); Jiménez to 3B
+b3;2-2;0;1--;5,(2-2) SCB1*BX;RR;CHW;Eloy Jiménez;Corbin Burnes;-17%;24%;Home Run (Fly Ball to Deep LF-CF); Benintendi Scores
+b10;6-7;2;--3;1,(0-0) X;O;CHW;Oscar Colás;Abner Uribe;17%;100%;Groundout: P unassisted (P's Left)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Brewers Batting, Tied 0-0, White Sox' Michael Kopech facing 1-2-3 
+t1;0-0;0;---;4,(3-0) BBBB;;MIL;Christian Yelich;Michael Kopech;4%;54%;Walk
+t1;0-0;0;1--;2,(1-0) B>C;;MIL;William Contreras;Michael Kopech;2%;56%;Yelich Steals 2B
+t1;0-0;0;-2-;4,(2-1) B>C.BX;R;MIL;William Contreras;Michael Kopech;7%;63%;Single to CF (Ground Ball thru SS-2B); Yelich Scores
+t1;1-0;0;1--;1,(0-0) B;;MIL;Carlos Santana;Michael Kopech;2%;65%;Wild Pitch; Contreras to 2B
+t1;1-0;0;-2-;4,(2-1) B.CBX;O;MIL;Carlos Santana;Michael Kopech;-1%;64%;Groundout: 2B-1B (2B-1B); Contreras to 3B
+t1;1-0;1;--3;3,(2-0) *BBX;O;MIL;Sal Frelick;Michael Kopech;-5%;59%;Foul Popfly: 3B (3B-C into Foul Terr.)
+t1;1-0;2;--3;5,(3-1) BBBCB;;MIL;Willy Adames;Michael Kopech;1%;60%;Walk
+t1;1-0;2;1-3;5,(3-1) BBBCB;;MIL;Andruw Monasterio;Michael Kopech;2%;62%;Walk; Adames to 2B
+t1;1-0;2;123;5,(1-2) CFF*BS;O;MIL;Brice Turang;Michael Kopech;-6%;55%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 3 LOB. Brewers 1, White Sox 0.
+Bottom of the 1st, White Sox Batting, Behind 0-1, Brewers' Corbin Burnes facing 1-2-3 
+b1;0-1;0;---;4,(1-2) BTFX;O;CHW;Tim Anderson;Corbin Burnes;2%;58%;Groundout: SS-1B
+b1;0-1;1;---;5,(3-1) BBBCB;;CHW;Andrew Benintendi;Corbin Burnes;-3%;55%;Walk
+b1;0-1;1;1--;2,(1-0) B1X;;CHW;Eloy Jiménez;Corbin Burnes;-7%;48%;Single to RF (Line Drive); Benintendi to 3B
+b1;0-1;1;1-3;4,(2-1) BFBX;R;CHW;Yoán Moncada;Corbin Burnes;-7%;41%;Single to 1B (Ground Ball); Benintendi Scores; Jiménez to 2B
+b1;1-1;1;12-;3,(2-0) B*BX;;CHW;Andrew Vaughn;Corbin Burnes;-6%;36%;Single to CF (Fly Ball to Short CF); Jiménez to 3B; Moncada to 2B
+b1;1-1;1;123;4,(1-2) *BCFX;RO;CHW;Yasmani Grandal;Corbin Burnes;0%;36%;Lineout: LF/Sacrifice Fly; Jiménez Scores
+b1;2-1;2;12-;1,(0-0) S;;CHW;Trayce Thompson;Corbin Burnes;-1%;35%;Wild Pitch; Moncada to 3B; Vaughn to 2B
+b1;2-1;2;-23;4,(1-2) S.S*BS;O;CHW;Trayce Thompson;Corbin Burnes;5%;40%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Brewers 1, White Sox 2.
+Top of the 2nd, Brewers Batting, Behind 1-2, White Sox' Michael Kopech facing 8-9-1 
+t2;1-2;0;---;2,(1-0) BX;R;MIL;Victor Caratini;Michael Kopech;10%;50%;Home Run (Fly Ball to Deep CF-RF)
+t2;2-2;0;---;6,(2-2) BCS.BFS;O;MIL;Joey Wiemer;Michael Kopech;-2%;48%;Strikeout Swinging
+t2;2-2;1;---;4,(2-1) BBFX;O;MIL;Christian Yelich;Michael Kopech;-2%;46%;Lineout: LF (Deep LF)
+t2;2-2;2;---;5,(1-2) SCBFS;O;MIL;William Contreras;Michael Kopech;-1%;45%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Brewers 2, White Sox 2.
+Bottom of the 2nd, White Sox Batting, Tied 2-2, Brewers' Corbin Burnes facing 8-9-1 
+b2;2-2;0;---;3,(0-2) SCX;O;CHW;Oscar Colás;Corbin Burnes;2%;47%;Groundout: 2B-1B
+b2;2-2;1;---;6,(3-2) .CBBFBX;O;CHW;Elvis Andrus;Corbin Burnes;2%;49%;Groundout: SS-1B
+b2;2-2;2;---;4,(1-2) BFFC;O;CHW;Tim Anderson;Corbin Burnes;1%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 2, White Sox 2.
+Top of the 3rd, Brewers Batting, Tied 2-2, White Sox' Michael Kopech facing 3-4-5 
+t3;2-2;0;---;5,(1-2) BCCFX;O;MIL;Carlos Santana;Michael Kopech;-3%;47%;Popfly: 3B (SS-3B Hole)
+t3;2-2;1;---;5,(3-1) CBBBB;;MIL;Sal Frelick;Michael Kopech;3%;50%;Walk
+t3;2-2;1;1--;2,(1-0) BX;O;MIL;Willy Adames;Michael Kopech;-3%;47%;Flyball: RF (Deep RF)
+t3;2-2;2;1--;2,(0-1) 1C>B;;MIL;Andruw Monasterio;Michael Kopech;1%;48%;Frelick Steals 2B
+t3;2-2;2;-2-;4,(1-2) 1C>B.FX;O;MIL;Andruw Monasterio;Michael Kopech;-4%;44%;Foul Popfly: 3B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Brewers 2, White Sox 2.
+Bottom of the 3rd, White Sox Batting, Tied 2-2, Brewers' Corbin Burnes facing 2-3-4 
+b3;2-2;0;---;8,(3-2) BFBFBFFX;;CHW;Andrew Benintendi;Corbin Burnes;-4%;41%;Single to LF (Line Drive to Short LF)
+b3;2-2;0;1--;5,(2-2) SCB1*BX;RR;CHW;Eloy Jiménez;Corbin Burnes;-17%;24%;Home Run (Fly Ball to Deep LF-CF); Benintendi Scores
+b3;4-2;0;---;5,(2-2) CBSBS;O;CHW;Yoán Moncada;Corbin Burnes;2%;25%;Strikeout Swinging
+b3;4-2;1;---;2,(1-0) BX;;CHW;Andrew Vaughn;Corbin Burnes;-2%;23%;Single to LF (Line Drive to Deep LF)
+b3;4-2;1;1--;2,(1-0) BB;;CHW;Yasmani Grandal;Corbin Burnes;-1%;22%;Wild Pitch; Vaughn to 2B
+b3;4-2;1;-2-;4,(3-0) BB.BB;;CHW;Yasmani Grandal;Corbin Burnes;-1%;21%;Walk
+b3;4-2;1;12-;3,(1-1) C*BX;OO;CHW;Trayce Thompson;Corbin Burnes;6%;27%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Brewers 2, White Sox 4.
+Top of the 4th, Brewers Batting, Behind 2-4, White Sox' Michael Kopech facing 7-8-9 
+t4;2-4;0;---;3,(1-1) BFX;O;MIL;Brice Turang;Michael Kopech;-3%;24%;Groundout: 2B-1B
+t4;2-4;1;---;6,(3-2) FS.BBBB;;MIL;Victor Caratini;Michael Kopech;3%;27%;Walk
+t4;2-4;1;1--;4,(1-2) SC*BX;O;MIL;Joey Wiemer;Michael Kopech;-3%;24%;Flyball: CF (Deep CF)
+t4;2-4;2;1--;2,(1-0) BX;O;MIL;Christian Yelich;Michael Kopech;-3%;21%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Brewers 2, White Sox 4.
+Bottom of the 4th, White Sox Batting, Ahead 4-2, Brewers' Corbin Burnes facing 8-9-1 
+b4;4-2;0;---;7,(3-2) BBCBCFB;;CHW;Oscar Colás;Corbin Burnes;-2%;19%;Walk
+b4;4-2;0;1--;1,(0-0) >X;O;CHW;Elvis Andrus;Corbin Burnes;1%;20%;Groundout: 1B unassisted (Weak 2B-1B); Colás to 2B
+b4;4-2;1;-2-;7,(3-2) CBFBFBX;R;CHW;Tim Anderson;Corbin Burnes;-6%;14%;Single to CF (Line Drive to CF-RF); Colás Scores
+b4;5-2;1;1--;2,(1-0) B1X;O;CHW;Andrew Benintendi;Corbin Burnes;1%;15%;Flyball: CF (CF-RF)
+b4;5-2;2;1--;1,(0-0) X;O;CHW;Eloy Jiménez;Corbin Burnes;1%;16%;Flyball: RF (Deep RF Line)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Brewers 2, White Sox 5.
+Top of the 5th, Brewers Batting, Behind 2-5, White Sox' Michael Kopech facing 2-3-4 
+t5;2-5;0;---;6,(3-2) BCTBBS;O;MIL;William Contreras;Michael Kopech;-2%;14%;Strikeout Swinging
+t5;2-5;1;---;4,(2-1) SBBX;;MIL;Carlos Santana;Michael Kopech;3%;17%;Single to CF (Ground Ball)
+t5;2-5;1;1--;2,(1-0) BX;;MIL;Sal Frelick;Michael Kopech;9%;25%;Single to RF (Line Drive to Short RF); Santana to 3B; Frelick to 2B
+t5;2-5;1;-23;6,(2-2) FCBBFX;RR;MIL;Willy Adames;Michael Kopech;13%;39%;Single to LF (Line Drive); Santana Scores; Frelick Scores; Adames to 2B
+;;;;;;;;;Bryan Shaw replaces Michael Kopech pitching
+t5;4-5;1;-2-;5,(2-2) .BBFFX;O;MIL;Andruw Monasterio;Bryan Shaw;-5%;34%;Groundout: SS-1B
+t5;4-5;2;-2-;2,(1-0) BX;O;MIL;Brice Turang;Bryan Shaw;-5%;29%;Groundout: 1B-P
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Brewers 4, White Sox 5.
+Bottom of the 5th, White Sox Batting, Ahead 5-4, Brewers' Corbin Burnes facing 4-5-6 
+b5;5-4;0;---;6,(3-2) BSBFBS;O;CHW;Yoán Moncada;Corbin Burnes;2%;31%;Strikeout Swinging
+b5;5-4;1;---;4,(2-1) BBCX;O;CHW;Andrew Vaughn;Corbin Burnes;2%;33%;Flyball: CF
+b5;5-4;2;---;1,(0-0) X;O;CHW;Yasmani Grandal;Corbin Burnes;1%;34%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 4, White Sox 5.
+Top of the 6th, Brewers Batting, Behind 4-5, White Sox' Bryan Shaw facing 8-9-1 
+t6;4-5;0;---;4,(2-1) FBBX;;MIL;Victor Caratini;Bryan Shaw;6%;40%;Single to CF (Line Drive)
+t6;4-5;0;1--;4,(0-2) CSFX;;MIL;Joey Wiemer;Bryan Shaw;9%;49%;Single to 3B (Ground Ball); Caratini to 2B
+;;;;;;;;;Aaron Bummer replaces Bryan Shaw pitching
+t6;4-5;0;12-;6,(3-2) .CBBC*BX;;MIL;Christian Yelich;Aaron Bummer;11%;60%;Single to LF (Line Drive to LF Line); Caratini to 3B; Wiemer to 2B
+t6;4-5;0;123;2,(0-1) FX;RR;MIL;William Contreras;Aaron Bummer;20%;81%;Single to P (Ground Ball to P's Right); Caratini Scores; Wiemer Scores/Adv on E1 (throw)/No RBI; Yelich to 3B; Contreras to 2B
+t6;6-5;0;-23;4,(1-2) CS*BX;O;MIL;Carlos Santana;Aaron Bummer;-5%;75%;Groundout: 2B-1B
+t6;6-5;1;-23;5,(3-1) CBBBB;;MIL;Sal Frelick;Aaron Bummer;1%;76%;Walk
+t6;6-5;1;123;3,(0-2) CSS;O;MIL;Willy Adames;Aaron Bummer;-8%;68%;Strikeout Swinging
+t6;6-5;2;123;5,(1-2) CBFFS;O;MIL;Andruw Monasterio;Aaron Bummer;-8%;60%;Strikeout Swinging
+;;;;;;;;;2 runs, 4 hits, 1 error, 3 LOB. Brewers 6, White Sox 5.
+Bottom of the 6th, White Sox Batting, Behind 5-6, Brewers' Corbin Burnes facing 7-8-9 
+b6;5-6;0;---;2,(0-1) CX;O;CHW;Trayce Thompson;Corbin Burnes;4%;64%;Popfly: P (Front of Home)
+b6;5-6;1;---;5,(1-2) CSFBS;O;CHW;Oscar Colás;Corbin Burnes;3%;67%;Strikeout Swinging
+b6;5-6;2;---;5,(2-2) SBS.BX;;CHW;Elvis Andrus;Corbin Burnes;-2%;65%;Single to RF (Ground Ball)
+;;;;;;;;;Elvis Peguero replaces Corbin Burnes pitching
+b6;5-6;2;1--;3,(2-0) .*BBX;O;CHW;Tim Anderson;Elvis Peguero;4%;69%;Groundout: P-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 6, White Sox 5.
+Top of the 7th, Brewers Batting, Ahead 6-5, White Sox' Aaron Bummer facing 7-8-9 
+t7;6-5;0;---;2,(1-0) BX;O;MIL;Brice Turang;Aaron Bummer;-3%;67%;Groundout: 2B-1B (Deep 2B)
+t7;6-5;1;---;4,(1-2) BCS.S;O;MIL;Victor Caratini;Aaron Bummer;-2%;65%;Strikeout Swinging
+t7;6-5;2;---;4,(1-2) CCBS;O;MIL;Joey Wiemer;Aaron Bummer;-1%;63%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 6, White Sox 5.
+Bottom of the 7th, White Sox Batting, Behind 5-6, Brewers' Elvis Peguero facing 2-3-4 
+b7;5-6;0;---;7,(3-2) BCBS.BFX;O;CHW;Andrew Benintendi;Elvis Peguero;5%;68%;Flyball: CF (Deep LF-CF)
+b7;5-6;1;---;2,(0-1) FX;;CHW;Eloy Jiménez;Elvis Peguero;-5%;63%;Single to SS (Ground Ball)
+b7;5-6;1;1--;2,(0-1) FX;;CHW;Yoán Moncada;Elvis Peguero;-18%;45%;Double to LF (Fly Ball to Short LF Line); Jiménez to 3B
+b7;5-6;1;-23;3,(1-1) C*BX;RO;CHW;Andrew Vaughn;Elvis Peguero;-1%;44%;Groundout: 2B-1B (Weak 2B); Jiménez Scores
+b7;6-6;2;-2-;4,(1-2) BCCX;O;CHW;Yasmani Grandal;Elvis Peguero;6%;50%;Flyball: LF (Short LF-CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Brewers 6, White Sox 6.
+Top of the 8th, Brewers Batting, Tied 6-6, White Sox' Gregory Santos facing 1-2-3 
+;;;;;;;;;Gregory Santos replaces Aaron Bummer pitching
+t8;6-6;0;---;4,(2-1) .BSBX;O;MIL;Christian Yelich;Gregory Santos;-5%;45%;Groundout: 2B-1B (Deep 2B-1B)
+t8;6-6;1;---;3,(0-2) FCX;O;MIL;William Contreras;Gregory Santos;-4%;42%;Flyball: LF (Deep LF-CF)
+t8;6-6;2;---;3,(1-1) SBX;;MIL;Carlos Santana;Gregory Santos;3%;44%;Single to CF (Ground Ball)
+t8;6-6;2;1--;2,(0-1) CX;O;MIL;Sal Frelick;Gregory Santos;-5%;39%;Groundout: 1B unassisted (Weak 1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 6, White Sox 6.
+Bottom of the 8th, White Sox Batting, Tied 6-6, Brewers' Joel Payamps facing 7-8-9 
+;;;;;;;;;Joel Payamps replaces Elvis Peguero pitching
+b8;6-6;0;---;5,(3-1) .BBCBB;;CHW;Trayce Thompson;Joel Payamps;-6%;33%;Walk
+b8;6-6;0;1--;1,(0-0) X;O;CHW;Oscar Colás;Joel Payamps;2%;35%;Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Thompson to 2B
+b8;6-6;1;-2-;3,(0-2) CFX;O;CHW;Elvis Andrus;Joel Payamps;6%;41%;Foul Popfly: RF (RF into Foul Terr.); Thompson to 3B
+b8;6-6;2;--3;6,(3-2) BT*BS*B.B;;CHW;Tim Anderson;Joel Payamps;-1%;39%;Walk
+b8;6-6;2;1-3;3,(0-2) FFS;O;CHW;Andrew Benintendi;Joel Payamps;11%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Brewers 6, White Sox 6.
+Top of the 9th, Brewers Batting, Tied 6-6, White Sox' Jimmy Lambert facing 5-6-7 
+;;;;;;;;;Jimmy Lambert replaces Gregory Santos pitching
+t9;6-6;0;---;1,(0-0) .X;O;MIL;Willy Adames;Jimmy Lambert;-6%;44%;Groundout: 3B-1B
+t9;6-6;1;---;5,(1-2) CSBF.C;O;MIL;Andruw Monasterio;Jimmy Lambert;-5%;39%;Strikeout Looking
+t9;6-6;2;---;1,(0-0) X;O;MIL;Brice Turang;Jimmy Lambert;-3%;36%;Flyball: LF (Short LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 6, White Sox 6.
+Bottom of the 9th, White Sox Batting, Tied 6-6, Brewers' Devin Williams facing 3-4-5 
+;;;;;;;;;Devin Williams replaces Joel Payamps pitching
+b9;6-6;0;---;5,(2-2) .BSS.BC;O;CHW;Eloy Jiménez;Devin Williams;6%;42%;Strikeout Looking
+b9;6-6;1;---;5,(2-2) BBFFS;O;CHW;Yoán Moncada;Devin Williams;5%;46%;Strikeout Swinging
+b9;6-6;2;---;4,(1-2) CBS*S;O;CHW;Andrew Vaughn;Devin Williams;4%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 6, White Sox 6.
+Top of the 10th, Brewers Batting, Tied 6-6, White Sox' Jimmy Lambert facing 8-9-1 
+;;;;;;;;;Brice Turang running at second base to start the extra inning
+t10;6-6;0;-2-;4,(2-1) .BC*BX;O;MIL;Victor Caratini;Jimmy Lambert;-11%;39%;Lineout: SS
+;;;;;;;;;Mark Canha pinch hits for Joey Wiemer (CF) batting 9th
+t10;6-6;1;-2-;7,(3-2) .CBBBF.FX;R;MIL;Mark Canha;Jimmy Lambert;27%;67%;Double to LF (Line Drive to LF Line); Turang Scores/unER
+;;;;;;;;;Tyrone Taylor pinch runs for Mark Canha (PH) batting 9th
+t10;7-6;1;-2-;,(3-0) .VVVV;;MIL;Christian Yelich;Jimmy Lambert;2%;68%;Intentional Walk
+t10;7-6;1;12-;3,(0-2) CSS;O;MIL;William Contreras;Jimmy Lambert;-6%;62%;Strikeout Swinging
+t10;7-6;2;12-;7,(3-2) BBCCF*B>S;O;MIL;Carlos Santana;Jimmy Lambert;-7%;55%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Brewers 7, White Sox 6.
+Bottom of the 10th, White Sox Batting, Behind 6-7, Brewers' Abner Uribe facing 6-7-8 
+;;;;;;;;;Abner Uribe replaces Devin Williams pitchingSal Frelick moves from RF to CF Tyrone Taylor moves from PR to RF Luis Robert Jr. pinch runs for Andrew Vaughn (1B) batting 5thLuis Robert Jr. running at second base to start the extra inning
+b10;6-7;0;-2-;5,(1-2) .....CCFBX;O;CHW;Yasmani Grandal;Abner Uribe;16%;71%;Flyball: LF (Deep 3B)
+;;;;;;;;;Gavin Sheets pinch hits for Trayce Thompson (CF) batting 7th
+b10;6-7;1;-2-;4,(1-2) .*BFSX;O;CHW;Gavin Sheets;Abner Uribe;12%;83%;Groundout: 1B unassisted (2B-1B); Robert to 3B
+b10;6-7;2;--3;1,(0-0) X;O;CHW;Oscar Colás;Abner Uribe;17%;100%;Groundout: P unassisted (P's Left)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Brewers 7, White Sox 6.

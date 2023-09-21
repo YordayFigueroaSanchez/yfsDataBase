@@ -1,0 +1,256 @@
+
+Scorebox Meta
+20230503
+6:40 p.m. Local
+15247
+Tropicana Field
+142
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/PIT-2023.png;/teams/PIT/2023.shtml;0;0;1;0;0;0;0;0;0;1;7;3
+https://cdn.ssref.net/req/202308101/tlogo/br/TBR-2023.png;/teams/TBR/2023.shtml;0;0;3;0;2;1;1;1;X;8;10;0
+
+Batting home
+Yandy Díaz;/players/d/diazya01.shtml;1B;5;1;2;0;0;1;5;.320;.430;.570;1.000;23;15;-0.016; 0.45;0.015;-0.031;-0.01%; 0.47; -0.4;13;0;
+Wander Franco;/players/f/francwa01.shtml;SS;5;3;2;2;0;1;5;.305;.369;.559;.929;20;14;0.083; 0.52;0.099;-0.016; 0.05%; 0.55; 1.6;0;3;HR
+Harold Ramírez;/players/r/ramirha02.shtml;DH;4;1;1;1;0;2;4;.338;.404;.638;1.042;13;11;0.127; 0.81;0.138;-0.011; 0.08%; 0.84; 1.2;;;
+Brandon Lowe;/players/l/lowebr01.shtml;2B;4;0;1;2;0;2;4;.223;.318;.500;.818;16;12;0.179; 0.77;0.210;-0.031; 0.11%; 0.81; 1.2;0;2;2B
+Taylor Walls;/players/w/wallsta01.shtml;3B;3;0;0;0;1;1;4;.288;.390;.545;.935;17;10;-0.005; 0.44;0.026;-0.030;-0.00%; 0.46; -0.4;0;4;
+Josh Lowe;/players/l/lowejo01.shtml;RF;4;1;1;1;0;2;4;.338;.391;.650;1.041;15;11;-0.023; 0.49;0.022;-0.045;-0.01%; 0.51; 0.2;1;0;HR
+Jose Siri;/players/s/sirijo01.shtml;CF;3;1;1;0;1;1;4;.244;.289;.463;.752;19;11;-0.028; 0.32;0.007;-0.035;-0.02%; 0.33; 0.5;1;0;
+Luke Raley;/players/r/raleylu01.shtml;LF;4;0;1;1;0;2;4;.227;.297;.606;.903;12;8;-0.038; 0.39;0.001;-0.039;-0.02%; 0.41; 0.4;2;0;2B
+Francisco Mejía;/players/m/mejiafr01.shtml;C;4;1;1;0;0;1;4;.204;.259;.327;.586;25;17;0.017; 0.37;0.040;-0.023; 0.01%; 0.39; -0.2;10;1;2B
+Shane McClanahan;/players/m/mcclash01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chase Anderson;/players/a/anderch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Brandon Lowe (3, off Mitch Keller); Francisco Mejía (3, off Mitch Keller); Luke Raley (4, off Cody Bolton).
+
+
+HR: Josh Lowe (6, off Jose Hernandez, 6th inn, 0 on, 0 outs to Deep RF); Wander Franco (6, off Cody Bolton, 7th inn, 0 on, 0 outs to Deep CF-RF).
+
+
+TB: Wander Franco 5; Josh Lowe 4; Luke Raley 2; Francisco Mejía 2; Brandon Lowe 2; Yandy Díaz 2; Harold Ramírez; Jose Siri.
+
+
+RBI: Wander Franco 2 (20); Brandon Lowe 2 (20); Harold Ramírez (14); Luke Raley (16); Josh Lowe (19).
+
+
+2-out RBI: Brandon Lowe 2.
+
+
+Team LOB: 6.
+With RISP: 3 for 12.
+
+Batting away
+Ke'Bryan Hayes;/players/h/hayeske01.shtml;3B;4;0;0;0;0;1;4;.222;.281;.350;.632;12;10;-0.088; 0.86;0.000;-0.088;-0.06%; 1.01; -1.0;0;1;
+Bryan Reynolds;/players/r/reynobr01.shtml;CF;4;0;1;0;0;0;4;.327;.368;.582;.950;14;10;-0.006; 0.61;0.040;-0.046;-0.00%; 0.72; -0.3;1;0;2B
+Andrew McCutchen;/players/m/mccutan01.shtml;DH;4;1;1;1;0;1;4;.247;.350;.485;.835;14;9;0.071; 0.57;0.120;-0.049; 0.05%; 0.67; 0.3;;;HR
+Carlos Santana;/players/s/santaca01.shtml;1B;3;0;1;0;1;1;4;.269;.350;.413;.763;17;10;0.004; 0.56;0.022;-0.018; 0.00%; 0.66; -0.2;6;1;
+Connor Joe;/players/j/joeco01.shtml;LF;4;0;1;0;0;1;4;.295;.386;.602;.988;13;10;-0.029; 0.71;0.036;-0.065;-0.02%; 0.84; -0.1;0;0;3B
+Rodolfo Castro;/players/c/castrro01.shtml;SS;4;0;1;0;0;3;4;.274;.374;.440;.814;22;13;-0.081; 0.71;0.001;-0.083;-0.06%; 0.84; -0.7;1;0;
+Miguel Andujar;/players/a/andujmi01.shtml;RF;4;0;0;0;0;2;4;.333;.429;.833;1.262;14;12;-0.055; 0.53;0.000;-0.055;-0.04%; 0.62; -1.0;2;0;
+Ji Hwan Bae;/players/b/baeji01.shtml;2B;3;0;2;0;1;0;4;.262;.319;.357;.676;17;8;0.060; 0.43;0.060;-0.001; 0.04%; 0.51; 0.6;0;3;2·SB
+Austin Hedges;/players/h/hedgeau01.shtml;C;3;0;0;0;0;1;3;.133;.235;.156;.391;10;7;-0.078; 0.98;0.000;-0.078;-0.06%; 1.16; -0.9;13;0;
+Jack Suwinski;/players/s/suwinja01.shtml;PH;1;0;0;0;0;1;1;.260;.371;.575;.946;3;3;0.000; 0.01;0.000;0.000;0%; 0.01; -0.2;;;
+Mitch Keller;/players/k/kellemi03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jose Hernandez;/players/h/hernajo03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Cody Bolton;/players/b/boltoco01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Bryan Reynolds (11, off Shane McClanahan).
+
+
+3B: Connor Joe (3, off Shane McClanahan).
+
+
+HR: Andrew McCutchen (6, off Shane McClanahan, 3rd inn, 0 on, 2 outs to Deep LF Line).
+
+
+TB: Andrew McCutchen 4; Connor Joe 3; Ji Hwan Bae 2; Bryan Reynolds 2; Carlos Santana; Rodolfo Castro.
+
+
+RBI: Andrew McCutchen (15).
+
+
+2-out RBI: Andrew McCutchen.
+
+
+Team LOB: 8.
+With RISP: 0 for 7.
+
+Pitching home
+Shane McClanahan;/players/m/mcclash01.shtml; W (6-0); 6 ;5;1;1;2;9;1;2.03;25;93;62;28;15;19;7;7;4;0;65;;;0.179; 0.81; 0.11%; 0.85; 2.0
+Chase Anderson;/players/a/anderch01.shtml; S (1); 3 ;2;0;0;0;2;0;0.00;11;43;30;18;6;6;5;4;0;0;;0;0;0.023; 0.21; 0.01%; 0.22; 1.5
+
+Pitching away
+Mitch Keller;/players/k/kellemi03.shtml; L (3-1); 5 ;5;5;1;1;8;0;3.32;23;100;72;43;10;19;9;5;1;0;52;;;-0.274; 0.80;-0.19%; 0.95; -2.5
+Jose Hernandez;/players/h/hernajo03.shtml;Jose Hernandez; 1 ;1;1;1;1;2;1;1.42;5;21;13;6;6;1;0;2;0;0;;0;0;-0.017; 0.15;-0.01%; 0.17; -0.5
+Cody Bolton;/players/b/boltoco01.shtml;Cody Bolton; 2 ;4;2;2;0;3;1;4.50;10;39;24;11;4;9;5;2;1;0;;0;0;-0.007; 0.02;-0.01%; 0.02; -1.0
+
+indiv_events
+
+Balks: Jose Hernandez (1).
+WP: Shane McClanahan (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: Jose Hernandez (1).
+WP: Shane McClanahan (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Quinn Wolcott, 1B - Manny Gonzalez, 2B - Junior Valentine, 3B - Adrian Johnson, LF - (none), RF - (none).
+Time of Game: 2:22.
+Attendance: 15,247.
+Start Time Weather: 72° F, Wind 0mph, In Dome.
+
+div_lineups
+Pirates
+1;Ke'Bryan Hayes;/players/h/hayeske01.shtml;3B
+2;Bryan Reynolds;/players/r/reynobr01.shtml;CF
+3;Andrew McCutchen;/players/m/mccutan01.shtml;DH
+4;Carlos Santana;/players/s/santaca01.shtml;1B
+5;Connor Joe;/players/j/joeco01.shtml;LF
+6;Rodolfo Castro;/players/c/castrro01.shtml;SS
+7;Miguel Andujar;/players/a/andujmi01.shtml;RF
+8;Ji Hwan Bae;/players/b/baeji01.shtml;2B
+9;Austin Hedges;/players/h/hedgeau01.shtml;C
+; Mitch Keller;/players/k/kellemi03.shtml;P
+Rays
+1;Yandy Díaz;/players/d/diazya01.shtml;1B
+2;Wander Franco;/players/f/francwa01.shtml;SS
+3;Harold Ramírez;/players/r/ramirha02.shtml;DH
+4;Brandon Lowe;/players/l/lowebr01.shtml;2B
+5;Taylor Walls;/players/w/wallsta01.shtml;3B
+6;Josh Lowe;/players/l/lowejo01.shtml;RF
+7;Jose Siri;/players/s/sirijo01.shtml;CF
+8;Luke Raley;/players/r/raleylu01.shtml;LF
+9;Francisco Mejía;/players/m/mejiafr01.shtml;C
+; Shane McClanahan;/players/m/mcclash01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;1-1;2;12-;2,(0-1) CX;RR;TBR;Brandon Lowe;Mitch Keller;21%;76%;Double to CF (Line Drive to Deep CF); Franco Scores/unER; Ramírez Scores/unER
+t3;0-0;2;---;4,(2-1) CBBX;R;PIT;Andrew McCutchen;Shane McClanahan;-12%;42%;Home Run (Fly Ball to Deep LF Line)
+b3;0-1;2;1-3;2,(0-1) CX;R;TBR;Harold Ramírez;Mitch Keller;11%;55%;Reached on E6 (Ground Ball); Díaz Scores/No RBI/unER; Franco to 2B; Ramírez to 1B
+b5;3-1;1;--3;4,(1-2) BFCX;R;TBR;Wander Franco;Mitch Keller;6%;91%;Reached on E4 (Ground Ball to 2B-1B); Mejía Scores; Franco to 3B/Adv on E4 (throw)
+t1;0-0;2;12-;7,(3-2) BCSB*B>F>S;O;PIT;Connor Joe;Shane McClanahan;4%;55%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Pirates Batting, Tied 0-0, Rays' Shane McClanahan facing 1-2-3 
+t1;0-0;0;---;3,(0-2) FFS;O;PIT;Ke'Bryan Hayes;Shane McClanahan;2%;52%;Strikeout Swinging
+t1;0-0;1;---;2,(0-1) CX;;PIT;Bryan Reynolds;Shane McClanahan;-4%;48%;Double to LF (Line Drive to Deep LF)
+t1;0-0;1;-2-;1,(0-0) X;O;PIT;Andrew McCutchen;Shane McClanahan;3%;52%;Flyball: RF (RF Line)
+t1;0-0;2;-2-;6,(3-2) *BFBFBB;;PIT;Carlos Santana;Shane McClanahan;-1%;51%;Walk
+t1;0-0;2;12-;7,(3-2) BCSB*B>F>S;O;PIT;Connor Joe;Shane McClanahan;4%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Pirates 0, Rays 0.
+Bottom of the 1st, Rays Batting, Tied 0-0, Pirates' Mitch Keller facing 1-2-3 
+b1;0-0;0;---;6,(3-2) BFFBB.X;O;TBR;Yandy Díaz;Mitch Keller;-2%;53%;Flyball: RF (Short RF Line)
+b1;0-0;1;---;4,(1-2) CBCS;O;TBR;Wander Franco;Mitch Keller;-2%;51%;Strikeout Swinging
+b1;0-0;2;---;4,(0-2) CCFS;O;TBR;Harold Ramírez;Mitch Keller;-1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 0, Rays 0.
+Top of the 2nd, Pirates Batting, Tied 0-0, Rays' Shane McClanahan facing 6-7-8 
+t2;0-0;0;---;4,(1-2) FF.B*S;O;PIT;Rodolfo Castro;Shane McClanahan;2%;52%;Strikeout Swinging; Castro out at 1B/C-1B
+t2;0-0;1;---;4,(1-2) CBSX;O;PIT;Miguel Andujar;Shane McClanahan;2%;54%;Groundout: 1B unassisted
+t2;0-0;2;---;6,(3-2) BBCC*BB;;PIT;Ji Hwan Bae;Shane McClanahan;-1%;53%;Walk
+t2;0-0;2;1--;3,(1-1) SBX;O;PIT;Austin Hedges;Shane McClanahan;2%;55%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Pirates 0, Rays 0.
+Bottom of the 2nd, Rays Batting, Tied 0-0, Pirates' Mitch Keller facing 4-5-6 
+b2;0-0;0;---;2,(1-0) BX;O;TBR;Brandon Lowe;Mitch Keller;-2%;53%;Groundout: 2B-1B (Deep 2B)
+b2;0-0;1;---;8,(3-2) SFBFFBB.B;;TBR;Taylor Walls;Mitch Keller;3%;55%;Walk
+b2;0-0;1;1--;5,(0-2) CSFF1C;O;TBR;Josh Lowe;Mitch Keller;-3%;52%;Strikeout Looking
+b2;0-0;2;1--;4,(1-2) CCBS;O;TBR;Jose Siri;Mitch Keller;-2%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Pirates 0, Rays 0.
+Top of the 3rd, Pirates Batting, Tied 0-0, Rays' Shane McClanahan facing 1-2-3 
+t3;0-0;0;---;2,(0-1) CX;O;PIT;Ke'Bryan Hayes;Shane McClanahan;3%;53%;Groundout: SS-1B
+t3;0-0;1;---;1,(0-0) X;O;PIT;Bryan Reynolds;Shane McClanahan;2%;54%;Groundout: 3B-1B
+t3;0-0;2;---;4,(2-1) CBBX;R;PIT;Andrew McCutchen;Shane McClanahan;-12%;42%;Home Run (Fly Ball to Deep LF Line)
+t3;1-0;2;---;2,(0-1) CX;;PIT;Carlos Santana;Shane McClanahan;-1%;41%;Single to CF (Line Drive to Deep CF)
+t3;1-0;2;1--;2,(0-1) CX;O;PIT;Connor Joe;Shane McClanahan;2%;43%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Pirates 1, Rays 0.
+Bottom of the 3rd, Rays Batting, Behind 0-1, Pirates' Mitch Keller facing 8-9-1 
+b3;0-1;0;---;2,(1-0) BX;O;TBR;Luke Raley;Mitch Keller;-3%;41%;Groundout: 1B unassisted (Deep 1B)
+b3;0-1;1;---;7,(1-2) BFFFFFX;O;TBR;Francisco Mejía;Mitch Keller;-2%;39%;Groundout: 2B-1B
+b3;0-1;2;---;7,(3-2) CCBBBFX;;TBR;Yandy Díaz;Mitch Keller;2%;40%;Single to CF (Ground Ball thru SS-2B)
+b3;0-1;2;1--;3,(1-1) FBX;;TBR;Wander Franco;Mitch Keller;3%;43%;Single to RF (Ground Ball); Díaz to 3B
+b3;0-1;2;1-3;2,(0-1) CX;R;TBR;Harold Ramírez;Mitch Keller;11%;55%;Reached on E6 (Ground Ball); Díaz Scores/No RBI/unER; Franco to 2B; Ramírez to 1B
+b3;1-1;2;12-;2,(0-1) CX;RR;TBR;Brandon Lowe;Mitch Keller;21%;76%;Double to CF (Line Drive to Deep CF); Franco Scores/unER; Ramírez Scores/unER
+b3;3-1;2;-2-;5,(2-2) FBBFC;O;TBR;Taylor Walls;Mitch Keller;-2%;73%;Strikeout Looking
+;;;;;;;;;3 runs, 3 hits, 1 error, 1 LOB. Pirates 1, Rays 3.
+Top of the 4th, Pirates Batting, Behind 1-3, Rays' Shane McClanahan facing 6-7-8 
+t4;1-3;0;---;6,(3-2) BBBCSS;O;PIT;Rodolfo Castro;Shane McClanahan;3%;76%;Strikeout Swinging
+t4;1-3;1;---;2,(0-1) CX;O;PIT;Miguel Andujar;Shane McClanahan;2%;78%;Groundout: SS-1B (Weak SS-2B)
+t4;1-3;2;---;2,(1-0) BX;;PIT;Ji Hwan Bae;Shane McClanahan;-1%;76%;Single to 2B (Bunt to Weak 2B-1B)
+t4;1-3;2;1--;3,(0-2) .FS.>B;;PIT;Austin Hedges;Shane McClanahan;-1%;75%;Bae Steals 2B; Bae to 3B/Wild Pitch
+t4;1-3;2;--3;5,(1-2) .FS.>B.FS;O;PIT;Austin Hedges;Shane McClanahan;4%;79%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 1, Rays 3.
+Bottom of the 4th, Rays Batting, Ahead 3-1, Pirates' Mitch Keller facing 6-7-8 
+b4;3-1;0;---;3,(0-2) SFC;O;TBR;Josh Lowe;Mitch Keller;-2%;77%;Strikeout Looking
+b4;3-1;1;---;2,(0-1) SX;O;TBR;Jose Siri;Mitch Keller;-1%;76%;Foul Popfly: 1B (1B into Foul Terr.)
+b4;3-1;2;---;6,(3-2) BFBCBC;O;TBR;Luke Raley;Mitch Keller;-1%;76%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 1, Rays 3.
+Top of the 5th, Pirates Batting, Behind 1-3, Rays' Shane McClanahan facing 1-2-3 
+t5;1-3;0;---;4,(1-2) CBFX;O;PIT;Ke'Bryan Hayes;Shane McClanahan;3%;78%;Groundout: 3B-1B (Weak 3B)
+t5;1-3;1;---;6,(3-2) SC.BBBX;O;PIT;Bryan Reynolds;Shane McClanahan;2%;80%;Groundout: 3B-1B
+t5;1-3;2;---;5,(2-2) CBBS.S;O;PIT;Andrew McCutchen;Shane McClanahan;1%;82%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 1, Rays 3.
+Bottom of the 5th, Rays Batting, Ahead 3-1, Pirates' Mitch Keller facing 9-1-2 
+b5;3-1;0;---;9,(3-2) BFSFFBFBX;;TBR;Francisco Mejía;Mitch Keller;4%;86%;Double to RF (Fly Ball to RF Line)
+b5;3-1;0;-2-;3,(0-2) CFX;O;TBR;Yandy Díaz;Mitch Keller;-1%;85%;Groundout: 2B-1B (Deep SS-2B); Mejía to 3B
+b5;3-1;1;--3;4,(1-2) BFCX;R;TBR;Wander Franco;Mitch Keller;6%;91%;Reached on E4 (Ground Ball to 2B-1B); Mejía Scores; Franco to 3B/Adv on E4 (throw)
+b5;4-1;1;--3;3,(1-1) SBX;R;TBR;Harold Ramírez;Mitch Keller;2%;93%;Single to LF (Ground Ball thru SS-3B Hole); Franco Scores/unER
+b5;5-1;1;1--;8,(2-2) BF*BCFFF*S;O;TBR;Brandon Lowe;Mitch Keller;-1%;93%;Strikeout Swinging
+b5;5-1;2;1--;1,(0-0) X;O;TBR;Taylor Walls;Mitch Keller;-1%;92%;Flyball: CF (Deep CF)
+;;;;;;;;;2 runs, 2 hits, 2 errors, 1 LOB. Pirates 1, Rays 5.
+Top of the 6th, Pirates Batting, Behind 1-5, Rays' Shane McClanahan facing 4-5-6 
+t6;1-5;0;---;4,(1-2) CFBS;O;PIT;Carlos Santana;Shane McClanahan;2%;94%;Strikeout Swinging
+t6;1-5;1;---;3,(0-2) CC.X;;PIT;Connor Joe;Shane McClanahan;-4%;90%;Triple to CF (Line Drive to Deep CF-RF)
+t6;1-5;1;--3;5,(2-2) BF*BTC;O;PIT;Rodolfo Castro;Shane McClanahan;3%;93%;Strikeout Looking
+t6;1-5;2;--3;4,(1-2) BTCS;O;PIT;Miguel Andujar;Shane McClanahan;2%;95%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 1, Rays 5.
+Bottom of the 6th, Rays Batting, Ahead 5-1, Pirates' Jose Hernandez facing 6-7-8 
+;;;;;;;;;Jose Hernandez replaces Mitch Keller pitching
+b6;5-1;0;---;2,(1-0) .BX;R;TBR;Josh Lowe;Jose Hernandez;2%;98%;Home Run (Fly Ball to Deep RF)
+b6;6-1;0;---;8,(3-2) SS.FBFBBB;;TBR;Jose Siri;Jose Hernandez;0%;98%;Walk
+b6;6-1;0;1--;2,(0-2) SSN;;TBR;Luke Raley;Jose Hernandez;0%;98%;Balk; Siri to 2B
+b6;6-1;0;-2-;3,(0-2) SSN.S;O;TBR;Luke Raley;Jose Hernandez;0%;98%;Strikeout Swinging
+b6;6-1;1;-2-;3,(1-1) BFX;O;TBR;Francisco Mejía;Jose Hernandez;0%;97%;Flyball: RF (Short RF)
+b6;6-1;2;-2-;5,(2-2) .CFB*BS;O;TBR;Yandy Díaz;Jose Hernandez;0%;97%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Pirates 1, Rays 6.
+Top of the 7th, Pirates Batting, Behind 1-6, Rays' Chase Anderson facing 8-9-1 
+;;;;;;;;;Chase Anderson replaces Shane McClanahan pitching
+t7;1-6;0;---;6,(3-2) .BBBCTX;;PIT;Ji Hwan Bae;Chase Anderson;-2%;95%;Single to LF (Ground Ball thru SS-3B Hole)
+t7;1-6;0;1--;2,(1-0) BX;O;PIT;Austin Hedges;Chase Anderson;2%;97%;Foul Popfly: 1B (1B into Foul Terr.)
+t7;1-6;1;1--;1,(0-0) >C;;PIT;Ke'Bryan Hayes;Chase Anderson;0%;97%;Bae Steals 2B
+t7;1-6;1;-2-;3,(1-1) >C.*BX;O;PIT;Ke'Bryan Hayes;Chase Anderson;1%;98%;Groundout: 2B-1B (SS-2B); Bae to 3B
+t7;1-6;2;--3;5,(1-2) CS*BFX;O;PIT;Bryan Reynolds;Chase Anderson;1%;99%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 1, Rays 6.
+Bottom of the 7th, Rays Batting, Ahead 6-1, Pirates' Cody Bolton facing 2-3-4 
+;;;;;;;;;Cody Bolton replaces Jose Hernandez pitching
+b7;6-1;0;---;3,(0-2) .CCX;R;TBR;Wander Franco;Cody Bolton;1%;99%;Home Run (Fly Ball to Deep CF-RF)
+b7;7-1;0;---;4,(1-2) BSSS;O;TBR;Harold Ramírez;Cody Bolton;0%;99%;Strikeout Swinging
+b7;7-1;1;---;4,(1-2) CBFC;O;TBR;Brandon Lowe;Cody Bolton;0%;99%;Strikeout Looking
+b7;7-1;2;---;3,(1-1) BCX;O;TBR;Taylor Walls;Cody Bolton;0%;99%;Groundout: 3B-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Pirates 1, Rays 7.
+Top of the 8th, Pirates Batting, Behind 1-7, Rays' Chase Anderson facing 3-4-5 
+t8;1-7;0;---;4,(1-2) BSFX;O;PIT;Andrew McCutchen;Chase Anderson;0%;100%;Flyball: LF
+t8;1-7;1;---;5,(2-2) BTFBX;O;PIT;Carlos Santana;Chase Anderson;0%;100%;Groundout: 2B-1B (2B-1B)
+t8;1-7;2;---;1,(0-0) X;O;PIT;Connor Joe;Chase Anderson;0%;100%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 1, Rays 7.
+Bottom of the 8th, Rays Batting, Ahead 7-1, Pirates' Cody Bolton facing 6-7-8 
+b8;7-1;0;---;5,(3-1) CBBBX;O;TBR;Josh Lowe;Cody Bolton;0%;100%;Groundout: 1B-P (2B-1B)
+b8;7-1;1;---;5,(3-1) BBBC.X;;TBR;Jose Siri;Cody Bolton;0%;100%;Single to SS (Ground Ball to Weak SS-2B)
+;;;;;;;;;Force Play Challenged by PIT manager (Derek Shelton): Original call upheld upon review.
+b8;7-1;1;1--;1,(0-0) X;R;TBR;Luke Raley;Cody Bolton;0%;100%;Double to LF (Line Drive to Deep LF); Siri Scores
+b8;8-1;1;-2-;6,(3-2) B*BBCFT;O;TBR;Francisco Mejía;Cody Bolton;0%;100%;Strikeout Swinging
+b8;8-1;2;-2-;2,(0-1) SX;;TBR;Yandy Díaz;Cody Bolton;0%;100%;Single to 3B (Ground Ball to SS-3B Hole); Raley to 3B
+b8;8-1;2;1-3;6,(3-2) CBF*B*B>X;O;TBR;Wander Franco;Cody Bolton;0%;100%;Groundout: SS unassisted/Interference by Runner/Forceout at 2B; Franco to 1B
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Pirates 1, Rays 8.
+Top of the 9th, Pirates Batting, Behind 1-8, Rays' Chase Anderson facing 6-7-8 
+t9;1-8;0;---;7,(3-2) BBSB.FFX;;PIT;Rodolfo Castro;Chase Anderson;0%;100%;Single to RF (Fly Ball to Short RF)
+t9;1-8;0;1--;4,(0-2) CFFC;O;PIT;Miguel Andujar;Chase Anderson;0%;100%;Strikeout Looking
+t9;1-8;1;1--;3,(1-1) BSX;O;PIT;Ji Hwan Bae;Chase Anderson;0%;100%;Flyball: LF
+;;;;;;;;;Jack Suwinski pinch hits for Austin Hedges (C) batting 9th
+t9;1-8;2;1--;3,(0-2) .SCS;O;PIT;Jack Suwinski;Chase Anderson;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 1, Rays 8.

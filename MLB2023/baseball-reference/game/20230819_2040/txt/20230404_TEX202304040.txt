@@ -1,0 +1,256 @@
+
+Scorebox Meta
+20230404
+7:05 p.m. Local
+16268
+Globe Life Field
+150
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/BAL-2023.png;/teams/BAL/2023.shtml;0;5;2;0;0;0;0;0;0;7;8;0
+https://cdn.ssref.net/req/202308101/tlogo/br/TEX-2023.png;/teams/TEX/2023.shtml;0;1;0;0;0;1;0;0;0;2;7;1
+
+Batting home
+Marcus Semien;/players/s/semiema01.shtml;2B;4;0;0;0;0;0;4;.227;.217;.364;.581;10;7;-0.045; 0.44;0.000;-0.045;-0.03%; 0.44; -0.9;0;4;
+Corey Seager;/players/s/seageco01.shtml;SS;4;0;1;0;0;0;4;.263;.348;.263;.611;11;7;-0.008; 0.36;0.018;-0.026;-0.01%; 0.36; -0.2;3;1;
+Nathaniel Lowe;/players/l/lowena01.shtml;1B;4;1;1;1;0;1;4;.238;.273;.429;.701;12;8;-0.016; 0.36;0.017;-0.033;-0.01%; 0.37; 0.3;7;1;HR
+Adolis García;/players/g/garciad02.shtml;CF;4;1;1;1;0;1;4;.316;.350;.474;.824;20;11;0.036; 0.34;0.056;-0.020; 0.02%; 0.34; 0.4;2;0;HR
+Josh Jung;/players/j/jungjo01.shtml;3B;4;0;2;0;0;2;4;.278;.350;.500;.850;15;11;-0.020; 0.38;0.011;-0.031;-0.01%; 0.38; -0.1;1;1;2B
+Robbie Grossman;/players/g/grossro01.shtml;RF;4;0;0;0;0;2;4;.267;.333;.533;.867;14;9;-0.040; 0.38;0.000;-0.040;-0.02%; 0.39; -1.1;5;0;
+Mitch Garver;/players/g/garvemi01.shtml;C;3;0;1;0;0;1;3;.400;.455;1.000;1.455;12;8;0.005; 0.27;0.017;-0.011; 0.00%; 0.27; 0.2;6;0;
+Brad Miller;/players/m/millebr02.shtml;DH;2;0;1;0;1;0;3;.250;.357;.500;.857;17;10;0.003; 0.49;0.035;-0.032; 0.00%; 0.49; -0.0;;;GDP
+Ezequiel Duran;/players/d/duranez01.shtml;LF;3;0;0;0;0;1;3;.111;.111;.111;.222;10;7;-0.056; 0.53;0.000;-0.056;-0.03%; 0.53; -1.3;2;0;GDP
+Andrew Heaney;/players/h/heanean01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dane Dunning;/players/d/dunnida01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Taylor Hearn;/players/h/hearnta01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Josh Jung (1, off Cionel Pérez).
+
+
+HR: Adolis García (1, off Kyle Gibson, 2nd inn, 0 on, 0 outs to Deep CF); Nathaniel Lowe (1, off Kyle Gibson, 6th inn, 0 on, 2 outs to Deep LF-CF).
+
+
+TB: Adolis García 4; Nathaniel Lowe 4; Josh Jung 3; Mitch Garver; Corey Seager; Brad Miller.
+
+
+GIDP: Brad Miller (1); Ezequiel Duran (1).
+
+
+RBI: Nathaniel Lowe (4); Adolis García (4).
+
+
+2-out RBI: Nathaniel Lowe.
+
+
+Team LOB: 4.
+With RISP: 0 for 2.
+
+Batting away
+Cedric Mullins;/players/m/mullice01.shtml;CF;5;1;1;1;0;1;5;.300;.417;.650;1.067;23;14;0.071; 0.56;0.099;-0.029; 0.04%; 0.52; 0.4;9;0;2B
+Adley Rutschman;/players/r/rutscad01.shtml;C;5;0;1;0;0;0;5;.333;.360;.458;.818;20;15;-0.042; 0.40;0.024;-0.066;-0.02%; 0.37; -1.1;8;0;
+Ryan Mountcastle;/players/m/mountry01.shtml;1B;5;1;2;3;0;0;5;.273;.333;.636;.970;14;10;0.149; 0.57;0.180;-0.031; 0.08%; 0.53; 2.4;3;1;HR,2B
+Anthony Santander;/players/s/santaan02.shtml;DH;2;0;0;0;2;1;4;.238;.304;.333;.638;28;16;0.014; 0.28;0.021;-0.007; 0.01%; 0.26; 0.1;;;
+Austin Hays;/players/h/haysau01.shtml;RF;4;1;1;0;0;1;4;.412;.444;.765;1.209;21;12;-0.023; 0.58;0.027;-0.050;-0.01%; 0.54; -0.5;1;0;2B
+Ramón Urías;/players/u/uriasra01.shtml;3B;3;0;0;0;0;2;4;.200;.294;.467;.761;17;11;-0.047; 0.42;0.002;-0.048;-0.03%; 0.39; -1.0;0;2;HBP
+Adam Frazier;/players/f/fraziad01.shtml;2B;3;1;0;0;1;0;4;.357;.438;.786;1.223;13;7;0.007; 0.35;0.026;-0.019; 0.00%; 0.33; -0.5;3;2;
+Jorge Mateo;/players/m/mateojo01.shtml;SS;4;2;2;2;0;0;4;.357;.438;.786;1.223;11;8;0.111; 0.51;0.115;-0.004; 0.06%; 0.47; 1.7;1;2;HR
+Ryan McKenna;/players/m/mckenry01.shtml;LF;4;1;1;1;0;1;4;.286;.375;.286;.661;16;11;0.119; 0.56;0.124;-0.005; 0.07%; 0.51; 0.9;1;0;
+Kyle Gibson;/players/g/gibsoky01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Logan Gillaspie;/players/g/gillalo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Cionel Pérez;/players/p/perezci01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Cedric Mullins (1, off Andrew Heaney); Austin Hays (3, off Andrew Heaney); Ryan Mountcastle (2, off Dane Dunning).
+
+
+HR: Ryan Mountcastle (2, off Andrew Heaney, 2nd inn, 2 on, 2 outs to Deep RF Line); Jorge Mateo (2, off Andrew Heaney, 3rd inn, 1 on, 2 outs to Deep LF).
+
+
+HBP: Ramón Urías (2, by Dane Dunning).
+
+
+TB: Ryan Mountcastle 6; Jorge Mateo 5; Austin Hays 2; Cedric Mullins 2; Adley Rutschman; Ryan McKenna.
+
+
+RBI: Ryan Mountcastle 3 (6); Jorge Mateo 2 (5); Ryan McKenna (1); Cedric Mullins (8).
+
+
+2-out RBI: Ryan Mountcastle 3; Jorge Mateo 2.
+
+
+Team LOB: 5.
+With RISP: 4 for 10.
+
+Pitching home
+Andrew Heaney;/players/h/heanean01.shtml; L (0-1); 2.2;7;7;7;2;2;2;23.63;17;69;44;25;7;12;4;9;6;0;16;;;-0.397; 0.97;-0.24%; 0.98; -5.5
+Dane Dunning;/players/d/dunnida01.shtml;Dane Dunning; 4 ;1;0;0;1;1;0;0.00;15;65;39;24;5;10;2;10;1;0;;0;0;0.026; 0.10; 0.02%; 0.10; 1.7
+Taylor Hearn;/players/h/hearnta01.shtml;Taylor Hearn; 2.1;0;0;0;0;3;0;0.00;7;29;21;13;2;6;2;2;2;0;;2;0;0.012; 0.06; 0.01%; 0.06; 1.5
+
+Pitching away
+Kyle Gibson;/players/g/gibsoky01.shtml; W (2-0); 7 ;6;2;2;0;5;2;4.50;25;88;58;31;8;19;7;13;6;0;62;;;0.117; 0.43; 0.07%; 0.40; 1.6
+Logan Gillaspie;/players/g/gillalo01.shtml;Logan Gillaspie; 0.2;0;0;0;1;1;0;0.00;3;16;9;4;2;3;0;1;0;0;;0;0;0.010; 0.48; 0.01%; 0.44; 0.3
+Cionel Pérez;/players/p/perezci01.shtml;Cionel Pérez; 1.1;1;0;0;0;2;0;2.70;5;17;11;4;1;6;1;2;1;0;;1;0;0.014; 0.12; 0.01%; 0.11; 0.8
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Dane Dunning (1; Ramón Urías).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Dane Dunning (1; Ramón Urías).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Hunter Wendelstedt, 1B - John Tumpane, 2B - Ryan Blakney, 3B - Marvin Hudson, LF - (none), RF - (none).
+Time of Game: 2:30.
+Attendance: 16,268.
+Start Time Weather: 74° F, Wind 0mph, In Dome.
+
+div_lineups
+Orioles
+1;Cedric Mullins;/players/m/mullice01.shtml;CF
+2;Adley Rutschman;/players/r/rutscad01.shtml;C
+3;Ryan Mountcastle;/players/m/mountry01.shtml;1B
+4;Anthony Santander;/players/s/santaan02.shtml;DH
+5;Austin Hays;/players/h/haysau01.shtml;RF
+6;Ramón Urías;/players/u/uriasra01.shtml;3B
+7;Adam Frazier;/players/f/fraziad01.shtml;2B
+8;Jorge Mateo;/players/m/mateojo01.shtml;SS
+9;Ryan McKenna;/players/m/mckenry01.shtml;LF
+; Kyle Gibson;/players/g/gibsoky01.shtml;P
+Rangers
+1;Marcus Semien;/players/s/semiema01.shtml;2B
+2;Corey Seager;/players/s/seageco01.shtml;SS
+3;Nathaniel Lowe;/players/l/lowena01.shtml;1B
+4;Adolis García;/players/g/garciad02.shtml;CF
+5;Josh Jung;/players/j/jungjo01.shtml;3B
+6;Robbie Grossman;/players/g/grossro01.shtml;RF
+7;Mitch Garver;/players/g/garvemi01.shtml;C
+8;Brad Miller;/players/m/millebr02.shtml;DH
+9;Ezequiel Duran;/players/d/duranez01.shtml;LF
+; Andrew Heaney;/players/h/heanean01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;2-0;2;-23;2,(0-1) SX;RRR;BAL;Ryan Mountcastle;Andrew Heaney;17%;88%;Home Run (Fly Ball to Deep RF Line); McKenna Scores; Mullins Scores
+t2;0-0;1;12-;4,(1-2) CBFX;R;BAL;Ryan McKenna;Andrew Heaney;12%;66%;Single to LF (Line Drive to LF Line); Frazier Scores; Mateo to 3B/Adv on E7 (throw)
+t2;1-0;1;1-3;5,(2-2) CBCB1X;R;BAL;Cedric Mullins;Andrew Heaney;10%;76%;Double to RF (Line Drive to RF Line); Mateo Scores; McKenna to 3B
+t3;5-1;2;--3;1,(0-0) X;RR;BAL;Jorge Mateo;Andrew Heaney;8%;93%;Home Run (Line Drive to Deep LF); Hays Scores
+t2;2-0;1;-23;6,(2-2) CBFBFX;O;BAL;Adley Rutschman;Andrew Heaney;-6%;70%;Popfly: 1B (Weak 2B-1B)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Orioles Batting, Tied 0-0, Rangers' Andrew Heaney facing 1-2-3 
+t1;0-0;0;---;5,(2-2) CBSBX;O;BAL;Cedric Mullins;Andrew Heaney;-2%;48%;Groundout: 2B-1B (2B-1B)
+t1;0-0;1;---;4,(1-2) BFFX;;BAL;Adley Rutschman;Andrew Heaney;2%;50%;Single to RF (Line Drive to Deep CF-RF)
+t1;0-0;1;1--;2,(0-1) SX;O;BAL;Ryan Mountcastle;Andrew Heaney;-3%;47%;Flyball: CF (Deep CF)
+t1;0-0;2;1--;5,(3-1) FBBBB;;BAL;Anthony Santander;Andrew Heaney;2%;49%;Walk; Rutschman to 2B
+t1;0-0;2;12-;8,(2-2) CSBF*BFFC;O;BAL;Austin Hays;Andrew Heaney;-4%;45%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Orioles 0, Rangers 0.
+Bottom of the 1st, Rangers Batting, Tied 0-0, Orioles' Kyle Gibson facing 1-2-3 
+b1;0-0;0;---;3,(1-1) CBX;O;TEX;Marcus Semien;Kyle Gibson;2%;47%;Lineout: CF (Deep LF-CF)
+b1;0-0;1;---;3,(1-1) CBX;O;TEX;Corey Seager;Kyle Gibson;2%;49%;Groundout: 1B unassisted
+b1;0-0;2;---;2,(0-1) CX;O;TEX;Nathaniel Lowe;Kyle Gibson;1%;50%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 0, Rangers 0.
+Top of the 2nd, Orioles Batting, Tied 0-0, Rangers' Andrew Heaney facing 6-7-8 
+t2;0-0;0;---;4,(1-2) CBCS;O;BAL;Ramón Urías;Andrew Heaney;-2%;48%;Strikeout Swinging
+t2;0-0;1;---;6,(3-2) CBBCBB;;BAL;Adam Frazier;Andrew Heaney;3%;50%;Walk
+t2;0-0;1;1--;3,(0-2) CF>X;;BAL;Jorge Mateo;Andrew Heaney;4%;54%;Single to 3B (Ground Ball to Weak SS); Frazier to 2B
+t2;0-0;1;12-;4,(1-2) CBFX;R;BAL;Ryan McKenna;Andrew Heaney;12%;66%;Single to LF (Line Drive to LF Line); Frazier Scores; Mateo to 3B/Adv on E7 (throw)
+t2;1-0;1;1-3;5,(2-2) CBCB1X;R;BAL;Cedric Mullins;Andrew Heaney;10%;76%;Double to RF (Line Drive to RF Line); Mateo Scores; McKenna to 3B
+t2;2-0;1;-23;6,(2-2) CBFBFX;O;BAL;Adley Rutschman;Andrew Heaney;-6%;70%;Popfly: 1B (Weak 2B-1B)
+t2;2-0;2;-23;2,(0-1) SX;RRR;BAL;Ryan Mountcastle;Andrew Heaney;17%;88%;Home Run (Fly Ball to Deep RF Line); McKenna Scores; Mullins Scores
+t2;5-0;2;---;4,(2-1) BBFX;O;BAL;Anthony Santander;Andrew Heaney;0%;87%;Lineout: LF (Deep LF Line)
+;;;;;;;;;5 runs, 4 hits, 1 error, 0 LOB. Orioles 5, Rangers 0.
+Bottom of the 2nd, Rangers Batting, Behind 0-5, Orioles' Kyle Gibson facing 4-5-6 
+b2;0-5;0;---;6,(3-2) BBCCBX;R;TEX;Adolis García;Kyle Gibson;-6%;82%;Home Run (Fly Ball to Deep CF)
+b2;1-5;0;---;4,(1-2) CTBS;O;TEX;Josh Jung;Kyle Gibson;2%;84%;Strikeout Swinging
+b2;1-5;1;---;1,(0-0) X;O;TEX;Robbie Grossman;Kyle Gibson;1%;85%;Flyball: LF (LF Line)
+b2;1-5;2;---;4,(1-2) CCBX;O;TEX;Mitch Garver;Kyle Gibson;1%;86%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Orioles 5, Rangers 1.
+Top of the 3rd, Orioles Batting, Ahead 5-1, Rangers' Andrew Heaney facing 5-6-7 
+t3;5-1;0;---;5,(3-1) SBBBX;;BAL;Austin Hays;Andrew Heaney;3%;88%;Double to LF (Line Drive to Deep LF Line)
+t3;5-1;0;-2-;3,(1-1) S*BX;O;BAL;Ramón Urías;Andrew Heaney;-2%;87%;Groundout: SS-1B
+t3;5-1;1;-2-;2,(0-1) FX;O;BAL;Adam Frazier;Andrew Heaney;-1%;85%;Groundout: 2B-1B (Weak 2B-1B); Hays to 3B
+t3;5-1;2;--3;1,(0-0) X;RR;BAL;Jorge Mateo;Andrew Heaney;8%;93%;Home Run (Line Drive to Deep LF); Hays Scores
+;;;;;;;;;Dane Dunning replaces Andrew Heaney pitching
+t3;7-1;2;---;1,(0-0) .X;O;BAL;Ryan McKenna;Dane Dunning;0%;93%;Flyball: RF (RF Line)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Orioles 7, Rangers 1.
+Bottom of the 3rd, Rangers Batting, Behind 1-7, Orioles' Kyle Gibson facing 8-9-1 
+b3;1-7;0;---;1,(0-0) X;;TEX;Brad Miller;Kyle Gibson;-2%;91%;Single to CF (Line Drive to Short CF-RF)
+b3;1-7;0;1--;4,(1-2) BSFX;OO;TEX;Ezequiel Duran;Kyle Gibson;4%;95%;Ground Ball Double Play: SS-2B-1B
+b3;1-7;2;---;3,(1-1) BSX;O;TEX;Marcus Semien;Kyle Gibson;0%;95%;Lineout: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Orioles 7, Rangers 1.
+Top of the 4th, Orioles Batting, Ahead 7-1, Rangers' Dane Dunning facing 1-2-3 
+t4;7-1;0;---;7,(3-2) BCSFBBX;O;BAL;Cedric Mullins;Dane Dunning;0%;95%;Popfly: SS
+t4;7-1;1;---;4,(1-2) CBFX;O;BAL;Adley Rutschman;Dane Dunning;0%;94%;Flyball: LF (Deep LF-CF)
+t4;7-1;2;---;4,(2-1) BBCX;O;BAL;Ryan Mountcastle;Dane Dunning;0%;94%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 7, Rangers 1.
+Bottom of the 4th, Rangers Batting, Behind 1-7, Orioles' Kyle Gibson facing 2-3-4 
+b4;1-7;0;---;4,(1-2) SFBX;;TEX;Corey Seager;Kyle Gibson;-2%;92%;Single to RF (Ground Ball thru 2B-1B)
+b4;1-7;0;1--;4,(2-1) BBCX;O;TEX;Nathaniel Lowe;Kyle Gibson;2%;94%;Groundout: 3B-2B/Forceout at 2B; Lowe to 1B
+b4;1-7;1;1--;5,(2-2) CBBCX;O;TEX;Adolis García;Kyle Gibson;1%;95%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); García to 1B
+b4;1-7;2;1--;4,(1-2) SFBX;;TEX;Josh Jung;Kyle Gibson;-1%;94%;Single to CF (Line Drive); García to 2B
+b4;1-7;2;12-;4,(1-2) BFFC;O;TEX;Robbie Grossman;Kyle Gibson;2%;96%;Strikeout Looking
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Orioles 7, Rangers 1.
+Top of the 5th, Orioles Batting, Ahead 7-1, Rangers' Dane Dunning facing 4-5-6 
+t5;7-1;0;---;5,(2-2) CBFB*S;O;BAL;Anthony Santander;Dane Dunning;0%;96%;Strikeout Swinging
+t5;7-1;1;---;3,(1-1) CBX;O;BAL;Austin Hays;Dane Dunning;0%;96%;Flyball: CF (Deep LF-CF)
+t5;7-1;2;---;3,(1-1) CBH;;BAL;Ramón Urías;Dane Dunning;0%;96%;Hit By Pitch
+t5;7-1;2;1--;2,(1-0) BX;O;BAL;Adam Frazier;Dane Dunning;0%;95%;Flyball: SS (Short LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Orioles 7, Rangers 1.
+Bottom of the 5th, Rangers Batting, Behind 1-7, Orioles' Kyle Gibson facing 7-8-9 
+b5;1-7;0;---;1,(0-0) X;;TEX;Mitch Garver;Kyle Gibson;-2%;94%;Single to LF (Line Drive to Deep LF-CF)
+b5;1-7;0;1--;8,(3-2) BCFBBFFX;OO;TEX;Brad Miller;Kyle Gibson;3%;97%;Ground Ball Double Play: 2B-SS-1B
+b5;1-7;2;---;1,(0-0) X;O;TEX;Ezequiel Duran;Kyle Gibson;0%;97%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Orioles 7, Rangers 1.
+Top of the 6th, Orioles Batting, Ahead 7-1, Rangers' Dane Dunning facing 8-9-1 
+t6;7-1;0;---;4,(2-1) BBCX;O;BAL;Jorge Mateo;Dane Dunning;0%;97%;Lineout: RF (Deep RF)
+t6;7-1;1;---;3,(1-1) CBX;O;BAL;Ryan McKenna;Dane Dunning;0%;97%;Groundout: 2B-1B (Deep SS-2B)
+t6;7-1;2;---;2,(1-0) BX;O;BAL;Cedric Mullins;Dane Dunning;0%;97%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 7, Rangers 1.
+Bottom of the 6th, Rangers Batting, Behind 1-7, Orioles' Kyle Gibson facing 1-2-3 
+b6;1-7;0;---;1,(0-0) X;O;TEX;Marcus Semien;Kyle Gibson;1%;98%;Flyball: CF (Deep CF)
+b6;1-7;1;---;3,(2-0) BBX;O;TEX;Corey Seager;Kyle Gibson;1%;98%;Lineout: CF (Deep CF-RF)
+b6;1-7;2;---;1,(0-0) X;R;TEX;Nathaniel Lowe;Kyle Gibson;-2%;96%;Home Run (Fly Ball to Deep LF-CF)
+b6;2-7;2;---;3,(1-1) BCX;O;TEX;Adolis García;Kyle Gibson;0%;97%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Orioles 7, Rangers 2.
+Top of the 7th, Orioles Batting, Ahead 7-2, Rangers' Dane Dunning facing 2-3-4 
+t7;7-2;0;---;4,(1-2) CBSX;O;BAL;Adley Rutschman;Dane Dunning;0%;96%;Flyball: 3B (Short LF Line)
+t7;7-2;1;---;4,(2-1) BCBX;;BAL;Ryan Mountcastle;Dane Dunning;1%;97%;Ground-rule Double (Fly Ball to Deep LF-CF)
+t7;7-2;1;-2-;14,(3-2) S*BFFFBFFFFBFFB;;BAL;Anthony Santander;Dane Dunning;0%;97%;Walk
+t7;7-2;1;12-;5,(3-1) S*BBBX;O;BAL;Austin Hays;Dane Dunning;-1%;97%;Foul Popfly: SS (3B into Foul Terr.)
+;;;;;;;;;Taylor Hearn replaces Dane Dunning pitching
+t7;7-2;2;12-;7,(2-2) .CFF*BBFS;O;BAL;Ramón Urías;Taylor Hearn;-1%;96%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Orioles 7, Rangers 2.
+Bottom of the 7th, Rangers Batting, Behind 2-7, Orioles' Kyle Gibson facing 5-6-7 
+b7;2-7;0;---;5,(2-2) SCBBS;O;TEX;Josh Jung;Kyle Gibson;1%;97%;Strikeout Swinging
+b7;2-7;1;---;6,(3-2) CBBCBT;O;TEX;Robbie Grossman;Kyle Gibson;1%;98%;Strikeout Swinging
+b7;2-7;2;---;7,(3-2) BCCBBF*S;O;TEX;Mitch Garver;Kyle Gibson;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 7, Rangers 2.
+Top of the 8th, Orioles Batting, Ahead 7-2, Rangers' Taylor Hearn facing 7-8-9 
+t8;7-2;0;---;3,(1-1) BFX;O;BAL;Adam Frazier;Taylor Hearn;0%;98%;Groundout: 1B-P (2B-1B)
+t8;7-2;1;---;3,(1-1) CBX;O;BAL;Jorge Mateo;Taylor Hearn;0%;98%;Groundout: 2B-1B (Deep SS-2B)
+t8;7-2;2;---;8,(3-2) FBFFBFBS;O;BAL;Ryan McKenna;Taylor Hearn;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 7, Rangers 2.
+Bottom of the 8th, Rangers Batting, Behind 2-7, Orioles' Logan Gillaspie facing 8-9-1 
+;;;;;;;;;Logan Gillaspie replaces Kyle Gibson pitching
+b8;2-7;0;---;8,(3-2) .CBBSFBFB;;TEX;Brad Miller;Logan Gillaspie;-2%;96%;Walk
+b8;2-7;0;1--;5,(2-2) CFBBS;O;TEX;Ezequiel Duran;Logan Gillaspie;2%;98%;Strikeout Swinging
+b8;2-7;1;1--;3,(1-1) BCX;O;TEX;Marcus Semien;Logan Gillaspie;1%;99%;Flyball: CF
+;;;;;;;;;Cionel Pérez replaces Logan Gillaspie pitching
+b8;2-7;2;1--;1,(0-0) .X;O;TEX;Corey Seager;Cionel Pérez;1%;99%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Orioles 7, Rangers 2.
+Top of the 9th, Orioles Batting, Ahead 7-2, Rangers' Taylor Hearn facing 1-2-3 
+t9;7-2;0;---;4,(1-2) CFBC;O;BAL;Cedric Mullins;Taylor Hearn;0%;99%;Strikeout Looking
+t9;7-2;1;---;2,(0-1) CX;O;BAL;Adley Rutschman;Taylor Hearn;0%;99%;Lineout: RF (Deep RF)
+t9;7-2;2;---;2,(0-1) CX;O;BAL;Ryan Mountcastle;Taylor Hearn;0%;99%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 7, Rangers 2.
+Bottom of the 9th, Rangers Batting, Behind 2-7, Orioles' Cionel Pérez facing 3-4-5 
+b9;2-7;0;---;5,(2-2) CCBBS;O;TEX;Nathaniel Lowe;Cionel Pérez;1%;100%;Strikeout Swinging
+b9;2-7;1;---;6,(3-2) BBCFBC;O;TEX;Adolis García;Cionel Pérez;0%;100%;Strikeout Looking
+b9;2-7;2;---;2,(0-1) CX;;TEX;Josh Jung;Cionel Pérez;0%;100%;Double to RF (Ground Ball)
+b9;2-7;2;-2-;3,(1-1) BCX;O;TEX;Robbie Grossman;Cionel Pérez;0%;100%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 7, Rangers 2.

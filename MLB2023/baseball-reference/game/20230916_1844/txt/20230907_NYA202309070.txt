@@ -1,0 +1,279 @@
+
+Scorebox Meta
+20230907
+7:05 p.m. Local
+32722
+Yankee Stadium III
+163
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;2;0;2;4;0;0;0;2;0;10;14;0
+https://cdn.ssref.net/req/202309121/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;1;0;2;0;0;0;0;0;3;6;1
+
+Batting home
+DJ LeMahieu;/players/l/lemahdj01.shtml;1B;3;0;1;0;1;0;4;.244;.325;.404;.729;14;8;0.025; 0.55;0.051;-0.026; 0.00%; 0.05; 0.2;5;0;
+Jake Bauers;/players/b/bauerja01.shtml;1B;1;0;0;0;0;1;1;.207;.286;.427;.714;9;6;-0.001; 0.03;0.000;-0.001;0%; 0.00; -0.4;1;0;
+Aaron Judge;/players/j/judgeaa01.shtml;RF;4;0;0;0;0;1;4;.263;.393;.613;1.006;12;6;-0.070; 0.73;0.000;-0.070;-0.00%; 0.07; -1.0;0;0;
+Oswaldo Cabrera;/players/c/cabreos01.shtml;RF;0;0;0;0;0;0;0;.210;.278;.299;.577;;;;;;;;;;0;0;
+Jasson Domínguez;/players/d/dominja01.shtml;CF;3;0;0;0;1;1;4;.292;.320;.708;1.028;18;9;-0.062; 0.48;0.001;-0.063;-0.00%; 0.04; -0.8;3;0;GDP
+Gleyber Torres;/players/t/torregl01.shtml;2B;3;2;2;1;1;0;4;.275;.343;.472;.815;16;10;0.102; 0.45;0.115;-0.013; 0.01%; 0.04; 1.4;1;0;HR
+Giancarlo Stanton;/players/s/stantmi03.shtml;DH;3;0;0;0;1;2;4;.201;.281;.440;.720;19;12;0.020; 0.48;0.040;-0.020; 0.00%; 0.04; -0.4;;;
+Anthony Volpe;/players/v/volpean01.shtml;SS;3;1;1;0;1;2;4;.216;.295;.401;.696;17;9;0.072; 0.55;0.077;-0.005; 0.00%; 0.05; 0.8;0;4;
+Kyle Higashioka;/players/h/higasky01.shtml;C;3;0;0;0;1;1;4;.222;.265;.398;.663;14;8;-0.060; 0.80;0.001;-0.061;-0.00%; 0.07; -1.0;15;0;
+Everson Pereira;/players/p/pereiev01.shtml;LF;4;0;1;2;0;1;4;.151;.224;.208;.432;10;9;-0.089; 0.69;0.046;-0.135;-0.01%; 0.06; 0.1;1;0;2B,GDP
+Oswald Peraza;/players/p/perazos02.shtml;3B;4;0;1;0;0;0;4;.183;.280;.221;.501;14;11;-0.044; 0.41;0.001;-0.044;-0.00%; 0.04; -0.5;1;2;
+Carlos Rodón;/players/r/rodonca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Randy Vásquez;/players/v/vasqura02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Albert Abreu;/players/a/abreual01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matt Krook;/players/k/krookma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Everson Pereira (3, off Eduardo Rodriguez).
+
+
+HR: Gleyber Torres (25, off Eduardo Rodriguez, 2nd inn, 0 on, 0 outs to Deep RF Line).
+
+
+TB: Gleyber Torres 5; Everson Pereira 2; DJ LeMahieu; Anthony Volpe; Oswald Peraza.
+
+
+GIDP: Jasson Domínguez (1); Everson Pereira (1).
+
+
+RBI: Everson Pereira 2 (7); Gleyber Torres (62).
+
+
+2-out RBI: Everson Pereira 2.
+
+
+Team LOB: 7.
+With RISP: 2 for 8.
+
+Batting away
+Matt Vierling;/players/v/vierlma01.shtml;CF-LF;5;4;4;2;0;1;5;.267;.326;.372;.697;20;13;0.240; 0.64;0.246;-0.006; 0.00%; 0.02; 3.1;2;0;2·2B
+Akil Baddoo;/players/b/baddoak01.shtml;LF;0;0;0;0;0;0;0;.224;.314;.364;.678;;;;;;;;;;0;0;
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;4;2;2;4;1;1;5;.233;.320;.451;.771;21;11;0.144; 0.50;0.156;-0.012; 0.00%; 0.01; 2.8;7;0;2·HR
+Andy Ibáñez;/players/i/ibanean01.shtml;2B;4;1;2;3;0;1;5;.247;.281;.423;.704;17;11;0.011; 0.45;0.036;-0.025;0%; 0.01; 1.3;4;2;HR,SF
+Jake Rogers;/players/r/rogerja03.shtml;C;5;0;1;0;0;3;5;.206;.276;.415;.691;18;12;-0.019; 0.24;0.008;-0.026;0%; 0.01; -1.0;9;1;
+Miguel Cabrera;/players/c/cabremi01.shtml;DH;5;0;0;0;0;3;5;.254;.317;.343;.660;19;17;-0.031; 0.23;0.000;-0.031;0%; 0.01; -1.1;;;
+Kerry Carpenter;/players/c/carpeke01.shtml;RF;5;1;2;0;0;1;5;.293;.356;.524;.880;17;13;0.012; 0.35;0.033;-0.022;0%; 0.01; 0.2;2;0;SB
+Javier Báez;/players/b/baezja01.shtml;SS;4;0;0;0;1;3;5;.222;.266;.320;.586;24;14;-0.033; 0.31;0.003;-0.036;-0.00%; 0.01; -0.8;1;3;
+Tyler Nevin;/players/n/nevinty01.shtml;LF;4;1;1;1;0;1;4;.140;.242;.211;.453;10;8;0.042; 0.35;0.060;-0.018; 0.00%; 0.01; 0.4;1;0;2B
+Parker Meadows;/players/m/meadopa01.shtml;CF;0;0;0;0;0;0;0;.250;.344;.385;.729;;;;;;;;;;0;0;
+Andre Lipcius;/players/l/lipcian01.shtml;3B;4;1;2;0;0;0;4;.250;.250;.438;.688;18;10;0.029; 0.38;0.044;-0.014;0%; 0.01; 0.4;1;2;
+Eduardo Rodriguez;/players/r/rodried05.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Will Vest;/players/v/vestwi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Miguel Díaz;/players/d/diazmi02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trey Wingenter;/players/w/wingetr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Matt Vierling 2 (15, 2 off Carlos Rodón); Tyler Nevin (1, off Carlos Rodón).
+
+
+HR: Spencer Torkelson 2 (27, 1 off Carlos Rodón, 1st inn, 1 on, 0 outs to Deep RF, 1 off Randy Vásquez, 4th inn, 1 on, 2 outs to Deep LF Line); Andy Ibáñez (10, off Albert Abreu, 8th inn, 1 on, 2 outs to Deep CF-RF).
+
+
+SF: Andy Ibáñez (1, off Carlos Rodón).
+
+
+TB: Spencer Torkelson 8; Matt Vierling 6; Andy Ibáñez 5; Andre Lipcius 2; Kerry Carpenter 2; Tyler Nevin 2; Jake Rogers.
+
+
+RBI: Spencer Torkelson 4 (76); Andy Ibáñez 3 (30); Matt Vierling 2 (32); Tyler Nevin (6).
+
+
+2-out RBI: Andy Ibáñez 2; Spencer Torkelson 2; Matt Vierling.
+
+
+Team LOB: 6.
+With RISP: 4 for 9.
+
+Pitching home
+Carlos Rodón;/players/r/rodonca01.shtml; L (2-5); 3.2;8;7;7;0;4;1;6.60;19;73;52;31;12;9;4;11;6;0;21;;;-0.358; 0.71;-0.02%; 0.06; -4.2
+Randy Vásquez;/players/v/vasqura02.shtml;Randy Vásquez; 2.1;3;1;1;2;5;1;2.36;12;50;28;9;7;12;2;3;1;0;;1;1;-0.030; 0.20;-0.00%; 0.02; -0.7
+Albert Abreu;/players/a/abreual01.shtml;Albert Abreu; 2 ;3;2;2;0;3;1;4.73;9;30;21;10;4;7;3;3;2;0;;0;0;-0.006; 0.09; 0.00%; 0.01; -1.0
+Matt Krook;/players/k/krookma01.shtml;Matt Krook; 1 ;0;0;0;0;2;0;15.75;3;11;8;2;5;1;1;0;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+Pitching away
+Eduardo Rodriguez;/players/r/rodried05.shtml; W (11-7); 6 ;4;3;3;4;4;1;3.18;24;89;53;28;8;17;9;7;3;0;52;;;0.080; 0.80; 0.00%; 0.02; 0.1
+Will Vest;/players/v/vestwi01.shtml;Will Vest; 1 ;0;0;0;0;2;0;3.35;3;14;10;3;3;4;1;0;0;0;;0;0;0.021; 0.28; 0.00%; 0.01; 0.5
+Miguel Díaz;/players/d/diazmi02.shtml;Miguel Díaz; 1 ;1;0;0;1;1;0;0.00;5;15;9;4;2;3;1;2;0;0;;0;0;0.004; 0.06; 0.00%; 0.00; 0.5
+Trey Wingenter;/players/w/wingetr01.shtml;Trey Wingenter; 1 ;1;0;0;1;2;0;6.30;5;25;16;10;2;4;1;1;1;0;;0;0;0.001; 0.03; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Carlos Rodón (7); Randy Vásquez (1).
+HBP: None.
+IBB: None.
+Pickoffs: Albert Abreu (1; Matt Vierling, 1st base).
+
+Balks: None.
+WP: Carlos Rodón (7); Randy Vásquez (1).
+HBP: None.
+IBB: None.
+Pickoffs: Albert Abreu (1; Matt Vierling, 1st base).
+
+section_content
+Umpires: HP - Alan Porter, 1B - Nate Tomlinson, 2B - Sean Barber, 3B - Mike Muchlinski, LF - (none), RF - (none).
+Time of Game: 2:43.
+Attendance: 32,722.
+Field Condition: Unknown.
+Start Time Weather: 90° F, Wind 10mph from Right to Left, Cloudy, No Precipitation.
+
+div_lineups
+Tigers
+1;Matt Vierling;/players/v/vierlma01.shtml;CF
+2;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+3;Andy Ibáñez;/players/i/ibanean01.shtml;2B
+4;Jake Rogers;/players/r/rogerja03.shtml;C
+5;Miguel Cabrera;/players/c/cabremi01.shtml;DH
+6;Kerry Carpenter;/players/c/carpeke01.shtml;RF
+7;Javier Báez;/players/b/baezja01.shtml;SS
+8;Tyler Nevin;/players/n/nevinty01.shtml;LF
+9;Andre Lipcius;/players/l/lipcian01.shtml;3B
+; Eduardo Rodriguez;/players/r/rodried05.shtml;P
+Yankees
+1;DJ LeMahieu;/players/l/lemahdj01.shtml;1B
+2;Aaron Judge;/players/j/judgeaa01.shtml;RF
+3;Jasson Domínguez;/players/d/dominja01.shtml;CF
+4;Gleyber Torres;/players/t/torregl01.shtml;2B
+5;Giancarlo Stanton;/players/s/stantmi03.shtml;DH
+6;Anthony Volpe;/players/v/volpean01.shtml;SS
+7;Kyle Higashioka;/players/h/higasky01.shtml;C
+8;Everson Pereira;/players/p/pereiev01.shtml;LF
+9;Oswald Peraza;/players/p/perazos02.shtml;3B
+; Carlos Rodón;/players/r/rodonca01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b2;1-2;1;1-3;3,(0-2) FFX;OO;NYY;Everson Pereira;Eduardo Rodriguez;13%;61%;Ground Ball Double Play: SS-2B-1B
+t3;2-1;0;1--;2,(0-1) CX;R;DET;Matt Vierling;Carlos Rodón;11%;76%;Double to LF (Line Drive to Deep LF-CF); Lipcius Scores
+b2;0-2;0;---;1,(0-0) X;R;NYY;Gleyber Torres;Eduardo Rodriguez;-10%;56%;Home Run (Fly Ball to Deep RF Line)
+t1;0-0;0;--3;6,(3-2) BBB.CC.X;RR;DET;Spencer Torkelson;Carlos Rodón;10%;68%;Home Run (Fly Ball to Deep RF); Vierling Scores
+b2;1-2;0;1--;6,(3-2) BBBCF.B;;NYY;Anthony Volpe;Eduardo Rodriguez;-6%;45%;Walk; Stanton to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Tigers Batting, Tied 0-0, Yankees' Carlos Rodón facing 1-2-3 
+t1;0-0;0;---;4,(1-2) CFBX;;DET;Matt Vierling;Carlos Rodón;6%;56%;Double to CF (Line Drive to Deep CF-RF)
+t1;0-0;0;-2-;3,(2-0) BBB;;DET;Spencer Torkelson;Carlos Rodón;3%;59%;Wild Pitch; Vierling to 3B
+t1;0-0;0;--3;6,(3-2) BBB.CC.X;RR;DET;Spencer Torkelson;Carlos Rodón;10%;68%;Home Run (Fly Ball to Deep RF); Vierling Scores
+t1;2-0;0;---;2,(0-1) FX;O;DET;Andy Ibáñez;Carlos Rodón;-2%;67%;Groundout: SS-1B
+t1;2-0;1;---;4,(1-2) CBFS;O;DET;Jake Rogers;Carlos Rodón;-1%;66%;Strikeout Swinging
+t1;2-0;2;---;4,(0-2) SFF*S;O;DET;Miguel Cabrera;Carlos Rodón;-1%;65%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Tigers 2, Yankees 0.
+Bottom of the 1st, Yankees Batting, Behind 0-2, Tigers' Eduardo Rodriguez facing 1-2-3 
+b1;0-2;0;---;4,(1-2) CCBX;O;NYY;DJ LeMahieu;Eduardo Rodriguez;2%;67%;Groundout: SS-1B
+b1;0-2;1;---;5,(2-2) CCBBS;O;NYY;Aaron Judge;Eduardo Rodriguez;2%;69%;Strikeout Swinging
+b1;0-2;2;---;1,(0-0) X;O;NYY;Jasson Domínguez;Eduardo Rodriguez;1%;70%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 2, Yankees 0.
+Top of the 2nd, Tigers Batting, Ahead 2-0, Yankees' Carlos Rodón facing 6-7-8 
+t2;2-0;0;---;2,(0-1) .SX;O;DET;Kerry Carpenter;Carlos Rodón;-2%;68%;Flyball: LF (LF-CF)
+t2;2-0;1;---;5,(2-2) FBBS.S;O;DET;Javier Báez;Carlos Rodón;-1%;67%;Strikeout Swinging
+t2;2-0;2;---;1,(0-0) X;O;DET;Tyler Nevin;Carlos Rodón;-1%;66%;Flyball: CF (CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 2, Yankees 0.
+Bottom of the 2nd, Yankees Batting, Behind 0-2, Tigers' Eduardo Rodriguez facing 4-5-6 
+b2;0-2;0;---;1,(0-0) X;R;NYY;Gleyber Torres;Eduardo Rodriguez;-10%;56%;Home Run (Fly Ball to Deep RF Line)
+b2;1-2;0;---;6,(3-2) BBBCFFV;;NYY;Giancarlo Stanton;Eduardo Rodriguez;-4%;52%;Walk
+b2;1-2;0;1--;6,(3-2) BBBCF.B;;NYY;Anthony Volpe;Eduardo Rodriguez;-6%;45%;Walk; Stanton to 2B
+b2;1-2;0;12-;3,(1-1) BCX;O;NYY;Kyle Higashioka;Eduardo Rodriguez;3%;48%;Groundout: SS-2B/Forceout at 2B; Stanton to 3B; Higashioka to 1B
+b2;1-2;1;1-3;3,(0-2) FFX;OO;NYY;Everson Pereira;Eduardo Rodriguez;13%;61%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Tigers 2, Yankees 1.
+Top of the 3rd, Tigers Batting, Ahead 2-1, Yankees' Carlos Rodón facing 9-1-2 
+t3;2-1;0;---;4,(2-1) BBSX;;DET;Andre Lipcius;Carlos Rodón;3%;65%;Single to RF (Line Drive to Deep CF-RF)
+t3;2-1;0;1--;2,(0-1) CX;R;DET;Matt Vierling;Carlos Rodón;11%;76%;Double to LF (Line Drive to Deep LF-CF); Lipcius Scores
+t3;3-1;0;-2-;3,(0-2) FCX;O;DET;Spencer Torkelson;Carlos Rodón;-1%;75%;Flyball: CF (Deep LF-CF); Vierling to 3B
+t3;3-1;1;--3;2,(0-1) F.X;RO;DET;Andy Ibáñez;Carlos Rodón;2%;77%;Flyball: CF/Sacrifice Fly (Deep CF); Vierling Scores
+t3;4-1;2;---;3,(1-1) SBX;;DET;Jake Rogers;Carlos Rodón;1%;78%;Single to LF (Line Drive to LF-CF)
+t3;4-1;2;1--;5,(0-2) CS.FFX;O;DET;Miguel Cabrera;Carlos Rodón;-1%;76%;Groundout: SS-1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Tigers 4, Yankees 1.
+Bottom of the 3rd, Yankees Batting, Behind 1-4, Tigers' Eduardo Rodriguez facing 9-1-2 
+b3;1-4;0;---;4,(1-2) CBS.X;O;NYY;Oswald Peraza;Eduardo Rodriguez;2%;79%;Lineout: 2B (Deep 2B)
+b3;1-4;1;---;5,(3-1) BBCBB;;NYY;DJ LeMahieu;Eduardo Rodriguez;-3%;76%;Walk
+b3;1-4;1;1--;2,(1-0) BX;O;NYY;Aaron Judge;Eduardo Rodriguez;3%;79%;Flyball: CF (Deep CF)
+b3;1-4;2;1--;7,(3-2) BS*BBC>F>C;O;NYY;Jasson Domínguez;Eduardo Rodriguez;2%;81%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Tigers 4, Yankees 1.
+Top of the 4th, Tigers Batting, Ahead 4-1, Yankees' Carlos Rodón facing 6-7-8 
+t4;4-1;0;---;5,(3-1) B.BBFX;;DET;Kerry Carpenter;Carlos Rodón;2%;83%;Single to 1B (Ground Ball to 2B-1B)
+t4;4-1;0;1--;7,(2-2) SSBFBFT;O;DET;Javier Báez;Carlos Rodón;-2%;81%;Strikeout Swinging
+t4;4-1;1;1--;1,(0-0) >B;;DET;Tyler Nevin;Carlos Rodón;1%;82%;Carpenter Steals 2B
+t4;4-1;1;-2-;3,(1-1) >B.CX;R;DET;Tyler Nevin;Carlos Rodón;6%;88%;Double to LF (Line Drive to LF Line); Carpenter Scores
+t4;5-1;1;-2-;5,(2-2) BBFCX;O;DET;Andre Lipcius;Carlos Rodón;-1%;87%;Groundout: SS-1B (SS-2B); Nevin to 3B
+t4;5-1;2;--3;6,(3-2) SBBF.BX;R;DET;Matt Vierling;Carlos Rodón;4%;91%;Single to RF (Line Drive to Short RF); Nevin Scores
+;;;;;;;;;Randy Vásquez replaces Carlos Rodón pitching
+t4;6-1;2;1--;2,(1-0) .BX;RR;DET;Spencer Torkelson;Randy Vásquez;5%;97%;Home Run (Fly Ball to Deep LF Line); Vierling Scores
+t4;8-1;2;---;6,(3-2) CCBBBX;;DET;Andy Ibáñez;Randy Vásquez;0%;97%;Single to RF (Ground Ball thru 2B-1B)
+t4;8-1;2;1--;1,(0-0) X;O;DET;Jake Rogers;Randy Vásquez;0%;96%;Foul Popfly: C (Behind Home)
+;;;;;;;;;4 runs, 5 hits, 0 errors, 1 LOB. Tigers 8, Yankees 1.
+Bottom of the 4th, Yankees Batting, Behind 1-8, Tigers' Eduardo Rodriguez facing 4-5-6 
+b4;1-8;0;---;7,(3-2) BCCBB.FB;;NYY;Gleyber Torres;Eduardo Rodriguez;-1%;95%;Walk
+b4;1-8;0;1--;3,(1-1) SBX;O;NYY;Giancarlo Stanton;Eduardo Rodriguez;1%;96%;Groundout: C-1B; Torres to 2B
+b4;1-8;1;-2-;1,(0-0) X;;NYY;Anthony Volpe;Eduardo Rodriguez;-2%;94%;Single to RF (Ground Ball); Torres to 3B
+b4;1-8;1;1-3;1,(0-0) X;O;NYY;Kyle Higashioka;Eduardo Rodriguez;2%;96%;Popfly: SS
+b4;1-8;2;1-3;1,(0-0) X;RR;NYY;Everson Pereira;Eduardo Rodriguez;-5%;92%;Double to LF (Line Drive to Deep LF); Torres Scores; Volpe Scores
+b4;3-8;2;-2-;1,(0-0) X;O;NYY;Oswald Peraza;Eduardo Rodriguez;2%;94%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Tigers 8, Yankees 3.
+Top of the 5th, Tigers Batting, Ahead 8-3, Yankees' Randy Vásquez facing 5-6-7 
+t5;8-3;0;---;4,(1-2) CSBS;O;DET;Miguel Cabrera;Randy Vásquez;-1%;93%;Strikeout Swinging
+t5;8-3;1;---;4,(0-2) FTFX;O;DET;Kerry Carpenter;Randy Vásquez;0%;93%;Groundout: P-1B (P's Left)
+t5;8-3;2;---;5,(3-1) BBBCB;;DET;Javier Báez;Randy Vásquez;0%;93%;Walk
+t5;8-3;2;1--;4,(1-2) C1SBS;O;DET;Tyler Nevin;Randy Vásquez;-1%;92%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Tigers 8, Yankees 3.
+Bottom of the 5th, Yankees Batting, Behind 3-8, Tigers' Eduardo Rodriguez facing 1-2-3 
+b5;3-8;0;---;3,(1-1) CBX;;NYY;DJ LeMahieu;Eduardo Rodriguez;-2%;90%;Single to 3B (Ground Ball to Weak 3B)
+b5;3-8;0;1--;3,(2-0) BBX;O;NYY;Aaron Judge;Eduardo Rodriguez;2%;92%;Flyball: CF
+b5;3-8;1;1--;4,(2-1) *BBCX;OO;NYY;Jasson Domínguez;Eduardo Rodriguez;3%;95%;Ground Ball Double Play: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Tigers 8, Yankees 3.
+Top of the 6th, Tigers Batting, Ahead 8-3, Yankees' Randy Vásquez facing 9-1-2 
+t6;8-3;0;---;3,(1-1) BCX;;DET;Andre Lipcius;Randy Vásquez;1%;96%;Single to LF (Line Drive to LF-CF)
+t6;8-3;0;1--;4,(1-2) C*BFS;O;DET;Matt Vierling;Randy Vásquez;-1%;95%;Strikeout Swinging
+t6;8-3;1;1--;5,(3-1) BBBCB;;DET;Spencer Torkelson;Randy Vásquez;1%;96%;Walk; Lipcius to 2B
+t6;8-3;1;12-;6,(3-2) BB*BCSC;O;DET;Andy Ibáñez;Randy Vásquez;-1%;95%;Strikeout Looking
+t6;8-3;2;12-;2,(0-1) CB;;DET;Jake Rogers;Randy Vásquez;0%;95%;Wild Pitch; Lipcius to 3B; Torkelson to 2B
+t6;8-3;2;-23;6,(3-2) CB.BSBC;O;DET;Jake Rogers;Randy Vásquez;-1%;94%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Tigers 8, Yankees 3.
+Bottom of the 6th, Yankees Batting, Behind 3-8, Tigers' Eduardo Rodriguez facing 4-5-6 
+b6;3-8;0;---;6,(1-2) SBFFFX;O;NYY;Gleyber Torres;Eduardo Rodriguez;1%;96%;Groundout: 3B-1B
+b6;3-8;1;---;7,(3-2) SBBBSFS;O;NYY;Giancarlo Stanton;Eduardo Rodriguez;1%;96%;Strikeout Swinging
+b6;3-8;2;---;5,(2-2) BBFCC;O;NYY;Anthony Volpe;Eduardo Rodriguez;0%;97%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 8, Yankees 3.
+Top of the 7th, Tigers Batting, Ahead 8-3, Yankees' Albert Abreu facing 5-6-7 
+;;;;;;;;;Albert Abreu replaces Randy Vásquez pitching
+t7;8-3;0;---;2,(0-1) .CX;O;DET;Miguel Cabrera;Albert Abreu;0%;96%;Lineout: 3B (Deep 3B)
+t7;8-3;1;---;3,(1-1) BFX;;DET;Kerry Carpenter;Albert Abreu;0%;97%;Single to LF (Line Drive to Short LF)
+t7;8-3;1;1--;3,(0-2) CFS;O;DET;Javier Báez;Albert Abreu;0%;96%;Strikeout Swinging
+t7;8-3;2;1--;2,(0-1) SX;O;DET;Tyler Nevin;Albert Abreu;0%;96%;Groundout: SS-2B/Forceout at 2B; Nevin to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Tigers 8, Yankees 3.
+Bottom of the 7th, Yankees Batting, Behind 3-8, Tigers' Will Vest facing 7-8-9 
+;;;;;;;;;Will Vest replaces Eduardo Rodriguez pitchingMatt Vierling moves from CF to LF Parker Meadows replaces Tyler Nevin (LF) playing CF batting 8th
+b7;3-8;0;---;4,(1-2) ...CBS.C;O;NYY;Kyle Higashioka;Will Vest;1%;97%;Strikeout Looking
+b7;3-8;1;---;4,(1-2) CB.SS;O;NYY;Everson Pereira;Will Vest;1%;98%;Strikeout Swinging
+b7;3-8;2;---;6,(2-2) CFBBFX;O;NYY;Oswald Peraza;Will Vest;0%;98%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 8, Yankees 3.
+Top of the 8th, Tigers Batting, Ahead 8-3, Yankees' Albert Abreu facing 9-1-2 
+t8;8-3;0;---;6,(3-2) BBSCBX;O;DET;Andre Lipcius;Albert Abreu;0%;98%;Groundout: 3B-1B (SS-3B Hole)
+t8;8-3;1;---;4,(2-1) BFBX;;DET;Matt Vierling;Albert Abreu;0%;98%;Single to CF (Ground Ball thru SS-2B)
+t8;8-3;1;1--;,(0-0) 1;;DET;Spencer Torkelson;Albert Abreu;0%;98%;Vierling Picked off 1B, safe on E1 (throw); Vierling to 2B
+t8;8-3;1;-2-;5,(2-2) 1.BBCCC;O;DET;Spencer Torkelson;Albert Abreu;0%;98%;Strikeout Looking
+t8;8-3;2;-2-;1,(0-0) X;RR;DET;Andy Ibáñez;Albert Abreu;1%;100%;Home Run (Fly Ball to Deep CF-RF); Vierling Scores
+t8;10-3;2;---;4,(1-2) CFBS;O;DET;Jake Rogers;Albert Abreu;0%;100%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 1 error, 0 LOB. Tigers 10, Yankees 3.
+Bottom of the 8th, Yankees Batting, Behind 3-10, Tigers' Miguel Díaz facing 1-2-3 
+;;;;;;;;;Miguel Díaz replaces Will Vest pitchingAkil Baddoo replaces Matt Vierling playing LF batting 1st
+b8;3-10;0;---;2,(0-1) ..CX;O;NYY;DJ LeMahieu;Miguel Díaz;0%;100%;Flyball: RF (Short RF)
+b8;3-10;1;---;2,(1-0) BX;O;NYY;Aaron Judge;Miguel Díaz;0%;100%;Flyball: RF (Deep RF)
+b8;3-10;2;---;6,(3-2) BBBCSB;;NYY;Jasson Domínguez;Miguel Díaz;0%;100%;Walk
+b8;3-10;2;1--;2,(1-0) BX;;NYY;Gleyber Torres;Miguel Díaz;0%;100%;Single to LF (Ground Ball thru SS-3B Hole); Domínguez to 2B
+b8;3-10;2;12-;3,(0-2) CFS;O;NYY;Giancarlo Stanton;Miguel Díaz;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Tigers 10, Yankees 3.
+Top of the 9th, Tigers Batting, Ahead 10-3, Yankees' Matt Krook facing 5-6-7 
+;;;;;;;;;Matt Krook replaces Albert Abreu pitchingJake Bauers replaces DJ LeMahieu playing 1B batting 1stOswaldo Cabrera replaces Aaron Judge playing RF batting 2nd
+t9;10-3;0;---;4,(1-2) ...BSF*S;O;DET;Miguel Cabrera;Matt Krook;0%;100%;Strikeout Swinging
+t9;10-3;1;---;3,(0-2) CSS;O;DET;Kerry Carpenter;Matt Krook;0%;100%;Strikeout Swinging
+t9;10-3;2;---;4,(2-1) BBSX;O;DET;Javier Báez;Matt Krook;0%;100%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 10, Yankees 3.
+Bottom of the 9th, Yankees Batting, Behind 3-10, Tigers' Trey Wingenter facing 6-7-8 
+;;;;;;;;;Trey Wingenter replaces Miguel Díaz pitching
+b9;3-10;0;---;5,(2-2) .BFBFS;O;NYY;Anthony Volpe;Trey Wingenter;0%;100%;Strikeout Swinging
+b9;3-10;1;---;6,(3-2) CBBBCB;;NYY;Kyle Higashioka;Trey Wingenter;0%;100%;Walk
+b9;3-10;1;1--;2,(0-1) CX;O;NYY;Everson Pereira;Trey Wingenter;0%;100%;Lineout: 3B (SS-3B Hole)
+b9;3-10;2;1--;3,(0-2) >FFX;;NYY;Oswald Peraza;Trey Wingenter;0%;100%;Single to 3B (Ground Ball to SS-3B Hole); Higashioka to 2B
+b9;3-10;2;12-;9,(3-2) CFBBF*B.>F>F>S;O;NYY;Jake Bauers;Trey Wingenter;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Tigers 10, Yankees 3.

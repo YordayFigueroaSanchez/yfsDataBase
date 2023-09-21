@@ -1,0 +1,252 @@
+
+Scorebox Meta
+20230814
+6:40 p.m. Local
+24157
+Coors Field
+139
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/ARI-2023.png;/teams/ARI/2023.shtml;1;1;0;0;0;2;0;0;0;4;5;0
+https://cdn.ssref.net/req/202308251/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;0;0;0;1;1;0;4;X;6;11;0
+
+Batting home
+Charlie Blackmon;/players/b/blackch02.shtml;DH-RF;3;1;2;0;1;0;4;.271;.354;.425;.779;13;8;0.113; 0.98;0.131;-0.018;0%; 0.00; 0.8;0;0;
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;4;2;3;1;0;1;4;.260;.294;.434;.728;21;16;0.226; 1.65;0.261;-0.035;0%; 0.00; 1.6;0;4;HR,2B
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;4;1;1;0;0;3;4;.250;.334;.460;.794;18;12;0.005; 2.25;0.144;-0.138;0%; 0.00; -0.5;0;0;
+Elias Díaz;/players/d/diazel01.shtml;C;4;0;0;0;0;1;4;.263;.318;.411;.728;17;11;-0.222; 1.95;0.000;-0.222;0%; 0.00; -1.5;10;1;
+Brendan Rodgers;/players/r/rodgebr02.shtml;2B;4;1;2;2;0;1;4;.205;.244;.231;.475;16;12;0.336; 2.06;0.384;-0.048;0%; 0.00; 1.4;0;6;2B
+Nolan Jones;/players/j/jonesno01.shtml;LF;4;0;1;1;0;1;4;.267;.346;.481;.827;12;9;0.045; 1.63;0.128;-0.082;0%; 0.00; 0.0;1;0;
+Michael Toglia;/players/t/toglimi01.shtml;RF;3;0;0;0;0;3;3;.155;.209;.233;.442;14;9;-0.090; 1.11;0.000;-0.090;0%; 0.00; -0.7;3;0;
+Alan Trejo;/players/t/trejoal01.shtml;PH;1;0;1;1;0;0;1;.253;.292;.361;.652;3;2;0.048; 1.19;0.048;0.000;0%; 0.00; 0.4;;;
+Justin Lawrence;/players/l/lawreju01.shtml;P;0;0;0;0;0;0;0;;;;;;;;;;;;;;0;0;
+Elehuris Montero;/players/m/monteel01.shtml;1B;4;1;1;1;0;0;4;.194;.220;.344;.564;9;8;0.047; 0.89;0.119;-0.072;0%; 0.00; 0.2;11;0;HR
+Brenton Doyle;/players/d/doylebr02.shtml;CF;3;0;0;0;0;3;3;.194;.252;.318;.570;11;9;-0.065; 0.81;0.000;-0.065;0%; 0.00; -0.5;1;0;
+Chris Flexen;/players/f/flexech01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brent Suter;/players/s/suterbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Matt Koch;/players/k/kochma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ezequiel Tovar (27, off Merrill Kelly); Brendan Rodgers (1, off Merrill Kelly).
+
+
+HR: Elehuris Montero (5, off Merrill Kelly, 5th inn, 0 on, 1 out to Deep CF); Ezequiel Tovar (13, off Merrill Kelly, 6th inn, 0 on, 0 outs to Deep LF).
+
+
+TB: Ezequiel Tovar 7; Elehuris Montero 4; Brendan Rodgers 3; Charlie Blackmon 2; Nolan Jones; Ryan McMahon; Alan Trejo.
+
+
+RBI: Brendan Rodgers 2 (4); Elehuris Montero (20); Nolan Jones (30); Ezequiel Tovar (53); Alan Trejo (20).
+
+
+Team LOB: 5.
+With RISP: 4 for 8.
+
+Batting away
+Corbin Carroll;/players/c/carroco02.shtml;RF;3;1;0;0;1;2;4;.269;.350;.509;.858;19;9;-0.021; 0.70;0.034;-0.055;-0.01%; 0.48; -0.4;2;0;
+Ketel Marte;/players/m/marteke01.shtml;2B;4;0;0;0;0;2;4;.278;.354;.487;.841;13;11;-0.093; 0.90;0.000;-0.093;-0.04%; 0.62; -1.1;0;1;
+Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF;4;1;1;0;0;0;4;.255;.304;.468;.772;8;7;-0.024; 0.70;0.028;-0.053;-0.01%; 0.49; -0.4;2;1;
+Christian Walker;/players/w/walkech02.shtml;1B;4;1;2;3;0;1;4;.270;.342;.523;.866;16;10;0.229; 1.04;0.284;-0.055; 0.10%; 0.72; 2.4;3;0;HR,2B
+Kyle Lewis;/players/l/lewisky01.shtml;DH;4;0;0;0;0;2;4;.162;.205;.270;.475;16;10;-0.090; 0.81;0.000;-0.090;-0.04%; 0.56; -1.0;;;
+Jace Peterson;/players/p/peterja01.shtml;3B;4;0;0;0;0;3;4;.216;.310;.310;.620;17;11;-0.060; 0.55;0.000;-0.060;-0.03%; 0.38; -0.7;2;2;
+Alek Thomas;/players/t/thomaal01.shtml;CF;3;1;1;0;0;0;3;.237;.271;.415;.686;5;5;0.008; 0.57;0.037;-0.030; 0.00%; 0.39; 0.0;1;0;2B
+Gabriel Moreno;/players/m/morenga01.shtml;C;3;0;1;1;0;0;3;.274;.319;.367;.686;14;10;0.051; 0.81;0.086;-0.035; 0.02%; 0.56; 0.5;13;0;2B
+Geraldo Perdomo;/players/p/perdoge01.shtml;SS;3;0;0;0;0;1;3;.267;.368;.401;.768;11;8;-0.054; 0.64;0.000;-0.054;-0.02%; 0.44; -0.7;1;0;
+Merrill Kelly;/players/k/kellyme01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Miguel Castro;/players/c/castrmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joe Mantiply;/players/m/mantijo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Scott McGough;/players/m/mcgousc01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kyle Nelson;/players/n/nelsoky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Christian Walker (34, off Chris Flexen); Alek Thomas (14, off Chris Flexen); Gabriel Moreno (12, off Chris Flexen).
+
+
+HR: Christian Walker (25, off Chris Flexen, 6th inn, 1 on, 1 out to Deep RF).
+
+
+TB: Christian Walker 6; Gabriel Moreno 2; Alek Thomas 2; Lourdes Gurriel Jr..
+
+
+RBI: Christian Walker 3 (76); Gabriel Moreno (29).
+
+
+2-out RBI: Christian Walker.
+
+
+Team LOB: 2.
+With RISP: 1 for 4.
+
+Pitching home
+Chris Flexen;/players/f/flexech01.shtml;Chris Flexen; 6 ;5;4;4;1;6;1;7.74;24;83;55;29;9;17;7;10;4;0;51;;;-0.114; 0.78; 0.00%; 0.00; -0.4
+Brent Suter;/players/s/suterbr01.shtml;Brent Suter; 1 ;0;0;0;0;0;0;2.47;3;10;7;3;0;4;3;0;0;0;;0;0;0.044; 0.54; 0.00%; 0.00; 0.6
+Matt Koch;/players/k/kochma01.shtml; W (2-0); 1 ;0;0;0;0;2;0;1.64;3;11;9;6;2;1;1;0;0;0;;0;0;0.038; 0.46; 0.00%; 0.00; 0.6
+Justin Lawrence;/players/l/lawreju01.shtml; S (10); 1 ;0;0;0;0;3;0;2.76;3;15;10;4;3;3;0;0;0;0;;0;0;0.088; 1.09; 0.00%; 0.00; 0.6
+
+Pitching away
+Merrill Kelly;/players/k/kellyme01.shtml;Merrill Kelly; 6 ;5;2;2;1;11;2;3.05;24;92;65;36;16;13;4;8;4;0;64;;;0.181; 1.00; 0.07%; 0.69; 1.6
+Miguel Castro;/players/c/castrmi01.shtml; H (11); 1 ;0;0;0;0;2;0;3.86;3;14;10;3;3;4;1;0;0;0;;0;0;0.093; 1.16; 0.04%; 0.80; 0.6
+Joe Mantiply;/players/m/mantijo01.shtml; L (1-1); 0 ;3;3;3;0;0;0;7.20;3;11;9;6;0;3;1;2;2;0;;0;0;-0.344; 3.04;-0.14%; 2.10; -1.9
+Scott McGough;/players/m/mcgousc01.shtml; BS (5); 0.1;2;1;1;0;0;0;4.76;3;12;8;7;0;1;2;1;1;0;;3;3;-0.340; 4.75;-0.14%; 3.28; -1.6
+Kyle Nelson;/players/n/nelsoky01.shtml;Kyle Nelson; 0.2;1;0;0;0;0;0;3.16;2;5;4;4;0;0;0;2;2;0;;2;1;-0.035; 0.81;-0.01%; 0.56; 0.0
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Brian Knight, 1B - Todd Tichenor, 2B - Tony Randazzo, 3B - Alex Tosi, LF - (none), RF - (none).
+Time of Game: 2:19.
+Attendance: 24,157.
+Field Condition: Unknown.
+Start Time Weather: 79° F, Wind 5mph in from Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Diamondbacks
+1;Corbin Carroll;/players/c/carroco02.shtml;RF
+2;Ketel Marte;/players/m/marteke01.shtml;2B
+3;Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF
+4;Christian Walker;/players/w/walkech02.shtml;1B
+5;Kyle Lewis;/players/l/lewisky01.shtml;DH
+6;Jace Peterson;/players/p/peterja01.shtml;3B
+7;Alek Thomas;/players/t/thomaal01.shtml;CF
+8;Gabriel Moreno;/players/m/morenga01.shtml;C
+9;Geraldo Perdomo;/players/p/perdoge01.shtml;SS
+; Merrill Kelly;/players/k/kellyme01.shtml;P
+Rockies
+1;Charlie Blackmon;/players/b/blackch02.shtml;DH
+2;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+3;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+4;Elias Díaz;/players/d/diazel01.shtml;C
+5;Brendan Rodgers;/players/r/rodgebr02.shtml;2B
+6;Nolan Jones;/players/j/jonesno01.shtml;LF
+7;Michael Toglia;/players/t/toglimi01.shtml;RF
+8;Elehuris Montero;/players/m/monteel01.shtml;1B
+9;Brenton Doyle;/players/d/doylebr02.shtml;CF
+; Chris Flexen;/players/f/flexech01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b8;2-4;1;123;8,(3-2) C*BBFFBFX;RR;COL;Brendan Rodgers;Scott McGough;35%;75%;Single to CF (Ground Ball thru SS-2B); Blackmon Scores; Tovar Scores; McMahon to 3B
+t6;2-1;1;1--;2,(0-1) FX;RR;ARI;Christian Walker;Chris Flexen;-19%;17%;Home Run (Fly Ball to Deep RF); Gurriel Scores
+b8;2-4;0;12-;3,(1-1) CBX;;COL;Ryan McMahon;Joe Mantiply;14%;54%;Single to CF (Line Drive); Blackmon to 3B; Tovar to 2B
+b8;2-4;0;123;3,(1-1) .BFX;O;COL;Elias Díaz;Scott McGough;-14%;40%;Lineout: SS
+b8;4-4;1;1-3;1,(0-0) X;R;COL;Nolan Jones;Scott McGough;13%;88%;Single to CF (Ground Ball thru SS-2B); McMahon Scores; Rodgers to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Diamondbacks Batting, Tied 0-0, Rockies' Chris Flexen facing 1-2-3 
+t1;0-0;0;---;4,(3-0) BBBB;;ARI;Corbin Carroll;Chris Flexen;-3%;47%;Walk
+t1;0-0;0;1--;3,(0-2) CSC;O;ARI;Ketel Marte;Chris Flexen;3%;50%;Strikeout Looking
+t1;0-0;1;1--;2,(1-0) .BX;O;ARI;Lourdes Gurriel Jr.;Chris Flexen;3%;53%;Flyball: CF (Deep CF-RF)
+t1;0-0;2;1--;3,(1-1) CBX;R;ARI;Christian Walker;Chris Flexen;-10%;43%;Double to RF (Fly Ball to Deep RF); Carroll Scores
+t1;1-0;2;-2-;1,(0-0) X;O;ARI;Kyle Lewis;Chris Flexen;3%;46%;Groundout: SS-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Diamondbacks 1, Rockies 0.
+Bottom of the 1st, Rockies Batting, Behind 0-1, Diamondbacks' Merrill Kelly facing 1-2-3 
+b1;0-1;0;---;6,(3-2) BFBBCB;;COL;Charlie Blackmon;Merrill Kelly;4%;50%;Walk
+b1;0-1;0;1--;8,(1-2) CBTFFFFS;O;COL;Ezequiel Tovar;Merrill Kelly;-4%;46%;Strikeout Swinging
+b1;0-1;1;1--;4,(1-2) BFS.C;O;COL;Ryan McMahon;Merrill Kelly;-3%;43%;Strikeout Looking
+b1;0-1;2;1--;4,(1-2) CTB>S;O;COL;Elias Díaz;Merrill Kelly;-2%;41%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Diamondbacks 1, Rockies 0.
+Top of the 2nd, Diamondbacks Batting, Ahead 1-0, Rockies' Chris Flexen facing 6-7-8 
+t2;1-0;0;---;5,(2-2) BCBFC;O;ARI;Jace Peterson;Chris Flexen;2%;43%;Strikeout Looking
+t2;1-0;1;---;2,(0-1) FX;;ARI;Alek Thomas;Chris Flexen;-4%;39%;Double to LF (Line Drive to Deep LF)
+t2;1-0;1;-2-;5,(1-2) C*SFBX;R;ARI;Gabriel Moreno;Chris Flexen;-9%;31%;Double to CF (Line Drive to Deep CF-RF); Thomas Scores
+t2;2-0;1;-2-;3,(0-2) SC.*S;O;ARI;Geraldo Perdomo;Chris Flexen;3%;33%;Strikeout Swinging; Perdomo out at 1B/C-1B
+t2;2-0;2;-2-;6,(3-2) BBBCFS;O;ARI;Corbin Carroll;Chris Flexen;3%;36%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Diamondbacks 2, Rockies 0.
+Bottom of the 2nd, Rockies Batting, Behind 0-2, Diamondbacks' Merrill Kelly facing 5-6-7 
+b2;0-2;0;---;2,(0-1) FX;O;COL;Brendan Rodgers;Merrill Kelly;-3%;34%;Groundout: 2B-1B (Deep SS-2B)
+b2;0-2;1;---;5,(2-2) C.CBBT;O;COL;Nolan Jones;Merrill Kelly;-2%;32%;Strikeout Swinging
+b2;0-2;2;---;5,(2-2) CSBBC;O;COL;Michael Toglia;Merrill Kelly;-1%;30%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 2, Rockies 0.
+Top of the 3rd, Diamondbacks Batting, Ahead 2-0, Rockies' Chris Flexen facing 2-3-4 
+t3;2-0;0;---;2,(0-1) SX;O;ARI;Ketel Marte;Chris Flexen;2%;32%;Groundout: SS-1B (Deep SS-2B)
+t3;2-0;1;---;2,(0-1) CX;O;ARI;Lourdes Gurriel Jr.;Chris Flexen;1%;34%;Groundout: SS-1B
+t3;2-0;2;---;6,(3-2) .BBCBSX;O;ARI;Christian Walker;Chris Flexen;1%;35%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 2, Rockies 0.
+Bottom of the 3rd, Rockies Batting, Behind 0-2, Diamondbacks' Merrill Kelly facing 8-9-1 
+b3;0-2;0;---;1,(0-0) X;O;COL;Elehuris Montero;Merrill Kelly;-3%;32%;Lineout: RF (Deep CF-RF)
+b3;0-2;1;---;3,(0-2) CS.C;O;COL;Brenton Doyle;Merrill Kelly;-2%;30%;Strikeout Looking
+b3;0-2;2;---;2,(1-0) BX;;COL;Charlie Blackmon;Merrill Kelly;1%;32%;Single to RF (Line Drive to Deep RF)
+b3;0-2;2;1--;5,(2-2) BBFFX;;COL;Ezequiel Tovar;Merrill Kelly;4%;36%;Double to LF (Ground Ball); Blackmon to 3B
+b3;0-2;2;-23;4,(1-2) SBS.S;O;COL;Ryan McMahon;Merrill Kelly;-7%;29%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Diamondbacks 2, Rockies 0.
+Top of the 4th, Diamondbacks Batting, Ahead 2-0, Rockies' Chris Flexen facing 5-6-7 
+t4;2-0;0;---;4,(2-1) B.CBX;O;ARI;Kyle Lewis;Chris Flexen;2%;31%;Flyball: RF (Deep CF-RF)
+t4;2-0;1;---;6,(3-2) BCBS.BC;O;ARI;Jace Peterson;Chris Flexen;2%;32%;Strikeout Looking
+t4;2-0;2;---;1,(0-0) X;O;ARI;Alek Thomas;Chris Flexen;1%;33%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 2, Rockies 0.
+Bottom of the 4th, Rockies Batting, Behind 0-2, Diamondbacks' Merrill Kelly facing 4-5-6 
+b4;0-2;0;---;3,(1-1) FBX;O;COL;Elias Díaz;Merrill Kelly;-3%;30%;Lineout: CF (Deep CF)
+b4;0-2;1;---;4,(0-2) CFFS;O;COL;Brendan Rodgers;Merrill Kelly;-2%;28%;Strikeout Swinging
+b4;0-2;2;---;4,(1-2) SFBX;O;COL;Nolan Jones;Merrill Kelly;-1%;27%;Lineout: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 2, Rockies 0.
+Top of the 5th, Diamondbacks Batting, Ahead 2-0, Rockies' Chris Flexen facing 8-9-1 
+t5;2-0;0;---;4,(1-2) FBFX;O;ARI;Gabriel Moreno;Chris Flexen;2%;29%;Lineout: RF
+t5;2-0;1;---;5,(2-2) CBFBX;O;ARI;Geraldo Perdomo;Chris Flexen;2%;30%;Groundout: 1B unassisted
+t5;2-0;2;---;4,(1-2) BFSX;O;ARI;Corbin Carroll;Chris Flexen;1%;31%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 2, Rockies 0.
+Bottom of the 5th, Rockies Batting, Behind 0-2, Diamondbacks' Merrill Kelly facing 7-8-9 
+b5;0-2;0;---;4,(1-2) SBFT;O;COL;Michael Toglia;Merrill Kelly;-3%;28%;Strikeout Swinging
+b5;0-2;1;---;1,(0-0) X;R;COL;Elehuris Montero;Merrill Kelly;12%;40%;Home Run (Fly Ball to Deep CF)
+b5;1-2;1;---;4,(1-2) SSBT;O;COL;Brenton Doyle;Merrill Kelly;-3%;37%;Strikeout Swinging
+b5;1-2;2;---;3,(0-2) FFX;O;COL;Charlie Blackmon;Merrill Kelly;-2%;36%;Groundout: 3B-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Diamondbacks 2, Rockies 1.
+Top of the 6th, Diamondbacks Batting, Ahead 2-1, Rockies' Chris Flexen facing 2-3-4 
+t6;2-1;0;---;5,(2-2) CBCBX;O;ARI;Ketel Marte;Chris Flexen;3%;38%;Groundout: 2B-1B (2B-1B)
+t6;2-1;1;---;1,(0-0) X;;ARI;Lourdes Gurriel Jr.;Chris Flexen;-3%;36%;Single to RF (Line Drive)
+t6;2-1;1;1--;2,(0-1) FX;RR;ARI;Christian Walker;Chris Flexen;-19%;17%;Home Run (Fly Ball to Deep RF); Gurriel Scores
+t6;4-1;1;---;6,(2-2) BFFBFC;O;ARI;Kyle Lewis;Chris Flexen;1%;18%;Strikeout Looking
+t6;4-1;2;---;1,(0-0) X;O;ARI;Jace Peterson;Chris Flexen;1%;19%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Diamondbacks 4, Rockies 1.
+Bottom of the 6th, Rockies Batting, Behind 1-4, Diamondbacks' Merrill Kelly facing 2-3-4 
+b6;1-4;0;---;2,(1-0) BX;R;COL;Ezequiel Tovar;Merrill Kelly;10%;29%;Home Run (Fly Ball to Deep LF)
+b6;2-4;0;---;7,(3-2) BBBCS.FS;O;COL;Ryan McMahon;Merrill Kelly;-4%;25%;Strikeout Swinging
+b6;2-4;1;---;7,(3-2) CFBBFBX;O;COL;Elias Díaz;Merrill Kelly;-3%;22%;Flyball: RF (Short RF)
+b6;2-4;2;---;2,(1-0) BX;;COL;Brendan Rodgers;Merrill Kelly;3%;25%;Double to 3B (Ground Ball to SS-3B Hole)
+b6;2-4;2;-2-;2,(0-1) SX;O;COL;Nolan Jones;Merrill Kelly;-5%;20%;Flyball: LF (Deep LF Line)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Diamondbacks 4, Rockies 2.
+Top of the 7th, Diamondbacks Batting, Ahead 4-2, Rockies' Brent Suter facing 7-8-9 
+;;;;;;;;;Brent Suter replaces Chris Flexen pitching
+t7;4-2;0;---;2,(0-1) .CX;O;ARI;Alek Thomas;Brent Suter;2%;22%;Groundout: 2B-1B (2B-1B)
+t7;4-2;1;---;5,(2-2) BBCCX;O;ARI;Gabriel Moreno;Brent Suter;1%;24%;Groundout: SS-1B (SS-2B)
+t7;4-2;2;---;3,(1-1) CBX;O;ARI;Geraldo Perdomo;Brent Suter;1%;25%;Groundout: 2B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 4, Rockies 2.
+Bottom of the 7th, Rockies Batting, Behind 2-4, Diamondbacks' Miguel Castro facing 7-8-9 
+;;;;;;;;;Miguel Castro replaces Merrill Kelly pitching
+b7;2-4;0;---;5,(2-2) .BBFCS;O;COL;Michael Toglia;Miguel Castro;-4%;20%;Strikeout Swinging
+b7;2-4;1;---;5,(1-2) CSBFX;O;COL;Elehuris Montero;Miguel Castro;-3%;17%;Groundout: 3B-1B (SS-3B Hole)
+b7;2-4;2;---;4,(1-2) CSBC;O;COL;Brenton Doyle;Miguel Castro;-2%;16%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 4, Rockies 2.
+Top of the 8th, Diamondbacks Batting, Ahead 4-2, Rockies' Matt Koch facing 1-2-3 
+;;;;;;;;;Matt Koch replaces Brent Suter pitching
+t8;4-2;0;---;5,(2-2) .FFBB.S;O;ARI;Corbin Carroll;Matt Koch;2%;17%;Strikeout Swinging
+t8;4-2;1;---;3,(0-2) FFS;O;ARI;Ketel Marte;Matt Koch;1%;18%;Strikeout Swinging
+t8;4-2;2;---;3,(0-2) CF.X;O;ARI;Lourdes Gurriel Jr.;Matt Koch;1%;19%;Groundout: 2B-1B (Deep 2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 4, Rockies 2.
+Bottom of the 8th, Rockies Batting, Behind 2-4, Diamondbacks' Joe Mantiply facing 1-2-3 
+;;;;;;;;;Joe Mantiply replaces Miguel Castro pitching
+b8;2-4;0;---;2,(0-1) .CX;;COL;Charlie Blackmon;Joe Mantiply;8%;27%;Single to SS (Ground Ball to SS-2B)
+b8;2-4;0;1--;6,(1-2) CFF1FBX;;COL;Ezequiel Tovar;Joe Mantiply;12%;39%;Single to RF (Line Drive); Blackmon to 2B
+b8;2-4;0;12-;3,(1-1) CBX;;COL;Ryan McMahon;Joe Mantiply;14%;54%;Single to CF (Line Drive); Blackmon to 3B; Tovar to 2B
+;;;;;;;;;Scott McGough replaces Joe Mantiply pitching
+b8;2-4;0;123;3,(1-1) .BFX;O;COL;Elias Díaz;Scott McGough;-14%;40%;Lineout: SS
+b8;2-4;1;123;8,(3-2) C*BBFFBFX;RR;COL;Brendan Rodgers;Scott McGough;35%;75%;Single to CF (Ground Ball thru SS-2B); Blackmon Scores; Tovar Scores; McMahon to 3B
+b8;4-4;1;1-3;1,(0-0) X;R;COL;Nolan Jones;Scott McGough;13%;88%;Single to CF (Ground Ball thru SS-2B); McMahon Scores; Rodgers to 2B
+;;;;;;;;;Kyle Nelson replaces Scott McGough pitchingAlan Trejo pinch hits for Michael Toglia (RF) batting 7th
+b8;5-4;1;12-;3,(1-1) ..FBX;RO;COL;Alan Trejo;Kyle Nelson;5%;93%;Single to LF (Line Drive to LF-CF); Rodgers Scores; Jones out at 3B/LF-3B; Trejo to 2B
+b8;6-4;2;-2-;2,(0-1) TX;O;COL;Elehuris Montero;Kyle Nelson;-1%;91%;Lineout: 3B
+;;;;;;;;;4 runs, 6 hits, 0 errors, 1 LOB. Diamondbacks 4, Rockies 6.
+Top of the 9th, Diamondbacks Batting, Behind 4-6, Rockies' Justin Lawrence facing 4-5-6 
+;;;;;;;;;Justin Lawrence replaces Alan Trejo (PH) pitching and batting 7thCharlie Blackmon moves from DH to RF (team loses DH)
+t9;4-6;0;---;5,(2-2) ..BBFFS;O;ARI;Christian Walker;Justin Lawrence;4%;96%;Strikeout Swinging
+t9;4-6;1;---;5,(2-2) BCBFS;O;ARI;Kyle Lewis;Justin Lawrence;3%;99%;Strikeout Swinging
+t9;4-6;2;---;5,(1-2) BCC.F*S;O;ARI;Jace Peterson;Justin Lawrence;1%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 4, Rockies 6.

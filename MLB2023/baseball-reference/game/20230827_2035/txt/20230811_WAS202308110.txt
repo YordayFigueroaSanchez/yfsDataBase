@@ -1,0 +1,268 @@
+
+Scorebox Meta
+20230811
+7:05 p.m. Local
+22651
+Nationals Park
+172
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/OAK-2023.png;/teams/OAK/2023.shtml;2;0;0;0;0;0;0;0;0;2;6;0
+https://cdn.ssref.net/req/202308251/tlogo/br/WSN-2023.png;/teams/WSN/2023.shtml;0;2;0;1;1;0;3;1;X;8;12;1
+
+Batting home
+CJ Abrams;/players/a/abramcj01.shtml;SS;4;0;1;0;1;1;5;.260;.308;.420;.728;17;11;-0.132; 1.12;0.038;-0.171;0%; 0.01; -1.3;2;2;CS
+Lane Thomas;/players/t/thomala02.shtml;RF;4;1;1;0;0;1;5;.283;.329;.484;.812;15;9;-0.047; 0.70;0.048;-0.095;0%; 0.01; -0.5;2;0;CS,HBP
+Joey Meneses;/players/m/menesjo01.shtml;DH;5;0;1;0;0;0;5;.280;.324;.416;.740;13;8;-0.058; 0.47;0.000;-0.058;0%; 0.01; -0.6;;;
+Keibert Ruiz;/players/r/ruizke01.shtml;C;4;3;2;1;1;0;5;.251;.309;.401;.710;22;12;0.160; 0.48;0.173;-0.013; 0.00%; 0.00; 1.2;8;0;HR
+Dominic Smith;/players/s/smithdo02.shtml;1B;3;1;1;0;1;0;4;.266;.339;.344;.683;16;9;0.117; 0.96;0.143;-0.026; 0.00%; 0.01; 0.8;5;1;
+Ildemaro Vargas;/players/v/vargail01.shtml;3B;4;2;2;4;0;0;4;.255;.289;.414;.703;9;8;0.150; 1.25;0.203;-0.053; 0.00%; 0.01; 3.1;0;0;HR
+Stone Garrett;/players/g/garrest01.shtml;LF;3;0;2;1;1;1;4;.255;.336;.420;.756;16;9;0.178; 0.93;0.179;-0.001; 0.00%; 0.01; 1.7;5;0;
+Jake Alu;/players/a/aluja01.shtml;2B;3;1;1;2;0;1;4;.227;.255;.318;.574;10;7;-0.058; 1.12;0.012;-0.070;0%; 0.01; 0.0;0;4;HR,SF
+Alex Call;/players/c/callal02.shtml;CF;3;0;1;0;1;0;4;.203;.305;.303;.609;22;10;-0.027; 0.92;0.019;-0.046;0%; 0.01; -0.4;4;0;
+Joan Adon;/players/a/adonjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Cory Abbott;/players/a/abbotco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Robert Garcia;/players/g/garciro04.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jose Ferrer;/players/f/ferrejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jordan Weems;/players/w/weemsjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Keibert Ruiz (13, off Paul Blackburn, 5th inn, 0 on, 2 outs to Deep RF); Ildemaro Vargas (4, off Sam Long, 7th inn, 2 on, 2 outs to Deep LF-CF); Jake Alu (1, off Sam Long, 8th inn, 0 on, 0 outs to Deep CF-RF).
+
+
+SF: Jake Alu (1, off Paul Blackburn).
+
+
+HBP: Lane Thomas (7, by Lucas Erceg).
+
+
+TB: Ildemaro Vargas 5; Keibert Ruiz 5; Jake Alu 4; Stone Garrett 2; Alex Call; CJ Abrams; Lane Thomas; Dominic Smith; Joey Meneses.
+
+
+RBI: Ildemaro Vargas 4 (24); Jake Alu 2 (7); Stone Garrett (30); Keibert Ruiz (43).
+
+
+2-out RBI: Ildemaro Vargas 3; Keibert Ruiz.
+
+
+Team LOB: 8.
+With RISP: 3 for 10.
+
+Batting away
+Esteury Ruiz;/players/r/ruizes01.shtml;CF;5;0;0;0;0;2;5;.251;.301;.318;.619;20;15;-0.097; 0.79;0.000;-0.097;0%; 0.00; -1.5;5;0;
+JJ Bleday;/players/b/bledajj01.shtml;LF;4;1;1;0;0;0;4;.201;.312;.363;.675;15;10;-0.038; 1.03;0.040;-0.078;0%; 0.00; -0.3;4;0;
+Zack Gelof;/players/g/gelofza01.shtml;2B;3;1;1;0;1;2;4;.253;.323;.563;.886;20;11;-0.025; 0.89;0.039;-0.064;0%; 0.00; 0.1;3;2;2B
+Seth Brown;/players/b/brownse01.shtml;1B;3;0;0;0;1;1;4;.215;.291;.411;.702;17;9;-0.082; 0.94;0.005;-0.087;0%; 0.00; -0.7;5;0;
+Jordan Diaz;/players/d/diazjo03.shtml;3B;4;0;1;2;0;0;4;.253;.308;.430;.739;14;8;0.102; 1.06;0.160;-0.058;0%; 0.00; 0.8;0;1;
+Tyler Soderstrom;/players/s/soderty01.shtml;DH;4;0;0;0;0;2;4;.150;.239;.200;.439;12;9;-0.051; 0.49;0.000;-0.051;0%; 0.00; -0.7;;;
+Shea Langeliers;/players/l/langesh01.shtml;C;3;0;2;0;1;0;4;.203;.269;.364;.632;22;12;0.071; 0.71;0.088;-0.017;0%; 0.00; 0.6;4;2;SB
+Lawrence Butler;/players/b/butlela01.shtml;RF;4;0;0;0;0;0;4;.000;.000;.000;.000;16;12;-0.166; 1.07;0.003;-0.169;0%; 0.00; -0.9;1;0;GDP
+Nick Allen;/players/a/allenni02.shtml;SS;3;0;1;0;1;1;4;.203;.249;.277;.526;18;11;0.067; 0.79;0.084;-0.017;0%; 0.00; 0.1;1;2;SB
+Paul Blackburn;/players/b/blackpa01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Lucas Erceg;/players/e/erceglu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Sam Long;/players/l/longsa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Zack Gelof (7, off Jordan Weems).
+
+
+TB: Shea Langeliers 2; Zack Gelof 2; JJ Bleday; Nick Allen; Jordan Diaz.
+
+
+GIDP: Lawrence Butler (1).
+
+
+RBI: Jordan Diaz 2 (19).
+
+
+2-out RBI: Jordan Diaz 2.
+
+
+Team LOB: 8.
+With RISP: 1 for 8.
+
+Pitching home
+Joan Adon;/players/a/adonjo01.shtml;Joan Adon; 3 ;2;2;2;2;3;0;5.14;13;63;34;24;5;5;1;7;3;0;48;;;-0.060; 0.93; 0.00%; 0.01; -0.5
+Cory Abbott;/players/a/abbotco01.shtml; W (1-1); 1.1;1;0;0;1;1;0;5.06;6;23;17;10;3;4;3;1;1;0;;0;0;0.056; 1.17; 0.00%; 0.01; 0.5
+Robert Garcia;/players/g/garciro04.shtml; H (2); 1.2;0;0;0;0;1;0;0.00;5;20;13;9;4;0;1;3;1;0;;1;0;0.138; 1.28; 0.00%; 0.01; 1.0
+Jose Ferrer;/players/f/ferrejo01.shtml; H (4); 1 ;1;0;0;0;0;0;4.11;3;16;12;10;0;2;2;1;1;0;;0;0;0.070; 1.41; 0.00%; 0.01; 0.5
+Jordan Weems;/players/w/weemsjo01.shtml;Jordan Weems; 2 ;2;0;0;1;3;0;2.48;10;32;21;13;3;5;2;4;4;0;;0;0;0.014; 0.12; 0.00%; 0.00; 1.0
+
+Pitching away
+Paul Blackburn;/players/b/blackpa01.shtml; L (2-3); 5.2;8;4;4;4;3;1;4.52;27;103;60;39;4;17;10;10;4;0;36;;;-0.211; 1.11; 0.00%; 0.00; -1.5
+Lucas Erceg;/players/e/erceglu01.shtml;Lucas Erceg; 0.2;1;2;2;0;0;0;6.55;4;7;3;3;0;0;0;3;1;0;;2;0;0.009; 0.63; 0.00%; 0.00; 0.0
+Sam Long;/players/l/longsa01.shtml;Sam Long; 1.2;3;2;2;1;1;2;5.27;9;30;20;11;2;7;2;5;2;0;;2;2;-0.080; 0.19; 0.00%; 0.00; -2.6
+
+indiv_events
+
+Balks: None.
+WP: Joan Adon (2).
+HBP: Lucas Erceg (4; Lane Thomas).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Joan Adon (2).
+HBP: Lucas Erceg (4; Lane Thomas).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Nick Mahrley, 1B - Vic Carapazza, 2B - Emil Jimenez, 3B - Adam Hamari, LF - (none), RF - (none).
+Time of Game: 2:52.
+Attendance: 22,651.
+Field Condition: Unknown.
+Start Time Weather: 82° F, Wind 1mph out to Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Athletics
+1;Esteury Ruiz;/players/r/ruizes01.shtml;CF
+2;JJ Bleday;/players/b/bledajj01.shtml;LF
+3;Zack Gelof;/players/g/gelofza01.shtml;2B
+4;Seth Brown;/players/b/brownse01.shtml;1B
+5;Jordan Diaz;/players/d/diazjo03.shtml;3B
+6;Tyler Soderstrom;/players/s/soderty01.shtml;DH
+7;Shea Langeliers;/players/l/langesh01.shtml;C
+8;Lawrence Butler;/players/b/butlela01.shtml;RF
+9;Nick Allen;/players/a/allenni02.shtml;SS
+; Paul Blackburn;/players/b/blackpa01.shtml;P
+Nationals
+1;CJ Abrams;/players/a/abramcj01.shtml;SS
+2;Lane Thomas;/players/t/thomala02.shtml;RF
+3;Joey Meneses;/players/m/menesjo01.shtml;DH
+4;Keibert Ruiz;/players/r/ruizke01.shtml;C
+5;Dominic Smith;/players/s/smithdo02.shtml;1B
+6;Ildemaro Vargas;/players/v/vargail01.shtml;3B
+7;Stone Garrett;/players/g/garrest01.shtml;LF
+8;Jake Alu;/players/a/aluja01.shtml;2B
+9;Alex Call;/players/c/callal02.shtml;CF
+; Joan Adon;/players/a/adonjo01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t1;0-0;2;-23;4,(2-1) BFB.X;RR;OAK;Jordan Diaz;Joan Adon;-16%;33%;Single to LF (Line Drive to Deep LF-CF); Bleday Scores; Gelof Scores
+b5;3-2;2;---;6,(3-2) BBFBF.X;R;WSN;Keibert Ruiz;Paul Blackburn;12%;79%;Home Run (Fly Ball to Deep RF)
+t7;2-4;0;1--;1,(0-0) X;OO;OAK;Lawrence Butler;Jose Ferrer;12%;88%;Ground Ball Double Play: 2B-SS-1B (Deep 2B)
+b2;0-2;0;1-3;3,(1-1) *BCX;R;WSN;Ildemaro Vargas;Paul Blackburn;11%;58%;Single to RF (Ground Ball thru 2B-1B); Ruiz Scores; Smith to 3B
+b4;2-2;1;1--;4,(2-1) *BF1*BX;;WSN;Stone Garrett;Paul Blackburn;10%;66%;Single to RF (Line Drive to CF-RF); Vargas to 3B; Garrett to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Athletics Batting, Tied 0-0, Nationals' Joan Adon facing 1-2-3 
+t1;0-0;0;---;5,(2-2) CBSBX;O;OAK;Esteury Ruiz;Joan Adon;2%;52%;Flyball: CF
+t1;0-0;1;---;1,(0-0) X;;OAK;JJ Bleday;Joan Adon;-2%;50%;Single to RF (Line Drive to Deep RF)
+t1;0-0;1;1--;6,(3-2) FB*B1BF>B;;OAK;Zack Gelof;Joan Adon;-4%;46%;Walk; Bleday to 2B
+t1;0-0;1;12-;4,(1-2) SF.BS;O;OAK;Seth Brown;Joan Adon;4%;51%;Strikeout Swinging
+t1;0-0;2;12-;3,(1-1) BFB;;OAK;Jordan Diaz;Joan Adon;-2%;49%;Wild Pitch; Bleday to 3B; Gelof to 2B
+t1;0-0;2;-23;4,(2-1) BFB.X;RR;OAK;Jordan Diaz;Joan Adon;-16%;33%;Single to LF (Line Drive to Deep LF-CF); Bleday Scores; Gelof Scores
+t1;2-0;2;1--;4,(2-1) CBBX;O;OAK;Tyler Soderstrom;Joan Adon;2%;35%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Athletics 2, Nationals 0.
+Bottom of the 1st, Nationals Batting, Behind 0-2, Athletics' Paul Blackburn facing 1-2-3 
+b1;0-2;0;---;1,(0-0) X;;WSN;CJ Abrams;Paul Blackburn;4%;39%;Single to RF (Ground Ball)
+b1;0-2;0;1--;3,(1-1) BC>C;O;WSN;Lane Thomas;Paul Blackburn;-6%;32%;Abrams Caught Stealing 2B (C-2B)
+b1;0-2;1;---;7,(3-2) BC>C.BBFC;O;WSN;Lane Thomas;Paul Blackburn;-2%;31%;Strikeout Looking
+b1;0-2;2;---;2,(1-0) BX;O;WSN;Joey Meneses;Paul Blackburn;-1%;30%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Athletics 2, Nationals 0.
+Top of the 2nd, Athletics Batting, Ahead 2-0, Nationals' Joan Adon facing 7-8-9 
+t2;2-0;0;---;3,(2-0) BBX;O;OAK;Shea Langeliers;Joan Adon;2%;32%;Lineout: SS
+t2;2-0;1;---;6,(3-2) BBBCFX;O;OAK;Lawrence Butler;Joan Adon;1%;33%;Flyball: LF (Short LF-CF)
+t2;2-0;2;---;6,(3-2) SBBFBB;;OAK;Nick Allen;Joan Adon;-1%;32%;Walk
+t2;2-0;2;1--;7,(3-2) T>FFB*BB>C;O;OAK;Esteury Ruiz;Joan Adon;2%;34%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Athletics 2, Nationals 0.
+Bottom of the 2nd, Nationals Batting, Behind 0-2, Athletics' Paul Blackburn facing 4-5-6 
+b2;0-2;0;---;8,(3-2) CBFBB.FFB;;WSN;Keibert Ruiz;Paul Blackburn;4%;38%;Walk
+b2;0-2;0;1--;4,(2-1) BSBX;;WSN;Dominic Smith;Paul Blackburn;10%;48%;Single to RF (Line Drive to Deep RF Line); Ruiz to 3B
+b2;0-2;0;1-3;3,(1-1) *BCX;R;WSN;Ildemaro Vargas;Paul Blackburn;11%;58%;Single to RF (Ground Ball thru 2B-1B); Ruiz Scores; Smith to 3B
+b2;1-2;0;1-3;2,(0-1) FX;R;WSN;Stone Garrett;Paul Blackburn;6%;64%;Single to RF (Ground Ball); Smith Scores; Vargas to 2B
+b2;2-2;0;12-;3,(0-2) FFC;O;WSN;Jake Alu;Paul Blackburn;-5%;59%;Strikeout Looking
+b2;2-2;1;12-;5,(3-1) BBBCX;O;WSN;Alex Call;Paul Blackburn;-5%;54%;Lineout: CF (Deep CF)
+b2;2-2;2;12-;1,(0-0) X;O;WSN;CJ Abrams;Paul Blackburn;-4%;50%;Groundout: 2B-P (2B-1B)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Athletics 2, Nationals 2.
+Top of the 3rd, Athletics Batting, Tied 2-2, Nationals' Joan Adon facing 2-3-4 
+t3;2-2;0;---;4,(2-1) CBBX;O;OAK;JJ Bleday;Joan Adon;3%;53%;Flyball: LF (Deep LF-CF)
+t3;2-2;1;---;6,(1-2) BFFFFS;O;OAK;Zack Gelof;Joan Adon;2%;54%;Strikeout Swinging
+t3;2-2;2;---;7,(3-2) FF.BBFBX;O;OAK;Seth Brown;Joan Adon;1%;55%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 2, Nationals 2.
+Bottom of the 3rd, Nationals Batting, Tied 2-2, Athletics' Paul Blackburn facing 2-3-4 
+b3;2-2;0;---;2,(1-0) BX;O;WSN;Lane Thomas;Paul Blackburn;-3%;53%;Flyball: LF (Deep LF)
+b3;2-2;1;---;2,(1-0) BX;O;WSN;Joey Meneses;Paul Blackburn;-2%;51%;Flyball: CF
+b3;2-2;2;---;4,(1-2) BCCX;O;WSN;Keibert Ruiz;Paul Blackburn;-1%;50%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 2, Nationals 2.
+Top of the 4th, Athletics Batting, Tied 2-2, Nationals' Cory Abbott facing 5-6-7 
+;;;;;;;;;Cory Abbott replaces Joan Adon pitching
+t4;2-2;0;---;2,(1-0) .BX;O;OAK;Jordan Diaz;Cory Abbott;3%;53%;Groundout: 2B-1B (SS-2B)
+t4;2-2;1;---;3,(0-2) CFS;O;OAK;Tyler Soderstrom;Cory Abbott;2%;55%;Strikeout Swinging
+t4;2-2;2;---;7,(3-2) BSBBS.FB;;OAK;Shea Langeliers;Cory Abbott;-2%;53%;Walk
+t4;2-2;2;1--;2,(0-1) F>C;;OAK;Lawrence Butler;Cory Abbott;-1%;52%;Langeliers Steals 2B
+t4;2-2;2;-2-;5,(1-2) F>C.BFX;O;OAK;Lawrence Butler;Cory Abbott;4%;56%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Athletics 2, Nationals 2.
+Bottom of the 4th, Nationals Batting, Tied 2-2, Athletics' Paul Blackburn facing 5-6-7 
+b4;2-2;0;---;9,(3-2) CFBFFBBFB;;WSN;Dominic Smith;Paul Blackburn;4%;60%;Walk
+b4;2-2;0;1--;2,(0-1) CX;O;WSN;Ildemaro Vargas;Paul Blackburn;-4%;56%;Groundout: SS-2B/Forceout at 2B; Vargas to 1B
+b4;2-2;1;1--;4,(2-1) *BF1*BX;;WSN;Stone Garrett;Paul Blackburn;10%;66%;Single to RF (Line Drive to CF-RF); Vargas to 3B; Garrett to 2B
+b4;2-2;1;-23;3,(2-0) B*BX;RO;WSN;Jake Alu;Paul Blackburn;1%;67%;Flyball: LF/Sacrifice Fly; Vargas Scores
+b4;3-2;2;-2-;6,(3-2) F*B*BBS.B;;WSN;Alex Call;Paul Blackburn;1%;68%;Walk
+b4;3-2;2;12-;5,(2-2) C*BBFC;O;WSN;CJ Abrams;Paul Blackburn;-4%;64%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Athletics 2, Nationals 3.
+Top of the 5th, Athletics Batting, Behind 2-3, Nationals' Cory Abbott facing 9-1-2 
+t5;2-3;0;---;2,(0-1) CX;;OAK;Nick Allen;Cory Abbott;-5%;59%;Single to RF (Ground Ball)
+t5;2-3;0;1--;4,(0-2) CLF1X;O;OAK;Esteury Ruiz;Cory Abbott;5%;64%;Lineout: LF (Deep LF)
+;;;;;;;;;Robert Garcia replaces Cory Abbott pitching
+t5;2-3;1;1--;1,(0-0) .1>B;;OAK;JJ Bleday;Robert Garcia;-2%;62%;Allen Steals 2B
+t5;2-3;1;-2-;5,(1-2) .1>B.SFFX;O;OAK;JJ Bleday;Robert Garcia;5%;66%;Flyball: LF (Deep LF-CF)
+t5;2-3;2;-2-;6,(3-2) FBSB*BS;O;OAK;Zack Gelof;Robert Garcia;5%;71%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 2, Nationals 3.
+Bottom of the 5th, Nationals Batting, Ahead 3-2, Athletics' Paul Blackburn facing 2-3-4 
+b5;3-2;0;---;1,(0-0) X;;WSN;Lane Thomas;Paul Blackburn;3%;74%;Single to RF (Ground Ball)
+b5;3-2;0;1--;2,(0-1) C>B;O;WSN;Joey Meneses;Paul Blackburn;-5%;69%;Thomas Caught Stealing 2B (C-2B)
+b5;3-2;1;---;5,(1-2) C>B.CFX;O;WSN;Joey Meneses;Paul Blackburn;-2%;67%;Groundout: 2B-1B
+b5;3-2;2;---;6,(3-2) BBFBF.X;R;WSN;Keibert Ruiz;Paul Blackburn;12%;79%;Home Run (Fly Ball to Deep RF)
+b5;4-2;2;---;1,(0-0) X;O;WSN;Dominic Smith;Paul Blackburn;-1%;78%;Flyball: LF (LF-CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Athletics 2, Nationals 4.
+Top of the 6th, Athletics Batting, Behind 2-4, Nationals' Robert Garcia facing 4-5-6 
+t6;2-4;0;---;1,(0-0) X;O;OAK;Seth Brown;Robert Garcia;3%;82%;Flyball: CF (Short LF-CF)
+t6;2-4;1;---;7,(3-2) BBFS.FBX;O;OAK;Jordan Diaz;Robert Garcia;2%;84%;Groundout: SS-1B
+t6;2-4;2;---;1,(0-0) X;O;OAK;Tyler Soderstrom;Robert Garcia;1%;85%;Lineout: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 2, Nationals 4.
+Bottom of the 6th, Nationals Batting, Ahead 4-2, Athletics' Paul Blackburn facing 6-7-8 
+b6;4-2;0;---;2,(0-1) CX;O;WSN;Ildemaro Vargas;Paul Blackburn;-1%;84%;Flyball: CF (Deep CF)
+b6;4-2;1;---;6,(3-2) BBBFF.B;;WSN;Stone Garrett;Paul Blackburn;1%;85%;Walk
+b6;4-2;1;1--;3,(1-1) *B1SX;O;WSN;Jake Alu;Paul Blackburn;-2%;83%;Lineout: SS
+b6;4-2;2;1--;6,(3-2) BBCS.B>X;;WSN;Alex Call;Paul Blackburn;1%;84%;Single to 3B (Ground Ball to Short 3B Line); Garrett to 2B
+;;;;;;;;;Lucas Erceg replaces Paul Blackburn pitching
+b6;4-2;2;12-;1,(0-0) .X;O;WSN;CJ Abrams;Lucas Erceg;-2%;82%;Flyball: LF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Athletics 2, Nationals 4.
+Top of the 7th, Athletics Batting, Behind 2-4, Nationals' Jose Ferrer facing 7-8-9 
+;;;;;;;;;Jose Ferrer replaces Robert Garcia pitching
+t7;2-4;0;---;10,(3-2) .BBTC.BFFFFX;;OAK;Shea Langeliers;Jose Ferrer;-6%;76%;Single to SS (Ground Ball)
+t7;2-4;0;1--;1,(0-0) X;OO;OAK;Lawrence Butler;Jose Ferrer;12%;88%;Ground Ball Double Play: 2B-SS-1B (Deep 2B)
+t7;2-4;2;---;5,(1-2) BCFFX;O;OAK;Nick Allen;Jose Ferrer;1%;89%;Lineout: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Athletics 2, Nationals 4.
+Bottom of the 7th, Nationals Batting, Ahead 4-2, Athletics' Lucas Erceg facing 2-3-4 
+b7;4-2;0;---;1,(0-0) H;;WSN;Lane Thomas;Lucas Erceg;2%;91%;Hit By Pitch
+b7;4-2;0;1--;3,(2-0) B*BX;O;WSN;Joey Meneses;Lucas Erceg;-1%;89%;Flyball: RF (RF Line)
+b7;4-2;1;1--;2,(1-0) 1BX;;WSN;Keibert Ruiz;Lucas Erceg;1%;91%;Single to CF (Line Drive); Thomas to 2B
+;;;;;;;;;Sam Long replaces Lucas Erceg pitching
+b7;4-2;1;12-;2,(1-0) .*BX;O;WSN;Dominic Smith;Sam Long;-2%;89%;Lineout: CF (Deep CF)
+b7;4-2;2;12-;2,(0-1) CX;RRR;WSN;Ildemaro Vargas;Sam Long;10%;98%;Home Run (Fly Ball to Deep LF-CF); Thomas Scores; Ruiz Scores
+b7;7-2;2;---;4,(1-2) CS.BS;O;WSN;Stone Garrett;Sam Long;0%;98%;Strikeout Swinging
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Athletics 2, Nationals 7.
+Top of the 8th, Athletics Batting, Behind 2-7, Nationals' Jordan Weems facing 1-2-3 
+;;;;;;;;;Jordan Weems replaces Jose Ferrer pitching
+t8;2-7;0;---;3,(0-2) .FF.C;O;OAK;Esteury Ruiz;Jordan Weems;1%;99%;Strikeout Looking
+t8;2-7;1;---;5,(2-2) CSBBX;O;OAK;JJ Bleday;Jordan Weems;0%;99%;Groundout: 2B-1B (Deep 2B)
+t8;2-7;2;---;2,(1-0) BX;;OAK;Zack Gelof;Jordan Weems;0%;99%;Double to RF (Line Drive to Deep CF-RF)
+t8;2-7;2;-2-;5,(3-1) B*BFBB;;OAK;Seth Brown;Jordan Weems;0%;99%;Walk
+t8;2-7;2;12-;1,(0-0) X;O;OAK;Jordan Diaz;Jordan Weems;1%;100%;Lineout: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Athletics 2, Nationals 7.
+Bottom of the 8th, Nationals Batting, Ahead 7-2, Athletics' Sam Long facing 8-9-1 
+b8;7-2;0;---;1,(0-0) X;R;WSN;Jake Alu;Sam Long;0%;100%;Home Run (Fly Ball to Deep CF-RF)
+b8;8-2;0;---;5,(2-2) CC.BBX;O;WSN;Alex Call;Sam Long;0%;100%;Groundout: 1B unassisted (Weak 1B)
+b8;8-2;1;---;9,(3-2) CBFFBBFF*B;;WSN;CJ Abrams;Sam Long;0%;100%;Walk
+b8;8-2;1;1--;4,(1-2) BC.CX;O;WSN;Lane Thomas;Sam Long;0%;100%;Flyball: CF
+b8;8-2;2;1--;1,(0-0) X;;WSN;Joey Meneses;Sam Long;0%;100%;Single to CF (Line Drive to Deep CF-RF); Abrams to 2B
+b8;8-2;2;12-;2,(1-0) *BX;O;WSN;Keibert Ruiz;Sam Long;0%;100%;Groundout: SS-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Athletics 2, Nationals 8.
+Top of the 9th, Athletics Batting, Behind 2-8, Nationals' Jordan Weems facing 6-7-8 
+t9;2-8;0;---;4,(1-2) CBCS;O;OAK;Tyler Soderstrom;Jordan Weems;0%;100%;Strikeout Swinging
+t9;2-8;1;---;2,(1-0) BX;;OAK;Shea Langeliers;Jordan Weems;0%;100%;Single to CF (Line Drive to Deep CF)
+t9;2-8;1;1--;4,(0-2) SFFX;;OAK;Lawrence Butler;Jordan Weems;0%;100%;Fielder's Choice 1B; Langeliers to 2B/Adv on E3; Butler to 1B
+t9;2-8;1;12-;5,(2-2) BFFBC;O;OAK;Nick Allen;Jordan Weems;0%;100%;Strikeout Looking
+t9;2-8;2;12-;1,(0-0) X;O;OAK;Esteury Ruiz;Jordan Weems;0%;100%;Lineout: LF (LF-CF)
+;;;;;;;;;0 runs, 1 hit, 1 error, 2 LOB. Athletics 2, Nationals 8.

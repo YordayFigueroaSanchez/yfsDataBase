@@ -1,0 +1,271 @@
+
+Scorebox Meta
+20230513
+12:35 p.m. Local
+24336
+Nationals Park
+150
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;1;0;0;0;1;0;0;2;11;0
+https://cdn.ssref.net/req/202308101/tlogo/br/WSN-2023.png;/teams/WSN/2023.shtml;1;0;0;1;0;0;1;0;X;3;10;0
+
+Batting home
+Lane Thomas;/players/t/thomala02.shtml;RF;4;1;2;0;0;0;4;.280;.333;.406;.739;10;6;-0.011; 1.10;0.063;-0.074;0%; 0.00; -0.0;3;0;
+Luis García;/players/g/garcilu04.shtml;2B;3;0;0;0;0;1;4;.252;.302;.378;.680;12;8;-0.090; 1.10;0.000;-0.090;0%; 0.00; -1.0;2;0;SH
+Joey Meneses;/players/m/menesjo01.shtml;DH;4;0;1;1;0;0;4;.286;.311;.366;.678;7;5;0.027; 0.89;0.084;-0.057;0%; 0.00; 0.2;;;
+Keibert Ruiz;/players/r/ruizke01.shtml;C;4;0;2;0;0;0;4;.248;.312;.364;.676;10;6;0.029; 0.66;0.072;-0.043;0%; 0.00; 0.4;6;1;2B
+Alex Call;/players/c/callal02.shtml;CF;3;0;0;0;1;2;4;.240;.338;.357;.694;20;10;-0.053; 0.93;0.008;-0.061;0%; 0.00; -0.5;7;0;
+Dominic Smith;/players/s/smithdo02.shtml;1B;4;0;2;0;0;0;4;.271;.362;.308;.670;17;9;-0.107; 0.98;0.036;-0.143;0%; 0.00; -1.2;4;0;GDP
+Jeimer Candelario;/players/c/candeje01.shtml;3B;2;1;1;0;1;0;4;.215;.272;.361;.633;20;10;0.062; 0.77;0.088;-0.026;0%; 0.00; 0.8;1;1;2B,HBP
+Stone Garrett;/players/g/garrest01.shtml;LF;3;0;0;0;0;0;4;.274;.328;.371;.699;14;10;-0.028; 0.98;0.024;-0.052;0%; 0.00; -0.6;3;0;HBP
+CJ Abrams;/players/a/abramcj01.shtml;SS;4;1;2;2;0;0;4;.242;.293;.379;.672;12;7;0.251; 1.48;0.335;-0.084;0%; 0.00; 0.9;1;0;HR
+Trevor Williams;/players/w/willitr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Erasmo Ramírez;/players/r/ramirer02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andrés Machado;/players/m/machaan02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Carl Edwards Jr.;/players/e/edwarca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Hunter Harvey;/players/h/harvehu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kyle Finnegan;/players/f/finneky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Keibert Ruiz (6, off Joey Lucchesi); Jeimer Candelario (9, off Joey Lucchesi).
+
+
+HR: CJ Abrams (3, off Dominic Leone, 7th inn, 0 on, 0 outs to Deep CF).
+
+
+SH: Luis García (1, off Joey Lucchesi).
+
+
+HBP: Stone Garrett (1, by Stephen Nogosek); Jeimer Candelario (3, by Dennis Santana).
+
+
+TB: CJ Abrams 5; Keibert Ruiz 3; Jeimer Candelario 2; Dominic Smith 2; Lane Thomas 2; Joey Meneses.
+
+
+GIDP: Dominic Smith (6).
+
+
+RBI: CJ Abrams 2 (19); Joey Meneses (18).
+
+
+2-out RBI: CJ Abrams.
+
+
+Team LOB: 9.
+With RISP: 2 for 9.
+
+Batting away
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;4;0;2;1;0;1;5;.322;.414;.459;.873;15;12;0.157; 1.99;0.228;-0.071;0%; 0.00; 0.5;4;0;2B,SF
+Jeff McNeil;/players/m/mcneije01.shtml;LF;4;0;0;1;0;1;5;.266;.358;.364;.721;20;13;-0.238; 2.45;0.000;-0.238;0%; 0.00; -1.3;4;0;SF
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;0;0;0;0;1;4;.217;.306;.414;.721;15;10;-0.132; 1.21;0.000;-0.132;0%; 0.00; -0.9;3;3;
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;0;1;0;0;1;4;.235;.329;.517;.846;21;13;-0.086; 1.34;0.030;-0.116;0%; 0.00; -0.4;7;0;
+Brett Baty;/players/b/batybr01.shtml;3B;4;0;2;0;0;1;4;.254;.329;.380;.709;11;10;0.029; 1.18;0.085;-0.056;0%; 0.00; 0.3;1;1;
+Starling Marte;/players/m/martest01.shtml;RF;4;0;1;0;0;0;4;.227;.293;.281;.574;8;6;-0.012; 1.44;0.072;-0.084;0%; 0.00; 0.2;0;1;
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;4;1;1;0;0;1;4;.256;.384;.378;.762;17;9;-0.157; 2.07;0.043;-0.200;0%; 0.00; -0.9;;;
+Luis Guillorme;/players/g/guilllu01.shtml;2B;4;0;0;0;0;1;4;.237;.328;.271;.600;11;7;-0.224; 2.27;0.000;-0.224;0%; 0.00; -1.5;2;3;
+Michael Perez;/players/p/perezmi03.shtml;C;4;1;4;0;0;0;4;1.000;1.000;1.250;2.250;20;12;0.243; 1.33;0.243;0.000;0%; 0.00; 1.6;3;0;2B
+Tommy Pham;/players/p/phamth01.shtml;PR;0;0;0;0;0;0;0;.210;.306;.387;.693;;;;;;;;;;;;
+Joey Lucchesi;/players/l/lucchjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Stephen Nogosek;/players/n/nogosst01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dominic Leone;/players/l/leonedo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dennis Santana;/players/s/santade01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Michael Perez (1, off Trevor Williams); Brandon Nimmo (9, off Carl Edwards Jr.).
+
+
+SF: Brandon Nimmo (3, off Erasmo Ramírez); Jeff McNeil (1, off Hunter Harvey).
+
+
+TB: Michael Perez 5; Brandon Nimmo 3; Brett Baty 2; Daniel Vogelbach; Starling Marte; Pete Alonso.
+
+
+RBI: Brandon Nimmo (16); Jeff McNeil (13).
+
+
+Team LOB: 9.
+With RISP: 1 for 6.
+
+Pitching home
+Trevor Williams;/players/w/willitr01.shtml;Trevor Williams; 2.1;2;1;1;0;1;0;4.23;9;35;23;18;2;3;1;7;1;0;50;;;-0.003; 0.90; 0.00%; 0.00; 0.1
+Erasmo Ramírez;/players/r/ramirer02.shtml;Erasmo Ramírez; 2.2;4;0;0;0;4;0;4.03;12;44;32;20;3;9;1;7;4;0;;2;1;0.172; 1.82; 0.00%; 0.00; 1.4
+Andrés Machado;/players/m/machaan02.shtml; H (1); 1 ;1;0;0;0;0;0;5.63;4;12;6;6;0;0;1;3;1;0;;0;0;0.080; 1.44; 0.00%; 0.00; 0.5
+Carl Edwards Jr.;/players/e/edwarca01.shtml; H (6); 0.1;2;1;1;0;0;0;2.93;3;11;7;5;0;2;2;1;1;0;;0;0;-0.172; 1.76; 0.00%; 0.00; -0.9
+Hunter Harvey;/players/h/harvehu01.shtml; W (2-0); 1.2;0;0;0;0;1;0;1.96;5;19;14;9;2;3;0;4;1;0;;2;1;0.182; 1.98; 0.00%; 0.00; 0.9
+Kyle Finnegan;/players/f/finneky01.shtml; S (8); 1 ;2;0;0;0;1;0;6.28;5;17;10;6;0;4;2;2;1;0;;0;0;0.161; 2.92; 0.00%; 0.00; 0.5
+
+Pitching away
+Joey Lucchesi;/players/l/lucchjo01.shtml;Joey Lucchesi; 2 ;4;1;1;1;0;0;4.43;10;31;17;12;1;4;4;5;1;0;43;;;-0.015; 1.22; 0.00%; 0.00; -0.0
+Stephen Nogosek;/players/n/nogosst01.shtml;Stephen Nogosek; 3 ;2;1;1;1;2;0;4.50;12;46;26;16;5;5;3;5;2;0;;0;0;0.020; 0.92; 0.00%; 0.00; 0.5
+Dominic Leone;/players/l/leonedo01.shtml; L (0-1); 2 ;3;1;1;0;0;1;4.76;9;22;13;11;1;1;3;6;1;0;;0;0;-0.115; 0.94; 0.00%; 0.00; -0.0
+Dennis Santana;/players/s/santade01.shtml;Dennis Santana; 1 ;1;0;0;0;1;0;6.23;5;23;15;10;2;3;1;2;1;0;;0;0;0.031; 0.76; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Stephen Nogosek (2; Stone Garrett); Dennis Santana (1; Jeimer Candelario).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Stephen Nogosek (2; Stone Garrett); Dennis Santana (1; Jeimer Candelario).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Nic Lentz, 1B - Jeremie Rehak, 2B - Chad Fairchild, 3B - Paul Emmel, LF - (none), RF - (none).
+Time of Game: 2:30.
+Attendance: 24,336.
+Field Condition: Unknown.
+Start Time Weather: 67° F, Wind 5mph in from Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Jeff McNeil;/players/m/mcneije01.shtml;LF
+3;Francisco Lindor;/players/l/lindofr01.shtml;SS
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Brett Baty;/players/b/batybr01.shtml;3B
+6;Starling Marte;/players/m/martest01.shtml;RF
+7;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+8;Luis Guillorme;/players/g/guilllu01.shtml;2B
+9;Michael Perez;/players/p/perezmi03.shtml;C
+; Joey Lucchesi;/players/l/lucchjo01.shtml;P
+Nationals
+1;Lane Thomas;/players/t/thomala02.shtml;RF
+2;Luis García;/players/g/garcilu04.shtml;2B
+3;Joey Meneses;/players/m/menesjo01.shtml;DH
+4;Keibert Ruiz;/players/r/ruizke01.shtml;C
+5;Alex Call;/players/c/callal02.shtml;CF
+6;Dominic Smith;/players/s/smithdo02.shtml;1B
+7;Jeimer Candelario;/players/c/candeje01.shtml;3B
+8;Stone Garrett;/players/g/garrest01.shtml;LF
+9;CJ Abrams;/players/a/abramcj01.shtml;SS
+; Trevor Williams;/players/w/willitr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b7;2-2;0;---;2,(1-0) BX;R;WSN;CJ Abrams;Dominic Leone;20%;79%;Home Run (Fly Ball to Deep CF)
+t7;1-2;1;1--;2,(0-1) FX;;NYM;Brandon Nimmo;Carl Edwards Jr.;-17%;53%;Double to RF (Line Drive to Deep RF Line); Perez to 3B
+t9;2-3;2;12-;2,(1-0) BX;O;NYM;Jeff McNeil;Kyle Finnegan;14%;100%;Flyball: CF (Deep LF-CF)
+b4;1-1;2;12-;4,(2-1) B2.BCX;R;WSN;CJ Abrams;Stephen Nogosek;13%;68%;Single to RF (Line Drive to CF-RF); Candelario Scores; Garrett to 2B
+b1;1-0;1;123;6,(3-2) BBBCCX;OO;WSN;Dominic Smith;Joey Lucchesi;-12%;61%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Mets Batting, Tied 0-0, Nationals' Trevor Williams facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;NYM;Brandon Nimmo;Trevor Williams;2%;52%;Flyball: CF
+t1;0-0;1;---;5,(1-2) BFFFX;O;NYM;Jeff McNeil;Trevor Williams;2%;54%;Foul Popfly: 3B (3B into Foul Terr.)
+t1;0-0;2;---;3,(2-0) BBX;O;NYM;Francisco Lindor;Trevor Williams;1%;55%;Popfly: SS (Deep SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Nationals 0.
+Bottom of the 1st, Nationals Batting, Tied 0-0, Mets' Joey Lucchesi facing 1-2-3 
+b1;0-0;0;---;3,(0-2) SF.X;;WSN;Lane Thomas;Joey Lucchesi;4%;58%;Single to CF (Line Drive)
+b1;0-0;0;1--;1,(0-0) X;O;WSN;Luis García;Joey Lucchesi;-2%;57%;Bunt Groundout: P-1B/Sacrifice (Front of Home); Thomas to 2B
+b1;0-0;1;-2-;1,(0-0) X;R;WSN;Joey Meneses;Joey Lucchesi;8%;65%;Single to RF (Ground Ball thru 2B-1B); Thomas Scores
+b1;1-0;1;1--;2,(1-0) BX;;WSN;Keibert Ruiz;Joey Lucchesi;7%;72%;Double to CF (Fly Ball to Deep CF); Meneses to 3B
+b1;1-0;1;-23;4,(3-0) BBBB;;WSN;Alex Call;Joey Lucchesi;1%;73%;Walk
+b1;1-0;1;123;6,(3-2) BBBCCX;OO;WSN;Dominic Smith;Joey Lucchesi;-12%;61%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Mets 0, Nationals 1.
+Top of the 2nd, Mets Batting, Behind 0-1, Nationals' Trevor Williams facing 4-5-6 
+t2;0-1;0;---;7,(2-2) CSFBBFX;O;NYM;Pete Alonso;Trevor Williams;2%;63%;Flyball: 2B (Deep 2B-1B)
+t2;0-1;1;---;4,(0-2) CSFC;O;NYM;Brett Baty;Trevor Williams;2%;65%;Strikeout Looking
+t2;0-1;2;---;4,(2-1) BFBX;O;NYM;Starling Marte;Trevor Williams;1%;66%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Nationals 1.
+Bottom of the 2nd, Nationals Batting, Ahead 1-0, Mets' Joey Lucchesi facing 7-8-9 
+b2;1-0;0;---;5,(3-1) BBFBX;;WSN;Jeimer Candelario;Joey Lucchesi;5%;71%;Double to LF (Fly Ball to Deep LF Line)
+b2;1-0;0;-2-;3,(0-2) FC.X;O;WSN;Stone Garrett;Joey Lucchesi;-1%;70%;Flyball: CF (Deep CF); Candelario to 3B
+b2;1-0;1;--3;4,(2-1) BBCX;O;WSN;CJ Abrams;Joey Lucchesi;-5%;65%;Groundout: 2B unassisted (2B-1B)
+b2;1-0;2;--3;2,(1-0) BX;O;WSN;Lane Thomas;Joey Lucchesi;-3%;61%;Popfly: 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 0, Nationals 1.
+Top of the 3rd, Mets Batting, Behind 0-1, Nationals' Trevor Williams facing 7-8-9 
+t3;0-1;0;---;4,(2-1) BBFX;;NYM;Daniel Vogelbach;Trevor Williams;-4%;57%;Single to CF (Ground Ball thru SS-2B)
+t3;0-1;0;1--;2,(1-0) BX;O;NYM;Luis Guillorme;Trevor Williams;4%;61%;Flyball: CF (Deep LF-CF)
+t3;0-1;1;1--;5,(2-2) FBBFX;;NYM;Michael Perez;Trevor Williams;-10%;51%;Double to CF (Line Drive to Deep CF); Vogelbach to 3B
+;;;;;;;;;Erasmo Ramírez replaces Trevor Williams pitching
+t3;0-1;1;-23;1,(0-0) ..X;RO;NYM;Brandon Nimmo;Erasmo Ramírez;0%;51%;Lineout: RF/Sacrifice Fly (Deep RF Line); Vogelbach Scores; Perez to 3B
+t3;1-1;2;--3;7,(3-2) CBBFBF*S;O;NYM;Jeff McNeil;Erasmo Ramírez;4%;55%;Strikeout Swinging; McNeil out at 1B/C-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Mets 1, Nationals 1.
+Bottom of the 3rd, Nationals Batting, Tied 1-1, Mets' Stephen Nogosek facing 2-3-4 
+;;;;;;;;;Stephen Nogosek replaces Joey Lucchesi pitching
+b3;1-1;0;---;7,(3-2) .BBFBTFS;O;WSN;Luis García;Stephen Nogosek;-3%;53%;Strikeout Swinging
+b3;1-1;1;---;1,(0-0) X;O;WSN;Joey Meneses;Stephen Nogosek;-2%;51%;Popfly: SS (SS-3B Hole)
+b3;1-1;2;---;6,(3-2) BBCBFX;O;WSN;Keibert Ruiz;Stephen Nogosek;-1%;50%;Flyball: LF (Short LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 1, Nationals 1.
+Top of the 4th, Mets Batting, Tied 1-1, Nationals' Erasmo Ramírez facing 3-4-5 
+t4;1-1;0;---;6,(2-2) CF.BBFS;O;NYM;Francisco Lindor;Erasmo Ramírez;3%;53%;Strikeout Swinging
+t4;1-1;1;---;2,(0-1) CX;;NYM;Pete Alonso;Erasmo Ramírez;-3%;50%;Single to CF (Ground Ball thru SS-2B)
+t4;1-1;1;1--;2,(0-1) CX;;NYM;Brett Baty;Erasmo Ramírez;-4%;45%;Single to LF (Line Drive to LF Line); Alonso to 2B
+t4;1-1;1;12-;1,(0-0) X;;NYM;Starling Marte;Erasmo Ramírez;-7%;38%;Single to LF (Line Drive to LF-CF); Alonso to 3B; Baty to 2B
+t4;1-1;1;123;8,(3-2) BCBFFFB.S;O;NYM;Daniel Vogelbach;Erasmo Ramírez;9%;47%;Strikeout Swinging
+t4;1-1;2;123;1,(0-0) X;O;NYM;Luis Guillorme;Erasmo Ramírez;9%;56%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 3 hits, 0 errors, 3 LOB. Mets 1, Nationals 1.
+Bottom of the 4th, Nationals Batting, Tied 1-1, Mets' Stephen Nogosek facing 5-6-7 
+b4;1-1;0;---;7,(2-2) BSC.BFFS;O;WSN;Alex Call;Stephen Nogosek;-3%;53%;Strikeout Swinging
+b4;1-1;1;---;2,(1-0) BX;O;WSN;Dominic Smith;Stephen Nogosek;-2%;51%;Flyball: 3B (Short LF)
+b4;1-1;2;---;6,(3-2) BFBSBB;;WSN;Jeimer Candelario;Stephen Nogosek;1%;53%;Walk
+b4;1-1;2;1--;5,(2-2) BBFS.H;;WSN;Stone Garrett;Stephen Nogosek;2%;55%;Hit By Pitch; Candelario to 2B
+b4;1-1;2;12-;4,(2-1) B2.BCX;R;WSN;CJ Abrams;Stephen Nogosek;13%;68%;Single to RF (Line Drive to CF-RF); Candelario Scores; Garrett to 2B
+b4;2-1;2;12-;2,(1-0) BX;O;WSN;Lane Thomas;Stephen Nogosek;-4%;64%;Lineout: LF (Deep LF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Mets 1, Nationals 2.
+Top of the 5th, Mets Batting, Behind 1-2, Nationals' Erasmo Ramírez facing 9-1-2 
+t5;1-2;0;---;5,(1-2) BFFF.X;;NYM;Michael Perez;Erasmo Ramírez;-5%;59%;Single to CF (Line Drive to Deep CF)
+t5;1-2;0;1--;7,(2-2) CBCBFFC;O;NYM;Brandon Nimmo;Erasmo Ramírez;5%;64%;Strikeout Looking
+t5;1-2;1;1--;3,(1-1) BCX;O;NYM;Jeff McNeil;Erasmo Ramírez;4%;68%;Flyball: RF (RF Line)
+t5;1-2;2;1--;1,(0-0) X;O;NYM;Francisco Lindor;Erasmo Ramírez;3%;71%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 1, Nationals 2.
+Bottom of the 5th, Nationals Batting, Ahead 2-1, Mets' Stephen Nogosek facing 2-3-4 
+b5;2-1;0;---;2,(0-1) CX;O;WSN;Luis García;Stephen Nogosek;-2%;69%;Groundout: 2B-1B
+b5;2-1;1;---;3,(1-1) CBX;O;WSN;Joey Meneses;Stephen Nogosek;-2%;67%;Groundout: 3B-1B (SS-3B Hole)
+b5;2-1;2;---;1,(0-0) X;O;WSN;Keibert Ruiz;Stephen Nogosek;-1%;66%;Single to RF (Ground Ball); Ruiz out at 2B/RF-SS
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Mets 1, Nationals 2.
+Top of the 6th, Mets Batting, Behind 1-2, Nationals' Andrés Machado facing 4-5-6 
+;;;;;;;;;Andrés Machado replaces Erasmo Ramírez pitching
+t6;1-2;0;---;6,(3-2) .BBFBF.X;O;NYM;Pete Alonso;Andrés Machado;4%;70%;Groundout: P-1B (P's Left)
+t6;1-2;1;---;2,(1-0) BX;;NYM;Brett Baty;Andrés Machado;-4%;66%;Single to RF (Line Drive to Deep RF)
+t6;1-2;1;1--;1,(0-0) X;O;NYM;Starling Marte;Andrés Machado;5%;71%;Flyball: CF (Deep CF)
+t6;1-2;2;1--;3,(2-0) B1BX;O;NYM;Daniel Vogelbach;Andrés Machado;4%;74%;Flyball: LF (Deep LF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 1, Nationals 2.
+Bottom of the 6th, Nationals Batting, Ahead 2-1, Mets' Dominic Leone facing 5-6-7 
+;;;;;;;;;Dominic Leone replaces Stephen Nogosek pitching
+b6;2-1;0;---;3,(1-1) .BFX;O;WSN;Alex Call;Dominic Leone;-2%;72%;Groundout: SS-1B (Weak SS)
+b6;2-1;1;---;3,(2-0) BBX;;WSN;Dominic Smith;Dominic Leone;2%;74%;Single to CF (Line Drive to Deep CF)
+b6;2-1;1;1--;3,(0-2) CSX;O;WSN;Jeimer Candelario;Dominic Leone;-3%;72%;Flyball: CF (Deep CF)
+b6;2-1;2;1--;3,(1-1) BFX;O;WSN;Stone Garrett;Dominic Leone;-2%;70%;Groundout: SS-2B/Forceout at 2B (Front of Home); Garrett to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 1, Nationals 2.
+Top of the 7th, Mets Batting, Behind 1-2, Nationals' Carl Edwards Jr. facing 8-9-1 
+;;;;;;;;;Carl Edwards Jr. replaces Andrés Machado pitching
+t7;1-2;0;---;3,(1-1) .CBX;O;NYM;Luis Guillorme;Carl Edwards Jr.;4%;74%;Groundout: P-1B (Weak SS-2B)
+t7;1-2;1;---;6,(3-2) CBBF.BX;;NYM;Michael Perez;Carl Edwards Jr.;-5%;69%;Single to 2B (Ground Ball to 2B-1B)
+t7;1-2;1;1--;2,(0-1) FX;;NYM;Brandon Nimmo;Carl Edwards Jr.;-17%;53%;Double to RF (Line Drive to Deep RF Line); Perez to 3B
+;;;;;;;;;Hunter Harvey replaces Carl Edwards Jr. pitching
+t7;1-2;1;-23;3,(1-1) .FBX;RO;NYM;Jeff McNeil;Hunter Harvey;0%;53%;Flyball: CF/Sacrifice Fly (LF-CF); Perez Scores
+t7;2-2;2;-2-;5,(1-2) BCT.FX;O;NYM;Francisco Lindor;Hunter Harvey;6%;59%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Mets 2, Nationals 2.
+Bottom of the 7th, Nationals Batting, Tied 2-2, Mets' Dominic Leone facing 9-1-2 
+b7;2-2;0;---;2,(1-0) BX;R;WSN;CJ Abrams;Dominic Leone;20%;79%;Home Run (Fly Ball to Deep CF)
+b7;3-2;0;---;3,(2-0) BBX;;WSN;Lane Thomas;Dominic Leone;3%;82%;Single to 3B (Ground Ball)
+b7;3-2;0;1--;2,(1-0) 1BX;O;WSN;Luis García;Dominic Leone;-3%;79%;Flyball: LF (Short LF)
+b7;3-2;1;1--;2,(1-0) *BX;O;WSN;Joey Meneses;Dominic Leone;-2%;77%;Flyball: LF (Deep LF-CF)
+b7;3-2;2;1--;1,(0-0) 1X;O;WSN;Keibert Ruiz;Dominic Leone;-2%;75%;Flyball: CF (Short CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Mets 2, Nationals 3.
+Top of the 8th, Mets Batting, Behind 2-3, Nationals' Hunter Harvey facing 4-5-6 
+t8;2-3;0;---;6,(3-2) BBBCF.T;O;NYM;Pete Alonso;Hunter Harvey;5%;80%;Strikeout Swinging
+t8;2-3;1;---;3,(0-2) SS.X;O;NYM;Brett Baty;Hunter Harvey;4%;84%;Foul Popfly: LF (Deep LF into Foul Terr.)
+t8;2-3;2;---;2,(0-1) CX;O;NYM;Starling Marte;Hunter Harvey;3%;87%;Lineout: 2B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 2, Nationals 3.
+Bottom of the 8th, Nationals Batting, Ahead 3-2, Mets' Dennis Santana facing 5-6-7 
+;;;;;;;;;Dennis Santana replaces Dominic Leone pitching
+b8;3-2;0;---;6,(3-2) .CBBBFS;O;WSN;Alex Call;Dennis Santana;-1%;86%;Strikeout Swinging
+b8;3-2;1;---;6,(2-2) FBBFFX;;WSN;Dominic Smith;Dennis Santana;1%;87%;Single to CF (Line Drive to LF-CF)
+b8;3-2;1;1--;6,(2-2) SBFF.*BH;;WSN;Jeimer Candelario;Dennis Santana;2%;89%;Hit By Pitch; Smith to 2B
+b8;3-2;1;12-;3,(0-2) FC.X;O;WSN;Stone Garrett;Dennis Santana;-2%;87%;Flyball: CF (Deep CF); Smith to 3B
+b8;3-2;2;1-3;2,(0-1) CX;O;WSN;CJ Abrams;Dennis Santana;-3%;84%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Mets 2, Nationals 3.
+Top of the 9th, Mets Batting, Behind 2-3, Nationals' Kyle Finnegan facing 7-8-9 
+;;;;;;;;;Kyle Finnegan replaces Hunter Harvey pitching
+t9;2-3;0;---;2,(1-0) .BX;O;NYM;Daniel Vogelbach;Kyle Finnegan;7%;91%;Groundout: 3B-1B
+t9;2-3;1;---;5,(2-2) BCFBC;O;NYM;Luis Guillorme;Kyle Finnegan;5%;96%;Strikeout Looking
+t9;2-3;2;---;4,(2-1) CBBX;;NYM;Michael Perez;Kyle Finnegan;-4%;92%;Single to CF (Line Drive to Deep LF-CF)
+;;;;;;;;;Tommy Pham pinch runs for Michael Perez (C) batting 9th
+t9;2-3;2;1--;4,(1-2) .CBTX;;NYM;Brandon Nimmo;Kyle Finnegan;-6%;86%;Single to LF (Ground Ball thru SS-3B Hole); Pham to 2B
+t9;2-3;2;12-;2,(1-0) BX;O;NYM;Jeff McNeil;Kyle Finnegan;14%;100%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Mets 2, Nationals 3.

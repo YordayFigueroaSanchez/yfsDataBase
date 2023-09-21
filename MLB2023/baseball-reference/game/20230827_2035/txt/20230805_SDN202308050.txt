@@ -1,0 +1,279 @@
+
+Scorebox Meta
+20230805
+5:40 p.m. Local
+42567
+Petco Park
+176
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;1;1;0;0;1;0;0;0;0;3;6;2
+https://cdn.ssref.net/req/202308251/tlogo/br/SDP-2023.png;/teams/SDP/2023.shtml;0;0;0;1;0;0;0;7;X;8;11;1
+
+Batting home
+Ha-Seong Kim;/players/k/kimha01.shtml;2B;4;1;1;0;1;1;5;.286;.383;.456;.839;23;15;0.034; 1.03;0.094;-0.060; 0.01%; 0.66; -0.5;2;2;
+Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF;3;1;0;0;1;1;4;.264;.323;.482;.805;12;6;0.055; 1.66;0.121;-0.066; 0.02%; 1.07; 0.1;4;0;
+Juan Soto;/players/s/sotoju01.shtml;LF;4;1;2;1;0;1;4;.279;.424;.531;.955;18;8;0.386; 2.04;0.426;-0.039; 0.15%; 1.31; 1.6;1;0;
+Manny Machado;/players/m/machama01.shtml;3B;4;2;2;3;0;2;4;.259;.320;.465;.785;13;8;0.228; 1.27;0.287;-0.059; 0.09%; 0.82; 1.8;0;0;HR,CS
+Xander Bogaerts;/players/b/bogaexa01.shtml;SS;4;0;1;0;0;0;4;.268;.344;.395;.739;11;8;-0.040; 0.84;0.028;-0.068;-0.02%; 0.55; -0.4;2;3;
+Jake Cronenworth;/players/c/croneja01.shtml;1B;4;1;2;1;0;1;4;.224;.313;.370;.683;21;17;0.032; 0.83;0.077;-0.045; 0.01%; 0.53; 0.7;5;1;
+Ji Man Choi;/players/c/choiji01.shtml;DH;1;0;0;0;0;1;1;.200;.238;.493;.731;5;4;-0.024; 0.86;0.000;-0.024;-0.01%; 0.55; -0.2;;;
+Garrett Cooper;/players/c/coopega03.shtml;PH-DH-DH;3;1;1;0;0;0;3;.256;.296;.424;.720;7;6;-0.117; 1.12;0.002;-0.119;-0.04%; 0.73; -0.5;;;GDP
+Gary Sánchez;/players/s/sanchga02.shtml;C;3;1;1;0;1;0;4;.216;.293;.489;.782;14;8;0.033; 0.96;0.081;-0.048; 0.01%; 0.62; 0.3;10;0;
+Trent Grisham;/players/g/grishtr01.shtml;CF;4;0;1;2;0;2;4;.214;.324;.390;.714;15;12;-0.080; 1.16;0.020;-0.100;-0.03%; 0.75; 1.1;3;0;
+Blake Snell;/players/s/snellbl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Steven Wilson;/players/w/wilsost02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nick Martinez;/players/m/martini01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ray Kerr;/players/k/kerrra01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Manny Machado (21, off Ryan Yarbrough, 4th inn, 0 on, 1 out to Deep LF).
+
+
+TB: Manny Machado 5; Juan Soto 2; Jake Cronenworth 2; Garrett Cooper; Ha-Seong Kim; Gary Sánchez; Trent Grisham; Xander Bogaerts.
+
+
+GIDP: Garrett Cooper (10).
+
+
+RBI: Manny Machado 3 (65); Trent Grisham 2 (38); Jake Cronenworth (41); Juan Soto (72).
+
+
+2-out RBI: Trent Grisham 2; Jake Cronenworth.
+
+
+Team LOB: 5.
+With RISP: 4 for 5.
+
+Batting away
+Mookie Betts;/players/b/bettsmo01.shtml;RF;4;1;2;0;0;1;4;.286;.388;.576;.964;16;9;0.072; 0.80;0.112;-0.040; 0.06%; 1.02; 0.8;4;0;2B
+Freddie Freeman;/players/f/freemfr01.shtml;1B;4;0;1;1;0;1;4;.337;.414;.589;1.003;13;9;-0.015; 0.94;0.076;-0.090;-0.01%; 1.20; -0.7;4;0;SB,GDP
+Will Smith;/players/s/smithwi05.shtml;C;3;1;1;1;1;0;4;.276;.384;.474;.858;21;11;0.065; 0.68;0.120;-0.055; 0.05%; 0.86; 0.5;9;0;HR,SB
+J.D. Martinez;/players/m/martijd02.shtml;DH;3;0;1;0;1;1;4;.260;.314;.560;.873;16;9;-0.022; 0.69;0.017;-0.039;-0.02%; 0.88; -0.3;;;
+Amed Rosario;/players/r/rosaram01.shtml;2B;3;0;0;0;0;2;3;.267;.307;.377;.683;12;8;-0.071; 0.90;0.000;-0.071;-0.06%; 1.15; -0.9;1;1;
+David Peralta;/players/p/peralda01.shtml;PH-LF;1;0;0;0;0;1;1;.275;.309;.413;.722;3;3;-0.009; 0.38;0.000;-0.009;-0.01%; 0.49; -0.2;0;0;
+Chris Taylor;/players/t/tayloch03.shtml;3B;3;1;0;0;1;1;4;.216;.297;.428;.725;19;9;0.048; 0.79;0.084;-0.036; 0.04%; 1.01; 0.4;0;2;2·SB
+James Outman;/players/o/outmaja01.shtml;CF;3;0;1;0;1;2;4;.253;.354;.434;.788;21;10;-0.025; 0.56;0.026;-0.051;-0.02%; 0.71; 0.0;5;0;
+Enrique Hernández;/players/h/hernaen02.shtml;LF-2B;3;0;0;1;0;1;4;.228;.280;.326;.607;20;13;-0.026; 0.73;0.022;-0.048;-0.02%; 0.94; -1.0;1;0;SF,GDP
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;3;0;0;0;1;0;4;.218;.274;.280;.554;13;6;-0.010; 0.47;0.023;-0.033;-0.01%; 0.60; -0.1;0;1;
+Michael Grove;/players/g/grovemi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Yarbrough;/players/y/yarbrry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brusdar Graterol;/players/g/gratebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yency Almonte;/players/a/almonye01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Caleb Ferguson;/players/f/ferguca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Alex Vesia;/players/v/vesiaal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Mookie Betts (29, off Blake Snell).
+
+
+HR: Will Smith (14, off Blake Snell, 1st inn, 0 on, 2 outs to Deep LF).
+
+
+SF: Enrique Hernández (3, off Blake Snell).
+
+
+TB: Will Smith 4; Mookie Betts 3; Freddie Freeman; J.D. Martinez; James Outman.
+
+
+GIDP: Enrique Hernández (14); Freddie Freeman (8).
+
+
+RBI: Freddie Freeman (77); Enrique Hernández (36); Will Smith (56).
+
+
+2-out RBI: Will Smith.
+
+
+Team LOB: 6.
+With RISP: 1 for 8.
+
+Pitching home
+Blake Snell;/players/s/snellbl01.shtml;Blake Snell; 5 ;4;3;3;4;8;1;2.61;23;108;60;30;14;16;2;9;7;0;51;;;-0.112; 0.81;-0.04%; 0.52; -0.5
+Steven Wilson;/players/w/wilsost02.shtml;Steven Wilson; 1 ;0;0;0;0;1;0;2.54;3;12;8;5;1;2;0;2;0;0;;0;0;0.037; 0.49; 0.01%; 0.32; 0.5
+Nick Martinez;/players/m/martini01.shtml; W (5-4); 2 ;1;0;0;1;1;0;3.68;7;22;13;7;3;3;2;3;0;0;;0;0;0.062; 0.68; 0.02%; 0.44; 1.0
+Ray Kerr;/players/k/kerrra01.shtml;Ray Kerr; 1 ;1;0;0;0;0;0;4.76;3;12;6;3;0;3;2;1;0;0;;0;0;0.006; 0.18; 0.00%; 0.11; 0.5
+
+Pitching away
+Michael Grove;/players/g/grovemi01.shtml;Michael Grove; 1.1;1;0;0;0;4;0;6.61;5;20;14;4;6;4;0;1;1;0;56;;;0.048; 0.73; 0.04%; 0.93; 0.5
+Ryan Yarbrough;/players/y/yarbrry01.shtml;Ryan Yarbrough; 4.1;3;1;1;0;3;1;4.07;16;63;45;33;6;6;2;11;2;0;;1;0;0.163; 0.89; 0.12%; 1.14; 1.3
+Brusdar Graterol;/players/g/gratebr01.shtml; H (13); 1.1;1;0;0;0;1;0;1.71;4;13;10;9;0;1;2;1;1;0;;1;0;0.115; 1.47; 0.09%; 1.89; 0.7
+Yency Almonte;/players/a/almonye01.shtml; L (3-2); 0.1;1;3;3;2;1;0;5.36;4;16;8;4;2;2;1;0;0;0;;0;0;-0.210; 2.80;-0.16%; 3.58; -1.1
+Caleb Ferguson;/players/f/ferguca01.shtml; BS (3); 0.1;5;4;0;1;0;0;2.55;7;25;14;11;0;3;2;4;3;0;;3;3;-0.625; 1.34;-0.48%; 1.71; -5.9
+Alex Vesia;/players/v/vesiaal01.shtml;Alex Vesia; 0.1;0;0;0;0;0;0;5.46;1;2;1;1;0;0;0;1;0;0;;2;0;0.001; 0.05; 0.00%; 0.06; 0.5
+
+indiv_events
+
+Balks: Blake Snell (2).
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: Blake Snell (2).
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - John Bacon, 1B - Gabe Morales, 2B - Adam Beck, 3B - Dan Iassogna, LF - (none), RF - (none).
+Time of Game: 2:56.
+Attendance: 42,567.
+Field Condition: Unknown.
+Start Time Weather: 74° F, Wind 8mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;RF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;C
+4;J.D. Martinez;/players/m/martijd02.shtml;DH
+5;Amed Rosario;/players/r/rosaram01.shtml;2B
+6;Chris Taylor;/players/t/tayloch03.shtml;3B
+7;James Outman;/players/o/outmaja01.shtml;CF
+8;Enrique Hernández;/players/h/hernaen02.shtml;LF
+9;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+; Michael Grove;/players/g/grovemi01.shtml;P
+Padres
+1;Ha-Seong Kim;/players/k/kimha01.shtml;2B
+2;Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF
+3;Juan Soto;/players/s/sotoju01.shtml;LF
+4;Manny Machado;/players/m/machama01.shtml;3B
+5;Xander Bogaerts;/players/b/bogaexa01.shtml;SS
+6;Jake Cronenworth;/players/c/croneja01.shtml;1B
+7;Ji Man Choi;/players/c/choiji01.shtml;DH
+8;Gary Sánchez;/players/s/sanchga02.shtml;C
+9;Trent Grisham;/players/g/grishtr01.shtml;CF
+; Blake Snell;/players/s/snellbl01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b8;1-3;1;123;3,(2-0) .*BBX;RR;SDP;Juan Soto;Caleb Ferguson;41%;78%;Single to 2B (Ground Ball to Weak 2B-1B); Sánchez Scores; Kim Scores/Adv on E4 (throw)/No RBI; Tatís to 3B; Soto to 2B
+b8;3-3;1;-23;1,(0-0) X;RR;SDP;Manny Machado;Caleb Ferguson;16%;94%;Single to LF (Ground Ball); Tatís Scores; Soto Scores/unER
+b8;1-3;1;12-;4,(3-0) BBBB;;SDP;Fernando Tatis Jr.;Yency Almonte;12%;37%;Walk; Sánchez to 3B; Kim to 2B
+b4;0-2;1;---;3,(2-0) BBX;R;SDP;Manny Machado;Ryan Yarbrough;12%;39%;Home Run (Fly Ball to Deep LF)
+t1;0-0;2;---;8,(3-2) BBBCFFF.X;R;LAD;Will Smith;Blake Snell;-10%;44%;Home Run (Fly Ball to Deep LF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Dodgers Batting, Tied 0-0, Padres' Blake Snell facing 1-2-3 
+t1;0-0;0;---;4,(2-1) CBBX;O;LAD;Mookie Betts;Blake Snell;2%;52%;Lineout: SS (SS-3B Hole)
+t1;0-0;1;---;5,(1-2) CBSFX;O;LAD;Freddie Freeman;Blake Snell;2%;54%;Lineout: RF (RF Line)
+t1;0-0;2;---;8,(3-2) BBBCFFF.X;R;LAD;Will Smith;Blake Snell;-10%;44%;Home Run (Fly Ball to Deep LF)
+t1;1-0;2;---;3,(1-1) FBX;;LAD;J.D. Martinez;Blake Snell;-1%;42%;Single to LF (Line Drive to Deep SS)
+t1;1-0;2;1--;4,(1-2) FF*BS;O;LAD;Amed Rosario;Blake Snell;2%;44%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Dodgers 1, Padres 0.
+Bottom of the 1st, Padres Batting, Behind 0-1, Dodgers' Michael Grove facing 1-2-3 
+b1;0-1;0;---;4,(1-2) CBCS;O;SDP;Ha-Seong Kim;Michael Grove;-2%;42%;Strikeout Swinging
+b1;0-1;1;---;3,(0-2) SSS;O;SDP;Fernando Tatis Jr.;Michael Grove;-2%;41%;Strikeout Swinging
+b1;0-1;2;---;6,(3-2) CBBBFT;O;SDP;Juan Soto;Michael Grove;-1%;39%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 1, Padres 0.
+Top of the 2nd, Dodgers Batting, Ahead 1-0, Padres' Blake Snell facing 6-7-8 
+t2;1-0;0;---;5,(3-1) SBBBB;;LAD;Chris Taylor;Blake Snell;-3%;36%;Walk
+t2;1-0;0;1--;1,(0-0) >C;;LAD;James Outman;Blake Snell;-2%;34%;Taylor Steals 2B
+t2;1-0;0;-2-;5,(2-2) >C.*BBF*S;O;LAD;James Outman;Blake Snell;4%;38%;Strikeout Swinging
+t2;1-0;1;-2-;1,(0-0) >C;;LAD;Enrique Hernández;Blake Snell;-3%;35%;Taylor Steals 3B
+t2;1-0;1;--3;7,(2-2) >C.F*BFBFX;RO;LAD;Enrique Hernández;Blake Snell;-2%;33%;Flyball: LF/Sacrifice Fly (Deep LF-CF); Taylor Scores
+t2;2-0;2;---;1,(0-0) X;O;LAD;Miguel Rojas;Blake Snell;1%;34%;Groundout: 2B-1B
+;;;;;;;;;1 run, 0 hits, 0 errors, 0 LOB. Dodgers 2, Padres 0.
+Bottom of the 2nd, Padres Batting, Behind 0-2, Dodgers' Michael Grove facing 4-5-6 
+b2;0-2;0;---;5,(2-2) SBFB.*S;O;SDP;Manny Machado;Michael Grove;-2%;31%;Strikeout Swinging
+b2;0-2;1;---;2,(0-1) CX;;SDP;Xander Bogaerts;Michael Grove;3%;34%;Single to CF (Line Drive to LF-CF)
+;;;;;;;;;Ryan Yarbrough replaces Michael Grove pitching
+b2;0-2;1;1--;8,(2-2) .BFBFF1F>FS;O;SDP;Jake Cronenworth;Ryan Yarbrough;-3%;31%;Strikeout Swinging
+b2;0-2;2;1--;5,(1-2) SS.B11F>S;O;SDP;Ji Man Choi;Ryan Yarbrough;-2%;28%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 2, Padres 0.
+Top of the 3rd, Dodgers Batting, Ahead 2-0, Padres' Blake Snell facing 1-2-3 
+t3;2-0;0;---;6,(3-2) FBCBBS;O;LAD;Mookie Betts;Blake Snell;2%;30%;Strikeout Swinging
+t3;2-0;1;---;6,(3-2) *SBBSBS;O;LAD;Freddie Freeman;Blake Snell;1%;31%;Strikeout Swinging
+t3;2-0;2;---;8,(3-2) CC.BFFBBB;;LAD;Will Smith;Blake Snell;-1%;30%;Walk
+t3;2-0;2;1--;4,(1-2) 1C*S1B>*B;;LAD;J.D. Martinez;Blake Snell;-1%;30%;Smith Steals 2B
+t3;2-0;2;-2-;5,(2-2) 1C*S1B>*B.C;O;LAD;J.D. Martinez;Blake Snell;3%;32%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Dodgers 2, Padres 0.
+Bottom of the 3rd, Padres Batting, Behind 0-2, Dodgers' Ryan Yarbrough facing 8-9-1 
+b3;0-2;0;---;4,(2-1) BBCX;O;SDP;Gary Sánchez;Ryan Yarbrough;-3%;30%;Flyball: CF (Deep CF)
+b3;0-2;1;---;6,(2-2) BFBFFS;O;SDP;Trent Grisham;Ryan Yarbrough;-2%;28%;Strikeout Swinging
+b3;0-2;2;---;1,(0-0) X;;SDP;Ha-Seong Kim;Ryan Yarbrough;1%;29%;Single to CF (Line Drive to Deep SS)
+b3;0-2;2;1--;4,(2-1) BFBX;O;SDP;Fernando Tatis Jr.;Ryan Yarbrough;-3%;27%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 2, Padres 0.
+Top of the 4th, Dodgers Batting, Ahead 2-0, Padres' Blake Snell facing 5-6-7 
+t4;2-0;0;---;4,(2-1) BBCX;O;LAD;Amed Rosario;Blake Snell;2%;28%;Lineout: RF
+t4;2-0;1;---;6,(3-2) BFBBCS;O;LAD;Chris Taylor;Blake Snell;1%;30%;Strikeout Swinging
+t4;2-0;2;---;5,(3-1) SBBBB;;LAD;James Outman;Blake Snell;-1%;29%;Walk
+t4;2-0;2;1--;,(0-0) N;;LAD;Enrique Hernández;Blake Snell;-1%;28%;Balk; Outman to 2B
+t4;2-0;2;-2-;5,(2-2) N..*BFBC.T;O;LAD;Enrique Hernández;Blake Snell;3%;30%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Dodgers 2, Padres 0.
+Bottom of the 4th, Padres Batting, Behind 0-2, Dodgers' Ryan Yarbrough facing 3-4-5 
+b4;0-2;0;---;4,(2-1) BFBX;O;SDP;Juan Soto;Ryan Yarbrough;-3%;28%;Flyball: RF (Deep CF-RF)
+b4;0-2;1;---;3,(2-0) BBX;R;SDP;Manny Machado;Ryan Yarbrough;12%;39%;Home Run (Fly Ball to Deep LF)
+b4;1-2;1;---;2,(0-1) CX;O;SDP;Xander Bogaerts;Ryan Yarbrough;-2%;37%;Flyball: RF (Short RF)
+b4;1-2;2;---;3,(0-2) FF.X;O;SDP;Jake Cronenworth;Ryan Yarbrough;-1%;36%;Groundout: 3B-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Dodgers 2, Padres 1.
+Top of the 5th, Dodgers Batting, Ahead 2-1, Padres' Blake Snell facing 9-1-2 
+t5;2-1;0;---;4,(1-2) CFBX;O;LAD;Miguel Rojas;Blake Snell;2%;38%;Groundout: SS-1B
+t5;2-1;1;---;5,(2-2) CCBBX;;LAD;Mookie Betts;Blake Snell;-8%;30%;Double to LF (Line Drive to Short LF Line); Betts to 3B/Adv on E7
+;;;;;;;;;Tag play Challenged by SDP manager (Bob Melvin): Original call upheld upon review.
+t5;2-1;1;--3;1,(0-0) X;R;LAD;Freddie Freeman;Blake Snell;-6%;24%;Single to LF (Line Drive to Deep SS-3B Hole); Betts Scores
+t5;3-1;1;1--;1,(0-0) 1>B;;LAD;Will Smith;Blake Snell;-1%;23%;Freeman Steals 2B
+t5;3-1;1;-2-;2,(1-0) 1>B.X;O;LAD;Will Smith;Blake Snell;3%;26%;Lineout: CF (CF-RF)
+t5;3-1;2;-2-;5,(3-1) SBBBB;;LAD;J.D. Martinez;Blake Snell;-1%;25%;Walk
+t5;3-1;2;12-;4,(1-2) F*S*B*S;O;LAD;Amed Rosario;Blake Snell;3%;28%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 1 error, 2 LOB. Dodgers 3, Padres 1.
+Bottom of the 5th, Padres Batting, Behind 1-3, Dodgers' Ryan Yarbrough facing 7-8-9 
+;;;;;;;;;Garrett Cooper pinch hits for Ji Man Choi (DH) batting 7th
+b5;1-3;0;---;2,(0-1) .FX;O;SDP;Garrett Cooper;Ryan Yarbrough;-3%;25%;Flyball: CF (Deep CF)
+b5;1-3;1;---;1,(0-0) X;O;SDP;Gary Sánchez;Ryan Yarbrough;-2%;23%;Flyball: CF (Deep CF)
+b5;1-3;2;---;4,(0-2) CCFX;O;SDP;Trent Grisham;Ryan Yarbrough;-1%;22%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 3, Padres 1.
+Top of the 6th, Dodgers Batting, Ahead 3-1, Padres' Steven Wilson facing 6-7-8 
+;;;;;;;;;Steven Wilson replaces Blake Snell pitching
+t6;3-1;0;---;2,(0-1) ..FX;O;LAD;Chris Taylor;Steven Wilson;2%;23%;Popfly: 1B
+t6;3-1;1;---;5,(2-2) FCBBS;O;LAD;James Outman;Steven Wilson;1%;24%;Strikeout Swinging
+t6;3-1;2;---;5,(2-2) CFBBX;O;LAD;Enrique Hernández;Steven Wilson;1%;25%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 3, Padres 1.
+Bottom of the 6th, Padres Batting, Behind 1-3, Dodgers' Ryan Yarbrough facing 1-2-3 
+b6;1-3;0;---;10,(2-2) CBCFFFFFBX;O;SDP;Ha-Seong Kim;Ryan Yarbrough;-3%;22%;Popfly: 1B (Deep 1B)
+b6;1-3;1;---;1,(0-0) X;O;SDP;Fernando Tatis Jr.;Ryan Yarbrough;-2%;19%;Lineout: LF (Deep LF Line)
+b6;1-3;2;---;5,(3-1) BSBBX;;SDP;Juan Soto;Ryan Yarbrough;2%;21%;Single to RF (Ground Ball)
+;;;;;;;;;Brusdar Graterol replaces Ryan Yarbrough pitching
+b6;1-3;2;1--;4,(1-2) .BFF.C;O;SDP;Manny Machado;Brusdar Graterol;-3%;18%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 3, Padres 1.
+Top of the 7th, Dodgers Batting, Ahead 3-1, Padres' Nick Martinez facing 9-1-2 
+;;;;;;;;;Nick Martinez replaces Steven Wilson pitching
+t7;3-1;0;---;5,(3-1) .BBBCB;;LAD;Miguel Rojas;Nick Martinez;-2%;16%;Walk
+t7;3-1;0;1--;1,(0-0) X;;LAD;Mookie Betts;Nick Martinez;-3%;12%;Single to RF (Ground Ball thru 2B-1B); Rojas to 2B
+t7;3-1;0;12-;1,(0-0) X;OO;LAD;Freddie Freeman;Nick Martinez;6%;19%;Ground Ball Double Play: 1B-SS-1B; Rojas to 3B
+t7;3-1;2;--3;3,(2-0) B*BX;O;LAD;Will Smith;Nick Martinez;3%;21%;Popfly: 2B (Short CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 3, Padres 1.
+Bottom of the 7th, Padres Batting, Behind 1-3, Dodgers' Brusdar Graterol facing 5-6-7 
+b7;1-3;0;---;2,(0-1) FX;O;SDP;Xander Bogaerts;Brusdar Graterol;-4%;18%;Groundout: 3B-1B (SS-3B Hole)
+b7;1-3;1;---;4,(1-2) BFFX;;SDP;Jake Cronenworth;Brusdar Graterol;5%;22%;Single to LF (Line Drive to Short LF)
+b7;1-3;1;1--;3,(1-1) BFX;OO;SDP;Garrett Cooper;Brusdar Graterol;-9%;13%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Dodgers 3, Padres 1.
+Top of the 8th, Dodgers Batting, Ahead 3-1, Padres' Nick Martinez facing 4-5-6 
+t8;3-1;0;---;3,(0-2) SS.X;O;LAD;J.D. Martinez;Nick Martinez;1%;15%;Flyball: RF (Short RF)
+;;;;;;;;;David Peralta pinch hits for Amed Rosario (2B) batting 5th
+t8;3-1;1;---;3,(0-2) .CFS;O;LAD;David Peralta;Nick Martinez;1%;15%;Strikeout Swinging
+t8;3-1;2;---;6,(3-2) BBBCFX;O;LAD;Chris Taylor;Nick Martinez;1%;16%;Flyball: RF (CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 3, Padres 1.
+Bottom of the 8th, Padres Batting, Behind 1-3, Dodgers' Yency Almonte facing 8-9-1 
+;;;;;;;;;Yency Almonte replaces Brusdar Graterol pitchingEnrique Hernández moves from LF to 2B David Peralta moves from PH to LF 
+b8;1-3;0;---;3,(0-2) ...CFX;;SDP;Gary Sánchez;Yency Almonte;8%;24%;Single to 3B (Ground Ball to SS-3B Hole)
+b8;1-3;0;1--;3,(0-2) STS;O;SDP;Trent Grisham;Yency Almonte;-7%;17%;Strikeout Swinging
+b8;1-3;1;1--;6,(3-2) FBBBC*B;;SDP;Ha-Seong Kim;Yency Almonte;8%;25%;Walk; Sánchez to 2B
+b8;1-3;1;12-;4,(3-0) BBBB;;SDP;Fernando Tatis Jr.;Yency Almonte;12%;37%;Walk; Sánchez to 3B; Kim to 2B
+;;;;;;;;;Caleb Ferguson replaces Yency Almonte pitching
+b8;1-3;1;123;3,(2-0) .*BBX;RR;SDP;Juan Soto;Caleb Ferguson;41%;78%;Single to 2B (Ground Ball to Weak 2B-1B); Sánchez Scores; Kim Scores/Adv on E4 (throw)/No RBI; Tatís to 3B; Soto to 2B
+b8;3-3;1;-23;1,(0-0) X;RR;SDP;Manny Machado;Caleb Ferguson;16%;94%;Single to LF (Ground Ball); Tatís Scores; Soto Scores/unER
+b8;5-3;1;1--;5,(3-1) B1CB*BX;O;SDP;Xander Bogaerts;Caleb Ferguson;-1%;93%;Foul Popfly: RF (Short RF into Foul Terr.)
+b8;5-3;2;1--;4,(1-2) CF.BF1;;SDP;Jake Cronenworth;Caleb Ferguson;1%;94%;Machado Caught Stealing (PO) 2B (E1); Machado to 3B
+b8;5-3;2;--3;6,(1-2) CF.BF1.FX;R;SDP;Jake Cronenworth;Caleb Ferguson;3%;97%;Single to LF (Line Drive to Short LF); Machado Scores/unER
+b8;6-3;2;1--;2,(0-1) FX;;SDP;Garrett Cooper;Caleb Ferguson;0%;97%;Single to CF (Line Drive); Cronenworth to 2B
+b8;6-3;2;12-;6,(3-2) BCBF.B>B;;SDP;Gary Sánchez;Caleb Ferguson;0%;98%;Walk; Cronenworth to 3B; Cooper to 2B
+b8;6-3;2;123;2,(1-0) BX;RR;SDP;Trent Grisham;Caleb Ferguson;2%;100%;Single to LF (Line Drive to LF-CF); Cronenworth Scores/unER; Cooper Scores/unER; Sánchez to 3B
+;;;;;;;;;Alex Vesia replaces Caleb Ferguson pitching
+b8;8-3;2;1-3;2,(1-0) .BX;O;SDP;Ha-Seong Kim;Alex Vesia;0%;99%;Flyball: RF
+;;;;;;;;;7 runs, 6 hits, 2 errors, 2 LOB. Dodgers 3, Padres 8.
+Top of the 9th, Dodgers Batting, Behind 3-8, Padres' Ray Kerr facing 7-8-9 
+;;;;;;;;;Ray Kerr replaces Nick Martinez pitching
+t9;3-8;0;---;6,(3-2) .BBBCCX;;LAD;James Outman;Ray Kerr;-1%;99%;Single to LF (Ground Ball thru SS-3B Hole)
+t9;3-8;0;1--;3,(1-1) CBX;OO;LAD;Enrique Hernández;Ray Kerr;1%;100%;Ground Ball Double Play: SS-2B-1B
+t9;3-8;2;---;3,(2-0) BBX;O;LAD;Miguel Rojas;Ray Kerr;0%;100%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Dodgers 3, Padres 8.

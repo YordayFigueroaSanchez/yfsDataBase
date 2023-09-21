@@ -1,0 +1,262 @@
+
+Scorebox Meta
+20230915
+7:10 p.m. Local
+27811
+Citi Field
+173
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/CIN-2023.png;/teams/CIN/2023.shtml;0;0;0;0;1;2;2;0;0;5;8;0
+https://cdn.ssref.net/req/202309121/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;0;0;3;0;0;0;3;5;2
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;LF;3;0;1;0;1;1;4;.267;.359;.460;.818;29;19;0.050; 1.16;0.110;-0.060;0%; 0.01; 0.1;1;0;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;1;0;0;0;1;4;.249;.328;.457;.785;15;11;-0.147; 1.54;0.000;-0.147;-0.00%; 0.01; -1.1;1;3;
+DJ Stewart;/players/s/stewadj01.shtml;RF;4;1;2;0;0;1;4;.278;.352;.603;.955;19;14;0.080; 1.10;0.110;-0.030;0%; 0.01; 0.4;2;0;
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;1;1;3;0;1;4;.226;.330;.535;.865;17;10;0.223; 1.89;0.355;-0.132; 0.00%; 0.01; 1.8;6;0;HR
+Jeff McNeil;/players/m/mcneije01.shtml;2B;4;0;1;0;0;0;4;.266;.331;.369;.699;13;10;-0.028; 1.49;0.091;-0.119;0%; 0.01; -0.1;1;1;2B
+Ronny Mauricio;/players/m/mauriro01.shtml;3B;3;0;0;0;1;1;4;.282;.333;.410;.744;16;11;0.019; 1.67;0.100;-0.081;0%; 0.01; 0.1;1;1;
+Rafael Ortega;/players/o/ortegra01.shtml;CF;2;0;0;0;2;1;4;.225;.361;.292;.653;23;10;0.011; 1.58;0.130;-0.119;0%; 0.01; 0.2;1;0;SB
+Mark Vientos;/players/v/vientma01.shtml;DH;4;0;0;0;0;1;4;.205;.251;.337;.589;18;13;-0.309; 1.97;0.000;-0.309;-0.00%; 0.01; -2.0;;;GDP
+Omar Narváez;/players/n/narvaom01.shtml;C;3;0;0;0;0;2;3;.183;.264;.248;.512;13;8;-0.122; 1.48;0.000;-0.122;-0.00%; 0.01; -1.0;13;0;
+David Peterson;/players/p/peterda01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;2;
+Grant Hartwig;/players/h/hartwgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Drew Smith;/players/s/smithdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Phil Bickford;/players/b/bickfph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jeff McNeil (23, off Hunter Greene).
+
+
+HR: Pete Alonso (45, off Hunter Greene, 6th inn, 2 on, 2 outs to Deep LF).
+
+
+TB: Pete Alonso 4; Jeff McNeil 2; DJ Stewart 2; Brandon Nimmo.
+
+
+GIDP: Mark Vientos (4).
+
+
+RBI: Pete Alonso 3 (112).
+
+
+2-out RBI: Pete Alonso 3.
+
+
+Team LOB: 5.
+With RISP: 1 for 10.
+
+Batting away
+Jonathan India;/players/i/indiajo01.shtml;2B;5;1;1;2;0;3;5;.246;.331;.411;.741;25;17;0.174; 1.10;0.257;-0.082; 0.15%; 1.63; 0.7;1;2;HR
+Nick Senzel;/players/s/senzeni01.shtml;3B;5;1;1;0;0;1;5;.232;.295;.386;.681;19;13;-0.026; 0.69;0.038;-0.063;-0.02%; 1.03; -0.4;1;1;
+Spencer Steer;/players/s/steersp01.shtml;1B;3;1;1;2;1;1;4;.265;.354;.454;.809;14;6;0.174; 0.80;0.196;-0.022; 0.15%; 1.18; 1.6;8;0;HR
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;4;0;1;0;0;2;4;.235;.299;.420;.719;16;10;-0.017; 0.78;0.037;-0.054;-0.01%; 1.16; -0.3;2;0;
+Tyler Stephenson;/players/s/stephty01.shtml;DH;4;0;1;0;0;2;4;.252;.328;.381;.709;17;12;0.008; 0.84;0.057;-0.050; 0.01%; 1.25; -0.0;;;
+Noelvi Marte;/players/m/marteno01.shtml;SS;4;1;3;0;0;0;4;.306;.367;.417;.784;9;5;0.063; 1.35;0.170;-0.108; 0.06%; 2.01; 0.4;1;3;
+TJ Friedl;/players/f/friedtj01.shtml;LF;3;0;0;0;1;2;4;.271;.341;.446;.788;27;16;-0.090; 1.09;0.010;-0.099;-0.08%; 1.62; -0.8;0;0;
+Harrison Bader;/players/b/baderha01.shtml;CF;4;0;0;0;0;0;4;.234;.276;.351;.628;15;11;0.025; 0.97;0.086;-0.061; 0.02%; 1.45; -0.3;5;0;
+Luke Maile;/players/m/mailelu01.shtml;C;3;1;0;0;0;2;4;.226;.302;.378;.680;10;7;-0.032; 1.02;0.059;-0.091;-0.03%; 1.52; -0.6;9;0;HBP
+Hunter Greene;/players/g/greenhu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Lucas Sims;/players/s/simslu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ian Gibaut;/players/g/gibauia01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Alexis Díaz;/players/d/diazal03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Spencer Steer (22, off David Peterson, 6th inn, 1 on, 0 outs to Deep CF); Jonathan India (16, off Grant Hartwig, 7th inn, 1 on, 0 outs to Deep LF-CF).
+
+
+HBP: Luke Maile (5, by Grant Hartwig).
+
+
+TB: Spencer Steer 4; Jonathan India 4; Noelvi Marte 3; Nick Senzel; Tyler Stephenson; Hunter Renfroe.
+
+
+RBI: Spencer Steer 2 (81); Jonathan India 2 (57).
+
+
+Team LOB: 6.
+With RISP: 0 for 5.
+
+Pitching home
+David Peterson;/players/p/peterda01.shtml;David Peterson; 5.2;6;3;2;2;10;1;5.22;25;95;59;27;16;16;10;3;1;0;55;;;-0.068; 1.12; 0.00%; 0.01; -0.4
+Grant Hartwig;/players/h/hartwgr01.shtml; L (4-2); 1.2;2;2;2;0;3;1;5.65;8;34;22;11;4;7;1;3;1;0;;2;0;-0.259; 0.88;-0.00%; 0.01; -1.1
+Drew Smith;/players/s/smithdr01.shtml;Drew Smith; 0.2;0;0;0;0;0;0;4.50;2;15;11;10;0;1;0;2;0;0;;1;0;0.030; 0.58; 0.00%; 0.00; 0.5
+Phil Bickford;/players/b/bickfph01.shtml;Phil Bickford; 1 ;0;0;0;0;0;0;5.29;3;8;5;5;0;0;1;2;0;0;;0;0;0.018; 0.24; 0.00%; 0.00; 0.5
+
+Pitching away
+Hunter Greene;/players/g/greenhu01.shtml;Hunter Greene; 5.2;4;3;3;1;6;1;4.45;22;98;66;38;13;15;7;8;1;0;54;;;-0.064; 1.14;-0.06%; 1.69; -0.0
+Lucas Sims;/players/s/simslu01.shtml; W (6-3); 0.1;0;0;0;2;0;0;3.38;3;16;6;4;0;2;1;0;0;0;;0;0;-0.155; 1.81;-0.14%; 2.68; -0.9
+Ian Gibaut;/players/g/gibauia01.shtml; H (22); 1.1;1;0;0;1;1;0;3.07;5;27;19;15;0;4;2;1;1;0;;2;0;0.167; 2.56; 0.15%; 3.80; 1.1
+Alexis Díaz;/players/d/diazal03.shtml; S (37); 1.2;0;0;0;0;2;0;2.10;5;22;15;8;4;3;1;2;0;0;;2;0;0.273; 2.21; 0.24%; 3.28; 1.4
+
+indiv_events
+
+Balks: Lucas Sims (1).
+WP: David Peterson (6).
+HBP: Grant Hartwig (5; Luke Maile).
+IBB: None.
+Pickoffs: David Peterson (5; Noelvi Marte, 1st base).
+
+Balks: Lucas Sims (1).
+WP: David Peterson (6).
+HBP: Grant Hartwig (5; Luke Maile).
+IBB: None.
+Pickoffs: David Peterson (5; Noelvi Marte, 1st base).
+
+section_content
+Umpires: HP - David Rackley, 1B - Larry Vanover, 2B - Edwin Moscoso, 3B - D.J. Reyburn, LF - (none), RF - (none).
+Time of Game: 2:53.
+Attendance: 27,811.
+Field Condition: Unknown.
+Start Time Weather: 67° F, Wind 11mph in from Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Reds
+1;Jonathan India;/players/i/indiajo01.shtml;2B
+2;Nick Senzel;/players/s/senzeni01.shtml;3B
+3;Spencer Steer;/players/s/steersp01.shtml;1B
+4;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+5;Tyler Stephenson;/players/s/stephty01.shtml;DH
+6;Noelvi Marte;/players/m/marteno01.shtml;SS
+7;TJ Friedl;/players/f/friedtj01.shtml;LF
+8;Harrison Bader;/players/b/baderha01.shtml;CF
+9;Luke Maile;/players/m/mailelu01.shtml;C
+; Hunter Greene;/players/g/greenhu01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;LF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;DJ Stewart;/players/s/stewadj01.shtml;RF
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Jeff McNeil;/players/m/mcneije01.shtml;2B
+6;Ronny Mauricio;/players/m/mauriro01.shtml;3B
+7;Rafael Ortega;/players/o/ortegra01.shtml;CF
+8;Mark Vientos;/players/v/vientma01.shtml;DH
+9;Omar Narváez;/players/n/narvaom01.shtml;C
+; David Peterson;/players/p/peterda01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b6;0-3;2;1-3;3,(1-1) *BCX;RRR;NYM;Pete Alonso;Hunter Greene;-36%;48%;Home Run (Fly Ball to Deep LF); Lindor Scores; Stewart Scores
+t7;3-3;0;1--;5,(2-2) BBCFX;RR;CIN;Jonathan India;Grant Hartwig;26%;82%;Home Run (Fly Ball to Deep LF-CF); Maile Scores
+b7;3-5;0;12-;4,(1-2) .C*BCX;OO;NYM;Mark Vientos;Ian Gibaut;20%;81%;Ground Ball Double Play: SS-2B-1B (Weak SS); Mauricio to 3B
+t6;1-0;0;1--;1,(0-0) X;RR;CIN;Spencer Steer;David Peterson;17%;86%;Home Run (Fly Ball to Deep CF); Senzel Scores
+t5;0-0;1;1-3;3,(0-2) ML1B;R;CIN;Luke Maile;David Peterson;10%;69%;Wild Pitch; Marte Scores/No RBI/unER; Bader to 3B/Adv on E2 (throw)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Reds Batting, Tied 0-0, Mets' David Peterson facing 1-2-3 
+t1;0-0;0;---;6,(2-2) BSCBFS;O;CIN;Jonathan India;David Peterson;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;7,(3-2) BBCFBFX;O;CIN;Nick Senzel;David Peterson;-2%;46%;Groundout: P-1B (Weak SS-2B)
+t1;0-0;2;---;3,(2-0) BBX;O;CIN;Spencer Steer;David Peterson;-1%;45%;Groundout: SS-1B (Weak SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Reds' Hunter Greene facing 1-2-3 
+b1;0-0;0;---;9,(3-2) CBFFFBFBC;O;NYM;Brandon Nimmo;Hunter Greene;2%;47%;Strikeout Looking
+b1;0-0;1;---;3,(1-1) CBX;O;NYM;Francisco Lindor;Hunter Greene;2%;49%;Popfly: 3B
+b1;0-0;2;---;2,(1-0) BX;O;NYM;DJ Stewart;Hunter Greene;1%;50%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 0, Mets 0.
+Top of the 2nd, Reds Batting, Tied 0-0, Mets' David Peterson facing 4-5-6 
+t2;0-0;0;---;4,(2-1) FBBX;;CIN;Hunter Renfroe;David Peterson;4%;54%;Single to CF (Ground Ball thru SS-2B)
+t2;0-0;0;1--;3,(1-1) BCX;;CIN;Tyler Stephenson;David Peterson;6%;59%;Single to RF (Ground Ball); Renfroe to 2B
+t2;0-0;0;12-;1,(0-0) X;O;CIN;Noelvi Marte;David Peterson;-3%;57%;Groundout: 2B-SS/Forceout at 2B (SS-2B); Renfroe to 3B; Marte to 1B
+t2;0-0;1;1-3;2,(1-1) L*B1;O;CIN;TJ Friedl;David Peterson;-8%;49%;Marte Picked off 1B (P-1B)
+t2;0-0;2;--3;5,(2-2) L*B1.BCC;O;CIN;TJ Friedl;David Peterson;-4%;45%;Strikeout Looking
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Reds 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Reds' Hunter Greene facing 4-5-6 
+b2;0-0;0;---;6,(3-2) BBCB.FX;O;NYM;Pete Alonso;Hunter Greene;2%;47%;Groundout: 3B-1B
+b2;0-0;1;---;1,(0-0) X;O;NYM;Jeff McNeil;Hunter Greene;2%;49%;Groundout: P-1B (Front of Home)
+b2;0-0;2;---;3,(0-2) CFX;O;NYM;Ronny Mauricio;Hunter Greene;1%;50%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 0, Mets 0.
+Top of the 3rd, Reds Batting, Tied 0-0, Mets' David Peterson facing 8-9-1 
+t3;0-0;0;---;2,(0-1) SX;O;CIN;Harrison Bader;David Peterson;-3%;47%;Groundout: P unassisted (Weak 1B)
+t3;0-0;1;---;4,(1-2) CBCC;O;CIN;Luke Maile;David Peterson;-2%;46%;Strikeout Looking
+t3;0-0;2;---;3,(0-2) CFS;O;CIN;Jonathan India;David Peterson;-1%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 0, Mets 0.
+Bottom of the 3rd, Mets Batting, Tied 0-0, Reds' Hunter Greene facing 7-8-9 
+b3;0-0;0;---;7,(3-2) FCBFBBB;;NYM;Rafael Ortega;Hunter Greene;-4%;41%;Walk
+b3;0-0;0;1--;4,(1-2) C1BSX;O;NYM;Mark Vientos;Hunter Greene;4%;44%;Flyball: CF
+b3;0-0;1;1--;3,(1-1) BC>C;;NYM;Omar Narváez;Hunter Greene;-2%;42%;Ortega Steals 2B
+b3;0-0;1;-2-;7,(3-2) BC>C.BBFS;O;NYM;Omar Narváez;Hunter Greene;4%;46%;Strikeout Swinging
+b3;0-0;2;-2-;1,(0-0) X;O;NYM;Brandon Nimmo;Hunter Greene;4%;50%;Flyball: CF (CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Reds 0, Mets 0.
+Top of the 4th, Reds Batting, Tied 0-0, Mets' David Peterson facing 2-3-4 
+t4;0-0;0;---;2,(0-1) FX;O;CIN;Nick Senzel;David Peterson;-3%;47%;Flyball: RF (Deep RF)
+t4;0-0;1;---;5,(3-1) BCBBB;;CIN;Spencer Steer;David Peterson;3%;50%;Walk
+t4;0-0;1;1--;5,(1-2) C1BFFS;O;CIN;Hunter Renfroe;David Peterson;-3%;47%;Strikeout Swinging
+t4;0-0;2;1--;3,(0-2) CFS;O;CIN;Tyler Stephenson;David Peterson;-3%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Reds 0, Mets 0.
+Bottom of the 4th, Mets Batting, Tied 0-0, Reds' Hunter Greene facing 2-3-4 
+b4;0-0;0;---;3,(1-1) CBX;O;NYM;Francisco Lindor;Hunter Greene;3%;47%;Flyball: RF (Deep CF-RF)
+b4;0-0;1;---;6,(2-2) TBBS.FS;O;NYM;DJ Stewart;Hunter Greene;2%;49%;Strikeout Swinging
+b4;0-0;2;---;5,(2-2) BFBS.S;O;NYM;Pete Alonso;Hunter Greene;1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 0, Mets 0.
+Top of the 5th, Reds Batting, Tied 0-0, Mets' David Peterson facing 6-7-8 
+t5;0-0;0;---;5,(3-1) BBBCX;;CIN;Noelvi Marte;David Peterson;5%;55%;Single to SS (Ground Ball to SS-2B)
+t5;0-0;0;1--;6,(2-2) SS.1BBFS;O;CIN;TJ Friedl;David Peterson;-4%;50%;Strikeout Swinging
+t5;0-0;1;1--;4,(1-2) CBCX;;CIN;Harrison Bader;David Peterson;9%;59%;Fielder's Choice 3B; Marte to 3B/Adv on E5; Bader to 1B
+t5;0-0;1;1-3;3,(0-2) ML1B;R;CIN;Luke Maile;David Peterson;10%;69%;Wild Pitch; Marte Scores/No RBI/unER; Bader to 3B/Adv on E2 (throw)
+t5;1-0;1;--3;4,(1-2) ML1B.*S;O;CIN;Luke Maile;David Peterson;-7%;63%;Strikeout Swinging
+t5;1-0;2;--3;6,(2-2) FS*BFBS;O;CIN;Jonathan India;David Peterson;-4%;58%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 2 errors, 1 LOB. Reds 1, Mets 0.
+Bottom of the 5th, Mets Batting, Behind 0-1, Reds' Hunter Greene facing 5-6-7 
+b5;0-1;0;---;1,(0-0) X;;NYM;Jeff McNeil;Hunter Greene;-9%;49%;Double to RF (Fly Ball to Deep RF Line)
+b5;0-1;0;-2-;4,(0-2) SS.FX;O;NYM;Ronny Mauricio;Hunter Greene;2%;52%;Lineout: CF (Deep CF); McNeil to 3B
+b5;0-1;1;--3;6,(3-2) SBSBBS;O;NYM;Rafael Ortega;Hunter Greene;9%;60%;Strikeout Swinging
+b5;0-1;2;--3;5,(1-2) FF.FBX;O;NYM;Mark Vientos;Hunter Greene;6%;66%;Groundout: SS-1B (Weak SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Reds 1, Mets 0.
+Top of the 6th, Reds Batting, Ahead 1-0, Mets' David Peterson facing 2-3-4 
+t6;1-0;0;---;3,(1-1) BCX;;CIN;Nick Senzel;David Peterson;4%;70%;Single to SS (Ground Ball to Weak SS)
+t6;1-0;0;1--;1,(0-0) X;RR;CIN;Spencer Steer;David Peterson;17%;86%;Home Run (Fly Ball to Deep CF); Senzel Scores
+t6;3-0;0;---;3,(2-0) BBX;O;CIN;Hunter Renfroe;David Peterson;-1%;85%;Groundout: SS-1B (Weak SS-2B)
+t6;3-0;1;---;5,(2-2) SBBS.S;O;CIN;Tyler Stephenson;David Peterson;-1%;84%;Strikeout Swinging
+t6;3-0;2;---;1,(0-0) X;;CIN;Noelvi Marte;David Peterson;1%;85%;Single to CF (Line Drive to Deep CF)
+t6;3-0;2;1--;4,(3-0) *BBBB;;CIN;TJ Friedl;David Peterson;1%;86%;Walk; Marte to 2B
+;;;;;;;;;Grant Hartwig replaces David Peterson pitching
+t6;3-0;2;12-;6,(2-2) .BBCCFX;O;CIN;Harrison Bader;Grant Hartwig;-2%;84%;Flyball: CF (Short CF)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Reds 3, Mets 0.
+Bottom of the 6th, Mets Batting, Behind 0-3, Reds' Hunter Greene facing 9-1-2 
+b6;0-3;0;---;5,(2-2) CFBBC;O;NYM;Omar Narváez;Hunter Greene;3%;87%;Strikeout Looking
+b6;0-3;1;---;10,(3-2) BCCBFBFFFX;;NYM;Brandon Nimmo;Hunter Greene;-3%;83%;Single to LF (Ground Ball thru SS-3B Hole)
+b6;0-3;1;1--;3,(1-1) S.1BX;O;NYM;Francisco Lindor;Hunter Greene;3%;87%;Groundout: 2B-SS/Forceout at 2B; Lindor to 1B
+b6;0-3;2;1--;4,(0-2) SF1FX;;NYM;DJ Stewart;Hunter Greene;-3%;84%;Single to RF (Ground Ball); Lindor to 3B
+b6;0-3;2;1-3;3,(1-1) *BCX;RRR;NYM;Pete Alonso;Hunter Greene;-36%;48%;Home Run (Fly Ball to Deep LF); Lindor Scores; Stewart Scores
+;;;;;;;;;Lucas Sims replaces Hunter Greene pitching
+b6;3-3;2;---;6,(2-2) .BBFFFX;O;NYM;Jeff McNeil;Lucas Sims;2%;50%;Groundout: 1B unassisted (Weak 1B)
+;;;;;;;;;3 runs, 3 hits, 0 errors, 0 LOB. Reds 3, Mets 3.
+Top of the 7th, Reds Batting, Tied 3-3, Mets' Grant Hartwig facing 9-1-2 
+t7;3-3;0;---;1,(0-0) H;;CIN;Luke Maile;Grant Hartwig;6%;56%;Hit By Pitch
+t7;3-3;0;1--;5,(2-2) BBCFX;RR;CIN;Jonathan India;Grant Hartwig;26%;82%;Home Run (Fly Ball to Deep LF-CF); Maile Scores
+t7;5-3;0;---;5,(1-2) CSBFC;O;CIN;Nick Senzel;Grant Hartwig;-2%;80%;Strikeout Looking
+t7;5-3;1;---;5,(2-2) BCBFS;O;CIN;Spencer Steer;Grant Hartwig;-1%;79%;Strikeout Swinging
+t7;5-3;2;---;4,(1-2) SFBS;O;CIN;Hunter Renfroe;Grant Hartwig;-1%;78%;Strikeout Swinging
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Reds 5, Mets 3.
+Bottom of the 7th, Mets Batting, Behind 3-5, Reds' Lucas Sims facing 6-7-8 
+b7;3-5;0;---;5,(3-1) BCBBB;;NYM;Ronny Mauricio;Lucas Sims;-7%;71%;Walk
+b7;3-5;0;1--;4,(3-1) 1BC1BB1;;NYM;Rafael Ortega;Lucas Sims;-3%;68%;Balk; Mauricio to 2B
+b7;3-5;0;-2-;5,(3-1) 1BC1BB1.B;;NYM;Rafael Ortega;Lucas Sims;-7%;61%;Walk
+;;;;;;;;;Ian Gibaut replaces Lucas Sims pitching
+b7;3-5;0;12-;4,(1-2) .C*BCX;OO;NYM;Mark Vientos;Ian Gibaut;20%;81%;Ground Ball Double Play: SS-2B-1B (Weak SS); Mauricio to 3B
+b7;3-5;2;--3;1,(0-0) X;O;NYM;Omar Narváez;Ian Gibaut;6%;86%;Groundout: SS-1B (Weak SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Reds 5, Mets 3.
+Top of the 8th, Reds Batting, Ahead 5-3, Mets' Grant Hartwig facing 5-6-7 
+t8;5-3;0;---;6,(2-2) CBBFF.X;O;CIN;Tyler Stephenson;Grant Hartwig;-1%;85%;Groundout: 3B-1B (Weak 3B)
+t8;5-3;1;---;2,(1-0) BX;;CIN;Noelvi Marte;Grant Hartwig;1%;86%;Single to LF (Line Drive)
+;;;;;;;;;Drew Smith replaces Grant Hartwig pitching
+t8;5-3;1;1--;12,(3-2) .BBC1T.FB>F1>F>F>F>F>X;O;CIN;TJ Friedl;Drew Smith;-2%;85%;Popfly: 3B (Weak SS-2B)
+t8;5-3;2;1--;3,(1-1) FBX;O;CIN;Harrison Bader;Drew Smith;-1%;83%;Popfly: 2B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Reds 5, Mets 3.
+Bottom of the 8th, Mets Batting, Behind 3-5, Reds' Ian Gibaut facing 1-2-3 
+b8;3-5;0;---;9,(3-2) CBFFBBFFB;;NYM;Brandon Nimmo;Ian Gibaut;-8%;75%;Walk
+b8;3-5;0;1--;6,(1-2) FFBFFC;O;NYM;Francisco Lindor;Ian Gibaut;7%;82%;Strikeout Looking
+b8;3-5;1;1--;7,(2-2) FFBFFBX;;NYM;DJ Stewart;Ian Gibaut;-8%;75%;Single to RF (Line Drive to Short RF); Nimmo to 2B
+;;;;;;;;;Alexis Díaz replaces Ian Gibaut pitching
+b8;3-5;1;12-;3,(1-1) .C*BX;O;NYM;Pete Alonso;Alexis Díaz;10%;84%;Flyball: CF
+b8;3-5;2;12-;5,(1-2) FFF*BX;O;NYM;Jeff McNeil;Alexis Díaz;8%;92%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Reds 5, Mets 3.
+Top of the 9th, Reds Batting, Ahead 5-3, Mets' Phil Bickford facing 9-1-2 
+;;;;;;;;;Phil Bickford replaces Drew Smith pitching
+t9;5-3;0;---;1,(0-0) .X;O;CIN;Luke Maile;Phil Bickford;-1%;92%;Groundout: SS-1B
+t9;5-3;1;---;5,(2-2) BBTFX;O;CIN;Jonathan India;Phil Bickford;-1%;91%;Flyball: LF (Deep LF-CF)
+t9;5-3;2;---;2,(1-0) BX;O;CIN;Nick Senzel;Phil Bickford;0%;91%;Flyball: RF (Short CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 5, Mets 3.
+Bottom of the 9th, Mets Batting, Behind 3-5, Reds' Alexis Díaz facing 6-7-8 
+b9;3-5;0;---;4,(1-2) CFBS;O;NYM;Ronny Mauricio;Alexis Díaz;5%;95%;Strikeout Swinging
+b9;3-5;1;---;5,(2-2) CBF.BX;O;NYM;Rafael Ortega;Alexis Díaz;3%;98%;Groundout: 1B unassisted (Weak 1B)
+b9;3-5;2;---;5,(2-2) SBBSS;O;NYM;Mark Vientos;Alexis Díaz;2%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 5, Mets 3.

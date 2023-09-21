@@ -1,0 +1,297 @@
+
+Scorebox Meta
+20230702
+4:05 p.m. Local
+38392
+Wrigley Field
+178
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CLE-2023.png;/teams/CLE/2023.shtml;0;0;2;1;3;0;0;0;0;2;8;10;1
+https://cdn.ssref.net/req/202308101/tlogo/br/CHC-2023.png;/teams/CHC/2023.shtml;0;0;0;0;1;0;0;1;4;0;6;8;2
+
+Batting home
+Mike Tauchman;/players/t/tauchmi01.shtml;LF;5;1;1;1;0;0;5;.259;.367;.345;.712;24;14;-0.020; 0.93;0.059;-0.079;-0.01%; 0.45; -0.5;1;0;
+Nico Hoerner;/players/h/hoernni01.shtml;2B;4;1;0;0;0;0;5;.283;.332;.395;.728;16;9;0.081; 1.02;0.127;-0.045; 0.02%; 0.49; 0.2;1;7;HBP
+Christopher Morel;/players/m/morelch01.shtml;3B;5;1;3;3;0;0;5;.279;.327;.617;.944;23;14;0.249; 1.46;0.294;-0.044; 0.07%; 0.70; 2.2;1;0;HR
+Cody Bellinger;/players/b/bellico01.shtml;CF;4;0;1;1;0;0;5;.276;.333;.458;.792;18;13;0.037; 1.72;0.110;-0.073; 0.01%; 0.83; -0.6;4;0;SF
+Seiya Suzuki;/players/s/suzukse01.shtml;RF;4;0;0;0;1;2;5;.246;.335;.386;.720;20;11;-0.113; 1.01;0.012;-0.125;-0.03%; 0.49; -0.8;0;0;
+Dansby Swanson;/players/s/swansda01.shtml;SS;5;0;0;0;0;1;5;.256;.343;.401;.743;14;11;-0.150; 1.16;0.000;-0.150;-0.04%; 0.56; -1.4;4;3;
+Jared Young;/players/y/youngja02.shtml;1B;2;1;0;0;2;1;4;.308;.400;.846;1.246;22;9;0.016; 0.48;0.038;-0.023; 0.00%; 0.23; 0.6;10;0;
+Miguel Amaya;/players/a/amayami01.shtml;PH;1;0;0;0;0;1;1;.271;.390;.438;.827;4;3;-0.074; 2.66;0.000;-0.074;-0.02%; 1.28; -0.4;;;
+Yan Gomes;/players/g/gomesya01.shtml;C;4;1;1;0;0;0;5;.265;.309;.410;.719;21;13;-0.044; 0.84;0.037;-0.081;-0.01%; 0.41; -0.3;9;1;HBP
+Trey Mancini;/players/m/mancitr01.shtml;DH;4;1;2;1;0;1;4;.241;.309;.354;.663;14;10;0.020; 0.79;0.069;-0.048; 0.01%; 0.38; 1.0;;;
+Jameson Taillon;/players/t/taillja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael Rucker;/players/r/ruckemi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Anthony Kay;/players/k/kayan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Hayden Wesneski;/players/w/wesneha01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adbert Alzolay;/players/a/alzolad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Christopher Morel (15, off Trevor Stephan, 8th inn, 0 on, 2 outs to Deep LF-CF).
+
+
+SF: Cody Bellinger (5, off Emmanuel Clase).
+
+
+HBP: Nico Hoerner (4, by Aaron Civale); Yan Gomes (3, by Aaron Civale).
+
+
+TB: Christopher Morel 6; Trey Mancini 2; Yan Gomes; Mike Tauchman; Cody Bellinger.
+
+
+RBI: Christopher Morel 3 (37); Cody Bellinger (23); Mike Tauchman (17); Trey Mancini (25).
+
+
+2-out RBI: Christopher Morel.
+
+
+Team LOB: 9.
+With RISP: 2 for 12.
+
+Batting away
+Andrés Giménez;/players/g/gimenan01.shtml;2B;4;3;2;2;0;0;5;.246;.315;.382;.697;20;11;0.287; 0.71;0.291;-0.005; 0.15%; 0.62; 3.0;0;3;HR,2B,SB,HBP
+Amed Rosario;/players/r/rosaram01.shtml;SS;5;2;2;2;0;1;5;.259;.305;.346;.652;19;14;0.120; 1.33;0.169;-0.049; 0.06%; 1.15; 0.9;1;3;
+José Ramírez;/players/r/ramirjo01.shtml;3B;5;0;0;0;0;1;5;.293;.362;.511;.873;15;12;-0.129; 1.30;0.000;-0.129;-0.07%; 1.13; -1.4;0;4;
+Josh Naylor;/players/n/naylojo01.shtml;1B;5;1;2;2;0;1;5;.297;.337;.471;.808;20;13;0.274; 1.89;0.306;-0.032; 0.14%; 1.65; 2.2;11;2;
+Gabriel Arias;/players/a/ariasga01.shtml;PR-1B;0;0;0;0;0;0;0;.189;.296;.318;.614;;;-0.032; 0.82;0.000;-0.032;-0.02%; 0.71; -0.4;1;0;CS
+Josh Bell;/players/b/belljo02.shtml;DH;5;0;1;1;0;1;5;.228;.319;.377;.696;24;16;-0.032; 0.65;0.019;-0.051;-0.02%; 0.57; -0.0;;;
+Will Brennan;/players/b/brennwi02.shtml;RF;4;0;1;0;0;0;4;.273;.304;.407;.711;15;8;0.021; 0.52;0.052;-0.030; 0.01%; 0.45; -1.0;3;0;GDP
+David Fry;/players/f/fryda01.shtml;LF;4;0;0;1;0;3;4;.270;.308;.378;.686;15;12;0.002; 0.54;0.022;-0.020;0%; 0.47; -0.6;2;0;SB
+Steven Kwan;/players/k/kwanst01.shtml;LF;0;0;0;0;0;0;0;.261;.339;.350;.688;;;;;;;;;;0;0;
+Myles Straw;/players/s/strawmy01.shtml;CF;4;1;1;0;0;1;4;.239;.309;.301;.610;20;13;0.013; 0.48;0.040;-0.026; 0.01%; 0.41; -0.4;4;0;
+Cam Gallagher;/players/g/gallaca01.shtml;C;4;1;1;0;0;1;4;.143;.177;.187;.364;11;7;-0.022; 0.56;0.019;-0.041;-0.01%; 0.48; -0.3;6;0;
+Aaron Civale;/players/c/civalaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;2;0;
+Enyel De Los Santos;/players/d/delosen01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Stephan;/players/s/stephtr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Emmanuel Clase;/players/c/claseem01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Sam Hentges;/players/h/hentgsa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Andrés Giménez (12, off Jameson Taillon).
+
+
+HR: Andrés Giménez (6, off Jameson Taillon, 3rd inn, 1 on, 1 out to Deep RF Line).
+
+
+HBP: Andrés Giménez (13, by Jameson Taillon).
+
+
+TB: Andrés Giménez 6; Josh Naylor 2; Amed Rosario 2; Cam Gallagher; Myles Straw; Will Brennan; Josh Bell.
+
+
+GIDP: Will Brennan (2).
+
+
+RBI: Amed Rosario 2 (26); Josh Naylor 2 (60); Andrés Giménez 2 (31); David Fry (5); Josh Bell (38).
+
+
+Team LOB: 4.
+With RISP: 3 for 12.
+
+Pitching home
+Jameson Taillon;/players/t/taillja01.shtml;Jameson Taillon; 5 ;6;6;4;0;6;1;6.93;24;95;61;36;6;19;8;9;3;0;41;;;-0.238; 0.81;-0.07%; 0.39; -3.3
+Michael Rucker;/players/r/ruckemi01.shtml;Michael Rucker; 1 ;0;0;0;0;1;0;4.18;3;12;9;5;0;4;0;2;0;0;;0;0;0.010; 0.13; 0.00%; 0.06; 0.5
+Anthony Kay;/players/k/kayan01.shtml;Anthony Kay; 1 ;0;0;0;0;0;0;1.59;3;9;5;4;1;0;1;2;1;0;;0;0;0.008; 0.10; 0.00%; 0.04; 0.5
+Hayden Wesneski;/players/w/wesneha01.shtml;Hayden Wesneski; 2 ;2;0;0;0;1;0;4.75;7;19;12;6;3;3;5;1;1;0;;0;0;0.009; 0.11; 0.00%; 0.05; 1.1
+Adbert Alzolay;/players/a/alzolad01.shtml; L (1-4); 1 ;2;2;1;0;1;0;2.06;4;24;19;13;4;2;3;0;0;0;;0;0;-0.291; 3.46;-0.08%; 1.66; -0.8
+
+Pitching away
+Aaron Civale;/players/c/civalaa01.shtml;Aaron Civale; 6 ;3;1;1;1;2;0;2.96;24;94;58;29;13;16;10;9;4;0;63;;;0.239; 0.76; 0.12%; 0.66; 2.2
+Enyel De Los Santos;/players/d/delosen01.shtml;Enyel De Los Santos; 1 ;0;0;0;0;2;0;2.65;3;15;10;3;5;2;0;1;0;0;;0;0;0.023; 0.28; 0.01%; 0.24; 0.5
+Trevor Stephan;/players/s/stephtr01.shtml;Trevor Stephan; 1 ;2;1;1;1;0;1;2.75;6;27;14;9;0;5;1;4;1;0;;0;0;0.007; 0.38; 0.00%; 0.33; -0.5
+Emmanuel Clase;/players/c/claseem01.shtml;Emmanuel Clase; 1 ;3;4;4;1;0;0;3.40;8;26;15;10;2;3;4;3;1;0;;0;0;-0.480; 2.18;-0.25%; 1.90; -3.5
+Sam Hentges;/players/h/hentgsa01.shtml; W (1-0); 1 ;0;0;0;0;2;0;2.91;3;14;10;4;4;2;1;0;0;0;;0;0;0.209; 2.56; 0.11%; 2.23; 1.2
+
+indiv_events
+
+Balks: None.
+WP: Trevor Stephan (2).
+HBP: Aaron Civale 2 (2; Nico Hoerner, Yan Gomes); Jameson Taillon (3; Andrés Giménez).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Trevor Stephan (2).
+HBP: Aaron Civale 2 (2; Nico Hoerner, Yan Gomes); Jameson Taillon (3; Andrés Giménez).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Chad Fairchild, 1B - Nic Lentz, 2B - Charlie Ramos, 3B - Jeremie Rehak, LF - (none), RF - (none).
+Time of Game: 2:58.
+Attendance: 38,392.
+Field Condition: Unknown.
+Start Time Weather: 65° F, Wind 13mph in from Leftfield, Overcast, Rain.
+
+div_lineups
+Guardians
+1;Andrés Giménez;/players/g/gimenan01.shtml;2B
+2;Amed Rosario;/players/r/rosaram01.shtml;SS
+3;José Ramírez;/players/r/ramirjo01.shtml;3B
+4;Josh Naylor;/players/n/naylojo01.shtml;1B
+5;Josh Bell;/players/b/belljo02.shtml;DH
+6;Will Brennan;/players/b/brennwi02.shtml;RF
+7;David Fry;/players/f/fryda01.shtml;LF
+8;Myles Straw;/players/s/strawmy01.shtml;CF
+9;Cam Gallagher;/players/g/gallaca01.shtml;C
+; Aaron Civale;/players/c/civalaa01.shtml;P
+Cubs
+1;Mike Tauchman;/players/t/tauchmi01.shtml;LF
+2;Nico Hoerner;/players/h/hoernni01.shtml;2B
+3;Christopher Morel;/players/m/morelch01.shtml;3B
+4;Cody Bellinger;/players/b/bellico01.shtml;CF
+5;Seiya Suzuki;/players/s/suzukse01.shtml;RF
+6;Dansby Swanson;/players/s/swansda01.shtml;SS
+7;Jared Young;/players/y/youngja02.shtml;1B
+8;Yan Gomes;/players/g/gomesya01.shtml;C
+9;Trey Mancini;/players/m/mancitr01.shtml;DH
+; Jameson Taillon;/players/t/taillja01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t10;6-6;1;-23;5,(2-2) BSBC.X;RR;CLE;Josh Naylor;Adbert Alzolay;26%;82%;Single to CF (Ground Ball thru SS-2B); Giménez Scores/unER; Rosario Scores
+b9;3-6;1;123;4,(3-1) VFB.*BX;RR;CHC;Christopher Morel;Emmanuel Clase;-26%;53%;Single to CF (Ground Ball thru SS-2B); Mancini Scores; Tauchman Scores; Hoerner to 3B
+t3;0-0;1;1--;2,(1-0) *B1X;RR;CLE;Andrés Giménez;Jameson Taillon;19%;69%;Home Run (Fly Ball to Deep RF Line); Straw Scores
+t10;6-6;0;-2-;8,(2-2) ..SFFFBFBX;;CLE;Amed Rosario;Adbert Alzolay;13%;63%;Single to 2B (Ground Ball to SS-2B); Giménez to 3B
+b9;3-6;1;12-;1,(0-0) X;;CHC;Nico Hoerner;Emmanuel Clase;-10%;79%;Fielder's Choice 1B; Mancini to 3B; Tauchman to 2B; Hoerner to 1B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Guardians Batting, Tied 0-0, Cubs' Jameson Taillon facing 1-2-3 
+t1;0-0;0;---;4,(1-2) FBF.H;;CLE;Andrés Giménez;Jameson Taillon;3%;53%;Hit By Pitch
+t1;0-0;0;1--;2,(0-1) C1X;O;CLE;Amed Rosario;Jameson Taillon;-3%;50%;Foul Popfly: 1B (1B into Foul Terr.)
+t1;0-0;1;1--;1,(0-0) >C;;CLE;José Ramírez;Jameson Taillon;1%;52%;Giménez Steals 2B
+t1;0-0;1;-2-;3,(1-1) >C.BX;O;CLE;José Ramírez;Jameson Taillon;-3%;48%;Flyball: LF (LF-CF)
+t1;0-0;2;-2-;6,(1-2) CBFFFC;O;CLE;Josh Naylor;Jameson Taillon;-3%;45%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Guardians 0, Cubs 0.
+Bottom of the 1st, Cubs Batting, Tied 0-0, Guardians' Aaron Civale facing 1-2-3 
+b1;0-0;0;---;7,(3-2) SBCBBFX;O;CHC;Mike Tauchman;Aaron Civale;2%;47%;Groundout: SS-1B
+b1;0-0;1;---;6,(3-2) CCBBBH;;CHC;Nico Hoerner;Aaron Civale;-2%;45%;Hit By Pitch
+b1;0-0;1;1--;4,(1-2) BSF1X;O;CHC;Christopher Morel;Aaron Civale;3%;48%;Foul Popfly: SS (3B into Foul Terr.)
+b1;0-0;2;1--;5,(2-2) PS.SBX;O;CHC;Cody Bellinger;Aaron Civale;2%;50%;Flyball: CF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Guardians 0, Cubs 0.
+Top of the 2nd, Guardians Batting, Tied 0-0, Cubs' Jameson Taillon facing 5-6-7 
+t2;0-0;0;---;5,(2-2) CFBBX;O;CLE;Josh Bell;Jameson Taillon;-2%;48%;Flyball: CF (LF-CF)
+t2;0-0;1;---;4,(1-2) SS.BX;O;CLE;Will Brennan;Jameson Taillon;-2%;46%;Groundout: 2B-1B
+t2;0-0;2;---;6,(2-2) BFBSFC;O;CLE;David Fry;Jameson Taillon;-1%;45%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Cubs 0.
+Bottom of the 2nd, Cubs Batting, Tied 0-0, Guardians' Aaron Civale facing 5-6-7 
+b2;0-0;0;---;4,(1-2) CBSS;O;CHC;Seiya Suzuki;Aaron Civale;2%;47%;Strikeout Swinging
+b2;0-0;1;---;4,(1-2) CBSX;O;CHC;Dansby Swanson;Aaron Civale;2%;49%;Groundout: 3B-1B (Weak 3B)
+b2;0-0;2;---;6,(3-2) BCBFBB;;CHC;Jared Young;Aaron Civale;-1%;48%;Walk
+b2;0-0;2;1--;3,(1-1) BCH;;CHC;Yan Gomes;Aaron Civale;-2%;46%;Hit By Pitch; Young to 2B
+b2;0-0;2;12-;1,(0-0) X;O;CHC;Trey Mancini;Aaron Civale;4%;50%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Guardians 0, Cubs 0.
+Top of the 3rd, Guardians Batting, Tied 0-0, Cubs' Jameson Taillon facing 8-9-1 
+t3;0-0;0;---;7,(2-2) CCFBFBX;;CLE;Myles Straw;Jameson Taillon;4%;54%;Single to 2B (Ground Ball)
+t3;0-0;0;1--;4,(1-2) CFB1S;O;CLE;Cam Gallagher;Jameson Taillon;-4%;50%;Strikeout Swinging
+t3;0-0;1;1--;2,(1-0) *B1X;RR;CLE;Andrés Giménez;Jameson Taillon;19%;69%;Home Run (Fly Ball to Deep RF Line); Straw Scores
+t3;2-0;1;---;6,(2-2) FCBBFC;O;CLE;Amed Rosario;Jameson Taillon;-1%;68%;Strikeout Looking
+t3;2-0;2;---;3,(0-2) CFC;O;CLE;José Ramírez;Jameson Taillon;-1%;67%;Strikeout Looking
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Guardians 2, Cubs 0.
+Bottom of the 3rd, Cubs Batting, Behind 0-2, Guardians' Aaron Civale facing 1-2-3 
+b3;0-2;0;---;3,(1-1) CBX;O;CHC;Mike Tauchman;Aaron Civale;3%;69%;Groundout: 1B-P
+b3;0-2;1;---;3,(0-2) CFX;O;CHC;Nico Hoerner;Aaron Civale;2%;71%;Foul Popfly: 1B
+b3;0-2;2;---;4,(2-1) BBSX;;CHC;Christopher Morel;Aaron Civale;-2%;69%;Single to 3B (Ground Ball); Morel to 2B/Adv on E5 (throw)
+b3;0-2;2;-2-;4,(1-2) BFF.X;O;CHC;Cody Bellinger;Aaron Civale;4%;72%;Lineout: RF
+;;;;;;;;;0 runs, 1 hit, 1 error, 1 LOB. Guardians 2, Cubs 0.
+Top of the 4th, Guardians Batting, Ahead 2-0, Cubs' Jameson Taillon facing 4-5-6 
+t4;2-0;0;---;5,(2-2) FCB.BX;;CLE;Josh Naylor;Jameson Taillon;3%;75%;Reached on E5 (throw) (Ground Ball to SS-3B Hole); Naylor to 1B
+t4;2-0;0;1--;6,(3-2) FS.B*BB>X;O;CLE;Josh Bell;Jameson Taillon;-3%;73%;Flyball: CF (Deep CF)
+t4;2-0;1;1--;3,(1-1) S+1*BX;;CLE;Will Brennan;Jameson Taillon;5%;78%;Single to CF (Ground Ball thru SS-2B); Naylor to 3B
+t4;2-0;1;1-3;1,(0-0) X;RO;CLE;David Fry;Jameson Taillon;1%;79%;Groundout: 2B-SS/Forceout at 2B (SS-2B); Naylor Scores/unER; Fry to 1B
+t4;3-0;2;1--;5,(2-2) CBCB1>B;;CLE;Myles Straw;Jameson Taillon;1%;80%;Fry Steals 2B
+t4;3-0;2;-2-;6,(3-2) CBCB1>B.C;O;CLE;Myles Straw;Jameson Taillon;-2%;78%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 1 error, 1 LOB. Guardians 3, Cubs 0.
+Bottom of the 4th, Cubs Batting, Behind 0-3, Guardians' Aaron Civale facing 5-6-7 
+b4;0-3;0;---;6,(3-2) SBFBBS;O;CHC;Seiya Suzuki;Aaron Civale;3%;80%;Strikeout Swinging
+b4;0-3;1;---;4,(1-2) CS.BX;O;CHC;Dansby Swanson;Aaron Civale;2%;82%;Groundout: 3B-1B
+b4;0-3;2;---;4,(2-1) BBFX;O;CHC;Jared Young;Aaron Civale;1%;83%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 3, Cubs 0.
+Top of the 5th, Guardians Batting, Ahead 3-0, Cubs' Jameson Taillon facing 9-1-2 
+t5;3-0;0;---;1,(0-0) X;;CLE;Cam Gallagher;Jameson Taillon;2%;85%;Single to LF (Line Drive to LF-CF)
+t5;3-0;0;1--;4,(2-1) BFBX;;CLE;Andrés Giménez;Jameson Taillon;5%;90%;Double to CF (Line Drive to Deep CF); Gallagher to 3B
+t5;3-0;0;-23;1,(0-0) X;RR;CLE;Amed Rosario;Jameson Taillon;4%;94%;Single to CF (Line Drive); Gallagher Scores; Giménez Scores
+t5;5-0;0;1--;4,(2-1) CBBX;O;CLE;José Ramírez;Jameson Taillon;-1%;93%;Flyball: CF (Deep CF)
+t5;5-0;1;1--;2,(1-0) *BX;;CLE;Josh Naylor;Jameson Taillon;2%;95%;Fielder's Choice 1B; Rosario to 3B/Adv on E3 (throw); Naylor to 1B
+t5;5-0;1;1-3;5,(2-2) FBBF>X;RO;CLE;Josh Bell;Jameson Taillon;1%;96%;Groundout: 2B-1B (2B-1B); Rosario Scores/unER; Naylor to 2B
+t5;6-0;2;-2-;5,(3-1) CBBBX;O;CLE;Will Brennan;Jameson Taillon;-1%;95%;Groundout: SS-1B
+;;;;;;;;;3 runs, 3 hits, 1 error, 1 LOB. Guardians 6, Cubs 0.
+Bottom of the 5th, Cubs Batting, Behind 0-6, Guardians' Aaron Civale facing 8-9-1 
+b5;0-6;0;---;6,(3-2) CBBBSX;;CHC;Yan Gomes;Aaron Civale;-2%;93%;Single to LF (Line Drive to Deep LF-CF)
+b5;0-6;0;1--;3,(0-2) CCX;;CHC;Trey Mancini;Aaron Civale;-4%;89%;Single to LF (Fly Ball); Gomes to 3B
+b5;0-6;0;1-3;5,(2-2) CBCBX;RO;CHC;Mike Tauchman;Aaron Civale;2%;91%;Groundout: 2B-1B; Gomes Scores; Mancini to 2B
+b5;1-6;1;-2-;1,(0-0) X;O;CHC;Nico Hoerner;Aaron Civale;2%;93%;Foul Popfly: 1B (1B into Foul Terr.)
+b5;1-6;2;-2-;4,(1-2) FSBX;O;CHC;Christopher Morel;Aaron Civale;2%;95%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Guardians 6, Cubs 1.
+Top of the 6th, Guardians Batting, Ahead 6-1, Cubs' Michael Rucker facing 7-8-9 
+;;;;;;;;;Michael Rucker replaces Jameson Taillon pitching
+t6;6-1;0;---;5,(1-2) .CBFFC;O;CLE;David Fry;Michael Rucker;0%;95%;Strikeout Looking
+t6;6-1;1;---;4,(1-2) CBFX;O;CLE;Myles Straw;Michael Rucker;0%;94%;Popfly: 2B (2B-1B)
+t6;6-1;2;---;3,(1-1) CBX;O;CLE;Cam Gallagher;Michael Rucker;0%;94%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 6, Cubs 1.
+Bottom of the 6th, Cubs Batting, Behind 1-6, Guardians' Aaron Civale facing 4-5-6 
+b6;1-6;0;---;4,(2-1) BFBX;O;CHC;Cody Bellinger;Aaron Civale;1%;95%;Groundout: 2B-1B (2B-1B)
+b6;1-6;1;---;2,(0-1) CX;O;CHC;Seiya Suzuki;Aaron Civale;1%;96%;Lineout: CF
+b6;1-6;2;---;1,(0-0) X;O;CHC;Dansby Swanson;Aaron Civale;0%;97%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 6, Cubs 1.
+Top of the 7th, Guardians Batting, Ahead 6-1, Cubs' Anthony Kay facing 1-2-3 
+;;;;;;;;;Anthony Kay replaces Michael Rucker pitching
+t7;6-1;0;---;6,(3-2) .BSFBB.X;O;CLE;Andrés Giménez;Anthony Kay;0%;96%;Popfly: 3B
+t7;6-1;1;---;2,(1-0) BX;O;CLE;Amed Rosario;Anthony Kay;0%;96%;Lineout: SS
+t7;6-1;2;---;1,(0-0) X;O;CLE;José Ramírez;Anthony Kay;0%;96%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 6, Cubs 1.
+Bottom of the 7th, Cubs Batting, Behind 1-6, Guardians' Enyel De Los Santos facing 7-8-9 
+;;;;;;;;;Enyel De Los Santos replaces Aaron Civale pitching
+b7;1-6;0;---;6,(3-2) .CBBBFS;O;CHC;Jared Young;Enyel De Los Santos;1%;97%;Strikeout Swinging
+b7;1-6;1;---;5,(1-2) BSSFX;O;CHC;Yan Gomes;Enyel De Los Santos;1%;98%;Flyball: RF (Deep RF Line)
+b7;1-6;2;---;4,(1-2) CS.BS;O;CHC;Trey Mancini;Enyel De Los Santos;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 6, Cubs 1.
+Top of the 8th, Guardians Batting, Ahead 6-1, Cubs' Hayden Wesneski facing 4-5-6 
+;;;;;;;;;Hayden Wesneski replaces Anthony Kay pitching
+t8;6-1;0;---;2,(1-0) .BX;;CLE;Josh Naylor;Hayden Wesneski;0%;98%;Single to CF (Ground Ball)
+t8;6-1;0;1--;1,(0-0) X;;CLE;Josh Bell;Hayden Wesneski;0%;99%;Single to LF (Line Drive); Naylor to 2B
+t8;6-1;0;12-;3,(2-0) BBX;OO;CLE;Will Brennan;Hayden Wesneski;-1%;98%;Ground Ball Double Play: 2B-SS-1B; Naylor to 3B
+t8;6-1;2;--3;3,(0-2) SC*S;O;CLE;David Fry;Hayden Wesneski;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Guardians 6, Cubs 1.
+Bottom of the 8th, Cubs Batting, Behind 1-6, Guardians' Trevor Stephan facing 1-2-3 
+;;;;;;;;;Trevor Stephan replaces Enyel De Los Santos pitching
+b8;1-6;0;---;5,(3-1) .BBBCX;O;CHC;Mike Tauchman;Trevor Stephan;1%;99%;Flyball: LF (Deep LF)
+b8;1-6;1;---;5,(3-1) CBBBX;O;CHC;Nico Hoerner;Trevor Stephan;1%;99%;Groundout: SS-1B
+b8;1-6;2;---;7,(3-2) FBBFBFX;R;CHC;Christopher Morel;Trevor Stephan;-1%;98%;Home Run (Fly Ball to Deep LF-CF)
+b8;2-6;2;---;3,(0-2) .CCX;;CHC;Cody Bellinger;Trevor Stephan;-1%;97%;Single to LF (Line Drive to Short LF-CF)
+b8;2-6;2;1--;2,(0-1) CB;;CHC;Seiya Suzuki;Trevor Stephan;0%;97%;Wild Pitch; Bellinger to 2B
+b8;2-6;2;-2-;6,(3-2) CB.F*BBB;;CHC;Seiya Suzuki;Trevor Stephan;-1%;96%;Walk
+b8;2-6;2;12-;1,(0-0) X;O;CHC;Dansby Swanson;Trevor Stephan;3%;98%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Guardians 6, Cubs 2.
+Top of the 9th, Guardians Batting, Ahead 6-2, Cubs' Hayden Wesneski facing 8-9-1 
+t9;6-2;0;---;3,(1-1) CBX;O;CLE;Myles Straw;Hayden Wesneski;0%;98%;Groundout: 2B-1B
+t9;6-2;1;---;3,(2-0) BBX;O;CLE;Cam Gallagher;Hayden Wesneski;0%;98%;Groundout: 2B-1B
+t9;6-2;2;---;4,(1-2) CS.BX;O;CLE;Andrés Giménez;Hayden Wesneski;0%;98%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 6, Cubs 2.
+Bottom of the 9th, Cubs Batting, Behind 2-6, Guardians' Emmanuel Clase facing 7-8-9 
+;;;;;;;;;Emmanuel Clase replaces Trevor Stephan pitching
+b9;2-6;0;---;6,(3-2) .CBBFBB;;CHC;Jared Young;Emmanuel Clase;-2%;96%;Walk
+b9;2-6;0;1--;1,(0-0) X;O;CHC;Yan Gomes;Emmanuel Clase;2%;98%;Flyball: RF (Deep CF-RF)
+b9;2-6;1;1--;2,(1-0) BC;;CHC;Trey Mancini;Emmanuel Clase;0%;98%;Passed Ball; Young to 2B
+b9;2-6;1;-2-;3,(1-1) BC.B;;CHC;Trey Mancini;Emmanuel Clase;0%;98%;Passed Ball; Young to 3B
+b9;2-6;1;--3;6,(3-2) BC.B.BSX;R;CHC;Trey Mancini;Emmanuel Clase;-3%;95%;Single to RF (Line Drive to RF Line); Young Scores
+b9;3-6;1;1--;4,(1-2) BCSX;;CHC;Mike Tauchman;Emmanuel Clase;-6%;89%;Single to 1B (Ground Ball to 2B-1B); Mancini to 2B
+b9;3-6;1;12-;1,(0-0) X;;CHC;Nico Hoerner;Emmanuel Clase;-10%;79%;Fielder's Choice 1B; Mancini to 3B; Tauchman to 2B; Hoerner to 1B
+b9;3-6;1;123;4,(3-1) VFB.*BX;RR;CHC;Christopher Morel;Emmanuel Clase;-26%;53%;Single to CF (Ground Ball thru SS-2B); Mancini Scores; Tauchman Scores; Hoerner to 3B
+b9;5-6;1;1-3;2,(0-1) .FX;RO;CHC;Cody Bellinger;Emmanuel Clase;-10%;43%;Flyball: LF/Sacrifice Fly (Deep LF); Hoerner Scores
+b9;6-6;2;1--;2,(1-0) B>X;O;CHC;Seiya Suzuki;Emmanuel Clase;7%;50%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;4 runs, 3 hits, 0 errors, 1 LOB. Guardians 6, Cubs 6.
+Top of the 10th, Guardians Batting, Tied 6-6, Cubs' Adbert Alzolay facing 2-3-4 
+;;;;;;;;;Adbert Alzolay replaces Hayden Wesneski pitchingAndrés Giménez running at second base to start the extra inning
+t10;6-6;0;-2-;8,(2-2) ..SFFFBFBX;;CLE;Amed Rosario;Adbert Alzolay;13%;63%;Single to 2B (Ground Ball to SS-2B); Giménez to 3B
+t10;6-6;0;1-3;4,(0-2) FF>F>X;O;CLE;José Ramírez;Adbert Alzolay;-8%;56%;Groundout: 1B unassisted; Rosario to 2B
+t10;6-6;1;-23;5,(2-2) BSBC.X;RR;CLE;Josh Naylor;Adbert Alzolay;26%;82%;Single to CF (Ground Ball thru SS-2B); Giménez Scores/unER; Rosario Scores
+;;;;;;;;;Gabriel Arias pinch runs for Josh Naylor (1B) batting 4th
+t10;8-6;1;1--;3,(1-1) .BS>S;O;CLE;Josh Bell;Adbert Alzolay;-3%;78%;Arias Caught Stealing 2B (C-SS)
+t10;8-6;2;---;7,(2-2) .BS>S.FFFVC;O;CLE;Josh Bell;Adbert Alzolay;1%;79%;Strikeout Looking
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Guardians 8, Cubs 6.
+Bottom of the 10th, Cubs Batting, Behind 6-8, Guardians' Sam Hentges facing 6-7-8 
+;;;;;;;;;Sam Hentges replaces Emmanuel Clase pitchingGabriel Arias moves from PR to 1B Steven Kwan replaces David Fry playing LF batting 7thSeiya Suzuki running at second base to start the extra inning
+b10;6-8;0;-2-;4,(1-2) ....*BCSS;O;CHC;Dansby Swanson;Sam Hentges;8%;87%;Strikeout Swinging
+;;;;;;;;;Miguel Amaya pinch hits for Jared Young (1B) batting 7th
+b10;6-8;1;-2-;4,(1-2) .CSBS;O;CHC;Miguel Amaya;Sam Hentges;7%;95%;Strikeout Swinging
+b10;6-8;2;-2-;6,(2-2) BFFFBX;O;CHC;Yan Gomes;Sam Hentges;5%;100%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Guardians 8, Cubs 6.

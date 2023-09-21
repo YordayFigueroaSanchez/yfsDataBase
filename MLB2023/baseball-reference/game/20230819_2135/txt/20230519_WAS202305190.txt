@@ -1,0 +1,278 @@
+
+Scorebox Meta
+20230519
+7:05 p.m. Local
+19985
+Nationals Park
+167
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;3;0;3;0;1;1;0;0;0;8;9;0
+https://cdn.ssref.net/req/202308101/tlogo/br/WSN-2023.png;/teams/WSN/2023.shtml;0;0;0;0;0;3;3;0;0;6;7;2
+
+Batting home
+Lane Thomas;/players/t/thomala02.shtml;RF;3;1;1;2;1;0;4;.281;.339;.437;.776;18;7;-0.067; 0.89;0.040;-0.107;-0.02%; 0.47; 1.2;2;0;HR
+Luis García;/players/g/garcilu04.shtml;2B;4;0;0;0;0;1;4;.255;.301;.359;.661;14;10;-0.110; 0.89;0.000;-0.110;-0.03%; 0.48; -1.5;2;1;GDP
+Joey Meneses;/players/m/menesjo01.shtml;DH;4;0;1;0;0;2;4;.294;.324;.390;.714;20;13;-0.047; 0.57;0.009;-0.055;-0.01%; 0.31; -0.2;;;2B
+Jeimer Candelario;/players/c/candeje01.shtml;3B;4;0;0;0;0;1;4;.247;.306;.422;.728;15;9;-0.069; 0.67;0.000;-0.069;-0.02%; 0.35; -0.9;0;2;
+Dominic Smith;/players/s/smithdo02.shtml;1B;2;1;0;0;2;0;4;.275;.367;.314;.681;19;9;0.032; 0.64;0.050;-0.018; 0.01%; 0.34; 0.5;8;0;
+Stone Garrett;/players/g/garrest01.shtml;LF;3;1;1;0;0;1;3;.247;.321;.329;.650;14;10;0.039; 0.41;0.050;-0.011; 0.01%; 0.22; 0.8;2;0;
+Corey Dickerson;/players/d/dickeco01.shtml;PH-LF;1;0;0;0;0;1;1;.250;.308;.500;.808;4;3;-0.042; 1.49;0.000;-0.042;-0.01%; 0.79; -0.2;0;0;
+Keibert Ruiz;/players/r/ruizke01.shtml;C;3;2;2;2;0;1;4;.233;.302;.363;.665;18;11;0.082; 0.88;0.128;-0.046; 0.03%; 0.47; 2.1;4;0;HR,2B,HBP
+Alex Call;/players/c/callal02.shtml;CF;4;0;1;0;0;1;4;.228;.324;.342;.666;18;13;0.048; 0.92;0.099;-0.052; 0.01%; 0.49; -0.3;8;0;2B
+CJ Abrams;/players/a/abramcj01.shtml;SS;4;1;1;1;0;0;4;.238;.282;.388;.670;8;4;-0.068; 0.89;0.009;-0.076;-0.02%; 0.47; 0.2;0;5;2B,GDP
+Jake Irvin;/players/i/irvinja01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Hobie Harris;/players/h/harriho02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Thaddeus Ward;/players/w/wardth01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andrés Machado;/players/m/machaan02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Keibert Ruiz (7, off Matthew Boyd); CJ Abrams (6, off Matthew Boyd); Joey Meneses (11, off Matthew Boyd); Alex Call (8, off Mason Englert).
+
+
+HR: Lane Thomas (6, off Matthew Boyd, 6th inn, 1 on, 1 out to Deep LF-CF); Keibert Ruiz (4, off Mason Englert, 7th inn, 1 on, 0 outs to Deep RF Line).
+
+
+HBP: Keibert Ruiz (4, by Matthew Boyd).
+
+
+TB: Keibert Ruiz 6; Lane Thomas 4; Joey Meneses 2; CJ Abrams 2; Alex Call 2; Stone Garrett.
+
+
+GIDP: CJ Abrams (3); Luis García (4).
+
+
+RBI: Keibert Ruiz 2 (15); Lane Thomas 2 (21); CJ Abrams (23).
+
+
+Team LOB: 3.
+With RISP: 3 for 8.
+
+Batting away
+Zach McKinstry;/players/m/mckinza01.shtml;3B;4;1;1;1;0;0;5;.274;.364;.421;.785;13;8;0.089; 0.35;0.102;-0.014; 0.04%; 0.27; 0.7;0;1;HR,HBP
+Javier Báez;/players/b/baezja01.shtml;SS;5;1;0;0;0;0;5;.240;.294;.340;.634;18;12;0.042; 0.63;0.076;-0.033; 0.02%; 0.48; -0.3;4;5;
+Riley Greene;/players/g/greenri03.shtml;CF;4;2;2;1;1;0;5;.296;.349;.432;.781;27;16;0.062; 0.47;0.075;-0.013; 0.03%; 0.36; 1.6;4;0;HR
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;5;0;1;0;0;1;5;.232;.287;.355;.641;23;15;-0.069; 0.57;0.004;-0.073;-0.03%; 0.44; -1.0;9;0;
+Andy Ibáñez;/players/i/ibanean01.shtml;2B;4;1;0;1;0;0;4;.232;.259;.375;.634;11;8;-0.009; 0.56;0.006;-0.015;-0.00%; 0.42; -0.7;0;3;
+Zack Short;/players/s/shortza01.shtml;2B;1;0;0;0;0;1;1;.238;.273;.429;.701;7;5;-0.008; 0.29;0.000;-0.008;-0.00%; 0.22; -0.2;0;0;
+Nick Maton;/players/m/matonni01.shtml;DH;3;1;1;0;2;1;5;.155;.267;.310;.577;25;12;0.011; 0.42;0.017;-0.006; 0.01%; 0.31; 0.2;;;
+Akil Baddoo;/players/b/baddoak01.shtml;LF;4;1;2;4;1;0;5;.253;.340;.352;.691;15;8;0.216; 0.66;0.227;-0.011; 0.10%; 0.50; 3.6;1;0;HR,SB
+Eric Haase;/players/h/haaseer01.shtml;C;3;0;0;0;1;1;4;.257;.314;.349;.662;13;7;-0.038; 0.33;0.004;-0.042;-0.02%; 0.25; -1.0;8;0;
+Matt Vierling;/players/v/vierlma01.shtml;RF;4;1;2;1;0;0;4;.231;.286;.346;.632;17;10;0.002; 0.26;0.019;-0.017; 0.00%; 0.20; 0.7;1;0;HR
+Matthew Boyd;/players/b/boydma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Mason Englert;/players/e/englema01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chasen Shreve;/players/s/shrevch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jason Foley;/players/f/foleyja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Alex Lange;/players/l/langeal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Zach McKinstry (3, off Jake Irvin, 1st inn, 0 on, 0 outs to Deep LF-CF); Akil Baddoo (1, off Jake Irvin, 3rd inn, 2 on, 2 outs to Deep CF); Matt Vierling (3, off Hobie Harris, 5th inn, 0 on, 1 out to Deep CF-RF); Riley Greene (4, off Thaddeus Ward, 6th inn, 0 on, 0 outs to Deep CF-RF).
+
+
+HBP: Zach McKinstry (1, by Hobie Harris).
+
+
+TB: Riley Greene 5; Matt Vierling 5; Akil Baddoo 5; Zach McKinstry 4; Spencer Torkelson; Nick Maton.
+
+
+RBI: Akil Baddoo 4 (8); Riley Greene (16); Zach McKinstry (7); Matt Vierling (11); Andy Ibáñez (6).
+
+
+2-out RBI: Akil Baddoo 4.
+
+
+Team LOB: 8.
+With RISP: 3 for 8.
+
+Pitching home
+Jake Irvin;/players/i/irvinja01.shtml; L (1-2); 2.2;5;6;4;4;1;2;5.50;18;75;38;22;2;14;5;8;4;0;25;;;-0.352; 0.84;-0.11%; 0.45; -5.0
+Hobie Harris;/players/h/harriho02.shtml;Hobie Harris; 2.1;3;1;1;0;1;1;5.40;11;39;29;19;3;7;4;5;3;0;;2;0;0.007; 0.17; 0.00%; 0.09; 0.5
+Thaddeus Ward;/players/w/wardth01.shtml;Thaddeus Ward; 2 ;1;1;1;1;1;1;4.86;8;31;18;10;3;5;1;5;0;0;;0;0;0.002; 0.08; 0.00%; 0.04; -0.0
+Andrés Machado;/players/m/machaan02.shtml;Andrés Machado; 2 ;0;0;0;0;1;0;3.65;6;24;16;11;2;3;2;3;2;0;;0;0;0.045; 0.30; 0.01%; 0.16; 1.0
+
+Pitching away
+Matthew Boyd;/players/b/boydma01.shtml; W (3-3); 5.2;4;3;3;1;4;1;5.73;21;91;57;30;10;17;5;10;3;0;52;;;0.108; 0.38; 0.05%; 0.29; -0.3
+Mason Englert;/players/e/englema01.shtml;Mason Englert; 0.1;3;3;3;1;0;1;5.25;5;21;11;6;3;2;1;3;2;0;;1;0;-0.264; 0.97;-0.12%; 0.73; -3.3
+Chasen Shreve;/players/s/shrevch01.shtml; H (4); 1 ;0;0;0;0;1;0;4.67;3;9;5;3;1;1;1;1;0;0;;1;0;0.180; 2.14; 0.08%; 1.62; 1.1
+Jason Foley;/players/f/foleyja01.shtml; H (7); 0.2;0;0;0;1;1;0;1.50;3;14;7;1;1;5;1;0;0;0;;0;0;0.046; 1.16; 0.02%; 0.88; 0.3
+Alex Lange;/players/l/langeal01.shtml; S (8); 1.1;0;0;0;0;2;0;0.98;4;13;9;5;3;1;1;1;0;0;;1;0;0.132; 1.26; 0.06%; 0.95; 0.7
+
+indiv_events
+
+Balks: None.
+WP: Mason Englert (2); Jake Irvin (2).
+HBP: Hobie Harris (1; Zach McKinstry); Matthew Boyd (1; Keibert Ruiz).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Mason Englert (2); Jake Irvin (2).
+HBP: Hobie Harris (1; Zach McKinstry); Matthew Boyd (1; Keibert Ruiz).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Clint Vondrak, 1B - James Hoye, 2B - D.J. Reyburn, 3B - John Libka, LF - (none), RF - (none).
+Time of Game: 2:47.
+Attendance: 19,985.
+Field Condition: Unknown.
+Start Time Weather: 72° F, Wind 4mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Tigers
+1;Zach McKinstry;/players/m/mckinza01.shtml;3B
+2;Javier Báez;/players/b/baezja01.shtml;SS
+3;Riley Greene;/players/g/greenri03.shtml;CF
+4;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+5;Andy Ibáñez;/players/i/ibanean01.shtml;2B
+6;Nick Maton;/players/m/matonni01.shtml;DH
+7;Akil Baddoo;/players/b/baddoak01.shtml;LF
+8;Eric Haase;/players/h/haaseer01.shtml;C
+9;Matt Vierling;/players/v/vierlma01.shtml;RF
+; Matthew Boyd;/players/b/boydma01.shtml;P
+Nationals
+1;Lane Thomas;/players/t/thomala02.shtml;RF
+2;Luis García;/players/g/garcilu04.shtml;2B
+3;Joey Meneses;/players/m/menesjo01.shtml;DH
+4;Jeimer Candelario;/players/c/candeje01.shtml;3B
+5;Dominic Smith;/players/s/smithdo02.shtml;1B
+6;Stone Garrett;/players/g/garrest01.shtml;LF
+7;Keibert Ruiz;/players/r/ruizke01.shtml;C
+8;Alex Call;/players/c/callal02.shtml;CF
+9;CJ Abrams;/players/a/abramcj01.shtml;SS
+; Jake Irvin;/players/i/irvinja01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t3;3-0;2;12-;2,(1-0) BX;RRR;DET;Akil Baddoo;Jake Irvin;14%;94%;Home Run (Fly Ball to Deep CF); Ibáñez Scores; Maton Scores
+b7;4-8;0;-2-;4,(1-2) B.SFX;RR;WSN;Keibert Ruiz;Mason Englert;-10%;79%;Home Run (Fly Ball to Deep RF Line); Garrett Scores
+b7;6-8;0;---;3,(1-1) SBX;;WSN;Alex Call;Mason Englert;-10%;69%;Double to CF (Line Drive to Deep LF-CF)
+t1;0-0;0;---;5,(1-2) CFBFX;R;DET;Zach McKinstry;Jake Irvin;10%;60%;Home Run (Fly Ball to Deep LF-CF)
+b7;6-8;1;--3;3,(2-0) *BBX;O;WSN;Lane Thomas;Chasen Shreve;9%;81%;Groundout: SS-1B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Tigers Batting, Tied 0-0, Nationals' Jake Irvin facing 1-2-3 
+t1;0-0;0;---;5,(1-2) CFBFX;R;DET;Zach McKinstry;Jake Irvin;10%;60%;Home Run (Fly Ball to Deep LF-CF)
+t1;1-0;0;---;5,(2-2) FBBC.X;;DET;Javier Báez;Jake Irvin;3%;63%;Reached on E1 (Ground Ball to P's Left); Báez to 1B
+t1;1-0;0;1--;4,(3-0) B*B1BB;;DET;Riley Greene;Jake Irvin;5%;68%;Walk; Báez to 2B
+t1;1-0;0;12-;7,(3-2) BBCBFFC;O;DET;Spencer Torkelson;Jake Irvin;-5%;63%;Strikeout Looking
+t1;1-0;1;12-;1,(0-0) B;;DET;Andy Ibáñez;Jake Irvin;4%;68%;Passed Ball; Báez to 3B; Greene to 2B
+t1;1-0;1;-23;2,(1-0) B.X;RO;DET;Andy Ibáñez;Jake Irvin;1%;68%;Groundout: 2B-1B; Báez Scores/unER; Greene to 3B
+t1;2-0;2;--3;5,(3-1) BBBCB;;DET;Nick Maton;Jake Irvin;1%;69%;Walk
+t1;2-0;2;1-3;5,(2-2) CBBF>X;R;DET;Akil Baddoo;Jake Irvin;8%;77%;Single to LF (Line Drive to Deep LF-CF); Greene Scores/unER; Maton to 3B
+t1;3-0;2;1-3;2,(1-0) B>C;;DET;Eric Haase;Jake Irvin;1%;77%;Baddoo Steals 2B
+t1;3-0;2;-23;3,(1-1) B>C.X;O;DET;Eric Haase;Jake Irvin;-4%;74%;Popfly: 1B
+;;;;;;;;;3 runs, 2 hits, 1 error, 2 LOB. Tigers 3, Nationals 0.
+Bottom of the 1st, Nationals Batting, Behind 0-3, Tigers' Matthew Boyd facing 1-2-3 
+b1;0-3;0;---;6,(3-2) BCSBBX;O;WSN;Lane Thomas;Matthew Boyd;2%;76%;Flyball: CF (Short CF)
+b1;0-3;1;---;2,(0-1) CX;O;WSN;Luis García;Matthew Boyd;1%;77%;Groundout: P-1B (Front of Home)
+b1;0-3;2;---;3,(0-2) CCS;O;WSN;Joey Meneses;Matthew Boyd;1%;78%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 3, Nationals 0.
+Top of the 2nd, Tigers Batting, Ahead 3-0, Nationals' Jake Irvin facing 9-1-2 
+t2;3-0;0;---;6,(3-2) BCBCBX;O;DET;Matt Vierling;Jake Irvin;-1%;77%;Groundout: SS-1B
+t2;3-0;1;---;3,(1-1) BSX;O;DET;Zach McKinstry;Jake Irvin;-1%;76%;Flyball: RF (Deep CF-RF)
+t2;3-0;2;---;5,(2-2) FSBBX;O;DET;Javier Báez;Jake Irvin;-1%;75%;Lineout: P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 3, Nationals 0.
+Bottom of the 2nd, Nationals Batting, Behind 0-3, Tigers' Matthew Boyd facing 4-5-6 
+b2;0-3;0;---;4,(1-2) BFSX;O;WSN;Jeimer Candelario;Matthew Boyd;2%;78%;Flyball: CF (Deep LF-CF)
+b2;0-3;1;---;4,(1-2) BCSX;O;WSN;Dominic Smith;Matthew Boyd;1%;79%;Groundout: 2B-1B
+b2;0-3;2;---;5,(1-2) BSFFS;O;WSN;Stone Garrett;Matthew Boyd;1%;80%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 3, Nationals 0.
+Top of the 3rd, Tigers Batting, Ahead 3-0, Nationals' Jake Irvin facing 3-4-5 
+t3;3-0;0;---;4,(1-2) BCCX;;DET;Riley Greene;Jake Irvin;2%;82%;Single to LF (Line Drive to Deep LF-CF)
+t3;3-0;0;1--;1,(0-0) X;O;DET;Spencer Torkelson;Jake Irvin;-2%;80%;Lineout: CF (Deep CF)
+t3;3-0;1;1--;2,(0-1) 1FX;O;DET;Andy Ibáñez;Jake Irvin;-1%;79%;Groundout: SS-2B/Forceout at 2B (Weak SS); Ibáñez to 2B/Adv on E4 (throw)
+t3;3-0;2;-2-;6,(3-2) BCBBC.B;;DET;Nick Maton;Jake Irvin;0%;80%;Walk
+t3;3-0;2;12-;2,(1-0) BX;RRR;DET;Akil Baddoo;Jake Irvin;14%;94%;Home Run (Fly Ball to Deep CF); Ibáñez Scores; Maton Scores
+t3;6-0;2;---;4,(3-0) BBBB;;DET;Eric Haase;Jake Irvin;0%;94%;Walk
+t3;6-0;2;1--;3,(0-2) CFB;;DET;Matt Vierling;Jake Irvin;0%;94%;Wild Pitch; Haase to 2B
+t3;6-0;2;-2-;6,(3-2) CFB.BBX;;DET;Matt Vierling;Jake Irvin;0%;94%;Single to SS (Ground Ball to SS-3B Hole); Haase to 3B
+;;;;;;;;;Hobie Harris replaces Jake Irvin pitching
+t3;6-0;2;1-3;1,(0-0) .H;;DET;Zach McKinstry;Hobie Harris;0%;95%;Hit By Pitch; Vierling to 2B
+t3;6-0;2;123;3,(0-2) CSX;O;DET;Javier Báez;Hobie Harris;-1%;93%;Lineout: CF (Deep CF)
+;;;;;;;;;3 runs, 3 hits, 1 error, 3 LOB. Tigers 6, Nationals 0.
+Bottom of the 3rd, Nationals Batting, Behind 0-6, Tigers' Matthew Boyd facing 7-8-9 
+b3;0-6;0;---;3,(1-1) BTH;;WSN;Keibert Ruiz;Matthew Boyd;-2%;91%;Hit By Pitch
+b3;0-6;0;1--;5,(2-2) BSBF.X;O;WSN;Alex Call;Matthew Boyd;2%;93%;Flyball: RF (Short CF-RF)
+b3;0-6;1;1--;2,(1-0) BX;OO;WSN;CJ Abrams;Matthew Boyd;2%;95%;Ground Ball Double Play: P-SS-1B (P's Right)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 6, Nationals 0.
+Top of the 4th, Tigers Batting, Ahead 6-0, Nationals' Hobie Harris facing 3-4-5 
+t4;6-0;0;---;11,(3-2) FCFFFBFBFBX;O;DET;Riley Greene;Hobie Harris;0%;95%;Groundout: SS-1B (Weak SS-2B)
+;;;;;;;;;Force Play Challenged by WSN manager (Dave Martinez): Original call overturned as shown.
+t4;6-0;1;---;4,(1-2) CBS.X;;DET;Spencer Torkelson;Hobie Harris;0%;95%;Single to LF (Ground Ball thru SS-3B Hole)
+t4;6-0;1;1--;3,(1-1) CBX;O;DET;Andy Ibáñez;Hobie Harris;0%;95%;Lineout: CF (CF-RF)
+t4;6-0;2;1--;3,(1-1) CBX;;DET;Nick Maton;Hobie Harris;0%;95%;Single to RF (Line Drive); Torkelson to 2B
+t4;6-0;2;12-;2,(0-1) CX;O;DET;Akil Baddoo;Hobie Harris;-1%;95%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Tigers 6, Nationals 0.
+Bottom of the 4th, Nationals Batting, Behind 0-6, Tigers' Matthew Boyd facing 1-2-3 
+b4;0-6;0;---;4,(3-0) BBBB;;WSN;Lane Thomas;Matthew Boyd;-2%;93%;Walk
+b4;0-6;0;1--;3,(1-1) FBX;OO;WSN;Luis García;Matthew Boyd;3%;96%;Ground Ball Double Play: 3B-SS-1B (SS-3B Hole)
+b4;0-6;2;---;6,(3-2) BBBCFS;O;WSN;Joey Meneses;Matthew Boyd;0%;96%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 6, Nationals 0.
+Top of the 5th, Tigers Batting, Ahead 6-0, Nationals' Hobie Harris facing 8-9-1 
+t5;6-0;0;---;5,(1-2) FT.FBS;O;DET;Eric Haase;Hobie Harris;0%;96%;Strikeout Swinging
+t5;6-0;1;---;3,(1-1) BFX;R;DET;Matt Vierling;Hobie Harris;2%;98%;Home Run (Fly Ball to Deep CF-RF)
+t5;7-0;1;---;1,(0-0) X;O;DET;Zach McKinstry;Hobie Harris;0%;98%;Groundout: P-1B (Short 1B Line)
+t5;7-0;2;---;3,(1-1) BCX;O;DET;Javier Báez;Hobie Harris;0%;98%;Groundout: 3B-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Tigers 7, Nationals 0.
+Bottom of the 5th, Nationals Batting, Behind 0-7, Tigers' Matthew Boyd facing 4-5-6 
+b5;0-7;0;---;4,(2-1) CBBX;O;WSN;Jeimer Candelario;Matthew Boyd;1%;98%;Flyball: SS (Short LF-CF)
+b5;0-7;1;---;3,(1-1) BSX;O;WSN;Dominic Smith;Matthew Boyd;0%;98%;Groundout: 2B-1B
+b5;0-7;2;---;4,(0-2) SC.FX;O;WSN;Stone Garrett;Matthew Boyd;0%;99%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 7, Nationals 0.
+Top of the 6th, Tigers Batting, Ahead 7-0, Nationals' Thaddeus Ward facing 3-4-5 
+;;;;;;;;;Thaddeus Ward replaces Hobie Harris pitching
+t6;7-0;0;---;5,(2-2) .BCFBX;R;DET;Riley Greene;Thaddeus Ward;1%;99%;Home Run (Fly Ball to Deep CF-RF)
+t6;8-0;0;---;6,(2-2) CBSBFX;O;DET;Spencer Torkelson;Thaddeus Ward;0%;99%;Flyball: LF
+t6;8-0;1;---;4,(1-2) BCFX;O;DET;Andy Ibáñez;Thaddeus Ward;0%;99%;Flyball: CF (Deep CF)
+t6;8-0;2;---;5,(2-2) BBSC.S;O;DET;Nick Maton;Thaddeus Ward;0%;99%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Tigers 8, Nationals 0.
+Bottom of the 6th, Nationals Batting, Behind 0-8, Tigers' Matthew Boyd facing 7-8-9 
+b6;0-8;0;---;5,(2-2) CBBCX;;WSN;Keibert Ruiz;Matthew Boyd;-1%;99%;Double to CF (Line Drive to Deep CF-RF)
+b6;0-8;0;-2-;9,(2-2) CBCFFF*BFC;O;WSN;Alex Call;Matthew Boyd;1%;99%;Strikeout Looking
+b6;0-8;1;-2-;1,(0-0) X;R;WSN;CJ Abrams;Matthew Boyd;-1%;98%;Double to RF (Line Drive to Deep RF Line); Ruiz Scores
+b6;1-8;1;-2-;5,(2-2) BBCFX;RR;WSN;Lane Thomas;Matthew Boyd;-2%;96%;Home Run (Fly Ball to Deep LF-CF); Abrams Scores
+b6;3-8;1;---;6,(3-2) BBBCCX;O;WSN;Luis García;Matthew Boyd;1%;97%;Flyball: SS (Short LF-CF)
+b6;3-8;2;---;7,(3-2) FBCBBFX;;WSN;Joey Meneses;Matthew Boyd;-1%;96%;Ground-rule Double (Line Drive to Deep LF Line)
+;;;;;;;;;Mason Englert replaces Matthew Boyd pitching
+b6;3-8;2;-2-;2,(1-0) .BX;O;WSN;Jeimer Candelario;Mason Englert;1%;97%;Groundout: 2B-1B
+;;;;;;;;;3 runs, 4 hits, 0 errors, 1 LOB. Tigers 8, Nationals 3.
+Top of the 7th, Tigers Batting, Ahead 8-3, Nationals' Thaddeus Ward facing 7-8-9 
+t7;8-3;0;---;5,(3-1) BBFBB;;DET;Akil Baddoo;Thaddeus Ward;0%;97%;Walk
+t7;8-3;0;1--;1,(0-0) X;O;DET;Eric Haase;Thaddeus Ward;0%;97%;Flyball: CF (CF-RF)
+t7;8-3;1;1--;2,(0-1) 1CX;O;DET;Matt Vierling;Thaddeus Ward;0%;97%;Groundout: SS-2B/Forceout at 2B; Vierling to 1B
+t7;8-3;2;1--;3,(2-0) B*BX;O;DET;Zach McKinstry;Thaddeus Ward;0%;96%;Flyball: LF (LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Tigers 8, Nationals 3.
+Bottom of the 7th, Nationals Batting, Behind 3-8, Tigers' Mason Englert facing 5-6-7 
+b7;3-8;0;---;7,(3-2) CBBSFBB;;WSN;Dominic Smith;Mason Englert;-2%;94%;Walk
+b7;3-8;0;1--;5,(3-1) BBBCX;;WSN;Stone Garrett;Mason Englert;-5%;89%;Single to RF (Line Drive to Deep CF-RF); Smith to 3B
+b7;3-8;0;1-3;1,(0-0) B;R;WSN;Keibert Ruiz;Mason Englert;-1%;89%;Wild Pitch; Smith Scores/No RBI; Garrett to 2B
+b7;4-8;0;-2-;4,(1-2) B.SFX;RR;WSN;Keibert Ruiz;Mason Englert;-10%;79%;Home Run (Fly Ball to Deep RF Line); Garrett Scores
+b7;6-8;0;---;3,(1-1) SBX;;WSN;Alex Call;Mason Englert;-10%;69%;Double to CF (Line Drive to Deep LF-CF)
+;;;;;;;;;Chasen Shreve replaces Mason Englert pitching
+b7;6-8;0;-2-;3,(2-0) .*BBX;O;WSN;CJ Abrams;Chasen Shreve;4%;73%;Flyball: LF (Deep LF); Call to 3B
+b7;6-8;1;--3;3,(2-0) *BBX;O;WSN;Lane Thomas;Chasen Shreve;9%;81%;Groundout: SS-1B
+b7;6-8;2;--3;3,(0-2) CFS;O;WSN;Luis García;Chasen Shreve;5%;87%;Strikeout Swinging
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Tigers 8, Nationals 6.
+Top of the 8th, Tigers Batting, Ahead 8-6, Nationals' Andrés Machado facing 2-3-4 
+;;;;;;;;;Andrés Machado replaces Thaddeus Ward pitching
+t8;8-6;0;---;2,(1-0) .BX;O;DET;Javier Báez;Andrés Machado;-1%;85%;Groundout: 3B-1B (Weak 3B)
+t8;8-6;1;---;3,(1-1) FBX;O;DET;Riley Greene;Andrés Machado;-1%;85%;Groundout: SS-1B
+t8;8-6;2;---;5,(2-2) SCBBX;O;DET;Spencer Torkelson;Andrés Machado;-1%;84%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 8, Nationals 6.
+Bottom of the 8th, Nationals Batting, Behind 6-8, Tigers' Jason Foley facing 3-4-5 
+;;;;;;;;;Jason Foley replaces Chasen Shreve pitchingZack Short replaces Andy Ibáñez playing 2B batting 5th
+b8;6-8;0;---;4,(1-2) ..CBCX;O;WSN;Joey Meneses;Jason Foley;4%;88%;Groundout: SS-1B (Weak SS)
+b8;6-8;1;---;5,(2-2) CBSBC;O;WSN;Jeimer Candelario;Jason Foley;3%;91%;Strikeout Looking
+b8;6-8;2;---;5,(3-1) BBBCB;;WSN;Dominic Smith;Jason Foley;-3%;88%;Walk
+;;;;;;;;;Alex Lange replaces Jason Foley pitchingCorey Dickerson pinch hits for Stone Garrett (LF) batting 6th
+b8;6-8;2;1--;4,(1-2) ..ABFFS;O;WSN;Corey Dickerson;Alex Lange;4%;93%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Tigers 8, Nationals 6.
+Top of the 9th, Tigers Batting, Ahead 8-6, Nationals' Andrés Machado facing 5-6-7 
+;;;;;;;;;Corey Dickerson moves from PH to LF 
+t9;8-6;0;---;7,(2-2) .FBFFBFC;O;DET;Zack Short;Andrés Machado;-1%;92%;Strikeout Looking
+t9;8-6;1;---;6,(2-2) BSC.BFX;O;DET;Nick Maton;Andrés Machado;-1%;91%;Lineout: CF (Deep CF)
+t9;8-6;2;---;1,(0-0) X;O;DET;Akil Baddoo;Andrés Machado;0%;91%;Lineout: CF (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 8, Nationals 6.
+Bottom of the 9th, Nationals Batting, Behind 6-8, Tigers' Alex Lange facing 7-8-9 
+b9;6-8;0;---;6,(2-2) BCB.SFS;O;WSN;Keibert Ruiz;Alex Lange;5%;96%;Strikeout Swinging
+b9;6-8;1;---;1,(0-0) X;O;WSN;Alex Call;Alex Lange;3%;99%;Flyball: CF (Deep CF)
+b9;6-8;2;---;2,(1-0) BX;O;WSN;CJ Abrams;Alex Lange;1%;100%;Groundout: SS-1B (Weak SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 8, Nationals 6.

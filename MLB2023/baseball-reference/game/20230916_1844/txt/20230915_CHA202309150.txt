@@ -1,0 +1,272 @@
+
+Scorebox Meta
+20230915
+6:40 p.m. Local
+18001
+Guaranteed Rate Field
+176
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;0;4;1;1;0;0;0;0;4;10;14;0
+https://cdn.ssref.net/req/202309121/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;0;0;0;0;2;0;0;0;0;2;7;1
+
+Batting home
+Tim Anderson;/players/a/anderti01.shtml;SS;4;0;1;0;0;2;4;.241;.284;.294;.577;22;17;-0.044; 0.56;0.008;-0.052;0%; 0.00; -0.5;1;3;
+Andrew Benintendi;/players/b/beninan01.shtml;LF;4;0;1;0;0;0;4;.266;.331;.364;.695;15;10;-0.019; 0.44;0.018;-0.037;0%; 0.00; -0.3;2;0;
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;4;0;0;0;0;2;4;.264;.316;.535;.852;22;15;-0.062; 0.59;0.000;-0.062;0%; 0.00; -0.9;4;0;
+Eloy Jiménez;/players/j/jimenel02.shtml;DH;4;0;1;0;0;1;4;.270;.316;.437;.753;14;11;-0.032; 0.47;0.012;-0.043;0%; 0.00; -0.4;;;
+Yoán Moncada;/players/m/moncayo01.shtml;3B;3;0;0;0;0;2;3;.257;.301;.402;.703;10;7;-0.031; 0.44;0.000;-0.031;0%; 0.00; -0.5;0;2;
+Carlos Pérez;/players/p/perezca03.shtml;PH;0;0;0;0;1;0;1;.233;.303;.333;.636;5;1;0.001; 0.02;0.001;0.000;0%; 0.00; 0.4;;;
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;3;0;2;0;0;1;3;.261;.317;.440;.756;15;8;0.031; 0.47;0.043;-0.012;0%; 0.00; 0.2;8;0;
+Zach Remillard;/players/r/remilza01.shtml;PH;1;0;0;0;0;1;1;.254;.302;.331;.633;3;3;-0.001; 0.04;0.000;-0.001;0%; 0.00; -0.4;;;
+Gavin Sheets;/players/s/sheetga01.shtml;RF;3;1;1;0;0;0;3;.208;.274;.342;.616;12;9;-0.032; 0.78;0.017;-0.049;0%; 0.00; -0.2;0;0;
+Trayce Thompson;/players/t/thomptr01.shtml;PH;1;0;0;0;0;1;1;.157;.271;.314;.585;3;3;0.000; 0.01;0.000;0.000;0%; 0.00; -0.3;;;
+Elvis Andrus;/players/a/andruel01.shtml;2B;4;1;1;2;0;1;4;.254;.311;.361;.673;23;12;0.023; 0.55;0.062;-0.039;0%; 0.00; 0.8;0;3;HR
+Korey Lee;/players/l/leeko01.shtml;C;3;0;0;0;0;2;3;.070;.149;.140;.288;10;8;-0.045; 0.57;0.000;-0.045;0%; 0.00; -0.7;12;1;
+Jesse Scholtens;/players/s/scholje01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tanner Banks;/players/b/banksta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Shaw;/players/s/shawbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael Kopech;/players/k/kopecmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Elvis Andrus (6, off Bailey Ober, 5th inn, 1 on, 0 outs to Deep LF).
+
+
+TB: Elvis Andrus 4; Andrew Vaughn 2; Gavin Sheets; Andrew Benintendi; Tim Anderson; Eloy Jiménez.
+
+
+RBI: Elvis Andrus 2 (41).
+
+
+Team LOB: 6.
+With RISP: 0 for 1.
+
+Batting away
+Edouard Julien;/players/j/julieed01.shtml;2B;4;1;0;0;1;3;5;.266;.379;.454;.833;30;16;-0.005; 0.62;0.031;-0.037;0%; 0.05; -0.4;2;1;
+Royce Lewis;/players/l/lewisro02.shtml;DH;2;2;1;4;3;1;5;.302;.365;.545;.909;25;10;0.335; 0.71;0.337;-0.002; 0.01%; 0.06; 3.8;;;HR,SB
+Alex Kirilloff;/players/k/kirilal01.shtml;1B;5;1;3;0;0;1;5;.273;.355;.430;.784;13;10;0.028; 0.40;0.042;-0.014; 0.00%; 0.03; 0.5;6;0;
+Max Kepler;/players/k/keplema01.shtml;RF;5;1;2;1;0;1;5;.253;.322;.481;.803;24;16;-0.031; 0.65;0.035;-0.065;-0.00%; 0.05; 0.4;4;0;
+Carlos Correa;/players/c/correca01.shtml;SS;5;2;2;1;0;1;5;.230;.310;.402;.712;15;11;-0.023; 0.51;0.028;-0.051;-0.00%; 0.04; 1.2;1;1;2B
+Andrew Stevenson;/players/s/stevean01.shtml;CF;0;0;0;0;0;0;0;.190;.227;.190;.418;;;;;;;;;;0;0;
+Willi Castro;/players/c/castrwi01.shtml;CF-3B;5;1;2;1;0;0;5;.253;.328;.400;.728;15;11;0.010; 0.39;0.039;-0.029; 0.00%; 0.03; -0.1;1;0;GDP
+Matt Wallner;/players/w/wallnma01.shtml;LF;2;1;2;1;0;0;2;.237;.354;.492;.846;8;4;0.137; 1.02;0.137;0.000; 0.01%; 0.07; 1.9;0;0;
+Jordan Luplow;/players/l/luplojo01.shtml;PH-LF;3;0;0;0;0;0;3;.231;.342;.369;.711;12;8;-0.007; 0.09;0.000;-0.007;0%; 0.01; -0.9;0;0;
+Ryan Jeffers;/players/j/jeffery01.shtml;C;5;1;2;2;0;0;5;.272;.367;.457;.824;15;8;-0.096; 0.43;0.004;-0.100;-0.00%; 0.03; 0.3;13;0;
+Kyle Farmer;/players/f/farmeky01.shtml;3B-SS;5;0;0;0;0;4;5;.250;.306;.417;.722;24;16;-0.059; 0.50;0.000;-0.059;-0.00%; 0.04; -1.4;0;0;
+Bailey Ober;/players/o/oberba01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Louie Varland;/players/v/varlalo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Griffin Jax;/players/j/jaxgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kody Funderburk;/players/f/fundeko01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Carlos Correa (29, off Michael Kopech).
+
+
+HR: Royce Lewis (14, off Jesse Scholtens, 2nd inn, 3 on, 2 outs to Deep LF).
+
+
+TB: Royce Lewis 4; Alex Kirilloff 3; Carlos Correa 3; Willi Castro 2; Max Kepler 2; Ryan Jeffers 2; Matt Wallner 2.
+
+
+GIDP: Willi Castro (5).
+
+
+RBI: Royce Lewis 4 (50); Ryan Jeffers 2 (35); Carlos Correa (64); Willi Castro (31); Matt Wallner (33); Max Kepler (60).
+
+
+2-out RBI: Royce Lewis 4; Ryan Jeffers 2; Matt Wallner; Max Kepler.
+
+
+Team LOB: 8.
+With RISP: 6 for 13.
+
+Pitching home
+Jesse Scholtens;/players/s/scholje01.shtml; L (1-9); 4 ;7;6;5;3;5;1;4.77;23;94;54;27;8;19;7;8;5;0;28;;;-0.320; 0.90; 0.00%; 0.00; -3.9
+Tanner Banks;/players/b/banksta01.shtml;Tanner Banks; 2 ;1;0;0;1;2;0;4.53;8;34;22;11;4;7;2;3;1;0;;0;0;0.024; 0.22; 0.00%; 0.00; 1.0
+Bryan Shaw;/players/s/shawbr01.shtml;Bryan Shaw; 2 ;1;0;0;0;2;0;4.54;6;20;13;7;2;4;3;1;0;0;;0;0;0.022; 0.17; 0.00%; 0.00; 1.0
+Michael Kopech;/players/k/kopecmi01.shtml;Michael Kopech; 1 ;5;4;4;0;2;0;5.47;8;33;21;12;4;5;3;3;3;0;;0;0;-0.015; 0.06; 0.00%; 0.00; -3.5
+
+Pitching away
+Bailey Ober;/players/o/oberba01.shtml; W (7-6); 5 ;5;2;2;0;6;1;3.67;20;93;60;36;12;12;4;10;3;0;55;;;0.104; 0.50; 0.01%; 0.04; 0.6
+Louie Varland;/players/v/varlalo01.shtml;Louie Varland; 2 ;1;0;0;0;4;0;4.90;7;29;21;10;6;5;1;2;0;0;;0;0;0.076; 0.72; 0.00%; 0.05; 1.0
+Griffin Jax;/players/j/jaxgr01.shtml;Griffin Jax; 1 ;1;0;0;0;1;0;4.13;4;16;13;7;2;4;0;3;0;0;;0;0;0.030; 0.55; 0.00%; 0.04; 0.5
+Kody Funderburk;/players/f/fundeko01.shtml;Kody Funderburk; 1 ;0;0;0;1;2;0;1.29;4;16;10;1;2;7;1;0;0;0;;0;0;0.001; 0.02; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Alan Porter, 1B - Nate Tomlinson, 2B - Sean Barber, 3B - Jim Wolf, LF - (none), RF - (none).
+Time of Game: 2:56.
+Attendance: 18,001.
+Field Condition: Unknown.
+Start Time Weather: 72° F, Wind 4mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Twins
+1;Edouard Julien;/players/j/julieed01.shtml;2B
+2;Royce Lewis;/players/l/lewisro02.shtml;DH
+3;Alex Kirilloff;/players/k/kirilal01.shtml;1B
+4;Max Kepler;/players/k/keplema01.shtml;RF
+5;Carlos Correa;/players/c/correca01.shtml;SS
+6;Willi Castro;/players/c/castrwi01.shtml;CF
+7;Matt Wallner;/players/w/wallnma01.shtml;LF
+8;Ryan Jeffers;/players/j/jeffery01.shtml;C
+9;Kyle Farmer;/players/f/farmeky01.shtml;3B
+; Bailey Ober;/players/o/oberba01.shtml;P
+White Sox
+1;Tim Anderson;/players/a/anderti01.shtml;SS
+2;Andrew Benintendi;/players/b/beninan01.shtml;LF
+3;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+4;Eloy Jiménez;/players/j/jimenel02.shtml;DH
+5;Yoán Moncada;/players/m/moncayo01.shtml;3B
+6;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+7;Gavin Sheets;/players/s/sheetga01.shtml;RF
+8;Elvis Andrus;/players/a/andruel01.shtml;2B
+9;Korey Lee;/players/l/leeko01.shtml;C
+; Jesse Scholtens;/players/s/scholje01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;0-0;2;123;5,(3-1) BBCBX;RRRR;MIN;Royce Lewis;Jesse Scholtens;30%;82%;Home Run (Fly Ball to Deep LF); Wallner Scores; Jeffers Scores; Julien Scores
+t2;0-0;0;1--;6,(3-2) CB*BF*B.1X;;MIN;Matt Wallner;Jesse Scholtens;9%;63%;Single to RF (Ground Ball thru 2B-1B); Castro to 3B
+t2;0-0;0;1-3;1,(0-0) X;O;MIN;Ryan Jeffers;Jesse Scholtens;-9%;54%;Fielder's Choice ; Castro out at Hm/3B-C; Wallner to 2B; Jeffers to 1B
+b5;0-6;0;1--;5,(3-1) BBBCX;RR;CHW;Elvis Andrus;Bailey Ober;-6%;88%;Home Run (Fly Ball to Deep LF); Sheets Scores
+t2;0-0;1;12-;3,(0-2) SCC;O;MIN;Kyle Farmer;Jesse Scholtens;-5%;49%;Strikeout Looking
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Twins Batting, Tied 0-0, White Sox' Jesse Scholtens facing 1-2-3 
+t1;0-0;0;---;4,(1-2) BCCS;O;MIN;Edouard Julien;Jesse Scholtens;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;6,(3-2) BBFSBB;;MIN;Royce Lewis;Jesse Scholtens;2%;50%;Walk
+t1;0-0;1;1--;3,(1-1) C*B1X;;MIN;Alex Kirilloff;Jesse Scholtens;4%;54%;Single to LF (Line Drive to LF-CF); Lewis to 2B
+t1;0-0;1;12-;9,(3-2) CFFBFBB.FX;O;MIN;Max Kepler;Jesse Scholtens;-4%;49%;Flyball: CF (Deep CF)
+t1;0-0;2;12-;1,(0-0) X;O;MIN;Carlos Correa;Jesse Scholtens;-4%;45%;Lineout: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Twins 0, White Sox 0.
+Bottom of the 1st, White Sox Batting, Tied 0-0, Twins' Bailey Ober facing 1-2-3 
+b1;0-0;0;---;5,(2-2) FFBBS;O;CHW;Tim Anderson;Bailey Ober;2%;47%;Strikeout Swinging
+b1;0-0;1;---;5,(2-2) BCBFX;O;CHW;Andrew Benintendi;Bailey Ober;2%;49%;Groundout: P-1B (Front of Home)
+b1;0-0;2;---;7,(3-2) FSBBFBS;O;CHW;Luis Robert Jr.;Bailey Ober;1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 0, White Sox 0.
+Top of the 2nd, Twins Batting, Tied 0-0, White Sox' Jesse Scholtens facing 6-7-8 
+t2;0-0;0;---;2,(1-0) BX;;MIN;Willi Castro;Jesse Scholtens;4%;54%;Single to RF (Ground Ball thru 2B-1B)
+t2;0-0;0;1--;6,(3-2) CB*BF*B.1X;;MIN;Matt Wallner;Jesse Scholtens;9%;63%;Single to RF (Ground Ball thru 2B-1B); Castro to 3B
+t2;0-0;0;1-3;1,(0-0) X;O;MIN;Ryan Jeffers;Jesse Scholtens;-9%;54%;Fielder's Choice ; Castro out at Hm/3B-C; Wallner to 2B; Jeffers to 1B
+t2;0-0;1;12-;3,(0-2) SCC;O;MIN;Kyle Farmer;Jesse Scholtens;-5%;49%;Strikeout Looking
+t2;0-0;2;12-;6,(3-2) BBCBF.>B;;MIN;Edouard Julien;Jesse Scholtens;3%;52%;Walk; Wallner to 3B; Jeffers to 2B
+t2;0-0;2;123;5,(3-1) BBCBX;RRRR;MIN;Royce Lewis;Jesse Scholtens;30%;82%;Home Run (Fly Ball to Deep LF); Wallner Scores; Jeffers Scores; Julien Scores
+t2;4-0;2;---;3,(0-2) .CST;O;MIN;Alex Kirilloff;Jesse Scholtens;-1%;82%;Strikeout Swinging
+;;;;;;;;;4 runs, 3 hits, 0 errors, 0 LOB. Twins 4, White Sox 0.
+Bottom of the 2nd, White Sox Batting, Behind 0-4, Twins' Bailey Ober facing 4-5-6 
+b2;0-4;0;---;5,(2-2) CBSBS;O;CHW;Eloy Jiménez;Bailey Ober;2%;84%;Strikeout Swinging
+b2;0-4;1;---;3,(0-2) CF*S;O;CHW;Yoán Moncada;Bailey Ober;1%;85%;Strikeout Swinging
+b2;0-4;2;---;4,(2-1) CBBX;;CHW;Andrew Vaughn;Bailey Ober;-1%;84%;Single to CF (Line Drive to Short CF)
+b2;0-4;2;1--;7,(2-2) SBSBFFX;O;CHW;Gavin Sheets;Bailey Ober;2%;86%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 4, White Sox 0.
+Top of the 3rd, Twins Batting, Ahead 4-0, White Sox' Jesse Scholtens facing 4-5-6 
+t3;4-0;0;---;5,(2-2) CFBBS;O;MIN;Max Kepler;Jesse Scholtens;-1%;85%;Strikeout Swinging
+t3;4-0;1;---;2,(0-1) CX;;MIN;Carlos Correa;Jesse Scholtens;1%;86%;Reached on E6 (Ground Ball to Weak SS); Correa to 1B
+t3;4-0;1;1--;4,(1-2) CFBX;O;MIN;Willi Castro;Jesse Scholtens;-1%;85%;Groundout: 2B-1B (2B-1B); Correa to 2B
+t3;4-0;2;-2-;2,(1-0) BX;R;MIN;Matt Wallner;Jesse Scholtens;5%;90%;Single to LF (Pop Fly to Short LF Line); Correa Scores/unER
+t3;5-0;2;1--;5,(3-1) BBC*BX;O;MIN;Ryan Jeffers;Jesse Scholtens;-1%;89%;Lineout: CF (Deep CF)
+;;;;;;;;;1 run, 1 hit, 1 error, 1 LOB. Twins 5, White Sox 0.
+Bottom of the 3rd, White Sox Batting, Behind 0-5, Twins' Bailey Ober facing 8-9-1 
+b3;0-5;0;---;5,(3-1) BCBBX;O;CHW;Elvis Andrus;Bailey Ober;2%;90%;Popfly: 2B (Short CF-RF)
+b3;0-5;1;---;2,(0-1) FX;O;CHW;Korey Lee;Bailey Ober;1%;91%;Groundout: 2B-1B
+b3;0-5;2;---;2,(0-1) CX;;CHW;Tim Anderson;Bailey Ober;-1%;91%;Single to CF (Line Drive)
+b3;0-5;2;1--;1,(0-0) X;O;CHW;Andrew Benintendi;Bailey Ober;1%;92%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 5, White Sox 0.
+Top of the 4th, Twins Batting, Ahead 5-0, White Sox' Jesse Scholtens facing 9-1-2 
+t4;5-0;0;---;4,(2-1) CBBX;O;MIN;Kyle Farmer;Jesse Scholtens;-1%;91%;Groundout: 3B-1B
+t4;5-0;1;---;6,(3-2) BCBCB.X;O;MIN;Edouard Julien;Jesse Scholtens;0%;91%;Groundout: 2B-1B (Deep 2B)
+t4;5-0;2;---;7,(3-2) SBCB.BF*B;;MIN;Royce Lewis;Jesse Scholtens;0%;91%;Walk
+t4;5-0;2;1--;2,(1-0) *BX;;MIN;Alex Kirilloff;Jesse Scholtens;1%;92%;Single to RF (Line Drive); Lewis to 2B
+t4;5-0;2;12-;1,(0-0) X;R;MIN;Max Kepler;Jesse Scholtens;3%;95%;Single to CF (Line Drive to Deep CF); Lewis Scores; Kirilloff to 3B
+t4;6-0;2;1-3;7,(3-2) BBSBC.>F>*S;O;MIN;Carlos Correa;Jesse Scholtens;-1%;94%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Twins 6, White Sox 0.
+Bottom of the 4th, White Sox Batting, Behind 0-6, Twins' Bailey Ober facing 3-4-5 
+b4;0-6;0;---;4,(2-1) FBBX;O;CHW;Luis Robert Jr.;Bailey Ober;1%;95%;Popfly: SS (Deep 3B)
+b4;0-6;1;---;2,(0-1) SX;;CHW;Eloy Jiménez;Bailey Ober;-1%;94%;Single to CF (Ground Ball thru SS-2B)
+b4;0-6;1;1--;1,(0-0) X;O;CHW;Yoán Moncada;Bailey Ober;1%;95%;Flyball: RF (Deep RF); Jiménez to 2B
+b4;0-6;2;-2-;6,(3-2) BBC*BC.T;O;CHW;Andrew Vaughn;Bailey Ober;1%;96%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 6, White Sox 0.
+Top of the 5th, Twins Batting, Ahead 6-0, White Sox' Tanner Banks facing 6-7-8 
+;;;;;;;;;Tanner Banks replaces Jesse Scholtens pitching
+t5;6-0;0;---;2,(0-1) .SX;O;MIN;Willi Castro;Tanner Banks;0%;96%;Groundout: 1B unassisted
+;;;;;;;;;Jordan Luplow pinch hits for Matt Wallner (LF) batting 7th
+t5;6-0;1;---;6,(2-2) .SC.BFBX;O;MIN;Jordan Luplow;Tanner Banks;0%;96%;Groundout: SS-1B
+t5;6-0;2;---;2,(1-0) BX;;MIN;Ryan Jeffers;Tanner Banks;0%;96%;Single to CF (Line Drive to LF-CF)
+t5;6-0;2;1--;6,(1-2) CBCFFS;O;MIN;Kyle Farmer;Tanner Banks;0%;95%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 6, White Sox 0.
+Bottom of the 5th, White Sox Batting, Behind 0-6, Twins' Bailey Ober facing 7-8-9 
+;;;;;;;;;Jordan Luplow moves from PH to LF 
+b5;0-6;0;---;4,(1-2) .CBFX;;CHW;Gavin Sheets;Bailey Ober;-2%;94%;Single to LF (Line Drive)
+b5;0-6;0;1--;5,(3-1) BBBCX;RR;CHW;Elvis Andrus;Bailey Ober;-6%;88%;Home Run (Fly Ball to Deep LF); Sheets Scores
+b5;2-6;0;---;5,(2-2) FS.BBS;O;CHW;Korey Lee;Bailey Ober;2%;90%;Strikeout Swinging
+b5;2-6;1;---;12,(3-2) CBFBBFFF.FFFX;O;CHW;Tim Anderson;Bailey Ober;1%;91%;Flyball: CF (Deep CF-RF)
+b5;2-6;2;---;8,(3-2) CBBS.FBFX;O;CHW;Andrew Benintendi;Bailey Ober;1%;92%;Foul Popfly: 1B
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Twins 6, White Sox 2.
+Top of the 6th, Twins Batting, Ahead 6-2, White Sox' Tanner Banks facing 1-2-3 
+t6;6-2;0;---;8,(3-2) CCBBF.FBS;O;MIN;Edouard Julien;Tanner Banks;-1%;91%;Strikeout Swinging
+t6;6-2;1;---;4,(3-0) BBBB;;MIN;Royce Lewis;Tanner Banks;1%;92%;Walk
+t6;6-2;1;1--;2,(0-1) CX;O;MIN;Alex Kirilloff;Tanner Banks;-1%;91%;Foul Popfly: LF (LF into Foul Terr.)
+t6;6-2;2;1--;3,(0-2) 1CF>B;;MIN;Max Kepler;Tanner Banks;0%;91%;Lewis Steals 2B
+t6;6-2;2;-2-;4,(1-2) 1CF>B.X;O;MIN;Max Kepler;Tanner Banks;-1%;90%;Flyball: CF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Twins 6, White Sox 2.
+Bottom of the 6th, White Sox Batting, Behind 2-6, Twins' Louie Varland facing 3-4-5 
+;;;;;;;;;Louie Varland replaces Bailey Ober pitching
+b6;2-6;0;---;3,(0-2) .FFS;O;CHW;Luis Robert Jr.;Louie Varland;2%;92%;Strikeout Swinging
+b6;2-6;1;---;3,(0-2) FS.X;O;CHW;Eloy Jiménez;Louie Varland;1%;93%;Flyball: RF (Deep RF)
+b6;2-6;2;---;6,(3-2) SBCBBC;O;CHW;Yoán Moncada;Louie Varland;1%;94%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 6, White Sox 2.
+Top of the 7th, Twins Batting, Ahead 6-2, White Sox' Bryan Shaw facing 5-6-7 
+;;;;;;;;;Bryan Shaw replaces Tanner Banks pitching
+t7;6-2;0;---;3,(1-1) .FBX;;MIN;Carlos Correa;Bryan Shaw;1%;95%;Single to RF (Ground Ball thru 2B-1B)
+t7;6-2;0;1--;2,(0-1) SX;OO;MIN;Willi Castro;Bryan Shaw;-2%;93%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+t7;6-2;2;---;2,(0-1) CX;O;MIN;Jordan Luplow;Bryan Shaw;0%;93%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Twins 6, White Sox 2.
+Bottom of the 7th, White Sox Batting, Behind 2-6, Twins' Louie Varland facing 6-7-8 
+b7;2-6;0;---;5,(2-2) CBBFX;;CHW;Andrew Vaughn;Louie Varland;-3%;89%;Single to RF (Ground Ball)
+b7;2-6;0;1--;1,(0-0) X;O;CHW;Gavin Sheets;Louie Varland;3%;92%;Popfly: 2B
+b7;2-6;1;1--;8,(3-2) BCBFBFFC;O;CHW;Elvis Andrus;Louie Varland;2%;95%;Strikeout Looking
+b7;2-6;2;1--;3,(0-2) SS.S;O;CHW;Korey Lee;Louie Varland;2%;96%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 6, White Sox 2.
+Top of the 8th, Twins Batting, Ahead 6-2, White Sox' Bryan Shaw facing 8-9-1 
+t8;6-2;0;---;1,(0-0) X;O;MIN;Ryan Jeffers;Bryan Shaw;0%;96%;Flyball: LF (LF-CF)
+t8;6-2;1;---;6,(3-2) BBCTBS;O;MIN;Kyle Farmer;Bryan Shaw;0%;96%;Strikeout Swinging
+t8;6-2;2;---;6,(3-2) CBBFB.C;O;MIN;Edouard Julien;Bryan Shaw;0%;95%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 6, White Sox 2.
+Bottom of the 8th, White Sox Batting, Behind 2-6, Twins' Griffin Jax facing 1-2-3 
+;;;;;;;;;Griffin Jax replaces Louie Varland pitching
+b8;2-6;0;---;3,(0-2) .CCS;O;CHW;Tim Anderson;Griffin Jax;2%;97%;Strikeout Swinging
+b8;2-6;1;---;1,(0-0) X;;CHW;Andrew Benintendi;Griffin Jax;-2%;95%;Single to LF (Fly Ball to Short LF Line)
+b8;2-6;1;1--;8,(2-2) BFSFBFFX;O;CHW;Luis Robert Jr.;Griffin Jax;2%;97%;Flyball: RF (Short RF)
+b8;2-6;2;1--;4,(1-2) CBCX;O;CHW;Eloy Jiménez;Griffin Jax;1%;98%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 6, White Sox 2.
+Top of the 9th, Twins Batting, Ahead 6-2, White Sox' Michael Kopech facing 2-3-4 
+;;;;;;;;;Michael Kopech replaces Bryan Shaw pitching
+t9;6-2;0;---;3,(0-2) .CCS;O;MIN;Royce Lewis;Michael Kopech;0%;98%;Strikeout Swinging
+t9;6-2;1;---;3,(1-1) SBX;;MIN;Alex Kirilloff;Michael Kopech;0%;98%;Single to RF (Line Drive)
+t9;6-2;1;1--;5,(2-2) FBFBX;;MIN;Max Kepler;Michael Kopech;0%;99%;Single to CF (Ground Ball thru SS-2B); Kirilloff to 2B
+t9;6-2;1;12-;2,(0-1) CX;R;MIN;Carlos Correa;Michael Kopech;1%;100%;Double to LF (Line Drive to Deep LF Line); Kirilloff Scores; Kepler to 3B
+t9;7-2;1;-23;5,(2-2) FBBSX;R;MIN;Willi Castro;Michael Kopech;0%;100%;Single to P (Ground Ball); Kepler Scores; Correa to 3B
+t9;8-2;1;1-3;4,(2-1) BSBX;O;MIN;Jordan Luplow;Michael Kopech;0%;100%;Groundout: C-1B; Castro to 2B
+t9;8-2;2;-23;6,(3-2) CB*BF*B.X;RR;MIN;Ryan Jeffers;Michael Kopech;0%;100%;Single to CF (Line Drive to Deep LF-CF); Correa Scores; Castro Scores
+t9;10-2;2;1--;5,(2-2) FBBFC;O;MIN;Kyle Farmer;Michael Kopech;0%;100%;Strikeout Looking
+;;;;;;;;;4 runs, 5 hits, 0 errors, 1 LOB. Twins 10, White Sox 2.
+Bottom of the 9th, White Sox Batting, Behind 2-10, Twins' Kody Funderburk facing 5-6-7 
+;;;;;;;;;Kody Funderburk replaces Griffin Jax pitchingWilli Castro moves from CF to 3B Kyle Farmer moves from 3B to SS Andrew Stevenson replaces Carlos Correa (SS) playing CF batting 5thCarlos Pérez pinch hits for Yoán Moncada (3B) batting 5th
+b9;2-10;0;---;5,(3-1) .....CBBBB;;CHW;Carlos Pérez;Kody Funderburk;0%;100%;Walk
+;;;;;;;;;Zach Remillard pinch hits for Andrew Vaughn (1B) batting 6th
+b9;2-10;0;1--;3,(0-2) .CCS;O;CHW;Zach Remillard;Kody Funderburk;0%;100%;Strikeout Swinging
+;;;;;;;;;Trayce Thompson pinch hits for Gavin Sheets (RF) batting 7th
+b9;2-10;1;1--;3,(0-2) .CCS;O;CHW;Trayce Thompson;Kody Funderburk;0%;100%;Strikeout Swinging
+b9;2-10;2;1--;5,(2-2) CCBBX;O;CHW;Elvis Andrus;Kody Funderburk;0%;100%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Twins 10, White Sox 2.

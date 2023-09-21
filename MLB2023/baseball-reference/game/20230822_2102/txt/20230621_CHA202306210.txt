@@ -1,0 +1,271 @@
+
+Scorebox Meta
+20230621
+7:10 p.m. Local
+18963
+Guaranteed Rate Field
+146
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/TEX-2023.png;/teams/TEX/2023.shtml;0;0;1;2;3;0;0;0;0;6;7;1
+https://cdn.ssref.net/req/202308101/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;1;0;0;0;0;1;1;0;0;3;4;0
+
+Batting home
+Andrew Benintendi;/players/b/beninan01.shtml;LF;4;0;0;0;0;1;4;.272;.339;.356;.695;21;14;-0.082; 0.76;0.000;-0.082;-0.02%; 0.33; -1.0;3;0;
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;4;1;1;1;0;1;4;.241;.323;.438;.761;20;13;-0.015; 0.67;0.041;-0.056;-0.00%; 0.28; 0.5;7;1;HR
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;3;1;1;0;0;0;4;.263;.322;.533;.855;10;5;-0.005; 0.74;0.044;-0.049;-0.00%; 0.32; -0.1;2;0;HBP
+Eloy Jiménez;/players/j/jimenel02.shtml;DH;3;0;1;1;1;0;4;.259;.310;.465;.774;14;7;0.076; 0.88;0.146;-0.070; 0.02%; 0.38; 0.7;;;2B,GDP
+Jake Burger;/players/b/burgeja01.shtml;3B;4;0;0;0;0;0;4;.230;.281;.551;.832;9;6;-0.100; 0.97;0.000;-0.100;-0.03%; 0.41; -1.0;0;2;
+Clint Frazier;/players/f/frazicl01.shtml;RF;3;1;1;0;0;0;3;.204;.317;.259;.577;10;5;-0.005; 0.83;0.044;-0.049;-0.00%; 0.35; 0.1;0;0;2B
+Gavin Sheets;/players/s/sheetga01.shtml;PH;1;0;0;0;0;1;1;.232;.305;.413;.718;5;3;-0.013; 0.52;0.000;-0.013;-0.00%; 0.22; -0.2;;;
+Elvis Andrus;/players/a/andruel01.shtml;SS;3;0;0;0;1;0;4;.206;.280;.272;.552;17;7;-0.030; 0.63;0.024;-0.054;-0.01%; 0.27; -0.3;3;2;
+Zach Remillard;/players/r/remilza01.shtml;2B;2;0;0;0;0;0;3;.294;.333;.294;.627;5;3;0.015; 0.77;0.041;-0.026; 0.00%; 0.33; 0.2;1;3;SH
+Seby Zavala;/players/z/zavalse01.shtml;C;2;0;0;1;0;1;3;.147;.183;.275;.458;11;8;-0.070; 1.14;0.000;-0.070;-0.02%; 0.49; -0.5;10;0;SF
+Michael Kopech;/players/k/kopecmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Jimmy Lambert;/players/l/lambeji01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Touki Toussaint;/players/t/toussto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Eloy Jiménez (8, off Martín Pérez); Clint Frazier (1, off Martín Pérez).
+
+
+HR: Andrew Vaughn (11, off Martín Pérez, 6th inn, 0 on, 0 outs to Deep LF).
+
+
+SF: Seby Zavala (2, off Martín Pérez).
+
+
+SH: Zach Remillard (1, off Martín Pérez).
+
+
+HBP: Luis Robert Jr. (8, by Josh Sborz).
+
+
+TB: Andrew Vaughn 4; Clint Frazier 2; Eloy Jiménez 2; Luis Robert Jr..
+
+
+GIDP: Eloy Jiménez (7).
+
+
+RBI: Seby Zavala (11); Andrew Vaughn (44); Eloy Jiménez (30).
+
+
+2-out RBI: Eloy Jiménez.
+
+
+Team LOB: 4.
+With RISP: 0 for 5.
+
+Batting away
+Marcus Semien;/players/s/semiema01.shtml;2B;5;1;1;0;0;0;5;.276;.339;.455;.794;12;8;-0.023; 0.53;0.026;-0.048;-0.02%; 0.67; -0.7;3;3;
+Corey Seager;/players/s/seageco01.shtml;SS;4;0;0;0;1;1;5;.358;.418;.642;1.060;17;8;-0.026; 0.56;0.013;-0.039;-0.02%; 0.71; -0.6;1;3;
+Nathaniel Lowe;/players/l/lowena01.shtml;1B;2;1;1;1;3;0;5;.273;.363;.429;.792;26;11;0.167; 0.63;0.169;-0.002; 0.13%; 0.79; 1.8;12;0;2B
+Adolis García;/players/g/garciad02.shtml;RF;4;1;1;0;0;2;4;.263;.333;.489;.823;20;14;-0.045; 1.06;0.051;-0.096;-0.03%; 1.33; -0.5;0;0;
+Josh Jung;/players/j/jungjo01.shtml;3B;4;0;0;0;0;4;4;.275;.329;.493;.822;18;12;-0.112; 0.94;0.000;-0.112;-0.08%; 1.19; -1.5;1;4;
+Jonah Heim;/players/h/heimjo01.shtml;C;4;2;2;3;0;0;4;.276;.327;.465;.792;21;13;0.183; 0.78;0.206;-0.023; 0.14%; 0.97; 2.5;4;0;HR
+Ezequiel Duran;/players/d/duranez01.shtml;DH;4;1;2;2;0;1;4;.310;.355;.524;.879;16;13;0.197; 0.47;0.215;-0.018; 0.15%; 0.59; 1.6;;;HR,SB
+Travis Jankowski;/players/j/jankotr01.shtml;LF;2;0;0;0;2;1;4;.298;.397;.385;.781;20;8;-0.008; 0.52;0.027;-0.035;-0.01%; 0.65; -0.0;1;0;
+Josh H. Smith;/players/s/smithjo11.shtml;LF;0;0;0;0;0;0;0;.204;.350;.337;.687;;;;;;;;;;0;0;
+Leody Taveras;/players/t/taverle01.shtml;CF;4;0;0;0;0;1;4;.299;.352;.481;.833;15;8;-0.062; 0.55;0.000;-0.062;-0.05%; 0.69; -1.2;5;0;GDP
+Martín Pérez;/players/p/perezma02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;4;
+Josh Sborz;/players/s/sborzjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Will Smith;/players/s/smithwi04.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Nathaniel Lowe (19, off Michael Kopech).
+
+
+HR: Ezequiel Duran (9, off Michael Kopech, 4th inn, 1 on, 1 out to Deep LF-CF); Jonah Heim (10, off Jimmy Lambert, 5th inn, 2 on, 2 outs to Deep RF).
+
+
+TB: Ezequiel Duran 5; Jonah Heim 5; Nathaniel Lowe 2; Adolis García; Marcus Semien.
+
+
+GIDP: Leody Taveras (2).
+
+
+RBI: Jonah Heim 3 (54); Ezequiel Duran 2 (30); Nathaniel Lowe (41).
+
+
+2-out RBI: Jonah Heim 3; Nathaniel Lowe.
+
+
+Team LOB: 6.
+With RISP: 2 for 5.
+
+Pitching home
+Michael Kopech;/players/k/kopecmi01.shtml; L (3-6); 4 ;4;3;3;3;5;1;4.06;19;86;46;27;6;13;2;9;2;0;44;;;-0.145; 0.94;-0.04%; 0.40; -0.9
+Jimmy Lambert;/players/l/lambeji01.shtml;Jimmy Lambert; 1 ;3;3;3;1;1;1;6.85;7;30;20;11;2;7;1;4;3;0;;0;0;-0.174; 0.69;-0.04%; 0.29; -2.5
+Touki Toussaint;/players/t/toussto01.shtml;Touki Toussaint; 4 ;0;0;0;2;4;0;2.35;13;49;29;15;6;8;6;1;1;0;;0;0;0.046; 0.20; 0.01%; 0.08; 2.1
+
+Pitching away
+Martín Pérez;/players/p/perezma02.shtml; W (7-3); 7 ;4;3;2;2;2;1;4.38;28;100;59;41;6;12;11;13;6;0;59;;;0.132; 0.81; 0.10%; 1.01; 0.6
+Josh Sborz;/players/s/sborzjo01.shtml; H (8); 1.1;0;0;0;0;1;0;2.70;4;15;8;3;3;2;2;0;0;0;;0;0;0.078; 1.02; 0.06%; 1.29; 0.8
+Will Smith;/players/s/smithwi04.shtml;Will Smith; 0.2;0;0;0;0;1;0;2.83;2;7;4;1;2;1;0;1;0;0;;0;0;0.018; 0.35; 0.01%; 0.45; 0.3
+
+indiv_events
+
+Balks: None.
+WP: Michael Kopech (4).
+HBP: Josh Sborz (1; Luis Robert Jr.).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Michael Kopech (4).
+HBP: Josh Sborz (1; Luis Robert Jr.).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Clint Vondrak, 1B - John Libka, 2B - James Hoye, 3B - D.J. Reyburn, LF - (none), RF - (none).
+Time of Game: 2:26.
+Attendance: 18,963.
+Field Condition: Unknown.
+Start Time Weather: 74° F, Wind 13mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Rangers
+1;Marcus Semien;/players/s/semiema01.shtml;2B
+2;Corey Seager;/players/s/seageco01.shtml;SS
+3;Nathaniel Lowe;/players/l/lowena01.shtml;1B
+4;Adolis García;/players/g/garciad02.shtml;RF
+5;Josh Jung;/players/j/jungjo01.shtml;3B
+6;Jonah Heim;/players/h/heimjo01.shtml;C
+7;Ezequiel Duran;/players/d/duranez01.shtml;DH
+8;Travis Jankowski;/players/j/jankotr01.shtml;LF
+9;Leody Taveras;/players/t/taverle01.shtml;CF
+; Martín Pérez;/players/p/perezma02.shtml;P
+White Sox
+1;Andrew Benintendi;/players/b/beninan01.shtml;LF
+2;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+3;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+4;Eloy Jiménez;/players/j/jimenel02.shtml;DH
+5;Jake Burger;/players/b/burgeja01.shtml;3B
+6;Clint Frazier;/players/f/frazicl01.shtml;RF
+7;Elvis Andrus;/players/a/andruel01.shtml;SS
+8;Zach Remillard;/players/r/remilza01.shtml;2B
+9;Seby Zavala;/players/z/zavalse01.shtml;C
+; Michael Kopech;/players/k/kopecmi01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t4;1-1;1;1--;3,(0-2) CFX;RR;TEX;Ezequiel Duran;Michael Kopech;21%;71%;Home Run (Fly Ball to Deep LF-CF); Heim Scores
+t5;3-1;2;1-3;5,(2-2) CF*BB>X;RRR;TEX;Jonah Heim;Jimmy Lambert;18%;93%;Home Run (Fly Ball to Deep RF); Lowe Scores; García Scores
+t3;0-1;2;12-;3,(1-1) FBX;R;TEX;Nathaniel Lowe;Michael Kopech;13%;51%;Double to LF (Fly Ball to Deep LF); Semien Scores; Seager to 3B
+b1;0-0;2;1--;5,(2-2) CS*B1B+1X;R;CHW;Eloy Jiménez;Martín Pérez;-11%;36%;Double to RF (Line Drive to RF Line); Robert Scores; Jiménez to 3B
+t3;1-1;2;-23;8,(3-2) SBCF.BBFC;O;TEX;Adolis García;Michael Kopech;-7%;44%;Strikeout Looking
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Rangers Batting, Tied 0-0, White Sox' Michael Kopech facing 1-2-3 
+t1;0-0;0;---;3,(1-1) BCX;O;TEX;Marcus Semien;Michael Kopech;-2%;48%;Flyball: LF (LF Line)
+t1;0-0;1;---;5,(3-1) BSBBX;O;TEX;Corey Seager;Michael Kopech;-2%;46%;Groundout: 1B-P
+t1;0-0;2;---;6,(3-2) BBBCFB;;TEX;Nathaniel Lowe;Michael Kopech;1%;47%;Walk
+t1;0-0;2;1--;3,(1-1) BCX;O;TEX;Adolis García;Michael Kopech;-2%;45%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rangers 0, White Sox 0.
+Bottom of the 1st, White Sox Batting, Tied 0-0, Rangers' Martín Pérez facing 1-2-3 
+b1;0-0;0;---;5,(3-1) BBFBX;O;CHW;Andrew Benintendi;Martín Pérez;2%;47%;Flyball: LF (Short LF)
+b1;0-0;1;---;1,(0-0) X;O;CHW;Andrew Vaughn;Martín Pérez;2%;49%;Groundout: 3B-1B
+b1;0-0;2;---;1,(0-0) X;;CHW;Luis Robert Jr.;Martín Pérez;-1%;48%;Single to CF (Line Drive to CF-RF)
+b1;0-0;2;1--;5,(2-2) CS*B1B+1X;R;CHW;Eloy Jiménez;Martín Pérez;-11%;36%;Double to RF (Line Drive to RF Line); Robert Scores; Jiménez to 3B
+b1;1-0;2;--3;1,(0-0) X;O;CHW;Jake Burger;Martín Pérez;3%;40%;Lineout: SS
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Rangers 0, White Sox 1.
+Top of the 2nd, Rangers Batting, Behind 0-1, White Sox' Michael Kopech facing 5-6-7 
+t2;0-1;0;---;6,(3-2) BBBCF.S;O;TEX;Josh Jung;Michael Kopech;-2%;37%;Strikeout Swinging
+t2;0-1;1;---;5,(3-1) BCBBX;O;TEX;Jonah Heim;Michael Kopech;-2%;35%;Popfly: SS (Deep SS)
+t2;0-1;2;---;4,(1-2) CCBX;O;TEX;Ezequiel Duran;Michael Kopech;-1%;34%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 0, White Sox 1.
+Bottom of the 2nd, White Sox Batting, Ahead 1-0, Rangers' Martín Pérez facing 6-7-8 
+b2;1-0;0;---;6,(3-2) FCBBBX;O;CHW;Clint Frazier;Martín Pérez;2%;36%;Lineout: CF (Deep CF)
+b2;1-0;1;---;6,(3-2) BBFC.BX;O;CHW;Elvis Andrus;Martín Pérez;1%;38%;Popfly: 3B (Weak SS)
+b2;1-0;2;---;3,(2-0) BBX;O;CHW;Zach Remillard;Martín Pérez;1%;39%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 0, White Sox 1.
+Top of the 3rd, Rangers Batting, Behind 0-1, White Sox' Michael Kopech facing 8-9-1 
+t3;0-1;0;---;5,(2-2) BBCCT;O;TEX;Travis Jankowski;Michael Kopech;-3%;36%;Strikeout Swinging
+t3;0-1;1;---;5,(2-2) SBBF.S;O;TEX;Leody Taveras;Michael Kopech;-2%;34%;Strikeout Swinging
+t3;0-1;2;---;1,(0-0) X;;TEX;Marcus Semien;Michael Kopech;1%;36%;Single to RF (Line Drive to Short RF)
+t3;0-1;2;1--;2,(1-0) BB;;TEX;Corey Seager;Michael Kopech;1%;37%;Wild Pitch; Semien to 2B
+t3;0-1;2;-2-;4,(3-0) BB.BB;;TEX;Corey Seager;Michael Kopech;1%;38%;Walk
+t3;0-1;2;12-;3,(1-1) FBX;R;TEX;Nathaniel Lowe;Michael Kopech;13%;51%;Double to LF (Fly Ball to Deep LF); Semien Scores; Seager to 3B
+t3;1-1;2;-23;8,(3-2) SBCF.BBFC;O;TEX;Adolis García;Michael Kopech;-7%;44%;Strikeout Looking
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Rangers 1, White Sox 1.
+Bottom of the 3rd, White Sox Batting, Tied 1-1, Rangers' Martín Pérez facing 9-1-2 
+b3;1-1;0;---;4,(1-2) BSSC;O;CHW;Seby Zavala;Martín Pérez;3%;47%;Strikeout Looking
+b3;1-1;1;---;4,(0-2) SFFX;O;CHW;Andrew Benintendi;Martín Pérez;2%;49%;Groundout: 3B-1B
+b3;1-1;2;---;4,(1-2) BCC.X;O;CHW;Andrew Vaughn;Martín Pérez;1%;50%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 1, White Sox 1.
+Top of the 4th, Rangers Batting, Tied 1-1, White Sox' Michael Kopech facing 5-6-7 
+t4;1-1;0;---;5,(2-2) FBBFS;O;TEX;Josh Jung;Michael Kopech;-3%;47%;Strikeout Swinging
+t4;1-1;1;---;6,(2-2) BFBF.FX;;TEX;Jonah Heim;Michael Kopech;3%;50%;Single to LF (Line Drive to LF-CF)
+t4;1-1;1;1--;3,(0-2) CFX;RR;TEX;Ezequiel Duran;Michael Kopech;21%;71%;Home Run (Fly Ball to Deep LF-CF); Heim Scores
+t4;3-1;1;---;5,(3-1) BBBCB;;TEX;Travis Jankowski;Michael Kopech;2%;73%;Walk
+t4;3-1;1;1--;4,(2-1) T*B1BX;O;TEX;Leody Taveras;Michael Kopech;-2%;71%;Flyball: CF (LF-CF)
+t4;3-1;2;1--;5,(2-2) BBFFX;O;TEX;Marcus Semien;Michael Kopech;-2%;69%;Flyball: LF
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Rangers 3, White Sox 1.
+Bottom of the 4th, White Sox Batting, Behind 1-3, Rangers' Martín Pérez facing 3-4-5 
+b4;1-3;0;---;2,(1-0) BX;O;CHW;Luis Robert Jr.;Martín Pérez;3%;72%;Groundout: 3B-1B (SS-3B Hole)
+b4;1-3;1;---;6,(3-2) BBBC.FB;;CHW;Eloy Jiménez;Martín Pérez;-3%;69%;Walk
+b4;1-3;1;1--;1,(0-0) X;O;CHW;Jake Burger;Martín Pérez;4%;72%;Popfly: 1B
+b4;1-3;2;1--;1,(0-0) X;O;CHW;Clint Frazier;Martín Pérez;3%;75%;Groundout: 3B-2B/Forceout at 2B; Frazier to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rangers 3, White Sox 1.
+Top of the 5th, Rangers Batting, Ahead 3-1, White Sox' Jimmy Lambert facing 2-3-4 
+;;;;;;;;;Jimmy Lambert replaces Michael Kopech pitching
+t5;3-1;0;---;1,(0-0) .X;O;TEX;Corey Seager;Jimmy Lambert;-2%;73%;Lineout: 2B (Deep 2B)
+t5;3-1;1;---;6,(3-2) CFBBBB;;TEX;Nathaniel Lowe;Jimmy Lambert;2%;75%;Walk
+t5;3-1;1;1--;5,(1-2) BFSF.X;;TEX;Adolis García;Jimmy Lambert;5%;80%;Single to RF (Line Drive to Short RF Line); Lowe to 3B
+t5;3-1;1;1-3;4,(1-2) F1S*BC;O;TEX;Josh Jung;Jimmy Lambert;-5%;75%;Strikeout Looking
+t5;3-1;2;1-3;5,(2-2) CF*BB>X;RRR;TEX;Jonah Heim;Jimmy Lambert;18%;93%;Home Run (Fly Ball to Deep RF); Lowe Scores; García Scores
+t5;6-1;2;---;4,(0-2) CC.FX;;TEX;Ezequiel Duran;Jimmy Lambert;0%;93%;Single to LF (Ground Ball thru SS-3B Hole)
+t5;6-1;2;1--;3,(1-1) BC>B;;TEX;Travis Jankowski;Jimmy Lambert;0%;93%;Duran Steals 2B
+t5;6-1;2;-2-;5,(2-2) BC>B.CX;O;TEX;Travis Jankowski;Jimmy Lambert;-1%;92%;Lineout: CF (Deep CF)
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Rangers 6, White Sox 1.
+Bottom of the 5th, White Sox Batting, Behind 1-6, Rangers' Martín Pérez facing 7-8-9 
+b5;1-6;0;---;6,(3-2) .BBCBCB;;CHW;Elvis Andrus;Martín Pérez;-2%;90%;Walk
+b5;1-6;0;1--;1,(0-0) X;O;CHW;Zach Remillard;Martín Pérez;2%;92%;Bunt Groundout: P-1B/Sacrifice (Short 3B Line); Andrus to 2B
+b5;1-6;1;-2-;5,(2-2) BBCCX;O;CHW;Seby Zavala;Martín Pérez;2%;94%;Groundout: P-1B (Front of Home); Andrus to 3B
+b5;1-6;2;--3;4,(1-2) BFS.S;O;CHW;Andrew Benintendi;Martín Pérez;2%;95%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rangers 6, White Sox 1.
+Top of the 6th, Rangers Batting, Ahead 6-1, White Sox' Touki Toussaint facing 9-1-2 
+;;;;;;;;;Touki Toussaint replaces Jimmy Lambert pitching
+t6;6-1;0;---;4,(2-1) .BBCX;O;TEX;Leody Taveras;Touki Toussaint;0%;95%;Lineout: SS (Deep SS-2B)
+t6;6-1;1;---;1,(0-0) X;O;TEX;Marcus Semien;Touki Toussaint;0%;95%;Groundout: 2B-1B (Weak 2B)
+t6;6-1;2;---;1,(0-0) X;O;TEX;Corey Seager;Touki Toussaint;0%;94%;Groundout: 2B-1B (Deep 2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 6, White Sox 1.
+Bottom of the 6th, White Sox Batting, Behind 1-6, Rangers' Martín Pérez facing 2-3-4 
+b6;1-6;0;---;9,(3-2) FBBBF.FFFX;R;CHW;Andrew Vaughn;Martín Pérez;-4%;90%;Home Run (Fly Ball to Deep LF)
+b6;2-6;0;---;2,(1-0) BX;O;CHW;Luis Robert Jr.;Martín Pérez;2%;92%;Groundout: P-1B (Weak SS-2B)
+b6;2-6;1;---;1,(0-0) X;O;CHW;Eloy Jiménez;Martín Pérez;1%;93%;Groundout: P-2B-1B (SS-2B)
+b6;2-6;2;---;5,(3-1) CBBBX;O;CHW;Jake Burger;Martín Pérez;1%;94%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Rangers 6, White Sox 2.
+Top of the 7th, Rangers Batting, Ahead 6-2, White Sox' Touki Toussaint facing 3-4-5 
+t7;6-2;0;---;7,(3-2) BCCBBFB;;TEX;Nathaniel Lowe;Touki Toussaint;1%;95%;Walk
+t7;6-2;0;1--;4,(1-2) FFBS;O;TEX;Adolis García;Touki Toussaint;-1%;94%;Strikeout Swinging
+t7;6-2;1;1--;3,(0-2) FC.T;O;TEX;Josh Jung;Touki Toussaint;-1%;93%;Strikeout Swinging
+t7;6-2;2;1--;5,(1-2) CBC+1FX;O;TEX;Jonah Heim;Touki Toussaint;-1%;93%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rangers 6, White Sox 2.
+Bottom of the 7th, White Sox Batting, Behind 2-6, Rangers' Martín Pérez facing 6-7-8 
+b7;2-6;0;---;3,(2-0) BBX;;CHW;Clint Frazier;Martín Pérez;-4%;88%;Double to CF (Fly Ball)
+b7;2-6;0;-2-;3,(2-0) BBX;O;CHW;Elvis Andrus;Martín Pérez;3%;92%;Groundout: SS-1B
+b7;2-6;1;-2-;1,(0-0) X;;CHW;Zach Remillard;Martín Pérez;-4%;88%;Reached on E6 (throw) (Ground Ball to SS-3B Hole); Frazier to 3B; Remillard to 1B
+b7;2-6;1;1-3;2,(0-1) LX;RO;CHW;Seby Zavala;Martín Pérez;3%;90%;Lineout: CF/Sacrifice Fly (Deep CF); Frazier Scores/unER
+b7;3-6;2;1--;8,(3-2) B1BFBF>F>F>X;O;CHW;Andrew Benintendi;Martín Pérez;2%;93%;Lineout: 2B (Deep 2B-1B)
+;;;;;;;;;1 run, 1 hit, 1 error, 1 LOB. Rangers 6, White Sox 3.
+Top of the 8th, Rangers Batting, Ahead 6-3, White Sox' Touki Toussaint facing 7-8-9 
+t8;6-3;0;---;5,(2-2) CBBFS;O;TEX;Ezequiel Duran;Touki Toussaint;-1%;92%;Strikeout Swinging
+t8;6-3;1;---;5,(3-1) SBBBB;;TEX;Travis Jankowski;Touki Toussaint;1%;93%;Walk
+t8;6-3;1;1--;2,(1-0) BX;OO;TEX;Leody Taveras;Touki Toussaint;-2%;91%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 6, White Sox 3.
+Bottom of the 8th, White Sox Batting, Behind 3-6, Rangers' Josh Sborz facing 2-3-4 
+;;;;;;;;;Josh Sborz replaces Martín Pérez pitchingJosh H. Smith replaces Travis Jankowski playing LF batting 8th
+b8;3-6;0;---;6,(3-2) ..CBF.BBS;O;CHW;Andrew Vaughn;Josh Sborz;3%;94%;Strikeout Swinging
+b8;3-6;1;---;5,(2-2) SBSBH;;CHW;Luis Robert Jr.;Josh Sborz;-3%;91%;Hit By Pitch
+b8;3-6;1;1--;2,(1-0) BX;OO;CHW;Eloy Jiménez;Josh Sborz;6%;97%;Ground Ball Double Play: SS-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 6, White Sox 3.
+Top of the 9th, Rangers Batting, Ahead 6-3, White Sox' Touki Toussaint facing 1-2-3 
+t9;6-3;0;---;2,(1-0) BX;O;TEX;Marcus Semien;Touki Toussaint;0%;96%;Groundout: 3B-1B
+t9;6-3;1;---;6,(2-2) BSBSFS;O;TEX;Corey Seager;Touki Toussaint;0%;96%;Strikeout Swinging
+t9;6-3;2;---;4,(2-1) BBCX;O;TEX;Nathaniel Lowe;Touki Toussaint;0%;96%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 6, White Sox 3.
+Bottom of the 9th, White Sox Batting, Behind 3-6, Rangers' Josh Sborz facing 5-6-7 
+b9;3-6;0;---;2,(0-1) CX;O;CHW;Jake Burger;Josh Sborz;2%;98%;Groundout: SS-1B
+;;;;;;;;;Will Smith replaces Josh Sborz pitchingGavin Sheets pinch hits for Clint Frazier (RF) batting 6th
+b9;3-6;1;---;5,(2-2) ..BSCBS;O;CHW;Gavin Sheets;Will Smith;1%;100%;Strikeout Swinging
+b9;3-6;2;---;2,(1-0) BX;O;CHW;Elvis Andrus;Will Smith;0%;100%;Flyball: CF (Short CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 6, White Sox 3.

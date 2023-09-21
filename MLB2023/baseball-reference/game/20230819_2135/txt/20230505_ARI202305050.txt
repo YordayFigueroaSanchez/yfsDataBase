@@ -1,0 +1,246 @@
+
+Scorebox Meta
+20230505
+6:40 p.m. Local
+16384
+Chase Field
+132
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/WSN-2023.png;/teams/WSN/2023.shtml;1;0;0;0;0;0;0;0;0;1;4;1
+https://cdn.ssref.net/req/202308101/tlogo/br/ARI-2023.png;/teams/ARI/2023.shtml;0;0;1;2;0;0;0;0;X;3;7;0
+
+Batting home
+Josh Rojas;/players/r/rojasjo01.shtml;3B;4;0;0;1;0;3;4;.274;.308;.358;.666;17;12;0.037; 1.33;0.099;-0.062; 0.03%; 1.50; 0.3;0;5;
+Ketel Marte;/players/m/marteke01.shtml;2B;2;0;0;1;1;0;4;.262;.322;.505;.827;18;10;0.023; 1.04;0.050;-0.027; 0.02%; 1.18; -0.1;1;0;SF
+Corbin Carroll;/players/c/carroco02.shtml;DH;3;1;1;1;1;0;4;.314;.381;.559;.939;13;4;0.077; 0.65;0.128;-0.051; 0.05%; 0.73; 0.5;;;HR
+Christian Walker;/players/w/walkech02.shtml;1B;4;0;2;0;0;0;4;.272;.312;.518;.830;16;10;-0.004; 0.62;0.041;-0.045;-0.00%; 0.70; -0.0;12;1;2B
+Pavin Smith;/players/s/smithpa04.shtml;RF;4;0;1;0;0;1;4;.260;.373;.440;.813;10;8;-0.015; 0.74;0.040;-0.055;-0.01%; 0.84; -0.5;1;0;
+Dominic Fletcher;/players/f/fletcdo01.shtml;LF;4;1;1;0;0;1;4;.357;.400;.429;.829;8;7;-0.024; 0.93;0.042;-0.066;-0.02%; 1.05; -0.5;0;0;
+Gabriel Moreno;/players/m/morenga01.shtml;C;4;1;2;0;0;1;4;.296;.306;.383;.689;17;13;0.144; 0.92;0.161;-0.017; 0.10%; 1.04; 1.1;11;1;
+Alek Thomas;/players/t/thomaal01.shtml;CF;3;0;0;0;0;2;3;.170;.240;.298;.538;13;9;-0.119; 1.38;0.000;-0.119;-0.08%; 1.56; -1.2;1;0;
+Geraldo Perdomo;/players/p/perdoge01.shtml;SS;2;0;0;0;1;0;3;.397;.468;.618;1.085;10;4;-0.075; 1.26;0.010;-0.085;-0.05%; 1.43; -0.8;1;2;CS
+Merrill Kelly;/players/k/kellyme01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Miguel Castro;/players/c/castrmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andrew Chafin;/players/c/chafian01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Christian Walker (7, off Josiah Gray).
+
+
+HR: Corbin Carroll (5, off Josiah Gray, 3rd inn, 0 on, 2 outs to Deep LF-CF).
+
+
+SF: Ketel Marte (3, off Josiah Gray).
+
+
+TB: Corbin Carroll 4; Christian Walker 3; Gabriel Moreno 2; Pavin Smith; Dominic Fletcher.
+
+
+RBI: Corbin Carroll (10); Josh Rojas (18); Ketel Marte (13).
+
+
+2-out RBI: Corbin Carroll.
+
+
+Team LOB: 7.
+With RISP: 0 for 8.
+
+Batting away
+Alex Call;/players/c/callal02.shtml;LF;4;0;0;0;0;1;4;.221;.320;.337;.656;15;12;-0.090; 0.88;0.000;-0.090;-0.04%; 0.58; -0.8;2;0;
+Luis García;/players/g/garcilu04.shtml;2B;4;1;2;1;0;1;4;.235;.280;.378;.658;13;8;0.079; 0.91;0.134;-0.055; 0.03%; 0.60; 0.9;0;3;HR
+Keibert Ruiz;/players/r/ruizke01.shtml;C;4;0;0;0;0;3;4;.238;.304;.333;.638;23;15;-0.090; 0.90;0.000;-0.090;-0.04%; 0.60; -0.7;8;1;
+Joey Meneses;/players/m/menesjo01.shtml;DH;4;0;0;0;0;3;4;.267;.294;.336;.630;15;12;-0.080; 0.74;0.000;-0.080;-0.03%; 0.49; -0.7;;;
+Jeimer Candelario;/players/c/candeje01.shtml;3B;3;0;1;0;0;1;3;.228;.275;.378;.653;8;6;-0.026; 0.98;0.030;-0.056;-0.01%; 0.66; -0.2;0;3;
+Dominic Smith;/players/s/smithdo02.shtml;1B;2;0;0;0;1;0;3;.255;.328;.300;.628;12;6;-0.063; 0.99;0.023;-0.086;-0.03%; 0.66; -0.4;6;1;GDP
+Lane Thomas;/players/t/thomala02.shtml;RF;3;0;1;0;0;1;3;.270;.328;.378;.706;14;9;-0.011; 0.92;0.033;-0.043;-0.00%; 0.61; 0.0;2;0;
+CJ Abrams;/players/a/abramcj01.shtml;SS;3;0;0;0;0;1;3;.240;.301;.375;.676;7;6;-0.083; 1.43;0.009;-0.092;-0.03%; 0.95; -0.7;1;0;SB
+Victor Robles;/players/r/roblevi01.shtml;CF;3;0;0;0;0;1;3;.292;.382;.360;.742;11;7;-0.092; 1.10;0.000;-0.092;-0.04%; 0.73; -0.9;4;0;
+Josiah Gray;/players/g/grayjo03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Erasmo Ramírez;/players/r/ramirer02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Hobie Harris;/players/h/harriho02.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+HR: Luis García (3, off Merrill Kelly, 1st inn, 0 on, 1 out to Deep LF Line).
+
+
+TB: Luis García 5; Jeimer Candelario; Lane Thomas.
+
+
+GIDP: Dominic Smith (5).
+
+
+RBI: Luis García (15).
+
+
+Team LOB: 3.
+With RISP: 0 for 2.
+
+Pitching home
+Merrill Kelly;/players/k/kellyme01.shtml; W (3-3); 7 ;4;1;1;1;10;1;2.75;25;92;63;32;15;16;9;5;3;0;74;;;0.304; 0.98; 0.21%; 1.11; 2.6
+Miguel Castro;/players/c/castrmi01.shtml; H (6); 1 ;0;0;0;0;0;0;1.98;3;11;7;5;1;1;2;1;0;0;;0;0;0.076; 1.00; 0.05%; 1.13; 0.5
+Andrew Chafin;/players/c/chafian01.shtml; S (5); 1 ;0;0;0;0;2;0;2.13;3;15;11;5;2;4;0;1;0;0;;0;0;0.076; 0.98; 0.05%; 1.11; 0.5
+
+Pitching away
+Josiah Gray;/players/g/grayjo03.shtml; L (2-5); 5 ;7;3;3;2;6;1;3.03;24;92;60;39;8;13;6;10;5;0;45;;;-0.113; 1.23;-0.04%; 0.82; -0.4
+Erasmo Ramírez;/players/r/ramirer02.shtml;Erasmo Ramírez; 2 ;0;0;0;1;1;0;4.70;7;23;12;6;0;6;4;1;0;0;;0;0;0.055; 0.37; 0.02%; 0.24; 1.0
+Hobie Harris;/players/h/harriho02.shtml;Hobie Harris; 1 ;0;0;0;0;1;0;6.75;3;7;6;2;2;2;1;1;0;0;;0;0;0.015; 0.19; 0.01%; 0.13; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Josiah Gray (2).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Josiah Gray (2).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Bill Miller, 1B - Chad Whitson, 2B - Roberto Ortiz, 3B - Rob Drake, LF - (none), RF - (none).
+Time of Game: 2:12.
+Attendance: 16,384.
+Field Condition: Unknown.
+Start Time Weather: 79° F, Wind 3mph in unknown direction, Cloudy, No Precipitation.
+
+div_lineups
+Nationals
+1;Alex Call;/players/c/callal02.shtml;LF
+2;Luis García;/players/g/garcilu04.shtml;2B
+3;Keibert Ruiz;/players/r/ruizke01.shtml;C
+4;Joey Meneses;/players/m/menesjo01.shtml;DH
+5;Jeimer Candelario;/players/c/candeje01.shtml;3B
+6;Dominic Smith;/players/s/smithdo02.shtml;1B
+7;Lane Thomas;/players/t/thomala02.shtml;RF
+8;CJ Abrams;/players/a/abramcj01.shtml;SS
+9;Victor Robles;/players/r/roblevi01.shtml;CF
+; Josiah Gray;/players/g/grayjo03.shtml;P
+Diamondbacks
+1;Josh Rojas;/players/r/rojasjo01.shtml;3B
+2;Ketel Marte;/players/m/marteke01.shtml;2B
+3;Corbin Carroll;/players/c/carroco02.shtml;DH
+4;Christian Walker;/players/w/walkech02.shtml;1B
+5;Pavin Smith;/players/s/smithpa04.shtml;RF
+6;Dominic Fletcher;/players/f/fletcdo01.shtml;LF
+7;Gabriel Moreno;/players/m/morenga01.shtml;C
+8;Alek Thomas;/players/t/thomaal01.shtml;CF
+9;Geraldo Perdomo;/players/p/perdoge01.shtml;SS
+; Merrill Kelly;/players/k/kellyme01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;0-1;2;---;2,(1-0) BX;R;ARI;Corbin Carroll;Josiah Gray;12%;51%;Home Run (Fly Ball to Deep LF-CF)
+b4;1-1;0;1--;4,(0-2) TFFX;;ARI;Gabriel Moreno;Josiah Gray;12%;72%;Single to P (Ground Ball); Fletcher to 3B/Adv on E1 (throw); Moreno to 2B
+b4;1-1;1;123;4,(2-1) BFBX;R;ARI;Josh Rojas;Josiah Gray;10%;77%;Fielder's Choice SS; Fletcher Scores; Moreno to 3B; Perdomo to 2B; Rojas to 1B
+t1;0-0;1;---;3,(2-0) BBX;R;WSN;Luis García;Merrill Kelly;-10%;42%;Home Run (Fly Ball to Deep LF Line)
+t4;1-1;1;1--;2,(0-1) C1X;OO;WSN;Dominic Smith;Merrill Kelly;6%;56%;Ground Ball Double Play: 1B-SS
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Nationals Batting, Tied 0-0, Diamondbacks' Merrill Kelly facing 1-2-3 
+t1;0-0;0;---;3,(0-2) CF*S;O;WSN;Alex Call;Merrill Kelly;2%;52%;Strikeout Swinging
+t1;0-0;1;---;3,(2-0) BBX;R;WSN;Luis García;Merrill Kelly;-10%;42%;Home Run (Fly Ball to Deep LF Line)
+t1;1-0;1;---;6,(2-2) CFFBBC;O;WSN;Keibert Ruiz;Merrill Kelly;1%;44%;Strikeout Looking
+t1;1-0;2;---;4,(0-2) CCFS;O;WSN;Joey Meneses;Merrill Kelly;1%;45%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Nationals 1, Diamondbacks 0.
+Bottom of the 1st, Diamondbacks Batting, Behind 0-1, Nationals' Josiah Gray facing 1-2-3 
+b1;0-1;0;---;5,(1-2) BCFFS;O;ARI;Josh Rojas;Josiah Gray;-2%;42%;Strikeout Swinging
+b1;0-1;1;---;6,(3-2) BBCFBB;;ARI;Ketel Marte;Josiah Gray;3%;45%;Walk
+b1;0-1;1;1--;1,(0-0) B;;ARI;Corbin Carroll;Josiah Gray;2%;47%;Wild Pitch; Marte to 2B
+b1;0-1;1;-2-;2,(1-0) B.X;O;ARI;Corbin Carroll;Josiah Gray;-4%;43%;Lineout: CF (Deep CF-RF)
+b1;0-1;2;-2-;3,(1-1) *BFX;O;ARI;Christian Walker;Josiah Gray;-3%;40%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Nationals 1, Diamondbacks 0.
+Top of the 2nd, Nationals Batting, Ahead 1-0, Diamondbacks' Merrill Kelly facing 5-6-7 
+t2;1-0;0;---;2,(0-1) SX;O;WSN;Jeimer Candelario;Merrill Kelly;2%;42%;Groundout: P-1B (Front of Home)
+t2;1-0;1;---;4,(3-0) BBBB;;WSN;Dominic Smith;Merrill Kelly;-2%;40%;Walk
+t2;1-0;1;1--;5,(2-2) TBBC1X;;WSN;Lane Thomas;Merrill Kelly;-3%;36%;Single to RF (Ground Ball thru 2B-1B); Smith to 2B
+t2;1-0;1;12-;3,(1-1) LBX;O;WSN;CJ Abrams;Merrill Kelly;3%;40%;Groundout: 3B-2B/Forceout at 2B (Weak SS); Smith to 3B; Abrams to 1B
+t2;1-0;2;1-3;3,(0-2) S>F>B;;WSN;Victor Robles;Merrill Kelly;-1%;39%;Abrams Steals 2B
+t2;1-0;2;-23;5,(2-2) S>F>B.*B*S;O;WSN;Victor Robles;Merrill Kelly;5%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Nationals 1, Diamondbacks 0.
+Bottom of the 2nd, Diamondbacks Batting, Behind 0-1, Nationals' Josiah Gray facing 5-6-7 
+b2;0-1;0;---;3,(1-1) BFX;;ARI;Pavin Smith;Josiah Gray;4%;48%;Single to LF (Ground Ball thru SS-3B Hole)
+b2;0-1;0;1--;3,(0-2) FFS;O;ARI;Dominic Fletcher;Josiah Gray;-4%;45%;Strikeout Swinging
+b2;0-1;1;1--;3,(0-2) C11CX;;ARI;Gabriel Moreno;Josiah Gray;4%;49%;Single to CF (Line Drive to CF-RF); Smith to 2B
+b2;0-1;1;12-;7,(2-2) CBCFBFS;O;ARI;Alek Thomas;Josiah Gray;-5%;44%;Strikeout Swinging
+b2;0-1;2;12-;2,(1-0) BX;O;ARI;Geraldo Perdomo;Josiah Gray;-5%;39%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Nationals 1, Diamondbacks 0.
+Top of the 3rd, Nationals Batting, Ahead 1-0, Diamondbacks' Merrill Kelly facing 1-2-3 
+t3;1-0;0;---;4,(1-2) CBS.X;O;WSN;Alex Call;Merrill Kelly;2%;41%;Groundout: 3B-1B
+t3;1-0;1;---;1,(0-0) X;O;WSN;Luis García;Merrill Kelly;2%;43%;Groundout: SS-1B (SS-2B)
+t3;1-0;2;---;8,(3-2) BBBCFFFS;O;WSN;Keibert Ruiz;Merrill Kelly;1%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 1, Diamondbacks 0.
+Bottom of the 3rd, Diamondbacks Batting, Behind 0-1, Nationals' Josiah Gray facing 1-2-3 
+b3;0-1;0;---;3,(0-2) CCS;O;ARI;Josh Rojas;Josiah Gray;-3%;41%;Strikeout Swinging
+b3;0-1;1;---;6,(1-2) SFBFFX;O;ARI;Ketel Marte;Josiah Gray;-2%;39%;Flyball: CF (Deep LF-CF)
+b3;0-1;2;---;2,(1-0) BX;R;ARI;Corbin Carroll;Josiah Gray;12%;51%;Home Run (Fly Ball to Deep LF-CF)
+b3;1-1;2;---;6,(2-2) BFBFFX;;ARI;Christian Walker;Josiah Gray;1%;53%;Single to RF (Line Drive to Short CF-RF)
+b3;1-1;2;1--;1,(0-0) X;O;ARI;Pavin Smith;Josiah Gray;-3%;50%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Nationals 1, Diamondbacks 1.
+Top of the 4th, Nationals Batting, Tied 1-1, Diamondbacks' Merrill Kelly facing 4-5-6 
+t4;1-1;0;---;2,(1-0) BX;O;WSN;Joey Meneses;Merrill Kelly;3%;53%;Foul Popfly: 1B (1B into Foul Terr.)
+t4;1-1;1;---;3,(2-0) BBX;;WSN;Jeimer Candelario;Merrill Kelly;-3%;50%;Single to RF (Line Drive to Short RF)
+t4;1-1;1;1--;2,(0-1) C1X;OO;WSN;Dominic Smith;Merrill Kelly;6%;56%;Ground Ball Double Play: 1B-SS
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Nationals 1, Diamondbacks 1.
+Bottom of the 4th, Diamondbacks Batting, Tied 1-1, Nationals' Josiah Gray facing 6-7-8 
+b4;1-1;0;---;2,(0-1) CX;;ARI;Dominic Fletcher;Josiah Gray;4%;60%;Single to CF (Ground Ball)
+b4;1-1;0;1--;4,(0-2) TFFX;;ARI;Gabriel Moreno;Josiah Gray;12%;72%;Single to P (Ground Ball); Fletcher to 3B/Adv on E1 (throw); Moreno to 2B
+b4;1-1;0;-23;5,(2-2) BBCFS;O;ARI;Alek Thomas;Josiah Gray;-6%;66%;Strikeout Swinging
+b4;1-1;1;-23;5,(3-1) BFBBB;;ARI;Geraldo Perdomo;Josiah Gray;1%;67%;Walk
+b4;1-1;1;123;4,(2-1) BFBX;R;ARI;Josh Rojas;Josiah Gray;10%;77%;Fielder's Choice SS; Fletcher Scores; Moreno to 3B; Perdomo to 2B; Rojas to 1B
+;;;;;;;;;Force Play Challenged by ARI manager (Torey Lovullo): Original call overturned as shown.
+b4;2-1;1;123;4,(2-1) SB.BX;RO;ARI;Ketel Marte;Josiah Gray;1%;78%;Lineout: LF/Sacrifice Fly (Deep LF); Moreno Scores
+b4;3-1;2;12-;3,(2-1) CBBN;O;ARI;Corbin Carroll;Josiah Gray;-3%;75%;Perdomo Caught Stealing 3B (C-3B-SS)
+;;;;;;;;;2 runs, 2 hits, 1 error, 1 LOB. Nationals 1, Diamondbacks 3.
+Top of the 5th, Nationals Batting, Behind 1-3, Diamondbacks' Merrill Kelly facing 7-8-9 
+t5;1-3;0;---;5,(2-2) CBFBX;O;WSN;Lane Thomas;Merrill Kelly;3%;78%;Groundout: 3B-1B (Deep 3B)
+t5;1-3;1;---;3,(0-2) SFC;O;WSN;CJ Abrams;Merrill Kelly;2%;80%;Strikeout Looking
+t5;1-3;2;---;2,(0-1) FX;O;WSN;Victor Robles;Merrill Kelly;1%;81%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 1, Diamondbacks 3.
+Bottom of the 5th, Diamondbacks Batting, Ahead 3-1, Nationals' Josiah Gray facing 3-4-5 
+b5;3-1;0;---;1,(0-0) X;O;ARI;Corbin Carroll;Josiah Gray;-1%;80%;Flyball: RF (Deep RF)
+b5;3-1;1;---;6,(3-2) BB.CBS.X;;ARI;Christian Walker;Josiah Gray;3%;82%;Double to CF (Fly Ball to Deep CF-RF)
+b5;3-1;1;-2-;4,(1-2) FBFC;O;ARI;Pavin Smith;Josiah Gray;-2%;80%;Strikeout Looking
+b5;3-1;2;-2-;2,(1-0) BX;O;ARI;Dominic Fletcher;Josiah Gray;-2%;78%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Nationals 1, Diamondbacks 3.
+Top of the 6th, Nationals Batting, Behind 1-3, Diamondbacks' Merrill Kelly facing 1-2-3 
+t6;1-3;0;---;2,(0-1) CX;O;WSN;Alex Call;Merrill Kelly;3%;81%;Lineout: RF
+t6;1-3;1;---;2,(0-1) CX;;WSN;Luis García;Merrill Kelly;-4%;77%;Single to RF (Line Drive to Deep CF-RF)
+t6;1-3;1;1--;5,(2-2) F1BF*BS;O;WSN;Keibert Ruiz;Merrill Kelly;4%;81%;Strikeout Swinging
+t6;1-3;2;1--;5,(2-2) CS*BB*S;O;WSN;Joey Meneses;Merrill Kelly;3%;85%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Nationals 1, Diamondbacks 3.
+Bottom of the 6th, Diamondbacks Batting, Ahead 3-1, Nationals' Erasmo Ramírez facing 7-8-9 
+;;;;;;;;;Erasmo Ramírez replaces Josiah Gray pitching
+b6;3-1;0;---;6,(3-2) .BBBCFX;O;ARI;Gabriel Moreno;Erasmo Ramírez;-1%;83%;Groundout: 3B-1B (SS-3B Hole)
+b6;3-1;1;---;1,(0-0) X;O;ARI;Alek Thomas;Erasmo Ramírez;-1%;82%;Groundout: 2B-1B (2B-1B)
+b6;3-1;2;---;3,(1-1) BCX;O;ARI;Geraldo Perdomo;Erasmo Ramírez;-1%;81%;Bunt Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 1, Diamondbacks 3.
+Top of the 7th, Nationals Batting, Behind 1-3, Diamondbacks' Merrill Kelly facing 5-6-7 
+t7;1-3;0;---;3,(0-2) CFS;O;WSN;Jeimer Candelario;Merrill Kelly;3%;85%;Strikeout Swinging
+t7;1-3;1;---;6,(2-2) BFBCFX;O;WSN;Dominic Smith;Merrill Kelly;2%;87%;Groundout: 1B unassisted (Deep 1B)
+t7;1-3;2;---;4,(1-2) SSBS;O;WSN;Lane Thomas;Merrill Kelly;1%;89%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 1, Diamondbacks 3.
+Bottom of the 7th, Diamondbacks Batting, Ahead 3-1, Nationals' Erasmo Ramírez facing 1-2-3 
+b7;3-1;0;---;5,(2-2) CCBBC;O;ARI;Josh Rojas;Erasmo Ramírez;-1%;88%;Strikeout Looking
+b7;3-1;1;---;2,(1-0) BX;O;ARI;Ketel Marte;Erasmo Ramírez;-1%;87%;Groundout: 2B-1B (Deep 2B)
+b7;3-1;2;---;5,(3-1) BBCBB;;ARI;Corbin Carroll;Erasmo Ramírez;1%;87%;Walk
+b7;3-1;2;1--;1,(0-0) 1X;O;ARI;Christian Walker;Erasmo Ramírez;-1%;86%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Nationals 1, Diamondbacks 3.
+Top of the 8th, Nationals Batting, Behind 1-3, Diamondbacks' Miguel Castro facing 8-9-1 
+;;;;;;;;;Miguel Castro replaces Merrill Kelly pitching
+t8;1-3;0;---;1,(0-0) .X;O;WSN;CJ Abrams;Miguel Castro;4%;90%;Flyball: CF (Deep CF)
+t8;1-3;1;---;4,(2-1) BS.BX;O;WSN;Victor Robles;Miguel Castro;2%;92%;Groundout: 3B-1B (SS-3B Hole)
+t8;1-3;2;---;6,(2-2) BCBFFX;O;WSN;Alex Call;Miguel Castro;1%;94%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 1, Diamondbacks 3.
+Bottom of the 8th, Diamondbacks Batting, Ahead 3-1, Nationals' Hobie Harris facing 5-6-7 
+;;;;;;;;;Hobie Harris replaces Erasmo Ramírez pitching
+b8;3-1;0;---;2,(0-1) .CX;O;ARI;Pavin Smith;Hobie Harris;-1%;93%;Groundout: 1B-P
+b8;3-1;1;---;1,(0-0) X;O;ARI;Dominic Fletcher;Hobie Harris;0%;93%;Flyball: LF (LF Line)
+b8;3-1;2;---;4,(1-2) BCS*S;O;ARI;Gabriel Moreno;Hobie Harris;0%;92%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 1, Diamondbacks 3.
+Top of the 9th, Nationals Batting, Behind 1-3, Diamondbacks' Andrew Chafin facing 2-3-4 
+;;;;;;;;;Andrew Chafin replaces Miguel Castro pitching
+t9;1-3;0;---;7,(3-2) .BBFC.FBS;O;WSN;Luis García;Andrew Chafin;4%;96%;Strikeout Swinging
+t9;1-3;1;---;4,(1-2) CBC.X;O;WSN;Keibert Ruiz;Andrew Chafin;2%;99%;Popfly: 1B
+t9;1-3;2;---;4,(0-2) CFF*S;O;WSN;Joey Meneses;Andrew Chafin;1%;100%;Strikeout Swinging; Meneses out at 1B/C-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 1, Diamondbacks 3.

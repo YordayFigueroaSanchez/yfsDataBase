@@ -1,0 +1,260 @@
+
+Scorebox Meta
+20230801
+7:05 p.m. Local
+19847
+Nationals Park
+161
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/MIL-2023.png;/teams/MIL/2023.shtml;0;1;0;4;0;0;1;0;0;6;6;0
+https://cdn.ssref.net/req/202308251/tlogo/br/WSN-2023.png;/teams/WSN/2023.shtml;0;3;0;0;0;0;1;0;0;4;7;0
+
+Batting home
+CJ Abrams;/players/a/abramcj01.shtml;SS;4;0;2;2;0;1;4;.260;.312;.421;.732;18;10;0.159; 1.34;0.197;-0.038; 0.00%; 0.02; 1.3;0;1;2B
+Lane Thomas;/players/t/thomala02.shtml;RF;4;0;0;0;0;3;4;.285;.331;.468;.799;20;13;-0.122; 1.17;0.000;-0.122;-0.00%; 0.02; -1.0;3;0;
+Joey Meneses;/players/m/menesjo01.shtml;DH;4;0;0;0;0;0;4;.280;.321;.404;.725;13;7;-0.092; 0.87;0.000;-0.092;-0.00%; 0.01; -0.7;;;
+Dominic Smith;/players/s/smithdo02.shtml;1B;4;1;2;0;0;1;4;.265;.336;.346;.682;13;9;0.023; 0.87;0.074;-0.051;0%; 0.01; 0.4;7;2;SB
+Keibert Ruiz;/players/r/ruizke01.shtml;C;4;0;1;0;0;0;4;.243;.293;.382;.675;15;10;-0.132; 1.32;0.000;-0.132;-0.00%; 0.02; -1.1;6;0;
+Luis García;/players/g/garcilu04.shtml;2B;4;0;0;0;0;1;4;.260;.294;.363;.657;12;9;-0.105; 1.05;0.000;-0.105;-0.00%; 0.02; -0.8;1;3;
+Corey Dickerson;/players/d/dickeco01.shtml;LF;3;2;1;0;1;1;4;.252;.285;.357;.641;19;10;0.069; 0.92;0.104;-0.034; 0.00%; 0.01; 0.8;4;0;3B
+Jake Alu;/players/a/aluja01.shtml;3B;3;1;1;1;0;2;3;.235;.278;.235;.513;12;8;0.051; 1.52;0.121;-0.070;0%; 0.03; 0.5;0;1;SB
+Alex Call;/players/c/callal02.shtml;CF;2;0;0;1;1;1;3;.207;.307;.314;.621;15;9;-0.025; 1.60;0.014;-0.039;0%; 0.02; 0.1;3;0;
+Josiah Gray;/players/g/grayjo03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andrés Machado;/players/m/machaan02.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Amos Willingham;/players/w/william01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Hobie Harris;/players/h/harriho02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joe La Sorsa;/players/l/lasorjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;2;1;
+2B: CJ Abrams (19, off Freddy Peralta).
+
+
+3B: Corey Dickerson (1, off Abner Uribe).
+
+
+TB: CJ Abrams 3; Corey Dickerson 3; Dominic Smith 2; Jake Alu; Keibert Ruiz.
+
+
+RBI: CJ Abrams 2 (43); Jake Alu (1); Alex Call (32).
+
+
+2-out RBI: CJ Abrams 2; Jake Alu.
+
+
+Team LOB: 3.
+With RISP: 3 for 7.
+
+Batting away
+Christian Yelich;/players/y/yelicch01.shtml;LF;5;0;0;0;0;2;5;.286;.370;.475;.845;19;11;-0.072; 0.63;0.000;-0.072;-0.06%; 0.89; -0.9;3;0;
+William Contreras;/players/c/contrwi02.shtml;C;4;0;1;1;0;1;4;.279;.351;.455;.805;16;12;0.038; 0.65;0.082;-0.043; 0.03%; 0.91; 0.5;11;0;2B
+Carlos Santana;/players/s/santaca01.shtml;1B;4;0;0;0;0;0;4;.231;.317;.408;.725;16;10;-0.064; 0.62;0.000;-0.064;-0.05%; 0.87; -0.8;5;3;
+Willy Adames;/players/a/adamewi01.shtml;SS;3;2;1;0;1;0;4;.207;.291;.391;.682;19;9;0.072; 0.62;0.093;-0.021; 0.06%; 0.87; 0.5;0;1;2B
+Sal Frelick;/players/f/frelisa01.shtml;RF;3;0;0;0;1;1;4;.241;.400;.379;.779;25;14;-0.025; 0.93;0.045;-0.070;-0.02%; 1.31; -0.4;2;2;
+Mark Canha;/players/c/canhama01.shtml;DH;3;1;0;0;1;0;4;.242;.342;.377;.719;15;11;-0.089; 1.11;0.007;-0.096;-0.07%; 1.56; -0.8;;;
+Andruw Monasterio;/players/m/monasan01.shtml;3B;3;1;1;1;1;0;4;.293;.374;.388;.762;19;9;0.109; 1.01;0.131;-0.022; 0.09%; 1.42; 0.8;2;1;
+Brice Turang;/players/t/turanbr02.shtml;2B;4;2;2;2;0;0;4;.211;.279;.315;.594;12;8;0.206; 1.47;0.235;-0.029; 0.18%; 2.07; 1.8;1;2;SB
+Joey Wiemer;/players/w/wiemejo01.shtml;CF;4;0;1;2;0;2;4;.210;.288;.387;.675;24;16;0.150; 1.15;0.202;-0.052; 0.13%; 1.61; 0.9;0;0;
+Freddy Peralta;/players/p/peralfr01.shtml;P;;;;;;;;;;;;;;;;;;;;;2;0;
+Abner Uribe;/players/u/uribeab01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Joel Payamps;/players/p/payamjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Devin Williams;/players/w/willide03.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Willy Adames (17, off Josiah Gray); William Contreras (23, off Amos Willingham).
+
+
+TB: William Contreras 2; Willy Adames 2; Brice Turang 2; Joey Wiemer; Andruw Monasterio.
+
+
+RBI: Joey Wiemer 2 (39); Brice Turang 2 (22); William Contreras (45); Andruw Monasterio (10).
+
+
+2-out RBI: Joey Wiemer 2; Brice Turang 2; William Contreras; Andruw Monasterio.
+
+
+Team LOB: 4.
+With RISP: 4 for 8.
+
+Pitching home
+Josiah Gray;/players/g/grayjo03.shtml; L (7-9); 3.2;4;5;5;3;3;0;3.54;18;81;49;28;5;16;3;9;5;0;33;;;-0.408; 1.32;-0.00%; 0.02; -3.2
+Andrés Machado;/players/m/machaan02.shtml;Andrés Machado; 1.1;0;0;0;0;1;0;7.59;4;17;12;7;2;3;1;2;1;0;;1;0;0.057; 0.55; 0.00%; 0.01; 0.7
+Amos Willingham;/players/w/william01.shtml;Amos Willingham; 2 ;2;1;1;0;2;0;9.00;8;36;23;12;4;7;3;3;2;0;;0;0;-0.020; 0.65; 0.00%; 0.01; -0.0
+Hobie Harris;/players/h/harriho02.shtml;Hobie Harris; 1 ;0;0;0;1;0;0;5.12;4;20;9;6;0;3;0;3;2;0;;0;0;0.028; 0.40; 0.00%; 0.01; 0.5
+Joe La Sorsa;/players/l/lasorjo01.shtml;Joe La Sorsa; 1 ;0;0;0;0;0;0;5.40;3;11;7;5;1;1;3;0;0;0;;0;0;0.017; 0.23; 0.00%; 0.00; 0.5
+
+Pitching away
+Freddy Peralta;/players/p/peralfr01.shtml; W (7-8); 6 ;6;3;3;2;7;0;4.46;24;94;57;33;7;17;6;9;3;0;53;;;0.006; 1.13; 0.01%; 1.59; -0.0
+Abner Uribe;/players/u/uribeab01.shtml; H (2); 1 ;1;1;1;0;1;0;2.35;4;22;13;6;3;4;2;1;0;0;;0;0;-0.011; 1.22;-0.01%; 1.72; -0.5
+Joel Payamps;/players/p/payamjo01.shtml; H (21); 1 ;0;0;0;0;1;0;1.97;3;7;6;3;1;2;1;1;0;0;;0;0;0.088; 1.16; 0.07%; 1.63; 0.5
+Devin Williams;/players/w/willide03.shtml; S (27); 1 ;0;0;0;0;1;0;1.52;3;14;9;6;2;1;1;1;0;0;;0;0;0.090; 1.19; 0.08%; 1.67; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Freddy Peralta 2 (6).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Freddy Peralta 2 (6).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Alex Tosi, 1B - Angel Hernandez, 2B - Todd Tichenor, 3B - Tony Randazzo, LF - (none), RF - (none).
+Time of Game: 2:41.
+Attendance: 19,847.
+Field Condition: Unknown.
+Start Time Weather: 79° F, Wind 4mph from Right to Left, Cloudy, No Precipitation.
+
+div_lineups
+Brewers
+1;Christian Yelich;/players/y/yelicch01.shtml;LF
+2;William Contreras;/players/c/contrwi02.shtml;C
+3;Carlos Santana;/players/s/santaca01.shtml;1B
+4;Willy Adames;/players/a/adamewi01.shtml;SS
+5;Sal Frelick;/players/f/frelisa01.shtml;RF
+6;Mark Canha;/players/c/canhama01.shtml;DH
+7;Andruw Monasterio;/players/m/monasan01.shtml;3B
+8;Brice Turang;/players/t/turanbr02.shtml;2B
+9;Joey Wiemer;/players/w/wiemejo01.shtml;CF
+; Freddy Peralta;/players/p/peralfr01.shtml;P
+Nationals
+1;CJ Abrams;/players/a/abramcj01.shtml;SS
+2;Lane Thomas;/players/t/thomala02.shtml;RF
+3;Joey Meneses;/players/m/menesjo01.shtml;DH
+4;Dominic Smith;/players/s/smithdo02.shtml;1B
+5;Keibert Ruiz;/players/r/ruizke01.shtml;C
+6;Luis García;/players/g/garcilu04.shtml;2B
+7;Corey Dickerson;/players/d/dickeco01.shtml;LF
+8;Jake Alu;/players/a/aluja01.shtml;3B
+9;Alex Call;/players/c/callal02.shtml;CF
+; Josiah Gray;/players/g/grayjo03.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t4;3-3;2;-23;10,(3-2) S>B.CBFFFFBX;RR;MIL;Joey Wiemer;Josiah Gray;20%;71%;Single to RF (Line Drive); Monasterio Scores; Turang Scores
+t4;1-3;2;123;5,(2-2) FFBBX;RR;MIL;Brice Turang;Josiah Gray;20%;50%;Single to CF (Line Drive to Short CF); Adames Scores; Canha Scores; Monasterio to 3B
+b2;1-1;2;123;3,(2-0) B*BX;RRO;WSN;CJ Abrams;Freddy Peralta;-14%;28%;Single to RF (Line Drive); Dickerson Scores; Alu Scores; Call to 3B; Abrams out at 2B/RF-1B
+b2;0-1;2;1-3;2,(1-0) BX;R;WSN;Jake Alu;Freddy Peralta;-11%;45%;Single to CF (Ground Ball thru SS-2B); Smith Scores; Dickerson to 3B
+t2;0-0;2;-2-;4,(2-1) *BCBX;R;MIL;Andruw Monasterio;Josiah Gray;10%;58%;Single to LF (Line Drive); Adames Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Brewers Batting, Tied 0-0, Nationals' Josiah Gray facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;MIL;Christian Yelich;Josiah Gray;-2%;48%;Flyball: LF (Deep LF)
+t1;0-0;1;---;4,(1-2) BCCS;O;MIL;William Contreras;Josiah Gray;-2%;46%;Strikeout Swinging
+t1;0-0;2;---;5,(2-2) CFBBX;O;MIL;Carlos Santana;Josiah Gray;-1%;45%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 0, Nationals 0.
+Bottom of the 1st, Nationals Batting, Tied 0-0, Brewers' Freddy Peralta facing 1-2-3 
+b1;0-0;0;---;5,(2-2) CBBFC;O;WSN;CJ Abrams;Freddy Peralta;2%;47%;Strikeout Looking
+b1;0-0;1;---;7,(3-2) BTBTBFS;O;WSN;Lane Thomas;Freddy Peralta;2%;49%;Strikeout Swinging
+b1;0-0;2;---;3,(2-0) BBX;O;WSN;Joey Meneses;Freddy Peralta;1%;50%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 0, Nationals 0.
+Top of the 2nd, Brewers Batting, Tied 0-0, Nationals' Josiah Gray facing 4-5-6 
+t2;0-0;0;---;6,(2-2) CFBBFX;;MIL;Willy Adames;Josiah Gray;6%;56%;Double to LF (Line Drive to Deep LF Line)
+t2;0-0;0;-2-;4,(1-2) BSFX;O;MIL;Sal Frelick;Josiah Gray;-4%;52%;Foul Popfly: 1B (1B into Foul Terr.)
+t2;0-0;1;-2-;2,(0-1) CX;O;MIL;Mark Canha;Josiah Gray;-4%;48%;Lineout: LF
+t2;0-0;2;-2-;4,(2-1) *BCBX;R;MIL;Andruw Monasterio;Josiah Gray;10%;58%;Single to LF (Line Drive); Adames Scores
+t2;1-0;2;1--;2,(0-1) F1X;O;MIL;Brice Turang;Josiah Gray;-2%;56%;Flyball: LF (LF-CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Brewers 1, Nationals 0.
+Bottom of the 2nd, Nationals Batting, Behind 0-1, Brewers' Freddy Peralta facing 4-5-6 
+b2;0-1;0;---;4,(1-2) CC.BX;;WSN;Dominic Smith;Freddy Peralta;-4%;52%;Single to 3B (Ground Ball)
+b2;0-1;0;1--;2,(1-0) BX;O;WSN;Keibert Ruiz;Freddy Peralta;4%;56%;Flyball: LF
+b2;0-1;1;1--;3,(0-2) TSC;O;WSN;Luis García;Freddy Peralta;3%;59%;Strikeout Looking
+b2;0-1;2;1--;5,(2-2) BBFFB;;WSN;Corey Dickerson;Freddy Peralta;-1%;58%;Wild Pitch; Smith to 2B
+b2;0-1;2;-2-;7,(3-2) BBFFB.F>B;;WSN;Corey Dickerson;Freddy Peralta;-2%;56%;Walk, Smith Steals 3B
+b2;0-1;2;1-3;2,(1-0) BX;R;WSN;Jake Alu;Freddy Peralta;-11%;45%;Single to CF (Ground Ball thru SS-2B); Smith Scores; Dickerson to 3B
+b2;1-1;2;1-3;5,(2-2) BCFB>B;;WSN;Alex Call;Freddy Peralta;-1%;44%;Alu Steals 2B
+b2;1-1;2;-23;6,(3-2) BCFB>B.B;;WSN;Alex Call;Freddy Peralta;-1%;42%;Walk
+b2;1-1;2;123;3,(2-0) B*BX;RRO;WSN;CJ Abrams;Freddy Peralta;-14%;28%;Single to RF (Line Drive); Dickerson Scores; Alu Scores; Call to 3B; Abrams out at 2B/RF-1B
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Brewers 1, Nationals 3.
+Top of the 3rd, Brewers Batting, Behind 1-3, Nationals' Josiah Gray facing 9-1-2 
+t3;1-3;0;---;4,(1-2) BCCS;O;MIL;Joey Wiemer;Josiah Gray;-2%;26%;Strikeout Swinging
+t3;1-3;1;---;6,(3-2) CBFBBC;O;MIL;Christian Yelich;Josiah Gray;-2%;24%;Strikeout Looking
+t3;1-3;2;---;6,(2-2) CCBBFX;O;MIL;William Contreras;Josiah Gray;-1%;23%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 1, Nationals 3.
+Bottom of the 3rd, Nationals Batting, Ahead 3-1, Brewers' Freddy Peralta facing 2-3-4 
+b3;3-1;0;---;5,(3-1) BCBBX;O;WSN;Lane Thomas;Freddy Peralta;2%;25%;Flyball: LF (Deep LF)
+b3;3-1;1;---;3,(1-1) CBX;O;WSN;Joey Meneses;Freddy Peralta;1%;26%;Popfly: 2B (2B-1B)
+b3;3-1;2;---;1,(0-0) X;;WSN;Dominic Smith;Freddy Peralta;-1%;25%;Single to CF (Ground Ball)
+b3;3-1;2;1--;1,(0-0) B;;WSN;Keibert Ruiz;Freddy Peralta;-1%;24%;Wild Pitch; Smith to 2B
+b3;3-1;2;-2-;5,(2-2) B.FBSX;O;WSN;Keibert Ruiz;Freddy Peralta;2%;27%;Single to RF (Line Drive); Smith out at Hm/RF-C
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Brewers 1, Nationals 3.
+Top of the 4th, Brewers Batting, Behind 1-3, Nationals' Josiah Gray facing 3-4-5 
+t4;1-3;0;---;2,(1-0) BX;O;MIL;Carlos Santana;Josiah Gray;-3%;24%;Foul Popfly: LF (Short LF into Foul Terr.)
+t4;1-3;1;---;4,(3-0) BBBB;;MIL;Willy Adames;Josiah Gray;3%;27%;Walk
+t4;1-3;1;1--;8,(3-2) BFSBFFB>B;;MIL;Sal Frelick;Josiah Gray;5%;31%;Walk; Adames to 2B
+t4;1-3;1;12-;3,(0-2) CCX;O;MIL;Mark Canha;Josiah Gray;-5%;27%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Adames to 3B; Canha to 1B
+t4;1-3;2;1-3;5,(3-1) CBB*B1B;;MIL;Andruw Monasterio;Josiah Gray;3%;30%;Walk; Canha to 2B
+t4;1-3;2;123;5,(2-2) FFBBX;RR;MIL;Brice Turang;Josiah Gray;20%;50%;Single to CF (Line Drive to Short CF); Adames Scores; Canha Scores; Monasterio to 3B
+t4;3-3;2;1-3;2,(0-1) S>B;;MIL;Joey Wiemer;Josiah Gray;1%;51%;Turang Steals 2B
+t4;3-3;2;-23;10,(3-2) S>B.CBFFFFBX;RR;MIL;Joey Wiemer;Josiah Gray;20%;71%;Single to RF (Line Drive); Monasterio Scores; Turang Scores
+;;;;;;;;;Andrés Machado replaces Josiah Gray pitching
+t4;5-3;2;1--;7,(3-2) .FBBCB>F>C;O;MIL;Christian Yelich;Andrés Machado;-2%;70%;Strikeout Looking
+;;;;;;;;;4 runs, 2 hits, 0 errors, 1 LOB. Brewers 5, Nationals 3.
+Bottom of the 4th, Nationals Batting, Behind 3-5, Brewers' Freddy Peralta facing 6-7-8 
+b4;3-5;0;---;2,(0-1) CX;O;WSN;Luis García;Freddy Peralta;3%;72%;Groundout: 1B-P
+b4;3-5;1;---;1,(0-0) X;O;WSN;Corey Dickerson;Freddy Peralta;2%;74%;Flyball: LF (Deep LF Line)
+b4;3-5;2;---;5,(1-2) BCFFS;O;WSN;Jake Alu;Freddy Peralta;1%;76%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 5, Nationals 3.
+Top of the 5th, Brewers Batting, Ahead 5-3, Nationals' Andrés Machado facing 2-3-4 
+t5;5-3;0;---;5,(1-2) CFFBX;O;MIL;William Contreras;Andrés Machado;-2%;74%;Flyball: RF (RF Line)
+t5;5-3;1;---;1,(0-0) X;O;MIL;Carlos Santana;Andrés Machado;-1%;73%;Groundout: 1B-P
+t5;5-3;2;---;4,(1-2) BSS.X;O;MIL;Willy Adames;Andrés Machado;-1%;72%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 5, Nationals 3.
+Bottom of the 5th, Nationals Batting, Behind 3-5, Brewers' Freddy Peralta facing 9-1-2 
+b5;3-5;0;---;4,(1-2) TBC.T;O;WSN;Alex Call;Freddy Peralta;3%;75%;Strikeout Swinging
+b5;3-5;1;---;4,(1-2) BSFX;;WSN;CJ Abrams;Freddy Peralta;-6%;69%;Double to RF (Line Drive to RF Line)
+b5;3-5;1;-2-;5,(1-2) CFFBS;O;WSN;Lane Thomas;Freddy Peralta;5%;74%;Strikeout Swinging
+b5;3-5;2;-2-;5,(2-2) CBF*BX;O;WSN;Joey Meneses;Freddy Peralta;4%;78%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 5, Nationals 3.
+Top of the 6th, Brewers Batting, Ahead 5-3, Nationals' Amos Willingham facing 5-6-7 
+;;;;;;;;;Amos Willingham replaces Andrés Machado pitching
+t6;5-3;0;---;8,(3-2) .SCBBFFBC;O;MIL;Sal Frelick;Amos Willingham;-2%;77%;Strikeout Looking
+t6;5-3;1;---;3,(0-2) CSX;O;MIL;Mark Canha;Amos Willingham;-1%;76%;Groundout: 2B-1B
+t6;5-3;2;---;7,(3-2) BBCBCFX;O;MIL;Andruw Monasterio;Amos Willingham;-1%;75%;Groundout: P-1B (P's Left)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 5, Nationals 3.
+Bottom of the 6th, Nationals Batting, Behind 3-5, Brewers' Freddy Peralta facing 4-5-6 
+b6;3-5;0;---;6,(3-2) BBBCC.S;O;WSN;Dominic Smith;Freddy Peralta;3%;78%;Strikeout Swinging
+b6;3-5;1;---;5,(2-2) CBBCX;O;WSN;Keibert Ruiz;Freddy Peralta;2%;81%;Popfly: 3B (Weak 3B)
+b6;3-5;2;---;1,(0-0) X;O;WSN;Luis García;Freddy Peralta;1%;82%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 5, Nationals 3.
+Top of the 7th, Brewers Batting, Ahead 5-3, Nationals' Amos Willingham facing 8-9-1 
+t7;5-3;0;---;1,(0-0) X;;MIL;Brice Turang;Amos Willingham;2%;84%;Single to LF (Line Drive to LF-CF)
+t7;5-3;0;1--;6,(3-2) 1C.BB*BCS;O;MIL;Joey Wiemer;Amos Willingham;-2%;82%;Strikeout Swinging
+t7;5-3;1;1--;2,(1-0) BX;O;MIL;Christian Yelich;Amos Willingham;-1%;81%;Groundout: 2B-1B (2B-1B); Turang to 2B
+t7;5-3;2;-2-;1,(0-0) X;R;MIL;William Contreras;Amos Willingham;8%;89%;Double to LF (Line Drive to Deep LF-CF); Turang Scores
+t7;6-3;2;-2-;8,(3-2) BFBS.FFBX;O;MIL;Carlos Santana;Amos Willingham;-1%;88%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Brewers 6, Nationals 3.
+Bottom of the 7th, Nationals Batting, Behind 3-6, Brewers' Abner Uribe facing 7-8-9 
+;;;;;;;;;Abner Uribe replaces Freddy Peralta pitching
+b7;3-6;0;---;6,(3-2) .BFS.BBX;;WSN;Corey Dickerson;Abner Uribe;-9%;79%;Triple to 2B (Fly Ball to Deep RF Line)
+b7;3-6;0;--3;5,(2-2) BCCBS;O;WSN;Jake Alu;Abner Uribe;6%;84%;Strikeout Swinging
+b7;3-6;1;--3;5,(1-2) .SCFBX;RO;WSN;Alex Call;Abner Uribe;1%;85%;Groundout: SS-1B; Dickerson Scores
+b7;4-6;2;---;6,(3-2) BCBBFX;O;WSN;CJ Abrams;Abner Uribe;2%;87%;Groundout: P-2B-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Brewers 6, Nationals 4.
+Top of the 8th, Brewers Batting, Ahead 6-4, Nationals' Hobie Harris facing 4-5-6 
+;;;;;;;;;Hobie Harris replaces Amos Willingham pitching
+t8;6-4;0;---;5,(3-1) .BBBCX;O;MIL;Willy Adames;Hobie Harris;-1%;85%;Flyball: RF
+t8;6-4;1;---;5,(3-1) BBBCX;O;MIL;Sal Frelick;Hobie Harris;-1%;85%;Lineout: RF (Deep RF)
+t8;6-4;2;---;7,(3-2) FBFB.BFB;;MIL;Mark Canha;Hobie Harris;1%;85%;Walk
+t8;6-4;2;1--;3,(1-1) BCX;O;MIL;Andruw Monasterio;Hobie Harris;-1%;84%;Lineout: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Brewers 6, Nationals 4.
+Bottom of the 8th, Nationals Batting, Behind 4-6, Brewers' Joel Payamps facing 2-3-4 
+;;;;;;;;;Joel Payamps replaces Abner Uribe pitching
+b8;4-6;0;---;3,(0-2) .FCS;O;WSN;Lane Thomas;Joel Payamps;4%;88%;Strikeout Swinging
+b8;4-6;1;---;2,(1-0) BX;O;WSN;Joey Meneses;Joel Payamps;3%;91%;Flyball: RF
+b8;4-6;2;---;2,(0-1) CX;O;WSN;Dominic Smith;Joel Payamps;2%;93%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 6, Nationals 4.
+Top of the 9th, Brewers Batting, Ahead 6-4, Nationals' Joe La Sorsa facing 8-9-1 
+;;;;;;;;;Joe La Sorsa replaces Hobie Harris pitching
+t9;6-4;0;---;4,(2-1) .CBBX;O;MIL;Brice Turang;Joe La Sorsa;-1%;92%;Groundout: P unassisted (Weak 2B-1B)
+t9;6-4;1;---;4,(1-2) BFFX;O;MIL;Joey Wiemer;Joe La Sorsa;-1%;91%;Groundout: P-1B (Front of Home)
+t9;6-4;2;---;3,(1-1) BSX;O;MIL;Christian Yelich;Joe La Sorsa;0%;91%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 6, Nationals 4.
+Bottom of the 9th, Nationals Batting, Behind 4-6, Brewers' Devin Williams facing 5-6-7 
+;;;;;;;;;Devin Williams replaces Joel Payamps pitching
+b9;4-6;0;---;3,(0-2) .FFX;O;WSN;Keibert Ruiz;Devin Williams;5%;96%;Groundout: 1B-P
+b9;4-6;1;---;6,(3-2) BBFBFX;O;WSN;Luis García;Devin Williams;3%;99%;Foul Popfly: 3B
+b9;4-6;2;---;5,(2-2) BBCS.S;O;WSN;Corey Dickerson;Devin Williams;1%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 6, Nationals 4.

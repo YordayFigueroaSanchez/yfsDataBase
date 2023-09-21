@@ -1,0 +1,266 @@
+
+Scorebox Meta
+20230527
+1:10 p.m. Local
+24685
+Comerica Park
+156
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;0;0;0;0;0;0;3;0;0;3;4;0
+https://cdn.ssref.net/req/202308101/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;0;2;0;0;0;0;3;2;X;7;11;1
+
+Batting home
+Zach McKinstry;/players/m/mckinza01.shtml;RF;4;1;3;2;0;0;5;.291;.410;.444;.854;15;12;0.275; 1.13;0.296;-0.021; 0.14%; 0.96; 1.5;3;0;HR,2B,SB,SF
+Riley Greene;/players/g/greenri03.shtml;CF;5;1;1;0;0;3;5;.292;.355;.436;.791;22;14;-0.013; 0.92;0.075;-0.087;-0.01%; 0.79; -1.1;1;0;2B
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;4;1;1;1;1;0;5;.238;.311;.368;.679;16;8;0.170; 0.98;0.221;-0.051; 0.09%; 0.83; 0.5;9;1;2B
+Eric Haase;/players/h/haaseer01.shtml;C;4;0;1;1;0;0;4;.248;.307;.333;.640;15;12;-0.011; 0.90;0.060;-0.071;-0.01%; 0.77; -0.2;7;0;SB
+Nick Maton;/players/m/matonni01.shtml;DH;3;0;0;0;0;0;3;.159;.277;.318;.596;7;5;-0.044; 0.58;0.000;-0.044;-0.02%; 0.49; -0.6;;;
+Miguel Cabrera;/players/c/cabremi01.shtml;PH-DH-DH;1;0;0;0;0;0;1;.169;.253;.202;.455;4;2;-0.014; 0.56;0.000;-0.014;-0.01%; 0.48; -0.3;;;
+Akil Baddoo;/players/b/baddoak01.shtml;LF;2;1;1;0;1;0;3;.264;.367;.382;.749;11;6;0.041; 0.55;0.057;-0.015; 0.02%; 0.47; 0.4;2;0;2B
+Matt Vierling;/players/v/vierlma01.shtml;PH-LF;1;0;0;0;0;0;1;.245;.298;.358;.657;4;3;-0.019; 0.71;0.000;-0.019;-0.01%; 0.60; -0.4;1;0;
+Jonathan Schoop;/players/s/schoojo01.shtml;3B;4;2;2;0;0;0;4;.237;.301;.303;.604;9;6;0.017; 0.66;0.037;-0.020; 0.01%; 0.56; 0.5;0;3;2B
+Andy Ibáñez;/players/i/ibanean01.shtml;2B;4;0;1;1;0;0;4;.175;.205;.275;.480;12;9;0.097; 0.83;0.126;-0.030; 0.05%; 0.71; 0.7;1;4;
+Zack Short;/players/s/shortza01.shtml;SS;2;1;1;2;2;0;4;.310;.429;.655;1.084;23;10;0.040; 1.06;0.089;-0.049; 0.02%; 0.90; 2.0;2;4;HR,SB
+Michael Lorenzen;/players/l/lorenmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Jason Foley;/players/f/foleyja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chasen Shreve;/players/s/shrevch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Will Vest;/players/v/vestwi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Akil Baddoo (7, off Jesse Scholtens); Riley Greene (9, off Joe Kelly); Spencer Torkelson (12, off Joe Kelly); Jonathan Schoop (5, off Jimmy Lambert); Zach McKinstry (6, off Jimmy Lambert).
+
+
+HR: Zach McKinstry (4, off Joe Kelly, 7th inn, 0 on, 1 out to Deep RF Line); Zack Short (3, off Jimmy Lambert, 8th inn, 1 on, 1 out to Deep LF).
+
+
+SF: Zach McKinstry (2, off Jesse Scholtens).
+
+
+TB: Zach McKinstry 7; Zack Short 4; Jonathan Schoop 3; Akil Baddoo 2; Spencer Torkelson 2; Riley Greene 2; Eric Haase; Andy Ibáñez.
+
+
+RBI: Zach McKinstry 2 (10); Zack Short 2 (8); Andy Ibáñez (7); Eric Haase (13); Spencer Torkelson (23).
+
+
+Team LOB: 8.
+With RISP: 5 for 16.
+
+Batting away
+Tim Anderson;/players/a/anderti01.shtml;SS;4;0;0;0;0;0;4;.257;.296;.292;.588;8;8;-0.103; 0.98;0.000;-0.103;-0.03%; 0.54; -0.9;0;2;
+Andrew Benintendi;/players/b/beninan01.shtml;LF;3;1;0;0;1;2;4;.271;.332;.354;.686;23;14;0.012; 0.80;0.059;-0.047; 0.00%; 0.43; -0.0;3;0;
+Yoán Moncada;/players/m/moncayo01.shtml;3B;4;1;1;0;0;3;4;.283;.327;.446;.772;17;13;0.064; 0.89;0.095;-0.030; 0.02%; 0.48; 0.2;1;1;
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;4;0;1;0;0;0;4;.237;.315;.409;.724;11;8;-0.131; 1.41;0.009;-0.140;-0.04%; 0.77; -0.8;10;0;
+Yasmani Grandal;/players/g/grandya01.shtml;C;4;0;0;0;0;1;4;.269;.333;.414;.747;22;16;-0.123; 1.25;0.000;-0.123;-0.04%; 0.69; -1.3;2;2;GDP
+Jake Burger;/players/b/burgeja01.shtml;DH;3;1;0;0;0;0;3;.252;.302;.591;.893;10;8;0.031; 1.13;0.054;-0.023; 0.01%; 0.62; 0.1;;;
+Gavin Sheets;/players/s/sheetga01.shtml;RF;3;0;1;3;0;0;3;.250;.320;.455;.775;15;10;0.395; 2.28;0.451;-0.056; 0.13%; 1.25; 2.1;3;0;2B
+Adam Haseley;/players/h/haselad01.shtml;PR-CF;0;0;0;0;0;0;0;.222;.282;.278;.560;;;;;;;;;;2;0;
+Clint Frazier;/players/f/frazicl01.shtml;CF-RF;3;0;0;0;0;1;3;.278;.381;.389;.770;12;7;-0.077; 0.97;0.000;-0.077;-0.03%; 0.53; -0.6;2;0;
+Romy Gonzalez;/players/g/gonzaro01.shtml;2B;3;0;1;0;0;0;3;.196;.207;.304;.510;8;5;-0.030; 0.79;0.017;-0.047;-0.01%; 0.43; -0.2;1;4;
+Jesse Scholtens;/players/s/scholje01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gregory Santos;/players/s/santogr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Joe Kelly;/players/k/kellyjo05.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Aaron Bummer;/players/b/bummeaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jimmy Lambert;/players/l/lambeji01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Gavin Sheets (2, off Jason Foley).
+
+
+TB: Gavin Sheets 2; Romy Gonzalez; Andrew Vaughn; Yoán Moncada.
+
+
+GIDP: Yasmani Grandal (4).
+
+
+RBI: Gavin Sheets 3 (21).
+
+
+2-out RBI: Gavin Sheets 3.
+
+
+Team LOB: 2.
+With RISP: 1 for 5.
+
+Pitching home
+Michael Lorenzen;/players/l/lorenmi01.shtml;Michael Lorenzen; 6.2;2;2;0;1;4;0;3.50;23;95;65;45;7;13;10;8;1;0;69;;;0.338; 1.06; 0.17%; 0.90; 3.1
+Jason Foley;/players/f/foleyja01.shtml; W (2-1); 0.1;1;1;0;0;1;0;1.66;3;14;11;7;0;4;1;1;1;0;;2;2;-0.466; 2.84;-0.24%; 2.42; -2.6
+Chasen Shreve;/players/s/shrevch01.shtml; H (6); 1 ;0;0;0;0;1;0;4.66;3;8;6;2;1;3;1;1;0;0;;0;0;0.074; 0.98; 0.04%; 0.83; 0.5
+Will Vest;/players/v/vestwi01.shtml;Will Vest; 1 ;1;0;0;0;1;0;1.59;3;9;7;3;2;2;2;0;0;0;;0;0;0.014; 0.32; 0.01%; 0.28; 0.5
+
+Pitching away
+Jesse Scholtens;/players/s/scholje01.shtml;Jesse Scholtens; 4.2;4;2;2;2;3;0;2.84;20;68;45;24;6;15;4;11;2;0;49;;;-0.039; 0.96;-0.01%; 0.53; 0.2
+Gregory Santos;/players/s/santogr01.shtml;Gregory Santos; 1.1;0;0;0;2;0;0;2.33;6;25;14;8;2;4;4;0;0;0;;1;0;0.052; 0.69; 0.02%; 0.38; 0.8
+Joe Kelly;/players/k/kellyjo05.shtml; L (1-2); 0.1;4;3;3;0;0;1;4.30;5;23;14;8;2;4;1;4;3;0;;0;0;-0.531; 1.49;-0.17%; 0.81; -3.0
+Aaron Bummer;/players/b/bummeaa01.shtml;Aaron Bummer; 0.2;0;0;0;0;0;0;8.47;2;8;5;3;0;2;2;0;0;0;;1;0;0.024; 0.60; 0.01%; 0.33; 0.5
+Jimmy Lambert;/players/l/lambeji01.shtml;Jimmy Lambert; 1 ;3;2;2;0;0;1;5.91;6;14;9;7;0;2;0;6;4;0;;0;0;-0.045; 0.19;-0.01%; 0.10; -1.5
+
+indiv_events
+
+Balks: None.
+WP: Joe Kelly (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Joe Kelly (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Jim Wolf, 1B - Mike Muchlinski, 2B - Sean Barber, 3B - Alan Porter, LF - (none), RF - (none).
+Time of Game: 2:36.
+Attendance: 24,685.
+Field Condition: Unknown.
+Start Time Weather: 72° F, Wind 6mph in from Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+White Sox
+1;Tim Anderson;/players/a/anderti01.shtml;SS
+2;Andrew Benintendi;/players/b/beninan01.shtml;LF
+3;Yoán Moncada;/players/m/moncayo01.shtml;3B
+4;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+5;Yasmani Grandal;/players/g/grandya01.shtml;C
+6;Jake Burger;/players/b/burgeja01.shtml;DH
+7;Gavin Sheets;/players/s/sheetga01.shtml;RF
+8;Clint Frazier;/players/f/frazicl01.shtml;CF
+9;Romy Gonzalez;/players/g/gonzaro01.shtml;2B
+; Jesse Scholtens;/players/s/scholje01.shtml;P
+Tigers
+1;Zach McKinstry;/players/m/mckinza01.shtml;RF
+2;Riley Greene;/players/g/greenri03.shtml;CF
+3;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+4;Eric Haase;/players/h/haaseer01.shtml;C
+5;Nick Maton;/players/m/matonni01.shtml;DH
+6;Akil Baddoo;/players/b/baddoak01.shtml;LF
+7;Jonathan Schoop;/players/s/schoojo01.shtml;3B
+8;Andy Ibáñez;/players/i/ibanean01.shtml;2B
+9;Zack Short;/players/s/shortza01.shtml;SS
+; Michael Lorenzen;/players/l/lorenmi01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t7;0-2;2;123;6,(2-2) CBFFBX;RRR;CHW;Gavin Sheets;Jason Foley;-45%;32%;Double to CF (Line Drive to Deep CF); Benintendi Scores/unER; Moncada Scores/unER; Burger Scores/unER
+b7;2-3;1;---;2,(0-1) CX;R;DET;Zach McKinstry;Joe Kelly;24%;55%;Home Run (Line Drive to Deep RF Line)
+b7;3-3;1;-2-;5,(3-1) CBB*BX;R;DET;Spencer Torkelson;Joe Kelly;19%;81%;Double to CF (Line Drive to Deep CF); Greene Scores
+b2;0-0;1;12-;2,(0-1) CX;R;DET;Andy Ibáñez;Jesse Scholtens;13%;72%;Single to RF (Line Drive to Short CF-RF); Baddoo Scores; Schoop to 3B
+t7;0-2;0;1--;6,(2-2) FFB*BFX;;CHW;Yoán Moncada;Michael Lorenzen;-9%;67%;Single to CF (Ground Ball); Benintendi to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, White Sox Batting, Tied 0-0, Tigers' Michael Lorenzen facing 1-2-3 
+t1;0-0;0;---;4,(0-2) FCFX;O;CHW;Tim Anderson;Michael Lorenzen;2%;52%;Flyball: RF (Deep RF Line)
+t1;0-0;1;---;6,(2-2) CBBSFX;O;CHW;Andrew Benintendi;Michael Lorenzen;2%;54%;Groundout: 2B-1B (Deep 2B)
+t1;0-0;2;---;3,(0-2) CSC;O;CHW;Yoán Moncada;Michael Lorenzen;1%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Tigers 0.
+Bottom of the 1st, Tigers Batting, Tied 0-0, White Sox' Jesse Scholtens facing 1-2-3 
+b1;0-0;0;---;4,(1-2) BCSX;;DET;Zach McKinstry;Jesse Scholtens;4%;58%;Single to CF (Ground Ball thru SS-2B)
+b1;0-0;0;1--;4,(1-2) BC1C>S;O;DET;Riley Greene;Jesse Scholtens;-2%;57%;Strikeout Swinging, McKinstry Steals 2B
+b1;0-0;1;-2-;1,(0-0) X;O;DET;Spencer Torkelson;Jesse Scholtens;-3%;53%;Flyball: LF (LF Line)
+b1;0-0;2;-2-;1,(0-0) X;O;DET;Eric Haase;Jesse Scholtens;-3%;50%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 0, Tigers 0.
+Top of the 2nd, White Sox Batting, Tied 0-0, Tigers' Michael Lorenzen facing 4-5-6 
+t2;0-0;0;---;2,(0-1) CX;O;CHW;Andrew Vaughn;Michael Lorenzen;2%;52%;Flyball: LF (Deep LF)
+t2;0-0;1;---;3,(0-2) FFX;O;CHW;Yasmani Grandal;Michael Lorenzen;2%;54%;Groundout: 2B-1B (2B-1B)
+t2;0-0;2;---;2,(0-1) CX;O;CHW;Jake Burger;Michael Lorenzen;1%;55%;Flyball: LF (Short LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Tigers 0.
+Bottom of the 2nd, Tigers Batting, Tied 0-0, White Sox' Jesse Scholtens facing 5-6-7 
+b2;0-0;0;---;3,(1-1) CBX;O;DET;Nick Maton;Jesse Scholtens;-2%;53%;Flyball: RF (CF-RF)
+b2;0-0;1;---;3,(1-1) SBX;;DET;Akil Baddoo;Jesse Scholtens;4%;57%;Double to CF (Fly Ball)
+b2;0-0;1;-2-;3,(2-0) BBX;;DET;Jonathan Schoop;Jesse Scholtens;2%;59%;Single to SS (Ground Ball)
+b2;0-0;1;12-;2,(0-1) CX;R;DET;Andy Ibáñez;Jesse Scholtens;13%;72%;Single to RF (Line Drive to Short CF-RF); Baddoo Scores; Schoop to 3B
+b2;1-0;1;1-3;7,(3-2) FB*B1FB>F>B;;DET;Zack Short;Jesse Scholtens;2%;74%;Walk; Ibáñez to 2B
+b2;1-0;1;123;2,(0-1) FX;RO;DET;Zach McKinstry;Jesse Scholtens;0%;75%;Flyball: CF/Sacrifice Fly; Schoop Scores
+b2;2-0;2;12-;6,(2-2) BCCFBS;O;DET;Riley Greene;Jesse Scholtens;-3%;72%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. White Sox 0, Tigers 2.
+Top of the 3rd, White Sox Batting, Behind 0-2, Tigers' Michael Lorenzen facing 7-8-9 
+t3;0-2;0;---;6,(3-2) CBFBBX;O;CHW;Gavin Sheets;Michael Lorenzen;2%;74%;Groundout: 1B-P
+t3;0-2;1;---;5,(3-1) BBFBX;O;CHW;Clint Frazier;Michael Lorenzen;2%;76%;Groundout: 3B-1B (SS-3B Hole)
+t3;0-2;2;---;4,(2-1) FBBX;O;CHW;Romy Gonzalez;Michael Lorenzen;1%;77%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Tigers 2.
+Bottom of the 3rd, Tigers Batting, Ahead 2-0, White Sox' Jesse Scholtens facing 3-4-5 
+b3;2-0;0;---;3,(1-1) CBX;O;DET;Spencer Torkelson;Jesse Scholtens;-2%;75%;Groundout: 3B-1B (Weak 3B)
+b3;2-0;1;---;1,(0-0) X;O;DET;Eric Haase;Jesse Scholtens;-1%;74%;Lineout: LF
+b3;2-0;2;---;3,(1-1) SBX;O;DET;Nick Maton;Jesse Scholtens;-1%;73%;Foul Popfly: 3B (3B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Tigers 2.
+Top of the 4th, White Sox Batting, Behind 0-2, Tigers' Michael Lorenzen facing 1-2-3 
+t4;0-2;0;---;2,(0-1) CX;O;CHW;Tim Anderson;Michael Lorenzen;3%;76%;Groundout: 2B-1B
+t4;0-2;1;---;8,(2-2) FBBT.FFF*S;O;CHW;Andrew Benintendi;Michael Lorenzen;2%;78%;Strikeout Swinging
+t4;0-2;2;---;5,(2-2) FFBBS;O;CHW;Yoán Moncada;Michael Lorenzen;1%;79%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Tigers 2.
+Bottom of the 4th, Tigers Batting, Ahead 2-0, White Sox' Jesse Scholtens facing 6-7-8 
+b4;2-0;0;---;1,(0-0) X;O;DET;Akil Baddoo;Jesse Scholtens;-2%;77%;Flyball: RF (Short CF-RF)
+b4;2-0;1;---;3,(1-1) CBX;O;DET;Jonathan Schoop;Jesse Scholtens;-1%;76%;Flyball: 2B (Short CF-RF)
+b4;2-0;2;---;6,(2-2) BBCCF.X;O;DET;Andy Ibáñez;Jesse Scholtens;-1%;76%;Flyball: RF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Tigers 2.
+Top of the 5th, White Sox Batting, Behind 0-2, Tigers' Michael Lorenzen facing 4-5-6 
+t5;0-2;0;---;6,(3-2) CCBBBX;O;CHW;Andrew Vaughn;Michael Lorenzen;3%;78%;Groundout: SS-1B
+t5;0-2;1;---;4,(2-1) CBBX;O;CHW;Yasmani Grandal;Michael Lorenzen;2%;80%;Flyball: RF (Deep CF-RF)
+t5;0-2;2;---;3,(1-1) FBX;O;CHW;Jake Burger;Michael Lorenzen;1%;82%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Tigers 2.
+Bottom of the 5th, Tigers Batting, Ahead 2-0, White Sox' Jesse Scholtens facing 9-1-2 
+b5;2-0;0;---;8,(3-2) CFBFBFBB;;DET;Zack Short;Jesse Scholtens;2%;84%;Walk
+b5;2-0;0;1--;3,(1-1) BC>X;O;DET;Zach McKinstry;Jesse Scholtens;-2%;82%;Flyball: CF (Deep CF)
+b5;2-0;1;1--;3,(1-1) CB1>C;;DET;Riley Greene;Jesse Scholtens;1%;83%;Short Steals 2B
+;;;;;;;;;Tag play Challenged by CHW manager (Pedro Grifol): Original call upheld upon review.
+b5;2-0;1;-2-;4,(1-2) CB1>C.*S;O;DET;Riley Greene;Jesse Scholtens;-2%;81%;Strikeout Swinging; Greene out at 1B/C-1B
+;;;;;;;;;Gregory Santos replaces Jesse Scholtens pitching
+b5;2-0;2;-2-;6,(3-2) .BB2CS.BB;;DET;Spencer Torkelson;Gregory Santos;0%;81%;Walk
+b5;2-0;2;12-;7,(2-2) CBS.FFBX;O;DET;Eric Haase;Gregory Santos;-3%;78%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. White Sox 0, Tigers 2.
+Top of the 6th, White Sox Batting, Behind 0-2, Tigers' Michael Lorenzen facing 7-8-9 
+t6;0-2;0;---;3,(0-2) CFX;O;CHW;Gavin Sheets;Michael Lorenzen;3%;81%;Flyball: CF (Deep LF-CF)
+t6;0-2;1;---;4,(2-1) BBFX;O;CHW;Clint Frazier;Michael Lorenzen;2%;84%;Flyball: RF (CF-RF)
+t6;0-2;2;---;1,(0-0) X;;CHW;Romy Gonzalez;Michael Lorenzen;-2%;82%;Single to CF (Line Drive)
+t6;0-2;2;1--;1,(0-0) X;O;CHW;Tim Anderson;Michael Lorenzen;3%;85%;Groundout: SS-2B/Forceout at 2B (SS-2B); Anderson to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 0, Tigers 2.
+Bottom of the 6th, Tigers Batting, Ahead 2-0, White Sox' Gregory Santos facing 5-6-7 
+b6;2-0;0;---;1,(0-0) X;O;DET;Nick Maton;Gregory Santos;-1%;84%;Groundout: 2B-1B
+b6;2-0;1;---;7,(3-2) BBBCTF*B;;DET;Akil Baddoo;Gregory Santos;1%;85%;Walk
+b6;2-0;1;1--;2,(0-1) CX;O;DET;Jonathan Schoop;Gregory Santos;-1%;84%;Groundout: C-1B; Baddoo to 2B
+b6;2-0;2;-2-;2,(1-0) BX;O;DET;Andy Ibáñez;Gregory Santos;-2%;82%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 0, Tigers 2.
+Top of the 7th, White Sox Batting, Behind 0-2, Tigers' Michael Lorenzen facing 2-3-4 
+t7;0-2;0;---;5,(3-1) BCBBB;;CHW;Andrew Benintendi;Michael Lorenzen;-6%;76%;Walk
+t7;0-2;0;1--;6,(2-2) FFB*BFX;;CHW;Yoán Moncada;Michael Lorenzen;-9%;67%;Single to CF (Ground Ball); Benintendi to 2B
+t7;0-2;0;12-;2,(0-1) SX;O;CHW;Andrew Vaughn;Michael Lorenzen;9%;75%;Popfly: SS (Short CF)
+t7;0-2;1;12-;10,(2-2) SFB*BFFFFFS;O;CHW;Yasmani Grandal;Michael Lorenzen;7%;83%;Strikeout Swinging
+;;;;;;;;;Jason Foley replaces Michael Lorenzen pitching
+t7;0-2;2;12-;5,(1-2) .FBC.FX;;CHW;Jake Burger;Jason Foley;-5%;77%;Reached on E4 (throw) (Ground Ball to 2B-1B); Benintendi to 3B; Moncada to 2B; Burger to 1B
+t7;0-2;2;123;6,(2-2) CBFFBX;RRR;CHW;Gavin Sheets;Jason Foley;-45%;32%;Double to CF (Line Drive to Deep CF); Benintendi Scores/unER; Moncada Scores/unER; Burger Scores/unER
+;;;;;;;;;Adam Haseley pinch runs for Gavin Sheets (RF) batting 7th
+t7;3-2;2;-2-;3,(0-2) .FCC;O;CHW;Clint Frazier;Jason Foley;4%;36%;Strikeout Looking
+;;;;;;;;;3 runs, 2 hits, 1 error, 1 LOB. White Sox 3, Tigers 2.
+Bottom of the 7th, Tigers Batting, Behind 2-3, White Sox' Joe Kelly facing 9-1-2 
+;;;;;;;;;Joe Kelly replaces Gregory Santos pitchingAdam Haseley moves from PR to CF Clint Frazier moves from CF to RF 
+b7;2-3;0;---;4,(2-1) ...FBBX;O;DET;Zack Short;Joe Kelly;-5%;31%;Groundout: 2B-1B (2B-1B)
+b7;2-3;1;---;2,(0-1) CX;R;DET;Zach McKinstry;Joe Kelly;24%;55%;Home Run (Line Drive to Deep RF Line)
+b7;3-3;1;---;6,(3-2) CBSBBX;;DET;Riley Greene;Joe Kelly;7%;62%;Double to CF (Fly Ball to Deep LF-CF)
+b7;3-3;1;-2-;5,(3-1) CBB*BX;R;DET;Spencer Torkelson;Joe Kelly;19%;81%;Double to CF (Line Drive to Deep CF); Greene Scores
+b7;4-3;1;-2-;2,(0-1) CB;;DET;Eric Haase;Joe Kelly;3%;84%;Wild Pitch; Torkelson to 3B
+b7;4-3;1;--3;6,(1-2) CB.SFFX;R;DET;Eric Haase;Joe Kelly;5%;89%;Single to CF (Line Drive to Short CF); Torkelson Scores
+;;;;;;;;;Aaron Bummer replaces Joe Kelly pitchingMiguel Cabrera pinch hits for Nick Maton (DH) batting 5th
+b7;5-3;1;1--;3,(1-1) ..BC>B;;DET;Miguel Cabrera;Aaron Bummer;1%;90%;Haase Steals 2B
+b7;5-3;1;-2-;4,(2-1) ..BC>B.X;O;DET;Miguel Cabrera;Aaron Bummer;-1%;89%;Groundout: 2B-1B (2B-1B); Haase to 3B
+;;;;;;;;;Matt Vierling pinch hits for Akil Baddoo (LF) batting 6th
+b7;5-3;2;--3;4,(1-2) .BCFX;O;DET;Matt Vierling;Aaron Bummer;-2%;87%;Groundout: 2B-1B
+;;;;;;;;;3 runs, 4 hits, 0 errors, 1 LOB. White Sox 3, Tigers 5.
+Top of the 8th, White Sox Batting, Behind 3-5, Tigers' Chasen Shreve facing 9-1-2 
+;;;;;;;;;Chasen Shreve replaces Jason Foley pitchingMatt Vierling moves from PH to LF 
+t8;3-5;0;---;3,(1-1) ...CBX;O;CHW;Romy Gonzalez;Chasen Shreve;4%;90%;Groundout: 3B-1B
+t8;3-5;1;---;1,(0-0) X;O;CHW;Tim Anderson;Chasen Shreve;2%;93%;Flyball: LF (Deep LF-CF)
+t8;3-5;2;---;4,(1-2) CC.BS;O;CHW;Andrew Benintendi;Chasen Shreve;1%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 3, Tigers 5.
+Bottom of the 8th, Tigers Batting, Ahead 5-3, White Sox' Jimmy Lambert facing 7-8-9 
+;;;;;;;;;Jimmy Lambert replaces Aaron Bummer pitching
+b8;5-3;0;---;1,(0-0) .X;;DET;Jonathan Schoop;Jimmy Lambert;2%;96%;Double to LF (Line Drive to Deep LF Line)
+b8;5-3;0;-2-;2,(0-1) CX;O;DET;Andy Ibáñez;Jimmy Lambert;0%;96%;Lineout: CF (Deep CF); Schoop to 3B
+b8;5-3;1;--3;4,(3-0) B*BBX;RR;DET;Zack Short;Jimmy Lambert;3%;99%;Home Run (Fly Ball to Deep LF); Schoop Scores
+b8;7-3;1;---;4,(1-2) CBFX;;DET;Zach McKinstry;Jimmy Lambert;0%;99%;Double to RF (Line Drive to Short RF Line)
+b8;7-3;1;-2-;2,(1-0) BX;O;DET;Riley Greene;Jimmy Lambert;0%;99%;Flyball: CF (Deep LF-CF)
+b8;7-3;2;-2-;1,(0-0) X;O;DET;Spencer Torkelson;Jimmy Lambert;0%;99%;Lineout: LF (Deep LF)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. White Sox 3, Tigers 7.
+Top of the 9th, White Sox Batting, Behind 3-7, Tigers' Will Vest facing 3-4-5 
+;;;;;;;;;Will Vest replaces Chasen Shreve pitching
+t9;3-7;0;---;3,(0-2) .FCS;O;CHW;Yoán Moncada;Will Vest;1%;99%;Strikeout Swinging
+t9;3-7;1;---;1,(0-0) X;;CHW;Andrew Vaughn;Will Vest;-1%;99%;Single to 3B (Ground Ball)
+t9;3-7;1;1--;5,(2-2) BBCSX;OO;CHW;Yasmani Grandal;Will Vest;1%;100%;Ground Ball Double Play: 3B-SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. White Sox 3, Tigers 7.

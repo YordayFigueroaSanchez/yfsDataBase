@@ -1,0 +1,259 @@
+
+Scorebox Meta
+20230421
+7:05 p.m. Local
+39025
+Yankee Stadium III
+150
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/TOR-2023.png;/teams/TOR/2023.shtml;2;0;0;0;0;2;0;2;0;6;8;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;1;0;0;0;0;0;0;0;1;5;0
+
+Batting home
+Anthony Volpe;/players/v/volpean01.shtml;SS;4;0;1;0;0;1;4;.197;.338;.295;.633;12;8;-0.090; 1.16;0.038;-0.128;-0.06%; 1.32; -0.7;3;1;GDP
+Aaron Judge;/players/j/judgeaa01.shtml;RF;4;0;1;0;0;2;4;.271;.376;.557;.934;18;11;-0.081; 0.97;0.009;-0.090;-0.06%; 1.10; -0.5;2;0;
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;4;0;0;0;0;1;4;.324;.427;.544;.971;18;12;-0.075; 0.78;0.000;-0.075;-0.05%; 0.89; -1.0;6;0;
+Gleyber Torres;/players/t/torregl01.shtml;2B;3;0;0;0;1;0;4;.238;.388;.397;.784;12;7;-0.054; 0.58;0.015;-0.069;-0.04%; 0.65; -1.0;1;2;CS,GDP
+DJ LeMahieu;/players/l/lemahdj01.shtml;DH;3;0;0;0;0;1;3;.237;.328;.458;.786;17;9;-0.083; 1.08;0.000;-0.083;-0.06%; 1.23; -0.7;;;
+Oswald Peraza;/players/p/perazos02.shtml;3B;3;0;0;0;0;0;3;.200;.385;.200;.585;6;3;-0.056; 0.74;0.000;-0.056;-0.04%; 0.85; -0.5;1;2;
+Oswaldo Cabrera;/players/c/cabreos01.shtml;LF;3;1;1;1;0;0;3;.233;.254;.317;.571;15;9;0.078; 0.45;0.102;-0.024; 0.05%; 0.51; 0.8;2;0;HR
+Kyle Higashioka;/players/h/higasky01.shtml;C;3;0;1;0;0;1;3;.185;.214;.407;.622;14;9;-0.029; 0.72;0.014;-0.043;-0.02%; 0.82; -0.3;10;0;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;CF;2;0;1;0;1;1;3;.161;.212;.161;.373;14;7;0.056; 0.68;0.060;-0.005; 0.04%; 0.77; 0.3;2;0;
+Domingo Germán;/players/g/germado01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Albert Abreu;/players/a/abreual01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Greg Weissert;/players/w/weissgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Oswaldo Cabrera (1, off Yusei Kikuchi, 2nd inn, 0 on, 2 outs to Deep RF).
+
+
+TB: Oswaldo Cabrera 4; Kyle Higashioka; Aaron Judge; Anthony Volpe; Isiah Kiner-Falefa.
+
+
+GIDP: Gleyber Torres (3); Anthony Volpe (1).
+
+
+RBI: Oswaldo Cabrera (6).
+
+
+2-out RBI: Oswaldo Cabrera.
+
+
+Team LOB: 3.
+With RISP: 0 for 1.
+
+Batting away
+George Springer;/players/s/springe01.shtml;RF;5;1;1;0;0;1;5;.207;.270;.329;.599;12;8;0.003; 0.65;0.059;-0.056; 0.00%; 0.69; -0.3;1;0;2B
+Bo Bichette;/players/b/bichebo01.shtml;SS;4;1;1;0;1;0;5;.349;.385;.535;.919;14;7;-0.076; 0.65;0.010;-0.087;-0.05%; 0.69; -0.5;0;4;
+Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;DH;4;2;2;2;0;0;5;.346;.429;.513;.941;13;8;0.121; 0.69;0.168;-0.047; 0.08%; 0.74; 1.9;;;HR,HBP
+Matt Chapman;/players/c/chapmma01.shtml;3B;3;0;0;0;2;2;5;.380;.457;.718;1.175;31;17;-0.014; 0.46;0.027;-0.042;-0.01%; 0.49; -0.3;1;4;
+Daulton Varsho;/players/v/varshda01.shtml;LF;4;1;0;0;1;1;5;.221;.325;.324;.649;22;12;-0.046; 0.52;0.009;-0.056;-0.03%; 0.56; -1.5;0;0;
+Brandon Belt;/players/b/beltbr01.shtml;1B;4;1;2;4;0;2;4;.186;.255;.349;.604;16;12;0.227; 0.74;0.268;-0.041; 0.14%; 0.79; 3.3;10;0;HR,2B
+Danny Jansen;/players/j/janseda01.shtml;C;3;0;1;0;1;0;4;.114;.225;.114;.339;15;6;0.006; 0.40;0.028;-0.022; 0.00%; 0.42; 0.2;8;1;
+Cavan Biggio;/players/b/biggica01.shtml;2B;4;0;0;0;0;3;4;.121;.216;.212;.428;16;10;-0.049; 0.50;0.000;-0.049;-0.03%; 0.54; -1.1;5;3;
+Kevin Kiermaier;/players/k/kiermke01.shtml;CF;4;0;1;0;0;1;4;.310;.322;.448;.770;15;10;-0.005; 0.53;0.027;-0.031;-0.00%; 0.57; -0.2;2;0;
+Yusei Kikuchi;/players/k/kikucyu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Erik Swanson;/players/s/swanser01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Richards;/players/r/richatr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yimi García;/players/g/garciyi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: George Springer (1, off Domingo Germán); Brandon Belt (4, off Albert Abreu).
+
+
+HR: Vladimir Guerrero Jr. (4, off Domingo Germán, 1st inn, 1 on, 1 out to Deep LF-CF); Brandon Belt (1, off Domingo Germán, 6th inn, 1 on, 2 outs to Deep CF).
+
+
+HBP: Vladimir Guerrero Jr. (3, by Greg Weissert).
+
+
+TB: Brandon Belt 6; Vladimir Guerrero Jr. 5; George Springer 2; Kevin Kiermaier; Danny Jansen; Bo Bichette.
+
+
+RBI: Brandon Belt 4 (5); Vladimir Guerrero Jr. 2 (11).
+
+
+2-out RBI: Brandon Belt 4.
+
+
+Team LOB: 8.
+With RISP: 2 for 9.
+
+Pitching home
+Domingo Germán;/players/g/germado01.shtml; L (1-2); 6 ;5;4;4;2;6;2;4.50;25;91;57;33;14;10;5;12;3;0;50;;;-0.139; 0.81;-0.10%; 0.92; -1.0
+Albert Abreu;/players/a/abreual01.shtml;Albert Abreu; 2 ;3;2;2;1;4;0;1.80;10;44;24;15;3;6;2;3;2;0;;0;0;-0.028; 0.31;-0.02%; 0.36; -1.0
+Greg Weissert;/players/w/weissgr01.shtml;Greg Weissert; 1 ;0;0;0;2;0;0;0.00;6;19;9;6;1;2;2;1;0;0;;0;0;0.002; 0.03; 0.00%; 0.03; 0.5
+
+Pitching away
+Yusei Kikuchi;/players/k/kikucyu01.shtml; W (3-0); 6 ;4;1;1;2;3;1;3.80;22;90;54;39;5;10;9;8;4;0;61;;;0.256; 0.95; 0.16%; 1.02; 2.0
+Erik Swanson;/players/s/swanser01.shtml; H (7); 1 ;0;0;0;0;1;0;1.93;3;10;6;4;0;2;1;1;0;0;;0;0;0.055; 0.72; 0.03%; 0.77; 0.5
+Trevor Richards;/players/r/richatr01.shtml;Trevor Richards; 1 ;0;0;0;0;2;0;3.24;3;17;12;6;3;3;0;1;0;0;;0;0;0.015; 0.19; 0.01%; 0.20; 0.5
+Yimi García;/players/g/garciyi01.shtml;Yimi García; 1 ;1;0;0;0;1;0;6.00;3;9;6;4;1;1;1;1;1;0;;0;0;0.008; 0.29; 0.01%; 0.31; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Greg Weissert (1; Vladimir Guerrero Jr.).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Greg Weissert (1; Vladimir Guerrero Jr.).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Adrian Johnson, 1B - Manny Gonzalez, 2B - Quinn Wolcott, 3B - Junior Valentine, LF - (none), RF - (none).
+Time of Game: 2:30.
+Attendance: 39,025.
+Field Condition: Unknown.
+Start Time Weather: 60° F, Wind 11mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Blue Jays
+1;George Springer;/players/s/springe01.shtml;RF
+2;Bo Bichette;/players/b/bichebo01.shtml;SS
+3;Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;DH
+4;Matt Chapman;/players/c/chapmma01.shtml;3B
+5;Daulton Varsho;/players/v/varshda01.shtml;LF
+6;Brandon Belt;/players/b/beltbr01.shtml;1B
+7;Danny Jansen;/players/j/janseda01.shtml;C
+8;Cavan Biggio;/players/b/biggica01.shtml;2B
+9;Kevin Kiermaier;/players/k/kiermke01.shtml;CF
+; Yusei Kikuchi;/players/k/kikucyu01.shtml;P
+Yankees
+1;Anthony Volpe;/players/v/volpean01.shtml;SS
+2;Aaron Judge;/players/j/judgeaa01.shtml;RF
+3;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+4;Gleyber Torres;/players/t/torregl01.shtml;2B
+5;DJ LeMahieu;/players/l/lemahdj01.shtml;DH
+6;Oswald Peraza;/players/p/perazos02.shtml;3B
+7;Oswaldo Cabrera;/players/c/cabreos01.shtml;LF
+8;Kyle Higashioka;/players/h/higasky01.shtml;C
+9;Isiah Kiner-Falefa;/players/k/kineris01.shtml;CF
+; Domingo Germán;/players/g/germado01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t6;2-1;2;1--;1,(0-0) X;RR;TOR;Brandon Belt;Domingo Germán;21%;85%;Home Run (Fly Ball to Deep CF); Varsho Scores
+t1;0-0;1;-2-;2,(0-1) SX;RR;TOR;Vladimir Guerrero Jr.;Domingo Germán;15%;67%;Home Run (Fly Ball to Deep LF-CF); Springer Scores
+b2;0-2;2;---;2,(0-1) CX;R;NYY;Oswaldo Cabrera;Yusei Kikuchi;-10%;60%;Home Run (Fly Ball to Deep RF)
+b5;1-2;1;1--;3,(1-1) FBX;OO;NYY;Anthony Volpe;Yusei Kikuchi;8%;66%;Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+t1;0-0;0;---;1,(0-0) X;;TOR;George Springer;Domingo Germán;6%;56%;Double to LF (Line Drive to Deep LF Line)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Blue Jays Batting, Tied 0-0, Yankees' Domingo Germán facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;;TOR;George Springer;Domingo Germán;6%;56%;Double to LF (Line Drive to Deep LF Line)
+t1;0-0;0;-2-;3,(1-1) BFX;O;TOR;Bo Bichette;Domingo Germán;-4%;52%;Popfly: SS (Short LF)
+t1;0-0;1;-2-;2,(0-1) SX;RR;TOR;Vladimir Guerrero Jr.;Domingo Germán;15%;67%;Home Run (Fly Ball to Deep LF-CF); Springer Scores
+t1;2-0;1;---;5,(2-2) BCBC.C;O;TOR;Matt Chapman;Domingo Germán;-1%;66%;Strikeout Looking
+t1;2-0;2;---;5,(3-1) BBBCB;;TOR;Daulton Varsho;Domingo Germán;1%;67%;Walk
+t1;2-0;2;1--;4,(1-2) B1SF1S;O;TOR;Brandon Belt;Domingo Germán;-2%;65%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Blue Jays 2, Yankees 0.
+Bottom of the 1st, Yankees Batting, Behind 0-2, Blue Jays' Yusei Kikuchi facing 1-2-3 
+b1;0-2;0;---;1,(0-0) X;;NYY;Anthony Volpe;Yusei Kikuchi;-4%;61%;Single to CF (Line Drive to Deep CF)
+b1;0-2;0;1--;4,(1-2) BS1>FC;O;NYY;Aaron Judge;Yusei Kikuchi;4%;65%;Strikeout Looking
+b1;0-2;1;1--;1,(0-0) X;O;NYY;Anthony Rizzo;Yusei Kikuchi;3%;68%;Flyball: CF (Deep CF)
+b1;0-2;2;1--;1,(0-0) >X;O;NYY;Gleyber Torres;Yusei Kikuchi;2%;70%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 2, Yankees 0.
+Top of the 2nd, Blue Jays Batting, Ahead 2-0, Yankees' Domingo Germán facing 7-8-9 
+t2;2-0;0;---;4,(1-2) BCSX;;TOR;Danny Jansen;Domingo Germán;3%;73%;Single to CF (Line Drive)
+t2;2-0;0;1--;3,(2-0) BBX;O;TOR;Cavan Biggio;Domingo Germán;-3%;70%;Flyball: CF (Deep CF)
+t2;2-0;1;1--;2,(0-1) S1X;;TOR;Kevin Kiermaier;Domingo Germán;3%;73%;Single to LF (Ground Ball); Jansen to 2B
+t2;2-0;1;12-;3,(2-0) BBX;O;TOR;George Springer;Domingo Germán;-3%;69%;Popfly: SS
+t2;2-0;2;12-;1,(0-0) X;O;TOR;Bo Bichette;Domingo Germán;-3%;66%;Lineout: 3B (SS-3B Hole)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Blue Jays 2, Yankees 0.
+Bottom of the 2nd, Yankees Batting, Behind 0-2, Blue Jays' Yusei Kikuchi facing 5-6-7 
+b2;0-2;0;---;3,(0-2) CFX;O;NYY;DJ LeMahieu;Yusei Kikuchi;2%;69%;Groundout: 2B-1B
+b2;0-2;1;---;2,(1-0) BX;O;NYY;Oswald Peraza;Yusei Kikuchi;2%;70%;Groundout: SS-1B
+b2;0-2;2;---;2,(0-1) CX;R;NYY;Oswaldo Cabrera;Yusei Kikuchi;-10%;60%;Home Run (Fly Ball to Deep RF)
+b2;1-2;2;---;2,(1-0) BX;;NYY;Kyle Higashioka;Yusei Kikuchi;-1%;59%;Single to RF (Line Drive to Deep RF)
+b2;1-2;2;1--;6,(3-2) CT*BB*B>B;;NYY;Isiah Kiner-Falefa;Yusei Kikuchi;-2%;57%;Walk; Higashioka to 2B
+b2;1-2;2;12-;4,(2-1) BBC2X;O;NYY;Anthony Volpe;Yusei Kikuchi;5%;61%;Groundout: 3B unassisted/Forceout at 3B (SS-3B Hole); Volpe to 1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Blue Jays 2, Yankees 1.
+Top of the 3rd, Blue Jays Batting, Ahead 2-1, Yankees' Domingo Germán facing 3-4-5 
+t3;2-1;0;---;3,(0-2) CSX;O;TOR;Vladimir Guerrero Jr.;Domingo Germán;-2%;59%;Groundout: 3B-1B (SS-3B Hole)
+t3;2-1;1;---;9,(3-2) SBBCFBFFX;O;TOR;Matt Chapman;Domingo Germán;-2%;58%;Flyball: RF (Short CF-RF)
+t3;2-1;2;---;7,(2-2) BSFFFBX;O;TOR;Daulton Varsho;Domingo Germán;-1%;57%;Groundout: 1B unassisted (Weak 1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 2, Yankees 1.
+Bottom of the 3rd, Yankees Batting, Behind 1-2, Blue Jays' Yusei Kikuchi facing 2-3-4 
+b3;1-2;0;---;6,(3-2) BCBBFX;O;NYY;Aaron Judge;Yusei Kikuchi;3%;59%;Groundout: 3B-1B (SS-3B Hole)
+b3;1-2;1;---;3,(1-1) FBX;O;NYY;Anthony Rizzo;Yusei Kikuchi;2%;61%;Lineout: CF
+b3;1-2;2;---;4,(3-0) BBBB;;NYY;Gleyber Torres;Yusei Kikuchi;-2%;60%;Walk
+b3;1-2;2;1--;6,(2-2) BCBC>F>B;O;NYY;DJ LeMahieu;Yusei Kikuchi;3%;62%;Torres Caught Stealing 2B (C-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 2, Yankees 1.
+Top of the 4th, Blue Jays Batting, Ahead 2-1, Yankees' Domingo Germán facing 6-7-8 
+t4;2-1;0;---;3,(0-2) FFC;O;TOR;Brandon Belt;Domingo Germán;-2%;60%;Strikeout Looking
+t4;2-1;1;---;5,(3-1) BFBBX;O;TOR;Danny Jansen;Domingo Germán;-2%;59%;Flyball: CF
+t4;2-1;2;---;4,(1-2) FBCS;O;TOR;Cavan Biggio;Domingo Germán;-1%;57%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 2, Yankees 1.
+Bottom of the 4th, Yankees Batting, Behind 1-2, Blue Jays' Yusei Kikuchi facing 5-6-7 
+b4;1-2;0;---;5,(2-2) BSFBX;O;NYY;DJ LeMahieu;Yusei Kikuchi;3%;60%;Groundout: SS-1B
+b4;1-2;1;---;2,(1-0) BX;O;NYY;Oswald Peraza;Yusei Kikuchi;2%;63%;Groundout: 3B-1B (SS-3B Hole)
+b4;1-2;2;---;8,(3-2) BTS.BFFBX;O;NYY;Oswaldo Cabrera;Yusei Kikuchi;1%;64%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 2, Yankees 1.
+Top of the 5th, Blue Jays Batting, Ahead 2-1, Yankees' Domingo Germán facing 9-1-2 
+t5;2-1;0;---;6,(2-2) CBSFBT;O;TOR;Kevin Kiermaier;Domingo Germán;-2%;62%;Strikeout Swinging
+t5;2-1;1;---;4,(1-2) SFBS;O;TOR;George Springer;Domingo Germán;-2%;60%;Strikeout Swinging
+t5;2-1;2;---;1,(0-0) X;O;TOR;Bo Bichette;Domingo Germán;-1%;59%;Popfly: 2B (Short CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 2, Yankees 1.
+Bottom of the 5th, Yankees Batting, Behind 1-2, Blue Jays' Yusei Kikuchi facing 8-9-1 
+b5;1-2;0;---;5,(2-2) BBF.TS;O;NYY;Kyle Higashioka;Yusei Kikuchi;3%;62%;Strikeout Swinging
+b5;1-2;1;---;2,(1-0) BX;;NYY;Isiah Kiner-Falefa;Yusei Kikuchi;-4%;58%;Single to LF (Fly Ball to LF-CF)
+b5;1-2;1;1--;3,(1-1) FBX;OO;NYY;Anthony Volpe;Yusei Kikuchi;8%;66%;Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Blue Jays 2, Yankees 1.
+Top of the 6th, Blue Jays Batting, Ahead 2-1, Yankees' Domingo Germán facing 3-4-5 
+t6;2-1;0;---;4,(2-1) SBBX;O;TOR;Vladimir Guerrero Jr.;Domingo Germán;-2%;64%;Groundout: P-1B (Front of Home)
+t6;2-1;1;---;6,(3-2) SBBFBB;;TOR;Matt Chapman;Domingo Germán;3%;66%;Walk
+t6;2-1;1;1--;3,(2-0) BBX;O;TOR;Daulton Varsho;Domingo Germán;-3%;63%;Groundout: 3B-SS/Forceout at 2B (Weak SS); Varsho to 1B
+t6;2-1;2;1--;1,(0-0) X;RR;TOR;Brandon Belt;Domingo Germán;21%;85%;Home Run (Fly Ball to Deep CF); Varsho Scores
+t6;4-1;2;---;2,(1-0) BX;O;TOR;Danny Jansen;Domingo Germán;-1%;84%;Flyball: LF (Deep LF)
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Blue Jays 4, Yankees 1.
+Bottom of the 6th, Yankees Batting, Behind 1-4, Blue Jays' Yusei Kikuchi facing 2-3-4 
+b6;1-4;0;---;7,(3-2) TBFFBBS;O;NYY;Aaron Judge;Yusei Kikuchi;3%;87%;Strikeout Swinging
+b6;1-4;1;---;8,(2-2) BCT.FFFBX;O;NYY;Anthony Rizzo;Yusei Kikuchi;2%;89%;Lineout: 2B (Deep 2B)
+b6;1-4;2;---;5,(1-2) BF.CFX;O;NYY;Gleyber Torres;Yusei Kikuchi;1%;90%;Popfly: 2B (Deep 2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 4, Yankees 1.
+Top of the 7th, Blue Jays Batting, Ahead 4-1, Yankees' Albert Abreu facing 8-9-1 
+;;;;;;;;;Albert Abreu replaces Domingo Germán pitching
+t7;4-1;0;---;3,(0-2) .CS.C;O;TOR;Cavan Biggio;Albert Abreu;-1%;89%;Strikeout Looking
+t7;4-1;1;---;5,(2-2) BFBTX;O;TOR;Kevin Kiermaier;Albert Abreu;-1%;88%;Groundout: 2B-1B
+t7;4-1;2;---;2,(1-0) BX;O;TOR;George Springer;Albert Abreu;0%;88%;Lineout: RF (CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 4, Yankees 1.
+Bottom of the 7th, Yankees Batting, Behind 1-4, Blue Jays' Erik Swanson facing 5-6-7 
+;;;;;;;;;Erik Swanson replaces Yusei Kikuchi pitching
+b7;1-4;0;---;3,(0-2) .CFC;O;NYY;DJ LeMahieu;Erik Swanson;3%;90%;Strikeout Looking
+b7;1-4;1;---;2,(1-0) BX;O;NYY;Oswald Peraza;Erik Swanson;2%;92%;Foul Popfly: C (Behind Home)
+b7;1-4;2;---;5,(3-1) BFBBX;O;NYY;Oswaldo Cabrera;Erik Swanson;1%;93%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 4, Yankees 1.
+Top of the 8th, Blue Jays Batting, Ahead 4-1, Yankees' Albert Abreu facing 2-3-4 
+t8;4-1;0;---;4,(2-1) FBBX;;TOR;Bo Bichette;Albert Abreu;1%;94%;Single to RF (Line Drive to RF Line)
+t8;4-1;0;1--;3,(2-0) BB1X;;TOR;Vladimir Guerrero Jr.;Albert Abreu;1%;95%;Single to 3B (Ground Ball to Weak 3B); Bichette to 2B
+t8;4-1;0;12-;4,(1-2) FBFC+1;O;TOR;Matt Chapman;Albert Abreu;-1%;94%;Strikeout
+t8;4-1;1;12-;5,(2-2) CB*BFT;O;TOR;Daulton Varsho;Albert Abreu;-1%;93%;Strikeout Swinging
+t8;4-1;2;12-;8,(3-2) SCFBFBB>X;RR;TOR;Brandon Belt;Albert Abreu;5%;98%;Double to RF (Fly Ball to Deep RF); Bichette Scores; Guerrero Scores
+t8;6-1;2;-2-;4,(3-0) BBBB;;TOR;Danny Jansen;Albert Abreu;0%;98%;Walk
+t8;6-1;2;12-;6,(3-2) BBFBC>S;O;TOR;Cavan Biggio;Albert Abreu;0%;98%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Blue Jays 6, Yankees 1.
+Bottom of the 8th, Yankees Batting, Behind 1-6, Blue Jays' Trevor Richards facing 8-9-1 
+;;;;;;;;;Trevor Richards replaces Erik Swanson pitching
+b8;1-6;0;---;7,(2-2) .CBCFFBX;O;NYY;Kyle Higashioka;Trevor Richards;1%;99%;Flyball: RF (Deep RF Line)
+b8;1-6;1;---;6,(2-2) BBFSFC;O;NYY;Isiah Kiner-Falefa;Trevor Richards;0%;99%;Strikeout Looking
+b8;1-6;2;---;4,(1-2) SFBS;O;NYY;Anthony Volpe;Trevor Richards;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 6, Yankees 1.
+Top of the 9th, Blue Jays Batting, Ahead 6-1, Yankees' Greg Weissert facing 9-1-2 
+;;;;;;;;;Greg Weissert replaces Albert Abreu pitching
+t9;6-1;0;---;2,(1-0) .BX;O;TOR;Kevin Kiermaier;Greg Weissert;0%;99%;Groundout: 2B-1B
+t9;6-1;1;---;2,(0-1) CX;O;TOR;George Springer;Greg Weissert;0%;99%;Flyball: LF (Deep LF Line)
+t9;6-1;2;---;5,(3-1) BBCBB;;TOR;Bo Bichette;Greg Weissert;0%;99%;Walk
+t9;6-1;2;1--;1,(0-0) H;;TOR;Vladimir Guerrero Jr.;Greg Weissert;0%;99%;Hit By Pitch; Bichette to 2B
+t9;6-1;2;12-;7,(3-2) BFFBB>F>*B;;TOR;Matt Chapman;Greg Weissert;0%;99%;Walk; Bichette to 3B; Guerrero to 2B
+t9;6-1;2;123;2,(0-1) SX;O;TOR;Daulton Varsho;Greg Weissert;0%;99%;Groundout: SS-1B
+;;;;;;;;;Force Play Challenged by TOR manager (John Schneider): Original call upheld upon review.
+;;;;;;;;;0 runs, 0 hits, 0 errors, 3 LOB. Blue Jays 6, Yankees 1.
+Bottom of the 9th, Yankees Batting, Behind 1-6, Blue Jays' Yimi García facing 2-3-4 
+;;;;;;;;;Yimi García replaces Trevor Richards pitching
+b9;1-6;0;---;1,(0-0) .X;;NYY;Aaron Judge;Yimi García;-1%;98%;Single to LF (Line Drive to Deep LF)
+b9;1-6;0;1--;6,(3-2) BBBCFS;O;NYY;Anthony Rizzo;Yimi García;1%;99%;Strikeout Swinging
+b9;1-6;1;1--;2,(0-1) FX;OO;NYY;Gleyber Torres;Yimi García;1%;100%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Blue Jays 6, Yankees 1.

@@ -1,0 +1,275 @@
+
+Scorebox Meta
+20230405
+1:35 p.m. Local
+24477
+Fenway Park
+152
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/PIT-2023.png;/teams/PIT/2023.shtml;0;0;0;1;0;1;2;0;0;4;9;0
+https://cdn.ssref.net/req/202308101/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;0;0;0;0;0;0;1;0;0;1;5;2
+
+Batting home
+Alex Verdugo;/players/v/verdual01.shtml;RF;3;0;0;0;1;1;4;.346;.393;.538;.931;10;6;-0.019; 0.83;0.041;-0.060;-0.01%; 0.69; -0.3;3;0;
+Rafael Devers;/players/d/deverra01.shtml;3B;4;0;0;0;0;1;4;.296;.321;.481;.803;15;11;-0.121; 0.83;0.000;-0.121;-0.06%; 0.70; -1.0;0;1;
+Justin Turner;/players/t/turneju01.shtml;DH;3;0;1;0;1;0;4;.318;.464;.364;.828;20;13;0.011; 0.84;0.062;-0.051; 0.01%; 0.70; 0.0;;;
+Masataka Yoshida;/players/y/yoshima02.shtml;LF;4;0;0;0;0;1;4;.200;.286;.320;.606;14;9;-0.149; 1.02;0.000;-0.149;-0.07%; 0.85; -1.4;2;0;GDP
+Triston Casas;/players/c/casastr01.shtml;1B;4;1;1;0;0;0;4;.158;.227;.368;.596;11;10;-0.031; 0.48;0.014;-0.045;-0.02%; 0.41; -0.3;7;0;2B
+Christian Arroyo;/players/a/arroych01.shtml;2B;3;0;2;1;0;1;3;.188;.235;.250;.485;9;7;0.058; 0.96;0.093;-0.035; 0.03%; 0.80; 1.2;4;3;SB
+Raimel Tapia;/players/t/tapiara01.shtml;CF;3;0;1;0;0;1;3;.400;.500;.400;.900;19;15;-0.031; 1.12;0.026;-0.057;-0.01%; 0.93; -0.3;2;0;
+Yu Chang;/players/c/changyu01.shtml;SS;2;0;0;0;0;2;2;.000;.000;.000;.000;7;5;-0.056; 1.00;0.000;-0.056;-0.03%; 0.83; -0.5;2;0;
+Reese McGuire;/players/m/mcguire01.shtml;PH-C;1;0;0;0;0;1;1;.300;.300;.500;.800;5;4;-0.060; 2.08;0.000;-0.060;-0.03%; 1.73; -0.5;2;0;
+Connor Wong;/players/w/wongco01.shtml;C;2;0;0;0;0;0;2;.083;.083;.167;.250;7;6;-0.063; 1.20;0.000;-0.063;-0.03%; 1.00; -0.5;5;0;
+Enrique Hernández;/players/h/hernaen02.shtml;SS;1;0;0;0;0;0;1;.167;.286;.500;.786;3;2;-0.030; 1.14;0.000;-0.030;-0.01%; 0.95; -0.3;0;1;
+Corey Kluber;/players/k/klubeco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+John Schreiber;/players/s/schrejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kaleb Ort;/players/o/ortka01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Richard Bleier;/players/b/bleieri01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Zack Kelly;/players/k/kellyza01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Triston Casas (1, off Mitch Keller).
+
+
+TB: Triston Casas 2; Christian Arroyo 2; Raimel Tapia; Justin Turner.
+
+
+GIDP: Masataka Yoshida (1).
+
+
+RBI: Christian Arroyo (3).
+
+
+2-out RBI: Christian Arroyo.
+
+
+Team LOB: 4.
+With RISP: 2 for 5.
+
+Batting away
+Oneil Cruz;/players/c/cruzon01.shtml;SS;4;1;1;0;0;1;4;.261;.333;.435;.768;18;13;0.037; 0.79;0.076;-0.039; 0.02%; 0.76; 0.7;1;1;
+Connor Joe;/players/j/joeco01.shtml;RF;1;0;0;0;0;0;1;.333;.400;.333;.733;5;4;-0.004; 0.16;0.000;-0.004;-0.00%; 0.15; -0.3;0;0;
+Bryan Reynolds;/players/r/reynobr01.shtml;LF;3;1;1;1;1;0;5;.417;.444;1.000;1.444;16;10;0.047; 0.73;0.099;-0.052; 0.03%; 0.71; 0.9;1;0;2B,SB,SF
+Andrew McCutchen;/players/m/mccutan01.shtml;DH;4;0;2;0;0;0;5;.267;.522;.333;.855;25;15;0.064; 0.75;0.105;-0.041; 0.04%; 0.72; 0.8;;;SB,HBP
+Carlos Santana;/players/s/santaca01.shtml;1B;4;1;2;2;1;1;5;.174;.269;.348;.617;25;14;0.140; 1.05;0.225;-0.085; 0.08%; 1.01; 0.5;10;2;HR,2B
+Ke'Bryan Hayes;/players/h/hayeske01.shtml;3B;4;0;1;1;0;1;4;.125;.125;.167;.292;12;9;-0.034; 1.42;0.072;-0.106;-0.02%; 1.36; -0.7;0;3;
+Jack Suwinski;/players/s/suwinja01.shtml;RF-CF;2;0;0;0;2;0;4;.111;.333;.111;.444;19;8;-0.036; 1.29;0.053;-0.089;-0.02%; 1.24; 0.1;1;0;
+Rodolfo Castro;/players/c/castrro01.shtml;2B-SS;4;0;0;0;0;1;4;.083;.083;.083;.167;13;9;-0.116; 0.91;0.000;-0.116;-0.07%; 0.87; -2.0;2;3;GDP
+Ji Hwan Bae;/players/b/baeji01.shtml;CF-2B;4;0;1;0;0;0;4;.222;.263;.444;.708;12;10;-0.091; 1.00;0.008;-0.099;-0.05%; 0.96; -1.0;2;1;
+Jason Delay;/players/d/delayja01.shtml;C;4;1;1;0;0;1;4;.250;.250;.750;1.000;16;10;0.002; 0.56;0.045;-0.043; 0.00%; 0.54; -0.0;8;0;2B
+Mitch Keller;/players/k/kellemi03.shtml;P;;;;;;;;;;;;;;;;;;;;;2;2;
+Rob Zastryzny;/players/z/zastrro01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Duane Underwood Jr.;/players/u/underdu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Bryan Reynolds (2, off John Schreiber); Jason Delay (1, off Kaleb Ort); Carlos Santana (1, off Kaleb Ort).
+
+
+HR: Carlos Santana (1, off Corey Kluber, 4th inn, 0 on, 0 outs to Deep RF Line).
+
+
+SF: Bryan Reynolds (1, off Kaleb Ort).
+
+
+HBP: Andrew McCutchen (1, by Zack Kelly).
+
+
+TB: Carlos Santana 6; Andrew McCutchen 2; Jason Delay 2; Bryan Reynolds 2; Oneil Cruz; Ke'Bryan Hayes; Ji Hwan Bae.
+
+
+GIDP: Rodolfo Castro (1).
+
+
+RBI: Carlos Santana 2 (2); Ke'Bryan Hayes (2); Bryan Reynolds (7).
+
+
+2-out RBI: Carlos Santana.
+
+
+Team LOB: 9.
+With RISP: 3 for 13.
+
+Pitching home
+Corey Kluber;/players/k/klubeco01.shtml; L (0-2); 5 ;3;1;1;1;2;1;6.48;19;67;44;25;10;9;4;12;4;0;58;;;0.153; 1.05; 0.08%; 0.88; 1.8
+John Schreiber;/players/s/schrejo01.shtml;John Schreiber; 1 ;3;1;1;1;2;0;3.00;7;24;14;6;3;5;2;2;1;0;;0;0;-0.075; 1.58;-0.04%; 1.32; -0.5
+Kaleb Ort;/players/o/ortka01.shtml;Kaleb Ort; 1 ;2;2;2;0;1;0;7.20;6;29;20;16;1;3;1;4;2;0;;0;0;-0.115; 0.66;-0.06%; 0.55; -1.4
+Richard Bleier;/players/b/bleieri01.shtml;Richard Bleier; 1 ;1;0;0;1;0;0;6.00;4;19;11;9;1;1;2;1;1;0;;0;0;0.018; 0.34; 0.01%; 0.29; 0.6
+Zack Kelly;/players/k/kellyza01.shtml;Zack Kelly; 1 ;0;0;0;1;0;0;1.93;4;22;13;9;1;3;2;0;0;0;;0;0;0.010; 0.22; 0.01%; 0.18; 0.6
+
+Pitching away
+Mitch Keller;/players/k/kellemi03.shtml; W (1-0); 7 ;4;1;1;2;7;0;3.86;26;107;78;43;9;26;11;6;2;0;70;;;0.385; 0.94; 0.22%; 0.91; 2.9
+Rob Zastryzny;/players/z/zastrro01.shtml; H (2); 1 ;0;0;0;0;1;0;2.70;3;8;7;2;1;4;0;2;0;0;;0;0;0.058; 0.74; 0.03%; 0.71; 0.6
+Duane Underwood Jr.;/players/u/underdu01.shtml; S (1); 1 ;1;0;0;0;0;0;0.00;3;5;3;3;0;0;2;1;0;0;;0;0;0.047; 1.06; 0.03%; 1.02; 0.6
+
+indiv_events
+
+Balks: Mitch Keller (1).
+WP: None.
+HBP: Zack Kelly (1; Andrew McCutchen).
+IBB: None.
+Pickoffs: None.
+
+Balks: Mitch Keller (1).
+WP: None.
+HBP: Zack Kelly (1; Andrew McCutchen).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Scott Barry, 1B - Clint Vondrak, 2B - Adam Beck, 3B - Dan Iassogna, LF - (none), RF - (none).
+Time of Game: 2:32.
+Attendance: 24,477.
+Field Condition: Unknown.
+Start Time Weather: 41° F, Wind 5mph out to Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Pirates
+1;Oneil Cruz;/players/c/cruzon01.shtml;SS
+2;Bryan Reynolds;/players/r/reynobr01.shtml;LF
+3;Andrew McCutchen;/players/m/mccutan01.shtml;DH
+4;Carlos Santana;/players/s/santaca01.shtml;1B
+5;Ke'Bryan Hayes;/players/h/hayeske01.shtml;3B
+6;Jack Suwinski;/players/s/suwinja01.shtml;RF
+7;Rodolfo Castro;/players/c/castrro01.shtml;2B
+8;Ji Hwan Bae;/players/b/baeji01.shtml;CF
+9;Jason Delay;/players/d/delayja01.shtml;C
+; Mitch Keller;/players/k/kellemi03.shtml;P
+Red Sox
+1;Alex Verdugo;/players/v/verdual01.shtml;RF
+2;Rafael Devers;/players/d/deverra01.shtml;3B
+3;Justin Turner;/players/t/turneju01.shtml;DH
+4;Masataka Yoshida;/players/y/yoshima02.shtml;LF
+5;Triston Casas;/players/c/casastr01.shtml;1B
+6;Christian Arroyo;/players/a/arroych01.shtml;2B
+7;Raimel Tapia;/players/t/tapiara01.shtml;CF
+8;Yu Chang;/players/c/changyu01.shtml;SS
+9;Connor Wong;/players/w/wongco01.shtml;C
+; Corey Kluber;/players/k/klubeco01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t4;0-0;0;---;1,(0-0) X;R;PIT;Carlos Santana;Corey Kluber;12%;62%;Home Run (Line Drive to Deep RF Line)
+b9;1-4;0;1--;2,(1-0) BX;OO;BOS;Masataka Yoshida;Duane Underwood Jr.;9%;99%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+b6;0-2;1;1--;6,(1-2) CF*BFF>X;OO;BOS;Rafael Devers;Mitch Keller;8%;81%;Double Play: Popfly: SS (Deep SS-2B); Verdugo out at 1B/SS-1B
+t6;1-0;1;1-3;1,(0-0) X;R;PIT;Ke'Bryan Hayes;John Schreiber;7%;80%;Single to 1B (Bunt); Reynolds Scores; McCutchen to 2B
+t1;0-0;2;123;1,(0-0) X;O;PIT;Jack Suwinski;Corey Kluber;-7%;45%;Popfly: 2B (Weak 2B)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Pirates Batting, Tied 0-0, Red Sox' Corey Kluber facing 1-2-3 
+t1;0-0;0;---;4,(1-2) FSBX;;PIT;Oneil Cruz;Corey Kluber;3%;53%;Single to CF (Line Drive to Deep CF)
+t1;0-0;0;1--;1,(0-0) X;O;PIT;Bryan Reynolds;Corey Kluber;-3%;50%;Lineout: RF (Deep RF)
+t1;0-0;1;1--;3,(1-1) C*BX;;PIT;Andrew McCutchen;Corey Kluber;3%;54%;Single to LF (Ground Ball thru SS-3B Hole); Cruz to 2B
+t1;0-0;1;12-;5,(3-1) B*BBCB;;PIT;Carlos Santana;Corey Kluber;6%;59%;Walk; Cruz to 3B; McCutchen to 2B
+t1;0-0;1;123;5,(2-2) BBCSX;O;PIT;Ke'Bryan Hayes;Corey Kluber;-7%;52%;Popfly: 2B (Deep SS-2B)
+t1;0-0;2;123;1,(0-0) X;O;PIT;Jack Suwinski;Corey Kluber;-7%;45%;Popfly: 2B (Weak 2B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Pirates 0, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Tied 0-0, Pirates' Mitch Keller facing 1-2-3 
+b1;0-0;0;---;2,(0-1) CX;O;BOS;Alex Verdugo;Mitch Keller;2%;47%;Groundout: 2B-1B (SS-2B)
+b1;0-0;1;---;5,(2-2) FBBCS;O;BOS;Rafael Devers;Mitch Keller;2%;49%;Strikeout Swinging
+b1;0-0;2;---;8,(3-2) BBCBCFFB;;BOS;Justin Turner;Mitch Keller;-1%;48%;Walk
+b1;0-0;2;1--;6,(3-2) BF*BCB>S;O;BOS;Masataka Yoshida;Mitch Keller;2%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Pirates 0, Red Sox 0.
+Top of the 2nd, Pirates Batting, Tied 0-0, Red Sox' Corey Kluber facing 7-8-9 
+t2;0-0;0;---;4,(1-2) BSFX;O;PIT;Rodolfo Castro;Corey Kluber;-2%;48%;Flyball: CF (Deep CF)
+t2;0-0;1;---;2,(0-1) FX;O;PIT;Ji Hwan Bae;Corey Kluber;-2%;46%;Lineout: RF (Deep RF)
+t2;0-0;2;---;7,(2-2) CFFBFBC;O;PIT;Jason Delay;Corey Kluber;-1%;45%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 0, Red Sox 0.
+Bottom of the 2nd, Red Sox Batting, Tied 0-0, Pirates' Mitch Keller facing 5-6-7 
+b2;0-0;0;---;2,(0-1) CX;O;BOS;Triston Casas;Mitch Keller;2%;47%;Groundout: P-1B (Short 1B Line)
+b2;0-0;1;---;2,(0-1) CX;;BOS;Christian Arroyo;Mitch Keller;-3%;45%;Single to LF (Line Drive)
+b2;0-0;1;1--;4,(1-2) CSBFN;;BOS;Raimel Tapia;Mitch Keller;-2%;43%;Balk; Arroyo to 2B
+b2;0-0;1;-2-;10,(3-2) CSBFN.BFFFBX;O;BOS;Raimel Tapia;Mitch Keller;3%;46%;Groundout: P-1B (P's Left); Arroyo to 3B
+b2;0-0;2;--3;3,(1-2) ABCS;O;BOS;Yu Chang;Mitch Keller;4%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 0, Red Sox 0.
+Top of the 3rd, Pirates Batting, Tied 0-0, Red Sox' Corey Kluber facing 1-2-3 
+t3;0-0;0;---;5,(1-2) CSBFX;O;PIT;Oneil Cruz;Corey Kluber;-3%;47%;Groundout: 2B-1B (Weak 2B-1B)
+t3;0-0;1;---;4,(1-2) SBSX;O;PIT;Bryan Reynolds;Corey Kluber;-2%;46%;Groundout: 2B-1B (Weak 2B)
+t3;0-0;2;---;5,(3-1) CBBBX;O;PIT;Andrew McCutchen;Corey Kluber;-1%;44%;Flyball: RF (RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 0, Red Sox 0.
+Bottom of the 3rd, Red Sox Batting, Tied 0-0, Pirates' Mitch Keller facing 9-1-2 
+b3;0-0;0;---;4,(1-2) CCBX;O;BOS;Connor Wong;Mitch Keller;3%;47%;Groundout: 3B-1B
+b3;0-0;1;---;1,(0-0) X;O;BOS;Alex Verdugo;Mitch Keller;2%;49%;Groundout: 1B-P (2B-1B)
+b3;0-0;2;---;2,(1-0) BX;O;BOS;Rafael Devers;Mitch Keller;1%;50%;Lineout: 2B (Deep 2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 0, Red Sox 0.
+Top of the 4th, Pirates Batting, Tied 0-0, Red Sox' Corey Kluber facing 4-5-6 
+t4;0-0;0;---;1,(0-0) X;R;PIT;Carlos Santana;Corey Kluber;12%;62%;Home Run (Line Drive to Deep RF Line)
+t4;1-0;0;---;2,(0-1) CX;O;PIT;Ke'Bryan Hayes;Corey Kluber;-2%;59%;Foul Popfly: 1B
+t4;1-0;1;---;6,(3-2) CSBBBX;O;PIT;Jack Suwinski;Corey Kluber;-2%;58%;Flyball: CF (Deep CF)
+t4;1-0;2;---;1,(0-0) X;O;PIT;Rodolfo Castro;Corey Kluber;-1%;56%;Groundout: 1B unassisted (2B-1B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Pirates 1, Red Sox 0.
+Bottom of the 4th, Red Sox Batting, Behind 0-1, Pirates' Mitch Keller facing 3-4-5 
+b4;0-1;0;---;2,(0-1) CX;O;BOS;Justin Turner;Mitch Keller;3%;60%;Flyball: RF (Short RF)
+b4;0-1;1;---;4,(1-2) CBFX;O;BOS;Masataka Yoshida;Mitch Keller;2%;62%;Groundout: 2B-1B
+b4;0-1;2;---;3,(0-2) FFX;O;BOS;Triston Casas;Mitch Keller;1%;63%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 1, Red Sox 0.
+Top of the 5th, Pirates Batting, Ahead 1-0, Red Sox' Corey Kluber facing 8-9-1 
+t5;1-0;0;---;1,(0-0) X;O;PIT;Ji Hwan Bae;Corey Kluber;-3%;61%;Flyball: LF (Short LF)
+t5;1-0;1;---;3,(1-1) BFX;O;PIT;Jason Delay;Corey Kluber;-2%;59%;Popfly: SS (Deep SS-2B)
+t5;1-0;2;---;7,(3-2) BBSBSFS;O;PIT;Oneil Cruz;Corey Kluber;-1%;58%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 1, Red Sox 0.
+Bottom of the 5th, Red Sox Batting, Behind 0-1, Pirates' Mitch Keller facing 6-7-8 
+b5;0-1;0;---;5,(1-2) CCFBC;O;BOS;Christian Arroyo;Mitch Keller;4%;61%;Strikeout Looking
+b5;0-1;1;---;3,(0-2) SS*S;O;BOS;Raimel Tapia;Mitch Keller;3%;64%;Strikeout Swinging
+b5;0-1;2;---;4,(1-2) CSBT;O;BOS;Yu Chang;Mitch Keller;2%;65%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 1, Red Sox 0.
+Top of the 6th, Pirates Batting, Ahead 1-0, Red Sox' John Schreiber facing 2-3-4 
+;;;;;;;;;John Schreiber replaces Corey Kluber pitching
+t6;1-0;0;---;3,(1-1) .BFX;;PIT;Bryan Reynolds;John Schreiber;7%;72%;Double to LF (Fly Ball to Deep LF)
+t6;1-0;0;-2-;4,(2-1) BCBX;;PIT;Andrew McCutchen;John Schreiber;7%;79%;Single to 3B (Ground Ball to Weak 3B); Reynolds to 3B
+t6;1-0;0;1-3;4,(1-2) CSBS;O;PIT;Carlos Santana;John Schreiber;-6%;73%;Strikeout Swinging
+t6;1-0;1;1-3;1,(0-0) X;R;PIT;Ke'Bryan Hayes;John Schreiber;7%;80%;Single to 1B (Bunt); Reynolds Scores; McCutchen to 2B
+t6;2-0;1;12-;5,(3-1) BCBB2B;;PIT;Jack Suwinski;John Schreiber;4%;84%;Walk; McCutchen to 3B; Hayes to 2B
+t6;2-0;1;123;5,(2-2) BCCBS;O;PIT;Rodolfo Castro;John Schreiber;-6%;78%;Strikeout Swinging
+t6;2-0;2;123;2,(0-1) FX;O;PIT;Ji Hwan Bae;John Schreiber;-6%;73%;Lineout: SS (Deep SS)
+;;;;;;;;;1 run, 3 hits, 0 errors, 3 LOB. Pirates 2, Red Sox 0.
+Bottom of the 6th, Red Sox Batting, Behind 0-2, Pirates' Mitch Keller facing 9-1-2 
+b6;0-2;0;---;3,(0-2) CFX;O;BOS;Connor Wong;Mitch Keller;4%;76%;Groundout: 3B-1B (Weak 3B)
+b6;0-2;1;---;4,(3-0) BBBB;;BOS;Alex Verdugo;Mitch Keller;-4%;72%;Walk
+b6;0-2;1;1--;6,(1-2) CF*BFF>X;OO;BOS;Rafael Devers;Mitch Keller;8%;81%;Double Play: Popfly: SS (Deep SS-2B); Verdugo out at 1B/SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 2, Red Sox 0.
+Top of the 7th, Pirates Batting, Ahead 2-0, Red Sox' Kaleb Ort facing 9-1-2 
+;;;;;;;;;Kaleb Ort replaces John Schreiber pitching
+t7;2-0;0;---;4,(2-1) .BBFX;;PIT;Jason Delay;Kaleb Ort;4%;85%;Double to CF (Line Drive to Deep CF)
+t7;2-0;0;-2-;2,(0-1) CX;;PIT;Oneil Cruz;Kaleb Ort;4%;89%;Fielder's Choice 1B; Delay to 3B; Cruz to 1B
+t7;2-0;0;1-3;1,(0-0) X;RO;PIT;Bryan Reynolds;Kaleb Ort;2%;91%;Flyball: LF/Sacrifice Fly (LF-CF); Delay Scores; Cruz to 3B/Adv on E7 (throw)
+t7;3-0;1;--3;10,(3-2) BBFF*BFFFFX;O;PIT;Andrew McCutchen;Kaleb Ort;-3%;88%;Popfly: 2B (2B-1B)
+t7;3-0;2;--3;8,(3-2) BBSFFFBX;R;PIT;Carlos Santana;Kaleb Ort;5%;93%;Double to RF (Line Drive to Deep RF Line); Cruz Scores
+t7;4-0;2;-2-;4,(1-2) CBFC;O;PIT;Ke'Bryan Hayes;Kaleb Ort;-1%;92%;Strikeout Looking
+;;;;;;;;;2 runs, 2 hits, 1 error, 1 LOB. Pirates 4, Red Sox 0.
+Bottom of the 7th, Red Sox Batting, Behind 0-4, Pirates' Mitch Keller facing 3-4-5 
+;;;;;;;;;Ji Hwan Bae moves from CF to 2B Rodolfo Castro moves from 2B to SS Jack Suwinski moves from RF to CF Connor Joe replaces Oneil Cruz (SS) playing RF batting 1st
+b7;0-4;0;---;8,(2-2) ....CBCBFFFX;O;BOS;Justin Turner;Mitch Keller;2%;94%;Popfly: 2B (2B-1B)
+b7;0-4;1;---;2,(0-1) CX;O;BOS;Masataka Yoshida;Mitch Keller;1%;95%;Groundout: 1B-P
+b7;0-4;2;---;5,(1-2) BCFFX;;BOS;Triston Casas;Mitch Keller;-1%;94%;Double to LF (Fly Ball to Deep LF Line)
+b7;0-4;2;-2-;2,(1-0) BX;R;BOS;Christian Arroyo;Mitch Keller;-4%;90%;Single to 2B (Ground Ball to SS-2B); Casas Scores
+b7;1-4;2;1--;4,(0-2) C*SF>B;;BOS;Raimel Tapia;Mitch Keller;-1%;89%;Arroyo Steals 2B
+b7;1-4;2;-2-;6,(1-2) C*SF>B.FX;;BOS;Raimel Tapia;Mitch Keller;-3%;86%;Single to SS (Ground Ball to Weak SS-2B); Arroyo to 3B
+;;;;;;;;;Reese McGuire pinch hits for Yu Chang (SS) batting 8th
+b7;1-4;2;1-3;5,(1-2) .CBFFC;O;BOS;Reese McGuire;Mitch Keller;6%;92%;Strikeout Looking
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Pirates 4, Red Sox 1.
+Top of the 8th, Pirates Batting, Ahead 4-1, Red Sox' Richard Bleier facing 6-7-8 
+;;;;;;;;;Richard Bleier replaces Kaleb Ort pitchingReese McGuire moves from PH to C Enrique Hernández replaces Connor Wong (C) playing SS batting 9th
+t8;4-1;0;---;7,(3-2) ...CBBFBFB;;PIT;Jack Suwinski;Richard Bleier;1%;93%;Walk
+t8;4-1;0;1--;3,(1-1) LBX;OO;PIT;Rodolfo Castro;Richard Bleier;-2%;91%;Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+t8;4-1;2;---;7,(2-2) MBFBFFX;;PIT;Ji Hwan Bae;Richard Bleier;1%;92%;Single to P (Line Drive to P's Left); Bae to 2B/Adv on E1 (throw)
+t8;4-1;2;-2-;2,(1-0) BX;O;PIT;Jason Delay;Richard Bleier;-1%;90%;Groundout: P-1B (P's Left)
+;;;;;;;;;0 runs, 1 hit, 1 error, 1 LOB. Pirates 4, Red Sox 1.
+Bottom of the 8th, Red Sox Batting, Behind 1-4, Pirates' Rob Zastryzny facing 9-1-2 
+;;;;;;;;;Rob Zastryzny replaces Mitch Keller pitching
+b8;1-4;0;---;3,(1-1) .CBX;O;BOS;Enrique Hernández;Rob Zastryzny;3%;93%;Popfly: 1B (2B-1B)
+b8;1-4;1;---;3,(0-2) CCS;O;BOS;Alex Verdugo;Rob Zastryzny;2%;95%;Strikeout Swinging
+b8;1-4;2;---;2,(0-1) CX;O;BOS;Rafael Devers;Rob Zastryzny;1%;96%;Popfly: 2B (Short CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 4, Red Sox 1.
+Top of the 9th, Pirates Batting, Ahead 4-1, Red Sox' Zack Kelly facing 1-2-3 
+;;;;;;;;;Zack Kelly replaces Richard Bleier pitching
+t9;4-1;0;---;5,(1-2) .FFBFX;O;PIT;Connor Joe;Zack Kelly;0%;96%;Groundout: SS-1B (SS-2B)
+t9;4-1;1;---;7,(3-2) BSFFBBB;;PIT;Bryan Reynolds;Zack Kelly;0%;96%;Walk
+t9;4-1;1;1--;3,(0-2) CCH;;PIT;Andrew McCutchen;Zack Kelly;1%;97%;Hit By Pitch; Reynolds to 2B
+;;;;;;;;;Hit by Pitch Challenged by BOS manager (Alex Cora): Original call upheld upon review.Hit by Pitch Challenged by BOS manager (Alex Cora): Original call upheld upon review.
+t9;4-1;1;12-;5,(2-2) BB2CF>B;;PIT;Carlos Santana;Zack Kelly;1%;98%;Reynolds Steals 3B; McCutchen Steals 2B
+t9;4-1;1;-23;7,(3-2) BB2CF>B.FX;OO;PIT;Carlos Santana;Zack Kelly;-2%;95%;Double Play: Fielder's Choice ; Reynolds out at Hm/P-C; McCutchen out at 3B/C; Santana to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Pirates 4, Red Sox 1.
+Bottom of the 9th, Red Sox Batting, Behind 1-4, Pirates' Duane Underwood Jr. facing 3-4-5 
+;;;;;;;;;Duane Underwood Jr. replaces Rob Zastryzny pitching
+b9;1-4;0;---;2,(1-0) .BX;;BOS;Justin Turner;Duane Underwood Jr.;-5%;90%;Single to LF (Ground Ball thru SS-2B)
+b9;1-4;0;1--;2,(1-0) BX;OO;BOS;Masataka Yoshida;Duane Underwood Jr.;9%;99%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+b9;1-4;2;---;1,(0-0) X;O;BOS;Triston Casas;Duane Underwood Jr.;1%;100%;Flyball: LF (Short LF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Pirates 4, Red Sox 1.

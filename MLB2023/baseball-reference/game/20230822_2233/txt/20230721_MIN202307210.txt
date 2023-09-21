@@ -1,0 +1,259 @@
+
+Scorebox Meta
+20230721
+7:10 p.m. Local
+31339
+Target Field
+140
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;1;0;0;0;1;2;0;0;0;4;8;2
+https://cdn.ssref.net/req/202308101/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;5;0;0;2;0;0;2;0;X;9;9;0
+
+Batting home
+Carlos Correa;/players/c/correca01.shtml;SS;5;1;0;0;0;0;5;.227;.301;.404;.705;11;10;-0.048; 0.34;0.006;-0.055;-0.03%; 0.36; -1.7;2;2;GDP
+Edouard Julien;/players/j/julieed01.shtml;2B;2;2;1;0;2;0;4;.318;.399;.565;.964;19;9;0.044; 0.32;0.049;-0.004; 0.03%; 0.34; 0.8;2;0;
+Kyle Farmer;/players/f/farmeky01.shtml;3B;0;0;0;0;0;0;0;.247;.312;.399;.711;;;;;;;;;;0;0;
+Alex Kirilloff;/players/k/kirilal01.shtml;1B;4;1;2;4;0;1;4;.284;.372;.468;.840;9;7;0.194; 0.56;0.206;-0.013; 0.12%; 0.59; 2.9;3;0;HR,2B
+Max Kepler;/players/k/keplema01.shtml;RF;4;1;1;0;0;0;4;.223;.290;.433;.723;8;6;0.005; 0.29;0.021;-0.016; 0.00%; 0.31; -0.8;2;0;GDP
+Matt Wallner;/players/w/wallnma01.shtml;LF;3;1;1;0;1;1;4;.303;.452;.424;.877;15;9;0.019; 0.37;0.031;-0.012; 0.01%; 0.39; 0.4;3;0;
+Byron Buxton;/players/b/buxtoby01.shtml;DH;4;2;2;4;0;1;4;.197;.284;.426;.710;14;9;0.204; 0.54;0.211;-0.007; 0.13%; 0.57; 2.8;;;2·HR
+Donovan Solano;/players/s/solando01.shtml;3B-2B;3;0;0;0;0;2;4;.272;.376;.406;.782;13;8;-0.014; 0.15;0.001;-0.015;-0.01%; 0.16; -0.1;0;2;HBP
+Ryan Jeffers;/players/j/jeffery01.shtml;C;4;1;1;1;0;1;4;.260;.368;.432;.800;14;10;0.012; 0.14;0.023;-0.011; 0.01%; 0.14; 0.2;12;0;HR
+Michael A. Taylor;/players/t/taylomi02.shtml;CF;3;0;1;0;1;1;4;.220;.270;.411;.681;18;11;0.007; 0.15;0.013;-0.006; 0.01%; 0.15; 0.4;3;0;
+Joe Ryan;/players/r/ryanjo04.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Emilio Pagán;/players/p/paganem01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jovani Moran;/players/m/moranjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Alex Kirilloff (11, off Lance Lynn).
+
+
+HR: Alex Kirilloff (8, off Lance Lynn, 1st inn, 1 on, 1 out to Deep CF-RF); Byron Buxton 2 (17, 2 off Lance Lynn, 1st inn, 2 on, 1 out to Deep LF-CF; 4th inn, 0 on, 0 outs to Deep LF Line); Ryan Jeffers (5, off Lance Lynn, 4th inn, 0 on, 1 out to Deep LF-CF).
+
+
+HBP: Donovan Solano (7, by Bryan Shaw).
+
+
+TB: Byron Buxton 8; Alex Kirilloff 6; Ryan Jeffers 4; Michael A. Taylor; Matt Wallner; Edouard Julien; Max Kepler.
+
+
+GIDP: Max Kepler (6); Carlos Correa (19).
+
+
+RBI: Alex Kirilloff 4 (31); Byron Buxton 4 (40); Ryan Jeffers (14).
+
+
+2-out RBI: Alex Kirilloff 2.
+
+
+Team LOB: 4.
+With RISP: 3 for 6.
+
+Batting away
+Andrew Benintendi;/players/b/beninan01.shtml;LF;5;1;2;1;0;0;5;.289;.352;.382;.734;8;7;0.091; 0.56;0.124;-0.034; 0.01%; 0.10; 0.5;2;1;HR
+Tim Anderson;/players/a/anderti01.shtml;SS;3;0;1;1;1;1;4;.236;.277;.276;.553;22;12;0.028; 0.71;0.064;-0.036; 0.00%; 0.13; 0.8;1;3;
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;4;0;0;0;0;2;4;.272;.326;.565;.891;12;10;-0.095; 0.97;0.000;-0.095;-0.01%; 0.17; -1.1;3;0;
+Eloy Jiménez;/players/j/jimenel02.shtml;DH;4;1;2;0;0;0;4;.276;.318;.468;.786;17;12;-0.005; 0.72;0.048;-0.053;-0.00%; 0.13; 0.3;;;2B
+Jake Burger;/players/b/burgeja01.shtml;3B;4;0;0;0;0;4;4;.217;.275;.517;.792;23;14;-0.068; 0.67;0.000;-0.068;-0.01%; 0.12; -1.2;1;2;
+Yasmani Grandal;/players/g/grandya01.shtml;C-1B;3;1;1;2;1;1;4;.251;.319;.392;.711;17;7;0.060; 0.46;0.075;-0.015; 0.01%; 0.09; 1.5;6;0;HR
+Gavin Sheets;/players/s/sheetga01.shtml;1B;3;0;0;0;0;0;3;.218;.292;.363;.654;9;6;-0.054; 0.69;0.000;-0.054;-0.01%; 0.13; -0.7;5;0;
+Carlos Pérez;/players/p/perezca03.shtml;PH-C;1;0;0;0;0;1;1;.167;.231;.250;.481;5;3;-0.002; 0.06;0.000;-0.002;0%; 0.01; -0.1;1;0;
+Zach Remillard;/players/r/remilza01.shtml;RF;4;0;0;0;0;3;4;.299;.365;.364;.728;19;12;-0.039; 0.38;0.000;-0.039;-0.00%; 0.07; -0.8;1;0;
+Elvis Andrus;/players/a/andruel01.shtml;2B;4;1;2;0;0;0;4;.214;.291;.286;.578;9;5;0.006; 0.41;0.032;-0.026; 0.00%; 0.07; 0.3;4;2;2B
+Lance Lynn;/players/l/lynnla01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Shaw;/players/s/shawbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Eloy Jiménez (12, off Joe Ryan); Elvis Andrus (8, off Joe Ryan).
+
+
+HR: Andrew Benintendi (2, off Joe Ryan, 1st inn, 0 on, 0 outs to Deep CF-RF); Yasmani Grandal (8, off Joe Ryan, 6th inn, 1 on, 1 out to Deep RF).
+
+
+TB: Andrew Benintendi 5; Yasmani Grandal 4; Elvis Andrus 3; Eloy Jiménez 3; Tim Anderson.
+
+
+RBI: Yasmani Grandal 2 (28); Andrew Benintendi (29); Tim Anderson (16).
+
+
+2-out RBI: Tim Anderson.
+
+
+Team LOB: 6.
+With RISP: 1 for 6.
+
+Pitching home
+Joe Ryan;/players/r/ryanjo04.shtml; W (9-6); 6 ;7;4;4;1;10;2;3.88;26;104;64;36;15;13;4;11;2;0;51;;;0.011; 0.57; 0.01%; 0.60; -0.9
+Emilio Pagán;/players/p/paganem01.shtml; H (2); 1 ;1;0;0;1;0;0;3.40;5;15;10;8;1;1;2;2;1;0;;0;0;0.048; 1.35; 0.03%; 1.43; 0.5
+Jovani Moran;/players/m/moranjo01.shtml;Jovani Moran; 2 ;0;0;0;0;2;0;4.31;6;22;14;5;5;4;2;2;0;0;;0;0;0.019; 0.12; 0.01%; 0.13; 1.0
+
+Pitching away
+Lance Lynn;/players/l/lynnla01.shtml; L (6-9); 6.2;8;9;6;3;6;4;6.18;30;100;65;36;13;16;6;15;5;0;31;;;-0.426; 0.38;-0.05%; 0.07; -5.7
+Bryan Shaw;/players/s/shawbr01.shtml;Bryan Shaw; 1.1;1;0;0;1;1;0;9.39;7;21;14;9;2;3;0;4;2;0;;1;0;0.004; 0.04; 0.00%; 0.01; 0.8
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Bryan Shaw (2; Donovan Solano).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Bryan Shaw (2; Donovan Solano).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - D.J. Reyburn, 1B - Clint Vondrak, 2B - John Libka, 3B - James Hoye, LF - (none), RF - (none).
+Time of Game: 2:20.
+Attendance: 31,339.
+Field Condition: Unknown.
+Start Time Weather: 82° F, Wind 7mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+White Sox
+1;Andrew Benintendi;/players/b/beninan01.shtml;LF
+2;Tim Anderson;/players/a/anderti01.shtml;SS
+3;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+4;Eloy Jiménez;/players/j/jimenel02.shtml;DH
+5;Jake Burger;/players/b/burgeja01.shtml;3B
+6;Yasmani Grandal;/players/g/grandya01.shtml;C
+7;Gavin Sheets;/players/s/sheetga01.shtml;1B
+8;Zach Remillard;/players/r/remilza01.shtml;RF
+9;Elvis Andrus;/players/a/andruel01.shtml;2B
+; Lance Lynn;/players/l/lynnla01.shtml;P
+Twins
+1;Carlos Correa;/players/c/correca01.shtml;SS
+2;Edouard Julien;/players/j/julieed01.shtml;2B
+3;Alex Kirilloff;/players/k/kirilal01.shtml;1B
+4;Max Kepler;/players/k/keplema01.shtml;RF
+5;Matt Wallner;/players/w/wallnma01.shtml;LF
+6;Byron Buxton;/players/b/buxtoby01.shtml;DH
+7;Donovan Solano;/players/s/solando01.shtml;3B
+8;Ryan Jeffers;/players/j/jeffery01.shtml;C
+9;Michael A. Taylor;/players/t/taylomi02.shtml;CF
+; Joe Ryan;/players/r/ryanjo04.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;2-1;1;12-;1,(0-0) X;RRR;MIN;Byron Buxton;Lance Lynn;18%;85%;Home Run (Line Drive to Deep LF-CF); Kepler Scores; Wallner Scores
+b1;0-1;1;-2-;2,(1-0) BX;RR;MIN;Alex Kirilloff;Lance Lynn;16%;63%;Home Run (Fly Ball to Deep CF-RF); Julien Scores/unER
+t1;0-0;0;---;1,(0-0) X;R;CHW;Andrew Benintendi;Joe Ryan;-10%;40%;Home Run (Fly Ball to Deep CF-RF)
+t6;2-7;1;1--;3,(1-1) BCX;RR;CHW;Yasmani Grandal;Joe Ryan;-6%;89%;Home Run (Fly Ball to Deep RF); Jiménez Scores
+t7;4-7;1;12-;1,(0-0) X;O;CHW;Luis Robert Jr.;Emilio Pagán;5%;90%;Flyball: RF (Deep CF-RF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, White Sox Batting, Tied 0-0, Twins' Joe Ryan facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;R;CHW;Andrew Benintendi;Joe Ryan;-10%;40%;Home Run (Fly Ball to Deep CF-RF)
+t1;1-0;0;---;5,(2-2) FBBFS;O;CHW;Tim Anderson;Joe Ryan;2%;42%;Strikeout Swinging
+t1;1-0;1;---;6,(1-2) BSTFFS;O;CHW;Luis Robert Jr.;Joe Ryan;1%;44%;Strikeout Swinging
+t1;1-0;2;---;5,(1-2) CS.BFX;O;CHW;Eloy Jiménez;Joe Ryan;1%;45%;Popfly: 2B (2B-1B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. White Sox 1, Twins 0.
+Bottom of the 1st, Twins Batting, Behind 0-1, White Sox' Lance Lynn facing 1-2-3 
+b1;0-1;0;---;1,(0-0) X;O;MIN;Carlos Correa;Lance Lynn;-2%;42%;Flyball: CF (Deep LF-CF)
+b1;0-1;1;---;1,(0-0) X;;MIN;Edouard Julien;Lance Lynn;4%;47%;Single to LF (Line Drive to Deep LF); Julien to 2B/Safe on E4 (catch)
+b1;0-1;1;-2-;2,(1-0) BX;RR;MIN;Alex Kirilloff;Lance Lynn;16%;63%;Home Run (Fly Ball to Deep CF-RF); Julien Scores/unER
+b1;2-1;1;---;2,(0-1) FX;;MIN;Max Kepler;Lance Lynn;2%;65%;Single to 2B (Ground Ball)
+b1;2-1;1;1--;5,(3-1) BBBC1B;;MIN;Matt Wallner;Lance Lynn;3%;68%;Walk; Kepler to 2B
+b1;2-1;1;12-;1,(0-0) X;RRR;MIN;Byron Buxton;Lance Lynn;18%;85%;Home Run (Line Drive to Deep LF-CF); Kepler Scores; Wallner Scores
+b1;5-1;1;---;4,(1-2) CFBC;O;MIN;Donovan Solano;Lance Lynn;-1%;85%;Strikeout Looking
+b1;5-1;2;---;5,(2-2) BBC.SX;O;MIN;Ryan Jeffers;Lance Lynn;0%;84%;Foul Popfly: 3B
+;;;;;;;;;5 runs, 4 hits, 1 error, 0 LOB. White Sox 1, Twins 5.
+Top of the 2nd, White Sox Batting, Behind 1-5, Twins' Joe Ryan facing 5-6-7 
+t2;1-5;0;---;6,(2-2) BFS.BFS;O;CHW;Jake Burger;Joe Ryan;2%;86%;Strikeout Swinging
+t2;1-5;1;---;5,(2-2) BBCFS;O;CHW;Yasmani Grandal;Joe Ryan;1%;87%;Strikeout Swinging
+t2;1-5;2;---;3,(1-1) BCX;O;CHW;Gavin Sheets;Joe Ryan;1%;88%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 1, Twins 5.
+Bottom of the 2nd, Twins Batting, Ahead 5-1, White Sox' Lance Lynn facing 9-1-2 
+b2;5-1;0;---;2,(1-0) BX;;MIN;Michael A. Taylor;Lance Lynn;1%;89%;Single to RF (Line Drive)
+b2;5-1;0;1--;2,(0-1) CX;OO;MIN;Carlos Correa;Lance Lynn;-3%;86%;Ground Ball Double Play: 3B-2B-1B
+b2;5-1;2;---;4,(2-1) BBFX;O;MIN;Edouard Julien;Lance Lynn;0%;86%;Flyball: LF (Deep LF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. White Sox 1, Twins 5.
+Top of the 3rd, White Sox Batting, Behind 1-5, Twins' Joe Ryan facing 8-9-1 
+t3;1-5;0;---;4,(1-2) SBCS;O;CHW;Zach Remillard;Joe Ryan;2%;88%;Strikeout Swinging
+t3;1-5;1;---;1,(0-0) X;;CHW;Elvis Andrus;Joe Ryan;-2%;86%;Single to LF (Ground Ball thru SS-3B Hole)
+t3;1-5;1;1--;1,(0-0) X;O;CHW;Andrew Benintendi;Joe Ryan;2%;88%;Flyball: CF (Deep LF-CF)
+t3;1-5;2;1--;4,(1-2) CFBX;O;CHW;Tim Anderson;Joe Ryan;2%;89%;Groundout: 3B-1B (Weak SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 1, Twins 5.
+Bottom of the 3rd, Twins Batting, Ahead 5-1, White Sox' Lance Lynn facing 3-4-5 
+b3;5-1;0;---;3,(0-2) CF*S;O;MIN;Alex Kirilloff;Lance Lynn;-1%;89%;Strikeout Swinging
+b3;5-1;1;---;2,(1-0) BX;O;MIN;Max Kepler;Lance Lynn;-1%;88%;Lineout: CF
+b3;5-1;2;---;5,(2-2) SC.BBX;O;MIN;Matt Wallner;Lance Lynn;0%;88%;Popfly: 2B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 1, Twins 5.
+Top of the 4th, White Sox Batting, Behind 1-5, Twins' Joe Ryan facing 3-4-5 
+t4;1-5;0;---;1,(0-0) X;O;CHW;Luis Robert Jr.;Joe Ryan;2%;89%;Flyball: LF (Deep LF-CF)
+t4;1-5;1;---;5,(2-2) BFFBX;;CHW;Eloy Jiménez;Joe Ryan;-3%;87%;Double to LF (Fly Ball to Deep LF)
+t4;1-5;1;-2-;6,(3-2) BCBBS.S;O;CHW;Jake Burger;Joe Ryan;3%;89%;Strikeout Swinging
+t4;1-5;2;-2-;4,(3-0) B*BBB;;CHW;Yasmani Grandal;Joe Ryan;-1%;88%;Walk
+t4;1-5;2;12-;5,(2-2) CBFBX;O;CHW;Gavin Sheets;Joe Ryan;3%;91%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. White Sox 1, Twins 5.
+Bottom of the 4th, Twins Batting, Ahead 5-1, White Sox' Lance Lynn facing 6-7-8 
+b4;5-1;0;---;5,(2-2) FF.BBX;R;MIN;Byron Buxton;Lance Lynn;3%;95%;Home Run (Fly Ball to Deep LF Line)
+b4;6-1;0;---;5,(2-2) CSBBS;O;MIN;Donovan Solano;Lance Lynn;0%;94%;Strikeout Swinging
+b4;6-1;1;---;3,(1-1) BSX;R;MIN;Ryan Jeffers;Lance Lynn;2%;97%;Home Run (Fly Ball to Deep LF-CF)
+b4;7-1;1;---;3,(0-2) FSX;O;MIN;Michael A. Taylor;Lance Lynn;0%;96%;Groundout: SS-1B (Weak SS)
+b4;7-1;2;---;3,(1-1) BFX;O;MIN;Carlos Correa;Lance Lynn;0%;96%;Lineout: CF (Deep CF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. White Sox 1, Twins 7.
+Top of the 5th, White Sox Batting, Behind 1-7, Twins' Joe Ryan facing 8-9-1 
+t5;1-7;0;---;6,(3-2) CSBBBC;O;CHW;Zach Remillard;Joe Ryan;1%;97%;Strikeout Looking
+t5;1-7;1;---;5,(3-1) BBFBX;;CHW;Elvis Andrus;Joe Ryan;-1%;96%;Double to LF (Line Drive to Deep LF-CF)
+t5;1-7;1;-2-;1,(0-0) X;O;CHW;Andrew Benintendi;Joe Ryan;1%;97%;Flyball: CF (Deep LF-CF)
+t5;1-7;2;-2-;6,(3-2) BBBCFX;R;CHW;Tim Anderson;Joe Ryan;-2%;95%;Single to RF (Ground Ball thru 2B-1B); Andrus Scores
+t5;2-7;2;1--;4,(1-2) S*BFS;O;CHW;Luis Robert Jr.;Joe Ryan;1%;96%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. White Sox 2, Twins 7.
+Bottom of the 5th, Twins Batting, Ahead 7-2, White Sox' Lance Lynn facing 2-3-4 
+b5;7-2;0;---;7,(3-2) CFBBB.FB;;MIN;Edouard Julien;Lance Lynn;1%;97%;Walk
+b5;7-2;0;1--;3,(1-1) F1BX;O;MIN;Alex Kirilloff;Lance Lynn;0%;96%;Groundout: SS-2B/Forceout at 2B; Kirilloff to 1B
+b5;7-2;1;1--;2,(0-1) SX;OO;MIN;Max Kepler;Lance Lynn;-1%;95%;Ground Ball Double Play: 3B-SS-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Twins 7.
+Top of the 6th, White Sox Batting, Behind 2-7, Twins' Joe Ryan facing 4-5-6 
+t6;2-7;0;---;5,(2-2) BFC.BX;;CHW;Eloy Jiménez;Joe Ryan;-2%;93%;Single to CF (Ground Ball thru SS-2B)
+t6;2-7;0;1--;6,(3-2) SBFBBC;O;CHW;Jake Burger;Joe Ryan;2%;95%;Strikeout Looking
+t6;2-7;1;1--;3,(1-1) BCX;RR;CHW;Yasmani Grandal;Joe Ryan;-6%;89%;Home Run (Fly Ball to Deep RF); Jiménez Scores
+t6;4-7;1;---;1,(0-0) X;O;CHW;Gavin Sheets;Joe Ryan;2%;90%;Popfly: SS (SS-2B)
+t6;4-7;2;---;5,(2-2) BFBFT;O;CHW;Zach Remillard;Joe Ryan;1%;91%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. White Sox 4, Twins 7.
+Bottom of the 6th, Twins Batting, Ahead 7-4, White Sox' Lance Lynn facing 5-6-7 
+b6;7-4;0;---;3,(0-2) SF*S;O;MIN;Matt Wallner;Lance Lynn;-1%;90%;Strikeout Swinging
+b6;7-4;1;---;6,(3-2) BFBCB.S;O;MIN;Byron Buxton;Lance Lynn;-1%;90%;Strikeout Swinging
+b6;7-4;2;---;3,(1-1) BCX;O;MIN;Donovan Solano;Lance Lynn;0%;89%;Groundout: 2B-1B (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 4, Twins 7.
+Top of the 7th, White Sox Batting, Behind 4-7, Twins' Emilio Pagán facing 9-1-2 
+;;;;;;;;;Emilio Pagán replaces Joe Ryan pitching
+t7;4-7;0;---;1,(0-0) .X;O;CHW;Elvis Andrus;Emilio Pagán;2%;92%;Lineout: LF
+t7;4-7;1;---;4,(1-2) BSF.X;;CHW;Andrew Benintendi;Emilio Pagán;-3%;89%;Single to CF (Ground Ball thru Front of Home)
+t7;4-7;1;1--;7,(3-2) CBBF*BF1B;;CHW;Tim Anderson;Emilio Pagán;-4%;85%;Walk; Benintendi to 2B
+t7;4-7;1;12-;1,(0-0) X;O;CHW;Luis Robert Jr.;Emilio Pagán;5%;90%;Flyball: RF (Deep CF-RF)
+t7;4-7;2;12-;2,(0-1) FX;O;CHW;Eloy Jiménez;Emilio Pagán;4%;94%;Groundout: SS-2B/Forceout at 2B; Jiménez to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. White Sox 4, Twins 7.
+Bottom of the 7th, Twins Batting, Ahead 7-4, White Sox' Lance Lynn facing 8-9-1 
+b7;7-4;0;---;2,(0-1) CX;O;MIN;Ryan Jeffers;Lance Lynn;-1%;94%;Popfly: 1B (Deep 1B)
+b7;7-4;1;---;5,(2-2) CBCBS;O;MIN;Michael A. Taylor;Lance Lynn;0%;93%;Strikeout Swinging
+b7;7-4;2;---;3,(0-2) CSX;;MIN;Carlos Correa;Lance Lynn;1%;94%;Reached on E9 (Fly Ball to Deep RF Line); Correa to 2B
+b7;7-4;2;-2-;7,(3-2) CBFB*B.FB;;MIN;Edouard Julien;Lance Lynn;0%;94%;Walk
+b7;7-4;2;12-;1,(0-0) X;RR;MIN;Alex Kirilloff;Lance Lynn;5%;98%;Double to CF (Fly Ball to Deep CF-RF); Correa Scores/unER; Julien Scores/unER
+;;;;;;;;;Tag play Challenged by CHW manager (Pedro Grifol): Original call upheld upon review.
+;;;;;;;;;Bryan Shaw replaces Lance Lynn pitching
+b7;9-4;2;-2-;2,(1-0) .BX;O;MIN;Max Kepler;Bryan Shaw;0%;98%;Lineout: RF (RF Line)
+;;;;;;;;;2 runs, 1 hit, 1 error, 1 LOB. White Sox 4, Twins 9.
+Top of the 8th, White Sox Batting, Behind 4-9, Twins' Jovani Moran facing 5-6-7 
+;;;;;;;;;Jovani Moran replaces Emilio Pagán pitchingDonovan Solano moves from 3B to 2B Kyle Farmer replaces Edouard Julien (2B) playing 3B batting 2nd
+t8;4-9;0;---;5,(1-2) ...BSSFS;O;CHW;Jake Burger;Jovani Moran;1%;99%;Strikeout Swinging
+t8;4-9;1;---;5,(3-1) CBBBX;O;CHW;Yasmani Grandal;Jovani Moran;0%;99%;Groundout: P-SS-1B (Weak SS)
+;;;;;;;;;Carlos Pérez pinch hits for Gavin Sheets (1B) batting 7th
+t8;4-9;2;---;5,(2-2) .CBS.BC;O;CHW;Carlos Pérez;Jovani Moran;0%;99%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 4, Twins 9.
+Bottom of the 8th, Twins Batting, Ahead 9-4, White Sox' Bryan Shaw facing 5-6-7 
+;;;;;;;;;Carlos Pérez moves from PH to C Yasmani Grandal moves from C to 1B 
+b8;9-4;0;---;2,(0-1) ..CX;;MIN;Matt Wallner;Bryan Shaw;0%;100%;Single to RF (Fly Ball to CF-RF)
+b8;9-4;0;1--;2,(0-1) FX;O;MIN;Byron Buxton;Bryan Shaw;0%;100%;Popfly: 2B (Deep 2B)
+b8;9-4;1;1--;1,(0-0) H;;MIN;Donovan Solano;Bryan Shaw;0%;100%;Hit By Pitch; Wallner to 2B
+b8;9-4;1;12-;4,(1-2) BSTC;O;MIN;Ryan Jeffers;Bryan Shaw;0%;99%;Strikeout Looking
+b8;9-4;2;12-;8,(3-2) BSC.BF*B>F>B;;MIN;Michael A. Taylor;Bryan Shaw;0%;100%;Walk; Wallner to 3B; Solano to 2B
+b8;9-4;2;123;2,(0-1) FX;O;MIN;Carlos Correa;Bryan Shaw;0%;99%;Lineout: LF (Deep LF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. White Sox 4, Twins 9.
+Top of the 9th, White Sox Batting, Behind 4-9, Twins' Jovani Moran facing 8-9-1 
+t9;4-9;0;---;4,(1-2) CSBX;O;CHW;Zach Remillard;Jovani Moran;0%;100%;Groundout: 2B-1B
+t9;4-9;1;---;2,(1-0) BX;O;CHW;Elvis Andrus;Jovani Moran;0%;100%;Foul Popfly: SS (3B into Foul Terr.)
+t9;4-9;2;---;1,(0-0) X;O;CHW;Andrew Benintendi;Jovani Moran;0%;100%;Flyball: LF (LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 4, Twins 9.

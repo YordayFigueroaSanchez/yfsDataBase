@@ -1,0 +1,264 @@
+
+Scorebox Meta
+20230825
+7:10 p.m. Local
+33089
+American Family Field
+165
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/SDP-2023.png;/teams/SDP/2023.shtml;0;0;0;1;0;0;0;0;2;3;7;1
+https://cdn.ssref.net/req/202308251/tlogo/br/MIL-2023.png;/teams/MIL/2023.shtml;0;0;5;0;0;0;2;0;X;7;10;1
+
+Batting home
+Christian Yelich;/players/y/yelicch01.shtml;LF;3;0;0;0;1;1;4;.284;.371;.451;.822;12;8;0.025; 0.78;0.035;-0.010; 0.01%; 0.61; -0.1;2;0;
+William Contreras;/players/c/contrwi02.shtml;C;3;1;1;1;1;0;4;.276;.353;.448;.801;15;8;0.012; 0.84;0.087;-0.075; 0.01%; 0.66; 0.2;17;0;GDP
+Carlos Santana;/players/s/santaca01.shtml;1B;4;1;2;0;0;1;4;.230;.306;.411;.718;10;7;-0.057; 0.62;0.014;-0.071;-0.03%; 0.48; -0.1;3;2;
+Willy Adames;/players/a/adamewi01.shtml;SS;4;2;2;1;0;0;4;.216;.298;.401;.699;16;14;0.086; 0.84;0.113;-0.028; 0.04%; 0.66; 1.5;2;1;
+Rowdy Tellez;/players/t/tellero01.shtml;DH;4;1;2;4;0;1;4;.214;.291;.395;.686;15;9;0.119; 0.53;0.166;-0.048; 0.06%; 0.41; 2.2;;;HR,GDP
+Mark Canha;/players/c/canhama01.shtml;RF;4;0;2;0;0;0;4;.245;.342;.378;.720;16;10;0.010; 0.17;0.016;-0.006; 0.01%; 0.14; -0.3;0;0;
+Joey Wiemer;/players/w/wiemejo01.shtml;CF;0;0;0;0;0;0;0;.212;.289;.375;.664;;;;;;;;;;0;0;
+Andruw Monasterio;/players/m/monasan01.shtml;3B;3;0;0;0;1;0;4;.253;.335;.355;.690;17;10;-0.025; 0.30;0.005;-0.030;-0.01%; 0.24; -0.5;0;1;
+Brice Turang;/players/t/turanbr02.shtml;2B;3;1;1;0;1;0;4;.226;.297;.328;.625;21;11;0.027; 0.38;0.040;-0.013; 0.01%; 0.29; 0.1;1;1;
+Tyrone Taylor;/players/t/tayloty01.shtml;CF-RF;3;1;0;0;0;0;4;.220;.255;.397;.652;15;10;0.049; 0.50;0.059;-0.011; 0.02%; 0.39; -0.3;0;0;HBP,GDP
+Brandon Woodruff;/players/w/woodrbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Abner Uribe;/players/u/uribeab01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Megill;/players/m/megiltr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Andrew Chafin;/players/c/chafian01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+HR: Rowdy Tellez (13, off Yu Darvish, 3rd inn, 2 on, 2 outs to Deep CF-RF).
+
+
+HBP: Tyrone Taylor (2, by Yu Darvish).
+
+
+TB: Rowdy Tellez 5; Willy Adames 2; Carlos Santana 2; Mark Canha 2; William Contreras; Brice Turang.
+
+
+GIDP: Rowdy Tellez (10); Tyrone Taylor (7); William Contreras (18).
+
+
+RBI: Rowdy Tellez 4 (41); Willy Adames (61); William Contreras (59).
+
+
+2-out RBI: Rowdy Tellez 4; Willy Adames.
+
+
+Team LOB: 5.
+With RISP: 4 for 9.
+
+Batting away
+Ha-Seong Kim;/players/k/kimha01.shtml;2B;3;0;0;0;2;1;5;.278;.369;.445;.813;22;12;-0.011; 0.59;0.044;-0.055;-0.00%; 0.09; -0.5;4;7;SB
+Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF;4;0;2;0;0;2;4;.263;.326;.463;.789;16;11;0.054; 0.71;0.079;-0.026; 0.01%; 0.11; 0.2;2;0;2B
+Juan Soto;/players/s/sotoju01.shtml;LF;4;0;0;0;0;2;4;.257;.396;.478;.874;17;11;-0.150; 1.03;0.000;-0.150;-0.01%; 0.16; -1.7;0;0;GDP
+Manny Machado;/players/m/machama01.shtml;3B;3;1;1;1;1;2;4;.251;.320;.464;.784;19;12;0.043; 0.52;0.054;-0.011; 0.00%; 0.08; 0.8;0;3;HR
+Xander Bogaerts;/players/b/bogaexa01.shtml;SS;4;0;0;0;0;3;4;.261;.333;.393;.726;20;12;-0.067; 0.64;0.000;-0.067;-0.01%; 0.10; -1.0;4;4;
+Jake Cronenworth;/players/c/croneja01.shtml;1B;3;0;1;0;0;0;4;.229;.312;.378;.689;12;7;-0.006; 0.51;0.029;-0.035;-0.00%; 0.08; 0.2;10;1;HBP
+José Azocar;/players/a/azocajo01.shtml;PR;0;1;0;0;0;0;0;.236;.250;.291;.541;;;0.000;;0.000;0.000;0%;; 0.0;;;
+Gary Sánchez;/players/s/sanchga02.shtml;C;4;1;1;2;0;3;4;.210;.285;.481;.766;16;11;-0.046; 0.52;0.004;-0.049;-0.00%; 0.08; 1.1;3;0;HR
+Garrett Cooper;/players/c/coopega03.shtml;DH;4;0;2;0;0;2;4;.258;.306;.431;.737;17;11;0.021; 0.52;0.050;-0.029; 0.00%; 0.08; 0.6;;;
+Trent Grisham;/players/g/grishtr01.shtml;CF;4;0;0;0;0;2;4;.206;.316;.368;.684;27;21;-0.092; 0.83;0.000;-0.092;-0.01%; 0.13; -1.4;0;0;
+Yu Darvish;/players/d/darviyu01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Rich Hill;/players/h/hillri01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Luis García;/players/g/garcilu03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Fernando Tatis Jr. (28, off Brandon Woodruff).
+
+
+HR: Manny Machado (25, off Brandon Woodruff, 4th inn, 0 on, 0 outs to Deep LF-CF); Gary Sánchez (17, off Andrew Chafin, 9th inn, 1 on, 1 out to Deep LF Line).
+
+
+HBP: Jake Cronenworth (11, by Andrew Chafin).
+
+
+TB: Manny Machado 4; Gary Sánchez 4; Fernando Tatis Jr. 3; Garrett Cooper 2; Jake Cronenworth.
+
+
+GIDP: Juan Soto (13).
+
+
+RBI: Gary Sánchez 2 (43); Manny Machado (75).
+
+
+Team LOB: 7.
+With RISP: 0 for 6.
+
+Pitching home
+Brandon Woodruff;/players/w/woodrbr01.shtml; W (3-1); 6 ;3;1;1;3;11;1;2.65;23;107;71;36;12;23;5;4;3;0;70;;;0.216; 0.77; 0.10%; 0.60; 2.1
+Abner Uribe;/players/u/uribeab01.shtml;Abner Uribe; 1 ;2;0;0;0;3;0;0.96;5;19;14;6;3;5;1;1;1;0;;0;0;0.030; 1.00; 0.01%; 0.78; 0.5
+Trevor Megill;/players/m/megiltr01.shtml;Trevor Megill; 1 ;0;0;0;0;2;0;3.91;3;14;10;4;3;3;1;0;0;0;;0;0;0.006; 0.08; 0.00%; 0.06; 0.5
+Andrew Chafin;/players/c/chafian01.shtml;Andrew Chafin; 1 ;2;2;2;0;1;1;5.53;6;26;13;6;2;5;3;1;0;0;;0;0;0.003; 0.15; 0.00%; 0.12; -1.5
+
+Pitching away
+Yu Darvish;/players/d/darviyu01.shtml; L (8-10); 4 ;6;5;5;1;3;1;4.56;19;76;53;28;7;18;7;7;3;0;32;;;-0.249; 0.91;-0.02%; 0.14; -2.9
+Rich Hill;/players/h/hillri01.shtml;Rich Hill; 2.2;4;2;2;2;0;0;5.21;13;45;27;14;3;10;7;4;4;0;;0;0;0.002; 0.23; 0.00%; 0.04; -0.7
+Luis García;/players/g/garcilu03.shtml;Luis García; 1.1;0;0;0;1;0;0;4.60;4;16;7;6;0;1;2;1;0;0;;1;0;0.001; 0.02; 0.00%; 0.00; 0.8
+
+indiv_events
+
+Balks: None.
+WP: Luis García (3).
+HBP: Yu Darvish (8; Tyrone Taylor); Andrew Chafin (1; Jake Cronenworth).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Luis García (3).
+HBP: Yu Darvish (8; Tyrone Taylor); Andrew Chafin (1; Jake Cronenworth).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Dan Merzel, 1B - Lance Barksdale, 2B - Ramon De Jesus, 3B - Will Little, LF - (none), RF - (none).
+Time of Game: 2:45.
+Attendance: 33,089.
+Field Condition: Unknown.
+Start Time Weather: 75° F, Wind 2mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Padres
+1;Ha-Seong Kim;/players/k/kimha01.shtml;2B
+2;Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF
+3;Juan Soto;/players/s/sotoju01.shtml;LF
+4;Manny Machado;/players/m/machama01.shtml;3B
+5;Xander Bogaerts;/players/b/bogaexa01.shtml;SS
+6;Jake Cronenworth;/players/c/croneja01.shtml;1B
+7;Gary Sánchez;/players/s/sanchga02.shtml;C
+8;Garrett Cooper;/players/c/coopega03.shtml;DH
+9;Trent Grisham;/players/g/grishtr01.shtml;CF
+; Yu Darvish;/players/d/darviyu01.shtml;P
+Brewers
+1;Christian Yelich;/players/y/yelicch01.shtml;LF
+2;William Contreras;/players/c/contrwi02.shtml;C
+3;Carlos Santana;/players/s/santaca01.shtml;1B
+4;Willy Adames;/players/a/adamewi01.shtml;SS
+5;Rowdy Tellez;/players/t/tellero01.shtml;DH
+6;Mark Canha;/players/c/canhama01.shtml;RF
+7;Andruw Monasterio;/players/m/monasan01.shtml;3B
+8;Brice Turang;/players/t/turanbr02.shtml;2B
+9;Tyrone Taylor;/players/t/tayloty01.shtml;CF
+; Brandon Woodruff;/players/w/woodrbr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;2-0;2;1-3;3,(1-1) BCX;RRR;MIL;Rowdy Tellez;Yu Darvish;16%;92%;Home Run (Fly Ball to Deep CF-RF); Contreras Scores; Adames Scores
+t3;0-0;1;12-;5,(2-2) CBF*BX;OO;SDP;Juan Soto;Brandon Woodruff;10%;56%;Ground Ball Double Play: P-SS-1B (Front of Home)
+b3;1-0;2;1-3;4,(0-2) CF>F>X;R;MIL;Willy Adames;Yu Darvish;10%;76%;Single to CF (Line Drive to Short CF); Taylor Scores; Contreras to 3B
+b3;0-0;1;-23;5,(2-2) .CBCBX;R;MIL;William Contreras;Yu Darvish;8%;73%;Single to RF (Ground Ball); Turang Scores; Taylor to 3B
+b1;0-0;0;1--;1,(0-0) X;OO;MIL;William Contreras;Yu Darvish;-7%;51%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Padres Batting, Tied 0-0, Brewers' Brandon Woodruff facing 1-2-3 
+t1;0-0;0;---;2,(1-0) BX;O;SDP;Ha-Seong Kim;Brandon Woodruff;2%;52%;Groundout: 2B-1B (Deep 2B)
+t1;0-0;1;---;5,(2-2) BBFSX;;SDP;Fernando Tatis Jr.;Brandon Woodruff;-4%;48%;Double to LF (Line Drive to LF-CF)
+t1;0-0;1;-2-;3,(0-2) SC.C;O;SDP;Juan Soto;Brandon Woodruff;3%;52%;Strikeout Looking
+t1;0-0;2;-2-;5,(3-1) BBFBB;;SDP;Manny Machado;Brandon Woodruff;-1%;51%;Walk
+t1;0-0;2;12-;5,(2-2) BCC.BS;O;SDP;Xander Bogaerts;Brandon Woodruff;4%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Padres 0, Brewers 0.
+Bottom of the 1st, Brewers Batting, Tied 0-0, Padres' Yu Darvish facing 1-2-3 
+b1;0-0;0;---;7,(3-2) CBBBSFB;;MIL;Christian Yelich;Yu Darvish;3%;58%;Walk
+b1;0-0;0;1--;1,(0-0) X;OO;MIL;William Contreras;Yu Darvish;-7%;51%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b1;0-0;2;---;5,(2-2) CBBCS;O;MIL;Carlos Santana;Yu Darvish;-1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Brewers 0.
+Top of the 2nd, Padres Batting, Tied 0-0, Brewers' Brandon Woodruff facing 6-7-8 
+t2;0-0;0;---;2,(0-1) CX;O;SDP;Jake Cronenworth;Brandon Woodruff;2%;52%;Flyball: LF (Deep LF)
+t2;0-0;1;---;5,(1-2) FF.FB*S;O;SDP;Gary Sánchez;Brandon Woodruff;2%;54%;Strikeout Swinging
+t2;0-0;2;---;3,(0-2) CFC;O;SDP;Garrett Cooper;Brandon Woodruff;1%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Brewers 0.
+Bottom of the 2nd, Brewers Batting, Tied 0-0, Padres' Yu Darvish facing 4-5-6 
+b2;0-0;0;---;6,(1-2) CSBFFX;O;MIL;Willy Adames;Yu Darvish;-2%;53%;Flyball: RF (Deep 1B)
+b2;0-0;1;---;4,(1-2) CBFC;O;MIL;Rowdy Tellez;Yu Darvish;-2%;51%;Strikeout Looking
+b2;0-0;2;---;6,(2-2) CBBCFX;;MIL;Mark Canha;Yu Darvish;1%;52%;Single to CF (Ground Ball thru SS-2B)
+b2;0-0;2;1--;3,(0-2) CCX;O;MIL;Andruw Monasterio;Yu Darvish;-2%;50%;Foul Popfly: 2B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 0, Brewers 0.
+Top of the 3rd, Padres Batting, Tied 0-0, Brewers' Brandon Woodruff facing 9-1-2 
+t3;0-0;0;---;16,(3-2) LBBC.FFFFFBFFFFFS;O;SDP;Trent Grisham;Brandon Woodruff;3%;53%;Strikeout Swinging
+t3;0-0;1;---;5,(3-1) BBBCB;;SDP;Ha-Seong Kim;Brandon Woodruff;-3%;50%;Walk
+t3;0-0;1;1--;3,(1-1) 1BCX;;SDP;Fernando Tatis Jr.;Brandon Woodruff;-4%;46%;Single to CF (Ground Ball thru SS-2B); Kim to 2B
+t3;0-0;1;12-;5,(2-2) CBF*BX;OO;SDP;Juan Soto;Brandon Woodruff;10%;56%;Ground Ball Double Play: P-SS-1B (Front of Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 0, Brewers 0.
+Bottom of the 3rd, Brewers Batting, Tied 0-0, Padres' Yu Darvish facing 8-9-1 
+b3;0-0;0;---;2,(0-1) CX;;MIL;Brice Turang;Yu Darvish;4%;59%;Single to CF (Ground Ball)
+b3;0-0;0;1--;3,(1-1) 1PFH;;MIL;Tyrone Taylor;Yu Darvish;6%;65%;Hit By Pitch; Turang to 2B
+b3;0-0;0;12-;1,(0-0) X;O;MIL;Christian Yelich;Yu Darvish;0%;65%;Groundout: 1B unassisted; Turang to 3B; Taylor to 2B
+b3;0-0;1;-23;5,(2-2) .CBCBX;R;MIL;William Contreras;Yu Darvish;8%;73%;Single to RF (Ground Ball); Turang Scores; Taylor to 3B
+b3;1-0;1;1-3;2,(0-1) SX;O;MIL;Carlos Santana;Yu Darvish;-6%;67%;Popfly: SS (Deep SS-2B)
+b3;1-0;2;1-3;4,(0-2) CF>F>X;R;MIL;Willy Adames;Yu Darvish;10%;76%;Single to CF (Line Drive to Short CF); Taylor Scores; Contreras to 3B
+b3;2-0;2;1-3;3,(1-1) BCX;RRR;MIL;Rowdy Tellez;Yu Darvish;16%;92%;Home Run (Fly Ball to Deep CF-RF); Contreras Scores; Adames Scores
+b3;5-0;2;---;2,(1-0) BX;;MIL;Mark Canha;Yu Darvish;0%;93%;Single to LF (Line Drive to LF-CF)
+b3;5-0;2;1--;4,(2-1) *B1CBX;O;MIL;Andruw Monasterio;Yu Darvish;-1%;92%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;5 runs, 5 hits, 0 errors, 1 LOB. Padres 0, Brewers 5.
+Top of the 4th, Padres Batting, Behind 0-5, Brewers' Brandon Woodruff facing 4-5-6 
+t4;0-5;0;---;2,(0-1) CX;R;SDP;Manny Machado;Brandon Woodruff;-4%;88%;Home Run (Line Drive to Deep LF-CF)
+t4;1-5;0;---;4,(1-2) CBCX;O;SDP;Xander Bogaerts;Brandon Woodruff;2%;89%;Lineout: LF
+t4;1-5;1;---;4,(2-1) BSBX;O;SDP;Jake Cronenworth;Brandon Woodruff;1%;91%;Groundout: 1B unassisted
+t4;1-5;2;---;4,(1-2) FF.BC;O;SDP;Gary Sánchez;Brandon Woodruff;1%;91%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Padres 1, Brewers 5.
+Bottom of the 4th, Brewers Batting, Ahead 5-1, Padres' Yu Darvish facing 8-9-1 
+b4;5-1;0;---;9,(3-2) BCBFBFFFX;O;MIL;Brice Turang;Yu Darvish;-1%;90%;Groundout: 1B-P
+b4;5-1;1;---;6,(2-2) FBSBFX;O;MIL;Tyrone Taylor;Yu Darvish;-1%;90%;Lineout: SS (Deep SS)
+b4;5-1;2;---;3,(0-2) CSS;O;MIL;Christian Yelich;Yu Darvish;0%;90%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Brewers 5.
+Top of the 5th, Padres Batting, Behind 1-5, Brewers' Brandon Woodruff facing 8-9-1 
+t5;1-5;0;---;4,(1-2) BFFS;O;SDP;Garrett Cooper;Brandon Woodruff;2%;91%;Strikeout Swinging
+t5;1-5;1;---;2,(0-1) CX;O;SDP;Trent Grisham;Brandon Woodruff;1%;92%;Groundout: 1B-P
+t5;1-5;2;---;8,(3-2) BCFFBBFB;;SDP;Ha-Seong Kim;Brandon Woodruff;-1%;92%;Walk
+t5;1-5;2;1--;2,(0-1) C>B;;SDP;Fernando Tatis Jr.;Brandon Woodruff;-1%;91%;Kim Steals 2B; Kim to 3B/Adv on E2 (throw)
+t5;1-5;2;--3;5,(2-2) C>B.SBS;O;SDP;Fernando Tatis Jr.;Brandon Woodruff;2%;93%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Padres 1, Brewers 5.
+Bottom of the 5th, Brewers Batting, Ahead 5-1, Padres' Rich Hill facing 2-3-4 
+;;;;;;;;;Rich Hill replaces Yu Darvish pitching
+b5;5-1;0;---;6,(3-2) .BSS.BBB;;MIL;William Contreras;Rich Hill;1%;94%;Walk
+b5;5-1;0;1--;1,(0-0) X;;MIL;Carlos Santana;Rich Hill;1%;95%;Single to RF (Line Drive); Contreras to 2B
+b5;5-1;0;12-;2,(0-1) CX;O;MIL;Willy Adames;Rich Hill;0%;95%;Groundout: SS-2B/Forceout at 2B; Contreras to 3B; Adames to 1B
+b5;5-1;1;1-3;3,(1-1) CBX;OO;MIL;Rowdy Tellez;Rich Hill;-3%;92%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 1, Brewers 5.
+Top of the 6th, Padres Batting, Behind 1-5, Brewers' Brandon Woodruff facing 3-4-5 
+t6;1-5;0;---;6,(3-2) CBBCBT;O;SDP;Juan Soto;Brandon Woodruff;2%;93%;Strikeout Swinging
+t6;1-5;1;---;4,(0-2) CSFS;O;SDP;Manny Machado;Brandon Woodruff;1%;95%;Strikeout Swinging
+t6;1-5;2;---;5,(2-2) BCSBC;O;SDP;Xander Bogaerts;Brandon Woodruff;1%;95%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Brewers 5.
+Bottom of the 6th, Brewers Batting, Ahead 5-1, Padres' Rich Hill facing 6-7-8 
+b6;5-1;0;---;2,(0-1) CX;O;MIL;Mark Canha;Rich Hill;0%;95%;Groundout: SS-1B (Deep SS)
+b6;5-1;1;---;8,(3-2) CFFBFBBB;;MIL;Andruw Monasterio;Rich Hill;0%;95%;Walk
+b6;5-1;1;1--;6,(3-2) BCBBCX;O;MIL;Brice Turang;Rich Hill;-1%;95%;Groundout: 2B-SS/Forceout at 2B; Turang to 1B
+b6;5-1;2;1--;2,(0-1) CX;O;MIL;Tyrone Taylor;Rich Hill;0%;94%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 1, Brewers 5.
+Top of the 7th, Padres Batting, Behind 1-5, Brewers' Abner Uribe facing 6-7-8 
+;;;;;;;;;Abner Uribe replaces Brandon Woodruff pitching
+t7;1-5;0;---;3,(1-1) .CBX;;SDP;Jake Cronenworth;Abner Uribe;-3%;91%;Single to CF (Line Drive to Short CF)
+t7;1-5;0;1--;4,(1-2) CFBS;O;SDP;Gary Sánchez;Abner Uribe;3%;94%;Strikeout Swinging
+t7;1-5;1;1--;5,(2-2) BBTFX;;SDP;Garrett Cooper;Abner Uribe;-4%;90%;Single to LF (Ground Ball); Cronenworth to 3B
+t7;1-5;1;1-3;4,(1-2) C*B*SC;O;SDP;Trent Grisham;Abner Uribe;4%;94%;Strikeout Looking
+t7;1-5;2;1-3;3,(0-2) CFS;O;SDP;Ha-Seong Kim;Abner Uribe;3%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Padres 1, Brewers 5.
+Bottom of the 7th, Brewers Batting, Ahead 5-1, Padres' Rich Hill facing 1-2-3 
+b7;5-1;0;---;1,(0-0) X;O;MIL;Christian Yelich;Rich Hill;0%;97%;Groundout: 2B-1B (2B-1B)
+b7;5-1;1;---;3,(1-1) CBX;O;MIL;William Contreras;Rich Hill;0%;97%;Groundout: 2B-1B
+b7;5-1;2;---;2,(1-0) BX;;MIL;Carlos Santana;Rich Hill;0%;97%;Single to RF (Line Drive to CF-RF)
+b7;5-1;2;1--;4,(1-2) BCSX;R;MIL;Willy Adames;Rich Hill;2%;98%;Single to RF (Line Drive to Short CF-RF); Santana Scores/Adv on E9 (throw)/No RBI; Adames to 2B
+b7;6-1;2;-2-;5,(3-1) BBCBX;R;MIL;Rowdy Tellez;Rich Hill;1%;99%;Single to RF (Line Drive to Deep 1B); Adames Scores
+;;;;;;;;;Luis García replaces Rich Hill pitching
+b7;7-1;2;1--;4,(1-2) .BTFB;;MIL;Mark Canha;Luis García;0%;99%;Wild Pitch; Tellez to 2B
+b7;7-1;2;-2-;6,(3-2) .BTFB.*BX;O;MIL;Mark Canha;Luis García;0%;99%;Groundout: SS-1B
+;;;;;;;;;2 runs, 3 hits, 1 error, 1 LOB. Padres 1, Brewers 7.
+Top of the 8th, Padres Batting, Behind 1-7, Brewers' Trevor Megill facing 2-3-4 
+;;;;;;;;;Trevor Megill replaces Abner Uribe pitchingJoey Wiemer replaces Mark Canha (RF) playing CF batting 6thTyrone Taylor moves from CF to RF 
+t8;1-7;0;---;3,(0-2) ...SSS;O;SDP;Fernando Tatis Jr.;Trevor Megill;0%;100%;Strikeout Swinging
+t8;1-7;1;---;3,(1-1) BCX;O;SDP;Juan Soto;Trevor Megill;0%;100%;Groundout: 1B-P (2B-1B)
+t8;1-7;2;---;8,(3-2) BCBBFFFC;O;SDP;Manny Machado;Trevor Megill;0%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Brewers 7.
+Bottom of the 8th, Brewers Batting, Ahead 7-1, Padres' Luis García facing 7-8-9 
+b8;7-1;0;---;2,(1-0) BX;O;MIL;Andruw Monasterio;Luis García;0%;100%;Flyball: RF (RF Line)
+b8;7-1;1;---;4,(3-0) BBBB;;MIL;Brice Turang;Luis García;0%;100%;Walk
+b8;7-1;1;1--;4,(1-2) CF*BX;OO;MIL;Tyrone Taylor;Luis García;0%;100%;Ground Ball Double Play: 3B-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Brewers 7.
+Top of the 9th, Padres Batting, Behind 1-7, Brewers' Andrew Chafin facing 5-6-7 
+;;;;;;;;;Andrew Chafin replaces Trevor Megill pitching
+t9;1-7;0;---;6,(3-2) .CBBCBC;O;SDP;Xander Bogaerts;Andrew Chafin;0%;100%;Strikeout Looking
+t9;1-7;1;---;3,(1-1) BCH;;SDP;Jake Cronenworth;Andrew Chafin;0%;100%;Hit By Pitch
+;;;;;;;;;José Azocar pinch runs for Jake Cronenworth (1B) batting 6th
+t9;1-7;1;1--;3,(2-0) .BBX;RR;SDP;Gary Sánchez;Andrew Chafin;0%;99%;Home Run (Fly Ball to Deep LF Line); Azocar Scores
+t9;3-7;1;---;5,(3-1) SBBBX;;SDP;Garrett Cooper;Andrew Chafin;-1%;98%;Single to 3B (Ground Ball to SS-3B Hole)
+t9;3-7;1;1--;5,(2-2) CBBFX;O;SDP;Trent Grisham;Andrew Chafin;1%;100%;Groundout: P-SS/Forceout at 2B (Short 1B Line); Grisham to 1B
+t9;3-7;2;1--;4,(1-2) FSBX;O;SDP;Ha-Seong Kim;Andrew Chafin;0%;100%;Groundout: 3B-2B/Forceout at 2B; Kim to 1B
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Padres 3, Brewers 7.

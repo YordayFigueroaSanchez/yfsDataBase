@@ -1,0 +1,250 @@
+
+Scorebox Meta
+20230421
+1:20 p.m. Local
+30381
+Wrigley Field
+159
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;0;0;0;0;0;0;0;0;0;1;0
+https://cdn.ssref.net/req/202308101/tlogo/br/CHC-2023.png;/teams/CHC/2023.shtml;2;1;2;0;7;1;0;0;X;13;17;0
+
+Batting home
+Nico Hoerner;/players/h/hoernni01.shtml;2B;5;1;4;4;0;0;5;.365;.407;.459;.865;17;12;0.019; 0.36;0.047;-0.027; 0.01%; 0.38; 3.1;0;0;HR,CS
+Edwin Rios;/players/r/riosed01.shtml;3B;0;0;0;0;0;0;0;.063;.211;.250;.461;;;;;;;;;;0;0;
+Dansby Swanson;/players/s/swansda01.shtml;SS;4;1;1;0;1;2;5;.333;.446;.377;.823;23;13;0.003; 0.30;0.024;-0.021; 0.00%; 0.32; -0.5;0;0;
+Ian Happ;/players/h/happia01.shtml;LF;4;2;1;0;1;2;5;.301;.402;.507;.909;28;15;0.073; 0.35;0.086;-0.013; 0.05%; 0.38; 0.4;1;0;2B
+Luis Torrens;/players/t/torrelu01.shtml;LF;0;0;0;0;0;0;0;.333;.412;.400;.812;;;;;;;;;;0;0;
+Seiya Suzuki;/players/s/suzukse01.shtml;RF;4;1;2;2;1;1;5;.370;.485;.519;1.003;28;16;0.114; 0.42;0.126;-0.012; 0.07%; 0.45; 1.9;3;0;2B
+Patrick Wisdom;/players/w/wisdopa01.shtml;DH;5;2;2;3;0;3;5;.271;.329;.743;1.072;19;13;-0.018; 0.26;0.015;-0.033;-0.01%; 0.28; 1.3;;;HR,2B
+Cody Bellinger;/players/b/bellico01.shtml;CF;4;2;2;1;1;0;5;.301;.381;.562;.943;22;11;0.069; 0.22;0.069;0.000; 0.04%; 0.23; 1.0;2;0;HR,2B
+Trey Mancini;/players/m/mancitr01.shtml;1B;5;2;3;3;0;0;5;.246;.265;.354;.619;11;8;0.015; 0.29;0.045;-0.031; 0.01%; 0.31; 2.0;4;1;HR
+Yan Gomes;/players/g/gomesya01.shtml;C;5;1;1;0;0;0;5;.234;.245;.426;.670;18;12;-0.019; 0.15;0.001;-0.019;-0.01%; 0.16; -0.2;13;0;
+Nick Madrigal;/players/m/madrini01.shtml;3B-2B;4;1;1;0;0;0;4;.314;.351;.429;.780;18;12;0.045; 0.17;0.051;-0.005; 0.03%; 0.17; -0.4;3;1;3B
+Drew Smyly;/players/s/smylydr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Jeremiah Estrada;/players/e/estraje01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ian Happ (9, off Julio Urías); Seiya Suzuki (1, off Julio Urías); Cody Bellinger (4, off Jake Reed); Patrick Wisdom (4, off Andre Jackson).
+
+
+3B: Nick Madrigal (1, off Julio Urías).
+
+
+HR: Cody Bellinger (5, off Julio Urías, 3rd inn, 0 on, 2 outs to Deep RF Line); Trey Mancini (2, off Julio Urías, 3rd inn, 0 on, 2 outs to Deep LF-CF); Patrick Wisdom (9, off Jake Reed, 5th inn, 2 on, 0 outs to Deep LF Line); Nico Hoerner (1, off Andre Jackson, 5th inn, 2 on, 1 out to Deep LF).
+
+
+TB: Nico Hoerner 7; Patrick Wisdom 6; Trey Mancini 6; Cody Bellinger 6; Seiya Suzuki 3; Nick Madrigal 3; Ian Happ 2; Yan Gomes; Dansby Swanson.
+
+
+RBI: Nico Hoerner 4 (9); Patrick Wisdom 3 (18); Trey Mancini 3 (12); Seiya Suzuki 2 (4); Cody Bellinger (14).
+
+
+2-out RBI: Trey Mancini; Cody Bellinger.
+
+
+Team LOB: 7.
+With RISP: 6 for 11.
+
+Batting away
+Mookie Betts;/players/b/bettsmo01.shtml;RF-2B-SS;3;0;0;0;1;0;4;.261;.386;.435;.820;12;6;-0.036; 0.34;0.000;-0.036;-0.02%; 0.33; -0.3;1;1;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;2;0;0;0;0;0;2;.288;.376;.450;.826;10;7;-0.024; 0.47;0.000;-0.024;-0.01%; 0.45; -0.3;0;0;
+Chris Taylor;/players/t/tayloch03.shtml;2B-3B;2;0;0;0;0;2;2;.119;.191;.405;.596;12;7;0.000; 0.00;0.000;0.000;0%; 0.00; -0.7;1;0;
+J.D. Martinez;/players/m/martijd02.shtml;DH;3;0;0;0;0;1;3;.247;.292;.506;.798;14;9;-0.016; 0.20;0.000;-0.016;-0.01%; 0.19; -0.3;;;
+Jason Heyward;/players/h/heywaja01.shtml;1B;1;0;0;0;0;0;1;.194;.297;.516;.813;4;3;0.000; 0.00;0.000;0.000;0%; 0.00; -0.5;2;0;
+Max Muncy;/players/m/muncyma01.shtml;3B;2;0;0;0;0;2;2;.238;.407;.619;1.026;7;6;-0.036; 0.70;0.000;-0.036;-0.02%; 0.67; -0.5;1;0;
+David Peralta;/players/p/peralda01.shtml;LF;1;0;1;0;0;0;1;.238;.267;.333;.600;2;2;0.000; 0.00;0.000;0.000;0%; 0.00; 0.4;0;0;
+Miguel Vargas;/players/v/vargami01.shtml;2B-1B-2B;3;0;0;0;0;1;3;.204;.371;.296;.668;13;8;-0.024; 0.32;0.000;-0.024;-0.01%; 0.31; -0.7;1;2;
+James Outman;/players/o/outmaja01.shtml;LF-RF;3;0;0;0;0;2;3;.277;.382;.615;.997;13;9;-0.015; 0.19;0.000;-0.015;-0.01%; 0.18; -0.5;2;0;
+Trayce Thompson;/players/t/thomptr01.shtml;CF;3;0;0;0;0;3;3;.189;.302;.514;.816;17;9;-0.022; 0.29;0.000;-0.022;-0.01%; 0.28; -0.7;4;0;
+Luke Williams;/players/w/willilu01.shtml;SS-P;3;0;0;0;0;2;3;.100;.100;.100;.200;14;11;-0.015; 0.20;0.000;-0.015;-0.01%; 0.19; -0.6;2;1;
+Austin Wynns;/players/w/wynnsau01.shtml;C;2;0;0;0;1;0;3;.100;.182;.200;.382;16;7;-0.009; 0.12;0.000;-0.009;-0.01%; 0.11; 0.0;9;1;
+Julio Urías;/players/u/uriasju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jake Reed;/players/r/reedja02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andre Jackson;/players/j/jacksan01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+TB: David Peralta.
+
+
+Team LOB: 3.
+With RISP: 0 for 2.
+
+Pitching home
+Drew Smyly;/players/s/smylydr01.shtml; W (2-1); 7.2;1;0;0;0;10;0;3.13;24;103;68;32;16;20;4;10;2;0;87;;;0.197; 0.32; 0.13%; 0.34; 4.0
+Jeremiah Estrada;/players/e/estraje01.shtml;Jeremiah Estrada; 1.1;0;0;0;2;3;0;0.00;6;31;16;8;2;6;0;1;1;0;;1;0;0.000; 0.00; 0.00%; 0.00; 0.8
+
+Pitching away
+Julio Urías;/players/u/uriasju01.shtml; L (3-2); 3.1;7;5;5;2;4;2;3.33;19;86;52;26;7;19;3;10;6;0;28;;;-0.274; 0.62;-0.16%; 0.59; -3.4
+Jake Reed;/players/r/reedja02.shtml;Jake Reed; 0.2;5;6;6;1;1;1;81.00;7;29;19;10;3;6;3;2;0;0;;1;0;-0.027; 0.12;-0.02%; 0.11; -4.5
+Andre Jackson;/players/j/jacksan01.shtml;Andre Jackson; 3 ;5;2;2;1;3;1;7.94;15;63;38;23;5;10;4;7;3;0;;2;2;-0.001; 0.00;-0.00%; 0.00; -1.4
+Luke Williams;/players/w/willilu01.shtml;Luke Williams; 1 ;0;0;0;0;0;0;0.00;3;6;4;4;0;0;1;2;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Andy Fletcher, 1B - Mike Estabrook, 2B - Erich Bacchus, 3B - Ryan Wills, LF - (none), RF - (none).
+Time of Game: 2:39.
+Attendance: 30,381.
+Field Condition: Unknown.
+Start Time Weather: 53° F, Wind 9mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;RF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;J.D. Martinez;/players/m/martijd02.shtml;DH
+4;Max Muncy;/players/m/muncyma01.shtml;3B
+5;Miguel Vargas;/players/v/vargami01.shtml;2B
+6;James Outman;/players/o/outmaja01.shtml;LF
+7;Trayce Thompson;/players/t/thomptr01.shtml;CF
+8;Luke Williams;/players/w/willilu01.shtml;SS
+9;Austin Wynns;/players/w/wynnsau01.shtml;C
+; Julio Urías;/players/u/uriasju01.shtml;P
+Cubs
+1;Nico Hoerner;/players/h/hoernni01.shtml;2B
+2;Dansby Swanson;/players/s/swansda01.shtml;SS
+3;Ian Happ;/players/h/happia01.shtml;LF
+4;Seiya Suzuki;/players/s/suzukse01.shtml;RF
+5;Patrick Wisdom;/players/w/wisdopa01.shtml;DH
+6;Cody Bellinger;/players/b/bellico01.shtml;CF
+7;Trey Mancini;/players/m/mancitr01.shtml;1B
+8;Yan Gomes;/players/g/gomesya01.shtml;C
+9;Nick Madrigal;/players/m/madrini01.shtml;3B
+; Drew Smyly;/players/s/smylydr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-0;1;-23;8,(3-2) BCCBF*BFX;RR;CHC;Seiya Suzuki;Julio Urías;11%;74%;Double to LF (Line Drive to Deep LF-CF); Swanson Scores; Happ Scores
+b1;0-0;1;1--;6,(3-2) C*B*SBBX;;CHC;Ian Happ;Julio Urías;8%;63%;Double to LF (Ground Ball); Swanson to 3B
+b3;3-0;2;---;6,(2-2) BCBTFX;R;CHC;Cody Bellinger;Julio Urías;6%;88%;Home Run (Fly Ball to Deep RF Line)
+b2;2-0;1;---;2,(0-1) C.X;;CHC;Nick Madrigal;Julio Urías;5%;78%;Triple to LF (Line Drive to Deep LF Line)
+b3;4-0;2;---;3,(1-1) CBX;R;CHC;Trey Mancini;Julio Urías;4%;92%;Home Run (Fly Ball to Deep LF-CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Dodgers Batting, Tied 0-0, Cubs' Drew Smyly facing 1-2-3 
+t1;0-0;0;---;2,(0-1) CX;O;LAD;Mookie Betts;Drew Smyly;2%;52%;Groundout: 3B-1B (Deep SS-3B Hole)
+t1;0-0;1;---;7,(2-2) CBBTFFX;O;LAD;Freddie Freeman;Drew Smyly;2%;54%;Lineout: CF (Deep LF-CF)
+t1;0-0;2;---;7,(2-2) CBBFFFS;O;LAD;J.D. Martinez;Drew Smyly;1%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Cubs 0.
+Bottom of the 1st, Cubs Batting, Tied 0-0, Dodgers' Julio Urías facing 1-2-3 
+b1;0-0;0;---;2,(0-1) CX;O;CHC;Nico Hoerner;Julio Urías;-2%;53%;Flyball: CF (Deep CF-RF)
+b1;0-0;1;---;5,(3-1) CBBBB;;CHC;Dansby Swanson;Julio Urías;2%;55%;Walk
+b1;0-0;1;1--;6,(3-2) C*B*SBBX;;CHC;Ian Happ;Julio Urías;8%;63%;Double to LF (Ground Ball); Swanson to 3B
+b1;0-0;1;-23;8,(3-2) BCCBF*BFX;RR;CHC;Seiya Suzuki;Julio Urías;11%;74%;Double to LF (Line Drive to Deep LF-CF); Swanson Scores; Happ Scores
+b1;2-0;1;-2-;5,(2-2) CBBCS;O;CHC;Patrick Wisdom;Julio Urías;-2%;72%;Strikeout Swinging
+b1;2-0;2;-2-;4,(3-0) BBBB;;CHC;Cody Bellinger;Julio Urías;1%;73%;Walk
+b1;2-0;2;12-;1,(0-0) X;O;CHC;Trey Mancini;Julio Urías;-3%;70%;Groundout: 3B unassisted/Forceout at 3B; Mancini to 1B
+;;;;;;;;;2 runs, 2 hits, 0 errors, 2 LOB. Dodgers 0, Cubs 2.
+Top of the 2nd, Dodgers Batting, Behind 0-2, Cubs' Drew Smyly facing 4-5-6 
+t2;0-2;0;---;3,(0-2) C.CS;O;LAD;Max Muncy;Drew Smyly;2%;72%;Strikeout Swinging
+t2;0-2;1;---;6,(3-2) BBBCF.S;O;LAD;Miguel Vargas;Drew Smyly;2%;74%;Strikeout Swinging
+t2;0-2;2;---;5,(2-2) BFBFS;O;LAD;James Outman;Drew Smyly;1%;75%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Cubs 2.
+Bottom of the 2nd, Cubs Batting, Ahead 2-0, Dodgers' Julio Urías facing 8-9-1 
+b2;2-0;0;---;5,(3-1) BBCBX;O;CHC;Yan Gomes;Julio Urías;-2%;73%;Flyball: CF (CF-RF)
+b2;2-0;1;---;2,(0-1) C.X;;CHC;Nick Madrigal;Julio Urías;5%;78%;Triple to LF (Line Drive to Deep LF Line)
+b2;2-0;1;--3;3,(1-1) CBX;R;CHC;Nico Hoerner;Julio Urías;4%;82%;Single to LF (Line Drive to Short LF-CF); Madrigal Scores
+b2;3-0;1;1--;3,(1-1) S11BX;O;CHC;Dansby Swanson;Julio Urías;-2%;80%;Groundout: SS-2B/Forceout at 2B; Swanson to 1B
+b2;3-0;2;1--;3,(0-2) SSC;O;CHC;Ian Happ;Julio Urías;-1%;79%;Strikeout Looking
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Dodgers 0, Cubs 3.
+Top of the 3rd, Dodgers Batting, Behind 0-3, Cubs' Drew Smyly facing 7-8-9 
+t3;0-3;0;---;5,(2-2) CBSBS;O;LAD;Trayce Thompson;Drew Smyly;2%;81%;Strikeout Swinging
+t3;0-3;1;---;3,(0-2) CSS;O;LAD;Luke Williams;Drew Smyly;1%;83%;Strikeout Swinging
+t3;0-3;2;---;6,(3-2) .CBBCBX;O;LAD;Austin Wynns;Drew Smyly;1%;84%;Foul Popfly: 3B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Cubs 3.
+Bottom of the 3rd, Cubs Batting, Ahead 3-0, Dodgers' Julio Urías facing 4-5-6 
+b3;3-0;0;---;7,(2-2) BFBFFFC;O;CHC;Seiya Suzuki;Julio Urías;-1%;83%;Strikeout Looking
+b3;3-0;1;---;4,(1-2) BCSS;O;CHC;Patrick Wisdom;Julio Urías;-1%;82%;Strikeout Swinging
+b3;3-0;2;---;6,(2-2) BCBTFX;R;CHC;Cody Bellinger;Julio Urías;6%;88%;Home Run (Fly Ball to Deep RF Line)
+b3;4-0;2;---;3,(1-1) CBX;R;CHC;Trey Mancini;Julio Urías;4%;92%;Home Run (Fly Ball to Deep LF-CF)
+b3;5-0;2;---;4,(2-1) BBCX;O;CHC;Yan Gomes;Julio Urías;0%;92%;Lineout: CF (Deep CF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Dodgers 0, Cubs 5.
+Top of the 4th, Dodgers Batting, Behind 0-5, Cubs' Drew Smyly facing 1-2-3 
+t4;0-5;0;---;3,(1-1) CBX;O;LAD;Mookie Betts;Drew Smyly;1%;93%;Flyball: CF (Deep CF)
+t4;0-5;1;---;3,(1-1) CBX;O;LAD;Freddie Freeman;Drew Smyly;1%;94%;Groundout: 1B-P
+t4;0-5;2;---;2,(1-0) BX;O;LAD;J.D. Martinez;Drew Smyly;0%;95%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Cubs 5.
+Bottom of the 4th, Cubs Batting, Ahead 5-0, Dodgers' Julio Urías facing 9-1-2 
+b4;5-0;0;---;7,(2-2) BBCFFFX;O;CHC;Nick Madrigal;Julio Urías;0%;94%;Lineout: LF (Deep LF-CF)
+b4;5-0;1;---;8,(3-2) BBBCCFFX;;CHC;Nico Hoerner;Julio Urías;0%;95%;Single to CF (Line Drive to Deep CF)
+;;;;;;;;;Jake Reed replaces Julio Urías pitching
+b4;5-0;1;1--;4,(1-2) .CBCS;O;CHC;Dansby Swanson;Jake Reed;-1%;94%;Strikeout Swinging
+b4;5-0;2;1--;2,(0-1) S11>B;O;CHC;Ian Happ;Jake Reed;-1%;93%;Hoerner Caught Stealing 2B (C-SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Dodgers 0, Cubs 5.
+Top of the 5th, Dodgers Batting, Behind 0-5, Cubs' Drew Smyly facing 4-5-6 
+t5;0-5;0;---;4,(1-2) CBF*S;O;LAD;Max Muncy;Drew Smyly;1%;95%;Strikeout Swinging
+t5;0-5;1;---;2,(0-1) CX;O;LAD;Miguel Vargas;Drew Smyly;1%;95%;Flyball: RF
+t5;0-5;2;---;5,(2-2) CBSBX;O;LAD;James Outman;Drew Smyly;0%;96%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Cubs 5.
+Bottom of the 5th, Cubs Batting, Ahead 5-0, Dodgers' Jake Reed facing 3-4-5 
+b5;5-0;0;---;6,(3-2) BSBFBB;;CHC;Ian Happ;Jake Reed;1%;96%;Walk
+b5;5-0;0;1--;5,(2-2) 1BCCBX;;CHC;Seiya Suzuki;Jake Reed;1%;98%;Single to CF (Ground Ball); Happ to 3B
+b5;5-0;0;1-3;2,(0-1) CX;RRR;CHC;Patrick Wisdom;Jake Reed;2%;99%;Home Run (Fly Ball to Deep LF Line); Happ Scores; Suzuki Scores
+b5;8-0;0;---;5,(1-2) CFBFX;;CHC;Cody Bellinger;Jake Reed;0%;99%;Ground-rule Double (Fly Ball to LF Line)
+b5;8-0;0;-2-;1,(0-0) X;R;CHC;Trey Mancini;Jake Reed;0%;100%;Single to CF (Ground Ball); Bellinger Scores
+b5;9-0;0;1--;4,(1-2) BFFX;;CHC;Yan Gomes;Jake Reed;0%;100%;Single to RF (Ground Ball thru 2B-1B); Mancini to 2B
+;;;;;;;;;Andre Jackson replaces Jake Reed pitching
+b5;9-0;0;12-;4,(2-1) .BF.BX;O;CHC;Nick Madrigal;Andre Jackson;0%;100%;Foul Popfly: C (Behind Home)
+b5;9-0;1;12-;2,(0-1) CX;RRR;CHC;Nico Hoerner;Andre Jackson;0%;100%;Home Run (Fly Ball to Deep LF); Mancini Scores; Gomes Scores
+b5;12-0;1;---;7,(3-2) FS.BFBBX;;CHC;Dansby Swanson;Andre Jackson;0%;100%;Single to LF (Line Drive to LF-CF)
+b5;12-0;1;1--;7,(3-2) FB*BF*BFT;O;CHC;Ian Happ;Andre Jackson;0%;100%;Strikeout Swinging
+b5;12-0;2;1--;3,(1-1) CBX;O;CHC;Seiya Suzuki;Andre Jackson;0%;100%;Lineout: LF (Deep LF)
+;;;;;;;;;7 runs, 7 hits, 0 errors, 1 LOB. Dodgers 0, Cubs 12.
+Top of the 6th, Dodgers Batting, Behind 0-12, Cubs' Drew Smyly facing 7-8-9 
+t6;0-12;0;---;6,(3-2) BBFTBS;O;LAD;Trayce Thompson;Drew Smyly;0%;100%;Strikeout Swinging
+t6;0-12;1;---;6,(2-2) CBSFBX;O;LAD;Luke Williams;Drew Smyly;0%;100%;Flyball: RF (Deep RF)
+t6;0-12;2;---;5,(2-2) BBFF.X;O;LAD;Austin Wynns;Drew Smyly;0%;100%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Cubs 12.
+Bottom of the 6th, Cubs Batting, Ahead 12-0, Dodgers' Andre Jackson facing 5-6-7 
+;;;;;;;;;Miguel Vargas moves from 2B to 1B Chris Taylor replaces Freddie Freeman (1B) playing 2B batting 2nd
+b6;12-0;0;---;3,(1-1) ..FBX;;CHC;Patrick Wisdom;Andre Jackson;0%;100%;Double to LF (Line Drive to Deep LF Line)
+b6;12-0;0;-2-;4,(2-1) *BCBX;O;CHC;Cody Bellinger;Andre Jackson;0%;100%;Popfly: 2B (Short CF-RF)
+b6;12-0;1;-2-;5,(2-2) CFBBX;R;CHC;Trey Mancini;Andre Jackson;0%;100%;Single to LF (Ground Ball thru SS-3B Hole); Wisdom Scores
+b6;13-0;1;1--;3,(0-2) CFX;O;CHC;Yan Gomes;Andre Jackson;0%;100%;Flyball: CF (Deep CF)
+b6;13-0;2;1--;5,(2-2) CBF*BX;O;CHC;Nick Madrigal;Andre Jackson;0%;100%;Groundout: 1B-P
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Dodgers 0, Cubs 13.
+Top of the 7th, Dodgers Batting, Behind 0-13, Cubs' Drew Smyly facing 1-2-3 
+t7;0-13;0;---;2,(1-0) BX;O;LAD;Mookie Betts;Drew Smyly;0%;100%;Foul Popfly: 1B (1B into Foul Terr.)
+t7;0-13;1;---;6,(3-2) FBBSBC;O;LAD;Chris Taylor;Drew Smyly;0%;100%;Strikeout Looking
+t7;0-13;2;---;5,(2-2) BSBFX;O;LAD;J.D. Martinez;Drew Smyly;0%;100%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Cubs 13.
+Bottom of the 7th, Cubs Batting, Ahead 13-0, Dodgers' Andre Jackson facing 1-2-3 
+;;;;;;;;;Mookie Betts moves from RF to 2B Chris Taylor moves from 2B to 3B David Peralta replaces Max Muncy (3B) playing LF batting 4thJames Outman moves from LF to RF 
+b7;13-0;0;---;2,(1-0) ....BX;;CHC;Nico Hoerner;Andre Jackson;0%;100%;Single to 3B (Ground Ball)
+b7;13-0;0;1--;4,(1-2) CBSC;O;CHC;Dansby Swanson;Andre Jackson;0%;100%;Strikeout Looking
+b7;13-0;1;1--;4,(1-2) CBSX;O;CHC;Ian Happ;Andre Jackson;0%;100%;Groundout: 1B-SS/Forceout at 2B (2B-1B); Happ to 1B
+b7;13-0;2;1--;5,(3-1) BCBBB;;CHC;Seiya Suzuki;Andre Jackson;0%;100%;Walk; Happ to 2B
+b7;13-0;2;12-;5,(2-2) BSFBS;O;CHC;Patrick Wisdom;Andre Jackson;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Dodgers 0, Cubs 13.
+Top of the 8th, Dodgers Batting, Behind 0-13, Cubs' Drew Smyly facing 4-5-6 
+t8;0-13;0;---;2,(0-1) CX;;LAD;David Peralta;Drew Smyly;0%;100%;Single to P (Ground Ball)
+t8;0-13;0;1--;5,(2-2) CC*BBX;O;LAD;Miguel Vargas;Drew Smyly;0%;100%;Popfly: 3B
+t8;0-13;1;1--;3,(0-2) FSS;O;LAD;James Outman;Drew Smyly;0%;100%;Strikeout Swinging
+;;;;;;;;;Jeremiah Estrada replaces Drew Smyly pitching
+t8;0-13;2;1--;6,(3-2) .CBCBB>C;O;LAD;Trayce Thompson;Jeremiah Estrada;0%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 0, Cubs 13.
+Bottom of the 8th, Cubs Batting, Ahead 13-0, Dodgers' Luke Williams facing 6-7-8 
+;;;;;;;;;Luke Williams moves from SS to P Jason Heyward replaces J.D. Martinez (DH) playing 1B batting 3rdMiguel Vargas moves from 1B to 2B Mookie Betts moves from 2B to SS 
+b8;13-0;0;---;3,(2-0) ....BBX;O;CHC;Cody Bellinger;Luke Williams;0%;100%;Popfly: SS (SS-2B)
+b8;13-0;1;---;1,(0-0) X;O;CHC;Trey Mancini;Luke Williams;0%;100%;Groundout: SS-1B
+b8;13-0;2;---;2,(0-1) FX;O;CHC;Yan Gomes;Luke Williams;0%;100%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Cubs 13.
+Top of the 9th, Dodgers Batting, Behind 0-13, Cubs' Jeremiah Estrada facing 8-9-1 
+;;;;;;;;;Nick Madrigal moves from 3B to 2B Edwin Rios replaces Nico Hoerner (2B) playing 3B batting 1stLuis Torrens replaces Ian Happ playing LF batting 3rd
+t9;0-13;0;---;5,(1-2) ...CBFF.S;O;LAD;Luke Williams;Jeremiah Estrada;0%;100%;Strikeout Swinging
+t9;0-13;1;---;5,(3-1) BFBBB;;LAD;Austin Wynns;Jeremiah Estrada;0%;100%;Walk
+t9;0-13;1;1--;5,(3-1) CBBBB;;LAD;Mookie Betts;Jeremiah Estrada;0%;100%;Walk; Wynns to 2B
+t9;0-13;1;12-;6,(2-2) BFSFBC;O;LAD;Chris Taylor;Jeremiah Estrada;0%;100%;Strikeout Looking
+t9;0-13;2;12-;4,(1-2) FF*BX;O;LAD;Jason Heyward;Jeremiah Estrada;0%;100%;Lineout: 2B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Dodgers 0, Cubs 13.

@@ -1,0 +1,267 @@
+
+Scorebox Meta
+20230701
+7:07 p.m. Local
+44472
+Angel Stadium of Anaheim
+160
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/ARI-2023.png;/teams/ARI/2023.shtml;0;0;0;0;0;2;1;0;0;3;9;0
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;0;0;1;0;0;0;0;0;1;3;1
+
+Batting home
+Mickey Moniak;/players/m/moniami01.shtml;RF;4;0;0;0;0;1;4;.306;.336;.640;.976;13;9;-0.100; 0.94;0.000;-0.100;-0.06%; 1.00; -0.9;3;0;
+Mike Trout;/players/t/troutmi01.shtml;CF;3;0;0;0;1;3;4;.260;.367;.486;.853;18;9;0.001; 0.98;0.062;-0.062;0%; 1.05; -0.1;2;0;
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;4;0;0;0;0;2;4;.306;.391;.666;1.057;18;13;-0.139; 1.40;0.000;-0.139;-0.09%; 1.50; -0.9;;;
+Anthony Rendon;/players/r/rendoan01.shtml;3B;4;1;1;1;0;1;4;.243;.360;.329;.689;13;8;0.025; 1.20;0.132;-0.107; 0.02%; 1.29; 0.3;0;3;HR
+Taylor Ward;/players/w/wardta01.shtml;LF;2;0;1;0;1;0;4;.242;.317;.377;.694;14;7;0.043; 0.80;0.086;-0.042; 0.03%; 0.85; 0.4;3;0;2B,HBP
+Matt Thaiss;/players/t/thaisma01.shtml;C;3;0;0;0;1;0;4;.261;.370;.379;.749;12;7;-0.048; 1.31;0.047;-0.095;-0.03%; 1.41; -0.6;8;0;
+Hunter Renfroe;/players/r/renfrhu01.shtml;1B;4;0;0;0;0;1;4;.247;.292;.449;.742;10;9;-0.184; 1.75;0.000;-0.184;-0.12%; 1.87; -1.3;7;1;
+Luis Rengifo;/players/r/rengilu01.shtml;2B-SS;3;0;1;0;0;1;3;.204;.293;.303;.596;11;8;-0.002; 0.76;0.041;-0.043;-0.00%; 0.82; 0.1;3;2;2B
+David Fletcher;/players/f/fletcda02.shtml;SS;2;0;0;0;0;0;2;.211;.250;.289;.539;7;5;-0.052; 0.96;0.000;-0.052;-0.03%; 1.03; -0.5;1;1;
+Eduardo Escobar;/players/e/escobed01.shtml;PH-2B;1;0;0;0;0;0;1;.244;.291;.405;.695;2;2;-0.046; 1.76;0.000;-0.046;-0.03%; 1.89; -0.2;0;0;
+Tyler Anderson;/players/a/anderty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Sam Bachman;/players/b/bachmsa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chris Devenski;/players/d/devench02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Aaron Loup;/players/l/loupaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Taylor Ward (12, off Ryne Nelson); Luis Rengifo (6, off Ryne Nelson).
+
+
+HR: Anthony Rendon (2, off Ryne Nelson, 4th inn, 0 on, 2 outs to Deep LF Line).
+
+
+HBP: Taylor Ward (6, by Ryne Nelson).
+
+
+TB: Anthony Rendon 4; Luis Rengifo 2; Taylor Ward 2.
+
+
+RBI: Anthony Rendon (22).
+
+
+2-out RBI: Anthony Rendon.
+
+
+Team LOB: 6.
+With RISP: 0 for 5.
+
+Batting away
+Ketel Marte;/players/m/marteke01.shtml;2B;5;0;1;0;0;0;5;.289;.369;.508;.877;21;13;0.148; 1.27;0.199;-0.051; 0.12%; 1.69; 0.7;0;1;
+Kyle Lewis;/players/l/lewisky01.shtml;DH;3;0;1;0;2;0;5;.190;.261;.381;.642;16;7;0.087; 1.27;0.110;-0.023; 0.07%; 1.68; 0.7;;;
+Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF;5;0;0;0;0;1;5;.269;.319;.487;.806;27;18;-0.228; 1.65;0.000;-0.228;-0.18%; 2.20; -2.2;1;0;
+Alek Thomas;/players/t/thomaal01.shtml;CF;0;0;0;0;0;0;0;.222;.268;.366;.634;;;;;;;;;;0;0;
+Christian Walker;/players/w/walkech02.shtml;1B;5;0;0;0;0;2;5;.273;.338;.513;.851;25;18;-0.189; 1.46;0.000;-0.189;-0.15%; 1.94; -1.7;7;0;
+Emmanuel Rivera;/players/r/riverem01.shtml;3B;4;1;2;0;1;1;5;.311;.338;.399;.736;24;13;0.050; 0.76;0.089;-0.039; 0.04%; 1.01; 0.4;0;2;
+Gabriel Moreno;/players/m/morenga01.shtml;C;4;1;3;0;0;1;5;.271;.308;.350;.657;22;13;0.158; 0.98;0.167;-0.009; 0.12%; 1.30; 1.1;8;1;SB,HBP
+Jake McCarthy;/players/m/mccarja02.shtml;RF;4;0;1;1;0;1;4;.247;.317;.365;.682;16;8;-0.020; 1.85;0.133;-0.153;-0.02%; 2.46; -0.2;2;0;3B
+Nick Ahmed;/players/a/ahmedni01.shtml;SS;4;1;0;0;0;0;4;.223;.266;.331;.596;13;7;-0.177; 1.83;0.000;-0.177;-0.14%; 2.42; -1.6;3;1;
+Dominic Fletcher;/players/f/fletcdo01.shtml;CF-LF;3;0;1;1;1;2;4;.306;.352;.459;.810;20;13;0.169; 1.43;0.209;-0.040; 0.14%; 1.90; 0.9;5;0;
+Ryne Nelson;/players/n/nelsory01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andrew Chafin;/players/c/chafian01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Scott McGough;/players/m/mcgousc01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+3B: Jake McCarthy (5, off Chris Devenski).
+
+
+HBP: Gabriel Moreno (1, by Sam Bachman).
+
+
+TB: Gabriel Moreno 3; Jake McCarthy 3; Emmanuel Rivera 2; Ketel Marte; Dominic Fletcher; Kyle Lewis.
+
+
+RBI: Jake McCarthy (11); Dominic Fletcher (14).
+
+
+2-out RBI: Jake McCarthy; Dominic Fletcher.
+
+
+Team LOB: 12.
+With RISP: 3 for 12.
+
+Pitching home
+Tyler Anderson;/players/a/anderty01.shtml;Tyler Anderson; 5 ;5;0;0;2;3;0;5.20;22;92;54;36;6;12;5;12;6;0;58;;;0.290; 1.33; 0.19%; 1.43; 2.7
+Sam Bachman;/players/b/bachmsa01.shtml; L (1-2); 1 ;2;2;1;1;1;0;2.35;8;34;17;6;5;6;5;0;0;0;;0;0;-0.254; 2.51;-0.16%; 2.69; -1.5
+Chris Devenski;/players/d/devench02.shtml;Chris Devenski; 1 ;2;1;1;0;1;0;3.30;5;27;16;9;2;5;1;3;2;0;;0;0;-0.085; 0.96;-0.06%; 1.02; -0.5
+Aaron Loup;/players/l/loupaa01.shtml;Aaron Loup; 2 ;0;0;0;1;3;0;4.37;7;31;23;12;4;7;2;1;0;0;;0;0;0.051; 0.32; 0.03%; 0.35; 1.1
+
+Pitching away
+Ryne Nelson;/players/n/nelsory01.shtml; W (5-4); 7.1;3;1;1;1;6;1;4.67;27;84;57;35;9;13;5;14;3;0;73;;;0.356; 1.06; 0.28%; 1.41; 3.0
+Andrew Chafin;/players/c/chafian01.shtml; H (11); 0.2;0;0;0;0;2;0;2.83;2;11;7;3;2;2;0;0;0;0;;0;0;0.049; 0.94; 0.04%; 1.24; 0.3
+Scott McGough;/players/m/mcgousc01.shtml; S (7); 1 ;0;0;0;2;1;0;2.93;5;23;13;6;4;3;0;2;1;0;;0;0;0.098; 1.81; 0.08%; 2.40; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Sam Bachman (2).
+HBP: Ryne Nelson (1; Taylor Ward); Sam Bachman (1; Gabriel Moreno).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Sam Bachman (2).
+HBP: Ryne Nelson (1; Taylor Ward); Sam Bachman (1; Gabriel Moreno).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Alfonso Márquez, 1B - Doug Eddings, 2B - Lance Barrett, 3B - Ramon De Jesus, LF - (none), RF - (none).
+Time of Game: 2:40.
+Attendance: 44,472.
+Field Condition: Unknown.
+Start Time Weather: 69° F, Wind 11mph out to Leftfield, Sunny, No Precipitation.
+
+div_lineups
+Diamondbacks
+1;Ketel Marte;/players/m/marteke01.shtml;2B
+2;Kyle Lewis;/players/l/lewisky01.shtml;DH
+3;Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF
+4;Christian Walker;/players/w/walkech02.shtml;1B
+5;Emmanuel Rivera;/players/r/riverem01.shtml;3B
+6;Gabriel Moreno;/players/m/morenga01.shtml;C
+7;Jake McCarthy;/players/m/mccarja02.shtml;RF
+8;Nick Ahmed;/players/a/ahmedni01.shtml;SS
+9;Dominic Fletcher;/players/f/fletcdo01.shtml;CF
+; Ryne Nelson;/players/n/nelsory01.shtml;P
+Angels
+1;Mickey Moniak;/players/m/moniami01.shtml;RF
+2;Mike Trout;/players/t/troutmi01.shtml;CF
+3;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+4;Anthony Rendon;/players/r/rendoan01.shtml;3B
+5;Taylor Ward;/players/w/wardta01.shtml;LF
+6;Matt Thaiss;/players/t/thaisma01.shtml;C
+7;Hunter Renfroe;/players/r/renfrhu01.shtml;1B
+8;Luis Rengifo;/players/r/rengilu01.shtml;2B
+9;David Fletcher;/players/f/fletcda02.shtml;SS
+; Tyler Anderson;/players/a/anderty01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t6;0-1;2;1-3;3,(1-1) CBX;R;ARI;Dominic Fletcher;Sam Bachman;16%;50%;Single to SS (Ground Ball); Rivera Scores; Ahmed to 3B
+t6;1-1;2;1-3;3,(1-1) BSX;R;ARI;Ketel Marte;Sam Bachman;15%;65%;Reached on E5 (throw) (Ground Ball to SS-3B Hole); Ahmed Scores/No RBI/unER; Fletcher to 2B; Marte to 1B
+t7;2-1;2;-2-;4,(2-1) B>C.*BX;R;ARI;Jake McCarthy;Chris Devenski;13%;80%;Triple to RF (Line Drive to RF Line); Moreno Scores
+b4;0-0;2;---;3,(2-0) BBX;R;LAA;Anthony Rendon;Ryne Nelson;-13%;35%;Home Run (Fly Ball to Deep LF Line)
+t5;0-1;2;123;4,(1-2) TFB*S;O;ARI;Christian Walker;Tyler Anderson;-10%;29%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Diamondbacks Batting, Tied 0-0, Angels' Tyler Anderson facing 1-2-3 
+t1;0-0;0;---;4,(3-0) BBBX;O;ARI;Ketel Marte;Tyler Anderson;-2%;48%;Foul Popfly: LF (Deep LF into Foul Terr.)
+t1;0-0;1;---;4,(1-2) CBSX;O;ARI;Kyle Lewis;Tyler Anderson;-2%;46%;Flyball: LF (Deep LF-CF)
+t1;0-0;2;---;7,(3-2) CFBFBB.X;O;ARI;Lourdes Gurriel Jr.;Tyler Anderson;-1%;45%;Flyball: 2B (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 0, Angels 0.
+Bottom of the 1st, Angels Batting, Tied 0-0, Diamondbacks' Ryne Nelson facing 1-2-3 
+b1;0-0;0;---;1,(0-0) X;O;LAA;Mickey Moniak;Ryne Nelson;2%;47%;Popfly: SS (Deep SS-3B Hole)
+b1;0-0;1;---;4,(1-2) CTBT;O;LAA;Mike Trout;Ryne Nelson;2%;49%;Strikeout Swinging
+b1;0-0;2;---;5,(2-2) CF.BBX;O;LAA;Shohei Ohtani;Ryne Nelson;1%;50%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 0, Angels 0.
+Top of the 2nd, Diamondbacks Batting, Tied 0-0, Angels' Tyler Anderson facing 4-5-6 
+t2;0-0;0;---;6,(3-2) BBCFBX;O;ARI;Christian Walker;Tyler Anderson;-2%;48%;Lineout: LF (Deep LF)
+t2;0-0;1;---;1,(0-0) X;;ARI;Emmanuel Rivera;Tyler Anderson;3%;50%;Single to CF (Ground Ball)
+t2;0-0;1;1--;4,(1-2) CBFX;;ARI;Gabriel Moreno;Tyler Anderson;4%;54%;Single to CF (Line Drive to Short CF); Rivera to 2B
+t2;0-0;1;12-;5,(3-1) BBBCX;O;ARI;Jake McCarthy;Tyler Anderson;-4%;50%;Groundout: 1B-SS/Forceout at 2B; Rivera to 3B; McCarthy to 1B
+t2;0-0;2;1-3;5,(3-1) SB1*BBX;O;ARI;Nick Ahmed;Tyler Anderson;-5%;45%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Diamondbacks 0, Angels 0.
+Bottom of the 2nd, Angels Batting, Tied 0-0, Diamondbacks' Ryne Nelson facing 4-5-6 
+b2;0-0;0;---;1,(0-0) X;O;LAA;Anthony Rendon;Ryne Nelson;2%;47%;Groundout: SS-1B
+b2;0-0;1;---;6,(2-2) CBBS.FX;;LAA;Taylor Ward;Ryne Nelson;-4%;43%;Double to RF (Line Drive to Deep RF)
+b2;0-0;1;-2-;3,(1-1) BFX;O;LAA;Matt Thaiss;Ryne Nelson;3%;46%;Groundout: 1B unassisted; Ward to 3B
+b2;0-0;2;--3;2,(0-1) SX;O;LAA;Hunter Renfroe;Ryne Nelson;4%;50%;Lineout: SS
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 0, Angels 0.
+Top of the 3rd, Diamondbacks Batting, Tied 0-0, Angels' Tyler Anderson facing 9-1-2 
+t3;0-0;0;---;5,(1-2) BCCFS;O;ARI;Dominic Fletcher;Tyler Anderson;-3%;47%;Strikeout Swinging
+t3;0-0;1;---;9,(3-2) CSFBBB.FFX;O;ARI;Ketel Marte;Tyler Anderson;-2%;46%;Lineout: CF (Deep CF)
+t3;0-0;2;---;5,(3-1) FBBBB;;ARI;Kyle Lewis;Tyler Anderson;1%;47%;Walk
+t3;0-0;2;1--;4,(1-2) FCBX;O;ARI;Lourdes Gurriel Jr.;Tyler Anderson;-3%;44%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Diamondbacks 0, Angels 0.
+Bottom of the 3rd, Angels Batting, Tied 0-0, Diamondbacks' Ryne Nelson facing 8-9-1 
+b3;0-0;0;---;7,(1-2) FBCFFFS;O;LAA;Luis Rengifo;Ryne Nelson;3%;47%;Strikeout Swinging
+b3;0-0;1;---;6,(2-2) FBBFFX;O;LAA;David Fletcher;Ryne Nelson;2%;49%;Flyball: RF (Deep CF-RF)
+b3;0-0;2;---;3,(1-1) CBX;O;LAA;Mickey Moniak;Ryne Nelson;1%;50%;Flyball: RF (Short RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 0, Angels 0.
+Top of the 4th, Diamondbacks Batting, Tied 0-0, Angels' Tyler Anderson facing 4-5-6 
+t4;0-0;0;---;2,(0-1) .CX;O;ARI;Christian Walker;Tyler Anderson;-3%;47%;Flyball: RF (Deep RF)
+t4;0-0;1;---;2,(1-0) BX;O;ARI;Emmanuel Rivera;Tyler Anderson;-2%;45%;Groundout: 3B-1B (SS-3B Hole)
+t4;0-0;2;---;5,(3-1) BBBCX;;ARI;Gabriel Moreno;Tyler Anderson;2%;47%;Single to RF (Line Drive to Deep CF-RF)
+t4;0-0;2;1--;1,(0-0) X;O;ARI;Jake McCarthy;Tyler Anderson;-3%;44%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 0, Angels 0.
+Bottom of the 4th, Angels Batting, Tied 0-0, Diamondbacks' Ryne Nelson facing 2-3-4 
+b4;0-0;0;---;4,(1-2) CS.BS;O;LAA;Mike Trout;Ryne Nelson;3%;47%;Strikeout Swinging
+b4;0-0;1;---;5,(2-2) BSCBS;O;LAA;Shohei Ohtani;Ryne Nelson;2%;49%;Strikeout Swinging
+b4;0-0;2;---;3,(2-0) BBX;R;LAA;Anthony Rendon;Ryne Nelson;-13%;35%;Home Run (Fly Ball to Deep LF Line)
+b4;1-0;2;---;1,(0-0) H;;LAA;Taylor Ward;Ryne Nelson;-1%;34%;Hit By Pitch
+b4;1-0;2;1--;3,(0-2) CFX;O;LAA;Matt Thaiss;Ryne Nelson;2%;37%;Foul Popfly: LF (Short LF into Foul Terr.)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Diamondbacks 0, Angels 1.
+Top of the 5th, Diamondbacks Batting, Behind 0-1, Angels' Tyler Anderson facing 8-9-1 
+t5;0-1;0;---;3,(2-0) BBX;O;ARI;Nick Ahmed;Tyler Anderson;-3%;33%;Popfly: 1B (Deep 2B-1B)
+t5;0-1;1;---;8,(3-2) FBT.BBFFB;;ARI;Dominic Fletcher;Tyler Anderson;4%;37%;Walk
+t5;0-1;1;1--;1,(0-0) X;;ARI;Ketel Marte;Tyler Anderson;5%;42%;Single to LF (Line Drive to LF-CF); Fletcher to 2B
+t5;0-1;1;12-;1,(0-0) X;;ARI;Kyle Lewis;Tyler Anderson;8%;50%;Single to CF (Line Drive to CF-RF); Fletcher to 3B; Marte to 2B
+t5;0-1;1;123;6,(1-2) CFF*BFS;O;ARI;Lourdes Gurriel Jr.;Tyler Anderson;-10%;40%;Strikeout Swinging
+t5;0-1;2;123;4,(1-2) TFB*S;O;ARI;Christian Walker;Tyler Anderson;-10%;29%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Diamondbacks 0, Angels 1.
+Bottom of the 5th, Angels Batting, Ahead 1-0, Diamondbacks' Ryne Nelson facing 7-8-9 
+b5;1-0;0;---;1,(0-0) X;O;LAA;Hunter Renfroe;Ryne Nelson;2%;32%;Flyball: CF (CF-RF)
+b5;1-0;1;---;2,(1-0) BX;;LAA;Luis Rengifo;Ryne Nelson;-4%;28%;Double to RF (Line Drive to Deep RF Line)
+b5;1-0;1;-2-;1,(0-0) X;O;LAA;David Fletcher;Ryne Nelson;3%;31%;Popfly: SS (Deep SS-3B Hole)
+b5;1-0;2;-2-;4,(2-1) C*B*BX;O;LAA;Mickey Moniak;Ryne Nelson;3%;34%;Groundout: 2B-1B (Deep 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 0, Angels 1.
+Top of the 6th, Diamondbacks Batting, Behind 0-1, Angels' Sam Bachman facing 5-6-7 
+;;;;;;;;;Sam Bachman replaces Tyler Anderson pitching
+t6;0-1;0;---;6,(3-2) .BSBSBX;;ARI;Emmanuel Rivera;Sam Bachman;6%;40%;Single to CF (Ground Ball thru SS-2B)
+t6;0-1;0;1--;2,(0-1) CH;;ARI;Gabriel Moreno;Sam Bachman;9%;49%;Hit By Pitch; Rivera to 2B
+t6;0-1;0;12-;6,(3-2) BSTBBS;O;ARI;Jake McCarthy;Sam Bachman;-8%;41%;Strikeout Swinging
+t6;0-1;1;12-;4,(1-2) BCCX;O;ARI;Nick Ahmed;Sam Bachman;-6%;34%;Groundout: 3B-2B/Forceout at 2B (Weak 3B); Rivera to 3B; Ahmed to 1B
+t6;0-1;2;1-3;3,(1-1) CBX;R;ARI;Dominic Fletcher;Sam Bachman;16%;50%;Single to SS (Ground Ball); Rivera Scores; Ahmed to 3B
+t6;1-1;2;1-3;3,(1-1) BSX;R;ARI;Ketel Marte;Sam Bachman;15%;65%;Reached on E5 (throw) (Ground Ball to SS-3B Hole); Ahmed Scores/No RBI/unER; Fletcher to 2B; Marte to 1B
+t6;2-1;2;12-;1,(0-0) B;;ARI;Kyle Lewis;Sam Bachman;2%;66%;Wild Pitch; Fletcher to 3B; Marte to 2B
+t6;2-1;2;-23;5,(3-1) B.BBCB;;ARI;Kyle Lewis;Sam Bachman;1%;68%;Walk
+t6;2-1;2;123;5,(3-1) BBBCX;O;ARI;Lourdes Gurriel Jr.;Sam Bachman;-8%;60%;Groundout: SS-2B/Forceout at 2B; Gurriel to 1B
+;;;;;;;;;2 runs, 2 hits, 1 error, 3 LOB. Diamondbacks 2, Angels 1.
+Bottom of the 6th, Angels Batting, Behind 1-2, Diamondbacks' Ryne Nelson facing 2-3-4 
+b6;1-2;0;---;4,(3-0) BBBB;;LAA;Mike Trout;Ryne Nelson;-6%;54%;Walk
+b6;1-2;0;1--;5,(1-2) FBFFS;O;LAA;Shohei Ohtani;Ryne Nelson;6%;59%;Strikeout Swinging
+b6;1-2;1;1--;5,(2-2) CC*BBS;O;LAA;Anthony Rendon;Ryne Nelson;5%;65%;Strikeout Swinging
+b6;1-2;2;1--;1,(0-0) X;O;LAA;Taylor Ward;Ryne Nelson;4%;69%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Diamondbacks 2, Angels 1.
+Top of the 7th, Diamondbacks Batting, Ahead 2-1, Angels' Chris Devenski facing 4-5-6 
+;;;;;;;;;Chris Devenski replaces Sam Bachman pitching
+t7;2-1;0;---;10,(3-2) .CFBBFBFF.FX;O;ARI;Christian Walker;Chris Devenski;-3%;66%;Flyball: RF (Deep RF)
+t7;2-1;1;---;6,(3-2) CBBS.BS;O;ARI;Emmanuel Rivera;Chris Devenski;-2%;64%;Strikeout Swinging
+t7;2-1;2;---;6,(3-2) BCBBCX;;ARI;Gabriel Moreno;Chris Devenski;1%;66%;Single to CF (Line Drive to CF-RF)
+t7;2-1;2;1--;2,(1-0) B>C;;ARI;Jake McCarthy;Chris Devenski;1%;67%;Moreno Steals 2B
+t7;2-1;2;-2-;4,(2-1) B>C.*BX;R;ARI;Jake McCarthy;Chris Devenski;13%;80%;Triple to RF (Line Drive to RF Line); Moreno Scores
+t7;3-1;2;--3;1,(0-0) X;O;ARI;Nick Ahmed;Chris Devenski;-3%;77%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Diamondbacks 3, Angels 1.
+Bottom of the 7th, Angels Batting, Behind 1-3, Diamondbacks' Ryne Nelson facing 6-7-8 
+b7;1-3;0;---;1,(0-0) X;O;LAA;Matt Thaiss;Ryne Nelson;4%;81%;Groundout: 3B-1B (Weak 3B)
+b7;1-3;1;---;2,(0-1) CX;O;LAA;Hunter Renfroe;Ryne Nelson;3%;84%;Groundout: 3B-1B (SS-3B Hole)
+b7;1-3;2;---;2,(1-0) BX;O;LAA;Luis Rengifo;Ryne Nelson;2%;86%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 3, Angels 1.
+Top of the 8th, Diamondbacks Batting, Ahead 3-1, Angels' Aaron Loup facing 9-1-2 
+;;;;;;;;;Aaron Loup replaces Chris Devenski pitching
+t8;3-1;0;---;4,(1-2) .CCB*S;O;ARI;Dominic Fletcher;Aaron Loup;-1%;84%;Strikeout Swinging
+t8;3-1;1;---;4,(1-2) CFBX;O;ARI;Ketel Marte;Aaron Loup;-1%;83%;Groundout: P-1B (P's Left)
+t8;3-1;2;---;1,(0-0) X;O;ARI;Kyle Lewis;Aaron Loup;-1%;83%;Groundout: 1B unassisted (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 3, Angels 1.
+Bottom of the 8th, Angels Batting, Behind 1-3, Diamondbacks' Ryne Nelson facing 9-1-2 
+;;;;;;;;;Eduardo Escobar pinch hits for David Fletcher (SS) batting 9th
+b8;1-3;0;---;2,(0-1) .CX;O;LAA;Eduardo Escobar;Ryne Nelson;5%;87%;Flyball: CF (LF-CF)
+;;;;;;;;;Andrew Chafin replaces Ryne Nelson pitching
+b8;1-3;1;---;5,(1-2) .BFTF*S;O;LAA;Mickey Moniak;Andrew Chafin;3%;90%;Strikeout Swinging; Moniak out at 1B/C-1B
+b8;1-3;2;---;6,(3-2) BBCCB.*S;O;LAA;Mike Trout;Andrew Chafin;2%;92%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 3, Angels 1.
+Top of the 9th, Diamondbacks Batting, Ahead 3-1, Angels' Aaron Loup facing 3-4-5 
+;;;;;;;;;Eduardo Escobar moves from PH to 2B Luis Rengifo moves from 2B to SS 
+t9;3-1;0;---;5,(1-2) ..FC.FBX;O;ARI;Lourdes Gurriel Jr.;Aaron Loup;-1%;91%;Flyball: RF (Deep RF)
+t9;3-1;1;---;3,(0-2) SC.S;O;ARI;Christian Walker;Aaron Loup;-1%;91%;Strikeout Swinging
+t9;3-1;2;---;9,(3-2) FBBBFFFFB;;ARI;Emmanuel Rivera;Aaron Loup;0%;91%;Walk
+t9;3-1;2;1--;5,(1-2) CCFBS;O;ARI;Gabriel Moreno;Aaron Loup;-1%;90%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Diamondbacks 3, Angels 1.
+Bottom of the 9th, Angels Batting, Behind 1-3, Diamondbacks' Scott McGough facing 3-4-5 
+;;;;;;;;;Scott McGough replaces Andrew Chafin pitchingDominic Fletcher moves from CF to LF Alek Thomas replaces Lourdes Gurriel Jr. (LF) playing CF batting 3rd
+b9;1-3;0;---;3,(0-2) ...CS.X;O;LAA;Shohei Ohtani;Scott McGough;5%;95%;Lineout: 1B (2B-1B)
+b9;1-3;1;---;4,(1-2) BFS.X;O;LAA;Anthony Rendon;Scott McGough;3%;98%;Popfly: P (Front of Home)
+b9;1-3;2;---;6,(3-2) BBCF.B*B;;LAA;Taylor Ward;Scott McGough;-3%;95%;Walk
+b9;1-3;2;1--;5,(3-1) BBS.BB;;LAA;Matt Thaiss;Scott McGough;-5%;91%;Walk; Ward to 2B
+b9;1-3;2;12-;5,(1-2) CFBFS;O;LAA;Hunter Renfroe;Scott McGough;9%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Diamondbacks 3, Angels 1.

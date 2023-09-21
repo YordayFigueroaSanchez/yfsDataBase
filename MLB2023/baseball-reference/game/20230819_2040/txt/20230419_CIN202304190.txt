@@ -1,0 +1,264 @@
+
+Scorebox Meta
+20230419
+12:35 p.m. Local
+10205
+Great American Ball Park
+145
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/TBR-2023.png;/teams/TBR/2023.shtml;6;0;1;0;0;1;0;0;0;8;12;0
+https://cdn.ssref.net/req/202308101/tlogo/br/CIN-2023.png;/teams/CIN/2023.shtml;0;0;0;0;0;0;0;0;0;0;5;0
+
+Batting home
+Jonathan India;/players/i/indiajo01.shtml;2B;2;0;0;0;2;1;4;.290;.410;.435;.846;16;7;0.019; 0.27;0.026;-0.007; 0.01%; 0.19; 0.1;1;2;
+TJ Friedl;/players/f/friedtj01.shtml;CF;3;0;1;0;0;1;4;.306;.377;.500;.877;16;13;-0.023; 0.35;0.004;-0.028;-0.01%; 0.25; -0.8;2;0;SH
+Jake Fraley;/players/f/fraleja01.shtml;RF;4;0;0;0;0;0;4;.224;.350;.327;.677;14;10;-0.031; 0.27;0.000;-0.031;-0.01%; 0.20; -1.0;5;0;
+Tyler Stephenson;/players/s/stephty01.shtml;DH-1B;4;0;1;0;0;2;4;.258;.361;.290;.651;16;10;-0.025; 0.19;0.001;-0.026;-0.01%; 0.14; -0.2;0;0;
+Kevin Newman;/players/n/newmake01.shtml;3B;4;0;1;0;0;0;4;.220;.250;.390;.640;6;6;-0.018; 0.20;0.001;-0.020;-0.01%; 0.14; -0.7;1;1;
+Jason Vosler;/players/v/vosleja01.shtml;1B-P;4;0;1;0;0;3;4;.173;.204;.423;.627;21;15;0.008; 0.14;0.014;-0.006; 0.00%; 0.10; -0.4;6;1;
+Stuart Fairchild;/players/f/faircst01.shtml;LF;2;0;0;0;2;2;4;.179;.351;.393;.744;18;9;-0.006; 0.26;0.012;-0.019;-0.00%; 0.18; 0.0;2;0;
+Jose Barrero;/players/g/garcijo02.shtml;SS;3;0;1;0;1;1;4;.227;.306;.341;.647;10;5;0.009; 0.23;0.022;-0.013; 0.00%; 0.17; 0.4;3;1;
+Luke Maile;/players/m/mailelu01.shtml;C;4;0;0;0;0;2;4;.188;.188;.188;.375;14;9;-0.051; 0.30;0.000;-0.051;-0.02%; 0.21; -2.4;7;0;GDP
+Levi Stoudt;/players/s/stoudle01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Lucas Sims;/players/s/simslu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Fernando Cruz;/players/c/cruzfe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Reiver Sanmartin;/players/s/sanmare01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Derek Law;/players/l/lawde01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+SH: TJ Friedl (3, off Drew Rasmussen).
+
+
+TB: Jason Vosler; Kevin Newman; TJ Friedl; Tyler Stephenson; Jose Barrero.
+
+
+GIDP: Luke Maile (2).
+
+
+Team LOB: 9.
+With RISP: 0 for 5.
+
+Batting away
+Yandy Díaz;/players/d/diazya01.shtml;1B;4;1;2;1;1;0;5;.274;.395;.597;.992;19;13;0.085; 0.27;0.095;-0.010; 0.06%; 0.29; 1.6;8;1;HR
+Brandon Lowe;/players/l/lowebr01.shtml;2B;5;1;2;1;0;2;5;.294;.410;.608;1.018;24;14;0.025; 0.25;0.035;-0.009; 0.02%; 0.27; 0.4;1;3;GDP
+Randy Arozarena;/players/a/arozara01.shtml;DH;5;1;3;0;0;0;5;.333;.388;.542;.929;22;15;0.082; 0.31;0.086;-0.004; 0.05%; 0.34; 0.9;;;SB
+Luke Raley;/players/r/raleylu01.shtml;LF;4;0;0;0;1;2;5;.190;.286;.452;.738;23;13;-0.059; 0.36;0.003;-0.062;-0.04%; 0.39; -1.9;2;0;
+Isaac Paredes;/players/p/paredis01.shtml;3B;5;1;1;1;0;1;5;.233;.303;.400;.703;9;9;0.078; 0.42;0.093;-0.016; 0.05%; 0.46; -0.7;0;0;2B
+Josh Lowe;/players/l/lowejo01.shtml;RF;4;2;1;2;1;0;5;.362;.412;.745;1.156;14;10;0.085; 0.29;0.089;-0.004; 0.06%; 0.32; 0.9;1;0;SB
+Manuel Margot;/players/m/margoma01.shtml;CF;4;1;1;1;0;0;4;.220;.268;.380;.648;12;9;0.070; 0.30;0.083;-0.013; 0.05%; 0.33; 0.8;2;0;2B
+Taylor Walls;/players/w/wallsta01.shtml;SS;3;1;1;1;1;0;4;.350;.435;.700;1.135;23;13;0.018; 0.14;0.023;-0.005; 0.01%; 0.15; 0.9;0;5;
+Christian Bethancourt;/players/b/bethach01.shtml;C;3;0;1;0;1;1;4;.243;.333;.568;.901;16;10;-0.002; 0.14;0.007;-0.009;-0.00%; 0.15; -0.1;12;0;GDP
+Drew Rasmussen;/players/r/rasmudr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Josh Fleming;/players/f/flemijo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Pete Fairbanks;/players/f/fairbpe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Isaac Paredes (1, off Levi Stoudt); Manuel Margot (2, off Levi Stoudt).
+
+
+HR: Yandy Díaz (6, off Levi Stoudt, 1st inn, 0 on, 0 outs to Deep LF).
+
+
+TB: Yandy Díaz 5; Randy Arozarena 3; Brandon Lowe 2; Manuel Margot 2; Isaac Paredes 2; Taylor Walls; Christian Bethancourt; Josh Lowe.
+
+
+GIDP: Christian Bethancourt (1); Brandon Lowe (1).
+
+
+RBI: Josh Lowe 2 (13); Brandon Lowe (13); Isaac Paredes (11); Taylor Walls (8); Manuel Margot (6); Yandy Díaz (13).
+
+
+Team LOB: 7.
+With RISP: 5 for 12.
+
+Pitching home
+Levi Stoudt;/players/s/stoudle01.shtml; L (0-1); 4 ;9;7;7;1;3;1;15.75;21;84;56;33;7;16;8;9;4;0;18;;;-0.384; 0.48;-0.17%; 0.35; -4.7
+Lucas Sims;/players/s/simslu01.shtml;Lucas Sims; 1 ;0;0;0;1;0;0;0.00;4;13;8;3;0;5;1;2;1;0;;0;0;0.006; 0.11; 0.00%; 0.08; 0.6
+Fernando Cruz;/players/c/cruzfe01.shtml;Fernando Cruz; 1 ;2;1;1;2;2;0;5.73;7;32;19;14;3;2;2;1;1;0;;0;0;-0.006; 0.09;-0.00%; 0.06; -0.4
+Reiver Sanmartin;/players/s/sanmare01.shtml;Reiver Sanmartin; 1 ;0;0;0;0;0;0;4.15;3;10;8;5;1;2;1;2;0;0;;0;0;0.001; 0.02; 0.00%; 0.01; 0.6
+Derek Law;/players/l/lawde01.shtml;Derek Law; 1 ;0;0;0;1;1;0;3.24;3;13;7;6;0;1;1;0;0;0;;0;0;0.001; 0.02; 0.00%; 0.01; 0.6
+Jason Vosler;/players/v/vosleja01.shtml;Jason Vosler; 1 ;1;0;0;0;0;0;4.50;4;10;8;6;1;1;1;3;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.6
+
+Pitching away
+Drew Rasmussen;/players/r/rasmudr01.shtml; W (3-1); 5 ;3;0;0;3;7;0;2.01;20;78;51;26;6;19;5;5;3;0;65;;;0.104; 0.41; 0.07%; 0.45; 2.8
+Josh Fleming;/players/f/flemijo01.shtml;Josh Fleming; 3 ;1;0;0;0;3;0;4.73;10;35;25;15;6;4;4;3;1;0;;0;0;0.014; 0.06; 0.01%; 0.07; 1.7
+Pete Fairbanks;/players/f/fairbpe01.shtml;Pete Fairbanks; 1 ;1;0;0;2;2;0;0.00;6;18;8;3;3;2;0;2;2;0;;0;0;0.001; 0.02; 0.00%; 0.02; 0.6
+
+indiv_events
+
+Balks: Levi Stoudt (1).
+WP: Pete Fairbanks (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: Levi Stoudt (1).
+WP: Pete Fairbanks (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Erich Bacchus, 1B - Ryan Wills, 2B - Andy Fletcher, 3B - Mike Estabrook, LF - (none), RF - (none).
+Time of Game: 2:25.
+Attendance: 10,205.
+Field Condition: Unknown.
+Start Time Weather: 68° F, Wind 6mph in unknown direction, Sunny, No Precipitation.
+
+div_lineups
+Rays
+1;Yandy Díaz;/players/d/diazya01.shtml;1B
+2;Brandon Lowe;/players/l/lowebr01.shtml;2B
+3;Randy Arozarena;/players/a/arozara01.shtml;DH
+4;Luke Raley;/players/r/raleylu01.shtml;LF
+5;Isaac Paredes;/players/p/paredis01.shtml;3B
+6;Josh Lowe;/players/l/lowejo01.shtml;RF
+7;Manuel Margot;/players/m/margoma01.shtml;CF
+8;Taylor Walls;/players/w/wallsta01.shtml;SS
+9;Christian Bethancourt;/players/b/bethach01.shtml;C
+; Drew Rasmussen;/players/r/rasmudr01.shtml;P
+Reds
+1;Jonathan India;/players/i/indiajo01.shtml;2B
+2;TJ Friedl;/players/f/friedtj01.shtml;CF
+3;Jake Fraley;/players/f/fraleja01.shtml;RF
+4;Tyler Stephenson;/players/s/stephty01.shtml;DH
+5;Kevin Newman;/players/n/newmake01.shtml;3B
+6;Jason Vosler;/players/v/vosleja01.shtml;1B
+7;Stuart Fairchild;/players/f/faircst01.shtml;LF
+8;Jose Barrero;/players/g/garcijo02.shtml;SS
+9;Luke Maile;/players/m/mailelu01.shtml;C
+; Levi Stoudt;/players/s/stoudle01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t1;1-0;1;1-3;1,(0-0) X;R;TBR;Isaac Paredes;Levi Stoudt;9%;74%;Double to LF (Line Drive to Deep LF Line); Lowe Scores; Arozarena to 3B
+t1;0-0;0;---;3,(1-1) CBX;R;TBR;Yandy Díaz;Levi Stoudt;9%;59%;Home Run (Line Drive to Deep LF)
+t1;2-0;1;-23;2,(0-1) CX;RR;TBR;Josh Lowe;Levi Stoudt;8%;81%;Single to RF (Ground Ball thru 2B-1B); Arozarena Scores; Paredes Scores
+t1;1-0;0;1--;7,(3-2) SBBCF1B>X;;TBR;Randy Arozarena;Levi Stoudt;7%;70%;Single to LF (Line Drive to Deep LF); Lowe to 3B
+t1;4-0;1;1--;3,(1-1) CBX;R;TBR;Manuel Margot;Levi Stoudt;7%;88%;Double to LF (Ground Ball); Lowe Scores; Margot to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Rays Batting, Tied 0-0, Reds' Levi Stoudt facing 1-2-3 
+t1;0-0;0;---;3,(1-1) CBX;R;TBR;Yandy Díaz;Levi Stoudt;9%;59%;Home Run (Line Drive to Deep LF)
+t1;1-0;0;---;5,(2-2) BFCBX;;TBR;Brandon Lowe;Levi Stoudt;3%;62%;Single to CF (Ground Ball thru SS-2B)
+t1;1-0;0;1--;7,(3-2) SBBCF1B>X;;TBR;Randy Arozarena;Levi Stoudt;7%;70%;Single to LF (Line Drive to Deep LF); Lowe to 3B
+t1;1-0;0;1-3;3,(2-0) BBX;O;TBR;Luke Raley;Levi Stoudt;-5%;65%;Flyball: RF (Short CF-RF)
+t1;1-0;1;1-3;1,(0-0) X;R;TBR;Isaac Paredes;Levi Stoudt;9%;74%;Double to LF (Line Drive to Deep LF Line); Lowe Scores; Arozarena to 3B
+t1;2-0;1;-23;2,(0-1) CX;RR;TBR;Josh Lowe;Levi Stoudt;8%;81%;Single to RF (Ground Ball thru 2B-1B); Arozarena Scores; Paredes Scores
+t1;4-0;1;1--;3,(1-1) CBX;R;TBR;Manuel Margot;Levi Stoudt;7%;88%;Double to LF (Ground Ball); Lowe Scores; Margot to 3B
+t1;5-0;1;--3;,(0-0) N;R;TBR;Taylor Walls;Levi Stoudt;1%;90%;Balk; Margot Scores/No RBI
+t1;6-0;1;---;5,(2-2) N.OBCBX;O;TBR;Taylor Walls;Levi Stoudt;-1%;89%;Groundout: P-1B
+t1;6-0;2;---;2,(0-1) CX;;TBR;Christian Bethancourt;Levi Stoudt;0%;90%;Single to LF (Ground Ball)
+t1;6-0;2;1--;4,(1-2) F*BCX;O;TBR;Yandy Díaz;Levi Stoudt;-1%;89%;Flyball: RF (RF Line)
+;;;;;;;;;6 runs, 7 hits, 0 errors, 1 LOB. Rays 6, Reds 0.
+Bottom of the 1st, Reds Batting, Behind 0-6, Rays' Drew Rasmussen facing 1-2-3 
+b1;0-6;0;---;7,(3-2) CBBFBFB;;CIN;Jonathan India;Drew Rasmussen;-2%;87%;Walk
+b1;0-6;0;1--;3,(0-2) CFX;O;CIN;TJ Friedl;Drew Rasmussen;1%;88%;Bunt Groundout: P-1B/Sacrifice (Short 3B Line); India to 2B
+b1;0-6;1;-2-;1,(0-0) X;O;CIN;Jake Fraley;Drew Rasmussen;2%;90%;Lineout: CF (Deep CF)
+b1;0-6;2;-2-;5,(1-2) CBFFC;O;CIN;Tyler Stephenson;Drew Rasmussen;2%;92%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rays 6, Reds 0.
+Top of the 2nd, Rays Batting, Ahead 6-0, Reds' Levi Stoudt facing 2-3-4 
+t2;6-0;0;---;8,(3-2) BFFFBBFS;O;TBR;Brandon Lowe;Levi Stoudt;-1%;91%;Strikeout Swinging
+t2;6-0;1;---;6,(2-2) CBBFFX;;TBR;Randy Arozarena;Levi Stoudt;1%;92%;Single to RF (Line Drive to RF Line)
+t2;6-0;1;1--;2,(0-1) 1F>B;;TBR;Luke Raley;Levi Stoudt;0%;92%;Arozarena Steals 2B
+t2;6-0;1;-2-;5,(1-2) 1F>B.SFS;O;TBR;Luke Raley;Levi Stoudt;-1%;91%;Strikeout Swinging
+t2;6-0;2;-2-;1,(0-0) X;O;TBR;Isaac Paredes;Levi Stoudt;-1%;90%;Foul Popfly: C (Behind Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rays 6, Reds 0.
+Bottom of the 2nd, Reds Batting, Behind 0-6, Rays' Drew Rasmussen facing 5-6-7 
+b2;0-6;0;---;3,(0-2) CFX;O;CIN;Kevin Newman;Drew Rasmussen;1%;92%;Groundout: 1B-P (2B-1B)
+b2;0-6;1;---;4,(2-1) BCBX;;CIN;Jason Vosler;Drew Rasmussen;-1%;90%;Single to LF (Fly Ball to Short LF-CF)
+b2;0-6;1;1--;4,(1-2) CFBS;O;CIN;Stuart Fairchild;Drew Rasmussen;2%;92%;Strikeout Swinging
+b2;0-6;2;1--;4,(1-2) *BCFS;O;CIN;Jose Barrero;Drew Rasmussen;1%;93%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rays 6, Reds 0.
+Top of the 3rd, Rays Batting, Ahead 6-0, Reds' Levi Stoudt facing 6-7-8 
+t3;6-0;0;---;5,(3-1) BBBCB;;TBR;Josh Lowe;Levi Stoudt;1%;94%;Walk
+t3;6-0;0;1--;1,(0-0) >C;;TBR;Manuel Margot;Levi Stoudt;1%;94%;Lowe Steals 2B
+t3;6-0;0;-2-;3,(0-2) >C.SX;O;TBR;Manuel Margot;Levi Stoudt;-1%;93%;Flyball: RF (Short RF)
+t3;6-0;1;-2-;6,(3-2) BBBCFX;R;TBR;Taylor Walls;Levi Stoudt;2%;95%;Single to RF (Ground Ball thru 2B-1B); Lowe Scores
+t3;7-0;1;1--;3,(0-2) SSX;OO;TBR;Christian Bethancourt;Levi Stoudt;-1%;95%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Rays 7, Reds 0.
+Bottom of the 3rd, Reds Batting, Behind 0-7, Rays' Drew Rasmussen facing 9-1-2 
+b3;0-7;0;---;5,(2-2) CBCBS;O;CIN;Luke Maile;Drew Rasmussen;1%;95%;Strikeout Swinging
+b3;0-7;1;---;4,(1-2) BCCS;O;CIN;Jonathan India;Drew Rasmussen;1%;96%;Strikeout Swinging
+b3;0-7;2;---;5,(2-2) FFBBX;;CIN;TJ Friedl;Drew Rasmussen;0%;96%;Single to LF (Line Drive)
+b3;0-7;2;1--;2,(1-0) B>X;O;CIN;Jake Fraley;Drew Rasmussen;1%;96%;Flyball: LF (Short LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rays 7, Reds 0.
+Top of the 4th, Rays Batting, Ahead 7-0, Reds' Levi Stoudt facing 1-2-3 
+t4;7-0;0;---;4,(0-2) CFFX;O;TBR;Yandy Díaz;Levi Stoudt;0%;96%;Flyball: RF (Short RF)
+t4;7-0;1;---;6,(3-2) BBBCFC;O;TBR;Brandon Lowe;Levi Stoudt;0%;96%;Strikeout Looking
+t4;7-0;2;---;2,(0-1) CX;O;TBR;Randy Arozarena;Levi Stoudt;0%;96%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 7, Reds 0.
+Bottom of the 4th, Reds Batting, Behind 0-7, Rays' Drew Rasmussen facing 4-5-6 
+b4;0-7;0;---;5,(2-2) CCBBC;O;CIN;Tyler Stephenson;Drew Rasmussen;1%;97%;Strikeout Looking
+b4;0-7;1;---;1,(0-0) X;O;CIN;Kevin Newman;Drew Rasmussen;1%;97%;Groundout: SS-1B (SS-3B Hole)
+b4;0-7;2;---;8,(2-2) CFBFBFFS;O;CIN;Jason Vosler;Drew Rasmussen;0%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 7, Reds 0.
+Top of the 5th, Rays Batting, Ahead 7-0, Reds' Lucas Sims facing 4-5-6 
+;;;;;;;;;Lucas Sims replaces Levi Stoudt pitching
+t5;7-0;0;---;5,(3-1) .BBBCB;;TBR;Luke Raley;Lucas Sims;0%;98%;Walk
+t5;7-0;0;1--;3,(0-2) CCX;O;TBR;Isaac Paredes;Lucas Sims;0%;97%;Lineout: LF (Deep LF)
+t5;7-0;1;1--;2,(0-1) CX;O;TBR;Josh Lowe;Lucas Sims;0%;97%;Groundout: SS unassisted/Forceout at 2B; Lowe to 1B
+t5;7-0;2;1--;3,(1-1) 1BCX;O;TBR;Manuel Margot;Lucas Sims;0%;97%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rays 7, Reds 0.
+Bottom of the 5th, Reds Batting, Behind 0-7, Rays' Drew Rasmussen facing 7-8-9 
+b5;0-7;0;---;7,(3-2) CBSBBFB;;CIN;Stuart Fairchild;Drew Rasmussen;-1%;96%;Walk
+b5;0-7;0;1--;1,(0-0) X;;CIN;Jose Barrero;Drew Rasmussen;-2%;93%;Single to LF (Line Drive to Deep LF-CF); Fairchild to 2B
+b5;0-7;0;12-;1,(0-0) X;OO;CIN;Luke Maile;Drew Rasmussen;4%;97%;Ground Ball Double Play: SS-2B-1B (Deep SS); Fairchild to 3B
+b5;0-7;2;--3;4,(3-0) BBBB;;CIN;Jonathan India;Drew Rasmussen;0%;97%;Walk
+b5;0-7;2;1-3;4,(0-2) CC>F.X;O;CIN;TJ Friedl;Drew Rasmussen;1%;98%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Rays 7, Reds 0.
+Top of the 6th, Rays Batting, Ahead 7-0, Reds' Fernando Cruz facing 8-9-1 
+;;;;;;;;;Fernando Cruz replaces Lucas Sims pitching
+t6;7-0;0;---;8,(3-2) .BBFS.FBFB;;TBR;Taylor Walls;Fernando Cruz;0%;98%;Walk
+t6;7-0;0;1--;6,(3-2) FFBBBB;;TBR;Christian Bethancourt;Fernando Cruz;0%;99%;Walk; Walls to 2B
+t6;7-0;0;12-;1,(0-0) X;;TBR;Yandy Díaz;Fernando Cruz;0%;99%;Single to SS (Ground Ball to SS-3B Hole); Walls to 3B; Bethancourt to 2B
+t6;7-0;0;123;4,(2-1) BFBX;R;TBR;Brandon Lowe;Fernando Cruz;0%;100%;Single to RF (Ground Ball thru 2B-1B); Walls Scores; Bethancourt to 3B; Díaz to 2B
+t6;8-0;0;123;3,(1-1) BFX;O;TBR;Randy Arozarena;Fernando Cruz;0%;99%;Lineout: RF
+t6;8-0;1;123;7,(2-2) FBBCFFC;O;TBR;Luke Raley;Fernando Cruz;0%;99%;Strikeout Looking
+t6;8-0;2;123;3,(0-2) F*SS;O;TBR;Isaac Paredes;Fernando Cruz;0%;99%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 3 LOB. Rays 8, Reds 0.
+Bottom of the 6th, Reds Batting, Behind 0-8, Rays' Josh Fleming facing 3-4-5 
+;;;;;;;;;Josh Fleming replaces Drew Rasmussen pitching
+b6;0-8;0;---;4,(1-2) .CBSX;O;CIN;Jake Fraley;Josh Fleming;0%;99%;Flyball: RF (CF-RF)
+b6;0-8;1;---;4,(2-1) FBBX;O;CIN;Tyler Stephenson;Josh Fleming;0%;99%;Groundout: SS-1B (Deep SS)
+b6;0-8;2;---;1,(0-0) X;;CIN;Kevin Newman;Josh Fleming;0%;99%;Single to RF (Line Drive to CF-RF)
+b6;0-8;2;1--;5,(1-2) CFF*BS;O;CIN;Jason Vosler;Josh Fleming;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rays 8, Reds 0.
+Top of the 7th, Rays Batting, Ahead 8-0, Reds' Reiver Sanmartin facing 6-7-8 
+;;;;;;;;;Reiver Sanmartin replaces Fernando Cruz pitching
+t7;8-0;0;---;3,(0-2) .TFX;O;TBR;Josh Lowe;Reiver Sanmartin;0%;99%;Flyball: CF (Deep CF)
+t7;8-0;1;---;3,(1-1) CBX;O;TBR;Manuel Margot;Reiver Sanmartin;0%;99%;Groundout: 2B-1B
+t7;8-0;2;---;4,(1-2) CBSX;O;TBR;Taylor Walls;Reiver Sanmartin;0%;99%;Popfly: SS (Deep SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 8, Reds 0.
+Bottom of the 7th, Reds Batting, Behind 0-8, Rays' Josh Fleming facing 7-8-9 
+b7;0-8;0;---;3,(0-2) FS.T;O;CIN;Stuart Fairchild;Josh Fleming;0%;100%;Strikeout Swinging
+b7;0-8;1;---;1,(0-0) X;O;CIN;Jose Barrero;Josh Fleming;0%;100%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;Force Play Challenged by CIN manager (David Bell): Original call upheld upon review.
+b7;0-8;2;---;5,(3-1) CBBBX;O;CIN;Luke Maile;Josh Fleming;0%;100%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 8, Reds 0.
+Top of the 8th, Rays Batting, Ahead 8-0, Reds' Derek Law facing 9-1-2 
+;;;;;;;;;Derek Law replaces Reiver Sanmartin pitching
+t8;8-0;0;---;5,(2-2) .FFBBT;O;TBR;Christian Bethancourt;Derek Law;0%;100%;Strikeout Swinging
+t8;8-0;1;---;7,(3-2) BBBCF.F*B;;TBR;Yandy Díaz;Derek Law;0%;100%;Walk
+t8;8-0;1;1--;1,(0-0) X;OO;TBR;Brandon Lowe;Derek Law;0%;100%;Ground Ball Double Play: 1B-SS
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 8, Reds 0.
+Bottom of the 8th, Reds Batting, Behind 0-8, Rays' Josh Fleming facing 1-2-3 
+b8;0-8;0;---;1,(0-0) X;O;CIN;Jonathan India;Josh Fleming;0%;100%;Groundout: SS-1B
+b8;0-8;1;---;4,(1-2) CBS.S;O;CIN;TJ Friedl;Josh Fleming;0%;100%;Strikeout Swinging
+b8;0-8;2;---;7,(2-2) BSF.BFFX;O;CIN;Jake Fraley;Josh Fleming;0%;100%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 8, Reds 0.
+Top of the 9th, Rays Batting, Ahead 8-0, Reds' Jason Vosler facing 3-4-5 
+;;;;;;;;;Jason Vosler moves from 1B to P Tyler Stephenson moves from DH to 1B (team loses DH)
+t9;8-0;0;---;4,(1-2) ..BSCX;;TBR;Randy Arozarena;Jason Vosler;0%;100%;Single to CF (Ground Ball)
+t9;8-0;0;1--;3,(1-1) FBX;O;TBR;Luke Raley;Jason Vosler;0%;100%;Popfly: P (Short 3B Line)
+t9;8-0;1;1--;1,(0-0) X;O;TBR;Isaac Paredes;Jason Vosler;0%;100%;Flyball: LF (Deep LF)
+t9;8-0;2;1--;2,(0-1) TX;O;TBR;Josh Lowe;Jason Vosler;0%;100%;Popfly: 3B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rays 8, Reds 0.
+Bottom of the 9th, Reds Batting, Behind 0-8, Rays' Pete Fairbanks facing 4-5-6 
+;;;;;;;;;Pete Fairbanks replaces Josh Fleming pitching
+b9;0-8;0;---;2,(1-0) .BX;;CIN;Tyler Stephenson;Pete Fairbanks;0%;100%;Single to CF (Line Drive to Deep CF)
+b9;0-8;0;1--;1,(0-0) X;O;CIN;Kevin Newman;Pete Fairbanks;0%;100%;Lineout: LF
+b9;0-8;1;1--;4,(1-2) *SBFC;O;CIN;Jason Vosler;Pete Fairbanks;0%;100%;Strikeout Looking
+b9;0-8;2;1--;4,(3-0) B*BB.B;;CIN;Stuart Fairchild;Pete Fairbanks;0%;100%;Walk; Stephenson to 2B
+b9;0-8;2;12-;2,(1-0) BB;;CIN;Jose Barrero;Pete Fairbanks;0%;100%;Wild Pitch; Stephenson to 3B; Fairchild to 2B
+b9;0-8;2;-23;4,(3-0) BB.BB;;CIN;Jose Barrero;Pete Fairbanks;0%;100%;Walk
+b9;0-8;2;123;3,(0-2) CSS;O;CIN;Luke Maile;Pete Fairbanks;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Rays 8, Reds 0.

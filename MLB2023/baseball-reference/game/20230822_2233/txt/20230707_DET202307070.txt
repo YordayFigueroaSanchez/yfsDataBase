@@ -1,0 +1,276 @@
+
+Scorebox Meta
+20230707
+6:40 p.m. Local
+30029
+Comerica Park
+171
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/TOR-2023.png;/teams/TOR/2023.shtml;0;0;1;6;0;0;0;0;5;12;14;0
+https://cdn.ssref.net/req/202308101/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;0;0;1;0;0;0;0;1;0;2;7;1
+
+Batting home
+Zach McKinstry;/players/m/mckinza01.shtml;3B;4;1;1;0;0;1;4;.250;.331;.375;.706;12;9;-0.085; 0.85;0.004;-0.090;-0.02%; 0.33; -0.7;2;1;
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;4;0;1;1;0;2;4;.225;.308;.398;.706;15;12;0.088; 0.88;0.116;-0.028; 0.02%; 0.34; 0.3;3;1;
+Matt Vierling;/players/v/vierlma01.shtml;CF;4;0;3;1;0;0;4;.284;.346;.427;.773;22;14;0.006; 0.74;0.037;-0.031; 0.00%; 0.28; 1.2;7;0;
+Kerry Carpenter;/players/c/carpeke01.shtml;RF;4;0;0;0;0;1;4;.267;.325;.486;.811;13;10;-0.112; 0.99;0.000;-0.112;-0.03%; 0.38; -1.4;4;0;
+Javier Báez;/players/b/baezja01.shtml;SS;4;0;0;0;0;2;4;.223;.259;.330;.590;15;11;-0.039; 0.38;0.000;-0.039;-0.01%; 0.14; -0.9;1;1;
+Akil Baddoo;/players/b/baddoak01.shtml;LF;4;0;0;0;0;2;4;.224;.333;.333;.667;20;13;-0.029; 0.29;0.000;-0.029;-0.01%; 0.11; -0.7;0;0;
+Miguel Cabrera;/players/c/cabremi01.shtml;DH;2;0;0;0;1;1;3;.245;.330;.327;.657;13;5;-0.008; 0.25;0.007;-0.014;-0.00%; 0.10; 0.1;;;
+Zack Short;/players/s/shortza01.shtml;P;1;0;0;0;0;1;1;.220;.290;.356;.646;7;4;0.000; 0.00;0.000;0.000;0%; 0.00; -0.1;1;0;
+Andy Ibáñez;/players/i/ibanean01.shtml;2B;3;1;1;0;0;0;3;.230;.265;.406;.672;6;6;0.024; 0.58;0.044;-0.020; 0.01%; 0.22; -0.4;5;2;GDP
+Jake Rogers;/players/r/rogerja03.shtml;C;3;0;1;0;0;1;3;.201;.297;.453;.750;13;9;0.058; 0.72;0.068;-0.010; 0.01%; 0.27; 0.2;4;0;
+Alex Faedo;/players/f/faedoal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Mason Englert;/players/e/englema01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brendan White;/players/w/whitebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chasen Shreve;/players/s/shrevch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Cisnero;/players/c/cisnejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+TB: Matt Vierling 3; Jake Rogers; Spencer Torkelson; Andy Ibáñez; Zach McKinstry.
+
+
+GIDP: Andy Ibáñez (5).
+
+
+RBI: Spencer Torkelson (43); Matt Vierling (24).
+
+
+2-out RBI: Matt Vierling.
+
+
+Team LOB: 5.
+With RISP: 1 for 5.
+
+Batting away
+George Springer;/players/s/springe01.shtml;RF;5;1;2;3;0;0;6;.269;.330;.422;.752;21;15;0.172; 0.41;0.200;-0.028; 0.11%; 0.43; 2.0;0;0;HR,2B,HBP
+Bo Bichette;/players/b/bichebo01.shtml;SS;6;1;3;0;0;1;6;.323;.350;.505;.856;18;15;-0.046; 0.33;0.005;-0.051;-0.03%; 0.34; 0.1;0;2;2B
+Brandon Belt;/players/b/beltbr01.shtml;DH;4;2;0;0;2;1;6;.250;.367;.427;.794;24;10;0.054; 0.47;0.076;-0.022; 0.03%; 0.48; 0.1;;;
+Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;1B;5;2;2;1;0;0;5;.280;.348;.452;.801;15;11;0.052; 0.53;0.080;-0.028; 0.03%; 0.54; 1.0;4;0;
+Matt Chapman;/players/c/chapmma01.shtml;3B;2;2;0;0;3;0;5;.260;.343;.461;.803;27;13;0.031; 0.53;0.048;-0.016; 0.02%; 0.55; 1.7;0;0;
+Whit Merrifield;/players/m/merriwh01.shtml;2B;5;2;2;4;0;0;5;.286;.342;.395;.736;23;13;0.071; 0.62;0.089;-0.018; 0.04%; 0.64; 1.6;3;1;HR,GDP
+Daulton Varsho;/players/v/varshda01.shtml;LF;5;0;0;0;0;1;5;.217;.281;.374;.655;18;13;-0.091; 0.60;0.000;-0.091;-0.06%; 0.62; -1.7;4;0;
+Danny Jansen;/players/j/janseda01.shtml;C;4;1;1;2;0;0;5;.226;.283;.452;.735;18;9;0.131; 0.66;0.149;-0.018; 0.08%; 0.68; 1.7;11;0;2B,HBP
+Kevin Kiermaier;/players/k/kiermke01.shtml;CF;5;1;4;1;0;0;5;.278;.339;.434;.773;15;10;0.027; 0.29;0.027;0.000; 0.02%; 0.30; 0.9;5;0;
+Alek Manoah;/players/m/manoaal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Mitch White;/players/w/whitemi03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bowden Francis;/players/f/francbo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: George Springer (12, off Alex Faedo); Danny Jansen (10, off Alex Faedo); Bo Bichette (22, off Mason Englert).
+
+
+HR: George Springer (13, off Alex Faedo, 4th inn, 1 on, 2 outs to Deep LF Line); Whit Merrifield (5, off José Cisnero, 9th inn, 2 on, 0 outs to Deep LF).
+
+
+HBP: Danny Jansen (1, by Mason Englert); George Springer (3, by Zack Short).
+
+
+TB: George Springer 6; Whit Merrifield 5; Kevin Kiermaier 4; Bo Bichette 4; Danny Jansen 2; Vladimir Guerrero Jr. 2.
+
+
+GIDP: Whit Merrifield (9).
+
+
+RBI: Whit Merrifield 4 (38); George Springer 3 (39); Danny Jansen 2 (35); Vladimir Guerrero Jr. (58); Kevin Kiermaier (19).
+
+
+2-out RBI: George Springer 3.
+
+
+Team LOB: 9.
+With RISP: 7 for 15.
+
+Pitching home
+Alex Faedo;/players/f/faedoal01.shtml; L (1-4); 3.2;6;7;7;2;2;1;6.98;19;72;47;27;6;14;4;11;4;0;21;;;-0.414; 1.12;-0.10%; 0.43; -5.1
+Mason Englert;/players/e/englema01.shtml;Mason Englert; 2.1;2;0;0;1;0;0;4.35;11;44;24;18;3;3;0;9;3;0;;0;0;0.014; 0.13; 0.00%; 0.05; 1.1
+Brendan White;/players/w/whitebr01.shtml;Brendan White; 1 ;0;0;0;0;0;0;5.02;3;9;7;4;0;3;2;1;1;0;;0;0;0.003; 0.08; 0.00%; 0.03; 0.5
+Chasen Shreve;/players/s/shrevch01.shtml;Chasen Shreve; 1 ;1;0;0;0;1;0;4.78;4;18;10;8;1;1;2;1;0;0;;0;0;0.002; 0.02; 0.00%; 0.01; 0.5
+José Cisnero;/players/c/cisnejo01.shtml;José Cisnero; 0 ;3;5;5;2;0;1;3.55;5;24;13;9;0;4;1;2;1;0;;0;0;-0.006; 0.03;-0.00%; 0.01; -5.0
+Zack Short;/players/s/shortza01.shtml;Zack Short; 1 ;2;0;0;0;0;0;4.50;6;12;8;7;0;1;1;4;1;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+Pitching away
+Alek Manoah;/players/m/manoaal01.shtml; W (2-7); 6 ;5;1;1;0;8;0;5.91;23;91;64;41;9;14;5;10;3;0;66;;;0.084; 0.85; 0.05%; 0.88; 2.0
+Mitch White;/players/w/whitemi03.shtml;Mitch White; 1.2;2;1;1;1;1;0;3.72;7;29;18;11;2;5;2;3;1;0;;0;0;0.010; 0.19; 0.01%; 0.20; -0.2
+Bowden Francis;/players/f/francbo01.shtml;Bowden Francis; 1.1;0;0;0;0;2;0;2.63;4;16;11;5;4;2;0;2;0;0;;1;0;0.005; 0.05; 0.00%; 0.05; 0.7
+
+indiv_events
+
+Balks: Alek Manoah (3).
+WP: Alex Faedo (1); José Cisnero (4).
+HBP: Zack Short (1; George Springer); Mason Englert (2; Danny Jansen).
+IBB: None.
+Pickoffs: None.
+
+Balks: Alek Manoah (3).
+WP: Alex Faedo (1); José Cisnero (4).
+HBP: Zack Short (1; George Springer); Mason Englert (2; Danny Jansen).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Jeremy Riggs, 1B - Erich Bacchus, 2B - Andy Fletcher, 3B - Mike Estabrook, LF - (none), RF - (none).
+Time of Game: 2:51.
+Attendance: 30,029.
+Field Condition: Unknown.
+Start Time Weather: 79° F, Wind 8mph in from Centerfield, Cloudy, No Precipitation.
+
+div_lineups
+Blue Jays
+1;George Springer;/players/s/springe01.shtml;RF
+2;Bo Bichette;/players/b/bichebo01.shtml;SS
+3;Brandon Belt;/players/b/beltbr01.shtml;DH
+4;Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;1B
+5;Matt Chapman;/players/c/chapmma01.shtml;3B
+6;Whit Merrifield;/players/m/merriwh01.shtml;2B
+7;Daulton Varsho;/players/v/varshda01.shtml;LF
+8;Danny Jansen;/players/j/janseda01.shtml;C
+9;Kevin Kiermaier;/players/k/kiermke01.shtml;CF
+; Alek Manoah;/players/m/manoaal01.shtml;P
+Tigers
+1;Zach McKinstry;/players/m/mckinza01.shtml;3B
+2;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+3;Matt Vierling;/players/v/vierlma01.shtml;CF
+4;Kerry Carpenter;/players/c/carpeke01.shtml;RF
+5;Javier Báez;/players/b/baezja01.shtml;SS
+6;Akil Baddoo;/players/b/baddoak01.shtml;LF
+7;Miguel Cabrera;/players/c/cabremi01.shtml;DH
+8;Andy Ibáñez;/players/i/ibanean01.shtml;2B
+9;Jake Rogers;/players/r/rogerja03.shtml;C
+; Alex Faedo;/players/f/faedoal01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t4;2-1;1;123;2,(0-1) CX;RR;TOR;Danny Jansen;Alex Faedo;15%;87%;Double to LF (Line Drive to LF-CF); Guerrero Scores; Chapman Scores; Merrifield to 3B
+t3;0-0;2;1--;3,(1-1) CBX;R;TOR;George Springer;Alex Faedo;13%;60%;Double to RF (Line Drive to Short RF Line); Kiermaier Scores
+b3;0-1;1;12-;1,(0-0) X;R;DET;Spencer Torkelson;Alek Manoah;-12%;40%;Single to CF (Ground Ball thru Weak SS-2B); Ibáñez Scores; Rogers to 2B
+t4;1-1;0;123;3,(1-1) F*BX;R;TOR;Whit Merrifield;Alex Faedo;9%;78%;Single to CF (Line Drive to Deep CF); Belt Scores; Guerrero to 3B; Chapman to 2B
+t4;1-1;0;-2-;7,(3-2) FBBSFB.X;;TOR;Vladimir Guerrero Jr.;Alex Faedo;8%;65%;Single to LF (Ground Ball thru SS-3B Hole); Belt to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Blue Jays Batting, Tied 0-0, Tigers' Alex Faedo facing 1-2-3 
+t1;0-0;0;---;3,(0-2) CSX;O;TOR;George Springer;Alex Faedo;-2%;48%;Popfly: 2B (Deep 2B-1B)
+t1;0-0;1;---;4,(0-2) CSF*S;O;TOR;Bo Bichette;Alex Faedo;-2%;46%;Strikeout Swinging
+t1;0-0;2;---;5,(2-2) BFFBS;O;TOR;Brandon Belt;Alex Faedo;-1%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Tigers 0.
+Bottom of the 1st, Tigers Batting, Tied 0-0, Blue Jays' Alek Manoah facing 1-2-3 
+b1;0-0;0;---;3,(2-0) BBX;O;DET;Zach McKinstry;Alek Manoah;2%;47%;Popfly: 2B (Deep 2B)
+b1;0-0;1;---;8,(3-2) CCFBBFBC;O;DET;Spencer Torkelson;Alek Manoah;2%;49%;Strikeout Looking
+b1;0-0;2;---;6,(2-2) ST.BFBX;;DET;Matt Vierling;Alek Manoah;-1%;48%;Single to RF (Ground Ball)
+b1;0-0;2;1--;2,(1-1) BF1N;;DET;Kerry Carpenter;Alek Manoah;-1%;47%;Balk; Vierling to 2B
+b1;0-0;2;-2-;6,(3-2) BF1N.BFBX;O;DET;Kerry Carpenter;Alek Manoah;3%;50%;Flyball: LF (LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 0, Tigers 0.
+Top of the 2nd, Blue Jays Batting, Tied 0-0, Tigers' Alex Faedo facing 4-5-6 
+t2;0-0;0;---;3,(1-1) CBX;O;TOR;Vladimir Guerrero Jr.;Alex Faedo;-2%;48%;Foul Popfly: 3B
+t2;0-0;1;---;3,(1-1) CBX;O;TOR;Matt Chapman;Alex Faedo;-2%;46%;Flyball: CF (Deep CF)
+t2;0-0;2;---;6,(3-2) BCBBFX;O;TOR;Whit Merrifield;Alex Faedo;-1%;45%;Popfly: 3B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Tigers 0.
+Bottom of the 2nd, Tigers Batting, Tied 0-0, Blue Jays' Alek Manoah facing 5-6-7 
+b2;0-0;0;---;1,(0-0) X;O;DET;Javier Báez;Alek Manoah;2%;47%;Flyball: LF (Deep LF)
+b2;0-0;1;---;6,(3-2) BBFBFC;O;DET;Akil Baddoo;Alek Manoah;2%;49%;Strikeout Looking
+b2;0-0;2;---;4,(1-2) SS.BC;O;DET;Miguel Cabrera;Alek Manoah;1%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Tigers 0.
+Top of the 3rd, Blue Jays Batting, Tied 0-0, Tigers' Alex Faedo facing 7-8-9 
+t3;0-0;0;---;3,(0-2) CCX;O;TOR;Daulton Varsho;Alex Faedo;-3%;47%;Flyball: CF (Deep CF)
+t3;0-0;1;---;5,(2-2) BCCBX;O;TOR;Danny Jansen;Alex Faedo;-2%;46%;Groundout: 2B-1B (SS-2B)
+t3;0-0;2;---;4,(2-1) FBBX;;TOR;Kevin Kiermaier;Alex Faedo;1%;47%;Single to RF (Ground Ball)
+t3;0-0;2;1--;3,(1-1) CBX;R;TOR;George Springer;Alex Faedo;13%;60%;Double to RF (Line Drive to Short RF Line); Kiermaier Scores
+t3;1-0;2;-2-;1,(0-0) X;O;TOR;Bo Bichette;Alex Faedo;-3%;57%;Lineout: RF (RF Line)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Blue Jays 1, Tigers 0.
+Bottom of the 3rd, Tigers Batting, Behind 0-1, Blue Jays' Alek Manoah facing 8-9-1 
+b3;0-1;0;---;3,(0-2) CSX;;DET;Andy Ibáñez;Alek Manoah;-4%;52%;Single to CF (Line Drive to CF-RF)
+b3;0-1;0;1--;1,(0-0) X;;DET;Jake Rogers;Alek Manoah;-7%;45%;Single to RF (Fly Ball to Short CF-RF); Ibáñez to 2B
+b3;0-1;0;12-;4,(0-2) CFFC;O;DET;Zach McKinstry;Alek Manoah;6%;52%;Strikeout Looking
+b3;0-1;1;12-;1,(0-0) X;R;DET;Spencer Torkelson;Alek Manoah;-12%;40%;Single to CF (Ground Ball thru Weak SS-2B); Ibáñez Scores; Rogers to 2B
+b3;1-1;1;12-;3,(1-1) BSX;O;DET;Matt Vierling;Alek Manoah;3%;43%;Groundout: 1B unassisted (Short 1B Line); Rogers to 3B; Torkelson to 2B
+b3;1-1;2;-23;1,(0-0) X;O;DET;Kerry Carpenter;Alek Manoah;7%;50%;Lineout: 1B
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Blue Jays 1, Tigers 1.
+Top of the 4th, Blue Jays Batting, Tied 1-1, Tigers' Alex Faedo facing 3-4-5 
+t4;1-1;0;---;5,(3-1) BBCBB;;TOR;Brandon Belt;Alex Faedo;4%;54%;Walk
+t4;1-1;0;1--;6,(2-2) FBBSFB;;TOR;Vladimir Guerrero Jr.;Alex Faedo;3%;57%;Wild Pitch; Belt to 2B
+t4;1-1;0;-2-;7,(3-2) FBBSFB.X;;TOR;Vladimir Guerrero Jr.;Alex Faedo;8%;65%;Single to LF (Ground Ball thru SS-3B Hole); Belt to 3B
+t4;1-1;0;1-3;6,(3-2) BBCBFB;;TOR;Matt Chapman;Alex Faedo;4%;69%;Walk; Guerrero to 2B
+t4;1-1;0;123;3,(1-1) F*BX;R;TOR;Whit Merrifield;Alex Faedo;9%;78%;Single to CF (Line Drive to Deep CF); Belt Scores; Guerrero to 3B; Chapman to 2B
+t4;2-1;0;123;2,(0-1) SX;O;TOR;Daulton Varsho;Alex Faedo;-6%;72%;Popfly: SS
+t4;2-1;1;123;2,(0-1) CX;RR;TOR;Danny Jansen;Alex Faedo;15%;87%;Double to LF (Line Drive to LF-CF); Guerrero Scores; Chapman Scores; Merrifield to 3B
+t4;4-1;1;-23;6,(1-2) FBCFFX;RO;TOR;Kevin Kiermaier;Alex Faedo;1%;87%;Groundout: 2B unassisted (Weak 2B-1B); Merrifield Scores
+t4;5-1;2;-2-;1,(0-0) X;RR;TOR;George Springer;Alex Faedo;7%;95%;Home Run (Fly Ball to Deep LF Line); Jansen Scores
+;;;;;;;;;Mason Englert replaces Alex Faedo pitching
+t4;7-1;2;---;3,(1-1) .SBX;;TOR;Bo Bichette;Mason Englert;0%;95%;Double to LF (Line Drive to Deep LF Line)
+t4;7-1;2;-2-;3,(2-0) BBX;O;TOR;Brandon Belt;Mason Englert;-1%;94%;Flyball: CF (Short CF)
+;;;;;;;;;6 runs, 5 hits, 0 errors, 1 LOB. Blue Jays 7, Tigers 1.
+Bottom of the 4th, Tigers Batting, Behind 1-7, Blue Jays' Alek Manoah facing 5-6-7 
+b4;1-7;0;---;3,(0-2) CFX;O;DET;Javier Báez;Alek Manoah;1%;95%;Flyball: LF (Deep LF)
+b4;1-7;1;---;5,(1-2) FFBFS;O;DET;Akil Baddoo;Alek Manoah;1%;96%;Strikeout Swinging
+b4;1-7;2;---;5,(3-1) TBBBX;O;DET;Miguel Cabrera;Alek Manoah;0%;96%;Lineout: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 7, Tigers 1.
+Top of the 5th, Blue Jays Batting, Ahead 7-1, Tigers' Mason Englert facing 4-5-6 
+t5;7-1;0;---;1,(0-0) X;O;TOR;Vladimir Guerrero Jr.;Mason Englert;0%;96%;Flyball: CF (Deep CF)
+t5;7-1;1;---;6,(3-2) BBBCF*B;;TOR;Matt Chapman;Mason Englert;0%;96%;Walk
+t5;7-1;1;1--;4,(2-1) BC*BX;O;TOR;Whit Merrifield;Mason Englert;0%;96%;Popfly: 2B (Deep 2B)
+t5;7-1;2;1--;6,(3-2) SBFBB>X;O;TOR;Daulton Varsho;Mason Englert;0%;96%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Blue Jays 7, Tigers 1.
+Bottom of the 5th, Tigers Batting, Behind 1-7, Blue Jays' Alek Manoah facing 8-9-1 
+b5;1-7;0;---;1,(0-0) X;O;DET;Andy Ibáñez;Alek Manoah;1%;97%;Flyball: CF (Short CF)
+b5;1-7;1;---;8,(3-2) FBCBFBFX;O;DET;Jake Rogers;Alek Manoah;1%;97%;Groundout: SS-1B (Short LF-CF)
+b5;1-7;2;---;1,(0-0) X;O;DET;Zach McKinstry;Alek Manoah;0%;97%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 7, Tigers 1.
+Top of the 6th, Blue Jays Batting, Ahead 7-1, Tigers' Mason Englert facing 8-9-1 
+t6;7-1;0;---;1,(0-0) H;;TOR;Danny Jansen;Mason Englert;0%;98%;Hit By Pitch
+t6;7-1;0;1--;3,(2-0) BBX;;TOR;Kevin Kiermaier;Mason Englert;0%;98%;Single to LF (Line Drive to Short LF-CF); Jansen to 2B
+t6;7-1;0;12-;6,(1-2) S*BFFFX;O;TOR;George Springer;Mason Englert;0%;98%;Lineout: CF
+t6;7-1;1;12-;7,(2-2) BFFFBFX;O;TOR;Bo Bichette;Mason Englert;0%;98%;Flyball: CF (Deep CF-RF); Jansen to 3B; Kiermaier to 2B
+t6;7-1;2;-23;4,(2-1) BCBX;O;TOR;Brandon Belt;Mason Englert;-1%;97%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Blue Jays 7, Tigers 1.
+Bottom of the 6th, Tigers Batting, Behind 1-7, Blue Jays' Alek Manoah facing 2-3-4 
+b6;1-7;0;---;3,(0-2) CF.S;O;DET;Spencer Torkelson;Alek Manoah;1%;98%;Strikeout Swinging
+b6;1-7;1;---;7,(2-2) CF.BBFFX;;DET;Matt Vierling;Alek Manoah;-1%;97%;Single to SS (Ground Ball)
+b6;1-7;1;1--;4,(0-2) CFFS;O;DET;Kerry Carpenter;Alek Manoah;1%;98%;Strikeout Swinging
+b6;1-7;2;1--;7,(3-2) CFBBB>F>S;O;DET;Javier Báez;Alek Manoah;1%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 7, Tigers 1.
+Top of the 7th, Blue Jays Batting, Ahead 7-1, Tigers' Brendan White facing 4-5-6 
+;;;;;;;;;Brendan White replaces Mason Englert pitching
+t7;7-1;0;---;2,(0-1) .CX;O;TOR;Vladimir Guerrero Jr.;Brendan White;0%;98%;Lineout: 2B (Deep SS-2B)
+t7;7-1;1;---;4,(1-2) BCC.X;;TOR;Matt Chapman;Brendan White;0%;98%;Reached on E5 (throw) (Ground Ball to SS-3B Hole); Chapman to 1B
+t7;7-1;1;1--;3,(1-1) FBX;OO;TOR;Whit Merrifield;Brendan White;0%;98%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 1 error, 0 LOB. Blue Jays 7, Tigers 1.
+Bottom of the 7th, Tigers Batting, Behind 1-7, Blue Jays' Mitch White facing 6-7-8 
+;;;;;;;;;Mitch White replaces Alek Manoah pitching
+b7;1-7;0;---;6,(2-2) .BCFBFX;O;DET;Akil Baddoo;Mitch White;1%;99%;Flyball: CF
+b7;1-7;1;---;4,(3-0) BBBB;;DET;Miguel Cabrera;Mitch White;-1%;98%;Walk
+b7;1-7;1;1--;2,(0-1) CX;OO;DET;Andy Ibáñez;Mitch White;1%;99%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 7, Tigers 1.
+Top of the 8th, Blue Jays Batting, Ahead 7-1, Tigers' Chasen Shreve facing 7-8-9 
+;;;;;;;;;Chasen Shreve replaces Brendan White pitching
+t8;7-1;0;---;6,(2-2) .BFBSFT;O;TOR;Daulton Varsho;Chasen Shreve;0%;99%;Strikeout Swinging
+t8;7-1;1;---;5,(3-1) BBBCX;O;TOR;Danny Jansen;Chasen Shreve;0%;99%;Groundout: 3B-1B (SS-3B Hole)
+t8;7-1;2;---;1,(0-0) X;;TOR;Kevin Kiermaier;Chasen Shreve;0%;99%;Single to RF (Ground Ball thru 2B-1B)
+t8;7-1;2;1--;6,(3-2) FBBBF>X;O;TOR;George Springer;Chasen Shreve;0%;99%;Flyball: RF (Short CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 7, Tigers 1.
+Bottom of the 8th, Tigers Batting, Behind 1-7, Blue Jays' Mitch White facing 9-1-2 
+b8;1-7;0;---;4,(1-2) BSFS;O;DET;Jake Rogers;Mitch White;0%;99%;Strikeout Swinging
+b8;1-7;1;---;4,(1-2) CFBX;;DET;Zach McKinstry;Mitch White;0%;99%;Single to CF (Line Drive to Short CF)
+b8;1-7;1;1--;3,(0-2) CFX;O;DET;Spencer Torkelson;Mitch White;0%;100%;Popfly: 2B (Deep 2B-1B)
+b8;1-7;2;1--;6,(3-2) *B*BCFB.>X;R;DET;Matt Vierling;Mitch White;-1%;99%;Single to CF (Ground Ball thru SS-2B); McKinstry Scores
+;;;;;;;;;Bowden Francis replaces Mitch White pitching
+b8;2-7;2;1--;2,(0-1) .CX;O;DET;Kerry Carpenter;Bowden Francis;1%;99%;Flyball: LF (Deep LF Line)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Blue Jays 7, Tigers 2.
+Top of the 9th, Blue Jays Batting, Ahead 7-2, Tigers' José Cisnero facing 2-3-4 
+;;;;;;;;;José Cisnero replaces Chasen Shreve pitching
+t9;7-2;0;---;1,(0-0) .X;;TOR;Bo Bichette;José Cisnero;0%;99%;Single to 2B (Ground Ball to SS-2B)
+t9;7-2;0;1--;6,(3-2) BBFBFB;;TOR;Brandon Belt;José Cisnero;0%;100%;Walk; Bichette to 2B
+t9;7-2;0;12-;2,(0-1) CX;R;TOR;Vladimir Guerrero Jr.;José Cisnero;0%;100%;Single to CF (Line Drive to Deep CF-RF); Bichette Scores; Belt to 2B
+t9;8-2;0;12-;8,(3-2) CBCBBFFB;;TOR;Matt Chapman;José Cisnero;0%;100%;Walk; Belt to 3B; Guerrero to 2B
+t9;8-2;0;123;1,(0-0) B;R;TOR;Whit Merrifield;José Cisnero;0%;100%;Wild Pitch; Belt Scores/No RBI; Guerrero to 3B; Chapman to 2B
+t9;9-2;0;-23;7,(3-2) B.BBCFFX;RRR;TOR;Whit Merrifield;José Cisnero;0%;100%;Home Run (Fly Ball to Deep LF); Guerrero Scores; Chapman Scores
+;;;;;;;;;Zack Short replaces Miguel Cabrera (DH) pitching and batting 7th
+t9;12-2;0;---;1,(0-0) .X;O;TOR;Daulton Varsho;Zack Short;0%;100%;Flyball: RF (CF-RF)
+t9;12-2;1;---;5,(3-1) BBFBX;O;TOR;Danny Jansen;Zack Short;0%;100%;Foul Popfly: C (Behind Home)
+t9;12-2;2;---;1,(0-0) X;;TOR;Kevin Kiermaier;Zack Short;0%;100%;Single to RF (Fly Ball to Deep RF)
+t9;12-2;2;1--;2,(0-1) CH;;TOR;George Springer;Zack Short;0%;100%;Hit By Pitch; Kiermaier to 2B
+t9;12-2;2;12-;2,(0-1) FX;;TOR;Bo Bichette;Zack Short;0%;100%;Single to CF (Line Drive to Deep CF); Kiermaier to 3B; Springer to 2B
+t9;12-2;2;123;1,(0-0) X;O;TOR;Brandon Belt;Zack Short;0%;100%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;5 runs, 5 hits, 0 errors, 3 LOB. Blue Jays 12, Tigers 2.
+Bottom of the 9th, Tigers Batting, Behind 2-12, Blue Jays' Bowden Francis facing 5-6-7 
+b9;2-12;0;---;4,(1-2) CSBS;O;DET;Javier Báez;Bowden Francis;0%;100%;Strikeout Swinging
+b9;2-12;1;---;3,(1-1) BSX;O;DET;Akil Baddoo;Bowden Francis;0%;100%;Flyball: CF (Deep CF-RF)
+b9;2-12;2;---;7,(3-2) FBSBFBT;O;DET;Zack Short;Bowden Francis;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 12, Tigers 2.

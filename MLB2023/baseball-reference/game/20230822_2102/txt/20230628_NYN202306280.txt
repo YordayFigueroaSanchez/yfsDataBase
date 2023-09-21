@@ -1,0 +1,279 @@
+
+Scorebox Meta
+20230628
+7:10 p.m. Local
+28440
+Citi Field
+177
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/MIL-2023.png;/teams/MIL/2023.shtml;2;0;0;0;0;1;0;2;0;5;9;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;1;0;1;0;0;0;0;0;2;7;0
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;4;0;1;0;0;1;4;.282;.369;.449;.818;20;13;-0.048; 1.28;0.056;-0.104;-0.01%; 0.47; -0.3;0;0;2B
+Starling Marte;/players/m/martest01.shtml;RF;4;0;0;0;0;1;4;.254;.307;.331;.638;10;7;-0.127; 1.15;0.000;-0.127;-0.03%; 0.43; -0.9;1;0;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;3;1;0;0;1;0;4;.224;.307;.448;.755;16;7;-0.035; 1.07;0.049;-0.084;-0.01%; 0.40; -0.3;2;1;
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;0;1;0;0;0;4;.220;.313;.519;.831;12;8;-0.008; 1.29;0.074;-0.081;-0.00%; 0.48; -0.0;6;0;
+Tommy Pham;/players/p/phamth01.shtml;LF;3;1;3;1;1;0;4;.268;.340;.488;.828;15;7;0.261; 1.08;0.261;0.000; 0.06%; 0.40; 2.3;1;0;HR,SB
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;3;0;0;1;1;2;4;.216;.274;.460;.734;19;10;0.008; 1.63;0.103;-0.095; 0.00%; 0.60; 0.2;12;0;
+Brett Baty;/players/b/batybr01.shtml;3B;4;0;1;0;0;3;4;.243;.316;.351;.667;15;10;-0.114; 1.27;0.024;-0.139;-0.03%; 0.47; -1.0;1;4;2B
+Mark Canha;/players/c/canhama01.shtml;DH;3;0;1;0;0;0;3;.241;.335;.382;.717;14;9;-0.133; 2.04;0.076;-0.210;-0.03%; 0.75; -1.5;;;GDP
+Daniel Vogelbach;/players/v/vogelda01.shtml;PH-DH;1;0;0;0;0;0;1;.219;.333;.358;.691;4;4;-0.013; 0.51;0.000;-0.013;-0.00%; 0.19; -0.2;;;
+Danny Mendick;/players/m/mendida01.shtml;2B;2;0;0;0;0;0;2;.000;.000;.000;.000;8;6;-0.058; 1.12;0.000;-0.058;-0.01%; 0.41; -0.5;3;1;
+Jeff McNeil;/players/m/mcneije01.shtml;PH-2B;2;0;0;0;0;1;2;.255;.333;.323;.656;6;4;-0.076; 1.63;0.000;-0.076;-0.02%; 0.60; -0.5;0;1;
+Kodai Senga;/players/s/sengako01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Grant Hartwig;/players/h/hartwgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brooks Raley;/players/r/raleybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Ottavino;/players/o/ottavad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+T.J. McFarland;/players/m/mcfartj01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Brett Baty (8, off Wade Miley); Brandon Nimmo (13, off Bryse Wilson).
+
+
+HR: Tommy Pham (8, off Wade Miley, 2nd inn, 0 on, 1 out to Deep LF).
+
+
+TB: Tommy Pham 6; Brandon Nimmo 2; Brett Baty 2; Mark Canha; Pete Alonso.
+
+
+GIDP: Mark Canha (8).
+
+
+RBI: Francisco Alvarez (26); Tommy Pham (31).
+
+
+Team LOB: 7.
+With RISP: 0 for 6.
+
+Batting away
+Christian Yelich;/players/y/yelicch01.shtml;LF;5;1;3;2;0;1;5;.277;.372;.435;.807;19;11;0.195; 1.03;0.239;-0.044; 0.13%; 1.12; 2.1;1;0;2B,SB
+William Contreras;/players/c/contrwi02.shtml;C;5;0;1;0;0;2;5;.244;.333;.413;.747;21;15;-0.073; 0.90;0.034;-0.107;-0.05%; 0.97; -1.1;7;1;
+Rowdy Tellez;/players/t/tellero01.shtml;1B;4;0;0;0;0;3;4;.215;.292;.401;.692;20;11;-0.115; 1.13;0.000;-0.115;-0.07%; 1.23; -1.1;8;0;
+Luis Urías;/players/u/uriaslu01.shtml;PH-2B;1;0;0;0;0;1;1;.145;.299;.236;.535;5;3;-0.004; 0.13;0.000;-0.004;-0.00%; 0.14; -0.2;0;0;
+Willy Adames;/players/a/adamewi01.shtml;SS;4;1;0;0;1;1;5;.201;.288;.371;.659;23;12;-0.055; 0.75;0.010;-0.065;-0.04%; 0.81; -0.6;2;4;
+Jesse Winker;/players/w/winkeje01.shtml;DH;5;0;2;2;0;0;5;.201;.308;.254;.561;22;13;0.161; 0.80;0.201;-0.040; 0.10%; 0.87; 1.6;;;2B
+Owen Miller;/players/m/milleow01.shtml;2B-1B;3;1;1;0;1;0;4;.284;.327;.409;.736;16;8;0.078; 1.14;0.121;-0.042; 0.05%; 1.23; 0.5;4;4;2B
+Brian Anderson;/players/a/anderbr06.shtml;3B;4;1;1;0;0;2;4;.220;.318;.375;.692;15;10;-0.125; 1.42;0.025;-0.151;-0.08%; 1.54; -1.2;0;3;2B
+Blake Perkins;/players/p/perkibl01.shtml;RF;3;1;1;1;1;1;4;.268;.328;.393;.721;20;11;0.106; 1.15;0.141;-0.035; 0.07%; 1.24; 0.6;3;0;
+Joey Wiemer;/players/w/wiemejo01.shtml;CF;2;0;0;0;0;1;4;.213;.286;.410;.696;13;8;-0.012; 1.00;0.035;-0.048;-0.01%; 1.09; 0.0;2;0;2·HBP
+Wade Miley;/players/m/mileywa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryse Wilson;/players/w/wilsobr02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Hoby Milner;/players/m/milneho01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Elvis Peguero;/players/p/pegueel01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joel Payamps;/players/p/payamjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Devin Williams;/players/w/willide03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Christian Yelich (16, off Kodai Senga); Jesse Winker (4, off Kodai Senga); Owen Miller (14, off Grant Hartwig); Brian Anderson (11, off Adam Ottavino).
+
+
+HBP: Joey Wiemer 2 (2, 1 by Adam Ottavino, 1 by Kodai Senga).
+
+
+TB: Christian Yelich 4; Jesse Winker 3; Brian Anderson 2; Owen Miller 2; William Contreras; Blake Perkins.
+
+
+RBI: Jesse Winker 2 (18); Christian Yelich 2 (36); Blake Perkins (11).
+
+
+2-out RBI: Jesse Winker 2; Christian Yelich 2.
+
+
+Team LOB: 9.
+With RISP: 3 for 9.
+
+Pitching home
+Kodai Senga;/players/s/sengako01.shtml;Kodai Senga; 5 ;5;2;2;2;8;0;3.53;23;102;59;28;14;17;6;6;3;0;55;;;0.054; 1.00; 0.01%; 0.37; 0.5
+Grant Hartwig;/players/h/hartwgr01.shtml; L (0-1); 1.1;2;1;1;0;1;0;1.59;6;21;15;8;1;6;2;3;3;0;;0;0;-0.081; 1.36;-0.02%; 0.51; -0.3
+Brooks Raley;/players/r/raleybr01.shtml;Brooks Raley; 1 ;0;0;0;0;1;0;2.57;3;13;6;4;0;2;0;2;0;0;;0;0;0.054; 0.71; 0.01%; 0.27; 0.5
+Adam Ottavino;/players/o/ottavad01.shtml;Adam Ottavino; 0.2;2;2;2;1;1;0;4.13;6;24;14;8;1;5;2;1;0;0;;0;0;-0.191; 1.17;-0.04%; 0.43; -1.7
+T.J. McFarland;/players/m/mcfartj01.shtml;T.J. McFarland; 1 ;0;0;0;0;1;0;0.00;3;14;8;4;2;2;2;0;0;0;;0;0;0.008; 0.10; 0.00%; 0.04; 0.5
+
+Pitching away
+Wade Miley;/players/m/mileywa01.shtml;Wade Miley; 4 ;3;2;2;3;3;1;3.02;17;74;40;17;2;21;6;5;4;0;48;;;-0.013; 1.29;-0.01%; 1.40; 0.0
+Bryse Wilson;/players/w/wilsobr02.shtml; W (3-0); 1.2;2;0;0;0;1;0;2.56;7;21;14;8;2;4;1;5;0;0;;0;0;0.113; 1.45; 0.07%; 1.57; 0.8
+Hoby Milner;/players/m/milneho01.shtml; H (7); 0.1;0;0;0;0;1;0;2.59;1;5;3;1;2;0;0;0;0;0;;1;0;0.042; 1.49; 0.03%; 1.62; 0.2
+Elvis Peguero;/players/p/pegueel01.shtml; H (7); 1 ;1;0;0;0;0;0;2.76;4;9;8;6;1;1;2;2;1;0;;0;0;0.109; 2.35; 0.07%; 2.55; 0.5
+Joel Payamps;/players/p/payamjo01.shtml; H (13); 1 ;1;0;0;0;1;0;2.23;4;17;10;3;1;6;1;2;2;0;;0;0;0.052; 0.74; 0.03%; 0.81; 0.5
+Devin Williams;/players/w/willide03.shtml; S (15); 1 ;0;0;0;0;2;0;1.63;3;13;10;4;2;4;1;0;0;0;;0;0;0.042; 0.54; 0.03%; 0.58; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Adam Ottavino (4; Joey Wiemer); Kodai Senga (2; Joey Wiemer).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Adam Ottavino (4; Joey Wiemer); Kodai Senga (2; Joey Wiemer).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: LF - (none), RF - (none).
+Time of Game: 2:57.
+Attendance: 28,440.
+Field Condition: Unknown.
+Start Time Weather: 78° F, Wind 6mph out to Rightfield, Overcast, No Precipitation.
+
+div_lineups
+Brewers
+1;Christian Yelich;/players/y/yelicch01.shtml;LF
+2;William Contreras;/players/c/contrwi02.shtml;C
+3;Rowdy Tellez;/players/t/tellero01.shtml;1B
+4;Willy Adames;/players/a/adamewi01.shtml;SS
+5;Jesse Winker;/players/w/winkeje01.shtml;DH
+6;Owen Miller;/players/m/milleow01.shtml;2B
+7;Brian Anderson;/players/a/anderbr06.shtml;3B
+8;Blake Perkins;/players/p/perkibl01.shtml;RF
+9;Joey Wiemer;/players/w/wiemejo01.shtml;CF
+; Wade Miley;/players/m/mileywa01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Starling Marte;/players/m/martest01.shtml;RF
+3;Francisco Lindor;/players/l/lindofr01.shtml;SS
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Tommy Pham;/players/p/phamth01.shtml;LF
+6;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+7;Brett Baty;/players/b/batybr01.shtml;3B
+8;Mark Canha;/players/c/canhama01.shtml;DH
+9;Danny Mendick;/players/m/mendida01.shtml;2B
+; Kodai Senga;/players/s/sengako01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t1;0-0;2;12-;2,(1-0) BX;RR;MIL;Jesse Winker;Kodai Senga;18%;68%;Double to CF (Line Drive to Deep LF-CF); Yelich Scores; Adames Scores
+b4;2-2;1;123;5,(2-2) F*BBC.X;OO;NYM;Mark Canha;Wade Miley;17%;50%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+t8;3-2;2;123;3,(1-1) CBX;RR;MIL;Christian Yelich;Adam Ottavino;17%;93%;Single to CF (Ground Ball thru SS-2B); Anderson Scores; Perkins Scores; Wiemer to 3B
+t6;2-2;1;-2-;3,(1-1) CBX;R;MIL;Blake Perkins;Grant Hartwig;13%;66%;Single to LF (Line Drive to Deep SS-3B Hole); Miller Scores
+b4;1-2;0;123;6,(3-2) BBBCC.B;R;NYM;Francisco Alvarez;Wade Miley;-10%;25%;Walk; Lindor Scores; Alonso to 3B; Pham to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Brewers Batting, Tied 0-0, Mets' Kodai Senga facing 1-2-3 
+t1;0-0;0;---;3,(2-0) BBX;;MIL;Christian Yelich;Kodai Senga;6%;56%;Double to CF (Ground Ball)
+t1;0-0;0;-2-;7,(3-2) FBC*BF*BS;O;MIL;William Contreras;Kodai Senga;-4%;52%;Strikeout Swinging
+t1;0-0;1;-2-;5,(2-2) BCBFS;O;MIL;Rowdy Tellez;Kodai Senga;-3%;48%;Strikeout Swinging
+t1;0-0;2;-2-;6,(3-2) BBF*S*BB;;MIL;Willy Adames;Kodai Senga;1%;49%;Walk
+t1;0-0;2;12-;2,(1-0) BX;RR;MIL;Jesse Winker;Kodai Senga;18%;68%;Double to CF (Line Drive to Deep LF-CF); Yelich Scores; Adames Scores
+t1;2-0;2;-2-;1,(0-0) X;O;MIL;Owen Miller;Kodai Senga;-3%;65%;Popfly: SS (SS-2B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Brewers 2, Mets 0.
+Bottom of the 1st, Mets Batting, Behind 0-2, Brewers' Wade Miley facing 1-2-3 
+b1;0-2;0;---;6,(3-2) CCBB.BX;O;NYM;Brandon Nimmo;Wade Miley;2%;67%;Lineout: LF (Deep LF Line)
+b1;0-2;1;---;5,(2-2) CBBC.C;O;NYM;Starling Marte;Wade Miley;2%;69%;Strikeout Looking
+b1;0-2;2;---;4,(1-2) CCB.X;O;NYM;Francisco Lindor;Wade Miley;1%;70%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 2, Mets 0.
+Top of the 2nd, Brewers Batting, Ahead 2-0, Mets' Kodai Senga facing 7-8-9 
+t2;2-0;0;---;4,(1-2) CSB*S;O;MIL;Brian Anderson;Kodai Senga;-2%;68%;Strikeout Swinging
+t2;2-0;1;---;8,(3-2) CSFBBFBS;O;MIL;Blake Perkins;Kodai Senga;-1%;67%;Strikeout Swinging
+t2;2-0;2;---;4,(1-2) CS.BH;;MIL;Joey Wiemer;Kodai Senga;1%;68%;Hit By Pitch
+t2;2-0;2;1--;4,(2-1) 1F*BBX;O;MIL;Christian Yelich;Kodai Senga;-2%;66%;Groundout: 1B unassisted (Weak 2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Brewers 2, Mets 0.
+Bottom of the 2nd, Mets Batting, Behind 0-2, Brewers' Wade Miley facing 4-5-6 
+b2;0-2;0;---;5,(2-2) BCF.BX;O;NYM;Pete Alonso;Wade Miley;2%;69%;Groundout: SS-1B (SS-3B Hole)
+b2;0-2;1;---;4,(2-1) CBBX;R;NYM;Tommy Pham;Wade Miley;-10%;58%;Home Run (Fly Ball to Deep LF)
+b2;1-2;1;---;1,(0-0) X;O;NYM;Francisco Alvarez;Wade Miley;2%;60%;Groundout: SS-1B
+b2;1-2;2;---;1,(0-0) X;;NYM;Brett Baty;Wade Miley;-2%;58%;Double to LF (Line Drive to Deep LF Line)
+b2;1-2;2;-2-;7,(3-2) BCBFBF.X;O;NYM;Mark Canha;Wade Miley;4%;61%;Groundout: SS-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Brewers 2, Mets 1.
+Top of the 3rd, Brewers Batting, Ahead 2-1, Mets' Kodai Senga facing 2-3-4 
+t3;2-1;0;---;4,(1-2) BCS.X;;MIL;William Contreras;Kodai Senga;3%;65%;Single to RF (Line Drive)
+t3;2-1;0;1--;3,(2-0) BBX;O;MIL;Rowdy Tellez;Kodai Senga;-3%;62%;Popfly: 2B (Deep 2B-1B)
+t3;2-1;1;1--;4,(1-2) *BCCS;O;MIL;Willy Adames;Kodai Senga;-3%;59%;Strikeout Swinging
+t3;2-1;2;1--;5,(2-2) BC*BFX;;MIL;Jesse Winker;Kodai Senga;2%;61%;Single to CF (Ground Ball); Contreras to 2B
+t3;2-1;2;12-;6,(3-2) *BBFBF>*B;;MIL;Owen Miller;Kodai Senga;3%;63%;Walk; Contreras to 3B; Winker to 2B
+t3;2-1;2;123;5,(2-2) FSB*BS;O;MIL;Brian Anderson;Kodai Senga;-7%;57%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Brewers 2, Mets 1.
+Bottom of the 3rd, Mets Batting, Behind 1-2, Brewers' Wade Miley facing 9-1-2 
+b3;1-2;0;---;4,(1-2) CBC.X;O;NYM;Danny Mendick;Wade Miley;3%;59%;Groundout: SS-1B (SS-3B Hole)
+b3;1-2;1;---;7,(2-2) SBSBFFC;O;NYM;Brandon Nimmo;Wade Miley;2%;61%;Strikeout Looking
+b3;1-2;2;---;2,(1-0) BX;O;NYM;Starling Marte;Wade Miley;1%;62%;Lineout: SS
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 2, Mets 1.
+Top of the 4th, Brewers Batting, Ahead 2-1, Mets' Kodai Senga facing 8-9-1 
+t4;2-1;0;---;2,(1-0) BX;O;MIL;Blake Perkins;Kodai Senga;-2%;60%;Flyball: RF (Deep CF-RF)
+t4;2-1;1;---;5,(2-2) BCBCC;O;MIL;Joey Wiemer;Kodai Senga;-2%;59%;Strikeout Looking
+t4;2-1;2;---;5,(2-2) CBBCX;;MIL;Christian Yelich;Kodai Senga;1%;60%;Single to LF (Line Drive to Short LF Line)
+t4;2-1;2;1--;1,(0-0) X;O;MIL;William Contreras;Kodai Senga;-2%;57%;Groundout: SS-2B/Forceout at 2B; Contreras to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 2, Mets 1.
+Bottom of the 4th, Mets Batting, Behind 1-2, Brewers' Wade Miley facing 3-4-5 
+b4;1-2;0;---;4,(3-0) BB.BB;;NYM;Francisco Lindor;Wade Miley;-5%;53%;Walk
+b4;1-2;0;1--;3,(2-1) CVBX;;NYM;Pete Alonso;Wade Miley;-7%;45%;Single to CF (Line Drive); Lindor to 2B
+b4;1-2;0;12-;5,(3-1) CBBBB;;NYM;Tommy Pham;Wade Miley;-10%;36%;Walk; Lindor to 3B; Alonso to 2B
+b4;1-2;0;123;6,(3-2) BBBCC.B;R;NYM;Francisco Alvarez;Wade Miley;-10%;25%;Walk; Lindor Scores; Alonso to 3B; Pham to 2B
+b4;2-2;0;123;5,(2-2) CCB*BC;O;NYM;Brett Baty;Wade Miley;7%;33%;Strikeout Looking
+b4;2-2;1;123;5,(2-2) F*BBC.X;OO;NYM;Mark Canha;Wade Miley;17%;50%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Brewers 2, Mets 2.
+Top of the 5th, Brewers Batting, Tied 2-2, Mets' Kodai Senga facing 3-4-5 
+t5;2-2;0;---;7,(2-2) CBFBFFC;O;MIL;Rowdy Tellez;Kodai Senga;-3%;47%;Strikeout Looking
+t5;2-2;1;---;4,(2-1) SBBX;O;MIL;Willy Adames;Kodai Senga;-2%;45%;Groundout: 3B-1B (SS-3B Hole)
+t5;2-2;2;---;7,(3-2) CS.FVBFBX;O;MIL;Jesse Winker;Kodai Senga;-1%;43%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 2, Mets 2.
+Bottom of the 5th, Mets Batting, Tied 2-2, Brewers' Bryse Wilson facing 9-1-2 
+;;;;;;;;;Bryse Wilson replaces Wade Miley pitching
+b5;2-2;0;---;4,(1-2) .BSCX;O;NYM;Danny Mendick;Bryse Wilson;3%;46%;Flyball: RF (Deep RF Line)
+b5;2-2;1;---;3,(1-1) BSX;;NYM;Brandon Nimmo;Bryse Wilson;-6%;41%;Double to LF (Fly Ball to Deep LF)
+b5;2-2;1;-2-;1,(0-0) X;O;NYM;Starling Marte;Bryse Wilson;5%;45%;Flyball: RF (RF Line)
+b5;2-2;2;-2-;5,(3-1) BBBCX;O;NYM;Francisco Lindor;Bryse Wilson;5%;50%;Flyball: CF (Short CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 2, Mets 2.
+Top of the 6th, Brewers Batting, Tied 2-2, Mets' Grant Hartwig facing 6-7-8 
+;;;;;;;;;Grant Hartwig replaces Kodai Senga pitching
+t6;2-2;0;---;4,(2-1) .BCBX;;MIL;Owen Miller;Grant Hartwig;9%;59%;Double to RF (Line Drive to Deep RF Line)
+t6;2-2;0;-2-;4,(2-1) BBFX;O;MIL;Brian Anderson;Grant Hartwig;-6%;53%;Lineout: 3B (SS-3B Hole)
+t6;2-2;1;-2-;3,(1-1) CBX;R;MIL;Blake Perkins;Grant Hartwig;13%;66%;Single to LF (Line Drive to Deep SS-3B Hole); Miller Scores
+t6;3-2;1;1--;2,(0-1) 1CX;O;MIL;Joey Wiemer;Grant Hartwig;-3%;63%;Groundout: 3B-2B/Forceout at 2B; Wiemer to 1B
+t6;3-2;2;1--;4,(1-2) F1BC1C;O;MIL;Christian Yelich;Grant Hartwig;-3%;61%;Strikeout Looking
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Brewers 3, Mets 2.
+Bottom of the 6th, Mets Batting, Behind 2-3, Brewers' Bryse Wilson facing 4-5-6 
+b6;2-3;0;---;1,(0-0) X;O;NYM;Pete Alonso;Bryse Wilson;4%;65%;Popfly: 2B (Deep 2B-1B)
+b6;2-3;1;---;1,(0-0) X;;NYM;Tommy Pham;Bryse Wilson;-4%;60%;Single to SS (Ground Ball to Weak 3B)
+b6;2-3;1;1--;6,(2-2) FCB>F1B.C;O;NYM;Francisco Alvarez;Bryse Wilson;5%;65%;Strikeout Looking
+;;;;;;;;;Hoby Milner replaces Bryse Wilson pitching
+b6;2-3;2;1--;5,(2-2) .FBBSS;O;NYM;Brett Baty;Hoby Milner;4%;69%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 3, Mets 2.
+Top of the 7th, Brewers Batting, Ahead 3-2, Mets' Grant Hartwig facing 2-3-4 
+t7;3-2;0;---;4,(0-2) CSF.X;O;MIL;William Contreras;Grant Hartwig;-2%;67%;Groundout: 1B unassisted
+;;;;;;;;;Brooks Raley replaces Grant Hartwig pitching
+t7;3-2;1;---;5,(3-2) .CBBBFA;O;MIL;Rowdy Tellez;Brooks Raley;-2%;65%;Strikeout
+t7;3-2;2;---;2,(1-0) BX;O;MIL;Willy Adames;Brooks Raley;-1%;64%;Popfly: SS (Deep SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 3, Mets 2.
+Bottom of the 7th, Mets Batting, Behind 2-3, Brewers' Elvis Peguero facing 8-9-1 
+;;;;;;;;;Elvis Peguero replaces Hoby Milner pitching
+b7;2-3;0;---;2,(0-1) .CX;;NYM;Mark Canha;Elvis Peguero;-8%;56%;Single to CF (Line Drive to Short LF-CF)
+;;;;;;;;;Jeff McNeil pinch hits for Danny Mendick (2B) batting 9th
+b7;2-3;0;1--;1,(0-0) .1X;O;NYM;Jeff McNeil;Elvis Peguero;7%;63%;Groundout: 2B-SS/Forceout at 2B (2B-1B); McNeil to 1B
+b7;2-3;1;1--;4,(1-2) SBFX;O;NYM;Brandon Nimmo;Elvis Peguero;6%;69%;Flyball: CF
+b7;2-3;2;1--;2,(0-1) FX;O;NYM;Starling Marte;Elvis Peguero;5%;75%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 3, Mets 2.
+Top of the 8th, Brewers Batting, Ahead 3-2, Mets' Brooks Raley facing 5-6-7 
+;;;;;;;;;Jeff McNeil moves from PH to 2B 
+t8;3-2;0;---;6,(3-2) .CBBBFX;O;MIL;Jesse Winker;Brooks Raley;-2%;72%;Flyball: LF (Deep LF)
+;;;;;;;;;Adam Ottavino replaces Brooks Raley pitching
+t8;3-2;1;---;5,(2-2) .BCFBX;O;MIL;Owen Miller;Adam Ottavino;-2%;71%;Groundout: 3B-1B
+t8;3-2;2;---;2,(0-1) CX;;MIL;Brian Anderson;Adam Ottavino;3%;73%;Double to LF (Fly Ball to Deep LF-CF)
+t8;3-2;2;-2-;7,(3-2) BFTBBFB;;MIL;Blake Perkins;Adam Ottavino;1%;74%;Walk
+t8;3-2;2;12-;2,(0-1) FH;;MIL;Joey Wiemer;Adam Ottavino;3%;76%;Hit By Pitch; Anderson to 3B; Perkins to 2B
+t8;3-2;2;123;3,(1-1) CBX;RR;MIL;Christian Yelich;Adam Ottavino;17%;93%;Single to CF (Ground Ball thru SS-2B); Anderson Scores; Perkins Scores; Wiemer to 3B
+t8;5-2;2;1-3;3,(1-1) .BC>B;;MIL;William Contreras;Adam Ottavino;0%;93%;Yelich Steals 2B
+t8;5-2;2;-23;5,(2-2) .BC>B.CS;O;MIL;William Contreras;Adam Ottavino;-2%;91%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 2 LOB. Brewers 5, Mets 2.
+Bottom of the 8th, Mets Batting, Behind 2-5, Brewers' Joel Payamps facing 3-4-5 
+;;;;;;;;;Joel Payamps replaces Elvis Peguero pitching
+b8;2-5;0;---;3,(1-1) .BCX;O;NYM;Francisco Lindor;Joel Payamps;3%;94%;Lineout: RF (Deep CF-RF)
+b8;2-5;1;---;3,(1-1) CBX;O;NYM;Pete Alonso;Joel Payamps;2%;96%;Groundout: 2B-1B (Deep SS-2B)
+b8;2-5;2;---;5,(2-2) CCBBX;;NYM;Tommy Pham;Joel Payamps;-1%;94%;Single to RF (Line Drive to Short RF)
+b8;2-5;2;1--;3,(2-0) BB>B;;NYM;Francisco Alvarez;Joel Payamps;0%;94%;Pham Steals 2B
+b8;2-5;2;-2-;6,(3-2) BB>B.CSC;O;NYM;Francisco Alvarez;Joel Payamps;3%;97%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 5, Mets 2.
+Top of the 9th, Brewers Batting, Ahead 5-2, Mets' T.J. McFarland facing 3-4-5 
+;;;;;;;;;T.J. McFarland replaces Adam Ottavino pitchingLuis Urías pinch hits for Rowdy Tellez (1B) batting 3rd
+t9;5-2;0;---;5,(2-2) ..CS.BBS;O;MIL;Luis Urías;T.J. McFarland;0%;96%;Strikeout Swinging
+t9;5-2;1;---;7,(3-2) BBFCFBX;O;MIL;Willy Adames;T.J. McFarland;0%;96%;Groundout: 3B-1B (SS-3B Hole)
+t9;5-2;2;---;2,(1-0) BX;O;MIL;Jesse Winker;T.J. McFarland;0%;96%;Groundout: 2B-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 5, Mets 2.
+Bottom of the 9th, Mets Batting, Behind 2-5, Brewers' Devin Williams facing 7-8-9 
+;;;;;;;;;Devin Williams replaces Joel Payamps pitchingOwen Miller moves from 2B to 1B Luis Urías moves from PH to 2B 
+b9;2-5;0;---;4,(1-2) ...CTBS;O;NYM;Brett Baty;Devin Williams;2%;98%;Strikeout Swinging
+;;;;;;;;;Daniel Vogelbach pinch hits for Mark Canha (DH) batting 8th
+b9;2-5;1;---;4,(0-2) .CCFX;O;NYM;Daniel Vogelbach;Devin Williams;1%;100%;Groundout: 3B-1B (SS-3B Hole)
+b9;2-5;2;---;5,(2-2) BCFB*S;O;NYM;Jeff McNeil;Devin Williams;0%;100%;Strikeout Swinging; McNeil out at 1B/C-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 5, Mets 2.

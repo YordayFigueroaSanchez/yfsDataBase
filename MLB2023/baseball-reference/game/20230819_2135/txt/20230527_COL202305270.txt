@@ -1,0 +1,281 @@
+
+Scorebox Meta
+20230527
+7:10 p.m. Local
+36874
+Coors Field
+178
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;1;0;5;1;0;0;7;12;0
+https://cdn.ssref.net/req/202308101/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;5;1;0;0;0;2;2;X;10;14;1
+
+Batting home
+Charlie Blackmon;/players/b/blackch02.shtml;DH;5;0;1;2;0;0;5;.283;.368;.451;.819;19;13;0.003; 1.07;0.098;-0.095; 0.00%; 0.55; 0.5;;;2B
+Jurickson Profar;/players/p/profaju01.shtml;LF;4;1;1;2;0;0;5;.250;.325;.415;.740;19;13;0.023; 0.80;0.098;-0.075; 0.01%; 0.42; 0.6;3;0;3B,SF
+Elias Díaz;/players/d/diazel01.shtml;C;5;1;2;1;0;1;5;.333;.387;.519;.907;26;14;0.114; 0.67;0.141;-0.027; 0.04%; 0.35; 0.6;9;0;2B
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;5;2;2;2;0;1;5;.227;.309;.414;.723;23;14;0.234; 0.81;0.272;-0.038; 0.07%; 0.42; 0.6;2;4;HR,GDP
+Randal Grichuk;/players/g/grichra01.shtml;CF;3;1;2;0;0;0;4;.351;.414;.481;.894;9;6;0.054; 0.50;0.064;-0.009; 0.02%; 0.26; 0.7;3;1;2B,HBP
+Harold Castro;/players/c/castrha01.shtml;RF;4;1;2;0;0;0;4;.277;.293;.340;.633;16;11;0.033; 0.74;0.070;-0.037; 0.01%; 0.39; 0.3;3;0;
+Nolan Jones;/players/j/jonesno01.shtml;1B;4;1;2;2;0;1;4;.286;.375;.429;.804;14;10;0.063; 0.89;0.098;-0.035; 0.02%; 0.47; 1.5;6;0;2B
+Alan Trejo;/players/t/trejoal01.shtml;2B;4;1;1;1;0;1;4;.253;.279;.333;.612;13;10;0.037; 1.01;0.113;-0.076; 0.01%; 0.53; -0.1;1;1;2B
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;2;2;1;0;2;0;4;.226;.274;.357;.631;16;7;0.071; 0.84;0.079;-0.008; 0.02%; 0.44; 0.5;0;0;SB
+Chase Anderson;/players/a/anderch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Brent Suter;/players/s/suterbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jake Bird;/players/b/birdja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Justin Lawrence;/players/l/lawreju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Pierce Johnson;/players/j/johnspi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Alan Trejo (8, off Justin Verlander); Charlie Blackmon (13, off Justin Verlander); Nolan Jones (1, off Justin Verlander); Randal Grichuk (7, off Justin Verlander); Elias Díaz (11, off Jeff Brigham).
+
+
+3B: Jurickson Profar (1, off Drew Smith).
+
+
+HR: Ryan McMahon (6, off Jeff Brigham, 7th inn, 1 on, 0 outs to Deep RF).
+
+
+SF: Jurickson Profar (3, off Justin Verlander).
+
+
+HBP: Randal Grichuk (1, by Jeff Brigham).
+
+
+TB: Ryan McMahon 5; Nolan Jones 3; Randal Grichuk 3; Elias Díaz 3; Jurickson Profar 3; Charlie Blackmon 2; Alan Trejo 2; Harold Castro 2; Ezequiel Tovar.
+
+
+GIDP: Ryan McMahon (6).
+
+
+RBI: Nolan Jones 2 (2); Jurickson Profar 2 (22); Ryan McMahon 2 (23); Charlie Blackmon 2 (21); Alan Trejo (12); Elias Díaz (27).
+
+
+Team LOB: 6.
+With RISP: 6 for 12.
+
+Batting away
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;5;0;1;0;0;1;5;.300;.383;.448;.831;23;18;-0.095; 0.94;0.019;-0.114;-0.07%; 1.13; -1.2;5;0;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;5;0;0;0;0;2;5;.226;.297;.413;.711;20;13;-0.116; 0.82;0.000;-0.116;-0.08%; 0.98; -1.3;1;2;
+Jeff McNeil;/players/m/mcneije01.shtml;2B;4;2;2;0;1;0;5;.288;.367;.361;.728;17;8;0.057; 0.75;0.091;-0.034; 0.04%; 0.90; 0.4;1;3;
+Pete Alonso;/players/a/alonspe01.shtml;1B;5;2;2;1;0;1;5;.239;.339;.558;.898;22;12;-0.027; 0.94;0.066;-0.093;-0.02%; 1.13; 0.8;4;0;HR
+Brett Baty;/players/b/batybr01.shtml;3B;5;0;1;1;0;2;5;.248;.317;.398;.716;16;10;0.023; 0.98;0.095;-0.073; 0.02%; 1.17; 0.6;2;0;2B
+Starling Marte;/players/m/martest01.shtml;RF;4;0;1;2;0;1;4;.235;.297;.294;.591;14;12;0.123; 1.16;0.172;-0.049; 0.09%; 1.38; 0.5;2;0;
+Mark Canha;/players/c/canhama01.shtml;LF;2;1;1;0;1;0;4;.236;.314;.365;.678;18;8;-0.004; 0.81;0.059;-0.062;-0.00%; 0.97; 0.0;4;0;HBP
+Mark Vientos;/players/v/vientma01.shtml;DH;4;1;2;0;0;0;4;.211;.250;.368;.618;12;8;-0.003; 1.13;0.075;-0.078;-0.00%; 1.34; 0.4;;;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;4;1;2;3;0;1;4;.273;.333;.545;.879;15;10;0.176; 1.44;0.291;-0.115; 0.13%; 1.72; 1.4;5;0;HR,2B
+Justin Verlander;/players/v/verlaju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Dominic Leone;/players/l/leonedo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jeff Brigham;/players/b/brighje01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Drew Smith;/players/s/smithdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Francisco Alvarez (6, off Chase Anderson); Brett Baty (5, off Brent Suter).
+
+
+HR: Pete Alonso (20, off Chase Anderson, 4th inn, 0 on, 1 out to Deep LF-CF); Francisco Alvarez (7, off Jake Bird, 6th inn, 2 on, 2 outs to Deep LF Line).
+
+
+HBP: Mark Canha (4, by Chase Anderson).
+
+
+TB: Francisco Alvarez 6; Pete Alonso 5; Mark Vientos 2; Jeff McNeil 2; Brett Baty 2; Brandon Nimmo; Mark Canha; Starling Marte.
+
+
+RBI: Francisco Alvarez 3 (16); Starling Marte 2 (16); Pete Alonso (46); Brett Baty (14).
+
+
+2-out RBI: Francisco Alvarez 3; Starling Marte.
+
+
+Team LOB: 7.
+With RISP: 3 for 9.
+
+Pitching home
+Chase Anderson;/players/a/anderch01.shtml;Chase Anderson; 5 ;4;1;1;1;4;1;1.31;20;86;52;31;4;17;4;10;6;0;58;;;0.165; 0.64; 0.05%; 0.34; 2.0
+Brent Suter;/players/s/suterbr01.shtml;Brent Suter; 0.2;4;4;4;0;0;0;1.99;6;22;13;11;0;2;2;4;4;0;;0;0;-0.088; 1.07;-0.03%; 0.56; -1.9
+Jake Bird;/players/b/birdja01.shtml; BS (2); 1 ;3;2;2;1;2;1;2.86;7;29;17;9;3;5;3;1;0;0;;2;2;-0.412; 1.66;-0.13%; 0.87; -3.2
+Justin Lawrence;/players/l/lawreju01.shtml; W (2-2); 1.1;1;0;0;0;2;0;2.22;5;14;12;6;2;4;2;1;1;0;;1;0;0.162; 1.58; 0.05%; 0.82; 0.9
+Pierce Johnson;/players/j/johnspi01.shtml; S (11); 1 ;0;0;0;0;0;0;6.23;3;6;5;5;0;0;0;3;1;0;;0;0;0.041; 0.51; 0.01%; 0.27; 0.6
+
+Pitching away
+Justin Verlander;/players/v/verlaju01.shtml;Justin Verlander; 5 ;9;6;6;1;2;0;4.80;25;79;52;38;7;7;7;15;9;0;26;;;-0.276; 0.60;-0.20%; 0.72; -3.0
+Dominic Leone;/players/l/leonedo01.shtml;Dominic Leone; 1 ;1;0;0;0;0;0;5.40;4;19;12;10;0;2;1;3;1;0;;0;0;0.081; 1.43; 0.06%; 1.71; 0.6
+Jeff Brigham;/players/b/brighje01.shtml; L (0-1); 1 ;2;2;2;0;2;1;3.63;6;29;18;9;4;5;0;3;1;0;;0;0;-0.334; 1.37;-0.24%; 1.63; -1.4
+Drew Smith;/players/s/smithdr01.shtml;Drew Smith; 1 ;2;2;2;1;0;0;3.93;5;28;16;11;2;3;2;2;1;0;;0;0;-0.103; 0.63;-0.07%; 0.75; -1.4
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Jeff Brigham (2; Randal Grichuk); Chase Anderson (2; Mark Canha).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Jeff Brigham (2; Randal Grichuk); Chase Anderson (2; Mark Canha).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Carlos Torres, 1B - Jansen Visconti, 2B - Cory Blaser, 3B - Ron Kulpa, LF - (none), RF - (none).
+Time of Game: 2:58.
+Attendance: 36,874.
+Field Condition: Unknown.
+Start Time Weather: 68° F, Wind 9mph in from Centerfield, Cloudy, No Precipitation.
+
+div_lineups
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Jeff McNeil;/players/m/mcneije01.shtml;2B
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Brett Baty;/players/b/batybr01.shtml;3B
+6;Starling Marte;/players/m/martest01.shtml;RF
+7;Mark Canha;/players/c/canhama01.shtml;LF
+8;Mark Vientos;/players/v/vientma01.shtml;DH
+9;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+; Justin Verlander;/players/v/verlaju01.shtml;P
+Rockies
+1;Charlie Blackmon;/players/b/blackch02.shtml;DH
+2;Jurickson Profar;/players/p/profaju01.shtml;LF
+3;Elias Díaz;/players/d/diazel01.shtml;C
+4;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+5;Randal Grichuk;/players/g/grichra01.shtml;CF
+6;Harold Castro;/players/c/castrha01.shtml;RF
+7;Nolan Jones;/players/j/jonesno01.shtml;1B
+8;Alan Trejo;/players/t/trejoal01.shtml;2B
+9;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+; Chase Anderson;/players/a/anderch01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t6;3-6;2;12-;4,(1-2) .CBT.X;RRR;NYM;Francisco Alvarez;Jake Bird;-29%;56%;Home Run (Fly Ball to Deep LF Line); Canha Scores; Vientos Scores
+b7;6-7;0;-2-;6,(3-2) CBBSBX;RR;COL;Ryan McMahon;Jeff Brigham;26%;78%;Home Run (Fly Ball to Deep RF); Díaz Scores
+t7;6-6;2;-2-;3,(1-1) CBX;R;NYM;Starling Marte;Jake Bird;-17%;36%;Single to RF (Ground Ball thru 2B-1B); McNeil Scores
+b7;6-7;0;---;3,(1-1) .SBX;;COL;Elias Díaz;Jeff Brigham;12%;51%;Double to CF (Line Drive to Deep CF-RF)
+b2;1-0;1;12-;3,(0-2) FFX;R;COL;Alan Trejo;Justin Verlander;11%;79%;Double to RF (Line Drive to Deep RF Line); Castro Scores; Jones to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Mets Batting, Tied 0-0, Rockies' Chase Anderson facing 1-2-3 
+t1;0-0;0;---;3,(0-2) CCX;O;NYM;Brandon Nimmo;Chase Anderson;2%;52%;Groundout: P-1B (Front of Home)
+t1;0-0;1;---;5,(3-1) BBF.BX;O;NYM;Francisco Lindor;Chase Anderson;2%;54%;Flyball: RF (Deep CF-RF)
+t1;0-0;2;---;3,(2-0) BBX;;NYM;Jeff McNeil;Chase Anderson;-1%;53%;Single to RF (Ground Ball thru 2B-1B)
+t1;0-0;2;1--;3,(1-1) FBX;O;NYM;Pete Alonso;Chase Anderson;2%;55%;Groundout: 1B unassisted (Weak 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 0, Rockies 0.
+Bottom of the 1st, Rockies Batting, Tied 0-0, Mets' Justin Verlander facing 1-2-3 
+b1;0-0;0;---;2,(1-0) BX;O;COL;Charlie Blackmon;Justin Verlander;-2%;53%;Lineout: LF (LF-CF)
+b1;0-0;1;---;1,(0-0) X;O;COL;Jurickson Profar;Justin Verlander;-2%;51%;Groundout: 2B-1B (2B-1B)
+b1;0-0;2;---;5,(3-1) BBBCX;O;COL;Elias Díaz;Justin Verlander;-1%;50%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Rockies 0.
+Top of the 2nd, Mets Batting, Tied 0-0, Rockies' Chase Anderson facing 5-6-7 
+t2;0-0;0;---;5,(2-2) FBFBS;O;NYM;Brett Baty;Chase Anderson;2%;52%;Strikeout Swinging
+t2;0-0;1;---;4,(0-2) CFFX;O;NYM;Starling Marte;Chase Anderson;2%;54%;Groundout: 3B-1B (SS-3B Hole)
+t2;0-0;2;---;6,(3-2) BBCBTB;;NYM;Mark Canha;Chase Anderson;-1%;53%;Walk
+t2;0-0;2;1--;3,(1-1) C.BX;O;NYM;Mark Vientos;Chase Anderson;3%;55%;Lineout: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mets 0, Rockies 0.
+Bottom of the 2nd, Rockies Batting, Tied 0-0, Mets' Justin Verlander facing 4-5-6 
+b2;0-0;0;---;5,(2-2) CBFBS;O;COL;Ryan McMahon;Justin Verlander;-2%;53%;Strikeout Swinging
+b2;0-0;1;---;5,(1-2) CFFBX;;COL;Randal Grichuk;Justin Verlander;3%;56%;Single to LF (Ground Ball thru SS-3B Hole)
+b2;0-0;1;1--;3,(1-1) BF>X;;COL;Harold Castro;Justin Verlander;6%;62%;Single to LF (Ground Ball); Grichuk to 3B
+b2;0-0;1;1-3;4,(1-2) CBSX;R;COL;Nolan Jones;Justin Verlander;6%;68%;Single to LF (Line Drive to Deep SS); Grichuk Scores; Castro to 2B
+b2;1-0;1;12-;3,(0-2) FFX;R;COL;Alan Trejo;Justin Verlander;11%;79%;Double to RF (Line Drive to Deep RF Line); Castro Scores; Jones to 3B
+b2;2-0;1;-23;6,(3-2) BBCCB*B;;COL;Ezequiel Tovar;Justin Verlander;1%;80%;Walk
+b2;2-0;1;123;2,(0-1) FX;RR;COL;Charlie Blackmon;Justin Verlander;10%;90%;Double to RF (Line Drive to Deep RF Line); Jones Scores; Trejo Scores; Tovar to 3B
+b2;4-0;1;-23;1,(0-0) X;RO;COL;Jurickson Profar;Justin Verlander;0%;90%;Lineout: RF/Sacrifice Fly (Deep RF); Tovar Scores; Blackmon to 3B
+b2;5-0;2;--3;8,(3-2) *BFT.*BFFBX;O;COL;Elias Díaz;Justin Verlander;-1%;89%;Lineout: CF (Deep CF)
+;;;;;;;;;5 runs, 5 hits, 0 errors, 1 LOB. Mets 0, Rockies 5.
+Top of the 3rd, Mets Batting, Behind 0-5, Rockies' Chase Anderson facing 9-1-2 
+t3;0-5;0;---;2,(0-1) CX;O;NYM;Francisco Alvarez;Chase Anderson;2%;90%;Double to CF (Line Drive to Deep CF-RF); Alvarez out at 3B/CF-2B-3B
+;;;;;;;;;Tag play Challenged by COL manager (Bud Black): Original call overturned as shown.
+t3;0-5;1;---;5,(1-2) CFFBX;O;NYM;Brandon Nimmo;Chase Anderson;1%;91%;Lineout: CF (Deep CF)
+t3;0-5;2;---;4,(1-2) CBFX;O;NYM;Francisco Lindor;Chase Anderson;1%;92%;Foul Popfly: 3B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Mets 0, Rockies 5.
+Bottom of the 3rd, Rockies Batting, Ahead 5-0, Mets' Justin Verlander facing 4-5-6 
+b3;5-0;0;---;5,(2-2) FBS.BX;;COL;Ryan McMahon;Justin Verlander;1%;93%;Single to 1B (Ground Ball)
+b3;5-0;0;1--;1,(0-0) X;O;COL;Randal Grichuk;Justin Verlander;-1%;92%;Flyball: CF (Deep CF)
+b3;5-0;1;1--;4,(1-2) *BSFX;;COL;Harold Castro;Justin Verlander;1%;93%;Single to CF (Line Drive to Deep CF); McMahon to 2B
+b3;5-0;1;12-;2,(1-0) BX;R;COL;Nolan Jones;Justin Verlander;3%;96%;Double to RF (Line Drive to Deep RF Line); McMahon Scores; Castro to 3B
+b3;6-0;1;-23;2,(0-1) FX;O;COL;Alan Trejo;Justin Verlander;-2%;95%;Fielder's Choice ; Castro out at Hm/P-C; Trejo to 1B
+b3;6-0;2;12-;1,(0-0) X;O;COL;Ezequiel Tovar;Justin Verlander;-1%;94%;Groundout: SS-2B/Forceout at 2B; Tovar to 1B
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Mets 0, Rockies 6.
+Top of the 4th, Mets Batting, Behind 0-6, Rockies' Chase Anderson facing 3-4-5 
+t4;0-6;0;---;3,(1-1) BCX;O;NYM;Jeff McNeil;Chase Anderson;1%;95%;Flyball: CF (Deep LF-CF)
+t4;0-6;1;---;5,(3-1) BBBCX;R;NYM;Pete Alonso;Chase Anderson;-3%;92%;Home Run (Line Drive to Deep LF-CF)
+t4;1-6;1;---;6,(3-2) BFBBCC;O;NYM;Brett Baty;Chase Anderson;1%;93%;Strikeout Looking
+t4;1-6;2;---;4,(0-2) SCFS;O;NYM;Starling Marte;Chase Anderson;1%;94%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Mets 1, Rockies 6.
+Bottom of the 4th, Rockies Batting, Ahead 6-1, Mets' Justin Verlander facing 1-2-3 
+b4;6-1;0;---;3,(1-1) CBX;O;COL;Charlie Blackmon;Justin Verlander;-1%;93%;Flyball: RF (Deep RF)
+b4;6-1;1;---;3,(1-1) BSX;O;COL;Jurickson Profar;Justin Verlander;0%;93%;Flyball: 1B (Short RF Line)
+b4;6-1;2;---;6,(3-2) BBFBF.S;O;COL;Elias Díaz;Justin Verlander;0%;92%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 1, Rockies 6.
+Top of the 5th, Mets Batting, Behind 1-6, Rockies' Chase Anderson facing 7-8-9 
+t5;1-6;0;---;6,(3-2) FCBBBH;;NYM;Mark Canha;Chase Anderson;-2%;90%;Hit By Pitch
+t5;1-6;0;1--;4,(1-2) CBFX;;NYM;Mark Vientos;Chase Anderson;-5%;85%;Single to CF (Line Drive to Deep CF); Canha to 3B/Adv on E8
+t5;1-6;0;1-3;5,(3-1) BBBCX;O;NYM;Francisco Alvarez;Chase Anderson;4%;89%;Flyball: RF (Short CF-RF)
+t5;1-6;1;1-3;6,(2-2) BCBFFS;O;NYM;Brandon Nimmo;Chase Anderson;4%;93%;Strikeout Swinging
+t5;1-6;2;1-3;4,(2-1) FBBX;O;NYM;Francisco Lindor;Chase Anderson;3%;95%;Lineout: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 1 error, 2 LOB. Mets 1, Rockies 6.
+Bottom of the 5th, Rockies Batting, Ahead 6-1, Mets' Justin Verlander facing 4-5-6 
+b5;6-1;0;---;1,(0-0) X;O;COL;Ryan McMahon;Justin Verlander;0%;95%;Groundout: 2B-1B (2B-1B)
+b5;6-1;1;---;2,(1-0) BX;;COL;Randal Grichuk;Justin Verlander;1%;96%;Double to LF (Line Drive to Short LF Line)
+b5;6-1;1;-2-;1,(0-0) X;O;COL;Harold Castro;Justin Verlander;-1%;95%;Flyball: LF (Deep LF Line)
+b5;6-1;2;-2-;3,(1-1) BSX;O;COL;Nolan Jones;Justin Verlander;-1%;94%;Flyball: CF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 1, Rockies 6.
+Top of the 6th, Mets Batting, Behind 1-6, Rockies' Brent Suter facing 3-4-5 
+;;;;;;;;;Brent Suter replaces Chase Anderson pitching
+t6;1-6;0;---;3,(1-1) .BFX;;NYM;Jeff McNeil;Brent Suter;-2%;92%;Single to LF (Line Drive)
+t6;1-6;0;1--;7,(3-2) CBF1*BB.FX;;NYM;Pete Alonso;Brent Suter;-4%;88%;Single to RF (Line Drive to Short CF-RF); McNeil to 2B
+t6;1-6;0;12-;2,(1-0) BX;R;NYM;Brett Baty;Brent Suter;-10%;79%;Double to LF (Line Drive to Deep LF-CF); McNeil Scores; Alonso to 3B
+t6;2-6;0;-23;3,(1-1) BFX;RO;NYM;Starling Marte;Brent Suter;3%;81%;Groundout: 3B-1B (SS-3B Hole); Alonso Scores; Baty to 3B
+t6;3-6;1;--3;4,(1-2) *BFCX;O;NYM;Mark Canha;Brent Suter;6%;88%;Fielder's Choice ; Baty out at Hm/3B-C; Canha to 1B
+t6;3-6;2;1--;3,(2-0) BBX;;NYM;Mark Vientos;Brent Suter;-2%;85%;Single to RF (Line Drive to CF-RF); Canha to 2B
+;;;;;;;;;Jake Bird replaces Brent Suter pitching
+t6;3-6;2;12-;4,(1-2) .CBT.X;RRR;NYM;Francisco Alvarez;Jake Bird;-29%;56%;Home Run (Fly Ball to Deep LF Line); Canha Scores; Vientos Scores
+t6;6-6;2;---;6,(2-2) SFFBBX;;NYM;Brandon Nimmo;Jake Bird;-2%;54%;Single to CF (Ground Ball thru SS-2B)
+t6;6-6;2;1--;4,(1-2) F1BFS;O;NYM;Francisco Lindor;Jake Bird;4%;58%;Strikeout Swinging
+;;;;;;;;;5 runs, 6 hits, 0 errors, 1 LOB. Mets 6, Rockies 6.
+Bottom of the 6th, Rockies Batting, Tied 6-6, Mets' Dominic Leone facing 8-9-1 
+;;;;;;;;;Dominic Leone replaces Justin Verlander pitching
+b6;6-6;0;---;2,(1-0) .BX;O;COL;Alan Trejo;Dominic Leone;-4%;55%;Lineout: 3B (Weak 3B)
+b6;6-6;1;---;4,(1-2) CFBX;;COL;Ezequiel Tovar;Dominic Leone;4%;58%;Single to 3B (Ground Ball to Weak 3B)
+b6;6-6;1;1--;4,(2-1) BFBX;O;COL;Charlie Blackmon;Dominic Leone;-4%;54%;Foul Popfly: 3B (3B into Foul Terr.)
+b6;6-6;2;1--;2,(0-1) C>B;;COL;Jurickson Profar;Dominic Leone;2%;55%;Tovar Steals 2B
+b6;6-6;2;-2-;9,(3-2) C>B.FBBF.FFX;O;COL;Jurickson Profar;Dominic Leone;-5%;50%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 6, Rockies 6.
+Top of the 7th, Mets Batting, Tied 6-6, Rockies' Jake Bird facing 3-4-5 
+t7;6-6;0;---;4,(3-0) BBBB;;NYM;Jeff McNeil;Jake Bird;-6%;44%;Walk
+t7;6-6;0;1--;6,(3-2) BCCBB.S;O;NYM;Pete Alonso;Jake Bird;6%;50%;Strikeout Swinging
+t7;6-6;1;1--;2,(0-1) C>X;O;NYM;Brett Baty;Jake Bird;3%;53%;Groundout: 1B unassisted (Weak 1B); McNeil to 2B
+t7;6-6;2;-2-;3,(1-1) CBX;R;NYM;Starling Marte;Jake Bird;-17%;36%;Single to RF (Ground Ball thru 2B-1B); McNeil Scores
+;;;;;;;;;Justin Lawrence replaces Jake Bird pitching
+t7;7-6;2;1--;2,(1-0) .BX;;NYM;Mark Canha;Justin Lawrence;-2%;34%;Single to RF (Line Drive to CF-RF); Marte to 2B
+t7;7-6;2;12-;2,(0-1) CX;O;NYM;Mark Vientos;Justin Lawrence;5%;39%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Vientos to 1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Mets 7, Rockies 6.
+Bottom of the 7th, Rockies Batting, Behind 6-7, Mets' Jeff Brigham facing 3-4-5 
+;;;;;;;;;Jeff Brigham replaces Dominic Leone pitching
+b7;6-7;0;---;3,(1-1) .SBX;;COL;Elias Díaz;Jeff Brigham;12%;51%;Double to CF (Line Drive to Deep CF-RF)
+b7;6-7;0;-2-;6,(3-2) CBBSBX;RR;COL;Ryan McMahon;Jeff Brigham;26%;78%;Home Run (Fly Ball to Deep RF); Díaz Scores
+b7;8-7;0;---;1,(0-0) H;;COL;Randal Grichuk;Jeff Brigham;3%;81%;Hit By Pitch
+b7;8-7;0;1--;8,(3-2) BBFFFFB>X;O;COL;Harold Castro;Jeff Brigham;-3%;78%;Flyball: LF
+b7;8-7;1;1--;5,(1-2) CB+1C.1FC;O;COL;Nolan Jones;Jeff Brigham;-3%;75%;Strikeout Looking
+b7;8-7;2;1--;6,(2-2) SC*BBFS;O;COL;Alan Trejo;Jeff Brigham;-2%;72%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Mets 7, Rockies 8.
+Top of the 8th, Mets Batting, Behind 7-8, Rockies' Justin Lawrence facing 9-1-2 
+t8;7-8;0;---;4,(1-2) CCBS;O;NYM;Francisco Alvarez;Justin Lawrence;6%;78%;Strikeout Swinging
+t8;7-8;1;---;3,(0-2) FCX;O;NYM;Brandon Nimmo;Justin Lawrence;4%;83%;Groundout: P-1B (Front of Home)
+t8;7-8;2;---;3,(0-2) FFS;O;NYM;Francisco Lindor;Justin Lawrence;3%;86%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 7, Rockies 8.
+Bottom of the 8th, Rockies Batting, Ahead 8-7, Mets' Drew Smith facing 9-1-2 
+;;;;;;;;;Drew Smith replaces Jeff Brigham pitching
+b8;8-7;0;---;5,(3-1) .BCBBB;;COL;Ezequiel Tovar;Drew Smith;2%;88%;Walk
+b8;8-7;0;1--;8,(2-2) BBCFF>FF1X;O;COL;Charlie Blackmon;Drew Smith;-2%;86%;Flyball: CF (Short CF)
+b8;8-7;1;1--;5,(2-2) BF*BFX;R;COL;Jurickson Profar;Drew Smith;9%;95%;Triple to RF (Line Drive to Deep RF Line); Tovar Scores
+b8;9-7;1;--3;4,(2-1) S*BBX;R;COL;Elias Díaz;Drew Smith;2%;97%;Single to CF (Ground Ball thru SS-2B); Profar Scores
+b8;10-7;1;1--;6,(2-2) CSFBBX;OO;COL;Ryan McMahon;Drew Smith;-1%;96%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Mets 7, Rockies 10.
+Top of the 9th, Mets Batting, Behind 7-10, Rockies' Pierce Johnson facing 3-4-5 
+;;;;;;;;;Pierce Johnson replaces Justin Lawrence pitching
+t9;7-10;0;---;4,(1-2) .FBFX;O;NYM;Jeff McNeil;Pierce Johnson;2%;98%;Flyball: LF
+t9;7-10;1;---;1,(0-0) X;O;NYM;Pete Alonso;Pierce Johnson;1%;100%;Lineout: CF (Deep CF-RF)
+t9;7-10;2;---;1,(0-0) X;O;NYM;Brett Baty;Pierce Johnson;0%;100%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 7, Rockies 10.

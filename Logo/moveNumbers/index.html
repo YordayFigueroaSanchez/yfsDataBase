@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mover Números</title>
+    <style>
+        /* Estilo de ejemplo para los números */
+        .numero {
+            position: absolute;
+            top: 100px;
+            left: 100px;
+            transition: all 1s ease; /* Animación de movimiento de 1 segundo */
+        }
+    </style>
+</head>
+<body>
+    <!-- Elementos con la clase "numero" que deseas mover -->
+    <div class="numero">1</div>
+    <div class="numero">2</div>
+    <div class="numero">3</div>
+
+    <script>
+        // Función para mover los números de forma aleatoria
+        function moverNumeros() {
+            const numeros = document.querySelectorAll('.numero');
+            numeros.forEach(numero => {
+                const nuevoTop = Math.random() * 400; // Nueva posición vertical aleatoria
+                const nuevoLeft = Math.random() * 400; // Nueva posición horizontal aleatoria
+                numero.style.top = nuevoTop + 'px';
+                numero.style.left = nuevoLeft + 'px';
+            });
+        }
+
+        // Llamar a la función para mover los números cada 2 segundos
+        setInterval(moverNumeros, 2000);
+    </script>
+</body>
+</html>

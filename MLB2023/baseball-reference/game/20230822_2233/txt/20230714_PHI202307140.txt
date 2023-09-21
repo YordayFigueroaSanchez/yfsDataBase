@@ -1,0 +1,282 @@
+
+Scorebox Meta
+20230714
+6:05 p.m. Local
+44028
+Citizens Bank Park
+176
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/SDP-2023.png;/teams/SDP/2023.shtml;0;0;3;0;0;1;2;0;2;8;11;2
+https://cdn.ssref.net/req/202308101/tlogo/br/PHI-2023.png;/teams/PHI/2023.shtml;0;0;0;1;0;0;0;0;2;3;7;1
+
+Batting home
+Kyle Schwarber;/players/s/schwaky01.shtml;LF;3;0;1;0;2;0;5;.186;.317;.425;.742;21;10;0.078; 0.65;0.109;-0.031; 0.05%; 0.65; 0.9;3;0;2B
+Trea Turner;/players/t/turnetr01.shtml;SS;5;0;0;0;0;3;5;.244;.295;.383;.678;18;13;-0.131; 1.05;0.000;-0.131;-0.08%; 1.05; -1.9;1;4;
+Nick Castellanos;/players/c/casteni01.shtml;RF;5;0;1;0;0;0;5;.300;.342;.491;.834;11;8;-0.066; 0.69;0.022;-0.087;-0.04%; 0.69; -1.3;1;0;
+Bryce Harper;/players/h/harpebr03.shtml;DH;4;0;1;0;0;1;4;.290;.384;.397;.781;15;9;-0.020; 0.81;0.042;-0.062;-0.01%; 0.81; -0.3;;;
+J.T. Realmuto;/players/r/realmjt01.shtml;C;4;1;1;1;0;2;4;.249;.306;.467;.773;11;9;-0.124; 0.83;0.002;-0.125;-0.07%; 0.83; -0.2;7;0;HR,GDP
+Bryson Stott;/players/s/stottbr01.shtml;2B;4;1;1;0;0;1;4;.301;.337;.423;.760;16;10;-0.008; 0.39;0.022;-0.030;-0.01%; 0.39; -0.3;3;2;2B
+Alec Bohm;/players/b/bohmal01.shtml;3B;3;1;2;1;1;1;4;.284;.333;.432;.765;19;9;0.096; 0.51;0.108;-0.011; 0.06%; 0.51; 1.1;0;3;2B
+Darick Hall;/players/h/hallda02.shtml;1B;2;0;0;0;0;2;2;.200;.238;.300;.538;10;7;-0.064; 1.10;0.000;-0.064;-0.04%; 1.10; -0.6;6;1;
+Drew Ellis;/players/e/ellisdr01.shtml;PH-1B;1;0;0;0;1;0;2;.211;.375;.526;.901;12;6;0.018; 0.19;0.018;0.000; 0.01%; 0.19; 1.4;2;0;
+Brandon Marsh;/players/m/marshbr02.shtml;CF;3;0;0;0;1;2;4;.272;.348;.444;.792;20;11;-0.061; 0.73;0.009;-0.070;-0.04%; 0.73; -0.6;3;0;
+Cristopher Sánchez;/players/s/sanchcr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Jeff Hoffman;/players/h/hoffmje02.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Andrew Vasquez;/players/v/vasquan02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dylan Covey;/players/c/coveydy01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andrew Bellatti;/players/b/bellaan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Bryson Stott (16, off Yu Darvish); Alec Bohm (16, off Yu Darvish); Kyle Schwarber (12, off Yu Darvish).
+
+
+HR: J.T. Realmuto (11, off Luis García, 9th inn, 0 on, 0 outs to Deep RF).
+
+
+TB: J.T. Realmuto 4; Alec Bohm 3; Bryson Stott 2; Kyle Schwarber 2; Nick Castellanos; Bryce Harper.
+
+
+GIDP: J.T. Realmuto (6).
+
+
+RBI: J.T. Realmuto (35); Alec Bohm (58).
+
+
+2-out RBI: Alec Bohm.
+
+
+Team LOB: 9.
+With RISP: 1 for 7.
+
+Batting away
+Ha-Seong Kim;/players/k/kimha01.shtml;2B;5;0;1;1;0;1;5;.257;.347;.407;.754;22;12;-0.054; 0.62;0.016;-0.071;-0.01%; 0.28; -0.5;3;5;
+Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF;5;1;1;2;0;1;5;.287;.343;.530;.873;20;11;0.133; 0.54;0.175;-0.042; 0.04%; 0.25; 0.5;1;0;HR
+Juan Soto;/players/s/sotoju01.shtml;LF;4;1;1;2;1;2;5;.265;.419;.486;.905;22;12;-0.023; 0.29;0.007;-0.030;-0.01%; 0.13; 1.5;1;0;HR
+Manny Machado;/players/m/machama01.shtml;3B;4;1;1;1;1;0;5;.261;.309;.465;.774;17;13;0.048; 0.43;0.094;-0.046; 0.01%; 0.19; -0.1;1;2;HR
+Xander Bogaerts;/players/b/bogaexa01.shtml;SS;5;0;2;0;0;1;5;.255;.340;.393;.732;30;19;0.013; 0.27;0.029;-0.016; 0.00%; 0.12; 0.1;0;2;
+Jake Cronenworth;/players/c/croneja01.shtml;1B;4;1;1;0;0;1;4;.218;.317;.363;.680;19;15;-0.037; 0.49;0.026;-0.063;-0.01%; 0.22; -0.4;8;0;2B,GDP
+Gary Sánchez;/players/s/sanchga02.shtml;C;3;1;1;1;1;0;4;.200;.273;.424;.697;17;11;0.138; 0.56;0.141;-0.003; 0.04%; 0.25; 1.6;12;0;HR
+Brandon Dixon;/players/d/dixonbr01.shtml;DH;3;1;1;1;0;0;3;.216;.259;.351;.611;10;5;-0.024; 0.87;0.025;-0.048;-0.01%; 0.39; -0.0;;;
+Rougned Odor;/players/o/odorro01.shtml;PH-DH-DH;1;0;0;0;0;0;1;.211;.305;.368;.673;1;1;-0.007; 0.26;0.000;-0.007;-0.00%; 0.12; -0.9;;;GDP
+Trent Grisham;/players/g/grishtr01.shtml;CF;3;2;2;0;1;1;4;.214;.325;.386;.711;16;8;0.033; 0.60;0.056;-0.023; 0.01%; 0.27; 1.6;1;0;2·2B,SB
+Yu Darvish;/players/d/darviyu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tom Cosgrove;/players/c/cosgrto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nick Martinez;/players/m/martini01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Luis García;/players/g/garcilu03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Josh Hader;/players/h/haderjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jake Cronenworth (14, off Andrew Vasquez); Trent Grisham 2 (22, 1 off Andrew Vasquez, 1 off Dylan Covey).
+
+
+HR: Gary Sánchez (8, off Cristopher Sánchez, 3rd inn, 0 on, 0 outs to Deep LF Line); Fernando Tatis Jr. (17, off Cristopher Sánchez, 3rd inn, 1 on, 2 outs to Deep LF Line); Manny Machado (16, off Jeff Hoffman, 6th inn, 0 on, 2 outs to Deep LF Line); Juan Soto (16, off Dylan Covey, 9th inn, 1 on, 2 outs to Deep LF-CF).
+
+
+TB: Trent Grisham 4; Gary Sánchez 4; Manny Machado 4; Fernando Tatis Jr. 4; Juan Soto 4; Jake Cronenworth 2; Xander Bogaerts 2; Ha-Seong Kim; Brandon Dixon.
+
+
+GIDP: Jake Cronenworth (8); Rougned Odor (2).
+
+
+RBI: Juan Soto 2 (49); Fernando Tatis Jr. 2 (46); Brandon Dixon (9); Gary Sánchez (22); Manny Machado (50); Ha-Seong Kim (32).
+
+
+2-out RBI: Fernando Tatis Jr. 2; Juan Soto 2; Manny Machado.
+
+
+Team LOB: 6.
+With RISP: 4 for 10.
+
+Pitching home
+Cristopher Sánchez;/players/s/sanchcr01.shtml; L (0-3); 5 ;3;3;3;1;5;2;3.26;19;79;50;21;6;23;6;7;1;0;53;;;-0.093; 0.75;-0.06%; 0.75; -0.4
+Jeff Hoffman;/players/h/hoffmje02.shtml;Jeff Hoffman; 1 ;1;1;1;0;2;1;2.82;4;22;14;8;4;2;1;1;0;0;;0;0;-0.058; 0.44;-0.03%; 0.44; -0.5
+Andrew Vasquez;/players/v/vasquan02.shtml;Andrew Vasquez; 0.2;4;2;2;1;0;0;2.15;7;28;16;8;2;6;3;3;1;0;;0;0;-0.077; 0.37;-0.05%; 0.37; -2.3
+Dylan Covey;/players/c/coveydy01.shtml;Dylan Covey; 2 ;3;2;2;2;0;1;6.00;10;41;24;20;2;2;2;6;3;0;;3;0;0.008; 0.10; 0.01%; 0.10; -0.4
+Andrew Bellatti;/players/b/bellaan01.shtml;Andrew Bellatti; 0.1;0;0;0;0;0;0;5.54;1;4;3;2;1;0;0;1;0;0;;1;0;0.000; 0.00; 0.00%; 0.00; 0.2
+
+Pitching away
+Yu Darvish;/players/d/darviyu01.shtml; W (6-6); 6 ;5;1;1;2;9;0;4.65;24;94;58;28;13;17;8;5;3;0;65;;;0.242; 0.94; 0.07%; 0.42; 2.1
+Tom Cosgrove;/players/c/cosgrto01.shtml;Tom Cosgrove; 1 ;0;0;0;1;1;0;1.57;4;21;12;6;3;3;0;2;0;0;;0;0;0.021; 0.38; 0.01%; 0.17; 0.5
+Nick Martinez;/players/m/martini01.shtml;Nick Martinez; 1 ;0;0;0;0;1;0;3.84;3;6;5;3;1;1;2;0;0;0;;0;0;0.016; 0.20; 0.00%; 0.09; 0.5
+Luis García;/players/g/garcilu03.shtml;Luis García; 0.1;2;2;1;2;0;1;5.81;6;22;10;7;2;1;2;2;0;0;;0;0;-0.043; 0.17;-0.01%; 0.08; -3.1
+Josh Hader;/players/h/haderjo01.shtml; S (22); 0.2;0;0;0;0;1;0;1.06;2;10;7;3;3;1;0;1;0;0;;3;0;0.045; 0.94; 0.01%; 0.42; 1.6
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Dan Bellino, 1B - Phil Cuzzi, 2B - Shane Livensparger, 3B - Brock Ballou, LF - (none), RF - (none).
+Time of Game: 2:56.
+Attendance: 44,028.
+Field Condition: Unknown.
+Start Time Weather: 87° F, Wind 8mph out to Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Padres
+1;Ha-Seong Kim;/players/k/kimha01.shtml;2B
+2;Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF
+3;Juan Soto;/players/s/sotoju01.shtml;LF
+4;Manny Machado;/players/m/machama01.shtml;3B
+5;Xander Bogaerts;/players/b/bogaexa01.shtml;SS
+6;Jake Cronenworth;/players/c/croneja01.shtml;1B
+7;Gary Sánchez;/players/s/sanchga02.shtml;C
+8;Brandon Dixon;/players/d/dixonbr01.shtml;DH
+9;Trent Grisham;/players/g/grishtr01.shtml;CF
+; Yu Darvish;/players/d/darviyu01.shtml;P
+Phillies
+1;Kyle Schwarber;/players/s/schwaky01.shtml;LF
+2;Trea Turner;/players/t/turnetr01.shtml;SS
+3;Nick Castellanos;/players/c/casteni01.shtml;RF
+4;Bryce Harper;/players/h/harpebr03.shtml;DH
+5;J.T. Realmuto;/players/r/realmjt01.shtml;C
+6;Bryson Stott;/players/s/stottbr01.shtml;2B
+7;Alec Bohm;/players/b/bohmal01.shtml;3B
+8;Darick Hall;/players/h/hallda02.shtml;1B
+9;Brandon Marsh;/players/m/marshbr02.shtml;CF
+; Cristopher Sánchez;/players/s/sanchcr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t3;1-0;2;-2-;1,(0-0) X;RR;SDP;Fernando Tatis Jr.;Cristopher Sánchez;17%;77%;Home Run (Fly Ball to Deep LF Line); Grisham Scores
+t3;0-0;0;---;4,(0-2) SS.FX;R;SDP;Gary Sánchez;Cristopher Sánchez;11%;61%;Home Run (Fly Ball to Deep LF Line)
+t6;3-1;2;---;3,(0-2) SFX;R;SDP;Manny Machado;Jeff Hoffman;9%;84%;Home Run (Fly Ball to Deep LF Line)
+b4;0-3;2;-2-;3,(2-0) BBX;R;PHI;Alec Bohm;Yu Darvish;-9%;71%;Double to RF (Line Drive to Deep CF-RF); Stott Scores
+b4;0-3;0;1--;1,(0-0) X;OO;PHI;J.T. Realmuto;Yu Darvish;8%;83%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Padres Batting, Tied 0-0, Phillies' Cristopher Sánchez facing 1-2-3 
+t1;0-0;0;---;6,(3-2) CBBBS.X;O;SDP;Ha-Seong Kim;Cristopher Sánchez;-2%;48%;Flyball: LF (Deep LF-CF)
+t1;0-0;1;---;5,(2-2) CBSBX;O;SDP;Fernando Tatis Jr.;Cristopher Sánchez;-2%;46%;Groundout: 3B-1B (SS-3B Hole)
+t1;0-0;2;---;6,(2-2) BCBCFT;O;SDP;Juan Soto;Cristopher Sánchez;-1%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Phillies 0.
+Bottom of the 1st, Phillies Batting, Tied 0-0, Padres' Yu Darvish facing 1-2-3 
+b1;0-0;0;---;3,(1-1) BFX;O;PHI;Kyle Schwarber;Yu Darvish;2%;47%;Popfly: 2B (Short CF-RF)
+b1;0-0;1;---;7,(3-2) BBBCFFS;O;PHI;Trea Turner;Yu Darvish;2%;49%;Strikeout Swinging
+b1;0-0;2;---;3,(1-1) SBX;;PHI;Nick Castellanos;Yu Darvish;-2%;47%;Single to 2B (Ground Ball to SS-2B); Castellanos to 2B/Adv on E4 (throw)
+b1;0-0;2;-2-;5,(2-2) FS*BBS;O;PHI;Bryce Harper;Yu Darvish;3%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 1 error, 1 LOB. Padres 0, Phillies 0.
+Top of the 2nd, Padres Batting, Tied 0-0, Phillies' Cristopher Sánchez facing 4-5-6 
+t2;0-0;0;---;3,(0-2) CCX;O;SDP;Manny Machado;Cristopher Sánchez;-2%;48%;Groundout: 2B-1B
+t2;0-0;1;---;4,(2-1) BBCX;;SDP;Xander Bogaerts;Cristopher Sánchez;3%;50%;Single to LF (Line Drive to Deep LF-CF)
+t2;0-0;1;1--;6,(1-2) .CCFBFX;OO;SDP;Jake Cronenworth;Cristopher Sánchez;-5%;45%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Padres 0, Phillies 0.
+Bottom of the 2nd, Phillies Batting, Tied 0-0, Padres' Yu Darvish facing 5-6-7 
+b2;0-0;0;---;4,(1-2) CSBS;O;PHI;J.T. Realmuto;Yu Darvish;2%;47%;Strikeout Swinging
+b2;0-0;1;---;6,(3-2) BCBBC.S;O;PHI;Bryson Stott;Yu Darvish;2%;49%;Strikeout Swinging
+b2;0-0;2;---;7,(3-2) CBBBFFB;;PHI;Alec Bohm;Yu Darvish;-1%;48%;Walk
+b2;0-0;2;1--;7,(3-2) FFBFBB>C;O;PHI;Darick Hall;Yu Darvish;2%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 0, Phillies 0.
+Top of the 3rd, Padres Batting, Tied 0-0, Phillies' Cristopher Sánchez facing 7-8-9 
+t3;0-0;0;---;4,(0-2) SS.FX;R;SDP;Gary Sánchez;Cristopher Sánchez;11%;61%;Home Run (Fly Ball to Deep LF Line)
+t3;1-0;0;---;5,(3-1) BCBBX;O;SDP;Brandon Dixon;Cristopher Sánchez;-2%;59%;Flyball: RF (Short RF Line)
+t3;1-0;1;---;5,(3-1) BCBB*B;;SDP;Trent Grisham;Cristopher Sánchez;2%;61%;Walk
+t3;1-0;1;1--;6,(3-2) CBBC1B>C;O;SDP;Ha-Seong Kim;Cristopher Sánchez;-2%;60%;Strikeout Looking, Grisham Steals 2B
+t3;1-0;2;-2-;1,(0-0) X;RR;SDP;Fernando Tatis Jr.;Cristopher Sánchez;17%;77%;Home Run (Fly Ball to Deep LF Line); Grisham Scores
+t3;3-0;2;---;4,(1-2) CBC.S;O;SDP;Juan Soto;Cristopher Sánchez;-1%;76%;Strikeout Swinging
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Padres 3, Phillies 0.
+Bottom of the 3rd, Phillies Batting, Behind 0-3, Padres' Yu Darvish facing 9-1-2 
+b3;0-3;0;---;5,(1-2) CBC.FS;O;PHI;Brandon Marsh;Yu Darvish;2%;79%;Strikeout Swinging
+b3;0-3;1;---;6,(3-2) BBFBS.B;;PHI;Kyle Schwarber;Yu Darvish;-3%;76%;Walk
+b3;0-3;1;1--;1,(0-0) X;O;PHI;Trea Turner;Yu Darvish;3%;79%;Flyball: CF (Deep CF-RF)
+b3;0-3;2;1--;1,(0-0) X;O;PHI;Nick Castellanos;Yu Darvish;2%;81%;Lineout: 3B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 3, Phillies 0.
+Top of the 4th, Padres Batting, Ahead 3-0, Phillies' Cristopher Sánchez facing 4-5-6 
+t4;3-0;0;---;2,(0-1) CX;O;SDP;Manny Machado;Cristopher Sánchez;-1%;80%;Flyball: CF (Deep CF)
+t4;3-0;1;---;4,(2-1) CBBX;O;SDP;Xander Bogaerts;Cristopher Sánchez;-1%;79%;Groundout: 3B-1B (SS-3B Hole)
+t4;3-0;2;---;4,(1-2) BCCS;O;SDP;Jake Cronenworth;Cristopher Sánchez;-1%;78%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 3, Phillies 0.
+Bottom of the 4th, Phillies Batting, Behind 0-3, Padres' Yu Darvish facing 4-5-6 
+b4;0-3;0;---;6,(3-2) BBBCCX;;PHI;Bryce Harper;Yu Darvish;-4%;74%;Single to CF (Ground Ball thru SS-2B)
+b4;0-3;0;1--;1,(0-0) X;OO;PHI;J.T. Realmuto;Yu Darvish;8%;83%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b4;0-3;2;---;2,(0-1) CX;;PHI;Bryson Stott;Yu Darvish;-2%;80%;Double to LF (Line Drive to LF Line)
+b4;0-3;2;-2-;3,(2-0) BBX;R;PHI;Alec Bohm;Yu Darvish;-9%;71%;Double to RF (Line Drive to Deep CF-RF); Stott Scores
+b4;1-3;2;-2-;3,(0-2) FFS;O;PHI;Darick Hall;Yu Darvish;4%;75%;Strikeout Swinging
+;;;;;;;;;1 run, 3 hits, 0 errors, 1 LOB. Padres 3, Phillies 1.
+Top of the 5th, Padres Batting, Ahead 3-1, Phillies' Cristopher Sánchez facing 7-8-9 
+t5;3-1;0;---;4,(1-2) CBF.X;;SDP;Gary Sánchez;Cristopher Sánchez;3%;78%;Reached on E3 (Ground Ball to Weak 1B); Sánchez to 1B
+t5;3-1;0;1--;2,(1-0) BX;O;SDP;Brandon Dixon;Cristopher Sánchez;-3%;75%;Groundout: P-2B/Forceout at 2B (Weak 2B); Dixon to 1B
+t5;3-1;1;1--;3,(0-2) CFC;O;SDP;Trent Grisham;Cristopher Sánchez;-2%;73%;Strikeout Looking
+t5;3-1;2;1--;5,(3-1) BFBBX;O;SDP;Ha-Seong Kim;Cristopher Sánchez;-2%;71%;Flyball: CF (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Padres 3, Phillies 1.
+Bottom of the 5th, Phillies Batting, Behind 1-3, Padres' Yu Darvish facing 9-1-2 
+b5;1-3;0;---;6,(3-2) CBFBBS;O;PHI;Brandon Marsh;Yu Darvish;3%;74%;Strikeout Swinging
+b5;1-3;1;---;2,(0-1) CX;;PHI;Kyle Schwarber;Yu Darvish;-6%;69%;Double to RF (Ground Ball)
+b5;1-3;1;-2-;2,(1-0) BX;O;PHI;Trea Turner;Yu Darvish;5%;74%;Groundout: 3B-1B (SS-3B Hole)
+b5;1-3;2;-2-;1,(0-0) X;O;PHI;Nick Castellanos;Yu Darvish;4%;78%;Groundout: 2B-1B (Deep SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 3, Phillies 1.
+Top of the 6th, Padres Batting, Ahead 3-1, Phillies' Jeff Hoffman facing 2-3-4 
+;;;;;;;;;Jeff Hoffman replaces Cristopher Sánchez pitching
+t6;3-1;0;---;7,(3-2) .BBFSB.FS;O;SDP;Fernando Tatis Jr.;Jeff Hoffman;-2%;76%;Strikeout Swinging
+t6;3-1;1;---;4,(2-1) CBBX;O;SDP;Juan Soto;Jeff Hoffman;-1%;75%;Groundout: 1B-P
+t6;3-1;2;---;3,(0-2) SFX;R;SDP;Manny Machado;Jeff Hoffman;9%;84%;Home Run (Fly Ball to Deep LF Line)
+t6;4-1;2;---;8,(3-2) FBSBFBFC;O;SDP;Xander Bogaerts;Jeff Hoffman;-1%;84%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Padres 4, Phillies 1.
+Bottom of the 6th, Phillies Batting, Behind 1-4, Padres' Yu Darvish facing 4-5-6 
+b6;1-4;0;---;2,(0-1) SX;O;PHI;Bryce Harper;Yu Darvish;3%;86%;Groundout: SS-1B (Weak SS-2B)
+b6;1-4;1;---;5,(1-2) CCBFS;O;PHI;J.T. Realmuto;Yu Darvish;2%;88%;Strikeout Swinging
+b6;1-4;2;---;6,(3-2) CBCBBX;O;PHI;Bryson Stott;Yu Darvish;1%;89%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 4, Phillies 1.
+Top of the 7th, Padres Batting, Ahead 4-1, Phillies' Andrew Vasquez facing 6-7-8 
+;;;;;;;;;Andrew Vasquez replaces Jeff Hoffman pitching
+t7;4-1;0;---;4,(1-2) .CBSX;;SDP;Jake Cronenworth;Andrew Vasquez;3%;92%;Double to CF (Fly Ball to Deep LF)
+t7;4-1;0;-2-;4,(1-2) BCFX;O;SDP;Gary Sánchez;Andrew Vasquez;0%;92%;Groundout: SS-1B; Cronenworth to 3B
+t7;4-1;1;--3;3,(1-1) FBX;R;SDP;Brandon Dixon;Andrew Vasquez;2%;94%;Single to CF (Fly Ball to LF-CF); Cronenworth Scores
+t7;5-1;1;1--;5,(2-2) SBBCX;;SDP;Trent Grisham;Andrew Vasquez;2%;96%;Double to RF (Line Drive to Deep CF-RF); Dixon to 3B
+t7;5-1;1;-23;4,(1-2) CCBX;R;SDP;Ha-Seong Kim;Andrew Vasquez;2%;98%;Single to LF (Ground Ball); Dixon Scores; Grisham to 3B
+t7;6-1;1;1-3;3,(2-0) BBX;O;SDP;Fernando Tatis Jr.;Andrew Vasquez;-1%;97%;Groundout: 3B-1B (SS-3B Hole); Kim to 2B
+t7;6-1;2;-23;5,(3-1) BBCBB;;SDP;Juan Soto;Andrew Vasquez;0%;97%;Walk
+;;;;;;;;;Dylan Covey replaces Andrew Vasquez pitching
+t7;6-1;2;123;1,(0-0) .X;O;SDP;Manny Machado;Dylan Covey;-1%;96%;Flyball: CF (Deep CF)
+;;;;;;;;;2 runs, 4 hits, 0 errors, 3 LOB. Padres 6, Phillies 1.
+Bottom of the 7th, Phillies Batting, Behind 1-6, Padres' Tom Cosgrove facing 7-8-9 
+;;;;;;;;;Tom Cosgrove replaces Yu Darvish pitching
+b7;1-6;0;---;5,(2-2) .CFBBS;O;PHI;Alec Bohm;Tom Cosgrove;1%;97%;Strikeout Swinging
+;;;;;;;;;Drew Ellis pinch hits for Darick Hall (1B) batting 8th
+b7;1-6;1;---;7,(3-2) .BSBS.BFB;;PHI;Drew Ellis;Tom Cosgrove;-1%;96%;Walk
+b7;1-6;1;1--;3,(1-1) CBX;O;PHI;Brandon Marsh;Tom Cosgrove;1%;97%;Foul Popfly: LF (LF into Foul Terr.)
+b7;1-6;2;1--;6,(2-2) BBCF.FX;O;PHI;Kyle Schwarber;Tom Cosgrove;1%;98%;Popfly: 2B (Deep 1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 6, Phillies 1.
+Top of the 8th, Padres Batting, Ahead 6-1, Phillies' Dylan Covey facing 5-6-7 
+;;;;;;;;;Drew Ellis moves from PH to 1B 
+t8;6-1;0;---;10,(3-2) .BFBSBFFFFX;;SDP;Xander Bogaerts;Dylan Covey;0%;98%;Single to LF (Line Drive)
+t8;6-1;0;1--;5,(1-2) BFSFX;O;SDP;Jake Cronenworth;Dylan Covey;0%;98%;Flyball: LF (Deep SS-3B Hole)
+t8;6-1;1;1--;5,(3-1) BCB*BB;;SDP;Gary Sánchez;Dylan Covey;0%;98%;Walk; Bogaerts to 2B
+;;;;;;;;;Rougned Odor pinch hits for Brandon Dixon (DH) batting 8th
+t8;6-1;1;12-;1,(0-0) .X;OO;SDP;Rougned Odor;Dylan Covey;-1%;98%;Ground Ball Double Play: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 6, Phillies 1.
+Bottom of the 8th, Phillies Batting, Behind 1-6, Padres' Nick Martinez facing 2-3-4 
+;;;;;;;;;Nick Martinez replaces Tom Cosgrove pitching
+b8;1-6;0;---;3,(0-2) ..FCS;O;PHI;Trea Turner;Nick Martinez;1%;99%;Strikeout Swinging
+b8;1-6;1;---;1,(0-0) X;O;PHI;Nick Castellanos;Nick Martinez;0%;99%;Groundout: 2B-1B (Weak 2B)
+b8;1-6;2;---;2,(1-0) .BX;O;PHI;Bryce Harper;Nick Martinez;0%;99%;Groundout: 2B-1B (Deep 2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 6, Phillies 1.
+Top of the 9th, Padres Batting, Ahead 6-1, Phillies' Dylan Covey facing 9-1-2 
+t9;6-1;0;---;3,(2-0) BBX;;SDP;Trent Grisham;Dylan Covey;0%;100%;Double to RF (Fly Ball to Short CF)
+t9;6-1;0;-2-;1,(0-0) X;O;SDP;Ha-Seong Kim;Dylan Covey;0%;99%;Lineout: 2B (Deep 2B)
+t9;6-1;1;-2-;4,(2-1) BBFX;O;SDP;Fernando Tatis Jr.;Dylan Covey;0%;99%;Groundout: SS-1B; Grisham to 3B
+t9;6-1;2;--3;3,(1-1) FBX;RR;SDP;Juan Soto;Dylan Covey;1%;100%;Home Run (Line Drive to Deep LF-CF); Grisham Scores
+t9;8-1;2;---;8,(3-2) FCBBFFB*B;;SDP;Manny Machado;Dylan Covey;0%;100%;Walk
+;;;;;;;;;Andrew Bellatti replaces Dylan Covey pitching
+t9;8-1;2;1--;4,(1-2) .BFSX;O;SDP;Xander Bogaerts;Andrew Bellatti;0%;100%;Flyball: LF (Deep LF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Padres 8, Phillies 1.
+Bottom of the 9th, Phillies Batting, Behind 1-8, Padres' Luis García facing 5-6-7 
+;;;;;;;;;Luis García replaces Nick Martinez pitching
+b9;1-8;0;---;1,(0-0) .X;R;PHI;J.T. Realmuto;Luis García;0%;100%;Home Run (Fly Ball to Deep RF)
+b9;2-8;0;---;2,(0-1) FX;O;PHI;Bryson Stott;Luis García;0%;100%;Groundout: SS-1B (SS-2B)
+b9;2-8;1;---;4,(2-1) CBBX;;PHI;Alec Bohm;Luis García;0%;100%;Single to CF (Ground Ball thru SS-2B)
+b9;2-8;1;1--;5,(2-2) FSBBX;R;PHI;Drew Ellis;Luis García;-1%;99%;Reached on E7 (Fly Ball to Deep LF-CF); Bohm Scores/No RBI/unER; Ellis to 2B
+b9;3-8;1;-2-;6,(3-2) FBS*BBB;;PHI;Brandon Marsh;Luis García;-1%;98%;Walk
+b9;3-8;1;12-;4,(3-0) BBBB;;PHI;Kyle Schwarber;Luis García;-3%;96%;Walk; Ellis to 3B; Marsh to 2B
+;;;;;;;;;Josh Hader replaces Luis García pitching
+b9;3-8;1;123;5,(1-2) .CBFF*S;O;PHI;Trea Turner;Josh Hader;3%;98%;Strikeout Swinging
+b9;3-8;2;123;5,(2-2) B*SS.BX;O;PHI;Nick Castellanos;Josh Hader;2%;100%;Flyball: RF (Short RF Line)
+;;;;;;;;;2 runs, 2 hits, 1 error, 3 LOB. Padres 8, Phillies 3.

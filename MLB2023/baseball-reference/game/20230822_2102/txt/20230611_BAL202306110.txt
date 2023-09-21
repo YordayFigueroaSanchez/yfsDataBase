@@ -1,0 +1,267 @@
+
+Scorebox Meta
+20230611
+1:35 p.m. Local
+23255
+Oriole Park at Camden Yards
+156
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/KCR-2023.png;/teams/KCR/2023.shtml;1;0;2;0;0;0;0;0;0;3;8;0
+https://cdn.ssref.net/req/202308101/tlogo/br/BAL-2023.png;/teams/BAL/2023.shtml;3;0;3;1;0;0;3;1;X;11;14;1
+
+Batting home
+Gunnar Henderson;/players/h/hendegu01.shtml;SS;5;2;3;3;0;1;5;.236;.349;.455;.804;19;12;0.063; 0.50;0.095;-0.031; 0.04%; 0.53; 3.2;1;1;HR,2B
+Anthony Santander;/players/s/santaan02.shtml;DH;4;0;0;0;1;0;5;.260;.333;.468;.801;23;15;-0.019; 0.52;0.014;-0.033;-0.01%; 0.54; -0.7;;;
+Austin Hays;/players/h/haysau01.shtml;LF;4;0;0;1;0;1;5;.301;.339;.491;.830;14;11;-0.023; 0.62;0.019;-0.042;-0.01%; 0.65; -1.0;3;0;SF
+Ryan O'Hearn;/players/o/ohearry01.shtml;RF-1B;3;4;3;1;2;0;5;.328;.380;.609;.990;20;10;0.063; 0.34;0.063;0.000; 0.04%; 0.35; 1.9;0;0;HR
+Aaron Hicks;/players/h/hicksaa01.shtml;CF;4;2;2;1;1;0;5;.235;.330;.357;.688;24;15;0.145; 0.63;0.154;-0.010; 0.09%; 0.65; 1.4;2;0;2·2B
+Ramón Urías;/players/u/uriasra01.shtml;3B;5;2;4;2;0;0;5;.272;.349;.404;.753;13;11;0.243; 0.90;0.254;-0.011; 0.15%; 0.93; 3.0;1;2;2·2B
+Adam Frazier;/players/f/fraziad01.shtml;2B;4;1;0;0;1;0;5;.232;.298;.396;.694;19;11;-0.097; 0.66;0.002;-0.099;-0.06%; 0.69; -1.2;1;4;
+Josh Lester;/players/l/lestejo02.shtml;1B;4;0;2;2;0;1;4;.267;.267;.267;.533;16;10;0.168; 0.94;0.178;-0.010; 0.10%; 0.98; 1.3;8;0;
+Ryan McKenna;/players/m/mckenry01.shtml;RF;0;0;0;0;0;0;0;.229;.276;.343;.619;;;;;;;;;;1;0;
+James McCann;/players/m/mccanja02.shtml;C;3;0;0;1;0;0;4;.184;.226;.345;.571;13;7;-0.015; 0.66;0.016;-0.031;-0.01%; 0.68; -0.9;10;1;SF
+Kyle Gibson;/players/g/gibsoky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Keegan Akin;/players/a/akinke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Gunnar Henderson (8, off Carlos Hernández); Aaron Hicks 2 (4, 1 off Carlos Hernández, 1 off Mike Mayers); Ramón Urías 2 (12, 1 off Carlos Hernández, 1 off Jackson Kowar).
+
+
+HR: Gunnar Henderson (9, off Jackson Kowar, 7th inn, 2 on, 2 outs to Deep RF); Ryan O'Hearn (4, off Nick Wittgren, 8th inn, 0 on, 1 out to Deep RF Line).
+
+
+SF: Austin Hays (3, off Carlos Hernández); James McCann (1, off Mike Mayers).
+
+
+TB: Gunnar Henderson 7; Ramón Urías 6; Ryan O'Hearn 6; Aaron Hicks 4; Josh Lester 2.
+
+
+RBI: Gunnar Henderson 3 (21); Josh Lester 2 (4); Ramón Urías 2 (20); Austin Hays (28); Aaron Hicks (9); James McCann (7); Ryan O'Hearn (17).
+
+
+2-out RBI: Gunnar Henderson 3; Ramón Urías 2; Aaron Hicks.
+
+
+Team LOB: 8.
+With RISP: 4 for 12.
+
+Batting away
+Nick Pratto;/players/p/prattni01.shtml;1B;4;1;1;0;0;2;4;.288;.375;.439;.814;15;9;-0.023; 0.65;0.028;-0.050;0%; 0.01; -0.4;7;1;
+Salvador Perez;/players/p/perezsa02.shtml;C;4;2;2;2;0;1;4;.273;.308;.502;.810;13;9;0.216; 0.60;0.229;-0.012; 0.00%; 0.01; 1.8;2;0;HR,2B
+Freddy Fermin;/players/f/fermifr01.shtml;C;0;0;0;0;0;0;0;.212;.281;.423;.704;;;;;;;;;;1;0;
+MJ Melendez;/players/m/melenmj01.shtml;RF;4;0;0;0;0;1;4;.216;.300;.358;.657;16;12;-0.058; 0.55;0.000;-0.058;0%; 0.01; -0.8;4;0;
+Nate Eaton;/players/e/eatonna01.shtml;RF;0;0;0;0;0;0;0;.058;.109;.058;.167;;;;;;;;;;1;0;
+Bobby Witt;/players/w/wittbo02.shtml;DH;4;0;2;1;0;1;4;.239;.271;.417;.687;19;12;0.098; 0.56;0.115;-0.016; 0.00%; 0.01; 0.8;;;2B
+Michael Massey;/players/m/massemi02.shtml;2B;4;0;0;0;0;0;4;.217;.271;.309;.579;12;8;-0.065; 0.59;0.000;-0.065;-0.00%; 0.01; -0.9;2;1;
+Edward Olivares;/players/o/olivaed02.shtml;LF;4;0;1;0;0;0;4;.247;.315;.444;.759;10;8;-0.030; 0.70;0.038;-0.068;0%; 0.01; 0.3;1;0;3B,CS
+Drew Waters;/players/w/waterdr01.shtml;CF;4;0;0;0;0;3;4;.184;.244;.263;.507;14;10;-0.065; 0.69;0.000;-0.065;-0.00%; 0.01; -1.3;5;0;
+Maikel Garcia;/players/g/garcima01.shtml;SS;4;0;2;0;0;1;4;.264;.328;.364;.692;14;11;0.018; 0.27;0.028;-0.010;0%; 0.00; -0.1;0;1;
+Nicky Lopez;/players/l/lopezni01.shtml;3B;2;0;0;0;0;0;2;.220;.333;.329;.663;7;4;-0.045; 0.85;0.000;-0.045;0%; 0.01; -0.5;0;2;
+Matt Duffy;/players/d/duffyma01.shtml;PH-3B;1;0;0;0;0;1;1;.307;.361;.387;.748;6;4;-0.018; 0.74;0.000;-0.018;0%; 0.01; -0.3;0;0;
+Carlos Hernández;/players/h/hernaca04.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Mike Mayers;/players/m/mayermi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jackson Kowar;/players/k/kowarja01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Nick Wittgren;/players/w/wittgni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Salvador Perez (14, off Kyle Gibson); Bobby Witt (9, off Kyle Gibson).
+
+
+3B: Edward Olivares (4, off Keegan Akin).
+
+
+HR: Salvador Perez (13, off Kyle Gibson, 3rd inn, 1 on, 1 out to Deep LF-CF).
+
+
+TB: Salvador Perez 6; Bobby Witt 3; Edward Olivares 3; Maikel Garcia 2; Nick Pratto.
+
+
+RBI: Salvador Perez 2 (36); Bobby Witt (28).
+
+
+2-out RBI: Bobby Witt.
+
+
+Team LOB: 5.
+With RISP: 1 for 5.
+
+Pitching home
+Kyle Gibson;/players/g/gibsoky01.shtml; W (8-3); 6.1;7;3;3;0;4;1;3.90;26;90;59;33;10;16;9;13;6;0;51;;;-0.061; 0.72;-0.04%; 0.75; -0.1
+Keegan Akin;/players/a/akinke01.shtml;Keegan Akin; 2.2;1;0;0;0;6;0;3.86;9;36;28;10;10;8;0;3;1;0;;1;0;0.033; 0.14; 0.02%; 0.15; 1.5
+
+Pitching away
+Carlos Hernández;/players/h/hernaca04.shtml;Carlos Hernández; 1 ;3;3;3;1;0;0;5.01;7;28;18;14;1;3;1;5;2;0;34;;;-0.258; 1.09;-0.00%; 0.02; -2.5
+Mike Mayers;/players/m/mayermi01.shtml; L (1-2); 5 ;7;4;4;3;1;0;5.06;25;88;57;39;5;13;8;13;3;0;;0;0;-0.245; 0.75;-0.00%; 0.01; -1.5
+Jackson Kowar;/players/k/kowarja01.shtml;Jackson Kowar; 1 ;2;3;3;1;1;1;4.70;6;28;15;12;2;1;1;3;0;0;;0;0;-0.024; 0.14; 0.00%; 0.00; -2.5
+Nick Wittgren;/players/w/wittgni01.shtml;Nick Wittgren; 1 ;2;1;1;0;1;1;4.82;5;17;12;6;2;4;2;2;1;0;;0;0;0.000; 0.00; 0.00%; 0.00; -0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Adam Beck, 1B - Dan Iassogna, 2B - Scott Barry, 3B - Gabe Morales, LF - (none), RF - (none).
+Time of Game: 2:36.
+Attendance: 23,255.
+Field Condition: Unknown.
+Start Time Weather: 87° F, Wind 6mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Royals
+1;Nick Pratto;/players/p/prattni01.shtml;1B
+2;Salvador Perez;/players/p/perezsa02.shtml;C
+3;MJ Melendez;/players/m/melenmj01.shtml;RF
+4;Bobby Witt;/players/w/wittbo02.shtml;DH
+5;Michael Massey;/players/m/massemi02.shtml;2B
+6;Edward Olivares;/players/o/olivaed02.shtml;LF
+7;Drew Waters;/players/w/waterdr01.shtml;CF
+8;Maikel Garcia;/players/g/garcima01.shtml;SS
+9;Nicky Lopez;/players/l/lopezni01.shtml;3B
+; Carlos Hernández;/players/h/hernaca04.shtml;P
+Orioles
+1;Gunnar Henderson;/players/h/hendegu01.shtml;SS
+2;Anthony Santander;/players/s/santaan02.shtml;DH
+3;Austin Hays;/players/h/haysau01.shtml;LF
+4;Ryan O'Hearn;/players/o/ohearry01.shtml;RF
+5;Aaron Hicks;/players/h/hicksaa01.shtml;CF
+6;Ramón Urías;/players/u/uriasra01.shtml;3B
+7;Adam Frazier;/players/f/fraziad01.shtml;2B
+8;Josh Lester;/players/l/lestejo02.shtml;1B
+9;James McCann;/players/m/mccanja02.shtml;C
+; Kyle Gibson;/players/g/gibsoky01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t3;1-3;1;1--;1,(0-0) X;RR;KCR;Salvador Perez;Kyle Gibson;-19%;53%;Home Run (Fly Ball to Deep LF-CF); Pratto Scores
+b1;1-1;2;-23;5,(1-2) FS.*BFX;RR;BAL;Ramón Urías;Carlos Hernández;17%;73%;Double to CF (Fly Ball to Deep CF-RF); O'Hearn Scores; Hicks Scores
+b3;3-3;1;123;2,(1-0) BX;RR;BAL;Josh Lester;Mike Mayers;15%;82%;Single to CF (Ground Ball); O'Hearn Scores; Hicks Scores; Urías to 3B
+t1;0-0;2;-2-;4,(1-2) SBFX;R;KCR;Bobby Witt;Kyle Gibson;-10%;42%;Double to RF (Line Drive to Deep RF Line); Perez Scores
+b3;3-3;0;12-;1,(0-0) X;;BAL;Ramón Urías;Mike Mayers;8%;73%;Single to CF (Line Drive); O'Hearn to 3B; Hicks to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Royals Batting, Tied 0-0, Orioles' Kyle Gibson facing 1-2-3 
+t1;0-0;0;---;3,(2-0) BBX;O;KCR;Nick Pratto;Kyle Gibson;2%;52%;Groundout: 2B-1B (2B-1B)
+t1;0-0;1;---;3,(1-1) CBX;;KCR;Salvador Perez;Kyle Gibson;-4%;48%;Double to RF (Line Drive to Deep CF-RF)
+t1;0-0;1;-2-;3,(0-2) CSX;O;KCR;MJ Melendez;Kyle Gibson;3%;52%;Foul Popfly: 3B
+t1;0-0;2;-2-;4,(1-2) SBFX;R;KCR;Bobby Witt;Kyle Gibson;-10%;42%;Double to RF (Line Drive to Deep RF Line); Perez Scores
+t1;1-0;2;-2-;1,(0-0) X;O;KCR;Michael Massey;Kyle Gibson;3%;44%;Popfly: 2B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Royals 1, Orioles 0.
+Bottom of the 1st, Orioles Batting, Behind 0-1, Royals' Carlos Hernández facing 1-2-3 
+b1;0-1;0;---;2,(0-1) FX;;BAL;Gunnar Henderson;Carlos Hernández;6%;51%;Double to CF (Line Drive to Deep LF-CF)
+b1;0-1;0;-2-;5,(0-2) FFFFX;O;BAL;Anthony Santander;Carlos Hernández;-2%;49%;Groundout: 1B unassisted; Henderson to 3B
+b1;0-1;1;--3;1,(0-0) X;RO;BAL;Austin Hays;Carlos Hernández;2%;51%;Flyball: RF/Sacrifice Fly (Deep RF Line); Henderson Scores
+b1;1-1;2;---;4,(3-0) BBBB;;BAL;Ryan O'Hearn;Carlos Hernández;1%;52%;Walk
+b1;1-1;2;1--;4,(2-1) CBBX;;BAL;Aaron Hicks;Carlos Hernández;4%;56%;Double to RF (Line Drive to RF Line); O'Hearn to 3B
+b1;1-1;2;-23;5,(1-2) FS.*BFX;RR;BAL;Ramón Urías;Carlos Hernández;17%;73%;Double to CF (Fly Ball to Deep CF-RF); O'Hearn Scores; Hicks Scores
+b1;3-1;2;-2-;7,(3-2) BC*BCFBX;O;BAL;Adam Frazier;Carlos Hernández;-2%;70%;Flyball: LF
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Royals 1, Orioles 3.
+Top of the 2nd, Royals Batting, Behind 1-3, Orioles' Kyle Gibson facing 6-7-8 
+t2;1-3;0;---;2,(0-1) CX;O;KCR;Edward Olivares;Kyle Gibson;2%;73%;Groundout: 3B-1B (SS-3B Hole)
+t2;1-3;1;---;1,(0-0) X;O;KCR;Drew Waters;Kyle Gibson;2%;74%;Flyball: LF (Deep LF)
+t2;1-3;2;---;2,(0-1) CX;O;KCR;Maikel Garcia;Kyle Gibson;1%;75%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 1, Orioles 3.
+Bottom of the 2nd, Orioles Batting, Ahead 3-1, Royals' Mike Mayers facing 8-9-1 
+;;;;;;;;;Mike Mayers replaces Carlos Hernández pitching
+b2;3-1;0;---;4,(1-2) .CFBX;;BAL;Josh Lester;Mike Mayers;2%;78%;Single to CF (Ground Ball)
+b2;3-1;0;1--;4,(2-1) BBSX;O;BAL;James McCann;Mike Mayers;-2%;75%;Groundout: 3B-2B/Forceout at 2B; McCann to 1B
+b2;3-1;1;1--;4,(1-2) FBFX;O;BAL;Gunnar Henderson;Mike Mayers;-2%;73%;Lineout: RF (Deep RF)
+b2;3-1;2;1--;7,(3-2) CBBBS.>F>*B;;BAL;Anthony Santander;Mike Mayers;1%;75%;Walk; McCann to 2B
+b2;3-1;2;12-;4,(1-2) CF*BX;O;BAL;Austin Hays;Mike Mayers;-3%;72%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Royals 1, Orioles 3.
+Top of the 3rd, Royals Batting, Behind 1-3, Orioles' Kyle Gibson facing 9-1-2 
+t3;1-3;0;---;5,(2-2) CCBBX;O;KCR;Nicky Lopez;Kyle Gibson;2%;74%;Groundout: SS-1B (Deep SS-2B)
+t3;1-3;1;---;2,(1-0) BX;;KCR;Nick Pratto;Kyle Gibson;-3%;71%;Single to RF (Line Drive to RF Line)
+t3;1-3;1;1--;1,(0-0) X;RR;KCR;Salvador Perez;Kyle Gibson;-19%;53%;Home Run (Fly Ball to Deep LF-CF); Pratto Scores
+t3;3-3;1;---;2,(0-1) CX;O;KCR;MJ Melendez;Kyle Gibson;2%;54%;Lineout: 1B (Deep 1B)
+t3;3-3;2;---;5,(3-1) BBBCX;;KCR;Bobby Witt;Kyle Gibson;-1%;53%;Single to LF (Line Drive to Deep LF)
+t3;3-3;2;1--;4,(1-2) CBF1X;O;KCR;Michael Massey;Kyle Gibson;3%;55%;Flyball: LF
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Royals 3, Orioles 3.
+Bottom of the 3rd, Orioles Batting, Tied 3-3, Royals' Mike Mayers facing 4-5-6 
+b3;3-3;0;---;3,(1-1) LBX;;BAL;Ryan O'Hearn;Mike Mayers;4%;59%;Single to CF (Ground Ball thru SS-2B)
+b3;3-3;0;1--;6,(3-2) BBBCFB;;BAL;Aaron Hicks;Mike Mayers;6%;65%;Walk; O'Hearn to 2B
+b3;3-3;0;12-;1,(0-0) X;;BAL;Ramón Urías;Mike Mayers;8%;73%;Single to CF (Line Drive); O'Hearn to 3B; Hicks to 2B
+b3;3-3;0;123;2,(1-0) BX;O;BAL;Adam Frazier;Mike Mayers;-7%;66%;Flyball: 2B (Deep 2B)
+b3;3-3;1;123;2,(1-0) BX;RR;BAL;Josh Lester;Mike Mayers;15%;82%;Single to CF (Ground Ball); O'Hearn Scores; Hicks Scores; Urías to 3B
+b3;5-3;1;1-3;3,(1-1) SBX;RO;BAL;James McCann;Mike Mayers;2%;83%;Flyball: CF/Sacrifice Fly (CF-RF); Urías Scores
+b3;6-3;2;1--;6,(3-2) BCBBF>C;O;BAL;Gunnar Henderson;Mike Mayers;-1%;82%;Strikeout Looking
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Royals 3, Orioles 6.
+Top of the 4th, Royals Batting, Behind 3-6, Orioles' Kyle Gibson facing 6-7-8 
+t4;3-6;0;---;2,(0-1) CX;;KCR;Edward Olivares;Kyle Gibson;-4%;78%;Reached on E5 (throw) (Ground Ball); Olivares to 1B
+t4;3-6;0;1--;6,(3-2) BBBC1F>S;OO;KCR;Drew Waters;Kyle Gibson;7%;86%;Double Play: Strikeout Swinging, Olivares Caught Stealing 2B (C-SS)
+t4;3-6;2;---;5,(2-2) SBFBX;;KCR;Maikel Garcia;Kyle Gibson;-1%;84%;Single to LF (Line Drive to Deep LF-CF)
+t4;3-6;2;1--;2,(1-0) BX;O;KCR;Nicky Lopez;Kyle Gibson;2%;86%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 1 error, 1 LOB. Royals 3, Orioles 6.
+Bottom of the 4th, Orioles Batting, Ahead 6-3, Royals' Mike Mayers facing 2-3-4 
+b4;6-3;0;---;1,(0-0) X;O;BAL;Anthony Santander;Mike Mayers;-1%;85%;Popfly: 1B (Weak 2B-1B)
+b4;6-3;1;---;2,(0-1) CX;O;BAL;Austin Hays;Mike Mayers;-1%;85%;Flyball: RF (Deep RF)
+b4;6-3;2;---;10,(3-2) FBFFBBFFFB;;BAL;Ryan O'Hearn;Mike Mayers;1%;85%;Walk
+b4;6-3;2;1--;4,(1-2) C*BFX;R;BAL;Aaron Hicks;Mike Mayers;6%;91%;Double to LF (Fly Ball to Deep LF Line); O'Hearn Scores
+b4;7-3;2;-2-;1,(0-0) X;O;BAL;Ramón Urías;Mike Mayers;-1%;90%;Groundout: 3B-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Royals 3, Orioles 7.
+Top of the 5th, Royals Batting, Behind 3-7, Orioles' Kyle Gibson facing 1-2-3 
+t5;3-7;0;---;7,(3-2) CSBBFBC;O;KCR;Nick Pratto;Kyle Gibson;2%;92%;Strikeout Looking
+t5;3-7;1;---;3,(1-1) BCX;O;KCR;Salvador Perez;Kyle Gibson;1%;93%;Groundout: 3B-1B
+t5;3-7;2;---;7,(3-2) CBBT.BFX;O;KCR;MJ Melendez;Kyle Gibson;1%;93%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Orioles 7.
+Bottom of the 5th, Orioles Batting, Ahead 7-3, Royals' Mike Mayers facing 7-8-9 
+b5;7-3;0;---;4,(0-2) CFFX;O;BAL;Adam Frazier;Mike Mayers;-1%;93%;Lineout: 1B (Deep 1B)
+b5;7-3;1;---;5,(2-2) CSBBX;O;BAL;Josh Lester;Mike Mayers;0%;93%;Groundout: SS-1B (SS-2B)
+b5;7-3;2;---;2,(1-0) BX;O;BAL;James McCann;Mike Mayers;0%;92%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Orioles 7.
+Top of the 6th, Royals Batting, Behind 3-7, Orioles' Kyle Gibson facing 4-5-6 
+t6;3-7;0;---;3,(0-2) CS.*S;O;KCR;Bobby Witt;Kyle Gibson;2%;94%;Strikeout Swinging
+t6;3-7;1;---;6,(3-2) BBFBFX;O;KCR;Michael Massey;Kyle Gibson;1%;95%;Flyball: LF (Deep LF)
+t6;3-7;2;---;4,(2-1) SBBX;O;KCR;Edward Olivares;Kyle Gibson;1%;95%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Orioles 7.
+Bottom of the 6th, Orioles Batting, Ahead 7-3, Royals' Mike Mayers facing 1-2-3 
+b6;7-3;0;---;1,(0-0) X;;BAL;Gunnar Henderson;Mike Mayers;1%;96%;Single to 1B (Ground Ball)
+b6;7-3;0;1--;5,(2-2) B1CB*SX;O;BAL;Anthony Santander;Mike Mayers;-1%;95%;Flyball: CF (Deep CF)
+b6;7-3;1;1--;3,(1-1) BC1X;O;BAL;Austin Hays;Mike Mayers;-1%;95%;Flyball: CF (Deep CF)
+b6;7-3;2;1--;1,(0-0) X;;BAL;Ryan O'Hearn;Mike Mayers;1%;95%;Single to RF (Ground Ball thru 2B-1B); Henderson to 3B
+b6;7-3;2;1-3;3,(0-2) CFX;O;BAL;Aaron Hicks;Mike Mayers;-1%;94%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Royals 3, Orioles 7.
+Top of the 7th, Royals Batting, Behind 3-7, Orioles' Kyle Gibson facing 7-8-9 
+t7;3-7;0;---;4,(1-2) FBSS;O;KCR;Drew Waters;Kyle Gibson;1%;96%;Strikeout Swinging
+t7;3-7;1;---;3,(1-1) BFX;;KCR;Maikel Garcia;Kyle Gibson;-2%;94%;Single to LF (Ground Ball thru SS-3B Hole)
+;;;;;;;;;Keegan Akin replaces Kyle Gibson pitchingMatt Duffy pinch hits for Nicky Lopez (3B) batting 9th
+t7;3-7;1;1--;6,(2-2) ..CFBF*BS;O;KCR;Matt Duffy;Keegan Akin;2%;96%;Strikeout Swinging
+t7;3-7;2;1--;3,(0-2) CSC;O;KCR;Nick Pratto;Keegan Akin;1%;97%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 3, Orioles 7.
+Bottom of the 7th, Orioles Batting, Ahead 7-3, Royals' Jackson Kowar facing 6-7-8 
+;;;;;;;;;Jackson Kowar replaces Mike Mayers pitchingMatt Duffy moves from PH to 3B 
+b7;7-3;0;---;4,(0-2) ..FFFX;;BAL;Ramón Urías;Jackson Kowar;1%;98%;Ground-rule Double (Fly Ball to Deep CF)
+b7;7-3;0;-2-;4,(3-0) BBBB;;BAL;Adam Frazier;Jackson Kowar;0%;98%;Walk
+b7;7-3;0;12-;5,(2-2) BBCFS;O;BAL;Josh Lester;Jackson Kowar;-1%;98%;Strikeout Swinging
+b7;7-3;1;12-;4,(2-1) B*BFX;O;BAL;James McCann;Jackson Kowar;0%;97%;Foul Popfly: 1B (1B into Foul Terr.)
+b7;7-3;2;12-;6,(3-2) FFB*BB>X;RRR;BAL;Gunnar Henderson;Jackson Kowar;3%;100%;Home Run (Fly Ball to Deep RF); Urías Scores; Frazier Scores
+b7;10-3;2;---;5,(2-2) SBBF.X;O;BAL;Anthony Santander;Jackson Kowar;0%;100%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Royals 3, Orioles 10.
+Top of the 8th, Royals Batting, Behind 3-10, Orioles' Keegan Akin facing 2-3-4 
+;;;;;;;;;Ryan O'Hearn moves from RF to 1B Ryan McKenna replaces Josh Lester (1B) playing RF batting 8th
+t8;3-10;0;---;6,(2-2) ..BBSS.FS;O;KCR;Salvador Perez;Keegan Akin;0%;100%;Strikeout Swinging
+t8;3-10;1;---;4,(1-2) CBFS;O;KCR;MJ Melendez;Keegan Akin;0%;100%;Strikeout Swinging
+t8;3-10;2;---;7,(3-2) SBFBBFX;O;KCR;Bobby Witt;Keegan Akin;0%;100%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Orioles 10.
+Bottom of the 8th, Orioles Batting, Ahead 10-3, Royals' Nick Wittgren facing 3-4-5 
+;;;;;;;;;Nick Wittgren replaces Jackson Kowar pitchingFreddy Fermin replaces Salvador Perez playing C batting 2ndNate Eaton replaces MJ Melendez playing RF batting 3rd
+b8;10-3;0;---;4,(1-2) ...SCBC;O;BAL;Austin Hays;Nick Wittgren;0%;100%;Strikeout Looking
+b8;10-3;1;---;2,(1-0) BX;R;BAL;Ryan O'Hearn;Nick Wittgren;0%;100%;Home Run (Fly Ball to Deep RF Line)
+b8;11-3;1;---;7,(2-2) BCBS.FFX;O;BAL;Aaron Hicks;Nick Wittgren;0%;100%;Groundout: 2B-1B
+;;;;;;;;;Force Play Challenged by BAL manager (Brandon Hyde): Original call upheld upon review.
+b8;11-3;2;---;2,(1-0) BX;;BAL;Ramón Urías;Nick Wittgren;0%;100%;Single to SS (Ground Ball)
+b8;11-3;2;1--;2,(0-1) CX;O;BAL;Adam Frazier;Nick Wittgren;0%;100%;Lineout: RF (Deep RF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Royals 3, Orioles 11.
+Top of the 9th, Royals Batting, Behind 3-11, Orioles' Keegan Akin facing 5-6-7 
+t9;3-11;0;---;1,(0-0) X;O;KCR;Michael Massey;Keegan Akin;0%;100%;Flyball: CF (Deep CF)
+t9;3-11;1;---;2,(0-1) CX;;KCR;Edward Olivares;Keegan Akin;0%;100%;Triple to LF (Line Drive to Deep LF Line)
+t9;3-11;1;--3;3,(0-2) CSS;O;KCR;Drew Waters;Keegan Akin;0%;100%;Strikeout Swinging
+t9;3-11;2;--3;4,(0-2) CCFS;O;KCR;Maikel Garcia;Keegan Akin;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 3, Orioles 11.

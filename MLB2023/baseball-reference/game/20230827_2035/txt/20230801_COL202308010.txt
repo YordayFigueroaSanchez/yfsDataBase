@@ -1,0 +1,280 @@
+
+Scorebox Meta
+20230801
+6:40 p.m. Local
+27417
+Coors Field
+181
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/SDP-2023.png;/teams/SDP/2023.shtml;0;0;1;0;4;0;0;1;2;8;9;0
+https://cdn.ssref.net/req/202308251/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;1;0;0;0;0;0;3;0;1;5;12;0
+
+Batting home
+Jurickson Profar;/players/p/profaju01.shtml;LF;5;2;3;0;0;0;5;.245;.327;.372;.699;22;16;-0.013; 1.20;0.105;-0.118;0%; 0.00; 0.2;2;0;
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;3;1;1;0;1;0;5;.257;.290;.416;.707;16;8;-0.026; 1.23;0.069;-0.095;0%; 0.00; -0.0;0;7;SH
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;4;2;2;4;1;0;5;.262;.342;.480;.822;24;14;0.235; 1.28;0.297;-0.063;0%; 0.00; 2.4;1;6;HR
+Elias Díaz;/players/d/diazel01.shtml;C;5;0;3;0;0;2;5;.275;.332;.431;.764;20;15;0.177; 1.11;0.229;-0.052;0%; 0.00; 1.6;7;0;3·2B
+Brendan Rodgers;/players/r/rodgebr02.shtml;2B;5;0;1;1;0;2;5;.222;.222;.222;.444;14;12;-0.191; 1.39;0.017;-0.208;0%; 0.00; -1.3;2;0;
+Nolan Jones;/players/j/jonesno01.shtml;RF;3;0;0;0;2;0;5;.268;.353;.476;.829;29;15;-0.101; 1.35;0.025;-0.126;0%; 0.00; -0.7;0;0;
+Elehuris Montero;/players/m/monteel01.shtml;DH;5;0;0;0;0;2;5;.211;.238;.350;.588;27;17;-0.218; 1.53;0.000;-0.218;0%; 0.00; -2.1;;;
+Michael Toglia;/players/t/toglimi01.shtml;1B;4;0;1;0;0;3;4;.194;.260;.313;.574;18;10;0.015; 1.07;0.080;-0.065;0%; 0.00; -0.3;12;0;
+Brenton Doyle;/players/d/doylebr02.shtml;CF;4;0;1;0;0;1;4;.196;.257;.333;.591;12;8;-0.044; 1.17;0.060;-0.103;0%; 0.00; -0.0;3;0;2B
+Peter Lambert;/players/l/lambepe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Tommy Doyle;/players/d/doyleto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tyler Kinley;/players/k/kinlety01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jake Bird;/players/b/birdja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Brenton Doyle (7, off Pedro Avila); Elias Díaz 3 (19, 1 off Brent Honeywell Jr., 1 off Steven Wilson, 1 off Tim Hill).
+
+
+HR: Ryan McMahon (18, off Steven Wilson, 7th inn, 2 on, 0 outs to Deep RF).
+
+
+SH: Ezequiel Tovar (1, off Pedro Avila).
+
+
+TB: Elias Díaz 6; Ryan McMahon 5; Jurickson Profar 3; Brenton Doyle 2; Ezequiel Tovar; Brendan Rodgers; Michael Toglia.
+
+
+RBI: Ryan McMahon 4 (56); Brendan Rodgers (1).
+
+
+Team LOB: 11.
+With RISP: 2 for 12.
+
+Batting away
+Ha-Seong Kim;/players/k/kimha01.shtml;2B;5;0;2;1;0;1;5;.281;.374;.447;.822;20;14;0.035; 0.88;0.096;-0.062; 0.01%; 0.45; 1.4;0;3;SB
+Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF;5;1;1;2;0;1;5;.270;.327;.486;.813;22;16;0.064; 1.24;0.117;-0.053; 0.02%; 0.63; -0.5;0;0;2B
+Juan Soto;/players/s/sotoju01.shtml;LF;5;2;2;4;0;1;5;.275;.424;.520;.944;15;10;0.317; 0.91;0.370;-0.053; 0.10%; 0.46; 2.6;1;0;2·HR
+Manny Machado;/players/m/machama01.shtml;3B;4;0;0;0;0;0;4;.258;.318;.463;.781;16;9;-0.073; 0.68;0.000;-0.073;-0.02%; 0.35; -0.9;1;3;
+Xander Bogaerts;/players/b/bogaexa01.shtml;SS;4;0;0;0;0;0;4;.262;.341;.391;.732;11;7;-0.057; 0.54;0.000;-0.057;-0.02%; 0.28; -0.8;2;2;
+Jake Cronenworth;/players/c/croneja01.shtml;1B;4;1;2;0;0;0;4;.222;.312;.367;.679;16;12;0.017; 0.43;0.039;-0.021; 0.01%; 0.22; 0.5;7;0;SB
+Luis Campusano;/players/c/campulu01.shtml;C;4;1;1;0;0;0;4;.274;.292;.419;.712;8;7;-0.003; 0.66;0.045;-0.048;-0.00%; 0.34; -0.5;9;2;
+Gary Sánchez;/players/s/sanchga02.shtml;DH;3;0;0;0;1;2;4;.202;.280;.452;.733;18;9;-0.074; 0.91;0.005;-0.079;-0.02%; 0.46; -0.7;;;
+Matthew Batten;/players/b/battema01.shtml;PR-DH-DH;0;1;0;0;0;0;0;.353;.421;.529;.950;;;0.000;;0.000;0.000;0%;; 0.0;;;
+Trent Grisham;/players/g/grishtr01.shtml;CF;2;2;1;1;2;1;4;.210;.324;.389;.713;20;9;0.108; 0.81;0.114;-0.006; 0.03%; 0.41; 1.5;5;0;
+Pedro Avila;/players/a/avilape01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Brent Honeywell Jr.;/players/h/honeybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Steven Wilson;/players/w/wilsost02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Robert Suarez;/players/s/suarero01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tim Hill;/players/h/hillti01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Josh Hader;/players/h/haderjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Fernando Tatis Jr. (24, off Peter Lambert).
+
+
+HR: Juan Soto 2 (22, 1 off Tommy Doyle, 5th inn, 2 on, 2 outs to Deep CF, 1 off Tyler Kinley, 8th inn, 0 on, 1 out to Deep CF).
+
+
+TB: Juan Soto 8; Jake Cronenworth 2; Fernando Tatis Jr. 2; Ha-Seong Kim 2; Trent Grisham; Luis Campusano.
+
+
+RBI: Juan Soto 4 (68); Fernando Tatis Jr. 2 (55); Trent Grisham (34); Ha-Seong Kim (40).
+
+
+2-out RBI: Juan Soto 3; Fernando Tatis Jr..
+
+
+Team LOB: 4.
+With RISP: 4 for 9.
+
+Pitching home
+Peter Lambert;/players/l/lambepe01.shtml; L (2-2); 4.1;4;4;4;2;2;0;5.07;19;79;52;33;5;14;10;5;2;0;39;;;0.012; 1.03; 0.00%; 0.00; 0.3
+Tommy Doyle;/players/d/doyleto01.shtml;Tommy Doyle; 2.2;1;1;1;0;2;1;2.08;9;24;16;7;6;3;4;3;0;0;;3;3;-0.200; 0.73; 0.00%; 0.00; -1.1
+Tyler Kinley;/players/k/kinlety01.shtml;Tyler Kinley; 1 ;1;1;1;0;1;1;9.00;4;12;8;6;2;0;1;2;0;0;;0;0;-0.083; 0.66; 0.00%; 0.00; -0.4
+Jake Bird;/players/b/birdja01.shtml;Jake Bird; 1 ;3;2;2;1;1;0;4.24;7;31;17;9;1;7;2;3;3;0;;0;0;-0.064; 0.43; 0.00%; 0.00; -1.4
+
+Pitching away
+Pedro Avila;/players/a/avilape01.shtml;Pedro Avila; 4 ;5;1;1;3;7;0;1.00;20;88;56;22;18;16;6;4;3;0;52;;;0.129; 1.05; 0.04%; 0.53; 1.4
+Brent Honeywell Jr.;/players/h/honeybr01.shtml;Brent Honeywell Jr.; 2 ;3;2;2;0;1;0;4.05;9;35;24;13;4;7;6;2;0;0;;0;0;-0.002; 0.80;-0.00%; 0.41; 0.2
+Steven Wilson;/players/w/wilsost02.shtml; H (21); 1 ;2;1;1;0;1;1;2.60;5;19;12;6;3;3;0;4;1;0;;2;2;-0.091; 2.39;-0.03%; 1.21; -1.4
+Robert Suarez;/players/s/suarero01.shtml; W (1-0); 1 ;1;0;0;0;0;0;1.50;4;15;8;7;0;1;1;3;3;0;;0;0;0.105; 2.27; 0.03%; 1.15; 0.6
+Tim Hill;/players/h/hillti01.shtml;Tim Hill; 0.1;1;1;1;1;0;0;4.22;3;15;8;6;0;2;2;0;0;0;;0;0;-0.036; 1.23;-0.01%; 0.62; -1.2
+Josh Hader;/players/h/haderjo01.shtml; S (26); 0.2;0;0;0;0;1;0;0.89;2;10;7;2;3;2;0;1;0;0;;1;0;0.060; 1.01; 0.02%; 0.51; 0.8
+
+indiv_events
+
+Balks: Pedro Avila (1).
+WP: Pedro Avila 2 (3).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: Pedro Avila (1).
+WP: Pedro Avila 2 (3).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - David Rackley, 1B - Nate Tomlinson, 2B - Chris Guccione, 3B - Edwin Moscoso, LF - (none), RF - (none).
+Time of Game: 3:01.
+Attendance: 27,417.
+Field Condition: Unknown.
+Start Time Weather: 70° F, Wind 8mph in from Leftfield, Overcast, Drizzle.
+
+div_lineups
+Padres
+1;Ha-Seong Kim;/players/k/kimha01.shtml;2B
+2;Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF
+3;Juan Soto;/players/s/sotoju01.shtml;LF
+4;Manny Machado;/players/m/machama01.shtml;3B
+5;Xander Bogaerts;/players/b/bogaexa01.shtml;SS
+6;Jake Cronenworth;/players/c/croneja01.shtml;1B
+7;Luis Campusano;/players/c/campulu01.shtml;C
+8;Gary Sánchez;/players/s/sanchga02.shtml;DH
+9;Trent Grisham;/players/g/grishtr01.shtml;CF
+; Pedro Avila;/players/a/avilape01.shtml;P
+Rockies
+1;Jurickson Profar;/players/p/profaju01.shtml;LF
+2;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+3;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+4;Elias Díaz;/players/d/diazel01.shtml;C
+5;Brendan Rodgers;/players/r/rodgebr02.shtml;2B
+6;Nolan Jones;/players/j/jonesno01.shtml;RF
+7;Elehuris Montero;/players/m/monteel01.shtml;DH
+8;Michael Toglia;/players/t/toglimi01.shtml;1B
+9;Brenton Doyle;/players/d/doylebr02.shtml;CF
+; Peter Lambert;/players/l/lambepe01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t5;2-1;2;1-3;2,(1-0) 1BX;RRR;SDP;Juan Soto;Tommy Doyle;24%;86%;Home Run (Fly Ball to Deep CF); Grisham Scores; Tatís Scores
+b7;1-5;0;12-;3,(1-1) .FBX;RRR;COL;Ryan McMahon;Steven Wilson;-21%;61%;Home Run (Fly Ball to Deep RF); Profar Scores; Tovar Scores
+t8;5-4;1;---;2,(1-0) BX;R;SDP;Juan Soto;Tyler Kinley;13%;83%;Home Run (Fly Ball to Deep CF)
+b7;4-5;0;---;3,(1-1) CBX;;COL;Elias Díaz;Steven Wilson;-12%;49%;Double to LF (Line Drive to Deep LF Line)
+t3;0-1;2;1--;2,(0-1) 1FX;R;SDP;Fernando Tatis Jr.;Peter Lambert;11%;48%;Double to CF (Line Drive to Deep CF-RF); Grisham Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Padres Batting, Tied 0-0, Rockies' Peter Lambert facing 1-2-3 
+t1;0-0;0;---;6,(2-2) FBFFBC;O;SDP;Ha-Seong Kim;Peter Lambert;-2%;48%;Strikeout Looking
+t1;0-0;1;---;7,(2-2) CFFBFBX;O;SDP;Fernando Tatis Jr.;Peter Lambert;-2%;46%;Groundout: 3B-1B (Weak 3B)
+t1;0-0;2;---;1,(0-0) X;O;SDP;Juan Soto;Peter Lambert;-1%;45%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Rockies 0.
+Bottom of the 1st, Rockies Batting, Tied 0-0, Padres' Pedro Avila facing 1-2-3 
+b1;0-0;0;---;5,(1-2) SBSFX;;COL;Jurickson Profar;Pedro Avila;-3%;42%;Single to CF (Line Drive to Deep CF)
+b1;0-0;0;1--;,(0-0) N;;COL;Ezequiel Tovar;Pedro Avila;-2%;39%;Balk; Profar to 2B
+b1;0-0;0;-2-;1,(0-0) N.X;O;COL;Ezequiel Tovar;Pedro Avila;2%;41%;Bunt Groundout: P-1B/Sacrifice (Front of Home); Profar to 3B
+b1;0-0;1;--3;6,(3-2) CBFB*BX;R;COL;Ryan McMahon;Pedro Avila;-5%;36%;Single to CF (Ground Ball thru SS-2B); Profar Scores
+b1;1-0;1;1--;5,(1-2) *BFFFS;O;COL;Elias Díaz;Pedro Avila;3%;38%;Strikeout Swinging
+b1;1-0;2;1--;2,(0-1) FX;;COL;Brendan Rodgers;Pedro Avila;-2%;37%;Single to CF (Ground Ball thru SS-2B); McMahon to 2B
+b1;1-0;2;12-;4,(1-2) C*SBB;;COL;Nolan Jones;Pedro Avila;-1%;35%;Wild Pitch; McMahon to 3B; Rodgers to 2B
+b1;1-0;2;-23;7,(3-2) C*SBB.FBB;;COL;Nolan Jones;Pedro Avila;-1%;34%;Walk
+b1;1-0;2;123;6,(2-2) C*BSBFS;O;COL;Elehuris Montero;Pedro Avila;6%;41%;Strikeout Swinging
+;;;;;;;;;1 run, 3 hits, 0 errors, 3 LOB. Padres 0, Rockies 1.
+Top of the 2nd, Padres Batting, Behind 0-1, Rockies' Peter Lambert facing 4-5-6 
+t2;0-1;0;---;5,(2-2) FBCBX;O;SDP;Manny Machado;Peter Lambert;-3%;38%;Groundout: SS-1B
+t2;0-1;1;---;1,(0-0) X;O;SDP;Xander Bogaerts;Peter Lambert;-2%;36%;Groundout: SS-1B
+t2;0-1;2;---;5,(1-2) CBT.FX;;SDP;Jake Cronenworth;Peter Lambert;1%;38%;Single to LF (Line Drive to LF-CF)
+t2;0-1;2;1--;1,(0-0) X;O;SDP;Luis Campusano;Peter Lambert;-3%;35%;Groundout: SS-2B/Forceout at 2B; Campusano to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 0, Rockies 1.
+Bottom of the 2nd, Rockies Batting, Ahead 1-0, Padres' Pedro Avila facing 8-9-1 
+b2;1-0;0;---;6,(3-2) BBBCFC;O;COL;Michael Toglia;Pedro Avila;2%;37%;Strikeout Looking
+b2;1-0;1;---;2,(0-1) CX;;COL;Brenton Doyle;Pedro Avila;-4%;34%;Double to CF (Line Drive to Deep RF)
+b2;1-0;1;-2-;1,(0-0) B;;COL;Jurickson Profar;Pedro Avila;-2%;31%;Wild Pitch; Doyle to 3B
+b2;1-0;1;--3;6,(2-2) B.BSCFX;O;COL;Jurickson Profar;Pedro Avila;6%;37%;Fielder's Choice ; Doyle out at Hm/3B-C-2B-P; Profar to 2B
+b2;1-0;2;-2-;6,(3-2) SBS*BBB;;COL;Ezequiel Tovar;Pedro Avila;-1%;36%;Walk
+b2;1-0;2;12-;3,(0-2) SC.X;O;COL;Ryan McMahon;Pedro Avila;4%;40%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Padres 0, Rockies 1.
+Top of the 3rd, Padres Batting, Behind 0-1, Rockies' Peter Lambert facing 8-9-1 
+t3;0-1;0;---;5,(2-2) SBBS.X;O;SDP;Gary Sánchez;Peter Lambert;-3%;37%;Popfly: 3B (SS-3B Hole)
+t3;0-1;1;---;7,(3-2) BSCFBB*B;;SDP;Trent Grisham;Peter Lambert;3%;40%;Walk
+t3;0-1;1;1--;2,(0-1) CX;O;SDP;Ha-Seong Kim;Peter Lambert;-3%;37%;Flyball: CF
+t3;0-1;2;1--;2,(0-1) 1FX;R;SDP;Fernando Tatis Jr.;Peter Lambert;11%;48%;Double to CF (Line Drive to Deep CF-RF); Grisham Scores
+t3;1-1;2;-2-;6,(2-2) *BFBFFX;O;SDP;Juan Soto;Peter Lambert;-4%;44%;Groundout: 3B-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Padres 1, Rockies 1.
+Bottom of the 3rd, Rockies Batting, Tied 1-1, Padres' Pedro Avila facing 4-5-6 
+b3;1-1;0;---;4,(1-2) CS.BS;O;COL;Elias Díaz;Pedro Avila;3%;47%;Strikeout Swinging
+b3;1-1;1;---;3,(0-2) CCS;O;COL;Brendan Rodgers;Pedro Avila;2%;49%;Strikeout Swinging
+b3;1-1;2;---;7,(3-2) BBC.BCFB;;COL;Nolan Jones;Pedro Avila;-1%;47%;Walk
+b3;1-1;2;1--;5,(2-2) CS.*B1BX;O;COL;Elehuris Montero;Pedro Avila;3%;50%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 1, Rockies 1.
+Top of the 4th, Padres Batting, Tied 1-1, Rockies' Peter Lambert facing 4-5-6 
+t4;1-1;0;---;6,(2-2) BBSSFX;O;SDP;Manny Machado;Peter Lambert;-3%;47%;Groundout: 3B-1B (SS-3B Hole)
+t4;1-1;1;---;4,(1-2) CFBX;O;SDP;Xander Bogaerts;Peter Lambert;-2%;45%;Groundout: 3B-1B (Deep 3B)
+t4;1-1;2;---;5,(2-2) CBC.BX;O;SDP;Jake Cronenworth;Peter Lambert;-1%;44%;Groundout: P-1B (Weak SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Rockies 1.
+Bottom of the 4th, Rockies Batting, Tied 1-1, Padres' Pedro Avila facing 8-9-1 
+b4;1-1;0;---;6,(3-2) SBBCBS;O;COL;Michael Toglia;Pedro Avila;3%;46%;Strikeout Swinging
+b4;1-1;1;---;4,(1-2) SCBS;O;COL;Brenton Doyle;Pedro Avila;2%;49%;Strikeout Swinging
+b4;1-1;2;---;3,(1-1) FBX;;COL;Jurickson Profar;Pedro Avila;-2%;47%;Single to LF (Line Drive to Deep LF-CF)
+b4;1-1;2;1--;1,(0-0) X;O;COL;Ezequiel Tovar;Pedro Avila;3%;50%;Groundout: 2B-SS/Forceout at 2B; Tovar to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 1, Rockies 1.
+Top of the 5th, Padres Batting, Tied 1-1, Rockies' Peter Lambert facing 7-8-9 
+t5;1-1;0;---;2,(0-1) CX;;SDP;Luis Campusano;Peter Lambert;5%;55%;Single to LF (Ground Ball thru SS-3B Hole)
+t5;1-1;0;1--;6,(3-2) BFBC*B1C;O;SDP;Gary Sánchez;Peter Lambert;-4%;50%;Strikeout Looking
+t5;1-1;1;1--;5,(3-1) FBBBB;;SDP;Trent Grisham;Peter Lambert;4%;55%;Walk; Campusano to 2B
+t5;1-1;1;12-;3,(0-2) CCX;;SDP;Ha-Seong Kim;Peter Lambert;7%;62%;Single to P (Ground Ball to Short 3B Line); Campusano to 3B; Grisham to 2B
+;;;;;;;;;Tommy Doyle replaces Peter Lambert pitching
+t5;1-1;1;123;3,(1-1) .S*BX;RO;SDP;Fernando Tatis Jr.;Tommy Doyle;0%;62%;Groundout: SS-2B/Forceout at 2B (Deep SS); Campusano Scores; Grisham to 3B; Tatís to 1B
+t5;2-1;2;1-3;2,(1-0) 1BX;RRR;SDP;Juan Soto;Tommy Doyle;24%;86%;Home Run (Fly Ball to Deep CF); Grisham Scores; Tatís Scores
+t5;5-1;2;---;4,(3-0) BBBX;O;SDP;Manny Machado;Tommy Doyle;-1%;85%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;4 runs, 3 hits, 0 errors, 0 LOB. Padres 5, Rockies 1.
+Bottom of the 5th, Rockies Batting, Behind 1-5, Padres' Brent Honeywell Jr. facing 3-4-5 
+;;;;;;;;;Brent Honeywell Jr. replaces Pedro Avila pitching
+b5;1-5;0;---;7,(3-2) .VCBCF.BFX;O;COL;Ryan McMahon;Brent Honeywell Jr.;2%;88%;Groundout: 1B unassisted
+b5;1-5;1;---;2,(0-1) CX;;COL;Elias Díaz;Brent Honeywell Jr.;-3%;84%;Double to CF (Fly Ball to Deep CF-RF)
+b5;1-5;1;-2-;1,(0-0) X;O;COL;Brendan Rodgers;Brent Honeywell Jr.;4%;88%;Fielder's Choice ; Díaz out at 3B/SS-3B; Rodgers to 1B
+b5;1-5;2;1--;7,(3-2) BCBF.FB>X;O;COL;Nolan Jones;Brent Honeywell Jr.;2%;90%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 5, Rockies 1.
+Top of the 6th, Padres Batting, Ahead 5-1, Rockies' Tommy Doyle facing 5-6-7 
+t6;5-1;0;---;2,(1-0) BX;O;SDP;Xander Bogaerts;Tommy Doyle;-1%;89%;Groundout: SS-1B
+t6;5-1;1;---;2,(0-1) CX;O;SDP;Jake Cronenworth;Tommy Doyle;-1%;89%;Flyball: LF (LF Line)
+t6;5-1;2;---;1,(0-0) X;O;SDP;Luis Campusano;Tommy Doyle;0%;88%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 5, Rockies 1.
+Bottom of the 6th, Rockies Batting, Behind 1-5, Padres' Brent Honeywell Jr. facing 7-8-9 
+b6;1-5;0;---;5,(2-2) BSBF.X;O;COL;Elehuris Montero;Brent Honeywell Jr.;2%;90%;Groundout: P unassisted (Short 1B Line)
+b6;1-5;1;---;4,(1-2) CS.B*S;O;COL;Michael Toglia;Brent Honeywell Jr.;2%;92%;Strikeout Swinging; Toglia out at 1B/C-1B
+b6;1-5;2;---;2,(1-0) BX;O;COL;Brenton Doyle;Brent Honeywell Jr.;1%;93%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 5, Rockies 1.
+Top of the 7th, Padres Batting, Ahead 5-1, Rockies' Tommy Doyle facing 8-9-1 
+t7;5-1;0;---;3,(0-2) SS.S;O;SDP;Gary Sánchez;Tommy Doyle;-1%;92%;Strikeout Swinging
+t7;5-1;1;---;4,(1-2) BC.SS;O;SDP;Trent Grisham;Tommy Doyle;-1%;92%;Strikeout Swinging
+t7;5-1;2;---;3,(1-1) BCX;O;SDP;Ha-Seong Kim;Tommy Doyle;0%;91%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 5, Rockies 1.
+Bottom of the 7th, Rockies Batting, Behind 1-5, Padres' Brent Honeywell Jr. facing 1-2-3 
+b7;1-5;0;---;4,(1-2) CBC.X;;COL;Jurickson Profar;Brent Honeywell Jr.;-4%;88%;Single to RF (Ground Ball thru Weak 2B-1B)
+b7;1-5;0;1--;3,(1-1) *SBX;;COL;Ezequiel Tovar;Brent Honeywell Jr.;-6%;82%;Single to RF (Ground Ball thru 2B-1B); Profar to 2B
+;;;;;;;;;Steven Wilson replaces Brent Honeywell Jr. pitching
+b7;1-5;0;12-;3,(1-1) .FBX;RRR;COL;Ryan McMahon;Steven Wilson;-21%;61%;Home Run (Fly Ball to Deep RF); Profar Scores; Tovar Scores
+b7;4-5;0;---;3,(1-1) CBX;;COL;Elias Díaz;Steven Wilson;-12%;49%;Double to LF (Line Drive to Deep LF Line)
+b7;4-5;0;-2-;4,(1-2) BSFC;O;COL;Brendan Rodgers;Steven Wilson;9%;57%;Strikeout Looking
+b7;4-5;1;-2-;3,(1-1) BSX;O;COL;Nolan Jones;Steven Wilson;7%;64%;Flyball: CF (Deep CF-RF); Díaz to 3B
+b7;4-5;2;--3;6,(3-2) BBSCBX;O;COL;Elehuris Montero;Steven Wilson;8%;72%;Popfly: SS
+;;;;;;;;;3 runs, 4 hits, 0 errors, 1 LOB. Padres 5, Rockies 4.
+Top of the 8th, Padres Batting, Ahead 5-4, Rockies' Tyler Kinley facing 2-3-4 
+;;;;;;;;;Tyler Kinley replaces Tommy Doyle pitching
+t8;5-4;0;---;5,(1-2) .FS.BFS;O;SDP;Fernando Tatis Jr.;Tyler Kinley;-3%;70%;Strikeout Swinging
+t8;5-4;1;---;2,(1-0) BX;R;SDP;Juan Soto;Tyler Kinley;13%;83%;Home Run (Fly Ball to Deep CF)
+t8;6-4;1;---;1,(0-0) X;O;SDP;Manny Machado;Tyler Kinley;-1%;82%;Groundout: SS-1B (Deep SS-3B Hole)
+t8;6-4;2;---;4,(2-1) BBFX;O;SDP;Xander Bogaerts;Tyler Kinley;-1%;81%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Padres 6, Rockies 4.
+Bottom of the 8th, Rockies Batting, Behind 4-6, Padres' Robert Suarez facing 8-9-1 
+;;;;;;;;;Robert Suarez replaces Steven Wilson pitching
+b8;4-6;0;---;2,(1-0) .BX;;COL;Michael Toglia;Robert Suarez;-8%;73%;Single to LF (Line Drive to LF-CF)
+b8;4-6;0;1--;4,(2-1) BFBX;O;COL;Brenton Doyle;Robert Suarez;7%;80%;Lineout: CF (Deep CF)
+b8;4-6;1;1--;4,(1-2) FBCX;O;COL;Jurickson Profar;Robert Suarez;6%;86%;Lineout: CF (Deep CF)
+b8;4-6;2;1--;5,(3-1) BFB*BX;O;COL;Ezequiel Tovar;Robert Suarez;5%;91%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 6, Rockies 4.
+Top of the 9th, Padres Batting, Ahead 6-4, Rockies' Jake Bird facing 6-7-8 
+;;;;;;;;;Jake Bird replaces Tyler Kinley pitching
+t9;6-4;0;---;4,(1-2) .CF.BX;;SDP;Jake Cronenworth;Jake Bird;1%;93%;Single to CF (Line Drive)
+t9;6-4;0;1--;2,(0-1) C>C;;SDP;Luis Campusano;Jake Bird;1%;94%;Cronenworth Steals 2B
+t9;6-4;0;-2-;4,(1-2) C>C.*BX;O;SDP;Luis Campusano;Jake Bird;-2%;92%;Lineout: LF
+t9;6-4;1;-2-;4,(3-0) *BBBB;;SDP;Gary Sánchez;Jake Bird;1%;92%;Walk
+t9;6-4;1;12-;4,(2-1) BF*BX;R;SDP;Trent Grisham;Jake Bird;4%;96%;Single to CF (Ground Ball thru SS-2B); Cronenworth Scores; Sánchez to 2B
+;;;;;;;;;Matthew Batten pinch runs for Gary Sánchez (DH) batting 8th
+t9;7-4;1;12-;6,(3-2) .CB2BFBX;R;SDP;Ha-Seong Kim;Jake Bird;2%;99%;Single to CF (Line Drive to CF-RF); Batten Scores; Grisham to 3B
+t9;8-4;1;1-3;3,(1-1) BC>B;;SDP;Fernando Tatis Jr.;Jake Bird;0%;99%;Kim Steals 2B
+t9;8-4;1;-23;5,(2-2) BC>B.CX;O;SDP;Fernando Tatis Jr.;Jake Bird;-1%;98%;Fielder's Choice ; Grisham out at Hm/3B-C; Tatís to 1B
+t9;8-4;2;12-;4,(1-2) CF*BS;O;SDP;Juan Soto;Jake Bird;0%;98%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Padres 8, Rockies 4.
+Bottom of the 9th, Rockies Batting, Behind 4-8, Padres' Tim Hill facing 3-4-5 
+;;;;;;;;;Tim Hill replaces Robert Suarez pitching
+b9;4-8;0;---;5,(3-1) ..BBCBB;;COL;Ryan McMahon;Tim Hill;-3%;95%;Walk
+b9;4-8;0;1--;6,(2-2) CBFBFX;;COL;Elias Díaz;Tim Hill;-7%;88%;Double to LF (Ground Ball); McMahon to 3B
+b9;4-8;0;-23;4,(1-2) BFFX;RO;COL;Brendan Rodgers;Tim Hill;6%;94%;Groundout: SS-1B; McMahon Scores
+;;;;;;;;;Josh Hader replaces Tim Hill pitching
+b9;5-8;1;-2-;5,(2-2) .CBSBX;O;COL;Nolan Jones;Josh Hader;4%;98%;Flyball: CF (Deep LF-CF)
+b9;5-8;2;-2-;5,(1-2) SCFBS;O;COL;Elehuris Montero;Josh Hader;2%;100%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Padres 8, Rockies 5.

@@ -1,0 +1,264 @@
+
+Scorebox Meta
+20230521
+1:40 p.m. Local
+39995
+Citi Field
+150
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CLE-2023.png;/teams/CLE/2023.shtml;0;0;0;0;0;0;0;4;0;4;8;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;1;0;1;1;2;X;5;11;0
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;5;1;1;1;0;1;5;.292;.377;.421;.798;18;12;-0.088; 1.18;0.054;-0.142;-0.05%; 1.17; -0.6;1;0;HR
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;0;0;0;0;1;4;.230;.307;.410;.717;14;11;-0.062; 0.61;0.000;-0.062;-0.04%; 0.60; -0.8;0;4;
+Jeff McNeil;/players/m/mcneije01.shtml;LF-2B;4;0;2;0;0;0;4;.287;.366;.368;.734;20;14;-0.011; 0.47;0.022;-0.033;-0.01%; 0.46; -0.2;5;0;
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;1;1;0;0;1;4;.233;.328;.540;.868;14;8;-0.016; 0.64;0.032;-0.047;-0.01%; 0.63; -0.1;7;2;
+Brett Baty;/players/b/batybr01.shtml;3B;2;1;1;0;2;1;4;.256;.343;.433;.776;19;9;0.198; 1.44;0.226;-0.027; 0.12%; 1.42; 1.6;2;3;
+Mark Canha;/players/c/canhama01.shtml;LF;0;0;0;0;0;0;0;.228;.299;.368;.666;;;;;;;;;;0;0;
+Starling Marte;/players/m/martest01.shtml;RF;4;1;3;2;0;0;4;.245;.309;.311;.620;9;8;0.469; 1.78;0.560;-0.092; 0.28%; 1.75; 1.6;3;1;HR,SB
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;2;1;1;0;2;0;4;.242;.384;.352;.736;23;13;0.014; 1.10;0.038;-0.024; 0.01%; 1.08; 0.4;;;
+Tommy Pham;/players/p/phamth01.shtml;PR-DH-DH;0;0;0;0;0;0;0;.216;.310;.378;.689;;;0.019; 0.81;0.019;0.000; 0.01%; 0.80; 0.2;;;SB
+Gary Sánchez;/players/s/sanchga02.shtml;C;3;0;1;1;0;2;4;.333;.250;.333;.583;16;11;-0.053; 1.44;0.041;-0.094;-0.03%; 1.42; -1.1;5;0;SF
+Eduardo Escobar;/players/e/escobed01.shtml;2B-3B;3;0;1;1;1;1;4;.215;.267;.418;.685;11;6;0.056; 1.45;0.102;-0.046; 0.03%; 1.44; -0.1;2;3;
+Max Scherzer;/players/s/scherma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brooks Raley;/players/r/raleybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Ottavino;/players/o/ottavad01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+David Robertson;/players/r/roberda08.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+HR: Brandon Nimmo (4, off Eli Morgan, 7th inn, 0 on, 0 outs to Deep RF); Starling Marte (2, off Trevor Stephan, 8th inn, 1 on, 0 outs to Deep RF).
+
+
+SF: Gary Sánchez (1, off Tanner Bibee).
+
+
+TB: Starling Marte 6; Brandon Nimmo 4; Jeff McNeil 2; Eduardo Escobar; Daniel Vogelbach; Gary Sánchez; Brett Baty; Pete Alonso.
+
+
+RBI: Starling Marte 2 (12); Brandon Nimmo (19); Gary Sánchez (1); Eduardo Escobar (12).
+
+
+2-out RBI: Eduardo Escobar.
+
+
+Team LOB: 8.
+With RISP: 1 for 10.
+
+Batting away
+Steven Kwan;/players/k/kwanst01.shtml;LF;4;1;2;0;0;1;4;.269;.355;.354;.709;22;16;0.016; 0.94;0.071;-0.054; 0.01%; 0.67; -0.1;1;0;2B
+Amed Rosario;/players/r/rosaram01.shtml;SS;4;1;1;1;0;0;4;.252;.283;.350;.633;9;7;-0.001; 1.24;0.087;-0.088;0%; 0.89; 0.2;2;1;
+José Ramírez;/players/r/ramirjo01.shtml;3B;3;1;1;2;1;0;4;.280;.368;.465;.833;15;8;0.463; 1.22;0.528;-0.065; 0.20%; 0.87; 1.5;1;2;HR
+Josh Naylor;/players/n/naylojo01.shtml;DH;4;0;0;0;0;1;4;.226;.278;.409;.687;14;8;-0.088; 0.85;0.000;-0.088;-0.04%; 0.60; -0.7;;;
+Josh Bell;/players/b/belljo02.shtml;1B;3;0;1;0;0;1;3;.231;.342;.353;.695;13;8;-0.060; 0.79;0.000;-0.060;-0.03%; 0.56; -0.5;5;2;
+Will Brennan;/players/b/brennwi02.shtml;RF;1;0;0;0;0;0;1;.212;.255;.283;.538;2;2;-0.074; 2.88;0.000;-0.074;-0.03%; 2.06; -0.2;0;0;
+Gabriel Arias;/players/a/ariasga01.shtml;RF-1B;4;0;1;0;0;1;4;.206;.270;.382;.653;20;11;0.020; 1.15;0.082;-0.063; 0.01%; 0.82; -0.2;2;2;
+Tyler Freeman;/players/f/freemty01.shtml;2B;4;1;1;0;0;1;4;.316;.350;.421;.771;17;11;-0.072; 1.52;0.054;-0.126;-0.03%; 1.09; 0.1;0;2;2B
+Mike Zunino;/players/z/zuninmi01.shtml;C;2;0;1;0;0;0;2;.172;.280;.322;.602;4;4;0.025; 0.78;0.040;-0.015; 0.01%; 0.56; 0.3;6;0;
+Bo Naylor;/players/n/naylobo01.shtml;PH-C;2;0;0;0;0;0;2;.000;.000;.000;.000;4;3;-0.113; 2.18;0.000;-0.113;-0.05%; 1.56; -0.4;2;0;
+Myles Straw;/players/s/strawmy01.shtml;CF;3;0;0;1;0;0;3;.225;.315;.289;.604;8;6;-0.091; 1.43;0.000;-0.091;-0.04%; 1.02; -0.4;4;0;
+Tanner Bibee;/players/b/bibeeta01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Eli Morgan;/players/m/morgael01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Stephan;/players/s/stephtr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Tyler Freeman (2, off Adam Ottavino); Steven Kwan (10, off Adam Ottavino).
+
+
+HR: José Ramírez (5, off David Robertson, 8th inn, 1 on, 2 outs to Deep CF).
+
+
+TB: José Ramírez 4; Steven Kwan 3; Tyler Freeman 2; Gabriel Arias; Amed Rosario; Mike Zunino; Josh Bell.
+
+
+RBI: José Ramírez 2 (24); Amed Rosario (10); Myles Straw (10).
+
+
+2-out RBI: José Ramírez 2; Amed Rosario.
+
+
+Team LOB: 4.
+With RISP: 1 for 3.
+
+Pitching home
+Max Scherzer;/players/s/scherma01.shtml;Max Scherzer; 6 ;3;0;0;1;5;0;4.01;21;86;55;40;4;11;6;9;2;0;70;;;0.365; 0.97; 0.22%; 0.96; 3.0
+Brooks Raley;/players/r/raleybr01.shtml; H (10); 1 ;0;0;0;0;0;0;3.77;3;9;7;4;1;2;2;1;0;0;;0;0;0.071; 0.93; 0.04%; 0.92; 0.5
+Adam Ottavino;/players/o/ottavad01.shtml; H (5); 0.2;3;3;3;0;0;0;4.82;5;15;10;6;0;4;2;3;2;0;;0;0;-0.120; 1.14;-0.07%; 1.12; -1.7
+David Robertson;/players/r/roberda08.shtml; W (3-0); 1.1;2;1;1;0;0;1;1.27;6;18;12;8;0;4;4;2;1;0;;1;1;-0.341; 2.37;-0.20%; 2.34; -1.3
+
+Pitching away
+Tanner Bibee;/players/b/bibeeta01.shtml;Tanner Bibee; 6 ;7;2;2;4;3;0;3.18;27;99;62;35;8;19;7;13;8;0;49;;;0.047; 1.17; 0.02%; 0.83; 1.0
+Eli Morgan;/players/m/morgael01.shtml;Eli Morgan; 1 ;2;1;1;0;2;1;1.89;4;22;16;9;6;1;0;2;1;0;;0;0;-0.041; 0.18;-0.02%; 0.13; -0.5
+Trevor Stephan;/players/s/stephtr01.shtml; L (2-2); 1 ;2;2;2;1;2;1;2.29;6;23;14;8;3;3;2;1;0;0;;0;0;-0.531; 1.42;-0.23%; 1.02; -1.5
+
+indiv_events
+
+Balks: None.
+WP: Tanner Bibee (1).
+HBP: None.
+IBB: None.
+Pickoffs: Tanner Bibee (1; Starling Marte, 1st base).
+
+Balks: None.
+WP: Tanner Bibee (1).
+HBP: None.
+IBB: None.
+Pickoffs: Tanner Bibee (1; Starling Marte, 1st base).
+
+section_content
+Umpires: HP - Ryan Additon, 1B - Jose Navas, 2B - Lance Barksdale, 3B - Will Little, LF - (none), RF - (none).
+Time of Game: 2:30.
+Attendance: 39,995.
+Field Condition: Unknown.
+Start Time Weather: 69° F, Wind 11mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Guardians
+1;Steven Kwan;/players/k/kwanst01.shtml;LF
+2;Amed Rosario;/players/r/rosaram01.shtml;SS
+3;José Ramírez;/players/r/ramirjo01.shtml;3B
+4;Josh Naylor;/players/n/naylojo01.shtml;DH
+5;Josh Bell;/players/b/belljo02.shtml;1B
+6;Gabriel Arias;/players/a/ariasga01.shtml;RF
+7;Tyler Freeman;/players/f/freemty01.shtml;2B
+8;Mike Zunino;/players/z/zuninmi01.shtml;C
+9;Myles Straw;/players/s/strawmy01.shtml;CF
+; Tanner Bibee;/players/b/bibeeta01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Jeff McNeil;/players/m/mcneije01.shtml;LF
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Brett Baty;/players/b/batybr01.shtml;3B
+6;Starling Marte;/players/m/martest01.shtml;RF
+7;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+8;Gary Sánchez;/players/s/sanchga02.shtml;C
+9;Eduardo Escobar;/players/e/escobed01.shtml;2B
+; Max Scherzer;/players/s/scherma01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t8;2-3;2;1--;3,(1-1) .CBX;RR;CLE;José Ramírez;David Robertson;-52%;29%;Home Run (Fly Ball to Deep CF); Rosario Scores
+b8;3-4;0;1--;2,(1-0) BX;RR;NYM;Starling Marte;Trevor Stephan;46%;87%;Home Run (Fly Ball to Deep RF); Baty Scores
+b8;3-4;0;---;6,(3-2) ....BFF.BBB;;NYM;Brett Baty;Trevor Stephan;10%;40%;Walk
+t9;4-5;1;1--;2,(0-1) CX;O;CLE;Tyler Freeman;David Robertson;9%;92%;Groundout: SS-2B/Forceout at 2B; Freeman to 1B
+b6;1-0;0;1--;5,(2-2) BFFBX;;NYM;Brett Baty;Tanner Bibee;9%;86%;Single to CF (Ground Ball thru SS-2B); Alonso to 3B; Baty to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Guardians Batting, Tied 0-0, Mets' Max Scherzer facing 1-2-3 
+t1;0-0;0;---;5,(2-2) CFBBS;O;CLE;Steven Kwan;Max Scherzer;2%;52%;Strikeout Swinging
+t1;0-0;1;---;2,(0-1) CX;O;CLE;Amed Rosario;Max Scherzer;2%;54%;Groundout: 2B-1B (Deep 2B)
+t1;0-0;2;---;7,(3-2) BFBFBFB;;CLE;José Ramírez;Max Scherzer;-1%;53%;Walk
+t1;0-0;2;1--;2,(1-0) *BX;O;CLE;Josh Naylor;Max Scherzer;2%;55%;Flyball: LF (LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Guardians 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Guardians' Tanner Bibee facing 1-2-3 
+b1;0-0;0;---;7,(3-2) CBBCFBX;O;NYM;Brandon Nimmo;Tanner Bibee;-2%;53%;Lineout: LF (Deep LF)
+b1;0-0;1;---;3,(0-2) CFX;O;NYM;Francisco Lindor;Tanner Bibee;-2%;51%;Lineout: CF (Deep CF)
+b1;0-0;2;---;3,(1-1) BFX;;NYM;Jeff McNeil;Tanner Bibee;1%;52%;Single to CF (Line Drive)
+b1;0-0;2;1--;5,(2-2) BBCFB;;NYM;Pete Alonso;Tanner Bibee;1%;53%;Wild Pitch; McNeil to 2B
+b1;0-0;2;-2-;6,(3-2) BBCFB..X;O;NYM;Pete Alonso;Tanner Bibee;-3%;50%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 0, Mets 0.
+Top of the 2nd, Guardians Batting, Tied 0-0, Mets' Max Scherzer facing 5-6-7 
+t2;0-0;0;---;6,(3-2) BBCBFT;O;CLE;Josh Bell;Max Scherzer;2%;52%;Strikeout Swinging
+t2;0-0;1;---;4,(2-1) FBBX;O;CLE;Gabriel Arias;Max Scherzer;2%;54%;Flyball: RF (Deep CF-RF)
+t2;0-0;2;---;5,(2-2) CBBFX;O;CLE;Tyler Freeman;Max Scherzer;1%;55%;Lineout: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Guardians' Tanner Bibee facing 5-6-7 
+b2;0-0;0;---;5,(3-1) SBBBB;;NYM;Brett Baty;Tanner Bibee;4%;59%;Walk
+b2;0-0;0;1--;3,(0-2) SFX;;NYM;Starling Marte;Tanner Bibee;6%;64%;Single to CF (Line Drive); Baty to 2B
+b2;0-0;0;12-;4,(0-2) CFFX;O;NYM;Daniel Vogelbach;Tanner Bibee;-2%;62%;Flyball: RF (Deep CF-RF); Baty to 3B
+b2;0-0;1;1-3;5,(2-2) B1BCS.>C;O;NYM;Gary Sánchez;Tanner Bibee;-6%;56%;Strikeout Looking, Marte Steals 2B
+b2;0-0;2;-23;5,(3-1) BBC*BB;;NYM;Eduardo Escobar;Tanner Bibee;1%;58%;Walk
+b2;0-0;2;123;2,(1-0) *BX;O;NYM;Brandon Nimmo;Tanner Bibee;-8%;50%;Groundout: 1B-P
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Guardians 0, Mets 0.
+Top of the 3rd, Guardians Batting, Tied 0-0, Mets' Max Scherzer facing 8-9-1 
+t3;0-0;0;---;3,(0-2) FSX;;CLE;Mike Zunino;Max Scherzer;-4%;46%;Single to SS (Ground Ball)
+;;;;;;;;;Force Play Challenged by CLE manager (Terry Francona): Original call overturned as shown.
+t3;0-0;0;1--;3,(1-1) BCX;O;CLE;Myles Straw;Max Scherzer;4%;50%;Groundout: SS-2B/Forceout at 2B; Straw to 1B
+t3;0-0;1;1--;9,(2-2) CFBFB>FF1FX;O;CLE;Steven Kwan;Max Scherzer;3%;53%;Flyball: LF (Short LF)
+t3;0-0;2;1--;3,(1-1) FBX;O;CLE;Amed Rosario;Max Scherzer;3%;56%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 0, Mets 0.
+Bottom of the 3rd, Mets Batting, Tied 0-0, Guardians' Tanner Bibee facing 2-3-4 
+b3;0-0;0;---;3,(1-1) CBX;O;NYM;Francisco Lindor;Tanner Bibee;-3%;53%;Groundout: 2B-1B (2B-1B)
+b3;0-0;1;---;4,(1-2) SBCX;O;NYM;Jeff McNeil;Tanner Bibee;-2%;51%;Flyball: CF (Deep CF)
+b3;0-0;2;---;2,(1-0) BX;O;NYM;Pete Alonso;Tanner Bibee;-1%;50%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Mets 0.
+Top of the 4th, Guardians Batting, Tied 0-0, Mets' Max Scherzer facing 3-4-5 
+t4;0-0;0;---;1,(0-0) X;O;CLE;José Ramírez;Max Scherzer;3%;53%;Flyball: CF
+t4;0-0;1;---;6,(3-2) TCBBB.S;O;CLE;Josh Naylor;Max Scherzer;2%;55%;Strikeout Swinging
+t4;0-0;2;---;6,(3-2) FFBBVFX;O;CLE;Josh Bell;Max Scherzer;1%;56%;Single to RF (Line Drive to Deep RF Line); Bell out at 2B/RF-SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Guardians 0, Mets 0.
+Bottom of the 4th, Mets Batting, Tied 0-0, Guardians' Tanner Bibee facing 5-6-7 
+b4;0-0;0;---;3,(0-2) SFS;O;NYM;Brett Baty;Tanner Bibee;-3%;53%;Strikeout Swinging
+b4;0-0;1;---;2,(0-1) CX;;NYM;Starling Marte;Tanner Bibee;3%;56%;Single to SS (Ground Ball)
+b4;0-0;1;1--;,(0-0) 1;O;NYM;Daniel Vogelbach;Tanner Bibee;-5%;51%;Marte Picked off 1B (P-1B)
+b4;0-0;2;---;9,(3-2) 1.SBBCBFF.FB;;NYM;Daniel Vogelbach;Tanner Bibee;1%;53%;Walk
+b4;0-0;2;1--;3,(0-2) CCX;;NYM;Gary Sánchez;Tanner Bibee;2%;55%;Single to LF (Line Drive); Vogelbach to 2B
+b4;0-0;2;12-;2,(1-0) BX;RO;NYM;Eduardo Escobar;Tanner Bibee;9%;64%;Single to RF (Line Drive to Short RF Line); Vogelbach Scores; Sánchez out at Hm/RF-1B-C
+;;;;;;;;;1 run, 3 hits, 0 errors, 1 LOB. Guardians 0, Mets 1.
+Top of the 5th, Guardians Batting, Behind 0-1, Mets' Max Scherzer facing 6-7-8 
+t5;0-1;0;---;6,(3-2) CBBFBC;O;CLE;Gabriel Arias;Max Scherzer;3%;67%;Strikeout Looking
+t5;0-1;1;---;4,(1-2) FBFT;O;CLE;Tyler Freeman;Max Scherzer;2%;69%;Strikeout Swinging
+t5;0-1;2;---;1,(0-0) X;O;CLE;Mike Zunino;Max Scherzer;1%;71%;Flyball: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Mets 1.
+Bottom of the 5th, Mets Batting, Ahead 1-0, Guardians' Tanner Bibee facing 1-2-3 
+b5;1-0;0;---;6,(2-2) CBBFFC;O;NYM;Brandon Nimmo;Tanner Bibee;-2%;69%;Strikeout Looking
+b5;1-0;1;---;2,(0-1) S.X;O;NYM;Francisco Lindor;Tanner Bibee;-2%;67%;Groundout: SS-1B (Front of Home)
+b5;1-0;2;---;2,(1-0) BX;O;NYM;Jeff McNeil;Tanner Bibee;-1%;66%;Popfly: 3B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Mets 1.
+Top of the 6th, Guardians Batting, Behind 0-1, Mets' Max Scherzer facing 9-1-2 
+t6;0-1;0;---;1,(0-0) X;O;CLE;Myles Straw;Max Scherzer;4%;70%;Groundout: 3B-1B (Weak SS)
+t6;0-1;1;---;6,(2-2) CFBBFX;;CLE;Steven Kwan;Max Scherzer;-4%;66%;Single to RF (Ground Ball thru 2B-1B)
+t6;0-1;1;1--;2,(0-1) CX;O;CLE;Amed Rosario;Max Scherzer;5%;70%;Groundout: 3B-2B/Forceout at 2B (Weak 3B); Rosario to 1B
+t6;0-1;2;1--;4,(2-1) BBSX;O;CLE;José Ramírez;Max Scherzer;4%;74%;Popfly: 3B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 0, Mets 1.
+Bottom of the 6th, Mets Batting, Ahead 1-0, Guardians' Tanner Bibee facing 4-5-6 
+b6;1-0;0;---;2,(1-0) BX;;NYM;Pete Alonso;Tanner Bibee;3%;77%;Single to LF (Line Drive)
+b6;1-0;0;1--;5,(2-2) BFFBX;;NYM;Brett Baty;Tanner Bibee;9%;86%;Single to CF (Ground Ball thru SS-2B); Alonso to 3B; Baty to 2B
+b6;1-0;0;-23;2,(0-1) C.X;O;NYM;Starling Marte;Tanner Bibee;-4%;82%;Groundout: 3B-1B (Weak 3B)
+b6;1-0;1;-23;5,(3-1) BBCBB;;NYM;Daniel Vogelbach;Tanner Bibee;0%;83%;Walk
+b6;1-0;1;123;3,(1-1) BCX;RO;NYM;Gary Sánchez;Tanner Bibee;2%;84%;Flyball: CF/Sacrifice Fly; Alonso Scores
+b6;2-0;2;12-;1,(0-0) X;O;NYM;Eduardo Escobar;Tanner Bibee;-3%;82%;Popfly: SS (SS-2B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Guardians 0, Mets 2.
+Top of the 7th, Guardians Batting, Behind 0-2, Mets' Brooks Raley facing 4-5-6 
+;;;;;;;;;Brooks Raley replaces Max Scherzer pitching
+t7;0-2;0;---;4,(1-2) .FBCX;O;CLE;Josh Naylor;Brooks Raley;3%;85%;Popfly: 3B (Deep 3B)
+t7;0-2;1;---;1,(0-0) X;O;CLE;Josh Bell;Brooks Raley;2%;87%;Groundout: 3B-1B (SS-3B Hole)
+t7;0-2;2;---;4,(1-2) CBSX;O;CLE;Gabriel Arias;Brooks Raley;1%;89%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Mets 2.
+Bottom of the 7th, Mets Batting, Ahead 2-0, Guardians' Eli Morgan facing 1-2-3 
+;;;;;;;;;Eli Morgan replaces Tanner Bibee pitching
+b7;2-0;0;---;1,(0-0) .X;R;NYM;Brandon Nimmo;Eli Morgan;5%;94%;Home Run (Fly Ball to Deep RF)
+b7;3-0;0;---;6,(2-2) S.BSBFS;O;NYM;Francisco Lindor;Eli Morgan;-1%;94%;Strikeout Swinging
+b7;3-0;1;---;11,(3-2) SBTF.FBFFBFX;O;NYM;Jeff McNeil;Eli Morgan;0%;93%;Single to RF (Line Drive to RF Line); McNeil out at 2B/RF-SS
+;;;;;;;;;Tag play Challenged by CLE manager (Terry Francona): Original call overturned as shown.
+b7;3-0;2;---;4,(1-2) CSBS;O;NYM;Pete Alonso;Eli Morgan;0%;93%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Guardians 0, Mets 3.
+Top of the 8th, Guardians Batting, Behind 0-3, Mets' Adam Ottavino facing 7-8-9 
+;;;;;;;;;Adam Ottavino replaces Brooks Raley pitching
+t8;0-3;0;---;6,(3-2) .BBCC.BX;;CLE;Tyler Freeman;Adam Ottavino;-5%;88%;Double to RF (Line Drive to Deep RF Line)
+;;;;;;;;;Bo Naylor pinch hits for Mike Zunino (C) batting 8th
+t8;0-3;0;-2-;1,(0-0) .X;O;CLE;Bo Naylor;Adam Ottavino;3%;91%;Groundout: 1B-P (2B-1B); Freeman to 3B
+t8;0-3;1;--3;4,(1-2) CFBX;RO;CLE;Myles Straw;Adam Ottavino;2%;93%;Groundout: 2B-1B (Weak 2B); Freeman Scores
+t8;1-3;2;---;2,(0-1) CX;;CLE;Steven Kwan;Adam Ottavino;-3%;90%;Double to LF (Line Drive to Deep LF-CF)
+t8;1-3;2;-2-;2,(1-0) BX;R;CLE;Amed Rosario;Adam Ottavino;-9%;81%;Single to 1B (Fly Ball to Deep 2B-1B); Kwan Scores
+;;;;;;;;;David Robertson replaces Adam Ottavino pitching
+t8;2-3;2;1--;3,(1-1) .CBX;RR;CLE;José Ramírez;David Robertson;-52%;29%;Home Run (Fly Ball to Deep CF); Rosario Scores
+t8;4-3;2;---;2,(1-0) BX;O;CLE;Josh Naylor;David Robertson;1%;31%;Groundout: 2B-1B
+;;;;;;;;;4 runs, 4 hits, 0 errors, 0 LOB. Guardians 4, Mets 3.
+Bottom of the 8th, Mets Batting, Behind 3-4, Guardians' Trevor Stephan facing 5-6-7 
+;;;;;;;;;Trevor Stephan replaces Eli Morgan pitchingBo Naylor moves from PH to C Gabriel Arias moves from RF to 1B Will Brennan replaces Josh Bell (1B) playing RF batting 5th
+b8;3-4;0;---;6,(3-2) ....BFF.BBB;;NYM;Brett Baty;Trevor Stephan;10%;40%;Walk
+b8;3-4;0;1--;2,(1-0) BX;RR;NYM;Starling Marte;Trevor Stephan;46%;87%;Home Run (Fly Ball to Deep RF); Baty Scores
+b8;5-4;0;---;5,(2-2) .BSBCX;;NYM;Daniel Vogelbach;Trevor Stephan;2%;89%;Single to RF (Ground Ball)
+;;;;;;;;;Tommy Pham pinch runs for Daniel Vogelbach (DH) batting 7th
+b8;5-4;0;1--;4,(1-2) .C1>F1B>B;;NYM;Gary Sánchez;Trevor Stephan;2%;91%;Pham Steals 2B
+b8;5-4;0;-2-;5,(2-2) .C1>F1B>B.S;O;NYM;Gary Sánchez;Trevor Stephan;-3%;88%;Strikeout Swinging
+b8;5-4;1;-2-;3,(0-2) CS.T;O;NYM;Eduardo Escobar;Trevor Stephan;-2%;86%;Strikeout Swinging
+b8;5-4;2;-2-;2,(0-1) FX;O;NYM;Brandon Nimmo;Trevor Stephan;-2%;84%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Guardians 4, Mets 5.
+Top of the 9th, Guardians Batting, Behind 4-5, Mets' David Robertson facing 5-6-7 
+;;;;;;;;;Jeff McNeil moves from LF to 2B Eduardo Escobar moves from 2B to 3B Mark Canha replaces Brett Baty (3B) playing LF batting 5th
+t9;4-5;0;---;2,(0-1) .....CX;O;CLE;Will Brennan;David Robertson;7%;91%;Groundout: 1B-P
+t9;4-5;1;---;6,(3-2) FFBBBX;;CLE;Gabriel Arias;David Robertson;-8%;83%;Single to 3B (Ground Ball to Weak 3B)
+t9;4-5;1;1--;2,(0-1) CX;O;CLE;Tyler Freeman;David Robertson;9%;92%;Groundout: SS-2B/Forceout at 2B; Freeman to 1B
+t9;4-5;2;1--;3,(1-1) CBX;O;CLE;Bo Naylor;David Robertson;8%;100%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 4, Mets 5.

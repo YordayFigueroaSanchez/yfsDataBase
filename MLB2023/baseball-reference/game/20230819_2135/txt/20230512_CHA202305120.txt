@@ -1,0 +1,268 @@
+
+Scorebox Meta
+20230512
+7:10 p.m. Local
+18673
+Guaranteed Rate Field
+159
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/HOU-2023.png;/teams/HOU/2023.shtml;0;0;0;1;1;2;0;0;1;5;8;0
+https://cdn.ssref.net/req/202308101/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;0;1;0;0;0;0;0;0;0;1;3;0
+
+Batting home
+Tim Anderson;/players/a/anderti01.shtml;SS;4;0;0;0;0;0;4;.241;.290;.299;.589;8;8;-0.069; 0.67;0.000;-0.069;-0.01%; 0.21; -0.7;1;3;
+Andrew Benintendi;/players/b/beninan01.shtml;LF;4;0;0;0;0;1;4;.255;.309;.312;.621;20;12;-0.073; 0.72;0.000;-0.073;-0.01%; 0.23; -0.8;3;0;
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;4;0;0;0;0;0;4;.248;.339;.423;.762;9;7;-0.046; 0.45;0.000;-0.046;-0.01%; 0.14; -0.5;9;1;
+Yoán Moncada;/players/m/moncayo01.shtml;3B;4;0;0;0;0;1;4;.279;.295;.512;.807;16;12;-0.067; 0.65;0.000;-0.067;-0.01%; 0.21; -0.7;1;1;
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;3;1;2;1;0;0;3;.262;.327;.517;.844;12;7;0.144; 0.91;0.162;-0.018; 0.03%; 0.30; 1.2;3;0;HR
+Gavin Sheets;/players/s/sheetga01.shtml;DH;2;0;0;0;1;1;3;.253;.333;.418;.751;19;11;-0.050; 1.05;0.015;-0.065;-0.01%; 0.34; -0.4;;;
+Seby Zavala;/players/z/zavalse01.shtml;C;3;0;1;0;0;2;3;.161;.203;.286;.489;14;9;0.019; 1.01;0.054;-0.035; 0.00%; 0.33; 0.0;6;0;
+Elvis Andrus;/players/a/andruel01.shtml;2B;3;0;0;0;0;0;3;.201;.280;.254;.534;9;8;-0.116; 1.61;0.000;-0.116;-0.02%; 0.52; -1.0;2;2;
+Jake Marisnick;/players/m/marisja01.shtml;RF;0;0;0;0;0;0;0;;;;;;;;;;;;;;0;0;
+Adam Haseley;/players/h/haselad01.shtml;RF;2;0;0;0;0;1;2;.286;.355;.357;.712;10;7;-0.080; 1.56;0.000;-0.080;-0.02%; 0.52; -0.6;1;0;
+Hanser Alberto;/players/a/alberha01.shtml;PH-2B;1;0;0;0;0;1;1;.255;.304;.510;.813;4;3;-0.017; 0.67;0.000;-0.017;-0.00%; 0.22; -0.2;0;0;
+Michael Kopech;/players/k/kopecmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gregory Santos;/players/s/santogr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Aaron Bummer;/players/b/bummeaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Keynan Middleton;/players/m/middlke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Jimmy Lambert;/players/l/lambeji01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+HR: Luis Robert Jr. (9, off J.P. France, 2nd inn, 0 on, 1 out to Deep LF-CF).
+
+
+TB: Luis Robert Jr. 5; Seby Zavala.
+
+
+RBI: Luis Robert Jr. (24).
+
+
+Team LOB: 3.
+With RISP: 0 for 2.
+
+Batting away
+Mauricio Dubón;/players/d/dubonma01.shtml;2B;4;0;2;1;1;1;5;.293;.317;.368;.685;15;8;0.068; 1.10;0.135;-0.067; 0.04%; 1.05; 1.0;1;3;2B
+Alex Bregman;/players/b/bregmal01.shtml;3B;4;0;0;0;1;0;5;.201;.324;.326;.650;20;12;-0.056; 1.14;0.047;-0.102;-0.03%; 1.08; -1.1;0;1;
+Yordan Alvarez;/players/a/alvaryo01.shtml;DH;4;1;1;1;1;0;5;.282;.388;.573;.961;17;9;-0.087; 1.07;0.031;-0.118;-0.05%; 1.02; -0.0;;;HR
+Kyle Tucker;/players/t/tuckeky01.shtml;RF;4;1;1;1;1;1;5;.263;.357;.436;.793;19;11;0.202; 1.06;0.233;-0.031; 0.11%; 1.01; 1.2;3;0;2B,SB
+José Abreu;/players/a/abreujo02.shtml;1B;5;0;1;0;0;0;5;.218;.263;.259;.521;24;18;-0.104; 0.96;0.005;-0.109;-0.06%; 0.92; -1.1;12;1;
+Jeremy Peña;/players/p/penaje02.shtml;SS;3;0;0;1;1;0;5;.242;.292;.423;.715;18;11;-0.030; 0.74;0.022;-0.052;-0.02%; 0.71; -0.4;0;2;SF
+Corey Julks;/players/j/julksco01.shtml;LF;3;1;2;0;2;1;5;.273;.291;.374;.665;16;8;0.067; 0.61;0.079;-0.011; 0.04%; 0.58; 1.1;1;0;2·SB
+Jake Meyers;/players/m/meyerja02.shtml;CF;4;0;0;0;0;2;5;.240;.303;.360;.663;19;10;-0.037; 0.86;0.042;-0.079;-0.02%; 0.81; -0.9;2;0;HBP
+Martín Maldonado;/players/m/maldoma01.shtml;C;3;2;1;1;1;1;4;.186;.278;.291;.569;15;8;0.122; 1.16;0.172;-0.050; 0.07%; 1.10; 0.7;7;0;2B
+J.P. France;/players/f/francjp01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Hector Neris;/players/n/nerishe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Abreu;/players/a/abreubr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Pressly;/players/p/pressry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Kyle Tucker (5, off Michael Kopech); Martín Maldonado (3, off Gregory Santos); Mauricio Dubón (8, off Gregory Santos).
+
+
+HR: Yordan Alvarez (9, off Jimmy Lambert, 9th inn, 0 on, 0 outs to Deep RF).
+
+
+SF: Jeremy Peña (1, off Michael Kopech).
+
+
+HBP: Jake Meyers (2, by Michael Kopech).
+
+
+TB: Yordan Alvarez 4; Mauricio Dubón 3; Corey Julks 2; Martín Maldonado 2; Kyle Tucker 2; José Abreu.
+
+
+RBI: Mauricio Dubón (7); Martín Maldonado (7); Jeremy Peña (21); Yordan Alvarez (35); Kyle Tucker (25).
+
+
+2-out RBI: Martín Maldonado; Kyle Tucker; Mauricio Dubón.
+
+
+Team LOB: 12.
+With RISP: 4 for 14.
+
+Pitching home
+Michael Kopech;/players/k/kopecmi01.shtml; L (1-4); 4.2;1;2;2;6;5;0;5.74;22;94;48;27;5;16;2;8;2;0;53;;;-0.053; 1.32;-0.01%; 0.43; -0.0
+Gregory Santos;/players/s/santogr01.shtml;Gregory Santos; 1.1;3;2;2;0;1;0;2.57;7;20;16;12;2;2;3;3;3;0;;2;0;-0.115; 1.15;-0.02%; 0.38; -0.9
+Aaron Bummer;/players/b/bummeaa01.shtml;Aaron Bummer; 1 ;1;0;0;0;0;0;9.95;4;10;9;6;0;3;2;2;1;0;;0;0;0.022; 0.28; 0.00%; 0.09; 0.5
+Keynan Middleton;/players/m/middlke01.shtml;Keynan Middleton; 1 ;1;0;0;1;0;0;2.19;5;19;10;6;2;2;2;2;1;0;;0;0;0.016; 0.40; 0.00%; 0.13; 0.5
+Jimmy Lambert;/players/l/lambeji01.shtml;Jimmy Lambert; 1 ;2;1;1;1;0;1;6.23;6;20;12;8;1;3;2;3;1;0;;0;0;-0.015; 0.07;-0.00%; 0.02; -0.5
+
+Pitching away
+J.P. France;/players/f/francjp01.shtml; W (1-0); 6.2;3;1;1;1;3;1;0.77;24;94;63;40;6;17;9;11;3;0;66;;;0.258; 0.99; 0.15%; 0.95; 2.4
+Hector Neris;/players/n/nerishe01.shtml; H (5); 0.1;0;0;0;0;1;0;1.65;1;6;4;2;1;1;0;0;0;0;;1;0;0.025; 0.86; 0.01%; 0.82; 0.2
+Bryan Abreu;/players/a/abreubr01.shtml; H (6); 1 ;0;0;0;0;1;0;1.40;3;11;9;4;4;1;1;1;1;0;;0;0;0.053; 0.69; 0.03%; 0.66; 0.5
+Ryan Pressly;/players/p/pressry01.shtml;Ryan Pressly; 1 ;0;0;0;0;2;0;3.86;3;10;8;3;2;3;1;0;0;0;;0;0;0.019; 0.25; 0.01%; 0.24; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Michael Kopech (4; Jake Meyers).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Michael Kopech (4; Jake Meyers).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Mark Wegner, 1B - Bruce Dreckman, 2B - Stu Scheurwater, 3B - Malachi Moore, LF - (none), RF - (none).
+Time of Game: 2:39.
+Attendance: 18,673.
+Field Condition: Unknown.
+Start Time Weather: 58° F, Wind 7mph out to Rightfield, Overcast, No Precipitation.
+
+div_lineups
+Astros
+1;Mauricio Dubón;/players/d/dubonma01.shtml;2B
+2;Alex Bregman;/players/b/bregmal01.shtml;3B
+3;Yordan Alvarez;/players/a/alvaryo01.shtml;DH
+4;Kyle Tucker;/players/t/tuckeky01.shtml;RF
+5;José Abreu;/players/a/abreujo02.shtml;1B
+6;Jeremy Peña;/players/p/penaje02.shtml;SS
+7;Corey Julks;/players/j/julksco01.shtml;LF
+8;Jake Meyers;/players/m/meyerja02.shtml;CF
+9;Martín Maldonado;/players/m/maldoma01.shtml;C
+; J.P. France;/players/f/francjp01.shtml;P
+White Sox
+1;Tim Anderson;/players/a/anderti01.shtml;SS
+2;Andrew Benintendi;/players/b/beninan01.shtml;LF
+3;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+4;Yoán Moncada;/players/m/moncayo01.shtml;3B
+5;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+6;Gavin Sheets;/players/s/sheetga01.shtml;DH
+7;Seby Zavala;/players/z/zavalse01.shtml;C
+8;Elvis Andrus;/players/a/andruel01.shtml;2B
+9;Adam Haseley;/players/h/haselad01.shtml;RF
+; Michael Kopech;/players/k/kopecmi01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t5;1-1;2;12-;1,(0-0) X;R;HOU;Kyle Tucker;Michael Kopech;16%;65%;Double to LF (Fly Ball to Deep LF Line); Maldonado Scores; Bregman to 3B
+t6;2-1;2;-2-;2,(0-1) CX;R;HOU;Martín Maldonado;Gregory Santos;13%;77%;Double to LF (Line Drive to LF Line); Julks Scores
+b2;0-0;1;---;5,(3-1) BBBCX;R;CHW;Luis Robert Jr.;J.P. France;-11%;36%;Home Run (Fly Ball to Deep LF-CF)
+t6;3-1;2;-2-;2,(1-0) BX;R;HOU;Mauricio Dubón;Gregory Santos;9%;86%;Double to LF (Line Drive to Deep LF-CF); Maldonado Scores
+b5;1-2;1;12-;1,(0-0) X;O;CHW;Elvis Andrus;J.P. France;7%;59%;Flyball: CF (Deep CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Astros Batting, Tied 0-0, White Sox' Michael Kopech facing 1-2-3 
+t1;0-0;0;---;3,(1-1) FBX;O;HOU;Mauricio Dubón;Michael Kopech;-2%;48%;Foul Popfly: 1B (1B into Foul Terr.)
+t1;0-0;1;---;3,(1-1) FBX;O;HOU;Alex Bregman;Michael Kopech;-2%;46%;Popfly: SS (Deep SS)
+t1;0-0;2;---;4,(3-0) BBBB;;HOU;Yordan Alvarez;Michael Kopech;1%;47%;Walk
+t1;0-0;2;1--;8,(3-2) C.BBFF*B>F>S;O;HOU;Kyle Tucker;Michael Kopech;-2%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Astros 0, White Sox 0.
+Bottom of the 1st, White Sox Batting, Tied 0-0, Astros' J.P. France facing 1-2-3 
+b1;0-0;0;---;2,(0-1) CX;O;CHW;Tim Anderson;J.P. France;2%;47%;Groundout: 1B unassisted
+b1;0-0;1;---;6,(3-2) CBBCBX;O;CHW;Andrew Benintendi;J.P. France;2%;49%;Flyball: LF (Short LF)
+b1;0-0;2;---;4,(2-1) SBBX;O;CHW;Andrew Vaughn;J.P. France;1%;50%;Foul Popfly: 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 0, White Sox 0.
+Top of the 2nd, Astros Batting, Tied 0-0, White Sox' Michael Kopech facing 5-6-7 
+t2;0-0;0;---;4,(1-2) BCCX;O;HOU;José Abreu;Michael Kopech;-2%;48%;Lineout: 2B (Deep SS-2B)
+t2;0-0;1;---;2,(0-1) SX;O;HOU;Jeremy Peña;Michael Kopech;-2%;46%;Flyball: CF (Deep CF-RF)
+t2;0-0;2;---;3,(0-2) CFS;O;HOU;Corey Julks;Michael Kopech;-1%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 0, White Sox 0.
+Bottom of the 2nd, White Sox Batting, Tied 0-0, Astros' J.P. France facing 4-5-6 
+b2;0-0;0;---;4,(1-2) CBCX;O;CHW;Yoán Moncada;J.P. France;2%;47%;Groundout: 1B unassisted (2B-1B)
+b2;0-0;1;---;5,(3-1) BBBCX;R;CHW;Luis Robert Jr.;J.P. France;-11%;36%;Home Run (Fly Ball to Deep LF-CF)
+b2;1-0;1;---;4,(2-1) BBFX;O;CHW;Gavin Sheets;J.P. France;1%;38%;Lineout: RF (CF-RF)
+b2;1-0;2;---;4,(1-2) SBTT;O;CHW;Seby Zavala;J.P. France;1%;39%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Astros 0, White Sox 1.
+Top of the 3rd, Astros Batting, Behind 0-1, White Sox' Michael Kopech facing 8-9-1 
+t3;0-1;0;---;2,(1-0) BH;;HOU;Jake Meyers;Michael Kopech;4%;43%;Hit By Pitch
+t3;0-1;0;1--;4,(1-2) *BCF.C;O;HOU;Martín Maldonado;Michael Kopech;-4%;39%;Strikeout Looking
+t3;0-1;1;1--;4,(3-0) 1BB*BB;;HOU;Mauricio Dubón;Michael Kopech;4%;43%;Walk; Meyers to 2B
+t3;0-1;1;12-;6,(3-2) CFBBBX;O;HOU;Alex Bregman;Michael Kopech;-5%;38%;Popfly: 2B (2B-1B)
+t3;0-1;2;12-;3,(1-1) BCX;O;HOU;Yordan Alvarez;Michael Kopech;-5%;33%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Astros 0, White Sox 1.
+Bottom of the 3rd, White Sox Batting, Ahead 1-0, Astros' J.P. France facing 8-9-1 
+b3;1-0;0;---;3,(0-2) .CFX;O;CHW;Elvis Andrus;J.P. France;2%;35%;Groundout: 1B unassisted
+b3;1-0;1;---;5,(0-2) FFFFS;O;CHW;Adam Haseley;J.P. France;2%;37%;Strikeout Swinging
+b3;1-0;2;---;2,(0-1) FX;O;CHW;Tim Anderson;J.P. France;1%;38%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 0, White Sox 1.
+Top of the 4th, Astros Batting, Behind 0-1, White Sox' Michael Kopech facing 4-5-6 
+t4;0-1;0;---;5,(3-1) FBBBB;;HOU;Kyle Tucker;Michael Kopech;5%;42%;Walk
+t4;0-1;0;1--;7,(2-2) CF1>F.BFB>B;;HOU;José Abreu;Michael Kopech;3%;45%;Tucker Steals 2B
+t4;0-1;0;-2-;8,(3-2) CF1>F.BFB>B.X;O;HOU;José Abreu;Michael Kopech;-2%;43%;Groundout: 2B-1B; Tucker to 3B
+t4;0-1;1;--3;3,(0-2) CSX;RO;HOU;Jeremy Peña;Michael Kopech;2%;45%;Lineout: RF/Sacrifice Fly (RF Line); Tucker Scores
+t4;1-1;2;---;5,(3-1) BBBCB;;HOU;Corey Julks;Michael Kopech;2%;47%;Walk
+t4;1-1;2;1--;4,(1-2) C1FB+1>B;;HOU;Jake Meyers;Michael Kopech;1%;48%;Julks Steals 2B
+t4;1-1;2;-2-;6,(3-2) C1FB+1>B.BC;O;HOU;Jake Meyers;Michael Kopech;-4%;44%;Strikeout Looking
+;;;;;;;;;1 run, 0 hits, 0 errors, 1 LOB. Astros 1, White Sox 1.
+Bottom of the 4th, White Sox Batting, Tied 1-1, Astros' J.P. France facing 2-3-4 
+b4;1-1;0;---;6,(3-2) BCBBFX;O;CHW;Andrew Benintendi;J.P. France;3%;47%;Flyball: CF (Deep CF)
+b4;1-1;1;---;2,(0-1) CX;O;CHW;Andrew Vaughn;J.P. France;2%;49%;Popfly: 2B (Deep 1B)
+b4;1-1;2;---;5,(2-2) BBFFX;O;CHW;Yoán Moncada;J.P. France;1%;50%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 1, White Sox 1.
+Top of the 5th, Astros Batting, Tied 1-1, White Sox' Michael Kopech facing 9-1-2 
+t5;1-1;0;---;5,(3-1) BBFBB;;HOU;Martín Maldonado;Michael Kopech;5%;55%;Walk
+t5;1-1;0;1--;3,(0-2) CFS;O;HOU;Mauricio Dubón;Michael Kopech;-4%;50%;Strikeout Swinging
+t5;1-1;1;1--;6,(3-2) *BBCFB+1B;;HOU;Alex Bregman;Michael Kopech;5%;55%;Walk; Maldonado to 2B
+t5;1-1;1;12-;6,(3-2) BBBCFX;O;HOU;Yordan Alvarez;Michael Kopech;-6%;49%;Flyball: LF (Deep LF)
+t5;1-1;2;12-;1,(0-0) X;R;HOU;Kyle Tucker;Michael Kopech;16%;65%;Double to LF (Fly Ball to Deep LF Line); Maldonado Scores; Bregman to 3B
+;;;;;;;;;Gregory Santos replaces Michael Kopech pitching
+t5;2-1;2;-23;4,(0-2) .CF.FX;O;HOU;José Abreu;Gregory Santos;-6%;58%;Groundout: 3B-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Astros 2, White Sox 1.
+Bottom of the 5th, White Sox Batting, Behind 1-2, Astros' J.P. France facing 5-6-7 
+b5;1-2;0;---;4,(1-2) CSBX;;CHW;Luis Robert Jr.;J.P. France;-5%;53%;Single to CF (Line Drive to Deep CF)
+b5;1-2;0;1--;10,(2-2) BBTC.FFFFFS;O;CHW;Gavin Sheets;J.P. France;5%;58%;Strikeout Swinging
+b5;1-2;1;1--;4,(2-1) 1BSBX;;CHW;Seby Zavala;J.P. France;-5%;53%;Single to RF (Line Drive to Short RF); Robert to 2B
+b5;1-2;1;12-;1,(0-0) X;O;CHW;Elvis Andrus;J.P. France;7%;59%;Flyball: CF (Deep CF)
+b5;1-2;2;12-;5,(3-1) BBFBX;O;CHW;Adam Haseley;J.P. France;7%;66%;Groundout: SS-1B (Weak SS)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Astros 2, White Sox 1.
+Top of the 6th, Astros Batting, Ahead 2-1, White Sox' Gregory Santos facing 6-7-8 
+t6;2-1;0;---;5,(2-2) TFBBX;O;HOU;Jeremy Peña;Gregory Santos;-3%;63%;Groundout: SS-1B
+t6;2-1;1;---;1,(0-0) X;;HOU;Corey Julks;Gregory Santos;3%;66%;Single to SS (Ground Ball to SS-3B Hole)
+t6;2-1;1;1--;4,(1-2) F*BS>S;O;HOU;Jake Meyers;Gregory Santos;-2%;64%;Strikeout Swinging, Julks Steals 2B
+t6;2-1;2;-2-;2,(0-1) CX;R;HOU;Martín Maldonado;Gregory Santos;13%;77%;Double to LF (Line Drive to LF Line); Julks Scores
+t6;3-1;2;-2-;2,(1-0) BX;R;HOU;Mauricio Dubón;Gregory Santos;9%;86%;Double to LF (Line Drive to Deep LF-CF); Maldonado Scores
+t6;4-1;2;-2-;2,(0-1) TX;O;HOU;Alex Bregman;Gregory Santos;-2%;84%;Lineout: LF
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Astros 4, White Sox 1.
+Bottom of the 6th, White Sox Batting, Behind 1-4, Astros' J.P. France facing 1-2-3 
+b6;1-4;0;---;2,(0-1) CX;O;CHW;Tim Anderson;J.P. France;3%;87%;Groundout: 1B-P (Weak 1B)
+b6;1-4;1;---;3,(0-2) CC.X;O;CHW;Andrew Benintendi;J.P. France;2%;88%;Groundout: 2B-1B
+b6;1-4;2;---;1,(0-0) X;O;CHW;Andrew Vaughn;J.P. France;1%;89%;Flyball: RF (Short CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 4, White Sox 1.
+Top of the 7th, Astros Batting, Ahead 4-1, White Sox' Aaron Bummer facing 3-4-5 
+;;;;;;;;;Aaron Bummer replaces Gregory Santos pitching
+t7;4-1;0;---;2,(0-1) .FX;O;HOU;Yordan Alvarez;Aaron Bummer;-1%;88%;Groundout: SS-1B (SS-2B)
+t7;4-1;1;---;2,(0-1) CX;O;HOU;Kyle Tucker;Aaron Bummer;-1%;88%;Flyball: CF (Deep CF)
+t7;4-1;2;---;3,(0-2) CFX;;HOU;José Abreu;Aaron Bummer;1%;88%;Single to CF (Line Drive)
+t7;4-1;2;1--;3,(1-1) CBX;O;HOU;Jeremy Peña;Aaron Bummer;-1%;87%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 4, White Sox 1.
+Bottom of the 7th, White Sox Batting, Behind 1-4, Astros' J.P. France facing 4-5-6 
+b7;1-4;0;---;4,(1-2) CCBX;O;CHW;Yoán Moncada;J.P. France;3%;90%;Groundout: 2B-1B
+b7;1-4;1;---;3,(1-1) BFX;O;CHW;Luis Robert Jr.;J.P. France;2%;92%;Foul Popfly: 1B (1B into Foul Terr.)
+b7;1-4;2;---;5,(3-1) BBCBB;;CHW;Gavin Sheets;J.P. France;-1%;90%;Walk
+;;;;;;;;;Hector Neris replaces J.P. France pitching
+b7;1-4;2;1--;6,(2-2) .CFFBB.S;O;CHW;Seby Zavala;Hector Neris;2%;93%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Astros 4, White Sox 1.
+Top of the 8th, Astros Batting, Ahead 4-1, White Sox' Keynan Middleton facing 7-8-9 
+;;;;;;;;;Keynan Middleton replaces Aaron Bummer pitching
+t8;4-1;0;---;6,(3-2) .BFBBSB;;HOU;Corey Julks;Keynan Middleton;1%;94%;Walk
+t8;4-1;0;1--;3,(2-0) BBX;O;HOU;Jake Meyers;Keynan Middleton;0%;93%;Lineout: P-1B (Front of Home); Julks to 2B
+t8;4-1;1;-2-;4,(2-1) FBBX;O;HOU;Martín Maldonado;Keynan Middleton;-1%;92%;Flyball: LF (LF Line)
+t8;4-1;2;-2-;3,(1-1) BSX;;HOU;Mauricio Dubón;Keynan Middleton;0%;93%;Single to SS (Ground Ball to SS-3B Hole); Julks to 3B
+t8;4-1;2;1-3;3,(0-2) CCX;O;HOU;Alex Bregman;Keynan Middleton;-2%;91%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Astros 4, White Sox 1.
+Bottom of the 8th, White Sox Batting, Behind 1-4, Astros' Bryan Abreu facing 8-9-1 
+;;;;;;;;;Bryan Abreu replaces Hector Neris pitching
+b8;1-4;0;---;5,(1-2) .FBS.FX;O;CHW;Elvis Andrus;Bryan Abreu;3%;94%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;Hanser Alberto pinch hits for Adam Haseley (RF) batting 9th
+b8;1-4;1;---;4,(1-2) .SBSS;O;CHW;Hanser Alberto;Bryan Abreu;2%;96%;Strikeout Swinging
+b8;1-4;2;---;2,(0-1) CX;O;CHW;Tim Anderson;Bryan Abreu;1%;97%;Lineout: RF (CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 4, White Sox 1.
+Top of the 9th, Astros Batting, Ahead 4-1, White Sox' Jimmy Lambert facing 3-4-5 
+;;;;;;;;;Jimmy Lambert replaces Keynan Middleton pitchingHanser Alberto moves from PH to 2B Jake Marisnick replaces Elvis Andrus (2B) playing RF batting 8th
+t9;4-1;0;---;2,(0-1) ...CX;R;HOU;Yordan Alvarez;Jimmy Lambert;2%;98%;Home Run (Fly Ball to Deep RF)
+t9;5-1;0;---;3,(1-1) BFX;O;HOU;Kyle Tucker;Jimmy Lambert;0%;98%;Foul Popfly: 3B (3B into Foul Terr.)
+t9;5-1;1;---;5,(2-2) BBSCX;O;HOU;José Abreu;Jimmy Lambert;0%;98%;Groundout: 1B-P (Weak 1B)
+t9;5-1;2;---;5,(3-1) BFBBB;;HOU;Jeremy Peña;Jimmy Lambert;0%;98%;Walk
+t9;5-1;2;1--;1,(0-0) X;;HOU;Corey Julks;Jimmy Lambert;0%;98%;Single to CF (Ground Ball thru SS-2B); Peña to 2B
+t9;5-1;2;12-;4,(1-2) CF*BX;O;HOU;Jake Meyers;Jimmy Lambert;0%;98%;Lineout: CF
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Astros 5, White Sox 1.
+Bottom of the 9th, White Sox Batting, Behind 1-5, Astros' Ryan Pressly facing 2-3-4 
+;;;;;;;;;Ryan Pressly replaces Bryan Abreu pitching
+b9;1-5;0;---;5,(2-2) .CFBBS;O;CHW;Andrew Benintendi;Ryan Pressly;1%;99%;Strikeout Swinging
+b9;1-5;1;---;2,(0-1) CX;O;CHW;Andrew Vaughn;Ryan Pressly;1%;100%;Groundout: P-2B-1B (Weak 2B)
+b9;1-5;2;---;3,(0-2) CF*S;O;CHW;Yoán Moncada;Ryan Pressly;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 5, White Sox 1.

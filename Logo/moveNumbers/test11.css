@@ -1,0 +1,16 @@
+.character {
+    position: absolute;
+    left: 0;
+    top: 50px;
+    font-size: 24px;
+    animation: moveRight 5s linear infinite;
+}
+
+@keyframes moveRight {
+    0% {
+        left: 0;
+    }
+    100% {
+        left: calc(100% - 24px); /* Mueve el carácter completamente a la derecha */
+    }
+}

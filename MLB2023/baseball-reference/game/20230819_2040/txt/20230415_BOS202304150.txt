@@ -1,0 +1,293 @@
+
+Scorebox Meta
+20230415
+4:10 p.m. Local
+36594
+Fenway Park
+179
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;4;0;0;0;2;1;0;0;0;7;9;2
+https://cdn.ssref.net/req/202308101/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;2;0;1;3;0;0;0;3;X;9;11;1
+
+Batting home
+Alex Verdugo;/players/v/verdual01.shtml;RF;4;1;1;0;1;1;5;.305;.379;.424;.803;24;16;-0.042; 0.91;0.053;-0.094;-0.02%; 0.70; -0.4;4;0;
+Justin Turner;/players/t/turneju01.shtml;DH;3;1;1;0;1;0;5;.255;.382;.327;.710;20;7;0.013; 1.31;0.126;-0.114; 0.01%; 1.02; 0.3;;;2B,HBP,GDP
+Rob Refsnyder;/players/r/refsnro01.shtml;LF;3;1;2;2;2;0;5;.200;.351;.333;.685;20;9;0.158; 1.30;0.195;-0.037; 0.07%; 1.01; 2.0;0;0;2B
+Rafael Devers;/players/d/deverra01.shtml;3B;5;1;1;2;0;0;5;.276;.323;.690;1.012;15;13;-0.034; 1.15;0.129;-0.163;-0.02%; 0.89; -0.2;0;4;HR,GDP
+Enrique Hernández;/players/h/hernaen02.shtml;CF-2B;3;1;1;0;1;0;4;.157;.271;.333;.605;19;11;0.082; 1.02;0.118;-0.036; 0.04%; 0.79; 0.3;2;0;SB
+Christian Arroyo;/players/a/arroych01.shtml;2B;3;0;0;0;0;1;3;.159;.196;.205;.400;12;8;-0.079; 0.95;0.000;-0.079;-0.04%; 0.74; -0.7;1;2;
+Raimel Tapia;/players/t/tapiara01.shtml;PH-CF;0;1;0;0;0;0;1;.333;.385;.583;.968;3;3;0.135; 3.85;0.135;0.000; 0.06%; 2.98; 0.6;0;0;
+Triston Casas;/players/c/casastr01.shtml;1B;4;0;1;0;0;2;4;.133;.200;.311;.511;18;10;-0.121; 1.95;0.062;-0.183;-0.06%; 1.51; -0.6;8;0;
+Connor Wong;/players/w/wongco01.shtml;C;3;1;2;0;0;1;3;.172;.273;.276;.549;11;7;-0.002; 1.24;0.057;-0.059;-0.00%; 0.96; 0.1;9;1;2B
+Reese McGuire;/players/m/mcguire01.shtml;PH-C;0;1;0;0;0;0;1;.391;.417;.522;.938;2;1;0.145; 5.13;0.145;0.000; 0.07%; 3.98; 0.7;0;0;
+Yu Chang;/players/c/changyu01.shtml;SS;4;1;2;4;0;1;4;.100;.182;.250;.432;13;9;0.466; 2.77;0.549;-0.083; 0.22%; 2.15; 2.5;3;0;HR
+Nick Pivetta;/players/p/pivetni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kaleb Ort;/players/o/ortka01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Richard Bleier;/players/b/bleieri01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+John Schreiber;/players/s/schrejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Brasier;/players/b/brasiry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kenley Jansen;/players/j/janseke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Rob Refsnyder (1, off Tyler Anderson); Justin Turner (4, off Tyler Anderson); Connor Wong (3, off Tyler Anderson).
+
+
+HR: Rafael Devers (7, off Tyler Anderson, 1st inn, 1 on, 2 outs to Deep LF-CF); Yu Chang (1, off Tyler Anderson, 4th inn, 1 on, 2 outs to Deep LF-CF).
+
+
+HBP: Justin Turner (3, by Ryan Tepera).
+
+
+TB: Yu Chang 5; Rafael Devers 4; Rob Refsnyder 3; Connor Wong 3; Justin Turner 2; Alex Verdugo; Triston Casas; Enrique Hernández.
+
+
+GIDP: Rafael Devers (1); Justin Turner (2).
+
+
+RBI: Yu Chang 4 (4); Rafael Devers 2 (15); Rob Refsnyder 2 (6).
+
+
+2-out RBI: Yu Chang 2; Rafael Devers 2; Rob Refsnyder 2.
+
+
+Team LOB: 7.
+With RISP: 4 for 9.
+
+Batting away
+Taylor Ward;/players/w/wardta01.shtml;LF;5;1;0;0;0;1;5;.259;.348;.379;.728;19;11;-0.110; 1.05;0.016;-0.126;-0.07%; 1.03; -1.2;2;0;
+Mike Trout;/players/t/troutmi01.shtml;CF;4;2;3;0;1;1;5;.300;.462;.580;1.042;18;10;0.097; 0.94;0.141;-0.044; 0.06%; 0.93; 1.1;1;0;2·2B
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;4;1;2;1;0;0;5;.313;.411;.542;.952;25;17;0.212; 1.37;0.273;-0.061; 0.12%; 1.34; 1.5;;;
+Anthony Rendon;/players/r/rendoan01.shtml;3B;4;1;1;1;1;0;5;.280;.429;.280;.709;26;16;0.009; 1.83;0.154;-0.145; 0.01%; 1.80; -0.2;0;2;
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;4;1;1;0;1;1;5;.283;.387;.528;.915;17;10;-0.059; 1.31;0.068;-0.127;-0.03%; 1.28; -0.4;3;0;
+Gio Urshela;/players/u/urshegi01.shtml;1B;5;1;2;5;0;0;5;.347;.373;.449;.822;18;12;0.304; 1.55;0.368;-0.064; 0.18%; 1.52; 3.4;7;0;HR
+Brandon Drury;/players/d/drurybr01.shtml;2B;4;0;0;0;0;3;4;.182;.213;.318;.531;12;10;-0.107; 1.11;0.000;-0.107;-0.06%; 1.09; -1.0;1;1;
+Zach Neto;/players/n/netoza01.shtml;SS;4;0;0;0;0;2;4;.000;.000;.000;.000;22;14;-0.151; 1.30;0.000;-0.151;-0.09%; 1.28; -1.4;4;2;
+Matt Thaiss;/players/t/thaisma01.shtml;C;2;0;0;0;0;2;4;.000;.154;.000;.154;17;9;0.028; 0.88;0.071;-0.043; 0.02%; 0.86; 0.2;6;0;2·HBP
+Tyler Anderson;/players/a/anderty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Matt Moore;/players/m/moorema02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Carlos Estévez;/players/e/estevca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Tepera;/players/t/teperry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tucker Davidson;/players/d/davidtu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Mike Trout 2 (5, 2 off Nick Pivetta).
+
+
+HR: Gio Urshela (1, off Nick Pivetta, 1st inn, 3 on, 2 outs to Deep LF-CF).
+
+
+HBP: Matt Thaiss 2 (2, 1 by Nick Pivetta, 1 by Richard Bleier).
+
+
+TB: Gio Urshela 5; Mike Trout 5; Shohei Ohtani 2; Anthony Rendon; Hunter Renfroe.
+
+
+RBI: Gio Urshela 5 (8); Shohei Ohtani (9); Anthony Rendon (7).
+
+
+2-out RBI: Gio Urshela 4; Shohei Ohtani.
+
+
+Team LOB: 8.
+With RISP: 5 for 11.
+
+Pitching home
+Nick Pivetta;/players/p/pivetni01.shtml;Nick Pivetta; 4 ;5;6;6;3;4;1;4.50;22;99;57;29;8;19;5;8;3;0;29;;;-0.437; 1.06;-0.20%; 0.82; -4.1
+Kaleb Ort;/players/o/ortka01.shtml;Kaleb Ort; 1 ;1;0;0;0;2;0;5.63;4;13;9;6;2;1;0;2;0;0;;2;1;0.108; 2.39; 0.05%; 1.86; 0.9
+Richard Bleier;/players/b/bleieri01.shtml;Richard Bleier; 1 ;1;1;1;0;1;0;11.81;5;23;15;10;1;4;1;2;2;0;;0;0;-0.093; 1.61;-0.04%; 1.25; -0.5
+John Schreiber;/players/s/schrejo01.shtml;John Schreiber; 1 ;1;0;0;0;2;0;1.13;4;13;10;3;3;4;0;2;1;0;;0;0;0.061; 1.23; 0.03%; 0.95; 0.6
+Ryan Brasier;/players/b/brasiry01.shtml; W (1-0); 1 ;1;0;0;0;1;0;5.40;4;19;11;6;3;2;1;2;1;0;;0;0;0.058; 0.79; 0.03%; 0.61; 0.6
+Kenley Jansen;/players/j/janseke01.shtml; S (4); 1 ;0;0;0;0;0;0;0.00;3;7;7;4;1;2;0;3;1;0;;0;0;0.081; 1.03; 0.04%; 0.80; 0.6
+
+Pitching away
+Tyler Anderson;/players/a/anderty01.shtml;Tyler Anderson; 4 ;8;6;6;4;2;2;6.75;21;81;44;21;6;17;4;11;3;0;20;;;-0.398; 0.97;-0.24%; 0.95; -3.8
+Matt Moore;/players/m/moorema02.shtml;Matt Moore; 2 ;1;0;0;0;3;0;2.84;7;32;25;15;6;4;1;3;1;0;;0;0;0.160; 1.46; 0.09%; 1.43; 1.1
+Carlos Estévez;/players/e/estevca01.shtml; H (1); 1 ;0;0;0;0;0;0;1.50;3;9;5;3;0;2;0;3;0;0;;0;0;0.112; 1.44; 0.07%; 1.41; 0.6
+Ryan Tepera;/players/t/teperry01.shtml; L (1-1); 0.2;2;3;1;1;1;0;11.25;8;33;18;8;2;6;2;1;0;0;;0;0;-0.617; 3.26;-0.36%; 3.20; -3.3
+Tucker Davidson;/players/d/davidtu01.shtml;Tucker Davidson; 0.1;0;0;0;0;0;0;2.45;1;2;2;1;0;1;1;0;0;0;;3;0;0.021; 0.80; 0.01%; 0.79; 0.8
+
+indiv_events
+
+Balks: None.
+WP: Tyler Anderson 2 (2); Kaleb Ort (1); Richard Bleier 2 (2).
+HBP: Ryan Tepera (2; Justin Turner); Nick Pivetta (1; Matt Thaiss); Richard Bleier (2; Matt Thaiss).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Tyler Anderson 2 (2); Kaleb Ort (1); Richard Bleier 2 (2).
+HBP: Ryan Tepera (2; Justin Turner); Nick Pivetta (1; Matt Thaiss); Richard Bleier (2; Matt Thaiss).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Cory Blaser, 1B - Carlos Torres, 2B - Jansen Visconti, 3B - Ron Kulpa, LF - (none), RF - (none).
+Time of Game: 2:59.
+Attendance: 36,594.
+Field Condition: Unknown.
+Start Time Weather: 56° F, Wind 4mph in from Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Angels
+1;Taylor Ward;/players/w/wardta01.shtml;LF
+2;Mike Trout;/players/t/troutmi01.shtml;CF
+3;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+4;Anthony Rendon;/players/r/rendoan01.shtml;3B
+5;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+6;Gio Urshela;/players/u/urshegi01.shtml;1B
+7;Brandon Drury;/players/d/drurybr01.shtml;2B
+8;Zach Neto;/players/n/netoza01.shtml;SS
+9;Matt Thaiss;/players/t/thaisma01.shtml;C
+; Tyler Anderson;/players/a/anderty01.shtml;P
+Red Sox
+1;Alex Verdugo;/players/v/verdual01.shtml;RF
+2;Justin Turner;/players/t/turneju01.shtml;DH
+3;Rob Refsnyder;/players/r/refsnro01.shtml;LF
+4;Rafael Devers;/players/d/deverra01.shtml;3B
+5;Enrique Hernández;/players/h/hernaen02.shtml;CF
+6;Christian Arroyo;/players/a/arroych01.shtml;2B
+7;Triston Casas;/players/c/casastr01.shtml;1B
+8;Connor Wong;/players/w/wongco01.shtml;C
+9;Yu Chang;/players/c/changyu01.shtml;SS
+; Nick Pivetta;/players/p/pivetni01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b8;6-7;1;123;3,(1-1) FBX;RR;BOS;Yu Chang;Ryan Tepera;32%;88%;Single to LF (Ground Ball thru SS-3B Hole); Hernández Scores; Tapia Scores/unER; McGuire to 2B
+t1;0-0;2;123;4,(2-1) BBCX;RRRR;LAA;Gio Urshela;Nick Pivetta;-28%;20%;Home Run (Fly Ball to Deep LF-CF); Trout Scores; Rendon Scores; Renfroe Scores
+b4;3-4;2;-2-;2,(1-0) *BX;RR;BOS;Yu Chang;Tyler Anderson;23%;64%;Home Run (Fly Ball to Deep LF-CF); Wong Scores
+t6;6-6;2;-2-;5,(1-2) F1B.FFX;R;LAA;Shohei Ohtani;Richard Bleier;-16%;37%;Single to CF (Line Drive); Ward Scores; Ohtani to 2B
+b8;6-7;1;12-;2,(1-0) .BX;;BOS;Reese McGuire;Ryan Tepera;15%;56%;Reached on Interference on C; Hernández to 3B; Tapia to 2B; McGuire to 1B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, Red Sox' Nick Pivetta facing 1-2-3 
+t1;0-0;0;---;4,(2-1) FBBX;O;LAA;Taylor Ward;Nick Pivetta;2%;52%;Flyball: CF
+t1;0-0;1;---;2,(1-0) BX;;LAA;Mike Trout;Nick Pivetta;-4%;48%;Double to LF (Line Drive)
+t1;0-0;1;-2-;6,(2-2) CB*BCFX;O;LAA;Shohei Ohtani;Nick Pivetta;3%;52%;Groundout: 3B-1B (SS-3B Hole)
+t1;0-0;2;-2-;5,(3-1) CBB*B*B;;LAA;Anthony Rendon;Nick Pivetta;-1%;51%;Walk
+t1;0-0;2;12-;4,(3-0) B*BBB;;LAA;Hunter Renfroe;Nick Pivetta;-3%;48%;Walk; Trout to 3B; Rendon to 2B
+t1;0-0;2;123;4,(2-1) BBCX;RRRR;LAA;Gio Urshela;Nick Pivetta;-28%;20%;Home Run (Fly Ball to Deep LF-CF); Trout Scores; Rendon Scores; Renfroe Scores
+t1;4-0;2;---;4,(1-2) SF.BS;O;LAA;Brandon Drury;Nick Pivetta;1%;21%;Strikeout Swinging
+;;;;;;;;;4 runs, 2 hits, 0 errors, 0 LOB. Angels 4, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Behind 0-4, Angels' Tyler Anderson facing 1-2-3 
+b1;0-4;0;---;5,(3-1) BBCBB;;BOS;Alex Verdugo;Tyler Anderson;3%;24%;Walk
+b1;0-4;0;1--;6,(3-2) CCBBB1X;OO;BOS;Justin Turner;Tyler Anderson;-6%;18%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b1;0-4;2;---;3,(1-1) BCX;;BOS;Rob Refsnyder;Tyler Anderson;2%;19%;Double to CF (Fly Ball to Deep CF-RF)
+b1;0-4;2;-2-;1,(0-0) X;RR;BOS;Rafael Devers;Tyler Anderson;13%;32%;Home Run (Fly Ball to Deep LF-CF); Refsnyder Scores
+b1;2-4;2;---;7,(3-2) BBBCFF.B;;BOS;Enrique Hernández;Tyler Anderson;1%;33%;Walk
+b1;2-4;2;1--;2,(1-0) B>C;;BOS;Christian Arroyo;Tyler Anderson;1%;34%;Hernández Steals 2B
+b1;2-4;2;-2-;5,(3-1) B>C.BBX;O;BOS;Christian Arroyo;Tyler Anderson;-3%;31%;Popfly: 1B
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Angels 4, Red Sox 2.
+Top of the 2nd, Angels Batting, Ahead 4-2, Red Sox' Nick Pivetta facing 8-9-1 
+t2;4-2;0;---;8,(3-2) BCFBFB.FX;O;LAA;Zach Neto;Nick Pivetta;2%;33%;Groundout: 3B-1B (SS-3B Hole)
+t2;4-2;1;---;4,(1-2) SBCH;;LAA;Matt Thaiss;Nick Pivetta;-2%;31%;Hit By Pitch
+t2;4-2;1;1--;2,(1-0) BX;O;LAA;Taylor Ward;Nick Pivetta;2%;33%;Flyball: RF (RF Line)
+t2;4-2;2;1--;5,(3-1) BBBC.B;;LAA;Mike Trout;Nick Pivetta;-2%;32%;Walk; Thaiss to 2B
+t2;4-2;2;12-;4,(1-2) SFBX;;LAA;Shohei Ohtani;Nick Pivetta;-2%;29%;Reached on Interference on C; Thaiss to 3B; Trout to 2B; Ohtani to 1B
+t2;4-2;2;123;4,(1-2) C*BCX;O;LAA;Anthony Rendon;Nick Pivetta;6%;35%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 1 error, 3 LOB. Angels 4, Red Sox 2.
+Bottom of the 2nd, Red Sox Batting, Behind 2-4, Angels' Tyler Anderson facing 7-8-9 
+b2;2-4;0;---;5,(2-2) BCS.BX;O;BOS;Triston Casas;Tyler Anderson;-3%;33%;Flyball: LF (Short LF)
+b2;2-4;1;---;3,(1-1) CBX;;BOS;Connor Wong;Tyler Anderson;3%;35%;Single to LF (Ground Ball thru SS-3B Hole)
+b2;2-4;1;1--;2,(0-1) C1X;O;BOS;Yu Chang;Tyler Anderson;-3%;32%;Popfly: SS
+b2;2-4;2;1--;3,(0-2) CCS;O;BOS;Alex Verdugo;Tyler Anderson;-3%;30%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 4, Red Sox 2.
+Top of the 3rd, Angels Batting, Ahead 4-2, Red Sox' Nick Pivetta facing 5-6-7 
+t3;4-2;0;---;2,(0-1) CX;O;LAA;Hunter Renfroe;Nick Pivetta;2%;31%;Groundout: 3B-1B
+t3;4-2;1;---;8,(3-2) BBBCFFFX;O;LAA;Gio Urshela;Nick Pivetta;1%;33%;Lineout: RF (Deep CF-RF)
+t3;4-2;2;---;4,(1-2) BCCC;O;LAA;Brandon Drury;Nick Pivetta;1%;34%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 4, Red Sox 2.
+Bottom of the 3rd, Red Sox Batting, Behind 2-4, Angels' Tyler Anderson facing 2-3-4 
+b3;2-4;0;---;3,(2-0) BBX;;BOS;Justin Turner;Tyler Anderson;7%;41%;Double to LF (Line Drive to LF Line)
+b3;2-4;0;-2-;4,(3-0) *BBBB;;BOS;Rob Refsnyder;Tyler Anderson;8%;48%;Walk, Wild Pitch; Turner to 3B
+b3;2-4;0;1-3;2,(0-1) CX;ROO;BOS;Rafael Devers;Tyler Anderson;-9%;40%;Ground Ball Double Play: SS-1B (SS-2B); Turner Scores/No RBI
+b3;3-4;2;---;7,(3-2) BCCBBFX;O;BOS;Enrique Hernández;Tyler Anderson;-1%;38%;Groundout: 1B unassisted
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Angels 4, Red Sox 3.
+Top of the 4th, Angels Batting, Ahead 4-3, Red Sox' Nick Pivetta facing 8-9-1 
+t4;4-3;0;---;5,(2-2) CBBCX;O;LAA;Zach Neto;Nick Pivetta;2%;41%;Groundout: 3B-1B
+t4;4-3;1;---;5,(2-2) FS.BBC;O;LAA;Matt Thaiss;Nick Pivetta;2%;42%;Strikeout Looking
+t4;4-3;2;---;5,(2-2) BCSBS;O;LAA;Taylor Ward;Nick Pivetta;1%;44%;Strikeout Swinging; Ward out at 1B/C-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 4, Red Sox 3.
+Bottom of the 4th, Red Sox Batting, Behind 3-4, Angels' Tyler Anderson facing 6-7-8 
+b4;3-4;0;---;2,(0-1) FX;O;BOS;Christian Arroyo;Tyler Anderson;-3%;41%;Foul Popfly: 1B (1B into Foul Terr.)
+b4;3-4;1;---;5,(2-2) BBSC.S;O;BOS;Triston Casas;Tyler Anderson;-2%;38%;Strikeout Swinging
+b4;3-4;2;---;4,(2-1) FBBX;;BOS;Connor Wong;Tyler Anderson;3%;41%;Double to CF (Fly Ball to Deep LF-CF)
+b4;3-4;2;-2-;2,(1-0) *BX;RR;BOS;Yu Chang;Tyler Anderson;23%;64%;Home Run (Fly Ball to Deep LF-CF); Wong Scores
+b4;5-4;2;---;4,(1-2) FBC.X;;BOS;Alex Verdugo;Tyler Anderson;1%;66%;Single to LF (Line Drive to LF-CF)
+b4;5-4;2;1--;2,(1-0) BB;;BOS;Justin Turner;Tyler Anderson;1%;67%;Wild Pitch; Verdugo to 2B
+b4;5-4;2;-2-;5,(3-1) BB.C*BB;;BOS;Justin Turner;Tyler Anderson;1%;67%;Walk
+b4;5-4;2;12-;3,(0-2) SSX;RO;BOS;Rob Refsnyder;Tyler Anderson;7%;74%;Single to LF (Line Drive to Short LF-CF); Verdugo Scores; Turner out at 3B/P-SS
+;;;;;;;;;3 runs, 4 hits, 0 errors, 1 LOB. Angels 4, Red Sox 6.
+Top of the 5th, Angels Batting, Behind 4-6, Red Sox' Nick Pivetta facing 2-3-4 
+t5;4-6;0;---;2,(0-1) CX;;LAA;Mike Trout;Nick Pivetta;-7%;67%;Double to CF (Fly Ball to LF-CF)
+t5;4-6;0;-2-;5,(2-2) TBSBX;;LAA;Shohei Ohtani;Nick Pivetta;-9%;58%;Single to LF (Fly Ball to Short LF); Trout to 3B
+t5;4-6;0;1-3;7,(2-2) FFFB.FBX;R;LAA;Anthony Rendon;Nick Pivetta;-12%;46%;Single to LF (Line Drive to LF Line); Trout Scores; Ohtani to 3B
+;;;;;;;;;Kaleb Ort replaces Nick Pivetta pitching
+t5;5-6;0;1-3;5,(2-2) .VFBFFS;O;LAA;Hunter Renfroe;Kaleb Ort;8%;54%;Strikeout Swinging
+t5;5-6;1;1-3;1,(0-0) X;R;LAA;Gio Urshela;Kaleb Ort;-9%;45%;Single to SS (Fly Ball to Short CF); Ohtani Scores; Rendon to 2B
+t5;6-6;1;12-;1,(0-0) X;O;LAA;Brandon Drury;Kaleb Ort;6%;51%;Flyball: RF (Deep CF-RF)
+t5;6-6;2;12-;1,(0-0) B;;LAA;Zach Neto;Kaleb Ort;-2%;49%;Wild Pitch; Rendon to 3B; Urshela to 2B
+t5;6-6;2;-23;6,(3-2) B.BBFS.C;O;LAA;Zach Neto;Kaleb Ort;8%;57%;Strikeout Looking
+;;;;;;;;;2 runs, 4 hits, 0 errors, 2 LOB. Angels 6, Red Sox 6.
+Bottom of the 5th, Red Sox Batting, Tied 6-6, Angels' Matt Moore facing 4-5-6 
+;;;;;;;;;Matt Moore replaces Tyler Anderson pitching
+b5;6-6;0;---;8,(2-2) .CFBFFBFX;O;BOS;Rafael Devers;Matt Moore;-3%;54%;Groundout: SS-1B (Deep SS-2B)
+b5;6-6;1;---;3,(0-2) CFX;O;BOS;Enrique Hernández;Matt Moore;-2%;52%;Flyball: RF (Short RF Line)
+b5;6-6;2;---;5,(1-2) BSS.FS;O;BOS;Christian Arroyo;Matt Moore;-2%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 6, Red Sox 6.
+Top of the 6th, Angels Batting, Tied 6-6, Red Sox' Richard Bleier facing 9-1-2 
+;;;;;;;;;Richard Bleier replaces Kaleb Ort pitching
+t6;6-6;0;---;2,(0-1) .SH;;LAA;Matt Thaiss;Richard Bleier;-5%;45%;Hit By Pitch
+t6;6-6;0;1--;4,(2-1) BBFX;O;LAA;Taylor Ward;Richard Bleier;5%;50%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Ward to 1B
+t6;6-6;1;1--;5,(1-2) CBFFC;O;LAA;Mike Trout;Richard Bleier;4%;54%;Strikeout Looking
+t6;6-6;2;1--;2,(0-1) F1B;;LAA;Shohei Ohtani;Richard Bleier;-2%;53%;Wild Pitch; Ward to 2B
+t6;6-6;2;-2-;5,(1-2) F1B.FFX;R;LAA;Shohei Ohtani;Richard Bleier;-16%;37%;Single to CF (Line Drive); Ward Scores; Ohtani to 2B
+t6;7-6;2;-2-;5,(1-2) CCFBB;;LAA;Anthony Rendon;Richard Bleier;-1%;36%;Wild Pitch; Ohtani to 3B
+t6;7-6;2;--3;7,(3-2) CCFBB.BX;O;LAA;Anthony Rendon;Richard Bleier;5%;41%;Lineout: CF (Deep CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Angels 7, Red Sox 6.
+Bottom of the 6th, Red Sox Batting, Behind 6-7, Angels' Matt Moore facing 7-8-9 
+b6;6-7;0;---;2,(1-0) BX;;BOS;Triston Casas;Matt Moore;6%;47%;Single to CF (Line Drive to Deep CF-RF)
+b6;6-7;0;1--;4,(1-2) LSBS;O;BOS;Connor Wong;Matt Moore;-6%;41%;Strikeout Swinging
+b6;6-7;1;1--;6,(2-2) FBBFFC;O;BOS;Yu Chang;Matt Moore;-5%;36%;Strikeout Looking
+b6;6-7;2;1--;4,(0-2) CSFX;O;BOS;Alex Verdugo;Matt Moore;-4%;32%;Flyball: LF (Short LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 7, Red Sox 6.
+Top of the 7th, Angels Batting, Ahead 7-6, Red Sox' John Schreiber facing 5-6-7 
+;;;;;;;;;John Schreiber replaces Richard Bleier pitching
+t7;7-6;0;---;5,(2-2) .CFBBX;;LAA;Hunter Renfroe;John Schreiber;-4%;28%;Single to LF (Line Drive to LF-CF)
+t7;7-6;0;1--;2,(1-0) BX;O;LAA;Gio Urshela;John Schreiber;4%;32%;Popfly: 2B (Deep 2B)
+t7;7-6;1;1--;3,(0-2) CCS;O;LAA;Brandon Drury;John Schreiber;3%;35%;Strikeout Swinging
+t7;7-6;2;1--;3,(0-2) SCS;O;LAA;Zach Neto;John Schreiber;3%;38%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 7, Red Sox 6.
+Bottom of the 7th, Red Sox Batting, Behind 6-7, Angels' Carlos Estévez facing 2-3-4 
+;;;;;;;;;Carlos Estévez replaces Matt Moore pitching
+b7;6-7;0;---;3,(2-0) .BBX;O;BOS;Justin Turner;Carlos Estévez;-5%;33%;Flyball: CF
+b7;6-7;1;---;4,(2-1) CBBX;O;BOS;Rob Refsnyder;Carlos Estévez;-4%;29%;Flyball: RF (Short RF)
+b7;6-7;2;---;2,(0-1) CX;O;BOS;Rafael Devers;Carlos Estévez;-3%;26%;Popfly: SS (Deep SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 7, Red Sox 6.
+Top of the 8th, Angels Batting, Ahead 7-6, Red Sox' Ryan Brasier facing 9-1-2 
+;;;;;;;;;Ryan Brasier replaces John Schreiber pitching
+t8;7-6;0;---;6,(3-2) .FBTBBC;O;LAA;Matt Thaiss;Ryan Brasier;3%;29%;Strikeout Looking
+t8;7-6;1;---;4,(1-2) FBSX;O;LAA;Taylor Ward;Ryan Brasier;2%;31%;Lineout: SS (Deep SS)
+t8;7-6;2;---;4,(2-1) SBBX;;LAA;Mike Trout;Ryan Brasier;-1%;30%;Single to 2B (Pop Fly to Deep 2B)
+t8;7-6;2;1--;5,(2-2) CSBBX;O;LAA;Shohei Ohtani;Ryan Brasier;3%;32%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 7, Red Sox 6.
+Bottom of the 8th, Red Sox Batting, Behind 6-7, Angels' Ryan Tepera facing 5-6-7 
+;;;;;;;;;Ryan Tepera replaces Carlos Estévez pitching
+b8;6-7;0;---;2,(1-0) .BX;;BOS;Enrique Hernández;Ryan Tepera;10%;42%;Single to LF (Ground Ball thru SS-3B Hole)
+;;;;;;;;;Raimel Tapia pinch hits for Christian Arroyo (2B) batting 6th
+b8;6-7;0;1--;3,(0-2) .LFX;;BOS;Raimel Tapia;Ryan Tepera;14%;55%;Reached on Interference on C; Hernández to 2B; Tapia to 1B
+;;;;;;;;; Challenged by LAA manager (Phil Nevin): Original call upheld upon review.
+b8;6-7;0;12-;6,(3-2) BCB*S*B.S;O;BOS;Triston Casas;Ryan Tepera;-14%;42%;Strikeout Swinging
+;;;;;;;;;Reese McGuire pinch hits for Connor Wong (C) batting 8th
+b8;6-7;1;12-;2,(1-0) .BX;;BOS;Reese McGuire;Ryan Tepera;15%;56%;Reached on Interference on C; Hernández to 3B; Tapia to 2B; McGuire to 1B
+b8;6-7;1;123;3,(1-1) FBX;RR;BOS;Yu Chang;Ryan Tepera;32%;88%;Single to LF (Ground Ball thru SS-3B Hole); Hernández Scores; Tapia Scores/unER; McGuire to 2B
+b8;8-7;1;12-;8,(3-2) CCBBFF.BX;O;BOS;Alex Verdugo;Ryan Tepera;-3%;86%;Flyball: RF (Deep RF)
+b8;8-7;2;12-;3,(1-1) CBH;;BOS;Justin Turner;Ryan Tepera;2%;87%;Hit By Pitch; McGuire to 3B; Chang to 2B
+b8;8-7;2;123;6,(3-2) BBCBC>B;R;BOS;Rob Refsnyder;Ryan Tepera;7%;94%;Walk; McGuire Scores/unER; Chang to 3B; Turner to 2B
+;;;;;;;;;Tucker Davidson replaces Ryan Tepera pitching
+b8;9-7;2;123;2,(0-1) .CX;O;BOS;Rafael Devers;Tucker Davidson;-2%;92%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;3 runs, 2 hits, 2 errors, 3 LOB. Angels 7, Red Sox 9.
+Top of the 9th, Angels Batting, Behind 7-9, Red Sox' Kenley Jansen facing 4-5-6 
+;;;;;;;;;Kenley Jansen replaces Ryan Brasier pitchingReese McGuire moves from PH to C Enrique Hernández moves from CF to 2B Raimel Tapia moves from PH to CF 
+t9;7-9;0;---;3,(0-2) ....CFX;O;LAA;Anthony Rendon;Kenley Jansen;4%;96%;Lineout: 1B (2B-1B)
+t9;7-9;1;---;1,(0-0) X;O;LAA;Hunter Renfroe;Kenley Jansen;3%;99%;Flyball: RF
+t9;7-9;2;---;3,(0-2) CSX;O;LAA;Gio Urshela;Kenley Jansen;1%;100%;Popfly: SS (Weak SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 7, Red Sox 9.

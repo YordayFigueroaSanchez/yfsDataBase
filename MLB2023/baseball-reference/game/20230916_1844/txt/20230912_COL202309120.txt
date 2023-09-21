@@ -1,0 +1,282 @@
+
+Scorebox Meta
+20230912
+6:40 p.m. Local
+32058
+Coors Field
+175
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/CHC-2023.png;/teams/CHC/2023.shtml;0;2;0;0;0;2;0;0;0;4;10;0
+https://cdn.ssref.net/req/202309121/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;0;0;4;0;1;1;0;X;6;9;0
+
+Batting home
+Charlie Blackmon;/players/b/blackch02.shtml;RF;4;0;0;0;1;1;5;.276;.368;.429;.796;19;14;-0.150; 1.57;0.016;-0.166;0%; 0.00; -1.6;5;1;
+Kris Bryant;/players/b/bryankr01.shtml;DH;4;2;2;3;1;0;5;.255;.342;.390;.732;18;9;0.278; 1.63;0.366;-0.089;0%; 0.00; 1.8;;;HR
+Nolan Jones;/players/j/jonesno01.shtml;LF;5;0;0;1;0;1;5;.275;.355;.505;.860;18;12;-0.058; 1.02;0.023;-0.081;0%; 0.00; -0.9;2;0;
+Elias Díaz;/players/d/diazel01.shtml;C;5;0;3;1;0;2;5;.272;.318;.422;.741;21;14;0.140; 0.76;0.157;-0.018;0%; 0.00; 1.4;8;1;
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;2;1;0;0;2;1;4;.243;.328;.440;.768;23;9;-0.030; 1.12;0.044;-0.074;0%; 0.00; -0.2;1;1;
+Elehuris Montero;/players/m/monteel01.shtml;1B;4;0;2;0;0;1;4;.250;.300;.409;.709;14;11;0.022; 1.21;0.104;-0.081;0%; 0.00; 0.2;2;1;2B
+Brendan Rodgers;/players/r/rodgebr02.shtml;2B;3;1;0;0;1;1;4;.202;.263;.266;.529;13;6;-0.031; 1.11;0.046;-0.077;0%; 0.00; -0.7;2;3;
+Alan Trejo;/players/t/trejoal01.shtml;SS;2;1;0;0;0;0;3;.227;.275;.335;.610;9;4;0.010; 1.20;0.070;-0.060;0%; 0.00; -0.1;3;1;HBP
+Hunter Goodman;/players/g/goodmhu01.shtml;PH;1;0;0;0;0;1;1;.295;.333;.523;.856;4;3;-0.060; 1.60;0.000;-0.060;0%; 0.00; -0.7;;;
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;0;0;0;0;0;0;0;.250;.285;.409;.695;;;;;;;;;;0;0;
+Brenton Doyle;/players/d/doylebr02.shtml;CF;3;1;2;1;1;0;4;.195;.247;.323;.570;14;7;0.214; 1.32;0.223;-0.009;0%; 0.00; 2.0;3;1;2B
+Chris Flexen;/players/f/flexech01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Jake Bird;/players/b/birdja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nick Mears;/players/m/mearsni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Justin Lawrence;/players/l/lawreju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Elehuris Montero (13, off Javier Assad); Brenton Doyle (13, off Javier Assad).
+
+
+HR: Kris Bryant (9, off Daniel Palencia, 6th inn, 0 on, 1 out to Deep LF-CF).
+
+
+HBP: Alan Trejo (1, by Javier Assad).
+
+
+TB: Kris Bryant 5; Brenton Doyle 3; Elehuris Montero 3; Elias Díaz 3.
+
+
+RBI: Kris Bryant 3 (26); Elias Díaz (68); Nolan Jones (50); Brenton Doyle (36).
+
+
+2-out RBI: Brenton Doyle; Elias Díaz.
+
+
+Team LOB: 10.
+With RISP: 3 for 14.
+
+Batting away
+Christopher Morel;/players/m/morelch01.shtml;DH;4;0;0;0;1;4;5;.245;.309;.496;.804;24;15;-0.061; 1.02;0.037;-0.099;-0.04%; 1.16; -0.8;;;
+Nico Hoerner;/players/h/hoernni01.shtml;2B;5;0;2;0;0;1;5;.280;.339;.388;.727;17;11;-0.070; 1.07;0.050;-0.119;-0.05%; 1.23; -0.2;1;2;SB
+Ian Happ;/players/h/happia01.shtml;LF;2;0;0;0;2;0;4;.239;.357;.410;.767;19;8;-0.044; 0.99;0.027;-0.072;-0.03%; 1.13; -0.1;1;0;
+Cody Bellinger;/players/b/bellico01.shtml;1B;4;0;1;0;0;1;4;.317;.359;.548;.907;14;12;-0.158; 1.16;0.000;-0.158;-0.11%; 1.32; -1.7;6;0;GDP
+Dansby Swanson;/players/s/swansda01.shtml;SS;3;2;2;0;1;0;4;.254;.337;.429;.765;12;7;0.125; 0.79;0.146;-0.020; 0.09%; 0.91; 1.1;3;1;3B
+Seiya Suzuki;/players/s/suzukse01.shtml;RF;4;2;3;3;0;0;4;.279;.348;.474;.821;16;13;0.244; 1.14;0.283;-0.039; 0.17%; 1.30; 2.2;0;0;HR
+Yan Gomes;/players/g/gomesya01.shtml;C;3;0;1;0;0;0;3;.275;.316;.417;.733;10;8;0.024; 1.10;0.076;-0.052; 0.02%; 1.25; 0.4;8;0;
+Mike Tauchman;/players/t/tauchmi01.shtml;PH;1;0;0;0;0;0;1;.253;.357;.374;.731;6;4;-0.045; 1.65;0.000;-0.045;-0.03%; 1.88; -0.3;;;
+Pete Crow-Armstrong;/players/c/crowape01.shtml;CF;4;0;0;1;0;1;4;.000;.000;.000;.000;15;12;-0.122; 0.94;0.000;-0.122;-0.08%; 1.07; -1.4;4;0;
+Nick Madrigal;/players/m/madrini01.shtml;3B;3;0;1;0;0;1;4;.265;.315;.358;.673;19;12;-0.059; 1.01;0.028;-0.087;-0.04%; 1.15; -0.4;1;2;2B,HBP
+Javier Assad;/players/a/assadja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Luke Little;/players/l/littllu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brad Boxberger;/players/b/boxbebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Daniel Palencia;/players/p/palenda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Hayden Wesneski;/players/w/wesneha01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Nick Madrigal (16, off Chris Flexen).
+
+
+3B: Dansby Swanson (3, off Chris Flexen).
+
+
+HR: Seiya Suzuki (17, off Jake Bird, 6th inn, 1 on, 1 out to Deep RF Line).
+
+
+HBP: Nick Madrigal (9, by Justin Lawrence).
+
+
+TB: Seiya Suzuki 6; Dansby Swanson 4; Nick Madrigal 2; Nico Hoerner 2; Yan Gomes; Cody Bellinger.
+
+
+GIDP: Cody Bellinger (5).
+
+
+RBI: Seiya Suzuki 3 (62); Pete Crow-Armstrong (1).
+
+
+Team LOB: 7.
+With RISP: 1 for 4.
+
+Pitching home
+Chris Flexen;/players/f/flexech01.shtml;Chris Flexen; 5.1;9;3;3;2;5;0;7.22;23;84;54;33;9;12;3;13;8;0;41;;;0.067; 0.88; 0.00%; 0.00; 1.0
+Jake Bird;/players/b/birdja01.shtml; W (3-3); 1.2;1;1;1;0;1;1;4.45;6;24;17;11;2;4;2;3;1;0;;1;1;-0.075; 1.20; 0.00%; 0.00; -0.8
+Nick Mears;/players/m/mearsni01.shtml; H (1); 1 ;0;0;0;1;0;0;2.03;4;18;14;8;1;5;0;3;1;0;;0;0;0.086; 1.13; 0.00%; 0.00; 0.6
+Justin Lawrence;/players/l/lawreju01.shtml; S (11); 1 ;0;0;0;1;2;0;3.97;5;26;17;11;1;5;0;1;1;0;;0;0;0.087; 1.48; 0.00%; 0.00; 0.6
+
+Pitching away
+Javier Assad;/players/a/assadja01.shtml;Javier Assad; 3.1;5;4;4;4;4;0;3.10;20;79;40;22;8;10;5;6;2;0;34;;;-0.134; 1.51;-0.09%; 1.73; -0.9
+Luke Little;/players/l/littllu01.shtml;Luke Little; 0.2;1;0;0;1;0;0;0.00;4;17;8;3;2;3;3;0;0;0;;2;2;-0.096; 1.28;-0.07%; 1.46; -0.7
+Brad Boxberger;/players/b/boxbebr01.shtml;Brad Boxberger; 1 ;0;0;0;0;0;0;5.17;3;11;6;6;0;0;1;2;0;0;;0;0;0.039; 0.49; 0.03%; 0.56; 0.6
+Daniel Palencia;/players/p/palenda01.shtml; L (5-2); 2 ;3;2;2;1;3;1;4.09;10;33;26;12;7;7;1;5;4;0;;0;0;-0.162; 1.11;-0.11%; 1.26; -0.8
+Hayden Wesneski;/players/w/wesneha01.shtml;Hayden Wesneski; 1 ;0;0;0;0;1;0;4.74;3;13;9;6;1;2;1;1;0;0;;0;0;0.019; 0.23; 0.01%; 0.27; 0.6
+
+indiv_events
+
+Balks: None.
+WP: Luke Little (1).
+HBP: Javier Assad (1; Alan Trejo); Justin Lawrence (6; Nick Madrigal).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Luke Little (1).
+HBP: Javier Assad (1; Alan Trejo); Justin Lawrence (6; Nick Madrigal).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Pat Hoberg, 1B - Nestor Ceja, 2B - Brian Walsh, 3B - Tom Hanahan, LF - (none), RF - (none).
+Time of Game: 2:55.
+Attendance: 32,058.
+Field Condition: Unknown.
+Start Time Weather: 75° F, Wind 4mph from Right to Left, Sunny, No Precipitation.
+
+div_lineups
+Cubs
+1;Christopher Morel;/players/m/morelch01.shtml;DH
+2;Nico Hoerner;/players/h/hoernni01.shtml;2B
+3;Ian Happ;/players/h/happia01.shtml;LF
+4;Cody Bellinger;/players/b/bellico01.shtml;1B
+5;Dansby Swanson;/players/s/swansda01.shtml;SS
+6;Seiya Suzuki;/players/s/suzukse01.shtml;RF
+7;Yan Gomes;/players/g/gomesya01.shtml;C
+8;Pete Crow-Armstrong;/players/c/crowape01.shtml;CF
+9;Nick Madrigal;/players/m/madrini01.shtml;3B
+; Javier Assad;/players/a/assadja01.shtml;P
+Rockies
+1;Charlie Blackmon;/players/b/blackch02.shtml;RF
+2;Kris Bryant;/players/b/bryankr01.shtml;DH
+3;Nolan Jones;/players/j/jonesno01.shtml;LF
+4;Elias Díaz;/players/d/diazel01.shtml;C
+5;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+6;Elehuris Montero;/players/m/monteel01.shtml;1B
+7;Brendan Rodgers;/players/r/rodgebr02.shtml;2B
+8;Alan Trejo;/players/t/trejoal01.shtml;SS
+9;Brenton Doyle;/players/d/doylebr02.shtml;CF
+; Chris Flexen;/players/f/flexech01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t6;2-4;1;1--;4,(2-1) .CBBX;RR;CHC;Seiya Suzuki;Jake Bird;-22%;54%;Home Run (Fly Ball to Deep RF Line); Swanson Scores
+b4;0-2;1;123;3,(2-0) *BBX;RR;COL;Kris Bryant;Javier Assad;18%;64%;Single to 1B (Line Drive to Deep 1B); Rodgers Scores; Trejo Scores; Doyle to 3B
+b6;4-4;1;---;3,(1-1) SBX;R;COL;Kris Bryant;Daniel Palencia;16%;71%;Home Run (Fly Ball to Deep LF-CF)
+b7;5-4;2;1-3;1,(0-0) X;R;COL;Brenton Doyle;Daniel Palencia;9%;87%;Single to CF (Line Drive); McMahon Scores; Rodgers to 2B
+b4;3-2;2;-2-;4,(2-1) SBBX;R;COL;Elias Díaz;Luke Little;9%;75%;Single to CF (Ground Ball thru SS-2B); Bryant Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Cubs Batting, Tied 0-0, Rockies' Chris Flexen facing 1-2-3 
+t1;0-0;0;---;5,(2-2) BBFFC;O;CHC;Christopher Morel;Chris Flexen;2%;52%;Strikeout Looking
+t1;0-0;1;---;4,(1-2) FF.BX;O;CHC;Nico Hoerner;Chris Flexen;2%;54%;Flyball: RF (Deep RF)
+t1;0-0;2;---;6,(3-2) BFBBCB;;CHC;Ian Happ;Chris Flexen;-1%;53%;Walk
+t1;0-0;2;1--;3,(1-1) BCX;O;CHC;Cody Bellinger;Chris Flexen;2%;55%;Single to CF (Line Drive to Deep CF-RF); Happ to 3B; Bellinger out at 2B/CF-SS
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cubs 0, Rockies 0.
+Bottom of the 1st, Rockies Batting, Tied 0-0, Cubs' Javier Assad facing 1-2-3 
+b1;0-0;0;---;2,(0-1) CX;O;COL;Charlie Blackmon;Javier Assad;-2%;53%;Groundout: 1B unassisted
+b1;0-0;1;---;6,(3-2) CBBS.BB;;COL;Kris Bryant;Javier Assad;2%;55%;Walk
+b1;0-0;1;1--;5,(3-1) FB1BBX;O;COL;Nolan Jones;Javier Assad;-3%;52%;Flyball: CF (Deep CF)
+b1;0-0;2;1--;4,(1-2) FBFX;;COL;Elias Díaz;Javier Assad;3%;55%;Single to RF (Ground Ball); Bryant to 3B
+b1;0-0;2;1-3;6,(3-2) CBBFB>S;O;COL;Ryan McMahon;Javier Assad;-5%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Cubs 0, Rockies 0.
+Top of the 2nd, Cubs Batting, Tied 0-0, Rockies' Chris Flexen facing 5-6-7 
+t2;0-0;0;---;2,(0-1) CX;;CHC;Dansby Swanson;Chris Flexen;-9%;41%;Triple to LF (Line Drive to Deep LF-CF)
+t2;0-0;0;--3;5,(1-2) CFBFX;R;CHC;Seiya Suzuki;Chris Flexen;-4%;37%;Single to CF (Ground Ball thru SS-2B); Swanson Scores
+t2;1-0;0;1--;4,(1-2) C1FBX;;CHC;Yan Gomes;Chris Flexen;-8%;30%;Single to RF (Line Drive to Short RF Line); Suzuki to 3B
+t2;1-0;0;1-3;5,(2-2) FBSBX;RO;CHC;Pete Crow-Armstrong;Chris Flexen;2%;32%;Groundout: P-2B-SS/Forceout at 2B (P's Left); Suzuki Scores; Crow-Armstrong to 1B
+t2;2-0;1;1--;3,(0-2) CF1>*B;O;CHC;Nick Madrigal;Chris Flexen;3%;35%;Baserunner Out Advancing; Crow-Armstrong out at 2B/C-2B
+t2;2-0;2;---;4,(1-2) CF1>*B.S;O;CHC;Nick Madrigal;Chris Flexen;1%;36%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 0 LOB. Cubs 2, Rockies 0.
+Bottom of the 2nd, Rockies Batting, Behind 0-2, Cubs' Javier Assad facing 6-7-8 
+b2;0-2;0;---;2,(0-1) CX;;COL;Elehuris Montero;Javier Assad;6%;42%;Double to RF (Line Drive to Deep RF)
+b2;0-2;0;-2-;5,(2-2) BBSCS;O;COL;Brendan Rodgers;Javier Assad;-5%;38%;Strikeout Swinging
+b2;0-2;1;-2-;6,(3-2) FFB*B*BX;O;COL;Alan Trejo;Javier Assad;-5%;33%;Fielder's Choice ; Montero out at 3B/SS-3B; Trejo to 1B
+b2;0-2;2;1--;2,(0-1) CX;;COL;Brenton Doyle;Javier Assad;4%;37%;Double to RF (Fly Ball to Deep 1B); Trejo to 3B
+b2;0-2;2;-23;5,(3-1) B*BBCB;;COL;Charlie Blackmon;Javier Assad;2%;38%;Walk
+b2;0-2;2;123;2,(1-0) BX;O;COL;Kris Bryant;Javier Assad;-8%;30%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Cubs 2, Rockies 0.
+Top of the 3rd, Cubs Batting, Ahead 2-0, Rockies' Chris Flexen facing 1-2-3 
+t3;2-0;0;---;4,(1-2) BCSS;O;CHC;Christopher Morel;Chris Flexen;2%;32%;Strikeout Swinging
+t3;2-0;1;---;1,(0-0) X;;CHC;Nico Hoerner;Chris Flexen;-2%;30%;Single to CF (Line Drive)
+t3;2-0;1;1--;1,(0-0) >C;;CHC;Ian Happ;Chris Flexen;-1%;29%;Hoerner Steals 2B
+t3;2-0;1;-2-;5,(3-1) >C.BBBB;;CHC;Ian Happ;Chris Flexen;-1%;28%;Walk
+t3;2-0;1;12-;2,(0-1) F2X;OO;CHC;Cody Bellinger;Chris Flexen;7%;35%;Ground Ball Double Play: 1B-SS-P
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cubs 2, Rockies 0.
+Bottom of the 3rd, Rockies Batting, Behind 0-2, Cubs' Javier Assad facing 3-4-5 
+b3;0-2;0;---;3,(0-2) CSC;O;COL;Nolan Jones;Javier Assad;-3%;32%;Strikeout Looking
+b3;0-2;1;---;4,(2-1) SBBX;;COL;Elias Díaz;Javier Assad;3%;35%;Single to RF (Ground Ball thru 2B-1B)
+b3;0-2;1;1--;6,(3-2) *BCBBSX;O;COL;Ryan McMahon;Javier Assad;-3%;33%;Groundout: P-1B (Weak 2B-1B); Díaz to 2B
+b3;0-2;2;-2-;6,(2-2) FFF*B*B*S;O;COL;Elehuris Montero;Javier Assad;-4%;29%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cubs 2, Rockies 0.
+Top of the 4th, Cubs Batting, Ahead 2-0, Rockies' Chris Flexen facing 5-6-7 
+t4;2-0;0;---;2,(1-0) BX;O;CHC;Dansby Swanson;Chris Flexen;2%;31%;Flyball: RF (Deep RF Line)
+t4;2-0;1;---;2,(0-1) FX;;CHC;Seiya Suzuki;Chris Flexen;-2%;29%;Single to CF (Line Drive to Deep CF-RF)
+t4;2-0;1;1--;2,(0-1) F1X;O;CHC;Yan Gomes;Chris Flexen;3%;31%;Foul Popfly: RF (Short RF into Foul Terr.)
+t4;2-0;2;1--;3,(1-1) BSX;O;CHC;Pete Crow-Armstrong;Chris Flexen;2%;33%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cubs 2, Rockies 0.
+Bottom of the 4th, Rockies Batting, Behind 0-2, Cubs' Javier Assad facing 7-8-9 
+b4;0-2;0;---;4,(3-0) BBBB;;COL;Brendan Rodgers;Javier Assad;5%;38%;Walk
+b4;0-2;0;1--;1,(0-0) H;;COL;Alan Trejo;Javier Assad;7%;45%;Hit By Pitch; Rodgers to 2B
+b4;0-2;0;12-;4,(3-0) BBBB;;COL;Brenton Doyle;Javier Assad;9%;54%;Walk; Rodgers to 3B; Trejo to 2B
+b4;0-2;0;123;3,(0-2) AFFX;O;COL;Charlie Blackmon;Javier Assad;-8%;46%;Popfly: SS (Weak SS-2B)
+b4;0-2;1;123;3,(2-0) *BBX;RR;COL;Kris Bryant;Javier Assad;18%;64%;Single to 1B (Line Drive to Deep 1B); Rodgers Scores; Trejo Scores; Doyle to 3B
+;;;;;;;;;Luke Little replaces Javier Assad pitching
+b4;2-2;1;1-3;5,(2-2) .BC*BSX;RO;COL;Nolan Jones;Luke Little;2%;66%;Groundout: 1B unassisted (Short 1B Line); Doyle Scores; Bryant to 2B
+b4;3-2;2;-2-;4,(2-1) SBBX;R;COL;Elias Díaz;Luke Little;9%;75%;Single to CF (Ground Ball thru SS-2B); Bryant Scores
+b4;4-2;2;1--;5,(3-1) CB*BBB;;COL;Ryan McMahon;Luke Little;1%;77%;Walk; Díaz to 2B
+b4;4-2;2;12-;1,(0-0) B;;COL;Elehuris Montero;Luke Little;1%;78%;Wild Pitch; Díaz to 3B; McMahon to 2B
+b4;4-2;2;-23;3,(1-1) B.CX;O;COL;Elehuris Montero;Luke Little;-4%;73%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;4 runs, 2 hits, 0 errors, 2 LOB. Cubs 2, Rockies 4.
+Top of the 5th, Cubs Batting, Behind 2-4, Rockies' Chris Flexen facing 9-1-2 
+t5;2-4;0;---;5,(3-1) BBCBX;O;CHC;Nick Madrigal;Chris Flexen;3%;76%;Double to RF (Line Drive to Deep RF Line); Madrigal out at 3B/RF-2B-3B
+;;;;;;;;;Tag play Challenged by CHC manager (David Ross): Original call upheld upon review.
+t5;2-4;1;---;3,(0-2) SF*S;O;CHC;Christopher Morel;Chris Flexen;2%;79%;Strikeout Swinging
+t5;2-4;2;---;5,(3-1) BBBCX;;CHC;Nico Hoerner;Chris Flexen;-2%;77%;Single to LF (Line Drive to Deep LF)
+t5;2-4;2;1--;5,(3-1) BB1BCX;O;CHC;Ian Happ;Chris Flexen;3%;80%;Flyball: LF (Deep LF Line)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Cubs 2, Rockies 4.
+Bottom of the 5th, Rockies Batting, Ahead 4-2, Cubs' Brad Boxberger facing 7-8-9 
+;;;;;;;;;Brad Boxberger replaces Luke Little pitching
+b5;4-2;0;---;2,(1-0) .BX;O;COL;Brendan Rodgers;Brad Boxberger;-2%;78%;Popfly: 2B (2B-1B)
+b5;4-2;1;---;2,(1-0) BX;O;COL;Alan Trejo;Brad Boxberger;-1%;77%;Flyball: LF (Deep LF-CF)
+b5;4-2;2;---;7,(3-2) BFBFFBX;O;COL;Brenton Doyle;Brad Boxberger;-1%;76%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 2, Rockies 4.
+Top of the 6th, Cubs Batting, Behind 2-4, Rockies' Chris Flexen facing 4-5-6 
+t6;2-4;0;---;6,(1-2) BFSFFS;O;CHC;Cody Bellinger;Chris Flexen;3%;79%;Strikeout Swinging
+t6;2-4;1;---;1,(0-0) X;;CHC;Dansby Swanson;Chris Flexen;-4%;76%;Single to CF (Line Drive to Deep CF)
+;;;;;;;;;Jake Bird replaces Chris Flexen pitching
+t6;2-4;1;1--;4,(2-1) .CBBX;RR;CHC;Seiya Suzuki;Jake Bird;-22%;54%;Home Run (Fly Ball to Deep RF Line); Swanson Scores
+t6;4-4;1;---;4,(1-2) BSFX;O;CHC;Yan Gomes;Jake Bird;3%;56%;Lineout: RF (CF-RF)
+t6;4-4;2;---;4,(0-2) FCFX;O;CHC;Pete Crow-Armstrong;Jake Bird;2%;58%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Cubs 4, Rockies 4.
+Bottom of the 6th, Rockies Batting, Tied 4-4, Cubs' Daniel Palencia facing 1-2-3 
+;;;;;;;;;Daniel Palencia replaces Brad Boxberger pitching
+b6;4-4;0;---;3,(0-2) .SCS;O;COL;Charlie Blackmon;Daniel Palencia;-4%;55%;Strikeout Swinging
+b6;4-4;1;---;3,(1-1) SBX;R;COL;Kris Bryant;Daniel Palencia;16%;71%;Home Run (Fly Ball to Deep LF-CF)
+b6;5-4;1;---;2,(0-1) CX;O;COL;Nolan Jones;Daniel Palencia;-2%;69%;Lineout: CF (Deep CF-RF)
+b6;5-4;2;---;3,(0-2) SF.S;O;COL;Elias Díaz;Daniel Palencia;-1%;68%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Cubs 4, Rockies 5.
+Top of the 7th, Cubs Batting, Behind 4-5, Rockies' Jake Bird facing 9-1-2 
+t7;4-5;0;---;4,(1-2) BCFX;O;CHC;Nick Madrigal;Jake Bird;5%;72%;Groundout: 3B-1B
+t7;4-5;1;---;5,(2-2) BFFBS;O;CHC;Christopher Morel;Jake Bird;3%;75%;Strikeout Swinging
+t7;4-5;2;---;3,(1-1) CBX;O;CHC;Nico Hoerner;Jake Bird;2%;78%;Popfly: 2B (Deep 2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 4, Rockies 5.
+Bottom of the 7th, Rockies Batting, Ahead 5-4, Cubs' Daniel Palencia facing 5-6-7 
+b7;5-4;0;---;6,(3-2) FBSBBB;;COL;Ryan McMahon;Daniel Palencia;3%;81%;Walk
+b7;5-4;0;1--;3,(0-2) CC.X;;COL;Elehuris Montero;Daniel Palencia;4%;85%;Single to CF (Line Drive); McMahon to 2B
+b7;5-4;0;12-;2,(0-1) FX;O;COL;Brendan Rodgers;Daniel Palencia;-1%;84%;Groundout: 2B-SS/Forceout at 2B (Deep 2B); McMahon to 3B; Rodgers to 1B
+;;;;;;;;;Hunter Goodman pinch hits for Alan Trejo (SS) batting 8th
+b7;5-4;1;1-3;4,(1-2) .CBCT;O;COL;Hunter Goodman;Daniel Palencia;-6%;77%;Strikeout Swinging
+b7;5-4;2;1-3;1,(0-0) X;R;COL;Brenton Doyle;Daniel Palencia;9%;87%;Single to CF (Line Drive); McMahon Scores; Rodgers to 2B
+b7;6-4;2;12-;6,(1-2) SCBFFX;O;COL;Charlie Blackmon;Daniel Palencia;-2%;85%;Lineout: CF (Deep CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Cubs 4, Rockies 6.
+Top of the 8th, Cubs Batting, Behind 4-6, Rockies' Nick Mears facing 3-4-5 
+;;;;;;;;;Nick Mears replaces Jake Bird pitchingEzequiel Tovar replaces Hunter Goodman (PH) playing SS batting 8th
+t8;4-6;0;---;3,(0-2) ...CCX;O;CHC;Ian Happ;Nick Mears;4%;89%;Lineout: CF
+t8;4-6;1;---;3,(0-2) CFX;O;CHC;Cody Bellinger;Nick Mears;3%;92%;Flyball: RF (Deep RF)
+t8;4-6;2;---;7,(3-2) BSBFFBB;;CHC;Dansby Swanson;Nick Mears;-2%;89%;Walk
+t8;4-6;2;1--;5,(0-2) CCF1FX;O;CHC;Seiya Suzuki;Nick Mears;4%;93%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Cubs 4, Rockies 6.
+Bottom of the 8th, Rockies Batting, Ahead 6-4, Cubs' Hayden Wesneski facing 2-3-4 
+;;;;;;;;;Hayden Wesneski replaces Daniel Palencia pitching
+b8;6-4;0;---;4,(1-2) .BCFX;O;COL;Kris Bryant;Hayden Wesneski;-1%;92%;Popfly: SS
+b8;6-4;1;---;3,(1-1) BCX;O;COL;Nolan Jones;Hayden Wesneski;-1%;92%;Groundout: 2B-1B (2B-1B)
+b8;6-4;2;---;6,(2-2) FBF.FBS;O;COL;Elias Díaz;Hayden Wesneski;0%;91%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 4, Rockies 6.
+Top of the 9th, Cubs Batting, Behind 4-6, Rockies' Justin Lawrence facing 7-8-9 
+;;;;;;;;;Justin Lawrence replaces Nick Mears pitchingMike Tauchman pinch hits for Yan Gomes (C) batting 7th
+t9;4-6;0;---;6,(2-2) ..BFCFBX;O;CHC;Mike Tauchman;Justin Lawrence;4%;96%;Lineout: CF (Deep CF)
+t9;4-6;1;---;3,(0-2) FCS;O;CHC;Pete Crow-Armstrong;Justin Lawrence;3%;99%;Strikeout Swinging
+t9;4-6;2;---;6,(1-2) BCF.FFH;;CHC;Nick Madrigal;Justin Lawrence;-3%;96%;Hit By Pitch
+t9;4-6;2;1--;4,(1-2) FFB>B;;CHC;Christopher Morel;Justin Lawrence;0%;96%;Defensive Indifference; Madrigal to 2B
+t9;4-6;2;-2-;7,(3-2) FFB>B.BFB;;CHC;Christopher Morel;Justin Lawrence;-4%;92%;Walk
+t9;4-6;2;12-;4,(1-2) CFBC;O;CHC;Nico Hoerner;Justin Lawrence;8%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Cubs 4, Rockies 6.

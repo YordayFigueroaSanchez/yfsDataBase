@@ -1,0 +1,254 @@
+
+Scorebox Meta
+20230419
+7:10 p.m. Local
+40545
+Minute Maid Park
+144
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/TOR-2023.png;/teams/TOR/2023.shtml;0;0;0;0;0;0;0;1;0;1;4;1
+https://cdn.ssref.net/req/202308101/tlogo/br/HOU-2023.png;/teams/HOU/2023.shtml;0;2;0;0;0;0;0;6;X;8;8;0
+
+Batting home
+Mauricio Dubón;/players/d/dubonma01.shtml;2B;4;1;1;0;0;0;4;.323;.338;.371;.709;13;10;-0.011; 0.57;0.027;-0.038;-0.01%; 0.49; 0.0;0;2;
+Alex Bregman;/players/b/bregmal01.shtml;3B;4;1;1;0;0;0;4;.216;.341;.324;.665;14;10;-0.058; 0.60;0.012;-0.070;-0.03%; 0.52; -0.9;3;2;GDP
+Yordan Alvarez;/players/a/alvaryo01.shtml;DH;3;1;0;0;1;1;4;.262;.387;.508;.895;15;9;-0.011; 0.50;0.015;-0.026;-0.01%; 0.43; 0.0;;;
+José Abreu;/players/a/abreujo02.shtml;1B;4;1;2;2;0;0;4;.266;.301;.304;.605;11;7;0.085; 0.89;0.119;-0.034; 0.04%; 0.77; 1.6;6;1;
+Kyle Tucker;/players/t/tuckeky01.shtml;RF;4;1;2;1;0;0;4;.313;.438;.547;.984;5;5;-0.040; 0.54;0.027;-0.067;-0.02%; 0.47; 0.3;1;0;GDP
+Jeremy Peña;/players/p/penaje02.shtml;SS;3;2;1;3;0;1;4;.211;.286;.408;.694;7;5;0.013; 0.44;0.034;-0.021; 0.01%; 0.38; 2.5;1;0;HR,SB,HBP
+David Hensley;/players/h/henslda01.shtml;LF;2;1;0;0;1;0;3;.167;.271;.167;.438;16;9;-0.016; 0.73;0.010;-0.026;-0.01%; 0.62; -0.4;1;0;
+Corey Julks;/players/j/julksco01.shtml;LF;1;0;0;0;0;1;1;.277;.271;.468;.739;5;3;0.000; 0.00;0.000;0.000;0%; 0.00; -0.1;0;0;
+Jake Meyers;/players/m/meyerja02.shtml;CF;3;0;1;2;0;0;3;.222;.300;.333;.633;9;6;0.168; 0.90;0.193;-0.025; 0.09%; 0.77; 1.5;4;0;2B
+Martín Maldonado;/players/m/maldoma01.shtml;C;3;0;0;0;0;1;3;.186;.271;.279;.550;8;7;-0.042; 0.52;0.000;-0.042;-0.02%; 0.44; -0.6;10;1;
+Luis Garcia;/players/g/garcilu05.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Rafael Montero;/players/m/montera01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Abreu;/players/a/abreubr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Pressly;/players/p/pressry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jake Meyers (1, off José Berríos).
+
+
+HR: Jeremy Peña (3, off Adam Cimber, 8th inn, 2 on, 2 outs to Deep LF).
+
+
+HBP: Jeremy Peña (4, by José Berríos).
+
+
+TB: Jeremy Peña 4; José Abreu 2; Kyle Tucker 2; Jake Meyers 2; Alex Bregman; Mauricio Dubón.
+
+
+GIDP: Kyle Tucker (2); Alex Bregman (1).
+
+
+RBI: Jeremy Peña 3 (12); Jake Meyers 2 (5); José Abreu 2 (9); Kyle Tucker (15).
+
+
+2-out RBI: Jeremy Peña 3; José Abreu 2; Jake Meyers 2; Kyle Tucker.
+
+
+Team LOB: 2.
+With RISP: 4 for 5.
+
+Batting away
+George Springer;/players/s/springe01.shtml;DH;4;0;0;0;0;2;4;.208;.274;.325;.598;19;11;-0.200; 1.64;0.000;-0.200;-0.12%; 1.71; -1.3;;;
+Bo Bichette;/players/b/bichebo01.shtml;SS;4;0;0;0;0;2;4;.354;.384;.549;.933;18;14;-0.228; 2.00;0.000;-0.228;-0.14%; 2.08; -1.3;1;2;
+Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;1B;4;0;0;0;0;1;4;.338;.419;.473;.892;17;13;-0.239; 2.35;0.000;-0.239;-0.15%; 2.44; -1.3;8;1;
+Daulton Varsho;/players/v/varshda01.shtml;LF;4;0;1;0;0;1;4;.234;.333;.344;.677;11;9;-0.024; 0.58;0.024;-0.048;-0.01%; 0.61; -0.4;2;0;2B
+Matt Chapman;/players/c/chapmma01.shtml;3B;3;0;0;0;1;1;4;.397;.461;.750;1.211;26;15;-0.024; 0.61;0.026;-0.050;-0.01%; 0.64; -0.3;1;3;
+Alejandro Kirk;/players/k/kirkal01.shtml;C;3;0;1;0;0;1;3;.250;.370;.318;.689;9;8;0.008; 1.27;0.067;-0.059; 0.01%; 1.33; -0.2;3;0;
+Santiago Espinal;/players/e/espinsa01.shtml;PR;0;1;0;0;0;0;0;.114;.162;.200;.362;;;0.000;;0.000;0.000;0%;; 0.0;;;
+Danny Jansen;/players/j/janseda01.shtml;C;1;0;0;0;0;0;1;.094;.194;.094;.288;8;6;0.000; 0.00;0.000;0.000;0%; 0.00; -0.1;1;0;
+Whit Merrifield;/players/m/merriwh01.shtml;2B;3;0;2;1;0;1;3;.314;.351;.392;.743;9;7;0.276; 2.00;0.352;-0.076; 0.17%; 2.08; 1.3;1;4;2B,CS
+Kevin Kiermaier;/players/k/kiermke01.shtml;CF;2;0;0;0;1;1;3;.315;.327;.463;.790;17;9;0.030; 1.45;0.067;-0.037; 0.02%; 1.51; 0.0;5;0;
+Nathan Lukes;/players/l/lukesna01.shtml;RF;2;0;0;0;1;0;3;.000;.250;.000;.250;15;9;-0.013; 1.73;0.036;-0.049;-0.01%; 1.80; -0.1;1;0;
+José Berríos;/players/b/berrijo01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Zach Pop;/players/p/popza01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Cimber;/players/c/cimbead01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Daulton Varsho (4, off Luis Garcia); Whit Merrifield (4, off Rafael Montero).
+
+
+TB: Whit Merrifield 3; Daulton Varsho 2; Alejandro Kirk.
+
+
+RBI: Whit Merrifield (7).
+
+
+Team LOB: 5.
+With RISP: 0 for 4.
+
+Pitching home
+Luis Garcia;/players/g/garcilu05.shtml; W (1-2); 7 ;2;0;0;1;9;0;5.14;23;92;65;28;22;15;6;7;2;0;81;;;0.407; 0.85; 0.21%; 0.73; 3.6
+Rafael Montero;/players/m/montera01.shtml;Rafael Montero; 0 ;2;1;1;2;0;0;3.38;4;18;9;7;1;1;1;1;1;0;;0;0;-0.490; 2.90;-0.25%; 2.49; -2.8
+Bryan Abreu;/players/a/abreubr01.shtml; H (3); 1 ;0;0;0;0;1;0;0.87;3;19;13;10;2;1;0;2;1;0;;3;0;0.493; 5.72; 0.25%; 4.91; 2.4
+Ryan Pressly;/players/p/pressry01.shtml;Ryan Pressly; 1 ;0;0;0;0;0;0;6.14;3;20;14;11;2;1;1;2;0;0;;0;0;0.001; 0.01; 0.00%; 0.01; 0.5
+
+Pitching away
+José Berríos;/players/b/berrijo01.shtml; L (1-3); 7 ;3;2;2;1;3;0;6.23;25;77;52;29;10;13;10;10;2;0;65;;;0.043; 0.63; 0.03%; 0.65; 1.6
+Zach Pop;/players/p/popza01.shtml;Zach Pop; 0.2;3;4;4;1;0;0;5.00;6;19;14;7;1;6;0;5;4;0;;0;0;-0.105; 0.74;-0.07%; 0.77; -1.9
+Adam Cimber;/players/c/cimbead01.shtml;Adam Cimber; 0.1;2;2;2;0;1;1;4.00;3;7;5;2;1;2;0;2;1;0;;2;2;-0.027; 0.10;-0.02%; 0.10; -3.6
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: José Berríos (1; Jeremy Peña).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: José Berríos (1; Jeremy Peña).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Alex MacKay, 1B - Brian O'Nora, 2B - Pat Hoberg, 3B - Nestor Ceja, LF - (none), RF - (none).
+Time of Game: 2:24.
+Attendance: 40,545.
+Start Time Weather: 73° F, Wind 0mph, In Dome.
+
+div_lineups
+Blue Jays
+1;George Springer;/players/s/springe01.shtml;DH
+2;Bo Bichette;/players/b/bichebo01.shtml;SS
+3;Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;1B
+4;Daulton Varsho;/players/v/varshda01.shtml;LF
+5;Matt Chapman;/players/c/chapmma01.shtml;3B
+6;Alejandro Kirk;/players/k/kirkal01.shtml;C
+7;Whit Merrifield;/players/m/merriwh01.shtml;2B
+8;Kevin Kiermaier;/players/k/kiermke01.shtml;CF
+9;Nathan Lukes;/players/l/lukesna01.shtml;RF
+; José Berríos;/players/b/berrijo01.shtml;P
+Astros
+1;Mauricio Dubón;/players/d/dubonma01.shtml;2B
+2;Alex Bregman;/players/b/bregmal01.shtml;3B
+3;Yordan Alvarez;/players/a/alvaryo01.shtml;DH
+4;José Abreu;/players/a/abreujo02.shtml;1B
+5;Kyle Tucker;/players/t/tuckeky01.shtml;RF
+6;Jeremy Peña;/players/p/penaje02.shtml;SS
+7;David Hensley;/players/h/henslda01.shtml;LF
+8;Jake Meyers;/players/m/meyerja02.shtml;CF
+9;Martín Maldonado;/players/m/maldoma01.shtml;C
+; Luis Garcia;/players/g/garcilu05.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t8;0-2;0;1--;1,(0-0) .X;R;TOR;Whit Merrifield;Rafael Montero;-20%;60%;Double to LF (Ground Ball); Espinal Scores
+b2;0-0;2;12-;3,(1-1) BSX;RR;HOU;Jake Meyers;José Berríos;19%;74%;Double to CF (Fly Ball to Deep CF-RF); Peña Scores; Hensley Scores
+t8;1-2;2;123;9,(3-2) BBCFFB>F>F>X;O;TOR;Vladimir Guerrero Jr.;Bryan Abreu;18%;87%;Flyball: CF (Deep CF)
+t8;1-2;1;123;4,(0-2) AFFFS;O;TOR;Bo Bichette;Bryan Abreu;17%;69%;Strikeout Swinging
+t8;1-2;0;123;6,(3-2) .FBBS*BX;O;TOR;George Springer;Bryan Abreu;15%;52%;Lineout: 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Blue Jays Batting, Tied 0-0, Astros' Luis Garcia facing 1-2-3 
+t1;0-0;0;---;5,(2-2) TBSBC;O;TOR;George Springer;Luis Garcia;2%;52%;Strikeout Looking
+t1;0-0;1;---;3,(0-2) CFS;O;TOR;Bo Bichette;Luis Garcia;2%;54%;Strikeout Swinging
+t1;0-0;2;---;3,(1-2) BSFA;O;TOR;Vladimir Guerrero Jr.;Luis Garcia;1%;55%;Strikeout
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Astros 0.
+Bottom of the 1st, Astros Batting, Tied 0-0, Blue Jays' José Berríos facing 1-2-3 
+b1;0-0;0;---;1,(0-0) X;O;HOU;Mauricio Dubón;José Berríos;-2%;53%;Groundout: SS-1B (SS-2B)
+b1;0-0;1;---;6,(3-2) BBFCBX;O;HOU;Alex Bregman;José Berríos;-2%;51%;Popfly: 3B
+b1;0-0;2;---;4,(1-2) CFBX;O;HOU;Yordan Alvarez;José Berríos;-1%;50%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Astros 0.
+Top of the 2nd, Blue Jays Batting, Tied 0-0, Astros' Luis Garcia facing 4-5-6 
+t2;0-0;0;---;4,(1-2) CBFS;O;TOR;Daulton Varsho;Luis Garcia;2%;52%;Strikeout Swinging
+t2;0-0;1;---;6,(3-2) BBBCF.B;;TOR;Matt Chapman;Luis Garcia;-3%;50%;Walk
+t2;0-0;1;1--;3,(0-2) CSS;O;TOR;Alejandro Kirk;Luis Garcia;3%;53%;Strikeout Swinging
+t2;0-0;2;1--;3,(0-2) SFS;O;TOR;Whit Merrifield;Luis Garcia;2%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Blue Jays 0, Astros 0.
+Bottom of the 2nd, Astros Batting, Tied 0-0, Blue Jays' José Berríos facing 4-5-6 
+b2;0-0;0;---;3,(2-0) BBX;O;HOU;José Abreu;José Berríos;-2%;53%;Flyball: CF (Deep CF-RF)
+b2;0-0;1;---;2,(0-1) CX;O;HOU;Kyle Tucker;José Berríos;-2%;51%;Groundout: 1B-P (2B-1B)
+b2;0-0;2;---;1,(0-0) H;;HOU;Jeremy Peña;José Berríos;1%;52%;Hit By Pitch
+b2;0-0;2;1--;3,(1-1) C1B>B;;HOU;David Hensley;José Berríos;1%;53%;Peña Steals 2B
+b2;0-0;2;-2-;6,(3-2) C1B>B.BSB;;HOU;David Hensley;José Berríos;1%;54%;Walk
+b2;0-0;2;12-;3,(1-1) BSX;RR;HOU;Jake Meyers;José Berríos;19%;74%;Double to CF (Fly Ball to Deep CF-RF); Peña Scores; Hensley Scores
+b2;2-0;2;-2-;3,(0-2) CFS;O;HOU;Martín Maldonado;José Berríos;-2%;71%;Strikeout Swinging
+;;;;;;;;;2 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 0, Astros 2.
+Top of the 3rd, Blue Jays Batting, Behind 0-2, Astros' Luis Garcia facing 8-9-1 
+t3;0-2;0;---;4,(2-1) CBBX;O;TOR;Kevin Kiermaier;Luis Garcia;2%;74%;Groundout: 1B unassisted
+t3;0-2;1;---;7,(2-2) BCFFBFX;O;TOR;Nathan Lukes;Luis Garcia;2%;76%;Lineout: CF (Deep CF)
+t3;0-2;2;---;4,(1-2) BCFS;O;TOR;George Springer;Luis Garcia;1%;77%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Astros 2.
+Bottom of the 3rd, Astros Batting, Ahead 2-0, Blue Jays' José Berríos facing 1-2-3 
+b3;2-0;0;---;9,(3-2) BBSBC.FFFX;O;HOU;Mauricio Dubón;José Berríos;-2%;75%;Flyball: CF (Deep CF)
+b3;2-0;1;---;1,(0-0) X;O;HOU;Alex Bregman;José Berríos;-1%;74%;Flyball: CF (Deep CF)
+b3;2-0;2;---;3,(0-2) FS*S;O;HOU;Yordan Alvarez;José Berríos;-1%;73%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Astros 2.
+Top of the 4th, Blue Jays Batting, Behind 0-2, Astros' Luis Garcia facing 2-3-4 
+t4;0-2;0;---;4,(1-2) SBSX;O;TOR;Bo Bichette;Luis Garcia;3%;76%;Lineout: CF (CF-RF)
+t4;0-2;1;---;3,(0-2) CSX;O;TOR;Vladimir Guerrero Jr.;Luis Garcia;2%;78%;Groundout: 3B-1B
+t4;0-2;2;---;2,(0-1) CX;;TOR;Daulton Varsho;Luis Garcia;-2%;75%;Double to RF (Ground Ball)
+t4;0-2;2;-2-;6,(2-2) CS*BFBX;O;TOR;Matt Chapman;Luis Garcia;4%;79%;Popfly: 3B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 0, Astros 2.
+Bottom of the 4th, Astros Batting, Ahead 2-0, Blue Jays' José Berríos facing 4-5-6 
+b4;2-0;0;---;3,(1-1) BSX;;HOU;José Abreu;José Berríos;2%;81%;Single to RF (Line Drive to CF-RF)
+b4;2-0;0;1--;1,(0-0) X;OO;HOU;Kyle Tucker;José Berríos;-5%;76%;Ground Ball Double Play: 3B-SS-1B
+b4;2-0;2;---;1,(0-0) X;O;HOU;Jeremy Peña;José Berríos;-1%;75%;Flyball: LF (Short LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Blue Jays 0, Astros 2.
+Top of the 5th, Blue Jays Batting, Behind 0-2, Astros' Luis Garcia facing 6-7-8 
+t5;0-2;0;---;3,(0-2) CS.X;O;TOR;Alejandro Kirk;Luis Garcia;3%;78%;Groundout: 2B-1B
+t5;0-2;1;---;5,(2-2) SABFBX;;TOR;Whit Merrifield;Luis Garcia;-3%;75%;Single to RF (Fly Ball to Short RF Line)
+t5;0-2;1;1--;4,(1-2) BSS>B;O;TOR;Kevin Kiermaier;Luis Garcia;5%;80%;Merrifield Caught Stealing 2B (C-SS)
+;;;;;;;;;Tag play Challenged by TOR manager (John Schneider): Original call upheld upon review.
+t5;0-2;2;---;5,(2-2) BSS>B.S;O;TOR;Kevin Kiermaier;Luis Garcia;1%;81%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Blue Jays 0, Astros 2.
+Bottom of the 5th, Astros Batting, Ahead 2-0, Blue Jays' José Berríos facing 7-8-9 
+b5;2-0;0;---;6,(2-2) BCCBFX;O;HOU;David Hensley;José Berríos;-1%;80%;Groundout: P-1B (Weak SS-2B)
+b5;2-0;1;---;2,(1-0) BX;O;HOU;Jake Meyers;José Berríos;-1%;79%;Flyball: RF (RF Line)
+b5;2-0;2;---;3,(1-1) BSX;O;HOU;Martín Maldonado;José Berríos;-1%;78%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Astros 2.
+Top of the 6th, Blue Jays Batting, Behind 0-2, Astros' Luis Garcia facing 9-1-2 
+t6;0-2;0;---;2,(0-1) CX;O;TOR;Nathan Lukes;Luis Garcia;3%;81%;Flyball: LF
+t6;0-2;1;---;4,(2-1) SBBX;O;TOR;George Springer;Luis Garcia;2%;83%;Foul Popfly: 1B (1B into Foul Terr.)
+t6;0-2;2;---;7,(3-2) SBCBBFX;O;TOR;Bo Bichette;Luis Garcia;1%;85%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Astros 2.
+Bottom of the 6th, Astros Batting, Ahead 2-0, Blue Jays' José Berríos facing 1-2-3 
+b6;2-0;0;---;1,(0-0) X;;HOU;Mauricio Dubón;José Berríos;2%;87%;Reached on E4 (throw) (Ground Ball); Dubón to 1B
+b6;2-0;0;1--;4,(1-2) CBCX;OO;HOU;Alex Bregman;José Berríos;-4%;82%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b6;2-0;2;---;3,(1-1) BCX;O;HOU;Yordan Alvarez;José Berríos;-1%;82%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 1 error, 0 LOB. Blue Jays 0, Astros 2.
+Top of the 7th, Blue Jays Batting, Behind 0-2, Astros' Luis Garcia facing 3-4-5 
+t7;0-2;0;---;2,(0-1) SX;O;TOR;Vladimir Guerrero Jr.;Luis Garcia;3%;85%;Groundout: 3B-1B (SS-3B Hole)
+t7;0-2;1;---;2,(0-1) CX;O;TOR;Daulton Varsho;Luis Garcia;2%;87%;Popfly: 3B (Weak SS)
+t7;0-2;2;---;5,(2-2) FBF.BS;O;TOR;Matt Chapman;Luis Garcia;1%;89%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Astros 2.
+Bottom of the 7th, Astros Batting, Ahead 2-0, Blue Jays' José Berríos facing 4-5-6 
+b7;2-0;0;---;2,(1-0) BX;O;HOU;José Abreu;José Berríos;-1%;88%;Groundout: 3B-1B
+b7;2-0;1;---;1,(0-0) X;;HOU;Kyle Tucker;José Berríos;1%;89%;Single to RF (Line Drive to Short RF)
+b7;2-0;1;1--;4,(1-2) SBFS;O;HOU;Jeremy Peña;José Berríos;-1%;88%;Strikeout Swinging
+b7;2-0;2;1--;4,(1-2) 1CBCX;O;HOU;David Hensley;José Berríos;-1%;86%;Flyball: CF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 0, Astros 2.
+Top of the 8th, Blue Jays Batting, Behind 0-2, Astros' Rafael Montero facing 6-7-8 
+;;;;;;;;;Rafael Montero replaces Luis Garcia pitchingCorey Julks replaces David Hensley playing LF batting 7th
+t8;0-2;0;---;3,(1-1) ..CBX;;TOR;Alejandro Kirk;Rafael Montero;-7%;80%;Single to RF (Line Drive to Deep CF-RF)
+;;;;;;;;;Santiago Espinal pinch runs for Alejandro Kirk (C) batting 6th
+t8;0-2;0;1--;1,(0-0) .X;R;TOR;Whit Merrifield;Rafael Montero;-20%;60%;Double to LF (Ground Ball); Espinal Scores
+t8;1-2;0;-2-;8,(3-2) BBFBFFFB;;TOR;Kevin Kiermaier;Rafael Montero;-7%;53%;Walk
+t8;1-2;0;12-;1,(0-0) B;;TOR;Nathan Lukes;Rafael Montero;-12%;41%;Passed Ball; Merrifield to 3B; Kiermaier to 2B
+t8;1-2;0;-23;6,(3-2) B.SB*BFB;;TOR;Nathan Lukes;Rafael Montero;-4%;37%;Walk
+;;;;;;;;;Bryan Abreu replaces Rafael Montero pitching
+t8;1-2;0;123;6,(3-2) .FBBS*BX;O;TOR;George Springer;Bryan Abreu;15%;52%;Lineout: 3B
+t8;1-2;1;123;4,(0-2) AFFFS;O;TOR;Bo Bichette;Bryan Abreu;17%;69%;Strikeout Swinging
+t8;1-2;2;123;9,(3-2) BBCFFB>F>F>X;O;TOR;Vladimir Guerrero Jr.;Bryan Abreu;18%;87%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 3 LOB. Blue Jays 1, Astros 2.
+Bottom of the 8th, Astros Batting, Ahead 2-1, Blue Jays' Zach Pop facing 8-9-1 
+;;;;;;;;;Zach Pop replaces José Berríos pitchingDanny Jansen replaces Santiago Espinal (PR) playing C batting 6th
+b8;2-1;0;---;4,(1-2) ..BCS.X;O;HOU;Jake Meyers;Zach Pop;-1%;85%;Lineout: CF (Deep CF)
+b8;2-1;1;---;2,(0-1) CX;O;HOU;Martín Maldonado;Zach Pop;-1%;84%;Flyball: LF (Deep LF)
+b8;2-1;2;---;2,(0-1) CX;;HOU;Mauricio Dubón;Zach Pop;1%;85%;Single to RF (Line Drive)
+b8;2-1;2;1--;3,(0-2) FCX;;HOU;Alex Bregman;Zach Pop;1%;86%;Single to LF (Line Drive); Dubón to 2B
+b8;2-1;2;12-;5,(3-1) BCB*BB;;HOU;Yordan Alvarez;Zach Pop;1%;88%;Walk; Dubón to 3B; Bregman to 2B
+b8;2-1;2;123;3,(0-2) CFX;RR;HOU;José Abreu;Zach Pop;10%;97%;Single to LF (Line Drive to Short LF-CF); Dubón Scores; Bregman Scores; Alvarez to 2B
+;;;;;;;;;Adam Cimber replaces Zach Pop pitching
+b8;4-1;2;12-;1,(0-0) .X;R;HOU;Kyle Tucker;Adam Cimber;2%;99%;Single to CF (Line Drive to Deep CF-RF); Alvarez Scores; Abreu to 2B
+b8;5-1;2;12-;1,(0-0) X;RRR;HOU;Jeremy Peña;Adam Cimber;1%;100%;Home Run (Fly Ball to Deep LF); Abreu Scores; Tucker Scores
+b8;8-1;2;---;5,(2-2) CBBCS;O;HOU;Corey Julks;Adam Cimber;0%;100%;Strikeout Swinging
+;;;;;;;;;6 runs, 5 hits, 0 errors, 0 LOB. Blue Jays 1, Astros 8.
+Top of the 9th, Blue Jays Batting, Behind 1-8, Astros' Ryan Pressly facing 4-5-6 
+;;;;;;;;;Ryan Pressly replaces Bryan Abreu pitching
+t9;1-8;0;---;3,(1-1) .BSX;O;TOR;Daulton Varsho;Ryan Pressly;0%;100%;Groundout: 2B-1B (2B-1B)
+t9;1-8;1;---;9,(3-2) BSFBBFFFX;O;TOR;Matt Chapman;Ryan Pressly;0%;100%;Flyball: CF (Deep CF)
+t9;1-8;2;---;8,(2-2) BFCBFFFX;O;TOR;Danny Jansen;Ryan Pressly;0%;100%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 1, Astros 8.

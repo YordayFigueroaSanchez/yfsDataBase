@@ -1,0 +1,272 @@
+
+Scorebox Meta
+20230901
+7:10 p.m. Local
+52436
+Dodger Stadium
+173
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/ATL-2023.png;/teams/ATL/2023.shtml;0;1;1;1;2;0;0;1;0;6;14;1
+https://cdn.ssref.net/req/202309121/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;0;0;0;0;0;0;3;0;3;6;1
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;RF;3;0;0;0;0;1;3;.315;.409;.619;1.028;12;7;-0.054; 0.66;0.000;-0.054;-0.01%; 0.10; -0.6;0;0;
+David Peralta;/players/p/peralda01.shtml;PH-RF;1;0;0;0;0;1;1;.269;.303;.393;.696;5;4;-0.011; 0.47;0.000;-0.011;-0.00%; 0.07; -0.5;0;0;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;3;0;1;0;0;2;3;.338;.414;.583;.996;12;10;0.014; 0.69;0.042;-0.028; 0.00%; 0.10; -0.0;7;3;
+Kolten Wong;/players/w/wongko01.shtml;PH-2B;1;1;1;3;0;0;1;.169;.244;.246;.490;3;3;0.036; 0.23;0.036;0.000; 0.00%; 0.03; 2.7;0;0;HR
+Will Smith;/players/s/smithwi05.shtml;C;3;0;0;0;1;2;4;.271;.365;.456;.821;17;9;-0.089; 0.68;0.015;-0.103;-0.01%; 0.10; -1.0;7;1;GDP
+Amed Rosario;/players/r/rosaram01.shtml;DH;4;0;2;0;0;1;4;.260;.300;.378;.679;19;13;-0.003; 0.58;0.034;-0.037;0%; 0.09; -0.0;;;
+Chris Taylor;/players/t/tayloch03.shtml;LF;3;0;0;0;1;2;4;.228;.319;.423;.742;21;11;-0.075; 0.89;0.010;-0.085;-0.01%; 0.13; -0.7;1;0;
+Max Muncy;/players/m/muncyma01.shtml;3B;3;0;0;0;0;1;3;.207;.336;.490;.826;11;8;-0.041; 0.51;0.000;-0.041;-0.00%; 0.08; -0.7;1;2;
+Michael Busch;/players/b/buschmi02.shtml;3B;1;0;0;0;0;1;1;.174;.256;.304;.561;4;3;-0.026; 0.99;0.000;-0.026;-0.00%; 0.15; -0.3;0;0;
+Enrique Hernández;/players/h/hernaen02.shtml;2B-1B;4;0;0;0;0;1;4;.229;.284;.342;.626;24;16;-0.053; 0.50;0.000;-0.053;-0.01%; 0.07; -0.8;5;3;
+James Outman;/players/o/outmaja01.shtml;CF;2;1;1;0;2;1;4;.256;.361;.435;.797;17;8;0.023; 0.46;0.042;-0.019; 0.00%; 0.07; 0.7;1;0;
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;3;1;1;0;0;0;3;.223;.280;.299;.579;12;9;-0.023; 0.55;0.023;-0.046;-0.00%; 0.08; -0.3;2;4;GDP
+Jason Heyward;/players/h/heywaja01.shtml;PH;1;0;0;0;0;0;1;.262;.346;.477;.823;3;3;-0.018; 0.60;0.000;-0.018;-0.00%; 0.09; -0.3;;;
+Julio Urías;/players/u/uriasju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Caleb Ferguson;/players/f/ferguca01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Ryan Brasier;/players/b/brasiry01.shtml;P;;;;;;;;;;;;;;;;;;;;;2;0;
+Gus Varland;/players/v/varlagu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Kolten Wong (3, off Pierce Johnson, 8th inn, 2 on, 2 outs to Deep RF).
+
+
+TB: Kolten Wong 4; Amed Rosario 2; Freddie Freeman; Miguel Rojas; James Outman.
+
+
+GIDP: Miguel Rojas (10); Will Smith (7).
+
+
+RBI: Kolten Wong 3 (22).
+
+
+2-out RBI: Kolten Wong 3.
+
+
+Team LOB: 6.
+With RISP: 1 for 5.
+
+Batting away
+Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF;4;2;2;1;1;0;5;.338;.420;.580;1.001;20;13;0.176; 0.60;0.187;-0.011; 0.01%; 0.04; 0.5;3;0;HR,2B,SB,GDP
+Ozzie Albies;/players/a/albieoz01.shtml;2B;5;1;1;0;0;0;5;.268;.325;.504;.829;20;15;-0.087; 0.60;0.013;-0.100;-0.00%; 0.04; -1.2;2;2;GDP
+Austin Riley;/players/r/rileyau01.shtml;3B;5;0;2;1;0;2;5;.279;.338;.509;.847;19;13;0.036; 0.37;0.055;-0.019; 0.00%; 0.02; 0.8;0;2;2B
+Matt Olson;/players/o/olsonma02.shtml;1B;5;0;0;0;0;2;5;.266;.373;.579;.951;19;13;-0.054; 0.35;0.000;-0.054;-0.00%; 0.02; -1.2;6;0;
+Marcell Ozuna;/players/o/ozunama01.shtml;DH;4;2;3;2;0;1;4;.272;.344;.543;.887;11;9;0.091; 0.57;0.115;-0.024; 0.00%; 0.04; 2.2;;;HR,2B
+Travis d'Arnaud;/players/d/darnatr01.shtml;C;4;1;2;1;0;0;4;.246;.304;.441;.745;17;12;0.099; 0.45;0.128;-0.029; 0.00%; 0.03; 0.9;13;0;HR,GDP
+Eddie Rosario;/players/r/rosared01.shtml;LF;3;0;1;1;1;1;4;.260;.313;.481;.794;14;10;-0.093; 0.61;0.026;-0.120;-0.00%; 0.04; -0.8;0;0;CS
+Orlando Arcia;/players/a/arciaor01.shtml;SS;4;0;2;0;0;0;4;.282;.337;.448;.786;21;14;0.058; 0.50;0.079;-0.021; 0.00%; 0.03; 1.2;0;2;2B
+Michael Harris II;/players/h/harrimi04.shtml;CF;4;0;1;0;0;1;4;.290;.335;.460;.794;10;10;-0.046; 0.43;0.003;-0.048;-0.00%; 0.03; -1.2;3;0;
+Max Fried;/players/f/friedma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Pierce Johnson;/players/j/johnspi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael Tonkin;/players/t/tonkimi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kirby Yates;/players/y/yateski01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Orlando Arcia (18, off Julio Urías); Ronald Acuna Jr. (32, off Julio Urías); Austin Riley (26, off Julio Urías); Marcell Ozuna (20, off Gus Varland).
+
+
+HR: Travis d'Arnaud (10, off Julio Urías, 2nd inn, 0 on, 1 out to Deep LF Line); Ronald Acuna Jr. (31, off Julio Urías, 3rd inn, 0 on, 0 outs to Deep CF); Marcell Ozuna (32, off Julio Urías, 4th inn, 0 on, 0 outs to Deep CF).
+
+
+TB: Marcell Ozuna 7; Ronald Acuna Jr. 6; Travis d'Arnaud 5; Austin Riley 3; Orlando Arcia 3; Michael Harris II; Eddie Rosario; Ozzie Albies.
+
+
+GIDP: Travis d'Arnaud (6); Ozzie Albies (7); Ronald Acuna Jr. (13).
+
+
+RBI: Marcell Ozuna 2 (76); Austin Riley (83); Ronald Acuna Jr. (84); Eddie Rosario (65); Travis d'Arnaud (34).
+
+
+Team LOB: 7.
+With RISP: 6 for 11.
+
+Pitching home
+Julio Urías;/players/u/uriasju01.shtml; L (11-8); 5 ;9;5;5;2;4;3;4.60;24;92;63;39;7;17;6;12;3;0;31;;;-0.201; 0.73;-0.02%; 0.11; -2.3
+Caleb Ferguson;/players/f/ferguca01.shtml;Caleb Ferguson; 1 ;1;0;0;0;0;0;2.65;4;13;11;8;2;1;3;1;0;0;;0;0;0.011; 0.14; 0.00%; 0.02; 0.5
+Ryan Brasier;/players/b/brasiry01.shtml;Ryan Brasier; 1 ;0;0;0;0;0;0;3.58;3;7;4;4;0;0;3;0;0;0;;0;0;0.008; 0.10; 0.00%; 0.01; 0.5
+Gus Varland;/players/v/varlagu01.shtml;Gus Varland; 2 ;4;1;1;0;3;0;6.62;9;39;31;18;8;5;2;4;3;0;;0;0;0.002; 0.11; 0.00%; 0.02; 0.1
+
+Pitching away
+Max Fried;/players/f/friedma01.shtml; W (6-1); 7 ;3;0;0;2;10;0;2.52;24;104;65;34;13;18;8;4;3;0;79;;;0.299; 0.63; 0.01%; 0.04; 3.8
+Pierce Johnson;/players/j/johnspi01.shtml;Pierce Johnson; 0.2;3;3;0;1;1;1;4.50;7;30;22;12;4;6;1;4;2;0;;0;0;-0.077; 0.34;-0.00%; 0.02; -2.9
+Michael Tonkin;/players/t/tonkimi01.shtml; H (2); 0.1;0;0;0;0;1;0;3.38;1;5;3;1;2;0;0;0;0;0;;2;0;0.052; 1.96; 0.00%; 0.13; 0.5
+Kirby Yates;/players/y/yateski01.shtml; S (3); 1 ;0;0;0;1;1;0;2.73;4;21;14;9;2;3;0;2;1;0;;0;0;0.046; 0.60; 0.00%; 0.04; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Phil Cuzzi, 1B - Mark Ripperger, 2B - Shane Livensparger, 3B - Dan Bellino, LF - (none), RF - (none).
+Time of Game: 2:53.
+Attendance: 52,436.
+Field Condition: Unknown.
+Start Time Weather: 73° F, Wind 7mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Braves
+1;Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF
+2;Ozzie Albies;/players/a/albieoz01.shtml;2B
+3;Austin Riley;/players/r/rileyau01.shtml;3B
+4;Matt Olson;/players/o/olsonma02.shtml;1B
+5;Marcell Ozuna;/players/o/ozunama01.shtml;DH
+6;Travis d'Arnaud;/players/d/darnatr01.shtml;C
+7;Eddie Rosario;/players/r/rosared01.shtml;LF
+8;Orlando Arcia;/players/a/arciaor01.shtml;SS
+9;Michael Harris II;/players/h/harrimi04.shtml;CF
+; Max Fried;/players/f/friedma01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;RF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;C
+4;Amed Rosario;/players/r/rosaram01.shtml;DH
+5;Chris Taylor;/players/t/tayloch03.shtml;LF
+6;Max Muncy;/players/m/muncyma01.shtml;3B
+7;Enrique Hernández;/players/h/hernaen02.shtml;2B
+8;James Outman;/players/o/outmaja01.shtml;CF
+9;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+; Julio Urías;/players/u/uriasju01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;0-0;1;---;5,(1-2) CBFFX;R;ATL;Travis d'Arnaud;Julio Urías;10%;58%;Home Run (Fly Ball to Deep LF Line)
+t3;1-0;0;---;1,(0-0) X;R;ATL;Ronald Acuna Jr.;Julio Urías;10%;71%;Home Run (Fly Ball to Deep CF)
+t2;1-0;1;-23;1,(0-1) CN;O;ATL;Michael Harris II;Julio Urías;-9%;58%;Rosario Caught Stealing Hm (P-C)
+b4;0-3;0;1--;6,(3-2) BFBCB1X;OO;LAD;Will Smith;Max Fried;9%;82%;Ground Ball Double Play: SS-2B-1B
+t4;2-0;0;---;2,(0-1) CX;R;ATL;Marcell Ozuna;Julio Urías;8%;81%;Home Run (Fly Ball to Deep CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Braves Batting, Tied 0-0, Dodgers' Julio Urías facing 1-2-3 
+t1;0-0;0;---;4,(3-0) BBBB;;ATL;Ronald Acuna Jr.;Julio Urías;3%;53%;Walk
+t1;0-0;0;1--;2,(0-1) FX;OO;ATL;Ozzie Albies;Julio Urías;-7%;46%;Ground Ball Double Play: SS-2B-1B
+t1;0-0;2;---;3,(1-1) BSX;;ATL;Austin Riley;Julio Urías;1%;47%;Single to RF (Line Drive)
+t1;0-0;2;1--;4,(2-1) BF*BX;O;ATL;Matt Olson;Julio Urías;-2%;45%;Popfly: 3B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Tied 0-0, Braves' Max Fried facing 1-2-3 
+b1;0-0;0;---;5,(2-2) CBBFX;O;LAD;Mookie Betts;Max Fried;2%;47%;Flyball: RF (Deep CF-RF)
+b1;0-0;1;---;5,(2-2) FFBBC;O;LAD;Freddie Freeman;Max Fried;2%;49%;Strikeout Looking
+b1;0-0;2;---;4,(1-2) CS.BT;O;LAD;Will Smith;Max Fried;1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Dodgers 0.
+Top of the 2nd, Braves Batting, Tied 0-0, Dodgers' Julio Urías facing 5-6-7 
+t2;0-0;0;---;4,(1-2) CFB*S;O;ATL;Marcell Ozuna;Julio Urías;-2%;48%;Strikeout Swinging; Ozuna out at 1B/C-1B
+t2;0-0;1;---;5,(1-2) CBFFX;R;ATL;Travis d'Arnaud;Julio Urías;10%;58%;Home Run (Fly Ball to Deep LF Line)
+t2;1-0;1;---;6,(3-2) BBBCC*B;;ATL;Eddie Rosario;Julio Urías;2%;60%;Walk
+t2;1-0;1;1--;6,(3-2) BCCBBX;;ATL;Orlando Arcia;Julio Urías;8%;68%;Double to LF (Line Drive to Deep LF Line); Rosario to 3B
+t2;1-0;1;-23;1,(0-1) CN;O;ATL;Michael Harris II;Julio Urías;-9%;58%;Rosario Caught Stealing Hm (P-C)
+t2;1-0;2;-2-;3,(0-2) CN.FX;O;ATL;Michael Harris II;Julio Urías;-3%;55%;Popfly: SS
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Braves 1, Dodgers 0.
+Bottom of the 2nd, Dodgers Batting, Behind 0-1, Braves' Max Fried facing 4-5-6 
+b2;0-1;0;---;5,(2-2) BBFFX;O;LAD;Amed Rosario;Max Fried;3%;58%;Groundout: 1B unassisted
+b2;0-1;1;---;5,(2-2) CSBBS;O;LAD;Chris Taylor;Max Fried;2%;60%;Strikeout Swinging
+b2;0-1;2;---;6,(2-2) BCBFF*S;O;LAD;Max Muncy;Max Fried;1%;61%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 1, Dodgers 0.
+Top of the 3rd, Braves Batting, Ahead 1-0, Dodgers' Julio Urías facing 1-2-3 
+t3;1-0;0;---;1,(0-0) X;R;ATL;Ronald Acuna Jr.;Julio Urías;10%;71%;Home Run (Fly Ball to Deep CF)
+t3;2-0;0;---;5,(1-2) CFBFX;O;ATL;Ozzie Albies;Julio Urías;-2%;69%;Groundout: SS-1B (SS-3B Hole)
+t3;2-0;1;---;8,(3-2) SBFFBBFS;O;ATL;Austin Riley;Julio Urías;-1%;67%;Strikeout Swinging
+t3;2-0;2;---;5,(1-2) CFFBC;O;ATL;Matt Olson;Julio Urías;-1%;66%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Braves 2, Dodgers 0.
+Bottom of the 3rd, Dodgers Batting, Behind 0-2, Braves' Max Fried facing 7-8-9 
+b3;0-2;0;---;7,(3-2) BCFBFBT;O;LAD;Enrique Hernández;Max Fried;3%;69%;Strikeout Swinging
+b3;0-2;1;---;3,(0-2) CS.*S;O;LAD;James Outman;Max Fried;2%;71%;Strikeout Swinging
+b3;0-2;2;---;3,(2-0) BBX;;LAD;Miguel Rojas;Max Fried;-1%;70%;Single to LF (Ground Ball thru SS-3B Hole)
+b3;0-2;2;1--;1,(0-0) X;O;LAD;Mookie Betts;Max Fried;3%;72%;Lineout: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 2, Dodgers 0.
+Top of the 4th, Braves Batting, Ahead 2-0, Dodgers' Julio Urías facing 5-6-7 
+t4;2-0;0;---;2,(0-1) CX;R;ATL;Marcell Ozuna;Julio Urías;8%;81%;Home Run (Fly Ball to Deep CF)
+t4;3-0;0;---;4,(2-1) CBBX;;ATL;Travis d'Arnaud;Julio Urías;2%;83%;Reached on E5 (Ground Ball); d'Arnaud to 1B
+t4;3-0;0;1--;4,(0-2) SFFS;O;ATL;Eddie Rosario;Julio Urías;-2%;81%;Strikeout Swinging
+t4;3-0;1;1--;4,(1-2) BCC.X;O;ATL;Orlando Arcia;Julio Urías;-2%;79%;Popfly: 2B (Deep 2B-1B)
+t4;3-0;2;1--;2,(0-1) CX;O;ATL;Michael Harris II;Julio Urías;-1%;78%;Groundout: 3B-SS/Forceout at 2B (SS-3B Hole); Harris to 1B
+;;;;;;;;;1 run, 1 hit, 1 error, 1 LOB. Braves 3, Dodgers 0.
+Bottom of the 4th, Dodgers Batting, Behind 0-3, Braves' Max Fried facing 2-3-4 
+b4;0-3;0;---;3,(0-2) CSX;;LAD;Freddie Freeman;Max Fried;-4%;73%;Single to 3B (Ground Ball to SS-3B Hole)
+b4;0-3;0;1--;6,(3-2) BFBCB1X;OO;LAD;Will Smith;Max Fried;9%;82%;Ground Ball Double Play: SS-2B-1B
+b4;0-3;2;---;5,(1-2) CBCFS;O;LAD;Amed Rosario;Max Fried;1%;83%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Braves 3, Dodgers 0.
+Top of the 5th, Braves Batting, Ahead 3-0, Dodgers' Julio Urías facing 1-2-3 
+t5;3-0;0;---;3,(0-2) FFX;;ATL;Ronald Acuna Jr.;Julio Urías;3%;86%;Double to LF (Line Drive to Deep LF-CF)
+t5;3-0;0;-2-;5,(2-2) *BBFFX;;ATL;Ozzie Albies;Julio Urías;1%;88%;Single to 3B (Ground Ball to SS-3B Hole)
+t5;3-0;0;12-;1,(0-1) C2;;ATL;Austin Riley;Julio Urías;2%;90%;Acuña Steals 3B
+t5;3-0;0;1-3;3,(1-1) C2.B1X;R;ATL;Austin Riley;Julio Urías;4%;94%;Double to RF (Fly Ball to Deep RF Line); Acuña Scores; Albies to 3B
+t5;4-0;0;-23;3,(0-2) FCX;O;ATL;Matt Olson;Julio Urías;-2%;92%;Popfly: 2B (Deep 1B)
+t5;4-0;1;-23;2,(1-0) BX;R;ATL;Marcell Ozuna;Julio Urías;3%;95%;Single to RF (Fly Ball to Short CF-RF); Albies Scores; Riley to 3B
+t5;5-0;1;1-3;4,(1-2) BFSX;OO;ATL;Travis d'Arnaud;Julio Urías;-3%;92%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;2 runs, 4 hits, 0 errors, 1 LOB. Braves 5, Dodgers 0.
+Bottom of the 5th, Dodgers Batting, Behind 0-5, Braves' Max Fried facing 5-6-7 
+b5;0-5;0;---;5,(2-2) BFBCX;O;LAD;Chris Taylor;Max Fried;2%;93%;Lineout: CF
+b5;0-5;1;---;2,(1-0) BX;O;LAD;Max Muncy;Max Fried;1%;94%;Lineout: RF (Deep RF)
+b5;0-5;2;---;4,(2-1) BBCX;O;LAD;Enrique Hernández;Max Fried;1%;95%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 5, Dodgers 0.
+Top of the 6th, Braves Batting, Ahead 5-0, Dodgers' Caleb Ferguson facing 7-8-9 
+;;;;;;;;;Caleb Ferguson replaces Julio Urías pitching
+t6;5-0;0;---;3,(0-2) .SC.X;O;ATL;Eddie Rosario;Caleb Ferguson;0%;94%;Groundout: 1B-P (Deep 1B)
+t6;5-0;1;---;4,(1-2) BFFX;O;ATL;Orlando Arcia;Caleb Ferguson;0%;94%;Groundout: SS-1B
+t6;5-0;2;---;2,(0-1) FX;;ATL;Michael Harris II;Caleb Ferguson;0%;94%;Single to 3B (Bunt to Weak 3B)
+t6;5-0;2;1--;4,(1-2) BSF.X;O;ATL;Ronald Acuna Jr.;Caleb Ferguson;-1%;94%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 5, Dodgers 0.
+Bottom of the 6th, Dodgers Batting, Behind 0-5, Braves' Max Fried facing 8-9-1 
+b6;0-5;0;---;4,(3-0) BBBB;;LAD;James Outman;Max Fried;-2%;91%;Walk
+b6;0-5;0;1--;4,(1-2) BC1FX;OO;LAD;Miguel Rojas;Max Fried;5%;96%;Ground Ball Double Play: SS-2B-1B
+b6;0-5;2;---;6,(3-2) BBBCCS;O;LAD;Mookie Betts;Max Fried;0%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 5, Dodgers 0.
+Top of the 7th, Braves Batting, Ahead 5-0, Dodgers' Ryan Brasier facing 2-3-4 
+;;;;;;;;;Ryan Brasier replaces Caleb Ferguson pitching
+t7;5-0;0;---;3,(1-1) .FBX;O;ATL;Ozzie Albies;Ryan Brasier;0%;96%;Groundout: 1B-P
+t7;5-0;1;---;2,(1-0) BX;O;ATL;Austin Riley;Ryan Brasier;0%;96%;Groundout: 1B-P (2B-1B)
+t7;5-0;2;---;2,(1-0) BX;O;ATL;Matt Olson;Ryan Brasier;0%;96%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 5, Dodgers 0.
+Bottom of the 7th, Dodgers Batting, Behind 0-5, Braves' Max Fried facing 2-3-4 
+b7;0-5;0;---;4,(0-2) SFFS;O;LAD;Freddie Freeman;Max Fried;1%;97%;Strikeout Swinging
+b7;0-5;1;---;3,(0-2) FSS;O;LAD;Will Smith;Max Fried;1%;98%;Strikeout Swinging
+b7;0-5;2;---;5,(2-2) BFBFX;;LAD;Amed Rosario;Max Fried;-1%;97%;Single to SS (Ground Ball)
+b7;0-5;2;1--;6,(3-2) *BFBC*B>B;;LAD;Chris Taylor;Max Fried;-1%;96%;Walk; Rosario to 2B
+b7;0-5;2;12-;3,(0-2) FCX;O;LAD;Max Muncy;Max Fried;2%;98%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Braves 5, Dodgers 0.
+Top of the 8th, Braves Batting, Ahead 5-0, Dodgers' Gus Varland facing 5-6-7 
+;;;;;;;;;Gus Varland replaces Ryan Brasier pitchingMichael Busch replaces Max Muncy playing 3B batting 6th
+t8;5-0;0;---;3,(0-2) ..CS.X;;ATL;Marcell Ozuna;Gus Varland;1%;99%;Double to LF (Ground Ball)
+t8;5-0;0;-2-;4,(1-2) BSFX;;ATL;Travis d'Arnaud;Gus Varland;0%;99%;Single to RF (Line Drive to Short CF-RF); Ozuna to 3B
+t8;5-0;0;1-3;1,(0-0) X;R;ATL;Eddie Rosario;Gus Varland;0%;99%;Single to LF (Line Drive to Deep LF-CF); Ozuna Scores; d'Arnaud to 2B
+t8;6-0;0;12-;7,(2-2) *BFF*BFFX;;ATL;Orlando Arcia;Gus Varland;0%;100%;Single to LF (Line Drive to Short LF); d'Arnaud to 3B; Rosario to 2B
+t8;6-0;0;123;3,(0-2) SF*S;O;ATL;Michael Harris II;Gus Varland;0%;99%;Strikeout Swinging
+t8;6-0;1;123;8,(2-2) BCFFFFBX;OO;ATL;Ronald Acuna Jr.;Gus Varland;-1%;99%;Ground Ball Double Play: 2B-1B (SS-2B)
+;;;;;;;;;1 run, 4 hits, 0 errors, 2 LOB. Braves 6, Dodgers 0.
+Bottom of the 8th, Dodgers Batting, Behind 0-6, Braves' Pierce Johnson facing 7-8-9 
+;;;;;;;;;Pierce Johnson replaces Max Fried pitching
+b8;0-6;0;---;4,(1-2) .CBFX;O;LAD;Enrique Hernández;Pierce Johnson;1%;99%;Popfly: 1B (Weak 2B-1B)
+b8;0-6;1;---;5,(1-2) BCSFX;;LAD;James Outman;Pierce Johnson;-1%;99%;Single to CF (Line Drive to Deep CF-RF)
+b8;0-6;1;1--;5,(0-2) SCFFX;;LAD;Miguel Rojas;Pierce Johnson;-1%;98%;Fielder's Choice ; Outman to 2B/Adv on E4; Rojas to 1B
+;;;;;;;;;David Peralta pinch hits for Mookie Betts (RF) batting 1st
+b8;0-6;1;12-;5,(1-2) .SFF*BC;O;LAD;David Peralta;Pierce Johnson;1%;99%;Strikeout Looking
+;;;;;;;;;Kolten Wong pinch hits for Freddie Freeman (1B) batting 2nd
+b8;0-6;2;12-;3,(0-2) .CFX;RRR;LAD;Kolten Wong;Pierce Johnson;-4%;95%;Home Run (Fly Ball to Deep RF); Outman Scores/unER; Rojas Scores/unER; Wong Scores/unER
+b8;3-6;2;---;4,(3-0) .BBBB;;LAD;Will Smith;Pierce Johnson;-1%;94%;Walk
+b8;3-6;2;1--;4,(1-2) *BCSX;;LAD;Amed Rosario;Pierce Johnson;-3%;91%;Single to LF (Line Drive); Smith to 2B
+;;;;;;;;;Michael Tonkin replaces Pierce Johnson pitching
+b8;3-6;2;12-;5,(2-2) .BSBFS;O;LAD;Chris Taylor;Michael Tonkin;5%;96%;Strikeout Swinging
+;;;;;;;;;3 runs, 3 hits, 1 error, 2 LOB. Braves 6, Dodgers 3.
+Top of the 9th, Braves Batting, Ahead 6-3, Dodgers' Gus Varland facing 2-3-4 
+;;;;;;;;;Enrique Hernández moves from 2B to 1B Kolten Wong moves from PH to 2B David Peralta moves from PH to RF 
+t9;6-3;0;---;5,(1-2) ...SFFBX;O;ATL;Ozzie Albies;Gus Varland;0%;96%;Flyball: LF (Short LF-CF)
+t9;6-3;1;---;3,(0-2) CCS;O;ATL;Austin Riley;Gus Varland;0%;96%;Strikeout Swinging
+t9;6-3;2;---;5,(2-2) SBC.B*S;O;ATL;Matt Olson;Gus Varland;0%;95%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 6, Dodgers 3.
+Bottom of the 9th, Dodgers Batting, Behind 3-6, Braves' Kirby Yates facing 6-7-8 
+;;;;;;;;;Kirby Yates replaces Michael Tonkin pitching
+b9;3-6;0;---;4,(1-2) .CFBS;O;LAD;Michael Busch;Kirby Yates;3%;98%;Strikeout Swinging
+b9;3-6;1;---;9,(2-2) BFS.FBFFFX;O;LAD;Enrique Hernández;Kirby Yates;1%;99%;Lineout: RF
+b9;3-6;2;---;5,(3-1) CBBBB;;LAD;James Outman;Kirby Yates;-1%;98%;Walk
+;;;;;;;;;Jason Heyward pinch hits for Miguel Rojas (SS) batting 9th
+b9;3-6;2;1--;2,(0-1) .>F>C;;LAD;Jason Heyward;Kirby Yates;0%;98%;Defensive Indifference; Outman to 2B
+b9;3-6;2;-2-;3,(0-2) .>F>C.X;O;LAD;Jason Heyward;Kirby Yates;2%;100%;Flyball: CF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Braves 6, Dodgers 3.

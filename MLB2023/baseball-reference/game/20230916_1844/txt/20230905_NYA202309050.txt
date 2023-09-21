@@ -1,0 +1,259 @@
+
+Scorebox Meta
+20230905
+7:05 p.m. Local
+31553
+Yankee Stadium III
+152
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;0;0;0;0;0;1;0;0;0;1;9;0
+https://cdn.ssref.net/req/202309121/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;1;0;0;0;0;2;0;2;X;5;6;0
+
+Batting home
+DJ LeMahieu;/players/l/lemahdj01.shtml;1B;4;1;1;1;0;1;4;.241;.321;.403;.724;21;12;0.019; 0.76;0.097;-0.078; 0.00%; 0.04; 0.1;6;0;HR,GDP
+Aaron Judge;/players/j/judgeaa01.shtml;RF;1;1;1;0;3;0;4;.264;.394;.620;1.014;18;5;0.112; 0.73;0.112;0.000; 0.00%; 0.04; 1.4;3;0;
+Jasson Domínguez;/players/d/dominja01.shtml;CF;4;1;1;0;0;1;4;.235;.235;.647;.882;13;10;-0.076; 1.18;0.027;-0.103;-0.00%; 0.06; 0.1;1;0;2B
+Gleyber Torres;/players/t/torregl01.shtml;2B;4;1;1;2;0;0;4;.272;.339;.466;.805;12;10;-0.075; 0.80;0.017;-0.093;-0.00%; 0.04; -0.3;4;0;2B,CS
+Giancarlo Stanton;/players/s/stantmi03.shtml;DH;4;1;1;2;0;3;4;.205;.281;.448;.729;17;11;0.241; 0.73;0.285;-0.044; 0.01%; 0.04; 0.9;;;HR
+Anthony Volpe;/players/v/volpean01.shtml;SS;3;0;0;0;1;1;4;.217;.295;.405;.700;16;8;-0.029; 0.42;0.007;-0.037;-0.00%; 0.02; -0.4;1;3;
+Everson Pereira;/players/p/pereiev01.shtml;LF;3;0;1;0;0;1;3;.143;.222;.184;.406;12;8;-0.004; 0.50;0.022;-0.025;0%; 0.03; -0.1;2;0;
+Oswald Peraza;/players/p/perazos02.shtml;3B;3;0;0;0;0;2;3;.156;.264;.188;.451;10;7;-0.058; 0.77;0.000;-0.058;-0.00%; 0.04; -0.8;0;3;
+Ben Rortvedt;/players/r/rortvbe01.shtml;C;2;0;0;0;1;1;3;.109;.234;.236;.471;12;6;-0.006; 0.56;0.023;-0.029;0%; 0.03; -0.1;10;0;
+Gerrit Cole;/players/c/colege01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Tommy Kahnle;/players/k/kahnlto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jonathan Loáisiga;/players/l/loaisjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Clay Holmes;/players/h/holmecl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jasson Domínguez (1, off Brendan White); Gleyber Torres (23, off Brendan White).
+
+
+HR: DJ LeMahieu (15, off Alex Faedo, 1st inn, 0 on, 0 outs to Deep CF-RF); Giancarlo Stanton (22, off José Cisnero, 6th inn, 1 on, 2 outs to Deep LF-CF).
+
+
+TB: DJ LeMahieu 4; Giancarlo Stanton 4; Gleyber Torres 2; Jasson Domínguez 2; Everson Pereira; Aaron Judge.
+
+
+GIDP: DJ LeMahieu (11).
+
+
+RBI: Giancarlo Stanton 2 (55); Gleyber Torres 2 (60); DJ LeMahieu (38).
+
+
+2-out RBI: Giancarlo Stanton 2.
+
+
+Team LOB: 4.
+With RISP: 1 for 2.
+
+Batting away
+Akil Baddoo;/players/b/baddoak01.shtml;LF;4;0;1;0;0;1;4;.227;.317;.368;.685;15;10;-0.021; 1.13;0.051;-0.073;-0.00%; 0.10; -0.3;0;0;
+Zach McKinstry;/players/m/mckinza01.shtml;2B;4;0;0;0;0;1;4;.234;.305;.356;.661;17;12;-0.112; 1.17;0.000;-0.112;-0.01%; 0.10; -0.9;4;3;
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;4;0;1;0;0;1;4;.230;.316;.439;.756;14;10;-0.099; 1.17;0.012;-0.111;-0.01%; 0.10; -0.7;5;0;
+Kerry Carpenter;/players/c/carpeke01.shtml;RF;4;1;2;0;0;1;4;.291;.354;.528;.881;15;10;0.117; 1.09;0.171;-0.054; 0.01%; 0.09; 0.8;1;0;3B
+Miguel Cabrera;/players/c/cabremi01.shtml;DH;3;0;1;1;0;0;3;.258;.322;.349;.671;8;6;-0.004; 1.43;0.065;-0.069;0%; 0.12; -0.2;;;
+Tyler Nevin;/players/n/nevinty01.shtml;PR-DH-DH;1;0;0;0;0;1;1;.132;.242;.189;.431;4;3;-0.014; 0.53;0.000;-0.014;-0.00%; 0.05; -0.1;;;
+Andre Lipcius;/players/l/lipcian01.shtml;3B;4;0;1;0;0;0;4;.182;.182;.455;.636;13;8;-0.068; 0.99;0.016;-0.084;-0.00%; 0.08; -0.7;1;2;
+Parker Meadows;/players/m/meadopa01.shtml;CF;4;0;0;0;0;2;4;.265;.368;.408;.777;21;13;-0.094; 0.92;0.000;-0.094;-0.01%; 0.08; -0.9;2;0;
+Javier Báez;/players/b/baezja01.shtml;SS;4;0;3;0;0;1;4;.222;.265;.321;.586;16;10;0.032; 0.76;0.068;-0.036; 0.00%; 0.07; 0.4;1;4;
+Jake Rogers;/players/r/rogerja03.shtml;C;4;0;0;0;0;2;4;.206;.277;.419;.696;16;11;-0.112; 1.11;0.000;-0.112;-0.01%; 0.09; -1.1;10;0;
+Alex Faedo;/players/f/faedoal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Will Vest;/players/v/vestwi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joey Wentz;/players/w/wentzjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Cisnero;/players/c/cisnejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Miguel Díaz;/players/d/diazmi02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brendan White;/players/w/whitebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+3B: Kerry Carpenter (2, off Gerrit Cole).
+
+
+TB: Kerry Carpenter 4; Javier Báez 3; Spencer Torkelson; Andre Lipcius; Miguel Cabrera; Akil Baddoo.
+
+
+RBI: Miguel Cabrera (28).
+
+
+Team LOB: 8.
+With RISP: 1 for 4.
+
+Pitching home
+Gerrit Cole;/players/c/colege01.shtml; W (13-4); 6 ;8;1;1;0;7;0;2.90;26;104;69;45;11;13;8;11;5;0;59;;;0.211; 1.21; 0.01%; 0.06; 2.1
+Tommy Kahnle;/players/k/kahnlto01.shtml; H (13); 1 ;0;0;0;0;1;0;2.57;3;13;9;4;2;3;2;0;0;0;;0;0;0.072; 0.94; 0.00%; 0.05; 0.5
+Jonathan Loáisiga;/players/l/loaisjo01.shtml; H (5); 1 ;0;0;0;0;1;0;0.56;3;9;7;4;0;3;2;0;0;0;;0;0;0.077; 1.00; 0.00%; 0.05; 0.5
+Clay Holmes;/players/h/holmecl01.shtml;Clay Holmes; 1 ;1;0;0;0;1;0;3.17;4;13;8;5;1;2;1;2;1;0;;0;0;0.015; 0.19; 0.00%; 0.01; 0.5
+
+Pitching away
+Alex Faedo;/players/f/faedoal01.shtml;Alex Faedo; 2.2;3;1;1;1;4;1;4.83;12;40;26;14;6;6;3;4;2;0;51;;;0.015; 0.85; 0.00%; 0.07; 0.3
+Will Vest;/players/v/vestwi01.shtml;Will Vest; 1.1;0;0;0;0;2;0;3.44;4;20;13;6;2;5;0;2;0;0;;1;0;0.070; 0.66; 0.00%; 0.06; 0.8
+Joey Wentz;/players/w/wentzjo01.shtml; L (2-11); 1.1;0;1;1;2;0;0;6.65;5;21;9;5;2;2;3;0;0;0;;0;0;0.047; 1.20; 0.00%; 0.10; 0.5
+José Cisnero;/players/c/cisnejo01.shtml;José Cisnero; 0.2;1;1;1;1;1;1;5.33;4;16;8;3;2;3;1;1;1;0;;1;1;-0.236; 0.95;-0.01%; 0.08; -1.5
+Miguel Díaz;/players/d/diazmi02.shtml;Miguel Díaz; 1 ;0;0;0;0;2;0;0.00;3;14;9;6;2;1;1;0;0;0;;0;0;0.025; 0.32; 0.00%; 0.03; 0.5
+Brendan White;/players/w/whitebr01.shtml;Brendan White; 1 ;2;2;2;1;1;0;4.76;5;20;12;6;3;3;0;3;3;0;;0;0;-0.046; 0.20;-0.00%; 0.02; -1.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: Brendan White (1; Gleyber Torres, 3rd base (CS)).
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: Brendan White (1; Gleyber Torres, 3rd base (CS)).
+
+section_content
+Umpires: HP - Sean Barber, 1B - Mike Muchlinski, 2B - Alan Porter, 3B - Nate Tomlinson, LF - (none), RF - (none).
+Time of Game: 2:32.
+Attendance: 31,553.
+Field Condition: Unknown.
+Start Time Weather: 87° F, Wind 6mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Tigers
+1;Akil Baddoo;/players/b/baddoak01.shtml;LF
+2;Zach McKinstry;/players/m/mckinza01.shtml;2B
+3;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+4;Kerry Carpenter;/players/c/carpeke01.shtml;RF
+5;Miguel Cabrera;/players/c/cabremi01.shtml;DH
+6;Andre Lipcius;/players/l/lipcian01.shtml;3B
+7;Parker Meadows;/players/m/meadopa01.shtml;CF
+8;Javier Báez;/players/b/baezja01.shtml;SS
+9;Jake Rogers;/players/r/rogerja03.shtml;C
+; Alex Faedo;/players/f/faedoal01.shtml;P
+Yankees
+1;DJ LeMahieu;/players/l/lemahdj01.shtml;1B
+2;Aaron Judge;/players/j/judgeaa01.shtml;RF
+3;Jasson Domínguez;/players/d/dominja01.shtml;CF
+4;Gleyber Torres;/players/t/torregl01.shtml;2B
+5;Giancarlo Stanton;/players/s/stantmi03.shtml;DH
+6;Anthony Volpe;/players/v/volpean01.shtml;SS
+7;Everson Pereira;/players/p/pereiev01.shtml;LF
+8;Oswald Peraza;/players/p/perazos02.shtml;3B
+9;Ben Rortvedt;/players/r/rortvbe01.shtml;C
+; Gerrit Cole;/players/c/colege01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b6;1-1;2;1--;3,(1-1) BCX;RR;NYY;Giancarlo Stanton;José Cisnero;29%;82%;Home Run (Line Drive to Deep LF-CF); Torres Scores
+t6;0-1;0;---;1,(0-0) X;;DET;Kerry Carpenter;Gerrit Cole;-15%;51%;Triple to RF (Line Drive to RF Line)
+b1;0-0;0;---;6,(3-2) BCS.BBX;R;NYY;DJ LeMahieu;Alex Faedo;10%;65%;Home Run (Fly Ball to Deep CF-RF)
+t6;0-1;0;--3;2,(1-0) BX;R;DET;Miguel Cabrera;Gerrit Cole;-7%;45%;Single to RF (Ground Ball thru 2B-1B); Carpenter Scores
+t5;0-1;1;12-;5,(2-2) >FBF*BC;O;DET;Zach McKinstry;Gerrit Cole;6%;65%;Strikeout Looking
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Tigers Batting, Tied 0-0, Yankees' Gerrit Cole facing 1-2-3 
+t1;0-0;0;---;7,(2-2) CBS.BFFX;O;DET;Akil Baddoo;Gerrit Cole;2%;52%;Flyball: LF (LF Line)
+t1;0-0;1;---;5,(1-2) BCFFX;O;DET;Zach McKinstry;Gerrit Cole;2%;54%;Groundout: 3B-1B (Weak 3B)
+t1;0-0;2;---;5,(2-2) BCBFX;;DET;Spencer Torkelson;Gerrit Cole;-1%;53%;Single to LF (Ground Ball thru SS-3B Hole)
+t1;0-0;2;1--;4,(1-2) CF*BX;;DET;Kerry Carpenter;Gerrit Cole;-3%;50%;Single to RF (Ground Ball); Torkelson to 3B
+t1;0-0;2;1-3;3,(0-2) SFX;O;DET;Miguel Cabrera;Gerrit Cole;5%;55%;Groundout: SS-2B/Forceout at 2B; Cabrera to 1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Tigers 0, Yankees 0.
+Bottom of the 1st, Yankees Batting, Tied 0-0, Tigers' Alex Faedo facing 1-2-3 
+b1;0-0;0;---;6,(3-2) BCS.BBX;R;NYY;DJ LeMahieu;Alex Faedo;10%;65%;Home Run (Fly Ball to Deep CF-RF)
+b1;1-0;0;---;2,(1-0) BX;;NYY;Aaron Judge;Alex Faedo;3%;68%;Single to LF (Line Drive to Deep LF)
+b1;1-0;0;1--;4,(0-2) SFFS;O;NYY;Jasson Domínguez;Alex Faedo;-3%;65%;Strikeout Swinging
+b1;1-0;1;1--;2,(0-1) FX;O;NYY;Gleyber Torres;Alex Faedo;-2%;62%;Flyball: CF (Deep CF-RF)
+b1;1-0;2;1--;3,(0-2) CF*S;O;NYY;Giancarlo Stanton;Alex Faedo;-2%;60%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Tigers 0, Yankees 1.
+Top of the 2nd, Tigers Batting, Behind 0-1, Yankees' Gerrit Cole facing 6-7-8 
+t2;0-1;0;---;3,(2-0) BBX;O;DET;Andre Lipcius;Gerrit Cole;2%;63%;Flyball: LF (LF-CF)
+t2;0-1;1;---;3,(2-0) BBX;O;DET;Parker Meadows;Gerrit Cole;2%;64%;Flyball: CF (Deep CF)
+t2;0-1;2;---;2,(0-1) CX;;DET;Javier Báez;Gerrit Cole;-1%;63%;Single to LF (Line Drive)
+t2;0-1;2;1--;4,(1-2) S*BFS;O;DET;Jake Rogers;Gerrit Cole;2%;66%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Tigers 0, Yankees 1.
+Bottom of the 2nd, Yankees Batting, Ahead 1-0, Tigers' Alex Faedo facing 6-7-8 
+b2;1-0;0;---;2,(1-0) BX;O;NYY;Anthony Volpe;Alex Faedo;-2%;64%;Groundout: SS-1B
+;;;;;;;;;Force Play Challenged by NYY manager (Aaron Boone): Original call upheld upon review.
+b2;1-0;1;---;2,(0-1) FX;;NYY;Everson Pereira;Alex Faedo;2%;66%;Single to LF (Line Drive to Short LF)
+b2;1-0;1;1--;4,(1-2) CBSS;O;NYY;Oswald Peraza;Alex Faedo;-3%;63%;Strikeout Swinging
+b2;1-0;2;1--;2,(0-1) C1X;O;NYY;Ben Rortvedt;Alex Faedo;-2%;61%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Tigers 0, Yankees 1.
+Top of the 3rd, Tigers Batting, Behind 0-1, Yankees' Gerrit Cole facing 1-2-3 
+t3;0-1;0;---;1,(0-0) X;O;DET;Akil Baddoo;Gerrit Cole;3%;64%;Flyball: RF (Short RF)
+t3;0-1;1;---;2,(0-1) CX;O;DET;Zach McKinstry;Gerrit Cole;2%;66%;Lineout: 2B (Deep 2B-1B)
+t3;0-1;2;---;5,(1-2) BFF.FS;O;DET;Spencer Torkelson;Gerrit Cole;1%;67%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Yankees 1.
+Bottom of the 3rd, Yankees Batting, Ahead 1-0, Tigers' Alex Faedo facing 1-2-3 
+b3;1-0;0;---;6,(3-2) CBBFBT;O;NYY;DJ LeMahieu;Alex Faedo;-2%;65%;Strikeout Swinging
+b3;1-0;1;---;5,(3-1) CBBBB;;NYY;Aaron Judge;Alex Faedo;2%;67%;Walk
+b3;1-0;1;1--;2,(1-0) BX;O;NYY;Jasson Domínguez;Alex Faedo;-3%;64%;Groundout: 2B-SS/Forceout at 2B; Domínguez to 1B
+;;;;;;;;;Will Vest replaces Alex Faedo pitching
+b3;1-0;2;1--;4,(1-2) .1CFBX;O;NYY;Gleyber Torres;Will Vest;-2%;62%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Tigers 0, Yankees 1.
+Top of the 4th, Tigers Batting, Behind 0-1, Yankees' Gerrit Cole facing 4-5-6 
+t4;0-1;0;---;7,(3-2) CBBFFBC;O;DET;Kerry Carpenter;Gerrit Cole;3%;65%;Strikeout Looking
+t4;0-1;1;---;3,(1-1) CBX;O;DET;Miguel Cabrera;Gerrit Cole;2%;67%;Groundout: P-1B (Short 1B Line)
+t4;0-1;2;---;1,(0-0) X;;DET;Andre Lipcius;Gerrit Cole;-2%;66%;Single to CF (Ground Ball thru SS-2B)
+t4;0-1;2;1--;6,(3-2) *BBBCF>X;O;DET;Parker Meadows;Gerrit Cole;3%;69%;Lineout: SS (Deep SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Tigers 0, Yankees 1.
+Bottom of the 4th, Yankees Batting, Ahead 1-0, Tigers' Will Vest facing 5-6-7 
+b4;1-0;0;---;5,(2-2) CCBBC;O;NYY;Giancarlo Stanton;Will Vest;-2%;66%;Strikeout Looking
+b4;1-0;1;---;6,(2-2) BBFS.FC;O;NYY;Anthony Volpe;Will Vest;-2%;65%;Strikeout Looking
+b4;1-0;2;---;5,(2-2) SBBFX;O;NYY;Everson Pereira;Will Vest;-1%;64%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Yankees 1.
+Top of the 5th, Tigers Batting, Behind 0-1, Yankees' Gerrit Cole facing 8-9-1 
+t5;0-1;0;---;6,(2-2) BSBCFX;;DET;Javier Báez;Gerrit Cole;-5%;59%;Single to LF (Ground Ball thru SS-3B Hole)
+t5;0-1;0;1--;4,(1-2) SB>FS;O;DET;Jake Rogers;Gerrit Cole;5%;63%;Strikeout Swinging
+t5;0-1;1;1--;3,(2-0) B>B1X;;DET;Akil Baddoo;Gerrit Cole;-5%;58%;Single to RF (Line Drive to Deep RF); Báez to 2B
+t5;0-1;1;12-;5,(2-2) >FBF*BC;O;DET;Zach McKinstry;Gerrit Cole;6%;65%;Strikeout Looking
+t5;0-1;2;12-;2,(1-0) BX;O;DET;Spencer Torkelson;Gerrit Cole;6%;71%;Flyball: RF (CF-RF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Tigers 0, Yankees 1.
+Bottom of the 5th, Yankees Batting, Ahead 1-0, Tigers' Joey Wentz facing 8-9-1 
+;;;;;;;;;Joey Wentz replaces Will Vest pitching
+b5;1-0;0;---;3,(2-0) .BBX;O;NYY;Oswald Peraza;Joey Wentz;-2%;69%;Groundout: SS-1B
+b5;1-0;1;---;5,(3-1) BBBCB;;NYY;Ben Rortvedt;Joey Wentz;2%;71%;Walk
+b5;1-0;1;1--;3,(0-2) CFX;OO;NYY;DJ LeMahieu;Joey Wentz;-5%;66%;Ground Ball Double Play: SS-2B-1B (Weak SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Yankees 1.
+Top of the 6th, Tigers Batting, Behind 0-1, Yankees' Gerrit Cole facing 4-5-6 
+t6;0-1;0;---;1,(0-0) X;;DET;Kerry Carpenter;Gerrit Cole;-15%;51%;Triple to RF (Line Drive to RF Line)
+t6;0-1;0;--3;2,(1-0) BX;R;DET;Miguel Cabrera;Gerrit Cole;-7%;45%;Single to RF (Ground Ball thru 2B-1B); Carpenter Scores
+;;;;;;;;;Tyler Nevin pinch runs for Miguel Cabrera (DH) batting 5th
+t6;1-1;0;1--;7,(3-2) .SB1FFBBX;O;DET;Andre Lipcius;Gerrit Cole;5%;50%;Foul Popfly: 2B (1B into Foul Terr.)
+t6;1-1;1;1--;8,(2-2) BFFFFFBS;O;DET;Parker Meadows;Gerrit Cole;4%;54%;Strikeout Swinging
+t6;1-1;2;1--;5,(2-2) 1CB*BFS;O;DET;Javier Báez;Gerrit Cole;4%;58%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Tigers 1, Yankees 1.
+Bottom of the 6th, Yankees Batting, Tied 1-1, Tigers' Joey Wentz facing 2-3-4 
+b6;1-1;0;---;5,(3-1) .FBBBB;;NYY;Aaron Judge;Joey Wentz;5%;63%;Walk
+b6;1-1;0;1--;5,(2-2) SBS*BX;O;NYY;Jasson Domínguez;Joey Wentz;-5%;58%;Groundout: 3B-2B/Forceout at 2B (Weak 3B); Domínguez to 1B
+;;;;;;;;;José Cisnero replaces Joey Wentz pitching
+b6;1-1;1;1--;3,(1-1) .CBX;O;NYY;Gleyber Torres;José Cisnero;-4%;54%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Torres to 1B
+b6;1-1;2;1--;3,(1-1) BCX;RR;NYY;Giancarlo Stanton;José Cisnero;29%;82%;Home Run (Line Drive to Deep LF-CF); Torres Scores
+b6;3-1;2;---;5,(3-1) .BBBCB;;NYY;Anthony Volpe;José Cisnero;1%;83%;Walk
+b6;3-1;2;1--;5,(2-2) SS1*BBT;O;NYY;Everson Pereira;José Cisnero;-1%;81%;Strikeout Swinging
+;;;;;;;;;2 runs, 1 hit, 0 errors, 1 LOB. Tigers 1, Yankees 3.
+Top of the 7th, Tigers Batting, Behind 1-3, Yankees' Tommy Kahnle facing 9-1-2 
+;;;;;;;;;Tommy Kahnle replaces Gerrit Cole pitching
+t7;1-3;0;---;4,(1-2) .FBCX;O;DET;Jake Rogers;Tommy Kahnle;3%;85%;Groundout: SS-1B (Weak SS-2B)
+t7;1-3;1;---;4,(1-2) CSBT;O;DET;Akil Baddoo;Tommy Kahnle;2%;87%;Strikeout Swinging
+t7;1-3;2;---;5,(2-2) BCSBX;O;DET;Zach McKinstry;Tommy Kahnle;1%;89%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 1, Yankees 3.
+Bottom of the 7th, Yankees Batting, Ahead 3-1, Tigers' Miguel Díaz facing 8-9-1 
+;;;;;;;;;Miguel Díaz replaces José Cisnero pitching
+b7;3-1;0;---;3,(0-2) .FF.S;O;NYY;Oswald Peraza;Miguel Díaz;-1%;88%;Strikeout Swinging
+b7;3-1;1;---;5,(2-2) LBFBT;O;NYY;Ben Rortvedt;Miguel Díaz;-1%;87%;Strikeout Swinging
+b7;3-1;2;---;6,(3-2) BCBS.BX;O;NYY;DJ LeMahieu;Miguel Díaz;-1%;86%;Groundout: SS-1B (Weak SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 1, Yankees 3.
+Top of the 8th, Tigers Batting, Behind 1-3, Yankees' Jonathan Loáisiga facing 3-4-5 
+;;;;;;;;;Jonathan Loáisiga replaces Tommy Kahnle pitching
+t8;1-3;0;---;2,(0-1) .CX;O;DET;Spencer Torkelson;Jonathan Loáisiga;4%;90%;Groundout: SS-1B (Weak SS)
+t8;1-3;1;---;3,(1-1) BFX;O;DET;Kerry Carpenter;Jonathan Loáisiga;2%;92%;Groundout: 3B-1B (Deep SS-3B Hole)
+t8;1-3;2;---;4,(1-2) FCBC;O;DET;Tyler Nevin;Jonathan Loáisiga;1%;94%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 1, Yankees 3.
+Bottom of the 8th, Yankees Batting, Ahead 3-1, Tigers' Brendan White facing 2-3-4 
+;;;;;;;;;Brendan White replaces Miguel Díaz pitching
+b8;3-1;0;---;6,(3-2) .CBFBBB;;NYY;Aaron Judge;Brendan White;1%;95%;Walk
+b8;3-1;0;1--;2,(0-1) CX;;NYY;Jasson Domínguez;Brendan White;3%;97%;Double to RF (Line Drive to Deep CF-RF); Judge to 3B
+b8;3-1;0;-23;3,(0-2) FS.X;RR;NYY;Gleyber Torres;Brendan White;2%;99%;Double to LF (Line Drive to LF Line); Judge Scores; Domínguez Scores
+b8;5-1;0;-2-;6,(3-2) BBFBSS;O;NYY;Giancarlo Stanton;Brendan White;0%;99%;Strikeout Swinging
+b8;5-1;1;-2-;1,(1-0) B2;O;NYY;Anthony Volpe;Brendan White;0%;99%;Torres Caught Stealing (PO) 3B (P-2B)
+b8;5-1;2;---;3,(1-1) B2.CX;O;NYY;Anthony Volpe;Brendan White;0%;98%;Lineout: 3B (Weak 3B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Tigers 1, Yankees 5.
+Top of the 9th, Tigers Batting, Behind 1-5, Yankees' Clay Holmes facing 6-7-8 
+;;;;;;;;;Clay Holmes replaces Jonathan Loáisiga pitching
+t9;1-5;0;---;2,(0-1) .FX;O;DET;Andre Lipcius;Clay Holmes;1%;99%;Lineout: 2B (Deep SS-2B)
+t9;1-5;1;---;4,(1-2) CFBS;O;DET;Parker Meadows;Clay Holmes;0%;100%;Strikeout Swinging
+t9;1-5;2;---;3,(2-0) BBX;;DET;Javier Báez;Clay Holmes;0%;100%;Single to CF (Ground Ball thru SS-2B)
+t9;1-5;2;1--;4,(2-1) B*BCX;O;DET;Jake Rogers;Clay Holmes;0%;100%;Flyball: RF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Tigers 1, Yankees 5.

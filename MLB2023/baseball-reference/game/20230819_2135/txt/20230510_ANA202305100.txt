@@ -1,0 +1,266 @@
+
+Scorebox Meta
+20230510
+1:07 p.m. Local
+20420
+Angel Stadium of Anaheim
+158
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/HOU-2023.png;/teams/HOU/2023.shtml;1;0;0;4;0;0;0;0;0;5;8;0
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;2;0;0;0;0;0;0;2;4;8;1
+
+Batting home
+Taylor Ward;/players/w/wardta01.shtml;LF;4;0;0;0;0;3;4;.234;.325;.348;.673;18;12;-0.089; 0.84;0.000;-0.089;-0.07%; 1.02; -0.9;4;0;
+Mike Trout;/players/t/troutmi01.shtml;CF;4;1;1;0;0;3;4;.288;.371;.525;.896;18;11;0.003; 0.68;0.048;-0.045; 0.00%; 0.82; -0.1;0;0;
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;4;1;1;2;0;2;4;.293;.359;.529;.888;17;11;0.069; 0.93;0.116;-0.047; 0.05%; 1.12; 1.1;;;HR
+Anthony Rendon;/players/r/rendoan01.shtml;3B;4;1;2;0;0;1;4;.292;.418;.354;.772;9;7;0.130; 1.57;0.175;-0.046; 0.09%; 1.90; 0.4;0;1;
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;2;1;2;2;2;0;4;.257;.316;.521;.838;19;11;0.402; 2.04;0.402;0.000; 0.29%; 2.46; 2.6;2;0;HR
+Brandon Drury;/players/d/drurybr01.shtml;2B;4;0;0;0;0;2;4;.224;.261;.472;.733;18;10;-0.290; 2.28;0.000;-0.290;-0.21%; 2.76; -1.6;1;5;GDP
+Matt Thaiss;/players/t/thaisma01.shtml;C;4;0;1;0;0;2;4;.304;.389;.413;.802;16;10;-0.199; 2.46;0.022;-0.221;-0.14%; 2.98; -0.7;10;0;
+Gio Urshela;/players/u/urshegi01.shtml;1B;4;0;1;0;0;0;4;.302;.323;.341;.664;14;12;-0.206; 2.28;0.032;-0.238;-0.15%; 2.76; -0.9;7;2;GDP
+Zach Neto;/players/n/netoza01.shtml;SS;3;0;0;0;0;1;3;.235;.319;.321;.640;14;9;-0.067; 0.88;0.000;-0.067;-0.05%; 1.07; -0.7;1;0;
+Griffin Canning;/players/c/cannigr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jimmy Herget;/players/h/hergeji01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Tepera;/players/t/teperry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chris Devenski;/players/d/devench02.shtml;P;;;;;;;;;;;;;;;;;;;;;2;0;
+Tucker Davidson;/players/d/davidtu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Hunter Renfroe (10, off Cristian Javier, 2nd inn, 1 on, 0 outs to Deep LF); Shohei Ohtani (8, off Ryan Pressly, 9th inn, 1 on, 0 outs to Deep CF-RF).
+
+
+TB: Hunter Renfroe 5; Shohei Ohtani 4; Anthony Rendon 2; Matt Thaiss; Mike Trout; Gio Urshela.
+
+
+GIDP: Brandon Drury (4); Gio Urshela (5).
+
+
+RBI: Hunter Renfroe 2 (26); Shohei Ohtani 2 (24).
+
+
+Team LOB: 4.
+With RISP: 0 for 3.
+
+Batting away
+Jeremy Peña;/players/p/penaje02.shtml;SS;4;0;2;2;1;0;5;.247;.295;.432;.726;19;10;0.123; 1.09;0.179;-0.056; 0.08%; 1.12; 1.6;2;1;
+Alex Bregman;/players/b/bregmal01.shtml;3B;4;0;0;0;1;0;5;.207;.327;.336;.663;19;13;-0.052; 0.68;0.012;-0.063;-0.03%; 0.69; -0.9;0;3;GDP
+Yordan Alvarez;/players/a/alvaryo01.shtml;LF;4;1;1;1;0;0;4;.283;.388;.558;.946;16;11;0.019; 0.88;0.099;-0.080; 0.01%; 0.91; -0.3;1;0;HR
+Kyle Tucker;/players/t/tuckeky01.shtml;DH;4;1;1;0;0;1;4;.264;.355;.434;.789;10;8;0.003; 0.49;0.032;-0.030; 0.00%; 0.50; -0.3;;;
+Corey Julks;/players/j/julksco01.shtml;RF;4;1;1;0;0;1;4;.260;.265;.365;.630;16;11;0.061; 0.77;0.097;-0.036; 0.04%; 0.79; 0.3;1;0;
+Yainer Diaz;/players/d/diazya02.shtml;1B;3;0;1;1;0;2;4;.220;.255;.293;.548;15;11;-0.008; 0.85;0.014;-0.022;-0.01%; 0.88; -0.2;4;0;SF
+David Hensley;/players/h/henslda01.shtml;2B;3;1;0;0;1;2;4;.145;.244;.203;.446;14;8;-0.014; 0.68;0.015;-0.029;-0.01%; 0.69; -0.4;2;2;
+Jake Meyers;/players/m/meyerja02.shtml;CF;4;1;1;1;0;2;4;.250;.308;.375;.683;18;10;0.073; 0.95;0.115;-0.042; 0.04%; 0.97; 0.3;3;0;
+Martín Maldonado;/players/m/maldoma01.shtml;C;3;0;1;0;0;2;4;.181;.269;.277;.546;15;10;0.046; 0.72;0.058;-0.012; 0.03%; 0.74; 0.2;14;0;HBP
+Cristian Javier;/players/j/javiecr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Hector Neris;/players/n/nerishe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Abreu;/players/a/abreubr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Pressly;/players/p/pressry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Yordan Alvarez (8, off Griffin Canning, 1st inn, 0 on, 2 outs to Deep CF-RF).
+
+
+SF: Yainer Diaz (3, off Griffin Canning).
+
+
+HBP: Martín Maldonado (3, by Griffin Canning).
+
+
+TB: Yordan Alvarez 4; Jeremy Peña 2; Martín Maldonado; Yainer Diaz; Corey Julks; Kyle Tucker; Jake Meyers.
+
+
+GIDP: Alex Bregman (5).
+
+
+RBI: Jeremy Peña 2 (20); Yordan Alvarez (34); Jake Meyers (11); Yainer Diaz (3).
+
+
+2-out RBI: Jeremy Peña 2; Yordan Alvarez; Jake Meyers.
+
+
+Team LOB: 6.
+With RISP: 2 for 3.
+
+Pitching home
+Griffin Canning;/players/c/cannigr01.shtml; L (2-1); 3.2;5;5;5;1;3;1;6.38;18;64;41;21;4;16;6;7;2;0;33;;;-0.214; 1.07;-0.15%; 1.30; -1.7
+Jimmy Herget;/players/h/hergeji01.shtml;Jimmy Herget; 1.1;2;0;0;1;2;0;5.40;7;28;19;9;6;4;0;4;2;0;;3;2;-0.110; 1.02;-0.08%; 1.23; -0.7
+Ryan Tepera;/players/t/teperry01.shtml;Ryan Tepera; 1 ;1;0;0;0;2;0;5.63;4;21;13;6;6;1;2;0;0;0;;0;0;0.026; 0.36; 0.02%; 0.44; 0.5
+Chris Devenski;/players/d/devench02.shtml;Chris Devenski; 2 ;0;0;0;0;2;0;3.24;6;18;13;5;3;5;3;1;1;0;;0;0;0.038; 0.24; 0.03%; 0.29; 1.0
+Tucker Davidson;/players/d/davidtu01.shtml;Tucker Davidson; 1 ;0;0;0;1;1;0;5.60;3;11;6;3;2;1;1;0;0;0;;0;0;0.009; 0.20; 0.01%; 0.24; 0.5
+
+Pitching away
+Cristian Javier;/players/j/javiecr01.shtml; W (3-1); 6 ;3;2;2;1;11;1;3.47;21;93;59;26;20;13;2;7;3;0;68;;;0.095; 0.76; 0.06%; 0.78; 1.1
+Hector Neris;/players/n/nerishe01.shtml; H (4); 1 ;0;0;0;1;0;0;1.69;3;9;5;3;1;1;1;1;0;0;;0;0;0.057; 1.09; 0.03%; 1.12; 0.5
+Bryan Abreu;/players/a/abreubr01.shtml; H (5); 1 ;1;0;0;0;2;0;1.47;4;20;14;5;7;2;1;1;1;0;;0;0;0.054; 0.99; 0.03%; 1.02; 0.5
+Ryan Pressly;/players/p/pressry01.shtml; S (6); 1 ;4;2;2;0;1;1;4.11;7;21;15;12;2;1;4;2;0;0;;0;0;0.043; 4.53; 0.03%; 4.64; -1.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Griffin Canning (2; Martín Maldonado).
+IBB: None.
+Pickoffs: Griffin Canning (0; Corey Julks, 1st base).
+
+Balks: None.
+WP: None.
+HBP: Griffin Canning (2; Martín Maldonado).
+IBB: None.
+Pickoffs: Griffin Canning (0; Corey Julks, 1st base).
+
+section_content
+Umpires: HP - Edwin Jimenez, 1B - James Hoye, 2B - D.J. Reyburn, 3B - John Libka, LF - (none), RF - (none).
+Time of Game: 2:38.
+Attendance: 20,420.
+Field Condition: Unknown.
+Start Time Weather: 69° F, Wind 8mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Astros
+1;Jeremy Peña;/players/p/penaje02.shtml;SS
+2;Alex Bregman;/players/b/bregmal01.shtml;3B
+3;Yordan Alvarez;/players/a/alvaryo01.shtml;LF
+4;Kyle Tucker;/players/t/tuckeky01.shtml;DH
+5;Corey Julks;/players/j/julksco01.shtml;RF
+6;Yainer Diaz;/players/d/diazya02.shtml;1B
+7;David Hensley;/players/h/henslda01.shtml;2B
+8;Jake Meyers;/players/m/meyerja02.shtml;CF
+9;Martín Maldonado;/players/m/maldoma01.shtml;C
+; Cristian Javier;/players/j/javiecr01.shtml;P
+Angels
+1;Taylor Ward;/players/w/wardta01.shtml;LF
+2;Mike Trout;/players/t/troutmi01.shtml;CF
+3;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+4;Anthony Rendon;/players/r/rendoan01.shtml;3B
+5;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+6;Brandon Drury;/players/d/drurybr01.shtml;2B
+7;Matt Thaiss;/players/t/thaisma01.shtml;C
+8;Gio Urshela;/players/u/urshegi01.shtml;1B
+9;Zach Neto;/players/n/netoza01.shtml;SS
+; Griffin Canning;/players/c/cannigr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b9;4-5;0;12-;7,(3-2) .BFBF*BFS;O;LAA;Brandon Drury;Ryan Pressly;19%;66%;Strikeout Swinging
+b9;4-5;0;1--;2,(0-1) CX;;LAA;Hunter Renfroe;Ryan Pressly;-18%;47%;Single to CF (Ground Ball thru SS-2B); Rendon to 2B
+b9;4-5;2;12-;2,(0-1) SX;O;LAA;Gio Urshela;Ryan Pressly;17%;100%;Groundout: SS-1B
+b2;0-1;0;1--;5,(0-2) SCFF1X;RR;LAA;Hunter Renfroe;Cristian Javier;-17%;34%;Home Run (Fly Ball to Deep LF); Rendon Scores
+t4;3-2;2;123;3,(0-2) .SSX;RR;HOU;Jeremy Peña;Jimmy Herget;17%;81%;Single to RF (Line Drive to Short RF Line); Hensley Scores; Meyers Scores; Maldonado to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Astros Batting, Tied 0-0, Angels' Griffin Canning facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;HOU;Jeremy Peña;Griffin Canning;-2%;48%;Groundout: 2B-1B (SS-2B)
+t1;0-0;1;---;3,(1-1) BCX;O;HOU;Alex Bregman;Griffin Canning;-2%;46%;Popfly: SS (Deep SS)
+t1;0-0;2;---;5,(2-2) BCBSX;R;HOU;Yordan Alvarez;Griffin Canning;10%;56%;Home Run (Fly Ball to Deep CF-RF)
+t1;1-0;2;---;2,(0-1) SX;O;HOU;Kyle Tucker;Griffin Canning;-1%;55%;Groundout: 1B unassisted
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Astros 1, Angels 0.
+Bottom of the 1st, Angels Batting, Behind 0-1, Astros' Cristian Javier facing 1-2-3 
+b1;0-1;0;---;6,(3-2) BCSBBS;O;LAA;Taylor Ward;Cristian Javier;2%;58%;Strikeout Swinging
+b1;0-1;1;---;4,(1-2) CSBS;O;LAA;Mike Trout;Cristian Javier;2%;59%;Strikeout Swinging
+b1;0-1;2;---;6,(3-2) CBSBBS;O;LAA;Shohei Ohtani;Cristian Javier;1%;60%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 1, Angels 0.
+Top of the 2nd, Astros Batting, Ahead 1-0, Angels' Griffin Canning facing 5-6-7 
+t2;1-0;0;---;4,(2-1) CBBX;O;HOU;Corey Julks;Griffin Canning;-2%;58%;Flyball: RF (Deep RF)
+t2;1-0;1;---;6,(2-2) CFFBBS;O;HOU;Yainer Diaz;Griffin Canning;-2%;57%;Strikeout Swinging
+t2;1-0;2;---;4,(1-2) BCCC;O;HOU;David Hensley;Griffin Canning;-1%;56%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 1, Angels 0.
+Bottom of the 2nd, Angels Batting, Behind 0-1, Astros' Cristian Javier facing 4-5-6 
+b2;0-1;0;---;2,(0-1) FX;;LAA;Anthony Rendon;Cristian Javier;-4%;52%;Single to LF (Line Drive to LF Line)
+b2;0-1;0;1--;5,(0-2) SCFF1X;RR;LAA;Hunter Renfroe;Cristian Javier;-17%;34%;Home Run (Fly Ball to Deep LF); Rendon Scores
+b2;2-1;0;---;4,(3-0) BBBX;O;LAA;Brandon Drury;Cristian Javier;2%;36%;Flyball: CF (Deep CF)
+b2;2-1;1;---;5,(2-2) BCBC.X;;LAA;Matt Thaiss;Cristian Javier;-2%;34%;Single to LF (Line Drive)
+b2;2-1;1;1--;4,(1-2) SB*SX;OO;LAA;Gio Urshela;Cristian Javier;5%;39%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 0 LOB. Astros 1, Angels 2.
+Top of the 3rd, Astros Batting, Behind 1-2, Angels' Griffin Canning facing 8-9-1 
+t3;1-2;0;---;5,(2-2) CFBBC;O;HOU;Jake Meyers;Griffin Canning;-3%;36%;Strikeout Looking
+t3;1-2;1;---;2,(0-1) SX;;HOU;Martín Maldonado;Griffin Canning;3%;39%;Single to RF (Line Drive to Deep CF-RF)
+t3;1-2;1;1--;5,(3-1) BB*BCX;O;HOU;Jeremy Peña;Griffin Canning;-3%;36%;Foul Popfly: 1B (1B into Foul Terr.)
+t3;1-2;2;1--;2,(0-1) CX;O;HOU;Alex Bregman;Griffin Canning;-3%;33%;Lineout: LF (Deep LF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 1, Angels 2.
+Bottom of the 3rd, Angels Batting, Ahead 2-1, Astros' Cristian Javier facing 9-1-2 
+b3;2-1;0;---;5,(2-2) BFBFS;O;LAA;Zach Neto;Cristian Javier;2%;35%;Strikeout Swinging
+b3;2-1;1;---;3,(1-1) SBX;O;LAA;Taylor Ward;Cristian Javier;2%;37%;Flyball: CF
+b3;2-1;2;---;6,(3-2) BBSBTS;O;LAA;Mike Trout;Cristian Javier;1%;38%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 1, Angels 2.
+Top of the 4th, Astros Batting, Behind 1-2, Angels' Griffin Canning facing 3-4-5 
+t4;1-2;0;---;7,(2-2) CFBBFFX;O;HOU;Yordan Alvarez;Griffin Canning;-3%;35%;Groundout: 2B-1B (2B-1B)
+t4;1-2;1;---;1,(0-0) X;;HOU;Kyle Tucker;Griffin Canning;3%;38%;Single to RF (Ground Ball thru 2B-1B)
+t4;1-2;1;1--;3,(0-2) CCX;;HOU;Corey Julks;Griffin Canning;8%;46%;Single to LF (Ground Ball); Tucker to 3B
+t4;1-2;1;1-3;1,(0-0) X;RO;HOU;Yainer Diaz;Griffin Canning;1%;47%;Flyball: LF/Sacrifice Fly (Deep LF); Tucker Scores
+t4;2-2;2;1--;1,(0-1) C1;;HOU;David Hensley;Griffin Canning;2%;49%;Julks Picked off 1B, safe on E1 (throw); Julks to 3B
+t4;2-2;2;--3;5,(3-1) C1.BBBB;;HOU;David Hensley;Griffin Canning;1%;50%;Walk
+t4;2-2;2;1-3;4,(2-1) *B*BCX;R;HOU;Jake Meyers;Griffin Canning;12%;61%;Single to 3B (Ground Ball to Weak 3B); Julks Scores; Hensley to 2B
+;;;;;;;;;Force Play Challenged by HOU manager (Dusty Baker): Original call overturned as shown.
+t4;3-2;2;12-;4,(1-2) *BF2FH;;HOU;Martín Maldonado;Griffin Canning;3%;64%;Hit By Pitch; Hensley to 3B; Meyers to 2B
+;;;;;;;;;Jimmy Herget replaces Griffin Canning pitching
+t4;3-2;2;123;3,(0-2) .SSX;RR;HOU;Jeremy Peña;Jimmy Herget;17%;81%;Single to RF (Line Drive to Short RF Line); Hensley Scores; Meyers Scores; Maldonado to 3B
+t4;5-2;2;1-3;7,(3-2) CBCFBB>B;;HOU;Alex Bregman;Jimmy Herget;1%;82%;Walk; Peña to 2B
+t4;5-2;2;123;2,(1-1) ABX;O;HOU;Yordan Alvarez;Jimmy Herget;-4%;78%;Flyball: LF
+;;;;;;;;;4 runs, 4 hits, 1 error, 3 LOB. Astros 5, Angels 2.
+Bottom of the 4th, Angels Batting, Behind 2-5, Astros' Cristian Javier facing 3-4-5 
+b4;2-5;0;---;2,(0-1) SX;O;LAA;Shohei Ohtani;Cristian Javier;3%;81%;Flyball: CF
+b4;2-5;1;---;5,(2-2) BCF.BC;O;LAA;Anthony Rendon;Cristian Javier;2%;82%;Strikeout Looking
+b4;2-5;2;---;6,(3-2) BCBCBB;;LAA;Hunter Renfroe;Cristian Javier;-1%;81%;Walk
+b4;2-5;2;1--;5,(3-2) SBFVB>C;O;LAA;Brandon Drury;Cristian Javier;2%;84%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Astros 5, Angels 2.
+Top of the 5th, Astros Batting, Ahead 5-2, Angels' Jimmy Herget facing 4-5-6 
+t5;5-2;0;---;4,(1-2) FBTS;O;HOU;Kyle Tucker;Jimmy Herget;-1%;82%;Strikeout Swinging
+t5;5-2;1;---;4,(1-2) SBFX;O;HOU;Corey Julks;Jimmy Herget;-1%;81%;Flyball: LF (Deep LF)
+t5;5-2;2;---;4,(1-2) BSSX;;HOU;Yainer Diaz;Jimmy Herget;1%;82%;Single to LF (Line Drive to Deep LF)
+t5;5-2;2;1--;4,(1-2) BFCC;O;HOU;David Hensley;Jimmy Herget;-1%;81%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 5, Angels 2.
+Bottom of the 5th, Angels Batting, Behind 2-5, Astros' Cristian Javier facing 7-8-9 
+b5;2-5;0;---;5,(2-2) BCFBT;O;LAA;Matt Thaiss;Cristian Javier;3%;83%;Strikeout Swinging
+b5;2-5;1;---;2,(0-1) CX;O;LAA;Gio Urshela;Cristian Javier;2%;85%;Groundout: 3B-1B
+b5;2-5;2;---;5,(2-2) BFBFX;O;LAA;Zach Neto;Cristian Javier;1%;86%;Lineout: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 5, Angels 2.
+Top of the 6th, Astros Batting, Ahead 5-2, Angels' Ryan Tepera facing 8-9-1 
+;;;;;;;;;Ryan Tepera replaces Jimmy Herget pitching
+t6;5-2;0;---;6,(3-2) .CBF.BBS;O;HOU;Jake Meyers;Ryan Tepera;-1%;85%;Strikeout Swinging
+t6;5-2;1;---;6,(3-2) BBSF.BS;O;HOU;Martín Maldonado;Ryan Tepera;-1%;84%;Strikeout Swinging
+t6;5-2;2;---;6,(3-2) BFS.BVFX;;HOU;Jeremy Peña;Ryan Tepera;1%;85%;Single to LF (Ground Ball thru SS-3B Hole)
+t6;5-2;2;1--;3,(0-2) 1SSX;O;HOU;Alex Bregman;Ryan Tepera;-1%;84%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 5, Angels 2.
+Bottom of the 6th, Angels Batting, Behind 2-5, Astros' Cristian Javier facing 1-2-3 
+b6;2-5;0;---;4,(0-2) SFFS;O;LAA;Taylor Ward;Cristian Javier;3%;86%;Strikeout Swinging
+b6;2-5;1;---;4,(1-2) BST.S;O;LAA;Mike Trout;Cristian Javier;2%;88%;Strikeout Swinging
+b6;2-5;2;---;5,(2-2) ABBTFS;O;LAA;Shohei Ohtani;Cristian Javier;1%;89%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 5, Angels 2.
+Top of the 7th, Astros Batting, Ahead 5-2, Angels' Chris Devenski facing 3-4-5 
+;;;;;;;;;Chris Devenski replaces Ryan Tepera pitching
+t7;5-2;0;---;2,(0-1) .CX;O;HOU;Yordan Alvarez;Chris Devenski;-1%;88%;Groundout: 1B-P
+t7;5-2;1;---;3,(1-1) BCX;O;HOU;Kyle Tucker;Chris Devenski;-1%;88%;Groundout: 1B-P
+t7;5-2;2;---;5,(2-2) SBFBC;O;HOU;Corey Julks;Chris Devenski;-1%;87%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 5, Angels 2.
+Bottom of the 7th, Angels Batting, Behind 2-5, Astros' Hector Neris facing 4-5-6 
+;;;;;;;;;Hector Neris replaces Cristian Javier pitching
+b7;2-5;0;---;1,(0-0) .X;O;LAA;Anthony Rendon;Hector Neris;3%;90%;Popfly: SS (Deep SS)
+b7;2-5;1;---;6,(3-2) BBFBC.B;;LAA;Hunter Renfroe;Hector Neris;-3%;87%;Walk
+b7;2-5;1;1--;2,(0-1) SX;OO;LAA;Brandon Drury;Hector Neris;6%;93%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 5, Angels 2.
+Top of the 8th, Astros Batting, Ahead 5-2, Angels' Chris Devenski facing 6-7-8 
+t8;5-2;0;---;4,(1-2) CSBS;O;HOU;Yainer Diaz;Chris Devenski;-1%;92%;Strikeout Swinging
+t8;5-2;1;---;1,(0-0) X;O;HOU;David Hensley;Chris Devenski;-1%;92%;Lineout: RF (RF Line)
+t8;5-2;2;---;3,(1-1) CBX;O;HOU;Jake Meyers;Chris Devenski;0%;91%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 5, Angels 2.
+Bottom of the 8th, Angels Batting, Behind 2-5, Astros' Bryan Abreu facing 7-8-9 
+;;;;;;;;;Bryan Abreu replaces Hector Neris pitching
+b8;2-5;0;---;5,(2-2) .BSBC.S;O;LAA;Matt Thaiss;Bryan Abreu;3%;94%;Strikeout Swinging
+b8;2-5;1;---;6,(1-2) FSFFBX;;LAA;Gio Urshela;Bryan Abreu;-3%;91%;Single to RF (Ground Ball thru 2B-1B)
+b8;2-5;1;1--;4,(1-2) SSBX;O;LAA;Zach Neto;Bryan Abreu;4%;94%;Lineout: RF (CF-RF)
+b8;2-5;2;1--;5,(2-2) BCBSS;O;LAA;Taylor Ward;Bryan Abreu;2%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 5, Angels 2.
+Top of the 9th, Astros Batting, Ahead 5-2, Angels' Tucker Davidson facing 9-1-2 
+;;;;;;;;;Tucker Davidson replaces Chris Devenski pitching
+t9;5-2;0;---;3,(0-2) .FS.S;O;HOU;Martín Maldonado;Tucker Davidson;0%;96%;Strikeout Swinging
+t9;5-2;1;---;4,(3-0) BBBB;;HOU;Jeremy Peña;Tucker Davidson;0%;97%;Walk
+t9;5-2;1;1--;4,(1-2) CFBX;OO;HOU;Alex Bregman;Tucker Davidson;-1%;96%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 5, Angels 2.
+Bottom of the 9th, Angels Batting, Behind 2-5, Astros' Ryan Pressly facing 2-3-4 
+;;;;;;;;;Ryan Pressly replaces Bryan Abreu pitching
+b9;2-5;0;---;4,(2-1) .BFBX;;LAA;Mike Trout;Ryan Pressly;-5%;91%;Single to 3B (Ground Ball)
+b9;2-5;0;1--;4,(1-2) FBFX;RR;LAA;Shohei Ohtani;Ryan Pressly;-12%;79%;Home Run (Fly Ball to Deep CF-RF); Trout Scores
+b9;4-5;0;---;1,(0-0) X;;LAA;Anthony Rendon;Ryan Pressly;-13%;66%;Single to SS (Ground Ball)
+b9;4-5;0;1--;2,(0-1) CX;;LAA;Hunter Renfroe;Ryan Pressly;-18%;47%;Single to CF (Ground Ball thru SS-2B); Rendon to 2B
+b9;4-5;0;12-;7,(3-2) .BFBF*BFS;O;LAA;Brandon Drury;Ryan Pressly;19%;66%;Strikeout Swinging
+b9;4-5;1;12-;1,(0-0) X;O;LAA;Matt Thaiss;Ryan Pressly;17%;83%;Popfly: SS (Deep SS)
+b9;4-5;2;12-;2,(0-1) SX;O;LAA;Gio Urshela;Ryan Pressly;17%;100%;Groundout: SS-1B
+;;;;;;;;;2 runs, 4 hits, 0 errors, 2 LOB. Astros 5, Angels 4.

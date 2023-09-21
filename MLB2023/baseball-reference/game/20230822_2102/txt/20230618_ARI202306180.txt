@@ -1,0 +1,286 @@
+
+Scorebox Meta
+20230618
+1:10 p.m. Local
+42031
+Chase Field
+186
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CLE-2023.png;/teams/CLE/2023.shtml;2;3;0;6;1;0;0;0;0;12;16;0
+https://cdn.ssref.net/req/202308101/tlogo/br/ARI-2023.png;/teams/ARI/2023.shtml;0;1;0;0;2;0;0;0;0;3;9;1
+
+Batting home
+Geraldo Perdomo;/players/p/perdoge01.shtml;2B;4;1;1;0;1;0;5;.293;.396;.467;.863;22;11;-0.039; 0.36;0.004;-0.044;-0.03%; 0.46; -0.0;3;3;
+Emmanuel Rivera;/players/r/riverem01.shtml;3B-1B-3B;5;0;1;0;0;0;5;.325;.354;.423;.777;18;14;-0.030; 0.27;0.003;-0.033;-0.02%; 0.35; -0.4;4;0;
+Corbin Carroll;/players/c/carroco02.shtml;CF;5;1;1;0;0;1;5;.305;.386;.589;.975;18;14;0.001; 0.18;0.016;-0.015; 0.00%; 0.22; -0.9;4;0;2B
+Christian Walker;/players/w/walkech02.shtml;1B;3;1;2;3;0;0;3;.270;.334;.520;.854;10;7;0.036; 0.50;0.060;-0.024; 0.03%; 0.64; 2.2;2;0;HR,2B
+Josh Rojas;/players/r/rojasjo01.shtml;PR-3B-P;1;0;0;0;1;0;2;.235;.301;.306;.607;8;3;-0.001; 0.02;0.000;-0.001;-0.00%; 0.02; 0.1;0;0;
+Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF;4;0;2;0;1;1;5;.282;.332;.513;.845;22;10;0.047; 0.44;0.052;-0.005; 0.04%; 0.56; 0.7;4;0;
+Pavin Smith;/players/s/smithpa04.shtml;DH-1B;3;0;0;0;2;1;5;.205;.317;.357;.673;31;15;-0.034; 0.26;0.003;-0.037;-0.03%; 0.33; -1.3;0;0;GDP
+Gabriel Moreno;/players/m/morenga01.shtml;C;4;0;0;0;0;2;4;.273;.313;.352;.665;17;14;-0.035; 0.31;0.000;-0.035;-0.03%; 0.40; -1.4;5;0;
+Nick Ahmed;/players/a/ahmedni01.shtml;SS;2;0;2;0;2;0;4;.236;.282;.345;.628;23;13;0.019; 0.27;0.019;0.000; 0.01%; 0.34; 1.3;1;3;2B
+Jake McCarthy;/players/m/mccarja02.shtml;RF;4;0;0;0;0;3;4;.226;.288;.346;.634;15;11;-0.047; 0.42;0.000;-0.047;-0.04%; 0.54; -1.9;4;0;
+Zach Davies;/players/d/davieza02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Ruiz;/players/r/ruizjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Drey Jameson;/players/j/jamesdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Austin Adams;/players/a/adamsau02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Corbin Carroll (19, off Tanner Bibee); Nick Ahmed (6, off Tanner Bibee); Christian Walker (19, off Tanner Bibee).
+
+
+HR: Christian Walker (15, off Tanner Bibee, 2nd inn, 0 on, 0 outs to Deep LF-CF).
+
+
+TB: Christian Walker 6; Nick Ahmed 3; Corbin Carroll 2; Lourdes Gurriel Jr. 2; Emmanuel Rivera; Geraldo Perdomo.
+
+
+GIDP: Pavin Smith (2).
+
+
+RBI: Christian Walker 3 (48).
+
+
+Team LOB: 12.
+With RISP: 1 for 12.
+
+Batting away
+Steven Kwan;/players/k/kwanst01.shtml;LF;6;4;1;3;0;0;6;.261;.339;.352;.691;24;15;0.147; 0.47;0.152;-0.005; 0.06%; 0.31; 1.0;2;0;3B
+Amed Rosario;/players/r/rosaram01.shtml;SS;4;1;2;1;0;1;5;.256;.301;.341;.642;17;11;-0.011; 0.49;0.022;-0.033;-0.01%; 0.33; 0.5;1;2;SF
+Gabriel Arias;/players/a/ariasga01.shtml;SS;1;0;1;0;0;0;1;.208;.317;.350;.667;3;2;0.000; 0.00;0.000;0.000;0%; 0.00; 0.2;2;1;
+José Ramírez;/players/r/ramirjo01.shtml;DH;6;1;1;1;0;0;6;.285;.349;.502;.851;18;12;0.121; 0.30;0.135;-0.014; 0.05%; 0.20; -0.3;;;3B
+Josh Naylor;/players/n/naylojo01.shtml;1B;5;1;4;3;0;0;5;.288;.331;.450;.780;15;11;0.113; 0.44;0.113;0.000; 0.04%; 0.30; 3.0;6;2;2B,SB
+David Fry;/players/f/fryda01.shtml;1B;0;0;0;0;0;0;0;.250;.280;.417;.697;;;;;;;;;;3;0;
+Andrés Giménez;/players/g/gimenan01.shtml;2B;4;1;1;2;1;0;5;.244;.309;.378;.687;16;9;-0.005; 0.37;0.032;-0.037;-0.00%; 0.25; 0.9;0;1;3B
+Tyler Freeman;/players/f/freemty01.shtml;3B;5;1;2;1;0;1;5;.292;.314;.396;.710;21;13;-0.034; 0.34;0.008;-0.042;-0.01%; 0.23; 0.3;0;2;2B
+Will Brennan;/players/b/brennwi02.shtml;RF;5;1;2;1;0;1;5;.271;.304;.398;.701;16;11;0.015; 0.27;0.031;-0.016; 0.01%; 0.18; 0.4;4;0;
+Bo Naylor;/players/n/naylobo01.shtml;C;4;1;0;0;1;2;5;.000;.143;.000;.143;21;11;-0.013; 0.30;0.014;-0.026;-0.01%; 0.20; -0.6;8;0;
+Myles Straw;/players/s/strawmy01.shtml;CF;3;1;2;0;2;0;5;.235;.311;.296;.607;26;12;0.085; 0.30;0.085;0.000; 0.03%; 0.20; 2.0;1;0;
+Tanner Bibee;/players/b/bibeeta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Eli Morgan;/players/m/morgael01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Tim Herrin;/players/h/herriti01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Daniel Norris;/players/n/norrida01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Josh Naylor (13, off Zach Davies); Tyler Freeman (5, off José Ruiz).
+
+
+3B: José Ramírez (3, off Zach Davies); Steven Kwan (2, off Zach Davies); Andrés Giménez (3, off José Ruiz).
+
+
+SF: Amed Rosario (3, off Zach Davies).
+
+
+TB: Josh Naylor 5; Tyler Freeman 3; Steven Kwan 3; José Ramírez 3; Andrés Giménez 3; Amed Rosario 2; Myles Straw 2; Will Brennan 2; Gabriel Arias.
+
+
+RBI: Josh Naylor 3 (53); Steven Kwan 3 (24); Andrés Giménez 2 (24); Tyler Freeman (4); José Ramírez (43); Amed Rosario (18); Will Brennan (20).
+
+
+2-out RBI: Josh Naylor 2; Andrés Giménez 2; Tyler Freeman; Will Brennan.
+
+
+Team LOB: 9.
+With RISP: 7 for 16.
+
+Pitching home
+Zach Davies;/players/d/davieza02.shtml; L (1-3); 3.2;9;9;8;1;2;0;7.11;22;74;44;27;6;11;6;13;9;0;10;;;-0.375; 0.74;-0.29%; 0.95; -5.4
+José Ruiz;/players/r/ruizjo01.shtml;José Ruiz; 1.1;5;3;3;1;0;0;6.12;10;38;25;18;3;4;4;5;3;0;;2;2;-0.045; 0.06;-0.03%; 0.08; -4.0
+Drey Jameson;/players/j/jamesdr01.shtml;Drey Jameson; 2 ;0;0;0;0;1;0;3.58;6;24;16;11;1;4;4;1;1;0;;0;0;0.001; 0.01; 0.00%; 0.01; 1.0
+Austin Adams;/players/a/adamsau02.shtml;Austin Adams; 1 ;1;0;0;1;1;0;1.08;5;20;10;5;3;2;1;2;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+Josh Rojas;/players/r/rojasjo01.shtml;Josh Rojas; 1 ;1;0;0;1;1;0;18.00;5;21;12;6;2;4;0;3;1;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+Pitching away
+Tanner Bibee;/players/b/bibeeta01.shtml; W (3-2); 5 ;7;3;3;3;6;1;4.05;25;105;66;38;8;20;7;9;5;0;44;;;0.076; 0.47; 0.03%; 0.32; -0.4
+Eli Morgan;/players/m/morgael01.shtml;Eli Morgan; 1 ;1;0;0;1;1;0;1.84;5;23;17;10;4;3;1;2;1;0;;0;0;0.003; 0.10; 0.00%; 0.07; 0.5
+Tim Herrin;/players/h/herriti01.shtml;Tim Herrin; 1 ;1;0;0;0;1;0;5.93;4;17;12;7;1;4;1;2;1;0;;0;0;0.002; 0.03; 0.00%; 0.02; 0.5
+Daniel Norris;/players/n/norrida01.shtml;Daniel Norris; 2 ;0;0;0;3;0;0;0.00;8;39;17;9;2;6;2;3;1;0;;0;0;0.001; 0.02; 0.00%; 0.01; 1.0
+
+indiv_events
+
+Balks: None.
+WP: Tanner Bibee 3 (5).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Tanner Bibee 3 (5).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Pat Hoberg, 1B - Jacob Metz, 2B - Nestor Ceja, 3B - Brian O'Nora, LF - (none), RF - (none).
+Time of Game: 3:06.
+Attendance: 42,031.
+Start Time Weather: 78° F, Wind 0mph, In Dome.
+
+div_lineups
+Guardians
+1;Steven Kwan;/players/k/kwanst01.shtml;LF
+2;Amed Rosario;/players/r/rosaram01.shtml;SS
+3;José Ramírez;/players/r/ramirjo01.shtml;DH
+4;Josh Naylor;/players/n/naylojo01.shtml;1B
+5;Andrés Giménez;/players/g/gimenan01.shtml;2B
+6;Tyler Freeman;/players/f/freemty01.shtml;3B
+7;Will Brennan;/players/b/brennwi02.shtml;RF
+8;Bo Naylor;/players/n/naylobo01.shtml;C
+9;Myles Straw;/players/s/strawmy01.shtml;CF
+; Tanner Bibee;/players/b/bibeeta01.shtml;P
+Diamondbacks
+1;Geraldo Perdomo;/players/p/perdoge01.shtml;2B
+2;Emmanuel Rivera;/players/r/riverem01.shtml;3B
+3;Corbin Carroll;/players/c/carroco02.shtml;CF
+4;Christian Walker;/players/w/walkech02.shtml;1B
+5;Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF
+6;Pavin Smith;/players/s/smithpa04.shtml;DH
+7;Gabriel Moreno;/players/m/morenga01.shtml;C
+8;Nick Ahmed;/players/a/ahmedni01.shtml;SS
+9;Jake McCarthy;/players/m/mccarja02.shtml;RF
+; Zach Davies;/players/d/davieza02.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t1;0-0;1;1--;2,(0-1) C1X;R;CLE;José Ramírez;Zach Davies;14%;64%;Triple to RF (Ground Ball); Kwan Scores/unER
+t2;2-0;1;1-3;1,(0-0) X;RR;CLE;Steven Kwan;Zach Davies;12%;87%;Triple to RF (Line Drive to Short CF-RF); Brennan Scores; Straw Scores
+t1;1-0;1;--3;5,(2-2) *BCBS.X;R;CLE;Josh Naylor;Zach Davies;6%;70%;Double to RF (Line Drive to RF Line); Ramírez Scores
+b2;0-5;0;---;3,(0-2) CC.X;R;ARI;Christian Walker;Tanner Bibee;-6%;82%;Home Run (Fly Ball to Deep LF-CF)
+t2;2-0;1;1--;6,(3-2) C*BB+1BC>X;;CLE;Myles Straw;Zach Davies;5%;75%;Single to CF (Ground Ball thru SS-2B); Brennan to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Guardians Batting, Tied 0-0, Diamondbacks' Zach Davies facing 1-2-3 
+t1;0-0;0;---;7,(3-2) CFBFBB.X;;CLE;Steven Kwan;Zach Davies;4%;54%;Reached on E6 (Ground Ball); Kwan to 1B
+t1;0-0;0;1--;2,(1-0) BX;O;CLE;Amed Rosario;Zach Davies;-3%;50%;Popfly: 1B
+t1;0-0;1;1--;2,(0-1) C1X;R;CLE;José Ramírez;Zach Davies;14%;64%;Triple to RF (Ground Ball); Kwan Scores/unER
+t1;1-0;1;--3;5,(2-2) *BCBS.X;R;CLE;Josh Naylor;Zach Davies;6%;70%;Double to RF (Line Drive to RF Line); Ramírez Scores
+t1;2-0;1;-2-;3,(1-1) C*BX;O;CLE;Andrés Giménez;Zach Davies;-2%;68%;Lineout: RF (Deep RF); Naylor to 3B
+t1;2-0;2;--3;2,(0-1) CX;O;CLE;Tyler Freeman;Zach Davies;-3%;65%;Lineout: CF (Deep CF)
+;;;;;;;;;2 runs, 2 hits, 1 error, 1 LOB. Guardians 2, Diamondbacks 0.
+Bottom of the 1st, Diamondbacks Batting, Behind 0-2, Guardians' Tanner Bibee facing 1-2-3 
+b1;0-2;0;---;3,(1-1) .BFX;O;ARI;Geraldo Perdomo;Tanner Bibee;2%;67%;Groundout: 3B-1B
+b1;0-2;1;---;1,(0-0) X;O;ARI;Emmanuel Rivera;Tanner Bibee;2%;69%;Groundout: 1B unassisted
+b1;0-2;2;---;9,(3-2) FBSFBFB.FT;O;ARI;Corbin Carroll;Tanner Bibee;1%;70%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 2, Diamondbacks 0.
+Top of the 2nd, Guardians Batting, Ahead 2-0, Diamondbacks' Zach Davies facing 7-8-9 
+t2;2-0;0;---;3,(2-0) BBX;;CLE;Will Brennan;Zach Davies;3%;72%;Single to CF (Line Drive to CF-RF)
+t2;2-0;0;1--;5,(2-2) BFCBS;O;CLE;Bo Naylor;Zach Davies;-3%;70%;Strikeout Swinging
+t2;2-0;1;1--;6,(3-2) C*BB+1BC>X;;CLE;Myles Straw;Zach Davies;5%;75%;Single to CF (Ground Ball thru SS-2B); Brennan to 3B
+t2;2-0;1;1-3;1,(0-0) X;RR;CLE;Steven Kwan;Zach Davies;12%;87%;Triple to RF (Line Drive to Short CF-RF); Brennan Scores; Straw Scores
+t2;4-0;1;--3;4,(2-1) BBCX;RO;CLE;Amed Rosario;Zach Davies;1%;88%;Lineout: LF/Sacrifice Fly (Deep LF-CF); Kwan Scores
+t2;5-0;2;---;6,(3-2) CBBBS.X;O;CLE;José Ramírez;Zach Davies;0%;87%;Flyball: LF (Deep LF)
+;;;;;;;;;3 runs, 3 hits, 0 errors, 0 LOB. Guardians 5, Diamondbacks 0.
+Bottom of the 2nd, Diamondbacks Batting, Behind 0-5, Guardians' Tanner Bibee facing 4-5-6 
+b2;0-5;0;---;3,(0-2) CC.X;R;ARI;Christian Walker;Tanner Bibee;-6%;82%;Home Run (Fly Ball to Deep LF-CF)
+b2;1-5;0;---;2,(1-0) BX;;ARI;Lourdes Gurriel Jr.;Tanner Bibee;-3%;79%;Single to RF (Line Drive to Short CF-RF)
+b2;1-5;0;1--;4,(2-1) BBCB;;ARI;Pavin Smith;Tanner Bibee;-2%;77%;Wild Pitch; Gurriel to 2B
+b2;1-5;0;-2-;6,(3-2) BBCB.FS;O;ARI;Pavin Smith;Tanner Bibee;4%;81%;Strikeout Swinging
+b2;1-5;1;-2-;7,(2-2) BCBCFFX;O;ARI;Gabriel Moreno;Tanner Bibee;3%;83%;Groundout: 3B-1B (Weak 3B)
+b2;1-5;2;-2-;1,(0-0) B;;ARI;Nick Ahmed;Tanner Bibee;0%;83%;Wild Pitch; Gurriel to 3B
+b2;1-5;2;--3;5,(3-1) B.CBBB;;ARI;Nick Ahmed;Tanner Bibee;-1%;82%;Walk
+b2;1-5;2;1-3;5,(2-2) CBSBS;O;ARI;Jake McCarthy;Tanner Bibee;4%;86%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Guardians 5, Diamondbacks 1.
+Top of the 3rd, Guardians Batting, Ahead 5-1, Diamondbacks' Zach Davies facing 4-5-6 
+t3;5-1;0;---;1,(0-0) X;;CLE;Josh Naylor;Zach Davies;2%;87%;Single to RF (Ground Ball thru 2B-1B)
+t3;5-1;0;1--;2,(1-0) BX;O;CLE;Andrés Giménez;Zach Davies;-1%;86%;Flyball: CF
+t3;5-1;1;1--;7,(3-2) BSFFBB>S;O;CLE;Tyler Freeman;Zach Davies;-1%;85%;Strikeout Swinging, Naylor Steals 2B
+t3;5-1;2;-2-;2,(0-1) FX;O;CLE;Will Brennan;Zach Davies;-2%;84%;Lineout: 2B (Deep 2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 5, Diamondbacks 1.
+Bottom of the 3rd, Diamondbacks Batting, Behind 1-5, Guardians' Tanner Bibee facing 1-2-3 
+b3;1-5;0;---;4,(2-1) FBBX;O;ARI;Geraldo Perdomo;Tanner Bibee;2%;86%;Flyball: RF (Deep RF)
+b3;1-5;1;---;4,(1-2) CBCX;O;ARI;Emmanuel Rivera;Tanner Bibee;1%;87%;Flyball: RF (Deep RF Line)
+b3;1-5;2;---;2,(0-1) FX;;ARI;Corbin Carroll;Tanner Bibee;-2%;85%;Double to RF (Line Drive)
+b3;1-5;2;-2-;1,(0-0) X;O;ARI;Christian Walker;Tanner Bibee;2%;88%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 5, Diamondbacks 1.
+Top of the 4th, Guardians Batting, Ahead 5-1, Diamondbacks' Zach Davies facing 8-9-1 
+t4;5-1;0;---;4,(3-0) BBBB;;CLE;Bo Naylor;Zach Davies;1%;89%;Walk
+t4;5-1;0;1--;3,(0-2) CFX;;CLE;Myles Straw;Zach Davies;4%;93%;Single to RF (Line Drive to Short RF Line); Naylor to 3B
+t4;5-1;0;1-3;3,(1-1) BSX;RO;CLE;Steven Kwan;Zach Davies;0%;92%;Groundout: SS-2B/Forceout at 2B; Naylor Scores; Kwan to 1B
+t4;6-1;1;1--;2,(1-0) B1X;;CLE;Amed Rosario;Zach Davies;1%;93%;Single to LF (Ground Ball); Kwan to 2B
+t4;6-1;1;12-;1,(0-0) X;O;CLE;José Ramírez;Zach Davies;-1%;92%;Flyball: RF (Deep CF-RF); Kwan to 3B
+t4;6-1;2;1-3;3,(1-1) BFX;R;CLE;Josh Naylor;Zach Davies;3%;95%;Single to CF (Line Drive); Kwan Scores; Rosario to 2B
+;;;;;;;;;José Ruiz replaces Zach Davies pitching
+t4;7-1;2;12-;4,(1-2) .*BFS.X;RR;CLE;Andrés Giménez;José Ruiz;3%;98%;Triple to RF (Fly Ball to Deep RF Line); Rosario Scores; Naylor Scores
+t4;9-1;2;--3;4,(1-2) FBTX;R;CLE;Tyler Freeman;José Ruiz;1%;99%;Double to RF (Ground Ball); Giménez Scores
+t4;10-1;2;-2-;2,(0-1) CX;R;CLE;Will Brennan;José Ruiz;0%;99%;Single to CF (Line Drive to Short CF); Freeman Scores
+t4;11-1;2;1--;3,(1-1) *BFX;O;CLE;Bo Naylor;José Ruiz;0%;99%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;6 runs, 6 hits, 0 errors, 1 LOB. Guardians 11, Diamondbacks 1.
+Bottom of the 4th, Diamondbacks Batting, Behind 1-11, Guardians' Tanner Bibee facing 5-6-7 
+b4;1-11;0;---;5,(2-2) CBBFX;O;ARI;Lourdes Gurriel Jr.;Tanner Bibee;0%;99%;Groundout: SS-1B
+b4;1-11;1;---;6,(3-2) BCBFBB;;ARI;Pavin Smith;Tanner Bibee;0%;99%;Walk
+b4;1-11;1;1--;2,(0-1) SX;O;ARI;Gabriel Moreno;Tanner Bibee;0%;99%;Flyball: RF (Deep RF Line)
+b4;1-11;2;1--;4,(0-2) CC.1FX;;ARI;Nick Ahmed;Tanner Bibee;0%;99%;Double to LF (Line Drive to Deep LF Line); Smith to 3B
+b4;1-11;2;-23;4,(1-2) FCBT;O;ARI;Jake McCarthy;Tanner Bibee;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Guardians 11, Diamondbacks 1.
+Top of the 5th, Guardians Batting, Ahead 11-1, Diamondbacks' José Ruiz facing 9-1-2 
+t5;11-1;0;---;5,(3-1) FBBBB;;CLE;Myles Straw;José Ruiz;0%;100%;Walk
+t5;11-1;0;1--;7,(3-2) CBBFBFX;O;CLE;Steven Kwan;José Ruiz;0%;100%;Groundout: SS-2B/Forceout at 2B; Kwan to 1B
+t5;11-1;1;1--;6,(2-2) BSSBFX;;CLE;Amed Rosario;José Ruiz;0%;100%;Single to CF (Line Drive to Short CF); Kwan to 2B
+t5;11-1;1;12-;3,(1-1) CBX;O;CLE;José Ramírez;José Ruiz;0%;100%;Lineout: CF
+t5;11-1;2;12-;2,(0-1) CX;R;CLE;Josh Naylor;José Ruiz;0%;100%;Single to CF (Ground Ball thru SS-2B); Kwan Scores; Rosario to 2B
+t5;12-1;2;12-;2,(0-1) FX;O;CLE;Andrés Giménez;José Ruiz;0%;100%;Flyball: LF (Deep LF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Guardians 12, Diamondbacks 1.
+Bottom of the 5th, Diamondbacks Batting, Behind 1-12, Guardians' Tanner Bibee facing 1-2-3 
+b5;1-12;0;---;5,(2-2) CFBBX;;ARI;Geraldo Perdomo;Tanner Bibee;0%;100%;Single to P (Line Drive to P's Right)
+b5;1-12;0;1--;2,(0-1) FX;;ARI;Emmanuel Rivera;Tanner Bibee;0%;99%;Single to CF (Line Drive to CF-RF); Perdomo to 2B
+b5;1-12;0;12-;2,(0-1) SX;O;ARI;Corbin Carroll;Tanner Bibee;0%;100%;Groundout: 1B-SS/Forceout at 2B (Weak 1B); Perdomo to 3B; Carroll to 1B
+b5;1-12;1;1-3;6,(3-2) CC.BBB1X;RR;ARI;Christian Walker;Tanner Bibee;0%;99%;Double to LF (Ground Ball); Perdomo Scores; Carroll Scores
+;;;;;;;;;Josh Rojas pinch runs for Christian Walker (1B) batting 4th
+b5;3-12;1;-2-;6,(3-2) .CBBBCS;O;ARI;Lourdes Gurriel Jr.;Tanner Bibee;0%;99%;Strikeout Swinging
+b5;3-12;2;-2-;5,(2-2) BFBFB;;ARI;Pavin Smith;Tanner Bibee;0%;99%;Wild Pitch; Rojas to 3B
+b5;3-12;2;--3;6,(3-2) BFBFB.B;;ARI;Pavin Smith;Tanner Bibee;0%;99%;Walk
+b5;3-12;2;1-3;5,(1-2) BFCFS;O;ARI;Gabriel Moreno;Tanner Bibee;0%;100%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Guardians 12, Diamondbacks 3.
+Top of the 6th, Guardians Batting, Ahead 12-3, Diamondbacks' Drey Jameson facing 6-7-8 
+;;;;;;;;;Drey Jameson replaces José Ruiz pitchingEmmanuel Rivera moves from 3B to 1B Josh Rojas moves from PR to 3B 
+t6;12-3;0;---;4,(2-1) ...BCBX;O;CLE;Tyler Freeman;Drey Jameson;0%;100%;Groundout: SS-1B (SS-2B)
+t6;12-3;1;---;4,(1-2) BCFX;O;CLE;Will Brennan;Drey Jameson;0%;100%;Groundout: 2B-1B
+t6;12-3;2;---;3,(1-1) FBX;O;CLE;Bo Naylor;Drey Jameson;0%;99%;Lineout: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 12, Diamondbacks 3.
+Bottom of the 6th, Diamondbacks Batting, Behind 3-12, Guardians' Eli Morgan facing 8-9-1 
+;;;;;;;;;Eli Morgan replaces Tanner Bibee pitching
+b6;3-12;0;---;6,(2-2) .CBBS.FX;;ARI;Nick Ahmed;Eli Morgan;0%;99%;Single to LF (Line Drive to LF Line)
+b6;3-12;0;1--;4,(0-2) SFFS;O;ARI;Jake McCarthy;Eli Morgan;0%;99%;Strikeout Swinging
+b6;3-12;1;1--;6,(3-2) BBFFBB;;ARI;Geraldo Perdomo;Eli Morgan;0%;99%;Walk; Ahmed to 2B
+b6;3-12;1;12-;5,(0-2) CSFFX;O;ARI;Emmanuel Rivera;Eli Morgan;0%;100%;Flyball: LF (Short LF-CF)
+b6;3-12;2;12-;2,(0-1) CX;O;ARI;Corbin Carroll;Eli Morgan;0%;100%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Guardians 12, Diamondbacks 3.
+Top of the 7th, Guardians Batting, Ahead 12-3, Diamondbacks' Drey Jameson facing 9-1-2 
+t7;12-3;0;---;6,(3-2) BBBCFX;O;CLE;Myles Straw;Drey Jameson;0%;100%;Groundout: P-1B (Weak SS-2B)
+t7;12-3;1;---;4,(1-2) FFBX;O;CLE;Steven Kwan;Drey Jameson;0%;100%;Groundout: 2B-1B (2B-1B)
+t7;12-3;2;---;3,(0-2) FCS;O;CLE;Amed Rosario;Drey Jameson;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 12, Diamondbacks 3.
+Bottom of the 7th, Diamondbacks Batting, Behind 3-12, Guardians' Tim Herrin facing 4-5-6 
+;;;;;;;;;Tim Herrin replaces Eli Morgan pitchingGabriel Arias replaces Amed Rosario playing SS batting 2nd
+b7;3-12;0;---;2,(1-0) ..BX;O;ARI;Josh Rojas;Tim Herrin;0%;100%;Flyball: CF (Short CF)
+b7;3-12;1;---;5,(2-2) BCBFX;;ARI;Lourdes Gurriel Jr.;Tim Herrin;0%;100%;Single to RF (Line Drive to Short CF-RF)
+b7;3-12;1;1--;7,(2-2) CBC*BFFX;O;ARI;Pavin Smith;Tim Herrin;0%;100%;Groundout: 1B-SS/Forceout at 2B (Weak 1B); Smith to 1B
+b7;3-12;2;1--;3,(0-2) FCS;O;ARI;Gabriel Moreno;Tim Herrin;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 12, Diamondbacks 3.
+Top of the 8th, Guardians Batting, Ahead 12-3, Diamondbacks' Austin Adams facing 3-4-5 
+;;;;;;;;;Austin Adams replaces Drey Jameson pitching
+t8;12-3;0;---;2,(1-0) .BX;O;CLE;José Ramírez;Austin Adams;0%;100%;Flyball: LF (LF Line)
+t8;12-3;1;---;4,(1-2) SF.BX;O;CLE;Josh Naylor;Austin Adams;0%;100%;Flyball: CF (CF-RF)
+t8;12-3;2;---;5,(3-1) BCBBB;;CLE;Andrés Giménez;Austin Adams;0%;100%;Walk
+t8;12-3;2;1--;4,(2-1) CBBX;;CLE;Tyler Freeman;Austin Adams;0%;100%;Single to LF (Ground Ball thru SS-3B Hole); Giménez to 2B
+t8;12-3;2;12-;5,(2-2) BBSFS;O;CLE;Will Brennan;Austin Adams;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Guardians 12, Diamondbacks 3.
+Bottom of the 8th, Diamondbacks Batting, Behind 3-12, Guardians' Daniel Norris facing 8-9-1 
+;;;;;;;;;Daniel Norris replaces Tim Herrin pitchingDavid Fry replaces Josh Naylor playing 1B batting 4th
+b8;3-12;0;---;8,(3-2) ..FBBCBFFB;;ARI;Nick Ahmed;Daniel Norris;0%;100%;Walk
+b8;3-12;0;1--;2,(1-0) *BX;O;ARI;Jake McCarthy;Daniel Norris;0%;100%;Lineout: LF (Deep LF)
+b8;3-12;1;1--;4,(2-1) CBBX;O;ARI;Geraldo Perdomo;Daniel Norris;0%;100%;Foul Popfly: 1B (1B into Foul Terr.)
+b8;3-12;2;1--;6,(3-2) CBF.B*B>X;O;ARI;Emmanuel Rivera;Daniel Norris;0%;100%;Flyball: RF (RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Guardians 12, Diamondbacks 3.
+Top of the 9th, Guardians Batting, Ahead 12-3, Diamondbacks' Josh Rojas facing 8-9-1 
+;;;;;;;;;Josh Rojas moves from 3B to P Pavin Smith moves from DH to 1B (team loses DH)Emmanuel Rivera moves from 1B to 3B 
+t9;12-3;0;---;6,(2-2) ...CCBFBS;O;CLE;Bo Naylor;Josh Rojas;0%;100%;Strikeout Swinging
+t9;12-3;1;---;6,(3-2) CBBBF*B;;CLE;Myles Straw;Josh Rojas;0%;100%;Walk
+t9;12-3;1;1--;2,(1-0) BX;O;CLE;Steven Kwan;Josh Rojas;0%;100%;Flyball: RF (Deep RF)
+t9;12-3;2;1--;3,(1-1) SBX;;CLE;Gabriel Arias;Josh Rojas;0%;100%;Single to RF (Line Drive); Straw to 2B
+t9;12-3;2;12-;4,(1-2) BCFX;O;CLE;José Ramírez;Josh Rojas;0%;100%;Popfly: SS (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Guardians 12, Diamondbacks 3.
+Bottom of the 9th, Diamondbacks Batting, Behind 3-12, Guardians' Daniel Norris facing 3-4-5 
+b9;3-12;0;---;3,(1-1) SBX;O;ARI;Corbin Carroll;Daniel Norris;0%;100%;Groundout: 2B-1B
+b9;3-12;1;---;6,(3-2) BBCSBB;;ARI;Josh Rojas;Daniel Norris;0%;100%;Walk
+b9;3-12;1;1--;4,(3-0) BBBB;;ARI;Lourdes Gurriel Jr.;Daniel Norris;0%;100%;Walk; Rojas to 2B
+b9;3-12;1;12-;6,(3-2) CCBB*BX;OO;ARI;Pavin Smith;Daniel Norris;0%;100%;Ground Ball Double Play: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Guardians 12, Diamondbacks 3.

@@ -1,0 +1,245 @@
+
+Scorebox Meta
+20230705
+6:40 p.m. Local
+19692
+Target Field
+137
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/KCR-2023.png;/teams/KCR/2023.shtml;0;0;0;0;0;0;0;0;0;0;4;1
+https://cdn.ssref.net/req/202308101/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;1;0;2;0;0;0;1;1;X;5;5;0
+
+Batting home
+Carlos Correa;/players/c/correca01.shtml;SS;2;1;0;0;2;1;4;.226;.300;.407;.707;20;12;0.020; 0.62;0.049;-0.029; 0.01%; 0.63; 0.3;0;1;
+Edouard Julien;/players/j/julieed01.shtml;2B;2;1;1;1;1;1;3;.258;.343;.468;.810;15;10;0.050; 0.69;0.106;-0.056; 0.03%; 0.69; 0.3;0;1;HR
+Kyle Farmer;/players/f/farmeky01.shtml;3B-2B;1;0;0;0;0;0;1;.243;.303;.349;.652;4;2;-0.003; 0.12;0.000;-0.003;-0.00%; 0.12; -0.2;0;0;
+Byron Buxton;/players/b/buxtoby01.shtml;DH;2;1;0;0;2;1;4;.215;.309;.453;.762;22;8;-0.040; 0.66;0.013;-0.054;-0.02%; 0.67; 0.1;;;
+Alex Kirilloff;/players/k/kirilal01.shtml;1B;4;0;1;1;0;2;4;.277;.378;.398;.776;20;17;0.153; 0.54;0.176;-0.022; 0.09%; 0.55; 1.2;5;0;
+Max Kepler;/players/k/keplema01.shtml;RF;4;0;0;0;0;1;4;.218;.285;.430;.715;18;12;-0.052; 0.49;0.000;-0.052;-0.03%; 0.49; -1.2;2;0;
+Donovan Solano;/players/s/solando01.shtml;3B-2B;4;0;1;1;0;1;4;.277;.374;.413;.787;16;11;-0.030; 0.38;0.008;-0.038;-0.02%; 0.39; 0.4;2;1;2B
+Michael A. Taylor;/players/t/taylomi02.shtml;PR-CF;0;0;0;0;0;0;0;.214;.260;.400;.660;;;;;;;;;;1;0;
+Willi Castro;/players/c/castrwi01.shtml;CF-3B;2;0;0;0;1;0;4;.246;.322;.372;.694;16;9;0.006; 0.37;0.032;-0.026; 0.00%; 0.37; -0.5;2;1;SB,HBP
+Joey Gallo;/players/g/gallojo01.shtml;LF;3;0;0;0;0;2;3;.188;.307;.474;.781;15;8;-0.040; 0.47;0.000;-0.040;-0.02%; 0.48; -0.6;3;0;
+Ryan Jeffers;/players/j/jeffery01.shtml;C;3;2;2;1;0;0;3;.264;.367;.434;.801;5;4;0.056; 0.46;0.066;-0.010; 0.03%; 0.46; 1.1;12;0;HR
+Pablo López;/players/l/lopezpa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Donovan Solano (16, off Dylan Coleman).
+
+
+HR: Edouard Julien (6, off Alec Marsh, 1st inn, 0 on, 1 out to Deep RF); Ryan Jeffers (4, off Taylor Clarke, 7th inn, 0 on, 2 outs to Deep CF).
+
+
+HBP: Willi Castro (7, by Alec Marsh).
+
+
+TB: Ryan Jeffers 5; Edouard Julien 4; Donovan Solano 2; Alex Kirilloff.
+
+
+RBI: Edouard Julien (11); Ryan Jeffers (11); Donovan Solano (21); Alex Kirilloff (18).
+
+
+2-out RBI: Donovan Solano; Ryan Jeffers; Alex Kirilloff.
+
+
+Team LOB: 5.
+With RISP: 1 for 7.
+
+Batting away
+Maikel Garcia;/players/g/garcima01.shtml;SS;4;0;1;0;0;2;4;.296;.347;.403;.750;14;10;-0.028; 0.53;0.015;-0.042;0%; 0.00; -0.5;1;0;
+Bobby Witt;/players/w/wittbo02.shtml;DH;4;0;0;0;0;3;4;.251;.293;.425;.718;15;11;-0.053; 0.49;0.000;-0.053;0%; 0.00; -0.7;;;
+MJ Melendez;/players/m/melenmj01.shtml;LF;4;0;1;0;0;0;4;.210;.294;.337;.631;12;9;-0.026; 0.56;0.022;-0.047;0%; 0.00; -0.4;1;0;2B
+Salvador Perez;/players/p/perezsa02.shtml;C;3;0;0;0;0;1;3;.248;.287;.442;.729;9;7;-0.062; 0.77;0.000;-0.062;0%; 0.00; -0.7;9;0;
+Nick Pratto;/players/p/prattni01.shtml;1B;3;0;0;0;0;2;3;.254;.339;.404;.743;16;10;-0.042; 0.55;0.000;-0.042;0%; 0.00; -0.5;7;1;
+Michael Massey;/players/m/massemi02.shtml;2B;3;0;0;0;0;1;3;.216;.276;.311;.587;5;5;-0.054; 0.70;0.000;-0.054;0%; 0.00; -0.6;1;2;
+Drew Waters;/players/w/waterdr01.shtml;RF;3;0;1;0;0;1;3;.243;.304;.369;.673;9;8;-0.034; 0.55;0.013;-0.047;0%; 0.00; -0.4;4;0;
+Kyle Isbel;/players/i/isbelky01.shtml;CF;3;0;1;0;0;1;3;.191;.231;.313;.544;11;9;-0.028; 0.49;0.008;-0.036;0%; 0.00; -0.1;1;0;2B
+Matt Duffy;/players/d/duffyma01.shtml;3B;3;0;0;0;0;1;3;.277;.333;.356;.690;9;7;-0.053; 0.68;0.000;-0.053;0%; 0.00; -0.7;0;1;
+Alec Marsh;/players/m/marshal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Amir Garrett;/players/g/garream01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Taylor Clarke;/players/c/clarkta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dylan Coleman;/players/c/colemdy01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: MJ Melendez (15, off Pablo López); Kyle Isbel (9, off Pablo López).
+
+
+TB: Kyle Isbel 2; MJ Melendez 2; Drew Waters; Maikel Garcia.
+
+
+Team LOB: 3.
+With RISP: 0 for 2.
+
+Pitching home
+Pablo López;/players/l/lopezpa01.shtml; W (5-5); 9 ;4;0;0;0;12;0;3.89;30;100;76;36;15;25;5;13;7;0;91;;;0.380; 0.58; 0.23%; 0.59; 4.6
+
+Pitching away
+Alec Marsh;/players/m/marshal01.shtml; L (0-2); 5 ;3;3;2;3;5;1;7.00;20;91;60;29;13;18;3;8;3;0;53;;;-0.110; 0.71; 0.00%; 0.00; -0.4
+Amir Garrett;/players/g/garream01.shtml;Amir Garrett; 1 ;0;0;0;1;1;0;2.63;4;18;11;5;1;5;1;1;1;0;;0;0;0.018; 0.38; 0.00%; 0.00; 0.5
+Taylor Clarke;/players/c/clarkta01.shtml;Taylor Clarke; 1 ;1;1;1;1;1;1;6.14;5;21;11;5;3;3;1;2;0;0;;0;0;-0.022; 0.15; 0.00%; 0.00; -0.5
+Dylan Coleman;/players/c/colemdy01.shtml;Dylan Coleman; 1 ;1;1;1;1;2;0;16.50;5;21;13;6;3;4;0;2;1;0;;0;0;-0.006; 0.07; 0.00%; 0.00; -0.5
+
+indiv_events
+
+Balks: None.
+WP: Amir Garrett (1).
+HBP: Alec Marsh (1; Willi Castro).
+IBB: None.
+Pickoffs: Alec Marsh 2 (2; Willi Castro, 1st base, Edouard Julien, 1st base); Pablo López (2; Drew Waters, 1st base).
+
+Balks: None.
+WP: Amir Garrett (1).
+HBP: Alec Marsh (1; Willi Castro).
+IBB: None.
+Pickoffs: Alec Marsh 2 (2; Willi Castro, 1st base, Edouard Julien, 1st base); Pablo López (2; Drew Waters, 1st base).
+
+section_content
+Umpires: HP - Phil Cuzzi, 1B - Dan Bellino, 2B - Shane Livensparger, 3B - Mark Ripperger, LF - (none), RF - (none).
+Time of Game: 2:17.
+Attendance: 19,692.
+Field Condition: Unknown.
+Start Time Weather: 75° F, Wind 6mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Royals
+1;Maikel Garcia;/players/g/garcima01.shtml;SS
+2;Bobby Witt;/players/w/wittbo02.shtml;DH
+3;MJ Melendez;/players/m/melenmj01.shtml;LF
+4;Salvador Perez;/players/p/perezsa02.shtml;C
+5;Nick Pratto;/players/p/prattni01.shtml;1B
+6;Michael Massey;/players/m/massemi02.shtml;2B
+7;Drew Waters;/players/w/waterdr01.shtml;RF
+8;Kyle Isbel;/players/i/isbelky01.shtml;CF
+9;Matt Duffy;/players/d/duffyma01.shtml;3B
+; Alec Marsh;/players/m/marshal01.shtml;P
+Twins
+1;Carlos Correa;/players/c/correca01.shtml;SS
+2;Edouard Julien;/players/j/julieed01.shtml;2B
+3;Byron Buxton;/players/b/buxtoby01.shtml;DH
+4;Alex Kirilloff;/players/k/kirilal01.shtml;1B
+5;Max Kepler;/players/k/keplema01.shtml;RF
+6;Donovan Solano;/players/s/solando01.shtml;3B
+7;Willi Castro;/players/c/castrwi01.shtml;CF
+8;Joey Gallo;/players/g/gallojo01.shtml;LF
+9;Ryan Jeffers;/players/j/jeffery01.shtml;C
+; Pablo López;/players/l/lopezpa01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;1-0;2;12-;8,(2-2) CFBFFBFX;RR;MIN;Alex Kirilloff;Alec Marsh;17%;83%;Single to LF (Line Drive); Jeffers Scores; Correa Scores/Adv on E7 (throw)/No RBI/unER; Kirilloff to 3B
+b1;0-0;1;---;3,(1-1) CBX;R;MIN;Edouard Julien;Alec Marsh;10%;63%;Home Run (Fly Ball to Deep RF)
+b3;1-0;0;1--;9,(3-2) BCTFBBFFB;;MIN;Carlos Correa;Alec Marsh;5%;75%;Walk; Jeffers to 2B
+b3;1-0;0;12-;4,(0-2) CSFC;O;MIN;Edouard Julien;Alec Marsh;-5%;70%;Strikeout Looking
+b3;1-0;1;12-;4,(1-2) FS.BT;O;MIN;Byron Buxton;Alec Marsh;-4%;66%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Royals Batting, Tied 0-0, Twins' Pablo López facing 1-2-3 
+t1;0-0;0;---;5,(2-2) CBBSC;O;KCR;Maikel Garcia;Pablo López;2%;52%;Strikeout Looking
+t1;0-0;1;---;3,(0-2) FCS;O;KCR;Bobby Witt;Pablo López;2%;54%;Strikeout Swinging
+t1;0-0;2;---;5,(1-2) CFBFX;;KCR;MJ Melendez;Pablo López;-2%;52%;Double to 1B (Line Drive to Short RF Line)
+t1;0-0;2;-2-;2,(0-1) FX;O;KCR;Salvador Perez;Pablo López;3%;55%;Lineout: 3B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 0, Twins 0.
+Bottom of the 1st, Twins Batting, Tied 0-0, Royals' Alec Marsh facing 1-2-3 
+b1;0-0;0;---;3,(0-2) FS.S;O;MIN;Carlos Correa;Alec Marsh;-2%;53%;Strikeout Swinging
+b1;0-0;1;---;3,(1-1) CBX;R;MIN;Edouard Julien;Alec Marsh;10%;63%;Home Run (Fly Ball to Deep RF)
+b1;1-0;1;---;4,(2-1) CBBX;O;MIN;Byron Buxton;Alec Marsh;-1%;61%;Flyball: LF (Deep LF-CF)
+b1;1-0;2;---;3,(0-2) CS.S;O;MIN;Alex Kirilloff;Alec Marsh;-1%;60%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Royals 0, Twins 1.
+Top of the 2nd, Royals Batting, Behind 0-1, Twins' Pablo López facing 5-6-7 
+t2;0-1;0;---;3,(0-2) CF.*S;O;KCR;Nick Pratto;Pablo López;2%;63%;Strikeout Swinging
+t2;0-1;1;---;1,(0-0) X;O;KCR;Michael Massey;Pablo López;2%;65%;Groundout: 2B-1B (2B-1B)
+t2;0-1;2;---;4,(1-2) CBCX;;KCR;Drew Waters;Pablo López;-1%;63%;Single to LF (Line Drive to LF-CF)
+t2;0-1;2;1--;,(0-0) 1;O;KCR;Kyle Isbel;Pablo López;2%;66%;Waters Picked off 1B (P-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Royals 0, Twins 1.
+Bottom of the 2nd, Twins Batting, Ahead 1-0, Royals' Alec Marsh facing 5-6-7 
+b2;1-0;0;---;6,(2-2) CBBCF.X;O;MIN;Max Kepler;Alec Marsh;-2%;64%;Groundout: 1B unassisted
+b2;1-0;1;---;6,(3-2) CSBBBX;O;MIN;Donovan Solano;Alec Marsh;-1%;62%;Flyball: RF (RF Line)
+b2;1-0;2;---;3,(0-2) CS.H;;MIN;Willi Castro;Alec Marsh;1%;63%;Hit By Pitch
+b2;1-0;2;1--;1,(0-0) >B;;MIN;Joey Gallo;Alec Marsh;1%;64%;Castro Steals 2B
+;;;;;;;;;Tag play Challenged by MIN manager (Rocco Baldelli): Original call overturned as shown.
+b2;1-0;2;-2-;5,(2-2) >B.BCCS;O;MIN;Joey Gallo;Alec Marsh;-3%;61%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Royals 0, Twins 1.
+Top of the 3rd, Royals Batting, Behind 0-1, Twins' Pablo López facing 8-9-1 
+t3;0-1;0;---;2,(0-1) CX;O;KCR;Kyle Isbel;Pablo López;3%;64%;Flyball: LF
+t3;0-1;1;---;2,(0-1) CX;O;KCR;Matt Duffy;Pablo López;2%;66%;Groundout: 3B-1B
+t3;0-1;2;---;2,(1-0) BX;;KCR;Maikel Garcia;Pablo López;-1%;64%;Single to RF (Ground Ball)
+t3;0-1;2;1--;5,(2-2) B1FS1BS;O;KCR;Bobby Witt;Pablo López;3%;67%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 0, Twins 1.
+Bottom of the 3rd, Twins Batting, Ahead 1-0, Royals' Alec Marsh facing 9-1-2 
+b3;1-0;0;---;2,(1-0) BX;;MIN;Ryan Jeffers;Alec Marsh;3%;70%;Single to RF (Line Drive to CF-RF)
+b3;1-0;0;1--;9,(3-2) BCTFBBFFB;;MIN;Carlos Correa;Alec Marsh;5%;75%;Walk; Jeffers to 2B
+b3;1-0;0;12-;4,(0-2) CSFC;O;MIN;Edouard Julien;Alec Marsh;-5%;70%;Strikeout Looking
+b3;1-0;1;12-;4,(1-2) FS.BT;O;MIN;Byron Buxton;Alec Marsh;-4%;66%;Strikeout Swinging
+b3;1-0;2;12-;8,(2-2) CFBFFBFX;RR;MIN;Alex Kirilloff;Alec Marsh;17%;83%;Single to LF (Line Drive); Jeffers Scores; Correa Scores/Adv on E7 (throw)/No RBI/unER; Kirilloff to 3B
+b3;3-0;2;--3;4,(1-2) CBFX;O;MIN;Max Kepler;Alec Marsh;-2%;81%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;2 runs, 2 hits, 1 error, 1 LOB. Royals 0, Twins 3.
+Top of the 4th, Royals Batting, Behind 0-3, Twins' Pablo López facing 3-4-5 
+t4;0-3;0;---;1,(0-0) X;O;KCR;MJ Melendez;Pablo López;2%;84%;Lineout: CF (Deep CF)
+t4;0-3;1;---;5,(2-2) CFBBS;O;KCR;Salvador Perez;Pablo López;1%;85%;Strikeout Swinging
+t4;0-3;2;---;7,(3-2) BBCSBFX;O;KCR;Nick Pratto;Pablo López;1%;86%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Twins 3.
+Bottom of the 4th, Twins Batting, Ahead 3-0, Royals' Alec Marsh facing 6-7-8 
+b4;3-0;0;---;1,(0-0) X;O;MIN;Donovan Solano;Alec Marsh;-1%;85%;Flyball: RF (CF-RF)
+b4;3-0;1;---;6,(3-2) BCS.BBB;;MIN;Willi Castro;Alec Marsh;1%;86%;Walk
+b4;3-0;1;1--;,(0-0) 1;O;MIN;Joey Gallo;Alec Marsh;-2%;84%;Castro Picked off 1B (P-1B)
+;;;;;;;;;Tag play Challenged by KCR manager (Matt Quatraro): Original call overturned as shown.
+b4;3-0;2;---;4,(2-1) 1.BBCX;O;MIN;Joey Gallo;Alec Marsh;-1%;84%;Flyball: RF (Short CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Twins 3.
+Top of the 5th, Royals Batting, Behind 0-3, Twins' Pablo López facing 6-7-8 
+t5;0-3;0;---;3,(0-2) STS;O;KCR;Michael Massey;Pablo López;2%;86%;Strikeout Swinging
+t5;0-3;1;---;4,(0-2) CTFS;O;KCR;Drew Waters;Pablo López;2%;88%;Strikeout Swinging
+t5;0-3;2;---;6,(2-2) BSF.FBC;O;KCR;Kyle Isbel;Pablo López;1%;88%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Twins 3.
+Bottom of the 5th, Twins Batting, Ahead 3-0, Royals' Alec Marsh facing 9-1-2 
+b5;3-0;0;---;2,(0-1) SX;O;MIN;Ryan Jeffers;Alec Marsh;-1%;88%;Groundout: 3B-1B (Weak 3B)
+b5;3-0;1;---;3,(0-2) CFX;O;MIN;Carlos Correa;Alec Marsh;-1%;87%;Lineout: 1B (Deep 2B-1B)
+b5;3-0;2;---;8,(3-2) SBCBB.FFB;;MIN;Edouard Julien;Alec Marsh;1%;87%;Walk
+b5;3-0;2;1--;3,(1-2) FBS.1;O;MIN;Byron Buxton;Alec Marsh;-1%;86%;Julien Picked off 1B (P-1B)
+;;;;;;;;;Tag play Challenged by KCR manager (Matt Quatraro): Original call overturned as shown.
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Twins 3.
+Top of the 6th, Royals Batting, Behind 0-3, Twins' Pablo López facing 9-1-2 
+t6;0-3;0;---;5,(1-2) CBCFS;O;KCR;Matt Duffy;Pablo López;2%;89%;Strikeout Swinging
+t6;0-3;1;---;3,(0-2) CFC;O;KCR;Maikel Garcia;Pablo López;2%;90%;Strikeout Looking
+t6;0-3;2;---;6,(2-2) CBC.BFC;O;KCR;Bobby Witt;Pablo López;1%;91%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Twins 3.
+Bottom of the 6th, Twins Batting, Ahead 3-0, Royals' Amir Garrett facing 3-4-5 
+;;;;;;;;;Amir Garrett replaces Alec Marsh pitching
+b6;3-0;0;---;6,(3-2) .BCBBC.B;;MIN;Byron Buxton;Amir Garrett;1%;92%;Walk
+b6;3-0;0;1--;3,(0-2) CCX;O;MIN;Alex Kirilloff;Amir Garrett;-1%;91%;Groundout: 1B-SS/Forceout at 2B (Weak 2B-1B); Kirilloff to 1B
+b6;3-0;1;1--;3,(1-1) BFX;O;MIN;Max Kepler;Amir Garrett;-1%;90%;Lineout: RF (CF-RF)
+b6;3-0;2;1--;4,(1-2) BFCB;;MIN;Donovan Solano;Amir Garrett;0%;91%;Wild Pitch; Kirilloff to 2B
+b6;3-0;2;-2-;6,(2-2) BFCB.FS;O;MIN;Donovan Solano;Amir Garrett;-1%;89%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Royals 0, Twins 3.
+Top of the 7th, Royals Batting, Behind 0-3, Twins' Pablo López facing 3-4-5 
+;;;;;;;;;Donovan Solano moves from 3B to 2B Kyle Farmer replaces Edouard Julien (2B) playing 3B batting 2nd
+t7;0-3;0;---;5,(2-2) ..CBBC.X;O;KCR;MJ Melendez;Pablo López;2%;92%;Flyball: LF (Short LF-CF)
+t7;0-3;1;---;2,(0-1) FX;O;KCR;Salvador Perez;Pablo López;2%;93%;Flyball: LF (Short LF-CF)
+t7;0-3;2;---;6,(3-2) CSBBB.S;O;KCR;Nick Pratto;Pablo López;1%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Twins 3.
+Bottom of the 7th, Twins Batting, Ahead 3-0, Royals' Taylor Clarke facing 7-8-9 
+;;;;;;;;;Taylor Clarke replaces Amir Garrett pitching
+b7;3-0;0;---;5,(1-2) .CSBFX;O;MIN;Willi Castro;Taylor Clarke;-1%;94%;Groundout: 2B-1B
+b7;3-0;1;---;6,(3-2) BBCSBS;O;MIN;Joey Gallo;Taylor Clarke;0%;93%;Strikeout Swinging
+b7;3-0;2;---;1,(0-0) X;R;MIN;Ryan Jeffers;Taylor Clarke;3%;97%;Home Run (Fly Ball to Deep CF)
+b7;4-0;2;---;5,(3-1) BBCBB;;MIN;Carlos Correa;Taylor Clarke;0%;97%;Walk
+b7;4-0;2;1--;4,(2-1) F*BBX;O;MIN;Kyle Farmer;Taylor Clarke;0%;96%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Royals 0, Twins 4.
+Top of the 8th, Royals Batting, Behind 0-4, Twins' Pablo López facing 6-7-8 
+t8;0-4;0;---;1,(0-0) X;O;KCR;Michael Massey;Pablo López;1%;98%;Foul Popfly: RF (Short RF into Foul Terr.)
+t8;0-4;1;---;1,(0-0) X;O;KCR;Drew Waters;Pablo López;1%;98%;Lineout: 2B (Deep 2B-1B)
+t8;0-4;2;---;3,(0-2) CS.X;;KCR;Kyle Isbel;Pablo López;-1%;98%;Double to RF (Fly Ball to Deep CF-RF)
+t8;0-4;2;-2-;2,(1-0) BX;O;KCR;Matt Duffy;Pablo López;1%;99%;Lineout: RF (Short RF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 0, Twins 4.
+Bottom of the 8th, Twins Batting, Ahead 4-0, Royals' Dylan Coleman facing 3-4-5 
+;;;;;;;;;Dylan Coleman replaces Taylor Clarke pitching
+b8;4-0;0;---;5,(3-1) .BS.BBB;;MIN;Byron Buxton;Dylan Coleman;0%;99%;Walk
+b8;4-0;0;1--;6,(1-2) FBCFFS;O;MIN;Alex Kirilloff;Dylan Coleman;0%;99%;Strikeout Swinging
+b8;4-0;1;1--;5,(2-2) CBCBS;O;MIN;Max Kepler;Dylan Coleman;0%;99%;Strikeout Swinging
+b8;4-0;2;1--;3,(0-2) CFX;R;MIN;Donovan Solano;Dylan Coleman;1%;99%;Double to RF (Line Drive to RF Line); Buxton Scores
+;;;;;;;;;Michael A. Taylor pinch runs for Donovan Solano (2B) batting 6th
+b8;5-0;2;-2-;2,(1-0) .BX;O;MIN;Willi Castro;Dylan Coleman;0%;99%;Popfly: 2B (Deep 2B-1B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Royals 0, Twins 5.
+Top of the 9th, Royals Batting, Behind 0-5, Twins' Pablo López facing 1-2-3 
+;;;;;;;;;Kyle Farmer moves from 3B to 2B Willi Castro moves from CF to 3B Michael A. Taylor moves from PR to CF 
+t9;0-5;0;---;4,(1-2) ...FBCX;O;KCR;Maikel Garcia;Pablo López;0%;100%;Groundout: 3B-1B (Weak 3B)
+t9;0-5;1;---;1,(0-0) X;O;KCR;Bobby Witt;Pablo López;0%;100%;Groundout: SS-1B
+t9;0-5;2;---;1,(0-0) X;O;KCR;MJ Melendez;Pablo López;0%;100%;Lineout: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Twins 5.

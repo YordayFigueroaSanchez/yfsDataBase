@@ -1,0 +1,268 @@
+
+Scorebox Meta
+20230519
+6:38 p.m. Local
+31079
+Angel Stadium of Anaheim
+160
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;0;0;0;0;0;3;1;0;0;4;6;1
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;0;1;2;0;0;2;0;X;5;10;0
+
+Batting home
+Mickey Moniak;/players/m/moniami01.shtml;CF;4;0;3;1;0;1;4;.474;.500;.947;1.447;13;11;0.434; 1.28;0.443;-0.010; 0.27%; 1.33; 2.4;3;0;3B,2B
+Taylor Ward;/players/w/wardta01.shtml;LF;3;1;0;1;0;2;4;.232;.309;.327;.636;16;11;-0.182; 1.49;0.003;-0.185;-0.11%; 1.55; -1.4;0;0;SF
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;3;0;0;0;1;2;4;.287;.359;.532;.892;19;11;-0.032; 0.98;0.033;-0.064;-0.02%; 1.02; -0.5;;;
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;4;1;3;1;0;1;4;.262;.317;.488;.806;13;11;0.279; 1.46;0.302;-0.023; 0.17%; 1.52; 1.7;1;0;
+Brandon Drury;/players/d/drurybr01.shtml;1B;4;1;1;1;0;0;4;.229;.262;.444;.707;9;9;-0.004; 1.45;0.180;-0.183;-0.00%; 1.51; 0.4;4;0;2B,GDP
+Gio Urshela;/players/u/urshegi01.shtml;3B;4;0;1;0;0;0;4;.297;.319;.348;.667;15;12;-0.019; 0.67;0.018;-0.038;-0.01%; 0.70; -0.5;0;1;
+Luis Rengifo;/players/r/rengilu01.shtml;2B;3;0;0;0;1;0;4;.216;.323;.288;.611;14;8;-0.048; 0.78;0.010;-0.058;-0.03%; 0.81; -0.3;2;0;SB
+Chad Wallach;/players/w/wallach01.shtml;C;2;0;0;0;0;2;2;.256;.273;.488;.761;7;6;-0.071; 1.13;0.000;-0.071;-0.04%; 1.18; -0.9;13;0;
+Matt Thaiss;/players/t/thaisma01.shtml;PH-C;2;0;0;0;0;2;2;.290;.375;.377;.752;11;8;-0.057; 1.10;0.000;-0.057;-0.04%; 1.15; -0.4;3;0;
+Zach Neto;/players/n/netoza01.shtml;SS;3;2;2;0;0;1;3;.248;.314;.358;.672;21;13;0.062; 0.94;0.081;-0.019; 0.04%; 0.98; 0.2;1;3;
+Reid Detmers;/players/d/detmere01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jimmy Herget;/players/h/hergeji01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tucker Davidson;/players/d/davidtu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Zack Weiss;/players/w/weissza01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matt Moore;/players/m/moorema02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Carlos Estévez;/players/e/estevca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Mickey Moniak (1, off Joe Ryan); Brandon Drury (8, off Joe Ryan).
+
+
+3B: Mickey Moniak (1, off Griffin Jax).
+
+
+SF: Taylor Ward (3, off Joe Ryan).
+
+
+TB: Mickey Moniak 6; Hunter Renfroe 3; Zach Neto 2; Brandon Drury 2; Gio Urshela.
+
+
+GIDP: Brandon Drury (5).
+
+
+RBI: Taylor Ward (17); Mickey Moniak (3); Brandon Drury (23); Hunter Renfroe (29).
+
+
+2-out RBI: Hunter Renfroe.
+
+
+Team LOB: 6.
+With RISP: 1 for 7.
+
+Batting away
+Donovan Solano;/players/s/solando01.shtml;1B-2B;4;0;1;0;0;2;4;.261;.340;.337;.677;15;11;-0.037; 0.61;0.014;-0.050;-0.03%; 0.72; -0.4;1;1;
+Joey Gallo;/players/g/gallojo01.shtml;LF;1;0;0;0;0;1;1;.214;.319;.573;.892;3;3;-0.038; 1.44;0.000;-0.038;-0.03%; 1.69; -0.1;0;0;
+Carlos Correa;/players/c/correca01.shtml;SS;1;1;0;0;3;1;4;.201;.285;.384;.669;22;8;0.065; 0.77;0.081;-0.016; 0.05%; 0.90; 0.6;0;1;
+Byron Buxton;/players/b/buxtoby01.shtml;DH;4;1;1;0;0;1;4;.237;.339;.487;.826;17;11;-0.081; 1.22;0.022;-0.103;-0.06%; 1.43; -0.7;;;
+Kyle Farmer;/players/f/farmeky01.shtml;3B;4;1;2;1;0;2;4;.297;.361;.469;.830;21;15;0.108; 1.56;0.168;-0.061; 0.08%; 1.83; 0.8;0;2;
+Kyle Garlick;/players/g/garliky01.shtml;RF;2;0;0;0;0;2;2;.111;.111;.444;.556;9;6;-0.046; 0.84;0.000;-0.046;-0.03%; 0.99; -0.4;2;0;
+Alex Kirilloff;/players/k/kirilal01.shtml;PH-1B;2;0;1;2;0;0;2;.342;.457;.579;1.035;8;7;0.181; 2.86;0.261;-0.081; 0.13%; 3.35; 1.5;3;0;2B
+Ryan Jeffers;/players/j/jeffery01.shtml;C;3;0;0;0;1;0;4;.250;.373;.393;.766;15;8;-0.133; 1.51;0.013;-0.146;-0.09%; 1.77; -0.8;12;0;
+Willi Castro;/players/c/castrwi01.shtml;2B-LF-2B;4;1;1;1;0;3;4;.221;.293;.368;.661;14;10;0.092; 1.26;0.191;-0.099; 0.07%; 1.48; 0.4;1;0;HR
+Trevor Larnach;/players/l/larnatr01.shtml;LF-RF;4;0;0;0;0;3;4;.218;.322;.387;.709;20;13;-0.135; 1.31;0.000;-0.135;-0.10%; 1.54; -0.8;2;0;
+Michael A. Taylor;/players/t/taylomi02.shtml;CF;4;0;0;0;0;1;4;.231;.284;.398;.683;15;9;-0.115; 1.14;0.000;-0.115;-0.08%; 1.33; -0.7;3;0;
+Joe Ryan;/players/r/ryanjo04.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Griffin Jax;/players/j/jaxgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brock Stewart;/players/s/stewabr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Alex Kirilloff (3, off Jimmy Herget).
+
+
+HR: Willi Castro (2, off Tucker Davidson, 7th inn, 0 on, 0 outs to Deep LF Line).
+
+
+TB: Willi Castro 4; Kyle Farmer 2; Alex Kirilloff 2; Byron Buxton; Donovan Solano.
+
+
+RBI: Alex Kirilloff 2 (5); Kyle Farmer (13); Willi Castro (6).
+
+
+2-out RBI: Alex Kirilloff 2; Kyle Farmer.
+
+
+Team LOB: 6.
+With RISP: 2 for 4.
+
+Pitching home
+Reid Detmers;/players/d/detmere01.shtml;Reid Detmers; 5.2;2;3;3;3;12;0;4.87;22;105;63;22;24;17;2;5;3;0;62;;;0.191; 0.85; 0.12%; 0.88; 1.7
+Jimmy Herget;/players/h/hergeji01.shtml; BS (2); 0.1;1;0;0;0;0;0;4.76;2;5;5;3;0;2;0;2;1;0;;2;2;-0.209; 2.04;-0.13%; 2.12; -1.6
+Tucker Davidson;/players/d/davidtu01.shtml;Tucker Davidson; 0.2;2;1;1;0;0;1;6.30;4;15;9;7;1;1;2;2;0;0;;0;0;-0.160; 0.95;-0.10%; 0.98; -0.7
+Zack Weiss;/players/w/weissza01.shtml; W (1-0); 0.1;0;0;0;1;1;0;0.00;2;10;5;1;2;2;0;0;0;0;;1;0;0.027; 1.42; 0.02%; 1.48; 0.2
+Matt Moore;/players/m/moorema02.shtml; H (10); 1 ;1;0;0;0;1;0;1.17;4;15;12;5;4;3;1;2;0;0;;0;0;0.123; 2.64; 0.08%; 2.75; 0.5
+Carlos Estévez;/players/e/estevca01.shtml; S (11); 1 ;0;0;0;0;2;0;1.29;3;9;7;4;0;3;1;0;0;0;;0;0;0.167; 2.17; 0.10%; 2.26; 0.5
+
+Pitching away
+Joe Ryan;/players/r/ryanjo04.shtml;Joe Ryan; 6 ;7;3;2;1;9;0;2.25;25;94;68;40;18;10;1;14;7;0;56;;;-0.018; 0.96;-0.01%; 1.13; 0.1
+Griffin Jax;/players/j/jaxgr01.shtml; L (2-6); 0.2;3;2;2;1;1;0;5.59;6;33;21;12;4;5;1;3;3;0;;0;0;-0.427; 2.15;-0.30%; 2.53; -2.1
+Brock Stewart;/players/s/stewabr01.shtml;Brock Stewart; 1.1;0;0;0;0;1;0;0.00;4;11;11;4;3;4;2;1;0;0;;2;0;0.083; 0.74; 0.06%; 0.87; 1.1
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Bill Miller, 1B - Roberto Ortiz, 2B - Jeremy Riggs, 3B - Rob Drake, LF - (none), RF - (none).
+Time of Game: 2:40.
+Attendance: 31,079.
+Field Condition: Unknown.
+Start Time Weather: 66° F, Wind 7mph out to Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Twins
+1;Donovan Solano;/players/s/solando01.shtml;1B
+2;Carlos Correa;/players/c/correca01.shtml;SS
+3;Byron Buxton;/players/b/buxtoby01.shtml;DH
+4;Kyle Farmer;/players/f/farmeky01.shtml;3B
+5;Kyle Garlick;/players/g/garliky01.shtml;RF
+6;Ryan Jeffers;/players/j/jeffery01.shtml;C
+7;Willi Castro;/players/c/castrwi01.shtml;2B
+8;Trevor Larnach;/players/l/larnatr01.shtml;LF
+9;Michael A. Taylor;/players/t/taylomi02.shtml;CF
+; Joe Ryan;/players/r/ryanjo04.shtml;P
+Angels
+1;Mickey Moniak;/players/m/moniami01.shtml;CF
+2;Taylor Ward;/players/w/wardta01.shtml;LF
+3;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+4;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+5;Brandon Drury;/players/d/drurybr01.shtml;1B
+6;Gio Urshela;/players/u/urshegi01.shtml;3B
+7;Luis Rengifo;/players/r/rengilu01.shtml;2B
+8;Chad Wallach;/players/w/wallach01.shtml;C
+9;Zach Neto;/players/n/netoza01.shtml;SS
+; Reid Detmers;/players/d/detmere01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b7;3-4;1;1--;3,(0-2) CFX;R;LAA;Mickey Moniak;Griffin Jax;32%;69%;Triple to RF (Line Drive to RF Line); Neto Scores
+t6;1-3;2;12-;3,(0-2) ..CFX;RR;MIN;Alex Kirilloff;Jimmy Herget;-26%;52%;Double to RF (Line Drive to Deep RF Line); Buxton Scores; Farmer Scores
+b7;4-4;2;12-;3,(0-2) CFX;R;LAA;Hunter Renfroe;Griffin Jax;22%;79%;Single to LF (Line Drive to LF-CF); Ward Scores; Ohtani to 3B; Renfroe to 2B
+t7;3-3;0;---;1,(0-0) .X;R;MIN;Willi Castro;Tucker Davidson;-19%;31%;Home Run (Fly Ball to Deep LF Line)
+b7;4-4;1;--3;6,(3-2) S*BCBBX;O;LAA;Taylor Ward;Griffin Jax;-15%;54%;Fielder's Choice ; Moniak out at Hm/3B-C; Ward to 1B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Twins Batting, Tied 0-0, Angels' Reid Detmers facing 1-2-3 
+t1;0-0;0;---;2,(0-1) CX;O;MIN;Donovan Solano;Reid Detmers;2%;52%;Groundout: SS-1B (Deep SS)
+t1;0-0;1;---;5,(2-2) BSF.BS;O;MIN;Carlos Correa;Reid Detmers;2%;54%;Strikeout Swinging
+t1;0-0;2;---;1,(0-0) X;O;MIN;Byron Buxton;Reid Detmers;1%;55%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 0, Angels 0.
+Bottom of the 1st, Angels Batting, Tied 0-0, Twins' Joe Ryan facing 1-2-3 
+b1;0-0;0;---;1,(0-0) X;;LAA;Mickey Moniak;Joe Ryan;3%;58%;Single to LF (Fly Ball to Short LF)
+b1;0-0;0;1--;3,(0-2) SSS;O;LAA;Taylor Ward;Joe Ryan;-3%;55%;Strikeout Swinging
+b1;0-0;1;1--;4,(1-2) BFS.S;O;LAA;Shohei Ohtani;Joe Ryan;-3%;52%;Strikeout Swinging
+b1;0-0;2;1--;7,(2-2) B1CBSFFS;O;LAA;Hunter Renfroe;Joe Ryan;-2%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 0, Angels 0.
+Top of the 2nd, Twins Batting, Tied 0-0, Angels' Reid Detmers facing 4-5-6 
+t2;0-0;0;---;4,(1-2) CBSS;O;MIN;Kyle Farmer;Reid Detmers;2%;52%;Strikeout Swinging
+t2;0-0;1;---;4,(1-2) FBFS;O;MIN;Kyle Garlick;Reid Detmers;2%;54%;Strikeout Swinging
+t2;0-0;2;---;6,(3-2) BSF.BBB;;MIN;Ryan Jeffers;Reid Detmers;-1%;53%;Walk
+t2;0-0;2;1--;4,(1-2) CS*BS;O;MIN;Willi Castro;Reid Detmers;2%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Twins 0, Angels 0.
+Bottom of the 2nd, Angels Batting, Tied 0-0, Twins' Joe Ryan facing 5-6-7 
+b2;0-0;0;---;3,(0-2) CFX;O;LAA;Brandon Drury;Joe Ryan;-2%;53%;Flyball: RF (Deep RF Line)
+b2;0-0;1;---;1,(0-0) X;O;LAA;Gio Urshela;Joe Ryan;-2%;51%;Flyball: RF (Deep CF-RF)
+b2;0-0;2;---;3,(0-2) CFX;O;LAA;Luis Rengifo;Joe Ryan;-1%;50%;Flyball: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 0, Angels 0.
+Top of the 3rd, Twins Batting, Tied 0-0, Angels' Reid Detmers facing 8-9-1 
+t3;0-0;0;---;6,(2-2) CSBBF.S;O;MIN;Trevor Larnach;Reid Detmers;3%;53%;Strikeout Swinging
+t3;0-0;1;---;3,(2-0) BBX;O;MIN;Michael A. Taylor;Reid Detmers;2%;54%;Lineout: CF (Deep CF-RF)
+t3;0-0;2;---;3,(0-2) CS.S;O;MIN;Donovan Solano;Reid Detmers;1%;56%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 0, Angels 0.
+Bottom of the 3rd, Angels Batting, Tied 0-0, Twins' Joe Ryan facing 8-9-1 
+b3;0-0;0;---;3,(0-2) FCC;O;LAA;Chad Wallach;Joe Ryan;-3%;53%;Strikeout Looking
+b3;0-0;1;---;7,(3-2) BFS.BFBX;;LAA;Zach Neto;Joe Ryan;3%;56%;Single to LF (Line Drive to Short LF)
+b3;0-0;1;1--;5,(1-2) FSB1FX;;LAA;Mickey Moniak;Joe Ryan;9%;65%;Double to RF (Line Drive to Deep RF Line); Neto to 3B
+b3;0-0;1;-23;2,(0-1) SX;RO;LAA;Taylor Ward;Joe Ryan;0%;65%;Flyball: CF/Sacrifice Fly (Deep CF); Neto Scores
+b3;1-0;2;-2-;4,(1-2) FFBS;O;LAA;Shohei Ohtani;Joe Ryan;-3%;62%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Twins 0, Angels 1.
+Top of the 4th, Twins Batting, Behind 0-1, Angels' Reid Detmers facing 2-3-4 
+t4;0-1;0;---;5,(3-1) CBBBB;;MIN;Carlos Correa;Reid Detmers;-5%;58%;Walk
+t4;0-1;0;1--;6,(3-2) BBBSS.X;O;MIN;Byron Buxton;Reid Detmers;4%;62%;Popfly: 2B (2B-1B)
+t4;0-1;1;1--;8,(3-2) BFBCFBFS;O;MIN;Kyle Farmer;Reid Detmers;4%;66%;Strikeout Swinging
+t4;0-1;2;1--;5,(2-2) CBBSS;O;MIN;Kyle Garlick;Reid Detmers;3%;69%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Twins 0, Angels 1.
+Bottom of the 4th, Angels Batting, Ahead 1-0, Twins' Joe Ryan facing 4-5-6 
+b4;1-0;0;---;2,(0-1) FX;;LAA;Hunter Renfroe;Joe Ryan;3%;72%;Single to CF (Line Drive to Deep CF-RF)
+b4;1-0;0;1--;1,(0-0) X;R;LAA;Brandon Drury;Joe Ryan;11%;83%;Double to LF (Line Drive to Deep LF); Renfroe Scores
+b4;2-0;0;-2-;4,(1-2) CFBX;O;LAA;Gio Urshela;Joe Ryan;-1%;82%;Lineout: CF (Deep CF); Drury to 3B
+b4;2-0;1;--3;4,(3-0) BBBB;;LAA;Luis Rengifo;Joe Ryan;1%;83%;Walk
+b4;2-0;1;1-3;4,(1-2) L1FB>S;RO;LAA;Chad Wallach;Joe Ryan;2%;85%;Strikeout Swinging, Rengifo Steals 2B; Drury Scores/Adv on E2 (throw)/No RBI/unER; Rengifo to 3B
+b4;3-0;2;--3;8,(3-2) BBFCFFBS;O;LAA;Zach Neto;Joe Ryan;-2%;84%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 1 error, 1 LOB. Twins 0, Angels 3.
+Top of the 5th, Twins Batting, Behind 0-3, Angels' Reid Detmers facing 6-7-8 
+t5;0-3;0;---;4,(2-1) BCBX;O;MIN;Ryan Jeffers;Reid Detmers;2%;86%;Flyball: CF (Deep LF-CF)
+t5;0-3;1;---;5,(2-2) BFBFS;O;MIN;Willi Castro;Reid Detmers;2%;87%;Strikeout Swinging
+t5;0-3;2;---;7,(2-2) BBSCFFS;O;MIN;Trevor Larnach;Reid Detmers;1%;88%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 0, Angels 3.
+Bottom of the 5th, Angels Batting, Ahead 3-0, Twins' Joe Ryan facing 1-2-3 
+b5;3-0;0;---;4,(1-2) BFSC;O;LAA;Mickey Moniak;Joe Ryan;-1%;87%;Strikeout Looking
+b5;3-0;1;---;5,(2-2) FBSBS;O;LAA;Taylor Ward;Joe Ryan;-1%;87%;Strikeout Swinging
+b5;3-0;2;---;4,(2-1) BSBX;O;LAA;Shohei Ohtani;Joe Ryan;-1%;86%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 0, Angels 3.
+Top of the 6th, Twins Batting, Behind 0-3, Angels' Reid Detmers facing 9-1-2 
+t6;0-3;0;---;4,(1-2) CBC.S;O;MIN;Michael A. Taylor;Reid Detmers;2%;89%;Strikeout Swinging
+t6;0-3;1;---;5,(2-2) CBBS.S;O;MIN;Donovan Solano;Reid Detmers;2%;90%;Strikeout Swinging
+t6;0-3;2;---;6,(3-2) BBCS.B*B;;MIN;Carlos Correa;Reid Detmers;-1%;89%;Walk
+t6;0-3;2;1--;6,(2-2) CCBFBX;;MIN;Byron Buxton;Reid Detmers;-2%;87%;Single to LF (Line Drive); Correa to 2B
+t6;0-3;2;12-;6,(2-2) BBCFFX;R;MIN;Kyle Farmer;Reid Detmers;-8%;79%;Single to LF (Line Drive); Correa Scores; Buxton to 2B
+;;;;;;;;;Jimmy Herget replaces Reid Detmers pitchingAlex Kirilloff pinch hits for Kyle Garlick (RF) batting 5th
+t6;1-3;2;12-;3,(0-2) ..CFX;RR;MIN;Alex Kirilloff;Jimmy Herget;-26%;52%;Double to RF (Line Drive to Deep RF Line); Buxton Scores; Farmer Scores
+t6;3-3;2;-2-;2,(0-1) CX;O;MIN;Ryan Jeffers;Jimmy Herget;5%;58%;Flyball: RF
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Twins 3, Angels 3.
+Bottom of the 6th, Angels Batting, Tied 3-3, Twins' Joe Ryan facing 4-5-6 
+;;;;;;;;;Alex Kirilloff moves from PH to 1B Donovan Solano moves from 1B to 2B Willi Castro moves from 2B to LF Trevor Larnach moves from LF to RF 
+b6;3-3;0;---;1,(0-0) ....X;;LAA;Hunter Renfroe;Joe Ryan;5%;63%;Single to CF (Fly Ball to Short LF-CF)
+b6;3-3;0;1--;2,(0-1) CX;OO;LAA;Brandon Drury;Joe Ryan;-11%;52%;Ground Ball Double Play: 2B-1B
+b6;3-3;2;---;6,(2-2) FSFBBX;;LAA;Gio Urshela;Joe Ryan;2%;54%;Single to CF (Line Drive)
+b6;3-3;2;1--;6,(2-2) CBFFBX;O;LAA;Luis Rengifo;Joe Ryan;-4%;50%;Flyball: LF
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Twins 3, Angels 3.
+Top of the 7th, Twins Batting, Tied 3-3, Angels' Tucker Davidson facing 7-8-9 
+;;;;;;;;;Tucker Davidson replaces Jimmy Herget pitching
+t7;3-3;0;---;1,(0-0) .X;R;MIN;Willi Castro;Tucker Davidson;-19%;31%;Home Run (Fly Ball to Deep LF Line)
+t7;4-3;0;---;2,(1-0) BX;O;MIN;Trevor Larnach;Tucker Davidson;3%;33%;Groundout: SS-1B (SS-2B)
+t7;4-3;1;---;7,(3-2) FBS.BFBX;O;MIN;Michael A. Taylor;Tucker Davidson;2%;35%;Flyball: CF (Deep CF)
+t7;4-3;2;---;5,(2-2) CF.BBX;;MIN;Donovan Solano;Tucker Davidson;-1%;34%;Single to SS (Ground Ball to SS-3B Hole)
+;;;;;;;;;Zack Weiss replaces Tucker Davidson pitching
+t7;4-3;2;1--;6,(3-2) .*BCBCB>*B;;MIN;Carlos Correa;Zack Weiss;-2%;32%;Walk; Solano to 2B
+t7;4-3;2;12-;4,(1-2) BFS+2S;O;MIN;Byron Buxton;Zack Weiss;5%;37%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Twins 4, Angels 3.
+Bottom of the 7th, Angels Batting, Behind 3-4, Twins' Griffin Jax facing 8-9-1 
+;;;;;;;;;Griffin Jax replaces Joe Ryan pitchingWilli Castro moves from LF to 2B Joey Gallo replaces Donovan Solano (2B) playing LF batting 1stMatt Thaiss pinch hits for Chad Wallach (C) batting 8th
+b7;3-4;0;---;8,(3-2) ....BCBSFFBS;O;LAA;Matt Thaiss;Griffin Jax;-5%;32%;Strikeout Swinging
+b7;3-4;1;---;6,(2-2) FBS.BFX;;LAA;Zach Neto;Griffin Jax;5%;37%;Single to RF (Line Drive to Deep RF Line)
+b7;3-4;1;1--;3,(0-2) CFX;R;LAA;Mickey Moniak;Griffin Jax;32%;69%;Triple to RF (Line Drive to RF Line); Neto Scores
+b7;4-4;1;--3;6,(3-2) S*BCBBX;O;LAA;Taylor Ward;Griffin Jax;-15%;54%;Fielder's Choice ; Moniak out at Hm/3B-C; Ward to 1B
+b7;4-4;2;1--;7,(3-2) CBBFF*B>B;;LAA;Shohei Ohtani;Griffin Jax;3%;57%;Walk; Ward to 2B
+b7;4-4;2;12-;3,(0-2) CFX;R;LAA;Hunter Renfroe;Griffin Jax;22%;79%;Single to LF (Line Drive to LF-CF); Ward Scores; Ohtani to 3B; Renfroe to 2B
+;;;;;;;;;Brock Stewart replaces Griffin Jax pitching
+b7;5-4;2;-23;3,(0-2) .CCX;O;LAA;Brandon Drury;Brock Stewart;-5%;74%;Groundout: 3B-1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Twins 4, Angels 5.
+Top of the 8th, Twins Batting, Behind 4-5, Angels' Matt Moore facing 4-5-6 
+;;;;;;;;;Matt Moore replaces Zack Weiss pitchingMatt Thaiss moves from PH to C 
+t8;4-5;0;---;3,(0-2) ..CSX;;MIN;Kyle Farmer;Matt Moore;-9%;66%;Single to LF (Fly Ball to Short LF)
+t8;4-5;0;1--;5,(1-2) CSF*BX;O;MIN;Alex Kirilloff;Matt Moore;8%;74%;Groundout: P-SS/Forceout at 2B (Front of Home); Kirilloff to 1B
+t8;4-5;1;1--;3,(1-1) BFX;O;MIN;Ryan Jeffers;Matt Moore;7%;81%;Popfly: 2B (Deep SS-2B)
+t8;4-5;2;1--;4,(1-2) CBSS;O;MIN;Willi Castro;Matt Moore;6%;87%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 4, Angels 5.
+Bottom of the 8th, Angels Batting, Ahead 5-4, Twins' Brock Stewart facing 6-7-8 
+b8;5-4;0;---;4,(0-2) CSFX;O;LAA;Gio Urshela;Brock Stewart;-1%;85%;Groundout: SS-1B (Deep SS)
+b8;5-4;1;---;1,(0-0) X;O;LAA;Luis Rengifo;Brock Stewart;-1%;84%;Flyball: CF
+b8;5-4;2;---;3,(0-2) SS.C;O;LAA;Matt Thaiss;Brock Stewart;-1%;83%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 4, Angels 5.
+Top of the 9th, Twins Batting, Behind 4-5, Angels' Carlos Estévez facing 8-9-1 
+;;;;;;;;;Carlos Estévez replaces Matt Moore pitching
+t9;4-5;0;---;5,(2-2) .CBBFC;O;MIN;Trevor Larnach;Carlos Estévez;7%;91%;Strikeout Looking
+t9;4-5;1;---;1,(0-0) X;O;MIN;Michael A. Taylor;Carlos Estévez;5%;96%;Groundout: SS-1B
+t9;4-5;2;---;3,(0-2) FFC;O;MIN;Joey Gallo;Carlos Estévez;4%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 4, Angels 5.

@@ -1,0 +1,277 @@
+
+Scorebox Meta
+20230825
+7:10 p.m. Local
+25144
+Target Field
+145
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/TEX-2023.png;/teams/TEX/2023.shtml;0;1;0;0;0;0;0;1;0;2;8;0
+https://cdn.ssref.net/req/202308251/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;4;0;0;0;0;0;6;2;X;12;12;0
+
+Batting home
+Edouard Julien;/players/j/julieed01.shtml;DH;5;2;1;3;1;4;6;.285;.378;.479;.857;22;15;0.011; 0.36;0.041;-0.031; 0.01%; 0.26; 1.9;;;HR
+Jorge Polanco;/players/p/polanjo01.shtml;2B;3;0;1;0;2;0;5;.245;.325;.422;.746;19;11;0.058; 0.47;0.069;-0.010; 0.03%; 0.33; 0.9;1;3;
+Carlos Correa;/players/c/correca01.shtml;SS;5;1;1;1;0;1;5;.229;.308;.406;.714;16;11;-0.103; 0.67;0.029;-0.132;-0.04%; 0.47; -1.1;1;3;HR,GDP
+Max Kepler;/players/k/keplema01.shtml;RF;3;2;2;1;2;0;5;.244;.310;.482;.792;19;8;0.043; 0.51;0.046;-0.003; 0.02%; 0.36; 1.7;4;0;HR,2B
+Royce Lewis;/players/l/lewisro02.shtml;3B;3;2;1;0;2;1;5;.328;.377;.508;.885;17;9;0.016; 0.75;0.050;-0.034; 0.01%; 0.53; 0.0;1;2;
+Matt Wallner;/players/w/wallnma01.shtml;LF;4;3;2;3;0;1;5;.244;.350;.528;.878;18;10;0.188; 0.84;0.231;-0.044; 0.08%; 0.59; 2.5;4;0;3B,2B,HBP
+Ryan Jeffers;/players/j/jeffery01.shtml;C;3;1;2;2;0;0;5;.288;.389;.495;.884;12;5;0.069; 0.45;0.076;-0.007; 0.03%; 0.31; 2.2;5;0;2·HBP
+Joey Gallo;/players/g/gallojo01.shtml;CF;2;0;0;0;0;1;2;.179;.302;.444;.746;7;6;-0.046; 0.88;0.000;-0.046;-0.02%; 0.61; -1.0;0;0;
+Jordan Luplow;/players/l/luplojo01.shtml;CF;3;0;0;0;0;1;3;.217;.321;.326;.647;11;7;-0.008; 0.10;0.000;-0.008;-0.00%; 0.07; -1.1;2;0;
+Donovan Solano;/players/s/solando01.shtml;1B;4;1;2;2;1;0;5;.282;.371;.399;.770;12;8;0.004; 0.28;0.024;-0.020; 0.00%; 0.20; 1.9;8;1;
+Sonny Gray;/players/g/grayso01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Cole Sands;/players/s/sandsco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Max Kepler (16, off Dane Dunning); Matt Wallner (6, off Austin Hedges).
+
+
+3B: Matt Wallner (1, off Dane Dunning).
+
+
+HR: Carlos Correa (16, off Martín Pérez, 7th inn, 0 on, 0 outs to Deep LF); Edouard Julien (11, off Grant Anderson, 7th inn, 2 on, 2 outs to Deep CF); Max Kepler (21, off Austin Hedges, 8th inn, 0 on, 0 outs to Deep RF).
+
+
+HBP: Ryan Jeffers 2 (10, 1 by Austin Hedges, 1 by Dane Dunning); Matt Wallner (10, by Martín Pérez).
+
+
+TB: Max Kepler 6; Matt Wallner 5; Carlos Correa 4; Edouard Julien 4; Donovan Solano 2; Ryan Jeffers 2; Jorge Polanco; Royce Lewis.
+
+
+GIDP: Carlos Correa (25).
+
+
+RBI: Edouard Julien 3 (25); Matt Wallner 3 (25); Ryan Jeffers 2 (30); Donovan Solano 2 (28); Max Kepler (49); Carlos Correa (57).
+
+
+2-out RBI: Matt Wallner 3; Edouard Julien 3; Donovan Solano 2; Ryan Jeffers.
+
+
+Team LOB: 10.
+With RISP: 7 for 15.
+
+Batting away
+Marcus Semien;/players/s/semiema01.shtml;2B;4;0;0;0;0;1;4;.276;.346;.462;.808;12;9;-0.092; 0.78;0.000;-0.092;-0.11%; 1.52; -1.3;1;5;
+Corey Seager;/players/s/seageco01.shtml;SS;4;1;2;0;0;0;4;.347;.415;.659;1.073;10;6;-0.017; 0.55;0.040;-0.057;-0.02%; 1.06; 0.2;0;3;2B
+Josh H. Smith;/players/s/smithjo11.shtml;SS;0;0;0;0;0;0;0;.205;.326;.329;.654;;;;;;;;;;0;0;
+Nathaniel Lowe;/players/l/lowena01.shtml;1B;4;0;2;1;0;0;4;.281;.370;.450;.820;15;8;-0.033; 0.70;0.028;-0.062;-0.04%; 1.35; 0.4;10;0;
+Adolis García;/players/g/garciad02.shtml;RF;4;0;0;0;0;1;4;.250;.328;.498;.826;10;8;-0.086; 0.82;0.000;-0.086;-0.10%; 1.58; -1.1;0;0;
+Mitch Garver;/players/g/garvemi01.shtml;DH;3;1;1;1;0;0;4;.274;.358;.500;.858;17;8;0.067; 0.51;0.090;-0.022; 0.08%; 0.99; 0.7;;;HR,HBP
+Jonah Heim;/players/h/heimjo01.shtml;C;0;0;0;0;0;0;0;.267;.325;.452;.776;;;;;;;;;;1;0;
+Travis Jankowski;/players/j/jankotr01.shtml;LF;4;0;0;0;0;0;4;.281;.371;.357;.728;13;8;-0.095; 0.73;0.000;-0.095;-0.11%; 1.41; -1.3;2;0;GDP
+Ezequiel Duran;/players/d/duranez01.shtml;3B;3;0;0;0;0;1;3;.285;.336;.469;.805;8;6;-0.053; 0.70;0.000;-0.053;-0.06%; 1.35; -0.6;0;2;
+J.P. Martínez;/players/m/martijp01.shtml;PH;1;0;0;0;0;1;1;.276;.303;.310;.613;4;3;0.000; 0.00;0.000;0.000;0%; 0.00; -0.2;;;
+Leody Taveras;/players/t/taverle01.shtml;CF;4;0;2;0;0;0;4;.261;.300;.429;.729;10;8;0.048; 0.32;0.057;-0.009; 0.06%; 0.62; 0.4;2;0;2·2B
+Austin Hedges;/players/h/hedgeau01.shtml;C-P;3;0;1;0;0;1;3;.178;.232;.225;.457;14;9;-0.007; 1.11;0.055;-0.062;-0.01%; 2.15; -0.1;8;0;
+Dane Dunning;/players/d/dunnida01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Martín Pérez;/players/p/perezma02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Grant Anderson;/players/a/andergr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Corey Seager (34, off Sonny Gray); Leody Taveras 2 (26, 2 off Sonny Gray).
+
+
+HR: Mitch Garver (11, off Sonny Gray, 2nd inn, 0 on, 0 outs to Deep LF-CF).
+
+
+HBP: Mitch Garver (1, by Sonny Gray).
+
+
+TB: Mitch Garver 4; Leody Taveras 4; Corey Seager 3; Nathaniel Lowe 2; Austin Hedges.
+
+
+GIDP: Travis Jankowski (4).
+
+
+RBI: Mitch Garver (34); Nathaniel Lowe (68).
+
+
+Team LOB: 6.
+With RISP: 1 for 10.
+
+Pitching home
+Sonny Gray;/players/g/grayso01.shtml; W (7-6); 7 ;6;1;1;0;4;1;3.06;27;81;53;31;10;12;9;13;5;0;65;;;0.267; 0.88; 0.11%; 0.62; 2.6
+Cole Sands;/players/s/sandsco01.shtml;Cole Sands; 2 ;2;1;0;0;1;0;3.57;8;32;20;13;2;5;4;3;1;0;;0;0;0.001; 0.01; 0.00%; 0.01; 0.0
+
+Pitching away
+Dane Dunning;/players/d/dunnida01.shtml; L (9-6); 4 ;5;4;4;6;6;0;3.36;23;82;44;19;7;18;4;6;4;0;36;;;-0.214; 0.93;-0.25%; 1.80; -1.9
+Martín Pérez;/players/p/perezma02.shtml;Martín Pérez; 2.1;1;3;3;1;1;1;5.05;10;23;16;12;1;3;6;1;0;0;;0;0;0.007; 0.21; 0.01%; 0.41; -0.4
+Grant Anderson;/players/a/andergr01.shtml;Grant Anderson; 0.2;3;3;3;1;1;1;5.05;6;22;14;8;3;3;2;2;1;0;;2;2;-0.025; 0.09;-0.03%; 0.18; -4.1
+Austin Hedges;/players/h/hedgeau01.shtml;Austin Hedges; 1 ;3;2;2;0;1;1;18.00;7;26;16;9;1;6;0;5;2;0;;0;0;0.000; 0.00; 0.00%; 0.00; -1.5
+
+indiv_events
+
+Balks: None.
+WP: Sonny Gray (3).
+HBP: Austin Hedges (1; Ryan Jeffers); Dane Dunning (8; Ryan Jeffers); Sonny Gray (4; Mitch Garver); Martín Pérez (2; Matt Wallner).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Sonny Gray (3).
+HBP: Austin Hedges (1; Ryan Jeffers); Dane Dunning (8; Ryan Jeffers); Sonny Gray (4; Mitch Garver); Martín Pérez (2; Matt Wallner).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Carlos Torres, 1B - Jansen Visconti, 2B - John Bacon, 3B - Cory Blaser, LF - (none), RF - (none).
+Time of Game: 2:25.
+Attendance: 25,144.
+Field Condition: Unknown.
+Start Time Weather: 84° F, Wind 11mph out to Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Rangers
+1;Marcus Semien;/players/s/semiema01.shtml;2B
+2;Corey Seager;/players/s/seageco01.shtml;SS
+3;Nathaniel Lowe;/players/l/lowena01.shtml;1B
+4;Adolis García;/players/g/garciad02.shtml;RF
+5;Mitch Garver;/players/g/garvemi01.shtml;DH
+6;Travis Jankowski;/players/j/jankotr01.shtml;LF
+7;Ezequiel Duran;/players/d/duranez01.shtml;3B
+8;Leody Taveras;/players/t/taverle01.shtml;CF
+9;Austin Hedges;/players/h/hedgeau01.shtml;C
+; Dane Dunning;/players/d/dunnida01.shtml;P
+Twins
+1;Edouard Julien;/players/j/julieed01.shtml;DH
+2;Jorge Polanco;/players/p/polanjo01.shtml;2B
+3;Carlos Correa;/players/c/correca01.shtml;SS
+4;Max Kepler;/players/k/keplema01.shtml;RF
+5;Royce Lewis;/players/l/lewisro02.shtml;3B
+6;Matt Wallner;/players/w/wallnma01.shtml;LF
+7;Ryan Jeffers;/players/j/jeffery01.shtml;C
+8;Joey Gallo;/players/g/gallojo01.shtml;CF
+9;Donovan Solano;/players/s/solando01.shtml;1B
+; Sonny Gray;/players/g/grayso01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-0;2;123;3,(1-1) BFX;RRR;MIN;Matt Wallner;Dane Dunning;23%;80%;Triple to RF (Line Drive to Deep RF Line); Julien Scores; Kepler Scores; Lewis Scores
+b1;0-0;0;12-;2,(0-1) CX;OO;MIN;Carlos Correa;Dane Dunning;-10%;54%;Ground Ball Double Play: SS-2B-1B; Julien to 3B
+t2;0-4;0;---;7,(3-2) BBCFFBX;R;TEX;Mitch Garver;Sonny Gray;-6%;78%;Home Run (Fly Ball to Deep LF-CF)
+b1;0-0;0;1--;7,(3-2) BF*BBSFB;;MIN;Jorge Polanco;Dane Dunning;5%;64%;Walk; Julien to 2B
+b1;3-0;2;--3;5,(3-1) *BBF*BX;R;MIN;Ryan Jeffers;Dane Dunning;5%;85%;Single to RF (Ground Ball); Wallner Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Rangers Batting, Tied 0-0, Twins' Sonny Gray facing 1-2-3 
+t1;0-0;0;---;2,(0-1) CX;O;TEX;Marcus Semien;Sonny Gray;2%;52%;Flyball: RF (Deep RF)
+t1;0-0;1;---;2,(0-1) TX;;TEX;Corey Seager;Sonny Gray;-4%;48%;Double to LF (Line Drive to Deep LF Line)
+t1;0-0;1;-2-;4,(2-1) BBFX;O;TEX;Nathaniel Lowe;Sonny Gray;3%;52%;Flyball: LF (LF Line)
+t1;0-0;2;-2-;4,(1-2) CCB*S;O;TEX;Adolis García;Sonny Gray;3%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rangers 0, Twins 0.
+Bottom of the 1st, Twins Batting, Tied 0-0, Rangers' Dane Dunning facing 1-2-3 
+b1;0-0;0;---;5,(3-1) BBBCB;;MIN;Edouard Julien;Dane Dunning;3%;58%;Walk
+b1;0-0;0;1--;7,(3-2) BF*BBSFB;;MIN;Jorge Polanco;Dane Dunning;5%;64%;Walk; Julien to 2B
+b1;0-0;0;12-;2,(0-1) CX;OO;MIN;Carlos Correa;Dane Dunning;-10%;54%;Ground Ball Double Play: SS-2B-1B; Julien to 3B
+b1;0-0;2;--3;5,(3-1) SBBBB;;MIN;Max Kepler;Dane Dunning;1%;55%;Walk
+b1;0-0;2;1-3;4,(3-0) BBBB;;MIN;Royce Lewis;Dane Dunning;2%;57%;Walk; Kepler to 2B
+b1;0-0;2;123;3,(1-1) BFX;RRR;MIN;Matt Wallner;Dane Dunning;23%;80%;Triple to RF (Line Drive to Deep RF Line); Julien Scores; Kepler Scores; Lewis Scores
+b1;3-0;2;--3;5,(3-1) *BBF*BX;R;MIN;Ryan Jeffers;Dane Dunning;5%;85%;Single to RF (Ground Ball); Wallner Scores
+b1;4-0;2;1--;4,(1-2) CCBX;O;MIN;Joey Gallo;Dane Dunning;-1%;84%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;4 runs, 2 hits, 0 errors, 1 LOB. Rangers 0, Twins 4.
+Top of the 2nd, Rangers Batting, Behind 0-4, Twins' Sonny Gray facing 5-6-7 
+t2;0-4;0;---;7,(3-2) BBCFFBX;R;TEX;Mitch Garver;Sonny Gray;-6%;78%;Home Run (Fly Ball to Deep LF-CF)
+t2;1-4;0;---;2,(1-0) BX;O;TEX;Travis Jankowski;Sonny Gray;2%;80%;Lineout: RF (Deep CF-RF)
+t2;1-4;1;---;1,(0-0) X;O;TEX;Ezequiel Duran;Sonny Gray;1%;81%;Groundout: 2B-1B
+t2;1-4;2;---;2,(0-1) CX;O;TEX;Leody Taveras;Sonny Gray;1%;82%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Rangers 1, Twins 4.
+Bottom of the 2nd, Twins Batting, Ahead 4-1, Rangers' Dane Dunning facing 9-1-2 
+b2;4-1;0;---;1,(0-0) X;O;MIN;Donovan Solano;Dane Dunning;-1%;81%;Groundout: SS-1B
+b2;4-1;1;---;5,(2-2) BBSFC;O;MIN;Edouard Julien;Dane Dunning;-1%;80%;Strikeout Looking
+b2;4-1;2;---;1,(0-0) X;O;MIN;Jorge Polanco;Dane Dunning;-1%;79%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 1, Twins 4.
+Top of the 3rd, Rangers Batting, Behind 1-4, Twins' Sonny Gray facing 9-1-2 
+t3;1-4;0;---;6,(2-2) BSSB.FX;;TEX;Austin Hedges;Sonny Gray;-4%;76%;Single to LF (Line Drive to LF-CF)
+t3;1-4;0;1--;2,(0-1) FB;;TEX;Marcus Semien;Sonny Gray;-2%;74%;Wild Pitch; Hedges to 2B
+t3;1-4;0;-2-;4,(1-2) FB.SS;O;TEX;Marcus Semien;Sonny Gray;4%;78%;Strikeout Swinging
+t3;1-4;1;-2-;5,(3-1) BSBBX;O;TEX;Corey Seager;Sonny Gray;3%;81%;Flyball: RF (CF-RF)
+t3;1-4;2;-2-;2,(1-0) BX;O;TEX;Nathaniel Lowe;Sonny Gray;3%;84%;Groundout: P-1B (Short 1B Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rangers 1, Twins 4.
+Bottom of the 3rd, Twins Batting, Ahead 4-1, Rangers' Dane Dunning facing 3-4-5 
+b3;4-1;0;---;6,(3-2) CFBBB.C;O;MIN;Carlos Correa;Dane Dunning;-1%;83%;Strikeout Looking
+b3;4-1;1;---;1,(0-0) X;;MIN;Max Kepler;Dane Dunning;2%;85%;Double to RF (Line Drive to Deep RF)
+b3;4-1;1;-2-;2,(0-1) CX;;MIN;Royce Lewis;Dane Dunning;2%;87%;Single to RF (Line Drive to Short RF); Kepler to 3B
+b3;4-1;1;1-3;6,(3-2) BBF*S.BC;O;MIN;Matt Wallner;Dane Dunning;-3%;84%;Strikeout Looking
+b3;4-1;2;1-3;1,(0-0) H;;MIN;Ryan Jeffers;Dane Dunning;1%;85%;Hit By Pitch; Lewis to 2B
+b3;4-1;2;123;3,(0-2) SCC;O;MIN;Joey Gallo;Dane Dunning;-4%;81%;Strikeout Looking
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Rangers 1, Twins 4.
+Top of the 4th, Rangers Batting, Behind 1-4, Twins' Sonny Gray facing 4-5-6 
+;;;;;;;;;Jordan Luplow replaces Joey Gallo playing CF batting 8th
+t4;1-4;0;---;1,(0-0) ...X;O;TEX;Adolis García;Sonny Gray;2%;83%;Groundout: SS-1B
+t4;1-4;1;---;1,(0-0) H;;TEX;Mitch Garver;Sonny Gray;-3%;81%;Hit By Pitch
+t4;1-4;1;1--;2,(0-1) CX;OO;TEX;Travis Jankowski;Sonny Gray;5%;86%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 1, Twins 4.
+Bottom of the 4th, Twins Batting, Ahead 4-1, Rangers' Dane Dunning facing 9-1-2 
+b4;4-1;0;---;5,(3-1) BBCBB;;MIN;Donovan Solano;Dane Dunning;2%;88%;Walk
+b4;4-1;0;1--;3,(0-2) SCC;O;MIN;Edouard Julien;Dane Dunning;-2%;86%;Strikeout Looking
+b4;4-1;1;1--;3,(0-2) CCX;;MIN;Jorge Polanco;Dane Dunning;2%;88%;Single to CF (Line Drive to Deep CF); Solano to 2B
+b4;4-1;1;12-;1,(0-0) X;O;MIN;Carlos Correa;Dane Dunning;-2%;86%;Flyball: LF (Short LF)
+b4;4-1;2;12-;6,(3-2) *BBFC.B>B;;MIN;Max Kepler;Dane Dunning;1%;87%;Walk; Solano to 3B; Polanco to 2B
+b4;4-1;2;123;3,(0-2) CF*S;O;MIN;Royce Lewis;Dane Dunning;-3%;83%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Rangers 1, Twins 4.
+Top of the 5th, Rangers Batting, Behind 1-4, Twins' Sonny Gray facing 7-8-9 
+t5;1-4;0;---;4,(2-1) BBFX;O;TEX;Ezequiel Duran;Sonny Gray;2%;86%;Flyball: CF (Deep CF-RF)
+t5;1-4;1;---;2,(1-0) BX;;TEX;Leody Taveras;Sonny Gray;-4%;82%;Double to RF (Ground Ball)
+t5;1-4;1;-2-;2,(0-1) CX;O;TEX;Austin Hedges;Sonny Gray;4%;85%;Flyball: LF (Short LF Line)
+t5;1-4;2;-2-;2,(1-0) BX;O;TEX;Marcus Semien;Sonny Gray;3%;88%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rangers 1, Twins 4.
+Bottom of the 5th, Twins Batting, Ahead 4-1, Rangers' Martín Pérez facing 6-7-8 
+;;;;;;;;;Martín Pérez replaces Dane Dunning pitching
+b5;4-1;0;---;1,(0-0) .X;O;MIN;Matt Wallner;Martín Pérez;-1%;87%;Groundout: 2B-1B
+b5;4-1;1;---;1,(0-0) X;O;MIN;Ryan Jeffers;Martín Pérez;-1%;87%;Groundout: SS-1B
+b5;4-1;2;---;3,(1-1) .CBX;O;MIN;Jordan Luplow;Martín Pérez;-1%;86%;Groundout: 3B-1B (Weak SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 1, Twins 4.
+Top of the 6th, Rangers Batting, Behind 1-4, Twins' Sonny Gray facing 2-3-4 
+t6;1-4;0;---;1,(0-0) X;O;TEX;Corey Seager;Sonny Gray;2%;89%;Flyball: LF (Deep LF Line)
+t6;1-4;1;---;3,(1-1) CBX;;TEX;Nathaniel Lowe;Sonny Gray;-3%;86%;Single to 1B (Ground Ball)
+t6;1-4;1;1--;4,(1-2) FS*BX;O;TEX;Adolis García;Sonny Gray;3%;89%;Flyball: RF (Short RF)
+t6;1-4;2;1--;4,(2-1) BC*BX;O;TEX;Mitch Garver;Sonny Gray;2%;91%;Groundout: SS-2B/Forceout at 2B; Garver to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rangers 1, Twins 4.
+Bottom of the 6th, Twins Batting, Ahead 4-1, Rangers' Martín Pérez facing 9-1-2 
+b6;4-1;0;---;2,(0-1) CX;O;MIN;Donovan Solano;Martín Pérez;-1%;90%;Groundout: 2B-1B (SS-2B)
+b6;4-1;1;---;4,(1-2) FFBS;O;MIN;Edouard Julien;Martín Pérez;-1%;90%;Strikeout Swinging
+b6;4-1;2;---;2,(0-1) FX;O;MIN;Jorge Polanco;Martín Pérez;0%;89%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 1, Twins 4.
+Top of the 7th, Rangers Batting, Behind 1-4, Twins' Sonny Gray facing 6-7-8 
+t7;1-4;0;---;4,(2-1) BBCX;O;TEX;Travis Jankowski;Sonny Gray;2%;92%;Groundout: 1B-P (2B-1B)
+t7;1-4;1;---;3,(0-2) CFC;O;TEX;Ezequiel Duran;Sonny Gray;2%;93%;Strikeout Looking
+t7;1-4;2;---;1,(0-0) X;;TEX;Leody Taveras;Sonny Gray;-2%;91%;Double to CF (Line Drive to Deep CF-RF)
+t7;1-4;2;-2-;6,(3-2) SBBSB*S;O;TEX;Austin Hedges;Sonny Gray;3%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rangers 1, Twins 4.
+Bottom of the 7th, Twins Batting, Ahead 4-1, Rangers' Martín Pérez facing 3-4-5 
+b7;4-1;0;---;2,(0-1) CX;R;MIN;Carlos Correa;Martín Pérez;3%;97%;Home Run (Fly Ball to Deep LF)
+b7;5-1;0;---;1,(0-0) X;O;MIN;Max Kepler;Martín Pérez;0%;97%;Groundout: 1B unassisted (2B-1B)
+b7;5-1;1;---;6,(3-2) BBF.BFB;;MIN;Royce Lewis;Martín Pérez;0%;97%;Walk
+b7;5-1;1;1--;1,(0-0) H;;MIN;Matt Wallner;Martín Pérez;0%;97%;Hit By Pitch; Lewis to 2B
+;;;;;;;;;Grant Anderson replaces Martín Pérez pitching
+b7;5-1;1;12-;1,(0-0) .X;R;MIN;Ryan Jeffers;Grant Anderson;1%;99%;Single to 2B (Ground Ball); Lewis Scores; Wallner to 2B
+b7;6-1;1;12-;5,(2-2) BSCBC;O;MIN;Jordan Luplow;Grant Anderson;0%;98%;Strikeout Looking
+b7;6-1;2;12-;3,(0-2) FTX;R;MIN;Donovan Solano;Grant Anderson;1%;99%;Single to CF (Line Drive to Deep LF-CF); Wallner Scores; Jeffers to 2B
+b7;7-1;2;12-;2,(0-1) SX;RRR;MIN;Edouard Julien;Grant Anderson;1%;100%;Home Run (Fly Ball to Deep CF); Jeffers Scores; Solano Scores
+b7;10-1;2;---;6,(3-2) BBS.FBB;;MIN;Jorge Polanco;Grant Anderson;0%;100%;Walk
+b7;10-1;2;1--;5,(2-2) CBBFX;O;MIN;Carlos Correa;Grant Anderson;0%;100%;Groundout: 2B-1B (Deep 2B)
+;;;;;;;;;6 runs, 4 hits, 0 errors, 1 LOB. Rangers 1, Twins 10.
+Top of the 8th, Rangers Batting, Behind 1-10, Twins' Cole Sands facing 1-2-3 
+;;;;;;;;;Cole Sands replaces Sonny Gray pitching
+t8;1-10;0;---;4,(1-2) .CBCX;O;TEX;Marcus Semien;Cole Sands;0%;100%;Groundout: 3B-1B
+t8;1-10;1;---;2,(1-0) BX;;TEX;Corey Seager;Cole Sands;0%;100%;Single to RF (Ground Ball thru 2B-1B)
+t8;1-10;1;1--;5,(2-2) BBFFB;;TEX;Nathaniel Lowe;Cole Sands;0%;100%;Passed Ball; Seager to 2B
+t8;1-10;1;-2-;6,(3-2) BBFFB.X;R;TEX;Nathaniel Lowe;Cole Sands;0%;100%;Single to CF (Line Drive); Seager Scores/unER
+t8;2-10;1;1--;1,(0-0) X;O;TEX;Adolis García;Cole Sands;0%;100%;Groundout: 2B-1B (2B-1B); Lowe to 2B
+t8;2-10;2;-2-;5,(3-1) CBBBX;O;TEX;Mitch Garver;Cole Sands;0%;100%;Foul Popfly: 3B (3B into Foul Terr.)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Rangers 2, Twins 10.
+Bottom of the 8th, Twins Batting, Ahead 10-2, Rangers' Austin Hedges facing 4-5-6 
+;;;;;;;;;Austin Hedges moves from C to P Jonah Heim replaces Mitch Garver (DH) playing C batting 5thJosh H. Smith replaces Corey Seager playing SS batting 2nd
+b8;10-2;0;---;6,(3-2) ...BBCBCX;R;MIN;Max Kepler;Austin Hedges;0%;100%;Home Run (Fly Ball to Deep RF)
+b8;11-2;0;---;2,(0-1) CX;O;MIN;Royce Lewis;Austin Hedges;0%;100%;Flyball: CF
+b8;11-2;1;---;7,(3-2) CBTBBFX;;MIN;Matt Wallner;Austin Hedges;0%;100%;Double to RF (Line Drive to Deep CF-RF)
+b8;11-2;1;-2-;4,(2-1) CBBH;;MIN;Ryan Jeffers;Austin Hedges;0%;100%;Hit By Pitch
+b8;11-2;1;12-;3,(1-1) BFX;O;MIN;Jordan Luplow;Austin Hedges;0%;100%;Flyball: LF (Deep LF)
+b8;11-2;2;12-;1,(0-0) X;R;MIN;Donovan Solano;Austin Hedges;0%;100%;Single to LF (Line Drive to Deep LF Line); Wallner Scores; Jeffers to 2B
+b8;12-2;2;12-;3,(0-2) CFS;O;MIN;Edouard Julien;Austin Hedges;0%;100%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Rangers 2, Twins 12.
+Top of the 9th, Rangers Batting, Behind 2-12, Twins' Cole Sands facing 6-7-8 
+t9;2-12;0;---;5,(2-2) CCBBX;O;TEX;Travis Jankowski;Cole Sands;0%;100%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;J.P. Martínez pinch hits for Ezequiel Duran (3B) batting 7th
+t9;2-12;1;---;4,(1-2) .FSBS;O;TEX;J.P. Martínez;Cole Sands;0%;100%;Strikeout Swinging
+t9;2-12;2;---;5,(1-2) BFT.FX;O;TEX;Leody Taveras;Cole Sands;0%;100%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 2, Twins 12.

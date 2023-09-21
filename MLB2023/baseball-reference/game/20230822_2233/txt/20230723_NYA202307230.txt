@@ -1,0 +1,278 @@
+
+Scorebox Meta
+20230723
+1:35 p.m. Local
+44130
+Yankee Stadium III
+167
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/KCR-2023.png;/teams/KCR/2023.shtml;0;0;0;1;0;2;0;0;2;5;12;1
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;4;0;1;0;0;0;0;3;X;8;11;0
+
+Batting home
+Jake Bauers;/players/b/bauerja01.shtml;RF;3;1;1;0;1;1;4;.226;.316;.467;.784;24;12;0.039; 0.42;0.050;-0.011; 0.02%; 0.35; 0.4;1;0;
+Greg Allen;/players/a/allengr01.shtml;PR-LF;1;0;0;0;0;0;1;.200;.294;.533;.827;3;2;-0.020; 0.29;0.000;-0.020;-0.01%; 0.24; -0.8;1;0;CS
+Gleyber Torres;/players/t/torregl01.shtml;2B;3;1;1;2;0;0;3;.264;.330;.439;.769;7;5;0.143; 0.57;0.151;-0.008; 0.07%; 0.48; 1.4;1;0;HR
+Anthony Volpe;/players/v/volpean01.shtml;PH-SS;1;0;0;0;0;0;1;.209;.281;.376;.657;7;5;-0.015; 0.63;0.000;-0.015;-0.01%; 0.53; -0.4;0;0;
+Giancarlo Stanton;/players/s/stantmi03.shtml;DH;4;1;2;0;0;1;4;.207;.281;.457;.737;16;9;0.020; 0.34;0.033;-0.013; 0.01%; 0.28; 0.4;;;
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;4;3;4;2;0;0;4;.253;.338;.398;.737;25;17;0.144; 0.45;0.144;0.000; 0.07%; 0.37; 3.2;6;0;HR,2B
+DJ LeMahieu;/players/l/lemahdj01.shtml;3B;3;1;1;0;1;0;4;.233;.297;.375;.672;17;9;-0.007; 0.38;0.023;-0.029;-0.00%; 0.32; -0.3;1;3;2B,GDP
+Harrison Bader;/players/b/baderha01.shtml;CF;3;0;1;1;0;1;4;.249;.280;.424;.704;13;9;0.014; 0.46;0.033;-0.019; 0.01%; 0.39; -0.2;3;0;SH
+Billy McKinney;/players/m/mckinbi01.shtml;LF-RF;2;1;0;0;2;1;4;.247;.326;.482;.809;14;7;-0.023; 0.41;0.002;-0.025;-0.01%; 0.34; -0.3;1;0;IW
+Oswald Peraza;/players/p/perazos02.shtml;SS-2B;4;0;1;1;0;1;4;.184;.344;.204;.548;12;8;0.001; 0.43;0.030;-0.029;0%; 0.36; 1.0;2;2;
+Kyle Higashioka;/players/h/higasky01.shtml;C;3;0;0;1;0;1;4;.223;.256;.369;.625;16;11;-0.020; 0.21;0.002;-0.022;-0.01%; 0.18; -0.6;11;1;SF
+Luis Severino;/players/s/severlu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Ian Hamilton;/players/h/hamilia01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael King;/players/k/kingmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ron Marinaccio;/players/m/marinro01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Anthony Rizzo (14, off Jordan Lyles); DJ LeMahieu (16, off Jordan Lyles).
+
+
+HR: Gleyber Torres (16, off Jordan Lyles, 1st inn, 1 on, 0 outs to Deep CF-RF); Anthony Rizzo (12, off Jordan Lyles, 3rd inn, 0 on, 1 out to Deep CF-RF).
+
+
+SF: Kyle Higashioka (3, off Scott Barlow).
+
+
+SH: Harrison Bader (1, off Scott Barlow).
+
+
+IBB: Billy McKinney (1, by Scott Barlow).
+
+
+TB: Anthony Rizzo 8; Gleyber Torres 4; DJ LeMahieu 2; Giancarlo Stanton 2; Harrison Bader; Oswald Peraza; Jake Bauers.
+
+
+GIDP: DJ LeMahieu (8).
+
+
+RBI: Anthony Rizzo 2 (41); Gleyber Torres 2 (43); Harrison Bader (32); Kyle Higashioka (25); Oswald Peraza (5).
+
+
+Team LOB: 5.
+With RISP: 2 for 8.
+
+Batting away
+Maikel Garcia;/players/g/garcima01.shtml;3B;5;0;2;0;0;1;5;.279;.330;.377;.706;22;17;0.023; 0.67;0.086;-0.063;0%; 0.00; -0.2;2;1;
+Bobby Witt;/players/w/wittbo02.shtml;SS;4;0;2;0;0;0;4;.253;.292;.443;.735;20;12;-0.077; 0.98;0.043;-0.121;0%; 0.00; -0.5;0;2;SB,CS
+MJ Melendez;/players/m/melenmj01.shtml;LF;4;1;2;0;0;1;4;.216;.294;.350;.643;17;13;0.090; 0.88;0.121;-0.031;0%; 0.00; 0.7;2;0;2B
+Salvador Perez;/players/p/perezsa02.shtml;DH;4;1;1;1;0;1;4;.246;.288;.431;.719;13;8;-0.098; 1.35;0.044;-0.142;0%; 0.00; -0.3;;;HR
+Michael Massey;/players/m/massemi02.shtml;2B;4;1;2;2;0;1;4;.213;.267;.343;.610;19;14;0.025; 1.13;0.119;-0.095;0%; 0.00; 1.3;5;2;HR
+Freddy Fermin;/players/f/fermifr01.shtml;C;4;1;2;1;0;1;4;.293;.339;.491;.830;10;8;0.048; 0.46;0.072;-0.024;0%; 0.00; 1.6;7;1;HR,2B
+Nick Pratto;/players/p/prattni01.shtml;1B;4;0;0;0;0;2;4;.241;.330;.383;.713;19;12;-0.107; 0.82;0.000;-0.107;0%; 0.00; -1.4;5;0;
+Drew Waters;/players/w/waterdr01.shtml;RF;4;0;0;0;0;3;4;.233;.280;.367;.646;33;24;-0.088; 0.80;0.000;-0.088;0%; 0.00; -1.2;0;0;
+Dairon Blanco;/players/b/blancda02.shtml;CF;2;0;0;0;0;0;2;.232;.283;.429;.712;9;5;-0.028; 0.55;0.000;-0.028;0%; 0.00; -0.4;2;0;
+Kyle Isbel;/players/i/isbelky01.shtml;PH-CF;2;1;1;1;0;1;2;.208;.247;.364;.611;6;4;-0.011; 0.27;0.003;-0.014;0%; 0.00; 0.9;1;0;HR
+Jordan Lyles;/players/l/lylesjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jose Cuas;/players/c/cuasjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Taylor Clarke;/players/c/clarkta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Scott Barlow;/players/b/barlosc01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Nick Wittgren;/players/w/wittgni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Freddy Fermin (6, off Luis Severino); MJ Melendez (21, off Luis Severino).
+
+
+HR: Salvador Perez (16, off Luis Severino, 4th inn, 0 on, 0 outs to Deep RF); Michael Massey (7, off Luis Severino, 6th inn, 1 on, 2 outs to Deep CF-RF); Freddy Fermin (5, off Ron Marinaccio, 9th inn, 0 on, 0 outs to Deep LF Line); Kyle Isbel (3, off Ron Marinaccio, 9th inn, 0 on, 2 outs to Deep CF-RF).
+
+
+TB: Freddy Fermin 6; Michael Massey 5; Kyle Isbel 4; Salvador Perez 4; MJ Melendez 3; Bobby Witt 2; Maikel Garcia 2.
+
+
+RBI: Michael Massey 2 (29); Freddy Fermin (21); Salvador Perez (41); Kyle Isbel (13).
+
+
+2-out RBI: Michael Massey 2; Kyle Isbel.
+
+
+Team LOB: 5.
+With RISP: 1 for 7.
+
+Pitching home
+Luis Severino;/players/s/severlu01.shtml; W (2-4); 5.2;8;3;3;0;5;2;6.46;23;100;68;47;9;12;7;11;3;0;46;;;0.058; 0.66; 0.03%; 0.55; -0.1
+Ian Hamilton;/players/h/hamilia01.shtml; H (3); 1.1;0;0;0;0;2;0;1.71;4;26;19;11;4;4;0;2;0;0;;0;0;0.084; 0.82; 0.04%; 0.69; 0.6
+Michael King;/players/k/kingmi01.shtml; H (5); 1 ;2;0;0;0;2;0;3.23;5;19;14;6;4;4;2;1;0;0;;0;0;0.075; 2.44; 0.04%; 2.04; 0.5
+Ron Marinaccio;/players/m/marinro01.shtml;Ron Marinaccio; 1 ;2;2;2;0;2;2;3.95;5;23;16;11;0;5;1;2;1;0;;0;0;0.006; 0.14; 0.00%; 0.12; -1.5
+
+Pitching away
+Jordan Lyles;/players/l/lylesjo01.shtml; L (1-12); 5 ;9;5;5;1;3;2;6.19;24;93;58;34;8;16;4;16;8;0;31;;;-0.276; 0.43; 0.00%; 0.00; -2.5
+Jose Cuas;/players/c/cuasjo01.shtml;Jose Cuas; 1 ;0;0;0;0;2;0;3.89;3;11;8;2;2;4;1;0;0;0;;0;0;0.030; 0.38; 0.00%; 0.00; 0.5
+Taylor Clarke;/players/c/clarkta01.shtml;Taylor Clarke; 1 ;0;0;0;1;1;0;6.00;3;21;12;7;2;3;0;1;0;0;;0;0;0.024; 0.45; 0.00%; 0.00; 0.5
+Scott Barlow;/players/b/barlosc01.shtml;Scott Barlow; 0.2;2;3;2;2;0;0;5.30;6;26;14;8;0;6;3;1;0;0;;0;0;-0.055; 0.34; 0.00%; 0.00; -2.9
+Nick Wittgren;/players/w/wittgni01.shtml;Nick Wittgren; 0.1;0;0;0;0;0;0;6.65;1;3;2;2;0;0;0;1;0;0;;1;0;0.001; 0.04; 0.00%; 0.00; 0.4
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: Scott Barlow (1; Billy McKinney).
+Pickoffs: Luis Severino (3; Maikel Garcia, 1st base).
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: Scott Barlow (1; Billy McKinney).
+Pickoffs: Luis Severino (3; Maikel Garcia, 1st base).
+
+section_content
+Umpires: HP - Mark Carlson, 1B - Jordan Baker, 2B - Brennan Miller, 3B - Lance Barrett, LF - (none), RF - (none).
+Time of Game: 2:47.
+Attendance: 44,130.
+Field Condition: Unknown.
+Start Time Weather: 84° F, Wind 6mph in from Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Royals
+1;Maikel Garcia;/players/g/garcima01.shtml;3B
+2;Bobby Witt;/players/w/wittbo02.shtml;SS
+3;MJ Melendez;/players/m/melenmj01.shtml;LF
+4;Salvador Perez;/players/p/perezsa02.shtml;DH
+5;Michael Massey;/players/m/massemi02.shtml;2B
+6;Freddy Fermin;/players/f/fermifr01.shtml;C
+7;Nick Pratto;/players/p/prattni01.shtml;1B
+8;Drew Waters;/players/w/waterdr01.shtml;RF
+9;Dairon Blanco;/players/b/blancda02.shtml;CF
+; Jordan Lyles;/players/l/lylesjo01.shtml;P
+Yankees
+1;Jake Bauers;/players/b/bauerja01.shtml;RF
+2;Gleyber Torres;/players/t/torregl01.shtml;2B
+3;Giancarlo Stanton;/players/s/stantmi03.shtml;DH
+4;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+5;DJ LeMahieu;/players/l/lemahdj01.shtml;3B
+6;Harrison Bader;/players/b/baderha01.shtml;CF
+7;Billy McKinney;/players/m/mckinbi01.shtml;LF
+8;Oswald Peraza;/players/p/perazos02.shtml;SS
+9;Kyle Higashioka;/players/h/higasky01.shtml;C
+; Luis Severino;/players/s/severlu01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-0;0;1--;1,(0-0) X;RR;NYY;Gleyber Torres;Jordan Lyles;15%;73%;Home Run (Fly Ball to Deep CF-RF); Bauers Scores
+t8;3-5;1;1-3;4,(1-2) BS1FS;O;KCR;Salvador Perez;Michael King;10%;86%;Strikeout Swinging
+t6;1-5;2;-2-;5,(2-2) FBFBX;RR;KCR;Michael Massey;Luis Severino;-10%;83%;Home Run (Fly Ball to Deep CF-RF); Melendez Scores
+t8;3-5;1;1--;3,(1-1) FBX;;KCR;MJ Melendez;Michael King;-9%;76%;Single to CF (Ground Ball thru SS-2B); Garcia to 3B
+b1;2-0;0;1--;2,(0-1) CX;R;NYY;Anthony Rizzo;Jordan Lyles;8%;84%;Double to CF (Line Drive to Deep LF-CF); Stanton Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Royals Batting, Tied 0-0, Yankees' Luis Severino facing 1-2-3 
+t1;0-0;0;---;3,(0-2) FCS;O;KCR;Maikel Garcia;Luis Severino;2%;52%;Strikeout Swinging
+t1;0-0;1;---;5,(2-2) FFBBX;O;KCR;Bobby Witt;Luis Severino;2%;54%;Foul Popfly: 3B
+t1;0-0;2;---;6,(2-2) SFBFBX;O;KCR;MJ Melendez;Luis Severino;1%;55%;Popfly: SS
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Yankees 0.
+Bottom of the 1st, Yankees Batting, Tied 0-0, Royals' Jordan Lyles facing 1-2-3 
+b1;0-0;0;---;6,(3-2) FBFBB.X;;NYY;Jake Bauers;Jordan Lyles;3%;58%;Single to CF (Line Drive to Deep CF-RF)
+b1;0-0;0;1--;1,(0-0) X;RR;NYY;Gleyber Torres;Jordan Lyles;15%;73%;Home Run (Fly Ball to Deep CF-RF); Bauers Scores
+b1;2-0;0;---;4,(2-1) CBBX;;NYY;Giancarlo Stanton;Jordan Lyles;2%;76%;Single to LF (Ground Ball thru SS-3B Hole)
+b1;2-0;0;1--;2,(0-1) CX;R;NYY;Anthony Rizzo;Jordan Lyles;8%;84%;Double to CF (Line Drive to Deep LF-CF); Stanton Scores
+b1;3-0;0;-2-;4,(1-2) CFBX;O;NYY;DJ LeMahieu;Jordan Lyles;-1%;83%;Groundout: 2B-1B; Rizzo to 3B
+b1;3-0;1;--3;4,(1-2) SF*BX;R;NYY;Harrison Bader;Jordan Lyles;3%;87%;Single to CF (Line Drive to Short CF); Rizzo Scores
+b1;4-0;1;1--;3,(2-0) B1BX;O;NYY;Billy McKinney;Jordan Lyles;-1%;85%;Flyball: CF (Deep CF-RF)
+b1;4-0;2;1--;2,(0-1) C1X;O;NYY;Oswald Peraza;Jordan Lyles;-1%;84%;Popfly: 2B
+;;;;;;;;;4 runs, 5 hits, 0 errors, 1 LOB. Royals 0, Yankees 4.
+Top of the 2nd, Royals Batting, Behind 0-4, Yankees' Luis Severino facing 4-5-6 
+t2;0-4;0;---;4,(2-1) BCBX;O;KCR;Salvador Perez;Luis Severino;2%;86%;Groundout: 3B-1B
+t2;0-4;1;---;5,(1-2) FSFBX;;KCR;Michael Massey;Luis Severino;-2%;84%;Single to RF (Ground Ball thru 2B-1B)
+t2;0-4;1;1--;1,(0-0) X;;KCR;Freddy Fermin;Luis Severino;-6%;78%;Ground-rule Double (Line Drive to Deep RF Line); Massey to 3B
+t2;0-4;1;-23;4,(1-2) CBFS;O;KCR;Nick Pratto;Luis Severino;6%;84%;Strikeout Swinging
+t2;0-4;2;-23;6,(2-2) SSBBFS;O;KCR;Drew Waters;Luis Severino;4%;88%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Royals 0, Yankees 4.
+Bottom of the 2nd, Yankees Batting, Ahead 4-0, Royals' Jordan Lyles facing 9-1-2 
+b2;4-0;0;---;7,(3-2) CBBFBFX;O;NYY;Kyle Higashioka;Jordan Lyles;-1%;87%;Popfly: 3B (P's Right)
+b2;4-0;1;---;4,(2-1) FBBX;O;NYY;Jake Bauers;Jordan Lyles;-1%;87%;Lineout: 1B
+b2;4-0;2;---;5,(2-2) FBBSX;O;NYY;Gleyber Torres;Jordan Lyles;0%;86%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Yankees 4.
+Top of the 3rd, Royals Batting, Behind 0-4, Yankees' Luis Severino facing 9-1-2 
+t3;0-4;0;---;5,(2-2) FBFBX;O;KCR;Dairon Blanco;Luis Severino;2%;88%;Foul Popfly: RF (RF into Foul Terr.)
+t3;0-4;1;---;8,(3-2) BBCFFBFX;;KCR;Maikel Garcia;Luis Severino;-2%;86%;Single to RF (Ground Ball thru 2B-1B)
+t3;0-4;1;1--;1,(0-1) C1;O;KCR;Bobby Witt;Luis Severino;3%;89%;Garcia Picked off 1B (P-1B)
+t3;0-4;2;---;3,(1-1) C1.BX;;KCR;Bobby Witt;Luis Severino;-1%;88%;Single to 2B (Ground Ball to SS-2B)
+t3;0-4;2;1--;1,(0-0) >B;;KCR;MJ Melendez;Luis Severino;-1%;88%;Witt Steals 2B
+t3;0-4;2;-2-;4,(1-2) >B.FCS;O;KCR;MJ Melendez;Luis Severino;2%;90%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Royals 0, Yankees 4.
+Bottom of the 3rd, Yankees Batting, Ahead 4-0, Royals' Jordan Lyles facing 3-4-5 
+b3;4-0;0;---;3,(2-0) BBX;O;NYY;Giancarlo Stanton;Jordan Lyles;-1%;89%;Lineout: 3B
+b3;4-0;1;---;8,(3-2) BBC.BCFFX;R;NYY;Anthony Rizzo;Jordan Lyles;4%;93%;Home Run (Fly Ball to Deep CF-RF)
+b3;5-0;1;---;3,(1-1) BC.X;;NYY;DJ LeMahieu;Jordan Lyles;1%;94%;Double to LF (Line Drive to LF Line)
+b3;5-0;1;-2-;2,(0-1) CX;O;NYY;Harrison Bader;Jordan Lyles;-1%;93%;Flyball: CF (Deep CF)
+b3;5-0;2;-2-;7,(3-2) BBSFFBB;;NYY;Billy McKinney;Jordan Lyles;0%;93%;Walk
+b3;5-0;2;12-;3,(0-2) CSS;O;NYY;Oswald Peraza;Jordan Lyles;-1%;92%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Royals 0, Yankees 5.
+Top of the 4th, Royals Batting, Behind 0-5, Yankees' Luis Severino facing 4-5-6 
+t4;0-5;0;---;4,(2-1) CBBX;R;KCR;Salvador Perez;Luis Severino;-4%;88%;Home Run (Fly Ball to Deep RF)
+t4;1-5;0;---;5,(1-2) BFTFX;O;KCR;Michael Massey;Luis Severino;2%;90%;Flyball: CF
+t4;1-5;1;---;3,(0-2) FCX;O;KCR;Freddy Fermin;Luis Severino;1%;91%;Groundout: SS-1B (SS-3B Hole)
+t4;1-5;2;---;5,(3-1) BBBCX;O;KCR;Nick Pratto;Luis Severino;1%;91%;Popfly: 2B (Front of Home)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Royals 1, Yankees 5.
+Bottom of the 4th, Yankees Batting, Ahead 5-1, Royals' Jordan Lyles facing 9-1-2 
+b4;5-1;0;---;1,(0-0) X;O;NYY;Kyle Higashioka;Jordan Lyles;-1%;91%;Flyball: LF (Deep LF-CF)
+b4;5-1;1;---;6,(3-2) BBBCCS;O;NYY;Jake Bauers;Jordan Lyles;-1%;90%;Strikeout Swinging
+b4;5-1;2;---;1,(0-0) X;O;NYY;Gleyber Torres;Jordan Lyles;0%;90%;Foul Popfly: C (Behind Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 1, Yankees 5.
+Top of the 5th, Royals Batting, Behind 1-5, Yankees' Luis Severino facing 8-9-1 
+t5;1-5;0;---;4,(1-2) CBFS;O;KCR;Drew Waters;Luis Severino;2%;92%;Strikeout Swinging
+t5;1-5;1;---;4,(2-1) FBBX;O;KCR;Dairon Blanco;Luis Severino;1%;93%;Flyball: LF (Deep LF-CF)
+t5;1-5;2;---;4,(1-2) BCFX;O;KCR;Maikel Garcia;Luis Severino;1%;93%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 1, Yankees 5.
+Bottom of the 5th, Yankees Batting, Ahead 5-1, Royals' Jordan Lyles facing 3-4-5 
+b5;5-1;0;---;3,(0-2) CCX;;NYY;Giancarlo Stanton;Jordan Lyles;1%;94%;Single to CF (Line Drive to Deep CF)
+b5;5-1;0;1--;5,(2-2) CFBB.X;;NYY;Anthony Rizzo;Jordan Lyles;1%;95%;Single to CF (Line Drive); Stanton to 2B
+b5;5-1;0;12-;4,(2-1) BCBX;OO;NYY;DJ LeMahieu;Jordan Lyles;-2%;93%;Ground Ball Double Play: SS-2B-1B; Stanton to 3B
+b5;5-1;2;--3;5,(2-2) BFBSS;O;NYY;Harrison Bader;Jordan Lyles;-1%;92%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Royals 1, Yankees 5.
+Top of the 6th, Royals Batting, Behind 1-5, Yankees' Luis Severino facing 2-3-4 
+t6;1-5;0;---;7,(3-2) FBFFBB.X;;KCR;Bobby Witt;Luis Severino;-3%;89%;Single to LF (Line Drive to LF-CF)
+t6;1-5;0;1--;2,(0-1) F1>C;O;KCR;MJ Melendez;Luis Severino;5%;94%;Witt Caught Stealing 2B (C-SS)
+t6;1-5;1;---;4,(0-2) F1>C.FX;;KCR;MJ Melendez;Luis Severino;-3%;91%;Double to RF (Line Drive to Deep RF)
+t6;1-5;1;-2-;1,(0-0) X;O;KCR;Salvador Perez;Luis Severino;2%;93%;Groundout: SS-1B
+t6;1-5;2;-2-;5,(2-2) FBFBX;RR;KCR;Michael Massey;Luis Severino;-10%;83%;Home Run (Fly Ball to Deep CF-RF); Melendez Scores
+;;;;;;;;;Ian Hamilton replaces Luis Severino pitching
+t6;3-5;2;---;4,(1-2) .BFS.T;O;KCR;Freddy Fermin;Ian Hamilton;1%;85%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 0 LOB. Royals 3, Yankees 5.
+Bottom of the 6th, Yankees Batting, Ahead 5-3, Royals' Jose Cuas facing 7-8-9 
+;;;;;;;;;Jose Cuas replaces Jordan Lyles pitching
+b6;5-3;0;---;4,(1-2) .CC.BS;O;NYY;Billy McKinney;Jose Cuas;-1%;83%;Strikeout Swinging
+b6;5-3;1;---;3,(2-0) BBX;O;NYY;Oswald Peraza;Jose Cuas;-1%;82%;Groundout: SS-1B
+b6;5-3;2;---;4,(0-2) CC.FS;O;NYY;Kyle Higashioka;Jose Cuas;-1%;82%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Yankees 5.
+Top of the 7th, Royals Batting, Behind 3-5, Yankees' Ian Hamilton facing 7-8-9 
+t7;3-5;0;---;4,(1-2) BCCX;O;KCR;Nick Pratto;Ian Hamilton;3%;85%;Flyball: CF (Deep CF)
+t7;3-5;1;---;13,(3-2) SCFBFFFBFFBFX;O;KCR;Drew Waters;Ian Hamilton;2%;87%;Flyball: CF (CF-RF)
+;;;;;;;;;Kyle Isbel pinch hits for Dairon Blanco (CF) batting 9th
+t7;3-5;2;---;5,(2-2) .CSBBS;O;KCR;Kyle Isbel;Ian Hamilton;1%;89%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Yankees 5.
+Bottom of the 7th, Yankees Batting, Ahead 5-3, Royals' Taylor Clarke facing 1-2-3 
+;;;;;;;;;Taylor Clarke replaces Jose Cuas pitchingKyle Isbel moves from PH to CF 
+b7;5-3;0;---;8,(3-2) ..BBCF.FBF*B;;NYY;Jake Bauers;Taylor Clarke;2%;90%;Walk
+;;;;;;;;;Anthony Volpe pinch hits for Gleyber Torres (2B) batting 2ndGreg Allen pinch runs for Jake Bauers (RF) batting 1st
+b7;5-3;0;1--;7,(2-2) ..BC*BF1FF>X;O;NYY;Anthony Volpe;Taylor Clarke;-1%;89%;Popfly: 2B (Deep 2B)
+b7;5-3;1;1--;1,(0-0) >C;O;NYY;Giancarlo Stanton;Taylor Clarke;-2%;87%;Allen Caught Stealing 2B (C-2B)
+b7;5-3;2;---;6,(3-2) >C.BSBBS;O;NYY;Giancarlo Stanton;Taylor Clarke;-1%;86%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Yankees 5.
+Top of the 8th, Royals Batting, Behind 3-5, Yankees' Michael King facing 1-2-3 
+;;;;;;;;;Michael King replaces Ian Hamilton pitchingOswald Peraza moves from SS to 2B Anthony Volpe moves from PH to SS Greg Allen moves from PR to LF Billy McKinney moves from LF to RF 
+t8;3-5;0;---;3,(0-2) .....FCX;;KCR;Maikel Garcia;Michael King;-7%;80%;Single to SS (Ground Ball to Weak SS)
+t8;3-5;0;1--;5,(2-2) CBBCX;O;KCR;Bobby Witt;Michael King;6%;86%;Flyball: LF
+t8;3-5;1;1--;3,(1-1) FBX;;KCR;MJ Melendez;Michael King;-9%;76%;Single to CF (Ground Ball thru SS-2B); Garcia to 3B
+t8;3-5;1;1-3;4,(1-2) BS1FS;O;KCR;Salvador Perez;Michael King;10%;86%;Strikeout Swinging
+t8;3-5;2;1-3;4,(1-2) BSCS;O;KCR;Michael Massey;Michael King;8%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Royals 3, Yankees 5.
+Bottom of the 8th, Yankees Batting, Ahead 5-3, Royals' Scott Barlow facing 4-5-6 
+;;;;;;;;;Scott Barlow replaces Taylor Clarke pitching
+b8;5-3;0;---;10,(3-2) .CC.FBBFFFBX;;NYY;Anthony Rizzo;Scott Barlow;1%;95%;Single to CF (Ground Ball thru SS-2B)
+b8;5-3;0;1--;6,(3-2) CBBCBB;;NYY;DJ LeMahieu;Scott Barlow;1%;96%;Walk; Rizzo to 2B
+b8;5-3;0;12-;2,(1-0) BX;O;NYY;Harrison Bader;Scott Barlow;0%;96%;Bunt Groundout: P-2B/Sacrifice; Rizzo to 3B; LeMahieu to 2B
+b8;5-3;1;-23;,(3-0) VVVV;;NYY;Billy McKinney;Scott Barlow;0%;96%;Intentional Walk
+b8;5-3;1;123;4,(2-1) BC*BX;RR;NYY;Oswald Peraza;Scott Barlow;3%;99%;Single to 1B (Ground Ball to Weak 2B-1B); Rizzo Scores; LeMahieu Scores/Adv on E3 (throw)/No RBI; McKinney to 3B; Peraza to 2B
+b8;7-3;1;-23;4,(2-1) CBBX;RO;NYY;Kyle Higashioka;Scott Barlow;0%;99%;Flyball: LF/Sacrifice Fly (Deep LF); McKinney Scores/unER; Peraza to 3B
+;;;;;;;;;Nick Wittgren replaces Scott Barlow pitching
+b8;8-3;2;--3;3,(1-1) .BFX;O;NYY;Greg Allen;Nick Wittgren;0%;99%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;3 runs, 2 hits, 1 error, 1 LOB. Royals 3, Yankees 8.
+Top of the 9th, Royals Batting, Behind 3-8, Yankees' Ron Marinaccio facing 6-7-8 
+;;;;;;;;;Ron Marinaccio replaces Michael King pitching
+t9;3-8;0;---;2,(1-0) .BX;R;KCR;Freddy Fermin;Ron Marinaccio;-1%;99%;Home Run (Fly Ball to Deep LF Line)
+t9;4-8;0;---;6,(2-2) CF.BFBT;O;KCR;Nick Pratto;Ron Marinaccio;1%;99%;Strikeout Swinging
+t9;4-8;1;---;10,(3-2) FBBCFBFFFC;O;KCR;Drew Waters;Ron Marinaccio;0%;100%;Strikeout Looking
+t9;4-8;2;---;1,(0-0) X;R;KCR;Kyle Isbel;Ron Marinaccio;0%;100%;Home Run (Line Drive to Deep CF-RF)
+t9;5-8;2;---;4,(1-2) CBCX;O;KCR;Maikel Garcia;Ron Marinaccio;0%;100%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Royals 5, Yankees 8.

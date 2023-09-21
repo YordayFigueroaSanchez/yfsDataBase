@@ -1,0 +1,266 @@
+
+Scorebox Meta
+20230818
+7:05 p.m. Local
+44566
+Yankee Stadium III
+166
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;4;3;0;0;0;0;0;0;1;8;12;0
+https://cdn.ssref.net/req/202308251/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;0;1;0;0;0;0;2;0;3;10;1
+
+Batting home
+DJ LeMahieu;/players/l/lemahdj01.shtml;3B;4;1;2;1;0;0;4;.245;.319;.373;.692;18;12;-0.011; 0.33;0.009;-0.020;-0.00%; 0.07; 0.3;0;2;
+Aaron Judge;/players/j/judgeaa01.shtml;DH;4;1;1;2;0;1;4;.281;.413;.621;1.034;17;10;-0.006; 0.26;0.018;-0.024;-0.00%; 0.05; 1.2;;;HR
+Jake Bauers;/players/b/bauerja01.shtml;1B;3;0;0;0;1;1;4;.210;.289;.439;.728;11;6;-0.018; 0.34;0.010;-0.027;-0.00%; 0.07; -0.5;7;1;
+Giancarlo Stanton;/players/s/stantmi03.shtml;RF;4;0;1;0;0;2;4;.202;.282;.441;.723;18;13;-0.019; 0.30;0.009;-0.028;-0.00%; 0.06; -0.2;0;0;
+Gleyber Torres;/players/t/torregl01.shtml;2B;4;0;2;0;0;1;4;.267;.333;.433;.766;18;12;-0.010; 0.26;0.014;-0.024;-0.00%; 0.05; -0.3;4;4;GDP
+Billy McKinney;/players/m/mckinbi01.shtml;LF;3;0;1;0;0;0;3;.232;.322;.416;.738;8;5;-0.001; 0.25;0.011;-0.012;0%; 0.05; -0.1;2;0;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;PH;1;0;1;0;0;0;1;.257;.323;.368;.691;5;2;0.028; 0.45;0.028;0.000; 0.00%; 0.08; 1.1;;;2B
+Harrison Bader;/players/b/baderha01.shtml;CF;4;0;0;0;0;3;4;.255;.289;.392;.682;14;10;-0.046; 0.48;0.000;-0.046;-0.01%; 0.09; -1.4;4;0;
+Anthony Volpe;/players/v/volpean01.shtml;SS;4;1;2;0;0;2;4;.216;.293;.392;.685;21;12;0.015; 0.33;0.035;-0.020; 0.00%; 0.06; 0.1;0;3;2B
+Ben Rortvedt;/players/r/rortvbe01.shtml;C;4;0;0;0;0;1;4;.105;.227;.211;.438;23;14;-0.052; 0.39;0.000;-0.052;-0.01%; 0.07; -1.8;9;0;GDP
+Jhony Brito;/players/b/britojh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ian Hamilton;/players/h/hamilia01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Keynan Middleton;/players/m/middlke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Greg Weissert;/players/w/weissgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Anthony Volpe (15, off Brayan Bello); Isiah Kiner-Falefa (10, off Brennan Bernardino).
+
+
+HR: Aaron Judge (23, off Garrett Whitlock, 8th inn, 1 on, 1 out to Deep RF).
+
+
+TB: Aaron Judge 4; Anthony Volpe 3; Gleyber Torres 2; Isiah Kiner-Falefa 2; DJ LeMahieu 2; Giancarlo Stanton; Billy McKinney.
+
+
+GIDP: Ben Rortvedt (1); Gleyber Torres (18).
+
+
+RBI: Aaron Judge 2 (47); DJ LeMahieu (30).
+
+
+Team LOB: 6.
+With RISP: 0 for 6.
+
+Batting away
+Alex Verdugo;/players/v/verdual01.shtml;RF;5;3;3;0;0;2;5;.275;.343;.433;.776;21;13;0.084; 0.28;0.090;-0.006; 0.03%; 0.17; 1.1;0;0;2·2B
+Rafael Devers;/players/d/deverra01.shtml;3B;4;2;3;2;1;1;5;.266;.339;.511;.851;21;12;0.101; 0.49;0.105;-0.004; 0.04%; 0.29; 2.5;1;4;
+Justin Turner;/players/t/turneju01.shtml;DH;5;1;3;2;0;0;5;.289;.355;.483;.839;14;11;0.084; 0.50;0.090;-0.006; 0.03%; 0.30; 0.9;;;GDP
+Masataka Yoshida;/players/y/yoshima02.shtml;LF;4;1;2;4;0;1;4;.302;.358;.473;.831;12;7;0.165; 0.61;0.175;-0.010; 0.06%; 0.36; 2.4;3;0;HR,GDP
+Triston Casas;/players/c/casastr01.shtml;1B;4;0;0;0;0;2;4;.253;.353;.483;.836;13;10;-0.021; 0.21;0.000;-0.021;-0.01%; 0.13; -1.2;9;0;
+Trevor Story;/players/s/storytr01.shtml;SS;4;0;0;0;0;0;4;.200;.243;.314;.558;11;8;-0.017; 0.17;0.000;-0.017;-0.01%; 0.10; -0.9;1;6;
+Jarren Duran;/players/d/duranja01.shtml;CF;4;0;0;0;0;0;4;.295;.346;.486;.832;8;6;-0.010; 0.10;0.000;-0.010;-0.00%; 0.06; -0.6;0;0;
+Reese McGuire;/players/m/mcguire01.shtml;C;4;0;1;0;0;2;4;.273;.307;.379;.686;15;12;-0.009; 0.16;0.006;-0.015;-0.00%; 0.10; -0.3;11;0;2B
+Pablo Reyes;/players/r/reyespa01.shtml;2B;4;1;0;0;0;1;4;.307;.344;.421;.765;14;10;0.004; 0.15;0.011;-0.007; 0.00%; 0.09; -0.4;2;2;
+Brayan Bello;/players/b/bellobr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Garrett Whitlock;/players/w/whitlga01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brennan Bernardino;/players/b/bernabr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chris Martin;/players/m/martich02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Alex Verdugo 2 (31, 1 off Jhony Brito, 1 off Greg Weissert); Reese McGuire (11, off Jhony Brito).
+
+
+HR: Masataka Yoshida (13, off Jhony Brito, 1st inn, 2 on, 0 outs to Deep CF-RF).
+
+
+TB: Alex Verdugo 5; Masataka Yoshida 5; Justin Turner 3; Rafael Devers 3; Reese McGuire 2.
+
+
+GIDP: Justin Turner (10); Masataka Yoshida (15).
+
+
+RBI: Masataka Yoshida 4 (60); Justin Turner 2 (75); Rafael Devers 2 (83).
+
+
+2-out RBI: Rafael Devers.
+
+
+Team LOB: 4.
+With RISP: 7 for 11.
+
+Pitching home
+Jhony Brito;/players/b/britojh01.shtml; L (4-6); 2.1;9;7;6;0;1;1;5.43;17;46;34;19;2;13;4;12;7;0;14;;;-0.409; 0.59;-0.05%; 0.11; -6.2
+Ian Hamilton;/players/h/hamilia01.shtml;Ian Hamilton; 3.2;1;0;0;0;5;0;1.72;11;43;28;12;9;7;4;2;1;0;;1;0;0.030; 0.13; 0.00%; 0.02; 2.2
+Keynan Middleton;/players/m/middlke01.shtml;Keynan Middleton; 1 ;0;0;0;1;1;0;3.40;3;13;7;4;2;1;1;0;0;0;;0;0;0.004; 0.10; 0.00%; 0.02; 0.5
+Greg Weissert;/players/w/weissgr01.shtml;Greg Weissert; 2 ;2;1;1;0;2;0;4.15;8;27;20;12;5;3;3;3;2;0;;0;0;-0.005; 0.05;-0.00%; 0.01; 0.0
+
+Pitching away
+Brayan Bello;/players/b/bellobr01.shtml; W (9-7); 6 ;6;1;1;1;4;0;3.70;23;98;60;34;9;17;12;6;3;0;59;;;0.105; 0.35; 0.04%; 0.21; 2.1
+Garrett Whitlock;/players/w/whitlga01.shtml;Garrett Whitlock; 2 ;2;2;2;0;5;1;5.72;8;33;24;12;6;6;2;1;0;0;;0;0;0.007; 0.17; 0.00%; 0.10; -1.0
+Brennan Bernardino;/players/b/bernabr01.shtml;Brennan Bernardino; 0.1;2;0;0;0;1;0;2.70;3;13;6;3;1;2;0;2;2;0;;0;0;-0.017; 0.55;-0.01%; 0.33; -0.9
+Chris Martin;/players/m/martich02.shtml;Chris Martin; 0.2;0;0;0;0;1;0;1.32;2;9;6;3;1;2;0;1;0;0;;2;0;0.025; 0.41; 0.01%; 0.24; 1.4
+
+indiv_events
+
+Balks: None.
+WP: Greg Weissert (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Greg Weissert (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Manny Gonzalez, 1B - Charlie Ramos, 2B - Junior Valentine, 3B - Quinn Wolcott, LF - (none), RF - (none).
+Time of Game: 2:46.
+Attendance: 44,566.
+Field Condition: Unknown.
+Start Time Weather: 78° F, Wind 15mph out to Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Red Sox
+1;Alex Verdugo;/players/v/verdual01.shtml;RF
+2;Rafael Devers;/players/d/deverra01.shtml;3B
+3;Justin Turner;/players/t/turneju01.shtml;DH
+4;Masataka Yoshida;/players/y/yoshima02.shtml;LF
+5;Triston Casas;/players/c/casastr01.shtml;1B
+6;Trevor Story;/players/s/storytr01.shtml;SS
+7;Jarren Duran;/players/d/duranja01.shtml;CF
+8;Reese McGuire;/players/m/mcguire01.shtml;C
+9;Pablo Reyes;/players/r/reyespa01.shtml;2B
+; Brayan Bello;/players/b/bellobr01.shtml;P
+Yankees
+1;DJ LeMahieu;/players/l/lemahdj01.shtml;3B
+2;Aaron Judge;/players/j/judgeaa01.shtml;DH
+3;Jake Bauers;/players/b/bauerja01.shtml;1B
+4;Giancarlo Stanton;/players/s/stantmi03.shtml;RF
+5;Gleyber Torres;/players/t/torregl01.shtml;2B
+6;Billy McKinney;/players/m/mckinbi01.shtml;LF
+7;Harrison Bader;/players/b/baderha01.shtml;CF
+8;Anthony Volpe;/players/v/volpean01.shtml;SS
+9;Ben Rortvedt;/players/r/rortvbe01.shtml;C
+; Jhony Brito;/players/b/britojh01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t1;1-0;0;12-;2,(1-0) BX;RRR;BOS;Masataka Yoshida;Jhony Brito;15%;83%;Home Run (Fly Ball to Deep CF-RF); Devers Scores; Turner Scores
+t1;0-0;0;-2-;3,(2-0) BBX;;BOS;Rafael Devers;Jhony Brito;6%;62%;Single to CF (Line Drive to LF-CF); Verdugo to 3B
+t1;0-0;0;---;3,(0-2) CFX;;BOS;Alex Verdugo;Jhony Brito;6%;56%;Double to RF (Line Drive to Deep RF Line)
+t1;0-0;0;1-3;5,(2-2) CCBBX;R;BOS;Justin Turner;Jhony Brito;5%;68%;Single to CF (Line Drive); Verdugo Scores; Devers to 2B
+t2;5-0;1;12-;2,(0-1) CX;R;BOS;Justin Turner;Jhony Brito;3%;94%;Single to CF (Line Drive); Verdugo Scores; Devers to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Red Sox Batting, Tied 0-0, Yankees' Jhony Brito facing 1-2-3 
+t1;0-0;0;---;3,(0-2) CFX;;BOS;Alex Verdugo;Jhony Brito;6%;56%;Double to RF (Line Drive to Deep RF Line)
+t1;0-0;0;-2-;3,(2-0) BBX;;BOS;Rafael Devers;Jhony Brito;6%;62%;Single to CF (Line Drive to LF-CF); Verdugo to 3B
+t1;0-0;0;1-3;5,(2-2) CCBBX;R;BOS;Justin Turner;Jhony Brito;5%;68%;Single to CF (Line Drive); Verdugo Scores; Devers to 2B
+t1;1-0;0;12-;2,(1-0) BX;RRR;BOS;Masataka Yoshida;Jhony Brito;15%;83%;Home Run (Fly Ball to Deep CF-RF); Devers Scores; Turner Scores
+t1;4-0;0;---;4,(1-2) CS.BC;O;BOS;Triston Casas;Jhony Brito;-1%;82%;Strikeout Looking
+t1;4-0;1;---;3,(0-2) CC.X;O;BOS;Trevor Story;Jhony Brito;-1%;81%;Foul Popfly: 1B (1B into Foul Terr.)
+t1;4-0;2;---;1,(0-0) X;O;BOS;Jarren Duran;Jhony Brito;-1%;81%;Flyball: LF (Deep LF)
+;;;;;;;;;4 runs, 4 hits, 0 errors, 0 LOB. Red Sox 4, Yankees 0.
+Bottom of the 1st, Yankees Batting, Behind 0-4, Red Sox' Brayan Bello facing 1-2-3 
+b1;0-4;0;---;6,(3-2) BBCBCX;O;NYY;DJ LeMahieu;Brayan Bello;2%;82%;Groundout: SS-1B
+b1;0-4;1;---;7,(3-2) BCBSBFC;O;NYY;Aaron Judge;Brayan Bello;1%;84%;Strikeout Looking
+b1;0-4;2;---;5,(3-1) BFBBB;;NYY;Jake Bauers;Brayan Bello;-1%;83%;Walk
+b1;0-4;2;1--;6,(2-2) CCFBBS;O;NYY;Giancarlo Stanton;Brayan Bello;2%;84%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Red Sox 4, Yankees 0.
+Top of the 2nd, Red Sox Batting, Ahead 4-0, Yankees' Jhony Brito facing 8-9-1 
+t2;4-0;0;---;2,(0-1) FX;O;BOS;Reese McGuire;Jhony Brito;-1%;83%;Groundout: SS-1B (Deep SS-2B)
+t2;4-0;1;---;3,(1-1) CBX;;BOS;Pablo Reyes;Jhony Brito;1%;84%;Reached on E4 (Ground Ball); Reyes to 1B
+t2;4-0;1;1--;3,(1-1) CBX;;BOS;Alex Verdugo;Jhony Brito;3%;87%;Single to CF (Line Drive); Reyes to 3B
+t2;4-0;1;1-3;1,(0-0) X;R;BOS;Rafael Devers;Jhony Brito;3%;90%;Single to LF (Line Drive to Short LF-CF); Reyes Scores/unER; Verdugo to 2B
+t2;5-0;1;12-;2,(0-1) CX;R;BOS;Justin Turner;Jhony Brito;3%;94%;Single to CF (Line Drive); Verdugo Scores; Devers to 2B
+t2;6-0;1;12-;2,(1-0) BX;R;BOS;Masataka Yoshida;Jhony Brito;2%;96%;Single to SS (Ground Ball to SS-3B Hole); Devers Scores; Turner to 2B
+t2;7-0;1;12-;1,(0-0) X;O;BOS;Triston Casas;Jhony Brito;-1%;95%;Flyball: LF (Short LF-CF)
+t2;7-0;2;12-;5,(2-2) BCFBX;O;BOS;Trevor Story;Jhony Brito;-1%;95%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Story to 1B
+;;;;;;;;;3 runs, 4 hits, 1 error, 2 LOB. Red Sox 7, Yankees 0.
+Bottom of the 2nd, Yankees Batting, Behind 0-7, Red Sox' Brayan Bello facing 5-6-7 
+b2;0-7;0;---;3,(0-2) SCT;O;NYY;Gleyber Torres;Brayan Bello;1%;95%;Strikeout Swinging
+b2;0-7;1;---;4,(2-1) BBCX;O;NYY;Billy McKinney;Brayan Bello;1%;96%;Foul Popfly: 3B (3B into Foul Terr.)
+b2;0-7;2;---;5,(2-2) BCBCS;O;NYY;Harrison Bader;Brayan Bello;0%;96%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 7, Yankees 0.
+Top of the 3rd, Red Sox Batting, Ahead 7-0, Yankees' Jhony Brito facing 7-8-9 
+t3;7-0;0;---;3,(1-1) BSX;O;BOS;Jarren Duran;Jhony Brito;0%;96%;Flyball: CF (Deep CF)
+t3;7-0;1;---;3,(0-2) CCX;;BOS;Reese McGuire;Jhony Brito;1%;96%;Double to LF (Line Drive to Short LF Line)
+;;;;;;;;;Ian Hamilton replaces Jhony Brito pitching
+t3;7-0;1;-2-;5,(1-2) .CC.*BFS;O;BOS;Pablo Reyes;Ian Hamilton;0%;96%;Strikeout Swinging
+t3;7-0;2;-2-;5,(2-2) SB*BS.S;O;BOS;Alex Verdugo;Ian Hamilton;0%;96%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 7, Yankees 0.
+Bottom of the 3rd, Yankees Batting, Behind 0-7, Red Sox' Brayan Bello facing 8-9-1 
+b3;0-7;0;---;5,(2-2) CBSBX;;NYY;Anthony Volpe;Brayan Bello;-2%;94%;Double to CF (Line Drive to Deep LF-CF)
+b3;0-7;0;-2-;8,(3-2) FBBC.FBFX;O;NYY;Ben Rortvedt;Brayan Bello;1%;95%;Groundout: 2B-1B (2B-1B); Volpe to 3B
+b3;0-7;1;--3;4,(2-1) FBBX;RO;NYY;DJ LeMahieu;Brayan Bello;0%;95%;Groundout: 3B-1B (SS-3B Hole); Volpe Scores
+b3;1-7;2;---;3,(1-1) BFX;O;NYY;Aaron Judge;Brayan Bello;0%;95%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Red Sox 7, Yankees 1.
+Top of the 4th, Red Sox Batting, Ahead 7-1, Yankees' Ian Hamilton facing 2-3-4 
+t4;7-1;0;---;6,(2-2) FBSFBS;O;BOS;Rafael Devers;Ian Hamilton;0%;95%;Strikeout Swinging
+t4;7-1;1;---;2,(0-1) CX;;BOS;Justin Turner;Ian Hamilton;0%;95%;Single to RF (Line Drive to CF-RF)
+t4;7-1;1;1--;2,(1-0) BX;OO;BOS;Masataka Yoshida;Ian Hamilton;-1%;94%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Red Sox 7, Yankees 1.
+Bottom of the 4th, Yankees Batting, Behind 1-7, Red Sox' Brayan Bello facing 3-4-5 
+b4;1-7;0;---;1,(0-0) X;O;NYY;Jake Bauers;Brayan Bello;1%;95%;Flyball: LF (Short LF)
+b4;1-7;1;---;2,(0-1) CX;O;NYY;Giancarlo Stanton;Brayan Bello;1%;96%;Groundout: SS-1B
+b4;1-7;2;---;4,(1-2) SSBX;;NYY;Gleyber Torres;Brayan Bello;-1%;95%;Single to 3B (Ground Ball to Weak 3B)
+b4;1-7;2;1--;2,(1-0) BX;;NYY;Billy McKinney;Brayan Bello;-1%;94%;Single to RF (Line Drive to Deep RF Line); Torres to 3B
+b4;1-7;2;1-3;1,(0-0) X;O;NYY;Harrison Bader;Brayan Bello;2%;96%;Groundout: SS-2B/Forceout at 2B; Bader to 1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Red Sox 7, Yankees 1.
+Top of the 5th, Red Sox Batting, Ahead 7-1, Yankees' Ian Hamilton facing 5-6-7 
+t5;7-1;0;---;4,(1-2) CS.BX;O;BOS;Triston Casas;Ian Hamilton;0%;96%;Groundout: 2B-1B
+t5;7-1;1;---;1,(0-0) X;O;BOS;Trevor Story;Ian Hamilton;0%;96%;Groundout: SS-1B (Deep SS)
+t5;7-1;2;---;3,(1-1) BFX;O;BOS;Jarren Duran;Ian Hamilton;0%;96%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 7, Yankees 1.
+Bottom of the 5th, Yankees Batting, Behind 1-7, Red Sox' Brayan Bello facing 8-9-1 
+b5;1-7;0;---;6,(3-2) BCFBB.X;;NYY;Anthony Volpe;Brayan Bello;-2%;94%;Single to LF (Line Drive)
+b5;1-7;0;1--;4,(2-1) CBBX;OO;NYY;Ben Rortvedt;Brayan Bello;3%;97%;Ground Ball Double Play: 3B-SS-1B (SS-3B Hole)
+b5;1-7;2;---;3,(0-2) CSX;;NYY;DJ LeMahieu;Brayan Bello;0%;97%;Single to RF (Ground Ball thru 2B-1B)
+b5;1-7;2;1--;6,(3-2) FBBBF>X;O;NYY;Aaron Judge;Brayan Bello;1%;97%;Groundout: SS-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Red Sox 7, Yankees 1.
+Top of the 6th, Red Sox Batting, Ahead 7-1, Yankees' Ian Hamilton facing 8-9-1 
+t6;7-1;0;---;6,(2-2) BCC.FBS;O;BOS;Reese McGuire;Ian Hamilton;0%;97%;Strikeout Swinging
+t6;7-1;1;---;3,(2-0) BBX;O;BOS;Pablo Reyes;Ian Hamilton;0%;97%;Popfly: 2B
+t6;7-1;2;---;6,(3-2) BCBT.BS;O;BOS;Alex Verdugo;Ian Hamilton;0%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 7, Yankees 1.
+Bottom of the 6th, Yankees Batting, Behind 1-7, Red Sox' Brayan Bello facing 3-4-5 
+b6;1-7;0;---;2,(1-0) BX;O;NYY;Jake Bauers;Brayan Bello;1%;98%;Flyball: LF (Deep LF)
+b6;1-7;1;---;3,(0-2) *SFX;;NYY;Giancarlo Stanton;Brayan Bello;-1%;97%;Single to 2B (Ground Ball to SS-2B)
+b6;1-7;1;1--;8,(3-2) BCBFFBFX;OO;NYY;Gleyber Torres;Brayan Bello;2%;98%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Red Sox 7, Yankees 1.
+Top of the 7th, Red Sox Batting, Ahead 7-1, Yankees' Keynan Middleton facing 2-3-4 
+;;;;;;;;;Keynan Middleton replaces Ian Hamilton pitching
+t7;7-1;0;---;6,(3-2) .BFBSBB;;BOS;Rafael Devers;Keynan Middleton;0%;99%;Walk
+t7;7-1;0;1--;1,(0-0) X;OO;BOS;Justin Turner;Keynan Middleton;-1%;98%;Ground Ball Double Play: 3B-2B-1B (Deep 3B)
+t7;7-1;2;---;6,(2-2) CFFBBS;O;BOS;Masataka Yoshida;Keynan Middleton;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 7, Yankees 1.
+Bottom of the 7th, Yankees Batting, Behind 1-7, Red Sox' Garrett Whitlock facing 6-7-8 
+;;;;;;;;;Garrett Whitlock replaces Brayan Bello pitching
+b7;1-7;0;---;2,(0-1) .CX;O;NYY;Billy McKinney;Garrett Whitlock;1%;99%;Groundout: 3B-1B (SS-3B Hole)
+b7;1-7;1;---;3,(0-2) CFC;O;NYY;Harrison Bader;Garrett Whitlock;0%;99%;Strikeout Looking
+b7;1-7;2;---;6,(3-2) BFBBC.T;O;NYY;Anthony Volpe;Garrett Whitlock;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 7, Yankees 1.
+Top of the 8th, Red Sox Batting, Ahead 7-1, Yankees' Greg Weissert facing 5-6-7 
+;;;;;;;;;Greg Weissert replaces Keynan Middleton pitching
+t8;7-1;0;---;4,(1-2) .BT.SS;O;BOS;Triston Casas;Greg Weissert;0%;99%;Strikeout Swinging
+t8;7-1;1;---;2,(1-0) BX;O;BOS;Trevor Story;Greg Weissert;0%;99%;Groundout: 2B-1B (Deep SS-2B)
+t8;7-1;2;---;1,(0-0) X;O;BOS;Jarren Duran;Greg Weissert;0%;99%;Lineout: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 7, Yankees 1.
+Bottom of the 8th, Yankees Batting, Behind 1-7, Red Sox' Garrett Whitlock facing 9-1-2 
+b8;1-7;0;---;6,(2-2) SCBFBS;O;NYY;Ben Rortvedt;Garrett Whitlock;0%;99%;Strikeout Swinging
+b8;1-7;1;---;5,(1-2) CTBFX;;NYY;DJ LeMahieu;Garrett Whitlock;0%;99%;Single to 3B (Ground Ball to SS-3B Hole)
+b8;1-7;1;1--;1,(0-0) X;RR;NYY;Aaron Judge;Garrett Whitlock;-2%;97%;Home Run (Fly Ball to Deep RF); LeMahieu Scores
+b8;3-7;1;---;3,(0-2) FSS;O;NYY;Jake Bauers;Garrett Whitlock;1%;98%;Strikeout Swinging
+b8;3-7;2;---;7,(3-2) BBSFFBS;O;NYY;Giancarlo Stanton;Garrett Whitlock;0%;99%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Red Sox 7, Yankees 3.
+Top of the 9th, Red Sox Batting, Ahead 7-3, Yankees' Greg Weissert facing 8-9-1 
+t9;7-3;0;---;4,(1-2) FBS.S;O;BOS;Reese McGuire;Greg Weissert;0%;98%;Strikeout Swinging
+t9;7-3;1;---;3,(0-2) CC.X;O;BOS;Pablo Reyes;Greg Weissert;0%;98%;Lineout: CF (Deep CF)
+t9;7-3;2;---;4,(2-1) BFBX;;BOS;Alex Verdugo;Greg Weissert;0%;98%;Double to LF (Ground Ball)
+t9;7-3;2;-2-;2,(0-1) FB;;BOS;Rafael Devers;Greg Weissert;0%;98%;Wild Pitch; Verdugo to 3B
+t9;7-3;2;--3;5,(1-2) FB.SFX;R;BOS;Rafael Devers;Greg Weissert;1%;99%;Single to 3B (Ground Ball to SS-3B Hole); Verdugo Scores
+t9;8-3;2;1--;4,(1-2) CFBX;O;BOS;Justin Turner;Greg Weissert;0%;99%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Red Sox 8, Yankees 3.
+Bottom of the 9th, Yankees Batting, Behind 3-8, Red Sox' Brennan Bernardino facing 5-6-7 
+;;;;;;;;;Brennan Bernardino replaces Garrett Whitlock pitching
+b9;3-8;0;---;3,(2-0) .BBX;;NYY;Gleyber Torres;Brennan Bernardino;-1%;98%;Single to LF (Line Drive to Deep LF)
+;;;;;;;;;Isiah Kiner-Falefa pinch hits for Billy McKinney (LF) batting 6th
+b9;3-8;0;1--;5,(3-1) .BC*BBX;;NYY;Isiah Kiner-Falefa;Brennan Bernardino;-3%;95%;Double to CF (Line Drive to Deep CF); Torres to 3B
+b9;3-8;0;-23;5,(2-2) SBBFC;O;NYY;Harrison Bader;Brennan Bernardino;2%;98%;Strikeout Looking
+;;;;;;;;;Chris Martin replaces Brennan Bernardino pitching
+b9;3-8;1;-23;4,(2-2) .VCSBC;O;NYY;Anthony Volpe;Chris Martin;2%;99%;Strikeout Looking
+b9;3-8;2;-23;5,(2-2) FFBBX;O;NYY;Ben Rortvedt;Chris Martin;1%;100%;Flyball: LF (Short LF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Red Sox 8, Yankees 3.

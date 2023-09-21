@@ -1,0 +1,294 @@
+
+Scorebox Meta
+20230709
+1:10 p.m. Local
+27100
+Target Field
+177
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/BAL-2023.png;/teams/BAL/2023.shtml;0;1;0;0;7;6;1;0;0;15;17;0
+https://cdn.ssref.net/req/202308101/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;1;0;0;0;0;1;0;0;0;2;4;0
+
+Batting home
+Carlos Correa;/players/c/correca01.shtml;SS;1;1;0;0;1;1;2;.225;.299;.401;.700;9;3;0.017; 0.80;0.035;-0.018; 0.01%; 0.79; 0.2;0;0;
+Kyle Farmer;/players/f/farmeky01.shtml;PH-SS;1;0;0;0;0;1;2;.237;.299;.345;.644;6;5;0.000; 0.01;0.000;0.000;0%; 0.01; -0.0;1;1;HBP
+Edouard Julien;/players/j/julieed01.shtml;2B;4;1;2;2;0;0;4;.271;.349;.504;.852;12;7;0.102; 0.47;0.114;-0.012; 0.06%; 0.46; 1.9;0;1;HR,2B
+Byron Buxton;/players/b/buxtoby01.shtml;DH;4;0;0;0;0;3;4;.208;.300;.436;.736;19;11;-0.063; 0.52;0.000;-0.063;-0.04%; 0.52; -1.0;;;
+Alex Kirilloff;/players/k/kirilal01.shtml;1B;4;0;1;0;0;0;4;.273;.372;.395;.767;20;14;-0.045; 0.46;0.001;-0.045;-0.03%; 0.46; -0.0;4;1;2B
+Donovan Solano;/players/s/solando01.shtml;3B;3;0;0;0;0;2;3;.281;.373;.424;.797;13;8;-0.046; 0.57;0.000;-0.046;-0.03%; 0.56; -0.9;0;0;
+Jose Miranda;/players/m/miranjo01.shtml;3B;1;0;1;0;0;0;1;.211;.263;.303;.566;3;3;0.000; 0.00;0.000;0.000;0%; 0.00; 0.1;0;0;
+Max Kepler;/players/k/keplema01.shtml;RF;4;0;0;0;0;2;4;.207;.279;.409;.688;14;10;-0.030; 0.29;0.000;-0.030;-0.02%; 0.29; -1.1;1;0;
+Christian Vázquez;/players/v/vazquch01.shtml;C;3;0;0;0;0;1;3;.210;.287;.265;.552;9;8;-0.021; 0.27;0.000;-0.021;-0.01%; 0.27; -0.7;17;0;
+Joey Gallo;/players/g/gallojo01.shtml;LF;3;0;0;0;0;1;3;.186;.302;.462;.764;9;5;-0.013; 0.17;0.000;-0.013;-0.01%; 0.16; -0.5;0;0;
+Michael A. Taylor;/players/t/taylomi02.shtml;CF;1;0;0;0;0;1;1;.217;.264;.403;.667;3;3;-0.025; 0.99;0.000;-0.025;-0.01%; 0.98; -0.2;1;0;
+Willi Castro;/players/c/castrwi01.shtml;CF;2;0;0;0;0;0;2;.244;.321;.365;.687;10;6;-0.001; 0.01;0.000;-0.001;0%; 0.01; -0.4;2;0;
+Joe Ryan;/players/r/ryanjo04.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jovani Moran;/players/m/moranjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Emilio Pagán;/players/p/paganem01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Cole Sands;/players/s/sandsco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jordan Balazovic;/players/b/balazjo02.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Jorge López;/players/l/lopezjo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Edouard Julien (10, off Kyle Gibson); Alex Kirilloff (9, off Kyle Gibson).
+
+
+HR: Edouard Julien (7, off Kyle Gibson, 6th inn, 0 on, 2 outs to Deep LF-CF).
+
+
+HBP: Kyle Farmer (6, by Nick Vespi).
+
+
+TB: Edouard Julien 6; Alex Kirilloff 2; Jose Miranda.
+
+
+RBI: Edouard Julien 2 (13).
+
+
+2-out RBI: Edouard Julien.
+
+
+Team LOB: 4.
+With RISP: 0 for 6.
+
+Batting away
+Gunnar Henderson;/players/h/hendegu01.shtml;SS-3B;5;1;2;1;1;1;6;.246;.342;.455;.797;29;16;-0.010; 0.39;0.030;-0.040;-0.01%; 0.46; 1.1;0;2;
+Adley Rutschman;/players/r/rutscad01.shtml;C;4;2;2;2;1;2;5;.273;.376;.423;.799;19;10;0.020; 0.50;0.052;-0.032; 0.01%; 0.60; 1.2;11;0;HR
+James McCann;/players/m/mccanja02.shtml;C;1;0;0;0;0;1;1;.184;.220;.320;.541;5;3;0.000; 0.00;0.000;0.000;0%; 0.00; -0.2;1;0;
+Anthony Santander;/players/s/santaan02.shtml;RF-1B-RF;4;3;2;2;1;1;6;.272;.342;.498;.840;21;13;0.023; 0.50;0.051;-0.028; 0.02%; 0.59; 2.1;2;0;2·HR,HBP
+Ryan O'Hearn;/players/o/ohearry01.shtml;1B;2;0;0;0;0;1;2;.302;.349;.518;.867;11;7;-0.071; 1.32;0.000;-0.071;-0.05%; 1.56; -0.7;4;0;
+Ryan Mountcastle;/players/m/mountry01.shtml;PH;1;0;1;1;0;0;1;.230;.267;.424;.691;2;2;0.094; 1.47;0.094;0.000; 0.07%; 1.74; 1.3;;;
+Colton Cowser;/players/c/cowseco01.shtml;PR-RF-LF;3;2;1;0;0;2;3;.188;.381;.188;.568;18;10;0.000; 0.00;0.000;0.000;0%; 0.00; 0.0;1;0;
+Austin Hays;/players/h/haysau01.shtml;LF;5;2;2;2;0;1;5;.314;.355;.498;.853;17;11;0.112; 0.61;0.140;-0.028; 0.08%; 0.73; 1.0;2;0;HR
+Jorge Mateo;/players/m/mateojo01.shtml;SS;0;0;0;0;0;0;0;.214;.266;.339;.606;;;;;;;;;;0;1;
+Cedric Mullins;/players/m/mullice01.shtml;CF;5;1;2;1;0;3;5;.248;.339;.435;.774;25;22;-0.058; 0.48;0.001;-0.059;-0.04%; 0.56; 0.4;3;0;2B
+Aaron Hicks;/players/h/hicksaa01.shtml;DH;4;2;1;3;1;1;5;.232;.330;.399;.729;27;13;0.051; 0.35;0.081;-0.030; 0.04%; 0.42; 2.4;;;HR
+Jordan Westburg;/players/w/westbjo01.shtml;2B;5;1;2;0;0;2;5;.300;.378;.475;.853;22;14;0.039; 0.33;0.050;-0.011; 0.03%; 0.39; -0.2;0;2;3B
+Ramón Urías;/players/u/uriasra01.shtml;3B-1B;5;1;2;3;0;1;5;.261;.328;.396;.724;12;11;0.176; 0.51;0.205;-0.029; 0.12%; 0.60; 2.0;3;1;HR
+Kyle Gibson;/players/g/gibsoky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nick Vespi;/players/v/vespini01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Eduard Bazardo;/players/b/bazared01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Cedric Mullins (16, off Cole Sands).
+
+
+3B: Jordan Westburg (2, off Emilio Pagán).
+
+
+HR: Austin Hays (9, off Joe Ryan, 2nd inn, 0 on, 0 outs to Deep LF-CF); Ramón Urías (4, off Joe Ryan, 5th inn, 1 on, 0 outs to Deep LF-CF); Aaron Hicks (7, off Jovani Moran, 5th inn, 2 on, 2 outs to Deep RF); Adley Rutschman (12, off Cole Sands, 6th inn, 1 on, 0 outs to Deep CF-RF); Anthony Santander 2 (16, 1 off Jordan Balazovic, 7th inn, 0 on, 0 outs to Deep RF Line, 1 off Cole Sands, 6th inn, 0 on, 0 outs to Deep RF).
+
+
+HBP: Anthony Santander (4, by Joe Ryan).
+
+
+TB: Anthony Santander 8; Adley Rutschman 5; Ramón Urías 5; Austin Hays 5; Aaron Hicks 4; Jordan Westburg 4; Cedric Mullins 3; Gunnar Henderson 2; Colton Cowser; Ryan Mountcastle.
+
+
+RBI: Aaron Hicks 3 (22); Ramón Urías 3 (30); Adley Rutschman 2 (39); Austin Hays 2 (36); Anthony Santander 2 (50); Ryan Mountcastle (40); Gunnar Henderson (37); Cedric Mullins (45).
+
+
+2-out RBI: Aaron Hicks 3; Ramón Urías; Gunnar Henderson.
+
+
+Team LOB: 7.
+With RISP: 5 for 10.
+
+Pitching home
+Joe Ryan;/players/r/ryanjo04.shtml; L (8-6); 4.1;5;5;5;2;10;2;3.70;21;98;61;32;14;15;3;5;1;0;41;;;-0.168; 0.94;-0.10%; 0.93; -1.4
+Jovani Moran;/players/m/moranjo01.shtml;Jovani Moran; 0.1;3;3;3;0;1;1;4.79;4;14;11;6;2;3;0;3;2;0;;2;2;-0.195; 0.94;-0.12%; 0.93; -4.2
+Emilio Pagán;/players/p/paganem01.shtml;Emilio Pagán; 0.1;1;0;0;0;0;0;3.96;2;2;2;2;0;0;0;2;1;0;;0;0;0.001; 0.08; 0.00%; 0.08; 0.1
+Cole Sands;/players/s/sandsco01.shtml;Cole Sands; 0.1;4;6;6;2;0;2;4.97;7;38;21;15;0;6;1;4;0;0;;0;0;-0.013; 0.02;-0.01%; 0.02; -4.4
+Jordan Balazovic;/players/b/balazjo02.shtml;Jordan Balazovic; 2.2;4;1;1;0;3;1;1.80;12;42;28;17;7;4;4;5;0;0;;2;2;0.000; 0.00; 0.00%; 0.00; -1.1
+Jorge López;/players/l/lopezjo02.shtml;Jorge López; 1 ;0;0;0;0;2;0;4.80;3;14;9;1;2;6;1;0;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+Pitching away
+Kyle Gibson;/players/g/gibsoky01.shtml; W (9-6); 7 ;3;2;2;1;11;1;4.60;25;94;64;27;23;14;5;8;4;0;73;;;0.125; 0.50; 0.09%; 0.60; 1.6
+Nick Vespi;/players/v/vespini01.shtml;Nick Vespi; 1 ;0;0;0;0;0;0;4.05;4;14;7;3;2;2;3;0;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+Eduard Bazardo;/players/b/bazared01.shtml;Eduard Bazardo; 1 ;1;0;0;0;1;0;4.50;4;19;12;7;2;3;1;2;1;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Jordan Balazovic (1).
+HBP: Nick Vespi (1; Kyle Farmer); Joe Ryan (3; Anthony Santander).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Jordan Balazovic (1).
+HBP: Nick Vespi (1; Kyle Farmer); Joe Ryan (3; Anthony Santander).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Jeff Nelson, 1B - Ryan Wills, 2B - Mike Muchlinski, 3B - Ben May, LF - (none), RF - (none).
+Time of Game: 2:57.
+Attendance: 27,100.
+Field Condition: Unknown.
+Start Time Weather: 80° F, Wind 13mph out to Leftfield, Sunny, No Precipitation.
+
+div_lineups
+Orioles
+1;Gunnar Henderson;/players/h/hendegu01.shtml;SS
+2;Adley Rutschman;/players/r/rutscad01.shtml;C
+3;Anthony Santander;/players/s/santaan02.shtml;RF
+4;Ryan O'Hearn;/players/o/ohearry01.shtml;1B
+5;Austin Hays;/players/h/haysau01.shtml;LF
+6;Cedric Mullins;/players/m/mullice01.shtml;CF
+7;Aaron Hicks;/players/h/hicksaa01.shtml;DH
+8;Jordan Westburg;/players/w/westbjo01.shtml;2B
+9;Ramón Urías;/players/u/uriasra01.shtml;3B
+; Kyle Gibson;/players/g/gibsoky01.shtml;P
+Twins
+1;Carlos Correa;/players/c/correca01.shtml;SS
+2;Edouard Julien;/players/j/julieed01.shtml;2B
+3;Byron Buxton;/players/b/buxtoby01.shtml;DH
+4;Alex Kirilloff;/players/k/kirilal01.shtml;1B
+5;Donovan Solano;/players/s/solando01.shtml;3B
+6;Max Kepler;/players/k/keplema01.shtml;RF
+7;Christian Vázquez;/players/v/vazquch01.shtml;C
+8;Joey Gallo;/players/g/gallojo01.shtml;LF
+9;Michael A. Taylor;/players/t/taylomi02.shtml;CF
+; Joe Ryan;/players/r/ryanjo04.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t5;1-1;0;1--;1,(0-0) X;RR;BAL;Ramón Urías;Joe Ryan;20%;75%;Home Run (Fly Ball to Deep LF-CF); Westburg Scores
+b1;0-0;0;1--;3,(1-1) BCX;R;MIN;Edouard Julien;Kyle Gibson;-11%;30%;Double to RF (Line Drive to Deep CF-RF); Correa Scores
+t2;0-1;0;---;2,(1-0) BX;R;BAL;Austin Hays;Joe Ryan;10%;50%;Home Run (Fly Ball to Deep LF-CF)
+t5;3-1;1;12-;2,(0-1) ..CX;R;BAL;Ryan Mountcastle;Jovani Moran;9%;87%;Single to CF (Line Drive); Rutschman Scores; Santander to 3B
+t5;5-1;2;12-;4,(2-1) F*BBX;RRR;BAL;Aaron Hicks;Jovani Moran;8%;98%;Home Run (Fly Ball to Deep RF); Cowser Scores; Hays Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Orioles Batting, Tied 0-0, Twins' Joe Ryan facing 1-2-3 
+t1;0-0;0;---;6,(3-2) BBFCBS;O;BAL;Gunnar Henderson;Joe Ryan;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;1,(0-0) X;;BAL;Adley Rutschman;Joe Ryan;2%;50%;Single to CF (Ground Ball thru SS-2B)
+t1;0-0;1;1--;3,(0-2) SFC;O;BAL;Anthony Santander;Joe Ryan;-3%;47%;Strikeout Looking
+t1;0-0;2;1--;5,(1-2) CBCFS;O;BAL;Ryan O'Hearn;Joe Ryan;-2%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 0, Twins 0.
+Bottom of the 1st, Twins Batting, Tied 0-0, Orioles' Kyle Gibson facing 1-2-3 
+b1;0-0;0;---;4,(3-0) BBBB;;MIN;Carlos Correa;Kyle Gibson;-3%;42%;Walk
+b1;0-0;0;1--;3,(1-1) BCX;R;MIN;Edouard Julien;Kyle Gibson;-11%;30%;Double to RF (Line Drive to Deep CF-RF); Correa Scores
+b1;1-0;0;-2-;5,(2-2) FBC*B*S;O;MIN;Byron Buxton;Kyle Gibson;4%;34%;Strikeout Swinging
+b1;1-0;1;-2-;7,(2-2) BFBSFF.X;O;MIN;Alex Kirilloff;Kyle Gibson;3%;36%;Groundout: 2B-1B (2B-1B); Julien to 3B
+b1;1-0;2;--3;5,(2-2) BSFBS;O;MIN;Donovan Solano;Kyle Gibson;3%;40%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Orioles 0, Twins 1.
+Top of the 2nd, Orioles Batting, Behind 0-1, Twins' Joe Ryan facing 5-6-7 
+t2;0-1;0;---;2,(1-0) BX;R;BAL;Austin Hays;Joe Ryan;10%;50%;Home Run (Fly Ball to Deep LF-CF)
+t2;1-1;0;---;3,(0-2) SF.S;O;BAL;Cedric Mullins;Joe Ryan;-2%;48%;Strikeout Swinging
+t2;1-1;1;---;7,(3-2) BCBCBFC;O;BAL;Aaron Hicks;Joe Ryan;-2%;46%;Strikeout Looking
+t2;1-1;2;---;9,(3-2) BBCBCFFFS;O;BAL;Jordan Westburg;Joe Ryan;-1%;45%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Orioles 1, Twins 1.
+Bottom of the 2nd, Twins Batting, Tied 1-1, Orioles' Kyle Gibson facing 6-7-8 
+b2;1-1;0;---;3,(1-1) CBX;O;MIN;Max Kepler;Kyle Gibson;2%;47%;Flyball: CF (Deep CF)
+b2;1-1;1;---;3,(0-2) CS.X;O;MIN;Christian Vázquez;Kyle Gibson;2%;49%;Groundout: 1B unassisted (Weak 1B)
+b2;1-1;2;---;5,(2-2) SBBFS;O;MIN;Joey Gallo;Kyle Gibson;1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 1, Twins 1.
+Top of the 3rd, Orioles Batting, Tied 1-1, Twins' Joe Ryan facing 9-1-2 
+t3;1-1;0;---;4,(1-2) SS.BS;O;BAL;Ramón Urías;Joe Ryan;-3%;47%;Strikeout Swinging
+t3;1-1;1;---;9,(2-2) BCFFB.FFFX;;BAL;Gunnar Henderson;Joe Ryan;3%;50%;Single to RF (Ground Ball)
+t3;1-1;1;1--;4,(1-2) BCFS;O;BAL;Adley Rutschman;Joe Ryan;-3%;47%;Strikeout Swinging
+t3;1-1;2;1--;5,(2-2) BBFCH;;BAL;Anthony Santander;Joe Ryan;2%;49%;Hit By Pitch; Henderson to 2B
+t3;1-1;2;12-;6,(3-2) BBFBF>X;O;BAL;Ryan O'Hearn;Joe Ryan;-5%;44%;Lineout: RF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Orioles 1, Twins 1.
+Bottom of the 3rd, Twins Batting, Tied 1-1, Orioles' Kyle Gibson facing 9-1-2 
+b3;1-1;0;---;3,(0-2) SM.*S;O;MIN;Michael A. Taylor;Kyle Gibson;3%;47%;Strikeout Swinging
+b3;1-1;1;---;5,(2-2) CBBCC;O;MIN;Carlos Correa;Kyle Gibson;2%;49%;Strikeout Looking
+b3;1-1;2;---;1,(0-0) X;O;MIN;Edouard Julien;Kyle Gibson;1%;50%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 1, Twins 1.
+Top of the 4th, Orioles Batting, Tied 1-1, Twins' Joe Ryan facing 5-6-7 
+t4;1-1;0;---;5,(2-2) SBBS.S;O;BAL;Austin Hays;Joe Ryan;-3%;47%;Strikeout Swinging
+t4;1-1;1;---;4,(0-2) CF.FS;O;BAL;Cedric Mullins;Joe Ryan;-2%;45%;Strikeout Swinging
+t4;1-1;2;---;4,(2-1) BBFX;O;BAL;Aaron Hicks;Joe Ryan;-1%;44%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 1, Twins 1.
+Bottom of the 4th, Twins Batting, Tied 1-1, Orioles' Kyle Gibson facing 3-4-5 
+b4;1-1;0;---;6,(3-2) BBBS.SC;O;MIN;Byron Buxton;Kyle Gibson;3%;47%;Strikeout Looking
+b4;1-1;1;---;2,(0-1) FX;O;MIN;Alex Kirilloff;Kyle Gibson;2%;49%;Lineout: LF
+b4;1-1;2;---;3,(1-1) CBX;O;MIN;Donovan Solano;Kyle Gibson;1%;50%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 1, Twins 1.
+Top of the 5th, Orioles Batting, Tied 1-1, Twins' Joe Ryan facing 8-9-1 
+t5;1-1;0;---;6,(3-2) FBBCBX;;BAL;Jordan Westburg;Joe Ryan;5%;55%;Single to LF (Fly Ball to Short LF-CF)
+t5;1-1;0;1--;1,(0-0) X;RR;BAL;Ramón Urías;Joe Ryan;20%;75%;Home Run (Fly Ball to Deep LF-CF); Westburg Scores
+t5;3-1;0;---;3,(1-1) BFX;O;BAL;Gunnar Henderson;Joe Ryan;-2%;73%;Flyball: CF (Deep LF-CF)
+t5;3-1;1;---;6,(3-2) FBBFBB;;BAL;Adley Rutschman;Joe Ryan;2%;75%;Walk
+t5;3-1;1;1--;5,(3-1) CBBBB;;BAL;Anthony Santander;Joe Ryan;3%;78%;Walk; Rutschman to 2B
+;;;;;;;;;Jovani Moran replaces Joe Ryan pitchingRyan Mountcastle pinch hits for Ryan O'Hearn (1B) batting 4th
+t5;3-1;1;12-;2,(0-1) ..CX;R;BAL;Ryan Mountcastle;Jovani Moran;9%;87%;Single to CF (Line Drive); Rutschman Scores; Santander to 3B
+;;;;;;;;;Colton Cowser pinch runs for Ryan Mountcastle (PH) batting 4th
+t5;4-1;1;1-3;5,(1-2) .CCB1FX;R;BAL;Austin Hays;Jovani Moran;4%;91%;Single to LF (Line Drive to Short LF-CF); Santander Scores; Cowser to 2B
+t5;5-1;1;12-;3,(0-2) SFS;O;BAL;Cedric Mullins;Jovani Moran;-2%;89%;Strikeout Swinging
+t5;5-1;2;12-;4,(2-1) F*BBX;RRR;BAL;Aaron Hicks;Jovani Moran;8%;98%;Home Run (Fly Ball to Deep RF); Cowser Scores; Hays Scores
+;;;;;;;;;Emilio Pagán replaces Jovani Moran pitching
+t5;8-1;2;---;1,(0-0) .X;;BAL;Jordan Westburg;Emilio Pagán;0%;98%;Triple to CF (Line Drive to Deep CF-RF)
+t5;8-1;2;--3;1,(0-0) X;O;BAL;Ramón Urías;Emilio Pagán;0%;97%;Foul Popfly: C (Behind Home)
+;;;;;;;;;7 runs, 6 hits, 0 errors, 1 LOB. Orioles 8, Twins 1.
+Bottom of the 5th, Twins Batting, Behind 1-8, Orioles' Kyle Gibson facing 6-7-8 
+;;;;;;;;;Anthony Santander moves from RF to 1B Colton Cowser moves from PR to RF 
+b5;1-8;0;---;5,(2-2) ..BSBFC;O;MIN;Max Kepler;Kyle Gibson;1%;98%;Strikeout Looking
+b5;1-8;1;---;2,(0-1) SX;O;MIN;Christian Vázquez;Kyle Gibson;0%;98%;Groundout: 3B-1B (Weak 3B)
+b5;1-8;2;---;1,(0-0) X;O;MIN;Joey Gallo;Kyle Gibson;0%;99%;Flyball: LF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 8, Twins 1.
+Top of the 6th, Orioles Batting, Ahead 8-1, Twins' Cole Sands facing 1-2-3 
+;;;;;;;;;Cole Sands replaces Emilio Pagán pitchingWilli Castro replaces Michael A. Taylor playing CF batting 9th
+t6;8-1;0;---;5,(3-1) ..BBC.BB;;BAL;Gunnar Henderson;Cole Sands;0%;99%;Walk
+t6;8-1;0;1--;2,(1-0) BX;RR;BAL;Adley Rutschman;Cole Sands;1%;100%;Home Run (Fly Ball to Deep CF-RF); Henderson Scores
+t6;10-1;0;---;4,(1-2) FBC.X;R;BAL;Anthony Santander;Cole Sands;0%;100%;Home Run (Fly Ball to Deep RF)
+t6;11-1;0;---;6,(3-2) CBBCBX;;BAL;Colton Cowser;Cole Sands;0%;100%;Single to RF (Ground Ball)
+t6;11-1;0;1--;2,(1-0) BX;O;BAL;Austin Hays;Cole Sands;0%;100%;Flyball: CF (Deep CF-RF)
+t6;11-1;1;1--;14,(3-2) FCFFFBBFF.FFFBX;R;BAL;Cedric Mullins;Cole Sands;0%;100%;Double to CF (Fly Ball to Deep CF-RF); Cowser Scores
+t6;12-1;1;-2-;5,(3-1) B*BBCB;;BAL;Aaron Hicks;Cole Sands;0%;100%;Walk
+;;;;;;;;;Jordan Balazovic replaces Cole Sands pitching
+t6;12-1;1;12-;5,(2-2) .BBFFS;O;BAL;Jordan Westburg;Jordan Balazovic;0%;100%;Strikeout Swinging
+t6;12-1;2;12-;4,(0-2) SS.FX;R;BAL;Ramón Urías;Jordan Balazovic;0%;100%;Single to LF (Fly Ball to Short LF-CF); Mullins Scores; Hicks to 2B
+t6;13-1;2;12-;1,(0-0) X;R;BAL;Gunnar Henderson;Jordan Balazovic;0%;100%;Single to CF (Ground Ball thru SS-2B); Hicks Scores; Urías to 2B
+t6;14-1;2;12-;1,(0-0) B;;BAL;Adley Rutschman;Jordan Balazovic;0%;100%;Wild Pitch; Urías to 3B; Henderson to 2B
+t6;14-1;2;-23;6,(3-2) B.FF*BBS;O;BAL;Adley Rutschman;Jordan Balazovic;0%;100%;Strikeout Swinging
+;;;;;;;;;6 runs, 6 hits, 0 errors, 2 LOB. Orioles 14, Twins 1.
+Bottom of the 6th, Twins Batting, Behind 1-14, Orioles' Kyle Gibson facing 9-1-2 
+b6;1-14;0;---;6,(2-2) CBFBFX;O;MIN;Willi Castro;Kyle Gibson;0%;100%;Flyball: CF
+;;;;;;;;;Kyle Farmer pinch hits for Carlos Correa (SS) batting 1st
+b6;1-14;1;---;3,(0-2) .SSS;O;MIN;Kyle Farmer;Kyle Gibson;0%;100%;Strikeout Swinging
+b6;1-14;2;---;4,(2-1) BCBX;R;MIN;Edouard Julien;Kyle Gibson;0%;100%;Home Run (Fly Ball to Deep LF-CF)
+b6;2-14;2;---;3,(0-2) CFS;O;MIN;Byron Buxton;Kyle Gibson;0%;100%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Orioles 14, Twins 2.
+Top of the 7th, Orioles Batting, Ahead 14-2, Twins' Jordan Balazovic facing 3-4-5 
+;;;;;;;;;Kyle Farmer moves from PH to SS 
+t7;14-2;0;---;1,(0-0) .X;R;BAL;Anthony Santander;Jordan Balazovic;0%;100%;Home Run (Fly Ball to Deep RF Line)
+t7;15-2;0;---;6,(2-2) BBCSFS;O;BAL;Colton Cowser;Jordan Balazovic;0%;100%;Strikeout Swinging
+t7;15-2;1;---;3,(1-1) CBX;O;BAL;Austin Hays;Jordan Balazovic;0%;100%;Groundout: 1B-P (2B-1B)
+t7;15-2;2;---;1,(0-0) X;;BAL;Cedric Mullins;Jordan Balazovic;0%;100%;Single to RF (Ground Ball thru 2B-1B)
+t7;15-2;2;1--;7,(3-2) F*BC*BB>F>X;O;BAL;Aaron Hicks;Jordan Balazovic;0%;100%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Orioles 15, Twins 2.
+Bottom of the 7th, Twins Batting, Behind 2-15, Orioles' Kyle Gibson facing 4-5-6 
+;;;;;;;;;Ramón Urías moves from 3B to 1B Gunnar Henderson moves from SS to 3B Jorge Mateo replaces Austin Hays (LF) playing SS batting 5thColton Cowser moves from RF to LF Anthony Santander moves from 1B to RF 
+b7;2-15;0;---;5,(1-2) .....FSFBX;;MIN;Alex Kirilloff;Kyle Gibson;0%;100%;Double to RF (Line Drive to RF Line)
+b7;2-15;0;-2-;5,(2-2) SSBBS;O;MIN;Donovan Solano;Kyle Gibson;0%;100%;Strikeout Swinging
+b7;2-15;1;-2-;1,(0-0) X;O;MIN;Max Kepler;Kyle Gibson;0%;100%;Lineout: LF (Short LF)
+b7;2-15;2;-2-;4,(1-2) CBFS;O;MIN;Christian Vázquez;Kyle Gibson;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 15, Twins 2.
+Top of the 8th, Orioles Batting, Ahead 15-2, Twins' Jordan Balazovic facing 8-9-1 
+;;;;;;;;;Jose Miranda replaces Donovan Solano playing 3B batting 5th
+t8;15-2;0;---;1,(0-0) .X;O;BAL;Jordan Westburg;Jordan Balazovic;0%;100%;Groundout: SS-1B
+t8;15-2;1;---;2,(0-1) CX;O;BAL;Ramón Urías;Jordan Balazovic;0%;100%;Popfly: 1B (Front of Home)
+t8;15-2;2;---;5,(3-1) BSBBX;O;BAL;Gunnar Henderson;Jordan Balazovic;0%;100%;Popfly: SS (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 15, Twins 2.
+Bottom of the 8th, Twins Batting, Behind 2-15, Orioles' Nick Vespi facing 8-9-1 
+;;;;;;;;;Nick Vespi replaces Kyle Gibson pitchingJames McCann replaces Adley Rutschman playing C batting 2nd
+b8;2-15;0;---;3,(2-0) ..BBX;O;MIN;Joey Gallo;Nick Vespi;0%;100%;Groundout: 1B unassisted
+b8;2-15;1;---;4,(2-1) BSBX;O;MIN;Willi Castro;Nick Vespi;0%;100%;Groundout: SS-1B (Deep SS)
+b8;2-15;2;---;3,(0-2) CSH;;MIN;Kyle Farmer;Nick Vespi;0%;100%;Hit By Pitch
+b8;2-15;2;1--;4,(2-1) BCBX;O;MIN;Edouard Julien;Nick Vespi;0%;100%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Orioles 15, Twins 2.
+Top of the 9th, Orioles Batting, Ahead 15-2, Twins' Jorge López facing 2-3-4 
+;;;;;;;;;Jorge López replaces Jordan Balazovic pitching
+t9;15-2;0;---;5,(2-2) .BCBSS;O;BAL;James McCann;Jorge López;0%;100%;Strikeout Swinging
+t9;15-2;1;---;3,(0-2) CCX;O;BAL;Anthony Santander;Jorge López;0%;100%;Groundout: 1B unassisted
+t9;15-2;2;---;6,(3-2) BBBCCC;O;BAL;Colton Cowser;Jorge López;0%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 15, Twins 2.
+Bottom of the 9th, Twins Batting, Behind 2-15, Orioles' Eduard Bazardo facing 3-4-5 
+;;;;;;;;;Eduard Bazardo replaces Nick Vespi pitching
+b9;2-15;0;---;5,(3-1) .BBBCX;O;MIN;Byron Buxton;Eduard Bazardo;0%;100%;Flyball: CF (Deep CF)
+b9;2-15;1;---;6,(3-2) CBFBBX;O;MIN;Alex Kirilloff;Eduard Bazardo;0%;100%;Lineout: RF (Deep RF)
+b9;2-15;2;---;3,(0-2) CFX;;MIN;Jose Miranda;Eduard Bazardo;0%;100%;Single to P (Ground Ball to Weak 2B)
+;;;;;;;;;Force Play Challenged by MIN manager (Rocco Baldelli): Original call overturned as shown.
+b9;2-15;2;1--;5,(1-2) FS.BF*S;O;MIN;Max Kepler;Eduard Bazardo;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 15, Twins 2.

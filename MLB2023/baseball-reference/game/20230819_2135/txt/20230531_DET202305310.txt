@@ -1,0 +1,269 @@
+
+Scorebox Meta
+20230531
+1:10 p.m. Local
+20968
+Comerica Park
+164
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/TEX-2023.png;/teams/TEX/2023.shtml;0;0;0;1;0;0;1;0;0;2;11;1
+https://cdn.ssref.net/req/202308101/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;0;0;1;0;0;2;0;0;X;3;11;0
+
+Batting home
+Zach McKinstry;/players/m/mckinza01.shtml;RF;5;1;1;0;0;1;5;.288;.400;.432;.832;22;13;-0.046; 0.79;0.028;-0.073;-0.02%; 0.62; -0.6;0;1;
+Akil Baddoo;/players/b/baddoak01.shtml;LF;3;0;1;0;0;0;3;.262;.366;.393;.760;10;6;0.027; 1.03;0.072;-0.045; 0.01%; 0.80; 0.3;2;0;
+Eric Haase;/players/h/haaseer01.shtml;PH-LF;1;0;0;0;0;0;1;.229;.292;.307;.599;4;2;-0.033; 1.13;0.000;-0.033;-0.02%; 0.88; -0.6;0;0;
+Javier Báez;/players/b/baezja01.shtml;SS;4;0;1;1;0;0;4;.225;.271;.310;.581;10;9;-0.001; 1.02;0.039;-0.040;-0.00%; 0.80; -0.1;2;3;2B
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;4;0;2;0;0;1;4;.237;.319;.364;.682;18;11;-0.009; 0.76;0.038;-0.047;-0.00%; 0.59; 0.0;9;0;
+Nick Maton;/players/m/matonni01.shtml;2B;2;1;1;0;1;1;3;.167;.293;.319;.612;18;11;0.053; 1.25;0.076;-0.023; 0.03%; 0.98; 0.5;0;1;
+Jonathan Schoop;/players/s/schoojo01.shtml;PH-3B;1;0;0;0;0;1;1;.214;.290;.274;.564;6;5;-0.024; 0.99;0.000;-0.024;-0.01%; 0.77; -0.3;0;1;
+Tyler Nevin;/players/n/nevinty01.shtml;DH;4;1;2;0;0;1;4;.143;.242;.250;.492;15;14;0.051; 1.51;0.116;-0.065; 0.02%; 1.18; 0.3;;;
+Zack Short;/players/s/shortza01.shtml;3B-2B;4;0;1;0;0;1;4;.302;.388;.535;.923;16;12;0.010; 1.54;0.093;-0.083; 0.01%; 1.20; -0.0;0;3;
+Jake Rogers;/players/r/rogerja03.shtml;C;3;0;0;1;0;2;4;.156;.255;.385;.640;18;13;-0.053; 1.23;0.014;-0.067;-0.03%; 0.96; -0.9;8;1;SF
+Jake Marisnick;/players/m/marisja01.shtml;CF;4;0;2;1;0;1;4;.333;.333;.333;.667;11;8;0.042; 0.92;0.077;-0.035; 0.02%; 0.72; 0.5;6;0;
+Joey Wentz;/players/w/wentzjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Will Vest;/players/v/vestwi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chasen Shreve;/players/s/shrevch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jason Foley;/players/f/foleyja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Alex Lange;/players/l/langeal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Javier Báez (8, off Dane Dunning).
+
+
+SF: Jake Rogers (1, off Jonathan Hernández).
+
+
+TB: Spencer Torkelson 2; Javier Báez 2; Tyler Nevin 2; Jake Marisnick 2; Nick Maton; Zach McKinstry; Zack Short; Akil Baddoo.
+
+
+RBI: Jake Rogers (16); Jake Marisnick (1); Javier Báez (27).
+
+
+Team LOB: 10.
+With RISP: 2 for 9.
+
+Batting away
+Marcus Semien;/players/s/semiema01.shtml;2B;4;0;1;0;1;0;5;.295;.366;.485;.850;28;15;-0.036; 1.91;0.128;-0.164;-0.03%; 2.32; -0.7;2;0;2B
+Corey Seager;/players/s/seageco01.shtml;DH;5;0;2;0;0;1;5;.319;.380;.564;.943;20;12;-0.133; 1.77;0.024;-0.158;-0.10%; 2.16; -0.7;;;
+Nathaniel Lowe;/players/l/lowena01.shtml;1B;5;0;2;1;0;2;5;.277;.355;.427;.782;21;13;-0.046; 1.79;0.130;-0.177;-0.03%; 2.18; 0.2;4;0;
+Adolis García;/players/g/garciad02.shtml;RF;4;0;1;0;0;3;4;.257;.319;.505;.824;22;14;-0.077; 1.28;0.035;-0.112;-0.06%; 1.56; -0.4;1;0;2B
+Josh Jung;/players/j/jungjo01.shtml;3B;4;1;2;0;0;0;4;.295;.341;.531;.872;11;8;0.050; 1.51;0.139;-0.089; 0.04%; 1.84; -0.0;0;1;2B
+Jonah Heim;/players/h/heimjo01.shtml;C;4;0;1;1;0;0;4;.282;.337;.448;.785;13;7;-0.113; 1.84;0.125;-0.239;-0.08%; 2.23; -0.2;9;0;GDP
+Leody Taveras;/players/t/taverle01.shtml;CF;4;0;1;0;0;0;4;.309;.366;.443;.809;11;6;-0.017; 1.04;0.066;-0.083;-0.01%; 1.27; -0.4;5;0;3B
+Josh H. Smith;/players/s/smithjo11.shtml;SS;3;0;0;0;1;1;4;.211;.360;.344;.705;22;12;-0.109; 1.47;0.012;-0.120;-0.08%; 1.79; -0.5;1;3;
+Bubba Thompson;/players/t/thompbu01.shtml;LF;2;0;1;0;0;1;2;.170;.237;.283;.520;5;4;0.011; 1.51;0.036;-0.025; 0.01%; 1.84; 0.1;2;0;
+Robbie Grossman;/players/g/grossro01.shtml;PH-LF;1;1;0;0;1;1;2;.240;.316;.380;.696;11;5;-0.014; 2.10;0.059;-0.073;-0.01%; 2.56; 0.1;0;0;
+Dane Dunning;/players/d/dunnida01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jonathan Hernández;/players/h/hernajo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brock Burke;/players/b/burkebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Leclerc;/players/l/leclejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Adolis García (9, off Joey Wentz); Marcus Semien (15, off Joey Wentz); Josh Jung (11, off Joey Wentz).
+
+
+3B: Leody Taveras (2, off Jason Foley).
+
+
+TB: Josh Jung 3; Leody Taveras 3; Corey Seager 2; Nathaniel Lowe 2; Marcus Semien 2; Adolis García 2; Bubba Thompson; Jonah Heim.
+
+
+GIDP: Jonah Heim (5).
+
+
+RBI: Jonah Heim (39); Nathaniel Lowe (31).
+
+
+2-out RBI: Nathaniel Lowe.
+
+
+Team LOB: 10.
+With RISP: 3 for 10.
+
+Pitching home
+Joey Wentz;/players/w/wentzjo01.shtml;Joey Wentz; 4.1;7;1;1;1;5;0;7.28;21;82;50;33;10;7;4;11;8;0;49;;;0.085; 1.23; 0.04%; 0.96; 1.0
+Will Vest;/players/v/vestwi01.shtml; W (2-0); 1.2;0;0;0;0;1;0;2.84;5;19;11;6;4;1;2;2;0;0;;1;0;0.144; 1.14; 0.07%; 0.89; 1.0
+Chasen Shreve;/players/s/shrevch01.shtml; H (7); 0.2;2;1;1;1;0;0;4.95;4;20;10;5;0;5;1;2;2;0;;0;0;-0.074; 1.79;-0.03%; 1.41; -0.7
+Jason Foley;/players/f/foleyja01.shtml; H (10); 1.1;2;0;0;0;1;0;1.57;5;22;14;10;0;4;3;1;1;0;;1;0;0.166; 2.33; 0.08%; 1.83; 0.7
+Alex Lange;/players/l/langeal01.shtml; S (10); 1 ;0;0;0;1;2;0;1.16;4;21;11;3;4;4;1;0;0;0;;0;0;0.162; 3.20; 0.08%; 2.50; 0.5
+
+Pitching away
+Dane Dunning;/players/d/dunnida01.shtml; L (4-1); 5 ;7;3;3;1;6;0;2.06;24;98;68;39;7;22;6;11;8;0;46;;;0.029; 1.10; 0.02%; 1.34; 0.5
+Jonathan Hernández;/players/h/hernajo02.shtml;Jonathan Hernández; 0.1;2;0;0;0;0;0;5.57;3;6;6;4;0;2;2;1;1;0;;2;2;-0.168; 2.20;-0.12%; 2.68; -1.4
+Brock Burke;/players/b/burkebr01.shtml;Brock Burke; 1.2;2;0;0;0;2;0;3.13;7;33;23;17;2;4;1;4;1;0;;2;0;0.092; 0.95; 0.07%; 1.16; 1.4
+José Leclerc;/players/l/leclejo01.shtml;José Leclerc; 1 ;0;0;0;0;1;0;3.31;3;11;7;4;1;2;1;1;0;0;;0;0;0.031; 0.41; 0.02%; 0.50; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Chad Fairchild, 1B - Nic Lentz, 2B - Charlie Ramos, 3B - Jeremie Rehak, LF - (none), RF - (none).
+Time of Game: 2:44.
+Attendance: 20,968.
+Field Condition: Unknown.
+Start Time Weather: 85° F, Wind 8mph in from Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Rangers
+1;Marcus Semien;/players/s/semiema01.shtml;2B
+2;Corey Seager;/players/s/seageco01.shtml;DH
+3;Nathaniel Lowe;/players/l/lowena01.shtml;1B
+4;Adolis García;/players/g/garciad02.shtml;RF
+5;Josh Jung;/players/j/jungjo01.shtml;3B
+6;Jonah Heim;/players/h/heimjo01.shtml;C
+7;Leody Taveras;/players/t/taverle01.shtml;CF
+8;Josh H. Smith;/players/s/smithjo11.shtml;SS
+9;Bubba Thompson;/players/t/thompbu01.shtml;LF
+; Dane Dunning;/players/d/dunnida01.shtml;P
+Tigers
+1;Zach McKinstry;/players/m/mckinza01.shtml;RF
+2;Akil Baddoo;/players/b/baddoak01.shtml;LF
+3;Javier Báez;/players/b/baezja01.shtml;SS
+4;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+5;Nick Maton;/players/m/matonni01.shtml;2B
+6;Tyler Nevin;/players/n/nevinty01.shtml;DH
+7;Zack Short;/players/s/shortza01.shtml;3B
+8;Jake Rogers;/players/r/rogerja03.shtml;C
+9;Jake Marisnick;/players/m/marisja01.shtml;CF
+; Joey Wentz;/players/w/wentzjo01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t8;2-3;0;1--;2,(0-1) CX;OO;TEX;Jonah Heim;Jason Foley;18%;84%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+t4;0-1;1;-2-;2,(1-0) BX;R;TEX;Jonah Heim;Joey Wentz;-13%;48%;Single to CF (Line Drive to Short CF); Jung Scores; Heim to 2B
+t9;2-3;2;-2-;5,(2-2) CBSB*S;O;TEX;Nathaniel Lowe;Alex Lange;11%;100%;Strikeout Swinging; Lowe out at 1B/C-1B
+t7;1-3;2;--3;6,(3-2) BCB*BFX;R;TEX;Nathaniel Lowe;Chasen Shreve;-10%;75%;Single to CF (Ground Ball thru SS-2B); Grossman Scores
+b6;1-1;0;12-;2,(0-1) .LX;;DET;Zack Short;Jonathan Hernández;9%;79%;Single to P (Bunt); Maton to 3B; Nevin to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Rangers Batting, Tied 0-0, Tigers' Joey Wentz facing 1-2-3 
+t1;0-0;0;---;6,(3-2) FBBFBX;O;TEX;Marcus Semien;Joey Wentz;2%;52%;Flyball: CF (Deep LF-CF)
+t1;0-0;1;---;2,(1-0) BX;;TEX;Corey Seager;Joey Wentz;-2%;50%;Single to RF (Line Drive to Short RF)
+t1;0-0;1;1--;2,(0-1) CX;O;TEX;Nathaniel Lowe;Joey Wentz;3%;53%;Lineout: LF (Deep LF)
+t1;0-0;2;1--;6,(3-2) BSBSB.>X;;TEX;Adolis García;Joey Wentz;-4%;49%;Double to LF (Line Drive to Deep LF Line); Seager to 3B
+t1;0-0;2;-23;6,(2-2) BFFFBX;O;TEX;Josh Jung;Joey Wentz;6%;55%;Groundout: SS-1B (Deep SS-3B Hole)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Rangers 0, Tigers 0.
+Bottom of the 1st, Tigers Batting, Tied 0-0, Rangers' Dane Dunning facing 1-2-3 
+b1;0-0;0;---;5,(2-2) CBBFX;O;DET;Zach McKinstry;Dane Dunning;-2%;53%;Lineout: LF (LF-CF)
+b1;0-0;1;---;5,(3-1) BFBBX;O;DET;Akil Baddoo;Dane Dunning;-2%;51%;Lineout: CF (Deep CF-RF)
+b1;0-0;2;---;2,(0-1) CX;;DET;Javier Báez;Dane Dunning;2%;53%;Ground-rule Double (Fly Ball to RF Line)
+b1;0-0;2;-2-;4,(2-1) BCBX;O;DET;Spencer Torkelson;Dane Dunning;-3%;50%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rangers 0, Tigers 0.
+Top of the 2nd, Rangers Batting, Tied 0-0, Tigers' Joey Wentz facing 6-7-8 
+t2;0-0;0;---;4,(2-1) BFBX;O;TEX;Jonah Heim;Joey Wentz;2%;52%;Flyball: CF (Deep CF)
+t2;0-0;1;---;1,(0-0) X;O;TEX;Leody Taveras;Joey Wentz;2%;54%;Groundout: SS-1B (Weak SS-2B)
+t2;0-0;2;---;5,(2-2) BBCLS;O;TEX;Josh H. Smith;Joey Wentz;1%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 0, Tigers 0.
+Bottom of the 2nd, Tigers Batting, Tied 0-0, Rangers' Dane Dunning facing 5-6-7 
+b2;0-0;0;---;6,(3-2) BFC.BBS;O;DET;Nick Maton;Dane Dunning;-2%;53%;Strikeout Swinging
+b2;0-0;1;---;2,(0-1) CX;;DET;Tyler Nevin;Dane Dunning;3%;55%;Reached on E6 (throw) (Ground Ball); Nevin to 1B
+b2;0-0;1;1--;4,(1-2) CCBX;O;DET;Zack Short;Dane Dunning;-2%;53%;Groundout: SS-1B (Weak SS); Nevin to 2B
+b2;0-0;2;-2-;7,(3-2) CBBCFBC;O;DET;Jake Rogers;Dane Dunning;-3%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Rangers 0, Tigers 0.
+Top of the 3rd, Rangers Batting, Tied 0-0, Tigers' Joey Wentz facing 9-1-2 
+t3;0-0;0;---;3,(0-2) FSS;O;TEX;Bubba Thompson;Joey Wentz;3%;53%;Strikeout Swinging
+t3;0-0;1;---;7,(2-2) CBFBFFX;;TEX;Marcus Semien;Joey Wentz;-5%;48%;Double to LF (Line Drive to Deep LF-CF)
+t3;0-0;1;-2-;3,(0-2) CSS;O;TEX;Corey Seager;Joey Wentz;4%;52%;Strikeout Swinging
+t3;0-0;2;-2-;6,(2-2) BBFCFS;O;TEX;Nathaniel Lowe;Joey Wentz;4%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rangers 0, Tigers 0.
+Bottom of the 3rd, Tigers Batting, Tied 0-0, Rangers' Dane Dunning facing 9-1-2 
+b3;0-0;0;---;5,(2-2) BFBCC;O;DET;Jake Marisnick;Dane Dunning;-3%;53%;Strikeout Looking
+b3;0-0;1;---;2,(1-0) BX;;DET;Zach McKinstry;Dane Dunning;3%;56%;Single to CF (Line Drive)
+b3;0-0;1;1--;1,(0-0) X;;DET;Akil Baddoo;Dane Dunning;7%;63%;Single to CF (Line Drive); McKinstry to 3B
+b3;0-0;1;1-3;3,(0-2) CFX;RO;DET;Javier Báez;Dane Dunning;2%;65%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); McKinstry Scores; Báez to 1B
+b3;1-0;2;1--;3,(0-2) FFX;;DET;Spencer Torkelson;Dane Dunning;2%;66%;Single to RF (Line Drive to CF-RF); Báez to 2B
+b3;1-0;2;12-;9,(3-2) BBSFFFFB>B;;DET;Nick Maton;Dane Dunning;3%;69%;Walk; Báez to 3B; Torkelson to 2B
+b3;1-0;2;123;4,(1-2) CCBS;O;DET;Tyler Nevin;Dane Dunning;-6%;63%;Strikeout Swinging
+;;;;;;;;;1 run, 3 hits, 0 errors, 3 LOB. Rangers 0, Tigers 1.
+Top of the 4th, Rangers Batting, Behind 0-1, Tigers' Joey Wentz facing 4-5-6 
+t4;0-1;0;---;7,(2-2) BFS.BFFS;O;TEX;Adolis García;Joey Wentz;3%;65%;Strikeout Swinging
+t4;0-1;1;---;1,(0-0) X;;TEX;Josh Jung;Joey Wentz;-5%;60%;Double to LF (Line Drive to LF Line)
+t4;0-1;1;-2-;2,(1-0) BX;R;TEX;Jonah Heim;Joey Wentz;-13%;48%;Single to CF (Line Drive to Short CF); Jung Scores; Heim to 2B
+t4;1-1;1;-2-;1,(0-0) X;O;TEX;Leody Taveras;Joey Wentz;4%;52%;Lineout: CF
+t4;1-1;2;-2-;5,(3-1) BBFBB;;TEX;Josh H. Smith;Joey Wentz;-1%;51%;Walk
+t4;1-1;2;12-;2,(1-0) BX;;TEX;Bubba Thompson;Joey Wentz;-4%;47%;Single to P (Bunt to Short 3B Line); Heim to 3B; Smith to 2B
+t4;1-1;2;123;6,(3-2) CBBC.B>X;O;TEX;Marcus Semien;Joey Wentz;9%;56%;Popfly: 1B
+;;;;;;;;;1 run, 3 hits, 0 errors, 3 LOB. Rangers 1, Tigers 1.
+Bottom of the 4th, Tigers Batting, Tied 1-1, Rangers' Dane Dunning facing 7-8-9 
+b4;1-1;0;---;1,(0-0) X;O;DET;Zack Short;Dane Dunning;-3%;53%;Lineout: SS (Deep SS-3B Hole)
+b4;1-1;1;---;4,(1-2) CF.BX;O;DET;Jake Rogers;Dane Dunning;-2%;51%;Flyball: CF (Deep CF)
+b4;1-1;2;---;4,(1-2) CFBX;;DET;Jake Marisnick;Dane Dunning;1%;53%;Single to RF (Line Drive to Short CF-RF)
+b4;1-1;2;1--;4,(1-2) B1FF*S;O;DET;Zach McKinstry;Dane Dunning;-3%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rangers 1, Tigers 1.
+Top of the 5th, Rangers Batting, Tied 1-1, Tigers' Joey Wentz facing 2-3-4 
+t5;1-1;0;---;5,(3-1) BBFBX;O;TEX;Corey Seager;Joey Wentz;3%;53%;Lineout: CF (Deep CF)
+t5;1-1;1;---;2,(1-0) BX;;TEX;Nathaniel Lowe;Joey Wentz;-3%;50%;Single to CF (Ground Ball)
+;;;;;;;;;Will Vest replaces Joey Wentz pitching
+t5;1-1;1;1--;4,(1-2) .SSBS;O;TEX;Adolis García;Will Vest;4%;54%;Strikeout Swinging
+t5;1-1;2;1--;1,(0-0) X;O;TEX;Josh Jung;Will Vest;3%;57%;Flyball: CF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rangers 1, Tigers 1.
+Bottom of the 5th, Tigers Batting, Tied 1-1, Rangers' Dane Dunning facing 2-3-4 
+b5;1-1;0;---;4,(1-2) CCBX;O;DET;Akil Baddoo;Dane Dunning;-3%;54%;Groundout: SS-1B (SS-2B)
+b5;1-1;1;---;4,(1-2) BCF.X;O;DET;Javier Báez;Dane Dunning;-2%;51%;Flyball: 2B (Short CF)
+b5;1-1;2;---;6,(3-2) CBFBBS;O;DET;Spencer Torkelson;Dane Dunning;-1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 1, Tigers 1.
+Top of the 6th, Rangers Batting, Tied 1-1, Tigers' Will Vest facing 6-7-8 
+t6;1-1;0;---;5,(3-1) BBBCX;O;TEX;Jonah Heim;Will Vest;3%;53%;Flyball: LF (Deep LF-CF)
+t6;1-1;1;---;3,(2-0) BBX;O;TEX;Leody Taveras;Will Vest;2%;56%;Groundout: 3B-1B
+t6;1-1;2;---;6,(2-2) BS.BFFX;O;TEX;Josh H. Smith;Will Vest;2%;58%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 1, Tigers 1.
+Bottom of the 6th, Tigers Batting, Tied 1-1, Rangers' Dane Dunning facing 5-6-7 
+b6;1-1;0;---;3,(0-2) FS.X;;DET;Nick Maton;Dane Dunning;5%;63%;Single to RF (Line Drive to Short CF-RF)
+b6;1-1;0;1--;6,(0-2) CSFFFX;;DET;Tyler Nevin;Dane Dunning;7%;70%;Single to RF (Ground Ball thru 2B-1B); Maton to 2B
+;;;;;;;;;Jonathan Hernández replaces Dane Dunning pitching
+b6;1-1;0;12-;2,(0-1) .LX;;DET;Zack Short;Jonathan Hernández;9%;79%;Single to P (Bunt); Maton to 3B; Nevin to 2B
+b6;1-1;0;123;3,(0-2) CCX;RO;DET;Jake Rogers;Jonathan Hernández;1%;81%;Lineout: CF/Sacrifice Fly (Deep CF); Maton Scores; Nevin to 3B
+b6;2-1;1;1-3;1,(0-0) X;R;DET;Jake Marisnick;Jonathan Hernández;6%;87%;Single to RF (Ground Ball thru 2B-1B); Nevin Scores; Short to 2B
+;;;;;;;;;Brock Burke replaces Jonathan Hernández pitching
+b6;3-1;1;12-;5,(2-2) .FBFBX;O;DET;Zach McKinstry;Brock Burke;-2%;85%;Flyball: LF (Deep LF Line); Short to 3B; Marisnick to 2B
+;;;;;;;;;Eric Haase pinch hits for Akil Baddoo (LF) batting 2nd
+b6;3-1;2;-23;4,(2-1) .BBFX;O;DET;Eric Haase;Brock Burke;-3%;82%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;2 runs, 4 hits, 0 errors, 2 LOB. Rangers 1, Tigers 3.
+Top of the 7th, Rangers Batting, Behind 1-3, Tigers' Chasen Shreve facing 9-1-2 
+;;;;;;;;;Chasen Shreve replaces Will Vest pitchingEric Haase moves from PH to LF Robbie Grossman pinch hits for Bubba Thompson (LF) batting 9th
+t7;1-3;0;---;5,(3-1) ...BCBBB;;TEX;Robbie Grossman;Chasen Shreve;-6%;76%;Walk
+t7;1-3;0;1--;4,(1-2) BCFX;O;TEX;Marcus Semien;Chasen Shreve;5%;81%;Lineout: CF (Deep CF)
+t7;1-3;1;1--;5,(2-2) BCCBX;O;TEX;Corey Seager;Chasen Shreve;3%;84%;Single to RF (Line Drive to Deep RF); Grossman to 3B; Seager out at 2B/RF-SS
+t7;1-3;2;--3;6,(3-2) BCB*BFX;R;TEX;Nathaniel Lowe;Chasen Shreve;-10%;75%;Single to CF (Ground Ball thru SS-2B); Grossman Scores
+;;;;;;;;;Jason Foley replaces Chasen Shreve pitching
+t7;2-3;2;1--;5,(2-2) .C.BBCT;O;TEX;Adolis García;Jason Foley;5%;79%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Rangers 2, Tigers 3.
+Bottom of the 7th, Tigers Batting, Ahead 3-2, Rangers' Brock Burke facing 3-4-5 
+;;;;;;;;;Robbie Grossman moves from PH to LF 
+b7;3-2;0;---;1,(0-0) .X;O;DET;Javier Báez;Brock Burke;-2%;77%;Flyball: RF (RF Line)
+b7;3-2;1;---;5,(2-2) BCBC.X;;DET;Spencer Torkelson;Brock Burke;2%;79%;Single to RF (Line Drive to Deep CF-RF)
+;;;;;;;;;Jonathan Schoop pinch hits for Nick Maton (2B) batting 5th
+b7;3-2;1;1--;6,(1-2) .SFFBFS;O;DET;Jonathan Schoop;Brock Burke;-2%;77%;Strikeout Swinging
+b7;3-2;2;1--;3,(0-2) FFX;;DET;Tyler Nevin;Brock Burke;2%;78%;Single to 2B (Ground Ball to SS-2B); Torkelson to 2B
+b7;3-2;2;12-;9,(3-2) CF.BBB>F>F>F>C;O;DET;Zack Short;Brock Burke;-4%;75%;Strikeout Looking
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Rangers 2, Tigers 3.
+Top of the 8th, Rangers Batting, Behind 2-3, Tigers' Jason Foley facing 5-6-7 
+;;;;;;;;;Zack Short moves from 3B to 2B Jonathan Schoop moves from PH to 3B 
+t8;2-3;0;---;3,(1-1) ..CBX;;TEX;Josh Jung;Jason Foley;-9%;66%;Single to CF (Ground Ball thru SS-2B)
+t8;2-3;0;1--;2,(0-1) CX;OO;TEX;Jonah Heim;Jason Foley;18%;84%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+t8;2-3;2;---;6,(3-2) BBFBFX;;TEX;Leody Taveras;Jason Foley;-7%;78%;Triple to RF (Line Drive to Deep RF Line)
+t8;2-3;2;--3;6,(2-2) FFBBFX;O;TEX;Josh H. Smith;Jason Foley;9%;87%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Rangers 2, Tigers 3.
+Bottom of the 8th, Tigers Batting, Ahead 3-2, Rangers' José Leclerc facing 8-9-1 
+;;;;;;;;;José Leclerc replaces Brock Burke pitching
+b8;3-2;0;---;4,(1-2) .BFFS;O;DET;Jake Rogers;José Leclerc;-1%;86%;Strikeout Swinging
+b8;3-2;1;---;1,(0-0) X;O;DET;Jake Marisnick;José Leclerc;-1%;85%;Groundout: 1B unassisted
+b8;3-2;2;---;6,(3-2) BBBCCX;O;DET;Zach McKinstry;José Leclerc;-1%;84%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 2, Tigers 3.
+Top of the 9th, Rangers Batting, Behind 2-3, Tigers' Alex Lange facing 9-1-2 
+;;;;;;;;;Alex Lange replaces Jason Foley pitching
+t9;2-3;0;---;6,(2-2) .CSBBFC;O;TEX;Robbie Grossman;Alex Lange;7%;91%;Strikeout Looking
+t9;2-3;1;---;5,(3-1) BFBBB;;TEX;Marcus Semien;Alex Lange;-8%;83%;Walk
+t9;2-3;1;1--;5,(2-2) SB*BCX;O;TEX;Corey Seager;Alex Lange;6%;89%;Groundout: 2B-1B (2B-1B); Semien to 2B
+t9;2-3;2;-2-;5,(2-2) CBSB*S;O;TEX;Nathaniel Lowe;Alex Lange;11%;100%;Strikeout Swinging; Lowe out at 1B/C-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rangers 2, Tigers 3.

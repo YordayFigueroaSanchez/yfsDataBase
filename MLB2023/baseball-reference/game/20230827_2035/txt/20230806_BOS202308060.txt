@@ -1,0 +1,298 @@
+
+Scorebox Meta
+20230806
+1:35 p.m. Local
+36162
+Fenway Park
+168
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/TOR-2023.png;/teams/TOR/2023.shtml;0;0;4;2;5;0;1;1;0;13;16;0
+https://cdn.ssref.net/req/202308251/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;0;0;0;1;0;0;0;0;0;1;8;0
+
+Batting home
+Jarren Duran;/players/d/duranja01.shtml;CF;5;0;0;0;0;2;5;.308;.357;.507;.863;21;14;-0.141; 0.77;0.000;-0.141;-0.07%; 0.64; -2.0;0;0;GDP
+Masataka Yoshida;/players/y/yoshima02.shtml;LF;4;0;1;0;0;1;4;.306;.365;.482;.847;8;7;-0.033; 0.36;0.003;-0.037;-0.02%; 0.30; 0.0;2;0;2B
+Justin Turner;/players/t/turneju01.shtml;DH;2;0;1;0;0;0;2;.287;.356;.479;.834;14;8;-0.002; 0.47;0.012;-0.014;-0.00%; 0.39; -0.0;;;
+Connor Wong;/players/w/wongco01.shtml;PH-DH-DH-2B;2;0;0;0;0;0;2;.238;.293;.383;.676;4;3;-0.003; 0.06;0.000;-0.003;-0.00%; 0.04; -0.6;0;1;
+Rafael Devers;/players/d/deverra01.shtml;3B;2;0;1;0;0;1;2;.267;.337;.521;.858;6;4;0.026; 0.55;0.035;-0.008; 0.01%; 0.46; 0.3;0;0;2B
+Yu Chang;/players/c/changyu01.shtml;PH-SS;2;0;0;0;0;0;2;.162;.200;.352;.552;4;3;-0.002; 0.04;0.000;-0.002;-0.00%; 0.03; -0.6;0;2;
+Triston Casas;/players/c/casastr01.shtml;1B;3;1;1;1;1;1;4;.251;.353;.479;.832;12;8;0.048; 0.59;0.050;-0.002; 0.02%; 0.49; 0.6;12;0;HR
+Alex Verdugo;/players/v/verdual01.shtml;RF;4;0;3;0;0;0;4;.275;.347;.427;.775;11;10;-0.043; 0.67;0.028;-0.071;-0.02%; 0.55; 0.2;2;0;
+Luis Urías;/players/u/uriaslu01.shtml;2B-3B;4;0;1;0;0;0;4;.182;.316;.273;.589;12;9;0.010; 0.51;0.037;-0.027; 0.01%; 0.42; -0.7;1;2;
+Reese McGuire;/players/m/mcguire01.shtml;C;4;0;0;0;0;2;4;.263;.303;.368;.672;13;9;-0.055; 0.57;0.000;-0.055;-0.03%; 0.47; -1.3;7;0;
+Pablo Reyes;/players/r/reyespa01.shtml;SS-2B-P;2;0;0;0;2;1;4;.288;.338;.342;.680;14;5;0.049; 0.42;0.050;-0.001; 0.02%; 0.35; 0.2;2;6;
+Brennan Bernardino;/players/b/bernabr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chris Murphy;/players/m/murphch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Mauricio Llovera;/players/l/llovema01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Richard Bleier;/players/b/bleieri01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Nick Robertson;/players/r/roberni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Rafael Devers (24, off Chris Bassitt); Masataka Yoshida (25, off Chris Bassitt).
+
+
+HR: Triston Casas (17, off Chris Bassitt, 4th inn, 0 on, 0 outs to Deep RF).
+
+
+TB: Triston Casas 4; Alex Verdugo 3; Masataka Yoshida 2; Rafael Devers 2; Luis Urías; Justin Turner.
+
+
+GIDP: Jarren Duran (3).
+
+
+RBI: Triston Casas (41).
+
+
+Team LOB: 9.
+With RISP: 0 for 7.
+
+Batting away
+Whit Merrifield;/players/m/merriwh01.shtml;LF;5;1;0;1;1;1;6;.293;.342;.419;.761;20;12;-0.031; 0.41;0.018;-0.049;-0.02%; 0.52; -0.6;3;0;
+Brandon Belt;/players/b/beltbr01.shtml;1B;4;3;2;0;2;2;6;.254;.371;.453;.824;26;9;-0.002; 0.28;0.028;-0.030;-0.00%; 0.35; 1.1;8;1;2B
+Davis Schneider;/players/s/schneda03.shtml;2B;5;1;4;4;0;1;6;.692;.733;1.154;1.887;22;15;0.059; 0.41;0.091;-0.032; 0.04%; 0.51; 3.8;0;4;HR,HBP
+George Springer;/players/s/springe01.shtml;DH;5;1;2;1;0;0;6;.255;.324;.390;.714;30;19;0.073; 0.30;0.076;-0.003; 0.06%; 0.38; -0.9;;;2·2B,SF,GDP
+Matt Chapman;/players/c/chapmma01.shtml;3B;4;1;2;3;0;0;4;.258;.351;.462;.813;15;9;0.126; 1.06;0.186;-0.060; 0.10%; 1.34; 2.0;0;0;2B
+Santiago Espinal;/players/e/espinsa01.shtml;3B;1;0;0;0;1;0;2;.221;.298;.305;.603;5;1;0.000; 0.00;0.000;0.000;0%; 0.00; -0.1;0;1;
+Cavan Biggio;/players/b/biggica01.shtml;RF;5;2;1;1;1;0;6;.211;.294;.379;.673;22;14;0.068; 0.35;0.093;-0.025; 0.05%; 0.45; -0.4;1;0;2B
+Alejandro Kirk;/players/k/kirkal01.shtml;C;2;2;1;0;2;0;5;.258;.345;.357;.702;24;11;0.043; 0.35;0.043;0.000; 0.03%; 0.44; 0.9;8;0;HBP
+Kevin Kiermaier;/players/k/kiermke01.shtml;CF;4;1;2;2;0;1;4;.274;.336;.415;.750;12;9;0.054; 0.66;0.085;-0.030; 0.04%; 0.83; 1.5;3;0;
+Daulton Varsho;/players/v/varshda01.shtml;CF;1;0;1;1;0;0;1;.217;.280;.368;.647;8;5;0.000; 0.00;0.000;0.000;0%; 0.00; 1.1;2;0;3B
+Paul DeJong;/players/d/dejonpa01.shtml;SS;5;1;1;0;0;2;5;.224;.285;.391;.677;14;12;-0.036; 0.37;0.009;-0.045;-0.03%; 0.46; -0.4;2;2;
+Chris Bassitt;/players/b/bassich01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Bowden Francis;/players/f/francbo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jay Jackson;/players/j/jacksja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: George Springer 2 (17, 1 off Brennan Bernardino, 1 off Chris Murphy); Matt Chapman (35, off Chris Murphy); Cavan Biggio (6, off Chris Murphy); Brandon Belt (21, off Richard Bleier).
+
+
+3B: Daulton Varsho (1, off Nick Robertson).
+
+
+HR: Davis Schneider (2, off Chris Murphy, 4th inn, 1 on, 1 out to Deep LF).
+
+
+SF: George Springer (2, off Mauricio Llovera).
+
+
+HBP: Alejandro Kirk (6, by Mauricio Llovera); Davis Schneider (1, by Mauricio Llovera).
+
+
+TB: Davis Schneider 7; George Springer 4; Matt Chapman 3; Brandon Belt 3; Daulton Varsho 3; Cavan Biggio 2; Kevin Kiermaier 2; Alejandro Kirk; Paul DeJong.
+
+
+GIDP: George Springer (17).
+
+
+RBI: Davis Schneider 4 (5); Matt Chapman 3 (49); Kevin Kiermaier 2 (27); Daulton Varsho (37); Cavan Biggio (20); Whit Merrifield (52); George Springer (44).
+
+
+2-out RBI: Matt Chapman 3; Kevin Kiermaier; Cavan Biggio; Daulton Varsho.
+
+
+Team LOB: 11.
+With RISP: 7 for 14.
+
+Pitching home
+Brennan Bernardino;/players/b/bernabr01.shtml;Brennan Bernardino; 1 ;2;0;0;0;2;0;2.65;5;24;17;10;2;5;1;2;1;0;51;;;0.050; 0.92; 0.02%; 0.76; 0.5
+Chris Murphy;/players/m/murphch01.shtml; L (1-1); 2.1;7;6;6;2;3;1;3.23;16;62;34;19;5;10;6;5;1;0;;0;0;-0.347; 0.92;-0.17%; 0.76; -4.7
+Mauricio Llovera;/players/l/llovema01.shtml;Mauricio Llovera; 1.1;3;5;5;2;0;0;6.97;11;41;23;16;0;7;2;5;2;0;;0;0;-0.058; 0.17;-0.03%; 0.14; -4.7
+Richard Bleier;/players/b/bleieri01.shtml;Richard Bleier; 2.1;2;1;1;0;1;0;5.28;8;26;18;10;5;3;3;4;2;0;;2;0;0.001; 0.01; 0.00%; 0.01; 0.6
+Nick Robertson;/players/r/roberni01.shtml;Nick Robertson; 1 ;1;1;1;1;1;0;6.35;5;22;14;8;2;4;2;1;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; -0.5
+Pablo Reyes;/players/r/reyespa01.shtml;Pablo Reyes; 1 ;1;0;0;2;0;0;4.50;6;23;10;5;1;4;2;2;1;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+Pitching away
+Chris Bassitt;/players/b/bassich01.shtml; W (11-6); 7 ;7;1;1;3;6;1;3.87;30;96;65;30;10;25;9;12;3;0;62;;;0.145; 0.64; 0.11%; 0.81; 2.8
+Bowden Francis;/players/f/francbo01.shtml;Bowden Francis; 1 ;1;0;0;0;1;0;2.00;4;14;9;4;1;4;2;1;1;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+Jay Jackson;/players/j/jacksja01.shtml;Jay Jackson; 1 ;0;0;0;0;1;0;0.50;3;9;6;4;2;0;1;1;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Bowden Francis (1); Pablo Reyes (1).
+HBP: Mauricio Llovera 2 (3; Alejandro Kirk, Davis Schneider).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Bowden Francis (1); Pablo Reyes (1).
+HBP: Mauricio Llovera 2 (3; Alejandro Kirk, Davis Schneider).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Chad Whitson, 1B - Roberto Ortiz, 2B - Rob Drake, 3B - Bill Miller, LF - (none), RF - (none).
+Time of Game: 2:48.
+Attendance: 36,162.
+Field Condition: Unknown.
+Start Time Weather: 80° F, Wind 3mph out to Rightfield, Sunny, No Precipitation.
+
+div_lineups
+Blue Jays
+1;Whit Merrifield;/players/m/merriwh01.shtml;LF
+2;Brandon Belt;/players/b/beltbr01.shtml;1B
+3;Davis Schneider;/players/s/schneda03.shtml;2B
+4;George Springer;/players/s/springe01.shtml;DH
+5;Matt Chapman;/players/c/chapmma01.shtml;3B
+6;Cavan Biggio;/players/b/biggica01.shtml;RF
+7;Alejandro Kirk;/players/k/kirkal01.shtml;C
+8;Kevin Kiermaier;/players/k/kiermke01.shtml;CF
+9;Paul DeJong;/players/d/dejonpa01.shtml;SS
+; Chris Bassitt;/players/b/bassich01.shtml;P
+Red Sox
+1;Jarren Duran;/players/d/duranja01.shtml;CF
+2;Masataka Yoshida;/players/y/yoshima02.shtml;LF
+3;Justin Turner;/players/t/turneju01.shtml;DH
+4;Rafael Devers;/players/d/deverra01.shtml;3B
+5;Triston Casas;/players/c/casastr01.shtml;1B
+6;Alex Verdugo;/players/v/verdual01.shtml;RF
+7;Luis Urías;/players/u/uriaslu01.shtml;2B
+8;Reese McGuire;/players/m/mcguire01.shtml;C
+9;Pablo Reyes;/players/r/reyespa01.shtml;SS
+; Brennan Bernardino;/players/b/bernabr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t3;0-0;2;-23;4,(2-1) CBBX;RR;TOR;Matt Chapman;Chris Murphy;18%;69%;Double to LF (Fly Ball to LF Line); Belt Scores; Springer Scores
+b2;0-0;1;12-;3,(0-2) FSX;OO;BOS;Jarren Duran;Chris Bassitt;9%;50%;Ground Ball Double Play: 2B-SS-1B
+t3;2-0;2;-2-;4,(2-1) BSBX;R;TOR;Cavan Biggio;Chris Murphy;8%;78%;Double to CF (Line Drive to Deep CF); Chapman Scores
+t4;4-0;1;1--;1,(0-0) X;RR;TOR;Davis Schneider;Chris Murphy;7%;94%;Home Run (Fly Ball to Deep LF); Merrifield Scores
+b1;0-0;2;123;3,(0-2) CCX;O;BOS;Alex Verdugo;Chris Bassitt;7%;50%;Groundout: 1B-SS/Forceout at 2B; Verdugo to 1B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Blue Jays Batting, Tied 0-0, Red Sox' Brennan Bernardino facing 1-2-3 
+t1;0-0;0;---;5,(2-2) FBBCT;O;TOR;Whit Merrifield;Brennan Bernardino;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;4,(1-2) BFSC;O;TOR;Brandon Belt;Brennan Bernardino;-2%;46%;Strikeout Looking
+t1;0-0;2;---;7,(2-2) BBCCFFX;;TOR;Davis Schneider;Brennan Bernardino;1%;47%;Single to CF (Ground Ball thru SS-2B)
+t1;0-0;2;1--;4,(0-2) CSF1X;;TOR;George Springer;Brennan Bernardino;4%;51%;Double to LF (Line Drive to LF Line); Schneider to 3B
+t1;0-0;2;-23;4,(2-1) BFBX;O;TOR;Matt Chapman;Brennan Bernardino;-6%;45%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Blue Jays 0, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Tied 0-0, Blue Jays' Chris Bassitt facing 1-2-3 
+b1;0-0;0;---;1,(0-0) X;O;BOS;Jarren Duran;Chris Bassitt;2%;47%;Flyball: LF (LF Line)
+b1;0-0;1;---;2,(0-1) CX;O;BOS;Masataka Yoshida;Chris Bassitt;2%;49%;Groundout: 2B-1B (2B-1B)
+b1;0-0;2;---;6,(3-2) BBBCCX;;BOS;Justin Turner;Chris Bassitt;-1%;48%;Single to RF (Ground Ball thru 2B-1B)
+b1;0-0;2;1--;2,(1-0) BX;;BOS;Rafael Devers;Chris Bassitt;-3%;44%;Ground-rule Double (Fly Ball to Short LF Line); Turner to 3B
+b1;0-0;2;-23;4,(3-1) BBB.CV;;BOS;Triston Casas;Chris Bassitt;-1%;43%;Walk
+b1;0-0;2;123;3,(0-2) CCX;O;BOS;Alex Verdugo;Chris Bassitt;7%;50%;Groundout: 1B-SS/Forceout at 2B; Verdugo to 1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Blue Jays 0, Red Sox 0.
+Top of the 2nd, Blue Jays Batting, Tied 0-0, Red Sox' Chris Murphy facing 6-7-8 
+;;;;;;;;;Chris Murphy replaces Brennan Bernardino pitching
+t2;0-0;0;---;3,(1-1) .FBX;O;TOR;Cavan Biggio;Chris Murphy;-2%;48%;Groundout: 2B-1B
+t2;0-0;1;---;6,(3-2) BCBBCX;;TOR;Alejandro Kirk;Chris Murphy;3%;50%;Single to LF (Ground Ball)
+t2;0-0;1;1--;3,(1-1) SBX;O;TOR;Kevin Kiermaier;Chris Murphy;-3%;47%;Popfly: SS (Short LF-CF)
+t2;0-0;2;1--;4,(1-2) FFBS;O;TOR;Paul DeJong;Chris Murphy;-2%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 0, Red Sox 0.
+Bottom of the 2nd, Red Sox Batting, Tied 0-0, Blue Jays' Chris Bassitt facing 7-8-9 
+b2;0-0;0;---;2,(0-1) CX;;BOS;Luis Urías;Chris Bassitt;-4%;41%;Single to 3B (Ground Ball to Weak SS)
+b2;0-0;0;1--;3,(1-1) BCX;O;BOS;Reese McGuire;Chris Bassitt;3%;45%;Lineout: CF (Deep CF)
+b2;0-0;1;1--;5,(3-1) 1CBBBB;;BOS;Pablo Reyes;Chris Bassitt;-4%;41%;Walk; Urías to 2B
+b2;0-0;1;12-;3,(0-2) FSX;OO;BOS;Jarren Duran;Chris Bassitt;9%;50%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 0, Red Sox 0.
+Top of the 3rd, Blue Jays Batting, Tied 0-0, Red Sox' Chris Murphy facing 1-2-3 
+t3;0-0;0;---;2,(0-1) CX;O;TOR;Whit Merrifield;Chris Murphy;-3%;47%;Groundout: SS-1B
+t3;0-0;1;---;5,(3-1) BFBBX;;TOR;Brandon Belt;Chris Murphy;3%;50%;Single to P (Bunt Popup to Short 3B Line)
+t3;0-0;1;1--;5,(2-2) FBBFS;O;TOR;Davis Schneider;Chris Murphy;-3%;47%;Strikeout Swinging
+t3;0-0;2;1--;5,(2-2) TBCBX;;TOR;George Springer;Chris Murphy;4%;51%;Ground-rule Double (Fly Ball to Deep CF-RF); Belt to 3B
+t3;0-0;2;-23;4,(2-1) CBBX;RR;TOR;Matt Chapman;Chris Murphy;18%;69%;Double to LF (Fly Ball to LF Line); Belt Scores; Springer Scores
+t3;2-0;2;-2-;4,(2-1) BSBX;R;TOR;Cavan Biggio;Chris Murphy;8%;78%;Double to CF (Line Drive to Deep CF); Chapman Scores
+t3;3-0;2;-2-;5,(3-1) BCBBB;;TOR;Alejandro Kirk;Chris Murphy;1%;78%;Walk
+t3;3-0;2;12-;3,(0-2) CSX;R;TOR;Kevin Kiermaier;Chris Murphy;7%;85%;Single to LF (Ground Ball); Biggio Scores; Kirk to 2B
+t3;4-0;2;12-;1,(0-0) X;O;TOR;Paul DeJong;Chris Murphy;-2%;83%;Groundout: SS-2B/Forceout at 2B; DeJong to 1B
+;;;;;;;;;4 runs, 5 hits, 0 errors, 2 LOB. Blue Jays 4, Red Sox 0.
+Bottom of the 3rd, Red Sox Batting, Behind 0-4, Blue Jays' Chris Bassitt facing 2-3-4 
+b3;0-4;0;---;3,(0-2) CC.C;O;BOS;Masataka Yoshida;Chris Bassitt;2%;85%;Strikeout Looking
+b3;0-4;1;---;8,(3-2) CBSBF.BFX;O;BOS;Justin Turner;Chris Bassitt;1%;86%;Groundout: SS-1B (SS-2B)
+b3;0-4;2;---;4,(1-2) BCCS;O;BOS;Rafael Devers;Chris Bassitt;1%;87%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 4, Red Sox 0.
+Top of the 4th, Blue Jays Batting, Ahead 4-0, Red Sox' Chris Murphy facing 1-2-3 
+t4;4-0;0;---;5,(3-1) BBCBB;;TOR;Whit Merrifield;Chris Murphy;1%;88%;Walk
+t4;4-0;0;1--;6,(3-2) CBFBBC;O;TOR;Brandon Belt;Chris Murphy;-1%;87%;Strikeout Looking
+t4;4-0;1;1--;1,(0-0) X;RR;TOR;Davis Schneider;Chris Murphy;7%;94%;Home Run (Fly Ball to Deep LF); Merrifield Scores
+;;;;;;;;;Mauricio Llovera replaces Chris Murphy pitching
+t4;6-0;1;---;4,(1-2) .CFBX;O;TOR;George Springer;Mauricio Llovera;0%;94%;Foul Popfly: 1B (1B into Foul Terr.)
+t4;6-0;2;---;1,(0-0) X;O;TOR;Matt Chapman;Mauricio Llovera;0%;94%;Foul Popfly: RF (RF into Foul Terr.)
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Blue Jays 6, Red Sox 0.
+Bottom of the 4th, Red Sox Batting, Behind 0-6, Blue Jays' Chris Bassitt facing 5-6-7 
+b4;0-6;0;---;1,(0-0) X;R;BOS;Triston Casas;Chris Bassitt;-4%;90%;Home Run (Fly Ball to Deep RF)
+b4;1-6;0;---;3,(0-2) CS.X;;BOS;Alex Verdugo;Chris Bassitt;-3%;87%;Single to LF (Line Drive to Short LF)
+b4;1-6;0;1--;3,(0-2) CCX;O;BOS;Luis Urías;Chris Bassitt;2%;90%;Flyball: CF
+b4;1-6;1;1--;4,(1-2) CFBS;O;BOS;Reese McGuire;Chris Bassitt;2%;92%;Strikeout Swinging
+b4;1-6;2;1--;4,(3-0) BBBB;;BOS;Pablo Reyes;Chris Bassitt;-1%;90%;Walk; Verdugo to 2B
+b4;1-6;2;12-;6,(3-2) *BCFBB>*S;O;BOS;Jarren Duran;Chris Bassitt;3%;93%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Blue Jays 6, Red Sox 1.
+Top of the 5th, Blue Jays Batting, Ahead 6-1, Red Sox' Mauricio Llovera facing 6-7-8 
+t5;6-1;0;---;7,(3-2) BBCF.BFB;;TOR;Cavan Biggio;Mauricio Llovera;1%;94%;Walk
+t5;6-1;0;1--;5,(1-2) CBCF1H;;TOR;Alejandro Kirk;Mauricio Llovera;1%;95%;Hit By Pitch; Biggio to 2B
+t5;6-1;0;12-;2,(1-0) BX;R;TOR;Kevin Kiermaier;Mauricio Llovera;2%;97%;Single to CF (Ground Ball thru SS-2B); Biggio Scores; Kirk to 2B
+t5;7-1;0;12-;3,(0-2) CFX;;TOR;Paul DeJong;Mauricio Llovera;1%;98%;Single to LF (Fly Ball to Short LF-CF); Kirk to 3B; Kiermaier to 2B
+t5;7-1;0;123;1,(0-0) X;RO;TOR;Whit Merrifield;Mauricio Llovera;0%;98%;Groundout: SS-1B; Kirk Scores; Kiermaier to 3B; DeJong to 2B
+t5;8-1;1;-23;4,(3-0) BBBB;;TOR;Brandon Belt;Mauricio Llovera;0%;98%;Walk
+t5;8-1;1;123;2,(0-1) TH;R;TOR;Davis Schneider;Mauricio Llovera;1%;99%;Hit By Pitch; Kiermaier Scores; DeJong to 3B; Belt to 2B
+t5;9-1;1;123;6,(3-2) BCFB.BX;RO;TOR;George Springer;Mauricio Llovera;0%;99%;Lineout: LF/Sacrifice Fly (LF Line); DeJong Scores
+t5;10-1;2;12-;6,(2-2) CBFBFX;R;TOR;Matt Chapman;Mauricio Llovera;0%;100%;Single to RF (Line Drive to CF-RF); Belt Scores; Schneider to 3B
+;;;;;;;;;Richard Bleier replaces Mauricio Llovera pitching
+t5;11-1;2;1-3;3,(1-1) .CBX;O;TOR;Cavan Biggio;Richard Bleier;0%;99%;Lineout: P
+;;;;;;;;;5 runs, 3 hits, 0 errors, 2 LOB. Blue Jays 11, Red Sox 1.
+Bottom of the 5th, Red Sox Batting, Behind 1-11, Blue Jays' Chris Bassitt facing 2-3-4 
+b5;1-11;0;---;1,(0-0) X;;BOS;Masataka Yoshida;Chris Bassitt;0%;99%;Double to CF (Fly Ball to Deep CF)
+;;;;;;;;;Connor Wong pinch hits for Justin Turner (DH) batting 3rd
+b5;1-11;0;-2-;2,(0-1) .CX;O;BOS;Connor Wong;Chris Bassitt;0%;99%;Flyball: LF (Short LF-CF)
+;;;;;;;;;Yu Chang pinch hits for Rafael Devers (3B) batting 4th
+b5;1-11;1;-2-;2,(1-0) .BX;O;BOS;Yu Chang;Chris Bassitt;0%;100%;Groundout: 2B-1B (2B-1B); Yoshida to 3B
+b5;1-11;2;--3;3,(0-2) SF.X;O;BOS;Triston Casas;Chris Bassitt;0%;100%;Groundout: P-1B (P's Left)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 11, Red Sox 1.
+Top of the 6th, Blue Jays Batting, Ahead 11-1, Red Sox' Richard Bleier facing 7-8-9 
+;;;;;;;;;Pablo Reyes moves from SS to 2B Luis Urías moves from 2B to 3B Yu Chang moves from PH to SS 
+t6;11-1;0;---;2,(0-1) .....CX;O;TOR;Alejandro Kirk;Richard Bleier;0%;100%;Popfly: 1B (2B-1B)
+t6;11-1;1;---;4,(1-2) SFBS;O;TOR;Kevin Kiermaier;Richard Bleier;0%;100%;Strikeout Swinging
+t6;11-1;2;---;2,(0-1) SX;O;TOR;Paul DeJong;Richard Bleier;0%;100%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 11, Red Sox 1.
+Bottom of the 6th, Red Sox Batting, Behind 1-11, Blue Jays' Chris Bassitt facing 6-7-8 
+b6;1-11;0;---;2,(0-1) CX;;BOS;Alex Verdugo;Chris Bassitt;0%;100%;Single to RF (Line Drive to CF-RF)
+b6;1-11;0;1--;2,(0-1) FX;O;BOS;Luis Urías;Chris Bassitt;0%;100%;Flyball: CF (Deep CF)
+;;;;;;;;;Daulton Varsho replaces Kevin Kiermaier playing CF batting 8th
+b6;1-11;1;1--;4,(1-2) .CFBS;O;BOS;Reese McGuire;Chris Bassitt;0%;100%;Strikeout Swinging
+b6;1-11;2;1--;4,(1-2) CCBS;O;BOS;Pablo Reyes;Chris Bassitt;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 11, Red Sox 1.
+Top of the 7th, Blue Jays Batting, Ahead 11-1, Red Sox' Richard Bleier facing 1-2-3 
+t7;11-1;0;---;2,(0-1) CX;O;TOR;Whit Merrifield;Richard Bleier;0%;100%;Groundout: 1B unassisted
+t7;11-1;1;---;3,(2-0) BBX;;TOR;Brandon Belt;Richard Bleier;0%;100%;Double to LF (Fly Ball to LF-CF)
+t7;11-1;1;-2-;5,(2-2) FBFBX;R;TOR;Davis Schneider;Richard Bleier;0%;100%;Single to LF (Line Drive to Deep LF Line); Belt Scores
+t7;12-1;1;1--;5,(2-2) SBBSX;OO;TOR;George Springer;Richard Bleier;0%;100%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Blue Jays 12, Red Sox 1.
+Bottom of the 7th, Red Sox Batting, Behind 1-12, Blue Jays' Chris Bassitt facing 1-2-3 
+;;;;;;;;;Santiago Espinal replaces Matt Chapman playing 3B batting 5th
+b7;1-12;0;---;5,(2-2) .FS.BBX;O;BOS;Jarren Duran;Chris Bassitt;0%;100%;Flyball: LF (Deep LF)
+b7;1-12;1;---;2,(1-0) BX;O;BOS;Masataka Yoshida;Chris Bassitt;0%;100%;Flyball: CF (Deep CF)
+b7;1-12;2;---;2,(1-0) BX;O;BOS;Connor Wong;Chris Bassitt;0%;100%;Groundout: 1B unassisted (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 12, Red Sox 1.
+Top of the 8th, Blue Jays Batting, Ahead 12-1, Red Sox' Nick Robertson facing 5-6-7 
+;;;;;;;;;Nick Robertson replaces Richard Bleier pitching
+t8;12-1;0;---;1,(0-0) .X;O;TOR;Santiago Espinal;Nick Robertson;0%;100%;Groundout: 3B-1B (Weak 3B)
+t8;12-1;1;---;3,(0-2) CCX;O;TOR;Cavan Biggio;Nick Robertson;0%;100%;Groundout: 2B-1B (2B-1B)
+t8;12-1;2;---;6,(3-2) .BBCSB*B;;TOR;Alejandro Kirk;Nick Robertson;0%;100%;Walk
+t8;12-1;2;1--;8,(3-2) FBCB*B>F>F>X;R;TOR;Daulton Varsho;Nick Robertson;0%;100%;Triple to RF (Fly Ball to Deep CF-RF); Kirk Scores
+t8;13-1;2;--3;4,(1-2) FFBS;O;TOR;Paul DeJong;Nick Robertson;0%;100%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Blue Jays 13, Red Sox 1.
+Bottom of the 8th, Red Sox Batting, Behind 1-13, Blue Jays' Bowden Francis facing 4-5-6 
+;;;;;;;;;Bowden Francis replaces Chris Bassitt pitching
+b8;1-13;0;---;2,(0-1) .CX;O;BOS;Yu Chang;Bowden Francis;0%;100%;Lineout: CF (CF-RF)
+b8;1-13;1;---;4,(1-2) CF.BS;O;BOS;Triston Casas;Bowden Francis;0%;100%;Strikeout Swinging
+b8;1-13;2;---;3,(1-1) CBX;;BOS;Alex Verdugo;Bowden Francis;0%;100%;Single to SS (Ground Ball)
+b8;1-13;2;1--;2,(1-0) *BB;;BOS;Luis Urías;Bowden Francis;0%;100%;Wild Pitch; Verdugo to 2B
+b8;1-13;2;-2-;5,(3-1) *BB.BCX;O;BOS;Luis Urías;Bowden Francis;0%;100%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 13, Red Sox 1.
+Top of the 9th, Blue Jays Batting, Ahead 13-1, Red Sox' Pablo Reyes facing 1-2-3 
+;;;;;;;;;Pablo Reyes moves from 2B to P Connor Wong moves from DH to 2B (team loses DH)
+t9;13-1;0;---;5,(2-2) ..BBCFX;O;TOR;Whit Merrifield;Pablo Reyes;0%;100%;Groundout: 2B-1B
+t9;13-1;1;---;4,(3-0) BBBB;;TOR;Brandon Belt;Pablo Reyes;0%;100%;Walk
+t9;13-1;1;1--;2,(0-1) CX;;TOR;Davis Schneider;Pablo Reyes;0%;100%;Single to CF (Line Drive to Deep CF); Belt to 2B
+t9;13-1;1;12-;4,(1-2) CSBB;;TOR;George Springer;Pablo Reyes;0%;100%;Wild Pitch; Belt to 3B; Schneider to 2B
+t9;13-1;1;-23;6,(3-2) CSBB.BX;O;TOR;George Springer;Pablo Reyes;0%;100%;Groundout: P-1B
+t9;13-1;2;-23;4,(3-0) BBBB;;TOR;Santiago Espinal;Pablo Reyes;0%;100%;Walk
+t9;13-1;2;123;2,(0-1) CX;O;TOR;Cavan Biggio;Pablo Reyes;0%;100%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Blue Jays 13, Red Sox 1.
+Bottom of the 9th, Red Sox Batting, Behind 1-13, Blue Jays' Jay Jackson facing 8-9-1 
+;;;;;;;;;Jay Jackson replaces Bowden Francis pitching
+b9;1-13;0;---;2,(1-0) .BX;O;BOS;Reese McGuire;Jay Jackson;0%;100%;Groundout: 2B-1B (2B-1B)
+b9;1-13;1;---;1,(0-0) X;O;BOS;Pablo Reyes;Jay Jackson;0%;100%;Flyball: RF (Deep CF-RF)
+b9;1-13;2;---;6,(2-2) FBBS.FS;O;BOS;Jarren Duran;Jay Jackson;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 13, Red Sox 1.

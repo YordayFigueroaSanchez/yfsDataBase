@@ -1,0 +1,278 @@
+
+Scorebox Meta
+20230520
+6:15 p.m. Local
+45177
+Busch Stadium III
+150
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;0;0;0;0;3;0;0;2;5;9;0
+https://cdn.ssref.net/req/202308101/tlogo/br/STL-2023.png;/teams/STL/2023.shtml;1;2;0;0;0;0;0;3;X;6;8;0
+
+Batting home
+Lars Nootbaar;/players/n/nootbla01.shtml;CF;3;0;0;1;0;1;4;.267;.390;.383;.774;15;8;-0.099; 1.05;0.018;-0.117;-0.03%; 0.56; -0.7;3;0;SF
+Paul Goldschmidt;/players/g/goldspa01.shtml;1B;3;2;1;0;1;1;4;.301;.409;.511;.920;9;8;0.032; 0.89;0.043;-0.011; 0.01%; 0.47; 0.3;7;1;IW
+Nolan Gorman;/players/g/gormano01.shtml;DH;3;1;2;3;1;0;4;.302;.391;.640;1.032;13;7;0.371; 1.62;0.382;-0.012; 0.12%; 0.86; 2.9;;;HR
+Nolan Arenado;/players/a/arenano01.shtml;3B;4;0;2;0;0;1;4;.268;.313;.448;.761;15;10;-0.158; 0.99;0.016;-0.173;-0.05%; 0.53; -1.2;0;2;CS,GDP
+Willson Contreras;/players/c/contrwi01.shtml;C;4;0;1;1;0;0;4;.244;.328;.409;.736;18;16;0.084; 0.84;0.111;-0.027; 0.03%; 0.44; 0.6;6;0;SB
+Brendan Donovan;/players/d/donovbr01.shtml;RF-LF;4;0;0;0;0;2;4;.241;.315;.331;.646;17;12;-0.104; 0.94;0.000;-0.104;-0.03%; 0.50; -1.3;3;0;
+Paul DeJong;/players/d/dejonpa01.shtml;SS;2;1;0;0;0;2;3;.267;.345;.547;.892;16;10;0.016; 0.88;0.053;-0.037; 0.01%; 0.47; 0.3;1;2;SB,HBP
+Alec Burleson;/players/b/burleal01.shtml;LF;2;1;1;1;0;0;2;.231;.279;.394;.674;7;4;0.075; 0.62;0.080;-0.006; 0.02%; 0.33; 0.9;2;0;2B
+Juan Yepez;/players/y/yepezju01.shtml;PH;1;0;0;0;0;0;1;.241;.267;.448;.715;1;1;-0.021; 0.82;0.000;-0.021;-0.01%; 0.44; -0.1;;;
+Óscar Mercado;/players/m/mercaos01.shtml;RF;0;0;0;0;0;0;0;.429;.429;.571;1.000;;;;;;;;;;0;0;
+Tommy Edman;/players/e/edmanto01.shtml;2B;3;1;1;0;0;0;3;.273;.329;.468;.797;8;6;0.114; 1.01;0.132;-0.018; 0.04%; 0.54; 0.2;4;3;2B
+Miles Mikolas;/players/m/mikolmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Ryan Helsley;/players/h/helslry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Giovanny Gallegos;/players/g/gallegi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Alec Burleson (6, off Noah Syndergaard); Tommy Edman (7, off Victor González).
+
+
+HR: Nolan Gorman (13, off Victor González, 8th inn, 2 on, 1 out to Deep RF).
+
+
+SF: Lars Nootbaar (1, off Noah Syndergaard).
+
+
+IBB: Paul Goldschmidt (2, by Victor González).
+
+
+HBP: Paul DeJong (2, by Noah Syndergaard).
+
+
+TB: Nolan Gorman 5; Tommy Edman 2; Alec Burleson 2; Nolan Arenado 2; Willson Contreras; Paul Goldschmidt.
+
+
+GIDP: Nolan Arenado (8).
+
+
+RBI: Nolan Gorman 3 (39); Willson Contreras (25); Alec Burleson (11); Lars Nootbaar (15).
+
+
+2-out RBI: Willson Contreras.
+
+
+Team LOB: 3.
+With RISP: 3 for 7.
+
+Batting away
+Mookie Betts;/players/b/bettsmo01.shtml;RF;5;1;1;0;0;1;5;.250;.356;.512;.868;16;9;-0.165; 1.70;0.041;-0.207;-0.12%; 2.09; -0.7;1;0;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;3;1;2;0;0;0;4;.323;.394;.554;.948;16;10;0.170; 1.07;0.186;-0.016; 0.12%; 1.31; 1.5;7;1;2B,HBP
+J.D. Martinez;/players/m/martijd02.shtml;DH;4;1;1;3;0;1;4;.240;.293;.512;.806;18;12;0.118; 1.59;0.221;-0.103; 0.09%; 1.96; 0.9;;;HR
+Max Muncy;/players/m/muncyma01.shtml;3B;4;0;0;0;0;1;4;.213;.360;.546;.906;22;16;-0.139; 1.27;0.000;-0.139;-0.10%; 1.56; -1.1;0;0;
+Miguel Vargas;/players/v/vargami01.shtml;2B;4;1;1;0;0;0;4;.240;.341;.432;.773;10;7;-0.021; 0.84;0.045;-0.066;-0.01%; 1.03; 0.0;2;3;2B
+David Peralta;/players/p/peralda01.shtml;LF;4;1;2;0;0;1;4;.216;.257;.324;.580;18;10;0.102; 0.80;0.131;-0.029; 0.07%; 0.98; 0.9;1;0;2B
+Jason Heyward;/players/h/heywaja01.shtml;CF;4;0;2;1;0;0;4;.207;.320;.427;.746;10;7;0.181; 1.68;0.243;-0.061; 0.13%; 2.06; 1.2;4;0;2B
+Chris Taylor;/players/t/tayloch03.shtml;SS;3;0;0;0;0;1;3;.185;.246;.444;.690;14;9;-0.110; 1.24;0.000;-0.110;-0.08%; 1.52; -1.0;1;4;
+James Outman;/players/o/outmaja01.shtml;PH;1;0;0;0;0;0;1;.261;.351;.529;.880;6;3;-0.127; 4.12;0.000;-0.127;-0.09%; 5.05; -0.6;;;
+Austin Barnes;/players/b/barneau01.shtml;C;3;0;0;0;0;0;3;.094;.192;.109;.301;8;7;-0.078; 0.95;0.000;-0.078;-0.06%; 1.16; -0.7;7;0;
+Will Smith;/players/s/smithwi05.shtml;PH;0;0;0;1;0;0;1;.314;.403;.571;.975;6;3;-0.124; 3.94;0.000;-0.124;-0.09%; 4.83; -0.1;;;SF
+Noah Syndergaard;/players/s/syndeno01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Yency Almonte;/players/a/almonye01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Justin Bruihl;/players/b/bruihju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Victor González;/players/g/gonzavi02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tyler Cyr;/players/c/cyrty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Freddie Freeman (17, off Miles Mikolas); David Peralta (5, off Miles Mikolas); Miguel Vargas (12, off Ryan Helsley); Jason Heyward (6, off Ryan Helsley).
+
+
+HR: J.D. Martinez (6, off Miles Mikolas, 6th inn, 2 on, 0 outs to Deep LF-CF).
+
+
+SF: Will Smith (5, off Giovanny Gallegos).
+
+
+HBP: Freddie Freeman (2, by Ryan Helsley).
+
+
+TB: J.D. Martinez 4; Freddie Freeman 3; Jason Heyward 3; David Peralta 3; Miguel Vargas 2; Mookie Betts.
+
+
+RBI: J.D. Martinez 3 (24); Will Smith (24); Jason Heyward (9).
+
+
+Team LOB: 5.
+With RISP: 4 for 10.
+
+Pitching home
+Miles Mikolas;/players/m/mikolmi01.shtml;Miles Mikolas; 7 ;6;3;3;0;2;1;4.77;27;100;69;45;6;18;11;14;4;0;55;;;0.047; 1.01; 0.01%; 0.54; 0.6
+Ryan Helsley;/players/h/helslry01.shtml; W (2-2); 1 ;3;2;2;0;2;0;3.38;7;26;15;7;4;4;3;1;1;0;;0;0;-0.220; 1.84;-0.07%; 0.98; -2.0
+Giovanny Gallegos;/players/g/gallegi01.shtml; S (4); 1 ;0;0;0;0;1;0;2.08;3;18;9;4;2;3;0;2;1;0;;2;1;0.364; 4.00; 0.12%; 2.14; 1.0
+
+Pitching away
+Noah Syndergaard;/players/s/syndeno01.shtml;Noah Syndergaard; 5 ;4;3;3;1;4;0;5.88;20;80;53;35;5;13;5;9;7;0;50;;;-0.119; 0.78;-0.09%; 0.95; -0.4
+Yency Almonte;/players/a/almonye01.shtml;Yency Almonte; 1 ;1;0;0;0;0;0;8.53;3;9;7;5;0;2;2;1;1;0;;0;0;0.076; 1.35; 0.06%; 1.65; 0.5
+Justin Bruihl;/players/b/bruihju01.shtml;Justin Bruihl; 1 ;0;0;0;0;1;0;2.31;3;7;6;4;2;0;1;1;0;0;;0;0;0.089; 1.16; 0.07%; 1.42; 0.5
+Victor González;/players/g/gonzavi02.shtml; L (1-1); 0.1;2;3;3;1;1;1;2.31;4;9;7;3;2;2;0;2;1;0;;0;0;-0.360; 2.48;-0.27%; 3.04; -2.8
+Tyler Cyr;/players/c/cyrty01.shtml;Tyler Cyr; 0.2;1;0;0;0;1;0;0.00;3;14;9;7;1;1;2;0;0;0;;0;0;0.004; 0.11; 0.00%; 0.14; 0.3
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Ryan Helsley (1; Freddie Freeman); Noah Syndergaard (4; Paul DeJong).
+IBB: Victor González (1; Paul Goldschmidt).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Ryan Helsley (1; Freddie Freeman); Noah Syndergaard (4; Paul DeJong).
+IBB: Victor González (1; Paul Goldschmidt).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Paul Emmel, 1B - Nic Lentz, 2B - Jeremie Rehak, 3B - Chad Fairchild, LF - (none), RF - (none).
+Time of Game: 2:30.
+Attendance: 45,177.
+Field Condition: Unknown.
+Start Time Weather: 72° F, Wind 9mph in from Leftfield, Sunny, No Precipitation.
+
+div_lineups
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;RF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;J.D. Martinez;/players/m/martijd02.shtml;DH
+4;Max Muncy;/players/m/muncyma01.shtml;3B
+5;Miguel Vargas;/players/v/vargami01.shtml;2B
+6;David Peralta;/players/p/peralda01.shtml;LF
+7;Jason Heyward;/players/h/heywaja01.shtml;CF
+8;Chris Taylor;/players/t/tayloch03.shtml;SS
+9;Austin Barnes;/players/b/barneau01.shtml;C
+; Noah Syndergaard;/players/s/syndeno01.shtml;P
+Cardinals
+1;Lars Nootbaar;/players/n/nootbla01.shtml;CF
+2;Paul Goldschmidt;/players/g/goldspa01.shtml;1B
+3;Nolan Gorman;/players/g/gormano01.shtml;DH
+4;Nolan Arenado;/players/a/arenano01.shtml;3B
+5;Willson Contreras;/players/c/contrwi01.shtml;C
+6;Brendan Donovan;/players/d/donovbr01.shtml;RF
+7;Paul DeJong;/players/d/dejonpa01.shtml;SS
+8;Alec Burleson;/players/b/burleal01.shtml;LF
+9;Tommy Edman;/players/e/edmanto01.shtml;2B
+; Miles Mikolas;/players/m/mikolmi01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b8;3-3;1;12-;3,(1-1) BCX;RRR;STL;Nolan Gorman;Victor González;30%;97%;Home Run (Fly Ball to Deep RF); Edman Scores; Goldschmidt Scores
+t6;0-3;0;1-3;6,(3-2) BFFB*BX;RRR;LAD;J.D. Martinez;Miles Mikolas;-22%;50%;Home Run (Fly Ball to Deep LF-CF); Betts Scores; Freeman Scores
+t9;3-6;0;1-3;3,(1-1) BCX;R;LAD;Jason Heyward;Ryan Helsley;-19%;64%;Double to RF (Line Drive to Deep CF-RF); Vargas Scores; Peralta to 3B
+b8;3-3;0;---;3,(1-1) .BSX;;STL;Tommy Edman;Victor González;13%;74%;Double to LF (Line Drive to Deep LF Line)
+t9;4-6;0;-23;6,(3-2) ..SBBS*BX;O;LAD;James Outman;Giovanny Gallegos;13%;76%;Lineout: 2B (Deep 2B)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Dodgers Batting, Tied 0-0, Cardinals' Miles Mikolas facing 1-2-3 
+t1;0-0;0;---;5,(2-2) CCBBX;O;LAD;Mookie Betts;Miles Mikolas;2%;52%;Flyball: LF (Deep LF Line)
+t1;0-0;1;---;5,(2-2) BFFBX;O;LAD;Freddie Freeman;Miles Mikolas;2%;54%;Flyball: RF (Deep RF)
+t1;0-0;2;---;4,(1-2) CBSX;O;LAD;J.D. Martinez;Miles Mikolas;1%;55%;Lineout: SS
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Cardinals 0.
+Bottom of the 1st, Cardinals Batting, Tied 0-0, Dodgers' Noah Syndergaard facing 1-2-3 
+b1;0-0;0;---;5,(3-1) BCBBX;O;STL;Lars Nootbaar;Noah Syndergaard;-2%;53%;Lineout: CF (Deep LF-CF)
+b1;0-0;1;---;2,(0-1) SX;;STL;Paul Goldschmidt;Noah Syndergaard;2%;55%;Single to RF (Ground Ball thru 2B-1B)
+b1;0-0;1;1--;4,(3-0) BBBB;;STL;Nolan Gorman;Noah Syndergaard;3%;59%;Walk; Goldschmidt to 2B
+b1;0-0;1;12-;4,(0-2) FCFS;O;STL;Nolan Arenado;Noah Syndergaard;-4%;54%;Strikeout Swinging
+b1;0-0;2;12-;6,(1-2) BFFFFX;R;STL;Willson Contreras;Noah Syndergaard;10%;65%;Single to RF (Line Drive to CF-RF); Goldschmidt Scores; Gorman to 3B
+b1;1-0;2;1-3;2,(0-1) C>C;;STL;Brendan Donovan;Noah Syndergaard;1%;65%;Contreras Steals 2B
+b1;1-0;2;-23;4,(1-2) C>C.*BT;O;STL;Brendan Donovan;Noah Syndergaard;-5%;60%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Dodgers 0, Cardinals 1.
+Top of the 2nd, Dodgers Batting, Behind 0-1, Cardinals' Miles Mikolas facing 4-5-6 
+t2;0-1;0;---;2,(0-1) CX;O;LAD;Max Muncy;Miles Mikolas;2%;63%;Groundout: 1B-P
+t2;0-1;1;---;2,(0-1) CX;O;LAD;Miguel Vargas;Miles Mikolas;2%;64%;Flyball: RF
+t2;0-1;2;---;6,(2-2) BCCBFS;O;LAD;David Peralta;Miles Mikolas;1%;66%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Cardinals 1.
+Bottom of the 2nd, Cardinals Batting, Ahead 1-0, Dodgers' Noah Syndergaard facing 7-8-9 
+b2;1-0;0;---;7,(3-2) CBSFBBH;;STL;Paul DeJong;Noah Syndergaard;3%;69%;Hit By Pitch
+b2;1-0;0;1--;2,(1-0) B>C;;STL;Alec Burleson;Noah Syndergaard;2%;71%;DeJong Steals 2B
+b2;1-0;0;-2-;6,(3-2) B>C.BBFX;R;STL;Alec Burleson;Noah Syndergaard;8%;79%;Double to LF (Line Drive to Deep LF-CF); DeJong Scores
+b2;2-0;0;-2-;4,(1-2) FBF>X;O;STL;Tommy Edman;Noah Syndergaard;-1%;78%;Groundout: 2B-1B (2B-1B); Burleson to 3B
+;;;;;;;;;Force Play Challenged by LAD manager (Dave Roberts): Original call overturned as shown.
+b2;2-0;1;--3;4,(3-0) B*BBX;RO;STL;Lars Nootbaar;Noah Syndergaard;2%;80%;Flyball: CF/Sacrifice Fly (Deep LF-CF); Burleson Scores
+b2;3-0;2;---;3,(0-2) CCX;O;STL;Paul Goldschmidt;Noah Syndergaard;-1%;79%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Dodgers 0, Cardinals 3.
+Top of the 3rd, Dodgers Batting, Behind 0-3, Cardinals' Miles Mikolas facing 7-8-9 
+t3;0-3;0;---;4,(2-1) CBBX;O;LAD;Jason Heyward;Miles Mikolas;2%;81%;Foul Popfly: C (Behind Home)
+t3;0-3;1;---;7,(3-2) .FSFBBBS;O;LAD;Chris Taylor;Miles Mikolas;1%;83%;Strikeout Swinging
+t3;0-3;2;---;4,(0-2) CCFX;O;LAD;Austin Barnes;Miles Mikolas;1%;84%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Cardinals 3.
+Bottom of the 3rd, Cardinals Batting, Ahead 3-0, Dodgers' Noah Syndergaard facing 3-4-5 
+b3;3-0;0;---;4,(1-2) SSBX;O;STL;Nolan Gorman;Noah Syndergaard;-1%;83%;Groundout: SS-1B (SS-2B)
+b3;3-0;1;---;2,(1-0) BX;;STL;Nolan Arenado;Noah Syndergaard;1%;84%;Single to LF (Line Drive)
+b3;3-0;1;1--;1,(0-1) FN;O;STL;Willson Contreras;Noah Syndergaard;-2%;82%;Arenado Caught Stealing 2B (P-2B)
+b3;3-0;2;---;6,(1-2) FN.CBFFX;O;STL;Willson Contreras;Noah Syndergaard;-1%;81%;Groundout: 2B-1B (Weak SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Dodgers 0, Cardinals 3.
+Top of the 4th, Dodgers Batting, Behind 0-3, Cardinals' Miles Mikolas facing 1-2-3 
+t4;0-3;0;---;2,(1-0) BX;O;LAD;Mookie Betts;Miles Mikolas;2%;83%;Flyball: LF (Deep LF Line)
+t4;0-3;1;---;4,(1-2) FFBX;;LAD;Freddie Freeman;Miles Mikolas;-4%;80%;Double to CF (Ground Ball)
+t4;0-3;1;-2-;4,(1-2) CFBX;O;LAD;J.D. Martinez;Miles Mikolas;3%;83%;Groundout: SS-1B (SS-3B Hole)
+t4;0-3;2;-2-;6,(2-2) BBCSFX;O;LAD;Max Muncy;Miles Mikolas;3%;86%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 0, Cardinals 3.
+Bottom of the 4th, Cardinals Batting, Ahead 3-0, Dodgers' Noah Syndergaard facing 6-7-8 
+b4;3-0;0;---;6,(1-2) FF.FBFX;O;STL;Brendan Donovan;Noah Syndergaard;-1%;85%;Lineout: SS (Deep SS-2B)
+b4;3-0;1;---;4,(1-2) FBCC;O;STL;Paul DeJong;Noah Syndergaard;-1%;84%;Strikeout Looking
+b4;3-0;2;---;1,(0-0) X;O;STL;Alec Burleson;Noah Syndergaard;-1%;83%;Lineout: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Cardinals 3.
+Top of the 5th, Dodgers Batting, Behind 0-3, Cardinals' Miles Mikolas facing 5-6-7 
+t5;0-3;0;---;2,(1-0) BX;O;LAD;Miguel Vargas;Miles Mikolas;2%;86%;Flyball: CF (Deep CF)
+t5;0-3;1;---;2,(1-0) BX;;LAD;David Peralta;Miles Mikolas;-4%;82%;Double to RF (Line Drive to Deep CF-RF)
+t5;0-3;1;-2-;1,(0-0) X;;LAD;Jason Heyward;Miles Mikolas;-5%;77%;Single to P (Ground Ball to SS-2B); Peralta to 3B
+t5;0-3;1;1-3;1,(0-0) X;O;LAD;Chris Taylor;Miles Mikolas;7%;84%;Flyball: 2B (Deep 1B)
+t5;0-3;2;1-3;1,(0-0) X;O;LAD;Austin Barnes;Miles Mikolas;5%;88%;Groundout: SS-2B/Forceout at 2B; Barnes to 1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Dodgers 0, Cardinals 3.
+Bottom of the 5th, Cardinals Batting, Ahead 3-0, Dodgers' Noah Syndergaard facing 9-1-2 
+b5;3-0;0;---;1,(0-0) X;O;STL;Tommy Edman;Noah Syndergaard;-1%;87%;Lineout: LF (Deep LF-CF)
+b5;3-0;1;---;3,(1-1) CBX;O;STL;Lars Nootbaar;Noah Syndergaard;-1%;87%;Groundout: 1B-P (2B-1B)
+b5;3-0;2;---;4,(1-2) FBFC;O;STL;Paul Goldschmidt;Noah Syndergaard;-1%;86%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 0, Cardinals 3.
+Top of the 6th, Dodgers Batting, Behind 0-3, Cardinals' Miles Mikolas facing 1-2-3 
+t6;0-3;0;---;2,(1-0) BX;;LAD;Mookie Betts;Miles Mikolas;-4%;82%;Single to LF (Line Drive)
+t6;0-3;0;1--;1,(0-0) X;;LAD;Freddie Freeman;Miles Mikolas;-10%;72%;Single to CF (Ground Ball thru SS-2B); Betts to 3B
+t6;0-3;0;1-3;6,(3-2) BFFB*BX;RRR;LAD;J.D. Martinez;Miles Mikolas;-22%;50%;Home Run (Fly Ball to Deep LF-CF); Betts Scores; Freeman Scores
+t6;3-3;0;---;9,(2-2) FBCFFFFBX;O;LAD;Max Muncy;Miles Mikolas;3%;53%;Popfly: 2B (P's Left)
+t6;3-3;1;---;4,(1-2) CCBX;O;LAD;Miguel Vargas;Miles Mikolas;2%;56%;Groundout: P-1B (Weak 2B-1B)
+t6;3-3;2;---;5,(2-2) FBSBX;O;LAD;David Peralta;Miles Mikolas;2%;58%;Lineout: CF (Deep LF-CF)
+;;;;;;;;;3 runs, 3 hits, 0 errors, 0 LOB. Dodgers 3, Cardinals 3.
+Bottom of the 6th, Cardinals Batting, Tied 3-3, Dodgers' Yency Almonte facing 3-4-5 
+;;;;;;;;;Yency Almonte replaces Noah Syndergaard pitching
+b6;3-3;0;---;2,(0-1) .FX;;STL;Nolan Gorman;Yency Almonte;5%;63%;Single to CF (Line Drive)
+b6;3-3;0;1--;5,(2-2) CCBB1X;OO;STL;Nolan Arenado;Yency Almonte;-11%;52%;Ground Ball Double Play: SS-2B-1B (Weak SS)
+b6;3-3;2;---;2,(0-1) FX;O;STL;Willson Contreras;Yency Almonte;-2%;50%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Dodgers 3, Cardinals 3.
+Top of the 7th, Dodgers Batting, Tied 3-3, Cardinals' Miles Mikolas facing 7-8-9 
+t7;3-3;0;---;2,(0-1) CX;O;LAD;Jason Heyward;Miles Mikolas;4%;54%;Groundout: 2B-1B
+t7;3-3;1;---;6,(2-2) CFBBFX;O;LAD;Chris Taylor;Miles Mikolas;3%;57%;Flyball: RF
+t7;3-3;2;---;3,(1-1) CBX;O;LAD;Austin Barnes;Miles Mikolas;2%;59%;Groundout: 2B-1B (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 3, Cardinals 3.
+Bottom of the 7th, Cardinals Batting, Tied 3-3, Dodgers' Justin Bruihl facing 6-7-8 
+;;;;;;;;;Justin Bruihl replaces Yency Almonte pitching
+b7;3-3;0;---;1,(0-0) .X;O;STL;Brendan Donovan;Justin Bruihl;-4%;55%;Flyball: CF (Deep CF)
+b7;3-3;1;---;5,(1-2) BSFFS;O;STL;Paul DeJong;Justin Bruihl;-3%;52%;Strikeout Swinging
+;;;;;;;;;Juan Yepez pinch hits for Alec Burleson (LF) batting 8th
+b7;3-3;2;---;1,(0-0) .X;O;STL;Juan Yepez;Justin Bruihl;-2%;50%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 3, Cardinals 3.
+Top of the 8th, Dodgers Batting, Tied 3-3, Cardinals' Ryan Helsley facing 1-2-3 
+;;;;;;;;;Ryan Helsley replaces Miles Mikolas pitchingBrendan Donovan moves from RF to LF Óscar Mercado replaces Juan Yepez (PH) playing RF batting 8th
+t8;3-3;0;---;1,(0-0) ...X;O;LAD;Mookie Betts;Ryan Helsley;5%;55%;Groundout: 2B-1B (Weak 2B)
+t8;3-3;1;---;6,(2-2) BBCSFH;;LAD;Freddie Freeman;Ryan Helsley;-5%;50%;Hit By Pitch
+t8;3-3;1;1--;4,(1-2) F*BSS;O;LAD;J.D. Martinez;Ryan Helsley;6%;56%;Strikeout Swinging
+t8;3-3;2;1--;5,(2-2) BCBSC;O;LAD;Max Muncy;Ryan Helsley;5%;61%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Dodgers 3, Cardinals 3.
+Bottom of the 8th, Cardinals Batting, Tied 3-3, Dodgers' Victor González facing 9-1-2 
+;;;;;;;;;Victor González replaces Justin Bruihl pitching
+b8;3-3;0;---;3,(1-1) .BSX;;STL;Tommy Edman;Victor González;13%;74%;Double to LF (Line Drive to Deep LF Line)
+b8;3-3;0;-2-;3,(0-2) CFS;O;STL;Lars Nootbaar;Victor González;-9%;65%;Strikeout Swinging
+b8;3-3;1;-2-;,(3-0) VVVV;;STL;Paul Goldschmidt;Victor González;2%;67%;Intentional Walk
+b8;3-3;1;12-;3,(1-1) BCX;RRR;STL;Nolan Gorman;Victor González;30%;97%;Home Run (Fly Ball to Deep RF); Edman Scores; Goldschmidt Scores
+;;;;;;;;;Tyler Cyr replaces Victor González pitching
+b8;6-3;1;---;4,(2-1) .BBFX;;STL;Nolan Arenado;Tyler Cyr;0%;97%;Single to LF (Ground Ball thru SS-3B Hole)
+b8;6-3;1;1--;4,(0-2) SFFX;O;STL;Willson Contreras;Tyler Cyr;0%;97%;Groundout: 1B unassisted (Weak 1B)
+b8;6-3;2;1--;6,(3-2) BBFFB>C;O;STL;Brendan Donovan;Tyler Cyr;0%;97%;Strikeout Looking
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Dodgers 3, Cardinals 6.
+Top of the 9th, Dodgers Batting, Behind 3-6, Cardinals' Ryan Helsley facing 5-6-7 
+t9;3-6;0;---;2,(1-0) BX;;LAD;Miguel Vargas;Ryan Helsley;-4%;92%;Double to LF (Ground Ball thru SS-3B Hole)
+t9;3-6;0;-2-;5,(3-1) *BBFBX;;LAD;David Peralta;Ryan Helsley;-9%;83%;Single to RF (Ground Ball); Vargas to 3B
+t9;3-6;0;1-3;3,(1-1) BCX;R;LAD;Jason Heyward;Ryan Helsley;-19%;64%;Double to RF (Line Drive to Deep CF-RF); Vargas Scores; Peralta to 3B
+;;;;;;;;;Giovanny Gallegos replaces Ryan Helsley pitchingJames Outman pinch hits for Chris Taylor (SS) batting 8th
+t9;4-6;0;-23;6,(3-2) ..SBBS*BX;O;LAD;James Outman;Giovanny Gallegos;13%;76%;Lineout: 2B (Deep 2B)
+;;;;;;;;;Will Smith pinch hits for Austin Barnes (C) batting 9th
+t9;4-6;1;-23;6,(3-2) .CB*BBCX;RO;LAD;Will Smith;Giovanny Gallegos;12%;89%;Flyball: CF/Sacrifice Fly; Peralta Scores
+t9;5-6;2;-2-;6,(3-2) FF*BBBC;O;LAD;Mookie Betts;Giovanny Gallegos;11%;100%;Strikeout Looking
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Dodgers 5, Cardinals 6.

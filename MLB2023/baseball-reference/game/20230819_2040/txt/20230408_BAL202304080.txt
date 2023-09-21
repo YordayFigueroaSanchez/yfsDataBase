@@ -1,0 +1,266 @@
+
+Scorebox Meta
+20230408
+7:05 p.m. Local
+30561
+Oriole Park at Camden Yards
+167
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;0;0;1;3;0;0;0;0;4;7;1
+https://cdn.ssref.net/req/202308101/tlogo/br/BAL-2023.png;/teams/BAL/2023.shtml;1;0;0;0;0;0;0;0;0;1;4;0
+
+Batting home
+Cedric Mullins;/players/m/mullice01.shtml;CF;4;1;1;0;0;1;4;.212;.297;.424;.722;17;12;-0.030; 0.96;0.035;-0.065;-0.02%; 1.00; -0.2;4;0;
+Adley Rutschman;/players/r/rutscad01.shtml;C;2;0;1;0;2;1;4;.313;.421;.406;.827;19;8;0.098; 0.90;0.130;-0.032; 0.06%; 0.94; 1.0;7;1;
+Anthony Santander;/players/s/santaan02.shtml;DH;3;0;0;1;0;0;4;.182;.222;.273;.495;21;14;-0.098; 1.18;0.000;-0.098;-0.06%; 1.23; -1.0;;;SF
+Ryan Mountcastle;/players/m/mountry01.shtml;1B;4;0;0;0;0;2;4;.242;.297;.515;.812;15;9;-0.094; 0.92;0.000;-0.094;-0.06%; 0.96; -1.0;4;2;
+Gunnar Henderson;/players/h/hendegu01.shtml;SS;3;0;0;0;1;1;4;.167;.355;.333;.688;20;12;-0.004; 0.75;0.049;-0.053;-0.00%; 0.79; -0.2;1;3;SB
+Austin Hays;/players/h/haysau01.shtml;LF;3;0;0;0;0;0;3;.269;.321;.500;.821;12;8;-0.081; 1.09;0.000;-0.081;-0.05%; 1.13; -0.8;1;0;
+Kyle Stowers;/players/s/stoweky01.shtml;PH;0;0;0;0;1;0;1;.000;.333;.000;.333;4;0;0.032; 0.83;0.032;0.000; 0.02%; 0.86; 0.4;;;
+Adam Frazier;/players/f/fraziad01.shtml;2B;4;0;1;0;0;0;4;.333;.407;.583;.991;18;10;-0.062; 1.04;0.031;-0.094;-0.04%; 1.09; -0.6;4;0;
+Ramón Urías;/players/u/uriasra01.shtml;3B;4;0;1;0;0;1;4;.261;.346;.522;.868;14;9;-0.016; 0.83;0.044;-0.060;-0.01%; 0.87; -0.3;1;1;
+Terrin Vavra;/players/v/vavrate01.shtml;RF;3;0;0;0;0;2;3;.125;.222;.125;.347;16;12;-0.085; 1.14;0.000;-0.085;-0.05%; 1.19; -0.8;3;0;
+Cole Irvin;/players/i/irvinco01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Austin Voth;/players/v/vothau01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Keegan Akin;/players/a/akinke01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Mike Baumann;/players/b/baumami01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+SF: Anthony Santander (1, off Jhony Brito).
+
+
+TB: Adam Frazier; Adley Rutschman; Ramón Urías; Cedric Mullins.
+
+
+RBI: Anthony Santander (2).
+
+
+Team LOB: 7.
+With RISP: 0 for 5.
+
+Batting away
+DJ LeMahieu;/players/l/lemahdj01.shtml;3B;5;1;1;1;0;1;5;.276;.344;.552;.895;13;9;0.067; 0.78;0.117;-0.050; 0.04%; 0.79; 0.2;1;3;2B
+Aaron Judge;/players/j/judgeaa01.shtml;CF;2;0;1;1;1;1;4;.310;.400;.552;.952;24;15;0.018; 0.56;0.034;-0.016; 0.01%; 0.57; 0.2;1;0;2B,SF
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;3;1;0;0;1;0;4;.250;.387;.417;.804;21;14;-0.030; 0.82;0.047;-0.077;-0.02%; 0.84; -0.6;8;1;GDP
+Giancarlo Stanton;/players/s/stantmi03.shtml;DH;4;1;2;1;0;0;4;.286;.333;.643;.976;14;10;0.084; 0.87;0.134;-0.050; 0.05%; 0.88; 0.8;;;HR
+Gleyber Torres;/players/t/torregl01.shtml;2B;2;0;1;0;2;0;4;.417;.576;.708;1.284;27;14;0.103; 0.75;0.116;-0.013; 0.06%; 0.77; 0.9;1;3;CS
+Oswaldo Cabrera;/players/c/cabreos01.shtml;RF;4;0;0;0;0;2;4;.304;.333;.391;.725;14;13;-0.135; 1.36;0.000;-0.135;-0.08%; 1.39; -1.6;4;0;
+Aaron Hicks;/players/h/hicksaa01.shtml;LF;4;0;1;1;0;1;4;.091;.167;.091;.258;16;9;0.073; 1.19;0.126;-0.053; 0.04%; 1.21; 0.2;0;0;
+Kyle Higashioka;/players/h/higasky01.shtml;C;3;0;0;0;1;1;4;.100;.182;.400;.582;19;11;-0.107; 1.07;0.004;-0.110;-0.07%; 1.08; -0.8;8;0;
+Anthony Volpe;/players/v/volpean01.shtml;SS;4;1;1;0;0;1;4;.160;.276;.240;.516;20;17;0.088; 0.68;0.127;-0.040; 0.05%; 0.69; 0.2;3;2;3B
+Jhony Brito;/players/b/britojh01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Michael King;/players/k/kingmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Wandy Peralta;/players/p/peralwa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Clay Holmes;/players/h/holmecl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: DJ LeMahieu (3, off Cole Irvin); Aaron Judge (1, off Austin Voth).
+
+
+3B: Anthony Volpe (1, off Cole Irvin).
+
+
+HR: Giancarlo Stanton (3, off Austin Voth, 5th inn, 0 on, 2 outs to Deep LF-CF).
+
+
+SF: Aaron Judge (1, off Cole Irvin).
+
+
+TB: Giancarlo Stanton 5; Anthony Volpe 3; Aaron Judge 2; DJ LeMahieu 2; Aaron Hicks; Gleyber Torres.
+
+
+GIDP: Anthony Rizzo (1).
+
+
+RBI: Giancarlo Stanton (5); Aaron Hicks (1); DJ LeMahieu (3); Aaron Judge (5).
+
+
+2-out RBI: Aaron Hicks; Giancarlo Stanton.
+
+
+Team LOB: 6.
+With RISP: 2 for 8.
+
+Pitching home
+Cole Irvin;/players/i/irvinco01.shtml; L (0-2); 4.2;4;3;3;4;5;0;9.35;21;101;65;47;7;11;3;9;3;0;45;;;-0.138; 1.38;-0.09%; 1.44; -0.6
+Austin Voth;/players/v/vothau01.shtml;Austin Voth; 2 ;2;1;1;0;1;1;10.38;8;28;21;13;3;5;2;5;2;0;;0;0;-0.059; 0.29;-0.04%; 0.30; -0.2
+Keegan Akin;/players/a/akinke01.shtml;Keegan Akin; 1.1;1;0;0;0;0;0;4.91;4;17;12;9;0;3;1;3;1;0;;1;0;0.029; 0.30; 0.02%; 0.32; 0.8
+Mike Baumann;/players/b/baumami01.shtml;Mike Baumann; 1 ;0;0;0;1;1;0;2.45;4;22;15;10;2;3;1;1;0;0;;0;0;0.008; 0.14; 0.01%; 0.14; 0.5
+
+Pitching away
+Jhony Brito;/players/b/britojh01.shtml; W (2-0); 5 ;3;1;1;2;2;0;0.90;20;92;56;34;6;16;10;6;2;0;57;;;0.142; 1.00; 0.09%; 1.02; 1.5
+Michael King;/players/k/kingmi01.shtml; H (1); 2 ;1;0;0;0;3;0;3.60;7;32;21;11;3;7;0;4;2;0;;0;0;0.108; 0.87; 0.07%; 0.89; 1.0
+Wandy Peralta;/players/p/peralwa01.shtml; H (2); 1 ;0;0;0;1;2;0;0.00;4;18;10;5;4;1;1;0;0;0;;0;0;0.050; 0.99; 0.03%; 1.00; 0.5
+Clay Holmes;/players/h/holmecl01.shtml; S (2); 1 ;0;0;0;1;1;0;4.91;4;14;7;3;1;3;1;1;1;0;;0;0;0.040; 0.86; 0.03%; 0.88; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Clay Holmes (1); Cole Irvin (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Clay Holmes (1); Cole Irvin (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Roberto Ortiz, 1B - Bill Miller, 2B - Rob Drake, 3B - Chad Whitson, LF - (none), RF - (none).
+Time of Game: 2:47.
+Attendance: 30,561.
+Field Condition: Unknown.
+Start Time Weather: 51° F, Wind 7mph in from Leftfield, Overcast, No Precipitation.
+
+div_lineups
+Yankees
+1;DJ LeMahieu;/players/l/lemahdj01.shtml;3B
+2;Aaron Judge;/players/j/judgeaa01.shtml;CF
+3;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+4;Giancarlo Stanton;/players/s/stantmi03.shtml;DH
+5;Gleyber Torres;/players/t/torregl01.shtml;2B
+6;Oswaldo Cabrera;/players/c/cabreos01.shtml;RF
+7;Aaron Hicks;/players/h/hicksaa01.shtml;LF
+8;Kyle Higashioka;/players/h/higasky01.shtml;C
+9;Anthony Volpe;/players/v/volpean01.shtml;SS
+; Jhony Brito;/players/b/britojh01.shtml;P
+Orioles
+1;Cedric Mullins;/players/m/mullice01.shtml;CF
+2;Adley Rutschman;/players/r/rutscad01.shtml;C
+3;Anthony Santander;/players/s/santaan02.shtml;DH
+4;Ryan Mountcastle;/players/m/mountry01.shtml;1B
+5;Gunnar Henderson;/players/h/hendegu01.shtml;SS
+6;Austin Hays;/players/h/haysau01.shtml;LF
+7;Adam Frazier;/players/f/fraziad01.shtml;2B
+8;Ramón Urías;/players/u/uriasra01.shtml;3B
+9;Terrin Vavra;/players/v/vavrate01.shtml;RF
+; Cole Irvin;/players/i/irvinco01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t5;1-1;0;---;4,(1-2) FFBX;;NYY;Anthony Volpe;Cole Irvin;13%;63%;Triple to CF (Fly Ball to Deep RF)
+t4;0-1;2;12-;3,(2-0) BBX;R;NYY;Aaron Hicks;Cole Irvin;13%;49%;Single to CF (Ground Ball thru SS-2B); Rizzo Scores; Torres to 2B
+t5;3-1;2;---;2,(1-0) .BX;R;NYY;Giancarlo Stanton;Austin Voth;9%;82%;Home Run (Line Drive to Deep LF-CF)
+b1;0-0;0;1--;5,(3-1) B1BBCX;;BAL;Adley Rutschman;Jhony Brito;-9%;33%;Single to P (Ground Ball); Mullins to 3B
+t5;1-1;0;--3;1,(0-0) X;R;NYY;DJ LeMahieu;Cole Irvin;8%;71%;Double to LF (Line Drive to LF Line); Volpe Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Yankees Batting, Tied 0-0, Orioles' Cole Irvin facing 1-2-3 
+t1;0-0;0;---;5,(2-2) BCFBS;O;NYY;DJ LeMahieu;Cole Irvin;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;8,(3-2) BBBCSF.FB;;NYY;Aaron Judge;Cole Irvin;2%;50%;Walk
+t1;0-0;1;1--;4,(0-2) CFFX;OO;NYY;Anthony Rizzo;Cole Irvin;-5%;45%;Ground Ball Double Play: 1B-SS-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Orioles 0.
+Bottom of the 1st, Orioles Batting, Tied 0-0, Yankees' Jhony Brito facing 1-2-3 
+b1;0-0;0;---;3,(0-2) CFX;;BAL;Cedric Mullins;Jhony Brito;-4%;42%;Single to LF (Line Drive)
+b1;0-0;0;1--;5,(3-1) B1BBCX;;BAL;Adley Rutschman;Jhony Brito;-9%;33%;Single to P (Ground Ball); Mullins to 3B
+b1;0-0;0;1-3;9,(3-2) BBBFS.FFFX;RO;BAL;Anthony Santander;Jhony Brito;2%;35%;Flyball: RF/Sacrifice Fly (Deep CF-RF); Mullins Scores
+b1;1-0;1;1--;2,(1-0) BX;O;BAL;Ryan Mountcastle;Jhony Brito;2%;37%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Mountcastle to 1B
+b1;1-0;2;1--;4,(1-2) CF.BX;O;BAL;Gunnar Henderson;Jhony Brito;2%;39%;Groundout: 3B-SS/Forceout at 2B (SS-3B Hole); Henderson to 1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Yankees 0, Orioles 1.
+Top of the 2nd, Yankees Batting, Behind 0-1, Orioles' Cole Irvin facing 4-5-6 
+t2;0-1;0;---;5,(1-2) BCFFX;;NYY;Giancarlo Stanton;Cole Irvin;4%;43%;Single to LF (Line Drive to Deep LF)
+t2;0-1;0;1--;5,(3-1) BBFBB;;NYY;Gleyber Torres;Cole Irvin;6%;50%;Walk; Stanton to 2B
+t2;0-1;0;12-;6,(1-2) BFFFFT;O;NYY;Oswaldo Cabrera;Cole Irvin;-6%;44%;Strikeout Swinging
+t2;0-1;1;12-;4,(1-2) FFBX;O;NYY;Aaron Hicks;Cole Irvin;-4%;39%;Flyball: RF (Deep CF-RF); Stanton to 3B
+t2;0-1;2;1-3;5,(3-1) BBBCX;O;NYY;Kyle Higashioka;Cole Irvin;-5%;34%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Yankees 0, Orioles 1.
+Bottom of the 2nd, Orioles Batting, Ahead 1-0, Yankees' Jhony Brito facing 6-7-8 
+b2;1-0;0;---;7,(3-2) BCM.BBFX;O;BAL;Austin Hays;Jhony Brito;2%;36%;Groundout: SS-1B
+b2;1-0;1;---;2,(0-1) CX;O;BAL;Adam Frazier;Jhony Brito;1%;38%;Groundout: 3B-1B (SS-3B Hole)
+b2;1-0;2;---;5,(2-2) BCCBX;O;BAL;Ramón Urías;Jhony Brito;1%;39%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Orioles 1.
+Top of the 3rd, Yankees Batting, Behind 0-1, Orioles' Cole Irvin facing 9-1-2 
+t3;0-1;0;---;3,(0-2) CFS;O;NYY;Anthony Volpe;Cole Irvin;-3%;36%;Strikeout Swinging
+t3;0-1;1;---;2,(1-0) BX;O;NYY;DJ LeMahieu;Cole Irvin;-2%;34%;Lineout: RF
+t3;0-1;2;---;6,(1-2) BFSF.FT;O;NYY;Aaron Judge;Cole Irvin;-1%;33%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Orioles 1.
+Bottom of the 3rd, Orioles Batting, Ahead 1-0, Yankees' Jhony Brito facing 9-1-2 
+b3;1-0;0;---;2,(0-1) .CX;O;BAL;Terrin Vavra;Jhony Brito;2%;35%;Flyball: CF (Deep CF)
+b3;1-0;1;---;3,(1-1) BCX;O;BAL;Cedric Mullins;Jhony Brito;1%;36%;Groundout: 2B-1B (2B-1B)
+b3;1-0;2;---;5,(3-1) BBBF.B;;BAL;Adley Rutschman;Jhony Brito;-1%;35%;Walk
+b3;1-0;2;1--;6,(2-2) BFFBFX;O;BAL;Anthony Santander;Jhony Brito;2%;37%;Popfly: 3B (Weak SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, Orioles 1.
+Top of the 4th, Yankees Batting, Behind 0-1, Orioles' Cole Irvin facing 3-4-5 
+t4;0-1;0;---;6,(3-2) BCBBFB;;NYY;Anthony Rizzo;Cole Irvin;5%;42%;Walk
+t4;0-1;0;1--;3,(1-1) BCX;O;NYY;Giancarlo Stanton;Cole Irvin;-4%;38%;Popfly: 2B
+t4;0-1;1;1--;12,(3-2) BCFBFF.FFBFFB;;NYY;Gleyber Torres;Cole Irvin;5%;42%;Walk; Rizzo to 2B
+t4;0-1;1;12-;1,(0-0) X;O;NYY;Oswaldo Cabrera;Cole Irvin;-6%;37%;Flyball: CF (Deep CF)
+t4;0-1;2;12-;3,(2-0) BBX;R;NYY;Aaron Hicks;Cole Irvin;13%;49%;Single to CF (Ground Ball thru SS-2B); Rizzo Scores; Torres to 2B
+t4;1-1;2;12-;4,(1-2) CBSS;O;NYY;Kyle Higashioka;Cole Irvin;-5%;44%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Yankees 1, Orioles 1.
+Bottom of the 4th, Orioles Batting, Tied 1-1, Yankees' Jhony Brito facing 4-5-6 
+b4;1-1;0;---;2,(0-1) CX;O;BAL;Ryan Mountcastle;Jhony Brito;3%;47%;Lineout: RF
+b4;1-1;1;---;4,(3-0) BBBB;;BAL;Gunnar Henderson;Jhony Brito;-3%;44%;Walk
+b4;1-1;1;1--;4,(1-2) S1BF1X;O;BAL;Austin Hays;Jhony Brito;3%;47%;Foul Popfly: 1B
+b4;1-1;2;1--;3,(1-1) 1BF>B;;BAL;Adam Frazier;Jhony Brito;-2%;45%;Henderson Steals 2B; Henderson to 3B/Adv on E2 (throw)
+b4;1-1;2;--3;5,(3-1) 1BF>B.BX;O;BAL;Adam Frazier;Jhony Brito;5%;50%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Yankees 1, Orioles 1.
+Top of the 5th, Yankees Batting, Tied 1-1, Orioles' Cole Irvin facing 9-1-2 
+t5;1-1;0;---;4,(1-2) FFBX;;NYY;Anthony Volpe;Cole Irvin;13%;63%;Triple to CF (Fly Ball to Deep RF)
+t5;1-1;0;--3;1,(0-0) X;R;NYY;DJ LeMahieu;Cole Irvin;8%;71%;Double to LF (Line Drive to LF Line); Volpe Scores
+t5;2-1;0;-2-;5,(2-2) BBSFB;;NYY;Aaron Judge;Cole Irvin;4%;74%;Wild Pitch; LeMahieu to 3B
+t5;2-1;0;--3;6,(3-2) BBSFB.X;RO;NYY;Aaron Judge;Cole Irvin;0%;74%;Flyball: CF/Sacrifice Fly; LeMahieu Scores
+t5;3-1;1;---;8,(2-2) CT.BFBFFX;O;NYY;Anthony Rizzo;Cole Irvin;-1%;73%;Groundout: 1B unassisted
+;;;;;;;;;Austin Voth replaces Cole Irvin pitching
+t5;3-1;2;---;2,(1-0) .BX;R;NYY;Giancarlo Stanton;Austin Voth;9%;82%;Home Run (Line Drive to Deep LF-CF)
+t5;4-1;2;---;5,(3-1) BCBBX;O;NYY;Gleyber Torres;Austin Voth;-1%;82%;Popfly: 2B (Deep 2B-1B)
+;;;;;;;;;3 runs, 3 hits, 0 errors, 0 LOB. Yankees 4, Orioles 1.
+Bottom of the 5th, Orioles Batting, Behind 1-4, Yankees' Jhony Brito facing 8-9-1 
+b5;1-4;0;---;4,(2-1) BBCX;;BAL;Ramón Urías;Jhony Brito;-4%;77%;Single to RF (Ground Ball thru 2B-1B)
+b5;1-4;0;1--;10,(3-2) BBBCS.FFFFC;O;BAL;Terrin Vavra;Jhony Brito;4%;81%;Strikeout Looking
+b5;1-4;1;1--;7,(3-2) BBCBCFX;O;BAL;Cedric Mullins;Jhony Brito;2%;84%;Groundout: P-1B (Short 1B Line); Urías to 2B
+b5;1-4;2;-2-;3,(0-2) CS.S;O;BAL;Adley Rutschman;Jhony Brito;3%;87%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 4, Orioles 1.
+Top of the 6th, Yankees Batting, Ahead 4-1, Orioles' Austin Voth facing 6-7-8 
+t6;4-1;0;---;4,(0-2) CFFS;O;NYY;Oswaldo Cabrera;Austin Voth;-1%;86%;Strikeout Swinging
+t6;4-1;1;---;4,(3-1) BBCVX;O;NYY;Aaron Hicks;Austin Voth;-1%;85%;Flyball: CF (Deep CF-RF)
+t6;4-1;2;---;4,(0-2) SS.FX;O;NYY;Kyle Higashioka;Austin Voth;-1%;84%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 4, Orioles 1.
+Bottom of the 6th, Orioles Batting, Behind 1-4, Yankees' Michael King facing 3-4-5 
+;;;;;;;;;Michael King replaces Jhony Brito pitching
+b6;1-4;0;---;3,(1-1) .CBX;O;BAL;Anthony Santander;Michael King;3%;87%;Lineout: RF (CF-RF)
+b6;1-4;1;---;6,(3-2) BBBCCS;O;BAL;Ryan Mountcastle;Michael King;2%;89%;Strikeout Swinging
+b6;1-4;2;---;9,(3-2) CBFFBFFBX;O;BAL;Gunnar Henderson;Michael King;1%;90%;Flyball: SS (Short CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 4, Orioles 1.
+Top of the 7th, Yankees Batting, Ahead 4-1, Orioles' Austin Voth facing 9-1-2 
+t7;4-1;0;---;3,(0-2) FFX;O;NYY;Anthony Volpe;Austin Voth;-1%;89%;Foul Popfly: 3B (3B into Foul Terr.)
+t7;4-1;1;---;2,(0-1) CX;O;NYY;DJ LeMahieu;Austin Voth;-1%;88%;Groundout: SS-1B
+t7;4-1;2;---;4,(1-2) CFBX;;NYY;Aaron Judge;Austin Voth;1%;89%;Double to CF (Line Drive to Deep LF-CF)
+;;;;;;;;;Keegan Akin replaces Austin Voth pitching
+t7;4-1;2;-2-;3,(1-1) .BCX;O;NYY;Anthony Rizzo;Keegan Akin;-1%;88%;Groundout: 1B-P
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 4, Orioles 1.
+Bottom of the 7th, Orioles Batting, Behind 1-4, Yankees' Michael King facing 6-7-8 
+b7;1-4;0;---;1,(0-0) X;O;BAL;Austin Hays;Michael King;3%;91%;Flyball: RF (Deep RF)
+b7;1-4;1;---;6,(3-2) BBSBCX;;BAL;Adam Frazier;Michael King;-3%;87%;Single to LF (Line Drive to LF-CF)
+b7;1-4;1;1--;3,(0-2) FFS;O;BAL;Ramón Urías;Michael King;3%;91%;Strikeout Swinging
+b7;1-4;2;1--;4,(1-2) CBFC;O;BAL;Terrin Vavra;Michael King;2%;93%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 4, Orioles 1.
+Top of the 8th, Yankees Batting, Ahead 4-1, Orioles' Keegan Akin facing 4-5-6 
+t8;4-1;0;---;4,(1-2) FFBX;O;NYY;Giancarlo Stanton;Keegan Akin;-1%;93%;Flyball: CF (Deep CF-RF)
+t8;4-1;1;---;5,(2-2) FBBCX;;NYY;Gleyber Torres;Keegan Akin;1%;93%;Single to LF (Line Drive)
+t8;4-1;1;1--;3,(0-2) FFX;O;NYY;Oswaldo Cabrera;Keegan Akin;-1%;92%;Popfly: 2B (2B-1B)
+t8;4-1;2;1--;2,(1-0) B>C;O;NYY;Aaron Hicks;Keegan Akin;-1%;92%;Torres Caught Stealing 2B (C-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Yankees 4, Orioles 1.
+Bottom of the 8th, Orioles Batting, Behind 1-4, Yankees' Wandy Peralta facing 1-2-3 
+;;;;;;;;;Wandy Peralta replaces Michael King pitching
+b8;1-4;0;---;4,(1-2) .BCFS;O;BAL;Cedric Mullins;Wandy Peralta;3%;94%;Strikeout Swinging
+b8;1-4;1;---;6,(3-2) BSBF.BB;;BAL;Adley Rutschman;Wandy Peralta;-3%;91%;Walk
+b8;1-4;1;1--;3,(1-1) BFX;O;BAL;Anthony Santander;Wandy Peralta;3%;94%;Groundout: 2B-1B (2B-1B); Rutschman to 2B
+b8;1-4;2;-2-;5,(2-2) BFBS.S;O;BAL;Ryan Mountcastle;Wandy Peralta;3%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Yankees 4, Orioles 1.
+Top of the 9th, Yankees Batting, Ahead 4-1, Orioles' Mike Baumann facing 7-8-9 
+;;;;;;;;;Mike Baumann replaces Keegan Akin pitching
+t9;4-1;0;---;3,(0-2) .FCS;O;NYY;Aaron Hicks;Mike Baumann;0%;96%;Strikeout Swinging
+t9;4-1;1;---;6,(3-2) BFBBCB;;NYY;Kyle Higashioka;Mike Baumann;0%;97%;Walk
+t9;4-1;1;1--;10,(2-2) SCFFBFFBFX;O;NYY;Anthony Volpe;Mike Baumann;0%;96%;Flyball: RF (Deep CF-RF)
+t9;4-1;2;1--;3,(1-1) FBX;O;NYY;DJ LeMahieu;Mike Baumann;0%;96%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Yankees 4, Orioles 1.
+Bottom of the 9th, Orioles Batting, Behind 1-4, Yankees' Clay Holmes facing 5-6-7 
+;;;;;;;;;Clay Holmes replaces Wandy Peralta pitching
+b9;1-4;0;---;3,(0-2) .CFC;O;BAL;Gunnar Henderson;Clay Holmes;2%;98%;Strikeout Looking
+;;;;;;;;;Kyle Stowers pinch hits for Austin Hays (LF) batting 6th
+b9;1-4;1;---;4,(3-0) .BBBB;;BAL;Kyle Stowers;Clay Holmes;-3%;96%;Walk
+b9;1-4;1;1--;2,(0-1) CB;;BAL;Adam Frazier;Clay Holmes;-1%;95%;Wild Pitch; Stowers to 2B
+b9;1-4;1;-2-;5,(2-2) CB.SBX;O;BAL;Adam Frazier;Clay Holmes;3%;98%;Lineout: SS
+b9;1-4;2;-2-;2,(1-0) .*BX;O;BAL;Ramón Urías;Clay Holmes;2%;100%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Yankees 4, Orioles 1.

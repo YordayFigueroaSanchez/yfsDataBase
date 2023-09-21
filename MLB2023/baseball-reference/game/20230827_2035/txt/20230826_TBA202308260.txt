@@ -1,0 +1,239 @@
+
+Scorebox Meta
+20230826
+4:10 p.m. Local
+22943
+Tropicana Field
+137
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;0;0;0;0;0;0;0;0;0;2;1
+https://cdn.ssref.net/req/202308251/tlogo/br/TBR-2023.png;/teams/TBR/2023.shtml;0;2;1;0;0;0;0;0;X;3;7;0
+
+Batting home
+Brandon Lowe;/players/l/lowebr01.shtml;2B;4;0;1;0;0;1;4;.222;.318;.421;.738;16;12;-0.037; 0.44;0.005;-0.042;-0.02%; 0.41; -0.6;2;1;
+Randy Arozarena;/players/a/arozara01.shtml;LF;3;1;1;0;1;1;4;.258;.366;.430;.797;20;10;-0.005; 0.35;0.020;-0.025;-0.00%; 0.33; 0.2;0;0;2B
+Josh Lowe;/players/l/lowejo01.shtml;RF;4;0;2;1;0;1;4;.281;.323;.496;.819;10;8;0.066; 0.42;0.084;-0.018; 0.04%; 0.40; 1.3;3;0;2B
+Isaac Paredes;/players/p/paredis01.shtml;3B;4;1;1;0;0;1;4;.257;.357;.509;.866;15;9;0.022; 0.49;0.045;-0.023; 0.01%; 0.47; -0.3;0;3;
+Luke Raley;/players/r/raleylu01.shtml;CF-1B;4;1;1;0;0;1;4;.256;.336;.518;.854;12;8;0.083; 0.55;0.107;-0.024; 0.05%; 0.52; 0.3;2;0;2B,SB
+Harold Ramírez;/players/r/ramirha02.shtml;DH;2;0;0;1;1;0;4;.299;.343;.436;.779;14;7;-0.008; 0.57;0.007;-0.016;-0.01%; 0.54; -0.3;;;SF
+Jonathan Aranda;/players/a/arandjo01.shtml;1B;2;0;1;1;0;1;3;.200;.276;.360;.636;14;11;0.025; 0.56;0.030;-0.005; 0.01%; 0.53; 0.4;9;0;SF
+Jose Siri;/players/s/sirijo01.shtml;PR-CF;1;0;0;0;0;1;1;.223;.265;.507;.772;4;3;-0.008; 0.33;0.000;-0.008;-0.01%; 0.31; -0.8;0;0;
+Osleivis Basabe;/players/b/basabos01.shtml;SS;3;0;0;0;0;0;3;.286;.333;.429;.762;11;7;-0.020; 0.32;0.005;-0.025;-0.01%; 0.29; -0.5;1;5;
+René Pinto;/players/p/pintore02.shtml;C;3;0;0;0;0;1;3;.237;.275;.316;.591;12;8;-0.031; 0.39;0.000;-0.031;-0.02%; 0.36; -0.8;10;1;
+Tyler Glasnow;/players/g/glasnty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Robert Stephenson;/players/s/stephro01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jason Adam;/players/a/adamja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Pete Fairbanks;/players/f/fairbpe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Luke Raley (21, off Clarke Schmidt); Randy Arozarena (14, off Clarke Schmidt); Josh Lowe (24, off Clarke Schmidt).
+
+
+SF: Harold Ramírez (5, off Clarke Schmidt); Jonathan Aranda (1, off Clarke Schmidt).
+
+
+TB: Josh Lowe 3; Luke Raley 2; Randy Arozarena 2; Brandon Lowe; Jonathan Aranda; Isaac Paredes.
+
+
+RBI: Jonathan Aranda (4); Josh Lowe (69); Harold Ramírez (49).
+
+
+2-out RBI: Josh Lowe.
+
+
+Team LOB: 7.
+With RISP: 1 for 7.
+
+Batting away
+DJ LeMahieu;/players/l/lemahdj01.shtml;1B;4;0;2;0;0;0;4;.247;.326;.391;.717;16;9;0.021; 0.88;0.065;-0.044; 0.00%; 0.04; 0.2;2;0;
+Aaron Judge;/players/j/judgeaa01.shtml;DH;4;0;0;0;0;1;4;.270;.398;.631;1.029;10;7;-0.113; 1.14;0.000;-0.113;-0.00%; 0.05; -1.1;;;
+Gleyber Torres;/players/t/torregl01.shtml;2B;3;0;0;0;1;1;4;.268;.334;.441;.775;27;14;-0.055; 0.74;0.012;-0.067;-0.00%; 0.03; -0.6;2;3;
+Giancarlo Stanton;/players/s/stantmi03.shtml;RF;4;0;0;0;0;2;4;.202;.283;.439;.723;14;11;-0.072; 0.67;0.000;-0.072;-0.00%; 0.03; -0.9;5;0;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;3B;3;0;0;0;0;1;3;.249;.313;.358;.671;12;7;-0.047; 0.62;0.000;-0.047;-0.00%; 0.03; -0.5;0;2;
+Harrison Bader;/players/b/baderha01.shtml;CF;3;0;0;0;0;1;3;.246;.284;.377;.661;12;8;-0.048; 0.62;0.000;-0.048;-0.00%; 0.03; -0.5;2;0;
+Everson Pereira;/players/p/pereiev01.shtml;LF;3;0;0;0;0;0;3;.111;.158;.167;.325;10;6;-0.049; 0.64;0.000;-0.049;-0.00%; 0.03; -0.5;2;0;
+Oswald Peraza;/players/p/perazos02.shtml;SS;3;0;0;0;0;2;3;.157;.289;.171;.461;10;9;-0.047; 0.62;0.000;-0.047;-0.00%; 0.03; -0.5;3;1;
+Ben Rortvedt;/players/r/rortvbe01.shtml;C;1;0;0;0;1;1;2;.122;.246;.265;.511;11;4;0.004; 0.80;0.028;-0.024;0%; 0.04; 0.0;6;0;
+Jake Bauers;/players/b/bauerja01.shtml;PH;1;0;0;0;0;1;1;.205;.286;.429;.714;6;3;-0.007; 0.25;0.000;-0.007;0%; 0.01; -0.1;;;
+Kyle Higashioka;/players/h/higasky01.shtml;C;0;0;0;0;0;0;0;.229;.268;.390;.658;;;;;;;;;;2;0;
+Clarke Schmidt;/players/s/schmicl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Wandy Peralta;/players/p/peralwa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Keynan Middleton;/players/m/middlke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+TB: DJ LeMahieu 2.
+
+
+Team LOB: 4.
+With RISP: 0 for 1.
+
+Pitching home
+Tyler Glasnow;/players/g/glasnty01.shtml; W (7-4); 6 ;1;0;0;2;4;0;3.12;21;85;49;24;8;17;8;7;2;0;72;;;0.291; 0.76; 0.17%; 0.71; 3.0
+Robert Stephenson;/players/s/stephro01.shtml; H (9); 1 ;0;0;0;0;2;0;3.76;3;12;8;3;5;0;1;0;0;0;;0;0;0.047; 0.61; 0.03%; 0.58; 0.5
+Jason Adam;/players/a/adamja01.shtml; H (11); 1 ;0;0;0;0;2;0;2.72;3;14;9;5;2;2;1;0;0;0;;0;0;0.043; 0.56; 0.02%; 0.53; 0.5
+Pete Fairbanks;/players/f/fairbpe01.shtml; S (17); 1 ;1;0;0;0;2;0;2.48;4;17;12;6;3;3;0;2;1;0;;0;0;0.033; 0.91; 0.02%; 0.85; 0.5
+
+Pitching away
+Clarke Schmidt;/players/s/schmicl01.shtml; L (8-8); 6.2;6;3;1;0;5;0;4.51;27;99;65;41;11;13;8;14;5;0;59;;;-0.102; 0.52;-0.00%; 0.02; 0.2
+Wandy Peralta;/players/p/peralwa01.shtml;Wandy Peralta; 0.1;0;0;0;0;1;0;3.28;1;4;4;3;1;0;0;0;0;0;;1;0;0.009; 0.32; 0.00%; 0.01; 0.3
+Keynan Middleton;/players/m/middlke01.shtml;Keynan Middleton; 1 ;1;0;0;2;2;0;3.17;6;25;14;4;8;2;1;1;1;0;;0;0;0.006; 0.22; 0.00%; 0.01; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Clarke Schmidt (8).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Clarke Schmidt (8).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Gabe Morales, 1B - Adam Beck, 2B - Dan Iassogna, 3B - Clint Vondrak, LF - (none), RF - (none).
+Time of Game: 2:17.
+Attendance: 22,943.
+Start Time Weather: 72° F, Wind 0mph, In Dome.
+
+div_lineups
+Yankees
+1;DJ LeMahieu;/players/l/lemahdj01.shtml;1B
+2;Aaron Judge;/players/j/judgeaa01.shtml;DH
+3;Gleyber Torres;/players/t/torregl01.shtml;2B
+4;Giancarlo Stanton;/players/s/stantmi03.shtml;RF
+5;Isiah Kiner-Falefa;/players/k/kineris01.shtml;3B
+6;Harrison Bader;/players/b/baderha01.shtml;CF
+7;Everson Pereira;/players/p/pereiev01.shtml;LF
+8;Oswald Peraza;/players/p/perazos02.shtml;SS
+9;Ben Rortvedt;/players/r/rortvbe01.shtml;C
+; Clarke Schmidt;/players/s/schmicl01.shtml;P
+Rays
+1;Brandon Lowe;/players/l/lowebr01.shtml;2B
+2;Randy Arozarena;/players/a/arozara01.shtml;LF
+3;Josh Lowe;/players/l/lowejo01.shtml;RF
+4;Isaac Paredes;/players/p/paredis01.shtml;3B
+5;Luke Raley;/players/r/raleylu01.shtml;CF
+6;Harold Ramírez;/players/r/ramirha02.shtml;DH
+7;Jonathan Aranda;/players/a/arandjo01.shtml;1B
+8;Osleivis Basabe;/players/b/basabos01.shtml;SS
+9;René Pinto;/players/p/pintore02.shtml;C
+; Tyler Glasnow;/players/g/glasnty01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b2;0-0;0;1--;1,(0-0) X;;TBR;Luke Raley;Clarke Schmidt;11%;69%;Double to RF (Ground Ball); Paredes to 3B
+b3;2-0;2;-2-;2,(1-0) BX;R;TBR;Josh Lowe;Clarke Schmidt;8%;83%;Double to RF (Fly Ball to Deep CF); Arozarena Scores
+t9;0-3;0;---;5,(2-2) .CBFBX;;NYY;DJ LeMahieu;Pete Fairbanks;-4%;93%;Single to LF (Line Drive to Deep LF-CF)
+b2;0-0;0;---;5,(2-2) CBC.BX;;TBR;Isaac Paredes;Clarke Schmidt;4%;59%;Reached on E5 (Ground Ball to SS-3B Hole); Paredes to 1B
+t9;0-3;0;1--;3,(0-2) CST;O;NYY;Aaron Judge;Pete Fairbanks;4%;96%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Yankees Batting, Tied 0-0, Rays' Tyler Glasnow facing 1-2-3 
+t1;0-0;0;---;4,(2-1) BCBX;O;NYY;DJ LeMahieu;Tyler Glasnow;2%;52%;Groundout: SS-1B
+t1;0-0;1;---;2,(1-0) BX;O;NYY;Aaron Judge;Tyler Glasnow;2%;54%;Flyball: RF
+t1;0-0;2;---;6,(3-2) CCBBB.B;;NYY;Gleyber Torres;Tyler Glasnow;-1%;53%;Walk
+t1;0-0;2;1--;3,(0-2) CCS;O;NYY;Giancarlo Stanton;Tyler Glasnow;2%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, Rays 0.
+Bottom of the 1st, Rays Batting, Tied 0-0, Yankees' Clarke Schmidt facing 1-2-3 
+b1;0-0;0;---;5,(2-2) BBSF.X;O;TBR;Brandon Lowe;Clarke Schmidt;-2%;53%;Groundout: 2B-1B (Weak 2B)
+b1;0-0;1;---;6,(3-2) CBBCBS;O;TBR;Randy Arozarena;Clarke Schmidt;-2%;51%;Strikeout Swinging
+b1;0-0;2;---;2,(0-1) CX;O;TBR;Josh Lowe;Clarke Schmidt;-1%;50%;Flyball: LF (Short LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rays 0.
+Top of the 2nd, Yankees Batting, Tied 0-0, Rays' Tyler Glasnow facing 5-6-7 
+t2;0-0;0;---;1,(0-0) X;O;NYY;Isiah Kiner-Falefa;Tyler Glasnow;2%;52%;Groundout: SS-1B (Front of Home)
+t2;0-0;1;---;4,(2-1) CBBX;O;NYY;Harrison Bader;Tyler Glasnow;2%;54%;Groundout: C-1B (Short 1B Line)
+t2;0-0;2;---;6,(3-2) BBFBFX;O;NYY;Everson Pereira;Tyler Glasnow;1%;55%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rays 0.
+Bottom of the 2nd, Rays Batting, Tied 0-0, Yankees' Clarke Schmidt facing 4-5-6 
+b2;0-0;0;---;5,(2-2) CBC.BX;;TBR;Isaac Paredes;Clarke Schmidt;4%;59%;Reached on E5 (Ground Ball to SS-3B Hole); Paredes to 1B
+b2;0-0;0;1--;1,(0-0) X;;TBR;Luke Raley;Clarke Schmidt;11%;69%;Double to RF (Ground Ball); Paredes to 3B
+b2;0-0;0;-23;2,(1-0) BX;RO;TBR;Harold Ramírez;Clarke Schmidt;1%;70%;Flyball: CF/Sacrifice Fly (Deep CF); Paredes Scores/unER; Raley to 3B
+b2;1-0;1;--3;2,(0-1) SX;RO;TBR;Jonathan Aranda;Clarke Schmidt;2%;72%;Flyball: CF/Sacrifice Fly (Deep CF); Raley Scores/unER
+b2;2-0;2;---;4,(2-1) BFBX;O;TBR;Osleivis Basabe;Clarke Schmidt;-1%;72%;Lineout: RF (Deep CF-RF)
+;;;;;;;;;2 runs, 1 hit, 1 error, 0 LOB. Yankees 0, Rays 2.
+Top of the 3rd, Yankees Batting, Behind 0-2, Rays' Tyler Glasnow facing 8-9-1 
+t3;0-2;0;---;2,(0-1) CX;O;NYY;Oswald Peraza;Tyler Glasnow;2%;74%;Groundout: SS-1B (Deep SS)
+t3;0-2;1;---;4,(3-0) BBBB;;NYY;Ben Rortvedt;Tyler Glasnow;-3%;71%;Walk
+t3;0-2;1;1--;4,(2-1) CBBX;O;NYY;DJ LeMahieu;Tyler Glasnow;2%;73%;Groundout: 3B-1B (Weak 3B); Rortvedt to 2B
+t3;0-2;2;-2-;4,(2-1) BBCX;O;NYY;Aaron Judge;Tyler Glasnow;3%;77%;Popfly: 2B (Deep 2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, Rays 2.
+Bottom of the 3rd, Rays Batting, Ahead 2-0, Yankees' Clarke Schmidt facing 9-1-2 
+b3;2-0;0;---;2,(1-0) BX;O;TBR;René Pinto;Clarke Schmidt;-2%;75%;Popfly: SS (Short LF-CF)
+b3;2-0;1;---;4,(2-1) SBBX;O;TBR;Brandon Lowe;Clarke Schmidt;-1%;74%;Flyball: LF (Short LF Line)
+b3;2-0;2;---;2,(0-1) CX;;TBR;Randy Arozarena;Clarke Schmidt;2%;76%;Double to CF (Line Drive to Deep CF-RF)
+b3;2-0;2;-2-;2,(1-0) BX;R;TBR;Josh Lowe;Clarke Schmidt;8%;83%;Double to RF (Fly Ball to Deep CF); Arozarena Scores
+b3;3-0;2;-2-;2,(1-0) BX;O;TBR;Isaac Paredes;Clarke Schmidt;-2%;82%;Foul Popfly: RF (Short RF into Foul Terr.)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Yankees 0, Rays 3.
+Top of the 4th, Yankees Batting, Behind 0-3, Rays' Tyler Glasnow facing 3-4-5 
+t4;0-3;0;---;7,(3-2) CBCBFBX;O;NYY;Gleyber Torres;Tyler Glasnow;2%;84%;Groundout: 3B-1B (SS-3B Hole)
+t4;0-3;1;---;4,(1-2) CBSX;O;NYY;Giancarlo Stanton;Tyler Glasnow;1%;85%;Groundout: 2B-1B (SS-2B)
+t4;0-3;2;---;7,(3-2) BCBCFBS;O;NYY;Isiah Kiner-Falefa;Tyler Glasnow;1%;86%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rays 3.
+Bottom of the 4th, Rays Batting, Ahead 3-0, Yankees' Clarke Schmidt facing 5-6-7 
+b4;3-0;0;---;3,(1-1) BFX;O;TBR;Luke Raley;Clarke Schmidt;-1%;85%;Flyball: RF
+b4;3-0;1;---;4,(2-1) BCBX;O;TBR;Harold Ramírez;Clarke Schmidt;-1%;85%;Groundout: 3B-1B (Weak 3B)
+b4;3-0;2;---;4,(1-2) BCFS;O;TBR;Jonathan Aranda;Clarke Schmidt;-1%;84%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rays 3.
+Top of the 5th, Yankees Batting, Behind 0-3, Rays' Tyler Glasnow facing 6-7-8 
+t5;0-3;0;---;5,(2-2) BCBFX;O;NYY;Harrison Bader;Tyler Glasnow;2%;86%;Flyball: CF (Deep LF-CF)
+t5;0-3;1;---;1,(0-0) X;O;NYY;Everson Pereira;Tyler Glasnow;2%;88%;Lineout: SS (Deep SS)
+t5;0-3;2;---;3,(0-2) SC.S;O;NYY;Oswald Peraza;Tyler Glasnow;1%;89%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rays 3.
+Bottom of the 5th, Rays Batting, Ahead 3-0, Yankees' Clarke Schmidt facing 8-9-1 
+b5;3-0;0;---;4,(1-2) BFFX;O;TBR;Osleivis Basabe;Clarke Schmidt;-1%;88%;Lineout: RF (Deep RF)
+b5;3-0;1;---;1,(0-0) X;O;TBR;René Pinto;Clarke Schmidt;-1%;87%;Flyball: RF (Deep RF)
+b5;3-0;2;---;3,(0-2) CFX;;TBR;Brandon Lowe;Clarke Schmidt;1%;88%;Single to CF (Ground Ball)
+b5;3-0;2;1--;5,(3-1) BBCBX;O;TBR;Randy Arozarena;Clarke Schmidt;-1%;87%;Groundout: SS-2B/Forceout at 2B (SS-3B Hole); Arozarena to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 0, Rays 3.
+Top of the 6th, Yankees Batting, Behind 0-3, Rays' Tyler Glasnow facing 9-1-2 
+t6;0-3;0;---;7,(3-2) SBFBBFS;O;NYY;Ben Rortvedt;Tyler Glasnow;2%;89%;Strikeout Swinging
+t6;0-3;1;---;3,(1-1) CBX;;NYY;DJ LeMahieu;Tyler Glasnow;-3%;86%;Single to CF (Line Drive to Deep CF-RF)
+t6;0-3;1;1--;1,(0-0) X;O;NYY;Aaron Judge;Tyler Glasnow;3%;89%;Foul Popfly: RF (Short RF into Foul Terr.)
+t6;0-3;2;1--;7,(3-2) FSFB*BB>X;O;NYY;Gleyber Torres;Tyler Glasnow;2%;91%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 0, Rays 3.
+Bottom of the 6th, Rays Batting, Ahead 3-0, Yankees' Clarke Schmidt facing 3-4-5 
+b6;3-0;0;---;4,(1-2) CSBS;O;TBR;Josh Lowe;Clarke Schmidt;-1%;91%;Strikeout Swinging
+b6;3-0;1;---;4,(2-1) BFBX;;TBR;Isaac Paredes;Clarke Schmidt;1%;91%;Single to CF (Line Drive to Deep CF)
+b6;3-0;1;1--;6,(2-2) SFBFBS;O;TBR;Luke Raley;Clarke Schmidt;-1%;90%;Strikeout Swinging
+b6;3-0;2;1--;2,(0-1) FX;O;TBR;Harold Ramírez;Clarke Schmidt;-1%;90%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Ramírez to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 0, Rays 3.
+Top of the 7th, Yankees Batting, Behind 0-3, Rays' Robert Stephenson facing 4-5-6 
+;;;;;;;;;Robert Stephenson replaces Tyler Glasnow pitching
+t7;0-3;0;---;5,(2-2) .SSBBS;O;NYY;Giancarlo Stanton;Robert Stephenson;2%;92%;Strikeout Swinging
+t7;0-3;1;---;4,(2-1) BBTX;O;NYY;Isiah Kiner-Falefa;Robert Stephenson;1%;94%;Groundout: SS-1B
+t7;0-3;2;---;3,(0-2) FSS;O;NYY;Harrison Bader;Robert Stephenson;1%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rays 3.
+Bottom of the 7th, Rays Batting, Ahead 3-0, Yankees' Clarke Schmidt facing 7-8-9 
+b7;3-0;0;---;8,(2-2) BFBC.FFFX;;TBR;Jonathan Aranda;Clarke Schmidt;1%;95%;Single to LF (Line Drive to LF-CF)
+;;;;;;;;;Jose Siri pinch runs for Jonathan Aranda (1B) batting 7th
+b7;3-0;0;1--;3,(1-1) .SB11X;O;TBR;Osleivis Basabe;Clarke Schmidt;-1%;94%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Basabe to 1B
+b7;3-0;1;1--;4,(1-2) CFBB;;TBR;René Pinto;Clarke Schmidt;0%;95%;Wild Pitch; Basabe to 2B
+b7;3-0;1;-2-;9,(3-2) CFBB.BF.FFS;O;TBR;René Pinto;Clarke Schmidt;-1%;94%;Strikeout Swinging
+;;;;;;;;;Wandy Peralta replaces Clarke Schmidt pitching
+b7;3-0;2;-2-;4,(0-2) .FFFS;O;TBR;Brandon Lowe;Wandy Peralta;-1%;93%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 0, Rays 3.
+Top of the 8th, Yankees Batting, Behind 0-3, Rays' Jason Adam facing 7-8-9 
+;;;;;;;;;Jason Adam replaces Robert Stephenson pitchingLuke Raley moves from CF to 1B Jose Siri moves from PR to CF 
+t8;0-3;0;---;3,(1-1) ...FBX;O;NYY;Everson Pereira;Jason Adam;2%;95%;Groundout: 3B-1B (Deep 3B)
+t8;0-3;1;---;5,(1-2) CBFFS;O;NYY;Oswald Peraza;Jason Adam;1%;97%;Strikeout Swinging
+;;;;;;;;;Jake Bauers pinch hits for Ben Rortvedt (C) batting 9th
+t8;0-3;2;---;6,(3-2) .BBCBFS;O;NYY;Jake Bauers;Jason Adam;1%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rays 3.
+Bottom of the 8th, Rays Batting, Ahead 3-0, Yankees' Keynan Middleton facing 2-3-4 
+;;;;;;;;;Keynan Middleton replaces Wandy Peralta pitchingKyle Higashioka replaces Jake Bauers (PH) playing C batting 9th
+b8;3-0;0;---;7,(3-2) ..CSBBBFB;;TBR;Randy Arozarena;Keynan Middleton;0%;98%;Walk
+b8;3-0;0;1--;2,(0-1) 1SX;;TBR;Josh Lowe;Keynan Middleton;1%;98%;Single to LF (Line Drive to Short LF); Arozarena to 2B
+b8;3-0;0;12-;4,(1-2) S*BFS;O;TBR;Isaac Paredes;Keynan Middleton;-1%;98%;Strikeout Swinging
+b8;3-0;1;12-;2,(1-0) BX;O;TBR;Luke Raley;Keynan Middleton;0%;97%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Arozarena to 3B; Raley to 1B
+b8;3-0;2;1-3;3,(1-1) C*B>B;;TBR;Harold Ramírez;Keynan Middleton;0%;97%;Raley Steals 2B
+b8;3-0;2;-23;6,(3-2) C*B>B.BSB;;TBR;Harold Ramírez;Keynan Middleton;0%;98%;Walk
+b8;3-0;2;123;4,(1-2) BSSS;O;TBR;Jose Siri;Keynan Middleton;-1%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Yankees 0, Rays 3.
+Top of the 9th, Yankees Batting, Behind 0-3, Rays' Pete Fairbanks facing 1-2-3 
+;;;;;;;;;Pete Fairbanks replaces Jason Adam pitching
+t9;0-3;0;---;5,(2-2) .CBFBX;;NYY;DJ LeMahieu;Pete Fairbanks;-4%;93%;Single to LF (Line Drive to Deep LF-CF)
+t9;0-3;0;1--;3,(0-2) CST;O;NYY;Aaron Judge;Pete Fairbanks;4%;96%;Strikeout Swinging
+t9;0-3;1;1--;7,(3-2) SFBF.*B*BC;O;NYY;Gleyber Torres;Pete Fairbanks;2%;99%;Strikeout Looking
+t9;0-3;2;1--;2,(0-1) SX;O;NYY;Giancarlo Stanton;Pete Fairbanks;1%;100%;Popfly: 2B (Deep 2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 0, Rays 3.

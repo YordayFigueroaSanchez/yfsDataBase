@@ -1,0 +1,271 @@
+
+Scorebox Meta
+20230511
+7:05 p.m. Local
+37686
+Yankee Stadium III
+150
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/TBR-2023.png;/teams/TBR/2023.shtml;0;0;0;0;1;3;1;3;0;8;11;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;0;0;0;0;0;0;0;2;2;4;1
+
+Batting home
+Anthony Volpe;/players/v/volpean01.shtml;SS;4;0;0;0;0;1;4;.199;.292;.338;.630;10;8;-0.047; 0.46;0.000;-0.047;-0.03%; 0.44; -0.9;2;2;
+Aaron Judge;/players/j/judgeaa01.shtml;RF;4;0;0;0;0;3;4;.262;.352;.495;.848;20;13;-0.050; 0.49;0.000;-0.050;-0.03%; 0.47; -0.8;4;0;
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;3;1;0;0;1;0;4;.296;.384;.458;.842;16;10;-0.041; 0.40;0.000;-0.041;-0.02%; 0.38; -0.4;8;0;
+DJ LeMahieu;/players/l/lemahdj01.shtml;3B;3;0;0;0;1;1;4;.270;.343;.467;.810;13;7;-0.043; 0.42;0.000;-0.043;-0.03%; 0.40; -0.2;1;4;
+Gleyber Torres;/players/t/torregl01.shtml;2B;4;0;1;2;0;1;4;.257;.344;.463;.807;16;12;-0.053; 0.55;0.002;-0.054;-0.03%; 0.52; 1.2;2;2;
+Jake Bauers;/players/b/bauerja01.shtml;LF;4;0;2;0;0;2;4;.235;.300;.588;.888;16;11;0.048; 0.38;0.051;-0.003; 0.03%; 0.36; -0.3;2;0;
+Harrison Bader;/players/b/baderha01.shtml;CF;2;0;0;0;0;0;3;.400;.438;.833;1.271;9;5;-0.066; 0.89;0.001;-0.067;-0.04%; 0.85; -0.3;4;0;HBP
+Jose Trevino;/players/t/trevijo01.shtml;C;3;0;0;0;0;1;3;.210;.264;.346;.610;8;5;-0.062; 0.77;0.000;-0.062;-0.04%; 0.73; -1.0;4;0;GDP
+Willie Calhoun;/players/c/calhowi01.shtml;DH;3;1;1;0;0;0;3;.246;.302;.386;.688;5;5;-0.036; 0.49;0.001;-0.037;-0.02%; 0.47; 0.2;;;2B
+Domingo Germán;/players/g/germado01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Ron Marinaccio;/players/m/marinro01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Albert Abreu;/players/a/abreual01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Weber;/players/w/weberry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Willie Calhoun (2, off Javy Guerra).
+
+
+HBP: Harrison Bader (1, by Jake Diekman).
+
+
+TB: Willie Calhoun 2; Jake Bauers 2; Gleyber Torres.
+
+
+GIDP: Jose Trevino (4).
+
+
+RBI: Gleyber Torres 2 (19).
+
+
+2-out RBI: Gleyber Torres 2.
+
+
+Team LOB: 4.
+With RISP: 1 for 4.
+
+Batting away
+Yandy Díaz;/players/d/diazya01.shtml;1B;5;0;1;1;0;0;5;.313;.420;.573;.993;10;7;0.047; 0.77;0.159;-0.111; 0.03%; 0.88; -0.6;10;1;2B,GDP
+Wander Franco;/players/f/francwa01.shtml;SS;3;0;2;0;0;0;3;.318;.374;.554;.928;8;4;0.017; 0.88;0.054;-0.037; 0.01%; 1.00; 0.2;0;2;SB
+Isaac Paredes;/players/p/paredis01.shtml;3B;2;0;1;1;0;0;2;.259;.323;.431;.754;5;3;-0.002; 0.09;0.002;-0.004;-0.00%; 0.10; 0.8;0;3;2B
+Randy Arozarena;/players/a/arozara01.shtml;LF;3;1;0;0;2;2;5;.312;.394;.558;.952;24;13;-0.028; 0.64;0.023;-0.051;-0.02%; 0.73; -0.4;2;0;
+Brandon Lowe;/players/l/lowebr01.shtml;2B;4;0;0;0;1;1;5;.186;.287;.416;.703;17;8;-0.085; 0.77;0.004;-0.090;-0.06%; 0.88; -1.0;3;5;
+Taylor Walls;/players/w/wallsta01.shtml;3B-SS;4;1;1;1;1;0;5;.261;.363;.534;.897;25;14;-0.018; 0.65;0.043;-0.062;-0.01%; 0.75; 0.5;1;2;2B
+Luke Raley;/players/r/raleylu01.shtml;DH;5;1;2;0;0;1;5;.270;.327;.596;.922;20;14;-0.023; 0.52;0.021;-0.044;-0.02%; 0.59; -0.5;;;
+Manuel Margot;/players/m/margoma01.shtml;CF;4;2;1;0;0;0;5;.253;.333;.363;.696;9;7;-0.015; 0.75;0.032;-0.047;-0.01%; 0.85; 0.0;0;0;HBP
+Josh Lowe;/players/l/lowejo01.shtml;RF;5;2;2;5;0;0;5;.314;.369;.637;1.007;15;10;0.265; 0.88;0.276;-0.011; 0.18%; 1.01; 4.1;1;0;HR,2B
+Francisco Mejía;/players/m/mejiafr01.shtml;C;3;1;1;0;1;0;4;.207;.277;.345;.622;19;14;-0.008; 0.74;0.041;-0.049;-0.01%; 0.85; 0.4;9;0;2B
+Drew Rasmussen;/players/r/rasmudr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Jake Diekman;/players/d/diekmja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Javy Guerra;/players/g/guerrja02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Yandy Díaz (7, off Domingo Germán); Josh Lowe (9, off Ron Marinaccio); Taylor Walls (4, off Albert Abreu); Francisco Mejía (5, off Ryan Weber); Isaac Paredes (8, off Ryan Weber).
+
+
+HR: Josh Lowe (8, off Ryan Weber, 8th inn, 1 on, 0 outs to Deep CF).
+
+
+HBP: Manuel Margot (3, by Ron Marinaccio).
+
+
+TB: Josh Lowe 6; Luke Raley 2; Francisco Mejía 2; Wander Franco 2; Yandy Díaz 2; Taylor Walls 2; Isaac Paredes 2; Manuel Margot.
+
+
+GIDP: Yandy Díaz (6).
+
+
+RBI: Josh Lowe 5 (25); Isaac Paredes (22); Taylor Walls (13); Yandy Díaz (20).
+
+
+2-out RBI: Josh Lowe 3; Taylor Walls; Yandy Díaz.
+
+
+Team LOB: 9.
+With RISP: 3 for 11.
+
+Pitching home
+Domingo Germán;/players/g/germado01.shtml; L (2-3); 5.2;3;2;1;3;3;0;4.00;23;87;53;35;9;9;7;10;3;0;57;;;0.157; 1.00; 0.09%; 0.95; 1.8
+Ron Marinaccio;/players/m/marinro01.shtml;Ron Marinaccio; 0.1;2;2;2;0;0;0;2.70;4;15;11;9;1;1;1;2;1;0;;1;1;-0.272; 1.55;-0.15%; 1.47; -2.8
+Albert Abreu;/players/a/abreual01.shtml;Albert Abreu; 1 ;1;1;1;2;0;0;5.09;6;22;11;6;3;2;2;2;0;0;;0;0;-0.020; 0.20;-0.01%; 0.19; -0.5
+Ryan Weber;/players/w/weberry01.shtml;Ryan Weber; 2 ;5;3;3;0;1;1;13.50;11;28;19;14;3;2;3;7;5;0;;0;0;-0.015; 0.02;-0.01%; 0.02; -2.0
+
+Pitching away
+Drew Rasmussen;/players/r/rasmudr01.shtml; W (4-2); 7 ;2;0;0;0;7;0;2.62;23;76;57;28;12;17;10;6;3;0;80;;;0.347; 0.74; 0.24%; 0.84; 3.5
+Jake Diekman;/players/d/diekmja01.shtml;Jake Diekman; 1 ;0;0;0;0;1;0;7.30;3;11;6;1;1;4;1;0;0;0;;0;0;0.002; 0.04; 0.00%; 0.05; 0.5
+Javy Guerra;/players/g/guerrja02.shtml;Javy Guerra; 1 ;2;2;2;2;1;0;6.92;7;26;13;4;3;6;2;2;1;0;;0;0;0.001; 0.02; 0.00%; 0.03; -1.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Jake Diekman (1; Harrison Bader); Ron Marinaccio (1; Manuel Margot).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Jake Diekman (1; Harrison Bader); Ron Marinaccio (1; Manuel Margot).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Alan Porter, 1B - Nate Tomlinson, 2B - Sean Barber, 3B - Mike Muchlinski, LF - (none), RF - (none).
+Time of Game: 2:30.
+Attendance: 37,686.
+Field Condition: Unknown.
+Start Time Weather: 78° F, Wind 10mph from Right to Left, Sunny, No Precipitation.
+
+div_lineups
+Rays
+1;Yandy Díaz;/players/d/diazya01.shtml;1B
+2;Wander Franco;/players/f/francwa01.shtml;SS
+3;Randy Arozarena;/players/a/arozara01.shtml;LF
+4;Brandon Lowe;/players/l/lowebr01.shtml;2B
+5;Taylor Walls;/players/w/wallsta01.shtml;3B
+6;Luke Raley;/players/r/raleylu01.shtml;DH
+7;Manuel Margot;/players/m/margoma01.shtml;CF
+8;Josh Lowe;/players/l/lowejo01.shtml;RF
+9;Francisco Mejía;/players/m/mejiafr01.shtml;C
+; Drew Rasmussen;/players/r/rasmudr01.shtml;P
+Yankees
+1;Anthony Volpe;/players/v/volpean01.shtml;SS
+2;Aaron Judge;/players/j/judgeaa01.shtml;RF
+3;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+4;DJ LeMahieu;/players/l/lemahdj01.shtml;3B
+5;Gleyber Torres;/players/t/torregl01.shtml;2B
+6;Jake Bauers;/players/b/bauerja01.shtml;LF
+7;Harrison Bader;/players/b/baderha01.shtml;CF
+8;Jose Trevino;/players/t/trevijo01.shtml;C
+9;Willie Calhoun;/players/c/calhowi01.shtml;DH
+; Domingo Germán;/players/g/germado01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t6;1-0;2;123;2,(0-1) FX;RRR;TBR;Josh Lowe;Ron Marinaccio;23%;92%;Double to CF (Fly Ball to Deep CF-RF); Walls Scores; Raley Scores; Margot Scores
+t5;0-0;2;1--;2,(1-0) B1X;R;TBR;Yandy Díaz;Domingo Germán;16%;62%;Double to LF (Ground Ball); Lowe Scores/unER
+t3;0-0;0;1--;2,(0-1) CX;OO;TBR;Yandy Díaz;Domingo Germán;-8%;46%;Ground Ball Double Play: 2B-1B
+t1;0-0;1;12-;1,(0-0) X;O;TBR;Brandon Lowe;Domingo Germán;-4%;49%;Flyball: RF (Deep CF-RF)
+b5;0-1;1;1--;2,(1-0) BX;O;NYY;Harrison Bader;Drew Rasmussen;4%;63%;Flyball: LF
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Rays Batting, Tied 0-0, Yankees' Domingo Germán facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;TBR;Yandy Díaz;Domingo Germán;-2%;48%;Flyball: CF (Deep CF-RF)
+t1;0-0;1;---;2,(1-0) BX;;TBR;Wander Franco;Domingo Germán;2%;50%;Single to RF (Line Drive)
+t1;0-0;1;1--;5,(2-2) B1BSS>B;;TBR;Randy Arozarena;Domingo Germán;2%;52%;Franco Steals 2B
+t1;0-0;1;-2-;6,(3-2) B1BSS>B.*B;;TBR;Randy Arozarena;Domingo Germán;2%;54%;Walk
+t1;0-0;1;12-;1,(0-0) X;O;TBR;Brandon Lowe;Domingo Germán;-4%;49%;Flyball: RF (Deep CF-RF)
+t1;0-0;2;12-;6,(1-2) 2CSBFFX;O;TBR;Taylor Walls;Domingo Germán;-4%;45%;Groundout: SS unassisted/Forceout at 2B (Weak SS-2B); Walls to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Rays 0, Yankees 0.
+Bottom of the 1st, Yankees Batting, Tied 0-0, Rays' Drew Rasmussen facing 1-2-3 
+b1;0-0;0;---;2,(0-1) CX;O;NYY;Anthony Volpe;Drew Rasmussen;2%;47%;Groundout: SS-1B (Deep SS-3B Hole)
+b1;0-0;1;---;6,(2-2) FBCBF.S;O;NYY;Aaron Judge;Drew Rasmussen;2%;49%;Strikeout Swinging
+b1;0-0;2;---;3,(0-2) CFX;O;NYY;Anthony Rizzo;Drew Rasmussen;1%;50%;Foul Popfly: 3B (3B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 0, Yankees 0.
+Top of the 2nd, Rays Batting, Tied 0-0, Yankees' Domingo Germán facing 6-7-8 
+t2;0-0;0;---;5,(3-1) BBBCX;O;TBR;Luke Raley;Domingo Germán;-2%;48%;Popfly: SS (SS-2B)
+t2;0-0;1;---;2,(0-1) CX;O;TBR;Manuel Margot;Domingo Germán;-2%;46%;Groundout: 3B-1B (Weak 3B)
+t2;0-0;2;---;6,(3-2) FBBBF.X;O;TBR;Josh Lowe;Domingo Germán;-1%;45%;Flyball: LF (Short LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 0, Yankees 0.
+Bottom of the 2nd, Yankees Batting, Tied 0-0, Rays' Drew Rasmussen facing 4-5-6 
+b2;0-0;0;---;3,(0-2) CCT;O;NYY;DJ LeMahieu;Drew Rasmussen;2%;47%;Strikeout Swinging
+b2;0-0;1;---;4,(1-2) SSBX;O;NYY;Gleyber Torres;Drew Rasmussen;2%;49%;Lineout: LF (Deep LF-CF)
+b2;0-0;2;---;7,(3-2) CBBCB.FX;;NYY;Jake Bauers;Drew Rasmussen;-1%;48%;Single to RF (Ground Ball)
+b2;0-0;2;1--;2,(0-1) CX;O;NYY;Harrison Bader;Drew Rasmussen;2%;50%;Groundout: SS-2B/Forceout at 2B (Weak SS-2B); Bader to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rays 0, Yankees 0.
+Top of the 3rd, Rays Batting, Tied 0-0, Yankees' Domingo Germán facing 9-1-2 
+t3;0-0;0;---;9,(3-2) BFBBFFFF*B;;TBR;Francisco Mejía;Domingo Germán;4%;54%;Walk
+t3;0-0;0;1--;2,(0-1) CX;OO;TBR;Yandy Díaz;Domingo Germán;-8%;46%;Ground Ball Double Play: 2B-1B
+t3;0-0;2;---;2,(1-0) BX;;TBR;Wander Franco;Domingo Germán;1%;47%;Single to RF (Line Drive to RF Line)
+t3;0-0;2;1--;4,(1-2) C1B+1FS;O;TBR;Randy Arozarena;Domingo Germán;-3%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rays 0, Yankees 0.
+Bottom of the 3rd, Yankees Batting, Tied 0-0, Rays' Drew Rasmussen facing 8-9-1 
+b3;0-0;0;---;4,(1-2) CCBS;O;NYY;Jose Trevino;Drew Rasmussen;3%;47%;Strikeout Swinging
+b3;0-0;1;---;2,(0-1) SX;O;NYY;Willie Calhoun;Drew Rasmussen;2%;49%;Groundout: 2B-1B (Deep 2B)
+b3;0-0;2;---;3,(1-2) CSVS;O;NYY;Anthony Volpe;Drew Rasmussen;1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 0, Yankees 0.
+Top of the 4th, Rays Batting, Tied 0-0, Yankees' Domingo Germán facing 4-5-6 
+t4;0-0;0;---;5,(2-2) BFS.BX;O;TBR;Brandon Lowe;Domingo Germán;-3%;47%;Flyball: CF (Short CF)
+t4;0-0;1;---;5,(2-2) BFBSX;O;TBR;Taylor Walls;Domingo Germán;-2%;45%;Lineout: RF
+t4;0-0;2;---;4,(1-2) BSFS;O;TBR;Luke Raley;Domingo Germán;-1%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 0, Yankees 0.
+Bottom of the 4th, Yankees Batting, Tied 0-0, Rays' Drew Rasmussen facing 2-3-4 
+b4;0-0;0;---;6,(2-2) BBFFFC;O;NYY;Aaron Judge;Drew Rasmussen;3%;47%;Strikeout Looking
+b4;0-0;1;---;2,(0-1) FX;O;NYY;Anthony Rizzo;Drew Rasmussen;2%;49%;Groundout: 1B-P (Deep 1B)
+b4;0-0;2;---;3,(1-1) CBX;O;NYY;DJ LeMahieu;Drew Rasmussen;1%;50%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 0, Yankees 0.
+Top of the 5th, Rays Batting, Tied 0-0, Yankees' Domingo Germán facing 7-8-9 
+t5;0-0;0;---;1,(0-0) X;O;TBR;Manuel Margot;Domingo Germán;-3%;47%;Groundout: 3B-1B (Weak 3B)
+t5;0-0;1;---;5,(2-2) BBSFX;;TBR;Josh Lowe;Domingo Germán;3%;50%;Reached on E3 (Ground Ball); Lowe to 1B
+t5;0-0;1;1--;3,(0-2) 1F>FX;O;TBR;Francisco Mejía;Domingo Germán;-4%;46%;Popfly: 3B (Weak SS)
+t5;0-0;2;1--;2,(1-0) B1X;R;TBR;Yandy Díaz;Domingo Germán;16%;62%;Double to LF (Ground Ball); Lowe Scores/unER
+t5;1-0;2;-2-;4,(2-1) CB.*BX;O;TBR;Wander Franco;Domingo Germán;-4%;59%;Groundout: P-1B (Front of Home)
+;;;;;;;;;1 run, 1 hit, 1 error, 1 LOB. Rays 1, Yankees 0.
+Bottom of the 5th, Yankees Batting, Behind 0-1, Rays' Drew Rasmussen facing 5-6-7 
+;;;;;;;;;Isaac Paredes replaces Wander Franco (SS) playing 3B batting 2ndTaylor Walls moves from 3B to SS 
+b5;0-1;0;---;3,(0-2) ..FSS;O;NYY;Gleyber Torres;Drew Rasmussen;3%;62%;Strikeout Swinging
+b5;0-1;1;---;1,(0-0) X;;NYY;Jake Bauers;Drew Rasmussen;-4%;58%;Single to RF (Line Drive to Deep RF Line)
+b5;0-1;1;1--;2,(1-0) BX;O;NYY;Harrison Bader;Drew Rasmussen;4%;63%;Flyball: LF
+b5;0-1;2;1--;2,(1-0) BX;O;NYY;Jose Trevino;Drew Rasmussen;4%;66%;Lineout: RF (RF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rays 1, Yankees 0.
+Top of the 6th, Rays Batting, Ahead 1-0, Yankees' Domingo Germán facing 3-4-5 
+t6;1-0;0;---;5,(1-2) BCFFC;O;TBR;Randy Arozarena;Domingo Germán;-2%;64%;Strikeout Looking
+t6;1-0;1;---;2,(1-0) BX;O;TBR;Brandon Lowe;Domingo Germán;-2%;62%;Flyball: RF
+t6;1-0;2;---;5,(3-1) CBBBB;;TBR;Taylor Walls;Domingo Germán;1%;63%;Walk
+;;;;;;;;;Ron Marinaccio replaces Domingo Germán pitching
+t6;1-0;2;1--;5,(1-2) .1CFBFX;;TBR;Luke Raley;Ron Marinaccio;2%;65%;Single to CF (Ground Ball thru SS-2B); Walls to 2B
+t6;1-0;2;12-;3,(1-1) B+1FH;;TBR;Manuel Margot;Ron Marinaccio;3%;68%;Hit By Pitch; Walls to 3B; Raley to 2B
+t6;1-0;2;123;2,(0-1) FX;RRR;TBR;Josh Lowe;Ron Marinaccio;23%;92%;Double to CF (Fly Ball to Deep CF-RF); Walls Scores; Raley Scores; Margot Scores
+t6;4-0;2;-2-;5,(1-2) FSBFX;O;TBR;Francisco Mejía;Ron Marinaccio;-1%;90%;Lineout: RF
+;;;;;;;;;3 runs, 2 hits, 0 errors, 1 LOB. Rays 4, Yankees 0.
+Bottom of the 6th, Yankees Batting, Behind 0-4, Rays' Drew Rasmussen facing 9-1-2 
+b6;0-4;0;---;2,(0-1) CX;O;NYY;Willie Calhoun;Drew Rasmussen;2%;92%;Popfly: 2B (Deep 2B-1B)
+b6;0-4;1;---;2,(0-1) FX;O;NYY;Anthony Volpe;Drew Rasmussen;1%;94%;Groundout: SS-1B (Weak SS)
+b6;0-4;2;---;5,(2-2) SC.BBS;O;NYY;Aaron Judge;Drew Rasmussen;1%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 4, Yankees 0.
+Top of the 7th, Rays Batting, Ahead 4-0, Yankees' Albert Abreu facing 1-2-3 
+;;;;;;;;;Albert Abreu replaces Ron Marinaccio pitching
+t7;4-0;0;---;3,(1-1) ..BFX;O;TBR;Yandy Díaz;Albert Abreu;-1%;94%;Groundout: SS-1B
+t7;4-0;1;---;1,(0-0) X;O;TBR;Isaac Paredes;Albert Abreu;0%;93%;Flyball: CF (Deep CF)
+t7;4-0;2;---;6,(3-2) CBSBBB;;TBR;Randy Arozarena;Albert Abreu;0%;94%;Walk
+t7;4-0;2;1--;4,(3-0) BBBB;;TBR;Brandon Lowe;Albert Abreu;0%;94%;Walk; Arozarena to 2B
+t7;4-0;2;12-;5,(2-2) SF.BBX;R;TBR;Taylor Walls;Albert Abreu;3%;97%;Double to RF (Fly Ball); Arozarena Scores; Lowe to 3B
+t7;5-0;2;-23;3,(0-2) CSX;O;TBR;Luke Raley;Albert Abreu;-1%;96%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Rays 5, Yankees 0.
+Bottom of the 7th, Yankees Batting, Behind 0-5, Rays' Drew Rasmussen facing 3-4-5 
+b7;0-5;0;---;5,(2-2) BFCB.X;O;NYY;Anthony Rizzo;Drew Rasmussen;1%;97%;Groundout: 3B-1B
+b7;0-5;1;---;2,(1-0) BX;O;NYY;DJ LeMahieu;Drew Rasmussen;1%;98%;Groundout: 3B-1B (Weak 3B)
+b7;0-5;2;---;5,(2-2) CBSBX;O;NYY;Gleyber Torres;Drew Rasmussen;0%;98%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 5, Yankees 0.
+Top of the 8th, Rays Batting, Ahead 5-0, Yankees' Ryan Weber facing 7-8-9 
+;;;;;;;;;Ryan Weber replaces Albert Abreu pitching
+t8;5-0;0;---;2,(0-1) .CX;;TBR;Manuel Margot;Ryan Weber;0%;99%;Single to LF (Line Drive to Deep LF-CF)
+t8;5-0;0;1--;1,(0-0) X;RR;TBR;Josh Lowe;Ryan Weber;1%;100%;Home Run (Fly Ball to Deep CF); Margot Scores
+t8;7-0;0;---;2,(0-1) SX;;TBR;Francisco Mejía;Ryan Weber;0%;100%;Double to RF (Line Drive to Deep RF Line)
+t8;7-0;0;-2-;2,(1-0) BX;O;TBR;Yandy Díaz;Ryan Weber;0%;100%;Groundout: 3B-1B (Weak 3B)
+t8;7-0;1;-2-;4,(2-1) FBBX;R;TBR;Isaac Paredes;Ryan Weber;0%;100%;Double to RF (Fly Ball to Deep RF Line); Mejía Scores
+t8;8-0;1;-2-;3,(1-1) FBX;O;TBR;Randy Arozarena;Ryan Weber;0%;100%;Groundout: SS-1B; Paredes to 3B
+t8;8-0;2;--3;5,(2-2) BFBCS;O;TBR;Brandon Lowe;Ryan Weber;0%;100%;Strikeout Swinging
+;;;;;;;;;3 runs, 4 hits, 0 errors, 1 LOB. Rays 8, Yankees 0.
+Bottom of the 8th, Yankees Batting, Behind 0-8, Rays' Jake Diekman facing 6-7-8 
+;;;;;;;;;Jake Diekman replaces Drew Rasmussen pitching
+b8;0-8;0;---;4,(1-2) .CCBC;O;NYY;Jake Bauers;Jake Diekman;0%;100%;Strikeout Looking
+b8;0-8;1;---;5,(2-2) CBBSH;;NYY;Harrison Bader;Jake Diekman;0%;100%;Hit By Pitch
+b8;0-8;1;1--;2,(1-0) BX;OO;NYY;Jose Trevino;Jake Diekman;0%;100%;Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 8, Yankees 0.
+Top of the 9th, Rays Batting, Ahead 8-0, Yankees' Ryan Weber facing 5-6-7 
+t9;8-0;0;---;4,(2-1) FBBX;O;TBR;Taylor Walls;Ryan Weber;0%;100%;Lineout: CF (Deep LF-CF)
+t9;8-0;1;---;3,(1-1) BSX;;TBR;Luke Raley;Ryan Weber;0%;100%;Single to RF (Line Drive to CF-RF)
+t9;8-0;1;1--;1,(0-0) X;O;TBR;Manuel Margot;Ryan Weber;0%;100%;Groundout: 3B-2B/Forceout at 2B; Margot to 1B
+t9;8-0;2;1--;1,(0-0) X;O;TBR;Josh Lowe;Ryan Weber;0%;100%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rays 8, Yankees 0.
+Bottom of the 9th, Yankees Batting, Behind 0-8, Rays' Javy Guerra facing 9-1-2 
+;;;;;;;;;Javy Guerra replaces Jake Diekman pitching
+b9;0-8;0;---;1,(0-0) .X;;NYY;Willie Calhoun;Javy Guerra;0%;100%;Double to LF (Fly Ball to Deep LF Line)
+b9;0-8;0;-2-;3,(2-0) BBX;O;NYY;Anthony Volpe;Javy Guerra;0%;100%;Groundout: SS-1B
+b9;0-8;1;-2-;3,(1-1) CBX;O;NYY;Aaron Judge;Javy Guerra;0%;100%;Groundout: 2B-1B (2B-1B); Calhoun to 3B
+b9;0-8;2;--3;6,(3-2) C*B*BS*BB;;NYY;Anthony Rizzo;Javy Guerra;0%;100%;Walk
+b9;0-8;2;1-3;5,(3-1) *B*BBCB;;NYY;DJ LeMahieu;Javy Guerra;0%;100%;Walk; Rizzo to 2B
+b9;0-8;2;123;4,(1-2) BCCX;RR;NYY;Gleyber Torres;Javy Guerra;0%;100%;Single to CF (Line Drive to Deep CF); Calhoun Scores; Rizzo Scores; LeMahieu to 2B
+b9;2-8;2;12-;4,(1-2) BSCS;O;NYY;Jake Bauers;Javy Guerra;0%;100%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 2 LOB. Rays 8, Yankees 2.

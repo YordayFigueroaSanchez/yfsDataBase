@@ -1,0 +1,286 @@
+
+Scorebox Meta
+20230411
+6:40 p.m. Local
+25399
+Coors Field
+157
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/STL-2023.png;/teams/STL/2023.shtml;1;0;1;0;0;0;4;0;3;9;11;2
+https://cdn.ssref.net/req/202308101/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;0;0;1;5;0;0;0;0;6;12;1
+
+Batting home
+Jurickson Profar;/players/p/profaju01.shtml;LF;3;1;1;0;1;0;5;.219;.278;.344;.622;24;13;0.137; 1.04;0.168;-0.031; 0.07%; 0.91; 0.9;2;0;
+Kris Bryant;/players/b/bryankr01.shtml;RF;5;1;2;0;0;0;5;.306;.370;.367;.738;16;11;0.134; 1.42;0.201;-0.067; 0.07%; 1.24; 0.7;2;0;
+Ryan McMahon;/players/m/mcmahry01.shtml;2B;5;1;2;3;0;3;5;.220;.283;.512;.795;20;13;0.128; 1.94;0.272;-0.144; 0.07%; 1.68; 1.1;3;3;HR
+C.J. Cron;/players/c/croncj01.shtml;1B;5;1;1;1;0;1;5;.250;.286;.600;.886;13;10;-0.179; 1.78;0.072;-0.251;-0.09%; 1.55; -1.3;7;0;HR,GDP
+Mike Moustakas;/players/m/moustmi01.shtml;DH;4;1;1;0;1;3;5;.188;.391;.438;.829;20;13;-0.044; 1.11;0.067;-0.111;-0.02%; 0.96; 0.1;;;2B
+Elias Díaz;/players/d/diazel01.shtml;C;4;1;2;1;0;1;4;.324;.405;.568;.972;13;8;0.077; 0.82;0.137;-0.060; 0.04%; 0.71; 1.2;9;0;HR
+Harold Castro;/players/c/castrha01.shtml;3B;4;0;1;0;0;1;4;.200;.200;.200;.400;12;8;-0.050; 1.13;0.038;-0.088;-0.03%; 0.98; -0.5;1;2;
+Yonathan Daza;/players/d/dazayo01.shtml;CF;3;0;1;1;0;0;4;.295;.289;.364;.653;9;8;-0.114; 1.19;0.022;-0.136;-0.06%; 1.03; -1.2;3;0;SF,GDP
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;4;0;1;0;0;1;4;.225;.225;.325;.550;15;9;-0.033; 0.92;0.042;-0.075;-0.02%; 0.80; -0.4;0;2;
+Kyle Freeland;/players/f/freelky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jake Bird;/players/b/birdja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dinelson Lamet;/players/l/lametdi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Pierce Johnson;/players/j/johnspi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Connor Seabold;/players/s/seaboco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Mike Moustakas (1, off Miles Mikolas).
+
+
+HR: Elias Díaz (2, off Miles Mikolas, 4th inn, 0 on, 1 out to Deep CF); Ryan McMahon (3, off Miles Mikolas, 5th inn, 2 on, 0 outs to Deep CF); C.J. Cron (4, off Miles Mikolas, 5th inn, 0 on, 0 outs to Deep LF).
+
+
+SF: Yonathan Daza (1, off Miles Mikolas).
+
+
+TB: Ryan McMahon 5; Elias Díaz 5; C.J. Cron 4; Kris Bryant 2; Mike Moustakas 2; Yonathan Daza; Harold Castro; Ezequiel Tovar; Jurickson Profar.
+
+
+GIDP: Yonathan Daza (1); C.J. Cron (2).
+
+
+RBI: Ryan McMahon 3 (8); Yonathan Daza (4); Elias Díaz (6); C.J. Cron (8).
+
+
+Team LOB: 8.
+With RISP: 2 for 12.
+
+Batting away
+Brendan Donovan;/players/d/donovbr01.shtml;LF;3;2;0;0;2;2;5;.216;.286;.378;.664;24;11;-0.032; 0.82;0.039;-0.071;-0.01%; 0.59; -0.3;3;0;
+Tommy Edman;/players/e/edmanto01.shtml;SS;4;2;3;1;0;0;5;.289;.372;.395;.767;10;8;0.158; 0.82;0.169;-0.012; 0.07%; 0.59; 1.6;2;1;HR,2B,SH
+Paul Goldschmidt;/players/g/goldspa01.shtml;1B;4;2;1;2;1;0;5;.350;.480;.475;.955;12;6;0.038; 1.33;0.141;-0.103; 0.02%; 0.95; 0.7;6;0;
+Nolan Arenado;/players/a/arenano01.shtml;3B;4;0;2;3;1;1;5;.333;.380;.444;.824;19;9;0.347; 1.13;0.371;-0.023; 0.15%; 0.81; 2.9;1;1;2B
+Willson Contreras;/players/c/contrwi01.shtml;C;3;0;0;0;2;1;5;.206;.270;.235;.506;18;9;-0.114; 1.14;0.040;-0.154;-0.05%; 0.82; -1.0;9;1;GDP
+Tyler O'Neill;/players/o/oneilty01.shtml;CF;5;0;1;1;0;2;5;.257;.297;.343;.640;21;14;-0.104; 1.03;0.051;-0.155;-0.04%; 0.74; -0.5;2;0;GDP
+Jordan Walker;/players/w/walkejo02.shtml;RF;5;1;1;0;0;1;5;.326;.370;.512;.881;18;12;-0.049; 0.69;0.033;-0.082;-0.02%; 0.49; -0.6;3;0;
+Juan Yepez;/players/y/yepezju01.shtml;DH;4;1;2;1;0;0;4;.333;.333;.583;.917;15;9;0.073; 1.03;0.131;-0.057; 0.03%; 0.74; 0.9;;;HR
+Taylor Motter;/players/m/motteta01.shtml;2B;2;0;0;0;0;1;2;.222;.300;.333;.633;12;7;-0.057; 1.12;0.000;-0.057;-0.02%; 0.80; -0.7;1;3;
+Nolan Gorman;/players/g/gormano01.shtml;PH-2B;2;1;1;1;0;0;2;.321;.457;.714;1.171;3;3;0.295; 1.64;0.317;-0.023; 0.13%; 1.17; 0.7;0;0;HR
+Miles Mikolas;/players/m/mikolmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Génesis Cabrera;/players/c/cabrege01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Giovanny Gallegos;/players/g/gallegi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Helsley;/players/h/helslry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Tommy Edman (1, off Kyle Freeland); Nolan Arenado (2, off Dinelson Lamet).
+
+
+HR: Tommy Edman (1, off Kyle Freeland, 1st inn, 0 on, 1 out to Deep RF); Juan Yepez (1, off Kyle Freeland, 3rd inn, 0 on, 0 outs to Deep LF Line); Nolan Gorman (3, off Pierce Johnson, 9th inn, 0 on, 0 outs to Deep CF-RF).
+
+
+SH: Tommy Edman (1, off Pierce Johnson).
+
+
+TB: Tommy Edman 7; Juan Yepez 5; Nolan Gorman 4; Nolan Arenado 3; Jordan Walker; Tyler O'Neill; Paul Goldschmidt.
+
+
+GIDP: Tyler O'Neill (2); Willson Contreras (3).
+
+
+RBI: Nolan Arenado 3 (11); Paul Goldschmidt 2 (6); Nolan Gorman (8); Tommy Edman (1); Tyler O'Neill (3); Juan Yepez (1).
+
+
+2-out RBI: Nolan Arenado 3; Tyler O'Neill; Paul Goldschmidt.
+
+
+Team LOB: 7.
+With RISP: 3 for 7.
+
+Pitching home
+Kyle Freeland;/players/f/freelky01.shtml;Kyle Freeland; 6 ;6;2;2;2;5;2;0.96;24;83;50;28;11;11;7;10;3;0;55;;;0.108; 0.87; 0.06%; 0.76; 1.6
+Jake Bird;/players/b/birdja01.shtml;Jake Bird; 0.2;1;3;0;1;0;0;9.95;5;17;8;7;0;1;1;3;1;0;;0;0;-0.024; 0.81;-0.01%; 0.71; -0.2
+Dinelson Lamet;/players/l/lametdi01.shtml; BS (1); 1.1;1;1;1;1;3;0;6.75;6;30;17;6;5;6;0;2;1;0;;3;3;-0.192; 2.00;-0.10%; 1.73; -2.6
+Pierce Johnson;/players/j/johnspi01.shtml; L (0-1); 0.2;3;3;3;2;0;1;7.71;7;20;11;6;3;2;2;3;1;0;;0;0;-0.458; 0.99;-0.24%; 0.86; -3.0
+Connor Seabold;/players/s/seaboco01.shtml;Connor Seabold; 0.1;0;0;0;0;0;0;7.94;1;2;2;1;0;1;0;1;0;0;;2;0;0.011; 0.37; 0.01%; 0.32; 0.6
+
+Pitching away
+Miles Mikolas;/players/m/mikolmi01.shtml;Miles Mikolas; 5 ;10;6;6;2;3;3;10.05;27;89;59;37;9;12;8;13;8;0;24;;;-0.335; 1.20;-0.14%; 0.85; -3.0
+Génesis Cabrera;/players/c/cabrege01.shtml;Génesis Cabrera; 1.2;0;0;0;0;3;0;0.00;5;18;12;5;3;4;0;2;0;0;;0;0;0.086; 0.64; 0.04%; 0.46; 1.1
+Giovanny Gallegos;/players/g/gallegi01.shtml; W (1-0); 1.1;0;0;0;0;2;0;0.00;4;17;10;3;5;2;0;2;1;0;;0;0;0.141; 1.31; 0.06%; 0.94; 0.7
+Ryan Helsley;/players/h/helslry01.shtml; S (2); 1 ;2;0;0;0;2;0;3.86;5;18;12;5;4;3;0;3;2;0;;0;0;0.053; 2.30; 0.02%; 1.65; 0.6
+
+indiv_events
+
+Balks: None.
+WP: Miles Mikolas (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Miles Mikolas (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Dan Bellino, 1B - Phil Cuzzi, 2B - Mark Ripperger, 3B - Shane Livensparger, LF - (none), RF - (none).
+Time of Game: 2:37.
+Attendance: 25,399.
+Field Condition: Unknown.
+Start Time Weather: 82° F, Wind 8mph in from Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Cardinals
+1;Brendan Donovan;/players/d/donovbr01.shtml;LF
+2;Tommy Edman;/players/e/edmanto01.shtml;SS
+3;Paul Goldschmidt;/players/g/goldspa01.shtml;1B
+4;Nolan Arenado;/players/a/arenano01.shtml;3B
+5;Willson Contreras;/players/c/contrwi01.shtml;C
+6;Tyler O'Neill;/players/o/oneilty01.shtml;CF
+7;Jordan Walker;/players/w/walkejo02.shtml;RF
+8;Juan Yepez;/players/y/yepezju01.shtml;DH
+9;Taylor Motter;/players/m/motteta01.shtml;2B
+; Miles Mikolas;/players/m/mikolmi01.shtml;P
+Rockies
+1;Jurickson Profar;/players/p/profaju01.shtml;LF
+2;Kris Bryant;/players/b/bryankr01.shtml;RF
+3;Ryan McMahon;/players/m/mcmahry01.shtml;2B
+4;C.J. Cron;/players/c/croncj01.shtml;1B
+5;Mike Moustakas;/players/m/moustmi01.shtml;DH
+6;Elias Díaz;/players/d/diazel01.shtml;C
+7;Harold Castro;/players/c/castrha01.shtml;3B
+8;Yonathan Daza;/players/d/dazayo01.shtml;CF
+9;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+; Kyle Freeland;/players/f/freelky01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t9;6-6;0;---;1,(0-0) .X;R;STL;Nolan Gorman;Pierce Johnson;32%;82%;Home Run (Fly Ball to Deep CF-RF)
+t7;3-6;2;123;5,(3-1) FBBBX;RRR;STL;Nolan Arenado;Dinelson Lamet;31%;47%;Double to LF (Line Drive to Deep LF Line); Donovan Scores/unER; Edman Scores/unER; Goldschmidt Scores/Team unER
+b5;1-2;0;12-;2,(1-0) BX;RRR;COL;Ryan McMahon;Miles Mikolas;-24%;20%;Home Run (Fly Ball to Deep CF); Profar Scores; Bryant Scores
+b4;0-2;1;---;1,(0-0) X;R;COL;Elias Díaz;Miles Mikolas;-11%;59%;Home Run (Fly Ball to Deep CF)
+b9;6-9;0;1--;6,(2-2) C*BSFBX;;COL;Kris Bryant;Ryan Helsley;-10%;79%;Single to RF (Line Drive); Profar to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Cardinals Batting, Tied 0-0, Rockies' Kyle Freeland facing 1-2-3 
+t1;0-0;0;---;6,(3-2) BCBF.BS;O;STL;Brendan Donovan;Kyle Freeland;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;2,(0-1) CX;R;STL;Tommy Edman;Kyle Freeland;9%;57%;Home Run (Fly Ball to Deep RF)
+t1;1-0;1;---;1,(0-0) X;O;STL;Paul Goldschmidt;Kyle Freeland;-2%;55%;Popfly: 1B (Deep 1B)
+t1;1-0;2;---;5,(2-2) BBCS*S;O;STL;Nolan Arenado;Kyle Freeland;-1%;54%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Cardinals 1, Rockies 0.
+Bottom of the 1st, Rockies Batting, Behind 0-1, Cardinals' Miles Mikolas facing 1-2-3 
+b1;0-1;0;---;8,(3-2) CBCBFFBX;O;COL;Jurickson Profar;Miles Mikolas;2%;56%;Flyball: CF (Deep CF)
+b1;0-1;1;---;2,(1-0) BX;;COL;Kris Bryant;Miles Mikolas;-3%;54%;Reached on E5 (Ground Ball to SS-3B Hole); Bryant to 1B
+b1;0-1;1;1--;4,(1-2) CS.*BX;;COL;Ryan McMahon;Miles Mikolas;-4%;50%;Single to CF (Line Drive to Deep CF); Bryant to 2B
+b1;0-1;1;12-;1,(0-0) X;OO;COL;C.J. Cron;Miles Mikolas;9%;59%;Ground Ball Double Play: 3B-2B-1B
+;;;;;;;;;0 runs, 1 hit, 1 error, 1 LOB. Cardinals 1, Rockies 0.
+Top of the 2nd, Cardinals Batting, Ahead 1-0, Rockies' Kyle Freeland facing 5-6-7 
+t2;1-0;0;---;6,(3-2) BCBBFB;;STL;Willson Contreras;Kyle Freeland;3%;63%;Walk
+t2;1-0;0;1--;4,(2-1) BBCX;OO;STL;Tyler O'Neill;Kyle Freeland;-7%;56%;Ground Ball Double Play: SS-2B-1B
+t2;1-0;2;---;6,(2-2) FBF.BFX;O;STL;Jordan Walker;Kyle Freeland;-1%;54%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 1, Rockies 0.
+Bottom of the 2nd, Rockies Batting, Behind 0-1, Cardinals' Miles Mikolas facing 5-6-7 
+b2;0-1;0;---;5,(3-1) BCBBB;;COL;Mike Moustakas;Miles Mikolas;-4%;51%;Walk
+b2;0-1;0;1--;5,(2-2) CBFBC;O;COL;Elias Díaz;Miles Mikolas;4%;54%;Strikeout Looking
+b2;0-1;1;1--;3,(0-2) FSX;;COL;Harold Castro;Miles Mikolas;-4%;50%;Single to RF (Line Drive to CF-RF); Moustakas to 2B
+b2;0-1;1;12-;2,(0-1) .CX;OO;COL;Yonathan Daza;Miles Mikolas;10%;60%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cardinals 1, Rockies 0.
+Top of the 3rd, Cardinals Batting, Ahead 1-0, Rockies' Kyle Freeland facing 8-9-1 
+t3;1-0;0;---;2,(0-1) SX;R;STL;Juan Yepez;Kyle Freeland;9%;70%;Home Run (Fly Ball to Deep LF Line)
+t3;2-0;0;---;5,(3-1) BBBCX;O;STL;Taylor Motter;Kyle Freeland;-2%;68%;Flyball: LF (LF Line)
+t3;2-0;1;---;4,(1-2) BSC.X;O;STL;Brendan Donovan;Kyle Freeland;-1%;66%;Groundout: 1B unassisted
+t3;2-0;2;---;3,(1-1) BFX;;STL;Tommy Edman;Kyle Freeland;1%;67%;Single to CF (Ground Ball thru SS-2B)
+t3;2-0;2;1--;2,(1-0) BX;O;STL;Paul Goldschmidt;Kyle Freeland;-2%;65%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Cardinals 2, Rockies 0.
+Bottom of the 3rd, Rockies Batting, Behind 0-2, Cardinals' Miles Mikolas facing 9-1-2 
+b3;0-2;0;---;2,(0-1) FX;;COL;Ezequiel Tovar;Miles Mikolas;-4%;61%;Single to CF (Line Drive)
+b3;0-2;0;1--;3,(1-1) BCX;;COL;Jurickson Profar;Miles Mikolas;-6%;54%;Reached on Interference on C; Tovar to 2B; Profar to 1B
+b3;0-2;0;12-;4,(0-2) FFFX;O;COL;Kris Bryant;Miles Mikolas;6%;61%;Groundout: 3B unassisted/Forceout at 3B (Weak 3B); Profar to 2B; Bryant to 1B
+b3;0-2;1;12-;6,(3-2) FBS.BBS;O;COL;Ryan McMahon;Miles Mikolas;5%;66%;Strikeout Swinging
+b3;0-2;2;12-;2,(0-1) SX;O;COL;C.J. Cron;Miles Mikolas;5%;71%;Groundout: SS unassisted/Forceout at 2B (SS-2B); Cron to 1B
+;;;;;;;;;0 runs, 1 hit, 1 error, 2 LOB. Cardinals 2, Rockies 0.
+Top of the 4th, Cardinals Batting, Ahead 2-0, Rockies' Kyle Freeland facing 4-5-6 
+t4;2-0;0;---;4,(3-0) BBBB;;STL;Nolan Arenado;Kyle Freeland;3%;74%;Walk
+t4;2-0;0;1--;2,(1-0) BX;O;STL;Willson Contreras;Kyle Freeland;-3%;71%;Foul Popfly: C (Behind Home)
+t4;2-0;1;1--;4,(1-2) FF*B*S;O;STL;Tyler O'Neill;Kyle Freeland;-3%;69%;Strikeout Swinging
+t4;2-0;2;1--;1,(0-0) X;O;STL;Jordan Walker;Kyle Freeland;-2%;67%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Cardinals 2, Rockies 0.
+Bottom of the 4th, Rockies Batting, Behind 0-2, Cardinals' Miles Mikolas facing 5-6-7 
+b4;0-2;0;---;5,(1-2) CCBFS;O;COL;Mike Moustakas;Miles Mikolas;3%;70%;Strikeout Swinging
+b4;0-2;1;---;1,(0-0) X;R;COL;Elias Díaz;Miles Mikolas;-11%;59%;Home Run (Fly Ball to Deep CF)
+b4;1-2;1;---;2,(1-0) BX;O;COL;Harold Castro;Miles Mikolas;2%;61%;Groundout: 2B-1B (2B-1B)
+b4;1-2;2;---;4,(1-2) BFF.X;;COL;Yonathan Daza;Miles Mikolas;-2%;59%;Single to CF (Line Drive to Deep CF-RF)
+b4;1-2;2;1--;1,(0-0) X;O;COL;Ezequiel Tovar;Miles Mikolas;3%;63%;Groundout: P-1B (Front of Home)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Cardinals 2, Rockies 1.
+Top of the 5th, Cardinals Batting, Ahead 2-1, Rockies' Kyle Freeland facing 8-9-1 
+t5;2-1;0;---;4,(2-1) CBBX;;STL;Juan Yepez;Kyle Freeland;4%;66%;Single to LF (Line Drive to Deep LF Line)
+t5;2-1;0;1--;7,(2-2) BFBSFFS;O;STL;Taylor Motter;Kyle Freeland;-4%;63%;Strikeout Swinging
+t5;2-1;1;1--;4,(1-2) 1CBCS;O;STL;Brendan Donovan;Kyle Freeland;-3%;59%;Strikeout Swinging
+t5;2-1;2;1--;1,(0-0) X;;STL;Tommy Edman;Kyle Freeland;4%;63%;Double to CF (Line Drive to Deep CF-RF); Yepez to 3B
+t5;2-1;2;-23;3,(1-1) CBX;O;STL;Paul Goldschmidt;Kyle Freeland;-7%;57%;Lineout: 3B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Cardinals 2, Rockies 1.
+Bottom of the 5th, Rockies Batting, Behind 1-2, Cardinals' Miles Mikolas facing 1-2-3 
+b5;1-2;0;---;7,(3-2) TBBBSFB;;COL;Jurickson Profar;Miles Mikolas;-5%;51%;Walk
+b5;1-2;0;1--;2,(1-0) BX;;COL;Kris Bryant;Miles Mikolas;-8%;44%;Single to LF (Line Drive); Profar to 2B
+b5;1-2;0;12-;2,(1-0) BX;RRR;COL;Ryan McMahon;Miles Mikolas;-24%;20%;Home Run (Fly Ball to Deep CF); Profar Scores; Bryant Scores
+b5;4-2;0;---;4,(1-2) SFBX;R;COL;C.J. Cron;Miles Mikolas;-7%;13%;Home Run (Fly Ball to Deep LF)
+b5;5-2;0;---;2,(0-1) SX;;COL;Mike Moustakas;Miles Mikolas;-3%;10%;Double to LF (Line Drive to Deep LF Line)
+b5;5-2;0;-2-;2,(1-0) BX;;COL;Elias Díaz;Miles Mikolas;-3%;8%;Single to RF (Line Drive to Deep RF); Moustakas to 3B
+b5;5-2;0;1-3;2,(1-0) *BX;O;COL;Harold Castro;Miles Mikolas;2%;9%;Groundout: 1B unassisted (Weak 1B); Díaz to 2B
+b5;5-2;1;-23;2,(0-1) CX;RO;COL;Yonathan Daza;Miles Mikolas;-1%;9%;Flyball: RF/Sacrifice Fly (CF-RF); Moustakas Scores
+b5;6-2;2;-2-;4,(1-2) FBCB;;COL;Ezequiel Tovar;Miles Mikolas;0%;8%;Wild Pitch; Díaz to 3B
+b5;6-2;2;--3;6,(3-2) FBCB.*BX;O;COL;Ezequiel Tovar;Miles Mikolas;1%;10%;Lineout: RF (Deep RF)
+;;;;;;;;;5 runs, 5 hits, 0 errors, 1 LOB. Cardinals 2, Rockies 6.
+Top of the 6th, Cardinals Batting, Behind 2-6, Rockies' Kyle Freeland facing 4-5-6 
+t6;2-6;0;---;1,(0-0) X;;STL;Nolan Arenado;Kyle Freeland;3%;13%;Single to SS (Ground Ball to SS-3B Hole)
+t6;2-6;0;1--;2,(0-1) SX;OO;STL;Willson Contreras;Kyle Freeland;-6%;7%;Ground Ball Double Play: SS-2B-1B
+t6;2-6;2;---;4,(2-1) BSBX;O;STL;Tyler O'Neill;Kyle Freeland;-1%;6%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Cardinals 2, Rockies 6.
+Bottom of the 6th, Rockies Batting, Ahead 6-2, Cardinals' Génesis Cabrera facing 1-2-3 
+;;;;;;;;;Génesis Cabrera replaces Miles Mikolas pitching
+b6;6-2;0;---;4,(2-1) .BBFX;O;COL;Jurickson Profar;Génesis Cabrera;1%;6%;Flyball: RF (Deep RF)
+b6;6-2;1;---;2,(1-0) BX;O;COL;Kris Bryant;Génesis Cabrera;0%;7%;Flyball: LF (LF-CF)
+b6;6-2;2;---;3,(0-2) CF.C;O;COL;Ryan McMahon;Génesis Cabrera;0%;7%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 2, Rockies 6.
+Top of the 7th, Cardinals Batting, Behind 2-6, Rockies' Jake Bird facing 7-8-9 
+;;;;;;;;;Jake Bird replaces Kyle Freeland pitching
+t7;2-6;0;---;4,(2-1) .FBBX;;STL;Jordan Walker;Jake Bird;3%;10%;Single to LF (Line Drive)
+t7;2-6;0;1--;4,(2-1) FBBX;O;STL;Juan Yepez;Jake Bird;-3%;7%;Popfly: 2B (Deep 2B-1B)
+;;;;;;;;;Nolan Gorman pinch hits for Taylor Motter (2B) batting 9th
+t7;2-6;1;1--;2,(0-1) .F1X;O;STL;Nolan Gorman;Jake Bird;-2%;5%;Flyball: RF (Short CF-RF)
+t7;2-6;2;1--;2,(1-0) BB;;STL;Brendan Donovan;Jake Bird;0%;5%;Passed Ball; Walker to 2B
+t7;2-6;2;-2-;4,(3-0) BB.BB;;STL;Brendan Donovan;Jake Bird;1%;6%;Walk
+t7;2-6;2;12-;3,(1-1) CBX;;STL;Tommy Edman;Jake Bird;3%;10%;Reached on E4 (Ground Ball to 2B-1B); Walker to 3B; Donovan to 2B; Edman to 1B
+;;;;;;;;;Dinelson Lamet replaces Jake Bird pitching
+t7;2-6;2;123;5,(3-1) .BBSBB;R;STL;Paul Goldschmidt;Dinelson Lamet;6%;16%;Walk; Walker Scores/unER; Donovan to 3B; Edman to 2B
+t7;3-6;2;123;5,(3-1) FBBBX;RRR;STL;Nolan Arenado;Dinelson Lamet;31%;47%;Double to LF (Line Drive to Deep LF Line); Donovan Scores/unER; Edman Scores/unER; Goldschmidt Scores/Team unER
+t7;6-6;2;-2-;3,(0-2) CSS;O;STL;Willson Contreras;Dinelson Lamet;-6%;40%;Strikeout Swinging
+;;;;;;;;;4 runs, 2 hits, 1 error, 1 LOB. Cardinals 6, Rockies 6.
+Bottom of the 7th, Rockies Batting, Tied 6-6, Cardinals' Génesis Cabrera facing 4-5-6 
+;;;;;;;;;Nolan Gorman moves from PH to 2B 
+b7;6-6;0;---;4,(1-2) .CSB*S;O;COL;C.J. Cron;Génesis Cabrera;4%;45%;Strikeout Swinging
+b7;6-6;1;---;5,(2-2) CBFBS;O;COL;Mike Moustakas;Génesis Cabrera;3%;48%;Strikeout Swinging
+;;;;;;;;;Giovanny Gallegos replaces Génesis Cabrera pitching
+b7;6-6;2;---;5,(2-2) .BSS.BX;O;COL;Elias Díaz;Giovanny Gallegos;2%;50%;Lineout: LF (Deep LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 6, Rockies 6.
+Top of the 8th, Cardinals Batting, Tied 6-6, Rockies' Dinelson Lamet facing 6-7-8 
+t8;6-6;0;---;7,(2-2) BSCFBFC;O;STL;Tyler O'Neill;Dinelson Lamet;-5%;45%;Strikeout Looking
+t8;6-6;1;---;5,(2-2) CF.BB*S;O;STL;Jordan Walker;Dinelson Lamet;-4%;41%;Strikeout Swinging
+t8;6-6;2;---;5,(2-2) CC.BBX;O;STL;Juan Yepez;Dinelson Lamet;-3%;38%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 6, Rockies 6.
+Bottom of the 8th, Rockies Batting, Tied 6-6, Cardinals' Giovanny Gallegos facing 7-8-9 
+b8;6-6;0;---;5,(2-2) BCBS*S;O;COL;Harold Castro;Giovanny Gallegos;5%;43%;Strikeout Swinging; Castro out at 1B/C-1B
+b8;6-6;1;---;1,(0-0) X;O;COL;Yonathan Daza;Giovanny Gallegos;4%;47%;Flyball: LF (Deep LF-CF)
+b8;6-6;2;---;6,(3-2) FSBBBC;O;COL;Ezequiel Tovar;Giovanny Gallegos;3%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 6, Rockies 6.
+Top of the 9th, Cardinals Batting, Tied 6-6, Rockies' Pierce Johnson facing 9-1-2 
+;;;;;;;;;Pierce Johnson replaces Dinelson Lamet pitching
+t9;6-6;0;---;1,(0-0) .X;R;STL;Nolan Gorman;Pierce Johnson;32%;82%;Home Run (Fly Ball to Deep CF-RF)
+t9;7-6;0;---;6,(3-2) BBBCFB;;STL;Brendan Donovan;Pierce Johnson;3%;84%;Walk
+t9;7-6;0;1--;1,(0-0) X;O;STL;Tommy Edman;Pierce Johnson;-1%;83%;Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Donovan to 2B
+t9;7-6;1;-2-;1,(0-0) X;R;STL;Paul Goldschmidt;Pierce Johnson;8%;91%;Single to RF (Ground Ball thru 2B-1B); Donovan Scores
+t9;8-6;1;1--;4,(1-2) BSSX;O;STL;Nolan Arenado;Pierce Johnson;-1%;90%;Flyball: CF (Deep CF-RF)
+t9;8-6;2;1--;5,(3-1) BBCBB;;STL;Willson Contreras;Pierce Johnson;1%;91%;Walk; Goldschmidt to 2B
+t9;8-6;2;12-;2,(0-1) SX;R;STL;Tyler O'Neill;Pierce Johnson;5%;96%;Single to RF (Line Drive to RF Line); Goldschmidt Scores; Contreras to 3B
+;;;;;;;;;Connor Seabold replaces Pierce Johnson pitching
+t9;9-6;2;1-3;2,(0-1) .CX;O;STL;Jordan Walker;Connor Seabold;-1%;95%;Flyball: CF
+;;;;;;;;;3 runs, 3 hits, 0 errors, 2 LOB. Cardinals 9, Rockies 6.
+Bottom of the 9th, Rockies Batting, Behind 6-9, Cardinals' Ryan Helsley facing 1-2-3 
+;;;;;;;;;Ryan Helsley replaces Giovanny Gallegos pitching
+b9;6-9;0;---;2,(1-0) .BX;;COL;Jurickson Profar;Ryan Helsley;-5%;89%;Single to CF (Line Drive to Deep CF-RF)
+b9;6-9;0;1--;6,(2-2) C*BSFBX;;COL;Kris Bryant;Ryan Helsley;-10%;79%;Single to RF (Line Drive); Profar to 2B
+b9;6-9;0;12-;5,(2-2) *SC.*BBC;O;COL;Ryan McMahon;Ryan Helsley;9%;88%;Strikeout Looking
+b9;6-9;1;12-;2,(1-0) BX;O;COL;C.J. Cron;Ryan Helsley;7%;95%;Flyball: CF (Deep CF)
+b9;6-9;2;12-;3,(0-2) SFS;O;COL;Mike Moustakas;Ryan Helsley;5%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Cardinals 9, Rockies 6.

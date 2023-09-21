@@ -1,0 +1,268 @@
+
+Scorebox Meta
+20230406
+1:10 p.m. Local
+10401
+Kauffman Stadium
+150
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/TOR-2023.png;/teams/TOR/2023.shtml;2;1;0;1;1;0;1;0;0;6;11;0
+https://cdn.ssref.net/req/202308101/tlogo/br/KCR-2023.png;/teams/KCR/2023.shtml;0;0;0;0;0;0;0;3;0;3;8;0
+
+Batting home
+Bobby Witt;/players/w/wittbo02.shtml;SS;5;1;2;1;0;1;5;.154;.241;.269;.511;26;18;-0.034; 0.52;0.026;-0.060;-0.01%; 0.39; 0.6;1;1;HR
+MJ Melendez;/players/m/melenmj01.shtml;C;3;1;0;0;2;2;5;.095;.269;.286;.555;27;16;-0.001; 0.51;0.039;-0.041;-0.00%; 0.38; 0.3;12;1;
+Salvador Perez;/players/p/perezsa02.shtml;DH;4;1;1;0;0;0;4;.261;.292;.348;.639;6;5;-0.001; 0.70;0.042;-0.043;-0.00%; 0.53; 0.4;;;
+Vinnie Pasquantino;/players/p/pasquvi01.shtml;1B;4;0;1;1;0;1;4;.143;.280;.190;.470;19;13;0.007; 0.86;0.068;-0.060; 0.00%; 0.65; 0.0;8;0;
+Edward Olivares;/players/o/olivaed02.shtml;LF;4;0;2;1;0;1;4;.267;.313;.533;.846;15;9;0.113; 0.90;0.142;-0.029; 0.05%; 0.67; 1.1;2;0;2B
+Michael Massey;/players/m/massemi02.shtml;2B;3;0;1;0;0;1;3;.158;.158;.211;.368;11;7;0.004; 0.40;0.022;-0.018; 0.00%; 0.29; 0.3;1;2;
+Franmil Reyes;/players/r/reyesfr01.shtml;PH;1;0;0;0;0;0;1;.077;.250;.308;.558;2;2;-0.084; 2.98;0.000;-0.084;-0.04%; 2.22; -0.6;;;
+Nicky Lopez;/players/l/lopezni01.shtml;2B;0;0;0;0;0;0;0;.111;.385;.333;.718;;;;;;;;;;0;0;
+Hunter Dozier;/players/d/doziehu01.shtml;3B;3;0;0;0;1;3;4;.059;.111;.059;.170;14;9;-0.129; 1.15;0.007;-0.136;-0.06%; 0.85; -1.5;0;2;
+Nick Pratto;/players/p/prattni01.shtml;RF;4;0;1;0;0;2;4;.143;.143;.143;.286;13;9;-0.067; 0.97;0.026;-0.094;-0.03%; 0.72; -1.0;2;0;
+Nate Eaton;/players/e/eatonna01.shtml;CF;4;0;0;0;0;1;4;.000;.000;.000;.000;8;7;-0.077; 0.76;0.000;-0.077;-0.03%; 0.56; -1.3;1;0;
+Jordan Lyles;/players/l/lylesjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Amir Garrett;/players/g/garream01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jose Cuas;/players/c/cuasjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Scott Barlow;/players/b/barlosc01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Edward Olivares (1, off Tim Mayza).
+
+
+HR: Bobby Witt (1, off Trevor Richards, 8th inn, 0 on, 0 outs to Deep LF Line).
+
+
+TB: Bobby Witt 5; Edward Olivares 3; Michael Massey; Vinnie Pasquantino; Salvador Perez; Nick Pratto.
+
+
+RBI: Edward Olivares (3); Vinnie Pasquantino (2); Bobby Witt (3).
+
+
+Team LOB: 8.
+With RISP: 2 for 10.
+
+Batting away
+Bo Bichette;/players/b/bichebo01.shtml;SS;5;1;2;1;0;1;5;.324;.343;.441;.784;21;18;0.047; 0.46;0.080;-0.033; 0.03%; 0.42; 0.5;1;0;
+Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;DH;5;2;3;1;0;0;5;.407;.500;.667;1.167;13;10;0.055; 0.31;0.072;-0.017; 0.03%; 0.28; 1.3;;;HR
+Daulton Varsho;/players/v/varshda01.shtml;LF;4;1;2;1;0;2;4;.357;.406;.571;.978;20;14;0.078; 0.51;0.095;-0.018; 0.04%; 0.47; 1.5;2;0;2B
+Matt Chapman;/players/c/chapmma01.shtml;3B;4;0;1;2;0;1;4;.481;.517;.704;1.221;13;8;0.101; 0.52;0.116;-0.015; 0.06%; 0.47; 0.6;0;2;2B
+Whit Merrifield;/players/m/merriwh01.shtml;2B;4;0;1;0;0;0;4;.235;.333;.294;.627;10;8;-0.031; 0.37;0.006;-0.037;-0.02%; 0.34; -0.6;1;0;
+Brandon Belt;/players/b/beltbr01.shtml;1B;4;0;0;0;0;3;4;.053;.143;.105;.248;20;11;-0.045; 0.42;0.000;-0.045;-0.03%; 0.39; -1.2;6;1;
+Danny Jansen;/players/j/janseda01.shtml;C;4;0;0;0;0;3;4;.067;.125;.067;.192;15;11;-0.031; 0.33;0.000;-0.031;-0.02%; 0.30; -0.8;12;0;
+Cavan Biggio;/players/b/biggica01.shtml;RF;4;1;1;1;0;2;4;.231;.412;.462;.873;20;14;0.050; 0.25;0.070;-0.020; 0.03%; 0.23; 0.4;2;0;HR
+George Springer;/players/s/springe01.shtml;RF;0;0;0;0;0;0;0;.241;.290;.241;.532;;;;;;;;;;0;0;
+Kevin Kiermaier;/players/k/kiermke01.shtml;CF;4;1;1;0;0;0;4;.381;.381;.429;.810;17;11;0.006; 0.19;0.018;-0.011; 0.00%; 0.17; -0.4;2;0;2B
+Kevin Gausman;/players/g/gausmke01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Anthony Bass;/players/b/bassan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Richards;/players/r/richatr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tim Mayza;/players/m/mayzati01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yimi García;/players/g/garciyi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Cimber;/players/c/cimbead01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Daulton Varsho (3, off Jordan Lyles); Matt Chapman (6, off Jordan Lyles); Kevin Kiermaier (1, off Jordan Lyles).
+
+
+HR: Cavan Biggio (1, off Jordan Lyles, 4th inn, 0 on, 2 outs to Deep RF); Vladimir Guerrero Jr. (2, off Jordan Lyles, 5th inn, 0 on, 1 out to Deep LF-CF).
+
+
+TB: Vladimir Guerrero Jr. 6; Cavan Biggio 4; Daulton Varsho 3; Matt Chapman 2; Kevin Kiermaier 2; Bo Bichette 2; Whit Merrifield.
+
+
+RBI: Matt Chapman 2 (7); Vladimir Guerrero Jr. (6); Daulton Varsho (4); Bo Bichette (3); Cavan Biggio (1).
+
+
+2-out RBI: Cavan Biggio; Bo Bichette.
+
+
+Team LOB: 5.
+With RISP: 3 for 8.
+
+Pitching home
+Jordan Lyles;/players/l/lylesjo01.shtml; L (0-2); 5.2;8;5;5;0;9;2;4.91;25;106;73;44;9;20;6;10;5;0;42;;;-0.235; 0.51;-0.10%; 0.38; -2.2
+Amir Garrett;/players/g/garream01.shtml;Amir Garrett; 0.1;0;0;0;0;1;0;6.00;1;5;3;0;1;2;0;0;0;0;;1;0;0.007; 0.23; 0.00%; 0.17; 0.3
+Jose Cuas;/players/c/cuasjo01.shtml;Jose Cuas; 2 ;3;1;1;0;1;0;3.86;9;28;20;13;5;2;3;5;3;0;;0;0;-0.010; 0.09;-0.00%; 0.07; 0.0
+Scott Barlow;/players/b/barlosc01.shtml;Scott Barlow; 1 ;0;0;0;0;1;0;0.00;3;10;9;3;2;4;1;1;0;0;;0;0;0.008; 0.11; 0.00%; 0.08; 0.5
+
+Pitching away
+Kevin Gausman;/players/g/gausmke01.shtml; W (1-1); 6 ;4;0;0;2;7;0;0.00;24;86;56;32;9;15;4;11;4;0;69;;;0.206; 0.62; 0.11%; 0.57; 2.1
+Anthony Bass;/players/b/bassan01.shtml;Anthony Bass; 1 ;0;0;0;0;2;0;3.86;3;8;7;2;3;2;1;0;0;0;;2;0;0.046; 0.63; 0.03%; 0.58; 1.5
+Trevor Richards;/players/r/richatr01.shtml;Trevor Richards; 0 ;2;3;3;1;0;1;13.50;3;16;10;6;0;4;0;2;1;0;;0;0;-0.069; 0.36;-0.04%; 0.33; -2.3
+Tim Mayza;/players/m/mayzati01.shtml;Tim Mayza; 0.1;2;0;0;0;0;0;3.38;3;6;4;3;0;1;1;2;2;0;;2;2;-0.114; 2.16;-0.06%; 1.98; -1.6
+Yimi García;/players/g/garciyi01.shtml; H (2); 0.2;0;0;0;0;2;0;6.00;2;11;7;3;3;1;0;0;0;0;;2;0;0.159; 2.40; 0.09%; 2.21; 1.4
+Adam Cimber;/players/c/cimbead01.shtml; S (1); 1 ;0;0;0;0;1;0;0.00;3;14;11;8;1;2;2;0;0;0;;0;0;0.043; 0.55; 0.02%; 0.50; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Manny Gonzalez, 1B - Adam Hamari, 2B - Jerry Layne, 3B - Vic Carapazza, LF - (none), RF - (none).
+Time of Game: 2:30.
+Attendance: 10,401.
+Field Condition: Unknown.
+Start Time Weather: 51° F, Wind 12mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Blue Jays
+1;Bo Bichette;/players/b/bichebo01.shtml;SS
+2;Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;DH
+3;Daulton Varsho;/players/v/varshda01.shtml;LF
+4;Matt Chapman;/players/c/chapmma01.shtml;3B
+5;Whit Merrifield;/players/m/merriwh01.shtml;2B
+6;Brandon Belt;/players/b/beltbr01.shtml;1B
+7;Danny Jansen;/players/j/janseda01.shtml;C
+8;Cavan Biggio;/players/b/biggica01.shtml;RF
+9;Kevin Kiermaier;/players/k/kiermke01.shtml;CF
+; Kevin Gausman;/players/g/gausmke01.shtml;P
+Royals
+1;Bobby Witt;/players/w/wittbo02.shtml;SS
+2;MJ Melendez;/players/m/melenmj01.shtml;C
+3;Salvador Perez;/players/p/perezsa02.shtml;DH
+4;Vinnie Pasquantino;/players/p/pasquvi01.shtml;1B
+5;Edward Olivares;/players/o/olivaed02.shtml;LF
+6;Michael Massey;/players/m/massemi02.shtml;2B
+7;Hunter Dozier;/players/d/doziehu01.shtml;3B
+8;Nick Pratto;/players/p/prattni01.shtml;RF
+9;Nate Eaton;/players/e/eatonna01.shtml;CF
+; Jordan Lyles;/players/l/lylesjo01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b8;2-6;0;1-3;3,(2-0) BBX;R;KCR;Edward Olivares;Tim Mayza;-13%;72%;Double to LF (Line Drive to Deep LF Line); Perez Scores; Pasquantino to 3B
+t1;0-0;1;-23;3,(1-1) BFX;RR;TOR;Matt Chapman;Jordan Lyles;12%;70%;Double to LF (Line Drive to Deep LF); Guerrero Scores; Varsho Scores
+b8;3-6;1;-23;4,(1-2) .FFBS;O;KCR;Hunter Dozier;Yimi García;9%;90%;Strikeout Swinging
+b8;3-6;0;-23;2,(0-1) .CX;O;KCR;Franmil Reyes;Tim Mayza;8%;81%;Groundout: 3B-1B (Weak 3B)
+t1;0-0;1;1--;2,(0-1) CX;;TOR;Daulton Varsho;Jordan Lyles;8%;58%;Double to RF (Line Drive to RF Line); Guerrero to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Blue Jays Batting, Tied 0-0, Royals' Jordan Lyles facing 1-2-3 
+t1;0-0;0;---;6,(0-2) FFFFFX;O;TOR;Bo Bichette;Jordan Lyles;-2%;48%;Flyball: CF (Deep CF-RF)
+t1;0-0;1;---;4,(1-2) BFSX;;TOR;Vladimir Guerrero Jr.;Jordan Lyles;2%;50%;Single to RF (Line Drive to Short RF)
+t1;0-0;1;1--;2,(0-1) CX;;TOR;Daulton Varsho;Jordan Lyles;8%;58%;Double to RF (Line Drive to RF Line); Guerrero to 3B
+t1;0-0;1;-23;3,(1-1) BFX;RR;TOR;Matt Chapman;Jordan Lyles;12%;70%;Double to LF (Line Drive to Deep LF); Guerrero Scores; Varsho Scores
+t1;2-0;1;-2-;1,(0-0) X;O;TOR;Whit Merrifield;Jordan Lyles;-3%;67%;Popfly: 1B
+t1;2-0;2;-2-;7,(3-2) CFBB*BFS;O;TOR;Brandon Belt;Jordan Lyles;-3%;65%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Blue Jays 2, Royals 0.
+Bottom of the 1st, Royals Batting, Behind 0-2, Blue Jays' Kevin Gausman facing 1-2-3 
+b1;0-2;0;---;6,(3-2) BFFBBC;O;KCR;Bobby Witt;Kevin Gausman;2%;67%;Strikeout Looking
+b1;0-2;1;---;6,(1-2) CCBFFS;O;KCR;MJ Melendez;Kevin Gausman;2%;69%;Strikeout Swinging
+b1;0-2;2;---;1,(0-0) X;O;KCR;Salvador Perez;Kevin Gausman;1%;70%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 2, Royals 0.
+Top of the 2nd, Blue Jays Batting, Ahead 2-0, Royals' Jordan Lyles facing 7-8-9 
+t2;2-0;0;---;3,(0-2) CFC;O;TOR;Danny Jansen;Jordan Lyles;-2%;68%;Strikeout Looking
+t2;2-0;1;---;5,(1-2) FCFBC;O;TOR;Cavan Biggio;Jordan Lyles;-1%;67%;Strikeout Looking
+t2;2-0;2;---;5,(2-2) BFFBX;;TOR;Kevin Kiermaier;Jordan Lyles;2%;69%;Double to P (Ground Ball to SS-2B)
+t2;2-0;2;-2-;4,(1-2) FBFX;R;TOR;Bo Bichette;Jordan Lyles;8%;76%;Single to RF (Line Drive); Kiermaier Scores
+t2;3-0;2;1--;1,(0-0) X;O;TOR;Vladimir Guerrero Jr.;Jordan Lyles;-1%;75%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Guerrero to 1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Blue Jays 3, Royals 0.
+Bottom of the 2nd, Royals Batting, Behind 0-3, Blue Jays' Kevin Gausman facing 4-5-6 
+b2;0-3;0;---;6,(2-2) BCFFBX;O;KCR;Vinnie Pasquantino;Kevin Gausman;2%;77%;Groundout: P-1B (P's Left)
+b2;0-3;1;---;4,(1-2) SFBX;O;KCR;Edward Olivares;Kevin Gausman;2%;79%;Lineout: 1B (2B-1B)
+b2;0-3;2;---;6,(3-2) SFBBBX;O;KCR;Michael Massey;Kevin Gausman;1%;80%;Flyball: LF (Deep LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 3, Royals 0.
+Top of the 3rd, Blue Jays Batting, Ahead 3-0, Royals' Jordan Lyles facing 3-4-5 
+t3;3-0;0;---;8,(3-2) BBBCFFFC;O;TOR;Daulton Varsho;Jordan Lyles;-1%;78%;Strikeout Looking
+t3;3-0;1;---;4,(1-2) CFBC;O;TOR;Matt Chapman;Jordan Lyles;-1%;77%;Strikeout Looking
+t3;3-0;2;---;4,(1-2) CBCX;O;TOR;Whit Merrifield;Jordan Lyles;-1%;76%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 3, Royals 0.
+Bottom of the 3rd, Royals Batting, Behind 0-3, Blue Jays' Kevin Gausman facing 7-8-9 
+b3;0-3;0;---;3,(0-2) CF*S;O;KCR;Hunter Dozier;Kevin Gausman;2%;79%;Strikeout Swinging
+b3;0-3;1;---;2,(1-0) BX;;KCR;Nick Pratto;Kevin Gausman;-3%;76%;Single to CF (Line Drive to Deep CF-RF)
+b3;0-3;1;1--;1,(0-0) X;O;KCR;Nate Eaton;Kevin Gausman;3%;79%;Popfly: 2B (2B-1B)
+b3;0-3;2;1--;1,(0-0) X;O;KCR;Bobby Witt;Kevin Gausman;2%;81%;Foul Popfly: 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 3, Royals 0.
+Top of the 4th, Blue Jays Batting, Ahead 3-0, Royals' Jordan Lyles facing 6-7-8 
+t4;3-0;0;---;4,(1-2) FBFS;O;TOR;Brandon Belt;Jordan Lyles;-1%;80%;Strikeout Swinging
+t4;3-0;1;---;5,(2-2) CBBSS;O;TOR;Danny Jansen;Jordan Lyles;-1%;79%;Strikeout Swinging
+t4;3-0;2;---;8,(3-2) CCBFFBBX;R;TOR;Cavan Biggio;Jordan Lyles;7%;86%;Home Run (Fly Ball to Deep RF)
+t4;4-0;2;---;4,(2-1) BBCX;O;TOR;Kevin Kiermaier;Jordan Lyles;0%;86%;Flyball: RF
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Blue Jays 4, Royals 0.
+Bottom of the 4th, Royals Batting, Behind 0-4, Blue Jays' Kevin Gausman facing 2-3-4 
+b4;0-4;0;---;7,(2-2) CCBFFBX;O;KCR;MJ Melendez;Kevin Gausman;2%;88%;Flyball: RF (Deep RF)
+b4;0-4;1;---;1,(0-0) X;O;KCR;Salvador Perez;Kevin Gausman;1%;89%;Flyball: RF (CF-RF)
+b4;0-4;2;---;7,(2-2) CBCBFFS;O;KCR;Vinnie Pasquantino;Kevin Gausman;1%;90%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 4, Royals 0.
+Top of the 5th, Blue Jays Batting, Ahead 4-0, Royals' Jordan Lyles facing 1-2-3 
+t5;4-0;0;---;4,(1-2) BCSX;O;TOR;Bo Bichette;Jordan Lyles;-1%;89%;Groundout: C-1B
+t5;4-0;1;---;2,(1-0) BX;R;TOR;Vladimir Guerrero Jr.;Jordan Lyles;4%;93%;Home Run (Fly Ball to Deep LF-CF)
+t5;5-0;1;---;8,(3-2) BSBTBFFS;O;TOR;Daulton Varsho;Jordan Lyles;0%;93%;Strikeout Swinging
+t5;5-0;2;---;4,(2-1) BBC.X;O;TOR;Matt Chapman;Jordan Lyles;0%;93%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Blue Jays 5, Royals 0.
+Bottom of the 5th, Royals Batting, Behind 0-5, Blue Jays' Kevin Gausman facing 5-6-7 
+b5;0-5;0;---;4,(1-2) CBF*S;O;KCR;Edward Olivares;Kevin Gausman;1%;94%;Strikeout Swinging
+b5;0-5;1;---;4,(1-2) CTBS;O;KCR;Michael Massey;Kevin Gausman;1%;95%;Strikeout Swinging
+b5;0-5;2;---;4,(3-0) BBBB;;KCR;Hunter Dozier;Kevin Gausman;-1%;94%;Walk
+b5;0-5;2;1--;3,(0-2) CCC;O;KCR;Nick Pratto;Kevin Gausman;1%;95%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Blue Jays 5, Royals 0.
+Top of the 6th, Blue Jays Batting, Ahead 5-0, Royals' Jordan Lyles facing 5-6-7 
+t6;5-0;0;---;2,(0-1) CX;;TOR;Whit Merrifield;Jordan Lyles;1%;96%;Single to CF (Line Drive)
+t6;5-0;0;1--;6,(3-2) B*BBCFS;O;TOR;Brandon Belt;Jordan Lyles;-1%;95%;Strikeout Swinging
+t6;5-0;1;1--;2,(1-0) *B1>X;O;TOR;Danny Jansen;Jordan Lyles;0%;95%;Groundout: SS-1B (Weak SS); Merrifield to 2B
+;;;;;;;;;Amir Garrett replaces Jordan Lyles pitching
+t6;5-0;2;-2-;5,(2-2) .BCBSC;O;TOR;Cavan Biggio;Amir Garrett;-1%;94%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 5, Royals 0.
+Bottom of the 6th, Royals Batting, Behind 0-5, Blue Jays' Kevin Gausman facing 9-1-2 
+b6;0-5;0;---;1,(0-0) X;O;KCR;Nate Eaton;Kevin Gausman;1%;96%;Lineout: LF (LF-CF)
+b6;0-5;1;---;2,(0-1) CX;;KCR;Bobby Witt;Kevin Gausman;-1%;94%;Single to LF (Ground Ball thru SS-3B Hole)
+b6;0-5;1;1--;5,(3-1) BFBBB;;KCR;MJ Melendez;Kevin Gausman;-2%;92%;Walk; Witt to 2B
+b6;0-5;1;12-;2,(1-0) BX;O;KCR;Salvador Perez;Kevin Gausman;2%;94%;Groundout: P unassisted (Weak 1B); Witt to 3B; Melendez to 2B
+b6;0-5;2;-23;5,(2-2) SBS*BX;O;KCR;Vinnie Pasquantino;Kevin Gausman;3%;97%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Blue Jays 5, Royals 0.
+Top of the 7th, Blue Jays Batting, Ahead 5-0, Royals' Jose Cuas facing 9-1-2 
+;;;;;;;;;Jose Cuas replaces Amir Garrett pitching
+t7;5-0;0;---;5,(2-2) .SSBBX;O;TOR;Kevin Kiermaier;Jose Cuas;0%;97%;Groundout: 2B-1B (Deep 2B)
+t7;5-0;1;---;4,(1-2) CCBX;;TOR;Bo Bichette;Jose Cuas;0%;97%;Single to CF (Line Drive to CF-RF)
+t7;5-0;1;1--;2,(0-1) FX;;TOR;Vladimir Guerrero Jr.;Jose Cuas;0%;97%;Single to SS (Ground Ball); Bichette to 2B
+t7;5-0;1;12-;2,(0-1) SX;R;TOR;Daulton Varsho;Jose Cuas;1%;99%;Single to LF (Line Drive to LF Line); Bichette Scores; Guerrero to 2B
+t7;6-0;1;12-;2,(1-0) BX;O;TOR;Matt Chapman;Jose Cuas;0%;98%;Flyball: RF (Deep RF); Guerrero to 3B
+t7;6-0;2;1-3;3,(1-1) BFX;O;TOR;Whit Merrifield;Jose Cuas;0%;98%;Groundout: P-1B (Front of Home)
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Blue Jays 6, Royals 0.
+Bottom of the 7th, Royals Batting, Behind 0-6, Blue Jays' Kevin Gausman facing 5-6-7 
+b7;0-6;0;---;4,(2-1) BBFX;;KCR;Edward Olivares;Kevin Gausman;-1%;97%;Single to CF (Ground Ball thru SS-2B)
+b7;0-6;0;1--;1,(0-0) X;;KCR;Michael Massey;Kevin Gausman;-2%;95%;Single to CF (Line Drive to CF-RF); Olivares to 2B
+;;;;;;;;;Anthony Bass replaces Kevin Gausman pitching
+b7;0-6;0;12-;3,(0-2) .CSS;O;KCR;Hunter Dozier;Anthony Bass;2%;97%;Strikeout Swinging
+b7;0-6;1;12-;1,(0-0) X;O;KCR;Nick Pratto;Anthony Bass;1%;98%;Groundout: 1B-SS/Forceout at 2B; Olivares to 3B; Pratto to 1B
+b7;0-6;2;1-3;4,(1-2) *BC*ST;O;KCR;Nate Eaton;Anthony Bass;1%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Blue Jays 6, Royals 0.
+Top of the 8th, Blue Jays Batting, Ahead 6-0, Royals' Jose Cuas facing 6-7-8 
+t8;6-0;0;---;3,(2-0) BBX;O;TOR;Brandon Belt;Jose Cuas;0%;99%;Lineout: LF
+t8;6-0;1;---;5,(1-2) FSBFS;O;TOR;Danny Jansen;Jose Cuas;0%;99%;Strikeout Swinging
+t8;6-0;2;---;2,(0-1) FX;O;TOR;Cavan Biggio;Jose Cuas;0%;99%;Flyball: LF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 6, Royals 0.
+Bottom of the 8th, Royals Batting, Behind 0-6, Blue Jays' Trevor Richards facing 1-2-3 
+;;;;;;;;;Trevor Richards replaces Anthony Bass pitching
+b8;0-6;0;---;8,(2-2) .FBCFFBFX;R;KCR;Bobby Witt;Trevor Richards;-1%;98%;Home Run (Fly Ball to Deep LF Line)
+b8;1-6;0;---;6,(3-2) BCBCBB;;KCR;MJ Melendez;Trevor Richards;-2%;96%;Walk
+b8;1-6;0;1--;2,(0-1) CX;;KCR;Salvador Perez;Trevor Richards;-4%;92%;Single to RF (Line Drive to Short RF Line); Melendez to 3B
+;;;;;;;;;Tim Mayza replaces Trevor Richards pitching
+b8;1-6;0;1-3;1,(0-0) .X;R;KCR;Vinnie Pasquantino;Tim Mayza;-7%;85%;Single to RF (Line Drive to RF Line); Melendez Scores; Perez to 3B
+b8;2-6;0;1-3;3,(2-0) BBX;R;KCR;Edward Olivares;Tim Mayza;-13%;72%;Double to LF (Line Drive to Deep LF Line); Perez Scores; Pasquantino to 3B
+;;;;;;;;;Franmil Reyes pinch hits for Michael Massey (2B) batting 6th
+b8;3-6;0;-23;2,(0-1) .CX;O;KCR;Franmil Reyes;Tim Mayza;8%;81%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;Yimi García replaces Tim Mayza pitching
+b8;3-6;1;-23;4,(1-2) .FFBS;O;KCR;Hunter Dozier;Yimi García;9%;90%;Strikeout Swinging
+b8;3-6;2;-23;7,(3-2) CSFB*BBS;O;KCR;Nick Pratto;Yimi García;7%;97%;Strikeout Swinging
+;;;;;;;;;3 runs, 4 hits, 0 errors, 2 LOB. Blue Jays 6, Royals 3.
+Top of the 9th, Blue Jays Batting, Ahead 6-3, Royals' Scott Barlow facing 9-1-2 
+;;;;;;;;;Scott Barlow replaces Jose Cuas pitchingNicky Lopez replaces Franmil Reyes (PH) playing 2B batting 6th
+t9;6-3;0;---;3,(0-2) ..SCX;O;TOR;Kevin Kiermaier;Scott Barlow;0%;96%;Groundout: 1B unassisted
+t9;6-3;1;---;3,(0-2) CCS;O;TOR;Bo Bichette;Scott Barlow;0%;96%;Strikeout Swinging
+t9;6-3;2;---;4,(1-2) FCBX;O;TOR;Vladimir Guerrero Jr.;Scott Barlow;0%;96%;Popfly: SS (Deep SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 6, Royals 3.
+Bottom of the 9th, Royals Batting, Behind 3-6, Blue Jays' Adam Cimber facing 9-1-2 
+;;;;;;;;;Adam Cimber replaces Yimi García pitchingGeorge Springer replaces Cavan Biggio playing RF batting 8th
+b9;3-6;0;---;2,(0-1) ..CX;O;KCR;Nate Eaton;Adam Cimber;2%;98%;Groundout: 3B-1B
+b9;3-6;1;---;9,(3-2) CBFFFBBF.X;O;KCR;Bobby Witt;Adam Cimber;1%;100%;Groundout: P-1B (Front of Home)
+b9;3-6;2;---;3,(0-2) SFT;O;KCR;MJ Melendez;Adam Cimber;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 6, Royals 3.

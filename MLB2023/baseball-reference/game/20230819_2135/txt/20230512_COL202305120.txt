@@ -1,0 +1,264 @@
+
+Scorebox Meta
+20230512
+6:40 p.m. Local
+32038
+Coors Field
+135
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/PHI-2023.png;/teams/PHI/2023.shtml;0;0;0;0;0;0;3;3;0;6;7;1
+https://cdn.ssref.net/req/202308101/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;0;0;0;0;1;2;0;0;3;10;1
+
+Batting home
+Charlie Blackmon;/players/b/blackch02.shtml;DH;3;1;1;1;0;0;4;.276;.375;.409;.784;12;9;-0.008; 1.56;0.049;-0.056;-0.00%; 1.04; -0.3;;;SF
+Jurickson Profar;/players/p/profaju01.shtml;LF;4;0;2;0;0;0;4;.229;.318;.389;.707;11;8;0.142; 1.22;0.188;-0.046; 0.06%; 0.82; 1.0;0;0;2B
+Kris Bryant;/players/b/bryankr01.shtml;RF;4;0;2;0;0;1;4;.307;.383;.453;.836;12;7;-0.074; 1.23;0.042;-0.116;-0.03%; 0.83; -0.6;2;0;
+C.J. Cron;/players/c/croncj01.shtml;1B;3;0;0;1;0;1;4;.231;.282;.431;.712;16;11;-0.108; 1.44;0.018;-0.126;-0.04%; 0.97; -1.3;8;1;SF,GDP
+Elias Díaz;/players/d/diazel01.shtml;C;4;0;1;0;0;0;4;.330;.385;.468;.853;14;11;-0.039; 1.17;0.058;-0.096;-0.02%; 0.78; -0.4;11;0;
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;4;1;2;0;0;2;4;.213;.280;.390;.670;15;12;0.093; 1.28;0.169;-0.075; 0.04%; 0.85; 0.7;2;6;2B,CS
+Randal Grichuk;/players/g/grichra01.shtml;CF;4;1;1;0;0;2;4;.350;.409;.500;.909;13;10;0.021; 1.66;0.145;-0.125; 0.01%; 1.11; -0.3;1;1;
+Harold Castro;/players/c/castrha01.shtml;2B;2;0;0;0;0;0;2;.233;.262;.283;.545;7;3;-0.086; 1.27;0.000;-0.086;-0.03%; 0.85; -0.8;3;0;
+Alan Trejo;/players/t/trejoal01.shtml;PH-2B;1;0;0;0;0;1;1;.260;.280;.329;.609;4;3;-0.107; 3.12;0.000;-0.107;-0.04%; 2.09; -0.7;0;0;
+Mike Moustakas;/players/m/moustmi01.shtml;PH;1;0;0;0;0;1;1;.241;.323;.389;.712;3;3;-0.021; 0.66;0.000;-0.021;-0.01%; 0.44; -0.4;;;
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;3;0;1;1;0;0;3;.224;.271;.360;.631;9;7;0.113; 1.68;0.166;-0.052; 0.05%; 1.12; 0.5;0;1;
+Austin Gomber;/players/g/gombeau01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Justin Lawrence;/players/l/lawreju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brad Hand;/players/h/handbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ryan McMahon (10, off Taijuan Walker); Jurickson Profar (6, off Taijuan Walker).
+
+
+SF: C.J. Cron (2, off Taijuan Walker); Charlie Blackmon (3, off Matt Strahm).
+
+
+TB: Ryan McMahon 3; Jurickson Profar 3; Kris Bryant 2; Ezequiel Tovar; Charlie Blackmon; Randal Grichuk; Elias Díaz.
+
+
+GIDP: C.J. Cron (8).
+
+
+RBI: C.J. Cron (18); Ezequiel Tovar (17); Charlie Blackmon (14).
+
+
+Team LOB: 5.
+With RISP: 1 for 8.
+
+Batting away
+Trea Turner;/players/t/turnetr01.shtml;SS;4;1;1;0;0;2;4;.261;.304;.410;.714;21;13;-0.047; 1.18;0.052;-0.098;-0.03%; 1.07; -0.6;2;5;2B
+Alec Bohm;/players/b/bohmal01.shtml;1B;3;2;1;1;1;0;4;.271;.342;.407;.749;13;7;0.155; 1.35;0.193;-0.038; 0.08%; 1.23; 0.7;7;2;HR
+Bryce Harper;/players/h/harpebr03.shtml;DH;4;1;2;2;0;2;4;.344;.417;.500;.917;16;10;0.440; 1.30;0.465;-0.026; 0.24%; 1.18; 2.7;;;2B,SB
+Nick Castellanos;/players/c/casteni01.shtml;RF;4;1;0;0;0;1;4;.313;.361;.510;.871;15;12;-0.114; 1.09;0.000;-0.114;-0.06%; 0.99; -1.0;2;0;
+Kyle Schwarber;/players/s/schwaky01.shtml;LF;4;1;1;2;0;2;4;.188;.304;.413;.717;12;8;0.267; 0.81;0.313;-0.046; 0.15%; 0.74; 1.2;1;0;HR
+J.T. Realmuto;/players/r/realmjt01.shtml;C;2;0;1;0;0;0;2;.285;.305;.488;.793;9;5;-0.028; 0.52;0.000;-0.028;-0.01%; 0.47; -0.3;2;1;2B
+Garrett Stubbs;/players/s/stubbga01.shtml;PH-C;2;0;1;0;0;1;2;.174;.240;.217;.457;4;4;0.015; 0.26;0.019;-0.004; 0.01%; 0.24; 0.0;5;0;2B
+Edmundo Sosa;/players/s/sosaed01.shtml;3B;4;0;0;0;0;1;4;.281;.309;.438;.747;10;7;-0.095; 0.85;0.000;-0.095;-0.05%; 0.78; -1.0;1;1;
+Josh Harrison;/players/h/harrijo05.shtml;2B;3;0;0;0;0;0;3;.204;.250;.286;.536;7;5;-0.097; 1.21;0.000;-0.097;-0.05%; 1.10; -0.7;2;2;
+Dalton Guthrie;/players/g/guthrda01.shtml;CF;2;0;0;0;0;1;2;.000;.125;.000;.125;5;4;-0.032; 0.58;0.000;-0.032;-0.02%; 0.53; -0.3;4;1;
+Brandon Marsh;/players/m/marshbr02.shtml;PH-CF;1;0;0;0;0;1;1;.308;.413;.570;.983;4;3;-0.039; 1.48;0.000;-0.039;-0.02%; 1.35; -0.2;0;0;
+Taijuan Walker;/players/w/walketa01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Matt Strahm;/players/s/strahma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Seranthony Domínguez;/players/d/dominse01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Craig Kimbrel;/players/k/kimbrcr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: J.T. Realmuto (10, off Austin Gomber); Garrett Stubbs (1, off Austin Gomber); Trea Turner (8, off Justin Lawrence); Bryce Harper (2, off Justin Lawrence).
+
+
+HR: Alec Bohm (4, off Austin Gomber, 7th inn, 0 on, 1 out to Deep LF); Kyle Schwarber (9, off Austin Gomber, 7th inn, 1 on, 2 outs to Deep CF).
+
+
+TB: Alec Bohm 4; Kyle Schwarber 4; Bryce Harper 3; Garrett Stubbs 2; Trea Turner 2; J.T. Realmuto 2.
+
+
+RBI: Kyle Schwarber 2 (18); Bryce Harper 2 (3); Alec Bohm (26).
+
+
+2-out RBI: Bryce Harper 2; Kyle Schwarber 2.
+
+
+Team LOB: 1.
+With RISP: 1 for 2.
+
+Pitching home
+Austin Gomber;/players/g/gombeau01.shtml;Austin Gomber; 6.2;5;3;3;0;6;2;6.30;24;77;55;30;14;11;8;10;2;0;58;;;-0.073; 0.93;-0.03%; 0.63; 0.8
+Justin Lawrence;/players/l/lawreju01.shtml; L (1-2); 1.1;2;3;2;1;2;0;2.18;7;28;14;6;3;5;2;2;1;0;;1;0;-0.365; 1.58;-0.15%; 1.06; -2.0
+Brad Hand;/players/h/handbr01.shtml;Brad Hand; 1 ;0;0;0;0;3;0;2.93;3;11;9;3;4;2;0;0;0;0;;0;0;0.012; 0.15; 0.01%; 0.10; 0.6
+
+Pitching away
+Taijuan Walker;/players/w/walketa01.shtml;Taijuan Walker; 6 ;7;3;3;0;3;0;5.75;25;73;53;34;6;13;10;12;5;0;49;;;-0.005; 1.18;-0.00%; 1.07; 1.2
+Matt Strahm;/players/s/strahma01.shtml; W (3-3); 1 ;1;0;0;0;1;0;3.03;3;8;7;3;2;2;0;2;2;0;;2;2;-0.039; 3.29;-0.02%; 2.99; -0.1
+Seranthony Domínguez;/players/d/dominse01.shtml; H (6); 1 ;1;0;0;0;1;0;4.41;3;14;9;6;1;2;1;1;1;0;;0;0;0.064; 1.63; 0.03%; 1.48; 0.6
+Craig Kimbrel;/players/k/kimbrcr01.shtml; S (4); 1 ;1;0;0;0;3;0;6.60;4;21;17;9;5;3;1;0;0;0;;0;0;0.053; 1.31; 0.03%; 1.19; 0.6
+
+indiv_events
+
+Balks: None.
+WP: Taijuan Walker (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Taijuan Walker (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Jeff Nelson, 1B - Jordan Baker, 2B - Ryan Wills, 3B - Ben May, LF - (none), RF - (none).
+Time of Game: 2:15.
+Attendance: 32,038.
+Field Condition: Unknown.
+Start Time Weather: 59° F, Wind 11mph in from Centerfield, Overcast, No Precipitation.
+
+div_lineups
+Phillies
+1;Trea Turner;/players/t/turnetr01.shtml;SS
+2;Alec Bohm;/players/b/bohmal01.shtml;1B
+3;Bryce Harper;/players/h/harpebr03.shtml;DH
+4;Nick Castellanos;/players/c/casteni01.shtml;RF
+5;Kyle Schwarber;/players/s/schwaky01.shtml;LF
+6;J.T. Realmuto;/players/r/realmjt01.shtml;C
+7;Edmundo Sosa;/players/s/sosaed01.shtml;3B
+8;Josh Harrison;/players/h/harrijo05.shtml;2B
+9;Dalton Guthrie;/players/g/guthrda01.shtml;CF
+; Taijuan Walker;/players/w/walketa01.shtml;P
+Rockies
+1;Charlie Blackmon;/players/b/blackch02.shtml;DH
+2;Jurickson Profar;/players/p/profaju01.shtml;LF
+3;Kris Bryant;/players/b/bryankr01.shtml;RF
+4;C.J. Cron;/players/c/croncj01.shtml;1B
+5;Elias Díaz;/players/d/diazel01.shtml;C
+6;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+7;Randal Grichuk;/players/g/grichra01.shtml;CF
+8;Harold Castro;/players/c/castrha01.shtml;2B
+9;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+; Austin Gomber;/players/g/gombeau01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t8;3-3;2;12-;3,(2-0) BBX;RR;PHI;Bryce Harper;Justin Lawrence;36%;83%;Double to RF (Fly Ball to Deep RF); Turner Scores; Bohm Scores
+t7;1-1;2;1--;1,(0-0) X;RR;PHI;Kyle Schwarber;Austin Gomber;31%;76%;Home Run (Fly Ball to Deep CF); Castellanos Scores
+t7;0-1;1;---;3,(1-1) CBX;R;PHI;Alec Bohm;Austin Gomber;18%;46%;Home Run (Fly Ball to Deep LF)
+b7;1-3;1;1-3;2,(0-1) CX;R;COL;Ezequiel Tovar;Matt Strahm;-17%;48%;Single to CF (Line Drive to CF-RF); McMahon Scores; Grichuk to 3B
+b7;1-3;0;1--;3,(1-1) *BSX;;COL;Randal Grichuk;Taijuan Walker;-15%;54%;Single to 2B (Ground Ball to SS-2B); McMahon to 3B/Adv on E4 (throw)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Phillies Batting, Tied 0-0, Rockies' Austin Gomber facing 1-2-3 
+t1;0-0;0;---;4,(1-2) CSB*S;O;PHI;Trea Turner;Austin Gomber;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;1,(0-0) X;O;PHI;Alec Bohm;Austin Gomber;-2%;46%;Groundout: 3B-1B (SS-3B Hole)
+t1;0-0;2;---;5,(2-2) BFBFS;O;PHI;Bryce Harper;Austin Gomber;-1%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Rockies 0.
+Bottom of the 1st, Rockies Batting, Tied 0-0, Phillies' Taijuan Walker facing 1-2-3 
+b1;0-0;0;---;4,(2-1) BBFX;O;COL;Charlie Blackmon;Taijuan Walker;2%;47%;Groundout: 3B-1B (Weak SS)
+b1;0-0;1;---;3,(0-2) CFX;O;COL;Jurickson Profar;Taijuan Walker;2%;49%;Lineout: SS (Deep SS-2B)
+b1;0-0;2;---;1,(0-0) X;;COL;Kris Bryant;Taijuan Walker;-1%;48%;Single to LF (Line Drive to Short LF)
+b1;0-0;2;1--;3,(1-1) BCX;O;COL;C.J. Cron;Taijuan Walker;2%;50%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 0, Rockies 0.
+Top of the 2nd, Phillies Batting, Tied 0-0, Rockies' Austin Gomber facing 4-5-6 
+t2;0-0;0;---;4,(1-2) .FBSX;O;PHI;Nick Castellanos;Austin Gomber;-2%;48%;Flyball: 2B (Short CF)
+t2;0-0;1;---;2,(1-0) BX;O;PHI;Kyle Schwarber;Austin Gomber;-2%;46%;Groundout: 1B unassisted
+t2;0-0;2;---;6,(3-2) BFBFBX;O;PHI;J.T. Realmuto;Austin Gomber;-1%;45%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Rockies 0.
+Bottom of the 2nd, Rockies Batting, Tied 0-0, Phillies' Taijuan Walker facing 5-6-7 
+b2;0-0;0;---;2,(0-1) FX;O;COL;Elias Díaz;Taijuan Walker;2%;47%;Groundout: SS-1B (Deep SS)
+b2;0-0;1;---;1,(0-0) X;;COL;Ryan McMahon;Taijuan Walker;-3%;44%;Single to SS (Ground Ball)
+b2;0-0;1;1--;3,(0-2) CFS;O;COL;Randal Grichuk;Taijuan Walker;3%;47%;Strikeout Swinging
+b2;0-0;2;1--;4,(1-2) 1SFB>B;O;COL;Harold Castro;Taijuan Walker;3%;50%;McMahon Caught Stealing 2B (C-SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Phillies 0, Rockies 0.
+Top of the 3rd, Phillies Batting, Tied 0-0, Rockies' Austin Gomber facing 7-8-9 
+t3;0-0;0;---;1,(0-0) X;O;PHI;Edmundo Sosa;Austin Gomber;-3%;47%;Lineout: 3B (Deep SS-3B Hole)
+t3;0-0;1;---;2,(0-1) CX;O;PHI;Josh Harrison;Austin Gomber;-2%;45%;Groundout: 3B-1B (SS-3B Hole)
+t3;0-0;2;---;1,(0-0) X;O;PHI;Dalton Guthrie;Austin Gomber;-1%;44%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Rockies 0.
+Bottom of the 3rd, Rockies Batting, Tied 0-0, Phillies' Taijuan Walker facing 8-9-1 
+b3;0-0;0;---;1,(0-0) X;O;COL;Harold Castro;Taijuan Walker;3%;47%;Flyball: LF (LF Line)
+b3;0-0;1;---;2,(0-1) CX;O;COL;Ezequiel Tovar;Taijuan Walker;2%;49%;Groundout: 1B-P
+b3;0-0;2;---;3,(1-1) BCX;O;COL;Charlie Blackmon;Taijuan Walker;1%;50%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Rockies 0.
+Top of the 4th, Phillies Batting, Tied 0-0, Rockies' Austin Gomber facing 1-2-3 
+t4;0-0;0;---;5,(2-2) SSBBX;O;PHI;Trea Turner;Austin Gomber;-3%;47%;Flyball: RF (Short RF Line)
+t4;0-0;1;---;3,(1-1) CBX;O;PHI;Alec Bohm;Austin Gomber;-2%;45%;Flyball: CF (Deep CF)
+t4;0-0;2;---;4,(1-2) .SCBS;O;PHI;Bryce Harper;Austin Gomber;-1%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Rockies 0.
+Bottom of the 4th, Rockies Batting, Tied 0-0, Phillies' Taijuan Walker facing 2-3-4 
+b4;0-0;0;---;2,(1-0) BX;O;COL;Jurickson Profar;Taijuan Walker;3%;46%;Flyball: CF (Deep CF)
+b4;0-0;1;---;2,(1-0) BX;;COL;Kris Bryant;Taijuan Walker;-3%;43%;Single to LF (Line Drive to Deep LF-CF)
+b4;0-0;1;1--;4,(1-2) BC.FC;O;COL;C.J. Cron;Taijuan Walker;4%;47%;Strikeout Looking
+b4;0-0;2;1--;1,(0-0) X;O;COL;Elias Díaz;Taijuan Walker;3%;50%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 0, Rockies 0.
+Top of the 5th, Phillies Batting, Tied 0-0, Rockies' Austin Gomber facing 4-5-6 
+t5;0-0;0;---;2,(0-1) CX;O;PHI;Nick Castellanos;Austin Gomber;-3%;47%;Popfly: 2B (Weak 2B)
+t5;0-0;1;---;4,(1-2) CBC.S;O;PHI;Kyle Schwarber;Austin Gomber;-2%;44%;Strikeout Swinging
+t5;0-0;2;---;3,(1-1) CBX;O;PHI;J.T. Realmuto;Austin Gomber;-2%;43%;Double to CF (Fly Ball to Deep CF); Realmuto out at 3B/CF-1B-3B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Phillies 0, Rockies 0.
+Bottom of the 5th, Rockies Batting, Tied 0-0, Phillies' Taijuan Walker facing 6-7-8 
+b5;0-0;0;---;5,(2-2) CBBSX;;COL;Ryan McMahon;Taijuan Walker;-8%;35%;Double to CF (Ground Ball)
+b5;0-0;0;-2-;2,(1-0) BX;O;COL;Randal Grichuk;Taijuan Walker;5%;41%;Groundout: SS-1B (SS-3B Hole)
+b5;0-0;1;-2-;2,(0-1) CX;O;COL;Harold Castro;Taijuan Walker;6%;47%;Fielder's Choice ; McMahon out at 3B/SS-3B; Castro to 1B
+b5;0-0;2;1--;5,(2-2) BCL*B1X;O;COL;Ezequiel Tovar;Taijuan Walker;3%;50%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 0, Rockies 0.
+Top of the 6th, Phillies Batting, Tied 0-0, Rockies' Austin Gomber facing 7-8-9 
+t6;0-0;0;---;2,(0-1) FX;O;PHI;Edmundo Sosa;Austin Gomber;-4%;46%;Groundout: 1B unassisted
+t6;0-0;1;---;3,(1-1) CBX;O;PHI;Josh Harrison;Austin Gomber;-3%;44%;Groundout: 3B-1B
+t6;0-0;2;---;4,(1-2) CF.BS;O;PHI;Dalton Guthrie;Austin Gomber;-2%;42%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Rockies 0.
+Bottom of the 6th, Rockies Batting, Tied 0-0, Phillies' Taijuan Walker facing 1-2-3 
+b6;0-0;0;---;3,(0-2) CSX;;COL;Charlie Blackmon;Taijuan Walker;-5%;37%;Single to CF (Line Drive to LF-CF)
+b6;0-0;0;1--;5,(2-2) FBFB1X;;COL;Jurickson Profar;Taijuan Walker;-13%;24%;Double to CF (Fly Ball to Deep CF-RF); Blackmon to 3B
+b6;0-0;0;-23;4,(2-1) *BF*BX;O;COL;Kris Bryant;Taijuan Walker;6%;30%;Groundout: SS-1B (SS-3B Hole)
+b6;0-0;1;-23;1,(0-0) X;RO;COL;C.J. Cron;Taijuan Walker;-2%;28%;Lineout: CF/Sacrifice Fly (Deep CF); Blackmon Scores; Profar to 3B
+b6;1-0;2;--3;4,(1-2) FF.BX;O;COL;Elias Díaz;Taijuan Walker;4%;33%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Phillies 0, Rockies 1.
+Top of the 7th, Phillies Batting, Behind 0-1, Rockies' Austin Gomber facing 1-2-3 
+t7;0-1;0;---;7,(3-2) BFBBFFS;O;PHI;Trea Turner;Austin Gomber;-5%;28%;Strikeout Swinging
+t7;0-1;1;---;3,(1-1) CBX;R;PHI;Alec Bohm;Austin Gomber;18%;46%;Home Run (Fly Ball to Deep LF)
+t7;1-1;1;---;4,(1-2) BSFX;;PHI;Bryce Harper;Austin Gomber;4%;50%;Single to CF (Ground Ball thru SS-2B)
+t7;1-1;1;1--;5,(1-2) SSF*BX;O;PHI;Nick Castellanos;Austin Gomber;-5%;45%;Groundout: 3B-2B/Forceout at 2B; Castellanos to 1B
+t7;1-1;2;1--;1,(0-0) X;RR;PHI;Kyle Schwarber;Austin Gomber;31%;76%;Home Run (Fly Ball to Deep CF); Castellanos Scores
+;;;;;;;;;Garrett Stubbs pinch hits for J.T. Realmuto (C) batting 6th
+t7;3-1;2;---;1,(0-0) ..X;;PHI;Garrett Stubbs;Austin Gomber;2%;78%;Double to RF (Line Drive to Deep RF)
+;;;;;;;;;Justin Lawrence replaces Austin Gomber pitching
+t7;3-1;2;-2-;4,(3-0) .BBBX;O;PHI;Edmundo Sosa;Justin Lawrence;-3%;75%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;3 runs, 4 hits, 0 errors, 1 LOB. Phillies 3, Rockies 1.
+Bottom of the 7th, Rockies Batting, Behind 1-3, Phillies' Taijuan Walker facing 6-7-8 
+;;;;;;;;;Garrett Stubbs moves from PH to C 
+b7;1-3;0;---;3,(0-2) .CCS;;COL;Ryan McMahon;Taijuan Walker;-7%;68%;Strikeout Swinging, Wild Pitch; McMahon to 1B
+b7;1-3;0;1--;3,(1-1) *BSX;;COL;Randal Grichuk;Taijuan Walker;-15%;54%;Single to 2B (Ground Ball to SS-2B); McMahon to 3B/Adv on E4 (throw)
+;;;;;;;;;Matt Strahm replaces Taijuan Walker pitchingAlan Trejo pinch hits for Harold Castro (2B) batting 8th
+b7;1-3;0;1-3;4,(1-2) ..BCSS;O;COL;Alan Trejo;Matt Strahm;11%;65%;Strikeout Swinging
+b7;1-3;1;1-3;2,(0-1) CX;R;COL;Ezequiel Tovar;Matt Strahm;-17%;48%;Single to CF (Line Drive to CF-RF); McMahon Scores; Grichuk to 3B
+b7;2-3;1;1-3;2,(0-1) TX;ROO;COL;Charlie Blackmon;Matt Strahm;2%;50%;Double Play: Lineout: CF/Sacrifice Fly (Deep LF-CF); Grichuk Scores; Tovar out at 2B/CF-1B-2B
+;;;;;;;;;Tag play Challenged by COL manager (Bud Black): Original call upheld upon review.
+;;;;;;;;;2 runs, 2 hits, 1 error, 0 LOB. Phillies 3, Rockies 3.
+Top of the 8th, Phillies Batting, Tied 3-3, Rockies' Justin Lawrence facing 8-9-1 
+;;;;;;;;;Alan Trejo moves from PH to 2B 
+t8;3-3;0;---;2,(1-0) .BX;O;PHI;Josh Harrison;Justin Lawrence;-5%;45%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;Brandon Marsh pinch hits for Dalton Guthrie (CF) batting 9th
+t8;3-3;1;---;4,(1-2) .CFBC;O;PHI;Brandon Marsh;Justin Lawrence;-4%;41%;Strikeout Looking
+t8;3-3;2;---;5,(2-2) CSBBX;;PHI;Trea Turner;Justin Lawrence;5%;46%;Double to RF (Line Drive to Deep RF Line)
+t8;3-3;2;-2-;6,(3-2) BCBBSB;;PHI;Alec Bohm;Justin Lawrence;1%;48%;Walk
+t8;3-3;2;12-;3,(2-0) BBX;RR;PHI;Bryce Harper;Justin Lawrence;36%;83%;Double to RF (Fly Ball to Deep RF); Turner Scores; Bohm Scores
+t8;5-3;2;-2-;1,(0-0) >C;R;PHI;Nick Castellanos;Justin Lawrence;7%;90%;Harper Steals 3B; Harper Scores/Adv on E2 (throw)/No RBI/unER
+t8;6-3;2;---;4,(1-2) >C.FBS;O;PHI;Nick Castellanos;Justin Lawrence;-1%;89%;Strikeout Swinging
+;;;;;;;;;3 runs, 2 hits, 1 error, 0 LOB. Phillies 6, Rockies 3.
+Bottom of the 8th, Rockies Batting, Behind 3-6, Phillies' Seranthony Domínguez facing 2-3-4 
+;;;;;;;;;Seranthony Domínguez replaces Matt Strahm pitchingBrandon Marsh moves from PH to CF 
+b8;3-6;0;---;1,(0-0) ..X;;COL;Jurickson Profar;Seranthony Domínguez;-5%;84%;Single to RF (Line Drive to Deep CF-RF)
+b8;3-6;0;1--;5,(2-2) C*BCBS;O;COL;Kris Bryant;Seranthony Domínguez;5%;89%;Strikeout Swinging
+b8;3-6;1;1--;8,(3-2) F1BFF*B*BFX;OO;COL;C.J. Cron;Seranthony Domínguez;7%;96%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Phillies 6, Rockies 3.
+Top of the 9th, Phillies Batting, Ahead 6-3, Rockies' Brad Hand facing 5-6-7 
+;;;;;;;;;Brad Hand replaces Justin Lawrence pitching
+t9;6-3;0;---;5,(2-2) .FC.BBS;O;PHI;Kyle Schwarber;Brad Hand;0%;95%;Strikeout Swinging
+t9;6-3;1;---;3,(0-2) LSS;O;PHI;Garrett Stubbs;Brad Hand;0%;95%;Strikeout Swinging
+t9;6-3;2;---;3,(0-2) FC*S;O;PHI;Edmundo Sosa;Brad Hand;0%;95%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 6, Rockies 3.
+Bottom of the 9th, Rockies Batting, Behind 3-6, Phillies' Craig Kimbrel facing 5-6-7 
+;;;;;;;;;Craig Kimbrel replaces Seranthony Domínguez pitching
+b9;3-6;0;---;7,(2-2) .BFF.BFFX;;COL;Elias Díaz;Craig Kimbrel;-5%;89%;Single to 2B (Ground Ball)
+b9;3-6;0;1--;6,(1-2) CCFFBS;O;COL;Ryan McMahon;Craig Kimbrel;5%;94%;Strikeout Swinging
+b9;3-6;1;1--;3,(1-1) CB>*S;;COL;Randal Grichuk;Craig Kimbrel;-1%;94%;Defensive Indifference; Díaz to 2B
+b9;3-6;1;-2-;5,(1-2) CB>*S.FS;O;COL;Randal Grichuk;Craig Kimbrel;4%;98%;Strikeout Swinging
+;;;;;;;;;Mike Moustakas pinch hits for Alan Trejo (2B) batting 8th
+b9;3-6;2;-2-;3,(0-2) .FSS;O;COL;Mike Moustakas;Craig Kimbrel;2%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 6, Rockies 3.

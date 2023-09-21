@@ -1,0 +1,276 @@
+
+Scorebox Meta
+20230729
+7:05 p.m. Local
+38434
+PNC Park
+183
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/PHI-2023.png;/teams/PHI/2023.shtml;0;0;0;4;0;1;0;1;0;6;8;1
+https://cdn.ssref.net/req/202308101/tlogo/br/PIT-2023.png;/teams/PIT/2023.shtml;0;0;1;2;4;0;0;0;X;7;11;0
+
+Batting home
+Jack Suwinski;/players/s/suwinja01.shtml;CF;5;0;2;0;0;1;5;.229;.345;.504;.849;19;11;-0.036; 0.98;0.063;-0.099;-0.00%; 0.05; -0.4;0;0;2B
+Bryan Reynolds;/players/r/reynobr01.shtml;LF;5;1;1;0;0;2;5;.255;.319;.427;.746;20;15;-0.031; 0.82;0.054;-0.084;-0.00%; 0.04; -0.7;2;0;
+Andrew McCutchen;/players/m/mccutan01.shtml;DH;3;1;0;0;1;1;4;.259;.379;.403;.782;18;12;-0.005; 1.02;0.080;-0.085;0%; 0.05; -0.4;;;
+Ji Man Choi;/players/c/choiji01.shtml;1B;4;1;2;0;0;2;4;.208;.227;.514;.741;16;11;0.015; 1.22;0.100;-0.085; 0.00%; 0.06; 0.3;6;1;2B
+Henry Davis;/players/d/davishe01.shtml;RF;4;1;0;0;0;1;4;.246;.338;.393;.732;13;8;0.016; 1.56;0.086;-0.070; 0.00%; 0.08; -0.2;0;1;
+Endy Rodríguez;/players/r/rodrien01.shtml;C;4;2;2;4;0;1;4;.235;.297;.441;.738;10;9;0.319; 1.63;0.357;-0.038; 0.01%; 0.09; 2.6;15;0;3B,2B
+Jared Triolo;/players/t/triolja01.shtml;3B;2;0;0;0;2;0;4;.258;.323;.281;.604;21;10;0.002; 0.90;0.050;-0.048;0%; 0.04; -0.3;0;4;
+Alika Williams;/players/w/willial04.shtml;SS;4;0;1;1;0;0;4;.111;.200;.111;.311;20;13;-0.043; 1.45;0.067;-0.110;-0.00%; 0.07; -0.3;1;2;
+Liover Peguero;/players/p/pegueli01.shtml;2B;4;1;3;2;0;0;4;.261;.292;.565;.857;10;8;0.216; 1.00;0.226;-0.011; 0.01%; 0.05; 2.0;3;2;HR
+Quinn Priester;/players/p/priesqu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Borucki;/players/b/borucry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Colin Holderman;/players/h/holdeco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yerry De Los Santos;/players/d/delosye01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+David Bednar;/players/b/bednada01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jack Suwinski (14, off Aaron Nola); Ji Man Choi (4, off Aaron Nola); Endy Rodríguez (2, off Aaron Nola).
+
+
+3B: Endy Rodríguez (1, off Aaron Nola).
+
+
+HR: Liover Peguero (2, off Aaron Nola, 3rd inn, 0 on, 0 outs to Deep LF-CF).
+
+
+TB: Liover Peguero 6; Endy Rodríguez 5; Ji Man Choi 3; Jack Suwinski 3; Alika Williams; Bryan Reynolds.
+
+
+RBI: Endy Rodríguez 4 (5); Liover Peguero 2 (6); Alika Williams (1).
+
+
+2-out RBI: Alika Williams; Liover Peguero.
+
+
+Team LOB: 7.
+With RISP: 4 for 14.
+
+Batting away
+Kyle Schwarber;/players/s/schwaky01.shtml;DH;2;0;0;1;3;2;5;.185;.320;.435;.755;26;12;0.018; 2.06;0.147;-0.128; 0.01%; 2.26; 0.8;;;
+Nick Castellanos;/players/c/casteni01.shtml;RF;5;0;0;0;0;3;5;.274;.317;.447;.764;18;13;-0.360; 2.47;0.000;-0.360;-0.24%; 2.72; -2.8;3;0;GDP
+Bryce Harper;/players/h/harpebr03.shtml;1B;5;0;1;0;0;4;5;.289;.380;.406;.786;20;15;-0.169; 1.30;0.000;-0.169;-0.11%; 1.43; -1.0;3;1;
+Alec Bohm;/players/b/bohmal01.shtml;3B;3;1;0;0;2;1;5;.279;.333;.409;.742;16;6;0.055; 1.07;0.115;-0.060; 0.04%; 1.17; 0.0;1;0;
+Edmundo Sosa;/players/s/sosaed01.shtml;PR;0;0;0;0;0;0;0;.251;.280;.424;.704;;;;;;;;;;;;
+Bryson Stott;/players/s/stottbr01.shtml;2B;5;1;3;0;0;1;5;.306;.347;.438;.785;16;13;0.316; 1.51;0.347;-0.031; 0.21%; 1.66; 1.7;1;1;2B
+J.T. Realmuto;/players/r/realmjt01.shtml;C;3;2;0;0;2;0;5;.242;.304;.448;.753;19;5;-0.343; 2.26;0.084;-0.427;-0.23%; 2.48; -0.8;8;0;GDP
+Trea Turner;/players/t/turnetr01.shtml;SS;3;1;1;0;1;1;4;.242;.295;.379;.674;18;11;0.023; 1.92;0.142;-0.120; 0.01%; 2.11; 0.0;0;0;
+Brandon Marsh;/players/m/marshbr02.shtml;CF-LF;2;1;1;3;1;0;4;.279;.363;.453;.816;16;9;0.310; 2.41;0.398;-0.087; 0.21%; 2.65; 2.4;2;0;2B,HBP
+Jake Cave;/players/c/caveja01.shtml;LF;2;0;1;1;0;0;2;.226;.283;.333;.616;5;4;0.055; 1.15;0.088;-0.032; 0.04%; 1.26; 0.7;2;1;2B
+Johan Rojas;/players/r/rojasjo03.shtml;PH-CF;2;0;1;1;0;1;2;.350;.350;.350;.700;6;5;0.047; 3.46;0.133;-0.086; 0.03%; 3.79; 0.2;2;0;
+Aaron Nola;/players/n/nolaaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Yunior Marte;/players/m/marteyu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matt Strahm;/players/s/strahma01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Dylan Covey;/players/c/coveydy01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Bryson Stott (20, off Quinn Priester); Brandon Marsh (19, off Quinn Priester); Jake Cave (6, off Quinn Priester).
+
+
+HBP: Brandon Marsh (2, by Quinn Priester).
+
+
+TB: Bryson Stott 4; Brandon Marsh 2; Jake Cave 2; Bryce Harper; Trea Turner; Johan Rojas.
+
+
+GIDP: J.T. Realmuto (7); Nick Castellanos (7).
+
+
+RBI: Brandon Marsh 3 (39); Kyle Schwarber (65); Johan Rojas (4); Jake Cave (11).
+
+
+2-out RBI: Brandon Marsh 3; Jake Cave; Kyle Schwarber.
+
+
+Team LOB: 9.
+With RISP: 3 for 12.
+
+Pitching home
+Quinn Priester;/players/p/priesqu01.shtml; W (2-1); 5 ;5;5;5;6;7;0;9.19;25;85;46;21;13;12;3;8;5;0;38;;;-0.392; 1.27;-0.01%; 0.07; -3.2
+Ryan Borucki;/players/b/borucry01.shtml; H (1); 0.2;0;0;0;1;1;0;3.31;3;17;11;7;2;2;1;0;0;0;;3;1;0.084; 3.29; 0.00%; 0.17; 0.6
+Colin Holderman;/players/h/holdeco01.shtml; H (16); 1.1;0;0;0;0;2;0;3.57;4;12;10;5;3;2;1;1;0;0;;3;0;0.180; 1.74; 0.01%; 0.09; 1.3
+Yerry De Los Santos;/players/d/delosye01.shtml; H (2); 0.1;1;1;1;1;0;0;3.20;3;16;8;4;1;3;1;1;1;0;;0;0;-0.075; 1.50;-0.00%; 0.08; -0.4
+David Bednar;/players/b/bednada01.shtml; S (21); 1.2;2;0;0;1;3;0;1.30;7;30;18;8;6;4;3;0;0;0;;2;1;0.250; 3.85; 0.01%; 0.20; 0.5
+
+Pitching away
+Aaron Nola;/players/n/nolaaa01.shtml; L (9-7); 4.2;9;7;5;3;6;1;4.43;26;98;62;27;13;22;4;13;5;0;25;;;-0.554; 1.50;-0.36%; 1.65; -4.6
+Yunior Marte;/players/m/marteyu01.shtml;Yunior Marte; 0.1;1;0;0;0;1;0;4.97;2;10;6;2;2;2;0;1;1;0;;1;0;0.011; 0.55; 0.01%; 0.60; 0.2
+Matt Strahm;/players/s/strahma01.shtml;Matt Strahm; 2 ;0;0;0;0;1;0;3.53;6;27;20;14;3;3;1;4;1;0;;0;0;0.057; 0.37; 0.04%; 0.40; 1.1
+Dylan Covey;/players/c/coveydy01.shtml;Dylan Covey; 1 ;1;0;0;0;0;0;5.25;4;12;9;5;2;2;1;3;2;0;;0;0;0.034; 0.46; 0.02%; 0.51; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Quinn Priester (1; Brandon Marsh).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Quinn Priester (1; Brandon Marsh).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Brian O'Nora, 1B - Edwin Jimenez, 2B - Pat Hoberg, 3B - Nestor Ceja, LF - (none), RF - (none).
+Time of Game: 3:03.
+Attendance: 38,434.
+Field Condition: Unknown.
+Start Time Weather: 79° F, Wind 10mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Phillies
+1;Kyle Schwarber;/players/s/schwaky01.shtml;DH
+2;Nick Castellanos;/players/c/casteni01.shtml;RF
+3;Bryce Harper;/players/h/harpebr03.shtml;1B
+4;Alec Bohm;/players/b/bohmal01.shtml;3B
+5;Bryson Stott;/players/s/stottbr01.shtml;2B
+6;J.T. Realmuto;/players/r/realmjt01.shtml;C
+7;Trea Turner;/players/t/turnetr01.shtml;SS
+8;Brandon Marsh;/players/m/marshbr02.shtml;CF
+9;Jake Cave;/players/c/caveja01.shtml;LF
+; Aaron Nola;/players/n/nolaaa01.shtml;P
+Pirates
+1;Jack Suwinski;/players/s/suwinja01.shtml;CF
+2;Bryan Reynolds;/players/r/reynobr01.shtml;LF
+3;Andrew McCutchen;/players/m/mccutan01.shtml;DH
+4;Ji Man Choi;/players/c/choiji01.shtml;1B
+5;Henry Davis;/players/d/davishe01.shtml;RF
+6;Endy Rodríguez;/players/r/rodrien01.shtml;C
+7;Jared Triolo;/players/t/triolja01.shtml;3B
+8;Alika Williams;/players/w/willial04.shtml;SS
+9;Liover Peguero;/players/p/pegueli01.shtml;2B
+; Quinn Priester;/players/p/priesqu01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t9;6-7;1;1-3;5,(3-1) BBBCX;OO;PHI;J.T. Realmuto;David Bednar;38%;100%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+t4;0-1;2;123;1,(0-0) X;RRR;PHI;Brandon Marsh;Quinn Priester;-30%;29%;Double to CF (Line Drive to Deep CF-RF); Bohm Scores; Stott Scores; Realmuto Scores
+b5;3-4;1;123;1,(0-0) X;RRR;PIT;Endy Rodríguez;Aaron Nola;28%;84%;Triple to CF (Line Drive); Reynolds Scores; McCutchen Scores/unER; Davis Scores
+t9;6-7;1;1--;5,(1-2) .CFBFX;;PHI;Bryson Stott;David Bednar;-20%;62%;Single to CF (Ground Ball thru SS-2B); Sosa to 3B
+t8;5-7;1;12-;3,(1-1) .*BFX;R;PHI;Johan Rojas;David Bednar;-13%;65%;Single to LF (Ground Ball thru SS-3B Hole); Turner Scores; Marsh to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Phillies Batting, Tied 0-0, Pirates' Quinn Priester facing 1-2-3 
+t1;0-0;0;---;5,(3-1) CBBBB;;PHI;Kyle Schwarber;Quinn Priester;-4%;47%;Walk
+t1;0-0;0;1--;2,(0-1) SX;OO;PHI;Nick Castellanos;Quinn Priester;7%;54%;Ground Ball Double Play: SS-2B-1B (SS-2B)
+t1;0-0;2;---;4,(1-2) BSC.S;O;PHI;Bryce Harper;Quinn Priester;1%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Pirates 0.
+Bottom of the 1st, Pirates Batting, Tied 0-0, Phillies' Aaron Nola facing 1-2-3 
+b1;0-0;0;---;2,(0-1) CX;O;PIT;Jack Suwinski;Aaron Nola;-2%;53%;Flyball: CF (Deep CF)
+b1;0-0;1;---;4,(1-2) CBC.S;O;PIT;Bryan Reynolds;Aaron Nola;-2%;51%;Strikeout Swinging
+b1;0-0;2;---;3,(0-2) CS.S;O;PIT;Andrew McCutchen;Aaron Nola;-1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Pirates 0.
+Top of the 2nd, Phillies Batting, Tied 0-0, Pirates' Quinn Priester facing 4-5-6 
+t2;0-0;0;---;5,(2-2) BFS.BT;O;PHI;Alec Bohm;Quinn Priester;2%;52%;Strikeout Swinging
+t2;0-0;1;---;3,(0-2) CF*S;O;PHI;Bryson Stott;Quinn Priester;2%;54%;Strikeout Swinging
+t2;0-0;2;---;2,(1-0) BX;O;PHI;J.T. Realmuto;Quinn Priester;1%;55%;Foul Popfly: C (3B-C into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Pirates 0.
+Bottom of the 2nd, Pirates Batting, Tied 0-0, Phillies' Aaron Nola facing 4-5-6 
+b2;0-0;0;---;2,(0-1) FX;;PIT;Ji Man Choi;Aaron Nola;4%;59%;Single to CF (Line Drive to CF-RF)
+b2;0-0;0;1--;4,(1-2) FBCS;O;PIT;Henry Davis;Aaron Nola;-3%;55%;Strikeout Swinging
+b2;0-0;1;1--;3,(0-2) *SS.C;O;PIT;Endy Rodríguez;Aaron Nola;-3%;52%;Strikeout Looking
+b2;0-0;2;1--;6,(3-2) BCBSB>B;;PIT;Jared Triolo;Aaron Nola;2%;54%;Walk; Choi to 2B
+b2;0-0;2;12-;5,(2-2) C*BBCX;O;PIT;Alika Williams;Aaron Nola;-4%;50%;Groundout: P-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Phillies 0, Pirates 0.
+Top of the 3rd, Phillies Batting, Tied 0-0, Pirates' Quinn Priester facing 7-8-9 
+t3;0-0;0;---;2,(0-1) CX;O;PHI;Trea Turner;Quinn Priester;3%;53%;Lineout: 2B (Deep SS-2B)
+t3;0-0;1;---;1,(0-0) H;;PHI;Brandon Marsh;Quinn Priester;-3%;50%;Hit By Pitch
+t3;0-0;1;1--;4,(1-2) CC*B1X;O;PHI;Jake Cave;Quinn Priester;3%;53%;Flyball: LF (LF-CF)
+t3;0-0;2;1--;6,(3-2) BBFBC>B;;PHI;Kyle Schwarber;Quinn Priester;-2%;51%;Walk; Marsh to 2B
+t3;0-0;2;12-;5,(2-2) *BCFBS;O;PHI;Nick Castellanos;Quinn Priester;5%;56%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Phillies 0, Pirates 0.
+Bottom of the 3rd, Pirates Batting, Tied 0-0, Phillies' Aaron Nola facing 9-1-2 
+b3;0-0;0;---;3,(1-1) BFX;R;PIT;Liover Peguero;Aaron Nola;11%;67%;Home Run (Fly Ball to Deep LF-CF)
+b3;1-0;0;---;5,(2-2) BBSCX;;PIT;Jack Suwinski;Aaron Nola;6%;72%;Double to CF (Line Drive to Deep CF)
+b3;1-0;0;-2-;6,(2-2) CFB*BFS;O;PIT;Bryan Reynolds;Aaron Nola;-4%;68%;Strikeout Swinging
+b3;1-0;1;-2-;5,(2-2) CB*BF>X;OO;PIT;Andrew McCutchen;Aaron Nola;-6%;62%;Double Play: Flyball: LF (LF-CF); Suwinski out at 2B/LF-2B
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Phillies 0, Pirates 1.
+Top of the 4th, Phillies Batting, Behind 0-1, Pirates' Quinn Priester facing 3-4-5 
+t4;0-1;0;---;3,(0-2) FF*S;O;PHI;Bryce Harper;Quinn Priester;3%;65%;Strikeout Swinging
+t4;0-1;1;---;4,(3-0) BBBB;;PHI;Alec Bohm;Quinn Priester;-3%;62%;Walk
+t4;0-1;1;1--;1,(0-0) X;;PHI;Bryson Stott;Quinn Priester;-11%;51%;Double to RF (Line Drive to Deep RF); Bohm to 3B
+t4;0-1;1;-23;4,(3-0) B*BBB;;PHI;J.T. Realmuto;Quinn Priester;-2%;50%;Walk
+t4;0-1;1;123;4,(1-2) C*BSS;O;PHI;Trea Turner;Quinn Priester;9%;59%;Strikeout Swinging
+t4;0-1;2;123;1,(0-0) X;RRR;PHI;Brandon Marsh;Quinn Priester;-30%;29%;Double to CF (Line Drive to Deep CF-RF); Bohm Scores; Stott Scores; Realmuto Scores
+t4;3-1;2;-2-;1,(0-0) X;R;PHI;Jake Cave;Quinn Priester;-9%;20%;Double to CF (Fly Ball to Deep CF); Marsh Scores
+t4;4-1;2;-2-;5,(1-2) CF*BFS;O;PHI;Kyle Schwarber;Quinn Priester;2%;22%;Strikeout Swinging
+;;;;;;;;;4 runs, 3 hits, 0 errors, 1 LOB. Phillies 4, Pirates 1.
+Bottom of the 4th, Pirates Batting, Behind 1-4, Phillies' Aaron Nola facing 4-5-6 
+b4;1-4;0;---;2,(0-1) CX;;PIT;Ji Man Choi;Aaron Nola;6%;29%;Double to RF (Fly Ball to Deep RF)
+b4;1-4;0;-2-;2,(1-0) BX;O;PIT;Henry Davis;Aaron Nola;-2%;26%;Groundout: 2B-1B (SS-2B); Choi to 3B
+b4;1-4;1;--3;3,(1-1) C*BX;R;PIT;Endy Rodríguez;Aaron Nola;8%;34%;Double to RF (Line Drive to Deep RF); Choi Scores
+b4;2-4;1;-2-;6,(3-2) BFCB*BB;;PIT;Jared Triolo;Aaron Nola;3%;37%;Walk
+b4;2-4;1;12-;5,(2-2) C*BS*BX;O;PIT;Alika Williams;Aaron Nola;-5%;32%;Flyball: LF (Deep LF-CF); Rodríguez to 3B
+b4;2-4;2;1-3;2,(0-1) C1X;R;PIT;Liover Peguero;Aaron Nola;11%;42%;Single to RF (Ground Ball); Rodríguez Scores; Triolo to 2B
+b4;3-4;2;12-;2,(1-0) BX;O;PIT;Jack Suwinski;Aaron Nola;-6%;37%;Flyball: CF
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Phillies 4, Pirates 3.
+Top of the 5th, Phillies Batting, Ahead 4-3, Pirates' Quinn Priester facing 2-3-4 
+t5;4-3;0;---;4,(2-1) BBCX;O;PHI;Nick Castellanos;Quinn Priester;2%;39%;Groundout: 3B-1B (SS-3B Hole)
+t5;4-3;1;---;4,(1-2) SSBX;O;PHI;Bryce Harper;Quinn Priester;2%;41%;Single to RF (Line Drive to Deep CF-RF); Harper out at 2B/RF-SS
+t5;4-3;2;---;1,(0-0) X;O;PHI;Alec Bohm;Quinn Priester;1%;42%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Phillies 4, Pirates 3.
+Bottom of the 5th, Pirates Batting, Behind 3-4, Phillies' Aaron Nola facing 2-3-4 
+b5;3-4;0;---;1,(0-0) X;;PIT;Bryan Reynolds;Aaron Nola;5%;47%;Single to LF (Fly Ball to Short LF Line)
+b5;3-4;0;1--;6,(3-2) BBC*BF1B;;PIT;Andrew McCutchen;Aaron Nola;8%;55%;Walk; Reynolds to 2B
+b5;3-4;0;12-;5,(2-2) C*BBF.S;O;PIT;Ji Man Choi;Aaron Nola;-8%;48%;Strikeout Swinging
+b5;3-4;1;12-;6,(3-2) BBCB+2CX;;PIT;Henry Davis;Aaron Nola;9%;56%;Fielder's Choice 1B; Reynolds to 3B; McCutchen to 2B/Adv on E3; Davis to 1B
+b5;3-4;1;123;1,(0-0) X;RRR;PIT;Endy Rodríguez;Aaron Nola;28%;84%;Triple to CF (Line Drive); Reynolds Scores; McCutchen Scores/unER; Davis Scores
+b5;6-4;1;--3;4,(1-2) CBSX;O;PIT;Jared Triolo;Aaron Nola;-4%;80%;Popfly: 1B
+b5;6-4;2;--3;5,(2-2) FBBSX;R;PIT;Alika Williams;Aaron Nola;7%;87%;Single to CF (Line Drive to Short CF); Rodríguez Scores/unER
+;;;;;;;;;Yunior Marte replaces Aaron Nola pitching
+b5;7-4;2;1--;4,(1-2) .C*BSX;;PIT;Liover Peguero;Yunior Marte;1%;88%;Single to RF (Line Drive to CF-RF); Williams to 2B
+b5;7-4;2;12-;6,(3-2) CBFBB>S;O;PIT;Jack Suwinski;Yunior Marte;-2%;86%;Strikeout Swinging
+;;;;;;;;;4 runs, 4 hits, 1 error, 2 LOB. Phillies 4, Pirates 7.
+Top of the 6th, Phillies Batting, Behind 4-7, Pirates' Quinn Priester facing 5-6-7 
+t6;4-7;0;---;4,(2-1) BBCX;;PHI;Bryson Stott;Quinn Priester;-4%;82%;Single to LF (Line Drive to Short LF)
+t6;4-7;0;1--;4,(3-0) BB*BB;;PHI;J.T. Realmuto;Quinn Priester;-7%;75%;Walk; Stott to 2B
+t6;4-7;0;12-;6,(3-2) BSFBB*B;;PHI;Trea Turner;Quinn Priester;-10%;65%;Walk; Stott to 3B; Realmuto to 2B
+;;;;;;;;;Ryan Borucki replaces Quinn Priester pitching
+t6;4-7;0;123;8,(2-2) .S*BBCFFFX;O;PHI;Brandon Marsh;Ryan Borucki;9%;74%;Groundout: 1B-C/Forceout at Hm (Weak 1B); Realmuto to 3B; Turner to 2B; Marsh to 1B
+;;;;;;;;;Johan Rojas pinch hits for Jake Cave (LF) batting 9th
+t6;4-7;1;123;3,(0-2) .FFS;O;PHI;Johan Rojas;Ryan Borucki;9%;83%;Strikeout Swinging
+t6;4-7;2;123;6,(3-2) CBBBF>B;R;PHI;Kyle Schwarber;Ryan Borucki;-9%;74%;Walk; Realmuto Scores; Turner to 3B; Marsh to 2B
+;;;;;;;;;Colin Holderman replaces Ryan Borucki pitching
+t6;5-7;2;123;3,(0-2) .FFS;O;PHI;Nick Castellanos;Colin Holderman;11%;84%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 3 LOB. Phillies 5, Pirates 7.
+Bottom of the 6th, Pirates Batting, Ahead 7-5, Phillies' Matt Strahm facing 2-3-4 
+;;;;;;;;;Matt Strahm replaces Yunior Marte pitchingBrandon Marsh moves from CF to LF Johan Rojas moves from PH to CF 
+b6;7-5;0;---;7,(2-2) ...FBFFBFX;O;PIT;Bryan Reynolds;Matt Strahm;-1%;83%;Groundout: 1B-P
+b6;7-5;1;---;4,(0-2) CFFX;O;PIT;Andrew McCutchen;Matt Strahm;-1%;82%;Lineout: CF
+b6;7-5;2;---;7,(3-2) BCBSBFS;O;PIT;Ji Man Choi;Matt Strahm;-1%;81%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 5, Pirates 7.
+Top of the 7th, Phillies Batting, Behind 5-7, Pirates' Colin Holderman facing 3-4-5 
+t7;5-7;0;---;4,(1-2) BCFS;O;PHI;Bryce Harper;Colin Holderman;4%;85%;Strikeout Swinging
+t7;5-7;1;---;2,(1-0) BX;O;PHI;Alec Bohm;Colin Holderman;2%;87%;Groundout: 3B-1B
+t7;5-7;2;---;3,(0-2) CSX;O;PHI;Bryson Stott;Colin Holderman;1%;88%;Flyball: LF (LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 5, Pirates 7.
+Bottom of the 7th, Pirates Batting, Ahead 7-5, Phillies' Matt Strahm facing 5-6-7 
+b7;7-5;0;---;1,(0-0) X;O;PIT;Henry Davis;Matt Strahm;-1%;87%;Flyball: CF (Short CF)
+b7;7-5;1;---;3,(0-2) FFX;O;PIT;Endy Rodríguez;Matt Strahm;-1%;86%;Flyball: RF (Deep CF-RF)
+b7;7-5;2;---;5,(2-2) BCBSX;O;PIT;Jared Triolo;Matt Strahm;-1%;86%;Flyball: RF (Short RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 5, Pirates 7.
+Top of the 8th, Phillies Batting, Behind 5-7, Pirates' Yerry De Los Santos facing 6-7-8 
+;;;;;;;;;Yerry De Los Santos replaces Colin Holderman pitching
+t8;5-7;0;---;4,(2-1) .CBBX;O;PHI;J.T. Realmuto;Yerry De Los Santos;4%;90%;Groundout: SS-1B
+t8;5-7;1;---;6,(2-2) CFBFBX;;PHI;Trea Turner;Yerry De Los Santos;-5%;85%;Single to LF (Line Drive to Short LF)
+t8;5-7;1;1--;6,(3-2) BCBSB>B;;PHI;Brandon Marsh;Yerry De Los Santos;-7%;78%;Walk; Turner to 2B
+;;;;;;;;;David Bednar replaces Yerry De Los Santos pitching
+t8;5-7;1;12-;3,(1-1) .*BFX;R;PHI;Johan Rojas;David Bednar;-13%;65%;Single to LF (Ground Ball thru SS-3B Hole); Turner Scores; Marsh to 2B
+t8;6-7;1;12-;4,(1-2) BFCS;O;PHI;Kyle Schwarber;David Bednar;11%;76%;Strikeout Swinging
+t8;6-7;2;12-;4,(1-2) BSSS;O;PHI;Nick Castellanos;David Bednar;11%;86%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Phillies 6, Pirates 7.
+Bottom of the 8th, Pirates Batting, Ahead 7-6, Phillies' Dylan Covey facing 8-9-1 
+;;;;;;;;;Dylan Covey replaces Matt Strahm pitching
+b8;7-6;0;---;5,(1-2) .CSBFX;O;PIT;Alika Williams;Dylan Covey;-1%;85%;Flyball: RF
+b8;7-6;1;---;1,(0-0) X;O;PIT;Liover Peguero;Dylan Covey;-1%;84%;Bunt Popfly: P (Front of Home)
+b8;7-6;2;---;4,(2-1) BCBX;;PIT;Jack Suwinski;Dylan Covey;1%;85%;Single to CF (Line Drive to Deep CF)
+b8;7-6;2;1--;2,(0-1) SX;O;PIT;Bryan Reynolds;Dylan Covey;-2%;83%;Lineout: 3B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 6, Pirates 7.
+Top of the 9th, Phillies Batting, Behind 6-7, Pirates' David Bednar facing 3-4-5 
+t9;6-7;0;---;5,(2-2) BFSBS;O;PHI;Bryce Harper;David Bednar;8%;91%;Strikeout Swinging
+t9;6-7;1;---;4,(3-1) BBCVB;;PHI;Alec Bohm;David Bednar;-8%;82%;Walk
+;;;;;;;;;Edmundo Sosa pinch runs for Alec Bohm (3B) batting 4th
+t9;6-7;1;1--;5,(1-2) .CFBFX;;PHI;Bryson Stott;David Bednar;-20%;62%;Single to CF (Ground Ball thru SS-2B); Sosa to 3B
+t9;6-7;1;1-3;5,(3-1) BBBCX;OO;PHI;J.T. Realmuto;David Bednar;38%;100%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 6, Pirates 7.

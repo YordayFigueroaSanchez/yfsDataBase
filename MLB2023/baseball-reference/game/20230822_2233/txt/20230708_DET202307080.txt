@@ -1,0 +1,227 @@
+
+Scorebox Meta
+20230708
+1:10 p.m. Local
+30621
+Comerica Park
+141
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/TOR-2023.png;/teams/TOR/2023.shtml;0;0;0;0;0;0;0;0;0;0;0;0
+https://cdn.ssref.net/req/202308101/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;2;0;0;0;0;0;0;0;X;2;5;0
+
+Batting home
+Zach McKinstry;/players/m/mckinza01.shtml;3B;4;0;0;0;0;0;4;.246;.326;.369;.695;12;8;-0.055; 0.53;0.000;-0.055;-0.01%; 0.17; -0.9;1;3;
+Riley Greene;/players/g/greenri03.shtml;DH;2;1;2;0;2;0;4;.302;.373;.449;.822;23;11;0.063; 0.43;0.063;0.000; 0.01%; 0.14; 1.0;;;
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;4;1;1;1;0;3;4;.226;.307;.399;.707;20;14;0.067; 0.75;0.113;-0.046; 0.01%; 0.24; 0.3;7;1;2B
+Kerry Carpenter;/players/c/carpeke01.shtml;RF;4;0;1;1;0;1;4;.267;.323;.493;.817;16;10;0.068; 0.65;0.107;-0.039; 0.01%; 0.21; 0.5;2;0;3B
+Matt Vierling;/players/v/vierlma01.shtml;LF;2;0;0;0;1;1;3;.282;.346;.423;.769;11;5;-0.014; 0.65;0.012;-0.026;-0.00%; 0.21; -0.1;3;0;
+Javier Báez;/players/b/baezja01.shtml;SS;3;0;0;0;0;1;3;.221;.257;.327;.584;14;9;-0.103; 0.72;0.000;-0.103;-0.02%; 0.23; -1.5;1;1;GDP
+Eric Haase;/players/h/haaseer01.shtml;C;3;0;0;0;0;2;3;.210;.258;.294;.552;12;10;-0.037; 0.49;0.000;-0.037;-0.01%; 0.16; -0.6;7;0;
+Zack Short;/players/s/shortza01.shtml;2B;3;0;0;0;0;1;3;.215;.284;.347;.631;12;7;-0.027; 0.35;0.000;-0.027;-0.01%; 0.11; -0.4;1;1;
+Jake Marisnick;/players/m/marisja01.shtml;CF;3;0;1;0;0;1;3;.225;.263;.408;.672;12;8;-0.011; 0.36;0.009;-0.020;-0.00%; 0.12; -0.2;4;0;
+Matt Manning;/players/m/mannima02.shtml;P;;;;;;;;;;;;;;;;;;;;;1;2;
+Jason Foley;/players/f/foleyja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Alex Lange;/players/l/langeal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Spencer Torkelson (19, off Kevin Gausman).
+
+
+3B: Kerry Carpenter (1, off Kevin Gausman).
+
+
+TB: Kerry Carpenter 3; Riley Greene 2; Spencer Torkelson 2; Jake Marisnick.
+
+
+GIDP: Javier Báez (8).
+
+
+RBI: Kerry Carpenter (21); Spencer Torkelson (44).
+
+
+Team LOB: 5.
+With RISP: 1 for 2.
+
+Batting away
+Bo Bichette;/players/b/bichebo01.shtml;SS;3;0;0;0;0;1;4;.320;.349;.501;.851;9;7;-0.041; 0.97;0.036;-0.076;-0.03%; 1.09; -0.2;0;0;HBP
+Brandon Belt;/players/b/beltbr01.shtml;DH;3;0;0;0;1;1;4;.246;.365;.421;.785;15;9;0.007; 0.82;0.055;-0.048; 0.01%; 0.93; 0.2;;;
+Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;1B;4;0;0;0;0;0;4;.276;.345;.447;.792;15;10;-0.097; 1.17;0.000;-0.097;-0.07%; 1.32; -0.9;5;1;
+Matt Chapman;/players/c/chapmma01.shtml;3B;3;0;0;0;0;1;3;.258;.340;.457;.796;15;9;-0.106; 1.15;0.000;-0.106;-0.07%; 1.29; -1.0;1;4;
+Cavan Biggio;/players/b/biggica01.shtml;RF;2;0;0;0;1;1;3;.200;.268;.386;.654;13;6;-0.040; 0.90;0.019;-0.060;-0.03%; 1.02; -0.5;3;0;
+Whit Merrifield;/players/m/merriwh01.shtml;2B;2;0;0;0;1;1;3;.284;.342;.392;.733;14;10;-0.080; 1.11;0.038;-0.119;-0.05%; 1.25; -0.7;1;1;CS
+Daulton Varsho;/players/v/varshda01.shtml;LF;3;0;0;0;0;1;3;.215;.279;.370;.649;10;8;-0.077; 1.27;0.000;-0.077;-0.05%; 1.42; -0.6;1;0;
+Alejandro Kirk;/players/k/kirkal01.shtml;C;3;0;0;0;0;0;3;.239;.323;.310;.633;15;11;-0.046; 0.61;0.000;-0.046;-0.03%; 0.69; -0.4;10;0;
+Kevin Kiermaier;/players/k/kiermke01.shtml;CF;3;0;0;0;0;1;3;.274;.335;.428;.763;10;8;-0.070; 0.90;0.000;-0.070;-0.05%; 1.01; -0.6;2;0;
+Kevin Gausman;/players/g/gausmke01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Nate Pearson;/players/p/pearsna01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yimi García;/players/g/garciyi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HBP: Bo Bichette (2, by Matt Manning).
+
+
+Team LOB: 3.
+With RISP: 0 for 3.
+
+Pitching home
+Matt Manning;/players/m/mannima02.shtml; W (3-1); 6.2;0;0;0;3;5;0;3.72;23;91;57;30;4;23;6;8;2;0;76;;;0.369; 0.99; 0.07%; 0.32; 3.3
+Jason Foley;/players/f/foleyja01.shtml; H (14); 1.1;0;0;0;0;1;0;2.09;4;15;12;8;2;2;1;2;2;0;;1;0;0.107; 1.02; 0.02%; 0.33; 0.7
+Alex Lange;/players/l/langeal01.shtml; S (13); 1 ;0;0;0;0;1;0;3.79;3;10;9;3;5;1;1;1;0;0;;0;0;0.074; 0.96; 0.01%; 0.31; 0.5
+
+Pitching away
+Kevin Gausman;/players/g/gausmke01.shtml; L (7-5); 6 ;5;2;2;2;7;0;3.03;24;96;62;33;14;15;3;12;3;0;59;;;0.012; 0.63; 0.01%; 0.71; 1.0
+Nate Pearson;/players/p/pearsna01.shtml;Nate Pearson; 1.2;0;0;0;1;2;0;3.69;6;31;17;11;1;5;2;1;1;0;;0;0;0.031; 0.28; 0.02%; 0.32; 0.8
+Yimi García;/players/g/garciyi01.shtml;Yimi García; 0.1;0;0;0;0;1;0;4.79;1;5;3;2;1;0;0;0;0;0;;1;0;0.007; 0.23; 0.01%; 0.26; 0.2
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Matt Manning (4; Bo Bichette).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Matt Manning (4; Bo Bichette).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Erich Bacchus, 1B - Andy Fletcher, 2B - Mike Estabrook, 3B - Jeremy Riggs, LF - (none), RF - (none).
+Time of Game: 2:21.
+Attendance: 30,621.
+Field Condition: Unknown.
+Start Time Weather: 69° F, Wind 9mph from Right to Left, Overcast, No Precipitation.
+
+div_lineups
+Blue Jays
+1;Bo Bichette;/players/b/bichebo01.shtml;SS
+2;Brandon Belt;/players/b/beltbr01.shtml;DH
+3;Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;1B
+4;Matt Chapman;/players/c/chapmma01.shtml;3B
+5;Cavan Biggio;/players/b/biggica01.shtml;RF
+6;Whit Merrifield;/players/m/merriwh01.shtml;2B
+7;Daulton Varsho;/players/v/varshda01.shtml;LF
+8;Alejandro Kirk;/players/k/kirkal01.shtml;C
+9;Kevin Kiermaier;/players/k/kiermke01.shtml;CF
+; Kevin Gausman;/players/g/gausmke01.shtml;P
+Tigers
+1;Zach McKinstry;/players/m/mckinza01.shtml;3B
+2;Riley Greene;/players/g/greenri03.shtml;DH
+3;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+4;Kerry Carpenter;/players/c/carpeke01.shtml;RF
+5;Matt Vierling;/players/v/vierlma01.shtml;LF
+6;Javier Báez;/players/b/baezja01.shtml;SS
+7;Eric Haase;/players/h/haaseer01.shtml;C
+8;Zack Short;/players/s/shortza01.shtml;2B
+9;Jake Marisnick;/players/m/marisja01.shtml;CF
+; Matt Manning;/players/m/mannima02.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-0;1;1--;2,(1-0) BX;R;DET;Spencer Torkelson;Kevin Gausman;11%;66%;Double to LF (Line Drive to Deep LF-CF); Greene Scores
+b1;1-0;1;-2-;5,(2-2) CBSBX;R;DET;Kerry Carpenter;Kevin Gausman;11%;77%;Triple to CF (Fly Ball to Deep CF-RF); Torkelson Scores
+b1;2-0;1;1-3;5,(2-2) B*BFS1X;OO;DET;Javier Báez;Kevin Gausman;-8%;70%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+t1;0-0;1;1-3;5,(3-1) BBCBX;O;TOR;Matt Chapman;Matt Manning;6%;50%;Foul Popfly: 1B (1B into Foul Terr.)
+t2;0-2;1;-2-;,(0-0) N;O;TOR;Alejandro Kirk;Matt Manning;6%;74%;Merrifield Caught Stealing 3B (P-3B)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Blue Jays Batting, Tied 0-0, Tigers' Matt Manning facing 1-2-3 
+t1;0-0;0;---;4,(1-2) FCBH;;TOR;Bo Bichette;Matt Manning;-4%;46%;Hit By Pitch
+t1;0-0;0;1--;4,(3-0) BBBB;;TOR;Brandon Belt;Matt Manning;-5%;41%;Walk; Bichette to 2B
+t1;0-0;0;12-;2,(0-1) SX;O;TOR;Vladimir Guerrero Jr.;Matt Manning;2%;43%;Groundout: SS-2B/Forceout at 2B; Bichette to 3B; Guerrero to 1B
+t1;0-0;1;1-3;5,(3-1) BBCBX;O;TOR;Matt Chapman;Matt Manning;6%;50%;Foul Popfly: 1B (1B into Foul Terr.)
+t1;0-0;2;1-3;4,(1-2) CFBC;O;TOR;Cavan Biggio;Matt Manning;5%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Blue Jays 0, Tigers 0.
+Bottom of the 1st, Tigers Batting, Tied 0-0, Blue Jays' Kevin Gausman facing 1-2-3 
+b1;0-0;0;---;2,(0-1) FX;O;DET;Zach McKinstry;Kevin Gausman;-2%;53%;Flyball: CF (Deep CF)
+b1;0-0;1;---;4,(2-1) SBBX;;DET;Riley Greene;Kevin Gausman;2%;55%;Single to SS (Fly Ball to Short CF)
+b1;0-0;1;1--;2,(1-0) BX;R;DET;Spencer Torkelson;Kevin Gausman;11%;66%;Double to LF (Line Drive to Deep LF-CF); Greene Scores
+b1;1-0;1;-2-;5,(2-2) CBSBX;R;DET;Kerry Carpenter;Kevin Gausman;11%;77%;Triple to CF (Fly Ball to Deep CF-RF); Torkelson Scores
+b1;2-0;1;--3;5,(3-1) *B*BBC*B;;DET;Matt Vierling;Kevin Gausman;1%;78%;Walk
+b1;2-0;1;1-3;5,(2-2) B*BFS1X;OO;DET;Javier Báez;Kevin Gausman;-8%;70%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Blue Jays 0, Tigers 2.
+Top of the 2nd, Blue Jays Batting, Behind 0-2, Tigers' Matt Manning facing 6-7-8 
+t2;0-2;0;---;6,(3-2) CBBCBB;;TOR;Whit Merrifield;Matt Manning;-4%;66%;Walk
+t2;0-2;0;1--;2,(0-1) FX;O;TOR;Daulton Varsho;Matt Manning;2%;68%;Groundout: 3B-1B (SS-3B Hole); Merrifield to 2B
+t2;0-2;1;-2-;,(0-0) N;O;TOR;Alejandro Kirk;Matt Manning;6%;74%;Merrifield Caught Stealing 3B (P-3B)
+t2;0-2;2;---;4,(1-2) N.BCCX;O;TOR;Alejandro Kirk;Matt Manning;1%;75%;Lineout: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Tigers 2.
+Bottom of the 2nd, Tigers Batting, Ahead 2-0, Blue Jays' Kevin Gausman facing 7-8-9 
+b2;2-0;0;---;4,(0-2) CCFS;O;DET;Eric Haase;Kevin Gausman;-2%;73%;Strikeout Swinging
+b2;2-0;1;---;6,(2-2) CCBBFS;O;DET;Zack Short;Kevin Gausman;-1%;72%;Strikeout Swinging
+b2;2-0;2;---;3,(1-1) BSX;;DET;Jake Marisnick;Kevin Gausman;1%;73%;Single to RF (Line Drive to CF-RF)
+b2;2-0;2;1--;1,(0-0) X;O;DET;Zach McKinstry;Kevin Gausman;-2%;72%;Flyball: RF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 0, Tigers 2.
+Top of the 3rd, Blue Jays Batting, Behind 0-2, Tigers' Matt Manning facing 9-1-2 
+t3;0-2;0;---;5,(1-2) CBTFC;O;TOR;Kevin Kiermaier;Matt Manning;2%;74%;Strikeout Looking
+t3;0-2;1;---;1,(0-0) X;O;TOR;Bo Bichette;Matt Manning;2%;76%;Lineout: CF (Deep CF)
+t3;0-2;2;---;4,(1-2) BCCC;O;TOR;Brandon Belt;Matt Manning;1%;77%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Tigers 2.
+Bottom of the 3rd, Tigers Batting, Ahead 2-0, Blue Jays' Kevin Gausman facing 2-3-4 
+b3;2-0;0;---;5,(3-1) BBBCB;;DET;Riley Greene;Kevin Gausman;2%;79%;Walk
+b3;2-0;0;1--;7,(1-2) *BSF1FFFT;O;DET;Spencer Torkelson;Kevin Gausman;-2%;77%;Strikeout Swinging
+b3;2-0;1;1--;1,(0-0) X;O;DET;Kerry Carpenter;Kevin Gausman;-2%;75%;Flyball: LF
+b3;2-0;2;1--;3,(0-2) CC.1T;O;DET;Matt Vierling;Kevin Gausman;-2%;73%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Blue Jays 0, Tigers 2.
+Top of the 4th, Blue Jays Batting, Behind 0-2, Tigers' Matt Manning facing 3-4-5 
+t4;0-2;0;---;6,(2-2) BBCFFX;O;TOR;Vladimir Guerrero Jr.;Matt Manning;3%;76%;Foul Popfly: RF (Short RF into Foul Terr.)
+t4;0-2;1;---;2,(0-1) CX;O;TOR;Matt Chapman;Matt Manning;2%;78%;Groundout: 3B-1B (SS-3B Hole)
+t4;0-2;2;---;3,(2-0) BBX;O;TOR;Cavan Biggio;Matt Manning;1%;79%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Tigers 2.
+Bottom of the 4th, Tigers Batting, Ahead 2-0, Blue Jays' Kevin Gausman facing 6-7-8 
+b4;2-0;0;---;5,(2-2) BFSBX;O;DET;Javier Báez;Kevin Gausman;-2%;77%;Flyball: RF (Deep RF)
+b4;2-0;1;---;4,(1-2) SS.BS;O;DET;Eric Haase;Kevin Gausman;-1%;76%;Strikeout Swinging
+b4;2-0;2;---;2,(1-0) BX;O;DET;Zack Short;Kevin Gausman;-1%;75%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Tigers 2.
+Top of the 5th, Blue Jays Batting, Behind 0-2, Tigers' Matt Manning facing 6-7-8 
+t5;0-2;0;---;3,(0-2) CFS;O;TOR;Whit Merrifield;Matt Manning;3%;78%;Strikeout Swinging
+t5;0-2;1;---;3,(0-2) CCX;O;TOR;Daulton Varsho;Matt Manning;2%;80%;Groundout: P-1B
+t5;0-2;2;---;7,(2-2) BFF.BFFX;O;TOR;Alejandro Kirk;Matt Manning;1%;82%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Tigers 2.
+Bottom of the 5th, Tigers Batting, Ahead 2-0, Blue Jays' Kevin Gausman facing 9-1-2 
+b5;2-0;0;---;5,(2-2) BBCFX;O;DET;Jake Marisnick;Kevin Gausman;-1%;80%;Flyball: CF (Deep CF-RF)
+b5;2-0;1;---;3,(1-1) CBX;O;DET;Zach McKinstry;Kevin Gausman;-1%;79%;Popfly: 3B
+b5;2-0;2;---;8,(2-2) CBCBFFFX;;DET;Riley Greene;Kevin Gausman;1%;80%;Single to RF (Line Drive to CF-RF)
+b5;2-0;2;1--;4,(1-2) FCBS;O;DET;Spencer Torkelson;Kevin Gausman;-2%;78%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 0, Tigers 2.
+Top of the 6th, Blue Jays Batting, Behind 0-2, Tigers' Matt Manning facing 9-1-2 
+t6;0-2;0;---;4,(1-2) BCFX;O;TOR;Kevin Kiermaier;Matt Manning;3%;81%;Flyball: LF
+t6;0-2;1;---;1,(0-0) X;O;TOR;Bo Bichette;Matt Manning;2%;84%;Popfly: SS (Short LF Line)
+t6;0-2;2;---;3,(0-2) FCX;O;TOR;Brandon Belt;Matt Manning;1%;85%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Tigers 2.
+Bottom of the 6th, Tigers Batting, Ahead 2-0, Blue Jays' Kevin Gausman facing 4-5-6 
+b6;2-0;0;---;5,(2-2) FBBCX;O;DET;Kerry Carpenter;Kevin Gausman;-1%;84%;Groundout: 1B-P
+b6;2-0;1;---;3,(2-0) BBX;O;DET;Matt Vierling;Kevin Gausman;-1%;83%;Groundout: 3B-1B (SS-3B Hole)
+b6;2-0;2;---;4,(1-2) SFBS;O;DET;Javier Báez;Kevin Gausman;-1%;82%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Tigers 2.
+Top of the 7th, Blue Jays Batting, Behind 0-2, Tigers' Matt Manning facing 3-4-5 
+t7;0-2;0;---;4,(3-0) BBBX;O;TOR;Vladimir Guerrero Jr.;Matt Manning;3%;85%;Flyball: LF (Short LF Line)
+t7;0-2;1;---;8,(3-2) SBCFBBFS;O;TOR;Matt Chapman;Matt Manning;2%;88%;Strikeout Swinging
+t7;0-2;2;---;6,(3-2) BCBBC*B;;TOR;Cavan Biggio;Matt Manning;-2%;86%;Walk
+;;;;;;;;;Jason Foley replaces Matt Manning pitching
+t7;0-2;2;1--;5,(0-2) .FS.FFX;O;TOR;Whit Merrifield;Jason Foley;3%;89%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Blue Jays 0, Tigers 2.
+Bottom of the 7th, Tigers Batting, Ahead 2-0, Blue Jays' Nate Pearson facing 7-8-9 
+;;;;;;;;;Nate Pearson replaces Kevin Gausman pitching
+b7;2-0;0;---;4,(1-2) .BCFX;O;DET;Eric Haase;Nate Pearson;-1%;88%;Groundout: 3B-1B (Weak 3B)
+b7;2-0;1;---;4,(2-1) CBBX;O;DET;Zack Short;Nate Pearson;-1%;87%;Groundout: 3B-1B (SS-3B Hole)
+b7;2-0;2;---;4,(1-2) CBF.S;O;DET;Jake Marisnick;Nate Pearson;-1%;87%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Tigers 2.
+Top of the 8th, Blue Jays Batting, Behind 0-2, Tigers' Jason Foley facing 7-8-9 
+t8;0-2;0;---;5,(2-2) BSBFT;O;TOR;Daulton Varsho;Jason Foley;4%;90%;Strikeout Swinging
+t8;0-2;1;---;4,(1-2) CBCX;O;TOR;Alejandro Kirk;Jason Foley;2%;93%;Lineout: CF (Deep CF)
+t8;0-2;2;---;1,(0-0) X;O;TOR;Kevin Kiermaier;Jason Foley;1%;94%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Tigers 2.
+Bottom of the 8th, Tigers Batting, Ahead 2-0, Blue Jays' Nate Pearson facing 1-2-3 
+b8;2-0;0;---;6,(3-2) FBBBFX;O;DET;Zach McKinstry;Nate Pearson;-1%;93%;Lineout: 1B
+b8;2-0;1;---;6,(3-2) FBFBBB;;DET;Riley Greene;Nate Pearson;1%;94%;Walk
+b8;2-0;1;1--;7,(3-2) BBCFBF.C;O;DET;Spencer Torkelson;Nate Pearson;-1%;93%;Strikeout Looking
+;;;;;;;;;Yimi García replaces Nate Pearson pitching
+b8;2-0;2;1--;5,(2-2) .T*BFBS;O;DET;Kerry Carpenter;Yimi García;-1%;93%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Blue Jays 0, Tigers 2.
+Top of the 9th, Blue Jays Batting, Behind 0-2, Tigers' Alex Lange facing 1-2-3 
+;;;;;;;;;Alex Lange replaces Jason Foley pitching
+t9;0-2;0;---;3,(0-2) .SSS;O;TOR;Bo Bichette;Alex Lange;4%;96%;Strikeout Swinging
+t9;0-2;1;---;4,(1-2) CSBX;O;TOR;Brandon Belt;Alex Lange;2%;99%;Flyball: CF (Deep CF)
+t9;0-2;2;---;3,(0-2) SF.X;O;TOR;Vladimir Guerrero Jr.;Alex Lange;1%;100%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Tigers 2.

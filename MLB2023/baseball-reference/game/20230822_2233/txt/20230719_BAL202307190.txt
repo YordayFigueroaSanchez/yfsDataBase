@@ -1,0 +1,276 @@
+
+Scorebox Meta
+20230719
+1:05 p.m. Local
+22248
+Oriole Park at Camden Yards
+157
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;2;0;0;1;2;0;0;0;0;5;7;0
+https://cdn.ssref.net/req/202308101/tlogo/br/BAL-2023.png;/teams/BAL/2023.shtml;4;0;2;1;1;0;0;0;X;8;10;0
+
+Batting home
+Austin Hays;/players/h/haysau01.shtml;LF;4;0;0;1;0;1;5;.304;.342;.479;.821;23;18;-0.050; 0.46;0.000;-0.050;-0.03%; 0.54; -1.1;3;0;SF
+Anthony Santander;/players/s/santaan02.shtml;RF-1B;2;1;0;0;2;1;4;.272;.346;.497;.843;15;7;0.016; 0.39;0.028;-0.013; 0.01%; 0.45; 0.1;2;0;IW
+Ryan Mountcastle;/players/m/mountry01.shtml;1B;4;1;1;0;0;0;4;.234;.269;.426;.695;10;7;0.005; 0.63;0.038;-0.034; 0.00%; 0.73; -0.4;9;0;
+Colton Cowser;/players/c/cowseco01.shtml;RF;0;0;0;0;0;0;0;.111;.333;.111;.444;;;;;;;;;;0;0;
+Aaron Hicks;/players/h/hicksaa01.shtml;CF;4;1;2;1;0;1;4;.241;.332;.396;.727;13;9;0.079; 0.82;0.105;-0.026; 0.06%; 0.96; 1.0;0;0;
+Jordan Westburg;/players/w/westbjo01.shtml;2B;4;1;2;1;0;0;4;.276;.333;.414;.747;9;6;0.097; 0.78;0.116;-0.018; 0.07%; 0.91; 0.7;2;1;2B
+Gunnar Henderson;/players/h/hendegu01.shtml;DH;3;3;1;1;1;0;4;.247;.343;.472;.816;21;14;0.084; 0.86;0.134;-0.049; 0.06%; 1.01; 0.9;;;HR,GDP
+Ramón Urías;/players/u/uriasra01.shtml;3B;3;0;2;3;1;0;4;.263;.332;.406;.737;15;10;0.260; 0.81;0.265;-0.005; 0.18%; 0.94; 3.3;1;4;2·2B
+James McCann;/players/m/mccanja02.shtml;C;4;0;1;0;0;1;4;.191;.224;.327;.551;15;12;-0.020; 0.44;0.021;-0.041;-0.01%; 0.52; -0.4;6;1;2B
+Jorge Mateo;/players/m/mateojo01.shtml;SS;4;1;1;0;0;0;4;.216;.267;.351;.618;8;7;0.012; 0.41;0.046;-0.033; 0.01%; 0.48; -0.0;3;2;2B,SB
+Dean Kremer;/players/k/kremede01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Danny Coulombe;/players/c/couloda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Yennier Cano;/players/c/canoye01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Félix Bautista;/players/b/bautife01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ramón Urías 2 (19, 2 off Julio Urías); Jordan Westburg (4, off Julio Urías); Jorge Mateo (11, off Julio Urías); James McCann (6, off Phil Bickford).
+
+
+HR: Gunnar Henderson (15, off Julio Urías, 5th inn, 0 on, 2 outs to Deep CF-RF).
+
+
+SF: Austin Hays (4, off Julio Urías).
+
+
+IBB: Anthony Santander (1, by Phil Bickford).
+
+
+TB: Gunnar Henderson 4; Ramón Urías 4; Jordan Westburg 3; Aaron Hicks 2; James McCann 2; Jorge Mateo 2; Ryan Mountcastle.
+
+
+GIDP: Gunnar Henderson (5).
+
+
+RBI: Ramón Urías 3 (33); Gunnar Henderson (41); Jordan Westburg (7); Aaron Hicks (25); Austin Hays (37).
+
+
+2-out RBI: Ramón Urías 3; Gunnar Henderson.
+
+
+Team LOB: 5.
+With RISP: 4 for 10.
+
+Batting away
+Mookie Betts;/players/b/bettsmo01.shtml;2B;4;0;0;0;1;1;5;.279;.380;.574;.954;15;8;-0.048; 0.60;0.019;-0.067;-0.04%; 0.84; -0.5;1;2;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;3;2;0;0;1;1;4;.320;.401;.556;.957;19;12;-0.036; 0.76;0.024;-0.061;-0.03%; 1.07; -0.4;7;0;
+Max Muncy;/players/m/muncyma01.shtml;3B;4;1;1;2;0;1;4;.188;.321;.452;.773;24;16;0.072; 0.66;0.116;-0.043; 0.06%; 0.93; 1.4;0;2;HR
+Will Smith;/players/s/smithwi05.shtml;DH;3;1;2;1;1;0;4;.289;.401;.496;.897;19;11;0.147; 0.72;0.158;-0.011; 0.12%; 1.01; 1.4;;;2B
+David Peralta;/players/p/peralda01.shtml;LF-RF;4;0;2;1;0;0;4;.273;.310;.408;.717;8;7;0.017; 1.08;0.111;-0.094; 0.01%; 1.52; 0.1;2;0;GDP
+Jason Heyward;/players/h/heywaja01.shtml;RF;1;0;0;0;1;0;2;.251;.350;.465;.815;5;1;0.004; 0.53;0.015;-0.011; 0.00%; 0.74; 0.0;2;0;
+Chris Taylor;/players/t/tayloch03.shtml;PH-LF;2;0;0;0;0;1;2;.208;.276;.461;.736;8;5;-0.060; 1.17;0.000;-0.060;-0.05%; 1.65; -0.5;0;0;
+James Outman;/players/o/outmaja01.shtml;CF;4;1;1;1;0;2;4;.243;.332;.430;.762;15;9;-0.021; 0.80;0.054;-0.075;-0.02%; 1.11; 0.1;3;0;HR
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;3;0;0;0;0;0;3;.223;.274;.274;.548;7;6;-0.047; 0.63;0.000;-0.047;-0.04%; 0.88; -0.5;4;3;
+Yonny Hernández;/players/h/hernayo02.shtml;PH;1;0;0;0;0;0;1;.167;.214;.250;.464;3;2;-0.010; 0.40;0.000;-0.010;-0.01%; 0.56; -0.2;;;
+Austin Barnes;/players/b/barneau01.shtml;C;4;0;1;0;0;0;4;.108;.193;.127;.320;15;8;-0.033; 0.46;0.008;-0.041;-0.03%; 0.65; -0.4;5;0;
+Julio Urías;/players/u/uriasju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Phil Bickford;/players/b/bickfph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Justin Bruihl;/players/b/bruihju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Will Smith (12, off Dean Kremer).
+
+
+HR: James Outman (12, off Dean Kremer, 4th inn, 0 on, 2 outs to Deep LF-CF); Max Muncy (22, off Dean Kremer, 5th inn, 1 on, 2 outs to Deep CF).
+
+
+TB: Max Muncy 4; James Outman 4; Will Smith 3; David Peralta 2; Austin Barnes.
+
+
+GIDP: David Peralta (3).
+
+
+RBI: Max Muncy 2 (56); David Peralta (35); Will Smith (50); James Outman (41).
+
+
+2-out RBI: Max Muncy 2; Will Smith; David Peralta; James Outman.
+
+
+Team LOB: 5.
+With RISP: 2 for 4.
+
+Pitching home
+Dean Kremer;/players/k/kremede01.shtml;Dean Kremer; 4.2;4;5;5;4;1;2;4.80;22;91;53;36;4;13;9;8;3;0;33;;;-0.180; 0.70;-0.13%; 0.81; -2.7
+Danny Coulombe;/players/c/couloda01.shtml; W (3-1); 2.1;1;0;0;0;3;0;2.70;8;25;17;5;6;6;3;2;0;0;;1;0;0.121; 0.85; 0.08%; 0.99; 1.2
+Yennier Cano;/players/c/canoye01.shtml; H (22); 1 ;1;0;0;0;1;0;1.58;3;10;7;5;1;1;1;1;1;0;;0;0;0.042; 0.93; 0.03%; 1.09; 0.5
+Félix Bautista;/players/b/bautife01.shtml; S (26); 1 ;1;0;0;0;1;0;1.00;4;12;8;5;2;1;2;1;0;0;;0;0;0.033; 0.44; 0.02%; 0.52; 0.5
+
+Pitching away
+Julio Urías;/players/u/uriasju01.shtml; L (7-6); 5 ;8;8;8;2;2;1;5.02;25;93;66;41;5;20;10;11;3;0;19;;;-0.519; 0.77;-0.44%; 1.08; -5.5
+Phil Bickford;/players/b/bickfph01.shtml;Phil Bickford; 1 ;1;0;0;1;0;0;5.54;5;10;8;6;1;1;2;2;0;0;;0;0;0.017; 0.42; 0.01%; 0.59; 0.5
+Justin Bruihl;/players/b/bruihju01.shtml;Justin Bruihl; 2 ;1;0;0;1;2;0;3.38;7;26;16;8;5;3;2;2;2;0;;0;0;0.019; 0.19; 0.02%; 0.27; 1.0
+
+indiv_events
+
+Balks: None.
+WP: Julio Urías (1).
+HBP: None.
+IBB: Phil Bickford (3; Anthony Santander).
+Pickoffs: None.
+
+Balks: None.
+WP: Julio Urías (1).
+HBP: None.
+IBB: Phil Bickford (3; Anthony Santander).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Edwin Moscoso, 1B - Nate Tomlinson, 2B - David Rackley, 3B - Chris Guccione, LF - (none), RF - (none).
+Time of Game: 2:37.
+Attendance: 22,248.
+Field Condition: Unknown.
+Start Time Weather: 85° F, Wind 3mph out to Centerfield, Cloudy, No Precipitation.
+
+div_lineups
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;2B
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Max Muncy;/players/m/muncyma01.shtml;3B
+4;Will Smith;/players/s/smithwi05.shtml;DH
+5;David Peralta;/players/p/peralda01.shtml;LF
+6;Jason Heyward;/players/h/heywaja01.shtml;RF
+7;James Outman;/players/o/outmaja01.shtml;CF
+8;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+9;Austin Barnes;/players/b/barneau01.shtml;C
+; Julio Urías;/players/u/uriasju01.shtml;P
+Orioles
+1;Austin Hays;/players/h/haysau01.shtml;LF
+2;Anthony Santander;/players/s/santaan02.shtml;RF
+3;Ryan Mountcastle;/players/m/mountry01.shtml;1B
+4;Aaron Hicks;/players/h/hicksaa01.shtml;CF
+5;Jordan Westburg;/players/w/westbjo01.shtml;2B
+6;Gunnar Henderson;/players/h/hendegu01.shtml;DH
+7;Ramón Urías;/players/u/uriasra01.shtml;3B
+8;James McCann;/players/m/mccanja02.shtml;C
+9;Jorge Mateo;/players/m/mateojo01.shtml;SS
+; Dean Kremer;/players/k/kremede01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;2-2;2;1-3;3,(0-2) CF1X;RR;BAL;Ramón Urías;Julio Urías;18%;72%;Double to RF (Line Drive to Deep RF); Hicks Scores; Henderson Scores
+t5;3-7;2;1--;6,(3-2) CSB*B*B>X;RR;LAD;Max Muncy;Dean Kremer;-12%;80%;Home Run (Fly Ball to Deep CF); Freeman Scores
+t1;0-0;2;-2-;6,(2-2) SS.BFBX;R;LAD;Will Smith;Dean Kremer;-10%;42%;Double to CF (Line Drive to Deep CF-RF); Freeman Scores
+b1;1-2;1;12-;1,(0-0) X;R;BAL;Jordan Westburg;Julio Urías;10%;59%;Single to RF (Line Drive to Short RF); Mountcastle Scores; Hicks to 2B
+b1;0-2;1;12-;2,(0-1) CX;R;BAL;Aaron Hicks;Julio Urías;10%;49%;Single to CF (Ground Ball thru SS-2B); Santander Scores; Mountcastle to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Dodgers Batting, Tied 0-0, Orioles' Dean Kremer facing 1-2-3 
+t1;0-0;0;---;2,(1-0) BX;O;LAD;Mookie Betts;Dean Kremer;2%;52%;Flyball: 2B (Short CF)
+t1;0-0;1;---;10,(3-2) FCFFBBBFFB;;LAD;Freddie Freeman;Dean Kremer;-2%;50%;Walk
+t1;0-0;1;1--;10,(3-2) FFFFB>F*BF1BX;O;LAD;Max Muncy;Dean Kremer;2%;52%;Groundout: C-1B; Freeman to 2B
+t1;0-0;2;-2-;6,(2-2) SS.BFBX;R;LAD;Will Smith;Dean Kremer;-10%;42%;Double to CF (Line Drive to Deep CF-RF); Freeman Scores
+t1;1-0;2;-2-;2,(0-1) CX;R;LAD;David Peralta;Dean Kremer;-9%;33%;Single to LF (Line Drive to Deep 3B); Smith Scores
+t1;2-0;2;1--;4,(3-0) BBBB;;LAD;Jason Heyward;Dean Kremer;-1%;32%;Walk; Peralta to 2B
+t1;2-0;2;12-;3,(1-1) CBX;O;LAD;James Outman;Dean Kremer;3%;35%;Groundout: P unassisted (Weak 2B-1B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 2 LOB. Dodgers 2, Orioles 0.
+Bottom of the 1st, Orioles Batting, Behind 0-2, Dodgers' Julio Urías facing 1-2-3 
+b1;0-2;0;---;2,(0-1) CX;O;BAL;Austin Hays;Julio Urías;-2%;32%;Groundout: 3B-1B
+b1;0-2;1;---;5,(3-1) BCBBB;;BAL;Anthony Santander;Julio Urías;3%;35%;Walk
+b1;0-2;1;1--;7,(3-2) CCBFB*BX;;BAL;Ryan Mountcastle;Julio Urías;4%;39%;Single to RF (Ground Ball); Santander to 2B
+b1;0-2;1;12-;2,(0-1) CX;R;BAL;Aaron Hicks;Julio Urías;10%;49%;Single to CF (Ground Ball thru SS-2B); Santander Scores; Mountcastle to 2B
+b1;1-2;1;12-;1,(0-0) X;R;BAL;Jordan Westburg;Julio Urías;10%;59%;Single to RF (Line Drive to Short RF); Mountcastle Scores; Hicks to 2B
+b1;2-2;1;12-;4,(1-2) FFBX;O;BAL;Gunnar Henderson;Julio Urías;-4%;55%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Hicks to 3B; Henderson to 1B
+b1;2-2;2;1-3;3,(0-2) CF1X;RR;BAL;Ramón Urías;Julio Urías;18%;72%;Double to RF (Line Drive to Deep RF); Hicks Scores; Henderson Scores
+b1;4-2;2;-2-;5,(1-2) CFBFX;O;BAL;James McCann;Julio Urías;-2%;70%;Flyball: RF (Short CF-RF)
+;;;;;;;;;4 runs, 4 hits, 0 errors, 1 LOB. Dodgers 2, Orioles 4.
+Top of the 2nd, Dodgers Batting, Behind 2-4, Orioles' Dean Kremer facing 8-9-1 
+t2;2-4;0;---;2,(0-1) C.X;O;LAD;Miguel Rojas;Dean Kremer;2%;72%;Flyball: RF (Deep 2B-1B)
+t2;2-4;1;---;5,(2-2) CBBF.X;O;LAD;Austin Barnes;Dean Kremer;2%;74%;Groundout: 3B-1B (SS-3B Hole)
+t2;2-4;2;---;4,(1-2) CFBC;O;LAD;Mookie Betts;Dean Kremer;1%;75%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Orioles 4.
+Bottom of the 2nd, Orioles Batting, Ahead 4-2, Dodgers' Julio Urías facing 9-1-2 
+b2;4-2;0;---;1,(0-0) X;O;BAL;Jorge Mateo;Julio Urías;-2%;73%;Flyball: RF (Deep RF)
+b2;4-2;1;---;6,(0-2) CCFFFX;O;BAL;Austin Hays;Julio Urías;-1%;72%;Groundout: 3B-1B (SS-3B Hole)
+b2;4-2;2;---;6,(3-2) BCCBB.X;O;BAL;Anthony Santander;Julio Urías;-1%;72%;Popfly: 1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Orioles 4.
+Top of the 3rd, Dodgers Batting, Behind 2-4, Orioles' Dean Kremer facing 2-3-4 
+t3;2-4;0;---;2,(0-1) FX;O;LAD;Freddie Freeman;Dean Kremer;2%;74%;Groundout: 1B unassisted
+t3;2-4;1;---;4,(1-2) CSBX;O;LAD;Max Muncy;Dean Kremer;2%;76%;Groundout: 1B unassisted
+t3;2-4;2;---;4,(1-2) FFBX;O;LAD;Will Smith;Dean Kremer;1%;77%;Groundout: 3B-1B
+;;;;;;;;;Force Play Challenged by BAL manager (Brandon Hyde): Original call overturned as shown.
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Orioles 4.
+Bottom of the 3rd, Orioles Batting, Ahead 4-2, Dodgers' Julio Urías facing 3-4-5 
+b3;4-2;0;---;1,(0-0) X;O;BAL;Ryan Mountcastle;Julio Urías;-2%;75%;Flyball: LF (Deep LF Line)
+b3;4-2;1;---;3,(0-2) CFX;O;BAL;Aaron Hicks;Julio Urías;-1%;74%;Groundout: P-1B (Weak SS-2B)
+b3;4-2;2;---;2,(1-0) BX;;BAL;Jordan Westburg;Julio Urías;2%;76%;Double to RF (Ground Ball)
+b3;4-2;2;-2-;8,(3-2) *BBSBCFFB;;BAL;Gunnar Henderson;Julio Urías;1%;76%;Walk
+b3;4-2;2;12-;6,(1-2) BCFFFX;R;BAL;Ramón Urías;Julio Urías;8%;85%;Double to LF (Line Drive to LF Line); Westburg Scores; Henderson to 3B
+b3;5-2;2;-23;3,(0-2) SCB;R;BAL;James McCann;Julio Urías;5%;89%;Wild Pitch; Henderson Scores/No RBI; Urías to 3B
+b3;6-2;2;--3;4,(1-2) SCB.X;O;BAL;James McCann;Julio Urías;-1%;88%;Foul Popfly: 2B (1B into Foul Terr.)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Dodgers 2, Orioles 6.
+Top of the 4th, Dodgers Batting, Behind 2-6, Orioles' Dean Kremer facing 5-6-7 
+t4;2-6;0;---;4,(1-2) CBCX;O;LAD;David Peralta;Dean Kremer;2%;90%;Groundout: P-1B (Front of Home)
+t4;2-6;1;---;1,(0-0) X;O;LAD;Jason Heyward;Dean Kremer;1%;91%;Lineout: LF
+t4;2-6;2;---;3,(2-0) BBX;R;LAD;James Outman;Dean Kremer;-5%;85%;Home Run (Fly Ball to Deep LF-CF)
+t4;3-6;2;---;4,(1-2) CFBX;O;LAD;Miguel Rojas;Dean Kremer;1%;86%;Groundout: SS-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Dodgers 3, Orioles 6.
+Bottom of the 4th, Orioles Batting, Ahead 6-3, Dodgers' Julio Urías facing 9-1-2 
+b4;6-3;0;---;2,(0-1) FX;;BAL;Jorge Mateo;Julio Urías;3%;89%;Double to CF (Ground Ball)
+b4;6-3;0;-2-;3,(1-1) BF>B;;BAL;Austin Hays;Julio Urías;2%;91%;Mateo Steals 3B
+b4;6-3;0;--3;7,(3-2) BF>B.FFBX;RO;BAL;Austin Hays;Julio Urías;0%;91%;Flyball: CF/Sacrifice Fly; Mateo Scores
+b4;7-3;1;---;4,(1-2) CFBC;O;BAL;Anthony Santander;Julio Urías;0%;90%;Strikeout Looking
+b4;7-3;2;---;1,(0-0) X;O;BAL;Ryan Mountcastle;Julio Urías;0%;90%;Groundout: SS-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Dodgers 3, Orioles 7.
+Top of the 5th, Dodgers Batting, Behind 3-7, Orioles' Dean Kremer facing 9-1-2 
+t5;3-7;0;---;3,(2-0) BBX;O;LAD;Austin Barnes;Dean Kremer;2%;92%;Flyball: LF (Deep LF)
+t5;3-7;1;---;4,(3-0) BBBB;;LAD;Mookie Betts;Dean Kremer;-2%;90%;Walk
+t5;3-7;1;1--;2,(1-0) BX;O;LAD;Freddie Freeman;Dean Kremer;2%;92%;Groundout: 3B-SS/Forceout at 2B (SS-3B Hole); Freeman to 1B
+;;;;;;;;;Force Play Challenged by LAD manager (Dave Roberts): Original call overturned as shown.
+t5;3-7;2;1--;6,(3-2) CSB*B*B>X;RR;LAD;Max Muncy;Dean Kremer;-12%;80%;Home Run (Fly Ball to Deep CF); Freeman Scores
+t5;5-7;2;---;6,(3-2) BBBCFB;;LAD;Will Smith;Dean Kremer;-2%;79%;Walk
+;;;;;;;;;Danny Coulombe replaces Dean Kremer pitching
+t5;5-7;2;1--;1,(0-0) .X;;LAD;David Peralta;Danny Coulombe;-3%;76%;Single to LF (Ground Ball thru SS-3B Hole); Smith to 2B
+;;;;;;;;;Chris Taylor pinch hits for Jason Heyward (RF) batting 6th
+t5;5-7;2;12-;2,(1-0) .BX;O;LAD;Chris Taylor;Danny Coulombe;5%;82%;Groundout: 3B unassisted/Forceout at 3B; Taylor to 1B
+;;;;;;;;;2 runs, 2 hits, 0 errors, 2 LOB. Dodgers 5, Orioles 7.
+Bottom of the 5th, Orioles Batting, Ahead 7-5, Dodgers' Julio Urías facing 4-5-6 
+;;;;;;;;;Chris Taylor moves from PH to LF David Peralta moves from LF to RF 
+b5;7-5;0;---;5,(2-2) ..CS.BB*S;O;BAL;Aaron Hicks;Julio Urías;-1%;80%;Strikeout Swinging
+b5;7-5;1;---;5,(2-2) CBSBX;O;BAL;Jordan Westburg;Julio Urías;-1%;79%;Flyball: SS (Deep 3B)
+b5;7-5;2;---;2,(0-1) CX;R;BAL;Gunnar Henderson;Julio Urías;8%;87%;Home Run (Fly Ball to Deep CF-RF)
+b5;8-5;2;---;1,(0-0) X;O;BAL;Ramón Urías;Julio Urías;0%;87%;Groundout: SS-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Dodgers 5, Orioles 8.
+Top of the 6th, Dodgers Batting, Behind 5-8, Orioles' Danny Coulombe facing 7-8-9 
+t6;5-8;0;---;5,(2-2) BSBCS;O;LAD;James Outman;Danny Coulombe;2%;89%;Strikeout Swinging
+t6;5-8;1;---;1,(0-0) X;O;LAD;Miguel Rojas;Danny Coulombe;2%;91%;Popfly: SS (SS-3B Hole)
+t6;5-8;2;---;5,(2-2) CSBBX;O;LAD;Austin Barnes;Danny Coulombe;1%;91%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 5, Orioles 8.
+Bottom of the 6th, Orioles Batting, Ahead 8-5, Dodgers' Phil Bickford facing 8-9-1 
+;;;;;;;;;Phil Bickford replaces Julio Urías pitching
+b6;8-5;0;---;3,(1-1) .BCX;;BAL;James McCann;Phil Bickford;2%;94%;Double to LF (Ground Ball)
+b6;8-5;0;-2-;3,(1-1) LBX;O;BAL;Jorge Mateo;Phil Bickford;-1%;92%;Foul Bunt Popfly: C (Behind Home)
+b6;8-5;1;-2-;3,(0-2) FSX;O;BAL;Austin Hays;Phil Bickford;-1%;91%;Flyball: CF (Deep CF)
+b6;8-5;2;-2-;,(3-0) VVVV;;BAL;Anthony Santander;Phil Bickford;0%;91%;Intentional Walk
+b6;8-5;2;12-;1,(0-0) X;O;BAL;Ryan Mountcastle;Phil Bickford;-1%;90%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Dodgers 5, Orioles 8.
+Top of the 7th, Dodgers Batting, Behind 5-8, Orioles' Danny Coulombe facing 1-2-3 
+t7;5-8;0;---;2,(0-1) CX;O;LAD;Mookie Betts;Danny Coulombe;2%;92%;Groundout: P-1B
+t7;5-8;1;---;5,(2-2) CSBBS;O;LAD;Freddie Freeman;Danny Coulombe;1%;94%;Strikeout Swinging
+t7;5-8;2;---;4,(1-2) CCBS;O;LAD;Max Muncy;Danny Coulombe;1%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 5, Orioles 8.
+Bottom of the 7th, Orioles Batting, Ahead 8-5, Dodgers' Justin Bruihl facing 4-5-6 
+;;;;;;;;;Justin Bruihl replaces Phil Bickford pitching
+b7;8-5;0;---;3,(2-0) .BBX;;BAL;Aaron Hicks;Justin Bruihl;1%;95%;Single to LF (Ground Ball thru SS-3B Hole)
+b7;8-5;0;1--;1,(0-0) X;O;BAL;Jordan Westburg;Justin Bruihl;-1%;94%;Lineout: SS
+b7;8-5;1;1--;7,(2-2) *BF1SFFBX;OO;BAL;Gunnar Henderson;Justin Bruihl;-1%;93%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Dodgers 5, Orioles 8.
+Top of the 8th, Dodgers Batting, Behind 5-8, Orioles' Yennier Cano facing 4-5-6 
+;;;;;;;;;Yennier Cano replaces Danny Coulombe pitching
+t8;5-8;0;---;3,(1-1) .FBX;;LAD;Will Smith;Yennier Cano;-4%;89%;Single to LF (Line Drive)
+t8;5-8;0;1--;1,(0-0) X;OO;LAD;David Peralta;Yennier Cano;8%;97%;Ground Ball Double Play: 2B-SS-1B
+t8;5-8;2;---;6,(2-2) .CBBFF*S;O;LAD;Chris Taylor;Yennier Cano;1%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Dodgers 5, Orioles 8.
+Bottom of the 8th, Orioles Batting, Ahead 8-5, Dodgers' Justin Bruihl facing 7-8-9 
+b8;8-5;0;---;5,(3-1) CBBB*B;;BAL;Ramón Urías;Justin Bruihl;0%;98%;Walk
+b8;8-5;0;1--;3,(0-2) CS*S;O;BAL;James McCann;Justin Bruihl;0%;97%;Strikeout Swinging
+b8;8-5;1;1--;2,(0-1) FX;O;BAL;Jorge Mateo;Justin Bruihl;0%;97%;Lineout: RF (CF-RF)
+b8;8-5;2;1--;5,(2-2) CB1BSS;O;BAL;Austin Hays;Justin Bruihl;0%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Dodgers 5, Orioles 8.
+Top of the 9th, Dodgers Batting, Behind 5-8, Orioles' Félix Bautista facing 7-8-9 
+;;;;;;;;;Félix Bautista replaces Yennier Cano pitchingAnthony Santander moves from RF to 1B Colton Cowser replaces Ryan Mountcastle (1B) playing RF batting 3rd
+t9;5-8;0;---;4,(1-2) ...BFSS;O;LAD;James Outman;Félix Bautista;2%;99%;Strikeout Swinging
+;;;;;;;;;Yonny Hernández pinch hits for Miguel Rojas (SS) batting 8th
+t9;5-8;1;---;3,(1-1) .BCX;O;LAD;Yonny Hernández;Félix Bautista;1%;100%;Flyball: LF (Deep LF)
+t9;5-8;2;---;2,(1-0) BX;;LAD;Austin Barnes;Félix Bautista;-1%;99%;Single to LF (Ground Ball thru SS-3B Hole)
+t9;5-8;2;1--;3,(1-1) >F*BX;O;LAD;Mookie Betts;Félix Bautista;1%;100%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Betts to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 5, Orioles 8.

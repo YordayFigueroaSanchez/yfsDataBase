@@ -1,0 +1,253 @@
+
+Scorebox Meta
+20230706
+1:10 p.m. Local
+15133
+Comerica Park
+138
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/OAK-2023.png;/teams/OAK/2023.shtml;0;0;0;0;0;0;0;0;0;0;4;1
+https://cdn.ssref.net/req/202308101/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;2;0;2;2;1;1;1;0;X;9;13;1
+
+Batting home
+Matt Vierling;/players/v/vierlma01.shtml;LF;4;1;1;1;1;1;5;.276;.340;.421;.761;23;17;0.008; 0.33;0.031;-0.023; 0.00%; 0.11; 0.1;3;0;
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;4;1;1;0;1;2;5;.225;.309;.400;.709;19;13;-0.002; 0.35;0.024;-0.027;0%; 0.12; -0.4;8;3;
+Andy Ibáñez;/players/i/ibanean01.shtml;RF;4;2;1;0;1;0;5;.228;.264;.408;.672;19;12;0.103; 0.42;0.106;-0.004; 0.02%; 0.14; 0.6;1;0;2B
+Kerry Carpenter;/players/c/carpeke01.shtml;DH;4;0;2;1;1;1;5;.275;.333;.500;.833;16;11;0.006; 0.58;0.084;-0.078; 0.00%; 0.19; 0.8;;;
+Javier Báez;/players/b/baezja01.shtml;SS;3;2;3;2;1;0;4;.226;.262;.334;.597;14;10;0.176; 0.74;0.176;0.000; 0.04%; 0.24; 3.3;1;2;2B
+Tyler Nevin;/players/n/nevinty01.shtml;3B;1;0;0;0;0;0;1;.122;.214;.184;.398;1;1;0.000; 0.00;0.000;0.000;0%; 0.00; -0.4;0;1;
+Jonathan Schoop;/players/s/schoojo01.shtml;3B-2B;3;0;1;1;0;0;4;.213;.278;.272;.550;13;10;0.000; 0.47;0.017;-0.017;0%; 0.16; -0.1;0;1;SF
+Eric Haase;/players/h/haaseer01.shtml;C;4;0;1;1;0;2;4;.213;.261;.299;.560;21;14;-0.038; 0.35;0.001;-0.038;-0.01%; 0.12; -0.6;8;1;GDP
+Zack Short;/players/s/shortza01.shtml;2B-SS;4;1;1;0;0;2;4;.222;.292;.359;.651;13;10;0.007; 0.18;0.019;-0.012; 0.00%; 0.06; -0.1;2;4;2B
+Jake Marisnick;/players/m/marisja01.shtml;CF;4;2;2;2;0;1;4;.221;.260;.412;.672;17;10;0.030; 0.17;0.037;-0.008; 0.01%; 0.06; 1.8;1;0;HR,2B,SB
+Michael Lorenzen;/players/l/lorenmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tyler Holton;/players/h/holtoty01.shtml;P;;;;;;;;;;;;;;;;;;;;;2;0;
+Brendan White;/players/w/whitebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Chasen Shreve;/players/s/shrevch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Andy Ibáñez (13, off Hogan Harris); Zack Short (4, off Hogan Harris); Jake Marisnick (3, off Hogan Harris); Javier Báez (11, off Hogan Harris).
+
+
+HR: Jake Marisnick (2, off Rico Garcia, 6th inn, 0 on, 0 outs to Deep LF-CF).
+
+
+SF: Jonathan Schoop (2, off Hogan Harris).
+
+
+TB: Jake Marisnick 6; Javier Báez 4; Zack Short 2; Kerry Carpenter 2; Andy Ibáñez 2; Spencer Torkelson; Eric Haase; Jonathan Schoop; Matt Vierling.
+
+
+GIDP: Eric Haase (7).
+
+
+RBI: Jake Marisnick 2 (10); Javier Báez 2 (44); Eric Haase (22); Jonathan Schoop (7); Kerry Carpenter (20); Matt Vierling (23).
+
+
+2-out RBI: Javier Báez 2.
+
+
+Team LOB: 8.
+With RISP: 6 for 13.
+
+Batting away
+Tony Kemp;/players/k/kempto01.shtml;LF;4;0;0;0;0;1;4;.195;.284;.284;.568;16;11;-0.041; 0.40;0.000;-0.041;0%; 0.00; -0.7;1;0;
+JJ Bleday;/players/b/bledajj01.shtml;CF;4;0;0;0;0;3;4;.204;.314;.366;.680;20;14;-0.028; 0.28;0.000;-0.028;0%; 0.00; -0.7;3;0;
+Brent Rooker;/players/r/rookebr01.shtml;DH;3;0;1;0;0;1;3;.241;.336;.466;.802;12;8;-0.002; 0.23;0.009;-0.011;0%; 0.00; -0.1;;;
+Nick Allen;/players/a/allenni02.shtml;SS;0;0;0;0;0;0;0;.194;.243;.231;.475;;;;;;;;;;0;0;
+Seth Brown;/players/b/brownse01.shtml;RF;3;0;0;0;0;1;3;.197;.261;.368;.629;17;11;-0.039; 0.49;0.000;-0.039;0%; 0.00; -0.6;3;0;
+Jordan Diaz;/players/d/diazjo03.shtml;2B;3;0;2;0;0;1;3;.256;.289;.442;.731;11;9;-0.001; 0.32;0.015;-0.016;0%; 0.00; 0.8;1;1;
+Jace Peterson;/players/p/peterja01.shtml;3B-P;3;0;0;0;0;1;3;.206;.296;.309;.605;10;7;-0.037; 0.34;0.000;-0.037;0%; 0.00; -1.3;1;1;GDP
+Aledmys Díaz;/players/d/diazal02.shtml;1B;3;0;1;0;0;0;3;.204;.257;.284;.540;11;6;0.038; 0.36;0.041;-0.003;0%; 0.00; -0.0;5;0;
+Tyler Wade;/players/w/wadety01.shtml;SS-3B;3;0;0;0;0;0;3;.267;.313;.333;.646;11;7;-0.042; 0.61;0.000;-0.042;0%; 0.00; -1.0;1;4;
+Manny Piña;/players/p/pinama01.shtml;C;2;0;0;0;0;0;2;.000;.000;.000;.000;9;6;-0.058; 0.69;0.000;-0.058;0%; 0.00; -0.7;9;0;GDP
+Shea Langeliers;/players/l/langesh01.shtml;C;1;0;0;0;0;1;1;.207;.268;.368;.635;4;3;0.000; 0.01;0.000;0.000;0%; 0.00; -0.2;0;0;
+Hogan Harris;/players/h/harriho03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Rico Garcia;/players/g/garciri01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Richard Lovelady;/players/l/lovelri01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+TB: Jordan Diaz 2; Brent Rooker; Aledmys Díaz.
+
+
+GIDP: Manny Piña (1); Jace Peterson (6).
+
+
+Team LOB: 2.
+With RISP: 0 for 3.
+
+Pitching home
+Michael Lorenzen;/players/l/lorenmi01.shtml; W (3-6); 5 ;3;0;0;0;4;0;4.03;16;60;40;19;10;11;8;4;1;0;65;;;0.200; 0.66; 0.04%; 0.22; 2.5
+Tyler Holton;/players/h/holtoty01.shtml;Tyler Holton; 2 ;0;0;0;0;1;0;1.93;6;34;23;15;2;6;1;4;1;0;;0;0;0.010; 0.07; 0.00%; 0.02; 1.0
+Brendan White;/players/w/whitebr01.shtml;Brendan White; 1 ;1;0;0;0;1;0;5.40;4;15;10;3;4;3;3;0;0;0;;0;0;0.001; 0.02; 0.00%; 0.01; 0.5
+Chasen Shreve;/players/s/shrevch01.shtml;Chasen Shreve; 1 ;0;0;0;0;3;0;4.94;3;12;9;1;5;3;0;0;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+Pitching away
+Hogan Harris;/players/h/harriho03.shtml; L (2-3); 4.2;8;7;7;4;6;0;6.07;25;105;69;39;12;18;5;10;4;0;22;;;-0.286; 0.62; 0.00%; 0.00; -4.6
+Rico Garcia;/players/g/garciri01.shtml;Rico Garcia; 1.2;4;2;2;0;2;1;8.31;9;32;26;15;6;5;3;4;2;0;;0;0;-0.003; 0.01; 0.00%; 0.00; -1.8
+Richard Lovelady;/players/l/lovelri01.shtml;Richard Lovelady; 0.2;0;0;0;0;1;0;4.43;2;7;6;4;1;1;0;1;0;0;;2;0;0.000; 0.01; 0.00%; 0.00; 0.9
+Jace Peterson;/players/p/peterja01.shtml;Jace Peterson; 1 ;1;0;0;1;0;0;9.00;5;12;7;5;0;2;0;4;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Chad Whitson, 1B - Rob Drake, 2B - Bill Miller, 3B - Roberto Ortiz, LF - (none), RF - (none).
+Time of Game: 2:18.
+Attendance: 15,133.
+Field Condition: Unknown.
+Start Time Weather: 80° F, Wind 8mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Athletics
+1;Tony Kemp;/players/k/kempto01.shtml;LF
+2;JJ Bleday;/players/b/bledajj01.shtml;CF
+3;Brent Rooker;/players/r/rookebr01.shtml;DH
+4;Seth Brown;/players/b/brownse01.shtml;RF
+5;Jordan Diaz;/players/d/diazjo03.shtml;2B
+6;Jace Peterson;/players/p/peterja01.shtml;3B
+7;Aledmys Díaz;/players/d/diazal02.shtml;1B
+8;Tyler Wade;/players/w/wadety01.shtml;SS
+9;Manny Piña;/players/p/pinama01.shtml;C
+; Hogan Harris;/players/h/harriho03.shtml;P
+Tigers
+1;Matt Vierling;/players/v/vierlma01.shtml;LF
+2;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+3;Andy Ibáñez;/players/i/ibanean01.shtml;RF
+4;Kerry Carpenter;/players/c/carpeke01.shtml;DH
+5;Javier Báez;/players/b/baezja01.shtml;SS
+6;Jonathan Schoop;/players/s/schoojo01.shtml;3B
+7;Eric Haase;/players/h/haaseer01.shtml;C
+8;Zack Short;/players/s/shortza01.shtml;2B
+9;Jake Marisnick;/players/m/marisja01.shtml;CF
+; Michael Lorenzen;/players/l/lorenmi01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-0;2;-23;3,(0-2) CFX;RR;DET;Javier Báez;Hogan Harris;16%;72%;Single to CF (Line Drive to Short LF-CF); Torkelson Scores; Ibáñez Scores
+b3;2-0;1;12-;1,(0-0) X;R;DET;Kerry Carpenter;Hogan Harris;8%;88%;Single to LF (Line Drive); Vierling Scores; Ibáñez to 3B/Adv on E7
+b1;0-0;1;1--;5,(2-2) CFBBX;;DET;Andy Ibáñez;Hogan Harris;8%;63%;Double to CF (Fly Ball to Deep CF-RF); Torkelson to 3B
+b1;0-0;1;-23;4,(1-2) BCFS;O;DET;Kerry Carpenter;Hogan Harris;-7%;56%;Strikeout Swinging
+t3;0-2;1;1--;4,(2-1) .CB*BX;OO;OAK;Manny Piña;Michael Lorenzen;6%;77%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Athletics Batting, Tied 0-0, Tigers' Michael Lorenzen facing 1-2-3 
+t1;0-0;0;---;2,(0-1) CX;O;OAK;Tony Kemp;Michael Lorenzen;2%;52%;Groundout: 2B-1B (2B-1B)
+t1;0-0;1;---;4,(1-2) SSBS;O;OAK;JJ Bleday;Michael Lorenzen;2%;54%;Strikeout Swinging
+t1;0-0;2;---;3,(1-1) BCX;O;OAK;Brent Rooker;Michael Lorenzen;1%;55%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Tigers 0.
+Bottom of the 1st, Tigers Batting, Tied 0-0, Athletics' Hogan Harris facing 1-2-3 
+b1;0-0;0;---;2,(0-1) TX;O;DET;Matt Vierling;Hogan Harris;-2%;53%;Groundout: SS-1B (Deep SS)
+b1;0-0;1;---;7,(3-2) F.BBCFBB;;DET;Spencer Torkelson;Hogan Harris;2%;55%;Walk
+b1;0-0;1;1--;5,(2-2) CFBBX;;DET;Andy Ibáñez;Hogan Harris;8%;63%;Double to CF (Fly Ball to Deep CF-RF); Torkelson to 3B
+b1;0-0;1;-23;4,(1-2) BCFS;O;DET;Kerry Carpenter;Hogan Harris;-7%;56%;Strikeout Swinging
+b1;0-0;2;-23;3,(0-2) CFX;RR;DET;Javier Báez;Hogan Harris;16%;72%;Single to CF (Line Drive to Short LF-CF); Torkelson Scores; Ibáñez Scores
+b1;2-0;2;1--;4,(2-1) BBCX;O;DET;Jonathan Schoop;Hogan Harris;-2%;70%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Athletics 0, Tigers 2.
+Top of the 2nd, Athletics Batting, Behind 0-2, Tigers' Michael Lorenzen facing 4-5-6 
+t2;0-2;0;---;4,(1-2) CBF.C;O;OAK;Seth Brown;Michael Lorenzen;2%;72%;Strikeout Looking
+t2;0-2;1;---;6,(2-2) SCF.BB*S;O;OAK;Jordan Diaz;Michael Lorenzen;2%;74%;Strikeout Swinging; Diaz out at 1B/C-1B
+t2;0-2;2;---;1,(0-0) X;O;OAK;Jace Peterson;Michael Lorenzen;1%;75%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Tigers 2.
+Bottom of the 2nd, Tigers Batting, Ahead 2-0, Athletics' Hogan Harris facing 7-8-9 
+b2;2-0;0;---;3,(0-2) CSS;O;DET;Eric Haase;Hogan Harris;-2%;73%;Strikeout Swinging
+b2;2-0;1;---;5,(1-2) CS.FBC;O;DET;Zack Short;Hogan Harris;-1%;72%;Strikeout Looking
+b2;2-0;2;---;6,(2-2) CBBSFC;O;DET;Jake Marisnick;Hogan Harris;-1%;71%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Tigers 2.
+Top of the 3rd, Athletics Batting, Behind 0-2, Tigers' Michael Lorenzen facing 7-8-9 
+t3;0-2;0;---;1,(0-0) X;;OAK;Aledmys Díaz;Michael Lorenzen;-4%;67%;Single to LF (Ground Ball)
+t3;0-2;0;1--;1,(0-0) X;O;OAK;Tyler Wade;Michael Lorenzen;4%;71%;Foul Popfly: LF (Short LF into Foul Terr.)
+t3;0-2;1;1--;4,(2-1) .CB*BX;OO;OAK;Manny Piña;Michael Lorenzen;6%;77%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Athletics 0, Tigers 2.
+Bottom of the 3rd, Tigers Batting, Ahead 2-0, Athletics' Hogan Harris facing 1-2-3 
+b3;2-0;0;---;10,(3-2) CBS.FBFFFBB;;DET;Matt Vierling;Hogan Harris;2%;79%;Walk
+b3;2-0;0;1--;4,(1-2) CBFC;O;DET;Spencer Torkelson;Hogan Harris;-2%;77%;Strikeout Looking
+b3;2-0;1;1--;7,(3-2) FCBF*BBB;;DET;Andy Ibáñez;Hogan Harris;2%;79%;Walk; Vierling to 2B
+b3;2-0;1;12-;1,(0-0) X;R;DET;Kerry Carpenter;Hogan Harris;8%;88%;Single to LF (Line Drive); Vierling Scores; Ibáñez to 3B/Adv on E7
+b3;3-0;1;1-3;6,(3-2) TFB*BB1B;;DET;Javier Báez;Hogan Harris;1%;89%;Walk; Carpenter to 2B
+b3;3-0;1;123;4,(1-2) FBFX;RO;DET;Jonathan Schoop;Hogan Harris;1%;90%;Flyball: RF/Sacrifice Fly (Deep RF Line); Ibáñez Scores; Carpenter to 3B; Báez to 2B
+b3;4-0;2;-23;5,(2-2) BSS.BS;O;DET;Eric Haase;Hogan Harris;-2%;88%;Strikeout Swinging
+;;;;;;;;;2 runs, 1 hit, 1 error, 2 LOB. Athletics 0, Tigers 4.
+Top of the 4th, Athletics Batting, Behind 0-4, Tigers' Michael Lorenzen facing 1-2-3 
+t4;0-4;0;---;4,(2-1) CBBX;O;OAK;Tony Kemp;Michael Lorenzen;2%;90%;Groundout: 2B-1B (2B-1B)
+t4;0-4;1;---;9,(3-2) SBFBBF.FFS;O;OAK;JJ Bleday;Michael Lorenzen;1%;91%;Strikeout Swinging
+t4;0-4;2;---;4,(1-2) CBSX;;OAK;Brent Rooker;Michael Lorenzen;-1%;90%;Single to LF (Line Drive to Deep LF)
+t4;0-4;2;1--;4,(3-0) *BBBX;O;OAK;Seth Brown;Michael Lorenzen;2%;91%;Groundout: 1B-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 0, Tigers 4.
+Bottom of the 4th, Tigers Batting, Ahead 4-0, Athletics' Hogan Harris facing 8-9-1 
+b4;4-0;0;---;2,(1-0) BX;;DET;Zack Short;Hogan Harris;2%;93%;Double to LF (Line Drive to Deep LF Line)
+b4;4-0;0;-2-;5,(3-1) FB*BBX;R;DET;Jake Marisnick;Hogan Harris;3%;96%;Double to CF (Fly Ball to Deep CF); Short Scores
+b4;5-0;0;-2-;1,(0-0) >C;;DET;Matt Vierling;Hogan Harris;1%;97%;Marisnick Steals 3B
+b4;5-0;0;--3;3,(0-2) >C.FX;R;DET;Matt Vierling;Hogan Harris;1%;97%;Single to RF (Ground Ball); Marisnick Scores
+b4;6-0;0;1--;4,(1-2) BCSX;O;DET;Spencer Torkelson;Hogan Harris;0%;97%;Flyball: CF
+b4;6-0;1;1--;1,(0-0) X;O;DET;Andy Ibáñez;Hogan Harris;0%;97%;Flyball: RF (CF-RF)
+b4;6-0;2;1--;2,(0-1) SX;O;DET;Kerry Carpenter;Hogan Harris;0%;96%;Popfly: SS (SS-2B)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Athletics 0, Tigers 6.
+Top of the 5th, Athletics Batting, Behind 0-6, Tigers' Michael Lorenzen facing 5-6-7 
+t5;0-6;0;---;4,(0-2) CS.FX;;OAK;Jordan Diaz;Michael Lorenzen;-1%;95%;Single to 3B (Ground Ball to SS-3B Hole)
+t5;0-6;0;1--;4,(1-2) CMBX;OO;OAK;Jace Peterson;Michael Lorenzen;3%;98%;Ground Ball Double Play: SS-1B
+t5;0-6;2;---;5,(3-1) BBBCX;O;OAK;Aledmys Díaz;Michael Lorenzen;0%;98%;Flyball: LF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Athletics 0, Tigers 6.
+Bottom of the 5th, Tigers Batting, Ahead 6-0, Athletics' Hogan Harris facing 5-6-7 
+b5;6-0;0;---;2,(0-1) CX;;DET;Javier Báez;Hogan Harris;1%;98%;Double to LF (Line Drive)
+b5;6-0;0;-2-;4,(0-2) CTFX;;DET;Jonathan Schoop;Hogan Harris;0%;99%;Single to 2B (Ground Ball to SS-2B); Báez to 3B
+b5;6-0;0;1-3;6,(3-2) SBF.BBX;ROO;DET;Eric Haase;Hogan Harris;0%;99%;Ground Ball Double Play: SS-2B-1B; Báez Scores/No RBI
+;;;;;;;;;Rico Garcia replaces Hogan Harris pitching
+b5;7-0;2;---;3,(1-1) .BCX;O;DET;Zack Short;Rico Garcia;0%;99%;Flyball: RF (Deep RF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Athletics 0, Tigers 7.
+Top of the 6th, Athletics Batting, Behind 0-7, Tigers' Tyler Holton facing 8-9-1 
+;;;;;;;;;Tyler Holton replaces Michael Lorenzen pitching
+t6;0-7;0;---;6,(3-2) .BBCF.BX;O;OAK;Tyler Wade;Tyler Holton;0%;99%;Foul Popfly: P (3B-C into Foul Terr.)
+t6;0-7;1;---;5,(1-2) CB.CFX;O;OAK;Manny Piña;Tyler Holton;0%;99%;Lineout: 2B (Deep 2B)
+t6;0-7;2;---;7,(3-2) CFBFBBX;O;OAK;Tony Kemp;Tyler Holton;0%;99%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Tigers 7.
+Bottom of the 6th, Tigers Batting, Ahead 7-0, Athletics' Rico Garcia facing 9-1-2 
+b6;7-0;0;---;2,(1-0) BX;R;DET;Jake Marisnick;Rico Garcia;0%;100%;Home Run (Fly Ball to Deep LF-CF)
+b6;8-0;0;---;6,(2-2) CFBBF.S;O;DET;Matt Vierling;Rico Garcia;0%;100%;Strikeout Swinging
+b6;8-0;1;---;3,(0-2) SFC;O;DET;Spencer Torkelson;Rico Garcia;0%;100%;Strikeout Looking
+b6;8-0;2;---;3,(0-2) CFX;O;DET;Andy Ibáñez;Rico Garcia;0%;100%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Athletics 0, Tigers 8.
+Top of the 7th, Athletics Batting, Behind 0-8, Tigers' Tyler Holton facing 2-3-4 
+t7;0-8;0;---;2,(0-1) FX;O;OAK;JJ Bleday;Tyler Holton;0%;100%;Groundout: 1B-P (Weak 1B)
+t7;0-8;1;---;5,(2-2) BCTBS;O;OAK;Brent Rooker;Tyler Holton;0%;100%;Strikeout Swinging
+t7;0-8;2;---;9,(2-2) BCS.BFFFFX;O;OAK;Seth Brown;Tyler Holton;0%;100%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Tigers 8.
+Bottom of the 7th, Tigers Batting, Ahead 8-0, Athletics' Rico Garcia facing 4-5-6 
+b7;8-0;0;---;4,(0-2) CSFX;;DET;Kerry Carpenter;Rico Garcia;0%;100%;Single to RF (Line Drive to RF Line)
+b7;8-0;0;1--;3,(0-2) SSX;;DET;Javier Báez;Rico Garcia;0%;100%;Single to 3B (Ground Ball to Weak 3B); Carpenter to 2B
+b7;8-0;0;12-;1,(0-0) X;O;DET;Jonathan Schoop;Rico Garcia;0%;100%;Groundout: SS-3B/Forceout at 3B (SS-3B Hole); Báez to 2B; Schoop to 1B
+b7;8-0;1;12-;7,(2-2) BFSF.FBX;R;DET;Eric Haase;Rico Garcia;0%;100%;Single to LF (Line Drive to Short LF-CF); Báez Scores; Schoop to 2B
+;;;;;;;;;Richard Lovelady replaces Rico Garcia pitching
+b7;9-0;1;12-;3,(0-2) .FFS;O;DET;Zack Short;Richard Lovelady;0%;100%;Strikeout Swinging
+b7;9-0;2;12-;4,(1-2) CFBX;O;DET;Jake Marisnick;Richard Lovelady;0%;100%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Athletics 0, Tigers 9.
+Top of the 8th, Athletics Batting, Behind 0-9, Tigers' Brendan White facing 5-6-7 
+;;;;;;;;;Brendan White replaces Tyler Holton pitchingJonathan Schoop moves from 3B to 2B Tyler Nevin replaces Javier Báez (SS) playing 3B batting 5thZack Short moves from 2B to SS 
+t8;0-9;0;---;1,(0-0) ....X;;OAK;Jordan Diaz;Brendan White;0%;100%;Single to 3B (Ground Ball to SS-3B Hole); Diaz to 2B/Adv on E5 (throw)
+t8;0-9;0;-2-;5,(2-2) SBBSS;O;OAK;Jace Peterson;Brendan White;0%;100%;Strikeout Swinging
+t8;0-9;1;-2-;5,(2-2) CS.BBX;O;OAK;Aledmys Díaz;Brendan White;0%;100%;Groundout: 3B-1B (SS-3B Hole); Diaz to 3B
+t8;0-9;2;--3;4,(1-2) CCBX;O;OAK;Tyler Wade;Brendan White;0%;100%;Groundout: 1B-P
+;;;;;;;;;0 runs, 1 hit, 1 error, 1 LOB. Athletics 0, Tigers 9.
+Bottom of the 8th, Tigers Batting, Ahead 9-0, Athletics' Jace Peterson facing 1-2-3 
+;;;;;;;;;Jace Peterson moves from 3B to P Shea Langeliers replaces Manny Piña playing C batting 9thTyler Wade moves from SS to 3B Nick Allen replaces Brent Rooker (DH) playing SS batting 3rd
+b8;9-0;0;---;2,(0-1) ....CX;O;DET;Matt Vierling;Jace Peterson;0%;100%;Flyball: LF (Deep LF)
+b8;9-0;1;---;1,(0-0) X;;DET;Spencer Torkelson;Jace Peterson;0%;100%;Single to LF (Fly Ball to Deep LF)
+b8;9-0;1;1--;3,(1-1) BFX;O;DET;Andy Ibáñez;Jace Peterson;0%;100%;Flyball: CF (Deep CF)
+b8;9-0;2;1--;5,(3-1) BBBCB;;DET;Kerry Carpenter;Jace Peterson;0%;100%;Walk; Torkelson to 2B
+b8;9-0;2;12-;1,(0-0) X;O;DET;Tyler Nevin;Jace Peterson;0%;100%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Athletics 0, Tigers 9.
+Top of the 9th, Athletics Batting, Behind 0-9, Tigers' Chasen Shreve facing 9-1-2 
+;;;;;;;;;Chasen Shreve replaces Brendan White pitching
+t9;0-9;0;---;4,(1-2) .CSBC;O;OAK;Shea Langeliers;Chasen Shreve;0%;100%;Strikeout Looking
+t9;0-9;1;---;3,(0-2) SFS;O;OAK;Tony Kemp;Chasen Shreve;0%;100%;Strikeout Swinging
+t9;0-9;2;---;5,(2-2) CBSBS;O;OAK;JJ Bleday;Chasen Shreve;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Tigers 9.

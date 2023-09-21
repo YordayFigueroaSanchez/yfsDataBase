@@ -1,0 +1,292 @@
+
+Scorebox Meta
+20230907
+6:38 p.m. Local
+24288
+Angel Stadium of Anaheim
+171
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/CLE-2023.png;/teams/CLE/2023.shtml;0;0;0;0;0;0;2;0;0;2;9;1
+https://cdn.ssref.net/req/202309121/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;0;0;0;0;0;1;0;2;3;9;0
+
+Batting home
+Nolan Schanuel;/players/s/schanno01.shtml;1B;4;0;1;0;1;2;5;.283;.427;.300;.727;18;13;-0.062; 1.94;0.057;-0.119;0%; 0.00; -0.5;11;3;IW
+Brandon Drury;/players/d/drurybr01.shtml;2B;5;0;0;0;0;0;5;.264;.305;.486;.791;17;11;-0.388; 2.62;0.000;-0.388;0%; 0.00; -2.2;2;2;
+Luis Rengifo;/players/r/rengilu01.shtml;RF;0;0;0;0;0;0;0;.264;.339;.444;.783;;;;;;;;;;0;0;
+Randal Grichuk;/players/g/grichra01.shtml;PH-LF;5;0;2;1;0;1;5;.268;.322;.449;.772;23;18;0.223; 2.34;0.350;-0.127;0%; 0.00; 0.4;3;1;
+Mike Moustakas;/players/m/moustmi01.shtml;DH;3;0;1;0;1;2;4;.255;.305;.412;.718;16;9;-0.005; 1.11;0.066;-0.071;0%; 0.00; 0.1;;;
+Eduardo Escobar;/players/e/escobed01.shtml;3B;4;0;0;0;0;1;4;.233;.276;.375;.651;10;9;-0.171; 1.34;0.000;-0.171;0%; 0.00; -1.2;1;2;GDP
+Trey Cabbage;/players/c/cabbatr01.shtml;LF-RF;3;1;1;0;1;1;4;.220;.245;.340;.585;14;10;0.013; 1.89;0.123;-0.110;0%; 0.00; 0.4;3;0;SB
+Chad Wallach;/players/w/wallach01.shtml;C;4;0;1;0;0;0;4;.214;.278;.407;.685;15;8;0.035; 1.87;0.171;-0.136;0%; 0.00; -0.6;2;1;2B
+Logan O'Hoppe;/players/o/ohopplo01.shtml;PR;0;1;0;0;0;0;0;.213;.277;.417;.694;;;0.000;;0.000;0.000;0%;; 0.0;;;
+Brett Phillips;/players/p/phillbr02.shtml;CF;4;0;2;1;0;1;4;.158;.304;.158;.462;8;6;0.242; 2.31;0.298;-0.056;0%; 0.00; 0.9;3;0;
+Kyren Paris;/players/p/parisky01.shtml;SS;3;1;1;1;1;0;4;.125;.333;.125;.458;19;11;0.423; 2.21;0.485;-0.062;0%; 0.00; 1.8;1;5;2·SB
+Jhonathan Diaz;/players/d/diazjh01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Andrew Wantz;/players/w/wantzan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Davis Daniel;/players/d/danieda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Aaron Loup;/players/l/loupaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Marte;/players/m/martejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Soriano;/players/s/soriajo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Chad Wallach (5, off Emmanuel Clase).
+
+
+IBB: Nolan Schanuel (1, by Emmanuel Clase).
+
+
+TB: Brett Phillips 2; Randal Grichuk 2; Chad Wallach 2; Trey Cabbage; Kyren Paris; Mike Moustakas; Nolan Schanuel.
+
+
+GIDP: Eduardo Escobar (7).
+
+
+RBI: Brett Phillips (3); Kyren Paris (1); Randal Grichuk (37).
+
+
+2-out RBI: Randal Grichuk.
+
+
+Team LOB: 10.
+With RISP: 4 for 12.
+
+Batting away
+Steven Kwan;/players/k/kwanst01.shtml;LF;4;1;3;0;1;0;5;.271;.338;.373;.711;30;17;0.084; 0.94;0.142;-0.058; 0.01%; 0.26; 0.7;1;0;CS
+José Ramírez;/players/r/ramirjo01.shtml;3B;5;1;3;0;0;0;5;.273;.347;.474;.822;14;11;0.057; 1.35;0.134;-0.078; 0.01%; 0.38; 0.5;1;1;2B
+Josh Naylor;/players/n/naylojo01.shtml;1B;3;0;1;1;2;0;5;.305;.347;.492;.839;11;7;0.069; 1.45;0.234;-0.165; 0.01%; 0.40; -0.2;7;1;SB,GDP,IW
+Ramón Laureano;/players/l/laurera01.shtml;RF;3;0;0;1;1;1;4;.220;.290;.366;.656;24;13;0.048; 1.69;0.128;-0.080; 0.01%; 0.47; -0.0;1;0;
+Kole Calhoun;/players/c/calhoko01.shtml;DH;3;0;0;0;1;0;4;.238;.328;.376;.704;20;10;-0.025; 1.16;0.043;-0.068;-0.00%; 0.32; -0.4;;;
+David Fry;/players/f/fryda01.shtml;C;3;0;1;0;0;0;4;.250;.313;.432;.744;13;9;0.031; 1.36;0.146;-0.115; 0.01%; 0.38; 0.5;8;1;2B,HBP
+Andrés Giménez;/players/g/gimenan01.shtml;2B;3;0;1;0;1;0;4;.237;.309;.378;.687;19;14;-0.065; 1.67;0.030;-0.095;-0.01%; 0.47; -0.7;3;2;SB
+Gabriel Arias;/players/a/ariasga01.shtml;SS;4;0;0;0;0;1;4;.214;.289;.361;.650;21;14;-0.233; 1.65;0.000;-0.233;-0.04%; 0.46; -1.9;1;4;
+Myles Straw;/players/s/strawmy01.shtml;CF;4;0;0;0;0;0;4;.234;.297;.294;.590;16;12;-0.156; 1.41;0.000;-0.156;-0.03%; 0.39; -1.4;4;0;
+Cal Quantrill;/players/q/quantca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matt Moore;/players/m/moorema02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Enyel De Los Santos;/players/d/delosen01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Stephan;/players/s/stephtr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Emmanuel Clase;/players/c/claseem01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: José Ramírez (33, off Andrew Wantz); David Fry (4, off Davis Daniel).
+
+
+IBB: Josh Naylor (8, by Andrew Wantz).
+
+
+HBP: David Fry (2, by Jhonathan Diaz).
+
+
+TB: José Ramírez 4; Steven Kwan 3; David Fry 2; Andrés Giménez; Josh Naylor.
+
+
+GIDP: Josh Naylor (9).
+
+
+RBI: Josh Naylor (81); Ramón Laureano (32).
+
+
+Team LOB: 10.
+With RISP: 1 for 13.
+
+Pitching home
+Jhonathan Diaz;/players/d/diazjh01.shtml;Jhonathan Diaz; 1.2;2;0;0;1;0;0;0.00;7;30;16;6;4;6;2;3;2;0;50;;;0.063; 0.95; 0.00%; 0.00; 0.7
+Andrew Wantz;/players/w/wantzan01.shtml;Andrew Wantz; 1.1;1;0;0;1;1;0;4.39;6;26;19;13;2;4;1;3;1;0;;1;0;0.095; 1.11; 0.00%; 0.00; 0.9
+Davis Daniel;/players/d/danieda01.shtml;Davis Daniel; 3 ;2;0;0;3;1;0;0.00;13;66;41;31;3;7;5;4;0;0;;0;0;0.207; 1.88; 0.00%; 0.00; 1.6
+Aaron Loup;/players/l/loupaa01.shtml;Aaron Loup; 1 ;3;2;2;0;0;0;5.89;6;25;18;9;2;7;3;3;1;0;;0;0;-0.272; 1.82; 0.00%; 0.00; -1.5
+José Marte;/players/m/martejo01.shtml;José Marte; 1 ;0;0;0;0;0;0;0.00;3;6;5;3;0;2;2;1;1;0;;0;0;0.056; 0.72; 0.00%; 0.00; 0.5
+José Soriano;/players/s/soriajo02.shtml; W (1-2); 1 ;1;0;0;1;0;0;4.11;4;15;8;4;1;3;3;0;0;0;;0;0;0.042; 0.90; 0.00%; 0.00; 0.5
+
+Pitching away
+Cal Quantrill;/players/q/quantca01.shtml;Cal Quantrill; 6 ;3;0;0;2;6;0;5.70;23;82;55;32;10;13;7;8;1;0;70;;;0.365; 1.12; 0.06%; 0.31; 3.2
+Matt Moore;/players/m/moorema02.shtml; H (21); 0.2;2;1;1;1;0;0;2.87;5;21;13;8;4;1;0;4;2;0;;0;0;-0.143; 2.18;-0.02%; 0.61; -1.0
+Enyel De Los Santos;/players/d/delosen01.shtml; H (15); 0.1;0;0;0;0;0;0;3.45;1;3;2;1;0;1;1;0;0;0;;2;0;0.110; 3.88; 0.02%; 1.08; 0.5
+Trevor Stephan;/players/s/stephtr01.shtml; H (24); 1 ;0;0;0;0;2;0;3.48;3;8;7;1;5;1;0;1;0;0;;0;0;0.147; 1.89; 0.03%; 0.53; 0.5
+Emmanuel Clase;/players/c/claseem01.shtml; L (2-8); 0.2;4;2;2;1;0;0;3.06;7;26;18;13;4;1;2;4;3;0;;0;0;-0.788; 4.90;-0.13%; 1.36; -2.3
+
+indiv_events
+
+Balks: None.
+WP: Cal Quantrill (6); Davis Daniel (1).
+HBP: Jhonathan Diaz (1; David Fry).
+IBB: Andrew Wantz (1; Josh Naylor); Emmanuel Clase (2; Nolan Schanuel).
+Pickoffs: Jhonathan Diaz (1; Steven Kwan, 2nd base (CS)).
+
+Balks: None.
+WP: Cal Quantrill (6); Davis Daniel (1).
+HBP: Jhonathan Diaz (1; David Fry).
+IBB: Andrew Wantz (1; Josh Naylor); Emmanuel Clase (2; Nolan Schanuel).
+Pickoffs: Jhonathan Diaz (1; Steven Kwan, 2nd base (CS)).
+
+section_content
+Umpires: HP - Brian O'Nora, 1B - Pat Hoberg, 2B - Tom Hanahan, 3B - Nestor Ceja, LF - (none), RF - (none).
+Time of Game: 2:51.
+Attendance: 24,288.
+Field Condition: Unknown.
+Start Time Weather: 79° F, Wind 6mph out to Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Guardians
+1;Steven Kwan;/players/k/kwanst01.shtml;LF
+2;José Ramírez;/players/r/ramirjo01.shtml;3B
+3;Josh Naylor;/players/n/naylojo01.shtml;1B
+4;Ramón Laureano;/players/l/laurera01.shtml;RF
+5;Kole Calhoun;/players/c/calhoko01.shtml;DH
+6;David Fry;/players/f/fryda01.shtml;C
+7;Andrés Giménez;/players/g/gimenan01.shtml;2B
+8;Gabriel Arias;/players/a/ariasga01.shtml;SS
+9;Myles Straw;/players/s/strawmy01.shtml;CF
+; Cal Quantrill;/players/q/quantca01.shtml;P
+Angels
+1;Nolan Schanuel;/players/s/schanno01.shtml;1B
+2;Brandon Drury;/players/d/drurybr01.shtml;2B
+3;Luis Rengifo;/players/r/rengilu01.shtml;RF
+4;Mike Moustakas;/players/m/moustmi01.shtml;DH
+5;Eduardo Escobar;/players/e/escobed01.shtml;3B
+6;Trey Cabbage;/players/c/cabbatr01.shtml;LF
+7;Chad Wallach;/players/w/wallach01.shtml;C
+8;Brett Phillips;/players/p/phillbr02.shtml;CF
+9;Kyren Paris;/players/p/parisky01.shtml;SS
+; Jhonathan Diaz;/players/d/diazjh01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b9;1-2;1;1-3;7,(2-2) BSL>FFBX;R;LAA;Kyren Paris;Emmanuel Clase;38%;85%;Single to RF (Line Drive); O'Hoppe Scores; Phillips to 3B; Paris to 2B
+b9;2-2;2;123;6,(1-2) CFF*BFX;R;LAA;Randal Grichuk;Emmanuel Clase;34%;100%;Single to CF (Line Drive to Deep CF); Paris Scores; Schanuel to 3B; Drury to 2B
+t7;0-0;1;12-;3,(0-2) CF.X;R;CLE;Josh Naylor;Aaron Loup;-20%;24%;Single to RF (Line Drive); Kwan Scores; Ramírez to 3B
+b9;1-2;1;-2-;1,(0-0) .X;;LAA;Brett Phillips;Emmanuel Clase;18%;47%;Single to LF (Fly Ball to Short LF-CF); O'Hoppe to 3B
+b9;2-2;1;123;7,(3-2) BS*BSF*BX;O;LAA;Brandon Drury;Emmanuel Clase;-17%;66%;Groundout: 1B-C/Forceout at Hm (Weak 1B); Paris to 3B; Schanuel to 2B; Drury to 1B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Guardians Batting, Tied 0-0, Angels' Jhonathan Diaz facing 1-2-3 
+t1;0-0;0;---;4,(2-1) BBCX;;CLE;Steven Kwan;Jhonathan Diaz;-3%;47%;Single to CF (Line Drive to LF-CF)
+t1;0-0;0;1--;3,(1-1) CBX;O;CLE;José Ramírez;Jhonathan Diaz;3%;50%;Flyball: CF (Deep CF)
+t1;0-0;1;1--;3,(2-1) BSB1.1;O;CLE;Josh Naylor;Jhonathan Diaz;4%;54%;Kwan Caught Stealing (PO) 2B (P-1B-SS-1B-2B)
+t1;0-0;2;---;6,(3-2) BSB1.1.CBB;;CLE;Josh Naylor;Jhonathan Diaz;-1%;53%;Walk
+t1;0-0;2;1--;2,(0-1) C>B;;CLE;Ramón Laureano;Jhonathan Diaz;-1%;52%;Naylor Steals 2B
+t1;0-0;2;-2-;6,(3-2) C>B.BS.*BX;O;CLE;Ramón Laureano;Jhonathan Diaz;3%;55%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 0, Angels 0.
+Bottom of the 1st, Angels Batting, Tied 0-0, Guardians' Cal Quantrill facing 1-2-3 
+b1;0-0;0;---;2,(1-0) BX;O;LAA;Nolan Schanuel;Cal Quantrill;-2%;53%;Flyball: LF (Deep LF-CF)
+b1;0-0;1;---;4,(1-2) BCC.X;O;LAA;Brandon Drury;Cal Quantrill;-2%;51%;Groundout: 2B-1B (Deep SS-2B)
+;;;;;;;;;Randal Grichuk pinch hits for Luis Rengifo (RF) batting 3rd
+b1;0-0;2;---;8,(2-2) .CFFBBFFX;;LAA;Randal Grichuk;Cal Quantrill;1%;52%;Single to LF (Fly Ball to Short LF)
+b1;0-0;2;1--;6,(3-2) BBSSB>C;O;LAA;Mike Moustakas;Cal Quantrill;-2%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 0, Angels 0.
+Top of the 2nd, Guardians Batting, Tied 0-0, Angels' Jhonathan Diaz facing 5-6-7 
+;;;;;;;;;Randal Grichuk moves from PH to LF Trey Cabbage moves from LF to RF 
+t2;0-0;0;---;4,(1-2) ..CSBX;O;CLE;Kole Calhoun;Jhonathan Diaz;2%;52%;Groundout: 1B-P (Deep 2B-1B)
+t2;0-0;1;---;5,(1-2) CSFBH;;CLE;David Fry;Jhonathan Diaz;-3%;50%;Hit By Pitch
+t2;0-0;1;1--;2,(1-0) BX;O;CLE;Andrés Giménez;Jhonathan Diaz;2%;51%;Single to LF (Line Drive to Deep LF-CF); Fry to 3B; Giménez out at 2B/LF-2B
+;;;;;;;;;Andrew Wantz replaces Jhonathan Diaz pitching
+t2;0-0;2;--3;6,(2-2) .SBSFBX;O;CLE;Gabriel Arias;Andrew Wantz;4%;55%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 0, Angels 0.
+Bottom of the 2nd, Angels Batting, Tied 0-0, Guardians' Cal Quantrill facing 5-6-7 
+b2;0-0;0;---;3,(0-2) SF.X;O;LAA;Eduardo Escobar;Cal Quantrill;-2%;53%;Groundout: SS-1B (Short LF-CF)
+b2;0-0;1;---;3,(0-2) FCS;O;LAA;Trey Cabbage;Cal Quantrill;-2%;51%;Strikeout Swinging
+b2;0-0;2;---;2,(0-1) SX;O;LAA;Chad Wallach;Cal Quantrill;-1%;50%;Popfly: 2B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Angels 0.
+Top of the 3rd, Guardians Batting, Tied 0-0, Angels' Andrew Wantz facing 9-1-2 
+t3;0-0;0;---;2,(0-1) CX;O;CLE;Myles Straw;Andrew Wantz;3%;53%;Groundout: P-1B (Front of Home)
+t3;0-0;1;---;7,(1-2) CFFFFBX;O;CLE;Steven Kwan;Andrew Wantz;2%;54%;Flyball: LF (Deep LF-CF)
+t3;0-0;2;---;3,(1-1) BCX;;CLE;José Ramírez;Andrew Wantz;-2%;52%;Double to RF (Line Drive to RF Line)
+t3;0-0;2;-2-;,(3-0) VVVV;;CLE;Josh Naylor;Andrew Wantz;-1%;51%;Intentional Walk
+t3;0-0;2;12-;8,(3-2) BFTB.FFB>C;O;CLE;Ramón Laureano;Andrew Wantz;5%;56%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Guardians 0, Angels 0.
+Bottom of the 3rd, Angels Batting, Tied 0-0, Guardians' Cal Quantrill facing 8-9-1 
+b3;0-0;0;---;5,(2-2) CBBFT;O;LAA;Brett Phillips;Cal Quantrill;-3%;53%;Strikeout Swinging
+b3;0-0;1;---;6,(3-2) BBC.FBB;;LAA;Kyren Paris;Cal Quantrill;3%;56%;Walk
+b3;0-0;1;1--;2,(0-1) C>C;;LAA;Nolan Schanuel;Cal Quantrill;2%;58%;Paris Steals 2B
+b3;0-0;1;-2-;4,(1-2) C>C.BS;O;LAA;Nolan Schanuel;Cal Quantrill;-4%;54%;Strikeout Swinging
+b3;0-0;2;-2-;1,(0-0) B;;LAA;Brandon Drury;Cal Quantrill;0%;54%;Wild Pitch; Paris to 3B
+b3;0-0;2;--3;2,(1-0) B.X;O;LAA;Brandon Drury;Cal Quantrill;-4%;50%;Popfly: 1B (Deep 1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Guardians 0, Angels 0.
+Top of the 4th, Guardians Batting, Tied 0-0, Angels' Davis Daniel facing 5-6-7 
+;;;;;;;;;Davis Daniel replaces Andrew Wantz pitching
+t4;0-0;0;---;4,(3-0) .BBBB;;CLE;Kole Calhoun;Davis Daniel;-4%;46%;Walk
+t4;0-0;0;1--;4,(1-2) CSBX;;CLE;David Fry;Davis Daniel;-12%;34%;Ground-rule Double (Fly Ball to Deep RF Line); Calhoun to 3B
+t4;0-0;0;-23;6,(0-2) CS.FFFX;O;CLE;Andrés Giménez;Davis Daniel;6%;40%;Flyball: CF
+t4;0-0;1;-23;7,(3-2) B*BCFB.FT;O;CLE;Gabriel Arias;Davis Daniel;9%;49%;Strikeout Swinging
+t4;0-0;2;-23;7,(2-2) BCBFFFX;O;CLE;Myles Straw;Davis Daniel;7%;56%;Flyball: RF (RF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Guardians 0, Angels 0.
+Bottom of the 4th, Angels Batting, Tied 0-0, Guardians' Cal Quantrill facing 3-4-5 
+b4;0-0;0;---;4,(1-2) CBSS;O;LAA;Randal Grichuk;Cal Quantrill;-3%;53%;Strikeout Swinging
+b4;0-0;1;---;1,(0-0) X;;LAA;Mike Moustakas;Cal Quantrill;3%;56%;Single to RF (Line Drive to Short RF)
+b4;0-0;1;1--;1,(0-0) X;O;LAA;Eduardo Escobar;Cal Quantrill;-3%;53%;Flyball: CF (Deep CF)
+b4;0-0;2;1--;3,(0-2) FFX;;LAA;Trey Cabbage;Cal Quantrill;2%;55%;Single to LF (Ground Ball); Moustakas to 2B
+b4;0-0;2;12-;4,(3-0) B*BBX;O;LAA;Chad Wallach;Cal Quantrill;-5%;50%;Groundout: 3B unassisted/Forceout at 3B; Wallach to 1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Guardians 0, Angels 0.
+Top of the 5th, Guardians Batting, Tied 0-0, Angels' Davis Daniel facing 1-2-3 
+t5;0-0;0;---;7,(3-2) CBBFFBX;;CLE;Steven Kwan;Davis Daniel;-5%;45%;Single to 3B (Ground Ball to Weak 3B)
+t5;0-0;0;1--;2,(0-1) FX;O;CLE;José Ramírez;Davis Daniel;4%;50%;Flyball: LF (Deep LF-CF)
+t5;0-0;1;1--;1,(0-0) X;OO;CLE;Josh Naylor;Davis Daniel;7%;57%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Guardians 0, Angels 0.
+Bottom of the 5th, Angels Batting, Tied 0-0, Guardians' Cal Quantrill facing 8-9-1 
+b5;0-0;0;---;1,(0-0) X;O;LAA;Brett Phillips;Cal Quantrill;-3%;54%;Flyball: CF (Deep CF-RF)
+b5;0-0;1;---;3,(1-1) S.BX;;LAA;Kyren Paris;Cal Quantrill;3%;57%;Reached on E5 (throw) (Ground Ball to SS-3B Hole); Paris to 1B
+b5;0-0;1;1--;2,(0-1) C1>C;;LAA;Nolan Schanuel;Cal Quantrill;2%;59%;Paris Steals 2B
+b5;0-0;1;-2-;7,(2-2) C1>C.F.*BFBT;O;LAA;Nolan Schanuel;Cal Quantrill;-5%;55%;Strikeout Swinging
+b5;0-0;2;-2-;1,(0-0) X;O;LAA;Brandon Drury;Cal Quantrill;-5%;50%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Guardians 0, Angels 0.
+Top of the 6th, Guardians Batting, Tied 0-0, Angels' Davis Daniel facing 4-5-6 
+t6;0-0;0;---;6,(3-2) CFBB.BB;;CLE;Ramón Laureano;Davis Daniel;-5%;45%;Walk
+t6;0-0;0;1--;1,(0-0) B;;CLE;Kole Calhoun;Davis Daniel;-4%;41%;Wild Pitch; Laureano to 2B
+t6;0-0;0;-2-;5,(2-2) B.BFFX;O;CLE;Kole Calhoun;Davis Daniel;2%;43%;Groundout: 1B unassisted; Laureano to 3B
+t6;0-0;1;--3;1,(0-0) X;O;CLE;David Fry;Davis Daniel;9%;52%;Groundout: 3B-1B (Weak 3B)
+t6;0-0;2;--3;10,(3-2) BCBF.FFFBFB;;CLE;Andrés Giménez;Davis Daniel;-2%;50%;Walk
+t6;0-0;2;1-3;4,(0-2) FS>F>*B;;CLE;Gabriel Arias;Davis Daniel;-1%;49%;Giménez Steals 2B
+t6;0-0;2;-23;6,(2-2) FS>F>*B.BX;O;CLE;Gabriel Arias;Davis Daniel;9%;58%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Guardians 0, Angels 0.
+Bottom of the 6th, Angels Batting, Tied 0-0, Guardians' Cal Quantrill facing 3-4-5 
+b6;0-0;0;---;4,(1-2) BTFX;O;LAA;Randal Grichuk;Cal Quantrill;-3%;54%;Flyball: 2B (Short CF-RF)
+b6;0-0;1;---;6,(3-2) BSBFBB;;LAA;Mike Moustakas;Cal Quantrill;4%;58%;Walk
+b6;0-0;1;1--;2,(0-1) CX;OO;LAA;Eduardo Escobar;Cal Quantrill;-8%;50%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Angels 0.
+Top of the 7th, Guardians Batting, Tied 0-0, Angels' Aaron Loup facing 9-1-2 
+;;;;;;;;;Aaron Loup replaces Davis Daniel pitching
+t7;0-0;0;---;2,(0-1) .CX;O;CLE;Myles Straw;Aaron Loup;4%;54%;Flyball: RF (Short RF Line)
+t7;0-0;1;---;7,(3-2) BBBCCFX;;CLE;Steven Kwan;Aaron Loup;-4%;50%;Single to RF (Ground Ball thru 2B-1B)
+t7;0-0;1;1--;2,(0-1) CX;;CLE;José Ramírez;Aaron Loup;-6%;44%;Single to CF (Ground Ball thru SS-2B); Kwan to 2B
+t7;0-0;1;12-;3,(0-2) CF.X;R;CLE;Josh Naylor;Aaron Loup;-20%;24%;Single to RF (Line Drive); Kwan Scores; Ramírez to 3B
+t7;1-0;1;1-3;4,(1-2) CB*SX;RO;CLE;Ramón Laureano;Aaron Loup;-4%;20%;Groundout: SS-1B; Ramírez Scores; Naylor to 2B
+t7;2-0;2;-2-;7,(3-2) BBCSFBX;O;CLE;Kole Calhoun;Aaron Loup;3%;23%;Flyball: LF (Short LF)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Guardians 2, Angels 0.
+Bottom of the 7th, Angels Batting, Behind 0-2, Guardians' Matt Moore facing 6-7-8 
+;;;;;;;;;Matt Moore replaces Cal Quantrill pitching
+b7;0-2;0;---;7,(3-2) .SSBBFB.B;;LAA;Trey Cabbage;Matt Moore;7%;30%;Walk
+b7;0-2;0;1--;2,(0-1) C>B;;LAA;Chad Wallach;Matt Moore;3%;33%;Cabbage Steals 2B
+b7;0-2;0;-2-;5,(2-2) C>B.SBX;O;LAA;Chad Wallach;Matt Moore;-7%;26%;Foul Popfly: RF (Short RF into Foul Terr.)
+b7;0-2;1;-2-;1,(0-0) X;R;LAA;Brett Phillips;Matt Moore;12%;38%;Single to RF (Line Drive to CF-RF); Cabbage Scores
+b7;1-2;1;1--;3,(1-1) F*B1X;O;LAA;Kyren Paris;Matt Moore;-6%;31%;Flyball: CF (Deep CF-RF)
+b7;1-2;2;1--;5,(1-2) FBSF>X;;LAA;Nolan Schanuel;Matt Moore;6%;37%;Single to LF (Line Drive to Short LF); Phillips to 3B
+;;;;;;;;;Enyel De Los Santos replaces Matt Moore pitching
+b7;1-2;2;1-3;3,(1-1) .*BCX;O;LAA;Brandon Drury;Enyel De Los Santos;-11%;26%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Drury to 1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Guardians 2, Angels 1.
+Top of the 8th, Guardians Batting, Ahead 2-1, Angels' José Marte facing 6-7-8 
+;;;;;;;;;José Marte replaces Aaron Loup pitching
+t8;2-1;0;---;3,(1-1) .BCX;O;CLE;David Fry;José Marte;2%;29%;Groundout: 3B-1B
+t8;2-1;1;---;1,(0-0) X;O;CLE;Andrés Giménez;José Marte;2%;30%;Lineout: CF (Deep CF)
+t8;2-1;2;---;2,(0-1) CX;O;CLE;Gabriel Arias;José Marte;1%;32%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 2, Angels 1.
+Bottom of the 8th, Angels Batting, Behind 1-2, Guardians' Trevor Stephan facing 3-4-5 
+;;;;;;;;;Trevor Stephan replaces Enyel De Los Santos pitching
+b8;1-2;0;---;1,(0-0) .X;O;LAA;Randal Grichuk;Trevor Stephan;-7%;25%;Flyball: CF (CF-RF)
+b8;1-2;1;---;3,(0-2) CS*S;O;LAA;Mike Moustakas;Trevor Stephan;-5%;20%;Strikeout Swinging; Moustakas out at 1B/C-1B
+b8;1-2;2;---;4,(1-2) S.SBS;O;LAA;Eduardo Escobar;Trevor Stephan;-3%;17%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 2, Angels 1.
+Top of the 9th, Guardians Batting, Ahead 2-1, Angels' José Soriano facing 9-1-2 
+;;;;;;;;;José Soriano replaces José Marte pitching
+t9;2-1;0;---;5,(2-2) .CBCBX;O;CLE;Myles Straw;José Soriano;2%;19%;Groundout: 1B unassisted (2B-1B)
+t9;2-1;1;---;5,(3-1) BBBCB;;CLE;Steven Kwan;José Soriano;-2%;17%;Walk
+t9;2-1;1;1--;4,(1-2) BFS.X;;CLE;José Ramírez;José Soriano;-5%;12%;Single to CF (Ground Ball); Kwan to 3B
+t9;2-1;1;1-3;1,(0-0) X;OO;CLE;Josh Naylor;José Soriano;9%;21%;Double Play: Groundout: 1B; Kwan out at Hm/1B-C-3B; Ramírez to 2B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 2, Angels 1.
+Bottom of the 9th, Angels Batting, Behind 1-2, Guardians' Emmanuel Clase facing 6-7-8 
+;;;;;;;;;Emmanuel Clase replaces Trevor Stephan pitching
+b9;1-2;0;---;1,(0-0) .X;O;LAA;Trey Cabbage;Emmanuel Clase;-9%;12%;Groundout: SS-1B
+b9;1-2;1;---;4,(2-1) SBBX;;LAA;Chad Wallach;Emmanuel Clase;17%;29%;Double to RF (Line Drive to Deep CF-RF)
+;;;;;;;;;Logan O'Hoppe pinch runs for Chad Wallach (C) batting 7th
+b9;1-2;1;-2-;1,(0-0) .X;;LAA;Brett Phillips;Emmanuel Clase;18%;47%;Single to LF (Fly Ball to Short LF-CF); O'Hoppe to 3B
+b9;1-2;1;1-3;7,(2-2) BSL>FFBX;R;LAA;Kyren Paris;Emmanuel Clase;38%;85%;Single to RF (Line Drive); O'Hoppe Scores; Phillips to 3B; Paris to 2B
+b9;2-2;1;-23;,(3-0) VVVV;;LAA;Nolan Schanuel;Emmanuel Clase;-1%;84%;Intentional Walk
+b9;2-2;1;123;7,(3-2) BS*BSF*BX;O;LAA;Brandon Drury;Emmanuel Clase;-17%;66%;Groundout: 1B-C/Forceout at Hm (Weak 1B); Paris to 3B; Schanuel to 2B; Drury to 1B
+;;;;;;;;;Force Play Challenged by LAA manager (Phil Nevin): Original call upheld upon review.
+b9;2-2;2;123;6,(1-2) CFF*BFX;R;LAA;Randal Grichuk;Emmanuel Clase;34%;100%;Single to CF (Line Drive to Deep CF); Paris Scores; Schanuel to 3B; Drury to 2B
+;;;;;;;;;2 runs, 4 hits, 0 errors, 3 LOB. Guardians 2, Angels 3.

@@ -1,0 +1,256 @@
+
+Scorebox Meta
+20230810
+7:10 p.m. Local
+45933
+Dodger Stadium
+134
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;0;0;0;1;0;0;0;0;1;4;0
+https://cdn.ssref.net/req/202308251/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;0;0;0;0;0;1;1;X;2;5;1
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;RF-2B;3;0;1;0;1;0;4;.283;.384;.576;.960;17;8;0.103; 1.39;0.167;-0.063; 0.05%; 1.19; 0.4;1;0;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;2;0;1;0;2;0;4;.345;.423;.600;1.023;19;8;0.076; 1.73;0.108;-0.032; 0.04%; 1.48; 0.8;13;0;2B
+Amed Rosario;/players/r/rosaram01.shtml;2B;3;0;1;0;0;0;3;.264;.304;.379;.682;8;5;-0.075; 1.39;0.045;-0.120;-0.04%; 1.19; -0.3;2;2;GDP
+Will Smith;/players/s/smithwi05.shtml;PH-C;1;0;0;0;0;0;1;.277;.383;.467;.851;4;3;-0.139; 4.44;0.000;-0.139;-0.07%; 3.80; -0.8;1;0;
+Max Muncy;/players/m/muncyma01.shtml;DH;3;1;1;2;1;0;4;.195;.336;.483;.819;16;7;0.313; 2.50;0.452;-0.139; 0.16%; 2.14; 0.5;;;HR,GDP
+Chris Taylor;/players/t/tayloch03.shtml;LF-3B;4;0;1;0;0;1;4;.210;.297;.412;.709;16;12;-0.032; 1.23;0.056;-0.088;-0.02%; 1.06; -0.8;0;1;
+Enrique Hernández;/players/h/hernaen02.shtml;3B-SS;2;0;0;0;0;0;3;.232;.286;.344;.631;13;9;-0.113; 1.16;0.026;-0.139;-0.06%; 0.99; -0.7;1;5;HBP,GDP
+James Outman;/players/o/outmaja01.shtml;CF;3;0;0;0;0;1;3;.255;.358;.430;.788;14;10;-0.087; 1.13;0.000;-0.087;-0.04%; 0.97; -0.7;1;0;
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;2;0;0;0;0;0;2;.215;.268;.274;.542;5;3;-0.050; 0.91;0.000;-0.050;-0.03%; 0.78; -0.4;0;4;
+David Peralta;/players/p/peralda01.shtml;PH-LF;0;0;0;0;1;0;1;.277;.310;.411;.722;7;3;0.063; 1.82;0.063;0.000; 0.03%; 1.56; 0.4;0;0;
+Austin Barnes;/players/b/barneau01.shtml;C;2;0;0;0;0;1;2;.133;.216;.150;.366;7;4;-0.043; 0.81;0.000;-0.043;-0.02%; 0.70; -0.4;8;0;
+Jason Heyward;/players/h/heywaja01.shtml;PH-RF;1;1;0;0;0;0;1;.243;.337;.459;.797;4;3;-0.064; 2.63;0.000;-0.064;-0.03%; 2.25; -0.4;0;0;
+Clayton Kershaw;/players/k/kershcl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Yarbrough;/players/y/yarbrry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Brusdar Graterol;/players/g/gratebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Freddie Freeman (43, off Ty Blach).
+
+
+HR: Max Muncy (28, off Ty Blach, 7th inn, 0 on, 0 outs to Deep RF).
+
+
+HBP: Enrique Hernández (3, by Ty Blach).
+
+
+TB: Max Muncy 4; Freddie Freeman 2; Chris Taylor; Amed Rosario; Mookie Betts.
+
+
+GIDP: Enrique Hernández (15); Max Muncy (6); Amed Rosario (13).
+
+
+RBI: Max Muncy 2 (75).
+
+
+2-out RBI: Max Muncy.
+
+
+Team LOB: 6.
+With RISP: 1 for 4.
+
+Batting away
+Jurickson Profar;/players/p/profaju01.shtml;LF;4;0;1;0;0;0;4;.240;.321;.370;.691;16;10;-0.098; 1.38;0.028;-0.126;0%; 0.00; -0.5;2;0;
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;4;0;1;0;0;0;4;.256;.291;.419;.709;13;10;-0.151; 1.24;0.028;-0.178;0%; 0.00; -1.1;4;5;CS,GDP
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;4;0;0;0;0;2;4;.252;.336;.465;.801;20;14;-0.069; 0.87;0.012;-0.081;0%; 0.00; -0.3;0;0;
+Elias Díaz;/players/d/diazel01.shtml;C;3;0;0;0;0;0;3;.269;.325;.423;.748;11;6;-0.070; 0.87;0.000;-0.070;0%; 0.00; -0.7;3;0;
+Nolan Jones;/players/j/jonesno01.shtml;RF;3;0;0;0;0;2;3;.276;.356;.500;.856;14;10;-0.057; 0.74;0.000;-0.057;0%; 0.00; -0.5;2;0;
+Alan Trejo;/players/t/trejoal01.shtml;2B;3;0;1;0;0;0;3;.248;.288;.340;.628;11;5;-0.003; 0.80;0.042;-0.045;0%; 0.00; 0.1;2;6;2B
+Michael Toglia;/players/t/toglimi01.shtml;1B;3;0;0;0;0;1;3;.172;.230;.258;.488;8;5;-0.107; 1.34;0.000;-0.107;0%; 0.00; -0.8;8;1;
+Elehuris Montero;/players/m/monteel01.shtml;DH;3;1;1;1;0;2;3;.200;.228;.340;.568;12;9;0.072; 1.06;0.143;-0.071;0%; 0.00; 0.5;;;HR
+Brenton Doyle;/players/d/doylebr02.shtml;CF;3;0;0;0;0;2;3;.199;.259;.329;.589;11;9;-0.065; 0.83;0.000;-0.065;0%; 0.00; -0.5;3;0;
+Ty Blach;/players/b/blachty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tommy Doyle;/players/d/doyleto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Daniel Bard;/players/b/bardda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Alan Trejo (11, off Clayton Kershaw).
+
+
+HR: Elehuris Montero (4, off Clayton Kershaw, 5th inn, 0 on, 2 outs to Deep LF-CF).
+
+
+TB: Elehuris Montero 4; Alan Trejo 2; Ezequiel Tovar; Jurickson Profar.
+
+
+GIDP: Ezequiel Tovar (7).
+
+
+RBI: Elehuris Montero (19).
+
+
+2-out RBI: Elehuris Montero.
+
+
+Team LOB: 2.
+With RISP: 0 for 2.
+
+Pitching home
+Clayton Kershaw;/players/k/kershcl01.shtml;Clayton Kershaw; 5 ;3;1;1;0;4;1;2.51;18;67;45;30;4;11;10;4;1;0;61;;;0.144; 0.85; 0.07%; 0.73; 1.7
+Ryan Yarbrough;/players/y/yarbrry01.shtml; W (5-5); 3 ;1;0;0;0;4;0;3.86;9;36;24;11;7;6;2;3;1;0;;0;0;0.231; 1.02; 0.12%; 0.88; 1.6
+Brusdar Graterol;/players/g/gratebr01.shtml; S (5); 1 ;0;0;0;0;1;0;1.62;3;13;9;4;4;1;2;0;0;0;;0;0;0.172; 2.20; 0.09%; 1.88; 0.5
+
+Pitching away
+Ty Blach;/players/b/blachty01.shtml;Ty Blach; 6 ;3;1;1;2;2;1;4.22;22;83;47;30;4;13;8;9;4;0;62;;;0.172; 1.09; 0.00%; 0.00; 2.3
+Tommy Doyle;/players/d/doyleto01.shtml; L (0-1); 1.1;2;1;1;1;1;0;3.97;6;26;18;11;4;3;2;2;2;0;;0;0;-0.047; 1.91; 0.00%; 0.00; -0.1
+Daniel Bard;/players/b/bardda01.shtml;Daniel Bard; 0.2;0;0;0;2;0;0;3.54;4;21;10;7;2;1;0;2;0;0;;2;1;-0.078; 3.82; 0.00%; 0.00; 0.2
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Ty Blach (2; Enrique Hernández).
+IBB: None.
+Pickoffs: Ryan Yarbrough (2; Ezequiel Tovar, 2nd base (CS)).
+
+Balks: None.
+WP: None.
+HBP: Ty Blach (2; Enrique Hernández).
+IBB: None.
+Pickoffs: Ryan Yarbrough (2; Ezequiel Tovar, 2nd base (CS)).
+
+section_content
+Umpires: HP - Erich Bacchus, 1B - Laz Diaz, 2B - Mike Estabrook, 3B - Andy Fletcher, LF - (none), RF - (none).
+Time of Game: 2:14.
+Attendance: 45,933.
+Field Condition: Unknown.
+Start Time Weather: 74° F, Wind 7mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Rockies
+1;Jurickson Profar;/players/p/profaju01.shtml;LF
+2;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+3;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+4;Elias Díaz;/players/d/diazel01.shtml;C
+5;Nolan Jones;/players/j/jonesno01.shtml;RF
+6;Alan Trejo;/players/t/trejoal01.shtml;2B
+7;Michael Toglia;/players/t/toglimi01.shtml;1B
+8;Elehuris Montero;/players/m/monteel01.shtml;DH
+9;Brenton Doyle;/players/d/doylebr02.shtml;CF
+; Ty Blach;/players/b/blachty01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;RF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Amed Rosario;/players/r/rosaram01.shtml;2B
+4;Max Muncy;/players/m/muncyma01.shtml;DH
+5;Chris Taylor;/players/t/tayloch03.shtml;LF
+6;Enrique Hernández;/players/h/hernaen02.shtml;3B
+7;James Outman;/players/o/outmaja01.shtml;CF
+8;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+9;Austin Barnes;/players/b/barneau01.shtml;C
+; Clayton Kershaw;/players/k/kershcl01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b8;1-1;2;123;5,(3-1) BBCBB;R;LAD;Max Muncy;Daniel Bard;24%;87%;Walk; Heyward Scores; Betts to 3B; Freeman to 2B
+b7;0-1;0;---;6,(3-2) BFCBBX;R;LAD;Max Muncy;Ty Blach;22%;59%;Home Run (Fly Ball to Deep RF)
+t5;0-0;2;---;3,(1-1) FBX;R;COL;Elehuris Montero;Clayton Kershaw;-14%;41%;Home Run (Fly Ball to Deep LF-CF)
+b8;1-1;1;123;4,(1-2) .FSBX;O;LAD;Will Smith;Daniel Bard;-14%;64%;Flyball: SS (Short LF-CF)
+b8;1-1;1;1--;6,(2-2) CBF*BF1>X;;LAD;Mookie Betts;Tommy Doyle;14%;75%;Single to CF (Line Drive to Short CF); Heyward to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Rockies Batting, Tied 0-0, Dodgers' Clayton Kershaw facing 1-2-3 
+t1;0-0;0;---;4,(2-1) CBBX;O;COL;Jurickson Profar;Clayton Kershaw;2%;52%;Foul Popfly: 3B
+t1;0-0;1;---;1,(0-0) X;O;COL;Ezequiel Tovar;Clayton Kershaw;2%;54%;Groundout: 3B-1B
+t1;0-0;2;---;5,(2-2) CBBF.X;;COL;Ryan McMahon;Clayton Kershaw;-1%;53%;Reached on E3 (Ground Ball); McMahon to 1B
+t1;0-0;2;1--;4,(1-2) CS*BX;O;COL;Elias Díaz;Clayton Kershaw;2%;55%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Rockies 0, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Tied 0-0, Rockies' Ty Blach facing 1-2-3 
+b1;0-0;0;---;5,(2-2) CBBCX;O;LAD;Mookie Betts;Ty Blach;-2%;53%;Groundout: SS-1B
+b1;0-0;1;---;6,(2-2) FBFFBX;;LAD;Freddie Freeman;Ty Blach;4%;57%;Double to RF (Line Drive to RF Line)
+b1;0-0;1;-2-;4,(2-1) BSBX;;LAD;Amed Rosario;Ty Blach;5%;61%;Single to LF (Line Drive); Freeman to 3B
+b1;0-0;1;1-3;3,(1-1) CBX;OO;LAD;Max Muncy;Ty Blach;-11%;50%;Ground Ball Double Play: 1B-SS-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Rockies 0, Dodgers 0.
+Top of the 2nd, Rockies Batting, Tied 0-0, Dodgers' Clayton Kershaw facing 5-6-7 
+t2;0-0;0;---;6,(2-2) CBBF.FS;O;COL;Nolan Jones;Clayton Kershaw;2%;52%;Strikeout Swinging
+t2;0-0;1;---;4,(2-1) BFBX;;COL;Alan Trejo;Clayton Kershaw;-4%;48%;Double to RF (Line Drive to Short RF Line)
+t2;0-0;1;-2-;5,(2-2) SCB*BC;O;COL;Michael Toglia;Clayton Kershaw;4%;52%;Strikeout Looking
+t2;0-0;2;-2-;5,(1-2) CF*BFC;O;COL;Elehuris Montero;Clayton Kershaw;3%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rockies 0, Dodgers 0.
+Bottom of the 2nd, Dodgers Batting, Tied 0-0, Rockies' Ty Blach facing 5-6-7 
+b2;0-0;0;---;3,(0-2) CS.S;O;LAD;Chris Taylor;Ty Blach;-2%;53%;Strikeout Swinging
+b2;0-0;1;---;6,(2-2) CBFFBH;;LAD;Enrique Hernández;Ty Blach;3%;55%;Hit By Pitch
+b2;0-0;1;1--;7,(2-2) CFF1BFBX;O;LAD;James Outman;Ty Blach;-3%;52%;Flyball: CF (Short LF-CF)
+b2;0-0;2;1--;2,(1-0) BX;O;LAD;Miguel Rojas;Ty Blach;-2%;50%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rockies 0, Dodgers 0.
+Top of the 3rd, Rockies Batting, Tied 0-0, Dodgers' Clayton Kershaw facing 9-1-2 
+t3;0-0;0;---;3,(1-1) CBX;O;COL;Brenton Doyle;Clayton Kershaw;3%;53%;Groundout: 3B-1B (SS-3B Hole)
+t3;0-0;1;---;3,(1-1) CBX;;COL;Jurickson Profar;Clayton Kershaw;-3%;50%;Single to CF (Ground Ball)
+t3;0-0;1;1--;5,(2-2) FB*BF1X;OO;COL;Ezequiel Tovar;Clayton Kershaw;6%;56%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Rockies 0, Dodgers 0.
+Bottom of the 3rd, Dodgers Batting, Tied 0-0, Rockies' Ty Blach facing 9-1-2 
+b3;0-0;0;---;6,(3-2) CS.BBBC;O;LAD;Austin Barnes;Ty Blach;-3%;53%;Strikeout Looking
+b3;0-0;1;---;4,(3-0) BBBB;;LAD;Mookie Betts;Ty Blach;3%;56%;Walk
+b3;0-0;1;1--;3,(1-1) FBX;O;LAD;Freddie Freeman;Ty Blach;-3%;53%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Freeman to 1B
+b3;0-0;2;1--;1,(0-0) X;O;LAD;Amed Rosario;Ty Blach;-3%;50%;Flyball: RF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rockies 0, Dodgers 0.
+Top of the 4th, Rockies Batting, Tied 0-0, Dodgers' Clayton Kershaw facing 3-4-5 
+t4;0-0;0;---;5,(0-2) LF.FFX;O;COL;Ryan McMahon;Clayton Kershaw;3%;53%;Groundout: 1B unassisted (Weak 1B)
+t4;0-0;1;---;4,(3-0) BBBX;O;COL;Elias Díaz;Clayton Kershaw;2%;55%;Flyball: CF
+t4;0-0;2;---;2,(0-1) FX;O;COL;Nolan Jones;Clayton Kershaw;1%;56%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 0, Dodgers 0.
+Bottom of the 4th, Dodgers Batting, Tied 0-0, Rockies' Ty Blach facing 4-5-6 
+b4;0-0;0;---;2,(1-0) BX;O;LAD;Max Muncy;Ty Blach;-3%;53%;Groundout: 2B-1B (Deep 2B-1B)
+b4;0-0;1;---;4,(1-2) .BCFX;O;LAD;Chris Taylor;Ty Blach;-2%;51%;Groundout: SS-1B
+b4;0-0;2;---;4,(1-2) BFFX;O;LAD;Enrique Hernández;Ty Blach;-1%;50%;Lineout: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 0, Dodgers 0.
+Top of the 5th, Rockies Batting, Tied 0-0, Dodgers' Clayton Kershaw facing 6-7-8 
+t5;0-0;0;---;3,(2-0) BBX;O;COL;Alan Trejo;Clayton Kershaw;3%;53%;Groundout: 3B-1B (SS-3B Hole)
+t5;0-0;1;---;1,(0-0) X;O;COL;Michael Toglia;Clayton Kershaw;2%;55%;Groundout: SS-1B
+t5;0-0;2;---;3,(1-1) FBX;R;COL;Elehuris Montero;Clayton Kershaw;-14%;41%;Home Run (Fly Ball to Deep LF-CF)
+t5;1-0;2;---;4,(0-2) FCFS;O;COL;Brenton Doyle;Clayton Kershaw;1%;42%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Rockies 1, Dodgers 0.
+Bottom of the 5th, Dodgers Batting, Behind 0-1, Rockies' Ty Blach facing 7-8-9 
+b5;0-1;0;---;4,(2-1) .BCBX;O;LAD;James Outman;Ty Blach;-3%;39%;Groundout: 2B-1B (SS-2B)
+b5;0-1;1;---;3,(1-1) CBX;O;LAD;Miguel Rojas;Ty Blach;-3%;36%;Groundout: SS-1B (Deep SS)
+b5;0-1;2;---;1,(0-0) X;O;LAD;Austin Barnes;Ty Blach;-2%;35%;Lineout: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 1, Dodgers 0.
+Top of the 6th, Rockies Batting, Ahead 1-0, Dodgers' Ryan Yarbrough facing 1-2-3 
+;;;;;;;;;Ryan Yarbrough replaces Clayton Kershaw pitching
+t6;1-0;0;---;4,(2-1) .CBBX;O;COL;Jurickson Profar;Ryan Yarbrough;3%;37%;Flyball: 2B (Short CF)
+t6;1-0;1;---;4,(0-2) CSFX;;COL;Ezequiel Tovar;Ryan Yarbrough;-3%;34%;Single to LF (Line Drive to Deep LF-CF)
+t6;1-0;1;1--;4,(2-2) BSC1B11;O;COL;Ryan McMahon;Ryan Yarbrough;5%;39%;Tovar Caught Stealing (PO) 2B (P-1B)
+t6;1-0;2;---;5,(2-2) BSC1B11.S;O;COL;Ryan McMahon;Ryan Yarbrough;1%;41%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Rockies 1, Dodgers 0.
+Bottom of the 6th, Dodgers Batting, Behind 0-1, Rockies' Ty Blach facing 1-2-3 
+b6;0-1;0;---;2,(1-0) BX;O;LAD;Mookie Betts;Ty Blach;-4%;36%;Flyball: RF
+b6;0-1;1;---;4,(3-0) BBBB;;LAD;Freddie Freeman;Ty Blach;4%;41%;Walk
+b6;0-1;1;1--;3,(1-1) CBX;OO;LAD;Amed Rosario;Ty Blach;-9%;31%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 1, Dodgers 0.
+Top of the 7th, Rockies Batting, Ahead 1-0, Dodgers' Ryan Yarbrough facing 4-5-6 
+t7;1-0;0;---;3,(1-1) BTX;O;COL;Elias Díaz;Ryan Yarbrough;3%;34%;Flyball: RF (Short RF)
+t7;1-0;1;---;6,(2-2) CBBSF.S;O;COL;Nolan Jones;Ryan Yarbrough;2%;36%;Strikeout Swinging
+t7;1-0;2;---;4,(2-1) CBBX;O;COL;Alan Trejo;Ryan Yarbrough;1%;37%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 1, Dodgers 0.
+Bottom of the 7th, Dodgers Batting, Behind 0-1, Rockies' Ty Blach facing 4-5-6 
+b7;0-1;0;---;6,(3-2) BFCBBX;R;LAD;Max Muncy;Ty Blach;22%;59%;Home Run (Fly Ball to Deep RF)
+;;;;;;;;;Tommy Doyle replaces Ty Blach pitching
+b7;1-1;0;---;3,(1-1) .SBX;;LAD;Chris Taylor;Tommy Doyle;6%;65%;Single to LF (Line Drive to Deep LF-CF)
+b7;1-1;0;1--;3,(0-2) FT>X;OO;LAD;Enrique Hernández;Tommy Doyle;-13%;52%;Ground Ball Double Play: 2B-1B (SS-2B)
+;;;;;;;;;Force Play Challenged by LAD manager (Dave Roberts): Original call upheld upon review.
+b7;1-1;2;---;3,(0-2) SSS;O;LAD;James Outman;Tommy Doyle;-2%;50%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Rockies 1, Dodgers 1.
+Top of the 8th, Rockies Batting, Tied 1-1, Dodgers' Ryan Yarbrough facing 7-8-9 
+t8;1-1;0;---;2,(1-0) BX;O;COL;Michael Toglia;Ryan Yarbrough;5%;55%;Groundout: SS-1B
+t8;1-1;1;---;4,(1-2) FBFS;O;COL;Elehuris Montero;Ryan Yarbrough;4%;59%;Strikeout Swinging
+t8;1-1;2;---;4,(1-2) CFBS;O;COL;Brenton Doyle;Ryan Yarbrough;3%;61%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 1, Dodgers 1.
+Bottom of the 8th, Dodgers Batting, Tied 1-1, Rockies' Tommy Doyle facing 8-9-1 
+;;;;;;;;;David Peralta pinch hits for Miguel Rojas (SS) batting 8th
+b8;1-1;0;---;7,(3-2) .BBBCFFB;;LAD;David Peralta;Tommy Doyle;6%;67%;Walk
+;;;;;;;;;Jason Heyward pinch hits for Austin Barnes (C) batting 9th
+b8;1-1;0;1--;4,(1-2) .BCFX;O;LAD;Jason Heyward;Tommy Doyle;-6%;61%;Groundout: 2B-SS/Forceout at 2B; Heyward to 1B
+b8;1-1;1;1--;6,(2-2) CBF*BF1>X;;LAD;Mookie Betts;Tommy Doyle;14%;75%;Single to CF (Line Drive to Short CF); Heyward to 3B
+;;;;;;;;;Daniel Bard replaces Tommy Doyle pitching
+b8;1-1;1;1-3;6,(3-2) .BFBB*S1>B;;LAD;Freddie Freeman;Daniel Bard;2%;78%;Walk; Betts to 2B
+;;;;;;;;;Will Smith pinch hits for Amed Rosario (2B) batting 3rd
+b8;1-1;1;123;4,(1-2) .FSBX;O;LAD;Will Smith;Daniel Bard;-14%;64%;Flyball: SS (Short LF-CF)
+b8;1-1;2;123;5,(3-1) BBCBB;R;LAD;Max Muncy;Daniel Bard;24%;87%;Walk; Heyward Scores; Betts to 3B; Freeman to 2B
+b8;2-1;2;123;6,(2-2) BFBFFX;O;LAD;Chris Taylor;Daniel Bard;-4%;83%;Flyball: LF (Deep LF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 3 LOB. Rockies 1, Dodgers 2.
+Top of the 9th, Rockies Batting, Behind 1-2, Dodgers' Brusdar Graterol facing 1-2-3 
+;;;;;;;;;Brusdar Graterol replaces Ryan Yarbrough pitchingWill Smith moves from PH to C Mookie Betts moves from RF to 2B Chris Taylor moves from LF to 3B Enrique Hernández moves from 3B to SS David Peralta moves from PH to LF Jason Heyward moves from PH to RF 
+t9;1-2;0;---;5,(1-2) .......CBSFX;O;COL;Jurickson Profar;Brusdar Graterol;8%;90%;Groundout: 3B-1B (SS-3B Hole)
+t9;1-2;1;---;3,(1-1) BSX;O;COL;Ezequiel Tovar;Brusdar Graterol;6%;96%;Groundout: SS-1B
+t9;1-2;2;---;5,(2-2) BSBFS;O;COL;Ryan McMahon;Brusdar Graterol;4%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 1, Dodgers 2.

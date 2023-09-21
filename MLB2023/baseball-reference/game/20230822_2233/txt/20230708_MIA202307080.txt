@@ -1,0 +1,266 @@
+
+Scorebox Meta
+20230708
+4:10 p.m. Local
+18132
+loanDepot park
+155
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/PHI-2023.png;/teams/PHI/2023.shtml;1;2;0;0;0;0;0;0;0;3;7;1
+https://cdn.ssref.net/req/202308101/tlogo/br/MIA-2023.png;/teams/MIA/2023.shtml;3;0;0;1;0;0;1;0;X;5;10;1
+
+Batting home
+Bryan De La Cruz;/players/d/delacbr01.shtml;LF;4;0;0;0;1;2;5;.271;.320;.407;.728;19;11;-0.040; 1.13;0.068;-0.108;-0.03%; 1.23; -0.5;1;0;
+Jorge Soler;/players/s/solerjo01.shtml;RF;2;1;1;2;1;1;4;.254;.351;.530;.881;14;9;0.123; 1.33;0.146;-0.023; 0.08%; 1.45; 1.0;1;0;HR,SF
+Garrett Cooper;/players/c/coopega03.shtml;DH;4;2;2;0;0;1;4;.263;.307;.448;.755;15;11;-0.025; 1.14;0.053;-0.078;-0.02%; 1.23; -0.2;;;
+Yuli Gurriel;/players/g/gourryu01.shtml;1B;2;1;0;0;2;1;4;.268;.332;.397;.729;18;7;0.022; 1.12;0.076;-0.054; 0.01%; 1.21; 0.5;9;0;
+Jean Segura;/players/s/segurje01.shtml;3B;4;0;2;0;0;1;4;.211;.279;.260;.539;15;9;-0.039; 1.20;0.045;-0.084;-0.03%; 1.29; -0.6;2;2;
+Jon Berti;/players/b/bertijo01.shtml;SS;2;0;0;0;1;0;3;.272;.316;.345;.661;12;7;-0.035; 1.35;0.040;-0.075;-0.02%; 1.46; -0.3;0;4;SB
+Luis Arraez;/players/a/arraelu01.shtml;PH-2B;1;0;1;1;0;0;1;.388;.439;.477;.915;6;5;0.101; 1.57;0.101;0.000; 0.07%; 1.70; 1.3;2;0;
+Dane Myers;/players/m/myersda01.shtml;CF;4;1;2;2;0;0;4;.389;.389;.444;.833;13;7;0.078; 1.43;0.204;-0.126; 0.05%; 1.55; 0.1;4;0;CS,GDP
+Joey Wendle;/players/w/wendljo01.shtml;SS;0;0;0;0;0;0;0;.270;.308;.390;.698;;;;;;;;;;0;1;
+Nick Fortes;/players/f/forteni01.shtml;C;4;0;0;0;0;0;4;.210;.260;.290;.550;10;6;-0.092; 0.93;0.000;-0.092;-0.06%; 1.00; -1.1;7;0;
+Garrett Hampson;/players/h/hampsga01.shtml;2B-CF;4;0;2;0;0;0;4;.248;.326;.341;.667;14;11;0.086; 0.73;0.090;-0.005; 0.06%; 0.79; 0.8;1;1;
+Braxton Garrett;/players/g/garrebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Huascar Brazoban;/players/b/brazohu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Steven Okert;/players/o/okertst01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tanner Scott;/players/s/scottta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+A.J. Puk;/players/p/pukaj01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Jorge Soler (23, off Ranger Suárez, 1st inn, 0 on, 1 out to Deep LF Line).
+
+
+SF: Jorge Soler (2, off Ranger Suárez).
+
+
+TB: Jorge Soler 4; Garrett Hampson 2; Jean Segura 2; Garrett Cooper 2; Dane Myers 2; Luis Arraez.
+
+
+GIDP: Dane Myers (1).
+
+
+RBI: Jorge Soler 2 (51); Dane Myers 2 (5); Luis Arraez (42).
+
+
+2-out RBI: Dane Myers 2.
+
+
+Team LOB: 8.
+With RISP: 2 for 8.
+
+Batting away
+Kyle Schwarber;/players/s/schwaky01.shtml;LF;4;0;0;1;0;1;4;.187;.316;.428;.744;19;12;-0.079; 1.16;0.000;-0.079;-0.05%; 1.29; -0.6;1;0;
+Trea Turner;/players/t/turnetr01.shtml;SS;4;1;1;1;0;2;4;.250;.302;.393;.695;19;13;-0.001; 1.09;0.098;-0.099;-0.00%; 1.23; 0.2;2;2;HR
+Nick Castellanos;/players/c/casteni01.shtml;RF;4;0;1;0;0;1;4;.304;.345;.500;.845;9;7;-0.047; 0.78;0.018;-0.065;-0.03%; 0.88; -0.4;4;1;
+Bryce Harper;/players/h/harpebr03.shtml;DH;1;0;1;0;0;0;2;.290;.386;.400;.786;4;2;-0.024; 1.09;0.048;-0.072;-0.02%; 1.22; -0.2;;;2B,CS,HBP
+Bryson Stott;/players/s/stottbr01.shtml;PH-DH-DH;2;0;0;0;0;0;2;.298;.333;.419;.753;7;6;-0.047; 0.84;0.000;-0.047;-0.03%; 0.94; -0.3;;;
+J.T. Realmuto;/players/r/realmjt01.shtml;C;4;0;0;0;0;2;4;.249;.307;.463;.770;19;14;-0.067; 1.33;0.040;-0.106;-0.04%; 1.49; -0.4;6;1;
+Alec Bohm;/players/b/bohmal01.shtml;1B;4;1;2;0;0;0;4;.283;.329;.430;.759;15;9;0.036; 0.96;0.089;-0.052; 0.02%; 1.08; 0.2;7;0;
+Josh Harrison;/players/h/harrijo05.shtml;2B;4;0;0;0;0;1;4;.219;.274;.313;.586;11;8;-0.132; 1.35;0.000;-0.132;-0.09%; 1.51; -1.0;2;2;
+Edmundo Sosa;/players/s/sosaed01.shtml;3B;4;1;1;0;0;0;4;.243;.262;.390;.652;12;9;-0.062; 1.24;0.038;-0.100;-0.04%; 1.39; -0.3;0;3;
+Cristian Pache;/players/p/pachecr01.shtml;CF;3;0;1;1;0;0;3;.326;.367;.609;.976;13;9;0.101; 1.28;0.146;-0.045; 0.07%; 1.43; 1.2;2;0;2B
+Ranger Suárez;/players/s/suarera01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Yunior Marte;/players/m/marteyu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dylan Covey;/players/c/coveydy01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Bryce Harper (14, off Braxton Garrett); Cristian Pache (7, off Braxton Garrett).
+
+
+HR: Trea Turner (10, off Braxton Garrett, 1st inn, 0 on, 1 out to Deep LF Line).
+
+
+HBP: Bryce Harper (1, by Braxton Garrett).
+
+
+TB: Trea Turner 4; Cristian Pache 2; Bryce Harper 2; Alec Bohm 2; Edmundo Sosa; Nick Castellanos.
+
+
+RBI: Trea Turner (32); Cristian Pache (8); Kyle Schwarber (49).
+
+
+Team LOB: 5.
+With RISP: 1 for 4.
+
+Pitching home
+Braxton Garrett;/players/g/garrebr01.shtml; W (5-2); 5 ;6;3;3;0;3;1;3.70;22;78;53;31;10;12;7;11;6;0;46;;;-0.011; 1.07;-0.01%; 1.16; -0.4
+Huascar Brazoban;/players/b/brazohu01.shtml; H (12); 1.2;0;0;0;0;1;0;3.18;5;21;14;7;4;3;3;1;1;0;;0;0;0.157; 1.23; 0.10%; 1.33; 0.9
+Steven Okert;/players/o/okertst01.shtml; H (10); 0.1;0;0;0;0;1;0;2.59;1;6;3;2;0;1;0;0;0;0;;0;0;0.021; 0.81; 0.01%; 0.88; 0.1
+Tanner Scott;/players/s/scottta01.shtml; H (18); 1 ;0;0;0;0;1;0;2.91;3;10;9;6;2;1;0;2;0;0;;0;0;0.077; 1.00; 0.05%; 1.08; 0.5
+A.J. Puk;/players/p/pukaj01.shtml; S (15); 1 ;1;0;0;0;1;0;4.03;4;13;10;6;1;3;1;2;1;0;;0;0;0.076; 1.47; 0.05%; 1.59; 0.5
+
+Pitching away
+Ranger Suárez;/players/s/suarera01.shtml; L (2-4); 5.2;8;4;3;4;4;1;3.77;28;92;55;33;8;14;11;9;2;0;39;;;-0.144; 1.28;-0.10%; 1.44; -1.1
+Yunior Marte;/players/m/marteyu01.shtml;Yunior Marte; 1.1;2;1;1;1;1;0;5.32;6;29;17;12;2;3;1;3;2;0;;1;0;-0.051; 1.09;-0.03%; 1.22; -0.2
+Dylan Covey;/players/c/coveydy01.shtml;Dylan Covey; 1 ;0;0;0;0;1;0;5.68;3;15;11;9;1;1;1;1;1;0;;0;0;0.015; 0.19; 0.01%; 0.21; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Braxton Garrett (5; Bryce Harper).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Braxton Garrett (5; Bryce Harper).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Nate Tomlinson, 1B - Edwin Moscoso, 2B - Ryan Additon, 3B - Chris Guccione, LF - (none), RF - (none).
+Time of Game: 2:35.
+Attendance: 18,132.
+Start Time Weather: 72° F, Wind 0mph, In Dome.
+
+div_lineups
+Phillies
+1;Kyle Schwarber;/players/s/schwaky01.shtml;LF
+2;Trea Turner;/players/t/turnetr01.shtml;SS
+3;Nick Castellanos;/players/c/casteni01.shtml;RF
+4;Bryce Harper;/players/h/harpebr03.shtml;DH
+5;J.T. Realmuto;/players/r/realmjt01.shtml;C
+6;Alec Bohm;/players/b/bohmal01.shtml;1B
+7;Josh Harrison;/players/h/harrijo05.shtml;2B
+8;Edmundo Sosa;/players/s/sosaed01.shtml;3B
+9;Cristian Pache;/players/p/pachecr01.shtml;CF
+; Ranger Suárez;/players/s/suarera01.shtml;P
+Marlins
+1;Bryan De La Cruz;/players/d/delacbr01.shtml;LF
+2;Jorge Soler;/players/s/solerjo01.shtml;RF
+3;Garrett Cooper;/players/c/coopega03.shtml;DH
+4;Yuli Gurriel;/players/g/gourryu01.shtml;1B
+5;Jean Segura;/players/s/segurje01.shtml;3B
+6;Jon Berti;/players/b/bertijo01.shtml;SS
+7;Dane Myers;/players/m/myersda01.shtml;CF
+8;Nick Fortes;/players/f/forteni01.shtml;C
+9;Garrett Hampson;/players/h/hampsga01.shtml;2B
+; Braxton Garrett;/players/g/garrebr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;1-1;2;123;3,(1-1) CBX;RR;MIA;Dane Myers;Ranger Suárez;16%;73%;Single to RF (Ground Ball thru 2B-1B); Cooper Scores; Gurriel Scores; Berti to 3B
+t2;1-3;1;12-;3,(1-1) *BSX;R;PHI;Cristian Pache;Braxton Garrett;-15%;51%;Double to RF (Fly Ball to Deep RF); Bohm Scores; Sosa to 3B
+b1;0-1;1;---;3,(1-1) FBX;R;MIA;Jorge Soler;Ranger Suárez;10%;53%;Home Run (Fly Ball to Deep LF Line)
+b7;4-3;1;12-;6,(1-2) .BFFFFX;R;MIA;Luis Arraez;Yunior Marte;10%;92%;Single to CF (Line Drive to CF-RF); Cooper Scores; Gurriel to 3B
+t1;0-0;1;---;6,(2-2) FFBFBX;R;PHI;Trea Turner;Braxton Garrett;-10%;42%;Home Run (Fly Ball to Deep LF Line)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Phillies Batting, Tied 0-0, Marlins' Braxton Garrett facing 1-2-3 
+t1;0-0;0;---;4,(1-2) FBSX;O;PHI;Kyle Schwarber;Braxton Garrett;2%;52%;Lineout: LF (Deep LF)
+t1;0-0;1;---;6,(2-2) FFBFBX;R;PHI;Trea Turner;Braxton Garrett;-10%;42%;Home Run (Fly Ball to Deep LF Line)
+t1;1-0;1;---;4,(1-2) BSS.C;O;PHI;Nick Castellanos;Braxton Garrett;1%;44%;Strikeout Looking
+t1;1-0;2;---;3,(1-1) BSX;;PHI;Bryce Harper;Braxton Garrett;-2%;42%;Double to RF (Line Drive to Deep CF-RF)
+t1;1-0;2;-2-;8,(2-2) CBBFFF>FS;O;PHI;J.T. Realmuto;Braxton Garrett;3%;45%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Phillies 1, Marlins 0.
+Bottom of the 1st, Marlins Batting, Behind 0-1, Phillies' Ranger Suárez facing 1-2-3 
+b1;0-1;0;---;4,(1-2) BFFC;O;MIA;Bryan De La Cruz;Ranger Suárez;-2%;42%;Strikeout Looking
+b1;0-1;1;---;3,(1-1) FBX;R;MIA;Jorge Soler;Ranger Suárez;10%;53%;Home Run (Fly Ball to Deep LF Line)
+b1;1-1;1;---;1,(0-0) X;;MIA;Garrett Cooper;Ranger Suárez;2%;55%;Single to RF (Ground Ball)
+b1;1-1;1;1--;4,(3-0) *BB*BB;;MIA;Yuli Gurriel;Ranger Suárez;3%;59%;Walk; Cooper to 2B
+b1;1-1;1;12-;4,(1-2) BCFC;O;MIA;Jean Segura;Ranger Suárez;-4%;54%;Strikeout Looking
+b1;1-1;2;12-;6,(3-2) BCBC.*B>B;;MIA;Jon Berti;Ranger Suárez;3%;57%;Walk; Cooper to 3B; Gurriel to 2B
+b1;1-1;2;123;3,(1-1) CBX;RR;MIA;Dane Myers;Ranger Suárez;16%;73%;Single to RF (Ground Ball thru 2B-1B); Cooper Scores; Gurriel Scores; Berti to 3B
+b1;3-1;2;1-3;1,(0-0) >B;O;MIA;Nick Fortes;Ranger Suárez;-4%;70%;Myers Caught Stealing 2B (C-2B)
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Phillies 1, Marlins 3.
+Top of the 2nd, Phillies Batting, Behind 1-3, Marlins' Braxton Garrett facing 6-7-8 
+t2;1-3;0;---;8,(3-2) BCTFBBF.X;;PHI;Alec Bohm;Braxton Garrett;-4%;66%;Single to CF (Line Drive to Deep CF)
+t2;1-3;0;1--;2,(1-0) BX;O;PHI;Josh Harrison;Braxton Garrett;4%;69%;Lineout: CF (Deep CF)
+t2;1-3;1;1--;3,(1-1) *BC1X;;PHI;Edmundo Sosa;Braxton Garrett;-4%;66%;Single to LF (Line Drive to Short LF); Bohm to 2B
+t2;1-3;1;12-;3,(1-1) *BSX;R;PHI;Cristian Pache;Braxton Garrett;-15%;51%;Double to RF (Fly Ball to Deep RF); Bohm Scores; Sosa to 3B
+t2;2-3;1;-23;5,(2-2) SS.BBX;RO;PHI;Kyle Schwarber;Braxton Garrett;0%;51%;Groundout: P-1B (Front of Home); Sosa Scores; Pache to 3B
+;;;;;;;;;Force Play Challenged by PHI manager (Rob Thomson): Original call upheld upon review.
+t2;3-3;2;--3;6,(3-2) *BBBCCS;O;PHI;Trea Turner;Braxton Garrett;4%;55%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Phillies 3, Marlins 3.
+Bottom of the 2nd, Marlins Batting, Tied 3-3, Phillies' Ranger Suárez facing 8-9-1 
+b2;3-3;0;---;2,(0-1) FX;O;MIA;Nick Fortes;Ranger Suárez;-2%;53%;Flyball: RF (Short RF Line)
+b2;3-3;1;---;5,(2-2) BCSBX;;MIA;Garrett Hampson;Ranger Suárez;3%;55%;Single to CF (Line Drive)
+b2;3-3;1;1--;1,(0-0) X;OO;MIA;Bryan De La Cruz;Ranger Suárez;-5%;50%;Double Play: Flyball: RF (Deep RF); Hampson out at 2B/RF-SS
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Phillies 3, Marlins 3.
+Top of the 3rd, Phillies Batting, Tied 3-3, Marlins' Braxton Garrett facing 3-4-5 
+t3;3-3;0;---;2,(1-0) BX;O;PHI;Nick Castellanos;Braxton Garrett;3%;53%;Flyball: CF (Deep CF-RF)
+t3;3-3;1;---;1,(0-0) H;;PHI;Bryce Harper;Braxton Garrett;-3%;50%;Hit By Pitch
+t3;3-3;1;1--;2,(0-1) *SX;;PHI;J.T. Realmuto;Braxton Garrett;-4%;46%;Reached on E5 (Ground Ball to Weak 3B); Harper to 2B; Realmuto to 1B
+t3;3-3;1;12-;1,(1-0) BN;O;PHI;Alec Bohm;Braxton Garrett;7%;53%;Harper Caught Stealing 3B (P-3B)
+t3;3-3;2;1--;2,(1-0) BN.X;O;PHI;Alec Bohm;Braxton Garrett;3%;56%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Phillies 3, Marlins 3.
+Bottom of the 3rd, Marlins Batting, Tied 3-3, Phillies' Ranger Suárez facing 2-3-4 
+b3;3-3;0;---;6,(3-2) CBBBS.B;;MIA;Jorge Soler;Ranger Suárez;4%;59%;Walk
+b3;3-3;0;1--;4,(1-2) CFBS;O;MIA;Garrett Cooper;Ranger Suárez;-4%;56%;Strikeout Swinging
+b3;3-3;1;1--;7,(3-2) CCBFBBS;O;MIA;Yuli Gurriel;Ranger Suárez;-3%;53%;Strikeout Swinging
+b3;3-3;2;1--;1,(0-0) X;;MIA;Jean Segura;Ranger Suárez;2%;55%;Single to 2B (Ground Ball to SS-2B); Soler to 2B
+b3;3-3;2;12-;2,(0-1) FX;O;MIA;Jon Berti;Ranger Suárez;-5%;50%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Phillies 3, Marlins 3.
+Top of the 4th, Phillies Batting, Tied 3-3, Marlins' Braxton Garrett facing 7-8-9 
+t4;3-3;0;---;4,(2-1) BBCX;O;PHI;Josh Harrison;Braxton Garrett;3%;53%;Flyball: CF (Deep CF-RF)
+t4;3-3;1;---;1,(0-0) X;O;PHI;Edmundo Sosa;Braxton Garrett;2%;55%;Groundout: SS-1B (Weak SS)
+t4;3-3;2;---;3,(0-2) CFX;O;PHI;Cristian Pache;Braxton Garrett;1%;56%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 3, Marlins 3.
+Bottom of the 4th, Marlins Batting, Tied 3-3, Phillies' Ranger Suárez facing 7-8-9 
+b4;3-3;0;---;4,(2-1) BCBX;;MIA;Dane Myers;Ranger Suárez;4%;60%;Single to RF (Ground Ball thru 2B-1B)
+b4;3-3;0;1--;1,(0-0) X;O;MIA;Nick Fortes;Ranger Suárez;-4%;56%;Flyball: LF (LF-CF)
+b4;3-3;1;1--;1,(0-0) X;;MIA;Garrett Hampson;Ranger Suárez;4%;60%;Reached on E1 (Bunt Popup to Short 3B Line); Myers to 2B; Hampson to 1B
+b4;3-3;1;12-;6,(3-2) BF*BBFB;;MIA;Bryan De La Cruz;Ranger Suárez;7%;67%;Walk; Myers to 3B; Hampson to 2B
+b4;3-3;1;123;2,(0-1) FX;RO;MIA;Jorge Soler;Ranger Suárez;1%;68%;Lineout: CF/Sacrifice Fly (Deep CF); Myers Scores/unER
+b4;4-3;2;12-;3,(0-2) SFX;O;MIA;Garrett Cooper;Ranger Suárez;-4%;64%;Groundout: P-1B (Front of Home)
+;;;;;;;;;1 run, 1 hit, 1 error, 2 LOB. Phillies 3, Marlins 4.
+Top of the 5th, Phillies Batting, Behind 3-4, Marlins' Braxton Garrett facing 1-2-3 
+t5;3-4;0;---;4,(1-2) BCC.X;O;PHI;Kyle Schwarber;Braxton Garrett;3%;67%;Groundout: 1B unassisted
+t5;3-4;1;---;3,(0-2) CFX;O;PHI;Trea Turner;Braxton Garrett;2%;69%;Groundout: SS-1B
+t5;3-4;2;---;1,(0-0) X;;PHI;Nick Castellanos;Braxton Garrett;-2%;68%;Single to RF (Line Drive to CF-RF)
+;;;;;;;;;Bryson Stott pinch hits for Bryce Harper (DH) batting 4th
+t5;3-4;2;1--;3,(1-1) .CBX;O;PHI;Bryson Stott;Braxton Garrett;3%;71%;Popfly: 2B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 3, Marlins 4.
+Bottom of the 5th, Marlins Batting, Ahead 4-3, Phillies' Ranger Suárez facing 4-5-6 
+b5;4-3;0;---;2,(0-1) .FX;O;MIA;Yuli Gurriel;Ranger Suárez;-2%;69%;Flyball: CF (Deep CF-RF)
+b5;4-3;1;---;5,(2-2) BBSS.X;;MIA;Jean Segura;Ranger Suárez;2%;71%;Single to CF (Ground Ball thru SS-2B)
+b5;4-3;1;1--;4,(1-2) BSCX;O;MIA;Jon Berti;Ranger Suárez;-3%;68%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Berti to 1B
+b5;4-3;2;1--;1,(0-0) 1>B;;MIA;Dane Myers;Ranger Suárez;1%;69%;Berti Steals 2B
+b5;4-3;2;-2-;3,(2-0) 1>B.BX;O;MIA;Dane Myers;Ranger Suárez;-3%;66%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 3, Marlins 4.
+Top of the 6th, Phillies Batting, Behind 3-4, Marlins' Huascar Brazoban facing 5-6-7 
+;;;;;;;;;Huascar Brazoban replaces Braxton Garrett pitching
+t6;3-4;0;---;3,(1-1) .SBX;O;PHI;J.T. Realmuto;Huascar Brazoban;4%;70%;Lineout: CF (Deep CF)
+t6;3-4;1;---;4,(2-1) BCBX;O;PHI;Alec Bohm;Huascar Brazoban;3%;72%;Groundout: 3B-1B (SS-3B Hole)
+t6;3-4;2;---;3,(0-2) CS.S;O;PHI;Josh Harrison;Huascar Brazoban;2%;74%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 3, Marlins 4.
+Bottom of the 6th, Marlins Batting, Ahead 4-3, Phillies' Ranger Suárez facing 8-9-1 
+b6;4-3;0;---;3,(2-0) BBX;O;MIA;Nick Fortes;Ranger Suárez;-2%;72%;Groundout: SS-1B
+b6;4-3;1;---;1,(0-0) X;;MIA;Garrett Hampson;Ranger Suárez;2%;74%;Single to RF (Fly Ball to Short RF)
+b6;4-3;1;1--;3,(1-1) CBX;O;MIA;Bryan De La Cruz;Ranger Suárez;-3%;71%;Flyball: RF (Deep RF)
+;;;;;;;;;Yunior Marte replaces Ranger Suárez pitching
+b6;4-3;2;1--;3,(0-2) .CFS;O;MIA;Jorge Soler;Yunior Marte;-2%;69%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 3, Marlins 4.
+Top of the 7th, Phillies Batting, Behind 3-4, Marlins' Huascar Brazoban facing 8-9-1 
+t7;3-4;0;---;4,(1-2) CFBX;O;PHI;Edmundo Sosa;Huascar Brazoban;4%;74%;Groundout: SS-1B
+t7;3-4;1;---;7,(3-2) SF.FBBBX;O;PHI;Cristian Pache;Huascar Brazoban;3%;77%;Groundout: SS-1B
+;;;;;;;;;Steven Okert replaces Huascar Brazoban pitching
+t7;3-4;2;---;6,(3-2) .BBCFBFA;O;PHI;Kyle Schwarber;Steven Okert;2%;79%;Strikeout
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 3, Marlins 4.
+Bottom of the 7th, Marlins Batting, Ahead 4-3, Phillies' Yunior Marte facing 3-4-5 
+b7;4-3;0;---;7,(3-2) BFBBFFX;;MIA;Garrett Cooper;Yunior Marte;3%;82%;Single to LF (Line Drive)
+b7;4-3;0;1--;5,(3-1) BBBCB;;MIA;Yuli Gurriel;Yunior Marte;4%;86%;Walk; Cooper to 2B
+b7;4-3;0;12-;5,(3-1) BBBCX;O;MIA;Jean Segura;Yunior Marte;-4%;82%;Popfly: 1B (2B-1B)
+;;;;;;;;;Luis Arraez pinch hits for Jon Berti (SS) batting 6th
+b7;4-3;1;12-;6,(1-2) .BFFFFX;R;MIA;Luis Arraez;Yunior Marte;10%;92%;Single to CF (Line Drive to CF-RF); Cooper Scores; Gurriel to 3B
+b7;5-3;1;1-3;3,(1-1) SBX;OO;MIA;Dane Myers;Yunior Marte;-6%;86%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Phillies 3, Marlins 5.
+Top of the 8th, Phillies Batting, Behind 3-5, Marlins' Tanner Scott facing 2-3-4 
+;;;;;;;;;Tanner Scott replaces Steven Okert pitchingLuis Arraez moves from PH to 2B Joey Wendle replaces Dane Myers (CF) playing SS batting 7thGarrett Hampson moves from 2B to CF 
+t8;3-5;0;---;4,(1-2) ....BFFS;O;PHI;Trea Turner;Tanner Scott;4%;90%;Strikeout Swinging
+t8;3-5;1;---;2,(0-1) FX;O;PHI;Nick Castellanos;Tanner Scott;2%;92%;Flyball: RF
+t8;3-5;2;---;4,(0-2) CSFX;O;PHI;Bryson Stott;Tanner Scott;1%;94%;Foul Popfly: 3B (3B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 3, Marlins 5.
+Bottom of the 8th, Marlins Batting, Ahead 5-3, Phillies' Dylan Covey facing 8-9-1 
+;;;;;;;;;Dylan Covey replaces Yunior Marte pitching
+b8;5-3;0;---;3,(1-1) .BFX;O;MIA;Nick Fortes;Dylan Covey;-1%;93%;Lineout: RF (Short RF)
+b8;5-3;1;---;7,(1-2) CFBFFFX;O;MIA;Garrett Hampson;Dylan Covey;0%;93%;Groundout: 2B-1B (2B-1B)
+b8;5-3;2;---;5,(2-2) FBFBS;O;MIA;Bryan De La Cruz;Dylan Covey;0%;92%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 3, Marlins 5.
+Top of the 9th, Phillies Batting, Behind 3-5, Marlins' A.J. Puk facing 5-6-7 
+;;;;;;;;;A.J. Puk replaces Tanner Scott pitching
+t9;3-5;0;---;6,(2-2) .BCCFBS;O;PHI;J.T. Realmuto;A.J. Puk;4%;96%;Strikeout Swinging
+t9;3-5;1;---;1,(0-0) X;;PHI;Alec Bohm;A.J. Puk;-5%;91%;Single to P (Line Drive)
+t9;3-5;1;1--;2,(0-1) FX;O;PHI;Josh Harrison;A.J. Puk;5%;96%;Popfly: 2B (Deep 1B)
+t9;3-5;2;1--;4,(1-2) BFCX;O;PHI;Edmundo Sosa;A.J. Puk;4%;100%;Groundout: SS-2B/Forceout at 2B; Sosa to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 3, Marlins 5.

@@ -1,0 +1,254 @@
+
+Scorebox Meta
+20230728
+7:10 p.m. Local
+25385
+Citi Field
+157
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/WSN-2023.png;/teams/WSN/2023.shtml;0;0;0;0;0;0;1;0;0;1;8;1
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;0;3;0;2;0;X;5;8;0
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;4;0;1;0;0;0;4;.258;.354;.437;.791;28;19;-0.076; 1.27;0.035;-0.111;-0.01%; 0.42; -0.7;2;1;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;1;1;0;0;0;4;.228;.314;.443;.757;16;9;-0.155; 1.37;0.006;-0.161;-0.03%; 0.45; -1.4;2;2;GDP
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;2;2;5;0;0;4;.220;.317;.514;.831;18;12;0.368; 0.98;0.404;-0.036; 0.07%; 0.33; 4.2;7;2;2·HR
+Tommy Pham;/players/p/phamth01.shtml;LF;4;0;1;0;0;1;4;.265;.347;.460;.808;14;10;-0.047; 0.54;0.005;-0.052;-0.01%; 0.18; -0.4;0;0;
+Jeff McNeil;/players/m/mcneije01.shtml;2B;4;0;3;0;0;0;4;.255;.331;.328;.659;11;9;0.048; 0.46;0.057;-0.010; 0.01%; 0.15; 0.7;2;1;
+Mark Canha;/players/c/canhama01.shtml;RF;3;0;0;0;1;0;4;.239;.338;.375;.712;16;10;-0.006; 0.75;0.037;-0.043;-0.00%; 0.25; -0.5;4;0;
+Mark Vientos;/players/v/vientma01.shtml;DH;3;0;0;0;1;1;4;.210;.265;.274;.539;15;9;-0.078; 0.82;0.002;-0.080;-0.02%; 0.27; -0.5;;;
+Brett Baty;/players/b/batybr01.shtml;3B;3;1;0;0;1;3;4;.227;.290;.349;.639;23;14;-0.005; 0.79;0.046;-0.051;-0.00%; 0.26; -0.6;1;2;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;2;1;0;0;2;1;4;.232;.295;.492;.787;13;4;0.096; 0.84;0.108;-0.013; 0.02%; 0.28; 0.3;7;2;
+Max Scherzer;/players/s/scherma01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Adam Ottavino;/players/o/ottavad01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Brooks Raley;/players/r/raleybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Pete Alonso 2 (30, 1 off Rico Garcia, 7th inn, 1 on, 2 outs to Deep CF-RF, 1 off MacKenzie Gore, 5th inn, 2 on, 2 outs to Front of Home).
+
+
+TB: Pete Alonso 8; Jeff McNeil 3; Brandon Nimmo; Tommy Pham; Francisco Lindor.
+
+
+GIDP: Francisco Lindor (7).
+
+
+RBI: Pete Alonso 5 (73).
+
+
+2-out RBI: Pete Alonso 5.
+
+
+Team LOB: 7.
+With RISP: 1 for 7.
+
+Batting away
+CJ Abrams;/players/a/abramcj01.shtml;SS;4;0;0;0;0;1;4;.254;.304;.419;.723;11;8;-0.121; 1.11;0.000;-0.121;-0.00%; 0.02; -1.0;0;2;
+Lane Thomas;/players/t/thomala02.shtml;RF;4;0;0;0;0;3;4;.287;.335;.477;.812;16;12;-0.069; 0.69;0.000;-0.069;-0.00%; 0.01; -0.8;0;0;
+Jeimer Candelario;/players/c/candeje01.shtml;DH;3;0;1;0;1;1;4;.254;.335;.478;.813;19;10;-0.002; 0.44;0.027;-0.029;0%; 0.01; -0.1;;;
+Keibert Ruiz;/players/r/ruizke01.shtml;C;4;0;1;0;0;0;4;.245;.297;.390;.687;8;8;-0.023; 0.84;0.038;-0.060;0%; 0.01; -0.2;6;0;
+Corey Dickerson;/players/d/dickeco01.shtml;LF;3;0;0;0;0;2;3;.252;.282;.341;.622;9;9;-0.076; 1.01;0.000;-0.076;-0.00%; 0.02; -0.7;4;0;
+Stone Garrett;/players/g/garrest01.shtml;PH;1;0;0;0;0;1;1;.261;.332;.439;.771;7;5;-0.009; 0.34;0.000;-0.009;0%; 0.01; -0.2;;;
+Luis García;/players/g/garcilu04.shtml;2B;4;1;3;1;0;0;4;.266;.301;.374;.675;12;8;0.162; 0.72;0.175;-0.013; 0.00%; 0.01; 2.0;1;2;HR,2B
+Ildemaro Vargas;/players/v/vargail01.shtml;3B;4;0;1;0;0;0;4;.267;.306;.400;.706;17;11;-0.136; 1.22;0.047;-0.183;-0.00%; 0.02; -1.6;0;2;CS,GDP
+Dominic Smith;/players/s/smithdo02.shtml;1B;2;0;1;0;1;0;3;.266;.338;.350;.688;13;6;0.028; 1.64;0.073;-0.045;0%; 0.03; 0.2;7;0;2B
+Alex Call;/players/c/callal02.shtml;CF;3;0;1;0;0;0;3;.211;.303;.321;.625;13;9;-0.111; 1.82;0.017;-0.128;-0.00%; 0.03; -1.0;6;0;
+MacKenzie Gore;/players/g/gorema01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Andrés Machado;/players/m/machaan02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Rico Garcia;/players/g/garciri01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Cory Abbott;/players/a/abbotco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Luis García (13, off Max Scherzer); Dominic Smith (13, off Max Scherzer).
+
+
+HR: Luis García (6, off Max Scherzer, 7th inn, 0 on, 0 outs to Deep CF).
+
+
+TB: Luis García 7; Dominic Smith 2; Jeimer Candelario; Alex Call; Ildemaro Vargas; Keibert Ruiz.
+
+
+GIDP: Ildemaro Vargas (7).
+
+
+RBI: Luis García (42).
+
+
+Team LOB: 6.
+With RISP: 0 for 4.
+
+Pitching home
+Max Scherzer;/players/s/scherma01.shtml; W (9-4); 7 ;6;1;1;2;7;1;4.01;28;103;69;39;12;18;6;13;8;0;66;;;0.319; 1.15; 0.06%; 0.38; 2.5
+Adam Ottavino;/players/o/ottavad01.shtml;Adam Ottavino; 1 ;1;0;0;0;0;0;3.40;3;6;5;4;0;1;2;1;1;0;;0;0;0.023; 0.30; 0.01%; 0.10; 0.5
+Brooks Raley;/players/r/raleybr01.shtml;Brooks Raley; 1 ;1;0;0;0;1;0;2.43;3;16;12;9;1;2;2;0;0;0;;0;0;0.014; 0.33; 0.00%; 0.11; 0.5
+
+Pitching away
+MacKenzie Gore;/players/g/gorema01.shtml; L (6-8); 5 ;5;3;3;4;2;1;4.42;23;95;57;37;6;14;6;11;3;0;43;;;-0.088; 1.24;-0.00%; 0.02; -0.5
+Andrés Machado;/players/m/machaan02.shtml;Andrés Machado; 1 ;0;0;0;0;1;0;7.58;3;11;8;4;1;3;1;1;0;0;;0;0;0.017; 0.22; 0.00%; 0.00; 0.5
+Rico Garcia;/players/g/garciri01.shtml;Rico Garcia; 1 ;2;2;2;0;2;1;9.26;5;26;16;7;2;7;0;3;1;0;;0;0;-0.076; 0.28;-0.00%; 0.01; -1.5
+Cory Abbott;/players/a/abbotco01.shtml;Cory Abbott; 1 ;1;0;0;1;1;0;5.64;5;22;15;10;2;3;1;2;1;0;;0;0;0.003; 0.06; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Adam Hamari, 1B - Nick Mahrley, 2B - Vic Carapazza, 3B - Emil Jimenez, LF - (none), RF - (none).
+Time of Game: 2:37.
+Attendance: 25,385.
+Field Condition: Unknown.
+Start Time Weather: 87° F, Wind 7mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Nationals
+1;CJ Abrams;/players/a/abramcj01.shtml;SS
+2;Lane Thomas;/players/t/thomala02.shtml;RF
+3;Jeimer Candelario;/players/c/candeje01.shtml;DH
+4;Keibert Ruiz;/players/r/ruizke01.shtml;C
+5;Corey Dickerson;/players/d/dickeco01.shtml;LF
+6;Luis García;/players/g/garcilu04.shtml;2B
+7;Ildemaro Vargas;/players/v/vargail01.shtml;3B
+8;Dominic Smith;/players/s/smithdo02.shtml;1B
+9;Alex Call;/players/c/callal02.shtml;CF
+; MacKenzie Gore;/players/g/gorema01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Pete Alonso;/players/a/alonspe01.shtml;1B
+4;Tommy Pham;/players/p/phamth01.shtml;LF
+5;Jeff McNeil;/players/m/mcneije01.shtml;2B
+6;Mark Canha;/players/c/canhama01.shtml;RF
+7;Mark Vientos;/players/v/vientma01.shtml;DH
+8;Brett Baty;/players/b/batybr01.shtml;3B
+9;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+; Max Scherzer;/players/s/scherma01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b5;0-0;2;12-;4,(2-1) BBCX;RRR;NYM;Pete Alonso;MacKenzie Gore;31%;87%;Home Run (Fly Ball to Front of Home); Baty Scores; Alvarez Scores
+b7;3-1;2;1--;7,(2-2) 1CCF>FB.1B>X;RR;NYM;Pete Alonso;Rico Garcia;9%;97%;Home Run (Fly Ball to Deep CF-RF); Lindor Scores
+t2;0-0;1;1--;3,(1-1) BFX;;WSN;Luis García;Max Scherzer;-9%;41%;Double to RF (Line Drive); Ruiz to 3B
+t2;0-0;1;-23;4,(2-1) BBFX;O;WSN;Ildemaro Vargas;Max Scherzer;8%;49%;Flyball: CF
+t7;0-3;0;---;2,(1-0) BX;R;WSN;Luis García;Max Scherzer;-8%;82%;Home Run (Fly Ball to Deep CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Nationals Batting, Tied 0-0, Mets' Max Scherzer facing 1-2-3 
+t1;0-0;0;---;6,(2-2) CCBBFS;O;WSN;CJ Abrams;Max Scherzer;2%;52%;Strikeout Swinging
+t1;0-0;1;---;6,(2-2) FSFBBC;O;WSN;Lane Thomas;Max Scherzer;2%;54%;Strikeout Looking
+t1;0-0;2;---;6,(2-2) FCBBFX;O;WSN;Jeimer Candelario;Max Scherzer;1%;55%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Nationals' MacKenzie Gore facing 1-2-3 
+b1;0-0;0;---;5,(1-2) BCFFX;;NYM;Brandon Nimmo;MacKenzie Gore;4%;58%;Single to CF (Ground Ball)
+b1;0-0;0;1--;4,(1-2) BFFX;OO;NYM;Francisco Lindor;MacKenzie Gore;-7%;51%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b1;0-0;2;---;6,(2-2) BFBC.FX;O;NYM;Pete Alonso;MacKenzie Gore;-1%;50%;Popfly: 1B (Deep 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Nationals 0, Mets 0.
+Top of the 2nd, Nationals Batting, Tied 0-0, Mets' Max Scherzer facing 4-5-6 
+t2;0-0;0;---;1,(0-0) X;;WSN;Keibert Ruiz;Max Scherzer;-4%;46%;Single to RF (Line Drive to Short RF Line)
+t2;0-0;0;1--;4,(0-2) CCFS;O;WSN;Corey Dickerson;Max Scherzer;4%;50%;Strikeout Swinging
+t2;0-0;1;1--;3,(1-1) BFX;;WSN;Luis García;Max Scherzer;-9%;41%;Double to RF (Line Drive); Ruiz to 3B
+t2;0-0;1;-23;4,(2-1) BBFX;O;WSN;Ildemaro Vargas;Max Scherzer;8%;49%;Flyball: CF
+t2;0-0;2;-23;4,(3-0) BBBB;;WSN;Dominic Smith;Max Scherzer;-1%;47%;Walk
+t2;0-0;2;123;5,(2-2) BCC.*BX;O;WSN;Alex Call;Max Scherzer;8%;55%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Nationals 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Nationals' MacKenzie Gore facing 4-5-6 
+b2;0-0;0;---;3,(1-1) BCX;O;NYM;Tommy Pham;MacKenzie Gore;-2%;53%;Flyball: CF (Deep CF)
+b2;0-0;1;---;1,(0-0) X;;NYM;Jeff McNeil;MacKenzie Gore;3%;55%;Single to 2B (Ground Ball to 2B-1B)
+b2;0-0;1;1--;6,(3-2) BBBCC.1B;;NYM;Mark Canha;MacKenzie Gore;4%;59%;Walk; McNeil to 2B
+b2;0-0;1;12-;3,(0-2) *SSS;O;NYM;Mark Vientos;MacKenzie Gore;-5%;54%;Strikeout Swinging
+b2;0-0;2;12-;4,(1-2) SCB*S;O;NYM;Brett Baty;MacKenzie Gore;-4%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Nationals 0, Mets 0.
+Top of the 3rd, Nationals Batting, Tied 0-0, Mets' Max Scherzer facing 1-2-3 
+t3;0-0;0;---;1,(0-0) X;O;WSN;CJ Abrams;Max Scherzer;3%;53%;Popfly: SS (Deep SS)
+t3;0-0;1;---;3,(0-2) CSS;O;WSN;Lane Thomas;Max Scherzer;2%;54%;Strikeout Swinging
+t3;0-0;2;---;6,(3-2) FBBSBC;O;WSN;Jeimer Candelario;Max Scherzer;1%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 0, Mets 0.
+Bottom of the 3rd, Mets Batting, Tied 0-0, Nationals' MacKenzie Gore facing 9-1-2 
+b3;0-0;0;---;4,(3-0) BBBB;;NYM;Francisco Alvarez;MacKenzie Gore;4%;59%;Walk
+b3;0-0;0;1--;10,(2-2) CSFFBF*BFFX;O;NYM;Brandon Nimmo;MacKenzie Gore;-4%;56%;Lineout: LF (Deep LF)
+b3;0-0;1;1--;5,(3-1) BBBCX;O;NYM;Francisco Lindor;MacKenzie Gore;-3%;53%;Flyball: LF (Deep LF-CF)
+b3;0-0;2;1--;1,(0-0) X;O;NYM;Pete Alonso;MacKenzie Gore;-3%;50%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Nationals 0, Mets 0.
+Top of the 4th, Nationals Batting, Tied 0-0, Mets' Max Scherzer facing 4-5-6 
+t4;0-0;0;---;4,(0-2) CCFX;O;WSN;Keibert Ruiz;Max Scherzer;3%;53%;Lineout: RF (Deep RF)
+t4;0-0;1;---;3,(0-2) FF.S;O;WSN;Corey Dickerson;Max Scherzer;2%;55%;Strikeout Swinging
+t4;0-0;2;---;2,(1-0) BX;O;WSN;Luis García;Max Scherzer;1%;56%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 0, Mets 0.
+Bottom of the 4th, Mets Batting, Tied 0-0, Nationals' MacKenzie Gore facing 4-5-6 
+b4;0-0;0;---;1,(0-0) X;O;NYM;Tommy Pham;MacKenzie Gore;-3%;53%;Flyball: CF (Deep CF)
+b4;0-0;1;---;3,(1-1) CBF;;NYM;Jeff McNeil;MacKenzie Gore;0%;53%;E2 on Foul Ball
+b4;0-0;1;---;4,(1-2) CBF.X;;NYM;Jeff McNeil;MacKenzie Gore;3%;56%;Single to CF (Fly Ball)
+b4;0-0;1;1--;4,(1-2) *BFFX;O;NYM;Mark Canha;MacKenzie Gore;-3%;53%;Lineout: CF
+b4;0-0;2;1--;3,(1-1) BFX;O;NYM;Mark Vientos;MacKenzie Gore;-3%;50%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 1 error, 1 LOB. Nationals 0, Mets 0.
+Top of the 5th, Nationals Batting, Tied 0-0, Mets' Max Scherzer facing 7-8-9 
+t5;0-0;0;---;2,(1-0) BX;;WSN;Ildemaro Vargas;Max Scherzer;-5%;45%;Single to RF (Line Drive to CF-RF)
+t5;0-0;0;1--;5,(2-2) SFBB+1X;O;WSN;Dominic Smith;Max Scherzer;4%;50%;Lineout: RF (Short RF Line)
+t5;0-0;1;1--;3,(1-1) LB>B;O;WSN;Alex Call;Max Scherzer;5%;55%;Vargas Caught Stealing 2B (C-2B)
+;;;;;;;;;Tag play Challenged by WSN manager (Dave Martinez): Original call upheld upon review.
+t5;0-0;2;---;5,(2-2) LB>B.F.X;;WSN;Alex Call;Max Scherzer;-2%;54%;Single to 3B (Ground Ball to SS-3B Hole)
+t5;0-0;2;1--;1,(0-0) X;O;WSN;CJ Abrams;Max Scherzer;3%;57%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Nationals 0, Mets 0.
+Bottom of the 5th, Mets Batting, Tied 0-0, Nationals' MacKenzie Gore facing 8-9-1 
+b5;0-0;0;---;6,(3-2) BBBCFB;;NYM;Brett Baty;MacKenzie Gore;5%;61%;Walk
+b5;0-0;0;1--;4,(3-0) 1BBBB;;NYM;Francisco Alvarez;MacKenzie Gore;7%;68%;Walk; Baty to 2B
+b5;0-0;0;12-;7,(3-2) BCFF*B*BX;O;NYM;Brandon Nimmo;MacKenzie Gore;-7%;61%;Flyball: LF (Short LF)
+b5;0-0;1;12-;3,(1-1) BCX;O;NYM;Francisco Lindor;MacKenzie Gore;-6%;56%;Flyball: LF (Deep LF-CF)
+b5;0-0;2;12-;4,(2-1) BBCX;RRR;NYM;Pete Alonso;MacKenzie Gore;31%;87%;Home Run (Fly Ball to Front of Home); Baty Scores; Alvarez Scores
+b5;3-0;2;---;5,(1-2) CBFFX;;NYM;Tommy Pham;MacKenzie Gore;0%;88%;Single to RF (Line Drive to Deep 2B-1B)
+b5;3-0;2;1--;2,(1-0) BX;O;NYM;Jeff McNeil;MacKenzie Gore;-1%;87%;Groundout: P-1B (Front of Home)
+;;;;;;;;;3 runs, 2 hits, 0 errors, 1 LOB. Nationals 0, Mets 3.
+Top of the 6th, Nationals Batting, Behind 0-3, Mets' Max Scherzer facing 2-3-4 
+t6;0-3;0;---;4,(1-2) BSS*S;O;WSN;Lane Thomas;Max Scherzer;2%;89%;Strikeout Swinging; Thomas out at 1B/C-1B
+t6;0-3;1;---;6,(3-2) CCBBB*B;;WSN;Jeimer Candelario;Max Scherzer;-3%;86%;Walk
+t6;0-3;1;1--;1,(0-0) 1X;O;WSN;Keibert Ruiz;Max Scherzer;3%;89%;Flyball: RF (RF Line)
+t6;0-3;2;1--;2,(0-1) FX;O;WSN;Corey Dickerson;Max Scherzer;2%;91%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Nationals 0, Mets 3.
+Bottom of the 6th, Mets Batting, Ahead 3-0, Nationals' Andrés Machado facing 6-7-8 
+;;;;;;;;;Andrés Machado replaces MacKenzie Gore pitching
+b6;3-0;0;---;2,(0-1) .CX;O;NYM;Mark Canha;Andrés Machado;-1%;91%;Groundout: SS-1B
+b6;3-0;1;---;4,(1-2) CBC.X;O;NYM;Mark Vientos;Andrés Machado;-1%;90%;Flyball: CF (CF-RF)
+b6;3-0;2;---;5,(2-2) BFFBS;O;NYM;Brett Baty;Andrés Machado;0%;90%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 0, Mets 3.
+Top of the 7th, Nationals Batting, Behind 0-3, Mets' Max Scherzer facing 6-7-8 
+t7;0-3;0;---;2,(1-0) BX;R;WSN;Luis García;Max Scherzer;-8%;82%;Home Run (Fly Ball to Deep CF)
+t7;1-3;0;---;7,(2-2) .CBCBFFX;O;WSN;Ildemaro Vargas;Max Scherzer;3%;85%;Groundout: 2B-1B
+t7;1-3;1;---;4,(1-2) CBFX;;WSN;Dominic Smith;Max Scherzer;-6%;80%;Double to CF (Line Drive to Deep CF-RF)
+t7;1-3;1;-2-;3,(0-2) FC.X;O;WSN;Alex Call;Max Scherzer;5%;85%;Lineout: CF (CF-RF)
+t7;1-3;2;-2-;3,(1-1) S*BX;O;WSN;CJ Abrams;Max Scherzer;4%;89%;Foul Popfly: 3B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Nationals 1, Mets 3.
+Bottom of the 7th, Mets Batting, Ahead 3-1, Nationals' Rico Garcia facing 9-1-2 
+;;;;;;;;;Rico Garcia replaces Andrés Machado pitching
+b7;3-1;0;---;4,(1-2) .CBFS;O;NYM;Francisco Alvarez;Rico Garcia;-1%;88%;Strikeout Swinging
+b7;3-1;1;---;6,(3-2) BBCCBX;O;NYM;Brandon Nimmo;Rico Garcia;-1%;87%;Flyball: CF (Deep LF-CF)
+b7;3-1;2;---;4,(2-1) BBFX;;NYM;Francisco Lindor;Rico Garcia;1%;88%;Single to CF (Line Drive to LF-CF)
+b7;3-1;2;1--;7,(2-2) 1CCF>FB.1B>X;RR;NYM;Pete Alonso;Rico Garcia;9%;97%;Home Run (Fly Ball to Deep CF-RF); Lindor Scores
+b7;5-1;2;---;5,(2-2) BCBCS;O;NYM;Tommy Pham;Rico Garcia;0%;97%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Nationals 1, Mets 5.
+Top of the 8th, Nationals Batting, Behind 1-5, Mets' Adam Ottavino facing 2-3-4 
+;;;;;;;;;Adam Ottavino replaces Max Scherzer pitching
+t8;1-5;0;---;3,(1-1) .FBX;O;WSN;Lane Thomas;Adam Ottavino;1%;98%;Groundout: 3B-1B (SS-3B Hole)
+t8;1-5;1;---;1,(0-0) X;O;WSN;Jeimer Candelario;Adam Ottavino;1%;99%;Single to SS (Line Drive to Short CF); Candelario out at 2B/CF-2B
+t8;1-5;2;---;2,(0-1) CX;O;WSN;Keibert Ruiz;Adam Ottavino;0%;99%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Nationals 1, Mets 5.
+Bottom of the 8th, Mets Batting, Ahead 5-1, Nationals' Cory Abbott facing 5-6-7 
+;;;;;;;;;Cory Abbott replaces Rico Garcia pitching
+b8;5-1;0;---;4,(0-2) .SFFX;;NYM;Jeff McNeil;Cory Abbott;0%;99%;Single to RF (Line Drive to CF-RF)
+b8;5-1;0;1--;4,(1-2) F.BCX;O;NYM;Mark Canha;Cory Abbott;0%;99%;Flyball: CF (Short CF)
+b8;5-1;1;1--;5,(3-1) B*BBSB;;NYM;Mark Vientos;Cory Abbott;0%;99%;Walk; McNeil to 2B
+b8;5-1;1;12-;8,(2-2) CFBFBFFC;O;NYM;Brett Baty;Cory Abbott;0%;99%;Strikeout Looking
+b8;5-1;2;12-;1,(0-0) X;O;NYM;Francisco Alvarez;Cory Abbott;0%;99%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Nationals 1, Mets 5.
+Top of the 9th, Nationals Batting, Behind 1-5, Mets' Brooks Raley facing 5-6-7 
+;;;;;;;;;Brooks Raley replaces Adam Ottavino pitchingStone Garrett pinch hits for Corey Dickerson (LF) batting 5th
+t9;1-5;0;---;7,(2-2) ..FF.BFBFS;O;WSN;Stone Garrett;Brooks Raley;1%;99%;Strikeout Swinging
+t9;1-5;1;---;5,(1-2) CFFBX;;WSN;Luis García;Brooks Raley;-1%;99%;Single to RF (Ground Ball thru 2B-1B)
+t9;1-5;1;1--;4,(1-2) CFBX;OO;WSN;Ildemaro Vargas;Brooks Raley;1%;100%;Ground Ball Double Play: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Nationals 1, Mets 5.

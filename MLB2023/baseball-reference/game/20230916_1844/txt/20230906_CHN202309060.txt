@@ -1,0 +1,261 @@
+
+Scorebox Meta
+20230906
+1:20 p.m. Local
+27443
+Wrigley Field
+138
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/SFG-2023.png;/teams/SFG/2023.shtml;0;0;0;0;0;0;2;0;0;2;10;0
+https://cdn.ssref.net/req/202309121/tlogo/br/CHC-2023.png;/teams/CHC/2023.shtml;3;0;2;1;0;1;1;0;X;8;11;0
+
+Batting home
+Christopher Morel;/players/m/morelch01.shtml;DH;4;0;1;1;0;0;4;.248;.313;.486;.798;8;7;-0.029; 0.34;0.004;-0.032;-0.02%; 0.35; -0.0;;;
+Alexander Canario;/players/c/canaral01.shtml;PH-DH-DH;1;0;0;0;0;1;1;.000;.000;.000;.000;6;3;0.000; 0.00;0.000;0.000;0%; 0.00; -0.1;;;
+Nico Hoerner;/players/h/hoernni01.shtml;2B;4;1;1;0;0;0;4;.279;.339;.389;.728;12;9;0.009; 0.31;0.024;-0.016; 0.01%; 0.32; -0.5;3;3;
+Ian Happ;/players/h/happia01.shtml;LF;4;2;2;0;0;1;4;.247;.363;.426;.789;16;10;0.054; 0.40;0.056;-0.002; 0.03%; 0.41; 0.5;1;0;2B
+Cody Bellinger;/players/b/bellico01.shtml;CF-1B;4;2;2;2;0;2;4;.321;.365;.555;.920;14;11;0.015; 0.66;0.061;-0.046; 0.01%; 0.69; 1.2;7;0;HR,2B
+Dansby Swanson;/players/s/swansda01.shtml;SS;2;1;0;0;2;0;4;.245;.332;.416;.747;16;6;0.032; 0.53;0.035;-0.002; 0.02%; 0.55; 0.2;0;6;
+Seiya Suzuki;/players/s/suzukse01.shtml;RF;4;0;2;3;0;1;4;.275;.346;.466;.811;15;11;0.204; 0.86;0.220;-0.017; 0.13%; 0.90; 2.0;5;0;2B
+Nick Madrigal;/players/m/madrini01.shtml;3B;4;0;1;1;0;0;4;.269;.319;.360;.679;18;14;0.020; 0.35;0.042;-0.022; 0.01%; 0.36; 0.4;0;3;
+Patrick Wisdom;/players/w/wisdopa01.shtml;1B;1;0;0;0;0;0;1;.198;.286;.496;.782;5;3;-0.013; 0.48;0.000;-0.013;-0.01%; 0.50; -0.3;4;0;
+Mike Tauchman;/players/t/tauchmi01.shtml;PH-CF;3;1;1;0;0;0;3;.259;.358;.385;.743;12;7;-0.009; 0.17;0.004;-0.013;-0.01%; 0.18; -0.2;1;0;2B
+Miguel Amaya;/players/a/amayami01.shtml;C;4;1;1;1;0;2;4;.221;.350;.389;.740;16;10;0.013; 0.14;0.023;-0.010; 0.01%; 0.15; 0.4;6;1;HR
+Jordan Wicks;/players/w/wicksjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Daniel Palencia;/players/p/palenda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Luke Little;/players/l/littllu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Seiya Suzuki (27, off Alex Wood); Ian Happ (30, off Alex Wood); Cody Bellinger (24, off Alex Wood); Mike Tauchman (15, off Sean Manaea).
+
+
+HR: Miguel Amaya (5, off John Brebbia, 4th inn, 0 on, 0 outs to Deep LF-CF); Cody Bellinger (24, off Sean Manaea, 7th inn, 0 on, 0 outs to Deep RF).
+
+
+TB: Cody Bellinger 6; Miguel Amaya 4; Seiya Suzuki 3; Ian Happ 3; Mike Tauchman 2; Nico Hoerner; Christopher Morel; Nick Madrigal.
+
+
+RBI: Seiya Suzuki 3 (58); Cody Bellinger 2 (86); Nick Madrigal (27); Miguel Amaya (18); Christopher Morel (64).
+
+
+2-out RBI: Seiya Suzuki 3; Nick Madrigal.
+
+
+Team LOB: 5.
+With RISP: 4 for 9.
+
+Batting away
+Austin Slater;/players/s/slateau01.shtml;CF;4;0;0;0;0;1;4;.248;.328;.379;.707;17;12;-0.099; 0.64;0.000;-0.099;-0.06%; 0.59; -1.6;3;0;
+Thairo Estrada;/players/e/estrath01.shtml;2B;4;0;2;0;0;0;4;.273;.320;.412;.732;25;18;-0.011; 0.52;0.038;-0.048;-0.01%; 0.48; -0.1;1;3;CS
+Wilmer Flores;/players/f/florewi01.shtml;DH;4;0;0;0;0;1;4;.284;.351;.529;.879;13;9;-0.057; 0.57;0.000;-0.057;-0.03%; 0.53; -1.1;;;
+Mitch Haniger;/players/h/hanigmi01.shtml;RF;4;0;1;0;0;1;4;.214;.265;.357;.622;14;9;-0.016; 0.39;0.021;-0.037;-0.01%; 0.37; -0.5;4;0;2B,GDP
+J.D. Davis;/players/d/davisjd01.shtml;1B;4;0;1;0;0;1;4;.249;.324;.410;.733;8;6;0.010; 0.36;0.035;-0.025; 0.01%; 0.34; -0.5;6;0;2B
+Luis Matos;/players/m/matoslu02.shtml;LF;4;1;2;0;0;0;4;.255;.315;.359;.674;11;7;-0.039; 0.43;0.005;-0.044;-0.02%; 0.41; -0.1;0;0;
+Casey Schmitt;/players/s/schmica01.shtml;3B;4;1;2;1;0;0;4;.207;.259;.306;.564;8;6;-0.006; 0.41;0.026;-0.032;-0.00%; 0.38; 0.8;1;1;2B
+Paul DeJong;/players/d/dejonpa01.shtml;SS;4;0;2;0;0;1;4;.205;.257;.355;.612;12;10;0.052; 0.44;0.067;-0.015; 0.03%; 0.41; 0.5;2;2;2B
+Joey Bart;/players/b/bartjo01.shtml;C;2;0;0;1;0;0;3;.225;.276;.288;.563;9;6;-0.040; 0.74;0.000;-0.040;-0.02%; 0.69; -0.4;7;0;SF
+Alex Wood;/players/w/woodal02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Walker;/players/w/walkery01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+John Brebbia;/players/b/brebbjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Sean Manaea;/players/m/manaese01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Camilo Doval;/players/d/dovalca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: J.D. Davis (20, off Jordan Wicks); Paul DeJong (12, off Jordan Wicks); Mitch Haniger (10, off Jordan Wicks); Casey Schmitt (15, off Jordan Wicks).
+
+
+SF: Joey Bart (1, off Jordan Wicks).
+
+
+TB: Paul DeJong 3; Casey Schmitt 3; Luis Matos 2; J.D. Davis 2; Mitch Haniger 2; Thairo Estrada 2.
+
+
+GIDP: Mitch Haniger (3).
+
+
+RBI: Joey Bart (5); Casey Schmitt (28).
+
+
+Team LOB: 6.
+With RISP: 1 for 8.
+
+Pitching home
+Jordan Wicks;/players/w/wicksjo01.shtml; W (3-0); 6.2;9;2;2;0;1;0;2.16;27;87;63;44;3;16;14;12;10;0;49;;;0.188; 0.61; 0.12%; 0.64; 1.6
+Daniel Palencia;/players/p/palenda01.shtml;Daniel Palencia; 1.1;0;0;0;0;2;0;3.32;4;16;11;4;3;4;0;2;1;0;;1;0;0.015; 0.13; 0.01%; 0.14; 0.8
+Luke Little;/players/l/littllu01.shtml;Luke Little; 1 ;1;0;0;0;2;0;0.00;4;14;9;4;3;2;0;2;1;0;;0;0;0.003; 0.05; 0.00%; 0.05; 0.5
+
+Pitching away
+Alex Wood;/players/w/woodal02.shtml; L (5-5); 2.1;5;5;5;1;2;0;4.77;13;52;33;23;4;6;1;9;5;0;28;;;-0.254; 0.93;-0.14%; 0.87; -3.1
+Ryan Walker;/players/w/walkery01.shtml;Ryan Walker; 0.2;1;0;0;1;1;0;2.06;4;21;14;7;3;4;0;2;1;0;;1;1;-0.019; 0.55;-0.01%; 0.51; -0.3
+John Brebbia;/players/b/brebbjo01.shtml;John Brebbia; 1 ;1;1;1;0;1;1;3.34;4;13;8;4;2;2;1;2;0;0;;0;0;-0.016; 0.11;-0.01%; 0.10; -0.5
+Sean Manaea;/players/m/manaese01.shtml;Sean Manaea; 3 ;4;2;2;0;1;1;5.00;13;34;26;20;3;3;4;8;4;0;;0;0;-0.006; 0.05;-0.00%; 0.05; -0.4
+Camilo Doval;/players/d/dovalca01.shtml;Camilo Doval; 1 ;0;0;0;0;2;0;2.93;3;18;10;4;2;4;1;0;0;0;;0;0;0.001; 0.01; 0.00%; 0.01; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Carlos Torres, 1B - Cory Blaser, 2B - Ron Kulpa, 3B - Jansen Visconti, LF - (none), RF - (none).
+Time of Game: 2:18.
+Attendance: 27,443.
+Field Condition: Unknown.
+Start Time Weather: 80° F, Wind 15mph out to Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Giants
+1;Austin Slater;/players/s/slateau01.shtml;CF
+2;Thairo Estrada;/players/e/estrath01.shtml;2B
+3;Wilmer Flores;/players/f/florewi01.shtml;DH
+4;Mitch Haniger;/players/h/hanigmi01.shtml;RF
+5;J.D. Davis;/players/d/davisjd01.shtml;1B
+6;Luis Matos;/players/m/matoslu02.shtml;LF
+7;Casey Schmitt;/players/s/schmica01.shtml;3B
+8;Paul DeJong;/players/d/dejonpa01.shtml;SS
+9;Joey Bart;/players/b/bartjo01.shtml;C
+; Alex Wood;/players/w/woodal02.shtml;P
+Cubs
+1;Christopher Morel;/players/m/morelch01.shtml;DH
+2;Nico Hoerner;/players/h/hoernni01.shtml;2B
+3;Ian Happ;/players/h/happia01.shtml;LF
+4;Cody Bellinger;/players/b/bellico01.shtml;CF
+5;Dansby Swanson;/players/s/swansda01.shtml;SS
+6;Seiya Suzuki;/players/s/suzukse01.shtml;RF
+7;Nick Madrigal;/players/m/madrini01.shtml;3B
+8;Patrick Wisdom;/players/w/wisdopa01.shtml;1B
+9;Miguel Amaya;/players/a/amayami01.shtml;C
+; Jordan Wicks;/players/w/wicksjo01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-0;2;123;3,(1-1) CBX;RRR;CHC;Seiya Suzuki;Alex Wood;22%;79%;Double to RF (Line Drive to Deep CF-RF); Hoerner Scores; Happ Scores; Swanson Scores
+t3;0-3;1;--3;6,(1-2) FFF*BFX;O;SFG;Austin Slater;Jordan Wicks;6%;81%;Fielder's Choice ; DeJong out at Hm/P-C; Slater to 1B
+t3;0-3;0;---;3,(1-1) CBX;;SFG;Paul DeJong;Jordan Wicks;-5%;73%;Ground-rule Double (Line Drive to Deep LF Line)
+b3;3-0;1;-2-;3,(0-2) CTX;R;CHC;Cody Bellinger;Alex Wood;5%;90%;Double to RF (Line Drive to RF Line); Happ Scores
+b1;0-0;1;12-;5,(2-2) BFS*BS;O;CHC;Cody Bellinger;Alex Wood;-4%;54%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Giants Batting, Tied 0-0, Cubs' Jordan Wicks facing 1-2-3 
+t1;0-0;0;---;6,(3-2) BBCBCX;O;SFG;Austin Slater;Jordan Wicks;2%;52%;Groundout: SS-1B
+t1;0-0;1;---;9,(3-2) BBBCFFFFX;;SFG;Thairo Estrada;Jordan Wicks;-2%;50%;Single to RF (Line Drive to Deep CF-RF)
+t1;0-0;1;1--;3,(1-1) CBX;O;SFG;Wilmer Flores;Jordan Wicks;3%;53%;Lineout: LF
+t1;0-0;2;1--;1,(0-0) 1>B;O;SFG;Mitch Haniger;Jordan Wicks;2%;55%;Estrada Caught Stealing 2B (C-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Giants 0, Cubs 0.
+Bottom of the 1st, Cubs Batting, Tied 0-0, Giants' Alex Wood facing 1-2-3 
+b1;0-0;0;---;4,(1-2) FSBX;O;CHC;Christopher Morel;Alex Wood;-2%;53%;Groundout: SS-1B
+b1;0-0;1;---;4,(1-2) CFBX;;CHC;Nico Hoerner;Alex Wood;2%;55%;Single to LF (Line Drive)
+b1;0-0;1;1--;2,(1-0) BX;;CHC;Ian Happ;Alex Wood;3%;59%;Single to LF (Line Drive); Hoerner to 2B
+b1;0-0;1;12-;5,(2-2) BFS*BS;O;CHC;Cody Bellinger;Alex Wood;-4%;54%;Strikeout Swinging
+b1;0-0;2;12-;4,(3-0) BBBB;;CHC;Dansby Swanson;Alex Wood;3%;57%;Walk; Hoerner to 3B; Happ to 2B
+b1;0-0;2;123;3,(1-1) CBX;RRR;CHC;Seiya Suzuki;Alex Wood;22%;79%;Double to RF (Line Drive to Deep CF-RF); Hoerner Scores; Happ Scores; Swanson Scores
+b1;3-0;2;-2-;7,(2-2) CFFFBBX;O;CHC;Nick Madrigal;Alex Wood;-2%;77%;Flyball: CF
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Giants 0, Cubs 3.
+Top of the 2nd, Giants Batting, Behind 0-3, Cubs' Jordan Wicks facing 4-5-6 
+t2;0-3;0;---;4,(1-2) CF.BX;O;SFG;Mitch Haniger;Jordan Wicks;2%;79%;Groundout: SS-1B (SS-3B Hole)
+t2;0-3;1;---;1,(0-0) X;;SFG;J.D. Davis;Jordan Wicks;-4%;76%;Double to LF (Ground Ball)
+t2;0-3;1;-2-;1,(0-0) X;O;SFG;Luis Matos;Jordan Wicks;3%;78%;Flyball: RF (RF Line); Davis to 3B
+t2;0-3;2;--3;4,(2-1) FBBX;O;SFG;Casey Schmitt;Jordan Wicks;3%;82%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Cubs 3.
+Bottom of the 2nd, Cubs Batting, Ahead 3-0, Giants' Alex Wood facing 8-9-1 
+b2;3-0;0;---;5,(2-2) BBSF.X;O;CHC;Patrick Wisdom;Alex Wood;-1%;80%;Flyball: CF (Deep CF)
+b2;3-0;1;---;5,(2-2) BTFBT;O;CHC;Miguel Amaya;Alex Wood;-1%;79%;Strikeout Swinging
+b2;3-0;2;---;1,(0-0) X;O;CHC;Christopher Morel;Alex Wood;-1%;79%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Cubs 3.
+Top of the 3rd, Giants Batting, Behind 0-3, Cubs' Jordan Wicks facing 8-9-1 
+t3;0-3;0;---;3,(1-1) CBX;;SFG;Paul DeJong;Jordan Wicks;-5%;73%;Ground-rule Double (Line Drive to Deep LF Line)
+t3;0-3;0;-2-;7,(3-2) CBCBFBX;O;SFG;Joey Bart;Jordan Wicks;2%;75%;Flyball: RF (Deep RF); DeJong to 3B
+t3;0-3;1;--3;6,(1-2) FFF*BFX;O;SFG;Austin Slater;Jordan Wicks;6%;81%;Fielder's Choice ; DeJong out at Hm/P-C; Slater to 1B
+t3;0-3;2;1--;4,(0-2) FCFX;O;SFG;Thairo Estrada;Jordan Wicks;2%;83%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Cubs 3.
+Bottom of the 3rd, Cubs Batting, Ahead 3-0, Giants' Alex Wood facing 2-3-4 
+b3;3-0;0;---;3,(0-2) FF.X;O;CHC;Nico Hoerner;Alex Wood;-1%;82%;Foul Popfly: 1B (1B into Foul Terr.)
+b3;3-0;1;---;6,(3-2) CBBBCX;;CHC;Ian Happ;Alex Wood;2%;84%;Double to RF (Line Drive to RF Line)
+b3;3-0;1;-2-;3,(0-2) CTX;R;CHC;Cody Bellinger;Alex Wood;5%;90%;Double to RF (Line Drive to RF Line); Happ Scores
+;;;;;;;;;Ryan Walker replaces Alex Wood pitching
+b3;4-0;1;-2-;5,(3-1) .BBBC.B;;CHC;Dansby Swanson;Ryan Walker;1%;90%;Walk
+b3;4-0;1;12-;7,(1-2) CCFFFBS;O;CHC;Seiya Suzuki;Ryan Walker;-2%;89%;Strikeout Swinging
+b3;4-0;2;12-;6,(1-2) BCS.FFX;R;CHC;Nick Madrigal;Ryan Walker;4%;93%;Single to CF (Line Drive to Short CF-RF); Bellinger Scores; Swanson to 3B
+;;;;;;;;;Mike Tauchman pinch hits for Patrick Wisdom (1B) batting 8th
+b3;5-0;2;1-3;3,(1-1) .SBX;O;CHC;Mike Tauchman;Ryan Walker;-1%;91%;Popfly: SS (Deep 2B)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Giants 0, Cubs 5.
+Top of the 4th, Giants Batting, Behind 0-5, Cubs' Jordan Wicks facing 3-4-5 
+;;;;;;;;;Cody Bellinger moves from CF to 1B Mike Tauchman moves from PH to CF 
+t4;0-5;0;---;4,(2-1) ..CBBX;O;SFG;Wilmer Flores;Jordan Wicks;1%;93%;Lineout: RF (RF Line)
+t4;0-5;1;---;3,(2-0) BBX;;SFG;Mitch Haniger;Jordan Wicks;-2%;91%;Double to LF (Line Drive to LF-CF)
+t4;0-5;1;-2-;1,(0-0) X;O;SFG;J.D. Davis;Jordan Wicks;2%;93%;Groundout: 3B-1B
+t4;0-5;2;-2-;2,(0-1) TX;O;SFG;Luis Matos;Jordan Wicks;2%;94%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Cubs 5.
+Bottom of the 4th, Cubs Batting, Ahead 5-0, Giants' John Brebbia facing 9-1-2 
+;;;;;;;;;John Brebbia replaces Ryan Walker pitching
+b4;5-0;0;---;3,(1-1) .SBX;R;CHC;Miguel Amaya;John Brebbia;2%;97%;Home Run (Fly Ball to Deep LF-CF)
+b4;6-0;0;---;1,(0-0) X;O;CHC;Christopher Morel;John Brebbia;0%;96%;Flyball: RF (Deep RF)
+b4;6-0;1;---;4,(2-1) CBBX;O;CHC;Nico Hoerner;John Brebbia;0%;96%;Groundout: 2B-1B
+b4;6-0;2;---;5,(2-2) BCFBS;O;CHC;Ian Happ;John Brebbia;0%;96%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Giants 0, Cubs 6.
+Top of the 5th, Giants Batting, Behind 0-6, Cubs' Jordan Wicks facing 7-8-9 
+t5;0-6;0;---;1,(0-0) X;;SFG;Casey Schmitt;Jordan Wicks;-1%;94%;Single to LF (Line Drive)
+t5;0-6;0;1--;4,(1-2) CS*BX;O;SFG;Paul DeJong;Jordan Wicks;1%;96%;Groundout: SS-2B/Forceout at 2B; DeJong to 1B
+t5;0-6;1;1--;1,(0-0) X;O;SFG;Joey Bart;Jordan Wicks;1%;97%;Groundout: 3B-1B (Weak 3B); DeJong to 2B
+t5;0-6;2;-2-;1,(0-0) X;O;SFG;Austin Slater;Jordan Wicks;1%;98%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Cubs 6.
+Bottom of the 5th, Cubs Batting, Ahead 6-0, Giants' Sean Manaea facing 4-5-6 
+;;;;;;;;;Sean Manaea replaces John Brebbia pitching
+b5;6-0;0;---;3,(0-2) .CSC;O;CHC;Cody Bellinger;Sean Manaea;0%;97%;Strikeout Looking
+b5;6-0;1;---;2,(1-0) BX;O;CHC;Dansby Swanson;Sean Manaea;0%;97%;Flyball: CF (Deep CF)
+b5;6-0;2;---;3,(1-1) CBX;;CHC;Seiya Suzuki;Sean Manaea;0%;97%;Single to RF (Line Drive to Deep CF-RF)
+b5;6-0;2;1--;2,(0-1) FX;O;CHC;Nick Madrigal;Sean Manaea;0%;97%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Madrigal to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 0, Cubs 6.
+Top of the 6th, Giants Batting, Behind 0-6, Cubs' Jordan Wicks facing 2-3-4 
+t6;0-6;0;---;6,(1-2) CC.BFFX;;SFG;Thairo Estrada;Jordan Wicks;-1%;96%;Single to RF (Line Drive)
+t6;0-6;0;1--;3,(0-2) CSS;O;SFG;Wilmer Flores;Jordan Wicks;1%;97%;Strikeout Swinging
+t6;0-6;1;1--;3,(1-1) CBX;OO;SFG;Mitch Haniger;Jordan Wicks;2%;98%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Giants 0, Cubs 6.
+Bottom of the 6th, Cubs Batting, Ahead 6-0, Giants' Sean Manaea facing 8-9-1 
+b6;6-0;0;---;4,(2-1) BSBX;;CHC;Mike Tauchman;Sean Manaea;0%;99%;Double to LF (Line Drive to Deep LF-CF)
+b6;6-0;0;-2-;1,(0-0) X;O;CHC;Miguel Amaya;Sean Manaea;0%;99%;Flyball: RF (Deep RF Line); Tauchman to 3B
+b6;6-0;1;--3;2,(0-1) SX;R;CHC;Christopher Morel;Sean Manaea;0%;99%;Single to LF (Line Drive); Tauchman Scores
+b6;7-0;1;1--;1,(0-0) X;O;CHC;Nico Hoerner;Sean Manaea;0%;99%;Flyball: RF (Deep RF)
+b6;7-0;2;1--;3,(0-2) FFX;O;CHC;Ian Happ;Sean Manaea;0%;99%;Groundout: SS-2B/Forceout at 2B; Happ to 1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Giants 0, Cubs 7.
+Top of the 7th, Giants Batting, Behind 0-7, Cubs' Jordan Wicks facing 5-6-7 
+t7;0-7;0;---;1,(0-0) X;O;SFG;J.D. Davis;Jordan Wicks;0%;99%;Groundout: SS-1B
+t7;0-7;1;---;3,(1-1) BFX;;SFG;Luis Matos;Jordan Wicks;0%;99%;Single to P (Ground Ball to 2B-1B)
+t7;0-7;1;1--;2,(0-1) CX;R;SFG;Casey Schmitt;Jordan Wicks;-1%;98%;Double to CF (Line Drive to Deep CF-RF); Matos Scores
+t7;1-7;1;-2-;2,(0-1) FX;;SFG;Paul DeJong;Jordan Wicks;-1%;97%;Single to LF (Line Drive to Deep LF); Schmitt to 3B
+t7;1-7;1;1-3;1,(0-0) X;RO;SFG;Joey Bart;Jordan Wicks;1%;98%;Lineout: CF/Sacrifice Fly (Deep CF); Schmitt Scores
+;;;;;;;;;Daniel Palencia replaces Jordan Wicks pitching
+t7;2-7;2;1--;4,(1-2) .CSBC;O;SFG;Austin Slater;Daniel Palencia;1%;98%;Strikeout Looking
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Giants 2, Cubs 7.
+Bottom of the 7th, Cubs Batting, Ahead 7-2, Giants' Sean Manaea facing 4-5-6 
+b7;7-2;0;---;3,(1-1) BFX;R;CHC;Cody Bellinger;Sean Manaea;1%;99%;Home Run (Fly Ball to Deep RF)
+b7;8-2;0;---;5,(1-2) FFBFX;O;CHC;Dansby Swanson;Sean Manaea;0%;99%;Groundout: 3B-1B
+b7;8-2;1;---;2,(1-0) BX;O;CHC;Seiya Suzuki;Sean Manaea;0%;99%;Groundout: P-2B-1B
+b7;8-2;2;---;3,(1-1) BFX;O;CHC;Nick Madrigal;Sean Manaea;0%;99%;Lineout: 3B (SS-3B Hole)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Giants 2, Cubs 8.
+Top of the 8th, Giants Batting, Behind 2-8, Cubs' Daniel Palencia facing 2-3-4 
+t8;2-8;0;---;6,(3-2) BTBCBX;O;SFG;Thairo Estrada;Daniel Palencia;0%;99%;Lineout: 1B (2B-1B)
+t8;2-8;1;---;3,(1-1) BFX;O;SFG;Wilmer Flores;Daniel Palencia;0%;100%;Flyball: RF (Deep CF-RF)
+t8;2-8;2;---;3,(0-2) CSS;O;SFG;Mitch Haniger;Daniel Palencia;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 2, Cubs 8.
+Bottom of the 8th, Cubs Batting, Ahead 8-2, Giants' Camilo Doval facing 8-9-1 
+;;;;;;;;;Camilo Doval replaces Sean Manaea pitching
+b8;8-2;0;---;5,(2-2) .BCFBX;O;CHC;Mike Tauchman;Camilo Doval;0%;100%;Groundout: P-1B (Front of Home)
+b8;8-2;1;---;7,(3-2) CBBBCFC;O;CHC;Miguel Amaya;Camilo Doval;0%;100%;Strikeout Looking
+;;;;;;;;;Alexander Canario pinch hits for Christopher Morel (DH) batting 1st
+b8;8-2;2;---;6,(3-2) .BFBBSS;O;CHC;Alexander Canario;Camilo Doval;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 2, Cubs 8.
+Top of the 9th, Giants Batting, Behind 2-8, Cubs' Luke Little facing 5-6-7 
+;;;;;;;;;Luke Little replaces Daniel Palencia pitching
+t9;2-8;0;---;5,(2-2) ..BCFB*S;O;SFG;J.D. Davis;Luke Little;0%;100%;Strikeout Swinging
+t9;2-8;1;---;5,(3-1) BBFB.X;;SFG;Luis Matos;Luke Little;0%;100%;Single to RF (Line Drive)
+t9;2-8;1;1--;1,(0-0) X;O;SFG;Casey Schmitt;Luke Little;0%;100%;Flyball: RF
+t9;2-8;2;1--;3,(0-2) CS.S;O;SFG;Paul DeJong;Luke Little;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Giants 2, Cubs 8.

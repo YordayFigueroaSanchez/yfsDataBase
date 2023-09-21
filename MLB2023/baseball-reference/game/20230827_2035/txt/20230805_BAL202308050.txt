@@ -1,0 +1,253 @@
+
+Scorebox Meta
+20230805
+7:05 p.m. Local
+44326
+Oriole Park at Camden Yards
+171
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;2;0;1;0;0;0;3;7;0
+https://cdn.ssref.net/req/202308251/tlogo/br/BAL-2023.png;/teams/BAL/2023.shtml;2;0;1;1;1;1;0;1;X;7;12;0
+
+Batting home
+Adley Rutschman;/players/r/rutscad01.shtml;C;5;1;2;1;0;0;5;.274;.372;.425;.797;22;14;-0.003; 0.63;0.051;-0.054;-0.00%; 0.63; 0.4;11;0;2B
+Gunnar Henderson;/players/h/hendegu01.shtml;SS;4;1;1;2;1;0;5;.246;.334;.483;.817;21;12;0.116; 0.58;0.154;-0.038; 0.07%; 0.58; 1.0;0;2;HR
+Anthony Santander;/players/s/santaan02.shtml;DH;5;2;2;1;0;1;5;.257;.329;.480;.809;30;15;0.070; 0.33;0.093;-0.023; 0.04%; 0.33; 0.3;;;HR,2B
+Ryan O'Hearn;/players/o/ohearry01.shtml;RF;4;0;2;1;0;0;4;.310;.347;.513;.860;12;8;0.079; 0.43;0.090;-0.011; 0.05%; 0.43; 0.8;0;0;
+Jorge Mateo;/players/m/mateojo01.shtml;CF;0;0;0;0;0;0;0;.207;.256;.332;.588;;;;;;;;;;0;0;
+Ryan Mountcastle;/players/m/mountry01.shtml;1B;3;0;1;0;1;0;4;.267;.308;.467;.775;13;8;-0.023; 0.36;0.008;-0.031;-0.01%; 0.36; -0.3;10;1;
+Jordan Westburg;/players/w/westbjo01.shtml;2B;4;1;1;0;0;1;4;.275;.333;.451;.784;16;10;0.026; 0.49;0.058;-0.032; 0.02%; 0.49; -0.1;1;4;2B
+Colton Cowser;/players/c/cowseco01.shtml;LF;3;2;1;0;1;1;4;.125;.286;.161;.446;22;14;-0.028; 0.50;0.027;-0.055;-0.02%; 0.50; 0.3;3;1;SB
+Ramón Urías;/players/u/uriasra01.shtml;3B;4;0;1;1;0;3;4;.254;.323;.381;.704;19;13;0.062; 0.65;0.097;-0.035; 0.04%; 0.65; 0.0;0;1;2B
+Ryan McKenna;/players/m/mckenry01.shtml;CF-RF;4;0;1;1;0;1;4;.245;.303;.367;.670;13;11;0.040; 0.49;0.072;-0.032; 0.02%; 0.49; 0.4;1;0;2B
+Kyle Gibson;/players/g/gibsoky01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Danny Coulombe;/players/c/couloda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yennier Cano;/players/c/canoye01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Anthony Santander (29, off Tylor Megill); Jordan Westburg (6, off Tylor Megill); Ramón Urías (21, off Tylor Megill); Ryan McKenna (6, off Grant Hartwig); Adley Rutschman (19, off Phil Bickford).
+
+
+HR: Gunnar Henderson (19, off Tylor Megill, 1st inn, 1 on, 0 outs to Deep CF); Anthony Santander (20, off Tylor Megill, 5th inn, 0 on, 1 out to Deep RF Line).
+
+
+TB: Anthony Santander 6; Gunnar Henderson 4; Adley Rutschman 3; Ryan O'Hearn 2; Ryan McKenna 2; Ramón Urías 2; Jordan Westburg 2; Colton Cowser; Ryan Mountcastle.
+
+
+RBI: Gunnar Henderson 2 (51); Ryan McKenna (14); Ramón Urías (35); Anthony Santander (63); Ryan O'Hearn (38); Adley Rutschman (52).
+
+
+2-out RBI: Ryan O'Hearn; Adley Rutschman.
+
+
+Team LOB: 8.
+With RISP: 3 for 11.
+
+Batting away
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;4;1;2;0;0;2;4;.257;.356;.433;.789;14;9;0.006; 0.72;0.057;-0.051; 0.00%; 0.13; 0.1;1;0;2B
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;1;2;0;0;1;4;.240;.326;.471;.797;17;10;-0.007; 0.64;0.030;-0.037;-0.00%; 0.12; 0.0;0;2;2B
+Jeff McNeil;/players/m/mcneije01.shtml;2B-LF;4;1;2;3;0;0;4;.253;.326;.333;.659;10;7;0.169; 0.79;0.197;-0.028; 0.02%; 0.14; 1.9;2;2;HR
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;0;1;0;0;1;4;.222;.313;.507;.819;12;8;-0.053; 0.78;0.021;-0.073;-0.01%; 0.14; 0.0;3;2;2B
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;4;0;0;0;0;1;4;.225;.326;.365;.691;22;13;-0.071; 0.70;0.000;-0.071;-0.01%; 0.13; -0.9;;;
+Starling Marte;/players/m/martest01.shtml;RF;4;0;0;0;0;2;4;.248;.301;.324;.625;17;13;-0.065; 0.64;0.000;-0.065;-0.01%; 0.12; -0.9;4;0;
+Brett Baty;/players/b/batybr01.shtml;3B;3;0;0;0;1;3;4;.217;.286;.333;.620;20;11;-0.036; 0.56;0.012;-0.048;-0.00%; 0.10; -0.6;1;0;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;3;0;0;0;0;0;3;.231;.295;.496;.791;8;5;-0.049; 0.62;0.000;-0.049;-0.01%; 0.11; -0.5;7;0;
+DJ Stewart;/players/s/stewadj01.shtml;LF;2;0;0;0;0;1;2;.233;.351;.400;.751;10;5;-0.034; 0.67;0.000;-0.034;-0.00%; 0.12; -0.3;4;0;
+Danny Mendick;/players/m/mendida01.shtml;PH-2B;1;0;0;0;0;0;1;.192;.222;.269;.491;1;1;-0.022; 0.87;0.000;-0.022;-0.00%; 0.16; -0.2;0;0;
+Tylor Megill;/players/m/megilty01.shtml;P;;;;;;;;;;;;;;;;;;;;;2;0;
+Grant Hartwig;/players/h/hartwgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Phil Bickford;/players/b/bickfph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Brandon Nimmo (18, off Kyle Gibson); Francisco Lindor (25, off Kyle Gibson); Pete Alonso (11, off Yennier Cano).
+
+
+HR: Jeff McNeil (4, off Kyle Gibson, 4th inn, 1 on, 1 out to Deep RF Line).
+
+
+TB: Jeff McNeil 5; Francisco Lindor 3; Brandon Nimmo 3; Pete Alonso 2.
+
+
+RBI: Jeff McNeil 3 (37).
+
+
+2-out RBI: Jeff McNeil.
+
+
+Team LOB: 4.
+With RISP: 2 for 6.
+
+Pitching home
+Kyle Gibson;/players/g/gibsoky01.shtml; W (11-6); 7 ;4;3;3;1;9;1;4.50;26;98;60;24;17;19;10;6;3;0;65;;;0.105; 0.75; 0.06%; 0.75; 0.5
+Danny Coulombe;/players/c/couloda01.shtml; H (20); 1 ;2;0;0;0;0;0;2.77;4;14;10;6;3;1;1;3;1;0;;0;0;0.042; 0.56; 0.03%; 0.56; 0.5
+Yennier Cano;/players/c/canoye01.shtml;Yennier Cano; 1 ;1;0;0;0;2;0;1.86;4;19;12;7;3;2;1;1;1;0;;0;0;0.014; 0.42; 0.01%; 0.42; 0.5
+
+Pitching away
+Tylor Megill;/players/m/megilty01.shtml; L (6-5); 4.2;9;5;5;0;3;2;5.45;23;102;68;45;8;15;8;12;5;0;29;;;-0.299; 0.65;-0.03%; 0.12; -2.7
+Grant Hartwig;/players/h/hartwgr01.shtml;Grant Hartwig; 2.1;1;1;1;2;1;0;3.66;10;39;21;14;3;4;1;6;2;0;;1;0;-0.027; 0.38;-0.00%; 0.07; 0.2
+Phil Bickford;/players/b/bickfph01.shtml;Phil Bickford; 1 ;2;1;1;1;3;0;6.09;6;27;16;7;7;2;1;1;1;0;;0;0;-0.012; 0.15;-0.00%; 0.03; -0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Nic Lentz, 1B - Jeremie Rehak, 2B - Chad Fairchild, 3B - Charlie Ramos, LF - (none), RF - (none).
+Time of Game: 2:51.
+Attendance: 44,326.
+Field Condition: Unknown.
+Start Time Weather: 85° F, Wind 3mph out to Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Jeff McNeil;/players/m/mcneije01.shtml;2B
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+6;Starling Marte;/players/m/martest01.shtml;RF
+7;Brett Baty;/players/b/batybr01.shtml;3B
+8;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+9;DJ Stewart;/players/s/stewadj01.shtml;LF
+; Tylor Megill;/players/m/megilty01.shtml;P
+Orioles
+1;Adley Rutschman;/players/r/rutscad01.shtml;C
+2;Gunnar Henderson;/players/h/hendegu01.shtml;SS
+3;Anthony Santander;/players/s/santaan02.shtml;DH
+4;Ryan O'Hearn;/players/o/ohearry01.shtml;RF
+5;Ryan Mountcastle;/players/m/mountry01.shtml;1B
+6;Jordan Westburg;/players/w/westbjo01.shtml;2B
+7;Colton Cowser;/players/c/cowseco01.shtml;LF
+8;Ramón Urías;/players/u/uriasra01.shtml;3B
+9;Ryan McKenna;/players/m/mckenry01.shtml;CF
+; Kyle Gibson;/players/g/gibsoky01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-0;0;1--;6,(3-2) *BBBFSX;RR;BAL;Gunnar Henderson;Tylor Megill;15%;74%;Home Run (Fly Ball to Deep CF); Rutschman Scores
+t4;0-3;1;--3;1,(0-0) X;RR;NYM;Jeff McNeil;Kyle Gibson;-13%;65%;Home Run (Fly Ball to Deep RF Line); Nimmo Scores
+b4;3-2;1;-2-;2,(1-0) BX;R;BAL;Ramón Urías;Tylor Megill;10%;80%;Double to RF (Ground Ball); Westburg Scores
+b5;4-2;1;---;4,(3-0) BBBX;R;BAL;Anthony Santander;Tylor Megill;8%;88%;Home Run (Fly Ball to Deep RF Line)
+b3;2-0;2;-2-;6,(2-2) CBBCFX;R;BAL;Ryan O'Hearn;Tylor Megill;7%;83%;Single to LF (Fly Ball to Short LF Line); Santander Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Mets Batting, Tied 0-0, Orioles' Kyle Gibson facing 1-2-3 
+t1;0-0;0;---;6,(3-2) CBBCBS;O;NYM;Brandon Nimmo;Kyle Gibson;2%;52%;Strikeout Swinging
+t1;0-0;1;---;5,(2-2) CBF.BS;O;NYM;Francisco Lindor;Kyle Gibson;2%;54%;Strikeout Swinging
+t1;0-0;2;---;3,(2-0) BBX;O;NYM;Jeff McNeil;Kyle Gibson;1%;55%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Orioles 0.
+Bottom of the 1st, Orioles Batting, Tied 0-0, Mets' Tylor Megill facing 1-2-3 
+b1;0-0;0;---;4,(1-2) FFBX;;BAL;Adley Rutschman;Tylor Megill;4%;58%;Single to LF (Line Drive to LF-CF)
+b1;0-0;0;1--;6,(3-2) *BBBFSX;RR;BAL;Gunnar Henderson;Tylor Megill;15%;74%;Home Run (Fly Ball to Deep CF); Rutschman Scores
+b1;2-0;0;---;7,(3-2) BCSBF.BX;O;BAL;Anthony Santander;Tylor Megill;-2%;72%;Groundout: SS-1B
+b1;2-0;1;---;1,(0-0) X;;BAL;Ryan O'Hearn;Tylor Megill;2%;74%;Single to LF (Line Drive to LF-CF)
+b1;2-0;1;1--;2,(0-1) CX;O;BAL;Ryan Mountcastle;Tylor Megill;-2%;72%;Groundout: SS-2B/Forceout at 2B (SS-2B); Mountcastle to 1B
+b1;2-0;2;1--;6,(3-2) BBFCB>S;O;BAL;Jordan Westburg;Tylor Megill;-2%;70%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Mets 0, Orioles 2.
+Top of the 2nd, Mets Batting, Behind 0-2, Orioles' Kyle Gibson facing 4-5-6 
+t2;0-2;0;---;4,(1-2) BCF.S;O;NYM;Pete Alonso;Kyle Gibson;2%;73%;Strikeout Swinging
+t2;0-2;1;---;6,(2-2) CCBFBC;O;NYM;Daniel Vogelbach;Kyle Gibson;2%;74%;Strikeout Looking
+t2;0-2;2;---;4,(0-2) SSFX;O;NYM;Starling Marte;Kyle Gibson;1%;75%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Orioles 2.
+Bottom of the 2nd, Orioles Batting, Ahead 2-0, Mets' Tylor Megill facing 7-8-9 
+b2;2-0;0;---;5,(1-2) SCBFX;O;BAL;Colton Cowser;Tylor Megill;-2%;74%;Lineout: RF (Deep CF-RF)
+b2;2-0;1;---;4,(0-2) CFF.C;O;BAL;Ramón Urías;Tylor Megill;-1%;72%;Strikeout Looking
+b2;2-0;2;---;2,(0-1) FX;O;BAL;Ryan McKenna;Tylor Megill;-1%;72%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Orioles 2.
+Top of the 3rd, Mets Batting, Behind 0-2, Orioles' Kyle Gibson facing 7-8-9 
+t3;0-2;0;---;4,(1-2) BCS*S;O;NYM;Brett Baty;Kyle Gibson;2%;74%;Strikeout Swinging
+t3;0-2;1;---;3,(1-1) BCX;O;NYM;Francisco Alvarez;Kyle Gibson;2%;76%;Groundout: SS-1B
+t3;0-2;2;---;5,(2-2) BFBSS;O;NYM;DJ Stewart;Kyle Gibson;1%;77%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Orioles 2.
+Bottom of the 3rd, Orioles Batting, Ahead 2-0, Mets' Tylor Megill facing 1-2-3 
+b3;2-0;0;---;4,(1-2) CBT.X;O;BAL;Adley Rutschman;Tylor Megill;-2%;75%;Groundout: 1B-P
+b3;2-0;1;---;10,(3-2) SBBCFBFFFX;O;BAL;Gunnar Henderson;Tylor Megill;-1%;74%;Groundout: 1B-P
+b3;2-0;2;---;7,(3-2) BCSBFBX;;BAL;Anthony Santander;Tylor Megill;2%;76%;Double to LF (Line Drive)
+b3;2-0;2;-2-;6,(2-2) CBBCFX;R;BAL;Ryan O'Hearn;Tylor Megill;7%;83%;Single to LF (Fly Ball to Short LF Line); Santander Scores
+b3;3-0;2;1--;1,(0-0) X;O;BAL;Ryan Mountcastle;Tylor Megill;-1%;82%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Mets 0, Orioles 3.
+Top of the 4th, Mets Batting, Behind 0-3, Orioles' Kyle Gibson facing 1-2-3 
+t4;0-3;0;---;1,(0-0) X;;NYM;Brandon Nimmo;Kyle Gibson;-6%;76%;Double to LF (Line Drive to LF Line)
+t4;0-3;0;-2-;5,(3-1) FBBBX;O;NYM;Francisco Lindor;Kyle Gibson;2%;78%;Groundout: 1B unassisted; Nimmo to 3B
+t4;0-3;1;--3;1,(0-0) X;RR;NYM;Jeff McNeil;Kyle Gibson;-13%;65%;Home Run (Fly Ball to Deep RF Line); Nimmo Scores
+t4;2-3;1;---;2,(1-0) BX;O;NYM;Pete Alonso;Kyle Gibson;2%;67%;Groundout: SS-1B
+t4;2-3;2;---;5,(2-2) BCBFX;O;NYM;Daniel Vogelbach;Kyle Gibson;1%;69%;Groundout: 1B unassisted
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Mets 2, Orioles 3.
+Bottom of the 4th, Orioles Batting, Ahead 3-2, Mets' Tylor Megill facing 6-7-8 
+b4;3-2;0;---;3,(1-1) BCX;;BAL;Jordan Westburg;Tylor Megill;6%;75%;Double to RF (Line Drive to Deep RF Line)
+b4;3-2;0;-2-;4,(1-2) BCFS;O;BAL;Colton Cowser;Tylor Megill;-4%;71%;Strikeout Swinging
+b4;3-2;1;-2-;2,(1-0) BX;R;BAL;Ramón Urías;Tylor Megill;10%;80%;Double to RF (Ground Ball); Westburg Scores
+b4;4-2;1;-2-;7,(2-2) BFFBFFX;O;BAL;Ryan McKenna;Tylor Megill;-2%;78%;Flyball: RF (Deep RF); Urías to 3B
+b4;4-2;2;--3;7,(3-2) CBSFBBX;O;BAL;Adley Rutschman;Tylor Megill;-3%;76%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Mets 2, Orioles 4.
+Top of the 5th, Mets Batting, Behind 2-4, Orioles' Kyle Gibson facing 6-7-8 
+t5;2-4;0;---;3,(0-2) CCS;O;NYM;Starling Marte;Kyle Gibson;3%;78%;Strikeout Swinging
+t5;2-4;1;---;5,(2-2) BBCSS;O;NYM;Brett Baty;Kyle Gibson;2%;80%;Strikeout Swinging
+t5;2-4;2;---;4,(2-1) BBCX;O;NYM;Francisco Alvarez;Kyle Gibson;1%;82%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 2, Orioles 4.
+Bottom of the 5th, Orioles Batting, Ahead 4-2, Mets' Tylor Megill facing 2-3-4 
+b5;4-2;0;---;1,(0-0) X;O;BAL;Gunnar Henderson;Tylor Megill;-1%;80%;Groundout: 2B-1B (2B-1B)
+b5;4-2;1;---;4,(3-0) BBBX;R;BAL;Anthony Santander;Tylor Megill;8%;88%;Home Run (Fly Ball to Deep RF Line)
+b5;5-2;1;---;4,(2-1) BBFX;O;BAL;Ryan O'Hearn;Tylor Megill;-1%;87%;Flyball: CF (Deep CF-RF)
+b5;5-2;2;---;5,(1-2) CBFFX;;BAL;Ryan Mountcastle;Tylor Megill;1%;88%;Single to LF (Ground Ball thru SS-3B Hole)
+;;;;;;;;;Grant Hartwig replaces Tylor Megill pitching
+b5;5-2;2;1--;4,(2-1) .BCBX;O;BAL;Jordan Westburg;Grant Hartwig;-1%;87%;Lineout: 2B (Deep 2B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Mets 2, Orioles 5.
+Top of the 6th, Mets Batting, Behind 2-5, Orioles' Kyle Gibson facing 9-1-2 
+t6;2-5;0;---;5,(3-1) BSBBX;O;NYM;DJ Stewart;Kyle Gibson;2%;89%;Groundout: 1B-P
+t6;2-5;1;---;4,(1-2) CBFC;O;NYM;Brandon Nimmo;Kyle Gibson;2%;91%;Strikeout Looking
+t6;2-5;2;---;2,(0-1) SX;;NYM;Francisco Lindor;Kyle Gibson;-2%;89%;Double to 2B (Fly Ball to Short CF-RF)
+t6;2-5;2;-2-;1,(0-0) X;R;NYM;Jeff McNeil;Kyle Gibson;-7%;82%;Single to RF (Line Drive to CF-RF); Lindor Scores
+t6;3-5;2;1--;3,(1-1) C*BX;O;NYM;Pete Alonso;Kyle Gibson;3%;85%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Mets 3, Orioles 5.
+Bottom of the 6th, Orioles Batting, Ahead 5-3, Mets' Grant Hartwig facing 7-8-9 
+b6;5-3;0;---;6,(3-2) BCBBSB;;BAL;Colton Cowser;Grant Hartwig;2%;87%;Walk
+b6;5-3;0;1--;6,(2-2) C1F*BF*BS;O;BAL;Ramón Urías;Grant Hartwig;-2%;85%;Strikeout Swinging
+b6;5-3;1;1--;1,(0-0) X;R;BAL;Ryan McKenna;Grant Hartwig;7%;92%;Double to LF (Ground Ball); Cowser Scores
+b6;6-3;1;-2-;5,(2-2) CBFBX;O;BAL;Adley Rutschman;Grant Hartwig;-1%;91%;Flyball: LF
+b6;6-3;2;-2-;2,(1-0) BX;O;BAL;Gunnar Henderson;Grant Hartwig;-1%;90%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Mets 3, Orioles 6.
+Top of the 7th, Mets Batting, Behind 3-6, Orioles' Kyle Gibson facing 5-6-7 
+t7;3-6;0;---;4,(2-1) CBBX;O;NYM;Daniel Vogelbach;Kyle Gibson;2%;92%;Groundout: 2B-1B
+t7;3-6;1;---;6,(3-2) SBBS.BX;O;NYM;Starling Marte;Kyle Gibson;1%;94%;Groundout: 2B-1B
+t7;3-6;2;---;6,(3-2) CBBSBB;;NYM;Brett Baty;Kyle Gibson;-1%;92%;Walk
+t7;3-6;2;1--;1,(0-0) X;O;NYM;Francisco Alvarez;Kyle Gibson;2%;94%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mets 3, Orioles 6.
+Bottom of the 7th, Orioles Batting, Ahead 6-3, Mets' Grant Hartwig facing 3-4-5 
+b7;6-3;0;---;6,(3-2) BBFFBX;O;BAL;Anthony Santander;Grant Hartwig;-1%;94%;Popfly: 3B
+b7;6-3;1;---;1,(0-0) X;O;BAL;Ryan O'Hearn;Grant Hartwig;0%;93%;Flyball: LF (Deep LF)
+b7;6-3;2;---;5,(3-1) BFBBB;;BAL;Ryan Mountcastle;Grant Hartwig;0%;94%;Walk
+b7;6-3;2;1--;3,(0-2) SFX;O;BAL;Jordan Westburg;Grant Hartwig;-1%;93%;Lineout: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mets 3, Orioles 6.
+Top of the 8th, Mets Batting, Behind 3-6, Orioles' Danny Coulombe facing 9-1-2 
+;;;;;;;;;Danny Coulombe replaces Kyle Gibson pitchingJorge Mateo replaces Ryan O'Hearn (RF) playing CF batting 4thRyan McKenna moves from CF to RF Danny Mendick pinch hits for DJ Stewart (LF) batting 9th
+t8;3-6;0;---;1,(0-0) ....X;O;NYM;Danny Mendick;Danny Coulombe;2%;95%;Foul Popfly: 1B (1B into Foul Terr.)
+t8;3-6;1;---;3,(1-1) CBX;O;NYM;Brandon Nimmo;Danny Coulombe;1%;97%;Single to LF (Line Drive to LF-CF); Nimmo out at 2B/LF-2B
+t8;3-6;2;---;5,(2-2) BFBS.X;;NYM;Francisco Lindor;Danny Coulombe;-1%;96%;Single to 3B (Ground Ball to SS-3B Hole)
+t8;3-6;2;1--;5,(1-2) MSBFX;O;NYM;Jeff McNeil;Danny Coulombe;2%;97%;Flyball: LF (LF Line)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Mets 3, Orioles 6.
+Bottom of the 8th, Orioles Batting, Ahead 6-3, Mets' Phil Bickford facing 7-8-9 
+;;;;;;;;;Phil Bickford replaces Grant Hartwig pitchingDanny Mendick moves from PH to 2B Jeff McNeil moves from 2B to LF 
+b8;6-3;0;---;7,(2-2) ...CBBSF.FX;;BAL;Colton Cowser;Phil Bickford;0%;98%;Single to CF (Line Drive to Deep LF-CF)
+b8;6-3;0;1--;4,(2-1) BFB.>B;;BAL;Ramón Urías;Phil Bickford;0%;98%;Cowser Steals 2B
+b8;6-3;0;-2-;7,(3-2) BFB.>B.SFS;O;BAL;Ramón Urías;Phil Bickford;-1%;98%;Strikeout Swinging
+b8;6-3;1;-2-;3,(0-2) SFS;O;BAL;Ryan McKenna;Phil Bickford;0%;97%;Strikeout Swinging
+b8;6-3;2;-2-;2,(1-0) BX;R;BAL;Adley Rutschman;Phil Bickford;2%;99%;Double to CF (Ground Ball); Cowser Scores
+b8;7-3;2;-2-;2,(3-0) VBVB;;BAL;Gunnar Henderson;Phil Bickford;0%;99%;Walk
+b8;7-3;2;12-;6,(3-2) BBCBS.>S;O;BAL;Anthony Santander;Phil Bickford;0%;99%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Mets 3, Orioles 7.
+Top of the 9th, Mets Batting, Behind 3-7, Orioles' Yennier Cano facing 4-5-6 
+;;;;;;;;;Yennier Cano replaces Danny Coulombe pitching
+t9;3-7;0;---;3,(1-1) .BCX;;NYM;Pete Alonso;Yennier Cano;-2%;97%;Double to RF (Ground Ball)
+t9;3-7;0;-2-;7,(3-2) FBBFF*BX;O;NYM;Daniel Vogelbach;Yennier Cano;2%;98%;Lineout: LF (Deep LF)
+t9;3-7;1;-2-;4,(1-2) BFFS;O;NYM;Starling Marte;Yennier Cano;1%;100%;Strikeout Swinging
+t9;3-7;2;-2-;5,(2-2) SB*BC*S;O;NYM;Brett Baty;Yennier Cano;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 3, Orioles 7.

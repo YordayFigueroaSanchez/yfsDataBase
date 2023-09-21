@@ -1,0 +1,284 @@
+
+Scorebox Meta
+20230807
+7:05 p.m. Local
+14627
+PNC Park
+171
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/ATL-2023.png;/teams/ATL/2023.shtml;0;0;0;4;1;0;0;0;1;6;10;0
+https://cdn.ssref.net/req/202308251/tlogo/br/PIT-2023.png;/teams/PIT/2023.shtml;0;0;6;1;0;0;0;0;X;7;9;1
+
+Batting home
+Connor Joe;/players/j/joeco01.shtml;1B;3;1;1;2;1;0;4;.244;.332;.434;.766;17;10;0.090; 0.85;0.112;-0.023; 0.01%; 0.10; 1.2;5;1;HR
+Alfonso Rivas;/players/r/rivasal01.shtml;PH-1B;1;0;0;0;0;0;1;.233;.343;.500;.843;4;3;-0.005; 0.20;0.000;-0.005;0%; 0.02; -0.2;2;0;
+Bryan Reynolds;/players/r/reynobr01.shtml;LF;3;1;0;0;2;1;5;.265;.329;.450;.779;23;12;0.000; 0.46;0.031;-0.031;0%; 0.05; -0.0;2;0;
+Andrew McCutchen;/players/m/mccutan01.shtml;DH;4;1;1;1;0;2;4;.260;.380;.400;.780;18;13;0.063; 0.65;0.108;-0.044; 0.00%; 0.08; 0.3;;;2B
+Henry Davis;/players/d/davishe01.shtml;RF;4;1;1;1;0;2;4;.220;.312;.360;.672;13;10;0.016; 0.75;0.072;-0.056; 0.00%; 0.09; 0.1;1;0;
+Joshua Palacios;/players/p/palacjo01.shtml;RF;0;0;0;0;0;0;0;.234;.267;.383;.649;;;;;;;;;;0;0;
+Jack Suwinski;/players/s/suwinja01.shtml;CF;3;1;1;0;1;2;4;.217;.338;.473;.811;25;13;-0.026; 0.55;0.035;-0.061;-0.00%; 0.07; -0.3;5;0;SB,CS
+Endy Rodríguez;/players/r/rodrien01.shtml;C;3;1;1;0;1;0;4;.236;.300;.473;.773;14;7;0.010; 0.60;0.037;-0.027; 0.00%; 0.07; 0.0;6;0;2B
+Jared Triolo;/players/t/triolja01.shtml;3B;3;0;2;2;1;0;4;.278;.336;.296;.632;19;10;0.064; 0.79;0.098;-0.035; 0.00%; 0.09; 1.6;3;2;
+Liover Peguero;/players/p/pegueli01.shtml;2B;4;1;2;1;0;1;4;.233;.267;.488;.755;17;12;0.063; 0.60;0.091;-0.029; 0.00%; 0.07; 1.1;1;2;2B
+Alika Williams;/players/w/willial04.shtml;SS;4;0;0;0;0;0;4;.286;.375;.357;.732;19;13;-0.043; 0.59;0.000;-0.043;-0.00%; 0.07; -1.1;1;0;
+Osvaldo Bido;/players/b/bidoos01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Yerry De Los Santos;/players/d/delosye01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Borucki;/players/b/borucry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jose Hernandez;/players/h/hernajo03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Carmen Mlodzinski;/players/m/mlodzca01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Angel Perdomo;/players/p/perdoan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+David Bednar;/players/b/bednada01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Endy Rodríguez (3, off Spencer Strider); Liover Peguero (2, off Spencer Strider); Andrew McCutchen (14, off Spencer Strider).
+
+
+HR: Connor Joe (9, off Michael Tonkin, 4th inn, 0 on, 0 outs to Deep LF).
+
+
+TB: Connor Joe 4; Liover Peguero 3; Andrew McCutchen 2; Jared Triolo 2; Endy Rodríguez 2; Henry Davis; Jack Suwinski.
+
+
+RBI: Connor Joe 2 (28); Jared Triolo 2 (11); Andrew McCutchen (30); Liover Peguero (9); Henry Davis (16).
+
+
+2-out RBI: Jared Triolo 2; Andrew McCutchen; Henry Davis; Liover Peguero.
+
+
+Team LOB: 7.
+With RISP: 3 for 9.
+
+Batting away
+Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF;5;0;0;0;0;1;5;.339;.421;.582;1.003;13;11;-0.204; 1.58;0.000;-0.204;-0.03%; 0.39; -1.6;1;0;
+Ozzie Albies;/players/a/albieoz01.shtml;2B;5;2;1;2;0;0;5;.261;.319;.512;.831;14;9;-0.117; 1.14;0.027;-0.143;-0.02%; 0.28; 0.4;0;0;HR
+Austin Riley;/players/r/rileyau01.shtml;3B;5;1;2;0;0;1;5;.273;.333;.501;.834;19;11;-0.026; 0.78;0.047;-0.073;-0.00%; 0.19; 0.3;2;1;2B
+Matt Olson;/players/o/olsonma02.shtml;1B;4;1;2;2;0;0;4;.266;.371;.604;.975;21;14;0.086; 0.96;0.125;-0.038; 0.01%; 0.23; 1.5;6;1;
+Sean Murphy;/players/m/murphse01.shtml;C;3;1;1;0;0;1;4;.275;.375;.528;.903;19;12;0.020; 1.30;0.098;-0.079; 0.00%; 0.32; 0.1;8;0;HBP
+Marcell Ozuna;/players/o/ozunama01.shtml;DH;3;0;1;1;1;1;4;.236;.312;.472;.784;16;10;0.158; 1.51;0.230;-0.072; 0.02%; 0.37; 2.1;;;
+Eddie Rosario;/players/r/rosared01.shtml;LF;3;0;0;0;0;0;3;.242;.293;.450;.742;8;8;-0.137; 1.51;0.000;-0.137;-0.02%; 0.37; -1.2;2;0;
+Travis d'Arnaud;/players/d/darnatr01.shtml;PH;1;0;0;0;0;1;1;.250;.315;.457;.772;8;5;-0.049; 2.00;0.000;-0.049;-0.01%; 0.49; -0.3;;;
+Kevin Pillar;/players/p/pillake01.shtml;LF;0;0;0;0;0;0;0;.233;.262;.442;.704;;;;;;;;;;0;0;
+Orlando Arcia;/players/a/arciaor01.shtml;SS;4;0;1;0;0;1;4;.297;.354;.450;.804;17;9;-0.029; 1.27;0.066;-0.095;-0.00%; 0.31; -0.3;1;4;
+Michael Harris II;/players/h/harrimi04.shtml;CF;4;1;2;0;0;0;4;.283;.329;.463;.793;15;12;0.029; 1.38;0.129;-0.101; 0.00%; 0.34; 0.2;3;0;2B
+Spencer Strider;/players/s/stridsp01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Michael Tonkin;/players/t/tonkimi01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Pierce Johnson;/players/j/johnspi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+A.J. Minter;/players/m/minteaj01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Raisel Iglesias;/players/i/iglesra01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Austin Riley (20, off Osvaldo Bido); Michael Harris II (17, off David Bednar).
+
+
+HR: Ozzie Albies (26, off Osvaldo Bido, 4th inn, 0 on, 1 out to Deep RF Line).
+
+
+HBP: Sean Murphy (11, by Osvaldo Bido).
+
+
+TB: Ozzie Albies 4; Michael Harris II 3; Austin Riley 3; Matt Olson 2; Marcell Ozuna; Orlando Arcia; Sean Murphy.
+
+
+RBI: Ozzie Albies 2 (79); Matt Olson 2 (99); Marcell Ozuna (51).
+
+
+2-out RBI: Matt Olson.
+
+
+Team LOB: 6.
+With RISP: 4 for 11.
+
+Pitching home
+Osvaldo Bido;/players/b/bidoos01.shtml;Osvaldo Bido; 4 ;4;4;3;0;3;1;5.35;17;51;31;19;3;9;3;10;5;0;43;;;-0.007; 0.77; 0.00%; 0.09; -1.9
+Yerry De Los Santos;/players/d/delosye01.shtml;Yerry De Los Santos; 0.2;2;1;1;0;1;0;3.33;4;13;10;7;1;2;2;1;1;0;;0;0;0.001; 1.12; 0.00%; 0.13; 0.0
+Ryan Borucki;/players/b/borucry01.shtml; H (2); 0.1;1;0;0;0;0;0;2.75;2;11;7;7;0;0;0;2;1;0;;2;1;-0.024; 1.94;-0.00%; 0.23; -0.5
+Jose Hernandez;/players/h/hernajo03.shtml; H (5); 0.2;1;0;0;1;0;0;4.32;4;20;12;8;0;4;1;2;0;0;;0;0;0.001; 1.85; 0.00%; 0.21; 0.0
+Carmen Mlodzinski;/players/m/mlodzca01.shtml; W (2-2); 1.1;0;0;0;0;0;0;1.99;4;15;12;9;0;3;1;3;0;0;;2;0;0.141; 1.31; 0.01%; 0.15; 1.1
+Angel Perdomo;/players/p/perdoan01.shtml; H (5); 1 ;1;0;0;0;2;0;3.33;4;24;15;8;5;2;1;1;1;0;;0;0;0.079; 1.83; 0.01%; 0.21; 0.5
+David Bednar;/players/b/bednada01.shtml; S (23); 1 ;1;1;1;0;0;0;1.54;4;16;14;11;2;1;2;2;1;0;;0;0;0.079; 2.00; 0.01%; 0.23; -0.5
+
+Pitching away
+Spencer Strider;/players/s/stridsp01.shtml; L (12-4); 2.2;5;6;6;3;3;0;3.94;16;63;38;16;9;13;4;6;2;0;24;;;-0.272; 0.86;-0.04%; 0.21; -3.9
+Michael Tonkin;/players/t/tonkimi01.shtml;Michael Tonkin; 2.1;2;1;1;1;1;1;3.22;10;44;29;16;4;9;3;5;1;0;;2;1;-0.033; 0.42;-0.01%; 0.10; -0.4
+Pierce Johnson;/players/j/johnspi01.shtml;Pierce Johnson; 1 ;0;0;0;2;2;0;5.24;5;25;13;3;2;8;1;0;0;0;;0;0;0.032; 0.75; 0.01%; 0.18; 0.5
+A.J. Minter;/players/m/minteaj01.shtml;A.J. Minter; 1 ;2;0;0;0;1;0;4.67;4;22;13;9;2;2;0;3;2;0;;0;0;0.026; 0.48; 0.00%; 0.12; 0.5
+Raisel Iglesias;/players/i/iglesra01.shtml;Raisel Iglesias; 1 ;0;0;0;0;1;0;3.48;3;15;10;6;2;2;1;1;0;0;;0;0;0.016; 0.20; 0.00%; 0.05; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Jose Hernandez (3).
+HBP: Osvaldo Bido (7; Sean Murphy).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Jose Hernandez (3).
+HBP: Osvaldo Bido (7; Sean Murphy).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Jim Wolf, 1B - Jeremy Riggs, 2B - Mike Muchlinski, 3B - Alan Porter, LF - (none), RF - (none).
+Time of Game: 2:51.
+Attendance: 14,627.
+Field Condition: Unknown.
+Start Time Weather: 74° F, Wind 10mph from Right to Left, Cloudy, No Precipitation.
+
+div_lineups
+Braves
+1;Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF
+2;Ozzie Albies;/players/a/albieoz01.shtml;2B
+3;Austin Riley;/players/r/rileyau01.shtml;3B
+4;Matt Olson;/players/o/olsonma02.shtml;1B
+5;Sean Murphy;/players/m/murphse01.shtml;C
+6;Marcell Ozuna;/players/o/ozunama01.shtml;DH
+7;Eddie Rosario;/players/r/rosared01.shtml;LF
+8;Orlando Arcia;/players/a/arciaor01.shtml;SS
+9;Michael Harris II;/players/h/harrimi04.shtml;CF
+; Spencer Strider;/players/s/stridsp01.shtml;P
+Pirates
+1;Connor Joe;/players/j/joeco01.shtml;1B
+2;Bryan Reynolds;/players/r/reynobr01.shtml;LF
+3;Andrew McCutchen;/players/m/mccutan01.shtml;DH
+4;Henry Davis;/players/d/davishe01.shtml;RF
+5;Jack Suwinski;/players/s/suwinja01.shtml;CF
+6;Endy Rodríguez;/players/r/rodrien01.shtml;C
+7;Jared Triolo;/players/t/triolja01.shtml;3B
+8;Liover Peguero;/players/p/pegueli01.shtml;2B
+9;Alika Williams;/players/w/willial04.shtml;SS
+; Osvaldo Bido;/players/b/bidoos01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t4;2-6;1;12-;1,(0-0) X;RR;ATL;Marcell Ozuna;Osvaldo Bido;-16%;68%;Single to RF (Line Drive); Olson Scores; Murphy Scores/Adv on E9/No RBI/unER; Ozuna to 3B
+b3;1-0;2;1--;5,(2-2) 1CBB*SX;R;PIT;Andrew McCutchen;Spencer Strider;11%;75%;Double to CF (Fly Ball to Deep LF-CF); Reynolds Scores
+t9;5-7;0;---;7,(0-2) ...FFFFFFX;;ATL;Michael Harris II;David Bednar;-9%;83%;Double to RF (Line Drive to Deep CF-RF)
+t6;5-7;1;1-3;4,(2-1) BBCX;O;ATL;Michael Harris II;Jose Hernandez;9%;78%;Foul Popfly: 3B (3B into Foul Terr.)
+t5;4-7;2;1-3;6,(3-2) .FBBBF>X;R;ATL;Matt Olson;Ryan Borucki;-9%;75%;Single to RF (Line Drive to Deep RF Line); Albies Scores; Riley to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Braves Batting, Tied 0-0, Pirates' Osvaldo Bido facing 1-2-3 
+t1;0-0;0;---;3,(0-2) CFX;O;ATL;Ronald Acuna Jr.;Osvaldo Bido;2%;52%;Groundout: 3B-1B (SS-3B Hole)
+t1;0-0;1;---;2,(1-0) BX;O;ATL;Ozzie Albies;Osvaldo Bido;2%;54%;Flyball: RF (Short CF-RF)
+t1;0-0;2;---;5,(2-2) CBCBS;O;ATL;Austin Riley;Osvaldo Bido;1%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Pirates 0.
+Bottom of the 1st, Pirates Batting, Tied 0-0, Braves' Spencer Strider facing 1-2-3 
+b1;0-0;0;---;2,(1-0) BX;O;PIT;Connor Joe;Spencer Strider;-2%;53%;Flyball: CF (Deep CF)
+b1;0-0;1;---;2,(0-1) CX;O;PIT;Bryan Reynolds;Spencer Strider;-2%;51%;Lineout: LF (LF Line)
+b1;0-0;2;---;4,(1-2) CCBS;O;PIT;Andrew McCutchen;Spencer Strider;-1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Pirates 0.
+Top of the 2nd, Braves Batting, Tied 0-0, Pirates' Osvaldo Bido facing 4-5-6 
+t2;0-0;0;---;5,(2-2) CTBBX;O;ATL;Matt Olson;Osvaldo Bido;2%;52%;Groundout: P-1B
+t2;0-0;1;---;4,(1-2) SBCS;O;ATL;Sean Murphy;Osvaldo Bido;2%;54%;Strikeout Swinging
+t2;0-0;2;---;4,(1-2) CFBC;O;ATL;Marcell Ozuna;Osvaldo Bido;1%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Pirates 0.
+Bottom of the 2nd, Pirates Batting, Tied 0-0, Braves' Spencer Strider facing 4-5-6 
+b2;0-0;0;---;3,(0-2) CSS;O;PIT;Henry Davis;Spencer Strider;-2%;53%;Strikeout Swinging
+b2;0-0;1;---;6,(3-2) CFBBBS;O;PIT;Jack Suwinski;Spencer Strider;-2%;51%;Strikeout Swinging
+b2;0-0;2;---;2,(0-1) CX;;PIT;Endy Rodríguez;Spencer Strider;2%;53%;Double to RF (Fly Ball to Deep RF)
+b2;0-0;2;-2-;5,(1-2) BCSFX;O;PIT;Jared Triolo;Spencer Strider;-3%;50%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Pirates 0.
+Top of the 3rd, Braves Batting, Tied 0-0, Pirates' Osvaldo Bido facing 7-8-9 
+t3;0-0;0;---;3,(0-2) FFX;O;ATL;Eddie Rosario;Osvaldo Bido;3%;53%;Popfly: 3B (Weak SS-2B)
+t3;0-0;1;---;1,(0-0) X;O;ATL;Orlando Arcia;Osvaldo Bido;2%;54%;Groundout: 3B-1B (SS-3B Hole)
+t3;0-0;2;---;2,(1-0) BX;O;ATL;Michael Harris II;Osvaldo Bido;1%;56%;Flyball: LF (Short LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Pirates 0.
+Bottom of the 3rd, Pirates Batting, Tied 0-0, Braves' Spencer Strider facing 8-9-1 
+b3;0-0;0;---;2,(0-1) CX;;PIT;Liover Peguero;Spencer Strider;7%;62%;Double to RF (Line Drive to Short RF Line)
+b3;0-0;0;-2-;3,(0-2) CFX;O;PIT;Alika Williams;Spencer Strider;-2%;61%;Groundout: P-1B (Weak SS-2B); Peguero to 3B
+b3;0-0;1;--3;6,(2-2) BBCSFX;RO;PIT;Connor Joe;Spencer Strider;2%;63%;Groundout: SS-1B (Weak SS); Peguero Scores
+b3;1-0;2;---;6,(3-2) CSBBBB;;PIT;Bryan Reynolds;Spencer Strider;1%;64%;Walk
+b3;1-0;2;1--;5,(2-2) 1CBB*SX;R;PIT;Andrew McCutchen;Spencer Strider;11%;75%;Double to CF (Fly Ball to Deep LF-CF); Reynolds Scores
+b3;2-0;2;-2-;3,(1-1) S*BX;R;PIT;Henry Davis;Spencer Strider;7%;82%;Single to CF (Ground Ball thru SS-2B); McCutchen Scores
+b3;3-0;2;1--;7,(3-2) BC1*BBF>F>B;;PIT;Jack Suwinski;Spencer Strider;1%;83%;Walk; Davis to 2B
+b3;3-0;2;12-;4,(3-0) B*B*BB;;PIT;Endy Rodríguez;Spencer Strider;1%;85%;Walk; Davis to 3B; Suwinski to 2B
+b3;3-0;2;123;3,(2-0) BB+1X;RR;PIT;Jared Triolo;Spencer Strider;8%;93%;Single to CF (Ground Ball thru SS-2B); Davis Scores; Suwinski Scores; Rodríguez to 3B
+;;;;;;;;;Michael Tonkin replaces Spencer Strider pitching
+b3;5-0;2;1-3;2,(0-1) .TX;R;PIT;Liover Peguero;Michael Tonkin;3%;95%;Single to CF (Line Drive to Deep CF); Rodríguez Scores; Triolo to 2B
+b3;6-0;2;12-;6,(2-2) CF*BBFX;O;PIT;Alika Williams;Michael Tonkin;-1%;95%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;6 runs, 5 hits, 0 errors, 2 LOB. Braves 0, Pirates 6.
+Top of the 4th, Braves Batting, Behind 0-6, Pirates' Osvaldo Bido facing 1-2-3 
+t4;0-6;0;---;2,(1-0) BX;O;ATL;Ronald Acuna Jr.;Osvaldo Bido;1%;96%;Lineout: CF (Deep CF)
+t4;0-6;1;---;2,(1-0) BX;R;ATL;Ozzie Albies;Osvaldo Bido;-3%;93%;Home Run (Fly Ball to Deep RF Line)
+t4;1-6;1;---;3,(2-0) BBX;;ATL;Austin Riley;Osvaldo Bido;-2%;91%;Double to LF (Line Drive to Deep LF-CF)
+t4;1-6;1;-2-;4,(2-1) C*BBX;R;ATL;Matt Olson;Osvaldo Bido;-4%;87%;Single to RF (Line Drive to Deep RF Line); Riley Scores
+t4;2-6;1;1--;5,(2-2) BCFBH;;ATL;Sean Murphy;Osvaldo Bido;-3%;84%;Hit By Pitch; Olson to 2B
+t4;2-6;1;12-;1,(0-0) X;RR;ATL;Marcell Ozuna;Osvaldo Bido;-16%;68%;Single to RF (Line Drive); Olson Scores; Murphy Scores/Adv on E9/No RBI/unER; Ozuna to 3B
+t4;4-6;1;--3;1,(0-0) X;O;ATL;Eddie Rosario;Osvaldo Bido;6%;74%;Lineout: 1B
+t4;4-6;2;--3;4,(3-0) BBBX;O;ATL;Orlando Arcia;Osvaldo Bido;4%;78%;Popfly: 1B (Deep 1B)
+;;;;;;;;;4 runs, 4 hits, 1 error, 1 LOB. Braves 4, Pirates 6.
+Bottom of the 4th, Pirates Batting, Ahead 6-4, Braves' Michael Tonkin facing 1-2-3 
+b4;6-4;0;---;2,(0-1) CX;R;PIT;Connor Joe;Michael Tonkin;7%;86%;Home Run (Fly Ball to Deep LF)
+b4;7-4;0;---;4,(1-2) CC.BX;O;PIT;Bryan Reynolds;Michael Tonkin;-1%;85%;Foul Popfly: 3B (3B into Foul Terr.)
+b4;7-4;1;---;6,(2-2) CCBFBX;O;PIT;Andrew McCutchen;Michael Tonkin;-1%;84%;Popfly: SS (SS-3B Hole)
+b4;7-4;2;---;2,(0-1) SX;O;PIT;Henry Davis;Michael Tonkin;-1%;83%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Braves 4, Pirates 7.
+Top of the 5th, Braves Batting, Behind 4-7, Pirates' Yerry De Los Santos facing 9-1-2 
+;;;;;;;;;Yerry De Los Santos replaces Osvaldo Bido pitching
+t5;4-7;0;---;2,(0-1) .CX;;ATL;Michael Harris II;Yerry De Los Santos;-4%;79%;Single to RF (Ground Ball thru 2B-1B)
+t5;4-7;0;1--;4,(0-2) FF>FS;O;ATL;Ronald Acuna Jr.;Yerry De Los Santos;4%;83%;Strikeout Swinging
+t5;4-7;1;1--;3,(2-0) BBX;O;ATL;Ozzie Albies;Yerry De Los Santos;3%;86%;Groundout: 2B-SS/Forceout at 2B; Albies to 1B
+t5;4-7;2;1--;4,(1-2) C*BFX;;ATL;Austin Riley;Yerry De Los Santos;-3%;83%;Single to CF (Line Drive to Deep CF); Albies to 3B
+;;;;;;;;;Ryan Borucki replaces Yerry De Los Santos pitching
+t5;4-7;2;1-3;6,(3-2) .FBBBF>X;R;ATL;Matt Olson;Ryan Borucki;-9%;75%;Single to RF (Line Drive to Deep RF Line); Albies Scores; Riley to 3B
+t5;5-7;2;1-3;5,(1-2) BFFFX;O;ATL;Sean Murphy;Ryan Borucki;6%;81%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Braves 5, Pirates 7.
+Bottom of the 5th, Pirates Batting, Ahead 7-5, Braves' Michael Tonkin facing 5-6-7 
+b5;7-5;0;---;5,(2-2) CSBBS;O;PIT;Jack Suwinski;Michael Tonkin;-2%;79%;Strikeout Swinging
+b5;7-5;1;---;5,(2-2) BCFBX;O;PIT;Endy Rodríguez;Michael Tonkin;-1%;78%;Flyball: RF (Deep RF)
+b5;7-5;2;---;6,(3-2) CBFBB*B;;PIT;Jared Triolo;Michael Tonkin;1%;79%;Walk
+b5;7-5;2;1--;6,(2-2) FBSB>F1>X;O;PIT;Liover Peguero;Michael Tonkin;-2%;77%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Braves 5, Pirates 7.
+Top of the 6th, Braves Batting, Behind 5-7, Pirates' Jose Hernandez facing 6-7-8 
+;;;;;;;;;Jose Hernandez replaces Ryan Borucki pitching
+t6;5-7;0;---;7,(3-2) .BFBBFFB;;ATL;Marcell Ozuna;Jose Hernandez;-5%;72%;Walk
+t6;5-7;0;1--;4,(0-2) CCFX;O;ATL;Eddie Rosario;Jose Hernandez;5%;77%;Flyball: CF (Deep CF)
+t6;5-7;1;1--;2,(0-1) CB;;ATL;Orlando Arcia;Jose Hernandez;-2%;75%;Wild Pitch; Ozuna to 2B
+t6;5-7;1;-2-;5,(2-2) CB.FBX;;ATL;Orlando Arcia;Jose Hernandez;-7%;69%;Single to LF (Ground Ball); Ozuna to 3B
+t6;5-7;1;1-3;4,(2-1) BBCX;O;ATL;Michael Harris II;Jose Hernandez;9%;78%;Foul Popfly: 3B (3B into Foul Terr.)
+;;;;;;;;;Carmen Mlodzinski replaces Jose Hernandez pitching
+t6;5-7;2;1-3;1,(0-0) .X;O;ATL;Ronald Acuna Jr.;Carmen Mlodzinski;7%;84%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Braves 5, Pirates 7.
+Bottom of the 6th, Pirates Batting, Ahead 7-5, Braves' Pierce Johnson facing 9-1-2 
+;;;;;;;;;Pierce Johnson replaces Michael Tonkin pitching
+b6;7-5;0;---;5,(2-2) .CBCBX;O;PIT;Alika Williams;Pierce Johnson;-1%;83%;Groundout: SS-1B
+b6;7-5;1;---;7,(3-2) CCBFBBB;;PIT;Connor Joe;Pierce Johnson;1%;84%;Walk
+b6;7-5;1;1--;5,(3-1) *BBBCB;;PIT;Bryan Reynolds;Pierce Johnson;2%;86%;Walk; Joe to 2B
+b6;7-5;1;12-;3,(0-2) CFC;O;PIT;Andrew McCutchen;Pierce Johnson;-3%;84%;Strikeout Looking
+b6;7-5;2;12-;5,(2-2) *SCBBS;O;PIT;Henry Davis;Pierce Johnson;-3%;81%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Braves 5, Pirates 7.
+Top of the 7th, Braves Batting, Behind 5-7, Pirates' Carmen Mlodzinski facing 2-3-4 
+t7;5-7;0;---;4,(1-2) CFBX;O;ATL;Ozzie Albies;Carmen Mlodzinski;4%;85%;Groundout: 1B-P (2B-1B)
+t7;5-7;1;---;4,(2-1) CBBX;O;ATL;Austin Riley;Carmen Mlodzinski;2%;87%;Popfly: 2B (Deep 2B)
+t7;5-7;2;---;6,(0-2) CFFFFX;O;ATL;Matt Olson;Carmen Mlodzinski;1%;88%;Popfly: 3B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 5, Pirates 7.
+Bottom of the 7th, Pirates Batting, Ahead 7-5, Braves' A.J. Minter facing 5-6-7 
+;;;;;;;;;A.J. Minter replaces Pierce Johnson pitching
+b7;7-5;0;---;7,(3-2) .TBBBFFX;;PIT;Jack Suwinski;A.J. Minter;2%;90%;Single to LF (Line Drive to LF Line)
+b7;7-5;0;1--;3,(1-1) CBX;O;PIT;Endy Rodríguez;A.J. Minter;-2%;88%;Flyball: LF (Deep LF)
+b7;7-5;1;1--;1,(0-0) >B;;PIT;Jared Triolo;A.J. Minter;1%;89%;Suwinski Steals 2B
+b7;7-5;1;-2-;4,(2-2) >B.*B*SC3;O;PIT;Jared Triolo;A.J. Minter;-3%;86%;Suwinski Caught Stealing 3B (P-3B)
+b7;7-5;2;---;5,(2-2) >B.*B*SC3.X;;PIT;Jared Triolo;A.J. Minter;1%;87%;Single to LF (Line Drive to LF-CF)
+b7;7-5;2;1--;7,(3-2) FB1FBFB>*S;O;PIT;Liover Peguero;A.J. Minter;-1%;86%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Braves 5, Pirates 7.
+Top of the 8th, Braves Batting, Behind 5-7, Pirates' Angel Perdomo facing 5-6-7 
+;;;;;;;;;Angel Perdomo replaces Carmen Mlodzinski pitching
+t8;5-7;0;---;5,(2-2) .BCFBX;;ATL;Sean Murphy;Angel Perdomo;-7%;79%;Single to 2B (Ground Ball)
+t8;5-7;0;1--;4,(1-2) S*BCX;O;ATL;Marcell Ozuna;Angel Perdomo;6%;85%;Lineout: LF (Deep LF)
+;;;;;;;;;Travis d'Arnaud pinch hits for Eddie Rosario (LF) batting 7th
+t8;5-7;1;1--;8,(3-2) .BSFBFFBS;O;ATL;Travis d'Arnaud;Angel Perdomo;5%;90%;Strikeout Swinging
+t8;5-7;2;1--;7,(3-2) BSBFFB>S;O;ATL;Orlando Arcia;Angel Perdomo;4%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 5, Pirates 7.
+Bottom of the 8th, Pirates Batting, Ahead 7-5, Braves' Raisel Iglesias facing 9-1-2 
+;;;;;;;;;Raisel Iglesias replaces A.J. Minter pitchingKevin Pillar replaces Travis d'Arnaud (PH) playing LF batting 7th
+b8;7-5;0;---;5,(2-2) ..FBBF.X;O;PIT;Alika Williams;Raisel Iglesias;-1%;93%;Flyball: CF (Deep CF)
+;;;;;;;;;Alfonso Rivas pinch hits for Connor Joe (1B) batting 1st
+b8;7-5;1;---;4,(1-2) .CFBX;O;PIT;Alfonso Rivas;Raisel Iglesias;-1%;93%;Groundout: SS-1B
+b8;7-5;2;---;6,(2-2) SBBCFS;O;PIT;Bryan Reynolds;Raisel Iglesias;0%;92%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 5, Pirates 7.
+Top of the 9th, Braves Batting, Behind 5-7, Pirates' David Bednar facing 9-1-2 
+;;;;;;;;;David Bednar replaces Angel Perdomo pitchingAlfonso Rivas moves from PH to 1B Joshua Palacios replaces Henry Davis playing RF batting 4th
+t9;5-7;0;---;7,(0-2) ...FFFFFFX;;ATL;Michael Harris II;David Bednar;-9%;83%;Double to RF (Line Drive to Deep CF-RF)
+t9;5-7;0;-2-;3,(1-1) SBX;O;ATL;Ronald Acuna Jr.;David Bednar;7%;90%;Flyball: CF (Deep CF); Harris to 3B
+t9;5-7;1;--3;3,(0-2) CFX;RO;ATL;Ozzie Albies;David Bednar;6%;96%;Groundout: 1B unassisted; Harris Scores
+t9;6-7;2;---;3,(1-1) SBX;O;ATL;Austin Riley;David Bednar;4%;100%;Groundout: 2B-1B (Weak SS-2B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Braves 6, Pirates 7.

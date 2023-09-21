@@ -1,0 +1,255 @@
+
+Scorebox Meta
+20230801
+6:40 p.m. Local
+9600
+loanDepot park
+142
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/PHI-2023.png;/teams/PHI/2023.shtml;0;0;0;0;0;0;0;0;3;3;6;0
+https://cdn.ssref.net/req/202308251/tlogo/br/MIA-2023.png;/teams/MIA/2023.shtml;0;0;1;0;0;0;0;0;0;1;11;0
+
+Batting home
+Luis Arraez;/players/a/arraelu01.shtml;2B;5;1;2;0;0;0;5;.381;.429;.477;.906;10;8;-0.034; 1.15;0.059;-0.093;-0.02%; 1.33; -0.3;1;4;2B
+Jorge Soler;/players/s/solerjo01.shtml;DH;4;0;1;0;1;0;5;.243;.333;.491;.824;14;7;-0.050; 1.08;0.034;-0.084;-0.03%; 1.24; -0.2;;;
+Bryan De La Cruz;/players/d/delacbr01.shtml;LF;4;0;2;0;1;1;5;.268;.316;.429;.745;21;13;0.064; 1.02;0.090;-0.027; 0.04%; 1.17; 1.0;3;0;
+Avisaíl García;/players/g/garciav01.shtml;RF;4;0;2;1;0;1;4;.221;.268;.390;.658;12;9;0.079; 1.71;0.182;-0.103; 0.06%; 1.97; 0.6;1;0;2B
+Jesús Sánchez;/players/s/sanchje02.shtml;CF;3;0;1;0;0;1;4;.257;.318;.464;.782;9;8;-0.114; 1.65;0.029;-0.143;-0.08%; 1.90; -1.5;2;0;SH
+Garrett Hampson;/players/h/hampsga01.shtml;CF;0;0;0;0;0;0;0;.275;.346;.384;.730;;;;;;;;;;1;0;
+Jon Berti;/players/b/bertijo01.shtml;3B;4;0;1;0;0;0;4;.293;.334;.373;.708;12;8;-0.114; 1.43;0.039;-0.153;-0.08%; 1.64; -1.1;0;2;
+Yuli Gurriel;/players/g/gourryu01.shtml;1B;3;0;2;0;1;1;4;.273;.333;.390;.723;19;12;0.053; 0.95;0.079;-0.026; 0.04%; 1.10; 0.5;10;1;
+Joey Wendle;/players/w/wendljo01.shtml;SS;4;0;0;0;0;1;4;.240;.279;.337;.616;9;9;-0.175; 1.33;0.000;-0.175;-0.12%; 1.54; -2.0;2;2;GDP
+Jacob Stallings;/players/s/stallja01.shtml;C;3;0;0;0;1;0;4;.201;.292;.268;.561;12;8;-0.059; 0.81;0.029;-0.088;-0.04%; 0.93; -0.6;6;0;GDP
+Sandy Alcantara;/players/a/alcansa01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;3;
+David Robertson;/players/r/roberda08.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Avisaíl García (2, off Ranger Suárez); Luis Arraez (25, off Ranger Suárez).
+
+
+SH: Jesús Sánchez (1, off Ranger Suárez).
+
+
+TB: Luis Arraez 3; Avisaíl García 3; Yuli Gurriel 2; Bryan De La Cruz 2; Jesús Sánchez; Jorge Soler; Jon Berti.
+
+
+GIDP: Jacob Stallings (4); Joey Wendle (5).
+
+
+RBI: Avisaíl García (10).
+
+
+Team LOB: 11.
+With RISP: 2 for 13.
+
+Batting away
+Kyle Schwarber;/players/s/schwaky01.shtml;DH;2;0;1;0;2;0;4;.184;.325;.429;.754;16;7;0.127; 1.42;0.164;-0.037; 0.10%; 1.81; 0.7;;;
+Jake Cave;/players/c/caveja01.shtml;PR-DH-DH;0;1;0;0;0;0;0;.218;.274;.322;.596;;;0.000;;0.000;0.000;0%;; 0.0;;;
+Alec Bohm;/players/b/bohmal01.shtml;3B;4;0;1;0;0;1;4;.287;.342;.423;.765;22;15;-0.105; 1.99;0.054;-0.159;-0.08%; 2.54; -0.2;0;2;
+Bryce Harper;/players/h/harpebr03.shtml;1B;4;1;2;1;0;1;4;.292;.385;.408;.793;14;10;0.310; 1.89;0.429;-0.119; 0.24%; 2.41; 0.3;10;0;2B,GDP
+Nick Castellanos;/players/c/casteni01.shtml;RF;4;1;1;2;0;0;4;.273;.315;.449;.765;17;13;0.182; 2.04;0.358;-0.176; 0.14%; 2.60; 0.2;0;1;HR,GDP
+Bryson Stott;/players/s/stottbr01.shtml;2B;4;0;0;0;0;0;4;.299;.340;.429;.769;14;10;-0.075; 0.73;0.000;-0.075;-0.06%; 0.94; -0.7;2;4;
+Trea Turner;/players/t/turnetr01.shtml;SS;4;0;0;0;0;2;4;.240;.293;.374;.667;12;10;-0.075; 0.73;0.000;-0.075;-0.06%; 0.93; -0.6;3;3;
+Brandon Marsh;/players/m/marshbr02.shtml;LF;3;0;0;0;0;1;3;.274;.361;.446;.807;11;9;-0.090; 1.16;0.000;-0.090;-0.07%; 1.49; -0.5;4;0;
+Garrett Stubbs;/players/s/stubbga01.shtml;C;3;0;1;0;0;0;3;.210;.290;.274;.564;9;7;-0.035; 1.05;0.031;-0.066;-0.03%; 1.34; -0.2;6;1;2B
+Johan Rojas;/players/r/rojasjo03.shtml;CF;3;0;0;0;0;1;3;.310;.333;.345;.678;10;8;-0.091; 1.12;0.000;-0.091;-0.07%; 1.44; -0.6;2;0;
+Ranger Suárez;/players/s/suarera01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Yunior Marte;/players/m/marteyu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gregory Soto;/players/s/sotogr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Seranthony Domínguez;/players/d/dominse01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Garrett Stubbs (2, off Sandy Alcantara); Bryce Harper (17, off David Robertson).
+
+
+HR: Nick Castellanos (15, off David Robertson, 9th inn, 1 on, 1 out to Deep LF).
+
+
+TB: Nick Castellanos 4; Bryce Harper 3; Garrett Stubbs 2; Alec Bohm; Kyle Schwarber.
+
+
+GIDP: Nick Castellanos (9); Bryce Harper (7).
+
+
+RBI: Nick Castellanos 2 (62); Bryce Harper (32).
+
+
+Team LOB: 3.
+With RISP: 1 for 4.
+
+Pitching home
+Sandy Alcantara;/players/a/alcansa01.shtml;Sandy Alcantara; 8 ;4;0;0;1;5;0;4.21;27;101;74;51;9;14;14;7;3;0;78;;;0.590; 1.12; 0.41%; 1.29; 4.1
+David Robertson;/players/r/roberda08.shtml; L (4-3); 1 ;2;3;3;1;1;1;2.54;6;24;15;11;3;1;0;4;1;0;;0;0;-0.739; 2.51;-0.51%; 2.89; -2.5
+
+Pitching away
+Ranger Suárez;/players/s/suarera01.shtml;Ranger Suárez; 6.1;10;1;1;2;3;0;4.01;28;81;59;37;7;15;16;7;5;0;50;;;0.131; 1.24; 0.10%; 1.58; 1.7
+Yunior Marte;/players/m/marteyu01.shtml;Yunior Marte; 0.2;0;0;0;2;0;0;4.99;4;14;6;4;1;1;0;2;0;0;;1;0;0.093; 1.81; 0.07%; 2.31; 1.0
+Gregory Soto;/players/s/sotogr01.shtml; W (3-4); 1 ;1;0;0;0;1;0;4.14;4;13;9;4;3;2;3;0;0;0;;0;0;0.032; 0.72; 0.03%; 0.92; 0.5
+Seranthony Domínguez;/players/d/dominse01.shtml; S (1); 1 ;0;0;0;0;1;0;4.60;3;10;8;5;2;1;0;2;0;0;;0;0;0.095; 1.23; 0.07%; 1.57; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Gregory Soto (5).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Gregory Soto (5).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Shane Livensparger, 1B - Dan Bellino, 2B - Phil Cuzzi, 3B - Mark Ripperger, LF - (none), RF - (none).
+Time of Game: 2:22.
+Attendance: 9,600.
+Start Time Weather: 72° F, Wind 0mph, In Dome.
+
+div_lineups
+Phillies
+1;Kyle Schwarber;/players/s/schwaky01.shtml;DH
+2;Alec Bohm;/players/b/bohmal01.shtml;3B
+3;Bryce Harper;/players/h/harpebr03.shtml;1B
+4;Nick Castellanos;/players/c/casteni01.shtml;RF
+5;Bryson Stott;/players/s/stottbr01.shtml;2B
+6;Trea Turner;/players/t/turnetr01.shtml;SS
+7;Brandon Marsh;/players/m/marshbr02.shtml;LF
+8;Garrett Stubbs;/players/s/stubbga01.shtml;C
+9;Johan Rojas;/players/r/rojasjo03.shtml;CF
+; Ranger Suárez;/players/s/suarera01.shtml;P
+Marlins
+1;Luis Arraez;/players/a/arraelu01.shtml;2B
+2;Jorge Soler;/players/s/solerjo01.shtml;DH
+3;Bryan De La Cruz;/players/d/delacbr01.shtml;LF
+4;Avisaíl García;/players/g/garciav01.shtml;RF
+5;Jesús Sánchez;/players/s/sanchje02.shtml;CF
+6;Jon Berti;/players/b/bertijo01.shtml;3B
+7;Yuli Gurriel;/players/g/gourryu01.shtml;1B
+8;Joey Wendle;/players/w/wendljo01.shtml;SS
+9;Jacob Stallings;/players/s/stallja01.shtml;C
+; Sandy Alcantara;/players/a/alcansa01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t9;0-1;1;1--;3,(1-1) F*BX;R;PHI;Bryce Harper;David Robertson;38%;56%;Double to LF (Line Drive to Deep LF); Cave Scores
+t9;1-1;1;-2-;3,(0-2) SF.X;RR;PHI;Nick Castellanos;David Robertson;36%;92%;Home Run (Fly Ball to Deep LF); Harper Scores
+b3;0-0;1;12-;3,(1-1) F*BX;R;MIA;Avisaíl García;Ranger Suárez;-15%;25%;Double to RF (Ground Ball); Arraez Scores; De La Cruz to 3B
+t9;0-1;0;---;7,(3-2) ..BBCFBFB;;PHI;Kyle Schwarber;David Robertson;12%;28%;Walk
+t9;0-1;0;1--;7,(3-2) .1STB*BFBS;O;PHI;Alec Bohm;David Robertson;-11%;17%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Phillies Batting, Tied 0-0, Marlins' Sandy Alcantara facing 1-2-3 
+t1;0-0;0;---;2,(1-0) BX;;PHI;Kyle Schwarber;Sandy Alcantara;4%;54%;Single to 2B (Ground Ball to 2B-1B)
+t1;0-0;0;1--;6,(3-2) BBFFBX;;PHI;Alec Bohm;Sandy Alcantara;5%;59%;Single to RF (Ground Ball thru 2B-1B); Schwarber to 2B
+t1;0-0;0;12-;1,(0-0) X;OO;PHI;Bryce Harper;Sandy Alcantara;-10%;49%;Ground Ball Double Play: 2B-SS-1B; Schwarber to 3B
+t1;0-0;2;--3;4,(2-1) BBSX;O;PHI;Nick Castellanos;Sandy Alcantara;-4%;45%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Phillies 0, Marlins 0.
+Bottom of the 1st, Marlins Batting, Tied 0-0, Phillies' Ranger Suárez facing 1-2-3 
+b1;0-0;0;---;1,(0-0) X;O;MIA;Luis Arraez;Ranger Suárez;2%;47%;Lineout: LF
+b1;0-0;1;---;1,(0-0) X;;MIA;Jorge Soler;Ranger Suárez;-2%;45%;Single to CF (Ground Ball thru SS-2B)
+b1;0-0;1;1--;6,(3-2) CBBBFX;;MIA;Bryan De La Cruz;Ranger Suárez;-3%;41%;Single to CF (Ground Ball thru SS-2B); Soler to 2B
+b1;0-0;1;12-;3,(0-2) CST;O;MIA;Avisaíl García;Ranger Suárez;4%;46%;Strikeout Swinging
+b1;0-0;2;12-;1,(0-0) X;;MIA;Jesús Sánchez;Ranger Suárez;-3%;43%;Single to 1B (Ground Ball); Soler to 3B; De La Cruz to 2B
+b1;0-0;2;123;2,(0-1) CX;O;MIA;Jon Berti;Ranger Suárez;7%;50%;Groundout: SS-2B/Forceout at 2B; Berti to 1B
+;;;;;;;;;0 runs, 3 hits, 0 errors, 3 LOB. Phillies 0, Marlins 0.
+Top of the 2nd, Phillies Batting, Tied 0-0, Marlins' Sandy Alcantara facing 5-6-7 
+t2;0-0;0;---;6,(1-2) CFBFFX;O;PHI;Bryson Stott;Sandy Alcantara;-2%;48%;Lineout: CF (Deep CF)
+t2;0-0;1;---;3,(0-2) FFS;O;PHI;Trea Turner;Sandy Alcantara;-2%;46%;Strikeout Swinging
+t2;0-0;2;---;1,(0-0) X;O;PHI;Brandon Marsh;Sandy Alcantara;-1%;45%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Marlins 0.
+Bottom of the 2nd, Marlins Batting, Tied 0-0, Phillies' Ranger Suárez facing 7-8-9 
+b2;0-0;0;---;3,(1-1) BFX;;MIA;Yuli Gurriel;Ranger Suárez;-4%;41%;Single to 3B (Ground Ball)
+b2;0-0;0;1--;4,(0-2) CFFS;O;MIA;Joey Wendle;Ranger Suárez;3%;45%;Strikeout Swinging
+b2;0-0;1;1--;3,(0-2) FFX;OO;MIA;Jacob Stallings;Ranger Suárez;5%;50%;Ground Ball Double Play: C-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Phillies 0, Marlins 0.
+Top of the 3rd, Phillies Batting, Tied 0-0, Marlins' Sandy Alcantara facing 8-9-1 
+t3;0-0;0;---;2,(0-1) CX;O;PHI;Garrett Stubbs;Sandy Alcantara;-3%;47%;Groundout: 1B unassisted
+t3;0-0;1;---;2,(0-1) CX;O;PHI;Johan Rojas;Sandy Alcantara;-2%;46%;Flyball: RF (Short RF Line)
+t3;0-0;2;---;5,(3-1) CBBBB;;PHI;Kyle Schwarber;Sandy Alcantara;1%;47%;Walk
+t3;0-0;2;1--;4,(0-2) CFFX;O;PHI;Alec Bohm;Sandy Alcantara;-3%;44%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Phillies 0, Marlins 0.
+Bottom of the 3rd, Marlins Batting, Tied 0-0, Phillies' Ranger Suárez facing 1-2-3 
+b3;0-0;0;---;3,(1-1) BCX;;MIA;Luis Arraez;Ranger Suárez;-4%;41%;Single to RF (Line Drive)
+b3;0-0;0;1--;2,(1-0) *BX;O;MIA;Jorge Soler;Ranger Suárez;4%;44%;Flyball: CF (Deep CF)
+b3;0-0;1;1--;2,(0-1) SX;;MIA;Bryan De La Cruz;Ranger Suárez;-4%;40%;Single to LF (Ground Ball); Arraez to 2B
+b3;0-0;1;12-;3,(1-1) F*BX;R;MIA;Avisaíl García;Ranger Suárez;-15%;25%;Double to RF (Ground Ball); Arraez Scores; De La Cruz to 3B
+b3;1-0;1;-23;4,(1-2) FBFS;O;MIA;Jesús Sánchez;Ranger Suárez;7%;32%;Strikeout Swinging
+b3;1-0;2;-23;2,(1-0) BX;O;MIA;Jon Berti;Ranger Suárez;5%;38%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Phillies 0, Marlins 1.
+Top of the 4th, Phillies Batting, Behind 0-1, Marlins' Sandy Alcantara facing 3-4-5 
+t4;0-1;0;---;4,(2-1) BSBX;;PHI;Bryce Harper;Sandy Alcantara;5%;42%;Single to RF (Line Drive)
+t4;0-1;0;1--;7,(1-2) BCF1FFFX;OO;PHI;Nick Castellanos;Sandy Alcantara;-10%;33%;Ground Ball Double Play: 2B-SS-1B
+t4;0-1;2;---;2,(0-1) CX;O;PHI;Bryson Stott;Sandy Alcantara;-1%;31%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Phillies 0, Marlins 1.
+Bottom of the 4th, Marlins Batting, Ahead 1-0, Phillies' Ranger Suárez facing 7-8-9 
+b4;1-0;0;---;4,(1-2) CBCX;;MIA;Yuli Gurriel;Ranger Suárez;-3%;28%;Single to LF (Line Drive)
+b4;1-0;0;1--;2,(0-1) CX;OO;MIA;Joey Wendle;Ranger Suárez;7%;35%;Ground Ball Double Play: 2B-SS-1B
+b4;1-0;2;---;1,(0-0) X;O;MIA;Jacob Stallings;Ranger Suárez;1%;36%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Phillies 0, Marlins 1.
+Top of the 5th, Phillies Batting, Behind 0-1, Marlins' Sandy Alcantara facing 6-7-8 
+t5;0-1;0;---;4,(1-2) FBSC;O;PHI;Trea Turner;Sandy Alcantara;-3%;33%;Strikeout Looking
+t5;0-1;1;---;5,(2-2) BCBFT;O;PHI;Brandon Marsh;Sandy Alcantara;-2%;31%;Strikeout Swinging
+t5;0-1;2;---;4,(1-2) BCFX;;PHI;Garrett Stubbs;Sandy Alcantara;3%;34%;Double to LF (Ground Ball)
+t5;0-1;2;-2-;5,(2-2) BBFFX;O;PHI;Johan Rojas;Sandy Alcantara;-5%;29%;Groundout: P-1B (Weak 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 0, Marlins 1.
+Bottom of the 5th, Marlins Batting, Ahead 1-0, Phillies' Ranger Suárez facing 1-2-3 
+b5;1-0;0;---;1,(0-0) X;O;MIA;Luis Arraez;Ranger Suárez;2%;31%;Lineout: LF (LF-CF)
+b5;1-0;1;---;4,(2-1) CBBX;O;MIA;Jorge Soler;Ranger Suárez;2%;33%;Flyball: CF (Deep CF-RF)
+b5;1-0;2;---;3,(0-2) CSX;O;MIA;Bryan De La Cruz;Ranger Suárez;1%;34%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Marlins 1.
+Top of the 6th, Phillies Batting, Behind 0-1, Marlins' Sandy Alcantara facing 1-2-3 
+t6;0-1;0;---;2,(0-1) .CX;O;PHI;Kyle Schwarber;Sandy Alcantara;-4%;30%;Popfly: 2B (2B-1B)
+t6;0-1;1;---;5,(1-2) FCBFX;O;PHI;Alec Bohm;Sandy Alcantara;-3%;28%;Groundout: P-2B-1B (Weak SS-2B)
+t6;0-1;2;---;6,(1-2) FFFFBS;O;PHI;Bryce Harper;Sandy Alcantara;-2%;26%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Marlins 1.
+Bottom of the 6th, Marlins Batting, Ahead 1-0, Phillies' Ranger Suárez facing 4-5-6 
+b6;1-0;0;---;5,(2-2) BSBSX;;MIA;Avisaíl García;Ranger Suárez;-3%;23%;Single to RF (Ground Ball)
+b6;1-0;0;1--;1,(0-0) X;O;MIA;Jesús Sánchez;Ranger Suárez;1%;24%;Bunt Groundout: P-1B/Sacrifice (Short 1B Line); García to 2B
+b6;1-0;1;-2-;2,(0-1) FX;O;MIA;Jon Berti;Ranger Suárez;3%;27%;Groundout: 1B unassisted; García to 3B
+b6;1-0;2;--3;8,(3-2) BCCBFBFB;;MIA;Yuli Gurriel;Ranger Suárez;-1%;26%;Walk
+b6;1-0;2;1-3;1,(0-0) X;O;MIA;Joey Wendle;Ranger Suárez;5%;31%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Phillies 0, Marlins 1.
+Top of the 7th, Phillies Batting, Behind 0-1, Marlins' Sandy Alcantara facing 4-5-6 
+t7;0-1;0;---;3,(1-1) SBX;O;PHI;Nick Castellanos;Sandy Alcantara;-4%;26%;Groundout: 3B-1B (SS-3B Hole)
+t7;0-1;1;---;5,(3-1) BBBCX;O;PHI;Bryson Stott;Sandy Alcantara;-3%;23%;Flyball: LF (Deep LF)
+t7;0-1;2;---;2,(0-1) FX;O;PHI;Trea Turner;Sandy Alcantara;-2%;21%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Marlins 1.
+Bottom of the 7th, Marlins Batting, Ahead 1-0, Phillies' Ranger Suárez facing 9-1-2 
+b7;1-0;0;---;7,(3-2) BBCC.BFB;;MIA;Jacob Stallings;Ranger Suárez;-3%;18%;Walk
+b7;1-0;0;1--;2,(0-1) CX;O;MIA;Luis Arraez;Ranger Suárez;-2%;16%;Double to RF (Line Drive to RF Line); Stallings out at Hm/RF-2B-C; Arraez to 3B
+;;;;;;;;;Tag play Challenged by MIA manager (Skip Schumaker): Original call upheld upon review.
+;;;;;;;;;Yunior Marte replaces Ranger Suárez pitching
+b7;1-0;1;--3;5,(3-1) .BBBFB;;MIA;Jorge Soler;Yunior Marte;-1%;15%;Walk
+b7;1-0;1;1-3;5,(3-1) BBSBB;;MIA;Bryan De La Cruz;Yunior Marte;-2%;14%;Walk; Soler to 2B
+b7;1-0;1;123;1,(0-0) X;O;MIA;Avisaíl García;Yunior Marte;6%;20%;Popfly: SS (SS-3B Hole)
+b7;1-0;2;123;3,(0-2) CFX;O;MIA;Jesús Sánchez;Yunior Marte;6%;26%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Phillies 0, Marlins 1.
+Top of the 8th, Phillies Batting, Behind 0-1, Marlins' Sandy Alcantara facing 7-8-9 
+t8;0-1;0;---;5,(0-2) CFFFX;O;PHI;Brandon Marsh;Sandy Alcantara;-6%;20%;Groundout: 1B unassisted
+t8;0-1;1;---;3,(1-1) SBX;O;PHI;Garrett Stubbs;Sandy Alcantara;-4%;16%;Groundout: 1B-P (2B-1B)
+t8;0-1;2;---;3,(0-2) FSS;O;PHI;Johan Rojas;Sandy Alcantara;-3%;13%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Marlins 1.
+Bottom of the 8th, Marlins Batting, Ahead 1-0, Phillies' Gregory Soto facing 6-7-8 
+;;;;;;;;;Gregory Soto replaces Yunior Marte pitching
+b8;1-0;0;---;6,(3-2) .FBS.BBX;;MIA;Jon Berti;Gregory Soto;-2%;11%;Single to 3B (Ground Ball to Weak 3B)
+b8;1-0;0;1--;3,(0-2) CSB;;MIA;Yuli Gurriel;Gregory Soto;-2%;10%;Wild Pitch; Berti to 2B
+b8;1-0;0;-2-;4,(1-2) CSB.S;O;MIA;Yuli Gurriel;Gregory Soto;3%;12%;Strikeout Swinging
+b8;1-0;1;-2-;2,(0-1) CX;O;MIA;Joey Wendle;Gregory Soto;2%;14%;Groundout: P-1B (Front of Home)
+b8;1-0;2;-2-;1,(0-0) X;O;MIA;Jacob Stallings;Gregory Soto;2%;17%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 0, Marlins 1.
+Top of the 9th, Phillies Batting, Behind 0-1, Marlins' David Robertson facing 1-2-3 
+;;;;;;;;;David Robertson replaces Sandy Alcantara pitchingGarrett Hampson replaces Jesús Sánchez playing CF batting 5th
+t9;0-1;0;---;7,(3-2) ..BBCFBFB;;PHI;Kyle Schwarber;David Robertson;12%;28%;Walk
+;;;;;;;;;Jake Cave pinch runs for Kyle Schwarber (DH) batting 1st
+t9;0-1;0;1--;7,(3-2) .1STB*BFBS;O;PHI;Alec Bohm;David Robertson;-11%;17%;Strikeout Swinging
+t9;0-1;1;1--;3,(1-1) F*BX;R;PHI;Bryce Harper;David Robertson;38%;56%;Double to LF (Line Drive to Deep LF); Cave Scores
+t9;1-1;1;-2-;3,(0-2) SF.X;RR;PHI;Nick Castellanos;David Robertson;36%;92%;Home Run (Fly Ball to Deep LF); Harper Scores
+t9;3-1;1;---;1,(0-0) X;O;PHI;Bryson Stott;David Robertson;-1%;91%;Flyball: LF (Deep LF Line)
+t9;3-1;2;---;3,(1-1) BFX;O;PHI;Trea Turner;David Robertson;0%;91%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Phillies 3, Marlins 1.
+Bottom of the 9th, Marlins Batting, Behind 1-3, Phillies' Seranthony Domínguez facing 1-2-3 
+;;;;;;;;;Seranthony Domínguez replaces Gregory Soto pitching
+b9;1-3;0;---;3,(1-1) ..BCX;O;MIA;Luis Arraez;Seranthony Domínguez;5%;95%;Flyball: LF (Short LF-CF)
+b9;1-3;1;---;2,(0-1) SX;O;MIA;Jorge Soler;Seranthony Domínguez;3%;98%;Popfly: SS
+b9;1-3;2;---;5,(1-2) FFBFS;O;MIA;Bryan De La Cruz;Seranthony Domínguez;2%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 3, Marlins 1.

@@ -1,0 +1,278 @@
+
+Scorebox Meta
+20230620
+6:40 p.m. Local
+22650
+Target Field
+157
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;0;0;0;2;0;1;5;2;0;10;15;0
+https://cdn.ssref.net/req/202308101/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;0;0;0;0;0;0;0;2;2;4;11;0
+
+Batting home
+Edouard Julien;/players/j/julieed01.shtml;2B;5;1;1;0;0;1;5;.245;.333;.436;.770;25;15;-0.131; 0.81;0.000;-0.131;-0.07%; 0.73; -1.0;1;4;
+Carlos Correa;/players/c/correca01.shtml;SS;3;0;1;0;0;2;3;.219;.301;.409;.711;12;8;-0.042; 1.09;0.022;-0.064;-0.02%; 0.98; -0.3;0;0;
+Kyle Farmer;/players/f/farmeky01.shtml;SS-LF;2;0;0;0;0;1;2;.263;.325;.380;.704;8;6;-0.001; 0.02;0.000;-0.001;-0.00%; 0.02; -0.7;0;0;
+Alex Kirilloff;/players/k/kirilal01.shtml;1B;2;0;0;0;0;1;2;.264;.378;.416;.794;9;5;-0.059; 1.12;0.000;-0.059;-0.03%; 1.01; -0.6;8;0;
+Donovan Solano;/players/s/solando01.shtml;PH-1B-3B;2;0;0;0;0;1;2;.278;.371;.386;.758;6;5;-0.028; 0.54;0.000;-0.028;-0.01%; 0.49; -0.5;1;0;
+Byron Buxton;/players/b/buxtoby01.shtml;DH;3;1;2;2;1;0;4;.209;.313;.428;.741;12;7;0.039; 0.69;0.069;-0.029; 0.02%; 0.62; 2.3;;;HR
+Christian Vázquez;/players/v/vazquch01.shtml;1B;0;0;0;0;0;0;0;.224;.299;.286;.584;;;;;;;;;;1;0;
+Joey Gallo;/players/g/gallojo01.shtml;LF-CF;4;0;0;0;0;3;4;.188;.312;.450;.762;15;10;-0.090; 0.93;0.000;-0.090;-0.05%; 0.84; -0.9;3;0;
+Royce Lewis;/players/l/lewisro02.shtml;3B-SS;4;1;3;1;0;0;4;.311;.333;.475;.809;10;8;0.028; 0.65;0.053;-0.025; 0.01%; 0.58; 1.3;1;1;HR
+Max Kepler;/players/k/keplema01.shtml;RF;3;1;1;1;1;0;4;.192;.266;.384;.650;19;10;-0.114; 0.78;0.006;-0.119;-0.06%; 0.70; 0.2;3;0;HR,GDP
+Ryan Jeffers;/players/j/jeffery01.shtml;C;4;0;3;0;0;0;4;.245;.365;.406;.771;17;12;0.118; 0.65;0.125;-0.007; 0.06%; 0.58; 0.6;4;1;2B,GDP
+Willi Castro;/players/c/castrwi01.shtml;CF-P;4;0;0;0;0;0;4;.252;.308;.400;.708;10;7;-0.069; 0.89;0.000;-0.069;-0.04%; 0.81; -1.0;5;0;
+Bailey Ober;/players/o/oberba01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Brent Headrick;/players/h/headrbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Oliver Ortega;/players/o/ortegol01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ryan Jeffers (6, off Kutter Crawford).
+
+
+HR: Byron Buxton (11, off Corey Kluber, 8th inn, 1 on, 2 outs to Deep LF); Royce Lewis (3, off Corey Kluber, 9th inn, 0 on, 0 outs to Deep LF-CF); Max Kepler (8, off Corey Kluber, 9th inn, 0 on, 0 outs to Deep CF-RF).
+
+
+TB: Royce Lewis 6; Byron Buxton 5; Max Kepler 4; Ryan Jeffers 4; Edouard Julien; Carlos Correa.
+
+
+GIDP: Ryan Jeffers (4); Max Kepler (4).
+
+
+RBI: Byron Buxton 2 (25); Royce Lewis (11); Max Kepler (19).
+
+
+2-out RBI: Byron Buxton 2.
+
+
+Team LOB: 7.
+With RISP: 0 for 6.
+
+Batting away
+Alex Verdugo;/players/v/verdual01.shtml;RF;5;1;1;0;0;0;5;.301;.374;.462;.836;23;14;-0.048; 0.56;0.014;-0.062;-0.02%; 0.39; -0.7;1;0;
+Justin Turner;/players/t/turneju01.shtml;DH;3;2;2;1;1;1;5;.281;.360;.453;.813;17;9;0.083; 0.51;0.101;-0.018; 0.03%; 0.36; 2.2;;;2B,HBP
+Rafael Devers;/players/d/deverra01.shtml;3B;4;1;0;0;0;1;5;.238;.304;.484;.787;18;10;-0.055; 0.50;0.005;-0.060;-0.02%; 0.35; -0.6;4;1;HBP
+Masataka Yoshida;/players/y/yoshima02.shtml;LF;5;3;3;3;0;1;5;.308;.379;.488;.867;17;11;-0.022; 0.63;0.037;-0.060;-0.01%; 0.44; 2.2;2;0;HR
+Adam Duvall;/players/d/duvalad01.shtml;CF;5;1;1;1;0;1;5;.313;.395;.672;1.066;19;15;0.072; 0.60;0.127;-0.055; 0.03%; 0.42; -0.4;0;0;HR
+Triston Casas;/players/c/casastr01.shtml;1B;5;1;1;0;0;1;5;.215;.332;.390;.722;19;14;-0.049; 0.49;0.007;-0.056;-0.02%; 0.35; -0.1;8;0;
+Christian Arroyo;/players/a/arroych01.shtml;2B;5;1;5;4;0;0;5;.256;.296;.419;.715;21;15;0.165; 0.36;0.165;0.000; 0.07%; 0.26; 3.9;1;2;HR,2B
+Connor Wong;/players/w/wongco01.shtml;C;4;0;2;1;1;0;5;.245;.314;.447;.761;11;5;0.098; 0.52;0.108;-0.009; 0.04%; 0.37; 1.0;9;1;
+Enrique Hernández;/players/h/hernaen02.shtml;SS;5;0;0;0;0;0;5;.229;.292;.352;.644;16;9;-0.092; 0.68;0.000;-0.092;-0.04%; 0.48; -2.2;2;2;GDP
+Kutter Crawford;/players/c/crawfku01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Brennan Bernardino;/players/b/bernabr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Corey Kluber;/players/k/klubeco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Justin Turner (16, off Brent Headrick); Christian Arroyo (10, off Brent Headrick).
+
+
+HR: Adam Duvall (5, off Bailey Ober, 4th inn, 0 on, 1 out to Deep CF); Christian Arroyo (3, off Bailey Ober, 4th inn, 0 on, 2 outs to Deep LF); Masataka Yoshida (8, off Oliver Ortega, 8th inn, 1 on, 1 out to Deep CF-RF).
+
+
+HBP: Justin Turner (5, by Bailey Ober); Rafael Devers (4, by Brent Headrick).
+
+
+TB: Christian Arroyo 9; Masataka Yoshida 6; Adam Duvall 4; Justin Turner 3; Connor Wong 2; Alex Verdugo; Triston Casas.
+
+
+GIDP: Enrique Hernández (10).
+
+
+RBI: Christian Arroyo 4 (17); Masataka Yoshida 3 (39); Connor Wong (18); Adam Duvall (17); Justin Turner (38).
+
+
+2-out RBI: Connor Wong; Christian Arroyo.
+
+
+Team LOB: 8.
+With RISP: 4 for 10.
+
+Pitching home
+Bailey Ober;/players/o/oberba01.shtml; L (4-4); 6 ;8;3;3;0;4;2;2.83;27;95;63;42;8;13;8;14;1;0;48;;;-0.050; 0.80;-0.03%; 0.73; 0.1
+Brent Headrick;/players/h/headrbr01.shtml;Brent Headrick; 1 ;5;5;5;1;0;0;6.17;10;41;26;17;3;6;2;6;3;0;;0;0;-0.102; 0.23;-0.06%; 0.21; -4.5
+Oliver Ortega;/players/o/ortegol01.shtml;Oliver Ortega; 1 ;1;2;2;1;1;1;18.00;5;16;9;6;2;1;0;3;0;0;;0;0;-0.001; 0.01;-0.00%; 0.01; -1.5
+Willi Castro;/players/c/castrwi01.shtml;Willi Castro; 1 ;1;0;0;0;0;0;0.00;3;9;4;4;0;0;2;1;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+Pitching away
+Kutter Crawford;/players/c/crawfku01.shtml; W (2-3); 5 ;6;0;0;0;5;0;3.74;20;77;50;26;9;15;8;7;1;0;60;;;0.287; 1.21; 0.12%; 0.85; 2.6
+Brennan Bernardino;/players/b/bernabr01.shtml; H (1); 1 ;0;0;0;1;2;0;2.53;4;18;9;3;3;3;0;1;0;0;;0;0;0.057; 1.02; 0.02%; 0.72; 0.5
+Corey Kluber;/players/k/klubeco01.shtml; S (1); 3 ;5;4;4;1;2;3;7.04;14;48;34;20;6;8;4;7;0;0;;0;0;0.004; 0.06; 0.00%; 0.04; -2.4
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Brent Headrick (1; Rafael Devers); Bailey Ober (2; Justin Turner).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Brent Headrick (1; Rafael Devers); Bailey Ober (2; Justin Turner).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Nate Tomlinson, 1B - David Rackley, 2B - Chris Guccione, 3B - Edwin Moscoso, LF - (none), RF - (none).
+Time of Game: 2:37.
+Attendance: 22,650.
+Field Condition: Unknown.
+Start Time Weather: 89° F, Wind 12mph in from Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Red Sox
+1;Alex Verdugo;/players/v/verdual01.shtml;RF
+2;Justin Turner;/players/t/turneju01.shtml;DH
+3;Rafael Devers;/players/d/deverra01.shtml;3B
+4;Masataka Yoshida;/players/y/yoshima02.shtml;LF
+5;Adam Duvall;/players/d/duvalad01.shtml;CF
+6;Triston Casas;/players/c/casastr01.shtml;1B
+7;Christian Arroyo;/players/a/arroych01.shtml;2B
+8;Connor Wong;/players/w/wongco01.shtml;C
+9;Enrique Hernández;/players/h/hernaen02.shtml;SS
+; Kutter Crawford;/players/c/crawfku01.shtml;P
+Twins
+1;Edouard Julien;/players/j/julieed01.shtml;2B
+2;Carlos Correa;/players/c/correca01.shtml;SS
+3;Alex Kirilloff;/players/k/kirilal01.shtml;1B
+4;Byron Buxton;/players/b/buxtoby01.shtml;DH
+5;Joey Gallo;/players/g/gallojo01.shtml;LF
+6;Royce Lewis;/players/l/lewisro02.shtml;3B
+7;Max Kepler;/players/k/keplema01.shtml;RF
+8;Ryan Jeffers;/players/j/jeffery01.shtml;C
+9;Willi Castro;/players/c/castrwi01.shtml;CF
+; Bailey Ober;/players/o/oberba01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t4;0-0;1;---;3,(1-1) BCX;R;BOS;Adam Duvall;Bailey Ober;13%;60%;Home Run (Fly Ball to Deep CF)
+t4;1-0;2;---;5,(2-2) BFFBX;R;BOS;Christian Arroyo;Bailey Ober;11%;70%;Home Run (Fly Ball to Deep LF)
+b2;0-0;1;12-;7,(3-2) BFBFFB.X;OO;MIN;Max Kepler;Kutter Crawford;9%;50%;Ground Ball Double Play: C-SS-1B
+b5;0-2;0;---;4,(2-1) BCBX;;MIN;Ryan Jeffers;Kutter Crawford;-8%;63%;Double to LF (Fly Ball to Deep LF-CF)
+t6;2-0;2;1-3;1,(0-0) X;R;BOS;Connor Wong;Bailey Ober;8%;86%;Single to RF (Ground Ball thru 2B-1B); Yoshida Scores; Arroyo to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Red Sox Batting, Tied 0-0, Twins' Bailey Ober facing 1-2-3 
+t1;0-0;0;---;3,(1-1) BCX;O;BOS;Alex Verdugo;Bailey Ober;-2%;48%;Groundout: 2B-1B (2B-1B)
+t1;0-0;1;---;3,(1-1) BCX;;BOS;Justin Turner;Bailey Ober;2%;50%;Single to LF (Fly Ball to Short LF-CF)
+t1;0-0;1;1--;3,(1-1) FBX;O;BOS;Rafael Devers;Bailey Ober;-3%;47%;Flyball: CF (Deep CF)
+t1;0-0;2;1--;2,(0-1) CB;;BOS;Masataka Yoshida;Bailey Ober;1%;48%;Passed Ball; Turner to 2B
+t1;0-0;2;-2-;4,(1-2) CB.CS;O;BOS;Masataka Yoshida;Bailey Ober;-3%;45%;Strikeout Swinging; Yoshida out at 1B/C-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 0, Twins 0.
+Bottom of the 1st, Twins Batting, Tied 0-0, Red Sox' Kutter Crawford facing 1-2-3 
+b1;0-0;0;---;6,(3-2) CBFBB.X;O;MIN;Edouard Julien;Kutter Crawford;2%;47%;Groundout: P-2B-1B
+b1;0-0;1;---;4,(1-2) CSBS;O;MIN;Carlos Correa;Kutter Crawford;2%;49%;Strikeout Swinging
+b1;0-0;2;---;6,(3-2) FBS.BBS;O;MIN;Alex Kirilloff;Kutter Crawford;1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Twins 0.
+Top of the 2nd, Red Sox Batting, Tied 0-0, Twins' Bailey Ober facing 5-6-7 
+t2;0-0;0;---;3,(0-2) CCS;O;BOS;Adam Duvall;Bailey Ober;-2%;48%;Strikeout Swinging
+t2;0-0;1;---;2,(0-1) CX;O;BOS;Triston Casas;Bailey Ober;-2%;46%;Flyball: RF
+t2;0-0;2;---;5,(1-2) FT.FBX;;BOS;Christian Arroyo;Bailey Ober;1%;47%;Single to LF (Fly Ball to Short LF)
+t2;0-0;2;1--;1,(0-0) X;;BOS;Connor Wong;Bailey Ober;3%;50%;Single to LF (Line Drive to Deep LF-CF); Arroyo to 3B
+t2;0-0;2;1-3;3,(1-1) BSX;O;BOS;Enrique Hernández;Bailey Ober;-5%;45%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Red Sox 0, Twins 0.
+Bottom of the 2nd, Twins Batting, Tied 0-0, Red Sox' Kutter Crawford facing 4-5-6 
+b2;0-0;0;---;5,(1-2) CFBFX;;MIN;Byron Buxton;Kutter Crawford;-4%;41%;Single to LF (Ground Ball thru SS-3B Hole)
+b2;0-0;0;1--;2,(1-0) BX;O;MIN;Joey Gallo;Kutter Crawford;3%;45%;Popfly: 3B (Weak 3B)
+b2;0-0;1;1--;2,(0-1) CX;;MIN;Royce Lewis;Kutter Crawford;-4%;41%;Single to LF (Line Drive to LF Line); Buxton to 2B
+b2;0-0;1;12-;7,(3-2) BFBFFB.X;OO;MIN;Max Kepler;Kutter Crawford;9%;50%;Ground Ball Double Play: C-SS-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Red Sox 0, Twins 0.
+Top of the 3rd, Red Sox Batting, Tied 0-0, Twins' Bailey Ober facing 1-2-3 
+t3;0-0;0;---;6,(3-2) BCBBFX;O;BOS;Alex Verdugo;Bailey Ober;-3%;47%;Flyball: CF (Deep CF)
+t3;0-0;1;---;4,(1-2) BFSS;O;BOS;Justin Turner;Bailey Ober;-2%;46%;Strikeout Swinging
+t3;0-0;2;---;6,(3-2) CBBSBS;O;BOS;Rafael Devers;Bailey Ober;-1%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Twins 0.
+Bottom of the 3rd, Twins Batting, Tied 0-0, Red Sox' Kutter Crawford facing 8-9-1 
+b3;0-0;0;---;4,(1-2) SSBX;;MIN;Ryan Jeffers;Kutter Crawford;-4%;41%;Single to LF (Ground Ball thru SS-3B Hole)
+b3;0-0;0;1--;6,(2-2) CBBC.FX;O;MIN;Willi Castro;Kutter Crawford;4%;44%;Foul Popfly: 3B
+b3;0-0;1;1--;2,(0-1) CX;O;MIN;Edouard Julien;Kutter Crawford;3%;47%;Popfly: SS (Deep SS-3B Hole)
+b3;0-0;2;1--;3,(1-1) CBX;;MIN;Carlos Correa;Kutter Crawford;-2%;45%;Single to LF (Ground Ball); Jeffers to 2B
+b3;0-0;2;12-;3,(1-1) CBX;O;MIN;Alex Kirilloff;Kutter Crawford;5%;50%;Groundout: SS-1B (Deep SS)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Red Sox 0, Twins 0.
+Top of the 4th, Red Sox Batting, Tied 0-0, Twins' Bailey Ober facing 4-5-6 
+t4;0-0;0;---;2,(1-0) BX;O;BOS;Masataka Yoshida;Bailey Ober;-3%;47%;Groundout: P-1B
+t4;0-0;1;---;3,(1-1) BCX;R;BOS;Adam Duvall;Bailey Ober;13%;60%;Home Run (Fly Ball to Deep CF)
+t4;1-0;1;---;3,(1-1) FBX;O;BOS;Triston Casas;Bailey Ober;-2%;58%;Groundout: 2B-1B (2B-1B)
+t4;1-0;2;---;5,(2-2) BFFBX;R;BOS;Christian Arroyo;Bailey Ober;11%;70%;Home Run (Fly Ball to Deep LF)
+t4;2-0;2;---;2,(1-0) BX;O;BOS;Connor Wong;Bailey Ober;-1%;69%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Red Sox 2, Twins 0.
+Bottom of the 4th, Twins Batting, Behind 0-2, Red Sox' Kutter Crawford facing 4-5-6 
+b4;0-2;0;---;1,(0-0) X;O;MIN;Byron Buxton;Kutter Crawford;3%;72%;Foul Popfly: 3B (3B into Foul Terr.)
+b4;0-2;1;---;4,(1-2) .CBSS;O;MIN;Joey Gallo;Kutter Crawford;2%;74%;Strikeout Swinging
+b4;0-2;2;---;3,(1-1) BCX;;MIN;Royce Lewis;Kutter Crawford;-2%;72%;Single to CF (Ground Ball thru SS-2B)
+b4;0-2;2;1--;3,(1-1) BFX;O;MIN;Max Kepler;Kutter Crawford;3%;75%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 2, Twins 0.
+Top of the 5th, Red Sox Batting, Ahead 2-0, Twins' Bailey Ober facing 9-1-2 
+t5;2-0;0;---;6,(3-2) FBFBBX;O;BOS;Enrique Hernández;Bailey Ober;-2%;73%;Flyball: CF (Deep CF)
+t5;2-0;1;---;5,(2-2) CFBBX;O;BOS;Alex Verdugo;Bailey Ober;-1%;72%;Groundout: 1B unassisted
+t5;2-0;2;---;3,(1-1) SBH;;BOS;Justin Turner;Bailey Ober;1%;73%;Hit By Pitch
+t5;2-0;2;1--;1,(0-0) X;O;BOS;Rafael Devers;Bailey Ober;-2%;71%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Red Sox 2, Twins 0.
+Bottom of the 5th, Twins Batting, Behind 0-2, Red Sox' Kutter Crawford facing 8-9-1 
+b5;0-2;0;---;4,(2-1) BCBX;;MIN;Ryan Jeffers;Kutter Crawford;-8%;63%;Double to LF (Fly Ball to Deep LF-CF)
+b5;0-2;0;-2-;2,(1-0) *BX;O;MIN;Willi Castro;Kutter Crawford;3%;66%;Groundout: 1B unassisted; Jeffers to 3B
+b5;0-2;1;--3;5,(2-2) CBBCS;O;MIN;Edouard Julien;Kutter Crawford;8%;73%;Strikeout Swinging
+b5;0-2;2;--3;5,(2-2) FBCBT;O;MIN;Carlos Correa;Kutter Crawford;5%;78%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 2, Twins 0.
+Top of the 6th, Red Sox Batting, Ahead 2-0, Twins' Bailey Ober facing 4-5-6 
+t6;2-0;0;---;5,(3-1) BCBBX;;BOS;Masataka Yoshida;Bailey Ober;3%;80%;Single to LF (Ground Ball)
+t6;2-0;0;1--;6,(2-2) BFFBFX;O;BOS;Adam Duvall;Bailey Ober;-2%;78%;Flyball: LF
+t6;2-0;1;1--;3,(0-2) CFX;O;BOS;Triston Casas;Bailey Ober;-2%;76%;Flyball: CF (Short LF-CF)
+t6;2-0;2;1--;6,(1-2) FFB1>FF>X;;BOS;Christian Arroyo;Bailey Ober;2%;78%;Single to RF (Ground Ball thru 2B-1B); Yoshida to 3B
+t6;2-0;2;1-3;1,(0-0) X;R;BOS;Connor Wong;Bailey Ober;8%;86%;Single to RF (Ground Ball thru 2B-1B); Yoshida Scores; Arroyo to 2B
+t6;3-0;2;12-;1,(0-0) X;O;BOS;Enrique Hernández;Bailey Ober;-2%;84%;Foul Popfly: 1B
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Red Sox 3, Twins 0.
+Bottom of the 6th, Twins Batting, Behind 0-3, Red Sox' Brennan Bernardino facing 3-4-5 
+;;;;;;;;;Brennan Bernardino replaces Kutter Crawford pitchingDonovan Solano pinch hits for Alex Kirilloff (1B) batting 3rd
+b6;0-3;0;---;4,(1-2) ..CBTS;O;MIN;Donovan Solano;Brennan Bernardino;3%;86%;Strikeout Swinging
+b6;0-3;1;---;5,(3-1) BSBBB;;MIN;Byron Buxton;Brennan Bernardino;-3%;83%;Walk
+b6;0-3;1;1--;6,(3-2) CB1FBBC;O;MIN;Joey Gallo;Brennan Bernardino;3%;87%;Strikeout Looking
+b6;0-3;2;1--;3,(1-1) SBX;O;MIN;Royce Lewis;Brennan Bernardino;3%;89%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Red Sox 3, Twins 0.
+Top of the 7th, Red Sox Batting, Ahead 3-0, Twins' Brent Headrick facing 1-2-3 
+;;;;;;;;;Brent Headrick replaces Bailey Ober pitchingDonovan Solano moves from PH to 1B 
+t7;3-0;0;---;6,(2-2) ..BCBFFX;;BOS;Alex Verdugo;Brent Headrick;1%;91%;Single to LF (Line Drive to LF-CF)
+t7;3-0;0;1--;3,(0-2) FCX;R;BOS;Justin Turner;Brent Headrick;6%;96%;Double to RF (Fly Ball to Deep RF Line); Verdugo Scores; Turner to 3B
+t7;4-0;0;--3;6,(2-2) BCBFFH;;BOS;Rafael Devers;Brent Headrick;0%;97%;Hit By Pitch
+;;;;;;;;;Hit by Pitch Challenged by MIN manager (Rocco Baldelli): Original call upheld upon review.
+t7;4-0;0;1-3;5,(1-2) CS.BFX;R;BOS;Masataka Yoshida;Brent Headrick;1%;98%;Single to P (Ground Ball to Weak 2B); Turner Scores; Devers to 2B
+t7;5-0;0;12-;4,(1-2) BTS.X;O;BOS;Adam Duvall;Brent Headrick;-1%;97%;Flyball: LF (Deep LF-CF)
+t7;5-0;1;12-;5,(2-2) CB*BTX;;BOS;Triston Casas;Brent Headrick;1%;98%;Single to RF (Line Drive); Devers to 3B; Yoshida to 2B
+t7;5-0;1;123;3,(1-1) BSX;RRR;BOS;Christian Arroyo;Brent Headrick;2%;100%;Double to RF (Line Drive to Deep RF Line); Devers Scores; Yoshida Scores; Casas Scores
+t7;8-0;1;-2-;5,(3-1) FB*BBB;;BOS;Connor Wong;Brent Headrick;0%;100%;Walk
+t7;8-0;1;12-;1,(0-0) X;O;BOS;Enrique Hernández;Brent Headrick;0%;100%;Flyball: RF (Short CF-RF)
+t7;8-0;2;12-;3,(1-1) C*BX;O;BOS;Alex Verdugo;Brent Headrick;0%;99%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;5 runs, 5 hits, 0 errors, 2 LOB. Red Sox 8, Twins 0.
+Bottom of the 7th, Twins Batting, Behind 0-8, Red Sox' Corey Kluber facing 7-8-9 
+;;;;;;;;;Corey Kluber replaces Brennan Bernardino pitching
+b7;0-8;0;---;6,(3-2) .BCBFBB;;MIN;Max Kepler;Corey Kluber;0%;99%;Walk
+b7;0-8;0;1--;4,(2-1) BCBX;OO;MIN;Ryan Jeffers;Corey Kluber;1%;100%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b7;0-8;2;---;1,(0-0) X;O;MIN;Willi Castro;Corey Kluber;0%;100%;Foul Popfly: 3B (3B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 8, Twins 0.
+Top of the 8th, Red Sox Batting, Ahead 8-0, Twins' Oliver Ortega facing 2-3-4 
+;;;;;;;;;Oliver Ortega replaces Brent Headrick pitchingKyle Farmer replaces Carlos Correa playing SS batting 2nd
+t8;8-0;0;---;4,(3-0) ..BBBB;;BOS;Justin Turner;Oliver Ortega;0%;100%;Walk
+t8;8-0;0;1--;2,(1-0) *BX;O;BOS;Rafael Devers;Oliver Ortega;0%;100%;Flyball: LF (LF Line)
+t8;8-0;1;1--;1,(0-0) X;RR;BOS;Masataka Yoshida;Oliver Ortega;0%;100%;Home Run (Fly Ball to Deep CF-RF); Turner Scores
+t8;10-0;1;---;3,(0-2) CFX;O;BOS;Adam Duvall;Oliver Ortega;0%;100%;Flyball: 2B (Deep SS-2B)
+t8;10-0;2;---;6,(2-2) BBSF.F*S;O;BOS;Triston Casas;Oliver Ortega;0%;100%;Strikeout Swinging
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Red Sox 10, Twins 0.
+Bottom of the 8th, Twins Batting, Behind 0-10, Red Sox' Corey Kluber facing 1-2-3 
+b8;0-10;0;---;5,(2-2) BBSFX;;MIN;Edouard Julien;Corey Kluber;0%;100%;Single to RF (Fly Ball to Deep RF)
+b8;0-10;0;1--;4,(1-2) CSBC;O;MIN;Kyle Farmer;Corey Kluber;0%;100%;Strikeout Looking
+b8;0-10;1;1--;2,(0-1) FX;O;MIN;Donovan Solano;Corey Kluber;0%;100%;Flyball: LF (LF-CF)
+b8;0-10;2;1--;1,(0-0) X;RR;MIN;Byron Buxton;Corey Kluber;0%;100%;Home Run (Fly Ball to Deep LF); Julien Scores
+b8;2-10;2;---;3,(0-2) SCS;O;MIN;Joey Gallo;Corey Kluber;0%;100%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Red Sox 10, Twins 2.
+Top of the 9th, Red Sox Batting, Ahead 10-2, Twins' Willi Castro facing 7-8-9 
+;;;;;;;;;Willi Castro moves from CF to P Christian Vázquez replaces Byron Buxton (DH) playing 1B batting 4thDonovan Solano moves from 1B to 3B Royce Lewis moves from 3B to SS Kyle Farmer moves from SS to LF Joey Gallo moves from LF to CF 
+t9;10-2;0;---;2,(1-0) ......BX;;BOS;Christian Arroyo;Willi Castro;0%;100%;Single to CF (Ground Ball thru SS-2B)
+t9;10-2;0;1--;2,(1-0) BX;O;BOS;Connor Wong;Willi Castro;0%;100%;Flyball: RF
+t9;10-2;1;1--;5,(3-1) BFBBX;OO;BOS;Enrique Hernández;Willi Castro;0%;100%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Red Sox 10, Twins 2.
+Bottom of the 9th, Twins Batting, Behind 2-10, Red Sox' Corey Kluber facing 6-7-8 
+b9;2-10;0;---;2,(0-1) CX;R;MIN;Royce Lewis;Corey Kluber;0%;100%;Home Run (Fly Ball to Deep LF-CF)
+b9;3-10;0;---;3,(1-1) FBX;R;MIN;Max Kepler;Corey Kluber;0%;100%;Home Run (Fly Ball to Deep CF-RF)
+b9;4-10;0;---;5,(0-2) CSFFX;;MIN;Ryan Jeffers;Corey Kluber;0%;99%;Single to 3B (Ground Ball)
+b9;4-10;0;1--;1,(0-0) X;O;MIN;Willi Castro;Corey Kluber;0%;100%;Flyball: RF (Deep RF Line)
+b9;4-10;1;1--;7,(3-2) *BFFBB.FX;O;MIN;Edouard Julien;Corey Kluber;0%;100%;Groundout: 1B unassisted (Weak 1B); Jeffers to 2B
+b9;4-10;2;-2-;4,(1-2) CSBX;O;MIN;Kyle Farmer;Corey Kluber;0%;100%;Groundout: P-1B (Front of Home)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Red Sox 10, Twins 4.

@@ -1,0 +1,257 @@
+
+Scorebox Meta
+20230619
+6:40 p.m. Local
+18438
+Comerica Park
+140
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/KCR-2023.png;/teams/KCR/2023.shtml;0;0;0;3;1;0;0;0;0;4;7;0
+https://cdn.ssref.net/req/202308101/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;0;0;0;0;1;0;5;0;X;6;8;1
+
+Batting home
+Zach McKinstry;/players/m/mckinza01.shtml;CF-LF;3;1;1;1;1;0;4;.247;.339;.376;.716;12;7;0.105; 1.19;0.144;-0.040; 0.03%; 0.55; 1.1;3;0;2B
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;4;0;0;0;0;2;4;.231;.313;.386;.700;17;12;-0.154; 1.59;0.000;-0.154;-0.04%; 0.73; -1.1;5;0;
+Kerry Carpenter;/players/c/carpeke01.shtml;RF;3;1;1;3;1;0;4;.280;.328;.514;.842;27;16;0.487; 1.52;0.539;-0.051; 0.13%; 0.70; 2.3;2;0;HR
+Andy Ibáñez;/players/i/ibanean01.shtml;LF-2B;4;0;1;0;0;0;4;.230;.271;.413;.683;10;8;-0.018; 0.59;0.028;-0.045;-0.01%; 0.27; -0.2;1;1;
+Nick Maton;/players/m/matonni01.shtml;2B;3;0;0;0;1;0;4;.153;.284;.286;.570;15;7;-0.056; 0.71;0.009;-0.065;-0.01%; 0.33; -0.2;2;0;
+Jake Marisnick;/players/m/marisja01.shtml;CF;0;0;0;0;0;0;0;.190;.227;.286;.513;;;;;;;;;;1;0;
+Miguel Cabrera;/players/c/cabremi01.shtml;DH;4;1;2;0;0;1;4;.236;.313;.331;.643;17;12;0.043; 0.73;0.075;-0.032; 0.01%; 0.34; 0.1;;;
+Jonathan Schoop;/players/s/schoojo01.shtml;3B;4;1;1;0;0;1;4;.213;.292;.269;.560;18;12;0.076; 1.06;0.138;-0.063; 0.02%; 0.49; 0.1;0;2;2B,GDP
+Jake Rogers;/players/r/rogerja03.shtml;C;3;2;2;2;0;0;3;.185;.277;.444;.720;11;7;0.124; 1.33;0.148;-0.024; 0.03%; 0.61; 0.9;12;0;
+Zack Short;/players/s/shortza01.shtml;SS;3;0;0;0;0;0;3;.253;.318;.405;.723;11;7;-0.121; 1.69;0.000;-0.121;-0.03%; 0.78; -0.9;1;2;
+Reese Olson;/players/o/olsonre01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tyler Alexander;/players/a/alexaty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Alex Lange;/players/l/langeal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Zach McKinstry (8, off Jordan Lyles); Jonathan Schoop (6, off Jordan Lyles).
+
+
+HR: Kerry Carpenter (6, off Taylor Clarke, 7th inn, 2 on, 2 outs to Deep RF Line).
+
+
+TB: Kerry Carpenter 4; Jonathan Schoop 2; Miguel Cabrera 2; Zach McKinstry 2; Jake Rogers 2; Andy Ibáñez.
+
+
+GIDP: Jonathan Schoop (4).
+
+
+RBI: Kerry Carpenter 3 (13); Jake Rogers 2 (23); Zach McKinstry (14).
+
+
+2-out RBI: Kerry Carpenter 3; Zach McKinstry.
+
+
+Team LOB: 4.
+With RISP: 2 for 4.
+
+Batting away
+Nick Pratto;/players/p/prattni01.shtml;1B;4;1;1;0;0;2;4;.284;.372;.426;.798;16;10;-0.176; 1.16;0.013;-0.188;-0.00%; 0.01; -1.4;6;1;2B,GDP
+Bobby Witt;/players/w/wittbo02.shtml;DH;3;1;2;1;1;0;4;.248;.289;.434;.723;20;10;0.217; 0.73;0.232;-0.016; 0.00%; 0.00; 2.1;;;HR,SB
+Salvador Perez;/players/p/perezsa02.shtml;C;4;0;1;0;0;1;4;.268;.303;.488;.791;13;9;0.049; 0.93;0.095;-0.046;0%; 0.00; 0.0;4;0;
+Dairon Blanco;/players/b/blancda02.shtml;PR-LF;0;0;0;0;0;0;0;.250;.333;.438;.771;;;;;;;;;;0;0;
+MJ Melendez;/players/m/melenmj01.shtml;RF;3;1;0;0;1;3;4;.215;.298;.355;.654;19;11;-0.109; 1.35;0.025;-0.134;0%; 0.01; -0.9;1;0;
+Edward Olivares;/players/o/olivaed02.shtml;LF;4;0;0;0;0;1;4;.254;.312;.429;.741;15;11;-0.130; 1.24;0.000;-0.130;0%; 0.01; -1.1;3;0;
+Freddy Fermin;/players/f/fermifr01.shtml;C;0;0;0;0;0;0;0;.206;.275;.381;.656;;;;;;;;;;0;0;
+Maikel Garcia;/players/g/garcima01.shtml;SS;4;1;1;2;0;1;4;.268;.325;.391;.716;15;11;0.142; 0.74;0.197;-0.055; 0.00%; 0.00; 1.4;2;2;HR
+Nicky Lopez;/players/l/lopezni01.shtml;3B;4;0;1;0;0;1;4;.219;.342;.313;.655;16;10;0.001; 0.64;0.040;-0.039;0%; 0.00; -0.1;2;2;
+Samad Taylor;/players/t/taylosa04.shtml;2B;4;0;0;0;0;2;4;.200;.333;.200;.533;20;13;-0.068; 0.70;0.000;-0.068;0%; 0.00; -0.9;2;2;
+Drew Waters;/players/w/waterdr01.shtml;CF;3;0;1;0;0;1;3;.179;.258;.250;.508;8;8;0.059; 0.62;0.072;-0.014;0%; 0.00; 0.4;3;0;
+Jordan Lyles;/players/l/lylesjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Taylor Clarke;/players/c/clarkta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jose Cuas;/players/c/cuasjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Nick Pratto (11, off Reese Olson).
+
+
+HR: Bobby Witt (12, off Reese Olson, 4th inn, 0 on, 0 outs to Deep LF); Maikel Garcia (2, off Reese Olson, 4th inn, 1 on, 2 outs to Deep LF Line).
+
+
+TB: Bobby Witt 5; Maikel Garcia 4; Nick Pratto 2; Salvador Perez; Drew Waters; Nicky Lopez.
+
+
+GIDP: Nick Pratto (3).
+
+
+RBI: Maikel Garcia 2 (16); Bobby Witt (36).
+
+
+2-out RBI: Maikel Garcia 2.
+
+
+Team LOB: 4.
+With RISP: 1 for 5.
+
+Pitching home
+Reese Olson;/players/o/olsonre01.shtml;Reese Olson; 6 ;6;4;3;1;8;2;5.59;24;100;63;28;15;20;5;10;4;0;53;;;-0.154; 0.73;-0.04%; 0.34; -1.0
+Tyler Alexander;/players/a/alexaty01.shtml; W (2-1); 2 ;1;0;0;1;4;0;4.66;8;30;23;10;2;11;1;2;1;0;;0;0;0.095; 1.42; 0.03%; 0.65; 1.0
+Alex Lange;/players/l/langeal01.shtml; S (11); 1 ;0;0;0;0;0;0;3.99;3;12;7;4;2;1;2;1;1;0;;0;0;0.073; 0.96; 0.02%; 0.44; 0.5
+
+Pitching away
+Jordan Lyles;/players/l/lylesjo01.shtml;Jordan Lyles; 6 ;6;3;3;1;3;0;6.72;25;92;61;39;9;13;8;13;6;0;50;;;0.056; 0.85; 0.00%; 0.00; 0.5
+Taylor Clarke;/players/c/clarkta01.shtml; L (1-1); 1 ;2;3;3;1;1;1;3.66;6;29;18;14;3;1;0;4;1;0;;2;2;-0.556; 2.72;-0.00%; 0.01; -3.0
+Jose Cuas;/players/c/cuasjo01.shtml;Jose Cuas; 1 ;0;0;0;1;0;0;4.15;3;17;9;7;2;0;1;1;1;0;;0;0;0.014; 0.30; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Will Little, 1B - Lance Barksdale, 2B - Ryan Additon, 3B - Dan Merzel, LF - (none), RF - (none).
+Time of Game: 2:20.
+Attendance: 18,438.
+Field Condition: Unknown.
+Start Time Weather: 82° F, Wind 11mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Royals
+1;Nick Pratto;/players/p/prattni01.shtml;1B
+2;Bobby Witt;/players/w/wittbo02.shtml;DH
+3;Salvador Perez;/players/p/perezsa02.shtml;C
+4;MJ Melendez;/players/m/melenmj01.shtml;RF
+5;Edward Olivares;/players/o/olivaed02.shtml;LF
+6;Maikel Garcia;/players/g/garcima01.shtml;SS
+7;Nicky Lopez;/players/l/lopezni01.shtml;3B
+8;Samad Taylor;/players/t/taylosa04.shtml;2B
+9;Drew Waters;/players/w/waterdr01.shtml;CF
+; Jordan Lyles;/players/l/lylesjo01.shtml;P
+Tigers
+1;Zach McKinstry;/players/m/mckinza01.shtml;CF
+2;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+3;Kerry Carpenter;/players/c/carpeke01.shtml;RF
+4;Andy Ibáñez;/players/i/ibanean01.shtml;LF
+5;Nick Maton;/players/m/matonni01.shtml;2B
+6;Miguel Cabrera;/players/c/cabremi01.shtml;DH
+7;Jonathan Schoop;/players/s/schoojo01.shtml;3B
+8;Jake Rogers;/players/r/rogerja03.shtml;C
+9;Zack Short;/players/s/shortza01.shtml;SS
+; Reese Olson;/players/o/olsonre01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b7;3-4;2;12-;5,(2-2) TBS*BX;RRR;DET;Kerry Carpenter;Taylor Clarke;53%;87%;Home Run (Fly Ball to Deep RF Line); Rogers Scores; McKinstry Scores
+t4;1-0;2;1--;1,(0-0) X;RR;KCR;Maikel Garcia;Reese Olson;-20%;20%;Home Run (Fly Ball to Deep LF Line); Melendez Scores
+b7;1-4;0;1--;7,(3-2) SBCFBBX;;DET;Jonathan Schoop;Jordan Lyles;14%;31%;Double to LF (Line Drive to Deep LF-CF); Cabrera to 3B
+t3;0-0;1;1-3;2,(1-0) BX;OO;KCR;Nick Pratto;Reese Olson;13%;55%;Ground Ball Double Play: SS-1B (Deep SS-2B)
+b7;1-4;0;-23;6,(2-2) .BSF*BFX;RR;DET;Jake Rogers;Taylor Clarke;13%;44%;Single to LF (Line Drive to Deep 3B); Cabrera Scores; Schoop Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Royals Batting, Tied 0-0, Tigers' Reese Olson facing 1-2-3 
+t1;0-0;0;---;5,(2-2) CBBCS;O;KCR;Nick Pratto;Reese Olson;2%;52%;Strikeout Swinging
+t1;0-0;1;---;3,(2-0) BBX;O;KCR;Bobby Witt;Reese Olson;2%;54%;Lineout: CF (Deep CF)
+t1;0-0;2;---;5,(2-2) BCSB.S;O;KCR;Salvador Perez;Reese Olson;1%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Tigers 0.
+Bottom of the 1st, Tigers Batting, Tied 0-0, Royals' Jordan Lyles facing 1-2-3 
+b1;0-0;0;---;2,(0-1) FX;O;DET;Zach McKinstry;Jordan Lyles;-2%;53%;Groundout: 1B unassisted
+b1;0-0;1;---;4,(1-2) CBFS;O;DET;Spencer Torkelson;Jordan Lyles;-2%;51%;Strikeout Swinging
+b1;0-0;2;---;9,(3-2) BFBF.FFFBB;;DET;Kerry Carpenter;Jordan Lyles;1%;52%;Walk
+b1;0-0;2;1--;4,(1-2) BFS1X;O;DET;Andy Ibáñez;Jordan Lyles;-2%;50%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Royals 0, Tigers 0.
+Top of the 2nd, Royals Batting, Tied 0-0, Tigers' Reese Olson facing 4-5-6 
+t2;0-0;0;---;5,(2-2) CBFBC;O;KCR;MJ Melendez;Reese Olson;2%;52%;Strikeout Looking
+t2;0-0;1;---;2,(0-1) CX;O;KCR;Edward Olivares;Reese Olson;2%;54%;Flyball: RF (CF-RF)
+t2;0-0;2;---;5,(1-2) CCFBC;O;KCR;Maikel Garcia;Reese Olson;1%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Tigers 0.
+Bottom of the 2nd, Tigers Batting, Tied 0-0, Royals' Jordan Lyles facing 5-6-7 
+b2;0-0;0;---;3,(1-1) BSX;O;DET;Nick Maton;Jordan Lyles;-2%;53%;Lineout: 3B (SS-3B Hole)
+b2;0-0;1;---;3,(1-1) BCX;;DET;Miguel Cabrera;Jordan Lyles;3%;55%;Single to CF (Line Drive to CF-RF)
+b2;0-0;1;1--;6,(2-2) BCFBFS;O;DET;Jonathan Schoop;Jordan Lyles;-3%;52%;Strikeout Swinging
+b2;0-0;2;1--;2,(1-0) BX;O;DET;Jake Rogers;Jordan Lyles;-2%;50%;Groundout: SS-2B/Forceout at 2B; Rogers to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 0, Tigers 0.
+Top of the 3rd, Royals Batting, Tied 0-0, Tigers' Reese Olson facing 7-8-9 
+t3;0-0;0;---;6,(2-2) BCBFFX;;KCR;Nicky Lopez;Reese Olson;-4%;46%;Single to RF (Ground Ball thru 2B-1B)
+t3;0-0;0;1--;5,(1-2) CSBFS;O;KCR;Samad Taylor;Reese Olson;4%;50%;Strikeout Swinging
+t3;0-0;1;1--;2,(0-1) FX;;KCR;Drew Waters;Reese Olson;-7%;43%;Single to CF (Line Drive to CF-RF); Lopez to 3B
+t3;0-0;1;1-3;2,(1-0) BX;OO;KCR;Nick Pratto;Reese Olson;13%;55%;Ground Ball Double Play: SS-1B (Deep SS-2B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Royals 0, Tigers 0.
+Bottom of the 3rd, Tigers Batting, Tied 0-0, Royals' Jordan Lyles facing 9-1-2 
+b3;0-0;0;---;4,(2-1) CBBX;O;DET;Zack Short;Jordan Lyles;-3%;53%;Popfly: 1B
+b3;0-0;1;---;2,(1-0) BX;O;DET;Zach McKinstry;Jordan Lyles;-2%;51%;Groundout: 3B-1B
+b3;0-0;2;---;5,(2-2) CC.BBX;O;DET;Spencer Torkelson;Jordan Lyles;-1%;50%;Lineout: SS (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Tigers 0.
+Top of the 4th, Royals Batting, Tied 0-0, Tigers' Reese Olson facing 2-3-4 
+t4;0-0;0;---;3,(1-1) BFX;R;KCR;Bobby Witt;Reese Olson;-13%;37%;Home Run (Fly Ball to Deep LF)
+t4;1-0;0;---;4,(1-2) BCF.X;O;KCR;Salvador Perez;Reese Olson;2%;40%;Groundout: 3B-1B
+t4;1-0;1;---;6,(3-2) SFBBB*B;;KCR;MJ Melendez;Reese Olson;-2%;37%;Walk
+t4;1-0;1;1--;4,(1-2) F*BSS;O;KCR;Edward Olivares;Reese Olson;3%;40%;Strikeout Swinging
+t4;1-0;2;1--;1,(0-0) X;RR;KCR;Maikel Garcia;Reese Olson;-20%;20%;Home Run (Fly Ball to Deep LF Line); Melendez Scores
+t4;3-0;2;---;4,(2-1) BBCX;O;KCR;Nicky Lopez;Reese Olson;1%;21%;Flyball: LF (Short LF Line)
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Royals 3, Tigers 0.
+Bottom of the 4th, Tigers Batting, Behind 0-3, Royals' Jordan Lyles facing 3-4-5 
+b4;0-3;0;---;6,(3-2) CBSBBX;O;DET;Kerry Carpenter;Jordan Lyles;-2%;19%;Groundout: 1B-P (2B-1B)
+b4;0-3;1;---;2,(0-1) FX;;DET;Andy Ibáñez;Jordan Lyles;3%;21%;Single to RF (Ground Ball)
+b4;0-3;1;1--;2,(1-0) BX;O;DET;Nick Maton;Jordan Lyles;-3%;18%;Flyball: CF (Deep LF-CF)
+b4;0-3;2;1--;4,(1-2) CBSS;O;DET;Miguel Cabrera;Jordan Lyles;-2%;16%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 3, Tigers 0.
+Top of the 5th, Royals Batting, Ahead 3-0, Tigers' Reese Olson facing 8-9-1 
+t5;3-0;0;---;5,(3-1) BSBBX;O;KCR;Samad Taylor;Reese Olson;1%;17%;Flyball: RF
+t5;3-0;1;---;4,(0-2) CSFS;O;KCR;Drew Waters;Reese Olson;1%;18%;Strikeout Swinging
+t5;3-0;2;---;6,(3-2) BBBCF.X;;KCR;Nick Pratto;Reese Olson;-1%;17%;Double to RF (Line Drive to RF Line)
+t5;3-0;2;-2-;6,(3-2) BCC.BBX;R;KCR;Bobby Witt;Reese Olson;-6%;11%;Single to SS (Ground Ball); Pratto Scores/Adv on E6 (throw)/No RBI/unER
+t5;4-0;2;1--;1,(0-0) >S;;KCR;Salvador Perez;Reese Olson;0%;11%;Witt Steals 2B
+t5;4-0;2;-2-;3,(1-1) >S.BX;O;KCR;Salvador Perez;Reese Olson;1%;12%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 2 hits, 1 error, 1 LOB. Royals 4, Tigers 0.
+Bottom of the 5th, Tigers Batting, Behind 0-4, Royals' Jordan Lyles facing 7-8-9 
+b5;0-4;0;---;2,(0-1) CX;O;DET;Jonathan Schoop;Jordan Lyles;-2%;10%;Flyball: LF
+b5;0-4;1;---;3,(1-1) BCX;;DET;Jake Rogers;Jordan Lyles;2%;12%;Single to LF (Ground Ball thru SS-3B Hole)
+b5;0-4;1;1--;6,(2-2) CBFBFX;O;DET;Zack Short;Jordan Lyles;-2%;10%;Flyball: LF (Short LF)
+b5;0-4;2;1--;1,(0-0) X;R;DET;Zach McKinstry;Jordan Lyles;7%;17%;Double to LF (Fly Ball to Short LF); Rogers Scores
+b5;1-4;2;-2-;1,(0-0) X;O;DET;Spencer Torkelson;Jordan Lyles;-3%;13%;Foul Popfly: 3B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Royals 4, Tigers 1.
+Top of the 6th, Royals Batting, Ahead 4-1, Tigers' Reese Olson facing 4-5-6 
+t6;4-1;0;---;4,(1-2) CBC*S;O;KCR;MJ Melendez;Reese Olson;1%;14%;Strikeout Swinging
+t6;4-1;1;---;6,(3-2) SFBBBX;O;KCR;Edward Olivares;Reese Olson;1%;15%;Groundout: 3B-1B (SS-3B Hole)
+t6;4-1;2;---;4,(1-2) BSCX;O;KCR;Maikel Garcia;Reese Olson;1%;16%;Lineout: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 4, Tigers 1.
+Bottom of the 6th, Tigers Batting, Behind 1-4, Royals' Jordan Lyles facing 3-4-5 
+b6;1-4;0;---;7,(2-2) BFFF.FBX;O;DET;Kerry Carpenter;Jordan Lyles;-3%;13%;Flyball: LF (Short LF-CF)
+b6;1-4;1;---;1,(0-0) X;O;DET;Andy Ibáñez;Jordan Lyles;-2%;11%;Groundout: 3B-1B
+b6;1-4;2;---;4,(2-1) BBCX;O;DET;Nick Maton;Jordan Lyles;-1%;10%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 4, Tigers 1.
+Top of the 7th, Royals Batting, Ahead 4-1, Tigers' Tyler Alexander facing 7-8-9 
+;;;;;;;;;Tyler Alexander replaces Reese Olson pitching
+t7;4-1;0;---;4,(1-2) .FBFC;O;KCR;Nicky Lopez;Tyler Alexander;1%;11%;Strikeout Looking
+t7;4-1;1;---;5,(1-2) CC.FBS;O;KCR;Samad Taylor;Tyler Alexander;1%;12%;Strikeout Swinging
+t7;4-1;2;---;2,(0-1) CX;O;KCR;Drew Waters;Tyler Alexander;0%;12%;Popfly: 2B (Deep 2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 4, Tigers 1.
+Bottom of the 7th, Tigers Batting, Behind 1-4, Royals' Jordan Lyles facing 6-7-8 
+b7;1-4;0;---;2,(0-1) SX;;DET;Miguel Cabrera;Jordan Lyles;5%;17%;Single to RF (Line Drive to Short RF)
+b7;1-4;0;1--;7,(3-2) SBCFBBX;;DET;Jonathan Schoop;Jordan Lyles;14%;31%;Double to LF (Line Drive to Deep LF-CF); Cabrera to 3B
+;;;;;;;;;Taylor Clarke replaces Jordan Lyles pitching
+b7;1-4;0;-23;6,(2-2) .BSF*BFX;RR;DET;Jake Rogers;Taylor Clarke;13%;44%;Single to LF (Line Drive to Deep 3B); Cabrera Scores; Schoop Scores
+b7;3-4;0;1--;1,(0-0) X;O;DET;Zack Short;Taylor Clarke;-7%;36%;Flyball: SS (Short CF)
+b7;3-4;1;1--;7,(3-2) FFBBB1F*B;;DET;Zach McKinstry;Taylor Clarke;7%;44%;Walk; Rogers to 2B
+b7;3-4;1;12-;7,(2-2) FF*BFBFC;O;DET;Spencer Torkelson;Taylor Clarke;-9%;35%;Strikeout Looking
+b7;3-4;2;12-;5,(2-2) TBS*BX;RRR;DET;Kerry Carpenter;Taylor Clarke;53%;87%;Home Run (Fly Ball to Deep RF Line); Rogers Scores; McKinstry Scores
+b7;6-4;2;---;3,(1-1) BSX;O;DET;Andy Ibáñez;Taylor Clarke;-1%;87%;Flyball: CF (Deep CF)
+;;;;;;;;;5 runs, 4 hits, 0 errors, 0 LOB. Royals 4, Tigers 6.
+Top of the 8th, Royals Batting, Behind 4-6, Tigers' Tyler Alexander facing 1-2-3 
+t8;4-6;0;---;3,(0-2) CC.S;O;KCR;Nick Pratto;Tyler Alexander;4%;90%;Strikeout Swinging
+t8;4-6;1;---;8,(3-2) CC.FBBBFB;;KCR;Bobby Witt;Tyler Alexander;-4%;86%;Walk
+t8;4-6;1;1--;1,(0-0) X;;KCR;Salvador Perez;Tyler Alexander;-9%;76%;Single to RF (Line Drive to Deep 1B); Witt to 3B
+;;;;;;;;;Dairon Blanco pinch runs for Salvador Perez (C) batting 3rd
+t8;4-6;1;1-3;4,(1-2) .BFCC;O;KCR;MJ Melendez;Tyler Alexander;10%;86%;Strikeout Looking
+t8;4-6;2;1-3;3,(0-2) CFX;O;KCR;Edward Olivares;Tyler Alexander;8%;94%;Groundout: SS-2B/Forceout at 2B; Olivares to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Royals 4, Tigers 6.
+Bottom of the 8th, Tigers Batting, Ahead 6-4, Royals' Jose Cuas facing 5-6-7 
+;;;;;;;;;Jose Cuas replaces Taylor Clarke pitchingFreddy Fermin replaces Edward Olivares (LF) playing C batting 5thDairon Blanco moves from PR to LF 
+b8;6-4;0;---;6,(3-2) ...BFBBSB;;DET;Nick Maton;Jose Cuas;1%;95%;Walk
+b8;6-4;0;1--;8,(3-2) BFSBBFF1X;O;DET;Miguel Cabrera;Jose Cuas;-1%;94%;Lineout: RF
+b8;6-4;1;1--;3,(1-1) BFX;OO;DET;Jonathan Schoop;Jose Cuas;-1%;93%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 4, Tigers 6.
+Top of the 9th, Royals Batting, Behind 4-6, Tigers' Alex Lange facing 6-7-8 
+;;;;;;;;;Alex Lange replaces Tyler Alexander pitchingAndy Ibáñez moves from LF to 2B Zach McKinstry moves from CF to LF Jake Marisnick replaces Nick Maton (2B) playing CF batting 5th
+t9;4-6;0;---;5,(2-2) ....SBFBX;O;KCR;Maikel Garcia;Alex Lange;4%;96%;Lineout: CF (CF-RF)
+t9;4-6;1;---;2,(1-0) BX;O;KCR;Nicky Lopez;Alex Lange;2%;99%;Groundout: 2B-1B
+t9;4-6;2;---;5,(2-2) BCS.BX;O;KCR;Samad Taylor;Alex Lange;1%;100%;Groundout: 1B unassisted (Weak 1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 4, Tigers 6.

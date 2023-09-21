@@ -1,0 +1,277 @@
+
+Scorebox Meta
+20230411
+6:35 p.m. Local
+9996
+PNC Park
+150
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/HOU-2023.png;/teams/HOU/2023.shtml;1;1;0;0;0;0;0;0;2;4;9;0
+https://cdn.ssref.net/req/202308101/tlogo/br/PIT-2023.png;/teams/PIT/2023.shtml;0;2;0;0;0;2;0;0;3;7;10;1
+
+Batting home
+Ji Hwan Bae;/players/b/baeji01.shtml;2B;5;1;1;3;0;2;5;.242;.265;.485;.750;26;17;0.212; 1.43;0.288;-0.076; 0.12%; 1.40; 1.6;0;2;HR
+Bryan Reynolds;/players/r/reynobr01.shtml;LF;4;0;1;0;0;0;4;.356;.367;.778;1.145;16;10;-0.048; 0.62;0.009;-0.058;-0.03%; 0.61; -0.1;4;0;
+Ji Man Choi;/players/c/choiji01.shtml;DH;4;1;2;1;0;2;4;.148;.148;.407;.556;17;11;0.157; 0.71;0.184;-0.027; 0.09%; 0.69; 0.7;;;HR,2B
+Carlos Santana;/players/s/santaca01.shtml;1B;4;0;0;0;0;0;4;.214;.298;.405;.703;10;7;-0.076; 0.70;0.000;-0.076;-0.04%; 0.69; -1.0;4;0;
+Ke'Bryan Hayes;/players/h/hayeske01.shtml;3B;4;1;2;0;0;0;4;.159;.178;.227;.405;24;16;0.025; 0.82;0.078;-0.053; 0.01%; 0.81; 0.4;0;2;2B,SB
+Canaan Smith-Njigba;/players/s/smithca05.shtml;RF;3;0;0;1;0;2;4;.167;.200;.333;.533;15;11;-0.020; 0.84;0.030;-0.050;-0.01%; 0.82; -0.6;3;0;SF
+Rodolfo Castro;/players/c/castrro01.shtml;SS;3;2;2;0;0;0;4;.286;.423;.333;.756;11;7;0.095; 0.87;0.102;-0.007; 0.06%; 0.85; 0.5;3;1;HBP
+Jack Suwinski;/players/s/suwinja01.shtml;CF;4;1;1;2;0;1;4;.105;.250;.263;.513;20;11;0.079; 1.36;0.196;-0.117; 0.05%; 1.33; 1.0;3;0;HR
+Jason Delay;/players/d/delayja01.shtml;C;2;0;0;0;1;0;3;.238;.304;.429;.733;10;4;-0.026; 0.64;0.013;-0.039;-0.01%; 0.63; -0.3;9;0;
+Andrew McCutchen;/players/m/mccutan01.shtml;PH;1;1;1;0;0;0;1;.357;.500;.536;1.036;3;3;0.073; 2.94;0.073;0.000; 0.04%; 2.88; 0.4;;;
+Mitch Keller;/players/k/kellemi03.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Duane Underwood Jr.;/players/u/underdu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Colin Holderman;/players/h/holdeco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+David Bednar;/players/b/bednada01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ji Man Choi (1, off Cristian Javier); Ke'Bryan Hayes (3, off Cristian Javier).
+
+
+HR: Jack Suwinski (1, off Cristian Javier, 2nd inn, 1 on, 2 outs to Deep RF Line); Ji Man Choi (2, off Cristian Javier, 6th inn, 0 on, 0 outs to Deep RF Line); Ji Hwan Bae (2, off Ryan Pressly, 9th inn, 2 on, 1 out to Deep RF).
+
+
+SF: Canaan Smith-Njigba (1, off Cristian Javier).
+
+
+HBP: Rodolfo Castro (2, by Cristian Javier).
+
+
+TB: Ji Man Choi 6; Jack Suwinski 4; Ji Hwan Bae 4; Ke'Bryan Hayes 3; Rodolfo Castro 2; Andrew McCutchen; Bryan Reynolds.
+
+
+RBI: Ji Hwan Bae 3 (6); Jack Suwinski 2 (4); Canaan Smith-Njigba (3); Ji Man Choi (2).
+
+
+2-out RBI: Jack Suwinski 2.
+
+
+Team LOB: 5.
+With RISP: 1 for 3.
+
+Batting away
+Chas McCormick;/players/m/mccorch01.shtml;LF-CF;5;0;1;2;0;2;5;.250;.341;.500;.841;23;14;0.279; 1.64;0.390;-0.111; 0.15%; 1.44; 0.6;3;0;2B
+Alex Bregman;/players/b/bregmal01.shtml;3B;5;1;2;1;0;0;5;.188;.316;.271;.587;16;8;0.018; 1.26;0.152;-0.134; 0.01%; 1.10; 0.7;1;1;HR,2B
+Yordan Alvarez;/players/a/alvaryo01.shtml;DH;4;0;0;0;1;3;5;.300;.420;.575;.995;16;13;-0.106; 1.62;0.012;-0.118;-0.06%; 1.41; -0.8;;;IW
+José Abreu;/players/a/abreujo02.shtml;1B;5;0;1;0;0;3;5;.280;.333;.300;.633;18;12;-0.139; 1.58;0.045;-0.184;-0.07%; 1.38; -0.7;7;0;
+Kyle Tucker;/players/t/tuckeky01.shtml;RF;3;1;2;1;1;0;4;.310;.431;.643;1.074;12;8;0.152; 1.25;0.200;-0.049; 0.08%; 1.09; 1.6;0;0;HR,SB
+Jeremy Peña;/players/p/penaje02.shtml;SS;4;0;1;0;0;1;4;.212;.268;.404;.672;15;10;-0.099; 1.44;0.027;-0.126;-0.05%; 1.26; -0.6;2;1;
+Jake Meyers;/players/m/meyerja02.shtml;CF;3;0;0;0;0;0;3;.176;.222;.176;.399;10;8;-0.104; 1.43;0.000;-0.104;-0.05%; 1.25; -1.0;5;0;
+Corey Julks;/players/j/julksco01.shtml;PH-LF;1;0;0;0;0;0;1;.276;.267;.310;.577;5;3;-0.040; 1.55;0.000;-0.040;-0.02%; 1.35; -0.2;0;0;
+Mauricio Dubón;/players/d/dubonma01.shtml;2B;3;1;1;0;1;0;4;.355;.394;.419;.813;16;9;0.054; 1.15;0.090;-0.036; 0.03%; 1.00; 0.5;0;4;
+Martín Maldonado;/players/m/maldoma01.shtml;C;3;0;0;0;0;0;3;.179;.281;.179;.460;6;6;-0.122; 1.61;0.000;-0.122;-0.06%; 1.41; -1.2;6;0;
+David Hensley;/players/h/henslda01.shtml;PH;1;1;1;0;0;0;1;.250;.323;.250;.573;2;2;0.078; 2.14;0.078;0.000; 0.04%; 1.87; 0.4;;;
+César Salazar;/players/s/salazce01.shtml;C;0;0;0;0;0;0;0;.000;.200;.000;.200;;;;;;;;;;1;0;
+Cristian Javier;/players/j/javiecr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryne Stanek;/players/s/stanery01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Rafael Montero;/players/m/montera01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Pressly;/players/p/pressry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Alex Bregman (1, off Mitch Keller); Chas McCormick (3, off David Bednar).
+
+
+HR: Alex Bregman (1, off Mitch Keller, 1st inn, 0 on, 1 out to Deep LF); Kyle Tucker (4, off Mitch Keller, 2nd inn, 0 on, 0 outs to Deep RF Line).
+
+
+IBB: Yordan Alvarez (1, by David Bednar).
+
+
+TB: Alex Bregman 6; Kyle Tucker 5; Chas McCormick 2; Jeremy Peña; David Hensley; Mauricio Dubón; José Abreu.
+
+
+RBI: Chas McCormick 2 (9); Alex Bregman (3); Kyle Tucker (12).
+
+
+Team LOB: 9.
+With RISP: 1 for 8.
+
+Pitching home
+Mitch Keller;/players/k/kellemi03.shtml;Mitch Keller; 6 ;6;2;2;2;7;2;3.57;26;94;64;43;10;11;7;10;2;0;57;;;0.158; 1.16; 0.09%; 1.14; 1.2
+Duane Underwood Jr.;/players/u/underdu01.shtml; H (1); 1 ;0;0;0;0;0;0;3.60;3;11;7;4;0;3;1;2;0;0;;0;0;0.073; 0.94; 0.04%; 0.92; 0.5
+Colin Holderman;/players/h/holdeco01.shtml; H (5); 1 ;1;0;0;0;1;0;0.00;4;16;9;6;1;2;1;2;1;0;;0;0;0.078; 1.43; 0.05%; 1.40; 0.5
+David Bednar;/players/b/bednada01.shtml; W (1-0); 1 ;2;2;1;1;1;0;1.80;7;18;13;6;3;4;3;2;1;0;;0;0;-0.280; 2.86;-0.16%; 2.81; -1.5
+
+Pitching away
+Cristian Javier;/players/j/javiecr01.shtml;Cristian Javier; 6 ;5;4;4;1;3;2;4.24;25;96;57;36;10;11;8;12;2;0;48;;;-0.155; 0.81;-0.08%; 0.71; -0.8
+Ryne Stanek;/players/s/stanery01.shtml;Ryne Stanek; 1 ;0;0;0;0;1;0;5.40;3;14;8;4;3;1;1;1;0;0;;0;0;0.025; 0.33; 0.01%; 0.29; 0.5
+Rafael Montero;/players/m/montera01.shtml;Rafael Montero; 1 ;2;0;0;0;2;0;3.00;5;21;17;13;3;1;1;2;1;0;;0;0;0.015; 0.34; 0.01%; 0.30; 0.5
+Ryan Pressly;/players/p/pressry01.shtml; L (0-2); 0.1;3;3;3;0;1;1;8.44;4;21;15;7;5;3;1;2;0;0;;0;0;-0.357; 3.17;-0.19%; 2.77; -2.8
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Cristian Javier (1; Rodolfo Castro).
+IBB: David Bednar (1; Yordan Alvarez).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Cristian Javier (1; Rodolfo Castro).
+IBB: David Bednar (1; Yordan Alvarez).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Adam Hamari, 1B - Jerry Layne, 2B - Brock Ballou, 3B - Nick Mahrley, LF - (none), RF - (none).
+Time of Game: 2:30.
+Attendance: 9,996.
+Field Condition: Unknown.
+Start Time Weather: 72° F, Wind 13mph out to Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Astros
+1;Chas McCormick;/players/m/mccorch01.shtml;LF
+2;Alex Bregman;/players/b/bregmal01.shtml;3B
+3;Yordan Alvarez;/players/a/alvaryo01.shtml;DH
+4;José Abreu;/players/a/abreujo02.shtml;1B
+5;Kyle Tucker;/players/t/tuckeky01.shtml;RF
+6;Jeremy Peña;/players/p/penaje02.shtml;SS
+7;Jake Meyers;/players/m/meyerja02.shtml;CF
+8;Mauricio Dubón;/players/d/dubonma01.shtml;2B
+9;Martín Maldonado;/players/m/maldoma01.shtml;C
+; Cristian Javier;/players/j/javiecr01.shtml;P
+Pirates
+1;Ji Hwan Bae;/players/b/baeji01.shtml;2B
+2;Bryan Reynolds;/players/r/reynobr01.shtml;LF
+3;Ji Man Choi;/players/c/choiji01.shtml;DH
+4;Carlos Santana;/players/s/santaca01.shtml;1B
+5;Ke'Bryan Hayes;/players/h/hayeske01.shtml;3B
+6;Canaan Smith-Njigba;/players/s/smithca05.shtml;RF
+7;Rodolfo Castro;/players/c/castrro01.shtml;SS
+8;Jack Suwinski;/players/s/suwinja01.shtml;CF
+9;Jason Delay;/players/d/delayja01.shtml;C
+; Mitch Keller;/players/k/kellemi03.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t9;2-4;1;12-;5,(3-1) BBBCX;RR;HOU;Chas McCormick;David Bednar;-39%;44%;Double to LF (Line Drive to Short LF Line); Dubón Scores/unER; Hensley Scores
+b9;4-4;1;12-;7,(2-2) CB*S.FFBX;RRR;PIT;Ji Hwan Bae;Ryan Pressly;29%;100%;Home Run (Fly Ball to Deep RF); Castro Scores; McCutchen Scores
+b2;0-2;2;1--;2,(1-0) BX;RR;PIT;Jack Suwinski;Cristian Javier;20%;51%;Home Run (Fly Ball to Deep RF Line); Castro Scores
+b6;2-2;0;---;6,(3-2) BFFB.BX;R;PIT;Ji Man Choi;Cristian Javier;16%;74%;Home Run (Fly Ball to Deep RF Line)
+t9;4-4;2;12-;3,(0-2) S.SS;O;HOU;José Abreu;David Bednar;12%;64%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Astros Batting, Tied 0-0, Pirates' Mitch Keller facing 1-2-3 
+t1;0-0;0;---;4,(1-2) FFBS;O;HOU;Chas McCormick;Mitch Keller;2%;52%;Strikeout Swinging
+t1;0-0;1;---;2,(1-0) BX;R;HOU;Alex Bregman;Mitch Keller;-10%;43%;Home Run (Fly Ball to Deep LF)
+t1;1-0;1;---;1,(0-0) X;O;HOU;Yordan Alvarez;Mitch Keller;1%;44%;Groundout: 2B-1B
+t1;1-0;2;---;4,(1-2) BCCT;O;HOU;José Abreu;Mitch Keller;1%;45%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Astros 1, Pirates 0.
+Bottom of the 1st, Pirates Batting, Behind 0-1, Astros' Cristian Javier facing 1-2-3 
+b1;0-1;0;---;6,(2-2) BBLSF.S;O;PIT;Ji Hwan Bae;Cristian Javier;-2%;43%;Strikeout Swinging
+b1;0-1;1;---;6,(3-2) BFBFBX;O;PIT;Bryan Reynolds;Cristian Javier;-2%;41%;Foul Popfly: 3B (3B into Foul Terr.)
+b1;0-1;2;---;3,(1-1) BFX;;PIT;Ji Man Choi;Cristian Javier;2%;43%;Double to RF (Fly Ball to Deep RF)
+b1;0-1;2;-2-;4,(1-2) CBSX;O;PIT;Carlos Santana;Cristian Javier;-3%;40%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 1, Pirates 0.
+Top of the 2nd, Astros Batting, Ahead 1-0, Pirates' Mitch Keller facing 5-6-7 
+t2;1-0;0;---;2,(0-1) SX;R;HOU;Kyle Tucker;Mitch Keller;-9%;30%;Home Run (Fly Ball to Deep RF Line)
+t2;2-0;0;---;4,(1-2) BFS.X;;HOU;Jeremy Peña;Mitch Keller;-3%;28%;Single to C (Ground Ball)
+t2;2-0;0;1--;3,(0-2) CFX;O;HOU;Jake Meyers;Mitch Keller;3%;30%;Groundout: 2B-SS/Forceout at 2B; Meyers to 1B
+t2;2-0;1;1--;7,(2-2) BF>FF1*B>FX;;HOU;Mauricio Dubón;Mitch Keller;-3%;28%;Single to LF (Ground Ball); Meyers to 2B
+t2;2-0;1;12-;2,(0-1) FX;O;HOU;Martín Maldonado;Mitch Keller;3%;31%;Flyball: LF (Short LF)
+t2;2-0;2;12-;6,(3-2) CBBCB>C;O;HOU;Chas McCormick;Mitch Keller;3%;34%;Strikeout Looking
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Astros 2, Pirates 0.
+Bottom of the 2nd, Pirates Batting, Behind 0-2, Astros' Cristian Javier facing 5-6-7 
+b2;0-2;0;---;3,(2-0) BBX;O;PIT;Ke'Bryan Hayes;Cristian Javier;-3%;32%;Groundout: 2B-1B (Deep SS-2B)
+b2;0-2;1;---;3,(0-2) CCT;O;PIT;Canaan Smith-Njigba;Cristian Javier;-2%;30%;Strikeout Swinging
+b2;0-2;2;---;1,(0-0) H;;PIT;Rodolfo Castro;Cristian Javier;1%;32%;Hit By Pitch
+b2;0-2;2;1--;2,(1-0) BX;RR;PIT;Jack Suwinski;Cristian Javier;20%;51%;Home Run (Fly Ball to Deep RF Line); Castro Scores
+b2;2-2;2;---;4,(3-0) BBBB;;PIT;Jason Delay;Cristian Javier;1%;52%;Walk
+b2;2-2;2;1--;5,(2-2) BSBSX;O;PIT;Ji Hwan Bae;Cristian Javier;-2%;50%;Groundout: SS unassisted/Forceout at 2B; Bae to 1B
+;;;;;;;;;2 runs, 1 hit, 0 errors, 1 LOB. Astros 2, Pirates 2.
+Top of the 3rd, Astros Batting, Tied 2-2, Pirates' Mitch Keller facing 2-3-4 
+t3;2-2;0;---;5,(3-1) BFBBX;O;HOU;Alex Bregman;Mitch Keller;3%;53%;Lineout: LF (Deep LF-CF)
+t3;2-2;1;---;4,(0-2) CFFC;O;HOU;Yordan Alvarez;Mitch Keller;2%;54%;Strikeout Looking
+t3;2-2;2;---;5,(2-2) BBFFC;O;HOU;José Abreu;Mitch Keller;1%;56%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 2, Pirates 2.
+Bottom of the 3rd, Pirates Batting, Tied 2-2, Astros' Cristian Javier facing 2-3-4 
+b3;2-2;0;---;3,(1-1) CBX;O;PIT;Bryan Reynolds;Cristian Javier;-3%;53%;Groundout: 2B-1B
+b3;2-2;1;---;4,(1-2) CS.BT;O;PIT;Ji Man Choi;Cristian Javier;-2%;51%;Strikeout Swinging
+b3;2-2;2;---;1,(0-0) X;O;PIT;Carlos Santana;Cristian Javier;-1%;50%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 2, Pirates 2.
+Top of the 4th, Astros Batting, Tied 2-2, Pirates' Mitch Keller facing 5-6-7 
+t4;2-2;0;---;6,(3-2) FBBCBB;;HOU;Kyle Tucker;Mitch Keller;-4%;46%;Walk
+t4;2-2;0;1--;4,(1-2) BFFS;O;HOU;Jeremy Peña;Mitch Keller;4%;50%;Strikeout Swinging
+t4;2-2;1;1--;5,(2-2) BS1*BSX;O;HOU;Jake Meyers;Mitch Keller;3%;53%;Flyball: CF (Deep CF)
+t4;2-2;2;1--;4,(2-1) FBB>B;;HOU;Mauricio Dubón;Mitch Keller;-1%;52%;Tucker Steals 2B
+t4;2-2;2;-2-;5,(3-1) FBB>B.B;;HOU;Mauricio Dubón;Mitch Keller;-1%;51%;Walk
+t4;2-2;2;12-;1,(0-0) X;O;HOU;Martín Maldonado;Mitch Keller;5%;56%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Astros 2, Pirates 2.
+Bottom of the 4th, Pirates Batting, Tied 2-2, Astros' Cristian Javier facing 5-6-7 
+b4;2-2;0;---;8,(3-2) BBFFFBFX;O;PIT;Ke'Bryan Hayes;Cristian Javier;-3%;53%;Flyball: CF (Deep CF)
+b4;2-2;1;---;3,(2-0) BBX;O;PIT;Canaan Smith-Njigba;Cristian Javier;-2%;51%;Popfly: SS (SS-2B)
+b4;2-2;2;---;2,(0-1) CX;;PIT;Rodolfo Castro;Cristian Javier;2%;53%;Single to SS (Ground Ball)
+b4;2-2;2;1--;5,(2-2) CS*B1BX;O;PIT;Jack Suwinski;Cristian Javier;-3%;50%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 2, Pirates 2.
+Top of the 5th, Astros Batting, Tied 2-2, Pirates' Mitch Keller facing 1-2-3 
+t5;2-2;0;---;6,(1-2) CFFFBX;O;HOU;Chas McCormick;Mitch Keller;3%;53%;Flyball: CF (Deep CF)
+t5;2-2;1;---;2,(1-0) BX;;HOU;Alex Bregman;Mitch Keller;-6%;48%;Double to RF (Line Drive to RF Line)
+t5;2-2;1;-2-;6,(1-2) SFFBFS;O;HOU;Yordan Alvarez;Mitch Keller;5%;52%;Strikeout Swinging
+t5;2-2;2;-2-;3,(1-1) BSX;O;HOU;José Abreu;Mitch Keller;5%;57%;Groundout: P unassisted (Short 1B Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 2, Pirates 2.
+Bottom of the 5th, Pirates Batting, Tied 2-2, Astros' Cristian Javier facing 9-1-2 
+b5;2-2;0;---;1,(0-0) X;O;PIT;Jason Delay;Cristian Javier;-3%;54%;Flyball: CF
+b5;2-2;1;---;4,(2-1) CBBX;O;PIT;Ji Hwan Bae;Cristian Javier;-2%;52%;Flyball: LF
+b5;2-2;2;---;5,(2-2) BBSSX;O;PIT;Bryan Reynolds;Cristian Javier;-2%;50%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 2, Pirates 2.
+Top of the 6th, Astros Batting, Tied 2-2, Pirates' Mitch Keller facing 5-6-7 
+t6;2-2;0;---;1,(0-0) X;;HOU;Kyle Tucker;Mitch Keller;-5%;45%;Single to LF (Ground Ball)
+t6;2-2;0;1--;2,(0-1) FX;O;HOU;Jeremy Peña;Mitch Keller;5%;50%;Flyball: RF (RF Line)
+t6;2-2;1;1--;2,(0-1) SX;O;HOU;Jake Meyers;Mitch Keller;4%;54%;Flyball: CF (Deep CF-RF)
+t6;2-2;2;1--;2,(1-0) BX;O;HOU;Mauricio Dubón;Mitch Keller;4%;58%;Groundout: 3B-1B (Weak SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 2, Pirates 2.
+Bottom of the 6th, Pirates Batting, Tied 2-2, Astros' Cristian Javier facing 3-4-5 
+b6;2-2;0;---;6,(3-2) BFFB.BX;R;PIT;Ji Man Choi;Cristian Javier;16%;74%;Home Run (Fly Ball to Deep RF Line)
+b6;3-2;0;---;4,(2-1) BFBX;O;PIT;Carlos Santana;Cristian Javier;-2%;72%;Groundout: 2B-1B
+b6;3-2;1;---;3,(1-1) BCX;;PIT;Ke'Bryan Hayes;Cristian Javier;4%;76%;Double to CF (Line Drive to Deep CF-RF)
+b6;3-2;1;-2-;2,(0-1) F>S;;PIT;Canaan Smith-Njigba;Cristian Javier;3%;79%;Hayes Steals 3B
+b6;3-2;1;--3;5,(1-2) F>S.*BFX;RO;PIT;Canaan Smith-Njigba;Cristian Javier;3%;82%;Lineout: LF/Sacrifice Fly (LF Line); Hayes Scores
+b6;4-2;2;---;5,(2-2) BCCBX;O;PIT;Rodolfo Castro;Cristian Javier;-1%;81%;Groundout: 1B unassisted
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Astros 2, Pirates 4.
+Top of the 7th, Astros Batting, Behind 2-4, Pirates' Duane Underwood Jr. facing 9-1-2 
+;;;;;;;;;Duane Underwood Jr. replaces Mitch Keller pitching
+t7;2-4;0;---;3,(0-2) .CC.X;O;HOU;Martín Maldonado;Duane Underwood Jr.;4%;85%;Flyball: RF (Short RF)
+t7;2-4;1;---;2,(1-0) BX;O;HOU;Chas McCormick;Duane Underwood Jr.;2%;87%;Groundout: SS-1B (SS-3B Hole)
+t7;2-4;2;---;6,(3-2) BCFBBX;O;HOU;Alex Bregman;Duane Underwood Jr.;1%;89%;Flyball: RF (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 2, Pirates 4.
+Bottom of the 7th, Pirates Batting, Ahead 4-2, Astros' Ryne Stanek facing 8-9-1 
+;;;;;;;;;Ryne Stanek replaces Cristian Javier pitching
+b7;4-2;0;---;5,(3-1) .BBBSX;O;PIT;Jack Suwinski;Ryne Stanek;-1%;87%;Flyball: LF (Deep LF)
+b7;4-2;1;---;5,(2-2) CBFBX;O;PIT;Jason Delay;Ryne Stanek;-1%;87%;Groundout: 3B-1B (SS-3B Hole)
+b7;4-2;2;---;4,(1-2) SFBS;O;PIT;Ji Hwan Bae;Ryne Stanek;-1%;86%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 2, Pirates 4.
+Top of the 8th, Astros Batting, Behind 2-4, Pirates' Colin Holderman facing 3-4-5 
+;;;;;;;;;Colin Holderman replaces Duane Underwood Jr. pitching
+t8;2-4;0;---;5,(2-2) .ABFFBT;O;HOU;Yordan Alvarez;Colin Holderman;4%;90%;Strikeout Swinging
+t8;2-4;1;---;3,(2-0) BBX;;HOU;José Abreu;Colin Holderman;-5%;85%;Single to CF (Line Drive)
+t8;2-4;1;1--;3,(0-2) CSX;O;HOU;Kyle Tucker;Colin Holderman;5%;90%;Groundout: P-SS/Forceout at 2B (P's Left); Tucker to 1B
+;;;;;;;;; Challenged by PIT manager (Derek Shelton): Original call upheld upon review.
+t8;2-4;2;1--;5,(3-1) *B*BBCX;O;HOU;Jeremy Peña;Colin Holderman;4%;94%;Flyball: SS (Short CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 2, Pirates 4.
+Bottom of the 8th, Pirates Batting, Ahead 4-2, Astros' Rafael Montero facing 2-3-4 
+;;;;;;;;;Rafael Montero replaces Ryne Stanek pitching
+b8;4-2;0;---;2,(0-1) .FX;;PIT;Bryan Reynolds;Rafael Montero;1%;95%;Single to RF (Line Drive to CF-RF)
+b8;4-2;0;1--;4,(1-2) BFSS;O;PIT;Ji Man Choi;Rafael Montero;-1%;94%;Strikeout Swinging
+b8;4-2;1;1--;1,(0-0) X;O;PIT;Carlos Santana;Rafael Montero;-1%;93%;Flyball: CF (Deep CF)
+b8;4-2;2;1--;10,(2-2) 1BCFFFBFFFX;;PIT;Ke'Bryan Hayes;Rafael Montero;1%;94%;Single to SS (Ground Ball); Reynolds to 2B
+b8;4-2;2;12-;4,(1-2) BTFS;O;PIT;Canaan Smith-Njigba;Rafael Montero;-1%;92%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Astros 2, Pirates 4.
+Top of the 9th, Astros Batting, Behind 2-4, Pirates' David Bednar facing 7-8-9 
+;;;;;;;;;David Bednar replaces Colin Holderman pitchingCorey Julks pinch hits for Jake Meyers (CF) batting 7th
+t9;2-4;0;---;5,(2-2) ..BBFCX;O;HOU;Corey Julks;David Bednar;4%;96%;Flyball: LF (Deep LF-CF)
+t9;2-4;1;---;2,(0-1) CX;;HOU;Mauricio Dubón;David Bednar;-5%;91%;Reached on E6 (throw) (Ground Ball); Dubón to 1B
+;;;;;;;;;David Hensley pinch hits for Martín Maldonado (C) batting 9th
+t9;2-4;1;1--;2,(0-1) .CX;;HOU;David Hensley;David Bednar;-8%;83%;Single to CF (Ground Ball thru SS-2B); Dubón to 2B
+t9;2-4;1;12-;5,(3-1) BBBCX;RR;HOU;Chas McCormick;David Bednar;-39%;44%;Double to LF (Line Drive to Short LF Line); Dubón Scores/unER; Hensley Scores
+t9;4-4;1;-2-;1,(0-0) X;O;HOU;Alex Bregman;David Bednar;9%;54%;Groundout: 3B-1B
+t9;4-4;2;-2-;,(3-0) VVVV;;HOU;Yordan Alvarez;David Bednar;-1%;53%;Intentional Walk
+t9;4-4;2;12-;3,(0-2) S.SS;O;HOU;José Abreu;David Bednar;12%;64%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 1 error, 2 LOB. Astros 4, Pirates 4.
+Bottom of the 9th, Pirates Batting, Tied 4-4, Astros' Ryan Pressly facing 7-8-9 
+;;;;;;;;;Ryan Pressly replaces Rafael Montero pitchingCésar Salazar replaces David Hensley (PH) playing C batting 9thCorey Julks moves from PH to LF Chas McCormick moves from LF to CF 
+b9;4-4;0;---;3,(1-1) ....SBX;;PIT;Rodolfo Castro;Ryan Pressly;7%;72%;Single to RF (Fly Ball to Short RF Line)
+b9;4-4;0;1--;8,(3-2) B*BCSFBFS;O;PIT;Jack Suwinski;Ryan Pressly;-8%;64%;Strikeout Swinging
+;;;;;;;;;Andrew McCutchen pinch hits for Jason Delay (C) batting 9th
+b9;4-4;1;1--;3,(0-2) .CSX;;PIT;Andrew McCutchen;Ryan Pressly;7%;71%;Single to LF (Ground Ball); Castro to 2B
+b9;4-4;1;12-;7,(2-2) CB*S.FFBX;RRR;PIT;Ji Hwan Bae;Ryan Pressly;29%;100%;Home Run (Fly Ball to Deep RF); Castro Scores; McCutchen Scores
+;;;;;;;;;3 runs, 3 hits, 0 errors, 0 LOB. Astros 4, Pirates 7.

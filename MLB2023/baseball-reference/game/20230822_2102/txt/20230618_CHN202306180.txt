@@ -1,0 +1,280 @@
+
+Scorebox Meta
+20230618
+12:05 p.m. Local
+40121
+Wrigley Field
+166
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/BAL-2023.png;/teams/BAL/2023.shtml;0;0;0;2;0;3;0;0;1;6;14;1
+https://cdn.ssref.net/req/202308101/tlogo/br/CHC-2023.png;/teams/CHC/2023.shtml;1;0;0;2;0;0;0;0;0;3;3;0
+
+Batting home
+Mike Tauchman;/players/t/tauchmi01.shtml;CF;3;1;1;1;1;1;4;.282;.408;.359;.767;14;7;0.027; 1.34;0.131;-0.104; 0.01%; 0.94; 0.6;4;1;HR,SB
+Nico Hoerner;/players/h/hoernni01.shtml;2B;4;0;0;0;0;0;4;.284;.336;.379;.714;13;9;-0.172; 1.52;0.000;-0.172;-0.07%; 1.06; -1.3;3;2;
+Seiya Suzuki;/players/s/suzukse01.shtml;RF;4;0;0;0;0;1;4;.263;.353;.420;.773;18;11;-0.104; 0.97;0.000;-0.104;-0.04%; 0.68; -0.9;2;0;
+Ian Happ;/players/h/happia01.shtml;LF;3;0;0;0;1;1;4;.263;.387;.397;.784;19;11;-0.086; 1.03;0.011;-0.097;-0.04%; 0.72; -0.5;5;1;
+Dansby Swanson;/players/s/swansda01.shtml;SS;4;0;1;0;0;1;4;.264;.352;.403;.755;10;9;-0.042; 0.80;0.023;-0.064;-0.02%; 0.56; -0.2;2;4;
+Cody Bellinger;/players/b/bellico01.shtml;1B;4;1;0;0;0;2;4;.260;.328;.474;.802;13;11;-0.048; 0.91;0.035;-0.083;-0.02%; 0.63; -0.6;6;1;
+Christopher Morel;/players/m/morelch01.shtml;DH;4;1;1;2;0;1;4;.300;.350;.709;1.059;18;10;0.159; 1.16;0.234;-0.075; 0.07%; 0.81; 1.1;;;HR
+Miguel Amaya;/players/a/amayami01.shtml;C;2;0;0;0;0;2;3;.243;.383;.405;.788;14;9;0.021; 0.70;0.046;-0.026; 0.01%; 0.49; -0.0;2;1;HBP
+Miles Mastrobuoni;/players/m/mastrmi01.shtml;PR;0;0;0;0;0;0;0;.148;.246;.180;.427;;;0.034; 2.89;0.034;0.000; 0.01%; 2.02; 0.2;;;SB
+Tucker Barnhart;/players/b/barnhtu01.shtml;C;1;0;0;0;0;1;1;.171;.264;.184;.449;5;4;-0.005; 0.19;0.000;-0.005;-0.00%; 0.13; -0.1;1;0;
+Nick Madrigal;/players/m/madrini01.shtml;3B;2;0;0;0;0;1;3;.243;.310;.287;.596;17;9;0.036; 1.11;0.068;-0.032; 0.01%; 0.77; 0.0;1;1;SB,HBP
+Jameson Taillon;/players/t/taillja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Anthony Kay;/players/k/kayan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael Fulmer;/players/f/fulmemi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Hayden Wesneski;/players/w/wesneha01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;2;
+HR: Mike Tauchman (1, off Dean Kremer, 1st inn, 0 on, 0 outs to Deep LF Line); Christopher Morel (13, off Dean Kremer, 4th inn, 1 on, 2 outs to Deep LF-CF).
+
+
+HBP: Miguel Amaya (7, by Mike Baumann); Nick Madrigal (4, by Mike Baumann).
+
+
+TB: Mike Tauchman 4; Christopher Morel 4; Dansby Swanson.
+
+
+RBI: Christopher Morel 2 (29); Mike Tauchman (10).
+
+
+2-out RBI: Christopher Morel 2.
+
+
+Team LOB: 5.
+With RISP: 1 for 5.
+
+Batting away
+Austin Hays;/players/h/haysau01.shtml;LF;4;1;3;0;0;0;5;.320;.360;.515;.875;13;8;0.081; 0.70;0.113;-0.032; 0.05%; 0.71; 0.8;3;0;2B,HBP
+Adley Rutschman;/players/r/rutscad01.shtml;C;5;0;1;1;0;0;5;.280;.387;.437;.824;12;10;-0.049; 0.95;0.050;-0.099;-0.03%; 0.97; 0.1;11;0;2B
+Anthony Santander;/players/s/santaan02.shtml;DH;5;1;2;1;0;0;5;.262;.331;.465;.796;24;18;-0.022; 0.86;0.121;-0.143;-0.01%; 0.88; -0.7;;;HR
+Ryan O'Hearn;/players/o/ohearry01.shtml;RF-1B;4;2;2;0;0;1;4;.349;.389;.614;1.003;19;12;0.068; 0.96;0.102;-0.033; 0.04%; 0.98; 0.4;7;0;
+Aaron Hicks;/players/h/hicksaa01.shtml;CF;3;1;2;0;1;0;4;.246;.341;.381;.722;13;7;0.254; 1.31;0.267;-0.014; 0.16%; 1.34; 1.8;2;0;2B,SB
+Ramón Urías;/players/u/uriasra01.shtml;3B;3;0;1;2;0;1;4;.266;.335;.380;.715;15;11;0.023; 1.53;0.103;-0.080; 0.01%; 1.57; 0.2;0;2;SF
+Adam Frazier;/players/f/fraziad01.shtml;2B;4;1;1;1;0;0;4;.229;.290;.392;.682;15;12;0.037; 1.27;0.131;-0.094; 0.02%; 1.30; -0.2;0;3;
+Josh Lester;/players/l/lestejo02.shtml;1B;1;0;0;0;1;0;2;.200;.238;.200;.438;7;2;-0.047; 1.48;0.042;-0.089;-0.03%; 1.52; -0.5;3;0;GDP
+Ryan McKenna;/players/m/mckenry01.shtml;PH-RF;2;0;1;0;0;0;2;.233;.288;.342;.630;9;5;0.029; 0.81;0.038;-0.008; 0.02%; 0.82; 0.1;1;0;
+Jorge Mateo;/players/m/mateojo01.shtml;SS;4;0;1;1;0;1;4;.231;.271;.367;.638;12;11;-0.055; 1.32;0.071;-0.127;-0.03%; 1.36; -0.8;0;1;GDP
+Dean Kremer;/players/k/kremede01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Danny Coulombe;/players/c/couloda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Mike Baumann;/players/b/baumami01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yennier Cano;/players/c/canoye01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Félix Bautista;/players/b/bautife01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Austin Hays (19, off Jameson Taillon); Aaron Hicks (5, off Jameson Taillon); Adley Rutschman (11, off Hayden Wesneski).
+
+
+HR: Anthony Santander (10, off Jameson Taillon, 4th inn, 0 on, 0 outs to Deep CF-RF).
+
+
+SF: Ramón Urías (1, off Jameson Taillon).
+
+
+HBP: Austin Hays (1, by Jameson Taillon).
+
+
+TB: Anthony Santander 5; Austin Hays 4; Aaron Hicks 3; Adley Rutschman 2; Ryan O'Hearn 2; Ramón Urías; Adam Frazier; Jorge Mateo; Ryan McKenna.
+
+
+GIDP: Jorge Mateo (5); Josh Lester (1).
+
+
+RBI: Ramón Urías 2 (22); Adley Rutschman (32); Adam Frazier (32); Anthony Santander (39); Jorge Mateo (27).
+
+
+2-out RBI: Adley Rutschman.
+
+
+Team LOB: 6.
+With RISP: 3 for 10.
+
+Pitching home
+Jameson Taillon;/players/t/taillja01.shtml; L (2-5); 5.1;8;4;4;2;1;1;6.71;24;81;57;38;4;15;5;15;6;0;35;;;-0.145; 1.36;-0.06%; 0.95; -0.5
+Anthony Kay;/players/k/kayan01.shtml;Anthony Kay; 0.1;3;1;1;0;0;0;2.70;3;9;5;3;2;0;2;1;1;0;;1;1;-0.240; 1.74;-0.10%; 1.21; -1.7
+Michael Fulmer;/players/f/fulmemi01.shtml;Michael Fulmer; 0.1;0;0;0;0;0;0;5.46;1;5;2;1;0;1;0;1;0;0;;1;0;0.032; 1.13; 0.01%; 0.79; 0.4
+Hayden Wesneski;/players/w/wesneha01.shtml;Hayden Wesneski; 3 ;3;1;1;0;2;0;5.20;11;44;32;20;5;7;5;4;2;0;;0;0;0.034; 0.35; 0.01%; 0.24; 0.6
+
+Pitching away
+Dean Kremer;/players/k/kremede01.shtml; W (8-3); 5 ;3;3;1;2;7;2;4.56;21;92;58;32;8;18;2;10;5;0;58;;;-0.117; 0.80;-0.07%; 0.82; -0.4
+Danny Coulombe;/players/c/couloda01.shtml; H (12); 1 ;0;0;0;0;1;0;2.59;3;6;6;2;1;3;1;1;0;0;;0;0;0.076; 0.99; 0.05%; 1.01; 0.5
+Mike Baumann;/players/b/baumami01.shtml; H (4); 0.2;0;0;0;0;2;0;4.14;4;21;11;8;1;2;0;0;0;0;;0;0;0.009; 2.08; 0.01%; 2.13; 0.1
+Yennier Cano;/players/c/canoye01.shtml; H (16); 1.1;0;0;0;0;0;0;0.99;4;12;8;5;0;3;3;1;0;0;;2;0;0.169; 2.02; 0.10%; 2.07; 1.0
+Félix Bautista;/players/b/bautife01.shtml; S (19); 1 ;0;0;0;0;1;0;1.08;3;10;7;3;2;2;2;0;0;0;;0;0;0.044; 0.56; 0.03%; 0.57; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Jameson Taillon (2; Austin Hays); Mike Baumann 2 (2; Miguel Amaya, Nick Madrigal).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Jameson Taillon (2; Austin Hays); Mike Baumann 2 (2; Miguel Amaya, Nick Madrigal).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Ben May, 1B - Jeff Nelson, 2B - Tom Hanahan, 3B - CB Bucknor, LF - (none), RF - (none).
+Time of Game: 2:46.
+Attendance: 40,121.
+Field Condition: Unknown.
+Start Time Weather: 76° F, Wind 4mph from Right to Left, Cloudy, No Precipitation.
+
+div_lineups
+Orioles
+1;Austin Hays;/players/h/haysau01.shtml;LF
+2;Adley Rutschman;/players/r/rutscad01.shtml;C
+3;Anthony Santander;/players/s/santaan02.shtml;DH
+4;Ryan O'Hearn;/players/o/ohearry01.shtml;RF
+5;Aaron Hicks;/players/h/hicksaa01.shtml;CF
+6;Ramón Urías;/players/u/uriasra01.shtml;3B
+7;Adam Frazier;/players/f/fraziad01.shtml;2B
+8;Josh Lester;/players/l/lestejo02.shtml;1B
+9;Jorge Mateo;/players/m/mateojo01.shtml;SS
+; Dean Kremer;/players/k/kremede01.shtml;P
+Cubs
+1;Mike Tauchman;/players/t/tauchmi01.shtml;CF
+2;Nico Hoerner;/players/h/hoernni01.shtml;2B
+3;Seiya Suzuki;/players/s/suzukse01.shtml;RF
+4;Ian Happ;/players/h/happia01.shtml;LF
+5;Dansby Swanson;/players/s/swansda01.shtml;SS
+6;Cody Bellinger;/players/b/bellico01.shtml;1B
+7;Christopher Morel;/players/m/morelch01.shtml;DH
+8;Miguel Amaya;/players/a/amayami01.shtml;C
+9;Nick Madrigal;/players/m/madrini01.shtml;3B
+; Jameson Taillon;/players/t/taillja01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b4;1-2;2;--3;5,(3-1) BC*BBX;RR;CHC;Christopher Morel;Dean Kremer;-23%;35%;Home Run (Line Drive to Deep LF-CF); Bellinger Scores/unER; Morel Scores/unER
+t6;2-3;0;1--;1,(0-0) X;;BAL;Aaron Hicks;Jameson Taillon;17%;57%;Double to RF (Fly Ball to Deep RF); O'Hearn to 3B
+t6;3-3;1;-2-;4,(2-1) .BSBX;R;BAL;Adam Frazier;Anthony Kay;13%;66%;Single to CF (Ground Ball); Hicks Scores
+t4;0-1;0;---;6,(3-2) FBBBCX;R;BAL;Anthony Santander;Jameson Taillon;12%;50%;Home Run (Fly Ball to Deep CF-RF)
+b7;3-5;2;-23;4,(1-2) .FC.>B.X;O;CHC;Nico Hoerner;Yennier Cano;11%;86%;Groundout: 2B-1B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Orioles Batting, Tied 0-0, Cubs' Jameson Taillon facing 1-2-3 
+t1;0-0;0;---;2,(0-1) FX;;BAL;Austin Hays;Jameson Taillon;6%;56%;Double to CF (Fly Ball to Short CF)
+t1;0-0;0;-2-;2,(0-1) CX;O;BAL;Adley Rutschman;Jameson Taillon;-2%;54%;Groundout: SS-1B; Hays to 3B
+t1;0-0;1;--3;1,(0-0) X;OO;BAL;Anthony Santander;Jameson Taillon;-9%;45%;Double Play: Flyball: CF; Hays out at Hm/CF-C
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Orioles 0, Cubs 0.
+Bottom of the 1st, Cubs Batting, Tied 0-0, Orioles' Dean Kremer facing 1-2-3 
+b1;0-0;0;---;1,(0-0) X;R;CHC;Mike Tauchman;Dean Kremer;-10%;36%;Home Run (Fly Ball to Deep LF Line)
+b1;1-0;0;---;6,(2-2) BCS.BFX;O;CHC;Nico Hoerner;Dean Kremer;2%;37%;Flyball: LF (LF-CF)
+b1;1-0;1;---;3,(0-2) CCX;O;CHC;Seiya Suzuki;Dean Kremer;1%;39%;Groundout: 3B-1B (SS-3B Hole)
+b1;1-0;2;---;6,(3-2) FBBBCB;;CHC;Ian Happ;Dean Kremer;-1%;38%;Walk
+b1;1-0;2;1--;4,(1-2) CCB>X;;CHC;Dansby Swanson;Dean Kremer;-2%;36%;Single to RF (Line Drive to Short RF Line); Happ to 3B
+b1;1-0;2;1-3;3,(0-2) SS.>S;O;CHC;Cody Bellinger;Dean Kremer;4%;40%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Orioles 0, Cubs 1.
+Top of the 2nd, Orioles Batting, Behind 0-1, Cubs' Jameson Taillon facing 4-5-6 
+t2;0-1;0;---;3,(1-1) CBX;O;BAL;Ryan O'Hearn;Jameson Taillon;-2%;37%;Lineout: CF (Deep CF)
+t2;0-1;1;---;4,(1-2) CBSX;;BAL;Aaron Hicks;Jameson Taillon;3%;40%;Single to RF (Fly Ball to CF-RF)
+t2;0-1;1;1--;6,(2-2) CBC*BF>S;O;BAL;Ramón Urías;Jameson Taillon;-2%;38%;Strikeout Swinging, Hicks Steals 2B
+t2;0-1;2;-2-;2,(0-1) FX;O;BAL;Adam Frazier;Jameson Taillon;-3%;34%;Lineout: LF (LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 0, Cubs 1.
+Bottom of the 2nd, Cubs Batting, Ahead 1-0, Orioles' Dean Kremer facing 7-8-9 
+b2;1-0;0;---;4,(2-1) BCBX;O;CHC;Christopher Morel;Dean Kremer;2%;37%;Groundout: 3B-1B (SS-3B Hole)
+b2;1-0;1;---;4,(1-2) CBF.S;O;CHC;Miguel Amaya;Dean Kremer;1%;38%;Strikeout Swinging
+b2;1-0;2;---;5,(2-2) FBFBS;O;CHC;Nick Madrigal;Dean Kremer;1%;39%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 0, Cubs 1.
+Top of the 3rd, Orioles Batting, Behind 0-1, Cubs' Jameson Taillon facing 8-9-1 
+t3;0-1;0;---;5,(3-1) BFBBB;;BAL;Josh Lester;Jameson Taillon;4%;43%;Walk
+t3;0-1;0;1--;4,(0-2) CSFX;OO;BAL;Jorge Mateo;Jameson Taillon;-9%;34%;Ground Ball Double Play: P-2B-1B (P's Left)
+t3;0-1;2;---;4,(1-2) BCFX;;BAL;Austin Hays;Jameson Taillon;1%;36%;Single to CF (Line Drive to Short CF)
+t3;0-1;2;1--;3,(1-1) CBX;O;BAL;Adley Rutschman;Jameson Taillon;-3%;33%;Flyball: LF (Short LF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 0, Cubs 1.
+Bottom of the 3rd, Cubs Batting, Ahead 1-0, Orioles' Dean Kremer facing 1-2-3 
+b3;1-0;0;---;1,(0-0) X;O;CHC;Mike Tauchman;Dean Kremer;2%;35%;Flyball: CF (Deep CF)
+b3;1-0;1;---;2,(1-0) BX;O;CHC;Nico Hoerner;Dean Kremer;2%;37%;Lineout: RF (Deep RF Line)
+b3;1-0;2;---;6,(3-2) FBFBBX;O;CHC;Seiya Suzuki;Dean Kremer;1%;38%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 0, Cubs 1.
+Top of the 4th, Orioles Batting, Behind 0-1, Cubs' Jameson Taillon facing 3-4-5 
+t4;0-1;0;---;6,(3-2) FBBBCX;R;BAL;Anthony Santander;Jameson Taillon;12%;50%;Home Run (Fly Ball to Deep CF-RF)
+t4;1-1;0;---;4,(1-2) BCFX;;BAL;Ryan O'Hearn;Jameson Taillon;4%;54%;Single to LF (Ground Ball)
+t4;1-1;0;1--;6,(3-2) BFBCB1>B;;BAL;Aaron Hicks;Jameson Taillon;6%;61%;Walk; O'Hearn to 2B
+t4;1-1;0;12-;4,(0-2) CFFX;R;BAL;Ramón Urías;Jameson Taillon;10%;71%;Single to 3B (Line Drive to Short LF Line); O'Hearn Scores; Hicks to 2B
+t4;2-1;0;12-;4,(0-2) CSFX;O;BAL;Adam Frazier;Jameson Taillon;-5%;66%;Lineout: LF (Deep LF)
+t4;2-1;1;12-;2,(1-0) BX;OO;BAL;Josh Lester;Jameson Taillon;-9%;57%;Ground Ball Double Play: 2B-SS-1B (Deep 2B)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Orioles 2, Cubs 1.
+Bottom of the 4th, Cubs Batting, Behind 1-2, Orioles' Dean Kremer facing 4-5-6 
+b4;1-2;0;---;9,(3-2) BFFFBBFFS;O;CHC;Ian Happ;Dean Kremer;3%;60%;Strikeout Swinging
+b4;1-2;1;---;3,(0-2) CFT;O;CHC;Dansby Swanson;Dean Kremer;2%;62%;Strikeout Swinging
+b4;1-2;2;---;5,(1-2) F.FFBX;;CHC;Cody Bellinger;Dean Kremer;-3%;59%;Reached on E9 (Line Drive to Deep CF-RF); Bellinger to 3B
+b4;1-2;2;--3;5,(3-1) BC*BBX;RR;CHC;Christopher Morel;Dean Kremer;-23%;35%;Home Run (Line Drive to Deep LF-CF); Bellinger Scores/unER; Morel Scores/unER
+b4;3-2;2;---;6,(2-2) CFFBB.C;O;CHC;Miguel Amaya;Dean Kremer;1%;36%;Strikeout Looking
+;;;;;;;;;2 runs, 1 hit, 1 error, 0 LOB. Orioles 2, Cubs 3.
+Top of the 5th, Orioles Batting, Behind 2-3, Cubs' Jameson Taillon facing 9-1-2 
+t5;2-3;0;---;4,(1-2) FBFX;O;BAL;Jorge Mateo;Jameson Taillon;-3%;33%;Lineout: RF (Deep CF-RF)
+t5;2-3;1;---;1,(0-0) H;;BAL;Austin Hays;Jameson Taillon;4%;37%;Hit By Pitch
+t5;2-3;1;1--;4,(1-2) BCFX;O;BAL;Adley Rutschman;Jameson Taillon;-4%;33%;Flyball: CF (Deep CF)
+t5;2-3;2;1--;2,(0-1) FX;O;BAL;Anthony Santander;Jameson Taillon;-3%;29%;Foul Popfly: 3B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Orioles 2, Cubs 3.
+Bottom of the 5th, Cubs Batting, Ahead 3-2, Orioles' Dean Kremer facing 9-1-2 
+b5;3-2;0;---;7,(3-2) CBBB.CFX;O;CHC;Nick Madrigal;Dean Kremer;2%;32%;Lineout: LF (Deep LF-CF)
+b5;3-2;1;---;6,(3-2) BCBCBB;;CHC;Mike Tauchman;Dean Kremer;-2%;29%;Walk
+b5;3-2;1;1--;1,(0-0) X;O;CHC;Nico Hoerner;Dean Kremer;3%;32%;Flyball: CF (Short CF)
+b5;3-2;2;1--;4,(2-1) C*BB>S;;CHC;Seiya Suzuki;Dean Kremer;-1%;31%;Tauchman Steals 2B
+b5;3-2;2;-2-;5,(2-2) C*BB>S.C;O;CHC;Seiya Suzuki;Dean Kremer;3%;34%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Orioles 2, Cubs 3.
+Top of the 6th, Orioles Batting, Behind 2-3, Cubs' Jameson Taillon facing 4-5-6 
+t6;2-3;0;---;5,(2-2) BCBFX;;BAL;Ryan O'Hearn;Jameson Taillon;6%;40%;Single to RF (Ground Ball)
+t6;2-3;0;1--;1,(0-0) X;;BAL;Aaron Hicks;Jameson Taillon;17%;57%;Double to RF (Fly Ball to Deep RF); O'Hearn to 3B
+t6;2-3;0;-23;2,(0-1) FX;RO;BAL;Ramón Urías;Jameson Taillon;-4%;53%;Flyball: CF/Sacrifice Fly (Deep CF-RF); O'Hearn Scores
+;;;;;;;;;Anthony Kay replaces Jameson Taillon pitching
+t6;3-3;1;-2-;4,(2-1) .BSBX;R;BAL;Adam Frazier;Anthony Kay;13%;66%;Single to CF (Ground Ball); Hicks Scores
+;;;;;;;;;Ryan McKenna pinch hits for Josh Lester (1B) batting 8th
+t6;4-3;1;1--;4,(2-1) .SBBX;;BAL;Ryan McKenna;Anthony Kay;4%;70%;Single to LF (Ground Ball thru SS-3B Hole); Frazier to 2B
+t6;4-3;1;12-;1,(0-0) X;RO;BAL;Jorge Mateo;Anthony Kay;7%;77%;Single to LF (Line Drive to Deep LF-CF); Frazier Scores; McKenna to 3B; Mateo out at 2B/LF-SS-2B
+;;;;;;;;;Tag play Challenged by BAL manager (Brandon Hyde): Original call upheld upon review.
+;;;;;;;;;Michael Fulmer replaces Anthony Kay pitching
+t6;5-3;2;--3;5,(3-1) .BBBC.X;O;BAL;Austin Hays;Michael Fulmer;-3%;74%;Flyball: RF (CF-RF)
+;;;;;;;;;3 runs, 5 hits, 0 errors, 1 LOB. Orioles 5, Cubs 3.
+Bottom of the 6th, Cubs Batting, Behind 3-5, Orioles' Danny Coulombe facing 4-5-6 
+;;;;;;;;;Danny Coulombe replaces Dean Kremer pitchingRyan O'Hearn moves from RF to 1B Ryan McKenna moves from PH to RF 
+b6;3-5;0;---;1,(0-0) ...X;O;CHC;Ian Happ;Danny Coulombe;4%;77%;Groundout: P-1B
+b6;3-5;1;---;2,(0-1) CX;O;CHC;Dansby Swanson;Danny Coulombe;2%;80%;Flyball: RF
+b6;3-5;2;---;3,(0-2) CCS;O;CHC;Cody Bellinger;Danny Coulombe;2%;81%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 5, Cubs 3.
+Top of the 7th, Orioles Batting, Ahead 5-3, Cubs' Hayden Wesneski facing 2-3-4 
+;;;;;;;;;Hayden Wesneski replaces Michael Fulmer pitching
+t7;5-3;0;---;2,(0-1) .CX;O;BAL;Adley Rutschman;Hayden Wesneski;-2%;80%;Groundout: 1B-P (2B-1B)
+t7;5-3;1;---;2,(0-1) CX;O;BAL;Anthony Santander;Hayden Wesneski;-1%;78%;Single to 3B (Ground Ball); Santander out at 2B/3B-2B
+t7;5-3;2;---;7,(3-2) CBBS.BF*S;O;BAL;Ryan O'Hearn;Hayden Wesneski;-1%;78%;Strikeout Swinging; O'Hearn out at 1B/C-P-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Orioles 5, Cubs 3.
+Bottom of the 7th, Cubs Batting, Behind 3-5, Orioles' Mike Baumann facing 7-8-9 
+;;;;;;;;;Mike Baumann replaces Danny Coulombe pitching
+b7;3-5;0;---;6,(2-2) .CBFBFT;O;CHC;Christopher Morel;Mike Baumann;4%;82%;Strikeout Swinging
+b7;3-5;1;---;4,(1-2) FSBH;;CHC;Miguel Amaya;Mike Baumann;-5%;77%;Hit By Pitch
+b7;3-5;1;1--;5,(2-2) BBFFH;;CHC;Nick Madrigal;Mike Baumann;-7%;70%;Hit By Pitch; Amaya to 2B
+;;;;;;;;;Miles Mastrobuoni pinch runs for Miguel Amaya (C) batting 8th
+b7;3-5;1;12-;6,(3-2) .BFBFBC;O;CHC;Mike Tauchman;Mike Baumann;8%;78%;Strikeout Looking
+;;;;;;;;;Yennier Cano replaces Mike Baumann pitching
+b7;3-5;2;12-;3,(0-2) .FC.>B;;CHC;Nico Hoerner;Yennier Cano;-3%;75%;Mastrobuoni Steals 3B; Madrigal Steals 2B
+b7;3-5;2;-23;4,(1-2) .FC.>B.X;O;CHC;Nico Hoerner;Yennier Cano;11%;86%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Orioles 5, Cubs 3.
+Top of the 8th, Orioles Batting, Ahead 5-3, Cubs' Hayden Wesneski facing 5-6-7 
+;;;;;;;;;Tucker Barnhart replaces Miles Mastrobuoni (PR) playing C batting 8th
+t8;5-3;0;---;2,(1-0) .BX;O;BAL;Aaron Hicks;Hayden Wesneski;-1%;85%;Popfly: SS (Weak SS-2B)
+t8;5-3;1;---;3,(2-0) BBX;O;BAL;Ramón Urías;Hayden Wesneski;-1%;84%;Flyball: LF (Deep LF)
+t8;5-3;2;---;5,(1-2) CBFFX;O;BAL;Adam Frazier;Hayden Wesneski;-1%;83%;Lineout: LF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 5, Cubs 3.
+Bottom of the 8th, Cubs Batting, Behind 3-5, Orioles' Yennier Cano facing 3-4-5 
+b8;3-5;0;---;4,(2-1) CBBX;O;CHC;Seiya Suzuki;Yennier Cano;5%;87%;Groundout: SS-1B (Deep SS)
+b8;3-5;1;---;3,(1-1) CBX;O;CHC;Ian Happ;Yennier Cano;3%;90%;Groundout: P-1B
+b8;3-5;2;---;1,(0-0) X;O;CHC;Dansby Swanson;Yennier Cano;2%;92%;Flyball: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 5, Cubs 3.
+Top of the 9th, Orioles Batting, Ahead 5-3, Cubs' Hayden Wesneski facing 8-9-1 
+t9;5-3;0;---;5,(2-2) SBCBX;O;BAL;Ryan McKenna;Hayden Wesneski;-1%;91%;Groundout: 1B unassisted
+t9;5-3;1;---;3,(0-2) CS*S;O;BAL;Jorge Mateo;Hayden Wesneski;-1%;91%;Strikeout Swinging
+t9;5-3;2;---;1,(0-0) X;;BAL;Austin Hays;Hayden Wesneski;0%;91%;Single to 2B (Ground Ball to SS-2B)
+t9;5-3;2;1--;1,(0-0) X;R;BAL;Adley Rutschman;Hayden Wesneski;5%;96%;Double to CF (Line Drive to Deep CF-RF); Hays Scores
+t9;6-3;2;-2-;13,(3-2) BC*BFFFFBFFFFX;O;BAL;Anthony Santander;Hayden Wesneski;-1%;96%;Groundout: P-SS-1B (Weak SS-2B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Orioles 6, Cubs 3.
+Bottom of the 9th, Cubs Batting, Behind 3-6, Orioles' Félix Bautista facing 6-7-8 
+;;;;;;;;;Félix Bautista replaces Yennier Cano pitching
+b9;3-6;0;---;2,(1-0) .BX;O;CHC;Cody Bellinger;Félix Bautista;3%;98%;Groundout: 2B-1B (2B-1B)
+b9;3-6;1;---;3,(1-1) BCX;O;CHC;Christopher Morel;Félix Bautista;1%;99%;Groundout: 2B-1B (2B-1B)
+b9;3-6;2;---;5,(1-2) CBS.FS;O;CHC;Tucker Barnhart;Félix Bautista;1%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 6, Cubs 3.

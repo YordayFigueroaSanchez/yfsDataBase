@@ -1,0 +1,276 @@
+
+Scorebox Meta
+20230726
+1:10 p.m. Local
+46667
+Dodger Stadium
+174
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/TOR-2023.png;/teams/TOR/2023.shtml;0;1;1;0;3;1;0;2;0;8;11;0
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;0;0;0;0;1;0;0;0;1;8;0
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;RF;2;0;1;0;2;0;4;.277;.380;.561;.942;19;10;0.104; 0.99;0.111;-0.007; 0.08%; 1.34; 1.2;2;0;
+Yonny Hernández;/players/h/hernayo02.shtml;PH;1;0;0;0;0;0;1;.136;.231;.182;.413;4;3;0.000; 0.00;0.000;0.000;0%; 0.00; -0.1;;;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;4;0;1;0;0;1;4;.328;.409;.581;.989;18;15;-0.114; 1.56;0.052;-0.166;-0.09%; 2.10; -1.5;3;2;GDP
+J.D. Martinez;/players/m/martijd02.shtml;DH;4;0;0;0;0;3;4;.260;.311;.567;.877;17;13;-0.099; 0.88;0.000;-0.099;-0.08%; 1.19; -1.5;;;
+Chris Taylor;/players/t/tayloch03.shtml;LF;4;1;1;0;0;3;4;.213;.281;.452;.733;16;11;-0.043; 0.75;0.021;-0.064;-0.03%; 1.01; -0.2;5;1;2B
+Max Muncy;/players/m/muncyma01.shtml;3B;3;0;0;0;1;1;4;.197;.329;.478;.807;16;9;-0.070; 0.67;0.001;-0.071;-0.06%; 0.90; -0.9;2;2;
+Enrique Hernández;/players/h/hernaen02.shtml;2B;4;0;2;0;0;0;4;.226;.281;.322;.604;20;11;0.011; 0.65;0.049;-0.038; 0.01%; 0.88; 0.1;2;1;
+James Outman;/players/o/outmaja01.shtml;CF;4;0;2;1;0;1;4;.250;.343;.428;.770;11;8;-0.001; 0.76;0.046;-0.047;-0.00%; 1.02; 0.2;5;1;
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;4;0;0;0;0;2;4;.221;.279;.268;.547;18;10;-0.111; 0.81;0.000;-0.111;-0.09%; 1.08; -1.4;0;0;GDP
+Austin Barnes;/players/b/barneau01.shtml;C;3;0;1;0;0;1;4;.110;.197;.128;.325;13;9;0.035; 0.48;0.047;-0.013; 0.03%; 0.65; 0.2;7;0;HBP
+Tony Gonsolin;/players/g/gonsoto01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Alex Vesia;/players/v/vesiaal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tyson Miller;/players/m/millety01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Phil Bickford;/players/b/bickfph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Chris Taylor (9, off Yusei Kikuchi).
+
+
+HBP: Austin Barnes (2, by Yusei Kikuchi).
+
+
+TB: James Outman 2; Enrique Hernández 2; Chris Taylor 2; Freddie Freeman; Austin Barnes; Mookie Betts.
+
+
+GIDP: Miguel Rojas (5); Freddie Freeman (6).
+
+
+RBI: James Outman (44).
+
+
+2-out RBI: James Outman.
+
+
+Team LOB: 9.
+With RISP: 1 for 10.
+
+Batting away
+George Springer;/players/s/springe01.shtml;RF;4;0;0;0;1;0;5;.257;.326;.397;.723;23;13;-0.076; 0.60;0.001;-0.077;-0.06%; 0.72; -0.9;1;0;
+Bo Bichette;/players/b/bichebo01.shtml;SS;5;1;3;2;0;1;5;.316;.347;.491;.838;16;10;0.057; 0.56;0.074;-0.017; 0.04%; 0.66; 1.7;0;3;
+Brandon Belt;/players/b/beltbr01.shtml;DH;5;0;1;1;0;0;5;.247;.362;.429;.791;19;13;0.050; 0.70;0.091;-0.041; 0.04%; 0.84; 0.0;;;
+Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;1B;5;2;2;0;0;1;5;.272;.342;.456;.799;25;15;0.026; 0.70;0.064;-0.038; 0.02%; 0.84; -0.1;6;0;
+Matt Chapman;/players/c/chapmma01.shtml;3B;3;0;1;0;2;0;5;.262;.354;.462;.816;22;10;0.089; 0.87;0.126;-0.037; 0.06%; 1.04; 1.0;0;0;2B
+Whit Merrifield;/players/m/merriwh01.shtml;LF;4;2;2;4;0;1;5;.299;.350;.413;.763;18;15;0.053; 0.85;0.188;-0.135; 0.04%; 1.02; 1.2;3;0;HR,SF
+Daulton Varsho;/players/v/varshda01.shtml;CF;2;0;0;0;2;1;4;.213;.276;.355;.632;22;9;0.034; 0.34;0.040;-0.006; 0.02%; 0.40; 0.0;3;0;
+Danny Jansen;/players/j/janseda01.shtml;C;4;1;1;1;0;2;4;.230;.293;.480;.773;18;11;-0.029; 0.54;0.022;-0.051;-0.02%; 0.64; 0.1;12;0;HR
+Cavan Biggio;/players/b/biggica01.shtml;2B;3;2;1;0;0;1;4;.217;.300;.388;.688;12;9;0.010; 0.49;0.036;-0.026; 0.01%; 0.59; 0.0;2;5;HBP
+Yusei Kikuchi;/players/k/kikucyu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jay Jackson;/players/j/jacksja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tim Mayza;/players/m/mayzati01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Richards;/players/r/richatr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Matt Chapman (32, off Tony Gonsolin).
+
+
+HR: Whit Merrifield (7, off Tony Gonsolin, 5th inn, 2 on, 2 outs to Deep LF); Danny Jansen (13, off Alex Vesia, 6th inn, 0 on, 0 outs to Deep LF).
+
+
+SF: Whit Merrifield (4, off Tony Gonsolin).
+
+
+HBP: Cavan Biggio (4, by Tony Gonsolin).
+
+
+TB: Whit Merrifield 5; Danny Jansen 4; Bo Bichette 3; Matt Chapman 2; Vladimir Guerrero Jr. 2; Cavan Biggio; Brandon Belt.
+
+
+RBI: Whit Merrifield 4 (46); Bo Bichette 2 (58); Brandon Belt (26); Danny Jansen (45).
+
+
+2-out RBI: Whit Merrifield 3; Bo Bichette 2.
+
+
+Team LOB: 7.
+With RISP: 3 for 6.
+
+Pitching home
+Tony Gonsolin;/players/g/gonsoto01.shtml; L (5-4); 5 ;7;5;5;3;5;1;4.25;25;109;65;35;10;20;7;9;3;0;35;;;-0.191; 1.06;-0.15%; 1.43; -2.3
+Alex Vesia;/players/v/vesiaal01.shtml;Alex Vesia; 1 ;1;1;1;0;1;1;6.00;4;19;11;5;1;5;0;3;0;0;;0;0;-0.016; 0.09;-0.01%; 0.12; -0.5
+Tyson Miller;/players/m/millety01.shtml;Tyson Miller; 2 ;3;2;2;1;1;0;6.35;9;32;21;13;4;4;0;7;3;0;;0;0;-0.006; 0.09;-0.01%; 0.12; -0.9
+Phil Bickford;/players/b/bickfph01.shtml;Phil Bickford; 1 ;0;0;0;1;0;0;5.23;4;15;8;5;0;3;1;2;1;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+Pitching away
+Yusei Kikuchi;/players/k/kikucyu01.shtml; W (8-3); 6 ;7;1;1;2;8;0;3.79;26;103;67;34;16;17;6;9;7;0;60;;;0.259; 1.11; 0.18%; 1.33; 2.3
+Jay Jackson;/players/j/jacksja01.shtml;Jay Jackson; 1.2;1;0;0;1;3;0;0.57;7;35;22;11;5;6;0;3;1;0;;0;0;0.024; 0.16; 0.02%; 0.19; 0.6
+Tim Mayza;/players/m/mayzati01.shtml;Tim Mayza; 0.1;0;0;0;0;0;0;1.29;1;2;2;2;0;0;0;1;1;0;;2;0;0.003; 0.12; 0.00%; 0.14; 0.5
+Trevor Richards;/players/r/richatr01.shtml;Trevor Richards; 1 ;0;0;0;0;1;0;3.12;3;12;8;6;1;1;1;1;0;0;;0;0;0.002; 0.02; 0.00%; 0.02; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Tyson Miller (2).
+HBP: Tony Gonsolin (7; Cavan Biggio); Yusei Kikuchi (4; Austin Barnes).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Tyson Miller (2).
+HBP: Tony Gonsolin (7; Cavan Biggio); Yusei Kikuchi (4; Austin Barnes).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Ben May, 1B - Jeff Nelson, 2B - Chris Segal, 3B - CB Bucknor, LF - (none), RF - (none).
+Time of Game: 2:54.
+Attendance: 46,667.
+Field Condition: Unknown.
+Start Time Weather: 92° F, Wind 6mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Blue Jays
+1;George Springer;/players/s/springe01.shtml;RF
+2;Bo Bichette;/players/b/bichebo01.shtml;SS
+3;Brandon Belt;/players/b/beltbr01.shtml;DH
+4;Vladimir Guerrero Jr.;/players/g/guerrvl02.shtml;1B
+5;Matt Chapman;/players/c/chapmma01.shtml;3B
+6;Whit Merrifield;/players/m/merriwh01.shtml;LF
+7;Daulton Varsho;/players/v/varshda01.shtml;CF
+8;Danny Jansen;/players/j/janseda01.shtml;C
+9;Cavan Biggio;/players/b/biggica01.shtml;2B
+; Yusei Kikuchi;/players/k/kikucyu01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;RF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;J.D. Martinez;/players/m/martijd02.shtml;DH
+4;Chris Taylor;/players/t/tayloch03.shtml;LF
+5;Max Muncy;/players/m/muncyma01.shtml;3B
+6;Enrique Hernández;/players/h/hernaen02.shtml;2B
+7;James Outman;/players/o/outmaja01.shtml;CF
+8;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+9;Austin Barnes;/players/b/barneau01.shtml;C
+; Tony Gonsolin;/players/g/gonsoto01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t5;2-0;2;12-;3,(0-2) CSX;RRR;TOR;Whit Merrifield;Tony Gonsolin;18%;92%;Home Run (Fly Ball to Deep LF); Bichette Scores; Guerrero Scores
+t2;0-0;0;1--;6,(3-2) B*BSBCX;;TOR;Matt Chapman;Tony Gonsolin;10%;64%;Double to CF (Line Drive to Deep CF); Guerrero to 3B
+t3;1-0;1;12-;3,(1-1) SBX;R;TOR;Brandon Belt;Tony Gonsolin;9%;73%;Single to RF (Ground Ball thru 2B-1B); Biggio Scores; Bichette to 2B
+b2;0-1;2;123;3,(0-2) FFS;O;LAD;Freddie Freeman;Yusei Kikuchi;8%;61%;Strikeout Swinging
+b5;0-5;0;12-;2,(0-1) CX;OO;LAD;Freddie Freeman;Yusei Kikuchi;8%;93%;Ground Ball Double Play: SS-2B-1B; Barnes to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Blue Jays Batting, Tied 0-0, Dodgers' Tony Gonsolin facing 1-2-3 
+t1;0-0;0;---;6,(3-2) BCSBBX;O;TOR;George Springer;Tony Gonsolin;-2%;48%;Groundout: 3B-1B (SS-3B Hole)
+t1;0-0;1;---;1,(0-0) X;O;TOR;Bo Bichette;Tony Gonsolin;-2%;46%;Groundout: 2B-1B (Deep SS-2B)
+t1;0-0;2;---;6,(3-2) FCBBBX;O;TOR;Brandon Belt;Tony Gonsolin;-1%;45%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Tied 0-0, Blue Jays' Yusei Kikuchi facing 1-2-3 
+b1;0-0;0;---;3,(1-1) BFX;;LAD;Mookie Betts;Yusei Kikuchi;-3%;42%;Single to RF (Line Drive to CF-RF)
+b1;0-0;0;1--;6,(1-2) BCCFFX;;LAD;Freddie Freeman;Yusei Kikuchi;-5%;36%;Single to LF (Line Drive); Betts to 2B
+b1;0-0;0;12-;3,(0-2) CFS;O;LAD;J.D. Martinez;Yusei Kikuchi;5%;41%;Strikeout Swinging
+b1;0-0;1;12-;4,(1-2) B*SFS;O;LAD;Chris Taylor;Yusei Kikuchi;4%;46%;Strikeout Swinging
+b1;0-0;2;12-;1,(0-0) X;O;LAD;Max Muncy;Yusei Kikuchi;4%;50%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Blue Jays 0, Dodgers 0.
+Top of the 2nd, Blue Jays Batting, Tied 0-0, Dodgers' Tony Gonsolin facing 4-5-6 
+t2;0-0;0;---;3,(1-1) FBX;;TOR;Vladimir Guerrero Jr.;Tony Gonsolin;4%;54%;Single to LF (Line Drive to Deep LF-CF)
+t2;0-0;0;1--;6,(3-2) B*BSBCX;;TOR;Matt Chapman;Tony Gonsolin;10%;64%;Double to CF (Line Drive to Deep CF); Guerrero to 3B
+t2;0-0;0;-23;2,(0-1) CX;ROO;TOR;Whit Merrifield;Tony Gonsolin;-8%;56%;Double Play: Flyball: CF/Sacrifice Fly (CF-RF); Guerrero Scores; Chapman out at 3B/CF-1B-3B
+t2;1-0;2;---;5,(3-1) BBBCB;;TOR;Daulton Varsho;Tony Gonsolin;1%;57%;Walk
+t2;1-0;2;1--;3,(2-0) BBX;O;TOR;Danny Jansen;Tony Gonsolin;-2%;55%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Blue Jays 1, Dodgers 0.
+Bottom of the 2nd, Dodgers Batting, Behind 0-1, Blue Jays' Yusei Kikuchi facing 6-7-8 
+b2;0-1;0;---;6,(3-2) CBBBCX;O;LAD;Enrique Hernández;Yusei Kikuchi;3%;58%;Groundout: SS-1B
+b2;0-1;1;---;3,(1-1) BFX;;LAD;James Outman;Yusei Kikuchi;-3%;55%;Single to RF (Line Drive to CF-RF)
+b2;0-1;1;1--;3,(1-1) F1BX;O;LAD;Miguel Rojas;Yusei Kikuchi;3%;58%;Lineout: LF (Deep LF)
+b2;0-1;2;1--;4,(1-2) SFBX;;LAD;Austin Barnes;Yusei Kikuchi;-2%;56%;Single to 2B (Line Drive to Short CF-RF); Outman to 2B
+b2;0-1;2;12-;7,(3-2) CBBBS>F>B;;LAD;Mookie Betts;Yusei Kikuchi;-3%;53%;Walk; Outman to 3B; Barnes to 2B
+b2;0-1;2;123;3,(0-2) FFS;O;LAD;Freddie Freeman;Yusei Kikuchi;8%;61%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Blue Jays 1, Dodgers 0.
+Top of the 3rd, Blue Jays Batting, Ahead 1-0, Dodgers' Tony Gonsolin facing 9-1-2 
+t3;1-0;0;---;4,(1-2) FCBH;;TOR;Cavan Biggio;Tony Gonsolin;3%;64%;Hit By Pitch
+t3;1-0;0;1--;2,(0-1) CX;O;TOR;George Springer;Tony Gonsolin;-3%;61%;Flyball: CF (Short CF-RF)
+t3;1-0;1;1--;5,(3-1) BBSBX;;TOR;Bo Bichette;Tony Gonsolin;3%;64%;Single to LF (Line Drive to LF-CF); Biggio to 2B
+t3;1-0;1;12-;3,(1-1) SBX;R;TOR;Brandon Belt;Tony Gonsolin;9%;73%;Single to RF (Ground Ball thru 2B-1B); Biggio Scores; Bichette to 2B
+t3;2-0;1;12-;7,(3-2) FBBBC.FC;O;TOR;Vladimir Guerrero Jr.;Tony Gonsolin;-4%;70%;Strikeout Looking
+t3;2-0;2;12-;6,(3-2) FFBBB>B;;TOR;Matt Chapman;Tony Gonsolin;2%;72%;Walk; Bichette to 3B; Belt to 2B
+t3;2-0;2;123;3,(0-2) SF.S;O;TOR;Whit Merrifield;Tony Gonsolin;-6%;66%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 3 LOB. Blue Jays 2, Dodgers 0.
+Bottom of the 3rd, Dodgers Batting, Behind 0-2, Blue Jays' Yusei Kikuchi facing 3-4-5 
+b3;0-2;0;---;5,(1-2) CC.BFS;O;LAD;J.D. Martinez;Yusei Kikuchi;3%;69%;Strikeout Swinging
+b3;0-2;1;---;6,(3-2) .BSBBSS;O;LAD;Chris Taylor;Yusei Kikuchi;2%;71%;Strikeout Swinging
+b3;0-2;2;---;6,(2-2) SBCBF*S;O;LAD;Max Muncy;Yusei Kikuchi;1%;72%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 2, Dodgers 0.
+Top of the 4th, Blue Jays Batting, Ahead 2-0, Dodgers' Tony Gonsolin facing 7-8-9 
+t4;2-0;0;---;8,(3-2) BBCBCFF.B;;TOR;Daulton Varsho;Tony Gonsolin;3%;75%;Walk
+t4;2-0;0;1--;7,(2-2) >FFFB1F*BS;O;TOR;Danny Jansen;Tony Gonsolin;-3%;72%;Strikeout Swinging
+t4;2-0;1;1--;4,(1-2) B1CFS;O;TOR;Cavan Biggio;Tony Gonsolin;-2%;70%;Strikeout Swinging
+t4;2-0;2;1--;2,(0-1) C1X;O;TOR;George Springer;Tony Gonsolin;-2%;68%;Groundout: 3B-2B/Forceout at 2B; Springer to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Blue Jays 2, Dodgers 0.
+Bottom of the 4th, Dodgers Batting, Behind 0-2, Blue Jays' Yusei Kikuchi facing 6-7-8 
+b4;0-2;0;---;5,(3-1) BBBCX;;LAD;Enrique Hernández;Yusei Kikuchi;-5%;63%;Single to 2B (Ground Ball to SS-2B)
+b4;0-2;0;1--;4,(1-2) BSSS;O;LAD;James Outman;Yusei Kikuchi;4%;68%;Strikeout Swinging
+b4;0-2;1;1--;2,(1-0) B+1X;OO;LAD;Miguel Rojas;Yusei Kikuchi;7%;74%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Blue Jays 2, Dodgers 0.
+Top of the 5th, Blue Jays Batting, Ahead 2-0, Dodgers' Tony Gonsolin facing 2-3-4 
+t5;2-0;0;---;4,(1-2) FCBX;;TOR;Bo Bichette;Tony Gonsolin;3%;77%;Single to CF (Ground Ball thru SS-2B)
+t5;2-0;0;1--;6,(2-2) BCC.1BFX;O;TOR;Brandon Belt;Tony Gonsolin;-3%;75%;Flyball: RF
+t5;2-0;1;1--;5,(2-2) FB1T*BX;;TOR;Vladimir Guerrero Jr.;Tony Gonsolin;3%;77%;Single to RF (Ground Ball thru 2B-1B); Bichette to 2B
+t5;2-0;1;12-;2,(0-1) SX;O;TOR;Matt Chapman;Tony Gonsolin;-4%;74%;Flyball: LF (Short LF)
+t5;2-0;2;12-;3,(0-2) CSX;RRR;TOR;Whit Merrifield;Tony Gonsolin;18%;92%;Home Run (Fly Ball to Deep LF); Bichette Scores; Guerrero Scores
+t5;5-0;2;---;6,(3-2) CCBBBC;O;TOR;Daulton Varsho;Tony Gonsolin;0%;92%;Strikeout Looking
+;;;;;;;;;3 runs, 3 hits, 0 errors, 0 LOB. Blue Jays 5, Dodgers 0.
+Bottom of the 5th, Dodgers Batting, Behind 0-5, Blue Jays' Yusei Kikuchi facing 9-1-2 
+b5;0-5;0;---;5,(2-2) BBCFH;;LAD;Austin Barnes;Yusei Kikuchi;-3%;89%;Hit By Pitch
+b5;0-5;0;1--;7,(3-2) CBFBBFB;;LAD;Mookie Betts;Yusei Kikuchi;-4%;85%;Walk; Barnes to 2B
+b5;0-5;0;12-;2,(0-1) CX;OO;LAD;Freddie Freeman;Yusei Kikuchi;8%;93%;Ground Ball Double Play: SS-2B-1B; Barnes to 3B
+b5;0-5;2;--3;3,(0-2) FF.X;O;LAD;J.D. Martinez;Yusei Kikuchi;2%;95%;Flyball: RF (Short RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Blue Jays 5, Dodgers 0.
+Top of the 6th, Blue Jays Batting, Ahead 5-0, Dodgers' Alex Vesia facing 8-9-1 
+;;;;;;;;;Alex Vesia replaces Tony Gonsolin pitching
+t6;5-0;0;---;5,(3-1) .BCBBX;R;TOR;Danny Jansen;Alex Vesia;2%;97%;Home Run (Fly Ball to Deep LF)
+t6;6-0;0;---;3,(0-2) FCX;O;TOR;Cavan Biggio;Alex Vesia;0%;97%;Flyball: CF (Deep CF)
+t6;6-0;1;---;6,(3-2) BCFBBX;O;TOR;George Springer;Alex Vesia;0%;97%;Flyball: LF (Short LF-CF)
+t6;6-0;2;---;5,(2-2) SBBCC;O;TOR;Bo Bichette;Alex Vesia;0%;96%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Blue Jays 6, Dodgers 0.
+Bottom of the 6th, Dodgers Batting, Behind 0-6, Blue Jays' Yusei Kikuchi facing 4-5-6 
+b6;0-6;0;---;1,(0-0) X;;LAD;Chris Taylor;Yusei Kikuchi;-2%;94%;Double to LF (Line Drive to LF Line)
+b6;0-6;0;-2-;4,(1-2) CBCX;O;LAD;Max Muncy;Yusei Kikuchi;2%;96%;Flyball: LF (LF Line)
+b6;0-6;1;-2-;2,(0-1) FX;O;LAD;Enrique Hernández;Yusei Kikuchi;1%;97%;Groundout: 2B-1B (Weak SS-2B); Taylor to 3B
+b6;0-6;2;--3;2,(1-0) BX;R;LAD;James Outman;Yusei Kikuchi;-2%;95%;Single to LF (Line Drive to Short LF); Taylor Scores
+b6;1-6;2;1--;6,(3-2) BBCBCS;O;LAD;Miguel Rojas;Yusei Kikuchi;1%;97%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Blue Jays 6, Dodgers 1.
+Top of the 7th, Blue Jays Batting, Ahead 6-1, Dodgers' Tyson Miller facing 3-4-5 
+;;;;;;;;;Tyson Miller replaces Alex Vesia pitching
+t7;6-1;0;---;3,(0-2) .FSX;O;TOR;Brandon Belt;Tyson Miller;0%;96%;Flyball: LF (Short LF)
+t7;6-1;1;---;3,(1-1) SBX;O;TOR;Vladimir Guerrero Jr.;Tyson Miller;0%;96%;Flyball: LF (Deep LF Line)
+t7;6-1;2;---;3,(1-1) CBX;O;TOR;Matt Chapman;Tyson Miller;0%;96%;Popfly: 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 6, Dodgers 1.
+Bottom of the 7th, Dodgers Batting, Behind 1-6, Blue Jays' Jay Jackson facing 9-1-2 
+;;;;;;;;;Jay Jackson replaces Yusei Kikuchi pitching
+b7;1-6;0;---;3,(0-2) .CS.S;O;LAD;Austin Barnes;Jay Jackson;1%;97%;Strikeout Swinging
+b7;1-6;1;---;2,(0-1) FX;O;LAD;Mookie Betts;Jay Jackson;1%;98%;Flyball: CF (Deep CF)
+b7;1-6;2;---;7,(2-2) BBCCFFX;O;LAD;Freddie Freeman;Jay Jackson;0%;98%;Flyball: LF (LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 6, Dodgers 1.
+Top of the 8th, Blue Jays Batting, Ahead 6-1, Dodgers' Tyson Miller facing 6-7-8 
+t8;6-1;0;---;8,(3-2) BCS.BFBFX;;TOR;Whit Merrifield;Tyson Miller;0%;98%;Single to RF (Line Drive)
+t8;6-1;0;1--;3,(2-0) BBX;O;TOR;Daulton Varsho;Tyson Miller;0%;98%;Flyball: LF
+t8;6-1;1;1--;3,(0-2) 1CFS;O;TOR;Danny Jansen;Tyson Miller;0%;98%;Strikeout Swinging
+t8;6-1;2;1--;1,(0-0) 1X;;TOR;Cavan Biggio;Tyson Miller;0%;98%;Single to CF (Line Drive); Merrifield to 2B
+t8;6-1;2;12-;4,(2-1) CB*BB;;TOR;George Springer;Tyson Miller;0%;98%;Wild Pitch; Merrifield to 3B; Biggio to 2B
+t8;6-1;2;-23;7,(3-2) CB*BB.FF*B;;TOR;George Springer;Tyson Miller;0%;98%;Walk
+t8;6-1;2;123;1,(0-0) X;RRO;TOR;Bo Bichette;Tyson Miller;1%;99%;Single to LF (Line Drive to Short LF-CF); Merrifield Scores; Biggio Scores; Springer out at 3B/LF-3B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Blue Jays 8, Dodgers 1.
+Bottom of the 8th, Dodgers Batting, Behind 1-8, Blue Jays' Jay Jackson facing 3-4-5 
+b8;1-8;0;---;6,(3-2) CBFBBS;O;LAD;J.D. Martinez;Jay Jackson;0%;100%;Strikeout Swinging
+b8;1-8;1;---;5,(1-2) FCBF*S;O;LAD;Chris Taylor;Jay Jackson;0%;100%;Strikeout Swinging
+b8;1-8;2;---;5,(3-1) CBBBB;;LAD;Max Muncy;Jay Jackson;0%;100%;Walk
+b8;1-8;2;1--;7,(3-2) SBFF*BB>X;;LAD;Enrique Hernández;Jay Jackson;0%;100%;Single to LF (Line Drive to LF Line); Muncy to 3B
+;;;;;;;;;Tim Mayza replaces Jay Jackson pitching
+b8;1-8;2;1-3;2,(0-1) .FX;O;LAD;James Outman;Tim Mayza;0%;100%;Lineout: CF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Blue Jays 8, Dodgers 1.
+Top of the 9th, Blue Jays Batting, Ahead 8-1, Dodgers' Phil Bickford facing 3-4-5 
+;;;;;;;;;Phil Bickford replaces Tyson Miller pitching
+t9;8-1;0;---;1,(0-0) .X;O;TOR;Brandon Belt;Phil Bickford;0%;100%;Flyball: RF (Deep RF)
+t9;8-1;1;---;7,(3-2) CBBFFBX;O;TOR;Vladimir Guerrero Jr.;Phil Bickford;0%;100%;Lineout: CF
+t9;8-1;2;---;5,(3-1) CBBBB;;TOR;Matt Chapman;Phil Bickford;0%;100%;Walk
+t9;8-1;2;1--;2,(0-1) CX;O;TOR;Whit Merrifield;Phil Bickford;0%;100%;Groundout: 2B unassisted/Forceout at 2B (SS-2B); Merrifield to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Blue Jays 8, Dodgers 1.
+Bottom of the 9th, Dodgers Batting, Behind 1-8, Blue Jays' Trevor Richards facing 8-9-1 
+;;;;;;;;;Trevor Richards replaces Tim Mayza pitching
+b9;1-8;0;---;7,(3-2) .FFBBBFS;O;LAD;Miguel Rojas;Trevor Richards;0%;100%;Strikeout Swinging
+b9;1-8;1;---;1,(0-0) X;O;LAD;Austin Barnes;Trevor Richards;0%;100%;Flyball: CF (Deep CF)
+;;;;;;;;;Yonny Hernández pinch hits for Mookie Betts (RF) batting 1st
+b9;1-8;2;---;4,(1-2) .BFCX;O;LAD;Yonny Hernández;Trevor Richards;0%;100%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 8, Dodgers 1.

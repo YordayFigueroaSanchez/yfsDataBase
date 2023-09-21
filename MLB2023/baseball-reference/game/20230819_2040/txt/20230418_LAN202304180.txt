@@ -1,0 +1,246 @@
+
+Scorebox Meta
+20230418
+7:10 p.m. Local
+46884
+Dodger Stadium
+153
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;0;0;0;0;0;0;0;4;2
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;2;0;1;0;0;0;0;2;X;5;9;1
+
+Batting home
+James Outman;/players/o/outmaja01.shtml;CF;5;1;2;0;0;3;5;.288;.413;.596;1.009;23;16;-0.026; 0.46;0.020;-0.046;-0.01%; 0.45; 0.1;0;0;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;4;1;1;1;0;0;5;.324;.402;.507;.909;12;8;-0.012; 0.49;0.030;-0.042;-0.01%; 0.48; -0.4;9;0;SF
+J.D. Martinez;/players/m/martijd02.shtml;DH;5;2;4;4;0;1;5;.271;.312;.557;.869;26;17;0.258; 0.45;0.264;-0.006; 0.15%; 0.44; 3.5;;;2·HR
+Max Muncy;/players/m/muncyma01.shtml;3B;1;0;1;0;3;0;4;.241;.380;.603;.984;22;8;0.052; 0.38;0.052;0.000; 0.03%; 0.37; 1.3;0;2;
+Jason Heyward;/players/h/heywaja01.shtml;RF;3;0;1;0;1;0;4;.192;.290;.538;.829;11;6;-0.015; 0.57;0.027;-0.042;-0.01%; 0.55; -0.1;4;0;
+Miguel Vargas;/players/v/vargami01.shtml;2B;3;0;0;0;1;2;4;.186;.390;.279;.669;14;9;-0.036; 0.73;0.023;-0.059;-0.02%; 0.71; -0.7;1;2;
+David Peralta;/players/p/peralda01.shtml;LF;4;0;0;0;0;2;4;.171;.194;.200;.394;18;12;-0.071; 0.63;0.000;-0.071;-0.04%; 0.62; -1.8;2;0;
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;1;0;0;0;1;0;2;.125;.200;.156;.356;6;1;0.000; 0.40;0.012;-0.012;0%; 0.39; 0.1;0;2;
+Luke Williams;/players/w/willilu01.shtml;PH-SS;2;0;0;0;0;0;2;.000;.000;.000;.000;6;4;-0.034; 0.66;0.000;-0.034;-0.02%; 0.65; -1.1;0;1;
+Austin Barnes;/players/b/barneau01.shtml;C;3;1;0;0;1;0;4;.045;.125;.045;.170;17;10;-0.025; 0.30;0.006;-0.031;-0.01%; 0.29; -0.3;11;0;SB
+Clayton Kershaw;/players/k/kershcl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Evan Phillips;/players/p/phillev01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brusdar Graterol;/players/g/gratebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: J.D. Martinez 2 (3, 2 off Tylor Megill, 1st inn, 1 on, 1 out to Deep CF-RF; 3rd inn, 0 on, 2 outs to Deep RF).
+
+
+SF: Freddie Freeman (1, off John Curtiss).
+
+
+TB: J.D. Martinez 10; James Outman 2; Freddie Freeman; Max Muncy; Jason Heyward.
+
+
+RBI: J.D. Martinez 4 (13); Freddie Freeman (7).
+
+
+2-out RBI: J.D. Martinez 2.
+
+
+Team LOB: 10.
+With RISP: 2 for 9.
+
+Batting away
+Brandon Nimmo;/players/n/nimmobr01.shtml;DH;4;0;0;0;0;0;4;.293;.447;.379;.827;14;11;0.050; 0.56;0.085;-0.035; 0.03%; 0.65; 0.5;;;
+Starling Marte;/players/m/martest01.shtml;RF;4;0;0;0;0;3;4;.233;.343;.350;.693;18;13;-0.081; 0.61;0.000;-0.081;-0.06%; 0.72; -1.1;3;0;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;0;1;0;0;3;4;.231;.354;.508;.862;23;15;-0.057; 0.73;0.026;-0.083;-0.04%; 0.86; -0.8;1;1;
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;0;0;0;0;2;4;.275;.367;.638;1.005;11;11;-0.082; 0.77;0.000;-0.082;-0.06%; 0.91; -1.0;4;0;
+Mark Canha;/players/c/canhama01.shtml;LF;3;0;1;0;0;0;3;.203;.314;.373;.687;16;13;-0.033; 0.67;0.013;-0.046;-0.02%; 0.79; -0.4;4;0;
+Jeff McNeil;/players/m/mcneije01.shtml;2B;3;0;1;0;0;0;3;.254;.382;.349;.731;10;8;-0.013; 0.77;0.028;-0.041;-0.01%; 0.91; -0.1;0;0;
+Tommy Pham;/players/p/phamth01.shtml;CF;3;0;0;0;0;1;3;.250;.357;.444;.802;15;9;-0.076; 0.92;0.000;-0.076;-0.05%; 1.08; -0.8;4;1;
+Eduardo Escobar;/players/e/escobed01.shtml;3B;2;0;0;0;0;1;2;.120;.167;.220;.387;6;5;-0.035; 0.67;0.000;-0.035;-0.03%; 0.79; -0.4;0;2;
+Daniel Vogelbach;/players/v/vogelda01.shtml;PH;1;0;1;0;0;0;1;.231;.412;.385;.796;3;2;0.043; 0.93;0.043;0.000; 0.03%; 1.09; 0.4;;;
+Francisco Alvarez;/players/a/alvarfr01.shtml;PR-C;0;0;0;0;0;0;0;.067;.067;.067;.133;;;;;;;;;;0;0;
+Tomás Nido;/players/n/nidoto01.shtml;C;2;0;0;0;0;1;2;.118;.162;.118;.280;7;5;-0.043; 0.82;0.000;-0.043;-0.03%; 0.97; -0.4;8;0;
+Brett Baty;/players/b/batybr01.shtml;PH-3B;1;0;0;0;0;0;1;.200;.200;.200;.400;2;2;-0.082; 1.71;0.000;-0.082;-0.06%; 2.01; -0.8;0;0;
+Tylor Megill;/players/m/megilty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Denyi Reyes;/players/r/reyesde02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jeff Brigham;/players/b/brighje01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+John Curtiss;/players/c/curtijo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+TB: Jeff McNeil; Mark Canha; Daniel Vogelbach; Francisco Lindor.
+
+
+Team LOB: 4.
+With RISP: 0 for 4.
+
+Pitching home
+Clayton Kershaw;/players/k/kershcl01.shtml; W (3-1); 7 ;3;0;0;0;9;0;2.52;25;105;81;50;18;13;8;8;5;0;80;;;0.355; 0.81; 0.21%; 0.79; 3.8
+Evan Phillips;/players/p/phillev01.shtml; H (1); 1 ;1;0;0;0;0;0;3.86;3;8;6;3;1;2;1;2;2;0;;0;0;0.047; 0.97; 0.03%; 0.95; 0.5
+Brusdar Graterol;/players/g/gratebr01.shtml;Brusdar Graterol; 1 ;0;0;0;0;2;0;3.52;3;12;7;4;3;0;0;1;0;0;;0;0;0.007; 0.09; 0.00%; 0.09; 0.5
+
+Pitching away
+Tylor Megill;/players/m/megilty01.shtml; L (3-1); 5 ;7;3;3;4;4;2;3.00;26;96;56;34;6;16;5;13;2;0;41;;;-0.103; 0.63;-0.07%; 0.74; -0.3
+Denyi Reyes;/players/r/reyesde02.shtml;Denyi Reyes; 1.1;0;0;0;2;2;0;0.00;6;33;16;13;2;1;1;1;1;0;;0;0;0.011; 0.25; 0.01%; 0.29; 0.1
+Jeff Brigham;/players/b/brighje01.shtml;Jeff Brigham; 0.2;0;0;0;0;2;0;0.00;2;8;7;3;3;1;0;0;0;0;;2;0;0.023; 0.47; 0.02%; 0.55; 1.0
+John Curtiss;/players/c/curtijo02.shtml;John Curtiss; 1 ;2;2;2;1;0;0;4.82;5;18;12;7;1;4;1;3;2;0;;0;0;-0.022; 0.16;-0.02%; 0.19; -1.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Shane Livensparger, 1B - Dan Bellino, 2B - Phil Cuzzi, 3B - Mark Ripperger, LF - (none), RF - (none).
+Time of Game: 2:33.
+Attendance: 46,884.
+Field Condition: Unknown.
+Start Time Weather: 59° F, Wind 2mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;DH
+2;Starling Marte;/players/m/martest01.shtml;RF
+3;Francisco Lindor;/players/l/lindofr01.shtml;SS
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Mark Canha;/players/c/canhama01.shtml;LF
+6;Jeff McNeil;/players/m/mcneije01.shtml;2B
+7;Tommy Pham;/players/p/phamth01.shtml;CF
+8;Eduardo Escobar;/players/e/escobed01.shtml;3B
+9;Tomás Nido;/players/n/nidoto01.shtml;C
+; Tylor Megill;/players/m/megilty01.shtml;P
+Dodgers
+1;James Outman;/players/o/outmaja01.shtml;CF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;J.D. Martinez;/players/m/martijd02.shtml;DH
+4;Max Muncy;/players/m/muncyma01.shtml;3B
+5;Jason Heyward;/players/h/heywaja01.shtml;RF
+6;Miguel Vargas;/players/v/vargami01.shtml;2B
+7;David Peralta;/players/p/peralda01.shtml;LF
+8;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+9;Austin Barnes;/players/b/barneau01.shtml;C
+; Clayton Kershaw;/players/k/kershcl01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-0;1;1--;10,(3-2) CBBC*BFFFF1X;RR;LAD;J.D. Martinez;Tylor Megill;16%;71%;Home Run (Fly Ball to Deep CF-RF); Freeman Scores
+t1;0-0;0;---;4,(1-2) CBFX;;NYM;Brandon Nimmo;Clayton Kershaw;-9%;41%;Reached on E9 (Line Drive to Deep CF-RF); Nimmo to 3B
+t8;0-3;0;1--;2,(0-1) ..CX;OO;NYM;Brett Baty;Evan Phillips;8%;96%;Double Play: Lineout: 2B (Deep 2B); Alvarez out at 1B/2B-1B
+b3;2-0;2;---;3,(1-1) CBX;R;LAD;J.D. Martinez;Tylor Megill;8%;81%;Home Run (Fly Ball to Deep RF)
+t1;0-0;1;--3;4,(1-2) FSBS;O;NYM;Francisco Lindor;Clayton Kershaw;6%;51%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Mets Batting, Tied 0-0, Dodgers' Clayton Kershaw facing 1-2-3 
+t1;0-0;0;---;4,(1-2) CBFX;;NYM;Brandon Nimmo;Clayton Kershaw;-9%;41%;Reached on E9 (Line Drive to Deep CF-RF); Nimmo to 3B
+t1;0-0;0;--3;6,(0-2) SFFFFS;O;NYM;Starling Marte;Clayton Kershaw;4%;46%;Strikeout Swinging
+t1;0-0;1;--3;4,(1-2) FSBS;O;NYM;Francisco Lindor;Clayton Kershaw;6%;51%;Strikeout Swinging
+t1;0-0;2;--3;6,(0-2) FCFFFT;O;NYM;Pete Alonso;Clayton Kershaw;4%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Mets 0, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Tied 0-0, Mets' Tylor Megill facing 1-2-3 
+b1;0-0;0;---;4,(0-2) CSFT;O;LAD;James Outman;Tylor Megill;-2%;53%;Strikeout Swinging
+b1;0-0;1;---;1,(0-0) X;;LAD;Freddie Freeman;Tylor Megill;2%;55%;Single to LF (Line Drive)
+b1;0-0;1;1--;10,(3-2) CBBC*BFFFF1X;RR;LAD;J.D. Martinez;Tylor Megill;16%;71%;Home Run (Fly Ball to Deep CF-RF); Freeman Scores
+b1;2-0;1;---;6,(3-2) CBBBCB;;LAD;Max Muncy;Tylor Megill;2%;73%;Walk
+b1;2-0;1;1--;2,(0-1) CX;O;LAD;Jason Heyward;Tylor Megill;-2%;71%;Flyball: RF (CF-RF)
+b1;2-0;2;1--;4,(0-2) CSFC;O;LAD;Miguel Vargas;Tylor Megill;-2%;69%;Strikeout Looking
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Mets 0, Dodgers 2.
+Top of the 2nd, Mets Batting, Behind 0-2, Dodgers' Clayton Kershaw facing 5-6-7 
+t2;0-2;0;---;2,(0-1) CX;O;NYM;Mark Canha;Clayton Kershaw;2%;72%;Groundout: SS-1B (Deep SS)
+t2;0-2;1;---;7,(2-2) BFBSFFX;O;NYM;Jeff McNeil;Clayton Kershaw;2%;73%;Groundout: 2B-1B
+t2;0-2;2;---;4,(1-2) FCBX;O;NYM;Tommy Pham;Clayton Kershaw;1%;74%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Dodgers 2.
+Bottom of the 2nd, Dodgers Batting, Ahead 2-0, Mets' Tylor Megill facing 7-8-9 
+b2;2-0;0;---;2,(0-1) CX;O;LAD;David Peralta;Tylor Megill;-2%;73%;Flyball: LF
+b2;2-0;1;---;2,(1-0) BX;O;LAD;Miguel Rojas;Tylor Megill;-1%;71%;Groundout: 3B-1B (Weak 3B)
+b2;2-0;2;---;1,(0-0) X;O;LAD;Austin Barnes;Tylor Megill;-1%;71%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Dodgers 2.
+Top of the 3rd, Mets Batting, Behind 0-2, Dodgers' Clayton Kershaw facing 8-9-1 
+t3;0-2;0;---;2,(0-1) FX;O;NYM;Eduardo Escobar;Clayton Kershaw;3%;73%;Flyball: RF (Short RF)
+t3;0-2;1;---;1,(0-0) X;O;NYM;Tomás Nido;Clayton Kershaw;2%;75%;Flyball: RF (Deep CF-RF)
+t3;0-2;2;---;5,(1-2) BFCFX;O;NYM;Brandon Nimmo;Clayton Kershaw;1%;76%;Lineout: LF (Deep LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Dodgers 2.
+Bottom of the 3rd, Dodgers Batting, Ahead 2-0, Mets' Tylor Megill facing 1-2-3 
+b3;2-0;0;---;6,(3-2) BFBBCS;O;LAD;James Outman;Tylor Megill;-2%;74%;Strikeout Swinging
+b3;2-0;1;---;1,(0-0) X;O;LAD;Freddie Freeman;Tylor Megill;-1%;73%;Flyball: RF (Deep RF)
+b3;2-0;2;---;3,(1-1) CBX;R;LAD;J.D. Martinez;Tylor Megill;8%;81%;Home Run (Fly Ball to Deep RF)
+b3;3-0;2;---;5,(3-1) BCBBB;;LAD;Max Muncy;Tylor Megill;1%;82%;Walk
+b3;3-0;2;1--;2,(2-0) VBX;;LAD;Jason Heyward;Tylor Megill;2%;84%;Single to CF (Ground Ball); Muncy to 3B/Adv on E8; Heyward to 2B/Adv on E8 (throw)
+b3;3-0;2;-23;2,(1-0) BX;O;LAD;Miguel Vargas;Tylor Megill;-3%;81%;Flyball: LF (Deep LF)
+;;;;;;;;;1 run, 2 hits, 2 errors, 2 LOB. Mets 0, Dodgers 3.
+Top of the 4th, Mets Batting, Behind 0-3, Dodgers' Clayton Kershaw facing 2-3-4 
+t4;0-3;0;---;4,(1-2) CCBS;O;NYM;Starling Marte;Clayton Kershaw;2%;83%;Strikeout Swinging
+t4;0-3;1;---;5,(2-2) CBFBX;;NYM;Francisco Lindor;Clayton Kershaw;-3%;80%;Single to SS (Ground Ball)
+t4;0-3;1;1--;1,(0-0) X;O;NYM;Pete Alonso;Clayton Kershaw;3%;83%;Flyball: RF (Short CF-RF)
+t4;0-3;2;1--;1,(0-0) X;O;NYM;Mark Canha;Clayton Kershaw;2%;86%;Groundout: P-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 0, Dodgers 3.
+Bottom of the 4th, Dodgers Batting, Ahead 3-0, Mets' Tylor Megill facing 7-8-9 
+b4;3-0;0;---;4,(2-1) BBFX;O;LAD;David Peralta;Tylor Megill;-1%;84%;Flyball: CF (Deep LF-CF)
+b4;3-0;1;---;4,(3-0) BBBB;;LAD;Miguel Rojas;Tylor Megill;1%;86%;Walk
+b4;3-0;1;1--;5,(1-2) *BCCF1X;O;LAD;Austin Barnes;Tylor Megill;-1%;84%;Flyball: RF
+b4;3-0;2;1--;4,(2-1) FBB1X;;LAD;James Outman;Tylor Megill;1%;85%;Single to CF (Fly Ball to Short CF); Rojas to 3B
+b4;3-0;2;1-3;5,(2-2) FBBFX;O;LAD;Freddie Freeman;Tylor Megill;-3%;83%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Mets 0, Dodgers 3.
+Top of the 5th, Mets Batting, Behind 0-3, Dodgers' Clayton Kershaw facing 6-7-8 
+t5;0-3;0;---;2,(0-1) CX;O;NYM;Jeff McNeil;Clayton Kershaw;2%;85%;Groundout: P-1B
+t5;0-3;1;---;5,(2-2) BSBSX;O;NYM;Tommy Pham;Clayton Kershaw;2%;87%;Groundout: 3B-1B
+t5;0-3;2;---;4,(1-2) CBF*S;O;NYM;Eduardo Escobar;Clayton Kershaw;1%;88%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Dodgers 3.
+Bottom of the 5th, Dodgers Batting, Ahead 3-0, Mets' Tylor Megill facing 3-4-5 
+b5;3-0;0;---;1,(0-0) X;;LAD;J.D. Martinez;Tylor Megill;1%;89%;Single to 3B (Ground Ball)
+b5;3-0;0;1--;4,(2-1) B*BCX;;LAD;Max Muncy;Tylor Megill;2%;92%;Single to RF (Ground Ball thru 2B-1B); Martinez to 2B
+b5;3-0;0;12-;1,(0-0) X;O;LAD;Jason Heyward;Tylor Megill;-2%;89%;Flyball: CF
+b5;3-0;1;12-;5,(3-1) CB*BBB;;LAD;Miguel Vargas;Tylor Megill;2%;92%;Walk; Martinez to 3B; Muncy to 2B
+b5;3-0;1;123;7,(3-2) BSBBFFS;O;LAD;David Peralta;Tylor Megill;-3%;89%;Strikeout Swinging
+;;;;;;;;;Luke Williams pinch hits for Miguel Rojas (SS) batting 8th
+b5;3-0;2;123;5,(2-2) .BSBFX;O;LAD;Luke Williams;Tylor Megill;-3%;86%;Flyball: LF (LF-CF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Mets 0, Dodgers 3.
+Top of the 6th, Mets Batting, Behind 0-3, Dodgers' Clayton Kershaw facing 9-1-2 
+;;;;;;;;;Luke Williams moves from PH to SS 
+t6;0-3;0;---;6,(2-2) .SSBBFS;O;NYM;Tomás Nido;Clayton Kershaw;3%;88%;Strikeout Swinging
+t6;0-3;1;---;2,(0-1) FX;O;NYM;Brandon Nimmo;Clayton Kershaw;2%;90%;Lineout: LF
+t6;0-3;2;---;2,(1-0) BX;O;NYM;Starling Marte;Clayton Kershaw;1%;91%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Dodgers 3.
+Bottom of the 6th, Dodgers Batting, Ahead 3-0, Mets' Denyi Reyes facing 9-1-2 
+;;;;;;;;;Denyi Reyes replaces Tylor Megill pitching
+b6;3-0;0;---;4,(2-1) .BBFX;O;LAD;Austin Barnes;Denyi Reyes;-1%;90%;Groundout: 3B-1B
+b6;3-0;1;---;6,(2-2) SFBBFT;O;LAD;James Outman;Denyi Reyes;-1%;89%;Strikeout Swinging
+b6;3-0;2;---;4,(2-1) BFBX;O;LAD;Freddie Freeman;Denyi Reyes;0%;89%;Lineout: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Dodgers 3.
+Top of the 7th, Mets Batting, Behind 0-3, Dodgers' Clayton Kershaw facing 3-4-5 
+t7;0-3;0;---;9,(3-2) SBFFFBFBS;O;NYM;Francisco Lindor;Clayton Kershaw;3%;91%;Strikeout Swinging
+t7;0-3;1;---;3,(0-2) FSS;O;NYM;Pete Alonso;Clayton Kershaw;2%;93%;Strikeout Swinging
+t7;0-3;2;---;13,(3-2) CBBBSFFFFFFFX;;NYM;Mark Canha;Clayton Kershaw;-1%;92%;Single to RF (Line Drive to Short RF)
+t7;0-3;2;1--;1,(0-0) X;;NYM;Jeff McNeil;Clayton Kershaw;-3%;89%;Single to CF (Line Drive to Short CF-RF); Canha to 3B
+t7;0-3;2;1-3;6,(3-2) B*BCC*B>S;O;NYM;Tommy Pham;Clayton Kershaw;5%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Mets 0, Dodgers 3.
+Bottom of the 7th, Dodgers Batting, Ahead 3-0, Mets' Denyi Reyes facing 3-4-5 
+b7;3-0;0;---;6,(3-2) BFSBBC;O;LAD;J.D. Martinez;Denyi Reyes;-1%;93%;Strikeout Looking
+b7;3-0;1;---;7,(3-2) FBBBFFB;;LAD;Max Muncy;Denyi Reyes;1%;94%;Walk
+b7;3-0;1;1--;6,(3-2) BBFBFB;;LAD;Jason Heyward;Denyi Reyes;1%;95%;Walk; Muncy to 2B
+;;;;;;;;;Jeff Brigham replaces Denyi Reyes pitching
+b7;3-0;1;12-;3,(0-2) .CSS;O;LAD;Miguel Vargas;Jeff Brigham;-1%;94%;Strikeout Swinging
+b7;3-0;2;12-;5,(1-2) FFFBS;O;LAD;David Peralta;Jeff Brigham;-1%;92%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Mets 0, Dodgers 3.
+Top of the 8th, Mets Batting, Behind 0-3, Dodgers' Evan Phillips facing 8-9-1 
+;;;;;;;;;Evan Phillips replaces Clayton Kershaw pitchingDaniel Vogelbach pinch hits for Eduardo Escobar (3B) batting 8th
+t8;0-3;0;---;3,(1-1) ..BCX;;NYM;Daniel Vogelbach;Evan Phillips;-4%;88%;Single to CF (Line Drive to CF-RF)
+;;;;;;;;;Brett Baty pinch hits for Tomás Nido (C) batting 9thFrancisco Alvarez pinch runs for Daniel Vogelbach (PH) batting 8th
+t8;0-3;0;1--;2,(0-1) ..CX;OO;NYM;Brett Baty;Evan Phillips;8%;96%;Double Play: Lineout: 2B (Deep 2B); Alvarez out at 1B/2B-1B
+t8;0-3;2;---;3,(1-1) BSX;O;NYM;Brandon Nimmo;Evan Phillips;1%;97%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Mets 0, Dodgers 3.
+Bottom of the 8th, Dodgers Batting, Ahead 3-0, Mets' John Curtiss facing 8-9-1 
+;;;;;;;;;John Curtiss replaces Jeff Brigham pitchingFrancisco Alvarez moves from PR to C Brett Baty moves from PH to 3B 
+b8;3-0;0;---;1,(0-0) ...X;O;LAD;Luke Williams;John Curtiss;0%;97%;Groundout: 1B unassisted (2B-1B)
+b8;3-0;1;---;7,(3-2) BSBCBFB;;LAD;Austin Barnes;John Curtiss;0%;97%;Walk
+b8;3-0;1;1--;2,(0-1) F>C;;LAD;James Outman;John Curtiss;0%;97%;Barnes Steals 2B
+b8;3-0;1;-2-;3,(0-2) F>C.X;;LAD;James Outman;John Curtiss;1%;98%;Single to CF (Line Drive); Barnes to 3B
+b8;3-0;1;1-3;1,(0-0) X;RO;LAD;Freddie Freeman;John Curtiss;1%;99%;Flyball: LF/Sacrifice Fly; Barnes Scores; Outman to 2B
+b8;4-0;2;-2-;6,(2-2) C*BCF*BX;RO;LAD;J.D. Martinez;John Curtiss;1%;99%;Single to CF (Line Drive to Deep CF-RF); Outman Scores; Martinez out at 2B/CF-SS
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Mets 0, Dodgers 5.
+Top of the 9th, Mets Batting, Behind 0-5, Dodgers' Brusdar Graterol facing 2-3-4 
+;;;;;;;;;Brusdar Graterol replaces Evan Phillips pitching
+t9;0-5;0;---;6,(3-2) .FBSBBS;O;NYM;Starling Marte;Brusdar Graterol;0%;100%;Strikeout Swinging
+t9;0-5;1;---;5,(2-2) BFBFS;O;NYM;Francisco Lindor;Brusdar Graterol;0%;100%;Strikeout Swinging
+t9;0-5;2;---;1,(0-0) X;O;NYM;Pete Alonso;Brusdar Graterol;0%;100%;Flyball: RF (CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Dodgers 5.

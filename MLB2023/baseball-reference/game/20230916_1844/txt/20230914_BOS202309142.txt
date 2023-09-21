@@ -1,0 +1,290 @@
+
+Scorebox Meta
+20230914
+7:15 p.m. Local
+35507
+Fenway Park
+192
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;5;0;0;0;0;0;1;2;8;12;2
+https://cdn.ssref.net/req/202309121/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;2;0;1;0;1;0;1;0;0;5;9;0
+
+Batting home
+Ceddanne Rafaela;/players/r/rafaece01.shtml;SS;5;2;2;0;0;1;5;.368;.400;.632;1.032;19;17;-0.005; 1.32;0.109;-0.114;0%; 0.06; -0.3;1;2;GDP
+Rafael Devers;/players/d/deverra01.shtml;DH;3;1;3;1;1;0;5;.276;.351;.514;.865;16;7;0.315; 1.46;0.315;0.000; 0.01%; 0.07; 2.8;;;HR,HBP
+Alex Verdugo;/players/v/verdual01.shtml;RF;5;1;0;0;0;1;5;.274;.333;.441;.774;24;18;-0.137; 1.94;0.009;-0.147;-0.00%; 0.09; -1.2;4;0;
+Triston Casas;/players/c/casastr01.shtml;1B;2;0;0;1;2;0;4;.263;.367;.490;.856;14;6;0.227; 2.00;0.227;0.000; 0.01%; 0.09; 1.7;5;1;
+Masataka Yoshida;/players/y/yoshima02.shtml;LF;4;0;0;0;0;0;4;.289;.342;.451;.793;8;6;-0.228; 1.93;0.000;-0.228;-0.01%; 0.09; -1.9;1;0;GDP
+Wilyer Abreu;/players/a/abreuwi02.shtml;CF;2;0;1;1;1;0;3;.367;.436;.510;.947;15;7;0.092; 1.37;0.133;-0.041; 0.00%; 0.06; 1.1;3;0;
+Rob Refsnyder;/players/r/refsnro01.shtml;PH-CF;1;0;0;0;0;0;1;.243;.363;.312;.675;2;2;-0.065; 2.50;0.000;-0.065;-0.00%; 0.12; -0.3;0;0;
+Pablo Reyes;/players/r/reyespa01.shtml;2B;4;0;1;0;0;2;4;.297;.342;.399;.740;17;13;-0.132; 1.52;0.044;-0.176;-0.00%; 0.07; -1.2;3;2;GDP
+Reese McGuire;/players/m/mcguire01.shtml;C;4;0;1;0;0;1;4;.277;.324;.380;.704;15;12;-0.044; 1.19;0.037;-0.081;-0.00%; 0.06; -0.1;6;0;
+Luis Urías;/players/u/uriaslu01.shtml;3B;4;1;1;0;0;3;4;.192;.327;.308;.635;19;14;-0.069; 1.45;0.052;-0.121;-0.00%; 0.07; -0.6;3;1;
+Nick Robertson;/players/r/roberni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brennan Bernardino;/players/b/bernabr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Zack Weiss;/players/w/weissza01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brandon Walter;/players/w/waltebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Mauricio Llovera;/players/l/llovema01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+John Schreiber;/players/s/schrejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Rafael Devers (31, off Clarke Schmidt, 3rd inn, 0 on, 0 outs to Deep RF).
+
+
+HBP: Rafael Devers (10, by Clarke Schmidt).
+
+
+TB: Rafael Devers 6; Ceddanne Rafaela 2; Luis Urías; Reese McGuire; Wilyer Abreu; Pablo Reyes.
+
+
+GIDP: Pablo Reyes (3); Masataka Yoshida (20); Ceddanne Rafaela (1).
+
+
+RBI: Triston Casas (65); Rafael Devers (95); Wilyer Abreu (10).
+
+
+2-out RBI: Wilyer Abreu.
+
+
+Team LOB: 7.
+With RISP: 1 for 11.
+
+Batting away
+DJ LeMahieu;/players/l/lemahdj01.shtml;1B;5;1;3;2;0;1;5;.242;.322;.398;.720;22;16;0.326; 1.80;0.383;-0.057; 0.00%; 0.03; 1.7;7;3;2B
+Aaron Judge;/players/j/judgeaa01.shtml;DH;2;1;1;4;3;0;5;.254;.392;.588;.980;20;8;0.311; 1.61;0.371;-0.060; 0.00%; 0.03; 3.4;;;HR,GDP,IW
+Gleyber Torres;/players/t/torregl01.shtml;2B;5;0;1;0;0;0;5;.272;.340;.462;.803;19;11;-0.156; 1.36;0.008;-0.164;-0.00%; 0.02; -1.7;3;6;
+Giancarlo Stanton;/players/s/stantmi03.shtml;LF;3;0;0;0;1;0;4;.196;.281;.435;.716;20;12;-0.066; 0.85;0.012;-0.078;-0.00%; 0.01; -0.7;2;0;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;LF;1;0;0;0;0;0;1;.240;.307;.341;.648;7;5;-0.018; 0.71;0.000;-0.018;0%; 0.01; -0.3;0;0;
+Estevan Florial;/players/f/flories01.shtml;CF;4;2;1;0;0;0;5;.200;.333;.200;.533;14;10;-0.004; 0.75;0.056;-0.060;0%; 0.01; -0.2;1;0;HBP
+Anthony Volpe;/players/v/volpean01.shtml;SS;5;1;2;0;0;1;5;.211;.290;.389;.679;19;12;0.029; 1.08;0.102;-0.073;0%; 0.02; -0.1;4;1;2B
+Oswald Peraza;/players/p/perazos02.shtml;3B;5;2;2;2;0;1;5;.208;.288;.280;.568;16;12;0.129; 1.22;0.234;-0.106; 0.00%; 0.02; 1.8;1;2;HR,2B
+Oswaldo Cabrera;/players/c/cabreos01.shtml;RF;4;1;1;0;1;1;5;.212;.286;.303;.589;21;13;0.045; 1.09;0.084;-0.038; 0.00%; 0.02; -0.0;0;0;
+Kyle Higashioka;/players/h/higasky01.shtml;C;4;0;1;0;0;2;4;.234;.274;.411;.685;21;14;-0.142; 2.06;0.049;-0.191;-0.00%; 0.04; -0.9;8;0;2B
+Clarke Schmidt;/players/s/schmicl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Zach McAllister;/players/m/mcallza01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Wandy Peralta;/players/p/peralwa01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Tommy Kahnle;/players/k/kahnlto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Oswald Peraza (6, off Brennan Bernardino); Kyle Higashioka (11, off Zack Weiss); Anthony Volpe (19, off Brandon Walter); DJ LeMahieu (21, off Mauricio Llovera).
+
+
+HR: Aaron Judge (32, off Brennan Bernardino, 2nd inn, 3 on, 2 outs to Deep CF); Oswald Peraza (1, off John Schreiber, 9th inn, 1 on, 2 outs to Deep LF-CF).
+
+
+IBB: Aaron Judge (7, by Mauricio Llovera).
+
+
+HBP: Estevan Florial (2, by John Schreiber).
+
+
+TB: Oswald Peraza 6; DJ LeMahieu 4; Aaron Judge 4; Anthony Volpe 3; Kyle Higashioka 2; Oswaldo Cabrera; Gleyber Torres; Estevan Florial.
+
+
+GIDP: Aaron Judge (5).
+
+
+RBI: Aaron Judge 4 (62); DJ LeMahieu 2 (42); Oswald Peraza 2 (12).
+
+
+2-out RBI: Aaron Judge 4; Oswald Peraza 2; DJ LeMahieu 2.
+
+
+Team LOB: 9.
+With RISP: 3 for 12.
+
+Pitching home
+Nick Robertson;/players/r/roberni01.shtml;Nick Robertson; 1 ;0;0;0;1;1;0;5.71;4;15;11;4;3;4;0;2;0;0;53;;;0.049; 0.86; 0.00%; 0.04; 0.5
+Brennan Bernardino;/players/b/bernabr01.shtml;Brennan Bernardino; 1 ;5;5;5;2;1;1;3.52;10;38;22;13;4;5;3;4;2;0;;0;0;-0.432; 1.59;-0.01%; 0.07; -4.5
+Zack Weiss;/players/w/weissza01.shtml;Zack Weiss; 2 ;1;0;0;1;0;0;4.50;8;34;23;15;1;7;2;5;2;0;;0;0;0.074; 0.84; 0.00%; 0.04; 1.1
+Brandon Walter;/players/w/waltebr01.shtml;Brandon Walter; 3 ;2;0;0;0;2;0;6.26;10;42;26;15;3;8;3;5;2;0;;0;0;0.160; 0.86; 0.00%; 0.04; 1.6
+Mauricio Llovera;/players/l/llovema01.shtml; L (1-2); 1 ;3;1;1;1;0;0;4.30;7;28;16;10;0;6;2;4;2;0;;0;0;-0.181; 2.76;-0.01%; 0.13; -0.5
+John Schreiber;/players/s/schrejo01.shtml;John Schreiber; 1 ;1;2;2;0;2;1;3.73;5;22;15;9;2;4;1;1;0;0;;0;0;-0.125; 0.59;-0.00%; 0.03; -1.5
+
+Pitching away
+Clarke Schmidt;/players/s/schmicl01.shtml;Clarke Schmidt; 5.1;7;4;3;3;3;1;4.56;25;88;58;35;8;15;9;9;4;0;40;;;-0.115; 1.43;-0.00%; 0.02; -1.3
+Zach McAllister;/players/m/mcallza01.shtml; H (2); 0.2;1;1;1;0;1;0;5.40;3;18;15;11;3;1;1;1;1;0;;1;0;0.019; 2.02; 0.00%; 0.03; 0.2
+Wandy Peralta;/players/p/peralwa01.shtml; W (4-2); 1 ;1;0;0;0;0;0;2.83;4;14;10;9;0;1;3;1;0;0;;1;1;-0.051; 3.15;-0.00%; 0.05; -0.1
+Tommy Kahnle;/players/k/kahnlto01.shtml; S (2); 2 ;0;0;0;1;4;0;2.25;7;29;19;8;5;6;1;1;0;0;;0;0;0.194; 1.16; 0.00%; 0.02; 1.1
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: John Schreiber (4; Estevan Florial); Clarke Schmidt (10; Rafael Devers).
+IBB: Mauricio Llovera (3; Aaron Judge).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: John Schreiber (4; Estevan Florial); Clarke Schmidt (10; Rafael Devers).
+IBB: Mauricio Llovera (3; Aaron Judge).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Dan Merzel, 1B - Alex Tosi, 2B - Brian Knight, 3B - John Bacon, LF - (none), RF - (none).
+Time of Game: 3:12.
+Attendance: 35,507.
+Field Condition: Unknown.
+Start Time Weather: 70° F, Wind 1mph out to Rightfield, Sunny, No Precipitation.
+
+div_lineups
+Yankees
+1;DJ LeMahieu;/players/l/lemahdj01.shtml;1B
+2;Aaron Judge;/players/j/judgeaa01.shtml;DH
+3;Gleyber Torres;/players/t/torregl01.shtml;2B
+4;Giancarlo Stanton;/players/s/stantmi03.shtml;LF
+5;Estevan Florial;/players/f/flories01.shtml;CF
+6;Anthony Volpe;/players/v/volpean01.shtml;SS
+7;Oswald Peraza;/players/p/perazos02.shtml;3B
+8;Oswaldo Cabrera;/players/c/cabreos01.shtml;RF
+9;Kyle Higashioka;/players/h/higasky01.shtml;C
+; Clarke Schmidt;/players/s/schmicl01.shtml;P
+Red Sox
+1;Ceddanne Rafaela;/players/r/rafaece01.shtml;SS
+2;Rafael Devers;/players/d/deverra01.shtml;DH
+3;Alex Verdugo;/players/v/verdual01.shtml;RF
+4;Triston Casas;/players/c/casastr01.shtml;1B
+5;Masataka Yoshida;/players/y/yoshima02.shtml;LF
+6;Wilyer Abreu;/players/a/abreuwi02.shtml;CF
+7;Pablo Reyes;/players/r/reyespa01.shtml;2B
+8;Reese McGuire;/players/m/mcguire01.shtml;C
+9;Luis Urías;/players/u/uriaslu01.shtml;3B
+; Nick Robertson;/players/r/roberni01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;1-2;2;123;3,(2-0) BBX;RRRR;NYY;Aaron Judge;Brennan Bernardino;32%;75%;Home Run (Fly Ball to Deep CF); Peraza Scores; Cabrera Scores; LeMahieu Scores
+t8;5-5;2;12-;3,(1-1) CBX;R;NYY;DJ LeMahieu;Mauricio Llovera;26%;74%;Double to LF (Line Drive to Deep LF Line); Volpe Scores; Cabrera to 3B
+t9;6-5;2;1--;1,(0-0) X;RR;NYY;Oswald Peraza;John Schreiber;15%;96%;Home Run (Fly Ball to Deep LF-CF); Florial Scores
+b5;3-5;2;1-3;2,(0-1) CX;R;BOS;Triston Casas;Clarke Schmidt;-11%;59%;Reached on E6 (throw) (Ground Ball to Weak SS-2B); Urías Scores/No RBI/unER; Verdugo to 2B; Casas to 1B
+b7;4-5;0;1--;4,(2-1) .C*B*BX;;BOS;Rafael Devers;Wandy Peralta;-11%;44%;Single to CF (Fly Ball to Short CF-RF); Rafaela to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Yankees Batting, Tied 0-0, Red Sox' Nick Robertson facing 1-2-3 
+t1;0-0;0;---;4,(0-2) CSFS;O;NYY;DJ LeMahieu;Nick Robertson;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;5,(3-1) BBBFB;;NYY;Aaron Judge;Nick Robertson;2%;50%;Walk
+t1;0-0;1;1--;3,(0-2) CSX;O;NYY;Gleyber Torres;Nick Robertson;-3%;47%;Flyball: CF (Deep CF-RF)
+t1;0-0;2;1--;3,(0-2) CC>X;O;NYY;Giancarlo Stanton;Nick Robertson;-2%;45%;Popfly: 2B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Tied 0-0, Yankees' Clarke Schmidt facing 1-2-3 
+b1;0-0;0;---;4,(0-2) SS.FX;;BOS;Ceddanne Rafaela;Clarke Schmidt;-3%;42%;Single to CF (Line Drive)
+b1;0-0;0;1--;3,(1-1) 1BTX;;BOS;Rafael Devers;Clarke Schmidt;-5%;36%;Single to LF (Fly Ball to Deep 3B); Rafaela to 2B
+b1;0-0;0;12-;2,(0-1) FX;RO;BOS;Alex Verdugo;Clarke Schmidt;-1%;35%;Groundout: 1B-SS/Forceout at 2B; Rafaela Scores/Adv on E6 (throw)/No RBI; Verdugo to 1B
+b1;1-0;1;1--;5,(3-1) BBBC.B;;BOS;Triston Casas;Clarke Schmidt;-3%;33%;Walk; Verdugo to 2B
+b1;1-0;1;12-;2,(1-0) BX;O;BOS;Masataka Yoshida;Clarke Schmidt;4%;36%;Lineout: 2B (Deep 2B)
+b1;1-0;2;12-;5,(2-2) CC.BBX;R;BOS;Wilyer Abreu;Clarke Schmidt;-9%;28%;Single to LF (Line Drive to Short LF-CF); Verdugo Scores; Casas to 2B
+b1;2-0;2;12-;4,(1-2) CFBS;O;BOS;Pablo Reyes;Clarke Schmidt;3%;31%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 1 error, 2 LOB. Yankees 0, Red Sox 2.
+Top of the 2nd, Yankees Batting, Behind 0-2, Red Sox' Brennan Bernardino facing 5-6-7 
+;;;;;;;;;Brennan Bernardino replaces Nick Robertson pitching
+t2;0-2;0;---;2,(0-1) .CX;;NYY;Estevan Florial;Brennan Bernardino;4%;35%;Single to LF (Ground Ball)
+t2;0-2;0;1--;4,(1-2) FSB1X;O;NYY;Anthony Volpe;Brennan Bernardino;-4%;31%;Flyball: CF (Short CF-RF)
+t2;0-2;1;1--;5,(2-2) F1F*BBX;;NYY;Oswald Peraza;Brennan Bernardino;8%;39%;Double to LF (Line Drive to Deep LF Line); Florial to 3B
+t2;0-2;1;-23;4,(3-0) BBBB;;NYY;Oswaldo Cabrera;Brennan Bernardino;2%;41%;Walk
+t2;0-2;1;123;3,(0-2) C.SS;O;NYY;Kyle Higashioka;Brennan Bernardino;-8%;33%;Strikeout Swinging
+t2;0-2;2;123;5,(2-2) FBSBX;R;NYY;DJ LeMahieu;Brennan Bernardino;9%;43%;Single to 2B (Ground Ball); Florial Scores; Peraza to 3B; Cabrera to 2B
+;;;;;;;;;Force Play Challenged by NYY manager (Aaron Boone): Original call overturned as shown.
+t2;1-2;2;123;3,(2-0) BBX;RRRR;NYY;Aaron Judge;Brennan Bernardino;32%;75%;Home Run (Fly Ball to Deep CF); Peraza Scores; Cabrera Scores; LeMahieu Scores
+t2;5-2;2;---;4,(1-2) BFCX;;NYY;Gleyber Torres;Brennan Bernardino;1%;75%;Single to CF (Line Drive to Short CF)
+t2;5-2;2;1--;6,(3-2) BCFBB>B;;NYY;Giancarlo Stanton;Brennan Bernardino;1%;77%;Walk; Torres to 2B
+t2;5-2;2;12-;2,(0-1) CX;O;NYY;Estevan Florial;Brennan Bernardino;-3%;74%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;5 runs, 5 hits, 0 errors, 2 LOB. Yankees 5, Red Sox 2.
+Bottom of the 2nd, Red Sox Batting, Behind 2-5, Yankees' Clarke Schmidt facing 8-9-1 
+b2;2-5;0;---;1,(0-0) X;;BOS;Reese McGuire;Clarke Schmidt;-4%;70%;Single to 3B (Bunt to Short 3B Line)
+b2;2-5;0;1--;4,(1-2) BS.SC;O;BOS;Luis Urías;Clarke Schmidt;3%;74%;Strikeout Looking
+b2;2-5;1;1--;3,(0-2) FFX;OO;BOS;Ceddanne Rafaela;Clarke Schmidt;5%;79%;Ground Ball Double Play: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Yankees 5, Red Sox 2.
+Top of the 3rd, Yankees Batting, Ahead 5-2, Red Sox' Zack Weiss facing 6-7-8 
+;;;;;;;;;Zack Weiss replaces Brennan Bernardino pitching
+t3;5-2;0;---;3,(1-1) .BFX;O;NYY;Anthony Volpe;Zack Weiss;-1%;77%;Lineout: LF (Deep LF-CF)
+t3;5-2;1;---;3,(0-2) CFX;O;NYY;Oswald Peraza;Zack Weiss;-1%;76%;Popfly: 1B (Weak 1B)
+t3;5-2;2;---;4,(0-2) CCFX;O;NYY;Oswaldo Cabrera;Zack Weiss;-1%;76%;Lineout: 2B (Deep 2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 5, Red Sox 2.
+Bottom of the 3rd, Red Sox Batting, Behind 2-5, Yankees' Clarke Schmidt facing 2-3-4 
+b3;2-5;0;---;1,(0-0) X;R;BOS;Rafael Devers;Clarke Schmidt;-9%;66%;Home Run (Fly Ball to Deep RF)
+b3;3-5;0;---;9,(3-2) BSS.BFFFBX;O;BOS;Alex Verdugo;Clarke Schmidt;3%;69%;Flyball: LF (Short LF-CF)
+b3;3-5;1;---;6,(3-2) BBBC.SB;;BOS;Triston Casas;Clarke Schmidt;-3%;66%;Walk
+b3;3-5;1;1--;3,(1-1) CBX;OO;BOS;Masataka Yoshida;Clarke Schmidt;6%;72%;Ground Ball Double Play: SS-1B (SS-2B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Yankees 5, Red Sox 3.
+Top of the 4th, Yankees Batting, Ahead 5-3, Red Sox' Zack Weiss facing 9-1-2 
+t4;5-3;0;---;5,(2-2) CBS.BX;;NYY;Kyle Higashioka;Zack Weiss;5%;77%;Double to LF (Fly Ball to Deep LF Line)
+t4;5-3;0;-2-;4,(0-2) FCFX;O;NYY;DJ LeMahieu;Zack Weiss;-3%;74%;Groundout: SS-1B
+t4;5-3;1;-2-;7,(3-2) BCBFBFB;;NYY;Aaron Judge;Zack Weiss;1%;75%;Walk
+t4;5-3;1;12-;3,(2-0) BBX;O;NYY;Gleyber Torres;Zack Weiss;-4%;72%;Groundout: 3B unassisted/Forceout at 3B; Judge to 2B; Torres to 1B
+t4;5-3;2;12-;5,(2-2) CBBTX;O;NYY;Giancarlo Stanton;Zack Weiss;-4%;68%;Flyball: RF (RF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Yankees 5, Red Sox 3.
+Bottom of the 4th, Red Sox Batting, Behind 3-5, Yankees' Clarke Schmidt facing 6-7-8 
+b4;3-5;0;---;5,(3-1) BBBCB;;BOS;Wilyer Abreu;Clarke Schmidt;-5%;63%;Walk
+b4;3-5;0;1--;4,(1-2) B1FC.X;OO;BOS;Pablo Reyes;Clarke Schmidt;10%;73%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b4;3-5;2;---;9,(3-2) CFFBFFBBC;O;BOS;Reese McGuire;Clarke Schmidt;1%;74%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 5, Red Sox 3.
+Top of the 5th, Yankees Batting, Ahead 5-3, Red Sox' Brandon Walter facing 5-6-7 
+;;;;;;;;;Brandon Walter replaces Zack Weiss pitching
+t5;5-3;0;---;4,(1-2) .BSC.X;O;NYY;Estevan Florial;Brandon Walter;-2%;73%;Popfly: SS (Deep SS-3B Hole)
+t5;5-3;1;---;2,(1-0) BX;;NYY;Anthony Volpe;Brandon Walter;3%;76%;Double to LF (Line Drive to Deep LF Line)
+t5;5-3;1;-2-;5,(2-2) TCBBC;O;NYY;Oswald Peraza;Brandon Walter;-3%;73%;Strikeout Looking
+t5;5-3;2;-2-;2,(1-0) BX;O;NYY;Oswaldo Cabrera;Brandon Walter;-3%;70%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 5, Red Sox 3.
+Bottom of the 5th, Red Sox Batting, Behind 3-5, Yankees' Clarke Schmidt facing 9-1-2 
+b5;3-5;0;---;2,(0-1) CX;;BOS;Luis Urías;Clarke Schmidt;-5%;65%;Single to CF (Line Drive)
+b5;3-5;0;1--;1,(0-0) X;O;BOS;Ceddanne Rafaela;Clarke Schmidt;5%;70%;Flyball: LF
+b5;3-5;1;1--;3,(1-1) FBH;;BOS;Rafael Devers;Clarke Schmidt;-5%;65%;Hit By Pitch; Urías to 2B
+b5;3-5;1;12-;1,(0-0) X;O;BOS;Alex Verdugo;Clarke Schmidt;6%;70%;Groundout: 1B-SS/Forceout at 2B; Urías to 3B; Verdugo to 1B
+b5;3-5;2;1-3;2,(0-1) CX;R;BOS;Triston Casas;Clarke Schmidt;-11%;59%;Reached on E6 (throw) (Ground Ball to Weak SS-2B); Urías Scores/No RBI/unER; Verdugo to 2B; Casas to 1B
+b5;4-5;2;12-;1,(0-0) X;O;BOS;Masataka Yoshida;Clarke Schmidt;7%;65%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;1 run, 1 hit, 1 error, 2 LOB. Yankees 5, Red Sox 4.
+Top of the 6th, Yankees Batting, Ahead 5-4, Red Sox' Brandon Walter facing 9-1-2 
+t6;5-4;0;---;8,(2-2) BFCFFFBS;O;NYY;Kyle Higashioka;Brandon Walter;-3%;63%;Strikeout Swinging
+t6;5-4;1;---;6,(3-2) BCBBC.X;;NYY;DJ LeMahieu;Brandon Walter;3%;66%;Single to RF (Ground Ball thru 2B-1B)
+t6;5-4;1;1--;5,(2-2) BCBSX;OO;NYY;Aaron Judge;Brandon Walter;-6%;60%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Yankees 5, Red Sox 4.
+Bottom of the 6th, Red Sox Batting, Behind 4-5, Yankees' Clarke Schmidt facing 6-7-8 
+b6;4-5;0;---;5,(2-2) BCFBX;O;BOS;Wilyer Abreu;Clarke Schmidt;4%;64%;Popfly: 3B
+b6;4-5;1;---;3,(0-2) FC.X;;BOS;Pablo Reyes;Clarke Schmidt;-4%;59%;Single to RF (Ground Ball thru 2B-1B)
+;;;;;;;;;Zach McAllister replaces Clarke Schmidt pitching
+b6;4-5;1;1--;3,(0-2) .F>FX;O;BOS;Reese McGuire;Zach McAllister;3%;63%;Groundout: 2B-1B (2B-1B); Reyes to 2B
+b6;4-5;2;-2-;7,(1-2) CS.BFFFS;O;BOS;Luis Urías;Zach McAllister;6%;69%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 5, Red Sox 4.
+Top of the 7th, Yankees Batting, Ahead 5-4, Red Sox' Brandon Walter facing 3-4-5 
+t7;5-4;0;---;3,(2-0) BBX;O;NYY;Gleyber Torres;Brandon Walter;-3%;66%;Flyball: RF (RF Line)
+t7;5-4;1;---;6,(2-2) BBFCFX;O;NYY;Giancarlo Stanton;Brandon Walter;-2%;64%;Lineout: 3B
+t7;5-4;2;---;1,(0-0) X;O;NYY;Estevan Florial;Brandon Walter;-1%;63%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 5, Red Sox 4.
+Bottom of the 7th, Red Sox Batting, Behind 4-5, Yankees' Zach McAllister facing 1-2-3 
+;;;;;;;;;Isiah Kiner-Falefa replaces Giancarlo Stanton playing LF batting 4th
+b7;4-5;0;---;8,(2-2) .FBSFFBFX;;BOS;Ceddanne Rafaela;Zach McAllister;-8%;55%;Single to CF (Line Drive to Deep CF-RF)
+;;;;;;;;;Wandy Peralta replaces Zach McAllister pitching
+b7;4-5;0;1--;4,(2-1) .C*B*BX;;BOS;Rafael Devers;Wandy Peralta;-11%;44%;Single to CF (Fly Ball to Short CF-RF); Rafaela to 2B
+b7;4-5;0;12-;7,(2-2) BFLFF*BX;O;BOS;Alex Verdugo;Wandy Peralta;5%;49%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Rafaela to 3B; Verdugo to 1B
+b7;4-5;1;1-3;1,(0-0) X;RO;BOS;Triston Casas;Wandy Peralta;-5%;44%;Groundout: 3B-1B (Weak SS); Rafaela Scores; Verdugo to 2B
+b7;5-5;2;-2-;2,(0-1) FX;O;BOS;Masataka Yoshida;Wandy Peralta;6%;50%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Yankees 5, Red Sox 5.
+Top of the 8th, Yankees Batting, Tied 5-5, Red Sox' Mauricio Llovera facing 6-7-8 
+;;;;;;;;;Mauricio Llovera replaces Brandon Walter pitching
+t8;5-5;0;---;6,(3-2) .BCBCB.X;;NYY;Anthony Volpe;Mauricio Llovera;7%;57%;Single to 3B (Ground Ball)
+t8;5-5;0;1--;2,(0-1) LX;O;NYY;Oswald Peraza;Mauricio Llovera;-7%;50%;Flyball: CF (Deep CF)
+t8;5-5;1;1--;6,(2-2) 1CB>FB>FX;;NYY;Oswaldo Cabrera;Mauricio Llovera;7%;57%;Single to LF (Ground Ball); Volpe to 2B
+t8;5-5;1;12-;5,(3-1) BBCBX;O;NYY;Kyle Higashioka;Mauricio Llovera;-9%;48%;Lineout: 3B
+t8;5-5;2;12-;3,(1-1) CBX;R;NYY;DJ LeMahieu;Mauricio Llovera;26%;74%;Double to LF (Line Drive to Deep LF Line); Volpe Scores; Cabrera to 3B
+t8;6-5;2;-23;,(3-0) VVVV;;NYY;Aaron Judge;Mauricio Llovera;1%;76%;Intentional Walk
+t8;6-5;2;123;6,(3-2) BBFBC.>X;O;NYY;Gleyber Torres;Mauricio Llovera;-7%;68%;Flyball: RF (Deep RF Line)
+;;;;;;;;;1 run, 3 hits, 0 errors, 3 LOB. Yankees 6, Red Sox 5.
+Bottom of the 8th, Red Sox Batting, Behind 5-6, Yankees' Tommy Kahnle facing 6-7-8 
+;;;;;;;;;Tommy Kahnle replaces Wandy Peralta pitchingRob Refsnyder pinch hits for Wilyer Abreu (CF) batting 6th
+b8;5-6;0;---;2,(0-1) ..FX;O;BOS;Rob Refsnyder;Tommy Kahnle;7%;75%;Flyball: CF (Deep CF-RF)
+b8;5-6;1;---;6,(2-2) BCBF.FS;O;BOS;Pablo Reyes;Tommy Kahnle;5%;79%;Strikeout Swinging
+b8;5-6;2;---;2,(0-1) CX;O;BOS;Reese McGuire;Tommy Kahnle;3%;83%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 6, Red Sox 5.
+Top of the 9th, Yankees Batting, Ahead 6-5, Red Sox' John Schreiber facing 4-5-6 
+;;;;;;;;;John Schreiber replaces Mauricio Llovera pitchingRob Refsnyder moves from PH to CF 
+t9;6-5;0;---;7,(2-2) ..FBCFFBX;O;NYY;Isiah Kiner-Falefa;John Schreiber;-2%;81%;Groundout: SS-1B
+t9;6-5;1;---;5,(2-2) CBBC.H;;NYY;Estevan Florial;John Schreiber;2%;83%;Hit By Pitch
+t9;6-5;1;1--;4,(1-2) CBF1S;O;NYY;Anthony Volpe;John Schreiber;-2%;81%;Strikeout Swinging
+t9;6-5;2;1--;1,(0-0) X;RR;NYY;Oswald Peraza;John Schreiber;15%;96%;Home Run (Fly Ball to Deep LF-CF); Florial Scores
+t9;8-5;2;---;5,(1-2) FFBFS;O;NYY;Oswaldo Cabrera;John Schreiber;0%;95%;Strikeout Swinging
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Yankees 8, Red Sox 5.
+Bottom of the 9th, Red Sox Batting, Behind 5-8, Yankees' Tommy Kahnle facing 9-1-2 
+b9;5-8;0;---;6,(3-2) CBBBCS;O;BOS;Luis Urías;Tommy Kahnle;3%;98%;Strikeout Swinging
+b9;5-8;1;---;3,(0-2) SSS;O;BOS;Ceddanne Rafaela;Tommy Kahnle;1%;99%;Strikeout Swinging
+b9;5-8;2;---;5,(3-1) CBBBB;;BOS;Rafael Devers;Tommy Kahnle;-1%;98%;Walk
+b9;5-8;2;1--;5,(1-2) BFFFC;O;BOS;Alex Verdugo;Tommy Kahnle;2%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Yankees 8, Red Sox 5.

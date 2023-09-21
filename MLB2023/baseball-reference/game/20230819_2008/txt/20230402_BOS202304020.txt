@@ -1,0 +1,281 @@
+
+Scorebox Meta
+20230402
+1:35 p.m. Local
+27886
+Fenway Park
+164
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/BAL-2023.png;/teams/BAL/2023.shtml;0;0;0;0;3;0;2;0;0;5;10;2
+https://cdn.ssref.net/req/202308101/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;1;1;1;0;3;0;2;1;X;9;14;0
+
+Batting home
+Rob Refsnyder;/players/r/refsnro01.shtml;LF;4;1;1;0;1;1;5;.250;.400;.250;.650;27;15;0.010; 0.49;0.037;-0.027; 0.01%; 0.47; 0.0;3;0;
+Rafael Devers;/players/d/deverra01.shtml;3B;5;1;2;0;0;2;5;.467;.467;.600;1.067;14;11;0.063; 0.77;0.097;-0.034; 0.04%; 0.75; -0.1;0;2;
+Justin Turner;/players/t/turneju01.shtml;1B;4;1;1;0;1;0;5;.417;.533;.500;1.033;22;12;0.151; 1.01;0.176;-0.025; 0.09%; 0.98; 1.3;6;0;
+Masataka Yoshida;/players/y/yoshima02.shtml;DH;4;3;2;2;1;0;5;.308;.400;.308;.708;16;11;0.140; 0.93;0.152;-0.012; 0.08%; 0.90; 1.7;;;SB
+Adam Duvall;/players/d/duvalad01.shtml;CF;5;2;3;2;0;1;5;.571;.600;1.357;1.957;23;17;0.093; 0.81;0.162;-0.069; 0.05%; 0.78; 1.1;1;0;2·2B
+Alex Verdugo;/players/v/verdual01.shtml;RF;4;0;2;2;1;0;5;.357;.400;.714;1.114;14;7;0.082; 0.86;0.120;-0.038; 0.05%; 0.84; 2.0;2;0;
+Christian Arroyo;/players/a/arroych01.shtml;2B;2;0;0;0;0;1;3;.111;.111;.222;.333;15;12;-0.075; 1.17;0.000;-0.075;-0.04%; 1.13; -1.2;2;4;SH
+Triston Casas;/players/c/casastr01.shtml;PH;1;0;1;1;0;0;1;.167;.333;.167;.500;3;2;0.058; 1.29;0.058;0.000; 0.03%; 1.25; 0.8;;;
+Yu Chang;/players/c/changyu01.shtml;PR-2B;1;0;0;0;0;1;1;.000;.000;.000;.000;4;3;0.002; 0.26;0.004;-0.002; 0.00%; 0.26; -0.1;0;1;
+Enrique Hernández;/players/h/hernaen02.shtml;SS;4;1;2;2;0;1;4;.333;.455;1.000;1.455;18;14;0.074; 0.70;0.120;-0.046; 0.04%; 0.68; 0.6;3;1;HR
+Connor Wong;/players/w/wongco01.shtml;C;4;0;0;0;0;0;4;.000;.000;.000;.000;8;6;-0.064; 0.59;0.000;-0.064;-0.04%; 0.57; -1.6;10;0;
+Tanner Houck;/players/h/houckta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+John Schreiber;/players/s/schrejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Richard Bleier;/players/b/bleieri01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chris Martin;/players/m/martich02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kaleb Ort;/players/o/ortka01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Adam Duvall 2 (3, 1 off Keegan Akin, 1 off Cole Irvin).
+
+
+HR: Enrique Hernández (2, off Cole Irvin, 2nd inn, 0 on, 0 outs to Deep LF Line).
+
+
+SH: Christian Arroyo (1, off Bryan Baker).
+
+
+TB: Adam Duvall 5; Enrique Hernández 5; Masataka Yoshida 2; Rafael Devers 2; Alex Verdugo 2; Triston Casas; Rob Refsnyder; Justin Turner.
+
+
+RBI: Enrique Hernández 2 (3); Adam Duvall 2 (8); Alex Verdugo 2 (4); Masataka Yoshida 2 (3); Triston Casas (3).
+
+
+2-out RBI: Alex Verdugo 2.
+
+
+Team LOB: 10.
+With RISP: 6 for 15.
+
+Batting away
+Cedric Mullins;/players/m/mullice01.shtml;CF;5;1;2;3;0;0;5;.385;.467;.846;1.313;15;10;0.193; 0.93;0.247;-0.054; 0.12%; 0.93; 1.3;3;0;HR
+Adley Rutschman;/players/r/rutscad01.shtml;C;5;0;0;0;0;3;5;.400;.438;.600;1.038;28;18;-0.104; 0.82;0.000;-0.104;-0.06%; 0.82; -1.1;7;1;
+Anthony Santander;/players/s/santaan02.shtml;DH;4;0;1;0;0;1;4;.333;.333;.467;.800;16;12;-0.046; 0.97;0.038;-0.083;-0.03%; 0.97; -0.2;;;
+Ryan Mountcastle;/players/m/mountry01.shtml;1B;4;0;1;0;0;2;4;.308;.400;.615;1.015;12;11;-0.034; 1.01;0.044;-0.078;-0.02%; 1.01; -0.4;7;0;
+Gunnar Henderson;/players/h/hendegu01.shtml;SS;3;0;0;0;1;1;4;.000;.429;.000;.429;20;11;-0.097; 0.99;0.013;-0.110;-0.06%; 0.99; -1.0;1;1;GDP
+Terrin Vavra;/players/v/vavrate01.shtml;LF;4;0;1;0;0;1;4;.250;.250;.250;.500;16;10;-0.065; 0.84;0.013;-0.079;-0.04%; 0.84; -0.7;1;0;
+Austin Hays;/players/h/haysau01.shtml;RF;3;1;1;0;1;1;4;.462;.500;.846;1.346;14;9;0.002; 0.78;0.048;-0.046; 0.00%; 0.78; -0.0;4;0;
+Adam Frazier;/players/f/fraziad01.shtml;2B;4;2;3;2;0;0;4;.625;.667;1.375;2.042;18;10;0.164; 0.99;0.210;-0.046; 0.10%; 0.99; 2.2;0;1;HR,2B
+Ramón Urías;/players/u/uriasra01.shtml;3B;3;1;1;0;0;0;3;.250;.308;.583;.891;11;9;0.041; 1.06;0.090;-0.049; 0.03%; 1.06; 0.5;1;2;2B
+Kyle Stowers;/players/s/stoweky01.shtml;PH;1;0;0;0;0;1;1;.000;.000;.000;.000;3;3;-0.020; 0.79;0.000;-0.020;-0.01%; 0.79; -0.5;;;
+Cole Irvin;/players/i/irvinco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Baker;/players/b/bakerbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Keegan Akin;/players/a/akinke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Mike Baumann;/players/b/baumami01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ramón Urías (1, off Richard Bleier); Adam Frazier (3, off Kaleb Ort).
+
+
+HR: Adam Frazier (1, off Tanner Houck, 5th inn, 1 on, 1 out to Deep RF); Cedric Mullins (2, off Tanner Houck, 5th inn, 0 on, 2 outs to Deep CF-RF).
+
+
+TB: Adam Frazier 7; Cedric Mullins 5; Ramón Urías 2; Austin Hays; Terrin Vavra; Anthony Santander; Ryan Mountcastle.
+
+
+GIDP: Gunnar Henderson (1).
+
+
+RBI: Cedric Mullins 3 (7); Adam Frazier 2 (2).
+
+
+2-out RBI: Cedric Mullins.
+
+
+Team LOB: 6.
+With RISP: 1 for 5.
+
+Pitching home
+Tanner Houck;/players/h/houckta01.shtml; W (1-0); 5 ;5;3;3;1;5;2;5.40;20;70;45;18;9;18;8;6;0;0;49;;;-0.048; 0.86;-0.03%; 0.83; -0.2
+John Schreiber;/players/s/schrejo01.shtml; H (1); 1 ;0;0;0;1;2;0;0.00;4;19;13;8;2;3;1;0;0;0;;0;0;0.052; 0.69; 0.03%; 0.67; 0.6
+Richard Bleier;/players/b/bleieri01.shtml; H (1); 1 ;3;2;2;0;2;0;18.00;6;30;22;14;4;4;2;2;2;0;;0;0;-0.103; 1.48;-0.06%; 1.43; -1.4
+Chris Martin;/players/m/martich02.shtml; H (1); 1 ;1;0;0;0;0;0;0.00;4;11;8;6;1;1;1;3;1;0;;0;0;0.048; 1.14; 0.03%; 1.10; 0.6
+Kaleb Ort;/players/o/ortka01.shtml;Kaleb Ort; 1 ;1;0;0;0;1;0;6.00;4;23;15;11;1;3;0;3;0;0;;0;0;0.017; 0.46; 0.01%; 0.44; 0.6
+
+Pitching away
+Cole Irvin;/players/i/irvinco01.shtml; L (0-1); 4 ;8;6;6;2;4;1;13.50;22;88;58;38;3;17;6;10;4;0;24;;;-0.333; 1.01;-0.20%; 1.01; -2.8
+Bryan Baker;/players/b/bakerbr01.shtml;Bryan Baker; 2 ;1;0;0;0;2;0;10.13;8;25;18;9;3;6;2;4;1;0;;2;2;-0.048; 0.70;-0.03%; 0.70; 0.1
+Keegan Akin;/players/a/akinke01.shtml;Keegan Akin; 0.1;2;2;2;0;0;0;10.80;3;8;7;4;0;3;0;3;2;0;;0;0;-0.073; 0.98;-0.04%; 0.98; -0.9
+Mike Baumann;/players/b/baumami01.shtml;Mike Baumann; 1.2;3;1;1;2;1;0;3.38;10;43;27;16;4;7;0;7;5;0;;2;2;-0.079; 0.44;-0.05%; 0.44; -1.0
+
+indiv_events
+
+Balks: None.
+WP: Bryan Baker (1); Mike Baumann (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Bryan Baker (1); Mike Baumann (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Ryan Additon, 1B - Dan Merzel, 2B - Lance Barksdale, 3B - Will Little, LF - (none), RF - (none).
+Time of Game: 2:44.
+Attendance: 27,886.
+Field Condition: Unknown.
+Start Time Weather: 43° F, Wind 8mph out to Rightfield, Sunny, No Precipitation.
+
+div_lineups
+Orioles
+1;Cedric Mullins;/players/m/mullice01.shtml;CF
+2;Adley Rutschman;/players/r/rutscad01.shtml;C
+3;Anthony Santander;/players/s/santaan02.shtml;DH
+4;Ryan Mountcastle;/players/m/mountry01.shtml;1B
+5;Gunnar Henderson;/players/h/hendegu01.shtml;SS
+6;Terrin Vavra;/players/v/vavrate01.shtml;LF
+7;Austin Hays;/players/h/haysau01.shtml;RF
+8;Adam Frazier;/players/f/fraziad01.shtml;2B
+9;Ramón Urías;/players/u/uriasra01.shtml;3B
+; Cole Irvin;/players/i/irvinco01.shtml;P
+Red Sox
+1;Rob Refsnyder;/players/r/refsnro01.shtml;LF
+2;Rafael Devers;/players/d/deverra01.shtml;3B
+3;Justin Turner;/players/t/turneju01.shtml;1B
+4;Masataka Yoshida;/players/y/yoshima02.shtml;DH
+5;Adam Duvall;/players/d/duvalad01.shtml;CF
+6;Alex Verdugo;/players/v/verdual01.shtml;RF
+7;Christian Arroyo;/players/a/arroych01.shtml;2B
+8;Enrique Hernández;/players/h/hernaen02.shtml;SS
+9;Connor Wong;/players/w/wongco01.shtml;C
+; Tanner Houck;/players/h/houckta01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t5;0-3;1;1--;5,(3-1) BBCBX;RR;BAL;Adam Frazier;Tanner Houck;-16%;66%;Home Run (Fly Ball to Deep RF); Hays Scores
+t5;2-3;2;---;4,(2-1) BCBX;R;BAL;Cedric Mullins;Tanner Houck;-13%;55%;Home Run (Fly Ball to Deep CF-RF)
+t7;3-6;1;-23;2,(0-1) SX;RR;BAL;Cedric Mullins;Richard Bleier;-11%;68%;Single to CF (Line Drive); Frazier Scores; Urías Scores
+b5;3-3;0;12-;1,(0-0) X;R;BOS;Masataka Yoshida;Cole Irvin;10%;78%;Single to CF (Fly Ball to Short CF); Devers Scores; Turner to 2B
+t7;3-6;1;1--;7,(2-2) SBBFFFX;;BAL;Ramón Urías;Richard Bleier;-9%;79%;Double to RF (Line Drive to Short RF Line); Frazier to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Orioles Batting, Tied 0-0, Red Sox' Tanner Houck facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;BAL;Cedric Mullins;Tanner Houck;2%;52%;Flyball: LF (Short LF-CF)
+t1;0-0;1;---;6,(2-2) BBTC.FS;O;BAL;Adley Rutschman;Tanner Houck;2%;54%;Strikeout Swinging
+t1;0-0;2;---;2,(0-1) SX;O;BAL;Anthony Santander;Tanner Houck;1%;55%;Flyball: CF (Short CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 0, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Tied 0-0, Orioles' Cole Irvin facing 1-2-3 
+b1;0-0;0;---;5,(2-2) CBBFX;;BOS;Rob Refsnyder;Cole Irvin;3%;58%;Single to 3B (Ground Ball)
+b1;0-0;0;1--;1,(0-0) X;;BOS;Rafael Devers;Cole Irvin;5%;64%;Single to RF (Line Drive to CF-RF); Refsnyder to 2B
+b1;0-0;0;12-;6,(3-2) CBBBF.B;;BOS;Justin Turner;Cole Irvin;7%;70%;Walk; Refsnyder to 3B; Devers to 2B
+b1;0-0;0;123;2,(0-1) CX;RO;BOS;Masataka Yoshida;Cole Irvin;1%;71%;Groundout: 1B unassisted (Weak 1B); Refsnyder Scores; Devers to 3B; Turner to 2B
+b1;1-0;1;-23;4,(1-2) FBFC;O;BOS;Adam Duvall;Cole Irvin;-6%;65%;Strikeout Looking
+b1;1-0;2;-23;4,(3-0) BBBB;;BOS;Alex Verdugo;Cole Irvin;1%;66%;Walk
+b1;1-0;2;123;10,(2-2) CTFFFBFBFS;O;BOS;Christian Arroyo;Cole Irvin;-6%;60%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 3 LOB. Orioles 0, Red Sox 1.
+Top of the 2nd, Orioles Batting, Behind 0-1, Red Sox' Tanner Houck facing 4-5-6 
+t2;0-1;0;---;3,(0-2) .CSX;O;BAL;Ryan Mountcastle;Tanner Houck;3%;62%;Groundout: 3B-1B (SS-3B Hole)
+t2;0-1;1;---;6,(3-2) BBCC.BS;O;BAL;Gunnar Henderson;Tanner Houck;2%;64%;Strikeout Swinging
+t2;0-1;2;---;2,(1-0) BX;;BAL;Terrin Vavra;Tanner Houck;-1%;63%;Single to CF (Ground Ball thru SS-2B)
+t2;0-1;2;1--;6,(3-2) BBSBC>B;;BAL;Austin Hays;Tanner Houck;-2%;61%;Walk; Vavra to 2B
+t2;0-1;2;12-;2,(1-0) BX;O;BAL;Adam Frazier;Tanner Houck;5%;65%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Orioles 0, Red Sox 1.
+Bottom of the 2nd, Red Sox Batting, Ahead 1-0, Orioles' Cole Irvin facing 8-9-1 
+b2;1-0;0;---;4,(0-2) CFFX;R;BOS;Enrique Hernández;Cole Irvin;9%;74%;Home Run (Fly Ball to Deep LF Line)
+b2;2-0;0;---;2,(0-1) FX;O;BOS;Connor Wong;Cole Irvin;-2%;72%;Groundout: 2B-1B
+b2;2-0;1;---;6,(3-2) BBCBC.C;O;BOS;Rob Refsnyder;Cole Irvin;-1%;71%;Strikeout Looking
+b2;2-0;2;---;5,(2-2) CBFBS;O;BOS;Rafael Devers;Cole Irvin;-1%;70%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Orioles 0, Red Sox 2.
+Top of the 3rd, Orioles Batting, Behind 0-2, Red Sox' Tanner Houck facing 9-1-2 
+t3;0-2;0;---;2,(0-1) CX;O;BAL;Ramón Urías;Tanner Houck;3%;73%;Popfly: 2B (Deep 1B)
+t3;0-2;1;---;2,(0-1) CX;O;BAL;Cedric Mullins;Tanner Houck;2%;75%;Groundout: 1B unassisted (Weak 1B)
+t3;0-2;2;---;4,(1-2) BCS.C;O;BAL;Adley Rutschman;Tanner Houck;1%;76%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 0, Red Sox 2.
+Bottom of the 3rd, Red Sox Batting, Ahead 2-0, Orioles' Cole Irvin facing 3-4-5 
+b3;2-0;0;---;2,(1-0) BX;O;BOS;Justin Turner;Cole Irvin;-2%;74%;Flyball: CF (Deep CF)
+b3;2-0;1;---;5,(1-2) CFBFX;O;BOS;Masataka Yoshida;Cole Irvin;-1%;73%;Groundout: 3B-1B (Weak 3B)
+b3;2-0;2;---;1,(0-0) X;;BOS;Adam Duvall;Cole Irvin;2%;75%;Double to LF (Line Drive to Short LF Line)
+b3;2-0;2;-2-;2,(1-0) BX;R;BOS;Alex Verdugo;Cole Irvin;7%;82%;Single to CF (Fly Ball); Duvall Scores
+b3;3-0;2;1--;4,(1-2) FCBX;O;BOS;Christian Arroyo;Cole Irvin;-1%;80%;Lineout: CF (Deep CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Orioles 0, Red Sox 3.
+Top of the 4th, Orioles Batting, Behind 0-3, Red Sox' Tanner Houck facing 3-4-5 
+t4;0-3;0;---;3,(1-1) CBX;;BAL;Anthony Santander;Tanner Houck;-4%;77%;Single to CF (Ground Ball)
+t4;0-3;0;1--;4,(0-2) SCFS;O;BAL;Ryan Mountcastle;Tanner Houck;4%;80%;Strikeout Swinging
+t4;0-3;1;1--;4,(2-1) CBBX;OO;BAL;Gunnar Henderson;Tanner Houck;5%;85%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Orioles 0, Red Sox 3.
+Bottom of the 4th, Red Sox Batting, Ahead 3-0, Orioles' Cole Irvin facing 8-9-1 
+b4;3-0;0;---;7,(2-2) BCCFBFX;O;BOS;Enrique Hernández;Cole Irvin;-1%;84%;Flyball: RF (CF-RF)
+b4;3-0;1;---;4,(2-1) BBFX;O;BOS;Connor Wong;Cole Irvin;-1%;83%;Flyball: RF (Short CF-RF)
+b4;3-0;2;---;7,(2-2) BCCBFFX;O;BOS;Rob Refsnyder;Cole Irvin;-1%;83%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 0, Red Sox 3.
+Top of the 5th, Orioles Batting, Behind 0-3, Red Sox' Tanner Houck facing 6-7-8 
+t5;0-3;0;---;6,(3-2) BFBC.BX;O;BAL;Terrin Vavra;Tanner Houck;2%;85%;Flyball: RF (Deep RF)
+t5;0-3;1;---;1,(0-0) X;;BAL;Austin Hays;Tanner Houck;-3%;82%;Single to CF (Ground Ball thru SS-2B)
+t5;0-3;1;1--;5,(3-1) BBCBX;RR;BAL;Adam Frazier;Tanner Houck;-16%;66%;Home Run (Fly Ball to Deep RF); Hays Scores
+t5;2-3;1;---;2,(0-1) CX;O;BAL;Ramón Urías;Tanner Houck;2%;69%;Groundout: 2B-1B (SS-2B)
+t5;2-3;2;---;4,(2-1) BCBX;R;BAL;Cedric Mullins;Tanner Houck;-13%;55%;Home Run (Fly Ball to Deep CF-RF)
+t5;3-3;2;---;5,(2-2) BBCC.S;O;BAL;Adley Rutschman;Tanner Houck;2%;57%;Strikeout Swinging
+;;;;;;;;;3 runs, 3 hits, 0 errors, 0 LOB. Orioles 3, Red Sox 3.
+Bottom of the 5th, Red Sox Batting, Tied 3-3, Orioles' Cole Irvin facing 2-3-4 
+b5;3-3;0;---;2,(0-1) SX;;BOS;Rafael Devers;Cole Irvin;5%;61%;Single to CF (Line Drive to Deep CF)
+b5;3-3;0;1--;4,(2-1) BC*BX;;BOS;Justin Turner;Cole Irvin;7%;68%;Single to SS (Ground Ball); Devers to 2B
+b5;3-3;0;12-;1,(0-0) X;R;BOS;Masataka Yoshida;Cole Irvin;10%;78%;Single to CF (Fly Ball to Short CF); Devers Scores; Turner to 2B
+;;;;;;;;;Bryan Baker replaces Cole Irvin pitching
+b5;4-3;0;12-;5,(1-2) .CCBFB;;BOS;Adam Duvall;Bryan Baker;4%;83%;Wild Pitch; Turner to 3B; Yoshida to 2B
+b5;4-3;0;-23;6,(2-2) .CCBFB.X;RR;BOS;Adam Duvall;Bryan Baker;6%;89%;Single to LF (Line Drive to LF-CF); Turner Scores; Yoshida Scores
+b5;6-3;0;1--;3,(1-1) C*BX;;BOS;Alex Verdugo;Bryan Baker;2%;91%;Reached on E6 (Fly Ball to Deep SS); Duvall to 2B; Verdugo to 1B
+b5;6-3;0;12-;1,(0-0) X;O;BOS;Christian Arroyo;Bryan Baker;0%;91%;Bunt Groundout: C-1B/Sacrifice; Duvall to 3B; Verdugo to 2B
+b5;6-3;1;-23;6,(2-2) SS*BFBC;O;BOS;Enrique Hernández;Bryan Baker;-3%;88%;Strikeout Looking
+b5;6-3;2;-23;1,(0-0) X;O;BOS;Connor Wong;Bryan Baker;-3%;85%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;3 runs, 4 hits, 1 error, 2 LOB. Orioles 3, Red Sox 6.
+Top of the 6th, Orioles Batting, Behind 3-6, Red Sox' John Schreiber facing 3-4-5 
+;;;;;;;;;John Schreiber replaces Tanner Houck pitching
+t6;3-6;0;---;5,(1-2) .CBFFX;O;BAL;Anthony Santander;John Schreiber;3%;88%;Groundout: 2B-1B (2B-1B)
+t6;3-6;1;---;4,(1-2) BCFS;O;BAL;Ryan Mountcastle;John Schreiber;2%;90%;Strikeout Swinging
+t6;3-6;2;---;7,(3-2) BFBBC.FB;;BAL;Gunnar Henderson;John Schreiber;-1%;88%;Walk
+t6;3-6;2;1--;3,(0-2) FFS;O;BAL;Terrin Vavra;John Schreiber;2%;91%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Orioles 3, Red Sox 6.
+Bottom of the 6th, Red Sox Batting, Ahead 6-3, Orioles' Bryan Baker facing 1-2-3 
+b6;6-3;0;---;2,(1-0) BX;O;BOS;Rob Refsnyder;Bryan Baker;-1%;90%;Flyball: LF (Short LF)
+b6;6-3;1;---;4,(1-2) CFBS;O;BOS;Rafael Devers;Bryan Baker;-1%;89%;Strikeout Swinging
+b6;6-3;2;---;2,(0-1) CX;O;BOS;Justin Turner;Bryan Baker;0%;89%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 3, Red Sox 6.
+Top of the 7th, Orioles Batting, Behind 3-6, Red Sox' Richard Bleier facing 7-8-9 
+;;;;;;;;;Richard Bleier replaces John Schreiber pitching
+t7;3-6;0;---;5,(0-2) .CFFFC;O;BAL;Austin Hays;Richard Bleier;3%;91%;Strikeout Looking
+t7;3-6;1;---;4,(2-1) CBBX;;BAL;Adam Frazier;Richard Bleier;-3%;88%;Single to LF (Ground Ball thru SS-3B Hole)
+t7;3-6;1;1--;7,(2-2) SBBFFFX;;BAL;Ramón Urías;Richard Bleier;-9%;79%;Double to RF (Line Drive to Short RF Line); Frazier to 3B
+t7;3-6;1;-23;2,(0-1) SX;RR;BAL;Cedric Mullins;Richard Bleier;-11%;68%;Single to CF (Line Drive); Frazier Scores; Urías Scores
+t7;5-6;1;1--;6,(2-2) C1FBFBX;O;BAL;Adley Rutschman;Richard Bleier;6%;74%;Groundout: 3B-2B/Forceout at 2B (Weak 3B); Rutschman to 1B
+t7;5-6;2;1--;6,(2-2) SFBBFS;O;BAL;Anthony Santander;Richard Bleier;5%;78%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Orioles 5, Red Sox 6.
+Bottom of the 7th, Red Sox Batting, Ahead 6-5, Orioles' Keegan Akin facing 4-5-6 
+;;;;;;;;;Keegan Akin replaces Bryan Baker pitching
+b7;6-5;0;---;2,(0-1) .CX;;BOS;Masataka Yoshida;Keegan Akin;3%;81%;Single to LF (Line Drive to Deep LF-CF)
+b7;6-5;0;1--;3,(0-2) CTX;;BOS;Adam Duvall;Keegan Akin;8%;89%;Double to LF (Line Drive to LF-CF); Yoshida to 3B
+b7;6-5;0;-23;3,(1-1) BCX;O;BOS;Alex Verdugo;Keegan Akin;-4%;86%;Popfly: SS (SS-3B Hole)
+;;;;;;;;;Mike Baumann replaces Keegan Akin pitchingTriston Casas pinch hits for Christian Arroyo (2B) batting 7th
+b7;6-5;1;-23;3,(1-1) ..SBX;R;BOS;Triston Casas;Mike Baumann;6%;91%;Single to RF (Line Drive to Short CF-RF); Yoshida Scores; Duvall to 3B
+;;;;;;;;;Yu Chang pinch runs for Triston Casas (PH) batting 7th
+b7;7-5;1;1-3;1,(0-0) .X;R;BOS;Enrique Hernández;Mike Baumann;3%;95%;Single to RF (Fly Ball to Short RF Line); Duvall Scores; Chang to 2B
+b7;8-5;1;12-;1,(0-0) X;O;BOS;Connor Wong;Mike Baumann;-1%;93%;Lineout: RF (Short RF)
+b7;8-5;2;12-;5,(2-2) BCCBB;;BOS;Rob Refsnyder;Mike Baumann;0%;94%;Wild Pitch; Chang to 3B; Hernández to 2B
+b7;8-5;2;-23;7,(3-2) BCCBB.FB;;BOS;Rob Refsnyder;Mike Baumann;0%;94%;Walk
+b7;8-5;2;123;2,(0-1) FX;O;BOS;Rafael Devers;Mike Baumann;-2%;92%;Popfly: 1B
+;;;;;;;;;2 runs, 4 hits, 0 errors, 3 LOB. Orioles 5, Red Sox 8.
+Top of the 8th, Orioles Batting, Behind 5-8, Red Sox' Chris Martin facing 4-5-6 
+;;;;;;;;;Chris Martin replaces Richard Bleier pitchingYu Chang moves from PR to 2B 
+t8;5-8;0;---;1,(0-0) ..X;;BAL;Ryan Mountcastle;Chris Martin;-4%;88%;Single to CF (Line Drive to Deep CF)
+t8;5-8;0;1--;3,(0-2) SFX;O;BAL;Gunnar Henderson;Chris Martin;4%;92%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Henderson to 1B
+t8;5-8;1;1--;5,(2-2) BCBFX;O;BAL;Terrin Vavra;Chris Martin;3%;95%;Popfly: SS (Deep SS-2B)
+t8;5-8;2;1--;2,(1-0) BX;O;BAL;Austin Hays;Chris Martin;2%;97%;Flyball: RF (CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 5, Red Sox 8.
+Bottom of the 8th, Red Sox Batting, Ahead 8-5, Orioles' Mike Baumann facing 3-4-5 
+b8;8-5;0;---;8,(3-2) CBFBBF.FX;O;BOS;Justin Turner;Mike Baumann;0%;97%;Lineout: CF (Deep CF)
+b8;8-5;1;---;6,(3-2) CBBSBB;;BOS;Masataka Yoshida;Mike Baumann;0%;97%;Walk
+b8;8-5;1;1--;6,(1-2) C1SFB>F1>B;;BOS;Adam Duvall;Mike Baumann;0%;97%;Yoshida Steals 2B
+b8;8-5;1;-2-;9,(3-2) C1SFB>F1>B.BFX;O;BOS;Adam Duvall;Mike Baumann;0%;97%;Lineout: 3B (Weak 3B); Yoshida to 3B/Adv on E4
+b8;8-5;2;--3;2,(0-1) CX;R;BOS;Alex Verdugo;Mike Baumann;2%;98%;Single to RF (Line Drive to Short RF); Yoshida Scores
+b8;9-5;2;1--;4,(1-2) SFB>C;O;BOS;Yu Chang;Mike Baumann;0%;98%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 1 error, 1 LOB. Orioles 5, Red Sox 9.
+Top of the 9th, Orioles Batting, Behind 5-9, Red Sox' Kaleb Ort facing 8-9-1 
+;;;;;;;;;Kaleb Ort replaces Chris Martin pitching
+t9;5-9;0;---;7,(2-2) .BFCFBFX;;BAL;Adam Frazier;Kaleb Ort;-2%;96%;Double to CF (Fly Ball to Deep LF-CF)
+;;;;;;;;;Kyle Stowers pinch hits for Ramón Urías (3B) batting 9th
+t9;5-9;0;-2-;3,(0-2) .CFS;O;BAL;Kyle Stowers;Kaleb Ort;2%;98%;Strikeout Swinging
+t9;5-9;1;-2-;6,(3-2) BFFB*BX;O;BAL;Cedric Mullins;Kaleb Ort;1%;99%;Flyball: LF (LF-CF)
+t9;5-9;2;-2-;7,(3-2) BBBCFFX;O;BAL;Adley Rutschman;Kaleb Ort;1%;100%;Flyball: LF (LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 5, Red Sox 9.

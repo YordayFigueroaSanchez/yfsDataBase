@@ -1,0 +1,243 @@
+
+Scorebox Meta
+20230819
+12:00 p.m. Local
+40895
+Dodger Stadium
+130
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/MIA-2023.png;/teams/MIA/2023.shtml;0;0;0;1;0;0;0;0;0;1;5;1
+https://cdn.ssref.net/req/202308251/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;0;0;0;0;0;0;3;X;3;6;0
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;2B-RF;4;0;1;2;0;0;4;.296;.393;.583;.976;21;13;0.095; 1.39;0.160;-0.064; 0.02%; 0.46; 0.6;0;1;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;4;0;1;0;0;1;4;.333;.412;.578;.990;12;10;-0.043; 0.73;0.024;-0.067;-0.01%; 0.24; 0.4;6;1;2B
+Will Smith;/players/s/smithwi05.shtml;DH;4;0;1;0;0;2;4;.276;.375;.462;.836;14;12;-0.030; 1.04;0.053;-0.084;-0.01%; 0.34; -0.8;;;
+Max Muncy;/players/m/muncyma01.shtml;3B;3;0;0;0;1;2;4;.193;.330;.468;.799;12;8;-0.104; 1.14;0.003;-0.107;-0.02%; 0.37; -0.6;0;0;IW
+David Peralta;/players/p/peralda01.shtml;RF;2;0;0;0;0;2;2;.275;.307;.404;.710;11;7;-0.061; 1.09;0.000;-0.061;-0.01%; 0.36; -0.5;2;1;
+Amed Rosario;/players/r/rosaram01.shtml;PH-2B;2;0;0;0;0;0;2;.261;.299;.379;.677;6;3;-0.045; 0.86;0.000;-0.045;-0.01%; 0.28; -0.9;2;2;
+Chris Taylor;/players/t/tayloch03.shtml;LF;3;0;1;0;0;1;3;.222;.310;.427;.737;13;9;-0.077; 1.43;0.023;-0.100;-0.01%; 0.47; -0.3;4;0;2B
+James Outman;/players/o/outmaja01.shtml;CF;2;1;0;0;1;2;3;.254;.358;.436;.794;15;8;0.011; 1.36;0.070;-0.059; 0.00%; 0.44; -0.2;5;0;
+Enrique Hernández;/players/h/hernaen02.shtml;SS;3;1;1;0;0;0;3;.233;.287;.340;.627;7;6;0.133; 1.66;0.175;-0.042; 0.03%; 0.55; 0.3;0;0;
+Austin Barnes;/players/b/barneau01.shtml;C;3;1;1;1;0;1;3;.154;.229;.192;.421;12;7;0.220; 2.43;0.280;-0.059; 0.04%; 0.80; 0.8;7;0;
+Caleb Ferguson;/players/f/ferguca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Pepiot;/players/p/pepiory01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;2;
+Ryan Yarbrough;/players/y/yarbrry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Evan Phillips;/players/p/phillev01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Chris Taylor (10, off Eury Pérez); Freddie Freeman (45, off David Robertson).
+
+
+IBB: Max Muncy (4, by David Robertson).
+
+
+TB: Freddie Freeman 2; Chris Taylor 2; Enrique Hernández; Will Smith; Austin Barnes; Mookie Betts.
+
+
+RBI: Mookie Betts 2 (84); Austin Barnes (8).
+
+
+Team LOB: 5.
+With RISP: 2 for 7.
+
+Batting away
+Jorge Soler;/players/s/solerjo01.shtml;DH;3;0;0;0;1;0;4;.243;.335;.512;.846;18;10;-0.038; 0.82;0.028;-0.065;-0.03%; 0.91; -0.4;;;
+Luis Arraez;/players/a/arraelu01.shtml;2B;4;0;1;0;0;0;4;.360;.404;.464;.868;15;11;0.023; 0.79;0.070;-0.047; 0.01%; 0.88; 0.2;0;2;
+Josh Bell;/players/b/belljo02.shtml;1B;4;0;1;0;0;0;4;.242;.325;.413;.738;12;7;-0.155; 0.97;0.012;-0.167;-0.10%; 1.09; -1.5;3;1;
+Jazz Chisholm Jr.;/players/c/chishja01.shtml;CF;4;0;1;0;0;0;4;.251;.307;.461;.768;10;7;-0.068; 1.05;0.019;-0.088;-0.05%; 1.17; -0.5;4;0;
+Jake Burger;/players/b/burgeja01.shtml;3B;3;1;1;0;0;0;4;.234;.300;.525;.825;16;11;-0.024; 0.97;0.044;-0.068;-0.02%; 1.08; -0.2;1;0;HBP
+Bryan De La Cruz;/players/d/delacbr01.shtml;LF;4;0;1;1;0;2;4;.257;.304;.423;.727;15;13;0.072; 0.94;0.136;-0.064; 0.05%; 1.05; 0.5;1;0;2B
+Jesús Sánchez;/players/s/sanchje02.shtml;RF;3;0;0;0;0;1;3;.268;.330;.464;.793;15;9;-0.079; 0.97;0.000;-0.079;-0.05%; 1.09; -0.8;1;0;
+Jacob Stallings;/players/s/stallja01.shtml;C;3;0;0;0;0;1;3;.182;.281;.259;.539;12;9;-0.066; 0.80;0.000;-0.066;-0.04%; 0.90; -0.6;11;0;
+Joey Wendle;/players/w/wendljo01.shtml;SS;3;0;0;0;0;2;3;.233;.270;.329;.599;11;9;-0.065; 0.83;0.000;-0.065;-0.04%; 0.92; -0.6;2;0;
+Eury Pérez;/players/p/perezeu02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andrew Nardi;/players/n/nardian01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+David Robertson;/players/r/roberda08.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Bryan De La Cruz (28, off Ryan Pepiot).
+
+
+HBP: Jake Burger (8, by Ryan Pepiot).
+
+
+TB: Bryan De La Cruz 2; Luis Arraez; Jake Burger; Jazz Chisholm Jr.; Josh Bell.
+
+
+RBI: Bryan De La Cruz (63).
+
+
+Team LOB: 5.
+With RISP: 0 for 4.
+
+Pitching home
+Caleb Ferguson;/players/f/ferguca01.shtml;Caleb Ferguson; 1 ;2;0;0;0;0;0;2.33;5;22;16;10;3;3;2;3;0;0;49;;;0.049; 0.86; 0.01%; 0.28; 0.5
+Ryan Pepiot;/players/p/pepiory01.shtml;Ryan Pepiot; 5 ;3;1;1;1;5;0;1.80;19;75;49;26;10;13;5;7;3;0;;0;0;0.156; 0.96; 0.03%; 0.32; 1.7
+Ryan Yarbrough;/players/y/yarbrry01.shtml; W (6-5); 2 ;0;0;0;0;1;0;3.69;6;22;17;9;4;4;1;4;0;0;;0;0;0.116; 0.75; 0.02%; 0.24; 1.1
+Evan Phillips;/players/p/phillev01.shtml; S (19); 1 ;0;0;0;0;0;0;2.49;3;5;4;3;0;1;1;2;0;0;;0;0;0.079; 1.01; 0.02%; 0.33; 0.5
+
+Pitching away
+Eury Pérez;/players/p/perezeu02.shtml;Eury Pérez; 6 ;2;0;0;0;10;0;2.91;20;90;60;27;20;13;1;9;2;0;78;;;0.392; 0.98; 0.26%; 1.09; 3.2
+Andrew Nardi;/players/n/nardian01.shtml; H (10); 1 ;0;0;0;0;1;0;3.19;3;6;5;3;2;0;1;1;0;0;;0;0;0.111; 1.43; 0.07%; 1.59; 0.5
+David Robertson;/players/r/roberda08.shtml; L (4-4); 1 ;4;3;3;2;0;0;2.94;9;27;18;13;1;4;3;4;2;0;;0;0;-0.603; 1.99;-0.40%; 2.22; -2.5
+
+indiv_events
+
+Balks: None.
+WP: Eury Pérez (4).
+HBP: Ryan Pepiot (1; Jake Burger).
+IBB: David Robertson (2; Max Muncy).
+Pickoffs: None.
+
+Balks: None.
+WP: Eury Pérez (4).
+HBP: Ryan Pepiot (1; Jake Burger).
+IBB: David Robertson (2; Max Muncy).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Lance Barrett, 1B - Derek Thomas, 2B - Alfonso Márquez, 3B - Ramon De Jesus, LF - (none), RF - (none).
+Time of Game: 2:10.
+Attendance: 40,895.
+Field Condition: Unknown.
+Start Time Weather: 79° F, Wind 4mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Marlins
+1;Jorge Soler;/players/s/solerjo01.shtml;DH
+2;Luis Arraez;/players/a/arraelu01.shtml;2B
+3;Josh Bell;/players/b/belljo02.shtml;1B
+4;Jazz Chisholm Jr.;/players/c/chishja01.shtml;CF
+5;Jake Burger;/players/b/burgeja01.shtml;3B
+6;Bryan De La Cruz;/players/d/delacbr01.shtml;LF
+7;Jesús Sánchez;/players/s/sanchje02.shtml;RF
+8;Jacob Stallings;/players/s/stallja01.shtml;C
+9;Joey Wendle;/players/w/wendljo01.shtml;SS
+; Eury Pérez;/players/p/perezeu02.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;2B
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;DH
+4;Max Muncy;/players/m/muncyma01.shtml;3B
+5;David Peralta;/players/p/peralda01.shtml;RF
+6;Chris Taylor;/players/t/tayloch03.shtml;LF
+7;James Outman;/players/o/outmaja01.shtml;CF
+8;Enrique Hernández;/players/h/hernaen02.shtml;SS
+9;Austin Barnes;/players/b/barneau01.shtml;C
+; Caleb Ferguson;/players/f/ferguca01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b8;0-1;1;1-3;2,(0-1) LX;R;LAD;Austin Barnes;David Robertson;28%;78%;Single to 1B (Bunt to Short 1B Line); Outman Scores; Hernández to 3B/Adv on E3 (throw); Barnes to 2B
+b8;0-1;1;1--;1,(0-0) X;;LAD;Enrique Hernández;David Robertson;18%;50%;Single to CF (Line Drive to Deep LF-CF); Outman to 3B
+b8;1-1;1;-23;1,(0-0) X;RR;LAD;Mookie Betts;David Robertson;16%;94%;Single to CF (Line Drive to LF-CF); Hernández Scores; Barnes Scores
+t4;0-0;1;1--;6,(2-2) CBS.BFX;R;MIA;Bryan De La Cruz;Ryan Pepiot;-14%;36%;Double to LF (Line Drive to Deep LF Line); Burger Scores
+t3;0-0;1;1-3;1,(0-0) X;OO;MIA;Josh Bell;Ryan Pepiot;13%;56%;Double Play: Lineout: RF (CF-RF); Soler out at Hm/RF-C
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Marlins Batting, Tied 0-0, Dodgers' Caleb Ferguson facing 1-2-3 
+t1;0-0;0;---;5,(2-2) CBFBX;O;MIA;Jorge Soler;Caleb Ferguson;2%;52%;Groundout: 2B-1B
+t1;0-0;1;---;4,(1-2) BCSX;O;MIA;Luis Arraez;Caleb Ferguson;2%;54%;Flyball: LF (LF Line)
+t1;0-0;2;---;4,(2-1) FBBX;;MIA;Josh Bell;Caleb Ferguson;-1%;53%;Single to 2B (Ground Ball to 2B-1B)
+t1;0-0;2;1--;3,(0-2) CSX;;MIA;Jazz Chisholm Jr.;Caleb Ferguson;-2%;51%;Single to LF (Fly Ball to Short LF); Bell to 2B
+t1;0-0;2;12-;6,(1-2) SBFFFX;O;MIA;Jake Burger;Caleb Ferguson;4%;55%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Marlins 0, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Tied 0-0, Marlins' Eury Pérez facing 1-2-3 
+b1;0-0;0;---;9,(3-2) CCBBFFBFX;O;LAD;Mookie Betts;Eury Pérez;-2%;53%;Flyball: CF (Deep LF-CF)
+b1;0-0;1;---;2,(1-0) BX;O;LAD;Freddie Freeman;Eury Pérez;-2%;51%;Popfly: SS (Deep SS)
+b1;0-0;2;---;4,(0-2) CTFS;O;LAD;Will Smith;Eury Pérez;-1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 0, Dodgers 0.
+Top of the 2nd, Marlins Batting, Tied 0-0, Dodgers' Ryan Pepiot facing 6-7-8 
+;;;;;;;;;Ryan Pepiot replaces Caleb Ferguson pitching
+t2;0-0;0;---;4,(0-2) ..CTFS;O;MIA;Bryan De La Cruz;Ryan Pepiot;2%;52%;Strikeout Swinging
+t2;0-0;1;---;5,(2-2) BBCSX;O;MIA;Jesús Sánchez;Ryan Pepiot;2%;54%;Groundout: 1B-P
+t2;0-0;2;---;3,(0-2) STX;O;MIA;Jacob Stallings;Ryan Pepiot;1%;55%;Groundout: P-1B (Short 1B Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 0, Dodgers 0.
+Bottom of the 2nd, Dodgers Batting, Tied 0-0, Marlins' Eury Pérez facing 4-5-6 
+b2;0-0;0;---;5,(3-2) CBSVBT;O;LAD;Max Muncy;Eury Pérez;-2%;53%;Strikeout Swinging
+b2;0-0;1;---;6,(2-2) SS.BBFC;O;LAD;David Peralta;Eury Pérez;-2%;51%;Strikeout Looking
+b2;0-0;2;---;4,(2-1) BCBX;;LAD;Chris Taylor;Eury Pérez;2%;53%;Double to LF (Fly Ball to Deep LF Line)
+b2;0-0;2;-2-;4,(1-2) C*BSS;O;LAD;James Outman;Eury Pérez;-3%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 0, Dodgers 0.
+Top of the 3rd, Marlins Batting, Tied 0-0, Dodgers' Ryan Pepiot facing 9-1-2 
+t3;0-0;0;---;4,(2-1) BCBX;O;MIA;Joey Wendle;Ryan Pepiot;3%;53%;Flyball: CF
+t3;0-0;1;---;5,(3-1) BBCBB;;MIA;Jorge Soler;Ryan Pepiot;-3%;50%;Walk
+t3;0-0;1;1--;5,(1-2) CBFFX;;MIA;Luis Arraez;Ryan Pepiot;-7%;43%;Single to RF (Ground Ball thru SS-2B); Soler to 3B
+t3;0-0;1;1-3;1,(0-0) X;OO;MIA;Josh Bell;Ryan Pepiot;13%;56%;Double Play: Lineout: RF (CF-RF); Soler out at Hm/RF-C
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 0, Dodgers 0.
+Bottom of the 3rd, Dodgers Batting, Tied 0-0, Marlins' Eury Pérez facing 8-9-1 
+b3;0-0;0;---;3,(1-1) BSX;O;LAD;Enrique Hernández;Eury Pérez;-3%;53%;Groundout: 2B-1B (Deep SS-2B)
+b3;0-0;1;---;6,(3-2) SF.BBBS;O;LAD;Austin Barnes;Eury Pérez;-2%;51%;Strikeout Swinging
+b3;0-0;2;---;5,(3-1) CBBBX;O;LAD;Mookie Betts;Eury Pérez;-1%;50%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 0, Dodgers 0.
+Top of the 4th, Marlins Batting, Tied 0-0, Dodgers' Ryan Pepiot facing 4-5-6 
+t4;0-0;0;---;5,(3-1) SBBBX;O;MIA;Jazz Chisholm Jr.;Ryan Pepiot;3%;53%;Flyball: LF (Deep LF)
+t4;0-0;1;---;2,(0-1) TX;;MIA;Jake Burger;Ryan Pepiot;-3%;50%;Single to 3B (Ground Ball)
+t4;0-0;1;1--;6,(2-2) CBS.BFX;R;MIA;Bryan De La Cruz;Ryan Pepiot;-14%;36%;Double to LF (Line Drive to Deep LF Line); Burger Scores
+t4;1-0;1;-2-;5,(2-2) BBFFS;O;MIA;Jesús Sánchez;Ryan Pepiot;4%;40%;Strikeout Swinging
+t4;1-0;2;-2-;5,(2-2) CBTBC;O;MIA;Jacob Stallings;Ryan Pepiot;4%;43%;Strikeout Looking
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Marlins 1, Dodgers 0.
+Bottom of the 4th, Dodgers Batting, Behind 0-1, Marlins' Eury Pérez facing 2-3-4 
+b4;0-1;0;---;2,(0-1) FX;O;LAD;Freddie Freeman;Eury Pérez;-3%;40%;Lineout: CF (Deep CF)
+b4;0-1;1;---;4,(1-2) FCBX;;LAD;Will Smith;Eury Pérez;3%;44%;Single to CF (Line Drive to Deep CF)
+b4;0-1;1;1--;1,(0-0) B;;LAD;Max Muncy;Eury Pérez;2%;46%;Wild Pitch; Smith to 2B
+b4;0-1;1;-2-;6,(2-2) B.FSF*BS;O;LAD;Max Muncy;Eury Pérez;-5%;41%;Strikeout Swinging
+b4;0-1;2;-2-;5,(2-2) BS*S*BS;O;LAD;David Peralta;Eury Pérez;-4%;37%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 1, Dodgers 0.
+Top of the 5th, Marlins Batting, Ahead 1-0, Dodgers' Ryan Pepiot facing 9-1-2 
+t5;1-0;0;---;4,(0-2) CS.FC;O;MIA;Joey Wendle;Ryan Pepiot;3%;39%;Strikeout Looking
+t5;1-0;1;---;4,(1-2) SSBX;O;MIA;Jorge Soler;Ryan Pepiot;2%;41%;Lineout: LF (Deep LF)
+t5;1-0;2;---;4,(2-1) BFBX;O;MIA;Luis Arraez;Ryan Pepiot;1%;42%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 1, Dodgers 0.
+Bottom of the 5th, Dodgers Batting, Behind 0-1, Marlins' Eury Pérez facing 6-7-8 
+b5;0-1;0;---;3,(0-2) CCS;O;LAD;Chris Taylor;Eury Pérez;-3%;39%;Strikeout Swinging
+b5;0-1;1;---;5,(2-2) BSS.BS;O;LAD;James Outman;Eury Pérez;-2%;36%;Strikeout Swinging
+b5;0-1;2;---;3,(0-2) CFX;O;LAD;Enrique Hernández;Eury Pérez;-2%;34%;Flyball: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 1, Dodgers 0.
+Top of the 6th, Marlins Batting, Ahead 1-0, Dodgers' Ryan Pepiot facing 3-4-5 
+t6;1-0;0;---;3,(2-0) BBX;O;MIA;Josh Bell;Ryan Pepiot;3%;37%;Flyball: RF (CF-RF)
+t6;1-0;1;---;1,(0-0) X;O;MIA;Jazz Chisholm Jr.;Ryan Pepiot;2%;39%;Bunt Groundout: P-1B (Front of Home)
+t6;1-0;2;---;6,(2-2) BFC.FBH;;MIA;Jake Burger;Ryan Pepiot;-1%;38%;Hit By Pitch
+t6;1-0;2;1--;3,(0-2) CCS;O;MIA;Bryan De La Cruz;Ryan Pepiot;3%;40%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Marlins 1, Dodgers 0.
+Bottom of the 6th, Dodgers Batting, Behind 0-1, Marlins' Eury Pérez facing 9-1-2 
+b6;0-1;0;---;4,(2-1) FBBX;O;LAD;Austin Barnes;Eury Pérez;-4%;36%;Popfly: 3B (Front of Home)
+b6;0-1;1;---;6,(2-2) SFBBFX;O;LAD;Mookie Betts;Eury Pérez;-3%;33%;Flyball: CF (Deep CF)
+b6;0-1;2;---;4,(1-2) FBCS;O;LAD;Freddie Freeman;Eury Pérez;-2%;31%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 1, Dodgers 0.
+Top of the 7th, Marlins Batting, Ahead 1-0, Dodgers' Ryan Yarbrough facing 7-8-9 
+;;;;;;;;;Ryan Yarbrough replaces Ryan Pepiot pitching
+t7;1-0;0;---;5,(2-2) .SS.BBX;O;MIA;Jesús Sánchez;Ryan Yarbrough;3%;34%;Flyball: CF (Deep CF)
+t7;1-0;1;---;4,(1-2) CFBX;O;MIA;Jacob Stallings;Ryan Yarbrough;2%;36%;Flyball: LF (Deep LF)
+t7;1-0;2;---;3,(0-2) SSC;O;MIA;Joey Wendle;Ryan Yarbrough;1%;37%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 1, Dodgers 0.
+Bottom of the 7th, Dodgers Batting, Behind 0-1, Marlins' Andrew Nardi facing 3-4-5 
+;;;;;;;;;Andrew Nardi replaces Eury Pérez pitching
+b7;0-1;0;---;4,(1-2) .FS.BS;O;LAD;Will Smith;Andrew Nardi;-5%;32%;Strikeout Swinging
+b7;0-1;1;---;1,(0-0) X;O;LAD;Max Muncy;Andrew Nardi;-4%;29%;Flyball: RF (CF-RF)
+;;;;;;;;;Amed Rosario pinch hits for David Peralta (RF) batting 5th
+b7;0-1;2;---;1,(0-0) .X;O;LAD;Amed Rosario;Andrew Nardi;-3%;26%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 1, Dodgers 0.
+Top of the 8th, Marlins Batting, Ahead 1-0, Dodgers' Ryan Yarbrough facing 1-2-3 
+;;;;;;;;;Amed Rosario moves from PH to 2B Mookie Betts moves from 2B to RF 
+t8;1-0;0;---;4,(1-2) ..TCBX;O;MIA;Jorge Soler;Ryan Yarbrough;2%;29%;Popfly: 2B (Deep 2B-1B)
+t8;1-0;1;---;2,(0-1) CX;O;MIA;Luis Arraez;Ryan Yarbrough;2%;30%;Groundout: 2B-1B (2B-1B)
+t8;1-0;2;---;4,(1-2) FFBX;O;MIA;Josh Bell;Ryan Yarbrough;1%;32%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 1, Dodgers 0.
+Bottom of the 8th, Dodgers Batting, Behind 0-1, Marlins' David Robertson facing 6-7-8 
+;;;;;;;;;David Robertson replaces Andrew Nardi pitching
+b8;0-1;0;---;6,(2-2) .CFBFBX;O;LAD;Chris Taylor;David Robertson;-7%;25%;Flyball: CF (Deep LF-CF)
+b8;0-1;1;---;6,(3-2) BCBSBB;;LAD;James Outman;David Robertson;7%;32%;Walk
+b8;0-1;1;1--;1,(0-0) X;;LAD;Enrique Hernández;David Robertson;18%;50%;Single to CF (Line Drive to Deep LF-CF); Outman to 3B
+b8;0-1;1;1-3;2,(0-1) LX;R;LAD;Austin Barnes;David Robertson;28%;78%;Single to 1B (Bunt to Short 1B Line); Outman Scores; Hernández to 3B/Adv on E3 (throw); Barnes to 2B
+b8;1-1;1;-23;1,(0-0) X;RR;LAD;Mookie Betts;David Robertson;16%;94%;Single to CF (Line Drive to LF-CF); Hernández Scores; Barnes Scores
+b8;3-1;1;1--;4,(0-2) F1CF>X;;LAD;Freddie Freeman;David Robertson;2%;96%;Double to LF (Ground Ball); Betts to 3B
+b8;3-1;1;-23;2,(0-1) FX;O;LAD;Will Smith;David Robertson;-2%;94%;Foul Popfly: SS (3B into Foul Terr.)
+b8;3-1;2;-23;,(3-0) VVVV;;LAD;Max Muncy;David Robertson;0%;94%;Intentional Walk
+b8;3-1;2;123;5,(3-1) B*BBCX;O;LAD;Amed Rosario;David Robertson;-2%;92%;Groundout: 1B-P
+;;;;;;;;;3 runs, 4 hits, 1 error, 3 LOB. Marlins 1, Dodgers 3.
+Top of the 9th, Marlins Batting, Behind 1-3, Dodgers' Evan Phillips facing 4-5-6 
+;;;;;;;;;Evan Phillips replaces Ryan Yarbrough pitching
+t9;1-3;0;---;1,(0-0) .X;O;MIA;Jazz Chisholm Jr.;Evan Phillips;4%;96%;Flyball: CF
+t9;1-3;1;---;2,(1-0) BX;O;MIA;Jake Burger;Evan Phillips;3%;99%;Groundout: 2B-1B (2B-1B)
+t9;1-3;2;---;2,(0-1) CX;O;MIA;Bryan De La Cruz;Evan Phillips;1%;100%;Flyball: 2B (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 1, Dodgers 3.

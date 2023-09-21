@@ -1,0 +1,259 @@
+
+Scorebox Meta
+20230714
+6:40 p.m. Local
+47865
+Coors Field
+138
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;2;0;0;0;0;0;0;0;0;2;8;0
+https://cdn.ssref.net/req/202308101/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;3;0;1;0;0;2;1;X;7;7;0
+
+Batting home
+Jurickson Profar;/players/p/profaju01.shtml;DH;4;0;0;0;0;2;4;.242;.322;.373;.695;18;12;-0.093; 0.84;0.000;-0.093;0%; 0.00; -1.3;;;
+Kris Bryant;/players/b/bryankr01.shtml;RF;4;1;1;2;0;1;4;.261;.337;.385;.722;18;11;0.040; 0.67;0.093;-0.053;0%; 0.00; 1.1;0;0;HR
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;4;0;0;0;0;2;4;.257;.337;.465;.802;22;13;-0.040; 0.37;0.000;-0.040;0%; 0.00; -0.6;0;1;
+Elias Díaz;/players/d/diazel01.shtml;C;3;0;0;0;1;0;4;.274;.327;.431;.757;8;3;-0.023; 0.57;0.021;-0.044;0%; 0.00; -0.6;8;0;
+C.J. Cron;/players/c/croncj01.shtml;1B;3;1;1;0;1;1;4;.246;.291;.423;.714;20;10;0.009; 0.57;0.043;-0.034;0%; 0.00; 0.0;8;0;
+Randal Grichuk;/players/g/grichra01.shtml;LF;2;2;2;1;0;0;2;.300;.364;.473;.837;4;3;0.150; 1.30;0.150;0.000;0%; 0.01; 1.6;3;0;HR
+Nolan Jones;/players/j/jonesno01.shtml;PH-LF;2;1;1;1;0;1;2;.293;.379;.504;.883;5;4;-0.010; 0.41;0.010;-0.020;0%; 0.00; 0.7;1;0;HR
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;4;1;1;1;0;1;4;.260;.295;.425;.721;15;9;0.058; 0.83;0.093;-0.036;0%; 0.00; 0.3;1;1;
+Alan Trejo;/players/t/trejoal01.shtml;2B;3;0;0;0;0;1;3;.237;.266;.305;.571;10;6;-0.076; 1.01;0.000;-0.076;0%; 0.00; -1.0;1;5;
+Brenton Doyle;/players/d/doylebr02.shtml;CF;2;1;1;2;1;1;3;.216;.277;.364;.641;20;11;0.182; 0.90;0.192;-0.010; 0.00%; 0.00; 2.0;5;0;2B,SB
+Austin Gomber;/players/g/gombeau01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Pierce Johnson;/players/j/johnspi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Daniel Bard;/players/b/bardda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Justin Lawrence;/players/l/lawreju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Brenton Doyle (6, off Carlos Rodón).
+
+
+HR: Randal Grichuk (5, off Carlos Rodón, 4th inn, 0 on, 0 outs to Deep LF-CF); Kris Bryant (7, off Michael King, 7th inn, 1 on, 2 outs to Deep LF); Nolan Jones (6, off Albert Abreu, 8th inn, 0 on, 2 outs to Deep CF).
+
+
+TB: Randal Grichuk 5; Kris Bryant 4; Nolan Jones 4; Brenton Doyle 2; C.J. Cron; Ezequiel Tovar.
+
+
+RBI: Kris Bryant 2 (21); Brenton Doyle 2 (24); Randal Grichuk (22); Ezequiel Tovar (45); Nolan Jones (15).
+
+
+2-out RBI: Brenton Doyle 2; Kris Bryant 2; Nolan Jones.
+
+
+Team LOB: 3.
+With RISP: 3 for 6.
+
+Batting away
+Gleyber Torres;/players/t/torregl01.shtml;2B;4;1;3;0;0;1;4;.257;.330;.417;.747;19;13;0.065; 0.62;0.079;-0.014; 0.04%; 0.57; 0.8;2;0;
+Giancarlo Stanton;/players/s/stantmi03.shtml;RF;4;1;2;2;0;0;4;.211;.281;.454;.735;16;10;0.159; 1.17;0.213;-0.054; 0.09%; 1.07; 1.6;2;0;HR,2B
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;4;0;1;0;0;1;4;.257;.347;.403;.750;14;10;-0.040; 0.94;0.022;-0.062;-0.02%; 0.85; -0.6;7;0;
+Harrison Bader;/players/b/baderha01.shtml;CF;4;0;0;0;0;1;4;.250;.279;.449;.728;12;9;-0.140; 1.04;0.000;-0.140;-0.08%; 0.94; -1.6;0;0;
+Josh Donaldson;/players/d/donaljo02.shtml;DH;3;0;0;0;1;1;4;.147;.233;.451;.684;15;8;-0.082; 0.68;0.005;-0.087;-0.04%; 0.62; -0.4;;;
+DJ LeMahieu;/players/l/lemahdj01.shtml;3B;4;0;2;0;0;0;4;.224;.288;.359;.647;14;11;-0.022; 0.81;0.038;-0.060;-0.01%; 0.74; 0.4;0;2;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;LF;3;0;0;0;0;0;3;.251;.299;.374;.673;13;10;-0.068; 0.87;0.000;-0.068;-0.04%; 0.79; -0.7;3;0;
+Billy McKinney;/players/m/mckinbi01.shtml;PH;1;0;0;0;0;1;1;.250;.278;.474;.752;3;3;-0.014; 0.49;0.000;-0.014;-0.01%; 0.45; -0.7;;;
+Anthony Volpe;/players/v/volpean01.shtml;SS;4;0;0;0;0;1;4;.213;.284;.390;.674;11;9;-0.096; 0.71;0.000;-0.096;-0.05%; 0.66; -1.6;0;5;GDP
+Kyle Higashioka;/players/h/higasky01.shtml;C;2;0;0;0;0;0;2;.236;.275;.400;.675;8;5;-0.050; 0.93;0.000;-0.050;-0.03%; 0.85; -0.5;10;0;
+Franchy Cordero;/players/c/cordefr02.shtml;PH;1;0;0;0;0;1;1;.155;.183;.379;.563;2;2;-0.016; 0.59;0.000;-0.016;-0.01%; 0.54; -0.3;;;
+Jose Trevino;/players/t/trevijo01.shtml;C;0;0;0;0;0;0;0;.211;.255;.316;.570;;;;;;;;;;0;0;
+Carlos Rodón;/players/r/rodonca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael King;/players/k/kingmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Albert Abreu;/players/a/abreual01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Giancarlo Stanton (7, off Austin Gomber).
+
+
+HR: Giancarlo Stanton (10, off Austin Gomber, 1st inn, 1 on, 0 outs to Deep LF-CF).
+
+
+TB: Giancarlo Stanton 6; Gleyber Torres 3; DJ LeMahieu 2; Anthony Rizzo.
+
+
+GIDP: Anthony Volpe (8).
+
+
+RBI: Giancarlo Stanton 2 (25).
+
+
+Team LOB: 6.
+With RISP: 1 for 7.
+
+Pitching home
+Austin Gomber;/players/g/gombeau01.shtml; W (8-7); 6 ;6;2;2;0;2;1;6.19;23;78;56;38;5;13;8;13;7;0;54;;;0.184; 1.03; 0.00%; 0.01; 1.6
+Pierce Johnson;/players/j/johnspi01.shtml; H (3); 1 ;0;0;0;0;1;0;6.31;3;15;13;7;1;5;1;1;0;0;;0;0;0.080; 1.00; 0.00%; 0.00; 0.6
+Daniel Bard;/players/b/bardda01.shtml;Daniel Bard; 1 ;1;0;0;0;2;0;1.71;4;13;8;3;2;3;0;2;1;0;;0;0;0.030; 0.51; 0.00%; 0.00; 0.6
+Justin Lawrence;/players/l/lawreju01.shtml;Justin Lawrence; 1 ;1;0;0;1;2;0;2.70;5;21;13;3;2;8;0;2;2;0;;0;0;0.008; 0.24; 0.00%; 0.00; 0.6
+
+Pitching away
+Carlos Rodón;/players/r/rodonca01.shtml; L (0-2); 5 ;4;4;4;2;6;1;5.23;21;88;51;33;10;8;5;8;2;0;47;;;-0.147; 0.95;-0.08%; 0.86; -1.0
+Michael King;/players/k/kingmi01.shtml;Michael King; 2 ;2;2;2;1;4;1;3.02;9;41;25;10;6;9;2;2;0;0;;0;0;-0.044; 0.52;-0.02%; 0.47; -0.8
+Albert Abreu;/players/a/abreual01.shtml;Albert Abreu; 1 ;1;1;1;0;0;1;4.35;4;11;6;4;1;1;3;1;0;0;;0;0;-0.007; 0.05;-0.00%; 0.04; -0.4
+
+indiv_events
+
+Balks: None.
+WP: Carlos Rodón 3 (4).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Carlos Rodón 3 (4).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Adam Hamari, 1B - Nick Mahrley, 2B - Vic Carapazza, 3B - Emil Jimenez, LF - (none), RF - (none).
+Time of Game: 2:18.
+Attendance: 47,865.
+Field Condition: Unknown.
+Start Time Weather: 82° F, Wind 8mph from Right to Left, Cloudy, No Precipitation.
+
+div_lineups
+Yankees
+1;Gleyber Torres;/players/t/torregl01.shtml;2B
+2;Giancarlo Stanton;/players/s/stantmi03.shtml;RF
+3;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+4;Harrison Bader;/players/b/baderha01.shtml;CF
+5;Josh Donaldson;/players/d/donaljo02.shtml;DH
+6;DJ LeMahieu;/players/l/lemahdj01.shtml;3B
+7;Isiah Kiner-Falefa;/players/k/kineris01.shtml;LF
+8;Anthony Volpe;/players/v/volpean01.shtml;SS
+9;Kyle Higashioka;/players/h/higasky01.shtml;C
+; Carlos Rodón;/players/r/rodonca01.shtml;P
+Rockies
+1;Jurickson Profar;/players/p/profaju01.shtml;DH
+2;Kris Bryant;/players/b/bryankr01.shtml;RF
+3;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+4;Elias Díaz;/players/d/diazel01.shtml;C
+5;C.J. Cron;/players/c/croncj01.shtml;1B
+6;Randal Grichuk;/players/g/grichra01.shtml;LF
+7;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+8;Alan Trejo;/players/t/trejoal01.shtml;2B
+9;Brenton Doyle;/players/d/doylebr02.shtml;CF
+; Austin Gomber;/players/g/gombeau01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b2;1-2;2;-23;8,(2-2) *SB.CFFFBX;RR;COL;Brenton Doyle;Carlos Rodón;17%;63%;Double to LF (Line Drive to Deep LF); Grichuk Scores; Tovar Scores
+t1;0-0;0;1--;3,(0-2) CCX;RR;NYY;Giancarlo Stanton;Austin Gomber;-14%;33%;Home Run (Fly Ball to Deep LF-CF); Torres Scores
+b4;3-2;0;---;1,(0-0) X;R;COL;Randal Grichuk;Carlos Rodón;9%;77%;Home Run (Fly Ball to Deep LF-CF)
+b2;0-2;1;12-;3,(1-1) SBX;R;COL;Ezequiel Tovar;Carlos Rodón;9%;50%;Single to CF (Ground Ball thru SS-2B); Cron Scores; Grichuk to 2B
+b7;4-2;2;-2-;4,(2-1) CB*BX;RR;COL;Kris Bryant;Michael King;9%;96%;Home Run (Fly Ball to Deep LF); Doyle Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Yankees Batting, Tied 0-0, Rockies' Austin Gomber facing 1-2-3 
+t1;0-0;0;---;3,(1-1) FBX;;NYY;Gleyber Torres;Austin Gomber;-3%;47%;Single to RF (Line Drive to Deep 2B)
+t1;0-0;0;1--;3,(0-2) CCX;RR;NYY;Giancarlo Stanton;Austin Gomber;-14%;33%;Home Run (Fly Ball to Deep LF-CF); Torres Scores
+t1;2-0;0;---;5,(2-2) BCS.BX;O;NYY;Anthony Rizzo;Austin Gomber;2%;35%;Groundout: 2B-1B (Deep 2B)
+t1;2-0;1;---;4,(0-2) SFFX;O;NYY;Harrison Bader;Austin Gomber;1%;36%;Flyball: CF
+t1;2-0;2;---;2,(1-0) BX;O;NYY;Josh Donaldson;Austin Gomber;1%;37%;Lineout: CF (Deep CF-RF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Yankees 2, Rockies 0.
+Bottom of the 1st, Rockies Batting, Behind 0-2, Yankees' Carlos Rodón facing 1-2-3 
+b1;0-2;0;---;4,(1-2) CBSX;O;COL;Jurickson Profar;Carlos Rodón;-2%;35%;Groundout: SS-1B (Weak SS)
+b1;0-2;1;---;3,(1-1) CBX;O;COL;Kris Bryant;Carlos Rodón;-2%;33%;Groundout: SS-1B
+b1;0-2;2;---;4,(3-0) BBBX;O;COL;Ryan McMahon;Carlos Rodón;-1%;32%;Lineout: 2B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 2, Rockies 0.
+Top of the 2nd, Yankees Batting, Ahead 2-0, Rockies' Austin Gomber facing 6-7-8 
+t2;2-0;0;---;3,(1-1) CBX;;NYY;DJ LeMahieu;Austin Gomber;-3%;29%;Single to LF (Ground Ball)
+t2;2-0;0;1--;1,(0-0) X;O;NYY;Isiah Kiner-Falefa;Austin Gomber;3%;32%;Bunt Groundout: P-SS/Forceout at 2B; Kiner-Falefa to 1B
+t2;2-0;1;1--;2,(1-0) BX;OO;NYY;Anthony Volpe;Austin Gomber;4%;36%;Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Yankees 2, Rockies 0.
+Bottom of the 2nd, Rockies Batting, Behind 0-2, Yankees' Carlos Rodón facing 4-5-6 
+b2;0-2;0;---;1,(0-0) X;O;COL;Elias Díaz;Carlos Rodón;-3%;34%;Flyball: RF (Deep CF-RF)
+b2;0-2;1;---;5,(3-1) BSBBB;;COL;C.J. Cron;Carlos Rodón;3%;36%;Walk
+b2;0-2;1;1--;3,(1-1) BFX;;COL;Randal Grichuk;Carlos Rodón;4%;40%;Single to RF (Ground Ball thru 2B-1B); Cron to 2B
+b2;0-2;1;12-;3,(1-1) SBX;R;COL;Ezequiel Tovar;Carlos Rodón;9%;50%;Single to CF (Ground Ball thru SS-2B); Cron Scores; Grichuk to 2B
+b2;1-2;1;12-;2,(1-0) BX;O;COL;Alan Trejo;Carlos Rodón;-5%;45%;Flyball: LF (Short LF Line)
+b2;1-2;2;12-;2,(0-1) *SB;;COL;Brenton Doyle;Carlos Rodón;2%;46%;Wild Pitch; Grichuk to 3B; Tovar to 2B
+b2;1-2;2;-23;8,(2-2) *SB.CFFFBX;RR;COL;Brenton Doyle;Carlos Rodón;17%;63%;Double to LF (Line Drive to Deep LF); Grichuk Scores; Tovar Scores
+b2;3-2;2;-2-;2,(0-1) FB;;COL;Jurickson Profar;Carlos Rodón;0%;64%;Wild Pitch; Doyle to 3B
+b2;3-2;2;--3;5,(1-2) FB.SFS;O;COL;Jurickson Profar;Carlos Rodón;-3%;60%;Strikeout Swinging
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Yankees 2, Rockies 3.
+Top of the 3rd, Yankees Batting, Behind 2-3, Rockies' Austin Gomber facing 9-1-2 
+t3;2-3;0;---;3,(1-1) BFX;O;NYY;Kyle Higashioka;Austin Gomber;3%;63%;Lineout: CF
+t3;2-3;1;---;4,(2-1) BCBX;;NYY;Gleyber Torres;Austin Gomber;-3%;60%;Single to LF (Line Drive)
+t3;2-3;1;1--;5,(2-2) BFC*BX;O;NYY;Giancarlo Stanton;Austin Gomber;3%;63%;Flyball: 1B
+t3;2-3;2;1--;2,(1-0) BX;;NYY;Anthony Rizzo;Austin Gomber;-2%;61%;Single to RF (Ground Ball thru 2B-1B); Torres to 2B
+t3;2-3;2;12-;1,(0-0) X;O;NYY;Harrison Bader;Austin Gomber;5%;66%;Foul Popfly: C (Behind Home)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Yankees 2, Rockies 3.
+Bottom of the 3rd, Rockies Batting, Ahead 3-2, Yankees' Carlos Rodón facing 2-3-4 
+b3;3-2;0;---;7,(3-2) BBBCTFX;O;COL;Kris Bryant;Carlos Rodón;-2%;64%;Groundout: SS-1B
+b3;3-2;1;---;4,(2-1) BFBX;O;COL;Ryan McMahon;Carlos Rodón;-2%;62%;Flyball: LF (Short LF)
+b3;3-2;2;---;4,(3-0) BBBB;;COL;Elias Díaz;Carlos Rodón;1%;63%;Walk
+b3;3-2;2;1--;1,(0-0) B;;COL;C.J. Cron;Carlos Rodón;1%;64%;Wild Pitch; Díaz to 2B
+b3;3-2;2;-2-;5,(2-2) B.FBFC;O;COL;C.J. Cron;Carlos Rodón;-3%;61%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Yankees 2, Rockies 3.
+Top of the 4th, Yankees Batting, Behind 2-3, Rockies' Austin Gomber facing 5-6-7 
+t4;2-3;0;---;4,(1-2) BCFC;O;NYY;Josh Donaldson;Austin Gomber;3%;64%;Strikeout Looking
+t4;2-3;1;---;3,(0-2) CFX;O;NYY;DJ LeMahieu;Austin Gomber;2%;66%;Groundout: SS-1B (SS-2B)
+t4;2-3;2;---;3,(1-1) CBX;O;NYY;Isiah Kiner-Falefa;Austin Gomber;1%;68%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 2, Rockies 3.
+Bottom of the 4th, Rockies Batting, Ahead 3-2, Yankees' Carlos Rodón facing 6-7-8 
+b4;3-2;0;---;1,(0-0) X;R;COL;Randal Grichuk;Carlos Rodón;9%;77%;Home Run (Fly Ball to Deep LF-CF)
+b4;4-2;0;---;5,(2-2) BSBFC;O;COL;Ezequiel Tovar;Carlos Rodón;-2%;75%;Strikeout Looking
+b4;4-2;1;---;4,(2-1) FBBX;O;COL;Alan Trejo;Carlos Rodón;-1%;74%;Flyball: RF (CF-RF)
+b4;4-2;2;---;6,(3-2) TBFBBS;O;COL;Brenton Doyle;Carlos Rodón;-1%;73%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Yankees 2, Rockies 4.
+Top of the 5th, Yankees Batting, Behind 2-4, Rockies' Austin Gomber facing 8-9-1 
+t5;2-4;0;---;4,(1-2) CCBX;O;NYY;Anthony Volpe;Austin Gomber;3%;76%;Lineout: 1B
+t5;2-4;1;---;5,(2-2) FS.BBX;O;NYY;Kyle Higashioka;Austin Gomber;2%;78%;Lineout: LF (Deep LF)
+t5;2-4;2;---;10,(2-2) FBFFFF.FFBS;O;NYY;Gleyber Torres;Austin Gomber;1%;80%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 2, Rockies 4.
+Bottom of the 5th, Rockies Batting, Ahead 4-2, Yankees' Carlos Rodón facing 1-2-3 
+b5;4-2;0;---;2,(1-0) BX;O;COL;Jurickson Profar;Carlos Rodón;-2%;78%;Foul Popfly: LF (Short LF into Foul Terr.)
+b5;4-2;1;---;4,(1-2) BCFS;O;COL;Kris Bryant;Carlos Rodón;-1%;77%;Strikeout Swinging
+b5;4-2;2;---;8,(2-2) BFCFBFFS;O;COL;Ryan McMahon;Carlos Rodón;-1%;76%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 2, Rockies 4.
+Top of the 6th, Yankees Batting, Behind 2-4, Rockies' Austin Gomber facing 2-3-4 
+t6;2-4;0;---;3,(1-1) SBX;;NYY;Giancarlo Stanton;Austin Gomber;-8%;68%;Double to 1B (Fly Ball to Short RF Line)
+t6;2-4;0;-2-;3,(0-2) F.CX;O;NYY;Anthony Rizzo;Austin Gomber;3%;71%;Groundout: 2B-1B (2B-1B); Stanton to 3B
+t6;2-4;1;--3;2,(1-0) BX;O;NYY;Harrison Bader;Austin Gomber;7%;78%;Flyball: LF (Short LF)
+t6;2-4;2;--3;3,(1-1) FBX;O;NYY;Josh Donaldson;Austin Gomber;5%;83%;Lineout: LF (Deep LF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 2, Rockies 4.
+Bottom of the 6th, Rockies Batting, Ahead 4-2, Yankees' Michael King facing 4-5-6 
+;;;;;;;;;Michael King replaces Carlos Rodón pitching
+b6;4-2;0;---;2,(1-0) .BX;O;COL;Elias Díaz;Michael King;-2%;81%;Foul Popfly: 1B (1B into Foul Terr.)
+b6;4-2;1;---;5,(2-2) BBCS.X;;COL;C.J. Cron;Michael King;2%;83%;Single to 3B (Ground Ball to Weak 3B)
+;;;;;;;;;Nolan Jones pinch hits for Randal Grichuk (LF) batting 6th
+b6;4-2;1;1--;3,(0-2) .CFS;O;COL;Nolan Jones;Michael King;-2%;81%;Strikeout Swinging
+b6;4-2;2;1--;4,(1-2) SS*BX;O;COL;Ezequiel Tovar;Michael King;-2%;79%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Tovar to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 2, Rockies 4.
+Top of the 7th, Yankees Batting, Behind 2-4, Rockies' Pierce Johnson facing 6-7-8 
+;;;;;;;;;Pierce Johnson replaces Austin Gomber pitchingNolan Jones moves from PH to LF 
+t7;2-4;0;---;3,(0-2) ..CCX;O;NYY;DJ LeMahieu;Pierce Johnson;4%;83%;Groundout: 2B-1B (Deep 2B)
+t7;2-4;1;---;9,(2-2) CFBBFFFFX;O;NYY;Isiah Kiner-Falefa;Pierce Johnson;3%;86%;Flyball: CF (Deep CF)
+t7;2-4;2;---;3,(0-2) CC*S;O;NYY;Anthony Volpe;Pierce Johnson;2%;87%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Yankees 2, Rockies 4.
+Bottom of the 7th, Rockies Batting, Ahead 4-2, Yankees' Michael King facing 8-9-1 
+b7;4-2;0;---;4,(1-2) CBSC;O;COL;Alan Trejo;Michael King;-1%;86%;Strikeout Looking
+b7;4-2;1;---;6,(3-2) CBBBFB;;COL;Brenton Doyle;Michael King;1%;87%;Walk
+b7;4-2;1;1--;7,(3-2) B1BSF>FB1>C;O;COL;Jurickson Profar;Michael King;-1%;86%;Strikeout Looking, Doyle Steals 2B
+b7;4-2;2;-2-;4,(2-1) CB*BX;RR;COL;Kris Bryant;Michael King;9%;96%;Home Run (Fly Ball to Deep LF); Doyle Scores
+b7;6-2;2;---;6,(2-2) CBBFFC;O;COL;Ryan McMahon;Michael King;0%;95%;Strikeout Looking
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Yankees 2, Rockies 6.
+Top of the 8th, Yankees Batting, Behind 2-6, Rockies' Daniel Bard facing 9-1-2 
+;;;;;;;;;Daniel Bard replaces Pierce Johnson pitchingFranchy Cordero pinch hits for Kyle Higashioka (C) batting 9th
+t8;2-6;0;---;2,(0-2) ..ACS;O;NYY;Franchy Cordero;Daniel Bard;2%;97%;Strikeout Swinging
+t8;2-6;1;---;2,(1-0) BX;;NYY;Gleyber Torres;Daniel Bard;-2%;95%;Single to CF (Line Drive to Deep CF)
+t8;2-6;1;1--;5,(3-1) BBCBX;O;NYY;Giancarlo Stanton;Daniel Bard;2%;97%;Flyball: CF (CF-RF)
+t8;2-6;2;1--;4,(1-2) CBF.S;O;NYY;Anthony Rizzo;Daniel Bard;1%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Yankees 2, Rockies 6.
+Bottom of the 8th, Rockies Batting, Ahead 6-2, Yankees' Albert Abreu facing 4-5-6 
+;;;;;;;;;Albert Abreu replaces Michael King pitchingJose Trevino replaces Franchy Cordero (PH) playing C batting 9th
+b8;6-2;0;---;1,(0-0) ..X;O;COL;Elias Díaz;Albert Abreu;0%;98%;Groundout: SS-1B
+b8;6-2;1;---;5,(2-2) BCSBX;O;COL;C.J. Cron;Albert Abreu;0%;98%;Groundout: 3B-1B (SS-3B Hole)
+b8;6-2;2;---;2,(1-0) BX;R;COL;Nolan Jones;Albert Abreu;1%;99%;Home Run (Fly Ball to Deep CF)
+b8;7-2;2;---;3,(2-0) BBX;O;COL;Ezequiel Tovar;Albert Abreu;0%;99%;Groundout: SS-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Yankees 2, Rockies 7.
+Top of the 9th, Yankees Batting, Behind 2-7, Rockies' Justin Lawrence facing 4-5-6 
+;;;;;;;;;Justin Lawrence replaces Daniel Bard pitching
+t9;2-7;0;---;5,(2-2) .BBFCS;O;NYY;Harrison Bader;Justin Lawrence;1%;100%;Strikeout Swinging
+t9;2-7;1;---;6,(3-2) BCBBCB;;NYY;Josh Donaldson;Justin Lawrence;0%;99%;Walk
+t9;2-7;1;1--;3,(1-1) BC>B;;NYY;DJ LeMahieu;Justin Lawrence;0%;99%;Defensive Indifference; Donaldson to 2B
+t9;2-7;1;-2-;5,(2-2) BC>B.CX;;NYY;DJ LeMahieu;Justin Lawrence;-1%;98%;Single to LF (Line Drive to LF-CF); Donaldson to 3B
+;;;;;;;;;Billy McKinney pinch hits for Isiah Kiner-Falefa (LF) batting 7th
+t9;2-7;1;1-3;3,(0-2) .CSC;O;NYY;Billy McKinney;Justin Lawrence;1%;100%;Strikeout Looking
+t9;2-7;2;1-3;2,(0-1) C>X;O;NYY;Anthony Volpe;Justin Lawrence;0%;100%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Yankees 2, Rockies 7.

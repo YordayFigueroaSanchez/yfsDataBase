@@ -1,0 +1,261 @@
+
+Scorebox Meta
+20230410
+6:40 p.m. Local
+24092
+Coors Field
+134
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/STL-2023.png;/teams/STL/2023.shtml;0;0;0;2;0;1;0;0;1;4;6;2
+https://cdn.ssref.net/req/202308101/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;0;2;2;0;2;1;0;X;7;13;1
+
+Batting home
+Jurickson Profar;/players/p/profaju01.shtml;LF;4;0;1;1;0;0;5;.207;.250;.345;.595;12;8;-0.007; 0.74;0.036;-0.043;-0.00%; 0.64; -0.8;1;0;SF
+Charlie Blackmon;/players/b/blackch02.shtml;DH;4;1;1;0;1;1;5;.317;.391;.439;.830;19;12;-0.062; 0.67;0.026;-0.088;-0.03%; 0.58; -0.5;;;CS,GDP
+Kris Bryant;/players/b/bryankr01.shtml;RF;4;0;1;0;0;2;4;.295;.367;.364;.731;17;9;-0.066; 0.68;0.014;-0.080;-0.03%; 0.59; -0.3;1;0;
+C.J. Cron;/players/c/croncj01.shtml;1B;4;0;1;0;0;3;4;.257;.297;.571;.869;18;12;-0.031; 0.82;0.036;-0.067;-0.02%; 0.72; -0.8;13;0;
+Elias Díaz;/players/d/diazel01.shtml;C;3;2;1;0;1;1;4;.303;.395;.485;.880;18;9;-0.037; 0.86;0.054;-0.091;-0.02%; 0.75; -0.8;7;0;GDP
+Elehuris Montero;/players/m/monteel01.shtml;3B;4;2;2;1;0;0;4;.333;.351;.500;.851;10;8;0.181; 0.88;0.181;0.000; 0.10%; 0.77; 2.0;0;2;2B
+Ryan McMahon;/players/m/mcmahry01.shtml;PR-2B;0;0;0;0;0;0;0;.194;.268;.444;.713;;;;;;;;;;1;1;
+Yonathan Daza;/players/d/dazayo01.shtml;CF;4;0;1;1;0;0;4;.293;.293;.366;.659;9;8;-0.064; 1.14;0.030;-0.095;-0.03%; 0.99; -0.1;3;0;
+Alan Trejo;/players/t/trejoal01.shtml;2B-3B;4;1;3;2;0;0;4;.357;.357;.429;.786;15;10;0.224; 1.09;0.235;-0.011; 0.12%; 0.95; 1.5;1;8;
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;4;1;2;1;0;0;4;.222;.222;.333;.556;15;10;0.204; 1.02;0.232;-0.028; 0.11%; 0.89; 2.1;0;2;2·2B
+Germán Márquez;/players/m/marquge01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Brent Suter;/players/s/suterbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Justin Lawrence;/players/l/lawreju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ezequiel Tovar 2 (4, 1 off Zack Thompson, 1 off Steven Matz); Elehuris Montero (3, off Steven Matz).
+
+
+SF: Jurickson Profar (1, off Steven Matz).
+
+
+TB: Ezequiel Tovar 4; Elehuris Montero 3; Alan Trejo 3; Yonathan Daza; Charlie Blackmon; Elias Díaz; C.J. Cron; Kris Bryant; Jurickson Profar.
+
+
+GIDP: Elias Díaz (1); Charlie Blackmon (1).
+
+
+RBI: Alan Trejo 2 (2); Jurickson Profar (3); Yonathan Daza (3); Ezequiel Tovar (3); Elehuris Montero (4).
+
+
+2-out RBI: Alan Trejo 2; Yonathan Daza; Ezequiel Tovar.
+
+
+Team LOB: 7.
+With RISP: 4 for 13.
+
+Batting away
+Brendan Donovan;/players/d/donovbr01.shtml;1B;4;2;1;0;0;0;4;.235;.270;.412;.682;16;10;0.071; 1.06;0.120;-0.049; 0.03%; 0.82; 0.4;6;2;
+Alec Burleson;/players/b/burleal01.shtml;LF;4;1;1;1;0;1;4;.308;.357;.615;.973;12;8;0.081; 1.20;0.160;-0.079; 0.04%; 0.93; 0.5;1;0;3B,GDP
+Paul Goldschmidt;/players/g/goldspa01.shtml;DH;3;1;2;2;1;0;4;.361;.489;.500;.989;15;10;0.130; 0.93;0.142;-0.011; 0.06%; 0.71; 1.4;;;
+Nolan Arenado;/players/a/arenano01.shtml;3B;4;0;0;0;0;0;4;.317;.356;.415;.770;13;10;-0.155; 1.33;0.000;-0.155;-0.07%; 1.03; -1.5;0;2;GDP
+Willson Contreras;/players/c/contrwi01.shtml;C;4;0;0;0;0;2;4;.226;.250;.258;.508;12;10;-0.101; 0.90;0.000;-0.101;-0.05%; 0.69; -1.2;7;1;
+Nolan Gorman;/players/g/gormano01.shtml;2B;4;0;1;1;0;1;4;.308;.455;.615;1.070;17;12;-0.061; 0.66;0.010;-0.071;-0.03%; 0.51; 0.4;2;5;2B
+Jordan Walker;/players/w/walkejo02.shtml;RF;4;0;1;0;0;1;4;.342;.390;.553;.943;9;8;-0.059; 0.75;0.014;-0.073;-0.03%; 0.58; -0.8;2;0;
+Dylan Carlson;/players/c/carlsdy01.shtml;CF;3;0;0;0;0;1;3;.300;.333;.350;.683;12;7;-0.065; 0.78;0.000;-0.065;-0.03%; 0.60; -0.7;3;0;
+Tyler O'Neill;/players/o/oneilty01.shtml;CF;0;0;0;0;0;0;0;.267;.313;.367;.679;;;;;;;;;;0;0;
+Tommy Edman;/players/e/edmanto01.shtml;SS;2;0;0;0;1;0;3;.235;.333;.235;.569;10;4;0.000; 0.52;0.027;-0.027;0%; 0.41; 0.2;2;2;
+Steven Matz;/players/m/matzst01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Zack Thompson;/players/t/thompza02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Drew VerHagen;/players/v/verhadr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chris Stratton;/players/s/stratch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Nolan Gorman (2, off Justin Lawrence).
+
+
+3B: Alec Burleson (1, off Germán Márquez).
+
+
+TB: Alec Burleson 3; Nolan Gorman 2; Paul Goldschmidt 2; Jordan Walker; Brendan Donovan.
+
+
+GIDP: Alec Burleson (2); Nolan Arenado (4).
+
+
+RBI: Paul Goldschmidt 2 (4); Alec Burleson (3); Nolan Gorman (7).
+
+
+2-out RBI: Nolan Gorman.
+
+
+Team LOB: 3.
+With RISP: 2 for 6.
+
+Pitching home
+Germán Márquez;/players/m/marquge01.shtml; W (2-1); 5 ;3;2;2;0;4;0;4.41;18;62;42;26;7;9;11;3;2;0;57;;;0.085; 0.95; 0.04%; 0.83; 1.0
+Brent Suter;/players/s/suterbr01.shtml; H (1); 2 ;2;1;0;0;1;0;1.29;8;26;18;12;4;2;5;2;0;0;;0;0;0.026; 1.17; 0.01%; 1.02; 0.2
+Justin Lawrence;/players/l/lawreju01.shtml;Justin Lawrence; 2 ;1;1;1;2;1;0;1.42;8;28;19;10;3;6;1;4;1;0;;0;0;0.049; 0.60; 0.03%; 0.52; 0.2
+
+Pitching away
+Steven Matz;/players/m/matzst01.shtml; L (0-2); 5.2;9;6;6;2;4;0;8.18;26;92;60;37;11;12;9;11;7;0;29;;;-0.270; 1.04;-0.12%; 0.81; -1.9
+Zack Thompson;/players/t/thompza02.shtml;Zack Thompson; 0.1;2;1;0;0;0;0;0.00;3;4;4;3;0;1;0;3;2;0;;2;1;-0.062; 0.71;-0.03%; 0.54; -0.9
+Drew VerHagen;/players/v/verhadr01.shtml;Drew VerHagen; 1 ;2;0;0;0;2;0;0.00;6;23;14;7;4;3;3;1;1;0;;1;1;-0.014; 0.51;-0.01%; 0.39; -0.0
+Chris Stratton;/players/s/stratch01.shtml;Chris Stratton; 1 ;0;0;0;0;1;0;1.80;3;14;8;7;1;0;2;0;0;0;;0;0;0.004; 0.05; 0.00%; 0.04; 0.6
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: LF - (none), RF - (none).
+Time of Game: 2:14.
+Attendance: 24,092.
+Field Condition: Unknown.
+Start Time Weather: 75° F, Wind 6mph in from Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Cardinals
+1;Brendan Donovan;/players/d/donovbr01.shtml;1B
+2;Alec Burleson;/players/b/burleal01.shtml;LF
+3;Paul Goldschmidt;/players/g/goldspa01.shtml;DH
+4;Nolan Arenado;/players/a/arenano01.shtml;3B
+5;Willson Contreras;/players/c/contrwi01.shtml;C
+6;Nolan Gorman;/players/g/gormano01.shtml;2B
+7;Jordan Walker;/players/w/walkejo02.shtml;RF
+8;Dylan Carlson;/players/c/carlsdy01.shtml;CF
+9;Tommy Edman;/players/e/edmanto01.shtml;SS
+; Steven Matz;/players/m/matzst01.shtml;P
+Rockies
+1;Jurickson Profar;/players/p/profaju01.shtml;LF
+2;Charlie Blackmon;/players/b/blackch02.shtml;DH
+3;Kris Bryant;/players/b/bryankr01.shtml;RF
+4;C.J. Cron;/players/c/croncj01.shtml;1B
+5;Elias Díaz;/players/d/diazel01.shtml;C
+6;Elehuris Montero;/players/m/monteel01.shtml;3B
+7;Yonathan Daza;/players/d/dazayo01.shtml;CF
+8;Alan Trejo;/players/t/trejoal01.shtml;2B
+9;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+; Germán Márquez;/players/m/marquge01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t4;0-2;0;1--;1,(0-0) X;R;STL;Alec Burleson;Germán Márquez;-16%;51%;Triple to CF (Line Drive to Deep CF-RF); Donovan Scores
+b4;2-2;1;1--;2,(1-0) BX;R;COL;Elehuris Montero;Steven Matz;13%;69%;Double to LF (Ground Ball); Díaz Scores
+b3;0-0;0;1--;3,(0-2) FS+1X;;COL;Ezequiel Tovar;Steven Matz;10%;70%;Double to RF (Fly Ball to RF Line); Trejo to 3B
+b4;3-2;2;-2-;2,(1-0) BX;R;COL;Alan Trejo;Steven Matz;10%;76%;Single to CF (Line Drive); Montero Scores; Trejo to 2B
+b6;4-3;2;1-3;5,(1-2) BSFFX;R;COL;Alan Trejo;Steven Matz;10%;82%;Single to LF (Line Drive to LF-CF); Díaz Scores; Montero to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Cardinals Batting, Tied 0-0, Rockies' Germán Márquez facing 1-2-3 
+t1;0-0;0;---;2,(1-0) BX;O;STL;Brendan Donovan;Germán Márquez;2%;52%;Groundout: 3B-1B (SS-3B Hole)
+t1;0-0;1;---;7,(3-2) BBFC.FBS;O;STL;Alec Burleson;Germán Márquez;2%;54%;Strikeout Swinging
+t1;0-0;2;---;1,(0-0) X;O;STL;Paul Goldschmidt;Germán Márquez;1%;55%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 0, Rockies 0.
+Bottom of the 1st, Rockies Batting, Tied 0-0, Cardinals' Steven Matz facing 1-2-3 
+b1;0-0;0;---;4,(1-2) BFCX;;COL;Jurickson Profar;Steven Matz;3%;59%;Single to CF (Ground Ball thru SS-2B)
+b1;0-0;0;1--;2,(0-1) CX;OO;COL;Charlie Blackmon;Steven Matz;-7%;51%;Ground Ball Double Play: 3B-SS-1B (Weak 3B)
+b1;0-0;2;---;5,(2-2) CBBFC;O;COL;Kris Bryant;Steven Matz;-1%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Cardinals 0, Rockies 0.
+Top of the 2nd, Cardinals Batting, Tied 0-0, Rockies' Germán Márquez facing 4-5-6 
+t2;0-0;0;---;7,(3-2) CCBB.BFX;O;STL;Nolan Arenado;Germán Márquez;2%;52%;Groundout: 2B-1B
+t2;0-0;1;---;1,(0-0) X;O;STL;Willson Contreras;Germán Márquez;2%;54%;Groundout: P-2B-1B (Deep SS-2B)
+t2;0-0;2;---;3,(2-1) CVBX;O;STL;Nolan Gorman;Germán Márquez;1%;55%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 0, Rockies 0.
+Bottom of the 2nd, Rockies Batting, Tied 0-0, Cardinals' Steven Matz facing 4-5-6 
+b2;0-0;0;---;5,(2-2) BCFBX;;COL;C.J. Cron;Steven Matz;4%;59%;Single to LF (Line Drive to LF-CF)
+b2;0-0;0;1--;2,(0-1) CX;OO;COL;Elias Díaz;Steven Matz;-8%;51%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b2;0-0;2;---;2,(0-1) CX;;COL;Elehuris Montero;Steven Matz;1%;53%;Reached on E4 (Ground Ball to SS-2B); Montero to 1B
+b2;0-0;2;1--;4,(1-2) BFFX;O;COL;Yonathan Daza;Steven Matz;-3%;50%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 1 error, 1 LOB. Cardinals 0, Rockies 0.
+Top of the 3rd, Cardinals Batting, Tied 0-0, Rockies' Germán Márquez facing 7-8-9 
+t3;0-0;0;---;1,(0-0) X;O;STL;Jordan Walker;Germán Márquez;3%;53%;Groundout: 1B unassisted (2B-1B)
+t3;0-0;1;---;2,(1-0) BX;O;STL;Dylan Carlson;Germán Márquez;2%;55%;Groundout: 2B-1B
+t3;0-0;2;---;2,(0-1) CX;O;STL;Tommy Edman;Germán Márquez;1%;56%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 0, Rockies 0.
+Bottom of the 3rd, Rockies Batting, Tied 0-0, Cardinals' Steven Matz facing 8-9-1 
+b3;0-0;0;---;4,(1-2) BFFX;;COL;Alan Trejo;Steven Matz;4%;60%;Single to LF (Line Drive to Deep LF-CF)
+b3;0-0;0;1--;3,(0-2) FS+1X;;COL;Ezequiel Tovar;Steven Matz;10%;70%;Double to RF (Fly Ball to RF Line); Trejo to 3B
+b3;0-0;0;-23;1,(0-0) X;RO;COL;Jurickson Profar;Steven Matz;0%;70%;Lineout: CF/Sacrifice Fly (Deep CF); Trejo Scores; Tovar to 3B
+b3;1-0;1;--3;5,(3-1) BFBBB;;COL;Charlie Blackmon;Steven Matz;2%;72%;Walk
+b3;1-0;1;1-3;6,(3-2) SBBSB>S;ROO;COL;Kris Bryant;Steven Matz;-1%;71%;Double Play: Strikeout Swinging, Blackmon Caught Stealing 2B (C-2B-1B-SS); Tovar Scores/No RBI
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Cardinals 0, Rockies 2.
+Top of the 4th, Cardinals Batting, Behind 0-2, Rockies' Germán Márquez facing 1-2-3 
+t4;0-2;0;---;6,(2-2) BBCF.FX;;STL;Brendan Donovan;Germán Márquez;-4%;67%;Single to LF (Ground Ball thru SS-3B Hole)
+t4;0-2;0;1--;1,(0-0) X;R;STL;Alec Burleson;Germán Márquez;-16%;51%;Triple to CF (Line Drive to Deep CF-RF); Donovan Scores
+t4;1-2;0;--3;4,(1-2) BSFX;R;STL;Paul Goldschmidt;Germán Márquez;-5%;46%;Single to CF (Ground Ball thru SS-2B); Burleson Scores
+t4;2-2;0;1--;3,(0-2) FFX;O;STL;Nolan Arenado;Germán Márquez;2%;48%;Groundout: 2B-1B; Goldschmidt to 2B
+t4;2-2;1;-2-;4,(1-2) BSSS;O;STL;Willson Contreras;Germán Márquez;4%;52%;Strikeout Swinging
+t4;2-2;2;-2-;7,(3-2) BB*S*BFFS;O;STL;Nolan Gorman;Germán Márquez;4%;56%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Cardinals 2, Rockies 2.
+Bottom of the 4th, Rockies Batting, Tied 2-2, Cardinals' Steven Matz facing 4-5-6 
+b4;2-2;0;---;4,(1-2) CCB*S;O;COL;C.J. Cron;Steven Matz;-3%;54%;Strikeout Swinging
+b4;2-2;1;---;5,(3-1) BBFBB;;COL;Elias Díaz;Steven Matz;3%;57%;Walk
+b4;2-2;1;1--;2,(1-0) BX;R;COL;Elehuris Montero;Steven Matz;13%;69%;Double to LF (Ground Ball); Díaz Scores
+b4;3-2;1;-2-;2,(0-1) FX;O;COL;Yonathan Daza;Steven Matz;-3%;66%;Lineout: LF (Deep LF)
+b4;3-2;2;-2-;2,(1-0) BX;R;COL;Alan Trejo;Steven Matz;10%;76%;Single to CF (Line Drive); Montero Scores; Trejo to 2B
+b4;4-2;2;-2-;6,(3-2) BBSBS.X;O;COL;Ezequiel Tovar;Steven Matz;-3%;73%;Flyball: RF (RF Line)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Cardinals 2, Rockies 4.
+Top of the 5th, Cardinals Batting, Behind 2-4, Rockies' Germán Márquez facing 7-8-9 
+t5;2-4;0;---;2,(0-1) CX;O;STL;Jordan Walker;Germán Márquez;3%;76%;Flyball: CF (Deep CF-RF)
+t5;2-4;1;---;5,(2-2) BCBFC;O;STL;Dylan Carlson;Germán Márquez;2%;78%;Strikeout Looking
+t5;2-4;2;---;4,(2-1) BBFX;O;STL;Tommy Edman;Germán Márquez;1%;80%;Lineout: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 2, Rockies 4.
+Bottom of the 5th, Rockies Batting, Ahead 4-2, Cardinals' Steven Matz facing 1-2-3 
+b5;4-2;0;---;2,(1-0) BX;O;COL;Jurickson Profar;Steven Matz;-2%;78%;Groundout: 1B-P (2B-1B)
+b5;4-2;1;---;5,(1-2) CSFBX;O;COL;Charlie Blackmon;Steven Matz;-1%;77%;Groundout: P-1B
+b5;4-2;2;---;2,(1-0) BX;O;COL;Kris Bryant;Steven Matz;-1%;76%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 2, Rockies 4.
+Top of the 6th, Cardinals Batting, Behind 2-4, Rockies' Brent Suter facing 1-2-3 
+;;;;;;;;;Brent Suter replaces Germán Márquez pitching
+t6;2-4;0;---;6,(3-2) .B.FBBFX;;STL;Brendan Donovan;Brent Suter;-8%;68%;Reached on E7 (Fly Ball to Deep LF Line); Donovan to 2B
+t6;2-4;0;-2-;1,(0-0) X;O;STL;Alec Burleson;Brent Suter;3%;71%;Groundout: 2B-1B (2B-1B); Donovan to 3B
+t6;2-4;1;--3;2,(0-1) SX;R;STL;Paul Goldschmidt;Brent Suter;-7%;64%;Single to LF (Ground Ball); Donovan Scores/unER
+t6;3-4;1;1--;1,(0-0) X;OO;STL;Nolan Arenado;Brent Suter;9%;73%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;1 run, 1 hit, 1 error, 0 LOB. Cardinals 3, Rockies 4.
+Bottom of the 6th, Rockies Batting, Ahead 4-3, Cardinals' Steven Matz facing 4-5-6 
+b6;4-3;0;---;4,(1-2) CCB*S;O;COL;C.J. Cron;Steven Matz;-2%;71%;Strikeout Swinging
+b6;4-3;1;---;5,(2-2) FBBF.X;;COL;Elias Díaz;Steven Matz;2%;73%;Single to LF (Ground Ball thru SS-3B Hole)
+b6;4-3;1;1--;4,(1-2) BFSX;;COL;Elehuris Montero;Steven Matz;3%;76%;Single to CF (Line Drive); Díaz to 2B
+b6;4-3;1;12-;1,(0-0) X;O;COL;Yonathan Daza;Steven Matz;-4%;73%;Flyball: RF (Deep RF); Díaz to 3B
+b6;4-3;2;1-3;5,(1-2) BSFFX;R;COL;Alan Trejo;Steven Matz;10%;82%;Single to LF (Line Drive to LF-CF); Díaz Scores; Montero to 2B
+;;;;;;;;;Zack Thompson replaces Steven Matz pitching
+b6;5-3;2;12-;1,(0-0) .X;R;COL;Ezequiel Tovar;Zack Thompson;8%;90%;Double to LF (Line Drive to Deep LF); Montero Scores; Trejo to 3B
+b6;6-3;2;-23;1,(0-0) X;O;COL;Jurickson Profar;Zack Thompson;-2%;88%;Flyball: CF (Short CF)
+;;;;;;;;;2 runs, 4 hits, 0 errors, 2 LOB. Cardinals 3, Rockies 6.
+Top of the 7th, Cardinals Batting, Behind 3-6, Rockies' Brent Suter facing 5-6-7 
+t7;3-6;0;---;4,(1-2) BCS.S;O;STL;Willson Contreras;Brent Suter;3%;90%;Strikeout Swinging
+t7;3-6;1;---;4,(1-2) SFBX;O;STL;Nolan Gorman;Brent Suter;2%;92%;Flyball: CF (Deep CF)
+t7;3-6;2;---;3,(1-1) BCX;;STL;Jordan Walker;Brent Suter;-1%;91%;Single to CF (Ground Ball thru SS-2B)
+t7;3-6;2;1--;5,(2-2) 1TBFBX;O;STL;Dylan Carlson;Brent Suter;2%;93%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cardinals 3, Rockies 6.
+Bottom of the 7th, Rockies Batting, Ahead 6-3, Cardinals' Zack Thompson facing 2-3-4 
+b7;6-3;0;---;2,(0-1) CX;;COL;Charlie Blackmon;Zack Thompson;1%;94%;Single to LF (Line Drive to Deep LF-CF)
+;;;;;;;;;Drew VerHagen replaces Zack Thompson pitching
+b7;6-3;0;1--;4,(2-1) .BBFX;;COL;Kris Bryant;Drew VerHagen;1%;96%;Single to LF (Line Drive to Deep LF Line); Blackmon to 2B
+b7;6-3;0;12-;5,(2-2) CSB*BS;O;COL;C.J. Cron;Drew VerHagen;-1%;94%;Strikeout Swinging
+b7;6-3;1;12-;6,(3-2) BBFSBS;O;COL;Elias Díaz;Drew VerHagen;-1%;93%;Strikeout Swinging
+b7;6-3;2;12-;2,(0-1) CX;;COL;Elehuris Montero;Drew VerHagen;1%;94%;Reached on E6 (Ground Ball to Weak SS); Blackmon to 3B; Bryant to 2B; Montero to 1B
+;;;;;;;;;Ryan McMahon pinch runs for Elehuris Montero (3B) batting 6th
+b7;6-3;2;123;2,(0-1) .CX;R;COL;Yonathan Daza;Drew VerHagen;3%;97%;Single to P (Ground Ball to Front of Home); Blackmon Scores/unER; Bryant to 3B; McMahon to 2B
+b7;7-3;2;123;4,(2-1) BFBX;O;COL;Alan Trejo;Drew VerHagen;-1%;96%;Groundout: SS-2B/Forceout at 2B; Trejo to 1B
+;;;;;;;;;1 run, 3 hits, 1 error, 3 LOB. Cardinals 3, Rockies 7.
+Top of the 8th, Cardinals Batting, Behind 3-7, Rockies' Justin Lawrence facing 9-1-2 
+;;;;;;;;;Justin Lawrence replaces Brent Suter pitchingRyan McMahon moves from PR to 2B Alan Trejo moves from 2B to 3B 
+t8;3-7;0;---;4,(3-0) ...BBBB;;STL;Tommy Edman;Justin Lawrence;-3%;93%;Walk
+t8;3-7;0;1--;2,(0-1) CX;O;STL;Brendan Donovan;Justin Lawrence;3%;96%;Flyball: CF (Deep CF)
+t8;3-7;1;1--;3,(1-1) BCX;OO;STL;Alec Burleson;Justin Lawrence;3%;99%;Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 3, Rockies 7.
+Bottom of the 8th, Rockies Batting, Ahead 7-3, Cardinals' Chris Stratton facing 9-1-2 
+;;;;;;;;;Chris Stratton replaces Drew VerHagen pitchingTyler O'Neill replaces Dylan Carlson playing CF batting 8th
+b8;7-3;0;---;5,(2-2) ..BFBFX;O;COL;Ezequiel Tovar;Chris Stratton;0%;98%;Groundout: 2B-1B (Deep 2B)
+b8;7-3;1;---;4,(2-1) BFBX;O;COL;Jurickson Profar;Chris Stratton;0%;98%;Groundout: 2B-1B (2B-1B)
+b8;7-3;2;---;5,(2-2) FBSBT;O;COL;Charlie Blackmon;Chris Stratton;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 3, Rockies 7.
+Top of the 9th, Cardinals Batting, Behind 3-7, Rockies' Justin Lawrence facing 3-4-5 
+t9;3-7;0;---;8,(3-2) BBCFBFFB;;STL;Paul Goldschmidt;Justin Lawrence;-2%;96%;Walk
+t9;3-7;0;1--;2,(0-1) CX;O;STL;Nolan Arenado;Justin Lawrence;2%;98%;Foul Popfly: C (Behind Home)
+t9;3-7;1;1--;3,(0-2) CFX;O;STL;Willson Contreras;Justin Lawrence;1%;100%;Flyball: RF (Deep RF)
+t9;3-7;2;1--;3,(0-2) FC>X;R;STL;Nolan Gorman;Justin Lawrence;-1%;98%;Double to CF (Line Drive to Deep LF-CF); Goldschmidt Scores
+t9;4-7;2;-2-;3,(0-2) SS.S;O;STL;Jordan Walker;Justin Lawrence;2%;100%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Cardinals 4, Rockies 7.

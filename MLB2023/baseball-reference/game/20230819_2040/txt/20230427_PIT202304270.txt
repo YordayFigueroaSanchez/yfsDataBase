@@ -1,0 +1,252 @@
+
+Scorebox Meta
+20230427
+12:35 p.m. Local
+15879
+PNC Park
+128
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;2;0;0;0;0;0;0;0;0;2;5;1
+https://cdn.ssref.net/req/202308101/tlogo/br/PIT-2023.png;/teams/PIT/2023.shtml;3;0;0;0;0;3;0;0;X;6;8;0
+
+Batting home
+Tucupita Marcano;/players/m/marcatu01.shtml;2B;4;1;1;0;0;0;4;.280;.357;.440;.797;9;7;0.064; 0.45;0.088;-0.024; 0.05%; 0.57; 0.5;0;1;
+Bryan Reynolds;/players/r/reynobr01.shtml;LF;4;1;2;1;0;1;4;.301;.330;.548;.878;21;13;0.054; 0.98;0.097;-0.043; 0.04%; 1.22; 0.7;3;0;2B,SB
+Andrew McCutchen;/players/m/mccutan01.shtml;DH;3;2;1;0;1;0;4;.272;.371;.506;.877;13;7;0.060; 0.73;0.081;-0.020; 0.04%; 0.92; 0.4;;;SB
+Connor Joe;/players/j/joeco01.shtml;1B;4;1;1;2;0;1;4;.304;.392;.580;.972;16;12;0.095; 0.88;0.162;-0.067; 0.07%; 1.10; 0.8;5;1;HR
+Rodolfo Castro;/players/c/castrro01.shtml;SS;2;1;1;2;1;0;4;.279;.383;.471;.853;13;8;0.019; 0.80;0.076;-0.057; 0.01%; 1.00; 0.5;2;1;HR,CS,SF
+Jack Suwinski;/players/s/suwinja01.shtml;CF-RF;4;0;1;1;0;3;4;.276;.397;.603;1.001;19;14;0.075; 0.56;0.095;-0.020; 0.06%; 0.70; 0.5;0;0;SB
+Mark Mathias;/players/m/mathima01.shtml;RF;3;0;1;0;0;2;3;.290;.371;.323;.694;13;10;-0.037; 0.49;0.003;-0.040;-0.03%; 0.62; -0.3;2;0;
+Ji Hwan Bae;/players/b/baeji01.shtml;PR-CF;0;0;0;0;0;0;0;.254;.312;.366;.678;;;;;;;;;;0;0;
+Drew Maggi;/players/m/maggidr01.shtml;3B;3;0;0;0;0;0;3;.000;.000;.000;.000;11;8;-0.048; 0.61;0.000;-0.048;-0.04%; 0.76; -0.7;0;1;
+Ke'Bryan Hayes;/players/h/hayeske01.shtml;3B;0;0;0;0;0;0;0;.229;.292;.375;.667;;;;;;;;;;0;0;
+Austin Hedges;/players/h/hedgeau01.shtml;C;3;0;0;0;0;1;3;.171;.237;.200;.437;8;6;-0.034; 0.45;0.000;-0.034;-0.03%; 0.56; -0.6;13;0;
+Mitch Keller;/players/k/kellemi03.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Duane Underwood Jr.;/players/u/underdu01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Jose Hernandez;/players/h/hernajo03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+David Bednar;/players/b/bednada01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Bryan Reynolds (6, off Phil Bickford).
+
+
+HR: Connor Joe (3, off Julio Urías, 6th inn, 1 on, 1 out to Deep LF); Rodolfo Castro (3, off Julio Urías, 6th inn, 0 on, 1 out to Deep LF-CF).
+
+
+SF: Rodolfo Castro (1, off Julio Urías).
+
+
+TB: Connor Joe 4; Rodolfo Castro 4; Bryan Reynolds 3; Andrew McCutchen; Tucupita Marcano; Mark Mathias; Jack Suwinski.
+
+
+RBI: Connor Joe 2 (10); Rodolfo Castro 2 (12); Jack Suwinski (13); Bryan Reynolds (20).
+
+
+2-out RBI: Jack Suwinski.
+
+
+Team LOB: 3.
+With RISP: 2 for 5.
+
+Batting away
+Mookie Betts;/players/b/bettsmo01.shtml;2B-RF;3;1;0;0;1;1;4;.233;.349;.411;.760;12;8;-0.054; 1.12;0.035;-0.089;-0.03%; 1.19; -0.5;1;1;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;4;0;1;0;0;1;4;.287;.371;.455;.826;17;13;-0.053; 1.03;0.029;-0.082;-0.03%; 1.10; -0.6;4;1;
+Jason Heyward;/players/h/heywaja01.shtml;RF;3;1;2;0;0;0;3;.191;.291;.404;.695;12;8;0.098; 1.46;0.144;-0.046; 0.06%; 1.55; 1.1;2;0;SB
+Miguel Vargas;/players/v/vargami01.shtml;PH-2B;1;0;0;0;0;0;1;.217;.368;.304;.672;7;4;-0.004; 0.14;0.000;-0.004;-0.00%; 0.15; -0.1;0;0;
+James Outman;/players/o/outmaja01.shtml;CF;4;0;0;0;0;4;4;.287;.367;.644;1.011;18;12;-0.186; 1.41;0.000;-0.186;-0.12%; 1.50; -1.9;2;0;
+David Peralta;/players/p/peralda01.shtml;DH;4;0;1;2;0;0;4;.183;.206;.250;.456;9;7;0.066; 1.29;0.154;-0.088; 0.04%; 1.37; 0.8;;;
+Chris Taylor;/players/t/tayloch03.shtml;SS;4;0;0;0;0;1;4;.161;.226;.429;.654;17;11;-0.066; 0.62;0.000;-0.066;-0.04%; 0.66; -0.7;2;2;
+Michael Busch;/players/b/buschmi02.shtml;3B;3;0;0;0;0;2;3;.100;.182;.100;.282;12;7;-0.061; 0.80;0.000;-0.061;-0.04%; 0.85; -0.7;1;1;
+Trayce Thompson;/players/t/thomptr01.shtml;LF;3;0;0;0;0;3;3;.171;.292;.463;.755;13;11;-0.040; 0.52;0.000;-0.040;-0.03%; 0.55; -0.4;4;0;
+Austin Barnes;/players/b/barneau01.shtml;C;3;0;1;0;0;1;3;.079;.143;.079;.222;10;7;0.048; 0.76;0.064;-0.016; 0.03%; 0.81; 0.3;8;0;SB
+Julio Urías;/players/u/uriasju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Phil Bickford;/players/b/bickfph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Victor González;/players/g/gonzavi02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+TB: Jason Heyward 2; Freddie Freeman; Austin Barnes; David Peralta.
+
+
+RBI: David Peralta 2 (8).
+
+
+2-out RBI: David Peralta 2.
+
+
+Team LOB: 4.
+With RISP: 1 for 5.
+
+Pitching home
+Mitch Keller;/players/k/kellemi03.shtml; W (3-0); 6 ;5;2;2;1;10;0;3.53;24;97;66;29;15;22;3;10;7;0;63;;;0.181; 1.24; 0.14%; 1.55; 1.2
+Duane Underwood Jr.;/players/u/underdu01.shtml;Duane Underwood Jr.; 1.1;0;0;0;0;1;0;2.84;4;9;8;5;2;1;2;1;1;0;;0;0;0.044; 0.42; 0.03%; 0.53; 0.8
+Jose Hernandez;/players/h/hernajo03.shtml;Jose Hernandez; 0.2;0;0;0;0;1;0;0.93;2;12;7;5;1;1;1;0;0;0;;0;0;0.011; 0.22; 0.01%; 0.28; 0.3
+David Bednar;/players/b/bednada01.shtml;David Bednar; 1 ;0;0;0;0;1;0;0.75;3;9;7;2;4;1;1;1;0;0;;0;0;0.016; 0.20; 0.01%; 0.25; 0.5
+
+Pitching away
+Julio Urías;/players/u/uriasju01.shtml; L (3-3); 5.2;7;6;6;2;5;2;4.41;25;96;65;39;11;15;4;14;7;0;34;;;-0.263; 0.85;-0.17%; 0.90; -3.1
+Phil Bickford;/players/b/bickfph01.shtml;Phil Bickford; 1.1;1;0;0;0;1;0;3.97;5;15;11;6;2;3;0;4;0;0;;1;0;0.012; 0.13; 0.01%; 0.14; 0.8
+Victor González;/players/g/gonzavi02.shtml;Victor González; 1 ;0;0;0;0;2;0;0.00;3;12;9;2;5;2;1;0;0;0;;0;0;0.003; 0.04; 0.00%; 0.04; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: Julio Urías (3; Rodolfo Castro, 2nd base (CS)).
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: Julio Urías (3; Rodolfo Castro, 2nd base (CS)).
+
+section_content
+Umpires: HP - CB Bucknor, 1B - Chris Segal, 2B - Ben May, 3B - Jeff Nelson, LF - (none), RF - (none).
+Time of Game: 2:08.
+Attendance: 15,879.
+Field Condition: Unknown.
+Start Time Weather: 60° F, Wind 6mph in from Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;2B
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Jason Heyward;/players/h/heywaja01.shtml;RF
+4;James Outman;/players/o/outmaja01.shtml;CF
+5;David Peralta;/players/p/peralda01.shtml;DH
+6;Chris Taylor;/players/t/tayloch03.shtml;SS
+7;Michael Busch;/players/b/buschmi02.shtml;3B
+8;Trayce Thompson;/players/t/thomptr01.shtml;LF
+9;Austin Barnes;/players/b/barneau01.shtml;C
+; Julio Urías;/players/u/uriasju01.shtml;P
+Pirates
+1;Tucupita Marcano;/players/m/marcatu01.shtml;2B
+2;Bryan Reynolds;/players/r/reynobr01.shtml;LF
+3;Andrew McCutchen;/players/m/mccutan01.shtml;DH
+4;Connor Joe;/players/j/joeco01.shtml;1B
+5;Rodolfo Castro;/players/c/castrro01.shtml;SS
+6;Jack Suwinski;/players/s/suwinja01.shtml;CF
+7;Mark Mathias;/players/m/mathima01.shtml;RF
+8;Drew Maggi;/players/m/maggidr01.shtml;3B
+9;Austin Hedges;/players/h/hedgeau01.shtml;C
+; Mitch Keller;/players/k/kellemi03.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b6;3-2;1;1--;5,(1-2) FTB1FX;RR;PIT;Connor Joe;Julio Urías;16%;90%;Home Run (Line Drive to Deep LF); McCutchen Scores
+t1;0-0;2;-23;2,(0-1) >C.X;RR;LAD;David Peralta;Mitch Keller;-15%;34%;Single to CF (Line Drive); Betts Scores; Heyward Scores
+b1;0-2;0;---;4,(1-2) FBSX;;PIT;Tucupita Marcano;Julio Urías;9%;44%;Single to C (Bunt); Marcano to 3B/Adv on E2 (throw)
+b1;2-2;2;--3;6,(1-2) CBSFFX;R;PIT;Jack Suwinski;Julio Urías;9%;62%;Single to LF (Fly Ball to Short LF); McCutchen Scores
+t3;2-3;1;1-3;5,(2-2) BF*BSC;O;LAD;James Outman;Mitch Keller;8%;61%;Strikeout Looking
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Dodgers Batting, Tied 0-0, Pirates' Mitch Keller facing 1-2-3 
+t1;0-0;0;---;7,(3-2) CSBBFBB;;LAD;Mookie Betts;Mitch Keller;-4%;46%;Walk
+t1;0-0;0;1--;2,(0-1) SX;O;LAD;Freddie Freeman;Mitch Keller;3%;50%;Lineout: LF (Short LF)
+t1;0-0;1;1--;5,(2-2) BBF1FX;;LAD;Jason Heyward;Mitch Keller;-6%;44%;Single to RF (Line Drive to Short RF); Betts to 3B
+t1;0-0;1;1-3;4,(1-2) BSCS;O;LAD;James Outman;Mitch Keller;6%;50%;Strikeout Swinging
+t1;0-0;2;1-3;1,(0-0) >C;;LAD;David Peralta;Mitch Keller;-1%;49%;Heyward Steals 2B
+t1;0-0;2;-23;2,(0-1) >C.X;RR;LAD;David Peralta;Mitch Keller;-15%;34%;Single to CF (Line Drive); Betts Scores; Heyward Scores
+t1;2-0;2;1--;5,(1-2) FBCFS;O;LAD;Chris Taylor;Mitch Keller;2%;35%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Dodgers 2, Pirates 0.
+Bottom of the 1st, Pirates Batting, Behind 0-2, Dodgers' Julio Urías facing 1-2-3 
+b1;0-2;0;---;4,(1-2) FBSX;;PIT;Tucupita Marcano;Julio Urías;9%;44%;Single to C (Bunt); Marcano to 3B/Adv on E2 (throw)
+b1;0-2;0;--3;7,(3-2) BBSFBFX;R;PIT;Bryan Reynolds;Julio Urías;4%;49%;Single to RF (Line Drive); Marcano Scores
+b1;1-2;0;1--;1,(0-0) X;;PIT;Andrew McCutchen;Julio Urías;6%;54%;Single to LF (Line Drive to Deep LF); Reynolds to 2B
+b1;1-2;0;12-;3,(0-2) CFX;O;PIT;Connor Joe;Julio Urías;-6%;49%;Popfly: 2B (Deep 1B)
+b1;1-2;1;12-;1,(0-0) >C;;PIT;Rodolfo Castro;Julio Urías;5%;54%;Reynolds Steals 3B; McCutchen Steals 2B
+b1;1-2;1;-23;2,(0-1) >C.X;RO;PIT;Rodolfo Castro;Julio Urías;0%;54%;Flyball: LF/Sacrifice Fly (Deep LF-CF); Reynolds Scores; McCutchen to 3B
+b1;2-2;2;--3;6,(1-2) CBSFFX;R;PIT;Jack Suwinski;Julio Urías;9%;62%;Single to LF (Fly Ball to Short LF); McCutchen Scores
+b1;3-2;2;1--;2,(0-1) C1>C;;PIT;Mark Mathias;Julio Urías;1%;63%;Suwinski Steals 2B
+b1;3-2;2;-2-;3,(0-2) C1>C.S;O;PIT;Mark Mathias;Julio Urías;-3%;60%;Strikeout Swinging
+;;;;;;;;;3 runs, 4 hits, 1 error, 1 LOB. Dodgers 2, Pirates 3.
+Top of the 2nd, Dodgers Batting, Behind 2-3, Pirates' Mitch Keller facing 7-8-9 
+t2;2-3;0;---;5,(2-2) BCF.BS;O;LAD;Michael Busch;Mitch Keller;2%;63%;Strikeout Swinging
+t2;2-3;1;---;4,(1-2) BCSC;O;LAD;Trayce Thompson;Mitch Keller;2%;64%;Strikeout Looking
+t2;2-3;2;---;5,(2-2) BCCBC;O;LAD;Austin Barnes;Mitch Keller;1%;66%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Pirates 3.
+Bottom of the 2nd, Pirates Batting, Ahead 3-2, Dodgers' Julio Urías facing 8-9-1 
+b2;3-2;0;---;1,(0-0) X;O;PIT;Drew Maggi;Julio Urías;-2%;64%;Groundout: 3B-1B (Weak 3B)
+b2;3-2;1;---;3,(1-1) BSX;O;PIT;Austin Hedges;Julio Urías;-1%;62%;Lineout: RF
+b2;3-2;2;---;1,(0-0) X;O;PIT;Tucupita Marcano;Julio Urías;-1%;61%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Pirates 3.
+Top of the 3rd, Dodgers Batting, Behind 2-3, Pirates' Mitch Keller facing 1-2-3 
+t3;2-3;0;---;1,(0-0) X;O;LAD;Mookie Betts;Mitch Keller;3%;64%;Lineout: P (Weak SS-2B)
+t3;2-3;1;---;5,(1-2) CCBFX;;LAD;Freddie Freeman;Mitch Keller;-3%;61%;Single to RF (Line Drive)
+t3;2-3;1;1--;2,(1-0) BX;;LAD;Jason Heyward;Mitch Keller;-7%;54%;Single to RF (Line Drive); Freeman to 3B
+t3;2-3;1;1-3;5,(2-2) BF*BSC;O;LAD;James Outman;Mitch Keller;8%;61%;Strikeout Looking
+t3;2-3;2;1-3;3,(1-1) CBX;O;LAD;David Peralta;Mitch Keller;6%;67%;Groundout: 2B-SS/Forceout at 2B; Peralta to 1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Dodgers 2, Pirates 3.
+Bottom of the 3rd, Pirates Batting, Ahead 3-2, Dodgers' Julio Urías facing 2-3-4 
+b3;3-2;0;---;3,(1-1) BCX;O;PIT;Bryan Reynolds;Julio Urías;-2%;65%;Lineout: LF (Deep LF-CF)
+b3;3-2;1;---;4,(2-1) BCBX;O;PIT;Andrew McCutchen;Julio Urías;-2%;63%;Foul Popfly: LF (Short LF into Foul Terr.)
+b3;3-2;2;---;3,(1-1) FBX;O;PIT;Connor Joe;Julio Urías;-1%;62%;Popfly: SS (Deep SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Pirates 3.
+Top of the 4th, Dodgers Batting, Behind 2-3, Pirates' Mitch Keller facing 6-7-8 
+t4;2-3;0;---;3,(2-0) BBX;O;LAD;Chris Taylor;Mitch Keller;3%;65%;Flyball: RF (Deep RF)
+t4;2-3;1;---;6,(3-2) CSB.BBC;O;LAD;Michael Busch;Mitch Keller;2%;67%;Strikeout Looking
+t4;2-3;2;---;4,(1-2) BSFS;O;LAD;Trayce Thompson;Mitch Keller;1%;68%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Pirates 3.
+Bottom of the 4th, Pirates Batting, Ahead 3-2, Dodgers' Julio Urías facing 5-6-7 
+b4;3-2;0;---;5,(3-1) BBSBB;;PIT;Rodolfo Castro;Julio Urías;3%;72%;Walk
+b4;3-2;0;1--;3,(2-1) BBF1;O;PIT;Jack Suwinski;Julio Urías;-5%;66%;Castro Caught Stealing (PO) 2B (P-1B-SS-1B-SS)
+b4;3-2;1;---;5,(2-2) BBF1.CC;O;PIT;Jack Suwinski;Julio Urías;-2%;65%;Strikeout Looking
+b4;3-2;2;---;5,(2-2) BCBCS;O;PIT;Mark Mathias;Julio Urías;-1%;64%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Pirates 3.
+Top of the 5th, Dodgers Batting, Behind 2-3, Pirates' Mitch Keller facing 9-1-2 
+t5;2-3;0;---;3,(0-2) CFX;;LAD;Austin Barnes;Mitch Keller;-5%;58%;Single to LF (Line Drive to Deep LF-CF)
+t5;2-3;0;1--;3,(0-2) CFS;O;LAD;Mookie Betts;Mitch Keller;5%;63%;Strikeout Swinging
+t5;2-3;1;1--;5,(1-2) BSFFX;O;LAD;Freddie Freeman;Mitch Keller;4%;67%;Flyball: LF (Short LF-CF)
+t5;2-3;2;1--;3,(0-2) SC>B;;LAD;Jason Heyward;Mitch Keller;-1%;66%;Barnes Steals 2B
+t5;2-3;2;-2-;5,(1-2) SC>B.FX;O;LAD;Jason Heyward;Mitch Keller;5%;71%;Groundout: P-1B (P's Left)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 2, Pirates 3.
+Bottom of the 5th, Pirates Batting, Ahead 3-2, Dodgers' Julio Urías facing 8-9-1 
+b5;3-2;0;---;8,(3-2) BBC.BTFFX;O;PIT;Drew Maggi;Julio Urías;-2%;68%;Foul Popfly: 3B
+b5;3-2;1;---;1,(0-0) X;O;PIT;Austin Hedges;Julio Urías;-2%;67%;Flyball: RF (CF-RF)
+b5;3-2;2;---;2,(0-1) CX;O;PIT;Tucupita Marcano;Julio Urías;-1%;66%;Bunt Groundout: P-1B (P's Left)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Pirates 3.
+Top of the 6th, Dodgers Batting, Behind 2-3, Pirates' Mitch Keller facing 4-5-6 
+t6;2-3;0;---;6,(3-2) BBBCSC;O;LAD;James Outman;Mitch Keller;4%;69%;Strikeout Looking
+t6;2-3;1;---;3,(1-1) BFX;O;LAD;David Peralta;Mitch Keller;3%;72%;Groundout: 1B unassisted
+t6;2-3;2;---;4,(1-2) FCBX;O;LAD;Chris Taylor;Mitch Keller;2%;74%;Foul Popfly: RF (Short RF into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Pirates 3.
+Bottom of the 6th, Pirates Batting, Ahead 3-2, Dodgers' Julio Urías facing 2-3-4 
+b6;3-2;0;---;5,(2-2) BSC.BC;O;PIT;Bryan Reynolds;Julio Urías;-2%;72%;Strikeout Looking
+b6;3-2;1;---;7,(3-2) BBBT.SFB;;PIT;Andrew McCutchen;Julio Urías;2%;74%;Walk
+b6;3-2;1;1--;5,(1-2) FTB1FX;RR;PIT;Connor Joe;Julio Urías;16%;90%;Home Run (Line Drive to Deep LF); McCutchen Scores
+b6;5-2;1;---;3,(1-1) L.BX;R;PIT;Rodolfo Castro;Julio Urías;4%;95%;Home Run (Line Drive to Deep LF-CF)
+b6;6-2;1;---;4,(1-2) BFSS;O;PIT;Jack Suwinski;Julio Urías;0%;94%;Strikeout Swinging
+b6;6-2;2;---;5,(1-2) BTFFX;;PIT;Mark Mathias;Julio Urías;0%;94%;Single to RF (Line Drive)
+;;;;;;;;;Phil Bickford replaces Julio Urías pitchingJi Hwan Bae pinch runs for Mark Mathias (RF) batting 7th
+b6;6-2;2;1--;2,(0-1) ..CX;O;PIT;Drew Maggi;Phil Bickford;-1%;94%;Flyball: CF (Deep CF)
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Dodgers 2, Pirates 6.
+Top of the 7th, Dodgers Batting, Behind 2-6, Pirates' Duane Underwood Jr. facing 7-8-9 
+;;;;;;;;;Duane Underwood Jr. replaces Mitch Keller pitchingJi Hwan Bae moves from PR to CF Jack Suwinski moves from CF to RF 
+t7;2-6;0;---;1,(0-0) ...X;O;LAD;Michael Busch;Duane Underwood Jr.;2%;96%;Groundout: 1B-P
+t7;2-6;1;---;5,(0-2) CSFFS;O;LAD;Trayce Thompson;Duane Underwood Jr.;1%;96%;Strikeout Swinging
+t7;2-6;2;---;2,(1-0) BX;O;LAD;Austin Barnes;Duane Underwood Jr.;1%;97%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Pirates 6.
+Bottom of the 7th, Pirates Batting, Ahead 6-2, Dodgers' Phil Bickford facing 9-1-2 
+b7;6-2;0;---;4,(1-2) CFBC;O;PIT;Austin Hedges;Phil Bickford;0%;97%;Strikeout Looking
+b7;6-2;1;---;2,(1-0) BX;O;PIT;Tucupita Marcano;Phil Bickford;0%;96%;Flyball: LF (LF Line)
+b7;6-2;2;---;6,(2-2) SBS.FBX;;PIT;Bryan Reynolds;Phil Bickford;0%;97%;Double to CF (Fly Ball to Deep LF-CF)
+b7;6-2;2;-2-;1,(0-0) X;O;PIT;Andrew McCutchen;Phil Bickford;-1%;96%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Dodgers 2, Pirates 6.
+Top of the 8th, Dodgers Batting, Behind 2-6, Pirates' Duane Underwood Jr. facing 1-2-3 
+t8;2-6;0;---;1,(0-0) X;O;LAD;Mookie Betts;Duane Underwood Jr.;1%;98%;Lineout: SS (Deep SS)
+;;;;;;;;;Jose Hernandez replaces Duane Underwood Jr. pitching
+t8;2-6;1;---;5,(2-2) .FFBBS;O;LAD;Freddie Freeman;Jose Hernandez;1%;98%;Strikeout Swinging
+;;;;;;;;;Miguel Vargas pinch hits for Jason Heyward (RF) batting 3rd
+t8;2-6;2;---;7,(3-2) .CBBFFB.X;O;LAD;Miguel Vargas;Jose Hernandez;0%;99%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Pirates 6.
+Bottom of the 8th, Pirates Batting, Ahead 6-2, Dodgers' Victor González facing 4-5-6 
+;;;;;;;;;Victor González replaces Phil Bickford pitchingMiguel Vargas moves from PH to 2B Mookie Betts moves from 2B to RF 
+b8;6-2;0;---;5,(2-2) ...CBBFS;O;PIT;Connor Joe;Victor González;0%;99%;Strikeout Swinging
+b8;6-2;1;---;3,(0-2) CS.X;O;PIT;Rodolfo Castro;Victor González;0%;99%;Groundout: SS-1B (SS-3B Hole)
+b8;6-2;2;---;4,(1-2) BSSS;O;PIT;Jack Suwinski;Victor González;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Pirates 6.
+Top of the 9th, Dodgers Batting, Behind 2-6, Pirates' David Bednar facing 4-5-6 
+;;;;;;;;;David Bednar replaces Jose Hernandez pitchingKe'Bryan Hayes replaces Drew Maggi playing 3B batting 8th
+t9;2-6;0;---;3,(0-2) ..SCS;O;LAD;James Outman;David Bednar;1%;99%;Strikeout Swinging
+t9;2-6;1;---;1,(0-0) X;O;LAD;David Peralta;David Bednar;0%;100%;Groundout: SS-1B (SS-2B)
+t9;2-6;2;---;5,(2-2) BSSBX;O;LAD;Chris Taylor;David Bednar;0%;100%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 2, Pirates 6.

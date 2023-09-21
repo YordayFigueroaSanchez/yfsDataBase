@@ -1,0 +1,268 @@
+
+Scorebox Meta
+20230727
+7:10 p.m. Local
+32834
+Citi Field
+168
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/WSN-2023.png;/teams/WSN/2023.shtml;0;0;0;0;0;1;0;0;0;1;5;1
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;0;0;0;0;2;X;2;6;1
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;3;0;0;0;1;1;4;.258;.355;.439;.794;21;13;-0.170; 1.78;0.032;-0.203;-0.03%; 0.48; -1.3;3;0;CS
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;0;0;0;0;1;4;.228;.315;.445;.760;12;9;-0.141; 1.41;0.000;-0.141;-0.02%; 0.38; -0.9;3;2;
+Jeff McNeil;/players/m/mcneije01.shtml;2B-RF;3;1;1;0;0;0;4;.249;.327;.323;.650;18;11;0.024; 1.14;0.082;-0.058; 0.00%; 0.30; -0.0;0;4;HBP
+Pete Alonso;/players/a/alonspe01.shtml;1B;3;1;1;0;0;0;4;.217;.315;.497;.812;15;9;0.296; 1.87;0.331;-0.035; 0.05%; 0.50; 1.1;9;2;HBP
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;3;0;1;1;1;0;4;.228;.333;.376;.709;16;8;0.140; 2.32;0.217;-0.078; 0.02%; 0.63; 0.6;;;
+Danny Mendick;/players/m/mendida01.shtml;PR-DH-2B;0;0;0;0;0;0;0;.083;.154;.167;.321;;;;;;;;;;0;0;
+DJ Stewart;/players/s/stewadj01.shtml;RF;3;0;0;0;0;2;4;.200;.320;.400;.720;22;13;-0.098; 1.73;0.000;-0.098;-0.02%; 0.47; -0.6;1;0;HBP
+Brooks Raley;/players/r/raleybr01.shtml;P;0;0;0;0;0;0;0;;;;;;;;;;;;;;0;0;
+Mark Canha;/players/c/canhama01.shtml;LF;3;0;2;1;0;1;4;.242;.339;.379;.718;21;14;0.113; 1.86;0.162;-0.049; 0.02%; 0.50; 0.4;3;0;SF
+Brett Baty;/players/b/batybr01.shtml;3B;4;0;1;0;0;0;4;.230;.291;.353;.644;13;9;-0.014; 1.51;0.091;-0.105;-0.00%; 0.41; -0.8;1;1;2B
+Omar Narváez;/players/n/narvaom01.shtml;C;2;0;0;0;1;0;3;.213;.316;.277;.592;12;4;-0.092; 1.98;0.014;-0.106;-0.01%; 0.54; -0.4;5;2;
+Kodai Senga;/players/s/sengako01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+David Peterson;/players/p/peterda01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+2B: Brett Baty (10, off Jordan Weems).
+
+
+SF: Mark Canha (5, off Kyle Finnegan).
+
+
+HBP: Jeff McNeil (14, by Josiah Gray); Pete Alonso (13, by Josiah Gray); DJ Stewart (1, by Mason Thompson).
+
+
+TB: Brett Baty 2; Mark Canha 2; Jeff McNeil; Daniel Vogelbach; Pete Alonso.
+
+
+RBI: Mark Canha (29); Daniel Vogelbach (30).
+
+
+Team LOB: 9.
+With RISP: 1 for 7.
+
+Batting away
+CJ Abrams;/players/a/abramcj01.shtml;SS;3;1;1;0;2;1;5;.257;.307;.424;.731;23;10;0.061; 1.56;0.162;-0.101;0%; 0.04; 0.9;2;0;SB
+Lane Thomas;/players/t/thomala02.shtml;RF;4;0;0;0;0;2;4;.290;.338;.482;.819;11;9;-0.243; 1.68;0.000;-0.243;-0.00%; 0.04; -2.1;2;0;GDP
+Jeimer Candelario;/players/c/candeje01.shtml;3B;3;0;0;0;0;1;4;.253;.333;.479;.812;18;11;0.036; 1.06;0.069;-0.033; 0.00%; 0.02; 0.3;3;1;
+Joey Meneses;/players/m/menesjo01.shtml;DH;4;0;1;0;0;0;4;.280;.322;.399;.721;15;8;0.004; 1.56;0.085;-0.081;0%; 0.03; -0.1;;;
+Keibert Ruiz;/players/r/ruizke01.shtml;C;3;0;1;1;0;0;4;.245;.298;.391;.689;18;11;0.011; 1.42;0.062;-0.051;0%; 0.03; -0.2;6;1;SF
+Dominic Smith;/players/s/smithdo02.shtml;1B;3;0;0;0;0;1;4;.265;.335;.346;.682;15;8;-0.069; 1.29;0.013;-0.082;-0.00%; 0.03; -0.5;3;0;HBP
+Corey Dickerson;/players/d/dickeco01.shtml;LF;3;0;1;0;0;0;3;.258;.288;.348;.636;6;6;-0.067; 1.74;0.040;-0.107;-0.00%; 0.04; -0.6;5;0;
+Stone Garrett;/players/g/garrest01.shtml;LF;1;0;0;0;0;0;1;.263;.333;.441;.775;3;1;-0.073; 2.87;0.000;-0.073;-0.00%; 0.06; -0.2;1;0;
+Luis García;/players/g/garcilu04.shtml;2B;3;0;0;0;0;1;3;.261;.296;.359;.655;9;7;-0.084; 1.16;0.000;-0.084;-0.00%; 0.03; -0.8;0;1;
+Ildemaro Vargas;/players/v/vargail01.shtml;PH;1;0;0;0;0;0;1;.267;.308;.406;.714;2;2;-0.053; 2.12;0.000;-0.053;-0.00%; 0.05; -0.2;;;
+Alex Call;/players/c/callal02.shtml;CF;1;0;1;0;2;0;4;.209;.303;.321;.624;20;9;0.034; 1.03;0.086;-0.052; 0.00%; 0.02; 0.1;2;0;CS,SH
+Josiah Gray;/players/g/grayjo03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jordan Weems;/players/w/weemsjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jose Ferrer;/players/f/ferrejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Mason Thompson;/players/t/thompma02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kyle Finnegan;/players/f/finneky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+SF: Keibert Ruiz (2, off Kodai Senga).
+
+
+SH: Alex Call (1, off Kodai Senga).
+
+
+HBP: Dominic Smith (9, by Kodai Senga).
+
+
+TB: Alex Call; CJ Abrams; Corey Dickerson; Joey Meneses; Keibert Ruiz.
+
+
+GIDP: Lane Thomas (4).
+
+
+RBI: Keibert Ruiz (39).
+
+
+Team LOB: 9.
+With RISP: 1 for 5.
+
+Pitching home
+Kodai Senga;/players/s/sengako01.shtml;Kodai Senga; 6 ;2;1;1;3;5;0;3.17;25;99;57;31;13;12;7;8;3;0;66;;;0.173; 1.44; 0.03%; 0.39; 2.0
+David Peterson;/players/p/peterda01.shtml; W (3-7); 2 ;3;0;0;0;0;0;6.12;8;24;16;13;0;3;6;2;1;0;;0;0;0.107; 1.06; 0.02%; 0.29; 1.0
+Brooks Raley;/players/r/raleybr01.shtml; S (2); 1 ;0;0;0;1;1;0;2.50;4;17;9;6;0;3;1;1;0;0;;0;0;0.162; 2.30; 0.03%; 0.62; 0.5
+
+Pitching away
+Josiah Gray;/players/g/grayjo03.shtml;Josiah Gray; 6 ;2;0;0;3;4;0;3.27;24;106;63;34;6;23;2;13;3;0;69;;;0.368; 1.21; 0.01%; 0.03; 3.0
+Jordan Weems;/players/w/weemsjo01.shtml; H (2); 0.2;1;0;0;0;1;0;3.29;3;12;7;3;2;2;0;2;1;0;;0;0;0.034; 2.01; 0.00%; 0.04; 0.2
+Jose Ferrer;/players/f/ferrejo01.shtml; H (3); 0.1;0;0;0;0;0;0;5.40;1;3;3;1;0;2;0;1;1;0;;1;0;0.074; 2.63; 0.00%; 0.06; 0.3
+Mason Thompson;/players/t/thompma02.shtml; L (3-4); 0.1;3;2;2;0;0;0;4.70;5;21;11;6;2;3;2;2;0;0;;0;0;-0.471; 3.27;-0.01%; 0.07; -2.1
+Kyle Finnegan;/players/f/finneky01.shtml;Kyle Finnegan; 0.2;0;0;0;0;0;0;3.12;2;8;6;5;0;1;1;1;0;0;;3;1;-0.063; 2.90;-0.00%; 0.07; 0.6
+
+indiv_events
+
+Balks: None.
+WP: Mason Thompson (4); Kodai Senga (9); David Peterson (5).
+HBP: Mason Thompson (4; DJ Stewart); Josiah Gray 2 (7; Jeff McNeil, Pete Alonso); Kodai Senga (4; Dominic Smith).
+IBB: None.
+Pickoffs: Josiah Gray (1; Mark Canha, 1st base).
+
+Balks: None.
+WP: Mason Thompson (4); Kodai Senga (9); David Peterson (5).
+HBP: Mason Thompson (4; DJ Stewart); Josiah Gray 2 (7; Jeff McNeil, Pete Alonso); Kodai Senga (4; Dominic Smith).
+IBB: None.
+Pickoffs: Josiah Gray (1; Mark Canha, 1st base).
+
+section_content
+Umpires: HP - Emil Jimenez, 1B - Adam Hamari, 2B - Nick Mahrley, 3B - Vic Carapazza, LF - (none), RF - (none).
+Time of Game: 2:48.
+Attendance: 32,834.
+Field Condition: Unknown.
+Start Time Weather: 90° F, Wind 6mph out to Rightfield, Sunny, No Precipitation.
+
+div_lineups
+Nationals
+1;CJ Abrams;/players/a/abramcj01.shtml;SS
+2;Lane Thomas;/players/t/thomala02.shtml;RF
+3;Jeimer Candelario;/players/c/candeje01.shtml;3B
+4;Joey Meneses;/players/m/menesjo01.shtml;DH
+5;Keibert Ruiz;/players/r/ruizke01.shtml;C
+6;Dominic Smith;/players/s/smithdo02.shtml;1B
+7;Corey Dickerson;/players/d/dickeco01.shtml;LF
+8;Luis García;/players/g/garcilu04.shtml;2B
+9;Alex Call;/players/c/callal02.shtml;CF
+; Josiah Gray;/players/g/grayjo03.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Jeff McNeil;/players/m/mcneije01.shtml;2B
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+6;DJ Stewart;/players/s/stewadj01.shtml;RF
+7;Mark Canha;/players/c/canhama01.shtml;LF
+8;Brett Baty;/players/b/batybr01.shtml;3B
+9;Omar Narváez;/players/n/narvaom01.shtml;C
+; Kodai Senga;/players/s/sengako01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b8;0-1;1;1-3;6,(3-2) BBCB.FX;R;NYM;Daniel Vogelbach;Mason Thompson;18%;67%;Single to RF (Ground Ball thru 2B-1B); McNeil Scores; Alonso to 2B
+b8;0-1;1;1--;5,(3-1) BBBCX;;NYM;Pete Alonso;Mason Thompson;18%;49%;Single to CF (Fly Ball to Short CF); McNeil to 3B
+t7;1-0;1;1-3;1,(0-0) X;OO;WSN;Lane Thomas;David Peterson;13%;36%;Ground Ball Double Play: SS-1B
+b8;1-1;1;12-;4,(1-2) .SBSB;;NYM;DJ Stewart;Mason Thompson;11%;78%;Wild Pitch; Alonso to 3B; Mendick to 2B
+b8;1-1;1;123;5,(1-2) .CFBFX;RO;NYM;Mark Canha;Kyle Finnegan;10%;87%;Flyball: RF/Sacrifice Fly (RF Line); Alonso Scores; Mendick to 3B; Stewart to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Nationals Batting, Tied 0-0, Mets' Kodai Senga facing 1-2-3 
+t1;0-0;0;---;3,(2-0) BBX;O;WSN;CJ Abrams;Kodai Senga;2%;52%;Lineout: CF
+t1;0-0;1;---;2,(1-0) BX;O;WSN;Lane Thomas;Kodai Senga;2%;54%;Popfly: SS (Weak SS-2B)
+t1;0-0;2;---;4,(1-2) FSBX;O;WSN;Jeimer Candelario;Kodai Senga;1%;55%;Flyball: LF (Deep LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Nationals' Josiah Gray facing 1-2-3 
+b1;0-0;0;---;6,(3-2) BCCBBC;O;NYM;Brandon Nimmo;Josiah Gray;-2%;53%;Strikeout Looking
+b1;0-0;1;---;3,(0-2) CFX;O;NYM;Francisco Lindor;Josiah Gray;-2%;51%;Popfly: 3B (Deep 3B)
+b1;0-0;2;---;5,(1-2) CFBFH;;NYM;Jeff McNeil;Josiah Gray;1%;52%;Hit By Pitch
+b1;0-0;2;1--;4,(2-1) BCBX;O;NYM;Pete Alonso;Josiah Gray;-2%;50%;Popfly: 1B (Weak 2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Nationals 0, Mets 0.
+Top of the 2nd, Nationals Batting, Tied 0-0, Mets' Kodai Senga facing 4-5-6 
+t2;0-0;0;---;6,(3-2) BBSBS.X;O;WSN;Joey Meneses;Kodai Senga;2%;52%;Groundout: 2B-1B
+t2;0-0;1;---;6,(3-2) BCFBBX;O;WSN;Keibert Ruiz;Kodai Senga;2%;54%;Groundout: 1B-P
+t2;0-0;2;---;6,(2-2) CBFBFX;O;WSN;Dominic Smith;Kodai Senga;1%;55%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Nationals' Josiah Gray facing 5-6-7 
+b2;0-0;0;---;5,(3-1) CBBBB;;NYM;Daniel Vogelbach;Josiah Gray;4%;59%;Walk
+b2;0-0;0;1--;7,(2-2) BCSFFBC;O;NYM;DJ Stewart;Josiah Gray;-3%;55%;Strikeout Looking
+b2;0-0;1;1--;2,(0-1) CX;;NYM;Mark Canha;Josiah Gray;4%;59%;Single to RF (Ground Ball); Vogelbach to 2B
+b2;0-0;1;12-;5,(2-2) BCF*BX;O;NYM;Brett Baty;Josiah Gray;-3%;56%;Groundout: 2B-1B (2B-1B); Vogelbach to 3B; Canha to 2B
+b2;0-0;2;-23;5,(3-1) BSBB*B;;NYM;Omar Narváez;Josiah Gray;1%;58%;Walk
+b2;0-0;2;123;2,(1-0) BX;O;NYM;Brandon Nimmo;Josiah Gray;-8%;50%;Flyball: LF (LF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Nationals 0, Mets 0.
+Top of the 3rd, Nationals Batting, Tied 0-0, Mets' Kodai Senga facing 7-8-9 
+t3;0-0;0;---;1,(0-0) X;;WSN;Corey Dickerson;Kodai Senga;-4%;46%;Single to RF (Line Drive to Deep 1B)
+t3;0-0;0;1--;4,(1-2) *BCSS;O;WSN;Luis García;Kodai Senga;4%;50%;Strikeout Swinging
+t3;0-0;1;1--;1,(0-0) X;O;WSN;Alex Call;Kodai Senga;2%;52%;Bunt Groundout: C-1B/Sacrifice; Dickerson to 2B
+t3;0-0;2;-2-;4,(3-0) BBBB;;WSN;CJ Abrams;Kodai Senga;-1%;51%;Walk
+t3;0-0;2;12-;3,(0-2) FC*S;O;WSN;Lane Thomas;Kodai Senga;5%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Nationals 0, Mets 0.
+Bottom of the 3rd, Mets Batting, Tied 0-0, Nationals' Josiah Gray facing 2-3-4 
+b3;0-0;0;---;1,(0-0) X;O;NYM;Francisco Lindor;Josiah Gray;-3%;53%;Foul Popfly: C (Behind Home)
+b3;0-0;1;---;4,(2-1) BBCX;O;NYM;Jeff McNeil;Josiah Gray;-2%;51%;Flyball: RF (Deep RF Line)
+b3;0-0;2;---;3,(0-2) SS.X;O;NYM;Pete Alonso;Josiah Gray;-1%;50%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 0, Mets 0.
+Top of the 4th, Nationals Batting, Tied 0-0, Mets' Kodai Senga facing 3-4-5 
+t4;0-0;0;---;5,(2-2) SFBBS;;WSN;Jeimer Candelario;Kodai Senga;-4%;46%;Strikeout Swinging, Wild Pitch; Candelario to 1B
+t4;0-0;0;1--;4,(2-1) BC*BX;O;WSN;Joey Meneses;Kodai Senga;4%;50%;Lineout: CF
+t4;0-0;1;1--;7,(3-2) CBBC*B1FX;O;WSN;Keibert Ruiz;Kodai Senga;3%;53%;Flyball: LF (LF-CF)
+t4;0-0;2;1--;6,(3-2) SFBBB>S;O;WSN;Dominic Smith;Kodai Senga;3%;56%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Nationals 0, Mets 0.
+Bottom of the 4th, Mets Batting, Tied 0-0, Nationals' Josiah Gray facing 5-6-7 
+b4;0-0;0;---;1,(0-0) X;O;NYM;Daniel Vogelbach;Josiah Gray;-3%;53%;Popfly: 3B
+b4;0-0;1;---;7,(3-2) CBBFFB.C;O;NYM;DJ Stewart;Josiah Gray;-2%;51%;Strikeout Looking
+b4;0-0;2;---;7,(3-2) BBFCBF.X;;NYM;Mark Canha;Josiah Gray;1%;53%;Single to RF (Line Drive)
+b4;0-0;2;1--;1,(0-1) C11;;NYM;Brett Baty;Josiah Gray;1%;54%;Canha Picked off 1B, safe on E1 (throw); Canha to 2B
+b4;0-0;2;-2-;3,(1-1) C11.BX;O;NYM;Brett Baty;Josiah Gray;-4%;50%;Lineout: CF
+;;;;;;;;;0 runs, 1 hit, 1 error, 1 LOB. Nationals 0, Mets 0.
+Top of the 5th, Nationals Batting, Tied 0-0, Mets' Kodai Senga facing 7-8-9 
+t5;0-0;0;---;3,(0-2) SS.X;O;WSN;Corey Dickerson;Kodai Senga;3%;53%;Groundout: 2B-1B
+t5;0-0;1;---;2,(0-1) TX;O;WSN;Luis García;Kodai Senga;2%;55%;Groundout: 2B-1B
+t5;0-0;2;---;7,(3-2) CC.FBBBB;;WSN;Alex Call;Kodai Senga;-2%;54%;Walk
+t5;0-0;2;1--;1,(0-0) 1>B;O;WSN;CJ Abrams;Kodai Senga;3%;57%;Call Caught Stealing 2B (C-SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 0, Mets 0.
+Bottom of the 5th, Mets Batting, Tied 0-0, Nationals' Josiah Gray facing 9-1-2 
+b5;0-0;0;---;4,(2-1) FBBX;O;NYM;Omar Narváez;Josiah Gray;-3%;54%;Flyball: LF (Deep LF-CF)
+b5;0-0;1;---;10,(3-2) BFCFBBFFFB;;NYM;Brandon Nimmo;Josiah Gray;3%;57%;Walk
+b5;0-0;1;1--;7,(3-2) BT.BCF1B>S;OO;NYM;Francisco Lindor;Josiah Gray;-7%;50%;Double Play: Strikeout Swinging, Nimmo Caught Stealing 2B (C-SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Nationals 0, Mets 0.
+Top of the 6th, Nationals Batting, Tied 0-0, Mets' Kodai Senga facing 1-2-3 
+t6;0-0;0;---;7,(3-2) BBBCFFB;;WSN;CJ Abrams;Kodai Senga;-5%;45%;Walk
+t6;0-0;0;1--;5,(1-2) CFF11B*S;O;WSN;Lane Thomas;Kodai Senga;5%;50%;Strikeout Swinging
+t6;0-0;1;1--;3,(1-1) C1B>B;;WSN;Jeimer Candelario;Kodai Senga;-3%;47%;Abrams Steals 2B
+t6;0-0;1;-2-;6,(3-2) C1B>B.FBX;;WSN;Jeimer Candelario;Kodai Senga;-3%;45%;Reached on Interference on C; Candelario to 1B
+t6;0-0;1;12-;2,(1-0) BX;;WSN;Joey Meneses;Kodai Senga;-9%;36%;Single to LF (Ground Ball thru SS-3B Hole); Abrams to 3B; Candelario to 2B
+t6;0-0;1;123;1,(0-0) X;RO;WSN;Keibert Ruiz;Kodai Senga;-3%;33%;Flyball: RF/Sacrifice Fly; Abrams Scores; Candelario to 3B; Meneses to 2B
+t6;1-0;2;-23;1,(0-0) H;;WSN;Dominic Smith;Kodai Senga;-1%;32%;Hit By Pitch
+t6;1-0;2;123;2,(0-1) FX;O;WSN;Corey Dickerson;Kodai Senga;8%;39%;Flyball: LF (Deep LF)
+;;;;;;;;;1 run, 1 hit, 1 error, 3 LOB. Nationals 1, Mets 0.
+Bottom of the 6th, Mets Batting, Behind 0-1, Nationals' Josiah Gray facing 3-4-5 
+b6;0-1;0;---;5,(2-2) CBBF.X;O;NYM;Jeff McNeil;Josiah Gray;-4%;35%;Popfly: SS (Short CF)
+b6;0-1;1;---;3,(0-2) CCH;;NYM;Pete Alonso;Josiah Gray;4%;40%;Hit By Pitch
+b6;0-1;1;1--;4,(1-2) .CC*BX;O;NYM;Daniel Vogelbach;Josiah Gray;-5%;35%;Lineout: CF (Deep CF)
+b6;0-1;2;1--;3,(1-1) S*B1X;O;NYM;DJ Stewart;Josiah Gray;-4%;30%;Popfly: 3B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Nationals 1, Mets 0.
+Top of the 7th, Nationals Batting, Ahead 1-0, Mets' David Peterson facing 8-9-1 
+;;;;;;;;;David Peterson replaces Kodai Senga pitching
+t7;1-0;0;---;3,(1-1) .CBX;O;WSN;Luis García;David Peterson;2%;33%;Popfly: 3B (Weak 3B)
+t7;1-0;1;---;6,(3-2) BBCBC.X;;WSN;Alex Call;David Peterson;-3%;30%;Single to P (Ground Ball)
+t7;1-0;1;1--;2,(0-1) 1F1X;;WSN;CJ Abrams;David Peterson;-7%;23%;Single to RF (Ground Ball thru 2B-1B); Call to 3B
+t7;1-0;1;1-3;1,(0-0) X;OO;WSN;Lane Thomas;David Peterson;13%;36%;Ground Ball Double Play: SS-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Nationals 1, Mets 0.
+Bottom of the 7th, Mets Batting, Behind 0-1, Nationals' Jordan Weems facing 7-8-9 
+;;;;;;;;;Jordan Weems replaces Josiah Gray pitching
+b7;0-1;0;---;7,(3-2) .BCCBBFS;O;NYM;Mark Canha;Jordan Weems;-5%;31%;Strikeout Swinging
+b7;0-1;1;---;2,(0-1) SX;;NYM;Brett Baty;Jordan Weems;9%;40%;Double to CF (Line Drive to Deep CF-RF)
+b7;0-1;1;-2-;3,(2-0) BBX;O;NYM;Omar Narváez;Jordan Weems;-8%;33%;Flyball: LF (Short LF)
+;;;;;;;;;Jose Ferrer replaces Jordan Weems pitching
+b7;0-1;2;-2-;3,(1-2) .VCCX;O;NYM;Brandon Nimmo;Jose Ferrer;-7%;25%;Lineout: LF (Deep LF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Nationals 1, Mets 0.
+Top of the 8th, Nationals Batting, Ahead 1-0, Mets' David Peterson facing 3-4-5 
+t8;1-0;0;---;3,(1-1) FBX;O;WSN;Jeimer Candelario;David Peterson;2%;28%;Groundout: SS-1B
+t8;1-0;1;---;3,(1-1) BFX;O;WSN;Joey Meneses;David Peterson;2%;29%;Groundout: P-1B (Short 1B Line)
+t8;1-0;2;---;4,(1-2) FBFX;;WSN;Keibert Ruiz;David Peterson;-1%;28%;Single to CF (Line Drive)
+t8;1-0;2;1--;1,(0-0) B;;WSN;Dominic Smith;David Peterson;-2%;26%;Wild Pitch; Ruiz to 3B
+t8;1-0;2;--3;2,(1-0) B.X;O;WSN;Dominic Smith;David Peterson;4%;30%;Groundout: 1B-P
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Nationals 1, Mets 0.
+Bottom of the 8th, Mets Batting, Behind 0-1, Nationals' Mason Thompson facing 2-3-4 
+;;;;;;;;;Mason Thompson replaces Jose Ferrer pitchingStone Garrett replaces Corey Dickerson playing LF batting 7th
+b8;0-1;0;---;1,(0-0) ..X;O;NYM;Francisco Lindor;Mason Thompson;-6%;24%;Flyball: LF (Deep LF-CF)
+b8;0-1;1;---;4,(1-2) CBFX;;NYM;Jeff McNeil;Mason Thompson;7%;31%;Single to C (Ground Ball)
+b8;0-1;1;1--;5,(3-1) BBBCX;;NYM;Pete Alonso;Mason Thompson;18%;49%;Single to CF (Fly Ball to Short CF); McNeil to 3B
+b8;0-1;1;1-3;6,(3-2) BBCB.FX;R;NYM;Daniel Vogelbach;Mason Thompson;18%;67%;Single to RF (Ground Ball thru 2B-1B); McNeil Scores; Alonso to 2B
+;;;;;;;;;Danny Mendick pinch runs for Daniel Vogelbach (DH) batting 5th
+b8;1-1;1;12-;4,(1-2) .SBSB;;NYM;DJ Stewart;Mason Thompson;11%;78%;Wild Pitch; Alonso to 3B; Mendick to 2B
+b8;1-1;1;-23;5,(2-2) .SBSB.H;;NYM;DJ Stewart;Mason Thompson;0%;77%;Hit By Pitch
+;;;;;;;;;Kyle Finnegan replaces Mason Thompson pitching
+b8;1-1;1;123;5,(1-2) .CFBFX;RO;NYM;Mark Canha;Kyle Finnegan;10%;87%;Flyball: RF/Sacrifice Fly (RF Line); Alonso Scores; Mendick to 3B; Stewart to 2B
+b8;2-1;2;-23;3,(1-1) BFX;O;NYM;Brett Baty;Kyle Finnegan;-3%;84%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Nationals 1, Mets 2.
+Top of the 9th, Nationals Batting, Behind 1-2, Mets' Brooks Raley facing 7-8-9 
+;;;;;;;;;Brooks Raley replaces DJ Stewart (RF) pitching and batting 6thDanny Mendick moves from DH to 2B (team loses DH)Jeff McNeil moves from 2B to RF 
+t9;1-2;0;---;3,(2-0) ...BB.X;O;WSN;Stone Garrett;Brooks Raley;7%;91%;Groundout: 3B-1B
+;;;;;;;;;Ildemaro Vargas pinch hits for Luis García (2B) batting 8th
+t9;1-2;1;---;2,(0-1) .CX;O;WSN;Ildemaro Vargas;Brooks Raley;5%;96%;Flyball: CF
+t9;1-2;2;---;6,(3-2) BFBC.BB;;WSN;Alex Call;Brooks Raley;-4%;92%;Walk
+t9;1-2;2;1--;6,(2-2) FFBBFC;O;WSN;CJ Abrams;Brooks Raley;8%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Nationals 1, Mets 2.

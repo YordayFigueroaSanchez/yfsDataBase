@@ -1,0 +1,259 @@
+
+Scorebox Meta
+20230421
+7:05 p.m. Local
+18772
+Oriole Park at Camden Yards
+145
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;0;0;0;0;0;0;0;0;1;1;5;0
+https://cdn.ssref.net/req/202308101/tlogo/br/BAL-2023.png;/teams/BAL/2023.shtml;0;0;0;0;0;0;1;0;1;2;7;0
+
+Batting home
+Cedric Mullins;/players/m/mullice01.shtml;CF;3;0;2;0;1;1;4;.261;.386;.420;.806;22;11;0.166; 0.99;0.173;-0.007; 0.10%; 1.02; 1.3;2;0;2B
+Adley Rutschman;/players/r/rutscad01.shtml;C;4;0;0;0;0;1;4;.292;.427;.486;.913;20;15;-0.185; 1.75;0.000;-0.185;-0.11%; 1.79; -1.3;8;0;
+Ryan Mountcastle;/players/m/mountry01.shtml;1B;4;1;1;0;0;0;4;.210;.233;.481;.714;16;12;-0.098; 1.67;0.055;-0.153;-0.06%; 1.72; -1.0;8;0;GDP
+Anthony Santander;/players/s/santaan02.shtml;DH;4;0;1;0;0;0;4;.209;.289;.328;.618;17;11;0.087; 1.70;0.190;-0.103; 0.05%; 1.75; -0.1;;;
+Adam Frazier;/players/f/fraziad01.shtml;2B;4;0;0;1;0;2;4;.228;.323;.386;.709;12;11;0.102; 2.06;0.177;-0.075; 0.06%; 2.12; 0.2;1;2;
+Austin Hays;/players/h/haysau01.shtml;LF;3;1;1;1;0;0;3;.324;.360;.606;.966;14;7;0.207; 0.70;0.239;-0.032; 0.13%; 0.72; 0.7;2;0;HR
+Gunnar Henderson;/players/h/hendegu01.shtml;SS;3;0;1;0;0;1;3;.185;.371;.296;.668;14;9;-0.004; 0.65;0.031;-0.035;-0.00%; 0.67; -0.1;2;2;2B
+Ramón Urías;/players/u/uriasra01.shtml;3B;3;0;1;0;0;2;3;.234;.357;.362;.719;12;9;-0.032; 0.96;0.028;-0.060;-0.02%; 0.99; -0.3;1;3;
+Terrin Vavra;/players/v/vavrate01.shtml;RF;1;0;0;0;0;0;1;.190;.292;.190;.482;2;2;-0.057; 1.31;0.000;-0.057;-0.03%; 1.35; -0.5;2;0;GDP
+Ryan McKenna;/players/m/mckenry01.shtml;PH-RF;2;0;0;0;0;1;2;.200;.278;.267;.544;11;7;-0.043; 0.86;0.000;-0.043;-0.03%; 0.89; -0.4;1;0;
+Tyler Wells;/players/w/wellsty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Baker;/players/b/bakerbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Félix Bautista;/players/b/bautife01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Gunnar Henderson (3, off Michael Lorenzen); Cedric Mullins (3, off Chasen Shreve).
+
+
+HR: Austin Hays (4, off José Cisnero, 7th inn, 0 on, 2 outs to Deep LF-CF).
+
+
+TB: Austin Hays 4; Cedric Mullins 3; Gunnar Henderson 2; Ramón Urías; Anthony Santander; Ryan Mountcastle.
+
+
+GIDP: Ryan Mountcastle (3); Terrin Vavra (2).
+
+
+RBI: Adam Frazier (8); Austin Hays (8).
+
+
+2-out RBI: Austin Hays.
+
+
+Team LOB: 5.
+With RISP: 0 for 7.
+
+Batting away
+Nick Maton;/players/m/matonni01.shtml;3B;4;0;0;0;0;2;4;.140;.246;.333;.579;13;9;-0.237; 2.04;0.000;-0.237;-0.12%; 1.79; -1.3;0;1;
+Riley Greene;/players/g/greenri03.shtml;CF;4;0;1;0;0;1;4;.247;.295;.384;.678;18;11;-0.192; 1.84;0.024;-0.216;-0.10%; 1.60; -0.8;1;0;
+Javier Báez;/players/b/baezja01.shtml;SS;4;0;1;1;0;0;4;.200;.254;.246;.500;13;9;0.262; 2.00;0.356;-0.094; 0.14%; 1.75; 0.2;0;2;SB
+Kerry Carpenter;/players/c/carpeke01.shtml;RF;4;0;0;0;0;1;4;.240;.309;.500;.809;20;9;-0.173; 1.59;0.000;-0.173;-0.09%; 1.39; -0.9;5;0;
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;3;0;0;0;0;2;3;.232;.247;.377;.623;14;9;-0.056; 0.74;0.000;-0.056;-0.03%; 0.65; -0.4;8;0;
+Matt Vierling;/players/v/vierlma01.shtml;LF;2;0;0;0;1;1;3;.222;.276;.333;.609;15;9;-0.023; 1.33;0.047;-0.071;-0.01%; 1.17; -0.0;1;0;
+Miguel Cabrera;/players/c/cabremi01.shtml;DH;3;0;0;0;0;0;3;.189;.231;.270;.501;13;9;-0.094; 1.31;0.000;-0.094;-0.05%; 1.14; -0.6;;;
+Jonathan Schoop;/players/s/schoojo01.shtml;2B;2;0;0;0;0;0;2;.185;.290;.185;.476;8;6;-0.094; 1.29;0.000;-0.094;-0.05%; 1.12; -0.8;2;4;GDP
+Zach McKinstry;/players/m/mckinza01.shtml;PH-2B;1;0;0;0;0;1;1;.242;.286;.394;.680;4;3;-0.027; 1.03;0.000;-0.027;-0.01%; 0.90; -0.1;0;1;
+Jake Rogers;/players/r/rogerja03.shtml;C;2;0;2;0;0;0;2;.276;.382;.552;.934;7;6;0.080; 1.03;0.080;0.000; 0.04%; 0.90; 0.6;8;1;
+Akil Baddoo;/players/b/baddoak01.shtml;PH;1;1;1;0;0;0;1;.241;.333;.276;.609;2;2;0.198; 3.73;0.198;0.000; 0.10%; 3.27; 0.6;;;SB
+Eric Haase;/players/h/haaseer01.shtml;C;0;0;0;0;0;0;0;.250;.283;.295;.578;;;;;;;;;;0;0;
+Michael Lorenzen;/players/l/lorenmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chasen Shreve;/players/s/shrevch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Cisnero;/players/c/cisnejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tyler Holton;/players/h/holtoty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jason Foley;/players/f/foleyja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+TB: Jake Rogers 2; Riley Greene; Javier Báez; Akil Baddoo.
+
+
+GIDP: Jonathan Schoop (2).
+
+
+RBI: Javier Báez (8).
+
+
+2-out RBI: Javier Báez.
+
+
+Team LOB: 3.
+With RISP: 1 for 4.
+
+Pitching home
+Tyler Wells;/players/w/wellsty01.shtml;Tyler Wells; 7 ;3;0;0;1;5;0;2.70;23;95;61;40;12;9;6;11;1;0;75;;;0.441; 1.10; 0.27%; 1.13; 3.5
+Bryan Baker;/players/b/bakerbr01.shtml; H (4); 1 ;0;0;0;0;2;0;2.61;3;11;8;6;2;0;1;0;0;0;;0;0;0.120; 1.59; 0.07%; 1.63; 0.5
+Félix Bautista;/players/b/bautife01.shtml; W (2-1); 1 ;2;1;1;0;1;0;1.86;5;21;13;7;4;2;2;2;1;0;;0;0;-0.203; 3.61;-0.12%; 3.71; -0.5
+
+Pitching away
+Michael Lorenzen;/players/l/lorenmi01.shtml;Michael Lorenzen; 5 ;3;0;0;1;4;0;6.00;17;68;45;27;4;14;5;7;4;0;64;;;0.279; 1.11; 0.15%; 0.97; 2.5
+Chasen Shreve;/players/s/shrevch01.shtml;Chasen Shreve; 1 ;1;0;0;0;1;0;2.16;4;22;14;8;2;4;1;2;2;0;;0;0;0.075; 1.60; 0.04%; 1.40; 0.5
+José Cisnero;/players/c/cisnejo01.shtml;José Cisnero; 1 ;1;1;1;0;1;1;5.14;4;16;11;7;1;3;1;2;0;0;;0;0;-0.163; 0.96;-0.08%; 0.84; -0.5
+Tyler Holton;/players/h/holtoty01.shtml;Tyler Holton; 1.1;0;0;0;0;2;0;0.00;4;18;13;4;2;7;2;0;0;0;;0;0;0.088; 0.87; 0.05%; 0.76; 0.7
+Jason Foley;/players/f/foleyja01.shtml; L (0-1); 0 ;2;1;1;0;0;0;2.25;3;16;11;7;1;3;2;1;1;0;;0;0;-0.421; 3.32;-0.22%; 2.90; -1.6
+
+indiv_events
+
+Balks: Michael Lorenzen (1).
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: Michael Lorenzen (1).
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Brock Ballou, 1B - Vic Carapazza, 2B - Nick Mahrley, 3B - Adam Hamari, LF - (none), RF - (none).
+Time of Game: 2:25.
+Attendance: 18,772.
+Field Condition: Unknown.
+Start Time Weather: 80° F, Wind 8mph out to Leftfield, Sunny, No Precipitation.
+
+div_lineups
+Tigers
+1;Nick Maton;/players/m/matonni01.shtml;3B
+2;Riley Greene;/players/g/greenri03.shtml;CF
+3;Javier Báez;/players/b/baezja01.shtml;SS
+4;Kerry Carpenter;/players/c/carpeke01.shtml;RF
+5;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+6;Matt Vierling;/players/v/vierlma01.shtml;LF
+7;Miguel Cabrera;/players/c/cabremi01.shtml;DH
+8;Jonathan Schoop;/players/s/schoojo01.shtml;2B
+9;Jake Rogers;/players/r/rogerja03.shtml;C
+; Michael Lorenzen;/players/l/lorenmi01.shtml;P
+Orioles
+1;Cedric Mullins;/players/m/mullice01.shtml;CF
+2;Adley Rutschman;/players/r/rutscad01.shtml;C
+3;Ryan Mountcastle;/players/m/mountry01.shtml;1B
+4;Anthony Santander;/players/s/santaan02.shtml;DH
+5;Adam Frazier;/players/f/fraziad01.shtml;2B
+6;Austin Hays;/players/h/haysau01.shtml;LF
+7;Gunnar Henderson;/players/h/hendegu01.shtml;SS
+8;Ramón Urías;/players/u/uriasra01.shtml;3B
+9;Terrin Vavra;/players/v/vavrate01.shtml;RF
+; Tyler Wells;/players/w/wellsty01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t9;0-1;2;-2-;5,(2-2) BSFBX;R;DET;Javier Báez;Félix Bautista;-32%;57%;Single to LF (Line Drive to LF Line); Baddoo Scores
+b7;0-0;2;---;6,(3-2) BFBBF.X;R;BAL;Austin Hays;José Cisnero;24%;76%;Home Run (Fly Ball to Deep LF-CF)
+b9;1-1;1;1--;6,(3-2) BSCBB>X;;BAL;Anthony Santander;Jason Foley;19%;82%;Single to RF (Ground Ball); Mountcastle to 3B
+b9;1-1;1;1-3;3,(0-2) CFX;R;BAL;Adam Frazier;Jason Foley;18%;100%;Fielder's Choice 1B; Mountcastle Scores; Santander to 2B; Frazier to 1B
+t9;0-1;0;-2-;4,(1-2) C>B.FS;O;DET;Nick Maton;Félix Bautista;13%;78%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Tigers Batting, Tied 0-0, Orioles' Tyler Wells facing 1-2-3 
+t1;0-0;0;---;4,(1-2) SBSS;O;DET;Nick Maton;Tyler Wells;2%;52%;Strikeout Swinging
+t1;0-0;1;---;6,(2-2) CFBFBX;;DET;Riley Greene;Tyler Wells;-2%;50%;Single to 1B (Ground Ball)
+;;;;;;;;;Force Play Challenged by DET manager (A.J. Hinch): Original call overturned as shown.
+t1;0-0;1;1--;2,(0-1) CX;O;DET;Javier Báez;Tyler Wells;3%;53%;Flyball: CF (Deep CF-RF)
+t1;0-0;2;1--;5,(3-1) 1SBB1*BX;O;DET;Kerry Carpenter;Tyler Wells;2%;55%;Foul Popfly: 3B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Tigers 0, Orioles 0.
+Bottom of the 1st, Orioles Batting, Tied 0-0, Tigers' Michael Lorenzen facing 1-2-3 
+b1;0-0;0;---;2,(1-0) BX;;BAL;Cedric Mullins;Michael Lorenzen;4%;58%;Single to RF (Line Drive to Deep RF)
+b1;0-0;0;1--;6,(1-2) C1FFFBX;O;BAL;Adley Rutschman;Michael Lorenzen;-3%;55%;Flyball: RF (Deep 2B-1B)
+b1;0-0;1;1--;4,(2-1) 1CBBX;OO;BAL;Ryan Mountcastle;Michael Lorenzen;-5%;50%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Tigers 0, Orioles 0.
+Top of the 2nd, Tigers Batting, Tied 0-0, Orioles' Tyler Wells facing 5-6-7 
+t2;0-0;0;---;3,(0-2) CF.C;O;DET;Spencer Torkelson;Tyler Wells;2%;52%;Strikeout Looking
+t2;0-0;1;---;4,(1-2) FF.BX;O;DET;Matt Vierling;Tyler Wells;2%;54%;Groundout: 3B-1B (SS-3B Hole)
+t2;0-0;2;---;7,(2-2) BBSFFFX;O;DET;Miguel Cabrera;Tyler Wells;1%;55%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Orioles 0.
+Bottom of the 2nd, Orioles Batting, Tied 0-0, Tigers' Michael Lorenzen facing 4-5-6 
+b2;0-0;0;---;6,(2-2) CBFBFX;O;BAL;Anthony Santander;Michael Lorenzen;-2%;53%;Flyball: CF (Short CF)
+b2;0-0;1;---;3,(0-2) FSC;O;BAL;Adam Frazier;Michael Lorenzen;-2%;51%;Strikeout Looking
+b2;0-0;2;---;6,(3-2) BBBCCX;O;BAL;Austin Hays;Michael Lorenzen;-1%;50%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Orioles 0.
+Top of the 3rd, Tigers Batting, Tied 0-0, Orioles' Tyler Wells facing 8-9-1 
+t3;0-0;0;---;5,(2-2) FBFBX;O;DET;Jonathan Schoop;Tyler Wells;3%;53%;Popfly: SS (SS-2B)
+t3;0-0;1;---;5,(0-2) SCFFX;;DET;Jake Rogers;Tyler Wells;-3%;50%;Single to CF (Ground Ball thru SS-2B)
+t3;0-0;1;1--;3,(1-1) BSX;O;DET;Nick Maton;Tyler Wells;3%;53%;Flyball: LF (LF-CF)
+t3;0-0;2;1--;4,(1-2) BFS1S;O;DET;Riley Greene;Tyler Wells;3%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Tigers 0, Orioles 0.
+Bottom of the 3rd, Orioles Batting, Tied 0-0, Tigers' Michael Lorenzen facing 7-8-9 
+b3;0-0;0;---;6,(3-2) BFCBBX;O;BAL;Gunnar Henderson;Michael Lorenzen;-3%;53%;Lineout: RF (Deep CF-RF)
+b3;0-0;1;---;2,(1-0) BX;;BAL;Ramón Urías;Michael Lorenzen;3%;56%;Single to CF (Ground Ball thru SS-2B)
+b3;0-0;1;1--;2,(0-1) CX;OO;BAL;Terrin Vavra;Michael Lorenzen;-6%;50%;Ground Ball Double Play: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Tigers 0, Orioles 0.
+Top of the 4th, Tigers Batting, Tied 0-0, Orioles' Tyler Wells facing 3-4-5 
+t4;0-0;0;---;4,(2-1) FBBX;O;DET;Javier Báez;Tyler Wells;3%;53%;Foul Popfly: 1B
+t4;0-0;1;---;5,(3-1) FBBBX;O;DET;Kerry Carpenter;Tyler Wells;2%;55%;Flyball: RF
+t4;0-0;2;---;5,(2-2) CBFBS;O;DET;Spencer Torkelson;Tyler Wells;1%;56%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Orioles 0.
+Bottom of the 4th, Orioles Batting, Tied 0-0, Tigers' Michael Lorenzen facing 1-2-3 
+b4;0-0;0;---;6,(3-2) BBFBCB;;BAL;Cedric Mullins;Michael Lorenzen;4%;60%;Walk
+b4;0-0;0;1--;,(0-0) 11;;BAL;Adley Rutschman;Michael Lorenzen;3%;63%;Balk; Mullins to 2B
+b4;0-0;0;-2-;5,(1-2) 11.CBFF*S;O;BAL;Adley Rutschman;Michael Lorenzen;-5%;58%;Strikeout Swinging
+b4;0-0;1;-2-;2,(0-1) FX;O;BAL;Ryan Mountcastle;Michael Lorenzen;-4%;54%;Lineout: RF
+b4;0-0;2;-2-;2,(1-0) *BX;O;BAL;Anthony Santander;Michael Lorenzen;-4%;50%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Tigers 0, Orioles 0.
+Top of the 5th, Tigers Batting, Tied 0-0, Orioles' Tyler Wells facing 6-7-8 
+t5;0-0;0;---;7,(3-2) CBBFB.FB;;DET;Matt Vierling;Tyler Wells;-5%;45%;Walk
+t5;0-0;0;1--;3,(1-1) BTX;O;DET;Miguel Cabrera;Tyler Wells;4%;50%;Popfly: 1B (Short 1B Line)
+t5;0-0;1;1--;3,(0-2) SFX;OO;DET;Jonathan Schoop;Tyler Wells;7%;57%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Orioles 0.
+Bottom of the 5th, Orioles Batting, Tied 0-0, Tigers' Michael Lorenzen facing 5-6-7 
+b5;0-0;0;---;3,(0-2) CCS;O;BAL;Adam Frazier;Michael Lorenzen;-3%;54%;Strikeout Swinging
+b5;0-0;1;---;2,(1-0) BX;O;BAL;Austin Hays;Michael Lorenzen;-2%;51%;Groundout: 2B-1B
+b5;0-0;2;---;4,(1-2) SC.BX;;BAL;Gunnar Henderson;Michael Lorenzen;3%;55%;Double to RF (Line Drive to Deep CF-RF)
+b5;0-0;2;-2-;7,(2-2) CTFBBFT;O;BAL;Ramón Urías;Michael Lorenzen;-5%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Tigers 0, Orioles 0.
+Top of the 6th, Tigers Batting, Tied 0-0, Orioles' Tyler Wells facing 9-1-2 
+t6;0-0;0;---;2,(1-0) BX;;DET;Jake Rogers;Tyler Wells;-5%;45%;Single to 2B (Ground Ball to SS-2B)
+t6;0-0;0;1--;2,(1-0) BX;O;DET;Nick Maton;Tyler Wells;5%;50%;Flyball: CF (CF-RF)
+t6;0-0;1;1--;2,(1-0) BX;OO;DET;Riley Greene;Tyler Wells;8%;57%;Double Play: Lineout: 2B; Rogers out at 1B/2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Tigers 0, Orioles 0.
+Bottom of the 6th, Orioles Batting, Tied 0-0, Tigers' Chasen Shreve facing 9-1-2 
+;;;;;;;;;Chasen Shreve replaces Michael Lorenzen pitchingRyan McKenna pinch hits for Terrin Vavra (RF) batting 9th
+b6;0-0;0;---;7,(3-2) ..BBFFBFC;O;BAL;Ryan McKenna;Chasen Shreve;-3%;54%;Strikeout Looking
+b6;0-0;1;---;7,(3-2) BCFBBFX;;BAL;Cedric Mullins;Chasen Shreve;6%;61%;Double to RF (Line Drive to Deep CF-RF)
+b6;0-0;1;-2-;5,(2-2) BCCBX;O;BAL;Adley Rutschman;Chasen Shreve;-4%;56%;Groundout: 2B-1B (Weak SS-2B); Mullins to 3B
+b6;0-0;2;--3;3,(0-2) SSX;O;BAL;Ryan Mountcastle;Chasen Shreve;-6%;50%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Tigers 0, Orioles 0.
+Top of the 7th, Tigers Batting, Tied 0-0, Orioles' Tyler Wells facing 3-4-5 
+;;;;;;;;;Ryan McKenna moves from PH to RF 
+t7;0-0;0;---;2,(0-1) .FX;O;DET;Javier Báez;Tyler Wells;4%;54%;Flyball: RF
+t7;0-0;1;---;6,(3-2) BBSF.BT;O;DET;Kerry Carpenter;Tyler Wells;3%;57%;Strikeout Swinging
+t7;0-0;2;---;6,(3-2) CBBBCX;O;DET;Spencer Torkelson;Tyler Wells;2%;59%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Orioles 0.
+Bottom of the 7th, Orioles Batting, Tied 0-0, Tigers' José Cisnero facing 4-5-6 
+;;;;;;;;;José Cisnero replaces Chasen Shreve pitching
+b7;0-0;0;---;3,(0-2) .CSX;O;BAL;Anthony Santander;José Cisnero;-4%;55%;Flyball: RF (Deep RF)
+b7;0-0;1;---;3,(1-1) BTX;O;BAL;Adam Frazier;José Cisnero;-3%;52%;Groundout: C-1B
+b7;0-0;2;---;6,(3-2) BFBBF.X;R;BAL;Austin Hays;José Cisnero;24%;76%;Home Run (Fly Ball to Deep LF-CF)
+b7;1-0;2;---;4,(1-2) CBFC;O;BAL;Gunnar Henderson;José Cisnero;-1%;75%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Tigers 0, Orioles 1.
+Top of the 8th, Tigers Batting, Behind 0-1, Orioles' Bryan Baker facing 6-7-8 
+;;;;;;;;;Bryan Baker replaces Tyler Wells pitching
+t8;0-1;0;---;4,(1-2) .BFFT;O;DET;Matt Vierling;Bryan Baker;5%;80%;Strikeout Swinging
+t8;0-1;1;---;3,(1-1) BTX;O;DET;Miguel Cabrera;Bryan Baker;4%;84%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;Zach McKinstry pinch hits for Jonathan Schoop (2B) batting 8th
+t8;0-1;2;---;4,(1-2) .BFSS;O;DET;Zach McKinstry;Bryan Baker;3%;87%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Orioles 1.
+Bottom of the 8th, Orioles Batting, Ahead 1-0, Tigers' Tyler Holton facing 8-9-1 
+;;;;;;;;;Tyler Holton replaces José Cisnero pitchingZach McKinstry moves from PH to 2B 
+b8;1-0;0;---;3,(0-2) ..CCS;O;BAL;Ramón Urías;Tyler Holton;-1%;86%;Strikeout Swinging
+b8;1-0;1;---;4,(1-2) CFBX;O;BAL;Ryan McKenna;Tyler Holton;-1%;85%;Groundout: SS-1B
+b8;1-0;2;---;7,(3-2) BSC.BFBC;O;BAL;Cedric Mullins;Tyler Holton;-1%;84%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Orioles 1.
+Top of the 9th, Tigers Batting, Behind 0-1, Orioles' Félix Bautista facing 9-1-2 
+;;;;;;;;;Félix Bautista replaces Bryan Baker pitchingAkil Baddoo pinch hits for Jake Rogers (C) batting 9th
+t9;0-1;0;---;2,(0-1) ..CX;;DET;Akil Baddoo;Félix Bautista;-12%;72%;Single to RF (Ground Ball)
+t9;0-1;0;1--;2,(0-1) C>B;;DET;Nick Maton;Félix Bautista;-8%;64%;Baddoo Steals 2B
+t9;0-1;0;-2-;4,(1-2) C>B.FS;O;DET;Nick Maton;Félix Bautista;13%;78%;Strikeout Swinging
+t9;0-1;1;-2-;6,(3-2) BBSF*BX;O;DET;Riley Greene;Félix Bautista;11%;89%;Groundout: SS-1B
+t9;0-1;2;-2-;5,(2-2) BSFBX;R;DET;Javier Báez;Félix Bautista;-32%;57%;Single to LF (Line Drive to LF Line); Baddoo Scores
+t9;1-1;2;1--;1,(0-0) 1>B;;DET;Kerry Carpenter;Félix Bautista;-4%;53%;Báez Steals 2B
+t9;1-1;2;-2-;4,(2-1) 1>B.SBX;O;DET;Kerry Carpenter;Félix Bautista;10%;64%;Flyball: LF (LF-CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Tigers 1, Orioles 1.
+Bottom of the 9th, Orioles Batting, Tied 1-1, Tigers' Tyler Holton facing 2-3-4 
+;;;;;;;;;Eric Haase replaces Akil Baddoo (PH) playing C batting 9th
+b9;1-1;0;---;4,(1-2) .BCCX;O;BAL;Adley Rutschman;Tyler Holton;-6%;58%;Groundout: 2B-1B
+;;;;;;;;;Jason Foley replaces Tyler Holton pitching
+b9;1-1;1;---;7,(2-2) .BCF.BFFX;;BAL;Ryan Mountcastle;Jason Foley;5%;63%;Single to CF (Line Drive)
+b9;1-1;1;1--;6,(3-2) BSCBB>X;;BAL;Anthony Santander;Jason Foley;19%;82%;Single to RF (Ground Ball); Mountcastle to 3B
+b9;1-1;1;1-3;3,(0-2) CFX;R;BAL;Adam Frazier;Jason Foley;18%;100%;Fielder's Choice 1B; Mountcastle Scores; Santander to 2B; Frazier to 1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Tigers 1, Orioles 2.

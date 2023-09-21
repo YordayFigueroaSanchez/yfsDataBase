@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movimiento Continuo de Números</title>
+    <style>
+        /* Estilo de ejemplo para los números */
+        .numero-container {
+            position: relative;
+            width: 100%;
+            height: 100px;
+            overflow: hidden;
+        }
+
+        .numero {
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- Contenedor para los números -->
+    <div class="numero-container">
+        <!-- Elementos con la clase "numero" que deseas mover -->
+        <div class="numero">1</div>
+        <div class="numero">2</div>
+        <div class="numero">3</div>
+    </div>
+
+    <script>
+        const numeros = document.querySelectorAll('.numero');
+        let leftPosition = 0; // Inicializar la posición izquierda
+
+        function moverNumeros() {
+            leftPosition++; // Incrementar la posición izquierda
+            numeros.forEach(numero => {
+                numero.style.left = leftPosition + 'px';
+            });
+
+            // Reiniciar posición cuando los números salen del contenedor
+            if (leftPosition > window.innerWidth) {
+                leftPosition = -100; // Puedes ajustar el valor según tus necesidades
+            }
+
+            // Llamar a la función en el siguiente cuadro de animación
+            requestAnimationFrame(moverNumeros);
+        }
+
+        // Iniciar la animación
+        moverNumeros();
+    </script>
+</body>
+</html>

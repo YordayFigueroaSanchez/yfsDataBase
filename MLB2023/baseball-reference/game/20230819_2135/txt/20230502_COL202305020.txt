@@ -1,0 +1,256 @@
+
+Scorebox Meta
+20230502
+6:40 p.m. Local
+19517
+Coors Field
+132
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/MIL-2023.png;/teams/MIL/2023.shtml;0;0;0;0;0;2;0;0;0;2;8;0
+https://cdn.ssref.net/req/202308101/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;0;1;1;0;0;0;1;X;3;9;0
+
+Batting home
+Jurickson Profar;/players/p/profaju01.shtml;LF;4;0;1;0;0;0;4;.220;.298;.340;.638;7;5;-0.049; 0.83;0.023;-0.072;-0.01%; 0.30; -0.5;3;0;
+Kris Bryant;/players/b/bryankr01.shtml;DH;2;0;1;0;1;1;4;.301;.374;.427;.801;15;9;0.035; 0.77;0.063;-0.028; 0.01%; 0.28; 0.4;;;HBP
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;3;0;0;0;1;3;4;.223;.302;.417;.719;20;12;-0.077; 1.06;0.018;-0.095;-0.02%; 0.39; -0.7;0;2;
+C.J. Cron;/players/c/croncj01.shtml;1B;3;0;1;0;1;1;4;.245;.280;.480;.761;17;9;0.075; 1.19;0.139;-0.065; 0.02%; 0.43; 0.1;11;0;2B
+Yonathan Daza;/players/d/dazayo01.shtml;PR-CF;0;1;0;0;0;0;0;.270;.304;.351;.655;;;0.000;;0.000;0.000;0%;; 0.0;0;0;
+Elias Díaz;/players/d/diazel01.shtml;C;4;1;2;2;0;2;4;.330;.385;.500;.885;15;11;0.172; 1.22;0.229;-0.057; 0.04%; 0.44; 1.0;5;0;HR
+Randal Grichuk;/players/g/grichra01.shtml;RF;4;0;2;0;0;1;4;.500;.500;.667;1.167;11;8;0.033; 0.89;0.073;-0.040; 0.01%; 0.32; 0.2;1;0;
+Harold Castro;/players/c/castrha01.shtml;2B;4;0;1;0;0;1;4;.217;.208;.261;.469;10;8;-0.094; 1.05;0.067;-0.162;-0.02%; 0.38; -0.5;0;5;2B,2·GDP
+Brenton Doyle;/players/d/doylebr02.shtml;CF;3;0;0;0;0;2;3;.150;.227;.200;.427;13;7;-0.078; 0.84;0.000;-0.078;-0.02%; 0.30; -1.0;1;0;
+Mike Moustakas;/players/m/moustmi01.shtml;1B;0;0;0;0;0;0;0;.222;.321;.378;.699;;;;;;;;;;1;0;
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;3;1;1;1;0;1;3;.217;.265;.337;.602;10;7;-0.033; 1.09;0.107;-0.140;-0.01%; 0.39; -0.8;4;7;HR
+Ryan Feltner;/players/f/feltnry01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Jake Bird;/players/b/birdja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Justin Lawrence;/players/l/lawreju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Pierce Johnson;/players/j/johnspi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Harold Castro (2, off Freddy Peralta); C.J. Cron (6, off Peter Strzelecki).
+
+
+HR: Ezequiel Tovar (1, off Freddy Peralta, 3rd inn, 0 on, 1 out to Deep LF-CF); Elias Díaz (3, off Freddy Peralta, 4th inn, 0 on, 0 outs to Deep LF).
+
+
+HBP: Kris Bryant (2, by Joel Payamps).
+
+
+TB: Elias Díaz 5; Ezequiel Tovar 4; Harold Castro 2; C.J. Cron 2; Randal Grichuk 2; Kris Bryant; Jurickson Profar.
+
+
+GIDP: Harold Castro 2 (2).
+
+
+RBI: Elias Díaz 2 (13); Ezequiel Tovar (9).
+
+
+Team LOB: 7.
+With RISP: 1 for 5.
+
+Batting away
+Christian Yelich;/players/y/yelicch01.shtml;LF;4;1;1;0;0;0;4;.224;.314;.346;.660;11;8;-0.023; 1.25;0.077;-0.101;-0.02%; 1.44; -0.2;1;0;2B
+Jesse Winker;/players/w/winkeje01.shtml;DH;3;0;2;0;1;1;4;.250;.358;.304;.662;20;10;0.109; 1.16;0.128;-0.019; 0.07%; 1.33; 0.8;;;
+Owen Miller;/players/m/milleow01.shtml;PR-DH-DH;0;0;0;0;0;0;0;.273;.319;.341;.660;;;;;;;;;;;;
+Willy Adames;/players/a/adamewi01.shtml;SS;4;1;0;0;0;1;4;.231;.339;.413;.752;9;7;-0.207; 1.70;0.000;-0.207;-0.14%; 1.96; -1.4;2;3;GDP
+Rowdy Tellez;/players/t/tellero01.shtml;1B;4;0;2;1;0;0;4;.258;.340;.573;.913;11;7;0.085; 1.83;0.196;-0.111; 0.06%; 2.11; 1.1;5;0;2·2B
+William Contreras;/players/c/contrwi02.shtml;C;4;0;1;1;0;0;4;.293;.376;.402;.779;7;6;0.050; 1.80;0.136;-0.086; 0.03%; 2.08; -0.5;13;0;2B
+Mike Brosseau;/players/b/brossmi01.shtml;PR;0;0;0;0;0;0;0;.224;.283;.449;.732;;;;;;;;;;;;
+Brian Anderson;/players/a/anderbr06.shtml;3B;4;0;0;0;0;0;4;.245;.319;.441;.760;15;8;-0.203; 1.88;0.000;-0.203;-0.14%; 2.17; -1.2;0;0;
+Brice Turang;/players/t/turanbr02.shtml;2B;4;0;2;0;0;2;4;.228;.274;.329;.603;11;9;-0.088; 1.84;0.087;-0.176;-0.06%; 2.12; 0.2;0;3;SB
+Tyrone Taylor;/players/t/tayloty01.shtml;RF;3;0;0;0;0;1;3;.000;.000;.000;.000;15;10;-0.167; 1.42;0.000;-0.167;-0.11%; 1.63; -1.5;1;1;GDP
+Joey Wiemer;/players/w/wiemejo01.shtml;CF;3;0;0;0;0;0;3;.218;.299;.356;.655;15;9;-0.070; 0.82;0.000;-0.070;-0.05%; 0.94; -0.6;2;0;
+Freddy Peralta;/players/p/peralfr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joel Payamps;/players/p/payamjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Peter Strzelecki;/players/s/strzepe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Rowdy Tellez 2 (4, 2 off Ryan Feltner); Christian Yelich (4, off Ryan Feltner); William Contreras (6, off Pierce Johnson).
+
+
+TB: Rowdy Tellez 4; William Contreras 2; Brice Turang 2; Jesse Winker 2; Christian Yelich 2.
+
+
+GIDP: Tyrone Taylor (1); Willy Adames (4).
+
+
+RBI: William Contreras (8); Rowdy Tellez (21).
+
+
+Team LOB: 5.
+With RISP: 1 for 9.
+
+Pitching home
+Ryan Feltner;/players/f/feltnry01.shtml;Ryan Feltner; 5.1;6;2;2;1;3;0;4.45;22;74;48;30;5;13;8;10;7;0;50;;;0.053; 1.17; 0.01%; 0.42; 1.1
+Jake Bird;/players/b/birdja01.shtml; BS (1); 1.2;0;0;0;0;1;0;3.38;5;17;11;5;3;3;3;1;0;0;;2;1;0.162; 1.57; 0.03%; 0.57; 1.1
+Justin Lawrence;/players/l/lawreju01.shtml; W (1-1); 1 ;1;0;0;0;0;0;1.80;3;11;7;5;0;2;2;1;0;0;;0;0;0.118; 1.94; 0.03%; 0.70; 0.6
+Pierce Johnson;/players/j/johnspi01.shtml; S (4); 1 ;1;0;0;0;1;0;3.97;4;12;8;4;2;2;1;2;1;0;;0;0;0.183; 3.47; 0.04%; 1.26; 0.6
+
+Pitching away
+Freddy Peralta;/players/p/peralfr01.shtml;Freddy Peralta; 6 ;7;2;2;3;10;2;3.63;26;94;61;29;24;8;3;10;4;0;57;;;0.120; 0.90; 0.08%; 1.03; 1.6
+Joel Payamps;/players/p/payamjo01.shtml;Joel Payamps; 1 ;0;0;0;0;2;0;2.70;4;14;8;3;3;2;1;0;0;0;;0;0;0.095; 1.27; 0.07%; 1.46; 0.6
+Peter Strzelecki;/players/s/strzepe01.shtml; L (2-1); 1 ;2;1;1;0;0;0;1.23;4;10;7;4;0;3;2;2;1;0;;0;0;-0.199; 1.36;-0.14%; 1.56; -0.4
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Joel Payamps (1; Kris Bryant).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Joel Payamps (1; Kris Bryant).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Edwin Jimenez, 1B - James Hoye, 2B - D.J. Reyburn, 3B - John Libka, LF - (none), RF - (none).
+Time of Game: 2:12.
+Attendance: 19,517.
+Field Condition: Unknown.
+Start Time Weather: 66° F, Wind 9mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Brewers
+1;Christian Yelich;/players/y/yelicch01.shtml;LF
+2;Jesse Winker;/players/w/winkeje01.shtml;DH
+3;Willy Adames;/players/a/adamewi01.shtml;SS
+4;Rowdy Tellez;/players/t/tellero01.shtml;1B
+5;William Contreras;/players/c/contrwi02.shtml;C
+6;Brian Anderson;/players/a/anderbr06.shtml;3B
+7;Brice Turang;/players/t/turanbr02.shtml;2B
+8;Tyrone Taylor;/players/t/tayloty01.shtml;RF
+9;Joey Wiemer;/players/w/wiemejo01.shtml;CF
+; Freddy Peralta;/players/p/peralfr01.shtml;P
+Rockies
+1;Jurickson Profar;/players/p/profaju01.shtml;LF
+2;Kris Bryant;/players/b/bryankr01.shtml;DH
+3;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+4;C.J. Cron;/players/c/croncj01.shtml;1B
+5;Elias Díaz;/players/d/diazel01.shtml;C
+6;Randal Grichuk;/players/g/grichra01.shtml;RF
+7;Harold Castro;/players/c/castrha01.shtml;2B
+8;Brenton Doyle;/players/d/doylebr02.shtml;CF
+9;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+; Ryan Feltner;/players/f/feltnry01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t6;0-2;1;1-3;1,(0-0) X;R;MIL;Rowdy Tellez;Ryan Feltner;-16%;51%;Double to CF (Line Drive to Deep CF); Yelich Scores; Adames to 3B
+t9;2-3;1;---;1,(0-0) X;;MIL;William Contreras;Pierce Johnson;-14%;76%;Ground-rule Double (Fly Ball to Deep LF-CF)
+b8;2-2;0;-2-;3,(1-1) .CBX;R;COL;Elias Díaz;Peter Strzelecki;13%;88%;Single to RF (Ground Ball); Daza Scores
+t9;2-3;2;--3;3,(0-2) SC*S;O;MIL;Brice Turang;Pierce Johnson;13%;100%;Strikeout Swinging
+b8;2-2;0;---;3,(1-1) ..CBX;;COL;C.J. Cron;Peter Strzelecki;13%;74%;Double to CF (Line Drive to Deep CF-RF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Brewers Batting, Tied 0-0, Rockies' Ryan Feltner facing 1-2-3 
+t1;0-0;0;---;4,(1-2) CBSX;O;MIL;Christian Yelich;Ryan Feltner;2%;52%;Flyball: LF (Deep LF)
+t1;0-0;1;---;1,(0-0) X;;MIL;Jesse Winker;Ryan Feltner;-2%;50%;Single to CF (Line Drive to Deep CF-RF)
+t1;0-0;1;1--;3,(0-2) CSC;O;MIL;Willy Adames;Ryan Feltner;3%;53%;Strikeout Looking
+t1;0-0;2;1--;1,(0-0) 1X;;MIL;Rowdy Tellez;Ryan Feltner;-3%;49%;Double to RF (Line Drive to Deep RF Line); Winker to 3B
+t1;0-0;2;-23;3,(1-1) FBX;O;MIL;William Contreras;Ryan Feltner;6%;55%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Brewers 0, Rockies 0.
+Bottom of the 1st, Rockies Batting, Tied 0-0, Brewers' Freddy Peralta facing 1-2-3 
+b1;0-0;0;---;3,(1-1) BCX;O;COL;Jurickson Profar;Freddy Peralta;-2%;53%;Flyball: CF (Deep CF-RF)
+b1;0-0;1;---;7,(3-2) BSBFFBB;;COL;Kris Bryant;Freddy Peralta;2%;55%;Walk
+b1;0-0;1;1--;5,(1-2) BSF.FT;O;COL;Ryan McMahon;Freddy Peralta;-3%;52%;Strikeout Swinging
+b1;0-0;2;1--;4,(1-2) SBCX;O;COL;C.J. Cron;Freddy Peralta;-2%;50%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Brewers 0, Rockies 0.
+Top of the 2nd, Brewers Batting, Tied 0-0, Rockies' Ryan Feltner facing 6-7-8 
+t2;0-0;0;---;3,(1-1) CBX;O;MIL;Brian Anderson;Ryan Feltner;2%;52%;Groundout: 2B-P
+t2;0-0;1;---;2,(1-0) BX;;MIL;Brice Turang;Ryan Feltner;-3%;50%;Single to LF (Line Drive to Deep LF-CF)
+t2;0-0;1;1--;3,(1-1) BF1>B;;MIL;Tyrone Taylor;Ryan Feltner;-1%;48%;Turang Steals 2B
+t2;0-0;1;-2-;7,(2-2) BF1>B.FFFC;O;MIL;Tyrone Taylor;Ryan Feltner;4%;52%;Strikeout Looking
+t2;0-0;2;-2-;7,(2-2) SF.*BF*BFX;O;MIL;Joey Wiemer;Ryan Feltner;3%;55%;Foul Popfly: 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 0, Rockies 0.
+Bottom of the 2nd, Rockies Batting, Tied 0-0, Brewers' Freddy Peralta facing 5-6-7 
+b2;0-0;0;---;6,(2-2) CS.BFBS;O;COL;Elias Díaz;Freddy Peralta;-2%;53%;Strikeout Swinging
+b2;0-0;1;---;3,(0-2) CS*S;O;COL;Randal Grichuk;Freddy Peralta;-2%;51%;Strikeout Swinging
+b2;0-0;2;---;4,(1-2) SSBS;O;COL;Harold Castro;Freddy Peralta;-1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 0, Rockies 0.
+Top of the 3rd, Brewers Batting, Tied 0-0, Rockies' Ryan Feltner facing 1-2-3 
+t3;0-0;0;---;3,(1-1) BSX;O;MIL;Christian Yelich;Ryan Feltner;3%;53%;Groundout: 1B unassisted
+t3;0-0;1;---;7,(3-2) BBBCC.FFA;O;MIL;Jesse Winker;Ryan Feltner;2%;55%;Strikeout
+t3;0-0;2;---;2,(1-0) BX;O;MIL;Willy Adames;Ryan Feltner;1%;56%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 0, Rockies 0.
+Bottom of the 3rd, Rockies Batting, Tied 0-0, Brewers' Freddy Peralta facing 8-9-1 
+b3;0-0;0;---;1,(0-0) X;O;COL;Brenton Doyle;Freddy Peralta;-3%;53%;Flyball: CF (Short CF-RF)
+b3;0-0;1;---;3,(2-0) BBX;R;COL;Ezequiel Tovar;Freddy Peralta;11%;64%;Home Run (Fly Ball to Deep LF-CF)
+b3;1-0;1;---;2,(1-0) BX;;COL;Jurickson Profar;Freddy Peralta;2%;66%;Single to RF (Line Drive)
+b3;1-0;1;1--;4,(0-2) SS1FC;O;COL;Kris Bryant;Freddy Peralta;-3%;64%;Strikeout Looking
+b3;1-0;2;1--;6,(3-2) BBBCF>B;;COL;Ryan McMahon;Freddy Peralta;2%;65%;Walk; Profar to 2B
+b3;1-0;2;12-;6,(2-2) SSFB*BS;O;COL;C.J. Cron;Freddy Peralta;-4%;61%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Brewers 0, Rockies 1.
+Top of the 4th, Brewers Batting, Behind 0-1, Rockies' Ryan Feltner facing 4-5-6 
+t4;0-1;0;---;3,(1-1) BCX;O;MIL;Rowdy Tellez;Ryan Feltner;3%;64%;Flyball: LF (Short LF)
+t4;0-1;1;---;1,(0-0) X;O;MIL;William Contreras;Ryan Feltner;2%;66%;Lineout: CF (Deep CF-RF)
+t4;0-1;2;---;7,(3-2) CS.BBBFX;O;MIL;Brian Anderson;Ryan Feltner;1%;68%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 0, Rockies 1.
+Bottom of the 4th, Rockies Batting, Ahead 1-0, Brewers' Freddy Peralta facing 5-6-7 
+b4;1-0;0;---;2,(0-1) FX;R;COL;Elias Díaz;Freddy Peralta;9%;77%;Home Run (Fly Ball to Deep LF)
+b4;2-0;0;---;2,(0-1) CX;;COL;Randal Grichuk;Freddy Peralta;2%;80%;Single to LF (Line Drive to Deep LF-CF)
+b4;2-0;0;1--;1,(0-0) X;;COL;Harold Castro;Freddy Peralta;7%;86%;Double to CF (Line Drive to Deep LF-CF); Grichuk to 3B
+b4;2-0;0;-23;6,(3-2) BS*BFBS;O;COL;Brenton Doyle;Freddy Peralta;-3%;83%;Strikeout Swinging
+b4;2-0;1;-23;2,(0-1) *SX;OO;COL;Ezequiel Tovar;Freddy Peralta;-10%;73%;Double Play: Flyball: RF (RF Line); Grichuk out at Hm/RF-C
+;;;;;;;;;1 run, 3 hits, 0 errors, 1 LOB. Brewers 0, Rockies 2.
+Top of the 5th, Brewers Batting, Behind 0-2, Rockies' Ryan Feltner facing 7-8-9 
+t5;0-2;0;---;3,(1-1) CBX;;MIL;Brice Turang;Ryan Feltner;-5%;69%;Single to RF (Line Drive to Deep CF-RF)
+t5;0-2;0;1--;1,(0-0) X;OO;MIL;Tyrone Taylor;Ryan Feltner;10%;78%;Ground Ball Double Play: 2B-SS-1B
+t5;0-2;2;---;6,(3-2) BBBCFX;O;MIL;Joey Wiemer;Ryan Feltner;1%;80%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Brewers 0, Rockies 2.
+Bottom of the 5th, Rockies Batting, Ahead 2-0, Brewers' Freddy Peralta facing 1-2-3 
+b5;2-0;0;---;1,(0-0) X;O;COL;Jurickson Profar;Freddy Peralta;-2%;78%;Flyball: 1B (Deep 1B)
+b5;2-0;1;---;2,(0-1) SX;;COL;Kris Bryant;Freddy Peralta;2%;80%;Single to RF (Line Drive)
+b5;2-0;1;1--;3,(0-2) FF*S;O;COL;Ryan McMahon;Freddy Peralta;-2%;78%;Strikeout Swinging
+b5;2-0;2;1--;4,(3-0) BBBB;;COL;C.J. Cron;Freddy Peralta;1%;79%;Walk; Bryant to 2B
+b5;2-0;2;12-;4,(1-2) F*S.BS;O;COL;Elias Díaz;Freddy Peralta;-3%;76%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Brewers 0, Rockies 2.
+Top of the 6th, Brewers Batting, Behind 0-2, Rockies' Ryan Feltner facing 1-2-3 
+t6;0-2;0;---;1,(0-0) X;;MIL;Christian Yelich;Ryan Feltner;-8%;68%;Double to CF (Line Drive to Deep LF-CF)
+t6;0-2;0;-2-;6,(3-2) CB*BBC.B;;MIL;Jesse Winker;Ryan Feltner;-5%;63%;Walk
+t6;0-2;0;12-;2,(1-0) BX;O;MIL;Willy Adames;Ryan Feltner;5%;68%;Groundout: 2B-SS/Forceout at 2B; Yelich to 3B; Adames to 1B
+t6;0-2;1;1-3;1,(0-0) X;R;MIL;Rowdy Tellez;Ryan Feltner;-16%;51%;Double to CF (Line Drive to Deep CF); Yelich Scores; Adames to 3B
+;;;;;;;;;Jake Bird replaces Ryan Feltner pitching
+t6;1-2;1;-23;2,(0-1) .CX;RO;MIL;William Contreras;Jake Bird;1%;52%;Groundout: SS-1B; Adames Scores; Tellez to 3B
+t6;2-2;2;--3;3,(2-0) BBX;O;MIL;Brian Anderson;Jake Bird;6%;58%;Flyball: RF (CF-RF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Brewers 2, Rockies 2.
+Bottom of the 6th, Rockies Batting, Tied 2-2, Brewers' Freddy Peralta facing 6-7-8 
+b6;2-2;0;---;3,(2-0) BBX;;COL;Randal Grichuk;Freddy Peralta;5%;63%;Single to LF (Ground Ball)
+b6;2-2;0;1--;4,(1-2) C*BSX;OO;COL;Harold Castro;Freddy Peralta;-11%;52%;Ground Ball Double Play: 2B-SS-1B (Deep 2B)
+b6;2-2;2;---;6,(3-2) FBBBFS;O;COL;Brenton Doyle;Freddy Peralta;-2%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Brewers 2, Rockies 2.
+Top of the 7th, Brewers Batting, Tied 2-2, Rockies' Jake Bird facing 7-8-9 
+t7;2-2;0;---;3,(0-2) CSS;O;MIL;Brice Turang;Jake Bird;4%;54%;Strikeout Swinging
+t7;2-2;1;---;7,(3-2) BCBS.BFX;O;MIL;Tyrone Taylor;Jake Bird;3%;57%;Groundout: SS-1B (Weak SS)
+t7;2-2;2;---;2,(1-0) BX;O;MIL;Joey Wiemer;Jake Bird;2%;60%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 2, Rockies 2.
+Bottom of the 7th, Rockies Batting, Tied 2-2, Brewers' Joel Payamps facing 9-1-2 
+;;;;;;;;;Joel Payamps replaces Freddy Peralta pitching
+b7;2-2;0;---;5,(1-2) .BSFFS;O;COL;Ezequiel Tovar;Joel Payamps;-4%;55%;Strikeout Swinging
+b7;2-2;1;---;1,(0-0) X;O;COL;Jurickson Profar;Joel Payamps;-3%;52%;Groundout: 2B-1B (2B-1B)
+b7;2-2;2;---;2,(1-0) BH;;COL;Kris Bryant;Joel Payamps;2%;54%;Hit By Pitch
+b7;2-2;2;1--;6,(3-2) C*BCBB>S;O;COL;Ryan McMahon;Joel Payamps;-4%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Brewers 2, Rockies 2.
+Top of the 8th, Brewers Batting, Tied 2-2, Rockies' Justin Lawrence facing 1-2-3 
+;;;;;;;;;Justin Lawrence replaces Jake Bird pitching
+t8;2-2;0;---;3,(1-1) .CBX;O;MIL;Christian Yelich;Justin Lawrence;5%;55%;Flyball: LF (Deep LF)
+t8;2-2;1;---;6,(3-2) CF.BBBX;;MIL;Jesse Winker;Justin Lawrence;-5%;50%;Single to RF (Ground Ball)
+;;;;;;;;;Owen Miller pinch runs for Jesse Winker (DH) batting 2nd
+t8;2-2;1;1--;2,(0-1) .FX;OO;MIL;Willy Adames;Justin Lawrence;12%;62%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Brewers 2, Rockies 2.
+Bottom of the 8th, Rockies Batting, Tied 2-2, Brewers' Peter Strzelecki facing 4-5-6 
+;;;;;;;;;Peter Strzelecki replaces Joel Payamps pitching
+b8;2-2;0;---;3,(1-1) ..CBX;;COL;C.J. Cron;Peter Strzelecki;13%;74%;Double to CF (Line Drive to Deep CF-RF)
+;;;;;;;;;Yonathan Daza pinch runs for C.J. Cron (1B) batting 4th
+b8;2-2;0;-2-;3,(1-1) .CBX;R;COL;Elias Díaz;Peter Strzelecki;13%;88%;Single to RF (Ground Ball); Daza Scores
+b8;3-2;0;1--;3,(1-1) BCX;O;COL;Randal Grichuk;Peter Strzelecki;-2%;86%;Flyball: LF (Short LF)
+b8;3-2;1;1--;1,(0-0) X;OO;COL;Harold Castro;Peter Strzelecki;-4%;82%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Brewers 2, Rockies 3.
+Top of the 9th, Brewers Batting, Behind 2-3, Rockies' Pierce Johnson facing 4-5-6 
+;;;;;;;;;Pierce Johnson replaces Justin Lawrence pitchingMike Moustakas replaces Brenton Doyle (CF) playing 1B batting 8thYonathan Daza moves from PR to CF 
+t9;2-3;0;---;6,(3-2) ...BCF.BBX;O;MIL;Rowdy Tellez;Pierce Johnson;8%;90%;Lineout: SS (Short CF)
+t9;2-3;1;---;1,(0-0) X;;MIL;William Contreras;Pierce Johnson;-14%;76%;Ground-rule Double (Fly Ball to Deep LF-CF)
+;;;;;;;;;Mike Brosseau pinch runs for William Contreras (C) batting 5th
+t9;2-3;1;-2-;2,(1-0) .*BX;O;MIL;Brian Anderson;Pierce Johnson;10%;87%;Groundout: SS-1B (Deep SS); Brosseau to 3B
+t9;2-3;2;--3;3,(0-2) SC*S;O;MIL;Brice Turang;Pierce Johnson;13%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 2, Rockies 3.

@@ -1,0 +1,254 @@
+
+Scorebox Meta
+20230426
+6:38 p.m. Local
+24524
+Angel Stadium of Anaheim
+150
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/OAK-2023.png;/teams/OAK/2023.shtml;1;0;1;0;1;0;0;0;0;3;6;3
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;5;1;0;2;1;0;2;X;11;12;1
+
+Batting home
+Taylor Ward;/players/w/wardta01.shtml;LF;3;1;0;0;2;0;5;.221;.324;.337;.661;20;7;-0.032; 0.45;0.009;-0.042;-0.02%; 0.43; -0.3;1;0;
+Mike Trout;/players/t/troutmi01.shtml;CF;4;1;0;0;1;2;5;.311;.415;.578;.993;19;12;0.008; 0.40;0.032;-0.024; 0.01%; 0.38; 0.2;3;0;
+Brett Phillips;/players/p/phillbr02.shtml;CF;0;0;0;0;0;0;0;.000;.333;.000;.333;;;;;;;;;;1;0;
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;5;1;2;3;0;1;5;.261;.330;.489;.819;22;13;0.010; 0.44;0.026;-0.016; 0.01%; 0.42; 2.6;;;HR
+Anthony Rendon;/players/r/rendoan01.shtml;3B;5;1;2;0;0;0;5;.241;.356;.276;.632;17;10;0.012; 0.39;0.040;-0.028; 0.01%; 0.37; -0.4;0;5;
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;4;3;2;1;1;0;5;.280;.356;.581;.936;12;5;0.129; 0.51;0.131;-0.002; 0.07%; 0.48; 1.5;2;0;HR
+Brandon Drury;/players/d/drurybr01.shtml;2B;5;2;2;3;0;3;5;.238;.267;.463;.730;16;11;0.201; 0.60;0.209;-0.009; 0.11%; 0.57; 2.3;2;0;HR,2B
+Gio Urshela;/players/u/urshegi01.shtml;1B;4;0;1;0;0;2;4;.289;.314;.349;.663;18;13;-0.042; 0.45;0.015;-0.057;-0.02%; 0.42; -0.6;9;2;
+Matt Thaiss;/players/t/thaisma01.shtml;C;3;1;2;2;1;0;4;.217;.379;.435;.814;10;5;0.123; 0.52;0.126;-0.003; 0.07%; 0.49; 1.6;7;0;2·2B
+Zach Neto;/players/n/netoza01.shtml;SS;4;1;1;1;0;2;4;.214;.313;.310;.622;12;8;0.053; 0.41;0.071;-0.018; 0.03%; 0.39; 0.1;0;4;2B
+Patrick Sandoval;/players/s/sandopa02.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Chase Silseth;/players/s/silsech01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+2B: Brandon Drury (4, off Luis Medina); Matt Thaiss 2 (2, 1 off Shintaro Fujinami, 1 off Luis Medina); Zach Neto (4, off Luis Medina).
+
+
+HR: Hunter Renfroe (7, off Luis Medina, 3rd inn, 0 on, 0 outs to Deep LF-CF); Brandon Drury (4, off Luis Medina, 5th inn, 1 on, 0 outs to Deep LF-CF); Shohei Ohtani (6, off Chad Smith, 8th inn, 1 on, 1 out to Deep CF).
+
+
+TB: Brandon Drury 6; Hunter Renfroe 5; Shohei Ohtani 5; Matt Thaiss 4; Zach Neto 2; Anthony Rendon 2; Gio Urshela.
+
+
+RBI: Shohei Ohtani 3 (16); Brandon Drury 3 (14); Matt Thaiss 2 (4); Hunter Renfroe (19); Zach Neto (4).
+
+
+Team LOB: 7.
+With RISP: 3 for 13.
+
+Batting away
+Esteury Ruiz;/players/r/ruizes01.shtml;CF;3;1;2;1;0;0;4;.270;.343;.326;.669;12;9;0.207; 1.04;0.212;-0.005; 0.03%; 0.28; 2.1;1;0;4·SB,HBP
+Jordan Diaz;/players/d/diazjo03.shtml;2B;4;0;0;0;0;2;4;.238;.238;.429;.667;18;12;-0.142; 1.12;0.000;-0.142;-0.02%; 0.31; -1.7;0;0;
+Brent Rooker;/players/r/rookebr01.shtml;LF;3;0;0;1;1;0;4;.315;.433;.685;1.118;19;12;-0.069; 1.12;0.022;-0.090;-0.01%; 0.31; -0.6;1;0;
+Jesús Aguilar;/players/a/aguilje01.shtml;1B;4;0;0;0;0;2;4;.246;.303;.449;.752;21;14;-0.043; 0.41;0.000;-0.043;-0.01%; 0.11; -0.9;7;1;
+Carlos Pérez;/players/p/perezca02.shtml;C;3;0;0;0;1;0;4;.375;.417;.531;.948;17;8;-0.037; 0.41;0.003;-0.040;-0.01%; 0.11; -0.4;9;2;
+Aledmys Díaz;/players/d/diazal02.shtml;3B;4;0;0;0;0;1;4;.148;.216;.210;.426;13;10;-0.031; 0.30;0.000;-0.031;-0.01%; 0.08; -0.8;1;4;
+Shea Langeliers;/players/l/langesh01.shtml;DH;4;0;0;0;0;1;4;.211;.286;.434;.720;16;12;-0.034; 0.33;0.000;-0.034;-0.01%; 0.09; -0.8;;;
+Kevin Smith;/players/s/smithke05.shtml;SS;4;2;2;1;0;1;4;.216;.216;.353;.569;15;9;0.080; 0.31;0.084;-0.003; 0.01%; 0.09; 0.9;0;0;HR
+Conner Capel;/players/c/capelco01.shtml;RF;4;0;2;0;0;0;4;.309;.356;.382;.738;13;8;0.028; 0.45;0.049;-0.022; 0.01%; 0.12; 0.5;4;0;2B
+Luis Medina;/players/m/medinlu02.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Shintaro Fujinami;/players/f/fujinsh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chad Smith;/players/s/smithch12.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Conner Capel (4, off Patrick Sandoval).
+
+
+HR: Kevin Smith (2, off Patrick Sandoval, 3rd inn, 0 on, 0 outs to Deep CF-RF).
+
+
+HBP: Esteury Ruiz (7, by Patrick Sandoval).
+
+
+TB: Kevin Smith 5; Conner Capel 3; Esteury Ruiz 2.
+
+
+RBI: Kevin Smith (6); Esteury Ruiz (10); Brent Rooker (15).
+
+
+Team LOB: 6.
+With RISP: 1 for 7.
+
+Pitching home
+Patrick Sandoval;/players/s/sandopa02.shtml; W (2-1); 7 ;6;3;2;0;5;1;3.16;28;105;73;42;17;14;12;10;3;0;60;;;0.032; 0.78; 0.02%; 0.74; 0.6
+Chase Silseth;/players/s/silsech01.shtml;Chase Silseth; 2 ;0;0;0;2;2;0;0.00;8;39;21;9;5;7;3;1;0;0;;0;0;0.007; 0.09; 0.00%; 0.08; 1.0
+
+Pitching away
+Luis Medina;/players/m/medinlu02.shtml; L (0-1); 5 ;8;8;7;3;6;2;12.60;27;93;54;30;12;12;9;9;4;0;24;;;-0.451; 0.69;-0.07%; 0.19; -5.4
+Shintaro Fujinami;/players/f/fujinsh01.shtml;Shintaro Fujinami; 2 ;2;1;0;1;3;0;12.71;9;34;20;12;5;3;1;4;3;0;;0;0;-0.008; 0.09;-0.00%; 0.02; 0.0
+Chad Smith;/players/s/smithch12.shtml;Chad Smith; 1 ;2;2;2;1;1;1;5.40;6;19;10;7;1;2;2;2;0;0;;0;0;-0.002; 0.01; 0.00%; 0.00; -1.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Patrick Sandoval (1; Esteury Ruiz).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Patrick Sandoval (1; Esteury Ruiz).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Jim Wolf, 1B - Mike Muchlinski, 2B - Nate Tomlinson, 3B - Sean Barber, LF - (none), RF - (none).
+Time of Game: 2:30.
+Attendance: 24,524.
+Field Condition: Unknown.
+Start Time Weather: 73° F, Wind 7mph out to Leftfield, Sunny, No Precipitation.
+
+div_lineups
+Athletics
+1;Esteury Ruiz;/players/r/ruizes01.shtml;CF
+2;Jordan Diaz;/players/d/diazjo03.shtml;2B
+3;Brent Rooker;/players/r/rookebr01.shtml;LF
+4;Jesús Aguilar;/players/a/aguilje01.shtml;1B
+5;Carlos Pérez;/players/p/perezca02.shtml;C
+6;Aledmys Díaz;/players/d/diazal02.shtml;3B
+7;Shea Langeliers;/players/l/langesh01.shtml;DH
+8;Kevin Smith;/players/s/smithke05.shtml;SS
+9;Conner Capel;/players/c/capelco01.shtml;RF
+; Luis Medina;/players/m/medinlu02.shtml;P
+Angels
+1;Taylor Ward;/players/w/wardta01.shtml;LF
+2;Mike Trout;/players/t/troutmi01.shtml;CF
+3;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+4;Anthony Rendon;/players/r/rendoan01.shtml;3B
+5;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+6;Brandon Drury;/players/d/drurybr01.shtml;2B
+7;Gio Urshela;/players/u/urshegi01.shtml;1B
+8;Matt Thaiss;/players/t/thaisma01.shtml;C
+9;Zach Neto;/players/n/netoza01.shtml;SS
+; Patrick Sandoval;/players/s/sandopa02.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b2;0-1;0;12-;3,(2-0) BBX;R;LAA;Brandon Drury;Luis Medina;15%;69%;Double to RF (Line Drive to Deep RF Line); Rendon Scores; Renfroe to 3B
+b2;1-1;1;-23;3,(1-1) CBX;RR;LAA;Matt Thaiss;Luis Medina;12%;76%;Ground-rule Double (Line Drive to Deep RF Line); Renfroe Scores; Drury Scores
+t5;3-6;1;-23;5,(2-2) >FB1>S.BS;O;OAK;Jordan Diaz;Patrick Sandoval;8%;82%;Strikeout Swinging
+t5;2-6;1;1-3;3,(0-2) F*SX;R;OAK;Esteury Ruiz;Patrick Sandoval;-8%;77%;Single to 2B (Ground Ball to 2B-1B); Smith Scores; Capel to 3B
+b2;3-1;1;-2-;1,(0-0) X;R;LAA;Zach Neto;Luis Medina;7%;83%;Double to CF (Line Drive to Deep CF-RF); Thaiss Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Athletics Batting, Tied 0-0, Angels' Patrick Sandoval facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;;OAK;Esteury Ruiz;Patrick Sandoval;-4%;46%;Single to SS (Ground Ball to SS-3B Hole)
+t1;0-0;0;1--;3,(1-1) B*SX;O;OAK;Jordan Diaz;Patrick Sandoval;3%;50%;Flyball: CF (Deep CF)
+t1;0-0;1;1--;2,(0-1) S>B;;OAK;Brent Rooker;Patrick Sandoval;-4%;46%;Ruiz Steals 2B; Ruiz to 3B/Adv on E2 (throw)
+t1;0-0;1;--3;4,(2-1) S>B.*BX;RO;OAK;Brent Rooker;Patrick Sandoval;-2%;44%;Groundout: SS-1B; Ruiz Scores/unER
+t1;1-0;2;---;3,(0-2) CFS;O;OAK;Jesús Aguilar;Patrick Sandoval;1%;45%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 1 error, 0 LOB. Athletics 1, Angels 0.
+Bottom of the 1st, Angels Batting, Behind 0-1, Athletics' Luis Medina facing 1-2-3 
+b1;0-1;0;---;2,(0-1) FX;O;LAA;Taylor Ward;Luis Medina;-2%;42%;Flyball: RF (Short RF Line)
+b1;0-1;1;---;5,(1-2) BFS.FC;O;LAA;Mike Trout;Luis Medina;-2%;41%;Strikeout Looking
+b1;0-1;2;---;7,(3-2) CBSBBFX;O;LAA;Shohei Ohtani;Luis Medina;-1%;40%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 1, Angels 0.
+Top of the 2nd, Athletics Batting, Ahead 1-0, Angels' Patrick Sandoval facing 5-6-7 
+t2;1-0;0;---;5,(2-2) BFCBX;O;OAK;Carlos Pérez;Patrick Sandoval;2%;42%;Groundout: SS-1B (SS-3B Hole)
+t2;1-0;1;---;5,(2-2) BBFS.X;O;OAK;Aledmys Díaz;Patrick Sandoval;2%;43%;Groundout: 3B-1B
+t2;1-0;2;---;4,(1-2) BSS.S;O;OAK;Shea Langeliers;Patrick Sandoval;1%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 1, Angels 0.
+Bottom of the 2nd, Angels Batting, Behind 0-1, Athletics' Luis Medina facing 4-5-6 
+b2;0-1;0;---;3,(0-2) CFX;;LAA;Anthony Rendon;Luis Medina;4%;48%;Single to RF (Ground Ball thru 2B-1B)
+b2;0-1;0;1--;1,(0-0) X;;LAA;Hunter Renfroe;Luis Medina;6%;55%;Single to CF (Line Drive to LF-CF); Rendon to 2B
+b2;0-1;0;12-;3,(2-0) BBX;R;LAA;Brandon Drury;Luis Medina;15%;69%;Double to RF (Line Drive to Deep RF Line); Rendon Scores; Renfroe to 3B
+b2;1-1;0;-23;5,(1-2) CBCFX;O;LAA;Gio Urshela;Luis Medina;-5%;64%;Groundout: P-1B (P's Left)
+b2;1-1;1;-23;3,(1-1) CBX;RR;LAA;Matt Thaiss;Luis Medina;12%;76%;Ground-rule Double (Line Drive to Deep RF Line); Renfroe Scores; Drury Scores
+b2;3-1;1;-2-;1,(0-0) X;R;LAA;Zach Neto;Luis Medina;7%;83%;Double to CF (Line Drive to Deep CF-RF); Thaiss Scores
+b2;4-1;1;-2-;4,(3-0) *BBBB;;LAA;Taylor Ward;Luis Medina;1%;84%;Walk
+b2;4-1;1;12-;3,(1-1) *BFX;;LAA;Mike Trout;Luis Medina;3%;87%;Fielder's Choice SS; Neto to 3B/Adv on E6 (throw); Ward to 2B; Trout to 1B
+b2;4-1;1;123;3,(1-1) BFX;RO;LAA;Shohei Ohtani;Luis Medina;1%;88%;Groundout: 1B-P (2B-1B); Neto Scores/unER; Ward to 3B; Trout to 2B
+b2;5-1;2;-23;2,(1-0) *BX;O;LAA;Anthony Rendon;Luis Medina;-2%;86%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;5 runs, 5 hits, 1 error, 2 LOB. Athletics 1, Angels 5.
+Top of the 3rd, Athletics Batting, Behind 1-5, Angels' Patrick Sandoval facing 8-9-1 
+t3;1-5;0;---;1,(0-0) X;R;OAK;Kevin Smith;Patrick Sandoval;-6%;79%;Home Run (Fly Ball to Deep CF-RF)
+t3;2-5;0;---;3,(2-0) BBX;O;OAK;Conner Capel;Patrick Sandoval;2%;82%;Groundout: 1B-P
+t3;2-5;1;---;2,(0-1) SH;;OAK;Esteury Ruiz;Patrick Sandoval;-2%;79%;Hit By Pitch
+t3;2-5;1;1--;5,(0-2) >FF>F>F1>S;O;OAK;Jordan Diaz;Patrick Sandoval;2%;81%;Strikeout Swinging, Ruiz Steals 2B
+t3;2-5;2;-2-;2,(1-0) B>C;;OAK;Brent Rooker;Patrick Sandoval;0%;81%;Ruiz Steals 3B
+t3;2-5;2;--3;5,(1-2) B>C.FFX;O;OAK;Brent Rooker;Patrick Sandoval;3%;84%;Groundout: SS-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Athletics 2, Angels 5.
+Bottom of the 3rd, Angels Batting, Ahead 5-2, Athletics' Luis Medina facing 5-6-7 
+b3;5-2;0;---;2,(1-0) BX;R;LAA;Hunter Renfroe;Luis Medina;5%;89%;Home Run (Fly Ball to Deep LF-CF)
+b3;6-2;0;---;3,(0-2) CF.*S;O;LAA;Brandon Drury;Luis Medina;-1%;89%;Strikeout Swinging
+b3;6-2;1;---;3,(0-2) CSX;;LAA;Gio Urshela;Luis Medina;1%;90%;Single to 3B (Ground Ball to Weak 3B); Urshela to 2B/Adv on E5 (throw)
+b3;6-2;1;-2-;4,(3-0) BBBB;;LAA;Matt Thaiss;Luis Medina;1%;91%;Walk
+b3;6-2;1;12-;2,(1-0) BX;O;LAA;Zach Neto;Luis Medina;-2%;89%;Flyball: CF (Deep CF-RF)
+b3;6-2;2;12-;4,(2-1) BBCX;O;LAA;Taylor Ward;Luis Medina;-2%;88%;Groundout: 3B unassisted/Forceout at 3B (SS-3B Hole); Ward to 1B
+;;;;;;;;;1 run, 2 hits, 1 error, 2 LOB. Athletics 2, Angels 6.
+Top of the 4th, Athletics Batting, Behind 2-6, Angels' Patrick Sandoval facing 4-5-6 
+t4;2-6;0;---;4,(2-1) CBBX;O;OAK;Jesús Aguilar;Patrick Sandoval;2%;89%;Popfly: 2B (Deep SS-2B)
+t4;2-6;1;---;5,(2-2) CFBBX;O;OAK;Carlos Pérez;Patrick Sandoval;1%;90%;Groundout: 3B-1B (Weak 3B)
+t4;2-6;2;---;4,(1-2) BFFC;O;OAK;Aledmys Díaz;Patrick Sandoval;1%;91%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 2, Angels 6.
+Bottom of the 4th, Angels Batting, Ahead 6-2, Athletics' Luis Medina facing 2-3-4 
+b4;6-2;0;---;4,(1-2) CBSS;O;LAA;Mike Trout;Luis Medina;-1%;90%;Strikeout Swinging
+b4;6-2;1;---;6,(3-2) BBSSBS;O;LAA;Shohei Ohtani;Luis Medina;-1%;90%;Strikeout Swinging
+b4;6-2;2;---;5,(3-1) SBBBX;O;LAA;Anthony Rendon;Luis Medina;0%;90%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 2, Angels 6.
+Top of the 5th, Athletics Batting, Behind 2-6, Angels' Patrick Sandoval facing 7-8-9 
+t5;2-6;0;---;5,(2-2) CSBBX;O;OAK;Shea Langeliers;Patrick Sandoval;2%;91%;Groundout: 3B-1B (SS-3B Hole)
+t5;2-6;1;---;3,(1-1) CBX;;OAK;Kevin Smith;Patrick Sandoval;-2%;89%;Single to CF (Line Drive)
+t5;2-6;1;1--;4,(1-2) SBF1X;;OAK;Conner Capel;Patrick Sandoval;-5%;85%;Single to CF (Ground Ball); Smith to 3B
+t5;2-6;1;1-3;3,(0-2) F*SX;R;OAK;Esteury Ruiz;Patrick Sandoval;-8%;77%;Single to 2B (Ground Ball to 2B-1B); Smith Scores; Capel to 3B
+t5;3-6;1;1-3;3,(1-1) >FB1>S;;OAK;Jordan Diaz;Patrick Sandoval;-2%;75%;Ruiz Steals 2B
+t5;3-6;1;-23;5,(2-2) >FB1>S.BS;O;OAK;Jordan Diaz;Patrick Sandoval;8%;82%;Strikeout Swinging
+t5;3-6;2;-23;3,(0-2) FCX;O;OAK;Brent Rooker;Patrick Sandoval;6%;88%;Flyball: CF
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Athletics 3, Angels 6.
+Bottom of the 5th, Angels Batting, Ahead 6-3, Athletics' Luis Medina facing 5-6-7 
+b5;6-3;0;---;5,(3-1) BBSBB;;LAA;Hunter Renfroe;Luis Medina;1%;90%;Walk
+b5;6-3;0;1--;1,(0-0) X;RR;LAA;Brandon Drury;Luis Medina;6%;96%;Home Run (Fly Ball to Deep LF-CF); Renfroe Scores
+b5;8-3;0;---;5,(2-2) BFBC*S;O;LAA;Gio Urshela;Luis Medina;0%;96%;Strikeout Swinging; Urshela out at 1B/C-1B
+b5;8-3;1;---;1,(0-0) X;O;LAA;Matt Thaiss;Luis Medina;0%;95%;Groundout: C-1B
+b5;8-3;2;---;6,(3-2) BFFBB.C;O;LAA;Zach Neto;Luis Medina;0%;95%;Strikeout Looking
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Athletics 3, Angels 8.
+Top of the 6th, Athletics Batting, Behind 3-8, Angels' Patrick Sandoval facing 4-5-6 
+t6;3-8;0;---;7,(3-2) BCBBFFX;O;OAK;Jesús Aguilar;Patrick Sandoval;1%;96%;Flyball: CF (Deep CF)
+t6;3-8;1;---;2,(1-0) BX;O;OAK;Carlos Pérez;Patrick Sandoval;1%;97%;Flyball: LF (Short LF)
+t6;3-8;2;---;2,(0-1) CX;O;OAK;Aledmys Díaz;Patrick Sandoval;0%;97%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 3, Angels 8.
+Bottom of the 6th, Angels Batting, Ahead 8-3, Athletics' Shintaro Fujinami facing 1-2-3 
+;;;;;;;;;Shintaro Fujinami replaces Luis Medina pitching
+b6;8-3;0;---;6,(3-2) .BCBSBX;O;LAA;Taylor Ward;Shintaro Fujinami;0%;97%;Flyball: RF (Deep RF)
+b6;8-3;1;---;5,(3-1) BBFBB;;LAA;Mike Trout;Shintaro Fujinami;0%;97%;Walk
+b6;8-3;1;1--;3,(1-1) *BTX;R;LAA;Shohei Ohtani;Shintaro Fujinami;1%;99%;Single to LF (Line Drive to LF-CF); Trout Scores/Adv on E7/No RBI/unER; Ohtani to 2B
+b6;9-3;1;-2-;4,(2-1) BBFX;O;LAA;Anthony Rendon;Shintaro Fujinami;0%;99%;Lineout: LF (Deep LF-CF)
+b6;9-3;2;-2-;2,(1-0) BX;O;LAA;Hunter Renfroe;Shintaro Fujinami;0%;98%;Groundout: 3B-1B
+;;;;;;;;;1 run, 1 hit, 1 error, 1 LOB. Athletics 3, Angels 9.
+Top of the 7th, Athletics Batting, Behind 3-9, Angels' Patrick Sandoval facing 7-8-9 
+t7;3-9;0;---;3,(0-2) SS.X;O;OAK;Shea Langeliers;Patrick Sandoval;1%;99%;Groundout: 3B-1B (Weak 3B)
+t7;3-9;1;---;6,(3-2) CS.BBBX;O;OAK;Kevin Smith;Patrick Sandoval;0%;99%;Flyball: RF
+t7;3-9;2;---;2,(0-1) CX;;OAK;Conner Capel;Patrick Sandoval;0%;99%;Double to RF (Line Drive)
+t7;3-9;2;-2-;6,(2-2) BBCTFX;O;OAK;Esteury Ruiz;Patrick Sandoval;0%;99%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 3, Angels 9.
+Bottom of the 7th, Angels Batting, Ahead 9-3, Athletics' Shintaro Fujinami facing 6-7-8 
+b7;9-3;0;---;4,(1-2) FS.BS;O;LAA;Brandon Drury;Shintaro Fujinami;0%;99%;Strikeout Swinging
+b7;9-3;1;---;5,(2-2) BSFBS;O;LAA;Gio Urshela;Shintaro Fujinami;0%;99%;Strikeout Swinging
+b7;9-3;2;---;2,(0-1) FX;;LAA;Matt Thaiss;Shintaro Fujinami;0%;99%;Double to RF (Line Drive to RF Line)
+b7;9-3;2;-2-;3,(0-2) CFC;O;LAA;Zach Neto;Shintaro Fujinami;0%;99%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 3, Angels 9.
+Top of the 8th, Athletics Batting, Behind 3-9, Angels' Chase Silseth facing 2-3-4 
+;;;;;;;;;Chase Silseth replaces Patrick Sandoval pitching
+t8;3-9;0;---;5,(3-1) .BBBCX;O;OAK;Jordan Diaz;Chase Silseth;0%;100%;Groundout: 1B-P (Weak 2B-1B)
+t8;3-9;1;---;7,(3-2) BBBCSFB;;OAK;Brent Rooker;Chase Silseth;0%;99%;Walk
+t8;3-9;1;1--;7,(2-2) BFFBF.FS;O;OAK;Jesús Aguilar;Chase Silseth;0%;100%;Strikeout Swinging
+t8;3-9;2;1--;5,(3-1) BBBCB;;OAK;Carlos Pérez;Chase Silseth;0%;99%;Walk; Rooker to 2B
+t8;3-9;2;12-;2,(0-1) SX;O;OAK;Aledmys Díaz;Chase Silseth;1%;100%;Groundout: SS-2B/Forceout at 2B; Díaz to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Athletics 3, Angels 9.
+Bottom of the 8th, Angels Batting, Ahead 9-3, Athletics' Chad Smith facing 1-2-3 
+;;;;;;;;;Chad Smith replaces Shintaro Fujinami pitching
+b8;9-3;0;---;4,(3-0) .BBBB;;LAA;Taylor Ward;Chad Smith;0%;100%;Walk
+b8;9-3;0;1--;2,(0-1) FX;O;LAA;Mike Trout;Chad Smith;0%;100%;Flyball: RF (RF Line)
+b8;9-3;1;1--;3,(1-1) BTX;RR;LAA;Shohei Ohtani;Chad Smith;0%;100%;Home Run (Fly Ball to Deep CF); Ward Scores
+b8;11-3;1;---;3,(1-1) BCX;;LAA;Anthony Rendon;Chad Smith;0%;100%;Single to LF (Ground Ball thru SS-3B Hole)
+b8;11-3;1;1--;2,(1-0) *BX;O;LAA;Hunter Renfroe;Chad Smith;0%;100%;Groundout: 3B-1B; Rendon to 2B
+b8;11-3;2;-2-;5,(2-2) CF*BBS;O;LAA;Brandon Drury;Chad Smith;0%;100%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Athletics 3, Angels 11.
+Top of the 9th, Athletics Batting, Behind 3-11, Angels' Chase Silseth facing 7-8-9 
+;;;;;;;;;Brett Phillips replaces Mike Trout playing CF batting 2nd
+t9;3-11;0;---;4,(1-2) .CBCX;O;OAK;Shea Langeliers;Chase Silseth;0%;100%;Groundout: P-1B
+t9;3-11;1;---;5,(2-2) BBSCS;O;OAK;Kevin Smith;Chase Silseth;0%;100%;Strikeout Swinging
+t9;3-11;2;---;4,(2-1) CBBX;O;OAK;Conner Capel;Chase Silseth;0%;100%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 3, Angels 11.

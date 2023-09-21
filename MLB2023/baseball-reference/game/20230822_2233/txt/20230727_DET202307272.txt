@@ -1,0 +1,287 @@
+
+Scorebox Meta
+20230727
+4:11 p.m. Local
+30238
+Comerica Park
+179
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;5;0;2;0;1;0;0;3;11;13;2
+https://cdn.ssref.net/req/202308101/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;0;0;2;0;0;0;1;1;0;4;7;1
+
+Batting home
+Matt Vierling;/players/v/vierlma01.shtml;CF;5;1;0;0;0;0;5;.262;.325;.387;.712;16;11;0.002; 0.65;0.074;-0.072; 0.00%; 0.18; 0.0;1;0;2·GDP
+Andy Ibáñez;/players/i/ibanean01.shtml;2B;4;0;1;0;1;1;5;.237;.272;.411;.683;21;13;-0.018; 0.52;0.034;-0.052;-0.00%; 0.14; -0.4;1;3;
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;2;0;0;1;2;0;4;.230;.309;.410;.719;24;13;0.027; 0.85;0.049;-0.022; 0.01%; 0.23; 0.5;9;2;
+Kerry Carpenter;/players/c/carpeke01.shtml;RF;4;0;1;1;0;0;4;.266;.326;.482;.808;22;17;-0.046; 0.92;0.061;-0.107;-0.01%; 0.25; -0.6;2;0;
+Javier Báez;/players/b/baezja01.shtml;SS;3;1;0;0;0;2;4;.222;.259;.330;.589;18;14;-0.039; 0.50;0.009;-0.048;-0.01%; 0.14; -0.5;0;3;HBP
+Jake Rogers;/players/r/rogerja03.shtml;C;3;0;0;0;1;1;4;.219;.304;.448;.752;12;7;-0.014; 0.39;0.016;-0.031;-0.00%; 0.11; -0.2;8;0;
+Miguel Cabrera;/players/c/cabremi01.shtml;DH;4;0;1;0;0;2;4;.249;.329;.319;.647;16;11;-0.028; 0.43;0.008;-0.035;-0.01%; 0.12; -0.8;;;
+Zach McKinstry;/players/m/mckinza01.shtml;LF;4;1;2;1;0;0;4;.242;.313;.369;.682;25;19;-0.014; 0.32;0.009;-0.023;-0.00%; 0.09; 0.6;3;0;2B
+Zack Short;/players/s/shortza01.shtml;3B;2;1;2;0;0;0;2;.210;.283;.343;.626;5;4;0.050; 0.56;0.050;0.000; 0.01%; 0.15; 0.8;1;1;
+Nick Maton;/players/m/matonni01.shtml;PH-3B;1;0;0;0;1;0;2;.164;.288;.289;.577;10;4;-0.007; 0.18;0.002;-0.009;-0.00%; 0.05; 0.1;0;0;
+Matt Manning;/players/m/mannima02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trey Wingenter;/players/w/wingetr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Chasen Shreve;/players/s/shrevch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Brendan White;/players/w/whitebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Zach McKinstry (13, off Gerardo Reyes).
+
+
+HBP: Javier Báez (5, by Zack Weiss).
+
+
+TB: Zach McKinstry 3; Zack Short 2; Kerry Carpenter; Andy Ibáñez; Miguel Cabrera.
+
+
+GIDP: Matt Vierling 2 (6).
+
+
+RBI: Spencer Torkelson (57); Kerry Carpenter (33); Zach McKinstry (24).
+
+
+2-out RBI: Zach McKinstry; Kerry Carpenter.
+
+
+Team LOB: 7.
+With RISP: 2 for 9.
+
+Batting away
+Zach Neto;/players/n/netoza01.shtml;SS;5;1;1;1;0;2;5;.251;.325;.427;.751;25;17;0.041; 0.47;0.073;-0.032; 0.02%; 0.44; 0.1;1;5;
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;3;2;2;3;0;1;3;.298;.395;.675;1.070;15;10;0.150; 0.47;0.166;-0.016; 0.08%; 0.44; 2.7;;;2·HR
+Michael Stefanic;/players/s/stefami01.shtml;PH-DH-DH;1;1;0;0;1;0;2;.250;.368;.313;.681;7;3;0.000; 0.06;0.002;-0.002;0%; 0.06; 0.0;;;
+Mickey Moniak;/players/m/moniami01.shtml;CF;4;1;2;0;1;0;5;.335;.366;.615;.982;17;10;0.021; 0.17;0.028;-0.007; 0.01%; 0.15; 0.9;1;1;2B
+Taylor Ward;/players/w/wardta01.shtml;LF;4;1;0;0;1;0;5;.251;.333;.420;.753;19;11;-0.021; 0.35;0.020;-0.041;-0.01%; 0.33; -0.1;2;0;GDP
+Mike Moustakas;/players/m/moustmi01.shtml;3B;3;1;1;0;0;0;3;.264;.336;.447;.783;5;5;0.021; 0.47;0.037;-0.017; 0.01%; 0.44; -0.2;0;2;
+Andrew Velazquez;/players/v/velazan01.shtml;2B;2;0;0;0;0;1;2;.222;.323;.315;.637;10;8;-0.007; 0.12;0.000;-0.007;-0.00%; 0.12; -1.0;1;3;
+Matt Thaiss;/players/t/thaisma01.shtml;C;5;0;2;2;0;1;5;.245;.354;.365;.719;10;9;-0.034; 0.46;0.013;-0.047;-0.02%; 0.43; 1.2;6;0;
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;5;1;3;2;0;1;5;.249;.308;.451;.759;27;19;-0.017; 0.38;0.025;-0.042;-0.01%; 0.35; 1.7;1;0;HR
+Eduardo Escobar;/players/e/escobed01.shtml;1B;4;2;1;1;1;0;5;.244;.289;.383;.672;17;8;0.078; 0.31;0.083;-0.005; 0.04%; 0.29; 0.1;8;0;HR
+Luis Rengifo;/players/r/rengilu01.shtml;2B-3B;4;1;1;2;0;1;4;.224;.308;.380;.688;14;12;0.182; 0.57;0.197;-0.015; 0.10%; 0.54; 1.0;7;3;3B
+Patrick Sandoval;/players/s/sandopa02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jacob Webb;/players/w/webbja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gerardo Reyes;/players/r/reyesge01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Zack Weiss;/players/w/weissza01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Aaron Loup;/players/l/loupaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jaime Barria;/players/b/barrija01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Mickey Moniak (16, off Matt Manning).
+
+
+3B: Luis Rengifo (3, off Matt Manning).
+
+
+HR: Shohei Ohtani 2 (38, 2 off Matt Manning, 2nd inn, 1 on, 2 outs to Deep LF; 4th inn, 0 on, 2 outs to Deep CF-RF); Eduardo Escobar (5, off Matt Manning, 4th inn, 0 on, 0 outs to Deep RF Line); Hunter Renfroe (16, off Trey Wingenter, 6th inn, 0 on, 0 outs to Deep LF Line).
+
+
+TB: Shohei Ohtani 8; Hunter Renfroe 6; Eduardo Escobar 4; Luis Rengifo 3; Mickey Moniak 3; Matt Thaiss 2; Mike Moustakas; Zach Neto.
+
+
+GIDP: Taylor Ward (9).
+
+
+RBI: Shohei Ohtani 3 (80); Luis Rengifo 2 (32); Hunter Renfroe 2 (44); Matt Thaiss 2 (26); Eduardo Escobar (24); Zach Neto (28).
+
+
+2-out RBI: Shohei Ohtani 3; Luis Rengifo 2; Matt Thaiss 2; Zach Neto; Hunter Renfroe.
+
+
+Team LOB: 6.
+With RISP: 4 for 12.
+
+Pitching home
+Matt Manning;/players/m/mannima02.shtml; L (3-2); 5 ;7;7;7;1;5;3;4.32;24;87;64;39;12;13;5;13;4;0;29;;;-0.394; 0.60;-0.07%; 0.17; -4.4
+Trey Wingenter;/players/w/wingetr01.shtml;Trey Wingenter; 2 ;1;1;1;1;1;1;7.11;7;25;15;8;4;3;2;3;0;0;;0;0;-0.012; 0.08;-0.00%; 0.02; 0.0
+Chasen Shreve;/players/s/shrevch01.shtml;Chasen Shreve; 1 ;2;0;0;0;0;0;4.70;5;23;17;11;1;5;2;3;1;0;;0;0;0.004; 0.08; 0.00%; 0.02; 0.5
+Brendan White;/players/w/whitebr01.shtml;Brendan White; 1 ;3;3;3;2;1;0;5.48;8;31;16;8;5;3;3;2;2;0;;0;0;-0.014; 0.10;-0.00%; 0.03; -2.5
+
+Pitching away
+Patrick Sandoval;/players/s/sandopa02.shtml; W (6-7); 5 ;4;2;0;2;4;0;3.95;20;97;66;45;8;13;7;7;5;0;57;;;0.060; 0.76; 0.03%; 0.70; 0.6
+Jacob Webb;/players/w/webbja01.shtml;Jacob Webb; 1 ;0;0;0;1;1;0;3.58;4;16;11;4;3;4;1;1;0;0;;0;0;0.015; 0.38; 0.01%; 0.35; 0.5
+Gerardo Reyes;/players/r/reyesge01.shtml;Gerardo Reyes; 1 ;2;1;0;0;0;0;6.75;6;27;20;14;1;5;6;0;0;0;;0;0;0.003; 0.32; 0.00%; 0.30; -0.5
+Zack Weiss;/players/w/weissza01.shtml;Zack Weiss; 0.2;0;1;1;1;1;0;5.06;4;13;6;2;1;3;1;0;0;0;;0;0;0.003; 0.46; 0.00%; 0.43; 0.1
+Aaron Loup;/players/l/loupaa01.shtml;Aaron Loup; 0.1;1;0;0;0;0;0;4.66;1;6;5;4;0;1;0;1;1;0;;2;1;0.004; 0.46; 0.00%; 0.43; -0.6
+Jaime Barria;/players/b/barrija01.shtml;Jaime Barria; 1 ;0;0;0;1;0;0;3.58;3;10;5;3;0;2;2;0;0;0;;0;0;0.001; 0.06; 0.00%; 0.05; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Zack Weiss (1; Javier Báez).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Zack Weiss (1; Javier Báez).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Brennan Miller, 1B - Mark Carlson, 2B - Tripp Gibson, 3B - Nate Tomlinson, LF - (none), RF - (none).
+Time of Game: 2:59.
+Attendance: 30,238.
+Field Condition: Unknown.
+Start Time Weather: 84° F, Wind 3mph in from Leftfield, Sunny, No Precipitation.
+
+div_lineups
+Angels
+1;Zach Neto;/players/n/netoza01.shtml;SS
+2;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+3;Mickey Moniak;/players/m/moniami01.shtml;CF
+4;Taylor Ward;/players/w/wardta01.shtml;LF
+5;Mike Moustakas;/players/m/moustmi01.shtml;3B
+6;Matt Thaiss;/players/t/thaisma01.shtml;C
+7;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+8;Eduardo Escobar;/players/e/escobed01.shtml;1B
+9;Luis Rengifo;/players/r/rengilu01.shtml;2B
+; Patrick Sandoval;/players/s/sandopa02.shtml;P
+Tigers
+1;Matt Vierling;/players/v/vierlma01.shtml;CF
+2;Andy Ibáñez;/players/i/ibanean01.shtml;2B
+3;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+4;Kerry Carpenter;/players/c/carpeke01.shtml;RF
+5;Javier Báez;/players/b/baezja01.shtml;SS
+6;Jake Rogers;/players/r/rogerja03.shtml;C
+7;Miguel Cabrera;/players/c/cabremi01.shtml;DH
+8;Zach McKinstry;/players/m/mckinza01.shtml;LF
+9;Zack Short;/players/s/shortza01.shtml;3B
+; Matt Manning;/players/m/mannima02.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;0-0;2;12-;4,(1-2) CFBX;RR;LAA;Luis Rengifo;Matt Manning;20%;69%;Triple to CF (Fly Ball to Deep CF-RF); Moustakas Scores; Escobar Scores
+t2;3-0;2;1--;7,(2-2) TBB1FFFX;RR;LAA;Shohei Ohtani;Matt Manning;12%;88%;Home Run (Fly Ball to Deep LF); Neto Scores
+b1;0-0;1;12-;5,(0-2) CSFFX;OO;DET;Kerry Carpenter;Patrick Sandoval;9%;50%;Double Play: Lineout: SS; Ibáñez out at 2B/SS-2B
+t2;2-0;2;--3;2,(0-1) SX;R;LAA;Zach Neto;Matt Manning;7%;76%;Single to CF (Line Drive); Rengifo Scores
+b3;0-5;0;1--;3,(1-1) CBX;;DET;Matt Vierling;Patrick Sandoval;-6%;80%;Reached on E1 (throw) (Ground Ball); Short to 3B; Vierling to 1B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, Tigers' Matt Manning facing 1-2-3 
+t1;0-0;0;---;4,(1-2) FBCS;O;LAA;Zach Neto;Matt Manning;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;3,(0-2) CS.C;O;LAA;Shohei Ohtani;Matt Manning;-2%;46%;Strikeout Looking
+t1;0-0;2;---;7,(3-2) BSBFFBX;;LAA;Mickey Moniak;Matt Manning;2%;48%;Double to CF (Fly Ball to Deep LF-CF)
+t1;0-0;2;-2-;3,(0-2) FS.X;O;LAA;Taylor Ward;Matt Manning;-3%;45%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 0, Tigers 0.
+Bottom of the 1st, Tigers Batting, Tied 0-0, Angels' Patrick Sandoval facing 1-2-3 
+b1;0-0;0;---;4,(1-2) BCFX;O;DET;Matt Vierling;Patrick Sandoval;2%;47%;Foul Popfly: 1B
+b1;0-0;1;---;6,(3-2) CBBBSB;;DET;Andy Ibáñez;Patrick Sandoval;-2%;45%;Walk
+b1;0-0;1;1--;8,(3-2) BBCCFF1B.B;;DET;Spencer Torkelson;Patrick Sandoval;-3%;41%;Walk; Ibáñez to 2B
+b1;0-0;1;12-;5,(0-2) CSFFX;OO;DET;Kerry Carpenter;Patrick Sandoval;9%;50%;Double Play: Lineout: SS; Ibáñez out at 2B/SS-2B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 0, Tigers 0.
+Top of the 2nd, Angels Batting, Tied 0-0, Tigers' Matt Manning facing 5-6-7 
+t2;0-0;0;---;2,(0-1) .CX;;LAA;Mike Moustakas;Matt Manning;4%;54%;Single to CF (Line Drive to LF-CF)
+t2;0-0;0;1--;3,(0-2) CFS;O;LAA;Matt Thaiss;Matt Manning;-4%;50%;Strikeout Swinging
+t2;0-0;1;1--;7,(3-2) FSBF*BBX;O;LAA;Hunter Renfroe;Matt Manning;-3%;47%;Foul Popfly: 1B
+t2;0-0;2;1--;5,(3-1) BBBC.B;;LAA;Eduardo Escobar;Matt Manning;2%;49%;Walk; Moustakas to 2B
+t2;0-0;2;12-;4,(1-2) CFBX;RR;LAA;Luis Rengifo;Matt Manning;20%;69%;Triple to CF (Fly Ball to Deep CF-RF); Moustakas Scores; Escobar Scores
+t2;2-0;2;--3;2,(0-1) SX;R;LAA;Zach Neto;Matt Manning;7%;76%;Single to CF (Line Drive); Rengifo Scores
+t2;3-0;2;1--;7,(2-2) TBB1FFFX;RR;LAA;Shohei Ohtani;Matt Manning;12%;88%;Home Run (Fly Ball to Deep LF); Neto Scores
+t2;5-0;2;---;2,(0-1) CX;O;LAA;Mickey Moniak;Matt Manning;0%;88%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;5 runs, 4 hits, 0 errors, 0 LOB. Angels 5, Tigers 0.
+Bottom of the 2nd, Tigers Batting, Behind 0-5, Angels' Patrick Sandoval facing 5-6-7 
+b2;0-5;0;---;9,(1-2) BCFFFFFF.S;O;DET;Javier Báez;Patrick Sandoval;2%;89%;Strikeout Swinging
+b2;0-5;1;---;4,(1-2) BFFS;O;DET;Jake Rogers;Patrick Sandoval;1%;90%;Strikeout Swinging
+b2;0-5;2;---;5,(2-2) CBBS.X;;DET;Miguel Cabrera;Patrick Sandoval;-1%;89%;Single to RF (Line Drive to Short RF Line)
+b2;0-5;2;1--;3,(1-1) FBX;O;DET;Zach McKinstry;Patrick Sandoval;1%;91%;Groundout: SS-2B/Forceout at 2B (Deep SS-2B); McKinstry to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 5, Tigers 0.
+Top of the 3rd, Angels Batting, Ahead 5-0, Tigers' Matt Manning facing 4-5-6 
+t3;5-0;0;---;3,(0-2) SS.X;;LAA;Taylor Ward;Matt Manning;2%;93%;Reached on E6 (throw) (Ground Ball); Ward to 2B
+t3;5-0;0;-2-;1,(0-0) X;O;LAA;Mike Moustakas;Matt Manning;-1%;91%;Popfly: 3B (Deep 3B)
+t3;5-0;1;-2-;1,(0-0) X;O;LAA;Matt Thaiss;Matt Manning;-1%;90%;Groundout: 2B-1B (Deep 2B-1B); Ward to 3B
+t3;5-0;2;--3;4,(0-2) TFFC;O;LAA;Hunter Renfroe;Matt Manning;-1%;89%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Angels 5, Tigers 0.
+Bottom of the 3rd, Tigers Batting, Behind 0-5, Angels' Patrick Sandoval facing 9-1-2 
+b3;0-5;0;---;2,(1-0) BX;;DET;Zack Short;Patrick Sandoval;-3%;87%;Single to LF (Ground Ball thru SS-3B Hole)
+b3;0-5;0;1--;3,(1-1) CBX;;DET;Matt Vierling;Patrick Sandoval;-6%;80%;Reached on E1 (throw) (Ground Ball); Short to 3B; Vierling to 1B
+b3;0-5;0;1-3;8,(2-2) FFBFBFFS;O;DET;Andy Ibáñez;Patrick Sandoval;5%;85%;Strikeout Swinging
+b3;0-5;1;1-3;8,(3-2) CBFBBF.FX;RO;DET;Spencer Torkelson;Patrick Sandoval;0%;85%;Groundout: 3B-1B (Weak 3B); Short Scores/unER; Vierling to 2B
+b3;1-5;2;-2-;8,(2-2) CSF*BFBFX;R;DET;Kerry Carpenter;Patrick Sandoval;-6%;79%;Single to RF (Ground Ball); Vierling Scores/unER
+b3;2-5;2;1--;4,(2-1) CBBX;O;DET;Javier Báez;Patrick Sandoval;2%;81%;Groundout: SS-2B/Forceout at 2B; Báez to 1B
+;;;;;;;;;2 runs, 2 hits, 1 error, 1 LOB. Angels 5, Tigers 2.
+Top of the 4th, Angels Batting, Ahead 5-2, Tigers' Matt Manning facing 8-9-1 
+t4;5-2;0;---;4,(2-1) BBCX;R;LAA;Eduardo Escobar;Matt Manning;6%;88%;Home Run (Fly Ball to Deep RF Line)
+t4;6-2;0;---;4,(0-2) SS.FC;O;LAA;Luis Rengifo;Matt Manning;-1%;87%;Strikeout Looking
+t4;6-2;1;---;9,(2-2) BSFFFFBFX;O;LAA;Zach Neto;Matt Manning;-1%;86%;Popfly: 1B
+t4;6-2;2;---;5,(3-1) BBCB.X;R;LAA;Shohei Ohtani;Matt Manning;5%;91%;Home Run (Fly Ball to Deep CF-RF)
+t4;7-2;2;---;1,(0-0) X;O;LAA;Mickey Moniak;Matt Manning;0%;91%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Angels 7, Tigers 2.
+Bottom of the 4th, Tigers Batting, Behind 2-7, Angels' Patrick Sandoval facing 6-7-8 
+b4;2-7;0;---;1,(0-0) X;O;DET;Jake Rogers;Patrick Sandoval;1%;92%;Lineout: RF (Deep RF)
+b4;2-7;1;---;6,(3-2) .BBCBFT;O;DET;Miguel Cabrera;Patrick Sandoval;1%;93%;Strikeout Swinging
+b4;2-7;2;---;7,(2-2) BFBFFFX;O;DET;Zach McKinstry;Patrick Sandoval;1%;94%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 7, Tigers 2.
+Top of the 5th, Angels Batting, Ahead 7-2, Tigers' Matt Manning facing 4-5-6 
+t5;7-2;0;---;3,(2-0) BBX;O;LAA;Taylor Ward;Matt Manning;-1%;93%;Groundout: 3B-1B
+t5;7-2;1;---;2,(0-1) CX;O;LAA;Mike Moustakas;Matt Manning;0%;93%;Popfly: C (Short 1B Line)
+t5;7-2;2;---;1,(0-0) X;O;LAA;Matt Thaiss;Matt Manning;0%;93%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 7, Tigers 2.
+Bottom of the 5th, Tigers Batting, Behind 2-7, Angels' Patrick Sandoval facing 9-1-2 
+b5;2-7;0;---;3,(0-2) CSX;;DET;Zack Short;Patrick Sandoval;-2%;90%;Single to CF (Line Drive to Deep CF)
+b5;2-7;0;1--;2,(1-0) BX;OO;DET;Matt Vierling;Patrick Sandoval;5%;95%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b5;2-7;2;---;1,(0-0) X;O;DET;Andy Ibáñez;Patrick Sandoval;0%;95%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Angels 7, Tigers 2.
+Top of the 6th, Angels Batting, Ahead 7-2, Tigers' Trey Wingenter facing 7-8-9 
+;;;;;;;;;Trey Wingenter replaces Matt Manning pitching
+t6;7-2;0;---;3,(0-2) .CFX;R;LAA;Hunter Renfroe;Trey Wingenter;2%;97%;Home Run (Fly Ball to Deep LF Line)
+t6;8-2;0;---;3,(1-1) S.BX;O;LAA;Eduardo Escobar;Trey Wingenter;0%;97%;Flyball: LF (Deep LF Line)
+t6;8-2;1;---;1,(0-0) X;O;LAA;Luis Rengifo;Trey Wingenter;0%;97%;Groundout: 1B-P
+t6;8-2;2;---;6,(3-2) FBBBS.S;O;LAA;Zach Neto;Trey Wingenter;0%;97%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Angels 8, Tigers 2.
+Bottom of the 6th, Tigers Batting, Behind 2-8, Angels' Jacob Webb facing 3-4-5 
+;;;;;;;;;Jacob Webb replaces Patrick Sandoval pitching
+b6;2-8;0;---;5,(3-1) .BBBCB;;DET;Spencer Torkelson;Jacob Webb;-1%;95%;Walk
+b6;2-8;0;1--;5,(1-2) CBSFX;O;DET;Kerry Carpenter;Jacob Webb;1%;97%;Groundout: SS-2B/Forceout at 2B (SS-2B); Carpenter to 1B
+b6;2-8;1;1--;4,(0-2) CSFC;O;DET;Javier Báez;Jacob Webb;1%;98%;Strikeout Looking
+b6;2-8;2;1--;2,(0-1) *SX;O;DET;Jake Rogers;Jacob Webb;1%;98%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 8, Tigers 2.
+Top of the 7th, Angels Batting, Ahead 8-2, Tigers' Trey Wingenter facing 2-3-4 
+;;;;;;;;;Michael Stefanic pinch hits for Shohei Ohtani (DH) batting 2nd
+t7;8-2;0;---;2,(0-1) .CX;O;LAA;Michael Stefanic;Trey Wingenter;0%;98%;Flyball: CF (Deep CF)
+t7;8-2;1;---;5,(3-1) SBBBB;;LAA;Mickey Moniak;Trey Wingenter;0%;98%;Walk
+t7;8-2;1;1--;5,(2-2) CFBBX;OO;LAA;Taylor Ward;Trey Wingenter;0%;98%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 8, Tigers 2.
+Bottom of the 7th, Tigers Batting, Behind 2-8, Angels' Gerardo Reyes facing 7-8-9 
+;;;;;;;;;Gerardo Reyes replaces Jacob Webb pitchingAndrew Velazquez replaces Mike Moustakas (3B) playing 2B batting 5thLuis Rengifo moves from 2B to 3B 
+b7;2-8;0;---;2,(0-1) ....FX;O;DET;Miguel Cabrera;Gerardo Reyes;1%;99%;Groundout: 3B-1B (SS-3B Hole)
+b7;2-8;1;---;9,(2-2) BCSFBFFFX;;DET;Zach McKinstry;Gerardo Reyes;-1%;98%;Double to RF (Ground Ball)
+;;;;;;;;;Nick Maton pinch hits for Zack Short (3B) batting 9th
+b7;2-8;1;-2-;5,(2-2) .BFFBX;O;DET;Nick Maton;Gerardo Reyes;1%;99%;Groundout: SS-1B (SS-2B); McKinstry to 3B
+b7;2-8;2;--3;5,(2-2) CFB*BX;R;DET;Matt Vierling;Gerardo Reyes;-1%;97%;Reached on E6 (Ground Ball to SS-2B); McKinstry Scores/No RBI/unER; Vierling to 1B
+b7;3-8;2;1--;3,(1-1) CBX;;DET;Andy Ibáñez;Gerardo Reyes;-1%;96%;Single to 2B (Ground Ball to SS-2B); Vierling to 2B
+b7;3-8;2;12-;3,(0-2) CCX;O;DET;Spencer Torkelson;Gerardo Reyes;2%;98%;Groundout: 3B unassisted/Forceout at 3B; Torkelson to 1B
+;;;;;;;;;1 run, 2 hits, 1 error, 2 LOB. Angels 8, Tigers 3.
+Top of the 8th, Angels Batting, Ahead 8-3, Tigers' Chasen Shreve facing 5-6-7 
+;;;;;;;;;Chasen Shreve replaces Trey Wingenter pitchingNick Maton moves from PH to 3B 
+t8;8-3;0;---;5,(1-2) ..BCS.FX;O;LAA;Andrew Velazquez;Chasen Shreve;0%;98%;Groundout: P-1B
+t8;8-3;1;---;4,(1-2) CFBX;;LAA;Matt Thaiss;Chasen Shreve;0%;98%;Single to CF (Line Drive to Deep CF)
+t8;8-3;1;1--;8,(3-2) BBCBCFFX;;LAA;Hunter Renfroe;Chasen Shreve;0%;99%;Single to 3B (Ground Ball to SS-3B Hole); Thaiss to 2B
+t8;8-3;1;12-;1,(0-0) X;O;LAA;Eduardo Escobar;Chasen Shreve;0%;98%;Flyball: RF (Deep CF-RF); Thaiss to 3B
+t8;8-3;2;1-3;5,(1-2) CFBFX;O;LAA;Luis Rengifo;Chasen Shreve;0%;98%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Angels 8, Tigers 3.
+Bottom of the 8th, Tigers Batting, Behind 3-8, Angels' Zack Weiss facing 4-5-6 
+;;;;;;;;;Zack Weiss replaces Gerardo Reyes pitching
+b8;3-8;0;---;4,(2-1) .BBCX;O;DET;Kerry Carpenter;Zack Weiss;1%;99%;Groundout: 2B-1B (2B-1B)
+b8;3-8;1;---;1,(0-0) H;;DET;Javier Báez;Zack Weiss;-1%;98%;Hit By Pitch
+b8;3-8;1;1--;5,(3-1) CBBBB;;DET;Jake Rogers;Zack Weiss;-2%;96%;Walk; Báez to 2B
+b8;3-8;1;12-;3,(0-2) CFS;O;DET;Miguel Cabrera;Zack Weiss;2%;98%;Strikeout Swinging
+;;;;;;;;;Aaron Loup replaces Zack Weiss pitching
+b8;3-8;2;12-;6,(1-2) .BCFFFX;RO;DET;Zach McKinstry;Aaron Loup;0%;99%;Single to CF (Line Drive); Báez Scores; Rogers out at 3B/CF-3B
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Angels 8, Tigers 4.
+Top of the 9th, Angels Batting, Ahead 8-4, Tigers' Brendan White facing 1-2-3 
+;;;;;;;;;Brendan White replaces Chasen Shreve pitching
+t9;8-4;0;---;4,(2-1) .CBBX;O;LAA;Zach Neto;Brendan White;0%;98%;Groundout: SS-1B
+t9;8-4;1;---;5,(3-1) BFBBB;;LAA;Michael Stefanic;Brendan White;0%;99%;Walk
+t9;8-4;1;1--;2,(0-1) CX;;LAA;Mickey Moniak;Brendan White;0%;99%;Single to RF (Ground Ball thru 2B-1B); Stefanic to 3B
+t9;8-4;1;1-3;5,(3-1) CBBBB;;LAA;Taylor Ward;Brendan White;0%;99%;Walk; Moniak to 2B
+t9;8-4;1;123;5,(1-2) SS.FBS;O;LAA;Andrew Velazquez;Brendan White;-1%;99%;Strikeout Swinging
+t9;8-4;2;123;1,(0-0) X;RR;LAA;Matt Thaiss;Brendan White;1%;100%;Single to RF (Line Drive); Stefanic Scores; Moniak Scores; Ward to 3B
+t9;10-4;2;1-3;5,(2-2) TSBBX;R;LAA;Hunter Renfroe;Brendan White;0%;100%;Single to CF (Line Drive to LF-CF); Ward Scores; Thaiss to 2B
+t9;11-4;2;12-;4,(2-1) BBSX;O;LAA;Eduardo Escobar;Brendan White;0%;100%;Groundout: 1B-P
+;;;;;;;;;3 runs, 3 hits, 0 errors, 2 LOB. Angels 11, Tigers 4.
+Bottom of the 9th, Tigers Batting, Behind 4-11, Angels' Jaime Barria facing 9-1-2 
+;;;;;;;;;Jaime Barria replaces Aaron Loup pitching
+b9;4-11;0;---;5,(3-1) .BBFBB;;DET;Nick Maton;Jaime Barria;0%;100%;Walk
+b9;4-11;0;1--;2,(0-1) CX;OO;DET;Matt Vierling;Jaime Barria;0%;100%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b9;4-11;2;---;3,(1-1) BC.X;O;DET;Andy Ibáñez;Jaime Barria;0%;100%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 11, Tigers 4.

@@ -1,0 +1,282 @@
+
+Scorebox Meta
+20230816
+1:10 p.m. Local
+30049
+Citi Field
+174
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/PIT-2023.png;/teams/PIT/2023.shtml;0;0;2;0;0;1;0;0;0;3;7;2
+https://cdn.ssref.net/req/202308251/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;3;0;1;2;0;2;0;X;8;9;0
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;LF;3;0;1;1;2;0;5;.264;.362;.441;.803;20;9;0.134; 0.87;0.144;-0.010; 0.01%; 0.06; 0.5;1;0;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;5;0;1;2;0;0;5;.244;.331;.460;.790;12;8;0.090; 0.99;0.152;-0.062; 0.00%; 0.07; 0.7;2;4;
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;1;1;1;1;2;5;.222;.322;.522;.844;20;13;-0.034; 0.63;0.051;-0.085;-0.00%; 0.04; -0.1;10;1;HR,CS
+Jeff McNeil;/players/m/mcneije01.shtml;2B;4;1;1;0;1;0;5;.257;.331;.339;.671;19;13;-0.060; 0.52;0.004;-0.064;-0.00%; 0.04; -0.3;2;3;
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;1;1;0;0;2;0;3;.222;.333;.376;.709;16;5;0.007; 0.60;0.030;-0.023;0%; 0.04; 0.1;;;
+Francisco Alvarez;/players/a/alvarfr01.shtml;PH-DH-DH;2;0;0;0;0;2;2;.224;.290;.469;.759;12;7;-0.005; 0.09;0.000;-0.005;0%; 0.01; -0.6;;;
+DJ Stewart;/players/s/stewadj01.shtml;RF;4;2;2;3;0;0;4;.234;.339;.532;.871;20;13;0.184; 0.61;0.235;-0.051; 0.01%; 0.04; 2.0;2;1;2·HR,GDP
+Tim Locastro;/players/l/locasti01.shtml;CF;0;0;0;0;0;0;0;.000;.313;.000;.313;;;;;;;;;;1;0;
+Omar Narváez;/players/n/narvaom01.shtml;C;4;1;1;0;0;0;4;.208;.286;.292;.577;12;11;0.030; 0.62;0.054;-0.024; 0.00%; 0.04; 0.5;8;0;2B
+Rafael Ortega;/players/o/ortegra01.shtml;CF-RF;3;2;2;1;1;0;4;.267;.340;.311;.651;11;6;0.081; 0.56;0.081;0.000; 0.00%; 0.04; 2.0;0;0;2B
+Jonathan Araúz;/players/a/arauzjo01.shtml;3B;3;0;0;0;1;3;4;.133;.235;.333;.569;23;13;-0.081; 0.84;0.002;-0.082;-0.00%; 0.06; -0.9;0;4;
+Tylor Megill;/players/m/megilty01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Phil Bickford;/players/b/bickfph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brooks Raley;/players/r/raleybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Gott;/players/g/gotttr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Ottavino;/players/o/ottavad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Omar Narváez (3, off Johan Oviedo); Rafael Ortega (2, off Johan Oviedo).
+
+
+HR: DJ Stewart 2 (4, 1 off Ryan Borucki, 5th inn, 1 on, 2 outs to Deep CF-RF, 1 off Johan Oviedo, 2nd inn, 0 on, 1 out to Deep RF Line); Pete Alonso (36, off Jose Hernandez, 7th inn, 0 on, 0 outs to Deep LF).
+
+
+TB: DJ Stewart 8; Pete Alonso 4; Rafael Ortega 3; Omar Narváez 2; Brandon Nimmo; Jeff McNeil; Francisco Lindor.
+
+
+GIDP: DJ Stewart (1).
+
+
+RBI: DJ Stewart 3 (8); Francisco Lindor 2 (72); Pete Alonso (89); Rafael Ortega (3); Brandon Nimmo (50).
+
+
+2-out RBI: Francisco Lindor 2; DJ Stewart 2; Brandon Nimmo; Rafael Ortega.
+
+
+Team LOB: 9.
+With RISP: 3 for 8.
+
+Batting away
+Ke'Bryan Hayes;/players/h/hayeske01.shtml;3B;5;1;2;0;0;0;5;.261;.298;.422;.721;16;11;0.009; 0.95;0.090;-0.082;0%; 0.06; -0.0;0;3;2B
+Bryan Reynolds;/players/r/reynobr01.shtml;LF;5;1;1;2;0;1;5;.266;.330;.469;.799;18;14;0.051; 0.90;0.129;-0.078; 0.00%; 0.05; 0.3;0;0;HR
+Andrew McCutchen;/players/m/mccutan01.shtml;DH;3;0;0;0;1;1;4;.251;.377;.381;.757;18;10;-0.054; 0.81;0.016;-0.070;-0.00%; 0.05; -0.6;;;
+Jack Suwinski;/players/s/suwinja01.shtml;CF;3;0;1;0;1;1;4;.209;.334;.455;.790;19;8;-0.035; 0.70;0.020;-0.055;-0.00%; 0.04; -0.3;2;0;2B
+Connor Joe;/players/j/joeco01.shtml;RF;3;1;1;0;1;0;4;.243;.334;.427;.761;23;14;-0.005; 0.75;0.043;-0.049;0%; 0.04; -0.2;2;0;
+Endy Rodríguez;/players/r/rodrien01.shtml;C;4;0;1;0;0;0;4;.227;.301;.400;.701;14;7;-0.020; 0.80;0.038;-0.057;-0.00%; 0.04; -0.4;7;1;
+Liover Peguero;/players/p/pegueli01.shtml;2B;3;0;0;0;1;0;4;.257;.307;.500;.807;11;7;0.007; 0.89;0.058;-0.051;0%; 0.05; -0.0;2;3;
+Alfonso Rivas;/players/r/rivasal01.shtml;1B;3;0;0;0;0;3;4;.196;.300;.412;.712;19;14;-0.065; 0.85;0.015;-0.079;-0.00%; 0.05; -0.8;9;0;HBP
+Alika Williams;/players/w/willial04.shtml;SS;3;0;1;1;0;0;3;.200;.273;.240;.513;17;10;-0.046; 1.22;0.059;-0.104;-0.00%; 0.07; 0.0;2;1;GDP
+Henry Davis;/players/d/davishe01.shtml;PH;0;0;0;0;1;0;1;.222;.317;.352;.669;8;4;0.004; 0.10;0.004;0.000;0%; 0.01; 0.4;;;
+Johan Oviedo;/players/o/oviedjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Borucki;/players/b/borucry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Jose Hernandez;/players/h/hernajo03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yohan Ramirez;/players/r/ramiryo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ke'Bryan Hayes (19, off Tylor Megill); Jack Suwinski (17, off Tylor Megill).
+
+
+HR: Bryan Reynolds (18, off Tylor Megill, 3rd inn, 1 on, 0 outs to Deep LF-CF).
+
+
+HBP: Alfonso Rivas (2, by Phil Bickford).
+
+
+TB: Bryan Reynolds 4; Ke'Bryan Hayes 3; Jack Suwinski 2; Alika Williams; Connor Joe; Endy Rodríguez.
+
+
+GIDP: Alika Williams (1).
+
+
+RBI: Bryan Reynolds 2 (59); Alika Williams (4).
+
+
+2-out RBI: Alika Williams.
+
+
+Team LOB: 8.
+With RISP: 2 for 7.
+
+Pitching home
+Tylor Megill;/players/m/megilty01.shtml; W (7-6); 5 ;5;2;2;4;5;1;5.53;22;95;54;27;13;14;7;6;4;0;50;;;0.095; 1.06; 0.00%; 0.07; 0.5
+Phil Bickford;/players/b/bickfph01.shtml;Phil Bickford; 1 ;2;1;1;0;0;0;5.94;6;30;21;16;1;4;1;4;0;0;;0;0;-0.007; 0.99; 0.00%; 0.07; -0.5
+Brooks Raley;/players/r/raleybr01.shtml; H (21); 1 ;0;0;0;0;0;0;2.55;3;14;9;3;3;3;2;1;0;0;;0;0;0.047; 0.62; 0.00%; 0.04; 0.5
+Trevor Gott;/players/g/gotttr01.shtml;Trevor Gott; 1 ;0;0;0;0;0;0;3.89;3;7;4;3;0;1;2;1;0;0;;0;0;0.012; 0.16; 0.00%; 0.01; 0.5
+Adam Ottavino;/players/o/ottavad01.shtml;Adam Ottavino; 1 ;0;0;0;1;1;0;3.31;4;17;11;5;3;3;1;1;0;0;;0;0;0.006; 0.12; 0.00%; 0.01; 0.5
+
+Pitching away
+Johan Oviedo;/players/o/oviedjo01.shtml; L (6-13); 4 ;5;4;4;5;3;1;4.55;21;78;43;25;6;12;6;7;3;0;34;;;-0.241; 1.06;-0.01%; 0.06; -2.4
+Ryan Borucki;/players/b/borucry01.shtml;Ryan Borucki; 2 ;1;2;2;1;1;1;3.86;8;33;24;15;3;6;3;3;0;0;;1;0;-0.066; 0.47;-0.00%; 0.03; -0.6
+Jose Hernandez;/players/h/hernajo03.shtml;Jose Hernandez; 1 ;2;2;1;2;1;1;4.06;8;37;20;13;1;6;2;3;1;0;;0;0;-0.040; 0.14;-0.00%; 0.01; -1.5
+Yohan Ramirez;/players/r/ramiryo01.shtml;Yohan Ramirez; 1 ;1;0;0;0;2;0;4.11;4;17;11;3;1;7;1;1;0;0;;0;0;0.001; 0.02; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: Johan Oviedo (2).
+WP: None.
+HBP: Phil Bickford (1; Alfonso Rivas).
+IBB: None.
+Pickoffs: None.
+
+Balks: Johan Oviedo (2).
+WP: None.
+HBP: Phil Bickford (1; Alfonso Rivas).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Shane Livensparger, 1B - Dan Bellino, 2B - Phil Cuzzi, 3B - Mark Ripperger, LF - (none), RF - (none).
+Time of Game: 2:54.
+Attendance: 30,049.
+Field Condition: Unknown.
+Start Time Weather: 78° F, Wind 3mph from Right to Left, Cloudy, No Precipitation.
+
+div_lineups
+Pirates
+1;Ke'Bryan Hayes;/players/h/hayeske01.shtml;3B
+2;Bryan Reynolds;/players/r/reynobr01.shtml;LF
+3;Andrew McCutchen;/players/m/mccutan01.shtml;DH
+4;Jack Suwinski;/players/s/suwinja01.shtml;CF
+5;Connor Joe;/players/j/joeco01.shtml;RF
+6;Endy Rodríguez;/players/r/rodrien01.shtml;C
+7;Liover Peguero;/players/p/pegueli01.shtml;2B
+8;Alfonso Rivas;/players/r/rivasal01.shtml;1B
+9;Alika Williams;/players/w/willial04.shtml;SS
+; Johan Oviedo;/players/o/oviedjo01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;LF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Pete Alonso;/players/a/alonspe01.shtml;1B
+4;Jeff McNeil;/players/m/mcneije01.shtml;2B
+5;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+6;DJ Stewart;/players/s/stewadj01.shtml;RF
+7;Omar Narváez;/players/n/narvaom01.shtml;C
+8;Rafael Ortega;/players/o/ortegra01.shtml;CF
+9;Jonathan Araúz;/players/a/arauzjo01.shtml;3B
+; Tylor Megill;/players/m/megilty01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b2;1-0;2;123;2,(0-1) CX;RR;NYM;Francisco Lindor;Johan Oviedo;15%;83%;Single to LF (Line Drive to LF-CF); Narváez Scores; Ortega Scores; Nimmo to 3B; Lindor to 2B
+t3;0-3;0;-2-;3,(0-2) CS.X;RR;PIT;Bryan Reynolds;Tylor Megill;-13%;61%;Home Run (Fly Ball to Deep LF-CF); Hayes Scores
+b5;4-2;2;1--;7,(3-2) B*BCBS.>F>X;RR;NYM;DJ Stewart;Ryan Borucki;13%;92%;Home Run (Fly Ball to Deep CF-RF); Vogelbach Scores
+b2;0-0;1;---;6,(2-2) BCBFFX;R;NYM;DJ Stewart;Johan Oviedo;11%;64%;Home Run (Fly Ball to Deep RF Line)
+b4;3-2;2;-2-;2,(0-1) CX;R;NYM;Brandon Nimmo;Johan Oviedo;10%;77%;Single to LF (Ground Ball); Ortega Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Pirates Batting, Tied 0-0, Mets' Tylor Megill facing 1-2-3 
+t1;0-0;0;---;4,(2-1) BBFX;;PIT;Ke'Bryan Hayes;Tylor Megill;-4%;46%;Single to CF (Line Drive to Deep CF)
+t1;0-0;0;1--;5,(2-2) CBSBT;O;PIT;Bryan Reynolds;Tylor Megill;3%;50%;Strikeout Swinging
+t1;0-0;1;1--;3,(0-2) SS*S;O;PIT;Andrew McCutchen;Tylor Megill;3%;53%;Strikeout Swinging
+t1;0-0;2;1--;4,(3-0) BBBB;;PIT;Jack Suwinski;Tylor Megill;-2%;51%;Walk; Hayes to 2B
+t1;0-0;2;12-;5,(2-2) *BCBFX;O;PIT;Connor Joe;Tylor Megill;4%;55%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Pirates 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Pirates' Johan Oviedo facing 1-2-3 
+b1;0-0;0;---;5,(3-1) BBBCB;;NYM;Brandon Nimmo;Johan Oviedo;4%;58%;Walk
+b1;0-0;0;1--;3,(1-1) CBX;O;NYM;Francisco Lindor;Johan Oviedo;-3%;55%;Flyball: RF (Deep CF-RF)
+b1;0-0;1;1--;3,(0-2) CF*S;O;NYM;Pete Alonso;Johan Oviedo;-3%;52%;Strikeout Swinging
+b1;0-0;2;1--;2,(1-0) BX;O;NYM;Jeff McNeil;Johan Oviedo;-2%;50%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Pirates 0, Mets 0.
+Top of the 2nd, Pirates Batting, Tied 0-0, Mets' Tylor Megill facing 6-7-8 
+t2;0-0;0;---;3,(1-1) BFX;;PIT;Endy Rodríguez;Tylor Megill;-4%;46%;Single to LF (Ground Ball)
+t2;0-0;0;1--;6,(3-2) BBBCC1B;;PIT;Liover Peguero;Tylor Megill;-6%;41%;Walk; Rodríguez to 2B
+t2;0-0;0;12-;6,(1-2) CFFFB*S;O;PIT;Alfonso Rivas;Tylor Megill;6%;46%;Strikeout Swinging
+t2;0-0;1;12-;7,(3-2) BBSCFBX;OO;PIT;Alika Williams;Tylor Megill;9%;55%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Pirates' Johan Oviedo facing 5-6-7 
+b2;0-0;0;---;6,(3-2) BBCF.BX;O;NYM;Daniel Vogelbach;Johan Oviedo;-2%;53%;Lineout: 1B
+b2;0-0;1;---;6,(2-2) BCBFFX;R;NYM;DJ Stewart;Johan Oviedo;11%;64%;Home Run (Fly Ball to Deep RF Line)
+b2;1-0;1;---;2,(0-1) FX;;NYM;Omar Narváez;Johan Oviedo;4%;67%;Double to CF (Line Drive to Deep CF-RF)
+b2;1-0;1;-2-;5,(3-1) *BFBB*B;;NYM;Rafael Ortega;Johan Oviedo;2%;69%;Walk
+b2;1-0;1;12-;6,(3-2) BCBFB.S;O;NYM;Jonathan Araúz;Johan Oviedo;-4%;65%;Strikeout Swinging
+b2;1-0;2;12-;,(0-0) N;;NYM;Brandon Nimmo;Johan Oviedo;1%;67%;Balk; Narváez to 3B; Ortega to 2B
+b2;1-0;2;-23;4,(3-0) N.BBBB;;NYM;Brandon Nimmo;Johan Oviedo;1%;68%;Walk
+b2;1-0;2;123;2,(0-1) CX;RR;NYM;Francisco Lindor;Johan Oviedo;15%;83%;Single to LF (Line Drive to LF-CF); Narváez Scores; Ortega Scores; Nimmo to 3B; Lindor to 2B
+b2;3-0;2;-23;2,(0-1) SX;O;NYM;Pete Alonso;Johan Oviedo;-3%;80%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;3 runs, 3 hits, 0 errors, 2 LOB. Pirates 0, Mets 3.
+Top of the 3rd, Pirates Batting, Behind 0-3, Mets' Tylor Megill facing 1-2-3 
+t3;0-3;0;---;3,(1-1) CBX;;PIT;Ke'Bryan Hayes;Tylor Megill;-5%;74%;Double to CF (Line Drive to Deep CF)
+t3;0-3;0;-2-;3,(0-2) CS.X;RR;PIT;Bryan Reynolds;Tylor Megill;-13%;61%;Home Run (Fly Ball to Deep LF-CF); Hayes Scores
+t3;2-3;0;---;5,(2-2) TBS.BX;O;PIT;Andrew McCutchen;Tylor Megill;3%;64%;Groundout: 3B-1B (Weak 3B)
+t3;2-3;1;---;5,(2-2) BSSBT;O;PIT;Jack Suwinski;Tylor Megill;2%;66%;Strikeout Swinging
+t3;2-3;2;---;5,(3-1) BCBBB;;PIT;Connor Joe;Tylor Megill;-1%;64%;Walk
+t3;2-3;2;1--;2,(1-0) BX;O;PIT;Endy Rodríguez;Tylor Megill;3%;67%;Groundout: 1B unassisted
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Pirates 2, Mets 3.
+Bottom of the 3rd, Mets Batting, Ahead 3-2, Pirates' Johan Oviedo facing 4-5-6 
+b3;3-2;0;---;1,(0-0) X;O;NYM;Jeff McNeil;Johan Oviedo;-2%;65%;Groundout: 2B-1B (2B-1B)
+b3;3-2;1;---;4,(3-0) BBBB;;NYM;Daniel Vogelbach;Johan Oviedo;2%;67%;Walk
+b3;3-2;1;1--;3,(0-2) SFX;OO;NYM;DJ Stewart;Johan Oviedo;-5%;62%;Ground Ball Double Play: 3B-SS-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 2, Mets 3.
+Top of the 4th, Pirates Batting, Behind 2-3, Mets' Tylor Megill facing 7-8-9 
+t4;2-3;0;---;1,(0-0) X;O;PIT;Liover Peguero;Tylor Megill;3%;65%;Popfly: SS
+t4;2-3;1;---;6,(2-2) CFBFBS;O;PIT;Alfonso Rivas;Tylor Megill;2%;67%;Strikeout Swinging
+t4;2-3;2;---;5,(2-2) CFBBX;O;PIT;Alika Williams;Tylor Megill;1%;69%;Lineout: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 2, Mets 3.
+Bottom of the 4th, Mets Batting, Ahead 3-2, Pirates' Johan Oviedo facing 7-8-9 
+b4;3-2;0;---;6,(1-2) CFF.BFX;O;NYM;Omar Narváez;Johan Oviedo;-2%;67%;Groundout: 2B-1B
+b4;3-2;1;---;3,(1-1) BCX;;NYM;Rafael Ortega;Johan Oviedo;4%;71%;Double to RF (Fly Ball to RF Line)
+b4;3-2;1;-2-;5,(2-2) BBCSS;O;NYM;Jonathan Araúz;Johan Oviedo;-3%;67%;Strikeout Swinging
+b4;3-2;2;-2-;2,(0-1) CX;R;NYM;Brandon Nimmo;Johan Oviedo;10%;77%;Single to LF (Ground Ball); Ortega Scores
+b4;4-2;2;1--;2,(1-0) BX;O;NYM;Francisco Lindor;Johan Oviedo;-2%;75%;Popfly: 2B (Deep 2B-1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Pirates 2, Mets 4.
+Top of the 5th, Pirates Batting, Behind 2-4, Mets' Tylor Megill facing 1-2-3 
+t5;2-4;0;---;5,(1-2) CBSFX;O;PIT;Ke'Bryan Hayes;Tylor Megill;3%;78%;Groundout: SS-1B
+t5;2-4;1;---;3,(1-1) CBX;O;PIT;Bryan Reynolds;Tylor Megill;2%;80%;Groundout: 3B-1B (Short 3B Line)
+t5;2-4;2;---;5,(3-1) BCBBB;;PIT;Andrew McCutchen;Tylor Megill;-2%;79%;Walk
+t5;2-4;2;1--;4,(2-1) *BSBX;O;PIT;Jack Suwinski;Tylor Megill;3%;81%;Double to RF (Line Drive to Short RF Line); McCutchen out at Hm/RF-2B-C
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 2, Mets 4.
+Bottom of the 5th, Mets Batting, Ahead 4-2, Pirates' Johan Oviedo facing 3-4-5 
+b5;4-2;0;---;6,(3-2) FBC.BBB;;NYM;Pete Alonso;Johan Oviedo;2%;84%;Walk
+;;;;;;;;;Ryan Borucki replaces Johan Oviedo pitching
+b5;4-2;0;1--;6,(0-2) .CF.FFFX;O;NYM;Jeff McNeil;Ryan Borucki;-2%;82%;Flyball: CF (Deep CF)
+b5;4-2;1;1--;2,(1-0) B>C;O;NYM;Daniel Vogelbach;Ryan Borucki;-3%;79%;Alonso Caught Stealing 2B (C-SS)
+b5;4-2;2;---;6,(3-2) B>C.BSBB;;NYM;Daniel Vogelbach;Ryan Borucki;1%;80%;Walk
+b5;4-2;2;1--;7,(3-2) B*BCBS.>F>X;RR;NYM;DJ Stewart;Ryan Borucki;13%;92%;Home Run (Fly Ball to Deep CF-RF); Vogelbach Scores
+b5;6-2;2;---;2,(0-1) CX;O;NYM;Omar Narváez;Ryan Borucki;0%;92%;Flyball: 2B (Short CF-RF)
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Pirates 2, Mets 6.
+Top of the 6th, Pirates Batting, Behind 2-6, Mets' Phil Bickford facing 5-6-7 
+;;;;;;;;;Phil Bickford replaces Tylor Megill pitching
+t6;2-6;0;---;11,(2-2) .FBFFFFBFFFX;;PIT;Connor Joe;Phil Bickford;-3%;89%;Single to CF (Ground Ball thru SS-2B)
+t6;2-6;0;1--;6,(3-2) BFBCBX;O;PIT;Endy Rodríguez;Phil Bickford;3%;92%;Flyball: LF
+t6;2-6;1;1--;2,(0-1) FX;O;PIT;Liover Peguero;Phil Bickford;2%;94%;Flyball: 2B (Short CF-RF)
+t6;2-6;2;1--;4,(1-2) CSBH;;PIT;Alfonso Rivas;Phil Bickford;-1%;92%;Hit By Pitch; Joe to 2B
+t6;2-6;2;12-;5,(2-2) CBBFX;R;PIT;Alika Williams;Phil Bickford;-6%;87%;Single to RF (Fly Ball to Short RF Line); Joe Scores; Rivas to 3B
+t6;3-6;2;1-3;2,(0-1) CX;O;PIT;Ke'Bryan Hayes;Phil Bickford;5%;91%;Flyball: RF (Deep RF Line)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Pirates 3, Mets 6.
+Bottom of the 6th, Mets Batting, Ahead 6-3, Pirates' Ryan Borucki facing 8-9-1 
+b6;6-3;0;---;2,(0-1) CX;;NYM;Rafael Ortega;Ryan Borucki;1%;92%;Reached on E5 (Ground Ball); Ortega to 1B
+b6;6-3;0;1--;6,(1-2) *B1FFFFS;O;NYM;Jonathan Araúz;Ryan Borucki;-1%;91%;Strikeout Swinging
+b6;6-3;1;1--;1,(0-0) X;O;NYM;Brandon Nimmo;Ryan Borucki;-1%;91%;Groundout: P-1B (Weak 2B-1B); Ortega to 2B
+b6;6-3;2;-2-;3,(1-1) C*BX;O;NYM;Francisco Lindor;Ryan Borucki;-1%;90%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Pirates 3, Mets 6.
+Top of the 7th, Pirates Batting, Behind 3-6, Mets' Brooks Raley facing 2-3-4 
+;;;;;;;;;Brooks Raley replaces Phil Bickford pitching
+t7;3-6;0;---;3,(0-2) .CSX;O;PIT;Bryan Reynolds;Brooks Raley;2%;92%;Groundout: 3B-1B (SS-3B Hole)
+t7;3-6;1;---;5,(2-2) BBCSX;O;PIT;Andrew McCutchen;Brooks Raley;2%;93%;Groundout: SS-1B
+t7;3-6;2;---;6,(3-2) BBBCSX;O;PIT;Jack Suwinski;Brooks Raley;1%;94%;Popfly: SS (Weak SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 3, Mets 6.
+Bottom of the 7th, Mets Batting, Ahead 6-3, Pirates' Jose Hernandez facing 3-4-5 
+;;;;;;;;;Jose Hernandez replaces Ryan Borucki pitching
+b7;6-3;0;---;3,(1-1) .FBX;R;NYM;Pete Alonso;Jose Hernandez;3%;97%;Home Run (Fly Ball to Deep LF)
+b7;7-3;0;---;6,(3-2) BBF.BCB;;NYM;Jeff McNeil;Jose Hernandez;0%;98%;Walk
+;;;;;;;;;Francisco Alvarez pinch hits for Daniel Vogelbach (DH) batting 5th
+b7;7-3;0;1--;7,(3-2) ..*BCB*BFFS;O;NYM;Francisco Alvarez;Jose Hernandez;0%;97%;Strikeout Swinging
+b7;7-3;1;1--;4,(2-1) 1BBFX;O;NYM;DJ Stewart;Jose Hernandez;0%;97%;Flyball: CF (Deep CF)
+b7;7-3;2;1--;2,(0-1) F1X;;NYM;Omar Narváez;Jose Hernandez;0%;97%;Reached on E3 (Ground Ball); McNeil to 3B; Narváez to 1B
+b7;7-3;2;1-3;1,(0-0) X;R;NYM;Rafael Ortega;Jose Hernandez;1%;99%;Single to CF (Line Drive); McNeil Scores/unER; Narváez to 2B
+b7;8-3;2;12-;6,(3-2) BBC*BC>B;;NYM;Jonathan Araúz;Jose Hernandez;0%;99%;Walk; Narváez to 3B; Ortega to 2B
+b7;8-3;2;123;8,(3-2) CBCBF*B>F>X;O;NYM;Brandon Nimmo;Jose Hernandez;0%;98%;Groundout: 1B unassisted
+;;;;;;;;;2 runs, 2 hits, 1 error, 3 LOB. Pirates 3, Mets 8.
+Top of the 8th, Pirates Batting, Behind 3-8, Mets' Trevor Gott facing 5-6-7 
+;;;;;;;;;Trevor Gott replaces Brooks Raley pitchingTim Locastro replaces DJ Stewart (RF) playing CF batting 6thRafael Ortega moves from CF to RF 
+t8;3-8;0;---;2,(1-0) ....BX;O;PIT;Connor Joe;Trevor Gott;1%;99%;Foul Popfly: C
+t8;3-8;1;---;3,(2-0) BBX;O;PIT;Endy Rodríguez;Trevor Gott;0%;99%;Groundout: 2B-1B
+t8;3-8;2;---;2,(0-1) CX;O;PIT;Liover Peguero;Trevor Gott;0%;100%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 3, Mets 8.
+Bottom of the 8th, Mets Batting, Ahead 8-3, Pirates' Yohan Ramirez facing 2-3-4 
+;;;;;;;;;Yohan Ramirez replaces Jose Hernandez pitching
+b8;8-3;0;---;2,(1-0) .BX;O;NYM;Francisco Lindor;Yohan Ramirez;0%;99%;Flyball: RF (Deep RF)
+b8;8-3;1;---;6,(2-2) BBCC.FC;O;NYM;Pete Alonso;Yohan Ramirez;0%;99%;Strikeout Looking
+b8;8-3;2;---;4,(1-2) BCCX;;NYM;Jeff McNeil;Yohan Ramirez;0%;99%;Single to RF (Ground Ball)
+b8;8-3;2;1--;5,(2-2) BBCCS;O;NYM;Francisco Alvarez;Yohan Ramirez;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 3, Mets 8.
+Top of the 9th, Pirates Batting, Behind 3-8, Mets' Adam Ottavino facing 8-9-1 
+;;;;;;;;;Adam Ottavino replaces Trevor Gott pitching
+t9;3-8;0;---;3,(0-2) .CS.S;O;PIT;Alfonso Rivas;Adam Ottavino;0%;100%;Strikeout Swinging
+;;;;;;;;;Henry Davis pinch hits for Alika Williams (SS) batting 9th
+t9;3-8;1;---;8,(3-2) .BBCBC.FFB;;PIT;Henry Davis;Adam Ottavino;0%;99%;Walk
+t9;3-8;1;1--;2,(1-0) BX;O;PIT;Ke'Bryan Hayes;Adam Ottavino;0%;100%;Flyball: CF (Deep CF)
+t9;3-8;2;1--;3,(0-2) S>F>B;;PIT;Bryan Reynolds;Adam Ottavino;0%;100%;Defensive Indifference; Davis to 2B
+t9;3-8;2;-2-;4,(1-2) S>F>B.X;O;PIT;Bryan Reynolds;Adam Ottavino;0%;100%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Pirates 3, Mets 8.

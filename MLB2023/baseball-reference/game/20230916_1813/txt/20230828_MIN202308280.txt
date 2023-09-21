@@ -1,0 +1,275 @@
+
+Scorebox Meta
+20230828
+6:40 p.m. Local
+20323
+Target Field
+156
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/CLE-2023.png;/teams/CLE/2023.shtml;0;4;1;1;0;0;0;0;0;6;7;0
+https://cdn.ssref.net/req/202309121/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;0;6;1;3;0;0;0;0;X;10;12;1
+
+Batting home
+Edouard Julien;/players/j/julieed01.shtml;2B;4;1;1;0;1;2;5;.285;.378;.478;.856;27;15;0.034; 0.78;0.063;-0.030; 0.02%; 0.74; -0.2;0;2;
+Kyle Farmer;/players/f/farmeky01.shtml;2B;0;0;0;0;0;0;0;.251;.310;.394;.704;;;;;;;;;;0;0;
+Royce Lewis;/players/l/lewisro02.shtml;3B;4;2;2;4;1;0;5;.317;.366;.521;.887;22;15;0.340; 1.08;0.378;-0.038; 0.19%; 1.02; 2.9;2;1;HR
+Max Kepler;/players/k/keplema01.shtml;RF;3;1;1;0;2;1;5;.252;.321;.490;.811;22;10;-0.008; 0.58;0.050;-0.057;-0.00%; 0.55; -0.1;1;0;2B,GDP
+Carlos Correa;/players/c/correca01.shtml;SS;4;1;1;0;1;1;5;.226;.309;.398;.707;20;11;0.038; 1.04;0.105;-0.068; 0.02%; 0.99; 0.3;3;2;
+Jorge Polanco;/players/p/polanjo01.shtml;DH;4;2;2;3;0;0;4;.257;.331;.454;.785;15;9;0.273; 1.00;0.311;-0.038; 0.15%; 0.95; 2.6;;;HR,2B
+Ryan Jeffers;/players/j/jeffery01.shtml;C;4;0;0;0;0;2;4;.276;.377;.475;.853;17;12;-0.072; 0.59;0.000;-0.072;-0.04%; 0.56; -1.1;7;0;
+Matt Wallner;/players/w/wallnma01.shtml;LF;3;2;1;1;0;2;4;.231;.340;.515;.855;18;8;0.114; 0.54;0.122;-0.008; 0.07%; 0.52; 0.8;2;0;HR,HBP
+Donovan Solano;/players/s/solando01.shtml;1B;4;1;3;1;0;1;4;.288;.376;.400;.776;17;12;0.087; 0.55;0.088;-0.002; 0.05%; 0.52; 1.1;7;0;
+Michael A. Taylor;/players/t/taylomi02.shtml;CF;4;0;1;0;0;2;4;.225;.278;.444;.722;15;12;-0.089; 0.52;0.006;-0.095;-0.05%; 0.49; -0.4;4;0;SB
+Kenta Maeda;/players/m/maedake01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Kody Funderburk;/players/f/fundeko01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Josh Winder;/players/w/windejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jorge Polanco (13, off Xzavion Curry); Max Kepler (18, off Xzavion Curry).
+
+
+HR: Royce Lewis (8, off Xzavion Curry, 2nd inn, 3 on, 2 outs to Deep LF-CF); Matt Wallner (10, off Daniel Norris, 3rd inn, 0 on, 2 outs to Deep CF-RF); Jorge Polanco (10, off Daniel Norris, 4th inn, 2 on, 2 outs to Deep LF Line).
+
+
+HBP: Matt Wallner (11, by Xzavion Curry).
+
+
+TB: Jorge Polanco 6; Royce Lewis 5; Matt Wallner 4; Donovan Solano 3; Max Kepler 2; Edouard Julien; Michael A. Taylor; Carlos Correa.
+
+
+GIDP: Max Kepler (9).
+
+
+RBI: Royce Lewis 4 (28); Jorge Polanco 3 (34); Donovan Solano (30); Matt Wallner (26).
+
+
+2-out RBI: Royce Lewis 4; Jorge Polanco 3; Matt Wallner.
+
+
+Team LOB: 6.
+With RISP: 3 for 10.
+
+Batting away
+Steven Kwan;/players/k/kwanst01.shtml;LF;4;0;1;1;0;0;4;.267;.334;.374;.709;16;10;0.068; 0.67;0.105;-0.037; 0.03%; 0.53; 0.5;1;1;2B
+José Ramírez;/players/r/ramirjo01.shtml;3B;4;0;0;0;0;1;4;.277;.351;.485;.835;14;9;-0.087; 0.80;0.000;-0.087;-0.04%; 0.63; -0.9;0;0;
+Kole Calhoun;/players/c/calhoko01.shtml;1B;3;1;0;0;1;1;4;.275;.351;.420;.771;13;9;-0.014; 0.57;0.028;-0.042;-0.01%; 0.45; -0.3;3;0;
+Ramón Laureano;/players/l/laurera01.shtml;RF;4;1;2;0;0;1;4;.225;.298;.382;.680;16;12;0.086; 0.74;0.105;-0.019; 0.04%; 0.58; 0.7;0;0;
+Andrés Giménez;/players/g/gimenan01.shtml;2B;4;1;1;1;0;0;4;.238;.306;.386;.692;6;5;0.170; 0.97;0.180;-0.010; 0.08%; 0.77; 1.6;4;2;2B
+Will Brennan;/players/b/brennwi02.shtml;DH;3;0;0;1;0;1;4;.255;.286;.355;.641;18;11;-0.153; 1.19;0.000;-0.153;-0.07%; 0.94; -1.7;;;SF,GDP
+Gabriel Arias;/players/a/ariasga01.shtml;SS;4;2;2;1;0;1;4;.207;.287;.349;.636;8;7;0.145; 0.69;0.160;-0.015; 0.07%; 0.55; 1.3;1;4;2·2B
+Bo Naylor;/players/n/naylobo01.shtml;C;4;1;1;2;0;1;4;.204;.288;.394;.682;18;11;0.063; 0.69;0.120;-0.057; 0.03%; 0.54; 0.9;13;0;HR
+Myles Straw;/players/s/strawmy01.shtml;CF;3;0;0;0;0;1;3;.238;.303;.298;.601;9;6;-0.064; 0.78;0.000;-0.064;-0.03%; 0.62; -0.8;2;0;
+Xzavion Curry;/players/c/curryxz01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Daniel Norris;/players/n/norrida01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Eli Morgan;/players/m/morgael01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Enyel De Los Santos;/players/d/delosen01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+James Karinchak;/players/k/karinja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Andrés Giménez (23, off Kenta Maeda); Gabriel Arias 2 (9, 2 off Kenta Maeda); Steven Kwan (29, off Kenta Maeda).
+
+
+HR: Bo Naylor (6, off Kenta Maeda, 2nd inn, 1 on, 1 out to Deep CF).
+
+
+SF: Will Brennan (2, off Kenta Maeda).
+
+
+TB: Bo Naylor 4; Gabriel Arias 4; Ramón Laureano 2; Andrés Giménez 2; Steven Kwan 2.
+
+
+GIDP: Will Brennan (4).
+
+
+RBI: Bo Naylor 2 (18); Steven Kwan (44); Gabriel Arias (17); Will Brennan (34); Andrés Giménez (49).
+
+
+2-out RBI: Steven Kwan.
+
+
+Team LOB: 2.
+With RISP: 3 for 8.
+
+Pitching home
+Kenta Maeda;/players/m/maedake01.shtml;Kenta Maeda; 4 ;7;6;6;1;3;1;4.69;20;66;43;28;4;11;5;11;5;0;26;;;-0.354; 1.11;-0.20%; 1.06; -3.9
+Kody Funderburk;/players/f/fundeko01.shtml; W (1-0); 2 ;0;0;0;0;3;0;0.00;6;28;20;9;4;7;2;1;0;0;;0;0;0.069; 0.45; 0.04%; 0.42; 1.0
+Josh Winder;/players/w/windejo01.shtml; S (1); 3 ;0;0;0;0;1;0;4.26;9;24;17;10;1;6;2;6;1;0;;0;0;0.070; 0.30; 0.04%; 0.28; 1.6
+
+Pitching away
+Xzavion Curry;/players/c/curryxz01.shtml; L (3-3); 2 ;6;6;6;1;2;1;4.10;13;53;34;22;1;11;5;4;2;0;21;;;-0.479; 1.48;-0.23%; 1.17; -5.0
+Daniel Norris;/players/n/norrida01.shtml;Daniel Norris; 2 ;4;4;4;1;1;2;5.68;11;48;26;19;3;4;2;7;1;0;;0;0;-0.269; 0.80;-0.13%; 0.63; -3.0
+Eli Morgan;/players/m/morgael01.shtml;Eli Morgan; 1.1;1;0;0;1;4;0;3.13;6;28;18;9;5;4;1;0;0;0;;0;0;0.014; 0.23; 0.01%; 0.18; 0.5
+Enyel De Los Santos;/players/d/delosen01.shtml;Enyel De Los Santos; 1.2;0;0;0;1;3;0;2.95;5;27;16;9;3;4;0;1;0;0;;1;0;0.018; 0.17; 0.01%; 0.14; 1.1
+James Karinchak;/players/k/karinja01.shtml;James Karinchak; 1 ;1;0;0;1;1;0;3.55;5;17;10;6;2;2;2;1;0;0;;0;0;0.003; 0.06; 0.00%; 0.05; 0.5
+
+indiv_events
+
+Balks: Xzavion Curry (2); James Karinchak (1).
+WP: None.
+HBP: Xzavion Curry (2; Matt Wallner).
+IBB: None.
+Pickoffs: None.
+
+Balks: Xzavion Curry (2); James Karinchak (1).
+WP: None.
+HBP: Xzavion Curry (2; Matt Wallner).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Hunter Wendelstedt, 1B - Derek Thomas, 2B - Jose Navas, 3B - John Tumpane, LF - (none), RF - (none).
+Time of Game: 2:36.
+Attendance: 20,323.
+Field Condition: Unknown.
+Start Time Weather: 83° F, Wind 8mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Guardians
+1;Steven Kwan;/players/k/kwanst01.shtml;LF
+2;José Ramírez;/players/r/ramirjo01.shtml;3B
+3;Kole Calhoun;/players/c/calhoko01.shtml;1B
+4;Ramón Laureano;/players/l/laurera01.shtml;RF
+5;Andrés Giménez;/players/g/gimenan01.shtml;2B
+6;Will Brennan;/players/b/brennwi02.shtml;DH
+7;Gabriel Arias;/players/a/ariasga01.shtml;SS
+8;Bo Naylor;/players/n/naylobo01.shtml;C
+9;Myles Straw;/players/s/strawmy01.shtml;CF
+; Xzavion Curry;/players/c/curryxz01.shtml;P
+Twins
+1;Edouard Julien;/players/j/julieed01.shtml;2B
+2;Royce Lewis;/players/l/lewisro02.shtml;3B
+3;Max Kepler;/players/k/keplema01.shtml;RF
+4;Carlos Correa;/players/c/correca01.shtml;SS
+5;Jorge Polanco;/players/p/polanjo01.shtml;DH
+6;Ryan Jeffers;/players/j/jeffery01.shtml;C
+7;Matt Wallner;/players/w/wallnma01.shtml;LF
+8;Donovan Solano;/players/s/solando01.shtml;1B
+9;Michael A. Taylor;/players/t/taylomi02.shtml;CF
+; Kenta Maeda;/players/m/maedake01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b2;2-4;2;123;2,(0-1) CX;RRRR;MIN;Royce Lewis;Xzavion Curry;35%;72%;Home Run (Fly Ball to Deep LF-CF); Wallner Scores; Solano Scores; Julien Scores
+b4;7-6;2;12-;7,(3-2) BF*BFB>F>X;RRR;MIN;Jorge Polanco;Daniel Norris;22%;90%;Home Run (Fly Ball to Deep LF Line); Lewis Scores; Kepler Scores
+t2;2-0;1;-2-;4,(2-1) BBCX;RR;CLE;Bo Naylor;Kenta Maeda;-12%;17%;Home Run (Fly Ball to Deep CF); Arias Scores
+t2;0-0;0;1--;1,(0-0) X;;CLE;Andrés Giménez;Kenta Maeda;-11%;36%;Double to RF (Line Drive to RF Line); Laureano to 3B
+t4;5-7;2;-2-;5,(3-1) BFB*BX;R;CLE;Steven Kwan;Kenta Maeda;-11%;64%;Double to CF (Fly Ball to Deep CF-RF); Arias Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Guardians Batting, Tied 0-0, Twins' Kenta Maeda facing 1-2-3 
+t1;0-0;0;---;3,(1-1) BFX;O;CLE;Steven Kwan;Kenta Maeda;2%;52%;Groundout: SS-1B (Weak SS)
+t1;0-0;1;---;4,(1-2) CBFX;O;CLE;José Ramírez;Kenta Maeda;2%;54%;Flyball: RF (Deep RF Line)
+t1;0-0;2;---;3,(0-2) FF*S;O;CLE;Kole Calhoun;Kenta Maeda;1%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Twins 0.
+Bottom of the 1st, Twins Batting, Tied 0-0, Guardians' Xzavion Curry facing 1-2-3 
+b1;0-0;0;---;7,(2-2) CBCBFFX;;MIN;Edouard Julien;Xzavion Curry;3%;58%;Single to RF (Ground Ball thru 2B-1B)
+b1;0-0;0;1--;3,(0-2) CT.X;O;MIN;Royce Lewis;Xzavion Curry;-3%;55%;Popfly: 2B (2B-1B)
+b1;0-0;1;1--;4,(1-2) FFBX;OO;MIN;Max Kepler;Xzavion Curry;-5%;50%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Guardians 0, Twins 0.
+Top of the 2nd, Guardians Batting, Tied 0-0, Twins' Kenta Maeda facing 4-5-6 
+t2;0-0;0;---;3,(1-1) CBX;;CLE;Ramón Laureano;Kenta Maeda;-4%;46%;Single to RF (Line Drive)
+t2;0-0;0;1--;1,(0-0) X;;CLE;Andrés Giménez;Kenta Maeda;-11%;36%;Double to RF (Line Drive to RF Line); Laureano to 3B
+t2;0-0;0;-23;7,(3-2) BBBFFFX;RO;CLE;Will Brennan;Kenta Maeda;2%;38%;Flyball: CF/Sacrifice Fly (Deep LF-CF); Laureano Scores
+t2;1-0;1;-2-;3,(1-1) SBX;R;CLE;Gabriel Arias;Kenta Maeda;-9%;29%;Double to RF (Fly Ball to Deep RF); Giménez Scores
+t2;2-0;1;-2-;4,(2-1) BBCX;RR;CLE;Bo Naylor;Kenta Maeda;-12%;17%;Home Run (Fly Ball to Deep CF); Arias Scores
+t2;4-0;1;---;2,(1-0) BX;O;CLE;Myles Straw;Kenta Maeda;1%;18%;Groundout: P-1B
+t2;4-0;2;---;5,(2-2) CBBCX;O;CLE;Steven Kwan;Kenta Maeda;1%;18%;Lineout: LF (Deep LF)
+;;;;;;;;;4 runs, 4 hits, 0 errors, 0 LOB. Guardians 4, Twins 0.
+Bottom of the 2nd, Twins Batting, Behind 0-4, Guardians' Xzavion Curry facing 4-5-6 
+b2;0-4;0;---;2,(1-0) BX;;MIN;Carlos Correa;Xzavion Curry;3%;21%;Single to CF (Ground Ball thru SS-2B)
+b2;0-4;0;1--;5,(3-1) C*BB*BX;;MIN;Jorge Polanco;Xzavion Curry;9%;30%;Double to RF (Line Drive to Deep RF Line); Correa to 3B
+b2;0-4;0;-23;4,(1-2) BCFT;O;MIN;Ryan Jeffers;Xzavion Curry;-5%;25%;Strikeout Swinging
+b2;0-4;1;-23;3,(2-0) BBH;;MIN;Matt Wallner;Xzavion Curry;2%;27%;Hit By Pitch
+b2;0-4;1;123;,(0-0) N;R;MIN;Donovan Solano;Xzavion Curry;7%;34%;Balk; Correa Scores/No RBI; Polanco to 3B; Wallner to 2B
+b2;1-4;1;-23;4,(1-2) N.CFBX;R;MIN;Donovan Solano;Xzavion Curry;7%;41%;Single to 2B (Ground Ball to SS-2B); Polanco Scores; Wallner to 3B
+b2;2-4;1;1-3;4,(1-2) FBFS;O;MIN;Michael A. Taylor;Xzavion Curry;-7%;34%;Strikeout Swinging
+b2;2-4;2;1-3;6,(3-2) *BBBCF.>B;;MIN;Edouard Julien;Xzavion Curry;3%;37%;Walk; Solano to 2B
+b2;2-4;2;123;2,(0-1) CX;RRRR;MIN;Royce Lewis;Xzavion Curry;35%;72%;Home Run (Fly Ball to Deep LF-CF); Wallner Scores; Solano Scores; Julien Scores
+b2;6-4;2;---;4,(1-2) CBC.X;;MIN;Max Kepler;Xzavion Curry;2%;73%;Double to CF (Line Drive to Deep LF-CF)
+b2;6-4;2;-2-;5,(1-2) CF*BFX;O;MIN;Carlos Correa;Xzavion Curry;-2%;71%;Groundout: SS-1B
+;;;;;;;;;6 runs, 5 hits, 0 errors, 1 LOB. Guardians 4, Twins 6.
+Top of the 3rd, Guardians Batting, Behind 4-6, Twins' Kenta Maeda facing 2-3-4 
+t3;4-6;0;---;3,(1-1) CBX;O;CLE;José Ramírez;Kenta Maeda;3%;74%;Flyball: CF (Deep CF)
+t3;4-6;1;---;6,(3-2) FBBCBB;;CLE;Kole Calhoun;Kenta Maeda;-3%;71%;Walk
+t3;4-6;1;1--;2,(0-1) CX;;CLE;Ramón Laureano;Kenta Maeda;-7%;64%;Single to RF (Line Drive to RF Line); Calhoun to 3B
+t3;4-6;1;1-3;1,(0-0) X;R;CLE;Andrés Giménez;Kenta Maeda;-7%;57%;Fielder's Choice 3B; Calhoun Scores; Laureano to 2B/Adv on E5 (throw); Giménez to 1B
+t3;5-6;1;12-;5,(2-2) *BTBF2X;OO;CLE;Will Brennan;Kenta Maeda;10%;67%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;1 run, 1 hit, 1 error, 1 LOB. Guardians 5, Twins 6.
+Bottom of the 3rd, Twins Batting, Ahead 6-5, Guardians' Daniel Norris facing 5-6-7 
+;;;;;;;;;Daniel Norris replaces Xzavion Curry pitching
+b3;6-5;0;---;1,(0-0) .X;O;MIN;Jorge Polanco;Daniel Norris;-2%;65%;Flyball: CF (Deep CF)
+b3;6-5;1;---;1,(0-0) X;O;MIN;Ryan Jeffers;Daniel Norris;-2%;63%;Popfly: 2B
+b3;6-5;2;---;5,(3-1) .BSBBX;R;MIN;Matt Wallner;Daniel Norris;10%;74%;Home Run (Fly Ball to Deep CF-RF)
+b3;7-5;2;---;4,(2-1) FBBX;;MIN;Donovan Solano;Daniel Norris;1%;74%;Single to LF (Line Drive to Deep LF)
+b3;7-5;2;1--;4,(2-1) BFBX;O;MIN;Michael A. Taylor;Daniel Norris;-2%;73%;Groundout: SS-2B/Forceout at 2B; Taylor to 1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Guardians 5, Twins 7.
+Top of the 4th, Guardians Batting, Behind 5-7, Twins' Kenta Maeda facing 7-8-9 
+t4;5-7;0;---;1,(0-0) X;;CLE;Gabriel Arias;Kenta Maeda;-7%;66%;Double to RF (Ground Ball)
+t4;5-7;0;-2-;3,(0-2) CS*S;O;CLE;Bo Naylor;Kenta Maeda;5%;71%;Strikeout Swinging
+t4;5-7;1;-2-;4,(1-2) BCCT;O;CLE;Myles Straw;Kenta Maeda;4%;75%;Strikeout Swinging
+t4;5-7;2;-2-;5,(3-1) BFB*BX;R;CLE;Steven Kwan;Kenta Maeda;-11%;64%;Double to CF (Fly Ball to Deep CF-RF); Arias Scores
+t4;6-7;2;-2-;1,(0-0) X;O;CLE;José Ramírez;Kenta Maeda;4%;69%;Lineout: 1B (Deep 1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Guardians 6, Twins 7.
+Bottom of the 4th, Twins Batting, Ahead 7-6, Guardians' Daniel Norris facing 1-2-3 
+b4;7-6;0;---;4,(2-1) BCBX;O;MIN;Edouard Julien;Daniel Norris;-2%;66%;Groundout: 2B-1B (2B-1B)
+b4;7-6;1;---;5,(1-2) BFCFX;;MIN;Royce Lewis;Daniel Norris;2%;69%;Single to CF (Fly Ball to Short CF)
+b4;7-6;1;1--;5,(3-1) BFB.BB;;MIN;Max Kepler;Daniel Norris;3%;72%;Walk; Lewis to 2B
+b4;7-6;1;12-;6,(3-2) BSBBFS;O;MIN;Carlos Correa;Daniel Norris;-4%;68%;Strikeout Swinging
+b4;7-6;2;12-;7,(3-2) BF*BFB>F>X;RRR;MIN;Jorge Polanco;Daniel Norris;22%;90%;Home Run (Fly Ball to Deep LF Line); Lewis Scores; Kepler Scores
+b4;10-6;2;---;6,(2-2) BCCFBX;O;MIN;Ryan Jeffers;Daniel Norris;0%;90%;Foul Popfly: C (Behind Home)
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Guardians 6, Twins 10.
+Top of the 5th, Guardians Batting, Behind 6-10, Twins' Kody Funderburk facing 3-4-5 
+;;;;;;;;;Kody Funderburk replaces Kenta Maeda pitching
+t5;6-10;0;---;2,(0-1) .CX;O;CLE;Kole Calhoun;Kody Funderburk;2%;91%;Groundout: P unassisted (Short 1B Line)
+t5;6-10;1;---;9,(3-2) CBS.FBFFBC;O;CLE;Ramón Laureano;Kody Funderburk;1%;92%;Strikeout Looking
+t5;6-10;2;---;3,(1-1) BSX;O;CLE;Andrés Giménez;Kody Funderburk;1%;93%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 6, Twins 10.
+Bottom of the 5th, Twins Batting, Ahead 10-6, Guardians' Eli Morgan facing 7-8-9 
+;;;;;;;;;Eli Morgan replaces Daniel Norris pitching
+b5;10-6;0;---;4,(1-2) .SFBS;O;MIN;Matt Wallner;Eli Morgan;-1%;92%;Strikeout Swinging
+b5;10-6;1;---;2,(0-1) CX;;MIN;Donovan Solano;Eli Morgan;1%;93%;Single to LF (Ground Ball thru SS-3B Hole)
+b5;10-6;1;1--;4,(0-2) CS.FS;O;MIN;Michael A. Taylor;Eli Morgan;-1%;92%;Strikeout Swinging
+b5;10-6;2;1--;6,(3-2) B*BBFF.>C;O;MIN;Edouard Julien;Eli Morgan;-1%;92%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 6, Twins 10.
+Top of the 6th, Guardians Batting, Behind 6-10, Twins' Kody Funderburk facing 6-7-8 
+t6;6-10;0;---;4,(1-2) CCBS;O;CLE;Will Brennan;Kody Funderburk;2%;93%;Strikeout Swinging
+t6;6-10;1;---;3,(0-2) CSC;O;CLE;Gabriel Arias;Kody Funderburk;1%;94%;Strikeout Looking
+t6;6-10;2;---;7,(3-2) FF.BFBBX;O;CLE;Bo Naylor;Kody Funderburk;1%;95%;Flyball: SS (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 6, Twins 10.
+Bottom of the 6th, Twins Batting, Ahead 10-6, Guardians' Eli Morgan facing 2-3-4 
+b6;10-6;0;---;7,(3-2) BBF.BFFB;;MIN;Royce Lewis;Eli Morgan;1%;96%;Walk
+b6;10-6;0;1--;5,(2-2) BCF*BS;O;MIN;Max Kepler;Eli Morgan;-1%;95%;Strikeout Swinging
+;;;;;;;;;Enyel De Los Santos replaces Eli Morgan pitching
+b6;10-6;1;1--;6,(3-2) .B1>FB*SBB;;MIN;Carlos Correa;Enyel De Los Santos;1%;96%;Walk; Lewis to 2B
+b6;10-6;1;12-;2,(0-1) CX;OO;MIN;Jorge Polanco;Enyel De Los Santos;-2%;94%;Double Play: Flyball: LF (Short LF Line); Lewis out at 2B/LF-2B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Guardians 6, Twins 10.
+Top of the 7th, Guardians Batting, Behind 6-10, Twins' Josh Winder facing 9-1-2 
+;;;;;;;;;Josh Winder replaces Kody Funderburk pitching
+t7;6-10;0;---;3,(1-1) .CBX;O;CLE;Myles Straw;Josh Winder;2%;96%;Flyball: CF (Deep CF)
+t7;6-10;1;---;3,(0-2) CCX;O;CLE;Steven Kwan;Josh Winder;1%;97%;Groundout: 2B-1B (2B-1B)
+t7;6-10;2;---;6,(3-2) BBFFB*S;O;CLE;José Ramírez;Josh Winder;0%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 6, Twins 10.
+Bottom of the 7th, Twins Batting, Ahead 10-6, Guardians' Enyel De Los Santos facing 6-7-8 
+b7;10-6;0;---;6,(2-2) BBSC.FC;O;MIN;Ryan Jeffers;Enyel De Los Santos;0%;97%;Strikeout Looking
+b7;10-6;1;---;6,(3-2) TFBB.BC;O;MIN;Matt Wallner;Enyel De Los Santos;0%;96%;Strikeout Looking
+b7;10-6;2;---;7,(2-2) FFBFBFS;O;MIN;Donovan Solano;Enyel De Los Santos;0%;96%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 6, Twins 10.
+Top of the 8th, Guardians Batting, Behind 6-10, Twins' Josh Winder facing 3-4-5 
+t8;6-10;0;---;2,(0-1) CX;O;CLE;Kole Calhoun;Josh Winder;1%;98%;Flyball: SS (Short CF)
+t8;6-10;1;---;2,(0-1) CX;O;CLE;Ramón Laureano;Josh Winder;1%;98%;Lineout: CF (Deep CF-RF)
+t8;6-10;2;---;1,(0-0) X;O;CLE;Andrés Giménez;Josh Winder;0%;99%;Foul Popfly: 3B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 6, Twins 10.
+Bottom of the 8th, Twins Batting, Ahead 10-6, Guardians' James Karinchak facing 9-1-2 
+;;;;;;;;;James Karinchak replaces Enyel De Los Santos pitching
+b8;10-6;0;---;3,(0-2) .FFX;;MIN;Michael A. Taylor;James Karinchak;0%;99%;Single to 3B (Ground Ball)
+b8;10-6;0;1--;4,(1-2) B1FSS;O;MIN;Edouard Julien;James Karinchak;0%;99%;Strikeout Swinging
+b8;10-6;1;1--;1,(1-0) 1BN;;MIN;Royce Lewis;James Karinchak;0%;99%;Balk; Taylor to 2B
+b8;10-6;1;-2-;2,(1-0) 1BN.>C;;MIN;Royce Lewis;James Karinchak;0%;99%;Taylor Steals 3B
+b8;10-6;1;--3;5,(2-2) 1BN.>C.*BC.X;O;MIN;Royce Lewis;James Karinchak;-1%;99%;Fielder's Choice ; Taylor out at Hm/SS-C; Lewis to 1B
+b8;10-6;2;1--;4,(3-0) 1B*BBB;;MIN;Max Kepler;James Karinchak;0%;99%;Walk; Lewis to 2B
+b8;10-6;2;12-;1,(0-0) X;O;MIN;Carlos Correa;James Karinchak;0%;98%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Guardians 6, Twins 10.
+Top of the 9th, Guardians Batting, Behind 6-10, Twins' Josh Winder facing 6-7-8 
+;;;;;;;;;Kyle Farmer replaces Edouard Julien playing 2B batting 1st
+t9;6-10;0;---;2,(1-0) .BX;O;CLE;Will Brennan;Josh Winder;1%;99%;Flyball: LF (Deep LF)
+t9;6-10;1;---;1,(0-0) X;O;CLE;Gabriel Arias;Josh Winder;0%;100%;Groundout: 3B-1B (Weak 3B)
+t9;6-10;2;---;4,(2-1) CBBX;O;CLE;Bo Naylor;Josh Winder;0%;100%;Foul Popfly: 3B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 6, Twins 10.

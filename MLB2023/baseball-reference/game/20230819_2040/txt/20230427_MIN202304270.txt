@@ -1,0 +1,252 @@
+
+Scorebox Meta
+20230427
+6:40 p.m. Local
+12862
+Target Field
+142
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/KCR-2023.png;/teams/KCR/2023.shtml;0;0;0;1;0;0;0;0;0;1;3;0
+https://cdn.ssref.net/req/202308101/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;1;2;0;4;0;0;0;0;X;7;10;1
+
+Batting home
+Byron Buxton;/players/b/buxtoby01.shtml;DH;4;1;1;3;0;0;4;.244;.305;.488;.794;17;10;0.118; 0.68;0.158;-0.040; 0.08%; 0.79; 1.8;;;HR
+Carlos Correa;/players/c/correca01.shtml;SS;3;2;1;1;1;1;4;.205;.280;.373;.653;21;11;0.036; 0.31;0.049;-0.013; 0.03%; 0.36; 0.8;1;1;HR
+Jorge Polanco;/players/p/polanjo01.shtml;2B;4;0;1;0;0;1;4;.385;.385;.654;1.038;14;9;0.048; 0.42;0.062;-0.014; 0.03%; 0.48; 0.1;2;0;
+Trevor Larnach;/players/l/larnatr01.shtml;LF;4;0;1;1;0;2;4;.235;.347;.388;.735;17;12;0.079; 0.55;0.089;-0.011; 0.06%; 0.63; 0.5;3;0;
+Jose Miranda;/players/m/miranjo01.shtml;3B;4;0;0;0;0;1;4;.230;.294;.310;.604;14;9;-0.106; 0.46;0.000;-0.106;-0.07%; 0.53; -1.7;0;2;GDP
+Joey Gallo;/players/g/gallojo01.shtml;1B;4;1;1;0;0;1;4;.261;.358;.783;1.141;15;12;0.037; 0.36;0.054;-0.017; 0.03%; 0.41; 0.1;3;1;2B
+Christian Vázquez;/players/v/vazquch01.shtml;C;3;2;2;0;1;0;4;.281;.369;.333;.703;16;8;0.040; 0.39;0.041;-0.001; 0.03%; 0.45; 0.5;13;0;
+Max Kepler;/players/k/keplema01.shtml;RF;4;0;2;1;0;2;4;.226;.276;.415;.691;12;9;0.082; 0.60;0.102;-0.020; 0.06%; 0.70; 1.2;4;0;2B
+Michael A. Taylor;/players/t/taylomi02.shtml;CF;3;1;1;1;0;1;3;.241;.286;.418;.703;13;9;0.000; 0.54;0.013;-0.013;0%; 0.63; -0.5;1;0;
+Tyler Mahle;/players/m/mahlety01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brock Stewart;/players/s/stewabr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jovani Moran;/players/m/moranjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jhoan Duran;/players/d/duranjh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Joey Gallo (3, off Zack Greinke); Max Kepler (4, off Carlos Hernández).
+
+
+HR: Byron Buxton (5, off Zack Greinke, 4th inn, 2 on, 2 outs to Deep CF-RF); Carlos Correa (3, off Zack Greinke, 4th inn, 0 on, 2 outs to Deep LF-CF).
+
+
+TB: Carlos Correa 4; Byron Buxton 4; Max Kepler 3; Christian Vázquez 2; Joey Gallo 2; Jorge Polanco; Michael A. Taylor; Trevor Larnach.
+
+
+GIDP: Jose Miranda (6).
+
+
+RBI: Byron Buxton 3 (13); Carlos Correa (10); Max Kepler (6); Trevor Larnach (18); Michael A. Taylor (9).
+
+
+2-out RBI: Byron Buxton 3; Carlos Correa.
+
+
+Team LOB: 4.
+With RISP: 3 for 7.
+
+Batting away
+Bobby Witt;/players/w/wittbo02.shtml;DH;4;0;0;0;0;2;4;.243;.284;.427;.712;16;11;-0.053; 0.49;0.000;-0.053;-0.01%; 0.19; -1.0;;;
+Vinnie Pasquantino;/players/p/pasquvi01.shtml;1B;4;1;1;1;0;0;4;.283;.371;.522;.893;16;12;0.060; 0.47;0.085;-0.025; 0.01%; 0.18; 0.4;5;0;HR
+MJ Melendez;/players/m/melenmj01.shtml;C;4;0;0;0;0;2;4;.175;.280;.325;.605;18;13;-0.043; 0.42;0.000;-0.043;-0.01%; 0.16; -0.8;9;0;
+Franmil Reyes;/players/r/reyesfr01.shtml;LF;4;0;0;0;0;2;4;.200;.246;.309;.555;16;10;-0.046; 0.45;0.000;-0.046;-0.01%; 0.17; -0.7;1;0;
+Kyle Isbel;/players/i/isbelky01.shtml;CF;3;0;1;0;1;1;4;.205;.247;.329;.576;15;7;0.002; 0.27;0.025;-0.023;0%; 0.10; 0.0;3;0;2B
+Michael Massey;/players/m/massemi02.shtml;2B;4;0;0;0;0;3;4;.169;.164;.183;.347;18;14;-0.050; 0.45;0.000;-0.050;-0.01%; 0.17; -0.9;3;3;
+Hunter Dozier;/players/d/doziehu01.shtml;3B;3;0;0;0;0;2;3;.179;.207;.250;.457;13;9;0.026; 0.40;0.036;-0.010; 0.01%; 0.16; 0.0;1;0;
+Nicky Lopez;/players/l/lopezni01.shtml;SS;3;0;1;0;0;1;3;.192;.323;.288;.611;14;8;-0.028; 0.60;0.009;-0.037;-0.01%; 0.23; -0.3;0;1;
+Jackie Bradley Jr.;/players/b/bradlja02.shtml;RF;2;0;0;0;1;0;3;.125;.222;.150;.372;13;6;-0.033; 0.54;0.004;-0.037;-0.01%; 0.21; -0.3;2;0;
+Zack Greinke;/players/g/greinza01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Carlos Hernández;/players/h/hernaca04.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Josh Staumont;/players/s/staumjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jose Cuas;/players/c/cuasjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Kyle Isbel (7, off Tyler Mahle).
+
+
+HR: Vinnie Pasquantino (5, off Tyler Mahle, 4th inn, 0 on, 0 outs to Deep RF).
+
+
+TB: Vinnie Pasquantino 4; Kyle Isbel 2; Nicky Lopez.
+
+
+RBI: Vinnie Pasquantino (8).
+
+
+Team LOB: 5.
+With RISP: 0 for 2.
+
+Pitching home
+Tyler Mahle;/players/m/mahlety01.shtml;Tyler Mahle; 4 ;2;1;1;0;6;1;3.16;15;66;44;25;6;13;2;7;2;0;60;;;0.119; 0.83; 0.08%; 0.95; 1.1
+Brock Stewart;/players/s/stewabr01.shtml; W (1-0); 2 ;1;0;0;0;3;0;0.00;7;28;21;9;8;4;2;2;1;0;;0;0;0.029; 0.24; 0.02%; 0.27; 1.0
+Jovani Moran;/players/m/moranjo01.shtml;Jovani Moran; 2 ;0;0;0;1;2;0;6.17;7;29;15;7;4;4;0;4;1;0;;0;0;0.016; 0.12; 0.01%; 0.14; 1.0
+Jhoan Duran;/players/d/duranjh01.shtml;Jhoan Duran; 1 ;0;0;0;1;2;0;1.93;4;16;10;3;3;4;1;0;0;0;;0;0;0.003; 0.03; 0.00%; 0.03; 0.5
+
+Pitching away
+Zack Greinke;/players/g/greinza01.shtml; L (0-4); 3.2;8;7;7;2;3;2;6.10;20;88;53;31;6;16;7;8;4;0;18;;;-0.345; 0.81;-0.08%; 0.31; -5.0
+Carlos Hernández;/players/h/hernaca04.shtml;Carlos Hernández; 2.1;1;0;0;0;3;0;5.68;8;27;19;10;3;6;1;4;3;0;;0;0;0.009; 0.06; 0.00%; 0.02; 1.1
+Josh Staumont;/players/s/staumjo01.shtml;Josh Staumont; 1 ;0;0;0;0;2;0;3.60;3;11;9;3;5;1;0;1;0;0;;0;0;0.002; 0.02; 0.00%; 0.01; 0.5
+Jose Cuas;/players/c/cuasjo01.shtml;Jose Cuas; 1 ;1;0;0;0;1;0;5.11;4;13;8;5;1;2;0;3;1;0;;0;0;0.001; 0.01; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Nick Mahrley, 1B - Jerry Layne, 2B - Brock Ballou, 3B - Vic Carapazza, LF - (none), RF - (none).
+Time of Game: 2:22.
+Attendance: 12,862.
+Field Condition: Unknown.
+Start Time Weather: 58° F, Wind 9mph in from Leftfield, Overcast, No Precipitation.
+
+div_lineups
+Royals
+1;Bobby Witt;/players/w/wittbo02.shtml;DH
+2;Vinnie Pasquantino;/players/p/pasquvi01.shtml;1B
+3;MJ Melendez;/players/m/melenmj01.shtml;C
+4;Franmil Reyes;/players/r/reyesfr01.shtml;LF
+5;Kyle Isbel;/players/i/isbelky01.shtml;CF
+6;Michael Massey;/players/m/massemi02.shtml;2B
+7;Hunter Dozier;/players/d/doziehu01.shtml;3B
+8;Nicky Lopez;/players/l/lopezni01.shtml;SS
+9;Jackie Bradley Jr.;/players/b/bradlja02.shtml;RF
+; Zack Greinke;/players/g/greinza01.shtml;P
+Twins
+1;Byron Buxton;/players/b/buxtoby01.shtml;DH
+2;Carlos Correa;/players/c/correca01.shtml;SS
+3;Jorge Polanco;/players/p/polanjo01.shtml;2B
+4;Trevor Larnach;/players/l/larnatr01.shtml;LF
+5;Jose Miranda;/players/m/miranjo01.shtml;3B
+6;Joey Gallo;/players/g/gallojo01.shtml;1B
+7;Christian Vázquez;/players/v/vazquch01.shtml;C
+8;Max Kepler;/players/k/keplema01.shtml;RF
+9;Michael A. Taylor;/players/t/taylomi02.shtml;CF
+; Tyler Mahle;/players/m/mahlety01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b4;3-1;2;12-;3,(2-0) BBX;RRR;MIN;Byron Buxton;Zack Greinke;16%;94%;Home Run (Fly Ball to Deep CF-RF); Vázquez Scores; Taylor Scores
+b2;1-0;0;12-;3,(1-1) CBX;R;MIN;Max Kepler;Zack Greinke;10%;83%;Single to CF (Ground Ball thru SS-2B); Gallo Scores; Vázquez to 3B
+b1;1-0;1;1-3;3,(1-1) BSX;OO;MIN;Jose Miranda;Zack Greinke;-10%;60%;Ground Ball Double Play: P-2B-1B (Front of Home)
+b1;0-0;1;1-3;4,(2-1) CB*BX;R;MIN;Trevor Larnach;Zack Greinke;9%;70%;Single to RF (Line Drive to Deep CF-RF); Correa Scores; Polanco to 3B
+t4;0-3;0;---;5,(1-2) CFFBX;R;KCR;Vinnie Pasquantino;Tyler Mahle;-8%;73%;Home Run (Fly Ball to Deep RF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Royals Batting, Tied 0-0, Twins' Tyler Mahle facing 1-2-3 
+t1;0-0;0;---;3,(0-2) CCX;O;KCR;Bobby Witt;Tyler Mahle;2%;52%;Foul Popfly: RF (1B into Foul Terr.)
+t1;0-0;1;---;4,(2-1) BBCX;O;KCR;Vinnie Pasquantino;Tyler Mahle;2%;54%;Lineout: 2B (2B-1B)
+t1;0-0;2;---;4,(1-2) BCFS;O;KCR;MJ Melendez;Tyler Mahle;1%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Twins 0.
+Bottom of the 1st, Twins Batting, Tied 0-0, Royals' Zack Greinke facing 1-2-3 
+b1;0-0;0;---;7,(2-2) BFSBFFX;O;MIN;Byron Buxton;Zack Greinke;-2%;53%;Popfly: 1B (P's Left)
+b1;0-0;1;---;6,(3-2) BCBFBB;;MIN;Carlos Correa;Zack Greinke;2%;55%;Walk
+b1;0-0;1;1--;2,(1-0) BX;;MIN;Jorge Polanco;Zack Greinke;6%;61%;Single to RF (Ground Ball thru 2B-1B); Correa to 3B
+b1;0-0;1;1-3;4,(2-1) CB*BX;R;MIN;Trevor Larnach;Zack Greinke;9%;70%;Single to RF (Line Drive to Deep CF-RF); Correa Scores; Polanco to 3B
+b1;1-0;1;1-3;3,(1-1) BSX;OO;MIN;Jose Miranda;Zack Greinke;-10%;60%;Ground Ball Double Play: P-2B-1B (Front of Home)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Royals 0, Twins 1.
+Top of the 2nd, Royals Batting, Behind 0-1, Twins' Tyler Mahle facing 4-5-6 
+t2;0-1;0;---;5,(2-2) CBBFX;O;KCR;Franmil Reyes;Tyler Mahle;2%;63%;Groundout: 3B-1B (Weak 3B)
+t2;0-1;1;---;2,(1-0) BX;O;KCR;Kyle Isbel;Tyler Mahle;2%;65%;Flyball: CF (Deep CF-RF)
+t2;0-1;2;---;5,(1-2) BFLFS;O;KCR;Michael Massey;Tyler Mahle;1%;66%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Twins 1.
+Bottom of the 2nd, Twins Batting, Ahead 1-0, Royals' Zack Greinke facing 6-7-8 
+b2;1-0;0;---;5,(2-2) CFBBX;;MIN;Joey Gallo;Zack Greinke;5%;71%;Double to CF (Line Drive to Deep CF-RF)
+b2;1-0;0;-2-;6,(3-2) B*BCFB*B;;MIN;Christian Vázquez;Zack Greinke;2%;73%;Walk
+b2;1-0;0;12-;3,(1-1) CBX;R;MIN;Max Kepler;Zack Greinke;10%;83%;Single to CF (Ground Ball thru SS-2B); Gallo Scores; Vázquez to 3B
+b2;2-0;0;1-3;3,(0-2) SC.X;RO;MIN;Michael A. Taylor;Zack Greinke;-1%;82%;Groundout: SS-2B/Forceout at 2B; Vázquez Scores; Taylor to 1B
+b2;3-0;1;1--;5,(2-2) *BCT*BX;O;MIN;Byron Buxton;Zack Greinke;-2%;81%;Flyball: LF (Deep LF-CF)
+b2;3-0;2;1--;7,(3-2) CBBS+1F*B>S;O;MIN;Carlos Correa;Zack Greinke;-1%;79%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Royals 0, Twins 3.
+Top of the 3rd, Royals Batting, Behind 0-3, Twins' Tyler Mahle facing 7-8-9 
+t3;0-3;0;---;5,(2-2) CBBFX;;KCR;Hunter Dozier;Tyler Mahle;-4%;76%;Reached on E6 (throw) (Ground Ball); Dozier to 1B
+t3;0-3;0;1--;3,(0-2) FFC;O;KCR;Nicky Lopez;Tyler Mahle;3%;79%;Strikeout Looking
+t3;0-3;1;1--;5,(3-1) BBBC1X;O;KCR;Jackie Bradley Jr.;Tyler Mahle;3%;82%;Flyball: RF (Deep CF-RF)
+t3;0-3;2;1--;6,(3-2) BBBCS>C;O;KCR;Bobby Witt;Tyler Mahle;2%;84%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Royals 0, Twins 3.
+Bottom of the 3rd, Twins Batting, Ahead 3-0, Royals' Zack Greinke facing 3-4-5 
+b3;3-0;0;---;2,(1-0) BX;O;MIN;Jorge Polanco;Zack Greinke;-1%;83%;Flyball: CF (Deep CF)
+b3;3-0;1;---;4,(1-2) CBFX;O;MIN;Trevor Larnach;Zack Greinke;-1%;82%;Groundout: 1B unassisted
+b3;3-0;2;---;6,(3-2) BCBBF.C;O;MIN;Jose Miranda;Zack Greinke;-1%;81%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Twins 3.
+Top of the 4th, Royals Batting, Behind 0-3, Twins' Tyler Mahle facing 2-3-4 
+t4;0-3;0;---;5,(1-2) CFFBX;R;KCR;Vinnie Pasquantino;Tyler Mahle;-8%;73%;Home Run (Fly Ball to Deep RF)
+t4;1-3;0;---;4,(1-2) BSS.X;O;KCR;MJ Melendez;Tyler Mahle;3%;76%;Flyball: RF (Deep RF Line)
+t4;1-3;1;---;5,(2-2) FBBCC;O;KCR;Franmil Reyes;Tyler Mahle;2%;77%;Strikeout Looking
+t4;1-3;2;---;2,(1-0) BX;;KCR;Kyle Isbel;Tyler Mahle;-2%;75%;Double to CF (Line Drive to Deep CF)
+t4;1-3;2;-2-;8,(2-2) BF*B2FFFFS;O;KCR;Michael Massey;Tyler Mahle;4%;79%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Royals 1, Twins 3.
+Bottom of the 4th, Twins Batting, Ahead 3-1, Royals' Zack Greinke facing 6-7-8 
+b4;3-1;0;---;4,(0-2) C.SFX;O;MIN;Joey Gallo;Zack Greinke;-2%;77%;Groundout: 2B-1B (Deep 2B-1B)
+b4;3-1;1;---;3,(0-2) CF.X;;MIN;Christian Vázquez;Zack Greinke;2%;79%;Single to RF (Line Drive)
+b4;3-1;1;1--;4,(1-2) *BCFC;O;MIN;Max Kepler;Zack Greinke;-2%;77%;Strikeout Looking
+b4;3-1;2;1--;6,(3-2) BCBB.F>X;;MIN;Michael A. Taylor;Zack Greinke;1%;78%;Single to SS (Ground Ball to SS-3B Hole); Vázquez to 2B
+b4;3-1;2;12-;3,(2-0) BBX;RRR;MIN;Byron Buxton;Zack Greinke;16%;94%;Home Run (Fly Ball to Deep CF-RF); Vázquez Scores; Taylor Scores
+b4;6-1;2;---;5,(2-2) FFBBX;R;MIN;Carlos Correa;Zack Greinke;2%;96%;Home Run (Line Drive to Deep LF-CF)
+;;;;;;;;;Carlos Hernández replaces Zack Greinke pitching
+b4;7-1;2;---;5,(2-2) .BCBFX;O;MIN;Jorge Polanco;Carlos Hernández;0%;96%;Groundout: 2B-1B
+;;;;;;;;;4 runs, 4 hits, 0 errors, 0 LOB. Royals 1, Twins 7.
+Top of the 5th, Royals Batting, Behind 1-7, Twins' Brock Stewart facing 7-8-9 
+;;;;;;;;;Brock Stewart replaces Tyler Mahle pitching
+t5;1-7;0;---;3,(0-2) .CFS;O;KCR;Hunter Dozier;Brock Stewart;1%;97%;Strikeout Swinging
+t5;1-7;1;---;6,(3-2) BCS.BBX;;KCR;Nicky Lopez;Brock Stewart;-1%;96%;Single to RF (Line Drive)
+t5;1-7;1;1--;3,(0-2) S1CX;O;KCR;Jackie Bradley Jr.;Brock Stewart;1%;97%;Groundout: 1B-SS/Forceout at 2B (2B-1B); Bradley to 1B
+t5;1-7;2;1--;3,(0-2) SFS;O;KCR;Bobby Witt;Brock Stewart;1%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 1, Twins 7.
+Bottom of the 5th, Twins Batting, Ahead 7-1, Royals' Carlos Hernández facing 4-5-6 
+b5;7-1;0;---;6,(2-2) CBBCFC;O;MIN;Trevor Larnach;Carlos Hernández;0%;98%;Strikeout Looking
+b5;7-1;1;---;3,(1-1) CBX;O;MIN;Jose Miranda;Carlos Hernández;0%;97%;Lineout: 3B (SS-3B Hole)
+b5;7-1;2;---;4,(0-2) CSFS;O;MIN;Joey Gallo;Carlos Hernández;0%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 1, Twins 7.
+Top of the 6th, Royals Batting, Behind 1-7, Twins' Brock Stewart facing 2-3-4 
+t6;1-7;0;---;3,(0-2) CFX;O;KCR;Vinnie Pasquantino;Brock Stewart;1%;98%;Groundout: SS-1B
+t6;1-7;1;---;6,(3-2) BTBBS.X;O;KCR;MJ Melendez;Brock Stewart;0%;98%;Flyball: LF (Short LF-CF)
+t6;1-7;2;---;4,(1-2) BSFS;O;KCR;Franmil Reyes;Brock Stewart;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 1, Twins 7.
+Bottom of the 6th, Twins Batting, Ahead 7-1, Royals' Carlos Hernández facing 7-8-9 
+b6;7-1;0;---;2,(1-0) BX;O;MIN;Christian Vázquez;Carlos Hernández;0%;99%;Flyball: CF (Deep CF)
+b6;7-1;1;---;1,(0-0) X;;MIN;Max Kepler;Carlos Hernández;0%;99%;Double to LF (Line Drive to Deep LF)
+b6;7-1;1;-2-;4,(1-2) BTFS;O;MIN;Michael A. Taylor;Carlos Hernández;0%;99%;Strikeout Swinging
+b6;7-1;2;-2-;2,(1-0) BX;O;MIN;Byron Buxton;Carlos Hernández;0%;98%;Lineout: RF (CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 1, Twins 7.
+Top of the 7th, Royals Batting, Behind 1-7, Twins' Jovani Moran facing 5-6-7 
+;;;;;;;;;Jovani Moran replaces Brock Stewart pitching
+t7;1-7;0;---;5,(2-2) .CBF.BC;O;KCR;Kyle Isbel;Jovani Moran;1%;99%;Strikeout Looking
+t7;1-7;1;---;1,(0-0) X;O;KCR;Michael Massey;Jovani Moran;0%;99%;Flyball: LF (Short LF-CF)
+t7;1-7;2;---;5,(2-2) CBBFC;O;KCR;Hunter Dozier;Jovani Moran;0%;99%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 1, Twins 7.
+Bottom of the 7th, Twins Batting, Ahead 7-1, Royals' Josh Staumont facing 2-3-4 
+;;;;;;;;;Josh Staumont replaces Carlos Hernández pitching
+b7;7-1;0;---;3,(1-1) ..BCX;O;MIN;Carlos Correa;Josh Staumont;0%;99%;Flyball: RF (Deep RF)
+b7;7-1;1;---;5,(1-2) FSFBS;O;MIN;Jorge Polanco;Josh Staumont;0%;99%;Strikeout Swinging
+b7;7-1;2;---;3,(0-2) SSS;O;MIN;Trevor Larnach;Josh Staumont;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 1, Twins 7.
+Top of the 8th, Royals Batting, Behind 1-7, Twins' Jovani Moran facing 8-9-1 
+t8;1-7;0;---;5,(3-1) BFBBX;O;KCR;Nicky Lopez;Jovani Moran;0%;100%;Flyball: LF (LF Line)
+t8;1-7;1;---;5,(3-1) SBBB*B;;KCR;Jackie Bradley Jr.;Jovani Moran;0%;99%;Walk
+t8;1-7;1;1--;4,(2-1) SBBX;O;KCR;Bobby Witt;Jovani Moran;0%;100%;Popfly: 2B (Deep 2B)
+t8;1-7;2;1--;4,(1-2) BSSX;O;KCR;Vinnie Pasquantino;Jovani Moran;0%;100%;Lineout: RF (RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Royals 1, Twins 7.
+Bottom of the 8th, Twins Batting, Ahead 7-1, Royals' Jose Cuas facing 5-6-7 
+;;;;;;;;;Jose Cuas replaces Josh Staumont pitching
+b8;7-1;0;---;2,(0-1) .FX;O;MIN;Jose Miranda;Jose Cuas;0%;100%;Popfly: 2B (Deep 2B)
+b8;7-1;1;---;2,(1-0) BX;O;MIN;Joey Gallo;Jose Cuas;0%;100%;Flyball: CF (Deep CF)
+b8;7-1;2;---;5,(3-1) BBC.BX;;MIN;Christian Vázquez;Jose Cuas;0%;100%;Single to LF (Line Drive to Deep LF Line)
+b8;7-1;2;1--;4,(1-2) BCFS;O;MIN;Max Kepler;Jose Cuas;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 1, Twins 7.
+Top of the 9th, Royals Batting, Behind 1-7, Twins' Jhoan Duran facing 3-4-5 
+;;;;;;;;;Jhoan Duran replaces Jovani Moran pitching
+t9;1-7;0;---;4,(0-2) .CFF*S;O;KCR;MJ Melendez;Jhoan Duran;0%;100%;Strikeout Swinging
+t9;1-7;1;---;2,(1-0) BX;O;KCR;Franmil Reyes;Jhoan Duran;0%;100%;Groundout: 3B-1B (Weak 3B)
+t9;1-7;2;---;6,(3-2) BSBBCB;;KCR;Kyle Isbel;Jhoan Duran;0%;100%;Walk
+t9;1-7;2;1--;2,(0-1) C>C;;KCR;Michael Massey;Jhoan Duran;0%;100%;Defensive Indifference; Isbel to 2B
+t9;1-7;2;-2-;4,(1-2) C>C.BS;O;KCR;Michael Massey;Jhoan Duran;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Royals 1, Twins 7.

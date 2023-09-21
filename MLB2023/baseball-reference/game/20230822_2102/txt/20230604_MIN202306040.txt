@@ -1,0 +1,255 @@
+
+Scorebox Meta
+20230604
+1:10 p.m. Local
+23629
+Target Field
+138
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CLE-2023.png;/teams/CLE/2023.shtml;0;0;0;0;0;0;2;0;0;2;3;0
+https://cdn.ssref.net/req/202308101/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;0;0;0;0;0;0;0;1;0;1;5;0
+
+Batting home
+Jorge Polanco;/players/p/polanjo01.shtml;2B;4;0;0;0;0;2;4;.268;.305;.482;.787;14;10;-0.208; 1.84;0.000;-0.208;-0.15%; 2.24; -1.3;3;2;
+Royce Lewis;/players/l/lewisro02.shtml;DH;4;0;0;0;0;3;4;.200;.200;.480;.680;17;11;-0.208; 1.90;0.000;-0.208;-0.15%; 2.32; -1.1;;;
+Donovan Solano;/players/s/solando01.shtml;1B;3;0;0;0;1;2;4;.288;.369;.371;.740;24;16;-0.124; 1.64;0.030;-0.154;-0.09%; 2.00; -0.4;8;0;
+Max Kepler;/players/k/keplema01.shtml;RF;4;0;0;0;0;1;4;.192;.264;.376;.640;15;9;-0.165; 1.64;0.000;-0.165;-0.12%; 2.00; -0.9;3;0;
+Ryan Jeffers;/players/j/jeffery01.shtml;C;3;0;0;0;1;2;4;.256;.396;.451;.847;18;10;-0.020; 1.15;0.052;-0.072;-0.01%; 1.41; -0.4;6;1;
+Kyle Farmer;/players/f/farmeky01.shtml;SS;4;0;1;0;0;2;4;.274;.331;.372;.702;13;11;0.045; 1.44;0.103;-0.058; 0.03%; 1.76; -0.2;4;1;
+Willi Castro;/players/c/castrwi01.shtml;3B;4;1;1;1;0;3;4;.263;.318;.441;.759;14;10;-0.108; 2.71;0.142;-0.250;-0.08%; 3.31; 0.1;2;4;HR
+Kyle Garlick;/players/g/garliky01.shtml;LF;3;0;0;0;0;1;3;.217;.280;.522;.802;12;8;-0.097; 1.26;0.000;-0.097;-0.07%; 1.54; -0.5;0;0;
+Michael A. Taylor;/players/t/taylomi02.shtml;CF;3;0;3;0;0;0;3;.224;.276;.401;.677;5;3;0.236; 1.33;0.236;0.000; 0.17%; 1.62; 1.3;1;0;2B,2·SB
+Joe Ryan;/players/r/ryanjo04.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Caleb Thielbar;/players/t/thielca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José De León;/players/d/deleojo03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Griffin Jax;/players/j/jaxgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Michael A. Taylor (6, off Enyel De Los Santos).
+
+
+HR: Willi Castro (5, off Enyel De Los Santos, 8th inn, 0 on, 0 outs to Deep CF-RF).
+
+
+TB: Willi Castro 4; Michael A. Taylor 4; Kyle Farmer.
+
+
+RBI: Willi Castro (12).
+
+
+Team LOB: 6.
+With RISP: 0 for 7.
+
+Batting away
+Steven Kwan;/players/k/kwanst01.shtml;LF;4;0;0;0;0;1;4;.260;.337;.353;.690;16;13;-0.107; 1.04;0.000;-0.107;-0.05%; 0.80; -1.0;1;0;
+Tyler Freeman;/players/f/freemty01.shtml;SS;4;0;0;0;0;1;4;.250;.294;.313;.607;14;9;-0.077; 0.77;0.000;-0.077;-0.04%; 0.59; -0.7;0;1;
+José Ramírez;/players/r/ramirjo01.shtml;3B;3;1;0;0;1;0;4;.261;.332;.436;.768;22;14;-0.012; 0.52;0.022;-0.033;-0.01%; 0.40; -0.2;1;2;
+Josh Naylor;/players/n/naylojo01.shtml;DH;3;1;1;1;0;1;3;.254;.311;.441;.752;6;5;0.168; 1.20;0.222;-0.054; 0.08%; 0.92; 0.6;;;2B
+Andrés Giménez;/players/g/gimenan01.shtml;2B;3;0;1;1;0;0;3;.249;.311;.363;.674;14;9;0.095; 0.97;0.133;-0.038; 0.04%; 0.75; 0.7;0;4;3B
+Gabriel Arias;/players/a/ariasga01.shtml;1B;3;0;0;0;0;1;3;.214;.308;.379;.686;11;8;-0.055; 0.68;0.000;-0.055;-0.03%; 0.52; -0.6;7;0;
+Will Brennan;/players/b/brennwi02.shtml;RF;2;0;1;0;1;0;3;.254;.294;.366;.659;12;8;-0.021; 1.11;0.059;-0.080;-0.01%; 0.85; 0.1;0;0;CS
+Myles Straw;/players/s/strawmy01.shtml;CF;3;0;0;0;0;2;3;.235;.314;.294;.608;12;10;-0.080; 1.12;0.000;-0.080;-0.04%; 0.86; -0.9;2;0;
+Cam Gallagher;/players/g/gallaca01.shtml;C;3;0;0;0;0;0;3;.121;.157;.152;.309;14;10;-0.059; 0.60;0.000;-0.059;-0.03%; 0.46; -0.8;16;0;GDP
+Triston McKenzie;/players/m/mckentr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+James Karinchak;/players/k/karinja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Stephan;/players/s/stephtr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Enyel De Los Santos;/players/d/delosen01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Emmanuel Clase;/players/c/claseem01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Josh Naylor (9, off Joe Ryan).
+
+
+3B: Andrés Giménez (2, off Caleb Thielbar).
+
+
+TB: Andrés Giménez 3; Josh Naylor 2; Will Brennan.
+
+
+GIDP: Cam Gallagher (1).
+
+
+RBI: Andrés Giménez (14); Josh Naylor (41).
+
+
+2-out RBI: Andrés Giménez; Josh Naylor.
+
+
+Team LOB: 1.
+With RISP: 1 for 2.
+
+Pitching home
+Joe Ryan;/players/r/ryanjo04.shtml; L (7-3); 6.2;2;2;2;1;4;0;2.76;22;88;65;43;6;16;7;10;0;0;65;;;0.184; 0.91; 0.14%; 1.11; 2.3
+Caleb Thielbar;/players/t/thielca01.shtml;Caleb Thielbar; 0.1;1;0;0;0;0;0;1.74;2;10;6;4;1;1;1;1;0;0;;1;1;-0.105; 1.22;-0.08%; 1.48; -0.7
+José De León;/players/d/deleojo03.shtml;José De León; 1 ;0;0;0;1;1;0;2.79;3;12;8;3;1;4;1;0;0;0;;0;0;0.030; 0.65; 0.02%; 0.79; 0.5
+Griffin Jax;/players/j/jaxgr01.shtml;Griffin Jax; 1 ;0;0;0;0;1;0;4.26;3;11;7;5;1;1;0;2;1;0;;0;0;0.040; 0.52; 0.03%; 0.64; 0.5
+
+Pitching away
+Triston McKenzie;/players/m/mckentr01.shtml;Triston McKenzie; 5 ;1;0;0;1;10;0;0.00;17;79;52;25;12;15;3;3;0;0;74;;;0.283; 0.84; 0.13%; 0.65; 2.6
+James Karinchak;/players/k/karinja01.shtml; W (2-4); 1 ;1;0;0;0;2;0;3.86;4;16;11;6;1;4;2;0;0;0;;0;0;0.076; 1.75; 0.03%; 1.35; 0.5
+Trevor Stephan;/players/s/stephtr01.shtml; H (9); 1 ;0;0;0;0;2;0;2.84;3;8;7;2;4;1;0;1;0;0;;0;0;0.083; 1.09; 0.04%; 0.83; 0.5
+Enyel De Los Santos;/players/d/delosen01.shtml; H (4); 1 ;2;1;1;0;0;1;1.96;5;10;7;5;1;1;3;2;0;0;;0;0;0.002; 2.73; 0.00%; 2.10; -0.5
+Emmanuel Clase;/players/c/claseem01.shtml; S (19); 1 ;1;0;0;1;2;0;3.10;5;19;11;3;6;2;1;1;1;0;;0;0;0.205; 3.76; 0.09%; 2.89; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Will Little, 1B - Ryan Additon, 2B - Dan Merzel, 3B - Lance Barksdale, LF - (none), RF - (none).
+Time of Game: 2:18.
+Attendance: 23,629.
+Field Condition: Unknown.
+Start Time Weather: 85° F, Wind 6mph in from Centerfield, Cloudy, No Precipitation.
+
+div_lineups
+Guardians
+1;Steven Kwan;/players/k/kwanst01.shtml;LF
+2;Tyler Freeman;/players/f/freemty01.shtml;SS
+3;José Ramírez;/players/r/ramirjo01.shtml;3B
+4;Josh Naylor;/players/n/naylojo01.shtml;DH
+5;Andrés Giménez;/players/g/gimenan01.shtml;2B
+6;Gabriel Arias;/players/a/ariasga01.shtml;1B
+7;Will Brennan;/players/b/brennwi02.shtml;RF
+8;Myles Straw;/players/s/strawmy01.shtml;CF
+9;Cam Gallagher;/players/g/gallaca01.shtml;C
+; Triston McKenzie;/players/m/mckentr01.shtml;P
+Twins
+1;Jorge Polanco;/players/p/polanjo01.shtml;2B
+2;Royce Lewis;/players/l/lewisro02.shtml;DH
+3;Donovan Solano;/players/s/solando01.shtml;1B
+4;Max Kepler;/players/k/keplema01.shtml;RF
+5;Ryan Jeffers;/players/j/jeffery01.shtml;C
+6;Kyle Farmer;/players/f/farmeky01.shtml;SS
+7;Willi Castro;/players/c/castrwi01.shtml;3B
+8;Kyle Garlick;/players/g/garliky01.shtml;LF
+9;Michael A. Taylor;/players/t/taylomi02.shtml;CF
+; Joe Ryan;/players/r/ryanjo04.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t7;0-0;2;1--;2,(1-0) BX;R;CLE;Josh Naylor;Joe Ryan;22%;68%;Double to RF (Fly Ball); Ramírez Scores
+b9;1-2;2;1-3;5,(2-2) *SB*SB*S;O;MIN;Willi Castro;Emmanuel Clase;20%;100%;Strikeout Swinging
+b8;0-2;0;---;1,(0-0) .X;R;MIN;Willi Castro;Enyel De Los Santos;-14%;69%;Home Run (Fly Ball to Deep CF-RF)
+t7;1-0;2;-2-;5,(2-2) .BBCSX;R;CLE;Andrés Giménez;Caleb Thielbar;13%;81%;Triple to CF (Fly Ball to Deep CF-RF); Naylor Scores
+b8;1-2;1;---;1,(0-0) X;;MIN;Michael A. Taylor;Enyel De Los Santos;-12%;64%;Ground-rule Double (Fly Ball to Deep LF Line)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Guardians Batting, Tied 0-0, Twins' Joe Ryan facing 1-2-3 
+t1;0-0;0;---;6,(1-2) CCFFBX;O;CLE;Steven Kwan;Joe Ryan;-2%;48%;Foul Popfly: 3B (3B into Foul Terr.)
+t1;0-0;1;---;4,(1-2) BFFS;O;CLE;Tyler Freeman;Joe Ryan;-2%;46%;Strikeout Swinging
+t1;0-0;2;---;8,(1-2) CCFFFFBX;O;CLE;José Ramírez;Joe Ryan;-1%;45%;Popfly: SS (Weak SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Twins 0.
+Bottom of the 1st, Twins Batting, Tied 0-0, Guardians' Triston McKenzie facing 1-2-3 
+b1;0-0;0;---;4,(1-2) BFCX;O;MIN;Jorge Polanco;Triston McKenzie;2%;47%;Groundout: 2B-1B
+b1;0-0;1;---;5,(1-2) SFBFT;O;MIN;Royce Lewis;Triston McKenzie;2%;49%;Strikeout Swinging
+b1;0-0;2;---;4,(1-2) SBSS;O;MIN;Donovan Solano;Triston McKenzie;1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Twins 0.
+Top of the 2nd, Guardians Batting, Tied 0-0, Twins' Joe Ryan facing 4-5-6 
+t2;0-0;0;---;3,(0-2) SF.S;O;CLE;Josh Naylor;Joe Ryan;-2%;48%;Strikeout Swinging
+t2;0-0;1;---;4,(1-2) FF.BX;O;CLE;Andrés Giménez;Joe Ryan;-2%;46%;Popfly: 3B (Short 3B Line)
+t2;0-0;2;---;4,(1-2) BFCS;O;CLE;Gabriel Arias;Joe Ryan;-1%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Twins 0.
+Bottom of the 2nd, Twins Batting, Tied 0-0, Guardians' Triston McKenzie facing 4-5-6 
+b2;0-0;0;---;2,(1-0) BX;O;MIN;Max Kepler;Triston McKenzie;2%;47%;Flyball: CF
+b2;0-0;1;---;5,(2-2) BCF.BS;O;MIN;Ryan Jeffers;Triston McKenzie;2%;49%;Strikeout Swinging
+b2;0-0;2;---;4,(1-2) CCBS;O;MIN;Kyle Farmer;Triston McKenzie;1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Twins 0.
+Top of the 3rd, Guardians Batting, Tied 0-0, Twins' Joe Ryan facing 7-8-9 
+t3;0-0;0;---;4,(0-2) FFFX;;CLE;Will Brennan;Joe Ryan;4%;54%;Single to 3B (Ground Ball to SS-3B Hole)
+t3;0-0;0;1--;7,(2-2) >FCBB11FF>S;OO;CLE;Myles Straw;Joe Ryan;-8%;46%;Double Play: Strikeout Swinging, Brennan Caught Stealing 2B (C-SS)
+t3;0-0;2;---;5,(2-2) BSBF.X;O;CLE;Cam Gallagher;Joe Ryan;-1%;44%;Flyball: RF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Guardians 0, Twins 0.
+Bottom of the 3rd, Twins Batting, Tied 0-0, Guardians' Triston McKenzie facing 7-8-9 
+b3;0-0;0;---;5,(2-2) BFBS.C;O;MIN;Willi Castro;Triston McKenzie;3%;47%;Strikeout Looking
+b3;0-0;1;---;2,(0-1) FX;O;MIN;Kyle Garlick;Triston McKenzie;2%;49%;Flyball: CF (Deep CF)
+b3;0-0;2;---;3,(2-0) BBX;;MIN;Michael A. Taylor;Triston McKenzie;-1%;47%;Single to LF (Ground Ball thru SS-3B Hole)
+b3;0-0;2;1--;1,(0-0) >B;;MIN;Jorge Polanco;Triston McKenzie;-1%;46%;Taylor Steals 2B
+b3;0-0;2;-2-;5,(2-2) >B.CCBS;O;MIN;Jorge Polanco;Triston McKenzie;4%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 0, Twins 0.
+Top of the 4th, Guardians Batting, Tied 0-0, Twins' Joe Ryan facing 1-2-3 
+t4;0-0;0;---;2,(0-1) CX;O;CLE;Steven Kwan;Joe Ryan;-3%;47%;Popfly: SS (SS-2B)
+t4;0-0;1;---;1,(0-0) X;O;CLE;Tyler Freeman;Joe Ryan;-2%;45%;Flyball: RF (Deep RF)
+t4;0-0;2;---;5,(2-2) BFCBX;O;CLE;José Ramírez;Joe Ryan;-1%;44%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Twins 0.
+Bottom of the 4th, Twins Batting, Tied 0-0, Guardians' Triston McKenzie facing 2-3-4 
+b4;0-0;0;---;6,(3-2) BSBC.BS;O;MIN;Royce Lewis;Triston McKenzie;3%;47%;Strikeout Swinging
+b4;0-0;1;---;9,(3-2) BBBCFFF.FB;;MIN;Donovan Solano;Triston McKenzie;-3%;44%;Walk
+b4;0-0;1;1--;6,(3-2) BBCBC>X;O;MIN;Max Kepler;Triston McKenzie;3%;47%;Popfly: 3B (SS-3B Hole)
+b4;0-0;2;1--;8,(2-2) CTFBBFFC;O;MIN;Ryan Jeffers;Triston McKenzie;3%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Guardians 0, Twins 0.
+Top of the 5th, Guardians Batting, Tied 0-0, Twins' Joe Ryan facing 4-5-6 
+t5;0-0;0;---;1,(0-0) X;O;CLE;Josh Naylor;Joe Ryan;-3%;47%;Groundout: 1B unassisted
+t5;0-0;1;---;5,(2-2) BBCF.X;O;CLE;Andrés Giménez;Joe Ryan;-2%;45%;Groundout: 1B unassisted
+t5;0-0;2;---;2,(0-1) FX;O;CLE;Gabriel Arias;Joe Ryan;-1%;43%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Twins 0.
+Bottom of the 5th, Twins Batting, Tied 0-0, Guardians' Triston McKenzie facing 6-7-8 
+b5;0-0;0;---;4,(1-2) FFBX;O;MIN;Kyle Farmer;Triston McKenzie;3%;46%;Groundout: 3B-1B
+b5;0-0;1;---;3,(0-2) CS.C;O;MIN;Willi Castro;Triston McKenzie;2%;48%;Strikeout Looking
+b5;0-0;2;---;4,(1-2) BFTS;O;MIN;Kyle Garlick;Triston McKenzie;2%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Twins 0.
+Top of the 6th, Guardians Batting, Tied 0-0, Twins' Joe Ryan facing 7-8-9 
+t6;0-0;0;---;2,(0-1) CX;O;CLE;Will Brennan;Joe Ryan;-3%;47%;Popfly: SS (Deep SS-3B Hole)
+t6;0-0;1;---;2,(0-1) FX;O;CLE;Myles Straw;Joe Ryan;-2%;44%;Popfly: 2B (Deep 1B)
+t6;0-0;2;---;6,(2-2) CBCFBX;O;CLE;Cam Gallagher;Joe Ryan;-2%;42%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 0, Twins 0.
+Bottom of the 6th, Twins Batting, Tied 0-0, Guardians' James Karinchak facing 9-1-2 
+;;;;;;;;;James Karinchak replaces Triston McKenzie pitching
+b6;0-0;0;---;1,(0-0) .X;;MIN;Michael A. Taylor;James Karinchak;-5%;37%;Single to LF (Ground Ball)
+b6;0-0;0;1--;1,(0-0) 1>C;;MIN;Jorge Polanco;James Karinchak;-4%;33%;Taylor Steals 2B
+b6;0-0;0;-2-;4,(1-2) 1>C.*BFS;O;MIN;Jorge Polanco;James Karinchak;6%;39%;Strikeout Swinging
+b6;0-0;1;-2-;5,(2-2) BCTB.C;O;MIN;Royce Lewis;James Karinchak;5%;45%;Strikeout Looking
+b6;0-0;2;-2-;6,(2-2) BFBCFX;O;MIN;Donovan Solano;James Karinchak;5%;50%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Guardians 0, Twins 0.
+Top of the 7th, Guardians Batting, Tied 0-0, Twins' Joe Ryan facing 1-2-3 
+t7;0-0;0;---;4,(1-2) CCBX;O;CLE;Steven Kwan;Joe Ryan;-4%;46%;Groundout: 3B-1B (SS-3B Hole)
+t7;0-0;1;---;4,(2-1) CBBX;O;CLE;Tyler Freeman;Joe Ryan;-3%;43%;Groundout: SS-1B (Deep SS-2B)
+t7;0-0;2;---;7,(3-2) CBBBF.FB;;CLE;José Ramírez;Joe Ryan;2%;45%;Walk
+t7;0-0;2;1--;2,(1-0) BX;R;CLE;Josh Naylor;Joe Ryan;22%;68%;Double to RF (Fly Ball); Ramírez Scores
+;;;;;;;;;Caleb Thielbar replaces Joe Ryan pitching
+t7;1-0;2;-2-;5,(2-2) .BBCSX;R;CLE;Andrés Giménez;Caleb Thielbar;13%;81%;Triple to CF (Fly Ball to Deep CF-RF); Naylor Scores
+t7;2-0;2;--3;5,(2-2) BBFFX;O;CLE;Gabriel Arias;Caleb Thielbar;-3%;78%;Groundout: 3B-1B
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Guardians 2, Twins 0.
+Bottom of the 7th, Twins Batting, Behind 0-2, Guardians' Trevor Stephan facing 4-5-6 
+;;;;;;;;;Trevor Stephan replaces James Karinchak pitching
+b7;0-2;0;---;4,(1-2) .BSFS;O;MIN;Max Kepler;Trevor Stephan;4%;82%;Strikeout Swinging
+b7;0-2;1;---;1,(0-0) X;O;MIN;Ryan Jeffers;Trevor Stephan;3%;85%;Flyball: LF (Deep LF-CF)
+b7;0-2;2;---;3,(0-2) CS.S;O;MIN;Kyle Farmer;Trevor Stephan;2%;86%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 2, Twins 0.
+Top of the 8th, Guardians Batting, Ahead 2-0, Twins' José De León facing 7-8-9 
+;;;;;;;;;José De León replaces Caleb Thielbar pitching
+t8;2-0;0;---;6,(3-2) .BCBSBB;;CLE;Will Brennan;José De León;2%;88%;Walk
+t8;2-0;0;1--;3,(0-2) FCC;O;CLE;Myles Straw;José De León;-2%;86%;Strikeout Looking
+t8;2-0;1;1--;3,(0-2) CFX;OO;CLE;Cam Gallagher;José De León;-3%;83%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 2, Twins 0.
+Bottom of the 8th, Twins Batting, Behind 0-2, Guardians' Enyel De Los Santos facing 7-8-9 
+;;;;;;;;;Enyel De Los Santos replaces Trevor Stephan pitching
+b8;0-2;0;---;1,(0-0) .X;R;MIN;Willi Castro;Enyel De Los Santos;-14%;69%;Home Run (Fly Ball to Deep CF-RF)
+b8;1-2;0;---;6,(3-2) SBBCBX;O;MIN;Kyle Garlick;Enyel De Los Santos;6%;76%;Groundout: SS-1B
+b8;1-2;1;---;1,(0-0) X;;MIN;Michael A. Taylor;Enyel De Los Santos;-12%;64%;Ground-rule Double (Fly Ball to Deep LF Line)
+b8;1-2;1;-2-;1,(0-0) X;O;MIN;Jorge Polanco;Enyel De Los Santos;9%;72%;Groundout: 2B-1B (2B-1B); Taylor to 3B
+b8;1-2;2;--3;1,(0-0) X;O;MIN;Royce Lewis;Enyel De Los Santos;11%;83%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;Force Play Challenged by MIN manager (Rocco Baldelli): Original call upheld upon review.
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Guardians 2, Twins 1.
+Top of the 9th, Guardians Batting, Ahead 2-1, Twins' Griffin Jax facing 1-2-3 
+;;;;;;;;;Griffin Jax replaces José De León pitching
+t9;2-1;0;---;4,(1-2) .BFFS;O;CLE;Steven Kwan;Griffin Jax;-2%;82%;Strikeout Swinging
+t9;2-1;1;---;5,(2-2) BCBFX;O;CLE;Tyler Freeman;Griffin Jax;-1%;80%;Lineout: CF (Deep CF)
+t9;2-1;2;---;2,(1-0) BX;O;CLE;José Ramírez;Griffin Jax;-1%;80%;Popfly: 2B (Deep 2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Guardians 2, Twins 1.
+Bottom of the 9th, Twins Batting, Behind 1-2, Guardians' Emmanuel Clase facing 3-4-5 
+;;;;;;;;;Emmanuel Clase replaces Enyel De Los Santos pitching
+b9;1-2;0;---;5,(1-2) .CBSFS;O;MIN;Donovan Solano;Emmanuel Clase;9%;89%;Strikeout Swinging
+b9;1-2;1;---;3,(1-1) SBX;O;MIN;Max Kepler;Emmanuel Clase;7%;95%;Groundout: 2B-1B
+b9;1-2;2;---;4,(3-0) BBBB;;MIN;Ryan Jeffers;Emmanuel Clase;-5%;90%;Walk
+b9;1-2;2;1--;2,(0-1) CX;;MIN;Kyle Farmer;Emmanuel Clase;-10%;80%;Single to CF (Line Drive to Deep CF-RF); Jeffers to 3B
+b9;1-2;2;1-3;5,(2-2) *SB*SB*S;O;MIN;Willi Castro;Emmanuel Clase;20%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Guardians 2, Twins 1.

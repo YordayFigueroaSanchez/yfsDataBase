@@ -1,0 +1,265 @@
+
+Scorebox Meta
+20230726
+7:10 p.m. Local
+37457
+Fenway Park
+149
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/ATL-2023.png;/teams/ATL/2023.shtml;0;0;0;0;0;3;0;0;0;3;6;1
+https://cdn.ssref.net/req/202308101/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;0;0;0;0;0;1;3;1;X;5;8;1
+
+Batting home
+Jarren Duran;/players/d/duranja01.shtml;LF;4;0;0;0;0;1;4;.311;.363;.502;.865;15;10;-0.164; 1.99;0.000;-0.164;-0.10%; 1.92; -1.3;3;0;
+Justin Turner;/players/t/turneju01.shtml;2B-1B;4;0;2;2;0;1;4;.289;.359;.481;.841;13;11;0.368; 1.79;0.413;-0.045; 0.21%; 1.73; 1.7;2;4;2B
+Masataka Yoshida;/players/y/yoshima02.shtml;DH;4;0;0;0;0;1;4;.316;.378;.500;.878;11;8;-0.104; 1.00;0.000;-0.104;-0.06%; 0.96; -1.0;;;
+Rafael Devers;/players/d/deverra01.shtml;3B;4;1;1;1;0;0;4;.267;.334;.528;.862;13;10;0.010; 0.83;0.085;-0.074; 0.01%; 0.81; 0.2;1;1;HR
+Adam Duvall;/players/d/duvalad01.shtml;CF;4;1;1;1;0;3;4;.259;.327;.524;.852;12;12;0.019; 0.69;0.082;-0.063; 0.01%; 0.67; 0.5;1;0;HR
+Alex Verdugo;/players/v/verdual01.shtml;RF;4;0;0;0;0;2;4;.271;.344;.427;.772;16;9;-0.090; 0.85;0.000;-0.090;-0.05%; 0.82; -0.8;2;0;
+Triston Casas;/players/c/casastr01.shtml;1B;2;1;2;1;2;0;4;.253;.360;.477;.836;14;6;0.210; 0.78;0.210;0.000; 0.12%; 0.75; 1.8;9;1;HR
+Christian Arroyo;/players/a/arroych01.shtml;PR-2B;0;0;0;0;0;0;0;.247;.276;.379;.655;;;-0.008; 0.27;0.000;-0.008;-0.01%; 0.26; -0.2;1;0;CS
+Connor Wong;/players/w/wongco01.shtml;C;3;1;2;0;0;0;3;.250;.307;.403;.710;12;5;0.061; 1.51;0.098;-0.037; 0.04%; 1.46; 0.3;6;1;
+Yu Chang;/players/c/changyu01.shtml;SS;3;1;0;0;0;2;3;.171;.218;.378;.596;11;9;-0.017; 2.10;0.072;-0.089;-0.01%; 2.03; -0.4;1;4;
+Brayan Bello;/players/b/bellobr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Joe Jacques;/players/j/jacqujo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+John Schreiber;/players/s/schrejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brennan Bernardino;/players/b/bernabr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kenley Jansen;/players/j/janseke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Justin Turner (24, off Pierce Johnson).
+
+
+HR: Rafael Devers (25, off Spencer Strider, 6th inn, 0 on, 2 outs to Deep RF Line); Triston Casas (15, off Spencer Strider, 7th inn, 0 on, 1 out to Deep CF); Adam Duvall (8, off Kirby Yates, 8th inn, 0 on, 1 out to Deep CF-RF).
+
+
+TB: Triston Casas 5; Adam Duvall 4; Rafael Devers 4; Justin Turner 3; Connor Wong 2.
+
+
+RBI: Justin Turner 2 (66); Rafael Devers (76); Triston Casas (38); Adam Duvall (28).
+
+
+2-out RBI: Justin Turner 2; Rafael Devers.
+
+
+Team LOB: 5.
+With RISP: 1 for 5.
+
+Batting away
+Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF;2;1;0;0;1;0;4;.327;.407;.569;.976;7;2;-0.028; 1.30;0.052;-0.080;-0.01%; 0.55; 0.0;1;0;HBP
+Ozzie Albies;/players/a/albieoz01.shtml;2B;4;1;2;3;0;1;4;.257;.319;.505;.824;20;13;0.246; 1.41;0.288;-0.043; 0.06%; 0.59; 1.8;1;0;HR
+Austin Riley;/players/r/rileyau01.shtml;3B;4;0;1;0;0;0;4;.270;.329;.484;.812;14;8;-0.100; 1.22;0.012;-0.112;-0.03%; 0.51; -0.7;2;0;
+Matt Olson;/players/o/olsonma02.shtml;1B;4;0;1;0;0;1;4;.254;.360;.565;.926;12;7;-0.062; 1.00;0.030;-0.092;-0.02%; 0.42; -0.4;6;2;
+Sean Murphy;/players/m/murphse01.shtml;C;2;0;0;0;1;0;4;.282;.380;.546;.926;13;5;-0.004; 1.05;0.084;-0.088;-0.00%; 0.44; -0.3;9;2;HBP,GDP
+Marcell Ozuna;/players/o/ozunama01.shtml;DH;4;0;0;0;0;1;4;.225;.298;.430;.728;19;14;-0.086; 1.31;0.026;-0.112;-0.02%; 0.55; -0.6;;;
+Eddie Rosario;/players/r/rosared01.shtml;LF;2;0;0;0;0;1;2;.248;.297;.463;.760;12;9;-0.077; 1.05;0.000;-0.077;-0.02%; 0.44; -0.7;1;0;GDP
+Kevin Pillar;/players/p/pillake01.shtml;PH-LF;2;0;1;0;0;0;2;.243;.273;.461;.734;6;5;0.075; 1.42;0.092;-0.017; 0.02%; 0.59; 0.4;0;0;
+Forrest Wall;/players/w/wallfo01.shtml;PR;0;0;0;0;0;0;0;;;;;;;-0.144; 3.99;0.000;-0.144;-0.04%; 1.67; -0.8;;;CS
+Orlando Arcia;/players/a/arciaor01.shtml;SS;4;0;0;0;0;2;4;.287;.341;.436;.777;19;12;-0.095; 0.87;0.000;-0.095;-0.02%; 0.36; -0.9;1;3;
+Michael Harris II;/players/h/harrimi04.shtml;CF;3;1;1;0;0;0;3;.274;.325;.447;.773;7;5;0.061; 0.81;0.089;-0.028; 0.01%; 0.34; 0.3;1;0;2B
+Spencer Strider;/players/s/stridsp01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Pierce Johnson;/players/j/johnspi01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Kirby Yates;/players/y/yateski01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Michael Harris II (15, off Brayan Bello).
+
+
+HR: Ozzie Albies (24, off Brayan Bello, 6th inn, 2 on, 0 outs to Deep RF).
+
+
+HBP: Ronald Acuna Jr. (5, by Brayan Bello); Sean Murphy (10, by Kenley Jansen).
+
+
+TB: Ozzie Albies 5; Michael Harris II 2; Kevin Pillar; Austin Riley; Matt Olson.
+
+
+GIDP: Sean Murphy (12); Eddie Rosario (9).
+
+
+RBI: Ozzie Albies 3 (72).
+
+
+Team LOB: 5.
+With RISP: 1 for 2.
+
+Pitching home
+Brayan Bello;/players/b/bellobr01.shtml;Brayan Bello; 6 ;4;3;3;2;4;1;3.66;24;92;53;31;10;12;11;6;3;0;54;;;-0.034; 0.90;-0.02%; 0.87; 0.3
+Joe Jacques;/players/j/jacqujo01.shtml; W (2-1); 1 ;0;0;0;0;1;0;4.86;3;11;8;3;1;4;1;1;0;0;;0;0;0.040; 0.51; 0.02%; 0.49; 0.6
+John Schreiber;/players/s/schrejo01.shtml; H (7); 0.2;1;0;0;0;0;0;2.41;3;7;5;3;1;1;0;3;1;0;;0;0;0.066; 2.22; 0.04%; 2.15; 0.3
+Brennan Bernardino;/players/b/bernabr01.shtml; H (2); 0.1;0;0;0;0;0;0;2.34;1;2;1;1;0;0;0;1;0;0;;1;0;0.060; 2.06; 0.03%; 1.99; 0.2
+Kenley Jansen;/players/j/janseke01.shtml; S (22); 1 ;1;0;0;0;1;0;2.97;4;17;13;9;3;1;0;2;1;0;;0;0;0.082; 2.42; 0.05%; 2.34; 0.6
+
+Pitching away
+Spencer Strider;/players/s/stridsp01.shtml;Spencer Strider; 6.1;6;3;2;1;10;2;3.73;26;91;64;31;14;19;4;11;4;0;60;;;0.125; 1.12; 0.03%; 0.47; 1.3
+Pierce Johnson;/players/j/johnspi01.shtml; L (1-6); 0.2;1;1;0;0;0;0;5.90;4;11;9;7;1;1;3;1;0;0;;1;1;-0.354; 3.00;-0.09%; 1.26; -1.4
+Kirby Yates;/players/y/yateski01.shtml;Kirby Yates; 1 ;1;1;1;1;0;1;3.52;4;15;7;3;1;3;2;1;0;0;;0;0;-0.057; 0.32;-0.01%; 0.14; -0.4
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Brayan Bello (5; Ronald Acuna Jr.); Kenley Jansen (1; Sean Murphy).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Brayan Bello (5; Ronald Acuna Jr.); Kenley Jansen (1; Sean Murphy).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Ryan Wills, 1B - Mike Estabrook, 2B - Andy Fletcher, 3B - Erich Bacchus, LF - (none), RF - (none).
+Time of Game: 2:29.
+Attendance: 37,457.
+Field Condition: Unknown.
+Start Time Weather: 85° F, Wind 9mph out to Centerfield, Cloudy, No Precipitation.
+
+div_lineups
+Braves
+1;Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF
+2;Ozzie Albies;/players/a/albieoz01.shtml;2B
+3;Austin Riley;/players/r/rileyau01.shtml;3B
+4;Matt Olson;/players/o/olsonma02.shtml;1B
+5;Sean Murphy;/players/m/murphse01.shtml;C
+6;Marcell Ozuna;/players/o/ozunama01.shtml;DH
+7;Eddie Rosario;/players/r/rosared01.shtml;LF
+8;Orlando Arcia;/players/a/arciaor01.shtml;SS
+9;Michael Harris II;/players/h/harrimi04.shtml;CF
+; Spencer Strider;/players/s/stridsp01.shtml;P
+Red Sox
+1;Jarren Duran;/players/d/duranja01.shtml;LF
+2;Justin Turner;/players/t/turneju01.shtml;2B
+3;Masataka Yoshida;/players/y/yoshima02.shtml;DH
+4;Rafael Devers;/players/d/deverra01.shtml;3B
+5;Adam Duvall;/players/d/duvalad01.shtml;CF
+6;Alex Verdugo;/players/v/verdual01.shtml;RF
+7;Triston Casas;/players/c/casastr01.shtml;1B
+8;Connor Wong;/players/w/wongco01.shtml;C
+9;Yu Chang;/players/c/changyu01.shtml;SS
+; Brayan Bello;/players/b/bellobr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b7;2-3;2;-23;2,(0-1) CX;RR;BOS;Justin Turner;Pierce Johnson;37%;77%;Double to LF (Fly Ball to Deep LF-CF); Wong Scores/unER; Chang Scores/unER
+t6;0-0;0;12-;4,(2-1) CBBX;RRR;ATL;Ozzie Albies;Brayan Bello;-23%;15%;Home Run (Fly Ball to Deep RF); Harris Scores; Acuña Scores
+t9;3-5;1;1-3;1,(0-0) .>B;O;ATL;Orlando Arcia;Kenley Jansen;14%;96%;Wall Caught Stealing 2B (C-2B)
+b7;1-3;1;---;1,(0-0) X;R;BOS;Triston Casas;Spencer Strider;14%;33%;Home Run (Fly Ball to Deep CF)
+t9;3-5;1;1--;3,(0-2) FFX;;ATL;Kevin Pillar;Kenley Jansen;-9%;82%;Single to CF (Line Drive to Deep CF-RF); Murphy to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Braves Batting, Tied 0-0, Red Sox' Brayan Bello facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;ATL;Ronald Acuna Jr.;Brayan Bello;2%;52%;Lineout: LF (LF-CF)
+t1;0-0;1;---;9,(3-2) CF.BFBBFFS;O;ATL;Ozzie Albies;Brayan Bello;2%;54%;Strikeout Swinging
+t1;0-0;2;---;2,(0-1) CX;;ATL;Austin Riley;Brayan Bello;-1%;53%;Single to LF (Ground Ball thru SS-3B Hole)
+t1;0-0;2;1--;5,(2-2) SBBFS;O;ATL;Matt Olson;Brayan Bello;2%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Tied 0-0, Braves' Spencer Strider facing 1-2-3 
+b1;0-0;0;---;6,(3-2) BBBCFC;O;BOS;Jarren Duran;Spencer Strider;-2%;53%;Strikeout Looking
+b1;0-0;1;---;2,(0-1) CX;O;BOS;Justin Turner;Spencer Strider;-2%;51%;Popfly: 1B (Weak 1B)
+b1;0-0;2;---;2,(0-1) CX;O;BOS;Masataka Yoshida;Spencer Strider;-1%;50%;Groundout: SS-1B (Deep SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Red Sox 0.
+Top of the 2nd, Braves Batting, Tied 0-0, Red Sox' Brayan Bello facing 5-6-7 
+t2;0-0;0;---;1,(0-0) X;O;ATL;Sean Murphy;Brayan Bello;2%;52%;Groundout: 2B-1B (SS-2B)
+t2;0-0;1;---;4,(2-1) CBBX;;ATL;Marcell Ozuna;Brayan Bello;-3%;50%;Reached on E5 (Line Drive); Ozuna to 1B
+t2;0-0;1;1--;8,(2-2) FB*BFFFFX;OO;ATL;Eddie Rosario;Brayan Bello;5%;55%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 1 error, 0 LOB. Braves 0, Red Sox 0.
+Bottom of the 2nd, Red Sox Batting, Tied 0-0, Braves' Spencer Strider facing 4-5-6 
+b2;0-0;0;---;1,(0-0) X;O;BOS;Rafael Devers;Spencer Strider;-2%;53%;Groundout: P-1B
+b2;0-0;1;---;5,(0-2) CC.FFS;O;BOS;Adam Duvall;Spencer Strider;-2%;51%;Strikeout Swinging
+b2;0-0;2;---;3,(2-0) BBX;O;BOS;Alex Verdugo;Spencer Strider;-1%;50%;Groundout: P unassisted (Weak 1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Red Sox 0.
+Top of the 3rd, Braves Batting, Tied 0-0, Red Sox' Brayan Bello facing 8-9-1 
+t3;0-0;0;---;2,(0-1) SX;O;ATL;Orlando Arcia;Brayan Bello;3%;53%;Groundout: SS-1B
+t3;0-0;1;---;3,(1-1) BCX;O;ATL;Michael Harris II;Brayan Bello;2%;54%;Popfly: 3B (Deep 3B)
+t3;0-0;2;---;4,(3-0) BBBB;;ATL;Ronald Acuna Jr.;Brayan Bello;-1%;53%;Walk
+t3;0-0;2;1--;4,(2-1) BB1FX;O;ATL;Ozzie Albies;Brayan Bello;3%;56%;Groundout: 1B unassisted (Weak 1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Braves 0, Red Sox 0.
+Bottom of the 3rd, Red Sox Batting, Tied 0-0, Braves' Spencer Strider facing 7-8-9 
+b3;0-0;0;---;2,(0-1) FX;;BOS;Triston Casas;Spencer Strider;4%;60%;Single to LF (Line Drive)
+b3;0-0;0;1--;3,(2-0) B*BX;O;BOS;Connor Wong;Spencer Strider;-4%;56%;Flyball: RF (RF Line)
+b3;0-0;1;1--;3,(0-2) CS*S;O;BOS;Yu Chang;Spencer Strider;-3%;53%;Strikeout Swinging
+b3;0-0;2;1--;3,(0-2) CFX;O;BOS;Jarren Duran;Spencer Strider;-3%;50%;Flyball: LF (LF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Red Sox 0.
+Top of the 4th, Braves Batting, Tied 0-0, Red Sox' Brayan Bello facing 3-4-5 
+t4;0-0;0;---;7,(3-2) CBFBFBX;O;ATL;Austin Riley;Brayan Bello;3%;53%;Flyball: RF (Deep RF Line)
+t4;0-0;1;---;1,(0-0) X;;ATL;Matt Olson;Brayan Bello;-3%;50%;Single to LF (Ground Ball)
+t4;0-0;1;1--;4,(2-1) BBSX;OO;ATL;Sean Murphy;Brayan Bello;6%;56%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Braves 0, Red Sox 0.
+Bottom of the 4th, Red Sox Batting, Tied 0-0, Braves' Spencer Strider facing 2-3-4 
+b4;0-0;0;---;2,(0-1) CX;;BOS;Justin Turner;Spencer Strider;4%;60%;Single to RF (Line Drive to CF-RF)
+b4;0-0;0;1--;2,(1-0) BX;O;BOS;Masataka Yoshida;Spencer Strider;-4%;56%;Groundout: 1B-SS/Forceout at 2B (Weak 1B); Yoshida to 1B
+b4;0-0;1;1--;4,(1-2) C1FBX;O;BOS;Rafael Devers;Spencer Strider;-4%;53%;Popfly: 3B (Weak 3B)
+b4;0-0;2;1--;3,(0-2) F1FS;O;BOS;Adam Duvall;Spencer Strider;-3%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Red Sox 0.
+Top of the 5th, Braves Batting, Tied 0-0, Red Sox' Brayan Bello facing 6-7-8 
+t5;0-0;0;---;4,(1-2) BSC.X;O;ATL;Marcell Ozuna;Brayan Bello;3%;53%;Groundout: P-1B (Weak SS-2B)
+t5;0-0;1;---;4,(1-2) SFBS;O;ATL;Eddie Rosario;Brayan Bello;2%;55%;Strikeout Swinging
+t5;0-0;2;---;6,(3-2) BCBBCX;O;ATL;Orlando Arcia;Brayan Bello;2%;57%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Red Sox 0.
+Bottom of the 5th, Red Sox Batting, Tied 0-0, Braves' Spencer Strider facing 6-7-8 
+b5;0-0;0;---;5,(2-2) CBBF.S;O;BOS;Alex Verdugo;Spencer Strider;-3%;54%;Strikeout Swinging
+b5;0-0;1;---;6,(3-2) BBC.BFB;;BOS;Triston Casas;Spencer Strider;3%;57%;Walk
+b5;0-0;1;1--;5,(2-2) BCS.*BX;;BOS;Connor Wong;Spencer Strider;4%;62%;Single to LF (Line Drive to LF-CF); Casas to 2B
+b5;0-0;1;12-;4,(1-2) BFS.S;O;BOS;Yu Chang;Spencer Strider;-6%;56%;Strikeout Swinging
+b5;0-0;2;12-;2,(1-0) BX;O;BOS;Jarren Duran;Spencer Strider;-6%;50%;Flyball: CF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Braves 0, Red Sox 0.
+Top of the 6th, Braves Batting, Tied 0-0, Red Sox' Brayan Bello facing 9-1-2 
+t6;0-0;0;---;2,(1-0) BX;;ATL;Michael Harris II;Brayan Bello;-9%;41%;Double to CF (Line Drive to Deep CF-RF)
+t6;0-0;0;-2-;1,(0-0) H;;ATL;Ronald Acuna Jr.;Brayan Bello;-4%;37%;Hit By Pitch
+t6;0-0;0;12-;4,(2-1) CBBX;RRR;ATL;Ozzie Albies;Brayan Bello;-23%;15%;Home Run (Fly Ball to Deep RF); Harris Scores; Acuña Scores
+t6;3-0;0;---;2,(1-0) BX;O;ATL;Austin Riley;Brayan Bello;1%;16%;Groundout: 3B-1B
+t6;3-0;1;---;4,(2-1) CBBX;O;ATL;Matt Olson;Brayan Bello;1%;17%;Groundout: 1B-P
+t6;3-0;2;---;5,(3-1) BBBC*B;;ATL;Sean Murphy;Brayan Bello;-1%;16%;Walk
+t6;3-0;2;1--;5,(2-2) BCSBS;O;ATL;Marcell Ozuna;Brayan Bello;1%;17%;Strikeout Swinging
+;;;;;;;;;3 runs, 2 hits, 0 errors, 1 LOB. Braves 3, Red Sox 0.
+Bottom of the 6th, Red Sox Batting, Behind 0-3, Braves' Spencer Strider facing 2-3-4 
+b6;0-3;0;---;7,(2-2) BCS.FFBS;O;BOS;Justin Turner;Spencer Strider;-3%;15%;Strikeout Swinging
+b6;0-3;1;---;6,(2-2) CSBFB*S;O;BOS;Masataka Yoshida;Spencer Strider;-2%;13%;Strikeout Swinging; Yoshida out at 1B/C-1B
+b6;0-3;2;---;4,(1-2) CBSX;R;BOS;Rafael Devers;Spencer Strider;8%;21%;Home Run (Fly Ball to Deep RF Line)
+b6;1-3;2;---;3,(0-2) FC.S;O;BOS;Adam Duvall;Spencer Strider;-2%;19%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Braves 3, Red Sox 1.
+Top of the 7th, Braves Batting, Ahead 3-1, Red Sox' Joe Jacques facing 7-8-9 
+;;;;;;;;;Joe Jacques replaces Brayan Bello pitchingKevin Pillar pinch hits for Eddie Rosario (LF) batting 7th
+t7;3-1;0;---;3,(1-1) ..SBX;O;ATL;Kevin Pillar;Joe Jacques;2%;21%;Groundout: SS-1B
+t7;3-1;1;---;6,(2-2) BCCFBC;O;ATL;Orlando Arcia;Joe Jacques;1%;22%;Strikeout Looking
+t7;3-1;2;---;2,(0-1) CX;O;ATL;Michael Harris II;Joe Jacques;1%;23%;Flyball: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 3, Red Sox 1.
+Bottom of the 7th, Red Sox Batting, Behind 1-3, Braves' Spencer Strider facing 6-7-8 
+;;;;;;;;;Kevin Pillar moves from PH to LF 
+b7;1-3;0;---;4,(1-2) .FCBC;O;BOS;Alex Verdugo;Spencer Strider;-4%;19%;Strikeout Looking
+b7;1-3;1;---;1,(0-0) X;R;BOS;Triston Casas;Spencer Strider;14%;33%;Home Run (Fly Ball to Deep CF)
+b7;2-3;1;---;3,(2-0) BBX;;BOS;Connor Wong;Spencer Strider;5%;38%;Single to LF (Line Drive to Short LF-CF)
+;;;;;;;;;Pierce Johnson replaces Spencer Strider pitching
+b7;2-3;1;1--;4,(1-2) .FFB>X;;BOS;Yu Chang;Pierce Johnson;7%;45%;Fielder's Choice ; Wong to 2B/Adv on E4; Chang to 1B
+b7;2-3;1;12-;4,(1-2) TS.*BX;O;BOS;Jarren Duran;Pierce Johnson;-6%;40%;Groundout: 1B-P; Wong to 3B; Chang to 2B
+b7;2-3;2;-23;2,(0-1) CX;RR;BOS;Justin Turner;Pierce Johnson;37%;77%;Double to LF (Fly Ball to Deep LF-CF); Wong Scores/unER; Chang Scores/unER
+b7;4-3;2;-2-;1,(0-0) X;O;BOS;Masataka Yoshida;Pierce Johnson;-3%;73%;Fielder's Choice unassisted; Turner out at 3B/3B; Yoshida to 1B
+;;;;;;;;;3 runs, 3 hits, 1 error, 1 LOB. Braves 3, Red Sox 4.
+Top of the 8th, Braves Batting, Behind 3-4, Red Sox' John Schreiber facing 1-2-3 
+;;;;;;;;;John Schreiber replaces Joe Jacques pitching
+t8;3-4;0;---;1,(0-0) .X;O;ATL;Ronald Acuna Jr.;John Schreiber;6%;79%;Flyball: LF (Deep LF-CF)
+t8;3-4;1;---;3,(0-2) CSX;;ATL;Ozzie Albies;John Schreiber;-6%;73%;Single to LF (Line Drive to Short LF)
+t8;3-4;1;1--;3,(2-0) BBX;O;ATL;Austin Riley;John Schreiber;7%;80%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;Brennan Bernardino replaces John Schreiber pitching
+t8;3-4;2;1--;2,(1-0) .B1X;O;ATL;Matt Olson;Brennan Bernardino;6%;86%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 3, Red Sox 4.
+Bottom of the 8th, Red Sox Batting, Ahead 4-3, Braves' Kirby Yates facing 4-5-6 
+;;;;;;;;;Kirby Yates replaces Pierce Johnson pitching
+b8;4-3;0;---;4,(1-2) .CBCX;O;BOS;Rafael Devers;Kirby Yates;-2%;85%;Groundout: SS-1B
+b8;4-3;1;---;1,(0-0) X;R;BOS;Adam Duvall;Kirby Yates;8%;93%;Home Run (Fly Ball to Deep CF-RF)
+b8;5-3;1;---;4,(2-1) BBCX;O;BOS;Alex Verdugo;Kirby Yates;-1%;92%;Groundout: SS-1B
+b8;5-3;2;---;5,(3-1) BSBB.B;;BOS;Triston Casas;Kirby Yates;0%;93%;Walk
+;;;;;;;;;Christian Arroyo pinch runs for Triston Casas (1B) batting 7th
+b8;5-3;2;1--;1,(0-0) .>B;O;BOS;Connor Wong;Kirby Yates;-1%;92%;Arroyo Caught Stealing 2B (C-2B)
+;;;;;;;;;Tag play Challenged by BOS manager (Alex Cora): Original call upheld upon review.
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Braves 3, Red Sox 5.
+Top of the 9th, Braves Batting, Behind 3-5, Red Sox' Kenley Jansen facing 5-6-7 
+;;;;;;;;;Kenley Jansen replaces Brennan Bernardino pitchingJustin Turner moves from 2B to 1B Christian Arroyo moves from PR to 2B 
+t9;3-5;0;---;3,(1-1) ...CBH;;ATL;Sean Murphy;Kenley Jansen;-8%;84%;Hit By Pitch
+t9;3-5;0;1--;6,(0-2) SS.FFFX;O;ATL;Marcell Ozuna;Kenley Jansen;7%;91%;Foul Popfly: 1B (1B into Foul Terr.)
+t9;3-5;1;1--;3,(0-2) FFX;;ATL;Kevin Pillar;Kenley Jansen;-9%;82%;Single to CF (Line Drive to Deep CF-RF); Murphy to 3B
+;;;;;;;;;Forrest Wall pinch runs for Kevin Pillar (LF) batting 7th
+t9;3-5;1;1-3;1,(0-0) .>B;O;ATL;Orlando Arcia;Kenley Jansen;14%;96%;Wall Caught Stealing 2B (C-2B)
+;;;;;;;;;Tag play Challenged by ATL manager (Brian Snitker): Original call upheld upon review.
+t9;3-5;2;--3;5,(2-2) .>B.BFFS;O;ATL;Orlando Arcia;Kenley Jansen;4%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 3, Red Sox 5.

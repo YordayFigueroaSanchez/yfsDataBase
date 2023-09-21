@@ -1,0 +1,267 @@
+
+Scorebox Meta
+20230803
+7:10 p.m. Local
+52624
+Dodger Stadium
+148
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/OAK-2023.png;/teams/OAK/2023.shtml;0;0;0;0;0;1;0;1;0;2;5;2
+https://cdn.ssref.net/req/202308251/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;1;1;0;0;4;0;2;X;8;14;0
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;RF;4;1;1;0;0;0;5;.281;.385;.575;.960;19;12;0.023; 0.81;0.063;-0.040; 0.02%; 1.18; 0.2;1;0;HBP
+Freddie Freeman;/players/f/freemfr01.shtml;1B;5;1;3;1;0;1;5;.341;.418;.598;1.016;14;12;-0.028; 0.85;0.076;-0.104;-0.03%; 1.23; 0.6;8;1;HR,2·2B
+Will Smith;/players/s/smithwi05.shtml;DH;5;1;1;1;0;2;5;.273;.383;.463;.846;14;9;0.018; 1.08;0.122;-0.104; 0.02%; 1.57; -0.0;;;
+Amed Rosario;/players/r/rosaram01.shtml;2B;4;1;1;2;0;0;4;.269;.309;.381;.690;12;8;0.038; 0.92;0.085;-0.047; 0.03%; 1.34; 1.1;1;2;2B
+Jason Heyward;/players/h/heywaja01.shtml;PH-CF;0;1;0;0;1;0;1;.248;.344;.476;.820;6;2;0.001; 0.02;0.001;0.000; 0.00%; 0.03; 0.3;0;0;
+Max Muncy;/players/m/muncyma01.shtml;3B;0;1;0;0;2;0;3;.193;.332;.479;.812;16;7;0.068; 0.97;0.068;0.000; 0.06%; 1.41; 0.9;0;3;HBP
+David Peralta;/players/p/peralda01.shtml;PH-LF;2;0;1;1;0;0;2;.273;.309;.405;.714;5;4;0.012; 0.17;0.012;-0.001; 0.01%; 0.24; 0.4;0;0;
+Chris Taylor;/players/t/tayloch03.shtml;LF-3B;5;0;2;1;0;3;5;.219;.296;.437;.733;20;15;-0.112; 0.98;0.007;-0.120;-0.10%; 1.43; -0.2;3;0;
+Enrique Hernández;/players/h/hernaen02.shtml;CF-2B;4;1;2;0;1;0;5;.230;.284;.330;.614;13;5;0.091; 0.54;0.101;-0.011; 0.08%; 0.79; 0.0;1;0;2B,GDP
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;4;0;2;2;0;1;4;.221;.275;.285;.560;10;7;0.139; 1.01;0.199;-0.060; 0.12%; 1.47; 1.0;3;4;2·2B,GDP
+Austin Barnes;/players/b/barneau01.shtml;C;3;1;1;0;0;0;4;.122;.203;.139;.342;7;4;-0.024; 0.83;0.032;-0.056;-0.02%; 1.22; -0.6;8;0;SH
+Julio Urías;/players/u/uriasju01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Emmet Sheehan;/players/s/sheehem01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Freddie Freeman 2 (40, 2 off JP Sears); Enrique Hernández (14, off JP Sears); Miguel Rojas 2 (13, 2 off JP Sears); Amed Rosario (21, off Lucas Erceg).
+
+
+HR: Freddie Freeman (22, off Zach Neal, 8th inn, 0 on, 0 outs to Deep RF Line).
+
+
+SH: Austin Barnes (1, off JP Sears).
+
+
+HBP: Mookie Betts (5, by JP Sears); Max Muncy (5, by JP Sears).
+
+
+TB: Freddie Freeman 8; Miguel Rojas 4; Enrique Hernández 3; Amed Rosario 2; Chris Taylor 2; David Peralta; Mookie Betts; Will Smith; Austin Barnes.
+
+
+GIDP: Enrique Hernández (13); Miguel Rojas (7).
+
+
+RBI: Amed Rosario 2 (45); Miguel Rojas 2 (15); Freddie Freeman (76); Chris Taylor (35); David Peralta (38); Will Smith (54).
+
+
+2-out RBI: Chris Taylor; Miguel Rojas.
+
+
+Team LOB: 11.
+With RISP: 6 for 17.
+
+Batting away
+Jonah Bride;/players/b/bridejo01.shtml;DH;2;0;1;0;0;0;2;.200;.318;.236;.555;4;2;0.002; 0.67;0.025;-0.023;0%; 0.00; -0.0;;;2B
+Seth Brown;/players/b/brownse01.shtml;PH-DH-DH;2;0;0;0;0;0;2;.209;.289;.398;.687;12;7;-0.041; 0.78;0.000;-0.041;0%; 0.00; -0.4;;;
+Zack Gelof;/players/g/gelofza01.shtml;2B;4;1;2;1;0;0;4;.242;.306;.561;.866;15;9;0.096; 0.73;0.137;-0.041;0%; 0.00; 0.8;3;2;HR
+Ramón Laureano;/players/l/laurera01.shtml;RF;3;0;0;0;1;0;4;.213;.280;.364;.645;12;8;-0.022; 0.83;0.035;-0.056;0%; 0.00; -0.3;1;0;
+Brent Rooker;/players/r/rookebr01.shtml;LF;4;0;0;0;0;1;4;.242;.332;.470;.803;12;9;-0.123; 0.83;0.000;-0.123;0%; 0.00; -1.4;2;0;GDP
+Aledmys Díaz;/players/d/diazal02.shtml;SS;3;0;1;0;0;1;3;.208;.264;.284;.547;10;6;-0.010; 0.59;0.024;-0.034;0%; 0.00; -0.3;0;1;2B
+Cody Thomas;/players/t/thomaco01.shtml;PH;1;0;0;0;0;1;1;.257;.316;.429;.744;4;4;0.000; 0.01;0.000;0.000;0%; 0.00; -0.1;;;
+Jordan Diaz;/players/d/diazjo03.shtml;3B;2;0;0;0;1;0;3;.246;.300;.420;.720;16;11;-0.043; 0.71;0.011;-0.053;0%; 0.00; -0.2;2;3;
+JJ Bleday;/players/b/bledajj01.shtml;CF;3;0;0;0;0;2;3;.206;.319;.369;.688;15;9;-0.061; 0.68;0.000;-0.061;0%; 0.00; -0.9;3;0;GDP
+Shea Langeliers;/players/l/langesh01.shtml;C;3;0;0;0;0;2;3;.201;.265;.369;.635;15;8;-0.055; 0.71;0.000;-0.055;0%; 0.00; -0.7;7;0;
+Tyler Soderstrom;/players/s/soderty01.shtml;1B;3;1;1;1;0;1;3;.200;.280;.267;.547;9;7;-0.019; 0.44;0.013;-0.032;0%; 0.00; 0.7;6;0;HR
+JP Sears;/players/s/searsjp01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Lucas Erceg;/players/e/erceglu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Zach Neal;/players/n/nealza01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jonah Bride (2, off Julio Urías); Aledmys Díaz (12, off Julio Urías).
+
+
+HR: Zack Gelof (5, off Emmet Sheehan, 6th inn, 0 on, 1 out to Deep LF Line); Tyler Soderstrom (1, off Emmet Sheehan, 8th inn, 0 on, 1 out to Deep RF).
+
+
+TB: Zack Gelof 5; Tyler Soderstrom 4; Jonah Bride 2; Aledmys Díaz 2.
+
+
+GIDP: JJ Bleday (3); Brent Rooker (11).
+
+
+RBI: Zack Gelof (8); Tyler Soderstrom (3).
+
+
+Team LOB: 3.
+With RISP: 0 for 3.
+
+Pitching home
+Julio Urías;/players/u/uriasju01.shtml; W (8-6); 5 ;3;0;0;1;5;0;4.69;18;68;44;29;5;10;7;5;3;0;65;;;0.282; 0.89; 0.25%; 1.29; 2.7
+Emmet Sheehan;/players/s/sheehem01.shtml; S (1); 4 ;2;2;2;1;3;2;5.63;14;56;36;16;15;5;3;7;0;0;;0;0;-0.007; 0.42;-0.01%; 0.61; 0.2
+
+Pitching away
+JP Sears;/players/s/searsjp01.shtml; L (2-8); 5 ;6;2;2;3;5;0;4.07;26;95;56;36;10;10;5;11;5;0;49;;;0.011; 1.09; 0.00%; 0.00; 0.7
+Lucas Erceg;/players/e/erceglu01.shtml;Lucas Erceg; 1 ;6;4;4;0;1;0;6.40;8;18;15;9;3;3;4;3;2;0;;0;0;-0.229; 0.87; 0.00%; 0.00; -3.5
+Zach Neal;/players/n/nealza01.shtml;Zach Neal; 2 ;2;2;2;1;1;1;8.44;9;23;14;9;3;2;2;5;1;0;;0;0;-0.006; 0.04; 0.00%; 0.00; -0.9
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: JP Sears 2 (14; Mookie Betts, Max Muncy).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: JP Sears 2 (14; Mookie Betts, Max Muncy).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Lance Barksdale, 1B - Dan Merzel, 2B - Ryan Additon, 3B - Will Little, LF - (none), RF - (none).
+Time of Game: 2:28.
+Attendance: 52,624.
+Field Condition: Unknown.
+Start Time Weather: 75° F, Wind 7mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Athletics
+1;Jonah Bride;/players/b/bridejo01.shtml;DH
+2;Zack Gelof;/players/g/gelofza01.shtml;2B
+3;Ramón Laureano;/players/l/laurera01.shtml;RF
+4;Brent Rooker;/players/r/rookebr01.shtml;LF
+5;Aledmys Díaz;/players/d/diazal02.shtml;SS
+6;Jordan Diaz;/players/d/diazjo03.shtml;3B
+7;JJ Bleday;/players/b/bledajj01.shtml;CF
+8;Shea Langeliers;/players/l/langesh01.shtml;C
+9;Tyler Soderstrom;/players/s/soderty01.shtml;1B
+; JP Sears;/players/s/searsjp01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;RF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;DH
+4;Amed Rosario;/players/r/rosaram01.shtml;2B
+5;Max Muncy;/players/m/muncyma01.shtml;3B
+6;Chris Taylor;/players/t/tayloch03.shtml;LF
+7;Enrique Hernández;/players/h/hernaen02.shtml;CF
+8;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+9;Austin Barnes;/players/b/barneau01.shtml;C
+; Julio Urías;/players/u/uriasju01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b6;2-1;1;12-;1,(0-0) X;R;LAD;Will Smith;Lucas Erceg;12%;89%;Single to CF (Fly Ball to Short CF); Barnes Scores; Betts to 3B; Smith to 2B
+t6;0-2;1;---;5,(2-2) FBS.BX;R;OAK;Zack Gelof;Emmet Sheehan;-11%;69%;Home Run (Fly Ball to Deep LF Line)
+b3;1-0;2;12-;1,(0-0) X;R;LAD;Miguel Rojas;JP Sears;11%;77%;Double to LF (Line Drive to Deep LF Line); Muncy Scores; Hernández to 3B
+b2;0-0;0;-2-;1,(0-0) X;R;LAD;Miguel Rojas;JP Sears;9%;71%;Double to LF (Line Drive to Short LF Line); Hernández Scores
+t1;0-0;1;12-;5,(2-2) BBFCX;OO;OAK;Brent Rooker;Julio Urías;9%;55%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Athletics Batting, Tied 0-0, Dodgers' Julio Urías facing 1-2-3 
+t1;0-0;0;---;3,(2-0) BBX;O;OAK;Jonah Bride;Julio Urías;2%;52%;Flyball: LF
+t1;0-0;1;---;2,(1-0) BX;;OAK;Zack Gelof;Julio Urías;-2%;50%;Single to LF (Ground Ball)
+t1;0-0;1;1--;4,(3-0) BBBB;;OAK;Ramón Laureano;Julio Urías;-3%;46%;Walk; Gelof to 2B
+t1;0-0;1;12-;5,(2-2) BBFCX;OO;OAK;Brent Rooker;Julio Urías;9%;55%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 0, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Tied 0-0, Athletics' JP Sears facing 1-2-3 
+b1;0-0;0;---;5,(1-2) CFBFX;O;LAD;Mookie Betts;JP Sears;-2%;53%;Flyball: LF (Deep LF)
+b1;0-0;1;---;2,(0-1) FX;;LAD;Freddie Freeman;JP Sears;4%;57%;Double to LF (Ground Ball)
+b1;0-0;1;-2-;5,(2-2) BSBCS;O;LAD;Will Smith;JP Sears;-3%;53%;Strikeout Swinging
+b1;0-0;2;-2-;3,(1-1) FBX;;LAD;Amed Rosario;JP Sears;2%;55%;Reached on E6 (Ground Ball); Freeman to 3B; Rosario to 1B
+b1;0-0;2;1-3;8,(3-2) BCBS1B>F>F>B;;LAD;Max Muncy;JP Sears;2%;57%;Walk; Rosario to 2B
+b1;0-0;2;123;6,(2-2) CSFBBS;O;LAD;Chris Taylor;JP Sears;-7%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 1 error, 3 LOB. Athletics 0, Dodgers 0.
+Top of the 2nd, Athletics Batting, Tied 0-0, Dodgers' Julio Urías facing 5-6-7 
+t2;0-0;0;---;4,(2-1) BFBX;O;OAK;Aledmys Díaz;Julio Urías;2%;52%;Groundout: 3B-1B
+t2;0-0;1;---;3,(0-2) CF.X;O;OAK;Jordan Diaz;Julio Urías;2%;54%;Groundout: SS-1B
+t2;0-0;2;---;6,(3-2) FBS.BBC;O;OAK;JJ Bleday;Julio Urías;1%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Dodgers 0.
+Bottom of the 2nd, Dodgers Batting, Tied 0-0, Athletics' JP Sears facing 7-8-9 
+b2;0-0;0;---;2,(1-0) BX;;LAD;Enrique Hernández;JP Sears;6%;61%;Double to CF (Line Drive to Deep LF-CF)
+b2;0-0;0;-2-;1,(0-0) X;R;LAD;Miguel Rojas;JP Sears;9%;71%;Double to LF (Line Drive to Short LF Line); Hernández Scores
+b2;1-0;0;-2-;1,(0-0) X;O;LAD;Austin Barnes;JP Sears;-1%;69%;Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Rojas to 3B
+b2;1-0;1;--3;5,(1-2) SC*BFH;;LAD;Mookie Betts;JP Sears;2%;71%;Hit By Pitch
+b2;1-0;1;1-3;6,(1-2) BF1FFFX;O;LAD;Freddie Freeman;JP Sears;-6%;65%;Popfly: 2B (Deep 2B)
+b2;1-0;2;1-3;5,(2-2) BCC1B>S;O;LAD;Will Smith;JP Sears;-4%;61%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Athletics 0, Dodgers 1.
+Top of the 3rd, Athletics Batting, Behind 0-1, Dodgers' Julio Urías facing 8-9-1 
+t3;0-1;0;---;5,(2-2) BBFF.S;O;OAK;Shea Langeliers;Julio Urías;3%;64%;Strikeout Swinging
+t3;0-1;1;---;1,(0-0) X;O;OAK;Tyler Soderstrom;Julio Urías;2%;65%;Lineout: RF (RF Line)
+t3;0-1;2;---;1,(0-0) X;;OAK;Jonah Bride;Julio Urías;-2%;63%;Double to LF (Line Drive)
+t3;0-1;2;-2-;6,(2-2) C*BSBFX;O;OAK;Zack Gelof;Julio Urías;4%;67%;Lineout: P (Front of Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 0, Dodgers 1.
+Bottom of the 3rd, Dodgers Batting, Ahead 1-0, Athletics' JP Sears facing 4-5-6 
+b3;1-0;0;---;5,(2-2) CBFBX;O;LAD;Amed Rosario;JP Sears;-2%;65%;Flyball: RF (RF Line)
+b3;1-0;1;---;6,(3-2) BSFBBB;;LAD;Max Muncy;JP Sears;2%;67%;Walk
+b3;1-0;1;1--;4,(1-2) FBFS;O;LAD;Chris Taylor;JP Sears;-3%;64%;Strikeout Swinging
+b3;1-0;2;1--;4,(3-0) BBBB;;LAD;Enrique Hernández;JP Sears;2%;66%;Walk; Muncy to 2B
+b3;1-0;2;12-;1,(0-0) X;R;LAD;Miguel Rojas;JP Sears;11%;77%;Double to LF (Line Drive to Deep LF Line); Muncy Scores; Hernández to 3B
+b3;2-0;2;-23;2,(1-0) BX;O;LAD;Austin Barnes;JP Sears;-4%;72%;Popfly: 1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Athletics 0, Dodgers 2.
+Top of the 4th, Athletics Batting, Behind 0-2, Dodgers' Julio Urías facing 3-4-5 
+t4;0-2;0;---;3,(0-2) CFX;O;OAK;Ramón Laureano;Julio Urías;3%;75%;Groundout: SS-1B
+t4;0-2;1;---;1,(0-0) X;O;OAK;Brent Rooker;Julio Urías;2%;77%;Flyball: LF (Deep LF-CF)
+t4;0-2;2;---;1,(0-0) X;;OAK;Aledmys Díaz;Julio Urías;-2%;74%;Double to LF (Ground Ball)
+t4;0-2;2;-2-;7,(1-2) FF.FBFFX;O;OAK;Jordan Diaz;Julio Urías;4%;78%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 0, Dodgers 2.
+Bottom of the 4th, Dodgers Batting, Ahead 2-0, Athletics' JP Sears facing 1-2-3 
+b4;2-0;0;---;5,(3-1) FBBBX;O;LAD;Mookie Betts;JP Sears;-2%;76%;Lineout: CF (Deep LF-CF)
+b4;2-0;1;---;2,(1-0) BX;;LAD;Freddie Freeman;JP Sears;3%;79%;Double to CF (Line Drive to Deep LF-CF)
+b4;2-0;1;-2-;2,(1-0) BX;O;LAD;Will Smith;JP Sears;-2%;77%;Flyball: CF (CF-RF)
+b4;2-0;2;-2-;2,(1-0) BX;O;LAD;Amed Rosario;JP Sears;-3%;74%;Popfly: 3B (Weak SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 0, Dodgers 2.
+Top of the 5th, Athletics Batting, Behind 0-2, Dodgers' Julio Urías facing 7-8-9 
+t5;0-2;0;---;8,(3-2) BCBFBFFC;O;OAK;JJ Bleday;Julio Urías;3%;77%;Strikeout Looking
+t5;0-2;1;---;5,(2-2) CBF.BS;O;OAK;Shea Langeliers;Julio Urías;2%;79%;Strikeout Swinging
+t5;0-2;2;---;3,(0-2) CC*S;O;OAK;Tyler Soderstrom;Julio Urías;1%;81%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Dodgers 2.
+Bottom of the 5th, Dodgers Batting, Ahead 2-0, Athletics' JP Sears facing 5-6-7 
+b5;2-0;0;---;2,(0-1) FH;;LAD;Max Muncy;JP Sears;2%;83%;Hit By Pitch
+b5;2-0;0;1--;4,(1-2) FBFS;O;LAD;Chris Taylor;JP Sears;-2%;81%;Strikeout Swinging
+b5;2-0;1;1--;4,(2-1) BCBX;;LAD;Enrique Hernández;JP Sears;2%;83%;Single to 2B (Ground Ball); Muncy to 2B
+b5;2-0;1;12-;3,(1-1) CBX;OO;LAD;Miguel Rojas;JP Sears;-6%;77%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 0, Dodgers 2.
+Top of the 6th, Athletics Batting, Behind 0-2, Dodgers' Emmet Sheehan facing 1-2-3 
+;;;;;;;;;Emmet Sheehan replaces Julio Urías pitchingSeth Brown pinch hits for Jonah Bride (DH) batting 1st
+t6;0-2;0;---;7,(3-2) ..SS.BBBFX;O;OAK;Seth Brown;Emmet Sheehan;3%;80%;Groundout: 3B-1B (Deep SS)
+t6;0-2;1;---;5,(2-2) FBS.BX;R;OAK;Zack Gelof;Emmet Sheehan;-11%;69%;Home Run (Fly Ball to Deep LF Line)
+t6;1-2;1;---;3,(0-2) C.SX;O;OAK;Ramón Laureano;Emmet Sheehan;3%;72%;Flyball: LF (Deep LF-CF)
+t6;1-2;2;---;2,(0-1) SX;O;OAK;Brent Rooker;Emmet Sheehan;2%;74%;Flyball: CF
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Athletics 1, Dodgers 2.
+Bottom of the 6th, Dodgers Batting, Ahead 2-1, Athletics' Lucas Erceg facing 9-1-2 
+;;;;;;;;;Lucas Erceg replaces JP Sears pitching
+b6;2-1;0;---;2,(1-0) ..BX;;LAD;Austin Barnes;Lucas Erceg;3%;77%;Single to 3B (Ground Ball to Weak 3B)
+b6;2-1;0;1--;2,(0-1) CX;;LAD;Mookie Betts;Lucas Erceg;5%;82%;Single to CF (Ground Ball thru SS-2B); Barnes to 2B
+b6;2-1;0;12-;3,(0-2) FFS;O;LAD;Freddie Freeman;Lucas Erceg;-5%;77%;Strikeout Swinging
+b6;2-1;1;12-;1,(0-0) X;R;LAD;Will Smith;Lucas Erceg;12%;89%;Single to CF (Fly Ball to Short CF); Barnes Scores; Betts to 3B; Smith to 2B
+b6;3-1;1;-23;2,(0-1) CX;RR;LAD;Amed Rosario;Lucas Erceg;7%;96%;Double to RF (Line Drive to RF Line); Betts Scores; Smith Scores; Rosario to 3B/Adv on E9 (throw)
+;;;;;;;;;David Peralta pinch hits for Max Muncy (3B) batting 5th
+b6;5-1;1;--3;2,(0-1) .SX;R;LAD;David Peralta;Lucas Erceg;1%;97%;Single to RF (Line Drive); Rosario Scores
+b6;6-1;1;1--;4,(1-2) C*BSX;;LAD;Chris Taylor;Lucas Erceg;0%;98%;Single to CF (Ground Ball thru SS-2B); Peralta to 2B
+b6;6-1;1;12-;2,(1-0) BX;OO;LAD;Enrique Hernández;Lucas Erceg;-1%;97%;Ground Ball Double Play: 3B-1B (SS-3B Hole)
+;;;;;;;;;4 runs, 6 hits, 1 error, 1 LOB. Athletics 1, Dodgers 6.
+Top of the 7th, Athletics Batting, Behind 1-6, Dodgers' Emmet Sheehan facing 5-6-7 
+;;;;;;;;;Chris Taylor moves from LF to 3B David Peralta moves from PH to LF 
+t7;1-6;0;---;5,(2-2) ..CBBS.S;O;OAK;Aledmys Díaz;Emmet Sheehan;1%;98%;Strikeout Swinging
+t7;1-6;1;---;6,(3-2) BBFF.B*B;;OAK;Jordan Diaz;Emmet Sheehan;-1%;96%;Walk
+t7;1-6;1;1--;1,(0-0) X;OO;OAK;JJ Bleday;Emmet Sheehan;2%;98%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 1, Dodgers 6.
+Bottom of the 7th, Dodgers Batting, Ahead 6-1, Athletics' Zach Neal facing 8-9-1 
+;;;;;;;;;Zach Neal replaces Lucas Erceg pitching
+b7;6-1;0;---;5,(2-2) .CSBBS;O;LAD;Miguel Rojas;Zach Neal;0%;98%;Strikeout Swinging
+b7;6-1;1;---;2,(1-0) BX;O;LAD;Austin Barnes;Zach Neal;0%;98%;Groundout: 3B-1B (SS-3B Hole)
+b7;6-1;2;---;2,(1-0) BX;O;LAD;Mookie Betts;Zach Neal;0%;98%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 1, Dodgers 6.
+Top of the 8th, Athletics Batting, Behind 1-6, Dodgers' Emmet Sheehan facing 8-9-1 
+t8;1-6;0;---;5,(3-1) BBSBX;O;OAK;Shea Langeliers;Emmet Sheehan;1%;99%;Popfly: SS (SS-2B)
+t8;1-6;1;---;5,(2-2) BSS.BX;R;OAK;Tyler Soderstrom;Emmet Sheehan;-1%;98%;Home Run (Fly Ball to Deep RF)
+t8;2-6;1;---;5,(2-2) BSBS.X;O;OAK;Seth Brown;Emmet Sheehan;1%;98%;Groundout: 1B-P
+t8;2-6;2;---;2,(1-0) BX;O;OAK;Zack Gelof;Emmet Sheehan;0%;99%;Popfly: SS (Deep SS-2B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Athletics 2, Dodgers 6.
+Bottom of the 8th, Dodgers Batting, Ahead 6-2, Athletics' Zach Neal facing 2-3-4 
+b8;6-2;0;---;1,(0-0) X;R;LAD;Freddie Freeman;Zach Neal;1%;99%;Home Run (Fly Ball to Deep RF Line)
+b8;7-2;0;---;1,(0-0) X;O;LAD;Will Smith;Zach Neal;0%;99%;Lineout: 2B (Deep 2B)
+;;;;;;;;;Jason Heyward pinch hits for Amed Rosario (2B) batting 4th
+b8;7-2;1;---;6,(3-2) .BCBBFB;;LAD;Jason Heyward;Zach Neal;0%;99%;Walk
+b8;7-2;1;1--;3,(1-1) SBX;O;LAD;David Peralta;Zach Neal;0%;99%;Groundout: 2B-1B (2B-1B); Heyward to 2B
+b8;7-2;2;-2-;2,(0-1) FX;R;LAD;Chris Taylor;Zach Neal;0%;100%;Single to CF (Fly Ball); Heyward Scores
+b8;8-2;2;1--;1,(0-0) X;O;LAD;Enrique Hernández;Zach Neal;0%;100%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Athletics 2, Dodgers 8.
+Top of the 9th, Athletics Batting, Behind 2-8, Dodgers' Emmet Sheehan facing 3-4-5 
+;;;;;;;;;Enrique Hernández moves from CF to 2B Jason Heyward moves from PH to CF 
+t9;2-8;0;---;2,(0-1) ..FX;O;OAK;Ramón Laureano;Emmet Sheehan;0%;100%;Foul Popfly: 1B (Short RF into Foul Terr.)
+t9;2-8;1;---;4,(1-2) SCBC;O;OAK;Brent Rooker;Emmet Sheehan;0%;100%;Strikeout Looking
+;;;;;;;;;Cody Thomas pinch hits for Aledmys Díaz (SS) batting 5th
+t9;2-8;2;---;4,(0-2) .SS.FC;O;OAK;Cody Thomas;Emmet Sheehan;0%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 2, Dodgers 8.

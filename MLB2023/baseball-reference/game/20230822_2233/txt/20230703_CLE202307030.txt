@@ -1,0 +1,256 @@
+
+Scorebox Meta
+20230703
+7:10 p.m. Local
+38106
+Progressive Field
+146
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/ATL-2023.png;/teams/ATL/2023.shtml;0;0;2;1;1;0;0;0;0;4;7;0
+https://cdn.ssref.net/req/202308101/tlogo/br/CLE-2023.png;/teams/CLE/2023.shtml;0;0;0;0;0;0;2;0;0;2;8;0
+
+Batting home
+Steven Kwan;/players/k/kwanst01.shtml;LF;5;1;3;0;0;1;5;.266;.342;.356;.699;18;12;0.017; 0.77;0.073;-0.056; 0.01%; 0.71; 0.5;3;0;2B
+Amed Rosario;/players/r/rosaram01.shtml;SS;5;0;2;2;0;0;5;.261;.307;.347;.654;14;9;0.071; 0.94;0.135;-0.065; 0.04%; 0.87; 1.3;1;6;SB
+José Ramírez;/players/r/ramirjo01.shtml;3B;3;0;0;0;1;0;4;.290;.360;.506;.867;13;5;-0.066; 1.16;0.033;-0.100;-0.04%; 1.07; -0.4;0;2;
+Josh Naylor;/players/n/naylojo01.shtml;1B;2;0;0;0;1;1;3;.295;.337;.468;.804;15;7;-0.048; 1.14;0.019;-0.067;-0.03%; 1.05; -0.5;9;2;
+Gabriel Arias;/players/a/ariasga01.shtml;1B;1;0;0;0;0;0;1;.188;.294;.316;.610;1;1;-0.043; 1.71;0.000;-0.043;-0.02%; 1.58; -0.2;3;0;
+Andrés Giménez;/players/g/gimenan01.shtml;2B;4;0;1;0;0;0;4;.246;.314;.384;.698;8;6;-0.017; 1.18;0.073;-0.090;-0.01%; 1.09; -0.6;2;5;2B
+Josh Bell;/players/b/belljo02.shtml;DH;4;0;0;0;0;0;4;.224;.315;.371;.686;12;7;-0.122; 1.13;0.000;-0.122;-0.07%; 1.04; -1.0;;;
+Will Brennan;/players/b/brennwi02.shtml;RF;3;0;0;0;1;0;4;.269;.303;.402;.705;14;7;-0.013; 0.89;0.031;-0.044;-0.01%; 0.82; -0.4;1;1;
+Myles Straw;/players/s/strawmy01.shtml;CF;4;1;2;0;0;0;4;.243;.311;.308;.619;11;8;-0.054; 1.21;0.048;-0.102;-0.03%; 1.12; -0.2;3;0;2B
+Bo Naylor;/players/n/naylobo01.shtml;C;4;0;0;0;0;0;4;.150;.227;.225;.452;12;8;-0.120; 1.16;0.000;-0.120;-0.07%; 1.07; -1.1;4;0;
+Gavin Williams;/players/w/williga01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Xzavion Curry;/players/c/curryxz01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Myles Straw (12, off Bryce Elder); Steven Kwan (20, off Bryce Elder); Andrés Giménez (13, off A.J. Minter).
+
+
+TB: Steven Kwan 4; Myles Straw 3; Amed Rosario 2; Andrés Giménez 2.
+
+
+RBI: Amed Rosario 2 (28).
+
+
+2-out RBI: Amed Rosario 2.
+
+
+Team LOB: 9.
+With RISP: 1 for 6.
+
+Batting away
+Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF;4;1;1;0;0;0;4;.335;.413;.599;1.012;12;9;0.006; 0.61;0.040;-0.033; 0.00%; 0.32; -0.2;2;0;SB
+Ozzie Albies;/players/a/albieoz01.shtml;2B;3;0;1;1;1;1;4;.260;.313;.505;.817;19;10;0.061; 0.61;0.078;-0.017; 0.02%; 0.32; 0.3;2;6;
+Austin Riley;/players/r/rileyau01.shtml;3B;4;0;0;0;0;1;4;.267;.332;.452;.783;12;10;-0.075; 0.53;0.000;-0.075;-0.02%; 0.27; -1.0;1;1;GDP
+Matt Olson;/players/o/olsonma02.shtml;1B;3;0;0;0;1;0;4;.250;.354;.571;.925;17;10;0.009; 0.52;0.038;-0.029; 0.00%; 0.26; -0.1;14;1;
+Sean Murphy;/players/m/murphse01.shtml;C;4;0;1;0;0;1;4;.294;.389;.557;.946;18;14;-0.048; 0.61;0.007;-0.055;-0.01%; 0.32; -0.5;2;0;2B
+Marcell Ozuna;/players/o/ozunama01.shtml;DH;4;1;1;1;0;1;4;.247;.326;.490;.816;16;13;0.057; 0.55;0.093;-0.036; 0.02%; 0.28; 0.3;;;HR
+Eddie Rosario;/players/r/rosared01.shtml;LF;4;0;0;0;0;0;4;.259;.309;.490;.799;13;12;-0.050; 0.45;0.000;-0.050;-0.01%; 0.23; -0.8;4;0;
+Orlando Arcia;/players/a/arciaor01.shtml;SS;3;0;1;0;0;0;3;.296;.348;.438;.786;7;6;-0.032; 0.53;0.006;-0.037;-0.01%; 0.27; -0.2;1;3;
+Michael Harris II;/players/h/harrimi04.shtml;CF;3;2;2;2;0;0;3;.269;.317;.453;.770;10;7;0.175; 0.44;0.181;-0.006; 0.05%; 0.23; 1.7;0;0;2·HR
+Bryce Elder;/players/e/elderbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+A.J. Minter;/players/m/minteaj01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Nick Anderson;/players/a/anderni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Raisel Iglesias;/players/i/iglesra01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Sean Murphy (16, off Gavin Williams).
+
+
+HR: Michael Harris II 2 (9, 2 off Gavin Williams, 3rd inn, 0 on, 1 out to Deep CF-RF; 5th inn, 0 on, 1 out to Deep LF); Marcell Ozuna (17, off Gavin Williams, 4th inn, 0 on, 2 outs to Deep RF).
+
+
+TB: Michael Harris II 8; Marcell Ozuna 4; Sean Murphy 2; Orlando Arcia; Ozzie Albies; Ronald Acuna Jr..
+
+
+GIDP: Austin Riley (13).
+
+
+RBI: Michael Harris II 2 (24); Marcell Ozuna (40); Ozzie Albies (60).
+
+
+2-out RBI: Marcell Ozuna.
+
+
+Team LOB: 3.
+With RISP: 1 for 3.
+
+Pitching home
+Gavin Williams;/players/w/williga01.shtml; L (0-1); 6.1;7;4;4;2;2;3;3.79;26;91;67;44;7;16;11;11;5;0;43;;;-0.162; 0.62;-0.09%; 0.57; -1.0
+Xzavion Curry;/players/c/curryxz01.shtml;Xzavion Curry; 2.2;0;0;0;0;2;0;3.18;8;33;24;17;4;3;2;4;1;0;;1;0;0.058; 0.28; 0.03%; 0.26; 1.5
+
+Pitching away
+Bryce Elder;/players/e/elderbr01.shtml; W (7-1); 6.2;7;2;2;2;1;0;2.45;29;92;55;39;5;11;13;13;5;0;51;;;0.178; 0.89; 0.06%; 0.46; 1.3
+A.J. Minter;/players/m/minteaj01.shtml; H (10); 1 ;1;0;0;1;0;0;5.03;5;10;5;4;0;1;1;3;2;0;;1;0;0.044; 1.68; 0.01%; 0.86; 0.3
+Nick Anderson;/players/a/anderni01.shtml; H (14); 0.1;0;0;0;0;0;0;3.24;1;5;2;1;0;1;1;0;0;0;;2;0;0.083; 3.23; 0.03%; 1.66; 0.4
+Raisel Iglesias;/players/i/iglesra01.shtml; S (15); 1 ;0;0;0;0;1;0;4.01;3;11;8;4;2;2;2;0;0;0;;0;0;0.091; 1.19; 0.03%; 0.61; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Bryce Elder (9).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Bryce Elder (9).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Brian O'Nora, 1B - Pat Hoberg, 2B - Edwin Jimenez, 3B - Nestor Ceja, LF - (none), RF - (none).
+Time of Game: 2:26.
+Attendance: 38,106.
+Field Condition: Unknown.
+Start Time Weather: 78° F, Wind 2mph in from Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Braves
+1;Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF
+2;Ozzie Albies;/players/a/albieoz01.shtml;2B
+3;Austin Riley;/players/r/rileyau01.shtml;3B
+4;Matt Olson;/players/o/olsonma02.shtml;1B
+5;Sean Murphy;/players/m/murphse01.shtml;C
+6;Marcell Ozuna;/players/o/ozunama01.shtml;DH
+7;Eddie Rosario;/players/r/rosared01.shtml;LF
+8;Orlando Arcia;/players/a/arciaor01.shtml;SS
+9;Michael Harris II;/players/h/harrimi04.shtml;CF
+; Bryce Elder;/players/e/elderbr01.shtml;P
+Guardians
+1;Steven Kwan;/players/k/kwanst01.shtml;LF
+2;Amed Rosario;/players/r/rosaram01.shtml;SS
+3;José Ramírez;/players/r/ramirjo01.shtml;3B
+4;Josh Naylor;/players/n/naylojo01.shtml;1B
+5;Andrés Giménez;/players/g/gimenan01.shtml;2B
+6;Josh Bell;/players/b/belljo02.shtml;DH
+7;Will Brennan;/players/b/brennwi02.shtml;RF
+8;Myles Straw;/players/s/strawmy01.shtml;CF
+9;Bo Naylor;/players/n/naylobo01.shtml;C
+; Gavin Williams;/players/w/williga01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t3;0-0;1;---;3,(1-1) CBX;R;ATL;Michael Harris II;Gavin Williams;12%;59%;Home Run (Line Drive to Deep CF-RF)
+b7;0-4;2;-23;3,(1-1) *BSX;RR;CLE;Amed Rosario;Bryce Elder;-10%;83%;Single to LF (Ground Ball thru SS-3B Hole); Straw Scores; Kwan Scores
+t4;2-0;2;---;1,(0-0) X;R;ATL;Marcell Ozuna;Gavin Williams;9%;80%;Home Run (Fly Ball to Deep RF)
+b8;2-4;2;12-;5,(3-1) .BBBCX;O;CLE;Myles Straw;Nick Anderson;8%;93%;Groundout: 2B-1B
+b8;2-4;1;---;1,(0-0) X;;CLE;Andrés Giménez;A.J. Minter;-7%;81%;Double to CF (Line Drive to Deep CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Braves Batting, Tied 0-0, Guardians' Gavin Williams facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;ATL;Ronald Acuna Jr.;Gavin Williams;-2%;48%;Flyball: CF (Deep CF)
+t1;0-0;1;---;6,(3-2) BFF.BBB;;ATL;Ozzie Albies;Gavin Williams;2%;50%;Walk
+t1;0-0;1;1--;2,(0-1) CX;OO;ATL;Austin Riley;Gavin Williams;-5%;45%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Guardians 0.
+Bottom of the 1st, Guardians Batting, Tied 0-0, Braves' Bryce Elder facing 1-2-3 
+b1;0-0;0;---;4,(1-2) CBSX;;CLE;Steven Kwan;Bryce Elder;-4%;42%;Single to CF (Line Drive)
+b1;0-0;0;1--;3,(2-0) BBX;O;CLE;Amed Rosario;Bryce Elder;3%;45%;Popfly: 1B (Weak 2B)
+b1;0-0;1;1--;1,(0-0) X;O;CLE;José Ramírez;Bryce Elder;3%;48%;Flyball: LF (Short LF-CF)
+b1;0-0;2;1--;5,(3-1) B*B*BFB;;CLE;Josh Naylor;Bryce Elder;-2%;46%;Walk; Kwan to 2B
+b1;0-0;2;12-;2,(1-0) BX;O;CLE;Andrés Giménez;Bryce Elder;4%;50%;Lineout: RF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Braves 0, Guardians 0.
+Top of the 2nd, Braves Batting, Tied 0-0, Guardians' Gavin Williams facing 4-5-6 
+t2;0-0;0;---;8,(3-2) CT.BFBFBB;;ATL;Matt Olson;Gavin Williams;4%;54%;Walk
+t2;0-0;0;1--;6,(3-2) BBCS.BT;O;ATL;Sean Murphy;Gavin Williams;-4%;50%;Strikeout Swinging
+t2;0-0;1;1--;4,(1-2) CFBX;O;ATL;Marcell Ozuna;Gavin Williams;-2%;48%;Groundout: 2B-1B; Olson to 2B
+t2;0-0;2;-2-;2,(0-1) CX;O;ATL;Eddie Rosario;Gavin Williams;-3%;45%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Braves 0, Guardians 0.
+Bottom of the 2nd, Guardians Batting, Tied 0-0, Braves' Bryce Elder facing 6-7-8 
+b2;0-0;0;---;1,(0-0) X;O;CLE;Josh Bell;Bryce Elder;2%;47%;Groundout: 2B-1B
+b2;0-0;1;---;3,(2-0) BBX;O;CLE;Will Brennan;Bryce Elder;2%;49%;Groundout: 2B-1B
+b2;0-0;2;---;2,(0-1) CX;;CLE;Myles Straw;Bryce Elder;-2%;47%;Double to LF (Line Drive)
+b2;0-0;2;-2-;3,(1-1) *BFB;;CLE;Bo Naylor;Bryce Elder;0%;46%;Wild Pitch; Straw to 3B
+b2;0-0;2;--3;4,(2-1) *BFB.X;O;CLE;Bo Naylor;Bryce Elder;4%;50%;Popfly: SS
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Guardians 0.
+Top of the 3rd, Braves Batting, Tied 0-0, Guardians' Gavin Williams facing 8-9-1 
+t3;0-0;0;---;1,(0-0) X;O;ATL;Orlando Arcia;Gavin Williams;-3%;47%;Groundout: SS-1B
+t3;0-0;1;---;3,(1-1) CBX;R;ATL;Michael Harris II;Gavin Williams;12%;59%;Home Run (Line Drive to Deep CF-RF)
+t3;1-0;1;---;4,(1-2) CBCX;;ATL;Ronald Acuna Jr.;Gavin Williams;2%;62%;Single to RF (Line Drive to Short CF-RF)
+t3;1-0;1;1--;1,(0-0) 1>B;;ATL;Ozzie Albies;Gavin Williams;2%;63%;Acuña Steals 2B
+t3;1-0;1;-2-;5,(2-2) 1>B.FBFX;RO;ATL;Ozzie Albies;Gavin Williams;5%;69%;Single to RF (Ground Ball thru 2B-1B); Acuña Scores; Albies out at 2B/RF-1B-SS-1B
+t3;2-0;2;---;5,(2-2) BSBCX;O;ATL;Austin Riley;Gavin Williams;-1%;68%;Flyball: LF (Front of Home)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 0 LOB. Braves 2, Guardians 0.
+Bottom of the 3rd, Guardians Batting, Behind 0-2, Braves' Bryce Elder facing 1-2-3 
+b3;0-2;0;---;4,(1-2) CBFX;O;CLE;Steven Kwan;Bryce Elder;3%;70%;Groundout: P-1B (Short 3B Line)
+b3;0-2;1;---;3,(1-1) FBX;;CLE;Amed Rosario;Bryce Elder;-3%;67%;Single to LF (Line Drive to Deep SS)
+b3;0-2;1;1--;5,(3-1) CBBBX;O;CLE;José Ramírez;Bryce Elder;3%;71%;Flyball: LF (Short LF Line)
+b3;0-2;2;1--;5,(3-1) 1BBSB.>S;;CLE;Josh Naylor;Bryce Elder;-1%;70%;Rosario Steals 2B
+b3;0-2;2;-2-;6,(3-2) 1BBSB.>S.X;O;CLE;Josh Naylor;Bryce Elder;4%;73%;Groundout: 1B-P
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 2, Guardians 0.
+Top of the 4th, Braves Batting, Ahead 2-0, Guardians' Gavin Williams facing 4-5-6 
+t4;2-0;0;---;2,(1-0) BX;O;ATL;Matt Olson;Gavin Williams;-2%;72%;Groundout: 2B-1B (2B-1B)
+t4;2-0;1;---;2,(0-1) SX;O;ATL;Sean Murphy;Gavin Williams;-1%;70%;Groundout: SS-1B (SS-3B Hole)
+t4;2-0;2;---;1,(0-0) X;R;ATL;Marcell Ozuna;Gavin Williams;9%;80%;Home Run (Fly Ball to Deep RF)
+t4;3-0;2;---;3,(0-2) CFX;O;ATL;Eddie Rosario;Gavin Williams;-1%;79%;Flyball: CF
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Braves 3, Guardians 0.
+Bottom of the 4th, Guardians Batting, Behind 0-3, Braves' Bryce Elder facing 5-6-7 
+b4;0-3;0;---;3,(1-1) CBX;O;CLE;Andrés Giménez;Bryce Elder;2%;81%;Flyball: RF (Deep CF-RF)
+b4;0-3;1;---;6,(3-2) BCF.BBX;O;CLE;Josh Bell;Bryce Elder;2%;83%;Groundout: 2B-1B (2B-1B)
+b4;0-3;2;---;4,(1-2) BCFX;O;CLE;Will Brennan;Bryce Elder;1%;84%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 3, Guardians 0.
+Top of the 5th, Braves Batting, Ahead 3-0, Guardians' Gavin Williams facing 8-9-1 
+t5;3-0;0;---;4,(1-2) CBFX;O;ATL;Orlando Arcia;Gavin Williams;-1%;83%;Lineout: RF (Deep RF)
+t5;3-0;1;---;4,(0-2) FFFX;R;ATL;Michael Harris II;Gavin Williams;6%;89%;Home Run (Line Drive to Deep LF)
+t5;4-0;1;---;5,(2-2) BFS.BX;O;ATL;Ronald Acuna Jr.;Gavin Williams;-1%;89%;Groundout: 3B-1B
+t5;4-0;2;---;2,(0-1) SX;O;ATL;Ozzie Albies;Gavin Williams;0%;88%;Groundout: 1B-P
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Braves 4, Guardians 0.
+Bottom of the 5th, Guardians Batting, Behind 0-4, Braves' Bryce Elder facing 8-9-1 
+b5;0-4;0;---;1,(0-0) X;O;CLE;Myles Straw;Bryce Elder;2%;90%;Popfly: 2B
+b5;0-4;1;---;5,(2-2) FBFBX;O;CLE;Bo Naylor;Bryce Elder;1%;91%;Groundout: 2B-1B
+b5;0-4;2;---;3,(2-0) BBX;;CLE;Steven Kwan;Bryce Elder;-1%;90%;Single to LF (Ground Ball thru SS-3B Hole)
+b5;0-4;2;1--;2,(0-1) CX;O;CLE;Amed Rosario;Bryce Elder;2%;92%;Groundout: SS-2B/Forceout at 2B; Rosario to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 4, Guardians 0.
+Top of the 6th, Braves Batting, Ahead 4-0, Guardians' Gavin Williams facing 3-4-5 
+t6;4-0;0;---;3,(0-2) CS.C;O;ATL;Austin Riley;Gavin Williams;-1%;91%;Strikeout Looking
+t6;4-0;1;---;5,(1-2) CFBFX;O;ATL;Matt Olson;Gavin Williams;0%;91%;Popfly: SS (Deep SS)
+t6;4-0;2;---;3,(0-2) FCX;;ATL;Sean Murphy;Gavin Williams;1%;92%;Double to LF (Fly Ball to Deep LF-CF)
+t6;4-0;2;-2-;3,(1-1) SBX;O;ATL;Marcell Ozuna;Gavin Williams;-1%;91%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 4, Guardians 0.
+Bottom of the 6th, Guardians Batting, Behind 0-4, Braves' Bryce Elder facing 3-4-5 
+b6;0-4;0;---;5,(3-1) BBFBB;;CLE;José Ramírez;Bryce Elder;-3%;87%;Walk
+b6;0-4;0;1--;4,(1-2) FBFT;O;CLE;Josh Naylor;Bryce Elder;3%;90%;Strikeout Swinging
+b6;0-4;1;1--;2,(0-1) CX;O;CLE;Andrés Giménez;Bryce Elder;2%;93%;Flyball: LF (LF Line)
+b6;0-4;2;1--;4,(2-1) FBBX;O;CLE;Josh Bell;Bryce Elder;2%;94%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Braves 4, Guardians 0.
+Top of the 7th, Braves Batting, Ahead 4-0, Guardians' Gavin Williams facing 7-8-9 
+;;;;;;;;;Gabriel Arias replaces Josh Naylor playing 1B batting 4th
+t7;4-0;0;---;5,(0-2) .FFFFX;O;ATL;Eddie Rosario;Gavin Williams;-1%;94%;Groundout: 2B-1B
+t7;4-0;1;---;2,(0-1) CX;;ATL;Orlando Arcia;Gavin Williams;1%;94%;Single to LF (Line Drive to LF-CF)
+;;;;;;;;;Xzavion Curry replaces Gavin Williams pitching
+t7;4-0;1;1--;3,(2-0) .BBX;O;ATL;Michael Harris II;Xzavion Curry;-1%;94%;Flyball: LF (Short LF Line)
+t7;4-0;2;1--;2,(0-1) CX;O;ATL;Ronald Acuna Jr.;Xzavion Curry;-1%;93%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Acuña to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 4, Guardians 0.
+Bottom of the 7th, Guardians Batting, Behind 0-4, Braves' Bryce Elder facing 7-8-9 
+b7;0-4;0;---;2,(0-1) CX;O;CLE;Will Brennan;Bryce Elder;2%;95%;Groundout: 2B-1B (Deep 2B)
+b7;0-4;1;---;3,(0-2) CSX;;CLE;Myles Straw;Bryce Elder;-2%;93%;Single to 3B (Ground Ball to Weak 3B)
+b7;0-4;1;1--;1,(0-0) X;O;CLE;Bo Naylor;Bryce Elder;2%;95%;Foul Popfly: 3B (3B into Foul Terr.)
+b7;0-4;2;1--;1,(0-0) X;;CLE;Steven Kwan;Bryce Elder;-3%;92%;Double to CF (Line Drive to LF-CF); Straw to 3B
+b7;0-4;2;-23;3,(1-1) *BSX;RR;CLE;Amed Rosario;Bryce Elder;-10%;83%;Single to LF (Ground Ball thru SS-3B Hole); Straw Scores; Kwan Scores
+;;;;;;;;;A.J. Minter replaces Bryce Elder pitching
+b7;2-4;2;1--;2,(1-0) .BX;O;CLE;José Ramírez;A.J. Minter;4%;87%;Popfly: 1B (Weak 2B)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Braves 4, Guardians 2.
+Top of the 8th, Braves Batting, Ahead 4-2, Guardians' Xzavion Curry facing 2-3-4 
+t8;4-2;0;---;6,(3-2) BSBBFS;O;ATL;Ozzie Albies;Xzavion Curry;-1%;85%;Strikeout Swinging
+t8;4-2;1;---;2,(0-1) CX;O;ATL;Austin Riley;Xzavion Curry;-1%;84%;Groundout: SS-1B (SS-2B)
+t8;4-2;2;---;2,(1-0) BX;O;ATL;Matt Olson;Xzavion Curry;-1%;84%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 4, Guardians 2.
+Bottom of the 8th, Guardians Batting, Behind 2-4, Braves' A.J. Minter facing 4-5-6 
+b8;2-4;0;---;1,(1-0) VX;O;CLE;Gabriel Arias;A.J. Minter;4%;88%;Bunt Groundout: P-1B (Front of Home)
+b8;2-4;1;---;1,(0-0) X;;CLE;Andrés Giménez;A.J. Minter;-7%;81%;Double to CF (Line Drive to Deep CF)
+b8;2-4;1;-2-;1,(0-0) X;O;CLE;Josh Bell;A.J. Minter;7%;87%;Lineout: LF
+b8;2-4;2;-2-;5,(3-1) BB*BCB;;CLE;Will Brennan;A.J. Minter;-3%;84%;Walk
+;;;;;;;;;Nick Anderson replaces A.J. Minter pitching
+b8;2-4;2;12-;5,(3-1) .BBBCX;O;CLE;Myles Straw;Nick Anderson;8%;93%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Braves 4, Guardians 2.
+Top of the 9th, Braves Batting, Ahead 4-2, Guardians' Xzavion Curry facing 5-6-7 
+t9;4-2;0;---;7,(1-2) SFBFFFX;O;ATL;Sean Murphy;Xzavion Curry;-1%;92%;Flyball: LF (Deep LF-CF)
+t9;4-2;1;---;8,(1-2) BFFFFFFS;O;ATL;Marcell Ozuna;Xzavion Curry;-1%;91%;Strikeout Swinging
+t9;4-2;2;---;3,(1-1) BCX;O;ATL;Eddie Rosario;Xzavion Curry;0%;91%;Lineout: 1B (Deep 1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 4, Guardians 2.
+Bottom of the 9th, Guardians Batting, Behind 2-4, Braves' Raisel Iglesias facing 9-1-2 
+;;;;;;;;;Raisel Iglesias replaces Nick Anderson pitching
+b9;2-4;0;---;2,(0-1) .FX;O;CLE;Bo Naylor;Raisel Iglesias;5%;96%;Groundout: 1B unassisted
+b9;2-4;1;---;6,(2-2) CBSFBS;O;CLE;Steven Kwan;Raisel Iglesias;3%;99%;Strikeout Swinging
+b9;2-4;2;---;3,(1-1) BCX;O;CLE;Amed Rosario;Raisel Iglesias;1%;100%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 4, Guardians 2.

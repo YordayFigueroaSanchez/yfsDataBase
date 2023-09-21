@@ -1,0 +1,264 @@
+
+Scorebox Meta
+20230815
+7:05 p.m. Local
+40389
+Wrigley Field
+162
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;1;2;0;0;0;0;1;0;1;5;10;0
+https://cdn.ssref.net/req/202308251/tlogo/br/CHC-2023.png;/teams/CHC/2023.shtml;2;0;0;1;0;0;0;0;0;3;5;0
+
+Batting home
+Mike Tauchman;/players/t/tauchmi01.shtml;CF;3;1;0;0;1;0;4;.274;.372;.425;.797;13;7;-0.070; 1.23;0.037;-0.107;-0.05%; 1.34; -0.4;1;0;
+Nico Hoerner;/players/h/hoernni01.shtml;2B;3;0;2;0;1;0;4;.281;.339;.404;.743;22;13;0.052; 1.54;0.163;-0.111; 0.03%; 1.69; 0.5;0;3;SB,CS
+Ian Happ;/players/h/happia01.shtml;LF;4;1;1;2;0;2;4;.240;.363;.405;.768;15;12;0.038; 1.28;0.153;-0.116; 0.03%; 1.40; 0.7;4;0;HR
+Cody Bellinger;/players/b/bellico01.shtml;1B;3;0;0;0;1;1;4;.325;.377;.551;.929;17;9;-0.103; 1.41;0.024;-0.126;-0.07%; 1.54; -0.6;11;0;
+Dansby Swanson;/players/s/swansda01.shtml;SS;3;0;0;0;1;1;4;.255;.338;.446;.783;19;10;-0.136; 1.46;0.011;-0.147;-0.09%; 1.60; -0.8;2;2;
+Jeimer Candelario;/players/c/candeje01.shtml;3B;4;0;1;0;0;1;4;.274;.355;.493;.848;13;8;-0.019; 1.25;0.067;-0.086;-0.01%; 1.37; -0.1;0;5;SB
+Christopher Morel;/players/m/morelch01.shtml;DH;4;0;0;0;0;2;4;.256;.325;.505;.830;14;11;-0.148; 1.46;0.000;-0.148;-0.10%; 1.59; -1.1;;;
+Seiya Suzuki;/players/s/suzukse01.shtml;RF;4;1;1;1;0;2;4;.255;.331;.412;.743;19;12;0.037; 1.08;0.132;-0.094; 0.02%; 1.18; 0.3;1;0;HR
+Yan Gomes;/players/g/gomesya01.shtml;C;3;0;0;0;1;0;4;.267;.308;.430;.738;14;6;-0.067; 0.86;0.015;-0.082;-0.04%; 0.94; -0.4;8;0;
+Kyle Hendricks;/players/h/hendrky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Julian Merryweather;/players/m/merryju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Mark Leiter Jr.;/players/l/leitema02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adbert Alzolay;/players/a/alzolad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Ian Happ (14, off Touki Toussaint, 1st inn, 1 on, 1 out to Deep RF); Seiya Suzuki (11, off Touki Toussaint, 4th inn, 0 on, 2 outs to Deep LF).
+
+
+TB: Ian Happ 4; Seiya Suzuki 4; Nico Hoerner 2; Jeimer Candelario.
+
+
+RBI: Ian Happ 2 (55); Seiya Suzuki (41).
+
+
+2-out RBI: Seiya Suzuki.
+
+
+Team LOB: 6.
+With RISP: 1 for 6.
+
+Batting away
+Elvis Andrus;/players/a/andruel01.shtml;SS;5;1;2;2;0;1;5;.230;.293;.319;.611;22;19;0.049; 0.97;0.130;-0.081;0%; 0.00; 0.6;2;2;SB
+Andrew Benintendi;/players/b/beninan01.shtml;LF;4;1;1;1;1;0;5;.268;.334;.349;.683;25;13;0.054; 0.88;0.123;-0.069;0%; 0.01; 0.7;1;0;2B
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;5;1;2;1;0;1;5;.273;.326;.568;.894;20;15;0.175; 0.88;0.243;-0.068; 0.00%; 0.00; 0.5;2;0;HR
+Eloy Jiménez;/players/j/jimenel02.shtml;DH;4;0;1;0;0;1;4;.277;.320;.452;.771;15;8;-0.002; 1.04;0.057;-0.059;0%; 0.00; 0.1;;;
+Yoán Moncada;/players/m/moncayo01.shtml;3B;4;0;2;1;0;1;4;.234;.282;.361;.643;15;10;0.030; 1.15;0.057;-0.027;0%; 0.00; 0.2;0;2;2B
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;4;0;0;0;0;0;4;.252;.315;.428;.743;13;9;-0.130; 1.15;0.000;-0.130;0%; 0.01; -1.3;8;1;
+Yasmani Grandal;/players/g/grandya01.shtml;C;3;1;1;0;1;1;4;.243;.319;.361;.679;18;8;-0.001; 0.99;0.048;-0.049;0%; 0.01; 0.1;8;2;
+Oscar Colás;/players/c/colasos01.shtml;RF;4;0;0;0;0;2;4;.210;.254;.284;.538;17;12;-0.108; 1.22;0.000;-0.108;0%; 0.01; -1.1;2;0;
+Zach Remillard;/players/r/remilza01.shtml;2B;4;1;1;0;0;1;4;.259;.312;.328;.640;11;8;0.016; 1.06;0.072;-0.056;0%; 0.00; 0.2;3;3;SB
+Touki Toussaint;/players/t/toussto01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Tanner Banks;/players/b/banksta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Lane Ramsey;/players/r/ramsela02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Aaron Bummer;/players/b/bummeaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gregory Santos;/players/s/santogr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Yoán Moncada (12, off Kyle Hendricks); Andrew Benintendi (26, off Adbert Alzolay).
+
+
+HR: Luis Robert Jr. (32, off Julian Merryweather, 7th inn, 0 on, 2 outs to Deep LF).
+
+
+TB: Luis Robert Jr. 5; Yoán Moncada 3; Andrew Benintendi 2; Elvis Andrus 2; Yasmani Grandal; Zach Remillard; Eloy Jiménez.
+
+
+RBI: Elvis Andrus 2 (33); Yoán Moncada (20); Luis Robert Jr. (66); Andrew Benintendi (32).
+
+
+2-out RBI: Luis Robert Jr.; Andrew Benintendi.
+
+
+Team LOB: 7.
+With RISP: 4 for 9.
+
+Pitching home
+Kyle Hendricks;/players/h/hendrky01.shtml;Kyle Hendricks; 6 ;7;3;3;2;4;0;4.00;27;98;62;37;7;18;12;9;7;0;48;;;0.054; 1.14; 0.03%; 1.25; 0.3
+Julian Merryweather;/players/m/merryju01.shtml; L (4-1); 1 ;1;1;1;0;2;1;3.54;4;21;15;7;4;4;0;2;0;0;;0;0;-0.124; 1.01;-0.08%; 1.11; -0.5
+Mark Leiter Jr.;/players/l/leitema02.shtml;Mark Leiter Jr.; 1 ;0;0;0;0;2;0;2.81;3;15;9;2;3;4;1;0;0;0;;0;0;0.058; 0.74; 0.04%; 0.81; 0.5
+Adbert Alzolay;/players/a/alzolad01.shtml;Adbert Alzolay; 1 ;2;1;1;0;0;0;2.52;5;22;16;9;3;4;2;3;2;0;;0;0;-0.071; 0.66;-0.05%; 0.72; -0.5
+
+Pitching away
+Touki Toussaint;/players/t/toussto01.shtml;Touki Toussaint; 4 ;3;3;3;5;4;2;4.47;20;87;47;20;9;18;5;6;1;0;43;;;-0.139; 0.95; 0.00%; 0.00; -1.2
+Tanner Banks;/players/b/banksta01.shtml;Tanner Banks; 1 ;0;0;0;0;0;0;4.85;3;13;9;6;1;2;1;2;1;0;;1;0;0.114; 1.62; 0.00%; 0.01; 0.9
+Lane Ramsey;/players/r/ramsela02.shtml; W (1-0); 1 ;1;0;0;0;1;0;1.69;4;16;9;4;2;3;0;3;1;0;;0;0;0.078; 1.73; 0.00%; 0.01; 0.5
+Aaron Bummer;/players/b/bummeaa01.shtml; H (9); 1.1;1;0;0;0;1;0;6.50;4;14;10;4;1;5;2;1;0;0;;0;0;0.178; 1.87; 0.00%; 0.01; 0.8
+Gregory Santos;/players/s/santogr01.shtml; S (4); 1.2;0;0;0;0;3;0;2.53;5;16;13;3;5;5;2;0;0;0;;0;0;0.185; 1.41; 0.00%; 0.01; 0.8
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Mark Carlson, 1B - Jordan Baker, 2B - Brennan Miller, 3B - Tripp Gibson, LF - (none), RF - (none).
+Time of Game: 2:42.
+Attendance: 40,389.
+Field Condition: Unknown.
+Start Time Weather: 71° F, Wind 3mph in from Leftfield, Sunny, No Precipitation.
+
+div_lineups
+White Sox
+1;Elvis Andrus;/players/a/andruel01.shtml;SS
+2;Andrew Benintendi;/players/b/beninan01.shtml;LF
+3;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+4;Eloy Jiménez;/players/j/jimenel02.shtml;DH
+5;Yoán Moncada;/players/m/moncayo01.shtml;3B
+6;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+7;Yasmani Grandal;/players/g/grandya01.shtml;C
+8;Oscar Colás;/players/c/colasos01.shtml;RF
+9;Zach Remillard;/players/r/remilza01.shtml;2B
+; Touki Toussaint;/players/t/toussto01.shtml;P
+Cubs
+1;Mike Tauchman;/players/t/tauchmi01.shtml;CF
+2;Nico Hoerner;/players/h/hoernni01.shtml;2B
+3;Ian Happ;/players/h/happia01.shtml;LF
+4;Cody Bellinger;/players/b/bellico01.shtml;1B
+5;Dansby Swanson;/players/s/swansda01.shtml;SS
+6;Jeimer Candelario;/players/c/candeje01.shtml;3B
+7;Christopher Morel;/players/m/morelch01.shtml;DH
+8;Seiya Suzuki;/players/s/suzukse01.shtml;RF
+9;Yan Gomes;/players/g/gomesya01.shtml;C
+; Kyle Hendricks;/players/h/hendrky01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t7;3-3;2;---;8,(2-2) SSFBBFFX;R;CHW;Luis Robert Jr.;Julian Merryweather;21%;64%;Home Run (Fly Ball to Deep LF)
+b1;0-1;1;-2-;2,(0-1) SX;RR;CHC;Ian Happ;Touki Toussaint;-15%;38%;Home Run (Fly Ball to Deep RF); Tauchman Scores
+b4;2-3;2;---;8,(3-2) CBFFFBBX;R;CHC;Seiya Suzuki;Touki Toussaint;-13%;49%;Home Run (Fly Ball to Deep LF)
+t2;1-2;1;-23;4,(1-2) C>B.SX;RR;CHW;Elvis Andrus;Kyle Hendricks;11%;60%;Single to LF (Line Drive to LF Line); Grandal Scores; Remillard Scores
+t9;4-3;2;-2-;5,(2-2) B>*B.CSX;R;CHW;Andrew Benintendi;Adbert Alzolay;10%;91%;Double to LF (Fly Ball to LF Line); Andrus Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, White Sox Batting, Tied 0-0, Cubs' Kyle Hendricks facing 1-2-3 
+t1;0-0;0;---;2,(0-1) CX;O;CHW;Elvis Andrus;Kyle Hendricks;-2%;48%;Groundout: 2B-1B (Deep 2B)
+t1;0-0;1;---;4,(3-0) BBBB;;CHW;Andrew Benintendi;Kyle Hendricks;2%;50%;Walk
+t1;0-0;1;1--;1,(0-0) X;;CHW;Luis Robert Jr.;Kyle Hendricks;3%;54%;Single to LF (Fly Ball to LF-CF); Benintendi to 2B
+t1;0-0;1;12-;3,(2-0) BBX;;CHW;Eloy Jiménez;Kyle Hendricks;6%;59%;Single to 3B (Ground Ball); Benintendi to 3B; Robert to 2B
+t1;0-0;1;123;2,(0-1) CX;RO;CHW;Yoán Moncada;Kyle Hendricks;0%;59%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Benintendi Scores; Robert to 3B; Moncada to 1B
+t1;1-0;2;1-3;3,(1-1) CBX;O;CHW;Andrew Vaughn;Kyle Hendricks;-4%;55%;Groundout: 3B-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. White Sox 1, Cubs 0.
+Bottom of the 1st, Cubs Batting, Behind 0-1, White Sox' Touki Toussaint facing 1-2-3 
+b1;0-1;0;---;5,(3-1) BBCBB;;CHC;Mike Tauchman;Touki Toussaint;-4%;51%;Walk
+b1;0-1;0;1--;9,(3-2) CCBBFFFB.1>X;O;CHC;Nico Hoerner;Touki Toussaint;2%;53%;Groundout: 2B-1B; Tauchman to 2B
+b1;0-1;1;-2-;2,(0-1) SX;RR;CHC;Ian Happ;Touki Toussaint;-15%;38%;Home Run (Fly Ball to Deep RF); Tauchman Scores
+b1;2-1;1;---;3,(0-2) SCS;O;CHC;Cody Bellinger;Touki Toussaint;1%;39%;Strikeout Swinging
+b1;2-1;2;---;5,(3-1) CBBBB;;CHC;Dansby Swanson;Touki Toussaint;-1%;38%;Walk
+b1;2-1;2;1--;4,(2-1) B1BCX;O;CHC;Jeimer Candelario;Touki Toussaint;2%;40%;Popfly: SS (SS-2B)
+;;;;;;;;;2 runs, 1 hit, 0 errors, 1 LOB. White Sox 1, Cubs 2.
+Top of the 2nd, White Sox Batting, Behind 1-2, Cubs' Kyle Hendricks facing 7-8-9 
+t2;1-2;0;---;4,(2-1) CBBX;;CHW;Yasmani Grandal;Kyle Hendricks;4%;44%;Single to RF (Line Drive)
+t2;1-2;0;1--;3,(0-2) FSX;O;CHW;Oscar Colás;Kyle Hendricks;-2%;42%;Groundout: P-1B (Front of Home); Grandal to 2B
+t2;1-2;1;-2-;2,(0-1) CX;;CHW;Zach Remillard;Kyle Hendricks;5%;47%;Single to 3B (Bunt); Grandal to 3B
+t2;1-2;1;1-3;2,(0-1) C>B;;CHW;Elvis Andrus;Kyle Hendricks;2%;49%;Remillard Steals 2B
+t2;1-2;1;-23;4,(1-2) C>B.SX;RR;CHW;Elvis Andrus;Kyle Hendricks;11%;60%;Single to LF (Line Drive to LF Line); Grandal Scores; Remillard Scores
+t2;3-2;1;1--;7,(3-2) 1FB1FFBB>X;O;CHW;Andrew Benintendi;Kyle Hendricks;-3%;57%;Flyball: LF
+t2;3-2;2;1--;1,(0-0) X;O;CHW;Luis Robert Jr.;Kyle Hendricks;-2%;55%;Lineout: LF
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. White Sox 3, Cubs 2.
+Bottom of the 2nd, Cubs Batting, Behind 2-3, White Sox' Touki Toussaint facing 7-8-9 
+b2;2-3;0;---;4,(1-2) BSTX;O;CHC;Christopher Morel;Touki Toussaint;3%;58%;Flyball: RF (Deep RF)
+b2;2-3;1;---;1,(0-0) X;O;CHC;Seiya Suzuki;Touki Toussaint;2%;60%;Flyball: CF (Deep CF)
+b2;2-3;2;---;5,(3-1) BBBCX;O;CHC;Yan Gomes;Touki Toussaint;1%;61%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 3, Cubs 2.
+Top of the 3rd, White Sox Batting, Ahead 3-2, Cubs' Kyle Hendricks facing 4-5-6 
+t3;3-2;0;---;2,(0-1) CX;O;CHW;Eloy Jiménez;Kyle Hendricks;-2%;58%;Groundout: P-1B
+t3;3-2;1;---;5,(2-2) BCBCX;;CHW;Yoán Moncada;Kyle Hendricks;4%;62%;Double to LF (Line Drive to Deep LF-CF)
+t3;3-2;1;-2-;2,(0-1) FX;O;CHW;Andrew Vaughn;Kyle Hendricks;-3%;59%;Lineout: RF
+t3;3-2;2;-2-;4,(3-0) BBBB;;CHW;Yasmani Grandal;Kyle Hendricks;1%;60%;Walk
+t3;3-2;2;12-;6,(2-2) C*BF*BFC;O;CHW;Oscar Colás;Kyle Hendricks;-4%;56%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. White Sox 3, Cubs 2.
+Bottom of the 3rd, Cubs Batting, Behind 2-3, White Sox' Touki Toussaint facing 1-2-3 
+b3;2-3;0;---;4,(1-2) CBC.X;O;CHC;Mike Tauchman;Touki Toussaint;3%;58%;Groundout: 1B-P
+b3;2-3;1;---;5,(1-2) CCBFX;;CHC;Nico Hoerner;Touki Toussaint;-3%;55%;Single to CF (Ground Ball thru SS-2B)
+b3;2-3;1;1--;5,(1-2) 1BSCFS;O;CHC;Ian Happ;Touki Toussaint;4%;59%;Strikeout Swinging
+b3;2-3;2;1--;4,(3-0) BBBB;;CHC;Cody Bellinger;Touki Toussaint;-2%;57%;Walk; Hoerner to 2B
+b3;2-3;2;12-;5,(2-2) BCBC.S;O;CHC;Dansby Swanson;Touki Toussaint;5%;62%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. White Sox 3, Cubs 2.
+Top of the 4th, White Sox Batting, Ahead 3-2, Cubs' Kyle Hendricks facing 9-1-2 
+t4;3-2;0;---;2,(1-0) BX;O;CHW;Zach Remillard;Kyle Hendricks;-2%;59%;Groundout: 3B-1B (SS-3B Hole)
+t4;3-2;1;---;5,(1-2) CBSFX;O;CHW;Elvis Andrus;Kyle Hendricks;-2%;58%;Groundout: 3B-1B (Weak 3B)
+t4;3-2;2;---;6,(2-2) CBSBFX;O;CHW;Andrew Benintendi;Kyle Hendricks;-1%;56%;Lineout: SS (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 3, Cubs 2.
+Bottom of the 4th, Cubs Batting, Behind 2-3, White Sox' Touki Toussaint facing 6-7-8 
+b4;2-3;0;---;1,(0-0) X;O;CHC;Jeimer Candelario;Touki Toussaint;3%;60%;Groundout: 2B-1B (2B-1B)
+b4;2-3;1;---;5,(2-2) CS.BBS;O;CHC;Christopher Morel;Touki Toussaint;2%;62%;Strikeout Swinging
+b4;2-3;2;---;8,(3-2) CBFFFBBX;R;CHC;Seiya Suzuki;Touki Toussaint;-13%;49%;Home Run (Fly Ball to Deep LF)
+b4;3-3;2;---;4,(3-0) BBBB;;CHC;Yan Gomes;Touki Toussaint;-2%;47%;Walk
+b4;3-3;2;1--;3,(1-1) BCX;O;CHC;Mike Tauchman;Touki Toussaint;3%;50%;Lineout: CF (Deep LF-CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. White Sox 3, Cubs 3.
+Top of the 5th, White Sox Batting, Tied 3-3, Cubs' Kyle Hendricks facing 3-4-5 
+t5;3-3;0;---;4,(1-2) CBFS;O;CHW;Luis Robert Jr.;Kyle Hendricks;-3%;47%;Strikeout Swinging
+t5;3-3;1;---;5,(3-1) CBBBX;O;CHW;Eloy Jiménez;Kyle Hendricks;-2%;45%;Groundout: SS-1B (SS-3B Hole)
+t5;3-3;2;---;3,(1-1) BCX;;CHW;Yoán Moncada;Kyle Hendricks;2%;46%;Single to CF (Line Drive to CF-RF)
+t5;3-3;2;1--;2,(0-1) C1>X;O;CHW;Andrew Vaughn;Kyle Hendricks;-3%;43%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 3, Cubs 3.
+Bottom of the 5th, Cubs Batting, Tied 3-3, White Sox' Touki Toussaint facing 2-3-4 
+b5;3-3;0;---;5,(3-1) CBBBB;;CHC;Nico Hoerner;Touki Toussaint;-5%;39%;Walk
+;;;;;;;;;Tanner Banks replaces Touki Toussaint pitching
+b5;3-3;0;1--;4,(1-2) .CTB>B;;CHC;Ian Happ;Tanner Banks;-3%;35%;Hoerner Steals 2B
+b5;3-3;0;-2-;5,(2-2) .CTB>B.X;O;CHC;Ian Happ;Tanner Banks;6%;41%;Lineout: 2B
+b5;3-3;1;-2-;3,(1-1) SBX;O;CHC;Cody Bellinger;Tanner Banks;5%;45%;Flyball: LF
+b5;3-3;2;-2-;5,(1-2) CFF*BX;O;CHC;Dansby Swanson;Tanner Banks;5%;50%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 3, Cubs 3.
+Top of the 6th, White Sox Batting, Tied 3-3, Cubs' Kyle Hendricks facing 7-8-9 
+t6;3-3;0;---;6,(3-2) BFTBBX;O;CHW;Yasmani Grandal;Kyle Hendricks;-3%;47%;Groundout: 2B-1B (2B-1B)
+t6;3-3;1;---;7,(3-2) BFFFBBS;O;CHW;Oscar Colás;Kyle Hendricks;-3%;44%;Strikeout Swinging
+t6;3-3;2;---;3,(0-2) CFS;O;CHW;Zach Remillard;Kyle Hendricks;-2%;42%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 3, Cubs 3.
+Bottom of the 6th, Cubs Batting, Tied 3-3, White Sox' Lane Ramsey facing 6-7-8 
+;;;;;;;;;Lane Ramsey replaces Tanner Banks pitching
+b6;3-3;0;---;5,(3-1) ..BCBBX;;CHC;Jeimer Candelario;Lane Ramsey;-5%;37%;Single to CF (Line Drive to Deep CF)
+b6;3-3;0;1--;2,(0-1) CX;O;CHC;Christopher Morel;Lane Ramsey;5%;42%;Popfly: 2B (Deep 1B)
+b6;3-3;1;1--;6,(3-2) CBBBF>S;O;CHC;Seiya Suzuki;Lane Ramsey;3%;45%;Strikeout Swinging, Candelario Steals 2B
+b6;3-3;2;-2-;3,(1-1) B*SX;O;CHC;Yan Gomes;Lane Ramsey;5%;50%;Popfly: SS
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 3, Cubs 3.
+Top of the 7th, White Sox Batting, Tied 3-3, Cubs' Julian Merryweather facing 1-2-3 
+;;;;;;;;;Julian Merryweather replaces Kyle Hendricks pitching
+t7;3-3;0;---;5,(1-2) ..CBFFS;O;CHW;Elvis Andrus;Julian Merryweather;-4%;46%;Strikeout Swinging
+t7;3-3;1;---;3,(1-1) CBX;O;CHW;Andrew Benintendi;Julian Merryweather;-3%;43%;Flyball: CF (Deep LF-CF)
+t7;3-3;2;---;8,(2-2) SSFBBFFX;R;CHW;Luis Robert Jr.;Julian Merryweather;21%;64%;Home Run (Fly Ball to Deep LF)
+t7;4-3;2;---;5,(2-2) CC.BBS;O;CHW;Eloy Jiménez;Julian Merryweather;-1%;62%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. White Sox 4, Cubs 3.
+Bottom of the 7th, Cubs Batting, Behind 3-4, White Sox' Aaron Bummer facing 1-2-3 
+;;;;;;;;;Aaron Bummer replaces Lane Ramsey pitching
+b7;3-4;0;---;1,(0-0) .X;O;CHC;Mike Tauchman;Aaron Bummer;5%;67%;Groundout: 2B-1B (2B-1B)
+b7;3-4;1;---;3,(1-1) CBX;;CHC;Nico Hoerner;Aaron Bummer;-5%;62%;Single to RF (Ground Ball thru 2B-1B)
+b7;3-4;1;1--;1,(0-0) 1>C;O;CHC;Ian Happ;Aaron Bummer;9%;71%;Hoerner Caught Stealing 2B (C-2B)
+b7;3-4;2;---;3,(0-2) 1>C.C*S;O;CHC;Ian Happ;Aaron Bummer;3%;74%;Strikeout Swinging; Happ out at 1B/C-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. White Sox 4, Cubs 3.
+Top of the 8th, White Sox Batting, Ahead 4-3, Cubs' Mark Leiter Jr. facing 5-6-7 
+;;;;;;;;;Mark Leiter Jr. replaces Julian Merryweather pitching
+t8;4-3;0;---;5,(2-2) .CBBCS;O;CHW;Yoán Moncada;Mark Leiter Jr.;-3%;71%;Strikeout Swinging
+t8;4-3;1;---;6,(3-2) BFBBCX;O;CHW;Andrew Vaughn;Mark Leiter Jr.;-2%;69%;Groundout: SS-1B
+t8;4-3;2;---;4,(1-2) BCSS;O;CHW;Yasmani Grandal;Mark Leiter Jr.;-1%;68%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 4, Cubs 3.
+Bottom of the 8th, Cubs Batting, Behind 3-4, White Sox' Aaron Bummer facing 4-5-6 
+b8;3-4;0;---;7,(3-2) CBCBBFX;O;CHC;Cody Bellinger;Aaron Bummer;7%;74%;Flyball: RF (Deep RF)
+;;;;;;;;;Gregory Santos replaces Aaron Bummer pitching
+b8;3-4;1;---;4,(2-1) .BSBX;O;CHC;Dansby Swanson;Gregory Santos;5%;79%;Groundout: 3B-1B
+b8;3-4;2;---;3,(0-2) CSS;O;CHC;Jeimer Candelario;Gregory Santos;3%;83%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 4, Cubs 3.
+Top of the 9th, White Sox Batting, Ahead 4-3, Cubs' Adbert Alzolay facing 8-9-1 
+;;;;;;;;;Adbert Alzolay replaces Mark Leiter Jr. pitching
+t9;4-3;0;---;1,(0-0) .X;O;CHW;Oscar Colás;Adbert Alzolay;-2%;81%;Lineout: LF (Deep LF-CF)
+t9;4-3;1;---;4,(2-1) CBBX;O;CHW;Zach Remillard;Adbert Alzolay;-1%;79%;Groundout: 3B-1B (SS-3B Hole)
+t9;4-3;2;---;6,(0-2) CSFFFX;;CHW;Elvis Andrus;Adbert Alzolay;1%;80%;Single to CF (Ground Ball thru SS-2B)
+t9;4-3;2;1--;2,(1-0) B>*B;;CHW;Andrew Benintendi;Adbert Alzolay;1%;81%;Andrus Steals 2B
+t9;4-3;2;-2-;5,(2-2) B>*B.CSX;R;CHW;Andrew Benintendi;Adbert Alzolay;10%;91%;Double to LF (Fly Ball to LF Line); Andrus Scores
+t9;5-3;2;-2-;6,(2-2) BCSBFX;O;CHW;Luis Robert Jr.;Adbert Alzolay;-1%;90%;Lineout: LF (Deep LF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. White Sox 5, Cubs 3.
+Bottom of the 9th, Cubs Batting, Behind 3-5, White Sox' Gregory Santos facing 7-8-9 
+b9;3-5;0;---;3,(0-2) FC.S;O;CHC;Christopher Morel;Gregory Santos;5%;95%;Strikeout Swinging
+b9;3-5;1;---;4,(1-2) CBS.C;O;CHC;Seiya Suzuki;Gregory Santos;3%;98%;Strikeout Looking
+b9;3-5;2;---;2,(0-1) CX;O;CHC;Yan Gomes;Gregory Santos;2%;100%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 5, Cubs 3.

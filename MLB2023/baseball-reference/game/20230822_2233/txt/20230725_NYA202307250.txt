@@ -1,0 +1,289 @@
+
+Scorebox Meta
+20230725
+7:05 p.m. Local
+46540
+Yankee Stadium III
+191
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;1;0;3;0;0;2;1;0;2;9;12;1
+https://cdn.ssref.net/req/202308101/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;0;0;0;0;0;2;1;0;3;5;2
+
+Batting home
+Jake Bauers;/players/b/bauerja01.shtml;RF;5;0;0;0;0;2;5;.218;.307;.451;.757;20;15;-0.109; 0.85;0.000;-0.109;-0.05%; 0.71; -1.8;1;0;
+Gleyber Torres;/players/t/torregl01.shtml;2B;4;0;1;0;1;0;5;.264;.331;.437;.768;12;8;-0.007; 0.49;0.035;-0.041;-0.00%; 0.41; 0.1;1;3;
+Giancarlo Stanton;/players/s/stantmi03.shtml;DH;2;0;0;1;2;0;5;.204;.284;.452;.735;22;11;-0.031; 0.43;0.015;-0.046;-0.02%; 0.36; -0.1;;;SF
+Anthony Rizzo;/players/r/rizzoan01.shtml;1B;5;0;0;0;0;2;5;.249;.334;.393;.727;22;16;-0.069; 0.51;0.000;-0.069;-0.03%; 0.42; -1.4;7;0;
+DJ LeMahieu;/players/l/lemahdj01.shtml;3B;2;0;0;0;3;1;5;.232;.301;.373;.674;28;13;0.057; 0.40;0.066;-0.009; 0.03%; 0.33; 0.2;0;2;
+Harrison Bader;/players/b/baderha01.shtml;CF;4;1;1;0;0;1;4;.249;.280;.420;.700;14;10;-0.105; 0.77;0.009;-0.114;-0.05%; 0.65; -1.1;1;0;GDP
+Billy McKinney;/players/m/mckinbi01.shtml;LF;2;0;1;0;0;1;2;.253;.330;.483;.813;8;6;-0.004; 0.54;0.014;-0.018;-0.00%; 0.45; -0.1;3;0;
+Isiah Kiner-Falefa;/players/k/kineris01.shtml;PH-LF;1;1;1;0;0;0;2;.254;.314;.371;.685;4;2;0.028; 0.28;0.028;0.000; 0.01%; 0.23; 1.0;0;0;HBP
+Anthony Volpe;/players/v/volpean01.shtml;SS;3;1;1;1;1;0;4;.210;.283;.379;.662;13;6;0.062; 0.76;0.088;-0.026; 0.03%; 0.64; 1.9;1;0;2B,SB
+Kyle Higashioka;/players/h/higasky01.shtml;C;2;0;0;0;1;1;3;.220;.257;.365;.622;14;9;-0.033; 0.86;0.018;-0.051;-0.02%; 0.72; -0.2;11;0;
+Ben Rortvedt;/players/r/rortvbe01.shtml;PH-C;1;0;0;1;0;0;1;.182;.308;.273;.580;3;2;-0.033; 1.73;0.000;-0.033;-0.02%; 1.45; -0.1;2;0;
+Domingo Germán;/players/g/germado01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nick Ramirez;/players/r/ramirni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ron Marinaccio;/players/m/marinro01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Albert Abreu;/players/a/abreual01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Anthony Volpe (12, off Brooks Raley).
+
+
+SF: Giancarlo Stanton (1, off Dominic Leone).
+
+
+HBP: Isiah Kiner-Falefa (2, by Brooks Raley).
+
+
+TB: Anthony Volpe 2; Harrison Bader; Isiah Kiner-Falefa; Billy McKinney; Gleyber Torres.
+
+
+GIDP: Harrison Bader (3).
+
+
+RBI: Anthony Volpe (35); Giancarlo Stanton (34); Ben Rortvedt (1).
+
+
+Team LOB: 11.
+With RISP: 0 for 6.
+
+Batting away
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;4;2;1;0;1;2;5;.262;.359;.446;.805;22;15;0.029; 0.40;0.061;-0.032; 0.01%; 0.12; 0.1;5;0;2B
+Francisco Lindor;/players/l/lindofr01.shtml;SS;5;3;3;0;0;0;5;.231;.316;.452;.768;20;15;-0.015; 0.49;0.037;-0.052;-0.00%; 0.15; 0.6;1;3;2B,2·SB
+Jeff McNeil;/players/m/mcneije01.shtml;2B-RF;4;1;2;3;1;0;5;.251;.326;.326;.652;23;13;-0.021; 0.63;0.024;-0.045;-0.00%; 0.19; 1.6;4;2;2B
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;2;3;5;1;0;5;.218;.316;.504;.821;19;12;0.350; 0.67;0.351;-0.001; 0.06%; 0.20; 4.5;5;1;2·HR
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;3;1;1;1;0;1;3;.226;.330;.376;.707;8;7;-0.005; 0.35;0.021;-0.025;-0.00%; 0.10; 0.7;;;HR
+Mark Vientos;/players/v/vientma01.shtml;PH-DH-DH;1;0;1;0;0;0;2;.218;.267;.291;.558;5;3;0.006; 0.04;0.006;0.000; 0.00%; 0.01; 1.3;;;2B,HBP
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;5;0;0;0;0;4;5;.233;.292;.500;.792;21;15;-0.037; 0.28;0.000;-0.037;-0.01%; 0.09; -2.0;7;0;
+Omar Narváez;/players/n/narvaom01.shtml;C;0;0;0;0;0;0;0;.222;.315;.289;.604;;;;;;;;;;1;0;
+Brett Baty;/players/b/batybr01.shtml;3B;5;0;0;0;0;3;5;.231;.293;.352;.645;15;13;-0.027; 0.21;0.000;-0.027;-0.01%; 0.06; -1.6;1;1;
+Mark Canha;/players/c/canhama01.shtml;LF;4;0;0;0;0;2;4;.235;.333;.374;.708;16;11;-0.019; 0.18;0.000;-0.019;-0.00%; 0.05; -0.6;1;0;
+DJ Stewart;/players/s/stewadj01.shtml;RF;4;0;1;0;0;1;4;.235;.333;.471;.804;12;8;-0.003; 0.33;0.022;-0.025;-0.00%; 0.10; -0.1;1;0;2B
+Danny Mendick;/players/m/mendida01.shtml;2B;0;0;0;0;0;0;0;.000;.100;.000;.100;;;;;;;;;;0;0;
+Justin Verlander;/players/v/verlaju01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Brooks Raley;/players/r/raleybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dominic Leone;/players/l/leonedo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Grant Hartwig;/players/h/hartwgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+David Robertson;/players/r/roberda08.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Ottavino;/players/o/ottavad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Brandon Nimmo (17, off Domingo Germán); Francisco Lindor (22, off Domingo Germán); DJ Stewart (1, off Domingo Germán); Mark Vientos (1, off Nick Ramirez); Jeff McNeil (16, off Ron Marinaccio).
+
+
+HR: Pete Alonso 2 (28, 2 off Domingo Germán, 3rd inn, 2 on, 2 outs to Deep LF Line; 6th inn, 0 on, 0 outs to Deep CF); Daniel Vogelbach (7, off Domingo Germán, 6th inn, 0 on, 0 outs to Deep RF).
+
+
+HBP: Mark Vientos (1, by Albert Abreu).
+
+
+TB: Pete Alonso 9; Francisco Lindor 4; Daniel Vogelbach 4; Jeff McNeil 3; DJ Stewart 2; Mark Vientos 2; Brandon Nimmo 2.
+
+
+RBI: Pete Alonso 5 (68); Jeff McNeil 3 (33); Daniel Vogelbach (29).
+
+
+2-out RBI: Pete Alonso 4; Jeff McNeil.
+
+
+Team LOB: 7.
+With RISP: 4 for 14.
+
+Pitching home
+Domingo Germán;/players/g/germado01.shtml; L (5-7); 6 ;7;6;6;1;9;3;4.77;26;91;63;35;15;13;5;11;3;0;42;;;-0.244; 0.58;-0.12%; 0.49; -2.9
+Nick Ramirez;/players/r/ramirni01.shtml;Nick Ramirez; 2 ;3;1;0;0;2;0;3.08;9;29;23;10;6;7;3;4;3;0;;0;0;-0.002; 0.08;-0.00%; 0.07; 0.0
+Ron Marinaccio;/players/m/marinro01.shtml;Ron Marinaccio; 0.1;2;2;2;1;1;0;4.33;4;30;20;16;1;3;0;2;2;0;;0;0;-0.013; 0.08;-0.01%; 0.06; -2.2
+Albert Abreu;/players/a/abreual01.shtml;Albert Abreu; 0.2;0;0;0;1;1;0;4.07;4;11;6;3;2;1;1;0;0;0;;1;0;0.001; 0.02; 0.00%; 0.02; 0.7
+
+Pitching away
+Justin Verlander;/players/v/verlaju01.shtml; W (5-5); 6 ;2;0;0;4;6;0;3.24;24;98;63;26;13;24;5;9;3;0;70;;;0.240; 0.69; 0.04%; 0.20; 3.1
+Brooks Raley;/players/r/raleybr01.shtml;Brooks Raley; 0.1;1;2;2;1;0;0;2.57;4;14;7;4;0;3;0;2;1;0;;0;0;-0.022; 0.44;-0.00%; 0.13; -1.4
+Dominic Leone;/players/l/leonedo01.shtml;Dominic Leone; 0.2;0;0;0;1;1;0;4.55;3;10;5;1;2;2;0;1;1;0;;2;1;0.015; 0.83; 0.00%; 0.25; -0.1
+Grant Hartwig;/players/h/hartwgr01.shtml;Grant Hartwig; 0.1;2;1;1;1;0;0;3.38;4;14;7;4;0;3;1;2;1;0;;0;0;-0.053; 0.46;-0.01%; 0.13; -1.1
+David Robertson;/players/r/roberda08.shtml; H (7); 0.2;0;0;0;0;0;0;2.05;2;7;5;3;0;2;2;0;0;0;;3;1;0.059; 1.34; 0.01%; 0.40; 0.6
+Adam Ottavino;/players/o/ottavad01.shtml;Adam Ottavino; 1 ;0;0;0;1;1;0;3.48;4;17;11;6;2;3;0;2;0;0;;0;0;0.003; 0.05; 0.00%; 0.02; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Brooks Raley (6; Isiah Kiner-Falefa); Albert Abreu (4; Mark Vientos).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Brooks Raley (6; Isiah Kiner-Falefa); Albert Abreu (4; Mark Vientos).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Alfonso Márquez, 1B - Doug Eddings, 2B - Ramon De Jesus, 3B - Lance Barrett, LF - (none), RF - (none).
+Time of Game: 3:11.
+Attendance: 46,540.
+Field Condition: Unknown.
+Start Time Weather: 70° F, Wind 2mph out to Centerfield, Cloudy, No Precipitation.
+
+div_lineups
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Jeff McNeil;/players/m/mcneije01.shtml;2B
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+6;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+7;Brett Baty;/players/b/batybr01.shtml;3B
+8;Mark Canha;/players/c/canhama01.shtml;LF
+9;DJ Stewart;/players/s/stewadj01.shtml;RF
+; Justin Verlander;/players/v/verlaju01.shtml;P
+Yankees
+1;Jake Bauers;/players/b/bauerja01.shtml;RF
+2;Gleyber Torres;/players/t/torregl01.shtml;2B
+3;Giancarlo Stanton;/players/s/stantmi03.shtml;DH
+4;Anthony Rizzo;/players/r/rizzoan01.shtml;1B
+5;DJ LeMahieu;/players/l/lemahdj01.shtml;3B
+6;Harrison Bader;/players/b/baderha01.shtml;CF
+7;Billy McKinney;/players/m/mckinbi01.shtml;LF
+8;Anthony Volpe;/players/v/volpean01.shtml;SS
+9;Kyle Higashioka;/players/h/higasky01.shtml;C
+; Domingo Germán;/players/g/germado01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t3;1-0;2;1-3;4,(0-2) CF>FX;RRR;NYM;Pete Alonso;Domingo Germán;23%;84%;Home Run (Line Drive to Deep LF Line); Lindor Scores; McNeil Scores
+t1;0-0;2;--3;2,(0-1) CX;R;NYM;Pete Alonso;Domingo Germán;9%;57%;Single to LF (Fly Ball to LF-CF); Nimmo Scores
+b2;0-1;0;1--;5,(2-2) BC1BCX;OO;NYY;Harrison Bader;Justin Verlander;8%;60%;Ground Ball Double Play: SS-2B-1B
+t1;0-0;0;---;6,(3-2) BTBBCX;;NYM;Brandon Nimmo;Domingo Germán;6%;56%;Double to RF (Fly Ball to Deep RF Line)
+t1;0-0;0;-2-;5,(2-2) CBS*BX;O;NYM;Francisco Lindor;Domingo Germán;-4%;52%;Groundout: 1B unassisted
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Mets Batting, Tied 0-0, Yankees' Domingo Germán facing 1-2-3 
+t1;0-0;0;---;6,(3-2) BTBBCX;;NYM;Brandon Nimmo;Domingo Germán;6%;56%;Double to RF (Fly Ball to Deep RF Line)
+t1;0-0;0;-2-;5,(2-2) CBS*BX;O;NYM;Francisco Lindor;Domingo Germán;-4%;52%;Groundout: 1B unassisted
+t1;0-0;1;-2-;1,(0-0) X;O;NYM;Jeff McNeil;Domingo Germán;-3%;49%;Groundout: 1B unassisted; Nimmo to 3B
+t1;0-0;2;--3;2,(0-1) CX;R;NYM;Pete Alonso;Domingo Germán;9%;57%;Single to LF (Fly Ball to LF-CF); Nimmo Scores
+t1;1-0;2;1--;3,(0-2) CCS;O;NYM;Daniel Vogelbach;Domingo Germán;-2%;55%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Mets 1, Yankees 0.
+Bottom of the 1st, Yankees Batting, Behind 0-1, Mets' Justin Verlander facing 1-2-3 
+b1;0-1;0;---;5,(2-2) BBSS.S;O;NYY;Jake Bauers;Justin Verlander;2%;58%;Strikeout Swinging
+b1;0-1;1;---;2,(0-1) CX;O;NYY;Gleyber Torres;Justin Verlander;2%;59%;Flyball: CF (Deep CF)
+b1;0-1;2;---;6,(3-2) SCBBBB;;NYY;Giancarlo Stanton;Justin Verlander;-1%;58%;Walk
+b1;0-1;2;1--;6,(3-2) BBBC.C>T;O;NYY;Anthony Rizzo;Justin Verlander;2%;60%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mets 1, Yankees 0.
+Top of the 2nd, Mets Batting, Ahead 1-0, Yankees' Domingo Germán facing 6-7-8 
+t2;1-0;0;---;4,(1-2) CBSS;O;NYM;Francisco Alvarez;Domingo Germán;-2%;58%;Strikeout Swinging
+t2;1-0;1;---;4,(1-2) CFBS;O;NYM;Brett Baty;Domingo Germán;-1%;57%;Strikeout Swinging
+t2;1-0;2;---;6,(3-2) SBBSB.S;O;NYM;Mark Canha;Domingo Germán;-1%;56%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 1, Yankees 0.
+Bottom of the 2nd, Yankees Batting, Behind 0-1, Mets' Justin Verlander facing 5-6-7 
+b2;0-1;0;---;8,(3-2) CCFBFBB.B;;NYY;DJ LeMahieu;Justin Verlander;-4%;52%;Walk
+b2;0-1;0;1--;5,(2-2) BC1BCX;OO;NYY;Harrison Bader;Justin Verlander;8%;60%;Ground Ball Double Play: SS-2B-1B
+b2;0-1;2;---;4,(1-2) CBS.X;;NYY;Billy McKinney;Justin Verlander;-1%;59%;Single to RF (Line Drive to RF Line)
+b2;0-1;2;1--;4,(1-2) FFBX;O;NYY;Anthony Volpe;Justin Verlander;3%;61%;Groundout: SS-2B/Forceout at 2B; Volpe to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 1, Yankees 0.
+Top of the 3rd, Mets Batting, Ahead 1-0, Yankees' Domingo Germán facing 9-1-2 
+t3;1-0;0;---;3,(2-0) BBX;O;NYM;DJ Stewart;Domingo Germán;-2%;59%;Groundout: 2B-1B (2B-1B)
+t3;1-0;1;---;3,(0-2) FTT;O;NYM;Brandon Nimmo;Domingo Germán;-2%;58%;Strikeout Swinging
+t3;1-0;2;---;1,(0-0) X;;NYM;Francisco Lindor;Domingo Germán;2%;60%;Double to LF (Fly Ball to Deep 3B)
+t3;1-0;2;-2-;7,(3-2) BBFBFF>B;;NYM;Jeff McNeil;Domingo Germán;2%;61%;Walk, Lindor Steals 3B
+t3;1-0;2;1-3;4,(0-2) CF>FX;RRR;NYM;Pete Alonso;Domingo Germán;23%;84%;Home Run (Line Drive to Deep LF Line); Lindor Scores; McNeil Scores
+t3;4-0;2;---;3,(1-1) .BFX;O;NYM;Daniel Vogelbach;Domingo Germán;0%;84%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Mets 4, Yankees 0.
+Bottom of the 3rd, Yankees Batting, Behind 0-4, Mets' Justin Verlander facing 9-1-2 
+b3;0-4;0;---;6,(1-2) CS.FBFX;O;NYY;Kyle Higashioka;Justin Verlander;2%;86%;Flyball: CF (Short CF)
+b3;0-4;1;---;3,(1-1) BCX;O;NYY;Jake Bauers;Justin Verlander;1%;87%;Lineout: 2B (Deep 2B)
+b3;0-4;2;---;3,(0-2) SCX;;NYY;Gleyber Torres;Justin Verlander;-1%;86%;Single to CF (Line Drive to CF-RF)
+b3;0-4;2;1--;2,(0-1) CX;O;NYY;Giancarlo Stanton;Justin Verlander;2%;88%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 4, Yankees 0.
+Top of the 4th, Mets Batting, Ahead 4-0, Yankees' Domingo Germán facing 6-7-8 
+t4;4-0;0;---;5,(2-2) BFFBS;O;NYM;Francisco Alvarez;Domingo Germán;-1%;87%;Strikeout Swinging
+t4;4-0;1;---;1,(0-0) X;O;NYM;Brett Baty;Domingo Germán;-1%;86%;Popfly: SS (Deep SS-3B Hole)
+t4;4-0;2;---;4,(1-2) CBSS;O;NYM;Mark Canha;Domingo Germán;0%;86%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 4, Yankees 0.
+Bottom of the 4th, Yankees Batting, Behind 0-4, Mets' Justin Verlander facing 4-5-6 
+b4;0-4;0;---;1,(0-0) X;O;NYY;Anthony Rizzo;Justin Verlander;2%;88%;Popfly: 2B (Deep 1B)
+b4;0-4;1;---;6,(3-2) CBBFB.B;;NYY;DJ LeMahieu;Justin Verlander;-2%;86%;Walk
+b4;0-4;1;1--;5,(2-2) CBBFS;O;NYY;Harrison Bader;Justin Verlander;2%;88%;Strikeout Swinging
+b4;0-4;2;1--;4,(1-2) C*S.BC;O;NYY;Billy McKinney;Justin Verlander;2%;90%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mets 4, Yankees 0.
+Top of the 5th, Mets Batting, Ahead 4-0, Yankees' Domingo Germán facing 9-1-2 
+t5;4-0;0;---;1,(0-0) X;;NYM;DJ Stewart;Domingo Germán;2%;92%;Ground-rule Double (Line Drive to Deep RF Line)
+t5;4-0;0;-2-;1,(0-0) X;O;NYM;Brandon Nimmo;Domingo Germán;-2%;90%;Popfly: 2B (Short CF-RF)
+t5;4-0;1;-2-;3,(2-0) .2B*BX;O;NYM;Francisco Lindor;Domingo Germán;-1%;89%;Groundout: 2B-1B (2B-1B); Stewart to 3B
+t5;4-0;2;--3;3,(0-2) FCX;O;NYM;Jeff McNeil;Domingo Germán;-1%;88%;Lineout: LF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 4, Yankees 0.
+Bottom of the 5th, Yankees Batting, Behind 0-4, Mets' Justin Verlander facing 8-9-1 
+b5;0-4;0;---;3,(1-1) BSX;;NYY;Anthony Volpe;Justin Verlander;-3%;85%;Reached on E5 (Ground Ball to SS-3B Hole); Volpe to 1B
+b5;0-4;0;1--;3,(0-2) C1CC;O;NYY;Kyle Higashioka;Justin Verlander;3%;88%;Strikeout Looking
+b5;0-4;1;1--;4,(1-2) SFB>S;O;NYY;Jake Bauers;Justin Verlander;2%;90%;Strikeout Swinging, Volpe Steals 2B
+b5;0-4;2;-2-;2,(0-1) CX;O;NYY;Gleyber Torres;Justin Verlander;2%;92%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Mets 4, Yankees 0.
+Top of the 6th, Mets Batting, Ahead 4-0, Yankees' Domingo Germán facing 4-5-6 
+t6;4-0;0;---;3,(1-1) BCX;R;NYM;Pete Alonso;Domingo Germán;3%;95%;Home Run (Fly Ball to Deep CF)
+t6;5-0;0;---;2,(0-1) FX;R;NYM;Daniel Vogelbach;Domingo Germán;2%;97%;Home Run (Fly Ball to Deep RF)
+t6;6-0;0;---;7,(3-2) FCFBB.BS;O;NYM;Francisco Alvarez;Domingo Germán;0%;97%;Strikeout Swinging
+t6;6-0;1;---;5,(1-2) BSSFS;O;NYM;Brett Baty;Domingo Germán;0%;97%;Strikeout Swinging
+t6;6-0;2;---;4,(1-2) BCFX;O;NYM;Mark Canha;Domingo Germán;0%;97%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Mets 6, Yankees 0.
+Bottom of the 6th, Yankees Batting, Behind 0-6, Mets' Justin Verlander facing 3-4-5 
+b6;0-6;0;---;5,(2-2) BBCSX;O;NYY;Giancarlo Stanton;Justin Verlander;1%;98%;Groundout: 1B-P (2B-1B)
+b6;0-6;1;---;5,(1-2) BCFFX;O;NYY;Anthony Rizzo;Justin Verlander;0%;98%;Flyball: CF (Short CF)
+b6;0-6;2;---;5,(3-1) BCBBB;;NYY;DJ LeMahieu;Justin Verlander;0%;98%;Walk
+b6;0-6;2;1--;1,(0-0) X;O;NYY;Harrison Bader;Justin Verlander;1%;98%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mets 6, Yankees 0.
+Top of the 7th, Mets Batting, Ahead 6-0, Yankees' Nick Ramirez facing 9-1-2 
+;;;;;;;;;Nick Ramirez replaces Domingo Germán pitching
+t7;6-0;0;---;3,(0-2) .FFX;O;NYM;DJ Stewart;Nick Ramirez;0%;98%;Flyball: LF (Deep LF Line)
+t7;6-0;1;---;3,(0-2) CSC;O;NYM;Brandon Nimmo;Nick Ramirez;0%;98%;Strikeout Looking
+t7;6-0;2;---;1,(0-0) X;;NYM;Francisco Lindor;Nick Ramirez;0%;98%;Single to SS (Ground Ball); Lindor to 2B/Adv on E6 (throw)
+t7;6-0;2;-2-;6,(3-2) BBBCT.X;R;NYM;Jeff McNeil;Nick Ramirez;1%;99%;Single to CF (Line Drive to Deep SS-2B); Lindor Scores/unER
+t7;7-0;2;1--;5,(3-2) VSBS.B>X;O;NYM;Pete Alonso;Nick Ramirez;0%;99%;Lineout: LF (LF-CF)
+;;;;;;;;;1 run, 2 hits, 1 error, 1 LOB. Mets 7, Yankees 0.
+Bottom of the 7th, Yankees Batting, Behind 0-7, Mets' Brooks Raley facing 7-8-9 
+;;;;;;;;;Brooks Raley replaces Justin Verlander pitchingIsiah Kiner-Falefa pinch hits for Billy McKinney (LF) batting 7th
+b7;0-7;0;---;3,(1-1) ..BCH;;NYY;Isiah Kiner-Falefa;Brooks Raley;-1%;98%;Hit By Pitch
+b7;0-7;0;1--;2,(1-0) BX;R;NYY;Anthony Volpe;Brooks Raley;-2%;97%;Double to RF (Line Drive to Deep RF Line); Kiner-Falefa Scores
+b7;1-7;0;-2-;5,(3-1) BBBC*B;;NYY;Kyle Higashioka;Brooks Raley;-2%;95%;Walk
+b7;1-7;0;12-;4,(0-2) TCFX;O;NYY;Jake Bauers;Brooks Raley;2%;97%;Popfly: 3B (Deep 3B)
+;;;;;;;;;Dominic Leone replaces Brooks Raley pitching
+b7;1-7;1;12-;4,(3-0) .BBBB;;NYY;Gleyber Torres;Dominic Leone;-2%;94%;Walk; Volpe to 3B; Higashioka to 2B
+b7;1-7;1;123;3,(1-1) CBX;RO;NYY;Giancarlo Stanton;Dominic Leone;2%;96%;Lineout: RF/Sacrifice Fly (Deep RF); Volpe Scores; Higashioka to 3B
+b7;2-7;2;1-3;3,(0-2) 1CSS;O;NYY;Anthony Rizzo;Dominic Leone;2%;98%;Strikeout Swinging
+;;;;;;;;;2 runs, 1 hit, 0 errors, 2 LOB. Mets 7, Yankees 2.
+Top of the 8th, Mets Batting, Ahead 7-2, Yankees' Nick Ramirez facing 5-6-7 
+;;;;;;;;;Isiah Kiner-Falefa moves from PH to LF Mark Vientos pinch hits for Daniel Vogelbach (DH) batting 5th
+t8;7-2;0;---;4,(1-2) ..CS.BX;;NYM;Mark Vientos;Nick Ramirez;0%;99%;Double to LF (Ground Ball)
+t8;7-2;0;-2-;2,(0-1) SX;O;NYM;Francisco Alvarez;Nick Ramirez;0%;98%;Groundout: 3B-1B (SS-3B Hole)
+t8;7-2;1;-2-;3,(0-2) CCS;O;NYM;Brett Baty;Nick Ramirez;0%;98%;Strikeout Swinging
+t8;7-2;2;-2-;2,(0-1) CX;O;NYM;Mark Canha;Nick Ramirez;0%;98%;Lineout: RF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 7, Yankees 2.
+Bottom of the 8th, Yankees Batting, Behind 2-7, Mets' Grant Hartwig facing 5-6-7 
+;;;;;;;;;Grant Hartwig replaces Dominic Leone pitching
+b8;2-7;0;---;6,(3-2) ..CBCBB.X;O;NYY;DJ LeMahieu;Grant Hartwig;1%;99%;Groundout: SS-1B (SS-3B Hole)
+b8;2-7;1;---;3,(0-2) CFX;;NYY;Harrison Bader;Grant Hartwig;-1%;98%;Single to RF (Fly Ball to Short CF-RF)
+b8;2-7;1;1--;1,(0-0) X;;NYY;Isiah Kiner-Falefa;Grant Hartwig;-2%;96%;Single to RF (Line Drive to Deep CF-RF); Bader to 3B
+b8;2-7;1;1-3;4,(3-0) BBBB;;NYY;Anthony Volpe;Grant Hartwig;-3%;93%;Walk; Kiner-Falefa to 2B
+;;;;;;;;;David Robertson replaces Grant Hartwig pitchingBen Rortvedt pinch hits for Kyle Higashioka (C) batting 9th
+b8;2-7;1;123;3,(1-1) ..CBX;RO;NYY;Ben Rortvedt;David Robertson;3%;96%;Groundout: 2B-SS/Forceout at 2B; Bader Scores; Kiner-Falefa to 3B; Rortvedt to 1B
+b8;3-7;2;1-3;4,(1-2) C*BFX;O;NYY;Jake Bauers;David Robertson;3%;99%;Groundout: 1B unassisted (2B-1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Mets 7, Yankees 3.
+Top of the 9th, Mets Batting, Ahead 7-3, Yankees' Ron Marinaccio facing 9-1-2 
+;;;;;;;;;Ron Marinaccio replaces Nick Ramirez pitchingBen Rortvedt moves from PH to C 
+t9;7-3;0;---;5,(2-2) ..FBCBT;O;NYM;DJ Stewart;Ron Marinaccio;0%;98%;Strikeout Swinging
+t9;7-3;1;---;9,(3-2) FSBBFBFFB;;NYM;Brandon Nimmo;Ron Marinaccio;0%;99%;Walk
+t9;7-3;1;1--;10,(1-2) CFFFFFF*BFX;;NYM;Francisco Lindor;Ron Marinaccio;0%;99%;Single to CF (Line Drive to Deep CF); Nimmo to 3B/Adv on E8
+t9;7-3;1;1-3;3,(2-0) BB1>B;;NYM;Jeff McNeil;Ron Marinaccio;0%;99%;Lindor Steals 2B
+t9;7-3;1;-23;6,(3-2) BB1>B.CFX;RR;NYM;Jeff McNeil;Ron Marinaccio;1%;100%;Double to RF (Line Drive to Short RF); Nimmo Scores; Lindor Scores
+;;;;;;;;;Albert Abreu replaces Ron Marinaccio pitching
+t9;9-3;1;-2-;5,(3-1) .BF*B*BB;;NYM;Pete Alonso;Albert Abreu;0%;100%;Walk
+t9;9-3;1;12-;1,(0-0) H;;NYM;Mark Vientos;Albert Abreu;0%;100%;Hit By Pitch; McNeil to 3B; Alonso to 2B
+t9;9-3;1;123;3,(0-2) SFS;O;NYM;Francisco Alvarez;Albert Abreu;0%;100%;Strikeout Swinging
+t9;9-3;2;123;2,(0-1) CX;O;NYM;Brett Baty;Albert Abreu;0%;100%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;2 runs, 2 hits, 1 error, 3 LOB. Mets 9, Yankees 3.
+Bottom of the 9th, Yankees Batting, Behind 3-9, Mets' Adam Ottavino facing 2-3-4 
+;;;;;;;;;Adam Ottavino replaces David Robertson pitchingOmar Narváez replaces Francisco Alvarez playing C batting 6thDanny Mendick replaces DJ Stewart (RF) playing 2B batting 9thJeff McNeil moves from 2B to RF 
+b9;3-9;0;---;1,(0-0) ....X;O;NYY;Gleyber Torres;Adam Ottavino;0%;100%;Flyball: CF (Deep CF)
+b9;3-9;1;---;6,(3-2) BBCFBB;;NYY;Giancarlo Stanton;Adam Ottavino;0%;100%;Walk
+b9;3-9;1;1--;7,(2-2) BCSFBFX;O;NYY;Anthony Rizzo;Adam Ottavino;0%;100%;Flyball: LF (Deep LF)
+b9;3-9;2;1--;1,(0-0) >C;;NYY;DJ LeMahieu;Adam Ottavino;0%;100%;Defensive Indifference; Stanton to 2B
+b9;3-9;2;-2-;3,(0-2) >C.FS;O;NYY;DJ LeMahieu;Adam Ottavino;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mets 9, Yankees 3.

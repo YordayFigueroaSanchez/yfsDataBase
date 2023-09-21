@@ -1,0 +1,292 @@
+
+Scorebox Meta
+20230520
+7:07 p.m. Local
+35688
+Angel Stadium of Anaheim
+174
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;3;0;0;0;0;1;2;0;0;6;12;0
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;0;0;1;0;1;0;0;0;2;8;1
+
+Batting home
+Taylor Ward;/players/w/wardta01.shtml;LF;4;0;0;0;0;0;4;.227;.303;.320;.622;16;8;-0.085; 0.90;0.000;-0.085;-0.05%; 0.94; -0.8;1;0;
+Mickey Moniak;/players/m/moniami01.shtml;PH;1;0;0;0;0;1;1;.450;.476;.900;1.376;6;4;-0.006; 0.23;0.000;-0.006;-0.00%; 0.24; -0.3;;;
+Mike Trout;/players/t/troutmi01.shtml;CF;3;0;1;0;1;2;4;.281;.373;.521;.894;21;13;-0.012; 0.62;0.036;-0.049;-0.01%; 0.65; -0.3;3;0;
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;4;1;1;1;0;2;4;.286;.357;.543;.900;17;11;0.028; 0.92;0.097;-0.070; 0.02%; 0.95; 0.1;;;HR
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;4;1;2;0;0;0;4;.267;.321;.489;.810;10;9;0.064; 0.93;0.101;-0.037; 0.04%; 0.97; 0.3;3;0;
+Brandon Drury;/players/d/drurybr01.shtml;2B;3;0;1;0;0;0;4;.231;.268;.449;.717;14;7;0.177; 1.31;0.209;-0.032; 0.11%; 1.37; 1.3;3;1;2B,HBP
+Jared Walsh;/players/w/walshja01.shtml;1B;4;0;0;1;0;1;4;.000;.000;.000;.000;13;10;-0.120; 1.48;0.000;-0.120;-0.07%; 1.54; -0.9;7;0;
+Gio Urshela;/players/u/urshegi01.shtml;3B;4;0;2;0;0;0;4;.302;.323;.352;.675;15;13;-0.104; 1.31;0.038;-0.142;-0.07%; 1.37; -0.3;0;2;
+Matt Thaiss;/players/t/thaisma01.shtml;C;2;0;0;0;0;1;2;.282;.366;.366;.732;7;7;-0.066; 1.17;0.000;-0.066;-0.04%; 1.22; -0.6;5;0;
+Luis Rengifo;/players/r/rengilu01.shtml;PH;1;0;0;0;0;1;1;.214;.321;.286;.606;5;3;-0.067; 2.57;0.000;-0.067;-0.04%; 2.68; -0.4;;;
+Chad Wallach;/players/w/wallach01.shtml;C;1;0;0;0;0;1;1;.250;.267;.477;.744;5;3;-0.024; 0.95;0.000;-0.024;-0.01%; 0.99; -0.5;3;0;
+Zach Neto;/players/n/netoza01.shtml;SS;4;0;1;0;0;1;4;.248;.312;.363;.675;16;9;-0.027; 0.86;0.044;-0.071;-0.02%; 0.90; -0.2;2;3;2B
+Patrick Sandoval;/players/s/sandopa02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Zack Weiss;/players/w/weissza01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andrew Wantz;/players/w/wantzan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Jimmy Herget;/players/h/hergeji01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Brandon Drury (9, off Louie Varland); Zach Neto (7, off Jorge López).
+
+
+HR: Shohei Ohtani (11, off Louie Varland, 6th inn, 0 on, 0 outs to Deep CF-RF).
+
+
+HBP: Brandon Drury (3, by Louie Varland).
+
+
+TB: Shohei Ohtani 4; Gio Urshela 2; Zach Neto 2; Brandon Drury 2; Hunter Renfroe 2; Mike Trout.
+
+
+RBI: Jared Walsh (1); Shohei Ohtani (32).
+
+
+Team LOB: 8.
+With RISP: 0 for 12.
+
+Batting away
+Donovan Solano;/players/s/solando01.shtml;1B;3;1;2;0;0;0;3;.274;.349;.358;.707;18;11;0.043; 0.47;0.049;-0.007; 0.03%; 0.52; 0.5;5;0;2B
+Alex Kirilloff;/players/k/kirilal01.shtml;PH-1B;2;0;1;0;0;0;2;.350;.458;.575;1.033;4;3;0.003; 0.18;0.006;-0.004; 0.00%; 0.21; -0.1;3;0;
+Carlos Correa;/players/c/correca01.shtml;SS;2;0;1;0;3;0;5;.205;.299;.385;.684;28;13;0.059; 0.68;0.077;-0.018; 0.04%; 0.77; 1.0;1;3;
+Byron Buxton;/players/b/buxtoby01.shtml;DH;1;1;0;0;2;0;3;.235;.344;.484;.828;14;5;0.011; 1.12;0.037;-0.025; 0.01%; 1.27; 0.3;;;
+Edouard Julien;/players/j/julieed01.shtml;PH-DH-DH;2;0;0;0;0;1;2;.207;.258;.414;.672;6;5;-0.030; 0.54;0.000;-0.030;-0.02%; 0.61; -0.8;;;
+Kyle Farmer;/players/f/farmeky01.shtml;3B;5;2;3;1;0;0;5;.319;.377;.478;.855;11;8;0.118; 1.04;0.165;-0.048; 0.08%; 1.17; 1.0;2;2;
+Kyle Garlick;/players/g/garliky01.shtml;RF;3;0;1;1;0;1;3;.167;.167;.417;.583;11;8;0.014; 1.20;0.081;-0.067; 0.01%; 1.35; 0.1;0;0;
+Trevor Larnach;/players/l/larnatr01.shtml;RF;2;1;1;1;0;1;2;.222;.324;.405;.729;12;7;0.101; 0.51;0.103;-0.002; 0.07%; 0.57; 1.4;2;0;3B
+Willi Castro;/players/c/castrwi01.shtml;2B;4;0;1;1;0;0;5;.222;.291;.375;.666;19;11;-0.035; 0.69;0.021;-0.056;-0.02%; 0.78; -0.4;0;0;2B,SH
+Joey Gallo;/players/g/gallojo01.shtml;LF;4;1;1;1;1;2;5;.215;.323;.589;.911;16;12;0.053; 0.38;0.085;-0.032; 0.03%; 0.43; 0.6;1;0;HR,IW
+Michael A. Taylor;/players/t/taylomi02.shtml;CF;5;0;1;0;0;2;5;.230;.281;.398;.679;16;12;-0.039; 0.37;0.006;-0.045;-0.03%; 0.42; -1.4;3;0;2B,GDP
+Christian Vázquez;/players/v/vazquch01.shtml;C;4;0;0;0;0;0;4;.235;.307;.265;.572;21;12;-0.037; 0.35;0.000;-0.037;-0.03%; 0.40; -0.8;10;0;
+Louie Varland;/players/v/varlalo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jovani Moran;/players/m/moranjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jorge López;/players/l/lopezjo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brock Stewart;/players/s/stewabr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jhoan Duran;/players/d/duranjh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Donovan Solano (8, off Patrick Sandoval); Michael A. Taylor (4, off Andrew Wantz); Willi Castro (5, off Jimmy Herget).
+
+
+3B: Trevor Larnach (2, off Andrew Wantz).
+
+
+HR: Joey Gallo (11, off Zack Weiss, 6th inn, 0 on, 0 outs to Deep RF Line).
+
+
+SH: Willi Castro (1, off Patrick Sandoval).
+
+
+IBB: Joey Gallo (1, by Jimmy Herget).
+
+
+TB: Joey Gallo 4; Donovan Solano 3; Trevor Larnach 3; Kyle Farmer 3; Michael A. Taylor 2; Willi Castro 2; Kyle Garlick; Alex Kirilloff; Carlos Correa.
+
+
+GIDP: Michael A. Taylor (2).
+
+
+RBI: Joey Gallo (23); Kyle Garlick (2); Willi Castro (7); Kyle Farmer (14); Trevor Larnach (27).
+
+
+Team LOB: 11.
+With RISP: 2 for 10.
+
+Pitching home
+Patrick Sandoval;/players/s/sandopa02.shtml; L (3-3); 4.2;5;3;3;4;3;0;3.47;23;104;60;30;10;20;8;8;6;0;41;;;-0.139; 0.88;-0.09%; 0.92; -0.9
+Zack Weiss;/players/w/weissza01.shtml;Zack Weiss; 1.1;3;1;1;0;1;1;5.40;7;25;17;11;2;4;1;5;3;0;;2;0;-0.018; 0.64;-0.01%; 0.67; 0.0
+Andrew Wantz;/players/w/wantzan01.shtml;Andrew Wantz; 2 ;3;2;2;1;2;0;3.32;10;37;24;10;10;4;4;3;3;0;;0;0;-0.105; 0.29;-0.07%; 0.31; -1.0
+Jimmy Herget;/players/h/hergeji01.shtml;Jimmy Herget; 1 ;1;0;0;1;1;0;4.38;4;10;6;2;1;3;1;1;1;0;;0;0;0.004; 0.10; 0.00%; 0.10; 0.5
+
+Pitching away
+Louie Varland;/players/v/varlalo01.shtml; W (2-0); 5 ;6;2;2;1;4;1;4.18;23;92;60;39;7;14;7;10;2;0;50;;;-0.069; 1.04;-0.05%; 1.17; -0.4
+Jovani Moran;/players/m/moranjo01.shtml; H (3); 1 ;0;0;0;0;1;0;4.58;3;9;7;4;2;1;1;1;0;0;;2;0;0.226; 2.97; 0.15%; 3.34; 1.5
+Jorge López;/players/l/lopezjo02.shtml;Jorge López; 1 ;1;0;0;0;2;0;1.31;4;19;12;6;3;3;1;1;1;0;;0;0;0.036; 0.90; 0.02%; 1.01; 0.5
+Brock Stewart;/players/s/stewabr01.shtml;Brock Stewart; 1 ;0;0;0;0;0;0;0.00;3;5;5;3;1;1;2;1;1;0;;0;0;0.030; 0.39; 0.02%; 0.44; 0.5
+Jhoan Duran;/players/d/duranjh01.shtml;Jhoan Duran; 1 ;1;0;0;0;3;0;1.53;4;20;13;5;6;2;1;0;0;0;;0;0;0.019; 0.63; 0.01%; 0.71; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Jhoan Duran (3).
+HBP: Louie Varland (1; Brandon Drury).
+IBB: Jimmy Herget (2; Joey Gallo).
+Pickoffs: None.
+
+Balks: None.
+WP: Jhoan Duran (3).
+HBP: Louie Varland (1; Brandon Drury).
+IBB: Jimmy Herget (2; Joey Gallo).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Roberto Ortiz, 1B - Jeremy Riggs, 2B - Rob Drake, 3B - Bill Miller, LF - (none), RF - (none).
+Time of Game: 2:54.
+Attendance: 35,688.
+Field Condition: Unknown.
+Start Time Weather: 67° F, Wind 10mph from Right to Left, Cloudy, No Precipitation.
+
+div_lineups
+Twins
+1;Donovan Solano;/players/s/solando01.shtml;1B
+2;Carlos Correa;/players/c/correca01.shtml;SS
+3;Byron Buxton;/players/b/buxtoby01.shtml;DH
+4;Kyle Farmer;/players/f/farmeky01.shtml;3B
+5;Kyle Garlick;/players/g/garliky01.shtml;RF
+6;Willi Castro;/players/c/castrwi01.shtml;2B
+7;Joey Gallo;/players/g/gallojo01.shtml;LF
+8;Michael A. Taylor;/players/t/taylomi02.shtml;CF
+9;Christian Vázquez;/players/v/vazquch01.shtml;C
+; Louie Varland;/players/v/varlalo01.shtml;P
+Angels
+1;Taylor Ward;/players/w/wardta01.shtml;LF
+2;Mike Trout;/players/t/troutmi01.shtml;CF
+3;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+4;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+5;Brandon Drury;/players/d/drurybr01.shtml;2B
+6;Jared Walsh;/players/w/walshja01.shtml;1B
+7;Gio Urshela;/players/u/urshegi01.shtml;3B
+8;Matt Thaiss;/players/t/thaisma01.shtml;C
+9;Zach Neto;/players/n/netoza01.shtml;SS
+; Patrick Sandoval;/players/s/sandopa02.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b4;0-3;0;1--;1,(0-0) X;;LAA;Brandon Drury;Louie Varland;-12%;62%;Double to RF (Fly Ball to Deep RF); Renfroe to 3B
+t7;4-2;0;1--;7,(3-2) CSBBFBX;RR;MIN;Trevor Larnach;Andrew Wantz;10%;94%;Triple to RF (Line Drive to RF Line); Farmer Scores; Larnach Scores/Adv on E4 (throw)/No RBI
+b6;1-4;0;---;6,(3-2) ..BBFFBX;R;LAA;Shohei Ohtani;Louie Varland;-10%;74%;Home Run (Fly Ball to Deep CF-RF)
+b6;2-4;0;1--;6,(3-2) CFBBBH;;LAA;Brandon Drury;Louie Varland;-9%;59%;Hit By Pitch; Renfroe to 2B
+t1;0-0;1;1-3;2,(1-0) BX;R;MIN;Kyle Farmer;Patrick Sandoval;9%;65%;Single to CF (Ground Ball); Solano Scores; Buxton to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Twins Batting, Tied 0-0, Angels' Patrick Sandoval facing 1-2-3 
+t1;0-0;0;---;6,(3-2) CBSBBX;;MIN;Donovan Solano;Patrick Sandoval;4%;54%;Single to LF (Line Drive)
+t1;0-0;0;1--;8,(3-2) BBBCCF.F*B;;MIN;Carlos Correa;Patrick Sandoval;5%;59%;Walk; Solano to 2B
+t1;0-0;0;12-;4,(1-2) FCBX;O;MIN;Byron Buxton;Patrick Sandoval;-3%;56%;Groundout: 3B-2B/Forceout at 2B (Short 3B Line); Solano to 3B; Buxton to 1B
+t1;0-0;1;1-3;2,(1-0) BX;R;MIN;Kyle Farmer;Patrick Sandoval;9%;65%;Single to CF (Ground Ball); Solano Scores; Buxton to 3B
+t1;1-0;1;1-3;3,(1-1) CBX;R;MIN;Kyle Garlick;Patrick Sandoval;8%;73%;Single to CF (Line Drive to Deep LF-CF); Buxton Scores; Farmer to 3B
+t1;2-0;1;1-3;4,(2-1) BFB+3.X;RO;MIN;Willi Castro;Patrick Sandoval;2%;75%;Bunt Groundout: P-1B/Sacrifice (Front of Home); Farmer Scores; Garlick to 2B
+;;;;;;;;;Force Play Challenged by MIN manager (Rocco Baldelli): Original call upheld upon review.
+t1;3-0;2;-2-;3,(0-2) C*SS;O;MIN;Joey Gallo;Patrick Sandoval;-2%;73%;Strikeout Swinging
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Twins 3, Angels 0.
+Bottom of the 1st, Angels Batting, Behind 0-3, Twins' Louie Varland facing 1-2-3 
+b1;0-3;0;---;6,(3-2) BBFBSX;O;LAA;Taylor Ward;Louie Varland;2%;75%;Flyball: CF (Deep CF)
+b1;0-3;1;---;7,(3-2) CBBBC.FB;;LAA;Mike Trout;Louie Varland;-2%;73%;Walk
+b1;0-3;1;1--;5,(2-2) BBCFC;O;LAA;Shohei Ohtani;Louie Varland;3%;76%;Strikeout Looking
+b1;0-3;2;1--;3,(0-2) TCX;O;LAA;Hunter Renfroe;Louie Varland;2%;78%;Popfly: SS (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Twins 3, Angels 0.
+Top of the 2nd, Twins Batting, Ahead 3-0, Angels' Patrick Sandoval facing 8-9-1 
+t2;3-0;0;---;4,(2-1) BSBX;O;MIN;Michael A. Taylor;Patrick Sandoval;-1%;76%;Lineout: SS (Deep SS-3B Hole)
+t2;3-0;1;---;3,(2-0) BBX;O;MIN;Christian Vázquez;Patrick Sandoval;-1%;75%;Flyball: LF (Deep LF Line)
+t2;3-0;2;---;5,(2-2) FFBBX;;MIN;Donovan Solano;Patrick Sandoval;1%;77%;Double to RF (Ground Ball)
+t2;3-0;2;-2-;5,(3-1) BB2BCB;;MIN;Carlos Correa;Patrick Sandoval;1%;77%;Walk
+t2;3-0;2;12-;5,(3-1) *BBBCB;;MIN;Byron Buxton;Patrick Sandoval;2%;79%;Walk; Solano to 3B; Correa to 2B
+t2;3-0;2;123;3,(1-1) BCX;O;MIN;Kyle Farmer;Patrick Sandoval;-4%;75%;Foul Popfly: C (Behind Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Twins 3, Angels 0.
+Bottom of the 2nd, Angels Batting, Behind 0-3, Twins' Louie Varland facing 5-6-7 
+b2;0-3;0;---;6,(3-2) BBCBS.X;O;LAA;Brandon Drury;Louie Varland;2%;77%;Groundout: SS-1B
+b2;0-3;1;---;4,(1-2) CBFS;O;LAA;Jared Walsh;Louie Varland;2%;78%;Strikeout Swinging
+b2;0-3;2;---;3,(0-2) CTX;;LAA;Gio Urshela;Louie Varland;-1%;77%;Single to RF (Line Drive to RF Line)
+b2;0-3;2;1--;4,(0-2) CFFS;O;LAA;Matt Thaiss;Louie Varland;2%;79%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 3, Angels 0.
+Top of the 3rd, Twins Batting, Ahead 3-0, Angels' Patrick Sandoval facing 5-6-7 
+t3;3-0;0;---;4,(1-2) CCBX;O;MIN;Kyle Garlick;Patrick Sandoval;-1%;78%;Groundout: SS-1B
+t3;3-0;1;---;6,(2-2) CFBBFX;O;MIN;Willi Castro;Patrick Sandoval;-1%;77%;Groundout: P-1B (Front of Home)
+t3;3-0;2;---;3,(1-1) BSX;O;MIN;Joey Gallo;Patrick Sandoval;-1%;76%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 3, Angels 0.
+Bottom of the 3rd, Angels Batting, Behind 0-3, Twins' Louie Varland facing 9-1-2 
+b3;0-3;0;---;1,(0-0) X;O;LAA;Zach Neto;Louie Varland;2%;79%;Flyball: LF (LF Line)
+b3;0-3;1;---;5,(3-1) CBBBX;O;LAA;Taylor Ward;Louie Varland;2%;80%;Flyball: CF (Deep CF)
+b3;0-3;2;---;5,(1-2) BCSFX;;LAA;Mike Trout;Louie Varland;-1%;79%;Single to SS (Ground Ball to SS-3B Hole)
+b3;0-3;2;1--;1,(0-0) X;O;LAA;Shohei Ohtani;Louie Varland;2%;81%;Groundout: SS-1B (Weak SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 3, Angels 0.
+Top of the 4th, Twins Batting, Ahead 3-0, Angels' Patrick Sandoval facing 8-9-1 
+t4;3-0;0;---;3,(0-2) CS.S;O;MIN;Michael A. Taylor;Patrick Sandoval;-1%;80%;Strikeout Swinging
+t4;3-0;1;---;8,(2-2) BFSBFFFX;O;MIN;Christian Vázquez;Patrick Sandoval;-1%;79%;Groundout: 3B-1B (Short 3B Line)
+t4;3-0;2;---;7,(2-2) BCCBFFX;O;MIN;Donovan Solano;Patrick Sandoval;-1%;78%;Lineout: SS (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 3, Angels 0.
+Bottom of the 4th, Angels Batting, Behind 0-3, Twins' Louie Varland facing 4-5-6 
+b4;0-3;0;---;4,(1-2) BFFX;;LAA;Hunter Renfroe;Louie Varland;-4%;74%;Single to LF (Ground Ball thru SS-3B Hole)
+b4;0-3;0;1--;1,(0-0) X;;LAA;Brandon Drury;Louie Varland;-12%;62%;Double to RF (Fly Ball to Deep RF); Renfroe to 3B
+b4;0-3;0;-23;5,(2-2) FBSBX;RO;LAA;Jared Walsh;Louie Varland;1%;64%;Groundout: 1B unassisted; Renfroe Scores; Drury to 3B
+b4;1-3;1;--3;7,(2-2) FFB*BFFX;O;LAA;Gio Urshela;Louie Varland;7%;71%;Groundout: SS-1B
+b4;1-3;2;--3;3,(0-2) FFX;O;LAA;Matt Thaiss;Louie Varland;4%;75%;Foul Popfly: 3B (3B into Foul Terr.)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Twins 3, Angels 1.
+Top of the 5th, Twins Batting, Ahead 3-1, Angels' Patrick Sandoval facing 2-3-4 
+t5;3-1;0;---;6,(3-2) CCBBBX;O;MIN;Carlos Correa;Patrick Sandoval;-2%;73%;Lineout: RF (Deep RF)
+t5;3-1;1;---;5,(3-1) BBBC.B;;MIN;Byron Buxton;Patrick Sandoval;2%;75%;Walk
+t5;3-1;1;1--;3,(1-1) BC1X;;MIN;Kyle Farmer;Patrick Sandoval;5%;80%;Single to RF (Line Drive); Buxton to 3B
+t5;3-1;1;1-3;4,(1-2) CS*BS;O;MIN;Kyle Garlick;Patrick Sandoval;-5%;75%;Strikeout Swinging
+;;;;;;;;;Zack Weiss replaces Patrick Sandoval pitching
+t5;3-1;2;1-3;3,(2-0) .BBX;O;MIN;Willi Castro;Zack Weiss;-4%;71%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Twins 3, Angels 1.
+Bottom of the 5th, Angels Batting, Behind 1-3, Twins' Louie Varland facing 9-1-2 
+;;;;;;;;;Trevor Larnach replaces Kyle Garlick playing RF batting 5th
+b5;1-3;0;---;3,(1-1) .BCX;O;LAA;Zach Neto;Louie Varland;3%;74%;Flyball: RF (Short CF-RF)
+b5;1-3;1;---;1,(0-0) X;O;LAA;Taylor Ward;Louie Varland;2%;76%;Groundout: 3B-1B (SS-3B Hole)
+b5;1-3;2;---;5,(2-2) BTBCS;O;LAA;Mike Trout;Louie Varland;1%;78%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 3, Angels 1.
+Top of the 6th, Twins Batting, Ahead 3-1, Angels' Zack Weiss facing 7-8-9 
+t6;3-1;0;---;5,(1-2) SFFBX;R;MIN;Joey Gallo;Zack Weiss;8%;86%;Home Run (Fly Ball to Deep RF Line)
+t6;4-1;0;---;4,(1-2) CBFS;O;MIN;Michael A. Taylor;Zack Weiss;-1%;85%;Strikeout Swinging
+t6;4-1;1;---;6,(3-2) BBBCFX;O;MIN;Christian Vázquez;Zack Weiss;-1%;84%;Flyball: CF (Deep CF)
+;;;;;;;;;Alex Kirilloff pinch hits for Donovan Solano (1B) batting 1st
+t6;4-1;2;---;2,(1-0) .BX;;MIN;Alex Kirilloff;Zack Weiss;1%;85%;Single to CF (Line Drive)
+t6;4-1;2;1--;3,(0-2) C1FX;;MIN;Carlos Correa;Zack Weiss;1%;86%;Single to CF (Ground Ball thru SS-2B); Kirilloff to 3B
+;;;;;;;;;Edouard Julien pinch hits for Byron Buxton (DH) batting 3rd
+t6;4-1;2;1-3;2,(0-1) .CX;O;MIN;Edouard Julien;Zack Weiss;-3%;84%;Lineout: CF (Deep CF)
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Twins 4, Angels 1.
+Bottom of the 6th, Angels Batting, Behind 1-4, Twins' Louie Varland facing 3-4-5 
+;;;;;;;;;Alex Kirilloff moves from PH to 1B 
+b6;1-4;0;---;6,(3-2) ..BBFFBX;R;LAA;Shohei Ohtani;Louie Varland;-10%;74%;Home Run (Fly Ball to Deep CF-RF)
+b6;2-4;0;---;1,(0-0) X;;LAA;Hunter Renfroe;Louie Varland;-6%;68%;Single to CF (Line Drive to Deep CF)
+b6;2-4;0;1--;6,(3-2) CFBBBH;;LAA;Brandon Drury;Louie Varland;-9%;59%;Hit By Pitch; Renfroe to 2B
+;;;;;;;;;Jovani Moran replaces Louie Varland pitching
+b6;2-4;0;12-;2,(0-1) .LX;O;LAA;Jared Walsh;Jovani Moran;9%;67%;Bunt Lineout: 3B (Weak 3B)
+b6;2-4;1;12-;2,(0-1) CX;O;LAA;Gio Urshela;Jovani Moran;7%;75%;Flyball: RF (Short RF Line)
+;;;;;;;;;Luis Rengifo pinch hits for Matt Thaiss (C) batting 8th
+b6;2-4;2;12-;5,(2-2) .*BFBSS;O;LAA;Luis Rengifo;Jovani Moran;7%;81%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Twins 4, Angels 2.
+Top of the 7th, Twins Batting, Ahead 4-2, Angels' Andrew Wantz facing 4-5-6 
+;;;;;;;;;Andrew Wantz replaces Zack Weiss pitchingChad Wallach replaces Luis Rengifo (PH) playing C batting 8th
+t7;4-2;0;---;1,(0-0) ..X;;MIN;Kyle Farmer;Andrew Wantz;2%;84%;Single to RF (Ground Ball thru 2B-1B)
+t7;4-2;0;1--;7,(3-2) CSBBFBX;RR;MIN;Trevor Larnach;Andrew Wantz;10%;94%;Triple to RF (Line Drive to RF Line); Farmer Scores; Larnach Scores/Adv on E4 (throw)/No RBI
+t7;6-2;0;---;3,(0-2) FSX;O;MIN;Willi Castro;Andrew Wantz;-1%;93%;Lineout: RF
+t7;6-2;1;---;5,(2-2) BSSB*S;O;MIN;Joey Gallo;Andrew Wantz;0%;93%;Strikeout Swinging
+t7;6-2;2;---;3,(1-1) CBX;;MIN;Michael A. Taylor;Andrew Wantz;1%;94%;Double to LF (Ground Ball)
+t7;6-2;2;-2-;4,(2-1) B*BCX;O;MIN;Christian Vázquez;Andrew Wantz;-1%;93%;Lineout: CF
+;;;;;;;;;2 runs, 3 hits, 1 error, 1 LOB. Twins 6, Angels 2.
+Bottom of the 7th, Angels Batting, Behind 2-6, Twins' Jorge López facing 9-1-2 
+;;;;;;;;;Jorge López replaces Jovani Moran pitching
+b7;2-6;0;---;6,(3-2) .CBS..BBX;;LAA;Zach Neto;Jorge López;-4%;88%;Double to LF (Line Drive to Deep LF Line)
+b7;2-6;0;-2-;4,(2-1) BBFX;O;LAA;Taylor Ward;Jorge López;3%;91%;Groundout: 1B unassisted; Neto to 3B
+b7;2-6;1;--3;4,(1-2) FBFS;O;LAA;Mike Trout;Jorge López;3%;94%;Strikeout Swinging
+b7;2-6;2;--3;5,(1-2) CCBFS;O;LAA;Shohei Ohtani;Jorge López;2%;96%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 6, Angels 2.
+Top of the 8th, Twins Batting, Ahead 6-2, Angels' Andrew Wantz facing 1-2-3 
+t8;6-2;0;---;2,(0-1) CX;O;MIN;Alex Kirilloff;Andrew Wantz;0%;96%;Groundout: P-1B
+t8;6-2;1;---;6,(3-2) BS.SBBB;;MIN;Carlos Correa;Andrew Wantz;0%;96%;Walk
+t8;6-2;1;1--;4,(1-2) SBFS;O;MIN;Edouard Julien;Andrew Wantz;0%;96%;Strikeout Swinging
+t8;6-2;2;1--;2,(0-1) SX;O;MIN;Kyle Farmer;Andrew Wantz;0%;95%;Groundout: SS-2B/Forceout at 2B (Deep SS); Farmer to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Twins 6, Angels 2.
+Bottom of the 8th, Angels Batting, Behind 2-6, Twins' Brock Stewart facing 4-5-6 
+;;;;;;;;;Brock Stewart replaces Jorge López pitching
+b8;2-6;0;---;2,(0-1) .CX;O;LAA;Hunter Renfroe;Brock Stewart;2%;97%;Groundout: 3B-1B (SS-3B Hole)
+b8;2-6;1;---;1,(0-0) X;O;LAA;Brandon Drury;Brock Stewart;1%;98%;Groundout: 1B unassisted (2B-1B)
+b8;2-6;2;---;2,(0-1) SX;O;LAA;Jared Walsh;Brock Stewart;0%;98%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 6, Angels 2.
+Top of the 9th, Twins Batting, Ahead 6-2, Angels' Jimmy Herget facing 5-6-7 
+;;;;;;;;;Jimmy Herget replaces Andrew Wantz pitching
+t9;6-2;0;---;5,(2-2) .CCBBS;O;MIN;Trevor Larnach;Jimmy Herget;0%;98%;Strikeout Swinging
+t9;6-2;1;---;3,(2-0) BBX;;MIN;Willi Castro;Jimmy Herget;0%;99%;Double to RF (Line Drive to RF Line)
+t9;6-2;1;-2-;,(3-0) VVVV;;MIN;Joey Gallo;Jimmy Herget;0%;99%;Intentional Walk
+t9;6-2;1;12-;2,(0-1) CX;OO;MIN;Michael A. Taylor;Jimmy Herget;-1%;98%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 6, Angels 2.
+Bottom of the 9th, Angels Batting, Behind 2-6, Twins' Jhoan Duran facing 7-8-9 
+;;;;;;;;;Jhoan Duran replaces Brock Stewart pitching
+b9;2-6;0;---;3,(0-2) .CSX;;LAA;Gio Urshela;Jhoan Duran;-2%;96%;Single to P (Ground Ball to P's Left)
+b9;2-6;0;1--;4,(1-2) BSFB;;LAA;Chad Wallach;Jhoan Duran;0%;95%;Wild Pitch; Urshela to 2B
+b9;2-6;0;-2-;5,(2-2) BSFB.S;O;LAA;Chad Wallach;Jhoan Duran;2%;98%;Strikeout Swinging
+b9;2-6;1;-2-;6,(3-2) CBFBB.S;O;LAA;Zach Neto;Jhoan Duran;2%;99%;Strikeout Swinging
+;;;;;;;;;Mickey Moniak pinch hits for Taylor Ward (LF) batting 1st
+b9;2-6;2;-2-;6,(2-2) .*BSBFFS;O;LAA;Mickey Moniak;Jhoan Duran;1%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 6, Angels 2.

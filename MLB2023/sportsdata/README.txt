@@ -1,0 +1,1 @@
+https://sportsdata.io/members/subscriptions

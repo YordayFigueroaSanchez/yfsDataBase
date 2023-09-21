@@ -1,0 +1,258 @@
+
+Scorebox Meta
+20230624
+4:10 p.m. Local
+32349
+Progressive Field
+160
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/MIL-2023.png;/teams/MIL/2023.shtml;1;0;1;0;0;0;0;0;0;2;4;1
+https://cdn.ssref.net/req/202308101/tlogo/br/CLE-2023.png;/teams/CLE/2023.shtml;0;0;0;1;0;2;0;1;X;4;9;1
+
+Batting home
+Steven Kwan;/players/k/kwanst01.shtml;LF;4;1;1;0;0;0;4;.263;.340;.355;.695;19;11;0.022; 1.04;0.076;-0.053; 0.01%; 0.82; 0.1;3;0;SB
+Amed Rosario;/players/r/rosaram01.shtml;SS;2;1;1;0;1;1;4;.260;.309;.343;.652;26;14;0.105; 1.07;0.121;-0.016; 0.05%; 0.84; 0.7;0;3;HBP
+José Ramírez;/players/r/ramirjo01.shtml;3B;3;1;2;0;1;0;4;.297;.360;.521;.881;12;6;0.201; 1.58;0.212;-0.011; 0.10%; 1.25; 1.6;0;3;
+Josh Naylor;/players/n/naylojo01.shtml;1B;4;0;1;1;0;1;4;.289;.331;.454;.785;13;9;-0.031; 2.18;0.151;-0.182;-0.01%; 1.72; -0.6;8;0;GDP
+Josh Bell;/players/b/belljo02.shtml;DH;3;0;1;0;1;0;4;.230;.325;.379;.704;12;6;-0.036; 1.37;0.055;-0.090;-0.02%; 1.08; 0.0;;;2B
+Tyler Freeman;/players/f/freemty01.shtml;PR-DH-DH;0;1;0;0;0;0;0;.275;.296;.373;.669;;;0.000;;0.000;0.000;0%;; 0.0;;;
+Andrés Giménez;/players/g/gimenan01.shtml;2B;3;0;1;1;0;1;4;.242;.308;.369;.677;26;17;0.009; 1.57;0.083;-0.074; 0.00%; 1.24; 0.7;1;0;HBP
+David Fry;/players/f/fryda01.shtml;RF;3;0;2;1;0;1;3;.310;.333;.448;.782;8;7;0.118; 2.49;0.217;-0.098; 0.06%; 1.96; 0.6;2;0;
+Will Brennan;/players/b/brennwi02.shtml;RF;1;0;0;0;0;0;1;.266;.298;.394;.692;3;2;-0.001; 0.29;0.000;-0.001;-0.00%; 0.23; -0.2;1;0;
+Bo Naylor;/players/n/naylobo01.shtml;C;4;0;0;0;0;3;4;.063;.167;.063;.229;18;11;-0.133; 1.28;0.000;-0.133;-0.06%; 1.01; -1.6;11;0;
+Myles Straw;/players/s/strawmy01.shtml;CF;4;0;0;0;0;2;4;.235;.309;.304;.613;19;14;-0.114; 0.88;0.000;-0.114;-0.05%; 0.69; -1.3;1;0;GDP
+Tanner Bibee;/players/b/bibeeta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Eli Morgan;/players/m/morgael01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Stephan;/players/s/stephtr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Emmanuel Clase;/players/c/claseem01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Josh Bell (15, off Matt Bush).
+
+
+HBP: Andrés Giménez (11, by Freddy Peralta); Amed Rosario (2, by Peter Strzelecki).
+
+
+TB: Josh Bell 2; David Fry 2; José Ramírez 2; Andrés Giménez; Amed Rosario; Steven Kwan; Josh Naylor.
+
+
+GIDP: Josh Naylor (7); Myles Straw (7).
+
+
+RBI: Josh Naylor (56); Andrés Giménez (27); David Fry (4).
+
+
+2-out RBI: David Fry.
+
+
+Team LOB: 8.
+With RISP: 3 for 12.
+
+Batting away
+Christian Yelich;/players/y/yelicch01.shtml;LF;2;2;1;0;2;0;4;.268;.362;.428;.790;17;8;0.084; 0.89;0.104;-0.021; 0.05%; 0.93; 1.0;4;0;SB
+William Contreras;/players/c/contrwi02.shtml;C;4;0;1;1;0;2;4;.246;.338;.427;.764;13;11;-0.028; 1.42;0.085;-0.113;-0.02%; 1.48; 0.0;9;0;
+Rowdy Tellez;/players/t/tellero01.shtml;1B;4;0;0;0;0;0;4;.216;.287;.405;.692;15;9;0.012; 1.17;0.098;-0.085; 0.01%; 1.22; 0.3;4;0;
+Willy Adames;/players/a/adamewi01.shtml;SS;3;0;0;0;1;2;4;.213;.293;.393;.687;18;10;-0.049; 0.87;0.027;-0.075;-0.03%; 0.91; -0.4;2;1;
+Jesse Winker;/players/w/winkeje01.shtml;DH;3;0;0;0;1;2;4;.192;.306;.240;.546;22;13;-0.047; 1.12;0.037;-0.085;-0.03%; 1.17; -0.4;;;
+Brian Anderson;/players/a/anderbr06.shtml;3B;4;0;1;0;0;2;4;.224;.325;.382;.707;15;12;-0.031; 1.08;0.049;-0.080;-0.02%; 1.13; -0.6;0;1;
+Raimel Tapia;/players/t/tapiara01.shtml;RF;4;0;0;0;0;3;4;.226;.284;.340;.624;25;16;-0.119; 1.21;0.000;-0.119;-0.07%; 1.26; -1.0;1;0;
+Luis Urías;/players/u/uriaslu01.shtml;2B;4;0;1;0;0;0;4;.146;.293;.250;.543;13;10;-0.113; 1.16;0.037;-0.150;-0.07%; 1.21; -0.8;1;2;
+Joey Wiemer;/players/w/wiemejo01.shtml;CF;3;0;0;0;0;0;3;.211;.280;.401;.681;9;6;-0.070; 0.94;0.000;-0.070;-0.04%; 0.98; -0.6;3;0;
+Freddy Peralta;/players/p/peralfr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Hoby Milner;/players/m/milneho01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Elvis Peguero;/players/p/pegueel01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Peter Strzelecki;/players/s/strzepe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matt Bush;/players/b/bushma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+TB: William Contreras; Luis Urías; Brian Anderson; Christian Yelich.
+
+
+RBI: William Contreras (25).
+
+
+Team LOB: 6.
+With RISP: 1 for 6.
+
+Pitching home
+Tanner Bibee;/players/b/bibeeta01.shtml; W (4-2); 6 ;3;2;1;4;7;0;3.79;25;105;64;30;13;21;8;6;2;0;63;;;0.072; 0.95; 0.03%; 0.75; 1.0
+Eli Morgan;/players/m/morgael01.shtml; H (5); 1 ;0;0;0;0;0;0;1.67;3;11;9;3;3;3;0;3;2;0;;0;0;0.095; 1.26; 0.04%; 0.99; 0.5
+Trevor Stephan;/players/s/stephtr01.shtml; H (11); 1 ;0;0;0;0;2;0;2.25;3;14;10;4;2;4;0;1;0;0;;0;0;0.120; 1.59; 0.06%; 1.25; 0.5
+Emmanuel Clase;/players/c/claseem01.shtml; S (23); 1 ;1;0;0;0;2;0;2.48;4;17;12;4;3;5;0;2;1;0;;0;0;0.073; 1.43; 0.03%; 1.13; 0.5
+
+Pitching away
+Freddy Peralta;/players/p/peralfr01.shtml; L (5-7); 5 ;4;3;3;3;5;0;4.65;21;98;58;34;11;13;4;8;2;0;49;;;0.023; 1.55; 0.01%; 1.62; 0.5
+Hoby Milner;/players/m/milneho01.shtml; BS (2); 0.2;1;0;0;0;1;0;2.76;3;14;10;6;1;3;1;1;0;0;;2;1;-0.015; 2.81;-0.01%; 2.94; 0.1
+Elvis Peguero;/players/p/pegueel01.shtml;Elvis Peguero; 0.1;1;0;0;0;0;0;3.00;2;3;3;2;0;1;1;1;1;0;;2;1;-0.133; 2.04;-0.08%; 2.12; -0.6
+Peter Strzelecki;/players/s/strzepe01.shtml;Peter Strzelecki; 1 ;1;0;0;0;2;0;4.72;5;22;14;4;4;6;1;1;0;0;;0;0;0.042; 0.76; 0.03%; 0.80; 0.5
+Matt Bush;/players/b/bushma01.shtml;Matt Bush; 1 ;2;1;1;0;1;0;7.45;5;19;12;6;4;2;1;3;3;0;;0;0;-0.058; 0.46;-0.04%; 0.48; -0.5
+
+indiv_events
+
+Balks: None.
+WP: Tanner Bibee (6).
+HBP: Peter Strzelecki (8; Amed Rosario); Freddy Peralta (4; Andrés Giménez).
+IBB: None.
+Pickoffs: Tanner Bibee (2; Luis Urías, 1st base).
+
+Balks: None.
+WP: Tanner Bibee (6).
+HBP: Peter Strzelecki (8; Amed Rosario); Freddy Peralta (4; Andrés Giménez).
+IBB: None.
+Pickoffs: Tanner Bibee (2; Luis Urías, 1st base).
+
+section_content
+Umpires: HP - Will Little, 1B - Lance Barksdale, 2B - Ryan Additon, 3B - Dan Merzel, LF - (none), RF - (none).
+Time of Game: 2:40.
+Attendance: 32,349.
+Field Condition: Unknown.
+Start Time Weather: 74° F, Wind 3mph in from Centerfield, Cloudy, No Precipitation.
+
+div_lineups
+Brewers
+1;Christian Yelich;/players/y/yelicch01.shtml;LF
+2;William Contreras;/players/c/contrwi02.shtml;C
+3;Rowdy Tellez;/players/t/tellero01.shtml;1B
+4;Willy Adames;/players/a/adamewi01.shtml;SS
+5;Jesse Winker;/players/w/winkeje01.shtml;DH
+6;Brian Anderson;/players/a/anderbr06.shtml;3B
+7;Raimel Tapia;/players/t/tapiara01.shtml;RF
+8;Luis Urías;/players/u/uriaslu01.shtml;2B
+9;Joey Wiemer;/players/w/wiemejo01.shtml;CF
+; Freddy Peralta;/players/p/peralfr01.shtml;P
+Guardians
+1;Steven Kwan;/players/k/kwanst01.shtml;LF
+2;Amed Rosario;/players/r/rosaram01.shtml;SS
+3;José Ramírez;/players/r/ramirjo01.shtml;3B
+4;Josh Naylor;/players/n/naylojo01.shtml;1B
+5;Josh Bell;/players/b/belljo02.shtml;DH
+6;Andrés Giménez;/players/g/gimenan01.shtml;2B
+7;David Fry;/players/f/fryda01.shtml;RF
+8;Bo Naylor;/players/n/naylobo01.shtml;C
+9;Myles Straw;/players/s/strawmy01.shtml;CF
+; Tanner Bibee;/players/b/bibeeta01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b6;2-2;2;12-;2,(0-1) .CX;R;CLE;David Fry;Elvis Peguero;17%;74%;Single to LF (Line Drive to Short LF); Ramírez Scores; Naylor to 2B
+b6;1-2;0;12-;3,(0-2) .CFX;R;CLE;Josh Naylor;Hoby Milner;15%;70%;Single to LF (Ground Ball thru SS-3B Hole); Rosario Scores; Ramírez to 2B
+b4;0-2;0;123;3,(1-1) BFX;ROO;CLE;Josh Naylor;Freddy Peralta;-12%;41%;Ground Ball Double Play: SS-1B; Kwan Scores/No RBI; Rosario to 3B
+b4;0-2;0;12-;4,(3-0) BBBB;;CLE;José Ramírez;Freddy Peralta;10%;53%;Walk; Kwan to 3B; Rosario to 2B
+b4;1-2;2;123;4,(1-2) FSBS;O;CLE;David Fry;Freddy Peralta;-10%;36%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Brewers Batting, Tied 0-0, Guardians' Tanner Bibee facing 1-2-3 
+t1;0-0;0;---;2,(1-0) BX;;MIL;Christian Yelich;Tanner Bibee;-4%;46%;Single to 2B (Ground Ball)
+t1;0-0;0;1--;3,(0-2) TCS;O;MIL;William Contreras;Tanner Bibee;2%;48%;Strikeout Swinging, Wild Pitch; Yelich to 2B
+t1;0-0;1;-2-;3,(1-1) BCX;R;MIL;Rowdy Tellez;Tanner Bibee;-10%;38%;Reached on E9 (Line Drive to Deep CF-RF); Yelich Scores/No RBI/unER; Tellez to 2B
+t1;1-0;1;-2-;6,(3-2) BBCBC.T;O;MIL;Willy Adames;Tanner Bibee;3%;42%;Strikeout Swinging
+t1;1-0;2;-2-;4,(1-2) BSCT;O;MIL;Jesse Winker;Tanner Bibee;3%;44%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 1 error, 1 LOB. Brewers 1, Guardians 0.
+Bottom of the 1st, Guardians Batting, Behind 0-1, Brewers' Freddy Peralta facing 1-2-3 
+b1;0-1;0;---;4,(2-1) BBCX;O;CLE;Steven Kwan;Freddy Peralta;-2%;42%;Lineout: LF (Deep LF-CF)
+b1;0-1;1;---;9,(3-2) BBSCFBFF*S;O;CLE;Amed Rosario;Freddy Peralta;-2%;40%;Strikeout Swinging
+b1;0-1;2;---;3,(1-1) BCX;O;CLE;José Ramírez;Freddy Peralta;-1%;39%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 1, Guardians 0.
+Top of the 2nd, Brewers Batting, Ahead 1-0, Guardians' Tanner Bibee facing 6-7-8 
+t2;1-0;0;---;4,(1-2) CBCS;O;MIL;Brian Anderson;Tanner Bibee;2%;41%;Strikeout Swinging
+t2;1-0;1;---;6,(1-2) CSFBFS;O;MIL;Raimel Tapia;Tanner Bibee;1%;43%;Strikeout Swinging
+t2;1-0;2;---;2,(0-1) CX;O;MIL;Luis Urías;Tanner Bibee;1%;44%;Flyball: RF (Short RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 1, Guardians 0.
+Bottom of the 2nd, Guardians Batting, Behind 0-1, Brewers' Freddy Peralta facing 4-5-6 
+b2;0-1;0;---;3,(2-0) BBX;O;CLE;Josh Naylor;Freddy Peralta;-3%;41%;Flyball: LF (Deep LF)
+b2;0-1;1;---;2,(0-1) SX;O;CLE;Josh Bell;Freddy Peralta;-2%;40%;Flyball: LF
+b2;0-1;2;---;10,(3-2) BCFBFFFFB.X;O;CLE;Andrés Giménez;Freddy Peralta;-1%;39%;Popfly: SS (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 1, Guardians 0.
+Top of the 3rd, Brewers Batting, Ahead 1-0, Guardians' Tanner Bibee facing 9-1-2 
+t3;1-0;0;---;4,(2-1) CBBX;O;MIL;Joey Wiemer;Tanner Bibee;2%;41%;Foul Popfly: RF (RF into Foul Terr.)
+t3;1-0;1;---;5,(3-1) BBBCB;;MIL;Christian Yelich;Tanner Bibee;-2%;38%;Walk
+t3;1-0;1;1--;1,(0-0) >S;;MIL;William Contreras;Tanner Bibee;-2%;37%;Yelich Steals 2B
+t3;1-0;1;-2-;4,(1-2) >S.BCX;R;MIL;William Contreras;Tanner Bibee;-8%;28%;Single to RF (Line Drive to RF Line); Yelich Scores
+t3;2-0;1;1--;6,(3-2) CBBBCX;O;MIL;Rowdy Tellez;Tanner Bibee;2%;30%;Flyball: LF (Deep LF-CF)
+t3;2-0;2;1--;2,(0-1) SX;O;MIL;Willy Adames;Tanner Bibee;2%;32%;Groundout: 3B-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Brewers 2, Guardians 0.
+Bottom of the 3rd, Guardians Batting, Behind 0-2, Brewers' Freddy Peralta facing 7-8-9 
+b3;0-2;0;---;2,(0-1) CX;;CLE;David Fry;Freddy Peralta;4%;37%;Single to CF (Ground Ball thru SS-2B)
+b3;0-2;0;1--;6,(3-2) BCCBB1S;O;CLE;Bo Naylor;Freddy Peralta;-4%;32%;Strikeout Swinging
+b3;0-2;1;1--;4,(1-2) CFBX;OO;CLE;Myles Straw;Freddy Peralta;-6%;27%;Ground Ball Double Play: 3B-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Brewers 2, Guardians 0.
+Top of the 4th, Brewers Batting, Ahead 2-0, Guardians' Tanner Bibee facing 5-6-7 
+t4;2-0;0;---;6,(3-2) FFBBBX;O;MIL;Jesse Winker;Tanner Bibee;2%;28%;Groundout: SS-1B
+t4;2-0;1;---;2,(0-1) CX;O;MIL;Brian Anderson;Tanner Bibee;1%;30%;Popfly: 2B (Short CF)
+t4;2-0;2;---;5,(2-2) CBS.BX;O;MIL;Raimel Tapia;Tanner Bibee;1%;30%;Groundout: 3B-1B (Weak SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 2, Guardians 0.
+Bottom of the 4th, Guardians Batting, Behind 0-2, Brewers' Freddy Peralta facing 1-2-3 
+b4;0-2;0;---;9,(3-2) CBBCFFBFX;;CLE;Steven Kwan;Freddy Peralta;5%;35%;Single to LF (Fly Ball to Short LF Line)
+b4;0-2;0;1--;6,(2-2) S1SBFB>*B;;CLE;Amed Rosario;Freddy Peralta;3%;38%;Kwan Steals 2B
+b4;0-2;0;-2-;7,(3-2) S1SBFB>*B.B;;CLE;Amed Rosario;Freddy Peralta;5%;43%;Walk
+b4;0-2;0;12-;4,(3-0) BBBB;;CLE;José Ramírez;Freddy Peralta;10%;53%;Walk; Kwan to 3B; Rosario to 2B
+b4;0-2;0;123;3,(1-1) BFX;ROO;CLE;Josh Naylor;Freddy Peralta;-12%;41%;Ground Ball Double Play: SS-1B; Kwan Scores/No RBI; Rosario to 3B
+b4;1-2;2;--3;4,(3-0) BBBB;;CLE;Josh Bell;Freddy Peralta;2%;42%;Walk
+b4;1-2;2;1-3;6,(2-2) BCF*BFH;;CLE;Andrés Giménez;Freddy Peralta;3%;46%;Hit By Pitch; Bell to 2B
+b4;1-2;2;123;4,(1-2) FSBS;O;CLE;David Fry;Freddy Peralta;-10%;36%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 3 LOB. Brewers 2, Guardians 1.
+Top of the 5th, Brewers Batting, Ahead 2-1, Guardians' Tanner Bibee facing 8-9-1 
+t5;2-1;0;---;4,(1-2) CBCX;;MIL;Luis Urías;Tanner Bibee;-4%;32%;Single to CF (Ground Ball thru SS-2B)
+t5;2-1;0;1--;1,(1-0) B1;O;MIL;Joey Wiemer;Tanner Bibee;6%;38%;Urías Picked off 1B (P-1B)
+;;;;;;;;;Tag play Challenged by CLE manager (Terry Francona): Original call overturned as shown.
+t5;2-1;1;---;2,(1-0) B1.X;O;MIL;Joey Wiemer;Tanner Bibee;2%;40%;Groundout: SS-1B
+t5;2-1;2;---;7,(3-2) BBCBFFB;;MIL;Christian Yelich;Tanner Bibee;-1%;39%;Walk
+t5;2-1;2;1--;1,(0-0) 1X;O;MIL;William Contreras;Tanner Bibee;2%;41%;Groundout: SS-1B (Weak SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 2, Guardians 1.
+Bottom of the 5th, Guardians Batting, Behind 1-2, Brewers' Freddy Peralta facing 8-9-1 
+b5;1-2;0;---;6,(2-2) BFSF.BT;O;CLE;Bo Naylor;Freddy Peralta;-3%;38%;Strikeout Swinging
+b5;1-2;1;---;3,(0-2) SCS;O;CLE;Myles Straw;Freddy Peralta;-2%;35%;Strikeout Swinging
+b5;1-2;2;---;1,(0-0) X;O;CLE;Steven Kwan;Freddy Peralta;-2%;34%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 2, Guardians 1.
+Top of the 6th, Brewers Batting, Ahead 2-1, Guardians' Tanner Bibee facing 3-4-5 
+t6;2-1;0;---;2,(0-1) SX;O;MIL;Rowdy Tellez;Tanner Bibee;2%;36%;Groundout: 3B-1B
+t6;2-1;1;---;5,(3-1) BBBC.B;;MIL;Willy Adames;Tanner Bibee;-3%;33%;Walk
+t6;2-1;1;1--;7,(3-2) BBCFB11>FB;;MIL;Jesse Winker;Tanner Bibee;-4%;30%;Walk; Adames to 2B
+t6;2-1;1;12-;5,(1-2) BFFFS;O;MIL;Brian Anderson;Tanner Bibee;5%;34%;Strikeout Swinging
+t6;2-1;2;12-;8,(3-2) SS.BF*BB>F>S;O;MIL;Raimel Tapia;Tanner Bibee;5%;39%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Brewers 2, Guardians 1.
+Bottom of the 6th, Guardians Batting, Behind 1-2, Brewers' Freddy Peralta facing 2-3-4 
+b6;1-2;0;---;7,(3-2) CBFBFBX;;CLE;Amed Rosario;Freddy Peralta;6%;45%;Single to CF (Ground Ball thru SS-2B)
+b6;1-2;0;1--;1,(0-0) X;;CLE;José Ramírez;Freddy Peralta;9%;55%;Single to RF (Line Drive to Short RF); Rosario to 2B
+;;;;;;;;;Hoby Milner replaces Freddy Peralta pitching
+b6;1-2;0;12-;3,(0-2) .CFX;R;CLE;Josh Naylor;Hoby Milner;15%;70%;Single to LF (Ground Ball thru SS-3B Hole); Rosario Scores; Ramírez to 2B
+b6;2-2;0;12-;5,(2-2) CBBFX;O;CLE;Josh Bell;Hoby Milner;-7%;63%;Flyball: RF (Short RF)
+b6;2-2;1;12-;6,(2-2) CFFBBS;O;CLE;Andrés Giménez;Hoby Milner;-6%;56%;Strikeout Swinging
+;;;;;;;;;Elvis Peguero replaces Hoby Milner pitching
+b6;2-2;2;12-;2,(0-1) .CX;R;CLE;David Fry;Elvis Peguero;17%;74%;Single to LF (Line Drive to Short LF); Ramírez Scores; Naylor to 2B
+b6;3-2;2;12-;1,(0-0) X;O;CLE;Bo Naylor;Elvis Peguero;-4%;70%;Groundout: 2B-1B
+;;;;;;;;;2 runs, 4 hits, 0 errors, 2 LOB. Brewers 2, Guardians 3.
+Top of the 7th, Brewers Batting, Behind 2-3, Guardians' Eli Morgan facing 8-9-1 
+;;;;;;;;;Eli Morgan replaces Tanner Bibee pitchingWill Brennan replaces David Fry playing RF batting 7th
+t7;2-3;0;---;5,(2-2) ..CBBC.X;O;MIL;Luis Urías;Eli Morgan;4%;74%;Lineout: 1B (2B-1B)
+t7;2-3;1;---;3,(0-2) SC.X;O;MIL;Joey Wiemer;Eli Morgan;3%;77%;Flyball: CF (Deep CF)
+t7;2-3;2;---;3,(0-2) SSX;O;MIL;Christian Yelich;Eli Morgan;2%;79%;Lineout: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 2, Guardians 3.
+Bottom of the 7th, Guardians Batting, Ahead 3-2, Brewers' Peter Strzelecki facing 9-1-2 
+;;;;;;;;;Peter Strzelecki replaces Elvis Peguero pitching
+b7;3-2;0;---;6,(1-2) .SCBFFS;O;CLE;Myles Straw;Peter Strzelecki;-2%;77%;Strikeout Swinging
+b7;3-2;1;---;5,(3-1) BBBCX;O;CLE;Steven Kwan;Peter Strzelecki;-1%;76%;Flyball: CF (Short CF)
+b7;3-2;2;---;3,(1-1) BCH;;CLE;Amed Rosario;Peter Strzelecki;1%;77%;Hit By Pitch
+b7;3-2;2;1--;4,(1-2) 1CSBX;;CLE;José Ramírez;Peter Strzelecki;2%;79%;Single to 1B (Ground Ball to 2B-1B); Rosario to 2B
+b7;3-2;2;12-;4,(1-2) CBS.C;O;CLE;Josh Naylor;Peter Strzelecki;-4%;75%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Brewers 2, Guardians 3.
+Top of the 8th, Brewers Batting, Behind 2-3, Guardians' Trevor Stephan facing 2-3-4 
+;;;;;;;;;Trevor Stephan replaces Eli Morgan pitching
+t8;2-3;0;---;5,(1-2) .CBCF*S;O;MIL;William Contreras;Trevor Stephan;5%;80%;Strikeout Swinging
+t8;2-3;1;---;4,(2-1) BBFX;O;MIL;Rowdy Tellez;Trevor Stephan;4%;84%;Flyball: LF (LF Line)
+t8;2-3;2;---;5,(1-2) CCFB.S;O;MIL;Willy Adames;Trevor Stephan;3%;87%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Brewers 2, Guardians 3.
+Bottom of the 8th, Guardians Batting, Ahead 3-2, Brewers' Matt Bush facing 5-6-7 
+;;;;;;;;;Matt Bush replaces Peter Strzelecki pitching
+b8;3-2;0;---;1,(0-0) .X;;CLE;Josh Bell;Matt Bush;4%;91%;Double to CF (Line Drive to Deep LF-CF)
+;;;;;;;;;Tyler Freeman pinch runs for Josh Bell (DH) batting 5th
+b8;3-2;0;-2-;4,(1-2) .BCLX;R;CLE;Andrés Giménez;Matt Bush;5%;96%;Single to CF (Line Drive to LF-CF); Freeman Scores; Giménez to 2B/Adv on E7
+b8;4-2;0;-2-;3,(1-1) S*BX;O;CLE;Will Brennan;Matt Bush;0%;96%;Groundout: 1B unassisted; Giménez to 3B
+b8;4-2;1;--3;5,(2-2) BSBFS;O;CLE;Bo Naylor;Matt Bush;-2%;94%;Strikeout Swinging
+b8;4-2;2;--3;6,(3-2) BC*BBSX;O;CLE;Myles Straw;Matt Bush;-1%;93%;Lineout: CF (Deep CF)
+;;;;;;;;;1 run, 2 hits, 1 error, 1 LOB. Brewers 2, Guardians 4.
+Top of the 9th, Brewers Batting, Behind 2-4, Guardians' Emmanuel Clase facing 5-6-7 
+;;;;;;;;;Emmanuel Clase replaces Trevor Stephan pitching
+t9;2-4;0;---;5,(1-2) ..CCBFC;O;MIL;Jesse Winker;Emmanuel Clase;4%;97%;Strikeout Looking
+t9;2-4;1;---;4,(1-2) CFBX;;MIL;Brian Anderson;Emmanuel Clase;-5%;92%;Single to CF (Line Drive to CF-RF)
+t9;2-4;1;1--;6,(3-2) *BBSSBS;O;MIL;Raimel Tapia;Emmanuel Clase;5%;97%;Strikeout Swinging
+t9;2-4;2;1--;2,(0-1) CX;O;MIL;Luis Urías;Emmanuel Clase;4%;100%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Brewers 2, Guardians 4.

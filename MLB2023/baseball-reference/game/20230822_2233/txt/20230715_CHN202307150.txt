@@ -1,0 +1,268 @@
+
+Scorebox Meta
+20230715
+1:20 p.m. Local
+40224
+Wrigley Field
+155
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;0;0;0;1;0;0;2;1;0;4;6;1
+https://cdn.ssref.net/req/202308101/tlogo/br/CHC-2023.png;/teams/CHC/2023.shtml;0;0;6;2;0;0;2;0;X;10;12;0
+
+Batting home
+Nico Hoerner;/players/h/hoernni01.shtml;SS;5;1;1;1;0;2;5;.270;.318;.372;.691;22;15;0.087; 0.72;0.112;-0.025; 0.02%; 0.25; 0.6;1;5;SB
+Seiya Suzuki;/players/s/suzukse01.shtml;RF;5;1;1;0;0;3;5;.254;.336;.396;.731;22;14;-0.035; 0.46;0.002;-0.037;-0.01%; 0.16; -0.6;3;0;SB
+Ian Happ;/players/h/happia01.shtml;LF;4;1;2;0;1;0;5;.247;.376;.383;.759;16;8;-0.006; 0.32;0.007;-0.013;-0.00%; 0.11; 0.3;1;0;
+Cody Bellinger;/players/b/bellico01.shtml;CF;4;2;2;4;1;1;5;.305;.362;.531;.893;19;13;0.108; 0.54;0.132;-0.024; 0.02%; 0.18; 3.0;4;0;HR
+Yan Gomes;/players/g/gomesya01.shtml;C;4;0;1;0;0;1;4;.262;.302;.412;.714;10;8;-0.025; 0.30;0.004;-0.029;-0.01%; 0.10; -1.7;7;1;
+Trey Mancini;/players/m/mancitr01.shtml;1B;4;1;1;0;0;1;4;.239;.305;.344;.649;16;12;-0.016; 0.17;0.001;-0.018;-0.00%; 0.06; -0.5;11;0;
+Christopher Morel;/players/m/morelch01.shtml;2B;3;1;1;1;1;2;4;.278;.332;.572;.904;15;10;0.042; 0.35;0.047;-0.005; 0.01%; 0.12; 1.0;0;4;
+Miguel Amaya;/players/a/amayami01.shtml;DH;3;2;2;1;0;1;4;.276;.403;.448;.851;11;7;0.074; 0.47;0.075;-0.001; 0.01%; 0.16; 2.2;;;2B,HBP
+Patrick Wisdom;/players/w/wisdopa01.shtml;3B;3;1;1;2;1;0;4;.192;.283;.465;.747;19;9;0.096; 0.56;0.097;-0.002; 0.02%; 0.19; 1.4;0;1;HR
+Marcus Stroman;/players/s/stromma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Julian Merryweather;/players/m/merryju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael Fulmer;/players/f/fulmemi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Daniel Palencia;/players/p/palenda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Miguel Amaya (4, off Tayler Scott).
+
+
+HR: Cody Bellinger (12, off James Paxton, 3rd inn, 3 on, 1 out to Deep CF-RF); Patrick Wisdom (15, off Tayler Scott, 4th inn, 1 on, 0 outs to Deep CF).
+
+
+HBP: Miguel Amaya (8, by James Paxton).
+
+
+TB: Cody Bellinger 5; Patrick Wisdom 4; Miguel Amaya 3; Ian Happ 2; Nico Hoerner; Trey Mancini; Christopher Morel; Seiya Suzuki; Yan Gomes.
+
+
+RBI: Cody Bellinger 4 (35); Patrick Wisdom 2 (31); Miguel Amaya (10); Christopher Morel (39); Nico Hoerner (46).
+
+
+2-out RBI: Miguel Amaya; Christopher Morel.
+
+
+Team LOB: 6.
+With RISP: 5 for 9.
+
+Batting away
+Jarren Duran;/players/d/duranja01.shtml;CF;2;0;0;0;2;1;4;.319;.369;.517;.886;21;8;0.019; 0.65;0.047;-0.028; 0.01%; 0.57; 0.5;0;0;
+Masataka Yoshida;/players/y/yoshima02.shtml;LF;4;0;0;0;0;1;4;.313;.378;.484;.862;12;8;-0.122; 0.80;0.000;-0.122;-0.06%; 0.70; -1.4;0;0;GDP
+Justin Turner;/players/t/turneju01.shtml;DH;4;1;2;1;0;0;4;.290;.361;.475;.836;22;15;0.037; 0.27;0.044;-0.007; 0.02%; 0.23; 0.7;;;2·2B
+Rafael Devers;/players/d/deverra01.shtml;3B;4;1;1;0;0;1;4;.259;.328;.512;.840;17;11;-0.039; 0.48;0.008;-0.047;-0.02%; 0.43; -0.3;2;2;2B
+Alex Verdugo;/players/v/verdual01.shtml;RF;4;0;0;1;0;1;4;.286;.356;.449;.806;17;12;-0.035; 0.43;0.000;-0.035;-0.02%; 0.38; -0.8;5;1;
+Triston Casas;/players/c/casastr01.shtml;1B;4;1;1;2;0;1;4;.230;.331;.420;.751;18;13;-0.009; 0.24;0.014;-0.023;-0.01%; 0.22; 1.1;4;1;HR
+Christian Arroyo;/players/a/arroych01.shtml;2B;4;0;1;0;0;1;4;.259;.290;.404;.693;12;9;-0.023; 0.18;0.000;-0.024;-0.01%; 0.16; -0.3;1;4;2B
+Connor Wong;/players/w/wongco01.shtml;C;3;0;1;0;0;1;3;.232;.291;.398;.689;10;8;0.033; 0.41;0.039;-0.007; 0.02%; 0.36; 0.1;8;0;
+Jorge Alfaro;/players/a/alfarjo01.shtml;C;1;0;0;0;0;0;1;.143;.211;.343;.553;3;1;-0.001; 0.02;0.000;-0.001;0%; 0.02; -0.4;3;0;
+Enrique Hernández;/players/h/hernaen02.shtml;SS;2;1;0;0;1;0;3;.219;.278;.322;.600;16;7;-0.036; 0.59;0.004;-0.039;-0.02%; 0.52; -0.1;1;1;
+James Paxton;/players/p/paxtoja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tayler Scott;/players/s/scottta02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joely Rodríguez;/players/r/rodrijo06.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joe Jacques;/players/j/jacqujo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brandon Walter;/players/w/waltebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Justin Turner 2 (21, 2 off Marcus Stroman); Rafael Devers (21, off Julian Merryweather); Christian Arroyo (15, off Daniel Palencia).
+
+
+HR: Triston Casas (11, off Julian Merryweather, 7th inn, 1 on, 1 out to Deep CF-RF).
+
+
+TB: Triston Casas 4; Justin Turner 4; Rafael Devers 2; Christian Arroyo 2; Connor Wong.
+
+
+GIDP: Masataka Yoshida (11).
+
+
+RBI: Triston Casas 2 (30); Alex Verdugo (39); Justin Turner (56).
+
+
+Team LOB: 4.
+With RISP: 1 for 10.
+
+Pitching home
+Marcus Stroman;/players/s/stromma01.shtml; W (10-6); 6 ;3;1;1;1;3;0;2.88;21;91;54;33;3;18;8;9;2;0;64;;;0.177; 0.64; 0.04%; 0.22; 2.3
+Julian Merryweather;/players/m/merryju01.shtml;Julian Merryweather; 1 ;2;2;2;0;2;1;3.72;5;20;16;8;6;2;0;3;0;0;;0;0;-0.006; 0.16;-0.00%; 0.05; -1.4
+Michael Fulmer;/players/f/fulmemi01.shtml;Michael Fulmer; 1 ;0;1;1;2;1;0;4.61;5;22;12;4;3;5;2;0;0;0;;0;0;0.002; 0.20; 0.00%; 0.07; -0.5
+Daniel Palencia;/players/p/palenda01.shtml;Daniel Palencia; 1 ;1;0;0;0;1;0;0.00;4;15;10;7;2;1;1;2;2;0;;0;0;0.003; 0.03; 0.00%; 0.01; 0.6
+
+Pitching away
+James Paxton;/players/p/paxtoja01.shtml; L (5-2); 3 ;3;6;6;3;4;1;3.51;16;63;39;25;11;3;4;4;2;0;30;;;-0.285; 0.97;-0.15%; 0.85; -4.3
+Tayler Scott;/players/s/scottta02.shtml;Tayler Scott; 1 ;3;2;2;1;1;1;7.45;7;29;17;11;1;5;0;5;3;0;;0;0;-0.033; 0.12;-0.02%; 0.10; -1.4
+Joely Rodríguez;/players/r/rodrijo06.shtml;Joely Rodríguez; 1 ;0;0;0;0;2;0;12.00;3;10;8;2;3;3;1;0;0;0;;0;0;0.003; 0.04; 0.00%; 0.03; 0.6
+Joe Jacques;/players/j/jacqujo01.shtml;Joe Jacques; 1 ;0;0;0;0;1;0;4.63;3;14;8;3;1;4;2;0;0;0;;0;0;0.002; 0.02; 0.00%; 0.02; 0.6
+Brandon Walter;/players/w/waltebr01.shtml;Brandon Walter; 2 ;6;2;2;0;3;0;3.29;11;34;24;14;5;5;3;5;3;0;;0;0;-0.011; 0.07;-0.01%; 0.07; -0.9
+
+indiv_events
+
+Balks: None.
+WP: Daniel Palencia (1).
+HBP: James Paxton (2; Miguel Amaya).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Daniel Palencia (1).
+HBP: James Paxton (2; Miguel Amaya).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Jeff Nelson, 1B - Jose Navas, 2B - David Arrieta, 3B - Chris Segal, LF - (none), RF - (none).
+Time of Game: 2:35.
+Attendance: 40,224.
+Field Condition: Unknown.
+Start Time Weather: 83° F, Wind 8mph out to Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Red Sox
+1;Jarren Duran;/players/d/duranja01.shtml;CF
+2;Masataka Yoshida;/players/y/yoshima02.shtml;LF
+3;Justin Turner;/players/t/turneju01.shtml;DH
+4;Rafael Devers;/players/d/deverra01.shtml;3B
+5;Alex Verdugo;/players/v/verdual01.shtml;RF
+6;Triston Casas;/players/c/casastr01.shtml;1B
+7;Christian Arroyo;/players/a/arroych01.shtml;2B
+8;Connor Wong;/players/w/wongco01.shtml;C
+9;Enrique Hernández;/players/h/hernaen02.shtml;SS
+; James Paxton;/players/p/paxtoja01.shtml;P
+Cubs
+1;Nico Hoerner;/players/h/hoernni01.shtml;SS
+2;Seiya Suzuki;/players/s/suzukse01.shtml;RF
+3;Ian Happ;/players/h/happia01.shtml;LF
+4;Cody Bellinger;/players/b/bellico01.shtml;CF
+5;Yan Gomes;/players/g/gomesya01.shtml;C
+6;Trey Mancini;/players/m/mancitr01.shtml;1B
+7;Christopher Morel;/players/m/morelch01.shtml;2B
+8;Miguel Amaya;/players/a/amayami01.shtml;DH
+9;Patrick Wisdom;/players/w/wisdopa01.shtml;3B
+; Marcus Stroman;/players/s/stromma01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;2-0;1;123;2,(0-1) SX;RRRR;CHC;Cody Bellinger;James Paxton;13%;95%;Home Run (Line Drive to Deep CF-RF); Hoerner Scores; Suzuki Scores; Happ Scores
+t3;0-0;1;12-;4,(1-2) C*BFX;OO;BOS;Masataka Yoshida;Marcus Stroman;10%;56%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+b3;0-0;0;123;4,(1-2) FBFX;R;CHC;Nico Hoerner;James Paxton;8%;80%;Single to SS (Ground Ball); Morel Scores; Amaya to 3B; Wisdom to 2B
+b3;0-0;0;12-;7,(3-2) BFBBFFB;;CHC;Patrick Wisdom;James Paxton;7%;73%;Walk; Morel to 3B; Amaya to 2B
+b3;0-0;0;1--;2,(0-1) CH;;CHC;Miguel Amaya;James Paxton;6%;65%;Hit By Pitch; Morel to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Red Sox Batting, Tied 0-0, Cubs' Marcus Stroman facing 1-2-3 
+t1;0-0;0;---;5,(3-1) BBBCX;O;BOS;Jarren Duran;Marcus Stroman;2%;52%;Groundout: 2B-1B
+t1;0-0;1;---;5,(2-2) CBBFC;O;BOS;Masataka Yoshida;Marcus Stroman;2%;54%;Strikeout Looking
+t1;0-0;2;---;5,(2-2) FBBFX;;BOS;Justin Turner;Marcus Stroman;-2%;52%;Ground-rule Double (Fly Ball to Deep LF Line)
+t1;0-0;2;-2-;6,(3-2) CBBFBX;O;BOS;Rafael Devers;Marcus Stroman;3%;55%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 0, Cubs 0.
+Bottom of the 1st, Cubs Batting, Tied 0-0, Red Sox' James Paxton facing 1-2-3 
+b1;0-0;0;---;6,(2-2) FBS.FBS;O;CHC;Nico Hoerner;James Paxton;-2%;53%;Strikeout Swinging
+b1;0-0;1;---;3,(0-2) CSS;O;CHC;Seiya Suzuki;James Paxton;-2%;51%;Strikeout Swinging
+b1;0-0;2;---;2,(1-0) BX;O;CHC;Ian Happ;James Paxton;-1%;50%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Cubs 0.
+Top of the 2nd, Red Sox Batting, Tied 0-0, Cubs' Marcus Stroman facing 5-6-7 
+t2;0-0;0;---;8,(3-2) CBFFBFBS;O;BOS;Alex Verdugo;Marcus Stroman;2%;52%;Strikeout Swinging
+t2;0-0;1;---;1,(0-0) X;O;BOS;Triston Casas;Marcus Stroman;2%;54%;Groundout: SS-1B (SS-2B)
+t2;0-0;2;---;5,(2-2) BCFBX;O;BOS;Christian Arroyo;Marcus Stroman;1%;55%;Flyball: RF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Cubs 0.
+Bottom of the 2nd, Cubs Batting, Tied 0-0, Red Sox' James Paxton facing 4-5-6 
+b2;0-0;0;---;3,(1-1) BS.X;O;CHC;Cody Bellinger;James Paxton;-2%;53%;Flyball: RF (CF-RF)
+b2;0-0;1;---;3,(1-1) BFX;O;CHC;Yan Gomes;James Paxton;-2%;51%;Flyball: RF (CF-RF)
+b2;0-0;2;---;5,(1-2) BSFFS;O;CHC;Trey Mancini;James Paxton;-1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Cubs 0.
+Top of the 3rd, Red Sox Batting, Tied 0-0, Cubs' Marcus Stroman facing 8-9-1 
+t3;0-0;0;---;3,(0-2) CFX;;BOS;Connor Wong;Marcus Stroman;-4%;46%;Single to CF (Line Drive)
+t3;0-0;0;1--;4,(2-1) SBBX;O;BOS;Enrique Hernández;Marcus Stroman;4%;50%;Flyball: CF (Deep CF)
+t3;0-0;1;1--;3,(3-0) VBBB;;BOS;Jarren Duran;Marcus Stroman;-4%;46%;Walk; Wong to 2B
+t3;0-0;1;12-;4,(1-2) C*BFX;OO;BOS;Masataka Yoshida;Marcus Stroman;10%;56%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 0, Cubs 0.
+Bottom of the 3rd, Cubs Batting, Tied 0-0, Red Sox' James Paxton facing 7-8-9 
+b3;0-0;0;---;6,(3-2) BFFBBB;;CHC;Christopher Morel;James Paxton;4%;60%;Walk
+b3;0-0;0;1--;2,(0-1) CH;;CHC;Miguel Amaya;James Paxton;6%;65%;Hit By Pitch; Morel to 2B
+b3;0-0;0;12-;7,(3-2) BFBBFFB;;CHC;Patrick Wisdom;James Paxton;7%;73%;Walk; Morel to 3B; Amaya to 2B
+b3;0-0;0;123;4,(1-2) FBFX;R;CHC;Nico Hoerner;James Paxton;8%;80%;Single to SS (Ground Ball); Morel Scores; Amaya to 3B; Wisdom to 2B
+b3;1-0;0;123;2,(1-0) BX;RO;CHC;Seiya Suzuki;James Paxton;-2%;78%;Groundout: 3B unassisted/Forceout at 3B (Weak 3B); Amaya Scores/Adv on E5 (throw)/No RBI; Hoerner to 2B; Suzuki to 1B
+b3;2-0;1;12-;3,(2-0) BB>B;;CHC;Ian Happ;James Paxton;3%;82%;Hoerner Steals 3B; Suzuki Steals 2B
+b3;2-0;1;-23;5,(3-1) BB>B.FB;;CHC;Ian Happ;James Paxton;0%;82%;Walk
+b3;2-0;1;123;2,(0-1) SX;RRRR;CHC;Cody Bellinger;James Paxton;13%;95%;Home Run (Line Drive to Deep CF-RF); Hoerner Scores; Suzuki Scores; Happ Scores
+b3;6-0;1;---;1,(0-0) X;;CHC;Yan Gomes;James Paxton;0%;95%;Single to CF (Line Drive to Deep LF-CF)
+b3;6-0;1;1--;8,(2-2) SSB*BFFFX;O;CHC;Trey Mancini;James Paxton;0%;95%;Groundout: 2B-SS/Forceout at 2B; Mancini to 1B
+b3;6-0;2;1--;4,(1-2) CFBS;O;CHC;Christopher Morel;James Paxton;0%;95%;Strikeout Swinging
+;;;;;;;;;6 runs, 3 hits, 1 error, 1 LOB. Red Sox 0, Cubs 6.
+Top of the 4th, Red Sox Batting, Behind 0-6, Cubs' Marcus Stroman facing 3-4-5 
+t4;0-6;0;---;5,(1-2) BCCFX;;BOS;Justin Turner;Marcus Stroman;-2%;92%;Double to RF (Fly Ball to Deep CF-RF)
+t4;0-6;0;-2-;4,(2-1) BF*BX;O;BOS;Rafael Devers;Marcus Stroman;1%;93%;Groundout: SS-1B (SS-2B); Turner to 3B
+t4;0-6;1;--3;4,(2-1) *BCBX;RO;BOS;Alex Verdugo;Marcus Stroman;0%;94%;Groundout: SS-1B; Turner Scores
+t4;1-6;2;---;2,(0-1) CX;O;BOS;Triston Casas;Marcus Stroman;1%;94%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Red Sox 1, Cubs 6.
+Bottom of the 4th, Cubs Batting, Ahead 6-1, Red Sox' Tayler Scott facing 8-9-1 
+;;;;;;;;;Tayler Scott replaces James Paxton pitching
+b4;6-1;0;---;2,(1-0) .BX;;CHC;Miguel Amaya;Tayler Scott;1%;95%;Double to RF (Line Drive to Deep RF)
+b4;6-1;0;-2-;3,(2-0) BBX;RR;CHC;Patrick Wisdom;Tayler Scott;2%;98%;Home Run (Fly Ball to Deep CF); Amaya Scores
+b4;8-1;0;---;2,(0-1) CX;O;CHC;Nico Hoerner;Tayler Scott;0%;98%;Lineout: RF (Deep CF-RF)
+b4;8-1;1;---;6,(2-2) BCFBFX;;CHC;Seiya Suzuki;Tayler Scott;0%;98%;Single to RF (Line Drive to RF Line)
+b4;8-1;1;1--;5,(2-2) FBFBX;O;CHC;Ian Happ;Tayler Scott;0%;98%;Popfly: 2B (2B-1B)
+b4;8-1;2;1--;7,(3-2) BB*BCC>F>B;;CHC;Cody Bellinger;Tayler Scott;0%;98%;Walk; Suzuki to 2B
+b4;8-1;2;12-;4,(1-2) CBFS;O;CHC;Yan Gomes;Tayler Scott;0%;98%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Red Sox 1, Cubs 8.
+Top of the 5th, Red Sox Batting, Behind 1-8, Cubs' Marcus Stroman facing 7-8-9 
+t5;1-8;0;---;2,(0-1) FX;O;BOS;Christian Arroyo;Marcus Stroman;1%;98%;Groundout: 2B-1B
+t5;1-8;1;---;3,(1-1) CBX;O;BOS;Connor Wong;Marcus Stroman;0%;98%;Lineout: RF
+t5;1-8;2;---;6,(3-2) BBCCBX;O;BOS;Enrique Hernández;Marcus Stroman;0%;99%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 1, Cubs 8.
+Bottom of the 5th, Cubs Batting, Ahead 8-1, Red Sox' Joely Rodríguez facing 6-7-8 
+;;;;;;;;;Joely Rodríguez replaces Tayler Scott pitching
+b5;8-1;0;---;2,(1-0) .BX;O;CHC;Trey Mancini;Joely Rodríguez;0%;98%;Groundout: 3B-1B (SS-3B Hole)
+b5;8-1;1;---;3,(0-2) CSS;O;CHC;Christopher Morel;Joely Rodríguez;0%;98%;Strikeout Swinging
+b5;8-1;2;---;5,(1-2) SC.BFC;O;CHC;Miguel Amaya;Joely Rodríguez;0%;98%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 1, Cubs 8.
+Top of the 6th, Red Sox Batting, Behind 1-8, Cubs' Marcus Stroman facing 1-2-3 
+t6;1-8;0;---;6,(3-2) BBBCFC;O;BOS;Jarren Duran;Marcus Stroman;0%;99%;Strikeout Looking
+t6;1-8;1;---;2,(1-0) BX;O;BOS;Masataka Yoshida;Marcus Stroman;0%;99%;Flyball: LF
+t6;1-8;2;---;8,(3-2) BCSFBFBX;O;BOS;Justin Turner;Marcus Stroman;0%;99%;Flyball: CF (CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 1, Cubs 8.
+Bottom of the 6th, Cubs Batting, Ahead 8-1, Red Sox' Joe Jacques facing 9-1-2 
+;;;;;;;;;Joe Jacques replaces Joely Rodríguez pitching
+b6;8-1;0;---;3,(1-1) .CBX;O;CHC;Patrick Wisdom;Joe Jacques;0%;99%;Groundout: 3B-1B
+b6;8-1;1;---;5,(2-2) BFBCX;O;CHC;Nico Hoerner;Joe Jacques;0%;99%;Groundout: 2B-1B
+b6;8-1;2;---;6,(3-2) BBCBSC;O;CHC;Seiya Suzuki;Joe Jacques;0%;99%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 1, Cubs 8.
+Top of the 7th, Red Sox Batting, Behind 1-8, Cubs' Julian Merryweather facing 4-5-6 
+;;;;;;;;;Julian Merryweather replaces Marcus Stroman pitching
+t7;1-8;0;---;3,(0-2) .CFX;;BOS;Rafael Devers;Julian Merryweather;-1%;98%;Double to CF (Fly Ball to Deep CF)
+t7;1-8;0;-2-;2,(0-1) CX;O;BOS;Alex Verdugo;Julian Merryweather;1%;99%;Flyball: CF
+t7;1-8;1;-2-;8,(3-2) BFBF*BFFX;RR;BOS;Triston Casas;Julian Merryweather;-1%;97%;Home Run (Fly Ball to Deep CF-RF); Devers Scores
+t7;3-8;1;---;3,(0-2) SSS;O;BOS;Christian Arroyo;Julian Merryweather;1%;98%;Strikeout Swinging
+t7;3-8;2;---;4,(1-2) SSB*S;O;BOS;Connor Wong;Julian Merryweather;0%;98%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Red Sox 3, Cubs 8.
+Bottom of the 7th, Cubs Batting, Ahead 8-3, Red Sox' Brandon Walter facing 3-4-5 
+;;;;;;;;;Brandon Walter replaces Joe Jacques pitchingJorge Alfaro replaces Connor Wong playing C batting 8th
+b7;8-3;0;---;2,(1-0) ..BX;;CHC;Ian Happ;Brandon Walter;0%;99%;Single to CF (Ground Ball thru SS-2B)
+b7;8-3;0;1--;3,(0-2) CCX;;CHC;Cody Bellinger;Brandon Walter;0%;99%;Single to CF (Ground Ball thru SS-2B); Happ to 2B
+b7;8-3;0;12-;2,(0-1) SX;OO;CHC;Yan Gomes;Brandon Walter;-1%;98%;Double Play: Flyball: RF (Deep RF); Happ out at 3B/RF-SS-1B-2B-1B-3B
+;;;;;;;;;Tag play Challenged by CHC manager (David Ross): Original call upheld upon review.
+b7;8-3;2;1--;1,(0-0) 1X;;CHC;Trey Mancini;Brandon Walter;0%;98%;Single to RF (Ground Ball thru 2B-1B); Bellinger to 2B
+b7;8-3;2;12-;2,(0-1) FX;R;CHC;Christopher Morel;Brandon Walter;1%;99%;Single to LF (Line Drive); Bellinger Scores; Mancini to 2B
+b7;9-3;2;12-;2,(1-0) BX;R;CHC;Miguel Amaya;Brandon Walter;0%;100%;Single to CF (Line Drive to CF-RF); Mancini Scores; Morel to 3B
+b7;10-3;2;1-3;6,(3-2) FBBFB>X;O;CHC;Patrick Wisdom;Brandon Walter;0%;100%;Flyball: RF (CF-RF)
+;;;;;;;;;2 runs, 5 hits, 0 errors, 2 LOB. Red Sox 3, Cubs 10.
+Top of the 8th, Red Sox Batting, Behind 3-10, Cubs' Michael Fulmer facing 9-1-2 
+;;;;;;;;;Michael Fulmer replaces Julian Merryweather pitching
+t8;3-10;0;---;6,(3-2) .BSBBF.B;;BOS;Enrique Hernández;Michael Fulmer;0%;99%;Walk
+t8;3-10;0;1--;7,(3-2) BBBCCFB;;BOS;Jarren Duran;Michael Fulmer;-1%;98%;Walk; Hernández to 2B
+t8;3-10;0;12-;1,(0-0) X;O;BOS;Masataka Yoshida;Michael Fulmer;1%;99%;Groundout: 1B unassisted; Hernández to 3B; Duran to 2B
+t8;3-10;1;-23;4,(1-2) BCSX;RO;BOS;Justin Turner;Michael Fulmer;1%;99%;Groundout: 3B-1B (P's Right); Hernández Scores; Duran to 3B
+t8;4-10;2;--3;4,(1-2) CBSC;O;BOS;Rafael Devers;Michael Fulmer;0%;100%;Strikeout Looking
+;;;;;;;;;1 run, 0 hits, 0 errors, 1 LOB. Red Sox 4, Cubs 10.
+Bottom of the 8th, Cubs Batting, Ahead 10-4, Red Sox' Brandon Walter facing 1-2-3 
+b8;10-4;0;---;5,(2-2) CFBBS;O;CHC;Nico Hoerner;Brandon Walter;0%;100%;Strikeout Swinging
+b8;10-4;1;---;5,(2-2) BCBFS;O;CHC;Seiya Suzuki;Brandon Walter;0%;100%;Strikeout Swinging
+b8;10-4;2;---;2,(0-1) CX;;CHC;Ian Happ;Brandon Walter;0%;100%;Single to RF (Line Drive)
+b8;10-4;2;1--;4,(1-2) F.SBS;O;CHC;Cody Bellinger;Brandon Walter;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 4, Cubs 10.
+Top of the 9th, Red Sox Batting, Behind 4-10, Cubs' Daniel Palencia facing 5-6-7 
+;;;;;;;;;Daniel Palencia replaces Michael Fulmer pitching
+t9;4-10;0;---;3,(0-2) .S.FX;O;BOS;Alex Verdugo;Daniel Palencia;0%;100%;Lineout: RF (Deep CF-RF)
+t9;4-10;1;---;7,(2-2) BCBF.FFS;O;BOS;Triston Casas;Daniel Palencia;0%;100%;Strikeout Swinging
+t9;4-10;2;---;2,(1-0) BX;;BOS;Christian Arroyo;Daniel Palencia;0%;100%;Double to LF (Line Drive to Deep LF-CF)
+t9;4-10;2;-2-;2,(1-0) BB;;BOS;Jorge Alfaro;Daniel Palencia;0%;100%;Wild Pitch; Arroyo to 3B
+t9;4-10;2;--3;3,(2-0) BB.X;O;BOS;Jorge Alfaro;Daniel Palencia;0%;100%;Groundout: C-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 4, Cubs 10.

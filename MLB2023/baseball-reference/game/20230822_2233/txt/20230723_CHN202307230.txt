@@ -1,0 +1,261 @@
+
+Scorebox Meta
+20230723
+1:20 p.m. Local
+38223
+Wrigley Field
+153
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/STL-2023.png;/teams/STL/2023.shtml;0;0;0;0;0;1;0;1;0;2;9;1
+https://cdn.ssref.net/req/202308101/tlogo/br/CHC-2023.png;/teams/CHC/2023.shtml;2;0;5;0;0;0;0;0;X;7;7;0
+
+Batting home
+Nico Hoerner;/players/h/hoernni01.shtml;2B;4;0;1;0;0;0;4;.273;.327;.384;.711;15;9;-0.052; 0.46;0.004;-0.055;-0.01%; 0.21; -0.6;3;2;2B
+Seiya Suzuki;/players/s/suzukse01.shtml;RF;3;1;0;0;1;0;4;.262;.340;.401;.741;18;8;-0.008; 0.41;0.012;-0.020;-0.00%; 0.18; -0.6;1;0;
+Ian Happ;/players/h/happia01.shtml;LF;4;2;1;0;0;1;4;.246;.372;.386;.758;11;9;0.048; 0.47;0.051;-0.004; 0.01%; 0.21; 0.3;1;0;
+Cody Bellinger;/players/b/bellico01.shtml;CF;3;1;1;3;0;1;4;.319;.369;.549;.918;14;10;0.183; 0.62;0.184;-0.002; 0.05%; 0.28; 1.4;1;0;HR,SF
+Dansby Swanson;/players/s/swansda01.shtml;SS;4;1;2;1;0;1;4;.264;.348;.414;.763;18;11;0.044; 0.33;0.054;-0.009; 0.01%; 0.15; 1.0;1;6;
+Yan Gomes;/players/g/gomesya01.shtml;DH;4;1;1;2;0;0;4;.263;.305;.418;.723;13;8;0.049; 0.32;0.067;-0.018; 0.01%; 0.14; 1.3;;;2B
+Trey Mancini;/players/m/mancitr01.shtml;1B;4;0;1;1;0;1;4;.237;.300;.342;.643;10;8;0.004; 0.20;0.019;-0.015; 0.00%; 0.09; 0.2;11;0;2B
+Miguel Amaya;/players/a/amayami01.shtml;C;3;0;0;0;0;0;4;.263;.380;.395;.775;11;9;-0.011; 0.13;0.003;-0.013;-0.00%; 0.06; -0.4;9;0;HBP
+Patrick Wisdom;/players/w/wisdopa01.shtml;3B;2;1;0;0;1;2;3;.195;.295;.481;.776;17;8;0.039; 0.45;0.044;-0.004; 0.01%; 0.20; -0.0;0;3;SB
+Jameson Taillon;/players/t/taillja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael Rucker;/players/r/ruckemi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Anthony Kay;/players/k/kayan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Javier Assad;/players/a/assadja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Yan Gomes (5, off Jordan Montgomery); Trey Mancini (12, off Jordan Montgomery); Nico Hoerner (17, off Jordan Montgomery).
+
+
+HR: Cody Bellinger (14, off Jordan Montgomery, 1st inn, 1 on, 2 outs to Deep CF).
+
+
+SF: Cody Bellinger (6, off Jordan Montgomery).
+
+
+HBP: Miguel Amaya (9, by Jordan Montgomery).
+
+
+TB: Cody Bellinger 4; Trey Mancini 2; Dansby Swanson 2; Yan Gomes 2; Nico Hoerner 2; Ian Happ.
+
+
+RBI: Cody Bellinger 3 (44); Yan Gomes 2 (35); Dansby Swanson (38); Trey Mancini (27).
+
+
+2-out RBI: Yan Gomes 2; Cody Bellinger 2; Dansby Swanson; Trey Mancini.
+
+
+Team LOB: 4.
+With RISP: 4 for 12.
+
+Batting away
+Brendan Donovan;/players/d/donovbr01.shtml;DH;5;0;1;0;0;0;5;.285;.371;.430;.801;26;17;-0.037; 0.35;0.005;-0.042;-0.00%; 0.05; -0.6;;;
+Lars Nootbaar;/players/n/nootbla01.shtml;RF;3;0;0;0;0;0;3;.261;.360;.393;.753;10;8;-0.032; 0.41;0.000;-0.032;-0.00%; 0.06; -0.9;2;0;
+Jordan Walker;/players/w/walkejo02.shtml;PH-RF;2;0;0;0;0;1;2;.276;.338;.442;.780;7;4;-0.004; 0.07;0.000;-0.004;0%; 0.01; -0.3;0;0;
+Nolan Arenado;/players/a/arenano01.shtml;3B;4;0;3;0;0;0;4;.291;.340;.523;.863;18;10;0.026; 0.21;0.028;-0.002; 0.00%; 0.03; 0.7;0;2;
+Tyler O'Neill;/players/o/oneilty01.shtml;LF;3;1;0;0;1;2;4;.229;.308;.333;.641;22;14;-0.038; 0.37;0.008;-0.047;-0.00%; 0.05; -0.8;2;0;GDP
+Alec Burleson;/players/b/burleal01.shtml;1B;4;1;2;0;0;1;4;.243;.294;.396;.690;17;15;-0.022; 0.36;0.010;-0.031;-0.00%; 0.05; -0.1;11;1;2B
+Iván Herrera;/players/h/herreiv01.shtml;C;4;0;1;0;0;2;4;.348;.423;.391;.814;21;14;-0.031; 0.34;0.004;-0.034;-0.00%; 0.05; -0.9;5;1;
+Dylan Carlson;/players/c/carlsdy01.shtml;CF;4;0;2;2;0;1;4;.238;.343;.362;.705;17;12;0.002; 0.26;0.018;-0.017;0%; 0.04; 1.6;2;0;
+Taylor Motter;/players/m/motteta01.shtml;2B;3;0;0;0;1;2;4;.174;.269;.261;.530;17;11;-0.022; 0.45;0.013;-0.035;-0.00%; 0.06; -0.4;0;3;
+Paul DeJong;/players/d/dejonpa01.shtml;SS;3;0;0;0;1;0;4;.232;.298;.421;.719;14;6;-0.045; 0.47;0.003;-0.048;-0.00%; 0.07; -1.1;1;2;
+Jordan Montgomery;/players/m/montgjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Zack Thompson;/players/t/thompza02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Alec Burleson (11, off Jameson Taillon).
+
+
+TB: Alec Burleson 3; Nolan Arenado 3; Dylan Carlson 2; Iván Herrera; Brendan Donovan.
+
+
+GIDP: Tyler O'Neill (3).
+
+
+RBI: Dylan Carlson 2 (23).
+
+
+2-out RBI: Dylan Carlson 2.
+
+
+Team LOB: 9.
+With RISP: 3 for 8.
+
+Pitching home
+Jameson Taillon;/players/t/taillja01.shtml; W (4-6); 5.2;8;1;1;1;6;0;5.75;25;109;75;46;11;18;12;6;4;0;54;;;0.169; 0.40; 0.05%; 0.18; 1.8
+Michael Rucker;/players/r/ruckemi01.shtml;Michael Rucker; 0.1;0;0;0;1;0;0;5.17;2;10;4;3;0;1;1;0;0;0;;2;0;0.012; 0.69; 0.00%; 0.31; 0.5
+Anthony Kay;/players/k/kayan01.shtml;Anthony Kay; 1.1;0;1;1;1;1;0;1.93;5;22;12;9;2;1;1;2;1;0;;0;0;0.011; 0.19; 0.00%; 0.09; 0.5
+Javier Assad;/players/a/assadja01.shtml;Javier Assad; 1.2;1;0;0;0;2;0;3.65;6;28;20;14;2;4;3;1;1;0;;1;1;0.011; 0.15; 0.00%; 0.07; 0.1
+
+Pitching away
+Jordan Montgomery;/players/m/montgjo01.shtml; L (6-8); 6 ;6;7;5;2;4;1;3.37;28;98;61;36;10;15;7;14;6;0;38;;;-0.300; 0.45;-0.03%; 0.07; -3.7
+Zack Thompson;/players/t/thompza02.shtml;Zack Thompson; 2 ;1;0;0;0;2;0;5.06;7;29;19;8;2;9;4;1;1;0;;0;0;0.003; 0.03; 0.00%; 0.00; 1.1
+
+indiv_events
+
+Balks: Javier Assad (1).
+WP: Jordan Montgomery (3).
+HBP: Jordan Montgomery (3; Miguel Amaya).
+IBB: None.
+Pickoffs: None.
+
+Balks: Javier Assad (1).
+WP: Jordan Montgomery (3).
+HBP: Jordan Montgomery (3; Miguel Amaya).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Brock Ballou, 1B - Jansen Visconti, 2B - Ron Kulpa, 3B - Cory Blaser, LF - (none), RF - (none).
+Time of Game: 2:33.
+Attendance: 38,223.
+Field Condition: Unknown.
+Start Time Weather: 78° F, Wind 3mph in from Rightfield, Sunny, No Precipitation.
+
+div_lineups
+Cardinals
+1;Brendan Donovan;/players/d/donovbr01.shtml;DH
+2;Lars Nootbaar;/players/n/nootbla01.shtml;RF
+3;Nolan Arenado;/players/a/arenano01.shtml;3B
+4;Tyler O'Neill;/players/o/oneilty01.shtml;LF
+5;Alec Burleson;/players/b/burleal01.shtml;1B
+6;Iván Herrera;/players/h/herreiv01.shtml;C
+7;Dylan Carlson;/players/c/carlsdy01.shtml;CF
+8;Taylor Motter;/players/m/motteta01.shtml;2B
+9;Paul DeJong;/players/d/dejonpa01.shtml;SS
+; Jordan Montgomery;/players/m/montgjo01.shtml;P
+Cubs
+1;Nico Hoerner;/players/h/hoernni01.shtml;2B
+2;Seiya Suzuki;/players/s/suzukse01.shtml;RF
+3;Ian Happ;/players/h/happia01.shtml;LF
+4;Cody Bellinger;/players/b/bellico01.shtml;CF
+5;Dansby Swanson;/players/s/swansda01.shtml;SS
+6;Yan Gomes;/players/g/gomesya01.shtml;DH
+7;Trey Mancini;/players/m/mancitr01.shtml;1B
+8;Miguel Amaya;/players/a/amayami01.shtml;C
+9;Patrick Wisdom;/players/w/wisdopa01.shtml;3B
+; Jameson Taillon;/players/t/taillja01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-0;2;1--;3,(1-1) BCX;RR;CHC;Cody Bellinger;Jordan Montgomery;18%;70%;Home Run (Fly Ball to Deep CF); Happ Scores/unER; Bellinger Scores/unER
+b3;4-0;2;12-;3,(0-2) FFX;RR;CHC;Yan Gomes;Jordan Montgomery;7%;95%;Double to LF (Line Drive to Deep LF-CF); Happ Scores; Swanson Scores
+b3;3-0;2;1-3;4,(1-2) S*BSX;R;CHC;Dansby Swanson;Jordan Montgomery;5%;88%;Single to CF (Line Drive); Suzuki Scores; Happ to 2B
+b3;2-0;1;12-;2,(0-1) MX;;CHC;Ian Happ;Jordan Montgomery;4%;82%;Single to RF (Line Drive to Short RF); Wisdom to 3B; Suzuki to 2B
+b3;2-0;0;-2-;2,(0-1) >C.X;O;CHC;Nico Hoerner;Jordan Montgomery;-3%;77%;Flyball: RF (Short RF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Cardinals Batting, Tied 0-0, Cubs' Jameson Taillon facing 1-2-3 
+t1;0-0;0;---;4,(2-1) CBBX;O;STL;Brendan Donovan;Jameson Taillon;2%;52%;Groundout: SS-1B (Deep SS-2B)
+t1;0-0;1;---;3,(0-2) CFX;O;STL;Lars Nootbaar;Jameson Taillon;2%;54%;Groundout: 1B unassisted (Weak 1B)
+t1;0-0;2;---;3,(2-0) BBX;;STL;Nolan Arenado;Jameson Taillon;-1%;53%;Single to LF (Line Drive to Deep LF)
+t1;0-0;2;1--;7,(2-2) CT*BF>FBS;O;STL;Tyler O'Neill;Jameson Taillon;2%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cardinals 0, Cubs 0.
+Bottom of the 1st, Cubs Batting, Tied 0-0, Cardinals' Jordan Montgomery facing 1-2-3 
+b1;0-0;0;---;5,(2-2) BBCFX;O;CHC;Nico Hoerner;Jordan Montgomery;-2%;53%;Popfly: SS (Weak SS)
+b1;0-0;1;---;6,(3-2) BBSSBX;O;CHC;Seiya Suzuki;Jordan Montgomery;-2%;51%;Groundout: 2B-1B (Deep SS-2B)
+b1;0-0;2;---;4,(2-1) CBBX;;CHC;Ian Happ;Jordan Montgomery;1%;52%;Reached on E1 (Ground Ball to Front of Home); Happ to 1B
+b1;0-0;2;1--;3,(1-1) BCX;RR;CHC;Cody Bellinger;Jordan Montgomery;18%;70%;Home Run (Fly Ball to Deep CF); Happ Scores/unER; Bellinger Scores/unER
+b1;2-0;2;---;5,(2-2) BCFBX;O;CHC;Dansby Swanson;Jordan Montgomery;-1%;69%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;2 runs, 1 hit, 1 error, 0 LOB. Cardinals 0, Cubs 2.
+Top of the 2nd, Cardinals Batting, Behind 0-2, Cubs' Jameson Taillon facing 5-6-7 
+t2;0-2;0;---;10,(2-2) BBFFFFFFFX;O;STL;Alec Burleson;Jameson Taillon;2%;71%;Groundout: 3B-1B (SS-3B Hole)
+t2;0-2;1;---;4,(1-2) CFBX;O;STL;Iván Herrera;Jameson Taillon;2%;73%;Foul Popfly: 1B (1B into Foul Terr.)
+t2;0-2;2;---;2,(1-0) BX;O;STL;Dylan Carlson;Jameson Taillon;1%;74%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 0, Cubs 2.
+Bottom of the 2nd, Cubs Batting, Ahead 2-0, Cardinals' Jordan Montgomery facing 6-7-8 
+b2;2-0;0;---;4,(2-1) BBCX;O;CHC;Yan Gomes;Jordan Montgomery;-2%;72%;Foul Popfly: 1B (1B into Foul Terr.)
+b2;2-0;1;---;3,(0-2) FSX;O;CHC;Trey Mancini;Jordan Montgomery;-1%;71%;Lineout: LF (Deep LF)
+b2;2-0;2;---;2,(0-1) TX;O;CHC;Miguel Amaya;Jordan Montgomery;-1%;70%;Popfly: 1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 0, Cubs 2.
+Top of the 3rd, Cardinals Batting, Behind 0-2, Cubs' Jameson Taillon facing 8-9-1 
+t3;0-2;0;---;5,(1-2) CBSFS;O;STL;Taylor Motter;Jameson Taillon;3%;73%;Strikeout Swinging
+t3;0-2;1;---;3,(1-1) BSX;O;STL;Paul DeJong;Jameson Taillon;2%;75%;Groundout: SS-1B (Deep SS)
+t3;0-2;2;---;5,(2-2) CBBSX;O;STL;Brendan Donovan;Jameson Taillon;1%;76%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 0, Cubs 2.
+Bottom of the 3rd, Cubs Batting, Ahead 2-0, Cardinals' Jordan Montgomery facing 9-1-2 
+b3;2-0;0;---;6,(3-2) BSFBBB;;CHC;Patrick Wisdom;Jordan Montgomery;2%;78%;Walk
+b3;2-0;0;1--;1,(0-0) >C;;CHC;Nico Hoerner;Jordan Montgomery;2%;80%;Wisdom Steals 2B
+b3;2-0;0;-2-;2,(0-1) >C.X;O;CHC;Nico Hoerner;Jordan Montgomery;-3%;77%;Flyball: RF (Short RF)
+b3;2-0;1;-2-;6,(3-2) CBBBFB;;CHC;Seiya Suzuki;Jordan Montgomery;1%;78%;Walk
+b3;2-0;1;12-;2,(0-1) MX;;CHC;Ian Happ;Jordan Montgomery;4%;82%;Single to RF (Line Drive to Short RF); Wisdom to 3B; Suzuki to 2B
+b3;2-0;1;123;2,(0-1) CX;RO;CHC;Cody Bellinger;Jordan Montgomery;1%;83%;Flyball: CF/Sacrifice Fly (Deep CF-RF); Wisdom Scores; Suzuki to 3B
+b3;3-0;2;1-3;4,(1-2) S*BSX;R;CHC;Dansby Swanson;Jordan Montgomery;5%;88%;Single to CF (Line Drive); Suzuki Scores; Happ to 2B
+b3;4-0;2;12-;3,(0-2) FFX;RR;CHC;Yan Gomes;Jordan Montgomery;7%;95%;Double to LF (Line Drive to Deep LF-CF); Happ Scores; Swanson Scores
+b3;6-0;2;-2-;2,(1-0) BX;R;CHC;Trey Mancini;Jordan Montgomery;2%;97%;Double to LF (Ground Ball); Gomes Scores
+b3;7-0;2;-2-;1,(0-0) X;O;CHC;Miguel Amaya;Jordan Montgomery;0%;97%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;5 runs, 4 hits, 0 errors, 1 LOB. Cardinals 0, Cubs 7.
+Top of the 4th, Cardinals Batting, Behind 0-7, Cubs' Jameson Taillon facing 2-3-4 
+t4;0-7;0;---;3,(1-1) CBX;O;STL;Lars Nootbaar;Jameson Taillon;1%;97%;Flyball: LF (LF Line)
+t4;0-7;1;---;6,(3-2) BBCBS.X;;STL;Nolan Arenado;Jameson Taillon;-1%;97%;Single to CF (Ground Ball thru SS-2B)
+t4;0-7;1;1--;3,(0-2) CFS;O;STL;Tyler O'Neill;Jameson Taillon;1%;97%;Strikeout Swinging
+t4;0-7;2;1--;2,(0-1) CX;;STL;Alec Burleson;Jameson Taillon;-1%;97%;Single to CF (Ground Ball); Arenado to 3B
+t4;0-7;2;1-3;5,(2-2) T*BBCS;O;STL;Iván Herrera;Jameson Taillon;1%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Cardinals 0, Cubs 7.
+Bottom of the 4th, Cubs Batting, Ahead 7-0, Cardinals' Jordan Montgomery facing 9-1-2 
+b4;7-0;0;---;5,(2-2) CBC.BT;O;CHC;Patrick Wisdom;Jordan Montgomery;0%;98%;Strikeout Swinging
+b4;7-0;1;---;4,(2-1) BCBX;;CHC;Nico Hoerner;Jordan Montgomery;0%;98%;Double to CF (Line Drive to Deep CF)
+b4;7-0;1;-2-;2,(1-0) *BX;O;CHC;Seiya Suzuki;Jordan Montgomery;0%;98%;Groundout: 3B-1B
+b4;7-0;2;-2-;1,(0-0) X;O;CHC;Ian Happ;Jordan Montgomery;0%;98%;Groundout: 1B unassisted (Weak 1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cardinals 0, Cubs 7.
+Top of the 5th, Cardinals Batting, Behind 0-7, Cubs' Jameson Taillon facing 7-8-9 
+t5;0-7;0;---;9,(2-2) CBFF.FFBFS;O;STL;Dylan Carlson;Jameson Taillon;1%;98%;Strikeout Swinging
+t5;0-7;1;---;5,(1-2) BFFFS;O;STL;Taylor Motter;Jameson Taillon;0%;98%;Strikeout Swinging
+t5;0-7;2;---;5,(3-1) CBBBB;;STL;Paul DeJong;Jameson Taillon;0%;98%;Walk
+t5;0-7;2;1--;2,(1-0) *BX;;STL;Brendan Donovan;Jameson Taillon;0%;98%;Single to 2B (Ground Ball to 2B-1B); DeJong to 2B
+t5;0-7;2;12-;4,(1-2) C*BSX;O;STL;Lars Nootbaar;Jameson Taillon;1%;99%;Groundout: SS unassisted/Forceout at 2B (Front of Home); Nootbaar to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Cardinals 0, Cubs 7.
+Bottom of the 5th, Cubs Batting, Ahead 7-0, Cardinals' Jordan Montgomery facing 4-5-6 
+b5;7-0;0;---;3,(0-2) F.FC;O;CHC;Cody Bellinger;Jordan Montgomery;0%;98%;Strikeout Looking
+b5;7-0;1;---;6,(3-2) BBBCFS;O;CHC;Dansby Swanson;Jordan Montgomery;0%;98%;Strikeout Swinging
+b5;7-0;2;---;1,(0-0) X;O;CHC;Yan Gomes;Jordan Montgomery;0%;98%;Lineout: RF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 0, Cubs 7.
+Top of the 6th, Cardinals Batting, Behind 0-7, Cubs' Jameson Taillon facing 3-4-5 
+t6;0-7;0;---;4,(0-2) CFFX;;STL;Nolan Arenado;Jameson Taillon;-1%;98%;Single to 2B (Ground Ball)
+t6;0-7;0;1--;6,(2-2) CCBBFX;OO;STL;Tyler O'Neill;Jameson Taillon;2%;99%;Ground Ball Double Play: SS-2B-1B
+t6;0-7;2;---;1,(0-0) X;;STL;Alec Burleson;Jameson Taillon;0%;99%;Double to CF (Line Drive to Deep RF)
+t6;0-7;2;-2-;3,(1-1) BFX;;STL;Iván Herrera;Jameson Taillon;0%;98%;Single to RF (Ground Ball thru 2B-1B); Burleson to 3B
+t6;0-7;2;1-3;5,(2-2) BBCFX;R;STL;Dylan Carlson;Jameson Taillon;-1%;97%;Single to RF (Line Drive to CF-RF); Burleson Scores; Herrera to 2B
+;;;;;;;;;Michael Rucker replaces Jameson Taillon pitching
+t6;1-7;2;12-;6,(3-2) .C*BFBB>B;;STL;Taylor Motter;Michael Rucker;-1%;96%;Walk; Herrera to 3B; Carlson to 2B
+t6;1-7;2;123;4,(2-1) B*BFX;O;STL;Paul DeJong;Michael Rucker;3%;98%;Groundout: SS-2B/Forceout at 2B; DeJong to 1B
+;;;;;;;;;1 run, 4 hits, 0 errors, 3 LOB. Cardinals 1, Cubs 7.
+Bottom of the 6th, Cubs Batting, Ahead 7-1, Cardinals' Jordan Montgomery facing 7-8-9 
+b6;7-1;0;---;1,(0-0) X;O;CHC;Trey Mancini;Jordan Montgomery;0%;98%;Flyball: LF (Deep LF-CF)
+b6;7-1;1;---;5,(1-2) CCFBH;;CHC;Miguel Amaya;Jordan Montgomery;0%;98%;Hit By Pitch
+b6;7-1;1;1--;3,(0-2) SFB;;CHC;Patrick Wisdom;Jordan Montgomery;0%;99%;Wild Pitch; Amaya to 2B
+b6;7-1;1;-2-;6,(3-2) SFB.BBS;O;CHC;Patrick Wisdom;Jordan Montgomery;0%;98%;Strikeout Swinging
+b6;7-1;2;-2-;4,(2-1) B.*BFX;O;CHC;Nico Hoerner;Jordan Montgomery;0%;98%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Cardinals 1, Cubs 7.
+Top of the 7th, Cardinals Batting, Behind 1-7, Cubs' Anthony Kay facing 1-2-3 
+;;;;;;;;;Anthony Kay replaces Michael Rucker pitching
+t7;1-7;0;---;5,(2-2) .BBFFX;O;STL;Brendan Donovan;Anthony Kay;1%;99%;Lineout: RF (Deep CF-RF)
+;;;;;;;;;Jordan Walker pinch hits for Lars Nootbaar (RF) batting 2nd
+t7;1-7;1;---;2,(1-0) .BX;O;STL;Jordan Walker;Anthony Kay;0%;99%;Groundout: 3B-1B (Weak 3B)
+t7;1-7;2;---;5,(3-1) CBBBX;O;STL;Nolan Arenado;Anthony Kay;0%;99%;Popfly: 2B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 1, Cubs 7.
+Bottom of the 7th, Cubs Batting, Ahead 7-1, Cardinals' Zack Thompson facing 2-3-4 
+;;;;;;;;;Zack Thompson replaces Jordan Montgomery pitchingJordan Walker moves from PH to RF 
+b7;7-1;0;---;4,(2-1) ..CBBX;O;CHC;Seiya Suzuki;Zack Thompson;0%;99%;Groundout: 2B-1B (Short CF)
+b7;7-1;1;---;4,(0-2) CCF*S;O;CHC;Ian Happ;Zack Thompson;0%;99%;Strikeout Swinging; Happ out at 1B/C-1B
+b7;7-1;2;---;6,(3-2) CBFBBX;O;CHC;Cody Bellinger;Zack Thompson;0%;99%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 1, Cubs 7.
+Top of the 8th, Cardinals Batting, Behind 1-7, Cubs' Anthony Kay facing 4-5-6 
+t8;1-7;0;---;6,(3-2) BFBBFB;;STL;Tyler O'Neill;Anthony Kay;-1%;98%;Walk
+t8;1-7;0;1--;4,(0-2) SFFS;O;STL;Alec Burleson;Anthony Kay;1%;99%;Strikeout Swinging
+;;;;;;;;;Javier Assad replaces Anthony Kay pitching
+t8;1-7;1;1--;7,(3-2) .BCBBF.FFN;;STL;Iván Herrera;Javier Assad;0%;99%;Balk; O'Neill to 2B
+t8;1-7;1;-2-;9,(3-2) .BCBBF.FFN.FS;O;STL;Iván Herrera;Javier Assad;1%;100%;Strikeout Swinging
+t8;1-7;2;-2-;1,(0-0) X;R;STL;Dylan Carlson;Javier Assad;-1%;99%;Single to CF (Line Drive); O'Neill Scores; Carlson to 2B
+t8;2-7;2;-2-;1,(0-0) X;O;STL;Taylor Motter;Javier Assad;1%;99%;Groundout: SS-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Cardinals 2, Cubs 7.
+Bottom of the 8th, Cubs Batting, Ahead 7-2, Cardinals' Zack Thompson facing 5-6-7 
+b8;7-2;0;---;3,(1-1) BCX;;CHC;Dansby Swanson;Zack Thompson;0%;100%;Single to RF (Line Drive)
+b8;7-2;0;1--;5,(3-1) BBBCX;O;CHC;Yan Gomes;Zack Thompson;0%;100%;Groundout: 3B-1B; Swanson to 2B
+b8;7-2;1;-2-;4,(1-2) BSCC;O;CHC;Trey Mancini;Zack Thompson;0%;99%;Strikeout Looking
+b8;7-2;2;-2-;3,(0-2) CFX;O;CHC;Miguel Amaya;Zack Thompson;0%;99%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cardinals 2, Cubs 7.
+Top of the 9th, Cardinals Batting, Behind 2-7, Cubs' Javier Assad facing 9-1-2 
+t9;2-7;0;---;2,(1-0) BX;O;STL;Paul DeJong;Javier Assad;0%;100%;Groundout: 3B-1B (SS-3B Hole)
+t9;2-7;1;---;10,(2-2) CBSFFFFBFX;O;STL;Brendan Donovan;Javier Assad;0%;100%;Groundout: SS-1B (SS-2B)
+t9;2-7;2;---;5,(2-2) FBBC.C;O;STL;Jordan Walker;Javier Assad;0%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 2, Cubs 7.

@@ -1,0 +1,291 @@
+
+Scorebox Meta
+20230815
+7:10 p.m. Local
+35439
+Citi Field
+192
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/PIT-2023.png;/teams/PIT/2023.shtml;0;1;0;0;0;0;6;0;0;7;9;0
+https://cdn.ssref.net/req/202308251/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;1;0;0;0;0;0;3;0;0;4;7;1
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;LF;4;1;2;1;0;2;4;.263;.360;.442;.801;18;11;0.080; 1.09;0.138;-0.058; 0.00%; 0.09; 0.9;1;0;HR
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;0;1;0;0;2;4;.245;.332;.463;.795;17;11;-0.060; 1.23;0.036;-0.095;-0.00%; 0.11; -0.7;0;4;
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;0;0;0;0;2;4;.222;.321;.517;.838;14;9;-0.156; 1.20;0.000;-0.156;-0.01%; 0.10; -1.3;6;0;GDP
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;3;1;1;0;1;0;4;.226;.292;.472;.764;13;6;0.036; 0.50;0.054;-0.018; 0.00%; 0.04; 0.6;13;0;
+Jeff McNeil;/players/m/mcneije01.shtml;RF;4;0;0;0;0;3;4;.257;.331;.340;.671;15;13;-0.098; 1.01;0.000;-0.098;-0.01%; 0.09; -1.2;3;0;
+Mark Vientos;/players/v/vientma01.shtml;DH;2;0;0;0;0;0;2;.195;.230;.288;.518;8;5;-0.079; 1.05;0.000;-0.079;-0.00%; 0.09; -0.7;;;GDP
+DJ Stewart;/players/s/stewadj01.shtml;PH-DH-DH;2;1;2;2;0;0;2;.209;.327;.395;.722;6;4;0.061; 0.44;0.061;0.000; 0.00%; 0.04; 2.1;;;HR
+Jonathan Araúz;/players/a/arauzjo01.shtml;2B;4;1;1;1;0;1;4;.148;.233;.370;.604;16;10;-0.025; 0.81;0.046;-0.071;-0.00%; 0.07; 0.4;2;2;HR
+Danny Mendick;/players/m/mendida01.shtml;3B;3;0;0;0;0;1;3;.190;.227;.310;.537;15;9;-0.064; 0.86;0.000;-0.064;-0.00%; 0.08; -0.6;2;1;
+Rafael Ortega;/players/o/ortegra01.shtml;PH;1;0;0;0;0;0;1;.238;.304;.262;.566;4;3;-0.017; 0.57;0.000;-0.017;-0.00%; 0.05; -0.3;;;
+Tim Locastro;/players/l/locasti01.shtml;CF;1;0;0;0;2;0;3;.000;.313;.000;.313;16;8;0.027; 0.56;0.042;-0.015; 0.00%; 0.05; 0.3;0;0;
+David Peterson;/players/p/peterda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Butto;/players/b/buttojo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Grant Hartwig;/players/h/hartwgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Drew Smith;/players/s/smithdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brooks Raley;/players/r/raleybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Brandon Nimmo (17, off Bailey Falter, 1st inn, 0 on, 0 outs to Deep RF); DJ Stewart (2, off Colin Selby, 7th inn, 1 on, 1 out to Deep RF); Jonathan Araúz (2, off Colin Selby, 7th inn, 0 on, 1 out to Deep RF).
+
+
+TB: DJ Stewart 5; Brandon Nimmo 5; Jonathan Araúz 4; Francisco Alvarez; Francisco Lindor.
+
+
+GIDP: Mark Vientos (3); Pete Alonso (16).
+
+
+RBI: DJ Stewart 2 (5); Jonathan Araúz (5); Brandon Nimmo (49).
+
+
+Team LOB: 4.
+With RISP: 0 for 3.
+
+Batting away
+Ke'Bryan Hayes;/players/h/hayeske01.shtml;3B;4;0;2;0;2;1;6;.259;.297;.420;.717;28;14;0.029; 0.93;0.074;-0.045; 0.00%; 0.03; 0.4;2;5;
+Bryan Reynolds;/players/r/reynobr01.shtml;LF;6;0;1;1;0;1;6;.266;.332;.465;.797;24;16;-0.225; 1.29;0.016;-0.241;-0.00%; 0.04; -1.9;0;0;3B,2·GDP
+Andrew McCutchen;/players/m/mccutan01.shtml;DH;2;1;0;0;2;2;5;.253;.378;.384;.762;26;13;0.080; 0.81;0.111;-0.031; 0.00%; 0.02; 0.3;;;HBP
+Connor Joe;/players/j/joeco01.shtml;1B;3;1;2;0;2;1;5;.242;.332;.428;.760;28;16;0.230; 1.25;0.260;-0.030; 0.00%; 0.04; 2.1;7;0;2B
+Alfonso Rivas;/players/r/rivasal01.shtml;1B;0;0;0;0;0;0;0;.208;.304;.438;.741;;;;;;;;;;1;0;
+Henry Davis;/players/d/davishe01.shtml;RF;5;0;0;0;0;2;5;.222;.313;.352;.666;21;15;-0.212; 1.41;0.000;-0.212;-0.00%; 0.05; -2.1;0;0;
+Liover Peguero;/players/p/pegueli01.shtml;SS-2B;4;2;2;1;1;1;5;.269;.310;.522;.832;23;13;0.208; 1.39;0.231;-0.023; 0.00%; 0.04; 2.3;1;2;HR
+Joshua Palacios;/players/p/palacjo01.shtml;CF;3;0;0;0;0;2;3;.221;.257;.379;.635;13;8;-0.140; 1.70;0.000;-0.140;-0.00%; 0.05; -1.3;2;0;
+Jack Suwinski;/players/s/suwinja01.shtml;PH-CF;1;1;0;1;1;1;2;.208;.332;.453;.786;9;3;0.129; 2.18;0.136;-0.007; 0.00%; 0.07; 0.8;0;0;
+Jared Triolo;/players/t/triolja01.shtml;2B;3;1;1;1;1;1;5;.273;.350;.314;.664;16;9;0.100; 1.52;0.181;-0.081; 0.00%; 0.05; 1.3;3;2;2·SB,HBP
+Alika Williams;/players/w/willial04.shtml;PR-SS;0;0;0;0;0;0;0;.191;.269;.234;.503;;;;;;;;;;0;0;
+Jason Delay;/players/d/delayja01.shtml;C;4;1;1;2;1;1;5;.268;.331;.382;.713;26;16;0.008; 0.98;0.085;-0.077;0%; 0.03; 0.7;11;0;2B
+Bailey Falter;/players/f/falteba01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Colin Selby;/players/s/selbyco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Angel Perdomo;/players/p/perdoan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Colin Holderman;/players/h/holdeco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+David Bednar;/players/b/bednada01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Connor Joe (22, off José Butto); Jason Delay (9, off Grant Hartwig).
+
+
+3B: Bryan Reynolds (4, off Grant Hartwig).
+
+
+HR: Liover Peguero (5, off David Peterson, 2nd inn, 0 on, 0 outs to Deep LF-CF).
+
+
+HBP: Andrew McCutchen (3, by David Peterson); Jared Triolo (3, by Grant Hartwig).
+
+
+TB: Liover Peguero 5; Connor Joe 3; Bryan Reynolds 3; Jason Delay 2; Ke'Bryan Hayes 2; Jared Triolo.
+
+
+GIDP: Bryan Reynolds 2 (11).
+
+
+RBI: Jason Delay 2 (15); Jack Suwinski (54); Bryan Reynolds (57); Jared Triolo (16); Liover Peguero (14).
+
+
+2-out RBI: Bryan Reynolds.
+
+
+Team LOB: 13.
+With RISP: 3 for 13.
+
+Pitching home
+David Peterson;/players/p/peterda01.shtml;David Peterson; 3.2;3;1;1;6;5;1;5.45;20;91;48;21;12;15;5;3;1;0;50;;;0.082; 1.43; 0.00%; 0.12; 0.8
+José Butto;/players/b/buttojo01.shtml; L (0-2); 2.2;2;3;3;3;5;0;4.30;13;63;40;23;11;6;2;3;1;0;;1;0;0.014; 1.58; 0.00%; 0.14; 0.2
+Grant Hartwig;/players/h/hartwgr01.shtml;Grant Hartwig; 0.1;2;3;3;1;0;0;4.94;5;22;10;7;2;1;0;3;2;0;;3;3;-0.327; 1.54;-0.02%; 0.13; -4.8
+Drew Smith;/players/s/smithdr01.shtml;Drew Smith; 1.1;1;0;0;0;3;0;4.20;5;21;14;9;1;4;1;1;0;0;;1;0;0.018; 0.28; 0.00%; 0.02; 0.9
+Brooks Raley;/players/r/raleybr01.shtml;Brooks Raley; 1 ;1;0;0;0;0;0;2.61;4;17;11;5;2;4;3;1;0;0;;0;0;0.008; 0.18; 0.00%; 0.01; 0.5
+
+Pitching away
+Bailey Falter;/players/f/falteba01.shtml;Bailey Falter; 5.1;4;1;1;1;5;1;4.86;20;82;52;31;6;15;8;6;2;0;60;;;0.174; 1.03; 0.00%; 0.03; 1.5
+Colin Selby;/players/s/selbyco01.shtml; W (1-0); 1.1;2;3;3;2;2;2;10.80;7;26;13;7;1;5;1;2;0;0;;1;0;0.003; 0.62; 0.00%; 0.02; -2.2
+Angel Perdomo;/players/p/perdoan01.shtml; H (6); 0.1;0;0;0;0;1;0;3.18;1;6;4;2;0;2;0;0;0;0;;1;0;0.024; 0.85; 0.00%; 0.03; 0.2
+Colin Holderman;/players/h/holdeco01.shtml; H (19); 1 ;0;0;0;0;2;0;3.21;3;11;8;2;1;5;1;0;0;0;;0;0;0.052; 0.68; 0.00%; 0.02; 0.5
+David Bednar;/players/b/bednada01.shtml; S (25); 1 ;1;0;0;0;1;0;1.99;4;17;12;7;5;0;1;2;0;0;;0;0;0.042; 0.74; 0.00%; 0.03; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: David Peterson (4; Andrew McCutchen); Grant Hartwig (2; Jared Triolo).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: David Peterson (4; Andrew McCutchen); Grant Hartwig (2; Jared Triolo).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Mark Ripperger, 1B - Shane Livensparger, 2B - Dan Bellino, 3B - Phil Cuzzi, LF - (none), RF - (none).
+Time of Game: 3:12.
+Attendance: 35,439.
+Field Condition: Unknown.
+Start Time Weather: 78° F, Wind 6mph from Right to Left, Cloudy, No Precipitation.
+
+div_lineups
+Pirates
+1;Ke'Bryan Hayes;/players/h/hayeske01.shtml;3B
+2;Bryan Reynolds;/players/r/reynobr01.shtml;LF
+3;Andrew McCutchen;/players/m/mccutan01.shtml;DH
+4;Connor Joe;/players/j/joeco01.shtml;1B
+5;Henry Davis;/players/d/davishe01.shtml;RF
+6;Liover Peguero;/players/p/pegueli01.shtml;SS
+7;Joshua Palacios;/players/p/palacjo01.shtml;CF
+8;Jared Triolo;/players/t/triolja01.shtml;2B
+9;Jason Delay;/players/d/delayja01.shtml;C
+; Bailey Falter;/players/f/falteba01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;LF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Pete Alonso;/players/a/alonspe01.shtml;1B
+4;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+5;Jeff McNeil;/players/m/mcneije01.shtml;RF
+6;Mark Vientos;/players/v/vientma01.shtml;DH
+7;Jonathan Araúz;/players/a/arauzjo01.shtml;2B
+8;Danny Mendick;/players/m/mendida01.shtml;3B
+9;Tim Locastro;/players/l/locasti01.shtml;CF
+; David Peterson;/players/p/peterda01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t7;1-1;0;1--;2,(0-1) FX;;PIT;Connor Joe;José Butto;17%;73%;Double to LF (Line Drive to Deep LF Line); McCutchen to 3B
+t7;1-1;1;123;4,(3-0) ..B*BBB;R;PIT;Jack Suwinski;Grant Hartwig;14%;79%;Walk; McCutchen Scores; Joe to 3B; Peguero to 2B
+t2;0-1;0;---;4,(1-2) CSBX;R;PIT;Liover Peguero;David Peterson;10%;50%;Home Run (Fly Ball to Deep LF-CF)
+b1;0-0;0;---;5,(2-2) CBC.BX;R;NYM;Brandon Nimmo;Bailey Falter;-10%;35%;Home Run (Line Drive to Deep RF)
+t7;2-1;1;123;1,(0-0) H;R;PIT;Jared Triolo;Grant Hartwig;9%;88%;Hit By Pitch; Joe Scores; Peguero to 3B; Suwinski to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Pirates Batting, Tied 0-0, Mets' David Peterson facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;;PIT;Ke'Bryan Hayes;David Peterson;4%;54%;Single to RF (Line Drive to Short CF-RF)
+t1;0-0;0;1--;3,(2-0) B*BX;OO;PIT;Bryan Reynolds;David Peterson;-7%;46%;Ground Ball Double Play: SS-2B-1B
+t1;0-0;2;---;5,(2-2) BCSBH;;PIT;Andrew McCutchen;David Peterson;1%;47%;Hit By Pitch
+t1;0-0;2;1--;5,(3-1) BCBBB;;PIT;Connor Joe;David Peterson;2%;49%;Walk; McCutchen to 2B
+t1;0-0;2;12-;2,(0-1) CX;O;PIT;Henry Davis;David Peterson;-4%;45%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Pirates 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Pirates' Bailey Falter facing 1-2-3 
+b1;0-0;0;---;5,(2-2) CBC.BX;R;NYM;Brandon Nimmo;Bailey Falter;-10%;35%;Home Run (Line Drive to Deep RF)
+b1;1-0;0;---;3,(1-1) CBX;O;NYM;Francisco Lindor;Bailey Falter;2%;37%;Popfly: 1B (2B-1B)
+b1;1-0;1;---;4,(2-1) BCBX;O;NYM;Pete Alonso;Bailey Falter;1%;39%;Groundout: 3B-1B (SS-3B Hole)
+b1;1-0;2;---;5,(3-1) BBCBX;O;NYM;Francisco Alvarez;Bailey Falter;1%;40%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Pirates 0, Mets 1.
+Top of the 2nd, Pirates Batting, Behind 0-1, Mets' David Peterson facing 6-7-8 
+t2;0-1;0;---;4,(1-2) CSBX;R;PIT;Liover Peguero;David Peterson;10%;50%;Home Run (Fly Ball to Deep LF-CF)
+t2;1-1;0;---;4,(1-2) CBSX;O;PIT;Joshua Palacios;David Peterson;-2%;48%;Groundout: SS-1B (SS-2B)
+t2;1-1;1;---;6,(3-2) CBBBFB;;PIT;Jared Triolo;David Peterson;3%;50%;Walk
+t2;1-1;1;1--;4,(1-2) 1CBF*S;O;PIT;Jason Delay;David Peterson;-3%;47%;Strikeout Swinging
+t2;1-1;2;1--;5,(3-1) BC1BBB;;PIT;Ke'Bryan Hayes;David Peterson;2%;49%;Walk; Triolo to 2B
+t2;1-1;2;12-;3,(0-2) CSC;O;PIT;Bryan Reynolds;David Peterson;-4%;45%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Pirates 1, Mets 1.
+Bottom of the 2nd, Mets Batting, Tied 1-1, Pirates' Bailey Falter facing 5-6-7 
+b2;1-1;0;---;1,(0-0) X;O;NYM;Jeff McNeil;Bailey Falter;2%;47%;Bunt Popfly: 2B (Weak 2B)
+b2;1-1;1;---;4,(1-2) CS.BX;O;NYM;Mark Vientos;Bailey Falter;2%;49%;Flyball: CF
+b2;1-1;2;---;5,(2-2) BCFBT;O;NYM;Jonathan Araúz;Bailey Falter;1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 1, Mets 1.
+Top of the 3rd, Pirates Batting, Tied 1-1, Mets' David Peterson facing 3-4-5 
+t3;1-1;0;---;6,(3-2) BBCBFB;;PIT;Andrew McCutchen;David Peterson;4%;54%;Walk
+t3;1-1;0;1--;7,(3-2) SBC1FB1BB;;PIT;Connor Joe;David Peterson;6%;60%;Walk; McCutchen to 2B
+t3;1-1;0;12-;4,(2-1) BFBX;O;PIT;Henry Davis;David Peterson;-6%;54%;Popfly: 1B
+t3;1-1;1;12-;4,(2-1) BBFX;;PIT;Liover Peguero;David Peterson;7%;61%;Single to P (Ground Ball to Weak SS); McCutchen to 3B; Joe to 2B
+t3;1-1;1;123;5,(2-2) BBCFS;O;PIT;Joshua Palacios;David Peterson;-8%;53%;Strikeout Swinging
+t3;1-1;2;123;3,(0-2) CFS;O;PIT;Jared Triolo;David Peterson;-8%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Pirates 1, Mets 1.
+Bottom of the 3rd, Mets Batting, Tied 1-1, Pirates' Bailey Falter facing 8-9-1 
+b3;1-1;0;---;6,(3-2) CBFBBX;O;NYM;Danny Mendick;Bailey Falter;3%;47%;Groundout: SS-1B
+b3;1-1;1;---;10,(3-2) CSBBFBFFFB;;NYM;Tim Locastro;Bailey Falter;-3%;44%;Walk
+b3;1-1;1;1--;1,(0-0) X;;NYM;Brandon Nimmo;Bailey Falter;-4%;40%;Single to LF (Line Drive to LF-CF); Locastro to 2B
+b3;1-1;1;12-;4,(1-2) F*BSS;O;NYM;Francisco Lindor;Bailey Falter;5%;45%;Strikeout Swinging
+b3;1-1;2;12-;5,(2-2) BFF.BS;O;NYM;Pete Alonso;Bailey Falter;5%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Pirates 1, Mets 1.
+Top of the 4th, Pirates Batting, Tied 1-1, Mets' David Peterson facing 9-1-2 
+t4;1-1;0;---;7,(3-2) BFBSFBB;;PIT;Jason Delay;David Peterson;4%;54%;Walk
+t4;1-1;0;1--;5,(2-2) BCSBS;O;PIT;Ke'Bryan Hayes;David Peterson;-4%;50%;Strikeout Swinging
+t4;1-1;1;1--;8,(3-2) FBBSFBFX;O;PIT;Bryan Reynolds;David Peterson;-3%;47%;Groundout: SS-2B/Forceout at 2B; Reynolds to 1B
+;;;;;;;;;José Butto replaces David Peterson pitching
+t4;1-1;2;1--;4,(1-2) .FBFC;O;PIT;Andrew McCutchen;José Butto;-3%;44%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Pirates 1, Mets 1.
+Bottom of the 4th, Mets Batting, Tied 1-1, Pirates' Bailey Falter facing 4-5-6 
+b4;1-1;0;---;1,(0-0) X;;NYM;Francisco Alvarez;Bailey Falter;-4%;40%;Single to P (Ground Ball to Weak 3B)
+b4;1-1;0;1--;5,(0-2) F>FFFT;O;NYM;Jeff McNeil;Bailey Falter;4%;44%;Strikeout Swinging
+b4;1-1;1;1--;4,(2-1) 1C*BBX;OO;NYM;Mark Vientos;Bailey Falter;6%;50%;Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Pirates 1, Mets 1.
+Top of the 5th, Pirates Batting, Tied 1-1, Mets' José Butto facing 4-5-6 
+t5;1-1;0;---;12,(3-2) SBCBFFFFBFFS;O;PIT;Connor Joe;José Butto;-3%;47%;Strikeout Swinging
+t5;1-1;1;---;2,(0-1) SX;O;PIT;Henry Davis;José Butto;-2%;45%;Groundout: SS-1B
+t5;1-1;2;---;6,(2-2) SCBFBS;O;PIT;Liover Peguero;José Butto;-1%;43%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 1, Mets 1.
+Bottom of the 5th, Mets Batting, Tied 1-1, Pirates' Bailey Falter facing 7-8-9 
+b5;1-1;0;---;2,(0-1) CX;O;NYM;Jonathan Araúz;Bailey Falter;3%;46%;Flyball: CF (Deep CF)
+b5;1-1;1;---;5,(2-2) BBCFX;O;NYM;Danny Mendick;Bailey Falter;2%;49%;Groundout: 3B-1B (SS-3B Hole)
+b5;1-1;2;---;1,(0-0) X;O;NYM;Tim Locastro;Bailey Falter;2%;50%;Popfly: 3B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 1, Mets 1.
+Top of the 6th, Pirates Batting, Tied 1-1, Mets' José Butto facing 7-8-9 
+t6;1-1;0;---;4,(2-2) ABBFS;O;PIT;Joshua Palacios;José Butto;-3%;47%;Strikeout Swinging
+t6;1-1;1;---;1,(0-0) X;;PIT;Jared Triolo;José Butto;4%;50%;Single to LF (Ground Ball thru SS-3B Hole)
+t6;1-1;1;1--;5,(1-2) S*SBFX;O;PIT;Jason Delay;José Butto;-4%;46%;Foul Popfly: 3B
+t6;1-1;2;1--;3,(1-1) FB>B;;PIT;Ke'Bryan Hayes;José Butto;2%;48%;Triolo Steals 2B
+t6;1-1;2;-2-;7,(3-2) FB>B.CF*B>*B;;PIT;Ke'Bryan Hayes;José Butto;2%;50%;Walk, Triolo Steals 3B
+t6;1-1;2;1-3;1,(0-0) X;O;PIT;Bryan Reynolds;José Butto;-8%;42%;Flyball: RF (CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Pirates 1, Mets 1.
+Bottom of the 6th, Mets Batting, Tied 1-1, Pirates' Bailey Falter facing 1-2-3 
+b6;1-1;0;---;6,(3-2) CBCBBC;O;NYM;Brandon Nimmo;Bailey Falter;3%;46%;Strikeout Looking
+b6;1-1;1;---;5,(2-2) FBSBX;;NYM;Francisco Lindor;Bailey Falter;-4%;42%;Single to SS (Ground Ball to SS-3B Hole)
+;;;;;;;;;Colin Selby replaces Bailey Falter pitching
+b6;1-1;1;1--;1,(0-0) .X;OO;NYM;Pete Alonso;Colin Selby;8%;50%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Pirates 1, Mets 1.
+Top of the 7th, Pirates Batting, Tied 1-1, Mets' José Butto facing 3-4-5 
+t7;1-1;0;---;7,(3-2) SBBBCFB;;PIT;Andrew McCutchen;José Butto;6%;56%;Walk
+t7;1-1;0;1--;2,(0-1) FX;;PIT;Connor Joe;José Butto;17%;73%;Double to LF (Line Drive to Deep LF Line); McCutchen to 3B
+t7;1-1;0;-23;6,(2-2) FBFFBS;O;PIT;Henry Davis;José Butto;-8%;65%;Strikeout Swinging
+t7;1-1;1;-23;6,(3-2) BBCSB*B;;PIT;Liover Peguero;José Butto;1%;66%;Walk
+;;;;;;;;;Grant Hartwig replaces José Butto pitchingJack Suwinski pinch hits for Joshua Palacios (CF) batting 7th
+t7;1-1;1;123;4,(3-0) ..B*BBB;R;PIT;Jack Suwinski;Grant Hartwig;14%;79%;Walk; McCutchen Scores; Joe to 3B; Peguero to 2B
+t7;2-1;1;123;1,(0-0) H;R;PIT;Jared Triolo;Grant Hartwig;9%;88%;Hit By Pitch; Joe Scores; Peguero to 3B; Suwinski to 2B
+t7;3-1;1;123;1,(0-0) B;R;PIT;Jason Delay;Grant Hartwig;5%;93%;Passed Ball; Peguero Scores/No RBI; Suwinski to 3B; Triolo to 2B
+t7;4-1;1;-23;7,(3-2) B.BCFFBX;RR;PIT;Jason Delay;Grant Hartwig;4%;97%;Double to RF (Line Drive to Deep CF-RF); Suwinski Scores; Triolo Scores
+t7;6-1;1;-2-;7,(3-2) BSBBFFX;O;PIT;Ke'Bryan Hayes;Grant Hartwig;0%;97%;Flyball: LF (LF-CF)
+t7;6-1;2;-2-;3,(1-1) SBX;R;PIT;Bryan Reynolds;Grant Hartwig;2%;98%;Triple to RF (Line Drive); Delay Scores
+;;;;;;;;;Drew Smith replaces Grant Hartwig pitching
+t7;7-1;2;--3;4,(1-2) .FBFS;O;PIT;Andrew McCutchen;Drew Smith;0%;98%;Strikeout Swinging
+;;;;;;;;;6 runs, 3 hits, 0 errors, 1 LOB. Pirates 7, Mets 1.
+Bottom of the 7th, Mets Batting, Behind 1-7, Pirates' Colin Selby facing 4-5-6 
+;;;;;;;;;Jack Suwinski moves from PH to CF 
+b7;1-7;0;---;5,(3-1) .BBCBB;;NYM;Francisco Alvarez;Colin Selby;-1%;97%;Walk
+b7;1-7;0;1--;6,(2-2) BCFBFS;O;NYM;Jeff McNeil;Colin Selby;1%;98%;Strikeout Swinging
+;;;;;;;;;DJ Stewart pinch hits for Mark Vientos (DH) batting 6th
+b7;1-7;1;1--;1,(0-0) .X;RR;NYM;DJ Stewart;Colin Selby;-3%;95%;Home Run (Fly Ball to Deep RF); Alvarez Scores
+b7;3-7;1;---;4,(2-1) BCBX;R;NYM;Jonathan Araúz;Colin Selby;-5%;90%;Home Run (Fly Ball to Deep RF)
+b7;4-7;1;---;4,(1-2) CFBT;O;NYM;Danny Mendick;Colin Selby;2%;92%;Strikeout Swinging
+b7;4-7;2;---;5,(3-1) CBBBB;;NYM;Tim Locastro;Colin Selby;-1%;91%;Walk
+;;;;;;;;;Angel Perdomo replaces Colin Selby pitching
+b7;4-7;2;1--;6,(2-2) .BCBFFC;O;NYM;Brandon Nimmo;Angel Perdomo;2%;93%;Strikeout Looking
+;;;;;;;;;3 runs, 2 hits, 0 errors, 1 LOB. Pirates 7, Mets 4.
+Top of the 8th, Pirates Batting, Ahead 7-4, Mets' Drew Smith facing 4-5-6 
+t8;7-4;0;---;2,(1-0) .BX;;PIT;Connor Joe;Drew Smith;1%;94%;Single to LF (Ground Ball)
+t8;7-4;0;1--;7,(2-2) FCBFBFC;O;PIT;Henry Davis;Drew Smith;-1%;93%;Strikeout Looking
+t8;7-4;1;1--;3,(1-1) BC1X;O;PIT;Liover Peguero;Drew Smith;-1%;92%;Flyball: RF (Deep RF)
+t8;7-4;2;1--;5,(2-2) BFBFC;O;PIT;Jack Suwinski;Drew Smith;-1%;91%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 7, Mets 4.
+Bottom of the 8th, Mets Batting, Behind 4-7, Pirates' Colin Holderman facing 2-3-4 
+;;;;;;;;;Colin Holderman replaces Angel Perdomo pitchingAlfonso Rivas replaces Connor Joe playing 1B batting 4th
+b8;4-7;0;---;5,(2-2) ..BBCF.S;O;NYM;Francisco Lindor;Colin Holderman;3%;94%;Strikeout Swinging
+b8;4-7;1;---;4,(1-2) CCB.C;O;NYM;Pete Alonso;Colin Holderman;2%;96%;Strikeout Looking
+b8;4-7;2;---;2,(0-1) .CX;O;NYM;Francisco Alvarez;Colin Holderman;1%;97%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Pirates 7, Mets 4.
+Top of the 9th, Pirates Batting, Ahead 7-4, Mets' Brooks Raley facing 8-9-1 
+;;;;;;;;;Brooks Raley replaces Drew Smith pitching
+t9;7-4;0;---;5,(2-2) .CCBBX;;PIT;Jared Triolo;Brooks Raley;1%;97%;Reached on E6 (Ground Ball to SS-3B Hole); Triolo to 1B
+;;;;;;;;;Alika Williams pinch runs for Jared Triolo (2B) batting 8th
+t9;7-4;0;1--;3,(1-1) .BCX;O;PIT;Jason Delay;Brooks Raley;0%;97%;Flyball: RF (Deep RF)
+t9;7-4;1;1--;3,(1-1) SBX;;PIT;Ke'Bryan Hayes;Brooks Raley;0%;97%;Single to 3B (Ground Ball); Williams to 2B
+t9;7-4;1;12-;6,(2-2) CBSBFX;OO;PIT;Bryan Reynolds;Brooks Raley;-1%;96%;Ground Ball Double Play: 3B-1B
+;;;;;;;;;0 runs, 1 hit, 1 error, 1 LOB. Pirates 7, Mets 4.
+Bottom of the 9th, Mets Batting, Behind 4-7, Pirates' David Bednar facing 5-6-7 
+;;;;;;;;;David Bednar replaces Colin Holderman pitchingLiover Peguero moves from SS to 2B Alika Williams moves from PR to SS 
+b9;4-7;0;---;3,(0-2) ...FF.T;O;NYM;Jeff McNeil;David Bednar;2%;98%;Strikeout Swinging
+b9;4-7;1;---;5,(2-2) SSBBX;;NYM;DJ Stewart;David Bednar;-3%;95%;Single to CF (Ground Ball thru SS-2B)
+b9;4-7;1;1--;5,(2-2) SSB*BX;O;NYM;Jonathan Araúz;David Bednar;3%;98%;Popfly: 3B
+;;;;;;;;;Rafael Ortega pinch hits for Danny Mendick (3B) batting 8th
+b9;4-7;2;1--;1,(0-0) .>B;;NYM;Rafael Ortega;David Bednar;0%;98%;Defensive Indifference; Stewart to 2B
+b9;4-7;2;-2-;4,(1-2) .>B.SFX;O;NYM;Rafael Ortega;David Bednar;2%;100%;Flyball: 2B (Deep 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Pirates 7, Mets 4.

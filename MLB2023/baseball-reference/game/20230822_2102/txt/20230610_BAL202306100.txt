@@ -1,0 +1,264 @@
+
+Scorebox Meta
+20230610
+4:05 p.m. Local
+34136
+Oriole Park at Camden Yards
+171
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/KCR-2023.png;/teams/KCR/2023.shtml;0;0;0;0;1;0;0;0;0;1;8;0
+https://cdn.ssref.net/req/202308101/tlogo/br/BAL-2023.png;/teams/BAL/2023.shtml;2;1;0;0;1;0;0;2;X;6;10;0
+
+Batting home
+Gunnar Henderson;/players/h/hendegu01.shtml;3B;5;1;2;1;0;1;5;.225;.343;.428;.771;18;10;0.045; 0.36;0.087;-0.042; 0.03%; 0.38; 0.1;3;1;HR
+Adley Rutschman;/players/r/rutscad01.shtml;C;4;1;0;0;1;1;5;.274;.390;.410;.800;28;18;-0.006; 0.38;0.024;-0.031;-0.00%; 0.39; -0.7;8;1;
+Anthony Santander;/players/s/santaan02.shtml;RF-1B;4;2;3;1;0;0;4;.264;.336;.476;.812;14;10;0.143; 0.52;0.149;-0.006; 0.09%; 0.54; 1.9;6;0;2·2B
+Austin Hays;/players/h/haysau01.shtml;LF;3;0;1;1;1;1;4;.307;.346;.500;.846;17;10;0.031; 0.63;0.072;-0.040; 0.02%; 0.65; 0.6;1;0;
+Aaron Hicks;/players/h/hicksaa01.shtml;CF;3;0;0;0;1;1;4;.223;.318;.330;.648;19;11;-0.024; 0.56;0.008;-0.032;-0.01%; 0.58; -0.8;3;0;
+Ryan O'Hearn;/players/o/ohearry01.shtml;1B;2;0;2;1;0;0;2;.295;.333;.541;.874;5;4;0.112; 0.96;0.112;0.000; 0.07%; 1.00; 1.4;4;0;2B
+Ryan McKenna;/players/m/mckenry01.shtml;PH-RF;1;1;0;0;1;1;2;.229;.276;.343;.619;16;9;-0.011; 0.32;0.004;-0.015;-0.01%; 0.33; 0.1;0;0;
+Adam Frazier;/players/f/fraziad01.shtml;2B;3;1;1;2;1;1;4;.236;.300;.404;.704;17;12;0.002; 0.60;0.026;-0.025; 0.00%; 0.62; 1.2;1;3;HR
+Josh Lester;/players/l/lestejo02.shtml;DH;4;0;1;0;0;0;4;.182;.182;.182;.364;12;7;-0.064; 0.65;0.001;-0.065;-0.04%; 0.68; -0.8;;;
+Jorge Mateo;/players/m/mateojo01.shtml;SS;4;0;0;0;0;3;4;.227;.267;.370;.637;19;13;-0.028; 0.28;0.000;-0.028;-0.02%; 0.28; -0.9;1;2;
+Cole Irvin;/players/i/irvinco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Bryan Baker;/players/b/bakerbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Austin Voth;/players/v/vothau01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Cionel Pérez;/players/p/perezci01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Mike Baumann;/players/b/baumami01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Anthony Santander 2 (19, 2 off Brady Singer); Ryan O'Hearn (6, off Brady Singer).
+
+
+HR: Gunnar Henderson (8, off Brady Singer, 2nd inn, 0 on, 1 out to Deep CF); Adam Frazier (7, off Scott Barlow, 8th inn, 1 on, 0 outs to Deep CF-RF).
+
+
+TB: Gunnar Henderson 5; Anthony Santander 5; Adam Frazier 4; Ryan O'Hearn 3; Austin Hays; Josh Lester.
+
+
+RBI: Adam Frazier 2 (28); Austin Hays (27); Ryan O'Hearn (16); Anthony Santander (36); Gunnar Henderson (18).
+
+
+2-out RBI: Ryan O'Hearn.
+
+
+Team LOB: 8.
+With RISP: 2 for 8.
+
+Batting away
+Nick Pratto;/players/p/prattni01.shtml;1B;5;0;0;0;0;3;5;.289;.378;.444;.823;26;18;-0.132; 1.11;0.000;-0.132;-0.00%; 0.03; -1.6;8;0;
+Salvador Perez;/players/p/perezsa02.shtml;DH;4;0;1;0;0;1;4;.269;.305;.485;.789;13;10;-0.060; 0.95;0.024;-0.084;-0.00%; 0.02; -0.6;;;
+MJ Melendez;/players/m/melenmj01.shtml;RF;4;0;1;0;0;1;4;.220;.305;.364;.669;21;14;-0.018; 0.82;0.036;-0.054;0%; 0.02; -0.2;2;0;
+Bobby Witt;/players/w/wittbo02.shtml;SS;4;0;1;0;0;0;4;.235;.267;.412;.679;8;6;-0.094; 1.03;0.027;-0.121;-0.00%; 0.03; -1.0;0;3;CS
+Maikel Garcia;/players/g/garcima01.shtml;3B;3;0;1;0;1;1;4;.255;.322;.358;.681;16;10;-0.033; 0.70;0.023;-0.056;0%; 0.02; -0.3;2;0;
+Michael Massey;/players/m/massemi02.shtml;2B;4;0;0;0;0;0;4;.222;.277;.316;.592;17;13;-0.070; 0.65;0.000;-0.070;-0.00%; 0.01; -0.8;0;5;
+Edward Olivares;/players/o/olivaed02.shtml;LF;3;1;3;0;1;0;4;.247;.316;.437;.753;22;17;0.136; 0.65;0.136;0.000; 0.00%; 0.01; 1.9;1;0;2·2B
+Drew Waters;/players/w/waterdr01.shtml;CF;3;0;0;0;1;1;4;.206;.270;.294;.564;17;11;0.011; 1.16;0.073;-0.062;0%; 0.03; -0.3;2;0;
+Freddy Fermin;/players/f/fermifr01.shtml;C;4;0;1;1;0;1;4;.212;.281;.423;.704;13;10;-0.039; 1.21;0.055;-0.094;-0.00%; 0.03; -0.5;8;2;
+Brady Singer;/players/s/singebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Austin Cox;/players/c/coxau01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Taylor Clarke;/players/c/clarkta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Scott Barlow;/players/b/barlosc01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Nick Wittgren;/players/w/wittgni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Edward Olivares 2 (9, 1 off Cole Irvin, 1 off Mike Baumann).
+
+
+TB: Edward Olivares 5; MJ Melendez; Salvador Perez; Freddy Fermin; Maikel Garcia; Bobby Witt.
+
+
+RBI: Freddy Fermin (7).
+
+
+Team LOB: 9.
+With RISP: 1 for 10.
+
+Pitching home
+Cole Irvin;/players/i/irvinco01.shtml; W (1-2); 5.1;6;1;1;0;5;0;7.85;22;72;55;33;9;13;6;11;5;0;57;;;0.157; 0.95; 0.10%; 0.98; 1.4
+Bryan Baker;/players/b/bakerbr01.shtml; H (10); 0.2;0;0;0;1;0;0;3.58;2;13;8;7;0;1;0;1;0;0;;1;0;0.050; 0.76; 0.03%; 0.79; 0.5
+Austin Voth;/players/v/vothau01.shtml; H (4); 0.1;0;0;0;2;1;0;4.40;3;24;16;11;3;2;0;0;0;0;;0;0;-0.048; 1.74;-0.03%; 1.81; -0.4
+Cionel Pérez;/players/p/perezci01.shtml; H (8); 1.2;1;0;0;0;1;0;4.37;6;26;17;12;1;4;2;3;2;0;;2;0;0.136; 1.03; 0.08%; 1.07; 1.4
+Mike Baumann;/players/b/baumami01.shtml;Mike Baumann; 1 ;1;0;0;0;1;0;3.97;4;18;13;8;3;2;1;2;1;0;;0;0;0.006; 0.18; 0.00%; 0.19; 0.5
+
+Pitching away
+Brady Singer;/players/s/singebr01.shtml; L (4-5); 4.1;6;4;4;3;4;1;6.58;22;97;58;31;8;19;8;7;2;0;36;;;-0.237; 0.72;-0.00%; 0.02; -2.2
+Austin Cox;/players/c/coxau01.shtml;Austin Cox; 1.2;0;0;0;0;3;0;0.00;5;19;15;7;6;2;1;1;0;0;;1;0;0.045; 0.34; 0.00%; 0.01; 1.2
+Taylor Clarke;/players/c/clarkta01.shtml;Taylor Clarke; 1 ;2;0;0;1;1;0;2.79;5;21;13;9;1;3;2;1;0;0;;0;0;0.012; 0.31; 0.00%; 0.01; 0.5
+Scott Barlow;/players/b/barlosc01.shtml;Scott Barlow; 0.2;2;2;2;1;1;1;4.18;5;22;14;6;6;2;0;3;1;0;;0;0;-0.021; 0.06; 0.00%; 0.00; -1.7
+Nick Wittgren;/players/w/wittgni01.shtml;Nick Wittgren; 0.1;0;0;0;0;0;0;4.32;1;6;4;3;0;1;1;0;0;0;;1;0;0.001; 0.02; 0.00%; 0.00; 0.2
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Gabe Morales, 1B - Adam Beck, 2B - Dan Iassogna, 3B - Scott Barry, LF - (none), RF - (none).
+Time of Game: 2:51.
+Attendance: 34,136.
+Field Condition: Unknown.
+Start Time Weather: 85° F, Wind 9mph out to Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Royals
+1;Nick Pratto;/players/p/prattni01.shtml;1B
+2;Salvador Perez;/players/p/perezsa02.shtml;DH
+3;MJ Melendez;/players/m/melenmj01.shtml;RF
+4;Bobby Witt;/players/w/wittbo02.shtml;SS
+5;Maikel Garcia;/players/g/garcima01.shtml;3B
+6;Michael Massey;/players/m/massemi02.shtml;2B
+7;Edward Olivares;/players/o/olivaed02.shtml;LF
+8;Drew Waters;/players/w/waterdr01.shtml;CF
+9;Freddy Fermin;/players/f/fermifr01.shtml;C
+; Brady Singer;/players/s/singebr01.shtml;P
+Orioles
+1;Gunnar Henderson;/players/h/hendegu01.shtml;3B
+2;Adley Rutschman;/players/r/rutscad01.shtml;C
+3;Anthony Santander;/players/s/santaan02.shtml;RF
+4;Austin Hays;/players/h/haysau01.shtml;LF
+5;Aaron Hicks;/players/h/hicksaa01.shtml;CF
+6;Ryan O'Hearn;/players/o/ohearry01.shtml;1B
+7;Adam Frazier;/players/f/fraziad01.shtml;2B
+8;Josh Lester;/players/l/lestejo02.shtml;DH
+9;Jorge Mateo;/players/m/mateojo01.shtml;SS
+; Cole Irvin;/players/i/irvinco01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-0;1;1--;8,(3-2) CFBFF*B.B>X;R;BAL;Anthony Santander;Brady Singer;11%;66%;Double to RF (Ground Ball); Rutschman Scores
+b1;1-0;2;12-;3,(1-1) BCX;R;BAL;Ryan O'Hearn;Brady Singer;9%;74%;Single to CF (Ground Ball thru SS-2B); Santander Scores; Hicks to 3B
+b2;2-0;1;---;1,(0-0) X;R;BAL;Gunnar Henderson;Brady Singer;8%;81%;Home Run (Fly Ball to Deep CF)
+t7;1-4;0;1--;7,(3-2) CS*BB*BFB;;KCR;Drew Waters;Austin Voth;-7%;78%;Walk; Olivares to 2B
+b5;3-1;1;-2-;4,(1-2) CFBX;R;BAL;Austin Hays;Brady Singer;7%;90%;Single to LF (Ground Ball); Santander Scores; Hays to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Royals Batting, Tied 0-0, Orioles' Cole Irvin facing 1-2-3 
+t1;0-0;0;---;4,(1-2) BCSC;O;KCR;Nick Pratto;Cole Irvin;2%;52%;Strikeout Looking
+t1;0-0;1;---;2,(0-1) F.X;;KCR;Salvador Perez;Cole Irvin;-2%;50%;Single to RF (Fly Ball to CF-RF)
+t1;0-0;1;1--;6,(3-2) BFBCBX;;KCR;MJ Melendez;Cole Irvin;-4%;46%;Single to CF (Ground Ball thru SS-2B); Perez to 2B
+t1;0-0;1;12-;1,(0-0) X;O;KCR;Bobby Witt;Cole Irvin;4%;51%;Groundout: SS-3B/Forceout at 3B; Melendez to 2B; Witt to 1B
+t1;0-0;2;12-;2,(0-1) CX;O;KCR;Maikel Garcia;Cole Irvin;4%;55%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Royals 0, Orioles 0.
+Bottom of the 1st, Orioles Batting, Tied 0-0, Royals' Brady Singer facing 1-2-3 
+b1;0-0;0;---;6,(3-2) CBBS.B*S;O;BAL;Gunnar Henderson;Brady Singer;-2%;53%;Strikeout Swinging
+b1;0-0;1;---;5,(3-1) BBBC*B;;BAL;Adley Rutschman;Brady Singer;2%;55%;Walk
+b1;0-0;1;1--;8,(3-2) CFBFF*B.B>X;R;BAL;Anthony Santander;Brady Singer;11%;66%;Double to RF (Ground Ball); Rutschman Scores
+b1;1-0;1;-2-;4,(1-2) C*BCC;O;BAL;Austin Hays;Brady Singer;-3%;63%;Strikeout Looking
+b1;1-0;2;-2-;6,(3-2) CBBTBB;;BAL;Aaron Hicks;Brady Singer;1%;64%;Walk
+b1;1-0;2;12-;3,(1-1) BCX;R;BAL;Ryan O'Hearn;Brady Singer;9%;74%;Single to CF (Ground Ball thru SS-2B); Santander Scores; Hicks to 3B
+b1;2-0;2;1-3;4,(2-1) CBBB;;BAL;Adam Frazier;Brady Singer;1%;74%;Passed Ball; O'Hearn to 2B
+b1;2-0;2;-23;5,(3-1) CBBB.*B;;BAL;Adam Frazier;Brady Singer;1%;75%;Walk
+b1;2-0;2;123;2,(1-0) *BX;O;BAL;Josh Lester;Brady Singer;-5%;70%;Groundout: 2B-P (Deep 2B-1B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 3 LOB. Royals 0, Orioles 2.
+Top of the 2nd, Royals Batting, Behind 0-2, Orioles' Cole Irvin facing 6-7-8 
+t2;0-2;0;---;6,(2-2) BBCFFX;O;KCR;Michael Massey;Cole Irvin;2%;73%;Groundout: 2B-1B (Deep 2B)
+t2;0-2;1;---;3,(0-2) CSX;;KCR;Edward Olivares;Cole Irvin;-3%;70%;Single to RF (Line Drive to Deep RF Line)
+t2;0-2;1;1--;3,(0-2) TFX;O;KCR;Drew Waters;Cole Irvin;3%;73%;Flyball: RF (Deep RF)
+t2;0-2;2;1--;5,(2-2) BCBFX;O;KCR;Freddy Fermin;Cole Irvin;2%;75%;Lineout: CF (CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 0, Orioles 2.
+Bottom of the 2nd, Orioles Batting, Ahead 2-0, Royals' Brady Singer facing 9-1-2 
+b2;2-0;0;---;6,(2-2) BFSBFS;O;BAL;Jorge Mateo;Brady Singer;-2%;74%;Strikeout Swinging
+b2;2-0;1;---;1,(0-0) X;R;BAL;Gunnar Henderson;Brady Singer;8%;81%;Home Run (Fly Ball to Deep CF)
+b2;3-0;1;---;10,(3-2) SBBBCFF.FFX;O;BAL;Adley Rutschman;Brady Singer;-1%;81%;Popfly: 3B
+b2;3-0;2;---;2,(0-1) FX;O;BAL;Anthony Santander;Brady Singer;-1%;80%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Royals 0, Orioles 3.
+Top of the 3rd, Royals Batting, Behind 0-3, Orioles' Cole Irvin facing 1-2-3 
+t3;0-3;0;---;6,(2-2) FCFBBX;O;KCR;Nick Pratto;Cole Irvin;2%;82%;Groundout: 2B-1B
+t3;0-3;1;---;6,(3-2) BBBCS.S;O;KCR;Salvador Perez;Cole Irvin;1%;84%;Strikeout Swinging
+t3;0-3;2;---;4,(1-2) BSCS;O;KCR;MJ Melendez;Cole Irvin;1%;84%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Orioles 3.
+Bottom of the 3rd, Orioles Batting, Ahead 3-0, Royals' Brady Singer facing 4-5-6 
+b3;3-0;0;---;2,(1-0) BX;O;BAL;Austin Hays;Brady Singer;-1%;83%;Flyball: CF (Deep CF-RF)
+b3;3-0;1;---;5,(2-2) BCBSX;O;BAL;Aaron Hicks;Brady Singer;-1%;83%;Flyball: RF (Deep RF)
+b3;3-0;2;---;2,(0-1) FX;;BAL;Ryan O'Hearn;Brady Singer;1%;84%;Double to RF (Line Drive to Deep RF Line)
+b3;3-0;2;-2-;5,(0-2) CSFF*S;O;BAL;Adam Frazier;Brady Singer;-2%;82%;Strikeout Swinging; Frazier out at 1B/C-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 0, Orioles 3.
+Top of the 4th, Royals Batting, Behind 0-3, Orioles' Cole Irvin facing 4-5-6 
+t4;0-3;0;---;3,(1-1) BFX;O;KCR;Bobby Witt;Cole Irvin;2%;84%;Groundout: SS-1B (Deep SS)
+t4;0-3;1;---;4,(1-2) LCBC;O;KCR;Maikel Garcia;Cole Irvin;1%;86%;Strikeout Looking
+t4;0-3;2;---;1,(0-0) X;O;KCR;Michael Massey;Cole Irvin;1%;86%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Orioles 3.
+Bottom of the 4th, Orioles Batting, Ahead 3-0, Royals' Brady Singer facing 8-9-1 
+b4;3-0;0;---;6,(3-2) BBBCC.X;O;BAL;Josh Lester;Brady Singer;-1%;85%;Groundout: 2B-1B (Deep 2B-1B)
+b4;3-0;1;---;5,(2-2) BCBC.X;O;BAL;Jorge Mateo;Brady Singer;-1%;85%;Groundout: SS-1B
+b4;3-0;2;---;3,(2-0) BBX;O;BAL;Gunnar Henderson;Brady Singer;-1%;84%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Orioles 3.
+Top of the 5th, Royals Batting, Behind 0-3, Orioles' Cole Irvin facing 7-8-9 
+t5;0-3;0;---;2,(0-1) FX;;KCR;Edward Olivares;Cole Irvin;-6%;78%;Double to RF (Fly Ball to Deep CF-RF)
+t5;0-3;0;-2-;1,(0-0) X;O;KCR;Drew Waters;Cole Irvin;2%;81%;Flyball: RF (Deep RF); Olivares to 3B
+t5;0-3;1;--3;2,(0-1) FX;R;KCR;Freddy Fermin;Cole Irvin;-5%;75%;Single to CF (Line Drive to Deep CF); Olivares Scores
+t5;1-3;1;1--;4,(1-2) FBS*S;O;KCR;Nick Pratto;Cole Irvin;4%;79%;Strikeout Swinging
+t5;1-3;2;1--;4,(0-2) FSFX;O;KCR;Salvador Perez;Cole Irvin;3%;82%;Lineout: RF (Deep RF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Royals 1, Orioles 3.
+Bottom of the 5th, Orioles Batting, Ahead 3-1, Royals' Brady Singer facing 2-3-4 
+b5;3-1;0;---;4,(1-2) BCCX;O;BAL;Adley Rutschman;Brady Singer;-1%;80%;Groundout: SS-1B
+b5;3-1;1;---;3,(1-1) BFX;;BAL;Anthony Santander;Brady Singer;3%;83%;Double to RF (Line Drive to Deep CF-RF)
+b5;3-1;1;-2-;4,(1-2) CFBX;R;BAL;Austin Hays;Brady Singer;7%;90%;Single to LF (Ground Ball); Santander Scores; Hays to 2B
+;;;;;;;;;Austin Cox replaces Brady Singer pitching
+b5;4-1;1;-2-;3,(0-2) .CTC;O;BAL;Aaron Hicks;Austin Cox;-1%;88%;Strikeout Looking
+;;;;;;;;;Ryan McKenna pinch hits for Ryan O'Hearn (1B) batting 6th
+b5;4-1;2;-2-;8,(3-2) .SB.*S*BF*BFS;O;BAL;Ryan McKenna;Austin Cox;-1%;87%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Royals 1, Orioles 4.
+Top of the 6th, Royals Batting, Behind 1-4, Orioles' Cole Irvin facing 3-4-5 
+;;;;;;;;;Anthony Santander moves from RF to 1B Ryan McKenna moves from PH to RF 
+t6;1-4;0;---;2,(0-1) ..CX;O;KCR;MJ Melendez;Cole Irvin;2%;89%;Flyball: LF (Deep LF)
+t6;1-4;1;---;1,(0-0) X;;KCR;Bobby Witt;Cole Irvin;-3%;86%;Single to LF (Line Drive to LF-CF)
+;;;;;;;;;Bryan Baker replaces Cole Irvin pitching
+t6;1-4;1;1--;5,(1-2) .FFB1F1>B;O;KCR;Maikel Garcia;Bryan Baker;4%;91%;Witt Caught Stealing 2B (C-2B)
+t6;1-4;2;---;7,(3-2) .FFB1F1>B.B.B;;KCR;Maikel Garcia;Bryan Baker;-1%;89%;Walk
+t6;1-4;2;1--;6,(1-2) CFBFFX;O;KCR;Michael Massey;Bryan Baker;2%;91%;Popfly: 3B (Deep SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 1, Orioles 4.
+Bottom of the 6th, Orioles Batting, Ahead 4-1, Royals' Austin Cox facing 7-8-9 
+b6;4-1;0;---;3,(0-2) FFX;O;BAL;Adam Frazier;Austin Cox;-1%;91%;Flyball: CF (Deep CF)
+b6;4-1;1;---;1,(0-0) X;O;BAL;Josh Lester;Austin Cox;-1%;90%;Groundout: 2B-1B (2B-1B)
+b6;4-1;2;---;4,(1-2) BSSS;O;BAL;Jorge Mateo;Austin Cox;0%;90%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 1, Orioles 4.
+Top of the 7th, Royals Batting, Behind 1-4, Orioles' Austin Voth facing 7-8-9 
+;;;;;;;;;Austin Voth replaces Bryan Baker pitching
+t7;1-4;0;---;14,(3-2) .BFBSF.FFFFFFBFB;;KCR;Edward Olivares;Austin Voth;-4%;86%;Walk
+t7;1-4;0;1--;7,(3-2) CS*BB*BFB;;KCR;Drew Waters;Austin Voth;-7%;78%;Walk; Olivares to 2B
+t7;1-4;0;12-;3,(0-2) SLC;O;KCR;Freddy Fermin;Austin Voth;7%;85%;Strikeout Looking
+;;;;;;;;;Cionel Pérez replaces Austin Voth pitching
+t7;1-4;1;12-;6,(3-2) .FCBB*BC;O;KCR;Nick Pratto;Cionel Pérez;5%;90%;Strikeout Looking
+t7;1-4;2;12-;1,(0-0) X;O;KCR;Salvador Perez;Cionel Pérez;4%;94%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Royals 1, Orioles 4.
+Bottom of the 7th, Orioles Batting, Ahead 4-1, Royals' Taylor Clarke facing 1-2-3 
+;;;;;;;;;Taylor Clarke replaces Austin Cox pitching
+b7;4-1;0;---;5,(2-2) .FFBB.X;;BAL;Gunnar Henderson;Taylor Clarke;1%;95%;Single to RF (Ground Ball thru 2B-1B)
+b7;4-1;0;1--;3,(0-2) 1CCS;O;BAL;Adley Rutschman;Taylor Clarke;-1%;94%;Strikeout Swinging
+b7;4-1;1;1--;1,(0-0) X;;BAL;Anthony Santander;Taylor Clarke;1%;95%;Single to RF (Fly Ball to CF-RF); Henderson to 2B
+b7;4-1;1;12-;6,(2-2) BTBFFB;O;BAL;Austin Hays;Taylor Clarke;-1%;94%;Baserunner Out Advancing; Henderson out at 3B/C-3B
+b7;4-1;2;1--;7,(3-2) BTBFFB.>B;;BAL;Austin Hays;Taylor Clarke;0%;94%;Walk; Santander to 2B
+b7;4-1;2;12-;5,(2-2) B*BCFX;O;BAL;Aaron Hicks;Taylor Clarke;-1%;93%;Groundout: SS-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Royals 1, Orioles 4.
+Top of the 8th, Royals Batting, Behind 1-4, Orioles' Cionel Pérez facing 3-4-5 
+t8;1-4;0;---;9,(3-2) BCS.FBFBFX;O;KCR;MJ Melendez;Cionel Pérez;2%;95%;Lineout: SS (Deep SS)
+t8;1-4;1;---;3,(1-1) BTX;O;KCR;Bobby Witt;Cionel Pérez;1%;97%;Flyball: CF (Deep CF-RF)
+t8;1-4;2;---;3,(1-1) FBX;;KCR;Maikel Garcia;Cionel Pérez;-1%;96%;Single to LF (Ground Ball thru SS-3B Hole)
+t8;1-4;2;1--;4,(1-2) C1FBX;O;KCR;Michael Massey;Cionel Pérez;2%;97%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 1, Orioles 4.
+Bottom of the 8th, Orioles Batting, Ahead 4-1, Royals' Scott Barlow facing 6-7-8 
+;;;;;;;;;Scott Barlow replaces Taylor Clarke pitching
+b8;4-1;0;---;8,(3-2) .MBS.BBFFB;;BAL;Ryan McKenna;Scott Barlow;0%;98%;Walk
+b8;4-1;0;1--;4,(1-2) S1FB>X;RR;BAL;Adam Frazier;Scott Barlow;2%;100%;Home Run (Fly Ball to Deep CF-RF); McKenna Scores
+b8;6-1;0;---;3,(1-1) BCX;;BAL;Josh Lester;Scott Barlow;0%;100%;Single to RF (Line Drive to Deep RF)
+b8;6-1;0;1--;4,(1-2) BCSS;O;BAL;Jorge Mateo;Scott Barlow;0%;100%;Strikeout Swinging
+b8;6-1;1;1--;3,(1-1) BSX;O;BAL;Gunnar Henderson;Scott Barlow;0%;99%;Flyball: RF (RF Line)
+;;;;;;;;;Nick Wittgren replaces Scott Barlow pitching
+b8;6-1;2;1--;6,(2-2) .*BCBFFX;O;BAL;Adley Rutschman;Nick Wittgren;0%;99%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Royals 1, Orioles 6.
+Top of the 9th, Royals Batting, Behind 1-6, Orioles' Mike Baumann facing 7-8-9 
+;;;;;;;;;Mike Baumann replaces Cionel Pérez pitching
+t9;1-6;0;---;3,(1-1) .SBX;;KCR;Edward Olivares;Mike Baumann;-1%;98%;Double to RF (Line Drive to Deep RF Line)
+t9;1-6;0;-2-;6,(2-2) BCTFBS;O;KCR;Drew Waters;Mike Baumann;1%;99%;Strikeout Swinging
+t9;1-6;1;-2-;3,(1-1) BCX;O;KCR;Freddy Fermin;Mike Baumann;1%;100%;Groundout: 2B-1B (2B-1B); Olivares to 3B
+t9;1-6;2;--3;6,(1-2) SBFFFX;O;KCR;Nick Pratto;Mike Baumann;0%;100%;Foul Popfly: 3B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 1, Orioles 6.

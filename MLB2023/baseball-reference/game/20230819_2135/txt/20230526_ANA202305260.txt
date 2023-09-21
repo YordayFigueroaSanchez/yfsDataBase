@@ -1,0 +1,282 @@
+
+Scorebox Meta
+20230526
+6:38 p.m. Local
+32130
+Angel Stadium of Anaheim
+162
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/MIA-2023.png;/teams/MIA/2023.shtml;0;1;1;0;0;1;2;1;0;6;16;0
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;0;0;0;1;1;0;0;0;2;10;0
+
+Batting home
+Taylor Ward;/players/w/wardta01.shtml;LF;5;0;1;0;0;4;5;.225;.298;.319;.616;27;17;-0.072; 0.96;0.035;-0.106;-0.05%; 1.06; -0.6;2;0;
+Mike Trout;/players/t/troutmi01.shtml;CF;4;0;2;1;0;1;4;.280;.366;.532;.898;16;10;0.105; 1.09;0.157;-0.052; 0.07%; 1.21; 0.8;4;0;2B
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;4;0;0;0;0;2;4;.275;.347;.523;.871;13;9;-0.141; 1.09;0.000;-0.141;-0.09%; 1.21; -1.3;;;GDP
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;4;0;1;0;0;0;4;.256;.310;.462;.771;12;7;-0.047; 1.16;0.047;-0.094;-0.03%; 1.28; -0.4;2;0;
+Brandon Drury;/players/d/drurybr01.shtml;1B;4;1;1;1;0;0;4;.241;.279;.471;.749;14;10;0.000; 1.06;0.131;-0.132;0%; 1.17; -0.2;2;0;HR,GDP
+Gio Urshela;/players/u/urshegi01.shtml;3B;4;0;3;0;0;0;4;.310;.330;.363;.692;19;13;0.093; 0.92;0.102;-0.010; 0.06%; 1.01; 0.5;1;1;SB
+Luis Rengifo;/players/r/rengilu01.shtml;2B;4;0;1;0;0;0;4;.206;.303;.278;.581;15;9;-0.055; 1.06;0.040;-0.095;-0.04%; 1.18; -0.3;1;2;2B
+Chad Wallach;/players/w/wallach01.shtml;C;1;1;1;0;1;0;2;.240;.283;.440;.723;7;3;0.097; 1.85;0.097;0.000; 0.06%; 2.04; 0.8;7;1;
+Jared Walsh;/players/w/walshja01.shtml;PH;0;0;0;0;1;0;1;.133;.278;.133;.411;4;0;0.017; 2.08;0.017;0.000; 0.01%; 2.30; 0.1;;;
+Matt Thaiss;/players/t/thaisma01.shtml;C;1;0;0;0;0;1;1;.288;.370;.413;.782;3;3;-0.012; 0.47;0.000;-0.012;-0.01%; 0.52; -0.2;6;0;
+Zach Neto;/players/n/netoza01.shtml;SS;4;0;0;0;0;2;4;.258;.324;.398;.722;15;9;-0.223; 2.04;0.000;-0.223;-0.15%; 2.25; -1.9;2;2;
+Reid Detmers;/players/d/detmere01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jacob Webb;/players/w/webbja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Sam Bachman;/players/b/bachmsa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Luis Rengifo (3, off Jesús Luzardo); Mike Trout (11, off Tanner Scott).
+
+
+HR: Brandon Drury (8, off Bryan Hoeing, 6th inn, 0 on, 1 out to Deep CF-RF).
+
+
+TB: Brandon Drury 4; Mike Trout 3; Gio Urshela 3; Luis Rengifo 2; Taylor Ward; Hunter Renfroe; Chad Wallach.
+
+
+GIDP: Shohei Ohtani (4); Brandon Drury (6).
+
+
+RBI: Brandon Drury (24); Mike Trout (28).
+
+
+2-out RBI: Mike Trout.
+
+
+Team LOB: 8.
+With RISP: 1 for 8.
+
+Batting away
+Jon Berti;/players/b/bertijo01.shtml;SS;4;0;1;0;0;1;4;.268;.313;.340;.653;18;15;-0.125; 1.45;0.020;-0.144;-0.07%; 1.35; -1.6;2;4;
+Joey Wendle;/players/w/wendljo01.shtml;PH-SS;0;0;0;0;1;0;1;.163;.241;.286;.526;4;0;0.010; 0.38;0.010;0.000; 0.01%; 0.35; 0.4;0;1;
+Jorge Soler;/players/s/solerjo01.shtml;RF;5;1;1;1;0;1;5;.259;.333;.566;.899;18;11;-0.008; 1.03;0.099;-0.106;-0.00%; 0.95; -0.8;2;0;HR
+Luis Arraez;/players/a/arraelu01.shtml;2B;4;0;2;1;1;0;5;.374;.427;.466;.893;19;10;0.027; 0.67;0.082;-0.055; 0.01%; 0.62; 1.1;3;3;CS
+Garrett Cooper;/players/c/coopega03.shtml;1B;5;1;1;0;0;4;5;.237;.277;.396;.673;19;14;-0.067; 0.89;0.027;-0.094;-0.04%; 0.82; -1.3;6;0;
+Bryan De La Cruz;/players/d/delacbr01.shtml;LF;5;3;4;2;0;1;5;.305;.351;.466;.817;21;15;0.234; 0.79;0.257;-0.023; 0.13%; 0.74; 2.5;0;0;HR
+Yuli Gurriel;/players/g/gourryu01.shtml;DH;5;0;2;0;0;1;5;.304;.344;.455;.800;21;12;0.062; 0.80;0.093;-0.031; 0.03%; 0.74; -0.2;;;GDP
+Jean Segura;/players/s/segurje01.shtml;3B;4;0;2;1;1;2;5;.196;.263;.229;.492;20;11;0.149; 0.78;0.168;-0.019; 0.08%; 0.72; 1.9;2;2;
+Nick Fortes;/players/f/forteni01.shtml;C;5;0;2;1;0;1;5;.223;.266;.282;.548;14;11;0.017; 0.86;0.069;-0.051; 0.01%; 0.80; 0.4;10;0;
+Jonathan Davis;/players/d/davisjo05.shtml;CF;4;1;1;0;1;1;5;.636;.714;1.091;1.805;18;10;-0.037; 0.79;0.028;-0.066;-0.02%; 0.73; -1.1;2;0;
+Jesús Luzardo;/players/l/luzarje01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Hoeing;/players/h/hoeinbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andrew Nardi;/players/n/nardian01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tanner Scott;/players/s/scottta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+JT Chargois;/players/c/chargjt01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dylan Floro;/players/f/florody01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Jorge Soler (16, off Reid Detmers, 3rd inn, 0 on, 0 outs to Deep CF); Bryan De La Cruz (6, off Jacob Webb, 7th inn, 1 on, 1 out to Deep CF-RF).
+
+
+TB: Bryan De La Cruz 7; Jorge Soler 4; Jean Segura 2; Luis Arraez 2; Yuli Gurriel 2; Nick Fortes 2; Garrett Cooper; Jon Berti; Jonathan Davis.
+
+
+GIDP: Yuli Gurriel (5).
+
+
+RBI: Bryan De La Cruz 2 (20); Jean Segura (6); Luis Arraez (19); Jorge Soler (33); Nick Fortes (8).
+
+
+2-out RBI: Luis Arraez.
+
+
+Team LOB: 12.
+With RISP: 4 for 13.
+
+Pitching home
+Reid Detmers;/players/d/detmere01.shtml; L (0-4); 5 ;10;3;3;2;5;1;4.93;26;95;61;31;11;19;4;15;7;0;38;;;-0.212; 1.08;-0.14%; 1.20; -2.2
+Jacob Webb;/players/w/webbja01.shtml;Jacob Webb; 2 ;2;2;2;0;3;1;6.00;8;30;22;11;4;7;2;3;1;0;;3;0;-0.028; 1.09;-0.02%; 1.20; 0.9
+Sam Bachman;/players/b/bachmsa01.shtml;Sam Bachman; 2 ;4;1;1;2;4;0;4.50;11;47;26;9;5;12;1;4;4;0;;0;0;-0.023; 0.24;-0.02%; 0.26; 0.1
+
+Pitching away
+Jesús Luzardo;/players/l/luzarje01.shtml; W (4-3); 5 ;7;1;1;1;7;0;3.67;21;91;57;27;17;13;7;6;4;0;55;;;0.175; 1.28; 0.10%; 1.19; 1.6
+Bryan Hoeing;/players/h/hoeinbr01.shtml; H (2); 0.2;2;1;1;0;0;1;4.08;4;14;10;5;2;3;1;3;1;0;;0;0;-0.106; 1.56;-0.06%; 1.45; -0.8
+Andrew Nardi;/players/n/nardian01.shtml; H (2); 0.1;0;0;0;1;0;0;3.04;2;6;1;1;0;0;1;0;0;0;;1;0;0.060; 2.51; 0.03%; 2.33; 0.3
+Tanner Scott;/players/s/scottta01.shtml; H (8); 1 ;1;0;0;0;1;0;3.80;4;11;6;4;1;1;1;2;0;0;;0;0;0.058; 1.11; 0.03%; 1.03; 0.5
+JT Chargois;/players/c/chargjt01.shtml;JT Chargois; 1 ;0;0;0;0;0;0;3.12;3;12;8;4;0;4;2;1;0;0;;0;0;0.031; 0.40; 0.02%; 0.37; 0.5
+Dylan Floro;/players/f/florody01.shtml;Dylan Floro; 1 ;0;0;0;0;2;0;3.52;3;11;8;1;1;6;1;0;0;0;;0;0;0.020; 0.25; 0.01%; 0.24; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Jesús Luzardo (1); Sam Bachman (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Jesús Luzardo (1); Sam Bachman (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Jeff Nelson, 1B - CB Bucknor, 2B - Chris Segal, 3B - Brian Walsh, LF - (none), RF - (none).
+Time of Game: 2:42.
+Attendance: 32,130.
+Field Condition: Unknown.
+Start Time Weather: 64° F, Wind 9mph out to Centerfield, Cloudy, No Precipitation.
+
+div_lineups
+Marlins
+1;Jon Berti;/players/b/bertijo01.shtml;SS
+2;Jorge Soler;/players/s/solerjo01.shtml;RF
+3;Luis Arraez;/players/a/arraelu01.shtml;2B
+4;Garrett Cooper;/players/c/coopega03.shtml;1B
+5;Bryan De La Cruz;/players/d/delacbr01.shtml;LF
+6;Yuli Gurriel;/players/g/gourryu01.shtml;DH
+7;Jean Segura;/players/s/segurje01.shtml;3B
+8;Nick Fortes;/players/f/forteni01.shtml;C
+9;Jonathan Davis;/players/d/davisjo05.shtml;CF
+; Jesús Luzardo;/players/l/luzarje01.shtml;P
+Angels
+1;Taylor Ward;/players/w/wardta01.shtml;LF
+2;Mike Trout;/players/t/troutmi01.shtml;CF
+3;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+4;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+5;Brandon Drury;/players/d/drurybr01.shtml;1B
+6;Gio Urshela;/players/u/urshegi01.shtml;3B
+7;Luis Rengifo;/players/r/rengilu01.shtml;2B
+8;Chad Wallach;/players/w/wallach01.shtml;C
+9;Zach Neto;/players/n/netoza01.shtml;SS
+; Reid Detmers;/players/d/detmere01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t7;3-2;1;1--;4,(1-2) BSCX;RR;MIA;Bryan De La Cruz;Jacob Webb;19%;88%;Home Run (Fly Ball to Deep CF-RF); Cooper Scores
+b6;1-3;1;---;2,(0-1) CX;R;LAA;Brandon Drury;Bryan Hoeing;-13%;64%;Home Run (Fly Ball to Deep CF-RF)
+b5;0-2;2;-2-;6,(3-2) BSS*BBX;R;LAA;Mike Trout;Jesús Luzardo;-11%;62%;Single to LF (Line Drive); Wallach Scores
+t3;1-0;0;---;2,(1-0) BX;R;MIA;Jorge Soler;Reid Detmers;10%;71%;Home Run (Fly Ball to Deep CF)
+b4;0-2;0;1--;2,(0-1) FX;OO;LAA;Brandon Drury;Jesús Luzardo;10%;73%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Marlins Batting, Tied 0-0, Angels' Reid Detmers facing 1-2-3 
+t1;0-0;0;---;7,(3-2) CCBBBFX;O;MIA;Jon Berti;Reid Detmers;-2%;48%;Flyball: CF (Deep CF)
+t1;0-0;1;---;6,(3-2) BSBCBX;O;MIA;Jorge Soler;Reid Detmers;-2%;46%;Flyball: CF (Deep LF-CF)
+t1;0-0;2;---;5,(2-2) BFBSX;O;MIA;Luis Arraez;Reid Detmers;-1%;45%;Flyball: LF (Short LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 0, Angels 0.
+Bottom of the 1st, Angels Batting, Tied 0-0, Marlins' Jesús Luzardo facing 1-2-3 
+b1;0-0;0;---;6,(3-2) BCCBBX;;LAA;Taylor Ward;Jesús Luzardo;-3%;42%;Single to 2B (Ground Ball to SS-2B)
+b1;0-0;0;1--;5,(2-2) FBBCX;O;LAA;Mike Trout;Jesús Luzardo;3%;45%;Groundout: SS-2B/Forceout at 2B; Trout to 1B
+b1;0-0;1;1--;3,(2-0) BBX;OO;LAA;Shohei Ohtani;Jesús Luzardo;5%;50%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Marlins 0, Angels 0.
+Top of the 2nd, Marlins Batting, Tied 0-0, Angels' Reid Detmers facing 4-5-6 
+t2;0-0;0;---;3,(0-2) CFC;O;MIA;Garrett Cooper;Reid Detmers;-2%;48%;Strikeout Looking
+t2;0-0;1;---;4,(2-1) BBCX;;MIA;Bryan De La Cruz;Reid Detmers;3%;50%;Single to CF (Line Drive to Deep CF-RF)
+t2;0-0;1;1--;5,(2-2) BBF1FX;;MIA;Yuli Gurriel;Reid Detmers;4%;54%;Single to LF (Line Drive to LF-CF); De La Cruz to 2B
+t2;0-0;1;12-;4,(1-2) BS*SX;R;MIA;Jean Segura;Reid Detmers;10%;64%;Single to CF (Fly Ball to Short CF); De La Cruz Scores; Gurriel to 2B
+t2;1-0;1;12-;2,(0-1) CX;O;MIA;Nick Fortes;Reid Detmers;-3%;60%;Groundout: 2B-SS/Forceout at 2B (2B-1B); Gurriel to 3B; Fortes to 1B
+t2;1-0;2;1-3;5,(3-1) BBSBB;;MIA;Jonathan Davis;Reid Detmers;2%;62%;Walk; Fortes to 2B
+t2;1-0;2;123;3,(0-2) CFX;O;MIA;Jon Berti;Reid Detmers;-7%;55%;Lineout: CF (Deep CF)
+;;;;;;;;;1 run, 3 hits, 0 errors, 3 LOB. Marlins 1, Angels 0.
+Bottom of the 2nd, Angels Batting, Behind 0-1, Marlins' Jesús Luzardo facing 4-5-6 
+b2;0-1;0;---;2,(1-0) BX;O;LAA;Hunter Renfroe;Jesús Luzardo;3%;58%;Flyball: RF (Deep RF)
+b2;0-1;1;---;4,(2-1) BBSX;O;LAA;Brandon Drury;Jesús Luzardo;2%;60%;Flyball: RF (Deep CF-RF)
+b2;0-1;2;---;8,(2-2) CBFFBFFX;;LAA;Gio Urshela;Jesús Luzardo;-1%;58%;Single to LF (Line Drive to Short LF)
+b2;0-1;2;1--;3,(1-1) C*BX;;LAA;Luis Rengifo;Jesús Luzardo;-4%;54%;Double to RF (Line Drive to RF Line); Urshela to 3B
+b2;0-1;2;-23;6,(3-2) CB*BBS.*B;;LAA;Chad Wallach;Jesús Luzardo;-2%;53%;Walk
+b2;0-1;2;123;4,(1-2) S*S*B*S;O;LAA;Zach Neto;Jesús Luzardo;8%;61%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Marlins 1, Angels 0.
+Top of the 3rd, Marlins Batting, Ahead 1-0, Angels' Reid Detmers facing 2-3-4 
+t3;1-0;0;---;2,(1-0) BX;R;MIA;Jorge Soler;Reid Detmers;10%;71%;Home Run (Fly Ball to Deep CF)
+t3;2-0;0;---;1,(0-0) X;;MIA;Luis Arraez;Reid Detmers;3%;74%;Single to LF (Line Drive to LF-CF)
+t3;2-0;0;1--;4,(1-2) CFBS;O;MIA;Garrett Cooper;Reid Detmers;-3%;71%;Strikeout Swinging
+t3;2-0;1;1--;3,(0-2) C+1SC;O;MIA;Bryan De La Cruz;Reid Detmers;-2%;69%;Strikeout Looking
+t3;2-0;2;1--;3,(2-0) BB>B;O;MIA;Yuli Gurriel;Reid Detmers;-2%;67%;Arraez Caught Stealing 2B (C-2B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Marlins 2, Angels 0.
+Bottom of the 3rd, Angels Batting, Behind 0-2, Marlins' Jesús Luzardo facing 1-2-3 
+b3;0-2;0;---;8,(3-2) CBFFBBFS;O;LAA;Taylor Ward;Jesús Luzardo;3%;70%;Strikeout Swinging
+b3;0-2;1;---;4,(1-2) CCBS;O;LAA;Mike Trout;Jesús Luzardo;2%;71%;Strikeout Swinging
+b3;0-2;2;---;5,(1-2) BFCFS;O;LAA;Shohei Ohtani;Jesús Luzardo;1%;73%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 2, Angels 0.
+Top of the 4th, Marlins Batting, Ahead 2-0, Angels' Reid Detmers facing 6-7-8 
+t4;2-0;0;---;2,(1-0) BX;O;MIA;Yuli Gurriel;Reid Detmers;-2%;71%;Flyball: CF (Deep CF)
+t4;2-0;1;---;4,(1-2) CBC.S;O;MIA;Jean Segura;Reid Detmers;-1%;69%;Strikeout Swinging
+t4;2-0;2;---;3,(1-1) BCX;O;MIA;Nick Fortes;Reid Detmers;-1%;69%;Flyball: RF (Deep 2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 2, Angels 0.
+Bottom of the 4th, Angels Batting, Behind 0-2, Marlins' Jesús Luzardo facing 4-5-6 
+b4;0-2;0;---;2,(1-0) BX;;LAA;Hunter Renfroe;Jesús Luzardo;-5%;64%;Single to RF (Ground Ball)
+b4;0-2;0;1--;2,(0-1) FX;OO;LAA;Brandon Drury;Jesús Luzardo;10%;73%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b4;0-2;2;---;6,(3-2) BSFBBX;;LAA;Gio Urshela;Jesús Luzardo;-2%;72%;Single to RF (Line Drive)
+b4;0-2;2;1--;4,(1-2) *BCFX;O;LAA;Luis Rengifo;Jesús Luzardo;3%;75%;Groundout: SS-2B/Forceout at 2B; Rengifo to 1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Marlins 2, Angels 0.
+Top of the 5th, Marlins Batting, Ahead 2-0, Angels' Reid Detmers facing 9-1-2 
+t5;2-0;0;---;3,(1-1) BCX;O;MIA;Jonathan Davis;Reid Detmers;-2%;73%;Groundout: 3B-1B
+t5;2-0;1;---;4,(0-2) CFFX;;MIA;Jon Berti;Reid Detmers;2%;75%;Single to 3B (Ground Ball to Weak 3B)
+t5;2-0;1;1--;3,(1-1) *BCX;O;MIA;Jorge Soler;Reid Detmers;-2%;73%;Flyball: RF (Short RF Line)
+t5;2-0;2;1--;6,(3-2) 1BBCBS.>B;;MIA;Luis Arraez;Reid Detmers;2%;74%;Walk; Berti to 2B
+t5;2-0;2;12-;4,(1-2) SBF.S;O;MIA;Garrett Cooper;Reid Detmers;-3%;71%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Marlins 2, Angels 0.
+Bottom of the 5th, Angels Batting, Behind 0-2, Marlins' Jesús Luzardo facing 8-9-1 
+b5;0-2;0;---;1,(0-0) X;;LAA;Chad Wallach;Jesús Luzardo;-5%;65%;Single to 2B (Ground Ball)
+b5;0-2;0;1--;3,(0-2) CCB;;LAA;Zach Neto;Jesús Luzardo;-3%;63%;Wild Pitch; Wallach to 2B
+b5;0-2;0;-2-;4,(1-2) CCB.S;O;LAA;Zach Neto;Jesús Luzardo;6%;68%;Strikeout Swinging
+b5;0-2;1;-2-;4,(1-2) B2STS;O;LAA;Taylor Ward;Jesús Luzardo;5%;73%;Strikeout Swinging
+b5;0-2;2;-2-;6,(3-2) BSS*BBX;R;LAA;Mike Trout;Jesús Luzardo;-11%;62%;Single to LF (Line Drive); Wallach Scores
+b5;1-2;2;1--;4,(1-2) SBSS;O;LAA;Shohei Ohtani;Jesús Luzardo;4%;66%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Marlins 2, Angels 1.
+Top of the 6th, Marlins Batting, Ahead 2-1, Angels' Reid Detmers facing 5-6-7 
+t6;2-1;0;---;5,(2-2) BBCFX;;MIA;Bryan De La Cruz;Reid Detmers;4%;70%;Single to LF (Line Drive to Short LF-CF)
+t6;2-1;0;1--;2,(0-1) F1X;;MIA;Yuli Gurriel;Reid Detmers;6%;75%;Single to LF (Line Drive to LF-CF); De La Cruz to 2B
+t6;2-1;0;12-;1,(0-0) X;;MIA;Jean Segura;Reid Detmers;7%;82%;Single to 3B (Bunt to Weak 3B); De La Cruz to 3B; Gurriel to 2B
+t6;2-1;0;123;1,(0-0) X;R;MIA;Nick Fortes;Reid Detmers;7%;89%;Single to LF (Line Drive); De La Cruz Scores; Gurriel to 3B; Segura to 2B
+;;;;;;;;;Jacob Webb replaces Reid Detmers pitching
+t6;3-1;0;123;2,(0-1) .FX;O;MIA;Jonathan Davis;Jacob Webb;-4%;84%;Groundout: SS-C/Forceout at Hm (SS-3B Hole); Segura to 3B; Fortes to 2B; Davis to 1B
+t6;3-1;1;123;4,(0-2) FCFS;O;MIA;Jon Berti;Jacob Webb;-5%;79%;Strikeout Swinging
+t6;3-1;2;123;2,(0-1) CX;O;MIA;Jorge Soler;Jacob Webb;-5%;74%;Groundout: 3B unassisted/Forceout at 3B; Soler to 1B
+;;;;;;;;;1 run, 4 hits, 0 errors, 3 LOB. Marlins 3, Angels 1.
+Bottom of the 6th, Angels Batting, Behind 1-3, Marlins' Bryan Hoeing facing 4-5-6 
+;;;;;;;;;Bryan Hoeing replaces Jesús Luzardo pitching
+b6;1-3;0;---;5,(1-2) .CCFBX;O;LAA;Hunter Renfroe;Bryan Hoeing;4%;77%;Lineout: 3B
+b6;1-3;1;---;2,(0-1) CX;R;LAA;Brandon Drury;Bryan Hoeing;-13%;64%;Home Run (Fly Ball to Deep CF-RF)
+b6;2-3;1;---;1,(0-0) X;;LAA;Gio Urshela;Bryan Hoeing;-4%;60%;Single to CF (Ground Ball thru SS-2B)
+b6;2-3;1;1--;2,(1-0) B>S;;LAA;Luis Rengifo;Bryan Hoeing;-3%;57%;Urshela Steals 2B
+b6;2-3;1;-2-;6,(3-2) B>S.BBSX;O;LAA;Luis Rengifo;Bryan Hoeing;6%;63%;Flyball: CF (Deep CF)
+;;;;;;;;;Andrew Nardi replaces Bryan Hoeing pitchingJared Walsh pinch hits for Chad Wallach (C) batting 8th
+b6;2-3;2;-2-;4,(3-0) ..B*BBB;;LAA;Jared Walsh;Andrew Nardi;-2%;61%;Walk
+b6;2-3;2;12-;2,(1-0) BX;O;LAA;Zach Neto;Andrew Nardi;8%;69%;Groundout: 3B unassisted/Forceout at 3B; Neto to 1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Marlins 3, Angels 2.
+Top of the 7th, Marlins Batting, Ahead 3-2, Angels' Jacob Webb facing 3-4-5 
+;;;;;;;;;Matt Thaiss replaces Jared Walsh (PH) playing C batting 8th
+t7;3-2;0;---;3,(1-1) .CBX;O;MIA;Luis Arraez;Jacob Webb;-3%;66%;Flyball: LF (Short LF Line)
+t7;3-2;1;---;2,(0-1) FX;;MIA;Garrett Cooper;Jacob Webb;3%;69%;Single to CF (Line Drive to Deep CF)
+t7;3-2;1;1--;4,(1-2) BSCX;RR;MIA;Bryan De La Cruz;Jacob Webb;19%;88%;Home Run (Fly Ball to Deep CF-RF); Cooper Scores
+t7;5-2;1;---;7,(3-2) BCSFBBC;O;MIA;Yuli Gurriel;Jacob Webb;-1%;87%;Strikeout Looking
+t7;5-2;2;---;6,(3-2) BCBF.BS;O;MIA;Jean Segura;Jacob Webb;-1%;87%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Marlins 5, Angels 2.
+Bottom of the 7th, Angels Batting, Behind 2-5, Marlins' Tanner Scott facing 1-2-3 
+;;;;;;;;;Tanner Scott replaces Andrew Nardi pitching
+b7;2-5;0;---;6,(3-2) .CBBFBS;O;LAA;Taylor Ward;Tanner Scott;3%;90%;Strikeout Swinging
+b7;2-5;1;---;1,(0-0) X;;LAA;Mike Trout;Tanner Scott;-5%;85%;Double to RF (Fly Ball to RF Line)
+b7;2-5;1;-2-;1,(0-0) X;O;LAA;Shohei Ohtani;Tanner Scott;4%;89%;Flyball: SS (Deep SS-3B Hole)
+b7;2-5;2;-2-;3,(2-0) BBX;O;LAA;Hunter Renfroe;Tanner Scott;3%;93%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 5, Angels 2.
+Top of the 8th, Marlins Batting, Ahead 5-2, Angels' Sam Bachman facing 8-9-1 
+;;;;;;;;;Sam Bachman replaces Jacob Webb pitching
+t8;5-2;0;---;5,(2-2) .CBCBS;O;MIA;Nick Fortes;Sam Bachman;-1%;92%;Strikeout Swinging
+t8;5-2;1;---;2,(0-1) CX;;MIA;Jonathan Davis;Sam Bachman;1%;93%;Single to CF (Line Drive to Deep CF-RF)
+;;;;;;;;;Joey Wendle pinch hits for Jon Berti (SS) batting 1st
+t8;5-2;1;1--;4,(3-0) .B*B1BB;;MIA;Joey Wendle;Sam Bachman;1%;94%;Walk; Davis to 2B
+t8;5-2;1;12-;5,(2-2) BFBFS;O;MIA;Jorge Soler;Sam Bachman;-1%;92%;Strikeout Swinging
+t8;5-2;2;12-;4,(2-1) BCBX;R;MIA;Luis Arraez;Sam Bachman;4%;96%;Single to CF (Line Drive); Davis Scores; Wendle to 3B
+t8;6-2;2;1-3;6,(3-2) BBSBC>C;O;MIA;Garrett Cooper;Sam Bachman;-1%;95%;Strikeout Looking
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Marlins 6, Angels 2.
+Bottom of the 8th, Angels Batting, Behind 2-6, Marlins' JT Chargois facing 5-6-7 
+;;;;;;;;;JT Chargois replaces Tanner Scott pitchingJoey Wendle moves from PH to SS 
+b8;2-6;0;---;6,(2-2) ..CBCBFX;O;LAA;Brandon Drury;JT Chargois;2%;97%;Groundout: SS-1B (Deep SS)
+b8;2-6;1;---;4,(1-2) CCBX;O;LAA;Gio Urshela;JT Chargois;1%;98%;Flyball: CF (Short CF-RF)
+b8;2-6;2;---;2,(1-0) BX;O;LAA;Luis Rengifo;JT Chargois;0%;98%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 6, Angels 2.
+Top of the 9th, Marlins Batting, Ahead 6-2, Angels' Sam Bachman facing 5-6-7 
+t9;6-2;0;---;5,(1-2) CCFBX;;MIA;Bryan De La Cruz;Sam Bachman;0%;99%;Single to LF (Line Drive)
+t9;6-2;0;1--;2,(0-1) FX;OO;MIA;Yuli Gurriel;Sam Bachman;-1%;98%;Ground Ball Double Play: 2B-SS-1B
+t9;6-2;2;---;5,(3-1) CBBBB;;MIA;Jean Segura;Sam Bachman;0%;98%;Walk
+t9;6-2;2;1--;3,(0-2) CS.X;;MIA;Nick Fortes;Sam Bachman;0%;98%;Single to CF (Line Drive); Segura to 2B
+t9;6-2;2;12-;3,(2-0) BBB;;MIA;Jonathan Davis;Sam Bachman;0%;98%;Wild Pitch; Segura to 3B; Fortes to 2B
+t9;6-2;2;-23;6,(3-2) BBB.CSC;O;MIA;Jonathan Davis;Sam Bachman;0%;98%;Strikeout Looking
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Marlins 6, Angels 2.
+Bottom of the 9th, Angels Batting, Behind 2-6, Marlins' Dylan Floro facing 8-9-1 
+;;;;;;;;;Dylan Floro replaces JT Chargois pitching
+b9;2-6;0;---;3,(0-2) .CCS;O;LAA;Matt Thaiss;Dylan Floro;1%;99%;Strikeout Swinging
+b9;2-6;1;---;5,(3-1) BBCBX;O;LAA;Zach Neto;Dylan Floro;1%;100%;Groundout: 2B-1B (Deep 2B)
+b9;2-6;2;---;3,(0-2) CCC;O;LAA;Taylor Ward;Dylan Floro;0%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 6, Angels 2.

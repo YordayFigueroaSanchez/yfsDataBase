@@ -1,0 +1,279 @@
+
+Scorebox Meta
+20230405
+12:40 p.m. Local
+18387
+American Family Field
+165
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;1;0;3;0;2;0;0;0;0;6;7;0
+https://cdn.ssref.net/req/202308101/tlogo/br/MIL-2023.png;/teams/MIL/2023.shtml;0;4;0;0;2;0;0;0;1;7;10;0
+
+Batting home
+Mike Brosseau;/players/b/brossmi01.shtml;3B;3;0;1;0;0;1;3;.167;.286;.167;.452;14;10;-0.018; 0.60;0.015;-0.033;-0.01%; 0.65; -0.3;0;0;
+Garrett Mitchell;/players/m/mitchga01.shtml;PH-CF;2;1;1;1;0;1;2;.300;.364;.850;1.214;10;7;0.335; 1.64;0.359;-0.025; 0.22%; 1.79; 0.8;1;0;HR
+Willy Adames;/players/a/adamewi01.shtml;SS;2;0;0;0;2;1;4;.238;.346;.238;.584;20;9;-0.027; 0.60;0.033;-0.059;-0.02%; 0.66; -0.2;2;2;CS
+Christian Yelich;/players/y/yelicch01.shtml;LF;3;1;0;0;1;2;4;.217;.357;.261;.618;18;10;-0.042; 1.24;0.052;-0.094;-0.03%; 1.36; -0.4;1;0;
+William Contreras;/players/c/contrwi02.shtml;C;3;0;1;0;1;0;4;.250;.294;.250;.544;19;8;-0.004; 1.20;0.068;-0.072;-0.00%; 1.32; -0.1;5;0;
+Luke Voit;/players/v/voitlu01.shtml;1B;4;1;2;0;0;2;4;.222;.222;.222;.444;14;8;0.068; 1.68;0.141;-0.074; 0.04%; 1.85; 0.6;11;4;SB
+Brian Anderson;/players/a/anderbr06.shtml;RF-3B;3;1;1;0;1;1;4;.500;.565;1.056;1.621;23;11;-0.153; 1.72;0.028;-0.181;-0.10%; 1.89; -1.1;1;1;
+Jesse Winker;/players/w/winkeje01.shtml;DH;4;1;2;2;0;0;4;.333;.409;.444;.854;19;12;0.240; 1.95;0.334;-0.094; 0.16%; 2.14; 1.9;;;2·2B
+Owen Miller;/players/m/milleow01.shtml;2B;2;1;1;1;0;0;2;.500;.600;.500;1.100;6;4;0.053; 1.39;0.081;-0.028; 0.03%; 1.52; 0.5;0;4;
+Brice Turang;/players/t/turanbr02.shtml;PH-2B;2;0;0;0;0;1;2;.313;.421;.563;.984;12;6;-0.082; 1.52;0.000;-0.082;-0.05%; 1.67; -0.5;0;4;
+Joey Wiemer;/players/w/wiemejo01.shtml;CF-RF;4;1;1;3;0;1;4;.353;.421;.588;1.009;11;8;0.109; 1.25;0.189;-0.080; 0.07%; 1.38; 1.6;2;0;HR
+Corbin Burnes;/players/b/burneco01.shtml;P;;;;;;;;;;;;;;;;;;;;;2;0;
+Hoby Milner;/players/m/milneho01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Peter Strzelecki;/players/s/strzepe01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Matt Bush;/players/b/bushma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Devin Williams;/players/w/willide03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jesse Winker 2 (2, 1 off Drew Smith, 1 off David Peterson).
+
+
+HR: Joey Wiemer (1, off David Peterson, 2nd inn, 2 on, 1 out to Deep RF); Garrett Mitchell (3, off Adam Ottavino, 9th inn, 0 on, 0 outs to Deep RF).
+
+
+TB: Joey Wiemer 4; Jesse Winker 4; Garrett Mitchell 4; Luke Voit 2; William Contreras; Brian Anderson; Mike Brosseau; Owen Miller.
+
+
+RBI: Joey Wiemer 3 (3); Jesse Winker 2 (7); Owen Miller (1); Garrett Mitchell (5).
+
+
+2-out RBI: Jesse Winker 2.
+
+
+Team LOB: 6.
+With RISP: 3 for 7.
+
+Batting away
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;5;0;0;0;0;1;5;.238;.393;.286;.679;15;10;-0.159; 1.21;0.000;-0.159;-0.09%; 1.16; -1.2;2;0;
+Starling Marte;/players/m/martest01.shtml;RF;3;2;1;0;0;0;4;.280;.333;.360;.693;17;12;0.016; 0.94;0.076;-0.060; 0.01%; 0.91; 0.4;2;0;2B,SB,HBP
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;2;3;2;0;0;4;.227;.379;.364;.743;19;11;0.200; 1.00;0.221;-0.021; 0.12%; 0.97; 2.2;2;1;2·2B
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;2;2;4;0;1;4;.192;.300;.577;.877;12;9;0.313; 1.47;0.391;-0.078; 0.18%; 1.42; 2.7;5;2;2·HR
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;1;0;0;0;3;0;4;.200;.429;.300;.729;24;9;0.059; 0.92;0.077;-0.018; 0.03%; 0.89; 0.5;;;
+Tim Locastro;/players/l/locasti01.shtml;PR-DH-DH;0;0;0;0;0;0;0;.000;.750;.000;.750;;;0.041; 2.44;0.041;0.000; 0.02%; 2.35; 0.2;;;SB
+Jeff McNeil;/players/m/mcneije01.shtml;2B;4;0;0;0;0;1;4;.250;.276;.286;.562;14;10;-0.165; 1.36;0.000;-0.165;-0.10%; 1.31; -1.5;0;0;GDP
+Mark Canha;/players/c/canhama01.shtml;LF;4;0;0;0;0;1;4;.160;.276;.320;.596;13;11;-0.161; 1.50;0.000;-0.161;-0.09%; 1.44; -1.1;1;0;
+Omar Narváez;/players/n/narvaom01.shtml;C;4;0;1;0;0;1;4;.286;.353;.286;.639;14;8;-0.070; 1.18;0.030;-0.100;-0.04%; 1.14; -0.3;10;0;
+Tomás Nido;/players/n/nidoto01.shtml;C;0;0;0;0;0;0;0;.000;.000;.000;.000;;;;;;;;;;0;0;
+Luis Guillorme;/players/g/guilllu01.shtml;3B;4;0;0;0;0;0;4;.167;.231;.167;.397;15;10;-0.096; 1.08;0.000;-0.096;-0.06%; 1.04; -0.6;1;1;
+David Peterson;/players/p/peterda01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;2;
+Drew Smith;/players/s/smithdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+John Curtiss;/players/c/curtijo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+David Robertson;/players/r/roberda08.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Adam Ottavino;/players/o/ottavad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Francisco Lindor 2 (3, 2 off Corbin Burnes); Starling Marte (2, off Corbin Burnes).
+
+
+HR: Pete Alonso 2 (3, 2 off Corbin Burnes, 3rd inn, 1 on, 1 out to Deep CF-RF; 5th inn, 1 on, 1 out to Deep LF-CF).
+
+
+HBP: Starling Marte (1, by Corbin Burnes).
+
+
+TB: Pete Alonso 8; Francisco Lindor 5; Starling Marte 2; Omar Narváez.
+
+
+GIDP: Jeff McNeil (2).
+
+
+RBI: Pete Alonso 4 (6); Francisco Lindor 2 (3).
+
+
+Team LOB: 4.
+With RISP: 3 for 8.
+
+Pitching home
+Corbin Burnes;/players/b/burneco01.shtml;Corbin Burnes; 4.1;7;6;6;2;3;2;9.64;23;93;57;32;4;21;8;9;7;0;26;;;-0.435; 0.97;-0.29%; 1.06; -4.0
+Hoby Milner;/players/m/milneho01.shtml;Hoby Milner; 1.2;0;0;0;0;1;0;0.00;4;14;11;5;1;5;2;1;0;0;;1;0;0.118; 0.98; 0.08%; 1.08; 1.1
+Peter Strzelecki;/players/s/strzepe01.shtml;Peter Strzelecki; 1 ;0;0;0;0;0;0;0.00;3;12;7;5;0;2;3;0;0;0;;0;0;0.089; 1.16; 0.06%; 1.28; 0.5
+Matt Bush;/players/b/bushma01.shtml;Matt Bush; 1 ;0;0;0;1;1;0;0.00;4;15;10;4;3;3;1;1;0;0;;0;0;0.109; 2.21; 0.07%; 2.42; 0.5
+Devin Williams;/players/w/willide03.shtml; W (1-0); 1 ;0;0;0;0;0;0;0.00;3;9;5;3;0;2;1;2;0;0;;0;0;0.141; 1.84; 0.09%; 2.02; 0.5
+
+Pitching away
+David Peterson;/players/p/peterda01.shtml;David Peterson; 4 ;5;5;5;5;5;1;6.00;21;92;49;26;11;12;3;8;6;0;32;;;-0.236; 1.04;-0.14%; 1.00; -2.3
+Drew Smith;/players/s/smithdr01.shtml;Drew Smith; 1 ;2;1;1;0;2;0;3.38;5;29;16;9;1;6;0;3;2;0;;1;1;-0.158; 2.20;-0.09%; 2.12; -1.1
+John Curtiss;/players/c/curtijo02.shtml;John Curtiss; 2 ;2;0;0;0;3;0;2.25;7;26;17;9;6;2;3;1;0;0;;0;0;0.165; 1.31; 0.10%; 1.26; 1.0
+David Robertson;/players/r/roberda08.shtml;David Robertson; 1 ;0;0;0;0;0;0;0.00;3;12;7;3;1;3;1;2;0;0;;0;0;0.109; 1.42; 0.06%; 1.37; 0.5
+Adam Ottavino;/players/o/ottavad01.shtml; L (0-1); 0 ;1;1;1;0;0;1;4.50;1;7;4;3;0;1;0;1;0;0;;0;0;-0.359; 2.28;-0.21%; 2.20; -1.0
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Corbin Burnes (2; Starling Marte).
+IBB: None.
+Pickoffs: David Peterson (1; Willy Adames, 2nd base (CS)).
+
+Balks: None.
+WP: None.
+HBP: Corbin Burnes (2; Starling Marte).
+IBB: None.
+Pickoffs: David Peterson (1; Willy Adames, 2nd base (CS)).
+
+section_content
+Umpires: HP - Mike Muchlinski, 1B - Sean Barber, 2B - Alan Porter, 3B - Jim Wolf, LF - (none), RF - (none).
+Time of Game: 2:45.
+Attendance: 18,387.
+Start Time Weather: 66° F, Wind 0mph, In Dome.
+
+div_lineups
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Starling Marte;/players/m/martest01.shtml;RF
+3;Francisco Lindor;/players/l/lindofr01.shtml;SS
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+6;Jeff McNeil;/players/m/mcneije01.shtml;2B
+7;Mark Canha;/players/c/canhama01.shtml;LF
+8;Omar Narváez;/players/n/narvaom01.shtml;C
+9;Luis Guillorme;/players/g/guilllu01.shtml;3B
+; David Peterson;/players/p/peterda01.shtml;P
+Brewers
+1;Mike Brosseau;/players/b/brossmi01.shtml;3B
+2;Willy Adames;/players/a/adamewi01.shtml;SS
+3;Christian Yelich;/players/y/yelicch01.shtml;LF
+4;William Contreras;/players/c/contrwi02.shtml;C
+5;Luke Voit;/players/v/voitlu01.shtml;1B
+6;Brian Anderson;/players/a/anderbr06.shtml;RF
+7;Jesse Winker;/players/w/winkeje01.shtml;DH
+8;Owen Miller;/players/m/milleow01.shtml;2B
+9;Joey Wiemer;/players/w/wiemejo01.shtml;CF
+; Corbin Burnes;/players/b/burneco01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b9;6-6;0;---;7,(3-2) ..BFCBFBX;R;MIL;Garrett Mitchell;Adam Ottavino;36%;100%;Home Run (Fly Ball to Deep RF)
+b5;4-6;2;-23;8,(3-2) CBF>B.FBFX;RR;MIL;Jesse Winker;Drew Smith;24%;55%;Double to RF (Line Drive to Deep CF-RF); Yelich Scores; Voit Scores
+t5;4-4;1;-2-;5,(2-2) BC*BCX;RR;NYM;Pete Alonso;Corbin Burnes;-21%;27%;Home Run (Line Drive to Deep LF-CF); Lindor Scores
+b2;1-1;1;1-3;1,(0-0) X;RRR;MIL;Joey Wiemer;David Peterson;19%;81%;Home Run (Fly Ball to Deep RF); Winker Scores; Miller Scores
+t3;2-4;1;1--;1,(0-0) X;RR;NYM;Pete Alonso;Corbin Burnes;-18%;53%;Home Run (Fly Ball to Deep CF-RF); Lindor Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Mets Batting, Tied 0-0, Brewers' Corbin Burnes facing 1-2-3 
+t1;0-0;0;---;4,(1-2) CFBX;O;NYM;Brandon Nimmo;Corbin Burnes;2%;52%;Groundout: 1B-P (2B-1B)
+t1;0-0;1;---;2,(0-1) SH;;NYM;Starling Marte;Corbin Burnes;-2%;50%;Hit By Pitch
+t1;0-0;1;1--;3,(1-1) C*B>B;;NYM;Francisco Lindor;Corbin Burnes;-2%;48%;Marte Steals 2B
+t1;0-0;1;-2-;4,(2-1) C*B>B.X;R;NYM;Francisco Lindor;Corbin Burnes;-10%;39%;Double to LF (Line Drive to LF Line); Marte Scores
+t1;1-0;1;-2-;4,(1-2) BFCT;O;NYM;Pete Alonso;Corbin Burnes;3%;42%;Strikeout Swinging
+t1;1-0;2;-2-;6,(3-2) BBBCCB;;NYM;Daniel Vogelbach;Corbin Burnes;-1%;41%;Walk
+t1;1-0;2;12-;3,(2-0) BBX;O;NYM;Jeff McNeil;Corbin Burnes;4%;45%;Lineout: LF (Deep LF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Mets 1, Brewers 0.
+Bottom of the 1st, Brewers Batting, Behind 0-1, Mets' David Peterson facing 1-2-3 
+b1;0-1;0;---;5,(2-2) BFBS.X;O;MIL;Mike Brosseau;David Peterson;-2%;42%;Lineout: 3B (SS-3B Hole)
+b1;0-1;1;---;5,(3-1) CBBBB;;MIL;Willy Adames;David Peterson;3%;45%;Walk
+b1;0-1;1;1--;6,(3-2) C*BBFB1S;O;MIL;Christian Yelich;David Peterson;-3%;42%;Strikeout Swinging
+b1;0-1;2;1--;4,(2-2) VBSFX;O;MIL;William Contreras;David Peterson;-2%;40%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mets 1, Brewers 0.
+Top of the 2nd, Mets Batting, Ahead 1-0, Brewers' Corbin Burnes facing 7-8-9 
+t2;1-0;0;---;4,(0-2) CFFC;O;NYM;Mark Canha;Corbin Burnes;2%;42%;Strikeout Looking
+t2;1-0;1;---;2,(0-1) CX;O;NYM;Omar Narváez;Corbin Burnes;2%;43%;Groundout: 2B-1B
+t2;1-0;2;---;3,(1-1) BFX;O;NYM;Luis Guillorme;Corbin Burnes;1%;44%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 1, Brewers 0.
+Bottom of the 2nd, Brewers Batting, Behind 0-1, Mets' David Peterson facing 5-6-7 
+b2;0-1;0;---;5,(2-2) BSBFS;O;MIL;Luke Voit;David Peterson;-3%;42%;Strikeout Swinging
+b2;0-1;1;---;7,(3-2) BBCBCFB;;MIL;Brian Anderson;David Peterson;3%;45%;Walk
+b2;0-1;1;1--;4,(1-2) FFBX;;MIL;Jesse Winker;David Peterson;9%;54%;Double to RF (Line Drive to Deep RF Line); Anderson to 3B
+b2;0-1;1;-23;1,(0-0) X;R;MIL;Owen Miller;David Peterson;8%;62%;Single to LF (Line Drive to Deep SS-3B Hole); Anderson Scores; Winker to 3B
+b2;1-1;1;1-3;1,(0-0) X;RRR;MIL;Joey Wiemer;David Peterson;19%;81%;Home Run (Fly Ball to Deep RF); Winker Scores; Miller Scores
+b2;4-1;1;---;7,(2-2) CFBFBF*S;O;MIL;Mike Brosseau;David Peterson;-1%;80%;Strikeout Swinging
+b2;4-1;2;---;6,(3-2) FBF.BBB;;MIL;Willy Adames;David Peterson;1%;81%;Walk
+b2;4-1;2;1--;,(0-0) 1;O;MIL;Christian Yelich;David Peterson;-1%;79%;Adames Caught Stealing (PO) 2B (P-1B-SS)
+;;;;;;;;;4 runs, 3 hits, 0 errors, 0 LOB. Mets 1, Brewers 4.
+Top of the 3rd, Mets Batting, Behind 1-4, Brewers' Corbin Burnes facing 1-2-3 
+t3;1-4;0;---;4,(1-2) CCB*S;O;NYM;Brandon Nimmo;Corbin Burnes;2%;82%;Strikeout Swinging
+t3;1-4;1;---;3,(0-2) CSX;;NYM;Starling Marte;Corbin Burnes;-4%;78%;Double to RF (Fly Ball to Short RF Line)
+t3;1-4;1;-2-;3,(2-0) *B*BX;R;NYM;Francisco Lindor;Corbin Burnes;-7%;71%;Single to RF (Line Drive to RF Line); Marte Scores
+t3;2-4;1;1--;1,(0-0) X;RR;NYM;Pete Alonso;Corbin Burnes;-18%;53%;Home Run (Fly Ball to Deep CF-RF); Lindor Scores
+t3;4-4;1;---;6,(3-2) BCFBBX;O;NYM;Daniel Vogelbach;Corbin Burnes;2%;54%;Groundout: 1B unassisted
+t3;4-4;2;---;5,(2-2) CBBF.X;O;NYM;Jeff McNeil;Corbin Burnes;1%;56%;Groundout: 1B-P
+;;;;;;;;;3 runs, 3 hits, 0 errors, 0 LOB. Mets 4, Brewers 4.
+Bottom of the 3rd, Brewers Batting, Tied 4-4, Mets' David Peterson facing 3-4-5 
+b3;4-4;0;---;4,(1-2) CBS*S;O;MIL;Christian Yelich;David Peterson;-3%;53%;Strikeout Swinging
+b3;4-4;1;---;4,(3-0) BBBB;;MIL;William Contreras;David Peterson;3%;56%;Walk
+b3;4-4;1;1--;1,(0-0) X;;MIL;Luke Voit;David Peterson;4%;60%;Single to LF (Line Drive to LF-CF); Contreras to 2B
+b3;4-4;1;12-;6,(3-2) BBCB*SX;O;MIL;Brian Anderson;David Peterson;-5%;55%;Flyball: RF (CF-RF)
+b3;4-4;2;12-;5,(3-1) C*BBBX;O;MIL;Jesse Winker;David Peterson;-5%;50%;Lineout: SS (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Mets 4, Brewers 4.
+Top of the 4th, Mets Batting, Tied 4-4, Brewers' Corbin Burnes facing 7-8-9 
+t4;4-4;0;---;1,(0-0) X;O;NYM;Mark Canha;Corbin Burnes;3%;53%;Groundout: 2B-1B
+t4;4-4;1;---;4,(2-1) BCBX;;NYM;Omar Narváez;Corbin Burnes;-3%;50%;Single to RF (Line Drive to Short RF Line)
+t4;4-4;1;1--;6,(3-2) BCBBCX;O;NYM;Luis Guillorme;Corbin Burnes;2%;52%;Groundout: 2B-1B (2B-1B); Narváez to 2B
+t4;4-4;2;-2-;3,(2-0) BBX;O;NYM;Brandon Nimmo;Corbin Burnes;4%;56%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 4, Brewers 4.
+Bottom of the 4th, Brewers Batting, Tied 4-4, Mets' David Peterson facing 8-9-1 
+b4;4-4;0;---;5,(2-2) CBBFX;O;MIL;Owen Miller;David Peterson;-3%;53%;Groundout: 1B-P (Weak 1B)
+b4;4-4;1;---;2,(0-1) CX;O;MIL;Joey Wiemer;David Peterson;-2%;51%;Groundout: SS-1B
+b4;4-4;2;---;2,(0-1) CX;;MIL;Mike Brosseau;David Peterson;2%;53%;Single to LF (Line Drive to LF Line)
+b4;4-4;2;1--;7,(3-2) 1BTB+1SFB.>S;O;MIL;Willy Adames;David Peterson;-3%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 4, Brewers 4.
+Top of the 5th, Mets Batting, Tied 4-4, Brewers' Corbin Burnes facing 2-3-4 
+t5;4-4;0;---;8,(2-2) SFBFBFFX;O;NYM;Starling Marte;Corbin Burnes;3%;53%;Lineout: CF (Deep CF)
+t5;4-4;1;---;5,(1-2) CCFBX;;NYM;Francisco Lindor;Corbin Burnes;-6%;48%;Double to RF (Line Drive to RF Line)
+t5;4-4;1;-2-;5,(2-2) BC*BCX;RR;NYM;Pete Alonso;Corbin Burnes;-21%;27%;Home Run (Line Drive to Deep LF-CF); Lindor Scores
+t5;6-4;1;---;7,(3-2) BCBFBFB;;NYM;Daniel Vogelbach;Corbin Burnes;-2%;25%;Walk
+;;;;;;;;;Hoby Milner replaces Corbin Burnes pitching
+t5;6-4;1;1--;2,(0-1) .FX;OO;NYM;Jeff McNeil;Hoby Milner;4%;29%;Ground Ball Double Play: 1B-SS-P
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Mets 6, Brewers 4.
+Bottom of the 5th, Brewers Batting, Behind 4-6, Mets' David Peterson facing 3-4-5 
+b5;4-6;0;---;5,(3-1) BCBBB;;MIL;Christian Yelich;David Peterson;5%;34%;Walk
+;;;;;;;;;Drew Smith replaces David Peterson pitching
+b5;4-6;0;1--;7,(3-2) .CB*BCB>F>X;O;MIL;William Contreras;Drew Smith;-5%;29%;Flyball: RF (Deep RF)
+b5;4-6;1;1--;2,(1-0) *BX;;MIL;Luke Voit;Drew Smith;9%;38%;Single to LF (Line Drive to LF-CF); Yelich to 3B
+b5;4-6;1;1-3;6,(3-2) SBBFBC;O;MIL;Brian Anderson;Drew Smith;-9%;29%;Strikeout Looking
+b5;4-6;2;1-3;4,(1-2) CBF>B;;MIL;Jesse Winker;Drew Smith;2%;31%;Voit Steals 2B
+b5;4-6;2;-23;8,(3-2) CBF>B.FBFX;RR;MIL;Jesse Winker;Drew Smith;24%;55%;Double to RF (Line Drive to Deep CF-RF); Yelich Scores; Voit Scores
+;;;;;;;;;Brice Turang pinch hits for Owen Miller (2B) batting 8th
+b5;6-6;2;-2-;6,(3-2) .CBBBTC;O;MIL;Brice Turang;Drew Smith;-5%;50%;Strikeout Looking
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Mets 6, Brewers 6.
+Top of the 6th, Mets Batting, Tied 6-6, Brewers' Hoby Milner facing 7-8-9 
+;;;;;;;;;Brice Turang moves from PH to 2B 
+t6;6-6;0;---;4,(1-2) .CCBX;O;NYM;Mark Canha;Hoby Milner;3%;53%;Flyball: RF (Short RF)
+t6;6-6;1;---;5,(2-2) CBFBS;O;NYM;Omar Narváez;Hoby Milner;2%;56%;Strikeout Swinging
+t6;6-6;2;---;3,(0-2) CCX;O;NYM;Luis Guillorme;Hoby Milner;2%;58%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 6, Brewers 6.
+Bottom of the 6th, Brewers Batting, Tied 6-6, Mets' John Curtiss facing 9-1-2 
+;;;;;;;;;John Curtiss replaces Drew Smith pitching
+b6;6-6;0;---;4,(1-2) .SBFC;O;MIL;Joey Wiemer;John Curtiss;-3%;54%;Strikeout Looking
+;;;;;;;;;Garrett Mitchell pinch hits for Mike Brosseau (3B) batting 1st
+b6;6-6;1;---;3,(0-2) .FSS;O;MIL;Garrett Mitchell;John Curtiss;-2%;52%;Strikeout Swinging
+b6;6-6;2;---;2,(0-1) CX;O;MIL;Willy Adames;John Curtiss;-2%;50%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 6, Brewers 6.
+Top of the 7th, Mets Batting, Tied 6-6, Brewers' Peter Strzelecki facing 1-2-3 
+;;;;;;;;;Peter Strzelecki replaces Hoby Milner pitchingBrian Anderson moves from RF to 3B Garrett Mitchell moves from PH to CF Joey Wiemer moves from CF to RF 
+t7;6-6;0;---;1,(0-0) ....X;O;NYM;Brandon Nimmo;Peter Strzelecki;4%;54%;Groundout: 2B-1B (2B-1B)
+t7;6-6;1;---;4,(2-1) CBBX;O;NYM;Starling Marte;Peter Strzelecki;3%;57%;Groundout: 1B-P (2B-1B)
+t7;6-6;2;---;7,(3-2) CT.BFBBX;O;NYM;Francisco Lindor;Peter Strzelecki;2%;59%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 6, Brewers 6.
+Bottom of the 7th, Brewers Batting, Tied 6-6, Mets' John Curtiss facing 3-4-5 
+b7;6-6;0;---;3,(0-2) SSX;O;MIL;Christian Yelich;John Curtiss;-4%;55%;Flyball: LF (Deep LF Line)
+b7;6-6;1;---;4,(3-0) BBBX;;MIL;William Contreras;John Curtiss;4%;59%;Single to CF (Ground Ball thru SS-2B)
+b7;6-6;1;1--;6,(3-2) BFB1BFS;O;MIL;Luke Voit;John Curtiss;-5%;54%;Strikeout Swinging
+b7;6-6;2;1--;4,(2-1) FB1BX;O;MIL;Brian Anderson;John Curtiss;-4%;50%;Single to 1B/runner struck by batted ball and is out (Ground Ball to 2B-1B); Contreras out at 2B/1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Mets 6, Brewers 6.
+Top of the 8th, Mets Batting, Tied 6-6, Brewers' Matt Bush facing 4-5-6 
+;;;;;;;;;Matt Bush replaces Peter Strzelecki pitching
+t8;6-6;0;---;2,(0-1) .CX;O;NYM;Pete Alonso;Matt Bush;5%;55%;Groundout: 3B-1B (SS-3B Hole)
+t8;6-6;1;---;5,(3-1) BBCBB;;NYM;Daniel Vogelbach;Matt Bush;-5%;50%;Walk
+;;;;;;;;;Tim Locastro pinch runs for Daniel Vogelbach (DH) batting 5th
+t8;6-6;1;1--;2,(0-1) .1F>S;;NYM;Jeff McNeil;Matt Bush;-4%;46%;Locastro Steals 2B
+t8;6-6;1;-2-;4,(0-2) .1F>S.FS;O;NYM;Jeff McNeil;Matt Bush;7%;53%;Strikeout Swinging
+t8;6-6;2;-2-;4,(1-2) SC*BX;O;NYM;Mark Canha;Matt Bush;8%;61%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mets 6, Brewers 6.
+Bottom of the 8th, Brewers Batting, Tied 6-6, Mets' David Robertson facing 7-8-9 
+;;;;;;;;;David Robertson replaces John Curtiss pitching
+b8;6-6;0;---;2,(0-1) ..CX;O;MIL;Jesse Winker;David Robertson;-5%;56%;Flyball: CF (LF-CF)
+b8;6-6;1;---;6,(3-2) CBBSBX;O;MIL;Brice Turang;David Robertson;-4%;53%;Flyball: CF (Short CF)
+b8;6-6;2;---;4,(2-1) BBCX;O;MIL;Joey Wiemer;David Robertson;-3%;50%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 6, Brewers 6.
+Top of the 9th, Mets Batting, Tied 6-6, Brewers' Devin Williams facing 8-9-1 
+;;;;;;;;;Devin Williams replaces Matt Bush pitching
+t9;6-6;0;---;3,(2-0) .BBX;O;NYM;Omar Narváez;Devin Williams;6%;56%;Flyball: CF
+t9;6-6;1;---;3,(1-1) CBX;O;NYM;Luis Guillorme;Devin Williams;5%;61%;Groundout: 2B-1B
+t9;6-6;2;---;3,(1-1) CBX;O;NYM;Brandon Nimmo;Devin Williams;3%;64%;Flyball: SS (Deep SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 6, Brewers 6.
+Bottom of the 9th, Brewers Batting, Tied 6-6, Mets' Adam Ottavino facing 1-2-3 
+;;;;;;;;;Adam Ottavino replaces David Robertson pitchingTomás Nido replaces Omar Narváez playing C batting 8th
+b9;6-6;0;---;7,(3-2) ..BFCBFBX;R;MIL;Garrett Mitchell;Adam Ottavino;36%;100%;Home Run (Fly Ball to Deep RF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Mets 6, Brewers 7.

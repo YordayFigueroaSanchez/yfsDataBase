@@ -1,0 +1,262 @@
+
+Scorebox Meta
+20230330
+7:10 p.m. Local
+52075
+Dodger Stadium
+155
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/ARI-2023.png;/teams/ARI/2023.shtml;1;1;0;0;0;0;0;0;0;2;4;1
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;0;2;0;3;2;0;1;X;8;12;1
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;RF;4;1;0;0;1;3;5;.000;.200;.000;.200;27;16;-0.059; 0.74;0.032;-0.091;-0.03%; 0.74; -1.4;0;1;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;4;1;2;0;1;1;5;.500;.600;.500;1.100;23;12;-0.020; 0.82;0.086;-0.105;-0.01%; 0.82; 0.2;7;0;
+Will Smith;/players/s/smithwi05.shtml;C;4;1;3;4;0;0;5;.750;.600;1.000;1.600;20;14;0.316; 1.04;0.319;-0.003; 0.19%; 1.03; 2.4;8;1;2B,SF
+Max Muncy;/players/m/muncyma01.shtml;3B;5;0;0;0;0;5;5;.000;.000;.000;.000;22;15;-0.126; 0.78;0.000;-0.126;-0.07%; 0.77; -2.0;0;3;
+J.D. Martinez;/players/m/martijd02.shtml;DH;4;0;1;1;0;1;4;.250;.250;.250;.500;16;11;0.044; 0.96;0.098;-0.054; 0.03%; 0.95; 0.3;;;
+David Peralta;/players/p/peralda01.shtml;LF;4;0;2;1;0;0;4;.500;.500;.500;1.000;9;6;0.018; 0.65;0.056;-0.038; 0.01%; 0.65; 0.3;3;0;
+Miguel Vargas;/players/v/vargami01.shtml;2B;2;1;0;0;2;1;4;.000;.500;.000;.500;14;6;0.014; 0.34;0.027;-0.013; 0.01%; 0.34; 0.2;2;2;
+James Outman;/players/o/outmaja01.shtml;CF;3;3;2;2;1;1;4;.667;.750;1.667;2.417;19;10;0.068; 0.65;0.097;-0.029; 0.04%; 0.64; 2.4;5;0;HR
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;4;1;2;0;0;0;4;.500;.500;.750;1.250;8;6;0.089; 0.76;0.122;-0.033; 0.05%; 0.75; 1.3;2;1;2B
+Julio Urías;/players/u/uriasju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Phil Bickford;/players/b/bickfph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Shelby Miller;/players/m/millesh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yency Almonte;/players/a/almonye01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Will Smith (1, off Zac Gallen); Miguel Rojas (1, off Zac Gallen).
+
+
+HR: James Outman (1, off Cole Sulser, 6th inn, 1 on, 0 outs to Deep LF-CF).
+
+
+SF: Will Smith (1, off Kevin Ginkel).
+
+
+TB: James Outman 5; Will Smith 4; Miguel Rojas 3; David Peralta 2; Freddie Freeman 2; J.D. Martinez.
+
+
+RBI: Will Smith 4 (4); James Outman 2 (2); J.D. Martinez (1); David Peralta (1).
+
+
+2-out RBI: Will Smith 2; J.D. Martinez; David Peralta.
+
+
+Team LOB: 8.
+With RISP: 5 for 11.
+
+Batting away
+Kyle Lewis;/players/l/lewisky01.shtml;DH;4;0;0;0;0;3;4;.000;.000;.000;.000;19;15;-0.068; 0.65;0.000;-0.068;-0.04%; 0.66; -1.0;;;
+Ketel Marte;/players/m/marteke01.shtml;2B;3;1;1;0;0;0;4;.333;.500;.333;.833;19;11;0.027; 0.46;0.044;-0.017; 0.02%; 0.47; 0.2;0;3;HBP
+Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF;4;0;1;0;0;1;4;.250;.250;.250;.500;10;7;-0.017; 0.61;0.035;-0.052;-0.01%; 0.62; -0.4;0;1;GDP
+Christian Walker;/players/w/walkech02.shtml;1B;3;0;1;1;0;0;3;.333;.333;.333;.667;14;11;0.052; 1.11;0.090;-0.038; 0.03%; 1.12; 0.5;6;0;
+Evan Longoria;/players/l/longoev01.shtml;3B;3;0;0;0;0;0;3;.000;.000;.000;.000;7;5;-0.104; 0.91;0.000;-0.104;-0.06%; 0.92; -1.3;1;1;GDP
+Nick Ahmed;/players/a/ahmedni01.shtml;SS;3;1;1;0;0;2;3;.333;.333;.667;1.000;11;9;0.039; 0.49;0.055;-0.016; 0.02%; 0.49; 0.4;1;1;2B
+Corbin Carroll;/players/c/carroco02.shtml;CF;3;0;0;0;0;0;3;.000;.000;.000;.000;11;7;-0.052; 0.86;0.000;-0.052;-0.03%; 0.87; -0.7;2;0;
+Gabriel Moreno;/players/m/morenga01.shtml;C;2;0;0;1;0;1;3;.000;.000;.000;.000;14;9;-0.007; 0.76;0.019;-0.026;-0.01%; 0.77; -0.2;13;0;SF
+Jake McCarthy;/players/m/mccarja02.shtml;RF;3;0;0;0;0;1;3;.000;.000;.000;.000;9;7;-0.026; 0.33;0.000;-0.026;-0.02%; 0.33; -0.3;1;0;
+Zac Gallen;/players/g/galleza01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Cole Sulser;/players/s/sulseco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kyle Nelson;/players/n/nelsoky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Carlos Vargas;/players/v/vargaca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kevin Ginkel;/players/g/ginkeke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Nick Ahmed (1, off Julio Urías).
+
+
+SF: Gabriel Moreno (1, off Julio Urías).
+
+
+HBP: Ketel Marte (1, by Julio Urías).
+
+
+TB: Nick Ahmed 2; Ketel Marte; Christian Walker; Lourdes Gurriel Jr..
+
+
+GIDP: Evan Longoria (1); Lourdes Gurriel Jr. (1).
+
+
+RBI: Christian Walker (1); Gabriel Moreno (1).
+
+
+Team LOB: 1.
+With RISP: 1 for 3.
+
+Pitching home
+Julio Urías;/players/u/uriasju01.shtml; W (1-0); 6 ;4;2;2;0;6;0;3.00;21;79;57;33;9;15;5;9;6;0;62;;;0.121; 0.90; 0.07%; 0.89; 1.2
+Phil Bickford;/players/b/bickfph01.shtml;Phil Bickford; 1 ;0;0;0;0;1;0;0.00;3;12;7;3;2;2;0;2;0;0;;0;0;0.019; 0.24; 0.01%; 0.24; 0.5
+Shelby Miller;/players/m/millesh01.shtml;Shelby Miller; 1 ;0;0;0;0;1;0;0.00;3;13;10;5;3;2;0;2;0;0;;0;0;0.014; 0.18; 0.01%; 0.18; 0.5
+Yency Almonte;/players/a/almonye01.shtml;Yency Almonte; 1 ;0;0;0;0;0;0;0.00;3;10;7;3;1;3;1;2;0;0;;0;0;0.003; 0.04; 0.00%; 0.04; 0.5
+
+Pitching away
+Zac Gallen;/players/g/galleza01.shtml; L (0-1); 4.2;6;5;5;3;7;0;9.64;23;89;55;31;12;12;3;10;6;0;36;;;-0.233; 1.21;-0.14%; 1.22; -1.8
+Cole Sulser;/players/s/sulseco01.shtml;Cole Sulser; 1 ;2;2;2;1;0;1;18.00;5;20;9;6;1;2;1;3;1;0;;2;1;-0.114; 0.42;-0.07%; 0.43; -2.1
+Kyle Nelson;/players/n/nelsoky01.shtml;Kyle Nelson; 1 ;2;0;0;0;2;0;0.00;5;20;14;7;5;2;1;2;2;0;;0;0;0.004; 0.05; 0.00%; 0.05; 0.4
+Carlos Vargas;/players/v/vargaca01.shtml;Carlos Vargas; 0.2;2;1;1;1;2;0;13.50;5;18;11;3;2;6;1;1;1;0;;1;0;-0.001; 0.04; 0.00%; 0.04; -0.8
+Kevin Ginkel;/players/g/ginkeke01.shtml;Kevin Ginkel; 0.2;0;0;0;0;1;0;0.00;2;11;7;6;1;0;0;1;0;0;;3;1;0.000; 0.01; 0.00%; 0.01; 0.6
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Julio Urías (1; Ketel Marte).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Julio Urías (1; Ketel Marte).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Marvin Hudson, 1B - Hunter Wendelstedt, 2B - John Tumpane, 3B - Ryan Blakney, LF - (none), RF - (none).
+Time of Game: 2:35.
+Attendance: 52,075.
+Field Condition: Unknown.
+Start Time Weather: 54° F, Wind 4mph out to Rightfield, Sunny, No Precipitation.
+
+div_lineups
+Diamondbacks
+1;Kyle Lewis;/players/l/lewisky01.shtml;DH
+2;Ketel Marte;/players/m/marteke01.shtml;2B
+3;Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF
+4;Christian Walker;/players/w/walkech02.shtml;1B
+5;Evan Longoria;/players/l/longoev01.shtml;3B
+6;Nick Ahmed;/players/a/ahmedni01.shtml;SS
+7;Corbin Carroll;/players/c/carroco02.shtml;CF
+8;Gabriel Moreno;/players/m/morenga01.shtml;C
+9;Jake McCarthy;/players/m/mccarja02.shtml;RF
+; Zac Gallen;/players/g/galleza01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;RF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;C
+4;Max Muncy;/players/m/muncyma01.shtml;3B
+5;J.D. Martinez;/players/m/martijd02.shtml;DH
+6;David Peralta;/players/p/peralda01.shtml;LF
+7;Miguel Vargas;/players/v/vargami01.shtml;2B
+8;James Outman;/players/o/outmaja01.shtml;CF
+9;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+; Julio Urías;/players/u/uriasju01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;0-2;2;-23;5,(2-2) FBBCX;RR;LAD;Will Smith;Zac Gallen;18%;53%;Single to RF (Line Drive to RF Line); Outman Scores; Rojas Scores
+b3;0-2;0;1--;3,(0-2) S11CX;;LAD;Miguel Rojas;Zac Gallen;12%;50%;Ground-rule Double (Line Drive to RF Line); Outman to 3B
+b5;2-2;1;1-3;3,(0-2) FCX;R;LAD;Will Smith;Zac Gallen;11%;77%;Single to RF (Pop Fly to Deep 1B); Betts Scores; Freeman to 3B
+b5;3-2;2;1-3;5,(1-2) FSFBX;R;LAD;J.D. Martinez;Zac Gallen;10%;80%;Single to RF (Line Drive); Freeman Scores; Smith to 2B
+t1;0-0;1;12-;3,(0-2) SFX;R;ARI;Christian Walker;Julio Urías;-9%;37%;Single to LF (Line Drive to Deep SS-3B Hole); Marte Scores; Gurriel to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Diamondbacks Batting, Tied 0-0, Dodgers' Julio Urías facing 1-2-3 
+t1;0-0;0;---;7,(1-2) CSFFBFS;O;ARI;Kyle Lewis;Julio Urías;2%;52%;Strikeout Swinging
+t1;0-0;1;---;2,(1-0) BH;;ARI;Ketel Marte;Julio Urías;-2%;50%;Hit By Pitch
+t1;0-0;1;1--;2,(0-1) FX;;ARI;Lourdes Gurriel Jr.;Julio Urías;-3%;46%;Single to LF (Line Drive); Marte to 2B
+t1;0-0;1;12-;3,(0-2) SFX;R;ARI;Christian Walker;Julio Urías;-9%;37%;Single to LF (Line Drive to Deep SS-3B Hole); Marte Scores; Gurriel to 2B
+t1;1-0;1;12-;1,(0-0) X;OO;ARI;Evan Longoria;Julio Urías;8%;45%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Diamondbacks 1, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Behind 0-1, Diamondbacks' Zac Gallen facing 1-2-3 
+b1;0-1;0;---;4,(1-2) CBSS;O;LAD;Mookie Betts;Zac Gallen;-2%;43%;Strikeout Swinging
+b1;0-1;1;---;3,(0-2) CFS;O;LAD;Freddie Freeman;Zac Gallen;-2%;41%;Strikeout Swinging
+b1;0-1;2;---;1,(0-0) X;;LAD;Will Smith;Zac Gallen;2%;43%;Double to RF (Line Drive to Deep RF Line)
+b1;0-1;2;-2-;5,(2-2) BCBSC;O;LAD;Max Muncy;Zac Gallen;-3%;40%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 1, Dodgers 0.
+Top of the 2nd, Diamondbacks Batting, Ahead 1-0, Dodgers' Julio Urías facing 6-7-8 
+t2;1-0;0;---;1,(0-0) X;;ARI;Nick Ahmed;Julio Urías;-6%;34%;Double to LF (Line Drive to Short LF Line)
+t2;1-0;0;-2-;4,(2-1) BBCX;O;ARI;Corbin Carroll;Julio Urías;1%;36%;Flyball: CF (Deep CF-RF); Ahmed to 3B
+t2;1-0;1;--3;4,(2-1) BCBX;RO;ARI;Gabriel Moreno;Julio Urías;-2%;34%;Lineout: CF/Sacrifice Fly (Deep CF); Ahmed Scores
+t2;2-0;2;---;2,(0-1) CX;O;ARI;Jake McCarthy;Julio Urías;1%;35%;Groundout: 1B unassisted (2B-1B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Diamondbacks 2, Dodgers 0.
+Bottom of the 2nd, Dodgers Batting, Behind 0-2, Diamondbacks' Zac Gallen facing 5-6-7 
+b2;0-2;0;---;6,(3-2) BCBFBX;O;LAD;J.D. Martinez;Zac Gallen;-3%;32%;Groundout: 3B-1B (Weak 3B)
+b2;0-2;1;---;2,(1-0) BX;O;LAD;David Peralta;Zac Gallen;-2%;30%;Groundout: 2B-1B
+b2;0-2;2;---;3,(0-2) FFX;O;LAD;Miguel Vargas;Zac Gallen;-1%;29%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 2, Dodgers 0.
+Top of the 3rd, Diamondbacks Batting, Ahead 2-0, Dodgers' Julio Urías facing 1-2-3 
+t3;2-0;0;---;5,(2-2) BFBFS;O;ARI;Kyle Lewis;Julio Urías;2%;31%;Strikeout Swinging
+t3;2-0;1;---;1,(0-0) X;;ARI;Ketel Marte;Julio Urías;-2%;29%;Reached on E6 (Ground Ball to Deep SS); Marte to 1B
+t3;2-0;1;1--;2,(1-0) BX;OO;ARI;Lourdes Gurriel Jr.;Julio Urías;4%;33%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 1 error, 0 LOB. Diamondbacks 2, Dodgers 0.
+Bottom of the 3rd, Dodgers Batting, Behind 0-2, Diamondbacks' Zac Gallen facing 8-9-1 
+b3;0-2;0;---;6,(3-2) SCBBBB;;LAD;James Outman;Zac Gallen;4%;38%;Walk
+b3;0-2;0;1--;3,(0-2) S11CX;;LAD;Miguel Rojas;Zac Gallen;12%;50%;Ground-rule Double (Line Drive to RF Line); Outman to 3B
+b3;0-2;0;-23;5,(2-2) BFF*B*S;O;LAD;Mookie Betts;Zac Gallen;-6%;43%;Strikeout Swinging
+b3;0-2;1;-23;4,(2-1) BFBX;O;LAD;Freddie Freeman;Zac Gallen;-9%;35%;Lineout: SS (Deep SS)
+b3;0-2;2;-23;5,(2-2) FBBCX;RR;LAD;Will Smith;Zac Gallen;18%;53%;Single to RF (Line Drive to RF Line); Outman Scores; Rojas Scores
+b3;2-2;2;1--;4,(1-2) F*BCT;O;LAD;Max Muncy;Zac Gallen;-3%;50%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Diamondbacks 2, Dodgers 2.
+Top of the 4th, Diamondbacks Batting, Tied 2-2, Dodgers' Julio Urías facing 4-5-6 
+t4;2-2;0;---;6,(1-2) CSFFBX;O;ARI;Christian Walker;Julio Urías;3%;53%;Groundout: 3B-1B (SS-3B Hole)
+t4;2-2;1;---;3,(0-2) CSX;O;ARI;Evan Longoria;Julio Urías;2%;55%;Foul Popfly: 1B (1B into Foul Terr.)
+t4;2-2;2;---;6,(1-2) CCFFBS;O;ARI;Nick Ahmed;Julio Urías;1%;56%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 2, Dodgers 2.
+Bottom of the 4th, Dodgers Batting, Tied 2-2, Diamondbacks' Zac Gallen facing 5-6-7 
+b4;2-2;0;---;1,(0-0) X;O;LAD;J.D. Martinez;Zac Gallen;-3%;53%;Flyball: RF (Short RF Line)
+b4;2-2;1;---;4,(2-1) CBBX;O;LAD;David Peralta;Zac Gallen;-2%;51%;Groundout: P-2B-1B (Weak SS-2B)
+b4;2-2;2;---;4,(3-0) BBBB;;LAD;Miguel Vargas;Zac Gallen;2%;53%;Walk
+b4;2-2;2;1--;4,(1-2) B1FSS;O;LAD;James Outman;Zac Gallen;-3%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Diamondbacks 2, Dodgers 2.
+Top of the 5th, Diamondbacks Batting, Tied 2-2, Dodgers' Julio Urías facing 7-8-9 
+t5;2-2;0;---;3,(1-1) BCX;O;ARI;Corbin Carroll;Julio Urías;3%;53%;Lineout: LF
+t5;2-2;1;---;5,(2-2) CBBC*S;O;ARI;Gabriel Moreno;Julio Urías;2%;55%;Strikeout Swinging; Moreno out at 1B/C-1B
+t5;2-2;2;---;3,(1-1) BFX;O;ARI;Jake McCarthy;Julio Urías;2%;57%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 2, Dodgers 2.
+Bottom of the 5th, Dodgers Batting, Tied 2-2, Diamondbacks' Zac Gallen facing 9-1-2 
+b5;2-2;0;---;1,(0-0) X;O;LAD;Miguel Rojas;Zac Gallen;-3%;54%;Foul Popfly: 1B (1B into Foul Terr.)
+b5;2-2;1;---;7,(3-2) BBFFBFB;;LAD;Mookie Betts;Zac Gallen;3%;57%;Walk
+b5;2-2;1;1--;5,(3-1) B1BBFX;;LAD;Freddie Freeman;Zac Gallen;8%;65%;Single to RF (Line Drive to Short RF Line); Betts to 3B
+b5;2-2;1;1-3;3,(0-2) FCX;R;LAD;Will Smith;Zac Gallen;11%;77%;Single to RF (Pop Fly to Deep 1B); Betts Scores; Freeman to 3B
+b5;3-2;1;1-3;4,(1-2) CBSS;O;LAD;Max Muncy;Zac Gallen;-6%;70%;Strikeout Swinging
+b5;3-2;2;1-3;5,(1-2) FSFBX;R;LAD;J.D. Martinez;Zac Gallen;10%;80%;Single to RF (Line Drive); Freeman Scores; Smith to 2B
+;;;;;;;;;Cole Sulser replaces Zac Gallen pitching
+b5;4-2;2;12-;1,(0-0) .X;RO;LAD;David Peralta;Cole Sulser;5%;86%;Single to LF (Line Drive to LF-CF); Smith Scores; Martinez out at 3B/LF-3B
+;;;;;;;;;3 runs, 4 hits, 0 errors, 1 LOB. Diamondbacks 2, Dodgers 5.
+Top of the 6th, Diamondbacks Batting, Behind 2-5, Dodgers' Julio Urías facing 1-2-3 
+t6;2-5;0;---;4,(1-2) CBFS;O;ARI;Kyle Lewis;Julio Urías;2%;88%;Strikeout Swinging
+t6;2-5;1;---;10,(3-2) CFBBFBFFFX;O;ARI;Ketel Marte;Julio Urías;2%;90%;Single to RF (Line Drive to Short RF Line); Marte out at 2B/RF-SS
+t6;2-5;2;---;5,(2-2) CBFBC;O;ARI;Lourdes Gurriel Jr.;Julio Urías;1%;91%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Diamondbacks 2, Dodgers 5.
+Bottom of the 6th, Dodgers Batting, Ahead 5-2, Diamondbacks' Cole Sulser facing 7-8-9 
+b6;5-2;0;---;4,(3-0) BBBB;;LAD;Miguel Vargas;Cole Sulser;1%;92%;Walk
+b6;5-2;0;1--;6,(3-2) *BBCBTX;RR;LAD;James Outman;Cole Sulser;5%;97%;Home Run (Fly Ball to Deep LF-CF); Vargas Scores
+b6;7-2;0;---;2,(1-0) BX;O;LAD;Miguel Rojas;Cole Sulser;0%;97%;Groundout: 2B-1B (Deep SS-2B)
+b6;7-2;1;---;7,(3-2) CSBBFBX;O;LAD;Mookie Betts;Cole Sulser;0%;97%;Foul Popfly: C (Behind Home)
+;;;;;;;;;Kyle Nelson replaces Cole Sulser pitching
+b6;7-2;2;---;5,(2-2) .BSBFX;;LAD;Freddie Freeman;Kyle Nelson;0%;97%;Single to RF (Line Drive)
+b6;7-2;2;1--;5,(2-2) *BBCFX;O;LAD;Will Smith;Kyle Nelson;0%;97%;Groundout: SS-1B
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Diamondbacks 2, Dodgers 7.
+Top of the 7th, Diamondbacks Batting, Behind 2-7, Dodgers' Phil Bickford facing 4-5-6 
+;;;;;;;;;Phil Bickford replaces Julio Urías pitching
+t7;2-7;0;---;5,(2-2) .BFS.BX;O;ARI;Christian Walker;Phil Bickford;1%;98%;Popfly: SS (Deep SS-3B Hole)
+t7;2-7;1;---;3,(2-0) BBX;O;ARI;Evan Longoria;Phil Bickford;1%;98%;Flyball: LF (LF-CF)
+t7;2-7;2;---;4,(1-2) CBCS;O;ARI;Nick Ahmed;Phil Bickford;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 2, Dodgers 7.
+Bottom of the 7th, Dodgers Batting, Ahead 7-2, Diamondbacks' Kyle Nelson facing 4-5-6 
+b7;7-2;0;---;4,(1-2) FBSS;O;LAD;Max Muncy;Kyle Nelson;0%;98%;Strikeout Swinging
+b7;7-2;1;---;4,(1-2) CFBS;O;LAD;J.D. Martinez;Kyle Nelson;0%;98%;Strikeout Swinging
+b7;7-2;2;---;2,(0-1) SX;;LAD;David Peralta;Kyle Nelson;0%;98%;Single to LF (Line Drive to LF-CF)
+;;;;;;;;;Carlos Vargas replaces Kyle Nelson pitching
+b7;7-2;2;1--;3,(0-2) .CCS;O;LAD;Miguel Vargas;Carlos Vargas;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 2, Dodgers 7.
+Top of the 8th, Diamondbacks Batting, Behind 2-7, Dodgers' Shelby Miller facing 7-8-9 
+;;;;;;;;;Shelby Miller replaces Phil Bickford pitching
+t8;2-7;0;---;4,(1-2) .CBFX;O;ARI;Corbin Carroll;Shelby Miller;1%;99%;Flyball: CF (Deep LF-CF)
+t8;2-7;1;---;5,(1-2) SCBFX;O;ARI;Gabriel Moreno;Shelby Miller;0%;99%;Flyball: CF (Deep CF-RF)
+t8;2-7;2;---;4,(1-2) BSFS;O;ARI;Jake McCarthy;Shelby Miller;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 2, Dodgers 7.
+Bottom of the 8th, Dodgers Batting, Ahead 7-2, Diamondbacks' Carlos Vargas facing 8-9-1 
+b8;7-2;0;---;3,(1-1) FBX;;LAD;James Outman;Carlos Vargas;0%;100%;Single to RF (Line Drive to RF Line); Outman to 2B/Adv on E9
+b8;7-2;0;-2-;2,(1-0) BX;;LAD;Miguel Rojas;Carlos Vargas;0%;100%;Single to 3B (Ground Ball); Outman to 3B
+b8;7-2;0;1-3;4,(1-2) CCBC;O;LAD;Mookie Betts;Carlos Vargas;0%;100%;Strikeout Looking
+b8;7-2;1;1-3;6,(3-2) BBSBC>B;;LAD;Freddie Freeman;Carlos Vargas;0%;100%;Walk; Rojas to 2B
+;;;;;;;;;Kevin Ginkel replaces Carlos Vargas pitching
+b8;7-2;1;123;6,(3-2) .FVBFBFX;RO;LAD;Will Smith;Kevin Ginkel;0%;100%;Flyball: CF/Sacrifice Fly (Deep CF); Outman Scores
+b8;8-2;2;12-;5,(2-2) BFF*B*S;O;LAD;Max Muncy;Kevin Ginkel;0%;100%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 1 error, 2 LOB. Diamondbacks 2, Dodgers 8.
+Top of the 9th, Diamondbacks Batting, Behind 2-8, Dodgers' Yency Almonte facing 1-2-3 
+;;;;;;;;;Yency Almonte replaces Shelby Miller pitching
+t9;2-8;0;---;3,(0-2) .CSX;O;ARI;Kyle Lewis;Yency Almonte;0%;100%;Foul Popfly: C (Behind Home)
+t9;2-8;1;---;6,(3-2) BCBCBX;O;ARI;Ketel Marte;Yency Almonte;0%;100%;Flyball: LF (Deep SS-3B Hole)
+t9;2-8;2;---;1,(0-0) X;O;ARI;Lourdes Gurriel Jr.;Yency Almonte;0%;100%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 2, Dodgers 8.

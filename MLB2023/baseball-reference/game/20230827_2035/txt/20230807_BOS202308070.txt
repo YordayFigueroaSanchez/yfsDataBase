@@ -1,0 +1,267 @@
+
+Scorebox Meta
+20230807
+7:10 p.m. Local
+32732
+Fenway Park
+161
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/KCR-2023.png;/teams/KCR/2023.shtml;0;0;0;0;0;0;2;0;0;2;8;1
+https://cdn.ssref.net/req/202308251/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;0;0;1;0;1;0;0;0;4;6;6;1
+
+Batting home
+Rob Refsnyder;/players/r/refsnro01.shtml;CF;2;0;0;0;1;0;3;.266;.390;.338;.728;12;6;-0.026; 1.06;0.021;-0.046;-0.01%; 0.55; -0.4;1;0;
+Alex Verdugo;/players/v/verdual01.shtml;PH-RF;1;0;0;0;0;0;1;.274;.346;.426;.773;3;2;-0.037; 1.43;0.000;-0.037;-0.01%; 0.73; -0.2;1;0;
+Masataka Yoshida;/players/y/yoshima02.shtml;LF;3;0;1;1;0;1;4;.306;.364;.481;.845;16;11;-0.014; 1.12;0.038;-0.052;-0.00%; 0.57; -0.2;2;0;SF
+Reese McGuire;/players/m/mcguire01.shtml;C;0;0;0;0;0;0;0;.263;.303;.368;.672;;;;;;;;;;2;0;
+Justin Turner;/players/t/turneju01.shtml;DH;4;0;0;0;0;2;4;.284;.353;.474;.826;18;11;-0.115; 1.19;0.000;-0.115;-0.04%; 0.61; -1.0;;;
+Rafael Devers;/players/d/deverra01.shtml;3B;4;1;1;0;0;0;4;.267;.336;.521;.857;15;10;0.054; 1.06;0.119;-0.065; 0.02%; 0.55; -0.3;0;2;2B
+Adam Duvall;/players/d/duvalad01.shtml;RF-CF;4;0;0;0;0;4;4;.243;.309;.497;.806;17;13;-0.141; 1.25;0.000;-0.141;-0.04%; 0.64; -0.9;2;0;
+Triston Casas;/players/c/casastr01.shtml;1B;3;1;0;0;1;1;4;.248;.351;.475;.826;7;6;-0.064; 1.62;0.004;-0.068;-0.02%; 0.83; -0.4;8;3;IW
+Luis Urías;/players/u/uriaslu01.shtml;2B;3;1;0;0;1;3;4;.174;.313;.261;.574;22;13;-0.017; 1.72;0.047;-0.064;-0.01%; 0.89; -0.2;2;4;
+Pablo Reyes;/players/r/reyespa01.shtml;SS;4;3;3;4;0;1;4;.312;.357;.416;.773;17;10;0.456; 2.08;0.478;-0.022; 0.14%; 1.07; 4.5;2;4;HR,2B,SB
+Connor Wong;/players/w/wongco01.shtml;C;2;0;1;1;0;1;2;.240;.295;.388;.683;10;5;0.048; 1.15;0.097;-0.049; 0.01%; 0.58; 0.5;4;0;2B
+Jarren Duran;/players/d/duranja01.shtml;PH-LF;1;0;0;0;0;0;1;.307;.356;.505;.861;1;1;-0.047; 1.82;0.000;-0.047;-0.01%; 0.93; -0.3;0;0;
+Brayan Bello;/players/b/bellobr01.shtml;P;;;;;;;;;;;;;;;;;;;;;2;1;
+Josh Winckowski;/players/w/winckjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chris Martin;/players/m/martich02.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Kenley Jansen;/players/j/janseke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Pablo Reyes (5, off Cole Ragans); Connor Wong (21, off Cole Ragans); Rafael Devers (25, off Carlos Hernández).
+
+
+HR: Pablo Reyes (1, off Carlos Hernández, 9th inn, 3 on, 2 outs to Deep LF Line).
+
+
+SF: Masataka Yoshida (2, off Cole Ragans).
+
+
+IBB: Triston Casas (1, by Carlos Hernández).
+
+
+TB: Pablo Reyes 7; Rafael Devers 2; Connor Wong 2; Masataka Yoshida.
+
+
+RBI: Pablo Reyes 4 (13); Masataka Yoshida (55); Connor Wong (24).
+
+
+2-out RBI: Pablo Reyes 4.
+
+
+Team LOB: 3.
+With RISP: 2 for 7.
+
+Batting away
+Maikel Garcia;/players/g/garcima01.shtml;3B;4;1;1;1;0;0;4;.279;.322;.382;.704;13;9;-0.102; 1.40;0.101;-0.203;0%; 0.00; -0.8;0;4;GDP
+Bobby Witt;/players/w/wittbo02.shtml;SS;3;0;1;1;1;0;4;.269;.309;.478;.787;10;3;0.189; 0.99;0.234;-0.045;0%; 0.00; 1.0;0;1;2B
+Michael Massey;/players/m/massemi02.shtml;2B;4;0;1;0;0;0;4;.219;.275;.359;.634;14;9;-0.009; 1.32;0.082;-0.091;0%; 0.00; 0.0;0;1;
+MJ Melendez;/players/m/melenmj01.shtml;DH;4;0;3;0;0;1;4;.220;.297;.359;.656;15;11;0.100; 1.54;0.148;-0.049;0%; 0.00; 1.0;;;
+Matt Beaty;/players/b/beatyma01.shtml;1B;4;0;0;0;0;1;4;.238;.304;.286;.590;14;12;-0.218; 2.08;0.000;-0.218;0%; 0.00; -1.8;8;0;
+Freddy Fermin;/players/f/fermifr01.shtml;C;4;0;0;0;0;1;4;.305;.342;.530;.871;19;14;-0.222; 1.66;0.000;-0.222;0%; 0.00; -1.8;13;0;GDP
+Drew Waters;/players/w/waterdr01.shtml;RF;4;0;1;0;0;0;4;.231;.294;.390;.684;16;11;0.008; 1.48;0.123;-0.115;0%; 0.00; 0.2;3;0;2B,SB
+Dairon Blanco;/players/b/blancda02.shtml;LF;3;0;0;0;1;1;4;.237;.293;.395;.687;26;15;-0.034; 1.19;0.049;-0.083;0%; 0.00; -0.0;2;0;
+Kyle Isbel;/players/i/isbelky01.shtml;CF;4;1;1;0;0;1;4;.223;.254;.373;.627;11;9;-0.115; 1.28;0.030;-0.144;0%; 0.00; -0.8;0;0;2B
+Cole Ragans;/players/r/raganco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Nick Wittgren;/players/w/wittgni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Carlos Hernández;/players/h/hernaca04.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Drew Waters (5, off Brayan Bello); Kyle Isbel (15, off Brayan Bello); Bobby Witt (20, off Josh Winckowski).
+
+
+TB: MJ Melendez 3; Bobby Witt 2; Drew Waters 2; Kyle Isbel 2; Michael Massey; Maikel Garcia.
+
+
+GIDP: Maikel Garcia (8); Freddy Fermin (3).
+
+
+RBI: Bobby Witt (68); Maikel Garcia (38).
+
+
+2-out RBI: Bobby Witt; Maikel Garcia.
+
+
+Team LOB: 7.
+With RISP: 1 for 9.
+
+Pitching home
+Brayan Bello;/players/b/bellobr01.shtml;Brayan Bello; 6.2;6;1;1;2;2;0;3.64;27;99;65;46;8;11;14;9;6;0;58;;;0.393; 1.36; 0.12%; 0.70; 3.5
+Josh Winckowski;/players/w/winckjo01.shtml; BS (4); 0.1;2;1;1;0;0;0;2.95;3;13;7;5;1;1;0;3;2;0;;1;1;-0.248; 1.75;-0.08%; 0.90; -1.7
+Chris Martin;/players/m/martich02.shtml;Chris Martin; 1 ;0;0;0;0;1;0;1.49;3;13;10;5;3;2;1;1;1;0;;0;0;0.112; 1.44; 0.03%; 0.74; 0.5
+Kenley Jansen;/players/j/janseke01.shtml; W (3-5); 1 ;0;0;0;0;2;0;2.97;3;13;11;7;0;4;0;1;0;0;;0;0;0.146; 1.87; 0.04%; 0.96; 0.5
+
+Pitching away
+Cole Ragans;/players/r/raganco01.shtml;Cole Ragans; 6.2;4;2;1;1;11;0;3.86;25;104;66;32;17;17;8;5;3;0;70;;;0.124; 0.92; 0.00%; 0.00; 1.7
+Nick Wittgren;/players/w/wittgni01.shtml;Nick Wittgren; 1.1;0;0;0;0;1;0;5.27;4;12;9;5;0;4;2;1;0;0;;0;0;0.133; 1.28; 0.00%; 0.00; 0.7
+Carlos Hernández;/players/h/hernaca04.shtml; L (1-7); 0.2;2;4;4;2;1;1;4.20;6;22;13;10;2;1;0;3;1;0;;0;0;-0.354; 3.67; 0.00%; 0.00; -3.6
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: Carlos Hernández (1; Triston Casas).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: Carlos Hernández (1; Triston Casas).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Nick Mahrley, 1B - Vic Carapazza, 2B - Emil Jimenez, 3B - Adam Hamari, LF - (none), RF - (none).
+Time of Game: 2:41.
+Attendance: 32,732.
+Field Condition: Unknown.
+Start Time Weather: 69° F, Wind 3mph from Right to Left, Cloudy, No Precipitation.
+
+div_lineups
+Royals
+1;Maikel Garcia;/players/g/garcima01.shtml;3B
+2;Bobby Witt;/players/w/wittbo02.shtml;SS
+3;Michael Massey;/players/m/massemi02.shtml;2B
+4;MJ Melendez;/players/m/melenmj01.shtml;DH
+5;Matt Beaty;/players/b/beatyma01.shtml;1B
+6;Freddy Fermin;/players/f/fermifr01.shtml;C
+7;Drew Waters;/players/w/waterdr01.shtml;RF
+8;Dairon Blanco;/players/b/blancda02.shtml;LF
+9;Kyle Isbel;/players/i/isbelky01.shtml;CF
+; Cole Ragans;/players/r/raganco01.shtml;P
+Red Sox
+1;Rob Refsnyder;/players/r/refsnro01.shtml;CF
+2;Masataka Yoshida;/players/y/yoshima02.shtml;LF
+3;Justin Turner;/players/t/turneju01.shtml;DH
+4;Rafael Devers;/players/d/deverra01.shtml;3B
+5;Adam Duvall;/players/d/duvalad01.shtml;RF
+6;Triston Casas;/players/c/casastr01.shtml;1B
+7;Luis Urías;/players/u/uriaslu01.shtml;2B
+8;Pablo Reyes;/players/r/reyespa01.shtml;SS
+9;Connor Wong;/players/w/wongco01.shtml;C
+; Brayan Bello;/players/b/bellobr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b9;2-2;2;123;2,(1-0) .B+3X;RRRR;BOS;Pablo Reyes;Carlos Hernández;34%;100%;Home Run (Fly Ball to Deep LF Line); Devers Scores; Casas Scores; Urías Scores
+t7;1-2;2;1--;3,(2-0) BBX;R;KCR;Bobby Witt;Josh Winckowski;-21%;53%;Double to CF (Line Drive to Deep CF-RF); Garcia Scores
+t5;0-1;1;1-3;2,(1-0) BX;OO;KCR;Maikel Garcia;Brayan Bello;16%;70%;Ground Ball Double Play: SS-2B-1B
+b9;2-2;1;---;5,(2-2) FFBBX;;BOS;Rafael Devers;Carlos Hernández;12%;70%;Ground-rule Double (Line Drive to Deep RF Line)
+t4;0-1;1;12-;4,(1-2) CBCX;OO;KCR;Freddy Fermin;Brayan Bello;11%;68%;Ground Ball Double Play: 2B-SS-1B (SS-2B)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Royals Batting, Tied 0-0, Red Sox' Brayan Bello facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;KCR;Maikel Garcia;Brayan Bello;2%;52%;Flyball: RF (Deep CF-RF)
+t1;0-0;1;---;4,(3-0) BBBB;;KCR;Bobby Witt;Brayan Bello;-2%;50%;Walk
+t1;0-0;1;1--;2,(0-1) CX;O;KCR;Michael Massey;Brayan Bello;3%;53%;Lineout: SS (SS-2B)
+t1;0-0;2;1--;5,(1-2) SCBF>X;;KCR;MJ Melendez;Brayan Bello;-3%;50%;Single to RF (Ground Ball thru 2B-1B); Witt to 3B
+t1;0-0;2;1-3;5,(1-2) TBFFX;O;KCR;Matt Beaty;Brayan Bello;5%;55%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Royals 0, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Tied 0-0, Royals' Cole Ragans facing 1-2-3 
+b1;0-0;0;---;5,(2-2) BFBFX;O;BOS;Rob Refsnyder;Cole Ragans;-2%;53%;Groundout: 3B-1B (SS-3B Hole)
+b1;0-0;1;---;4,(1-2) CBSX;;BOS;Masataka Yoshida;Cole Ragans;2%;55%;Single to CF (Ground Ball)
+b1;0-0;1;1--;2,(0-1) CX;O;BOS;Justin Turner;Cole Ragans;-2%;53%;Groundout: 3B-1B (Weak SS); Yoshida to 2B
+b1;0-0;2;-2-;2,(0-1) CX;O;BOS;Rafael Devers;Cole Ragans;-3%;50%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 0, Red Sox 0.
+Top of the 2nd, Royals Batting, Tied 0-0, Red Sox' Brayan Bello facing 6-7-8 
+t2;0-0;0;---;5,(2-2) SFBBX;O;KCR;Freddy Fermin;Brayan Bello;2%;52%;Groundout: 3B-1B (SS-3B Hole)
+t2;0-0;1;---;1,(0-0) X;O;KCR;Drew Waters;Brayan Bello;2%;54%;Groundout: 2B-1B
+t2;0-0;2;---;8,(3-2) CBBSFFBX;O;KCR;Dairon Blanco;Brayan Bello;1%;55%;Groundout: 3B-1B (Weak SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Red Sox 0.
+Bottom of the 2nd, Red Sox Batting, Tied 0-0, Royals' Cole Ragans facing 5-6-7 
+b2;0-0;0;---;4,(1-2) FS.BS;O;BOS;Adam Duvall;Cole Ragans;-2%;53%;Strikeout Swinging
+b2;0-0;1;---;1,(0-0) X;O;BOS;Triston Casas;Cole Ragans;-2%;51%;Lineout: RF (Deep CF-RF)
+b2;0-0;2;---;4,(1-2) CBCS;O;BOS;Luis Urías;Cole Ragans;-1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Red Sox 0.
+Top of the 3rd, Royals Batting, Tied 0-0, Red Sox' Brayan Bello facing 9-1-2 
+t3;0-0;0;---;1,(0-0) X;O;KCR;Kyle Isbel;Brayan Bello;3%;53%;Lineout: CF (Deep CF-RF)
+t3;0-0;1;---;4,(1-2) CBSX;O;KCR;Maikel Garcia;Brayan Bello;2%;54%;Groundout: SS-1B
+t3;0-0;2;---;2,(1-0) BX;O;KCR;Bobby Witt;Brayan Bello;1%;56%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Red Sox 0.
+Bottom of the 3rd, Red Sox Batting, Tied 0-0, Royals' Cole Ragans facing 8-9-1 
+b3;0-0;0;---;5,(2-2) BSBC.X;;BOS;Pablo Reyes;Cole Ragans;4%;60%;Single to LF (Ground Ball)
+b3;0-0;0;1--;3,(1-1) CB>B;;BOS;Connor Wong;Cole Ragans;6%;66%;Reyes Steals 2B; Reyes to 3B/Adv on E2 (throw)
+b3;0-0;0;--3;6,(3-2) CB>B.FBS;O;BOS;Connor Wong;Cole Ragans;-5%;61%;Strikeout Swinging
+b3;0-0;1;--3;6,(3-2) BCFBBB;;BOS;Rob Refsnyder;Cole Ragans;2%;63%;Walk
+b3;0-0;1;1-3;1,(0-0) X;RO;BOS;Masataka Yoshida;Cole Ragans;1%;64%;Flyball: LF/Sacrifice Fly; Reyes Scores/unER
+b3;1-0;2;1--;5,(2-2) BSBF*S;O;BOS;Justin Turner;Cole Ragans;-2%;62%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 1 error, 1 LOB. Royals 0, Red Sox 1.
+Top of the 4th, Royals Batting, Behind 0-1, Red Sox' Brayan Bello facing 3-4-5 
+t4;0-1;0;---;2,(0-1) CX;;KCR;Michael Massey;Brayan Bello;-5%;57%;Reached on E4 (Ground Ball); Massey to 1B
+t4;0-1;0;1--;4,(2-1) BC*BX;;KCR;MJ Melendez;Brayan Bello;-7%;50%;Single to CF (Ground Ball thru SS-2B); Massey to 2B
+t4;0-1;0;12-;4,(0-2) FFFS;O;KCR;Matt Beaty;Brayan Bello;7%;57%;Strikeout Swinging
+t4;0-1;1;12-;4,(1-2) CBCX;OO;KCR;Freddy Fermin;Brayan Bello;11%;68%;Ground Ball Double Play: 2B-SS-1B (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 1 error, 1 LOB. Royals 0, Red Sox 1.
+Bottom of the 4th, Red Sox Batting, Ahead 1-0, Royals' Cole Ragans facing 4-5-6 
+b4;1-0;0;---;6,(3-2) BSFBBX;O;BOS;Rafael Devers;Cole Ragans;-2%;66%;Groundout: 3B-1B
+b4;1-0;1;---;5,(2-2) CFBBC;O;BOS;Adam Duvall;Cole Ragans;-2%;64%;Strikeout Looking
+b4;1-0;2;---;2,(0-1) FX;O;BOS;Triston Casas;Cole Ragans;-1%;63%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Red Sox 1.
+Top of the 5th, Royals Batting, Behind 0-1, Red Sox' Brayan Bello facing 7-8-9 
+t5;0-1;0;---;4,(2-1) BFBX;;KCR;Drew Waters;Brayan Bello;-8%;55%;Double to 1B (Ground Ball)
+t5;0-1;0;-2-;4,(2-1) CBB>B;;KCR;Dairon Blanco;Brayan Bello;-4%;51%;Waters Steals 3B
+;;;;;;;;;Tag play Challenged by KCR manager (Matt Quatraro): Original call overturned as shown.
+t5;0-1;0;--3;5,(3-1) CBB>B.B;;KCR;Dairon Blanco;Brayan Bello;-5%;46%;Walk
+t5;0-1;0;1-3;3,(1-1) BSX;O;KCR;Kyle Isbel;Brayan Bello;8%;54%;Foul Popfly: C (Behind Home)
+t5;0-1;1;1-3;2,(1-0) BX;OO;KCR;Maikel Garcia;Brayan Bello;16%;70%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 0, Red Sox 1.
+Bottom of the 5th, Red Sox Batting, Ahead 1-0, Royals' Cole Ragans facing 7-8-9 
+b5;1-0;0;---;5,(1-2) BFC.FS;O;BOS;Luis Urías;Cole Ragans;-2%;68%;Strikeout Swinging
+b5;1-0;1;---;6,(3-2) BCBC.BX;;BOS;Pablo Reyes;Cole Ragans;4%;72%;Double to RF (Line Drive to Deep CF-RF)
+b5;1-0;1;-2-;4,(2-1) B*BFX;R;BOS;Connor Wong;Cole Ragans;10%;82%;Double to RF (Line Drive to RF Line); Reyes Scores
+b5;2-0;1;-2-;1,(0-0) X;O;BOS;Rob Refsnyder;Cole Ragans;-2%;80%;Groundout: 3B-1B
+b5;2-0;2;-2-;7,(3-2) CS.BBBFS;O;BOS;Masataka Yoshida;Cole Ragans;-2%;77%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Royals 0, Red Sox 2.
+Top of the 6th, Royals Batting, Behind 0-2, Red Sox' Brayan Bello facing 2-3-4 
+t6;0-2;0;---;1,(0-0) X;O;KCR;Bobby Witt;Brayan Bello;3%;80%;Groundout: SS-1B
+t6;0-2;1;---;6,(3-2) BBBCFX;;KCR;Michael Massey;Brayan Bello;-4%;77%;Single to LF (Line Drive to LF-CF)
+t6;0-2;1;1--;2,(0-1) SX;;KCR;MJ Melendez;Brayan Bello;-5%;72%;Single to CF (Line Drive to Deep CF); Massey to 2B
+t6;0-2;1;12-;2,(0-1) FX;O;KCR;Matt Beaty;Brayan Bello;7%;78%;Lineout: RF
+t6;0-2;2;12-;4,(1-2) FBFS;O;KCR;Freddy Fermin;Brayan Bello;6%;84%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Royals 0, Red Sox 2.
+Bottom of the 6th, Red Sox Batting, Ahead 2-0, Royals' Cole Ragans facing 3-4-5 
+b6;2-0;0;---;6,(3-2) BCBSBT;O;BOS;Justin Turner;Cole Ragans;-1%;83%;Strikeout Swinging
+b6;2-0;1;---;2,(0-1) FX;O;BOS;Rafael Devers;Cole Ragans;-1%;82%;Flyball: LF (Deep 3B)
+b6;2-0;2;---;4,(1-2) BFC.S;O;BOS;Adam Duvall;Cole Ragans;-1%;81%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Red Sox 2.
+Top of the 7th, Royals Batting, Behind 0-2, Red Sox' Brayan Bello facing 7-8-9 
+t7;0-2;0;---;9,(3-2) BFBFFFFBX;O;KCR;Drew Waters;Brayan Bello;4%;84%;Flyball: LF
+t7;0-2;1;---;6,(3-2) BTBBFX;O;KCR;Dairon Blanco;Brayan Bello;2%;87%;Groundout: P-1B-P (Weak 2B-1B)
+t7;0-2;2;---;3,(0-2) CFX;;KCR;Kyle Isbel;Brayan Bello;-3%;84%;Double to RF (Line Drive to Deep RF Line)
+;;;;;;;;;Josh Winckowski replaces Brayan Bello pitching
+t7;0-2;2;-2-;6,(2-2) .SFBBFX;R;KCR;Maikel Garcia;Josh Winckowski;-10%;74%;Single to RF (Fly Ball to Short RF); Isbel Scores
+t7;1-2;2;1--;3,(2-0) BBX;R;KCR;Bobby Witt;Josh Winckowski;-21%;53%;Double to CF (Line Drive to Deep CF-RF); Garcia Scores
+t7;2-2;2;-2-;4,(2-1) *B*BCX;O;KCR;Michael Massey;Josh Winckowski;6%;59%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Royals 2, Red Sox 2.
+Bottom of the 7th, Red Sox Batting, Tied 2-2, Royals' Cole Ragans facing 6-7-8 
+b7;2-2;0;---;4,(1-2) SF.BS;O;BOS;Triston Casas;Cole Ragans;-4%;55%;Strikeout Swinging
+b7;2-2;1;---;7,(3-2) BBFCBFS;O;BOS;Luis Urías;Cole Ragans;-3%;52%;Strikeout Swinging
+;;;;;;;;;Nick Wittgren replaces Cole Ragans pitching
+b7;2-2;2;---;4,(1-2) .CBF.C;O;BOS;Pablo Reyes;Nick Wittgren;-2%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 2, Red Sox 2.
+Top of the 8th, Royals Batting, Tied 2-2, Red Sox' Chris Martin facing 4-5-6 
+;;;;;;;;;Chris Martin replaces Josh Winckowski pitching
+t8;2-2;0;---;4,(1-2) .SBC.S;O;KCR;MJ Melendez;Chris Martin;5%;55%;Strikeout Swinging
+t8;2-2;1;---;3,(1-1) FBX;O;KCR;Matt Beaty;Chris Martin;4%;59%;Groundout: 1B-P
+t8;2-2;2;---;6,(1-2) CBS.FFX;O;KCR;Freddy Fermin;Chris Martin;3%;61%;Lineout: 2B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 2, Red Sox 2.
+Bottom of the 8th, Red Sox Batting, Tied 2-2, Royals' Nick Wittgren facing 9-1-2 
+;;;;;;;;;Jarren Duran pinch hits for Connor Wong (C) batting 9th
+b8;2-2;0;---;1,(0-0) .X;O;BOS;Jarren Duran;Nick Wittgren;-5%;56%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;Alex Verdugo pinch hits for Rob Refsnyder (CF) batting 1st
+b8;2-2;1;---;3,(1-1) .BCX;O;BOS;Alex Verdugo;Nick Wittgren;-4%;53%;Flyball: RF (Deep RF)
+b8;2-2;2;---;4,(1-2) CFBX;O;BOS;Masataka Yoshida;Nick Wittgren;-3%;50%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 2, Red Sox 2.
+Top of the 9th, Royals Batting, Tied 2-2, Red Sox' Kenley Jansen facing 7-8-9 
+;;;;;;;;;Kenley Jansen replaces Chris Martin pitchingReese McGuire replaces Masataka Yoshida (LF) playing C batting 2ndJarren Duran moves from PH to LF Adam Duvall moves from RF to CF Alex Verdugo moves from PH to RF 
+t9;2-2;0;---;2,(0-1) .....CX;O;KCR;Drew Waters;Kenley Jansen;6%;56%;Flyball: RF
+t9;2-2;1;---;7,(1-2) CF.FFBFT;O;KCR;Dairon Blanco;Kenley Jansen;5%;61%;Strikeout Swinging
+t9;2-2;2;---;4,(1-2) CBF.C;O;KCR;Kyle Isbel;Kenley Jansen;4%;65%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 2, Red Sox 2.
+Bottom of the 9th, Red Sox Batting, Tied 2-2, Royals' Carlos Hernández facing 3-4-5 
+;;;;;;;;;Carlos Hernández replaces Nick Wittgren pitching
+b9;2-2;0;---;5,(2-2) .BFCBX;O;BOS;Justin Turner;Carlos Hernández;-6%;59%;Flyball: RF
+b9;2-2;1;---;5,(2-2) FFBBX;;BOS;Rafael Devers;Carlos Hernández;12%;70%;Ground-rule Double (Line Drive to Deep RF Line)
+b9;2-2;1;-2-;4,(0-2) FSFT;O;BOS;Adam Duvall;Carlos Hernández;-9%;61%;Strikeout Swinging
+b9;2-2;2;-2-;,(3-0) VVVV;;BOS;Triston Casas;Carlos Hernández;0%;62%;Intentional Walk
+b9;2-2;2;12-;6,(3-2) SBFB.B>B;;BOS;Luis Urías;Carlos Hernández;5%;66%;Walk; Devers to 3B; Casas to 2B
+b9;2-2;2;123;2,(1-0) .B+3X;RRRR;BOS;Pablo Reyes;Carlos Hernández;34%;100%;Home Run (Fly Ball to Deep LF Line); Devers Scores; Casas Scores; Urías Scores
+;;;;;;;;;4 runs, 2 hits, 0 errors, 0 LOB. Royals 2, Red Sox 6.

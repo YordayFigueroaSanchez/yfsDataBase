@@ -1,0 +1,279 @@
+
+Scorebox Meta
+20230430
+1:10 p.m. Local
+17150
+Target Field
+170
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/KCR-2023.png;/teams/KCR/2023.shtml;0;0;0;0;0;1;1;0;2;4;10;0
+https://cdn.ssref.net/req/202308101/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;0;1;7;0;0;0;0;0;X;8;7;2
+
+Batting home
+Max Kepler;/players/k/keplema01.shtml;RF;4;1;0;0;1;2;5;.242;.319;.452;.771;21;12;0.000; 0.30;0.023;-0.023;0%; 0.36; -0.3;5;0;
+Jorge Polanco;/players/p/polanjo01.shtml;2B;4;0;0;0;0;3;4;.333;.333;.590;.923;18;12;-0.045; 0.45;0.000;-0.045;-0.03%; 0.53; -1.1;2;2;
+Carlos Correa;/players/c/correca01.shtml;SS;3;1;0;0;1;1;4;.202;.283;.351;.634;18;10;0.006; 0.30;0.018;-0.012; 0.00%; 0.35; -0.2;1;5;
+Byron Buxton;/players/b/buxtoby01.shtml;DH;4;2;2;3;0;1;4;.258;.324;.557;.881;9;8;0.279; 0.62;0.281;-0.001; 0.20%; 0.73; 2.9;;;HR,2B
+Trevor Larnach;/players/l/larnatr01.shtml;LF;3;1;1;0;1;2;4;.242;.354;.389;.743;18;9;0.034; 0.35;0.035;-0.001; 0.02%; 0.41; 0.2;1;0;
+Joey Gallo;/players/g/gallojo01.shtml;1B;2;1;0;0;1;1;4;.236;.354;.709;1.063;21;14;-0.017; 0.56;0.008;-0.025;-0.01%; 0.65; 0.2;6;1;HBP
+Nick Gordon;/players/g/gordoni01.shtml;CF;3;1;1;2;0;0;4;.127;.143;.200;.343;18;13;0.063; 0.62;0.063;-0.001; 0.04%; 0.73; 0.7;1;0;SH
+Willi Castro;/players/c/castrwi01.shtml;3B;3;1;1;1;0;1;3;.176;.300;.324;.624;6;5;-0.004; 0.44;0.027;-0.031;-0.00%; 0.52; 0.5;0;1;SB
+Donovan Solano;/players/s/solando01.shtml;PH-3B;1;0;1;0;0;0;1;.292;.352;.369;.721;1;1;0.000; 0.01;0.000;0.000;0%; 0.01; 0.4;0;0;
+Christian Vázquez;/players/v/vazquch01.shtml;C;4;0;1;2;0;3;4;.262;.342;.308;.650;21;15;0.002; 0.28;0.024;-0.022; 0.00%; 0.34; 0.6;10;0;
+Sonny Gray;/players/g/grayso01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Emilio Pagán;/players/p/paganem01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brock Stewart;/players/s/stewabr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Josh Winder;/players/w/windejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jhoan Duran;/players/d/duranjh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Byron Buxton (6, off Brady Singer).
+
+
+HR: Byron Buxton (7, off Brady Singer, 3rd inn, 2 on, 2 outs to Deep LF).
+
+
+SH: Nick Gordon (1, off Brady Singer).
+
+
+HBP: Joey Gallo (1, by Brady Singer).
+
+
+TB: Byron Buxton 6; Donovan Solano; Nick Gordon; Trevor Larnach; Christian Vázquez; Willi Castro.
+
+
+RBI: Byron Buxton 3 (17); Nick Gordon 2 (2); Christian Vázquez 2 (6); Willi Castro (4).
+
+
+2-out RBI: Byron Buxton 3; Christian Vázquez 2; Nick Gordon; Willi Castro.
+
+
+Team LOB: 5.
+With RISP: 4 for 11.
+
+Batting away
+Bobby Witt;/players/w/wittbo02.shtml;SS;5;1;0;0;0;0;5;.222;.266;.393;.659;17;14;-0.070; 0.46;0.000;-0.070;-0.01%; 0.16; -1.3;1;1;
+Vinnie Pasquantino;/players/p/pasquvi01.shtml;1B;4;1;3;2;1;0;5;.279;.375;.500;.875;20;12;0.013; 0.48;0.029;-0.016; 0.00%; 0.17; 2.4;6;0;2B
+Salvador Perez;/players/p/perezsa02.shtml;C;3;0;1;0;0;0;3;.267;.306;.426;.731;7;7;-0.058; 0.89;0.010;-0.068;-0.01%; 0.32; 0.1;8;0;
+MJ Melendez;/players/m/melenmj01.shtml;C;2;0;1;0;0;1;2;.174;.267;.315;.582;9;5;0.004; 0.23;0.012;-0.008; 0.00%; 0.09; -0.1;5;0;2B
+Edward Olivares;/players/o/olivaed02.shtml;LF;4;0;1;1;1;0;5;.289;.344;.482;.826;22;13;0.062; 0.60;0.089;-0.027; 0.01%; 0.22; 0.2;0;0;SB
+Nick Pratto;/players/p/prattni01.shtml;RF;4;0;1;0;0;3;4;.368;.400;.368;.768;19;13;-0.043; 0.53;0.004;-0.048;-0.01%; 0.20; -0.8;3;0;
+Franmil Reyes;/players/r/reyesfr01.shtml;DH;4;0;0;0;0;2;4;.186;.231;.288;.519;21;12;-0.075; 0.49;0.000;-0.075;-0.02%; 0.18; -1.8;;;GDP
+Hunter Dozier;/players/d/doziehu01.shtml;3B;4;0;0;0;0;3;4;.161;.212;.226;.438;21;13;-0.046; 0.41;0.000;-0.046;-0.01%; 0.15; -1.1;0;0;
+Jackie Bradley Jr.;/players/b/bradlja02.shtml;CF;4;2;2;0;0;0;4;.159;.245;.205;.449;10;7;-0.025; 0.31;0.005;-0.030;-0.01%; 0.11; 0.2;1;0;2B
+Matt Duffy;/players/d/duffyma01.shtml;2B;3;0;1;0;1;1;4;.357;.400;.500;.900;15;8;0.056; 0.27;0.057;-0.002; 0.01%; 0.10; 1.5;0;2;2B
+Brady Singer;/players/s/singebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Josh Staumont;/players/s/staumjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Amir Garrett;/players/g/garream01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Carlos Hernández;/players/h/hernaca04.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Josh Taylor;/players/t/taylojo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Matt Duffy (3, off Sonny Gray); Vinnie Pasquantino (8, off Sonny Gray); Jackie Bradley Jr. (2, off Emilio Pagán); MJ Melendez (5, off Josh Winder).
+
+
+TB: Vinnie Pasquantino 4; Jackie Bradley Jr. 3; Matt Duffy 2; MJ Melendez 2; Edward Olivares; Salvador Perez; Nick Pratto.
+
+
+GIDP: Franmil Reyes (3).
+
+
+RBI: Vinnie Pasquantino 2 (10); Edward Olivares (8).
+
+
+2-out RBI: Vinnie Pasquantino 2.
+
+
+Team LOB: 9.
+With RISP: 2 for 13.
+
+Pitching home
+Sonny Gray;/players/g/grayso01.shtml; W (4-0); 6 ;5;1;1;1;7;0;0.77;24;95;65;34;15;16;8;8;4;0;64;;;0.171; 0.65; 0.12%; 0.76; 2.1
+Emilio Pagán;/players/p/paganem01.shtml;Emilio Pagán; 1 ;2;1;0;0;1;0;6.30;6;23;15;9;2;4;1;4;2;0;;0;0;0.002; 0.17; 0.00%; 0.20; -0.5
+Brock Stewart;/players/s/stewabr01.shtml;Brock Stewart; 1 ;0;0;0;1;1;0;0.00;3;13;6;2;3;1;1;0;0;0;;0;0;0.006; 0.25; 0.00%; 0.29; 0.5
+Josh Winder;/players/w/windejo01.shtml;Josh Winder; 0.2;3;2;2;1;1;0;27.00;6;23;13;8;2;3;2;2;1;0;;0;0;-0.013; 0.08;-0.01%; 0.10; -2.1
+Jhoan Duran;/players/d/duranjh01.shtml; S (6); 0.1;0;0;0;0;0;0;2.53;1;7;5;3;1;1;0;1;0;0;;2;0;0.016; 0.48; 0.01%; 0.56; 0.6
+
+Pitching away
+Brady Singer;/players/s/singebr01.shtml; L (2-3); 2.2;5;8;8;3;5;1;8.49;17;66;41;23;6;12;3;5;3;0;18;;;-0.301; 0.89;-0.07%; 0.32; -5.0
+Josh Staumont;/players/s/staumjo01.shtml;Josh Staumont; 1.1;1;0;0;0;3;0;2.84;6;27;17;6;6;5;1;2;0;0;;2;2;-0.022; 0.10;-0.01%; 0.04; -1.0
+Amir Garrett;/players/g/garream01.shtml;Amir Garrett; 1.2;0;0;0;1;1;0;2.19;6;28;17;12;2;3;2;2;0;0;;0;0;0.003; 0.03; 0.00%; 0.01; 0.9
+Carlos Hernández;/players/h/hernaca04.shtml;Carlos Hernández; 1.1;0;0;0;0;3;0;5.14;4;15;12;4;6;2;1;0;0;0;;0;0;0.002; 0.02; 0.00%; 0.01; 0.6
+Josh Taylor;/players/t/taylojo02.shtml;Josh Taylor; 1 ;1;0;0;0;2;0;3.38;4;15;12;6;4;2;2;0;0;0;;0;0;0.001; 0.01; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Josh Staumont (1).
+HBP: Brady Singer (1; Joey Gallo).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Josh Staumont (1).
+HBP: Brady Singer (1; Joey Gallo).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Vic Carapazza, 1B - Nick Mahrley, 2B - Jerry Layne, 3B - Brock Ballou, LF - (none), RF - (none).
+Time of Game: 2:50.
+Attendance: 17,150.
+Field Condition: Unknown.
+Start Time Weather: 45° F, Wind 18mph out to Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Royals
+1;Bobby Witt;/players/w/wittbo02.shtml;SS
+2;Vinnie Pasquantino;/players/p/pasquvi01.shtml;1B
+3;Salvador Perez;/players/p/perezsa02.shtml;C
+4;Edward Olivares;/players/o/olivaed02.shtml;LF
+5;Nick Pratto;/players/p/prattni01.shtml;RF
+6;Franmil Reyes;/players/r/reyesfr01.shtml;DH
+7;Hunter Dozier;/players/d/doziehu01.shtml;3B
+8;Jackie Bradley Jr.;/players/b/bradlja02.shtml;CF
+9;Matt Duffy;/players/d/duffyma01.shtml;2B
+; Brady Singer;/players/s/singebr01.shtml;P
+Twins
+1;Max Kepler;/players/k/keplema01.shtml;RF
+2;Jorge Polanco;/players/p/polanjo01.shtml;2B
+3;Carlos Correa;/players/c/correca01.shtml;SS
+4;Byron Buxton;/players/b/buxtoby01.shtml;DH
+5;Trevor Larnach;/players/l/larnatr01.shtml;LF
+6;Joey Gallo;/players/g/gallojo01.shtml;1B
+7;Nick Gordon;/players/g/gordoni01.shtml;CF
+8;Willi Castro;/players/c/castrwi01.shtml;3B
+9;Christian Vázquez;/players/v/vazquch01.shtml;C
+; Sonny Gray;/players/g/grayso01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;1-0;2;12-;3,(1-1) C*BX;RRR;MIN;Byron Buxton;Brady Singer;22%;88%;Home Run (Fly Ball to Deep LF); Kepler Scores; Correa Scores
+b2;0-0;0;---;2,(0-1) FX;;MIN;Byron Buxton;Brady Singer;6%;61%;Double to RF (Line Drive to Deep RF)
+t2;0-0;1;--3;6,(3-2) BCTBBC;O;KCR;Franmil Reyes;Sonny Gray;6%;51%;Strikeout Looking
+t3;0-1;2;1-3;2,(0-1) SX;O;KCR;Salvador Perez;Sonny Gray;6%;67%;Popfly: 2B (Deep 2B-1B)
+t3;0-1;1;---;4,(3-1) .VBFBX;;KCR;Matt Duffy;Sonny Gray;-5%;59%;Double to LF (Ground Ball)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Royals Batting, Tied 0-0, Twins' Sonny Gray facing 1-2-3 
+t1;0-0;0;---;4,(1-2) BFFX;O;KCR;Bobby Witt;Sonny Gray;2%;52%;Groundout: SS-1B
+t1;0-0;1;---;3,(1-1) BSX;O;KCR;Vinnie Pasquantino;Sonny Gray;2%;54%;Groundout: SS-1B
+t1;0-0;2;---;4,(0-2) CFFX;O;KCR;Salvador Perez;Sonny Gray;1%;55%;Flyball: RF (Short RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Twins 0.
+Bottom of the 1st, Twins Batting, Tied 0-0, Royals' Brady Singer facing 1-2-3 
+b1;0-0;0;---;3,(1-1) .BCX;O;MIN;Max Kepler;Brady Singer;-2%;53%;Popfly: SS
+b1;0-0;1;---;4,(1-2) CFBS;O;MIN;Jorge Polanco;Brady Singer;-2%;51%;Strikeout Swinging
+b1;0-0;2;---;4,(1-2) CBCC;O;MIN;Carlos Correa;Brady Singer;-1%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Twins 0.
+Top of the 2nd, Royals Batting, Tied 0-0, Twins' Sonny Gray facing 4-5-6 
+t2;0-0;0;---;5,(2-2) CBBS.X;;KCR;Edward Olivares;Sonny Gray;-4%;46%;Single to CF (Ground Ball thru SS-2B)
+t2;0-0;0;1--;5,(2-2) CB1FB>S;O;KCR;Nick Pratto;Sonny Gray;-1%;45%;Strikeout Swinging, Olivares Steals 2B; Olivares to 3B/Adv on E2 (throw)
+t2;0-0;1;--3;6,(3-2) BCTBBC;O;KCR;Franmil Reyes;Sonny Gray;6%;51%;Strikeout Looking
+t2;0-0;2;--3;7,(3-2) B*BSF.BF*S;O;KCR;Hunter Dozier;Sonny Gray;4%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 1 error, 1 LOB. Royals 0, Twins 0.
+Bottom of the 2nd, Twins Batting, Tied 0-0, Royals' Brady Singer facing 4-5-6 
+b2;0-0;0;---;2,(0-1) FX;;MIN;Byron Buxton;Brady Singer;6%;61%;Double to RF (Line Drive to Deep RF)
+b2;0-0;0;-2-;4,(3-0) BBBB;;MIN;Trevor Larnach;Brady Singer;3%;64%;Walk
+b2;0-0;0;12-;4,(1-2) BSSX;O;MIN;Joey Gallo;Brady Singer;-2%;62%;Lineout: RF; Buxton to 3B
+b2;0-0;1;1-3;1,(0-0) X;RO;MIN;Nick Gordon;Brady Singer;2%;64%;Bunt Groundout: P-1B/Sacrifice; Buxton Scores; Larnach to 2B
+b2;1-0;2;-2-;2,(0-2) .ACC;O;MIN;Willi Castro;Brady Singer;-3%;61%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Royals 0, Twins 1.
+Top of the 3rd, Royals Batting, Behind 0-1, Twins' Sonny Gray facing 8-9-1 
+t3;0-1;0;---;2,(0-1) SX;O;KCR;Jackie Bradley Jr.;Sonny Gray;3%;64%;Groundout: SS-1B (Deep SS-2B)
+t3;0-1;1;---;4,(3-1) .VBFBX;;KCR;Matt Duffy;Sonny Gray;-5%;59%;Double to LF (Ground Ball)
+t3;0-1;1;-2-;4,(1-2) CSBX;O;KCR;Bobby Witt;Sonny Gray;4%;63%;Groundout: SS-1B (SS-2B); Duffy to 3B
+t3;0-1;2;--3;4,(3-0) .BBBB;;KCR;Vinnie Pasquantino;Sonny Gray;-2%;61%;Walk
+t3;0-1;2;1-3;2,(0-1) SX;O;KCR;Salvador Perez;Sonny Gray;6%;67%;Popfly: 2B (Deep 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Royals 0, Twins 1.
+Bottom of the 3rd, Twins Batting, Ahead 1-0, Royals' Brady Singer facing 9-1-2 
+b3;1-0;0;---;5,(1-2) BCS.FT;O;MIN;Christian Vázquez;Brady Singer;-2%;65%;Strikeout Swinging
+b3;1-0;1;---;5,(3-1) CBBBB;;MIN;Max Kepler;Brady Singer;2%;67%;Walk
+b3;1-0;1;1--;4,(1-2) BFFS;O;MIN;Jorge Polanco;Brady Singer;-3%;64%;Strikeout Swinging
+b3;1-0;2;1--;6,(3-2) BBFF*B>B;;MIN;Carlos Correa;Brady Singer;2%;66%;Walk; Kepler to 2B
+b3;1-0;2;12-;3,(1-1) C*BX;RRR;MIN;Byron Buxton;Brady Singer;22%;88%;Home Run (Fly Ball to Deep LF); Kepler Scores; Correa Scores
+b3;4-0;2;---;5,(2-2) FBBSX;;MIN;Trevor Larnach;Brady Singer;0%;89%;Single to CF (Ground Ball thru SS-2B)
+b3;4-0;2;1--;6,(0-2) FFF1FFH;;MIN;Joey Gallo;Brady Singer;1%;89%;Hit By Pitch; Larnach to 2B
+b3;4-0;2;12-;7,(3-2) BBCBC>F.>X;R;MIN;Nick Gordon;Brady Singer;4%;93%;Single to CF (Ground Ball thru SS-2B); Larnach Scores; Gallo to 3B
+b3;5-0;2;1-3;1,(0-0) X;R;MIN;Willi Castro;Brady Singer;3%;96%;Single to 1B (Line Drive to Deep 2B-1B); Gallo Scores; Gordon to 3B
+;;;;;;;;;Josh Staumont replaces Brady Singer pitching
+b3;6-0;2;1-3;3,(1-1) .BC>S;;MIN;Christian Vázquez;Josh Staumont;0%;96%;Castro Steals 2B
+b3;6-0;2;-23;6,(2-2) .BC>S.*BF.X;RR;MIN;Christian Vázquez;Josh Staumont;2%;98%;Single to RF (Ground Ball thru 2B-1B); Gordon Scores; Castro Scores
+b3;8-0;2;1--;4,(2-2) VC*S*BS;;MIN;Max Kepler;Josh Staumont;0%;98%;Strikeout Swinging, Wild Pitch; Vázquez to 2B; Kepler to 1B
+b3;8-0;2;12-;7,(3-2) SBFFB*B>C;O;MIN;Jorge Polanco;Josh Staumont;0%;98%;Strikeout Looking
+;;;;;;;;;7 runs, 5 hits, 0 errors, 2 LOB. Royals 0, Twins 8.
+Top of the 4th, Royals Batting, Behind 0-8, Twins' Sonny Gray facing 4-5-6 
+t4;0-8;0;---;4,(1-2) BTSX;O;KCR;Edward Olivares;Sonny Gray;0%;99%;Flyball: RF (Short RF Line)
+t4;0-8;1;---;3,(0-2) CFX;;KCR;Nick Pratto;Sonny Gray;0%;98%;Single to CF (Line Drive to Deep CF)
+t4;0-8;1;1--;4,(1-2) CS.BX;O;KCR;Franmil Reyes;Sonny Gray;0%;99%;Flyball: LF (Deep LF Line)
+t4;0-8;2;1--;4,(1-2) BFS*S;O;KCR;Hunter Dozier;Sonny Gray;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 0, Twins 8.
+Bottom of the 4th, Twins Batting, Ahead 8-0, Royals' Josh Staumont facing 3-4-5 
+b4;8-0;0;---;3,(1-1) BCX;O;MIN;Carlos Correa;Josh Staumont;0%;99%;Flyball: RF (Deep RF)
+b4;8-0;1;---;1,(0-0) X;O;MIN;Byron Buxton;Josh Staumont;0%;99%;Popfly: 1B (Weak 2B-1B)
+b4;8-0;2;---;6,(3-2) BBSBCS;O;MIN;Trevor Larnach;Josh Staumont;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Twins 8.
+Top of the 5th, Royals Batting, Behind 0-8, Twins' Sonny Gray facing 8-9-1 
+t5;0-8;0;---;1,(0-0) X;O;KCR;Jackie Bradley Jr.;Sonny Gray;0%;99%;Groundout: 1B-P (2B-1B)
+t5;0-8;1;---;3,(0-2) CSS;O;KCR;Matt Duffy;Sonny Gray;0%;99%;Strikeout Swinging
+t5;0-8;2;---;3,(0-2) CSX;O;KCR;Bobby Witt;Sonny Gray;0%;99%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 0, Twins 8.
+Bottom of the 5th, Twins Batting, Ahead 8-0, Royals' Amir Garrett facing 6-7-8 
+;;;;;;;;;Amir Garrett replaces Josh Staumont pitching
+b5;8-0;0;---;7,(3-2) .BBBCFFB;;MIN;Joey Gallo;Amir Garrett;0%;99%;Walk
+b5;8-0;0;1--;6,(2-2) BBCFFX;O;MIN;Nick Gordon;Amir Garrett;0%;99%;Groundout: 2B-1B; Gallo to 2B
+b5;8-0;1;-2-;3,(1-1) FBX;O;MIN;Willi Castro;Amir Garrett;0%;99%;Flyball: RF (Deep RF); Gallo to 3B
+b5;8-0;2;--3;4,(1-2) CFBS;O;MIN;Christian Vázquez;Amir Garrett;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Royals 0, Twins 8.
+Top of the 6th, Royals Batting, Behind 0-8, Twins' Sonny Gray facing 2-3-4 
+t6;0-8;0;---;7,(2-2) BCFBFFX;;KCR;Vinnie Pasquantino;Sonny Gray;-1%;99%;Double to RF (Line Drive to Deep RF Line)
+t6;0-8;0;-2-;1,(0-0) X;;KCR;Salvador Perez;Sonny Gray;-1%;98%;Single to RF (Line Drive to CF-RF); Pasquantino to 3B
+t6;0-8;0;1-3;1,(0-0) X;RO;KCR;Edward Olivares;Sonny Gray;1%;98%;Groundout: 3B-1B (P's Right); Pasquantino Scores; Perez to 2B
+t6;1-8;1;-2-;7,(3-2) CBBC*BFC;O;KCR;Nick Pratto;Sonny Gray;1%;99%;Strikeout Looking
+t6;1-8;2;-2-;7,(3-2) BBCFBF.C;O;KCR;Franmil Reyes;Sonny Gray;0%;99%;Strikeout Looking
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Royals 1, Twins 8.
+Bottom of the 6th, Twins Batting, Ahead 8-1, Royals' Amir Garrett facing 1-2-3 
+;;;;;;;;;MJ Melendez replaces Salvador Perez playing C batting 3rd
+b6;8-1;0;---;5,(2-2) .FBFBX;O;MIN;Max Kepler;Amir Garrett;0%;99%;Groundout: 1B unassisted
+b6;8-1;1;---;3,(1-1) BSX;O;MIN;Jorge Polanco;Amir Garrett;0%;99%;Flyball: CF (Short LF-CF)
+;;;;;;;;;Carlos Hernández replaces Amir Garrett pitching
+b6;8-1;2;---;5,(2-2) .FSBBX;O;MIN;Carlos Correa;Carlos Hernández;0%;99%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 1, Twins 8.
+Top of the 7th, Royals Batting, Behind 1-8, Twins' Emilio Pagán facing 7-8-9 
+;;;;;;;;;Emilio Pagán replaces Sonny Gray pitching
+t7;1-8;0;---;6,(3-2) .BBFF.BX;O;KCR;Hunter Dozier;Emilio Pagán;0%;99%;Flyball: CF (Deep CF)
+t7;1-8;1;---;3,(1-1) CBX;;KCR;Jackie Bradley Jr.;Emilio Pagán;0%;99%;Double to RF (Line Drive to Deep CF-RF)
+t7;1-8;1;-2-;4,(1-2) SC*BX;R;KCR;Matt Duffy;Emilio Pagán;-1%;98%;Reached on E4 (Ground Ball to 2B-1B); Bradley Scores/No RBI/unER; Duffy to 1B
+t7;2-8;1;1--;1,(0-0) X;O;KCR;Bobby Witt;Emilio Pagán;1%;99%;Flyball: RF (CF-RF)
+t7;2-8;2;1--;3,(0-2) CFX;;KCR;Vinnie Pasquantino;Emilio Pagán;0%;99%;Single to 3B (Line Drive to Deep SS); Duffy to 2B
+t7;2-8;2;12-;6,(3-2) SBF*BB>C;O;KCR;MJ Melendez;Emilio Pagán;1%;99%;Strikeout Looking
+;;;;;;;;;1 run, 2 hits, 1 error, 2 LOB. Royals 2, Twins 8.
+Bottom of the 7th, Twins Batting, Ahead 8-2, Royals' Carlos Hernández facing 4-5-6 
+b7;8-2;0;---;3,(0-2) CS.C;O;MIN;Byron Buxton;Carlos Hernández;0%;99%;Strikeout Looking
+b7;8-2;1;---;3,(0-2) FFS;O;MIN;Trevor Larnach;Carlos Hernández;0%;99%;Strikeout Swinging
+b7;8-2;2;---;4,(1-2) BSSS;O;MIN;Joey Gallo;Carlos Hernández;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 2, Twins 8.
+Top of the 8th, Royals Batting, Behind 2-8, Twins' Brock Stewart facing 4-5-6 
+;;;;;;;;;Brock Stewart replaces Emilio Pagán pitching
+t8;2-8;0;---;5,(3-1) .BSBBB;;KCR;Edward Olivares;Brock Stewart;-1%;99%;Walk
+t8;2-8;0;1--;4,(1-2) CFBS;O;KCR;Nick Pratto;Brock Stewart;1%;99%;Strikeout Swinging
+t8;2-8;1;1--;4,(2-1) BS.*BX;OO;KCR;Franmil Reyes;Brock Stewart;1%;100%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 2, Twins 8.
+Bottom of the 8th, Twins Batting, Ahead 8-2, Royals' Josh Taylor facing 7-8-9 
+;;;;;;;;;Josh Taylor replaces Carlos Hernández pitching
+b8;8-2;0;---;4,(0-2) .CSFX;O;MIN;Nick Gordon;Josh Taylor;0%;100%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;Donovan Solano pinch hits for Willi Castro (3B) batting 8th
+b8;8-2;1;---;1,(0-0) .X;;MIN;Donovan Solano;Josh Taylor;0%;100%;Single to CF (Ground Ball thru SS-2B)
+b8;8-2;1;1--;3,(1-1) BCS;;MIN;Christian Vázquez;Josh Taylor;0%;100%;Passed Ball; Solano to 2B
+b8;8-2;1;-2-;6,(2-2) BCS.FBS;O;MIN;Christian Vázquez;Josh Taylor;0%;100%;Strikeout Swinging
+b8;8-2;2;-2-;4,(1-2) FF*B*S;O;MIN;Max Kepler;Josh Taylor;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 2, Twins 8.
+Top of the 9th, Royals Batting, Behind 2-8, Twins' Josh Winder facing 7-8-9 
+;;;;;;;;;Josh Winder replaces Brock Stewart pitchingDonovan Solano moves from PH to 3B 
+t9;2-8;0;---;4,(1-2) ..FBSS;O;KCR;Hunter Dozier;Josh Winder;0%;100%;Strikeout Swinging
+t9;2-8;1;---;4,(2-1) BBCX;;KCR;Jackie Bradley Jr.;Josh Winder;0%;100%;Single to RF (Ground Ball)
+t9;2-8;1;1--;4,(3-0) BBBB;;KCR;Matt Duffy;Josh Winder;0%;99%;Walk; Bradley to 2B
+t9;2-8;1;12-;5,(1-2) CFBFX;O;KCR;Bobby Witt;Josh Winder;0%;100%;Groundout: 2B-SS/Forceout at 2B; Bradley to 3B; Witt to 1B
+t9;2-8;2;1-3;1,(0-0) >C;;KCR;Vinnie Pasquantino;Josh Winder;0%;100%;Defensive Indifference; Witt to 2B
+t9;2-8;2;-23;3,(1-1) >C.BX;RR;KCR;Vinnie Pasquantino;Josh Winder;0%;100%;Single to LF (Fly Ball to Short LF-CF); Bradley Scores; Witt Scores
+t9;4-8;2;1--;3,(1-1) BFX;;KCR;MJ Melendez;Josh Winder;-1%;98%;Double to RF (Line Drive to Deep RF Line); Pasquantino to 3B
+;;;;;;;;;Jhoan Duran replaces Josh Winder pitching
+t9;4-8;2;-23;7,(2-2) .BCBSFFX;O;KCR;Edward Olivares;Jhoan Duran;2%;100%;Flyball: RF (Short CF-RF)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Royals 4, Twins 8.

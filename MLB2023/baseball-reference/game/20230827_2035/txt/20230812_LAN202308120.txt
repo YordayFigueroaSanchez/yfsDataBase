@@ -1,0 +1,246 @@
+
+Scorebox Meta
+20230812
+6:10 p.m. Local
+52515
+Dodger Stadium
+133
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;1;0;0;0;0;0;0;0;0;1;3;0
+https://cdn.ssref.net/req/202308251/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;1;2;0;0;0;0;1;0;X;4;8;0
+
+Batting home
+David Peralta;/players/p/peralda01.shtml;LF;4;0;1;0;0;0;4;.279;.312;.414;.726;10;8;-0.029; 0.54;0.016;-0.045;-0.01%; 0.36; -0.4;1;0;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;3;0;0;0;0;0;4;.342;.419;.593;1.012;17;10;-0.045; 0.50;0.003;-0.048;-0.02%; 0.34; -0.5;5;0;HBP
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;0;0;0;0;0;0;0;.217;.272;.274;.546;;;;;;;;;;0;0;
+Will Smith;/players/s/smithwi05.shtml;DH;4;1;1;1;0;3;4;.275;.381;.471;.852;17;13;0.069; 0.39;0.100;-0.032; 0.03%; 0.26; 0.4;;;HR
+Max Muncy;/players/m/muncyma01.shtml;3B;4;0;0;0;0;1;4;.193;.333;.477;.810;16;10;-0.044; 0.42;0.000;-0.044;-0.02%; 0.28; -0.9;0;1;
+Jason Heyward;/players/h/heywaja01.shtml;RF;4;0;2;0;0;0;4;.248;.340;.460;.800;9;7;-0.020; 0.52;0.032;-0.051;-0.01%; 0.35; -0.3;1;0;CS
+Enrique Hernández;/players/h/hernaen02.shtml;2B-1B;3;1;2;0;1;0;4;.236;.291;.349;.640;15;9;0.071; 0.47;0.073;-0.002; 0.03%; 0.32; 0.8;3;2;2B
+James Outman;/players/o/outmaja01.shtml;CF;3;1;1;2;0;0;3;.257;.362;.439;.800;9;6;0.111; 1.02;0.157;-0.045; 0.04%; 0.69; 0.8;6;0;HR
+Amed Rosario;/players/r/rosaram01.shtml;SS-2B;3;1;1;1;0;0;3;.265;.303;.384;.687;5;3;0.013; 0.69;0.055;-0.043; 0.01%; 0.46; 0.4;0;2;HR
+Austin Barnes;/players/b/barneau01.shtml;C;3;0;0;0;0;1;3;.130;.212;.146;.358;11;8;-0.030; 0.38;0.000;-0.030;-0.01%; 0.25; -0.6;11;0;
+Tony Gonsolin;/players/g/gonsoto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Ryan Brasier;/players/b/brasiry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brusdar Graterol;/players/g/gratebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Evan Phillips;/players/p/phillev01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Enrique Hernández (18, off Peter Lambert).
+
+
+HR: Will Smith (15, off Peter Lambert, 1st inn, 0 on, 2 outs to Deep LF-CF); James Outman (14, off Peter Lambert, 2nd inn, 1 on, 1 out to Deep RF); Amed Rosario (6, off Matt Koch, 7th inn, 0 on, 0 outs to Deep LF).
+
+
+HBP: Freddie Freeman (11, by Matt Koch).
+
+
+TB: Will Smith 4; Amed Rosario 4; James Outman 4; Enrique Hernández 3; Jason Heyward 2; David Peralta.
+
+
+RBI: James Outman 2 (51); Amed Rosario (51); Will Smith (59).
+
+
+2-out RBI: Will Smith.
+
+
+Team LOB: 5.
+With RISP: 1 for 3.
+
+Batting away
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;4;1;2;1;0;2;4;.258;.292;.425;.717;19;14;0.108; 0.81;0.140;-0.032;0%; 0.00; 1.0;0;1;HR,SB
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;4;0;1;0;0;1;4;.250;.335;.462;.796;22;16;-0.005; 0.98;0.068;-0.073;0%; 0.00; -0.1;1;2;2B
+Brendan Rodgers;/players/r/rodgebr02.shtml;2B;4;0;0;0;0;2;4;.188;.212;.188;.400;18;11;-0.110; 0.91;0.000;-0.110;0%; 0.00; -1.1;2;4;
+Elias Díaz;/players/d/diazel01.shtml;C;3;0;0;0;0;1;3;.266;.321;.417;.739;14;11;-0.086; 1.06;0.000;-0.086;0%; 0.00; -0.7;5;0;
+Nolan Jones;/players/j/jonesno01.shtml;LF;3;0;0;0;0;2;3;.272;.354;.495;.849;8;7;-0.084; 1.04;0.000;-0.084;0%; 0.00; -0.8;2;0;
+Michael Toglia;/players/t/toglimi01.shtml;RF;3;0;0;0;0;0;3;.160;.215;.240;.455;14;10;-0.061; 0.78;0.000;-0.061;0%; 0.00; -0.5;2;0;
+Elehuris Montero;/players/m/monteel01.shtml;1B;3;0;0;0;0;1;3;.196;.224;.333;.557;11;7;-0.056; 0.72;0.000;-0.056;0%; 0.00; -0.5;10;0;
+Harold Castro;/players/c/castrha01.shtml;DH;3;0;0;0;0;2;3;.263;.280;.329;.609;12;8;-0.053; 0.68;0.000;-0.053;0%; 0.00; -0.5;;;
+Brenton Doyle;/players/d/doylebr02.shtml;CF;3;0;0;0;0;0;3;.198;.257;.325;.583;9;5;-0.057; 0.73;0.000;-0.057;0%; 0.00; -0.5;2;0;
+Peter Lambert;/players/l/lambepe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Matt Koch;/players/k/kochma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brent Suter;/players/s/suterbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ryan McMahon (25, off Tony Gonsolin).
+
+
+HR: Ezequiel Tovar (12, off Tony Gonsolin, 1st inn, 0 on, 0 outs to Deep CF).
+
+
+TB: Ezequiel Tovar 5; Ryan McMahon 2.
+
+
+RBI: Ezequiel Tovar (52).
+
+
+Team LOB: 2.
+With RISP: 0 for 4.
+
+Pitching home
+Tony Gonsolin;/players/g/gonsoto01.shtml; W (8-4); 6 ;3;1;1;0;6;1;4.24;21;91;65;39;15;11;3;12;2;0;68;;;0.246; 0.94; 0.10%; 0.63; 2.2
+Ryan Brasier;/players/b/brasiry01.shtml; H (4); 1 ;0;0;0;0;1;0;4.15;3;12;9;6;1;2;1;1;0;0;;0;0;0.074; 0.95; 0.03%; 0.64; 0.5
+Brusdar Graterol;/players/g/gratebr01.shtml; H (15); 1 ;0;0;0;0;1;0;1.59;3;11;6;4;0;2;2;0;0;0;;0;0;0.046; 0.59; 0.02%; 0.40; 0.5
+Evan Phillips;/players/p/phillev01.shtml; S (17); 1 ;0;0;0;0;3;0;2.60;3;13;9;1;3;5;0;0;0;0;;0;0;0.036; 0.46; 0.01%; 0.31; 0.5
+
+Pitching away
+Peter Lambert;/players/l/lambepe01.shtml; L (2-4); 6 ;7;3;3;1;4;2;5.46;25;85;58;33;11;14;7;13;4;0;49;;;-0.063; 0.64; 0.00%; 0.00; 0.2
+Matt Koch;/players/k/kochma01.shtml;Matt Koch; 1 ;1;1;1;0;1;1;1.71;5;18;12;8;1;3;1;2;1;0;;0;0;-0.041; 0.23; 0.00%; 0.00; -0.5
+Brent Suter;/players/s/suterbr01.shtml;Brent Suter; 1 ;0;0;0;0;0;0;2.52;3;6;4;3;0;1;2;1;0;0;;0;0;0.007; 0.09; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Matt Koch (1; Freddie Freeman).
+IBB: None.
+Pickoffs: Peter Lambert (2; Jason Heyward, 2nd base (CS)).
+
+Balks: None.
+WP: None.
+HBP: Matt Koch (1; Freddie Freeman).
+IBB: None.
+Pickoffs: Peter Lambert (2; Jason Heyward, 2nd base (CS)).
+
+section_content
+Umpires: HP - Mike Estabrook, 1B - Andy Fletcher, 2B - Erich Bacchus, 3B - Laz Diaz, LF - (none), RF - (none).
+Time of Game: 2:13.
+Attendance: 52,515.
+Field Condition: Unknown.
+Start Time Weather: 77° F, Wind 6mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Rockies
+1;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+2;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+3;Brendan Rodgers;/players/r/rodgebr02.shtml;2B
+4;Elias Díaz;/players/d/diazel01.shtml;C
+5;Nolan Jones;/players/j/jonesno01.shtml;LF
+6;Michael Toglia;/players/t/toglimi01.shtml;RF
+7;Elehuris Montero;/players/m/monteel01.shtml;1B
+8;Harold Castro;/players/c/castrha01.shtml;DH
+9;Brenton Doyle;/players/d/doylebr02.shtml;CF
+; Peter Lambert;/players/l/lambepe01.shtml;P
+Dodgers
+1;David Peralta;/players/p/peralda01.shtml;LF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;DH
+4;Max Muncy;/players/m/muncyma01.shtml;3B
+5;Jason Heyward;/players/h/heywaja01.shtml;RF
+6;Enrique Hernández;/players/h/hernaen02.shtml;2B
+7;James Outman;/players/o/outmaja01.shtml;CF
+8;Amed Rosario;/players/r/rosaram01.shtml;SS
+9;Austin Barnes;/players/b/barneau01.shtml;C
+; Tony Gonsolin;/players/g/gonsoto01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b2;1-1;1;-2-;2,(0-1) CX;RR;LAD;James Outman;Peter Lambert;16%;73%;Home Run (Fly Ball to Deep RF); Hernández Scores
+b1;0-1;2;---;2,(0-1) SX;R;LAD;Will Smith;Peter Lambert;10%;51%;Home Run (Fly Ball to Deep LF-CF)
+t1;0-0;0;---;1,(0-0) X;R;COL;Ezequiel Tovar;Tony Gonsolin;-9%;41%;Home Run (Fly Ball to Deep CF)
+t4;1-3;0;---;8,(3-2) BSBBS.FFX;;COL;Ryan McMahon;Tony Gonsolin;-7%;66%;Double to LF (Fly Ball to Deep LF)
+b7;3-1;0;---;1,(0-0) .X;R;LAD;Amed Rosario;Matt Koch;6%;94%;Home Run (Line Drive to Deep LF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Rockies Batting, Tied 0-0, Dodgers' Tony Gonsolin facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;R;COL;Ezequiel Tovar;Tony Gonsolin;-9%;41%;Home Run (Fly Ball to Deep CF)
+t1;1-0;0;---;4,(1-2) FBSX;O;COL;Ryan McMahon;Tony Gonsolin;2%;43%;Groundout: P-1B (Weak SS-2B)
+t1;1-0;1;---;4,(1-2) BCCS;O;COL;Brendan Rodgers;Tony Gonsolin;1%;44%;Strikeout Swinging
+t1;1-0;2;---;3,(0-2) FS.*S;O;COL;Elias Díaz;Tony Gonsolin;1%;45%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Rockies 1, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Behind 0-1, Rockies' Peter Lambert facing 1-2-3 
+b1;0-1;0;---;3,(0-2) CSX;O;LAD;David Peralta;Peter Lambert;-2%;43%;Groundout: 2B-1B (2B-1B)
+b1;0-1;1;---;1,(0-0) X;O;LAD;Freddie Freeman;Peter Lambert;-2%;41%;Lineout: LF
+b1;0-1;2;---;2,(0-1) SX;R;LAD;Will Smith;Peter Lambert;10%;51%;Home Run (Fly Ball to Deep LF-CF)
+b1;1-1;2;---;6,(3-2) BFBBSS;O;LAD;Max Muncy;Peter Lambert;-1%;50%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Rockies 1, Dodgers 1.
+Top of the 2nd, Rockies Batting, Tied 1-1, Dodgers' Tony Gonsolin facing 5-6-7 
+t2;1-1;0;---;1,(0-0) .X;O;COL;Nolan Jones;Tony Gonsolin;2%;52%;Lineout: 1B (Deep 1B)
+t2;1-1;1;---;5,(2-2) CBCBX;O;COL;Michael Toglia;Tony Gonsolin;2%;54%;Groundout: 2B-1B
+t2;1-1;2;---;4,(1-2) CFBX;O;COL;Elehuris Montero;Tony Gonsolin;1%;55%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 1, Dodgers 1.
+Bottom of the 2nd, Dodgers Batting, Tied 1-1, Rockies' Peter Lambert facing 5-6-7 
+b2;1-1;0;---;1,(0-0) X;O;LAD;Jason Heyward;Peter Lambert;-2%;53%;Groundout: 3B-1B
+b2;1-1;1;---;3,(1-1) BCX;;LAD;Enrique Hernández;Peter Lambert;4%;57%;Double to CF (Line Drive to Deep CF-RF)
+b2;1-1;1;-2-;2,(0-1) CX;RR;LAD;James Outman;Peter Lambert;16%;73%;Home Run (Fly Ball to Deep RF); Hernández Scores
+b2;3-1;1;---;2,(1-0) BX;O;LAD;Amed Rosario;Peter Lambert;-1%;72%;Flyball: RF (Deep CF-RF)
+b2;3-1;2;---;2,(0-1) CX;O;LAD;Austin Barnes;Peter Lambert;-1%;71%;Popfly: 1B (Weak 1B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Rockies 1, Dodgers 3.
+Top of the 3rd, Rockies Batting, Behind 1-3, Dodgers' Tony Gonsolin facing 8-9-1 
+t3;1-3;0;---;4,(1-2) BFCS;O;COL;Harold Castro;Tony Gonsolin;3%;73%;Strikeout Swinging
+t3;1-3;1;---;3,(1-1) SBX;O;COL;Brenton Doyle;Tony Gonsolin;2%;75%;Popfly: 2B (Deep 2B-1B)
+t3;1-3;2;---;9,(2-2) SFFFFFBBC;O;COL;Ezequiel Tovar;Tony Gonsolin;1%;76%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 1, Dodgers 3.
+Bottom of the 3rd, Dodgers Batting, Ahead 3-1, Rockies' Peter Lambert facing 1-2-3 
+b3;3-1;0;---;2,(0-1) FX;O;LAD;David Peralta;Peter Lambert;-2%;74%;Groundout: 2B-1B (2B-1B)
+b3;3-1;1;---;3,(2-0) BBX;O;LAD;Freddie Freeman;Peter Lambert;-1%;73%;Flyball: CF (Deep LF-CF)
+b3;3-1;2;---;4,(1-2) BFCS;O;LAD;Will Smith;Peter Lambert;-1%;72%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 1, Dodgers 3.
+Top of the 4th, Rockies Batting, Behind 1-3, Dodgers' Tony Gonsolin facing 2-3-4 
+t4;1-3;0;---;8,(3-2) BSBBS.FFX;;COL;Ryan McMahon;Tony Gonsolin;-7%;66%;Double to LF (Fly Ball to Deep LF)
+t4;1-3;0;-2-;6,(3-2) BSBFBX;O;COL;Brendan Rodgers;Tony Gonsolin;5%;71%;Groundout: 3B-1B (SS-3B Hole)
+t4;1-3;1;-2-;9,(3-2) FBSFFBBFX;O;COL;Elias Díaz;Tony Gonsolin;4%;75%;Flyball: LF
+t4;1-3;2;-2-;3,(0-2) FCS;O;COL;Nolan Jones;Tony Gonsolin;4%;78%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rockies 1, Dodgers 3.
+Bottom of the 4th, Dodgers Batting, Ahead 3-1, Rockies' Peter Lambert facing 4-5-6 
+b4;3-1;0;---;4,(1-2) FBFX;O;LAD;Max Muncy;Peter Lambert;-2%;77%;Flyball: RF
+b4;3-1;1;---;2,(0-1) CX;;LAD;Jason Heyward;Peter Lambert;2%;78%;Single to RF (Ground Ball thru Weak 2B-1B)
+b4;3-1;1;1--;4,(1-2) BCSX;;LAD;Enrique Hernández;Peter Lambert;2%;81%;Single to LF (Ground Ball); Heyward to 2B
+b4;3-1;1;12-;5,(2-2) BSBFX;O;LAD;James Outman;Peter Lambert;-3%;78%;Flyball: LF
+b4;3-1;2;12-;2,(1-0) *BX;O;LAD;Amed Rosario;Peter Lambert;-3%;75%;Popfly: 2B (Deep 2B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Rockies 1, Dodgers 3.
+Top of the 5th, Rockies Batting, Behind 1-3, Dodgers' Tony Gonsolin facing 6-7-8 
+t5;1-3;0;---;3,(0-2) FSX;O;COL;Michael Toglia;Tony Gonsolin;3%;78%;Flyball: CF (Deep CF)
+t5;1-3;1;---;1,(0-0) X;O;COL;Elehuris Montero;Tony Gonsolin;2%;80%;Flyball: CF (Short CF)
+t5;1-3;2;---;7,(3-2) CC.BFBBS;O;COL;Harold Castro;Tony Gonsolin;1%;81%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 1, Dodgers 3.
+Bottom of the 5th, Dodgers Batting, Ahead 3-1, Rockies' Peter Lambert facing 9-1-2 
+b5;3-1;0;---;6,(3-2) BSBC.BC;O;LAD;Austin Barnes;Peter Lambert;-2%;79%;Strikeout Looking
+b5;3-1;1;---;2,(1-0) BX;;LAD;David Peralta;Peter Lambert;2%;81%;Single to CF (Line Drive to CF-RF)
+b5;3-1;1;1--;8,(2-2) BTBCFFFX;O;LAD;Freddie Freeman;Peter Lambert;-2%;79%;Flyball: CF
+b5;3-1;2;1--;5,(1-2) CBS.1FS;O;LAD;Will Smith;Peter Lambert;-2%;77%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rockies 1, Dodgers 3.
+Top of the 6th, Rockies Batting, Behind 1-3, Dodgers' Tony Gonsolin facing 9-1-2 
+t6;1-3;0;---;2,(1-0) BX;O;COL;Brenton Doyle;Tony Gonsolin;3%;81%;Flyball: CF (Deep LF-CF)
+t6;1-3;1;---;4,(1-2) BFSX;;COL;Ezequiel Tovar;Tony Gonsolin;-4%;77%;Single to CF (Fly Ball)
+t6;1-3;1;1--;7,(2-2) BFB.1TFFX;O;COL;Ryan McMahon;Tony Gonsolin;4%;81%;Flyball: CF (Deep CF)
+t6;1-3;2;1--;2,(0-1) C>B;;COL;Brendan Rodgers;Tony Gonsolin;-1%;80%;Tovar Steals 2B
+t6;1-3;2;-2-;3,(1-1) C>B.X;O;COL;Brendan Rodgers;Tony Gonsolin;4%;84%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rockies 1, Dodgers 3.
+Bottom of the 6th, Dodgers Batting, Ahead 3-1, Rockies' Peter Lambert facing 4-5-6 
+b6;3-1;0;---;3,(0-2) CFX;O;LAD;Max Muncy;Peter Lambert;-1%;83%;Groundout: 2B-1B (2B-1B)
+b6;3-1;1;---;5,(2-2) CBSBX;;LAD;Jason Heyward;Peter Lambert;1%;84%;Single to RF (Ground Ball thru 2B-1B)
+b6;3-1;1;1--;5,(3-2) BBCFB11;O;LAD;Enrique Hernández;Peter Lambert;-3%;82%;Heyward Caught Stealing (PO) 2B (P-1B)
+b6;3-1;2;---;6,(3-2) BBCFB11.B;;LAD;Enrique Hernández;Peter Lambert;1%;82%;Walk
+b6;3-1;2;1--;2,(1-0) *BX;O;LAD;James Outman;Peter Lambert;-2%;81%;Lineout: 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rockies 1, Dodgers 3.
+Top of the 7th, Rockies Batting, Behind 1-3, Dodgers' Ryan Brasier facing 4-5-6 
+;;;;;;;;;Ryan Brasier replaces Tony Gonsolin pitching
+t7;1-3;0;---;2,(0-1) .FX;O;COL;Elias Díaz;Ryan Brasier;4%;85%;Groundout: 2B-1B (SS-2B)
+t7;1-3;1;---;4,(1-2) CBFC;O;COL;Nolan Jones;Ryan Brasier;2%;87%;Strikeout Looking
+t7;1-3;2;---;6,(2-2) FSFBBX;O;COL;Michael Toglia;Ryan Brasier;1%;88%;Flyball: RF (CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 1, Dodgers 3.
+Bottom of the 7th, Dodgers Batting, Ahead 3-1, Rockies' Matt Koch facing 8-9-1 
+;;;;;;;;;Matt Koch replaces Peter Lambert pitching
+b7;3-1;0;---;1,(0-0) .X;R;LAD;Amed Rosario;Matt Koch;6%;94%;Home Run (Line Drive to Deep LF)
+b7;4-1;0;---;3,(0-2) FCX;O;LAD;Austin Barnes;Matt Koch;-1%;93%;Groundout: 3B-1B
+b7;4-1;1;---;3,(1-1) BCX;O;LAD;David Peralta;Matt Koch;0%;93%;Foul Popfly: 3B (3B into Foul Terr.)
+b7;4-1;2;---;5,(2-2) BFFBH;;LAD;Freddie Freeman;Matt Koch;0%;93%;Hit By Pitch
+b7;4-1;2;1--;6,(2-2) CBFBFS;O;LAD;Will Smith;Matt Koch;-1%;92%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Rockies 1, Dodgers 4.
+Top of the 8th, Rockies Batting, Behind 1-4, Dodgers' Brusdar Graterol facing 7-8-9 
+;;;;;;;;;Brusdar Graterol replaces Ryan Brasier pitchingEnrique Hernández moves from 2B to 1B Amed Rosario moves from SS to 2B Miguel Rojas replaces Freddie Freeman (1B) playing SS batting 2nd
+t8;1-4;0;---;6,(3-2) ....BBBCFC;O;COL;Elehuris Montero;Brusdar Graterol;2%;95%;Strikeout Looking
+t8;1-4;1;---;1,(0-0) X;O;COL;Harold Castro;Brusdar Graterol;1%;96%;Groundout: 2B-1B (2B-1B)
+t8;1-4;2;---;4,(2-1) BBFX;O;COL;Brenton Doyle;Brusdar Graterol;1%;97%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 1, Dodgers 4.
+Bottom of the 8th, Dodgers Batting, Ahead 4-1, Rockies' Brent Suter facing 4-5-6 
+;;;;;;;;;Brent Suter replaces Matt Koch pitching
+b8;4-1;0;---;3,(2-0) .BBX;O;LAD;Max Muncy;Brent Suter;0%;97%;Groundout: 2B-1B (2B-1B)
+b8;4-1;1;---;1,(0-0) X;O;LAD;Jason Heyward;Brent Suter;0%;97%;Popfly: 2B (SS-2B)
+b8;4-1;2;---;2,(0-1) CX;O;LAD;Enrique Hernández;Brent Suter;0%;96%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 1, Dodgers 4.
+Top of the 9th, Rockies Batting, Behind 1-4, Dodgers' Evan Phillips facing 1-2-3 
+;;;;;;;;;Evan Phillips replaces Brusdar Graterol pitching
+t9;1-4;0;---;5,(2-2) .BBCCT;O;COL;Ezequiel Tovar;Evan Phillips;2%;98%;Strikeout Swinging
+t9;1-4;1;---;3,(0-2) CCS;O;COL;Ryan McMahon;Evan Phillips;1%;100%;Strikeout Swinging
+t9;1-4;2;---;5,(2-2) BBCSS;O;COL;Brendan Rodgers;Evan Phillips;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 1, Dodgers 4.

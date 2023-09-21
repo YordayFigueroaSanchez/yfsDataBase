@@ -1,0 +1,252 @@
+
+Scorebox Meta
+20230414
+7:10 p.m. Local
+52298
+Dodger Stadium
+140
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CHC-2023.png;/teams/CHC/2023.shtml;0;0;1;1;1;0;0;3;2;8;12;1
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;0;1;0;0;0;1;0;0;2;3;0
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;RF;4;0;0;0;0;2;4;.250;.391;.462;.852;15;10;-0.147; 1.00;0.000;-0.147;-0.09%; 1.02; -1.4;2;0;GDP
+Freddie Freeman;/players/f/freemfr01.shtml;1B;4;0;0;0;0;0;4;.309;.406;.436;.843;16;9;-0.057; 0.55;0.000;-0.057;-0.03%; 0.56; -0.7;7;0;
+J.D. Martinez;/players/m/martijd02.shtml;DH;4;0;0;0;0;2;4;.259;.300;.519;.819;20;12;-0.059; 0.56;0.000;-0.059;-0.04%; 0.57; -0.7;;;
+Max Muncy;/players/m/muncyma01.shtml;3B;4;1;2;1;0;2;4;.239;.364;.630;.994;15;9;0.153; 0.84;0.177;-0.024; 0.09%; 0.86; 0.9;0;0;HR
+Trayce Thompson;/players/t/thomptr01.shtml;CF;3;0;0;0;0;2;3;.273;.407;.818;1.226;14;9;-0.106; 1.39;0.000;-0.106;-0.07%; 1.42; -0.7;4;0;
+Miguel Vargas;/players/v/vargami01.shtml;2B;3;0;0;0;0;1;3;.179;.442;.286;.728;9;6;-0.055; 0.98;0.013;-0.068;-0.03%; 1.01; -0.3;1;1;
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;3;0;0;0;0;0;3;.160;.222;.200;.422;10;6;-0.082; 1.02;0.000;-0.082;-0.05%; 1.04; -0.6;1;3;
+Chris Taylor;/players/t/tayloch03.shtml;LF;2;1;1;1;0;1;2;.114;.179;.371;.551;11;8;0.092; 0.98;0.115;-0.023; 0.06%; 1.00; 0.8;1;0;HR
+James Outman;/players/o/outmaja01.shtml;PH-LF;1;0;0;0;0;0;1;.282;.429;.667;1.095;7;4;-0.017; 0.66;0.000;-0.017;-0.01%; 0.68; -0.3;0;0;
+Austin Barnes;/players/b/barneau01.shtml;C;2;0;0;0;1;0;3;.000;.071;.000;.071;18;10;0.014; 0.64;0.039;-0.025; 0.01%; 0.66; 0.1;11;0;
+Noah Syndergaard;/players/s/syndeno01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brusdar Graterol;/players/g/gratebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andre Jackson;/players/j/jacksan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+HR: Chris Taylor (3, off Justin Steele, 3rd inn, 0 on, 0 outs to Deep LF-CF); Max Muncy (6, off Justin Steele, 7th inn, 0 on, 0 outs to Deep RF Line).
+
+
+TB: Max Muncy 5; Chris Taylor 4.
+
+
+GIDP: Mookie Betts (1).
+
+
+RBI: Max Muncy (14); Chris Taylor (6).
+
+
+Team LOB: 2.
+With RISP: 0 for 0.
+
+Batting away
+Nico Hoerner;/players/h/hoernni01.shtml;2B;4;1;1;0;1;1;5;.340;.375;.396;.771;14;7;-0.030; 0.75;0.043;-0.073;-0.02%; 0.75; 0.4;4;3;2·SB
+Dansby Swanson;/players/s/swansda01.shtml;SS;5;0;0;0;0;5;5;.356;.420;.400;.820;22;16;-0.092; 0.70;0.000;-0.092;-0.06%; 0.70; -1.5;1;4;
+Ian Happ;/players/h/happia01.shtml;LF;4;1;4;3;1;0;5;.349;.481;.628;1.109;23;11;0.273; 0.73;0.273;0.000; 0.16%; 0.73; 3.5;0;0;HR,2·2B,SB
+Seiya Suzuki;/players/s/suzukse01.shtml;RF;5;1;1;1;0;1;5;.200;.200;.800;1.000;12;10;-0.024; 0.80;0.068;-0.092;-0.01%; 0.79; -0.5;2;0;HR
+Cody Bellinger;/players/b/bellico01.shtml;CF;4;1;1;0;1;0;5;.239;.308;.413;.721;24;14;-0.008; 0.78;0.072;-0.080;-0.01%; 0.77; -0.4;1;0;2B
+Patrick Wisdom;/players/w/wisdopa01.shtml;3B;5;1;1;1;0;2;5;.231;.318;.590;.908;24;17;-0.013; 0.61;0.041;-0.054;-0.01%; 0.61; -0.1;0;2;HR
+Eric Hosmer;/players/h/hosmeer01.shtml;1B;4;0;1;1;0;1;4;.270;.341;.324;.666;14;10;0.020; 0.68;0.037;-0.017; 0.01%; 0.67; -0.1;7;2;
+Edwin Rios;/players/r/riosed01.shtml;DH;4;0;0;0;0;1;4;.083;.214;.333;.548;15;11;-0.048; 0.43;0.000;-0.048;-0.03%; 0.43; -0.6;;;
+Yan Gomes;/players/g/gomesya01.shtml;C;4;3;3;2;0;0;4;.233;.226;.533;.759;7;7;0.160; 0.85;0.177;-0.017; 0.10%; 0.85; 2.3;10;0;2·HR,SB
+Justin Steele;/players/s/steelju01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Brad Boxberger;/players/b/boxbebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Michael Rucker;/players/r/ruckemi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ian Happ 2 (6, 1 off Andre Jackson, 1 off Noah Syndergaard); Cody Bellinger (2, off Noah Syndergaard).
+
+
+HR: Yan Gomes 2 (3, 1 off Andre Jackson, 9th inn, 0 on, 0 outs to Deep LF Line, 1 off Noah Syndergaard, 5th inn, 0 on, 0 outs to Deep LF-CF); Ian Happ (2, off Andre Jackson, 8th inn, 0 on, 0 outs to Deep CF-RF); Seiya Suzuki (1, off Andre Jackson, 8th inn, 0 on, 0 outs to Deep LF); Patrick Wisdom (4, off Andre Jackson, 8th inn, 0 on, 1 out to Deep LF).
+
+
+TB: Ian Happ 9; Yan Gomes 9; Patrick Wisdom 4; Seiya Suzuki 4; Cody Bellinger 2; Nico Hoerner; Eric Hosmer.
+
+
+RBI: Ian Happ 3 (9); Yan Gomes 2 (6); Seiya Suzuki (1); Patrick Wisdom (7); Eric Hosmer (9).
+
+
+2-out RBI: Ian Happ.
+
+
+Team LOB: 7.
+With RISP: 2 for 11.
+
+Pitching home
+Noah Syndergaard;/players/s/syndeno01.shtml; L (0-2); 6 ;6;3;3;2;9;1;5.63;26;92;63;31;16;16;6;9;4;0;55;;;-0.049; 0.96;-0.03%; 0.98; 0.3
+Brusdar Graterol;/players/g/gratebr01.shtml;Brusdar Graterol; 1 ;0;0;0;0;1;0;5.06;3;8;6;2;1;3;1;1;0;0;;0;0;0.039; 0.50; 0.02%; 0.51; 0.5
+Andre Jackson;/players/j/jacksan01.shtml;Andre Jackson; 2 ;6;5;5;1;1;4;8.64;13;55;34;22;6;6;3;8;2;0;;0;0;-0.227; 0.18;-0.14%; 0.18; -3.9
+
+Pitching away
+Justin Steele;/players/s/steelju01.shtml; W (2-0); 7 ;3;2;2;1;8;2;1.42;25;101;65;34;16;15;10;6;1;0;70;;;0.227; 1.01; 0.14%; 1.00; 1.8
+Brad Boxberger;/players/b/boxbebr01.shtml;Brad Boxberger; 1 ;0;0;0;0;1;0;1.69;3;17;9;5;1;3;1;1;0;0;;0;0;0.032; 0.41; 0.02%; 0.41; 0.5
+Michael Rucker;/players/r/ruckemi01.shtml;Michael Rucker; 1 ;0;0;0;0;1;0;4.05;3;17;9;5;2;2;1;1;1;0;;0;0;0.004; 0.05; 0.00%; 0.05; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Jim Wolf, 1B - Mike Muchlinski, 2B - Sean Barber, 3B - Alan Porter, LF - (none), RF - (none).
+Time of Game: 2:20.
+Attendance: 52,298.
+Field Condition: Unknown.
+Start Time Weather: 59° F, Wind 4mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Cubs
+1;Nico Hoerner;/players/h/hoernni01.shtml;2B
+2;Dansby Swanson;/players/s/swansda01.shtml;SS
+3;Ian Happ;/players/h/happia01.shtml;LF
+4;Seiya Suzuki;/players/s/suzukse01.shtml;RF
+5;Cody Bellinger;/players/b/bellico01.shtml;CF
+6;Patrick Wisdom;/players/w/wisdopa01.shtml;3B
+7;Eric Hosmer;/players/h/hosmeer01.shtml;1B
+8;Edwin Rios;/players/r/riosed01.shtml;DH
+9;Yan Gomes;/players/g/gomesya01.shtml;C
+; Justin Steele;/players/s/steelju01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;RF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;J.D. Martinez;/players/m/martijd02.shtml;DH
+4;Max Muncy;/players/m/muncyma01.shtml;3B
+5;Trayce Thompson;/players/t/thomptr01.shtml;CF
+6;Miguel Vargas;/players/v/vargami01.shtml;2B
+7;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+8;Chris Taylor;/players/t/tayloch03.shtml;LF
+9;Austin Barnes;/players/b/barneau01.shtml;C
+; Noah Syndergaard;/players/s/syndeno01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b7;1-3;0;---;3,(1-1) BFX;R;LAD;Max Muncy;Justin Steele;-14%;63%;Home Run (Fly Ball to Deep RF Line)
+t8;3-2;0;---;6,(3-2) .BBFCBX;R;CHC;Ian Happ;Andre Jackson;12%;86%;Home Run (Fly Ball to Deep CF-RF)
+b3;0-1;0;---;2,(0-1) CX;R;LAD;Chris Taylor;Justin Steele;-11%;44%;Home Run (Fly Ball to Deep LF-CF)
+t5;2-1;0;---;1,(0-0) X;R;CHC;Yan Gomes;Noah Syndergaard;11%;74%;Home Run (Fly Ball to Deep LF-CF)
+t3;0-0;2;-2-;2,(1-0) BX;R;CHC;Ian Happ;Noah Syndergaard;11%;59%;Ground-rule Double (Line Drive to Deep RF Line); Gomes Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Cubs Batting, Tied 0-0, Dodgers' Noah Syndergaard facing 1-2-3 
+t1;0-0;0;---;2,(0-1) CX;O;CHC;Nico Hoerner;Noah Syndergaard;-2%;48%;Flyball: RF (CF-RF)
+t1;0-0;1;---;4,(1-2) CSBS;O;CHC;Dansby Swanson;Noah Syndergaard;-2%;46%;Strikeout Swinging
+t1;0-0;2;---;7,(3-2) FCBBFBX;;CHC;Ian Happ;Noah Syndergaard;1%;47%;Single to RF (Line Drive to Deep RF)
+t1;0-0;2;1--;1,(0-0) X;O;CHC;Seiya Suzuki;Noah Syndergaard;-2%;45%;Groundout: SS-2B/Forceout at 2B; Suzuki to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cubs 0, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Tied 0-0, Cubs' Justin Steele facing 1-2-3 
+b1;0-0;0;---;5,(2-2) CBBCS;O;LAD;Mookie Betts;Justin Steele;2%;47%;Strikeout Swinging
+b1;0-0;1;---;3,(1-1) BCX;O;LAD;Freddie Freeman;Justin Steele;2%;49%;Flyball: RF (RF Line)
+b1;0-0;2;---;5,(2-2) BSSBC;O;LAD;J.D. Martinez;Justin Steele;1%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 0, Dodgers 0.
+Top of the 2nd, Cubs Batting, Tied 0-0, Dodgers' Noah Syndergaard facing 5-6-7 
+t2;0-0;0;---;6,(3-2) ACBBFBX;O;CHC;Cody Bellinger;Noah Syndergaard;-2%;48%;Groundout: 1B unassisted
+t2;0-0;1;---;3,(0-2) SFC;O;CHC;Patrick Wisdom;Noah Syndergaard;-2%;46%;Strikeout Looking
+t2;0-0;2;---;3,(1-1) FBX;;CHC;Eric Hosmer;Noah Syndergaard;1%;47%;Single to SS (Ground Ball)
+t2;0-0;2;1--;2,(1-0) BX;O;CHC;Edwin Rios;Noah Syndergaard;-2%;45%;Flyball: CF (Short CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cubs 0, Dodgers 0.
+Bottom of the 2nd, Dodgers Batting, Tied 0-0, Cubs' Justin Steele facing 4-5-6 
+b2;0-0;0;---;4,(1-2) CFBS;O;LAD;Max Muncy;Justin Steele;2%;47%;Strikeout Swinging
+b2;0-0;1;---;4,(1-2) CS.BT;O;LAD;Trayce Thompson;Justin Steele;2%;49%;Strikeout Swinging
+b2;0-0;2;---;2,(0-1) FX;;LAD;Miguel Vargas;Justin Steele;-1%;48%;Reached on E5 (Ground Ball to SS-3B Hole); Vargas to 1B
+b2;0-0;2;1--;1,(0-0) X;O;LAD;Miguel Rojas;Justin Steele;2%;50%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Cubs 0, Dodgers 0.
+Top of the 3rd, Cubs Batting, Tied 0-0, Dodgers' Noah Syndergaard facing 9-1-2 
+t3;0-0;0;---;2,(0-1) CX;;CHC;Yan Gomes;Noah Syndergaard;4%;54%;Single to RF (Ground Ball thru 2B-1B)
+t3;0-0;0;1--;6,(3-2) BBBCC>S;O;CHC;Nico Hoerner;Noah Syndergaard;-2%;52%;Strikeout Swinging, Gomes Steals 2B
+t3;0-0;1;-2-;3,(0-2) CS*S;O;CHC;Dansby Swanson;Noah Syndergaard;-4%;48%;Strikeout Swinging
+t3;0-0;2;-2-;2,(1-0) BX;R;CHC;Ian Happ;Noah Syndergaard;11%;59%;Ground-rule Double (Line Drive to Deep RF Line); Gomes Scores
+t3;1-0;2;-2-;2,(0-1) SX;O;CHC;Seiya Suzuki;Noah Syndergaard;-3%;56%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Cubs 1, Dodgers 0.
+Bottom of the 3rd, Dodgers Batting, Behind 0-1, Cubs' Justin Steele facing 8-9-1 
+b3;0-1;0;---;2,(0-1) CX;R;LAD;Chris Taylor;Justin Steele;-11%;44%;Home Run (Fly Ball to Deep LF-CF)
+b3;1-1;0;---;9,(3-2) BCBFFFFBB;;LAD;Austin Barnes;Justin Steele;-4%;40%;Walk
+b3;1-1;0;1--;3,(1-1) CBX;OO;LAD;Mookie Betts;Justin Steele;8%;49%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b3;1-1;2;---;4,(1-2) SBCX;O;LAD;Freddie Freeman;Justin Steele;1%;50%;Groundout: 1B-P
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Cubs 1, Dodgers 1.
+Top of the 4th, Cubs Batting, Tied 1-1, Dodgers' Noah Syndergaard facing 5-6-7 
+t4;1-1;0;---;2,(0-1) FX;;CHC;Cody Bellinger;Noah Syndergaard;7%;57%;Double to RF (Line Drive to Deep RF Line)
+t4;1-1;0;-2-;3,(1-1) BSX;O;CHC;Patrick Wisdom;Noah Syndergaard;-2%;55%;Groundout: SS-1B (Deep SS); Bellinger to 3B
+t4;1-1;1;--3;4,(0-2) SFFX;RO;CHC;Eric Hosmer;Noah Syndergaard;2%;58%;Groundout: 1B unassisted (Weak 1B); Bellinger Scores
+t4;2-1;2;---;4,(1-2) SBFX;O;CHC;Edwin Rios;Noah Syndergaard;-1%;57%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Cubs 2, Dodgers 1.
+Bottom of the 4th, Dodgers Batting, Behind 1-2, Cubs' Justin Steele facing 3-4-5 
+b4;1-2;0;---;5,(2-2) SBBFX;O;LAD;J.D. Martinez;Justin Steele;3%;60%;Groundout: SS-1B
+b4;1-2;1;---;2,(1-0) BX;;LAD;Max Muncy;Justin Steele;-3%;56%;Single to CF (Ground Ball thru SS-2B)
+b4;1-2;1;1--;5,(2-2) CBBSS;O;LAD;Trayce Thompson;Justin Steele;4%;60%;Strikeout Swinging
+b4;1-2;2;1--;2,(1-0) BX;O;LAD;Miguel Vargas;Justin Steele;3%;63%;Groundout: SS-2B/Forceout at 2B; Vargas to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cubs 2, Dodgers 1.
+Top of the 5th, Cubs Batting, Ahead 2-1, Dodgers' Noah Syndergaard facing 9-1-2 
+t5;2-1;0;---;1,(0-0) X;R;CHC;Yan Gomes;Noah Syndergaard;11%;74%;Home Run (Fly Ball to Deep LF-CF)
+t5;3-1;0;---;4,(3-0) BBBB;;CHC;Nico Hoerner;Noah Syndergaard;3%;77%;Walk
+t5;3-1;0;1--;4,(0-2) SCF1S;O;CHC;Dansby Swanson;Noah Syndergaard;-3%;75%;Strikeout Swinging
+t5;3-1;1;1--;5,(3-1) BBBCB;;CHC;Ian Happ;Noah Syndergaard;3%;77%;Walk; Hoerner to 2B
+t5;3-1;1;12-;3,(0-2) C>F>S;O;CHC;Seiya Suzuki;Noah Syndergaard;-2%;75%;Strikeout Swinging, Hoerner Steals 3B, Happ Steals 2B
+t5;3-1;2;-23;5,(1-2) BCCFX;O;CHC;Cody Bellinger;Noah Syndergaard;-5%;70%;Flyball: CF
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Cubs 3, Dodgers 1.
+Bottom of the 5th, Dodgers Batting, Behind 1-3, Cubs' Justin Steele facing 7-8-9 
+b5;1-3;0;---;4,(2-1) BCBX;O;LAD;Miguel Rojas;Justin Steele;3%;73%;Groundout: 3B-1B
+b5;1-3;1;---;9,(3-2) SFBFBFFBS;O;LAD;Chris Taylor;Justin Steele;2%;76%;Strikeout Swinging
+b5;1-3;2;---;4,(1-2) SFBX;O;LAD;Austin Barnes;Justin Steele;1%;77%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 3, Dodgers 1.
+Top of the 6th, Cubs Batting, Ahead 3-1, Dodgers' Noah Syndergaard facing 6-7-8 
+t6;3-1;0;---;6,(3-2) BBBFCS;O;CHC;Patrick Wisdom;Noah Syndergaard;-2%;75%;Strikeout Swinging
+t6;3-1;1;---;4,(1-2) CBFS;O;CHC;Eric Hosmer;Noah Syndergaard;-1%;74%;Strikeout Swinging
+t6;3-1;2;---;4,(1-2) FBFS;O;CHC;Edwin Rios;Noah Syndergaard;-1%;73%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 3, Dodgers 1.
+Bottom of the 6th, Dodgers Batting, Behind 1-3, Cubs' Justin Steele facing 1-2-3 
+b6;1-3;0;---;2,(0-1) CX;O;LAD;Mookie Betts;Justin Steele;4%;77%;Flyball: CF (Deep CF)
+b6;1-3;1;---;3,(2-0) BBX;O;LAD;Freddie Freeman;Justin Steele;3%;79%;Lineout: 2B (2B-1B)
+b6;1-3;2;---;5,(2-2) FBFBS;O;LAD;J.D. Martinez;Justin Steele;2%;81%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 3, Dodgers 1.
+Top of the 7th, Cubs Batting, Ahead 3-1, Dodgers' Brusdar Graterol facing 9-1-2 
+;;;;;;;;;Brusdar Graterol replaces Noah Syndergaard pitching
+t7;3-1;0;---;2,(0-1) .CX;O;CHC;Yan Gomes;Brusdar Graterol;-2%;79%;Popfly: SS (Weak SS-2B)
+t7;3-1;1;---;1,(0-0) X;O;CHC;Nico Hoerner;Brusdar Graterol;-1%;78%;Groundout: SS-1B (Deep SS)
+t7;3-1;2;---;5,(2-2) CSB.BC;O;CHC;Dansby Swanson;Brusdar Graterol;-1%;77%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 3, Dodgers 1.
+Bottom of the 7th, Dodgers Batting, Behind 1-3, Cubs' Justin Steele facing 4-5-6 
+b7;1-3;0;---;3,(1-1) BFX;R;LAD;Max Muncy;Justin Steele;-14%;63%;Home Run (Fly Ball to Deep RF Line)
+b7;2-3;0;---;5,(2-2) SBCBX;O;LAD;Trayce Thompson;Justin Steele;5%;68%;Groundout: SS-1B
+b7;2-3;1;---;5,(2-2) BCBSS;O;LAD;Miguel Vargas;Justin Steele;4%;71%;Strikeout Swinging
+b7;2-3;2;---;5,(2-2) .FBBFX;O;LAD;Miguel Rojas;Justin Steele;3%;74%;Flyball: RF (Short RF Line)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Cubs 3, Dodgers 2.
+Top of the 8th, Cubs Batting, Ahead 3-2, Dodgers' Andre Jackson facing 3-4-5 
+;;;;;;;;;Andre Jackson replaces Brusdar Graterol pitching
+t8;3-2;0;---;6,(3-2) .BBFCBX;R;CHC;Ian Happ;Andre Jackson;12%;86%;Home Run (Fly Ball to Deep CF-RF)
+t8;4-2;0;---;2,(1-0) BX;R;CHC;Seiya Suzuki;Andre Jackson;7%;92%;Home Run (Fly Ball to Deep LF)
+t8;5-2;0;---;4,(2-1) BCBX;O;CHC;Cody Bellinger;Andre Jackson;-1%;92%;Flyball: CF (Deep CF-RF)
+t8;5-2;1;---;10,(3-2) SBCFBFFFBX;R;CHC;Patrick Wisdom;Andre Jackson;4%;96%;Home Run (Fly Ball to Deep LF)
+t8;6-2;1;---;3,(2-0) BBX;O;CHC;Eric Hosmer;Andre Jackson;0%;95%;Groundout: P-1B (Weak SS-2B)
+t8;6-2;2;---;5,(1-2) BSFFX;O;CHC;Edwin Rios;Andre Jackson;0%;95%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;3 runs, 3 hits, 0 errors, 0 LOB. Cubs 6, Dodgers 2.
+Bottom of the 8th, Dodgers Batting, Behind 2-6, Cubs' Brad Boxberger facing 8-9-1 
+;;;;;;;;;Brad Boxberger replaces Justin Steele pitchingJames Outman pinch hits for Chris Taylor (LF) batting 8th
+b8;2-6;0;---;7,(3-2) ..BFCBBFX;O;LAD;James Outman;Brad Boxberger;2%;97%;Groundout: 1B-P (2B-1B)
+b8;2-6;1;---;5,(3-1) BBCBX;O;LAD;Austin Barnes;Brad Boxberger;1%;98%;Popfly: SS
+b8;2-6;2;---;5,(2-2) CBFBS;O;LAD;Mookie Betts;Brad Boxberger;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 6, Dodgers 2.
+Top of the 9th, Cubs Batting, Ahead 6-2, Dodgers' Andre Jackson facing 9-1-2 
+;;;;;;;;;James Outman moves from PH to LF 
+t9;6-2;0;---;2,(0-1) .CX;R;CHC;Yan Gomes;Andre Jackson;1%;99%;Home Run (Fly Ball to Deep LF Line)
+t9;7-2;0;---;1,(0-0) X;;CHC;Nico Hoerner;Andre Jackson;0%;99%;Single to LF (Ground Ball)
+t9;7-2;0;1--;3,(1-1) C1B>B;;CHC;Dansby Swanson;Andre Jackson;0%;100%;Hoerner Steals 2B
+t9;7-2;0;-2-;6,(3-2) C1B>B.SBS;O;CHC;Dansby Swanson;Andre Jackson;0%;99%;Strikeout Swinging
+t9;7-2;1;-2-;3,(1-1) BCX;R;CHC;Ian Happ;Andre Jackson;0%;100%;Double to CF (Line Drive to Deep CF); Hoerner Scores
+t9;8-2;1;-2-;4,(1-2) FBSX;O;CHC;Seiya Suzuki;Andre Jackson;0%;100%;Foul Popfly: 1B (1B into Foul Terr.)
+t9;8-2;2;-2-;7,(3-2) BSBFBFB;;CHC;Cody Bellinger;Andre Jackson;0%;100%;Walk
+t9;8-2;2;12-;2,(0-1) FX;O;CHC;Patrick Wisdom;Andre Jackson;0%;100%;Flyball: RF (Short RF)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Cubs 8, Dodgers 2.
+Bottom of the 9th, Dodgers Batting, Behind 2-8, Cubs' Michael Rucker facing 2-3-4 
+;;;;;;;;;Michael Rucker replaces Brad Boxberger pitching
+b9;2-8;0;---;6,(3-2) .FBBFBX;O;LAD;Freddie Freeman;Michael Rucker;0%;100%;Groundout: 2B-1B (2B-1B)
+b9;2-8;1;---;5,(2-2) BBSSX;O;LAD;J.D. Martinez;Michael Rucker;0%;100%;Lineout: 2B (Deep SS-2B)
+b9;2-8;2;---;6,(3-2) BCBBCT;O;LAD;Max Muncy;Michael Rucker;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cubs 8, Dodgers 2.

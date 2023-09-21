@@ -1,0 +1,267 @@
+
+Scorebox Meta
+20230613
+7:10 p.m. Local
+16931
+Kauffman Stadium
+150
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CIN-2023.png;/teams/CIN/2023.shtml;0;5;0;0;0;0;0;0;0;5;5;1
+https://cdn.ssref.net/req/202308101/tlogo/br/KCR-2023.png;/teams/KCR/2023.shtml;1;1;2;0;0;0;0;0;0;4;8;1
+
+Batting home
+Nick Pratto;/players/p/prattni01.shtml;1B;4;1;1;0;0;1;4;.281;.367;.425;.792;11;7;-0.249; 2.27;0.039;-0.288;-0.00%; 0.03; -1.5;7;0;GDP
+Salvador Perez;/players/p/perezsa02.shtml;C;4;1;1;0;0;1;4;.275;.309;.508;.817;16;10;-0.184; 2.23;0.024;-0.208;-0.00%; 0.03; -1.0;5;0;
+Bobby Witt;/players/w/wittbo02.shtml;SS;4;1;1;2;0;1;4;.237;.276;.422;.698;15;11;0.101; 1.49;0.234;-0.133; 0.00%; 0.02; 1.6;0;5;HR,CS
+MJ Melendez;/players/m/melenmj01.shtml;RF;3;0;1;1;0;0;4;.217;.297;.354;.651;19;9;-0.025; 1.39;0.050;-0.075;0%; 0.01; 0.1;4;0;SF
+Maikel Garcia;/players/g/garcima01.shtml;3B;4;0;1;0;0;0;4;.254;.321;.347;.668;16;9;-0.065; 1.05;0.036;-0.101;0%; 0.01; -0.8;0;2;GDP
+Edward Olivares;/players/o/olivaed02.shtml;DH;4;1;1;0;0;0;4;.246;.310;.439;.749;11;9;-0.117; 1.51;0.032;-0.149;-0.00%; 0.02; -0.3;;;2B
+Matt Duffy;/players/d/duffyma01.shtml;2B;2;0;1;1;0;0;2;.312;.365;.403;.767;11;7;0.054; 0.93;0.075;-0.022;0%; 0.01; 0.8;4;2;2B
+Michael Massey;/players/m/massemi02.shtml;PH-2B;1;0;0;0;1;0;2;.221;.276;.320;.597;7;2;-0.036; 2.46;0.054;-0.090;0%; 0.03; 0.0;1;1;
+Drew Waters;/players/w/waterdr01.shtml;CF;3;0;0;0;0;1;4;.182;.265;.250;.515;18;10;-0.040; 1.75;0.074;-0.114;0%; 0.02; -0.2;4;0;HBP
+Dairon Blanco;/players/b/blancda02.shtml;LF;3;0;1;0;1;1;4;.286;.375;.286;.661;18;10;0.097; 2.08;0.174;-0.077; 0.00%; 0.03; 0.6;2;0;
+Jordan Lyles;/players/l/lylesjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jackson Kowar;/players/k/kowarja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Austin Cox;/players/c/coxau01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Edward Olivares (10, off Brandon Williamson); Matt Duffy (4, off Brandon Williamson).
+
+
+HR: Bobby Witt (11, off Brandon Williamson, 3rd inn, 1 on, 1 out to Deep LF-CF).
+
+
+SF: MJ Melendez (3, off Brandon Williamson).
+
+
+HBP: Drew Waters (1, by Ian Gibaut).
+
+
+TB: Bobby Witt 4; Edward Olivares 2; Matt Duffy 2; Salvador Perez; Dairon Blanco; Maikel Garcia; Nick Pratto; MJ Melendez.
+
+
+GIDP: Maikel Garcia (3); Nick Pratto (2).
+
+
+RBI: Bobby Witt 2 (30); Matt Duffy (8); MJ Melendez (26).
+
+
+Team LOB: 5.
+With RISP: 1 for 5.
+
+Batting away
+TJ Friedl;/players/f/friedtj01.shtml;CF;3;0;2;1;1;0;4;.321;.370;.491;.861;16;8;0.089; 0.81;0.100;-0.011; 0.04%; 0.66; 1.1;2;0;SB
+Matt McLain;/players/m/mclaima01.shtml;DH;3;0;0;0;1;2;4;.322;.375;.492;.867;21;11;-0.080; 1.06;0.005;-0.084;-0.04%; 0.86; -0.7;;;
+Jonathan India;/players/i/indiajo01.shtml;2B;3;0;0;0;1;0;4;.274;.359;.417;.776;18;9;-0.078; 1.05;0.034;-0.112;-0.04%; 0.86; -1.1;4;3;GDP
+Elly De La Cruz;/players/d/delacel01.shtml;SS;3;1;0;0;1;2;4;.267;.389;.467;.856;20;10;-0.018; 1.07;0.095;-0.114;-0.01%; 0.87; -0.6;2;5;SB,GDP
+Spencer Steer;/players/s/steersp01.shtml;1B;4;0;1;1;0;1;4;.278;.359;.465;.823;20;11;-0.006; 0.80;0.046;-0.051;-0.00%; 0.65; -0.1;8;1;
+Tyler Stephenson;/players/s/stephty01.shtml;C;4;1;0;0;0;0;4;.249;.330;.354;.684;9;6;-0.080; 0.83;0.000;-0.080;-0.04%; 0.67; -0.9;5;0;
+Will Benson;/players/b/bensowi01.shtml;RF;2;1;0;0;1;0;3;.227;.301;.318;.620;11;4;0.018; 0.66;0.037;-0.019; 0.01%; 0.54; 0.2;4;0;
+TJ Hopkins;/players/h/hopkitj01.shtml;PH-RF;1;0;0;0;0;0;1;.158;.200;.158;.358;3;2;-0.013; 0.51;0.000;-0.013;-0.01%; 0.41; -0.2;0;0;
+Kevin Newman;/players/n/newmake01.shtml;3B;4;1;1;1;0;0;4;.270;.328;.374;.702;12;8;0.086; 1.07;0.144;-0.058; 0.04%; 0.87; 0.9;1;1;2B
+Stuart Fairchild;/players/f/faircst01.shtml;LF;3;1;1;1;0;0;3;.232;.326;.384;.710;7;6;0.117; 1.13;0.152;-0.035; 0.06%; 0.92; 1.8;0;0;SB
+Brandon Williamson;/players/w/willibr02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Daniel Duarte;/players/d/duartda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ian Gibaut;/players/g/gibauia01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Lucas Sims;/players/s/simslu01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Alexis Díaz;/players/d/diazal03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Kevin Newman (11, off Jordan Lyles).
+
+
+TB: Kevin Newman 2; TJ Friedl 2; Spencer Steer; Stuart Fairchild.
+
+
+GIDP: Jonathan India (7); Elly De La Cruz (2).
+
+
+RBI: TJ Friedl (22); Stuart Fairchild (21); Kevin Newman (22); Spencer Steer (36).
+
+
+Team LOB: 3.
+With RISP: 4 for 6.
+
+Pitching home
+Jordan Lyles;/players/l/lylesjo01.shtml; L (0-11); 6 ;5;5;5;3;4;0;6.89;25;94;51;28;6;17;6;12;8;0;43;;;-0.186; 1.02;-0.00%; 0.01; -1.9
+Jackson Kowar;/players/k/kowarja01.shtml;Jackson Kowar; 1 ;0;0;0;1;1;0;4.15;4;20;11;4;2;5;1;1;0;0;;0;0;0.057; 0.79; 0.00%; 0.01; 0.5
+Austin Cox;/players/c/coxau01.shtml;Austin Cox; 2 ;0;0;0;1;0;0;0.00;6;23;13;6;0;7;2;3;0;0;;0;0;0.092; 0.72; 0.00%; 0.01; 1.0
+
+Pitching away
+Brandon Williamson;/players/w/willibr02.shtml; W (1-0); 5 ;7;4;3;0;1;1;5.40;20;78;51;34;5;12;6;13;8;0;40;;;-0.081; 1.08;-0.04%; 0.88; -1.4
+Daniel Duarte;/players/d/duartda01.shtml; H (1); 1 ;0;0;0;0;0;0;0.00;3;7;4;3;0;1;1;2;0;0;;0;0;0.088; 1.16; 0.04%; 0.94; 0.5
+Ian Gibaut;/players/g/gibauia01.shtml; H (6); 0.1;0;0;0;2;0;0;3.06;4;20;10;7;3;0;0;1;1;0;;0;0;-0.199; 2.50;-0.10%; 2.03; -1.1
+Lucas Sims;/players/s/simslu01.shtml; H (8); 1.2;1;0;0;0;3;0;3.04;6;24;14;6;5;3;1;2;1;0;;3;0;0.451; 3.21; 0.22%; 2.61; 2.1
+Alexis Díaz;/players/d/diazal03.shtml; S (16); 1 ;0;0;0;0;1;0;1.65;3;13;7;4;1;2;0;2;0;0;;0;0;0.203; 2.66; 0.10%; 2.17; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Jordan Lyles (5).
+HBP: Ian Gibaut (4; Drew Waters).
+IBB: None.
+Pickoffs: Brandon Williamson (1; Bobby Witt, 3rd base (CS)).
+
+Balks: None.
+WP: Jordan Lyles (5).
+HBP: Ian Gibaut (4; Drew Waters).
+IBB: None.
+Pickoffs: Brandon Williamson (1; Bobby Witt, 3rd base (CS)).
+
+section_content
+Umpires: HP - Ben May, 1B - Jeff Nelson, 2B - Tom Hanahan, 3B - CB Bucknor, LF - (none), RF - (none).
+Time of Game: 2:30.
+Attendance: 16,931.
+Field Condition: Unknown.
+Start Time Weather: 77° F, Wind 8mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Reds
+1;TJ Friedl;/players/f/friedtj01.shtml;CF
+2;Matt McLain;/players/m/mclaima01.shtml;DH
+3;Jonathan India;/players/i/indiajo01.shtml;2B
+4;Elly De La Cruz;/players/d/delacel01.shtml;SS
+5;Spencer Steer;/players/s/steersp01.shtml;1B
+6;Tyler Stephenson;/players/s/stephty01.shtml;C
+7;Will Benson;/players/b/bensowi01.shtml;RF
+8;Kevin Newman;/players/n/newmake01.shtml;3B
+9;Stuart Fairchild;/players/f/faircst01.shtml;LF
+; Brandon Williamson;/players/w/willibr02.shtml;P
+Royals
+1;Nick Pratto;/players/p/prattni01.shtml;1B
+2;Salvador Perez;/players/p/perezsa02.shtml;C
+3;Bobby Witt;/players/w/wittbo02.shtml;SS
+4;MJ Melendez;/players/m/melenmj01.shtml;RF
+5;Maikel Garcia;/players/g/garcima01.shtml;3B
+6;Edward Olivares;/players/o/olivaed02.shtml;DH
+7;Matt Duffy;/players/d/duffyma01.shtml;2B
+8;Drew Waters;/players/w/waterdr01.shtml;CF
+9;Dairon Blanco;/players/b/blancda02.shtml;LF
+; Jordan Lyles;/players/l/lylesjo01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;2-5;1;1--;3,(1-1) 1BFX;RR;KCR;Bobby Witt;Brandon Williamson;-17%;59%;Home Run (Line Drive to Deep LF-CF); Pratto Scores
+b7;4-5;2;123;6,(3-2) SSB.*B*B>T;O;KCR;Salvador Perez;Lucas Sims;15%;75%;Strikeout Swinging
+b7;4-5;1;123;5,(2-2) .BCBSC;O;KCR;Nick Pratto;Lucas Sims;15%;59%;Strikeout Looking
+t2;1-1;1;12-;2,(1-0) BX;R;CIN;Kevin Newman;Jordan Lyles;14%;68%;Double to LF (Ground Ball); Stephenson Scores; Benson to 3B
+b7;4-5;1;12-;6,(3-2) S2FB*BBB;;KCR;Dairon Blanco;Ian Gibaut;-12%;44%;Walk; Massey to 3B; Waters to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Reds Batting, Tied 0-0, Royals' Jordan Lyles facing 1-2-3 
+t1;0-0;0;---;2,(1-0) BX;;CIN;TJ Friedl;Jordan Lyles;4%;54%;Single to RF (Line Drive to Deep RF Line)
+t1;0-0;0;1--;5,(1-2) FS1FB*S;O;CIN;Matt McLain;Jordan Lyles;-3%;50%;Strikeout Swinging
+t1;0-0;1;1--;1,(0-0) X;OO;CIN;Jonathan India;Jordan Lyles;-5%;45%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Reds 0, Royals 0.
+Bottom of the 1st, Royals Batting, Tied 0-0, Reds' Brandon Williamson facing 1-2-3 
+b1;0-0;0;---;2,(1-0) BX;O;KCR;Nick Pratto;Brandon Williamson;2%;47%;Lineout: 2B
+b1;0-0;1;---;4,(1-2) CF.BX;;KCR;Salvador Perez;Brandon Williamson;-2%;45%;Single to LF (Line Drive to Short LF)
+b1;0-0;1;1--;4,(1-2) BTCX;;KCR;Bobby Witt;Brandon Williamson;-6%;39%;Reached on E1 (throw) (Ground Ball to P's Right); Perez to 3B; Witt to 1B
+b1;0-0;1;1-3;6,(3-2) TF*BB1BX;RO;KCR;MJ Melendez;Brandon Williamson;-2%;37%;Flyball: RF/Sacrifice Fly (Deep RF); Perez Scores/unER; Witt to 2B
+b1;1-0;2;-2-;2,(0-2) SC2;O;KCR;Maikel Garcia;Brandon Williamson;3%;40%;Witt Caught Stealing (PO) 3B (P-2B-3B)
+;;;;;;;;;1 run, 1 hit, 1 error, 0 LOB. Reds 0, Royals 1.
+Top of the 2nd, Reds Batting, Behind 0-1, Royals' Jordan Lyles facing 4-5-6 
+t2;0-1;0;---;5,(3-1) BBBFB;;CIN;Elly De La Cruz;Jordan Lyles;4%;44%;Walk
+t2;0-1;0;1--;3,(0-2) CS1>B;;CIN;Spencer Steer;Jordan Lyles;6%;49%;De La Cruz Steals 2B; De La Cruz to 3B/Adv on E4
+t2;0-1;0;--3;7,(3-2) CS1>B.*BF*BX;R;CIN;Spencer Steer;Jordan Lyles;5%;54%;Single to LF (Line Drive); De La Cruz Scores
+t2;1-1;0;1--;1,(0-0) X;O;CIN;Tyler Stephenson;Jordan Lyles;-4%;50%;Groundout: 3B-2B/Forceout at 2B; Stephenson to 1B
+t2;1-1;1;1--;4,(3-0) BBBB;;CIN;Will Benson;Jordan Lyles;4%;54%;Walk; Stephenson to 2B
+t2;1-1;1;12-;2,(1-0) BX;R;CIN;Kevin Newman;Jordan Lyles;14%;68%;Double to LF (Ground Ball); Stephenson Scores; Benson to 3B
+t2;2-1;1;-23;1,(0-0) X;R;CIN;Stuart Fairchild;Jordan Lyles;7%;75%;Single to LF (Line Drive); Benson Scores; Newman to 3B
+t2;3-1;1;1-3;2,(0-1) CX;R;CIN;TJ Friedl;Jordan Lyles;5%;80%;Single to RF (Line Drive); Newman Scores; Fairchild to 2B
+t2;4-1;1;12-;3,(2-0) *BB>B;;CIN;Matt McLain;Jordan Lyles;3%;83%;Fairchild Steals 3B; Friedl Steals 2B
+t2;4-1;1;-23;5,(3-1) *BB>B.CB;;CIN;Matt McLain;Jordan Lyles;0%;84%;Walk
+t2;4-1;1;123;4,(2-1) BBCX;O;CIN;Jonathan India;Jordan Lyles;-4%;79%;Flyball: RF
+t2;4-1;2;123;1,(0-0) *B;R;CIN;Elly De La Cruz;Jordan Lyles;6%;85%;Wild Pitch; Fairchild Scores/No RBI; Friedl to 3B; McLain to 2B
+t2;5-1;2;-23;5,(2-2) *B.BSSC;O;CIN;Elly De La Cruz;Jordan Lyles;-3%;82%;Strikeout Looking
+;;;;;;;;;5 runs, 4 hits, 1 error, 2 LOB. Reds 5, Royals 1.
+Bottom of the 2nd, Royals Batting, Behind 1-5, Reds' Brandon Williamson facing 5-6-7 
+b2;1-5;0;---;6,(2-2) BCFFBX;O;KCR;Maikel Garcia;Brandon Williamson;2%;84%;Groundout: SS-1B
+b2;1-5;1;---;3,(0-2) CCX;;KCR;Edward Olivares;Brandon Williamson;-3%;81%;Double to CF (Line Drive to Deep CF)
+b2;1-5;1;-2-;3,(1-1) BFX;R;KCR;Matt Duffy;Brandon Williamson;-8%;73%;Double to CF (Fly Ball to Deep CF); Olivares Scores
+b2;2-5;1;-2-;1,(0-0) X;O;KCR;Drew Waters;Brandon Williamson;3%;77%;Lineout: 1B
+b2;2-5;2;-2-;3,(1-1) BSX;O;KCR;Dairon Blanco;Brandon Williamson;3%;80%;Lineout: RF
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Reds 5, Royals 2.
+Top of the 3rd, Reds Batting, Ahead 5-2, Royals' Jordan Lyles facing 5-6-7 
+t3;5-2;0;---;3,(2-0) BBX;O;CIN;Spencer Steer;Jordan Lyles;-1%;78%;Lineout: LF (Deep LF)
+t3;5-2;1;---;5,(2-2) CBCBX;O;CIN;Tyler Stephenson;Jordan Lyles;-1%;77%;Groundout: SS-1B
+t3;5-2;2;---;2,(0-1) CX;O;CIN;Will Benson;Jordan Lyles;-1%;77%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 5, Royals 2.
+Bottom of the 3rd, Royals Batting, Behind 2-5, Reds' Brandon Williamson facing 1-2-3 
+b3;2-5;0;---;3,(1-1) CBX;;KCR;Nick Pratto;Brandon Williamson;-4%;73%;Single to LF (Fly Ball to Short LF)
+b3;2-5;0;1--;4,(2-1) F*BBX;O;KCR;Salvador Perez;Brandon Williamson;4%;76%;Flyball: CF
+b3;2-5;1;1--;3,(1-1) 1BFX;RR;KCR;Bobby Witt;Brandon Williamson;-17%;59%;Home Run (Line Drive to Deep LF-CF); Pratto Scores
+b3;4-5;1;---;6,(2-2) BSSFBX;;KCR;MJ Melendez;Brandon Williamson;-3%;56%;Single to RF (Line Drive to Deep CF-RF)
+b3;4-5;1;1--;4,(2-1) BBCX;OO;KCR;Maikel Garcia;Brandon Williamson;6%;62%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 0 LOB. Reds 5, Royals 4.
+Top of the 4th, Reds Batting, Ahead 5-4, Royals' Jordan Lyles facing 8-9-1 
+t4;5-4;0;---;2,(0-1) CX;O;CIN;Kevin Newman;Jordan Lyles;-2%;60%;Lineout: CF (Deep CF)
+t4;5-4;1;---;4,(1-2) CFBX;O;CIN;Stuart Fairchild;Jordan Lyles;-2%;58%;Flyball: CF
+t4;5-4;2;---;6,(3-2) BBCBCX;O;CIN;TJ Friedl;Jordan Lyles;-1%;57%;Lineout: 2B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 5, Royals 4.
+Bottom of the 4th, Royals Batting, Behind 4-5, Reds' Brandon Williamson facing 6-7-8 
+b4;4-5;0;---;3,(2-0) BBX;O;KCR;Edward Olivares;Brandon Williamson;3%;60%;Lineout: RF (Deep CF-RF)
+b4;4-5;1;---;8,(3-2) FBS.BFBFX;O;KCR;Matt Duffy;Brandon Williamson;2%;62%;Groundout: SS-1B
+b4;4-5;2;---;6,(3-2) BBBCFC;O;KCR;Drew Waters;Brandon Williamson;1%;64%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 5, Royals 4.
+Top of the 5th, Reds Batting, Ahead 5-4, Royals' Jordan Lyles facing 2-3-4 
+t5;5-4;0;---;4,(2-1) CBBX;O;CIN;Matt McLain;Jordan Lyles;-2%;61%;Groundout: 2B-1B
+t5;5-4;1;---;7,(3-2) CFBB.FBX;O;CIN;Jonathan India;Jordan Lyles;-2%;60%;Groundout: SS-1B
+t5;5-4;2;---;6,(3-2) CFBBBC;O;CIN;Elly De La Cruz;Jordan Lyles;-1%;59%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 5, Royals 4.
+Bottom of the 5th, Royals Batting, Behind 4-5, Reds' Brandon Williamson facing 9-1-2 
+b5;4-5;0;---;4,(1-2) CFBX;;KCR;Dairon Blanco;Brandon Williamson;-5%;53%;Single to 2B (Pop Fly to Deep 2B-1B)
+b5;4-5;0;1--;1,(0-0) X;OO;KCR;Nick Pratto;Brandon Williamson;11%;64%;Ground Ball Double Play: 2B-SS-1B
+b5;4-5;2;---;2,(0-1) CX;O;KCR;Salvador Perez;Brandon Williamson;2%;66%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Reds 5, Royals 4.
+Top of the 6th, Reds Batting, Ahead 5-4, Royals' Jordan Lyles facing 5-6-7 
+t6;5-4;0;---;5,(2-2) BCBFS;O;CIN;Spencer Steer;Jordan Lyles;-3%;64%;Strikeout Swinging
+t6;5-4;1;---;1,(0-0) X;O;CIN;Tyler Stephenson;Jordan Lyles;-2%;62%;Popfly: 2B (Deep 2B)
+t6;5-4;2;---;5,(3-1) BFBBX;O;CIN;Will Benson;Jordan Lyles;-1%;60%;Lineout: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 5, Royals 4.
+Bottom of the 6th, Royals Batting, Behind 4-5, Reds' Daniel Duarte facing 3-4-5 
+;;;;;;;;;Daniel Duarte replaces Brandon Williamson pitching
+b6;4-5;0;---;2,(0-1) .CX;O;KCR;Bobby Witt;Daniel Duarte;4%;65%;Foul Popfly: 1B
+b6;4-5;1;---;3,(2-0) BBX;O;KCR;MJ Melendez;Daniel Duarte;3%;67%;Popfly: 2B
+b6;4-5;2;---;2,(1-0) BX;O;KCR;Maikel Garcia;Daniel Duarte;2%;69%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 5, Royals 4.
+Top of the 7th, Reds Batting, Ahead 5-4, Royals' Jackson Kowar facing 8-9-1 
+;;;;;;;;;Jackson Kowar replaces Jordan Lyles pitching
+t7;5-4;0;---;5,(2-2) .CBBC.X;O;CIN;Kevin Newman;Jackson Kowar;-3%;67%;Flyball: RF
+t7;5-4;1;---;2,(0-1) SX;O;CIN;Stuart Fairchild;Jackson Kowar;-2%;65%;Groundout: SS-1B
+t7;5-4;2;---;6,(3-2) BFC.BBB;;CIN;TJ Friedl;Jackson Kowar;1%;66%;Walk
+t7;5-4;2;1--;7,(3-2) BCS.B1FB>C;O;CIN;Matt McLain;Jackson Kowar;-3%;64%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Reds 5, Royals 4.
+Bottom of the 7th, Royals Batting, Behind 4-5, Reds' Ian Gibaut facing 6-7-8 
+;;;;;;;;;Ian Gibaut replaces Daniel Duarte pitching
+b7;4-5;0;---;4,(0-2) .SFFX;O;KCR;Edward Olivares;Ian Gibaut;5%;69%;Lineout: RF (CF-RF)
+;;;;;;;;;Michael Massey pinch hits for Matt Duffy (2B) batting 7th
+b7;4-5;1;---;4,(3-0) .BBBB;;KCR;Michael Massey;Ian Gibaut;-5%;63%;Walk
+b7;4-5;1;1--;6,(1-2) 1BSF>FFH;;KCR;Drew Waters;Ian Gibaut;-7%;56%;Hit By Pitch; Massey to 2B
+b7;4-5;1;12-;6,(3-2) S2FB*BBB;;KCR;Dairon Blanco;Ian Gibaut;-12%;44%;Walk; Massey to 3B; Waters to 2B
+;;;;;;;;;Lucas Sims replaces Ian Gibaut pitching
+b7;4-5;1;123;5,(2-2) .BCBSC;O;KCR;Nick Pratto;Lucas Sims;15%;59%;Strikeout Looking
+b7;4-5;2;123;6,(3-2) SSB.*B*B>T;O;KCR;Salvador Perez;Lucas Sims;15%;75%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 3 LOB. Reds 5, Royals 4.
+Top of the 8th, Reds Batting, Ahead 5-4, Royals' Austin Cox facing 3-4-5 
+;;;;;;;;;Austin Cox replaces Jackson Kowar pitchingMichael Massey moves from PH to 2B 
+t8;5-4;0;---;6,(3-2) ..CBBFBB;;CIN;Jonathan India;Austin Cox;3%;78%;Walk
+t8;5-4;0;1--;4,(1-2) CCBX;OO;CIN;Elly De La Cruz;Austin Cox;-7%;71%;Ground Ball Double Play: SS-2B-1B (Deep SS)
+t8;5-4;2;---;5,(2-2) CC.BBX;O;CIN;Spencer Steer;Austin Cox;-1%;69%;Flyball: LF (Short 3B Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 5, Royals 4.
+Bottom of the 8th, Royals Batting, Behind 4-5, Reds' Lucas Sims facing 3-4-5 
+b8;4-5;0;---;6,(2-2) BFS.BFS;O;KCR;Bobby Witt;Lucas Sims;6%;76%;Strikeout Swinging
+b8;4-5;1;---;4,(3-0) BBBX;O;KCR;MJ Melendez;Lucas Sims;5%;80%;Groundout: 1B-P
+b8;4-5;2;---;2,(0-1) CX;;KCR;Maikel Garcia;Lucas Sims;-4%;77%;Single to CF (Line Drive)
+b8;4-5;2;1--;1,(0-0) 1>X;O;KCR;Edward Olivares;Lucas Sims;7%;84%;Popfly: SS (Deep 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Reds 5, Royals 4.
+Top of the 9th, Reds Batting, Ahead 5-4, Royals' Austin Cox facing 6-7-8 
+t9;5-4;0;---;2,(1-0) BX;O;CIN;Tyler Stephenson;Austin Cox;-2%;82%;Flyball: RF (Deep RF)
+;;;;;;;;;TJ Hopkins pinch hits for Will Benson (RF) batting 7th
+t9;5-4;1;---;3,(1-1) .CBX;O;CIN;TJ Hopkins;Austin Cox;-1%;81%;Flyball: RF (Deep RF)
+t9;5-4;2;---;3,(1-1) CBX;O;CIN;Kevin Newman;Austin Cox;-1%;80%;Groundout: SS-1B (Weak SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 5, Royals 4.
+Bottom of the 9th, Royals Batting, Behind 4-5, Reds' Alexis Díaz facing 7-8-9 
+;;;;;;;;;Alexis Díaz replaces Lucas Sims pitchingTJ Hopkins moves from PH to RF 
+b9;4-5;0;---;3,(1-1) ..CBX;O;KCR;Michael Massey;Alexis Díaz;9%;89%;Popfly: 2B (Deep 2B)
+b9;4-5;1;---;5,(3-1) CBBBX;O;KCR;Drew Waters;Alexis Díaz;7%;95%;Flyball: CF (Deep CF)
+b9;4-5;2;---;5,(2-2) FBFBS;O;KCR;Dairon Blanco;Alexis Díaz;5%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 5, Royals 4.

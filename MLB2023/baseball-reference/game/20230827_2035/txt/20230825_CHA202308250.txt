@@ -1,0 +1,275 @@
+
+Scorebox Meta
+20230825
+6:10 p.m. Local
+21906
+Guaranteed Rate Field
+168
+
+Boxscore
+https://cdn.ssref.net/req/202308251/tlogo/br/OAK-2023.png;/teams/OAK/2023.shtml;0;5;0;1;3;1;2;0;0;12;15;1
+https://cdn.ssref.net/req/202308251/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;0;2;1;0;1;0;0;0;0;4;6;3
+
+Batting home
+Tim Anderson;/players/a/anderti01.shtml;SS;5;0;2;0;0;2;5;.244;.289;.294;.582;22;14;0.067; 0.55;0.095;-0.028;0%; 0.00; 0.2;3;1;2B
+Andrew Benintendi;/players/b/beninan01.shtml;LF;3;1;0;0;1;0;4;.275;.340;.368;.708;21;12;-0.004; 0.81;0.042;-0.045;0%; 0.00; -0.5;0;0;
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;3;0;0;0;1;2;4;.263;.320;.550;.870;18;11;-0.080; 1.07;0.035;-0.115;0%; 0.00; -1.1;4;0;CS
+Eloy Jiménez;/players/j/jimenel02.shtml;DH;4;1;1;1;0;0;4;.274;.316;.450;.766;11;5;-0.064; 1.05;0.023;-0.087;0%; 0.00; -0.2;;;HR
+Yoán Moncada;/players/m/moncayo01.shtml;3B;4;0;1;1;0;1;4;.232;.274;.350;.624;14;9;0.089; 0.62;0.110;-0.021;0%; 0.00; 0.6;1;2;2B
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;4;0;0;0;0;0;4;.254;.317;.425;.742;14;12;-0.061; 0.76;0.017;-0.078;0%; 0.00; -0.7;5;0;
+Oscar Colás;/players/c/colasos01.shtml;RF;4;1;1;0;0;0;4;.228;.269;.312;.580;17;10;-0.049; 0.49;0.001;-0.050;0%; 0.00; -0.3;1;0;
+Lenyn Sosa;/players/s/sosale01.shtml;2B;4;1;1;2;0;2;4;.161;.170;.290;.461;13;11;0.087; 0.32;0.107;-0.021;0%; 0.00; 1.2;4;1;HR
+Korey Lee;/players/l/leeko01.shtml;C;2;0;0;0;2;0;4;.167;.375;.167;.542;27;15;0.007; 0.22;0.017;-0.010;0%; 0.00; 0.1;8;0;
+Dylan Cease;/players/c/ceasedy01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tanner Banks;/players/b/banksta01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Bryan Shaw;/players/s/shawbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Tim Anderson (14, off Zach Neal); Yoán Moncada (14, off Zach Neal).
+
+
+HR: Lenyn Sosa (3, off Zach Neal, 2nd inn, 1 on, 2 outs to Deep RF); Eloy Jiménez (15, off Zach Neal, 5th inn, 0 on, 2 outs to Deep LF).
+
+
+TB: Eloy Jiménez 4; Lenyn Sosa 4; Tim Anderson 3; Yoán Moncada 2; Oscar Colás.
+
+
+RBI: Lenyn Sosa 2 (10); Yoán Moncada (23); Eloy Jiménez (52).
+
+
+2-out RBI: Lenyn Sosa 2; Yoán Moncada; Eloy Jiménez.
+
+
+Team LOB: 6.
+With RISP: 1 for 5.
+
+Batting away
+Ryan Noda;/players/n/nodary01.shtml;1B;5;2;3;3;1;0;6;.238;.385;.428;.813;15;10;0.153; 0.61;0.175;-0.023;0%; 0.00; 3.5;10;0;HR
+Zack Gelof;/players/g/gelofza01.shtml;2B;6;0;1;1;0;1;6;.289;.353;.599;.951;23;13;0.007; 0.36;0.058;-0.051;0%; 0.00; -0.4;1;0;2B
+Seth Brown;/players/b/brownse01.shtml;RF;3;1;0;0;0;1;4;.215;.281;.395;.676;16;9;-0.044; 0.55;0.006;-0.050;0%; 0.00; -0.6;2;0;HBP
+Esteury Ruiz;/players/r/ruizes01.shtml;PH-RF;1;0;0;0;0;0;1;.243;.298;.319;.617;1;1;0.000; 0.01;0.000;0.000;0%; 0.00; -0.1;1;0;
+Brent Rooker;/players/r/rookebr01.shtml;DH;4;1;2;0;1;2;5;.248;.331;.477;.808;20;13;0.007; 0.54;0.047;-0.040;0%; 0.00; 0.7;;;
+Tony Kemp;/players/k/kempto01.shtml;LF;3;2;3;0;1;0;5;.225;.315;.328;.643;15;9;0.130; 0.62;0.130;0.000;0%; 0.00; 3.2;2;0;HBP
+Shea Langeliers;/players/l/langesh01.shtml;C;4;1;0;0;1;1;5;.205;.271;.386;.657;19;9;-0.024; 0.62;0.029;-0.053;0%; 0.00; -1.4;7;2;SB,GDP
+Lawrence Butler;/players/b/butlela01.shtml;CF;5;1;1;1;0;2;5;.239;.255;.348;.603;16;9;0.022; 0.70;0.069;-0.047;0%; 0.00; -1.7;1;0;GDP
+Jonah Bride;/players/b/bridejo01.shtml;3B;4;2;1;0;1;1;5;.165;.284;.203;.487;20;10;0.009; 0.67;0.051;-0.043;0%; 0.00; -0.2;2;1;2B
+Nick Allen;/players/a/allenni02.shtml;SS;5;2;4;5;0;0;5;.209;.257;.284;.540;14;10;0.231; 0.76;0.231;0.000;0%; 0.00; 4.1;1;7;HR
+Zach Neal;/players/n/nealza01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Sean Newcomb;/players/n/newcose01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Francisco Pérez;/players/p/perezfr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Zack Gelof (12, off Dylan Cease); Jonah Bride (3, off Dylan Cease).
+
+
+HR: Nick Allen (4, off Tanner Banks, 7th inn, 0 on, 1 out to Deep LF); Ryan Noda (12, off Tanner Banks, 7th inn, 0 on, 1 out to Deep RF).
+
+
+HBP: Seth Brown (2, by Tanner Banks); Tony Kemp (6, by Bryan Shaw).
+
+
+TB: Nick Allen 7; Ryan Noda 6; Tony Kemp 3; Jonah Bride 2; Brent Rooker 2; Zack Gelof 2; Lawrence Butler.
+
+
+GIDP: Lawrence Butler (2); Shea Langeliers (10).
+
+
+RBI: Nick Allen 5 (16); Ryan Noda 3 (41); Zack Gelof (20); Lawrence Butler (3).
+
+
+2-out RBI: Ryan Noda 2; Nick Allen; Zack Gelof.
+
+
+Team LOB: 8.
+With RISP: 6 for 19.
+
+Pitching home
+Dylan Cease;/players/c/ceasedy01.shtml; L (5-7); 4.1;9;9;8;5;6;0;4.81;27;96;52;24;12;16;5;11;5;0;12;;;-0.454; 0.96; 0.00%; 0.00; -6.3
+Tanner Banks;/players/b/banksta01.shtml;Tanner Banks; 2.2;4;3;3;0;1;2;5.52;12;36;25;15;5;5;4;6;4;0;;2;1;-0.038; 0.16; 0.00%; 0.00; -2.0
+Bryan Shaw;/players/s/shawbr01.shtml;Bryan Shaw; 2 ;2;0;0;0;1;0;5.18;8;27;16;10;4;2;2;4;2;0;;0;0;0.001; 0.01; 0.00%; 0.00; 1.1
+
+Pitching away
+Zach Neal;/players/n/nealza01.shtml; W (1-0); 5 ;5;4;2;3;2;2;6.88;23;87;53;33;8;12;7;11;7;0;44;;;-0.013; 1.00; 0.00%; 0.00; -1.4
+Sean Newcomb;/players/n/newcose01.shtml;Sean Newcomb; 2 ;0;0;0;1;3;0;0.00;7;42;28;16;7;5;1;2;1;0;;0;0;0.020; 0.14; 0.00%; 0.00; 1.1
+Francisco Pérez;/players/p/perezfr01.shtml;Francisco Pérez; 2 ;1;0;0;0;2;0;6.48;7;28;18;10;3;5;3;2;0;0;;0;0;0.003; 0.02; 0.00%; 0.00; 1.1
+
+indiv_events
+
+Balks: None.
+WP: Dylan Cease (7).
+HBP: Bryan Shaw (4; Tony Kemp); Tanner Banks (4; Seth Brown).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Dylan Cease (7).
+HBP: Bryan Shaw (4; Tony Kemp); Tanner Banks (4; Seth Brown).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Larry Vanover, 1B - Nate Tomlinson, 2B - David Rackley, 3B - Ben May, LF - (none), RF - (none).
+Time of Game: 2:48.
+Attendance: 21,906.
+Field Condition: Unknown.
+Start Time Weather: 77° F, Wind 3mph in from Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Athletics
+1;Ryan Noda;/players/n/nodary01.shtml;1B
+2;Zack Gelof;/players/g/gelofza01.shtml;2B
+3;Seth Brown;/players/b/brownse01.shtml;RF
+4;Brent Rooker;/players/r/rookebr01.shtml;DH
+5;Tony Kemp;/players/k/kempto01.shtml;LF
+6;Shea Langeliers;/players/l/langesh01.shtml;C
+7;Lawrence Butler;/players/b/butlela01.shtml;CF
+8;Jonah Bride;/players/b/bridejo01.shtml;3B
+9;Nick Allen;/players/a/allenni02.shtml;SS
+; Zach Neal;/players/n/nealza01.shtml;P
+White Sox
+1;Tim Anderson;/players/a/anderti01.shtml;SS
+2;Andrew Benintendi;/players/b/beninan01.shtml;LF
+3;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+4;Eloy Jiménez;/players/j/jimenel02.shtml;DH
+5;Yoán Moncada;/players/m/moncayo01.shtml;3B
+6;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+7;Oscar Colás;/players/c/colasos01.shtml;RF
+8;Lenyn Sosa;/players/s/sosale01.shtml;2B
+9;Korey Lee;/players/l/leeko01.shtml;C
+; Dylan Cease;/players/c/ceasedy01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;2-0;2;-23;2,(0-1) CX;RR;OAK;Ryan Noda;Dylan Cease;12%;83%;Single to CF (Ground Ball thru SS-2B); Butler Scores; Allen Scores
+b3;2-5;2;12-;1,(0-0) X;R;CHW;Yoán Moncada;Zach Neal;-11%;66%;Double to RF (Line Drive to Deep RF Line); Benintendi Scores; Robert to 3B
+b2;0-5;2;1--;3,(1-1) BFX;RR;CHW;Lenyn Sosa;Zach Neal;-11%;78%;Home Run (Fly Ball to Deep RF); Colás Scores/unER; Sosa Scores/unER
+t2;1-0;2;12-;2,(0-1) CX;R;OAK;Nick Allen;Dylan Cease;11%;70%;Single to LF (Line Drive to LF-CF); Kemp Scores; Butler to 3B; Allen to 2B/Adv on E7
+b3;3-5;2;-23;3,(0-2) SSX;O;CHW;Andrew Vaughn;Zach Neal;7%;73%;Groundout: SS-1B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Athletics Batting, Tied 0-0, White Sox' Dylan Cease facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;OAK;Ryan Noda;Dylan Cease;-2%;48%;Flyball: CF (Deep CF)
+t1;0-0;1;---;6,(3-2) CBBFBS;O;OAK;Zack Gelof;Dylan Cease;-2%;46%;Strikeout Swinging
+t1;0-0;2;---;2,(1-0) BX;O;OAK;Seth Brown;Dylan Cease;-1%;45%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, White Sox 0.
+Bottom of the 1st, White Sox Batting, Tied 0-0, Athletics' Zach Neal facing 1-2-3 
+b1;0-0;0;---;3,(1-1) FBX;;CHW;Tim Anderson;Zach Neal;-3%;42%;Single to RF (Line Drive to CF-RF)
+b1;0-0;0;1--;2,(0-1) CX;O;CHW;Andrew Benintendi;Zach Neal;3%;45%;Popfly: 3B
+b1;0-0;1;1--;4,(3-0) BBBB;;CHW;Luis Robert Jr.;Zach Neal;-3%;41%;Walk; Anderson to 2B
+b1;0-0;1;12-;2,(1-0) BX;O;CHW;Eloy Jiménez;Zach Neal;4%;45%;Lineout: RF (Deep RF); Anderson to 3B
+b1;0-0;2;1-3;1,(0-0) >B;O;CHW;Yoán Moncada;Zach Neal;5%;50%;Robert Caught Stealing 2B (C-SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 0, White Sox 0.
+Top of the 2nd, Athletics Batting, Tied 0-0, White Sox' Dylan Cease facing 4-5-6 
+t2;0-0;0;---;5,(3-1) BBSBB;;OAK;Brent Rooker;Dylan Cease;4%;54%;Walk
+t2;0-0;0;1--;2,(0-1) CX;;OAK;Tony Kemp;Dylan Cease;6%;59%;Single to CF (Line Drive to Deep CF); Rooker to 2B
+t2;0-0;0;12-;3,(2-0) *BBX;O;OAK;Shea Langeliers;Dylan Cease;-3%;57%;Flyball: CF (Deep CF); Rooker to 3B
+t2;0-0;1;1-3;2,(1-0) *B1X;R;OAK;Lawrence Butler;Dylan Cease;7%;64%;Single to CF (Line Drive to LF-CF); Rooker Scores; Kemp to 2B
+t2;1-0;1;12-;3,(1-1) CBX;O;OAK;Jonah Bride;Dylan Cease;-4%;60%;Lineout: CF (Deep CF)
+t2;1-0;2;12-;2,(0-1) CX;R;OAK;Nick Allen;Dylan Cease;11%;70%;Single to LF (Line Drive to LF-CF); Kemp Scores; Butler to 3B; Allen to 2B/Adv on E7
+t2;2-0;2;-23;2,(0-1) CX;RR;OAK;Ryan Noda;Dylan Cease;12%;83%;Single to CF (Ground Ball thru SS-2B); Butler Scores; Allen Scores
+t2;4-0;2;1--;1,(0-0) X;R;OAK;Zack Gelof;Dylan Cease;6%;88%;Double to LF (Ground Ball); Noda Scores; Gelof to 3B/Adv on E7 (throw)
+t2;5-0;2;--3;4,(1-2) C*BFX;O;OAK;Seth Brown;Dylan Cease;-1%;87%;Popfly: 2B (Deep 2B)
+;;;;;;;;;5 runs, 5 hits, 2 errors, 1 LOB. Athletics 5, White Sox 0.
+Bottom of the 2nd, White Sox Batting, Behind 0-5, Athletics' Zach Neal facing 5-6-7 
+b2;0-5;0;---;6,(3-2) BBCFBX;O;CHW;Yoán Moncada;Zach Neal;2%;89%;Flyball: LF (Deep LF)
+b2;0-5;1;---;4,(0-2) CC.FX;;CHW;Andrew Vaughn;Zach Neal;-2%;87%;Reached on E4 (Ground Ball to Weak SS-2B); Vaughn to 1B
+b2;0-5;1;1--;4,(1-2) BCSX;O;CHW;Oscar Colás;Zach Neal;2%;89%;Groundout: SS-2B/Forceout at 2B; Colás to 1B
+b2;0-5;2;1--;3,(1-1) BFX;RR;CHW;Lenyn Sosa;Zach Neal;-11%;78%;Home Run (Fly Ball to Deep RF); Colás Scores/unER; Sosa Scores/unER
+b2;2-5;2;---;6,(2-2) BFCBFX;O;CHW;Korey Lee;Zach Neal;1%;79%;Groundout: SS-1B
+;;;;;;;;;2 runs, 1 hit, 1 error, 0 LOB. Athletics 5, White Sox 2.
+Top of the 3rd, Athletics Batting, Ahead 5-2, White Sox' Dylan Cease facing 4-5-6 
+t3;5-2;0;---;5,(2-2) CSBB*S;O;OAK;Brent Rooker;Dylan Cease;-1%;78%;Strikeout Swinging
+t3;5-2;1;---;2,(0-1) CX;;OAK;Tony Kemp;Dylan Cease;2%;79%;Single to RF (Fly Ball to Short RF)
+t3;5-2;1;1--;4,(1-2) FF1BC;O;OAK;Shea Langeliers;Dylan Cease;-2%;77%;Strikeout Looking
+t3;5-2;2;1--;3,(2-0) 1B*BX;O;OAK;Lawrence Butler;Dylan Cease;-1%;76%;Flyball: 2B (Short RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 5, White Sox 2.
+Bottom of the 3rd, White Sox Batting, Behind 2-5, Athletics' Zach Neal facing 1-2-3 
+b3;2-5;0;---;1,(0-0) X;;CHW;Tim Anderson;Zach Neal;-6%;70%;Double to LF (Line Drive to Deep LF Line)
+b3;2-5;0;-2-;6,(3-2) BSBBFB;;CHW;Andrew Benintendi;Zach Neal;-4%;66%;Walk
+b3;2-5;0;12-;2,(0-1) CX;O;CHW;Luis Robert Jr.;Zach Neal;6%;72%;Groundout: 3B unassisted/Forceout at 3B (Weak 3B); Benintendi to 2B; Robert to 1B
+b3;2-5;1;12-;5,(3-1) BBCBX;O;CHW;Eloy Jiménez;Zach Neal;5%;77%;Popfly: 1B (2B-1B)
+b3;2-5;2;12-;1,(0-0) X;R;CHW;Yoán Moncada;Zach Neal;-11%;66%;Double to RF (Line Drive to Deep RF Line); Benintendi Scores; Robert to 3B
+b3;3-5;2;-23;3,(0-2) SSX;O;CHW;Andrew Vaughn;Zach Neal;7%;73%;Groundout: SS-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Athletics 5, White Sox 3.
+Top of the 4th, Athletics Batting, Ahead 5-3, White Sox' Dylan Cease facing 8-9-1 
+t4;5-3;0;---;2,(1-0) BX;;OAK;Jonah Bride;Dylan Cease;5%;78%;Double to LF (Line Drive to Deep LF)
+t4;5-3;0;-2-;5,(2-2) SL*B*BX;R;OAK;Nick Allen;Dylan Cease;6%;83%;Single to RF (Ground Ball); Bride Scores
+t4;6-3;0;1--;5,(3-1) BF1BB>B;;OAK;Ryan Noda;Dylan Cease;3%;86%;Walk; Allen to 2B
+t4;6-3;0;12-;4,(2-1) S*B*BX;O;OAK;Zack Gelof;Dylan Cease;-3%;83%;Popfly: 2B (Deep SS-2B)
+t4;6-3;1;12-;5,(2-2) SFBBS;O;OAK;Seth Brown;Dylan Cease;-3%;81%;Strikeout Swinging
+t4;6-3;2;12-;3,(0-2) SCS;O;OAK;Brent Rooker;Dylan Cease;-3%;78%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Athletics 6, White Sox 3.
+Bottom of the 4th, White Sox Batting, Behind 3-6, Athletics' Zach Neal facing 7-8-9 
+b4;3-6;0;---;2,(1-0) BX;O;CHW;Oscar Colás;Zach Neal;3%;81%;Groundout: 1B unassisted
+b4;3-6;1;---;3,(0-2) CFX;O;CHW;Lenyn Sosa;Zach Neal;2%;82%;Lineout: P-SS-1B (Weak SS-2B)
+b4;3-6;2;---;6,(3-2) SBBF.BB;;CHW;Korey Lee;Zach Neal;-1%;81%;Walk
+b4;3-6;2;1--;7,(3-2) BFBFB>F>X;O;CHW;Tim Anderson;Zach Neal;2%;83%;Lineout: LF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Athletics 6, White Sox 3.
+Top of the 5th, Athletics Batting, Ahead 6-3, White Sox' Dylan Cease facing 5-6-7 
+t5;6-3;0;---;6,(3-2) CSBBB.B;;OAK;Tony Kemp;Dylan Cease;2%;85%;Walk
+t5;6-3;0;1--;5,(3-1) BBBCB;;OAK;Shea Langeliers;Dylan Cease;3%;88%;Walk; Kemp to 2B
+t5;6-3;0;12-;5,(2-2) S*BC.*BC;O;OAK;Lawrence Butler;Dylan Cease;-3%;85%;Strikeout Looking
+t5;6-3;1;12-;4,(2-1) CBBB;;OAK;Jonah Bride;Dylan Cease;3%;88%;Wild Pitch; Kemp to 3B; Langeliers to 2B
+t5;6-3;1;-23;5,(3-1) CBBB.B;;OAK;Jonah Bride;Dylan Cease;0%;88%;Walk
+t5;6-3;1;123;4,(1-2) CBFX;RR;OAK;Nick Allen;Dylan Cease;6%;94%;Single to LF (Ground Ball); Kemp Scores; Langeliers Scores; Bride to 2B
+;;;;;;;;;Tanner Banks replaces Dylan Cease pitching
+t5;8-3;1;12-;1,(0-0) .X;RO;OAK;Ryan Noda;Tanner Banks;2%;96%;Groundout: SS unassisted/Forceout at 2B (SS-2B); Bride Scores/Adv on E6 (throw)/No RBI/unER; Noda to 2B
+t5;9-3;2;-2-;2,(1-0) BX;O;OAK;Zack Gelof;Tanner Banks;-1%;95%;Lineout: P (Weak SS-2B)
+;;;;;;;;;3 runs, 1 hit, 1 error, 1 LOB. Athletics 9, White Sox 3.
+Bottom of the 5th, White Sox Batting, Behind 3-9, Athletics' Zach Neal facing 2-3-4 
+b5;3-9;0;---;5,(2-2) CBFBX;O;CHW;Andrew Benintendi;Zach Neal;1%;96%;Groundout: SS-1B (Weak SS-2B)
+b5;3-9;1;---;5,(1-2) CSBFS;O;CHW;Luis Robert Jr.;Zach Neal;1%;97%;Strikeout Swinging
+b5;3-9;2;---;2,(1-0) BX;R;CHW;Eloy Jiménez;Zach Neal;-2%;95%;Home Run (Line Drive to Deep LF)
+b5;4-9;2;---;4,(1-2) BCFS;O;CHW;Yoán Moncada;Zach Neal;1%;95%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Athletics 9, White Sox 4.
+Top of the 6th, Athletics Batting, Ahead 9-4, White Sox' Tanner Banks facing 3-4-5 
+t6;9-4;0;---;5,(2-2) FS.BBH;;OAK;Seth Brown;Tanner Banks;1%;96%;Hit By Pitch
+t6;9-4;0;1--;4,(1-2) F1SBX;;OAK;Brent Rooker;Tanner Banks;1%;97%;Single to CF (Line Drive to Short CF); Brown to 2B
+t6;9-4;0;12-;4,(1-2) CCBX;;OAK;Tony Kemp;Tanner Banks;1%;98%;Single to RF (Line Drive); Brown to 3B; Rooker to 2B
+t6;9-4;0;123;3,(1-1) CBX;ROO;OAK;Shea Langeliers;Tanner Banks;-1%;97%;Ground Ball Double Play: 3B-2B (Weak 3B); Brown Scores/No RBI; Langeliers to 1B
+t6;10-4;2;1--;3,(1-1) SB>B;;OAK;Lawrence Butler;Tanner Banks;0%;97%;Langeliers Steals 2B
+t6;10-4;2;-2-;5,(2-2) SB>B.FS;O;OAK;Lawrence Butler;Tanner Banks;0%;97%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Athletics 10, White Sox 4.
+Bottom of the 6th, White Sox Batting, Behind 4-10, Athletics' Sean Newcomb facing 6-7-8 
+;;;;;;;;;Sean Newcomb replaces Zach Neal pitching
+b6;4-10;0;---;1,(0-0) .X;O;CHW;Andrew Vaughn;Sean Newcomb;1%;97%;Lineout: RF
+b6;4-10;1;---;5,(2-2) BSCBX;O;CHW;Oscar Colás;Sean Newcomb;1%;98%;Groundout: 3B-1B (Weak SS)
+b6;4-10;2;---;4,(1-2) CBC*S;O;CHW;Lenyn Sosa;Sean Newcomb;0%;98%;Strikeout Swinging; Sosa out at 1B/C-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 10, White Sox 4.
+Top of the 7th, Athletics Batting, Ahead 10-4, White Sox' Tanner Banks facing 8-9-1 
+t7;10-4;0;---;3,(1-1) CBX;O;OAK;Jonah Bride;Tanner Banks;0%;98%;Lineout: SS (Deep SS)
+t7;10-4;1;---;1,(0-0) X;R;OAK;Nick Allen;Tanner Banks;1%;99%;Home Run (Fly Ball to Deep LF)
+t7;11-4;1;---;2,(0-1) CX;R;OAK;Ryan Noda;Tanner Banks;0%;99%;Home Run (Fly Ball to Deep RF)
+t7;12-4;1;---;5,(1-2) BFS.FX;O;OAK;Zack Gelof;Tanner Banks;0%;99%;Groundout: P-1B (Front of Home)
+;;;;;;;;;Esteury Ruiz pinch hits for Seth Brown (RF) batting 3rd
+t7;12-4;2;---;1,(0-0) .X;O;OAK;Esteury Ruiz;Tanner Banks;0%;99%;Groundout: 3B-1B
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Athletics 12, White Sox 4.
+Bottom of the 7th, White Sox Batting, Behind 4-12, Athletics' Sean Newcomb facing 9-1-2 
+;;;;;;;;;Esteury Ruiz moves from PH to RF 
+b7;4-12;0;---;12,(3-2) .SS.BBFFBFFFFB;;CHW;Korey Lee;Sean Newcomb;0%;99%;Walk
+b7;4-12;0;1--;5,(2-2) BSBFS;O;CHW;Tim Anderson;Sean Newcomb;0%;99%;Strikeout Swinging
+b7;4-12;1;1--;8,(3-2) CC*BBBFFX;O;CHW;Andrew Benintendi;Sean Newcomb;0%;100%;Flyball: CF (Deep LF-CF)
+b7;4-12;2;1--;7,(2-2) BFFFFBS;O;CHW;Luis Robert Jr.;Sean Newcomb;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Athletics 12, White Sox 4.
+Top of the 8th, Athletics Batting, Ahead 12-4, White Sox' Bryan Shaw facing 4-5-6 
+;;;;;;;;;Bryan Shaw replaces Tanner Banks pitching
+t8;12-4;0;---;3,(0-2) .CSX;;OAK;Brent Rooker;Bryan Shaw;0%;100%;Single to CF (Line Drive to Deep CF)
+t8;12-4;0;1--;1,(0-0) H;;OAK;Tony Kemp;Bryan Shaw;0%;100%;Hit By Pitch; Rooker to 2B
+t8;12-4;0;12-;4,(2-1) BBSX;O;OAK;Shea Langeliers;Bryan Shaw;0%;100%;Flyball: CF (Deep CF-RF); Rooker to 3B
+t8;12-4;1;1-3;1,(0-0) X;OO;OAK;Lawrence Butler;Bryan Shaw;0%;100%;Ground Ball Double Play: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 12, White Sox 4.
+Bottom of the 8th, White Sox Batting, Behind 4-12, Athletics' Francisco Pérez facing 4-5-6 
+;;;;;;;;;Francisco Pérez replaces Sean Newcomb pitching
+b8;4-12;0;---;2,(1-0) .BX;O;CHW;Eloy Jiménez;Francisco Pérez;0%;100%;Foul Popfly: C (Behind Home)
+b8;4-12;1;---;2,(0-1) CX;O;CHW;Yoán Moncada;Francisco Pérez;0%;100%;Groundout: SS-1B
+b8;4-12;2;---;6,(2-2) CSBBFX;O;CHW;Andrew Vaughn;Francisco Pérez;0%;100%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 12, White Sox 4.
+Top of the 9th, Athletics Batting, Ahead 12-4, White Sox' Bryan Shaw facing 8-9-1 
+t9;12-4;0;---;7,(3-2) CBSFBBS;O;OAK;Jonah Bride;Bryan Shaw;0%;100%;Strikeout Swinging
+t9;12-4;1;---;2,(1-0) BX;O;OAK;Nick Allen;Bryan Shaw;0%;100%;Groundout: P-1B
+t9;12-4;2;---;4,(1-2) FBF.X;;OAK;Ryan Noda;Bryan Shaw;0%;100%;Single to LF (Line Drive to LF-CF)
+t9;12-4;2;1--;5,(3-1) BFBBX;O;OAK;Zack Gelof;Bryan Shaw;0%;100%;Flyball: RF (RF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 12, White Sox 4.
+Bottom of the 9th, White Sox Batting, Behind 4-12, Athletics' Francisco Pérez facing 7-8-9 
+b9;4-12;0;---;6,(3-2) BBBCFX;;CHW;Oscar Colás;Francisco Pérez;0%;100%;Single to CF (Ground Ball thru SS-2B)
+b9;4-12;0;1--;3,(0-2) CFS;O;CHW;Lenyn Sosa;Francisco Pérez;0%;100%;Strikeout Swinging
+b9;4-12;1;1--;3,(2-0) *BBX;O;CHW;Korey Lee;Francisco Pérez;0%;100%;Flyball: RF (Short RF)
+b9;4-12;2;1--;6,(2-2) SBF*BFC;O;CHW;Tim Anderson;Francisco Pérez;0%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 12, White Sox 4.

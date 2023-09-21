@@ -1,0 +1,298 @@
+
+Scorebox Meta
+20230624
+7:10 p.m. Local
+45274
+Coors Field
+173
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;2;13;8;0;1;0;1;0;25;28;0
+https://cdn.ssref.net/req/202308101/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;0;0;0;0;0;0;1;0;1;7;0
+
+Batting home
+Jurickson Profar;/players/p/profaju01.shtml;DH;3;0;0;0;0;3;4;.236;.315;.380;.695;15;10;0.031; 0.24;0.034;-0.002; 0.00%; 0.01; -0.3;;;HBP
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;4;0;1;0;0;1;4;.259;.293;.417;.710;16;12;-0.032; 0.34;0.001;-0.034;-0.00%; 0.01; -0.6;3;2;3B
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;2;0;0;0;0;0;2;.264;.347;.487;.834;13;8;-0.054; 0.60;0.000;-0.054;-0.00%; 0.03; -1.0;0;2;GDP
+Coco Montes;/players/m/monteco01.shtml;3B;2;0;1;0;0;0;2;.233;.303;.400;.703;4;3;0.000; 0.01;0.000;-0.001;0%; 0.00; 0.0;0;3;2B
+Elias Díaz;/players/d/diazel01.shtml;C;1;0;0;0;0;1;1;.292;.346;.475;.821;8;5;-0.026; 0.97;0.000;-0.026;-0.00%; 0.04; -0.3;2;0;
+Jorge Alfaro;/players/a/alfarjo01.shtml;PH-C;3;0;0;0;0;0;3;.115;.148;.308;.456;7;5;-0.002; 0.02;0.000;-0.002;0%; 0.00; -0.8;1;0;
+Nolan Jones;/players/j/jonesno01.shtml;RF;4;0;1;0;0;1;4;.326;.402;.568;.970;15;10;0.026; 0.19;0.027;-0.001; 0.00%; 0.01; -0.5;1;0;
+Randal Grichuk;/players/g/grichra01.shtml;LF;4;0;1;0;0;1;4;.293;.357;.431;.788;18;11;-0.032; 0.32;0.000;-0.033;-0.00%; 0.01; -0.4;3;0;
+Harold Castro;/players/c/castrha01.shtml;2B;4;0;1;0;0;2;4;.277;.296;.348;.645;14;9;0.026; 0.23;0.028;-0.002; 0.00%; 0.01; -0.4;5;4;
+Elehuris Montero;/players/m/monteel01.shtml;1B;3;0;1;0;0;2;3;.213;.245;.340;.585;16;10;-0.053; 0.62;0.001;-0.054;-0.00%; 0.03; -0.5;10;1;
+Brenton Doyle;/players/d/doylebr02.shtml;CF;3;1;1;1;0;1;3;.215;.267;.376;.643;13;9;-0.003; 0.04;0.000;-0.003;0%; 0.00; 0.4;2;0;HR
+Chase Anderson;/players/a/anderch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matt Carasiti;/players/c/carasma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Noah Davis;/players/d/davisno01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Karl Kauffmann;/players/k/kauffka01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Coco Montes (2, off Kolton Ingram).
+
+
+3B: Ezequiel Tovar (2, off Griffin Canning).
+
+
+HR: Brenton Doyle (6, off Kolton Ingram, 8th inn, 0 on, 0 outs to Deep CF).
+
+
+HBP: Jurickson Profar (3, by Griffin Canning).
+
+
+TB: Brenton Doyle 4; Ezequiel Tovar 3; Coco Montes 2; Nolan Jones; Elehuris Montero; Harold Castro; Randal Grichuk.
+
+
+GIDP: Ryan McMahon (9).
+
+
+RBI: Brenton Doyle (20).
+
+
+Team LOB: 6.
+With RISP: 0 for 3.
+
+Batting away
+Taylor Ward;/players/w/wardta01.shtml;LF;6;2;2;3;1;0;7;.245;.314;.383;.696;30;15;-0.007; 0.35;0.073;-0.080;-0.00%; 0.37; -0.1;2;0;GDP
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;7;1;1;1;0;2;7;.294;.376;.618;.994;26;19;-0.040; 0.41;0.025;-0.065;-0.03%; 0.44; -1.3;;;GDP
+Mike Trout;/players/t/troutmi01.shtml;CF;3;3;3;1;1;0;4;.258;.366;.491;.857;14;6;0.118; 0.54;0.118;0.000; 0.07%; 0.57; 2.4;1;0;HR
+Andrew Velazquez;/players/v/velazan01.shtml;PH-CF;3;0;0;0;0;1;3;.227;.393;.273;.666;10;7;0.000; 0.00;0.000;0.000;0%; 0.00; -1.0;0;0;
+Brandon Drury;/players/d/drurybr01.shtml;2B;5;3;3;4;0;0;5;.273;.318;.500;.818;10;9;0.062; 0.57;0.090;-0.028; 0.04%; 0.61; 2.9;1;2;HR
+Luis Rengifo;/players/r/rengilu01.shtml;2B;1;0;0;0;1;0;2;.205;.295;.295;.590;7;2;0.000; 0.00;0.000;0.000;0%; 0.00; 0.2;1;1;
+Matt Thaiss;/players/t/thaisma01.shtml;C;6;3;3;2;1;0;7;.277;.383;.409;.791;26;13;-0.008; 0.29;0.050;-0.058;-0.01%; 0.31; 1.7;12;0;HR
+Hunter Renfroe;/players/r/renfrhu01.shtml;1B;5;3;5;4;1;0;6;.261;.310;.460;.769;17;8;0.058; 0.23;0.058;0.000; 0.04%; 0.25; 5.2;5;1;2·2B
+Eduardo Escobar;/players/e/escobed01.shtml;3B;4;4;2;1;1;0;5;.246;.298;.412;.711;20;13;0.042; 0.38;0.054;-0.012; 0.03%; 0.41; 0.6;0;0;
+Kevin Padlo;/players/p/padloke01.shtml;3B;1;0;0;0;0;0;1;.125;.125;.250;.375;3;2;0.000; 0.00;0.000;0.000;0%; 0.00; -1.0;0;1;GDP
+Mickey Moniak;/players/m/moniami01.shtml;RF;5;5;5;4;0;0;6;.348;.376;.719;1.095;13;12;0.080; 0.37;0.080;0.000; 0.05%; 0.40; 6.2;1;0;HR,3·2B,HBP
+David Fletcher;/players/f/fletcda02.shtml;SS;6;1;4;5;0;0;6;.273;.273;.409;.682;21;16;0.077; 0.43;0.092;-0.016; 0.05%; 0.46; 3.8;3;4;HR
+Griffin Canning;/players/c/cannigr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Kolton Ingram;/players/i/ingrako01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tucker Davidson;/players/d/davidtu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Hunter Renfroe 2 (18, 1 off Noah Davis, 1 off Matt Carasiti); Mickey Moniak 3 (10, 2 off Noah Davis, 1 off Karl Kauffmann).
+
+
+HR: Mike Trout (17, off Chase Anderson, 3rd inn, 0 on, 0 outs to Deep CF); Brandon Drury (13, off Chase Anderson, 3rd inn, 0 on, 0 outs to Deep LF-CF); Matt Thaiss (4, off Chase Anderson, 3rd inn, 0 on, 0 outs to Deep RF); Mickey Moniak (7, off Matt Carasiti, 3rd inn, 1 on, 2 outs to Deep CF-RF); David Fletcher (1, off Noah Davis, 4th inn, 2 on, 1 out to Deep LF Line).
+
+
+HBP: Mickey Moniak (2, by Chase Anderson).
+
+
+TB: Mickey Moniak 11; David Fletcher 7; Hunter Renfroe 7; Matt Thaiss 6; Mike Trout 6; Brandon Drury 6; Taylor Ward 2; Eduardo Escobar 2; Shohei Ohtani.
+
+
+GIDP: Taylor Ward (6); Kevin Padlo (1); Shohei Ohtani (7).
+
+
+RBI: David Fletcher 5 (6); Mickey Moniak 4 (19); Brandon Drury 4 (41); Hunter Renfroe 4 (37); Taylor Ward 3 (30); Matt Thaiss 2 (21); Eduardo Escobar (17); Shohei Ohtani (60); Mike Trout (41).
+
+
+2-out RBI: Hunter Renfroe 3; Mickey Moniak 2; Brandon Drury 2; Taylor Ward; Eduardo Escobar; Shohei Ohtani.
+
+
+Team LOB: 7.
+With RISP: 13 for 24.
+
+Pitching home
+Chase Anderson;/players/a/anderch01.shtml; L (0-2); 2.2;10;9;9;2;1;3;5.79;20;57;33;23;4;6;7;9;4;0;1;;;-0.340; 1.01;-0.01%; 0.04; -5.7
+Matt Carasiti;/players/c/carasma01.shtml;Matt Carasiti; 0.1;4;6;6;2;0;1;7.08;7;26;15;9;2;4;2;3;1;0;;2;2;-0.041; 0.13;-0.00%; 0.01; -7.5
+Noah Davis;/players/d/davisno01.shtml;Noah Davis; 3 ;11;9;9;1;2;1;10.61;21;73;49;33;8;8;8;10;5;0;;0;0;0.000; 0.00; 0.00%; 0.00; -7.2
+Karl Kauffmann;/players/k/kauffka01.shtml;Karl Kauffmann; 3 ;3;1;1;1;0;0;10.19;11;41;25;16;4;5;4;6;4;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.8
+
+Pitching away
+Griffin Canning;/players/c/cannigr01.shtml; W (6-2); 6 ;4;0;0;0;7;0;3.99;22;99;65;35;17;13;10;4;2;0;71;;;0.118; 0.43; 0.08%; 0.46; 3.6
+Kolton Ingram;/players/i/ingrako01.shtml;Kolton Ingram; 2 ;3;1;1;0;3;1;15.43;9;29;18;7;7;4;2;4;2;0;;0;0;0.001; 0.01; 0.00%; 0.01; 0.2
+Tucker Davidson;/players/d/davidtu01.shtml;Tucker Davidson; 1 ;0;0;0;0;2;0;6.33;3;11;9;3;3;3;0;1;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.6
+
+indiv_events
+
+Balks: None.
+WP: Noah Davis 2 (4).
+HBP: Griffin Canning (4; Jurickson Profar); Chase Anderson (4; Mickey Moniak).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Noah Davis 2 (4).
+HBP: Griffin Canning (4; Jurickson Profar); Chase Anderson (4; Mickey Moniak).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Nate Tomlinson, 1B - David Rackley, 2B - Chris Guccione, 3B - Edwin Moscoso, LF - (none), RF - (none).
+Time of Game: 2:53.
+Attendance: 45,274.
+Field Condition: Unknown.
+Start Time Weather: 86° F, Wind 8mph from Right to Left, Sunny, No Precipitation.
+
+div_lineups
+Angels
+1;Taylor Ward;/players/w/wardta01.shtml;LF
+2;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+3;Mike Trout;/players/t/troutmi01.shtml;CF
+4;Brandon Drury;/players/d/drurybr01.shtml;2B
+5;Matt Thaiss;/players/t/thaisma01.shtml;C
+6;Hunter Renfroe;/players/r/renfrhu01.shtml;1B
+7;Eduardo Escobar;/players/e/escobed01.shtml;3B
+8;Mickey Moniak;/players/m/moniami01.shtml;RF
+9;David Fletcher;/players/f/fletcda02.shtml;SS
+; Griffin Canning;/players/c/cannigr01.shtml;P
+Rockies
+1;Jurickson Profar;/players/p/profaju01.shtml;DH
+2;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+3;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+4;Elias Díaz;/players/d/diazel01.shtml;C
+5;Nolan Jones;/players/j/jonesno01.shtml;RF
+6;Randal Grichuk;/players/g/grichra01.shtml;LF
+7;Harold Castro;/players/c/castrha01.shtml;2B
+8;Elehuris Montero;/players/m/monteel01.shtml;1B
+9;Brenton Doyle;/players/d/doylebr02.shtml;CF
+; Chase Anderson;/players/a/anderch01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;0-0;0;123;1,(0-0) X;RR;LAA;David Fletcher;Chase Anderson;9%;75%;Single to LF (Ground Ball); Renfroe Scores; Escobar Scores; Moniak to 2B
+t2;2-0;0;12-;4,(2-1) F*BBX;OO;LAA;Taylor Ward;Chase Anderson;-8%;67%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole); Moniak to 3B
+t3;2-0;0;---;2,(1-0) BX;R;LAA;Mike Trout;Chase Anderson;8%;77%;Home Run (Fly Ball to Deep CF)
+t2;0-0;0;12-;3,(0-2) FFH;;LAA;Mickey Moniak;Chase Anderson;7%;66%;Hit By Pitch; Renfroe to 3B; Escobar to 2B
+t3;3-0;0;---;1,(0-0) X;R;LAA;Brandon Drury;Chase Anderson;6%;84%;Home Run (Fly Ball to Deep LF-CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, Rockies' Chase Anderson facing 1-2-3 
+t1;0-0;0;---;5,(3-1) BCBB.B;;LAA;Taylor Ward;Chase Anderson;3%;53%;Walk
+t1;0-0;0;1--;1,(0-0) X;O;LAA;Shohei Ohtani;Chase Anderson;-3%;50%;Flyball: LF (Deep LF Line)
+t1;0-0;1;1--;3,(2-0) BBX;;LAA;Mike Trout;Chase Anderson;3%;53%;Single to LF (Ground Ball); Ward to 2B
+t1;0-0;1;12-;2,(0-1) FX;O;LAA;Brandon Drury;Chase Anderson;-3%;51%;Groundout: 3B-1B (Weak SS); Ward to 3B; Trout to 2B
+t1;0-0;2;-23;4,(2-1) BCBX;O;LAA;Matt Thaiss;Chase Anderson;-6%;45%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Angels 0, Rockies 0.
+Bottom of the 1st, Rockies Batting, Tied 0-0, Angels' Griffin Canning facing 1-2-3 
+b1;0-0;0;---;2,(0-1) FH;;COL;Jurickson Profar;Griffin Canning;-3%;42%;Hit By Pitch
+b1;0-0;0;1--;4,(2-1) BS*BX;O;COL;Ezequiel Tovar;Griffin Canning;3%;45%;Groundout: 2B-SS/Forceout at 2B (Deep 2B); Tovar to 1B
+b1;0-0;1;1--;4,(2-1) BCBX;OO;COL;Ryan McMahon;Griffin Canning;5%;50%;Ground Ball Double Play: 1B-SS-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Rockies 0.
+Top of the 2nd, Angels Batting, Tied 0-0, Rockies' Chase Anderson facing 6-7-8 
+t2;0-0;0;---;1,(0-0) X;;LAA;Hunter Renfroe;Chase Anderson;4%;54%;Single to CF (Ground Ball thru SS-2B)
+t2;0-0;0;1--;2,(0-1) CX;;LAA;Eduardo Escobar;Chase Anderson;5%;59%;Single to RF (Line Drive); Renfroe to 2B
+t2;0-0;0;12-;3,(0-2) FFH;;LAA;Mickey Moniak;Chase Anderson;7%;66%;Hit By Pitch; Renfroe to 3B; Escobar to 2B
+t2;0-0;0;123;1,(0-0) X;RR;LAA;David Fletcher;Chase Anderson;9%;75%;Single to LF (Ground Ball); Renfroe Scores; Escobar Scores; Moniak to 2B
+t2;2-0;0;12-;4,(2-1) F*BBX;OO;LAA;Taylor Ward;Chase Anderson;-8%;67%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole); Moniak to 3B
+t2;2-0;2;--3;7,(3-2) BCBBFFC;O;LAA;Shohei Ohtani;Chase Anderson;-3%;64%;Strikeout Looking
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Angels 2, Rockies 0.
+Bottom of the 2nd, Rockies Batting, Behind 0-2, Angels' Griffin Canning facing 4-5-6 
+b2;0-2;0;---;8,(3-2) BFC.BFFBS;O;COL;Elias Díaz;Griffin Canning;3%;66%;Strikeout Swinging
+b2;0-2;1;---;3,(1-1) BCX;;COL;Nolan Jones;Griffin Canning;-3%;64%;Single to CF (Ground Ball)
+b2;0-2;1;1--;6,(3-2) B1BBCSX;O;COL;Randal Grichuk;Griffin Canning;3%;67%;Flyball: CF (Deep CF-RF)
+b2;0-2;2;1--;4,(2-1) 1*BB+1CX;;COL;Harold Castro;Griffin Canning;-3%;64%;Single to CF (Ground Ball); Jones to 3B
+b2;0-2;2;1-3;5,(2-2) BSBS*S;O;COL;Elehuris Montero;Griffin Canning;5%;70%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Angels 2, Rockies 0.
+Top of the 3rd, Angels Batting, Ahead 2-0, Rockies' Chase Anderson facing 3-4-5 
+t3;2-0;0;---;2,(1-0) BX;R;LAA;Mike Trout;Chase Anderson;8%;77%;Home Run (Fly Ball to Deep CF)
+t3;3-0;0;---;1,(0-0) X;R;LAA;Brandon Drury;Chase Anderson;6%;84%;Home Run (Fly Ball to Deep LF-CF)
+t3;4-0;0;---;1,(0-0) X;R;LAA;Matt Thaiss;Chase Anderson;5%;89%;Home Run (Fly Ball to Deep RF)
+t3;5-0;0;---;4,(3-0) BBBB;;LAA;Hunter Renfroe;Chase Anderson;1%;90%;Walk
+t3;5-0;0;1--;4,(2-1) CBBX;O;LAA;Eduardo Escobar;Chase Anderson;-1%;89%;Groundout: 1B-SS/Forceout at 2B; Escobar to 1B
+t3;5-0;1;1--;2,(0-1) SX;;LAA;Mickey Moniak;Chase Anderson;1%;90%;Single to CF (Line Drive); Escobar to 2B
+t3;5-0;1;12-;3,(0-2) SSX;O;LAA;David Fletcher;Chase Anderson;-2%;88%;Popfly: 2B (2B-1B)
+t3;5-0;2;12-;5,(2-2) BSFBX;R;LAA;Taylor Ward;Chase Anderson;4%;92%;Single to LF (Line Drive to Deep LF-CF); Escobar Scores; Moniak to 3B
+t3;6-0;2;1-3;2,(1-0) BX;R;LAA;Shohei Ohtani;Chase Anderson;2%;95%;Single to RF (Line Drive to CF-RF); Moniak Scores; Ward to 2B
+;;;;;;;;;Matt Carasiti replaces Chase Anderson pitching
+t3;7-0;2;12-;6,(3-2) .BBFFB>B;;LAA;Mike Trout;Matt Carasiti;0%;95%;Walk; Ward to 3B; Ohtani to 2B
+t3;7-0;2;123;1,(0-0) X;RR;LAA;Brandon Drury;Matt Carasiti;3%;98%;Single to CF (Fly Ball to CF-RF); Ward Scores; Ohtani Scores; Trout to 3B
+t3;9-0;2;1-3;6,(3-2) BBBCC.>B;;LAA;Matt Thaiss;Matt Carasiti;0%;98%;Walk; Drury to 2B
+t3;9-0;2;123;3,(1-1) SBX;RRR;LAA;Hunter Renfroe;Matt Carasiti;1%;99%;Double to RF (Ground Ball); Trout Scores; Drury Scores; Thaiss Scores
+t3;12-0;2;-2-;3,(0-2) CFX;R;LAA;Eduardo Escobar;Matt Carasiti;0%;99%;Single to RF (Line Drive to Deep CF-RF); Renfroe Scores
+t3;13-0;2;1--;1,(0-0) X;RR;LAA;Mickey Moniak;Matt Carasiti;0%;99%;Home Run (Fly Ball to Deep CF-RF); Escobar Scores
+t3;15-0;2;---;6,(2-2) BCSBFX;O;LAA;David Fletcher;Matt Carasiti;0%;99%;Groundout: P-1B (P's Left)
+;;;;;;;;;13 runs, 10 hits, 0 errors, 0 LOB. Angels 15, Rockies 0.
+Bottom of the 3rd, Rockies Batting, Behind 0-15, Angels' Griffin Canning facing 9-1-2 
+b3;0-15;0;---;6,(1-2) CSFBFS;O;COL;Brenton Doyle;Griffin Canning;0%;99%;Strikeout Swinging
+b3;0-15;1;---;5,(2-2) BCFBS;O;COL;Jurickson Profar;Griffin Canning;0%;99%;Strikeout Swinging
+b3;0-15;2;---;4,(0-2) CFFX;;COL;Ezequiel Tovar;Griffin Canning;0%;99%;Triple to CF (Line Drive to Deep LF-CF)
+b3;0-15;2;--3;9,(3-2) FF.FB*BFFBX;O;COL;Ryan McMahon;Griffin Canning;0%;99%;Lineout: 2B (Deep 2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 15, Rockies 0.
+Top of the 4th, Angels Batting, Ahead 15-0, Rockies' Noah Davis facing 1-2-3 
+;;;;;;;;;Noah Davis replaces Matt Carasiti pitching
+t4;15-0;0;---;4,(2-1) .BBCX;;LAA;Taylor Ward;Noah Davis;0%;99%;Single to RF (Ground Ball)
+t4;15-0;0;1--;2,(0-1) SX;O;LAA;Shohei Ohtani;Noah Davis;0%;99%;Lineout: RF (Deep RF)
+t4;15-0;1;1--;3,(1-1) BCX;;LAA;Mike Trout;Noah Davis;0%;99%;Single to CF (Line Drive to Deep CF-RF); Ward to 3B
+t4;15-0;1;1-3;2,(0-1) FX;R;LAA;Brandon Drury;Noah Davis;0%;99%;Single to LF (Ground Ball); Ward Scores; Trout to 2B
+t4;16-0;1;12-;2,(1-0) *BX;R;LAA;Matt Thaiss;Noah Davis;0%;99%;Single to RF (Ground Ball); Trout Scores; Drury to 3B
+t4;17-0;1;1-3;4,(2-1) BSBX;R;LAA;Hunter Renfroe;Noah Davis;0%;99%;Double to CF (Fly Ball to Deep LF-CF); Drury Scores; Thaiss to 3B
+t4;18-0;1;-23;8,(3-2) BCF.FBBFB;;LAA;Eduardo Escobar;Noah Davis;0%;99%;Walk
+t4;18-0;1;123;1,(0-0) X;RR;LAA;Mickey Moniak;Noah Davis;0%;99%;Double to RF (Fly Ball to Deep RF); Thaiss Scores; Renfroe Scores; Escobar to 3B
+t4;20-0;1;-23;3,(0-2) CFX;RRR;LAA;David Fletcher;Noah Davis;0%;99%;Home Run (Fly Ball to Deep LF Line); Escobar Scores; Moniak Scores
+t4;23-0;1;---;1,(0-0) X;O;LAA;Taylor Ward;Noah Davis;0%;99%;Groundout: SS-1B
+t4;23-0;2;---;7,(0-2) CS.FFFFS;O;LAA;Shohei Ohtani;Noah Davis;0%;99%;Strikeout Swinging
+;;;;;;;;;8 runs, 7 hits, 0 errors, 0 LOB. Angels 23, Rockies 0.
+Bottom of the 4th, Rockies Batting, Behind 0-23, Angels' Griffin Canning facing 4-5-6 
+;;;;;;;;;Jorge Alfaro pinch hits for Elias Díaz (C) batting 4th
+b4;0-23;0;---;3,(1-1) .FBX;O;COL;Jorge Alfaro;Griffin Canning;0%;99%;Groundout: SS-1B
+b4;0-23;1;---;3,(1-1) BCX;O;COL;Nolan Jones;Griffin Canning;0%;100%;Groundout: 2B-1B (2B-1B)
+b4;0-23;2;---;5,(1-2) CBSFS;O;COL;Randal Grichuk;Griffin Canning;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 23, Rockies 0.
+Top of the 5th, Angels Batting, Ahead 23-0, Rockies' Noah Davis facing 3-4-5 
+;;;;;;;;;Jorge Alfaro moves from PH to C Andrew Velazquez pinch hits for Mike Trout (CF) batting 3rd
+t5;23-0;0;---;5,(3-1) ..BFBBX;O;LAA;Andrew Velazquez;Noah Davis;0%;100%;Groundout: 1B unassisted
+t5;23-0;1;---;4,(1-2) BCSX;O;LAA;Brandon Drury;Noah Davis;0%;100%;Popfly: 1B (2B-1B)
+t5;23-0;2;---;5,(3-1) BBBCX;;LAA;Matt Thaiss;Noah Davis;0%;100%;Single to CF (Ground Ball)
+t5;23-0;2;1--;4,(2-1) SBBX;;LAA;Hunter Renfroe;Noah Davis;0%;100%;Single to CF (Line Drive to LF-CF); Thaiss to 2B
+t5;23-0;2;12-;1,(0-0) B;;LAA;Eduardo Escobar;Noah Davis;0%;100%;Wild Pitch; Thaiss to 3B; Renfroe to 2B
+t5;23-0;2;-23;3,(1-1) B.CX;O;LAA;Eduardo Escobar;Noah Davis;0%;100%;Flyball: LF (LF-CF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Angels 23, Rockies 0.
+Bottom of the 5th, Rockies Batting, Behind 0-23, Angels' Griffin Canning facing 7-8-9 
+;;;;;;;;;Luis Rengifo replaces Brandon Drury playing 2B batting 4thKevin Padlo replaces Eduardo Escobar playing 3B batting 7thAndrew Velazquez moves from PH to CF 
+b5;0-23;0;---;4,(1-2) ...BCSS;O;COL;Harold Castro;Griffin Canning;0%;100%;Strikeout Swinging
+b5;0-23;1;---;6,(2-2) CFBFBX;;COL;Elehuris Montero;Griffin Canning;0%;100%;Single to CF (Ground Ball)
+b5;0-23;1;1--;5,(2-2) BFSBX;O;COL;Brenton Doyle;Griffin Canning;0%;100%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Doyle to 1B
+b5;0-23;2;1--;3,(0-2) FCS;O;COL;Jurickson Profar;Griffin Canning;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 23, Rockies 0.
+Top of the 6th, Angels Batting, Ahead 23-0, Rockies' Noah Davis facing 8-9-1 
+;;;;;;;;;Coco Montes replaces Ryan McMahon playing 3B batting 3rd
+t6;23-0;0;---;3,(0-2) .FFX;;LAA;Mickey Moniak;Noah Davis;0%;100%;Double to CF (Line Drive to Deep CF-RF)
+t6;23-0;0;-2-;3,(1-1) BFX;;LAA;David Fletcher;Noah Davis;0%;100%;Single to RF (Line Drive); Moniak to 3B
+t6;23-0;0;1-3;3,(2-0) BBX;RO;LAA;Taylor Ward;Noah Davis;0%;100%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Moniak Scores; Ward to 1B
+t6;24-0;1;1--;1,(0-0) B;;LAA;Shohei Ohtani;Noah Davis;0%;100%;Wild Pitch; Ward to 2B
+t6;24-0;1;-2-;3,(1-1) B.SX;O;LAA;Shohei Ohtani;Noah Davis;0%;100%;Groundout: 2B-1B (2B-1B); Ward to 3B
+t6;24-0;2;--3;3,(0-2) SFT;O;LAA;Andrew Velazquez;Noah Davis;0%;100%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Angels 24, Rockies 0.
+Bottom of the 6th, Rockies Batting, Behind 0-24, Angels' Griffin Canning facing 2-3-4 
+b6;0-24;0;---;5,(2-2) BSBTX;O;COL;Ezequiel Tovar;Griffin Canning;0%;100%;Groundout: SS-1B
+b6;0-24;1;---;3,(1-1) BSX;O;COL;Coco Montes;Griffin Canning;0%;100%;Flyball: LF (Deep LF-CF)
+b6;0-24;2;---;2,(1-0) BX;O;COL;Jorge Alfaro;Griffin Canning;0%;100%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 24, Rockies 0.
+Top of the 7th, Angels Batting, Ahead 24-0, Rockies' Karl Kauffmann facing 4-5-6 
+;;;;;;;;;Karl Kauffmann replaces Noah Davis pitching
+t7;24-0;0;---;4,(3-0) .BBBB;;LAA;Luis Rengifo;Karl Kauffmann;0%;100%;Walk
+t7;24-0;0;1--;3,(1-1) FBX;O;LAA;Matt Thaiss;Karl Kauffmann;0%;100%;Groundout: 2B-SS/Forceout at 2B (SS-2B); Thaiss to 1B
+t7;24-0;1;1--;1,(0-0) X;;LAA;Hunter Renfroe;Karl Kauffmann;0%;100%;Single to SS (Line Drive); Thaiss to 2B
+t7;24-0;1;12-;3,(1-1) CBX;OO;LAA;Kevin Padlo;Karl Kauffmann;0%;100%;Ground Ball Double Play: 3B-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 24, Rockies 0.
+Bottom of the 7th, Rockies Batting, Behind 0-24, Angels' Kolton Ingram facing 5-6-7 
+;;;;;;;;;Kolton Ingram replaces Griffin Canning pitching
+b7;0-24;0;---;6,(3-2) .BBCS.BX;O;COL;Nolan Jones;Kolton Ingram;0%;100%;Lineout: RF (Deep CF-RF)
+b7;0-24;1;---;3,(2-0) BBX;;COL;Randal Grichuk;Kolton Ingram;0%;100%;Single to LF (Ground Ball thru SS-3B Hole)
+b7;0-24;1;1--;2,(1-0) *BX;O;COL;Harold Castro;Kolton Ingram;0%;100%;Flyball: LF (Deep LF Line)
+b7;0-24;2;1--;5,(2-2) CS*BBS;O;COL;Elehuris Montero;Kolton Ingram;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 24, Rockies 0.
+Top of the 8th, Angels Batting, Ahead 24-0, Rockies' Karl Kauffmann facing 8-9-1 
+t8;24-0;0;---;3,(0-2) CFX;;LAA;Mickey Moniak;Karl Kauffmann;0%;100%;Double to RF (Line Drive to Deep CF-RF)
+t8;24-0;0;-2-;5,(2-2) BCCBX;;LAA;David Fletcher;Karl Kauffmann;0%;100%;Single to CF (Line Drive to Deep CF); Moniak to 3B
+t8;24-0;0;1-3;8,(3-2) BCFFB.FBX;RO;LAA;Taylor Ward;Karl Kauffmann;0%;100%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Moniak Scores; Ward to 1B
+t8;25-0;1;1--;4,(2-1) BBFX;OO;LAA;Shohei Ohtani;Karl Kauffmann;0%;100%;Ground Ball Double Play: SS-1B (SS-2B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Angels 25, Rockies 0.
+Bottom of the 8th, Rockies Batting, Behind 0-25, Angels' Kolton Ingram facing 9-1-2 
+b8;0-25;0;---;2,(1-0) BX;R;COL;Brenton Doyle;Kolton Ingram;0%;100%;Home Run (Fly Ball to Deep CF)
+b8;1-25;0;---;5,(2-2) FCBBS;O;COL;Jurickson Profar;Kolton Ingram;0%;100%;Strikeout Swinging
+b8;1-25;1;---;3,(0-2) CSS;O;COL;Ezequiel Tovar;Kolton Ingram;0%;100%;Strikeout Swinging
+b8;1-25;2;---;1,(0-0) X;;COL;Coco Montes;Kolton Ingram;0%;100%;Double to LF (Line Drive to Deep LF Line)
+b8;1-25;2;-2-;2,(0-1) SX;O;COL;Jorge Alfaro;Kolton Ingram;0%;100%;Groundout: SS-1B (Weak SS)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Angels 25, Rockies 1.
+Top of the 9th, Angels Batting, Ahead 25-1, Rockies' Karl Kauffmann facing 3-4-5 
+t9;25-1;0;---;2,(0-1) SX;O;LAA;Andrew Velazquez;Karl Kauffmann;0%;100%;Lineout: CF (Deep LF-CF)
+t9;25-1;1;---;3,(1-1) BSX;O;LAA;Luis Rengifo;Karl Kauffmann;0%;100%;Flyball: LF (Deep LF)
+t9;25-1;2;---;5,(2-2) SSBBX;O;LAA;Matt Thaiss;Karl Kauffmann;0%;100%;Flyball: CF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 25, Rockies 1.
+Bottom of the 9th, Rockies Batting, Behind 1-25, Angels' Tucker Davidson facing 5-6-7 
+;;;;;;;;;Tucker Davidson replaces Kolton Ingram pitching
+b9;1-25;0;---;3,(0-2) .CFS;O;COL;Nolan Jones;Tucker Davidson;0%;100%;Strikeout Swinging
+b9;1-25;1;---;4,(1-2) BFCX;O;COL;Randal Grichuk;Tucker Davidson;0%;100%;Flyball: SS (Short LF-CF)
+b9;1-25;2;---;4,(1-2) BCSS;O;COL;Harold Castro;Tucker Davidson;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 25, Rockies 1.

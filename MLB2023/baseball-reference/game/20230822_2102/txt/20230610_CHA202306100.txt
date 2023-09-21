@@ -1,0 +1,274 @@
+
+Scorebox Meta
+20230610
+1:10 p.m. Local
+25793
+Guaranteed Rate Field
+175
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/MIA-2023.png;/teams/MIA/2023.shtml;0;0;0;0;0;0;0;0;5;5;10;0
+https://cdn.ssref.net/req/202308101/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;0;0;0;1;0;0;0;0;0;1;5;1
+
+Batting home
+Tim Anderson;/players/a/anderti01.shtml;SS;4;0;0;0;0;2;4;.263;.300;.311;.611;16;12;-0.071; 0.71;0.000;-0.071;-0.02%; 0.40; -0.9;1;1;
+Andrew Benintendi;/players/b/beninan01.shtml;LF;2;0;1;0;2;0;4;.269;.339;.345;.684;22;10;-0.028; 0.80;0.070;-0.098;-0.01%; 0.45; -0.5;0;0;CS
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;4;0;0;0;0;1;4;.261;.315;.508;.824;9;7;-0.081; 0.79;0.000;-0.081;-0.03%; 0.45; -0.9;4;0;
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;3;1;1;1;0;0;4;.244;.330;.427;.757;10;6;0.109; 0.63;0.137;-0.028; 0.04%; 0.35; 0.7;6;0;HR,HBP
+Yoán Moncada;/players/m/moncayo01.shtml;3B;4;0;1;0;0;0;4;.238;.288;.385;.672;14;9;-0.064; 0.66;0.004;-0.068;-0.02%; 0.37; -0.5;2;2;2B
+Jake Burger;/players/b/burgeja01.shtml;DH;4;0;0;0;0;2;4;.250;.298;.581;.879;15;9;-0.058; 0.57;0.000;-0.058;-0.02%; 0.32; -0.9;;;
+Yasmani Grandal;/players/g/grandya01.shtml;C;3;0;1;0;0;0;3;.264;.330;.408;.738;10;9;-0.002; 0.48;0.023;-0.025;-0.00%; 0.27; -0.1;10;0;2B
+Gavin Sheets;/players/s/sheetga01.shtml;RF;3;0;0;0;0;1;3;.228;.301;.397;.698;15;9;-0.067; 0.82;0.000;-0.067;-0.02%; 0.46; -0.7;3;0;
+Clint Frazier;/players/f/frazicl01.shtml;RF;0;0;0;0;0;0;0;.233;.361;.300;.661;;;;;;;;;;1;0;
+Elvis Andrus;/players/a/andruel01.shtml;2B;3;0;1;0;0;1;3;.203;.279;.250;.529;9;7;-0.009; 0.72;0.032;-0.041;-0.00%; 0.41; 0.1;0;2;SB
+Michael Kopech;/players/k/kopecmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gregory Santos;/players/s/santogr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Reynaldo López;/players/l/lopezre01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joe Kelly;/players/k/kellyjo05.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Garrett Crochet;/players/c/crochga01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Yasmani Grandal (10, off Sandy Alcantara); Yoán Moncada (8, off A.J. Puk).
+
+
+HR: Andrew Vaughn (8, off Sandy Alcantara, 4th inn, 0 on, 0 outs to Deep RF).
+
+
+HBP: Andrew Vaughn (8, by Sandy Alcantara).
+
+
+TB: Andrew Vaughn 4; Yoán Moncada 2; Yasmani Grandal 2; Elvis Andrus; Andrew Benintendi.
+
+
+RBI: Andrew Vaughn (40).
+
+
+Team LOB: 5.
+With RISP: 0 for 3.
+
+Batting away
+Luis Arraez;/players/a/arraelu01.shtml;2B;4;1;2;0;0;1;5;.402;.452;.491;.943;18;12;0.161; 1.89;0.238;-0.077; 0.11%; 2.20; 0.9;4;2;HBP
+Jorge Soler;/players/s/solerjo01.shtml;DH;3;1;3;0;1;0;5;.249;.337;.524;.862;20;11;0.409; 2.10;0.409;0.000; 0.29%; 2.45; 2.7;;;SB,HBP
+Bryan De La Cruz;/players/d/delacbr01.shtml;RF-LF;5;0;0;0;0;1;5;.291;.343;.457;.800;26;18;0.032; 2.66;0.195;-0.163; 0.02%; 3.09; -0.4;0;0;
+Jesús Sánchez;/players/s/sanchje02.shtml;CF-RF;3;1;0;1;2;3;5;.286;.364;.543;.907;28;16;-0.025; 2.03;0.138;-0.163;-0.02%; 2.37; -0.3;2;0;
+Yuli Gurriel;/players/g/gourryu01.shtml;1B;5;1;0;1;0;2;5;.263;.320;.397;.717;23;16;-0.230; 1.90;0.000;-0.230;-0.16%; 2.22; -2.2;11;0;
+Joey Wendle;/players/w/wendljo01.shtml;SS;5;0;1;0;0;2;5;.250;.315;.405;.720;23;16;-0.069; 1.18;0.054;-0.124;-0.05%; 1.37; -0.6;0;8;SB
+Jean Segura;/players/s/segurje01.shtml;3B;5;0;2;2;0;0;5;.194;.263;.225;.488;20;13;-0.011; 1.03;0.083;-0.095;-0.01%; 1.20; 1.3;0;2;2B
+Jacob Stallings;/players/s/stallja01.shtml;C;3;0;1;0;2;1;5;.161;.238;.226;.464;22;9;0.051; 0.85;0.080;-0.030; 0.03%; 0.99; 0.2;7;1;2B
+Jon Berti;/players/b/bertijo01.shtml;LF;3;0;0;0;0;0;3;.263;.311;.337;.648;8;7;-0.202; 2.06;0.000;-0.202;-0.14%; 2.40; -1.7;3;1;GDP
+Garrett Cooper;/players/c/coopega03.shtml;PH;1;0;1;0;0;0;1;.232;.266;.390;.656;3;3;0.115; 2.89;0.115;0.000; 0.08%; 3.37; 0.4;;;
+Jonathan Davis;/players/d/davisjo05.shtml;PR-CF;0;1;0;0;0;0;0;.279;.354;.465;.819;;;0.000;;0.000;0.000;0%;; 0.0;0;0;
+Sandy Alcantara;/players/a/alcansa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Steven Okert;/players/o/okertst01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+A.J. Puk;/players/p/pukaj01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jacob Stallings (6, off Michael Kopech); Jean Segura (4, off Garrett Crochet).
+
+
+HBP: Luis Arraez (3, by Michael Kopech); Jorge Soler (4, by Michael Kopech).
+
+
+TB: Jean Segura 3; Jorge Soler 3; Luis Arraez 2; Jacob Stallings 2; Joey Wendle; Garrett Cooper.
+
+
+GIDP: Jon Berti (5).
+
+
+RBI: Jean Segura 2 (10); Jesús Sánchez (18); Yuli Gurriel (14).
+
+
+2-out RBI: Jean Segura 2.
+
+
+Team LOB: 12.
+With RISP: 1 for 16.
+
+Pitching home
+Michael Kopech;/players/k/kopecmi01.shtml;Michael Kopech; 5 ;5;0;0;1;6;0;4.03;22;100;63;29;16;18;4;9;3;0;62;;;0.286; 1.45; 0.10%; 0.82; 2.6
+Gregory Santos;/players/s/santogr01.shtml; H (2); 1.2;2;0;0;1;1;0;1.95;8;27;17;11;3;3;1;5;3;0;;0;0;0.132; 1.56; 0.04%; 0.88; 0.8
+Reynaldo López;/players/l/lopezre01.shtml; H (8); 1.1;0;0;0;1;1;0;4.76;5;22;13;7;2;4;2;1;0;0;;1;0;0.168; 1.93; 0.06%; 1.09; 0.8
+Joe Kelly;/players/k/kellyjo05.shtml; L (1-3); 0.1;2;5;2;2;0;0;4.95;6;26;17;11;2;4;3;1;1;0;;0;0;-0.770; 3.71;-0.26%; 2.09; -3.4
+Garrett Crochet;/players/c/crochga01.shtml;Garrett Crochet; 0.2;1;0;0;0;2;0;4.50;3;16;11;6;2;3;0;1;1;0;;2;2;-0.046; 0.44;-0.01%; 0.25; -1.1
+
+Pitching away
+Sandy Alcantara;/players/a/alcansa01.shtml;Sandy Alcantara; 7 ;3;1;1;2;4;1;4.75;26;86;57;34;10;13;13;6;3;0;69;;;0.220; 0.75; 0.15%; 0.88; 2.6
+Steven Okert;/players/o/okertst01.shtml; W (3-0); 1 ;1;0;0;0;1;0;2.18;3;12;9;4;4;1;1;1;1;0;;0;0;0.032; 0.70; 0.02%; 0.82; 0.5
+A.J. Puk;/players/p/pukaj01.shtml;A.J. Puk; 1 ;1;0;0;0;2;0;2.70;4;22;12;3;8;1;1;1;1;0;;0;0;0.019; 0.24; 0.01%; 0.28; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Michael Kopech 2 (8; Luis Arraez, Jorge Soler); Sandy Alcantara (4; Andrew Vaughn).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Michael Kopech 2 (8; Luis Arraez, Jorge Soler); Sandy Alcantara (4; Andrew Vaughn).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Chris Guccione, 1B - Nate Tomlinson, 2B - Chris Segal, 3B - David Rackley, LF - (none), RF - (none).
+Time of Game: 2:55.
+Attendance: 25,793.
+Field Condition: Unknown.
+Start Time Weather: 83° F, Wind 9mph from Right to Left, Cloudy, No Precipitation.
+
+div_lineups
+Marlins
+1;Luis Arraez;/players/a/arraelu01.shtml;2B
+2;Jorge Soler;/players/s/solerjo01.shtml;DH
+3;Bryan De La Cruz;/players/d/delacbr01.shtml;RF
+4;Jesús Sánchez;/players/s/sanchje02.shtml;CF
+5;Yuli Gurriel;/players/g/gourryu01.shtml;1B
+6;Joey Wendle;/players/w/wendljo01.shtml;SS
+7;Jean Segura;/players/s/segurje01.shtml;3B
+8;Jacob Stallings;/players/s/stallja01.shtml;C
+9;Jon Berti;/players/b/bertijo01.shtml;LF
+; Sandy Alcantara;/players/a/alcansa01.shtml;P
+White Sox
+1;Tim Anderson;/players/a/anderti01.shtml;SS
+2;Andrew Benintendi;/players/b/beninan01.shtml;LF
+3;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+4;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+5;Yoán Moncada;/players/m/moncayo01.shtml;3B
+6;Jake Burger;/players/b/burgeja01.shtml;DH
+7;Yasmani Grandal;/players/g/grandya01.shtml;C
+8;Gavin Sheets;/players/s/sheetga01.shtml;RF
+9;Elvis Andrus;/players/a/andruel01.shtml;2B
+; Michael Kopech;/players/k/kopecmi01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t9;0-1;0;12-;6,(3-2) BCFBBB;;MIA;Jorge Soler;Joe Kelly;20%;64%;Walk; Davis to 3B; Arraez to 2B
+t9;0-1;0;123;3,(0-2) CSX;R;MIA;Bryan De La Cruz;Joe Kelly;19%;84%;Fielder's Choice SS; Davis Scores/Adv on E6/No RBI/unER; Arraez to 3B; Soler to 2B; De La Cruz to 1B
+t9;0-1;0;1--;1,(0-0) .X;;MIA;Luis Arraez;Joe Kelly;16%;44%;Single to LF (Line Drive to LF Line); Davis to 2B
+b4;0-0;0;---;1,(0-0) X;R;CHW;Andrew Vaughn;Sandy Alcantara;-13%;31%;Home Run (Fly Ball to Deep RF)
+t9;0-1;0;---;3,(0-2) ..CFX;;MIA;Garrett Cooper;Joe Kelly;12%;28%;Single to CF (Ground Ball thru SS-2B)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Marlins Batting, Tied 0-0, White Sox' Michael Kopech facing 1-2-3 
+t1;0-0;0;---;5,(1-2) BFFFH;;MIA;Luis Arraez;Michael Kopech;4%;54%;Hit By Pitch
+t1;0-0;0;1--;1,(0-0) H;;MIA;Jorge Soler;Michael Kopech;5%;59%;Hit By Pitch; Arraez to 2B
+t1;0-0;0;12-;6,(1-2) CCBFFS;O;MIA;Bryan De La Cruz;Michael Kopech;-5%;54%;Strikeout Swinging
+t1;0-0;1;12-;5,(1-2) BSSFS;O;MIA;Jesús Sánchez;Michael Kopech;-4%;49%;Strikeout Swinging
+t1;0-0;2;12-;4,(0-2) SSFC;O;MIA;Yuli Gurriel;Michael Kopech;-4%;45%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Marlins 0, White Sox 0.
+Bottom of the 1st, White Sox Batting, Tied 0-0, Marlins' Sandy Alcantara facing 1-2-3 
+b1;0-0;0;---;3,(1-1) BFX;O;CHW;Tim Anderson;Sandy Alcantara;2%;47%;Groundout: 1B unassisted (2B-1B)
+b1;0-0;1;---;5,(2-2) BFFBX;;CHW;Andrew Benintendi;Sandy Alcantara;-2%;45%;Single to 2B (Ground Ball)
+b1;0-0;1;1--;1,(0-0) X;O;CHW;Luis Robert Jr.;Sandy Alcantara;3%;48%;Groundout: SS-2B/Forceout at 2B (Weak SS-2B); Robert to 1B
+b1;0-0;2;1--;2,(0-1) C1>X;O;CHW;Andrew Vaughn;Sandy Alcantara;2%;50%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 0, White Sox 0.
+Top of the 2nd, Marlins Batting, Tied 0-0, White Sox' Michael Kopech facing 6-7-8 
+t2;0-0;0;---;4,(2-1) BCBX;;MIA;Joey Wendle;Michael Kopech;4%;54%;Single to LF (Line Drive)
+t2;0-0;0;1--;5,(2-2) BCF.*B>X;O;MIA;Jean Segura;Michael Kopech;-4%;50%;Foul Popfly: 1B
+t2;0-0;1;1--;2,(1-0) B1>B;;MIA;Jacob Stallings;Michael Kopech;2%;52%;Wendle Steals 2B
+t2;0-0;1;-2-;5,(3-1) B1>B.*BCB;;MIA;Jacob Stallings;Michael Kopech;2%;54%;Walk
+t2;0-0;1;12-;2,(0-1) FX;OO;MIA;Jon Berti;Michael Kopech;-9%;45%;Ground Ball Double Play: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 0, White Sox 0.
+Bottom of the 2nd, White Sox Batting, Tied 0-0, Marlins' Sandy Alcantara facing 5-6-7 
+b2;0-0;0;---;3,(2-0) BBX;O;CHW;Yoán Moncada;Sandy Alcantara;2%;47%;Groundout: 2B-1B
+b2;0-0;1;---;1,(0-0) X;O;CHW;Jake Burger;Sandy Alcantara;2%;49%;Groundout: SS-1B (SS-3B Hole)
+b2;0-0;2;---;4,(0-2) CSFX;;CHW;Yasmani Grandal;Sandy Alcantara;-2%;47%;Double to CF (Line Drive to Deep LF-CF)
+b2;0-0;2;-2-;6,(3-2) CBBBCX;O;CHW;Gavin Sheets;Sandy Alcantara;3%;50%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 0, White Sox 0.
+Top of the 3rd, Marlins Batting, Tied 0-0, White Sox' Michael Kopech facing 1-2-3 
+t3;0-0;0;---;2,(0-1) CX;;MIA;Luis Arraez;Michael Kopech;4%;54%;Single to CF (Line Drive to Deep CF)
+t3;0-0;0;1--;5,(2-2) C1SBBX;;MIA;Jorge Soler;Michael Kopech;6%;60%;Single to SS (Ground Ball to SS-3B Hole); Arraez to 2B
+t3;0-0;0;12-;5,(3-1) CBBBX;O;MIA;Bryan De La Cruz;Michael Kopech;-3%;57%;Flyball: RF; Arraez to 3B
+t3;0-0;1;1-3;5,(2-2) SBSBS;O;MIA;Jesús Sánchez;Michael Kopech;-7%;50%;Strikeout Swinging
+t3;0-0;2;1-3;1,(0-0) >B;;MIA;Yuli Gurriel;Michael Kopech;1%;51%;Soler Steals 2B
+t3;0-0;2;-23;7,(3-2) >B.SBBFFX;O;MIA;Yuli Gurriel;Michael Kopech;-7%;44%;Popfly: 3B (Weak 3B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Marlins 0, White Sox 0.
+Bottom of the 3rd, White Sox Batting, Tied 0-0, Marlins' Sandy Alcantara facing 9-1-2 
+b3;0-0;0;---;4,(1-2) CBSC;O;CHW;Elvis Andrus;Sandy Alcantara;3%;47%;Strikeout Looking
+b3;0-0;1;---;5,(2-2) BBCF.X;O;CHW;Tim Anderson;Sandy Alcantara;2%;49%;Groundout: SS-1B
+b3;0-0;2;---;5,(3-1) BFBBB;;CHW;Andrew Benintendi;Sandy Alcantara;-1%;47%;Walk
+b3;0-0;2;1--;1,(0-0) X;O;CHW;Luis Robert Jr.;Sandy Alcantara;3%;50%;Groundout: SS-2B/Forceout at 2B; Robert to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Marlins 0, White Sox 0.
+Top of the 4th, Marlins Batting, Tied 0-0, White Sox' Michael Kopech facing 6-7-8 
+t4;0-0;0;---;5,(2-2) BCS.BS;O;MIA;Joey Wendle;Michael Kopech;-3%;47%;Strikeout Swinging
+t4;0-0;1;---;4,(1-2) CBCX;O;MIA;Jean Segura;Michael Kopech;-2%;45%;Lineout: CF (Deep CF-RF)
+t4;0-0;2;---;6,(3-2) BB.FBCX;;MIA;Jacob Stallings;Michael Kopech;3%;48%;Double to LF (Fly Ball to Deep LF-CF)
+t4;0-0;2;-2-;3,(0-2) CFX;O;MIA;Jon Berti;Michael Kopech;-4%;44%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 0, White Sox 0.
+Bottom of the 4th, White Sox Batting, Tied 0-0, Marlins' Sandy Alcantara facing 4-5-6 
+b4;0-0;0;---;1,(0-0) X;R;CHW;Andrew Vaughn;Sandy Alcantara;-13%;31%;Home Run (Fly Ball to Deep RF)
+b4;1-0;0;---;4,(0-2) FSFX;O;CHW;Yoán Moncada;Sandy Alcantara;2%;34%;Lineout: CF (LF-CF)
+b4;1-0;1;---;6,(3-2) BSBS.BC;O;CHW;Jake Burger;Sandy Alcantara;2%;35%;Strikeout Looking
+b4;1-0;2;---;3,(2-1) BVCX;O;CHW;Yasmani Grandal;Sandy Alcantara;1%;36%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Marlins 0, White Sox 1.
+Top of the 5th, Marlins Batting, Behind 0-1, White Sox' Michael Kopech facing 1-2-3 
+t5;0-1;0;---;5,(3-1) CBBBX;O;MIA;Luis Arraez;Michael Kopech;-3%;33%;Flyball: CF (Deep CF)
+t5;0-1;1;---;6,(2-2) BSBSFX;;MIA;Jorge Soler;Michael Kopech;4%;37%;Single to SS (Ground Ball to SS-2B)
+t5;0-1;1;1--;6,(2-2) CFFB*BX;O;MIA;Bryan De La Cruz;Michael Kopech;-3%;34%;Groundout: 3B-1B (Weak 3B); Soler to 2B
+t5;0-1;2;-2-;4,(1-2) C*BSC;O;MIA;Jesús Sánchez;Michael Kopech;-5%;29%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 0, White Sox 1.
+Bottom of the 5th, White Sox Batting, Ahead 1-0, Marlins' Sandy Alcantara facing 8-9-1 
+b5;1-0;0;---;8,(3-2) BSFBFFBS;O;CHW;Gavin Sheets;Sandy Alcantara;2%;31%;Strikeout Swinging
+b5;1-0;1;---;3,(1-1) BFX;O;CHW;Elvis Andrus;Sandy Alcantara;2%;33%;Groundout: SS-1B
+b5;1-0;2;---;3,(0-2) CSS;O;CHW;Tim Anderson;Sandy Alcantara;1%;34%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 0, White Sox 1.
+Top of the 6th, Marlins Batting, Behind 0-1, White Sox' Gregory Santos facing 5-6-7 
+;;;;;;;;;Gregory Santos replaces Michael Kopech pitching
+t6;0-1;0;---;2,(1-0) .BX;O;MIA;Yuli Gurriel;Gregory Santos;-4%;30%;Flyball: CF (Deep CF)
+t6;0-1;1;---;2,(0-1) FX;O;MIA;Joey Wendle;Gregory Santos;-3%;28%;Groundout: 2B-1B
+t6;0-1;2;---;2,(1-0) BX;;MIA;Jean Segura;Gregory Santos;2%;30%;Single to LF (Line Drive)
+t6;0-1;2;1--;5,(3-1) BBBCB;;MIA;Jacob Stallings;Gregory Santos;3%;33%;Walk; Segura to 2B
+t6;0-1;2;12-;3,(1-1) F2BX;O;MIA;Jon Berti;Gregory Santos;-7%;26%;Flyball: RF (Short RF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Marlins 0, White Sox 1.
+Bottom of the 6th, White Sox Batting, Ahead 1-0, Marlins' Sandy Alcantara facing 2-3-4 
+b6;1-0;0;---;7,(3-2) BBBCF.FB;;CHW;Andrew Benintendi;Sandy Alcantara;-3%;23%;Walk
+b6;1-0;0;1--;1,(0-0) 1>C;O;CHW;Luis Robert Jr.;Sandy Alcantara;5%;28%;Benintendi Caught Stealing 2B (C-2B)
+b6;1-0;1;---;2,(0-1) 1>C.X;O;CHW;Luis Robert Jr.;Sandy Alcantara;2%;30%;Flyball: CF (Deep CF-RF)
+b6;1-0;2;---;1,(0-0) H;;CHW;Andrew Vaughn;Sandy Alcantara;-1%;29%;Hit By Pitch
+b6;1-0;2;1--;2,(1-0) BX;O;CHW;Yoán Moncada;Sandy Alcantara;2%;31%;Lineout: LF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Marlins 0, White Sox 1.
+Top of the 7th, Marlins Batting, Behind 0-1, White Sox' Gregory Santos facing 1-2-3 
+t7;0-1;0;---;5,(1-2) BSS.FS;O;MIA;Luis Arraez;Gregory Santos;-4%;26%;Strikeout Swinging
+t7;0-1;1;---;2,(0-1) CX;;MIA;Jorge Soler;Gregory Santos;5%;31%;Single to CF (Line Drive)
+t7;0-1;1;1--;6,(2-2) BFCBFX;O;MIA;Bryan De La Cruz;Gregory Santos;-6%;26%;Lineout: RF (Deep CF-RF)
+;;;;;;;;;Reynaldo López replaces Gregory Santos pitching
+t7;0-1;2;1--;5,(3-1) .BFB*BB;;MIA;Jesús Sánchez;Reynaldo López;4%;30%;Walk; Soler to 2B
+t7;0-1;2;12-;6,(2-2) BBCFFC;O;MIA;Yuli Gurriel;Reynaldo López;-8%;21%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Marlins 0, White Sox 1.
+Bottom of the 7th, White Sox Batting, Ahead 1-0, Marlins' Sandy Alcantara facing 6-7-8 
+b7;1-0;0;---;2,(0-1) CX;O;CHW;Jake Burger;Sandy Alcantara;2%;23%;Groundout: SS-1B
+b7;1-0;1;---;3,(0-2) SFX;O;CHW;Yasmani Grandal;Sandy Alcantara;1%;25%;Groundout: 3B-1B
+b7;1-0;2;---;1,(0-0) X;O;CHW;Gavin Sheets;Sandy Alcantara;1%;26%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 0, White Sox 1.
+Top of the 8th, Marlins Batting, Behind 0-1, White Sox' Reynaldo López facing 6-7-8 
+;;;;;;;;;Clint Frazier replaces Gavin Sheets playing RF batting 8th
+t8;0-1;0;---;6,(2-2) .CBCBFX;O;MIA;Joey Wendle;Reynaldo López;-6%;20%;Groundout: SS-1B
+t8;0-1;1;---;3,(0-2) SS.X;O;MIA;Jean Segura;Reynaldo López;-4%;16%;Groundout: 2B-1B
+t8;0-1;2;---;2,(1-0) BX;O;MIA;Jacob Stallings;Reynaldo López;-3%;13%;Flyball: RF (Short CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 0, White Sox 1.
+Bottom of the 8th, White Sox Batting, Ahead 1-0, Marlins' Steven Okert facing 9-1-2 
+;;;;;;;;;Steven Okert replaces Sandy Alcantara pitching
+b8;1-0;0;---;2,(0-1) .FX;;CHW;Elvis Andrus;Steven Okert;-2%;11%;Single to 1B (Bunt to Weak 2B)
+b8;1-0;0;1--;5,(1-2) CBS11>FS;O;CHW;Tim Anderson;Steven Okert;2%;13%;Strikeout Swinging
+b8;1-0;1;1--;1,(0-0) >S;;CHW;Andrew Benintendi;Steven Okert;-1%;12%;Andrus Steals 2B
+b8;1-0;1;-2-;5,(2-2) >S.BBS>X;OO;CHW;Andrew Benintendi;Steven Okert;4%;17%;Double Play: Lineout: LF (Short LF); Andrus out at 2B/LF-2B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Marlins 0, White Sox 1.
+Top of the 9th, Marlins Batting, Behind 0-1, White Sox' Joe Kelly facing 9-1-2 
+;;;;;;;;;Joe Kelly replaces Reynaldo López pitchingGarrett Cooper pinch hits for Jon Berti (LF) batting 9th
+t9;0-1;0;---;3,(0-2) ..CFX;;MIA;Garrett Cooper;Joe Kelly;12%;28%;Single to CF (Ground Ball thru SS-2B)
+;;;;;;;;;Jonathan Davis pinch runs for Garrett Cooper (PH) batting 9th
+t9;0-1;0;1--;1,(0-0) .X;;MIA;Luis Arraez;Joe Kelly;16%;44%;Single to LF (Line Drive to LF Line); Davis to 2B
+t9;0-1;0;12-;6,(3-2) BCFBBB;;MIA;Jorge Soler;Joe Kelly;20%;64%;Walk; Davis to 3B; Arraez to 2B
+t9;0-1;0;123;3,(0-2) CSX;R;MIA;Bryan De La Cruz;Joe Kelly;19%;84%;Fielder's Choice SS; Davis Scores/Adv on E6/No RBI/unER; Arraez to 3B; Soler to 2B; De La Cruz to 1B
+t9;1-1;0;123;9,(3-2) AB*SF*BBFFFB;R;MIA;Jesús Sánchez;Joe Kelly;10%;94%;Walk; Arraez Scores; Soler to 3B; De La Cruz to 2B
+t9;2-1;0;123;4,(1-2) BCFX;RO;MIA;Yuli Gurriel;Joe Kelly;0%;94%;Groundout: SS unassisted/Forceout at 3B (SS-3B Hole); Soler Scores; Sánchez to 2B; Gurriel to 1B
+;;;;;;;;;Garrett Crochet replaces Joe Kelly pitching
+t9;3-1;1;12-;6,(1-2) .CCFFBS;O;MIA;Joey Wendle;Garrett Crochet;-1%;92%;Strikeout Swinging
+t9;3-1;2;12-;6,(3-2) FFB*B*B>X;RR;MIA;Jean Segura;Garrett Crochet;6%;98%;Double to LF (Line Drive to Deep LF); Sánchez Scores/unER; Gurriel Scores/unER
+t9;5-1;2;-2-;4,(1-2) TBSC;O;MIA;Jacob Stallings;Garrett Crochet;0%;98%;Strikeout Looking
+;;;;;;;;;5 runs, 3 hits, 1 error, 1 LOB. Marlins 5, White Sox 1.
+Bottom of the 9th, White Sox Batting, Behind 1-5, Marlins' A.J. Puk facing 3-4-5 
+;;;;;;;;;A.J. Puk replaces Steven Okert pitchingBryan De La Cruz moves from RF to LF Jonathan Davis moves from PR to CF Jesús Sánchez moves from CF to RF 
+b9;1-5;0;---;5,(2-2) ....SBBSS;O;CHW;Luis Robert Jr.;A.J. Puk;1%;99%;Strikeout Swinging
+b9;1-5;1;---;6,(3-2) CS.BBBX;O;CHW;Andrew Vaughn;A.J. Puk;1%;100%;Groundout: 3B-1B (SS-3B Hole)
+b9;1-5;2;---;5,(2-2) BSF.BX;;CHW;Yoán Moncada;A.J. Puk;0%;99%;Double to LF (Line Drive to LF Line)
+b9;1-5;2;-2-;6,(3-2) SSBBBS;O;CHW;Jake Burger;A.J. Puk;1%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 5, White Sox 1.

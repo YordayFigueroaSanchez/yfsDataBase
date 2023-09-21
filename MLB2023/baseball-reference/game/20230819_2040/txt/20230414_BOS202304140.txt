@@ -1,0 +1,273 @@
+
+Scorebox Meta
+20230414
+7:10 p.m. Local
+36680
+Fenway Park
+177
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;2;0;0;0;0;0;1;0;0;3;11;3
+https://cdn.ssref.net/req/202308101/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;0;0;0;2;1;2;0;0;X;5;5;0
+
+Batting home
+Alex Verdugo;/players/v/verdual01.shtml;RF;3;0;1;0;2;0;5;.309;.377;.436;.813;22;8;0.060; 1.10;0.067;-0.007; 0.03%; 0.79; 0.3;0;0;
+Justin Turner;/players/t/turneju01.shtml;DH;5;0;1;0;0;1;5;.250;.365;.308;.673;23;19;-0.178; 1.47;0.023;-0.201;-0.08%; 1.05; -2.0;;;
+Rob Refsnyder;/players/r/refsnro01.shtml;LF;5;0;0;0;0;2;5;.148;.281;.259;.541;20;12;-0.009; 1.26;0.097;-0.106;-0.00%; 0.90; -0.2;0;0;
+Rafael Devers;/players/d/deverra01.shtml;3B;3;2;1;1;1;0;4;.283;.333;.679;1.013;17;9;0.196; 1.22;0.228;-0.032; 0.08%; 0.87; 1.6;0;1;HR
+Enrique Hernández;/players/h/hernaen02.shtml;CF;4;1;2;1;0;0;4;.146;.255;.333;.588;17;11;0.095; 0.99;0.142;-0.048; 0.04%; 0.71; 0.4;1;0;2B
+Christian Arroyo;/players/a/arroych01.shtml;2B;4;0;0;0;0;2;4;.171;.209;.220;.429;12;9;-0.113; 0.97;0.000;-0.113;-0.05%; 0.69; -1.2;6;2;
+Triston Casas;/players/c/casastr01.shtml;1B;3;0;0;0;1;2;4;.122;.196;.317;.513;23;13;-0.070; 0.81;0.012;-0.082;-0.03%; 0.58; -0.5;6;0;
+Connor Wong;/players/w/wongco01.shtml;C;1;1;0;0;2;1;4;.115;.233;.192;.426;21;9;0.035; 1.00;0.062;-0.028; 0.01%; 0.72; 0.7;11;1;HBP
+Yu Chang;/players/c/changyu01.shtml;SS;3;1;0;0;0;1;4;.000;.111;.000;.111;12;7;0.189; 1.36;0.252;-0.063; 0.08%; 0.98; 1.5;3;3;HBP,GDP
+Tanner Houck;/players/h/houckta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Josh Winckowski;/players/w/winckjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+John Schreiber;/players/s/schrejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kenley Jansen;/players/j/janseke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Enrique Hernández (3, off Patrick Sandoval).
+
+
+HR: Rafael Devers (6, off Jimmy Herget, 5th inn, 0 on, 1 out to Deep RF Line).
+
+
+HBP: Connor Wong (1, by Aaron Loup); Yu Chang (1, by Aaron Loup).
+
+
+TB: Rafael Devers 4; Enrique Hernández 3; Alex Verdugo; Justin Turner.
+
+
+GIDP: Yu Chang (1).
+
+
+RBI: Enrique Hernández (7); Rafael Devers (13).
+
+
+Team LOB: 10.
+With RISP: 1 for 12.
+
+Batting away
+Taylor Ward;/players/w/wardta01.shtml;LF;5;1;1;0;0;1;5;.283;.377;.415;.792;23;14;-0.107; 1.33;0.043;-0.150;-0.07%; 1.40; -1.0;3;0;
+Mike Trout;/players/t/troutmi01.shtml;CF;4;0;1;0;1;1;5;.261;.433;.522;.955;22;12;0.050; 1.13;0.139;-0.089; 0.03%; 1.19; 0.7;1;0;2B
+Shohei Ohtani;/players/o/ohtansh01.shtml;DH;4;1;1;0;1;2;5;.295;.404;.545;.949;20;14;-0.074; 1.11;0.045;-0.119;-0.05%; 1.17; -0.7;;;
+Anthony Rendon;/players/r/rendoan01.shtml;3B;4;1;3;1;1;0;5;.286;.433;.286;.719;21;12;0.072; 1.12;0.112;-0.040; 0.05%; 1.18; 1.0;3;2;
+Hunter Renfroe;/players/r/renfrhu01.shtml;RF;5;0;1;2;0;1;5;.286;.386;.551;.937;14;11;-0.072; 1.70;0.173;-0.245;-0.04%; 1.79; -0.2;2;0;2B,GDP
+Jake Lamb;/players/l/lambja01.shtml;1B;3;0;2;0;1;1;4;.172;.250;.207;.457;23;14;0.127; 1.14;0.153;-0.026; 0.08%; 1.20; 0.8;4;0;
+Brandon Drury;/players/d/drurybr01.shtml;2B;3;0;1;0;0;2;4;.200;.233;.350;.583;13;8;0.049; 1.69;0.128;-0.080; 0.03%; 1.78; 0.6;2;0;HBP
+Luis Rengifo;/players/r/rengilu01.shtml;SS;3;0;1;0;1;1;4;.182;.308;.250;.558;16;9;-0.140; 1.50;0.088;-0.227;-0.09%; 1.57; -1.4;0;3;CS,GDP
+Logan O'Hoppe;/players/o/ohopplo01.shtml;C;4;0;0;0;0;2;4;.231;.279;.564;.843;16;12;-0.201; 2.02;0.000;-0.201;-0.13%; 2.12; -1.7;9;0;
+Patrick Sandoval;/players/s/sandopa02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jimmy Herget;/players/h/hergeji01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Aaron Loup;/players/l/loupaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Jaime Barria;/players/b/barrija01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Hunter Renfroe (4, off Tanner Houck); Mike Trout (3, off Josh Winckowski).
+
+
+HBP: Brandon Drury (1, by Josh Winckowski).
+
+
+TB: Anthony Rendon 3; Jake Lamb 2; Mike Trout 2; Hunter Renfroe 2; Brandon Drury; Taylor Ward; Shohei Ohtani; Luis Rengifo.
+
+
+GIDP: Luis Rengifo (2); Hunter Renfroe (2).
+
+
+RBI: Hunter Renfroe 2 (11); Anthony Rendon (6).
+
+
+2-out RBI: Hunter Renfroe 2.
+
+
+Team LOB: 11.
+With RISP: 1 for 14.
+
+Pitching home
+Tanner Houck;/players/h/houckta01.shtml;Tanner Houck; 4 ;4;2;2;4;6;0;4.50;19;90;56;31;10;15;4;5;1;0;48;;;-0.013; 0.92;-0.01%; 0.66; 0.2
+Josh Winckowski;/players/w/winckjo01.shtml; W (1-0); 3 ;4;1;1;1;0;0;1.50;13;45;28;16;4;8;7;4;3;0;;0;0;0.148; 1.82; 0.06%; 1.31; 0.7
+John Schreiber;/players/s/schrejo01.shtml; H (4); 1 ;2;0;0;0;2;0;1.29;5;20;12;6;5;1;2;1;1;0;;0;0;0.081; 2.48; 0.03%; 1.78; 0.6
+Kenley Jansen;/players/j/janseke01.shtml; S (3); 1 ;1;0;0;0;3;0;0.00;4;13;11;4;4;3;0;1;0;0;;0;0;0.081; 1.09; 0.03%; 0.78; 0.6
+
+Pitching away
+Patrick Sandoval;/players/s/sandopa02.shtml;Patrick Sandoval; 3.2;3;2;0;3;6;0;1.23;19;90;52;22;12;18;4;6;5;0;54;;;-0.099; 1.28;-0.06%; 1.35; -0.6
+Jimmy Herget;/players/h/hergeji01.shtml; L (0-2); 1 ;2;1;1;0;1;1;6.35;5;18;12;6;4;2;1;3;2;0;;3;0;-0.021; 1.44;-0.01%; 1.51; 0.1
+Aaron Loup;/players/l/loupaa01.shtml;Aaron Loup; 1.1;0;2;0;1;1;0;4.91;8;36;22;14;1;7;2;2;1;0;;1;0;-0.127; 1.26;-0.08%; 1.32; -1.2
+Jaime Barria;/players/b/barrija01.shtml;Jaime Barria; 2 ;0;0;0;2;1;0;4.15;7;23;11;6;0;5;2;2;0;0;;0;0;0.044; 0.42; 0.03%; 0.44; 1.1
+
+indiv_events
+
+Balks: None.
+WP: Patrick Sandoval (2).
+HBP: Josh Winckowski (1; Brandon Drury); Aaron Loup 2 (2; Connor Wong, Yu Chang).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Patrick Sandoval (2).
+HBP: Josh Winckowski (1; Brandon Drury); Aaron Loup 2 (2; Connor Wong, Yu Chang).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Ron Kulpa, 1B - Cory Blaser, 2B - Carlos Torres, 3B - Jansen Visconti, LF - (none), RF - (none).
+Time of Game: 2:57.
+Attendance: 36,680.
+Field Condition: Unknown.
+Start Time Weather: 58° F, Wind 4mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Angels
+1;Taylor Ward;/players/w/wardta01.shtml;LF
+2;Mike Trout;/players/t/troutmi01.shtml;CF
+3;Shohei Ohtani;/players/o/ohtansh01.shtml;DH
+4;Anthony Rendon;/players/r/rendoan01.shtml;3B
+5;Hunter Renfroe;/players/r/renfrhu01.shtml;RF
+6;Jake Lamb;/players/l/lambja01.shtml;1B
+7;Brandon Drury;/players/d/drurybr01.shtml;2B
+8;Luis Rengifo;/players/r/rengilu01.shtml;SS
+9;Logan O'Hoppe;/players/o/ohopplo01.shtml;C
+; Patrick Sandoval;/players/s/sandopa02.shtml;P
+Red Sox
+1;Alex Verdugo;/players/v/verdual01.shtml;RF
+2;Justin Turner;/players/t/turneju01.shtml;DH
+3;Rob Refsnyder;/players/r/refsnro01.shtml;LF
+4;Rafael Devers;/players/d/deverra01.shtml;3B
+5;Enrique Hernández;/players/h/hernaen02.shtml;CF
+6;Christian Arroyo;/players/a/arroych01.shtml;2B
+7;Triston Casas;/players/c/casastr01.shtml;1B
+8;Connor Wong;/players/w/wongco01.shtml;C
+9;Yu Chang;/players/c/changyu01.shtml;SS
+; Tanner Houck;/players/h/houckta01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t1;0-0;2;12-;3,(1-1) BFX;RR;LAA;Hunter Renfroe;Tanner Houck;-17%;33%;Double to LF (Fly Ball to Short LF); Ohtani Scores; Rendon Scores
+t6;2-3;0;12-;4,(1-2) CLBX;OO;LAA;Luis Rengifo;Josh Winckowski;17%;68%;Ground Ball Double Play: SS-1B (Weak SS-2B); Lamb to 3B
+b4;1-2;2;12-;4,(1-2) CS*BX;R;BOS;Yu Chang;Patrick Sandoval;15%;57%;Reached on E5 (throw) (Ground Ball to Weak 3B); Hernández Scores/No RBI/unER; Wong to 3B; Chang to 2B
+b5;2-2;1;---;1,(0-0) X;R;BOS;Rafael Devers;Jimmy Herget;14%;68%;Home Run (Line Drive to Deep RF Line)
+t7;2-5;0;1--;5,(2-2) BFBCX;;LAA;Mike Trout;Josh Winckowski;-12%;72%;Double to LF (Line Drive to Deep LF Line); Ward to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, Red Sox' Tanner Houck facing 1-2-3 
+t1;0-0;0;---;4,(1-2) CBCX;O;LAA;Taylor Ward;Tanner Houck;2%;52%;Groundout: P-1B (Weak SS-2B)
+t1;0-0;1;---;5,(2-2) CCBBX;O;LAA;Mike Trout;Tanner Houck;2%;54%;Popfly: SS (Deep SS)
+t1;0-0;2;---;6,(3-2) BBFCBB;;LAA;Shohei Ohtani;Tanner Houck;-1%;53%;Walk
+t1;0-0;2;1--;4,(2-1) BBCX;;LAA;Anthony Rendon;Tanner Houck;-2%;51%;Single to RF (Line Drive to CF-RF); Ohtani to 2B
+t1;0-0;2;12-;3,(1-1) BFX;RR;LAA;Hunter Renfroe;Tanner Houck;-17%;33%;Double to LF (Fly Ball to Short LF); Ohtani Scores; Rendon Scores
+t1;2-0;2;-2-;6,(1-2) CBFFFS;O;LAA;Jake Lamb;Tanner Houck;3%;36%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Angels 2, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Behind 0-2, Angels' Patrick Sandoval facing 1-2-3 
+b1;0-2;0;---;4,(3-0) BBBB;;BOS;Alex Verdugo;Patrick Sandoval;4%;40%;Walk
+b1;0-2;0;1--;7,(1-2) CBSFFFX;O;BOS;Justin Turner;Patrick Sandoval;-4%;36%;Popfly: 2B (Deep 2B-1B)
+b1;0-2;1;1--;3,(0-2) CCX;O;BOS;Rob Refsnyder;Patrick Sandoval;-2%;34%;Groundout: SS-1B; Verdugo to 2B
+b1;0-2;2;-2-;2,(1-0) *B2X;O;BOS;Rafael Devers;Patrick Sandoval;-3%;31%;Lineout: LF (LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 2, Red Sox 0.
+Top of the 2nd, Angels Batting, Ahead 2-0, Red Sox' Tanner Houck facing 7-8-9 
+t2;2-0;0;---;4,(1-2) BCCS;O;LAA;Brandon Drury;Tanner Houck;2%;33%;Strikeout Swinging
+t2;2-0;1;---;6,(3-2) FBBBFB;;LAA;Luis Rengifo;Tanner Houck;-2%;31%;Walk
+t2;2-0;1;1--;3,(0-2) SCS;O;LAA;Logan O'Hoppe;Tanner Houck;2%;33%;Strikeout Swinging
+t2;2-0;2;1--;2,(0-1) C>B;O;LAA;Taylor Ward;Tanner Houck;2%;35%;Rengifo Caught Stealing 2B (C-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 2, Red Sox 0.
+Bottom of the 2nd, Red Sox Batting, Behind 0-2, Angels' Patrick Sandoval facing 5-6-7 
+b2;0-2;0;---;6,(3-2) BCBBS.X;O;BOS;Enrique Hernández;Patrick Sandoval;-3%;33%;Lineout: CF (Deep CF)
+b2;0-2;1;---;3,(0-2) SS.S;O;BOS;Christian Arroyo;Patrick Sandoval;-2%;31%;Strikeout Swinging
+b2;0-2;2;---;7,(3-2) CBS.BFBC;O;BOS;Triston Casas;Patrick Sandoval;-1%;30%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 2, Red Sox 0.
+Top of the 3rd, Angels Batting, Ahead 2-0, Red Sox' Tanner Houck facing 1-2-3 
+t3;2-0;0;---;2,(1-0) BX;O;LAA;Taylor Ward;Tanner Houck;2%;31%;Popfly: 2B (2B-1B)
+t3;2-0;1;---;5,(3-1) BFBBB;;LAA;Mike Trout;Tanner Houck;-2%;30%;Walk
+t3;2-0;1;1--;7,(1-2) SBCFFFS;O;LAA;Shohei Ohtani;Tanner Houck;2%;32%;Strikeout Swinging
+t3;2-0;2;1--;5,(2-2) CSBBX;;LAA;Anthony Rendon;Tanner Houck;-2%;30%;Single to CF (Ground Ball); Trout to 3B
+t3;2-0;2;1-3;1,(0-0) X;O;LAA;Hunter Renfroe;Tanner Houck;4%;34%;Groundout: 3B-2B/Forceout at 2B (Weak 3B); Renfroe to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Angels 2, Red Sox 0.
+Bottom of the 3rd, Red Sox Batting, Behind 0-2, Angels' Patrick Sandoval facing 8-9-1 
+b3;0-2;0;---;7,(2-2) BCBCFFS;O;BOS;Connor Wong;Patrick Sandoval;-3%;31%;Strikeout Swinging
+b3;0-2;1;---;5,(2-2) CBSBC;O;BOS;Yu Chang;Patrick Sandoval;-2%;29%;Strikeout Looking
+b3;0-2;2;---;5,(3-1) CBBBX;;BOS;Alex Verdugo;Patrick Sandoval;1%;31%;Single to CF (Line Drive to Deep LF-CF)
+b3;0-2;2;1--;2,(0-1) CX;;BOS;Justin Turner;Patrick Sandoval;2%;33%;Single to LF (Line Drive to Short LF); Verdugo to 2B
+b3;0-2;2;12-;3,(1-1) BCX;O;BOS;Rob Refsnyder;Patrick Sandoval;-5%;28%;Groundout: 3B-2B/Forceout at 2B (Weak 3B); Refsnyder to 1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Angels 2, Red Sox 0.
+Top of the 4th, Angels Batting, Ahead 2-0, Red Sox' Tanner Houck facing 6-7-8 
+t4;2-0;0;---;10,(3-2) FBCBFFFB.FB;;LAA;Jake Lamb;Tanner Houck;-3%;25%;Walk
+t4;2-0;0;1--;2,(0-1) FX;;LAA;Brandon Drury;Tanner Houck;-4%;21%;Single to LF (Ground Ball thru SS-3B Hole); Lamb to 2B
+t4;2-0;0;12-;4,(1-2) CS*BS;O;LAA;Luis Rengifo;Tanner Houck;4%;25%;Strikeout Swinging
+t4;2-0;1;12-;4,(1-2) BTFX;O;LAA;Logan O'Hoppe;Tanner Houck;4%;29%;Popfly: SS (Deep SS)
+t4;2-0;2;12-;7,(3-2) BFBFFB>S;O;LAA;Taylor Ward;Tanner Houck;4%;32%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Angels 2, Red Sox 0.
+Bottom of the 4th, Red Sox Batting, Behind 0-2, Angels' Patrick Sandoval facing 4-5-6 
+b4;0-2;0;---;8,(3-2) CBFFBBFX;;BOS;Rafael Devers;Patrick Sandoval;5%;37%;Reached on E6 (Ground Ball to SS-2B); Devers to 1B
+b4;0-2;0;1--;1,(0-0) B;;BOS;Enrique Hernández;Patrick Sandoval;3%;40%;Wild Pitch; Devers to 2B
+b4;0-2;0;-2-;2,(1-0) B.X;R;BOS;Enrique Hernández;Patrick Sandoval;12%;51%;Double to RF (Line Drive to RF Line); Devers Scores/unER
+b4;1-2;0;-2-;5,(2-2) FSB*BC;O;BOS;Christian Arroyo;Patrick Sandoval;-6%;46%;Strikeout Looking
+b4;1-2;1;-2-;7,(3-2) CSBF*BBS;O;BOS;Triston Casas;Patrick Sandoval;-5%;41%;Strikeout Swinging
+b4;1-2;2;-2-;4,(3-0) BB*BB;;BOS;Connor Wong;Patrick Sandoval;1%;43%;Walk
+b4;1-2;2;12-;4,(1-2) CS*BX;R;BOS;Yu Chang;Patrick Sandoval;15%;57%;Reached on E5 (throw) (Ground Ball to Weak 3B); Hernández Scores/No RBI/unER; Wong to 3B; Chang to 2B
+b4;2-2;2;-23;6,(3-2) B*BCBFB;;BOS;Alex Verdugo;Patrick Sandoval;1%;59%;Walk
+;;;;;;;;;Jimmy Herget replaces Patrick Sandoval pitching
+b4;2-2;2;123;4,(1-2) .BCSX;O;BOS;Justin Turner;Jimmy Herget;-9%;50%;Groundout: SS-3B/Forceout at 3B (SS-3B Hole); Turner to 1B
+;;;;;;;;;2 runs, 1 hit, 2 errors, 3 LOB. Angels 2, Red Sox 2.
+Top of the 5th, Angels Batting, Tied 2-2, Red Sox' Josh Winckowski facing 2-3-4 
+;;;;;;;;;Josh Winckowski replaces Tanner Houck pitching
+t5;2-2;0;---;3,(1-1) .CBX;O;LAA;Mike Trout;Josh Winckowski;3%;53%;Lineout: CF (Deep CF)
+t5;2-2;1;---;2,(0-1) SX;;LAA;Shohei Ohtani;Josh Winckowski;-3%;50%;Single to LF (Line Drive to LF-CF)
+t5;2-2;1;1--;6,(3-2) BCBBS>B;;LAA;Anthony Rendon;Josh Winckowski;-5%;45%;Walk; Ohtani to 2B
+t5;2-2;1;12-;4,(1-2) CSBX;OO;LAA;Hunter Renfroe;Josh Winckowski;12%;57%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 2, Red Sox 2.
+Bottom of the 5th, Red Sox Batting, Tied 2-2, Angels' Jimmy Herget facing 3-4-5 
+b5;2-2;0;---;6,(3-2) SFBBBS;O;BOS;Rob Refsnyder;Jimmy Herget;-3%;54%;Strikeout Swinging
+b5;2-2;1;---;1,(0-0) X;R;BOS;Rafael Devers;Jimmy Herget;14%;68%;Home Run (Line Drive to Deep RF Line)
+b5;3-2;1;---;4,(1-2) CSBX;;BOS;Enrique Hernández;Jimmy Herget;2%;71%;Single to CF (Line Drive to Deep CF)
+b5;3-2;1;1--;3,(1-1) FB>X;O;BOS;Christian Arroyo;Jimmy Herget;-3%;68%;Flyball: RF (Short RF)
+;;;;;;;;;Aaron Loup replaces Jimmy Herget pitching
+b5;3-2;2;1--;3,(0-2) .CFX;O;BOS;Triston Casas;Aaron Loup;-2%;65%;Popfly: 3B (Deep 3B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Angels 2, Red Sox 3.
+Top of the 6th, Angels Batting, Behind 2-3, Red Sox' Josh Winckowski facing 6-7-8 
+t6;2-3;0;---;4,(2-1) CBBX;;LAA;Jake Lamb;Josh Winckowski;-6%;59%;Single to LF (Ground Ball)
+t6;2-3;0;1--;1,(0-0) H;;LAA;Brandon Drury;Josh Winckowski;-9%;51%;Hit By Pitch; Lamb to 2B
+;;;;;;;;;Hit by Pitch Challenged by BOS manager (Alex Cora): Original call upheld upon review.
+t6;2-3;0;12-;4,(1-2) CLBX;OO;LAA;Luis Rengifo;Josh Winckowski;17%;68%;Ground Ball Double Play: SS-1B (Weak SS-2B); Lamb to 3B
+t6;2-3;2;--3;2,(1-0) BX;O;LAA;Logan O'Hoppe;Josh Winckowski;6%;74%;Popfly: 2B (Short CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 2, Red Sox 3.
+Bottom of the 6th, Red Sox Batting, Ahead 3-2, Angels' Aaron Loup facing 8-9-1 
+b6;3-2;0;---;5,(2-2) BCBFH;;BOS;Connor Wong;Aaron Loup;3%;77%;Hit By Pitch
+b6;3-2;0;1--;1,(0-1) AH;;BOS;Yu Chang;Aaron Loup;5%;81%;Hit By Pitch; Wong to 2B
+b6;3-2;0;12-;5,(2-2) CBBCX;O;BOS;Alex Verdugo;Aaron Loup;0%;82%;Groundout: P-1B (Weak 2B-1B); Wong to 3B; Chang to 2B
+b6;3-2;1;-23;8,(1-2) SFBFFFFT;O;BOS;Justin Turner;Aaron Loup;-7%;74%;Strikeout Swinging
+b6;3-2;2;-23;3,(2-0) BBX;R;BOS;Rob Refsnyder;Aaron Loup;10%;84%;Reached on E5 (throw) (Ground Ball); Wong Scores/No RBI/unER; Chang to 3B; Refsnyder to 1B
+b6;4-2;2;1-3;6,(3-2) BBBCF>B;;BOS;Rafael Devers;Aaron Loup;1%;85%;Walk; Refsnyder to 2B
+b6;4-2;2;123;1,(0-0) B;R;BOS;Enrique Hernández;Aaron Loup;6%;91%;Passed Ball; Chang Scores/No RBI/unER; Refsnyder to 3B; Devers to 2B
+b6;5-2;2;-23;5,(1-2) B.CCFX;O;BOS;Enrique Hernández;Aaron Loup;-2%;89%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;2 runs, 0 hits, 1 error, 2 LOB. Angels 2, Red Sox 5.
+Top of the 7th, Angels Batting, Behind 2-5, Red Sox' Josh Winckowski facing 1-2-3 
+t7;2-5;0;---;6,(2-2) FBFFBX;;LAA;Taylor Ward;Josh Winckowski;-4%;84%;Single to LF (Ground Ball thru SS-3B Hole)
+t7;2-5;0;1--;5,(2-2) BFBCX;;LAA;Mike Trout;Josh Winckowski;-12%;72%;Double to LF (Line Drive to Deep LF Line); Ward to 3B
+t7;2-5;0;-23;1,(0-0) X;O;LAA;Shohei Ohtani;Josh Winckowski;7%;79%;Groundout: P-1B (Front of Home)
+t7;2-5;1;-23;4,(1-2) CBS.X;RO;LAA;Anthony Rendon;Josh Winckowski;4%;83%;Groundout: 2B-1B (SS-2B); Ward Scores; Trout to 3B
+t7;3-5;2;--3;3,(1-1) BCX;O;LAA;Hunter Renfroe;Josh Winckowski;5%;88%;Groundout: SS-1B (Deep SS-3B Hole)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Angels 3, Red Sox 5.
+Bottom of the 7th, Red Sox Batting, Ahead 5-3, Angels' Jaime Barria facing 6-7-8 
+;;;;;;;;;Jaime Barria replaces Aaron Loup pitching
+b7;5-3;0;---;1,(0-0) .X;O;BOS;Christian Arroyo;Jaime Barria;-1%;87%;Flyball: RF (Short RF)
+b7;5-3;1;---;6,(3-2) BBFBC.B;;BOS;Triston Casas;Jaime Barria;1%;88%;Walk
+b7;5-3;1;1--;5,(3-2) BBBCFV;;BOS;Connor Wong;Jaime Barria;2%;90%;Walk; Casas to 2B
+b7;5-3;1;12-;2,(1-0) BX;OO;BOS;Yu Chang;Jaime Barria;-4%;85%;Ground Ball Double Play: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 3, Red Sox 5.
+Top of the 8th, Angels Batting, Behind 3-5, Red Sox' John Schreiber facing 6-7-8 
+;;;;;;;;;John Schreiber replaces Josh Winckowski pitching
+t8;3-5;0;---;3,(2-0) .BBX;;LAA;Jake Lamb;John Schreiber;-7%;79%;Single to CF (Ground Ball)
+t8;3-5;0;1--;6,(3-2) BBS.BFS;O;LAA;Brandon Drury;John Schreiber;6%;85%;Strikeout Swinging
+t8;3-5;1;1--;2,(1-0) BX;;LAA;Luis Rengifo;John Schreiber;-7%;78%;Single to LF (Ground Ball); Lamb to 2B
+t8;3-5;1;12-;7,(2-2) SSBFBFS;O;LAA;Logan O'Hoppe;John Schreiber;8%;86%;Strikeout Swinging
+t8;3-5;2;12-;2,(0-1) CX;O;LAA;Taylor Ward;John Schreiber;7%;94%;Lineout: 2B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Angels 3, Red Sox 5.
+Bottom of the 8th, Red Sox Batting, Ahead 5-3, Angels' Jaime Barria facing 1-2-3 
+b8;5-3;0;---;2,(1-0) BX;O;BOS;Alex Verdugo;Jaime Barria;-1%;93%;Flyball: LF (LF Line)
+b8;5-3;1;---;2,(1-0) BX;O;BOS;Justin Turner;Jaime Barria;-1%;92%;Groundout: SS-1B
+b8;5-3;2;---;5,(2-2) CCBBC;O;BOS;Rob Refsnyder;Jaime Barria;0%;92%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 3, Red Sox 5.
+Top of the 9th, Angels Batting, Behind 3-5, Red Sox' Kenley Jansen facing 2-3-4 
+;;;;;;;;;Kenley Jansen replaces John Schreiber pitching
+t9;3-5;0;---;4,(1-2) .BSFS;O;LAA;Mike Trout;Kenley Jansen;4%;96%;Strikeout Swinging
+t9;3-5;1;---;4,(1-2) CBSC;O;LAA;Shohei Ohtani;Kenley Jansen;3%;99%;Strikeout Looking
+t9;3-5;2;---;2,(0-1) CX;;LAA;Anthony Rendon;Kenley Jansen;-3%;96%;Single to CF (Fly Ball)
+t9;3-5;2;1--;3,(0-2) FFS;O;LAA;Hunter Renfroe;Kenley Jansen;4%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 3, Red Sox 5.

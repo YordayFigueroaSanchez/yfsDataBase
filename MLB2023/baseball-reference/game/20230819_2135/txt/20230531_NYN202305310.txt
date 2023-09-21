@@ -1,0 +1,246 @@
+
+Scorebox Meta
+20230531
+7:10 p.m. Local
+39641
+Citi Field
+149
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/PHI-2023.png;/teams/PHI/2023.shtml;0;0;1;0;0;0;0;0;0;1;9;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;2;2;0;0;0;0;X;4;5;0
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;4;0;0;0;0;2;4;.294;.379;.435;.814;15;10;-0.053; 0.53;0.000;-0.053;-0.04%; 0.64; -0.9;3;0;
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;0;0;0;0;0;4;.223;.294;.427;.721;18;10;-0.038; 0.37;0.000;-0.038;-0.03%; 0.45; -0.7;1;5;
+Jeff McNeil;/players/m/mcneije01.shtml;2B;4;0;1;0;0;0;4;.288;.364;.359;.723;13;9;-0.030; 0.36;0.005;-0.035;-0.02%; 0.44; -0.5;1;1;
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;1;1;0;0;0;4;.238;.333;.552;.886;10;7;-0.013; 0.49;0.023;-0.036;-0.01%; 0.59; -0.4;9;0;
+Brett Baty;/players/b/batybr01.shtml;3B;3;1;0;0;1;1;4;.239;.313;.385;.698;18;12;0.006; 0.54;0.032;-0.026; 0.01%; 0.65; -0.1;0;2;
+Starling Marte;/players/m/martest01.shtml;RF;3;0;0;0;0;1;3;.246;.311;.313;.624;17;13;-0.057; 0.81;0.000;-0.057;-0.04%; 0.98; -0.7;0;0;
+Daniel Vogelbach;/players/v/vogelda01.shtml;DH;1;1;0;0;2;0;3;.219;.364;.314;.679;12;3;0.066; 0.94;0.070;-0.004; 0.05%; 1.13; 0.6;;;
+Mark Canha;/players/c/canhama01.shtml;LF;3;1;2;4;0;1;3;.242;.324;.386;.709;17;11;0.338; 1.54;0.344;-0.006; 0.25%; 1.87; 3.0;3;0;HR
+Tomás Nido;/players/n/nidoto01.shtml;C;3;0;1;0;0;1;3;.130;.158;.130;.288;8;6;-0.035; 0.57;0.006;-0.041;-0.03%; 0.69; -0.4;10;1;
+Carlos Carrasco;/players/c/carraca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brooks Raley;/players/r/raleybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Ottavino;/players/o/ottavad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+David Robertson;/players/r/roberda08.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Mark Canha (4, off Aaron Nola, 3rd inn, 1 on, 0 outs to Deep LF-CF).
+
+
+TB: Mark Canha 5; Jeff McNeil; Tomás Nido; Pete Alonso.
+
+
+RBI: Mark Canha 4 (16).
+
+
+2-out RBI: Mark Canha 2.
+
+
+Team LOB: 4.
+With RISP: 1 for 3.
+
+Batting away
+Bryson Stott;/players/s/stottbr01.shtml;2B;5;0;2;0;0;1;5;.290;.325;.403;.728;15;11;-0.008; 0.82;0.057;-0.065;-0.00%; 0.69; -0.2;1;4;
+Trea Turner;/players/t/turnetr01.shtml;SS;4;0;0;0;0;0;4;.236;.280;.371;.651;20;11;-0.098; 1.15;0.000;-0.098;-0.05%; 0.97; -1.0;1;1;
+Bryce Harper;/players/h/harpebr03.shtml;DH;4;0;2;0;0;2;4;.315;.410;.483;.893;11;9;-0.018; 0.78;0.039;-0.057;-0.01%; 0.66; -0.2;;;
+Nick Castellanos;/players/c/casteni01.shtml;RF;4;0;0;0;0;1;4;.290;.338;.453;.791;8;6;-0.099; 0.93;0.000;-0.099;-0.05%; 0.79; -1.0;2;0;
+Kyle Schwarber;/players/s/schwaky01.shtml;LF;3;0;0;0;1;1;4;.163;.318;.395;.712;18;12;-0.038; 0.76;0.022;-0.059;-0.02%; 0.65; -0.4;2;0;
+J.T. Realmuto;/players/r/realmjt01.shtml;C;4;0;0;0;0;2;4;.257;.307;.423;.730;19;12;-0.099; 0.97;0.000;-0.099;-0.05%; 0.82; -1.0;7;0;
+Brandon Marsh;/players/m/marshbr02.shtml;CF;4;0;2;0;0;1;4;.274;.374;.478;.851;12;9;0.008; 0.57;0.045;-0.037; 0.00%; 0.48; 0.1;1;0;2B
+Kody Clemens;/players/c/clemeko01.shtml;1B;3;0;2;0;0;0;4;.268;.333;.479;.812;13;10;0.078; 0.92;0.112;-0.034; 0.04%; 0.78; 0.7;6;0;HBP
+Edmundo Sosa;/players/s/sosaed01.shtml;3B;4;1;1;1;0;2;4;.261;.282;.420;.702;17;12;-0.043; 1.50;0.113;-0.156;-0.02%; 1.27; -0.6;4;0;HR
+Aaron Nola;/players/n/nolaaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Seranthony Domínguez;/players/d/dominse01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andrew Vasquez;/players/v/vasquan02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Brandon Marsh (9, off Carlos Carrasco).
+
+
+HR: Edmundo Sosa (4, off Carlos Carrasco, 3rd inn, 0 on, 0 outs to Deep LF-CF).
+
+
+HBP: Kody Clemens (1, by David Robertson).
+
+
+TB: Edmundo Sosa 4; Brandon Marsh 3; Bryson Stott 2; Bryce Harper 2; Kody Clemens 2.
+
+
+RBI: Edmundo Sosa (12).
+
+
+Team LOB: 9.
+With RISP: 0 for 7.
+
+Pitching home
+Carlos Carrasco;/players/c/carraca01.shtml; W (2-2); 6 ;6;1;1;1;4;1;5.74;24;82;52;32;7;13;9;10;6;0;59;;;0.192; 0.91; 0.14%; 1.10; 2.0
+Brooks Raley;/players/r/raleybr01.shtml; H (12); 1.1;2;0;0;0;3;0;2.95;6;23;18;9;7;2;2;1;1;0;;0;0;0.070; 1.00; 0.05%; 1.22; 0.7
+Adam Ottavino;/players/o/ottavad01.shtml; H (7); 0.2;0;0;0;0;1;0;4.22;2;6;6;4;1;1;0;1;0;0;;0;0;0.020; 0.40; 0.01%; 0.48; 0.3
+David Robertson;/players/r/roberda08.shtml; S (9); 1 ;1;0;0;0;2;0;1.48;5;22;16;6;5;5;1;1;0;0;;0;0;0.034; 1.12; 0.02%; 1.36; 0.5
+
+Pitching away
+Aaron Nola;/players/n/nolaaa01.shtml; L (4-4); 6 ;4;4;4;3;5;1;4.70;25;103;65;37;11;17;4;13;3;0;50;;;-0.204; 0.79;-0.10%; 0.67; -1.0
+Seranthony Domínguez;/players/d/dominse01.shtml;Seranthony Domínguez; 1 ;1;0;0;0;1;0;3.86;4;16;9;6;2;1;1;2;1;0;;0;0;0.013; 0.21; 0.01%; 0.18; 0.5
+Andrew Vasquez;/players/v/vasquan02.shtml;Andrew Vasquez; 1 ;0;0;0;0;0;0;1.42;3;9;7;3;0;4;1;2;1;0;;0;0;0.007; 0.08; 0.00%; 0.07; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: David Robertson (2; Kody Clemens).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: David Robertson (2; Kody Clemens).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Chris Guccione, 1B - Tripp Gibson, 2B - Edwin Jimenez, 3B - Edwin Moscoso, LF - (none), RF - (none).
+Time of Game: 2:29.
+Attendance: 39,641.
+Field Condition: Unknown.
+Start Time Weather: 69° F, Wind 7mph out to Leftfield, Sunny, No Precipitation.
+
+div_lineups
+Phillies
+1;Bryson Stott;/players/s/stottbr01.shtml;2B
+2;Trea Turner;/players/t/turnetr01.shtml;SS
+3;Bryce Harper;/players/h/harpebr03.shtml;DH
+4;Nick Castellanos;/players/c/casteni01.shtml;RF
+5;Kyle Schwarber;/players/s/schwaky01.shtml;LF
+6;J.T. Realmuto;/players/r/realmjt01.shtml;C
+7;Brandon Marsh;/players/m/marshbr02.shtml;CF
+8;Kody Clemens;/players/c/clemeko01.shtml;1B
+9;Edmundo Sosa;/players/s/sosaed01.shtml;3B
+; Aaron Nola;/players/n/nolaaa01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Jeff McNeil;/players/m/mcneije01.shtml;2B
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Brett Baty;/players/b/batybr01.shtml;3B
+6;Starling Marte;/players/m/martest01.shtml;RF
+7;Daniel Vogelbach;/players/v/vogelda01.shtml;DH
+8;Mark Canha;/players/c/canhama01.shtml;LF
+9;Tomás Nido;/players/n/nidoto01.shtml;C
+; Carlos Carrasco;/players/c/carraca01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;0-1;0;1--;4,(2-1) BCBX;RR;NYM;Mark Canha;Aaron Nola;19%;67%;Home Run (Fly Ball to Deep LF-CF); Vogelbach Scores
+b4;2-1;2;123;5,(1-2) CCBFX;RR;NYM;Mark Canha;Aaron Nola;15%;86%;Single to RF (Line Drive to Short CF-RF); Alonso Scores; Baty Scores; Vogelbach to 2B
+t3;0-0;0;---;4,(2-1) BBSX;R;PHI;Edmundo Sosa;Carlos Carrasco;-11%;39%;Home Run (Line Drive to Deep LF-CF)
+t5;1-4;0;1--;6,(3-2) B*BC.BC>X;OO;PHI;Edmundo Sosa;Carlos Carrasco;8%;88%;Double Play: Lineout: SS (Deep SS); Clemens out at 1B/SS-1B
+t9;1-4;1;12-;4,(0-2) SCFS;O;PHI;Edmundo Sosa;David Robertson;5%;97%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Phillies Batting, Tied 0-0, Mets' Carlos Carrasco facing 1-2-3 
+t1;0-0;0;---;4,(2-1) BBCX;O;PHI;Bryson Stott;Carlos Carrasco;2%;52%;Flyball: LF (LF-CF)
+t1;0-0;1;---;6,(3-2) BBFFBX;O;PHI;Trea Turner;Carlos Carrasco;2%;54%;Groundout: SS-1B
+t1;0-0;2;---;1,(0-0) X;;PHI;Bryce Harper;Carlos Carrasco;-1%;53%;Single to CF (Ground Ball thru SS-2B)
+t1;0-0;2;1--;5,(2-2) BFBFC;O;PHI;Nick Castellanos;Carlos Carrasco;2%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Phillies' Aaron Nola facing 1-2-3 
+b1;0-0;0;---;4,(2-1) CBBX;O;NYM;Brandon Nimmo;Aaron Nola;-2%;53%;Foul Popfly: 3B (3B into Foul Terr.)
+b1;0-0;1;---;4,(2-1) BCBX;O;NYM;Francisco Lindor;Aaron Nola;-2%;51%;Popfly: C
+b1;0-0;2;---;1,(0-0) X;O;NYM;Jeff McNeil;Aaron Nola;-1%;50%;Popfly: 3B (Deep SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Mets 0.
+Top of the 2nd, Phillies Batting, Tied 0-0, Mets' Carlos Carrasco facing 5-6-7 
+t2;0-0;0;---;5,(1-2) CFFBX;O;PHI;Kyle Schwarber;Carlos Carrasco;2%;52%;Groundout: 1B unassisted
+t2;0-0;1;---;6,(3-2) BFBBSS;O;PHI;J.T. Realmuto;Carlos Carrasco;2%;54%;Strikeout Swinging
+t2;0-0;2;---;3,(2-0) BBX;;PHI;Brandon Marsh;Carlos Carrasco;-2%;52%;Double to CF (Line Drive to Deep LF-CF)
+t2;0-0;2;-2-;2,(0-1) SX;O;PHI;Kody Clemens;Carlos Carrasco;3%;55%;Flyball: LF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Phillies' Aaron Nola facing 4-5-6 
+b2;0-0;0;---;2,(0-1) CX;O;NYM;Pete Alonso;Aaron Nola;-2%;53%;Popfly: 1B (2B-1B)
+b2;0-0;1;---;5,(1-2) CFFBX;O;NYM;Brett Baty;Aaron Nola;-2%;51%;Foul Popfly: 3B
+b2;0-0;2;---;4,(0-2) FFFX;O;NYM;Starling Marte;Aaron Nola;-1%;50%;Groundout: SS-1B (Deep SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 0, Mets 0.
+Top of the 3rd, Phillies Batting, Tied 0-0, Mets' Carlos Carrasco facing 9-1-2 
+t3;0-0;0;---;4,(2-1) BBSX;R;PHI;Edmundo Sosa;Carlos Carrasco;-11%;39%;Home Run (Line Drive to Deep LF-CF)
+t3;1-0;0;---;2,(0-1) SX;;PHI;Bryson Stott;Carlos Carrasco;-3%;35%;Single to CF (Line Drive to Deep CF)
+t3;1-0;0;1--;3,(1-1) B1F>X;O;PHI;Trea Turner;Carlos Carrasco;2%;37%;Groundout: SS-1B (SS-3B Hole); Stott to 2B
+t3;1-0;1;-2-;3,(0-2) CF*S;O;PHI;Bryce Harper;Carlos Carrasco;3%;40%;Strikeout Swinging
+t3;1-0;2;-2-;1,(0-0) X;O;PHI;Nick Castellanos;Carlos Carrasco;3%;44%;Groundout: C-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Phillies 1, Mets 0.
+Bottom of the 3rd, Mets Batting, Behind 0-1, Phillies' Aaron Nola facing 7-8-9 
+b3;0-1;0;---;4,(3-0) BBBB;;NYM;Daniel Vogelbach;Aaron Nola;4%;48%;Walk
+b3;0-1;0;1--;4,(2-1) BCBX;RR;NYM;Mark Canha;Aaron Nola;19%;67%;Home Run (Fly Ball to Deep LF-CF); Vogelbach Scores
+b3;2-1;0;---;3,(1-1) FBX;O;NYM;Tomás Nido;Aaron Nola;-2%;65%;Flyball: LF (Deep LF-CF)
+b3;2-1;1;---;6,(2-2) SFBBF*S;O;NYM;Brandon Nimmo;Aaron Nola;-1%;63%;Strikeout Swinging
+b3;2-1;2;---;4,(2-1) BBFX;O;NYM;Francisco Lindor;Aaron Nola;-1%;62%;Flyball: RF (RF Line)
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Phillies 1, Mets 2.
+Top of the 4th, Phillies Batting, Behind 1-2, Mets' Carlos Carrasco facing 5-6-7 
+t4;1-2;0;---;3,(1-1) BCX;O;PHI;Kyle Schwarber;Carlos Carrasco;3%;65%;Groundout: 2B-1B
+t4;1-2;1;---;4,(1-2) CSBC;O;PHI;J.T. Realmuto;Carlos Carrasco;2%;67%;Strikeout Looking
+t4;1-2;2;---;1,(0-0) X;O;PHI;Brandon Marsh;Carlos Carrasco;1%;69%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 1, Mets 2.
+Bottom of the 4th, Mets Batting, Ahead 2-1, Phillies' Aaron Nola facing 3-4-5 
+b4;2-1;0;---;3,(1-1) CBX;O;NYM;Jeff McNeil;Aaron Nola;-2%;67%;Flyball: RF (Deep RF Line)
+b4;2-1;1;---;3,(1-1) BCX;;NYM;Pete Alonso;Aaron Nola;2%;69%;Single to LF (Ground Ball thru SS-3B Hole)
+b4;2-1;1;1--;5,(3-1) *BSBBB;;NYM;Brett Baty;Aaron Nola;3%;72%;Walk; Alonso to 2B
+b4;2-1;1;12-;6,(2-2) CS*BBFS;O;NYM;Starling Marte;Aaron Nola;-4%;68%;Strikeout Swinging
+b4;2-1;2;12-;4,(3-0) BBBB;;NYM;Daniel Vogelbach;Aaron Nola;3%;71%;Walk; Alonso to 3B; Baty to 2B
+b4;2-1;2;123;5,(1-2) CCBFX;RR;NYM;Mark Canha;Aaron Nola;15%;86%;Single to RF (Line Drive to Short CF-RF); Alonso Scores; Baty Scores; Vogelbach to 2B
+b4;4-1;2;12-;3,(0-2) SSS;O;NYM;Tomás Nido;Aaron Nola;-2%;84%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 2 LOB. Phillies 1, Mets 4.
+Top of the 5th, Phillies Batting, Behind 1-4, Mets' Carlos Carrasco facing 8-9-1 
+t5;1-4;0;---;3,(1-1) BFX;;PHI;Kody Clemens;Carlos Carrasco;-4%;80%;Single to RF (Line Drive to Deep RF Line)
+t5;1-4;0;1--;6,(3-2) B*BC.BC>X;OO;PHI;Edmundo Sosa;Carlos Carrasco;8%;88%;Double Play: Lineout: SS (Deep SS); Clemens out at 1B/SS-1B
+t5;1-4;2;---;4,(1-2) CFBX;O;PHI;Bryson Stott;Carlos Carrasco;1%;89%;Groundout: SS-1B (Deep SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Phillies 1, Mets 4.
+Bottom of the 5th, Mets Batting, Ahead 4-1, Phillies' Aaron Nola facing 1-2-3 
+b5;4-1;0;---;3,(0-2) CSS;O;NYM;Brandon Nimmo;Aaron Nola;-1%;88%;Strikeout Swinging
+b5;4-1;1;---;6,(2-2) BFBFFX;O;NYM;Francisco Lindor;Aaron Nola;-1%;87%;Lineout: CF (Deep CF-RF)
+b5;4-1;2;---;6,(2-2) CCBBFX;;NYM;Jeff McNeil;Aaron Nola;1%;88%;Single to LF (Line Drive to LF Line)
+b5;4-1;2;1--;2,(1-0) BX;O;NYM;Pete Alonso;Aaron Nola;-1%;87%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 1, Mets 4.
+Top of the 6th, Phillies Batting, Behind 1-4, Mets' Carlos Carrasco facing 2-3-4 
+t6;1-4;0;---;5,(2-2) BCBFX;O;PHI;Trea Turner;Carlos Carrasco;2%;89%;Flyball: LF
+t6;1-4;1;---;2,(1-0) BX;;PHI;Bryce Harper;Carlos Carrasco;-3%;86%;Single to RF (Line Drive)
+t6;1-4;1;1--;1,(0-0) X;O;PHI;Nick Castellanos;Carlos Carrasco;3%;89%;Groundout: SS-2B/Forceout at 2B; Castellanos to 1B
+t6;1-4;2;1--;5,(3-1) BBBCB;;PHI;Kyle Schwarber;Carlos Carrasco;-2%;87%;Walk; Castellanos to 2B
+t6;1-4;2;12-;3,(0-2) CFX;O;PHI;J.T. Realmuto;Carlos Carrasco;4%;91%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Phillies 1, Mets 4.
+Bottom of the 6th, Mets Batting, Ahead 4-1, Phillies' Aaron Nola facing 5-6-7 
+b6;4-1;0;---;5,(1-2) CFFBS;O;NYM;Brett Baty;Aaron Nola;-1%;91%;Strikeout Swinging
+b6;4-1;1;---;7,(2-2) CFBBFFX;O;NYM;Starling Marte;Aaron Nola;-1%;90%;Groundout: 2B-1B (2B-1B)
+b6;4-1;2;---;4,(1-2) CBCX;O;NYM;Daniel Vogelbach;Aaron Nola;0%;90%;Popfly: 3B (Short 3B Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 1, Mets 4.
+Top of the 7th, Phillies Batting, Behind 1-4, Mets' Brooks Raley facing 7-8-9 
+;;;;;;;;;Brooks Raley replaces Carlos Carrasco pitching
+t7;1-4;0;---;3,(0-2) .LCS;O;PHI;Brandon Marsh;Brooks Raley;2%;92%;Strikeout Swinging
+t7;1-4;1;---;5,(1-2) CFFBX;;PHI;Kody Clemens;Brooks Raley;-3%;89%;Single to CF (Line Drive)
+t7;1-4;1;1--;3,(0-2) FF1*S;O;PHI;Edmundo Sosa;Brooks Raley;3%;92%;Strikeout Swinging
+t7;1-4;2;1--;1,(0-0) X;;PHI;Bryson Stott;Brooks Raley;-2%;90%;Single to RF (Ground Ball thru 2B-1B); Clemens to 2B
+t7;1-4;2;12-;6,(3-2) BSBBS>X;O;PHI;Trea Turner;Brooks Raley;4%;94%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Phillies 1, Mets 4.
+Bottom of the 7th, Mets Batting, Ahead 4-1, Phillies' Seranthony Domínguez facing 8-9-1 
+;;;;;;;;;Seranthony Domínguez replaces Aaron Nola pitching
+b7;4-1;0;---;8,(3-2) .BF.CBFBFS;O;NYM;Mark Canha;Seranthony Domínguez;-1%;94%;Strikeout Swinging
+b7;4-1;1;---;2,(1-0) BX;;NYM;Tomás Nido;Seranthony Domínguez;1%;94%;Single to CF (Line Drive)
+b7;4-1;1;1--;2,(1-0) BX;O;NYM;Brandon Nimmo;Seranthony Domínguez;-1%;94%;Popfly: 2B (2B-1B)
+b7;4-1;2;1--;4,(2-1) BBSX;O;NYM;Francisco Lindor;Seranthony Domínguez;-1%;93%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Phillies 1, Mets 4.
+Top of the 8th, Phillies Batting, Behind 1-4, Mets' Brooks Raley facing 3-4-5 
+t8;1-4;0;---;5,(1-2) SSBFS;O;PHI;Bryce Harper;Brooks Raley;2%;95%;Strikeout Swinging
+;;;;;;;;;Adam Ottavino replaces Brooks Raley pitching
+t8;1-4;1;---;1,(0-0) .X;O;PHI;Nick Castellanos;Adam Ottavino;1%;97%;Flyball: CF (Deep CF)
+t8;1-4;2;---;5,(0-2) CFF.FS;O;PHI;Kyle Schwarber;Adam Ottavino;1%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 1, Mets 4.
+Bottom of the 8th, Mets Batting, Ahead 4-1, Phillies' Andrew Vasquez facing 3-4-5 
+;;;;;;;;;Andrew Vasquez replaces Seranthony Domínguez pitching
+b8;4-1;0;---;3,(1-1) .BCX;O;NYM;Jeff McNeil;Andrew Vasquez;0%;97%;Groundout: 2B-1B
+b8;4-1;1;---;3,(1-1) CBX;O;NYM;Pete Alonso;Andrew Vasquez;0%;97%;Lineout: SS (Deep SS-3B Hole)
+b8;4-1;2;---;3,(0-2) CC.X;O;NYM;Brett Baty;Andrew Vasquez;0%;97%;Flyball: LF (LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Phillies 1, Mets 4.
+Top of the 9th, Phillies Batting, Behind 1-4, Mets' David Robertson facing 6-7-8 
+;;;;;;;;;David Robertson replaces Adam Ottavino pitching
+t9;1-4;0;---;6,(3-2) .BBCSBX;O;PHI;J.T. Realmuto;David Robertson;2%;99%;Flyball: CF (Deep CF)
+t9;1-4;1;---;5,(1-2) BSCFX;;PHI;Brandon Marsh;David Robertson;-2%;96%;Single to P (Ground Ball to 2B-1B)
+t9;1-4;1;1--;3,(0-2) CCH;;PHI;Kody Clemens;David Robertson;-5%;92%;Hit By Pitch; Marsh to 2B
+t9;1-4;1;12-;4,(0-2) SCFS;O;PHI;Edmundo Sosa;David Robertson;5%;97%;Strikeout Swinging
+t9;1-4;2;12-;4,(1-2) FBFS;O;PHI;Bryson Stott;David Robertson;3%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Phillies 1, Mets 4.

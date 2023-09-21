@@ -1,0 +1,259 @@
+
+Scorebox Meta
+20230409
+1:10 p.m. Local
+11159
+Tropicana Field
+159
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/OAK-2023.png;/teams/OAK/2023.shtml;0;0;0;0;0;0;0;0;0;0;1;1
+https://cdn.ssref.net/req/202308101/tlogo/br/TBR-2023.png;/teams/TBR/2023.shtml;1;0;0;4;2;2;1;1;X;11;12;0
+
+Batting home
+Brandon Lowe;/players/l/lowebr01.shtml;2B;4;2;2;5;1;1;5;.286;.464;.571;1.036;15;8;0.180; 0.95;0.236;-0.055; 0.12%; 1.08; 3.9;1;1;HR
+Wander Franco;/players/f/francwa01.shtml;SS;4;1;1;1;0;2;4;.351;.400;.757;1.157;19;13;0.082; 0.38;0.105;-0.022; 0.06%; 0.42; 0.7;1;1;HR
+Vidal Bruján;/players/b/brujavi01.shtml;SS;1;0;0;0;0;1;1;.000;.000;.000;.000;4;3;0.000; 0.00;0.000;0.000;0%; 0.00; -0.4;0;1;
+Randy Arozarena;/players/a/arozara01.shtml;LF;5;1;2;1;0;1;5;.371;.463;.629;1.092;17;11;0.019; 0.38;0.037;-0.018; 0.01%; 0.43; 0.1;2;0;SB,GDP
+Luke Raley;/players/r/raleylu01.shtml;1B;2;0;0;0;2;1;5;.235;.391;.765;1.156;21;10;0.004; 0.38;0.027;-0.023; 0.00%; 0.43; 0.1;10;1;CS,HBP
+Isaac Paredes;/players/p/paredis01.shtml;3B;3;2;0;0;1;0;5;.286;.375;.500;.875;26;16;-0.003; 0.51;0.034;-0.038;-0.00%; 0.58; -0.6;0;3;HBP
+Harold Ramírez;/players/r/ramirha02.shtml;DH;4;3;3;2;1;1;5;.286;.348;.762;1.110;26;15;0.040; 0.59;0.077;-0.036; 0.03%; 0.66; 2.6;;;HR,2B
+Josh Lowe;/players/l/lowejo01.shtml;RF;4;0;2;2;1;0;5;.364;.417;.682;1.098;21;10;-0.064; 0.49;0.003;-0.067;-0.04%; 0.56; 1.3;1;0;2B
+Manuel Margot;/players/m/margoma01.shtml;CF;4;0;1;0;1;0;5;.227;.308;.545;.853;19;11;-0.004; 0.47;0.037;-0.041;-0.00%; 0.54; -0.9;2;0;2B
+Christian Bethancourt;/players/b/bethach01.shtml;C;4;2;1;0;0;0;4;.125;.222;.375;.597;13;8;-0.002; 0.68;0.026;-0.028;-0.00%; 0.78; 0.2;9;0;2B
+Drew Rasmussen;/players/r/rasmudr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Ryan Thompson;/players/t/thompry02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jason Adam;/players/a/adamja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Manuel Margot (1, off James Kaprielian); Josh Lowe (4, off James Kaprielian); Christian Bethancourt (1, off Adrián Martinez); Harold Ramírez (1, off Adrián Martinez).
+
+
+HR: Wander Franco (4, off James Kaprielian, 1st inn, 0 on, 1 out to Deep RF Line); Brandon Lowe (2, off James Kaprielian, 4th inn, 3 on, 2 outs to Deep LF); Harold Ramírez (3, off James Kaprielian, 5th inn, 1 on, 2 outs to Deep LF-CF).
+
+
+HBP: Luke Raley (2, by James Kaprielian); Isaac Paredes (2, by James Kaprielian).
+
+
+TB: Harold Ramírez 7; Brandon Lowe 5; Wander Franco 4; Josh Lowe 3; Christian Bethancourt 2; Manuel Margot 2; Randy Arozarena 2.
+
+
+GIDP: Randy Arozarena (1).
+
+
+RBI: Brandon Lowe 5 (8); Josh Lowe 2 (5); Harold Ramírez 2 (4); Randy Arozarena (11); Wander Franco (9).
+
+
+2-out RBI: Brandon Lowe 4; Harold Ramírez 2; Josh Lowe 2.
+
+
+Team LOB: 9.
+With RISP: 4 for 14.
+
+Batting away
+Tony Kemp;/players/k/kempto01.shtml;2B;4;0;0;0;0;2;4;.194;.306;.226;.531;18;12;-0.035; 0.34;0.000;-0.035;-0.02%; 0.27; -0.7;5;1;
+Jace Peterson;/players/p/peterja01.shtml;3B;4;0;0;0;0;1;4;.120;.148;.240;.388;14;11;-0.045; 0.45;0.000;-0.045;-0.02%; 0.35; -0.8;1;1;
+Aledmys Díaz;/players/d/diazal02.shtml;SS;3;0;0;0;0;2;3;.161;.235;.194;.429;12;10;-0.030; 0.41;0.000;-0.030;-0.01%; 0.32; -0.4;0;0;
+Nick Allen;/players/a/allenni02.shtml;SS;0;0;0;0;0;0;0;.000;.000;.000;.000;;;;;;;;;;0;1;
+Jesús Aguilar;/players/a/aguilje01.shtml;DH;3;0;0;0;0;1;3;.222;.300;.370;.670;11;7;-0.038; 0.50;0.000;-0.038;-0.02%; 0.39; -0.4;;;
+Ryan Noda;/players/n/nodary01.shtml;1B;3;0;0;0;0;2;3;.190;.292;.524;.815;14;9;-0.028; 0.38;0.000;-0.028;-0.01%; 0.30; -0.6;2;0;
+Ramón Laureano;/players/l/laurera01.shtml;RF;3;0;1;0;0;0;3;.250;.294;.563;.857;12;9;0.020; 0.48;0.027;-0.007; 0.01%; 0.38; -0.1;1;0;2B,SB
+Shea Langeliers;/players/l/langesh01.shtml;C;3;0;0;0;0;0;3;.214;.267;.321;.588;5;4;-0.042; 0.52;0.000;-0.042;-0.02%; 0.41; -0.6;7;1;
+Carlos Pérez;/players/p/perezca02.shtml;C;0;0;0;0;0;0;0;.400;.400;.400;.800;;;;;;;;;;0;0;
+Conner Capel;/players/c/capelco01.shtml;LF;2;0;0;0;1;1;3;.273;.385;.273;.657;16;9;-0.030; 0.39;0.000;-0.030;-0.01%; 0.31; -0.1;3;0;
+Esteury Ruiz;/players/r/ruizes01.shtml;CF;3;0;0;0;0;0;3;.207;.324;.310;.634;10;7;-0.020; 0.27;0.000;-0.020;-0.01%; 0.21; -0.7;4;0;
+James Kaprielian;/players/k/kaprija01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dany Jiménez;/players/j/jimenda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor May;/players/m/maytr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adrián Martinez;/players/m/martiad01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Ramón Laureano (4, off Drew Rasmussen).
+
+
+TB: Ramón Laureano 2.
+
+
+Team LOB: 2.
+With RISP: 0 for 1.
+
+Pitching home
+Drew Rasmussen;/players/r/rasmudr01.shtml; W (2-0); 7 ;1;0;0;0;8;0;0.00;22;83;61;30;13;18;7;7;2;0;83;;;0.247; 0.54; 0.17%; 0.61; 3.4
+Ryan Thompson;/players/t/thompry02.shtml;Ryan Thompson; 1 ;0;0;0;0;0;0;0.00;3;7;6;4;0;2;2;1;1;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+Jason Adam;/players/a/adamja01.shtml;Jason Adam; 1 ;0;0;0;1;1;0;2.70;4;22;11;7;0;4;0;2;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+Pitching away
+James Kaprielian;/players/k/kaprija01.shtml; L (0-1); 4.2;7;7;7;3;6;3;11.17;26;106;69;45;9;15;5;10;1;0;25;;;-0.250; 0.84;-0.12%; 0.67; -5.0
+Dany Jiménez;/players/j/jimenda01.shtml;Dany Jiménez; 0.1;0;0;0;0;0;0;0.00;1;7;4;4;0;0;0;1;1;0;;2;0;0.002; 0.07; 0.00%; 0.06; 0.4
+Trevor May;/players/m/maytr01.shtml;Trevor May; 0.2;1;2;2;4;0;0;7.36;7;31;13;6;3;4;1;2;0;0;;0;0;-0.005; 0.02;-0.00%; 0.02; -2.3
+Adrián Martinez;/players/m/martiad01.shtml;Adrián Martinez; 2.1;4;2;2;0;1;0;4.91;10;37;21;14;2;5;1;8;5;0;;3;0;0.000; 0.00; 0.00%; 0.00; -0.3
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: James Kaprielian 2 (2; Luke Raley, Isaac Paredes).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: James Kaprielian 2 (2; Luke Raley, Isaac Paredes).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Hunter Wendelstedt, 1B - John Tumpane, 2B - Ryan Blakney, 3B - Marvin Hudson, LF - (none), RF - (none).
+Time of Game: 2:39.
+Attendance: 11,159.
+Start Time Weather: 72° F, Wind 0mph, In Dome.
+
+div_lineups
+Athletics
+1;Tony Kemp;/players/k/kempto01.shtml;2B
+2;Jace Peterson;/players/p/peterja01.shtml;3B
+3;Aledmys Díaz;/players/d/diazal02.shtml;SS
+4;Jesús Aguilar;/players/a/aguilje01.shtml;DH
+5;Ryan Noda;/players/n/nodary01.shtml;1B
+6;Ramón Laureano;/players/l/laurera01.shtml;RF
+7;Shea Langeliers;/players/l/langesh01.shtml;C
+8;Conner Capel;/players/c/capelco01.shtml;LF
+9;Esteury Ruiz;/players/r/ruizes01.shtml;CF
+; James Kaprielian;/players/k/kaprija01.shtml;P
+Rays
+1;Brandon Lowe;/players/l/lowebr01.shtml;2B
+2;Wander Franco;/players/f/francwa01.shtml;SS
+3;Randy Arozarena;/players/a/arozara01.shtml;LF
+4;Luke Raley;/players/r/raleylu01.shtml;1B
+5;Isaac Paredes;/players/p/paredis01.shtml;3B
+6;Harold Ramírez;/players/r/ramirha02.shtml;DH
+7;Josh Lowe;/players/l/lowejo01.shtml;RF
+8;Manuel Margot;/players/m/margoma01.shtml;CF
+9;Christian Bethancourt;/players/b/bethach01.shtml;C
+; Drew Rasmussen;/players/r/rasmudr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b4;1-0;2;123;1,(0-0) X;RRRR;TBR;Brandon Lowe;James Kaprielian;23%;94%;Home Run (Fly Ball to Deep LF); Paredes Scores; Ramírez Scores; Bethancourt Scores
+b1;0-0;1;---;7,(3-2) BBFSBFX;R;TBR;Wander Franco;James Kaprielian;10%;63%;Home Run (Fly Ball to Deep RF Line)
+b4;1-0;0;1--;6,(2-2) BBSFFX;;TBR;Harold Ramírez;James Kaprielian;5%;77%;Single to 3B (Ground Ball to SS-3B Hole); Paredes to 2B
+b4;1-0;0;12-;4,(2-1) FB2BX;O;TBR;Josh Lowe;James Kaprielian;-5%;72%;Popfly: 2B (Deep 2B-1B)
+b4;1-0;1;12-;2,(0-1) CX;O;TBR;Manuel Margot;James Kaprielian;-4%;68%;Flyball: CF (Deep CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Athletics Batting, Tied 0-0, Rays' Drew Rasmussen facing 1-2-3 
+t1;0-0;0;---;5,(2-2) CS.BBX;O;OAK;Tony Kemp;Drew Rasmussen;2%;52%;Groundout: 1B-P
+t1;0-0;1;---;3,(0-2) CFX;O;OAK;Jace Peterson;Drew Rasmussen;2%;54%;Groundout: SS-1B (Weak SS-2B)
+t1;0-0;2;---;3,(0-2) SFX;O;OAK;Aledmys Díaz;Drew Rasmussen;1%;55%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Rays 0.
+Bottom of the 1st, Rays Batting, Tied 0-0, Athletics' James Kaprielian facing 1-2-3 
+b1;0-0;0;---;4,(1-2) BFSX;O;TBR;Brandon Lowe;James Kaprielian;-2%;53%;Flyball: CF (Deep CF)
+b1;0-0;1;---;7,(3-2) BBFSBFX;R;TBR;Wander Franco;James Kaprielian;10%;63%;Home Run (Fly Ball to Deep RF Line)
+b1;1-0;1;---;5,(3-1) BCBBX;;TBR;Randy Arozarena;James Kaprielian;2%;65%;Single to RF (Ground Ball)
+b1;1-0;1;1--;4,(2-1) BC1B>B;;TBR;Luke Raley;James Kaprielian;1%;66%;Arozarena Steals 2B
+b1;1-0;1;-2-;6,(3-2) BC1B>B.FB;;TBR;Luke Raley;James Kaprielian;2%;68%;Walk
+b1;1-0;1;12-;3,(0-2) CFX;O;TBR;Isaac Paredes;James Kaprielian;-4%;64%;Flyball: CF (CF-RF)
+b1;1-0;2;12-;8,(3-2) BBSCFF*B>S;O;TBR;Harold Ramírez;James Kaprielian;-4%;61%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Athletics 0, Rays 1.
+Top of the 2nd, Athletics Batting, Behind 0-1, Rays' Drew Rasmussen facing 4-5-6 
+t2;0-1;0;---;3,(1-1) BFX;O;OAK;Jesús Aguilar;Drew Rasmussen;2%;63%;Lineout: LF (LF-CF)
+t2;0-1;1;---;6,(2-2) SF.BBFC;O;OAK;Ryan Noda;Drew Rasmussen;2%;65%;Strikeout Looking
+t2;0-1;2;---;5,(2-2) CBFBX;;OAK;Ramón Laureano;Drew Rasmussen;-2%;62%;Double to RF (Line Drive to RF Line)
+t2;0-1;2;-2-;1,(0-0) >B;;OAK;Shea Langeliers;Drew Rasmussen;0%;62%;Laureano Steals 3B
+;;;;;;;;;Tag play Challenged by OAK manager (Mark Kotsay): Original call overturned as shown.
+t2;0-1;2;--3;2,(1-0) >B.X;O;OAK;Shea Langeliers;Drew Rasmussen;4%;66%;Popfly: SS (Weak SS)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 0, Rays 1.
+Bottom of the 2nd, Rays Batting, Ahead 1-0, Athletics' James Kaprielian facing 7-8-9 
+b2;1-0;0;---;3,(1-1) BFX;O;TBR;Josh Lowe;James Kaprielian;-2%;64%;Foul Popfly: 3B
+b2;1-0;1;---;6,(1-2) FSFFBX;;TBR;Manuel Margot;James Kaprielian;4%;68%;Double to RF (Ground Ball)
+b2;1-0;1;-2-;3,(1-1) BFX;O;TBR;Christian Bethancourt;James Kaprielian;-3%;65%;Flyball: CF (Deep CF); Margot to 3B
+b2;1-0;2;--3;3,(0-2) FFC;O;TBR;Brandon Lowe;James Kaprielian;-3%;62%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 0, Rays 1.
+Top of the 3rd, Athletics Batting, Behind 0-1, Rays' Drew Rasmussen facing 8-9-1 
+t3;0-1;0;---;6,(3-2) CBBFB.S;O;OAK;Conner Capel;Drew Rasmussen;3%;64%;Strikeout Swinging
+t3;0-1;1;---;4,(0-2) SFFX;O;OAK;Esteury Ruiz;Drew Rasmussen;2%;66%;Popfly: 1B (Deep 1B)
+t3;0-1;2;---;3,(0-2) CFS;O;OAK;Tony Kemp;Drew Rasmussen;1%;67%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Rays 1.
+Bottom of the 3rd, Rays Batting, Ahead 1-0, Athletics' James Kaprielian facing 2-3-4 
+b3;1-0;0;---;6,(2-2) BCCBFS;O;TBR;Wander Franco;James Kaprielian;-2%;65%;Strikeout Swinging
+b3;1-0;1;---;4,(0-2) FCFT;O;TBR;Randy Arozarena;James Kaprielian;-1%;64%;Strikeout Swinging
+b3;1-0;2;---;2,(0-1) FH;;TBR;Luke Raley;James Kaprielian;1%;65%;Hit By Pitch
+b3;1-0;2;1--;3,(0-2) CC1>B;O;TBR;Isaac Paredes;James Kaprielian;-2%;63%;Raley Caught Stealing 2B (C-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Rays 1.
+Top of the 4th, Athletics Batting, Behind 0-1, Rays' Drew Rasmussen facing 2-3-4 
+t4;0-1;0;---;3,(0-2) CSC;O;OAK;Jace Peterson;Drew Rasmussen;3%;66%;Strikeout Looking
+t4;0-1;1;---;3,(0-2) FFS;O;OAK;Aledmys Díaz;Drew Rasmussen;2%;68%;Strikeout Swinging
+t4;0-1;2;---;3,(1-1) CBX;O;OAK;Jesús Aguilar;Drew Rasmussen;1%;69%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Rays 1.
+Bottom of the 4th, Rays Batting, Ahead 1-0, Athletics' James Kaprielian facing 5-6-7 
+b4;1-0;0;---;1,(0-0) H;;TBR;Isaac Paredes;James Kaprielian;3%;72%;Hit By Pitch
+b4;1-0;0;1--;6,(2-2) BBSFFX;;TBR;Harold Ramírez;James Kaprielian;5%;77%;Single to 3B (Ground Ball to SS-3B Hole); Paredes to 2B
+b4;1-0;0;12-;4,(2-1) FB2BX;O;TBR;Josh Lowe;James Kaprielian;-5%;72%;Popfly: 2B (Deep 2B-1B)
+b4;1-0;1;12-;2,(0-1) CX;O;TBR;Manuel Margot;James Kaprielian;-4%;68%;Flyball: CF (Deep CF)
+b4;1-0;2;12-;1,(0-0) X;;TBR;Christian Bethancourt;James Kaprielian;3%;71%;Fielder's Choice SS; Paredes to 3B; Ramírez to 2B; Bethancourt to 1B
+b4;1-0;2;123;1,(0-0) X;RRRR;TBR;Brandon Lowe;James Kaprielian;23%;94%;Home Run (Fly Ball to Deep LF); Paredes Scores; Ramírez Scores; Bethancourt Scores
+b4;5-0;2;---;3,(0-2) FF.C;O;TBR;Wander Franco;James Kaprielian;0%;94%;Strikeout Looking
+;;;;;;;;;4 runs, 2 hits, 0 errors, 0 LOB. Athletics 0, Rays 5.
+Top of the 5th, Athletics Batting, Behind 0-5, Rays' Drew Rasmussen facing 5-6-7 
+t5;0-5;0;---;5,(2-2) BBSC.C;O;OAK;Ryan Noda;Drew Rasmussen;1%;95%;Strikeout Looking
+t5;0-5;1;---;5,(1-2) CS.FBX;O;OAK;Ramón Laureano;Drew Rasmussen;1%;96%;Flyball: CF (Short CF-RF)
+t5;0-5;2;---;1,(0-0) X;O;OAK;Shea Langeliers;Drew Rasmussen;0%;96%;Popfly: 2B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Rays 5.
+Bottom of the 5th, Rays Batting, Ahead 5-0, Athletics' James Kaprielian facing 3-4-5 
+b5;5-0;0;---;2,(0-1) CX;O;TBR;Randy Arozarena;James Kaprielian;0%;96%;Groundout: 3B-1B
+b5;5-0;1;---;3,(0-2) FFS;O;TBR;Luke Raley;James Kaprielian;0%;96%;Strikeout Swinging
+b5;5-0;2;---;7,(3-2) BBFFBFB;;TBR;Isaac Paredes;James Kaprielian;0%;96%;Walk
+b5;5-0;2;1--;3,(1-1) SBX;RR;TBR;Harold Ramírez;James Kaprielian;3%;99%;Home Run (Fly Ball to Deep LF-CF); Paredes Scores
+b5;7-0;2;---;5,(2-2) CFBBX;;TBR;Josh Lowe;James Kaprielian;0%;99%;Double to RF (Line Drive to Deep RF Line)
+b5;7-0;2;-2-;5,(3-1) BBBCB;;TBR;Manuel Margot;James Kaprielian;0%;99%;Walk
+;;;;;;;;;Dany Jiménez replaces James Kaprielian pitching
+b5;7-0;2;12-;7,(3-2) .B*BFBF>F>X;O;TBR;Christian Bethancourt;Dany Jiménez;0%;99%;Lineout: LF (Deep LF-CF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 2 LOB. Athletics 0, Rays 7.
+Top of the 6th, Athletics Batting, Behind 0-7, Rays' Drew Rasmussen facing 8-9-1 
+t6;0-7;0;---;3,(0-2) CFX;O;OAK;Conner Capel;Drew Rasmussen;0%;99%;Groundout: 2B-1B (2B-1B)
+t6;0-7;1;---;3,(1-1) CBX;O;OAK;Esteury Ruiz;Drew Rasmussen;0%;99%;Groundout: 3B-1B
+t6;0-7;2;---;3,(1-1) BCX;O;OAK;Tony Kemp;Drew Rasmussen;0%;99%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Rays 7.
+Bottom of the 6th, Rays Batting, Ahead 7-0, Athletics' Trevor May facing 1-2-3 
+;;;;;;;;;Trevor May replaces Dany Jiménez pitching
+b6;7-0;0;---;4,(3-0) .BBBB;;TBR;Brandon Lowe;Trevor May;0%;99%;Walk
+b6;7-0;0;1--;3,(1-1) SBX;O;TBR;Wander Franco;Trevor May;0%;100%;Popfly: 2B (Deep SS-2B); Lowe to 3B/Adv on E4 (throw)
+b6;7-0;1;--3;2,(1-0) BX;R;TBR;Randy Arozarena;Trevor May;0%;100%;Single to LF (Ground Ball thru SS-3B Hole); Lowe Scores
+b6;8-0;1;1--;6,(3-2) BBFSBB;;TBR;Luke Raley;Trevor May;0%;100%;Walk; Arozarena to 2B
+b6;8-0;1;12-;4,(0-2) CCF.X;O;TBR;Isaac Paredes;Trevor May;0%;100%;Popfly: 2B (2B-1B)
+b6;8-0;2;12-;7,(3-2) SBBCB>F>B;;TBR;Harold Ramírez;Trevor May;0%;100%;Walk; Arozarena to 3B; Raley to 2B
+b6;8-0;2;123;5,(3-1) B*BBCB;R;TBR;Josh Lowe;Trevor May;0%;100%;Walk; Arozarena Scores; Raley to 3B; Ramírez to 2B
+;;;;;;;;;Adrián Martinez replaces Trevor May pitching
+b6;9-0;2;123;3,(1-1) .BCX;O;TBR;Manuel Margot;Adrián Martinez;0%;100%;Lineout: P (P's Left)
+;;;;;;;;;2 runs, 1 hit, 1 error, 3 LOB. Athletics 0, Rays 9.
+Top of the 7th, Athletics Batting, Behind 0-9, Rays' Drew Rasmussen facing 2-3-4 
+;;;;;;;;;Vidal Bruján replaces Wander Franco playing SS batting 2nd
+t7;0-9;0;---;3,(1-1) .BCX;O;OAK;Jace Peterson;Drew Rasmussen;0%;100%;Groundout: 1B unassisted
+t7;0-9;1;---;6,(2-2) BFCBFS;O;OAK;Aledmys Díaz;Drew Rasmussen;0%;100%;Strikeout Swinging
+t7;0-9;2;---;5,(2-2) CBBSS;O;OAK;Jesús Aguilar;Drew Rasmussen;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Rays 9.
+Bottom of the 7th, Rays Batting, Ahead 9-0, Athletics' Adrián Martinez facing 9-1-2 
+;;;;;;;;;Nick Allen replaces Aledmys Díaz playing SS batting 3rd
+b7;9-0;0;---;2,(1-0) .BX;;TBR;Christian Bethancourt;Adrián Martinez;0%;100%;Double to CF (Line Drive to Deep CF)
+b7;9-0;0;-2-;3,(2-0) BBX;R;TBR;Brandon Lowe;Adrián Martinez;0%;100%;Single to RF (Line Drive); Bethancourt Scores
+b7;10-0;0;1--;4,(1-2) BSCS;O;TBR;Vidal Bruján;Adrián Martinez;0%;100%;Strikeout Swinging
+b7;10-0;1;1--;4,(2-1) BBCX;OO;TBR;Randy Arozarena;Adrián Martinez;0%;100%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Athletics 0, Rays 10.
+Top of the 8th, Athletics Batting, Behind 0-10, Rays' Ryan Thompson facing 5-6-7 
+;;;;;;;;;Ryan Thompson replaces Drew Rasmussen pitching
+t8;0-10;0;---;3,(1-1) .FBX;O;OAK;Ryan Noda;Ryan Thompson;0%;100%;Groundout: 1B unassisted
+t8;0-10;1;---;2,(0-1) CX;O;OAK;Ramón Laureano;Ryan Thompson;0%;100%;Lineout: LF (Deep LF-CF)
+t8;0-10;2;---;2,(0-1) CX;O;OAK;Shea Langeliers;Ryan Thompson;0%;100%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Rays 10.
+Bottom of the 8th, Rays Batting, Ahead 10-0, Athletics' Adrián Martinez facing 4-5-6 
+;;;;;;;;;Carlos Pérez replaces Shea Langeliers playing C batting 7th
+b8;10-0;0;---;4,(2-1) .BCBX;O;TBR;Luke Raley;Adrián Martinez;0%;100%;Flyball: LF
+b8;10-0;1;---;8,(2-2) CFFBBF.FX;O;TBR;Isaac Paredes;Adrián Martinez;0%;100%;Flyball: RF (Short RF Line)
+b8;10-0;2;---;2,(1-0) BX;;TBR;Harold Ramírez;Adrián Martinez;0%;100%;Double to LF (Line Drive to Deep LF Line)
+b8;10-0;2;-2-;4,(2-1) BFBX;R;TBR;Josh Lowe;Adrián Martinez;0%;100%;Single to CF (Line Drive to CF-RF); Ramírez Scores
+b8;11-0;2;1--;3,(2-0) BBX;O;TBR;Manuel Margot;Adrián Martinez;0%;100%;Flyball: LF
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Athletics 0, Rays 11.
+Top of the 9th, Athletics Batting, Behind 0-11, Rays' Jason Adam facing 8-9-1 
+;;;;;;;;;Jason Adam replaces Ryan Thompson pitching
+t9;0-11;0;---;7,(3-2) .BFBFFBB;;OAK;Conner Capel;Jason Adam;0%;100%;Walk
+t9;0-11;0;1--;3,(2-0) BBX;O;OAK;Esteury Ruiz;Jason Adam;0%;100%;Foul Popfly: 1B
+t9;0-11;1;1--;7,(3-2) BBCBC.FC;O;OAK;Tony Kemp;Jason Adam;0%;100%;Strikeout Looking
+t9;0-11;2;1--;5,(2-2) FCBBX;O;OAK;Jace Peterson;Jason Adam;0%;100%;Flyball: RF (CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Athletics 0, Rays 11.

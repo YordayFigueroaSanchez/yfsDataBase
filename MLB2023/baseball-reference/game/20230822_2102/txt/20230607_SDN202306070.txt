@@ -1,0 +1,284 @@
+
+Scorebox Meta
+20230607
+1:10 p.m. Local
+35490
+Petco Park
+166
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/SEA-2023.png;/teams/SEA/2023.shtml;0;0;0;0;0;0;0;3;0;3;4;1
+https://cdn.ssref.net/req/202308101/tlogo/br/SDP-2023.png;/teams/SDP/2023.shtml;0;1;3;1;3;0;2;0;X;10;17;0
+
+Batting home
+Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF;4;1;1;1;0;0;5;.257;.306;.492;.797;11;7;-0.026; 0.30;0.010;-0.036;-0.01%; 0.20; 0.1;2;0;SB,HBP
+Juan Soto;/players/s/sotoju01.shtml;LF;5;1;5;4;0;0;5;.265;.422;.483;.905;22;14;0.080; 0.33;0.080;0.000; 0.03%; 0.21; 3.9;2;0;2B
+Brandon Dixon;/players/d/dixonbr01.shtml;PR-LF;0;0;0;0;0;0;0;.208;.259;.313;.572;;;;;;;;;;0;0;
+Manny Machado;/players/m/machama01.shtml;3B;5;1;2;0;0;0;5;.235;.287;.363;.650;12;9;-0.030; 0.41;0.021;-0.051;-0.01%; 0.26; -0.9;2;1;GDP
+Gary Sánchez;/players/s/sanchga02.shtml;C;5;2;2;3;0;2;5;.286;.333;.686;1.019;28;17;0.276; 0.55;0.284;-0.008; 0.11%; 0.36; 2.4;8;0;HR,2B
+Jake Cronenworth;/players/c/croneja01.shtml;2B;4;1;3;0;0;0;5;.208;.322;.356;.678;20;15;0.002; 0.29;0.016;-0.014; 0.00%; 0.19; 0.9;0;2;SH
+Matt Carpenter;/players/c/carpema01.shtml;DH;4;1;2;1;1;1;5;.192;.303;.362;.665;19;14;0.084; 0.45;0.085;0.000; 0.03%; 0.29; 1.2;;;SB
+Ha-Seong Kim;/players/k/kimha01.shtml;SS;5;1;1;0;0;3;5;.240;.335;.372;.706;18;12;-0.048; 0.32;0.000;-0.048;-0.02%; 0.21; -0.7;1;1;
+Alfonso Rivas;/players/r/rivasal01.shtml;1B;4;1;1;1;0;1;4;.286;.375;.429;.804;15;11;-0.026; 0.38;0.010;-0.036;-0.01%; 0.25; -0.1;5;2;
+Trent Grisham;/players/g/grishtr01.shtml;CF;3;1;0;0;1;1;4;.190;.317;.348;.664;23;14;-0.030; 0.30;0.000;-0.031;-0.01%; 0.19; -0.7;5;0;
+Michael Wacha;/players/w/wachami01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tim Hill;/players/h/hillti01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Drew Carlton;/players/c/carltdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Josh Hader;/players/h/haderjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Gary Sánchez (2, off George Kirby); Juan Soto (16, off Chris Flexen).
+
+
+HR: Gary Sánchez (4, off George Kirby, 3rd inn, 2 on, 2 outs to Deep LF-CF).
+
+
+SH: Jake Cronenworth (1, off George Kirby).
+
+
+HBP: Fernando Tatis Jr. (1, by Tayler Saucedo).
+
+
+TB: Gary Sánchez 6; Juan Soto 6; Jake Cronenworth 3; Manny Machado 2; Matt Carpenter 2; Fernando Tatis Jr.; Ha-Seong Kim; Alfonso Rivas.
+
+
+GIDP: Manny Machado (10).
+
+
+RBI: Juan Soto 4 (31); Gary Sánchez 3 (10); Matt Carpenter (26); Alfonso Rivas (1); Fernando Tatis Jr. (29).
+
+
+2-out RBI: Juan Soto 4; Gary Sánchez 3.
+
+
+Team LOB: 9.
+With RISP: 6 for 14.
+
+Batting away
+J.P. Crawford;/players/c/crawfjp01.shtml;SS;3;0;0;0;0;2;3;.240;.345;.340;.685;13;8;-0.042; 0.56;0.000;-0.042;-0.02%; 0.36; -0.6;1;2;
+José Caballero;/players/c/cabaljo01.shtml;SS;0;0;0;1;0;0;1;.250;.393;.369;.762;1;0;0.004; 0.12;0.004;0.000; 0.00%; 0.08; 1.0;0;2;HBP
+Julio Rodríguez;/players/r/rodriju01.shtml;CF;4;0;1;1;0;0;4;.246;.303;.439;.742;6;6;-0.021; 0.33;0.007;-0.028;-0.01%; 0.21; 0.6;1;0;
+Ty France;/players/f/francty01.shtml;1B;4;0;1;0;0;0;4;.272;.341;.417;.758;16;10;-0.007; 0.35;0.022;-0.029;-0.00%; 0.23; -1.1;8;0;2B,GDP
+Cal Raleigh;/players/r/raleica01.shtml;C;4;0;0;0;0;1;4;.216;.293;.411;.703;9;7;-0.045; 0.41;0.000;-0.045;-0.02%; 0.27; -1.1;8;0;
+Teoscar Hernández;/players/h/hernate01.shtml;RF;3;0;0;0;1;1;4;.243;.283;.417;.700;17;11;0.030; 0.31;0.038;-0.008; 0.01%; 0.20; -0.1;2;0;
+Jarred Kelenic;/players/k/kelenja01.shtml;LF;4;0;2;0;0;1;4;.269;.330;.491;.821;13;10;-0.006; 0.50;0.029;-0.036;-0.00%; 0.33; 0.4;2;0;2B
+Eugenio Suárez;/players/s/suareeu01.shtml;3B;2;0;0;0;0;1;2;.210;.310;.321;.632;9;6;-0.051; 0.99;0.000;-0.051;-0.02%; 0.64; -0.7;0;2;
+Dylan Moore;/players/m/mooredy01.shtml;3B;0;1;0;0;2;0;2;;1.000;;;12;4;0.002; 0.03;0.002;0.000; 0.00%; 0.02; 0.8;1;0;
+Mike Ford;/players/f/fordmi01.shtml;DH;2;1;0;0;1;0;3;.100;.182;.100;.282;18;11;-0.039; 0.49;0.001;-0.040;-0.01%; 0.31; 0.1;;;
+AJ Pollock;/players/p/polloaj01.shtml;PH-DH;1;0;0;0;0;0;1;.160;.229;.319;.548;2;2;-0.002; 0.06;0.000;-0.002;-0.00%; 0.04; -0.5;;;
+Kolten Wong;/players/w/wongko01.shtml;2B;3;1;0;0;1;2;4;.153;.246;.178;.424;21;11;-0.039; 0.39;0.001;-0.040;-0.01%; 0.25; -0.2;1;2;
+George Kirby;/players/k/kirbyge01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matt Brash;/players/b/brashma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tayler Saucedo;/players/s/sauceta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matt Festa;/players/f/festama01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chris Flexen;/players/f/flexech01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ty France (19, off Michael Wacha); Jarred Kelenic (15, off Michael Wacha).
+
+
+HBP: José Caballero (7, by Drew Carlton).
+
+
+TB: Jarred Kelenic 3; Ty France 2; Julio Rodríguez.
+
+
+GIDP: Ty France (10).
+
+
+RBI: José Caballero (13); Julio Rodríguez (34).
+
+
+Team LOB: 6.
+With RISP: 1 for 9.
+
+Pitching home
+Michael Wacha;/players/w/wachami01.shtml; W (6-2); 6 ;2;0;0;1;7;0;3.18;21;82;54;26;12;16;2;11;4;0;74;;;0.215; 0.65; 0.08%; 0.42; 3.0
+Tim Hill;/players/h/hillti01.shtml;Tim Hill; 1 ;0;0;0;0;1;0;3.46;3;10;8;6;1;1;0;2;0;0;;0;0;0.003; 0.03; 0.00%; 0.02; 0.5
+Drew Carlton;/players/c/carltdr01.shtml;Drew Carlton; 1 ;1;3;3;3;0;0;4.26;7;26;12;7;1;4;3;0;0;0;;0;0;-0.001; 0.10; 0.00%; 0.07; -2.5
+Josh Hader;/players/h/haderjo01.shtml;Josh Hader; 1 ;1;0;0;1;0;0;1.54;5;19;12;8;2;2;3;1;0;0;;0;0;0.001; 0.03; 0.00%; 0.02; 0.5
+
+Pitching away
+George Kirby;/players/k/kirbyge01.shtml; L (5-5); 3.2;11;5;5;0;3;1;3.50;21;86;63;40;10;13;11;7;3;0;22;;;-0.260; 0.67;-0.10%; 0.43; -3.5
+Matt Brash;/players/b/brashma01.shtml;Matt Brash; 0.2;1;2;2;1;2;0;4.88;4;19;10;3;4;3;1;0;0;0;;2;0;-0.004; 0.22;-0.00%; 0.14; -0.5
+Tayler Saucedo;/players/s/sauceta01.shtml;Tayler Saucedo; 0.1;2;1;1;0;1;0;3.77;4;15;8;4;3;1;0;2;2;0;;2;2;-0.019; 0.17;-0.01%; 0.11; -2.1
+Matt Festa;/players/f/festama01.shtml;Matt Festa; 1.1;0;0;0;0;2;0;5.40;4;16;11;4;2;5;1;1;0;0;;2;0;0.002; 0.01; 0.00%; 0.01; 1.0
+Chris Flexen;/players/f/flexech01.shtml;Chris Flexen; 2 ;3;2;2;1;0;0;7.23;10;32;21;13;4;4;3;6;3;0;;0;0;-0.001; 0.00; 0.00%; 0.00; -1.0
+
+indiv_events
+
+Balks: None.
+WP: Matt Brash (5); Chris Flexen (1).
+HBP: Tayler Saucedo (1; Fernando Tatis Jr.); Drew Carlton (1; José Caballero).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Matt Brash (5); Chris Flexen (1).
+HBP: Tayler Saucedo (1; Fernando Tatis Jr.); Drew Carlton (1; José Caballero).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Tony Randazzo, 1B - Jeremy Riggs, 2B - Brian Knight, 3B - Alex Tosi, LF - (none), RF - (none).
+Time of Game: 2:46.
+Attendance: 35,490.
+Field Condition: Unknown.
+Start Time Weather: 66° F, Wind 9mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Mariners
+1;J.P. Crawford;/players/c/crawfjp01.shtml;SS
+2;Julio Rodríguez;/players/r/rodriju01.shtml;CF
+3;Ty France;/players/f/francty01.shtml;1B
+4;Cal Raleigh;/players/r/raleica01.shtml;C
+5;Teoscar Hernández;/players/h/hernate01.shtml;RF
+6;Jarred Kelenic;/players/k/kelenja01.shtml;LF
+7;Eugenio Suárez;/players/s/suareeu01.shtml;3B
+8;Mike Ford;/players/f/fordmi01.shtml;DH
+9;Kolten Wong;/players/w/wongko01.shtml;2B
+; George Kirby;/players/k/kirbyge01.shtml;P
+Padres
+1;Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF
+2;Juan Soto;/players/s/sotoju01.shtml;LF
+3;Manny Machado;/players/m/machama01.shtml;3B
+4;Gary Sánchez;/players/s/sanchga02.shtml;C
+5;Jake Cronenworth;/players/c/croneja01.shtml;2B
+6;Matt Carpenter;/players/c/carpema01.shtml;DH
+7;Ha-Seong Kim;/players/k/kimha01.shtml;SS
+8;Alfonso Rivas;/players/r/rivasal01.shtml;1B
+9;Trent Grisham;/players/g/grishtr01.shtml;CF
+; Michael Wacha;/players/w/wachami01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;1-0;2;12-;2,(0-1) CX;RRR;SDP;Gary Sánchez;George Kirby;22%;89%;Home Run (Fly Ball to Deep LF-CF); Soto Scores; Machado Scores
+b2;0-0;0;---;9,(3-2) BBCT.FBFFX;;SDP;Gary Sánchez;George Kirby;6%;61%;Double to LF (Fly Ball to Short LF Line)
+b2;0-0;1;--3;3,(0-2) FSX;R;SDP;Matt Carpenter;George Kirby;6%;66%;Single to RF (Ground Ball thru 2B-1B); Sánchez Scores
+b1;0-0;1;1--;2,(0-1) FX;OO;SDP;Manny Machado;George Kirby;-5%;50%;Ground Ball Double Play: 2B-SS-1B
+t2;0-0;0;---;7,(3-2) CFBBF.BB;;SEA;Teoscar Hernández;Michael Wacha;-4%;46%;Walk
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Mariners Batting, Tied 0-0, Padres' Michael Wacha facing 1-2-3 
+t1;0-0;0;---;4,(2-1) CBBX;O;SEA;J.P. Crawford;Michael Wacha;2%;52%;Lineout: CF (Deep CF)
+t1;0-0;1;---;2,(0-1) SX;O;SEA;Julio Rodríguez;Michael Wacha;2%;54%;Groundout: 3B-1B
+t1;0-0;2;---;4,(2-1) BBFX;;SEA;Ty France;Michael Wacha;-2%;52%;Double to LF (Line Drive to LF Line)
+t1;0-0;2;-2-;1,(0-0) X;O;SEA;Cal Raleigh;Michael Wacha;3%;55%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mariners 0, Padres 0.
+Bottom of the 1st, Padres Batting, Tied 0-0, Mariners' George Kirby facing 1-2-3 
+b1;0-0;0;---;1,(0-0) X;O;SDP;Fernando Tatis Jr.;George Kirby;-2%;53%;Lineout: LF (Deep LF-CF)
+b1;0-0;1;---;3,(0-2) CFX;;SDP;Juan Soto;George Kirby;2%;55%;Single to 2B (Ground Ball to 2B-1B)
+b1;0-0;1;1--;2,(0-1) FX;OO;SDP;Manny Machado;George Kirby;-5%;50%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Mariners 0, Padres 0.
+Top of the 2nd, Mariners Batting, Tied 0-0, Padres' Michael Wacha facing 5-6-7 
+t2;0-0;0;---;7,(3-2) CFBBF.BB;;SEA;Teoscar Hernández;Michael Wacha;-4%;46%;Walk
+t2;0-0;0;1--;4,(1-2) SCBC;O;SEA;Jarred Kelenic;Michael Wacha;4%;50%;Strikeout Looking
+t2;0-0;1;1--;3,(1-1) BFX;O;SEA;Eugenio Suárez;Michael Wacha;3%;53%;Lineout: CF (Deep LF-CF)
+t2;0-0;2;1--;6,(2-2) B*BCFFX;O;SEA;Mike Ford;Michael Wacha;2%;55%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mariners 0, Padres 0.
+Bottom of the 2nd, Padres Batting, Tied 0-0, Mariners' George Kirby facing 4-5-6 
+b2;0-0;0;---;9,(3-2) BBCT.FBFFX;;SDP;Gary Sánchez;George Kirby;6%;61%;Double to LF (Fly Ball to Short LF Line)
+b2;0-0;0;-2-;1,(0-0) X;O;SDP;Jake Cronenworth;George Kirby;-1%;60%;Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Sánchez to 3B
+b2;0-0;1;--3;3,(0-2) FSX;R;SDP;Matt Carpenter;George Kirby;6%;66%;Single to RF (Ground Ball thru 2B-1B); Sánchez Scores
+b2;1-0;1;1--;6,(3-2) BCBSBS;O;SDP;Ha-Seong Kim;George Kirby;-2%;64%;Strikeout Swinging
+b2;1-0;2;1--;3,(0-2) SS>B;;SDP;Alfonso Rivas;George Kirby;1%;64%;Carpenter Steals 2B
+b2;1-0;2;-2-;5,(1-2) SS>B.FS;O;SDP;Alfonso Rivas;George Kirby;-3%;62%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Mariners 0, Padres 1.
+Top of the 3rd, Mariners Batting, Behind 0-1, Padres' Michael Wacha facing 9-1-2 
+t3;0-1;0;---;5,(2-2) CBBFS;O;SEA;Kolten Wong;Michael Wacha;3%;64%;Strikeout Swinging
+t3;0-1;1;---;6,(3-2) BBCBS.S;O;SEA;J.P. Crawford;Michael Wacha;2%;66%;Strikeout Swinging
+t3;0-1;2;---;2,(0-1) S.X;O;SEA;Julio Rodríguez;Michael Wacha;1%;67%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 0, Padres 1.
+Bottom of the 3rd, Padres Batting, Ahead 1-0, Mariners' George Kirby facing 9-1-2 
+b3;1-0;0;---;7,(2-2) BFS.BFFX;O;SDP;Trent Grisham;George Kirby;-2%;65%;Flyball: RF (Deep CF-RF)
+b3;1-0;1;---;1,(0-0) X;O;SDP;Fernando Tatis Jr.;George Kirby;-1%;64%;Groundout: SS-1B
+b3;1-0;2;---;7,(3-2) CCBBBF.X;;SDP;Juan Soto;George Kirby;1%;65%;Single to LF (Ground Ball)
+b3;1-0;2;1--;2,(0-1) CX;;SDP;Manny Machado;George Kirby;2%;67%;Single to CF (Ground Ball thru SS-2B); Soto to 2B
+b3;1-0;2;12-;2,(0-1) CX;RRR;SDP;Gary Sánchez;George Kirby;22%;89%;Home Run (Fly Ball to Deep LF-CF); Soto Scores; Machado Scores
+b3;4-0;2;---;10,(3-2) CBCFF.FFBBX;;SDP;Jake Cronenworth;George Kirby;0%;89%;Single to SS (Ground Ball)
+b3;4-0;2;1--;4,(0-2) CF1FX;;SDP;Matt Carpenter;George Kirby;1%;90%;Single to 2B (Ground Ball to 2B-1B); Cronenworth to 3B
+b3;4-0;2;1-3;4,(1-2) FBSS;O;SDP;Ha-Seong Kim;George Kirby;-2%;88%;Strikeout Swinging
+;;;;;;;;;3 runs, 5 hits, 0 errors, 2 LOB. Mariners 0, Padres 4.
+Top of the 4th, Mariners Batting, Behind 0-4, Padres' Michael Wacha facing 3-4-5 
+t4;0-4;0;---;5,(2-2) BCBFX;O;SEA;Ty France;Michael Wacha;2%;90%;Foul Popfly: 3B (3B into Foul Terr.)
+t4;0-4;1;---;3,(1-1) CBX;O;SEA;Cal Raleigh;Michael Wacha;1%;91%;Foul Popfly: 3B
+t4;0-4;2;---;5,(2-2) BBCSC;O;SEA;Teoscar Hernández;Michael Wacha;1%;92%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 0, Padres 4.
+Bottom of the 4th, Padres Batting, Ahead 4-0, Mariners' George Kirby facing 8-9-1 
+b4;4-0;0;---;3,(1-1) BCX;O;SDP;Alfonso Rivas;George Kirby;-1%;91%;Groundout: 2B-1B (2B-1B)
+b4;4-0;1;---;6,(3-2) BBFBFX;O;SDP;Trent Grisham;George Kirby;0%;91%;Flyball: CF (Deep CF)
+b4;4-0;2;---;2,(0-1) FX;;SDP;Fernando Tatis Jr.;George Kirby;0%;91%;Single to LF (Line Drive to Short LF-CF)
+b4;4-0;2;1--;3,(0-2) C1S1>B;;SDP;Juan Soto;George Kirby;1%;91%;Tatís Steals 2B; Tatís to 3B/Adv on E2 (throw)
+b4;4-0;2;--3;5,(2-2) C1S1>B.BX;R;SDP;Juan Soto;George Kirby;3%;95%;Single to LF (Ground Ball); Tatís Scores
+b4;5-0;2;1--;3,(1-1) CBX;;SDP;Manny Machado;George Kirby;0%;95%;Single to LF (Line Drive to LF-CF); Soto to 2B
+;;;;;;;;;Matt Brash replaces George Kirby pitching
+b4;5-0;2;12-;5,(2-2) .CBBFS;O;SDP;Gary Sánchez;Matt Brash;-1%;94%;Strikeout Swinging
+;;;;;;;;;1 run, 3 hits, 1 error, 2 LOB. Mariners 0, Padres 5.
+Top of the 5th, Mariners Batting, Behind 0-5, Padres' Michael Wacha facing 6-7-8 
+t5;0-5;0;---;1,(0-0) X;;SEA;Jarred Kelenic;Michael Wacha;-3%;91%;Double to RF (Line Drive to Deep 1B)
+t5;0-5;0;-2-;6,(2-2) BBCFFS;O;SEA;Eugenio Suárez;Michael Wacha;2%;93%;Strikeout Swinging
+t5;0-5;1;-2-;4,(1-2) CC*BX;O;SEA;Mike Ford;Michael Wacha;2%;95%;Groundout: 1B unassisted; Kelenic to 3B
+t5;0-5;2;--3;6,(2-2) CBFFBS;O;SEA;Kolten Wong;Michael Wacha;1%;96%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mariners 0, Padres 5.
+Bottom of the 5th, Padres Batting, Ahead 5-0, Mariners' Matt Brash facing 5-6-7 
+b5;5-0;0;---;3,(1-1) BCX;;SDP;Jake Cronenworth;Matt Brash;0%;97%;Single to LF (Ground Ball thru SS-3B Hole)
+b5;5-0;0;1--;6,(3-2) CFB*B*B>B;;SDP;Matt Carpenter;Matt Brash;1%;97%;Walk; Cronenworth to 2B
+b5;5-0;0;12-;4,(1-2) SS.BB;;SDP;Ha-Seong Kim;Matt Brash;1%;98%;Wild Pitch; Cronenworth to 3B; Carpenter to 2B
+b5;5-0;0;-23;5,(2-2) SS.BB.S;O;SDP;Ha-Seong Kim;Matt Brash;-1%;98%;Strikeout Swinging
+;;;;;;;;;Tayler Saucedo replaces Matt Brash pitching
+b5;5-0;1;-23;4,(2-1) .BBLX;R;SDP;Alfonso Rivas;Tayler Saucedo;1%;99%;Single to LF (Line Drive to Short LF); Cronenworth Scores; Carpenter to 3B
+b5;6-0;1;1-3;3,(0-2) CSS;O;SDP;Trent Grisham;Tayler Saucedo;-1%;98%;Strikeout Swinging
+b5;6-0;2;1-3;5,(2-2) SBBFH;;SDP;Fernando Tatis Jr.;Tayler Saucedo;0%;98%;Hit By Pitch; Rivas to 2B
+b5;6-0;2;123;3,(2-0) BBX;RR;SDP;Juan Soto;Tayler Saucedo;1%;99%;Single to RF (Line Drive to Short RF); Carpenter Scores; Rivas Scores; Tatís to 3B
+;;;;;;;;;Matt Festa replaces Tayler Saucedo pitching
+b5;8-0;2;1-3;1,(0-0) .X;O;SDP;Manny Machado;Matt Festa;0%;99%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;3 runs, 3 hits, 0 errors, 2 LOB. Mariners 0, Padres 8.
+Top of the 6th, Mariners Batting, Behind 0-8, Padres' Michael Wacha facing 1-2-3 
+t6;0-8;0;---;3,(0-2) CS.S;O;SEA;J.P. Crawford;Michael Wacha;0%;100%;Strikeout Swinging
+t6;0-8;1;---;1,(0-0) X;O;SEA;Julio Rodríguez;Michael Wacha;0%;100%;Flyball: LF (Deep LF)
+t6;0-8;2;---;4,(1-2) BFSX;O;SEA;Ty France;Michael Wacha;0%;100%;Flyball: LF (Short LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 0, Padres 8.
+Bottom of the 6th, Padres Batting, Ahead 8-0, Mariners' Matt Festa facing 4-5-6 
+b6;8-0;0;---;6,(3-2) BBCBF.C;O;SDP;Gary Sánchez;Matt Festa;0%;100%;Strikeout Looking
+b6;8-0;1;---;4,(1-2) BCC.X;O;SDP;Jake Cronenworth;Matt Festa;0%;100%;Flyball: RF (Short CF-RF)
+b6;8-0;2;---;5,(1-2) BCSFS;O;SDP;Matt Carpenter;Matt Festa;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 0, Padres 8.
+Top of the 7th, Mariners Batting, Behind 0-8, Padres' Tim Hill facing 4-5-6 
+;;;;;;;;;Tim Hill replaces Michael Wacha pitching
+t7;0-8;0;---;4,(1-2) .BFFS;O;SEA;Cal Raleigh;Tim Hill;0%;100%;Strikeout Swinging
+t7;0-8;1;---;2,(0-1) CX;O;SEA;Teoscar Hernández;Tim Hill;0%;100%;Flyball: RF (Deep RF)
+t7;0-8;2;---;4,(1-2) F.FBX;O;SEA;Jarred Kelenic;Tim Hill;0%;100%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 0, Padres 8.
+Bottom of the 7th, Padres Batting, Ahead 8-0, Mariners' Chris Flexen facing 7-8-9 
+;;;;;;;;;Chris Flexen replaces Matt Festa pitchingDylan Moore replaces Eugenio Suárez playing 3B batting 7thJosé Caballero replaces J.P. Crawford playing SS batting 1st
+b7;8-0;0;---;1,(0-0) ...X;;SDP;Ha-Seong Kim;Chris Flexen;0%;100%;Single to LF (Line Drive to Short LF)
+b7;8-0;0;1--;3,(0-2) CS.X;O;SDP;Alfonso Rivas;Chris Flexen;0%;100%;Flyball: LF (Short LF)
+b7;8-0;1;1--;7,(3-2) BSBFFB*B;;SDP;Trent Grisham;Chris Flexen;0%;100%;Walk; Kim to 2B
+b7;8-0;1;12-;1,(0-0) B;;SDP;Fernando Tatis Jr.;Chris Flexen;0%;100%;Wild Pitch; Kim to 3B; Grisham to 2B
+b7;8-0;1;-23;2,(1-0) B.X;RO;SDP;Fernando Tatis Jr.;Chris Flexen;0%;100%;Groundout: SS-1B; Kim Scores; Grisham to 3B
+b7;9-0;2;--3;4,(1-2) SF*BX;R;SDP;Juan Soto;Chris Flexen;0%;100%;Double to CF (Line Drive to Deep CF); Grisham Scores
+;;;;;;;;;Brandon Dixon pinch runs for Juan Soto (LF) batting 2nd
+b7;10-0;2;-2-;4,(2-1) .BFBX;O;SDP;Manny Machado;Chris Flexen;0%;100%;Popfly: 2B
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Mariners 0, Padres 10.
+Top of the 8th, Mariners Batting, Behind 0-10, Padres' Drew Carlton facing 7-8-9 
+;;;;;;;;;Drew Carlton replaces Tim Hill pitchingBrandon Dixon moves from PR to LF 
+t8;0-10;0;---;6,(3-2) ..CBBBCB;;SEA;Dylan Moore;Drew Carlton;0%;100%;Walk
+t8;0-10;0;1--;8,(3-2) FCB*BFFBB;;SEA;Mike Ford;Drew Carlton;0%;100%;Walk; Moore to 2B
+t8;0-10;0;12-;6,(3-2) SBFBB*B;;SEA;Kolten Wong;Drew Carlton;0%;100%;Walk; Moore to 3B; Ford to 2B
+t8;0-10;0;123;1,(0-0) H;R;SEA;José Caballero;Drew Carlton;0%;99%;Hit By Pitch; Moore Scores; Ford to 3B; Wong to 2B
+t8;1-10;0;123;1,(0-0) X;R;SEA;Julio Rodríguez;Drew Carlton;-1%;99%;Single to 2B (Ground Ball to Weak SS-2B); Ford Scores; Wong to 3B; Caballero to 2B
+t8;2-10;0;123;3,(1-1) CBX;ROO;SEA;Ty France;Drew Carlton;1%;100%;Ground Ball Double Play: 1B-SS-P (2B-1B); Wong Scores/No RBI; Caballero to 3B
+t8;3-10;2;--3;1,(0-0) X;O;SEA;Cal Raleigh;Drew Carlton;0%;100%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;3 runs, 1 hit, 0 errors, 1 LOB. Mariners 3, Padres 10.
+Bottom of the 8th, Padres Batting, Ahead 10-3, Mariners' Chris Flexen facing 4-5-6 
+b8;10-3;0;---;6,(3-2) CB.SBBX;O;SDP;Gary Sánchez;Chris Flexen;0%;100%;Lineout: 3B (Deep 3B)
+b8;10-3;1;---;2,(0-1) CX;;SDP;Jake Cronenworth;Chris Flexen;0%;100%;Single to 3B (Ground Ball to Weak 3B)
+b8;10-3;1;1--;1,(0-0) X;O;SDP;Matt Carpenter;Chris Flexen;0%;100%;Foul Popfly: 1B (1B into Foul Terr.)
+b8;10-3;2;1--;2,(0-1) CX;O;SDP;Ha-Seong Kim;Chris Flexen;0%;100%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mariners 3, Padres 10.
+Top of the 9th, Mariners Batting, Behind 3-10, Padres' Josh Hader facing 5-6-7 
+;;;;;;;;;Josh Hader replaces Drew Carlton pitching
+t9;3-10;0;---;3,(0-2) .CFX;O;SEA;Teoscar Hernández;Josh Hader;0%;100%;Groundout: 2B-1B (SS-2B)
+t9;3-10;1;---;4,(1-2) FBSX;;SEA;Jarred Kelenic;Josh Hader;0%;100%;Single to RF (Ground Ball thru 2B-1B)
+t9;3-10;1;1--;6,(3-2) FF*BBBB;;SEA;Dylan Moore;Josh Hader;0%;100%;Walk; Kelenic to 2B
+;;;;;;;;;AJ Pollock pinch hits for Mike Ford (DH) batting 8th
+t9;3-10;1;12-;2,(0-1) .SX;O;SEA;AJ Pollock;Josh Hader;0%;100%;Popfly: 1B
+t9;3-10;2;12-;4,(2-1) BBCX;O;SEA;Kolten Wong;Josh Hader;0%;100%;Groundout: 1B-P
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Mariners 3, Padres 10.

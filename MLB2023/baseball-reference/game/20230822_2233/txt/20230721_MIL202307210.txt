@@ -1,0 +1,264 @@
+
+Scorebox Meta
+20230721
+7:10 p.m. Local
+37698
+American Family Field
+152
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/ATL-2023.png;/teams/ATL/2023.shtml;0;3;2;0;1;0;0;0;0;6;6;0
+https://cdn.ssref.net/req/202308101/tlogo/br/MIL-2023.png;/teams/MIL/2023.shtml;2;0;0;0;0;2;0;0;0;4;6;0
+
+Batting home
+Christian Yelich;/players/y/yelicch01.shtml;LF;4;1;1;0;0;1;4;.284;.372;.472;.844;16;9;-0.102; 1.52;0.058;-0.160;-0.08%; 2.10; -0.9;3;0;2B,GDP
+William Contreras;/players/c/contrwi02.shtml;C;4;2;2;1;0;1;4;.277;.354;.450;.804;13;9;0.064; 1.09;0.124;-0.060; 0.05%; 1.51; 0.9;11;0;2B
+Willy Adames;/players/a/adamewi01.shtml;SS;4;1;1;2;0;2;4;.211;.292;.410;.701;11;9;0.053; 0.96;0.129;-0.076; 0.04%; 1.33; 0.8;1;4;HR
+Jesse Winker;/players/w/winkeje01.shtml;DH;4;0;1;1;0;1;4;.198;.318;.247;.565;14;10;-0.067; 1.32;0.043;-0.110;-0.06%; 1.84; -0.3;;;
+Victor Caratini;/players/c/caratvi01.shtml;1B;4;0;0;0;0;2;4;.240;.336;.364;.699;14;10;-0.081; 0.80;0.000;-0.081;-0.07%; 1.11; -0.6;6;1;
+Andruw Monasterio;/players/m/monasan01.shtml;3B;3;0;0;0;1;0;4;.291;.378;.392;.770;22;11;-0.018; 0.83;0.033;-0.051;-0.01%; 1.16; -0.2;0;1;
+Brice Turang;/players/t/turanbr02.shtml;2B;3;0;1;0;1;1;4;.203;.272;.302;.573;22;13;0.020; 1.19;0.078;-0.058; 0.02%; 1.66; 0.1;1;0;
+Blake Perkins;/players/p/perkibl01.shtml;RF-CF;2;0;0;0;2;2;4;.210;.307;.310;.617;27;14;-0.002; 1.63;0.104;-0.105;-0.00%; 2.26; 0.3;3;0;
+Joey Wiemer;/players/w/wiemejo01.shtml;CF;1;0;0;0;1;0;2;.207;.292;.386;.678;8;4;-0.015; 1.50;0.039;-0.054;-0.01%; 2.08; -0.2;0;0;
+Raimel Tapia;/players/t/tapiara01.shtml;PH-RF;1;0;0;0;0;0;1;.230;.308;.338;.646;2;2;-0.091; 2.09;0.000;-0.091;-0.07%; 2.90; -0.5;1;0;GDP
+Freddy Peralta;/players/p/peralfr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Bryse Wilson;/players/w/wilsobr02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+J.C. Mejía;/players/m/mejiaje02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Christian Yelich (23, off Michael Soroka); William Contreras (18, off Michael Soroka).
+
+
+HR: Willy Adames (17, off Michael Soroka, 6th inn, 1 on, 0 outs to Deep LF-CF).
+
+
+TB: Willy Adames 4; William Contreras 3; Christian Yelich 2; Brice Turang; Jesse Winker.
+
+
+GIDP: Christian Yelich (8); Raimel Tapia (2).
+
+
+RBI: Willy Adames 2 (48); Jesse Winker (23); William Contreras (37).
+
+
+Team LOB: 4.
+With RISP: 2 for 6.
+
+Batting away
+Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF;5;0;0;0;0;1;5;.328;.406;.579;.985;17;11;-0.073; 0.54;0.000;-0.073;-0.02%; 0.28; -1.0;1;0;
+Ozzie Albies;/players/a/albieoz01.shtml;2B;3;1;0;0;1;1;4;.259;.319;.501;.820;16;7;-0.011; 0.65;0.034;-0.045;-0.00%; 0.34; -0.3;1;5;
+Austin Riley;/players/r/rileyau01.shtml;3B;4;2;2;2;0;1;4;.270;.332;.486;.817;18;10;0.138; 0.66;0.161;-0.022; 0.04%; 0.35; 1.6;0;1;HR
+Matt Olson;/players/o/olsonma02.shtml;1B;3;1;1;0;1;1;4;.258;.364;.582;.946;18;9;0.062; 0.61;0.084;-0.023; 0.02%; 0.33; 0.9;9;1;2B
+Sean Murphy;/players/m/murphse01.shtml;C;3;1;1;0;0;1;4;.290;.386;.563;.949;13;9;0.071; 0.81;0.095;-0.024; 0.02%; 0.43; 0.7;10;0;HBP
+Marcell Ozuna;/players/o/ozunama01.shtml;DH;3;0;0;2;0;1;4;.234;.309;.451;.760;15;11;-0.040; 0.94;0.011;-0.051;-0.01%; 0.50; -0.7;;;SF
+Eddie Rosario;/players/r/rosared01.shtml;LF;4;0;0;0;0;3;4;.247;.298;.470;.768;16;12;-0.071; 0.69;0.000;-0.071;-0.02%; 0.36; -1.2;2;0;
+Orlando Arcia;/players/a/arciaor01.shtml;SS;3;1;1;2;1;1;4;.291;.345;.448;.793;24;11;0.196; 0.46;0.211;-0.015; 0.06%; 0.24; 1.6;3;2;HR
+Michael Harris II;/players/h/harrimi04.shtml;CF;4;0;1;0;0;1;4;.268;.316;.441;.757;14;10;-0.010; 0.39;0.012;-0.022;-0.00%; 0.20; -0.4;1;1;
+Michael Soroka;/players/s/sorokmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ben Heller;/players/h/hellebe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joe Jiménez;/players/j/jimenjo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kirby Yates;/players/y/yateski01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Matt Olson (19, off Freddy Peralta).
+
+
+HR: Orlando Arcia (10, off Freddy Peralta, 2nd inn, 1 on, 2 outs to Deep LF-CF); Austin Riley (21, off Freddy Peralta, 3rd inn, 1 on, 0 outs to Deep RF).
+
+
+SF: Marcell Ozuna (2, off Freddy Peralta).
+
+
+HBP: Sean Murphy (9, by Freddy Peralta).
+
+
+TB: Austin Riley 5; Orlando Arcia 4; Matt Olson 2; Sean Murphy; Michael Harris II.
+
+
+RBI: Marcell Ozuna 2 (43); Orlando Arcia 2 (34); Austin Riley 2 (58).
+
+
+2-out RBI: Orlando Arcia 2.
+
+
+Team LOB: 4.
+With RISP: 0 for 3.
+
+Pitching home
+Freddy Peralta;/players/p/peralfr01.shtml; L (6-8); 5 ;6;6;6;3;5;2;4.72;25;97;53;30;13;10;7;9;3;0;33;;;-0.364; 0.78;-0.30%; 1.08; -3.4
+Bryse Wilson;/players/w/wilsobr02.shtml;Bryse Wilson; 3 ;0;0;0;0;5;0;2.51;9;37;27;13;6;8;0;4;1;0;;0;0;0.084; 0.36; 0.07%; 0.51; 1.6
+J.C. Mejía;/players/m/mejiaje02.shtml;J.C. Mejía; 1 ;0;0;0;0;1;0;5.40;3;17;10;5;1;4;2;0;0;0;;0;0;0.019; 0.24; 0.02%; 0.34; 0.5
+
+Pitching away
+Michael Soroka;/players/s/sorokmi01.shtml; W (2-1); 6 ;6;4;4;2;4;1;5.52;24;87;52;28;11;13;6;12;6;0;46;;;-0.035; 1.01;-0.01%; 0.54; -0.9
+Ben Heller;/players/h/hellebe01.shtml; H (3); 1 ;0;0;0;1;1;0;2.77;3;13;8;5;1;2;1;0;0;0;;0;0;0.084; 1.58; 0.03%; 0.83; 0.5
+Joe Jiménez;/players/j/jimenjo02.shtml; H (8); 1 ;0;0;0;0;2;0;2.94;3;17;11;3;6;2;0;1;1;0;;0;0;0.093; 1.20; 0.03%; 0.63; 0.5
+Kirby Yates;/players/y/yateski01.shtml; S (2); 1 ;0;0;0;2;3;0;3.38;5;32;20;11;5;4;0;0;0;0;;0;0;0.096; 1.77; 0.03%; 0.94; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Freddy Peralta (6; Sean Murphy).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Freddy Peralta (6; Sean Murphy).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Mark Wegner, 1B - Malachi Moore, 2B - Bruce Dreckman, 3B - Stu Scheurwater, LF - (none), RF - (none).
+Time of Game: 2:32.
+Attendance: 37,698.
+Field Condition: Unknown.
+Start Time Weather: 79° F, Wind 6mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Braves
+1;Ronald Acuna Jr.;/players/a/acunaro01.shtml;RF
+2;Ozzie Albies;/players/a/albieoz01.shtml;2B
+3;Austin Riley;/players/r/rileyau01.shtml;3B
+4;Matt Olson;/players/o/olsonma02.shtml;1B
+5;Sean Murphy;/players/m/murphse01.shtml;C
+6;Marcell Ozuna;/players/o/ozunama01.shtml;DH
+7;Eddie Rosario;/players/r/rosared01.shtml;LF
+8;Orlando Arcia;/players/a/arciaor01.shtml;SS
+9;Michael Harris II;/players/h/harrimi04.shtml;CF
+; Michael Soroka;/players/s/sorokmi01.shtml;P
+Brewers
+1;Christian Yelich;/players/y/yelicch01.shtml;LF
+2;William Contreras;/players/c/contrwi02.shtml;C
+3;Willy Adames;/players/a/adamewi01.shtml;SS
+4;Jesse Winker;/players/w/winkeje01.shtml;DH
+5;Victor Caratini;/players/c/caratvi01.shtml;1B
+6;Andruw Monasterio;/players/m/monasan01.shtml;3B
+7;Brice Turang;/players/t/turanbr02.shtml;2B
+8;Blake Perkins;/players/p/perkibl01.shtml;RF
+9;Joey Wiemer;/players/w/wiemejo01.shtml;CF
+; Freddy Peralta;/players/p/peralfr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;1-2;2;1--;6,(3-2) FCB*BBX;RR;ATL;Orlando Arcia;Freddy Peralta;20%;57%;Home Run (Fly Ball to Deep LF-CF); Murphy Scores
+t3;3-2;0;1--;3,(2-0) BBX;RR;ATL;Austin Riley;Freddy Peralta;15%;79%;Home Run (Fly Ball to Deep RF); Albies Scores
+b6;2-6;0;1--;2,(0-1) SX;RR;MIL;Willy Adames;Michael Soroka;-13%;74%;Home Run (Fly Ball to Deep LF-CF); Contreras Scores
+b9;4-6;2;12-;11,(2-2) CB*BFFFFFFF.C;O;MIL;Blake Perkins;Kirby Yates;9%;100%;Strikeout Looking
+t2;0-2;0;1--;7,(3-2) FBFBFBX;;ATL;Sean Murphy;Freddy Peralta;9%;43%;Single to RF (Line Drive to Short RF Line); Olson to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Braves Batting, Tied 0-0, Brewers' Freddy Peralta facing 1-2-3 
+t1;0-0;0;---;3,(1-1) SBX;O;ATL;Ronald Acuna Jr.;Freddy Peralta;-2%;48%;Groundout: SS-1B
+t1;0-0;1;---;3,(2-0) BBX;O;ATL;Ozzie Albies;Freddy Peralta;-2%;46%;Groundout: 1B-P (Weak 1B)
+t1;0-0;2;---;3,(2-0) BBX;O;ATL;Austin Riley;Freddy Peralta;-1%;45%;Popfly: SS (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Brewers 0.
+Bottom of the 1st, Brewers Batting, Tied 0-0, Braves' Michael Soroka facing 1-2-3 
+b1;0-0;0;---;4,(2-1) CBBX;;MIL;Christian Yelich;Michael Soroka;-6%;39%;Double to CF (Line Drive to Short LF-CF)
+b1;0-0;0;-2-;1,(0-0) X;R;MIL;William Contreras;Michael Soroka;-9%;30%;Double to CF (Line Drive to Deep CF); Yelich Scores
+b1;1-0;0;-2-;4,(1-2) SBSS;O;MIL;Willy Adames;Michael Soroka;4%;34%;Strikeout Swinging
+b1;1-0;1;-2-;2,(0-1) CX;RO;MIL;Jesse Winker;Michael Soroka;-4%;30%;Single to CF (Line Drive to LF-CF); Contreras Scores; Winker out at 2B/CF-1B-2B
+b1;2-0;2;---;1,(0-0) X;O;MIL;Victor Caratini;Michael Soroka;1%;30%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 0 LOB. Braves 0, Brewers 2.
+Top of the 2nd, Braves Batting, Behind 0-2, Brewers' Freddy Peralta facing 4-5-6 
+t2;0-2;0;---;5,(3-1) CBBBB;;ATL;Matt Olson;Freddy Peralta;4%;34%;Walk
+t2;0-2;0;1--;7,(3-2) FBFBFBX;;ATL;Sean Murphy;Freddy Peralta;9%;43%;Single to RF (Line Drive to Short RF Line); Olson to 3B
+t2;0-2;0;1-3;1,(0-0) X;RO;ATL;Marcell Ozuna;Freddy Peralta;-3%;40%;Flyball: RF/Sacrifice Fly (Deep CF-RF); Olson Scores
+t2;1-2;1;1--;3,(0-2) CSS;O;ATL;Eddie Rosario;Freddy Peralta;-3%;37%;Strikeout Swinging
+t2;1-2;2;1--;6,(3-2) FCB*BBX;RR;ATL;Orlando Arcia;Freddy Peralta;20%;57%;Home Run (Fly Ball to Deep LF-CF); Murphy Scores
+t2;3-2;2;---;2,(1-0) BX;;ATL;Michael Harris II;Freddy Peralta;1%;58%;Single to RF (Line Drive)
+t2;3-2;2;1--;5,(2-2) SF*BBS;O;ATL;Ronald Acuna Jr.;Freddy Peralta;-2%;56%;Strikeout Swinging
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Braves 3, Brewers 2.
+Bottom of the 2nd, Brewers Batting, Behind 2-3, Braves' Michael Soroka facing 6-7-8 
+b2;2-3;0;---;8,(3-2) BCFBFFBX;O;MIL;Andruw Monasterio;Michael Soroka;3%;58%;Lineout: CF (Deep CF)
+b2;2-3;1;---;5,(2-2) BSBF.X;O;MIL;Brice Turang;Michael Soroka;2%;60%;Groundout: 2B-1B
+b2;2-3;2;---;6,(3-2) BFSBBS;O;MIL;Blake Perkins;Michael Soroka;1%;61%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 3, Brewers 2.
+Top of the 3rd, Braves Batting, Ahead 3-2, Brewers' Freddy Peralta facing 2-3-4 
+t3;3-2;0;---;4,(3-0) BBBB;;ATL;Ozzie Albies;Freddy Peralta;3%;65%;Walk
+t3;3-2;0;1--;3,(2-0) BBX;RR;ATL;Austin Riley;Freddy Peralta;15%;79%;Home Run (Fly Ball to Deep RF); Albies Scores
+t3;5-2;0;---;2,(0-1) SX;O;ATL;Matt Olson;Freddy Peralta;-1%;78%;Flyball: LF (Deep LF)
+t3;5-2;1;---;3,(0-2) FS.S;O;ATL;Sean Murphy;Freddy Peralta;-1%;77%;Strikeout Swinging
+t3;5-2;2;---;6,(2-2) CTFBBS;O;ATL;Marcell Ozuna;Freddy Peralta;-1%;76%;Strikeout Swinging
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Braves 5, Brewers 2.
+Bottom of the 3rd, Brewers Batting, Behind 2-5, Braves' Michael Soroka facing 9-1-2 
+b3;2-5;0;---;5,(3-1) BCBBB;;MIL;Joey Wiemer;Michael Soroka;-4%;72%;Walk
+b3;2-5;0;1--;6,(3-2) CBBCBS;O;MIL;Christian Yelich;Michael Soroka;4%;76%;Strikeout Swinging
+b3;2-5;1;1--;1,(0-0) X;O;MIL;William Contreras;Michael Soroka;3%;79%;Flyball: RF
+b3;2-5;2;1--;1,(0-0) 1X;O;MIL;Willy Adames;Michael Soroka;2%;81%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Braves 5, Brewers 2.
+Top of the 4th, Braves Batting, Ahead 5-2, Brewers' Freddy Peralta facing 7-8-9 
+t4;5-2;0;---;4,(1-2) SFBS;O;ATL;Eddie Rosario;Freddy Peralta;-1%;80%;Strikeout Swinging
+t4;5-2;1;---;5,(3-1) BSBBB;;ATL;Orlando Arcia;Freddy Peralta;1%;81%;Walk
+t4;5-2;1;1--;3,(1-1) FBX;O;ATL;Michael Harris II;Freddy Peralta;-1%;80%;Groundout: 1B unassisted (Weak 1B); Arcia to 2B
+t4;5-2;2;-2-;1,(0-0) X;O;ATL;Ronald Acuna Jr.;Freddy Peralta;-2%;78%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Braves 5, Brewers 2.
+Bottom of the 4th, Brewers Batting, Behind 2-5, Braves' Michael Soroka facing 4-5-6 
+b4;2-5;0;---;5,(2-2) BFFBX;O;MIL;Jesse Winker;Michael Soroka;3%;81%;Groundout: 1B unassisted
+b4;2-5;1;---;2,(1-0) BX;O;MIL;Victor Caratini;Michael Soroka;2%;82%;Groundout: 2B-1B (2B-1B)
+b4;2-5;2;---;2,(1-0) BX;O;MIL;Andruw Monasterio;Michael Soroka;1%;83%;Popfly: 1B (Deep 1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 5, Brewers 2.
+Top of the 5th, Braves Batting, Ahead 5-2, Brewers' Freddy Peralta facing 2-3-4 
+t5;5-2;0;---;4,(1-2) CCBX;O;ATL;Ozzie Albies;Freddy Peralta;-1%;82%;Flyball: LF (Short LF)
+t5;5-2;1;---;6,(3-2) CFBBBX;;ATL;Austin Riley;Freddy Peralta;1%;83%;Single to LF (Ground Ball thru SS-3B Hole)
+t5;5-2;1;1--;5,(2-2) B1FC1BX;;ATL;Matt Olson;Freddy Peralta;5%;88%;Double to RF (Line Drive to Short RF Line); Riley to 3B
+t5;5-2;1;-23;2,(0-1) FH;;ATL;Sean Murphy;Freddy Peralta;0%;88%;Hit By Pitch
+t5;5-2;1;123;5,(2-2) B*BCFX;RO;ATL;Marcell Ozuna;Freddy Peralta;1%;89%;Groundout: SS-2B/Forceout at 2B; Riley Scores; Olson to 3B; Ozuna to 1B
+t5;6-2;2;1-3;6,(3-2) BC1BSB>X;O;ATL;Eddie Rosario;Freddy Peralta;-2%;88%;Groundout: SS-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Braves 6, Brewers 2.
+Bottom of the 5th, Brewers Batting, Behind 2-6, Braves' Michael Soroka facing 7-8-9 
+b5;2-6;0;---;5,(2-2) BBCFX;;MIL;Brice Turang;Michael Soroka;-3%;84%;Single to CF (Fly Ball to Short CF)
+b5;2-6;0;1--;6,(3-2) CB*BSBB;;MIL;Blake Perkins;Michael Soroka;-6%;78%;Walk; Turang to 2B
+b5;2-6;0;12-;3,(0-2) CCX;O;MIL;Joey Wiemer;Michael Soroka;5%;84%;Flyball: LF (LF-CF)
+b5;2-6;1;12-;1,(0-0) X;OO;MIL;Christian Yelich;Michael Soroka;8%;92%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 6, Brewers 2.
+Top of the 6th, Braves Batting, Ahead 6-2, Brewers' Bryse Wilson facing 8-9-1 
+;;;;;;;;;Bryse Wilson replaces Freddy Peralta pitching
+t6;6-2;0;---;6,(3-2) .BFBFBX;O;ATL;Orlando Arcia;Bryse Wilson;-1%;91%;Flyball: LF (Deep LF)
+t6;6-2;1;---;5,(1-2) CFBFC;O;ATL;Michael Harris II;Bryse Wilson;-1%;90%;Strikeout Looking
+t6;6-2;2;---;2,(0-1) CX;O;ATL;Ronald Acuna Jr.;Bryse Wilson;0%;90%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 6, Brewers 2.
+Bottom of the 6th, Brewers Batting, Behind 2-6, Braves' Michael Soroka facing 2-3-4 
+b6;2-6;0;---;3,(1-1) SBX;;MIL;William Contreras;Michael Soroka;-3%;87%;Single to RF (Line Drive to CF-RF)
+b6;2-6;0;1--;2,(0-1) SX;RR;MIL;Willy Adames;Michael Soroka;-13%;74%;Home Run (Fly Ball to Deep LF-CF); Contreras Scores
+b6;4-6;0;---;3,(1-1) BCX;O;MIL;Jesse Winker;Michael Soroka;4%;77%;Lineout: SS (Deep SS-2B)
+b6;4-6;1;---;6,(2-2) BCC.BFS;O;MIL;Victor Caratini;Michael Soroka;2%;80%;Strikeout Swinging
+b6;4-6;2;---;5,(3-1) BFBBX;O;MIL;Andruw Monasterio;Michael Soroka;2%;81%;Popfly: 1B (Deep 1B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Braves 6, Brewers 4.
+Top of the 7th, Braves Batting, Ahead 6-4, Brewers' Bryse Wilson facing 2-3-4 
+t7;6-4;0;---;5,(2-2) CBBFS;O;ATL;Ozzie Albies;Bryse Wilson;-2%;80%;Strikeout Swinging
+t7;6-4;1;---;6,(1-2) BCSFF*S;O;ATL;Austin Riley;Bryse Wilson;-1%;78%;Strikeout Swinging
+t7;6-4;2;---;6,(3-2) CBF.BBS;O;ATL;Matt Olson;Bryse Wilson;-1%;78%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 6, Brewers 4.
+Bottom of the 7th, Brewers Batting, Behind 4-6, Braves' Ben Heller facing 7-8-9 
+;;;;;;;;;Ben Heller replaces Michael Soroka pitching
+b7;4-6;0;---;7,(1-2) .CF.FFBFS;O;MIL;Brice Turang;Ben Heller;4%;82%;Strikeout Swinging
+b7;4-6;1;---;4,(3-0) BBBB;;MIL;Blake Perkins;Ben Heller;-5%;77%;Walk
+;;;;;;;;;Raimel Tapia pinch hits for Joey Wiemer (CF) batting 9th
+b7;4-6;1;1--;2,(0-1) .CX;OO;MIL;Raimel Tapia;Ben Heller;9%;86%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 6, Brewers 4.
+Top of the 8th, Braves Batting, Ahead 6-4, Brewers' Bryse Wilson facing 5-6-7 
+;;;;;;;;;Blake Perkins moves from RF to CF Raimel Tapia moves from PH to RF 
+t8;6-4;0;---;1,(0-0) ..X;O;ATL;Sean Murphy;Bryse Wilson;-1%;85%;Foul Popfly: RF (RF into Foul Terr.)
+t8;6-4;1;---;3,(0-2) CCX;O;ATL;Marcell Ozuna;Bryse Wilson;-1%;84%;Lineout: CF (Deep CF)
+t8;6-4;2;---;3,(0-2) SFS;O;ATL;Eddie Rosario;Bryse Wilson;-1%;83%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 6, Brewers 4.
+Bottom of the 8th, Brewers Batting, Behind 4-6, Braves' Joe Jiménez facing 1-2-3 
+;;;;;;;;;Joe Jiménez replaces Ben Heller pitching
+b8;4-6;0;---;5,(2-2) .SSB.BX;O;MIL;Christian Yelich;Joe Jiménez;5%;88%;Lineout: LF (Deep LF)
+b8;4-6;1;---;8,(3-2) CBBC.BFFS;O;MIL;William Contreras;Joe Jiménez;3%;91%;Strikeout Swinging
+b8;4-6;2;---;4,(1-2) SS.BS;O;MIL;Willy Adames;Joe Jiménez;2%;92%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 6, Brewers 4.
+Top of the 9th, Braves Batting, Ahead 6-4, Brewers' J.C. Mejía facing 8-9-1 
+;;;;;;;;;J.C. Mejía replaces Bryse Wilson pitching
+t9;6-4;0;---;7,(3-2) .BCFBFBS;O;ATL;Orlando Arcia;J.C. Mejía;-1%;91%;Strikeout Swinging
+t9;6-4;1;---;4,(1-2) BFCX;O;ATL;Michael Harris II;J.C. Mejía;-1%;91%;Groundout: 1B unassisted
+t9;6-4;2;---;6,(3-2) BBCCBX;O;ATL;Ronald Acuna Jr.;J.C. Mejía;0%;90%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 6, Brewers 4.
+Bottom of the 9th, Brewers Batting, Behind 4-6, Braves' Kirby Yates facing 4-5-6 
+;;;;;;;;;Kirby Yates replaces Joe Jiménez pitching
+b9;4-6;0;---;4,(1-2) .BSF*S;O;MIL;Jesse Winker;Kirby Yates;5%;95%;Strikeout Swinging
+b9;4-6;1;---;5,(1-2) BFS.FS;O;MIL;Victor Caratini;Kirby Yates;3%;98%;Strikeout Swinging
+b9;4-6;2;---;7,(3-2) CSBBFBB;;MIL;Andruw Monasterio;Kirby Yates;-3%;95%;Walk
+b9;4-6;2;1--;2,(1-0) B>B;;MIL;Brice Turang;Kirby Yates;0%;95%;Defensive Indifference; Monasterio to 2B
+b9;4-6;2;-2-;5,(3-1) B>B.BC*B;;MIL;Brice Turang;Kirby Yates;-4%;91%;Walk
+b9;4-6;2;12-;11,(2-2) CB*BFFFFFFF.C;O;MIL;Blake Perkins;Kirby Yates;9%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Braves 6, Brewers 4.

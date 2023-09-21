@@ -1,0 +1,274 @@
+
+Scorebox Meta
+20230720
+7:05 p.m. Local
+34251
+Wrigley Field
+178
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/STL-2023.png;/teams/STL/2023.shtml;1;0;0;4;2;0;0;0;0;7;10;0
+https://cdn.ssref.net/req/202308101/tlogo/br/CHC-2023.png;/teams/CHC/2023.shtml;0;0;0;1;0;0;1;0;0;2;6;2
+
+Batting home
+Nico Hoerner;/players/h/hoernni01.shtml;SS;3;0;0;0;2;0;5;.270;.323;.380;.702;24;10;-0.016; 0.47;0.025;-0.041;-0.00%; 0.18; 0.0;2;6;
+Seiya Suzuki;/players/s/suzukse01.shtml;RF;5;1;1;0;0;0;5;.262;.341;.407;.748;26;19;-0.035; 0.66;0.037;-0.072;-0.01%; 0.26; -1.1;1;0;2B
+Ian Happ;/players/h/happia01.shtml;LF;4;0;0;0;0;0;4;.243;.369;.383;.753;14;9;-0.055; 0.48;0.000;-0.055;-0.01%; 0.19; -1.0;2;0;
+Cody Bellinger;/players/b/bellico01.shtml;CF;4;0;1;0;0;0;4;.310;.365;.522;.887;15;10;0.011; 0.52;0.040;-0.029; 0.00%; 0.20; -0.2;2;0;
+Yan Gomes;/players/g/gomesya01.shtml;C;4;1;3;1;0;1;4;.270;.314;.430;.744;17;9;0.036; 0.67;0.073;-0.038; 0.01%; 0.26; 1.7;8;0;2·3B
+Christopher Morel;/players/m/morelch01.shtml;2B;3;0;0;1;1;2;4;.269;.329;.542;.871;20;12;-0.037; 0.75;0.014;-0.051;-0.01%; 0.29; -0.6;2;4;
+Patrick Wisdom;/players/w/wisdopa01.shtml;3B;2;0;0;0;0;1;3;.198;.292;.488;.780;14;7;-0.054; 0.87;0.013;-0.067;-0.01%; 0.34; -0.5;1;1;HBP
+Mike Tauchman;/players/t/tauchmi01.shtml;PH;1;0;0;0;0;0;1;.260;.370;.390;.759;5;3;-0.006; 0.22;0.000;-0.006;-0.00%; 0.09; -0.3;;;
+Trey Mancini;/players/m/mancitr01.shtml;1B;4;0;1;0;0;2;4;.237;.301;.339;.640;18;12;-0.047; 0.47;0.006;-0.053;-0.01%; 0.19; -0.4;9;0;2B
+Miguel Amaya;/players/a/amayami01.shtml;DH;3;0;0;0;1;2;4;.271;.388;.414;.803;18;10;-0.023; 0.39;0.010;-0.033;-0.01%; 0.15; -0.5;;;
+Marcus Stroman;/players/s/stromma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael Rucker;/players/r/ruckemi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Javier Assad;/players/a/assadja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Seiya Suzuki (14, off Steven Matz); Trey Mancini (11, off Giovanny Gallegos).
+
+
+3B: Yan Gomes 2 (2, 1 off Kyle Leahy, 1 off Steven Matz).
+
+
+HBP: Patrick Wisdom (2, by Kyle Leahy).
+
+
+TB: Yan Gomes 7; Trey Mancini 2; Seiya Suzuki 2; Cody Bellinger.
+
+
+RBI: Yan Gomes (33); Christopher Morel (42).
+
+
+2-out RBI: Yan Gomes.
+
+
+Team LOB: 9.
+With RISP: 1 for 8.
+
+Batting away
+Lars Nootbaar;/players/n/nootbla01.shtml;CF-RF;4;1;1;0;1;2;5;.258;.359;.379;.738;23;15;0.025; 0.64;0.052;-0.027; 0.00%; 0.10; 0.1;2;1;SB
+Paul Goldschmidt;/players/g/goldspa01.shtml;DH;4;2;2;0;1;0;5;.286;.373;.473;.846;19;9;-0.101; 0.75;0.036;-0.137;-0.01%; 0.12; -1.0;;;GDP
+Nolan Gorman;/players/g/gormano01.shtml;2B;4;0;0;0;1;2;5;.239;.321;.478;.799;27;15;-0.028; 0.68;0.034;-0.062;-0.00%; 0.11; -1.2;0;4;GDP
+Nolan Arenado;/players/a/arenano01.shtml;3B;5;0;1;2;0;2;5;.287;.336;.526;.862;22;14;0.099; 0.66;0.134;-0.036; 0.01%; 0.11; 1.4;1;1;2B
+Willson Contreras;/players/c/contrwi01.shtml;C;3;0;1;1;2;0;5;.239;.335;.423;.759;19;8;0.085; 0.66;0.105;-0.020; 0.01%; 0.11; 1.2;7;1;2B
+Alec Burleson;/players/b/burleal01.shtml;1B;5;0;1;0;0;0;5;.240;.292;.393;.685;15;9;-0.096; 0.70;0.005;-0.101;-0.01%; 0.11; -1.4;12;0;2B,GDP
+Tyler O'Neill;/players/o/oneilty01.shtml;LF;2;1;1;0;2;0;4;.234;.301;.351;.652;22;9;0.087; 0.53;0.096;-0.009; 0.01%; 0.09; 1.2;3;0;2B
+Jordan Walker;/players/w/walkejo02.shtml;RF;4;2;2;2;0;1;4;.282;.339;.455;.794;14;10;0.098; 0.76;0.136;-0.038; 0.01%; 0.12; 0.1;1;0;HR,GDP
+Dylan Carlson;/players/c/carlsdy01.shtml;CF;0;0;0;0;0;0;0;.236;.344;.365;.710;;;;;;;;;;0;0;
+Paul DeJong;/players/d/dejonpa01.shtml;SS;4;1;1;2;0;1;4;.238;.304;.435;.740;13;8;0.105; 0.55;0.123;-0.017; 0.01%; 0.09; 1.8;1;4;HR
+Steven Matz;/players/m/matzst01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andre Pallante;/players/p/pallaan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Kyle Leahy;/players/l/leahyky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+JoJo Romero;/players/r/romerjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Giovanny Gallegos;/players/g/gallegi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Willson Contreras (21, off Marcus Stroman); Tyler O'Neill (5, off Marcus Stroman); Nolan Arenado (19, off Marcus Stroman); Alec Burleson (10, off Javier Assad).
+
+
+HR: Jordan Walker (9, off Marcus Stroman, 4th inn, 1 on, 0 outs to Deep LF-CF); Paul DeJong (13, off Michael Rucker, 5th inn, 1 on, 1 out to Deep RF).
+
+
+TB: Jordan Walker 5; Paul DeJong 4; Nolan Arenado 2; Willson Contreras 2; Alec Burleson 2; Tyler O'Neill 2; Paul Goldschmidt 2; Lars Nootbaar.
+
+
+GIDP: Alec Burleson (8); Paul Goldschmidt (10); Jordan Walker (6); Nolan Gorman (3).
+
+
+RBI: Paul DeJong 2 (32); Jordan Walker 2 (28); Nolan Arenado 2 (74); Willson Contreras (38).
+
+
+2-out RBI: Nolan Arenado 2; Willson Contreras.
+
+
+Team LOB: 8.
+With RISP: 4 for 11.
+
+Pitching home
+Marcus Stroman;/players/s/stromma01.shtml; L (10-7); 3.2;7;5;4;4;4;1;3.09;23;99;56;31;12;13;7;8;5;0;29;;;-0.244; 1.06;-0.06%; 0.41; -3.3
+Michael Rucker;/players/r/ruckemi01.shtml;Michael Rucker; 1.1;2;2;2;0;0;1;5.21;6;19;11;6;1;4;1;5;3;0;;2;0;-0.047; 0.28;-0.01%; 0.11; -1.0
+Javier Assad;/players/a/assadja01.shtml;Javier Assad; 4 ;1;0;0;3;4;0;3.80;13;56;30;10;6;14;6;0;0;0;;0;0;0.017; 0.09; 0.00%; 0.04; 2.2
+
+Pitching away
+Steven Matz;/players/m/matzst01.shtml; W (1-7); 5 ;3;1;1;1;6;0;4.67;19;97;59;31;10;18;5;7;2;0;62;;;0.179; 0.81; 0.02%; 0.13; 1.7
+Andre Pallante;/players/p/pallaan01.shtml;Andre Pallante; 1 ;0;0;0;0;0;0;4.84;3;8;6;4;0;2;3;0;0;0;;0;0;0.017; 0.22; 0.00%; 0.04; 0.5
+Kyle Leahy;/players/l/leahyky01.shtml;Kyle Leahy; 0.2;1;1;1;2;0;0;21.60;6;23;10;4;2;4;1;2;0;0;;0;0;-0.038; 0.44;-0.00%; 0.07; -1.3
+JoJo Romero;/players/r/romerjo01.shtml; H (1); 1.1;1;0;0;0;1;0;2.55;5;21;13;7;3;3;3;1;1;0;;3;0;0.058; 0.48; 0.01%; 0.08; 1.3
+Giovanny Gallegos;/players/g/gallegi01.shtml;Giovanny Gallegos; 1 ;1;0;0;1;1;0;4.05;5;22;13;8;3;2;0;3;0;0;;0;0;0.009; 0.16; 0.00%; 0.03; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Kyle Leahy (1; Patrick Wisdom).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Kyle Leahy (1; Patrick Wisdom).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Jansen Visconti, 1B - Ron Kulpa, 2B - Cory Blaser, 3B - Brock Ballou, LF - (none), RF - (none).
+Time of Game: 2:58.
+Attendance: 34,251.
+Field Condition: Unknown.
+Start Time Weather: 80° F, Wind 13mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Cardinals
+1;Lars Nootbaar;/players/n/nootbla01.shtml;CF
+2;Paul Goldschmidt;/players/g/goldspa01.shtml;DH
+3;Nolan Gorman;/players/g/gormano01.shtml;2B
+4;Nolan Arenado;/players/a/arenano01.shtml;3B
+5;Willson Contreras;/players/c/contrwi01.shtml;C
+6;Alec Burleson;/players/b/burleal01.shtml;1B
+7;Tyler O'Neill;/players/o/oneilty01.shtml;LF
+8;Jordan Walker;/players/w/walkejo02.shtml;RF
+9;Paul DeJong;/players/d/dejonpa01.shtml;SS
+; Steven Matz;/players/m/matzst01.shtml;P
+Cubs
+1;Nico Hoerner;/players/h/hoernni01.shtml;SS
+2;Seiya Suzuki;/players/s/suzukse01.shtml;RF
+3;Ian Happ;/players/h/happia01.shtml;LF
+4;Cody Bellinger;/players/b/bellico01.shtml;CF
+5;Yan Gomes;/players/g/gomesya01.shtml;C
+6;Christopher Morel;/players/m/morelch01.shtml;2B
+7;Patrick Wisdom;/players/w/wisdopa01.shtml;3B
+8;Trey Mancini;/players/m/mancitr01.shtml;1B
+9;Miguel Amaya;/players/a/amayami01.shtml;DH
+; Marcus Stroman;/players/s/stromma01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;1-0;1;123;3,(1-1) B*SX;OO;STL;Paul Goldschmidt;Marcus Stroman;-14%;55%;Ground Ball Double Play: SS-2B-1B
+t4;1-0;0;-2-;3,(0-2) CS.X;RR;STL;Jordan Walker;Marcus Stroman;13%;81%;Home Run (Fly Ball to Deep LF-CF); O'Neill Scores
+t4;3-0;2;12-;3,(1-1) *SBX;RR;STL;Nolan Arenado;Marcus Stroman;11%;91%;Double to RF (Fly Ball to Deep CF-RF); Nootbaar Scores; Goldschmidt Scores
+t1;0-0;2;1-3;3,(1-1) BFX;R;STL;Willson Contreras;Marcus Stroman;10%;60%;Double to LF (Line Drive to Deep LF Line); Goldschmidt Scores/unER; Arenado to 3B
+t5;5-1;1;1--;2,(1-0) BX;RR;STL;Paul DeJong;Michael Rucker;6%;96%;Home Run (Fly Ball to Deep RF); Walker Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Cardinals Batting, Tied 0-0, Cubs' Marcus Stroman facing 1-2-3 
+t1;0-0;0;---;4,(1-2) CCBC;O;STL;Lars Nootbaar;Marcus Stroman;-2%;48%;Strikeout Looking
+t1;0-0;1;---;3,(1-1) SBX;;STL;Paul Goldschmidt;Marcus Stroman;2%;50%;Single to 2B (Ground Ball to SS-2B)
+t1;0-0;1;1--;4,(2-1) *BBSX;O;STL;Nolan Gorman;Marcus Stroman;-3%;47%;Lineout: 3B
+t1;0-0;2;1--;7,(3-2) BF1BF1B.>F>X;;STL;Nolan Arenado;Marcus Stroman;3%;50%;Reached on E5 (Ground Ball to SS-3B Hole); Goldschmidt to 3B; Arenado to 1B
+t1;0-0;2;1-3;3,(1-1) BFX;R;STL;Willson Contreras;Marcus Stroman;10%;60%;Double to LF (Line Drive to Deep LF Line); Goldschmidt Scores/unER; Arenado to 3B
+t1;1-0;2;-23;4,(2-1) CBBX;O;STL;Alec Burleson;Marcus Stroman;-5%;55%;Groundout: 2B-1B
+;;;;;;;;;1 run, 2 hits, 1 error, 2 LOB. Cardinals 1, Cubs 0.
+Bottom of the 1st, Cubs Batting, Behind 0-1, Cardinals' Steven Matz facing 1-2-3 
+b1;0-1;0;---;2,(1-0) BX;O;CHC;Nico Hoerner;Steven Matz;2%;57%;Flyball: LF (Short LF Line)
+b1;0-1;1;---;9,(3-2) CBBCBFFFX;O;CHC;Seiya Suzuki;Steven Matz;2%;59%;Lineout: CF (Deep CF)
+b1;0-1;2;---;6,(3-2) BCBCBX;O;CHC;Ian Happ;Steven Matz;1%;60%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 1, Cubs 0.
+Top of the 2nd, Cardinals Batting, Ahead 1-0, Cubs' Marcus Stroman facing 7-8-9 
+t2;1-0;0;---;6,(3-2) CBBCBB;;STL;Tyler O'Neill;Marcus Stroman;3%;63%;Walk
+t2;1-0;0;1--;3,(0-2) FSS;O;STL;Jordan Walker;Marcus Stroman;-3%;60%;Strikeout Swinging
+t2;1-0;1;1--;1,(0-0) X;;STL;Paul DeJong;Marcus Stroman;6%;66%;Fielder's Choice 3B; O'Neill to 3B/Adv on E5 (throw); DeJong to 1B
+t2;1-0;1;1-3;7,(3-2) BS*BC1BF>B;;STL;Lars Nootbaar;Marcus Stroman;3%;69%;Walk; DeJong to 2B
+t2;1-0;1;123;3,(1-1) B*SX;OO;STL;Paul Goldschmidt;Marcus Stroman;-14%;55%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 1 error, 2 LOB. Cardinals 1, Cubs 0.
+Bottom of the 2nd, Cubs Batting, Behind 0-1, Cardinals' Steven Matz facing 4-5-6 
+b2;0-1;0;---;6,(2-2) CBC.FBX;;CHC;Cody Bellinger;Steven Matz;-4%;51%;Single to LF (Ground Ball thru SS-3B Hole)
+b2;0-1;0;1--;6,(3-2) BBCFBC;O;CHC;Yan Gomes;Steven Matz;4%;55%;Strikeout Looking
+b2;0-1;1;1--;4,(1-2) TBFC;O;CHC;Christopher Morel;Steven Matz;3%;58%;Strikeout Looking
+b2;0-1;2;1--;6,(3-2) FBBBS>S;O;CHC;Patrick Wisdom;Steven Matz;3%;61%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cardinals 1, Cubs 0.
+Top of the 3rd, Cardinals Batting, Ahead 1-0, Cubs' Marcus Stroman facing 3-4-5 
+t3;1-0;0;---;4,(3-0) BBBB;;STL;Nolan Gorman;Marcus Stroman;3%;64%;Walk
+t3;1-0;0;1--;3,(0-2) FF1S;O;STL;Nolan Arenado;Marcus Stroman;-3%;61%;Strikeout Swinging
+t3;1-0;1;1--;2,(0-1) F>X;O;STL;Willson Contreras;Marcus Stroman;-2%;59%;Groundout: SS-1B; Gorman to 2B
+t3;1-0;2;-2-;6,(3-2) BBBCCX;O;STL;Alec Burleson;Marcus Stroman;-3%;56%;Lineout: LF (Deep LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Cardinals 1, Cubs 0.
+Bottom of the 3rd, Cubs Batting, Behind 0-1, Cardinals' Steven Matz facing 8-9-1 
+b3;0-1;0;---;6,(2-2) CSBFB.S;O;CHC;Trey Mancini;Steven Matz;3%;59%;Strikeout Swinging
+b3;0-1;1;---;4,(1-2) BCS.X;O;CHC;Miguel Amaya;Steven Matz;2%;61%;Popfly: 3B (Short 3B Line)
+b3;0-1;2;---;7,(2-2) BBFFFFX;O;CHC;Nico Hoerner;Steven Matz;1%;62%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 1, Cubs 0.
+Top of the 4th, Cardinals Batting, Ahead 1-0, Cubs' Marcus Stroman facing 7-8-9 
+t4;1-0;0;---;5,(2-2) BCFBX;;STL;Tyler O'Neill;Marcus Stroman;6%;68%;Double to RF (Line Drive to Short RF Line)
+t4;1-0;0;-2-;3,(0-2) CS.X;RR;STL;Jordan Walker;Marcus Stroman;13%;81%;Home Run (Fly Ball to Deep LF-CF); O'Neill Scores
+t4;3-0;0;---;5,(3-1) BBBFX;O;STL;Paul DeJong;Marcus Stroman;-1%;79%;Flyball: RF
+t4;3-0;1;---;4,(1-2) CTBX;;STL;Lars Nootbaar;Marcus Stroman;1%;81%;Single to RF (Line Drive)
+t4;3-0;1;1--;1,(0-0) >*B;;STL;Paul Goldschmidt;Marcus Stroman;1%;82%;Nootbaar Steals 2B
+t4;3-0;1;-2-;5,(3-1) >*B.BCBX;;STL;Paul Goldschmidt;Marcus Stroman;1%;83%;Single to 3B (Ground Ball to SS-3B Hole)
+t4;3-0;1;12-;10,(3-2) BBSSFFFF*BS;O;STL;Nolan Gorman;Marcus Stroman;-3%;80%;Strikeout Swinging
+t4;3-0;2;12-;3,(1-1) *SBX;RR;STL;Nolan Arenado;Marcus Stroman;11%;91%;Double to RF (Fly Ball to Deep CF-RF); Nootbaar Scores; Goldschmidt Scores
+t4;5-0;2;-2-;4,(3-0) *B*BBB;;STL;Willson Contreras;Marcus Stroman;0%;91%;Walk
+;;;;;;;;;Michael Rucker replaces Marcus Stroman pitching
+t4;5-0;2;12-;1,(0-0) .X;O;STL;Alec Burleson;Michael Rucker;-1%;90%;Lineout: CF (Deep CF)
+;;;;;;;;;4 runs, 5 hits, 0 errors, 2 LOB. Cardinals 5, Cubs 0.
+Bottom of the 4th, Cubs Batting, Behind 0-5, Cardinals' Steven Matz facing 2-3-4 
+b4;0-5;0;---;7,(3-2) BBBCFFX;;CHC;Seiya Suzuki;Steven Matz;-4%;86%;Double to 1B (Pop Fly to Deep 2B-1B)
+b4;0-5;0;-2-;3,(1-1) BFX;O;CHC;Ian Happ;Steven Matz;3%;89%;Flyball: RF
+b4;0-5;1;-2-;4,(1-2) BCFX;O;CHC;Cody Bellinger;Steven Matz;2%;91%;Groundout: 2B-1B (2B-1B); Suzuki to 3B
+b4;0-5;2;--3;3,(1-1) BFX;R;CHC;Yan Gomes;Steven Matz;-5%;86%;Triple to RF (Line Drive to Short RF Line); Suzuki Scores
+b4;1-5;2;--3;6,(3-2) CBBCBB;;CHC;Christopher Morel;Steven Matz;-1%;85%;Walk
+b4;1-5;2;1-3;4,(2-1) BSBX;O;CHC;Patrick Wisdom;Steven Matz;4%;89%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Cardinals 5, Cubs 1.
+Top of the 5th, Cardinals Batting, Ahead 5-1, Cubs' Michael Rucker facing 7-8-9 
+t5;5-1;0;---;5,(3-1) CBBBX;O;STL;Tyler O'Neill;Michael Rucker;-1%;88%;Groundout: 3B-1B
+t5;5-1;1;---;4,(2-1) B.SBX;;STL;Jordan Walker;Michael Rucker;1%;89%;Single to CF (Line Drive to Deep CF)
+t5;5-1;1;1--;2,(1-0) BX;RR;STL;Paul DeJong;Michael Rucker;6%;96%;Home Run (Fly Ball to Deep RF); Walker Scores
+t5;7-1;1;---;4,(1-2) BCCX;O;STL;Lars Nootbaar;Michael Rucker;0%;95%;Flyball: LF (Deep LF)
+t5;7-1;2;---;3,(1-1) CBX;O;STL;Paul Goldschmidt;Michael Rucker;0%;95%;Lineout: CF (CF-RF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Cardinals 7, Cubs 1.
+Bottom of the 5th, Cubs Batting, Behind 1-7, Cardinals' Steven Matz facing 8-9-1 
+b5;1-7;0;---;4,(1-2) SBCS;O;CHC;Trey Mancini;Steven Matz;1%;96%;Strikeout Swinging
+b5;1-7;1;---;4,(1-2) CBSS;O;CHC;Miguel Amaya;Steven Matz;1%;97%;Strikeout Swinging
+b5;1-7;2;---;6,(3-2) CBFBB.X;O;CHC;Nico Hoerner;Steven Matz;0%;97%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 7, Cubs 1.
+Top of the 6th, Cardinals Batting, Ahead 7-1, Cubs' Javier Assad facing 3-4-5 
+;;;;;;;;;Javier Assad replaces Michael Rucker pitching
+t6;7-1;0;---;5,(2-2) .CS.BBC;O;STL;Nolan Gorman;Javier Assad;0%;97%;Strikeout Looking
+t6;7-1;1;---;6,(3-2) BSBSB.T;O;STL;Nolan Arenado;Javier Assad;0%;97%;Strikeout Swinging
+t6;7-1;2;---;5,(2-2) CBBC.X;O;STL;Willson Contreras;Javier Assad;0%;96%;Groundout: 1B unassisted
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 7, Cubs 1.
+Bottom of the 6th, Cubs Batting, Behind 1-7, Cardinals' Andre Pallante facing 2-3-4 
+;;;;;;;;;Andre Pallante replaces Steven Matz pitching
+b6;1-7;0;---;3,(0-2) .CCX;O;CHC;Seiya Suzuki;Andre Pallante;1%;97%;Groundout: SS-1B (Weak SS)
+b6;1-7;1;---;1,(0-0) X;O;CHC;Ian Happ;Andre Pallante;1%;98%;Groundout: P-1B (Short 1B Line)
+b6;1-7;2;---;4,(2-1) BBFX;O;CHC;Cody Bellinger;Andre Pallante;0%;98%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 7, Cubs 1.
+Top of the 7th, Cardinals Batting, Ahead 7-1, Cubs' Javier Assad facing 6-7-8 
+t7;7-1;0;---;1,(0-0) X;;STL;Alec Burleson;Javier Assad;0%;99%;Double to RF (Ground Ball)
+t7;7-1;0;-2-;6,(3-2) BC*BT*BB;;STL;Tyler O'Neill;Javier Assad;0%;99%;Walk
+t7;7-1;0;12-;4,(2-1) BBCX;OO;STL;Jordan Walker;Javier Assad;-1%;98%;Ground Ball Double Play: SS-2B-1B (SS-2B); Burleson to 3B
+t7;7-1;2;--3;5,(1-2) TCBFS;O;STL;Paul DeJong;Javier Assad;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cardinals 7, Cubs 1.
+Bottom of the 7th, Cubs Batting, Behind 1-7, Cardinals' Kyle Leahy facing 5-6-7 
+;;;;;;;;;Kyle Leahy replaces Andre Pallante pitchingDylan Carlson replaces Jordan Walker (RF) playing CF batting 8thLars Nootbaar moves from CF to RF 
+b7;1-7;0;---;2,(1-0) ...BX;;CHC;Yan Gomes;Kyle Leahy;-2%;96%;Triple to CF (Fly Ball to Deep RF)
+b7;1-7;0;--3;3,(0-2) CSX;RO;CHC;Christopher Morel;Kyle Leahy;1%;97%;Groundout: SS-1B; Gomes Scores
+b7;2-7;1;---;4,(1-2) CBFH;;CHC;Patrick Wisdom;Kyle Leahy;-1%;96%;Hit By Pitch
+b7;2-7;1;1--;4,(2-1) SB*BX;O;CHC;Trey Mancini;Kyle Leahy;1%;97%;Popfly: RF-SS/Forceout at 2B (Deep 2B-1B); Mancini to 1B
+b7;2-7;2;1--;5,(3-1) BBC*BB;;CHC;Miguel Amaya;Kyle Leahy;-1%;96%;Walk; Mancini to 2B
+b7;2-7;2;12-;5,(3-1) BBCBB;;CHC;Nico Hoerner;Kyle Leahy;-2%;94%;Walk; Mancini to 3B; Amaya to 2B
+;;;;;;;;;JoJo Romero replaces Kyle Leahy pitching
+b7;2-7;2;123;3,(1-1) .FBX;O;CHC;Seiya Suzuki;JoJo Romero;4%;98%;Lineout: LF (LF-CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 3 LOB. Cardinals 7, Cubs 2.
+Top of the 8th, Cardinals Batting, Ahead 7-2, Cubs' Javier Assad facing 1-2-3 
+t8;7-2;0;---;4,(1-2) CBC.C;O;STL;Lars Nootbaar;Javier Assad;0%;98%;Strikeout Looking
+t8;7-2;1;---;5,(3-1) BCBBB;;STL;Paul Goldschmidt;Javier Assad;0%;98%;Walk
+t8;7-2;1;1--;4,(1-2) CSBX;OO;STL;Nolan Gorman;Javier Assad;0%;98%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 7, Cubs 2.
+Bottom of the 8th, Cubs Batting, Behind 2-7, Cardinals' JoJo Romero facing 3-4-5 
+b8;2-7;0;---;4,(1-2) CSBX;O;CHC;Ian Happ;JoJo Romero;1%;99%;Groundout: SS-1B (Weak SS)
+b8;2-7;1;---;1,(0-0) X;O;CHC;Cody Bellinger;JoJo Romero;1%;99%;Groundout: 2B-1B (2B-1B)
+b8;2-7;2;---;6,(3-2) BBCBSX;;CHC;Yan Gomes;JoJo Romero;0%;99%;Single to CF (Ground Ball thru SS-2B)
+b8;2-7;2;1--;7,(3-2) CFBBF*B>S;O;CHC;Christopher Morel;JoJo Romero;1%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Cardinals 7, Cubs 2.
+Top of the 9th, Cardinals Batting, Ahead 7-2, Cubs' Javier Assad facing 4-5-6 
+t9;7-2;0;---;3,(1-1) CBX;O;STL;Nolan Arenado;Javier Assad;0%;99%;Groundout: SS-1B
+t9;7-2;1;---;5,(3-1) BBCBB;;STL;Willson Contreras;Javier Assad;0%;99%;Walk
+t9;7-2;1;1--;3,(1-1) SBX;OO;STL;Alec Burleson;Javier Assad;0%;99%;Ground Ball Double Play: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Cardinals 7, Cubs 2.
+Bottom of the 9th, Cubs Batting, Behind 2-7, Cardinals' Giovanny Gallegos facing 7-8-9 
+;;;;;;;;;Giovanny Gallegos replaces JoJo Romero pitchingMike Tauchman pinch hits for Patrick Wisdom (3B) batting 7th
+b9;2-7;0;---;5,(2-2) ..BBFFX;O;CHC;Mike Tauchman;Giovanny Gallegos;1%;100%;Flyball: LF (Deep LF)
+b9;2-7;1;---;4,(1-2) SBSX;;CHC;Trey Mancini;Giovanny Gallegos;-1%;99%;Double to RF (Fly Ball to Deep RF Line)
+b9;2-7;1;-2-;5,(2-2) *B*BCF*S;O;CHC;Miguel Amaya;Giovanny Gallegos;1%;100%;Strikeout Swinging; Mancini to 3B; Amaya out at 1B/C-1B
+b9;2-7;2;--3;4,(3-0) BBBB;;CHC;Nico Hoerner;Giovanny Gallegos;0%;100%;Walk
+b9;2-7;2;1-3;4,(0-2) C>F>F>X;O;CHC;Seiya Suzuki;Giovanny Gallegos;0%;100%;Foul Popfly: 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Cardinals 7, Cubs 2.

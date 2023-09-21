@@ -1,0 +1,307 @@
+
+Scorebox Meta
+20230615
+7:10 p.m. Local
+48655
+Dodger Stadium
+200
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;2;0;0;2;0;0;0;0;0;0;0;4;8;0
+https://cdn.ssref.net/req/202308101/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;0;0;0;0;4;0;0;0;0;1;5;9;0
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;RF;5;0;2;0;1;1;6;.265;.368;.527;.895;30;20;-0.123; 1.52;0.033;-0.156;-0.09%; 1.89; -0.1;3;0;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;5;0;1;1;1;0;6;.328;.409;.566;.974;32;17;0.014; 1.64;0.135;-0.121; 0.01%; 2.04; 0.2;7;1;
+Will Smith;/players/s/smithwi05.shtml;C;3;1;1;0;2;2;5;.291;.398;.517;.916;26;12;0.001; 1.49;0.110;-0.109;0%; 1.86; 0.5;16;2;
+Jason Heyward;/players/h/heywaja01.shtml;DH-LF;5;0;0;0;0;4;5;.235;.333;.455;.788;19;15;-0.257; 2.04;0.000;-0.257;-0.19%; 2.53; -1.8;0;0;
+David Peralta;/players/p/peralda01.shtml;LF;4;1;1;0;0;0;4;.266;.302;.399;.701;8;6;-0.051; 1.06;0.036;-0.087;-0.04%; 1.32; -0.3;1;0;
+Jonny Deluca;/players/d/delucjo01.shtml;PH-CF;1;0;0;0;0;0;1;.222;.300;.222;.522;1;1;0.015; 2.51;0.015;0.000; 0.01%; 3.12; -0.2;1;0;
+Miguel Vargas;/players/v/vargami01.shtml;2B;4;0;0;0;1;2;5;.221;.327;.404;.730;24;14;-0.298; 1.87;0.014;-0.311;-0.22%; 2.32; -1.5;1;2;
+James Outman;/players/o/outmaja01.shtml;CF;4;1;1;0;0;3;4;.227;.323;.439;.763;15;11;-0.049; 1.12;0.035;-0.083;-0.04%; 1.39; -0.3;1;0;
+J.D. Martinez;/players/m/martijd02.shtml;PH;0;0;0;0;1;0;1;.259;.302;.595;.897;0;0;0.007; 4.87;0.010;-0.003; 0.01%; 6.05; 0.3;;;IW
+Caleb Ferguson;/players/f/ferguca01.shtml;P;0;0;0;0;0;0;0;;;;;;;;;;;;;;0;0;
+Chris Taylor;/players/t/tayloch03.shtml;3B;4;2;1;4;1;2;5;.209;.274;.460;.734;25;16;0.328; 2.08;0.524;-0.196; 0.24%; 2.59; 2.9;2;3;HR
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;4;0;2;0;1;2;5;.225;.258;.268;.526;21;14;0.067; 1.37;0.112;-0.046; 0.05%; 1.71; 0.6;0;2;SB
+Michael Grove;/players/g/grovemi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Shelby Miller;/players/m/millesh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yency Almonte;/players/a/almonye01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Evan Phillips;/players/p/phillev01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+HR: Chris Taylor (11, off Reynaldo López, 6th inn, 3 on, 2 outs to Deep LF-CF).
+
+
+IBB: J.D. Martinez (1, by Aaron Bummer).
+
+
+TB: Chris Taylor 4; Mookie Betts 2; Miguel Rojas 2; Freddie Freeman; Will Smith; David Peralta; James Outman.
+
+
+RBI: Chris Taylor 4 (26); Freddie Freeman (45).
+
+
+2-out RBI: Chris Taylor 4.
+
+
+Team LOB: 14.
+With RISP: 3 for 11.
+
+Batting away
+Tim Anderson;/players/a/anderti01.shtml;SS;5;0;1;0;0;1;5;.251;.290;.296;.585;10;8;-0.096; 1.56;0.028;-0.124;-0.03%; 0.70; -0.8;1;0;
+Gavin Sheets;/players/s/sheetga01.shtml;RF;3;0;0;0;2;0;5;.220;.300;.383;.683;26;13;-0.055; 2.06;0.041;-0.095;-0.01%; 0.92; -0.2;3;0;
+Andrew Benintendi;/players/b/beninan01.shtml;PR-LF;0;0;0;0;0;0;0;.265;.337;.338;.675;;;0.020; 5.59;0.020;0.000; 0.01%; 2.50; 0.1;0;0;SB
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;4;1;1;1;1;3;5;.264;.320;.539;.859;21;15;-0.094; 2.15;0.114;-0.207;-0.03%; 0.96; -0.3;2;0;HR
+Eloy Jiménez;/players/j/jimenel02.shtml;DH;5;1;1;1;0;3;5;.260;.314;.452;.767;27;17;-0.167; 1.95;0.091;-0.258;-0.04%; 0.87; -0.5;;;HR
+Romy Gonzalez;/players/g/gonzaro01.shtml;PR-DH-DH;0;0;0;0;0;0;0;.194;.208;.376;.585;;;;;;;;;;;;
+Jake Burger;/players/b/burgeja01.shtml;3B;5;1;1;1;0;4;5;.248;.296;.606;.902;19;15;-0.078; 1.36;0.084;-0.162;-0.02%; 0.61; -0.0;2;1;HR
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;5;1;1;1;0;0;5;.247;.330;.438;.768;12;7;-0.066; 1.20;0.063;-0.129;-0.02%; 0.54; 0.0;3;0;HR
+Yasmani Grandal;/players/g/grandya01.shtml;C;5;0;2;0;0;1;5;.271;.330;.410;.740;18;12;-0.170; 1.67;0.034;-0.204;-0.05%; 0.74; -0.2;17;0;
+Clint Frazier;/players/f/frazicl01.shtml;LF-RF;4;0;0;0;0;3;4;.222;.327;.267;.594;13;10;-0.090; 0.90;0.000;-0.090;-0.02%; 0.40; -1.0;1;0;
+Elvis Andrus;/players/a/andruel01.shtml;2B;4;0;1;0;0;1;4;.196;.277;.247;.524;18;12;-0.054; 1.45;0.105;-0.158;-0.01%; 0.65; -0.6;1;2;2B,CS
+Dylan Cease;/players/c/ceasedy01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Reynaldo López;/players/l/lopezre01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joe Kelly;/players/k/kellyjo05.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gregory Santos;/players/s/santogr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kendall Graveman;/players/g/graveke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Aaron Bummer;/players/b/bummeaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Garrett Crochet;/players/c/crochga01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Elvis Andrus (5, off Shelby Miller).
+
+
+HR: Luis Robert Jr. (17, off Michael Grove, 1st inn, 0 on, 2 outs to Deep LF-CF); Eloy Jiménez (7, off Michael Grove, 1st inn, 0 on, 2 outs to Deep RF); Jake Burger (16, off Michael Grove, 4th inn, 0 on, 0 outs to Deep CF); Andrew Vaughn (9, off Michael Grove, 4th inn, 0 on, 0 outs to Deep LF).
+
+
+TB: Jake Burger 4; Eloy Jiménez 4; Andrew Vaughn 4; Luis Robert Jr. 4; Yasmani Grandal 2; Elvis Andrus 2; Tim Anderson.
+
+
+RBI: Andrew Vaughn (41); Jake Burger (36); Luis Robert Jr. (36); Eloy Jiménez (26).
+
+
+2-out RBI: Luis Robert Jr.; Eloy Jiménez.
+
+
+Team LOB: 8.
+With RISP: 0 for 8.
+
+Pitching home
+Michael Grove;/players/g/grovemi01.shtml;Michael Grove; 5 ;7;4;4;1;7;4;8.10;23;92;61;32;17;12;4;11;7;0;43;;;-0.159; 0.60;-0.12%; 0.74; -1.2
+Shelby Miller;/players/m/millesh01.shtml;Shelby Miller; 2 ;1;0;0;1;2;0;2.40;7;25;17;7;5;5;2;2;2;0;;0;0;0.110; 1.49; 0.08%; 1.85; 1.1
+Yency Almonte;/players/a/almonye01.shtml;Yency Almonte; 1 ;0;0;0;0;2;0;6.52;3;12;9;4;3;2;1;0;0;0;;0;0;0.113; 1.44; 0.08%; 1.80; 0.6
+Evan Phillips;/players/p/phillev01.shtml;Evan Phillips; 2 ;0;0;0;1;4;0;2.36;7;27;19;11;6;2;1;1;0;0;;0;0;0.466; 4.24; 0.35%; 5.28; 1.7
+Caleb Ferguson;/players/f/ferguca01.shtml; W (4-3); 1 ;0;0;0;0;1;0;3.60;3;8;5;2;2;1;1;1;0;0;;0;0;0.318; 4.06; 0.24%; 5.04; 1.2
+
+Pitching away
+Dylan Cease;/players/c/ceasedy01.shtml;Dylan Cease; 5.1;4;2;2;3;10;0;4.31;23;102;67;36;16;15;3;7;3;0;59;;;0.214; 0.86; 0.06%; 0.38; 2.3
+Reynaldo López;/players/l/lopezre01.shtml; BS (5); 0.2;3;2;2;0;0;1;5.10;5;17;12;7;2;3;1;4;1;0;;2;2;-0.355; 1.61;-0.10%; 0.72; -3.0
+Joe Kelly;/players/k/kellyjo05.shtml;Joe Kelly; 1 ;0;0;0;1;1;0;4.57;4;17;9;6;1;2;0;2;1;0;;0;0;0.092; 1.55; 0.03%; 0.69; 0.6
+Gregory Santos;/players/s/santogr01.shtml;Gregory Santos; 1 ;0;0;0;0;2;0;2.67;3;17;10;3;6;1;0;1;0;0;;0;0;0.113; 1.44; 0.03%; 0.64; 0.6
+Kendall Graveman;/players/g/graveke01.shtml;Kendall Graveman; 1 ;1;0;0;1;2;0;2.67;5;18;10;6;1;3;2;0;0;0;;0;0;0.147; 3.42; 0.04%; 1.53; 0.6
+Aaron Bummer;/players/b/bummeaa01.shtml;Aaron Bummer; 1 ;0;0;0;1;1;0;7.06;4;8;7;4;1;2;1;1;0;0;;0;0;0.318; 4.29; 0.08%; 1.92; 1.2
+Garrett Crochet;/players/c/crochga01.shtml; L (0-1); 0 ;1;1;0;2;0;0;3.60;3;22;11;10;0;1;0;1;0;0;;0;0;-0.182; 2.29;-0.05%; 1.02; -2.2
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: Aaron Bummer (2; J.D. Martinez).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: Aaron Bummer (2; J.D. Martinez).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Jacob Metz, 1B - Nestor Ceja, 2B - Brian O'Nora, 3B - Pat Hoberg, LF - (none), RF - (none).
+Time of Game: 3:20.
+Attendance: 48,655.
+Field Condition: Unknown.
+Start Time Weather: 65° F, Wind 6mph out to Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+White Sox
+1;Tim Anderson;/players/a/anderti01.shtml;SS
+2;Gavin Sheets;/players/s/sheetga01.shtml;RF
+3;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+4;Eloy Jiménez;/players/j/jimenel02.shtml;DH
+5;Jake Burger;/players/b/burgeja01.shtml;3B
+6;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+7;Yasmani Grandal;/players/g/grandya01.shtml;C
+8;Clint Frazier;/players/f/frazicl01.shtml;LF
+9;Elvis Andrus;/players/a/andruel01.shtml;2B
+; Dylan Cease;/players/c/ceasedy01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;RF
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;C
+4;Jason Heyward;/players/h/heywaja01.shtml;DH
+5;David Peralta;/players/p/peralda01.shtml;LF
+6;Miguel Vargas;/players/v/vargami01.shtml;2B
+7;James Outman;/players/o/outmaja01.shtml;CF
+8;Chris Taylor;/players/t/tayloch03.shtml;3B
+9;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+; Michael Grove;/players/g/grovemi01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b6;0-4;2;123;3,(1-1) BSX;RRRR;LAD;Chris Taylor;Reynaldo López;38%;52%;Home Run (Fly Ball to Deep LF-CF); Smith Scores; Peralta Scores; Outman Scores
+b10;4-4;1;--3;4,(1-2) FCBX;O;LAD;Miguel Vargas;Aaron Bummer;-20%;63%;Foul Popfly: C
+t10;4-4;2;-23;6,(1-2) >S.*BS.FFS;O;CHW;Eloy Jiménez;Evan Phillips;18%;82%;Strikeout Swinging
+t10;4-4;1;1-3;4,(1-2) .TBFC;O;CHW;Luis Robert Jr.;Evan Phillips;17%;66%;Strikeout Looking
+b10;4-4;2;-23;3,(0-2) >C.FS;O;LAD;Chris Taylor;Aaron Bummer;-14%;50%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, White Sox Batting, Tied 0-0, Dodgers' Michael Grove facing 1-2-3 
+t1;0-0;0;---;3,(2-0) BBX;O;CHW;Tim Anderson;Michael Grove;2%;52%;Groundout: 3B-1B
+t1;0-0;1;---;6,(3-2) BCSBBX;O;CHW;Gavin Sheets;Michael Grove;2%;54%;Lineout: 3B (Deep SS)
+t1;0-0;2;---;5,(0-2) CSFFX;R;CHW;Luis Robert Jr.;Michael Grove;-10%;44%;Home Run (Fly Ball to Deep LF-CF)
+t1;1-0;2;---;4,(1-2) FS.BX;R;CHW;Eloy Jiménez;Michael Grove;-9%;35%;Home Run (Fly Ball to Deep RF)
+t1;2-0;2;---;3,(0-2) CS.S;O;CHW;Jake Burger;Michael Grove;1%;36%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. White Sox 2, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Behind 0-2, White Sox' Dylan Cease facing 1-2-3 
+b1;0-2;0;---;6,(2-2) CFBFBS;O;LAD;Mookie Betts;Dylan Cease;-2%;34%;Strikeout Swinging
+b1;0-2;1;---;5,(0-2) FFFFX;O;LAD;Freddie Freeman;Dylan Cease;-2%;32%;Flyball: CF (Short LF-CF)
+b1;0-2;2;---;6,(3-2) FBBBF.T;O;LAD;Will Smith;Dylan Cease;-1%;31%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Dodgers 0.
+Top of the 2nd, White Sox Batting, Ahead 2-0, Dodgers' Michael Grove facing 6-7-8 
+t2;2-0;0;---;2,(0-1) FX;O;CHW;Andrew Vaughn;Michael Grove;2%;33%;Groundout: SS-1B (SS-2B)
+t2;2-0;1;---;5,(2-2) BBCSX;;CHW;Yasmani Grandal;Michael Grove;-2%;31%;Single to RF (Line Drive to Deep CF-RF)
+t2;2-0;1;1--;5,(2-2) *SBBFC;O;CHW;Clint Frazier;Michael Grove;2%;33%;Strikeout Looking
+t2;2-0;2;1--;4,(1-2) CFBC;O;CHW;Elvis Andrus;Michael Grove;2%;35%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 2, Dodgers 0.
+Bottom of the 2nd, Dodgers Batting, Behind 0-2, White Sox' Dylan Cease facing 4-5-6 
+b2;0-2;0;---;6,(1-2) FBCFF*S;O;LAD;Jason Heyward;Dylan Cease;-3%;33%;Strikeout Swinging
+b2;0-2;1;---;2,(1-0) BX;O;LAD;David Peralta;Dylan Cease;-2%;31%;Groundout: 2B-1B
+b2;0-2;2;---;5,(3-1) BFBBB;;LAD;Miguel Vargas;Dylan Cease;1%;32%;Walk
+b2;0-2;2;1--;5,(2-2) BBSC1S;O;LAD;James Outman;Dylan Cease;-3%;30%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 2, Dodgers 0.
+Top of the 3rd, White Sox Batting, Ahead 2-0, Dodgers' Michael Grove facing 1-2-3 
+t3;2-0;0;---;1,(0-0) X;;CHW;Tim Anderson;Michael Grove;-3%;27%;Single to CF (Line Drive to CF-RF)
+t3;2-0;0;1--;4,(1-2) FB>FX;O;CHW;Gavin Sheets;Michael Grove;3%;30%;Lineout: RF (Deep RF)
+t3;2-0;1;1--;3,(0-2) C1S1T;O;CHW;Luis Robert Jr.;Michael Grove;2%;32%;Strikeout Swinging
+t3;2-0;2;1--;4,(2-1) F1BBX;O;CHW;Eloy Jiménez;Michael Grove;2%;34%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 2, Dodgers 0.
+Bottom of the 3rd, Dodgers Batting, Behind 0-2, White Sox' Dylan Cease facing 8-9-1 
+b3;0-2;0;---;4,(1-2) BSC.*S;O;LAD;Chris Taylor;Dylan Cease;-3%;31%;Strikeout Swinging
+b3;0-2;1;---;4,(0-2) CSFS;O;LAD;Miguel Rojas;Dylan Cease;-2%;29%;Strikeout Swinging
+b3;0-2;2;---;2,(0-1) CX;;LAD;Mookie Betts;Dylan Cease;1%;31%;Single to CF (Line Drive)
+b3;0-2;2;1--;8,(3-2) CS*BFBFB>X;O;LAD;Freddie Freeman;Dylan Cease;-3%;28%;Popfly: 3B (Deep 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 2, Dodgers 0.
+Top of the 4th, White Sox Batting, Ahead 2-0, Dodgers' Michael Grove facing 5-6-7 
+t4;2-0;0;---;4,(1-2) CBSX;R;CHW;Jake Burger;Michael Grove;-8%;20%;Home Run (Line Drive to Deep CF)
+t4;3-0;0;---;4,(3-0) BBBX;R;CHW;Andrew Vaughn;Michael Grove;-6%;13%;Home Run (Line Drive to Deep LF)
+t4;4-0;0;---;5,(2-2) BFFBX;;CHW;Yasmani Grandal;Michael Grove;-1%;12%;Single to CF (Line Drive to Deep LF-CF)
+t4;4-0;0;1--;2,(1-0) BX;O;CHW;Clint Frazier;Michael Grove;1%;13%;Flyball: CF (Deep CF-RF)
+t4;4-0;1;1--;8,(3-2) CF*BBFBFX;O;CHW;Elvis Andrus;Michael Grove;1%;14%;Flyball: RF (Short RF Line)
+t4;4-0;2;1--;2,(0-1) CX;O;CHW;Tim Anderson;Michael Grove;1%;16%;Groundout: SS-2B/Forceout at 2B; Anderson to 1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. White Sox 4, Dodgers 0.
+Bottom of the 4th, Dodgers Batting, Behind 0-4, White Sox' Dylan Cease facing 3-4-5 
+b4;0-4;0;---;5,(3-1) BCBBB;;LAD;Will Smith;Dylan Cease;3%;19%;Walk
+b4;0-4;0;1--;2,(1-0) BX;O;LAD;Jason Heyward;Dylan Cease;-3%;16%;Popfly: 1B
+b4;0-4;1;1--;3,(1-1) BCX;O;LAD;David Peralta;Dylan Cease;-3%;13%;Foul Popfly: 3B (3B into Foul Terr.)
+b4;0-4;2;1--;7,(2-2) BCFFBFC;O;LAD;Miguel Vargas;Dylan Cease;-2%;11%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 4, Dodgers 0.
+Top of the 5th, White Sox Batting, Ahead 4-0, Dodgers' Michael Grove facing 2-3-4 
+t5;4-0;0;---;6,(3-2) BBBFS.B;;CHW;Gavin Sheets;Michael Grove;-1%;10%;Walk
+t5;4-0;0;1--;4,(1-2) FS*B*S;O;CHW;Luis Robert Jr.;Michael Grove;1%;11%;Strikeout Swinging
+t5;4-0;1;1--;4,(1-2) BSS.S;O;CHW;Eloy Jiménez;Michael Grove;1%;12%;Strikeout Swinging
+t5;4-0;2;1--;4,(1-2) SBC*S;O;CHW;Jake Burger;Michael Grove;1%;13%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 4, Dodgers 0.
+Bottom of the 5th, Dodgers Batting, Behind 0-4, White Sox' Dylan Cease facing 7-8-9 
+b5;0-4;0;---;3,(0-2) CS.*S;O;LAD;James Outman;Dylan Cease;-2%;11%;Strikeout Swinging
+b5;0-4;1;---;8,(3-2) BFBFFBF*B;;LAD;Chris Taylor;Dylan Cease;2%;13%;Walk
+b5;0-4;1;1--;5,(2-2) BBSF.S;O;LAD;Miguel Rojas;Dylan Cease;-3%;11%;Strikeout Swinging
+b5;0-4;2;1--;3,(1-1) CBX;;LAD;Mookie Betts;Dylan Cease;2%;13%;Single to CF (Ground Ball); Taylor to 2B
+b5;0-4;2;12-;4,(2-1) B*BFX;O;LAD;Freddie Freeman;Dylan Cease;-4%;9%;Groundout: 2B-SS/Forceout at 2B (Deep 2B); Freeman to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. White Sox 4, Dodgers 0.
+Top of the 6th, White Sox Batting, Ahead 4-0, Dodgers' Shelby Miller facing 6-7-8 
+;;;;;;;;;Shelby Miller replaces Michael Grove pitching
+t6;4-0;0;---;2,(1-0) .BX;O;CHW;Andrew Vaughn;Shelby Miller;1%;10%;Groundout: 2B-1B
+t6;4-0;1;---;3,(1-1) BFX;O;CHW;Yasmani Grandal;Shelby Miller;1%;10%;Lineout: LF
+t6;4-0;2;---;3,(0-2) CFS;O;CHW;Clint Frazier;Shelby Miller;0%;11%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 4, Dodgers 0.
+Bottom of the 6th, Dodgers Batting, Behind 0-4, White Sox' Dylan Cease facing 3-4-5 
+b6;0-4;0;---;3,(0-2) CS.X;;LAD;Will Smith;Dylan Cease;4%;14%;Single to CF (Line Drive)
+b6;0-4;0;1--;4,(1-2) BC*SS;O;LAD;Jason Heyward;Dylan Cease;-3%;11%;Strikeout Swinging
+b6;0-4;1;1--;2,(0-1) FX;;LAD;David Peralta;Dylan Cease;4%;15%;Single to CF (Line Drive); Smith to 2B
+;;;;;;;;;Reynaldo López replaces Dylan Cease pitching
+b6;0-4;1;12-;3,(1-1) .C*BX;O;LAD;Miguel Vargas;Reynaldo López;-4%;10%;Flyball: RF (CF-RF)
+b6;0-4;2;12-;2,(0-1) SX;;LAD;James Outman;Reynaldo López;3%;14%;Single to CF (Line Drive); Smith to 3B; Peralta to 2B
+b6;0-4;2;123;3,(1-1) BSX;RRRR;LAD;Chris Taylor;Reynaldo López;38%;52%;Home Run (Fly Ball to Deep LF-CF); Smith Scores; Peralta Scores; Outman Scores
+b6;4-4;2;---;4,(0-2) CFFX;;LAD;Miguel Rojas;Reynaldo López;2%;54%;Single to SS (Ground Ball)
+b6;4-4;2;1--;2,(1-0) B>B;;LAD;Mookie Betts;Reynaldo López;2%;55%;Rojas Steals 2B
+b6;4-4;2;-2-;5,(3-1) B>B.CBX;O;LAD;Mookie Betts;Reynaldo López;-5%;50%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;4 runs, 5 hits, 0 errors, 1 LOB. White Sox 4, Dodgers 4.
+Top of the 7th, White Sox Batting, Tied 4-4, Dodgers' Shelby Miller facing 9-1-2 
+t7;4-4;0;---;2,(0-1) .CX;;CHW;Elvis Andrus;Shelby Miller;-10%;40%;Double to LF (Line Drive to LF Line)
+t7;4-4;0;-2-;3,(0-2) CFC;O;CHW;Tim Anderson;Shelby Miller;7%;47%;Strikeout Looking
+t7;4-4;1;-2-;4,(1-2) 2SBSX;O;CHW;Gavin Sheets;Shelby Miller;5%;52%;Groundout: 2B-1B (Deep 2B-1B); Andrus to 3B
+t7;4-4;2;--3;5,(3-1) BBS*BB;;CHW;Luis Robert Jr.;Shelby Miller;-2%;50%;Walk
+t7;4-4;2;1-3;3,(1-2) BC>S+3;O;CHW;Eloy Jiménez;Shelby Miller;9%;59%;Andrus Caught Stealing (PO) Hm (C-3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 4, Dodgers 4.
+Bottom of the 7th, Dodgers Batting, Tied 4-4, White Sox' Joe Kelly facing 2-3-4 
+;;;;;;;;;Joe Kelly replaces Reynaldo López pitching
+b7;4-4;0;---;6,(3-2) .BCBBFX;O;LAD;Freddie Freeman;Joe Kelly;-4%;55%;Flyball: LF (LF-CF)
+b7;4-4;1;---;6,(3-2) CBBF.BB;;LAD;Will Smith;Joe Kelly;4%;59%;Walk
+b7;4-4;1;1--;4,(1-2) BFT*S;O;LAD;Jason Heyward;Joe Kelly;-5%;54%;Strikeout Swinging
+b7;4-4;2;1--;1,(0-0) X;O;LAD;David Peralta;Joe Kelly;-4%;50%;Lineout: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 4, Dodgers 4.
+Top of the 8th, White Sox Batting, Tied 4-4, Dodgers' Yency Almonte facing 4-5-6 
+;;;;;;;;;Yency Almonte replaces Shelby Miller pitching
+t8;4-4;0;---;6,(2-2) .BSCBFS;O;CHW;Eloy Jiménez;Yency Almonte;5%;55%;Strikeout Swinging
+t8;4-4;1;---;3,(0-2) FF.C;O;CHW;Jake Burger;Yency Almonte;4%;59%;Strikeout Looking
+t8;4-4;2;---;3,(1-1) BSX;O;CHW;Andrew Vaughn;Yency Almonte;3%;61%;Groundout: C-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 4, Dodgers 4.
+Bottom of the 8th, Dodgers Batting, Tied 4-4, White Sox' Gregory Santos facing 6-7-8 
+;;;;;;;;;Gregory Santos replaces Joe Kelly pitching
+b8;4-4;0;---;5,(2-2) .BSFBS;O;LAD;Miguel Vargas;Gregory Santos;-5%;56%;Strikeout Swinging
+b8;4-4;1;---;5,(2-2) CS.BBS;O;LAD;James Outman;Gregory Santos;-4%;53%;Strikeout Swinging
+b8;4-4;2;---;7,(3-2) BBSSFBX;O;LAD;Chris Taylor;Gregory Santos;-3%;50%;Flyball: RF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 4, Dodgers 4.
+Top of the 9th, White Sox Batting, Tied 4-4, Dodgers' Evan Phillips facing 7-8-9 
+;;;;;;;;;Evan Phillips replaces Yency Almonte pitching
+t9;4-4;0;---;3,(0-2) .CF*S;O;CHW;Yasmani Grandal;Evan Phillips;6%;56%;Strikeout Swinging
+t9;4-4;1;---;3,(0-2) LFS;O;CHW;Clint Frazier;Evan Phillips;5%;61%;Strikeout Swinging
+t9;4-4;2;---;4,(2-1) BBSX;O;CHW;Elvis Andrus;Evan Phillips;4%;65%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 4, Dodgers 4.
+Bottom of the 9th, Dodgers Batting, Tied 4-4, White Sox' Kendall Graveman facing 9-1-2 
+;;;;;;;;;Kendall Graveman replaces Gregory Santos pitching
+b9;4-4;0;---;3,(1-1) .FBX;;LAD;Miguel Rojas;Kendall Graveman;7%;72%;Single to SS (Ground Ball to Weak SS-2B)
+b9;4-4;0;1--;2,(0-1) C1X;O;LAD;Mookie Betts;Kendall Graveman;-8%;64%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Betts to 1B
+b9;4-4;1;1--;4,(3-0) B1*BBB;;LAD;Freddie Freeman;Kendall Graveman;7%;72%;Walk; Betts to 2B
+b9;4-4;1;12-;6,(3-2) CBBFBS;O;LAD;Will Smith;Kendall Graveman;-10%;62%;Strikeout Swinging
+b9;4-4;2;12-;3,(0-2) CFT;O;LAD;Jason Heyward;Kendall Graveman;-12%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. White Sox 4, Dodgers 4.
+Top of the 10th, White Sox Batting, Tied 4-4, Dodgers' Evan Phillips facing 1-2-3 
+;;;;;;;;;Elvis Andrus running at second base to start the extra inning
+t10;4-4;0;-2-;1,(0-0) .X;O;CHW;Tim Anderson;Evan Phillips;2%;52%;Groundout: 1B-P (2B-1B); Andrus to 3B
+t10;4-4;1;--3;6,(3-2) BBFFB*B;;CHW;Gavin Sheets;Evan Phillips;-3%;49%;Walk
+;;;;;;;;;Andrew Benintendi pinch runs for Gavin Sheets (RF) batting 2nd
+t10;4-4;1;1-3;4,(1-2) .TBFC;O;CHW;Luis Robert Jr.;Evan Phillips;17%;66%;Strikeout Looking
+t10;4-4;2;1-3;1,(0-0) >S;;CHW;Eloy Jiménez;Evan Phillips;-2%;64%;Benintendi Steals 2B
+t10;4-4;2;-23;6,(1-2) >S.*BS.FFS;O;CHW;Eloy Jiménez;Evan Phillips;18%;82%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. White Sox 4, Dodgers 4.
+Bottom of the 10th, Dodgers Batting, Tied 4-4, White Sox' Aaron Bummer facing 5-6-7 
+;;;;;;;;;Aaron Bummer replaces Kendall Graveman pitchingAndrew Benintendi moves from PR to LF Clint Frazier moves from LF to RF Jonny Deluca pinch hits for David Peralta (LF) batting 5thJason Heyward running at second base to start the extra inning
+b10;4-4;0;-2-;1,(0-0) .....X;O;LAD;Jonny Deluca;Aaron Bummer;1%;83%;Groundout: P-1B (Front of Home); Heyward to 3B
+b10;4-4;1;--3;4,(1-2) FCBX;O;LAD;Miguel Vargas;Aaron Bummer;-20%;63%;Foul Popfly: C
+;;;;;;;;;J.D. Martinez pinch hits for James Outman (CF) batting 7th
+b10;4-4;2;--3;,(3-0) .VVVV;;LAD;J.D. Martinez;Aaron Bummer;1%;64%;Intentional Walk
+b10;4-4;2;1-3;1,(0-0) >C;;LAD;Chris Taylor;Aaron Bummer;0%;64%;Defensive Indifference; Martinez to 2B
+b10;4-4;2;-23;3,(0-2) >C.FS;O;LAD;Chris Taylor;Aaron Bummer;-14%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. White Sox 4, Dodgers 4.
+Top of the 11th, White Sox Batting, Tied 4-4, Dodgers' Caleb Ferguson facing 5-6-7 
+;;;;;;;;;Caleb Ferguson replaces J.D. Martinez (PH) pitching and batting 7thJason Heyward moves from DH to LF (team loses DH)Jonny Deluca moves from PH to CF Romy Gonzalez pinch runs for Eloy Jiménez (DH) batting 4thRomy Gonzalez running at second base to start the extra inning
+t11;4-4;0;-2-;5,(2-2) .....SBBCS;O;CHW;Jake Burger;Caleb Ferguson;11%;61%;Strikeout Swinging
+t11;4-4;1;-2-;1,(0-0) X;O;CHW;Andrew Vaughn;Caleb Ferguson;8%;68%;Flyball: CF (Deep CF); Gonzalez to 3B
+t11;4-4;2;--3;2,(1-0) BX;O;CHW;Yasmani Grandal;Caleb Ferguson;14%;82%;Groundout: 3B-1B (Weak SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 4, Dodgers 4.
+Bottom of the 11th, Dodgers Batting, Tied 4-4, White Sox' Garrett Crochet facing 9-1-2 
+;;;;;;;;;Garrett Crochet replaces Aaron Bummer pitchingChris Taylor running at second base to start the extra inning
+b11;4-4;0;-2-;4,(2-1) ...LBBB;;LAD;Miguel Rojas;Garrett Crochet;12%;94%;Passed Ball; Taylor to 3B
+b11;4-4;0;--3;5,(3-1) ...LBBB.B;;LAD;Miguel Rojas;Garrett Crochet;0%;94%;Walk
+b11;4-4;0;1-3;12,(3-2) C*BF*BFFFBFF.FB;;LAD;Mookie Betts;Garrett Crochet;0%;94%;Walk; Rojas to 2B
+b11;4-4;0;123;5,(3-1) BF*BBX;R;LAD;Freddie Freeman;Garrett Crochet;6%;100%;Single to CF (Fly Ball to Deep LF-CF); Taylor Scores/unER; Rojas to 3B; Betts to 2B
+;;;;;;;;;1 run, 1 hit, 0 errors, 3 LOB. White Sox 4, Dodgers 5.

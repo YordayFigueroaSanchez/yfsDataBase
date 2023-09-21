@@ -1,0 +1,259 @@
+
+Scorebox Meta
+20230901
+6:40 p.m. Local
+18248
+Chase Field
+160
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/BAL-2023.png;/teams/BAL/2023.shtml;1;0;0;0;0;0;0;1;0;2;8;1
+https://cdn.ssref.net/req/202309121/tlogo/br/ARI-2023.png;/teams/ARI/2023.shtml;2;0;0;0;0;2;0;0;X;4;10;0
+
+Batting home
+Ketel Marte;/players/m/marteke01.shtml;2B;4;1;1;0;0;1;4;.272;.353;.473;.826;13;9;-0.004; 0.61;0.037;-0.042;-0.00%; 0.65; -0.2;0;3;
+Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF;3;1;1;2;1;1;4;.254;.305;.463;.768;19;10;0.129; 0.71;0.162;-0.032; 0.08%; 0.74; 1.4;4;0;HR
+Tommy Pham;/players/p/phamth01.shtml;DH;4;1;1;0;0;0;4;.261;.332;.458;.789;18;12;0.018; 0.60;0.059;-0.041; 0.01%; 0.64; -0.0;;;2B
+Christian Walker;/players/w/walkech02.shtml;1B;4;1;2;2;0;1;4;.271;.347;.524;.870;11;8;0.116; 0.56;0.133;-0.017; 0.07%; 0.59; 1.3;7;0;HR
+Evan Longoria;/players/l/longoev01.shtml;3B;3;0;0;0;1;2;4;.230;.296;.466;.763;18;13;-0.027; 0.58;0.019;-0.046;-0.02%; 0.61; 0.1;2;2;
+Geraldo Perdomo;/players/p/perdoge01.shtml;PR-SS;0;0;0;0;0;0;0;.269;.369;.396;.765;;;;;;;;;;0;0;
+Corbin Carroll;/players/c/carroco02.shtml;RF;4;0;2;0;0;0;4;.281;.362;.521;.883;15;9;0.001; 0.54;0.047;-0.046; 0.00%; 0.56; 0.1;1;1;2B,GDP
+Gabriel Moreno;/players/m/morenga01.shtml;C;4;0;2;0;0;2;4;.284;.327;.411;.738;16;11;0.027; 0.61;0.069;-0.043; 0.02%; 0.64; -0.2;10;0;2B
+Nick Ahmed;/players/a/ahmedni01.shtml;SS;3;0;0;0;0;1;3;.220;.262;.314;.577;17;11;-0.138; 0.92;0.000;-0.138;-0.09%; 0.96; -1.7;2;0;
+Pavin Smith;/players/s/smithpa04.shtml;PH;0;0;0;0;0;0;0;.190;.310;.332;.642;;;;;;;;;;;;
+Emmanuel Rivera;/players/r/riverem01.shtml;PH-3B;1;0;0;0;0;0;1;.266;.310;.374;.683;9;6;-0.017; 0.57;0.000;-0.017;-0.01%; 0.60; -0.6;0;1;
+Alek Thomas;/players/t/thomaal01.shtml;CF;3;0;1;0;0;0;3;.245;.288;.399;.686;10;6;-0.017; 0.48;0.011;-0.028;-0.01%; 0.51; -0.4;1;0;
+Zach Davies;/players/d/davieza02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Kyle Nelson;/players/n/nelsoky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kevin Ginkel;/players/g/ginkeke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Paul Sewald;/players/s/sewalpa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Tommy Pham (22, off Cole Irvin); Gabriel Moreno (15, off Joey Krehbiel); Corbin Carroll (26, off Shintaro Fujinami).
+
+
+HR: Lourdes Gurriel Jr. (21, off Cole Irvin, 1st inn, 1 on, 0 outs to Deep LF-CF); Christian Walker (29, off Cole Irvin, 6th inn, 1 on, 0 outs to Deep LF Line).
+
+
+TB: Christian Walker 5; Lourdes Gurriel Jr. 4; Gabriel Moreno 3; Corbin Carroll 3; Tommy Pham 2; Ketel Marte; Alek Thomas.
+
+
+GIDP: Corbin Carroll (6).
+
+
+RBI: Christian Walker 2 (89); Lourdes Gurriel Jr. 2 (70).
+
+
+Team LOB: 7.
+With RISP: 1 for 5.
+
+Batting away
+Adley Rutschman;/players/r/rutscad01.shtml;C;3;0;0;0;0;1;4;.273;.365;.418;.784;12;8;-0.022; 1.29;0.065;-0.087;-0.01%; 1.30; -0.2;9;0;HBP
+Gunnar Henderson;/players/h/hendegu01.shtml;SS;4;2;2;0;0;0;4;.254;.332;.481;.813;15;10;-0.036; 1.14;0.060;-0.096;-0.02%; 1.15; -0.1;2;5;2B
+Anthony Santander;/players/s/santaan02.shtml;RF;4;0;0;0;0;0;4;.258;.328;.491;.818;15;9;-0.192; 1.52;0.000;-0.192;-0.12%; 1.54; -1.8;0;0;
+Ryan O'Hearn;/players/o/ohearry01.shtml;1B;4;0;2;2;0;0;4;.300;.335;.500;.835;8;5;0.088; 1.01;0.144;-0.056; 0.05%; 1.02; 1.5;8;0;2B
+Austin Hays;/players/h/haysau01.shtml;LF;4;0;1;0;0;3;4;.281;.329;.454;.783;19;13;-0.050; 0.93;0.032;-0.082;-0.03%; 0.94; -0.4;2;0;
+Cedric Mullins;/players/m/mullice01.shtml;CF;4;0;1;0;0;0;4;.245;.322;.439;.761;17;9;0.003; 1.57;0.089;-0.086; 0.00%; 1.58; -0.2;1;0;SB
+Jordan Westburg;/players/w/westbjo01.shtml;DH;4;0;1;0;0;3;4;.261;.308;.395;.703;14;11;-0.077; 1.25;0.039;-0.115;-0.05%; 1.27; -0.4;;;2B
+Adam Frazier;/players/f/fraziad01.shtml;2B;4;0;0;0;0;2;4;.239;.296;.402;.698;12;8;-0.139; 1.27;0.000;-0.139;-0.08%; 1.28; -1.1;2;1;
+Ramón Urías;/players/u/uriasra01.shtml;3B;3;0;1;0;1;1;4;.254;.320;.375;.694;18;9;0.012; 1.05;0.078;-0.066; 0.01%; 1.06; -0.0;0;3;
+Cole Irvin;/players/i/irvinco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joey Krehbiel;/players/k/krehbjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Shintaro Fujinami;/players/f/fujinsh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Cionel Pérez;/players/p/perezci01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jordan Westburg (11, off Kyle Nelson); Gunnar Henderson (22, off Kevin Ginkel); Ryan O'Hearn (17, off Kevin Ginkel).
+
+
+HBP: Adley Rutschman (2, by Zach Davies).
+
+
+TB: Ryan O'Hearn 3; Gunnar Henderson 3; Jordan Westburg 2; Austin Hays; Ramón Urías; Cedric Mullins.
+
+
+RBI: Ryan O'Hearn 2 (47).
+
+
+2-out RBI: Ryan O'Hearn 2.
+
+
+Team LOB: 7.
+With RISP: 2 for 11.
+
+Pitching home
+Zach Davies;/players/d/davieza02.shtml; W (2-5); 6 ;4;1;1;1;6;0;6.45;23;85;51;25;10;16;6;9;6;0;65;;;0.276; 1.15; 0.17%; 1.21; 2.1
+Kyle Nelson;/players/n/nelsoky01.shtml; H (11); 0.2;1;0;0;0;0;0;3.10;3;8;5;4;0;1;0;3;1;0;;0;0;0.022; 0.94; 0.01%; 0.99; 0.2
+Kevin Ginkel;/players/g/ginkeke01.shtml; H (7); 1.1;2;1;1;0;2;0;2.43;6;21;15;8;4;3;1;3;1;0;;1;0;0.038; 0.98; 0.02%; 1.02; -0.1
+Paul Sewald;/players/s/sewalpa01.shtml; S (29); 1 ;1;0;0;0;2;0;3.19;4;16;11;7;3;1;2;0;0;0;;0;0;0.077; 2.12; 0.05%; 2.22; 0.5
+
+Pitching away
+Cole Irvin;/players/i/irvinco01.shtml; L (1-4); 5.2;8;4;4;1;4;2;4.91;24;88;60;37;11;12;11;8;4;0;40;;;-0.120; 0.78;-0.07%; 0.78; -1.0
+Joey Krehbiel;/players/k/krehbjo01.shtml;Joey Krehbiel; 1 ;1;0;0;1;2;0;0.00;5;27;15;6;2;7;0;2;1;0;;0;0;0.012; 0.21; 0.01%; 0.21; 0.4
+Shintaro Fujinami;/players/f/fujinsh01.shtml;Shintaro Fujinami; 1 ;1;0;0;0;2;0;7.53;5;22;14;8;1;5;2;1;1;0;;1;0;0.005; 0.28; 0.00%; 0.28; 0.1
+Cionel Pérez;/players/p/perezci01.shtml;Cionel Pérez; 0.1;0;0;0;0;0;0;3.63;1;9;6;6;0;0;1;0;0;0;;2;0;0.017; 0.57; 0.01%; 0.57; 0.6
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Zach Davies (1; Adley Rutschman).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Zach Davies (1; Adley Rutschman).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Tom Hanahan, 1B - Nestor Ceja, 2B - Brian O'Nora, 3B - Pat Hoberg, LF - (none), RF - (none).
+Time of Game: 2:40.
+Attendance: 18,248.
+Start Time Weather: 74° F, Wind 0mph, In Dome.
+
+div_lineups
+Orioles
+1;Adley Rutschman;/players/r/rutscad01.shtml;C
+2;Gunnar Henderson;/players/h/hendegu01.shtml;SS
+3;Anthony Santander;/players/s/santaan02.shtml;RF
+4;Ryan O'Hearn;/players/o/ohearry01.shtml;1B
+5;Austin Hays;/players/h/haysau01.shtml;LF
+6;Cedric Mullins;/players/m/mullice01.shtml;CF
+7;Jordan Westburg;/players/w/westbjo01.shtml;DH
+8;Adam Frazier;/players/f/fraziad01.shtml;2B
+9;Ramón Urías;/players/u/uriasra01.shtml;3B
+; Cole Irvin;/players/i/irvinco01.shtml;P
+Diamondbacks
+1;Ketel Marte;/players/m/marteke01.shtml;2B
+2;Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF
+3;Tommy Pham;/players/p/phamth01.shtml;DH
+4;Christian Walker;/players/w/walkech02.shtml;1B
+5;Evan Longoria;/players/l/longoev01.shtml;3B
+6;Corbin Carroll;/players/c/carroco02.shtml;RF
+7;Gabriel Moreno;/players/m/morenga01.shtml;C
+8;Nick Ahmed;/players/a/ahmedni01.shtml;SS
+9;Alek Thomas;/players/t/thomaal01.shtml;CF
+; Zach Davies;/players/d/davieza02.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-1;0;1--;3,(1-1) BFX;RR;ARI;Lourdes Gurriel Jr.;Cole Irvin;16%;65%;Home Run (Fly Ball to Deep LF-CF); Marte Scores
+b6;2-1;0;-2-;1,(0-0) X;RR;ARI;Christian Walker;Cole Irvin;11%;91%;Home Run (Fly Ball to Deep LF Line); Pham Scores
+b4;2-1;1;1-3;5,(2-2) B1BCS.X;OO;ARI;Nick Ahmed;Cole Irvin;-11%;64%;Double Play: Flyball: SS (Deep SS-3B Hole); Carroll out at Hm/SS-C
+t3;1-2;1;12-;4,(2-1) BBCX;OO;BAL;Anthony Santander;Zach Davies;10%;67%;Double Play: Lineout: RF (Deep RF Line); Urías out at 2B/RF-P-SS
+t1;0-0;2;-2-;2,(1-0) BX;R;BAL;Ryan O'Hearn;Zach Davies;-9%;43%;Single to CF (Ground Ball thru SS-2B); Henderson Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Orioles Batting, Tied 0-0, Diamondbacks' Zach Davies facing 1-2-3 
+t1;0-0;0;---;4,(1-2) CBS.X;O;BAL;Adley Rutschman;Zach Davies;2%;52%;Groundout: 2B-1B (Weak 2B-1B)
+t1;0-0;1;---;3,(1-1) BCX;;BAL;Gunnar Henderson;Zach Davies;-2%;50%;Single to LF (Line Drive to Short LF Line)
+t1;0-0;1;1--;5,(2-2) CBBCX;O;BAL;Anthony Santander;Zach Davies;2%;52%;Groundout: 3B-1B; Henderson to 2B
+t1;0-0;2;-2-;2,(1-0) BX;R;BAL;Ryan O'Hearn;Zach Davies;-9%;43%;Single to CF (Ground Ball thru SS-2B); Henderson Scores
+t1;1-0;2;1--;7,(3-2) BC*BBC>F>S;O;BAL;Austin Hays;Zach Davies;2%;45%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Orioles 1, Diamondbacks 0.
+Bottom of the 1st, Diamondbacks Batting, Behind 0-1, Orioles' Cole Irvin facing 1-2-3 
+b1;0-1;0;---;1,(0-0) X;;ARI;Ketel Marte;Cole Irvin;4%;49%;Single to SS (Ground Ball)
+b1;0-1;0;1--;3,(1-1) BFX;RR;ARI;Lourdes Gurriel Jr.;Cole Irvin;16%;65%;Home Run (Fly Ball to Deep LF-CF); Marte Scores
+b1;2-1;0;---;7,(3-2) BCFFBBX;O;ARI;Tommy Pham;Cole Irvin;-2%;63%;Lineout: CF (Deep CF)
+b1;2-1;1;---;1,(0-0) X;;ARI;Christian Walker;Cole Irvin;2%;65%;Single to RF (Fly Ball to Short CF-RF)
+b1;2-1;1;1--;3,(0-2) CCS;O;ARI;Evan Longoria;Cole Irvin;-2%;62%;Strikeout Swinging
+b1;2-1;2;1--;4,(2-1) BBCX;O;ARI;Corbin Carroll;Cole Irvin;-2%;60%;Groundout: 1B unassisted
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Orioles 1, Diamondbacks 2.
+Top of the 2nd, Orioles Batting, Behind 1-2, Diamondbacks' Zach Davies facing 6-7-8 
+t2;1-2;0;---;4,(2-1) BBCX;O;BAL;Cedric Mullins;Zach Davies;2%;63%;Flyball: LF (Deep LF)
+t2;1-2;1;---;6,(2-2) CFBFBS;O;BAL;Jordan Westburg;Zach Davies;2%;64%;Strikeout Swinging
+t2;1-2;2;---;4,(1-2) CBFS;O;BAL;Adam Frazier;Zach Davies;1%;66%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 1, Diamondbacks 2.
+Bottom of the 2nd, Diamondbacks Batting, Ahead 2-1, Orioles' Cole Irvin facing 7-8-9 
+b2;2-1;0;---;4,(1-2) CFBS;O;ARI;Gabriel Moreno;Cole Irvin;-2%;64%;Strikeout Swinging
+b2;2-1;1;---;4,(1-2) LS.BX;O;ARI;Nick Ahmed;Cole Irvin;-1%;62%;Groundout: SS-1B
+b2;2-1;2;---;2,(1-0) BX;;ARI;Alek Thomas;Cole Irvin;1%;63%;Single to SS (Ground Ball to SS-3B Hole)
+b2;2-1;2;1--;2,(1-0) BX;O;ARI;Ketel Marte;Cole Irvin;-2%;61%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Marte to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 1, Diamondbacks 2.
+Top of the 3rd, Orioles Batting, Behind 1-2, Diamondbacks' Zach Davies facing 9-1-2 
+t3;1-2;0;---;5,(3-1) SBBBB;;BAL;Ramón Urías;Zach Davies;-4%;57%;Walk
+t3;1-2;0;1--;1,(0-0) H;;BAL;Adley Rutschman;Zach Davies;-7%;50%;Hit By Pitch; Urías to 2B
+t3;1-2;0;12-;1,(0-0) X;O;BAL;Gunnar Henderson;Zach Davies;6%;57%;Lineout: LF (Deep LF)
+t3;1-2;1;12-;4,(2-1) BBCX;OO;BAL;Anthony Santander;Zach Davies;10%;67%;Double Play: Lineout: RF (Deep RF Line); Urías out at 2B/RF-P-SS
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Orioles 1, Diamondbacks 2.
+Bottom of the 3rd, Diamondbacks Batting, Ahead 2-1, Orioles' Cole Irvin facing 2-3-4 
+b3;2-1;0;---;6,(3-2) B.BBFCX;O;ARI;Lourdes Gurriel Jr.;Cole Irvin;-2%;65%;Lineout: LF (Deep LF-CF)
+b3;2-1;1;---;4,(1-2) CFBX;O;ARI;Tommy Pham;Cole Irvin;-2%;63%;Groundout: SS-1B (SS-3B Hole)
+b3;2-1;2;---;3,(1-1) .BCX;O;ARI;Christian Walker;Cole Irvin;-1%;62%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 1, Diamondbacks 2.
+Top of the 4th, Orioles Batting, Behind 1-2, Diamondbacks' Zach Davies facing 4-5-6 
+t4;1-2;0;---;3,(2-0) BBX;O;BAL;Ryan O'Hearn;Zach Davies;3%;65%;Groundout: 2B-1B
+t4;1-2;1;---;3,(1-1) CBX;;BAL;Austin Hays;Zach Davies;-3%;62%;Single to CF (Line Drive)
+t4;1-2;1;1--;3,(1-1) SBX;O;BAL;Cedric Mullins;Zach Davies;4%;66%;Popfly: 3B (Weak 3B)
+t4;1-2;2;1--;4,(1-2) BFF1C;O;BAL;Jordan Westburg;Zach Davies;3%;68%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 1, Diamondbacks 2.
+Bottom of the 4th, Diamondbacks Batting, Ahead 2-1, Orioles' Cole Irvin facing 5-6-7 
+b4;2-1;0;---;4,(1-2) SF.BS;O;ARI;Evan Longoria;Cole Irvin;-2%;66%;Strikeout Swinging
+b4;2-1;1;---;2,(1-0) BX;;ARI;Corbin Carroll;Cole Irvin;2%;69%;Single to SS (Ground Ball)
+b4;2-1;1;1--;3,(0-2) SFX;;ARI;Gabriel Moreno;Cole Irvin;6%;75%;Single to RF (Line Drive to RF Line); Carroll to 3B
+b4;2-1;1;1-3;5,(2-2) B1BCS.X;OO;ARI;Nick Ahmed;Cole Irvin;-11%;64%;Double Play: Flyball: SS (Deep SS-3B Hole); Carroll out at Hm/SS-C
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Orioles 1, Diamondbacks 2.
+Top of the 5th, Orioles Batting, Behind 1-2, Diamondbacks' Zach Davies facing 8-9-1 
+t5;1-2;0;---;3,(2-0) BBX;O;BAL;Adam Frazier;Zach Davies;3%;67%;Lineout: CF (Deep CF)
+t5;1-2;1;---;2,(0-1) CX;;BAL;Ramón Urías;Zach Davies;-4%;63%;Single to RF (Line Drive to Short CF-RF)
+t5;1-2;1;1--;5,(2-2) CBFBS;O;BAL;Adley Rutschman;Zach Davies;4%;67%;Strikeout Swinging
+t5;1-2;2;1--;7,(3-2) F*BFB.B>F>X;O;BAL;Gunnar Henderson;Zach Davies;3%;71%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 1, Diamondbacks 2.
+Bottom of the 5th, Diamondbacks Batting, Ahead 2-1, Orioles' Cole Irvin facing 9-1-2 
+b5;2-1;0;---;4,(2-1) BBS.X;O;ARI;Alek Thomas;Cole Irvin;-2%;69%;Groundout: 1B unassisted (2B-1B)
+b5;2-1;1;---;5,(1-2) CC.FBX;O;ARI;Ketel Marte;Cole Irvin;-2%;67%;Groundout: SS-1B
+b5;2-1;2;---;4,(1-2) CBS.T;O;ARI;Lourdes Gurriel Jr.;Cole Irvin;-1%;66%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 1, Diamondbacks 2.
+Top of the 6th, Orioles Batting, Behind 1-2, Diamondbacks' Zach Davies facing 3-4-5 
+t6;1-2;0;---;3,(1-1) S.BX;O;BAL;Anthony Santander;Zach Davies;4%;70%;Groundout: 3B-1B
+t6;1-2;1;---;2,(0-1) CX;O;BAL;Ryan O'Hearn;Zach Davies;3%;72%;Flyball: LF (Deep LF Line)
+t6;1-2;2;---;4,(1-2) CBSS;O;BAL;Austin Hays;Zach Davies;2%;74%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 1, Diamondbacks 2.
+Bottom of the 6th, Diamondbacks Batting, Ahead 2-1, Orioles' Cole Irvin facing 3-4-5 
+b6;2-1;0;---;2,(0-1) FX;;ARI;Tommy Pham;Cole Irvin;6%;80%;Double to LF (Line Drive to Deep LF-CF)
+b6;2-1;0;-2-;1,(0-0) X;RR;ARI;Christian Walker;Cole Irvin;11%;91%;Home Run (Fly Ball to Deep LF Line); Pham Scores
+b6;4-1;0;---;10,(3-2) .BSFFBFBFFB;;ARI;Evan Longoria;Cole Irvin;1%;92%;Walk
+b6;4-1;0;1--;4,(1-2) L1S.BX;OO;ARI;Corbin Carroll;Cole Irvin;-3%;90%;Ground Ball Double Play: SS-1B (SS-2B)
+;;;;;;;;;Joey Krehbiel replaces Cole Irvin pitching
+b6;4-1;2;---;4,(2-1) .CBBX;;ARI;Gabriel Moreno;Joey Krehbiel;1%;90%;Double to LF (Line Drive to Deep LF Line)
+b6;4-1;2;-2-;8,(3-2) BBBCCFFT;O;ARI;Nick Ahmed;Joey Krehbiel;-1%;89%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Orioles 1, Diamondbacks 4.
+Top of the 7th, Orioles Batting, Behind 1-4, Diamondbacks' Kyle Nelson facing 6-7-8 
+;;;;;;;;;Kyle Nelson replaces Zach Davies pitching
+t7;1-4;0;---;6,(3-2) .CBBBF.X;O;BAL;Cedric Mullins;Kyle Nelson;2%;92%;Popfly: SS (SS-3B Hole)
+t7;1-4;1;---;1,(0-0) X;;BAL;Jordan Westburg;Kyle Nelson;-4%;88%;Double to LF (Line Drive)
+t7;1-4;1;-2-;1,(0-0) X;O;BAL;Adam Frazier;Kyle Nelson;4%;91%;Popfly: 3B (Weak 3B)
+;;;;;;;;;Kevin Ginkel replaces Kyle Nelson pitching
+t7;1-4;2;-2-;6,(3-2) .BFBC.*BC;O;BAL;Ramón Urías;Kevin Ginkel;3%;94%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 1, Diamondbacks 4.
+Bottom of the 7th, Diamondbacks Batting, Ahead 4-1, Orioles' Joey Krehbiel facing 9-1-2 
+b7;4-1;0;---;4,(1-2) BCSX;O;ARI;Alek Thomas;Joey Krehbiel;-1%;93%;Flyball: LF (LF-CF)
+b7;4-1;1;---;5,(2-2) BCBC.S;O;ARI;Ketel Marte;Joey Krehbiel;0%;93%;Strikeout Swinging
+b7;4-1;2;---;6,(3-2) CBBBFB;;ARI;Lourdes Gurriel Jr.;Joey Krehbiel;0%;93%;Walk
+;;;;;;;;;Shintaro Fujinami replaces Joey Krehbiel pitching
+b7;4-1;2;1--;5,(2-2) .1BCFBX;O;ARI;Tommy Pham;Shintaro Fujinami;-1%;93%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Pham to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Orioles 1, Diamondbacks 4.
+Top of the 8th, Orioles Batting, Behind 1-4, Diamondbacks' Kevin Ginkel facing 1-2-3 
+t8;1-4;0;---;2,(0-1) CX;O;BAL;Adley Rutschman;Kevin Ginkel;2%;95%;Groundout: 1B unassisted
+t8;1-4;1;---;4,(1-2) BFS.X;;BAL;Gunnar Henderson;Kevin Ginkel;-4%;92%;Double to RF (Line Drive to Deep RF Line)
+t8;1-4;1;-2-;3,(1-1) FBX;O;BAL;Anthony Santander;Kevin Ginkel;3%;95%;Flyball: LF (Short LF-CF)
+t8;1-4;2;-2-;1,(0-0) X;R;BAL;Ryan O'Hearn;Kevin Ginkel;-6%;89%;Ground-rule Double (Fly Ball to Deep RF Line); Henderson Scores
+t8;2-4;2;-2-;5,(1-2) SSF*BS;O;BAL;Austin Hays;Kevin Ginkel;4%;94%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Orioles 2, Diamondbacks 4.
+Bottom of the 8th, Diamondbacks Batting, Ahead 4-2, Orioles' Shintaro Fujinami facing 4-5-6 
+b8;4-2;0;---;6,(2-2) CFFBBC;O;ARI;Christian Walker;Shintaro Fujinami;-1%;93%;Strikeout Looking
+b8;4-2;1;---;1,(0-0) X;;ARI;Evan Longoria;Shintaro Fujinami;1%;94%;Reached on E5 (throw) (Ground Ball to SS-3B Hole); Longoria to 1B
+;;;;;;;;;Geraldo Perdomo pinch runs for Evan Longoria (3B) batting 5th
+b8;4-2;1;1--;5,(2-2) .F1BF1BX;;ARI;Corbin Carroll;Shintaro Fujinami;2%;96%;Ground-rule Double (Line Drive to Deep CF-RF); Perdomo to 3B
+b8;4-2;1;-23;5,(2-2) CS*B*BC;O;ARI;Gabriel Moreno;Shintaro Fujinami;-2%;94%;Strikeout Looking
+;;;;;;;;;Cionel Pérez replaces Shintaro Fujinami pitchingPavin Smith pinch hits for Nick Ahmed (SS) batting 8thEmmanuel Rivera pinch hits for Pavin Smith batting 8th
+b8;4-2;2;-23;9,(3-2) ...FBFBFFFBX;O;ARI;Emmanuel Rivera;Cionel Pérez;-2%;92%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 1 error, 2 LOB. Orioles 2, Diamondbacks 4.
+Top of the 9th, Orioles Batting, Behind 2-4, Diamondbacks' Paul Sewald facing 6-7-8 
+;;;;;;;;;Paul Sewald replaces Kevin Ginkel pitchingEmmanuel Rivera moves from PH to 3B Geraldo Perdomo moves from PR to SS 
+t9;2-4;0;---;4,(2-1) ...F.BBX;;BAL;Cedric Mullins;Paul Sewald;-8%;85%;Single to RF (Ground Ball thru 2B-1B)
+t9;2-4;0;1--;2,(0-1) F>C;;BAL;Jordan Westburg;Paul Sewald;-1%;83%;Mullins Steals 2B
+t9;2-4;0;-2-;3,(0-2) F>C.S;O;BAL;Jordan Westburg;Paul Sewald;7%;90%;Strikeout Swinging
+t9;2-4;1;-2-;4,(1-2) BFFS;O;BAL;Adam Frazier;Paul Sewald;6%;96%;Strikeout Swinging
+t9;2-4;2;-2-;5,(2-2) BFBS.X;O;BAL;Ramón Urías;Paul Sewald;4%;100%;Groundout: 3B-1B
+;;;;;;;;;Force Play Challenged by BAL manager (Brandon Hyde): Original call upheld upon review.
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 2, Diamondbacks 4.

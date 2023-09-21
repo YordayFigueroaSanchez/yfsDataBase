@@ -1,0 +1,304 @@
+
+Scorebox Meta
+20230621
+6:40 p.m. Local
+23912
+Target Field
+173
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;1;0;1;0;1;0;0;1;0;0;4;10;0
+https://cdn.ssref.net/req/202308101/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;0;2;1;0;0;1;0;0;0;1;5;9;2
+
+Batting home
+Edouard Julien;/players/j/julieed01.shtml;2B;3;1;2;0;0;0;3;.258;.342;.454;.796;7;6;0.060; 0.83;0.084;-0.024; 0.03%; 0.70; 0.5;1;2;2B
+Kyle Farmer;/players/f/farmeky01.shtml;2B;2;0;1;1;0;0;2;.266;.327;.381;.708;9;5;0.144; 2.24;0.155;-0.011; 0.07%; 1.87; 0.7;0;2;
+Alex Kirilloff;/players/k/kirilal01.shtml;1B;4;0;1;0;0;1;4;.264;.375;.411;.786;12;10;-0.052; 1.23;0.026;-0.077;-0.03%; 1.02; -0.4;10;1;
+Carlos Correa;/players/c/correca01.shtml;SS;4;0;0;1;0;1;4;.215;.297;.402;.700;13;9;-0.078; 1.40;0.025;-0.104;-0.04%; 1.17; -0.6;1;3;
+Byron Buxton;/players/b/buxtoby01.shtml;DH;4;1;1;0;0;2;4;.210;.312;.429;.742;17;13;-0.004; 0.94;0.067;-0.071;-0.00%; 0.78; 0.2;;;2B
+Max Kepler;/players/k/keplema01.shtml;RF;4;1;2;2;0;2;4;.200;.272;.406;.678;16;9;0.176; 1.37;0.256;-0.080; 0.09%; 1.15; 1.3;1;0;HR
+Royce Lewis;/players/l/lewisro02.shtml;3B;4;1;1;0;0;0;4;.308;.328;.477;.805;11;9;-0.112; 1.18;0.069;-0.180;-0.06%; 0.99; -0.9;1;1;2B
+Joey Gallo;/players/g/gallojo01.shtml;LF;2;0;0;0;0;2;2;.185;.309;.444;.753;11;6;-0.040; 0.82;0.000;-0.040;-0.02%; 0.69; -0.4;2;0;
+Willi Castro;/players/c/castrwi01.shtml;LF;2;1;0;0;0;0;2;.248;.304;.395;.699;4;2;-0.047; 0.92;0.000;-0.047;-0.02%; 0.77; -0.2;1;0;
+Christian Vázquez;/players/v/vazquch01.shtml;C;3;0;1;1;1;0;4;.227;.304;.287;.590;5;4;0.073; 1.33;0.123;-0.050; 0.04%; 1.11; 1.0;11;1;IW
+Michael A. Taylor;/players/t/taylomi02.shtml;CF;3;0;0;0;0;1;4;.222;.267;.423;.691;13;11;-0.038; 1.43;0.028;-0.066;-0.02%; 1.20; -0.8;1;1;SH
+Sonny Gray;/players/g/grayso01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Brock Stewart;/players/s/stewabr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Griffin Jax;/players/j/jaxgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Jhoan Duran;/players/d/duranjh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jovani Moran;/players/m/moranjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Byron Buxton (10, off Garrett Whitlock); Edouard Julien (7, off Garrett Whitlock); Royce Lewis (2, off Garrett Whitlock).
+
+
+HR: Max Kepler (9, off Garrett Whitlock, 6th inn, 0 on, 1 out to Deep RF Line).
+
+
+SH: Michael A. Taylor (2, off Kaleb Ort).
+
+
+IBB: Christian Vázquez (1, by Kaleb Ort).
+
+
+TB: Max Kepler 5; Edouard Julien 3; Royce Lewis 2; Byron Buxton 2; Alex Kirilloff; Christian Vázquez; Kyle Farmer.
+
+
+RBI: Max Kepler 2 (21); Kyle Farmer (16); Carlos Correa (35); Christian Vázquez (16).
+
+
+2-out RBI: Christian Vázquez.
+
+
+Team LOB: 5.
+With RISP: 2 for 6.
+
+Batting away
+Jarren Duran;/players/d/duranja01.shtml;CF-LF-CF;5;0;0;0;0;3;5;.292;.351;.454;.805;20;17;-0.171; 1.34;0.000;-0.171;-0.08%; 1.00; -1.1;2;0;
+Alex Verdugo;/players/v/verdual01.shtml;RF;5;1;2;0;0;0;5;.303;.374;.468;.843;17;11;-0.006; 0.97;0.095;-0.100;-0.00%; 0.73; 0.1;0;0;3B
+Justin Turner;/players/t/turneju01.shtml;DH;4;2;2;2;1;0;5;.284;.364;.465;.829;23;13;0.100; 1.34;0.227;-0.127; 0.04%; 1.01; 1.3;;;HR,SB
+Rafael Devers;/players/d/deverra01.shtml;3B;5;0;1;1;0;3;5;.237;.302;.482;.784;21;13;-0.100; 1.75;0.098;-0.198;-0.04%; 1.31; -0.0;4;1;2B
+Masataka Yoshida;/players/y/yoshima02.shtml;LF;3;0;1;0;1;0;4;.308;.380;.486;.866;12;6;0.063; 1.33;0.138;-0.075; 0.03%; 1.00; 0.2;3;0;
+David Hamilton;/players/h/hamilda03.shtml;PR-SS;0;1;0;0;0;0;0;;;;;;;0.039; 2.90;0.039;0.000; 0.02%; 2.17; 0.2;0;0;SB
+Adam Duvall;/players/d/duvalad01.shtml;PH;0;0;0;0;1;0;1;.313;.403;.672;1.074;1;0;0.019; 4.19;0.019;0.000; 0.01%; 3.14; 0.1;;;IW
+Pablo Reyes;/players/r/reyespa01.shtml;PR-SS;0;0;0;0;0;0;0;.308;.343;.369;.712;;;;;;;;;;0;0;
+Triston Casas;/players/c/casastr01.shtml;1B;5;0;2;1;0;1;5;.219;.333;.395;.729;16;11;0.120; 2.33;0.294;-0.175; 0.05%; 1.74; 0.5;5;2;2B
+Christian Arroyo;/players/a/arroych01.shtml;2B;4;0;2;0;0;1;4;.264;.302;.421;.724;13;10;-0.098; 1.80;0.154;-0.252;-0.04%; 1.35; -0.6;2;1;CS
+Reese McGuire;/players/m/mcguire01.shtml;C;1;0;0;0;1;0;2;.267;.313;.352;.665;12;7;-0.010; 1.38;0.017;-0.027;-0.00%; 1.02; -0.2;6;1;
+Connor Wong;/players/w/wongco01.shtml;PH-C;2;0;0;0;0;1;2;.242;.311;.441;.752;9;4;-0.170; 2.46;0.000;-0.170;-0.08%; 1.83; -0.9;3;0;
+Enrique Hernández;/players/h/hernaen02.shtml;SS-CF;3;0;0;0;0;1;3;.226;.289;.347;.636;14;9;-0.144; 1.72;0.000;-0.144;-0.07%; 1.28; -1.1;1;2;
+Rob Refsnyder;/players/r/refsnro01.shtml;PH-LF;1;0;0;0;0;1;1;.277;.416;.376;.792;6;4;-0.060; 2.34;0.000;-0.060;-0.03%; 1.75; -0.2;0;0;
+Garrett Whitlock;/players/w/whitlga01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Chris Martin;/players/m/martich02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kenley Jansen;/players/j/janseke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Kaleb Ort;/players/o/ortka01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Rafael Devers (17, off Sonny Gray); Triston Casas (11, off Jhoan Duran).
+
+
+3B: Alex Verdugo (4, off Sonny Gray).
+
+
+HR: Justin Turner (11, off Sonny Gray, 3rd inn, 0 on, 2 outs to Deep LF).
+
+
+IBB: Adam Duvall (1, by Jovani Moran).
+
+
+TB: Justin Turner 5; Alex Verdugo 4; Triston Casas 3; Rafael Devers 2; Christian Arroyo 2; Masataka Yoshida.
+
+
+RBI: Justin Turner 2 (40); Rafael Devers (58); Triston Casas (25).
+
+
+2-out RBI: Rafael Devers; Justin Turner.
+
+
+Team LOB: 9.
+With RISP: 3 for 15.
+
+Pitching home
+Sonny Gray;/players/g/grayso01.shtml;Sonny Gray; 5 ;6;3;3;2;5;1;2.56;23;92;60;33;9;18;7;9;3;0;46;;;-0.071; 1.10;-0.04%; 0.92; -0.4
+Brock Stewart;/players/s/stewabr01.shtml;Brock Stewart; 1 ;2;0;0;0;2;0;0.78;4;15;10;4;4;2;1;1;1;0;;0;0;0.076; 1.96; 0.04%; 1.64; 0.5
+Griffin Jax;/players/j/jaxgr01.shtml; H (9); 1 ;1;0;0;0;0;0;3.38;3;8;6;3;1;2;1;2;1;0;;0;0;0.097; 1.27; 0.05%; 1.06; 0.5
+Jhoan Duran;/players/d/duranjh01.shtml; BS (2); 2 ;1;1;1;1;2;0;1.55;8;32;19;12;3;4;4;1;1;0;;0;0;0.004; 2.27; 0.00%; 1.90; 0.0
+Jovani Moran;/players/m/moranjo01.shtml; W (1-2); 1 ;0;0;0;1;2;0;4.45;4;17;10;5;4;1;1;0;0;0;;0;0;0.313; 4.11; 0.16%; 3.44; 1.1
+
+Pitching away
+Garrett Whitlock;/players/w/whitlga01.shtml;Garrett Whitlock; 7 ;8;4;4;0;6;1;4.50;28;88;60;33;15;12;6;16;7;0;51;;;-0.143; 0.96;-0.06%; 0.71; -0.4
+Chris Martin;/players/m/martich02.shtml;Chris Martin; 1 ;0;0;0;0;2;0;1.99;3;16;14;10;3;1;1;0;0;0;;0;0;0.108; 1.42; 0.05%; 1.06; 0.5
+Kenley Jansen;/players/j/janseke01.shtml;Kenley Jansen; 1 ;0;0;0;0;1;0;2.92;3;9;6;3;1;2;1;1;0;0;;0;0;0.140; 1.83; 0.06%; 1.37; 0.5
+Kaleb Ort;/players/o/ortka01.shtml; L (1-1); 0.1;1;1;0;1;0;0;6.00;3;5;4;3;1;0;1;1;1;0;;0;0;-0.187; 3.29;-0.08%; 2.46; -1.1
+
+indiv_events
+
+Balks: None.
+WP: Garrett Whitlock (2).
+HBP: None.
+IBB: Kaleb Ort (1; Christian Vázquez); Jovani Moran (1; Adam Duvall).
+Pickoffs: Sonny Gray (0; Justin Turner, 1st base).
+
+Balks: None.
+WP: Garrett Whitlock (2).
+HBP: None.
+IBB: Kaleb Ort (1; Christian Vázquez); Jovani Moran (1; Adam Duvall).
+Pickoffs: Sonny Gray (0; Justin Turner, 1st base).
+
+section_content
+Umpires: HP - David Rackley, 1B - Chris Guccione, 2B - Edwin Moscoso, 3B - Nate Tomlinson, LF - (none), RF - (none).
+Time of Game: 2:53.
+Attendance: 23,912.
+Field Condition: Unknown.
+Start Time Weather: 90° F, Wind 5mph out to Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Red Sox
+1;Jarren Duran;/players/d/duranja01.shtml;CF
+2;Alex Verdugo;/players/v/verdual01.shtml;RF
+3;Justin Turner;/players/t/turneju01.shtml;DH
+4;Rafael Devers;/players/d/deverra01.shtml;3B
+5;Masataka Yoshida;/players/y/yoshima02.shtml;LF
+6;Triston Casas;/players/c/casastr01.shtml;1B
+7;Christian Arroyo;/players/a/arroych01.shtml;2B
+8;Reese McGuire;/players/m/mcguire01.shtml;C
+9;Enrique Hernández;/players/h/hernaen02.shtml;SS
+; Garrett Whitlock;/players/w/whitlga01.shtml;P
+Twins
+1;Edouard Julien;/players/j/julieed01.shtml;2B
+2;Alex Kirilloff;/players/k/kirilal01.shtml;1B
+3;Carlos Correa;/players/c/correca01.shtml;SS
+4;Byron Buxton;/players/b/buxtoby01.shtml;DH
+5;Max Kepler;/players/k/keplema01.shtml;RF
+6;Royce Lewis;/players/l/lewisro02.shtml;3B
+7;Joey Gallo;/players/g/gallojo01.shtml;LF
+8;Christian Vázquez;/players/v/vazquch01.shtml;C
+9;Michael A. Taylor;/players/t/taylomi02.shtml;CF
+; Sonny Gray;/players/g/grayso01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t8;3-4;1;-2-;3,(1-1) .C1>B.X;R;BOS;Triston Casas;Jhoan Duran;-24%;46%;Double to CF (Line Drive to Deep LF-CF); Hamilton Scores
+b6;3-3;1;---;2,(1-0) BX;R;MIN;Max Kepler;Garrett Whitlock;18%;72%;Home Run (Fly Ball to Deep RF Line)
+b10;4-4;1;-23;3,(1-1) *SBX;R;MIN;Kyle Farmer;Kaleb Ort;15%;100%;Single to CF (Line Drive); Castro Scores/unER; Vázquez to 3B
+t10;4-4;2;12-;7,(3-2) .BBFBT.>F>S;O;BOS;Triston Casas;Jovani Moran;13%;81%;Strikeout Swinging
+t6;3-3;0;1--;2,(0-1) SX;;BOS;Christian Arroyo;Brock Stewart;-13%;32%;Single to RF (Line Drive to Short RF Line); Casas to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Red Sox Batting, Tied 0-0, Twins' Sonny Gray facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;BOS;Jarren Duran;Sonny Gray;2%;52%;Groundout: 2B-1B (2B-1B)
+t1;0-0;1;---;3,(1-1) CBX;O;BOS;Alex Verdugo;Sonny Gray;2%;54%;Groundout: 1B-P
+t1;0-0;2;---;4,(3-1) BCBVB;;BOS;Justin Turner;Sonny Gray;-1%;53%;Walk
+t1;0-0;2;1--;1,(0-0) >C;;BOS;Rafael Devers;Sonny Gray;-1%;52%;Turner Steals 2B
+t1;0-0;2;-2-;3,(1-1) >C.BX;R;BOS;Rafael Devers;Sonny Gray;-10%;42%;Double to CF (Fly Ball to Deep CF); Turner Scores
+t1;1-0;2;-2-;3,(1-1) BCX;O;BOS;Masataka Yoshida;Sonny Gray;3%;45%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Red Sox 1, Twins 0.
+Bottom of the 1st, Twins Batting, Behind 0-1, Red Sox' Garrett Whitlock facing 1-2-3 
+b1;0-1;0;---;1,(0-0) X;O;MIN;Edouard Julien;Garrett Whitlock;-2%;42%;Flyball: CF (Deep CF)
+b1;0-1;1;---;2,(1-0) BX;O;MIN;Alex Kirilloff;Garrett Whitlock;-2%;41%;Foul Popfly: 3B (3B into Foul Terr.)
+b1;0-1;2;---;3,(0-2) TFT;O;MIN;Carlos Correa;Garrett Whitlock;-1%;40%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 1, Twins 0.
+Top of the 2nd, Red Sox Batting, Ahead 1-0, Twins' Sonny Gray facing 6-7-8 
+t2;1-0;0;---;3,(1-1) BCX;O;BOS;Triston Casas;Sonny Gray;2%;42%;Flyball: LF (Short LF)
+t2;1-0;1;---;5,(2-2) CFBBX;;BOS;Christian Arroyo;Sonny Gray;-2%;39%;Single to CF (Ground Ball)
+t2;1-0;1;1--;4,(1-2) CF1BX;O;BOS;Reese McGuire;Sonny Gray;3%;42%;Flyball: CF (Deep CF)
+t2;1-0;2;1--;6,(3-2) CBBS.*B>X;O;BOS;Enrique Hernández;Sonny Gray;2%;44%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 1, Twins 0.
+Bottom of the 2nd, Twins Batting, Behind 0-1, Red Sox' Garrett Whitlock facing 4-5-6 
+b2;0-1;0;---;1,(0-0) X;;MIN;Byron Buxton;Garrett Whitlock;7%;51%;Double to RF (Line Drive to Deep RF Line)
+b2;0-1;0;-2-;4,(2-1) BBCX;R;MIN;Max Kepler;Garrett Whitlock;8%;59%;Single to CF (Ground Ball thru SS-2B); Buxton Scores
+b2;1-1;0;1--;4,(1-2) BCSX;O;MIN;Royce Lewis;Garrett Whitlock;-3%;55%;Groundout: P-2B/Forceout at 2B (P's Left); Lewis to 1B
+b2;1-1;1;1--;5,(2-2) BS1SBC;O;MIN;Joey Gallo;Garrett Whitlock;-3%;52%;Strikeout Looking
+b2;1-1;2;1--;2,(1-0) BX;R;MIN;Christian Vázquez;Garrett Whitlock;12%;64%;Single to SS (Line Drive to Short CF); Lewis Scores; Vázquez to 2B
+b2;2-1;2;-2-;2,(0-1) SX;O;MIN;Michael A. Taylor;Garrett Whitlock;-3%;61%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Red Sox 1, Twins 2.
+Top of the 3rd, Red Sox Batting, Behind 1-2, Twins' Sonny Gray facing 1-2-3 
+t3;1-2;0;---;3,(0-2) CF.C;O;BOS;Jarren Duran;Sonny Gray;3%;64%;Strikeout Looking
+t3;1-2;1;---;3,(1-1) CBX;O;BOS;Alex Verdugo;Sonny Gray;2%;66%;Foul Popfly: 3B (3B into Foul Terr.)
+t3;1-2;2;---;2,(1-0) BX;R;BOS;Justin Turner;Sonny Gray;-11%;54%;Home Run (Fly Ball to Deep LF)
+t3;2-2;2;---;5,(2-2) BBSCS;O;BOS;Rafael Devers;Sonny Gray;1%;56%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Red Sox 2, Twins 2.
+Bottom of the 3rd, Twins Batting, Tied 2-2, Red Sox' Garrett Whitlock facing 1-2-3 
+b3;2-2;0;---;4,(0-2) CSFX;;MIN;Edouard Julien;Garrett Whitlock;7%;62%;Double to LF (Fly Ball to Deep LF Line)
+b3;2-2;0;-2-;2,(0-1) SX;O;MIN;Alex Kirilloff;Garrett Whitlock;-1%;61%;Flyball: LF (Deep LF); Julien to 3B
+b3;2-2;1;--3;3,(2-0) BBX;RO;MIN;Carlos Correa;Garrett Whitlock;3%;63%;Groundout: 3B-1B (Weak 3B); Julien Scores
+b3;3-2;2;---;5,(2-2) FBCBT;O;MIN;Byron Buxton;Garrett Whitlock;-1%;62%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Red Sox 2, Twins 3.
+Top of the 4th, Red Sox Batting, Behind 2-3, Twins' Sonny Gray facing 5-6-7 
+t4;2-3;0;---;3,(1-1) BCX;;BOS;Masataka Yoshida;Sonny Gray;-8%;55%;Single to CF (Line Drive to Deep LF-CF); Yoshida to 2B/Adv on E8
+t4;2-3;0;-2-;1,(0-0) X;O;BOS;Triston Casas;Sonny Gray;2%;57%;Groundout: 2B-1B (2B-1B); Yoshida to 3B
+t4;2-3;1;--3;3,(0-2) SS*S;O;BOS;Christian Arroyo;Sonny Gray;7%;64%;Strikeout Swinging
+t4;2-3;2;--3;8,(3-2) *BC.BBCFFB;;BOS;Reese McGuire;Sonny Gray;-2%;62%;Walk
+t4;2-3;2;1-3;3,(0-2) CSX;O;BOS;Enrique Hernández;Sonny Gray;6%;69%;Lineout: LF
+;;;;;;;;;0 runs, 1 hit, 1 error, 2 LOB. Red Sox 2, Twins 3.
+Bottom of the 4th, Twins Batting, Ahead 3-2, Red Sox' Garrett Whitlock facing 5-6-7 
+b4;3-2;0;---;4,(1-2) BCFS;O;MIN;Max Kepler;Garrett Whitlock;-2%;66%;Strikeout Swinging
+b4;3-2;1;---;1,(0-0) X;;MIN;Royce Lewis;Garrett Whitlock;4%;70%;Double to LF (Line Drive to Deep LF Line)
+b4;3-2;1;-2-;4,(1-2) SCBB;;MIN;Joey Gallo;Garrett Whitlock;3%;73%;Wild Pitch; Lewis to 3B
+b4;3-2;1;--3;5,(3-2) SCBB.B+3;O;MIN;Joey Gallo;Garrett Whitlock;-8%;65%;Lewis Picked off 3B (C-3B)
+b4;3-2;2;---;6,(3-2) SCBB.B+3.C;O;MIN;Joey Gallo;Garrett Whitlock;-1%;64%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Red Sox 2, Twins 3.
+Top of the 5th, Red Sox Batting, Behind 2-3, Twins' Sonny Gray facing 1-2-3 
+;;;;;;;;;Willi Castro replaces Joey Gallo playing LF batting 7th
+t5;2-3;0;---;11,(3-2) ...CFBFFBFBFFC;O;BOS;Jarren Duran;Sonny Gray;3%;67%;Strikeout Looking
+t5;2-3;1;---;2,(1-0) BX;;BOS;Alex Verdugo;Sonny Gray;-9%;58%;Triple to RF (Ground Ball)
+t5;2-3;1;--3;8,(3-2) BFS*BFF*BX;R;BOS;Justin Turner;Sonny Gray;-8%;50%;Single to CF (Line Drive); Verdugo Scores
+t5;3-3;1;1--;6,(3-2) BBFBF*S;O;BOS;Rafael Devers;Sonny Gray;4%;54%;Strikeout Swinging
+t5;3-3;2;1--;,(0-0) 1;;BOS;Masataka Yoshida;Sonny Gray;-1%;52%;Turner Picked off 1B, safe on E3; Turner to 2B
+t5;3-3;2;-2-;2,(0-1) 1.FX;O;BOS;Masataka Yoshida;Sonny Gray;5%;57%;Flyball: LF (LF-CF)
+;;;;;;;;;1 run, 2 hits, 1 error, 1 LOB. Red Sox 3, Twins 3.
+Bottom of the 5th, Twins Batting, Tied 3-3, Red Sox' Garrett Whitlock facing 8-9-1 
+b5;3-3;0;---;1,(0-0) X;O;MIN;Christian Vázquez;Garrett Whitlock;-3%;54%;Flyball: LF (Deep LF)
+b5;3-3;1;---;5,(1-2) FFBFC;O;MIN;Michael A. Taylor;Garrett Whitlock;-2%;52%;Strikeout Looking
+b5;3-3;2;---;2,(1-0) BX;;MIN;Edouard Julien;Garrett Whitlock;2%;53%;Single to CF (Line Drive to Deep CF)
+b5;3-3;2;1--;4,(1-2) C*BSX;;MIN;Alex Kirilloff;Garrett Whitlock;3%;56%;Single to CF (Line Drive); Julien to 2B
+b5;3-3;2;12-;4,(2-1) B2SBX;O;MIN;Carlos Correa;Garrett Whitlock;-6%;50%;Groundout: SS-2B/Forceout at 2B; Correa to 1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Red Sox 3, Twins 3.
+Top of the 6th, Red Sox Batting, Tied 3-3, Twins' Brock Stewart facing 6-7-8 
+;;;;;;;;;Brock Stewart replaces Sonny Gray pitching
+t6;3-3;0;---;2,(0-1) .CX;;BOS;Triston Casas;Brock Stewart;-5%;45%;Single to CF (Ground Ball)
+t6;3-3;0;1--;2,(0-1) SX;;BOS;Christian Arroyo;Brock Stewart;-13%;32%;Single to RF (Line Drive to Short RF Line); Casas to 3B
+;;;;;;;;;Connor Wong pinch hits for Reese McGuire (C) batting 8th
+t6;3-3;0;1-3;3,(1-1) F.B11>B;O;BOS;Connor Wong;Brock Stewart;11%;42%;Arroyo Caught Stealing 2B (C-2B)
+t6;3-3;1;--3;6,(3-2) F.B11>B.BFS;O;BOS;Connor Wong;Brock Stewart;9%;52%;Strikeout Swinging
+t6;3-3;2;--3;5,(2-2) CBBSS;O;BOS;Enrique Hernández;Brock Stewart;6%;58%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Red Sox 3, Twins 3.
+Bottom of the 6th, Twins Batting, Tied 3-3, Red Sox' Garrett Whitlock facing 4-5-6 
+;;;;;;;;;Connor Wong moves from PH to C 
+b6;3-3;0;---;2,(0-1) .FX;O;MIN;Byron Buxton;Garrett Whitlock;-3%;54%;Flyball: SS (Deep SS)
+b6;3-3;1;---;2,(1-0) BX;R;MIN;Max Kepler;Garrett Whitlock;18%;72%;Home Run (Fly Ball to Deep RF Line)
+b6;4-3;1;---;4,(1-2) S.SBX;O;MIN;Royce Lewis;Garrett Whitlock;-2%;70%;Lineout: LF
+b6;4-3;2;---;3,(2-0) BBX;O;MIN;Willi Castro;Garrett Whitlock;-1%;69%;Foul Popfly: 3B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Red Sox 3, Twins 4.
+Top of the 7th, Red Sox Batting, Behind 3-4, Twins' Griffin Jax facing 1-2-3 
+;;;;;;;;;Griffin Jax replaces Brock Stewart pitchingKyle Farmer replaces Edouard Julien playing 2B batting 1st
+t7;3-4;0;---;1,(0-0) ..X;O;BOS;Jarren Duran;Griffin Jax;4%;74%;Bunt Groundout: P-1B (Weak 1B)
+t7;3-4;1;---;2,(0-1) CX;O;BOS;Alex Verdugo;Griffin Jax;3%;77%;Single to CF (Line Drive to Deep CF-RF); Verdugo out at 2B/CF-SS
+t7;3-4;2;---;5,(2-2) BCBSX;O;BOS;Justin Turner;Griffin Jax;2%;79%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Red Sox 3, Twins 4.
+Bottom of the 7th, Twins Batting, Ahead 4-3, Red Sox' Garrett Whitlock facing 8-9-1 
+b7;4-3;0;---;2,(0-1) CX;O;MIN;Christian Vázquez;Garrett Whitlock;-2%;77%;Lineout: CF (Deep CF-RF)
+b7;4-3;1;---;4,(1-2) BSS.X;O;MIN;Michael A. Taylor;Garrett Whitlock;-1%;75%;Groundout: 1B-P
+b7;4-3;2;---;6,(3-2) CSBBBX;O;MIN;Kyle Farmer;Garrett Whitlock;-1%;74%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 3, Twins 4.
+Top of the 8th, Red Sox Batting, Behind 3-4, Twins' Jhoan Duran facing 4-5-6 
+;;;;;;;;;Jhoan Duran replaces Griffin Jax pitching
+t8;3-4;0;---;2,(0-1) .SX;O;BOS;Rafael Devers;Jhoan Duran;6%;80%;Groundout: 1B unassisted
+t8;3-4;1;---;4,(3-0) BBBB;;BOS;Masataka Yoshida;Jhoan Duran;-6%;74%;Walk
+;;;;;;;;;David Hamilton pinch runs for Masataka Yoshida (LF) batting 5th
+t8;3-4;1;1--;2,(0-1) .C1>B;;BOS;Triston Casas;Jhoan Duran;-4%;70%;Hamilton Steals 2B
+t8;3-4;1;-2-;3,(1-1) .C1>B.X;R;BOS;Triston Casas;Jhoan Duran;-24%;46%;Double to CF (Line Drive to Deep LF-CF); Hamilton Scores
+t8;4-4;1;-2-;3,(1-1) BFX;O;BOS;Christian Arroyo;Jhoan Duran;7%;53%;Groundout: SS-1B
+t8;4-4;2;-2-;3,(2-0) B*BX;O;BOS;Connor Wong;Jhoan Duran;8%;61%;Groundout: 2B-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Red Sox 4, Twins 4.
+Bottom of the 8th, Twins Batting, Tied 4-4, Red Sox' Chris Martin facing 2-3-4 
+;;;;;;;;;Chris Martin replaces Garrett Whitlock pitchingDavid Hamilton moves from PR to SS Jarren Duran moves from CF to LF Enrique Hernández moves from SS to CF 
+b8;4-4;0;---;4,(0-2) ....CSFS;O;MIN;Alex Kirilloff;Chris Martin;-5%;56%;Strikeout Swinging
+b8;4-4;1;---;3,(0-2) FT.X;O;MIN;Carlos Correa;Chris Martin;-4%;53%;Groundout: 2B-1B (2B-1B)
+b8;4-4;2;---;9,(2-2) TT.FFBFBFS;O;MIN;Byron Buxton;Chris Martin;-3%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 4, Twins 4.
+Top of the 9th, Red Sox Batting, Tied 4-4, Twins' Jhoan Duran facing 9-1-2 
+;;;;;;;;;Rob Refsnyder pinch hits for Enrique Hernández (CF) batting 9th
+t9;4-4;0;---;6,(2-2) .BCCBFT;O;BOS;Rob Refsnyder;Jhoan Duran;6%;56%;Strikeout Swinging
+t9;4-4;1;---;4,(0-2) SFFS;O;BOS;Jarren Duran;Jhoan Duran;5%;61%;Strikeout Swinging
+t9;4-4;2;---;7,(3-2) BBBCFF.X;O;BOS;Alex Verdugo;Jhoan Duran;3%;64%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 4, Twins 4.
+Bottom of the 9th, Twins Batting, Tied 4-4, Red Sox' Kenley Jansen facing 5-6-7 
+;;;;;;;;;Kenley Jansen replaces Chris Martin pitchingRob Refsnyder moves from PH to LF Jarren Duran moves from LF to CF 
+b9;4-4;0;---;6,(3-2) ...CFBBB.S;O;MIN;Max Kepler;Kenley Jansen;-6%;58%;Strikeout Swinging
+b9;4-4;1;---;2,(0-1) CX;O;MIN;Royce Lewis;Kenley Jansen;-5%;54%;Foul Popfly: 3B (3B into Foul Terr.)
+b9;4-4;2;---;1,(0-0) X;O;MIN;Willi Castro;Kenley Jansen;-4%;50%;Bunt Groundout: P-1B (Weak 2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 4, Twins 4.
+Top of the 10th, Red Sox Batting, Tied 4-4, Twins' Jovani Moran facing 3-4-5 
+;;;;;;;;;Jovani Moran replaces Jhoan Duran pitchingAlex Verdugo running at second base to start the extra inning
+t10;4-4;0;-2-;4,(1-2) ..CFBX;O;BOS;Justin Turner;Jovani Moran;11%;61%;Groundout: SS-1B (Deep SS-3B Hole)
+t10;4-4;1;-2-;5,(2-2) SBS*BS;O;BOS;Rafael Devers;Jovani Moran;9%;70%;Strikeout Swinging
+;;;;;;;;;Adam Duvall pinch hits for David Hamilton (SS) batting 5th
+t10;4-4;2;-2-;1,(3-0) .BVVV;;BOS;Adam Duvall;Jovani Moran;-2%;68%;Intentional Walk
+;;;;;;;;;Pablo Reyes pinch runs for Adam Duvall (PH) batting 5th
+t10;4-4;2;12-;7,(3-2) .BBFBT.>F>S;O;BOS;Triston Casas;Jovani Moran;13%;81%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Red Sox 4, Twins 4.
+Bottom of the 10th, Twins Batting, Tied 4-4, Red Sox' Kaleb Ort facing 8-9-1 
+;;;;;;;;;Kaleb Ort replaces Kenley Jansen pitchingPablo Reyes moves from PR to SS Willi Castro running at second base to start the extra inning
+b10;4-4;0;-2-;,(3-0) ...VVVV;;MIN;Christian Vázquez;Kaleb Ort;0%;82%;Intentional Walk
+b10;4-4;0;12-;2,(0-1) LX;O;MIN;Michael A. Taylor;Kaleb Ort;3%;85%;Bunt Groundout: 1B-P/Sacrifice (Weak 1B); Castro to 3B; Vázquez to 2B
+;;;;;;;;;Force Play Challenged by MIN manager (Rocco Baldelli): Original call upheld upon review.
+b10;4-4;1;-23;3,(1-1) *SBX;R;MIN;Kyle Farmer;Kaleb Ort;15%;100%;Single to CF (Line Drive); Castro Scores/unER; Vázquez to 3B
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Red Sox 4, Twins 5.

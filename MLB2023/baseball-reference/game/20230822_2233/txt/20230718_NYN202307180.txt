@@ -1,0 +1,305 @@
+
+Scorebox Meta
+20230718
+7:10 p.m. Local
+37109
+Citi Field
+208
+
+Boxscore
+https://cdn.ssref.net/req/202308101/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;0;1;1;0;2;0;5;0;1;10;12;0
+https://cdn.ssref.net/req/202308101/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;5;1;0;2;0;3;0;0;X;11;10;0
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;3;2;0;0;2;1;5;.261;.360;.440;.799;30;14;0.018; 0.41;0.044;-0.026; 0.00%; 0.10; -0.2;3;0;
+Tommy Pham;/players/p/phamth01.shtml;LF;3;3;2;1;2;1;5;.277;.357;.484;.840;25;15;0.155; 0.53;0.166;-0.010; 0.02%; 0.13; 2.3;2;0;2B,SB
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;1;1;1;1;1;5;.232;.317;.465;.781;24;15;0.040; 0.48;0.073;-0.033; 0.01%; 0.11; 0.3;0;6;2B
+Pete Alonso;/players/a/alonspe01.shtml;1B;3;0;0;1;1;1;5;.205;.305;.479;.784;23;12;-0.037; 0.46;0.001;-0.038;-0.01%; 0.11; -1.1;8;0;SF
+Jeff McNeil;/players/m/mcneije01.shtml;2B;5;1;2;2;0;1;5;.250;.324;.324;.649;21;15;0.013; 0.37;0.045;-0.032; 0.00%; 0.09; 1.3;4;2;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;3;2;2;4;2;1;5;.242;.303;.534;.837;24;10;0.164; 0.24;0.169;-0.006; 0.02%; 0.06; 3.7;9;0;2·HR
+Brett Baty;/players/b/batybr01.shtml;3B;5;1;1;1;0;1;5;.238;.305;.354;.659;22;15;0.022; 0.26;0.048;-0.026; 0.00%; 0.06; 0.0;0;1;HR
+Luis Guillorme;/players/g/guilllu01.shtml;3B;0;0;0;0;0;0;0;.250;.321;.365;.685;;;;;;;;;;0;0;
+Mark Canha;/players/c/canhama01.shtml;RF;3;0;1;0;0;2;4;.244;.346;.396;.741;20;12;0.010; 0.25;0.021;-0.011; 0.00%; 0.06; 0.3;1;0;HBP
+DJ Stewart;/players/s/stewadj01.shtml;DH;4;1;1;1;0;1;4;.222;.333;.556;.889;21;15;0.013; 0.38;0.034;-0.021; 0.00%; 0.09; 0.3;;;HR
+Carlos Carrasco;/players/c/carraca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Grant Hartwig;/players/h/hartwgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Gott;/players/g/gotttr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brooks Raley;/players/r/raleybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adam Ottavino;/players/o/ottavad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+David Robertson;/players/r/roberda08.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Tommy Pham (15, off Lucas Giolito); Francisco Lindor (21, off Lucas Giolito).
+
+
+HR: Francisco Alvarez 2 (19, 1 off Lucas Giolito, 1st inn, 1 on, 2 outs to Deep LF, 1 off Tanner Banks, 6th inn, 1 on, 2 outs to Deep LF-CF); Brett Baty (6, off Lucas Giolito, 1st inn, 0 on, 2 outs to Deep CF); DJ Stewart (1, off Lucas Giolito, 4th inn, 0 on, 0 outs to Deep CF-RF).
+
+
+SF: Pete Alonso (1, off Lucas Giolito).
+
+
+HBP: Mark Canha (9, by Bryan Shaw).
+
+
+TB: Francisco Alvarez 8; DJ Stewart 4; Brett Baty 4; Tommy Pham 3; Francisco Lindor 2; Jeff McNeil 2; Mark Canha.
+
+
+RBI: Francisco Alvarez 4 (39); Jeff McNeil 2 (28); Brett Baty (22); Tommy Pham (35); Francisco Lindor (61); Pete Alonso (62); DJ Stewart (2).
+
+
+2-out RBI: Francisco Alvarez 4; Jeff McNeil 2; Brett Baty; Francisco Lindor.
+
+
+Team LOB: 8.
+With RISP: 2 for 9.
+
+Batting away
+Andrew Benintendi;/players/b/beninan01.shtml;LF;4;3;2;1;2;0;6;.292;.358;.380;.737;23;12;0.047; 1.93;0.162;-0.115; 0.01%; 0.33; 1.4;3;0;SB
+Tim Anderson;/players/a/anderti01.shtml;SS;5;2;3;1;0;0;6;.234;.272;.275;.547;18;10;-0.122; 1.73;0.116;-0.239;-0.01%; 0.30; 1.8;0;1;2B,HBP
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;5;0;1;0;0;2;5;.275;.331;.570;.901;19;12;-0.017; 0.98;0.054;-0.071;-0.00%; 0.17; -0.4;2;0;SB
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;5;1;1;1;0;1;5;.244;.316;.422;.738;12;9;-0.053; 0.81;0.040;-0.094;-0.01%; 0.14; -0.2;7;0;
+Jake Burger;/players/b/burgeja01.shtml;3B;5;1;2;3;0;1;5;.226;.280;.537;.817;22;16;-0.025; 0.90;0.074;-0.099;-0.00%; 0.15; 1.6;1;2;2·2B
+Yasmani Grandal;/players/g/grandya01.shtml;DH;3;3;2;3;2;1;5;.253;.321;.384;.705;22;10;0.259; 1.29;0.279;-0.020; 0.03%; 0.22; 3.4;;;HR
+Zach Remillard;/players/r/remilza01.shtml;2B;5;0;1;0;0;1;5;.304;.377;.362;.739;14;10;-0.074; 1.27;0.045;-0.119;-0.01%; 0.22; -0.7;1;2;
+Oscar Colás;/players/c/colasos01.shtml;RF;3;0;0;0;0;2;3;.212;.252;.279;.531;15;8;-0.038; 0.51;0.000;-0.038;-0.00%; 0.09; -0.6;0;0;
+Carlos Pérez;/players/p/perezca03.shtml;PH;0;0;0;0;1;0;1;.250;.333;.375;.708;5;1;0.079; 2.30;0.079;0.000; 0.01%; 0.39; 0.7;;;
+Gavin Sheets;/players/s/sheetga01.shtml;RF;1;0;0;0;0;0;1;.219;.295;.369;.664;4;2;-0.050; 2.09;0.000;-0.050;-0.01%; 0.36; -0.3;0;0;
+Seby Zavala;/players/z/zavalse01.shtml;C;4;0;0;0;0;1;4;.164;.212;.314;.526;13;9;-0.147; 1.00;0.000;-0.147;-0.01%; 0.17; -1.4;10;0;
+Elvis Andrus;/players/a/andruel01.shtml;PH;0;0;0;0;1;0;1;.210;.292;.271;.564;7;3;0.038; 1.23;0.038;0.000; 0.00%; 0.21; 0.2;;;
+Lucas Giolito;/players/g/giolilu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Shaw;/players/s/shawbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Tanner Banks;/players/b/banksta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Reynaldo López;/players/l/lopezre01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Keynan Middleton;/players/m/middlke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Tim Anderson (10, off Carlos Carrasco); Jake Burger 2 (15, 1 off Carlos Carrasco, 1 off Trevor Gott).
+
+
+HR: Yasmani Grandal (7, off Carlos Carrasco, 2nd inn, 0 on, 1 out to Deep CF-RF).
+
+
+HBP: Tim Anderson (1, by Carlos Carrasco).
+
+
+TB: Yasmani Grandal 5; Jake Burger 4; Tim Anderson 4; Andrew Benintendi 2; Luis Robert Jr.; Andrew Vaughn; Zach Remillard.
+
+
+RBI: Jake Burger 3 (47); Yasmani Grandal 3 (24); Andrew Benintendi (28); Andrew Vaughn (54); Tim Anderson (15).
+
+
+2-out RBI: Jake Burger; Andrew Benintendi.
+
+
+Team LOB: 10.
+With RISP: 5 for 16.
+
+Pitching home
+Carlos Carrasco;/players/c/carraca01.shtml;Carlos Carrasco; 4.2;6;4;4;2;5;1;5.35;23;82;50;28;14;8;8;7;4;0;39;;;0.007; 0.75; 0.00%; 0.18; -1.8
+Grant Hartwig;/players/h/hartwgr01.shtml; W (2-1); 1.2;1;2;2;1;3;0;3.29;7;37;20;11;1;8;1;2;1;0;;1;0;0.046; 0.39; 0.01%; 0.09; 0.4
+Trevor Gott;/players/g/gotttr01.shtml;Trevor Gott; 0 ;3;3;2;0;0;0;4.45;4;9;6;5;0;1;1;3;2;0;;2;2;-0.138; 0.73;-0.02%; 0.17; -4.0
+Brooks Raley;/players/r/raleybr01.shtml; H (18); 0.2;0;0;0;1;1;0;2.14;3;13;7;3;2;2;0;1;0;0;;2;1;0.041; 2.96; 0.01%; 0.71; -0.1
+Adam Ottavino;/players/o/ottavad01.shtml; H (11); 1 ;1;0;0;0;0;0;3.76;4;11;8;4;1;3;3;1;1;0;;0;0;0.075; 1.13; 0.01%; 0.27; 0.5
+David Robertson;/players/r/roberda08.shtml; S (13); 1 ;1;1;1;2;0;0;2.13;6;22;11;6;1;4;1;3;1;0;;0;0;0.074; 3.33; 0.01%; 0.80; -0.5
+
+Pitching away
+Lucas Giolito;/players/g/giolilu01.shtml; L (6-6); 3.2;6;8;8;5;5;3;3.96;22;100;61;34;10;17;4;8;2;0;17;;;-0.390; 0.47;-0.04%; 0.08; -5.4
+Bryan Shaw;/players/s/shawbr01.shtml;Bryan Shaw; 2 ;1;1;1;1;2;0;11.37;9;48;26;13;4;9;3;2;1;0;;2;1;-0.001; 0.24; 0.00%; 0.04; 0.1
+Tanner Banks;/players/b/banksta01.shtml;Tanner Banks; 0.1;2;2;2;0;0;1;5.61;3;8;6;3;1;2;0;3;1;0;;1;1;-0.042; 0.12;-0.00%; 0.02; -2.7
+Reynaldo López;/players/l/lopezre01.shtml;Reynaldo López; 1 ;1;0;0;1;2;0;4.50;5;35;22;14;4;4;2;0;0;0;;0;0;0.024; 0.59; 0.00%; 0.10; 0.5
+Keynan Middleton;/players/m/middlke01.shtml;Keynan Middleton; 1 ;0;0;0;1;1;0;2.91;4;19;8;4;2;2;0;2;0;0;;0;0;0.014; 0.22; 0.00%; 0.04; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Lucas Giolito (2); Bryan Shaw (1); Keynan Middleton (1); Adam Ottavino (5).
+HBP: Carlos Carrasco (5; Tim Anderson); Bryan Shaw (1; Mark Canha).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Lucas Giolito (2); Bryan Shaw (1); Keynan Middleton (1); Adam Ottavino (5).
+HBP: Carlos Carrasco (5; Tim Anderson); Bryan Shaw (1; Mark Canha).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Mike Estabrook, 1B - Andy Fletcher, 2B - Erich Bacchus, 3B - Ryan Wills, LF - (none), RF - (none).
+Time of Game: 3:28.
+Attendance: 37,109.
+Field Condition: Unknown.
+Start Time Weather: 80° F, Wind 7mph out to Leftfield, Sunny, No Precipitation.
+
+div_lineups
+White Sox
+1;Andrew Benintendi;/players/b/beninan01.shtml;LF
+2;Tim Anderson;/players/a/anderti01.shtml;SS
+3;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+4;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+5;Jake Burger;/players/b/burgeja01.shtml;3B
+6;Yasmani Grandal;/players/g/grandya01.shtml;DH
+7;Zach Remillard;/players/r/remilza01.shtml;2B
+8;Oscar Colás;/players/c/colasos01.shtml;RF
+9;Seby Zavala;/players/z/zavalse01.shtml;C
+; Lucas Giolito;/players/g/giolilu01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Tommy Pham;/players/p/phamth01.shtml;LF
+3;Francisco Lindor;/players/l/lindofr01.shtml;SS
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;Jeff McNeil;/players/m/mcneije01.shtml;2B
+6;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+7;Brett Baty;/players/b/batybr01.shtml;3B
+8;Mark Canha;/players/c/canhama01.shtml;RF
+9;DJ Stewart;/players/s/stewadj01.shtml;DH
+; Carlos Carrasco;/players/c/carraca01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t9;10-11;2;-23;4,(1-2) B>S.F.X;O;CHW;Tim Anderson;David Robertson;20%;100%;Flyball: CF (Deep CF)
+b1;2-0;2;1--;2,(1-0) BX;RR;NYM;Francisco Alvarez;Lucas Giolito;13%;85%;Home Run (Fly Ball to Deep LF); Lindor Scores
+b1;0-0;0;1--;3,(0-2) CFX;R;NYM;Tommy Pham;Lucas Giolito;12%;70%;Double to LF (Line Drive to Deep LF Line); Nimmo Scores
+t7;9-11;1;-23;4,(1-2) B.FSS;O;CHW;Seby Zavala;Brooks Raley;11%;80%;Strikeout Swinging
+t7;9-11;2;-23;4,(1-2) CF*BX;O;CHW;Andrew Benintendi;Brooks Raley;9%;89%;Flyball: LF
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, White Sox Batting, Tied 0-0, Mets' Carlos Carrasco facing 1-2-3 
+t1;0-0;0;---;4,(2-1) FBBX;O;CHW;Andrew Benintendi;Carlos Carrasco;2%;52%;Groundout: 2B-1B
+t1;0-0;1;---;1,(0-0) H;;CHW;Tim Anderson;Carlos Carrasco;-2%;50%;Hit By Pitch
+t1;0-0;1;1--;4,(1-2) FB1S1S;O;CHW;Luis Robert Jr.;Carlos Carrasco;3%;53%;Strikeout Swinging
+t1;0-0;2;1--;1,(0-0) X;O;CHW;Andrew Vaughn;Carlos Carrasco;2%;55%;Groundout: SS-2B/Forceout at 2B; Vaughn to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, White Sox' Lucas Giolito facing 1-2-3 
+b1;0-0;0;---;6,(3-2) CBBCBB;;NYM;Brandon Nimmo;Lucas Giolito;4%;58%;Walk
+b1;0-0;0;1--;3,(0-2) CFX;R;NYM;Tommy Pham;Lucas Giolito;12%;70%;Double to LF (Line Drive to Deep LF Line); Nimmo Scores
+b1;1-0;0;-2-;5,(2-2) BCCBB;;NYM;Francisco Lindor;Lucas Giolito;3%;73%;Wild Pitch; Pham to 3B
+b1;1-0;0;--3;8,(3-2) BCCBB..FFB;;NYM;Francisco Lindor;Lucas Giolito;3%;75%;Walk
+b1;1-0;0;1-3;1,(0-0) X;RO;NYM;Pete Alonso;Lucas Giolito;-2%;74%;Flyball: LF/Sacrifice Fly (Deep LF-CF); Pham Scores
+b1;2-0;1;1--;6,(1-2) BFF>FF*S;O;NYM;Jeff McNeil;Lucas Giolito;-2%;72%;Strikeout Swinging
+b1;2-0;2;1--;2,(1-0) BX;RR;NYM;Francisco Alvarez;Lucas Giolito;13%;85%;Home Run (Fly Ball to Deep LF); Lindor Scores
+b1;4-0;2;---;5,(3-1) BBFBX;R;NYM;Brett Baty;Lucas Giolito;5%;90%;Home Run (Fly Ball to Deep CF)
+b1;5-0;2;---;4,(1-2) BCF.C;O;NYM;Mark Canha;Lucas Giolito;0%;89%;Strikeout Looking
+;;;;;;;;;5 runs, 3 hits, 0 errors, 0 LOB. White Sox 0, Mets 5.
+Top of the 2nd, White Sox Batting, Behind 0-5, Mets' Carlos Carrasco facing 5-6-7 
+t2;0-5;0;---;7,(2-2) BCF.FBFS;O;CHW;Jake Burger;Carlos Carrasco;1%;91%;Strikeout Swinging
+t2;0-5;1;---;2,(0-1) CX;R;CHW;Yasmani Grandal;Carlos Carrasco;-5%;86%;Home Run (Fly Ball to Deep CF-RF)
+t2;1-5;1;---;4,(1-2) BCSS;O;CHW;Zach Remillard;Carlos Carrasco;1%;87%;Strikeout Swinging
+t2;1-5;2;---;5,(3-1) SBBBX;O;CHW;Oscar Colás;Carlos Carrasco;1%;88%;Lineout: RF
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. White Sox 1, Mets 5.
+Bottom of the 2nd, Mets Batting, Ahead 5-1, White Sox' Lucas Giolito facing 9-1-2 
+b2;5-1;0;---;4,(1-2) BCSX;O;NYM;DJ Stewart;Lucas Giolito;-1%;87%;Groundout: 1B unassisted
+b2;5-1;1;---;7,(3-2) BCCBBF*B;;NYM;Brandon Nimmo;Lucas Giolito;1%;88%;Walk
+b2;5-1;1;1--;4,(1-2) CSBS;O;NYM;Tommy Pham;Lucas Giolito;-1%;87%;Strikeout Swinging
+b2;5-1;2;1--;1,(0-0) X;R;NYM;Francisco Lindor;Lucas Giolito;5%;92%;Double to RF (Line Drive to Deep CF-RF); Nimmo Scores
+b2;6-1;2;-2-;6,(2-2) CBCFBX;O;NYM;Pete Alonso;Lucas Giolito;-1%;91%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. White Sox 1, Mets 6.
+Top of the 3rd, White Sox Batting, Behind 1-6, Mets' Carlos Carrasco facing 9-1-2 
+t3;1-6;0;---;1,(0-0) X;O;CHW;Seby Zavala;Carlos Carrasco;1%;92%;Foul Popfly: 1B (1B into Foul Terr.)
+t3;1-6;1;---;6,(3-2) BCFBBB;;CHW;Andrew Benintendi;Carlos Carrasco;-1%;91%;Walk
+t3;1-6;1;1--;2,(1-0) BX;R;CHW;Tim Anderson;Carlos Carrasco;-6%;85%;Double to RF (Line Drive to Deep CF-RF); Benintendi Scores
+t3;2-6;1;-2-;1,(0-0) X;;CHW;Luis Robert Jr.;Carlos Carrasco;-4%;81%;Single to LF (Ground Ball thru SS-3B Hole); Anderson to 3B
+t3;2-6;1;1-3;3,(0-2) C>F1>B;;CHW;Andrew Vaughn;Carlos Carrasco;-2%;80%;Robert Steals 2B
+t3;2-6;1;-23;7,(3-2) C>F1>B.BF*BS;O;CHW;Andrew Vaughn;Carlos Carrasco;6%;85%;Strikeout Swinging
+t3;2-6;2;-23;7,(2-2) CS*BFF*BX;O;CHW;Jake Burger;Carlos Carrasco;4%;90%;Flyball: LF (Deep LF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. White Sox 2, Mets 6.
+Bottom of the 3rd, Mets Batting, Ahead 6-2, White Sox' Lucas Giolito facing 5-6-7 
+b3;6-2;0;---;6,(1-2) CFFBFX;O;NYM;Jeff McNeil;Lucas Giolito;-1%;89%;Groundout: 3B-1B (Weak 3B)
+b3;6-2;1;---;7,(3-2) CBS.BFBB;;NYM;Francisco Alvarez;Lucas Giolito;1%;90%;Walk
+b3;6-2;1;1--;6,(1-2) CBFFF*S;O;NYM;Brett Baty;Lucas Giolito;-1%;89%;Strikeout Swinging
+b3;6-2;2;1--;7,(3-2) B*BFSB>F>S;O;NYM;Mark Canha;Lucas Giolito;-1%;88%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 2, Mets 6.
+Top of the 4th, White Sox Batting, Behind 2-6, Mets' Carlos Carrasco facing 6-7-8 
+t4;2-6;0;---;6,(3-2) FBFBBB;;CHW;Yasmani Grandal;Carlos Carrasco;-3%;85%;Walk
+t4;2-6;0;1--;1,(0-0) X;O;CHW;Zach Remillard;Carlos Carrasco;3%;88%;Groundout: SS-2B/Forceout at 2B; Remillard to 1B
+;;;;;;;;;Force Play Challenged by CHW manager (Pedro Grifol): Original call overturned as shown.
+t4;2-6;1;1--;4,(1-2) 1B*SF1*S;O;CHW;Oscar Colás;Carlos Carrasco;2%;90%;Strikeout Swinging
+t4;2-6;2;1--;3,(0-2) S1SX;O;CHW;Seby Zavala;Carlos Carrasco;2%;91%;Groundout: SS-2B/Forceout at 2B; Zavala to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 2, Mets 6.
+Bottom of the 4th, Mets Batting, Ahead 6-2, White Sox' Lucas Giolito facing 9-1-2 
+b4;6-2;0;---;3,(1-1) FBX;R;NYM;DJ Stewart;Lucas Giolito;3%;95%;Home Run (Fly Ball to Deep CF-RF)
+b4;7-2;0;---;6,(3-2) BTBBCX;O;NYM;Brandon Nimmo;Lucas Giolito;0%;94%;Groundout: 2B-1B (2B-1B)
+b4;7-2;1;---;4,(1-2) SSBX;;NYM;Tommy Pham;Lucas Giolito;0%;95%;Single to 3B (Ground Ball to Weak 3B)
+b4;7-2;1;1--;1,(0-0) X;O;NYM;Francisco Lindor;Lucas Giolito;-1%;94%;Foul Popfly: 3B (3B into Foul Terr.)
+b4;7-2;2;1--;1,(1-0) V>B;;NYM;Pete Alonso;Lucas Giolito;0%;95%;Pham Steals 2B
+b4;7-2;2;-2-;3,(3-0) V>B.*BB;;NYM;Pete Alonso;Lucas Giolito;0%;95%;Walk
+;;;;;;;;;Bryan Shaw replaces Lucas Giolito pitching
+b4;7-2;2;12-;4,(2-1) .BBCX;R;NYM;Jeff McNeil;Bryan Shaw;2%;97%;Single to LF (Line Drive to LF-CF); Pham Scores; Alonso to 3B
+b4;8-2;2;1-3;6,(3-2) FBBF*B>S;O;NYM;Francisco Alvarez;Bryan Shaw;-1%;96%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. White Sox 2, Mets 8.
+Top of the 5th, White Sox Batting, Behind 2-8, Mets' Carlos Carrasco facing 1-2-3 
+t5;2-8;0;---;2,(0-1) SX;;CHW;Andrew Benintendi;Carlos Carrasco;-1%;95%;Single to CF (Line Drive to Deep LF-CF)
+t5;2-8;0;1--;5,(3-1) BBBCX;;CHW;Tim Anderson;Carlos Carrasco;-2%;93%;Single to CF (Ground Ball thru SS-2B); Benintendi to 2B
+t5;2-8;0;12-;6,(3-2) CS*B*BBX;O;CHW;Luis Robert Jr.;Carlos Carrasco;1%;93%;Groundout: P-1B (Weak SS-2B); Benintendi to 3B; Anderson to 2B
+t5;2-8;1;-23;1,(0-0) X;RO;CHW;Andrew Vaughn;Carlos Carrasco;1%;95%;Groundout: SS-1B; Benintendi Scores; Anderson to 3B
+t5;3-8;2;--3;2,(1-0) BX;R;CHW;Jake Burger;Carlos Carrasco;-3%;91%;Double to LF (Line Drive to Deep LF-CF); Anderson Scores
+;;;;;;;;;Grant Hartwig replaces Carlos Carrasco pitching
+t5;4-8;2;-2-;6,(2-2) .C*BBFFC;O;CHW;Yasmani Grandal;Grant Hartwig;2%;93%;Strikeout Looking
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. White Sox 4, Mets 8.
+Bottom of the 5th, Mets Batting, Ahead 8-4, White Sox' Bryan Shaw facing 7-8-9 
+b5;8-4;0;---;4,(1-2) CBSX;O;NYM;Brett Baty;Bryan Shaw;-1%;93%;Groundout: P-1B
+b5;8-4;1;---;4,(1-2) CFB.H;;NYM;Mark Canha;Bryan Shaw;1%;93%;Hit By Pitch
+b5;8-4;1;1--;4,(1-2) C*SBC;O;NYM;DJ Stewart;Bryan Shaw;-1%;93%;Strikeout Looking
+b5;8-4;2;1--;6,(3-2) BC*BB+1C>X;O;NYM;Brandon Nimmo;Bryan Shaw;-1%;92%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 4, Mets 8.
+Top of the 6th, White Sox Batting, Behind 4-8, Mets' Grant Hartwig facing 7-8-9 
+t6;4-8;0;---;5,(2-2) FBBC.X;O;CHW;Zach Remillard;Grant Hartwig;2%;94%;Groundout: SS-1B (Weak SS-2B)
+t6;4-8;1;---;6,(3-2) CBBFBT;O;CHW;Oscar Colás;Grant Hartwig;1%;95%;Strikeout Swinging
+t6;4-8;2;---;5,(3-1) BBBCX;O;CHW;Seby Zavala;Grant Hartwig;1%;95%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 4, Mets 8.
+Bottom of the 6th, Mets Batting, Ahead 8-4, White Sox' Bryan Shaw facing 2-3-4 
+b6;8-4;0;---;5,(3-1) BBBCB;;NYM;Tommy Pham;Bryan Shaw;1%;96%;Walk
+b6;8-4;0;1--;7,(2-2) BFC1F*BFB;;NYM;Francisco Lindor;Bryan Shaw;1%;96%;Wild Pitch; Pham to 2B
+b6;8-4;0;-2-;8,(3-2) BFC1F*BFB.X;O;NYM;Francisco Lindor;Bryan Shaw;-1%;96%;Popfly: 2B (Deep 2B)
+b6;8-4;1;-2-;7,(3-2) SB*BFFBX;O;NYM;Pete Alonso;Bryan Shaw;-1%;95%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;Tanner Banks replaces Bryan Shaw pitching
+b6;8-4;2;-2-;1,(0-0) .X;R;NYM;Jeff McNeil;Tanner Banks;2%;97%;Single to RF (Line Drive to RF Line); Pham Scores
+b6;9-4;2;1--;4,(2-1) SBBX;RR;NYM;Francisco Alvarez;Tanner Banks;2%;99%;Home Run (Fly Ball to Deep LF-CF); McNeil Scores
+b6;11-4;2;---;3,(0-2) CCX;O;NYM;Brett Baty;Tanner Banks;0%;99%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. White Sox 4, Mets 11.
+Top of the 7th, White Sox Batting, Behind 4-11, Mets' Grant Hartwig facing 1-2-3 
+t7;4-11;0;---;6,(3-2) BBCF.BB;;CHW;Andrew Benintendi;Grant Hartwig;-1%;99%;Walk
+t7;4-11;0;1--;2,(0-1) CX;;CHW;Tim Anderson;Grant Hartwig;-1%;98%;Single to LF (Line Drive to LF-CF); Benintendi to 2B
+t7;4-11;0;12-;7,(3-2) CFBFB*BS;O;CHW;Luis Robert Jr.;Grant Hartwig;1%;99%;Strikeout Swinging
+;;;;;;;;;Trevor Gott replaces Grant Hartwig pitching
+t7;4-11;1;12-;1,(0-0) .X;;CHW;Andrew Vaughn;Trevor Gott;-1%;98%;Fielder's Choice 3B; Benintendi to 3B; Anderson to 2B; Vaughn to 1B
+t7;4-11;1;123;2,(0-1) FX;RR;CHW;Jake Burger;Trevor Gott;-4%;94%;Double to CF (Fly Ball to Deep CF); Benintendi Scores; Anderson Scores; Vaughn to 3B
+t7;6-11;1;-23;4,(2-1) BCBX;RR;CHW;Yasmani Grandal;Trevor Gott;-4%;89%;Single to RF (Line Drive); Vaughn Scores; Burger Scores
+t7;8-11;1;1--;2,(1-0) BX;;CHW;Zach Remillard;Trevor Gott;-4%;85%;Single to CF (Line Drive); Grandal to 2B
+;;;;;;;;;Brooks Raley replaces Trevor Gott pitchingCarlos Pérez pinch hits for Oscar Colás (RF) batting 8th
+t7;8-11;1;12-;5,(3-1) ..BCBBB;;CHW;Carlos Pérez;Brooks Raley;-8%;77%;Walk; Grandal to 3B; Remillard to 2B
+t7;8-11;1;123;1,(0-0) B;R;CHW;Seby Zavala;Brooks Raley;-9%;68%;Passed Ball; Grandal Scores/No RBI/unER; Remillard to 3B; Pérez to 2B
+t7;9-11;1;-23;4,(1-2) B.FSS;O;CHW;Seby Zavala;Brooks Raley;11%;80%;Strikeout Swinging
+t7;9-11;2;-23;4,(1-2) CF*BX;O;CHW;Andrew Benintendi;Brooks Raley;9%;89%;Flyball: LF
+;;;;;;;;;5 runs, 4 hits, 0 errors, 2 LOB. White Sox 9, Mets 11.
+Bottom of the 7th, Mets Batting, Ahead 11-9, White Sox' Reynaldo López facing 8-9-1 
+;;;;;;;;;Reynaldo López replaces Tanner Banks pitchingGavin Sheets replaces Carlos Pérez (PH) playing RF batting 8th
+b7;11-9;0;---;5,(2-2) ..BFFBX;;NYM;Mark Canha;Reynaldo López;2%;90%;Single to LF (Ground Ball thru SS-3B Hole)
+b7;11-9;0;1--;10,(3-2) B*SFBF*B1>F>F.>F>X;O;NYM;DJ Stewart;Reynaldo López;-1%;90%;Groundout: 2B-1B (2B-1B); Canha to 2B
+b7;11-9;1;-2-;5,(2-2) BCBFC;O;NYM;Brandon Nimmo;Reynaldo López;-2%;88%;Strikeout Looking
+b7;11-9;2;-2-;9,(3-2) SSF*BFFB*BB;;NYM;Tommy Pham;Reynaldo López;0%;89%;Walk
+b7;11-9;2;12-;6,(2-2) CCB*BFS;O;NYM;Francisco Lindor;Reynaldo López;-2%;87%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. White Sox 9, Mets 11.
+Top of the 8th, White Sox Batting, Behind 9-11, Mets' Adam Ottavino facing 2-3-4 
+;;;;;;;;;Adam Ottavino replaces Brooks Raley pitching
+t8;9-11;0;---;4,(2-1) .CBBX;O;CHW;Tim Anderson;Adam Ottavino;4%;90%;Groundout: SS-1B (SS-2B)
+t8;9-11;1;---;1,(0-0) X;O;CHW;Luis Robert Jr.;Adam Ottavino;2%;93%;Groundout: 2B-1B (2B-1B)
+t8;9-11;2;---;2,(0-1) CX;;CHW;Andrew Vaughn;Adam Ottavino;-2%;91%;Single to CF (Line Drive to Deep CF)
+t8;9-11;2;1--;3,(0-2) CSB;;CHW;Jake Burger;Adam Ottavino;-1%;90%;Wild Pitch; Vaughn to 2B
+t8;9-11;2;-2-;4,(1-2) CSB.X;O;CHW;Jake Burger;Adam Ottavino;4%;94%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 9, Mets 11.
+Bottom of the 8th, Mets Batting, Ahead 11-9, White Sox' Keynan Middleton facing 4-5-6 
+;;;;;;;;;Keynan Middleton replaces Reynaldo López pitching
+b8;11-9;0;---;6,(3-2) .BBFFB.S;O;NYM;Pete Alonso;Keynan Middleton;-1%;93%;Strikeout Swinging
+b8;11-9;1;---;4,(2-1) BBCX;O;NYM;Jeff McNeil;Keynan Middleton;0%;93%;Flyball: LF (LF Line)
+b8;11-9;2;---;5,(3-1) BBSBB;;NYM;Francisco Alvarez;Keynan Middleton;0%;93%;Walk
+b8;11-9;2;1--;3,(1-1) CBB;;NYM;Brett Baty;Keynan Middleton;0%;94%;Wild Pitch; Alvarez to 2B
+b8;11-9;2;-2-;4,(2-1) CBB.X;O;NYM;Brett Baty;Keynan Middleton;-1%;93%;Flyball: LF (Short LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 9, Mets 11.
+Top of the 9th, White Sox Batting, Behind 9-11, Mets' David Robertson facing 6-7-8 
+;;;;;;;;;David Robertson replaces Adam Ottavino pitchingLuis Guillorme replaces Brett Baty playing 3B batting 7th
+t9;9-11;0;---;4,(3-0) ..BBBB;;CHW;Yasmani Grandal;David Robertson;-8%;85%;Walk
+t9;9-11;0;1--;2,(0-1) CX;O;CHW;Zach Remillard;David Robertson;6%;91%;Popfly: 2B (Deep 1B)
+t9;9-11;1;1--;4,(2-1) BBCX;O;CHW;Gavin Sheets;David Robertson;5%;96%;Lineout: CF (Deep CF)
+;;;;;;;;;Elvis Andrus pinch hits for Seby Zavala (C) batting 9th
+t9;9-11;2;1--;7,(3-2) .CC.BBB>F>B;;CHW;Elvis Andrus;David Robertson;-4%;93%;Walk; Grandal to 2B
+t9;9-11;2;12-;1,(0-0) X;R;CHW;Andrew Benintendi;David Robertson;-9%;84%;Single to CF (Ground Ball thru SS-2B); Grandal Scores; Andrus to 3B
+t9;10-11;2;1-3;2,(1-0) B>S;;CHW;Tim Anderson;David Robertson;-4%;80%;Benintendi Steals 2B
+t9;10-11;2;-23;4,(1-2) B>S.F.X;O;CHW;Tim Anderson;David Robertson;20%;100%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. White Sox 10, Mets 11.

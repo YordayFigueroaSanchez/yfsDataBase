@@ -1,0 +1,290 @@
+
+Scorebox Meta
+20230911
+7:10 p.m. Local
+25230
+Citi Field
+170
+
+Boxscore
+https://cdn.ssref.net/req/202309121/tlogo/br/ARI-2023.png;/teams/ARI/2023.shtml;0;0;0;2;0;0;0;1;1;4;10;1
+https://cdn.ssref.net/req/202309121/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;0;0;3;0;0;0;0;0;3;6;0
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;4;0;1;0;0;1;5;.262;.355;.451;.806;18;12;-0.234; 2.18;0.045;-0.279;0%; 0.01; -0.4;2;0;HBP
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;0;0;0;0;1;4;.250;.329;.463;.792;19;12;-0.139; 0.98;0.000;-0.139;0%; 0.00; -1.4;0;3;
+Jeff McNeil;/players/m/mcneije01.shtml;LF;4;1;3;1;0;0;4;.268;.333;.367;.700;12;9;0.071; 0.86;0.128;-0.058;0%; 0.00; 0.8;2;0;HR
+Pete Alonso;/players/a/alonspe01.shtml;1B;3;1;0;0;1;2;4;.222;.329;.527;.855;23;13;-0.046; 0.97;0.034;-0.079;0%; 0.00; -0.4;9;1;
+DJ Stewart;/players/s/stewadj01.shtml;RF;3;1;1;0;1;1;4;.266;.347;.633;.980;14;8;0.038; 1.04;0.088;-0.050;0%; 0.00; 0.5;3;0;2B
+Ronny Mauricio;/players/m/mauriro01.shtml;2B;3;0;1;2;1;1;4;.313;.353;.375;.728;18;10;0.470; 2.57;0.520;-0.050; 0.00%; 0.01; 2.1;2;6;2B,SB
+Brett Baty;/players/b/batybr01.shtml;DH;2;0;0;0;1;1;4;.209;.279;.314;.593;13;7;-0.085; 2.10;0.015;-0.100;0%; 0.01; -0.4;;;SH
+Mark Vientos;/players/v/vientma01.shtml;3B;3;0;0;0;0;0;3;.199;.245;.325;.570;6;5;-0.100; 1.16;0.000;-0.100;0%; 0.00; -1.1;0;0;
+Jonathan Araúz;/players/a/arauzjo01.shtml;3B;0;0;0;0;0;0;0;.125;.197;.232;.429;;;;;;;;;;1;0;
+Daniel Vogelbach;/players/v/vogelda01.shtml;PH;1;0;0;0;0;1;1;.227;.333;.398;.731;5;3;-0.251; 5.85;0.000;-0.251;-0.00%; 0.02; -0.6;;;
+Omar Narváez;/players/n/narvaom01.shtml;C;3;0;0;0;1;2;4;.186;.271;.245;.516;26;17;-0.050; 2.28;0.038;-0.088;0%; 0.01; -0.8;7;1;
+Tim Locastro;/players/l/locasti01.shtml;PR;0;0;0;0;0;0;0;.167;.306;.267;.572;;;0.042; 7.27;0.042;0.000;0%; 0.02; 0.1;;;SB
+José Quintana;/players/q/quintjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Sean Reid-Foley;/players/r/reidfse01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brooks Raley;/players/r/raleybr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Gott;/players/g/gotttr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Drew Smith;/players/s/smithdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Ronny Mauricio (2, off Zach Davies); DJ Stewart (7, off Kyle Nelson).
+
+
+HR: Jeff McNeil (8, off Zach Davies, 4th inn, 0 on, 1 out to Deep RF).
+
+
+SH: Brett Baty (1, off Paul Sewald).
+
+
+HBP: Brandon Nimmo (11, by Luis Frías).
+
+
+TB: Jeff McNeil 6; DJ Stewart 2; Ronny Mauricio 2; Brandon Nimmo.
+
+
+RBI: Ronny Mauricio 2 (3); Jeff McNeil (50).
+
+
+Team LOB: 7.
+With RISP: 1 for 7.
+
+Batting away
+Ketel Marte;/players/m/marteke01.shtml;2B;5;0;2;1;0;1;5;.277;.356;.484;.840;22;16;0.187; 1.79;0.387;-0.200; 0.16%; 2.51; 0.1;1;3;2B,GDP
+Corbin Carroll;/players/c/carroco02.shtml;CF-RF;5;0;0;0;0;1;5;.281;.361;.513;.874;23;14;-0.126; 0.99;0.000;-0.126;-0.11%; 1.38; -1.1;2;0;
+Tommy Pham;/players/p/phamth01.shtml;RF;5;2;3;1;0;0;5;.266;.331;.477;.808;14;10;0.303; 1.20;0.346;-0.043; 0.26%; 1.68; 1.4;2;2;HR,2B
+Jose Herrera;/players/h/herrejo04.shtml;C;0;0;0;0;0;0;0;.212;.301;.263;.564;;;;;;;;;;1;0;
+Christian Walker;/players/w/walkech02.shtml;1B;4;0;0;0;0;0;4;.264;.338;.505;.843;14;11;-0.149; 1.65;0.000;-0.149;-0.12%; 2.31; -1.1;8;0;
+Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF;3;1;0;0;1;1;4;.256;.307;.470;.777;13;5;-0.066; 1.29;0.023;-0.089;-0.06%; 1.81; -0.3;1;0;
+Evan Longoria;/players/l/longoev01.shtml;DH;2;0;1;1;1;1;3;.231;.298;.446;.744;13;9;0.098; 1.22;0.124;-0.026; 0.08%; 1.72; 1.0;;;
+Pavin Smith;/players/s/smithpa04.shtml;PH-DH-DH;1;0;1;0;0;0;1;.188;.317;.325;.642;5;3;0.026; 0.99;0.026;0.000; 0.02%; 1.39; 0.1;;;
+Emmanuel Rivera;/players/r/riverem01.shtml;3B;1;0;0;1;1;0;3;.264;.310;.366;.676;15;8;0.014; 1.13;0.038;-0.024; 0.01%; 1.59; -0.1;0;3;SF
+Jace Peterson;/players/p/peterja01.shtml;PH-3B;1;0;0;0;0;0;1;.215;.307;.314;.621;7;6;-0.051; 1.81;0.000;-0.051;-0.04%; 2.54; -0.2;1;0;
+Jordan Lawlar;/players/l/lawlajo01.shtml;SS;2;0;0;0;0;1;2;.077;.143;.077;.220;6;4;-0.044; 0.83;0.000;-0.044;-0.04%; 1.17; -0.5;1;0;
+Geraldo Perdomo;/players/p/perdoge01.shtml;PH-SS;2;0;0;0;0;1;2;.260;.364;.378;.742;14;8;-0.098; 1.83;0.000;-0.098;-0.08%; 2.56; -0.5;0;1;
+Seby Zavala;/players/z/zavalse01.shtml;C;3;0;2;0;0;1;3;.174;.222;.317;.540;12;8;0.065; 1.24;0.098;-0.033; 0.06%; 1.74; 0.4;9;0;
+Alek Thomas;/players/t/thomaal01.shtml;PH-CF;1;1;1;0;0;0;1;.241;.282;.390;.672;2;2;0.060; 1.82;0.060;0.000; 0.05%; 2.55; 0.3;1;0;
+Zach Davies;/players/d/davieza02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kyle Nelson;/players/n/nelsoky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Luis Frías;/players/f/friaslu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kevin Ginkel;/players/g/ginkeke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Paul Sewald;/players/s/sewalpa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Tommy Pham (26, off José Quintana); Ketel Marte (25, off Drew Smith).
+
+
+HR: Tommy Pham (16, off Trevor Gott, 8th inn, 0 on, 0 outs to Deep CF-RF).
+
+
+SF: Emmanuel Rivera (3, off José Quintana).
+
+
+TB: Tommy Pham 7; Ketel Marte 3; Seby Zavala 2; Pavin Smith; Evan Longoria; Alek Thomas.
+
+
+GIDP: Ketel Marte (16).
+
+
+RBI: Tommy Pham (61); Evan Longoria (26); Ketel Marte (74); Emmanuel Rivera (26).
+
+
+Team LOB: 8.
+With RISP: 1 for 5.
+
+Pitching home
+José Quintana;/players/q/quintjo01.shtml;José Quintana; 5 ;5;2;2;2;4;0;3.05;22;90;56;34;9;13;5;11;6;0;51;;;0.036; 1.14; 0.00%; 0.00; 0.6
+Sean Reid-Foley;/players/r/reidfse01.shtml; H (3); 1 ;0;0;0;1;3;0;3.52;4;22;13;3;2;8;0;0;0;0;;0;0;0.081; 1.12; 0.00%; 0.00; 0.5
+Brooks Raley;/players/r/raleybr01.shtml; H (24); 1 ;1;0;0;0;0;0;2.94;3;15;9;5;2;2;2;1;1;0;;0;0;0.097; 1.78; 0.00%; 0.01; 0.5
+Trevor Gott;/players/g/gotttr01.shtml; BS (7); 1 ;2;1;1;0;0;1;4.47;5;18;14;9;1;4;3;2;0;0;;0;0;-0.136; 1.64; 0.00%; 0.01; -0.5
+Drew Smith;/players/s/smithdr01.shtml; L (4-6); 1 ;2;1;1;0;0;0;4.65;5;15;12;7;2;3;2;3;1;0;;0;0;-0.296; 1.87;-0.00%; 0.01; -0.5
+
+Pitching away
+Zach Davies;/players/d/davieza02.shtml;Zach Davies; 4 ;4;3;3;3;5;1;6.81;18;78;46;25;5;16;4;6;3;0;44;;;-0.173; 1.09;-0.14%; 1.53; -0.9
+Kyle Nelson;/players/n/nelsoky01.shtml;Kyle Nelson; 2 ;2;0;0;0;1;0;3.44;7;24;17;12;3;2;2;4;1;0;;0;0;0.097; 0.82; 0.08%; 1.15; 1.0
+Luis Frías;/players/f/friaslu01.shtml;Luis Frías; 1 ;0;0;0;0;1;0;4.64;4;18;13;8;2;3;1;1;0;0;;0;0;0.044; 0.62; 0.04%; 0.87; 0.5
+Kevin Ginkel;/players/g/ginkeke01.shtml; W (9-0); 1 ;0;0;0;0;2;0;2.26;3;11;8;3;2;3;0;1;0;0;;0;0;0.108; 1.42; 0.09%; 1.99; 0.5
+Paul Sewald;/players/s/sewalpa01.shtml; S (33); 1 ;0;0;0;2;1;0;3.16;5;23;12;9;1;2;1;1;0;0;;0;0;0.205; 5.88; 0.17%; 8.25; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Luis Frías (2; Brandon Nimmo).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Luis Frías (2; Brandon Nimmo).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Roberto Ortiz, 1B - Rob Drake, 2B - John Bacon, 3B - Bill Miller, LF - (none), RF - (none).
+Time of Game: 2:50.
+Attendance: 25,230.
+Field Condition: Unknown.
+Start Time Weather: 73° F, Wind 3mph in from Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Diamondbacks
+1;Ketel Marte;/players/m/marteke01.shtml;2B
+2;Corbin Carroll;/players/c/carroco02.shtml;CF
+3;Tommy Pham;/players/p/phamth01.shtml;RF
+4;Christian Walker;/players/w/walkech02.shtml;1B
+5;Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF
+6;Evan Longoria;/players/l/longoev01.shtml;DH
+7;Emmanuel Rivera;/players/r/riverem01.shtml;3B
+8;Jordan Lawlar;/players/l/lawlajo01.shtml;SS
+9;Seby Zavala;/players/z/zavalse01.shtml;C
+; Zach Davies;/players/d/davieza02.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Jeff McNeil;/players/m/mcneije01.shtml;LF
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;DJ Stewart;/players/s/stewadj01.shtml;RF
+6;Ronny Mauricio;/players/m/mauriro01.shtml;2B
+7;Brett Baty;/players/b/batybr01.shtml;DH
+8;Mark Vientos;/players/v/vientma01.shtml;3B
+9;Omar Narváez;/players/n/narvaom01.shtml;C
+; José Quintana;/players/q/quintjo01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t9;3-3;1;1--;2,(0-1) C1X;R;ARI;Ketel Marte;Drew Smith;35%;85%;Double to LF (Fly Ball to LF Line); Thomas Scores
+b4;1-2;1;12-;3,(0-2) CFX;RR;NYM;Ronny Mauricio;Zach Davies;-25%;27%;Double to RF (Line Drive to Deep CF-RF); Alonso Scores; Stewart Scores; Mauricio to 3B/Adv on E9 (throw)
+b9;3-4;1;--3;5,(2-2) .>B.BFTC;O;NYM;Daniel Vogelbach;Paul Sewald;25%;84%;Strikeout Looking
+b9;3-4;2;-23;4,(1-2) .>B.FFX;O;NYM;Brandon Nimmo;Paul Sewald;25%;100%;Flyball: CF
+t8;2-3;0;---;2,(1-0) ..BX;R;ARI;Tommy Pham;Trevor Gott;24%;50%;Home Run (Fly Ball to Deep CF-RF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Diamondbacks Batting, Tied 0-0, Mets' José Quintana facing 1-2-3 
+t1;0-0;0;---;4,(1-2) TBF.*S;O;ARI;Ketel Marte;José Quintana;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;8,(3-2) SFFBB.BFS;O;ARI;Corbin Carroll;José Quintana;-2%;46%;Strikeout Swinging
+t1;0-0;2;---;2,(0-1) CX;O;ARI;Tommy Pham;José Quintana;-1%;45%;Groundout: C-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Diamondbacks' Zach Davies facing 1-2-3 
+b1;0-0;0;---;4,(1-2) CFBX;;NYM;Brandon Nimmo;Zach Davies;-3%;42%;Single to RF (Line Drive to Short RF)
+b1;0-0;0;1--;6,(3-2) *BCBBS1>X;OO;NYM;Francisco Lindor;Zach Davies;7%;49%;Double Play: Lineout: RF; Nimmo out at 1B/RF-1B
+b1;0-0;2;---;6,(2-2) CFBBFX;;NYM;Jeff McNeil;Zach Davies;-1%;48%;Single to CF (Ground Ball)
+b1;0-0;2;1--;6,(2-2) ABCFBF.S;O;NYM;Pete Alonso;Zach Davies;2%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Diamondbacks 0, Mets 0.
+Top of the 2nd, Diamondbacks Batting, Tied 0-0, Mets' José Quintana facing 4-5-6 
+t2;0-0;0;---;3,(1-1) BCX;O;ARI;Christian Walker;José Quintana;-2%;48%;Groundout: 2B-1B (Deep SS-2B)
+t2;0-0;1;---;2,(1-0) BX;O;ARI;Lourdes Gurriel Jr.;José Quintana;-2%;46%;Lineout: RF (Deep RF)
+t2;0-0;2;---;7,(3-2) CS.BBFBB;;ARI;Evan Longoria;José Quintana;1%;47%;Walk
+t2;0-0;2;1--;4,(2-1) BBSX;O;ARI;Emmanuel Rivera;José Quintana;-2%;45%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Diamondbacks 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Diamondbacks' Zach Davies facing 5-6-7 
+b2;0-0;0;---;4,(2-1) CBBX;O;NYM;DJ Stewart;Zach Davies;2%;47%;Groundout: 2B-1B (2B-1B)
+b2;0-0;1;---;6,(2-2) BFBFFS;O;NYM;Ronny Mauricio;Zach Davies;2%;49%;Strikeout Swinging
+b2;0-0;2;---;2,(1-0) BX;O;NYM;Brett Baty;Zach Davies;1%;50%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 0, Mets 0.
+Top of the 3rd, Diamondbacks Batting, Tied 0-0, Mets' José Quintana facing 8-9-1 
+t3;0-0;0;---;1,(0-0) X;O;ARI;Jordan Lawlar;José Quintana;-3%;47%;Groundout: 2B-1B
+t3;0-0;1;---;2,(0-1) CX;;ARI;Seby Zavala;José Quintana;3%;50%;Single to CF (Line Drive to Short CF)
+t3;0-0;1;1--;6,(2-2) CBFBFX;O;ARI;Ketel Marte;José Quintana;-3%;47%;Flyball: LF (Deep LF Line)
+t3;0-0;2;1--;2,(0-1) CX;O;ARI;Corbin Carroll;José Quintana;-3%;44%;Lineout: 1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 0, Mets 0.
+Bottom of the 3rd, Mets Batting, Tied 0-0, Diamondbacks' Zach Davies facing 8-9-1 
+b3;0-0;0;---;1,(0-0) X;O;NYM;Mark Vientos;Zach Davies;3%;47%;Groundout: 2B-1B
+b3;0-0;1;---;3,(1-1) CBX;O;NYM;Omar Narváez;Zach Davies;2%;49%;Flyball: CF (Deep CF)
+b3;0-0;2;---;4,(1-2) CCBC;O;NYM;Brandon Nimmo;Zach Davies;1%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 0, Mets 0.
+Top of the 4th, Diamondbacks Batting, Tied 0-0, Mets' José Quintana facing 3-4-5 
+t4;0-0;0;---;3,(1-1) BCX;;ARI;Tommy Pham;José Quintana;7%;57%;Double to RF (Line Drive to Short RF Line)
+t4;0-0;0;-2-;7,(2-2) FTF*BFBX;O;ARI;Christian Walker;José Quintana;-2%;56%;Flyball: LF (Deep LF-CF); Pham to 3B
+t4;0-0;1;--3;4,(3-0) BBBB;;ARI;Lourdes Gurriel Jr.;José Quintana;2%;58%;Walk
+t4;0-0;1;1-3;3,(0-2) S1FX;R;ARI;Evan Longoria;José Quintana;11%;69%;Single to LF (Line Drive to Deep SS-3B Hole); Pham Scores; Gurriel to 3B
+t4;1-0;1;1-3;4,(2-1) FBBX;RO;ARI;Emmanuel Rivera;José Quintana;2%;71%;Flyball: RF/Sacrifice Fly; Gurriel Scores
+t4;2-0;2;1--;5,(2-2) CC.B*BC;O;ARI;Jordan Lawlar;José Quintana;-2%;69%;Strikeout Looking
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Diamondbacks 2, Mets 0.
+Bottom of the 4th, Mets Batting, Behind 0-2, Diamondbacks' Zach Davies facing 2-3-4 
+b4;0-2;0;---;6,(2-2) BCC.BFS;O;NYM;Francisco Lindor;Zach Davies;3%;72%;Strikeout Swinging
+b4;0-2;1;---;1,(0-0) X;R;NYM;Jeff McNeil;Zach Davies;-12%;60%;Home Run (Fly Ball to Deep RF)
+b4;1-2;1;---;6,(3-2) BBBCC.B;;NYM;Pete Alonso;Zach Davies;-3%;57%;Walk
+b4;1-2;1;1--;5,(3-1) BSBBB;;NYM;DJ Stewart;Zach Davies;-5%;52%;Walk; Alonso to 2B
+b4;1-2;1;12-;3,(0-2) CFX;RR;NYM;Ronny Mauricio;Zach Davies;-25%;27%;Double to RF (Line Drive to Deep CF-RF); Alonso Scores; Stewart Scores; Mauricio to 3B/Adv on E9 (throw)
+b4;3-2;1;--3;6,(3-2) BF*BBFB;;NYM;Brett Baty;Zach Davies;-2%;25%;Walk
+b4;3-2;1;1-3;2,(1-0) BX;O;NYM;Mark Vientos;Zach Davies;5%;31%;Groundout: 3B-1B (SS-3B Hole); Baty to 2B
+b4;3-2;2;-23;7,(2-2) CBBFFFC;O;NYM;Omar Narváez;Zach Davies;6%;36%;Strikeout Looking
+;;;;;;;;;3 runs, 2 hits, 1 error, 2 LOB. Diamondbacks 2, Mets 3.
+Top of the 5th, Diamondbacks Batting, Behind 2-3, Mets' José Quintana facing 9-1-2 
+t5;2-3;0;---;5,(2-2) C.BSBS;O;ARI;Seby Zavala;José Quintana;-3%;33%;Strikeout Swinging
+t5;2-3;1;---;6,(2-2) CCB.BFX;;ARI;Ketel Marte;José Quintana;4%;37%;Single to CF (Ground Ball thru SS-2B)
+t5;2-3;1;1--;6,(3-2) BFBB.TX;O;ARI;Corbin Carroll;José Quintana;-4%;32%;Flyball: CF (Deep CF)
+t5;2-3;2;1--;5,(2-2) BF1SBX;;ARI;Tommy Pham;José Quintana;3%;35%;Single to LF (Line Drive to Short LF Line); Marte to 2B
+t5;2-3;2;12-;1,(0-0) X;O;ARI;Christian Walker;José Quintana;-6%;29%;Groundout: SS-2B/Forceout at 2B (SS-2B); Walker to 1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Diamondbacks 2, Mets 3.
+Bottom of the 5th, Mets Batting, Ahead 3-2, Diamondbacks' Kyle Nelson facing 1-2-3 
+;;;;;;;;;Kyle Nelson replaces Zach Davies pitching
+b5;3-2;0;---;1,(0-0) .X;O;NYM;Brandon Nimmo;Kyle Nelson;2%;31%;Flyball: LF (Deep LF-CF)
+b5;3-2;1;---;5,(2-2) CSBBX;O;NYM;Francisco Lindor;Kyle Nelson;2%;33%;Groundout: 3B-1B
+b5;3-2;2;---;2,(0-1) F.X;O;NYM;Jeff McNeil;Kyle Nelson;1%;34%;Single to RF (Line Drive to RF Line); McNeil out at 2B/RF-SS
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Diamondbacks 2, Mets 3.
+Top of the 6th, Diamondbacks Batting, Behind 2-3, Mets' Sean Reid-Foley facing 5-6-7 
+;;;;;;;;;Sean Reid-Foley replaces José Quintana pitching
+t6;2-3;0;---;6,(3-2) .BBBC.CC;O;ARI;Lourdes Gurriel Jr.;Sean Reid-Foley;-4%;30%;Strikeout Looking
+t6;2-3;1;---;3,(0-2) CC.S;O;ARI;Evan Longoria;Sean Reid-Foley;-3%;28%;Strikeout Swinging
+t6;2-3;2;---;7,(3-2) BCFFVF.BB;;ARI;Emmanuel Rivera;Sean Reid-Foley;2%;30%;Walk
+;;;;;;;;;Geraldo Perdomo pinch hits for Jordan Lawlar (SS) batting 8th
+t6;2-3;2;1--;6,(3-2) .BC1CBB>S;O;ARI;Geraldo Perdomo;Sean Reid-Foley;-4%;26%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Diamondbacks 2, Mets 3.
+Bottom of the 6th, Mets Batting, Ahead 3-2, Diamondbacks' Kyle Nelson facing 4-5-6 
+;;;;;;;;;Geraldo Perdomo moves from PH to SS 
+b6;3-2;0;---;6,(2-2) .FCBBF.X;O;NYM;Pete Alonso;Kyle Nelson;2%;28%;Flyball: RF (Short CF-RF)
+b6;3-2;1;---;2,(0-1) TX;;NYM;DJ Stewart;Kyle Nelson;-4%;24%;Ground-rule Double (Fly Ball to Deep RF Line)
+b6;3-2;1;-2-;4,(2-1) BFBX;O;NYM;Ronny Mauricio;Kyle Nelson;3%;27%;Groundout: 3B-1B (SS-3B Hole)
+b6;3-2;2;-2-;4,(1-2) S*BFS;O;NYM;Brett Baty;Kyle Nelson;3%;31%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 2, Mets 3.
+Top of the 7th, Diamondbacks Batting, Behind 2-3, Mets' Brooks Raley facing 9-1-2 
+;;;;;;;;;Brooks Raley replaces Sean Reid-Foley pitching
+t7;2-3;0;---;5,(2-2) .BBCFX;;ARI;Seby Zavala;Brooks Raley;7%;38%;Single to LF (Line Drive)
+t7;2-3;0;1--;4,(1-2) BFSX;OO;ARI;Ketel Marte;Brooks Raley;-15%;23%;Ground Ball Double Play: SS-2B-1B (Deep SS)
+t7;2-3;2;---;6,(3-2) CBSBBX;O;ARI;Corbin Carroll;Brooks Raley;-2%;21%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Diamondbacks 2, Mets 3.
+Bottom of the 7th, Mets Batting, Ahead 3-2, Diamondbacks' Luis Frías facing 8-9-1 
+;;;;;;;;;Luis Frías replaces Kyle Nelson pitching
+b7;3-2;0;---;3,(0-2) .SFX;O;NYM;Mark Vientos;Luis Frías;2%;23%;Groundout: SS-1B
+b7;3-2;1;---;8,(2-2) BFFFFFBS;O;NYM;Omar Narváez;Luis Frías;1%;24%;Strikeout Swinging
+b7;3-2;2;---;5,(2-2) BCC.BH;;NYM;Brandon Nimmo;Luis Frías;-1%;23%;Hit By Pitch
+b7;3-2;2;1--;2,(0-1) CX;O;NYM;Francisco Lindor;Luis Frías;2%;26%;Popfly: 2B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Diamondbacks 2, Mets 3.
+Top of the 8th, Diamondbacks Batting, Behind 2-3, Mets' Trevor Gott facing 3-4-5 
+;;;;;;;;;Trevor Gott replaces Brooks Raley pitchingJonathan Araúz replaces Mark Vientos playing 3B batting 8th
+t8;2-3;0;---;2,(1-0) ..BX;R;ARI;Tommy Pham;Trevor Gott;24%;50%;Home Run (Fly Ball to Deep CF-RF)
+t8;3-3;0;---;3,(0-2) CFX;O;ARI;Christian Walker;Trevor Gott;-5%;45%;Groundout: SS-1B
+t8;3-3;1;---;1,(0-0) X;O;ARI;Lourdes Gurriel Jr.;Trevor Gott;-4%;42%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;Pavin Smith pinch hits for Evan Longoria (DH) batting 6th
+t8;3-3;2;---;5,(2-2) .CBBSX;;ARI;Pavin Smith;Trevor Gott;3%;44%;Single to CF (Ground Ball thru SS-2B)
+;;;;;;;;;Jace Peterson pinch hits for Emmanuel Rivera (3B) batting 7th
+t8;3-3;2;1--;7,(1-2) .CCFFFBX;O;ARI;Jace Peterson;Trevor Gott;-5%;39%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Diamondbacks 3, Mets 3.
+Bottom of the 8th, Mets Batting, Tied 3-3, Diamondbacks' Kevin Ginkel facing 3-4-5 
+;;;;;;;;;Kevin Ginkel replaces Luis Frías pitchingJace Peterson moves from PH to 3B 
+b8;3-3;0;---;3,(1-1) ...FBX;O;NYM;Jeff McNeil;Kevin Ginkel;5%;44%;Popfly: 3B (SS-3B Hole)
+b8;3-3;1;---;5,(2-2) CBTBS;O;NYM;Pete Alonso;Kevin Ginkel;4%;47%;Strikeout Swinging
+b8;3-3;2;---;3,(0-2) CC*S;O;NYM;DJ Stewart;Kevin Ginkel;3%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 3, Mets 3.
+Top of the 9th, Diamondbacks Batting, Tied 3-3, Mets' Drew Smith facing 8-9-1 
+;;;;;;;;;Drew Smith replaces Trevor Gott pitching
+t9;3-3;0;---;8,(3-2) .BSS.FBFBX;O;ARI;Geraldo Perdomo;Drew Smith;-6%;44%;Popfly: 3B (Front of Home)
+;;;;;;;;;Alek Thomas pinch hits for Seby Zavala (C) batting 9th
+t9;3-3;1;---;2,(0-1) .CX;;ARI;Alek Thomas;Drew Smith;6%;50%;Single to RF (Line Drive)
+t9;3-3;1;1--;2,(0-1) C1X;R;ARI;Ketel Marte;Drew Smith;35%;85%;Double to LF (Fly Ball to LF Line); Thomas Scores
+t9;4-3;1;-2-;1,(0-0) X;O;ARI;Corbin Carroll;Drew Smith;-2%;83%;Groundout: 1B-P; Marte to 3B
+t9;4-3;2;--3;2,(0-1) CX;O;ARI;Tommy Pham;Drew Smith;-3%;80%;Groundout: 2B-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Diamondbacks 4, Mets 3.
+Bottom of the 9th, Mets Batting, Behind 3-4, Diamondbacks' Paul Sewald facing 6-7-8 
+;;;;;;;;;Paul Sewald replaces Kevin Ginkel pitchingJose Herrera replaces Tommy Pham (RF) playing C batting 3rdAlek Thomas moves from PH to CF Corbin Carroll moves from CF to RF 
+b9;3-4;0;---;5,(3-1) ....BBBCB;;NYM;Ronny Mauricio;Paul Sewald;-13%;66%;Walk
+b9;3-4;0;1--;1,(0-0) X;O;NYM;Brett Baty;Paul Sewald;5%;72%;Bunt Groundout: 2B-1B/Sacrifice (Weak 2B-1B); Mauricio to 2B
+;;;;;;;;;Daniel Vogelbach pinch hits for Jonathan Araúz (3B) batting 8th
+b9;3-4;1;-2-;1,(0-0) .>B;;NYM;Daniel Vogelbach;Paul Sewald;-13%;58%;Mauricio Steals 3B
+b9;3-4;1;--3;5,(2-2) .>B.BFTC;O;NYM;Daniel Vogelbach;Paul Sewald;25%;84%;Strikeout Looking
+b9;3-4;2;--3;8,(3-2) SBFFBFB.B;;NYM;Omar Narváez;Paul Sewald;-4%;80%;Walk
+;;;;;;;;;Tim Locastro pinch runs for Omar Narváez (C) batting 9th
+b9;3-4;2;1-3;1,(0-0) .>B;;NYM;Brandon Nimmo;Paul Sewald;-4%;76%;Locastro Steals 2B
+b9;3-4;2;-23;4,(1-2) .>B.FFX;O;NYM;Brandon Nimmo;Paul Sewald;25%;100%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Diamondbacks 4, Mets 3.
