@@ -1,0 +1,247 @@
+
+Scorebox Meta
+20230928
+1:10 p.m. Local
+23522
+Guaranteed Rate Field
+136
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/ARI-2023.png;/teams/ARI/2023.shtml;0;0;1;0;0;0;0;0;0;1;3;0
+https://cdn.ssref.net/req/202310031/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;0;2;0;1;0;0;0;0;X;3;3;0
+
+Batting home
+Tim Anderson;/players/a/anderti01.shtml;SS;4;0;0;0;0;2;4;.246;.287;.298;.585;12;10;-0.049; 0.48;0.000;-0.049;0%; 0.00; -0.6;1;5;
+Andrew Benintendi;/players/b/beninan01.shtml;LF;3;0;1;0;0;0;3;.263;.327;.358;.685;12;7;-0.018; 0.51;0.011;-0.030;0%; 0.00; -0.3;4;0;
+Eloy Jiménez;/players/j/jimenel02.shtml;DH;3;0;0;0;0;0;3;.276;.319;.448;.766;16;9;-0.043; 0.52;0.000;-0.043;0%; 0.00; -0.5;;;
+Yoán Moncada;/players/m/moncayo01.shtml;3B;2;2;1;1;1;1;3;.258;.302;.414;.716;16;9;0.129; 0.68;0.136;-0.007;0%; 0.00; 1.3;0;1;HR
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;3;1;1;2;0;1;3;.260;.316;.435;.751;11;6;0.130; 0.84;0.157;-0.027;0%; 0.00; 1.1;9;3;HR
+Gavin Sheets;/players/s/sheetga01.shtml;RF;3;0;0;0;0;0;3;.201;.266;.331;.597;7;5;-0.036; 0.47;0.000;-0.036;0%; 0.00; -0.6;1;0;
+Tyler Naquin;/players/n/naquity01.shtml;RF;0;0;0;0;0;0;0;.000;.000;.000;.000;;;;;;;;;;0;0;
+Lenyn Sosa;/players/s/sosale01.shtml;2B;3;0;0;0;0;1;3;.190;.204;.323;.526;12;7;-0.026; 0.33;0.000;-0.026;0%; 0.00; -0.4;0;2;
+Trayce Thompson;/players/t/thomptr01.shtml;CF;3;0;0;0;0;2;3;.176;.295;.317;.612;17;9;-0.030; 0.38;0.000;-0.030;0%; 0.00; -0.6;1;0;
+Korey Lee;/players/l/leeko01.shtml;C;3;0;0;0;0;1;3;.063;.132;.127;.259;9;8;-0.037; 0.48;0.000;-0.037;0%; 0.00; -0.6;8;0;
+Touki Toussaint;/players/t/toussto01.shtml;P;;;;;;;;;;;;;;;;;;;;;2;0;
+Tanner Banks;/players/b/banksta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Declan Cronin;/players/c/cronide01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Aaron Bummer;/players/b/bummeaa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Bryan Shaw;/players/s/shawbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Andrew Vaughn (21, off Bryce Jarvis, 2nd inn, 1 on, 0 outs to Deep LF-CF); Yoán Moncada (10, off Kyle Nelson, 4th inn, 0 on, 0 outs to Deep LF-CF).
+
+
+TB: Yoán Moncada 4; Andrew Vaughn 4; Andrew Benintendi.
+
+
+RBI: Andrew Vaughn 2 (80); Yoán Moncada (39).
+
+
+Team LOB: 1.
+With RISP: 0 for 0.
+
+Batting away
+Corbin Carroll;/players/c/carroco02.shtml;RF;4;1;2;0;0;0;4;.287;.362;.509;.871;17;10;0.053; 1.12;0.126;-0.073; 0.01%; 0.28; 0.7;3;0;3B,SB
+Ketel Marte;/players/m/marteke01.shtml;2B;3;0;0;1;0;1;4;.278;.360;.489;.849;21;13;-0.063; 1.21;0.011;-0.074;-0.01%; 0.30; -0.5;0;0;SF
+Tommy Pham;/players/p/phamth01.shtml;DH;3;0;0;0;1;2;4;.257;.328;.450;.778;17;10;-0.020; 0.99;0.030;-0.050;-0.00%; 0.24; -0.0;;;SB
+Christian Walker;/players/w/walkech02.shtml;1B;4;0;0;0;0;1;4;.261;.336;.503;.838;13;9;-0.140; 1.17;0.000;-0.140;-0.02%; 0.29; -1.3;6;0;
+Alek Thomas;/players/t/thomaal01.shtml;CF;4;0;0;0;0;0;4;.234;.276;.383;.659;11;7;-0.140; 1.28;0.000;-0.140;-0.02%; 0.32; -1.2;4;0;
+Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF;4;0;1;0;0;0;4;.262;.310;.466;.776;18;11;-0.047; 0.73;0.016;-0.063;-0.01%; 0.18; -0.4;2;0;
+Gabriel Moreno;/players/m/morenga01.shtml;C;2;0;0;0;2;1;4;.284;.339;.407;.746;15;5;0.055; 0.88;0.084;-0.029; 0.01%; 0.21; 0.3;8;0;
+Emmanuel Rivera;/players/r/riverem01.shtml;3B;2;0;0;0;1;2;3;.260;.312;.358;.670;16;8;-0.026; 1.62;0.039;-0.065;-0.00%; 0.40; -0.1;1;2;
+Geraldo Perdomo;/players/p/perdoge01.shtml;SS;3;0;0;0;0;1;3;.251;.358;.366;.724;16;13;-0.153; 1.90;0.010;-0.163;-0.02%; 0.47; -1.3;0;4;
+Bryce Jarvis;/players/j/jarvibr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kyle Nelson;/players/n/nelsoky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Miguel Castro;/players/c/castrmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joe Mantiply;/players/m/mantijo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Luis Frías;/players/f/friaslu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+3B: Corbin Carroll (10, off Touki Toussaint).
+
+
+SF: Ketel Marte (5, off Touki Toussaint).
+
+
+TB: Corbin Carroll 4; Lourdes Gurriel Jr..
+
+
+RBI: Ketel Marte (82).
+
+
+Team LOB: 6.
+With RISP: 0 for 5.
+
+Pitching home
+Touki Toussaint;/players/t/toussto01.shtml;Touki Toussaint; 4 ;3;1;1;3;4;0;4.97;18;85;50;29;5;16;6;5;4;0;53;;;0.123; 1.25; 0.00%; 0.00; 1.1
+Tanner Banks;/players/b/banksta01.shtml; W (1-4); 1 ;0;0;0;0;1;0;4.60;3;11;7;5;0;2;0;2;1;0;;0;0;0.062; 0.80; 0.00%; 0.00; 0.5
+Declan Cronin;/players/c/cronide01.shtml; H (1); 1.1;0;0;0;1;1;0;9.90;5;17;8;4;1;3;3;0;0;0;;0;0;0.062; 1.26; 0.00%; 0.00; 0.5
+Aaron Bummer;/players/b/bummeaa01.shtml; H (15); 1.2;0;0;0;0;1;0;6.79;5;20;13;7;1;5;4;0;0;0;;1;0;0.156; 1.25; 0.00%; 0.00; 1.1
+Bryan Shaw;/players/s/shawbr01.shtml; S (4); 1 ;0;0;0;0;1;0;4.43;3;11;8;5;2;1;1;1;1;0;;0;0;0.078; 1.00; 0.00%; 0.00; 0.5
+
+Pitching away
+Bryce Jarvis;/players/j/jarvibr01.shtml; L (2-1); 2.2;1;2;2;1;1;1;3.00;10;38;20;13;2;5;3;5;0;0;48;;;-0.072; 0.71;-0.01%; 0.18; -0.5
+Kyle Nelson;/players/n/nelsoky01.shtml;Kyle Nelson; 1 ;2;1;1;0;1;1;3.88;5;26;16;12;1;3;0;4;0;0;;0;0;-0.062; 0.61;-0.01%; 0.15; -0.5
+Miguel Castro;/players/c/castrmi01.shtml;Miguel Castro; 1.1;0;0;0;0;3;0;4.43;4;18;12;2;5;5;1;0;0;0;;0;0;0.043; 0.41; 0.01%; 0.10; 0.6
+Joe Mantiply;/players/m/mantijo01.shtml;Joe Mantiply; 1.2;0;0;0;0;1;0;4.74;5;15;11;5;3;3;1;3;2;0;;0;0;0.051; 0.39; 0.01%; 0.10; 0.9
+Luis Frías;/players/f/friaslu01.shtml;Luis Frías; 1.1;0;0;0;0;2;0;3.77;4;15;11;5;3;3;1;1;0;0;;0;0;0.021; 0.20; 0.00%; 0.05; 0.6
+
+indiv_events
+
+Balks: None.
+WP: Aaron Bummer (6).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Aaron Bummer (6).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Junior Valentine, 1B - Quinn Wolcott, 2B - Manny Gonzalez, 3B - Adrian Johnson, LF - (none), RF - (none).
+Time of Game: 2:16.
+Attendance: 23,522.
+Field Condition: Unknown.
+Start Time Weather: 68° F, Wind 10mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Diamondbacks
+1;Corbin Carroll;/players/c/carroco02.shtml;RF
+2;Ketel Marte;/players/m/marteke01.shtml;2B
+3;Tommy Pham;/players/p/phamth01.shtml;DH
+4;Christian Walker;/players/w/walkech02.shtml;1B
+5;Alek Thomas;/players/t/thomaal01.shtml;CF
+6;Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF
+7;Gabriel Moreno;/players/m/morenga01.shtml;C
+8;Emmanuel Rivera;/players/r/riverem01.shtml;3B
+9;Geraldo Perdomo;/players/p/perdoge01.shtml;SS
+; Bryce Jarvis;/players/j/jarvibr01.shtml;P
+White Sox
+1;Tim Anderson;/players/a/anderti01.shtml;SS
+2;Andrew Benintendi;/players/b/beninan01.shtml;LF
+3;Eloy Jiménez;/players/j/jimenel02.shtml;DH
+4;Yoán Moncada;/players/m/moncayo01.shtml;3B
+5;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+6;Gavin Sheets;/players/s/sheetga01.shtml;RF
+7;Lenyn Sosa;/players/s/sosale01.shtml;2B
+8;Trayce Thompson;/players/t/thomptr01.shtml;CF
+9;Korey Lee;/players/l/leeko01.shtml;C
+; Touki Toussaint;/players/t/toussto01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b2;0-0;0;1--;3,(2-0) BBX;RR;CHW;Andrew Vaughn;Bryce Jarvis;16%;75%;Home Run (Fly Ball to Deep LF-CF); Moncada Scores
+b4;2-1;0;---;6,(2-2) CBBFFX;R;CHW;Yoán Moncada;Kyle Nelson;10%;78%;Home Run (Fly Ball to Deep LF-CF)
+t4;1-2;2;123;6,(1-2) CC.BFFC;O;ARI;Geraldo Perdomo;Touki Toussaint;9%;68%;Strikeout Looking
+t3;0-2;1;---;4,(1-2) BFFX;;ARI;Corbin Carroll;Touki Toussaint;-7%;67%;Triple to CF (Line Drive to Deep CF-RF)
+t1;0-0;1;1-3;5,(2-2) BSBFT;O;ARI;Christian Walker;Touki Toussaint;6%;50%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Diamondbacks Batting, Tied 0-0, White Sox' Touki Toussaint facing 1-2-3 
+t1;0-0;0;---;5,(2-2) FB.BCX;;ARI;Corbin Carroll;Touki Toussaint;-4%;46%;Single to SS (Ground Ball to SS-3B Hole)
+t1;0-0;0;1--;3,(1-1) BS1>B;;ARI;Ketel Marte;Touki Toussaint;-2%;44%;Carroll Steals 2B
+t1;0-0;0;-2-;6,(3-2) BS1>B.L.BX;O;ARI;Ketel Marte;Touki Toussaint;2%;46%;Groundout: 1B-P (Weak 2B-1B); Carroll to 3B
+t1;0-0;1;--3;7,(3-2) CFFB*B*BB;;ARI;Tommy Pham;Touki Toussaint;-2%;44%;Walk
+t1;0-0;1;1-3;5,(2-2) BSBFT;O;ARI;Christian Walker;Touki Toussaint;6%;50%;Strikeout Swinging
+t1;0-0;2;1-3;5,(2-2) BBCF>B;;ARI;Alek Thomas;Touki Toussaint;-1%;49%;Pham Steals 2B
+t1;0-0;2;-23;6,(3-2) BBCF>B.X;O;ARI;Alek Thomas;Touki Toussaint;6%;55%;Foul Popfly: LF (LF into Foul Terr.)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Diamondbacks 0, White Sox 0.
+Bottom of the 1st, White Sox Batting, Tied 0-0, Diamondbacks' Bryce Jarvis facing 1-2-3 
+b1;0-0;0;---;4,(1-2) CFBX;O;CHW;Tim Anderson;Bryce Jarvis;-2%;53%;Groundout: SS-1B
+b1;0-0;1;---;6,(3-2) FBFBBX;O;CHW;Andrew Benintendi;Bryce Jarvis;-2%;51%;Popfly: 3B (SS-3B Hole)
+b1;0-0;2;---;6,(3-2) BBFF.BX;O;CHW;Eloy Jiménez;Bryce Jarvis;-1%;50%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 0, White Sox 0.
+Top of the 2nd, Diamondbacks Batting, Tied 0-0, White Sox' Touki Toussaint facing 6-7-8 
+t2;0-0;0;---;5,(2-2) BCFBX;O;ARI;Lourdes Gurriel Jr.;Touki Toussaint;2%;52%;Groundout: SS-1B (SS-3B Hole)
+t2;0-0;1;---;3,(1-1) CBX;O;ARI;Gabriel Moreno;Touki Toussaint;2%;54%;Groundout: SS-1B
+t2;0-0;2;---;6,(3-2) BFFBBT;O;ARI;Emmanuel Rivera;Touki Toussaint;1%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 0, White Sox 0.
+Bottom of the 2nd, White Sox Batting, Tied 0-0, Diamondbacks' Bryce Jarvis facing 4-5-6 
+b2;0-0;0;---;5,(3-1) BBBCB;;CHW;Yoán Moncada;Bryce Jarvis;4%;59%;Walk
+b2;0-0;0;1--;3,(2-0) BBX;RR;CHW;Andrew Vaughn;Bryce Jarvis;16%;75%;Home Run (Fly Ball to Deep LF-CF); Moncada Scores
+b2;2-0;0;---;1,(0-0) .X;O;CHW;Gavin Sheets;Bryce Jarvis;-2%;73%;Flyball: RF (Deep CF-RF)
+b2;2-0;1;---;5,(2-2) CSBBC;O;CHW;Lenyn Sosa;Bryce Jarvis;-1%;72%;Strikeout Looking
+b2;2-0;2;---;6,(3-2) CSBBBX;O;CHW;Trayce Thompson;Bryce Jarvis;-1%;71%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Diamondbacks 0, White Sox 2.
+Top of the 3rd, Diamondbacks Batting, Behind 0-2, White Sox' Touki Toussaint facing 9-1-2 
+t3;0-2;0;---;4,(1-2) CB.CX;O;ARI;Geraldo Perdomo;Touki Toussaint;3%;73%;Groundout: 1B-P (2B-1B)
+t3;0-2;1;---;4,(1-2) BFFX;;ARI;Corbin Carroll;Touki Toussaint;-7%;67%;Triple to CF (Line Drive to Deep CF-RF)
+t3;0-2;1;--3;6,(2-2) FSFB*BX;RO;ARI;Ketel Marte;Touki Toussaint;-1%;66%;Lineout: CF/Sacrifice Fly (Deep CF); Carroll Scores
+t3;1-2;2;---;4,(1-2) BCCS;O;ARI;Tommy Pham;Touki Toussaint;1%;67%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Diamondbacks 1, White Sox 2.
+Bottom of the 3rd, White Sox Batting, Ahead 2-1, Diamondbacks' Bryce Jarvis facing 9-1-2 
+b3;2-1;0;---;1,(0-0) X;O;CHW;Korey Lee;Bryce Jarvis;-2%;65%;Groundout: SS-1B (SS-3B Hole)
+b3;2-1;1;---;1,(0-0) X;O;CHW;Tim Anderson;Bryce Jarvis;-2%;63%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;Kyle Nelson replaces Bryce Jarvis pitching
+b3;2-1;2;---;4,(2-1) .CBBX;;CHW;Andrew Benintendi;Kyle Nelson;1%;64%;Single to LF (Fly Ball to Short LF Line)
+b3;2-1;2;1--;6,(2-2) FS*B*BFX;O;CHW;Eloy Jiménez;Kyle Nelson;-2%;62%;Flyball: RF (CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 1, White Sox 2.
+Top of the 4th, Diamondbacks Batting, Behind 1-2, White Sox' Touki Toussaint facing 4-5-6 
+t4;1-2;0;---;3,(0-2) CS.X;O;ARI;Christian Walker;Touki Toussaint;3%;65%;Lineout: LF
+t4;1-2;1;---;2,(0-1) CX;O;ARI;Alek Thomas;Touki Toussaint;2%;67%;Groundout: 2B-1B
+t4;1-2;2;---;3,(1-1) BFX;;ARI;Lourdes Gurriel Jr.;Touki Toussaint;-2%;66%;Single to LF (Line Drive to Deep LF-CF)
+t4;1-2;2;1--;4,(3-0) BBBB;;ARI;Gabriel Moreno;Touki Toussaint;-3%;63%;Walk; Gurriel to 2B
+t4;1-2;2;12-;6,(3-2) BCBBC>B;;ARI;Emmanuel Rivera;Touki Toussaint;-4%;59%;Walk; Gurriel to 3B; Moreno to 2B
+t4;1-2;2;123;6,(1-2) CC.BFFC;O;ARI;Geraldo Perdomo;Touki Toussaint;9%;68%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Diamondbacks 1, White Sox 2.
+Bottom of the 4th, White Sox Batting, Ahead 2-1, Diamondbacks' Kyle Nelson facing 4-5-6 
+b4;2-1;0;---;6,(2-2) CBBFFX;R;CHW;Yoán Moncada;Kyle Nelson;10%;78%;Home Run (Fly Ball to Deep LF-CF)
+b4;3-1;0;---;5,(2-2) FBBFT;O;CHW;Andrew Vaughn;Kyle Nelson;-2%;77%;Strikeout Swinging
+b4;3-1;1;---;5,(2-2) CBFBX;O;CHW;Gavin Sheets;Kyle Nelson;-1%;76%;Flyball: LF (Short LF Line)
+;;;;;;;;;Miguel Castro replaces Kyle Nelson pitching
+b4;3-1;2;---;4,(2-1) .BCBX;O;CHW;Lenyn Sosa;Miguel Castro;-1%;75%;Groundout: SS-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Diamondbacks 1, White Sox 3.
+Top of the 5th, Diamondbacks Batting, Behind 1-3, White Sox' Tanner Banks facing 1-2-3 
+;;;;;;;;;Tanner Banks replaces Touki Toussaint pitching
+t5;1-3;0;---;3,(1-1) .BCX;O;ARI;Corbin Carroll;Tanner Banks;3%;78%;Flyball: RF (CF-RF)
+t5;1-3;1;---;6,(2-2) CBBF.FT;O;ARI;Ketel Marte;Tanner Banks;2%;80%;Strikeout Swinging
+t5;1-3;2;---;2,(1-0) BX;O;ARI;Tommy Pham;Tanner Banks;1%;81%;Lineout: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 1, White Sox 3.
+Bottom of the 5th, White Sox Batting, Ahead 3-1, Diamondbacks' Miguel Castro facing 8-9-1 
+b5;3-1;0;---;6,(3-2) CBBCBS;O;CHW;Trayce Thompson;Miguel Castro;-2%;80%;Strikeout Swinging
+b5;3-1;1;---;4,(0-2) CS.FS;O;CHW;Korey Lee;Miguel Castro;-1%;78%;Strikeout Swinging
+b5;3-1;2;---;4,(1-2) CBSS;O;CHW;Tim Anderson;Miguel Castro;-1%;78%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 1, White Sox 3.
+Top of the 6th, Diamondbacks Batting, Behind 1-3, White Sox' Declan Cronin facing 4-5-6 
+;;;;;;;;;Declan Cronin replaces Tanner Banks pitching
+t6;1-3;0;---;3,(1-1) .C.BX;O;ARI;Christian Walker;Declan Cronin;3%;81%;Groundout: 1B unassisted
+t6;1-3;1;---;2,(1-0) BX;O;ARI;Alek Thomas;Declan Cronin;2%;83%;Groundout: 1B-P
+t6;1-3;2;---;4,(2-1) BBCX;O;ARI;Lourdes Gurriel Jr.;Declan Cronin;1%;84%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 1, White Sox 3.
+Bottom of the 6th, White Sox Batting, Ahead 3-1, Diamondbacks' Joe Mantiply facing 2-3-4 
+;;;;;;;;;Joe Mantiply replaces Miguel Castro pitching
+b6;3-1;0;---;2,(0-1) .SX;O;CHW;Andrew Benintendi;Joe Mantiply;-1%;83%;Lineout: CF (Deep CF)
+b6;3-1;1;---;4,(2-1) BSBX;O;CHW;Eloy Jiménez;Joe Mantiply;-1%;82%;Groundout: 3B-1B (Weak 3B)
+b6;3-1;2;---;5,(1-2) CCFBS;O;CHW;Yoán Moncada;Joe Mantiply;-1%;81%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 1, White Sox 3.
+Top of the 7th, Diamondbacks Batting, Behind 1-3, White Sox' Declan Cronin facing 7-8-9 
+t7;1-3;0;---;4,(3-0) BBBB;;ARI;Gabriel Moreno;Declan Cronin;-6%;75%;Walk
+t7;1-3;0;1--;4,(1-2) BCFS;O;ARI;Emmanuel Rivera;Declan Cronin;5%;81%;Strikeout Swinging
+;;;;;;;;;Aaron Bummer replaces Declan Cronin pitching
+t7;1-3;1;1--;6,(1-2) .CCFBFX;O;ARI;Geraldo Perdomo;Aaron Bummer;4%;85%;Groundout: 2B-SS/Forceout at 2B; Perdomo to 1B
+t7;1-3;2;1--;4,(2-1) BBCB;;ARI;Corbin Carroll;Aaron Bummer;-1%;84%;Wild Pitch; Perdomo to 2B
+t7;1-3;2;-2-;5,(3-1) BBCB.X;O;ARI;Corbin Carroll;Aaron Bummer;4%;89%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Diamondbacks 1, White Sox 3.
+Bottom of the 7th, White Sox Batting, Ahead 3-1, Diamondbacks' Joe Mantiply facing 5-6-7 
+b7;3-1;0;---;3,(1-1) BCX;O;CHW;Andrew Vaughn;Joe Mantiply;-1%;87%;Lineout: CF (Deep CF-RF)
+b7;3-1;1;---;1,(0-0) X;O;CHW;Gavin Sheets;Joe Mantiply;-1%;87%;Flyball: CF (Deep CF)
+;;;;;;;;;Luis Frías replaces Joe Mantiply pitching
+b7;3-1;2;---;3,(1-1) .CBX;O;CHW;Lenyn Sosa;Luis Frías;-1%;86%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 1, White Sox 3.
+Top of the 8th, Diamondbacks Batting, Behind 1-3, White Sox' Aaron Bummer facing 2-3-4 
+;;;;;;;;;Tyler Naquin replaces Gavin Sheets playing RF batting 6th
+t8;1-3;0;---;3,(1-1) .BFX;O;ARI;Ketel Marte;Aaron Bummer;4%;90%;Groundout: P-1B
+t8;1-3;1;---;4,(1-2) BCCS;O;ARI;Tommy Pham;Aaron Bummer;3%;92%;Strikeout Swinging
+t8;1-3;2;---;2,(1-0) BX;O;ARI;Christian Walker;Aaron Bummer;1%;94%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 1, White Sox 3.
+Bottom of the 8th, White Sox Batting, Ahead 3-1, Diamondbacks' Luis Frías facing 8-9-1 
+b8;3-1;0;---;5,(2-2) BCFBS;O;CHW;Trayce Thompson;Luis Frías;-1%;93%;Strikeout Swinging
+b8;3-1;1;---;4,(1-2) BTS.X;O;CHW;Korey Lee;Luis Frías;-1%;93%;Groundout: SS-1B
+b8;3-1;2;---;3,(0-2) CFS;O;CHW;Tim Anderson;Luis Frías;0%;92%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 1, White Sox 3.
+Top of the 9th, Diamondbacks Batting, Behind 1-3, White Sox' Bryan Shaw facing 5-6-7 
+;;;;;;;;;Bryan Shaw replaces Aaron Bummer pitching
+t9;1-3;0;---;1,(0-0) .X;O;ARI;Alek Thomas;Bryan Shaw;4%;96%;Groundout: SS-1B (Deep SS)
+t9;1-3;1;---;6,(2-2) BFF.FBX;O;ARI;Lourdes Gurriel Jr.;Bryan Shaw;3%;99%;Lineout: LF (Deep LF Line)
+t9;1-3;2;---;4,(1-2) BSCS;O;ARI;Gabriel Moreno;Bryan Shaw;1%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 1, White Sox 3.

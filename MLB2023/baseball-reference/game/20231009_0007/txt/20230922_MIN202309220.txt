@@ -1,0 +1,271 @@
+
+Scorebox Meta
+20230922
+7:10 p.m. Local
+32006
+Target Field
+170
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;0;0;0;3;0;0;2;1;6;9;1
+https://cdn.ssref.net/req/202310031/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;0;1;0;2;0;1;4;0;X;8;7;0
+
+Batting home
+Donovan Solano;/players/s/solando01.shtml;1B;1;0;0;0;0;1;1;.281;.365;.395;.760;4;3;-0.022; 0.87;0.000;-0.022;-0.00%; 0.04; -0.2;2;0;
+Alex Kirilloff;/players/k/kirilal01.shtml;PH-1B;2;1;1;3;0;0;4;.267;.343;.439;.782;14;8;0.137; 1.34;0.200;-0.063; 0.00%; 0.07; -0.1;6;0;HR,2·SF
+Jorge Polanco;/players/p/polanjo01.shtml;DH;4;0;2;1;1;1;5;.261;.343;.460;.802;19;12;0.016; 0.57;0.052;-0.037; 0.00%; 0.03; 1.3;;;2·2B
+Ryan Jeffers;/players/j/jeffery01.shtml;C;5;0;0;0;0;1;5;.267;.366;.455;.821;21;14;-0.097; 0.73;0.000;-0.097;-0.00%; 0.04; -2.0;10;0;
+Max Kepler;/players/k/keplema01.shtml;RF;4;2;0;0;1;1;5;.251;.323;.469;.792;18;10;0.022; 0.68;0.065;-0.044; 0.00%; 0.04; 0.2;2;0;
+Willi Castro;/players/c/castrwi01.shtml;3B;4;2;1;0;1;1;5;.252;.326;.413;.740;21;13;0.072; 0.89;0.130;-0.059; 0.00%; 0.04; 0.8;0;1;3B
+Kyle Farmer;/players/f/farmeky01.shtml;SS;3;2;2;1;2;0;5;.249;.310;.411;.721;19;7;0.166; 0.82;0.167;-0.002; 0.01%; 0.04; 2.3;1;4;2B
+Edouard Julien;/players/j/julieed01.shtml;2B;2;1;0;0;2;1;4;.266;.380;.455;.835;20;7;-0.045; 1.22;0.032;-0.078;-0.00%; 0.06; 0.1;2;3;
+Michael A. Taylor;/players/t/taylomi02.shtml;CF;3;0;1;2;1;2;4;.228;.281;.449;.730;19;12;0.040; 1.33;0.129;-0.089; 0.00%; 0.07; 1.0;3;0;
+Matt Wallner;/players/w/wallnma01.shtml;LF;1;0;0;1;2;1;3;.245;.367;.484;.851;14;5;0.077; 1.57;0.101;-0.025; 0.00%; 0.08; 1.2;1;0;
+Jordan Luplow;/players/l/luplojo01.shtml;PH-LF;1;0;0;0;0;1;1;.227;.338;.364;.701;4;4;-0.013; 0.35;0.000;-0.013;0%; 0.02; -0.8;0;0;
+Pablo López;/players/l/lopezpa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Louie Varland;/players/v/varlalo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Caleb Thielbar;/players/t/thielca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jhoan Duran;/players/d/duranjh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jorge Polanco 2 (18, 1 off Davis Daniel, 1 off Jhonathan Diaz); Kyle Farmer (13, off Jhonathan Diaz).
+
+
+3B: Willi Castro (5, off Davis Daniel).
+
+
+HR: Alex Kirilloff (10, off Davis Daniel, 6th inn, 0 on, 2 outs to Deep RF Line).
+
+
+SF: Alex Kirilloff 2 (3, 1 off Davis Daniel, 1 off Jhonathan Diaz).
+
+
+TB: Alex Kirilloff 4; Jorge Polanco 4; Willi Castro 3; Kyle Farmer 3; Michael A. Taylor.
+
+
+RBI: Alex Kirilloff 3 (38); Michael A. Taylor 2 (49); Jorge Polanco (47); Kyle Farmer (41); Matt Wallner (35).
+
+
+2-out RBI: Michael A. Taylor; Jorge Polanco; Alex Kirilloff.
+
+
+Team LOB: 10.
+With RISP: 3 for 10.
+
+Batting away
+Nolan Schanuel;/players/s/schanno01.shtml;1B;5;0;1;1;0;1;5;.284;.414;.337;.751;20;14;-0.038; 1.62;0.094;-0.132;0%; 0.00; -0.3;8;0;
+Zach Neto;/players/n/netoza01.shtml;SS;4;0;0;0;1;3;5;.223;.300;.381;.681;26;14;-0.035; 1.47;0.072;-0.107;0%; 0.00; -0.7;0;0;
+Brandon Drury;/players/d/drurybr01.shtml;DH;5;1;2;0;0;1;5;.257;.303;.480;.783;20;13;-0.210; 1.84;0.015;-0.224;0%; 0.00; -1.1;;;
+Logan O'Hoppe;/players/o/ohopplo01.shtml;C;4;1;1;2;0;0;4;.220;.269;.478;.747;15;10;-0.045; 0.70;0.025;-0.070;0%; 0.00; 1.3;10;0;HR
+Jo Adell;/players/a/adelljo01.shtml;CF;3;1;0;0;1;2;4;.214;.290;.571;.862;19;11;-0.016; 0.77;0.040;-0.055;0%; 0.00; -0.1;3;0;
+Jared Walsh;/players/w/walshja01.shtml;RF;4;1;1;2;0;2;4;.143;.243;.319;.561;17;10;0.105; 0.92;0.159;-0.054;0%; 0.00; 1.1;1;0;HR
+Randal Grichuk;/players/g/grichra01.shtml;LF;3;2;1;0;1;0;4;.272;.327;.464;.791;13;7;0.023; 0.96;0.078;-0.056;0%; 0.00; 0.5;1;0;
+David Fletcher;/players/f/fletcda02.shtml;2B;4;0;1;0;0;0;4;.235;.278;.338;.616;15;12;-0.056; 1.34;0.050;-0.106;0%; 0.00; -0.3;0;1;
+Michael Stefanic;/players/s/stefami01.shtml;3B;4;0;2;1;0;1;4;.263;.378;.316;.694;10;8;0.123; 1.36;0.163;-0.040;0%; 0.00; 1.1;1;2;
+Brett Phillips;/players/p/phillbr02.shtml;PR;0;0;0;0;0;0;0;.196;.297;.375;.672;;;;;;;;;;;;
+José Suarez;/players/s/suarejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Davis Daniel;/players/d/danieda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Jhonathan Diaz;/players/d/diazjh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Jared Walsh (4, off Pablo López, 5th inn, 1 on, 0 outs to Deep RF Line); Logan O'Hoppe (12, off Caleb Thielbar, 8th inn, 1 on, 2 outs to Deep LF Line).
+
+
+TB: Logan O'Hoppe 4; Jared Walsh 4; Michael Stefanic 2; Brandon Drury 2; David Fletcher; Randal Grichuk; Nolan Schanuel.
+
+
+RBI: Jared Walsh 2 (11); Logan O'Hoppe 2 (26); Nolan Schanuel (5); Michael Stefanic (4).
+
+
+2-out RBI: Logan O'Hoppe 2.
+
+
+Team LOB: 6.
+With RISP: 3 for 7.
+
+Pitching home
+Pablo López;/players/l/lopezpa01.shtml; W (11-8); 6 ;5;3;3;1;7;1;3.61;24;90;61;35;14;12;7;9;2;0;56;;;0.028; 1.13; 0.00%; 0.06; 0.1
+Louie Varland;/players/v/varlalo01.shtml; H (1); 1 ;0;0;0;0;1;0;4.82;3;11;8;5;3;0;1;1;0;0;;0;0;0.097; 1.27; 0.00%; 0.06; 0.5
+Caleb Thielbar;/players/t/thielca01.shtml;Caleb Thielbar; 1 ;2;2;2;0;1;1;2.45;5;20;13;11;0;2;2;2;0;0;;0;0;-0.010; 0.19; 0.00%; 0.01; -1.5
+Jhoan Duran;/players/d/duranjh01.shtml; S (27); 1 ;2;1;1;2;1;0;2.54;7;34;17;11;3;3;2;2;1;0;;0;0;0.034; 2.24; 0.00%; 0.11; -0.5
+
+Pitching away
+José Suarez;/players/s/suarejo01.shtml;José Suarez; 1.2;2;1;1;2;3;0;9.10;9;39;24;16;4;4;1;3;2;0;48;;;-0.075; 1.19; 0.00%; 0.00; -0.8
+Davis Daniel;/players/d/danieda01.shtml; L (0-1); 4.1;3;3;3;5;6;1;3.68;21;91;48;27;7;14;3;7;1;0;;3;0;-0.089; 1.10; 0.00%; 0.00; -0.1
+Jhonathan Diaz;/players/d/diazjh01.shtml;Jhonathan Diaz; 2 ;2;4;1;3;1;0;10.29;12;43;23;18;0;5;2;6;1;0;;0;0;-0.187; 0.50; 0.00%; 0.00; -3.0
+
+indiv_events
+
+Balks: None.
+WP: Jhoan Duran (8).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Jhoan Duran (8).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Charlie Ramos, 1B - Chad Fairchild, 2B - Phil Cuzzi, 3B - Jeremie Rehak, LF - (none), RF - (none).
+Time of Game: 2:50.
+Attendance: 32,006.
+Field Condition: Unknown.
+Start Time Weather: 72° F, Wind 7mph in from Leftfield, Cloudy, No Precipitation.
+
+div_lineups
+Angels
+1;Nolan Schanuel;/players/s/schanno01.shtml;1B
+2;Zach Neto;/players/n/netoza01.shtml;SS
+3;Brandon Drury;/players/d/drurybr01.shtml;DH
+4;Logan O'Hoppe;/players/o/ohopplo01.shtml;C
+5;Jo Adell;/players/a/adelljo01.shtml;CF
+6;Jared Walsh;/players/w/walshja01.shtml;RF
+7;Randal Grichuk;/players/g/grichra01.shtml;LF
+8;David Fletcher;/players/f/fletcda02.shtml;2B
+9;Michael Stefanic;/players/s/stefami01.shtml;3B
+; José Suarez;/players/s/suarejo01.shtml;P
+Twins
+1;Donovan Solano;/players/s/solando01.shtml;1B
+2;Jorge Polanco;/players/p/polanjo01.shtml;DH
+3;Ryan Jeffers;/players/j/jeffery01.shtml;C
+4;Max Kepler;/players/k/keplema01.shtml;RF
+5;Willi Castro;/players/c/castrwi01.shtml;3B
+6;Kyle Farmer;/players/f/farmeky01.shtml;SS
+7;Edouard Julien;/players/j/julieed01.shtml;2B
+8;Michael A. Taylor;/players/t/taylomi02.shtml;CF
+9;Matt Wallner;/players/w/wallnma01.shtml;LF
+; Pablo López;/players/l/lopezpa01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b6;3-3;2;---;3,(1-1) BCX;R;MIN;Alex Kirilloff;Davis Daniel;19%;70%;Home Run (Fly Ball to Deep RF Line)
+t5;0-3;0;1--;3,(1-1) C*BX;RR;LAA;Jared Walsh;Pablo López;-16%;64%;Home Run (Fly Ball to Deep RF Line); Adell Scores
+t9;6-8;2;123;5,(2-2) BBSCX;O;LAA;Brandon Drury;Jhoan Duran;15%;100%;Groundout: 2B-1B (Weak SS-2B)
+b2;0-0;2;12-;3,(0-2) TS.X;R;MIN;Michael A. Taylor;José Suarez;11%;65%;Single to CF (Line Drive to Deep CF); Kepler Scores; Farmer to 2B
+t5;2-3;1;1-3;1,(0-0) X;R;LAA;Nolan Schanuel;Pablo López;-9%;45%;Single to LF (Line Drive to LF Line); Grichuk Scores; Stefanic to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, Twins' Pablo López facing 1-2-3 
+t1;0-0;0;---;4,(0-2) SFFS;O;LAA;Nolan Schanuel;Pablo López;2%;52%;Strikeout Swinging
+t1;0-0;1;---;4,(1-2) FBS.C;O;LAA;Zach Neto;Pablo López;2%;54%;Strikeout Looking
+t1;0-0;2;---;2,(0-1) SX;;LAA;Brandon Drury;Pablo López;-1%;53%;Single to CF (Fly Ball to LF-CF)
+t1;0-0;2;1--;4,(1-2) *BSSX;O;LAA;Logan O'Hoppe;Pablo López;2%;55%;Groundout: SS-2B/Forceout at 2B; O'Hoppe to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 0, Twins 0.
+Bottom of the 1st, Twins Batting, Tied 0-0, Angels' José Suarez facing 1-2-3 
+b1;0-0;0;---;4,(1-2) FFBS;O;MIN;Donovan Solano;José Suarez;-2%;53%;Strikeout Swinging
+b1;0-0;1;---;5,(2-2) CBSBX;O;MIN;Jorge Polanco;José Suarez;-2%;51%;Groundout: 3B-1B (Weak 3B)
+b1;0-0;2;---;1,(0-0) X;O;MIN;Ryan Jeffers;José Suarez;-1%;50%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Twins 0.
+Top of the 2nd, Angels Batting, Tied 0-0, Twins' Pablo López facing 5-6-7 
+t2;0-0;0;---;5,(1-2) FFBFS;O;LAA;Jo Adell;Pablo López;2%;52%;Strikeout Swinging
+t2;0-0;1;---;3,(1-1) BCX;O;LAA;Jared Walsh;Pablo López;2%;54%;Groundout: SS-1B
+t2;0-0;2;---;2,(0-1) CX;O;LAA;Randal Grichuk;Pablo López;1%;55%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Twins 0.
+Bottom of the 2nd, Twins Batting, Tied 0-0, Angels' José Suarez facing 4-5-6 
+b2;0-0;0;---;7,(3-2) BFBF.BFB;;MIN;Max Kepler;José Suarez;4%;59%;Walk
+b2;0-0;0;1--;4,(0-2) CCF1T;O;MIN;Willi Castro;José Suarez;-3%;55%;Strikeout Swinging
+b2;0-0;1;1--;3,(1-1) F*BX;;MIN;Kyle Farmer;José Suarez;4%;59%;Single to LF (Line Drive); Kepler to 2B
+b2;0-0;1;12-;7,(3-2) CBFFBB.S;O;MIN;Edouard Julien;José Suarez;-5%;54%;Strikeout Swinging
+b2;0-0;2;12-;3,(0-2) TS.X;R;MIN;Michael A. Taylor;José Suarez;11%;65%;Single to CF (Line Drive to Deep CF); Kepler Scores; Farmer to 2B
+b2;1-0;2;12-;5,(3-1) BBBFB;;MIN;Matt Wallner;José Suarez;3%;68%;Walk; Farmer to 3B; Taylor to 2B
+;;;;;;;;;Davis Daniel replaces José Suarez pitchingAlex Kirilloff pinch hits for Donovan Solano (1B) batting 1st
+b2;1-0;2;123;6,(3-2) ..BSBFB>X;O;MIN;Alex Kirilloff;Davis Daniel;-6%;61%;Foul Popfly: 3B (3B into Foul Terr.)
+;;;;;;;;;1 run, 2 hits, 0 errors, 3 LOB. Angels 0, Twins 1.
+Top of the 3rd, Angels Batting, Behind 0-1, Twins' Pablo López facing 8-9-1 
+;;;;;;;;;Alex Kirilloff moves from PH to 1B 
+t3;0-1;0;---;3,(0-2) .CCX;O;LAA;David Fletcher;Pablo López;3%;64%;Groundout: 2B-1B (SS-2B)
+t3;0-1;1;---;1,(0-0) X;O;LAA;Michael Stefanic;Pablo López;2%;66%;Flyball: RF (Short RF Line)
+t3;0-1;2;---;5,(2-2) S.BBFX;O;LAA;Nolan Schanuel;Pablo López;1%;67%;Flyball: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Twins 1.
+Bottom of the 3rd, Twins Batting, Ahead 1-0, Angels' Davis Daniel facing 2-3-4 
+b3;1-0;0;---;3,(0-2) FFT;O;MIN;Jorge Polanco;Davis Daniel;-2%;65%;Strikeout Swinging
+b3;1-0;1;---;5,(2-2) BCFBX;O;MIN;Ryan Jeffers;Davis Daniel;-2%;63%;Groundout: 2B-1B (SS-2B)
+b3;1-0;2;---;5,(2-2) BCFBS;O;MIN;Max Kepler;Davis Daniel;-1%;62%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Twins 1.
+Top of the 4th, Angels Batting, Behind 0-1, Twins' Pablo López facing 2-3-4 
+t4;0-1;0;---;6,(3-2) BFBC.BC;O;LAA;Zach Neto;Pablo López;3%;65%;Strikeout Looking
+t4;0-1;1;---;6,(3-2) SF.BBBS;O;LAA;Brandon Drury;Pablo López;2%;67%;Strikeout Swinging
+t4;0-1;2;---;4,(1-2) FBFX;O;LAA;Logan O'Hoppe;Pablo López;1%;69%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Twins 1.
+Bottom of the 4th, Twins Batting, Ahead 1-0, Angels' Davis Daniel facing 5-6-7 
+b4;1-0;0;---;3,(1-1) BCX;;MIN;Willi Castro;Davis Daniel;9%;77%;Triple to CF (Fly Ball to Deep CF-RF)
+b4;1-0;0;--3;5,(3-1) BF*BBB;;MIN;Kyle Farmer;Davis Daniel;3%;80%;Walk
+b4;1-0;0;1-3;4,(3-0) BBBB;;MIN;Edouard Julien;Davis Daniel;3%;83%;Walk; Farmer to 2B
+b4;1-0;0;123;7,(3-2) BCBBF.FC;O;MIN;Michael A. Taylor;Davis Daniel;-6%;77%;Strikeout Looking
+b4;1-0;1;123;5,(3-1) BB*BCB;R;MIN;Matt Wallner;Davis Daniel;8%;85%;Walk; Castro Scores; Farmer to 3B; Julien to 2B
+b4;2-0;1;123;3,(1-1) FBX;RO;MIN;Alex Kirilloff;Davis Daniel;1%;86%;Flyball: CF/Sacrifice Fly (Deep CF); Farmer Scores
+b4;3-0;2;12-;6,(3-2) C*BBFB>B;;MIN;Jorge Polanco;Davis Daniel;1%;87%;Walk; Julien to 3B; Wallner to 2B
+b4;3-0;2;123;4,(1-2) BCTS;O;MIN;Ryan Jeffers;Davis Daniel;-3%;84%;Strikeout Swinging
+;;;;;;;;;2 runs, 1 hit, 0 errors, 3 LOB. Angels 0, Twins 3.
+Top of the 5th, Angels Batting, Behind 0-3, Twins' Pablo López facing 5-6-7 
+t5;0-3;0;---;6,(3-2) CBBS.BB;;LAA;Jo Adell;Pablo López;-4%;80%;Walk
+t5;0-3;0;1--;3,(1-1) C*BX;RR;LAA;Jared Walsh;Pablo López;-16%;64%;Home Run (Fly Ball to Deep RF Line); Adell Scores
+t5;2-3;0;---;2,(1-0) BX;;LAA;Randal Grichuk;Pablo López;-5%;59%;Single to LF (Ground Ball)
+t5;2-3;0;1--;6,(2-2) FBFBFX;O;LAA;David Fletcher;Pablo López;5%;63%;Flyball: RF
+t5;2-3;1;1--;3,(0-2) CFX;;LAA;Michael Stefanic;Pablo López;-9%;55%;Single to RF (Line Drive to Deep CF-RF); Grichuk to 3B
+t5;2-3;1;1-3;1,(0-0) X;R;LAA;Nolan Schanuel;Pablo López;-9%;45%;Single to LF (Line Drive to LF Line); Grichuk Scores; Stefanic to 2B
+t5;3-3;1;12-;4,(1-2) BC2S.T;O;LAA;Zach Neto;Pablo López;6%;51%;Strikeout Swinging
+t5;3-3;2;12-;3,(1-1) BFX;O;LAA;Brandon Drury;Pablo López;6%;57%;Flyball: CF (Deep CF)
+;;;;;;;;;3 runs, 4 hits, 0 errors, 2 LOB. Angels 3, Twins 3.
+Bottom of the 5th, Twins Batting, Tied 3-3, Angels' Davis Daniel facing 4-5-6 
+b5;3-3;0;---;3,(2-0) BBX;O;MIN;Max Kepler;Davis Daniel;-3%;54%;Flyball: CF (Deep LF-CF)
+b5;3-3;1;---;5,(2-2) BFS.BX;O;MIN;Willi Castro;Davis Daniel;-2%;52%;Lineout: 1B
+b5;3-3;2;---;6,(3-2) BFCBBB;;MIN;Kyle Farmer;Davis Daniel;2%;53%;Walk
+b5;3-3;2;1--;4,(2-1) BCBX;O;MIN;Edouard Julien;Davis Daniel;-3%;50%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 3, Twins 3.
+Top of the 6th, Angels Batting, Tied 3-3, Twins' Pablo López facing 4-5-6 
+t6;3-3;0;---;5,(3-1) BSBBX;O;LAA;Logan O'Hoppe;Pablo López;3%;53%;Groundout: SS-1B
+t6;3-3;1;---;3,(1-1) BCX;O;LAA;Jo Adell;Pablo López;2%;56%;Groundout: 2B-1B (SS-2B)
+t6;3-3;2;---;5,(2-2) BSBFT;O;LAA;Jared Walsh;Pablo López;2%;58%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 3, Twins 3.
+Bottom of the 6th, Twins Batting, Tied 3-3, Angels' Davis Daniel facing 8-9-1 
+b6;3-3;0;---;3,(0-2) CS.S;O;MIN;Michael A. Taylor;Davis Daniel;-3%;54%;Strikeout Swinging
+b6;3-3;1;---;4,(1-2) CBC.S;O;MIN;Matt Wallner;Davis Daniel;-2%;52%;Strikeout Swinging
+b6;3-3;2;---;3,(1-1) BCX;R;MIN;Alex Kirilloff;Davis Daniel;19%;70%;Home Run (Fly Ball to Deep RF Line)
+b6;4-3;2;---;1,(0-0) X;;MIN;Jorge Polanco;Davis Daniel;2%;73%;Double to RF (Fly Ball to Deep CF-RF)
+b6;4-3;2;-2-;6,(2-2) FFBBF2X;O;MIN;Ryan Jeffers;Davis Daniel;-3%;69%;Groundout: P-1B (Front of Home)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Angels 3, Twins 4.
+Top of the 7th, Angels Batting, Behind 3-4, Twins' Louie Varland facing 7-8-9 
+;;;;;;;;;Louie Varland replaces Pablo López pitching
+t7;3-4;0;---;3,(1-1) .BSX;O;LAA;Randal Grichuk;Louie Varland;4%;74%;Popfly: 2B
+t7;3-4;1;---;3,(0-2) SFX;O;LAA;David Fletcher;Louie Varland;3%;77%;Groundout: P-1B
+t7;3-4;2;---;5,(2-2) BFF.BS;O;LAA;Michael Stefanic;Louie Varland;2%;79%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 3, Twins 4.
+Bottom of the 7th, Twins Batting, Ahead 4-3, Angels' Jhonathan Diaz facing 4-5-6 
+;;;;;;;;;Jhonathan Diaz replaces Davis Daniel pitching
+b7;4-3;0;---;1,(0-0) .X;;MIN;Max Kepler;Jhonathan Diaz;3%;82%;Reached on E4 (Ground Ball to 2B-1B); Kepler to 1B
+b7;4-3;0;1--;7,(3-2) FBBBFF*B;;MIN;Willi Castro;Jhonathan Diaz;4%;86%;Walk; Kepler to 2B
+b7;4-3;0;12-;2,(1-0) BX;R;MIN;Kyle Farmer;Jhonathan Diaz;9%;95%;Double to RF (Fly Ball to Deep RF Line); Kepler Scores/unER; Castro to 3B
+b7;5-3;0;-23;5,(3-1) BCBBB;;MIN;Edouard Julien;Jhonathan Diaz;1%;95%;Walk
+b7;5-3;0;123;6,(3-2) CB*BFBB;R;MIN;Michael A. Taylor;Jhonathan Diaz;2%;98%;Walk; Castro Scores; Farmer to 3B; Julien to 2B
+;;;;;;;;;Jordan Luplow pinch hits for Matt Wallner (LF) batting 9th
+b7;6-3;0;123;4,(0-2) .CFFT;O;MIN;Jordan Luplow;Jhonathan Diaz;-1%;96%;Strikeout Swinging
+b7;6-3;1;123;2,(1-0) BX;RO;MIN;Alex Kirilloff;Jhonathan Diaz;1%;97%;Flyball: CF/Sacrifice Fly (LF-CF); Farmer Scores/unER
+b7;7-3;2;12-;4,(1-2) FFBX;R;MIN;Jorge Polanco;Jhonathan Diaz;2%;99%;Double to RF (Line Drive to RF Line); Julien Scores/unER; Taylor to 3B
+b7;8-3;2;-23;5,(2-2) FBCBX;O;MIN;Ryan Jeffers;Jhonathan Diaz;0%;98%;Foul Popfly: LF (LF into Foul Terr.)
+;;;;;;;;;4 runs, 2 hits, 1 error, 2 LOB. Angels 3, Twins 8.
+Top of the 8th, Angels Batting, Behind 3-8, Twins' Caleb Thielbar facing 1-2-3 
+;;;;;;;;;Caleb Thielbar replaces Louie Varland pitchingJordan Luplow moves from PH to LF 
+t8;3-8;0;---;4,(1-2) ..FBFX;O;LAA;Nolan Schanuel;Caleb Thielbar;1%;99%;Groundout: 3B-1B (Weak SS)
+t8;3-8;1;---;5,(3-1) BCBBX;O;LAA;Zach Neto;Caleb Thielbar;0%;99%;Flyball: CF (Deep CF)
+t8;3-8;2;---;4,(1-2) CFBX;;LAA;Brandon Drury;Caleb Thielbar;0%;99%;Single to LF (Ground Ball thru SS-3B Hole)
+t8;3-8;2;1--;2,(0-1) FX;RR;LAA;Logan O'Hoppe;Caleb Thielbar;-3%;97%;Home Run (Fly Ball to Deep LF Line); Drury Scores
+t8;5-8;2;---;5,(2-2) BFFBT;O;LAA;Jo Adell;Caleb Thielbar;1%;97%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Angels 5, Twins 8.
+Bottom of the 8th, Twins Batting, Ahead 8-5, Angels' Jhonathan Diaz facing 4-5-6 
+b8;8-5;0;---;2,(0-1) CX;O;MIN;Max Kepler;Jhonathan Diaz;0%;97%;Foul Popfly: 1B (1B into Foul Terr.)
+b8;8-5;1;---;2,(1-0) BX;O;MIN;Willi Castro;Jhonathan Diaz;0%;97%;Flyball: RF (CF-RF)
+b8;8-5;2;---;3,(2-0) BBX;O;MIN;Kyle Farmer;Jhonathan Diaz;0%;97%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 5, Twins 8.
+Top of the 9th, Angels Batting, Behind 5-8, Twins' Jhoan Duran facing 6-7-8 
+;;;;;;;;;Jhoan Duran replaces Caleb Thielbar pitching
+t9;5-8;0;---;6,(3-2) .BCS.BBS;O;LAA;Jared Walsh;Jhoan Duran;2%;99%;Strikeout Swinging
+t9;5-8;1;---;6,(3-2) BBFFBB;;LAA;Randal Grichuk;Jhoan Duran;-2%;96%;Walk
+t9;5-8;1;1--;2,(0-1) FB;;LAA;David Fletcher;Jhoan Duran;0%;96%;Wild Pitch; Grichuk to 2B
+t9;5-8;1;-2-;3,(1-1) FB.X;;LAA;David Fletcher;Jhoan Duran;-5%;91%;Single to RF (Line Drive); Grichuk to 3B
+t9;5-8;1;1-3;1,(0-0) X;R;LAA;Michael Stefanic;Jhoan Duran;-7%;84%;Single to CF (Ground Ball thru SS-2B); Grichuk Scores; Fletcher to 2B
+;;;;;;;;;Brett Phillips pinch runs for Michael Stefanic (3B) batting 9th
+t9;6-8;1;12-;6,(3-2) .F*BBBF.X;O;LAA;Nolan Schanuel;Jhoan Duran;9%;93%;Popfly: SS
+t9;6-8;2;12-;7,(3-2) CB*BFB.>F>B;;LAA;Zach Neto;Jhoan Duran;-7%;85%;Walk; Fletcher to 3B; Phillips to 2B
+t9;6-8;2;123;5,(2-2) BBSCX;O;LAA;Brandon Drury;Jhoan Duran;15%;100%;Groundout: 2B-1B (Weak SS-2B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 3 LOB. Angels 6, Twins 8.

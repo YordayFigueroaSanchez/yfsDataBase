@@ -1,0 +1,281 @@
+
+Scorebox Meta
+20230926
+6:38 p.m. Local
+26976
+Angel Stadium of Anaheim
+157
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/TEX-2023.png;/teams/TEX/2023.shtml;1;0;0;0;0;0;0;0;2;3;6;0
+https://cdn.ssref.net/req/202310031/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;3;0;0;1;5;0;0;0;X;9;12;1
+
+Batting home
+Randal Grichuk;/players/g/grichra01.shtml;LF;4;2;2;0;1;1;5;.273;.327;.464;.792;22;13;0.074; 0.43;0.090;-0.017;0%; 0.00; 1.3;2;0;2B
+Zach Neto;/players/n/netoza01.shtml;SS;4;1;1;1;0;0;5;.224;.299;.379;.678;15;12;0.051; 0.50;0.064;-0.013;0%; 0.00; -0.4;0;3;SF,GDP
+Brandon Drury;/players/d/drurybr01.shtml;1B;4;2;3;3;0;0;4;.260;.304;.486;.790;13;10;0.181; 0.59;0.189;-0.008;0%; 0.00; 2.5;6;1;HR
+Brett Phillips;/players/p/phillbr02.shtml;PR-CF;0;0;0;0;0;0;0;.186;.284;.356;.640;;;;;;;;;;0;0;
+Logan O'Hoppe;/players/o/ohopplo01.shtml;C;4;2;2;0;0;2;4;.234;.279;.497;.776;18;11;0.031; 0.35;0.048;-0.017;0%; 0.00; 0.4;10;1;2B
+Jo Adell;/players/a/adelljo01.shtml;CF-RF;4;1;2;0;0;2;4;.256;.319;.581;.901;19;14;0.037; 0.39;0.049;-0.012;0%; 0.00; 0.9;4;0;
+Eduardo Escobar;/players/e/escobed01.shtml;DH;3;0;0;2;1;0;4;.223;.267;.343;.610;20;9;-0.003; 0.39;0.005;-0.008;0%; 0.00; -0.1;;;
+Michael Stefanic;/players/s/stefami01.shtml;3B;4;0;1;2;0;0;4;.308;.400;.346;.746;14;10;-0.016; 0.41;0.015;-0.031;0%; 0.00; 0.6;0;1;
+Jared Walsh;/players/w/walshja01.shtml;RF-1B;4;0;0;0;0;1;4;.127;.219;.284;.504;15;9;-0.032; 0.30;0.000;-0.032;0%; 0.00; -1.0;2;0;
+David Fletcher;/players/f/fletcda02.shtml;2B;3;1;1;0;1;0;4;.234;.280;.325;.605;25;13;0.007; 0.18;0.015;-0.008;0%; 0.00; 0.5;2;3;
+Reid Detmers;/players/d/detmere01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+José Marte;/players/m/martejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kolton Ingram;/players/i/ingrako01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Logan O'Hoppe (6, off Cody Bradford); Randal Grichuk (31, off Cody Bradford).
+
+
+HR: Brandon Drury (24, off Cody Bradford, 1st inn, 2 on, 0 outs to Deep LF Line).
+
+
+SF: Zach Neto (3, off Chris Stratton).
+
+
+TB: Brandon Drury 6; Logan O'Hoppe 3; Randal Grichuk 3; Jo Adell 2; David Fletcher; Zach Neto; Michael Stefanic.
+
+
+GIDP: Zach Neto (5).
+
+
+RBI: Brandon Drury 3 (80); Michael Stefanic 2 (6); Eduardo Escobar 2 (30); Zach Neto (34).
+
+
+2-out RBI: Michael Stefanic 2.
+
+
+Team LOB: 5.
+With RISP: 4 for 9.
+
+Batting away
+Marcus Semien;/players/s/semiema01.shtml;2B;3;1;1;0;1;1;4;.277;.349;.478;.828;15;8;-0.015; 0.89;0.058;-0.074;-0.02%; 1.62; -0.0;1;3;2B
+Evan Carter;/players/c/carteev01.shtml;LF;1;0;0;0;0;1;1;.340;.439;.702;1.141;4;3;0.000; 0.01;0.000;0.000;0%; 0.02; -0.3;0;0;
+Corey Seager;/players/s/seageco01.shtml;SS;2;0;1;0;0;0;3;.332;.394;.640;1.034;6;4;0.064; 0.93;0.089;-0.025; 0.07%; 1.69; 0.7;0;1;HBP
+Josh H. Smith;/players/s/smithjo11.shtml;SS;2;1;1;2;0;0;2;.187;.307;.332;.639;4;2;-0.001; 0.02;0.000;-0.001;-0.00%; 0.04; 1.6;0;1;HR
+Robbie Grossman;/players/g/grossro01.shtml;LF;2;0;0;0;1;1;3;.239;.341;.398;.739;11;5;-0.063; 1.14;0.028;-0.091;-0.07%; 2.08; -0.8;1;0;GDP
+Ezequiel Duran;/players/d/duranez01.shtml;LF-2B;2;0;0;0;0;1;2;.276;.323;.443;.766;6;5;-0.001; 0.03;0.000;-0.001;-0.00%; 0.04; -0.4;0;1;
+Josh Jung;/players/j/jungjo01.shtml;3B;3;0;1;0;1;1;4;.271;.319;.479;.798;15;9;-0.042; 0.49;0.012;-0.054;-0.05%; 0.89; 0.0;2;4;
+Adolis García;/players/g/garciad02.shtml;RF;3;0;0;0;0;2;3;.243;.325;.502;.827;12;8;-0.048; 0.56;0.000;-0.048;-0.05%; 1.01; -0.7;2;0;
+Travis Jankowski;/players/j/jankotr01.shtml;RF;0;0;0;0;1;0;1;.263;.354;.332;.686;5;1;0.002; 0.05;0.002;0.000; 0.00%; 0.09; 0.2;1;0;
+Mitch Garver;/players/g/garvemi01.shtml;DH;3;0;1;0;1;0;4;.281;.382;.523;.905;18;7;0.078; 0.53;0.082;-0.004; 0.08%; 0.96; 0.1;;;
+Nathaniel Lowe;/players/l/lowena01.shtml;1B;4;0;0;0;0;3;4;.266;.363;.419;.782;19;14;-0.078; 0.84;0.000;-0.078;-0.08%; 1.52; -1.3;10;0;
+Jonah Heim;/players/h/heimjo01.shtml;C;2;0;1;0;0;0;2;.261;.319;.447;.766;4;4;0.004; 1.29;0.038;-0.034; 0.01%; 2.34; 0.1;3;0;
+Austin Hedges;/players/h/hedgeau01.shtml;C;2;1;0;0;0;0;2;.185;.235;.228;.463;3;2;-0.001; 0.04;0.001;-0.002;-0.00%; 0.07; 0.1;3;0;
+Leody Taveras;/players/t/taverle01.shtml;CF;4;0;0;0;0;1;4;.271;.316;.424;.741;13;8;-0.069; 0.76;0.000;-0.069;-0.07%; 1.37; -1.2;1;0;
+Cody Bradford;/players/b/bradfco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Chris Stratton;/players/s/stratch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jake Latz;/players/l/latzja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Will Smith;/players/s/smithwi04.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Marcus Semien (39, off Reid Detmers).
+
+
+HR: Josh H. Smith (6, off Kolton Ingram, 9th inn, 1 on, 2 outs to Deep RF).
+
+
+HBP: Corey Seager (4, by Reid Detmers).
+
+
+TB: Josh H. Smith 4; Marcus Semien 2; Mitch Garver; Jonah Heim; Josh Jung; Corey Seager.
+
+
+GIDP: Robbie Grossman (8).
+
+
+RBI: Josh H. Smith 2 (15).
+
+
+2-out RBI: Josh H. Smith 2.
+
+
+Team LOB: 9.
+With RISP: 1 for 6.
+
+Pitching home
+Reid Detmers;/players/d/detmere01.shtml; W (4-10); 7 ;4;1;1;4;7;0;4.48;29;100;58;32;9;17;9;8;4;0;68;;;0.169; 0.86; 0.00%; 0.00; 2.7
+José Marte;/players/m/martejo01.shtml;José Marte; 1 ;1;0;0;1;1;0;8.68;5;20;10;7;1;2;1;2;0;0;;0;0;0.002; 0.04; 0.00%; 0.00; 0.5
+Kolton Ingram;/players/i/ingrako01.shtml;Kolton Ingram; 1 ;1;2;0;0;3;1;8.44;5;15;12;4;3;5;0;2;1;0;;0;0;0.001; 0.01; 0.00%; 0.00; -1.5
+
+Pitching away
+Cody Bradford;/players/b/bradfco01.shtml; L (4-3); 4 ;7;6;6;0;3;1;5.30;19;73;46;30;9;7;7;9;6;0;27;;;-0.276; 0.69;-0.30%; 1.25; -3.4
+Chris Stratton;/players/s/stratch01.shtml;Chris Stratton; 0.2;4;3;3;0;0;0;3.92;6;28;22;14;2;6;3;3;1;0;;2;2;-0.055; 0.31;-0.06%; 0.56; -3.2
+Jake Latz;/players/l/latzja01.shtml;Jake Latz; 2.1;1;0;0;2;2;0;0.00;9;43;23;11;5;7;2;3;1;0;;1;0;0.002; 0.02; 0.00%; 0.04; 1.3
+Will Smith;/players/s/smithwi04.shtml;Will Smith; 1 ;0;0;0;1;1;0;4.47;4;17;10;5;4;1;1;1;1;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Chris Stratton (5); José Marte (1).
+HBP: Reid Detmers (13; Corey Seager).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Chris Stratton (5); José Marte (1).
+HBP: Reid Detmers (13; Corey Seager).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Alex Tosi, 1B - Brian Knight, 2B - Adam Hamari, 3B - Todd Tichenor, LF - (none), RF - (none).
+Time of Game: 2:37.
+Attendance: 26,976.
+Field Condition: Unknown.
+Start Time Weather: 75° F, Wind 5mph out to Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Rangers
+1;Marcus Semien;/players/s/semiema01.shtml;2B
+2;Corey Seager;/players/s/seageco01.shtml;SS
+3;Robbie Grossman;/players/g/grossro01.shtml;LF
+4;Josh Jung;/players/j/jungjo01.shtml;3B
+5;Adolis García;/players/g/garciad02.shtml;RF
+6;Mitch Garver;/players/g/garvemi01.shtml;DH
+7;Nathaniel Lowe;/players/l/lowena01.shtml;1B
+8;Jonah Heim;/players/h/heimjo01.shtml;C
+9;Leody Taveras;/players/t/taverle01.shtml;CF
+; Cody Bradford;/players/b/bradfco01.shtml;P
+Angels
+1;Randal Grichuk;/players/g/grichra01.shtml;LF
+2;Zach Neto;/players/n/netoza01.shtml;SS
+3;Brandon Drury;/players/d/drurybr01.shtml;1B
+4;Logan O'Hoppe;/players/o/ohopplo01.shtml;C
+5;Jo Adell;/players/a/adelljo01.shtml;CF
+6;Eduardo Escobar;/players/e/escobed01.shtml;DH
+7;Michael Stefanic;/players/s/stefami01.shtml;3B
+8;Jared Walsh;/players/w/walshja01.shtml;RF
+9;David Fletcher;/players/f/fletcda02.shtml;2B
+; Reid Detmers;/players/d/detmere01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-1;0;12-;2,(1-0) BX;RRR;LAA;Brandon Drury;Cody Bradford;19%;73%;Home Run (Fly Ball to Deep LF Line); Grichuk Scores; Neto Scores
+t1;0-0;0;-2-;2,(1-0) BX;;TEX;Corey Seager;Reid Detmers;-6%;38%;Single to 3B (Ground Ball to Weak 3B); Semien to 3B
+t1;0-0;0;1-3;1,(0-0) X;ROO;TEX;Robbie Grossman;Reid Detmers;6%;44%;Ground Ball Double Play: 3B-2B-1B; Semien Scores/No RBI
+t1;0-0;0;---;1,(0-0) X;;TEX;Marcus Semien;Reid Detmers;-6%;44%;Double to LF (Line Drive to Deep LF)
+b1;0-1;0;1--;3,(1-1) BCX;;LAA;Zach Neto;Cody Bradford;6%;54%;Single to LF (Ground Ball thru SS-3B Hole); Grichuk to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Rangers Batting, Tied 0-0, Angels' Reid Detmers facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;;TEX;Marcus Semien;Reid Detmers;-6%;44%;Double to LF (Line Drive to Deep LF)
+t1;0-0;0;-2-;2,(1-0) BX;;TEX;Corey Seager;Reid Detmers;-6%;38%;Single to 3B (Ground Ball to Weak 3B); Semien to 3B
+t1;0-0;0;1-3;1,(0-0) X;ROO;TEX;Robbie Grossman;Reid Detmers;6%;44%;Ground Ball Double Play: 3B-2B-1B; Semien Scores/No RBI
+t1;1-0;2;---;5,(3-1) BBCBB;;TEX;Josh Jung;Reid Detmers;-1%;43%;Walk
+t1;1-0;2;1--;2,(0-1) CX;O;TEX;Adolis García;Reid Detmers;2%;45%;Flyball: CF (LF-CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Rangers 1, Angels 0.
+Bottom of the 1st, Angels Batting, Behind 0-1, Rangers' Cody Bradford facing 1-2-3 
+b1;0-1;0;---;4,(1-2) CSBX;;LAA;Randal Grichuk;Cody Bradford;4%;49%;Single to RF (Line Drive to Short RF)
+b1;0-1;0;1--;3,(1-1) BCX;;LAA;Zach Neto;Cody Bradford;6%;54%;Single to LF (Ground Ball thru SS-3B Hole); Grichuk to 2B
+b1;0-1;0;12-;2,(1-0) BX;RRR;LAA;Brandon Drury;Cody Bradford;19%;73%;Home Run (Fly Ball to Deep LF Line); Grichuk Scores; Neto Scores
+b1;3-1;0;---;4,(1-2) BFFS;O;LAA;Logan O'Hoppe;Cody Bradford;-2%;71%;Strikeout Swinging
+b1;3-1;1;---;6,(2-2) BFBF.FS;O;LAA;Jo Adell;Cody Bradford;-1%;70%;Strikeout Swinging
+b1;3-1;2;---;6,(3-2) CBBS.BX;O;LAA;Eduardo Escobar;Cody Bradford;-1%;69%;Groundout: 3B-1B
+;;;;;;;;;3 runs, 3 hits, 0 errors, 0 LOB. Rangers 1, Angels 3.
+Top of the 2nd, Rangers Batting, Behind 1-3, Angels' Reid Detmers facing 6-7-8 
+t2;1-3;0;---;4,(3-0) B.BBB;;TEX;Mitch Garver;Reid Detmers;-4%;66%;Walk
+t2;1-3;0;1--;4,(0-2) CFFS;O;TEX;Nathaniel Lowe;Reid Detmers;4%;69%;Strikeout Swinging
+t2;1-3;1;1--;2,(0-1) FX;;TEX;Jonah Heim;Reid Detmers;-4%;65%;Single to CF (Ground Ball); Garver to 2B
+t2;1-3;1;12-;3,(2-0) BBX;O;TEX;Leody Taveras;Reid Detmers;4%;70%;Groundout: SS-2B/Forceout at 2B; Garver to 3B; Taveras to 1B
+t2;1-3;2;1-3;3,(2-0) BBX;O;TEX;Marcus Semien;Reid Detmers;5%;74%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Rangers 1, Angels 3.
+Bottom of the 2nd, Angels Batting, Ahead 3-1, Rangers' Cody Bradford facing 7-8-9 
+b2;3-1;0;---;2,(1-0) BX;O;LAA;Michael Stefanic;Cody Bradford;-2%;73%;Lineout: CF
+b2;3-1;1;---;6,(3-2) BSSBB.X;O;LAA;Jared Walsh;Cody Bradford;-1%;72%;Flyball: RF (Short CF-RF)
+b2;3-1;2;---;7,(3-2) FBBBCFX;O;LAA;David Fletcher;Cody Bradford;-1%;71%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 1, Angels 3.
+Top of the 3rd, Rangers Batting, Behind 1-3, Angels' Reid Detmers facing 2-3-4 
+t3;1-3;0;---;1,(0-0) X;O;TEX;Corey Seager;Reid Detmers;3%;73%;Groundout: 1B-P (Weak 2B-1B)
+t3;1-3;1;---;5,(3-1) BCBBB;;TEX;Robbie Grossman;Reid Detmers;-3%;71%;Walk
+t3;1-3;1;1--;4,(1-2) BCFX;O;TEX;Josh Jung;Reid Detmers;3%;74%;Flyball: CF (Deep LF-CF)
+t3;1-3;2;1--;6,(3-2) B1*SBS.B>C;O;TEX;Adolis García;Reid Detmers;2%;76%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rangers 1, Angels 3.
+Bottom of the 3rd, Angels Batting, Ahead 3-1, Rangers' Cody Bradford facing 1-2-3 
+b3;3-1;0;---;4,(1-2) BSCS;O;LAA;Randal Grichuk;Cody Bradford;-2%;75%;Strikeout Swinging
+b3;3-1;1;---;3,(1-1) FBX;O;LAA;Zach Neto;Cody Bradford;-1%;73%;Groundout: 3B-1B (SS-3B Hole)
+b3;3-1;2;---;1,(0-0) X;O;LAA;Brandon Drury;Cody Bradford;-1%;73%;Groundout: P-SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 1, Angels 3.
+Top of the 4th, Rangers Batting, Behind 1-3, Angels' Reid Detmers facing 6-7-8 
+t4;1-3;0;---;2,(1-0) BX;;TEX;Mitch Garver;Reid Detmers;-4%;68%;Single to LF (Line Drive)
+t4;1-3;0;1--;6,(2-2) BFBS.FC;O;TEX;Nathaniel Lowe;Reid Detmers;4%;72%;Strikeout Looking
+t4;1-3;1;1--;2,(0-1) FX;O;TEX;Jonah Heim;Reid Detmers;3%;76%;Flyball: RF (CF-RF)
+t4;1-3;2;1--;2,(0-1) FX;O;TEX;Leody Taveras;Reid Detmers;3%;78%;Lineout: LF (Deep LF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rangers 1, Angels 3.
+Bottom of the 4th, Angels Batting, Ahead 3-1, Rangers' Cody Bradford facing 4-5-6 
+b4;3-1;0;---;6,(3-2) BBBCS.X;;LAA;Logan O'Hoppe;Cody Bradford;4%;83%;Double to 1B (Pop Fly to Deep 2B-1B)
+b4;3-1;0;-2-;6,(2-2) BCF.FBX;;LAA;Jo Adell;Cody Bradford;4%;87%;Single to CF (Line Drive); O'Hoppe to 3B
+b4;3-1;0;1-3;2,(1-0) BX;RO;LAA;Eduardo Escobar;Cody Bradford;0%;87%;Groundout: 3B-1B (SS-3B Hole); O'Hoppe Scores; Adell to 2B
+b4;4-1;1;-2-;2,(0-1) FX;O;LAA;Michael Stefanic;Cody Bradford;-1%;85%;Groundout: 2B-1B; Adell to 3B
+b4;4-1;2;--3;1,(0-0) X;O;LAA;Jared Walsh;Cody Bradford;-2%;83%;Lineout: 3B (SS-3B Hole)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Rangers 1, Angels 4.
+Top of the 5th, Rangers Batting, Behind 1-4, Angels' Reid Detmers facing 1-2-3 
+t5;1-4;0;---;4,(1-2) CCBS;O;TEX;Marcus Semien;Reid Detmers;2%;86%;Strikeout Swinging
+t5;1-4;1;---;3,(0-2) FFH;;TEX;Corey Seager;Reid Detmers;-3%;83%;Hit By Pitch
+t5;1-4;1;1--;5,(2-2) BBCFC;O;TEX;Robbie Grossman;Reid Detmers;3%;86%;Strikeout Looking
+t5;1-4;2;1--;4,(0-2) FC.F*S;O;TEX;Josh Jung;Reid Detmers;2%;88%;Strikeout Swinging; Jung out at 1B/C-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rangers 1, Angels 4.
+Bottom of the 5th, Angels Batting, Ahead 4-1, Rangers' Cody Bradford facing 9-1-2 
+b5;4-1;0;---;7,(3-2) BBFFFBX;;LAA;David Fletcher;Cody Bradford;1%;90%;Single to LF (Line Drive to Deep LF)
+b5;4-1;0;1--;1,(0-0) X;;LAA;Randal Grichuk;Cody Bradford;4%;94%;Double to RF (Line Drive to Deep CF-RF); Fletcher to 3B
+;;;;;;;;;Chris Stratton replaces Cody Bradford pitching
+b5;4-1;0;-23;5,(0-2) .CS.FFX;RO;LAA;Zach Neto;Chris Stratton;1%;94%;Foul Popfly: RF/Sacrifice Fly (RF into Foul Terr.); Fletcher Scores; Grichuk to 3B
+b5;5-1;1;--3;4,(1-2) CB+3FB;R;LAA;Brandon Drury;Chris Stratton;1%;96%;Wild Pitch; Grichuk Scores/No RBI
+b5;6-1;1;---;7,(2-2) CB+3FB.FFX;;LAA;Brandon Drury;Chris Stratton;0%;96%;Single to CF (Line Drive to CF-RF)
+b5;6-1;1;1--;3,(1-1) F*BX;;LAA;Logan O'Hoppe;Chris Stratton;1%;96%;Single to LF (Fly Ball to LF-CF); Drury to 2B
+b5;6-1;1;12-;3,(0-2) FCX;;LAA;Jo Adell;Chris Stratton;1%;97%;Single to LF (Ground Ball thru SS-3B Hole); Drury to 3B; O'Hoppe to 2B
+b5;6-1;1;123;7,(3-2) BCBS.*BFX;RO;LAA;Eduardo Escobar;Chris Stratton;0%;98%;Groundout: 1B unassisted; Drury Scores; O'Hoppe to 3B; Adell to 2B
+b5;7-1;2;-23;3,(0-2) CCX;RR;LAA;Michael Stefanic;Chris Stratton;2%;99%;Single to RF (Ground Ball thru 2B-1B); O'Hoppe Scores; Adell Scores
+;;;;;;;;;Jake Latz replaces Chris Stratton pitching
+b5;9-1;2;1--;4,(2-1) .FBBX;O;LAA;Jared Walsh;Jake Latz;0%;99%;Flyball: LF
+;;;;;;;;;5 runs, 6 hits, 0 errors, 1 LOB. Rangers 1, Angels 9.
+Top of the 6th, Rangers Batting, Behind 1-9, Angels' Reid Detmers facing 5-6-7 
+t6;1-9;0;---;4,(1-2) SBTS;O;TEX;Adolis García;Reid Detmers;0%;99%;Strikeout Swinging
+t6;1-9;1;---;5,(3-1) BBBCX;O;TEX;Mitch Garver;Reid Detmers;0%;100%;Flyball: CF
+t6;1-9;2;---;4,(1-2) CBCX;O;TEX;Nathaniel Lowe;Reid Detmers;0%;100%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 1, Angels 9.
+Bottom of the 6th, Angels Batting, Ahead 9-1, Rangers' Jake Latz facing 9-1-2 
+;;;;;;;;;Austin Hedges replaces Jonah Heim playing C batting 8thJosh H. Smith replaces Corey Seager playing SS batting 2ndEzequiel Duran replaces Robbie Grossman playing LF batting 3rdTravis Jankowski replaces Adolis García playing RF batting 5th
+b6;9-1;0;---;7,(3-2) ....BFBCFBB;;LAA;David Fletcher;Jake Latz;0%;100%;Walk
+b6;9-1;0;1--;6,(3-2) BSBBCX;O;LAA;Randal Grichuk;Jake Latz;0%;100%;Flyball: RF (Deep CF-RF)
+b6;9-1;1;1--;2,(1-0) BX;OO;LAA;Zach Neto;Jake Latz;0%;100%;Ground Ball Double Play: 3B-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 1, Angels 9.
+Top of the 7th, Rangers Batting, Behind 1-9, Angels' Reid Detmers facing 8-9-1 
+t7;1-9;0;---;2,(1-0) BX;O;TEX;Austin Hedges;Reid Detmers;0%;100%;Groundout: SS-1B
+t7;1-9;1;---;4,(2-1) BCBX;O;TEX;Leody Taveras;Reid Detmers;0%;100%;Lineout: RF
+t7;1-9;2;---;7,(3-2) BBBCSFB;;TEX;Marcus Semien;Reid Detmers;0%;100%;Walk
+t7;1-9;2;1--;3,(2-0) BBX;O;TEX;Josh H. Smith;Reid Detmers;0%;100%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rangers 1, Angels 9.
+Bottom of the 7th, Angels Batting, Ahead 9-1, Rangers' Jake Latz facing 3-4-5 
+;;;;;;;;;Ezequiel Duran moves from LF to 2B Evan Carter replaces Marcus Semien (2B) playing LF batting 1st
+b7;9-1;0;---;3,(0-2) ..CSX;;LAA;Brandon Drury;Jake Latz;0%;100%;Single to LF (Line Drive)
+;;;;;;;;;Brett Phillips pinch runs for Brandon Drury (1B) batting 3rd
+b7;9-1;0;1--;5,(2-2) .C*BBCS;O;LAA;Logan O'Hoppe;Jake Latz;0%;100%;Strikeout Swinging
+b7;9-1;1;1--;4,(1-2) SFB*S;O;LAA;Jo Adell;Jake Latz;0%;100%;Strikeout Swinging
+b7;9-1;2;1--;5,(3-1) BBBCB;;LAA;Eduardo Escobar;Jake Latz;0%;100%;Walk; Phillips to 2B
+b7;9-1;2;12-;7,(3-2) CBFBFB.>X;O;LAA;Michael Stefanic;Jake Latz;0%;100%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Rangers 1, Angels 9.
+Top of the 8th, Rangers Batting, Behind 1-9, Angels' José Marte facing 3-4-5 
+;;;;;;;;;José Marte replaces Reid Detmers pitchingJared Walsh moves from RF to 1B Brett Phillips moves from PR to CF Jo Adell moves from CF to RF 
+t8;1-9;0;---;1,(0-0) ....X;O;TEX;Ezequiel Duran;José Marte;0%;100%;Foul Popfly: RF (RF into Foul Terr.)
+t8;1-9;1;---;2,(1-0) BX;;TEX;Josh Jung;José Marte;0%;100%;Single to 2B (Ground Ball to 2B-1B)
+;;;;;;;;;Force Play Challenged by LAA manager (Phil Nevin): Original call upheld upon review.
+t8;1-9;1;1--;4,(2-1) BCBB;;TEX;Travis Jankowski;José Marte;0%;100%;Wild Pitch; Jung to 2B
+t8;1-9;1;-2-;5,(3-1) BCBB.B;;TEX;Travis Jankowski;José Marte;0%;100%;Walk
+t8;1-9;1;12-;7,(3-2) CFBBBFX;O;TEX;Mitch Garver;José Marte;0%;100%;Flyball: LF (Deep LF Line)
+t8;1-9;2;12-;5,(2-2) SFBBT;O;TEX;Nathaniel Lowe;José Marte;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Rangers 1, Angels 9.
+Bottom of the 8th, Angels Batting, Ahead 9-1, Rangers' Will Smith facing 8-9-1 
+;;;;;;;;;Will Smith replaces Jake Latz pitching
+b8;9-1;0;---;4,(1-2) .SS.BS;O;LAA;Jared Walsh;Will Smith;0%;100%;Strikeout Swinging
+b8;9-1;1;---;4,(2-1) BCBX;O;LAA;David Fletcher;Will Smith;0%;100%;Groundout: 2B-1B (Deep 2B)
+b8;9-1;2;---;7,(3-2) BBFFBFB;;LAA;Randal Grichuk;Will Smith;0%;100%;Walk
+b8;9-1;2;1--;2,(0-1) SX;O;LAA;Zach Neto;Will Smith;0%;100%;Lineout: 3B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rangers 1, Angels 9.
+Top of the 9th, Rangers Batting, Behind 1-9, Angels' Kolton Ingram facing 8-9-1 
+;;;;;;;;;Kolton Ingram replaces José Marte pitching
+t9;1-9;0;---;1,(0-0) .X;;TEX;Austin Hedges;Kolton Ingram;0%;100%;Reached on E5 (Line Drive); Hedges to 1B
+t9;1-9;0;1--;4,(1-2) CBC.S;O;TEX;Leody Taveras;Kolton Ingram;0%;100%;Strikeout Swinging
+t9;1-9;1;1--;4,(1-2) FBCS;O;TEX;Evan Carter;Kolton Ingram;0%;100%;Strikeout Swinging
+t9;1-9;2;1--;1,(0-0) X;RR;TEX;Josh H. Smith;Kolton Ingram;0%;100%;Home Run (Fly Ball to Deep RF); Hedges Scores/unER; Smith Scores/unER
+t9;3-9;2;---;5,(1-2) CBCFS;O;TEX;Ezequiel Duran;Kolton Ingram;0%;100%;Strikeout Swinging
+;;;;;;;;;2 runs, 1 hit, 1 error, 0 LOB. Rangers 3, Angels 9.

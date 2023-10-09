@@ -1,0 +1,299 @@
+
+Scorebox Meta
+20230926
+7:10 p.m. Local
+34094
+Fenway Park
+178
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/TBR-2023.png;/teams/TBR/2023.shtml;3;0;4;0;0;0;0;2;0;9;13;2
+https://cdn.ssref.net/req/202310031/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;0;0;0;0;3;2;1;1;0;7;11;1
+
+Batting home
+Alex Verdugo;/players/v/verdual01.shtml;RF;3;0;1;0;0;0;3;.266;.327;.425;.752;8;6;-0.046; 0.60;0.000;-0.046;0%; 0.00; -0.7;0;0;
+Adam Duvall;/players/d/duvalad01.shtml;PH-RF;2;1;1;0;0;1;2;.251;.309;.541;.850;9;6;-0.061; 2.67;0.068;-0.129;0%; 0.00; -0.2;0;0;2B
+Rafael Devers;/players/d/deverra01.shtml;3B;5;0;0;0;0;3;5;.272;.351;.506;.857;20;15;-0.142; 1.04;0.000;-0.142;0%; 0.00; -1.2;1;6;
+Justin Turner;/players/t/turneju01.shtml;DH;5;0;1;1;0;2;5;.275;.345;.457;.802;24;16;0.049; 0.90;0.120;-0.071;0%; 0.00; 0.1;;;
+Masataka Yoshida;/players/y/yoshima02.shtml;LF;5;1;1;0;0;1;5;.288;.338;.446;.784;22;13;-0.066; 0.81;0.032;-0.098;0%; 0.00; -0.4;0;1;2B
+Trevor Story;/players/s/storytr01.shtml;SS;3;2;1;0;0;1;4;.191;.235;.298;.533;15;8;0.131; 0.72;0.133;-0.003;0%; 0.00; 1.2;0;2;HBP
+Wilyer Abreu;/players/a/abreuwi02.shtml;CF;4;1;2;2;0;1;4;.371;.435;.565;.999;18;13;0.067; 1.31;0.146;-0.079;0%; 0.00; 1.2;3;0;2B
+Bobby Dalbec;/players/d/dalbebo01.shtml;1B;4;1;1;0;0;1;4;.270;.325;.405;.730;16;11;-0.006; 1.25;0.077;-0.083;0%; 0.00; 0.3;12;2;
+Enmanuel Valdez;/players/v/valdeen01.shtml;2B;4;1;3;4;0;0;4;.273;.316;.477;.793;13;8;0.228; 1.46;0.281;-0.053;0%; 0.00; 3.5;3;4;HR,2B
+Reese McGuire;/players/m/mcguire01.shtml;C;0;0;0;0;0;0;0;.271;.314;.365;.679;;;;;;;;;;3;0;
+Connor Wong;/players/w/wongco01.shtml;C;4;0;0;0;0;3;4;.237;.292;.394;.686;16;12;-0.218; 1.67;0.000;-0.218;0%; 0.00; -1.7;4;0;
+Tanner Houck;/players/h/houckta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Zack Kelly;/players/k/kellyza01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brennan Bernardino;/players/b/bernabr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Mauricio Llovera;/players/l/llovema01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+John Schreiber;/players/s/schrejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chris Murphy;/players/m/murphch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Josh Winckowski;/players/w/winckjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Masataka Yoshida (32, off Kevin Kelly); Wilyer Abreu (6, off Kevin Kelly); Adam Duvall (24, off Colin Poche); Enmanuel Valdez (8, off Shawn Armstrong).
+
+
+HR: Enmanuel Valdez (6, off Zach Eflin, 5th inn, 2 on, 0 outs to Deep RF).
+
+
+HBP: Trevor Story (1, by Shawn Armstrong).
+
+
+TB: Enmanuel Valdez 7; Wilyer Abreu 3; Adam Duvall 2; Masataka Yoshida 2; Alex Verdugo; Trevor Story; Justin Turner; Bobby Dalbec.
+
+
+RBI: Enmanuel Valdez 4 (19); Wilyer Abreu 2 (13); Justin Turner (96).
+
+
+2-out RBI: Justin Turner.
+
+
+Team LOB: 6.
+With RISP: 5 for 12.
+
+Batting away
+Jonathan Aranda;/players/a/arandjo01.shtml;1B;4;1;3;1;0;0;5;.211;.330;.316;.645;18;13;0.119; 0.52;0.125;-0.006; 0.02%; 0.17; 1.7;8;0;2B,HBP
+Junior Caminero;/players/c/caminju01.shtml;3B;5;1;1;1;0;1;5;.214;.267;.286;.552;18;13;0.073; 0.58;0.111;-0.038; 0.01%; 0.19; 0.2;1;0;2B
+Isaac Paredes;/players/p/paredis01.shtml;DH;5;1;0;0;0;1;5;.248;.351;.485;.836;22;12;-0.007; 0.58;0.055;-0.062;-0.00%; 0.19; -0.6;;;GDP
+Josh Lowe;/players/l/lowejo01.shtml;RF;5;1;2;1;0;0;5;.286;.328;.486;.814;14;11;0.047; 0.54;0.068;-0.021; 0.01%; 0.17; 0.5;1;1;
+Curtis Mead;/players/m/meadcu01.shtml;2B;5;1;2;0;0;1;5;.282;.354;.394;.749;22;16;0.067; 0.56;0.082;-0.015; 0.01%; 0.18; 1.1;0;6;
+Manuel Margot;/players/m/margoma01.shtml;CF;4;2;4;2;0;0;4;.264;.310;.369;.680;16;9;0.168; 0.97;0.170;-0.002; 0.03%; 0.31; 2.4;2;0;
+Raimel Tapia;/players/t/tapiara01.shtml;LF;3;1;0;0;1;0;4;.225;.306;.331;.637;17;10;-0.019; 0.76;0.020;-0.039;-0.00%; 0.24; -0.7;0;0;
+Taylor Walls;/players/w/wallsta01.shtml;SS;3;0;0;1;0;2;4;.201;.307;.337;.644;12;9;-0.038; 0.95;0.009;-0.046;-0.01%; 0.30; -1.1;2;0;SH
+René Pinto;/players/p/pintore02.shtml;C;3;1;1;2;0;1;3;.245;.260;.457;.718;8;6;0.003; 0.83;0.056;-0.053; 0.00%; 0.26; 0.7;7;0;HR
+Harold Ramírez;/players/r/ramirha02.shtml;PH;1;0;0;1;0;0;1;.307;.349;.448;.796;2;2;0.024; 1.56;0.024;0.000; 0.01%; 0.50; -0.1;;;
+Christian Bethancourt;/players/b/bethach01.shtml;C;0;0;0;0;0;0;0;.225;.254;.381;.635;;;;;;;;;;6;0;
+Zach Eflin;/players/e/eflinza01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kevin Kelly;/players/k/kellyke02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Colin Poche;/players/p/pocheco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Shawn Armstrong;/players/a/armstsh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Pete Fairbanks;/players/f/fairbpe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Junior Caminero (1, off Tanner Houck); Jonathan Aranda (3, off Tanner Houck).
+
+
+HR: René Pinto (6, off Tanner Houck, 3rd inn, 1 on, 2 outs to Deep CF).
+
+
+SH: Taylor Walls (1, off Chris Murphy).
+
+
+HBP: Jonathan Aranda (2, by Tanner Houck).
+
+
+TB: Manuel Margot 4; Jonathan Aranda 4; René Pinto 4; Curtis Mead 2; Josh Lowe 2; Junior Caminero 2.
+
+
+GIDP: Isaac Paredes (11).
+
+
+RBI: René Pinto 2 (16); Manuel Margot 2 (36); Harold Ramírez (64); Josh Lowe (80); Taylor Walls (34); Junior Caminero (2); Jonathan Aranda (7).
+
+
+2-out RBI: René Pinto 2; Jonathan Aranda.
+
+
+Team LOB: 5.
+With RISP: 6 for 14.
+
+Pitching home
+Tanner Houck;/players/h/houckta01.shtml; L (5-10); 3 ;10;7;6;0;2;1;5.31;20;72;51;32;9;10;11;6;4;0;15;;;-0.354; 0.92; 0.00%; 0.00; -5.4
+Zack Kelly;/players/k/kellyza01.shtml;Zack Kelly; 1 ;0;0;0;0;0;0;3.24;3;13;8;7;0;1;2;1;0;0;;0;0;0.006; 0.08; 0.00%; 0.00; 0.5
+Brennan Bernardino;/players/b/bernabr01.shtml;Brennan Bernardino; 1 ;1;0;0;0;1;0;3.28;3;10;7;3;2;2;1;1;1;0;;0;0;0.005; 0.03; 0.00%; 0.00; 0.5
+Mauricio Llovera;/players/l/llovema01.shtml;Mauricio Llovera; 1 ;0;0;0;0;1;0;4.36;3;9;8;3;3;2;1;1;0;0;;0;0;0.017; 0.22; 0.00%; 0.00; 0.5
+John Schreiber;/players/s/schrejo01.shtml;John Schreiber; 1 ;0;0;0;0;1;0;4.03;3;13;7;4;0;3;2;0;0;0;;0;0;0.039; 0.50; 0.00%; 0.00; 0.5
+Chris Murphy;/players/m/murphch01.shtml;Chris Murphy; 0.1;1;2;2;1;0;0;5.01;3;10;4;2;1;1;1;1;1;0;;0;0;-0.089; 1.29; 0.00%; 0.00; -0.9
+Josh Winckowski;/players/w/winckjo01.shtml;Josh Winckowski; 1.2;1;0;0;0;1;0;2.87;6;22;16;12;1;3;4;1;0;0;;2;2;-0.060; 0.59; 0.00%; 0.00; -0.0
+
+Pitching away
+Zach Eflin;/players/e/eflinza01.shtml; W (16-8); 5 ;5;3;3;0;4;1;3.50;20;71;48;27;7;14;10;6;1;0;49;;;0.070; 0.55; 0.01%; 0.18; -0.3
+Kevin Kelly;/players/k/kellyke02.shtml;Kevin Kelly; 1 ;3;2;2;0;1;0;3.17;6;26;16;7;3;6;3;2;0;0;;0;0;-0.087; 1.31;-0.02%; 0.42; -1.5
+Colin Poche;/players/p/pocheco01.shtml; H (22); 1 ;2;1;1;0;2;0;2.26;5;23;18;9;5;4;0;3;0;0;;0;0;-0.032; 1.69;-0.01%; 0.54; -0.5
+Shawn Armstrong;/players/a/armstsh01.shtml; H (6); 1 ;1;1;0;0;3;0;1.41;6;27;15;7;7;1;1;1;0;0;;0;0;0.014; 2.57; 0.00%; 0.81; -0.5
+Pete Fairbanks;/players/f/fairbpe01.shtml; S (25); 1 ;0;0;0;0;3;0;2.64;3;14;11;3;5;3;0;0;0;0;;0;0;0.100; 1.28; 0.02%; 0.41; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Chris Murphy (4).
+HBP: Shawn Armstrong (4; Trevor Story); Tanner Houck (6; Jonathan Aranda).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Chris Murphy (4).
+HBP: Shawn Armstrong (4; Trevor Story); Tanner Houck (6; Jonathan Aranda).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Nic Lentz, 1B - Jeremie Rehak, 2B - Charlie Ramos, 3B - Chad Fairchild, LF - (none), RF - (none).
+Time of Game: 2:58.
+Attendance: 34,094.
+Field Condition: Unknown.
+Start Time Weather: 56° F, Wind 8mph out to Centerfield, Cloudy, No Precipitation.
+
+div_lineups
+Rays
+1;Jonathan Aranda;/players/a/arandjo01.shtml;1B
+2;Junior Caminero;/players/c/caminju01.shtml;3B
+3;Isaac Paredes;/players/p/paredis01.shtml;DH
+4;Josh Lowe;/players/l/lowejo01.shtml;RF
+5;Curtis Mead;/players/m/meadcu01.shtml;2B
+6;Manuel Margot;/players/m/margoma01.shtml;CF
+7;Raimel Tapia;/players/t/tapiara01.shtml;LF
+8;Taylor Walls;/players/w/wallsta01.shtml;SS
+9;René Pinto;/players/p/pintore02.shtml;C
+; Zach Eflin;/players/e/eflinza01.shtml;P
+Red Sox
+1;Alex Verdugo;/players/v/verdual01.shtml;RF
+2;Rafael Devers;/players/d/deverra01.shtml;3B
+3;Justin Turner;/players/t/turneju01.shtml;DH
+4;Masataka Yoshida;/players/y/yoshima02.shtml;LF
+5;Trevor Story;/players/s/storytr01.shtml;SS
+6;Wilyer Abreu;/players/a/abreuwi02.shtml;CF
+7;Bobby Dalbec;/players/d/dalbebo01.shtml;1B
+8;Enmanuel Valdez;/players/v/valdeen01.shtml;2B
+9;Reese McGuire;/players/m/mcguire01.shtml;C
+; Tanner Houck;/players/h/houckta01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b8;6-9;1;12-;2,(1-0) BX;R;BOS;Enmanuel Valdez;Shawn Armstrong;-20%;65%;Double to LF (Fly Ball to LF-CF); Story Scores/unER; Dalbec to 3B
+b8;7-9;1;-23;5,(2-2) T*BBSS;O;BOS;Connor Wong;Shawn Armstrong;14%;79%;Strikeout Swinging
+b6;3-7;1;1-3;1,(0-0) X;RR;BOS;Wilyer Abreu;Kevin Kelly;-13%;71%;Double to LF (Fly Ball to Deep LF Line); Yoshida Scores; Story Scores
+b8;7-9;2;-23;5,(2-2) BCBS.S;O;BOS;Adam Duvall;Shawn Armstrong;13%;92%;Strikeout Swinging
+b7;5-7;2;-2-;4,(0-2) CSFX;R;BOS;Justin Turner;Colin Poche;-12%;68%;Single to CF (Fly Ball to Short CF); Duvall Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Rays Batting, Tied 0-0, Red Sox' Tanner Houck facing 1-2-3 
+t1;0-0;0;---;3,(0-2) CS.H;;TBR;Jonathan Aranda;Tanner Houck;3%;53%;Hit By Pitch
+;;;;;;;;;Hit by Pitch Challenged by BOS manager (Alex Cora): Original call upheld upon review.
+t1;0-0;0;1--;3,(1-1) CBX;R;TBR;Junior Caminero;Tanner Houck;11%;65%;Double to CF (Line Drive to Deep CF); Aranda Scores
+t1;1-0;0;-2-;3,(1-1) CBX;;TBR;Isaac Paredes;Tanner Houck;6%;70%;Reached on E5 (Line Drive to Deep 3B); Caminero to 3B; Paredes to 1B
+t1;1-0;0;1-3;3,(0-2) CSX;R;TBR;Josh Lowe;Tanner Houck;5%;75%;Single to RF (Ground Ball thru 2B-1B); Caminero Scores; Paredes to 2B
+t1;2-0;0;12-;3,(1-1) CBX;;TBR;Curtis Mead;Tanner Houck;5%;80%;Single to CF (Ground Ball thru SS-2B); Paredes to 3B; Lowe to 2B
+t1;2-0;0;123;6,(2-2) FBFBFX;R;TBR;Manuel Margot;Tanner Houck;5%;85%;Single to CF (Fly Ball); Paredes Scores/unER; Lowe to 3B; Mead to 2B
+t1;3-0;0;123;6,(3-2) .BSBBSX;O;TBR;Raimel Tapia;Tanner Houck;-4%;81%;Groundout: 1B-C/Forceout at Hm (Weak 1B); Mead to 3B; Margot to 2B; Tapia to 1B
+t1;3-0;1;123;6,(2-2) BCBSFT;O;TBR;Taylor Walls;Tanner Houck;-5%;77%;Strikeout Swinging
+t1;3-0;2;123;2,(1-0) BX;O;TBR;René Pinto;Tanner Houck;-5%;72%;Groundout: 3B unassisted/Forceout at 3B (Weak 3B); Pinto to 1B
+;;;;;;;;;3 runs, 4 hits, 1 error, 3 LOB. Rays 3, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Behind 0-3, Rays' Zach Eflin facing 1-2-3 
+b1;0-3;0;---;2,(0-1) CX;O;BOS;Alex Verdugo;Zach Eflin;2%;75%;Lineout: 1B
+b1;0-3;1;---;2,(0-1) S.X;O;BOS;Rafael Devers;Zach Eflin;2%;76%;Flyball: CF (Deep CF)
+b1;0-3;2;---;4,(2-1) CBBX;O;BOS;Justin Turner;Zach Eflin;1%;77%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 3, Red Sox 0.
+Top of the 2nd, Rays Batting, Ahead 3-0, Red Sox' Tanner Houck facing 1-2-3 
+t2;3-0;0;---;5,(1-2) CS.FBX;;TBR;Jonathan Aranda;Tanner Houck;2%;79%;Single to CF (Ground Ball thru SS-2B)
+t2;3-0;0;1--;5,(1-2) SF.FBS;O;TBR;Junior Caminero;Tanner Houck;-2%;77%;Strikeout Swinging
+t2;3-0;1;1--;4,(1-2) BFF.X;OO;TBR;Isaac Paredes;Tanner Houck;-3%;74%;Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Rays 3, Red Sox 0.
+Bottom of the 2nd, Red Sox Batting, Behind 0-3, Rays' Zach Eflin facing 4-5-6 
+b2;0-3;0;---;4,(2-1) BFBX;O;BOS;Masataka Yoshida;Zach Eflin;2%;76%;Groundout: 2B-1B
+b2;0-3;1;---;2,(1-0) BX;;BOS;Trevor Story;Zach Eflin;-4%;72%;Reached on E9 (Fly Ball to Short RF Line); Story to 2B
+b2;0-3;1;-2-;3,(0-2) CCX;O;BOS;Wilyer Abreu;Zach Eflin;3%;75%;Groundout: 2B-1B (2B-1B); Story to 3B
+b2;0-3;2;--3;6,(2-2) CBBCFS;O;BOS;Bobby Dalbec;Zach Eflin;3%;79%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Rays 3, Red Sox 0.
+Top of the 3rd, Rays Batting, Ahead 3-0, Red Sox' Tanner Houck facing 4-5-6 
+;;;;;;;;;Connor Wong replaces Reese McGuire playing C batting 9th
+t3;3-0;0;---;2,(0-1) .CX;;TBR;Josh Lowe;Tanner Houck;2%;81%;Single to RF (Line Drive to CF-RF)
+t3;3-0;0;1--;4,(1-2) FSBX;;TBR;Curtis Mead;Tanner Houck;3%;84%;Single to LF (Ground Ball thru SS-3B Hole); Lowe to 2B
+t3;3-0;0;12-;3,(1-1) BFX;R;TBR;Manuel Margot;Tanner Houck;5%;89%;Single to LF (Ground Ball thru SS-3B Hole); Lowe Scores; Mead to 2B
+t3;4-0;0;12-;3,(0-2) FCX;O;TBR;Raimel Tapia;Tanner Houck;0%;89%;Groundout: 1B unassisted (Weak 1B); Mead to 3B; Margot to 2B
+t3;4-0;1;-23;1,(0-0) X;RO;TBR;Taylor Walls;Tanner Houck;1%;90%;Groundout: 2B-1B (2B-1B); Mead Scores; Margot to 3B
+t3;5-0;2;--3;3,(1-1) BCX;RR;TBR;René Pinto;Tanner Houck;6%;95%;Home Run (Fly Ball to Deep CF); Margot Scores
+t3;7-0;2;---;1,(0-0) X;;TBR;Jonathan Aranda;Tanner Houck;0%;96%;Double to RF (Line Drive to CF-RF)
+t3;7-0;2;-2-;6,(3-2) BFBFBX;O;TBR;Junior Caminero;Tanner Houck;-1%;95%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;4 runs, 5 hits, 0 errors, 1 LOB. Rays 7, Red Sox 0.
+Bottom of the 3rd, Red Sox Batting, Behind 0-7, Rays' Zach Eflin facing 8-9-1 
+b3;0-7;0;---;3,(1-1) CBX;;BOS;Enmanuel Valdez;Zach Eflin;-1%;94%;Single to RF (Ground Ball thru 2B-1B)
+b3;0-7;0;1--;6,(2-2) FBSF*BT;O;BOS;Connor Wong;Zach Eflin;1%;95%;Strikeout Swinging
+b3;0-7;1;1--;3,(1-1) BCX;O;BOS;Alex Verdugo;Zach Eflin;1%;96%;Single to RF (Ground Ball); Valdez out at 3B/RF-3B
+b3;0-7;2;1--;2,(1-0) BX;O;BOS;Rafael Devers;Zach Eflin;1%;97%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Rays 7, Red Sox 0.
+Top of the 4th, Rays Batting, Ahead 7-0, Red Sox' Zack Kelly facing 3-4-5 
+;;;;;;;;;Zack Kelly replaces Tanner Houck pitching
+t4;7-0;0;---;4,(2-1) .BBCX;O;TBR;Isaac Paredes;Zack Kelly;0%;96%;Groundout: SS-1B (SS-3B Hole)
+t4;7-0;1;---;6,(2-2) BBFFFX;O;TBR;Josh Lowe;Zack Kelly;0%;96%;Flyball: CF (Deep CF)
+t4;7-0;2;---;3,(1-1) BTX;O;TBR;Curtis Mead;Zack Kelly;0%;96%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 7, Red Sox 0.
+Bottom of the 4th, Red Sox Batting, Behind 0-7, Rays' Zach Eflin facing 3-4-5 
+b4;0-7;0;---;6,(3-2) BBFCBX;O;BOS;Justin Turner;Zach Eflin;1%;97%;Popfly: SS (Weak 2B)
+b4;0-7;1;---;3,(1-1) CBX;O;BOS;Masataka Yoshida;Zach Eflin;0%;97%;Groundout: 2B-1B (2B-1B)
+b4;0-7;2;---;5,(1-2) SS.BFS;O;BOS;Trevor Story;Zach Eflin;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 7, Red Sox 0.
+Top of the 5th, Rays Batting, Ahead 7-0, Red Sox' Brennan Bernardino facing 6-7-8 
+;;;;;;;;;Brennan Bernardino replaces Zack Kelly pitching
+t5;7-0;0;---;3,(2-0) .BBX;O;TBR;Manuel Margot;Brennan Bernardino;0%;97%;Single to LF (Line Drive to Short LF); Margot out at 2B/LF-2B
+t5;7-0;1;---;3,(0-2) .SFX;O;TBR;Raimel Tapia;Brennan Bernardino;0%;97%;Groundout: 1B unassisted
+t5;7-0;2;---;4,(1-2) BCCS;O;TBR;Taylor Walls;Brennan Bernardino;0%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Rays 7, Red Sox 0.
+Bottom of the 5th, Red Sox Batting, Behind 0-7, Rays' Zach Eflin facing 6-7-8 
+b5;0-7;0;---;6,(3-2) FBBBF.X;;BOS;Wilyer Abreu;Zach Eflin;-1%;96%;Single to LF (Ground Ball)
+b5;0-7;0;1--;2,(0-1) CX;;BOS;Bobby Dalbec;Zach Eflin;-2%;94%;Single to RF (Ground Ball); Abreu to 2B
+b5;0-7;0;12-;2,(0-1) FX;RRR;BOS;Enmanuel Valdez;Zach Eflin;-7%;87%;Home Run (Fly Ball to Deep RF); Abreu Scores; Dalbec Scores
+b5;3-7;0;---;2,(0-1) CX;O;BOS;Connor Wong;Zach Eflin;2%;89%;Flyball: RF (Deep RF)
+b5;3-7;1;---;3,(1-1) CBX;O;BOS;Alex Verdugo;Zach Eflin;1%;90%;Groundout: 2B-1B (2B-1B)
+b5;3-7;2;---;5,(2-2) BBCST;O;BOS;Rafael Devers;Zach Eflin;1%;91%;Strikeout Swinging
+;;;;;;;;;3 runs, 3 hits, 0 errors, 0 LOB. Rays 7, Red Sox 3.
+Top of the 6th, Rays Batting, Ahead 7-3, Red Sox' Mauricio Llovera facing 9-1-2 
+;;;;;;;;;Mauricio Llovera replaces Brennan Bernardino pitching
+t6;7-3;0;---;3,(0-2) .SST;O;TBR;René Pinto;Mauricio Llovera;-1%;90%;Strikeout Swinging
+t6;7-3;1;---;4,(1-2) CS.BX;O;TBR;Jonathan Aranda;Mauricio Llovera;-1%;90%;Groundout: 2B-1B (2B-1B)
+t6;7-3;2;---;2,(0-1) CX;O;TBR;Junior Caminero;Mauricio Llovera;0%;90%;Flyball: CF (CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 7, Red Sox 3.
+Bottom of the 6th, Red Sox Batting, Behind 3-7, Rays' Kevin Kelly facing 3-4-5 
+;;;;;;;;;Kevin Kelly replaces Zach Eflin pitching
+b6;3-7;0;---;5,(2-2) .CBBSC;O;BOS;Justin Turner;Kevin Kelly;2%;92%;Strikeout Looking
+b6;3-7;1;---;5,(2-2) CBBFX;;BOS;Masataka Yoshida;Kevin Kelly;-3%;88%;Ground-rule Double (Ground Ball)
+b6;3-7;1;-2-;5,(2-2) BBCCX;;BOS;Trevor Story;Kevin Kelly;-4%;84%;Single to SS (Ground Ball); Yoshida to 3B
+b6;3-7;1;1-3;1,(0-0) X;RR;BOS;Wilyer Abreu;Kevin Kelly;-13%;71%;Double to LF (Fly Ball to Deep LF Line); Yoshida Scores; Story Scores
+b6;5-7;1;-2-;4,(1-2) BCS.X;O;BOS;Bobby Dalbec;Kevin Kelly;5%;76%;Groundout: 1B unassisted; Abreu to 3B
+b6;5-7;2;--3;6,(3-2) BBFBS.X;O;BOS;Enmanuel Valdez;Kevin Kelly;5%;81%;Flyball: CF (Deep CF)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Rays 7, Red Sox 5.
+Top of the 7th, Rays Batting, Ahead 7-5, Red Sox' John Schreiber facing 3-4-5 
+;;;;;;;;;John Schreiber replaces Mauricio Llovera pitching
+t7;7-5;0;---;5,(3-1) .BBBCX;O;TBR;Isaac Paredes;John Schreiber;-2%;79%;Groundout: SS-1B
+t7;7-5;1;---;2,(1-0) BX;O;TBR;Josh Lowe;John Schreiber;-1%;78%;Groundout: 3B-1B (Weak 3B)
+t7;7-5;2;---;6,(2-2) CFBFBC;O;TBR;Curtis Mead;John Schreiber;-1%;77%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 7, Red Sox 5.
+Bottom of the 7th, Red Sox Batting, Behind 5-7, Rays' Colin Poche facing 9-1-2 
+;;;;;;;;;Colin Poche replaces Kevin Kelly pitching
+b7;5-7;0;---;3,(0-2) .CFS;O;BOS;Connor Wong;Colin Poche;4%;81%;Strikeout Swinging
+;;;;;;;;;Adam Duvall pinch hits for Alex Verdugo (RF) batting 1st
+b7;5-7;1;---;4,(1-2) .CF.BX;;BOS;Adam Duvall;Colin Poche;-7%;74%;Double to LF (Fly Ball to LF-CF)
+b7;5-7;1;-2-;6,(1-2) SBSFFS;O;BOS;Rafael Devers;Colin Poche;6%;80%;Strikeout Swinging
+b7;5-7;2;-2-;4,(0-2) CSFX;R;BOS;Justin Turner;Colin Poche;-12%;68%;Single to CF (Fly Ball to Short CF); Duvall Scores
+b7;6-7;2;1--;6,(3-2) BCFBB>X;O;BOS;Masataka Yoshida;Colin Poche;5%;74%;Popfly: SS (Deep SS-2B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Rays 7, Red Sox 6.
+Top of the 8th, Rays Batting, Ahead 7-6, Red Sox' Chris Murphy facing 6-7-8 
+;;;;;;;;;Chris Murphy replaces John Schreiber pitchingAdam Duvall moves from PH to RF 
+t8;7-6;0;---;4,(2-1) ..BBCX;;TBR;Manuel Margot;Chris Murphy;4%;77%;Single to RF (Line Drive)
+t8;7-6;0;1--;2,(0-1) .MB;;TBR;Raimel Tapia;Chris Murphy;3%;80%;Wild Pitch; Margot to 2B
+t8;7-6;0;-2-;5,(3-1) .MB.BBB;;TBR;Raimel Tapia;Chris Murphy;2%;82%;Walk
+t8;7-6;0;12-;1,(0-0) X;O;TBR;Taylor Walls;Chris Murphy;0%;83%;Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Margot to 3B; Tapia to 2B
+;;;;;;;;;Josh Winckowski replaces Chris Murphy pitchingHarold Ramírez pinch hits for René Pinto (C) batting 9th
+t8;7-6;1;-23;2,(0-1) ..SX;RO;TBR;Harold Ramírez;Josh Winckowski;2%;85%;Groundout: 2B-1B (2B-1B); Margot Scores; Tapia to 3B
+t8;8-6;2;--3;5,(2-2) BBFFX;R;TBR;Jonathan Aranda;Josh Winckowski;6%;91%;Single to RF (Ground Ball thru 2B-1B); Tapia Scores
+t8;9-6;2;1--;2,(0-1) CX;O;TBR;Junior Caminero;Josh Winckowski;-1%;91%;Groundout: 3B-2B/Forceout at 2B (Weak 3B); Caminero to 1B
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Rays 9, Red Sox 6.
+Bottom of the 8th, Red Sox Batting, Behind 6-9, Rays' Shawn Armstrong facing 5-6-7 
+;;;;;;;;;Shawn Armstrong replaces Colin Poche pitchingChristian Bethancourt replaces Harold Ramírez (PH) playing C batting 9th
+b8;6-9;0;---;3,(2-0) ..BBH;;BOS;Trevor Story;Shawn Armstrong;-5%;85%;Hit By Pitch
+;;;;;;;;;Hit by Pitch Challenged by TBR manager (Kevin Cash): Original call upheld upon review.
+b8;6-9;0;1--;8,(2-2) BTS.FFFBS;O;BOS;Wilyer Abreu;Shawn Armstrong;5%;90%;Strikeout Swinging
+b8;6-9;1;1--;4,(2-1) SBBX;;BOS;Bobby Dalbec;Shawn Armstrong;-6%;85%;Fielder's Choice 1B; Story to 2B/Adv on E3 (throw); Dalbec to 1B
+b8;6-9;1;12-;2,(1-0) BX;R;BOS;Enmanuel Valdez;Shawn Armstrong;-20%;65%;Double to LF (Fly Ball to LF-CF); Story Scores/unER; Dalbec to 3B
+b8;7-9;1;-23;5,(2-2) T*BBSS;O;BOS;Connor Wong;Shawn Armstrong;14%;79%;Strikeout Swinging
+b8;7-9;2;-23;5,(2-2) BCBS.S;O;BOS;Adam Duvall;Shawn Armstrong;13%;92%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 1 error, 2 LOB. Rays 9, Red Sox 7.
+Top of the 9th, Rays Batting, Ahead 9-7, Red Sox' Josh Winckowski facing 3-4-5 
+t9;9-7;0;---;6,(3-2) BCBBF.C;O;TBR;Isaac Paredes;Josh Winckowski;-1%;91%;Strikeout Looking
+t9;9-7;1;---;1,(0-0) X;O;TBR;Josh Lowe;Josh Winckowski;-1%;90%;Groundout: 1B-P
+t9;9-7;2;---;6,(1-2) FFFBFX;O;TBR;Curtis Mead;Josh Winckowski;0%;90%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 9, Red Sox 7.
+Bottom of the 9th, Red Sox Batting, Behind 7-9, Rays' Pete Fairbanks facing 2-3-4 
+;;;;;;;;;Pete Fairbanks replaces Shawn Armstrong pitching
+b9;7-9;0;---;5,(1-2) .CBC.FS;O;BOS;Rafael Devers;Pete Fairbanks;5%;95%;Strikeout Swinging
+b9;7-9;1;---;5,(1-2) SBSFS;O;BOS;Justin Turner;Pete Fairbanks;3%;98%;Strikeout Swinging
+b9;7-9;2;---;4,(1-2) BFC*S;O;BOS;Masataka Yoshida;Pete Fairbanks;2%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rays 9, Red Sox 7.

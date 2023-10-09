@@ -1,0 +1,313 @@
+
+Scorebox Meta
+20230930
+6:15 p.m. Local
+39923
+Busch Stadium III
+199
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/CIN-2023.png;/teams/CIN/2023.shtml;0;0;0;1;4;0;1;0;0;6;14;1
+https://cdn.ssref.net/req/202310031/tlogo/br/STL-2023.png;/teams/STL/2023.shtml;5;5;1;0;0;0;0;4;X;15;13;0
+
+Batting home
+Tommy Edman;/players/e/edmanto01.shtml;2B;5;3;2;0;1;0;6;.246;.305;.398;.703;14;8;0.066; 0.37;0.068;-0.002;0%; 0.00; 0.6;1;2;SB
+Paul Goldschmidt;/players/g/goldspa01.shtml;DH;2;2;2;1;1;0;3;.268;.363;.447;.810;6;2;0.057; 0.52;0.057;0.000;0%; 0.00; 2.7;;;2·2B
+Juan Yepez;/players/y/yepezju01.shtml;PH-DH-DH;1;0;0;0;1;0;2;.183;.246;.300;.546;9;5;0.001; 0.03;0.001;-0.001;0%; 0.00; -0.1;;;
+Lars Nootbaar;/players/n/nootbla01.shtml;CF;4;2;2;3;1;1;5;.263;.369;.422;.791;18;12;0.093; 0.44;0.095;-0.002;0%; 0.00; 2.2;6;0;HR
+Jordan Walker;/players/w/walkejo02.shtml;RF;5;3;2;2;0;0;5;.272;.338;.440;.778;18;14;0.123; 0.42;0.125;-0.002;0%; 0.00; 1.1;4;0;2·2B
+Iván Herrera;/players/h/herreiv01.shtml;C;3;3;2;2;2;0;5;.297;.409;.351;.760;23;10;0.064; 0.20;0.064;0.000;0%; 0.00; 1.7;9;2;2B
+Richie Palacios;/players/p/palacri01.shtml;LF;4;1;0;0;1;0;5;.256;.299;.511;.810;18;11;-0.022; 0.14;0.000;-0.022;0%; 0.00; -1.3;1;0;
+Luken Baker;/players/b/bakerlu01.shtml;1B;3;1;1;2;2;1;5;.207;.316;.305;.621;28;11;0.040; 0.16;0.044;-0.005;0%; 0.00; 1.5;5;0;2B
+José Fermín;/players/f/fermijo01.shtml;3B;3;0;1;3;1;0;5;.220;.316;.240;.556;14;6;0.002; 0.13;0.016;-0.015;0%; 0.00; 1.7;1;0;2B,HBP,GDP
+Masyn Winn;/players/w/winnma01.shtml;SS;5;0;1;2;0;1;5;.176;.235;.244;.479;23;15;-0.014; 0.11;0.001;-0.015;0%; 0.00; 0.6;0;1;
+Drew Rom;/players/r/romdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Andre Pallante;/players/p/pallaan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Drew VerHagen;/players/v/verhadr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Matthew Liberatore;/players/l/liberma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+John King;/players/k/kingjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Casey Lawrence;/players/l/lawreca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jordan Walker 2 (18, 1 off Buck Farmer, 1 off Fernando Cruz); Iván Herrera (2, off Fernando Cruz); Luken Baker (2, off Fernando Cruz); Paul Goldschmidt 2 (31, 1 off Ben Lively, 1 off Fernando Cruz); José Fermín (1, off Buck Farmer).
+
+
+HR: Lars Nootbaar (14, off Fernando Cruz, 2nd inn, 2 on, 0 outs to Deep RF).
+
+
+HBP: José Fermín (2, by Lucas Sims).
+
+
+TB: Lars Nootbaar 5; Jordan Walker 4; Paul Goldschmidt 4; Iván Herrera 3; José Fermín 2; Tommy Edman 2; Luken Baker 2; Masyn Winn.
+
+
+GIDP: José Fermín (1).
+
+
+RBI: José Fermín 3 (3); Lars Nootbaar 3 (46); Masyn Winn 2 (12); Jordan Walker 2 (50); Luken Baker 2 (9); Iván Herrera 2 (4); Paul Goldschmidt (80).
+
+
+2-out RBI: José Fermín 3; Masyn Winn 2; Luken Baker.
+
+
+Team LOB: 7.
+With RISP: 6 for 16.
+
+Batting away
+Jonathan India;/players/i/indiajo01.shtml;2B;4;0;1;0;1;1;5;.244;.338;.407;.746;24;13;0.020; 0.33;0.037;-0.017; 0.02%; 0.56; -0.1;3;2;
+Nick Senzel;/players/s/senzeni01.shtml;LF;3;1;1;1;0;1;3;.239;.301;.404;.705;8;5;-0.033; 0.51;0.003;-0.036;-0.03%; 0.87; 0.3;0;0;HR
+Nick Martini;/players/m/martini02.shtml;PH-LF;2;0;2;0;0;0;2;.265;.333;.559;.892;6;4;0.016; 0.20;0.016;0.000; 0.02%; 0.35; 0.5;0;0;
+Spencer Steer;/players/s/steersp01.shtml;1B-RF;5;1;2;0;0;1;5;.271;.356;.464;.820;18;12;-0.036; 0.41;0.009;-0.045;-0.04%; 0.71; -0.4;12;1;2B
+Christian Encarnacion-Strand;/players/e/encarch01.shtml;DH;3;1;0;0;2;2;5;.271;.329;.482;.811;28;14;-0.018; 0.34;0.017;-0.035;-0.02%; 0.58; -0.4;;;
+Tyler Stephenson;/players/s/stephty01.shtml;C;5;1;1;1;0;1;5;.245;.319;.381;.700;16;11;-0.031; 0.38;0.014;-0.045;-0.03%; 0.65; 0.0;2;1;2B
+Noelvi Marte;/players/m/marteno01.shtml;3B;5;2;4;3;0;0;5;.318;.370;.455;.824;12;9;0.018; 0.28;0.045;-0.027; 0.02%; 0.49; 1.9;1;3;HR,2B,CS
+TJ Friedl;/players/f/friedtj01.shtml;CF;4;0;1;0;1;0;5;.279;.352;.467;.819;23;12;0.008; 0.27;0.024;-0.017; 0.01%; 0.47; -0.1;0;0;
+Elly De La Cruz;/players/d/delacel01.shtml;SS;5;0;1;1;0;0;5;.234;.301;.409;.710;18;12;-0.036; 0.35;0.002;-0.038;-0.04%; 0.59; -0.0;3;3;
+Stuart Fairchild;/players/f/faircst01.shtml;RF;2;0;0;0;0;2;2;.223;.319;.377;.695;12;6;-0.004; 0.08;0.000;-0.004;-0.00%; 0.14; -0.7;1;0;
+Will Benson;/players/b/bensowi01.shtml;PH-RF;1;0;1;0;0;0;1;.269;.360;.495;.855;5;3;0.012; 0.28;0.012;0.000; 0.01%; 0.48; 0.4;1;0;
+Luke Maile;/players/m/mailelu01.shtml;PH;1;0;0;0;0;0;1;.239;.313;.398;.711;2;2;-0.007; 0.29;0.000;-0.007;-0.01%; 0.50; -0.2;;;
+Joey Votto;/players/v/vottojo01.shtml;1B;0;0;0;0;0;0;0;.203;.315;.435;.750;;;;;;;;;;1;0;
+Connor Phillips;/players/p/phillco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Fernando Cruz;/players/c/cruzfe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Buck Farmer;/players/f/farmebu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ben Lively;/players/l/livelbe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Sam Moll;/players/m/mollsa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Lucas Sims;/players/s/simslu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ian Gibaut;/players/g/gibauia01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Alexis Díaz;/players/d/diazal03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Alex Young;/players/y/youngal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Spencer Steer (37, off Drew Rom); Tyler Stephenson (20, off Andre Pallante); Noelvi Marte (6, off Andre Pallante).
+
+
+HR: Nick Senzel (13, off Drew Rom, 5th inn, 0 on, 1 out to Deep LF); Noelvi Marte (3, off Drew VerHagen, 7th inn, 0 on, 1 out to Deep LF).
+
+
+TB: Noelvi Marte 8; Nick Senzel 4; Spencer Steer 3; Nick Martini 2; Tyler Stephenson 2; Will Benson; Jonathan India; TJ Friedl; Elly De La Cruz.
+
+
+RBI: Noelvi Marte 3 (15); Tyler Stephenson (56); Elly De La Cruz (43); Nick Senzel (42).
+
+
+2-out RBI: Elly De La Cruz.
+
+
+Team LOB: 11.
+With RISP: 3 for 10.
+
+Pitching home
+Drew Rom;/players/r/romdr01.shtml;Drew Rom; 4.1;7;4;4;3;7;1;8.02;22;90;55;25;8;22;3;9;4;0;37;;;0.074; 0.38; 0.00%; 0.00; -0.3
+Andre Pallante;/players/p/pallaan01.shtml;Andre Pallante; 1 ;4;1;1;0;0;0;4.76;7;27;15;10;1;4;4;3;2;0;;2;2;-0.025; 0.34; 0.00%; 0.00; -2.5
+Drew VerHagen;/players/v/verhadr01.shtml; W (5-1); 1 ;1;1;1;0;1;1;3.98;4;15;9;4;3;2;0;3;0;0;;2;0;0.021; 0.35; 0.00%; 0.00; 0.2
+Matthew Liberatore;/players/l/liberma01.shtml;Matthew Liberatore; 0.2;0;0;0;0;0;0;5.25;2;12;6;3;0;3;2;0;0;0;;0;0;0.008; 0.17; 0.00%; 0.00; 0.3
+John King;/players/k/kingjo01.shtml;John King; 1 ;2;0;0;1;0;0;3.72;6;21;13;8;1;4;2;3;3;0;;0;0;0.013; 0.32; 0.00%; 0.00; 0.5
+Casey Lawrence;/players/l/lawreca01.shtml;Casey Lawrence; 1 ;0;0;0;0;0;0;6.59;3;7;6;4;0;2;0;3;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+Pitching away
+Connor Phillips;/players/p/phillco01.shtml; L (1-1); 0 ;0;3;3;3;0;0;6.97;3;12;0;;0;0;0;0;0;0;35;;;-0.156; 1.31;-0.16%; 2.23; -1.8
+Fernando Cruz;/players/c/cruzfe01.shtml;Fernando Cruz; 1 ;6;5;5;0;0;1;4.91;9;25;16;11;1;4;1;8;5;0;;3;3;-0.246; 0.61;-0.25%; 1.04; -5.6
+Buck Farmer;/players/f/farmebu01.shtml;Buck Farmer; 1 ;2;2;2;1;1;0;4.20;6;26;15;9;4;2;0;4;2;0;;0;0;-0.012; 0.10;-0.01%; 0.17; -1.5
+Ben Lively;/players/l/livelbe01.shtml;Ben Lively; 2.2;2;1;1;2;0;0;5.38;11;37;23;16;0;7;6;3;2;0;;0;0;0.001; 0.02; 0.00%; 0.04; 0.3
+Sam Moll;/players/m/mollsa01.shtml;Sam Moll; 1 ;0;0;0;1;1;0;3.03;4;16;10;6;1;3;1;1;1;0;;1;0;0.004; 0.06; 0.00%; 0.10; 0.5
+Lucas Sims;/players/s/simslu01.shtml;Lucas Sims; 1.1;0;0;0;0;1;0;3.10;4;17;10;6;1;3;0;2;0;0;;1;0;0.005; 0.06; 0.01%; 0.10; 0.8
+Ian Gibaut;/players/g/gibauia01.shtml;Ian Gibaut; 0.2;2;3;3;1;0;0;3.33;5;21;12;6;3;3;2;2;1;0;;0;0;0.000; 0.02; 0.00%; 0.03; -0.3
+Alexis Díaz;/players/d/diazal03.shtml;Alexis Díaz; 0 ;1;1;1;2;0;0;3.07;3;15;6;3;1;2;0;1;1;0;;3;3;-0.005; 0.05;-0.01%; 0.08; -3.7
+Alex Young;/players/y/youngal01.shtml;Alex Young; 0.1;0;0;0;0;0;0;3.93;1;2;2;1;0;1;1;0;0;0;;2;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Lucas Sims (10; José Fermín).
+IBB: None.
+Pickoffs: Lucas Sims (1; José Fermín, 1st base).
+
+Balks: None.
+WP: None.
+HBP: Lucas Sims (10; José Fermín).
+IBB: None.
+Pickoffs: Lucas Sims (1; José Fermín, 1st base).
+
+section_content
+Umpires: HP - Dan Bellino, 1B - Shane Livensparger, 2B - Mark Ripperger, 3B - Phil Cuzzi, LF - (none), RF - (none).
+Time of Game: 3:19.
+Attendance: 39,923.
+Field Condition: Unknown.
+Start Time Weather: 86° F, Wind 8mph in from Rightfield, Sunny, No Precipitation.
+
+div_lineups
+Reds
+1;Jonathan India;/players/i/indiajo01.shtml;2B
+2;Nick Senzel;/players/s/senzeni01.shtml;LF
+3;Spencer Steer;/players/s/steersp01.shtml;1B
+4;Christian Encarnacion-Strand;/players/e/encarch01.shtml;DH
+5;Tyler Stephenson;/players/s/stephty01.shtml;C
+6;Noelvi Marte;/players/m/marteno01.shtml;3B
+7;TJ Friedl;/players/f/friedtj01.shtml;CF
+8;Elly De La Cruz;/players/d/delacel01.shtml;SS
+9;Stuart Fairchild;/players/f/faircst01.shtml;RF
+; Connor Phillips;/players/p/phillco01.shtml;P
+Cardinals
+1;Tommy Edman;/players/e/edmanto01.shtml;2B
+2;Paul Goldschmidt;/players/g/goldspa01.shtml;DH
+3;Lars Nootbaar;/players/n/nootbla01.shtml;CF
+4;Jordan Walker;/players/w/walkejo02.shtml;RF
+5;Iván Herrera;/players/h/herreiv01.shtml;C
+6;Richie Palacios;/players/p/palacri01.shtml;LF
+7;Luken Baker;/players/b/bakerlu01.shtml;1B
+8;José Fermín;/players/f/fermijo01.shtml;3B
+9;Masyn Winn;/players/w/winnma01.shtml;SS
+; Drew Rom;/players/r/romdr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-0;0;123;3,(0-2) .CC.X;RR;STL;Jordan Walker;Fernando Cruz;12%;83%;Double to LF (Line Drive to Deep LF Line); Edman Scores; Goldschmidt Scores; Nootbaar to 3B
+b1;0-0;0;12-;4,(3-0) BBBB;;STL;Lars Nootbaar;Connor Phillips;7%;70%;Walk; Edman to 3B; Goldschmidt to 2B
+b1;2-0;0;-23;1,(0-0) X;RR;STL;Iván Herrera;Fernando Cruz;6%;89%;Double to LF (Line Drive to Deep LF Line); Nootbaar Scores; Walker Scores
+b1;4-0;1;-2-;4,(3-0) BBBX;R;STL;Luken Baker;Fernando Cruz;4%;91%;Double to LF (Line Drive to Deep LF Line); Herrera Scores
+t1;0-0;0;---;5,(3-1) BCBBB;;CIN;Jonathan India;Drew Rom;-4%;46%;Walk
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Reds Batting, Tied 0-0, Cardinals' Drew Rom facing 1-2-3 
+t1;0-0;0;---;5,(3-1) BCBBB;;CIN;Jonathan India;Drew Rom;-4%;46%;Walk
+t1;0-0;0;1--;4,(1-2) BCFS;O;CIN;Nick Senzel;Drew Rom;3%;50%;Strikeout Swinging
+t1;0-0;1;1--;2,(1-0) BX;O;CIN;Spencer Steer;Drew Rom;3%;53%;Flyball: RF (Short RF)
+t1;0-0;2;1--;5,(2-2) BCBC.C;O;CIN;Christian Encarnacion-Strand;Drew Rom;2%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Reds 0, Cardinals 0.
+Bottom of the 1st, Cardinals Batting, Tied 0-0, Reds' Connor Phillips facing 1-2-3 
+b1;0-0;0;---;4,(3-0) BBB*B;;STL;Tommy Edman;Connor Phillips;3%;58%;Walk
+b1;0-0;0;1--;2,(1-0) *B>B;;STL;Paul Goldschmidt;Connor Phillips;2%;61%;Edman Steals 2B
+b1;0-0;0;-2-;4,(3-0) *B>B.BB;;STL;Paul Goldschmidt;Connor Phillips;3%;64%;Walk
+b1;0-0;0;12-;4,(3-0) BBBB;;STL;Lars Nootbaar;Connor Phillips;7%;70%;Walk; Edman to 3B; Goldschmidt to 2B
+;;;;;;;;;Fernando Cruz replaces Connor Phillips pitching
+b1;0-0;0;123;3,(0-2) .CC.X;RR;STL;Jordan Walker;Fernando Cruz;12%;83%;Double to LF (Line Drive to Deep LF Line); Edman Scores; Goldschmidt Scores; Nootbaar to 3B
+b1;2-0;0;-23;1,(0-0) X;RR;STL;Iván Herrera;Fernando Cruz;6%;89%;Double to LF (Line Drive to Deep LF Line); Nootbaar Scores; Walker Scores
+b1;4-0;0;-2-;4,(1-2) CFBX;O;STL;Richie Palacios;Fernando Cruz;-2%;87%;Groundout: P-1B (Front of Home)
+b1;4-0;1;-2-;4,(3-0) BBBX;R;STL;Luken Baker;Fernando Cruz;4%;91%;Double to LF (Line Drive to Deep LF Line); Herrera Scores
+b1;5-0;1;-2-;3,(2-0) B*BX;O;STL;José Fermín;Fernando Cruz;-1%;90%;Lineout: SS
+b1;5-0;2;-2-;1,(0-0) X;O;STL;Masyn Winn;Fernando Cruz;-1%;89%;Popfly: 1B (2B-1B)
+;;;;;;;;;5 runs, 3 hits, 0 errors, 1 LOB. Reds 0, Cardinals 5.
+Top of the 2nd, Reds Batting, Behind 0-5, Cardinals' Drew Rom facing 5-6-7 
+t2;0-5;0;---;5,(1-2) CBS.FS;O;CIN;Tyler Stephenson;Drew Rom;1%;90%;Strikeout Swinging
+t2;0-5;1;---;1,(0-0) X;;CIN;Noelvi Marte;Drew Rom;-2%;89%;Single to SS (Ground Ball to Weak SS)
+t2;0-5;1;1--;5,(3-1) BBBCB;;CIN;TJ Friedl;Drew Rom;-2%;86%;Walk; Marte to 2B
+t2;0-5;1;12-;5,(1-2) .BCCFX;O;CIN;Elly De La Cruz;Drew Rom;3%;89%;Groundout: 2B unassisted/Forceout at 2B; Marte to 3B; De La Cruz to 1B
+t2;0-5;2;1-3;4,(2-1) *BBC>B;O;CIN;Stuart Fairchild;Drew Rom;3%;92%;Marte Caught Stealing Hm (C-2B-C); De La Cruz to 2B
+;;;;;;;;;Tag play Challenged by CIN manager (David Bell): Original call upheld upon review.
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Reds 0, Cardinals 5.
+Bottom of the 2nd, Cardinals Batting, Ahead 5-0, Reds' Fernando Cruz facing 1-2-3 
+b2;5-0;0;---;2,(1-0) BX;;STL;Tommy Edman;Fernando Cruz;1%;93%;Single to CF (Line Drive)
+b2;5-0;0;1--;1,(0-0) 1X;;STL;Paul Goldschmidt;Fernando Cruz;3%;95%;Ground-rule Double (Fly Ball to Deep LF Line); Edman to 3B
+b2;5-0;0;-23;6,(2-2) CBSBFX;RRR;STL;Lars Nootbaar;Fernando Cruz;3%;98%;Home Run (Fly Ball to Deep RF); Edman Scores; Goldschmidt Scores
+;;;;;;;;;Buck Farmer replaces Fernando Cruz pitching
+b2;8-0;0;---;2,(0-1) .SX;;STL;Jordan Walker;Buck Farmer;0%;98%;Double to LF (Line Drive to LF Line)
+b2;8-0;0;-2-;7,(3-2) FBBSF.BB;;STL;Iván Herrera;Buck Farmer;0%;98%;Walk
+b2;8-0;0;12-;4,(1-2) BFFX;O;STL;Richie Palacios;Buck Farmer;0%;98%;Flyball: RF (Deep RF Line)
+b2;8-0;1;12-;6,(3-2) CB*BBFX;O;STL;Luken Baker;Buck Farmer;0%;98%;Foul Popfly: 1B (Short RF into Foul Terr.)
+b2;8-0;2;12-;2,(1-0) BX;RR;STL;José Fermín;Buck Farmer;1%;99%;Double to CF (Line Drive); Walker Scores; Herrera Scores
+b2;10-0;2;-2-;5,(2-2) CSB*B*S;O;STL;Masyn Winn;Buck Farmer;0%;99%;Strikeout Swinging; Winn out at 1B/C-1B
+;;;;;;;;;5 runs, 5 hits, 0 errors, 1 LOB. Reds 0, Cardinals 10.
+Top of the 3rd, Reds Batting, Behind 0-10, Cardinals' Drew Rom facing 9-1-2 
+t3;0-10;0;---;4,(1-2) CCBS;O;CIN;Stuart Fairchild;Drew Rom;0%;99%;Strikeout Swinging
+t3;0-10;1;---;6,(1-2) CBSFFX;;CIN;Jonathan India;Drew Rom;0%;99%;Single to LF (Line Drive to Short LF)
+t3;0-10;1;1--;3,(2-0) BBX;O;CIN;Nick Senzel;Drew Rom;0%;99%;Popfly: 3B (Front of Home)
+t3;0-10;2;1--;5,(1-2) CB1SFX;O;CIN;Spencer Steer;Drew Rom;0%;99%;Flyball: RF (RF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Reds 0, Cardinals 10.
+Bottom of the 3rd, Cardinals Batting, Ahead 10-0, Reds' Ben Lively facing 1-2-3 
+;;;;;;;;;Ben Lively replaces Buck Farmer pitching
+b3;10-0;0;---;3,(1-1) .CBX;;STL;Tommy Edman;Ben Lively;0%;99%;Single to CF (Ground Ball thru SS-2B)
+b3;10-0;0;1--;1,(0-0) X;R;STL;Paul Goldschmidt;Ben Lively;0%;100%;Double to LF (Line Drive to Deep LF Line); Edman Scores
+b3;11-0;0;-2-;3,(0-2) CFX;O;STL;Lars Nootbaar;Ben Lively;0%;100%;Groundout: SS-1B (SS-2B); Goldschmidt to 3B
+b3;11-0;1;--3;4,(1-2) BFFX;O;STL;Jordan Walker;Ben Lively;0%;100%;Groundout: SS-1B
+b3;11-0;2;--3;4,(2-1) CBBX;O;STL;Iván Herrera;Ben Lively;0%;100%;Groundout: SS-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Reds 0, Cardinals 11.
+Top of the 4th, Reds Batting, Behind 0-11, Cardinals' Drew Rom facing 4-5-6 
+t4;0-11;0;---;4,(1-2) FC.BS;O;CIN;Christian Encarnacion-Strand;Drew Rom;0%;100%;Strikeout Swinging
+t4;0-11;1;---;3,(1-1) FBX;O;CIN;Tyler Stephenson;Drew Rom;0%;100%;Flyball: CF (CF-RF)
+t4;0-11;2;---;3,(1-1) BCX;;CIN;Noelvi Marte;Drew Rom;0%;100%;Single to CF (Line Drive to Deep CF)
+t4;0-11;2;1--;4,(2-1) CBBX;;CIN;TJ Friedl;Drew Rom;0%;100%;Single to CF (Ground Ball thru SS-2B); Marte to 2B
+t4;0-11;2;12-;2,(0-1) CX;R;CIN;Elly De La Cruz;Drew Rom;0%;99%;Single to LF (Line Drive); Marte Scores; Friedl to 2B
+t4;1-11;2;12-;4,(1-2) BCFT;O;CIN;Stuart Fairchild;Drew Rom;0%;100%;Strikeout Swinging
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Reds 1, Cardinals 11.
+Bottom of the 4th, Cardinals Batting, Ahead 11-1, Reds' Ben Lively facing 6-7-8 
+b4;11-1;0;---;1,(0-0) X;O;STL;Richie Palacios;Ben Lively;0%;100%;Groundout: 2B-1B (2B-1B)
+b4;11-1;1;---;4,(3-0) BBBB;;STL;Luken Baker;Ben Lively;0%;100%;Walk
+b4;11-1;1;1--;1,(0-0) X;OO;STL;José Fermín;Ben Lively;0%;100%;Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 1, Cardinals 11.
+Top of the 5th, Reds Batting, Behind 1-11, Cardinals' Drew Rom facing 1-2-3 
+t5;1-11;0;---;5,(2-2) BCFBC;O;CIN;Jonathan India;Drew Rom;0%;100%;Strikeout Looking
+t5;1-11;1;---;1,(0-0) X;R;CIN;Nick Senzel;Drew Rom;0%;99%;Home Run (Fly Ball to Deep LF)
+t5;2-11;1;---;2,(1-0) BX;;CIN;Spencer Steer;Drew Rom;0%;99%;Double to CF (Line Drive to Deep LF-CF)
+t5;2-11;1;-2-;8,(3-2) BCBS.FFBB;;CIN;Christian Encarnacion-Strand;Drew Rom;0%;99%;Walk
+;;;;;;;;;Andre Pallante replaces Drew Rom pitching
+t5;2-11;1;12-;3,(1-1) .CBX;R;CIN;Tyler Stephenson;Andre Pallante;-1%;98%;Double to LF (Ground Ball); Steer Scores; Encarnacion-Strand to 3B
+t5;3-11;1;-23;2,(1-0) BX;RR;CIN;Noelvi Marte;Andre Pallante;-2%;96%;Double to CF (Ground Ball); Encarnacion-Strand Scores; Stephenson Scores
+t5;5-11;1;-2-;6,(2-2) BFF*BFX;O;CIN;TJ Friedl;Andre Pallante;1%;97%;Groundout: C-1B; Marte to 3B
+t5;5-11;2;--3;4,(2-1) BCBX;O;CIN;Elly De La Cruz;Andre Pallante;1%;98%;Groundout: P-1B (Weak 2B)
+;;;;;;;;;4 runs, 4 hits, 0 errors, 1 LOB. Reds 5, Cardinals 11.
+Bottom of the 5th, Cardinals Batting, Ahead 11-5, Reds' Ben Lively facing 9-1-2 
+b5;11-5;0;---;8,(2-2) CCFBFBFX;O;STL;Masyn Winn;Ben Lively;0%;98%;Foul Popfly: 1B (1B into Foul Terr.)
+b5;11-5;1;---;2,(0-1) CX;O;STL;Tommy Edman;Ben Lively;0%;97%;Lineout: 1B (Deep 2B-1B)
+;;;;;;;;;Juan Yepez pinch hits for Paul Goldschmidt (DH) batting 2nd
+b5;11-5;2;---;6,(3-2) .BBC.BFB;;STL;Juan Yepez;Ben Lively;0%;97%;Walk
+;;;;;;;;;Sam Moll replaces Ben Lively pitching
+b5;11-5;2;1--;3,(0-2) .CFS;O;STL;Lars Nootbaar;Sam Moll;0%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Reds 5, Cardinals 11.
+Top of the 6th, Reds Batting, Behind 5-11, Cardinals' Andre Pallante facing 9-1-2 
+;;;;;;;;;Will Benson pinch hits for Stuart Fairchild (RF) batting 9th
+t6;5-11;0;---;5,(2-2) ..CSBBX;;CIN;Will Benson;Andre Pallante;-1%;96%;Single to CF (Line Drive)
+t6;5-11;0;1--;5,(3-1) BBBCX;O;CIN;Jonathan India;Andre Pallante;1%;97%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;Nick Martini pinch hits for Nick Senzel (LF) batting 2nd
+t6;5-11;1;1--;2,(1-0) .1BX;;CIN;Nick Martini;Andre Pallante;-1%;96%;Single to LF (Line Drive to Short LF-CF); Benson to 2B
+;;;;;;;;;Drew VerHagen replaces Andre Pallante pitching
+t6;5-11;1;12-;5,(2-2) .BBFSS;O;CIN;Spencer Steer;Drew VerHagen;2%;97%;Strikeout Swinging
+t6;5-11;2;12-;6,(3-2) CSB*BB>X;O;CIN;Christian Encarnacion-Strand;Drew VerHagen;1%;99%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Reds 5, Cardinals 11.
+Bottom of the 6th, Cardinals Batting, Ahead 11-5, Reds' Sam Moll facing 4-5-6 
+;;;;;;;;;Nick Martini moves from PH to LF Will Benson moves from PH to RF 
+b6;11-5;0;---;4,(1-2) ..BFFX;O;STL;Jordan Walker;Sam Moll;0%;98%;Lineout: 2B (SS-2B)
+b6;11-5;1;---;5,(3-1) BBBCB;;STL;Iván Herrera;Sam Moll;0%;99%;Walk
+b6;11-5;1;1--;4,(1-2) CFBX;O;STL;Richie Palacios;Sam Moll;0%;98%;Groundout: 3B-SS/Forceout at 2B (SS-3B Hole); Palacios to 1B
+;;;;;;;;;Lucas Sims replaces Sam Moll pitching
+b6;11-5;2;1--;8,(3-2) .CFBFFBB>S;O;STL;Luken Baker;Lucas Sims;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Reds 5, Cardinals 11.
+Top of the 7th, Reds Batting, Behind 5-11, Cardinals' Drew VerHagen facing 5-6-7 
+t7;5-11;0;---;2,(1-0) BX;O;CIN;Tyler Stephenson;Drew VerHagen;1%;99%;Flyball: CF
+t7;5-11;1;---;2,(0-1) CX;R;CIN;Noelvi Marte;Drew VerHagen;-1%;98%;Home Run (Fly Ball to Deep LF)
+;;;;;;;;;Matthew Liberatore replaces Drew VerHagen pitching
+t7;6-11;1;---;6,(3-2) .BBCFBX;O;CIN;TJ Friedl;Matthew Liberatore;1%;98%;Groundout: 1B unassisted
+t7;6-11;2;---;6,(3-2) BCBC.BX;O;CIN;Elly De La Cruz;Matthew Liberatore;0%;99%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Reds 6, Cardinals 11.
+Bottom of the 7th, Cardinals Batting, Ahead 11-6, Reds' Lucas Sims facing 8-9-1 
+b7;11-6;0;---;2,(0-1) CH;;STL;José Fermín;Lucas Sims;0%;99%;Hit By Pitch
+b7;11-6;0;1--;2,(1-1) BC111;O;STL;Masyn Winn;Lucas Sims;0%;98%;Fermín Picked off 1B, safe on E1 (throw); Fermín out at 3B/1B-3B
+b7;11-6;1;---;6,(3-2) BC111.FBBX;O;STL;Masyn Winn;Lucas Sims;0%;98%;Foul Popfly: 1B (1B into Foul Terr.)
+b7;11-6;2;---;1,(0-0) X;O;STL;Tommy Edman;Lucas Sims;0%;98%;Flyball: RF
+;;;;;;;;;0 runs, 0 hits, 1 error, 0 LOB. Reds 6, Cardinals 11.
+Top of the 8th, Reds Batting, Behind 6-11, Cardinals' John King facing 9-1-2 
+;;;;;;;;;John King replaces Matthew Liberatore pitchingLuke Maile pinch hits for Will Benson (RF) batting 9th
+t8;6-11;0;---;2,(0-1) ..CX;O;CIN;Luke Maile;John King;1%;99%;Lineout: RF (Deep RF)
+t8;6-11;1;---;3,(1-1) CBX;O;CIN;Jonathan India;John King;0%;99%;Lineout: CF
+t8;6-11;2;---;4,(1-2) CBFX;;CIN;Nick Martini;John King;0%;99%;Single to LF (Line Drive to LF Line)
+t8;6-11;2;1--;4,(1-2) SBFX;;CIN;Spencer Steer;John King;-1%;98%;Single to CF (Ground Ball thru SS-2B); Martini to 2B
+t8;6-11;2;12-;5,(3-1) BBBC*B;;CIN;Christian Encarnacion-Strand;John King;-1%;97%;Walk; Martini to 3B; Steer to 2B
+t8;6-11;2;123;3,(1-1) FBX;O;CIN;Tyler Stephenson;John King;2%;99%;Groundout: SS-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Reds 6, Cardinals 11.
+Bottom of the 8th, Cardinals Batting, Ahead 11-6, Reds' Ian Gibaut facing 2-3-4 
+;;;;;;;;;Ian Gibaut replaces Lucas Sims pitchingJoey Votto replaces Luke Maile (PH) playing 1B batting 9thSpencer Steer moves from 1B to RF 
+b8;11-6;0;---;3,(0-2) ...CFX;O;STL;Juan Yepez;Ian Gibaut;0%;99%;Popfly: SS (Short LF-CF)
+b8;11-6;1;---;2,(0-1) CX;;STL;Lars Nootbaar;Ian Gibaut;0%;99%;Single to 3B (Ground Ball to Short 3B Line)
+b8;11-6;1;1--;5,(2-2) BFBSX;O;STL;Jordan Walker;Ian Gibaut;0%;99%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Walker to 1B
+b8;11-6;2;1--;6,(3-2) BSBB.S>X;;STL;Iván Herrera;Ian Gibaut;0%;99%;Single to RF (Line Drive); Walker to 3B
+b8;11-6;2;1-3;5,(3-1) BCBB*B;;STL;Richie Palacios;Ian Gibaut;0%;100%;Walk; Herrera to 2B
+;;;;;;;;;Alexis Díaz replaces Ian Gibaut pitching
+b8;11-6;2;123;6,(3-2) .BSBBF>B;R;STL;Luken Baker;Alexis Díaz;0%;100%;Walk; Walker Scores; Herrera to 3B; Palacios to 2B
+b8;12-6;2;123;6,(3-2) CBBBC.>*B;R;STL;José Fermín;Alexis Díaz;0%;100%;Walk; Herrera Scores; Palacios to 3B; Baker to 2B
+b8;13-6;2;123;3,(1-1) BFX;RR;STL;Masyn Winn;Alexis Díaz;0%;100%;Single to RF (Line Drive); Palacios Scores; Baker Scores; Fermín to 3B
+;;;;;;;;;Alex Young replaces Alexis Díaz pitching
+b8;15-6;2;1-3;2,(0-1) .CX;O;STL;Tommy Edman;Alex Young;0%;100%;Groundout: P-1B
+;;;;;;;;;4 runs, 3 hits, 0 errors, 2 LOB. Reds 6, Cardinals 15.
+Top of the 9th, Reds Batting, Behind 6-15, Cardinals' Casey Lawrence facing 6-7-8 
+;;;;;;;;;Casey Lawrence replaces John King pitching
+t9;6-15;0;---;4,(1-2) .CBF.X;O;CIN;Noelvi Marte;Casey Lawrence;0%;100%;Flyball: LF (LF-CF)
+t9;6-15;1;---;2,(0-1) CX;O;CIN;TJ Friedl;Casey Lawrence;0%;100%;Flyball: RF
+t9;6-15;2;---;1,(0-0) X;O;CIN;Elly De La Cruz;Casey Lawrence;0%;100%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 6, Cardinals 15.

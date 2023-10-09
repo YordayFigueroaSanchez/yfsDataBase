@@ -1,0 +1,284 @@
+
+Scorebox Meta
+20230916
+1:07 p.m. Local
+14876
+Oakland Coliseum
+195
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/SDP-2023.png;/teams/SDP/2023.shtml;2;0;0;1;2;0;0;0;0;5;6;1
+https://cdn.ssref.net/req/202310031/tlogo/br/OAK-2023.png;/teams/OAK/2023.shtml;0;0;1;0;0;1;0;0;0;2;9;2
+
+Batting home
+Tony Kemp;/players/k/kempto01.shtml;LF;3;0;2;0;1;0;4;.214;.308;.313;.621;22;14;0.097; 0.90;0.119;-0.023;0%; 0.00; 0.8;0;0;SB
+Shea Langeliers;/players/l/langesh01.shtml;PH;1;0;0;0;0;1;1;.205;.268;.406;.673;5;3;-0.014; 0.47;0.000;-0.014;0%; 0.00; -0.2;;;
+Ryan Noda;/players/n/nodary01.shtml;1B;2;0;0;1;1;2;4;.238;.376;.429;.804;17;8;-0.026; 1.39;0.025;-0.051;0%; 0.00; -0.4;5;0;SF
+Zack Gelof;/players/g/gelofza01.shtml;2B;4;1;1;1;0;1;4;.267;.333;.525;.859;15;10;-0.039; 1.21;0.061;-0.100;0%; 0.00; 0.1;1;1;HR
+Seth Brown;/players/b/brownse01.shtml;RF;4;0;0;0;0;1;4;.220;.286;.408;.694;14;10;-0.110; 1.06;0.000;-0.110;0%; 0.00; -1.0;3;0;
+Aledmys Díaz;/players/d/diazal02.shtml;3B;4;0;1;0;0;1;4;.229;.283;.338;.621;14;6;-0.028; 0.76;0.030;-0.058;0%; 0.00; -0.3;0;1;
+Lawrence Butler;/players/b/butlela01.shtml;CF;3;0;2;0;1;1;4;.218;.253;.379;.632;20;12;0.040; 0.82;0.092;-0.051;0%; 0.00; 0.3;3;0;
+Carlos Pérez;/players/p/perezca02.shtml;C;4;0;1;0;0;0;4;.230;.291;.366;.657;11;7;-0.098; 1.19;0.044;-0.142;0%; 0.00; -0.8;12;0;GDP
+Tyler Soderstrom;/players/s/soderty01.shtml;DH;3;0;1;0;0;1;3;.165;.232;.262;.494;10;7;-0.019; 0.93;0.033;-0.052;0%; 0.00; -0.1;;;
+Brent Rooker;/players/r/rookebr01.shtml;PH-DH;1;0;0;0;0;0;1;.239;.323;.465;.788;3;2;-0.040; 1.78;0.000;-0.040;0%; 0.00; -0.3;;;
+Nick Allen;/players/a/allenni02.shtml;SS;4;1;1;0;0;0;4;.213;.256;.278;.534;13;13;-0.026; 0.95;0.047;-0.073;0%; 0.00; -0.4;3;4;2B
+Mason Miller;/players/m/millema03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Luis Medina;/players/m/medinlu02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Easton Lucas;/players/l/lucasea01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Lucas Erceg;/players/e/erceglu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dany Jiménez;/players/j/jimenda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Nick Allen (3, off Matt Waldron).
+
+
+HR: Zack Gelof (12, off Matt Waldron, 6th inn, 0 on, 0 outs to Deep LF).
+
+
+SF: Ryan Noda (2, off Matt Waldron).
+
+
+TB: Zack Gelof 4; Tony Kemp 2; Nick Allen 2; Lawrence Butler 2; Tyler Soderstrom; Carlos Pérez; Aledmys Díaz.
+
+
+GIDP: Carlos Pérez (3).
+
+
+RBI: Zack Gelof (26); Ryan Noda (52).
+
+
+Team LOB: 8.
+With RISP: 1 for 4.
+
+Batting away
+Ha-Seong Kim;/players/k/kimha01.shtml;2B;4;1;1;0;1;2;5;.265;.356;.407;.764;30;18;0.034; 0.56;0.063;-0.029;0%; 0.00; -0.0;3;3;
+Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF;4;1;1;0;1;1;5;.261;.326;.467;.793;19;9;0.116; 0.77;0.130;-0.014;0%; 0.00; 1.2;0;0;2B
+Juan Soto;/players/s/sotoju01.shtml;LF;3;0;1;2;1;0;5;.262;.401;.492;.893;24;14;0.126; 1.09;0.136;-0.011;0%; 0.00; 1.0;2;0;SF
+Xander Bogaerts;/players/b/bogaexa01.shtml;SS;5;0;2;1;0;2;5;.274;.344;.425;.769;25;17;-0.023; 0.95;0.059;-0.081;0%; 0.00; -0.5;1;0;2B
+Luis Campusano;/players/c/campulu01.shtml;DH;4;1;0;0;0;2;5;.293;.333;.464;.798;23;15;-0.028; 0.57;0.026;-0.054;0%; 0.00; -0.6;;;HBP
+Ji Man Choi;/players/c/choiji01.shtml;1B;2;0;0;0;1;1;3;.174;.242;.430;.672;16;9;-0.027; 0.77;0.015;-0.042;0%; 0.00; -0.4;5;0;
+Garrett Cooper;/players/c/coopega03.shtml;PH-1B;1;0;0;0;1;0;2;.253;.303;.416;.718;6;2;-0.007; 0.18;0.002;-0.008;0%; 0.00; -0.1;3;0;
+Trent Grisham;/players/g/grishtr01.shtml;CF;3;1;0;0;2;1;5;.201;.315;.357;.672;28;13;0.016; 0.68;0.047;-0.031;0%; 0.00; 0.1;2;0;
+Matthew Batten;/players/b/battema01.shtml;3B;4;0;0;0;0;3;4;.253;.330;.392;.722;18;11;-0.105; 1.09;0.000;-0.105;0%; 0.00; -1.5;2;2;
+Brett Sullivan;/players/s/sullibr01.shtml;C;3;1;1;0;1;0;4;.185;.211;.296;.507;14;7;0.135; 0.64;0.157;-0.022;0%; 0.00; 1.6;8;0;
+Matt Waldron;/players/w/waldrma01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Scott Barlow;/players/b/barlosc01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Robert Suarez;/players/s/suarero01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Josh Hader;/players/h/haderjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Fernando Tatis Jr. (31, off Mason Miller); Xander Bogaerts (28, off Easton Lucas).
+
+
+SF: Juan Soto (5, off Mason Miller).
+
+
+HBP: Luis Campusano (2, by Luis Medina).
+
+
+TB: Xander Bogaerts 3; Fernando Tatis Jr. 2; Brett Sullivan; Juan Soto; Ha-Seong Kim.
+
+
+RBI: Juan Soto 2 (92); Xander Bogaerts (51).
+
+
+2-out RBI: Juan Soto.
+
+
+Team LOB: 11.
+With RISP: 2 for 7.
+
+Pitching home
+Mason Miller;/players/m/millema03.shtml; L (0-3); 1 ;2;2;2;3;2;0;3.42;8;33;17;12;3;2;1;2;2;0;40;;;-0.161; 1.25; 0.00%; 0.00; -1.5
+Luis Medina;/players/m/medinlu02.shtml;Luis Medina; 3.2;2;3;1;4;7;0;5.56;18;96;53;25;13;15;2;4;3;0;;0;0;0.004; 1.02; 0.00%; 0.00; 0.5
+Easton Lucas;/players/l/lucasea01.shtml;Easton Lucas; 2 ;2;0;0;0;1;0;3.60;8;34;22;17;1;4;2;5;3;0;;2;2;-0.105; 0.40; 0.00%; 0.00; -0.7
+Lucas Erceg;/players/e/erceglu01.shtml;Lucas Erceg; 1.1;0;0;0;0;1;0;5.29;5;19;12;8;1;3;2;2;0;0;;0;0;0.018; 0.16; 0.00%; 0.00; 0.6
+Dany Jiménez;/players/j/jimenda01.shtml;Dany Jiménez; 1 ;0;0;0;1;1;0;3.57;4;21;11;5;2;4;1;1;0;0;;0;0;0.007; 0.10; 0.00%; 0.00; 0.5
+
+Pitching away
+Matt Waldron;/players/w/waldrma01.shtml; W (1-3); 5.1;7;2;2;1;5;1;5.16;23;85;55;34;7;14;4;13;4;0;50;;;0.072; 1.00; 0.00%; 0.00; 0.3
+Scott Barlow;/players/b/barlosc01.shtml; H (5); 1.1;1;0;0;2;1;0;4.60;6;27;14;5;3;6;2;1;0;0;;1;0;0.053; 1.12; 0.00%; 0.00; 0.5
+Robert Suarez;/players/s/suarero01.shtml; H (7); 1.1;0;0;0;0;1;0;4.35;4;12;7;4;1;2;2;1;0;0;;2;0;0.100; 0.95; 0.00%; 0.00; 0.9
+Josh Hader;/players/h/haderjo01.shtml; S (29); 1 ;1;0;0;0;1;0;1.27;4;20;16;12;1;3;1;2;0;0;;0;0;0.037; 1.05; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Luis Medina (7; Luis Campusano).
+IBB: None.
+Pickoffs: Matt Waldron (1; Lawrence Butler, 1st base).
+
+Balks: None.
+WP: None.
+HBP: Luis Medina (7; Luis Campusano).
+IBB: None.
+Pickoffs: Matt Waldron (1; Lawrence Butler, 1st base).
+
+section_content
+Umpires: HP - David Arrieta, 1B - Alex MacKay, 2B - Gabe Morales, 3B - Dan Iassogna, LF - (none), RF - (none).
+Time of Game: 3:15.
+Attendance: 14,876.
+Field Condition: Unknown.
+Start Time Weather: 68° F, Wind 9mph out to Rightfield, Overcast, No Precipitation.
+
+div_lineups
+Padres
+1;Ha-Seong Kim;/players/k/kimha01.shtml;2B
+2;Fernando Tatis Jr.;/players/t/tatisfe02.shtml;RF
+3;Juan Soto;/players/s/sotoju01.shtml;LF
+4;Xander Bogaerts;/players/b/bogaexa01.shtml;SS
+5;Luis Campusano;/players/c/campulu01.shtml;DH
+6;Ji Man Choi;/players/c/choiji01.shtml;1B
+7;Trent Grisham;/players/g/grishtr01.shtml;CF
+8;Matthew Batten;/players/b/battema01.shtml;3B
+9;Brett Sullivan;/players/s/sullibr01.shtml;C
+; Matt Waldron;/players/w/waldrma01.shtml;P
+Athletics
+1;Tony Kemp;/players/k/kempto01.shtml;LF
+2;Ryan Noda;/players/n/nodary01.shtml;1B
+3;Zack Gelof;/players/g/gelofza01.shtml;2B
+4;Seth Brown;/players/b/brownse01.shtml;RF
+5;Aledmys Díaz;/players/d/diazal02.shtml;3B
+6;Lawrence Butler;/players/b/butlela01.shtml;CF
+7;Carlos Pérez;/players/p/perezca02.shtml;C
+8;Tyler Soderstrom;/players/s/soderty01.shtml;DH
+9;Nick Allen;/players/a/allenni02.shtml;SS
+; Mason Miller;/players/m/millema03.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t5;3-1;2;12-;4,(1-2) .BFFX;RR;SDP;Brett Sullivan;Easton Lucas;15%;90%;Single to 1B (Ground Ball to 2B-1B); Campusano Scores/Adv on E3 (throw)/No RBI/unER; Grisham Scores/No RBI/unER; Sullivan to 3B
+t1;0-0;0;1--;1,(0-0) X;;SDP;Fernando Tatis Jr.;Mason Miller;11%;64%;Double to RF (Ground Ball); Kim to 3B
+t4;2-1;2;123;10,(3-2) BBCSFFFFB>*B;R;SDP;Juan Soto;Luis Medina;10%;76%;Walk; Sullivan Scores; Kim to 3B; Tatís to 2B
+b6;2-5;1;12-;3,(1-1) CBX;OO;OAK;Carlos Pérez;Scott Barlow;10%;90%;Ground Ball Double Play: P-2B-1B (Front of Home)
+b6;1-5;0;---;1,(0-0) X;R;OAK;Zack Gelof;Matt Waldron;-6%;85%;Home Run (Fly Ball to Deep LF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Padres Batting, Tied 0-0, Athletics' Mason Miller facing 1-2-3 
+t1;0-0;0;---;7,(3-2) TBFBFB.B;;SDP;Ha-Seong Kim;Mason Miller;4%;54%;Walk
+t1;0-0;0;1--;1,(0-0) X;;SDP;Fernando Tatis Jr.;Mason Miller;11%;64%;Double to RF (Ground Ball); Kim to 3B
+t1;0-0;0;-23;2,(1-0) *BX;RO;SDP;Juan Soto;Mason Miller;1%;65%;Lineout: RF/Sacrifice Fly; Kim Scores; Tatís to 3B
+t1;1-0;1;--3;5,(2-2) BSBF.X;R;SDP;Xander Bogaerts;Mason Miller;5%;70%;Single to CF (Line Drive); Tatís Scores
+t1;2-0;1;1--;3,(0-2) F1FS;O;SDP;Luis Campusano;Mason Miller;-2%;68%;Strikeout Swinging
+t1;2-0;2;1--;4,(3-1) CBBVB;;SDP;Ji Man Choi;Mason Miller;1%;69%;Walk; Bogaerts to 2B
+t1;2-0;2;12-;5,(3-1) BBFBB;;SDP;Trent Grisham;Mason Miller;2%;71%;Walk; Bogaerts to 3B; Choi to 2B
+t1;2-0;2;123;6,(2-2) CTFBBS;O;SDP;Matthew Batten;Mason Miller;-5%;66%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 3 LOB. Padres 2, Athletics 0.
+Bottom of the 1st, Athletics Batting, Behind 0-2, Padres' Matt Waldron facing 1-2-3 
+b1;0-2;0;---;9,(2-2) BCFBFFFFX;;OAK;Tony Kemp;Matt Waldron;-4%;62%;Single to RF (Line Drive to Deep CF-RF)
+b1;0-2;0;1--;5,(2-2) FFBBC;O;OAK;Ryan Noda;Matt Waldron;4%;66%;Strikeout Looking
+b1;0-2;1;1--;6,(2-2) SCBB>F1>X;O;OAK;Zack Gelof;Matt Waldron;2%;68%;Groundout: 3B-1B (SS-3B Hole); Kemp to 2B
+b1;0-2;2;-2-;2,(0-1) CX;O;OAK;Seth Brown;Matt Waldron;3%;71%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 2, Athletics 0.
+Top of the 2nd, Padres Batting, Ahead 2-0, Athletics' Luis Medina facing 9-1-2 
+;;;;;;;;;Luis Medina replaces Mason Miller pitching
+t2;2-0;0;---;2,(0-1) .SX;O;SDP;Brett Sullivan;Luis Medina;-2%;69%;Lineout: 2B (Deep 2B)
+t2;2-0;1;---;5,(3-1) BBBCX;O;SDP;Ha-Seong Kim;Luis Medina;-1%;68%;Groundout: SS-1B
+t2;2-0;2;---;5,(2-2) BBSCS;O;SDP;Fernando Tatis Jr.;Luis Medina;-1%;67%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 2, Athletics 0.
+Bottom of the 2nd, Athletics Batting, Behind 0-2, Padres' Matt Waldron facing 5-6-7 
+b2;0-2;0;---;2,(1-0) BX;O;OAK;Aledmys Díaz;Matt Waldron;2%;70%;Flyball: LF (Short LF Line)
+b2;0-2;1;---;5,(3-1) BBFBB;;OAK;Lawrence Butler;Matt Waldron;-3%;67%;Walk
+b2;0-2;1;1--;2,(1-1) BF1;O;OAK;Carlos Pérez;Matt Waldron;4%;71%;Butler Picked off 1B (P-1B)
+;;;;;;;;;Tag play Challenged by SDP manager (Bob Melvin): Original call overturned as shown.
+b2;0-2;2;---;4,(2-1) BF1.BX;O;OAK;Carlos Pérez;Matt Waldron;1%;72%;Popfly: 2B (Deep 2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 2, Athletics 0.
+Top of the 3rd, Padres Batting, Ahead 2-0, Athletics' Luis Medina facing 3-4-5 
+t3;2-0;0;---;4,(2-1) FBBX;;SDP;Juan Soto;Luis Medina;3%;75%;Single to LF (Line Drive to LF-CF)
+t3;2-0;0;1--;4,(1-2) CBFX;O;SDP;Xander Bogaerts;Luis Medina;-3%;73%;Popfly: 2B-SS/Forceout at 2B (Deep 2B); Bogaerts to 1B
+t3;2-0;1;1--;5,(2-2) FFB1BS;O;SDP;Luis Campusano;Luis Medina;-2%;70%;Strikeout Swinging
+t3;2-0;2;1--;5,(1-2) CFFBX;O;SDP;Ji Man Choi;Luis Medina;-2%;69%;Groundout: 1B unassisted (Weak 1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 2, Athletics 0.
+Bottom of the 3rd, Athletics Batting, Behind 0-2, Padres' Matt Waldron facing 8-9-1 
+b3;0-2;0;---;3,(1-1) CBX;O;OAK;Tyler Soderstrom;Matt Waldron;3%;71%;Popfly: 3B (Deep 3B)
+b3;0-2;1;---;1,(0-0) X;;OAK;Nick Allen;Matt Waldron;-5%;67%;Double to LF (Ground Ball)
+b3;0-2;1;-2-;5,(1-2) BCSFX;;OAK;Tony Kemp;Matt Waldron;-6%;61%;Single to LF (Line Drive); Allen to 3B
+b3;0-2;1;1-3;1,(0-0) X;RO;OAK;Ryan Noda;Matt Waldron;0%;60%;Flyball: CF/Sacrifice Fly (Deep CF); Allen Scores
+b3;1-2;2;1--;4,(1-2) BCS1C;O;OAK;Zack Gelof;Matt Waldron;3%;63%;Strikeout Looking
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Padres 2, Athletics 1.
+Top of the 4th, Padres Batting, Ahead 2-1, Athletics' Luis Medina facing 7-8-9 
+t4;2-1;0;---;7,(3-2) BCS.BFBS;O;SDP;Trent Grisham;Luis Medina;-2%;61%;Strikeout Swinging
+t4;2-1;1;---;6,(3-2) BCBSB.C;O;SDP;Matthew Batten;Luis Medina;-2%;59%;Strikeout Looking
+t4;2-1;2;---;5,(3-1) BFBBB;;SDP;Brett Sullivan;Luis Medina;1%;61%;Walk
+t4;2-1;2;1--;3,(1-1) BCX;;SDP;Ha-Seong Kim;Luis Medina;3%;63%;Single to RF (Line Drive to Short CF-RF); Sullivan to 3B
+t4;2-1;2;1-3;4,(3-0) B1B*B*B;;SDP;Fernando Tatis Jr.;Luis Medina;2%;65%;Walk; Kim to 2B
+t4;2-1;2;123;10,(3-2) BBCSFFFFB>*B;R;SDP;Juan Soto;Luis Medina;10%;76%;Walk; Sullivan Scores; Kim to 3B; Tatís to 2B
+t4;3-1;2;123;8,(2-2) CSFBFFBS;O;SDP;Xander Bogaerts;Luis Medina;-5%;70%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 3 LOB. Padres 3, Athletics 1.
+Bottom of the 4th, Athletics Batting, Behind 1-3, Padres' Matt Waldron facing 4-5-6 
+b4;1-3;0;---;6,(2-2) CBC.BFX;O;OAK;Seth Brown;Matt Waldron;3%;73%;Groundout: P unassisted (Weak 2B-1B)
+b4;1-3;1;---;6,(3-2) SBBTBC;O;OAK;Aledmys Díaz;Matt Waldron;2%;75%;Strikeout Looking
+b4;1-3;2;---;6,(2-2) FCFBBX;;OAK;Lawrence Butler;Matt Waldron;-2%;74%;Single to CF (Fly Ball)
+b4;1-3;2;1--;1,(0-0) X;O;OAK;Carlos Pérez;Matt Waldron;3%;76%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 3, Athletics 1.
+Top of the 5th, Padres Batting, Ahead 3-1, Athletics' Luis Medina facing 5-6-7 
+t5;3-1;0;---;6,(1-2) SC.FFBH;;SDP;Luis Campusano;Luis Medina;3%;79%;Hit By Pitch
+t5;3-1;0;1--;7,(3-2) CBBC.FBS;O;SDP;Ji Man Choi;Luis Medina;-2%;77%;Strikeout Swinging
+t5;3-1;1;1--;5,(3-1) BCBBB;;SDP;Trent Grisham;Luis Medina;3%;79%;Walk; Campusano to 2B
+t5;3-1;1;12-;5,(2-2) FSBBC;O;SDP;Matthew Batten;Luis Medina;-3%;76%;Strikeout Looking
+;;;;;;;;;Easton Lucas replaces Luis Medina pitching
+t5;3-1;2;12-;4,(1-2) .BFFX;RR;SDP;Brett Sullivan;Easton Lucas;15%;90%;Single to 1B (Ground Ball to 2B-1B); Campusano Scores/Adv on E3 (throw)/No RBI/unER; Grisham Scores/No RBI/unER; Sullivan to 3B
+t5;5-1;2;--3;9,(3-2) SBBFBFFFT;O;SDP;Ha-Seong Kim;Easton Lucas;-1%;89%;Strikeout Swinging
+;;;;;;;;;2 runs, 1 hit, 1 error, 1 LOB. Padres 5, Athletics 1.
+Bottom of the 5th, Athletics Batting, Behind 1-5, Padres' Matt Waldron facing 8-9-1 
+b5;1-5;0;---;2,(0-1) CX;;OAK;Tyler Soderstrom;Matt Waldron;-3%;86%;Single to CF (Line Drive to Deep LF-CF)
+b5;1-5;0;1--;1,(0-0) X;O;OAK;Nick Allen;Matt Waldron;3%;89%;Popfly: 1B
+b5;1-5;1;1--;2,(1-0) BX;O;OAK;Tony Kemp;Matt Waldron;2%;91%;Foul Popfly: 3B (3B into Foul Terr.)
+b5;1-5;2;1--;6,(3-2) TB1BC.B>S;O;OAK;Ryan Noda;Matt Waldron;2%;93%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 5, Athletics 1.
+Top of the 6th, Padres Batting, Ahead 5-1, Athletics' Easton Lucas facing 2-3-4 
+t6;5-1;0;---;6,(3-2) CBBBFX;O;SDP;Fernando Tatis Jr.;Easton Lucas;-1%;92%;Flyball: RF (Short RF)
+t6;5-1;1;---;2,(0-1) FX;O;SDP;Juan Soto;Easton Lucas;0%;92%;Lineout: CF (Deep CF)
+t6;5-1;2;---;4,(2-1) BBCX;;SDP;Xander Bogaerts;Easton Lucas;1%;92%;Double to CF (Line Drive to Deep CF)
+t6;5-1;2;-2-;5,(2-2) CBFBX;O;SDP;Luis Campusano;Easton Lucas;-1%;91%;Lineout: RF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 5, Athletics 1.
+Bottom of the 6th, Athletics Batting, Behind 1-5, Padres' Matt Waldron facing 3-4-5 
+b6;1-5;0;---;1,(0-0) X;R;OAK;Zack Gelof;Matt Waldron;-6%;85%;Home Run (Fly Ball to Deep LF)
+b6;2-5;0;---;4,(1-2) SBF.S;O;OAK;Seth Brown;Matt Waldron;3%;88%;Strikeout Swinging
+b6;2-5;1;---;3,(2-0) BBX;;OAK;Aledmys Díaz;Matt Waldron;-3%;85%;Single to CF (Line Drive to Short CF)
+;;;;;;;;;Scott Barlow replaces Matt Waldron pitching
+b6;2-5;1;1--;6,(2-2) .CBT*BFX;;OAK;Lawrence Butler;Scott Barlow;-5%;80%;Single to LF (Fly Ball to Short LF); Díaz to 2B
+b6;2-5;1;12-;3,(1-1) CBX;OO;OAK;Carlos Pérez;Scott Barlow;10%;90%;Ground Ball Double Play: P-2B-1B (Front of Home)
+;;;;;;;;;1 run, 3 hits, 0 errors, 1 LOB. Padres 5, Athletics 2.
+Top of the 7th, Padres Batting, Ahead 5-2, Athletics' Easton Lucas facing 6-7-8 
+;;;;;;;;;Garrett Cooper pinch hits for Ji Man Choi (1B) batting 6th
+t7;5-2;0;---;1,(0-0) .X;O;SDP;Garrett Cooper;Easton Lucas;-1%;90%;Foul Popfly: SS (Short LF into Foul Terr.)
+t7;5-2;1;---;3,(1-1) CBX;O;SDP;Trent Grisham;Easton Lucas;-1%;89%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;Lucas Erceg replaces Easton Lucas pitching
+t7;5-2;2;---;1,(0-0) .X;O;SDP;Matthew Batten;Lucas Erceg;0%;89%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 5, Athletics 2.
+Bottom of the 7th, Athletics Batting, Behind 2-5, Padres' Scott Barlow facing 8-9-1 
+;;;;;;;;;Garrett Cooper moves from PH to 1B 
+b7;2-5;0;---;5,(2-2) .SCBBS;O;OAK;Tyler Soderstrom;Scott Barlow;3%;91%;Strikeout Swinging
+b7;2-5;1;---;2,(0-1) CX;O;OAK;Nick Allen;Scott Barlow;2%;93%;Groundout: P-1B (P's Left)
+b7;2-5;2;---;6,(3-2) BS.BBCB;;OAK;Tony Kemp;Scott Barlow;-1%;91%;Walk
+b7;2-5;2;1--;2,(0-1) C1>B;;OAK;Ryan Noda;Scott Barlow;-1%;90%;Kemp Steals 2B; Kemp to 3B/Adv on E2 (throw)
+b7;2-5;2;--3;5,(3-1) C1>B.BBB;;OAK;Ryan Noda;Scott Barlow;-2%;88%;Walk
+;;;;;;;;;Robert Suarez replaces Scott Barlow pitching
+b7;2-5;2;1-3;4,(2-1) .BFBX;O;OAK;Zack Gelof;Robert Suarez;5%;94%;Groundout: P-1B (P's Left)
+;;;;;;;;;0 runs, 0 hits, 1 error, 2 LOB. Padres 5, Athletics 2.
+Top of the 8th, Padres Batting, Ahead 5-2, Athletics' Lucas Erceg facing 9-1-2 
+t8;5-2;0;---;3,(2-0) BBX;O;SDP;Brett Sullivan;Lucas Erceg;-1%;93%;Flyball: CF (LF-CF)
+t8;5-2;1;---;6,(1-2) CBFFFS;O;SDP;Ha-Seong Kim;Lucas Erceg;0%;93%;Strikeout Swinging
+t8;5-2;2;---;3,(1-1) BCX;;SDP;Fernando Tatis Jr.;Lucas Erceg;0%;93%;Reached on E3 (catch) (Ground Ball to SS); Tatís to 1B
+t8;5-2;2;1--;6,(3-2) FBB1BC>X;O;SDP;Juan Soto;Lucas Erceg;-1%;92%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Padres 5, Athletics 2.
+Bottom of the 8th, Athletics Batting, Behind 2-5, Padres' Robert Suarez facing 4-5-6 
+b8;2-5;0;---;2,(1-0) BX;O;OAK;Seth Brown;Robert Suarez;2%;95%;Popfly: 2B (Deep 2B-1B)
+b8;2-5;1;---;3,(2-0) BBX;O;OAK;Aledmys Díaz;Robert Suarez;1%;96%;Groundout: 3B-1B (SS-3B Hole)
+b8;2-5;2;---;3,(0-2) SCC;O;OAK;Lawrence Butler;Robert Suarez;1%;97%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Padres 5, Athletics 2.
+Top of the 9th, Padres Batting, Ahead 5-2, Athletics' Dany Jiménez facing 4-5-6 
+;;;;;;;;;Dany Jiménez replaces Lucas Erceg pitching
+t9;5-2;0;---;4,(1-2) .CS.BS;O;SDP;Xander Bogaerts;Dany Jiménez;0%;97%;Strikeout Swinging
+t9;5-2;1;---;4,(2-1) BFBX;O;SDP;Luis Campusano;Dany Jiménez;0%;96%;Groundout: SS-1B
+t9;5-2;2;---;5,(3-1) BBCBB;;SDP;Garrett Cooper;Dany Jiménez;0%;97%;Walk
+t9;5-2;2;1--;8,(3-2) BCC*BFFB>X;O;SDP;Trent Grisham;Dany Jiménez;0%;96%;Popfly: SS (Weak SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Padres 5, Athletics 2.
+Bottom of the 9th, Athletics Batting, Behind 2-5, Padres' Josh Hader facing 7-8-9 
+;;;;;;;;;Josh Hader replaces Robert Suarez pitching
+b9;2-5;0;---;3,(1-1) .BCX;;OAK;Carlos Pérez;Josh Hader;-4%;92%;Single to LF (Fly Ball to Deep LF Line)
+;;;;;;;;;Brent Rooker pinch hits for Tyler Soderstrom (DH) batting 8th
+b9;2-5;0;1--;3,(1-1) .BFX;O;OAK;Brent Rooker;Josh Hader;4%;96%;Flyball: LF (Short LF)
+b9;2-5;1;1--;9,(0-2) CFFFFFFFX;O;OAK;Nick Allen;Josh Hader;3%;99%;Groundout: 2B-SS/Forceout at 2B; Allen to 1B
+;;;;;;;;;Shea Langeliers pinch hits for Tony Kemp (LF) batting 1st
+b9;2-5;2;1--;5,(2-2) .CBF.BS;O;OAK;Shea Langeliers;Josh Hader;1%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Padres 5, Athletics 2.

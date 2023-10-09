@@ -1,0 +1,255 @@
+
+Scorebox Meta
+20230924
+1:35 p.m. Local
+31989
+Nationals Park
+143
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/ATL-2023.png;/teams/ATL/2023.shtml;0;1;0;0;0;0;0;0;1;2;6;0
+https://cdn.ssref.net/req/202310031/tlogo/br/WSN-2023.png;/teams/WSN/2023.shtml;0;2;0;0;0;1;0;0;X;3;10;0
+
+Batting home
+CJ Abrams;/players/a/abramcj01.shtml;SS;3;0;0;1;0;1;4;.245;.302;.418;.720;14;9;-0.056; 1.49;0.013;-0.069;0%; 0.00; -0.9;1;3;SF
+Lane Thomas;/players/t/thomala02.shtml;RF;4;0;0;0;0;2;4;.269;.319;.467;.786;22;12;-0.134; 1.17;0.000;-0.134;0%; 0.00; -1.6;2;0;
+Dominic Smith;/players/s/smithdo02.shtml;1B;3;0;1;0;1;0;4;.257;.327;.365;.692;14;7;-0.038; 0.74;0.045;-0.083;0%; 0.00; -0.5;6;2;CS
+Joey Meneses;/players/m/menesjo01.shtml;DH;4;0;2;0;0;1;4;.280;.328;.410;.737;12;8;0.033; 0.56;0.061;-0.028;0%; 0.00; 0.3;;;2B
+Luis García;/players/g/garcilu04.shtml;2B;4;1;1;0;0;1;4;.261;.296;.373;.669;12;8;-0.048; 0.87;0.040;-0.088;0%; 0.00; -0.7;1;2;
+Jake Alu;/players/a/aluja01.shtml;LF;4;2;2;0;0;0;4;.234;.285;.283;.568;13;10;0.111; 0.94;0.147;-0.036;0%; 0.00; 1.0;2;0;2B
+Carter Kieboom;/players/k/kieboca01.shtml;3B;3;0;1;0;1;2;4;.216;.275;.365;.640;15;8;0.050; 0.97;0.075;-0.025;0%; 0.00; 0.6;1;0;
+Drew Millas;/players/m/milladr01.shtml;C;3;0;1;0;0;1;3;.308;.357;.500;.857;8;6;-0.122; 1.52;0.039;-0.162;0%; 0.00; -1.5;6;0;2B,GDP
+Jacob Young;/players/y/youngja03.shtml;CF;2;0;2;2;0;0;3;.259;.337;.365;.702;10;5;0.220; 1.82;0.220;0.000;0%; 0.00; 2.2;6;0;2B,HBP
+Jackson Rutledge;/players/r/rutleja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Robert Garcia;/players/g/garciro04.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+Hunter Harvey;/players/h/harvehu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Kyle Finnegan;/players/f/finneky01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Jake Alu (2, off Allan Winans); Joey Meneses (35, off Allan Winans); Drew Millas (2, off Allan Winans); Jacob Young (7, off Kyle Wright).
+
+
+SF: CJ Abrams (3, off Allan Winans).
+
+
+HBP: Jacob Young (1, by Allan Winans).
+
+
+TB: Joey Meneses 3; Jacob Young 3; Jake Alu 3; Drew Millas 2; Carter Kieboom; Luis García; Dominic Smith.
+
+
+GIDP: Drew Millas (2).
+
+
+RBI: Jacob Young 2 (9); CJ Abrams (63).
+
+
+2-out RBI: Jacob Young.
+
+
+Team LOB: 7.
+With RISP: 2 for 10.
+
+Batting away
+Ronald Acuna Jr.;/players/a/acunaro01.shtml;DH;4;0;1;0;0;1;4;.336;.415;.595;1.010;25;15;-0.053; 1.05;0.035;-0.089;-0.00%; 0.01; -0.3;;;
+Michael Harris II;/players/h/harrimi04.shtml;CF;4;0;0;0;0;1;4;.292;.330;.477;.807;15;12;-0.136; 0.96;0.000;-0.136;-0.00%; 0.01; -1.2;1;0;
+Ozzie Albies;/players/a/albieoz01.shtml;2B;3;0;0;0;1;0;4;.274;.329;.507;.836;21;14;-0.029; 1.02;0.047;-0.075;0%; 0.02; -0.1;0;4;
+Matt Olson;/players/o/olsonma02.shtml;1B;3;0;1;0;1;0;4;.278;.386;.604;.991;15;8;-0.010; 1.11;0.058;-0.068;0%; 0.01; -0.0;11;1;
+Sean Murphy;/players/m/murphse01.shtml;C;4;2;1;1;0;2;4;.258;.369;.490;.859;11;9;-0.084; 1.20;0.025;-0.110;-0.00%; 0.02; 0.1;8;0;HR
+Eddie Rosario;/players/r/rosared01.shtml;LF;4;0;1;0;0;0;4;.259;.310;.461;.771;14;10;-0.034; 1.26;0.066;-0.101;0%; 0.02; 0.1;1;0;
+Kevin Pillar;/players/p/pillake01.shtml;RF;2;0;1;1;0;0;3;.227;.247;.398;.645;12;7;-0.045; 1.48;0.051;-0.096;-0.00%; 0.02; -0.4;1;0;CS,SF
+Nicky Lopez;/players/l/lopezni01.shtml;SS;3;0;1;0;0;1;3;.234;.325;.312;.637;9;8;0.023; 0.73;0.058;-0.035;0%; 0.01; 0.1;1;3;2B
+Luke Williams;/players/w/willilu01.shtml;3B;3;0;0;0;0;1;3;.063;.063;.063;.125;12;7;-0.113; 1.42;0.000;-0.113;-0.00%; 0.02; -0.8;0;2;
+Allan Winans;/players/w/winanal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Kyle Wright;/players/w/wrighky01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Nicky Lopez (8, off Jackson Rutledge).
+
+
+HR: Sean Murphy (21, off Kyle Finnegan, 9th inn, 0 on, 2 outs to Deep LF-CF).
+
+
+SF: Kevin Pillar (3, off Jackson Rutledge).
+
+
+TB: Sean Murphy 4; Nicky Lopez 2; Kevin Pillar; Eddie Rosario; Matt Olson; Ronald Acuna Jr..
+
+
+RBI: Kevin Pillar (28); Sean Murphy (68).
+
+
+2-out RBI: Sean Murphy.
+
+
+Team LOB: 4.
+With RISP: 0 for 2.
+
+Pitching home
+Jackson Rutledge;/players/r/rutleja01.shtml; W (1-1); 5 ;3;1;1;2;4;0;6.00;19;86;52;32;10;10;2;11;4;0;59;;;0.180; 1.18; 0.00%; 0.00; 1.5
+Robert Garcia;/players/g/garciro04.shtml; H (5); 2 ;2;0;0;0;2;0;3.77;7;28;22;15;3;4;1;4;3;0;;0;0;0.152; 1.14; 0.00%; 0.00; 1.0
+Hunter Harvey;/players/h/harvehu01.shtml; H (19); 1 ;0;0;0;0;0;0;2.79;3;12;9;6;1;2;1;2;0;0;;0;0;0.075; 0.99; 0.00%; 0.00; 0.5
+Kyle Finnegan;/players/f/finneky01.shtml; S (27); 1 ;1;1;1;0;0;1;3.74;4;8;7;4;2;1;3;1;0;0;;0;0;0.075; 1.09; 0.00%; 0.00; -0.5
+
+Pitching away
+Allan Winans;/players/w/winanal01.shtml; L (1-2); 5 ;7;2;2;2;6;0;4.33;23;89;53;23;12;18;6;8;3;0;49;;;0.019; 1.27; 0.00%; 0.02; 0.5
+Kyle Wright;/players/w/wrighky01.shtml;Kyle Wright; 3 ;3;1;1;0;2;0;7.22;11;31;20;14;2;4;7;2;2;0;;0;0;-0.037; 0.66; 0.00%; 0.01; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Allan Winans (2; Jacob Young).
+IBB: None.
+Pickoffs: Robert Garcia (1; Kevin Pillar, 2nd base (CS)).
+
+Balks: None.
+WP: None.
+HBP: Allan Winans (2; Jacob Young).
+IBB: None.
+Pickoffs: Robert Garcia (1; Kevin Pillar, 2nd base (CS)).
+
+section_content
+Umpires: HP - Emil Jimenez, 1B - Nate Tomlinson, 2B - Alfonso Márquez, 3B - Ramon De Jesus, LF - (none), RF - (none).
+Time of Game: 2:23.
+Attendance: 31,989.
+Field Condition: Unknown.
+Start Time Weather: 67° F, Wind 1mph out to Leftfield, Overcast, Rain.
+
+div_lineups
+Braves
+1;Ronald Acuna Jr.;/players/a/acunaro01.shtml;DH
+2;Michael Harris II;/players/h/harrimi04.shtml;CF
+3;Ozzie Albies;/players/a/albieoz01.shtml;2B
+4;Matt Olson;/players/o/olsonma02.shtml;1B
+5;Sean Murphy;/players/m/murphse01.shtml;C
+6;Eddie Rosario;/players/r/rosared01.shtml;LF
+7;Kevin Pillar;/players/p/pillake01.shtml;RF
+8;Nicky Lopez;/players/l/lopezni01.shtml;SS
+9;Luke Williams;/players/w/willilu01.shtml;3B
+; Allan Winans;/players/w/winanal01.shtml;P
+Nationals
+1;CJ Abrams;/players/a/abramcj01.shtml;SS
+2;Lane Thomas;/players/t/thomala02.shtml;RF
+3;Dominic Smith;/players/s/smithdo02.shtml;1B
+4;Joey Meneses;/players/m/menesjo01.shtml;DH
+5;Luis García;/players/g/garcilu04.shtml;2B
+6;Jake Alu;/players/a/aluja01.shtml;LF
+7;Carter Kieboom;/players/k/kieboca01.shtml;3B
+8;Drew Millas;/players/m/milladr01.shtml;C
+9;Jacob Young;/players/y/youngja03.shtml;CF
+; Jackson Rutledge;/players/r/rutleja01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b2;0-1;0;1--;4,(0-2) CCFX;;WSN;Jake Alu;Allan Winans;12%;60%;Double to RF (Fly Ball to Deep CF-RF); García to 3B
+b6;2-1;2;--3;2,(1-0) *BX;R;WSN;Jacob Young;Kyle Wright;11%;84%;Double to 2B (Ground Ball to SS-2B); Alu Scores
+b2;0-1;1;123;2,(0-1) CX;R;WSN;Jacob Young;Allan Winans;10%;65%;Single to P (Ground Ball to Weak SS); García Scores; Alu to 3B; Kieboom to 2B
+b6;2-1;0;12-;1,(0-0) X;OO;WSN;Drew Millas;Kyle Wright;-9%;73%;Ground Ball Double Play: 1B-SS-P (2B-1B); Alu to 3B
+b2;0-1;0;123;5,(2-2) B*SBFS;O;WSN;Drew Millas;Allan Winans;-7%;55%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Braves Batting, Tied 0-0, Nationals' Jackson Rutledge facing 1-2-3 
+t1;0-0;0;---;7,(3-2) BBTBS.FX;;ATL;Ronald Acuna Jr.;Jackson Rutledge;-4%;46%;Single to LF (Line Drive to LF Line)
+t1;0-0;0;1--;3,(0-2) CT>X;OO;ATL;Michael Harris II;Jackson Rutledge;7%;54%;Double Play: Lineout: SS (SS-2B); Acuña out at 1B/SS-1B
+t1;0-0;2;---;8,(3-2) CFBBBFFX;O;ATL;Ozzie Albies;Jackson Rutledge;1%;55%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Braves 0, Nationals 0.
+Bottom of the 1st, Nationals Batting, Tied 0-0, Braves' Allan Winans facing 1-2-3 
+b1;0-0;0;---;5,(2-2) CFBBS;O;WSN;CJ Abrams;Allan Winans;-2%;53%;Strikeout Swinging
+b1;0-0;1;---;4,(2-1) BBSX;O;WSN;Lane Thomas;Allan Winans;-2%;51%;Groundout: 3B-1B
+b1;0-0;2;---;6,(3-2) BBBCFX;;WSN;Dominic Smith;Allan Winans;1%;52%;Single to RF (Line Drive to Deep RF)
+b1;0-0;2;1--;3,(0-2) CCS;O;WSN;Joey Meneses;Allan Winans;-2%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Nationals 0.
+Top of the 2nd, Braves Batting, Tied 0-0, Nationals' Jackson Rutledge facing 4-5-6 
+t2;0-0;0;---;7,(3-2) BBSBSFB;;ATL;Matt Olson;Jackson Rutledge;-4%;46%;Walk
+t2;0-0;0;1--;1,(0-0) X;O;ATL;Sean Murphy;Jackson Rutledge;4%;50%;Groundout: SS-2B/Forceout at 2B (SS-3B Hole); Murphy to 1B
+t2;0-0;1;1--;6,(3-2) BBBCFX;;ATL;Eddie Rosario;Jackson Rutledge;-7%;43%;Single to CF (Ground Ball); Murphy to 3B
+t2;0-0;1;1-3;1,(0-0) X;RO;ATL;Kevin Pillar;Jackson Rutledge;-1%;42%;Flyball: CF/Sacrifice Fly (Deep CF); Murphy Scores
+t2;1-0;2;1--;3,(0-2) CFS;O;ATL;Nicky Lopez;Jackson Rutledge;2%;44%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Braves 1, Nationals 0.
+Bottom of the 2nd, Nationals Batting, Behind 0-1, Braves' Allan Winans facing 5-6-7 
+b2;0-1;0;---;2,(1-0) BX;;WSN;Luis García;Allan Winans;4%;48%;Single to CF (Line Drive to Deep LF-CF)
+b2;0-1;0;1--;4,(0-2) CCFX;;WSN;Jake Alu;Allan Winans;12%;60%;Double to RF (Fly Ball to Deep CF-RF); García to 3B
+b2;0-1;0;-23;4,(3-0) BBBB;;WSN;Carter Kieboom;Allan Winans;3%;63%;Walk
+b2;0-1;0;123;5,(2-2) B*SBFS;O;WSN;Drew Millas;Allan Winans;-7%;55%;Strikeout Swinging
+b2;0-1;1;123;2,(0-1) CX;R;WSN;Jacob Young;Allan Winans;10%;65%;Single to P (Ground Ball to Weak SS); García Scores; Alu to 3B; Kieboom to 2B
+b2;1-1;1;123;4,(2-1) CBBX;RO;WSN;CJ Abrams;Allan Winans;1%;66%;Flyball: CF/Sacrifice Fly (Deep CF); Alu Scores; Kieboom to 3B; Young to 2B
+b2;2-1;2;-23;5,(2-2) BBCCX;O;WSN;Lane Thomas;Allan Winans;-5%;61%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Braves 1, Nationals 2.
+Top of the 3rd, Braves Batting, Behind 1-2, Nationals' Jackson Rutledge facing 9-1-2 
+t3;1-2;0;---;6,(3-2) BBFSBX;O;ATL;Luke Williams;Jackson Rutledge;3%;64%;Flyball: CF (Deep LF-CF)
+t3;1-2;1;---;4,(2-1) BBSX;O;ATL;Ronald Acuna Jr.;Jackson Rutledge;2%;66%;Lineout: CF (Deep LF-CF)
+t3;1-2;2;---;5,(3-1) BBBCX;O;ATL;Michael Harris II;Jackson Rutledge;1%;67%;Flyball: LF (Deep LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 1, Nationals 2.
+Bottom of the 3rd, Nationals Batting, Ahead 2-1, Braves' Allan Winans facing 3-4-5 
+b3;2-1;0;---;1,(0-0) X;O;WSN;Dominic Smith;Allan Winans;-2%;65%;Flyball: RF (Deep CF-RF)
+b3;2-1;1;---;3,(2-0) BBX;;WSN;Joey Meneses;Allan Winans;4%;69%;Double to LF (Fly Ball to Deep LF)
+b3;2-1;1;-2-;5,(1-2) BFFFS;O;WSN;Luis García;Allan Winans;-3%;66%;Strikeout Swinging
+b3;2-1;2;-2-;4,(1-2) CFBX;O;WSN;Jake Alu;Allan Winans;-3%;62%;Groundout: 2B-1B (Deep 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 1, Nationals 2.
+Top of the 4th, Braves Batting, Behind 1-2, Nationals' Jackson Rutledge facing 3-4-5 
+t4;1-2;0;---;9,(3-2) BBBCFFFFB;;ATL;Ozzie Albies;Jackson Rutledge;-5%;58%;Walk
+t4;1-2;0;1--;3,(1-1) FBX;O;ATL;Matt Olson;Jackson Rutledge;4%;62%;Foul Popfly: 3B (3B into Foul Terr.)
+t4;1-2;1;1--;3,(0-2) 1FS1S;O;ATL;Sean Murphy;Jackson Rutledge;4%;66%;Strikeout Swinging
+t4;1-2;2;1--;2,(1-0) BX;O;ATL;Eddie Rosario;Jackson Rutledge;3%;69%;Flyball: CF (Short CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Braves 1, Nationals 2.
+Bottom of the 4th, Nationals Batting, Ahead 2-1, Braves' Allan Winans facing 7-8-9 
+b4;2-1;0;---;5,(2-2) CBS.BS;O;WSN;Carter Kieboom;Allan Winans;-2%;67%;Strikeout Swinging
+b4;2-1;1;---;2,(0-1) CX;;WSN;Drew Millas;Allan Winans;4%;70%;Double to CF (Fly Ball to Deep LF-CF)
+b4;2-1;1;-2-;6,(3-2) BCC.BBH;;WSN;Jacob Young;Allan Winans;2%;72%;Hit By Pitch
+b4;2-1;1;12-;2,(0-1) *SX;O;WSN;CJ Abrams;Allan Winans;-3%;69%;Groundout: 1B unassisted; Millas to 3B; Young to 2B
+b4;2-1;2;-23;6,(3-2) BBCFBS;O;WSN;Lane Thomas;Allan Winans;-6%;64%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Braves 1, Nationals 2.
+Top of the 5th, Braves Batting, Behind 1-2, Nationals' Jackson Rutledge facing 7-8-9 
+t5;1-2;0;---;5,(2-2) BSBCX;O;ATL;Kevin Pillar;Jackson Rutledge;3%;67%;Flyball: CF (Deep LF-CF)
+t5;1-2;1;---;3,(1-1) FBX;;ATL;Nicky Lopez;Jackson Rutledge;-6%;61%;Double to LF (Line Drive to Deep LF Line)
+t5;1-2;1;-2-;4,(1-2) FFBC;O;ATL;Luke Williams;Jackson Rutledge;5%;66%;Strikeout Looking
+t5;1-2;2;-2-;6,(3-2) CB*BB+2CS;O;ATL;Ronald Acuna Jr.;Jackson Rutledge;5%;71%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 1, Nationals 2.
+Bottom of the 5th, Nationals Batting, Ahead 2-1, Braves' Allan Winans facing 3-4-5 
+b5;2-1;0;---;6,(3-2) BSBBCB;;WSN;Dominic Smith;Allan Winans;3%;74%;Walk
+b5;2-1;0;1--;,(0-0) N;O;WSN;Joey Meneses;Allan Winans;-5%;69%;Smith Caught Stealing 2B (P-2B-1B)
+b5;2-1;1;---;2,(0-1) N.CX;;WSN;Joey Meneses;Allan Winans;2%;71%;Single to CF (Ground Ball)
+b5;2-1;1;1--;3,(1-1) BSX;OO;WSN;Luis García;Allan Winans;-5%;66%;Double Play: Lineout: 1B unassisted; Meneses out at 1B/1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Braves 1, Nationals 2.
+Top of the 6th, Braves Batting, Behind 1-2, Nationals' Robert Garcia facing 2-3-4 
+;;;;;;;;;Robert Garcia replaces Jackson Rutledge pitching
+t6;1-2;0;---;5,(0-2) .CSFFS;O;ATL;Michael Harris II;Robert Garcia;4%;70%;Strikeout Swinging
+t6;1-2;1;---;3,(0-2) FFX;O;ATL;Ozzie Albies;Robert Garcia;3%;72%;Groundout: 2B-1B
+t6;1-2;2;---;2,(1-0) BX;;ATL;Matt Olson;Robert Garcia;-2%;70%;Single to CF (Line Drive to Deep CF-RF)
+t6;1-2;2;1--;6,(2-2) CFFB*BT;O;ATL;Sean Murphy;Robert Garcia;4%;74%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Braves 1, Nationals 2.
+Bottom of the 6th, Nationals Batting, Ahead 2-1, Braves' Kyle Wright facing 6-7-8 
+;;;;;;;;;Kyle Wright replaces Allan Winans pitching
+b6;2-1;0;---;1,(0-0) .X;;WSN;Jake Alu;Kyle Wright;3%;77%;Single to LF (Line Drive to Deep LF)
+b6;2-1;0;1--;3,(1-1) *BF.X;;WSN;Carter Kieboom;Kyle Wright;5%;82%;Single to P (Bunt); Alu to 2B
+b6;2-1;0;12-;1,(0-0) X;OO;WSN;Drew Millas;Kyle Wright;-9%;73%;Ground Ball Double Play: 1B-SS-P (2B-1B); Alu to 3B
+b6;2-1;2;--3;2,(1-0) *BX;R;WSN;Jacob Young;Kyle Wright;11%;84%;Double to 2B (Ground Ball to SS-2B); Alu Scores
+b6;3-1;2;-2-;3,(1-1) FBX;O;WSN;CJ Abrams;Kyle Wright;-2%;82%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;1 run, 3 hits, 0 errors, 1 LOB. Braves 1, Nationals 3.
+Top of the 7th, Braves Batting, Behind 1-3, Nationals' Robert Garcia facing 6-7-8 
+t7;1-3;0;---;3,(0-2) FSX;O;ATL;Eddie Rosario;Robert Garcia;3%;85%;Lineout: RF (Deep RF)
+t7;1-3;1;---;6,(3-2) FF.BBBX;;ATL;Kevin Pillar;Robert Garcia;-4%;81%;Single to CF (Line Drive to Deep LF-CF)
+t7;1-3;1;1--;2,(0-2) CC1;O;ATL;Nicky Lopez;Robert Garcia;6%;87%;Pillar Caught Stealing (PO) 2B (P-1B-SS-P)
+t7;1-3;2;---;3,(0-2) CC1.X;O;ATL;Nicky Lopez;Robert Garcia;1%;89%;Flyball: LF (LF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Braves 1, Nationals 3.
+Bottom of the 7th, Nationals Batting, Ahead 3-1, Braves' Kyle Wright facing 2-3-4 
+b7;3-1;0;---;7,(3-2) CFBFBBC;O;WSN;Lane Thomas;Kyle Wright;-1%;88%;Strikeout Looking
+b7;3-1;1;---;1,(0-0) X;O;WSN;Dominic Smith;Kyle Wright;-1%;87%;Groundout: 3B-1B
+b7;3-1;2;---;4,(2-1) CBBX;O;WSN;Joey Meneses;Kyle Wright;-1%;86%;Lineout: LF (Deep LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 1, Nationals 3.
+Top of the 8th, Braves Batting, Behind 1-3, Nationals' Hunter Harvey facing 9-1-2 
+;;;;;;;;;Hunter Harvey replaces Robert Garcia pitching
+t8;1-3;0;---;2,(1-0) .BX;O;ATL;Luke Williams;Hunter Harvey;4%;90%;Foul Popfly: 1B (1B into Foul Terr.)
+t8;1-3;1;---;8,(2-2) CSFFFBBX;O;ATL;Ronald Acuna Jr.;Hunter Harvey;2%;93%;Flyball: RF (RF Line)
+t8;1-3;2;---;2,(0-1) CX;O;ATL;Michael Harris II;Hunter Harvey;1%;94%;Groundout: P-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 1, Nationals 3.
+Bottom of the 8th, Nationals Batting, Ahead 3-1, Braves' Kyle Wright facing 5-6-7 
+b8;3-1;0;---;2,(1-0) BX;O;WSN;Luis García;Kyle Wright;-1%;93%;Groundout: SS-1B
+b8;3-1;1;---;4,(2-1) BBCX;O;WSN;Jake Alu;Kyle Wright;0%;93%;Groundout: 2B-1B (Deep 2B-1B)
+b8;3-1;2;---;3,(0-2) FSS;O;WSN;Carter Kieboom;Kyle Wright;0%;93%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Braves 1, Nationals 3.
+Top of the 9th, Braves Batting, Behind 1-3, Nationals' Kyle Finnegan facing 3-4-5 
+;;;;;;;;;Kyle Finnegan replaces Hunter Harvey pitching
+t9;1-3;0;---;1,(0-0) .X;O;ATL;Ozzie Albies;Kyle Finnegan;4%;96%;Groundout: 2B-1B (2B-1B)
+t9;1-3;1;---;3,(1-1) BSX;O;ATL;Matt Olson;Kyle Finnegan;2%;99%;Groundout: 1B unassisted
+t9;1-3;2;---;1,(0-0) X;R;ATL;Sean Murphy;Kyle Finnegan;-3%;96%;Home Run (Fly Ball to Deep LF-CF)
+t9;2-3;2;---;3,(0-2) CSX;O;ATL;Eddie Rosario;Kyle Finnegan;4%;100%;Groundout: 1B-P
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Braves 2, Nationals 3.

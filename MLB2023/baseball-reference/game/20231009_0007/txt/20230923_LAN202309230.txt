@@ -1,0 +1,255 @@
+
+Scorebox Meta
+20230923
+6:10 p.m. Local
+52704
+Dodger Stadium
+150
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/SFG-2023.png;/teams/SFG/2023.shtml;0;0;0;0;0;0;0;0;0;0;2;0
+https://cdn.ssref.net/req/202310031/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;1;2;0;2;0;0;2;X;7;10;0
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;2B;3;2;2;2;2;0;5;.309;.411;.593;1.003;19;10;0.030; 0.44;0.052;-0.023; 0.00%; 0.02; 3.0;1;0;2·2B
+Freddie Freeman;/players/f/freemfr01.shtml;1B;5;0;2;1;0;1;5;.334;.411;.563;.974;15;11;0.007; 0.42;0.050;-0.043;0%; 0.03; 1.5;8;0;2B,SB
+Max Muncy;/players/m/muncyma01.shtml;3B;5;1;2;1;0;2;5;.213;.333;.490;.823;19;14;0.018; 0.32;0.033;-0.014; 0.00%; 0.02; -0.1;1;6;
+J.D. Martinez;/players/m/martijd02.shtml;DH;4;1;2;3;0;0;4;.270;.324;.573;.897;8;6;0.254; 0.74;0.268;-0.013; 0.01%; 0.04; 1.5;;;HR,2B
+James Outman;/players/o/outmaja01.shtml;CF;2;0;0;0;2;1;4;.243;.351;.427;.777;22;12;0.002; 0.43;0.032;-0.030;0%; 0.03; -0.5;4;0;
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;4;0;0;0;0;1;4;.236;.289;.324;.614;16;11;-0.054; 0.54;0.000;-0.054;-0.00%; 0.03; -2.0;0;2;
+David Peralta;/players/p/peralda01.shtml;LF;4;1;1;0;0;1;4;.259;.294;.380;.674;17;12;-0.035; 0.38;0.002;-0.037;-0.00%; 0.02; -0.1;1;0;2B
+Jason Heyward;/players/h/heywaja01.shtml;RF;4;0;0;0;0;2;4;.271;.346;.487;.833;18;14;-0.030; 0.27;0.000;-0.030;-0.00%; 0.01; -1.0;1;0;
+Austin Barnes;/players/b/barneau01.shtml;C;3;2;1;0;1;1;4;.172;.245;.231;.475;13;7;-0.008; 0.32;0.015;-0.023;0%; 0.02; 0.3;11;0;
+Clayton Kershaw;/players/k/kershcl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Joe Kelly;/players/k/kellyjo05.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael Grove;/players/g/grovemi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Caleb Ferguson;/players/f/ferguca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: J.D. Martinez (25, off Jakob Junis); Freddie Freeman (57, off Ross Stripling); Mookie Betts 2 (40, 2 off Ross Stripling); David Peralta (22, off Ross Stripling).
+
+
+HR: J.D. Martinez (31, off John Brebbia, 2nd inn, 0 on, 0 outs to Deep CF-RF).
+
+
+TB: J.D. Martinez 6; Mookie Betts 4; Freddie Freeman 3; David Peralta 2; Max Muncy 2; Austin Barnes.
+
+
+RBI: J.D. Martinez 3 (98); Mookie Betts 2 (105); Max Muncy (103); Freddie Freeman (96).
+
+
+2-out RBI: J.D. Martinez 2.
+
+
+Team LOB: 8.
+With RISP: 5 for 15.
+
+Batting away
+Austin Slater;/players/s/slateau01.shtml;LF;3;0;0;0;0;2;3;.258;.333;.382;.715;14;7;-0.136; 1.70;0.000;-0.136;-0.03%; 0.66; -1.4;1;0;
+Michael Conforto;/players/c/confomi01.shtml;PH-LF;0;0;0;0;1;0;1;.244;.338;.393;.731;6;2;0.003; 0.10;0.003;0.000; 0.00%; 0.04; 0.1;0;0;
+Thairo Estrada;/players/e/estrath01.shtml;2B;4;0;0;0;0;2;4;.274;.317;.421;.738;12;9;-0.082; 0.79;0.000;-0.082;-0.02%; 0.31; -1.1;3;2;
+J.D. Davis;/players/d/davisjd01.shtml;3B;4;0;0;0;0;0;4;.247;.326;.412;.738;15;10;-0.042; 0.40;0.000;-0.042;-0.01%; 0.16; -0.8;0;0;
+Wilmer Flores;/players/f/florewi01.shtml;1B;4;0;0;0;0;1;4;.281;.353;.506;.859;19;14;-0.044; 0.42;0.000;-0.044;-0.01%; 0.16; -0.7;3;1;
+Mitch Haniger;/players/h/hanigmi01.shtml;DH;2;0;0;0;0;1;2;.209;.268;.369;.637;6;4;-0.027; 0.51;0.000;-0.027;-0.01%; 0.20; -0.3;;;
+Joc Pederson;/players/p/pederjo01.shtml;PH-DH-DH;1;0;0;0;0;0;1;.246;.352;.436;.788;4;2;-0.010; 0.39;0.000;-0.010;-0.00%; 0.15; -0.3;;;
+Heliot Ramos;/players/r/ramoshe02.shtml;PH-DH;1;0;0;0;0;1;1;.204;.264;.347;.611;7;4;0.000; 0.00;0.000;0.000;0%; 0.00; -0.1;;;
+Marco Luciano;/players/l/luciama01.shtml;SS;3;0;1;0;0;2;3;.333;.391;.429;.820;12;7;0.041; 0.53;0.059;-0.017; 0.01%; 0.21; 0.3;1;1;2B
+Luis Matos;/players/m/matoslu02.shtml;RF;1;0;0;0;2;0;3;.256;.321;.352;.672;16;7;0.084; 0.85;0.087;-0.003; 0.02%; 0.33; 0.7;4;0;
+Tyler Fitzgerald;/players/f/fitzgty01.shtml;CF;2;0;0;0;0;1;2;.250;.333;.750;1.083;6;4;-0.101; 1.98;0.000;-0.101;-0.02%; 0.78; -1.0;1;0;
+Mike Yastrzemski;/players/y/yastrmi01.shtml;PH-CF;1;0;0;0;0;1;1;.244;.334;.467;.801;11;9;-0.008; 0.30;0.000;-0.008;-0.00%; 0.12; -0.3;1;0;
+Patrick Bailey;/players/b/bailepa01.shtml;C;3;0;1;0;0;0;3;.242;.295;.373;.668;15;11;0.005; 1.22;0.042;-0.037; 0.00%; 0.48; -0.1;9;0;
+John Brebbia;/players/b/brebbjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Taylor Rogers;/players/r/rogerta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Jakob Junis;/players/j/junisja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ross Stripling;/players/s/stripro01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Marco Luciano (2, off Clayton Kershaw).
+
+
+TB: Marco Luciano 2; Patrick Bailey.
+
+
+Team LOB: 5.
+With RISP: 0 for 5.
+
+Pitching home
+Clayton Kershaw;/players/k/kershcl01.shtml; W (13-4); 5 ;2;0;0;2;5;0;2.42;19;76;46;25;7;14;7;5;3;0;66;;;0.259; 1.20; 0.01%; 0.07; 2.7
+Joe Kelly;/players/k/kellyjo05.shtml;Joe Kelly; 1 ;0;0;0;0;2;0;4.34;3;11;9;5;1;3;0;1;1;0;;0;0;0.023; 0.29; 0.00%; 0.02; 0.5
+Michael Grove;/players/g/grovemi01.shtml;Michael Grove; 2 ;0;0;0;1;3;0;6.41;7;37;23;12;7;4;1;2;0;0;;0;0;0.033; 0.21; 0.00%; 0.01; 1.1
+Caleb Ferguson;/players/f/ferguca01.shtml;Caleb Ferguson; 1 ;0;0;0;0;1;0;2.47;3;19;12;7;3;2;1;1;0;0;;0;0;0.001; 0.01; 0.00%; 0.00; 0.5
+
+Pitching away
+John Brebbia;/players/b/brebbjo01.shtml; L (3-2); 1.1;1;1;1;1;1;1;3.53;6;20;13;6;2;5;0;4;1;0;48;;;-0.053; 0.81;-0.01%; 0.32; -0.5
+Taylor Rogers;/players/r/rogerta01.shtml;Taylor Rogers; 1.1;1;2;2;1;3;0;3.33;6;27;15;4;5;6;2;0;0;0;;1;0;0.054; 0.84; 0.01%; 0.33; 0.6
+Jakob Junis;/players/j/junisja01.shtml;Jakob Junis; 1.1;1;0;0;0;1;0;3.87;5;20;13;9;1;3;1;3;1;0;;2;2;-0.122; 0.63;-0.03%; 0.25; -1.0
+Ross Stripling;/players/s/stripro01.shtml;Ross Stripling; 4 ;7;4;4;3;4;0;5.57;22;80;56;33;11;12;4;11;8;0;;0;0;-0.063; 0.17;-0.01%; 0.07; -1.8
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Mike Estabrook, 1B - Andy Fletcher, 2B - Erich Bacchus, 3B - Laz Diaz, LF - (none), RF - (none).
+Time of Game: 2:30.
+Attendance: 52,704.
+Field Condition: Unknown.
+Start Time Weather: 72° F, Wind 6mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Giants
+1;Austin Slater;/players/s/slateau01.shtml;LF
+2;Thairo Estrada;/players/e/estrath01.shtml;2B
+3;J.D. Davis;/players/d/davisjd01.shtml;3B
+4;Wilmer Flores;/players/f/florewi01.shtml;1B
+5;Mitch Haniger;/players/h/hanigmi01.shtml;DH
+6;Marco Luciano;/players/l/luciama01.shtml;SS
+7;Luis Matos;/players/m/matoslu02.shtml;RF
+8;Tyler Fitzgerald;/players/f/fitzgty01.shtml;CF
+9;Patrick Bailey;/players/b/bailepa01.shtml;C
+; John Brebbia;/players/b/brebbjo01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;2B
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Max Muncy;/players/m/muncyma01.shtml;3B
+4;J.D. Martinez;/players/m/martijd02.shtml;DH
+5;James Outman;/players/o/outmaja01.shtml;CF
+6;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+7;David Peralta;/players/p/peralda01.shtml;LF
+8;Jason Heyward;/players/h/heywaja01.shtml;RF
+9;Austin Barnes;/players/b/barneau01.shtml;C
+; Clayton Kershaw;/players/k/kershcl01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;1-0;2;12-;3,(1-2) .ABFX;RR;LAD;J.D. Martinez;Jakob Junis;17%;83%;Double to RF (Line Drive to RF Line); Betts Scores; Muncy Scores
+b2;0-0;0;---;1,(0-0) X;R;LAD;J.D. Martinez;John Brebbia;10%;65%;Home Run (Fly Ball to Deep CF-RF)
+t5;0-3;0;12-;4,(1-2) BFCS;O;SFG;Tyler Fitzgerald;Clayton Kershaw;6%;79%;Strikeout Swinging
+t5;0-3;2;-23;2,(1-0) BX;O;SFG;Austin Slater;Clayton Kershaw;6%;88%;Lineout: LF
+t5;0-3;0;---;2,(1-0) BX;;SFG;Marco Luciano;Clayton Kershaw;-6%;77%;Double to RF (Line Drive to Deep RF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Giants Batting, Tied 0-0, Dodgers' Clayton Kershaw facing 1-2-3 
+t1;0-0;0;---;6,(3-2) CBBBSS;O;SFG;Austin Slater;Clayton Kershaw;2%;52%;Strikeout Swinging
+t1;0-0;1;---;3,(1-1) CBX;O;SFG;Thairo Estrada;Clayton Kershaw;2%;54%;Lineout: 3B (SS-3B Hole)
+t1;0-0;2;---;4,(1-2) FBFX;O;SFG;J.D. Davis;Clayton Kershaw;1%;55%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Tied 0-0, Giants' John Brebbia facing 1-2-3 
+b1;0-0;0;---;2,(0-1) CX;O;LAD;Mookie Betts;John Brebbia;-2%;53%;Lineout: RF (CF-RF)
+b1;0-0;1;---;1,(0-0) X;O;LAD;Freddie Freeman;John Brebbia;-2%;51%;Flyball: SS (Deep SS)
+b1;0-0;2;---;6,(3-2) CBCBBX;O;LAD;Max Muncy;John Brebbia;-1%;50%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Dodgers 0.
+Top of the 2nd, Giants Batting, Tied 0-0, Dodgers' Clayton Kershaw facing 4-5-6 
+t2;0-0;0;---;5,(2-2) BBSFX;O;SFG;Wilmer Flores;Clayton Kershaw;2%;52%;Flyball: RF (Short RF)
+t2;0-0;1;---;5,(2-2) CBBFC;O;SFG;Mitch Haniger;Clayton Kershaw;2%;54%;Strikeout Looking
+t2;0-0;2;---;4,(1-2) CBTS;O;SFG;Marco Luciano;Clayton Kershaw;1%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Dodgers 0.
+Bottom of the 2nd, Dodgers Batting, Tied 0-0, Giants' John Brebbia facing 4-5-6 
+b2;0-0;0;---;1,(0-0) X;R;LAD;J.D. Martinez;John Brebbia;10%;65%;Home Run (Fly Ball to Deep CF-RF)
+b2;1-0;0;---;6,(3-2) SBBBFB;;LAD;James Outman;John Brebbia;3%;68%;Walk
+b2;1-0;0;1--;4,(0-2) CCFS;O;LAD;Miguel Rojas;John Brebbia;-3%;66%;Strikeout Swinging
+;;;;;;;;;Taylor Rogers replaces John Brebbia pitching
+b2;1-0;1;1--;7,(3-2) .BCSBF1BC;O;LAD;David Peralta;Taylor Rogers;-3%;63%;Strikeout Looking
+b2;1-0;2;1--;4,(1-2) SBSX;O;LAD;Jason Heyward;Taylor Rogers;-2%;61%;Groundout: P-1B (Front of Home)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Giants 0, Dodgers 1.
+Top of the 3rd, Giants Batting, Behind 0-1, Dodgers' Clayton Kershaw facing 7-8-9 
+t3;0-1;0;---;7,(3-2) FBFBB.FB;;SFG;Luis Matos;Clayton Kershaw;-4%;57%;Walk
+t3;0-1;0;1--;2,(1-0) BX;O;SFG;Tyler Fitzgerald;Clayton Kershaw;4%;61%;Groundout: 3B-2B/Forceout at 2B; Fitzgerald to 1B
+t3;0-1;1;1--;4,(1-2) 1CBC1>X;;SFG;Patrick Bailey;Clayton Kershaw;-4%;56%;Single to 3B (Ground Ball); Fitzgerald to 2B
+t3;0-1;1;12-;6,(3-2) CBBSBC;O;SFG;Austin Slater;Clayton Kershaw;5%;62%;Strikeout Looking
+t3;0-1;2;12-;3,(2-0) *BBX;O;SFG;Thairo Estrada;Clayton Kershaw;5%;67%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Giants 0, Dodgers 1.
+Bottom of the 3rd, Dodgers Batting, Ahead 1-0, Giants' Taylor Rogers facing 9-1-2 
+b3;1-0;0;---;3,(0-2) CCC;O;LAD;Austin Barnes;Taylor Rogers;-2%;65%;Strikeout Looking
+b3;1-0;1;---;5,(3-1) CBBBB;;LAD;Mookie Betts;Taylor Rogers;2%;67%;Walk
+b3;1-0;1;1--;6,(3-2) BFS*BBS;O;LAD;Freddie Freeman;Taylor Rogers;-3%;64%;Strikeout Swinging
+b3;1-0;2;1--;2,(1-0) BX;;LAD;Max Muncy;Taylor Rogers;2%;66%;Single to 3B (Ground Ball to SS-3B Hole); Betts to 2B
+;;;;;;;;;Jakob Junis replaces Taylor Rogers pitching
+b3;1-0;2;12-;3,(1-2) .ABFX;RR;LAD;J.D. Martinez;Jakob Junis;17%;83%;Double to RF (Line Drive to RF Line); Betts Scores; Muncy Scores
+b3;3-0;2;-2-;3,(1-1) CBX;O;LAD;James Outman;Jakob Junis;-2%;81%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Giants 0, Dodgers 3.
+Top of the 4th, Giants Batting, Behind 0-3, Dodgers' Clayton Kershaw facing 3-4-5 
+t4;0-3;0;---;2,(1-0) BX;O;SFG;J.D. Davis;Clayton Kershaw;2%;83%;Groundout: 3B-1B
+t4;0-3;1;---;3,(0-2) CCX;O;SFG;Wilmer Flores;Clayton Kershaw;2%;85%;Groundout: SS-1B (Deep SS-3B Hole)
+t4;0-3;2;---;1,(0-0) X;O;SFG;Mitch Haniger;Clayton Kershaw;1%;86%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Dodgers 3.
+Bottom of the 4th, Dodgers Batting, Ahead 3-0, Giants' Jakob Junis facing 6-7-8 
+b4;3-0;0;---;6,(3-2) CBBFBX;O;LAD;Miguel Rojas;Jakob Junis;-1%;84%;Flyball: RF (Deep CF-RF)
+b4;3-0;1;---;4,(1-2) FFBX;O;LAD;David Peralta;Jakob Junis;-1%;84%;Flyball: RF (Deep RF)
+b4;3-0;2;---;4,(1-2) CBF*S;O;LAD;Jason Heyward;Jakob Junis;-1%;83%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Dodgers 3.
+Top of the 5th, Giants Batting, Behind 0-3, Dodgers' Clayton Kershaw facing 6-7-8 
+t5;0-3;0;---;2,(1-0) BX;;SFG;Marco Luciano;Clayton Kershaw;-6%;77%;Double to RF (Line Drive to Deep RF)
+t5;0-3;0;-2-;7,(3-2) BFSB.F*B*B;;SFG;Luis Matos;Clayton Kershaw;-5%;73%;Walk
+t5;0-3;0;12-;4,(1-2) BFCS;O;SFG;Tyler Fitzgerald;Clayton Kershaw;6%;79%;Strikeout Swinging
+t5;0-3;1;12-;6,(1-2) CC*BFFX;O;SFG;Patrick Bailey;Clayton Kershaw;3%;82%;Groundout: 3B-1B (SS-3B Hole); Luciano to 3B; Matos to 2B
+t5;0-3;2;-23;2,(1-0) BX;O;SFG;Austin Slater;Clayton Kershaw;6%;88%;Lineout: LF
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Giants 0, Dodgers 3.
+Bottom of the 5th, Dodgers Batting, Ahead 3-0, Giants' Ross Stripling facing 9-1-2 
+;;;;;;;;;Ross Stripling replaces Jakob Junis pitching
+b5;3-0;0;---;3,(1-1) .TBX;;LAD;Austin Barnes;Ross Stripling;1%;89%;Single to 3B (Ground Ball)
+;;;;;;;;;Force Play Challenged by LAD manager (Dave Roberts): Original call overturned as shown.
+b5;3-0;0;1--;6,(3-2) CBC*B*B>B;;LAD;Mookie Betts;Ross Stripling;2%;92%;Walk; Barnes to 2B
+b5;3-0;0;12-;4,(1-2) FBFX;R;LAD;Freddie Freeman;Ross Stripling;5%;96%;Double to RF (Line Drive to Deep CF-RF); Barnes Scores; Betts to 3B
+b5;4-0;0;-23;3,(0-2) FSX;R;LAD;Max Muncy;Ross Stripling;1%;98%;Single to CF (Fly Ball); Betts Scores; Freeman to 3B
+b5;5-0;0;1-3;3,(1-1) BFX;O;LAD;J.D. Martinez;Ross Stripling;-1%;97%;Lineout: 2B
+b5;5-0;1;1-3;5,(1-2) FBCFS;O;LAD;James Outman;Ross Stripling;-1%;96%;Strikeout Swinging
+b5;5-0;2;1-3;3,(1-1) C*BX;O;LAD;Miguel Rojas;Ross Stripling;-1%;95%;Groundout: SS-2B/Forceout at 2B; Rojas to 1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Giants 0, Dodgers 5.
+Top of the 6th, Giants Batting, Behind 0-5, Dodgers' Joe Kelly facing 2-3-4 
+;;;;;;;;;Joe Kelly replaces Clayton Kershaw pitching
+t6;0-5;0;---;3,(0-2) .CF.S;O;SFG;Thairo Estrada;Joe Kelly;1%;96%;Strikeout Swinging
+t6;0-5;1;---;1,(0-0) X;O;SFG;J.D. Davis;Joe Kelly;1%;97%;Lineout: CF (Deep CF-RF)
+t6;0-5;2;---;7,(2-2) CCFFBBT;O;SFG;Wilmer Flores;Joe Kelly;0%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Dodgers 5.
+Bottom of the 6th, Dodgers Batting, Ahead 5-0, Giants' Ross Stripling facing 7-8-9 
+b6;5-0;0;---;2,(0-1) CX;O;LAD;David Peralta;Ross Stripling;0%;97%;Groundout: 2B-1B (2B-1B)
+b6;5-0;1;---;6,(1-2) CCFBFX;O;LAD;Jason Heyward;Ross Stripling;0%;97%;Groundout: 1B-P
+b6;5-0;2;---;2,(1-0) BX;O;LAD;Austin Barnes;Ross Stripling;0%;97%;Lineout: 2B (Deep SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Dodgers 5.
+Top of the 7th, Giants Batting, Behind 0-5, Dodgers' Michael Grove facing 5-6-7 
+;;;;;;;;;Michael Grove replaces Joe Kelly pitchingJoc Pederson pinch hits for Mitch Haniger (DH) batting 5th
+t7;0-5;0;---;4,(2-1) ..BBCX;O;SFG;Joc Pederson;Michael Grove;1%;98%;Foul Popfly: 1B (1B into Foul Terr.)
+t7;0-5;1;---;6,(3-2) SBSB.BC;O;SFG;Marco Luciano;Michael Grove;1%;98%;Strikeout Looking
+t7;0-5;2;---;2,(1-0) BX;O;SFG;Luis Matos;Michael Grove;0%;98%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Dodgers 5.
+Bottom of the 7th, Dodgers Batting, Ahead 5-0, Giants' Ross Stripling facing 1-2-3 
+b7;5-0;0;---;4,(1-2) .CFBX;;LAD;Mookie Betts;Ross Stripling;0%;99%;Double (Line Drive to Deep LF Line)
+b7;5-0;0;-2-;3,(0-2) SCX;;LAD;Freddie Freeman;Ross Stripling;0%;99%;Single to LF (Line Drive); Betts to 3B
+b7;5-0;0;1-3;4,(0-2) CSFS;O;LAD;Max Muncy;Ross Stripling;0%;99%;Strikeout Swinging
+b7;5-0;1;1-3;1,(0-0) X;O;LAD;J.D. Martinez;Ross Stripling;0%;98%;Flyball: RF (Short RF Line)
+b7;5-0;2;1-3;6,(2-2) >FBF1*BF>B;;LAD;James Outman;Ross Stripling;0%;98%;Freeman Steals 2B
+b7;5-0;2;-23;8,(3-2) >FBF1*BF>B.FB;;LAD;James Outman;Ross Stripling;0%;99%;Walk
+b7;5-0;2;123;3,(1-1) S*BX;O;LAD;Miguel Rojas;Ross Stripling;0%;98%;Lineout: CF
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Giants 0, Dodgers 5.
+Top of the 8th, Giants Batting, Behind 0-5, Dodgers' Michael Grove facing 8-9-1 
+;;;;;;;;;Mike Yastrzemski pinch hits for Tyler Fitzgerald (CF) batting 8th
+t8;0-5;0;---;11,(2-2) .CC.FFFFBFFB*S;O;SFG;Mike Yastrzemski;Michael Grove;1%;99%;Strikeout Swinging
+t8;0-5;1;---;5,(2-2) SBSBX;O;SFG;Patrick Bailey;Michael Grove;0%;99%;Flyball: CF (Deep CF)
+;;;;;;;;;Michael Conforto pinch hits for Austin Slater (LF) batting 1st
+t8;0-5;2;---;6,(3-2) .BBFF.BB;;SFG;Michael Conforto;Michael Grove;0%;99%;Walk
+t8;0-5;2;1--;3,(0-2) FS*S;O;SFG;Thairo Estrada;Michael Grove;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Giants 0, Dodgers 5.
+Bottom of the 8th, Dodgers Batting, Ahead 5-0, Giants' Ross Stripling facing 7-8-9 
+;;;;;;;;;Michael Conforto moves from PH to LF Mike Yastrzemski moves from PH to CF 
+b8;5-0;0;---;4,(1-2) ..FS.BX;;LAD;David Peralta;Ross Stripling;0%;100%;Double to RF (Line Drive to RF Line)
+b8;5-0;0;-2-;4,(1-2) S.CBS;O;LAD;Jason Heyward;Ross Stripling;0%;100%;Strikeout Swinging
+b8;5-0;1;-2-;5,(3-1) BBBFB;;LAD;Austin Barnes;Ross Stripling;0%;100%;Walk
+b8;5-0;1;12-;2,(0-1) CX;RR;LAD;Mookie Betts;Ross Stripling;0%;100%;Double to CF (Line Drive to Deep LF-CF); Peralta Scores; Barnes Scores
+b8;7-0;1;-2-;1,(0-0) X;O;LAD;Freddie Freeman;Ross Stripling;0%;100%;Flyball: CF (Deep LF-CF); Betts to 3B
+b8;7-0;2;--3;4,(1-2) FBSS;O;LAD;Max Muncy;Ross Stripling;0%;100%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Giants 0, Dodgers 7.
+Top of the 9th, Giants Batting, Behind 0-7, Dodgers' Caleb Ferguson facing 3-4-5 
+;;;;;;;;;Caleb Ferguson replaces Michael Grove pitching
+t9;0-7;0;---;8,(3-2) .SCBBBFFX;O;SFG;J.D. Davis;Caleb Ferguson;0%;100%;Groundout: SS-1B
+t9;0-7;1;---;4,(1-2) BSSX;O;SFG;Wilmer Flores;Caleb Ferguson;0%;100%;Flyball: CF (Deep CF)
+;;;;;;;;;Heliot Ramos pinch hits for Joc Pederson (DH) batting 5th
+t9;0-7;2;---;7,(3-2) .BCBFBFT;O;SFG;Heliot Ramos;Caleb Ferguson;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Giants 0, Dodgers 7.

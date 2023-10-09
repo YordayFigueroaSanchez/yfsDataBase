@@ -1,0 +1,261 @@
+
+Scorebox Meta
+20230923
+4:05 p.m. Local
+40388
+Citizens Bank Park
+151
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;0;2;0;0;0;0;3;0;0;5;9;1
+https://cdn.ssref.net/req/202310031/tlogo/br/PHI-2023.png;/teams/PHI/2023.shtml;0;2;1;0;3;0;1;0;X;7;11;1
+
+Batting home
+Kyle Schwarber;/players/s/schwaky01.shtml;LF;4;1;1;0;0;2;4;.198;.344;.473;.818;14;9;0.028; 0.80;0.080;-0.053; 0.00%; 0.06; 0.2;2;0;2B
+Trea Turner;/players/t/turnetr01.shtml;SS;4;1;0;1;0;1;4;.263;.317;.455;.772;11;8;0.025; 0.95;0.078;-0.053; 0.00%; 0.06; 0.4;1;1;
+Alec Bohm;/players/b/bohmal01.shtml;1B;4;2;2;1;0;1;4;.281;.336;.445;.781;17;12;0.096; 0.60;0.158;-0.061; 0.00%; 0.04; 0.5;3;0;HR,2B
+Bryce Harper;/players/h/harpebr03.shtml;DH;4;1;2;3;0;0;4;.292;.398;.492;.890;10;7;0.173; 0.93;0.208;-0.036; 0.01%; 0.07; 2.2;;;HR
+J.T. Realmuto;/players/r/realmjt01.shtml;C;4;1;2;1;0;0;4;.251;.308;.457;.765;15;10;0.110; 0.71;0.143;-0.034; 0.01%; 0.05; 1.2;9;1;SB,CS
+Nick Castellanos;/players/c/casteni01.shtml;RF;4;0;2;1;0;1;4;.275;.312;.480;.792;16;9;0.140; 0.75;0.171;-0.031; 0.01%; 0.05; 1.1;0;0;3B
+Edmundo Sosa;/players/s/sosaed01.shtml;3B;4;0;0;0;0;2;4;.251;.293;.425;.718;14;11;-0.083; 0.51;0.000;-0.083;-0.00%; 0.04; -1.6;3;1;GDP
+Johan Rojas;/players/r/rojasjo03.shtml;CF;4;1;1;0;0;3;4;.299;.338;.425;.763;19;13;-0.035; 0.64;0.033;-0.068;-0.00%; 0.04; -0.5;7;0;
+Rodolfo Castro;/players/c/castrro01.shtml;2B;3;0;1;0;0;1;3;.217;.304;.330;.634;14;8;-0.068; 0.94;0.003;-0.070;-0.00%; 0.06; -0.6;2;2;
+Zack Wheeler;/players/w/wheelza01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gregory Soto;/players/s/sotogr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Alvarado;/players/a/alvarjo03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Kyle Schwarber (19, off José Quintana); Alec Bohm (31, off Reed Garrett).
+
+
+3B: Nick Castellanos (2, off José Quintana).
+
+
+HR: Bryce Harper (20, off José Quintana, 2nd inn, 0 on, 0 outs to Deep CF-RF); Alec Bohm (19, off José Quintana, 3rd inn, 0 on, 2 outs to Deep LF-CF).
+
+
+TB: Alec Bohm 6; Bryce Harper 5; Nick Castellanos 4; Kyle Schwarber 2; J.T. Realmuto 2; Rodolfo Castro; Johan Rojas.
+
+
+GIDP: Edmundo Sosa (8).
+
+
+RBI: Bryce Harper 3 (69); Nick Castellanos (104); Alec Bohm (95); J.T. Realmuto (61); Trea Turner (76).
+
+
+2-out RBI: Bryce Harper 2; Alec Bohm; J.T. Realmuto.
+
+
+Team LOB: 4.
+With RISP: 2 for 9.
+
+Batting away
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;5;1;1;2;0;2;5;.271;.361;.466;.827;15;13;0.038; 1.14;0.145;-0.106;0%; 0.00; 1.1;2;0;3B
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;0;1;1;0;0;5;.251;.330;.454;.783;18;16;-0.023; 1.01;0.040;-0.063;0%; 0.00; 0.0;0;1;SF
+Jeff McNeil;/players/m/mcneije01.shtml;LF;4;0;2;0;0;0;4;.272;.336;.381;.717;11;9;-0.017; 0.87;0.041;-0.059;0%; 0.00; 0.0;1;0;
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;0;0;0;0;1;4;.218;.320;.510;.830;16;9;-0.146; 1.19;0.000;-0.146;0%; 0.00; -1.4;5;0;GDP
+DJ Stewart;/players/s/stewadj01.shtml;RF;1;1;0;0;2;1;4;.262;.352;.553;.905;20;7;0.079; 1.08;0.129;-0.050;0%; 0.00; 0.5;0;0;CS,HBP
+Ronny Mauricio;/players/m/mauriro01.shtml;2B;4;1;1;0;0;2;4;.260;.308;.342;.650;11;10;-0.049; 1.46;0.057;-0.106;0%; 0.00; -0.3;4;1;
+Brett Baty;/players/b/batybr01.shtml;3B;4;1;2;0;0;1;4;.216;.283;.332;.616;15;7;0.156; 1.32;0.192;-0.037;0%; 0.00; 1.7;1;3;
+Mark Vientos;/players/v/vientma01.shtml;DH;4;1;1;0;0;1;4;.222;.261;.379;.639;11;8;-0.080; 1.55;0.050;-0.129;0%; 0.00; -0.4;;;
+Omar Narváez;/players/n/narvaom01.shtml;C;3;0;1;0;0;1;3;.198;.275;.264;.540;8;8;-0.033; 1.22;0.036;-0.069;0%; 0.00; -0.6;11;1;
+Francisco Alvarez;/players/a/alvarfr01.shtml;PH;1;0;0;0;0;0;1;.212;.285;.432;.717;6;4;-0.040; 1.53;0.000;-0.040;0%; 0.00; -0.2;;;
+José Quintana;/players/q/quintjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Reed Garrett;/players/g/garrere01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+3B: Brandon Nimmo (6, off Zack Wheeler).
+
+
+SF: Francisco Lindor (7, off Zack Wheeler).
+
+
+HBP: DJ Stewart (6, by Zack Wheeler).
+
+
+TB: Brandon Nimmo 3; Jeff McNeil 2; Brett Baty 2; Mark Vientos; Omar Narváez; Ronny Mauricio; Francisco Lindor.
+
+
+GIDP: Pete Alonso (17).
+
+
+RBI: Brandon Nimmo 2 (66); Francisco Lindor (90).
+
+
+Team LOB: 6.
+With RISP: 1 for 4.
+
+Pitching home
+Zack Wheeler;/players/w/wheelza01.shtml; W (13-6); 7 ;8;5;3;1;6;0;3.64;30;99;71;41;14;16;8;14;4;0;50;;;-0.039; 1.14;-0.00%; 0.08; -1.4
+Gregory Soto;/players/s/sotogr01.shtml; H (23); 1 ;1;0;0;1;2;0;4.78;5;18;9;3;5;1;0;2;1;0;;0;0;0.077; 1.68; 0.00%; 0.12; 0.5
+José Alvarado;/players/a/alvarjo03.shtml; S (10); 1 ;0;0;0;0;1;0;1.83;3;14;11;5;2;4;0;2;1;0;;0;0;0.077; 0.99; 0.00%; 0.07; 0.5
+
+Pitching away
+José Quintana;/players/q/quintjo01.shtml; L (3-6); 6 ;8;6;5;0;10;2;3.39;28;103;70;37;11;22;8;10;3;0;44;;;-0.327; 0.80; 0.00%; 0.00; -2.9
+Reed Garrett;/players/g/garrere01.shtml;Reed Garrett; 2 ;3;1;1;0;1;0;7.56;7;27;18;9;4;5;2;4;4;0;;0;0;-0.059; 0.61; 0.00%; 0.00; 0.0
+
+indiv_events
+
+Balks: None.
+WP: José Quintana (2).
+HBP: Zack Wheeler (9; DJ Stewart).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: José Quintana (2).
+HBP: Zack Wheeler (9; DJ Stewart).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Doug Eddings, 1B - Edwin Jimenez, 2B - Marvin Hudson, 3B - Ryan Blakney, LF - (none), RF - (none).
+Time of Game: 2:31.
+Attendance: 40,388.
+Field Condition: Unknown.
+Start Time Weather: 61° F, Wind 19mph in from Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Francisco Lindor;/players/l/lindofr01.shtml;SS
+3;Jeff McNeil;/players/m/mcneije01.shtml;LF
+4;Pete Alonso;/players/a/alonspe01.shtml;1B
+5;DJ Stewart;/players/s/stewadj01.shtml;RF
+6;Ronny Mauricio;/players/m/mauriro01.shtml;2B
+7;Brett Baty;/players/b/batybr01.shtml;3B
+8;Mark Vientos;/players/v/vientma01.shtml;DH
+9;Omar Narváez;/players/n/narvaom01.shtml;C
+; José Quintana;/players/q/quintjo01.shtml;P
+Phillies
+1;Kyle Schwarber;/players/s/schwaky01.shtml;LF
+2;Trea Turner;/players/t/turnetr01.shtml;SS
+3;Alec Bohm;/players/b/bohmal01.shtml;1B
+4;Bryce Harper;/players/h/harpebr03.shtml;DH
+5;J.T. Realmuto;/players/r/realmjt01.shtml;C
+6;Nick Castellanos;/players/c/casteni01.shtml;RF
+7;Edmundo Sosa;/players/s/sosaed01.shtml;3B
+8;Johan Rojas;/players/r/rojasjo03.shtml;CF
+9;Rodolfo Castro;/players/c/castrro01.shtml;2B
+; Zack Wheeler;/players/w/wheelza01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b2;1-2;0;1--;3,(0-2) CF.X;R;PHI;Nick Castellanos;José Quintana;16%;65%;Triple to CF (Line Drive to Deep LF-CF); Realmuto Scores/unER
+t7;2-6;1;12-;3,(0-2) FCX;RR;NYM;Brandon Nimmo;Zack Wheeler;-14%;76%;Triple to CF (Line Drive to Deep CF); Baty Scores; Vientos Scores
+t2;0-0;0;12-;5,(3-1) BBCBX;RR;NYM;Brett Baty;Zack Wheeler;-13%;28%;Fielder's Choice SS; Stewart Scores/No RBI/unER; Mauricio Scores/Adv on E6/No RBI/unER; Baty to 1B
+b3;2-2;2;---;2,(0-1) CX;R;PHI;Alec Bohm;José Quintana;12%;63%;Home Run (Fly Ball to Deep LF-CF)
+b5;4-2;2;-23;1,(0-0) X;RR;PHI;Bryce Harper;José Quintana;11%;92%;Single to 1B (Ground Ball to 2B-1B); Schwarber Scores; Turner Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Mets Batting, Tied 0-0, Phillies' Zack Wheeler facing 1-2-3 
+t1;0-0;0;---;5,(2-2) CBBCS;O;NYM;Brandon Nimmo;Zack Wheeler;2%;52%;Strikeout Swinging
+t1;0-0;1;---;5,(1-2) BCS.FX;O;NYM;Francisco Lindor;Zack Wheeler;2%;54%;Popfly: 3B (Weak SS)
+t1;0-0;2;---;1,(0-0) X;;NYM;Jeff McNeil;Zack Wheeler;-1%;53%;Single to RF (Line Drive to CF-RF)
+t1;0-0;2;1--;4,(1-2) CBF.X;O;NYM;Pete Alonso;Zack Wheeler;2%;55%;Groundout: SS-2B/Forceout at 2B; Alonso to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 0, Phillies 0.
+Bottom of the 1st, Phillies Batting, Tied 0-0, Mets' José Quintana facing 1-2-3 
+b1;0-0;0;---;6,(2-2) CBCBFC;O;PHI;Kyle Schwarber;José Quintana;-2%;53%;Strikeout Looking
+b1;0-0;1;---;1,(0-0) X;O;PHI;Trea Turner;José Quintana;-2%;51%;Flyball: CF (Deep CF)
+b1;0-0;2;---;6,(2-2) FFFBBC;O;PHI;Alec Bohm;José Quintana;-1%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 0, Phillies 0.
+Top of the 2nd, Mets Batting, Tied 0-0, Phillies' Zack Wheeler facing 5-6-7 
+t2;0-0;0;---;7,(3-2) BCS.BFBB;;NYM;DJ Stewart;Zack Wheeler;-4%;46%;Walk
+t2;0-0;0;1--;2,(0-1) SX;;NYM;Ronny Mauricio;Zack Wheeler;-6%;41%;Single to RF (Ground Ball thru 2B-1B); Stewart to 2B
+t2;0-0;0;12-;5,(3-1) BBCBX;RR;NYM;Brett Baty;Zack Wheeler;-13%;28%;Fielder's Choice SS; Stewart Scores/No RBI/unER; Mauricio Scores/Adv on E6/No RBI/unER; Baty to 1B
+t2;2-0;0;1--;2,(1-0) BX;O;NYM;Mark Vientos;Zack Wheeler;3%;30%;Flyball: CF
+t2;2-0;1;1--;3,(0-2) CFC;O;NYM;Omar Narváez;Zack Wheeler;2%;32%;Strikeout Looking
+t2;2-0;2;1--;2,(0-1) FX;O;NYM;Brandon Nimmo;Zack Wheeler;2%;34%;Flyball: CF (CF-RF)
+;;;;;;;;;2 runs, 1 hit, 1 error, 1 LOB. Mets 2, Phillies 0.
+Bottom of the 2nd, Phillies Batting, Behind 0-2, Mets' José Quintana facing 4-5-6 
+b2;0-2;0;---;7,(3-2) BBCFBFX;R;PHI;Bryce Harper;José Quintana;10%;44%;Home Run (Fly Ball to Deep CF-RF)
+b2;1-2;0;---;3,(0-2) CSX;;PHI;J.T. Realmuto;José Quintana;4%;48%;Reached on E6 (Ground Ball); Realmuto to 1B
+b2;1-2;0;1--;3,(0-2) CF.X;R;PHI;Nick Castellanos;José Quintana;16%;65%;Triple to CF (Line Drive to Deep LF-CF); Realmuto Scores/unER
+b2;2-2;0;--3;6,(2-2) .B*BCCFS;O;PHI;Edmundo Sosa;José Quintana;-5%;60%;Strikeout Swinging
+b2;2-2;1;--3;4,(1-2) CSBS;O;PHI;Johan Rojas;José Quintana;-6%;54%;Strikeout Swinging
+b2;2-2;2;--3;4,(2-1) *BBCX;O;PHI;Rodolfo Castro;José Quintana;-4%;50%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;2 runs, 2 hits, 1 error, 1 LOB. Mets 2, Phillies 2.
+Top of the 3rd, Mets Batting, Tied 2-2, Phillies' Zack Wheeler facing 2-3-4 
+t3;2-2;0;---;4,(0-2) CFFX;;NYM;Francisco Lindor;Zack Wheeler;-4%;46%;Single to RF (Ground Ball thru 2B-1B)
+t3;2-2;0;1--;1,(0-0) X;O;NYM;Jeff McNeil;Zack Wheeler;4%;50%;Foul Popfly: 3B (3B into Foul Terr.)
+t3;2-2;1;1--;3,(2-0) BBX;OO;NYM;Pete Alonso;Zack Wheeler;6%;56%;Ground Ball Double Play: 3B-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Mets 2, Phillies 2.
+Bottom of the 3rd, Phillies Batting, Tied 2-2, Mets' José Quintana facing 1-2-3 
+b3;2-2;0;---;1,(0-0) X;O;PHI;Kyle Schwarber;José Quintana;-3%;53%;Foul Popfly: 3B
+b3;2-2;1;---;4,(1-2) CBSS;O;PHI;Trea Turner;José Quintana;-2%;51%;Strikeout Swinging
+b3;2-2;2;---;2,(0-1) CX;R;PHI;Alec Bohm;José Quintana;12%;63%;Home Run (Fly Ball to Deep LF-CF)
+b3;3-2;2;---;1,(0-0) X;O;PHI;Bryce Harper;José Quintana;-1%;62%;Groundout: SS-1B (Deep SS-2B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Mets 2, Phillies 3.
+Top of the 4th, Mets Batting, Behind 2-3, Phillies' Zack Wheeler facing 5-6-7 
+t4;2-3;0;---;4,(2-1) BBSH;;NYM;DJ Stewart;Zack Wheeler;-5%;58%;Hit By Pitch
+t4;2-3;0;1--;3,(1-1) FB.X;O;NYM;Ronny Mauricio;Zack Wheeler;4%;62%;Foul Popfly: 3B (3B into Foul Terr.)
+t4;2-3;1;1--;6,(3-2) BBBCS.>S;OO;NYM;Brett Baty;Zack Wheeler;7%;69%;Double Play: Strikeout Swinging, Stewart Caught Stealing 2B (C-SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 2, Phillies 3.
+Bottom of the 4th, Phillies Batting, Ahead 3-2, Mets' José Quintana facing 5-6-7 
+b4;3-2;0;---;5,(2-2) FBFBX;O;PHI;J.T. Realmuto;José Quintana;-2%;66%;Lineout: 2B (SS-2B)
+b4;3-2;1;---;2,(1-0) BX;O;PHI;Nick Castellanos;José Quintana;-2%;65%;Flyball: CF
+b4;3-2;2;---;5,(1-2) FBFFC;O;PHI;Edmundo Sosa;José Quintana;-1%;64%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 2, Phillies 3.
+Top of the 5th, Mets Batting, Behind 2-3, Phillies' Zack Wheeler facing 8-9-1 
+t5;2-3;0;---;3,(1-1) SBX;O;NYM;Mark Vientos;Zack Wheeler;3%;67%;Groundout: 2B-1B (SS-2B)
+t5;2-3;1;---;3,(0-2) FCX;;NYM;Omar Narváez;Zack Wheeler;-4%;63%;Single to 3B (Ground Ball to Weak 3B)
+t5;2-3;1;1--;1,(0-0) X;O;NYM;Brandon Nimmo;Zack Wheeler;4%;67%;Flyball: CF (Deep LF-CF)
+t5;2-3;2;1--;2,(0-1) FX;O;NYM;Francisco Lindor;Zack Wheeler;3%;71%;Flyball: CF (CF-RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 2, Phillies 3.
+Bottom of the 5th, Phillies Batting, Ahead 3-2, Mets' José Quintana facing 8-9-1 
+b5;3-2;0;---;2,(0-1) CX;;PHI;Johan Rojas;José Quintana;3%;74%;Single to 3B (Ground Ball to Weak 3B)
+b5;3-2;0;1--;5,(2-2) B1FBF.S;O;PHI;Rodolfo Castro;José Quintana;-3%;71%;Strikeout Swinging
+b5;3-2;1;1--;1,(0-0) X;;PHI;Kyle Schwarber;José Quintana;8%;79%;Double to CF (Fly Ball to Deep LF-CF); Rojas to 3B
+b5;3-2;1;-23;1,(0-0) X;R;PHI;Trea Turner;José Quintana;7%;86%;Fielder's Choice SS; Rojas Scores; Schwarber to 3B; Turner to 1B
+b5;4-2;1;1-3;3,(0-2) SCB;;PHI;Alec Bohm;José Quintana;1%;87%;Wild Pitch; Turner to 2B
+b5;4-2;1;-23;6,(2-2) SCB.BFX;O;PHI;Alec Bohm;José Quintana;-5%;82%;Groundout: 3B-1B (SS-3B Hole)
+b5;4-2;2;-23;1,(0-0) X;RR;PHI;Bryce Harper;José Quintana;11%;92%;Single to 1B (Ground Ball to 2B-1B); Schwarber Scores; Turner Scores
+b5;6-2;2;1--;2,(1-0) BX;;PHI;J.T. Realmuto;José Quintana;1%;93%;Single to RF (Line Drive to CF-RF); Harper to 3B
+b5;6-2;2;1-3;5,(2-2) C*BBF.>B;;PHI;Nick Castellanos;José Quintana;0%;93%;Realmuto Steals 2B
+b5;6-2;2;-23;6,(3-2) C*BBF.>B.S;O;PHI;Nick Castellanos;José Quintana;-2%;92%;Strikeout Swinging
+;;;;;;;;;3 runs, 4 hits, 0 errors, 2 LOB. Mets 2, Phillies 6.
+Top of the 6th, Mets Batting, Behind 2-6, Phillies' Zack Wheeler facing 3-4-5 
+t6;2-6;0;---;8,(2-2) BFSBF.FFX;;NYM;Jeff McNeil;Zack Wheeler;-3%;89%;Single to 2B (Ground Ball)
+t6;2-6;0;1--;4,(1-2) BC1FS;O;NYM;Pete Alonso;Zack Wheeler;3%;92%;Strikeout Swinging
+t6;2-6;1;1--;5,(2-2) BFBSS;O;NYM;DJ Stewart;Zack Wheeler;2%;94%;Strikeout Swinging
+t6;2-6;2;1--;3,(0-2) CFS;O;NYM;Ronny Mauricio;Zack Wheeler;1%;95%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 2, Phillies 6.
+Bottom of the 6th, Phillies Batting, Ahead 6-2, Mets' José Quintana facing 7-8-9 
+b6;6-2;0;---;1,(0-0) X;O;PHI;Edmundo Sosa;José Quintana;0%;95%;Flyball: LF (Deep LF-CF)
+b6;6-2;1;---;7,(3-2) BC.BFBFS;O;PHI;Johan Rojas;José Quintana;0%;94%;Strikeout Swinging
+b6;6-2;2;---;5,(2-2) CBS.BX;;PHI;Rodolfo Castro;José Quintana;0%;95%;Single to P (Ground Ball to Weak 3B)
+b6;6-2;2;1--;6,(3-2) BC1C*BB>C;O;PHI;Kyle Schwarber;José Quintana;-1%;94%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mets 2, Phillies 6.
+Top of the 7th, Mets Batting, Behind 2-6, Phillies' Zack Wheeler facing 7-8-9 
+t7;2-6;0;---;2,(1-0) BX;;NYM;Brett Baty;Zack Wheeler;-3%;91%;Single to RF (Line Drive to Short CF-RF)
+t7;2-6;0;1--;2,(0-1) CX;;NYM;Mark Vientos;Zack Wheeler;-5%;86%;Single to LF (Line Drive to LF-CF); Baty to 2B
+t7;2-6;0;12-;2,(0-1) CX;O;NYM;Omar Narváez;Zack Wheeler;5%;91%;Flyball: CF (Deep CF)
+t7;2-6;1;12-;3,(0-2) FCX;RR;NYM;Brandon Nimmo;Zack Wheeler;-14%;76%;Triple to CF (Line Drive to Deep CF); Baty Scores; Vientos Scores
+t7;4-6;1;--3;3,(0-2) FS.X;RO;NYM;Francisco Lindor;Zack Wheeler;0%;77%;Foul Popfly: LF/Sacrifice Fly (Short LF into Foul Terr.); Nimmo Scores
+t7;5-6;2;---;1,(0-0) X;O;NYM;Jeff McNeil;Zack Wheeler;2%;79%;Flyball: CF (Deep CF)
+;;;;;;;;;3 runs, 3 hits, 0 errors, 0 LOB. Mets 5, Phillies 6.
+Bottom of the 7th, Phillies Batting, Ahead 6-5, Mets' Reed Garrett facing 2-3-4 
+;;;;;;;;;Reed Garrett replaces José Quintana pitching
+b7;6-5;0;---;5,(2-2) .CSBBX;O;PHI;Trea Turner;Reed Garrett;-2%;77%;Lineout: 2B
+b7;6-5;1;---;3,(1-1) BCX;;PHI;Alec Bohm;Reed Garrett;4%;81%;Double to RF (Line Drive to Deep RF Line)
+b7;6-5;1;-2-;1,(0-0) X;O;PHI;Bryce Harper;Reed Garrett;-3%;78%;Groundout: 1B unassisted; Bohm to 3B
+b7;6-5;2;--3;5,(2-2) BBCFX;R;PHI;J.T. Realmuto;Reed Garrett;9%;87%;Single to CF (Line Drive to CF-RF); Bohm Scores
+b7;7-5;2;1--;1,(0-0) >C;O;PHI;Nick Castellanos;Reed Garrett;-1%;86%;Realmuto Caught Stealing 2B (C-2B)
+;;;;;;;;;Tag play Challenged by NYM manager (Buck Showalter): Original call overturned as shown.
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Mets 5, Phillies 7.
+Top of the 8th, Mets Batting, Behind 5-7, Phillies' Gregory Soto facing 4-5-6 
+;;;;;;;;;Gregory Soto replaces Zack Wheeler pitching
+t8;5-7;0;---;5,(3-1) .BBFBX;O;NYM;Pete Alonso;Gregory Soto;4%;90%;Foul Popfly: 1B (1B into Foul Terr.)
+t8;5-7;1;---;4,(3-0) BBBB;;NYM;DJ Stewart;Gregory Soto;-5%;85%;Walk
+t8;5-7;1;1--;3,(0-2) CSS;O;NYM;Ronny Mauricio;Gregory Soto;5%;90%;Strikeout Swinging
+t8;5-7;2;1--;2,(1-0) BX;;NYM;Brett Baty;Gregory Soto;-3%;87%;Single to LF (Line Drive); Stewart to 2B
+t8;5-7;2;12-;4,(1-2) S.BS*S;O;NYM;Mark Vientos;Gregory Soto;7%;94%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Mets 5, Phillies 7.
+Bottom of the 8th, Phillies Batting, Ahead 7-5, Mets' Reed Garrett facing 6-7-8 
+b8;7-5;0;---;4,(2-1) SBB.X;;PHI;Nick Castellanos;Reed Garrett;1%;95%;Single to CF (Line Drive)
+b8;7-5;0;1--;2,(0-1) SX;OO;PHI;Edmundo Sosa;Reed Garrett;-2%;93%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b8;7-5;2;---;6,(2-2) CF.FBBS;O;PHI;Johan Rojas;Reed Garrett;0%;92%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Mets 5, Phillies 7.
+Top of the 9th, Mets Batting, Behind 5-7, Phillies' José Alvarado facing 9-1-2 
+;;;;;;;;;José Alvarado replaces Gregory Soto pitchingFrancisco Alvarez pinch hits for Omar Narváez (C) batting 9th
+t9;5-7;0;---;6,(2-2) ..CBB.SFX;O;NYM;Francisco Alvarez;José Alvarado;4%;96%;Flyball: CF (Deep CF-RF)
+t9;5-7;1;---;4,(0-2) CFFC;O;NYM;Brandon Nimmo;José Alvarado;2%;99%;Strikeout Looking
+t9;5-7;2;---;4,(1-2) CSBX;O;NYM;Francisco Lindor;José Alvarado;1%;100%;Lineout: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mets 5, Phillies 7.

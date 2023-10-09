@@ -1,0 +1,255 @@
+
+Scorebox Meta
+20230922
+1:20 p.m. Local
+32150
+Wrigley Field
+158
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;0;0;0;0;0;0;0;0;0;6;0
+https://cdn.ssref.net/req/202310031/tlogo/br/CHC-2023.png;/teams/CHC/2023.shtml;1;0;0;2;0;2;1;0;X;6;7;0
+
+Batting home
+Mike Tauchman;/players/t/tauchmi01.shtml;CF;2;1;1;0;1;0;4;.256;.364;.373;.737;14;7;0.051; 0.59;0.068;-0.018; 0.05%; 1.02; 0.8;1;0;HBP
+Pete Crow-Armstrong;/players/c/crowape01.shtml;PR-CF;0;1;0;0;0;0;0;.000;.182;.000;.182;;;0.001; 0.08;0.001;0.000; 0.00%; 0.14; 0.2;0;0;SB
+Nico Hoerner;/players/h/hoernni01.shtml;2B;4;0;0;0;0;0;4;.284;.346;.388;.734;11;7;-0.051; 0.78;0.010;-0.061;-0.05%; 1.36; -1.1;4;3;SB
+Ian Happ;/players/h/happia01.shtml;LF;3;0;0;0;1;1;4;.246;.361;.424;.785;19;10;-0.018; 0.67;0.019;-0.037;-0.02%; 1.16; -0.6;3;0;
+Cody Bellinger;/players/b/bellico01.shtml;1B;2;0;0;0;1;1;4;.309;.358;.538;.896;19;9;0.019; 0.79;0.057;-0.037; 0.02%; 1.38; 0.3;6;0;HBP
+Dansby Swanson;/players/s/swansda01.shtml;SS;3;1;1;1;1;0;4;.250;.329;.427;.756;20;10;-0.038; 0.94;0.041;-0.079;-0.04%; 1.63; 0.3;3;5;
+Seiya Suzuki;/players/s/suzukse01.shtml;RF;4;2;3;3;0;1;4;.281;.351;.484;.835;12;9;0.175; 1.09;0.177;-0.002; 0.18%; 1.89; 1.6;0;0;HR
+Jared Young;/players/y/youngja02.shtml;DH;3;1;1;2;0;1;3;.205;.279;.513;.792;8;6;0.029; 0.55;0.062;-0.032; 0.03%; 0.96; 1.2;;;HR
+Alexander Canario;/players/c/canaral01.shtml;PH-DH-DH;1;0;0;0;0;1;1;.333;.333;1.000;1.333;5;4;0.000; 0.01;0.000;0.000;0%; 0.02; -0.3;;;
+Miles Mastrobuoni;/players/m/mastrmi01.shtml;3B;4;0;1;0;0;2;4;.237;.310;.307;.617;19;12;0.001; 0.29;0.018;-0.017; 0.00%; 0.50; -0.2;1;1;SB
+Miguel Amaya;/players/a/amayami01.shtml;C;4;0;0;0;0;0;4;.220;.338;.370;.708;20;12;-0.026; 0.26;0.000;-0.026;-0.03%; 0.45; -0.7;9;0;
+Jameson Taillon;/players/t/taillja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Drew Smyly;/players/s/smylydr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Hayden Wesneski;/players/w/wesneha01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Seiya Suzuki (20, off Noah Davis, 4th inn, 1 on, 0 outs to Deep LF); Jared Young (2, off Gavin Hollowell, 6th inn, 1 on, 1 out to Deep CF-RF).
+
+
+HBP: Cody Bellinger (5, by Noah Davis); Mike Tauchman (4, by Brent Suter).
+
+
+TB: Seiya Suzuki 6; Jared Young 4; Dansby Swanson; Mike Tauchman; Miles Mastrobuoni.
+
+
+RBI: Seiya Suzuki 3 (70); Jared Young 2 (8); Dansby Swanson (80).
+
+
+2-out RBI: Seiya Suzuki; Dansby Swanson.
+
+
+Team LOB: 6.
+With RISP: 2 for 7.
+
+Batting away
+Charlie Blackmon;/players/b/blackch02.shtml;RF;3;0;0;0;2;1;5;.281;.373;.440;.813;28;15;0.016; 0.61;0.058;-0.042;0%; 0.00; 0.0;3;0;
+Brendan Rodgers;/players/r/rodgebr02.shtml;2B;3;0;1;0;1;1;4;.252;.316;.331;.647;15;9;-0.022; 0.96;0.054;-0.076;0%; 0.00; -0.8;2;3;GDP
+Nolan Jones;/players/j/jonesno01.shtml;LF;2;0;0;0;2;1;4;.284;.375;.521;.896;18;9;0.008; 0.87;0.043;-0.034;0%; 0.00; -0.1;2;1;
+Kris Bryant;/players/b/bryankr01.shtml;1B;4;0;0;0;0;1;4;.239;.321;.373;.694;12;10;-0.118; 1.15;0.000;-0.118;0%; 0.00; -1.4;5;0;
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;4;0;1;0;0;1;4;.247;.329;.443;.772;21;11;-0.096; 0.93;0.001;-0.097;0%; 0.00; -0.8;2;1;
+Elias Díaz;/players/d/diazel01.shtml;C;4;0;2;0;0;2;4;.271;.318;.417;.735;15;12;0.032; 0.63;0.060;-0.027;0%; 0.00; 0.0;8;0;
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;3;0;1;0;1;0;4;.257;.291;.415;.707;14;9;-0.023; 0.89;0.049;-0.072;0%; 0.00; 0.1;0;1;GDP
+Elehuris Montero;/players/m/monteel01.shtml;DH;4;0;0;0;0;1;4;.238;.286;.393;.679;10;9;-0.085; 0.88;0.000;-0.085;0%; 0.00; -1.7;;;GDP
+Brenton Doyle;/players/d/doylebr02.shtml;CF;3;0;1;0;1;1;4;.193;.245;.327;.572;15;9;-0.070; 0.83;0.011;-0.082;0%; 0.00; -0.2;2;0;2B
+Noah Davis;/players/d/davisno01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Gavin Hollowell;/players/h/holloga01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brent Suter;/players/s/suterbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Victor Vodnik;/players/v/vodnivi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Brenton Doyle (14, off Hayden Wesneski).
+
+
+TB: Brenton Doyle 2; Elias Díaz 2; Ezequiel Tovar; Ryan McMahon; Brendan Rodgers.
+
+
+GIDP: Elehuris Montero (5); Ezequiel Tovar (10); Brendan Rodgers (3).
+
+
+Team LOB: 10.
+With RISP: 0 for 7.
+
+Pitching home
+Jameson Taillon;/players/t/taillja01.shtml; W (8-10); 6 ;4;0;0;4;7;0;5.05;25;101;66;37;12;17;6;8;1;0;67;;;0.328; 1.14; 0.34%; 1.99; 3.3
+Drew Smyly;/players/s/smylydr01.shtml;Drew Smyly; 2 ;1;0;0;2;2;0;4.92;8;30;17;8;3;6;2;2;2;0;;0;0;0.027; 0.30; 0.03%; 0.53; 1.1
+Hayden Wesneski;/players/w/wesneha01.shtml;Hayden Wesneski; 1 ;1;0;0;1;0;0;4.85;4;17;10;4;3;3;1;2;2;0;;0;0;0.003; 0.09; 0.00%; 0.16; 0.5
+
+Pitching away
+Noah Davis;/players/d/davisno01.shtml; L (0-3); 5 ;4;3;3;3;4;1;8.77;22;93;56;33;7;16;7;7;2;0;48;;;-0.079; 0.94; 0.00%; 0.00; -0.3
+Gavin Hollowell;/players/h/holloga01.shtml;Gavin Hollowell; 1 ;2;2;2;0;0;1;5.46;5;20;11;6;1;4;0;5;1;0;;0;0;-0.058; 0.23; 0.00%; 0.00; -1.5
+Brent Suter;/players/s/suterbr01.shtml;Brent Suter; 1 ;1;1;1;1;1;0;3.56;6;22;11;5;1;5;2;1;0;0;;0;0;-0.006; 0.09; 0.00%; 0.00; -0.5
+Victor Vodnik;/players/v/vodnivi01.shtml;Victor Vodnik; 1 ;0;0;0;0;2;0;13.50;3;12;8;4;3;1;0;1;0;0;;0;0;0.001; 0.01; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Jameson Taillon (2).
+HBP: Noah Davis (2; Cody Bellinger); Brent Suter (3; Mike Tauchman).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Jameson Taillon (2).
+HBP: Noah Davis (2; Cody Bellinger); Brent Suter (3; Mike Tauchman).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Dan Iassogna, 1B - Adam Beck, 2B - Gabe Morales, 3B - Alex MacKay, LF - (none), RF - (none).
+Time of Game: 2:38.
+Attendance: 32,150.
+Field Condition: Unknown.
+Start Time Weather: 74° F, Wind 6mph in from Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Rockies
+1;Charlie Blackmon;/players/b/blackch02.shtml;RF
+2;Brendan Rodgers;/players/r/rodgebr02.shtml;2B
+3;Nolan Jones;/players/j/jonesno01.shtml;LF
+4;Kris Bryant;/players/b/bryankr01.shtml;1B
+5;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+6;Elias Díaz;/players/d/diazel01.shtml;C
+7;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+8;Elehuris Montero;/players/m/monteel01.shtml;DH
+9;Brenton Doyle;/players/d/doylebr02.shtml;CF
+; Noah Davis;/players/d/davisno01.shtml;P
+Cubs
+1;Mike Tauchman;/players/t/tauchmi01.shtml;CF
+2;Nico Hoerner;/players/h/hoernni01.shtml;2B
+3;Ian Happ;/players/h/happia01.shtml;LF
+4;Cody Bellinger;/players/b/bellico01.shtml;1B
+5;Dansby Swanson;/players/s/swansda01.shtml;SS
+6;Seiya Suzuki;/players/s/suzukse01.shtml;RF
+7;Jared Young;/players/y/youngja02.shtml;DH
+8;Miles Mastrobuoni;/players/m/mastrmi01.shtml;3B
+9;Miguel Amaya;/players/a/amayami01.shtml;C
+; Jameson Taillon;/players/t/taillja01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b4;1-0;0;1--;4,(2-1) CBBX;RR;CHC;Seiya Suzuki;Noah Davis;14%;85%;Home Run (Fly Ball to Deep LF); Swanson Scores
+b1;0-0;1;123;6,(3-2) BBBCF.X;O;CHC;Dansby Swanson;Noah Davis;-7%;57%;Popfly: 2B (2B-1B)
+b6;3-0;1;1--;2,(1-0) BX;RR;CHC;Jared Young;Gavin Hollowell;6%;97%;Home Run (Fly Ball to Deep CF-RF); Suzuki Scores
+t4;0-1;1;12-;3,(0-2) CFS;O;COL;Elehuris Montero;Jameson Taillon;6%;63%;Strikeout Swinging
+b1;0-0;1;12-;4,(1-2) CSBH;;CHC;Cody Bellinger;Noah Davis;6%;64%;Hit By Pitch; Tauchman to 3B; Happ to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Rockies Batting, Tied 0-0, Cubs' Jameson Taillon facing 1-2-3 
+t1;0-0;0;---;7,(2-2) CCBFBFS;O;COL;Charlie Blackmon;Jameson Taillon;2%;52%;Strikeout Swinging
+t1;0-0;1;---;6,(3-2) BFBS.BB;;COL;Brendan Rodgers;Jameson Taillon;-2%;50%;Walk
+t1;0-0;1;1--;2,(1-0) BB;;COL;Nolan Jones;Jameson Taillon;-1%;48%;Wild Pitch; Rodgers to 2B
+t1;0-0;1;-2-;5,(3-1) BB.BCB;;COL;Nolan Jones;Jameson Taillon;-2%;46%;Walk
+t1;0-0;1;12-;4,(1-2) FBTC;O;COL;Kris Bryant;Jameson Taillon;4%;51%;Strikeout Looking
+t1;0-0;2;12-;8,(3-2) BFBTFB>F>S;O;COL;Ryan McMahon;Jameson Taillon;4%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Rockies 0, Cubs 0.
+Bottom of the 1st, Cubs Batting, Tied 0-0, Rockies' Noah Davis facing 1-2-3 
+b1;0-0;0;---;7,(3-2) BBFC.FBB;;CHC;Mike Tauchman;Noah Davis;3%;58%;Walk
+b1;0-0;0;1--;1,(0-0) X;O;CHC;Nico Hoerner;Noah Davis;-2%;57%;Groundout: 2B-1B; Tauchman to 2B
+b1;0-0;1;-2-;6,(3-2) CBFBBB;;CHC;Ian Happ;Noah Davis;2%;59%;Walk
+b1;0-0;1;12-;4,(1-2) CSBH;;CHC;Cody Bellinger;Noah Davis;6%;64%;Hit By Pitch; Tauchman to 3B; Happ to 2B
+b1;0-0;1;123;6,(3-2) BBBCF.X;O;CHC;Dansby Swanson;Noah Davis;-7%;57%;Popfly: 2B (2B-1B)
+b1;0-0;2;123;1,(0-0) X;RO;CHC;Seiya Suzuki;Noah Davis;3%;60%;Single to LF (Ground Ball thru SS-3B Hole); Tauchman Scores; Happ out at Hm/LF-C; Bellinger to 2B
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Rockies 0, Cubs 1.
+Top of the 2nd, Rockies Batting, Behind 0-1, Cubs' Jameson Taillon facing 6-7-8 
+t2;0-1;0;---;3,(0-2) CF.C;O;COL;Elias Díaz;Jameson Taillon;3%;62%;Strikeout Looking
+t2;0-1;1;---;2,(0-1) CX;O;COL;Ezequiel Tovar;Jameson Taillon;2%;64%;Popfly: 2B (Deep SS-2B)
+t2;0-1;2;---;4,(1-2) CFBX;O;COL;Elehuris Montero;Jameson Taillon;1%;65%;Groundout: SS-1B (Deep SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 0, Cubs 1.
+Bottom of the 2nd, Cubs Batting, Ahead 1-0, Rockies' Noah Davis facing 7-8-9 
+b2;1-0;0;---;5,(1-2) BFFFC;O;CHC;Jared Young;Noah Davis;-2%;63%;Strikeout Looking
+b2;1-0;1;---;4,(1-2) BCFS;O;CHC;Miles Mastrobuoni;Noah Davis;-2%;62%;Strikeout Swinging
+b2;1-0;2;---;6,(2-2) BCBCF.X;O;CHC;Miguel Amaya;Noah Davis;-1%;61%;Foul Popfly: LF (LF into Foul Terr.)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 0, Cubs 1.
+Top of the 3rd, Rockies Batting, Behind 0-1, Cubs' Jameson Taillon facing 9-1-2 
+t3;0-1;0;---;2,(1-0) BX;O;COL;Brenton Doyle;Jameson Taillon;3%;63%;Groundout: SS-1B
+t3;0-1;1;---;3,(1-1) CBX;O;COL;Charlie Blackmon;Jameson Taillon;2%;65%;Popfly: 3B (Short 3B Line)
+t3;0-1;2;---;3,(1-1) CBX;;COL;Brendan Rodgers;Jameson Taillon;-1%;64%;Single to SS (Ground Ball to SS-2B)
+t3;0-1;2;1--;6,(3-2) FBBBS>B;;COL;Nolan Jones;Jameson Taillon;-2%;62%;Walk; Rodgers to 2B
+t3;0-1;2;12-;4,(0-2) CFFX;O;COL;Kris Bryant;Jameson Taillon;5%;67%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Rockies 0, Cubs 1.
+Bottom of the 3rd, Cubs Batting, Ahead 1-0, Rockies' Noah Davis facing 1-2-3 
+b3;1-0;0;---;1,(0-0) X;;CHC;Mike Tauchman;Noah Davis;3%;70%;Single to CF (Line Drive to Deep LF-CF)
+b3;1-0;0;1--;3,(0-2) CF.X;O;CHC;Nico Hoerner;Noah Davis;-3%;67%;Groundout: P-2B/Forceout at 2B (P's Left); Hoerner to 1B
+b3;1-0;1;1--;5,(2-2) CB1FBX;O;CHC;Ian Happ;Noah Davis;-3%;64%;Foul Popfly: 3B
+b3;1-0;2;1--;2,(1-0) 1.B>C;;CHC;Cody Bellinger;Noah Davis;1%;65%;Hoerner Steals 2B
+b3;1-0;2;-2-;3,(1-1) 1.B>C.X;O;CHC;Cody Bellinger;Noah Davis;-3%;62%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rockies 0, Cubs 1.
+Top of the 4th, Rockies Batting, Behind 0-1, Cubs' Jameson Taillon facing 5-6-7 
+t4;0-1;0;---;4,(2-1) FBBX;O;COL;Ryan McMahon;Jameson Taillon;3%;65%;Flyball: LF (Short LF Line)
+t4;0-1;1;---;2,(0-1) TX;;COL;Elias Díaz;Jameson Taillon;-3%;62%;Single to LF (Line Drive)
+t4;0-1;1;1--;3,(0-2) S*SX;;COL;Ezequiel Tovar;Jameson Taillon;-5%;57%;Single to SS (Ground Ball); Díaz to 2B
+t4;0-1;1;12-;3,(0-2) CFS;O;COL;Elehuris Montero;Jameson Taillon;6%;63%;Strikeout Swinging
+t4;0-1;2;12-;3,(0-2) SSS;O;COL;Brenton Doyle;Jameson Taillon;5%;68%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Rockies 0, Cubs 1.
+Bottom of the 4th, Cubs Batting, Ahead 1-0, Rockies' Noah Davis facing 5-6-7 
+b4;1-0;0;---;7,(3-2) BST.BBFB;;CHC;Dansby Swanson;Noah Davis;3%;72%;Walk
+b4;1-0;0;1--;4,(2-1) CBBX;RR;CHC;Seiya Suzuki;Noah Davis;14%;85%;Home Run (Fly Ball to Deep LF); Swanson Scores
+b4;3-0;0;---;1,(0-0) X;O;CHC;Jared Young;Noah Davis;-1%;84%;Groundout: 2B-1B
+b4;3-0;1;---;2,(0-1) CX;;CHC;Miles Mastrobuoni;Noah Davis;1%;86%;Single to 2B (Ground Ball)
+b4;3-0;1;1--;8,(3-2) BCS.*BFFB1>X;O;CHC;Miguel Amaya;Noah Davis;-1%;84%;Lineout: CF (Deep CF)
+b4;3-0;2;1--;2,(0-1) F>B;;CHC;Mike Tauchman;Noah Davis;1%;85%;Mastrobuoni Steals 2B
+b4;3-0;2;-2-;4,(2-1) F>B.BX;O;CHC;Mike Tauchman;Noah Davis;-2%;83%;Flyball: RF (Deep RF Line)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 1 LOB. Rockies 0, Cubs 3.
+Top of the 5th, Rockies Batting, Behind 0-3, Cubs' Jameson Taillon facing 1-2-3 
+t5;0-3;0;---;7,(3-2) CBBSB.FB;;COL;Charlie Blackmon;Jameson Taillon;-4%;79%;Walk
+t5;0-3;0;1--;4,(1-2) FFBC;O;COL;Brendan Rodgers;Jameson Taillon;4%;83%;Strikeout Looking
+t5;0-3;1;1--;3,(0-2) CF11X;O;COL;Nolan Jones;Jameson Taillon;3%;86%;Popfly: SS (Deep SS)
+t5;0-3;2;1--;1,(0-0) X;O;COL;Kris Bryant;Jameson Taillon;2%;88%;Popfly: SS (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rockies 0, Cubs 3.
+Bottom of the 5th, Cubs Batting, Ahead 3-0, Rockies' Noah Davis facing 2-3-4 
+b5;3-0;0;---;5,(3-1) BBBCX;O;CHC;Nico Hoerner;Noah Davis;-1%;87%;Groundout: SS-1B
+b5;3-0;1;---;3,(0-2) FFC;O;CHC;Ian Happ;Noah Davis;-1%;86%;Strikeout Looking
+b5;3-0;2;---;7,(3-2) S.BSBFBS;O;CHC;Cody Bellinger;Noah Davis;-1%;86%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 0, Cubs 3.
+Top of the 6th, Rockies Batting, Behind 0-3, Cubs' Jameson Taillon facing 5-6-7 
+t6;0-3;0;---;4,(2-1) BSBX;O;COL;Ryan McMahon;Jameson Taillon;3%;88%;Flyball: LF (LF Line)
+t6;0-3;1;---;7,(3-2) CBFF.BBX;;COL;Elias Díaz;Jameson Taillon;-3%;85%;Single to CF (Ground Ball thru SS-2B)
+t6;0-3;1;1--;3,(1-1) BCX;OO;COL;Ezequiel Tovar;Jameson Taillon;5%;91%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Rockies 0, Cubs 3.
+Bottom of the 6th, Cubs Batting, Ahead 3-0, Rockies' Gavin Hollowell facing 5-6-7 
+;;;;;;;;;Gavin Hollowell replaces Noah Davis pitching
+b6;3-0;0;---;3,(2-0) .BBX;O;CHC;Dansby Swanson;Gavin Hollowell;-1%;90%;Flyball: CF
+b6;3-0;1;---;3,(0-2) CCX;;CHC;Seiya Suzuki;Gavin Hollowell;1%;91%;Single to CF (Line Drive)
+b6;3-0;1;1--;2,(1-0) BX;RR;CHC;Jared Young;Gavin Hollowell;6%;97%;Home Run (Fly Ball to Deep CF-RF); Suzuki Scores
+b6;5-0;1;---;7,(3-2) CCBBBF.X;O;CHC;Miles Mastrobuoni;Gavin Hollowell;0%;97%;Popfly: 3B (SS-3B Hole)
+b6;5-0;2;---;5,(3-1) BSB.BX;O;CHC;Miguel Amaya;Gavin Hollowell;0%;97%;Flyball: RF (Deep RF Line)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Rockies 0, Cubs 5.
+Top of the 7th, Rockies Batting, Behind 0-5, Cubs' Drew Smyly facing 8-9-1 
+;;;;;;;;;Drew Smyly replaces Jameson Taillon pitching
+t7;0-5;0;---;1,(0-0) .X;O;COL;Elehuris Montero;Drew Smyly;1%;98%;Lineout: LF (Deep LF-CF)
+t7;0-5;1;---;6,(3-2) CBBFBB;;COL;Brenton Doyle;Drew Smyly;-1%;96%;Walk
+t7;0-5;1;1--;6,(3-2) F*BCB*BB;;COL;Charlie Blackmon;Drew Smyly;-2%;95%;Walk; Doyle to 2B
+t7;0-5;1;12-;2,(0-1) SX;OO;COL;Brendan Rodgers;Drew Smyly;4%;98%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rockies 0, Cubs 5.
+Bottom of the 7th, Cubs Batting, Ahead 5-0, Rockies' Brent Suter facing 1-2-3 
+;;;;;;;;;Brent Suter replaces Gavin Hollowell pitching
+b7;5-0;0;---;2,(0-1) .CH;;CHC;Mike Tauchman;Brent Suter;0%;99%;Hit By Pitch
+;;;;;;;;;Pete Crow-Armstrong pinch runs for Mike Tauchman (CF) batting 1st
+b7;5-0;0;1--;2,(1-0) .1BX;O;CHC;Nico Hoerner;Brent Suter;0%;98%;Flyball: LF (Deep LF-CF)
+b7;5-0;1;1--;,(0-0) 1;;CHC;Ian Happ;Brent Suter;0%;99%;Crow-Armstrong Steals 2B
+b7;5-0;1;-2-;5,(3-1) 1.BC2BBX;O;CHC;Ian Happ;Brent Suter;0%;98%;Groundout: 3B-1B
+b7;5-0;2;-2-;5,(3-1) BFBBB;;CHC;Cody Bellinger;Brent Suter;0%;98%;Walk
+b7;5-0;2;12-;4,(1-2) SBFX;R;CHC;Dansby Swanson;Brent Suter;1%;99%;Single to CF (Ground Ball thru SS-2B); Crow-Armstrong Scores; Bellinger to 2B
+b7;6-0;2;12-;4,(1-2) CBCC;O;CHC;Seiya Suzuki;Brent Suter;0%;99%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Rockies 0, Cubs 6.
+Top of the 8th, Rockies Batting, Behind 0-6, Cubs' Drew Smyly facing 3-4-5 
+;;;;;;;;;Pete Crow-Armstrong moves from PR to CF 
+t8;0-6;0;---;4,(1-2) .CBCC;O;COL;Nolan Jones;Drew Smyly;0%;99%;Strikeout Looking
+t8;0-6;1;---;3,(1-1) BSX;O;COL;Kris Bryant;Drew Smyly;0%;100%;Groundout: SS-1B
+t8;0-6;2;---;5,(3-1) FBBBX;;COL;Ryan McMahon;Drew Smyly;0%;100%;Single to RF (Line Drive to Deep CF-RF)
+t8;0-6;2;1--;3,(0-2) CTS;O;COL;Elias Díaz;Drew Smyly;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rockies 0, Cubs 6.
+Bottom of the 8th, Cubs Batting, Ahead 6-0, Rockies' Victor Vodnik facing 7-8-9 
+;;;;;;;;;Victor Vodnik replaces Brent Suter pitchingAlexander Canario pinch hits for Jared Young (DH) batting 7th
+b8;6-0;0;---;5,(1-2) ..FBSFS;O;CHC;Alexander Canario;Victor Vodnik;0%;100%;Strikeout Swinging
+b8;6-0;1;---;6,(3-2) FBCBBS;O;CHC;Miles Mastrobuoni;Victor Vodnik;0%;100%;Strikeout Swinging
+b8;6-0;2;---;1,(0-0) X;O;CHC;Miguel Amaya;Victor Vodnik;0%;100%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rockies 0, Cubs 6.
+Top of the 9th, Rockies Batting, Behind 0-6, Cubs' Hayden Wesneski facing 7-8-9 
+;;;;;;;;;Hayden Wesneski replaces Drew Smyly pitching
+t9;0-6;0;---;6,(3-2) ..BBCSBB;;COL;Ezequiel Tovar;Hayden Wesneski;0%;99%;Walk
+t9;0-6;0;1--;2,(0-1) SX;OO;COL;Elehuris Montero;Hayden Wesneski;1%;100%;Ground Ball Double Play: SS-2B-1B
+t9;0-6;2;---;4,(1-2) CS.BX;;COL;Brenton Doyle;Hayden Wesneski;0%;100%;Double to LF (Line Drive to Deep LF Line)
+t9;0-6;2;-2-;5,(2-2) BCFBX;O;COL;Charlie Blackmon;Hayden Wesneski;0%;100%;Lineout: SS (Deep SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rockies 0, Cubs 6.

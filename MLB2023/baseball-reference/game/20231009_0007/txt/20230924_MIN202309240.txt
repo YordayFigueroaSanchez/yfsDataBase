@@ -1,0 +1,278 @@
+
+Scorebox Meta
+20230924
+1:10 p.m. Local
+24232
+Target Field
+150
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;0;0;2;0;1;0;0;0;0;3;11;0
+https://cdn.ssref.net/req/202310031/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;0;1;1;0;0;2;5;0;X;9;10;0
+
+Batting home
+Edouard Julien;/players/j/julieed01.shtml;2B;3;1;0;0;2;1;5;.261;.379;.447;.825;17;7;0.032; 0.82;0.083;-0.050; 0.00%; 0.04; 0.0;1;0;
+Jorge Polanco;/players/p/polanjo01.shtml;3B;5;1;1;1;0;0;5;.260;.340;.466;.806;23;13;0.051; 0.95;0.121;-0.070; 0.00%; 0.05; 0.1;1;2;HR
+Max Kepler;/players/k/keplema01.shtml;RF;5;1;2;2;0;0;5;.253;.324;.475;.799;19;12;0.121; 0.82;0.185;-0.063; 0.00%; 0.04; 1.5;1;0;HR
+Andrew Stevenson;/players/s/stevean01.shtml;LF;0;0;0;0;0;0;0;.219;.286;.250;.536;;;;;;;;;;0;0;
+Alex Kirilloff;/players/k/kirilal01.shtml;1B;4;1;1;0;0;1;4;.266;.341;.434;.776;16;11;-0.050; 1.04;0.037;-0.086;-0.00%; 0.05; -0.4;4;0;
+Matt Wallner;/players/w/wallnma01.shtml;DH;2;2;2;0;1;0;4;.247;.371;.485;.856;20;11;0.136; 1.12;0.136;0.000; 0.00%; 0.05; 1.3;;;2B,HBP
+Kyle Farmer;/players/f/farmeky01.shtml;SS;4;1;1;1;0;0;4;.253;.314;.411;.726;12;7;-0.132; 1.65;0.029;-0.161;-0.00%; 0.08; -0.5;0;2;
+Ryan Jeffers;/players/j/jeffery01.shtml;C;4;2;2;3;0;1;4;.270;.367;.474;.841;15;9;0.206; 1.33;0.279;-0.073; 0.01%; 0.07; 2.6;16;1;HR,3B
+Trevor Larnach;/players/l/larnatr01.shtml;LF-RF;3;0;1;2;1;0;4;.212;.310;.388;.698;16;9;0.140; 1.18;0.159;-0.020; 0.00%; 0.06; 1.2;0;0;
+Michael A. Taylor;/players/t/taylomi02.shtml;CF;4;0;0;0;0;1;4;.223;.277;.440;.717;16;11;-0.070; 0.64;0.000;-0.070;-0.00%; 0.03; -1.0;4;0;
+Joe Ryan;/players/r/ryanjo04.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chris Paddack;/players/p/paddach01.shtml;P;;;;;;;;;;;;;;;;;;;;;;;
+Louie Varland;/players/v/varlalo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Dylan Floro;/players/f/florody01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kody Funderburk;/players/f/fundeko01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Matt Wallner (9, off José Marte).
+
+
+3B: Ryan Jeffers (2, off Carson Fulmer).
+
+
+HR: Jorge Polanco (14, off Carson Fulmer, 3rd inn, 0 on, 1 out to Deep RF Line); Max Kepler (23, off José Marte, 7th inn, 1 on, 1 out to Deep CF-RF); Ryan Jeffers (12, off José Marte, 7th inn, 1 on, 2 outs to Deep LF-CF).
+
+
+HBP: Matt Wallner (13, by Carson Fulmer).
+
+
+TB: Ryan Jeffers 7; Max Kepler 5; Jorge Polanco 4; Matt Wallner 3; Alex Kirilloff; Trevor Larnach; Kyle Farmer.
+
+
+RBI: Ryan Jeffers 3 (39); Trevor Larnach 2 (34); Max Kepler 2 (62); Kyle Farmer (42); Jorge Polanco (48).
+
+
+2-out RBI: Ryan Jeffers 2; Trevor Larnach; Kyle Farmer.
+
+
+Team LOB: 6.
+With RISP: 2 for 9.
+
+Batting away
+Randal Grichuk;/players/g/grichra01.shtml;LF;5;2;1;0;0;1;5;.271;.325;.463;.789;22;14;-0.069; 1.10;0.055;-0.124;0%; 0.00; -0.9;7;0;2B
+Zach Neto;/players/n/netoza01.shtml;SS;4;1;2;1;0;2;5;.227;.305;.387;.691;21;15;0.085; 0.79;0.167;-0.082;0%; 0.00; 0.6;1;1;2B,CS,HBP
+Brandon Drury;/players/d/drurybr01.shtml;1B;5;0;1;2;0;2;5;.258;.303;.482;.785;19;14;0.179; 0.63;0.208;-0.029;0%; 0.00; 0.7;5;1;2B
+Logan O'Hoppe;/players/o/ohopplo01.shtml;C;4;0;1;0;0;2;4;.221;.269;.472;.741;11;8;-0.081; 0.77;0.001;-0.082;0%; 0.00; -0.7;4;0;
+Mike Moustakas;/players/m/moustmi01.shtml;DH;4;0;2;0;0;2;4;.255;.302;.405;.707;15;13;0.011; 0.64;0.046;-0.035;0%; 0.00; 0.3;;;
+Jo Adell;/players/a/adelljo01.shtml;RF;4;0;1;0;0;2;4;.229;.308;.629;.936;15;10;-0.036; 0.71;0.023;-0.058;0%; 0.00; -0.7;4;0;2B
+Michael Stefanic;/players/s/stefami01.shtml;3B;3;0;1;0;1;1;4;.267;.377;.311;.688;17;6;0.004; 1.11;0.073;-0.069;0%; 0.00; 0.1;0;2;
+David Fletcher;/players/f/fletcda02.shtml;2B;3;0;1;0;0;1;4;.230;.269;.324;.594;15;11;-0.024; 1.24;0.042;-0.067;0%; 0.00; -0.4;0;2;SH
+Brett Phillips;/players/p/phillbr02.shtml;CF;3;0;0;0;0;3;3;.186;.284;.356;.640;10;10;-0.138; 1.76;0.000;-0.138;0%; 0.00; -1.0;2;0;
+Eduardo Escobar;/players/e/escobed01.shtml;PH;1;0;1;0;0;0;1;.226;.268;.348;.616;5;4;0.003; 0.07;0.003;0.000;0%; 0.00; 0.4;;;
+Andrew Wantz;/players/w/wantzan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Carson Fulmer;/players/f/fulmeca01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+José Marte;/players/m/martejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Jaime Barria;/players/b/barrija01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jo Adell (3, off Joe Ryan); Brandon Drury (28, off Joe Ryan); Randal Grichuk (30, off Joe Ryan); Zach Neto (16, off Joe Ryan).
+
+
+SH: David Fletcher (1, off Louie Varland).
+
+
+HBP: Zach Neto (14, by Kody Funderburk).
+
+
+TB: Zach Neto 3; Randal Grichuk 2; Brandon Drury 2; Jo Adell 2; Mike Moustakas 2; David Fletcher; Eduardo Escobar; Logan O'Hoppe; Michael Stefanic.
+
+
+RBI: Brandon Drury 2 (77); Zach Neto (33).
+
+
+2-out RBI: Brandon Drury 2.
+
+
+Team LOB: 9.
+With RISP: 2 for 9.
+
+Pitching home
+Joe Ryan;/players/r/ryanjo04.shtml; W (11-10); 6 ;7;3;3;0;10;0;4.31;24;91;64;39;14;11;4;10;6;0;56;;;-0.041; 1.05;-0.00%; 0.05; 0.1
+Chris Paddack;/players/p/paddach01.shtml;Chris Paddack; 0 ;0;0;0;0;0;0;;0;;;;;;;;;;;0;0;; 0.00; 0.00%; 0.00; 0.0
+Louie Varland;/players/v/varlalo01.shtml; H (2); 1 ;1;0;0;0;2;0;4.75;4;15;10;4;3;3;2;0;0;0;;0;0;0.097; 2.29; 0.00%; 0.11; 0.5
+Dylan Floro;/players/f/florody01.shtml;Dylan Floro; 1 ;2;0;0;0;2;0;4.76;5;17;14;9;2;3;2;1;1;0;;0;0;0.006; 0.10; 0.00%; 0.00; 0.5
+Kody Funderburk;/players/f/fundeko01.shtml;Kody Funderburk; 1 ;1;0;0;1;2;0;1.00;6;27;17;10;5;2;1;1;0;0;;0;0;0.003; 0.12; 0.00%; 0.01; 0.5
+
+Pitching away
+Andrew Wantz;/players/w/wantzan01.shtml;Andrew Wantz; 2 ;2;1;1;1;1;0;3.96;9;41;24;15;3;6;1;6;3;0;48;;;-0.012; 1.28; 0.00%; 0.00; 0.0
+Carson Fulmer;/players/f/fulmeca01.shtml; L (0-1); 4 ;4;3;3;1;2;1;6.75;18;70;43;26;5;12;6;8;3;0;;0;0;-0.221; 1.39; 0.00%; 0.00; -0.9
+José Marte;/players/m/martejo01.shtml;José Marte; 1 ;4;5;5;2;0;2;9.72;9;26;13;9;1;3;1;6;2;0;;0;0;-0.203; 0.42; 0.00%; 0.00; -4.5
+Jaime Barria;/players/b/barrija01.shtml;Jaime Barria; 1 ;0;0;0;0;1;0;5.60;3;17;10;5;4;1;0;2;0;0;;0;0;0.001; 0.01; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Carson Fulmer (1).
+HBP: Carson Fulmer (1; Matt Wallner); Kody Funderburk (1; Zach Neto).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Carson Fulmer (1).
+HBP: Carson Fulmer (1; Matt Wallner); Kody Funderburk (1; Zach Neto).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Phil Cuzzi, 1B - Jeremie Rehak, 2B - Charlie Ramos, 3B - Chad Fairchild, LF - (none), RF - (none).
+Time of Game: 2:30.
+Attendance: 24,232.
+Field Condition: Unknown.
+Start Time Weather: 69° F, Wind 9mph in from Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Angels
+1;Randal Grichuk;/players/g/grichra01.shtml;LF
+2;Zach Neto;/players/n/netoza01.shtml;SS
+3;Brandon Drury;/players/d/drurybr01.shtml;1B
+4;Logan O'Hoppe;/players/o/ohopplo01.shtml;C
+5;Mike Moustakas;/players/m/moustmi01.shtml;DH
+6;Jo Adell;/players/a/adelljo01.shtml;RF
+7;Michael Stefanic;/players/s/stefami01.shtml;3B
+8;David Fletcher;/players/f/fletcda02.shtml;2B
+9;Brett Phillips;/players/p/phillbr02.shtml;CF
+; Andrew Wantz;/players/w/wantzan01.shtml;P
+Twins
+1;Edouard Julien;/players/j/julieed01.shtml;2B
+2;Jorge Polanco;/players/p/polanjo01.shtml;3B
+3;Max Kepler;/players/k/keplema01.shtml;RF
+4;Alex Kirilloff;/players/k/kirilal01.shtml;1B
+5;Matt Wallner;/players/w/wallnma01.shtml;DH
+6;Kyle Farmer;/players/f/farmeky01.shtml;SS
+7;Ryan Jeffers;/players/j/jeffery01.shtml;C
+8;Trevor Larnach;/players/l/larnatr01.shtml;LF
+9;Michael A. Taylor;/players/t/taylomi02.shtml;CF
+; Joe Ryan;/players/r/ryanjo04.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b6;2-3;1;1--;1,(0-0) X;R;MIN;Ryan Jeffers;Carson Fulmer;25%;66%;Triple to CF (Fly Ball to Deep CF); Wallner Scores
+t3;0-1;2;1-3;3,(2-0) BBX;RR;LAA;Brandon Drury;Joe Ryan;-21%;40%;Double to LF (Line Drive to Deep LF); Grichuk Scores; Neto Scores
+b7;4-3;1;1--;1,(0-0) X;RR;MIN;Max Kepler;José Marte;15%;94%;Home Run (Fly Ball to Deep CF-RF); Julien Scores
+t5;2-2;1;-2-;2,(0-1) CX;R;LAA;Zach Neto;Joe Ryan;-13%;34%;Double to CF (Line Drive to Deep LF-CF); Grichuk Scores
+b3;1-2;1;---;5,(3-1) BBFBX;R;MIN;Jorge Polanco;Carson Fulmer;12%;53%;Home Run (Fly Ball to Deep RF Line)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Angels Batting, Tied 0-0, Twins' Joe Ryan facing 1-2-3 
+t1;0-0;0;---;3,(0-2) FFX;O;LAA;Randal Grichuk;Joe Ryan;2%;52%;Flyball: CF (Deep CF)
+t1;0-0;1;---;3,(0-2) CF.S;O;LAA;Zach Neto;Joe Ryan;2%;54%;Strikeout Swinging
+t1;0-0;2;---;3,(1-1) FBX;O;LAA;Brandon Drury;Joe Ryan;1%;55%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Twins 0.
+Bottom of the 1st, Twins Batting, Tied 0-0, Angels' Andrew Wantz facing 1-2-3 
+b1;0-0;0;---;1,(0-0) X;O;MIN;Edouard Julien;Andrew Wantz;-2%;53%;Flyball: RF (Deep RF)
+b1;0-0;1;---;7,(3-2) CBBFBFX;O;MIN;Jorge Polanco;Andrew Wantz;-2%;51%;Flyball: SS (Deep SS)
+b1;0-0;2;---;6,(3-2) CBBBT.X;O;MIN;Max Kepler;Andrew Wantz;-1%;50%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 0, Twins 0.
+Top of the 2nd, Angels Batting, Tied 0-0, Twins' Joe Ryan facing 4-5-6 
+t2;0-0;0;---;2,(1-0) BX;O;LAA;Logan O'Hoppe;Joe Ryan;2%;52%;Flyball: CF (Deep CF)
+t2;0-0;1;---;3,(0-2) SFS;O;LAA;Mike Moustakas;Joe Ryan;2%;54%;Strikeout Swinging
+t2;0-0;2;---;2,(0-1) CX;;LAA;Jo Adell;Joe Ryan;-2%;52%;Double to RF (Line Drive to RF Line)
+t2;0-0;2;-2-;6,(3-2) FCBBB.C;O;LAA;Michael Stefanic;Joe Ryan;3%;55%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 0, Twins 0.
+Bottom of the 2nd, Twins Batting, Tied 0-0, Angels' Andrew Wantz facing 4-5-6 
+b2;0-0;0;---;7,(3-2) CFBBFBX;;MIN;Alex Kirilloff;Andrew Wantz;4%;59%;Single to RF (Line Drive)
+b2;0-0;0;1--;6,(3-2) BSS.BB1B;;MIN;Matt Wallner;Andrew Wantz;6%;64%;Walk; Kirilloff to 2B
+b2;0-0;0;12-;4,(2-1) FB*BX;O;MIN;Kyle Farmer;Andrew Wantz;-5%;59%;Flyball: CF (Deep CF)
+b2;0-0;1;12-;3,(0-2) CFC;O;MIN;Ryan Jeffers;Andrew Wantz;-5%;54%;Strikeout Looking
+b2;0-0;2;12-;6,(2-2) CBS.BFX;R;MIN;Trevor Larnach;Andrew Wantz;11%;66%;Single to RF (Ground Ball thru 2B-1B); Kirilloff Scores; Wallner to 3B
+b2;1-0;2;1-3;1,(0-0) X;O;MIN;Michael A. Taylor;Andrew Wantz;-4%;61%;Lineout: LF (LF-CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Angels 0, Twins 1.
+Top of the 3rd, Angels Batting, Behind 0-1, Twins' Joe Ryan facing 8-9-1 
+t3;0-1;0;---;2,(1-0) BX;;LAA;David Fletcher;Joe Ryan;-4%;57%;Single to CF (Line Drive to Deep CF)
+t3;0-1;0;1--;4,(0-2) SSF1S;O;LAA;Brett Phillips;Joe Ryan;4%;61%;Strikeout Swinging
+t3;0-1;1;1--;3,(1-1) FBX;O;LAA;Randal Grichuk;Joe Ryan;3%;64%;Groundout: 3B-2B/Forceout at 2B; Grichuk to 1B
+t3;0-1;2;1--;6,(3-2) BFBS.B>X;;LAA;Zach Neto;Joe Ryan;-3%;61%;Single to LF (Line Drive to Deep LF Line); Grichuk to 3B
+t3;0-1;2;1-3;3,(2-0) BBX;RR;LAA;Brandon Drury;Joe Ryan;-21%;40%;Double to LF (Line Drive to Deep LF); Grichuk Scores; Neto Scores
+t3;2-1;2;-2-;5,(2-2) FFB*BS;O;LAA;Logan O'Hoppe;Joe Ryan;3%;44%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Angels 2, Twins 1.
+Bottom of the 3rd, Twins Batting, Behind 1-2, Angels' Carson Fulmer facing 1-2-3 
+;;;;;;;;;Carson Fulmer replaces Andrew Wantz pitching
+b3;1-2;0;---;1,(0-0) .X;O;MIN;Edouard Julien;Carson Fulmer;-3%;41%;Lineout: LF
+b3;1-2;1;---;5,(3-1) BBFBX;R;MIN;Jorge Polanco;Carson Fulmer;12%;53%;Home Run (Fly Ball to Deep RF Line)
+b3;2-2;1;---;3,(1-1) BCX;;MIN;Max Kepler;Carson Fulmer;3%;56%;Single to CF (Ground Ball)
+b3;2-2;1;1--;5,(2-2) BBCFS;O;MIN;Alex Kirilloff;Carson Fulmer;-3%;53%;Strikeout Swinging
+b3;2-2;2;1--;2,(0-1) CB;;MIN;Matt Wallner;Carson Fulmer;1%;54%;Wild Pitch; Kepler to 2B
+b3;2-2;2;-2-;7,(3-2) CB.BFBFH;;MIN;Matt Wallner;Carson Fulmer;1%;55%;Hit By Pitch
+b3;2-2;2;12-;5,(3-1) BBC*BX;O;MIN;Kyle Farmer;Carson Fulmer;-5%;50%;Flyball: LF (LF Line)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Angels 2, Twins 2.
+Top of the 4th, Angels Batting, Tied 2-2, Twins' Joe Ryan facing 5-6-7 
+t4;2-2;0;---;2,(1-0) BX;;LAA;Mike Moustakas;Joe Ryan;-4%;46%;Single to RF (Ground Ball thru 2B-1B)
+t4;2-2;0;1--;4,(1-2) FSBS;O;LAA;Jo Adell;Joe Ryan;4%;50%;Strikeout Swinging
+t4;2-2;1;1--;2,(1-0) BX;O;LAA;Michael Stefanic;Joe Ryan;3%;53%;Flyball: CF (Deep CF-RF)
+t4;2-2;2;1--;8,(2-2) BSFBFFFX;O;LAA;David Fletcher;Joe Ryan;3%;56%;Flyball: RF (RF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 2, Twins 2.
+Bottom of the 4th, Twins Batting, Tied 2-2, Angels' Carson Fulmer facing 7-8-9 
+b4;2-2;0;---;6,(3-2) BFBBCX;O;MIN;Ryan Jeffers;Carson Fulmer;-3%;53%;Groundout: 3B-1B
+b4;2-2;1;---;2,(0-1) CX;O;MIN;Trevor Larnach;Carson Fulmer;-2%;51%;Flyball: LF (Deep LF)
+b4;2-2;2;---;8,(3-2) CBSBF.BFX;O;MIN;Michael A. Taylor;Carson Fulmer;-1%;50%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 2, Twins 2.
+Top of the 5th, Angels Batting, Tied 2-2, Twins' Joe Ryan facing 9-1-2 
+t5;2-2;0;---;3,(0-2) FCS;O;LAA;Brett Phillips;Joe Ryan;3%;53%;Strikeout Swinging
+t5;2-2;1;---;6,(3-2) CBFBBX;;LAA;Randal Grichuk;Joe Ryan;-6%;48%;Double to LF (Line Drive to Deep LF Line)
+t5;2-2;1;-2-;2,(0-1) CX;R;LAA;Zach Neto;Joe Ryan;-13%;34%;Double to CF (Line Drive to Deep LF-CF); Grichuk Scores
+t5;3-2;1;-2-;1,(0-0) >C;O;LAA;Brandon Drury;Joe Ryan;6%;40%;Neto Caught Stealing 3B (C-3B)
+t5;3-2;2;---;5,(1-2) >C.C.FBX;O;LAA;Brandon Drury;Joe Ryan;1%;42%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;1 run, 2 hits, 0 errors, 0 LOB. Angels 3, Twins 2.
+Bottom of the 5th, Twins Batting, Behind 2-3, Angels' Carson Fulmer facing 1-2-3 
+b5;2-3;0;---;6,(3-2) BSBFB.B;;MIN;Edouard Julien;Carson Fulmer;5%;47%;Walk
+b5;2-3;0;1--;2,(0-1) CX;O;MIN;Jorge Polanco;Carson Fulmer;-3%;44%;Groundout: 2B-SS-1B; Julien to 2B
+;;;;;;;;;Force Play Challenged by MIN manager (Rocco Baldelli): Original call overturned as shown.
+b5;2-3;1;-2-;3,(1-1) CBX;O;MIN;Max Kepler;Carson Fulmer;-5%;39%;Flyball: LF
+b5;2-3;2;-2-;3,(0-2) SFX;O;MIN;Alex Kirilloff;Carson Fulmer;-5%;34%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Angels 3, Twins 2.
+Top of the 6th, Angels Batting, Ahead 3-2, Twins' Joe Ryan facing 4-5-6 
+t6;3-2;0;---;3,(0-2) FFS;O;LAA;Logan O'Hoppe;Joe Ryan;3%;37%;Strikeout Swinging
+t6;3-2;1;---;5,(1-2) FBFFS;O;LAA;Mike Moustakas;Joe Ryan;2%;38%;Strikeout Swinging
+t6;3-2;2;---;6,(3-2) CBT.BBC;O;LAA;Jo Adell;Joe Ryan;1%;40%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 3, Twins 2.
+Bottom of the 6th, Twins Batting, Behind 2-3, Angels' Carson Fulmer facing 5-6-7 
+b6;2-3;0;---;5,(1-2) BFCFX;;MIN;Matt Wallner;Carson Fulmer;6%;46%;Single to LF (Line Drive to Deep LF-CF)
+b6;2-3;0;1--;2,(0-1) CX;O;MIN;Kyle Farmer;Carson Fulmer;-6%;40%;Lineout: LF (Deep LF)
+b6;2-3;1;1--;1,(0-0) X;R;MIN;Ryan Jeffers;Carson Fulmer;25%;66%;Triple to CF (Fly Ball to Deep CF); Wallner Scores
+b6;3-3;1;--3;2,(1-0) BX;RO;MIN;Trevor Larnach;Carson Fulmer;5%;70%;Groundout: 2B-1B; Jeffers Scores
+b6;4-3;2;---;4,(1-2) CFBS;O;MIN;Michael A. Taylor;Carson Fulmer;-1%;69%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Angels 3, Twins 4.
+Top of the 7th, Angels Batting, Behind 3-4, Twins' Louie Varland facing 7-8-9 
+;;;;;;;;;Louie Varland replaces Chris Paddack pitchingChris Paddack replaces Joe Ryan pitching
+t7;3-4;0;---;5,(3-1) ..CBBBX;;LAA;Michael Stefanic;Louie Varland;-7%;62%;Single to P (Ground Ball to Short 3B Line)
+t7;3-4;0;1--;1,(0-0) X;O;LAA;David Fletcher;Louie Varland;3%;66%;Bunt Groundout: P-1B/Sacrifice; Stefanic to 2B
+t7;3-4;1;-2-;3,(0-2) SS.T;O;LAA;Brett Phillips;Louie Varland;7%;72%;Strikeout Swinging
+t7;3-4;2;-2-;6,(2-2) CS*BFBC;O;LAA;Randal Grichuk;Louie Varland;6%;79%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Angels 3, Twins 4.
+Bottom of the 7th, Twins Batting, Ahead 4-3, Angels' José Marte facing 1-2-3 
+;;;;;;;;;José Marte replaces Carson Fulmer pitching
+b7;4-3;0;---;4,(3-0) .BBBB;;MIN;Edouard Julien;José Marte;3%;82%;Walk
+b7;4-3;0;1--;3,(1-1) BCX;O;MIN;Jorge Polanco;José Marte;-3%;79%;Flyball: LF
+b7;4-3;1;1--;1,(0-0) X;RR;MIN;Max Kepler;José Marte;15%;94%;Home Run (Fly Ball to Deep CF-RF); Julien Scores
+b7;6-3;1;---;1,(0-0) X;O;MIN;Alex Kirilloff;José Marte;0%;93%;Groundout: P-1B
+b7;6-3;2;---;2,(0-1) CX;;MIN;Matt Wallner;José Marte;1%;94%;Double to RF (Line Drive to Deep RF)
+b7;6-3;2;-2-;1,(0-0) X;R;MIN;Kyle Farmer;José Marte;3%;97%;Single to LF (Line Drive to Short LF); Wallner Scores
+b7;7-3;2;1--;5,(3-1) BBSBX;RR;MIN;Ryan Jeffers;José Marte;3%;99%;Home Run (Fly Ball to Deep LF-CF); Farmer Scores
+b7;9-3;2;---;6,(3-2) CBFBBB;;MIN;Trevor Larnach;José Marte;0%;99%;Walk
+b7;9-3;2;1--;3,(1-1) BFX;O;MIN;Michael A. Taylor;José Marte;0%;99%;Flyball: RF
+;;;;;;;;;5 runs, 4 hits, 0 errors, 1 LOB. Angels 3, Twins 9.
+Top of the 8th, Angels Batting, Behind 3-9, Twins' Dylan Floro facing 2-3-4 
+;;;;;;;;;Dylan Floro replaces Louie Varland pitching
+t8;3-9;0;---;4,(1-2) .CF.BC;O;LAA;Zach Neto;Dylan Floro;0%;100%;Strikeout Looking
+t8;3-9;1;---;4,(1-2) BSFS;O;LAA;Brandon Drury;Dylan Floro;0%;100%;Strikeout Swinging
+t8;3-9;2;---;1,(0-0) X;;LAA;Logan O'Hoppe;Dylan Floro;0%;100%;Single to P (Ground Ball to Weak 2B-1B)
+t8;3-9;2;1--;5,(0-2) FFFFX;;LAA;Mike Moustakas;Dylan Floro;0%;99%;Single to LF (Line Drive); O'Hoppe to 2B
+t8;3-9;2;12-;3,(1-1) CBX;O;LAA;Jo Adell;Dylan Floro;1%;100%;Groundout: SS-1B
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Angels 3, Twins 9.
+Bottom of the 8th, Twins Batting, Ahead 9-3, Angels' Jaime Barria facing 1-2-3 
+;;;;;;;;;Jaime Barria replaces José Marte pitching
+b8;9-3;0;---;5,(2-2) .CSBBS;O;MIN;Edouard Julien;Jaime Barria;0%;100%;Strikeout Swinging
+b8;9-3;1;---;6,(3-2) SBBS.BX;O;MIN;Jorge Polanco;Jaime Barria;0%;100%;Flyball: RF (Deep CF-RF)
+b8;9-3;2;---;6,(2-2) BF.FFBX;O;MIN;Max Kepler;Jaime Barria;0%;100%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Angels 3, Twins 9.
+Top of the 9th, Angels Batting, Behind 3-9, Twins' Kody Funderburk facing 7-8-9 
+;;;;;;;;;Kody Funderburk replaces Dylan Floro pitchingAndrew Stevenson replaces Max Kepler (RF) playing LF batting 3rdTrevor Larnach moves from LF to RF 
+t9;3-9;0;---;4,(3-0) ...BBBB;;LAA;Michael Stefanic;Kody Funderburk;0%;99%;Walk
+t9;3-9;0;1--;4,(1-2) BCCS;O;LAA;David Fletcher;Kody Funderburk;0%;100%;Strikeout Swinging
+;;;;;;;;;Eduardo Escobar pinch hits for Brett Phillips (CF) batting 9th
+t9;3-9;1;1--;5,(1-2) .BSFF.X;;LAA;Eduardo Escobar;Kody Funderburk;0%;99%;Single to RF (Ground Ball); Stefanic to 2B
+t9;3-9;1;12-;4,(2-1) BFBX;O;LAA;Randal Grichuk;Kody Funderburk;0%;100%;Flyball: CF (CF-RF)
+t9;3-9;2;12-;6,(1-2) SBFFFH;;LAA;Zach Neto;Kody Funderburk;0%;100%;Hit By Pitch; Stefanic to 3B; Escobar to 2B
+t9;3-9;2;123;4,(0-2) SFFS;O;LAA;Brandon Drury;Kody Funderburk;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Angels 3, Twins 9.

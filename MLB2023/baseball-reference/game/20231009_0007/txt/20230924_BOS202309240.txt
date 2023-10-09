@@ -1,0 +1,221 @@
+
+Scorebox Meta
+20230924
+1:35 p.m. Local
+33399
+Fenway Park
+103
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/CHW-2023.png;/teams/CHW/2023.shtml;0;0;0;0;2;1;3;4;1
+https://cdn.ssref.net/req/202310031/tlogo/br/BOS-2023.png;/teams/BOS/2023.shtml;0;1;0;0;0;1;2;5;0
+
+Batting home
+Ceddanne Rafaela;/players/r/rafaece01.shtml;CF;3;0;1;0;0;0;3;.294;.329;.471;.799;10;6;-0.107; 1.38;0.034;-0.141;0%; 0.00; -0.8;1;0;
+Rafael Devers;/players/d/deverra01.shtml;3B;3;0;0;0;0;0;3;.274;.354;.511;.864;6;6;-0.166; 1.56;0.000;-0.166;0%; 0.00; -1.6;1;0;GDP
+Justin Turner;/players/t/turneju01.shtml;1B;3;0;0;0;0;0;3;.276;.346;.459;.805;11;8;-0.069; 0.89;0.000;-0.069;0%; 0.00; -0.6;6;0;
+Masataka Yoshida;/players/y/yoshima02.shtml;DH;3;0;1;0;0;0;3;.288;.339;.446;.785;17;10;-0.010; 0.85;0.039;-0.049;0%; 0.00; -0.0;;;2B
+Adam Duvall;/players/d/duvalad01.shtml;RF;2;1;1;1;0;0;3;.249;.308;.538;.845;9;6;0.126; 0.81;0.143;-0.017;0%; 0.00; 1.1;2;0;HR,HBP
+Wilyer Abreu;/players/a/abreuwi02.shtml;LF;3;1;1;1;0;0;3;.362;.431;.552;.982;8;5;0.046; 0.99;0.107;-0.061;0%; 0.00; 0.4;1;0;HR
+Pablo Reyes;/players/r/reyespa01.shtml;SS;2;0;0;0;0;0;2;.289;.335;.384;.719;12;9;-0.052; 0.98;0.000;-0.052;0%; 0.00; -0.6;0;2;
+Enmanuel Valdez;/players/v/valdeen01.shtml;2B;2;0;1;0;0;0;2;.258;.303;.435;.739;9;6;0.067; 1.08;0.089;-0.021;0%; 0.00; 0.4;0;3;2B
+Connor Wong;/players/w/wongco01.shtml;C;0;0;0;0;0;0;2;.240;.295;.398;.693;5;3;0.042; 1.16;0.065;-0.023;0%; 0.00; 0.5;7;0;SB,HBP,SH
+Kutter Crawford;/players/c/crawfku01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chris Murphy;/players/m/murphch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Masataka Yoshida (31, off Mike Clevinger); Enmanuel Valdez (7, off Mike Clevinger).
+
+
+HR: Wilyer Abreu (2, off Mike Clevinger, 2nd inn, 0 on, 2 outs to Deep RF Line); Adam Duvall (21, off Mike Clevinger, 6th inn, 0 on, 2 outs to Deep LF).
+
+
+SH: Connor Wong (3, off Mike Clevinger).
+
+
+HBP: Connor Wong (6, by Mike Clevinger); Adam Duvall (6, by Mike Clevinger).
+
+
+TB: Wilyer Abreu 4; Adam Duvall 4; Masataka Yoshida 2; Enmanuel Valdez 2; Ceddanne Rafaela.
+
+
+GIDP: Rafael Devers (15).
+
+
+RBI: Wilyer Abreu (11); Adam Duvall (58).
+
+
+2-out RBI: Wilyer Abreu; Adam Duvall.
+
+
+Team LOB: 4.
+With RISP: 0 for 6.
+
+Batting away
+Elvis Andrus;/players/a/andruel01.shtml;SS;3;0;1;2;0;2;3;.255;.309;.364;.673;12;8;0.224; 1.22;0.259;-0.035;0%; 0.00; 1.5;1;2;2B
+Andrew Benintendi;/players/b/beninan01.shtml;LF;3;0;1;0;0;0;3;.263;.328;.360;.688;12;7;0.020; 1.02;0.074;-0.054;0%; 0.00; 0.1;3;0;2B
+Luis Robert Jr.;/players/r/roberlu01.shtml;CF;0;0;0;0;1;0;1;.264;.315;.542;.857;5;1;0.021; 0.60;0.021;0.000;0%; 0.00; 0.2;1;0;SB
+Trayce Thompson;/players/t/thomptr01.shtml;CF;2;0;0;0;0;1;2;.174;.297;.326;.623;10;6;-0.048; 1.27;0.000;-0.048;0%; 0.00; -0.5;3;0;
+Eloy Jiménez;/players/j/jimenel02.shtml;DH;3;1;1;0;0;0;3;.274;.318;.441;.758;4;4;-0.056; 1.16;0.047;-0.103;0%; 0.00; -0.5;;;2B
+Andrew Vaughn;/players/v/vaughan01.shtml;1B;3;0;1;0;0;1;3;.260;.317;.432;.749;14;11;-0.018; 1.31;0.052;-0.070;0%; 0.00; -0.1;6;1;
+Gavin Sheets;/players/s/sheetga01.shtml;RF;1;1;0;1;1;0;3;.203;.266;.338;.604;16;9;0.078; 1.40;0.095;-0.017;0%; 0.00; 0.4;0;0;SB,SF
+Lenyn Sosa;/players/s/sosale01.shtml;3B;3;0;0;0;0;1;3;.187;.201;.320;.521;10;8;-0.079; 1.05;0.000;-0.079;0%; 0.00; -0.7;0;2;
+Zach Remillard;/players/r/remilza01.shtml;2B;2;0;0;0;0;2;2;.239;.286;.312;.597;8;7;-0.076; 1.38;0.000;-0.076;0%; 0.00; -0.6;2;2;
+Korey Lee;/players/l/leeko01.shtml;C;1;1;0;0;1;0;2;.071;.148;.143;.290;9;5;-0.004; 1.16;0.015;-0.019;0%; 0.00; -0.1;0;1;
+Mike Clevinger;/players/c/clevimi01.shtml;P;;;;;;;;;;;;;;;;;;;;;2;1;
+2B: Andrew Benintendi (34, off Kutter Crawford); Elvis Andrus (19, off Kutter Crawford); Eloy Jiménez (22, off Kutter Crawford).
+
+
+SF: Gavin Sheets (4, off Chris Murphy).
+
+
+TB: Andrew Benintendi 2; Elvis Andrus 2; Eloy Jiménez 2; Andrew Vaughn.
+
+
+RBI: Elvis Andrus 2 (44); Gavin Sheets (43).
+
+
+2-out RBI: Elvis Andrus 2.
+
+
+Team LOB: 4.
+With RISP: 2 for 8.
+
+Pitching home
+Kutter Crawford;/players/c/crawfku01.shtml; L (6-8); 5.1;4;3;3;3;7;0;4.23;23;93;61;33;15;13;5;8;2;0;52;;;-0.059; 1.16; 0.00%; 0.00; 0.0
+Chris Murphy;/players/m/murphch01.shtml;Chris Murphy; 0.2;0;0;0;0;0;0;4.66;2;7;5;2;3;0;1;1;0;0;;2;1;-0.004; 1.34; 0.00%; 0.00; 0.2
+
+Pitching away
+Mike Clevinger;/players/c/clevimi01.shtml; W (9-8); 6 ;5;2;2;0;0;2;3.40;24;87;59;36;7;16;9;13;3;0;54;;;0.123; 1.08; 0.00%; 0.00; 1.3
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Mike Clevinger 2 (9; Connor Wong, Adam Duvall).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Mike Clevinger 2 (9; Connor Wong, Adam Duvall).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - David Arrieta, 1B - Dan Bellino, 2B - Shane Livensparger, 3B - Mark Ripperger, LF - (none), RF - (none).
+Time of Game: 1:43.
+Attendance: 33,399.
+Field Condition: Unknown.
+Start Time Weather: 63° F, Wind 12mph from Left to Right, Overcast, Drizzle.
+
+div_lineups
+White Sox
+1;Elvis Andrus;/players/a/andruel01.shtml;SS
+2;Andrew Benintendi;/players/b/beninan01.shtml;LF
+3;Luis Robert Jr.;/players/r/roberlu01.shtml;CF
+4;Eloy Jiménez;/players/j/jimenel02.shtml;DH
+5;Andrew Vaughn;/players/v/vaughan01.shtml;1B
+6;Gavin Sheets;/players/s/sheetga01.shtml;RF
+7;Lenyn Sosa;/players/s/sosale01.shtml;3B
+8;Zach Remillard;/players/r/remilza01.shtml;2B
+9;Korey Lee;/players/l/leeko01.shtml;C
+; Mike Clevinger;/players/c/clevimi01.shtml;P
+Red Sox
+1;Ceddanne Rafaela;/players/r/rafaece01.shtml;CF
+2;Rafael Devers;/players/d/deverra01.shtml;3B
+3;Justin Turner;/players/t/turneju01.shtml;1B
+4;Masataka Yoshida;/players/y/yoshima02.shtml;DH
+5;Adam Duvall;/players/d/duvalad01.shtml;RF
+6;Wilyer Abreu;/players/a/abreuwi02.shtml;LF
+7;Pablo Reyes;/players/r/reyespa01.shtml;SS
+8;Enmanuel Valdez;/players/v/valdeen01.shtml;2B
+9;Connor Wong;/players/w/wongco01.shtml;C
+; Kutter Crawford;/players/c/crawfku01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t5;0-1;2;12-;2,(1-0) BX;RR;CHW;Elvis Andrus;Kutter Crawford;26%;61%;Double to CF (Line Drive to Deep LF-CF); Sheets Scores; Lee Scores
+b6;1-3;2;---;3,(0-2) CS.X;R;BOS;Adam Duvall;Mike Clevinger;-13%;67%;Home Run (Fly Ball to Deep LF)
+b2;0-0;2;---;3,(1-1) CBX;R;BOS;Wilyer Abreu;Mike Clevinger;-11%;38%;Home Run (Fly Ball to Deep RF Line)
+b5;1-2;0;---;5,(2-2) CBBFX;;BOS;Enmanuel Valdez;Mike Clevinger;-9%;49%;Double to RF (Ground Ball thru 2B-1B)
+b5;1-2;1;--3;2,(0-1) FX;O;BOS;Ceddanne Rafaela;Mike Clevinger;9%;60%;Lineout: P (Weak SS-2B)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, White Sox Batting, Tied 0-0, Red Sox' Kutter Crawford facing 1-2-3 
+t1;0-0;0;---;6,(2-2) SFFBBS;O;CHW;Elvis Andrus;Kutter Crawford;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;3,(1-1) BTX;O;CHW;Andrew Benintendi;Kutter Crawford;-2%;46%;Groundout: 2B-1B
+t1;0-0;2;---;5,(3-1) BBBCB;;CHW;Luis Robert Jr.;Kutter Crawford;1%;47%;Walk
+t1;0-0;2;1--;1,(0-0) >C;;CHW;Eloy Jiménez;Kutter Crawford;1%;48%;Robert Steals 2B
+t1;0-0;2;-2-;2,(0-1) >C.X;O;CHW;Eloy Jiménez;Kutter Crawford;-3%;45%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. White Sox 0, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Tied 0-0, White Sox' Mike Clevinger facing 1-2-3 
+b1;0-0;0;---;4,(2-1) BFBX;;BOS;Ceddanne Rafaela;Mike Clevinger;-3%;42%;Single to LF (Line Drive to Short LF)
+b1;0-0;0;1--;2,(0-1) CX;OO;BOS;Rafael Devers;Mike Clevinger;7%;49%;Ground Ball Double Play: 2B-SS-1B
+b1;0-0;2;---;3,(1-1) CBX;O;BOS;Justin Turner;Mike Clevinger;1%;50%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. White Sox 0, Red Sox 0.
+Top of the 2nd, White Sox Batting, Tied 0-0, Red Sox' Kutter Crawford facing 5-6-7 
+t2;0-0;0;---;4,(1-2) CBSC;O;CHW;Andrew Vaughn;Kutter Crawford;-2%;48%;Strikeout Looking
+t2;0-0;1;---;3,(1-1) BCX;O;CHW;Gavin Sheets;Kutter Crawford;-2%;46%;Foul Popfly: 3B (3B into Foul Terr.)
+t2;0-0;2;---;3,(0-2) FCS;O;CHW;Lenyn Sosa;Kutter Crawford;-1%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Red Sox 0.
+Bottom of the 2nd, Red Sox Batting, Tied 0-0, White Sox' Mike Clevinger facing 4-5-6 
+;;;;;;;;;Trayce Thompson replaces Luis Robert Jr. playing CF batting 3rd
+b2;0-0;0;---;5,(3-1) .BBBCX;O;BOS;Masataka Yoshida;Mike Clevinger;2%;47%;Lineout: CF (Deep CF)
+b2;0-0;1;---;2,(0-1) CX;O;BOS;Adam Duvall;Mike Clevinger;2%;49%;Groundout: C-1B
+b2;0-0;2;---;3,(1-1) CBX;R;BOS;Wilyer Abreu;Mike Clevinger;-11%;38%;Home Run (Fly Ball to Deep RF Line)
+b2;1-0;2;---;8,(2-2) CF.FBFFBX;O;BOS;Pablo Reyes;Mike Clevinger;1%;39%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. White Sox 0, Red Sox 1.
+Top of the 3rd, White Sox Batting, Behind 0-1, Red Sox' Kutter Crawford facing 8-9-1 
+t3;0-1;0;---;4,(0-2) FCFC;O;CHW;Zach Remillard;Kutter Crawford;-3%;36%;Strikeout Looking
+t3;0-1;1;---;3,(0-2) SS.X;O;CHW;Korey Lee;Kutter Crawford;-2%;35%;Groundout: 2B-1B
+t3;0-1;2;---;4,(1-2) CB.S.T;O;CHW;Elvis Andrus;Kutter Crawford;-1%;33%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Red Sox 1.
+Bottom of the 3rd, Red Sox Batting, Ahead 1-0, White Sox' Mike Clevinger facing 8-9-1 
+b3;1-0;0;---;4,(1-2) CS.BX;O;BOS;Enmanuel Valdez;Mike Clevinger;2%;35%;Flyball: CF (Deep CF)
+b3;1-0;1;---;4,(1-2) BCFH;;BOS;Connor Wong;Mike Clevinger;-2%;33%;Hit By Pitch
+b3;1-0;1;1--;2,(0-1) S>B;;BOS;Ceddanne Rafaela;Mike Clevinger;-4%;29%;Wong Steals 2B; Wong to 3B/Adv on E2 (throw)
+b3;1-0;1;--3;4,(2-1) S>B.BX;O;BOS;Ceddanne Rafaela;Mike Clevinger;5%;35%;Groundout: SS-1B (Weak SS)
+b3;1-0;2;--3;3,(0-2) FSX;O;BOS;Rafael Devers;Mike Clevinger;4%;38%;Flyball: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. White Sox 0, Red Sox 1.
+Top of the 4th, White Sox Batting, Behind 0-1, Red Sox' Kutter Crawford facing 2-3-4 
+t4;0-1;0;---;5,(2-2) BBSFX;;CHW;Andrew Benintendi;Kutter Crawford;7%;46%;Ground-rule Double (Fly Ball to Short LF Line)
+t4;0-1;0;-2-;5,(2-2) BFBFX;O;CHW;Trayce Thompson;Kutter Crawford;-2%;43%;Flyball: RF (RF Line); Benintendi to 3B
+t4;0-1;1;--3;1,(0-0) X;O;CHW;Eloy Jiménez;Kutter Crawford;-7%;36%;Flyball: RF (Deep 2B-1B)
+t4;0-1;2;--3;7,(2-2) CS*BBFFX;O;CHW;Andrew Vaughn;Kutter Crawford;-5%;32%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 0, Red Sox 1.
+Bottom of the 4th, Red Sox Batting, Ahead 1-0, White Sox' Mike Clevinger facing 3-4-5 
+b4;1-0;0;---;4,(1-2) CCBX;O;BOS;Justin Turner;Mike Clevinger;2%;34%;Flyball: CF (Deep CF-RF)
+b4;1-0;1;---;9,(3-2) CBSFBFBFX;;BOS;Masataka Yoshida;Mike Clevinger;-4%;30%;Double to LF (Fly Ball to Deep LF Line)
+b4;1-0;1;-2-;4,(2-1) BSB2H;;BOS;Adam Duvall;Mike Clevinger;-2%;28%;Hit By Pitch
+b4;1-0;1;12-;2,(1-0) BX;O;BOS;Wilyer Abreu;Mike Clevinger;4%;33%;Flyball: LF
+b4;1-0;2;12-;4,(1-2) CFBX;O;BOS;Pablo Reyes;Mike Clevinger;4%;37%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Reyes to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. White Sox 0, Red Sox 1.
+Top of the 5th, White Sox Batting, Behind 0-1, Red Sox' Kutter Crawford facing 6-7-8 
+t5;0-1;0;---;8,(3-2) CBBFBFF*B;;CHW;Gavin Sheets;Kutter Crawford;5%;42%;Walk
+t5;0-1;0;1--;5,(2-2) F*BSBX;O;CHW;Lenyn Sosa;Kutter Crawford;-5%;37%;Flyball: CF (Short CF)
+t5;0-1;1;1--;3,(1-1) CB>S;;CHW;Zach Remillard;Kutter Crawford;2%;39%;Sheets Steals 2B
+t5;0-1;1;-2-;4,(1-2) CB>S.*S;O;CHW;Zach Remillard;Kutter Crawford;-5%;34%;Strikeout Swinging
+t5;0-1;2;-2-;6,(3-2) FFBBBB;;CHW;Korey Lee;Kutter Crawford;2%;36%;Walk
+t5;0-1;2;12-;2,(1-0) BX;RR;CHW;Elvis Andrus;Kutter Crawford;26%;61%;Double to CF (Line Drive to Deep LF-CF); Sheets Scores; Lee Scores
+t5;2-1;2;-2-;4,(2-1) FB*BX;O;CHW;Andrew Benintendi;Kutter Crawford;-4%;58%;Groundout: 2B-1B
+;;;;;;;;;2 runs, 1 hit, 0 errors, 1 LOB. White Sox 2, Red Sox 1.
+Bottom of the 5th, Red Sox Batting, Behind 1-2, White Sox' Mike Clevinger facing 8-9-1 
+b5;1-2;0;---;5,(2-2) CBBFX;;BOS;Enmanuel Valdez;Mike Clevinger;-9%;49%;Double to RF (Ground Ball thru 2B-1B)
+b5;1-2;0;-2-;1,(0-0) X;O;BOS;Connor Wong;Mike Clevinger;2%;51%;Bunt Groundout: P-1B/Sacrifice (Front of Home); Valdez to 3B
+b5;1-2;1;--3;2,(0-1) FX;O;BOS;Ceddanne Rafaela;Mike Clevinger;9%;60%;Lineout: P (Weak SS-2B)
+b5;1-2;2;--3;1,(0-0) X;O;BOS;Rafael Devers;Mike Clevinger;6%;65%;Foul Popfly: 2B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. White Sox 2, Red Sox 1.
+Top of the 6th, White Sox Batting, Ahead 2-1, Red Sox' Kutter Crawford facing 3-4-5 
+t6;2-1;0;---;5,(2-2) SBS.BS;O;CHW;Trayce Thompson;Kutter Crawford;-3%;63%;Strikeout Swinging
+t6;2-1;1;---;1,(0-0) X;;CHW;Eloy Jiménez;Kutter Crawford;5%;67%;Double to LF (Fly Ball)
+t6;2-1;1;-2-;3,(0-2) FCX;;CHW;Andrew Vaughn;Kutter Crawford;5%;73%;Single to RF (Line Drive); Jiménez to 3B
+;;;;;;;;;Chris Murphy replaces Kutter Crawford pitching
+t6;2-1;1;1-3;5,(2-2) .SBBS.X;RO;CHW;Gavin Sheets;Chris Murphy;2%;75%;Flyball: LF/Sacrifice Fly; Jiménez Scores
+t6;3-1;2;1--;2,(0-1) *SX;O;CHW;Lenyn Sosa;Chris Murphy;-2%;73%;Groundout: P-1B (Weak 1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. White Sox 3, Red Sox 1.
+Bottom of the 6th, Red Sox Batting, Behind 1-3, White Sox' Mike Clevinger facing 3-4-5 
+b6;1-3;0;---;4,(1-2) CBSX;O;BOS;Justin Turner;Mike Clevinger;4%;77%;Groundout: 3B-1B
+b6;1-3;1;---;3,(1-1) BTX;O;BOS;Masataka Yoshida;Mike Clevinger;3%;79%;Flyball: LF (Deep LF)
+b6;1-3;2;---;3,(0-2) CS.X;R;BOS;Adam Duvall;Mike Clevinger;-13%;67%;Home Run (Fly Ball to Deep LF)
+b6;2-3;2;---;3,(1-1) CBX;O;BOS;Wilyer Abreu;Mike Clevinger;2%;69%;Foul Popfly: 1B-P (1B into Foul Terr.)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. White Sox 3, Red Sox 2.

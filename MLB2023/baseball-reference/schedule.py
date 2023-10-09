@@ -58,8 +58,9 @@ page = BeautifulSoup(driver.page_source,'html.parser')
 #   div_4800524807
 # div_1998533194
 # div_9550324858
+# div_3799355433
     
-div_schedule = page.find('div', id='div_9550324858')
+div_schedule = page.find('div', id='div_3799355433')
 divs = div_schedule.find_all('div')
 for div in divs:
     div_h3 = div.find('h3')

@@ -1,0 +1,274 @@
+
+Scorebox Meta
+20230920
+12:37 p.m. Local
+5602
+Oakland Coliseum
+163
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/SEA-2023.png;/teams/SEA/2023.shtml;0;2;0;0;4;0;0;0;0;6;8;0
+https://cdn.ssref.net/req/202310031/tlogo/br/OAK-2023.png;/teams/OAK/2023.shtml;0;0;0;1;0;2;0;0;0;3;8;2
+
+Batting home
+Tony Kemp;/players/k/kempto01.shtml;LF;4;0;0;0;0;0;4;.211;.304;.306;.610;10;9;-0.105; 0.84;0.000;-0.105;0%; 0.00; -1.4;5;0;GDP
+Zack Gelof;/players/g/gelofza01.shtml;2B;4;1;2;1;0;0;4;.277;.344;.537;.881;9;7;0.127; 0.88;0.163;-0.036;0%; 0.00; 1.0;1;4;HR,SB
+Ryan Noda;/players/n/nodary01.shtml;1B;4;0;0;0;0;2;4;.232;.371;.416;.788;16;11;-0.086; 0.83;0.000;-0.086;0%; 0.00; -0.9;7;0;
+Seth Brown;/players/b/brownse01.shtml;RF;4;1;2;0;0;0;4;.222;.290;.403;.693;13;10;0.000; 0.61;0.039;-0.039;0%; 0.00; -0.0;1;0;
+Brent Rooker;/players/r/rookebr01.shtml;DH;4;1;1;2;0;1;4;.241;.324;.477;.801;19;12;-0.014; 0.94;0.070;-0.084;0%; 0.00; 1.2;;;HR
+Jordan Diaz;/players/d/diazjo03.shtml;3B;4;0;0;0;0;0;4;.224;.277;.374;.651;12;9;-0.068; 0.65;0.000;-0.068;0%; 0.00; -0.6;1;1;
+Tyler Soderstrom;/players/s/soderty01.shtml;C;3;0;1;0;1;0;4;.171;.238;.261;.499;12;6;-0.004; 0.56;0.032;-0.036;0%; 0.00; 0.2;9;2;
+Kevin Smith;/players/s/smithke05.shtml;SS;4;0;1;0;0;2;4;.194;.231;.339;.569;14;10;-0.031; 0.78;0.030;-0.061;0%; 0.00; -0.5;1;2;
+Lawrence Butler;/players/b/butlela01.shtml;CF;3;0;1;0;0;0;3;.219;.250;.365;.615;6;6;-0.027; 0.91;0.024;-0.050;0%; 0.00; -0.1;2;0;
+Joey Estes;/players/e/estesjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Adrián Martinez;/players/m/martiad01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Francisco Pérez;/players/p/perezfr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Dany Jiménez;/players/j/jimenda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Zack Gelof (13, off George Kirby, 4th inn, 0 on, 0 outs to Deep CF-RF); Brent Rooker (27, off George Kirby, 6th inn, 1 on, 2 outs to Deep CF).
+
+
+TB: Zack Gelof 5; Brent Rooker 4; Seth Brown 2; Lawrence Butler; Tyler Soderstrom; Kevin Smith.
+
+
+GIDP: Tony Kemp (9).
+
+
+RBI: Brent Rooker 2 (62); Zack Gelof (27).
+
+
+2-out RBI: Brent Rooker 2.
+
+
+Team LOB: 5.
+With RISP: 0 for 3.
+
+Batting away
+J.P. Crawford;/players/c/crawfjp01.shtml;SS;5;0;0;0;0;1;5;.264;.378;.429;.807;20;13;-0.064; 0.43;0.000;-0.064;-0.12%; 1.29; -1.5;1;1;GDP
+Julio Rodríguez;/players/r/rodriju01.shtml;CF;4;1;1;1;0;2;5;.285;.342;.498;.841;20;13;0.123; 0.48;0.143;-0.021; 0.22%; 1.45; 0.9;5;0;HR,HBP
+Cal Raleigh;/players/r/raleica01.shtml;C;5;1;2;1;0;2;5;.235;.311;.469;.781;23;15;0.078; 0.46;0.107;-0.029; 0.14%; 1.39; 0.6;5;0;HR,2B
+Teoscar Hernández;/players/h/hernate01.shtml;DH;5;0;1;0;0;3;5;.264;.310;.447;.757;20;16;0.061; 0.73;0.082;-0.021; 0.11%; 2.19; 0.5;;;
+Eugenio Suárez;/players/s/suareeu01.shtml;3B;4;1;1;0;0;0;4;.231;.323;.390;.713;20;11;-0.092; 0.88;0.022;-0.114;-0.17%; 2.65; -1.0;0;1;2B
+Jarred Kelenic;/players/k/kelenja01.shtml;RF;3;0;1;0;1;1;4;.252;.320;.427;.747;12;8;-0.036; 0.70;0.014;-0.050;-0.06%; 2.12; -0.5;2;0;CS,IW
+Ty France;/players/f/francty01.shtml;1B;3;2;0;0;0;0;4;.249;.338;.360;.698;15;9;-0.030; 0.93;0.030;-0.060;-0.05%; 2.79; -0.6;11;1;HBP
+Dominic Canzone;/players/c/canzodo01.shtml;LF;3;1;2;4;0;0;3;.224;.265;.416;.681;11;8;0.268; 0.92;0.285;-0.017; 0.48%; 2.77; 3.4;2;0;HR,2B
+Sam Haggerty;/players/h/haggesa01.shtml;PH-LF;0;0;0;0;1;0;1;.247;.337;.321;.658;10;6;0.011; 0.25;0.011;0.000; 0.02%; 0.75; 0.4;0;0;SB
+Josh Rojas;/players/r/rojasjo01.shtml;2B;3;0;0;0;0;0;3;.241;.302;.328;.630;12;9;-0.031; 0.41;0.000;-0.031;-0.06%; 1.23; -0.6;0;8;
+Dylan Moore;/players/m/mooredy01.shtml;PH-2B;0;0;0;0;1;0;1;.206;.302;.435;.737;5;1;0.003; 0.34;0.003;0.000; 0.01%; 1.02; 0.2;0;1;
+George Kirby;/players/k/kirbyge01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Andrés Muñoz;/players/m/munozan01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Justin Topa;/players/t/topaju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Cal Raleigh (22, off Joey Estes); Eugenio Suárez (26, off Joey Estes); Dominic Canzone (13, off Adrián Martinez).
+
+
+HR: Dominic Canzone (6, off Joey Estes, 2nd inn, 1 on, 1 out to Deep RF Line); Julio Rodríguez (31, off Joey Estes, 5th inn, 0 on, 0 outs to Deep CF-RF); Cal Raleigh (29, off Joey Estes, 5th inn, 0 on, 0 outs to Deep RF Line).
+
+
+IBB: Jarred Kelenic (4, by Joey Estes).
+
+
+HBP: Julio Rodríguez (10, by Joey Estes); Ty France (33, by Joey Estes).
+
+
+TB: Dominic Canzone 6; Cal Raleigh 6; Julio Rodríguez 4; Eugenio Suárez 2; Jarred Kelenic; Teoscar Hernández.
+
+
+GIDP: J.P. Crawford (7).
+
+
+RBI: Dominic Canzone 4 (20); Julio Rodríguez (100); Cal Raleigh (71).
+
+
+2-out RBI: Dominic Canzone 2.
+
+
+Team LOB: 7.
+With RISP: 1 for 8.
+
+Pitching home
+Joey Estes;/players/e/estesjo01.shtml; L (0-1); 4.2;6;6;5;1;2;3;9.64;25;90;60;33;12;15;5;15;5;0;31;;;-0.250; 0.87; 0.00%; 0.00; -2.1
+Adrián Martinez;/players/m/martiad01.shtml;Adrián Martinez; 2.2;2;0;0;0;4;0;5.12;9;44;30;12;8;10;2;3;1;0;;2;2;-0.057; 0.27; 0.00%; 0.00; -0.4
+Francisco Pérez;/players/p/perezfr01.shtml;Francisco Pérez; 0.2;0;0;0;2;0;0;4.70;3;20;10;9;0;1;1;0;0;0;;0;0;0.008; 0.33; 0.00%; 0.00; 0.2
+Dany Jiménez;/players/j/jimenda01.shtml;Dany Jiménez; 1 ;0;0;0;0;3;0;3.38;3;14;10;2;2;6;0;0;0;0;;0;0;0.007; 0.09; 0.00%; 0.00; 0.5
+
+Pitching away
+George Kirby;/players/k/kirbyge01.shtml; W (11-10); 7 ;8;3;3;0;3;2;3.58;28;85;65;43;7;15;12;13;4;0;52;;;0.123; 0.83; 0.22%; 2.48; 0.3
+Andrés Muñoz;/players/m/munozan01.shtml; H (14); 1 ;0;0;0;0;1;0;2.76;3;9;7;4;1;2;1;1;0;0;;0;0;0.047; 0.63; 0.08%; 1.90; 0.5
+Justin Topa;/players/t/topaju01.shtml; S (3); 1 ;0;0;0;1;1;0;2.38;4;17;8;4;2;2;1;1;0;0;;0;0;0.038; 0.52; 0.07%; 1.56; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Joey Estes 2 (2; Julio Rodríguez, Ty France).
+IBB: Joey Estes (1; Jarred Kelenic).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Joey Estes 2 (2; Julio Rodríguez, Ty France).
+IBB: Joey Estes (1; Jarred Kelenic).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Jansen Visconti, 1B - Jeremy Riggs, 2B - Carlos Torres, 3B - Ron Kulpa, LF - (none), RF - (none).
+Time of Game: 2:43.
+Attendance: 5,602.
+Field Condition: Unknown.
+Start Time Weather: 69° F, Wind 5mph out to Rightfield, Sunny, No Precipitation.
+
+div_lineups
+Mariners
+1;J.P. Crawford;/players/c/crawfjp01.shtml;SS
+2;Julio Rodríguez;/players/r/rodriju01.shtml;CF
+3;Cal Raleigh;/players/r/raleica01.shtml;C
+4;Teoscar Hernández;/players/h/hernate01.shtml;DH
+5;Eugenio Suárez;/players/s/suareeu01.shtml;3B
+6;Jarred Kelenic;/players/k/kelenja01.shtml;RF
+7;Ty France;/players/f/francty01.shtml;1B
+8;Dominic Canzone;/players/c/canzodo01.shtml;LF
+9;Josh Rojas;/players/r/rojasjo01.shtml;2B
+; George Kirby;/players/k/kirbyge01.shtml;P
+Athletics
+1;Tony Kemp;/players/k/kempto01.shtml;LF
+2;Zack Gelof;/players/g/gelofza01.shtml;2B
+3;Ryan Noda;/players/n/nodary01.shtml;1B
+4;Seth Brown;/players/b/brownse01.shtml;RF
+5;Brent Rooker;/players/r/rookebr01.shtml;DH
+6;Jordan Diaz;/players/d/diazjo03.shtml;3B
+7;Tyler Soderstrom;/players/s/soderty01.shtml;C
+8;Kevin Smith;/players/s/smithke05.shtml;SS
+9;Lawrence Butler;/players/b/butlela01.shtml;CF
+; Joey Estes;/players/e/estesjo01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;0-0;1;1--;3,(1-1) BSX;RR;SEA;Dominic Canzone;Joey Estes;19%;69%;Home Run (Fly Ball to Deep RF Line); France Scores/unER
+b4;0-2;0;---;2,(1-0) BX;R;OAK;Zack Gelof;George Kirby;-12%;58%;Home Run (Fly Ball to Deep CF-RF)
+t5;2-1;0;---;5,(2-2) FBSB.X;R;SEA;Julio Rodríguez;Joey Estes;12%;76%;Home Run (Fly Ball to Deep CF-RF)
+t5;4-1;2;12-;4,(1-2) .CFBX;RR;SEA;Dominic Canzone;Adrián Martinez;10%;94%;Double to LF (Fly Ball to Deep LF); Suárez Scores; France Scores
+t5;3-1;0;---;5,(2-2) SCBB.X;R;SEA;Cal Raleigh;Joey Estes;9%;85%;Home Run (Fly Ball to Deep RF Line)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Mariners Batting, Tied 0-0, Athletics' Joey Estes facing 1-2-3 
+t1;0-0;0;---;5,(2-2) BFBC.X;O;SEA;J.P. Crawford;Joey Estes;-2%;48%;Foul Popfly: C (Behind Home)
+t1;0-0;1;---;3,(1-1) BFX;O;SEA;Julio Rodríguez;Joey Estes;-2%;46%;Flyball: CF (Deep CF)
+t1;0-0;2;---;6,(3-2) SBBBC.X;;SEA;Cal Raleigh;Joey Estes;2%;49%;Ground-rule Double (Line Drive to Deep CF-RF)
+t1;0-0;2;-2-;6,(2-2) SBS.BFX;;SEA;Teoscar Hernández;Joey Estes;2%;50%;Reached on E5 (Ground Ball); Raleigh to 3B; Hernández to 1B
+t1;0-0;2;1-3;4,(2-1) BBCX;O;SEA;Eugenio Suárez;Joey Estes;-5%;45%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 1 error, 2 LOB. Mariners 0, Athletics 0.
+Bottom of the 1st, Athletics Batting, Tied 0-0, Mariners' George Kirby facing 1-2-3 
+b1;0-0;0;---;3,(0-2) CFX;O;OAK;Tony Kemp;George Kirby;2%;47%;Groundout: 2B-1B (Deep 2B-1B)
+b1;0-0;1;---;2,(0-1) CX;;OAK;Zack Gelof;George Kirby;-2%;45%;Single to CF (Fly Ball)
+b1;0-0;1;1--;3,(1-1) CB>S;;OAK;Ryan Noda;George Kirby;-2%;43%;Gelof Steals 2B
+;;;;;;;;;Tag play Challenged by OAK manager (Mark Kotsay): Original call overturned as shown.
+b1;0-0;1;-2-;4,(1-2) CB>S.X;O;OAK;Ryan Noda;George Kirby;3%;47%;Flyball: LF (Short LF)
+b1;0-0;2;-2-;6,(1-2) FF.FBFX;O;OAK;Seth Brown;George Kirby;3%;50%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mariners 0, Athletics 0.
+Top of the 2nd, Mariners Batting, Tied 0-0, Athletics' Joey Estes facing 6-7-8 
+t2;0-0;0;---;2,(0-1) CX;O;SEA;Jarred Kelenic;Joey Estes;-2%;48%;Groundout: 2B-1B (2B-1B)
+t2;0-0;1;---;5,(0-2) FF.FFX;;SEA;Ty France;Joey Estes;3%;50%;Reached on E5 (Ground Ball); France to 1B
+t2;0-0;1;1--;3,(1-1) BSX;RR;SEA;Dominic Canzone;Joey Estes;19%;69%;Home Run (Fly Ball to Deep RF Line); France Scores/unER
+t2;2-0;1;---;4,(1-2) SBCX;O;SEA;Josh Rojas;Joey Estes;-1%;68%;Lineout: LF (Deep LF)
+t2;2-0;2;---;3,(1-1) CBX;O;SEA;J.P. Crawford;Joey Estes;-1%;67%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;2 runs, 1 hit, 1 error, 0 LOB. Mariners 2, Athletics 0.
+Bottom of the 2nd, Athletics Batting, Behind 0-2, Mariners' George Kirby facing 5-6-7 
+b2;0-2;0;---;8,(3-2) BCCBBFFX;O;OAK;Brent Rooker;George Kirby;2%;70%;Flyball: CF (Deep CF-RF)
+b2;0-2;1;---;6,(2-2) FBBFFX;O;OAK;Jordan Diaz;George Kirby;2%;71%;Groundout: 2B-1B
+b2;0-2;2;---;1,(0-0) X;O;OAK;Tyler Soderstrom;George Kirby;1%;72%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 2, Athletics 0.
+Top of the 3rd, Mariners Batting, Ahead 2-0, Athletics' Joey Estes facing 2-3-4 
+t3;2-0;0;---;2,(0-1) FH;;SEA;Julio Rodríguez;Joey Estes;3%;75%;Hit By Pitch
+t3;2-0;0;1--;1,(0-0) X;O;SEA;Cal Raleigh;Joey Estes;-3%;72%;Popfly: 3B (SS-3B Hole)
+t3;2-0;1;1--;3,(0-2) CCX;;SEA;Teoscar Hernández;Joey Estes;5%;78%;Single to RF (Line Drive to Deep RF Line); Rodríguez to 3B
+t3;2-0;1;1-3;4,(2-1) BCBB;;SEA;Eugenio Suárez;Joey Estes;1%;79%;Passed Ball; Hernández to 2B
+t3;2-0;1;-23;6,(3-2) BCBB.FX;O;SEA;Eugenio Suárez;Joey Estes;-6%;73%;Flyball: RF (Short RF)
+t3;2-0;2;-23;,(3-0) VVVV;;SEA;Jarred Kelenic;Joey Estes;1%;74%;Intentional Walk
+t3;2-0;2;123;2,(1-0) BX;O;SEA;Ty France;Joey Estes;-5%;69%;Flyball: LF (Deep LF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Mariners 2, Athletics 0.
+Bottom of the 3rd, Athletics Batting, Behind 0-2, Mariners' George Kirby facing 8-9-1 
+b3;0-2;0;---;2,(0-1) CX;O;OAK;Kevin Smith;George Kirby;3%;71%;Groundout: 2B-1B
+b3;0-2;1;---;3,(0-2) CSX;O;OAK;Lawrence Butler;George Kirby;2%;73%;Lineout: CF (Deep CF)
+b3;0-2;2;---;3,(0-2) FFX;O;OAK;Tony Kemp;George Kirby;1%;74%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 2, Athletics 0.
+Top of the 4th, Mariners Batting, Ahead 2-0, Athletics' Joey Estes facing 8-9-1 
+t4;2-0;0;---;4,(1-2) BFSX;O;SEA;Dominic Canzone;Joey Estes;-2%;72%;Groundout: 2B-1B
+t4;2-0;1;---;3,(1-1) BCX;O;SEA;Josh Rojas;Joey Estes;-1%;71%;Flyball: LF (LF-CF)
+t4;2-0;2;---;2,(0-1) CX;O;SEA;J.P. Crawford;Joey Estes;-1%;70%;Lineout: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 2, Athletics 0.
+Bottom of the 4th, Athletics Batting, Behind 0-2, Mariners' George Kirby facing 2-3-4 
+b4;0-2;0;---;2,(1-0) BX;R;OAK;Zack Gelof;George Kirby;-12%;58%;Home Run (Fly Ball to Deep CF-RF)
+b4;1-2;0;---;1,(0-0) X;O;OAK;Ryan Noda;George Kirby;3%;61%;Flyball: CF (Deep CF)
+b4;1-2;1;---;3,(1-1) BCX;;OAK;Seth Brown;George Kirby;-3%;58%;Single to RF (Ground Ball thru 2B-1B)
+b4;1-2;1;1--;6,(3-2) BBCBCS;O;OAK;Brent Rooker;George Kirby;4%;62%;Strikeout Swinging
+b4;1-2;2;1--;2,(0-1) SX;O;OAK;Jordan Diaz;George Kirby;3%;65%;Groundout: 2B-1B (SS-2B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Mariners 2, Athletics 1.
+Top of the 5th, Mariners Batting, Ahead 2-1, Athletics' Joey Estes facing 2-3-4 
+t5;2-1;0;---;5,(2-2) FBSB.X;R;SEA;Julio Rodríguez;Joey Estes;12%;76%;Home Run (Fly Ball to Deep CF-RF)
+t5;3-1;0;---;5,(2-2) SCBB.X;R;SEA;Cal Raleigh;Joey Estes;9%;85%;Home Run (Fly Ball to Deep RF Line)
+t5;4-1;0;---;4,(1-2) SFB*S;O;SEA;Teoscar Hernández;Joey Estes;-1%;84%;Strikeout Swinging
+t5;4-1;1;---;4,(1-2) FBCX;;SEA;Eugenio Suárez;Joey Estes;2%;86%;Ground-rule Double (Line Drive to Deep CF)
+t5;4-1;1;-2-;4,(1-2) BCC.S;O;SEA;Jarred Kelenic;Joey Estes;-2%;84%;Strikeout Swinging
+t5;4-1;2;-2-;4,(2-1) BBSH;;SEA;Ty France;Joey Estes;0%;85%;Hit By Pitch
+;;;;;;;;;Adrián Martinez replaces Joey Estes pitching
+t5;4-1;2;12-;4,(1-2) .CFBX;RR;SEA;Dominic Canzone;Adrián Martinez;10%;94%;Double to LF (Fly Ball to Deep LF); Suárez Scores; France Scores
+t5;6-1;2;-2-;5,(1-2) CCBFX;O;SEA;Josh Rojas;Adrián Martinez;-1%;93%;Flyball: CF (Short CF)
+;;;;;;;;;4 runs, 4 hits, 0 errors, 1 LOB. Mariners 6, Athletics 1.
+Bottom of the 5th, Athletics Batting, Behind 1-6, Mariners' George Kirby facing 7-8-9 
+b5;1-6;0;---;3,(1-1) CBX;;OAK;Tyler Soderstrom;George Kirby;-2%;91%;Single to CF (Ground Ball thru SS-2B)
+b5;1-6;0;1--;3,(0-2) FFC;O;OAK;Kevin Smith;George Kirby;2%;93%;Strikeout Looking
+b5;1-6;1;1--;2,(0-1) CX;;OAK;Lawrence Butler;George Kirby;-2%;91%;Single to LF (Line Drive to Deep LF); Soderstrom to 2B
+b5;1-6;1;12-;3,(1-1) BFX;OO;OAK;Tony Kemp;George Kirby;5%;96%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Mariners 6, Athletics 1.
+Top of the 6th, Mariners Batting, Ahead 6-1, Athletics' Adrián Martinez facing 1-2-3 
+t6;6-1;0;---;5,(2-2) CFBBS;O;SEA;J.P. Crawford;Adrián Martinez;0%;96%;Strikeout Swinging
+t6;6-1;1;---;5,(1-2) BSFF*S;O;SEA;Julio Rodríguez;Adrián Martinez;0%;95%;Strikeout Swinging; Rodríguez out at 1B/C-1B
+t6;6-1;2;---;5,(2-2) CVS.FBC;O;SEA;Cal Raleigh;Adrián Martinez;0%;95%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 6, Athletics 1.
+Bottom of the 6th, Athletics Batting, Behind 1-6, Mariners' George Kirby facing 2-3-4 
+b6;1-6;0;---;4,(1-2) BFFX;O;OAK;Zack Gelof;George Kirby;1%;96%;Groundout: 2B-1B (SS-2B)
+b6;1-6;1;---;6,(3-2) BSBS.BC;O;OAK;Ryan Noda;George Kirby;1%;97%;Strikeout Looking
+b6;1-6;2;---;1,(0-0) X;;OAK;Seth Brown;George Kirby;-1%;96%;Single to LF (Line Drive)
+b6;1-6;2;1--;3,(0-2) SFX;RR;OAK;Brent Rooker;George Kirby;-7%;89%;Home Run (Fly Ball to Deep CF); Brown Scores
+b6;3-6;2;---;2,(0-1) CX;O;OAK;Jordan Diaz;George Kirby;1%;90%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Mariners 6, Athletics 3.
+Top of the 7th, Mariners Batting, Ahead 6-3, Athletics' Adrián Martinez facing 4-5-6 
+t7;6-3;0;---;4,(1-2) CSBS;O;SEA;Teoscar Hernández;Adrián Martinez;-1%;90%;Strikeout Swinging
+t7;6-3;1;---;6,(3-2) CBBBCX;O;SEA;Eugenio Suárez;Adrián Martinez;-1%;89%;Groundout: 3B-1B
+t7;6-3;2;---;6,(3-2) FBBBSX;;SEA;Jarred Kelenic;Adrián Martinez;0%;89%;Single to CF (Line Drive to Deep LF-CF)
+t7;6-3;2;1--;2,(0-1) C1>B;O;SEA;Ty France;Adrián Martinez;-1%;88%;Kelenic Caught Stealing 2B (C-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Mariners 6, Athletics 3.
+Bottom of the 7th, Athletics Batting, Behind 3-6, Mariners' George Kirby facing 7-8-9 
+b7;3-6;0;---;2,(1-0) BX;O;OAK;Tyler Soderstrom;George Kirby;3%;91%;Groundout: 1B-P
+b7;3-6;1;---;2,(1-0) BX;;OAK;Kevin Smith;George Kirby;-3%;88%;Single to LF (Ground Ball thru SS-3B Hole)
+b7;3-6;1;1--;1,(0-0) X;O;OAK;Lawrence Butler;George Kirby;3%;91%;Flyball: LF (Deep LF Line)
+b7;3-6;2;1--;1,(0-0) X;O;OAK;Tony Kemp;George Kirby;2%;94%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Mariners 6, Athletics 3.
+Top of the 8th, Mariners Batting, Ahead 6-3, Athletics' Adrián Martinez facing 7-8-9 
+t8;6-3;0;---;2,(0-1) SX;O;SEA;Ty France;Adrián Martinez;-1%;93%;Groundout: SS-1B
+;;;;;;;;;Francisco Pérez replaces Adrián Martinez pitchingSam Haggerty pinch hits for Dominic Canzone (LF) batting 8th
+t8;6-3;1;---;10,(3-2) ..BFBT.BFFFFB;;SEA;Sam Haggerty;Francisco Pérez;1%;94%;Walk
+;;;;;;;;;Dylan Moore pinch hits for Josh Rojas (2B) batting 9th
+t8;6-3;1;1--;3,(2-0) .BB>B;;SEA;Dylan Moore;Francisco Pérez;1%;94%;Haggerty Steals 2B
+t8;6-3;1;-2-;5,(3-1) .BB>B.CB;;SEA;Dylan Moore;Francisco Pérez;0%;94%;Walk
+t8;6-3;1;12-;5,(2-2) FBBFX;OO;SEA;J.P. Crawford;Francisco Pérez;-2%;92%;Ground Ball Double Play: 2B-SS-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mariners 6, Athletics 3.
+Bottom of the 8th, Athletics Batting, Behind 3-6, Mariners' Andrés Muñoz facing 2-3-4 
+;;;;;;;;;Andrés Muñoz replaces George Kirby pitchingDylan Moore moves from PH to 2B Sam Haggerty moves from PH to LF 
+b8;3-6;0;---;1,(0-0) ...X;O;OAK;Zack Gelof;Andrés Muñoz;2%;95%;Groundout: 2B-1B (SS-2B)
+b8;3-6;1;---;5,(1-2) CC.FBS;O;OAK;Ryan Noda;Andrés Muñoz;2%;96%;Strikeout Swinging
+b8;3-6;2;---;3,(1-1) F.BX;O;OAK;Seth Brown;Andrés Muñoz;1%;97%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 6, Athletics 3.
+Top of the 9th, Mariners Batting, Ahead 6-3, Athletics' Dany Jiménez facing 2-3-4 
+;;;;;;;;;Dany Jiménez replaces Francisco Pérez pitching
+t9;6-3;0;---;5,(2-2) .BCBFC;O;SEA;Julio Rodríguez;Dany Jiménez;0%;97%;Strikeout Looking
+t9;6-3;1;---;6,(2-2) CC.BBFC;O;SEA;Cal Raleigh;Dany Jiménez;0%;96%;Strikeout Looking
+t9;6-3;2;---;3,(0-2) CSS;O;SEA;Teoscar Hernández;Dany Jiménez;0%;96%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Mariners 6, Athletics 3.
+Bottom of the 9th, Athletics Batting, Behind 3-6, Mariners' Justin Topa facing 5-6-7 
+;;;;;;;;;Justin Topa replaces Andrés Muñoz pitching
+b9;3-6;0;---;2,(1-0) .BX;O;OAK;Brent Rooker;Justin Topa;2%;98%;Flyball: RF (Short RF)
+b9;3-6;1;---;2,(1-0) BX;O;OAK;Jordan Diaz;Justin Topa;1%;100%;Groundout: 3B-1B
+b9;3-6;2;---;6,(3-2) BFBS.BB;;OAK;Tyler Soderstrom;Justin Topa;-1%;99%;Walk
+b9;3-6;2;1--;7,(3-2) CBBCFB>S;O;OAK;Kevin Smith;Justin Topa;1%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Mariners 6, Athletics 3.

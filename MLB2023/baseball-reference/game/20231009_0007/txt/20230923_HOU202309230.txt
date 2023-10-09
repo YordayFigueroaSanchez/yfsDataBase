@@ -1,0 +1,264 @@
+
+Scorebox Meta
+20230923
+6:10 p.m. Local
+41692
+Minute Maid Park
+165
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/KCR-2023.png;/teams/KCR/2023.shtml;1;0;0;0;2;0;0;0;0;3;7;0
+https://cdn.ssref.net/req/202310031/tlogo/br/HOU-2023.png;/teams/HOU/2023.shtml;0;0;0;0;0;0;1;1;0;2;6;1
+
+Batting home
+Jose Altuve;/players/a/altuvjo01.shtml;2B;4;0;0;0;1;2;5;.310;.397;.538;.935;22;13;-0.124; 1.29;0.030;-0.155;-0.28%; 4.88; -0.7;3;1;
+Alex Bregman;/players/b/bregmal01.shtml;3B;3;0;0;0;1;0;4;.264;.367;.441;.808;15;7;-0.080; 1.22;0.026;-0.106;-0.18%; 4.62; -0.5;0;1;
+Yordan Alvarez;/players/a/alvaryo01.shtml;DH;4;1;1;0;0;0;4;.292;.409;.577;.986;18;9;-0.002; 1.02;0.073;-0.075;-0.01%; 3.87; -0.3;;;2B
+Kyle Tucker;/players/t/tuckeky01.shtml;RF;3;0;1;1;1;1;4;.282;.367;.511;.878;20;10;0.136; 1.14;0.190;-0.054; 0.31%; 4.31; 0.7;2;0;2B,SB
+José Abreu;/players/a/abreujo02.shtml;1B;3;0;0;0;0;2;4;.234;.294;.372;.666;23;14;-0.035; 1.62;0.044;-0.080;-0.08%; 6.14; -0.5;5;1;HBP
+Chas McCormick;/players/m/mccorch01.shtml;LF;4;1;1;1;0;0;4;.281;.361;.507;.868;17;10;-0.060; 1.89;0.093;-0.152;-0.14%; 7.17; 0.2;2;0;HR
+Yainer Diaz;/players/d/diazya02.shtml;C;4;0;1;0;0;1;4;.285;.310;.548;.857;18;10;-0.174; 1.94;0.014;-0.188;-0.40%; 7.36; -0.8;10;2;
+Jeremy Peña;/players/p/penaje02.shtml;SS;4;0;2;0;0;0;4;.262;.323;.383;.706;9;7;-0.014; 1.60;0.102;-0.115;-0.03%; 6.07; 0.3;0;2;2·SB
+Jake Meyers;/players/m/meyerja02.shtml;CF;2;0;0;0;0;0;2;.227;.296;.382;.678;10;5;-0.067; 1.24;0.000;-0.067;-0.15%; 4.70; -0.6;5;0;
+Jon Singleton;/players/s/singljo02.shtml;PH;1;0;0;0;0;1;1;.167;.272;.267;.539;7;4;-0.050; 2.08;0.000;-0.050;-0.11%; 7.88; -0.3;;;
+Mauricio Dubón;/players/d/dubonma01.shtml;CF;1;0;0;0;0;0;1;.281;.312;.412;.724;7;4;-0.066; 2.66;0.000;-0.066;-0.15%;10.08; -0.2;0;0;
+J.P. France;/players/f/francjp01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Bennett Sousa;/players/s/sousabe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Abreu;/players/a/abreubr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Rafael Montero;/players/m/montera01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Yordan Alvarez (23, off Tucker Davidson); Kyle Tucker (34, off Tucker Davidson).
+
+
+HR: Chas McCormick (22, off Collin Snider, 7th inn, 0 on, 0 outs to Deep LF Line).
+
+
+HBP: José Abreu (6, by Taylor Clarke).
+
+
+TB: Chas McCormick 4; Jeremy Peña 2; Kyle Tucker 2; Yordan Alvarez 2; Yainer Diaz.
+
+
+RBI: Chas McCormick (69); Kyle Tucker (109).
+
+
+Team LOB: 8.
+With RISP: 1 for 7.
+
+Batting away
+Maikel Garcia;/players/g/garcima01.shtml;3B;4;1;2;0;0;1;4;.275;.325;.365;.690;12;8;0.129; 1.20;0.158;-0.029;0%; 0.00; 1.3;1;3;SB
+Bobby Witt;/players/w/wittbo02.shtml;SS;4;0;0;1;0;2;4;.276;.317;.492;.809;20;13;-0.144; 1.20;0.005;-0.149;0%; 0.00; -2.0;1;1;CS
+MJ Melendez;/players/m/melenmj01.shtml;LF;3;0;0;1;0;2;4;.233;.312;.392;.705;18;12;-0.028; 0.75;0.018;-0.046;0%; 0.00; -0.4;4;0;SF
+Dairon Blanco;/players/b/blancda02.shtml;LF;0;0;0;0;0;0;0;.226;.299;.400;.699;;;;;;;;;;0;0;
+Nelson Velázquez;/players/v/velazne01.shtml;DH;4;0;0;0;0;1;4;.231;.302;.587;.889;17;11;-0.061; 0.59;0.000;-0.061;0%; 0.00; -0.8;;;
+Michael Massey;/players/m/massemi02.shtml;2B;4;0;2;0;0;0;4;.227;.273;.379;.652;16;11;0.054; 0.58;0.075;-0.021;0%; 0.00; 0.5;2;1;2B
+Drew Waters;/players/w/waterdr01.shtml;RF;4;0;1;0;0;2;4;.237;.308;.390;.699;14;9;-0.040; 0.91;0.082;-0.122;0%; 0.00; -0.5;5;0;CS
+Tyler Cropley;/players/c/croplty01.shtml;C;3;0;0;0;0;1;3;.167;.143;.167;.310;17;12;-0.099; 0.96;0.000;-0.099;0%; 0.00; -1.2;6;1;
+Nick Pratto;/players/p/prattni01.shtml;1B;3;1;1;0;0;2;3;.229;.308;.356;.664;15;9;-0.005; 0.83;0.037;-0.042;0%; 0.00; -0.1;7;0;
+Kyle Isbel;/players/i/isbelky01.shtml;CF;2;1;1;0;1;0;3;.234;.276;.376;.652;18;9;0.156; 0.93;0.161;-0.005;0%; 0.00; 1.6;1;0;
+Jordan Lyles;/players/l/lylesjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Carlos Hernández;/players/h/hernaca04.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Collin Snider;/players/s/snideco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tucker Davidson;/players/d/davidtu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Taylor Clarke;/players/c/clarkta01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Michael Massey (18, off J.P. France).
+
+
+SF: MJ Melendez (4, off J.P. France).
+
+
+TB: Michael Massey 3; Maikel Garcia 2; Drew Waters; Kyle Isbel; Nick Pratto.
+
+
+RBI: Bobby Witt (93); MJ Melendez (55).
+
+
+Team LOB: 3.
+With RISP: 1 for 9.
+
+Pitching home
+J.P. France;/players/f/francjp01.shtml; L (11-6); 5 ;7;3;2;1;5;0;3.83;21;91;58;32;11;15;6;9;3;0;47;;;-0.078; 1.15;-0.18%; 4.37; -0.4
+Bennett Sousa;/players/s/sousabe01.shtml;Bennett Sousa; 2 ;0;0;0;0;1;0;5.40;6;28;19;13;3;3;2;3;1;0;;0;0;0.046; 0.30; 0.10%; 1.16; 1.0
+Bryan Abreu;/players/a/abreubr01.shtml;Bryan Abreu; 1 ;0;0;0;0;3;0;1.84;3;15;9;1;5;3;0;0;0;0;;0;0;0.029; 0.39; 0.07%; 1.47; 0.5
+Rafael Montero;/players/m/montera01.shtml;Rafael Montero; 1 ;0;0;0;0;2;0;4.88;3;13;8;4;2;2;0;1;0;0;;0;0;0.039; 0.51; 0.09%; 1.94; 0.5
+
+Pitching away
+Jordan Lyles;/players/l/lylesjo01.shtml; W (5-17); 5 ;2;0;0;2;3;0;6.24;19;82;42;28;5;9;5;9;3;0;64;;;0.286; 0.96; 0.00%; 0.00; 2.6
+Carlos Hernández;/players/h/hernaca04.shtml; H (15); 1 ;0;0;0;1;1;0;5.05;4;20;11;6;3;2;0;2;0;0;;0;0;0.056; 0.84; 0.00%; 0.00; 0.5
+Collin Snider;/players/s/snideco01.shtml; H (3); 1 ;2;1;1;0;2;1;4.26;5;22;15;7;2;6;2;1;0;0;;0;0;-0.010; 1.51; 0.00%; 0.00; -0.5
+Tucker Davidson;/players/d/davidtu01.shtml; H (1); 0.1;2;1;1;0;0;0;6.20;3;14;9;6;1;2;0;3;3;0;;0;0;-0.197; 1.76; 0.00%; 0.00; -1.2
+Taylor Clarke;/players/c/clarkta01.shtml; S (3); 1.2;0;0;0;0;1;0;5.49;6;28;16;11;4;1;1;3;0;0;;1;0;0.402; 3.58; 0.00%; 0.00; 1.2
+
+indiv_events
+
+Balks: None.
+WP: J.P. France (6).
+HBP: Taylor Clarke (3; José Abreu).
+IBB: None.
+Pickoffs: J.P. France (1; Bobby Witt, 2nd base (CS)).
+
+Balks: None.
+WP: J.P. France (6).
+HBP: Taylor Clarke (3; José Abreu).
+IBB: None.
+Pickoffs: J.P. France (1; Bobby Witt, 2nd base (CS)).
+
+section_content
+Umpires: HP - Will Little, 1B - Ryan Additon, 2B - Lance Barksdale, 3B - Ryan Wills, LF - (none), RF - (none).
+Time of Game: 2:45.
+Attendance: 41,692.
+Start Time Weather: 73° F, Wind 0mph, In Dome.
+
+div_lineups
+Royals
+1;Maikel Garcia;/players/g/garcima01.shtml;3B
+2;Bobby Witt;/players/w/wittbo02.shtml;SS
+3;MJ Melendez;/players/m/melenmj01.shtml;LF
+4;Nelson Velázquez;/players/v/velazne01.shtml;DH
+5;Michael Massey;/players/m/massemi02.shtml;2B
+6;Drew Waters;/players/w/waterdr01.shtml;RF
+7;Tyler Cropley;/players/c/croplty01.shtml;C
+8;Nick Pratto;/players/p/prattni01.shtml;1B
+9;Kyle Isbel;/players/i/isbelky01.shtml;CF
+; Jordan Lyles;/players/l/lylesjo01.shtml;P
+Astros
+1;Jose Altuve;/players/a/altuvjo01.shtml;2B
+2;Alex Bregman;/players/b/bregmal01.shtml;3B
+3;Yordan Alvarez;/players/a/alvaryo01.shtml;DH
+4;Kyle Tucker;/players/t/tuckeky01.shtml;RF
+5;José Abreu;/players/a/abreujo02.shtml;1B
+6;Chas McCormick;/players/m/mccorch01.shtml;LF
+7;Yainer Diaz;/players/d/diazya02.shtml;C
+8;Jeremy Peña;/players/p/penaje02.shtml;SS
+9;Jake Meyers;/players/m/meyerja02.shtml;CF
+; J.P. France;/players/f/francjp01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b8;1-3;1;-2-;4,(1-2) BFFX;R;HOU;Kyle Tucker;Tucker Davidson;-17%;64%;Double to RF (Line Drive to Deep RF Line); Alvarez Scores
+b8;2-3;2;12-;5,(2-2) FBFB*S;O;HOU;Yainer Diaz;Taylor Clarke;12%;84%;Strikeout Swinging; Diaz out at 1B/C-1B
+b8;2-3;1;12-;3,(2-0) BBX;O;HOU;Chas McCormick;Taylor Clarke;12%;71%;Foul Popfly: 1B (1B into Foul Terr.)
+b7;0-3;0;---;5,(1-2) .CC.BFX;R;HOU;Chas McCormick;Collin Snider;-9%;78%;Home Run (Fly Ball to Deep LF Line)
+b9;2-3;0;---;3,(0-2) SF.X;O;HOU;Jeremy Peña;Taylor Clarke;9%;89%;Flyball: CF (Deep CF-RF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Royals Batting, Tied 0-0, Astros' J.P. France facing 1-2-3 
+t1;0-0;0;---;4,(2-1) SBBX;;KCR;Maikel Garcia;J.P. France;4%;54%;Single to 3B (Ground Ball to Weak 3B)
+t1;0-0;0;1--;2,(0-1) C>B;;KCR;Bobby Witt;J.P. France;5%;59%;Garcia Steals 2B; Garcia to 3B/Adv on E2 (throw)
+t1;0-0;0;--3;7,(3-2) C>B.BFBFS;O;KCR;Bobby Witt;J.P. France;-4%;54%;Strikeout Swinging
+t1;0-0;1;--3;4,(1-2) BFFX;RO;KCR;MJ Melendez;J.P. France;2%;56%;Lineout: CF/Sacrifice Fly (Deep CF); Garcia Scores/unER
+t1;1-0;2;---;2,(0-1) SX;O;KCR;Nelson Velázquez;J.P. France;-1%;55%;Popfly: 2B (Deep 2B)
+;;;;;;;;;1 run, 1 hit, 1 error, 0 LOB. Royals 1, Astros 0.
+Bottom of the 1st, Astros Batting, Behind 0-1, Royals' Jordan Lyles facing 1-2-3 
+b1;0-1;0;---;4,(1-2) FBC*S;O;HOU;Jose Altuve;Jordan Lyles;2%;58%;Strikeout Swinging
+b1;0-1;1;---;5,(3-1) CBBBB;;HOU;Alex Bregman;Jordan Lyles;-3%;55%;Walk
+b1;0-1;1;1--;6,(3-2) BBCBTX;O;HOU;Yordan Alvarez;Jordan Lyles;3%;58%;Flyball: LF (Deep LF Line)
+b1;0-1;2;1--;4,(2-1) B*BFX;O;HOU;Kyle Tucker;Jordan Lyles;2%;60%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Royals 1, Astros 0.
+Top of the 2nd, Royals Batting, Ahead 1-0, Astros' J.P. France facing 5-6-7 
+t2;1-0;0;---;3,(0-2) CCX;;KCR;Michael Massey;J.P. France;3%;64%;Single to RF (Line Drive to CF-RF)
+t2;1-0;0;1--;1,(0-0) X;;KCR;Drew Waters;J.P. France;8%;72%;Single to RF (Line Drive); Massey to 3B
+t2;1-0;0;1-3;3,(0-2) FS>B;O;KCR;Tyler Cropley;J.P. France;-7%;65%;Waters Caught Stealing 2B (C-2B)
+t2;1-0;1;--3;5,(1-2) FS>B.F*S;O;KCR;Tyler Cropley;J.P. France;-5%;59%;Strikeout Swinging; Cropley out at 1B/C-1B
+t2;1-0;2;--3;7,(3-2) BC*BFBFC;O;KCR;Nick Pratto;J.P. France;-4%;56%;Strikeout Looking
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Royals 1, Astros 0.
+Bottom of the 2nd, Astros Batting, Behind 0-1, Royals' Jordan Lyles facing 5-6-7 
+b2;0-1;0;---;5,(2-2) BCBC.X;O;HOU;José Abreu;Jordan Lyles;3%;58%;Groundout: 1B unassisted (Weak 1B)
+b2;0-1;1;---;7,(3-2) TBFBBFX;O;HOU;Chas McCormick;Jordan Lyles;2%;60%;Lineout: LF (LF-CF)
+b2;0-1;2;---;7,(3-2) SBBFFBX;;HOU;Yainer Diaz;Jordan Lyles;-1%;59%;Single to RF (Line Drive to Short RF Line)
+b2;0-1;2;1--;2,(1-0) BX;O;HOU;Jeremy Peña;Jordan Lyles;3%;61%;Groundout: 3B-2B/Forceout at 2B (Weak 3B); Peña to 1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 1, Astros 0.
+Top of the 3rd, Royals Batting, Ahead 1-0, Astros' J.P. France facing 9-1-2 
+t3;1-0;0;---;6,(3-2) BBCS.BX;;KCR;Kyle Isbel;J.P. France;3%;65%;Single to CF (Ground Ball thru SS-2B)
+t3;1-0;0;1--;1,(0-0) X;O;KCR;Maikel Garcia;J.P. France;-2%;63%;Flyball: CF (Deep CF); Isbel to 2B
+t3;1-0;1;-2-;2,(1-0) *BX;O;KCR;Bobby Witt;J.P. France;-3%;60%;Flyball: RF (Short RF Line)
+t3;1-0;2;-2-;4,(1-2) *BCCX;O;KCR;MJ Melendez;J.P. France;-3%;56%;Groundout: P-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 1, Astros 0.
+Bottom of the 3rd, Astros Batting, Behind 0-1, Royals' Jordan Lyles facing 9-1-2 
+b3;0-1;0;---;4,(2-1) BBCX;O;HOU;Jake Meyers;Jordan Lyles;3%;59%;Groundout: 3B-1B (SS-3B Hole)
+b3;0-1;1;---;6,(3-2) .BFBFBB;;HOU;Jose Altuve;Jordan Lyles;-3%;56%;Walk
+b3;0-1;1;1--;4,(2-1) *BBCX;O;HOU;Alex Bregman;Jordan Lyles;3%;60%;Flyball: RF (Deep 1B)
+b3;0-1;2;1--;3,(2-0) BBX;O;HOU;Yordan Alvarez;Jordan Lyles;3%;62%;Flyball: RF (CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Royals 1, Astros 0.
+Top of the 4th, Royals Batting, Ahead 1-0, Astros' J.P. France facing 4-5-6 
+t4;1-0;0;---;4,(2-1) BSBX;O;KCR;Nelson Velázquez;J.P. France;-2%;60%;Flyball: CF (Short CF)
+t4;1-0;1;---;6,(3-2) BCFBBX;;KCR;Michael Massey;J.P. France;4%;64%;Double to 3B (Fly Ball to Deep 3B)
+t4;1-0;1;-2-;6,(2-2) BSSBF*S;O;KCR;Drew Waters;J.P. France;-4%;61%;Strikeout Swinging
+t4;1-0;2;-2-;5,(2-2) BCFBX;O;KCR;Tyler Cropley;J.P. France;-3%;57%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 1, Astros 0.
+Bottom of the 4th, Astros Batting, Behind 0-1, Royals' Jordan Lyles facing 4-5-6 
+b4;0-1;0;---;6,(3-2) SBBBCC;O;HOU;Kyle Tucker;Jordan Lyles;3%;60%;Strikeout Looking
+b4;0-1;1;---;5,(2-2) FBFBS;O;HOU;José Abreu;Jordan Lyles;2%;62%;Strikeout Swinging
+b4;0-1;2;---;2,(1-0) BX;O;HOU;Chas McCormick;Jordan Lyles;1%;64%;Bunt Interference by Batter: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 1, Astros 0.
+Top of the 5th, Royals Batting, Ahead 1-0, Astros' J.P. France facing 8-9-1 
+t5;1-0;0;---;4,(2-1) BCBX;;KCR;Nick Pratto;J.P. France;4%;68%;Single to CF (Ground Ball)
+t5;1-0;0;1--;7,(3-2) BBCBCF>*B;;KCR;Kyle Isbel;J.P. France;6%;73%;Walk; Pratto to 2B
+t5;1-0;0;12-;2,(0-1) CX;;KCR;Maikel Garcia;J.P. France;7%;80%;Single to LF (Ground Ball thru SS-3B Hole); Pratto to 3B; Isbel to 2B
+t5;1-0;0;123;6,(1-2) FFBFFX;RO;KCR;Bobby Witt;J.P. France;0%;80%;Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Pratto Scores; Isbel to 3B; Witt to 1B
+t5;2-0;1;1-3;1,(0-1) C1;O;KCR;MJ Melendez;J.P. France;-6%;74%;Witt Caught Stealing (PO) 2B (P-1B-SS-1B)
+t5;2-0;2;--3;3,(0-2) C1.FB;R;KCR;MJ Melendez;J.P. France;7%;82%;Wild Pitch; Isbel Scores/No RBI
+t5;3-0;2;---;5,(2-2) C1.FB.BS;O;KCR;MJ Melendez;J.P. France;-1%;81%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Royals 3, Astros 0.
+Bottom of the 5th, Astros Batting, Behind 0-3, Royals' Jordan Lyles facing 7-8-9 
+b5;0-3;0;---;4,(2-1) BBFX;O;HOU;Yainer Diaz;Jordan Lyles;3%;84%;Lineout: RF (Deep RF)
+b5;0-3;1;---;1,(0-0) X;;HOU;Jeremy Peña;Jordan Lyles;-3%;81%;Single to 3B (Ground Ball)
+b5;0-3;1;1--;5,(2-2) LSB1*B>B;;HOU;Jake Meyers;Jordan Lyles;-1%;79%;Peña Steals 2B
+b5;0-3;1;-2-;6,(3-2) LSB1*B>B.X;O;HOU;Jake Meyers;Jordan Lyles;4%;83%;Popfly: SS (Weak SS)
+b5;0-3;2;-2-;1,(0-0) X;O;HOU;Jose Altuve;Jordan Lyles;3%;86%;Flyball: LF (Deep LF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Royals 3, Astros 0.
+Top of the 6th, Royals Batting, Ahead 3-0, Astros' Bennett Sousa facing 4-5-6 
+;;;;;;;;;Bennett Sousa replaces J.P. France pitching
+t6;3-0;0;---;7,(3-2) .CFBBFBX;O;KCR;Nelson Velázquez;Bennett Sousa;-1%;85%;Flyball: RF (Deep CF-RF)
+t6;3-0;1;---;3,(0-2) CS.X;O;KCR;Michael Massey;Bennett Sousa;-1%;84%;Groundout: 2B-1B (2B-1B)
+t6;3-0;2;---;2,(1-0) BX;O;KCR;Drew Waters;Bennett Sousa;-1%;84%;Lineout: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Astros 0.
+Bottom of the 6th, Astros Batting, Behind 0-3, Royals' Carlos Hernández facing 2-3-4 
+;;;;;;;;;Carlos Hernández replaces Jordan Lyles pitching
+b6;0-3;0;---;1,(0-0) .X;O;HOU;Alex Bregman;Carlos Hernández;3%;87%;Flyball: LF (LF-CF)
+b6;0-3;1;---;4,(2-1) BBCX;O;HOU;Yordan Alvarez;Carlos Hernández;2%;88%;Popfly: 3B
+b6;0-3;2;---;6,(3-2) SBTBBB;;HOU;Kyle Tucker;Carlos Hernández;-1%;87%;Walk
+b6;0-3;2;1--;3,(0-2) CS>*B;;HOU;José Abreu;Carlos Hernández;-1%;86%;Tucker Steals 2B
+b6;0-3;2;-2-;9,(3-2) CS>*B.BFF>FBS;O;HOU;José Abreu;Carlos Hernández;3%;89%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Royals 3, Astros 0.
+Top of the 7th, Royals Batting, Ahead 3-0, Astros' Bennett Sousa facing 7-8-9 
+t7;3-0;0;---;7,(2-2) FSFBFBX;O;KCR;Tyler Cropley;Bennett Sousa;-1%;89%;Flyball: CF (CF-RF)
+t7;3-0;1;---;4,(1-2) CF.B*S;O;KCR;Nick Pratto;Bennett Sousa;-1%;88%;Strikeout Swinging
+t7;3-0;2;---;5,(2-2) BBFFX;O;KCR;Kyle Isbel;Bennett Sousa;0%;87%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Astros 0.
+Bottom of the 7th, Astros Batting, Behind 0-3, Royals' Collin Snider facing 6-7-8 
+;;;;;;;;;Collin Snider replaces Carlos Hernández pitching
+b7;0-3;0;---;5,(1-2) .CC.BFX;R;HOU;Chas McCormick;Collin Snider;-9%;78%;Home Run (Fly Ball to Deep LF Line)
+b7;1-3;0;---;2,(1-0) BX;O;HOU;Yainer Diaz;Collin Snider;4%;82%;Groundout: 2B-1B (Deep 2B)
+b7;1-3;1;---;3,(1-1) CBX;;HOU;Jeremy Peña;Collin Snider;-5%;77%;Single to CF (Ground Ball thru SS-2B)
+;;;;;;;;;Jon Singleton pinch hits for Jake Meyers (CF) batting 9th
+b7;1-3;1;1--;7,(3-2) .CFBF*BB>S;O;HOU;Jon Singleton;Collin Snider;4%;81%;Strikeout Swinging, Peña Steals 2B
+b7;1-3;2;-2-;5,(1-2) CBCFS;O;HOU;Jose Altuve;Collin Snider;5%;86%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Royals 3, Astros 1.
+Top of the 8th, Royals Batting, Ahead 3-1, Astros' Bryan Abreu facing 1-2-3 
+;;;;;;;;;Bryan Abreu replaces Bennett Sousa pitchingMauricio Dubón replaces Jon Singleton (PH) playing CF batting 9th
+t8;3-1;0;---;5,(2-2) ..BSBFC;O;KCR;Maikel Garcia;Bryan Abreu;-1%;85%;Strikeout Looking
+t8;3-1;1;---;5,(2-2) CBBS.S;O;KCR;Bobby Witt;Bryan Abreu;-1%;84%;Strikeout Swinging
+t8;3-1;2;---;5,(2-2) CSBBS;O;KCR;MJ Melendez;Bryan Abreu;-1%;83%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Astros 1.
+Bottom of the 8th, Astros Batting, Behind 1-3, Royals' Tucker Davidson facing 2-3-4 
+;;;;;;;;;Tucker Davidson replaces Collin Snider pitchingDairon Blanco replaces MJ Melendez playing LF batting 3rd
+b8;1-3;0;---;5,(2-2) ..BCBS.X;O;HOU;Alex Bregman;Tucker Davidson;4%;88%;Lineout: 2B (Deep SS-2B)
+b8;1-3;1;---;5,(2-2) BCFBX;;HOU;Yordan Alvarez;Tucker Davidson;-7%;81%;Double to RF (Line Drive)
+b8;1-3;1;-2-;4,(1-2) BFFX;R;HOU;Kyle Tucker;Tucker Davidson;-17%;64%;Double to RF (Line Drive to Deep RF Line); Alvarez Scores
+;;;;;;;;;Taylor Clarke replaces Tucker Davidson pitching
+b8;2-3;1;-2-;4,(1-2) .SBS.H;;HOU;José Abreu;Taylor Clarke;-4%;59%;Hit By Pitch
+b8;2-3;1;12-;3,(2-0) BBX;O;HOU;Chas McCormick;Taylor Clarke;12%;71%;Foul Popfly: 1B (1B into Foul Terr.)
+b8;2-3;2;12-;5,(2-2) FBFB*S;O;HOU;Yainer Diaz;Taylor Clarke;12%;84%;Strikeout Swinging; Diaz out at 1B/C-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Royals 3, Astros 2.
+Top of the 9th, Royals Batting, Ahead 3-2, Astros' Rafael Montero facing 4-5-6 
+;;;;;;;;;Rafael Montero replaces Bryan Abreu pitching
+t9;3-2;0;---;4,(1-2) .BFFC;O;KCR;Nelson Velázquez;Rafael Montero;-2%;82%;Strikeout Looking
+t9;3-2;1;---;4,(2-1) BBF.X;O;KCR;Michael Massey;Rafael Montero;-1%;81%;Flyball: LF (LF Line)
+t9;3-2;2;---;5,(2-2) CSBBS;O;KCR;Drew Waters;Rafael Montero;-1%;80%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Astros 2.
+Bottom of the 9th, Astros Batting, Behind 2-3, Royals' Taylor Clarke facing 8-9-1 
+b9;2-3;0;---;3,(0-2) SF.X;O;HOU;Jeremy Peña;Taylor Clarke;9%;89%;Flyball: CF (Deep CF-RF)
+b9;2-3;1;---;7,(3-2) CBFFBBX;O;HOU;Mauricio Dubón;Taylor Clarke;7%;95%;Flyball: RF (Deep RF)
+b9;2-3;2;---;6,(3-2) FFBBBX;O;HOU;Jose Altuve;Taylor Clarke;5%;100%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Royals 3, Astros 2.

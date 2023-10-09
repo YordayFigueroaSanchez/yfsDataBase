@@ -1,0 +1,301 @@
+
+Scorebox Meta
+20230918
+7:10 p.m. Local
+34456
+Minute Maid Park
+200
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/BAL-2023.png;/teams/BAL/2023.shtml;0;0;1;0;2;0;2;0;3;8;16;1
+https://cdn.ssref.net/req/202310031/tlogo/br/HOU-2023.png;/teams/HOU/2023.shtml;1;0;0;0;0;4;1;1;0;7;10;0
+
+Batting home
+Jose Altuve;/players/a/altuvjo01.shtml;2B;5;1;2;2;0;0;5;.312;.396;.548;.943;13;12;0.275; 1.11;0.332;-0.057; 0.43%; 2.90; 1.9;0;1;2·2B
+Alex Bregman;/players/b/bregmal01.shtml;3B;5;0;0;0;0;0;5;.267;.365;.442;.807;20;13;-0.113; 0.79;0.000;-0.113;-0.18%; 2.06; -1.3;1;1;
+Yordan Alvarez;/players/a/alvaryo01.shtml;DH;4;0;0;0;1;0;5;.296;.411;.585;.996;16;11;0.185; 1.49;0.271;-0.086; 0.29%; 3.91; 0.2;;;
+Jake Meyers;/players/m/meyerja02.shtml;PR-DH;0;0;0;0;0;0;0;.226;.297;.384;.680;;;;;;;;;;;;
+José Abreu;/players/a/abreujo02.shtml;1B;4;1;2;1;1;0;5;.235;.295;.371;.667;16;8;0.256; 1.86;0.324;-0.068; 0.40%; 4.89; 1.6;6;1;HR,2B
+Kyle Tucker;/players/t/tuckeky01.shtml;RF;5;1;2;1;0;0;5;.284;.369;.508;.877;23;14;-0.210; 2.13;0.206;-0.416;-0.33%; 5.60; -0.3;2;1;3B,2B
+Chas McCormick;/players/m/mccorch01.shtml;LF;3;1;1;1;2;1;5;.284;.365;.503;.868;21;13;0.002; 2.19;0.216;-0.214; 0.00%; 5.74; 0.5;2;0;SB
+Jeremy Peña;/players/p/penaje02.shtml;SS;4;1;1;1;0;0;4;.262;.323;.385;.708;18;12;0.019; 1.42;0.099;-0.081; 0.03%; 3.73; -0.3;1;2;
+Mauricio Dubón;/players/d/dubonma01.shtml;CF;3;1;0;0;1;0;4;.278;.310;.410;.720;18;11;-0.013; 1.07;0.050;-0.063;-0.02%; 2.81; -0.3;1;0;
+Martín Maldonado;/players/m/maldoma01.shtml;C;4;1;2;1;0;2;4;.191;.261;.347;.608;16;12;-0.001; 1.14;0.091;-0.091;-0.00%; 2.98; 0.4;13;1;HR
+Justin Verlander;/players/v/verlaju01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Rafael Montero;/players/m/montera01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Hector Neris;/players/n/nerishe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Pressly;/players/p/pressry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Jose Altuve 2 (19, 1 off Jacob Webb, 1 off John Means); Kyle Tucker (33, off John Means); José Abreu (20, off John Means).
+
+
+3B: Kyle Tucker (3, off Shintaro Fujinami).
+
+
+HR: José Abreu (16, off Danny Coulombe, 7th inn, 0 on, 1 out to Deep CF); Martín Maldonado (14, off Mike Baumann, 8th inn, 0 on, 1 out to Deep LF-CF).
+
+
+TB: José Abreu 6; Kyle Tucker 5; Martín Maldonado 5; Jose Altuve 4; Chas McCormick; Jeremy Peña.
+
+
+RBI: Jose Altuve 2 (48); Martín Maldonado (34); Jeremy Peña (50); Chas McCormick (65); Kyle Tucker (106); José Abreu (82).
+
+
+2-out RBI: Jose Altuve 2; Kyle Tucker.
+
+
+Team LOB: 8.
+With RISP: 4 for 13.
+
+Batting away
+Gunnar Henderson;/players/h/hendegu01.shtml;3B-SS;5;3;3;0;0;1;5;.261;.329;.503;.832;13;10;0.103; 1.32;0.183;-0.081; 0.07%; 1.44; 1.0;2;1;3B
+Adley Rutschman;/players/r/rutscad01.shtml;C;4;1;1;2;0;1;5;.269;.365;.423;.788;20;14;0.108; 1.72;0.200;-0.092; 0.07%; 1.88; 0.7;4;0;2B,SF
+Ryan O'Hearn;/players/o/ohearry01.shtml;1B-LF;5;1;5;2;0;0;5;.309;.338;.511;.850;20;14;0.436; 1.25;0.436;0.000; 0.29%; 1.37; 3.0;7;0;2B
+Austin Hays;/players/h/haysau01.shtml;LF-RF;4;1;1;0;1;2;5;.282;.330;.450;.779;16;8;-0.078; 1.62;0.088;-0.165;-0.05%; 1.77; -0.7;6;0;
+Cedric Mullins;/players/m/mullice01.shtml;CF;5;1;2;4;0;1;5;.248;.320;.447;.767;17;13;0.617; 2.16;0.704;-0.087; 0.40%; 2.37; 1.6;3;1;HR,2B
+Aaron Hicks;/players/h/hicksaa01.shtml;RF;4;0;1;0;1;1;5;.260;.353;.398;.752;19;13;-0.069; 1.00;0.046;-0.115;-0.05%; 1.09; -0.2;2;0;
+Cionel Pérez;/players/p/perezci01.shtml;P;0;0;0;0;0;0;0;;;;;;;;;;;;;;0;0;
+James McCann;/players/m/mccanja02.shtml;1B;0;0;0;0;0;0;0;.223;.264;.394;.657;;;;;;;;;;0;0;
+Jordan Westburg;/players/w/westbjo01.shtml;2B;3;0;0;0;0;1;3;.266;.316;.415;.730;9;6;-0.052; 0.69;0.000;-0.052;-0.03%; 0.75; -0.6;2;1;
+Adam Frazier;/players/f/fraziad01.shtml;PH-2B;2;0;0;0;0;2;2;.247;.303;.410;.713;8;7;-0.076; 1.52;0.000;-0.076;-0.05%; 1.66; -0.5;1;1;
+Heston Kjerstad;/players/k/kjershe01.shtml;DH-LF;5;0;2;0;0;1;5;.333;.333;.667;1.000;20;13;0.006; 0.97;0.076;-0.070; 0.00%; 1.06; -0.2;0;0;
+Yennier Cano;/players/c/canoye01.shtml;P;0;0;0;0;0;0;0;;;;;;;;;;;;;;0;0;
+Jorge Mateo;/players/m/mateojo01.shtml;SS;3;1;1;0;0;1;3;.216;.267;.342;.609;13;10;-0.026; 1.05;0.033;-0.059;-0.02%; 1.15; -0.4;0;3;
+Anthony Santander;/players/s/santaan02.shtml;PH;1;0;0;0;0;1;1;.252;.323;.472;.795;10;7;-0.070; 2.90;0.000;-0.070;-0.05%; 3.17; -0.3;;;
+Ramón Urías;/players/u/uriasra01.shtml;3B;0;0;0;0;0;0;0;.266;.332;.377;.709;;;;;;;;;;0;0;
+John Means;/players/m/meansjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Shintaro Fujinami;/players/f/fujinsh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jacob Webb;/players/w/webbja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Danny Coulombe;/players/c/couloda01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Mike Baumann;/players/b/baumami01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Ryan O'Hearn (21, off Justin Verlander); Adley Rutschman (26, off Rafael Montero); Cedric Mullins (22, off Rafael Montero).
+
+
+3B: Gunnar Henderson (9, off Justin Verlander).
+
+
+HR: Cedric Mullins (15, off Ryan Pressly, 9th inn, 2 on, 1 out to Deep CF-RF).
+
+
+SF: Adley Rutschman (5, off Justin Verlander).
+
+
+TB: Cedric Mullins 6; Ryan O'Hearn 6; Gunnar Henderson 5; Adley Rutschman 2; Heston Kjerstad 2; Aaron Hicks; Austin Hays; Jorge Mateo.
+
+
+RBI: Cedric Mullins 4 (73); Ryan O'Hearn 2 (57); Adley Rutschman 2 (75).
+
+
+2-out RBI: Ryan O'Hearn 2.
+
+
+Team LOB: 9.
+With RISP: 4 for 11.
+
+Pitching home
+Justin Verlander;/players/v/verlaju01.shtml;Justin Verlander; 6 ;8;3;3;1;5;0;3.44;27;89;66;35;13;18;7;14;8;0;48;;;-0.071; 1.01;-0.11%; 2.64; 0.1
+Rafael Montero;/players/m/montera01.shtml; BS (5); 1 ;4;2;2;0;1;0;5.04;6;21;14;8;3;3;1;4;3;0;;0;0;-0.228; 2.53;-0.36%; 6.63; -1.5
+Hector Neris;/players/n/nerishe01.shtml; H (28); 1 ;1;0;0;0;3;0;1.90;4;24;17;8;4;5;1;0;0;0;;0;0;0.122; 2.17; 0.19%; 5.70; 0.5
+Ryan Pressly;/players/p/pressry01.shtml; L (3-5); 1 ;3;3;3;1;3;1;3.84;7;31;18;8;2;8;1;2;1;0;;0;0;-0.722; 1.44;-1.14%; 3.79; -2.5
+
+Pitching away
+John Means;/players/m/meansjo01.shtml;John Means; 5 ;4;1;1;3;1;0;3.60;21;86;55;36;4;15;3;14;6;0;53;;;0.171; 1.08; 0.11%; 1.18; 1.5
+Shintaro Fujinami;/players/f/fujinsh01.shtml; BS (4); 0.1;3;3;3;0;0;0;7.22;4;21;16;12;3;1;2;2;0;0;;0;0;-0.320; 1.84;-0.21%; 2.01; -2.0
+Jacob Webb;/players/w/webbja01.shtml;Jacob Webb; 0.2;1;1;1;1;1;0;3.78;4;16;10;5;5;0;0;2;2;0;;1;1;-0.239; 1.94;-0.16%; 2.12; -1.5
+Danny Coulombe;/players/c/couloda01.shtml;Danny Coulombe; 0.2;1;1;1;1;0;1;2.47;4;12;6;4;0;2;1;2;0;0;;0;0;-0.178; 0.91;-0.12%; 0.99; -0.7
+Mike Baumann;/players/b/baumami01.shtml; W (10-1); 1.1;1;1;1;0;0;1;3.82;5;15;12;9;2;1;2;3;1;0;;1;0;-0.037; 0.40;-0.02%; 0.44; -0.3
+Cionel Pérez;/players/p/perezci01.shtml; H (10); 0.2;0;0;0;0;0;0;3.18;3;8;4;4;0;0;2;1;1;0;;0;0;0.039; 4.56; 0.03%; 4.99; 0.1
+Yennier Cano;/players/c/canoye01.shtml; S (7); 0.1;0;0;0;0;1;0;1.96;1;3;3;0;1;2;0;0;0;0;;1;0;0.164; 5.93; 0.11%; 6.48; 0.4
+
+indiv_events
+
+Balks: None.
+WP: Shintaro Fujinami (7); Justin Verlander (5); Ryan Pressly (2).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Shintaro Fujinami (7); Justin Verlander (5); Ryan Pressly (2).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Chad Fairchild, 1B - Phil Cuzzi, 2B - Jeremie Rehak, 3B - Charlie Ramos, LF - (none), RF - (none).
+Time of Game: 3:20.
+Attendance: 34,456.
+Start Time Weather: 73° F, Wind 0mph, In Dome.
+
+div_lineups
+Orioles
+1;Gunnar Henderson;/players/h/hendegu01.shtml;3B
+2;Adley Rutschman;/players/r/rutscad01.shtml;C
+3;Ryan O'Hearn;/players/o/ohearry01.shtml;1B
+4;Austin Hays;/players/h/haysau01.shtml;LF
+5;Cedric Mullins;/players/m/mullice01.shtml;CF
+6;Aaron Hicks;/players/h/hicksaa01.shtml;RF
+7;Jordan Westburg;/players/w/westbjo01.shtml;2B
+8;Heston Kjerstad;/players/k/kjershe01.shtml;DH
+9;Jorge Mateo;/players/m/mateojo01.shtml;SS
+; John Means;/players/m/meansjo01.shtml;P
+Astros
+1;Jose Altuve;/players/a/altuvjo01.shtml;2B
+2;Alex Bregman;/players/b/bregmal01.shtml;3B
+3;Yordan Alvarez;/players/a/alvaryo01.shtml;DH
+4;José Abreu;/players/a/abreujo02.shtml;1B
+5;Kyle Tucker;/players/t/tuckeky01.shtml;RF
+6;Chas McCormick;/players/m/mccorch01.shtml;LF
+7;Jeremy Peña;/players/p/penaje02.shtml;SS
+8;Mauricio Dubón;/players/d/dubonma01.shtml;CF
+9;Martín Maldonado;/players/m/maldoma01.shtml;C
+; Justin Verlander;/players/v/verlaju01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t9;5-7;1;12-;4,(2-1) BFBX;RRR;BAL;Cedric Mullins;Ryan Pressly;66%;82%;Home Run (Fly Ball to Deep CF-RF); O'Hearn Scores; Hays Scores
+b6;3-3;2;12-;1,(0-0) X;RR;HOU;Jose Altuve;Jacob Webb;-27%;16%;Double to SS (Line Drive to Deep LF Line); Peña Scores; Dubón Scores
+b9;7-8;1;--3;5,(3-1) BBFBX;O;HOU;Kyle Tucker;Cionel Pérez;25%;84%;Groundout: 2B-1B (2B-1B)
+b9;7-8;0;---;1,(0-0) ...X;;HOU;Yordan Alvarez;Cionel Pérez;-24%;55%;Reached on E5 (throw) (Ground Ball); Alvarez to 2B
+b7;5-5;1;---;2,(0-1) CX;R;HOU;José Abreu;Danny Coulombe;-22%;23%;Home Run (Fly Ball to Deep CF)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Orioles Batting, Tied 0-0, Astros' Justin Verlander facing 1-2-3 
+t1;0-0;0;---;1,(0-0) X;O;BAL;Gunnar Henderson;Justin Verlander;-2%;48%;Flyball: RF (Deep CF-RF)
+t1;0-0;1;---;3,(0-2) CC.X;O;BAL;Adley Rutschman;Justin Verlander;-2%;46%;Flyball: SS (Deep SS-2B)
+t1;0-0;2;---;3,(2-0) BBX;;BAL;Ryan O'Hearn;Justin Verlander;2%;48%;Double to RF (Line Drive to RF Line)
+t1;0-0;2;-2-;4,(3-0) BBBB;;BAL;Austin Hays;Justin Verlander;1%;49%;Walk
+t1;0-0;2;12-;3,(0-2) CF*S;O;BAL;Cedric Mullins;Justin Verlander;-4%;45%;Strikeout Swinging; Mullins out at 1B/C-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Orioles 0, Astros 0.
+Bottom of the 1st, Astros Batting, Tied 0-0, Orioles' John Means facing 1-2-3 
+b1;0-0;0;---;1,(0-0) .X;;HOU;Jose Altuve;John Means;-6%;39%;Ground-rule Double (Fly Ball to Deep LF Line)
+b1;0-0;0;-2-;3,(1-1) BCX;O;HOU;Alex Bregman;John Means;4%;43%;Flyball: RF (Short CF-RF)
+b1;0-0;1;-2-;4,(1-2) BCFX;O;HOU;Yordan Alvarez;John Means;3%;47%;Lineout: LF (Deep LF-CF)
+b1;0-0;2;-2-;6,(3-2) CBFB*BB;;HOU;José Abreu;John Means;-1%;46%;Walk
+b1;0-0;2;12-;3,(1-1) FBX;R;HOU;Kyle Tucker;John Means;-11%;35%;Double to RF (Line Drive to CF-RF); Altuve Scores; Abreu to 3B
+b1;1-0;2;-23;2,(0-1) CX;O;HOU;Chas McCormick;John Means;5%;40%;Lineout: 3B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Orioles 0, Astros 1.
+Top of the 2nd, Orioles Batting, Behind 0-1, Astros' Justin Verlander facing 6-7-8 
+t2;0-1;0;---;3,(1-1) .BCX;O;BAL;Aaron Hicks;Justin Verlander;-2%;37%;Foul Popfly: C (Behind Home)
+t2;0-1;1;---;1,(0-0) X;O;BAL;Jordan Westburg;Justin Verlander;-2%;35%;Foul Popfly: 1B (1B into Foul Terr.)
+t2;0-1;2;---;3,(0-2) FFX;O;BAL;Heston Kjerstad;Justin Verlander;-1%;34%;Lineout: LF (Deep LF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 0, Astros 1.
+Bottom of the 2nd, Astros Batting, Ahead 1-0, Orioles' John Means facing 7-8-9 
+b2;1-0;0;---;6,(3-2) BFF.BBX;O;HOU;Jeremy Peña;John Means;2%;36%;Popfly: 1B
+b2;1-0;1;---;5,(2-2) BBCSX;O;HOU;Mauricio Dubón;John Means;1%;38%;Lineout: 3B
+b2;1-0;2;---;6,(2-2) SBF.BFX;;HOU;Martín Maldonado;John Means;-1%;37%;Single to LF (Line Drive)
+b2;1-0;2;1--;3,(0-2) CSX;O;HOU;Jose Altuve;John Means;2%;39%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 0, Astros 1.
+Top of the 3rd, Orioles Batting, Behind 0-1, Astros' Justin Verlander facing 9-1-2 
+t3;0-1;0;---;5,(1-2) CCFBX;O;BAL;Jorge Mateo;Justin Verlander;-3%;36%;Lineout: 3B (SS-3B Hole)
+t3;0-1;1;---;2,(0-1) SX;;BAL;Gunnar Henderson;Justin Verlander;8%;44%;Triple to RF (Line Drive to Deep CF-RF)
+t3;0-1;1;--3;3,(0-2) S*SX;RO;BAL;Adley Rutschman;Justin Verlander;2%;46%;Lineout: LF/Sacrifice Fly (LF Line); Henderson Scores
+t3;1-1;2;---;4,(1-2) BFSX;;BAL;Ryan O'Hearn;Justin Verlander;1%;47%;Single to RF (Ground Ball)
+t3;1-1;2;1--;3,(0-2) CF1S;O;BAL;Austin Hays;Justin Verlander;-3%;44%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Orioles 1, Astros 1.
+Bottom of the 3rd, Astros Batting, Tied 1-1, Orioles' John Means facing 2-3-4 
+b3;1-1;0;---;5,(2-2) CBC.BX;O;HOU;Alex Bregman;John Means;3%;47%;Groundout: SS-1B (Weak SS)
+b3;1-1;1;---;6,(3-2) BS.BCBB;;HOU;Yordan Alvarez;John Means;-3%;44%;Walk
+b3;1-1;1;1--;3,(2-0) BBX;;HOU;José Abreu;John Means;-9%;35%;Double to CF (Line Drive to Deep CF); Alvarez to 3B
+b3;1-1;1;-23;6,(2-2) *BFBFFX;OO;HOU;Kyle Tucker;John Means;15%;50%;Double Play: Flyball: CF; Alvarez out at Hm/CF-C
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 1, Astros 1.
+Top of the 4th, Orioles Batting, Tied 1-1, Astros' Justin Verlander facing 5-6-7 
+t4;1-1;0;---;5,(0-2) SF.FFX;O;BAL;Cedric Mullins;Justin Verlander;-3%;47%;Groundout: 1B-P (2B-1B)
+t4;1-1;1;---;4,(1-2) CBS.S;O;BAL;Aaron Hicks;Justin Verlander;-2%;45%;Strikeout Swinging
+t4;1-1;2;---;5,(2-2) BBCCS;O;BAL;Jordan Westburg;Justin Verlander;-1%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 1, Astros 1.
+Bottom of the 4th, Astros Batting, Tied 1-1, Orioles' John Means facing 6-7-8 
+b4;1-1;0;---;6,(3-2) BCFBBB;;HOU;Chas McCormick;John Means;-4%;40%;Walk
+b4;1-1;0;1--;3,(0-2) CFX;O;HOU;Jeremy Peña;John Means;4%;44%;Popfly: 2B (Deep 1B)
+b4;1-1;1;1--;1,(0-0) X;O;HOU;Mauricio Dubón;John Means;3%;47%;Flyball: LF (LF Line)
+b4;1-1;2;1--;5,(1-2) CBFF.C;O;HOU;Martín Maldonado;John Means;3%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Orioles 1, Astros 1.
+Top of the 5th, Orioles Batting, Tied 1-1, Astros' Justin Verlander facing 8-9-1 
+t5;1-1;0;---;3,(2-0) BBX;O;BAL;Heston Kjerstad;Justin Verlander;-3%;47%;Flyball: RF (Deep RF)
+t5;1-1;1;---;2,(0-1) CX;;BAL;Jorge Mateo;Justin Verlander;3%;50%;Single to SS (Ground Ball to SS-3B Hole)
+t5;1-1;1;1--;2,(0-1) CX;;BAL;Gunnar Henderson;Justin Verlander;5%;55%;Single to LF (Line Drive to LF-CF); Mateo to 2B
+t5;1-1;1;12-;4,(1-2) BFCX;O;BAL;Adley Rutschman;Justin Verlander;-4%;51%;Groundout: 1B unassisted; Mateo to 3B; Henderson to 2B
+t5;1-1;2;-23;5,(2-2) VSFFBX;RR;BAL;Ryan O'Hearn;Justin Verlander;22%;73%;Single to CF (Fly Ball); Mateo Scores; Henderson Scores
+t5;3-1;2;1--;2,(1-0) BB;;BAL;Austin Hays;Justin Verlander;1%;74%;Wild Pitch; O'Hearn to 2B
+t5;3-1;2;-2-;3,(2-0) BB.X;O;BAL;Austin Hays;Justin Verlander;-3%;71%;Groundout: SS-1B
+;;;;;;;;;2 runs, 3 hits, 0 errors, 1 LOB. Orioles 3, Astros 1.
+Bottom of the 5th, Astros Batting, Behind 1-3, Orioles' John Means facing 1-2-3 
+b5;1-3;0;---;5,(1-2) FFBFX;O;HOU;Jose Altuve;John Means;3%;74%;Flyball: LF (Deep LF-CF)
+b5;1-3;1;---;3,(1-1) CBX;O;HOU;Alex Bregman;John Means;2%;77%;Flyball: CF (Deep CF-RF)
+b5;1-3;2;---;4,(0-2) CFF.X;O;HOU;Yordan Alvarez;John Means;1%;78%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 3, Astros 1.
+Top of the 6th, Orioles Batting, Ahead 3-1, Astros' Justin Verlander facing 5-6-7 
+t6;3-1;0;---;1,(0-0) X;O;BAL;Cedric Mullins;Justin Verlander;-2%;76%;Bunt Groundout: 3B-1B (Short 3B Line)
+;;;;;;;;;Force Play Challenged by HOU manager (Dusty Baker): Original call overturned as shown.
+t6;3-1;1;---;3,(0-2) CSX;;BAL;Aaron Hicks;Justin Verlander;2%;78%;Single to SS (Ground Ball)
+t6;3-1;1;1--;3,(1-1) BCX;O;BAL;Jordan Westburg;Justin Verlander;-2%;76%;Lineout: CF (Deep CF)
+t6;3-1;2;1--;5,(2-2) C*B1CBX;;BAL;Heston Kjerstad;Justin Verlander;1%;78%;Single to CF (Line Drive); Hicks to 2B
+t6;3-1;2;12-;6,(2-2) BBCFFS;O;BAL;Jorge Mateo;Justin Verlander;-3%;74%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Orioles 3, Astros 1.
+Bottom of the 6th, Astros Batting, Behind 1-3, Orioles' Shintaro Fujinami facing 4-5-6 
+;;;;;;;;;Shintaro Fujinami replaces John Means pitching
+b6;1-3;0;---;3,(1-1) .BF.X;O;HOU;José Abreu;Shintaro Fujinami;4%;78%;Flyball: LF (Short LF-CF)
+b6;1-3;1;---;5,(1-2) BSFFX;;HOU;Kyle Tucker;Shintaro Fujinami;-9%;68%;Triple to CF (Fly Ball to Deep LF)
+b6;1-3;1;--3;5,(0-2) CSFFX;R;HOU;Chas McCormick;Shintaro Fujinami;-8%;60%;Single to CF (Ground Ball thru SS-2B); Tucker Scores
+b6;2-3;1;1--;3,(0-2) SF>B;;HOU;Jeremy Peña;Shintaro Fujinami;-3%;57%;McCormick Steals 2B
+b6;2-3;1;-2-;6,(2-2) SF>B.BFB;;HOU;Jeremy Peña;Shintaro Fujinami;-5%;52%;Wild Pitch; McCormick to 3B
+b6;2-3;1;--3;8,(3-2) SF>B.BFB.FX;R;HOU;Jeremy Peña;Shintaro Fujinami;-10%;42%;Single to LF (Ground Ball thru SS-3B Hole); McCormick Scores
+;;;;;;;;;Jacob Webb replaces Shintaro Fujinami pitching
+b6;3-3;1;1--;7,(3-2) .FB1BBFF>B;;HOU;Mauricio Dubón;Jacob Webb;-5%;37%;Walk; Peña to 2B
+b6;3-3;1;12-;4,(1-2) BSS.S;O;HOU;Martín Maldonado;Jacob Webb;6%;44%;Strikeout Swinging
+b6;3-3;2;12-;1,(0-0) X;RR;HOU;Jose Altuve;Jacob Webb;-27%;16%;Double to SS (Line Drive to Deep LF Line); Peña Scores; Dubón Scores
+b6;5-3;2;-2-;4,(1-2) BSS.X;O;HOU;Alex Bregman;Jacob Webb;2%;18%;Lineout: RF
+;;;;;;;;;4 runs, 4 hits, 0 errors, 1 LOB. Orioles 3, Astros 5.
+Top of the 7th, Orioles Batting, Behind 3-5, Astros' Rafael Montero facing 1-2-3 
+;;;;;;;;;Rafael Montero replaces Justin Verlander pitching
+t7;3-5;0;---;1,(0-0) .X;;BAL;Gunnar Henderson;Rafael Montero;6%;24%;Single to CF (Line Drive to Deep CF-RF)
+t7;3-5;0;1--;5,(3-1) BBBCX;R;BAL;Adley Rutschman;Rafael Montero;18%;42%;Double to LF (Fly Ball to Deep LF-CF); Henderson Scores
+t7;4-5;0;-2-;3,(0-2) CFX;;BAL;Ryan O'Hearn;Rafael Montero;12%;55%;Single to P (Line Drive); Rutschman to 3B
+t7;4-5;0;1-3;5,(2-2) BSFB*S;O;BAL;Austin Hays;Rafael Montero;-11%;43%;Strikeout Swinging
+t7;4-5;1;1-3;4,(2-1) SBBX;RO;BAL;Cedric Mullins;Rafael Montero;5%;48%;Double to RF (Line Drive to RF Line); Rutschman Scores; O'Hearn out at Hm/RF-SS-C; Mullins to 3B
+t7;5-5;2;--3;3,(0-2) CFX;O;BAL;Aaron Hicks;Rafael Montero;-7%;41%;Groundout: 2B-1B
+;;;;;;;;;2 runs, 4 hits, 0 errors, 1 LOB. Orioles 5, Astros 5.
+Bottom of the 7th, Astros Batting, Tied 5-5, Orioles' Danny Coulombe facing 3-4-5 
+;;;;;;;;;Danny Coulombe replaces Jacob Webb pitching
+b7;5-5;0;---;1,(0-0) .X;O;HOU;Yordan Alvarez;Danny Coulombe;4%;45%;Flyball: LF (LF-CF)
+b7;5-5;1;---;2,(0-1) CX;R;HOU;José Abreu;Danny Coulombe;-22%;23%;Home Run (Fly Ball to Deep CF)
+b7;6-5;1;---;4,(2-1) BBLX;O;HOU;Kyle Tucker;Danny Coulombe;1%;24%;Groundout: 3B-1B (Weak 3B)
+b7;6-5;2;---;5,(3-1) BCBBB;;HOU;Chas McCormick;Danny Coulombe;-1%;23%;Walk
+;;;;;;;;;Mike Baumann replaces Danny Coulombe pitching
+b7;6-5;2;1--;1,(0-0) .X;O;HOU;Jeremy Peña;Mike Baumann;2%;25%;Groundout: SS-2B/Forceout at 2B (Weak SS); Peña to 1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Orioles 5, Astros 6.
+Top of the 8th, Orioles Batting, Behind 5-6, Astros' Hector Neris facing 7-8-9 
+;;;;;;;;;Hector Neris replaces Rafael Montero pitchingAdam Frazier pinch hits for Jordan Westburg (2B) batting 7th
+t8;5-6;0;---;3,(0-2) ..CSS;O;BAL;Adam Frazier;Hector Neris;-6%;20%;Strikeout Swinging
+t8;5-6;1;---;4,(1-2) SBCX;;BAL;Heston Kjerstad;Hector Neris;6%;26%;Single to RF (Ground Ball thru 2B-1B)
+;;;;;;;;;Anthony Santander pinch hits for Jorge Mateo (SS) batting 9th
+t8;5-6;1;1--;10,(3-2) .CFF*B*BFFFB.*S;O;BAL;Anthony Santander;Hector Neris;-7%;19%;Strikeout Swinging
+t8;5-6;2;1--;7,(3-2) BBBCF>F>C;O;BAL;Gunnar Henderson;Hector Neris;-6%;13%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 5, Astros 6.
+Bottom of the 8th, Astros Batting, Ahead 6-5, Orioles' Mike Baumann facing 8-9-1 
+;;;;;;;;;Adam Frazier moves from PH to 2B Ramón Urías replaces Anthony Santander (PH) playing 3B batting 9thGunnar Henderson moves from 3B to SS 
+b8;6-5;0;---;5,(1-2) ...BSFFX;O;HOU;Mauricio Dubón;Mike Baumann;1%;15%;Groundout: 1B unassisted (2B-1B)
+b8;6-5;1;---;1,(0-0) X;R;HOU;Martín Maldonado;Mike Baumann;-8%;7%;Home Run (Fly Ball to Deep LF-CF)
+b8;7-5;1;---;3,(0-2) SFX;O;HOU;Jose Altuve;Mike Baumann;0%;7%;Lineout: 2B (SS-2B)
+b8;7-5;2;---;5,(2-2) CBBFX;O;HOU;Alex Bregman;Mike Baumann;0%;8%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Orioles 5, Astros 7.
+Top of the 9th, Orioles Batting, Behind 5-7, Astros' Ryan Pressly facing 2-3-4 
+;;;;;;;;;Ryan Pressly replaces Hector Neris pitching
+t9;5-7;0;---;5,(2-2) .CBSBC;O;BAL;Adley Rutschman;Ryan Pressly;-4%;4%;Strikeout Looking
+t9;5-7;1;---;5,(2-2) CBFBX;;BAL;Ryan O'Hearn;Ryan Pressly;5%;9%;Single to RF (Ground Ball)
+t9;5-7;1;1--;1,(0-0) X;;BAL;Austin Hays;Ryan Pressly;8%;16%;Single to CF (Line Drive to Deep CF-RF); O'Hearn to 2B
+t9;5-7;1;12-;4,(2-1) BFBX;RRR;BAL;Cedric Mullins;Ryan Pressly;66%;82%;Home Run (Fly Ball to Deep CF-RF); O'Hearn Scores; Hays Scores
+t9;8-7;1;---;6,(3-2) .BBCBCB;;BAL;Aaron Hicks;Ryan Pressly;2%;84%;Walk
+t9;8-7;1;1--;5,(1-2) CFBF*S;O;BAL;Adam Frazier;Ryan Pressly;-2%;82%;Strikeout Swinging
+t9;8-7;2;1--;4,(1-2) BF1CB;;BAL;Heston Kjerstad;Ryan Pressly;1%;83%;Wild Pitch; Hicks to 2B
+t9;8-7;2;-2-;5,(2-2) BF1CB.C;O;BAL;Heston Kjerstad;Ryan Pressly;-3%;80%;Strikeout Looking
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Orioles 8, Astros 7.
+Bottom of the 9th, Astros Batting, Behind 7-8, Orioles' Cionel Pérez facing 3-4-5 
+;;;;;;;;;Cionel Pérez replaces Aaron Hicks (RF) pitching and batting 6thHeston Kjerstad moves from DH to LF (team loses DH)Austin Hays moves from LF to RF 
+b9;7-8;0;---;1,(0-0) ...X;;HOU;Yordan Alvarez;Cionel Pérez;-24%;55%;Reached on E5 (throw) (Ground Ball); Alvarez to 2B
+;;;;;;;;;Jake Meyers pinch runs for Yordan Alvarez (DH) batting 3rd
+b9;7-8;0;-2-;2,(1-0) .BX;O;HOU;José Abreu;Cionel Pérez;3%;59%;Lineout: RF (Deep RF); Meyers to 3B
+b9;7-8;1;--3;5,(3-1) BBFBX;O;HOU;Kyle Tucker;Cionel Pérez;25%;84%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;Yennier Cano replaces Heston Kjerstad (LF) pitching and batting 8thJames McCann replaces Cionel Pérez (P) playing 1B batting 6thRyan O'Hearn moves from 1B to LF 
+b9;7-8;2;--3;3,(0-2) ...CCS;O;HOU;Chas McCormick;Yennier Cano;16%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Orioles 8, Astros 7.

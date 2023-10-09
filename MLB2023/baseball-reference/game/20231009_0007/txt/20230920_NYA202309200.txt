@@ -1,0 +1,260 @@
+
+Scorebox Meta
+20230920
+7:05 p.m. Local
+35587
+Yankee Stadium III
+171
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/TOR-2023.png;/teams/TOR/2023.shtml;0;0;1;0;0;0;0;2;3;6;9;0
+https://cdn.ssref.net/req/202310031/tlogo/br/NYY-2023.png;/teams/NYY/2023.shtml;0;0;0;0;0;0;0;0;1;1;5;0
+
+Batting home
+DJ LeMahieu;/players/l/lemahdj01.shtml;1B;4;0;0;0;0;2;4;.242;.322;.394;.716;17;12;-0.103; 1.00;0.000;-0.103;0%; 0.01; -0.9;5;0;
+Aaron Judge;/players/j/judgeaa01.shtml;RF;2;0;0;0;2;2;4;.256;.395;.574;.968;20;9;0.021; 0.68;0.055;-0.034;0%; 0.00; 0.3;2;0;
+Gleyber Torres;/players/t/torregl01.shtml;2B;3;0;1;0;1;0;4;.273;.346;.462;.808;20;9;0.029; 1.12;0.078;-0.049;0%; 0.01; 0.4;1;1;
+Austin Wells;/players/w/wellsau01.shtml;C;4;1;2;1;0;1;4;.163;.196;.326;.521;16;10;-0.012; 1.35;0.078;-0.090;0%; 0.01; 0.5;15;0;HR,2B
+Giancarlo Stanton;/players/s/stantmi03.shtml;DH;4;0;0;0;0;1;4;.188;.273;.421;.695;17;12;-0.169; 1.53;0.000;-0.169;-0.00%; 0.01; -1.6;;;
+Anthony Volpe;/players/v/volpean01.shtml;SS;4;0;0;0;0;2;4;.208;.284;.387;.671;16;11;-0.117; 1.07;0.000;-0.117;0%; 0.01; -1.0;0;1;
+Oswaldo Cabrera;/players/c/cabreos01.shtml;LF;4;0;2;0;0;1;4;.220;.292;.317;.608;18;11;-0.044; 0.86;0.027;-0.071;0%; 0.01; -0.0;3;0;
+Oswald Peraza;/players/p/perazos02.shtml;3B;4;0;0;0;0;4;4;.196;.277;.259;.535;16;12;-0.082; 0.81;0.000;-0.082;0%; 0.01; -0.8;0;1;
+Estevan Florial;/players/f/flories01.shtml;CF;3;0;0;0;0;1;3;.185;.333;.185;.519;14;10;-0.084; 1.05;0.000;-0.084;0%; 0.01; -0.6;1;0;
+Michael King;/players/k/kingmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Tommy Kahnle;/players/k/kahnlto01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ian Hamilton;/players/h/hamilia01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Greg Weissert;/players/w/weissgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Austin Wells (4, off Kevin Gausman).
+
+
+HR: Austin Wells (1, off Erik Swanson, 9th inn, 0 on, 0 outs to Deep RF Line).
+
+
+TB: Austin Wells 6; Oswaldo Cabrera 2; Gleyber Torres.
+
+
+RBI: Austin Wells (5).
+
+
+Team LOB: 7.
+With RISP: 0 for 6.
+
+Batting away
+George Springer;/players/s/springe01.shtml;RF;5;2;2;0;0;2;5;.259;.331;.406;.736;23;16;0.026; 0.91;0.094;-0.068; 0.01%; 0.91; 0.5;0;0;
+Bo Bichette;/players/b/bichebo01.shtml;SS;5;1;2;2;0;2;5;.305;.337;.473;.810;17;11;0.006; 1.10;0.115;-0.109; 0.00%; 1.10; 0.7;0;3;
+Cavan Biggio;/players/b/biggica01.shtml;1B;3;1;0;0;2;2;5;.233;.333;.379;.713;23;11;-0.058; 0.89;0.014;-0.071;-0.03%; 0.89; 0.1;9;0;
+Matt Chapman;/players/c/chapmma01.shtml;3B;4;0;0;0;1;2;5;.244;.333;.426;.760;23;13;-0.048; 0.89;0.018;-0.066;-0.03%; 0.89; -1.1;1;3;
+Spencer Horwitz;/players/h/horwisp01.shtml;DH;4;0;1;3;1;2;5;.286;.375;.429;.804;25;17;0.063; 1.09;0.122;-0.059; 0.04%; 1.09; 2.1;;;
+Whit Merrifield;/players/m/merriwh01.shtml;2B;4;0;2;1;1;1;5;.280;.324;.392;.716;17;9;0.126; 0.85;0.138;-0.012; 0.08%; 0.85; 1.1;1;0;2B,SB
+Daulton Varsho;/players/v/varshda01.shtml;LF;4;0;0;0;0;1;4;.218;.284;.373;.657;15;10;-0.121; 1.11;0.000;-0.121;-0.07%; 1.11; -1.7;1;0;
+Alejandro Kirk;/players/k/kirkal01.shtml;C;4;0;0;0;0;2;4;.249;.336;.354;.690;14;10;-0.093; 0.87;0.000;-0.093;-0.06%; 0.87; -1.0;15;1;
+Kevin Kiermaier;/players/k/kiermke01.shtml;CF;3;2;2;0;1;0;4;.269;.327;.430;.757;12;8;0.038; 0.55;0.056;-0.018; 0.02%; 0.55; 0.8;0;0;2B
+Kevin Gausman;/players/g/gausmke01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chad Green;/players/g/greench03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jordan Hicks;/players/h/hicksjo03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Erik Swanson;/players/s/swanser01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Whit Merrifield (26, off Michael King); Kevin Kiermaier (19, off Ian Hamilton).
+
+
+TB: Kevin Kiermaier 3; Whit Merrifield 3; George Springer 2; Bo Bichette 2; Spencer Horwitz.
+
+
+RBI: Spencer Horwitz 3 (7); Bo Bichette 2 (69); Whit Merrifield (64).
+
+
+2-out RBI: Spencer Horwitz 3; Whit Merrifield; Bo Bichette.
+
+
+Team LOB: 9.
+With RISP: 4 for 12.
+
+Pitching home
+Michael King;/players/k/kingmi01.shtml; L (4-7); 7 ;5;1;1;0;13;0;2.66;26;101;74;37;14;23;5;8;3;0;76;;;0.261; 0.92; 0.00%; 0.01; 2.7
+Tommy Kahnle;/players/k/kahnlto01.shtml;Tommy Kahnle; 0.2;0;2;2;4;0;0;2.66;6;34;13;4;3;6;2;0;0;0;;0;0;-0.128; 1.60; 0.00%; 0.01; -1.3
+Ian Hamilton;/players/h/hamilia01.shtml;Ian Hamilton; 1 ;4;3;3;2;1;0;2.65;9;33;17;10;1;6;3;3;2;0;;3;1;-0.073; 0.42; 0.00%; 0.00; -3.2
+Greg Weissert;/players/w/weissgr01.shtml;Greg Weissert; 0.1;0;0;0;0;0;0;4.70;1;1;1;1;0;0;0;1;1;0;;2;0;0.001; 0.03; 0.00%; 0.00; 0.5
+
+Pitching away
+Kevin Gausman;/players/g/gausmke01.shtml; W (12-9); 6 ;3;0;0;3;10;0;3.29;24;104;63;28;12;23;5;6;3;0;73;;;0.393; 1.25; 0.24%; 1.25; 3.1
+Chad Green;/players/g/greench03.shtml; H (2); 1 ;0;0;0;0;2;0;6.48;3;14;10;6;3;1;1;0;0;0;;0;0;0.110; 1.43; 0.07%; 1.43; 0.5
+Jordan Hicks;/players/h/hicksjo03.shtml; H (12); 1 ;0;0;0;0;1;0;3.21;3;13;8;3;0;5;1;1;1;0;;0;0;0.054; 0.70; 0.03%; 0.70; 0.5
+Erik Swanson;/players/s/swanser01.shtml;Erik Swanson; 1 ;2;1;1;0;1;1;3.16;5;23;15;8;4;3;1;3;1;0;;0;0;0.003; 0.09; 0.00%; 0.09; -0.5
+
+indiv_events
+
+Balks: None.
+WP: Michael King (2); Tommy Kahnle 2 (3).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Michael King (2); Tommy Kahnle 2 (3).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Lance Barrett, 1B - John Bacon, 2B - Roberto Ortiz, 3B - Bill Miller, LF - (none), RF - (none).
+Time of Game: 2:51.
+Attendance: 35,587.
+Field Condition: Unknown.
+Start Time Weather: 72° F, Wind 8mph from Left to Right, Sunny, No Precipitation.
+
+div_lineups
+Blue Jays
+1;George Springer;/players/s/springe01.shtml;RF
+2;Bo Bichette;/players/b/bichebo01.shtml;SS
+3;Cavan Biggio;/players/b/biggica01.shtml;1B
+4;Matt Chapman;/players/c/chapmma01.shtml;3B
+5;Spencer Horwitz;/players/h/horwisp01.shtml;DH
+6;Whit Merrifield;/players/m/merriwh01.shtml;2B
+7;Daulton Varsho;/players/v/varshda01.shtml;LF
+8;Alejandro Kirk;/players/k/kirkal01.shtml;C
+9;Kevin Kiermaier;/players/k/kiermke01.shtml;CF
+; Kevin Gausman;/players/g/gausmke01.shtml;P
+Yankees
+1;DJ LeMahieu;/players/l/lemahdj01.shtml;1B
+2;Aaron Judge;/players/j/judgeaa01.shtml;RF
+3;Gleyber Torres;/players/t/torregl01.shtml;2B
+4;Austin Wells;/players/w/wellsau01.shtml;C
+5;Giancarlo Stanton;/players/s/stantmi03.shtml;DH
+6;Anthony Volpe;/players/v/volpean01.shtml;SS
+7;Oswaldo Cabrera;/players/c/cabreos01.shtml;LF
+8;Oswald Peraza;/players/p/perazos02.shtml;3B
+9;Estevan Florial;/players/f/flories01.shtml;CF
+; Michael King;/players/k/kingmi01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t8;1-0;2;123;6,(3-2) CB*BF.B>B;R;TOR;Spencer Horwitz;Tommy Kahnle;11%;87%;Walk; Springer Scores; Biggio to 3B; Chapman to 2B
+t3;0-0;2;1-3;2,(1-0) BX;R;TOR;Bo Bichette;Michael King;10%;60%;Single to P (Ground Ball to Weak SS-2B); Kiermaier Scores; Springer to 2B
+b6;0-1;1;---;6,(3-2) BSSBBX;;NYY;Austin Wells;Kevin Gausman;-7%;57%;Ground-rule Double (Line Drive to Deep RF Line)
+t8;1-0;1;--3;4,(2-1) B.B.SX;O;TOR;Bo Bichette;Tommy Kahnle;-7%;73%;Groundout: SS-1B (Weak SS-2B)
+t8;2-0;2;123;5,(3-1) .*BBBCB;R;TOR;Whit Merrifield;Ian Hamilton;6%;93%;Walk; Biggio Scores; Chapman to 3B; Horwitz to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Blue Jays Batting, Tied 0-0, Yankees' Michael King facing 1-2-3 
+t1;0-0;0;---;6,(0-2) CCFFFS;O;TOR;George Springer;Michael King;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;3,(0-2) CFS;O;TOR;Bo Bichette;Michael King;-2%;46%;Strikeout Swinging
+t1;0-0;2;---;5,(2-2) BCBC.C;O;TOR;Cavan Biggio;Michael King;-1%;45%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Yankees 0.
+Bottom of the 1st, Yankees Batting, Tied 0-0, Blue Jays' Kevin Gausman facing 1-2-3 
+b1;0-0;0;---;7,(3-2) BCBSB.FC;O;NYY;DJ LeMahieu;Kevin Gausman;2%;47%;Strikeout Looking
+b1;0-0;1;---;6,(3-2) BBCC.BB;;NYY;Aaron Judge;Kevin Gausman;-2%;45%;Walk
+b1;0-0;1;1--;5,(3-1) F*BBBB;;NYY;Gleyber Torres;Kevin Gausman;-3%;41%;Walk; Judge to 2B
+b1;0-0;1;12-;4,(1-2) FBFT;O;NYY;Austin Wells;Kevin Gausman;4%;46%;Strikeout Swinging
+b1;0-0;2;12-;1,(0-0) X;O;NYY;Giancarlo Stanton;Kevin Gausman;4%;50%;Groundout: SS-1B (Weak SS)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Blue Jays 0, Yankees 0.
+Top of the 2nd, Blue Jays Batting, Tied 0-0, Yankees' Michael King facing 4-5-6 
+t2;0-0;0;---;4,(1-2) BFFX;O;TOR;Matt Chapman;Michael King;-2%;48%;Flyball: LF (Short LF-CF)
+t2;0-0;1;---;6,(1-2) CS.FFBS;O;TOR;Spencer Horwitz;Michael King;-2%;46%;Strikeout Swinging
+t2;0-0;2;---;6,(3-2) CF.BBBS;O;TOR;Whit Merrifield;Michael King;-1%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Yankees 0.
+Bottom of the 2nd, Yankees Batting, Tied 0-0, Blue Jays' Kevin Gausman facing 6-7-8 
+b2;0-0;0;---;5,(2-2) BBSC.C;O;NYY;Anthony Volpe;Kevin Gausman;2%;47%;Strikeout Looking
+b2;0-0;1;---;5,(2-2) BFCBX;;NYY;Oswaldo Cabrera;Kevin Gausman;-3%;45%;Single to RF (Line Drive to Deep CF-RF)
+b2;0-0;1;1--;4,(1-2) C.FB1S;O;NYY;Oswald Peraza;Kevin Gausman;3%;48%;Strikeout Swinging
+b2;0-0;2;1--;7,(3-2) SBBCFB>S;O;NYY;Estevan Florial;Kevin Gausman;2%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 0, Yankees 0.
+Top of the 3rd, Blue Jays Batting, Tied 0-0, Yankees' Michael King facing 7-8-9 
+t3;0-0;0;---;3,(1-1) CBX;O;TOR;Daulton Varsho;Michael King;-3%;47%;Flyball: LF (LF-CF)
+t3;0-0;1;---;3,(0-2) CCC;O;TOR;Alejandro Kirk;Michael King;-2%;46%;Strikeout Looking
+t3;0-0;2;---;1,(0-0) X;;TOR;Kevin Kiermaier;Michael King;1%;47%;Single to LF (Ground Ball thru SS-3B Hole)
+t3;0-0;2;1--;1,(0-0) X;;TOR;George Springer;Michael King;3%;50%;Single to RF (Line Drive); Kiermaier to 3B
+t3;0-0;2;1-3;2,(1-0) BX;R;TOR;Bo Bichette;Michael King;10%;60%;Single to P (Ground Ball to Weak SS-2B); Kiermaier Scores; Springer to 2B
+t3;1-0;2;12-;3,(1-1) BCX;O;TOR;Cavan Biggio;Michael King;-4%;56%;Groundout: P-1B (Front of Home)
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Blue Jays 1, Yankees 0.
+Bottom of the 3rd, Yankees Batting, Behind 0-1, Blue Jays' Kevin Gausman facing 1-2-3 
+b3;0-1;0;---;3,(0-2) CCX;O;NYY;DJ LeMahieu;Kevin Gausman;3%;59%;Lineout: 1B
+b3;0-1;1;---;5,(3-1) CBBBB;;NYY;Aaron Judge;Kevin Gausman;-3%;56%;Walk
+b3;0-1;1;1--;5,(2-2) C*BTBX;;NYY;Gleyber Torres;Kevin Gausman;-4%;52%;Single to SS (Ground Ball); Judge to 2B
+b3;0-1;1;12-;3,(1-1) SBX;O;NYY;Austin Wells;Kevin Gausman;5%;56%;Groundout: SS-2B/Forceout at 2B; Judge to 3B; Wells to 1B
+b3;0-1;2;1-3;3,(1-1) CBX;O;NYY;Giancarlo Stanton;Kevin Gausman;6%;62%;Foul Popfly: 1B (Behind Home)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Blue Jays 1, Yankees 0.
+Top of the 4th, Blue Jays Batting, Ahead 1-0, Yankees' Michael King facing 4-5-6 
+t4;1-0;0;---;4,(2-1) CBBX;O;TOR;Matt Chapman;Michael King;-2%;60%;Foul Popfly: C (Behind Home)
+t4;1-0;1;---;5,(1-2) SBTFC;O;TOR;Spencer Horwitz;Michael King;-2%;58%;Strikeout Looking
+t4;1-0;2;---;3,(1-1) BFX;;TOR;Whit Merrifield;Michael King;2%;60%;Double to LF (Line Drive to LF Line)
+t4;1-0;2;-2-;6,(2-2) BBSTFC;O;TOR;Daulton Varsho;Michael King;-3%;57%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 1, Yankees 0.
+Bottom of the 4th, Yankees Batting, Behind 0-1, Blue Jays' Kevin Gausman facing 6-7-8 
+b4;0-1;0;---;4,(0-2) CFFC;O;NYY;Anthony Volpe;Kevin Gausman;3%;60%;Strikeout Looking
+b4;0-1;1;---;5,(3-1) BBFBX;O;NYY;Oswaldo Cabrera;Kevin Gausman;2%;62%;Foul Popfly: 3B (3B into Foul Terr.)
+b4;0-1;2;---;3,(0-2) STT;O;NYY;Oswald Peraza;Kevin Gausman;1%;64%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 1, Yankees 0.
+Top of the 5th, Blue Jays Batting, Ahead 1-0, Yankees' Michael King facing 8-9-1 
+t5;1-0;0;---;3,(1-1) CBX;O;TOR;Alejandro Kirk;Michael King;-2%;61%;Groundout: P-1B (Weak SS-2B)
+t5;1-0;1;---;2,(0-1) CX;O;TOR;Kevin Kiermaier;Michael King;-2%;59%;Lineout: RF (Deep RF)
+t5;1-0;2;---;7,(3-2) SBCBBFS;O;TOR;George Springer;Michael King;-1%;58%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 1, Yankees 0.
+Bottom of the 5th, Yankees Batting, Behind 0-1, Blue Jays' Kevin Gausman facing 9-1-2 
+b5;0-1;0;---;3,(0-2) CC.X;O;NYY;Estevan Florial;Kevin Gausman;3%;62%;Flyball: LF (Deep LF)
+b5;0-1;1;---;4,(1-2) CCBT;O;NYY;DJ LeMahieu;Kevin Gausman;2%;64%;Strikeout Swinging
+b5;0-1;2;---;4,(1-2) CBS*S;O;NYY;Aaron Judge;Kevin Gausman;2%;66%;Strikeout Swinging; Judge out at 1B/C-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 1, Yankees 0.
+Top of the 6th, Blue Jays Batting, Ahead 1-0, Yankees' Michael King facing 2-3-4 
+t6;1-0;0;---;5,(1-2) FBFFS;O;TOR;Bo Bichette;Michael King;-3%;63%;Strikeout Swinging
+t6;1-0;1;---;4,(1-2) BSSS;O;TOR;Cavan Biggio;Michael King;-2%;61%;Strikeout Swinging
+t6;1-0;2;---;5,(1-2) FBC.FC;O;TOR;Matt Chapman;Michael King;-1%;60%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 1, Yankees 0.
+Bottom of the 6th, Yankees Batting, Behind 0-1, Blue Jays' Kevin Gausman facing 3-4-5 
+b6;0-1;0;---;5,(3-1) CBBBX;O;NYY;Gleyber Torres;Kevin Gausman;4%;64%;Foul Popfly: C unassisted (Behind Home)
+b6;0-1;1;---;6,(3-2) BSSBBX;;NYY;Austin Wells;Kevin Gausman;-7%;57%;Ground-rule Double (Line Drive to Deep RF Line)
+b6;0-1;1;-2-;4,(1-2) SFBC;O;NYY;Giancarlo Stanton;Kevin Gausman;6%;63%;Strikeout Looking
+b6;0-1;2;-2-;3,(1-1) 2*BFX;O;NYY;Anthony Volpe;Kevin Gausman;6%;69%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 1, Yankees 0.
+Top of the 7th, Blue Jays Batting, Ahead 1-0, Yankees' Michael King facing 5-6-7 
+t7;1-0;0;---;2,(0-1) FX;O;TOR;Spencer Horwitz;Michael King;-3%;66%;Groundout: 2B-1B (Deep 2B)
+t7;1-0;1;---;2,(0-1) CX;;TOR;Whit Merrifield;Michael King;3%;69%;Single to RF (Fly Ball to Short RF Line)
+t7;1-0;1;1--;2,(1-0) B1>C;;TOR;Daulton Varsho;Michael King;2%;71%;Merrifield Steals 2B
+t7;1-0;1;-2-;3,(1-1) B1>C.X;O;TOR;Daulton Varsho;Michael King;-4%;67%;Foul Popfly: LF (3B into Foul Terr.)
+t7;1-0;2;-2-;6,(2-2) FFFBB*B;;TOR;Alejandro Kirk;Michael King;1%;68%;Wild Pitch; Merrifield to 3B
+t7;1-0;2;--3;7,(3-2) FFFBB*B.S;O;TOR;Alejandro Kirk;Michael King;-5%;63%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 1, Yankees 0.
+Bottom of the 7th, Yankees Batting, Behind 0-1, Blue Jays' Chad Green facing 7-8-9 
+;;;;;;;;;Chad Green replaces Kevin Gausman pitching
+b7;0-1;0;---;5,(1-2) .FF.FBC;O;NYY;Oswaldo Cabrera;Chad Green;5%;68%;Strikeout Looking
+b7;0-1;1;---;5,(2-2) BSFBS;O;NYY;Oswald Peraza;Chad Green;4%;72%;Strikeout Swinging
+b7;0-1;2;---;4,(1-2) FBS.X;O;NYY;Estevan Florial;Chad Green;2%;74%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 1, Yankees 0.
+Top of the 8th, Blue Jays Batting, Ahead 1-0, Yankees' Tommy Kahnle facing 9-1-2 
+;;;;;;;;;Tommy Kahnle replaces Michael King pitching
+t8;1-0;0;---;6,(3-2) .CBBBCB;;TOR;Kevin Kiermaier;Tommy Kahnle;3%;78%;Walk
+t8;1-0;0;1--;7,(3-2) BBSSFBX;O;TOR;George Springer;Tommy Kahnle;-3%;74%;Groundout: 3B-2B/Forceout at 2B (Weak 3B); Springer to 1B
+t8;1-0;1;1--;1,(0-0) B;;TOR;Bo Bichette;Tommy Kahnle;2%;76%;Wild Pitch; Springer to 2B
+t8;1-0;1;-2-;2,(1-0) B.B;;TOR;Bo Bichette;Tommy Kahnle;4%;80%;Wild Pitch; Springer to 3B
+t8;1-0;1;--3;4,(2-1) B.B.SX;O;TOR;Bo Bichette;Tommy Kahnle;-7%;73%;Groundout: SS-1B (Weak SS-2B)
+t8;1-0;2;--3;6,(3-2) BC*BCBB;;TOR;Cavan Biggio;Tommy Kahnle;1%;74%;Walk
+t8;1-0;2;1-3;5,(3-1) *BBCBB;;TOR;Matt Chapman;Tommy Kahnle;2%;76%;Walk; Biggio to 2B
+t8;1-0;2;123;6,(3-2) CB*BF.B>B;R;TOR;Spencer Horwitz;Tommy Kahnle;11%;87%;Walk; Springer Scores; Biggio to 3B; Chapman to 2B
+;;;;;;;;;Ian Hamilton replaces Tommy Kahnle pitching
+t8;2-0;2;123;5,(3-1) .*BBBCB;R;TOR;Whit Merrifield;Ian Hamilton;6%;93%;Walk; Biggio Scores; Chapman to 3B; Horwitz to 2B
+t8;3-0;2;123;3,(1-1) C*BX;O;TOR;Daulton Varsho;Ian Hamilton;-2%;91%;Groundout: P-1B (Short 1B Line)
+;;;;;;;;;2 runs, 0 hits, 0 errors, 3 LOB. Blue Jays 3, Yankees 0.
+Bottom of the 8th, Yankees Batting, Behind 0-3, Blue Jays' Jordan Hicks facing 1-2-3 
+;;;;;;;;;Jordan Hicks replaces Chad Green pitching
+b8;0-3;0;---;3,(1-1) .CBX;O;NYY;DJ LeMahieu;Jordan Hicks;3%;94%;Lineout: 1B (2B-1B)
+b8;0-3;1;---;5,(2-2) CCBBC;O;NYY;Aaron Judge;Jordan Hicks;2%;96%;Strikeout Looking
+b8;0-3;2;---;5,(2-2) BCFBX;O;NYY;Gleyber Torres;Jordan Hicks;1%;97%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 3, Yankees 0.
+Top of the 9th, Blue Jays Batting, Ahead 3-0, Yankees' Ian Hamilton facing 8-9-1 
+t9;3-0;0;---;1,(0-0) X;O;TOR;Alejandro Kirk;Ian Hamilton;0%;96%;Foul Popfly: RF (Short RF into Foul Terr.)
+t9;3-0;1;---;3,(0-2) FFX;;TOR;Kevin Kiermaier;Ian Hamilton;1%;97%;Double to CF (Line Drive to Deep CF)
+t9;3-0;1;-2-;2,(1-0) BX;;TOR;George Springer;Ian Hamilton;1%;98%;Single to RF (Ground Ball thru 2B-1B); Kiermaier to 3B
+t9;3-0;1;1-3;3,(2-0) BBX;R;TOR;Bo Bichette;Ian Hamilton;1%;99%;Single to CF (Line Drive); Kiermaier Scores; Springer to 2B
+t9;4-0;1;12-;5,(3-1) BCBBB;;TOR;Cavan Biggio;Ian Hamilton;0%;99%;Walk; Springer to 3B; Bichette to 2B
+t9;4-0;1;123;5,(2-2) BSC*BC;O;TOR;Matt Chapman;Ian Hamilton;-1%;99%;Strikeout Looking
+t9;4-0;2;123;6,(2-2) CBF.BFX;RR;TOR;Spencer Horwitz;Ian Hamilton;1%;100%;Single to CF (Ground Ball thru SS-2B); Springer Scores; Bichette Scores; Biggio to 3B
+;;;;;;;;;Greg Weissert replaces Ian Hamilton pitching
+t9;6-0;2;1-3;1,(0-0) .X;O;TOR;Whit Merrifield;Greg Weissert;0%;100%;Lineout: CF (Deep CF)
+;;;;;;;;;3 runs, 4 hits, 0 errors, 2 LOB. Blue Jays 6, Yankees 0.
+Bottom of the 9th, Yankees Batting, Behind 0-6, Blue Jays' Erik Swanson facing 4-5-6 
+;;;;;;;;;Erik Swanson replaces Jordan Hicks pitching
+b9;0-6;0;---;3,(1-1) .BFX;R;NYY;Austin Wells;Erik Swanson;0%;99%;Home Run (Fly Ball to Deep RF Line)
+b9;1-6;0;---;9,(3-2) CSFFBBFBX;O;NYY;Giancarlo Stanton;Erik Swanson;1%;100%;Groundout: 3B-1B (Weak 3B)
+b9;1-6;1;---;4,(2-1) BBCX;O;NYY;Anthony Volpe;Erik Swanson;0%;100%;Foul Popfly: C (Behind Home)
+b9;1-6;2;---;3,(1-1) CBX;;NYY;Oswaldo Cabrera;Erik Swanson;0%;100%;Single to LF (Line Drive to LF Line)
+b9;1-6;2;1--;4,(1-2) S.SB*S;O;NYY;Oswald Peraza;Erik Swanson;0%;100%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Blue Jays 6, Yankees 1.

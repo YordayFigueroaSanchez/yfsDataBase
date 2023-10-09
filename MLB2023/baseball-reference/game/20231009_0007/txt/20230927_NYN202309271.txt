@@ -1,0 +1,278 @@
+
+Scorebox Meta
+20230927
+4:10 p.m. Local
+Citi Field
+169
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/MIA-2023.png;/teams/MIA/2023.shtml;0;0;0;0;0;0;2;0;0;2;9;0
+https://cdn.ssref.net/req/202310031/tlogo/br/NYM-2023.png;/teams/NYM/2023.shtml;2;0;2;0;0;2;3;2;X;11;12;1
+
+Batting home
+Brandon Nimmo;/players/n/nimmobr01.shtml;CF;4;2;2;2;1;1;5;.273;.363;.468;.831;27;16;0.017; 0.34;0.037;-0.020;0%; 0.00; 1.7;2;0;2B
+Rafael Ortega;/players/o/ortegra01.shtml;CF;0;0;0;0;0;0;0;.227;.353;.289;.642;;;;;;;;;;1;0;
+Ronny Mauricio;/players/m/mauriro01.shtml;2B-SS;5;1;1;0;0;2;5;.256;.299;.366;.665;20;14;-0.045; 0.41;0.003;-0.048;0%; 0.00; -0.9;2;2;
+Pete Alonso;/players/a/alonspe01.shtml;1B;4;4;4;2;0;0;5;.222;.323;.517;.841;19;10;0.199; 0.41;0.199;0.000;0%; 0.00; 3.2;7;0;HR,2B,HBP
+Francisco Lindor;/players/l/lindofr01.shtml;SS;4;1;2;4;1;0;5;.252;.332;.457;.789;23;11;0.128; 0.38;0.147;-0.020;0%; 0.00; 3.5;1;2;HR
+Luis Guillorme;/players/g/guilllu01.shtml;2B;0;0;0;0;0;0;0;.231;.296;.337;.632;;;;;;;;;;0;1;
+Mark Vientos;/players/v/vientma01.shtml;DH;4;1;1;2;1;1;5;.220;.260;.385;.646;22;13;0.019; 0.15;0.031;-0.012;0%; 0.00; 0.1;;;HR,GDP
+Jeff McNeil;/players/m/mcneije01.shtml;RF;4;0;1;1;0;0;4;.270;.333;.378;.711;8;5;-0.021; 0.26;0.003;-0.024;0%; 0.00; 0.4;7;0;
+DJ Stewart;/players/s/stewadj01.shtml;RF;0;0;0;0;0;0;0;.264;.352;.549;.900;;;;;;;;;;0;0;
+Francisco Alvarez;/players/a/alvarfr01.shtml;C;3;0;0;0;1;2;4;.209;.283;.426;.710;18;12;0.011; 0.18;0.017;-0.007;0%; 0.00; -0.8;5;0;
+Brett Baty;/players/b/batybr01.shtml;3B;4;1;1;0;0;0;4;.215;.281;.331;.612;16;10;-0.026; 0.27;0.000;-0.027;0%; 0.00; -0.0;0;0;2B
+Tim Locastro;/players/l/locasti01.shtml;LF;3;1;0;0;0;2;4;.213;.339;.319;.658;19;13;-0.025; 0.23;0.000;-0.025;0%; 0.00; -0.3;2;0;HBP
+Joey Lucchesi;/players/l/lucchjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Trevor Gott;/players/g/gotttr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Drew Smith;/players/s/smithdr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Grant Hartwig;/players/h/hartwgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Pete Alonso (20, off JT Chargois); Brett Baty (12, off Enmanuel De Jesus); Brandon Nimmo (30, off Enmanuel De Jesus).
+
+
+HR: Pete Alonso (46, off Braxton Garrett, 1st inn, 1 on, 1 out to Deep LF); Francisco Lindor (28, off Braxton Garrett, 3rd inn, 1 on, 2 outs to Deep LF-CF); Mark Vientos (9, off JT Chargois, 6th inn, 1 on, 1 out to Deep CF).
+
+
+HBP: Tim Locastro (6, by Enmanuel De Jesus); Pete Alonso (19, by Enmanuel De Jesus).
+
+
+TB: Pete Alonso 8; Francisco Lindor 5; Mark Vientos 4; Brandon Nimmo 3; Brett Baty 2; Jeff McNeil; Ronny Mauricio.
+
+
+GIDP: Mark Vientos (5).
+
+
+RBI: Francisco Lindor 4 (94); Mark Vientos 2 (22); Pete Alonso 2 (117); Brandon Nimmo 2 (68); Jeff McNeil (55).
+
+
+2-out RBI: Francisco Lindor 4; Jeff McNeil.
+
+
+Team LOB: 6.
+With RISP: 6 for 10.
+
+Batting away
+Jorge Soler;/players/s/solerjo01.shtml;RF;4;0;0;1;0;1;5;.247;.336;.512;.848;17;11;-0.069; 0.80;0.021;-0.090;-0.10%; 1.96; -1.2;1;0;SF
+Josh Bell;/players/b/belljo02.shtml;DH;5;0;0;0;0;1;5;.246;.323;.418;.742;26;15;-0.085; 0.64;0.000;-0.085;-0.12%; 1.56; -1.3;;;
+Jake Burger;/players/b/burgeja01.shtml;3B;5;0;2;0;0;0;5;.255;.315;.531;.846;15;9;0.023; 0.38;0.044;-0.021; 0.03%; 0.93; 0.2;3;1;
+Bryan De La Cruz;/players/d/delacbr01.shtml;LF;5;0;1;0;0;2;5;.258;.305;.417;.721;22;17;-0.100; 0.67;0.008;-0.108;-0.15%; 1.63; -1.5;1;0;GDP
+Jon Berti;/players/b/bertijo01.shtml;2B;4;0;3;0;0;0;4;.291;.332;.398;.730;18;12;0.054; 0.36;0.060;-0.007; 0.08%; 0.88; 1.4;1;3;3B,2B
+Yuli Gurriel;/players/g/gourryu01.shtml;1B;4;0;0;0;0;0;4;.249;.309;.365;.674;12;9;-0.086; 0.80;0.000;-0.086;-0.13%; 1.95; -1.5;7;0;
+Jazz Chisholm Jr.;/players/c/chishja01.shtml;CF;3;1;2;0;1;1;4;.251;.304;.456;.760;14;7;0.013; 0.55;0.045;-0.031; 0.02%; 1.33; 1.0;2;0;2B
+Nick Fortes;/players/f/forteni01.shtml;C;4;1;1;1;0;0;4;.205;.264;.302;.566;9;7;-0.031; 0.61;0.025;-0.056;-0.04%; 1.50; -0.3;8;1;2B
+Garrett Hampson;/players/h/hampsga01.shtml;SS;1;0;0;0;3;0;4;.282;.361;.396;.757;20;8;0.037; 0.59;0.051;-0.014; 0.05%; 1.45; 0.6;1;1;SB
+Braxton Garrett;/players/g/garrebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Steven Okert;/players/o/okertst01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+JT Chargois;/players/c/chargjt01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Enmanuel De Jesus;/players/d/dejesen01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Jon Berti (16, off Joey Lucchesi); Jazz Chisholm Jr. (11, off Joey Lucchesi); Nick Fortes (10, off Joey Lucchesi).
+
+
+3B: Jon Berti (3, off Drew Smith).
+
+
+SF: Jorge Soler (4, off Trevor Gott).
+
+
+TB: Jon Berti 6; Jazz Chisholm Jr. 3; Nick Fortes 2; Jake Burger 2; Bryan De La Cruz.
+
+
+GIDP: Bryan De La Cruz (17).
+
+
+RBI: Nick Fortes (26); Jorge Soler (74).
+
+
+Team LOB: 11.
+With RISP: 1 for 12.
+
+Pitching home
+Joey Lucchesi;/players/l/lucchjo01.shtml; W (4-0); 6 ;7;2;2;2;3;0;2.89;26;91;56;29;9;18;6;15;6;0;51;;;0.217; 0.75; 0.00%; 0.00; 1.5
+Trevor Gott;/players/g/gotttr01.shtml;Trevor Gott; 1 ;1;0;0;0;1;0;4.19;5;19;14;10;1;3;1;3;3;0;;1;1;0.025; 0.66; 0.00%; 0.00; 0.1
+Drew Smith;/players/s/smithdr01.shtml;Drew Smith; 1 ;1;0;0;2;1;0;4.23;6;31;17;14;1;2;0;3;0;0;;0;0;0.003; 0.14; 0.00%; 0.00; 0.5
+Grant Hartwig;/players/h/hartwgr01.shtml;Grant Hartwig; 1 ;0;0;0;0;0;0;4.98;3;12;8;6;0;2;2;1;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+Pitching away
+Braxton Garrett;/players/g/garrebr01.shtml; L (9-7); 4 ;3;4;4;2;2;2;3.66;17;77;46;30;4;12;4;9;3;0;40;;;-0.210; 0.57;-0.31%; 1.40; -1.9
+Steven Okert;/players/o/okertst01.shtml;Steven Okert; 1 ;0;0;0;0;3;0;4.58;3;18;11;4;6;1;0;0;0;0;;0;0;0.013; 0.17; 0.02%; 0.41; 0.5
+JT Chargois;/players/c/chargjt01.shtml;JT Chargois; 1 ;2;2;2;0;1;1;3.76;5;19;11;5;2;4;2;2;0;0;;0;0;-0.032; 0.14;-0.05%; 0.35; -1.5
+Enmanuel De Jesus;/players/d/dejesen01.shtml;Enmanuel De Jesus; 2 ;7;5;5;2;2;0;11.37;16;58;36;22;5;9;5;5;3;0;;0;0;-0.026; 0.06;-0.04%; 0.15; -4.0
+
+indiv_events
+
+Balks: Joey Lucchesi (1).
+WP: Braxton Garrett (4).
+HBP: Enmanuel De Jesus 2 (3; Tim Locastro, Pete Alonso).
+IBB: None.
+Pickoffs: None.
+
+Balks: Joey Lucchesi (1).
+WP: Braxton Garrett (4).
+HBP: Enmanuel De Jesus 2 (3; Tim Locastro, Pete Alonso).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Alfonso Márquez, 1B - Randy Rosenberg, 2B - Emil Jimenez, 3B - Doug Eddings, LF - (none), RF - (none).
+Time of Game: 2:49.
+Attendance: Not Given.
+Field Condition: Unknown.
+Start Time Weather: 66° F, Wind 8mph from Right to Left, Cloudy, No Precipitation.
+
+div_lineups
+Marlins
+1;Jorge Soler;/players/s/solerjo01.shtml;RF
+2;Josh Bell;/players/b/belljo02.shtml;DH
+3;Jake Burger;/players/b/burgeja01.shtml;3B
+4;Bryan De La Cruz;/players/d/delacbr01.shtml;LF
+5;Jon Berti;/players/b/bertijo01.shtml;2B
+6;Yuli Gurriel;/players/g/gourryu01.shtml;1B
+7;Jazz Chisholm Jr.;/players/c/chishja01.shtml;CF
+8;Nick Fortes;/players/f/forteni01.shtml;C
+9;Garrett Hampson;/players/h/hampsga01.shtml;SS
+; Braxton Garrett;/players/g/garrebr01.shtml;P
+Mets
+1;Brandon Nimmo;/players/n/nimmobr01.shtml;CF
+2;Ronny Mauricio;/players/m/mauriro01.shtml;2B
+3;Pete Alonso;/players/a/alonspe01.shtml;1B
+4;Francisco Lindor;/players/l/lindofr01.shtml;SS
+5;Mark Vientos;/players/v/vientma01.shtml;DH
+6;Jeff McNeil;/players/m/mcneije01.shtml;RF
+7;Francisco Alvarez;/players/a/alvarfr01.shtml;C
+8;Brett Baty;/players/b/batybr01.shtml;3B
+9;Tim Locastro;/players/l/locasti01.shtml;LF
+; Joey Lucchesi;/players/l/lucchjo01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b1;0-0;1;1--;6,(3-2) FFB*BBX;RR;NYM;Pete Alonso;Braxton Garrett;17%;72%;Home Run (Fly Ball to Deep LF); Nimmo Scores
+b3;2-0;2;-2-;6,(2-2) FB.FF.BX;RR;NYM;Francisco Lindor;Braxton Garrett;13%;88%;Home Run (Fly Ball to Deep LF-CF); Alonso Scores
+t4;0-4;0;1--;4,(1-2) BCCX;OO;MIA;Bryan De La Cruz;Joey Lucchesi;6%;91%;Ground Ball Double Play: SS-2B-1B
+t2;0-2;1;---;1,(0-0) X;;MIA;Jon Berti;Joey Lucchesi;-4%;68%;Double to CF (Line Drive to Deep CF-RF)
+t2;0-2;1;-2-;5,(1-2) S*BCFX;O;MIA;Yuli Gurriel;Joey Lucchesi;4%;72%;Foul Popfly: 1B (1B into Foul Terr.)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Marlins Batting, Tied 0-0, Mets' Joey Lucchesi facing 1-2-3 
+t1;0-0;0;---;3,(1-1) BSX;O;MIA;Jorge Soler;Joey Lucchesi;2%;52%;Flyball: RF (Short RF)
+t1;0-0;1;---;4,(1-2) BCF.X;O;MIA;Josh Bell;Joey Lucchesi;2%;54%;Flyball: RF (Short RF Line)
+t1;0-0;2;---;2,(1-0) BX;O;MIA;Jake Burger;Joey Lucchesi;1%;55%;Lineout: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Marlins' Braxton Garrett facing 1-2-3 
+b1;0-0;0;---;8,(3-2) BCCBFFBB;;NYM;Brandon Nimmo;Braxton Garrett;3%;58%;Walk
+b1;0-0;0;1--;4,(1-2) BFSC;O;NYM;Ronny Mauricio;Braxton Garrett;-3%;55%;Strikeout Looking
+b1;0-0;1;1--;6,(3-2) FFB*BBX;RR;NYM;Pete Alonso;Braxton Garrett;17%;72%;Home Run (Fly Ball to Deep LF); Nimmo Scores
+b1;2-0;1;---;2,(1-0) BX;O;NYM;Francisco Lindor;Braxton Garrett;-1%;71%;Groundout: 3B-1B (SS-3B Hole)
+b1;2-0;2;---;3,(0-2) SFX;O;NYM;Mark Vientos;Braxton Garrett;-1%;70%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;2 runs, 1 hit, 0 errors, 0 LOB. Marlins 0, Mets 2.
+Top of the 2nd, Marlins Batting, Behind 0-2, Mets' Joey Lucchesi facing 4-5-6 
+t2;0-2;0;---;5,(2-2) CBBCS;O;MIA;Bryan De La Cruz;Joey Lucchesi;2%;72%;Strikeout Swinging
+t2;0-2;1;---;1,(0-0) X;;MIA;Jon Berti;Joey Lucchesi;-4%;68%;Double to CF (Line Drive to Deep CF-RF)
+t2;0-2;1;-2-;5,(1-2) S*BCFX;O;MIA;Yuli Gurriel;Joey Lucchesi;4%;72%;Foul Popfly: 1B (1B into Foul Terr.)
+t2;0-2;2;-2-;4,(1-2) BCSS;O;MIA;Jazz Chisholm Jr.;Joey Lucchesi;3%;75%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Marlins 0, Mets 2.
+Bottom of the 2nd, Mets Batting, Ahead 2-0, Marlins' Braxton Garrett facing 6-7-8 
+b2;2-0;0;---;5,(3-1) CBBBX;O;NYM;Jeff McNeil;Braxton Garrett;-2%;73%;Flyball: LF (Short LF Line)
+b2;2-0;1;---;7,(3-2) BBBCFF*B;;NYM;Francisco Alvarez;Braxton Garrett;2%;75%;Walk
+b2;2-0;1;1--;3,(0-2) CCX;O;NYM;Brett Baty;Braxton Garrett;-2%;73%;Groundout: C-SS/Forceout at 2B; Baty to 1B
+b2;2-0;2;1--;2,(0-1) CX;O;NYM;Tim Locastro;Braxton Garrett;-2%;71%;Foul Popfly: 3B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Marlins 0, Mets 2.
+Top of the 3rd, Marlins Batting, Behind 0-2, Mets' Joey Lucchesi facing 8-9-1 
+t3;0-2;0;---;2,(0-1) FX;O;MIA;Nick Fortes;Joey Lucchesi;3%;74%;Popfly: 1B
+t3;0-2;1;---;5,(3-1) CBBBB;;MIA;Garrett Hampson;Joey Lucchesi;-3%;71%;Walk
+t3;0-2;1;1--;4,(2-1) BBCX;O;MIA;Jorge Soler;Joey Lucchesi;3%;74%;Flyball: RF (Deep RF)
+t3;0-2;2;1--;3,(2-0) BB>B;;MIA;Josh Bell;Joey Lucchesi;-1%;73%;Hampson Steals 2B
+t3;0-2;2;-2-;6,(3-2) BB>B.C.CX;O;MIA;Josh Bell;Joey Lucchesi;3%;77%;Lineout: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Marlins 0, Mets 2.
+Bottom of the 3rd, Mets Batting, Ahead 2-0, Marlins' Braxton Garrett facing 1-2-3 
+b3;2-0;0;---;6,(3-2) CBBBCX;O;NYM;Brandon Nimmo;Braxton Garrett;-2%;75%;Groundout: 2B-1B (2B-1B)
+b3;2-0;1;---;5,(2-2) FBFBX;O;NYM;Ronny Mauricio;Braxton Garrett;-1%;74%;Lineout: 1B (2B-1B)
+b3;2-0;2;---;3,(2-0) BBX;;NYM;Pete Alonso;Braxton Garrett;1%;75%;Single to CF (Line Drive to CF-RF)
+b3;2-0;2;1--;2,(0-1) FB;;NYM;Francisco Lindor;Braxton Garrett;1%;75%;Wild Pitch; Alonso to 2B
+b3;2-0;2;-2-;6,(2-2) FB.FF.BX;RR;NYM;Francisco Lindor;Braxton Garrett;13%;88%;Home Run (Fly Ball to Deep LF-CF); Alonso Scores
+b3;4-0;2;---;7,(3-2) BBFBFFS;O;NYM;Mark Vientos;Braxton Garrett;0%;88%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Marlins 0, Mets 4.
+Top of the 4th, Marlins Batting, Behind 0-4, Mets' Joey Lucchesi facing 3-4-5 
+t4;0-4;0;---;4,(2-1) FBBX;;MIA;Jake Burger;Joey Lucchesi;-3%;85%;Single to CF (Ground Ball)
+t4;0-4;0;1--;4,(1-2) BCCX;OO;MIA;Bryan De La Cruz;Joey Lucchesi;6%;91%;Ground Ball Double Play: SS-2B-1B
+t4;0-4;2;---;4,(1-2) CBC.X;O;MIA;Jon Berti;Joey Lucchesi;1%;91%;Flyball: LF (LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Marlins 0, Mets 4.
+Bottom of the 4th, Mets Batting, Ahead 4-0, Marlins' Braxton Garrett facing 6-7-8 
+b4;4-0;0;---;1,(0-0) X;O;NYM;Jeff McNeil;Braxton Garrett;-1%;91%;Lineout: RF (Deep CF-RF)
+b4;4-0;1;---;4,(1-2) CBC.X;O;NYM;Francisco Alvarez;Braxton Garrett;-1%;90%;Groundout: P-1B
+b4;4-0;2;---;5,(2-2) SBF.BX;O;NYM;Brett Baty;Braxton Garrett;0%;90%;Popfly: 3B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 0, Mets 4.
+Top of the 5th, Marlins Batting, Behind 0-4, Mets' Joey Lucchesi facing 6-7-8 
+t5;0-4;0;---;3,(1-1) FBX;O;MIA;Yuli Gurriel;Joey Lucchesi;2%;91%;Groundout: SS-1B (SS-3B Hole)
+t5;0-4;1;---;1,(0-0) X;;MIA;Jazz Chisholm Jr.;Joey Lucchesi;-2%;89%;Single to 2B (Bunt to Weak 2B)
+t5;0-4;1;1--;,(0-0) N;;MIA;Nick Fortes;Joey Lucchesi;-1%;89%;Balk; Chisholm to 2B
+t5;0-4;1;-2-;2,(0-1) N.CX;O;MIA;Nick Fortes;Joey Lucchesi;3%;91%;Popfly: 2B (2B-1B)
+t5;0-4;2;-2-;4,(3-0) BBBB;;MIA;Garrett Hampson;Joey Lucchesi;-1%;90%;Walk
+t5;0-4;2;12-;3,(1-1) BSX;O;MIA;Jorge Soler;Joey Lucchesi;3%;93%;Flyball: RF (Short RF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Marlins 0, Mets 4.
+Bottom of the 5th, Mets Batting, Ahead 4-0, Marlins' Steven Okert facing 9-1-2 
+;;;;;;;;;Steven Okert replaces Braxton Garrett pitching
+b5;4-0;0;---;7,(3-2) .SSBBBFS;O;NYM;Tim Locastro;Steven Okert;-1%;93%;Strikeout Swinging
+b5;4-0;1;---;7,(3-2) BFFFBBS;O;NYM;Brandon Nimmo;Steven Okert;0%;92%;Strikeout Swinging
+b5;4-0;2;---;4,(1-2) CSBS;O;NYM;Ronny Mauricio;Steven Okert;0%;92%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 0, Mets 4.
+Top of the 6th, Marlins Batting, Behind 0-4, Mets' Joey Lucchesi facing 2-3-4 
+t6;0-4;0;---;4,(1-2) SC.BS;O;MIA;Josh Bell;Joey Lucchesi;2%;93%;Strikeout Swinging
+t6;0-4;1;---;3,(0-2) CFX;O;MIA;Jake Burger;Joey Lucchesi;1%;95%;Lineout: CF (Deep LF-CF)
+t6;0-4;2;---;5,(2-2) BBSFX;;MIA;Bryan De La Cruz;Joey Lucchesi;-1%;94%;Single to LF (Line Drive to Deep LF Line)
+t6;0-4;2;1--;5,(3-1) CB1BBX;;MIA;Jon Berti;Joey Lucchesi;-1%;92%;Single to SS (Ground Ball to SS-2B); De La Cruz to 2B
+t6;0-4;2;12-;1,(0-0) X;O;MIA;Yuli Gurriel;Joey Lucchesi;3%;95%;Foul Popfly: 1B (1B into Foul Terr.)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Marlins 0, Mets 4.
+Bottom of the 6th, Mets Batting, Ahead 4-0, Marlins' JT Chargois facing 3-4-5 
+;;;;;;;;;JT Chargois replaces Steven Okert pitching
+b6;4-0;0;---;4,(2-1) .CBBX;;NYM;Pete Alonso;JT Chargois;1%;96%;Double to RF (Ground Ball)
+b6;4-0;0;-2-;6,(3-2) BC.BBFX;O;NYM;Francisco Lindor;JT Chargois;-1%;96%;Foul Popfly: 3B
+b6;4-0;1;-2-;4,(2-1) BCB.X;RR;NYM;Mark Vientos;JT Chargois;3%;99%;Home Run (Fly Ball to Deep CF); Alonso Scores
+b6;6-0;1;---;1,(0-0) X;O;NYM;Jeff McNeil;JT Chargois;0%;98%;Groundout: 2B-1B (2B-1B)
+b6;6-0;2;---;4,(1-2) BCS.S;O;NYM;Francisco Alvarez;JT Chargois;0%;98%;Strikeout Swinging
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Marlins 0, Mets 6.
+Top of the 7th, Marlins Batting, Behind 0-6, Mets' Joey Lucchesi facing 7-8-9 
+t7;0-6;0;---;5,(2-2) CFBBX;;MIA;Jazz Chisholm Jr.;Joey Lucchesi;-1%;97%;Double to CF (Ground Ball thru SS-2B)
+t7;0-6;0;-2-;2,(1-0) BX;R;MIA;Nick Fortes;Joey Lucchesi;-2%;95%;Double to RF (Line Drive to Deep CF-RF); Chisholm Scores
+;;;;;;;;;Trevor Gott replaces Joey Lucchesi pitching
+t7;1-6;0;-2-;4,(0-2) .CCFX;O;MIA;Garrett Hampson;Trevor Gott;1%;96%;Lineout: RF (Deep RF Line); Fortes to 3B
+t7;1-6;1;--3;1,(0-0) X;R;MIA;Jorge Soler;Trevor Gott;-2%;94%;Reached on E9/Sacrifice Fly (Line Drive to CF-RF); Fortes Scores; Soler to 1B
+t7;2-6;1;1--;6,(3-2) B*BCFBX;O;MIA;Josh Bell;Trevor Gott;2%;96%;Groundout: P-SS/Forceout at 2B (Front of Home); Bell to 1B
+t7;2-6;2;1--;4,(2-1) BBFX;;MIA;Jake Burger;Trevor Gott;-1%;94%;Single to LF (Line Drive to LF-CF); Bell to 2B
+t7;2-6;2;12-;4,(0-2) FSFT;O;MIA;Bryan De La Cruz;Trevor Gott;3%;97%;Strikeout Swinging
+;;;;;;;;;2 runs, 3 hits, 1 error, 2 LOB. Marlins 2, Mets 6.
+Bottom of the 7th, Mets Batting, Ahead 6-2, Marlins' Enmanuel De Jesus facing 8-9-1 
+;;;;;;;;;Enmanuel De Jesus replaces JT Chargois pitching
+b7;6-2;0;---;5,(2-2) .BCFBX;O;NYM;Brett Baty;Enmanuel De Jesus;0%;97%;Flyball: CF (Deep LF-CF)
+b7;6-2;1;---;4,(1-2) BFCS;O;NYM;Tim Locastro;Enmanuel De Jesus;0%;97%;Strikeout Swinging
+b7;6-2;2;---;2,(0-1) CX;;NYM;Brandon Nimmo;Enmanuel De Jesus;0%;97%;Single to RF (Fly Ball to Short CF-RF)
+b7;6-2;2;1--;4,(1-2) CFBX;;NYM;Ronny Mauricio;Enmanuel De Jesus;0%;97%;Single to 3B (Ground Ball to Weak 3B); Nimmo to 2B
+b7;6-2;2;12-;1,(0-0) X;;NYM;Pete Alonso;Enmanuel De Jesus;0%;97%;Single to LF (Line Drive); Nimmo to 3B; Mauricio to 2B
+b7;6-2;2;123;5,(2-2) S.*BBFX;RR;NYM;Francisco Lindor;Enmanuel De Jesus;2%;99%;Single to CF (Line Drive); Nimmo Scores; Mauricio Scores; Alonso to 2B
+b7;8-2;2;12-;6,(3-2) CB*BBS>B;;NYM;Mark Vientos;Enmanuel De Jesus;0%;99%;Walk; Alonso to 3B; Lindor to 2B
+b7;8-2;2;123;1,(0-0) X;R;NYM;Jeff McNeil;Enmanuel De Jesus;0%;100%;Single to P (Ground Ball to Front of Home); Alonso Scores; Lindor to 3B; Vientos to 2B
+b7;9-2;2;123;3,(0-2) FFS;O;NYM;Francisco Alvarez;Enmanuel De Jesus;0%;100%;Strikeout Swinging
+;;;;;;;;;3 runs, 5 hits, 0 errors, 3 LOB. Marlins 2, Mets 9.
+Top of the 8th, Marlins Batting, Behind 2-9, Mets' Drew Smith facing 5-6-7 
+;;;;;;;;;Drew Smith replaces Trevor Gott pitching
+t8;2-9;0;---;8,(2-2) .FCFFFBBX;;MIA;Jon Berti;Drew Smith;-1%;99%;Triple to RF (Fly Ball to Short RF Line)
+t8;2-9;0;--3;3,(1-1) FBX;O;MIA;Yuli Gurriel;Drew Smith;0%;100%;Flyball: LF (Short LF-CF)
+t8;2-9;1;--3;4,(3-0) BBBB;;MIA;Jazz Chisholm Jr.;Drew Smith;0%;99%;Walk
+t8;2-9;1;1-3;3,(1-1) FBX;O;MIA;Nick Fortes;Drew Smith;1%;100%;Flyball: RF (Short CF-RF)
+t8;2-9;2;1-3;7,(3-2) BCBFFB>B;;MIA;Garrett Hampson;Drew Smith;0%;99%;Walk; Chisholm to 2B
+t8;2-9;2;123;6,(2-2) SBFBFT;O;MIA;Jorge Soler;Drew Smith;1%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Marlins 2, Mets 9.
+Bottom of the 8th, Mets Batting, Ahead 9-2, Marlins' Enmanuel De Jesus facing 8-9-1 
+b8;9-2;0;---;3,(2-0) BBX;;NYM;Brett Baty;Enmanuel De Jesus;0%;100%;Double to RF (Line Drive to RF Line)
+b8;9-2;0;-2-;6,(1-2) CF*BFFH;;NYM;Tim Locastro;Enmanuel De Jesus;0%;100%;Hit By Pitch
+b8;9-2;0;12-;4,(1-2) CTBX;RR;NYM;Brandon Nimmo;Enmanuel De Jesus;0%;100%;Double to RF (Ground Ball); Baty Scores; Locastro Scores
+b8;11-2;0;-2-;3,(1-1) SBX;O;NYM;Ronny Mauricio;Enmanuel De Jesus;0%;100%;Groundout: P-1B (Front of Home)
+b8;11-2;1;-2-;5,(1-2) .BCCFH;;NYM;Pete Alonso;Enmanuel De Jesus;0%;100%;Hit By Pitch
+b8;11-2;1;12-;4,(3-0) B*B*BB;;NYM;Francisco Lindor;Enmanuel De Jesus;0%;100%;Walk; Nimmo to 3B; Alonso to 2B
+b8;11-2;1;123;2,(0-1) FX;OO;NYM;Mark Vientos;Enmanuel De Jesus;0%;100%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;2 runs, 2 hits, 0 errors, 2 LOB. Marlins 2, Mets 11.
+Top of the 9th, Marlins Batting, Behind 2-11, Mets' Grant Hartwig facing 2-3-4 
+;;;;;;;;;Grant Hartwig replaces Drew Smith pitchingLuis Guillorme replaces Francisco Lindor (SS) playing 2B batting 4thRonny Mauricio moves from 2B to SS Rafael Ortega replaces Brandon Nimmo playing CF batting 1stDJ Stewart replaces Jeff McNeil playing RF batting 6th
+t9;2-11;0;---;6,(3-2) .....CBFBBX;O;MIA;Josh Bell;Grant Hartwig;0%;100%;Flyball: CF (CF-RF)
+t9;2-11;1;---;2,(1-0) BX;O;MIA;Jake Burger;Grant Hartwig;0%;100%;Groundout: SS-1B
+t9;2-11;2;---;4,(0-2) CFFX;O;MIA;Bryan De La Cruz;Grant Hartwig;0%;100%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Marlins 2, Mets 11.

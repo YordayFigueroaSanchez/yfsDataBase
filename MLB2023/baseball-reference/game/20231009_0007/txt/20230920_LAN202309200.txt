@@ -1,0 +1,263 @@
+
+Scorebox Meta
+20230920
+7:10 p.m. Local
+42635
+Dodger Stadium
+142
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/DET-2023.png;/teams/DET/2023.shtml;0;1;1;0;0;0;1;1;0;4;7;1
+https://cdn.ssref.net/req/202310031/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;0;0;0;0;1;0;1;0;2;3;2
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;2B;4;0;1;0;0;1;4;.310;.410;.595;1.005;13;10;0.033; 1.05;0.104;-0.071; 0.00%; 0.07; 0.3;3;2;2B
+Freddie Freeman;/players/f/freemfr01.shtml;1B;4;0;0;1;0;1;4;.333;.411;.566;.977;16;10;-0.133; 1.34;0.000;-0.133;-0.01%; 0.09; -0.7;7;2;
+Max Muncy;/players/m/muncyma01.shtml;3B;3;1;2;1;1;0;4;.213;.335;.496;.831;16;8;0.113; 0.97;0.172;-0.059; 0.01%; 0.07; 1.0;1;2;HR
+J.D. Martinez;/players/m/martijd02.shtml;DH;3;0;0;0;1;0;4;.268;.323;.561;.885;20;9;-0.046; 1.25;0.047;-0.093;-0.00%; 0.09; -0.2;;;
+David Peralta;/players/p/peralda01.shtml;LF;4;0;0;0;0;2;4;.260;.295;.380;.675;19;11;-0.150; 1.59;0.000;-0.150;-0.01%; 0.11; -1.1;1;0;
+Jason Heyward;/players/h/heywaja01.shtml;RF;4;0;0;0;0;1;4;.276;.352;.497;.848;11;8;-0.077; 1.16;0.032;-0.109;-0.00%; 0.08; -0.7;1;0;
+James Outman;/players/o/outmaja01.shtml;CF;4;0;0;0;0;3;4;.243;.350;.429;.779;14;10;-0.110; 1.00;0.000;-0.110;-0.01%; 0.07; -0.7;1;0;
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;3;0;0;0;0;0;3;.235;.289;.325;.614;20;14;-0.079; 1.02;0.000;-0.079;-0.00%; 0.07; -0.7;3;3;
+Austin Barnes;/players/b/barneau01.shtml;C;2;1;0;0;1;1;3;.169;.239;.229;.468;14;6;-0.001; 0.66;0.033;-0.033;0%; 0.05; -0.0;8;0;
+Bobby Miller;/players/m/millebo06.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Ryan Brasier;/players/b/brasiry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Evan Phillips;/players/p/phillev01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brusdar Graterol;/players/g/gratebr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Mookie Betts (38, off Will Vest).
+
+
+HR: Max Muncy (36, off Reese Olson, 6th inn, 0 on, 2 outs to Deep CF-RF).
+
+
+TB: Max Muncy 5; Mookie Betts 2.
+
+
+RBI: Freddie Freeman (94); Max Muncy (102).
+
+
+2-out RBI: Max Muncy.
+
+
+Team LOB: 5.
+With RISP: 0 for 4.
+
+Batting away
+Matt Vierling;/players/v/vierlma01.shtml;3B;3;0;0;0;1;1;4;.260;.327;.374;.702;15;9;-0.027; 0.80;0.027;-0.054;0%; 0.00; -0.3;0;1;
+Zach McKinstry;/players/m/mckinza01.shtml;SS-2B;3;0;0;0;0;2;4;.227;.301;.342;.643;18;11;0.026; 0.81;0.065;-0.039;0%; 0.00; 0.3;1;4;HBP
+Spencer Torkelson;/players/t/torkesp01.shtml;1B;3;0;0;1;0;2;4;.232;.313;.446;.759;23;17;-0.063; 0.83;0.000;-0.063;0%; 0.00; -1.0;13;2;SF
+Kerry Carpenter;/players/c/carpeke01.shtml;RF;4;2;2;0;0;0;4;.290;.348;.499;.847;10;7;0.028; 0.81;0.076;-0.048;0%; 0.00; 0.2;1;0;2·2B
+Andy Ibáñez;/players/i/ibanean01.shtml;2B;4;0;1;1;0;2;4;.252;.297;.427;.724;15;9;0.013; 0.92;0.073;-0.060;0%; 0.00; 0.3;1;5;
+Zack Short;/players/s/shortza01.shtml;PR-SS;0;0;0;0;0;0;0;.208;.290;.349;.639;;;;;;;;;;0;1;
+Tyler Nevin;/players/n/nevinty01.shtml;DH;4;0;2;1;0;0;4;.207;.320;.280;.600;16;12;0.062; 0.90;0.095;-0.033;0%; 0.00; 0.3;;;
+Akil Baddoo;/players/b/baddoak01.shtml;LF;4;0;0;0;0;0;4;.218;.304;.359;.663;14;9;-0.123; 0.88;0.000;-0.123;0%; 0.00; -1.5;0;0;GDP
+Parker Meadows;/players/m/meadopa01.shtml;CF;4;1;0;0;0;1;4;.191;.305;.303;.608;19;15;-0.020; 0.64;0.027;-0.047;0%; 0.00; -0.4;0;0;SB
+Carson Kelly;/players/k/kellyca02.shtml;C;4;1;2;1;0;0;4;.211;.269;.276;.545;12;6;0.156; 0.91;0.179;-0.023;0%; 0.00; 1.2;9;1;
+Reese Olson;/players/o/olsonre01.shtml;P;;;;;;;;;;;;;;;;;;;;;2;0;
+Miguel Díaz;/players/d/diazmi02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Will Vest;/players/v/vestwi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Kerry Carpenter 2 (16, 1 off Bobby Miller, 1 off Evan Phillips).
+
+
+SF: Spencer Torkelson (5, off Bobby Miller).
+
+
+HBP: Zach McKinstry (5, by Bobby Miller).
+
+
+TB: Kerry Carpenter 4; Tyler Nevin 2; Carson Kelly 2; Andy Ibáñez.
+
+
+GIDP: Akil Baddoo (4).
+
+
+RBI: Andy Ibáñez (33); Tyler Nevin (7); Spencer Torkelson (85); Carson Kelly (9).
+
+
+2-out RBI: Carson Kelly; Andy Ibáñez.
+
+
+Team LOB: 5.
+With RISP: 3 for 8.
+
+Pitching home
+Bobby Miller;/players/m/millebo06.shtml; L (10-4); 6 ;3;2;2;1;7;0;3.97;23;98;63;39;10;14;5;9;6;0;64;;;0.063; 0.93; 0.00%; 0.07; 1.2
+Ryan Brasier;/players/b/brasiry01.shtml;Ryan Brasier; 1 ;2;1;0;0;0;0;3.16;5;17;13;9;0;4;3;2;1;0;;0;0;-0.085; 1.01;-0.00%; 0.07; -0.5
+Evan Phillips;/players/p/phillev01.shtml;Evan Phillips; 1 ;2;1;1;0;0;0;2.18;5;16;11;9;0;2;1;4;3;0;;0;0;-0.050; 0.50;-0.00%; 0.03; -0.5
+Brusdar Graterol;/players/g/gratebr01.shtml;Brusdar Graterol; 1 ;0;0;0;0;1;0;1.26;3;11;8;6;0;2;2;0;0;0;;0;0;0.020; 0.25; 0.00%; 0.02; 0.5
+
+Pitching away
+Reese Olson;/players/o/olsonre01.shtml; W (5-7); 6 ;2;1;1;2;5;1;4.13;22;94;57;31;10;16;11;4;2;0;67;;;0.251; 0.99; 0.00%; 0.00; 2.2
+Miguel Díaz;/players/d/diazmi02.shtml; H (2); 1.1;0;1;1;1;2;0;1.04;5;26;14;8;3;3;1;1;0;0;;0;0;0.082; 1.03; 0.00%; 0.00; 0.5
+Will Vest;/players/v/vestwi01.shtml; S (2); 1.2;1;0;0;0;2;0;2.80;7;23;15;7;2;6;3;2;1;0;;1;1;0.116; 1.65; 0.00%; 0.00; 0.1
+
+indiv_events
+
+Balks: None.
+WP: Bobby Miller (9).
+HBP: Bobby Miller (6; Zach McKinstry).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Bobby Miller (9).
+HBP: Bobby Miller (6; Zach McKinstry).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Dan Bellino, 1B - Shane Livensparger, 2B - Mark Ripperger, 3B - David Arrieta, LF - (none), RF - (none).
+Time of Game: 2:22.
+Attendance: 42,635.
+Field Condition: Unknown.
+Start Time Weather: 68° F, Wind 6mph from Left to Right, Cloudy, No Precipitation.
+
+div_lineups
+Tigers
+1;Matt Vierling;/players/v/vierlma01.shtml;3B
+2;Zach McKinstry;/players/m/mckinza01.shtml;SS
+3;Spencer Torkelson;/players/t/torkesp01.shtml;1B
+4;Kerry Carpenter;/players/c/carpeke01.shtml;RF
+5;Andy Ibáñez;/players/i/ibanean01.shtml;2B
+6;Tyler Nevin;/players/n/nevinty01.shtml;DH
+7;Akil Baddoo;/players/b/baddoak01.shtml;LF
+8;Parker Meadows;/players/m/meadopa01.shtml;CF
+9;Carson Kelly;/players/k/kellyca02.shtml;C
+; Reese Olson;/players/o/olsonre01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;2B
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Max Muncy;/players/m/muncyma01.shtml;3B
+4;J.D. Martinez;/players/m/martijd02.shtml;DH
+5;David Peralta;/players/p/peralda01.shtml;LF
+6;Jason Heyward;/players/h/heywaja01.shtml;RF
+7;James Outman;/players/o/outmaja01.shtml;CF
+8;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+9;Austin Barnes;/players/b/barneau01.shtml;C
+; Bobby Miller;/players/m/millebo06.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b6;0-2;2;---;3,(2-0) BBX;R;LAD;Max Muncy;Reese Olson;-13%;67%;Home Run (Fly Ball to Deep CF-RF)
+t7;2-1;2;-2-;2,(1-0) >B.X;R;DET;Carson Kelly;Ryan Brasier;12%;79%;Single to LF (Line Drive to Deep LF-CF); Meadows Scores/unER
+b8;1-4;1;1--;1,(0-0) .X;;LAD;Mookie Betts;Will Vest;-10%;80%;Double to RF (Line Drive to Deep CF-RF); Barnes to 3B
+t7;2-1;0;1--;1,(0-0) X;OO;DET;Akil Baddoo;Ryan Brasier;-8%;64%;Ground Ball Double Play: 3B-SS-1B (SS-3B Hole)
+t8;3-1;2;-2-;3,(1-1) BFX;R;DET;Andy Ibáñez;Evan Phillips;7%;92%;Single to RF (Line Drive to Short RF Line); Carpenter Scores; Ibáñez to 3B/Adv on E9 (throw)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Tigers Batting, Tied 0-0, Dodgers' Bobby Miller facing 1-2-3 
+t1;0-0;0;---;5,(2-2) BBCC*S;O;DET;Matt Vierling;Bobby Miller;-2%;48%;Strikeout Swinging
+t1;0-0;1;---;9,(3-2) BBBCFFFFT;O;DET;Zach McKinstry;Bobby Miller;-2%;46%;Strikeout Swinging
+t1;0-0;2;---;8,(1-2) CFFBFFFS;O;DET;Spencer Torkelson;Bobby Miller;-1%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Tied 0-0, Tigers' Reese Olson facing 1-2-3 
+b1;0-0;0;---;4,(1-2) CSBC;O;LAD;Mookie Betts;Reese Olson;2%;47%;Strikeout Looking
+b1;0-0;1;---;6,(3-2) BSBBC*S;O;LAD;Freddie Freeman;Reese Olson;2%;49%;Strikeout Swinging
+b1;0-0;2;---;6,(3-2) BSSBBB;;LAD;Max Muncy;Reese Olson;-1%;48%;Walk
+b1;0-0;2;1--;4,(2-1) BCBX;O;LAD;J.D. Martinez;Reese Olson;2%;50%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Tigers 0, Dodgers 0.
+Top of the 2nd, Tigers Batting, Tied 0-0, Dodgers' Bobby Miller facing 4-5-6 
+t2;0-0;0;---;1,(0-0) X;;DET;Kerry Carpenter;Bobby Miller;6%;56%;Double to CF (Line Drive to Deep LF-CF)
+t2;0-0;0;-2-;1,(0-0) X;O;DET;Andy Ibáñez;Bobby Miller;-2%;55%;Groundout: 2B-1B (SS-2B); Carpenter to 3B
+t2;0-0;1;--3;2,(0-1) CX;R;DET;Tyler Nevin;Bobby Miller;6%;60%;Single to LF (Fly Ball to LF-CF); Carpenter Scores
+t2;1-0;1;1--;7,(3-2) FBBBC>F>X;O;DET;Akil Baddoo;Bobby Miller;-2%;58%;Groundout: 1B unassisted (Weak 2B-1B); Nevin to 2B
+t2;1-0;2;-2-;3,(0-2) CFX;O;DET;Parker Meadows;Bobby Miller;-3%;55%;Lineout: 3B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Tigers 1, Dodgers 0.
+Bottom of the 2nd, Dodgers Batting, Behind 0-1, Tigers' Reese Olson facing 5-6-7 
+b2;0-1;0;---;3,(1-1) CBX;O;LAD;David Peralta;Reese Olson;3%;58%;Lineout: 1B
+b2;0-1;1;---;4,(1-2) CFB*S;O;LAD;Jason Heyward;Reese Olson;2%;60%;Strikeout Swinging
+b2;0-1;2;---;1,(0-0) X;O;LAD;James Outman;Reese Olson;1%;61%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 1, Dodgers 0.
+Top of the 3rd, Tigers Batting, Ahead 1-0, Dodgers' Bobby Miller facing 9-1-2 
+t3;1-0;0;---;2,(1-0) BX;;DET;Carson Kelly;Bobby Miller;3%;64%;Single to LF (Line Drive to Deep LF Line)
+t3;1-0;0;1--;5,(2-2) CB.CBB;;DET;Matt Vierling;Bobby Miller;2%;67%;Wild Pitch; Kelly to 2B
+t3;1-0;0;-2-;7,(3-2) CB.CBB.F*B;;DET;Matt Vierling;Bobby Miller;3%;69%;Walk
+t3;1-0;0;12-;2,(0-1) FH;;DET;Zach McKinstry;Bobby Miller;6%;76%;Hit By Pitch; Kelly to 3B; Vierling to 2B
+t3;1-0;0;123;5,(2-2) FB*BSX;RO;DET;Spencer Torkelson;Bobby Miller;-2%;74%;Lineout: CF/Sacrifice Fly (Deep CF); Kelly Scores
+t3;2-0;1;12-;4,(2-1) *BFBX;O;DET;Kerry Carpenter;Bobby Miller;-3%;70%;Flyball: RF (Short RF)
+t3;2-0;2;12-;5,(2-2) BBSF.S;O;DET;Andy Ibáñez;Bobby Miller;-3%;67%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 2 LOB. Tigers 2, Dodgers 0.
+Bottom of the 3rd, Dodgers Batting, Behind 0-2, Tigers' Reese Olson facing 8-9-1 
+b3;0-2;0;---;3,(1-1) BCX;O;LAD;Miguel Rojas;Reese Olson;3%;69%;Groundout: 2B-1B (Weak 2B)
+b3;0-2;1;---;4,(2-1) CBBX;O;LAD;Austin Barnes;Reese Olson;2%;71%;Groundout: SS-1B (Weak SS)
+b3;0-2;2;---;6,(2-2) CFBBFX;O;LAD;Mookie Betts;Reese Olson;1%;72%;Groundout: 3B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 2, Dodgers 0.
+Top of the 4th, Tigers Batting, Ahead 2-0, Dodgers' Bobby Miller facing 6-7-8 
+t4;2-0;0;---;4,(1-2) FS.BX;O;DET;Tyler Nevin;Bobby Miller;-2%;71%;Groundout: SS-1B
+t4;2-0;1;---;3,(2-0) BBX;O;DET;Akil Baddoo;Bobby Miller;-1%;69%;Groundout: SS-1B (SS-2B)
+t4;2-0;2;---;4,(1-2) BCSX;O;DET;Parker Meadows;Bobby Miller;-1%;68%;Lineout: 2B (Deep 2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 2, Dodgers 0.
+Bottom of the 4th, Dodgers Batting, Behind 0-2, Tigers' Reese Olson facing 2-3-4 
+b4;0-2;0;---;1,(0-0) X;O;LAD;Freddie Freeman;Reese Olson;3%;71%;Groundout: 1B-P (2B-1B)
+b4;0-2;1;---;5,(2-2) BCBCX;;LAD;Max Muncy;Reese Olson;-3%;68%;Single to RF (Line Drive to Deep 2B)
+b4;0-2;1;1--;6,(3-2) BSSB*BB;;LAD;J.D. Martinez;Reese Olson;-5%;63%;Walk; Muncy to 2B
+b4;0-2;1;12-;4,(2-1) *BFBX;O;LAD;David Peralta;Reese Olson;5%;68%;Groundout: 2B-SS/Forceout at 2B (Deep 2B); Muncy to 3B; Peralta to 1B
+b4;0-2;2;1-3;1,(0-0) X;O;LAD;Jason Heyward;Reese Olson;6%;75%;Groundout: C-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Tigers 2, Dodgers 0.
+Top of the 5th, Tigers Batting, Ahead 2-0, Dodgers' Bobby Miller facing 9-1-2 
+t5;2-0;0;---;6,(3-2) BCBF.BX;O;DET;Carson Kelly;Bobby Miller;-2%;73%;Popfly: 2B (Deep 2B-1B)
+t5;2-0;1;---;1,(0-0) X;O;DET;Matt Vierling;Bobby Miller;-1%;71%;Lineout: LF (LF-CF)
+t5;2-0;2;---;5,(2-2) FSBBC;O;DET;Zach McKinstry;Bobby Miller;-1%;70%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 2, Dodgers 0.
+Bottom of the 5th, Dodgers Batting, Behind 0-2, Tigers' Reese Olson facing 7-8-9 
+b5;0-2;0;---;5,(2-2) .SBBFS;O;LAD;James Outman;Reese Olson;3%;74%;Strikeout Swinging
+b5;0-2;1;---;10,(2-2) CBFBFFFFFX;O;LAD;Miguel Rojas;Reese Olson;2%;76%;Groundout: SS-1B (SS-3B Hole)
+b5;0-2;2;---;5,(2-2) CBF.BT;O;LAD;Austin Barnes;Reese Olson;1%;77%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 2, Dodgers 0.
+Top of the 6th, Tigers Batting, Ahead 2-0, Dodgers' Bobby Miller facing 3-4-5 
+t6;2-0;0;---;5,(2-2) FFBBS;O;DET;Spencer Torkelson;Bobby Miller;-2%;76%;Strikeout Swinging
+t6;2-0;1;---;3,(0-2) FTX;O;DET;Kerry Carpenter;Bobby Miller;-1%;74%;Groundout: 1B-P
+t6;2-0;2;---;6,(3-2) CBBBC.S;O;DET;Andy Ibáñez;Bobby Miller;-1%;73%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 2, Dodgers 0.
+Bottom of the 6th, Dodgers Batting, Behind 0-2, Tigers' Reese Olson facing 1-2-3 
+b6;0-2;0;---;2,(0-1) CX;O;LAD;Mookie Betts;Reese Olson;4%;77%;Foul Popfly: 1B (1B into Foul Terr.)
+b6;0-2;1;---;5,(1-2) BFFFX;O;LAD;Freddie Freeman;Reese Olson;3%;79%;Groundout: 2B-1B (2B-1B)
+b6;0-2;2;---;3,(2-0) BBX;R;LAD;Max Muncy;Reese Olson;-13%;67%;Home Run (Fly Ball to Deep CF-RF)
+b6;1-2;2;---;6,(3-2) BBCBCX;O;LAD;J.D. Martinez;Reese Olson;2%;69%;Groundout: 2B-1B (Deep SS-2B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Tigers 2, Dodgers 1.
+Top of the 7th, Tigers Batting, Ahead 2-1, Dodgers' Ryan Brasier facing 6-7-8 
+;;;;;;;;;Ryan Brasier replaces Bobby Miller pitching
+t7;2-1;0;---;6,(2-2) .CBCF.BX;;DET;Tyler Nevin;Ryan Brasier;4%;73%;Single to 2B (Ground Ball to 2B-1B)
+t7;2-1;0;1--;1,(0-0) X;OO;DET;Akil Baddoo;Ryan Brasier;-8%;64%;Ground Ball Double Play: 3B-SS-1B (SS-3B Hole)
+t7;2-1;2;---;6,(1-2) CFBFFX;;DET;Parker Meadows;Ryan Brasier;1%;66%;Reached on E5 (throw) (Ground Ball); Meadows to 1B
+t7;2-1;2;1--;1,(0-0) >B;;DET;Carson Kelly;Ryan Brasier;1%;67%;Meadows Steals 2B
+t7;2-1;2;-2-;2,(1-0) >B.X;R;DET;Carson Kelly;Ryan Brasier;12%;79%;Single to LF (Line Drive to Deep LF-CF); Meadows Scores/unER
+t7;3-1;2;1--;2,(0-1) CX;O;DET;Matt Vierling;Ryan Brasier;-2%;77%;Popfly: 2B (Deep 2B)
+;;;;;;;;;1 run, 2 hits, 1 error, 1 LOB. Tigers 3, Dodgers 1.
+Bottom of the 7th, Dodgers Batting, Behind 1-3, Tigers' Miguel Díaz facing 5-6-7 
+;;;;;;;;;Miguel Díaz replaces Reese Olson pitching
+b7;1-3;0;---;7,(3-2) .FFBBFBS;O;LAD;David Peralta;Miguel Díaz;4%;81%;Strikeout Swinging
+b7;1-3;1;---;3,(1-1) CBX;O;LAD;Jason Heyward;Miguel Díaz;3%;84%;Flyball: 2B (Short CF-RF)
+b7;1-3;2;---;4,(1-2) BFCS;O;LAD;James Outman;Miguel Díaz;2%;86%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 3, Dodgers 1.
+Top of the 8th, Tigers Batting, Ahead 3-1, Dodgers' Evan Phillips facing 2-3-4 
+;;;;;;;;;Evan Phillips replaces Ryan Brasier pitching
+t8;3-1;0;---;2,(1-0) .BX;O;DET;Zach McKinstry;Evan Phillips;-1%;84%;Flyball: SS (Deep SS)
+t8;3-1;1;---;5,(1-2) BTCFX;O;DET;Spencer Torkelson;Evan Phillips;-1%;83%;Groundout: 3B-1B
+t8;3-1;2;---;2,(1-0) BX;;DET;Kerry Carpenter;Evan Phillips;1%;85%;Double to RF (Line Drive to Deep CF-RF)
+t8;3-1;2;-2-;3,(1-1) BFX;R;DET;Andy Ibáñez;Evan Phillips;7%;92%;Single to RF (Line Drive to Short RF Line); Carpenter Scores; Ibáñez to 3B/Adv on E9 (throw)
+;;;;;;;;;Zack Short pinch runs for Andy Ibáñez (2B) batting 5th
+t8;4-1;2;--3;4,(1-2) .C*BFX;O;DET;Tyler Nevin;Evan Phillips;-1%;91%;Lineout: SS
+;;;;;;;;;1 run, 2 hits, 1 error, 1 LOB. Tigers 4, Dodgers 1.
+Bottom of the 8th, Dodgers Batting, Behind 1-4, Tigers' Miguel Díaz facing 8-9-1 
+;;;;;;;;;Zach McKinstry moves from SS to 2B Zack Short moves from PR to SS 
+b8;1-4;0;---;7,(3-2) ..BSCBBFX;O;LAD;Miguel Rojas;Miguel Díaz;3%;94%;Groundout: 2B-1B (Deep 2B)
+b8;1-4;1;---;5,(3-1) BBFBB;;LAD;Austin Barnes;Miguel Díaz;-3%;90%;Walk
+;;;;;;;;;Will Vest replaces Miguel Díaz pitching
+b8;1-4;1;1--;1,(0-0) .X;;LAD;Mookie Betts;Will Vest;-10%;80%;Double to RF (Line Drive to Deep CF-RF); Barnes to 3B
+b8;1-4;1;-23;4,(2-1) B*BCX;RO;LAD;Freddie Freeman;Will Vest;6%;86%;Groundout: SS-1B; Barnes Scores; Betts to 3B
+b8;2-4;2;--3;2,(0-1) CX;O;LAD;Max Muncy;Will Vest;6%;92%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Tigers 4, Dodgers 2.
+Top of the 9th, Tigers Batting, Ahead 4-2, Dodgers' Brusdar Graterol facing 7-8-9 
+;;;;;;;;;Brusdar Graterol replaces Evan Phillips pitching
+t9;4-2;0;---;3,(0-2) .CFX;O;DET;Akil Baddoo;Brusdar Graterol;-1%;91%;Groundout: 1B-P
+t9;4-2;1;---;6,(2-2) FF.BBFC;O;DET;Parker Meadows;Brusdar Graterol;-1%;91%;Strikeout Looking
+t9;4-2;2;---;2,(1-0) BX;O;DET;Carson Kelly;Brusdar Graterol;0%;90%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Tigers 4, Dodgers 2.
+Bottom of the 9th, Dodgers Batting, Behind 2-4, Tigers' Will Vest facing 4-5-6 
+b9;2-4;0;---;4,(2-1) FBBX;O;LAD;J.D. Martinez;Will Vest;5%;95%;Flyball: RF (Deep RF Line)
+b9;2-4;1;---;5,(2-2) BSFBC;O;LAD;David Peralta;Will Vest;3%;98%;Strikeout Looking
+b9;2-4;2;---;3,(1-1) BCX;;LAD;Jason Heyward;Will Vest;-3%;95%;Reached on E4 (Ground Ball to 2B-1B); Heyward to 1B
+b9;2-4;2;1--;4,(1-2) BCCS;O;LAD;James Outman;Will Vest;5%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Tigers 4, Dodgers 2.
