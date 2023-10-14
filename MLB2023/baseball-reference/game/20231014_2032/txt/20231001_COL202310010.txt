@@ -1,0 +1,293 @@
+
+Scorebox Meta
+20231001
+1:10 p.m. Local
+33375
+Coors Field
+187
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;0;2;0;0;0;0;0;0;0;0;0;2;9;1
+https://cdn.ssref.net/req/202310031/tlogo/br/COL-2023.png;/teams/COL/2023.shtml;0;0;0;1;0;0;0;1;0;0;1;3;4;1
+
+Batting home
+Charlie Blackmon;/players/b/blackch02.shtml;RF;5;0;0;0;0;0;5;.279;.363;.440;.803;8;8;-0.284; 1.77;0.000;-0.284;0%; 0.00; -1.7;0;0;
+Brendan Rodgers;/players/r/rodgebr02.shtml;2B;4;0;0;0;0;3;4;.258;.313;.388;.700;22;14;-0.158; 1.44;0.000;-0.158;0%; 0.00; -1.0;1;3;
+Nolan Jones;/players/j/jonesno01.shtml;LF;3;1;1;1;1;2;4;.297;.389;.542;.931;24;14;0.121; 1.37;0.183;-0.063;0%; 0.00; 0.8;0;1;HR,SB
+Kris Bryant;/players/b/bryankr01.shtml;DH;3;0;0;0;1;2;4;.233;.313;.367;.680;17;9;-0.075; 1.73;0.005;-0.080;0%; 0.00; -0.5;;;
+Ryan McMahon;/players/m/mcmahry01.shtml;3B;4;0;0;0;0;2;4;.240;.322;.431;.753;12;8;-0.202; 1.88;0.000;-0.202;0%; 0.00; -1.1;1;3;
+Elehuris Montero;/players/m/monteel01.shtml;1B;4;0;0;0;0;3;4;.243;.290;.426;.716;21;13;-0.219; 1.60;0.000;-0.219;0%; 0.00; -1.1;13;1;
+Ezequiel Tovar;/players/t/tovarez01.shtml;SS;4;0;0;0;0;2;4;.253;.287;.408;.695;18;13;-0.193; 1.71;0.000;-0.193;0%; 0.00; -1.0;0;3;
+Austin Wynns;/players/w/wynnsau01.shtml;C;2;0;0;0;0;1;2;.208;.268;.277;.545;14;10;-0.062; 1.16;0.000;-0.062;0%; 0.00; -0.5;12;1;
+Sean Bouchard;/players/b/bouchse01.shtml;PH;1;1;1;1;0;0;1;.316;.372;.684;1.056;6;3;0.309; 1.34;0.309;0.000;0%; 0.00; 1.0;;;HR
+Elias Díaz;/players/d/diazel01.shtml;C;1;0;1;0;0;0;1;.267;.316;.409;.725;3;1;0.032; 3.93;0.032;0.000;0%; 0.00; 0.2;3;0;
+Brenton Doyle;/players/d/doylebr02.shtml;CF;4;1;1;0;0;2;4;.203;.250;.343;.593;14;11;0.166; 2.20;0.357;-0.191;0%; 0.00; 0.2;2;0;SB
+Brent Suter;/players/s/suterbr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Connor Seabold;/players/s/seaboco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Nick Mears;/players/m/mearsni01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jake Bird;/players/b/birdja01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Justin Lawrence;/players/l/lawreju01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tyler Kinley;/players/k/kinlety01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Matt Koch;/players/k/kochma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Gavin Hollowell;/players/h/holloga01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HR: Nolan Jones (20, off Bailey Ober, 4th inn, 0 on, 2 outs to Deep CF); Sean Bouchard (4, off Jorge Alcala, 8th inn, 0 on, 2 outs to Deep LF).
+
+
+TB: Sean Bouchard 4; Nolan Jones 4; Brenton Doyle; Elias Díaz.
+
+
+RBI: Nolan Jones (62); Sean Bouchard (7).
+
+
+2-out RBI: Nolan Jones; Sean Bouchard.
+
+
+Team LOB: 5.
+With RISP: 1 for 8.
+
+Batting away
+Donovan Solano;/players/s/solando01.shtml;3B;5;0;2;0;0;1;6;.282;.369;.391;.760;22;16;0.033; 2.05;0.119;-0.086;0%; 0.00; -0.3;0;3;HBP
+Jordan Luplow;/players/l/luplojo01.shtml;LF-RF-P;5;0;0;0;1;3;6;.208;.322;.325;.647;27;22;-0.384; 2.20;0.027;-0.411;0%; 0.00; -2.2;0;0;
+Kyle Farmer;/players/f/farmeky01.shtml;SS;4;0;0;0;1;1;5;.253;.314;.405;.719;17;10;-0.090; 1.00;0.023;-0.113;0%; 0.00; -0.5;0;0;
+Max Kepler;/players/k/keplema01.shtml;DH;2;1;1;0;0;0;2;.260;.332;.484;.816;10;7;0.026; 0.66;0.036;-0.010;0%; 0.00; 0.3;;;
+Trevor Larnach;/players/l/larnatr01.shtml;PH-DH-DH-RF;3;0;0;0;0;3;3;.213;.311;.415;.727;18;12;-0.188; 2.32;0.000;-0.188;0%; 0.00; -1.2;1;0;
+Ryan Jeffers;/players/j/jeffery01.shtml;C;5;1;2;0;0;2;5;.276;.369;.490;.858;21;15;-0.091; 1.49;0.054;-0.145;0%; 0.00; -0.5;17;0;
+Edouard Julien;/players/j/julieed01.shtml;2B-1B;4;0;1;1;1;1;5;.263;.381;.459;.839;25;14;-0.080; 1.71;0.099;-0.179;0%; 0.00; 0.3;1;3;
+Willi Castro;/players/c/castrwi01.shtml;CF-LF;3;0;1;0;2;1;5;.257;.339;.411;.750;20;9;-0.018; 1.49;0.048;-0.065;0%; 0.00; -0.3;3;0;
+Alex Kirilloff;/players/k/kirilal01.shtml;1B;3;0;2;1;0;0;3;.270;.348;.445;.793;6;4;0.053; 1.45;0.105;-0.052;0%; 0.00; 0.8;4;0;
+Christian Vázquez;/players/v/vazquch01.shtml;1B-2B;1;0;0;0;1;1;2;.223;.280;.318;.598;10;4;-0.002; 3.54;0.028;-0.030;0%; 0.00; -0.0;2;0;
+Matt Wallner;/players/w/wallnma01.shtml;RF;2;0;0;0;0;2;2;.249;.370;.507;.877;11;7;-0.080; 1.49;0.000;-0.080;0%; 0.00; -1.1;2;0;
+Andrew Stevenson;/players/s/stevean01.shtml;CF;3;0;0;0;0;0;3;.189;.250;.216;.466;8;7;-0.245; 3.28;0.000;-0.245;0%; 0.00; -1.2;1;0;
+Bailey Ober;/players/o/oberba01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Brock Stewart;/players/s/stewabr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jorge Alcala;/players/a/alcaljo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kody Funderburk;/players/f/fundeko01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+HBP: Donovan Solano (15, by Gavin Hollowell).
+
+
+TB: Alex Kirilloff 2; Ryan Jeffers 2; Donovan Solano 2; Edouard Julien; Max Kepler; Willi Castro.
+
+
+RBI: Alex Kirilloff (41); Edouard Julien (37).
+
+
+Team LOB: 14.
+With RISP: 2 for 14.
+
+Pitching home
+Brent Suter;/players/s/suterbr01.shtml;Brent Suter; 1 ;0;0;0;0;1;0;3.38;3;10;8;2;2;4;2;0;0;0;54;;;0.052; 0.65; 0.00%; 0.00; 0.6
+Connor Seabold;/players/s/seaboco01.shtml;Connor Seabold; 4 ;6;2;2;1;5;0;7.52;18;75;50;30;10;10;9;3;2;0;;0;0;0.014; 1.02; 0.00%; 0.00; 0.4
+Nick Mears;/players/m/mearsni01.shtml;Nick Mears; 1 ;0;0;0;2;2;0;3.72;5;21;9;4;1;4;1;0;0;0;;0;0;0.064; 1.05; 0.00%; 0.00; 0.6
+Jake Bird;/players/b/birdja01.shtml;Jake Bird; 1 ;1;0;0;1;2;0;4.33;5;22;14;8;0;6;1;1;1;0;;0;0;0.066; 1.26; 0.00%; 0.00; 0.6
+Justin Lawrence;/players/l/lawreju01.shtml;Justin Lawrence; 1 ;1;0;0;1;2;0;3.72;4;17;10;4;2;4;0;1;1;0;;0;0;0.064; 0.84; 0.00%; 0.00; 0.6
+Tyler Kinley;/players/k/kinlety01.shtml;Tyler Kinley; 1 ;1;0;0;0;1;0;6.06;4;12;11;6;2;3;1;2;0;0;;0;0;0.157; 2.50; 0.00%; 0.00; 0.6
+Matt Koch;/players/k/kochma01.shtml;Matt Koch; 1 ;0;0;0;0;1;0;5.12;3;16;10;6;1;3;1;1;0;0;;0;0;0.325; 4.06; 0.00%; 0.00; 1.2
+Gavin Hollowell;/players/h/holloga01.shtml; W (2-0); 1 ;0;0;0;1;1;0;5.88;5;22;15;7;5;3;2;0;0;0;;0;0;0.325; 6.02; 0.00%; 0.00; 1.2
+
+Pitching away
+Bailey Ober;/players/o/oberba01.shtml;Bailey Ober; 6.2;2;1;1;0;9;1;3.43;22;96;66;37;20;9;7;6;0;0;75;;;0.393; 1.04; 0.00%; 0.00; 3.1
+Brock Stewart;/players/s/stewabr01.shtml; H (8); 0.1;0;0;0;0;1;0;0.65;1;5;3;0;1;2;0;0;0;0;;0;0;0.027; 0.98; 0.00%; 0.00; 0.1
+Jorge Alcala;/players/a/alcaljo01.shtml; BS (1); 2 ;1;1;1;2;4;1;6.23;9;39;21;10;5;6;1;2;0;0;;0;0;-0.003; 2.37; 0.00%; 0.00; 0.2
+Kody Funderburk;/players/f/fundeko01.shtml;Kody Funderburk; 1 ;1;0;0;0;3;0;0.75;4;16;12;5;5;2;1;0;0;0;;0;0;0.325; 3.65; 0.00%; 0.00; 1.2
+Jordan Luplow;/players/l/luplojo01.shtml; L (0-1); 0.1;0;1;0;0;0;0;13.50;1;3;2;1;0;1;0;1;0;0;;0;0;-0.175; 2.79; 0.00%; 0.00; -0.1
+
+indiv_events
+
+Balks: None.
+WP: Jordan Luplow (1).
+HBP: Gavin Hollowell (6; Donovan Solano).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Jordan Luplow (1).
+HBP: Gavin Hollowell (6; Donovan Solano).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - David Rackley, 1B - Larry Vanover, 2B - Edwin Moscoso, 3B - Chris Guccione, LF - (none), RF - (none).
+Time of Game: 3:07.
+Attendance: 33,375.
+Field Condition: Unknown.
+Start Time Weather: 79° F, Wind 9mph out to Rightfield, Cloudy, No Precipitation.
+
+div_lineups
+Twins
+1;Donovan Solano;/players/s/solando01.shtml;3B
+2;Jordan Luplow;/players/l/luplojo01.shtml;LF
+3;Kyle Farmer;/players/f/farmeky01.shtml;SS
+4;Max Kepler;/players/k/keplema01.shtml;DH
+5;Ryan Jeffers;/players/j/jeffery01.shtml;C
+6;Edouard Julien;/players/j/julieed01.shtml;2B
+7;Willi Castro;/players/c/castrwi01.shtml;CF
+8;Alex Kirilloff;/players/k/kirilal01.shtml;1B
+9;Matt Wallner;/players/w/wallnma01.shtml;RF
+; Bailey Ober;/players/o/oberba01.shtml;P
+Rockies
+1;Charlie Blackmon;/players/b/blackch02.shtml;RF
+2;Brendan Rodgers;/players/r/rodgebr02.shtml;2B
+3;Nolan Jones;/players/j/jonesno01.shtml;LF
+4;Kris Bryant;/players/b/bryankr01.shtml;DH
+5;Ryan McMahon;/players/m/mcmahry01.shtml;3B
+6;Elehuris Montero;/players/m/monteel01.shtml;1B
+7;Ezequiel Tovar;/players/t/tovarez01.shtml;SS
+8;Austin Wynns;/players/w/wynnsau01.shtml;C
+9;Brenton Doyle;/players/d/doylebr02.shtml;CF
+; Brent Suter;/players/s/suterbr01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b8;1-2;2;---;6,(3-2) .BBCBCX;R;COL;Sean Bouchard;Jorge Alcala;31%;53%;Home Run (Fly Ball to Deep LF)
+b11;2-2;1;-2-;1,(0-0) >B;R;COL;Brendan Rodgers;Jordan Luplow;29%;100%;Doyle Steals 3B; Doyle Scores/Wild Pitch/No RBI/unER
+t11;2-2;2;123;5,(0-2) SSFFS;O;MIN;Jordan Luplow;Gavin Hollowell;21%;82%;Strikeout Swinging
+t11;2-2;1;1-3;3,(0-2) CS.X;O;MIN;Andrew Stevenson;Gavin Hollowell;15%;64%;Groundout: 3B-1B (P's Right); Vázquez to 2B
+b10;2-2;2;1-3;4,(0-2) SSF*S;O;COL;Brenton Doyle;Kody Funderburk;-15%;50%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Twins Batting, Tied 0-0, Rockies' Brent Suter facing 1-2-3 
+t1;0-0;0;---;5,(2-2) CBCBX;O;MIN;Donovan Solano;Brent Suter;2%;52%;Groundout: P-1B
+t1;0-0;1;---;3,(0-2) CS.S;O;MIN;Jordan Luplow;Brent Suter;2%;54%;Strikeout Swinging
+t1;0-0;2;---;2,(0-1) CX;O;MIN;Kyle Farmer;Brent Suter;1%;55%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 0, Rockies 0.
+Bottom of the 1st, Rockies Batting, Tied 0-0, Twins' Bailey Ober facing 1-2-3 
+b1;0-0;0;---;1,(0-0) X;O;COL;Charlie Blackmon;Bailey Ober;-2%;53%;Flyball: CF (LF-CF)
+b1;0-0;1;---;6,(3-2) CBFBB.S;O;COL;Brendan Rodgers;Bailey Ober;-2%;51%;Strikeout Swinging
+b1;0-0;2;---;6,(2-2) FFBB.FC;O;COL;Nolan Jones;Bailey Ober;-1%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 0, Rockies 0.
+Top of the 2nd, Twins Batting, Tied 0-0, Rockies' Connor Seabold facing 4-5-6 
+;;;;;;;;;Connor Seabold replaces Brent Suter pitching
+t2;0-0;0;---;2,(0-1) .CX;;MIN;Max Kepler;Connor Seabold;-4%;46%;Single to 3B (Ground Ball to Weak 3B)
+t2;0-0;0;1--;5,(1-2) CFBFX;;MIN;Ryan Jeffers;Connor Seabold;-5%;41%;Single to RF (Ground Ball thru 2B-1B); Kepler to 2B
+t2;0-0;0;12-;6,(3-2) CSBBB.X;R;MIN;Edouard Julien;Connor Seabold;-8%;33%;Single to LF (Ground Ball); Kepler Scores; Jeffers to 2B
+t2;1-0;0;12-;4,(1-2) SBFT;O;MIN;Willi Castro;Connor Seabold;5%;37%;Strikeout Swinging
+t2;1-0;1;12-;1,(0-0) X;R;MIN;Alex Kirilloff;Connor Seabold;-8%;29%;Single to LF (Line Drive to Deep LF-CF); Jeffers Scores; Julien to 2B
+t2;2-0;1;12-;6,(2-2) CBFBFS;O;MIN;Matt Wallner;Connor Seabold;4%;33%;Strikeout Swinging
+t2;2-0;2;12-;6,(2-2) CBBFFS;O;MIN;Donovan Solano;Connor Seabold;4%;36%;Strikeout Swinging
+;;;;;;;;;2 runs, 4 hits, 0 errors, 2 LOB. Twins 2, Rockies 0.
+Bottom of the 2nd, Rockies Batting, Behind 0-2, Twins' Bailey Ober facing 4-5-6 
+b2;0-2;0;---;4,(0-2) SS.FS;O;COL;Kris Bryant;Bailey Ober;-3%;34%;Strikeout Swinging
+b2;0-2;1;---;2,(1-0) BX;O;COL;Ryan McMahon;Bailey Ober;-2%;32%;Groundout: 2B-1B (2B-1B)
+b2;0-2;2;---;6,(3-2) CBF.BBX;O;COL;Elehuris Montero;Bailey Ober;-1%;31%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 2, Rockies 0.
+Top of the 3rd, Twins Batting, Ahead 2-0, Rockies' Connor Seabold facing 2-3-4 
+t3;2-0;0;---;4,(1-2) FBFX;O;MIN;Jordan Luplow;Connor Seabold;2%;33%;Groundout: 3B-1B (SS-3B Hole)
+t3;2-0;1;---;1,(0-0) X;O;MIN;Kyle Farmer;Connor Seabold;1%;34%;Groundout: SS-1B (SS-2B)
+t3;2-0;2;---;8,(3-2) CBFFBFBX;O;MIN;Max Kepler;Connor Seabold;1%;35%;Foul Popfly: 3B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 2, Rockies 0.
+Bottom of the 3rd, Rockies Batting, Behind 0-2, Twins' Bailey Ober facing 7-8-9 
+b3;0-2;0;---;5,(2-2) BSBFX;O;COL;Ezequiel Tovar;Bailey Ober;-3%;32%;Flyball: CF
+b3;0-2;1;---;5,(1-2) SS.BFS;O;COL;Austin Wynns;Bailey Ober;-2%;30%;Strikeout Swinging
+b3;0-2;2;---;5,(2-2) SBT.BX;O;COL;Brenton Doyle;Bailey Ober;-1%;29%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 2, Rockies 0.
+Top of the 4th, Twins Batting, Ahead 2-0, Rockies' Connor Seabold facing 5-6-7 
+t4;2-0;0;---;4,(1-2) CFBS;O;MIN;Ryan Jeffers;Connor Seabold;2%;31%;Strikeout Swinging
+t4;2-0;1;---;5,(2-2) BCSBX;O;MIN;Edouard Julien;Connor Seabold;2%;33%;Groundout: 1B unassisted
+t4;2-0;2;---;1,(0-0) X;;MIN;Willi Castro;Connor Seabold;-1%;31%;Single to C (Bunt)
+t4;2-0;2;1--;3,(1-1) B+1SX;;MIN;Alex Kirilloff;Connor Seabold;-2%;29%;Single to RF (Line Drive); Castro to 3B/Adv on E9
+t4;2-0;2;1-3;5,(2-2) CBF.BS;O;MIN;Matt Wallner;Connor Seabold;4%;34%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 1 error, 2 LOB. Twins 2, Rockies 0.
+Bottom of the 4th, Rockies Batting, Behind 0-2, Twins' Bailey Ober facing 1-2-3 
+b4;0-2;0;---;2,(0-1) CX;O;COL;Charlie Blackmon;Bailey Ober;-3%;30%;Groundout: 1B unassisted
+b4;0-2;1;---;9,(3-2) BFBCBFFFS;O;COL;Brendan Rodgers;Bailey Ober;-2%;28%;Strikeout Swinging
+b4;0-2;2;---;6,(1-2) CBSFFX;R;COL;Nolan Jones;Bailey Ober;11%;39%;Home Run (Fly Ball to Deep CF)
+b4;1-2;2;---;2,(1-0) BX;O;COL;Kris Bryant;Bailey Ober;-2%;38%;Flyball: RF (Deep RF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Twins 2, Rockies 1.
+Top of the 5th, Twins Batting, Ahead 2-1, Rockies' Connor Seabold facing 1-2-3 
+t5;2-1;0;---;3,(0-2) FSX;O;MIN;Donovan Solano;Connor Seabold;3%;40%;Groundout: 2B-1B
+t5;2-1;1;---;6,(3-2) BBSFBB;;MIN;Jordan Luplow;Connor Seabold;-3%;37%;Walk
+t5;2-1;1;1--;4,(1-2) BCF*B;O;MIN;Kyle Farmer;Connor Seabold;5%;42%;Baserunner Out Advancing; Luplow out at 2B/C-2B-1B
+t5;2-1;2;---;5,(2-2) BCF*B.X;O;MIN;Kyle Farmer;Connor Seabold;1%;44%;Groundout: P-1B (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 2, Rockies 1.
+Bottom of the 5th, Rockies Batting, Behind 1-2, Twins' Bailey Ober facing 5-6-7 
+b5;1-2;0;---;4,(1-2) FF.BS;O;COL;Ryan McMahon;Bailey Ober;-4%;40%;Strikeout Swinging
+b5;1-2;1;---;4,(0-2) TS.FS;O;COL;Elehuris Montero;Bailey Ober;-3%;37%;Strikeout Swinging
+b5;1-2;2;---;2,(0-1) CX;O;COL;Ezequiel Tovar;Bailey Ober;-2%;36%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 2, Rockies 1.
+Top of the 6th, Twins Batting, Ahead 2-1, Rockies' Nick Mears facing 4-5-6 
+;;;;;;;;;Nick Mears replaces Connor Seabold pitchingTrevor Larnach pinch hits for Max Kepler (DH) batting 4th
+t6;2-1;0;---;6,(2-2) ..CF.FBB*S;O;MIN;Trevor Larnach;Nick Mears;3%;38%;Strikeout Swinging
+t6;2-1;1;---;4,(1-2) CBF.C;O;MIN;Ryan Jeffers;Nick Mears;2%;41%;Strikeout Looking
+t6;2-1;2;---;5,(3-1) BBCBB;;MIN;Edouard Julien;Nick Mears;-1%;39%;Walk
+t6;2-1;2;1--;4,(3-0) BBBB;;MIN;Willi Castro;Nick Mears;-2%;37%;Walk; Julien to 2B
+t6;2-1;2;12-;2,(1-0) BX;O;MIN;Alex Kirilloff;Nick Mears;5%;42%;Groundout: 2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Twins 2, Rockies 1.
+Bottom of the 6th, Rockies Batting, Behind 1-2, Twins' Bailey Ober facing 8-9-1 
+;;;;;;;;;Christian Vázquez replaces Alex Kirilloff playing 1B batting 8thWilli Castro moves from CF to LF Andrew Stevenson replaces Matt Wallner (RF) playing CF batting 9thJordan Luplow moves from LF to RF 
+b6;1-2;0;---;9,(3-2) .....CS.FBBFBFX;O;COL;Austin Wynns;Bailey Ober;-4%;38%;Groundout: 2B-1B (2B-1B)
+b6;1-2;1;---;1,(0-0) X;;COL;Brenton Doyle;Bailey Ober;7%;45%;Single to 3B (Bunt to Short 3B Line); Doyle to 2B/Adv on E5 (throw)
+b6;1-2;1;-2-;1,(0-0) X;O;COL;Charlie Blackmon;Bailey Ober;-5%;39%;Groundout: 2B-1B; Doyle to 3B
+b6;1-2;2;--3;3,(1-1) BSX;O;COL;Brendan Rodgers;Bailey Ober;-7%;33%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 1 hit, 1 error, 1 LOB. Twins 2, Rockies 1.
+Top of the 7th, Twins Batting, Ahead 2-1, Rockies' Jake Bird facing 9-1-2 
+;;;;;;;;;Jake Bird replaces Nick Mears pitching
+t7;2-1;0;---;3,(1-1) .CBX;O;MIN;Andrew Stevenson;Jake Bird;3%;36%;Groundout: 1B unassisted
+t7;2-1;1;---;2,(1-0) BX;;MIN;Donovan Solano;Jake Bird;-3%;33%;Single to RF (Line Drive to Short RF)
+t7;2-1;1;1--;5,(0-2) CCFFC;O;MIN;Jordan Luplow;Jake Bird;4%;36%;Strikeout Looking
+t7;2-1;2;1--;5,(3-1) CBBBB;;MIN;Kyle Farmer;Jake Bird;-2%;34%;Walk; Solano to 2B
+t7;2-1;2;12-;7,(2-2) BFT.BFFC;O;MIN;Trevor Larnach;Jake Bird;5%;39%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Twins 2, Rockies 1.
+Bottom of the 7th, Rockies Batting, Behind 1-2, Twins' Bailey Ober facing 3-4-5 
+b7;1-2;0;---;7,(3-2) BC.SBBFS;O;COL;Nolan Jones;Bailey Ober;-5%;34%;Strikeout Swinging
+b7;1-2;1;---;6,(3-2) BBSFBS;O;COL;Kris Bryant;Bailey Ober;-4%;30%;Strikeout Swinging
+;;;;;;;;;Brock Stewart replaces Bailey Ober pitching
+b7;1-2;2;---;5,(2-2) .BBCCS;O;COL;Ryan McMahon;Brock Stewart;-3%;28%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Twins 2, Rockies 1.
+Top of the 8th, Twins Batting, Ahead 2-1, Rockies' Justin Lawrence facing 5-6-7 
+;;;;;;;;;Justin Lawrence replaces Jake Bird pitching
+t8;2-1;0;---;2,(1-0) .BX;O;MIN;Ryan Jeffers;Justin Lawrence;3%;30%;Single to LF (Line Drive to Deep LF Line); Jeffers out at 2B/LF-2B
+t8;2-1;1;---;4,(0-2) CCFS;O;MIN;Edouard Julien;Justin Lawrence;2%;32%;Strikeout Swinging
+t8;2-1;2;---;6,(3-2) FBCBBB;;MIN;Willi Castro;Justin Lawrence;-1%;31%;Walk
+t8;2-1;2;1--;5,(2-2) BCFBS;O;MIN;Christian Vázquez;Justin Lawrence;3%;34%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 2, Rockies 1.
+Bottom of the 8th, Rockies Batting, Behind 1-2, Twins' Jorge Alcala facing 6-7-8 
+;;;;;;;;;Jorge Alcala replaces Brock Stewart pitching
+b8;1-2;0;---;6,(3-2) .BFBBS.T;O;COL;Elehuris Montero;Jorge Alcala;-7%;27%;Strikeout Swinging
+b8;1-2;1;---;7,(3-2) CBBBSFS;O;COL;Ezequiel Tovar;Jorge Alcala;-5%;22%;Strikeout Swinging
+;;;;;;;;;Sean Bouchard pinch hits for Austin Wynns (C) batting 8th
+b8;1-2;2;---;6,(3-2) .BBCBCX;R;COL;Sean Bouchard;Jorge Alcala;31%;53%;Home Run (Fly Ball to Deep LF)
+b8;2-2;2;---;4,(1-2) BFFS;O;COL;Brenton Doyle;Jorge Alcala;-3%;50%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Twins 2, Rockies 2.
+Top of the 9th, Twins Batting, Tied 2-2, Rockies' Tyler Kinley facing 9-1-2 
+;;;;;;;;;Tyler Kinley replaces Justin Lawrence pitchingElias Díaz replaces Sean Bouchard (PH) playing C batting 8th
+t9;2-2;0;---;2,(0-1) ..CX;O;MIN;Andrew Stevenson;Tyler Kinley;7%;57%;Groundout: 1B-P
+t9;2-2;1;---;2,(0-1) CX;;MIN;Donovan Solano;Tyler Kinley;-6%;50%;Single to RF (Fly Ball to RF Line)
+t9;2-2;1;1--;4,(0-2) FCFX;O;MIN;Jordan Luplow;Tyler Kinley;8%;58%;Flyball: CF (Deep CF-RF)
+t9;2-2;2;1--;4,(1-2) FBSS;O;MIN;Kyle Farmer;Tyler Kinley;7%;66%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Twins 2, Rockies 2.
+Bottom of the 9th, Rockies Batting, Tied 2-2, Twins' Jorge Alcala facing 1-2-3 
+;;;;;;;;;Edouard Julien moves from 2B to 1B Christian Vázquez moves from 1B to 2B 
+b9;2-2;0;---;2,(0-1) ..CX;O;COL;Charlie Blackmon;Jorge Alcala;-6%;59%;Flyball: LF (Deep LF)
+b9;2-2;1;---;3,(0-2) CFS;O;COL;Brendan Rodgers;Jorge Alcala;-5%;54%;Strikeout Swinging
+b9;2-2;2;---;5,(3-1) BBBC.B;;COL;Nolan Jones;Jorge Alcala;3%;57%;Walk
+b9;2-2;2;1--;4,(2-1) B1>FB>B;;COL;Kris Bryant;Jorge Alcala;4%;62%;Jones Steals 2B
+b9;2-2;2;-2-;5,(3-1) B1>FB>B.B;;COL;Kris Bryant;Jorge Alcala;0%;62%;Walk
+b9;2-2;2;12-;1,(0-0) X;O;COL;Ryan McMahon;Jorge Alcala;-12%;50%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Twins 2, Rockies 2.
+Top of the 10th, Twins Batting, Tied 2-2, Rockies' Matt Koch facing 4-5-6 
+;;;;;;;;;Matt Koch replaces Tyler Kinley pitchingKyle Farmer running at second base to start the extra inning
+t10;2-2;0;-2-;5,(2-2) ..BBCSC;O;MIN;Trevor Larnach;Matt Koch;11%;61%;Strikeout Looking
+t10;2-2;1;-2-;6,(2-2) TBBF.FX;O;MIN;Ryan Jeffers;Matt Koch;8%;68%;Groundout: 3B-1B; Farmer to 3B
+t10;2-2;2;--3;5,(2-2) CB*BFX;O;MIN;Edouard Julien;Matt Koch;14%;82%;Flyball: CF (LF-CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Twins 2, Rockies 2.
+Bottom of the 10th, Rockies Batting, Tied 2-2, Twins' Kody Funderburk facing 6-7-8 
+;;;;;;;;;Kody Funderburk replaces Jorge Alcala pitchingRyan McMahon running at second base to start the extra inning
+b10;2-2;0;-2-;5,(2-2) ..TBFBS;O;COL;Elehuris Montero;Kody Funderburk;-11%;71%;Strikeout Swinging
+b10;2-2;1;-2-;4,(0-2) CSFC;O;COL;Ezequiel Tovar;Kody Funderburk;-10%;62%;Strikeout Looking
+b10;2-2;2;-2-;3,(2-0) BBX;;COL;Elias Díaz;Kody Funderburk;3%;65%;Single to SS (Ground Ball to SS-2B); McMahon to 3B
+b10;2-2;2;1-3;4,(0-2) SSF*S;O;COL;Brenton Doyle;Kody Funderburk;-15%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Twins 2, Rockies 2.
+Top of the 11th, Twins Batting, Tied 2-2, Rockies' Gavin Hollowell facing 7-8-9 
+;;;;;;;;;Gavin Hollowell replaces Matt Koch pitchingEdouard Julien running at second base to start the extra inning
+t11;2-2;0;-2-;5,(2-2) ..BCC.BX;O;MIN;Willi Castro;Gavin Hollowell;2%;52%;Groundout: SS-1B; Julien to 3B
+t11;2-2;1;--3;5,(3-1) BFBBB;;MIN;Christian Vázquez;Gavin Hollowell;-3%;49%;Walk
+t11;2-2;1;1-3;3,(0-2) CS.X;O;MIN;Andrew Stevenson;Gavin Hollowell;15%;64%;Groundout: 3B-1B (P's Right); Vázquez to 2B
+t11;2-2;2;-23;4,(0-2) SFFH;;MIN;Donovan Solano;Gavin Hollowell;-3%;61%;Hit By Pitch
+t11;2-2;2;123;5,(0-2) SSFFS;O;MIN;Jordan Luplow;Gavin Hollowell;21%;82%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 3 LOB. Twins 2, Rockies 2.
+Bottom of the 11th, Rockies Batting, Tied 2-2, Twins' Jordan Luplow facing 1-2-3 
+;;;;;;;;;Jordan Luplow moves from RF to P Trevor Larnach moves from DH to RF (team loses DH)Brenton Doyle running at second base to start the extra inning
+b11;2-2;0;-2-;2,(0-1) ...CX;O;COL;Charlie Blackmon;Jordan Luplow;-11%;71%;Flyball: RF (Short RF)
+b11;2-2;1;-2-;1,(0-0) >B;R;COL;Brendan Rodgers;Jordan Luplow;29%;100%;Doyle Steals 3B; Doyle Scores/Wild Pitch/No RBI/unER
+;;;;;;;;;1 run, 0 hits, 0 errors, 0 LOB. Twins 2, Rockies 3.
