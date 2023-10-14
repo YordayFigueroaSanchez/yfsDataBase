@@ -1,0 +1,278 @@
+
+Scorebox Meta
+20231001
+12:07 p.m. Local
+26539
+Angel Stadium of Anaheim
+152
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/OAK-2023.png;/teams/OAK/2023.shtml;0;0;0;0;0;0;1;1;1;3;10;1
+https://cdn.ssref.net/req/202310031/tlogo/br/LAA-2023.png;/teams/LAA/2023.shtml;1;0;1;1;3;1;0;0;X;7;10;1
+
+Batting home
+Randal Grichuk;/players/g/grichra01.shtml;LF;5;1;1;1;0;1;5;.267;.321;.459;.779;17;13;0.067; 0.36;0.103;-0.036;0%; 0.00; -0.3;2;0;HR
+Zach Neto;/players/n/netoza01.shtml;SS;4;1;2;0;0;1;5;.225;.308;.377;.685;17;13;-0.011; 0.26;0.013;-0.024;0%; 0.00; 0.8;3;4;2B,HBP
+Brandon Drury;/players/d/drurybr01.shtml;1B;4;3;3;3;0;0;5;.262;.306;.497;.803;23;13;0.214; 0.32;0.216;-0.002;0%; 0.00; 2.7;8;2;2·HR,2B,HBP,GDP
+Logan O'Hoppe;/players/o/ohopplo01.shtml;C;1;1;0;0;4;0;5;.236;.296;.500;.796;25;9;0.013; 0.24;0.023;-0.010;0%; 0.00; 1.0;7;0;
+Jo Adell;/players/a/adelljo01.shtml;RF;5;0;1;0;0;3;5;.207;.258;.448;.706;18;14;0.050; 0.47;0.078;-0.028;0%; 0.00; -0.1;2;0;SB
+Eduardo Escobar;/players/e/escobed01.shtml;DH;4;0;2;1;0;2;4;.226;.269;.344;.613;13;9;-0.018; 0.35;0.019;-0.037;0%; 0.00; 0.5;;;
+Michael Stefanic;/players/s/stefami01.shtml;3B;4;0;1;0;0;1;4;.290;.380;.355;.735;11;7;-0.048; 0.30;0.002;-0.049;0%; 0.00; -0.6;1;2;
+David Fletcher;/players/f/fletcda02.shtml;2B;2;1;0;0;2;0;4;.247;.302;.326;.628;8;4;-0.010; 0.43;0.013;-0.023;0%; 0.00; 0.5;2;5;IW
+Brett Phillips;/players/p/phillbr02.shtml;CF;4;0;0;0;0;2;4;.175;.268;.333;.601;18;11;-0.052; 0.51;0.000;-0.052;0%; 0.00; -1.8;1;0;
+Carson Fulmer;/players/f/fulmeca01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;1;
+José Suarez;/players/s/suarejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jimmy Herget;/players/h/hergeji01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Brandon Drury (30, off JP Sears); Zach Neto (17, off Mason Miller).
+
+
+HR: Brandon Drury 2 (26, 1 off Kyle Muller, 5th inn, 1 on, 1 out to Deep RF, 1 off JP Sears, 1st inn, 0 on, 2 outs to Deep LF); Randal Grichuk (16, off JP Sears, 3rd inn, 0 on, 2 outs to Deep LF).
+
+
+IBB: David Fletcher (1, by JP Sears).
+
+
+HBP: Brandon Drury (8, by Mason Miller); Zach Neto (16, by Zach Neal).
+
+
+TB: Brandon Drury 10; Randal Grichuk 4; Zach Neto 3; Eduardo Escobar 2; Jo Adell; Michael Stefanic.
+
+
+GIDP: Brandon Drury (14).
+
+
+RBI: Brandon Drury 3 (83); Eduardo Escobar (31); Randal Grichuk (44).
+
+
+2-out RBI: Brandon Drury; Eduardo Escobar; Randal Grichuk.
+
+
+Team LOB: 10.
+With RISP: 2 for 9.
+
+Batting away
+Esteury Ruiz;/players/r/ruizes01.shtml;RF;4;0;1;1;1;0;5;.254;.309;.345;.654;17;12;-0.058; 0.84;0.053;-0.111;0%; 0.00; -0.3;1;0;SB
+Zack Gelof;/players/g/gelofza01.shtml;2B;5;0;0;0;0;2;5;.267;.337;.504;.840;13;12;-0.075; 0.55;0.000;-0.075;0%; 0.00; -1.4;1;2;
+Ryan Noda;/players/n/nodary01.shtml;1B;4;0;1;0;0;1;4;.229;.364;.406;.770;21;12;-0.034; 0.42;0.007;-0.042;0%; 0.00; -0.3;6;0;
+Brent Rooker;/players/r/rookebr01.shtml;DH;3;1;3;1;1;0;4;.246;.329;.488;.817;16;7;0.097; 0.47;0.097;0.000;0%; 0.00; 2.0;;;HR,2B
+JJ Bleday;/players/b/bledajj01.shtml;LF;3;0;0;0;1;1;4;.195;.310;.355;.666;17;8;-0.070; 0.94;0.008;-0.077;0%; 0.00; -0.9;1;0;
+Lawrence Butler;/players/b/butlela01.shtml;CF;4;1;1;0;0;1;4;.211;.240;.341;.582;10;6;-0.091; 0.76;0.006;-0.096;0%; 0.00; -1.0;2;0;GDP
+Jordan Diaz;/players/d/diazjo03.shtml;3B;3;0;1;0;1;0;4;.221;.273;.364;.637;14;6;0.022; 0.55;0.051;-0.029;0%; 0.00; 0.5;1;1;
+Tyler Soderstrom;/players/s/soderty01.shtml;C;4;0;0;0;0;1;4;.160;.232;.240;.472;11;9;-0.075; 0.78;0.000;-0.075;0%; 0.00; -1.1;9;1;
+Nick Allen;/players/a/allenni02.shtml;SS;4;1;3;1;0;0;4;.221;.263;.287;.550;14;9;-0.010; 0.57;0.042;-0.052;0%; 0.00; 0.7;3;1;2B,GDP
+JP Sears;/players/s/searsjp01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kyle Muller;/players/m/mulleky01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Mason Miller;/players/m/millema03.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Zach Neal;/players/n/nealza01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+2B: Brent Rooker (20, off Carson Fulmer); Nick Allen (4, off Jimmy Herget).
+
+
+HR: Brent Rooker (30, off José Suarez, 8th inn, 0 on, 1 out to Deep LF-CF).
+
+
+TB: Brent Rooker 7; Nick Allen 4; Lawrence Butler; Ryan Noda; Jordan Diaz; Esteury Ruiz.
+
+
+GIDP: Lawrence Butler (5); Nick Allen (8).
+
+
+RBI: Brent Rooker (69); Esteury Ruiz (47); Nick Allen (20).
+
+
+2-out RBI: Esteury Ruiz.
+
+
+Team LOB: 8.
+With RISP: 2 for 10.
+
+Pitching home
+Carson Fulmer;/players/f/fulmeca01.shtml; W (1-1); 5 ;2;0;0;3;3;0;2.70;18;75;42;25;3;14;10;2;1;0;63;;;0.267; 1.09; 0.00%; 0.00; 2.7
+José Suarez;/players/s/suarejo01.shtml;José Suarez; 3 ;6;2;2;1;2;1;8.29;15;45;29;19;6;4;5;7;3;0;;0;0;0.019; 0.27; 0.00%; 0.00; -0.4
+Jimmy Herget;/players/h/hergeji01.shtml;Jimmy Herget; 1 ;2;1;1;0;1;0;4.66;5;13;10;5;1;4;1;3;0;0;;0;0;0.007; 0.10; 0.00%; 0.00; -0.5
+
+Pitching away
+JP Sears;/players/s/searsjp01.shtml; L (5-14); 4 ;4;3;3;2;4;2;4.54;18;65;41;24;7;10;3;9;2;0;44;;;-0.114; 0.68; 0.00%; 0.00; -0.9
+Kyle Muller;/players/m/mulleky01.shtml;Kyle Muller; 1 ;3;3;3;1;2;1;7.60;7;27;18;6;7;5;2;2;1;0;;0;0;-0.090; 0.24; 0.00%; 0.00; -2.5
+Mason Miller;/players/m/millema03.shtml;Mason Miller; 2 ;3;1;1;2;3;0;3.78;12;39;22;9;7;6;3;3;0;0;;0;0;-0.004; 0.07; 0.00%; 0.00; 0.1
+Zach Neal;/players/n/nealza01.shtml;Zach Neal; 1 ;0;0;0;1;1;0;6.67;4;19;12;6;2;4;1;0;0;0;;0;0;0.002; 0.03; 0.00%; 0.00; 0.5
+
+indiv_events
+
+Balks: Kyle Muller (1); Carson Fulmer (1).
+WP: Mason Miller (3); José Suarez (2).
+HBP: Zach Neal (2; Zach Neto); Mason Miller (3; Brandon Drury).
+IBB: JP Sears (2; David Fletcher).
+Pickoffs: Carson Fulmer (1; Esteury Ruiz, 1st base).
+
+Balks: Kyle Muller (1); Carson Fulmer (1).
+WP: Mason Miller (3); José Suarez (2).
+HBP: Zach Neal (2; Zach Neto); Mason Miller (3; Brandon Drury).
+IBB: JP Sears (2; David Fletcher).
+Pickoffs: Carson Fulmer (1; Esteury Ruiz, 1st base).
+
+section_content
+Umpires: HP - Brian Walsh, 1B - Ben May, 2B - Jeff Nelson, 3B - Jose Navas, LF - (none), RF - (none).
+Time of Game: 2:32.
+Attendance: 26,539.
+Field Condition: Unknown.
+Start Time Weather: 65° F, Wind 2mph in unknown direction, Overcast, No Precipitation.
+
+div_lineups
+Athletics
+1;Esteury Ruiz;/players/r/ruizes01.shtml;RF
+2;Zack Gelof;/players/g/gelofza01.shtml;2B
+3;Ryan Noda;/players/n/nodary01.shtml;1B
+4;Brent Rooker;/players/r/rookebr01.shtml;DH
+5;JJ Bleday;/players/b/bledajj01.shtml;LF
+6;Lawrence Butler;/players/b/butlela01.shtml;CF
+7;Jordan Diaz;/players/d/diazjo03.shtml;3B
+8;Tyler Soderstrom;/players/s/soderty01.shtml;C
+9;Nick Allen;/players/a/allenni02.shtml;SS
+; JP Sears;/players/s/searsjp01.shtml;P
+Angels
+1;Randal Grichuk;/players/g/grichra01.shtml;LF
+2;Zach Neto;/players/n/netoza01.shtml;SS
+3;Brandon Drury;/players/d/drurybr01.shtml;1B
+4;Logan O'Hoppe;/players/o/ohopplo01.shtml;C
+5;Jo Adell;/players/a/adelljo01.shtml;RF
+6;Eduardo Escobar;/players/e/escobed01.shtml;DH
+7;Michael Stefanic;/players/s/stefami01.shtml;3B
+8;David Fletcher;/players/f/fletcda02.shtml;2B
+9;Brett Phillips;/players/p/phillbr02.shtml;CF
+; Carson Fulmer;/players/f/fulmeca01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b3;1-0;2;---;2,(0-1) CX;R;LAA;Randal Grichuk;JP Sears;10%;73%;Home Run (Fly Ball to Deep LF)
+b1;0-0;2;---;5,(3-1) BFBBX;R;LAA;Brandon Drury;JP Sears;10%;61%;Home Run (Fly Ball to Deep LF)
+b5;3-0;1;1--;4,(1-2) SBC1X;RR;LAA;Brandon Drury;Kyle Muller;7%;96%;Home Run (Fly Ball to Deep RF); Neto Scores
+b4;2-0;0;12-;1,(0-0) X;R;LAA;Jo Adell;JP Sears;7%;91%;Single to 1B (Ground Ball to 2B-1B); Drury Scores/Adv on E3 (throw)/No RBI; O'Hoppe to 3B
+t1;0-0;0;1--;,(0-0) 1;O;OAK;Zack Gelof;Carson Fulmer;6%;52%;Ruiz Picked off 1B (P-1B)
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Athletics Batting, Tied 0-0, Angels' Carson Fulmer facing 1-2-3 
+t1;0-0;0;---;5,(3-1) BBCBB;;OAK;Esteury Ruiz;Carson Fulmer;-4%;47%;Walk
+t1;0-0;0;1--;,(0-0) 1;O;OAK;Zack Gelof;Carson Fulmer;6%;52%;Ruiz Picked off 1B (P-1B)
+t1;0-0;1;---;2,(0-1) 1.FX;O;OAK;Zack Gelof;Carson Fulmer;2%;54%;Groundout: 2B-1B
+t1;0-0;2;---;6,(2-2) BBCT.FX;O;OAK;Ryan Noda;Carson Fulmer;1%;55%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Angels 0.
+Bottom of the 1st, Angels Batting, Tied 0-0, Athletics' JP Sears facing 1-2-3 
+b1;0-0;0;---;5,(2-2) SBBFX;O;LAA;Randal Grichuk;JP Sears;-2%;53%;Lineout: SS (Deep SS)
+b1;0-0;1;---;5,(1-2) BCFFS;O;LAA;Zach Neto;JP Sears;-2%;51%;Strikeout Swinging; Neto out at 1B/C-1B
+b1;0-0;2;---;5,(3-1) BFBBX;R;LAA;Brandon Drury;JP Sears;10%;61%;Home Run (Fly Ball to Deep LF)
+b1;1-0;2;---;1,(0-0) X;O;LAA;Logan O'Hoppe;JP Sears;-1%;60%;Popfly: SS (Front of Home)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Athletics 0, Angels 1.
+Top of the 2nd, Athletics Batting, Behind 0-1, Angels' Carson Fulmer facing 4-5-6 
+t2;0-1;0;---;5,(3-1) BBFB*B;;OAK;Brent Rooker;Carson Fulmer;-4%;56%;Walk
+t2;0-1;0;1--;1,(0-0) X;O;OAK;JJ Bleday;Carson Fulmer;2%;58%;Groundout: SS unassisted/Forceout at 2B; Bleday to 2B/Adv on E6 (throw)
+t2;0-1;1;-2-;1,(0-0) X;O;OAK;Lawrence Butler;Carson Fulmer;5%;63%;Fielder's Choice ; Bleday out at 3B/SS-3B; Butler to 1B
+t2;0-1;2;1--;5,(3-1) B*BBCX;O;OAK;Jordan Diaz;Carson Fulmer;2%;65%;Groundout: 3B-1B (Weak 3B)
+;;;;;;;;;0 runs, 0 hits, 1 error, 1 LOB. Athletics 0, Angels 1.
+Bottom of the 2nd, Angels Batting, Ahead 1-0, Athletics' JP Sears facing 5-6-7 
+b2;1-0;0;---;2,(0-1) FX;O;LAA;Jo Adell;JP Sears;-2%;63%;Flyball: CF (Deep CF)
+b2;1-0;1;---;5,(2-2) CBS.BS;O;LAA;Eduardo Escobar;JP Sears;-1%;62%;Strikeout Swinging
+b2;1-0;2;---;2,(1-0) BX;O;LAA;Michael Stefanic;JP Sears;-1%;61%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Angels 1.
+Top of the 3rd, Athletics Batting, Behind 0-1, Angels' Carson Fulmer facing 8-9-1 
+t3;0-1;0;---;4,(0-2) CCFS;O;OAK;Tyler Soderstrom;Carson Fulmer;3%;64%;Strikeout Swinging
+t3;0-1;1;---;3,(1-1) BCX;;OAK;Nick Allen;Carson Fulmer;-3%;61%;Single to CF (Ground Ball thru SS-2B)
+t3;0-1;1;1--;5,(1-2) FCF1*BX;O;OAK;Esteury Ruiz;Carson Fulmer;3%;64%;Groundout: 3B-2B/Forceout at 2B; Ruiz to 1B
+t3;0-1;2;1--;,(0-0) N;;OAK;Zack Gelof;Carson Fulmer;-1%;63%;Balk; Ruiz to 2B
+t3;0-1;2;-2-;2,(0-1) N.C>B;;OAK;Zack Gelof;Carson Fulmer;0%;63%;Ruiz Steals 3B
+t3;0-1;2;--3;3,(1-1) N.C>B.X;O;OAK;Zack Gelof;Carson Fulmer;4%;67%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 0, Angels 1.
+Bottom of the 3rd, Angels Batting, Ahead 1-0, Athletics' JP Sears facing 8-9-1 
+b3;1-0;0;---;2,(0-1) CX;O;LAA;David Fletcher;JP Sears;-2%;65%;Groundout: 2B-1B (Weak SS-2B)
+b3;1-0;1;---;7,(3-2) SCBBFBX;O;LAA;Brett Phillips;JP Sears;-2%;63%;Popfly: SS (Deep SS)
+b3;1-0;2;---;2,(0-1) CX;R;LAA;Randal Grichuk;JP Sears;10%;73%;Home Run (Fly Ball to Deep LF)
+b3;2-0;2;---;4,(2-1) BFBX;O;LAA;Zach Neto;JP Sears;-1%;73%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Athletics 0, Angels 2.
+Top of the 4th, Athletics Batting, Behind 0-2, Angels' Carson Fulmer facing 3-4-5 
+t4;0-2;0;---;4,(2-1) BBCX;O;OAK;Ryan Noda;Carson Fulmer;3%;75%;Groundout: 2B-1B (Deep 2B-1B)
+t4;0-2;1;---;5,(3-1) CBBBX;;OAK;Brent Rooker;Carson Fulmer;-5%;71%;Double to LF (Ground Ball)
+t4;0-2;1;-2-;8,(3-2) BFCFB*BFT;O;OAK;JJ Bleday;Carson Fulmer;4%;75%;Strikeout Swinging
+t4;0-2;2;-2-;6,(3-2) BC*BSBT;O;OAK;Lawrence Butler;Carson Fulmer;4%;78%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Athletics 0, Angels 2.
+Bottom of the 4th, Angels Batting, Ahead 2-0, Athletics' JP Sears facing 3-4-5 
+b4;2-0;0;---;7,(2-2) CBCF.FBX;;LAA;Brandon Drury;JP Sears;4%;83%;Double to CF (Line Drive to Deep CF-RF)
+b4;2-0;0;-2-;6,(3-2) BFFBB.B;;LAA;Logan O'Hoppe;JP Sears;2%;84%;Walk
+b4;2-0;0;12-;1,(0-0) X;R;LAA;Jo Adell;JP Sears;7%;91%;Single to 1B (Ground Ball to 2B-1B); Drury Scores/Adv on E3 (throw)/No RBI; O'Hoppe to 3B
+b4;3-0;0;1-3;2,(1-1) S.B1;;LAA;Eduardo Escobar;JP Sears;1%;92%;Adell Steals 2B
+b4;3-0;0;-23;5,(2-2) S.B1.BFS;O;LAA;Eduardo Escobar;JP Sears;-2%;90%;Strikeout Swinging
+b4;3-0;1;-23;1,(0-0) X;O;LAA;Michael Stefanic;JP Sears;-4%;86%;Foul Popfly: 1B
+b4;3-0;2;-23;,(3-0) VVVV;;LAA;David Fletcher;JP Sears;1%;87%;Intentional Walk
+b4;3-0;2;123;5,(2-2) BCBCC;O;LAA;Brett Phillips;JP Sears;-3%;83%;Strikeout Looking
+;;;;;;;;;1 run, 2 hits, 1 error, 3 LOB. Athletics 0, Angels 3.
+Top of the 5th, Athletics Batting, Behind 0-3, Angels' Carson Fulmer facing 7-8-9 
+t5;0-3;0;---;5,(3-1) SBBBB;;OAK;Jordan Diaz;Carson Fulmer;-4%;79%;Walk
+t5;0-3;0;1--;5,(2-2) CB*BFX;O;OAK;Tyler Soderstrom;Carson Fulmer;4%;83%;Flyball: LF (Short LF)
+t5;0-3;1;1--;2,(0-1) CX;OO;OAK;Nick Allen;Carson Fulmer;5%;88%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Athletics 0, Angels 3.
+Bottom of the 5th, Angels Batting, Ahead 3-0, Athletics' Kyle Muller facing 1-2-3 
+;;;;;;;;;Kyle Muller replaces JP Sears pitching
+b5;3-0;0;---;3,(1-1) .SBX;O;LAA;Randal Grichuk;Kyle Muller;-1%;87%;Groundout: 3B-1B
+b5;3-0;1;---;3,(0-2) SC.X;;LAA;Zach Neto;Kyle Muller;1%;88%;Single to 3B (Ground Ball to Weak 3B)
+b5;3-0;1;1--;4,(1-2) SBC1X;RR;LAA;Brandon Drury;Kyle Muller;7%;96%;Home Run (Fly Ball to Deep RF); Neto Scores
+b5;5-0;1;---;5,(3-1) BBCBB;;LAA;Logan O'Hoppe;Kyle Muller;0%;96%;Walk
+b5;5-0;1;1--;5,(1-2) SBSFS;O;LAA;Jo Adell;Kyle Muller;0%;95%;Strikeout Swinging
+b5;5-0;2;1--;,(0-0) N;;LAA;Eduardo Escobar;Kyle Muller;0%;96%;Balk; O'Hoppe to 2B
+b5;5-0;2;-2-;2,(0-1) N.SX;R;LAA;Eduardo Escobar;Kyle Muller;2%;97%;Single to RF (Line Drive to Short RF); O'Hoppe Scores
+b5;6-0;2;1--;5,(2-2) CCBBT;O;LAA;Michael Stefanic;Kyle Muller;0%;97%;Strikeout Swinging
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Athletics 0, Angels 6.
+Top of the 6th, Athletics Batting, Behind 0-6, Angels' José Suarez facing 1-2-3 
+;;;;;;;;;José Suarez replaces Carson Fulmer pitching
+t6;0-6;0;---;3,(0-2) .CSX;O;OAK;Esteury Ruiz;José Suarez;1%;98%;Groundout: 2B-1B (SS-2B)
+t6;0-6;1;---;3,(0-2) SFS;O;OAK;Zack Gelof;José Suarez;0%;98%;Strikeout Swinging
+t6;0-6;2;---;6,(3-2) BBBCC.X;;OAK;Ryan Noda;José Suarez;0%;98%;Single to RF (Line Drive to CF-RF)
+t6;0-6;2;1--;5,(2-2) BBF1FX;;OAK;Brent Rooker;José Suarez;-1%;97%;Single to RF (Ground Ball thru 2B-1B); Noda to 2B
+t6;0-6;2;12-;1,(0-0) B;;OAK;JJ Bleday;José Suarez;0%;97%;Wild Pitch; Noda to 3B; Rooker to 2B
+t6;0-6;2;-23;3,(2-0) B.BX;O;OAK;JJ Bleday;José Suarez;2%;99%;Flyball: RF (Deep CF-RF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Athletics 0, Angels 6.
+Bottom of the 6th, Angels Batting, Ahead 6-0, Athletics' Mason Miller facing 8-9-1 
+;;;;;;;;;Mason Miller replaces Kyle Muller pitching
+b6;6-0;0;---;5,(3-1) .BCBBB;;LAA;David Fletcher;Mason Miller;0%;99%;Walk
+b6;6-0;0;1--;1,(0-0) X;O;LAA;Brett Phillips;Mason Miller;0%;99%;Flyball: LF (Deep 3B)
+b6;6-0;1;1--;3,(1-1) CBX;O;LAA;Randal Grichuk;Mason Miller;0%;98%;Flyball: RF (RF Line)
+b6;6-0;2;1--;2,(0-1) CX;;LAA;Zach Neto;Mason Miller;0%;99%;Double to LF (Fly Ball to Deep LF Line); Fletcher to 3B
+b6;6-0;2;-23;3,(1-1) BSB;R;LAA;Brandon Drury;Mason Miller;1%;99%;Wild Pitch; Fletcher Scores/No RBI; Neto to 3B
+b6;7-0;2;--3;4,(2-1) BSB.H;;LAA;Brandon Drury;Mason Miller;0%;99%;Hit By Pitch
+b6;7-0;2;1-3;5,(3-1) B*BCBB;;LAA;Logan O'Hoppe;Mason Miller;0%;99%;Walk; Drury to 2B
+b6;7-0;2;123;5,(2-2) BTS.BS;O;LAA;Jo Adell;Mason Miller;0%;99%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 3 LOB. Athletics 0, Angels 7.
+Top of the 7th, Athletics Batting, Behind 0-7, Angels' José Suarez facing 6-7-8 
+t7;0-7;0;---;2,(1-0) BX;;OAK;Lawrence Butler;José Suarez;-1%;99%;Single to LF (Ground Ball)
+t7;0-7;0;1--;2,(0-1) CX;;OAK;Jordan Diaz;José Suarez;-1%;97%;Single to LF (Line Drive to Deep LF); Butler to 2B
+t7;0-7;0;12-;1,(0-0) X;O;OAK;Tyler Soderstrom;José Suarez;1%;98%;Groundout: 1B-SS/Forceout at 2B; Butler to 3B; Soderstrom to 1B
+t7;0-7;1;1-3;4,(2-1) TBBX;R;OAK;Nick Allen;José Suarez;-1%;97%;Single to LF (Line Drive to LF-CF); Butler Scores; Soderstrom to 2B
+t7;1-7;1;12-;2,(0-1) FX;O;OAK;Esteury Ruiz;José Suarez;1%;98%;Foul Popfly: C (Behind Home)
+t7;1-7;2;12-;2,(0-1) FX;O;OAK;Zack Gelof;José Suarez;1%;99%;Flyball: LF (Deep LF Line)
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Athletics 1, Angels 7.
+Bottom of the 7th, Angels Batting, Ahead 7-1, Athletics' Mason Miller facing 6-7-8 
+b7;7-1;0;---;1,(0-0) X;;LAA;Eduardo Escobar;Mason Miller;0%;99%;Single to SS (Ground Ball)
+b7;7-1;0;1--;3,(1-1) C*BX;;LAA;Michael Stefanic;Mason Miller;0%;100%;Single to LF (Ground Ball thru SS-3B Hole); Escobar to 2B
+b7;7-1;0;12-;1,(0-0) X;O;LAA;David Fletcher;Mason Miller;0%;99%;Groundout: 3B unassisted/Forceout at 3B; Stefanic to 2B; Fletcher to 1B
+b7;7-1;1;12-;5,(2-2) BCBSS;O;LAA;Brett Phillips;Mason Miller;0%;99%;Strikeout Swinging
+b7;7-1;2;12-;4,(0-2) FSF*S;O;LAA;Randal Grichuk;Mason Miller;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Athletics 1, Angels 7.
+Top of the 8th, Athletics Batting, Behind 1-7, Angels' José Suarez facing 3-4-5 
+t8;1-7;0;---;5,(2-2) BFS.BS;O;OAK;Ryan Noda;José Suarez;0%;100%;Strikeout Swinging
+t8;1-7;1;---;1,(0-0) X;R;OAK;Brent Rooker;José Suarez;-1%;99%;Home Run (Fly Ball to Deep LF-CF)
+t8;2-7;1;---;5,(3-1) BSBBB;;OAK;JJ Bleday;José Suarez;-1%;98%;Walk
+t8;2-7;1;1--;1,(0-0) X;OO;OAK;Lawrence Butler;José Suarez;1%;99%;Ground Ball Double Play: 2B-SS-1B
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Athletics 2, Angels 7.
+Bottom of the 8th, Angels Batting, Ahead 7-2, Athletics' Zach Neal facing 2-3-4 
+;;;;;;;;;Zach Neal replaces Mason Miller pitching
+b8;7-2;0;---;3,(0-2) .FC.H;;LAA;Zach Neto;Zach Neal;0%;100%;Hit By Pitch
+b8;7-2;0;1--;3,(1-1) CBX;OO;LAA;Brandon Drury;Zach Neal;0%;99%;Ground Ball Double Play: P-2B-1B
+b8;7-2;2;---;8,(3-2) CBBFBFF.B;;LAA;Logan O'Hoppe;Zach Neal;0%;99%;Walk
+b8;7-2;2;1--;5,(1-2) SBCFS;O;LAA;Jo Adell;Zach Neal;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Athletics 2, Angels 7.
+Top of the 9th, Athletics Batting, Behind 2-7, Angels' Jimmy Herget facing 7-8-9 
+;;;;;;;;;Jimmy Herget replaces José Suarez pitching
+t9;2-7;0;---;2,(1-0) .BX;O;OAK;Jordan Diaz;Jimmy Herget;0%;100%;Flyball: RF (Short RF)
+t9;2-7;1;---;1,(0-0) X;O;OAK;Tyler Soderstrom;Jimmy Herget;0%;100%;Groundout: SS-1B (SS-2B)
+t9;2-7;2;---;5,(2-2) CCBBX;;OAK;Nick Allen;Jimmy Herget;0%;100%;Double to CF (Fly Ball to Deep CF-RF)
+t9;2-7;2;-2-;2,(0-1) CX;R;OAK;Esteury Ruiz;Jimmy Herget;0%;100%;Single to RF (Fly Ball to Short CF-RF); Allen Scores
+t9;3-7;2;1--;3,(0-2) CFS;O;OAK;Zack Gelof;Jimmy Herget;0%;100%;Strikeout Swinging
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Athletics 3, Angels 7.
