@@ -1,0 +1,262 @@
+
+Scorebox Meta
+20231001
+2:15 p.m. Local
+44614
+Busch Stadium III
+136
+
+Boxscore
+https://cdn.ssref.net/req/202310031/tlogo/br/CIN-2023.png;/teams/CIN/2023.shtml;1;0;1;0;0;0;1;0;0;3;9;0
+https://cdn.ssref.net/req/202310031/tlogo/br/STL-2023.png;/teams/STL/2023.shtml;0;1;3;0;0;0;0;0;X;4;9;0
+
+Batting home
+Tommy Edman;/players/e/edmanto01.shtml;CF;4;1;2;0;0;1;4;.248;.307;.399;.705;20;12;0.017; 0.85;0.079;-0.063;0%; 0.00; -0.0;5;0;SB,CS
+Lars Nootbaar;/players/n/nootbla01.shtml;DH;4;0;0;0;0;2;4;.261;.367;.418;.784;20;13;-0.073; 0.74;0.000;-0.073;0%; 0.00; -0.8;;;
+Jordan Walker;/players/w/walkejo02.shtml;RF;4;1;3;1;0;0;4;.276;.342;.445;.787;13;8;0.132; 0.81;0.152;-0.020;0%; 0.00; 1.3;3;0;2B
+Luken Baker;/players/b/bakerlu01.shtml;1B;4;1;1;1;0;2;4;.209;.313;.314;.627;17;13;0.049; 0.92;0.109;-0.060;0%; 0.00; 0.2;1;1;2B
+Richie Palacios;/players/p/palacri01.shtml;LF;3;1;1;0;0;0;4;.258;.307;.516;.823;10;7;0.052; 0.82;0.082;-0.030;0%; 0.00; 0.4;0;0;2B,HBP
+Andrew Knizner;/players/k/kniznan01.shtml;C;3;0;1;0;0;2;4;.241;.288;.424;.712;16;10;-0.001; 1.05;0.054;-0.054;0%; 0.00; -0.1;15;1;HBP
+José Fermín;/players/f/fermijo01.shtml;3B;1;0;1;1;1;0;3;.235;.339;.255;.594;7;2;0.108; 1.60;0.114;-0.007;0%; 0.00; 1.2;1;0;SH
+Adam Wainwright;/players/w/wainwad01.shtml;PH;1;0;0;0;0;1;1;.000;.000;.000;.000;5;5;-0.011; 0.42;0.000;-0.011;0%; 0.00; -0.2;;;
+Juniel Querecuto;/players/q/quereju01.shtml;3B;0;0;0;0;0;0;0;.100;.143;.150;.293;;;;;;;;;;0;0;
+Irving Lopez;/players/l/lopezir01.shtml;2B;3;0;0;1;0;0;4;.000;.000;.000;.000;18;13;-0.091; 1.27;0.000;-0.091;0%; 0.00; -1.5;1;0;SF
+Masyn Winn;/players/w/winnma01.shtml;SS;3;0;0;0;0;1;3;.172;.230;.238;.467;6;5;-0.069; 0.84;0.000;-0.069;0%; 0.00; -0.9;0;0;
+Miles Mikolas;/players/m/mikolmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+John King;/players/k/kingjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Ryan Helsley;/players/h/helslry01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Richie Palacios (6, off Hunter Greene); Jordan Walker (19, off Hunter Greene); Luken Baker (3, off Hunter Greene).
+
+
+SF: Irving Lopez (1, off Hunter Greene).
+
+
+SH: José Fermín (2, off Hunter Greene).
+
+
+HBP: Andrew Knizner (3, by Hunter Greene); Richie Palacios (1, by Hunter Greene).
+
+
+TB: Jordan Walker 4; Tommy Edman 2; Richie Palacios 2; Luken Baker 2; José Fermín; Andrew Knizner.
+
+
+RBI: Jordan Walker (51); José Fermín (4); Irving Lopez (1); Luken Baker (10).
+
+
+2-out RBI: José Fermín.
+
+
+Team LOB: 7.
+With RISP: 3 for 7.
+
+Batting away
+Nick Martini;/players/m/martini02.shtml;LF;4;1;1;1;0;2;4;.264;.329;.583;.912;16;13;-0.012; 1.22;0.095;-0.107;0%; 0.00; 0.3;0;0;HR
+Elly De La Cruz;/players/d/delacel01.shtml;SS;4;0;1;1;0;3;4;.235;.300;.410;.710;15;11;0.021; 1.23;0.113;-0.093;0%; 0.00; 0.3;1;2;2B
+Joey Votto;/players/v/vottojo01.shtml;1B;1;0;0;0;0;1;1;.202;.314;.433;.747;5;4;-0.015; 0.57;0.000;-0.015;0%; 0.00; -0.2;0;0;
+Tyler Stephenson;/players/s/stephty01.shtml;1B;3;0;0;0;0;0;3;.243;.317;.378;.696;9;4;-0.082; 1.02;0.000;-0.082;0%; 0.00; -0.6;4;1;
+Christian Encarnacion-Strand;/players/e/encarch01.shtml;DH;4;0;1;0;0;1;4;.270;.328;.477;.805;16;12;-0.055; 1.20;0.044;-0.098;0%; 0.00; -0.1;;;
+Noelvi Marte;/players/m/marteno01.shtml;3B;4;0;1;0;0;1;4;.316;.366;.456;.822;11;9;0.039; 1.52;0.136;-0.097;0%; 0.00; -0.4;0;0;2B
+Will Benson;/players/b/bensowi01.shtml;RF;4;1;3;0;0;0;4;.275;.365;.498;.863;5;4;0.229; 2.31;0.285;-0.056;0%; 0.00; 0.7;3;0;SB,CS
+Nick Senzel;/players/s/senzeni01.shtml;2B;4;0;0;0;0;3;4;.236;.297;.399;.696;16;13;-0.343; 2.14;0.000;-0.343;0%; 0.00; -1.7;1;1;
+Stuart Fairchild;/players/f/faircst01.shtml;CF;4;1;2;1;0;1;4;.228;.321;.388;.710;16;12;-0.038; 2.54;0.196;-0.234;0%; 0.00; 0.9;5;0;2·2B
+Luke Maile;/players/m/mailelu01.shtml;C;3;0;0;0;0;2;3;.235;.308;.391;.699;9;9;-0.131; 1.46;0.000;-0.131;0%; 0.00; -1.0;9;1;
+Hunter Greene;/players/g/greenhu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Alex Young;/players/y/youngal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Alan Busenitz;/players/b/busenal01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Stuart Fairchild 2 (16, 2 off Miles Mikolas); Elly De La Cruz (15, off Miles Mikolas); Noelvi Marte (7, off Ryan Helsley).
+
+
+HR: Nick Martini (6, off Miles Mikolas, 1st inn, 0 on, 0 outs to Deep CF-RF).
+
+
+TB: Stuart Fairchild 4; Nick Martini 4; Will Benson 3; Noelvi Marte 2; Elly De La Cruz 2; Christian Encarnacion-Strand.
+
+
+RBI: Stuart Fairchild (28); Nick Martini (16); Elly De La Cruz (44).
+
+
+2-out RBI: Elly De La Cruz; Stuart Fairchild.
+
+
+Team LOB: 5.
+With RISP: 2 for 8.
+
+Pitching home
+Miles Mikolas;/players/m/mikolmi01.shtml; W (9-13); 7 ;7;3;3;0;10;1;4.78;27;90;73;39;17;17;2;15;4;0;61;;;0.096; 1.07; 0.00%; 0.00; 0.7
+John King;/players/k/kingjo01.shtml; H (12); 1 ;0;0;0;0;2;0;3.62;3;12;7;3;4;0;1;0;0;0;;0;0;0.123; 1.60; 0.00%; 0.00; 0.5
+Ryan Helsley;/players/h/helslry01.shtml; S (14); 1 ;2;0;0;0;2;0;2.45;5;16;11;6;3;2;1;2;2;0;;0;0;0.168; 4.42; 0.00%; 0.00; 0.5
+
+Pitching away
+Hunter Greene;/players/g/greenhu01.shtml; L (4-7); 5 ;9;4;4;1;6;0;4.82;26;101;63;39;9;15;7;10;4;0;38;;;-0.223; 1.11; 0.00%; 0.00; -1.4
+Alex Young;/players/y/youngal01.shtml;Alex Young; 1 ;0;0;0;0;1;0;3.86;3;8;7;5;1;1;0;2;0;0;;0;0;0.031; 0.39; 0.00%; 0.00; 0.5
+Alan Busenitz;/players/b/busenal01.shtml;Alan Busenitz; 2 ;0;0;0;0;2;0;2.57;6;23;18;9;2;7;2;2;0;0;;0;0;0.078; 0.51; 0.00%; 0.00; 1.0
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Hunter Greene 2 (8; Andrew Knizner, Richie Palacios).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Hunter Greene 2 (8; Andrew Knizner, Richie Palacios).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Shane Livensparger, 1B - Mark Ripperger, 2B - Phil Cuzzi, 3B - Dan Bellino, LF - (none), RF - (none).
+Time of Game: 2:16.
+Attendance: 44,614.
+Field Condition: Unknown.
+Start Time Weather: 86° F, Wind 6mph from Right to Left, Sunny, No Precipitation.
+
+div_lineups
+Reds
+1;Nick Martini;/players/m/martini02.shtml;LF
+2;Elly De La Cruz;/players/d/delacel01.shtml;SS
+3;Joey Votto;/players/v/vottojo01.shtml;1B
+4;Christian Encarnacion-Strand;/players/e/encarch01.shtml;DH
+5;Noelvi Marte;/players/m/marteno01.shtml;3B
+6;Will Benson;/players/b/bensowi01.shtml;RF
+7;Nick Senzel;/players/s/senzeni01.shtml;2B
+8;Stuart Fairchild;/players/f/faircst01.shtml;CF
+9;Luke Maile;/players/m/mailelu01.shtml;C
+; Hunter Greene;/players/g/greenhu01.shtml;P
+Cardinals
+1;Tommy Edman;/players/e/edmanto01.shtml;CF
+2;Lars Nootbaar;/players/n/nootbla01.shtml;DH
+3;Jordan Walker;/players/w/walkejo02.shtml;RF
+4;Luken Baker;/players/b/bakerlu01.shtml;1B
+5;Richie Palacios;/players/p/palacri01.shtml;LF
+6;Andrew Knizner;/players/k/kniznan01.shtml;C
+7;José Fermín;/players/f/fermijo01.shtml;3B
+8;Irving Lopez;/players/l/lopezir01.shtml;2B
+9;Masyn Winn;/players/w/winnma01.shtml;SS
+; Miles Mikolas;/players/m/mikolmi01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t9;3-4;1;-23;4,(1-2) CF>B.S;O;CIN;Nick Senzel;Ryan Helsley;25%;80%;Strikeout Swinging
+t9;3-4;2;-23;5,(2-2) BFS.*BS;O;CIN;Stuart Fairchild;Ryan Helsley;20%;100%;Strikeout Swinging
+t9;3-4;1;-2-;1,(0-0) X;;CIN;Will Benson;Ryan Helsley;-15%;62%;Single to RF (Line Drive to Deep RF Line); Marte to 3B
+t9;3-4;1;---;1,(0-0) X;;CIN;Noelvi Marte;Ryan Helsley;-14%;77%;Double to RF (Line Drive to Deep 1B)
+t7;2-4;2;1--;2,(0-1) F>X;R;CIN;Stuart Fairchild;Miles Mikolas;-13%;72%;Double to LF (Fly Ball to Deep LF Line); Benson Scores
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Reds Batting, Tied 0-0, Cardinals' Miles Mikolas facing 1-2-3 
+t1;0-0;0;---;3,(2-0) BBX;R;CIN;Nick Martini;Miles Mikolas;-10%;40%;Home Run (Fly Ball to Deep CF-RF)
+t1;1-0;0;---;3,(0-2) SFS;O;CIN;Elly De La Cruz;Miles Mikolas;2%;43%;Strikeout Swinging
+t1;1-0;1;---;5,(1-2) BSCFT;O;CIN;Joey Votto;Miles Mikolas;1%;44%;Strikeout Swinging
+t1;1-0;2;---;3,(0-2) CS.X;O;CIN;Christian Encarnacion-Strand;Miles Mikolas;1%;45%;Foul Popfly: C (Behind Home)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Reds 1, Cardinals 0.
+Bottom of the 1st, Cardinals Batting, Behind 0-1, Reds' Hunter Greene facing 1-2-3 
+b1;0-1;0;---;6,(3-2) FBBT.BC;O;STL;Tommy Edman;Hunter Greene;-2%;43%;Strikeout Looking
+b1;0-1;1;---;4,(2-1) CBBX;O;STL;Lars Nootbaar;Hunter Greene;-2%;41%;Flyball: RF
+b1;0-1;2;---;3,(0-2) CF.X;;STL;Jordan Walker;Hunter Greene;1%;42%;Single to LF (Ground Ball)
+b1;0-1;2;1--;6,(2-2) FC*BFBS;O;STL;Luken Baker;Hunter Greene;-2%;40%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Reds 1, Cardinals 0.
+Top of the 2nd, Reds Batting, Ahead 1-0, Cardinals' Miles Mikolas facing 5-6-7 
+t2;1-0;0;---;4,(2-1) .BCBX;O;CIN;Noelvi Marte;Miles Mikolas;2%;42%;Flyball: CF (Deep CF-RF)
+t2;1-0;1;---;1,(0-0) X;;CIN;Will Benson;Miles Mikolas;-2%;40%;Single to LF (Line Drive to Short LF Line)
+t2;1-0;1;1--;7,(1-2) CTFB1>F1F>S;OO;CIN;Nick Senzel;Miles Mikolas;5%;44%;Double Play: Strikeout Swinging, Benson Caught Stealing 2B (C-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Reds 1, Cardinals 0.
+Bottom of the 2nd, Cardinals Batting, Behind 0-1, Reds' Hunter Greene facing 5-6-7 
+;;;;;;;;;Tyler Stephenson replaces Joey Votto playing 1B batting 3rd
+b2;0-1;0;---;1,(0-0) .X;;STL;Richie Palacios;Hunter Greene;7%;51%;Double to RF (Fly Ball to Deep CF-RF)
+b2;0-1;0;-2-;7,(3-2) BFSFBBH;;STL;Andrew Knizner;Hunter Greene;4%;55%;Hit By Pitch
+b2;0-1;0;12-;1,(0-0) X;O;STL;José Fermín;Hunter Greene;-1%;54%;Bunt Groundout: P-1B/Sacrifice; Palacios to 3B; Knizner to 2B
+b2;0-1;1;-23;2,(0-1) CX;RO;STL;Irving Lopez;Hunter Greene;0%;54%;Flyball: RF/Sacrifice Fly; Palacios Scores; Knizner to 3B
+b2;1-1;2;--3;3,(0-2) CFC;O;STL;Masyn Winn;Hunter Greene;-4%;50%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Reds 1, Cardinals 1.
+Top of the 3rd, Reds Batting, Tied 1-1, Cardinals' Miles Mikolas facing 8-9-1 
+t3;1-1;0;---;7,(2-2) CBCFBF.X;;CIN;Stuart Fairchild;Miles Mikolas;-7%;43%;Double to LF (Ground Ball thru SS-3B Hole)
+t3;1-1;0;-2-;3,(0-2) CFS;O;CIN;Luke Maile;Miles Mikolas;5%;48%;Strikeout Swinging
+t3;1-1;1;-2-;4,(0-2) CSF.X;O;CIN;Nick Martini;Miles Mikolas;4%;52%;Flyball: CF (LF-CF)
+t3;1-1;2;-2-;2,(1-0) BX;R;CIN;Elly De La Cruz;Miles Mikolas;-11%;41%;Double to CF (Line Drive to Deep LF-CF); Fairchild Scores
+t3;2-1;2;-2-;1,(0-0) X;O;CIN;Tyler Stephenson;Miles Mikolas;3%;44%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Reds 2, Cardinals 1.
+Bottom of the 3rd, Cardinals Batting, Behind 1-2, Reds' Hunter Greene facing 1-2-3 
+b3;1-2;0;---;9,(3-2) CS.FBBFFBX;;STL;Tommy Edman;Hunter Greene;4%;48%;Single to LF (Ground Ball)
+b3;1-2;0;1--;6,(3-2) 1BBFFB>X;O;STL;Lars Nootbaar;Hunter Greene;-4%;44%;Flyball: CF (Deep CF)
+b3;1-2;1;1--;1,(0-0) >B;;STL;Jordan Walker;Hunter Greene;2%;46%;Edman Steals 2B
+b3;1-2;1;-2-;2,(1-0) >B.X;R;STL;Jordan Walker;Hunter Greene;12%;58%;Double to CF (Line Drive to Deep CF); Edman Scores
+b3;2-2;1;-2-;1,(0-0) X;R;STL;Luken Baker;Hunter Greene;11%;69%;Double to LF (Line Drive to Deep LF-CF); Walker Scores
+b3;3-2;1;-2-;6,(2-2) CSBFBH;;STL;Richie Palacios;Hunter Greene;2%;70%;Hit By Pitch
+b3;3-2;1;12-;3,(0-2) SFS;O;STL;Andrew Knizner;Hunter Greene;-4%;66%;Strikeout Swinging
+b3;3-2;2;12-;2,(1-0) *BX;R;STL;José Fermín;Hunter Greene;10%;76%;Single to CF (Ground Ball thru SS-2B); Baker Scores; Palacios to 3B
+b3;4-2;2;1-3;3,(1-1) B1FX;O;STL;Irving Lopez;Hunter Greene;-4%;73%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;3 runs, 4 hits, 0 errors, 2 LOB. Reds 2, Cardinals 4.
+Top of the 4th, Reds Batting, Behind 2-4, Cardinals' Miles Mikolas facing 4-5-6 
+t4;2-4;0;---;5,(2-2) SBBCX;;CIN;Christian Encarnacion-Strand;Miles Mikolas;-4%;68%;Single to CF (Line Drive)
+t4;2-4;0;1--;2,(0-1) CX;O;CIN;Noelvi Marte;Miles Mikolas;4%;72%;Flyball: RF
+t4;2-4;1;1--;2,(1-0) BX;O;CIN;Will Benson;Miles Mikolas;3%;76%;Flyball: RF (Deep RF)
+t4;2-4;2;1--;1,(0-0) X;O;CIN;Nick Senzel;Miles Mikolas;3%;78%;Popfly: 3B (P's Right)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Reds 2, Cardinals 4.
+Bottom of the 4th, Cardinals Batting, Ahead 4-2, Reds' Hunter Greene facing 9-1-2 
+b4;4-2;0;---;1,(0-0) X;O;STL;Masyn Winn;Hunter Greene;-2%;77%;Groundout: SS-1B
+b4;4-2;1;---;4,(2-1) BFBX;;STL;Tommy Edman;Hunter Greene;2%;79%;Single to RF (Line Drive to RF Line)
+b4;4-2;1;1--;4,(2-1) CBB1>C;O;STL;Lars Nootbaar;Hunter Greene;-3%;76%;Edman Caught Stealing 2B (C-SS)
+;;;;;;;;;Tag play Challenged by STL manager (Oliver Marmol): Original call upheld upon review.
+b4;4-2;2;---;5,(2-2) CBB1>C.C;O;STL;Lars Nootbaar;Hunter Greene;-1%;75%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 0 LOB. Reds 2, Cardinals 4.
+Top of the 5th, Reds Batting, Behind 2-4, Cardinals' Miles Mikolas facing 8-9-1 
+t5;2-4;0;---;2,(0-1) FX;O;CIN;Stuart Fairchild;Miles Mikolas;3%;78%;Flyball: RF (Short RF Line)
+t5;2-4;1;---;3,(0-2) CF*S;O;CIN;Luke Maile;Miles Mikolas;2%;80%;Strikeout Swinging
+t5;2-4;2;---;6,(1-2) CFFBFC;O;CIN;Nick Martini;Miles Mikolas;1%;81%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 2, Cardinals 4.
+Bottom of the 5th, Cardinals Batting, Ahead 4-2, Reds' Hunter Greene facing 3-4-5 
+b5;4-2;0;---;6,(3-2) SBS.BBX;;STL;Jordan Walker;Hunter Greene;2%;83%;Single to CF (Line Drive to CF-RF)
+b5;4-2;0;1--;6,(1-2) CSBFFC;O;STL;Luken Baker;Hunter Greene;-2%;81%;Strikeout Looking
+b5;4-2;1;1--;1,(0-0) X;O;STL;Richie Palacios;Hunter Greene;-2%;79%;Flyball: CF (Deep CF)
+b5;4-2;2;1--;1,(0-0) X;;STL;Andrew Knizner;Hunter Greene;2%;81%;Single to LF (Ground Ball); Walker to 3B
+b5;4-2;2;1-3;4,(3-0) BBBB;;STL;José Fermín;Hunter Greene;1%;82%;Walk; Knizner to 2B
+b5;4-2;2;123;8,(3-2) FBBCFB>F>X;O;STL;Irving Lopez;Hunter Greene;-5%;78%;Flyball: CF (Deep LF-CF)
+;;;;;;;;;0 runs, 2 hits, 0 errors, 3 LOB. Reds 2, Cardinals 4.
+Top of the 6th, Reds Batting, Behind 2-4, Cardinals' Miles Mikolas facing 2-3-4 
+t6;2-4;0;---;4,(0-2) SS.FC;O;CIN;Elly De La Cruz;Miles Mikolas;3%;81%;Strikeout Looking
+t6;2-4;1;---;5,(3-1) CBBBX;O;CIN;Tyler Stephenson;Miles Mikolas;2%;83%;Lineout: CF (Deep CF-RF)
+t6;2-4;2;---;3,(0-2) SS.S;O;CIN;Christian Encarnacion-Strand;Miles Mikolas;1%;84%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 2, Cardinals 4.
+Bottom of the 6th, Cardinals Batting, Ahead 4-2, Reds' Alex Young facing 9-1-2 
+;;;;;;;;;Alex Young replaces Hunter Greene pitching
+b6;4-2;0;---;2,(1-0) .BX;O;STL;Masyn Winn;Alex Young;-1%;83%;Popfly: 2B
+b6;4-2;1;---;1,(0-0) X;O;STL;Tommy Edman;Alex Young;-1%;82%;Flyball: CF (Deep LF-CF)
+b6;4-2;2;---;5,(0-2) CFFFS;O;STL;Lars Nootbaar;Alex Young;-1%;81%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 2, Cardinals 4.
+Top of the 7th, Reds Batting, Behind 2-4, Cardinals' Miles Mikolas facing 5-6-7 
+t7;2-4;0;---;4,(0-2) CC.FS;O;CIN;Noelvi Marte;Miles Mikolas;4%;85%;Strikeout Swinging
+t7;2-4;1;---;1,(0-0) X;;CIN;Will Benson;Miles Mikolas;-4%;81%;Single to LF (Ground Ball)
+t7;2-4;1;1--;4,(1-2) F*BFS;O;CIN;Nick Senzel;Miles Mikolas;4%;85%;Strikeout Swinging
+t7;2-4;2;1--;2,(0-1) F>X;R;CIN;Stuart Fairchild;Miles Mikolas;-13%;72%;Double to LF (Fly Ball to Deep LF Line); Benson Scores
+t7;3-4;2;-2-;3,(0-2) FSX;O;CIN;Luke Maile;Miles Mikolas;6%;79%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Reds 3, Cardinals 4.
+Bottom of the 7th, Cardinals Batting, Ahead 4-3, Reds' Alan Busenitz facing 3-4-5 
+;;;;;;;;;Alan Busenitz replaces Alex Young pitching
+b7;4-3;0;---;2,(1-0) .BX;O;STL;Jordan Walker;Alan Busenitz;-2%;77%;Flyball: CF (Deep CF)
+b7;4-3;1;---;4,(1-2) BCFX;O;STL;Luken Baker;Alan Busenitz;-1%;75%;Flyball: RF (Deep RF)
+b7;4-3;2;---;2,(0-1) CX;O;STL;Richie Palacios;Alan Busenitz;-1%;74%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 3, Cardinals 4.
+Top of the 8th, Reds Batting, Behind 3-4, Cardinals' John King facing 1-2-3 
+;;;;;;;;;John King replaces Miles Mikolas pitching
+t8;3-4;0;---;3,(0-2) .SF*S;O;CIN;Nick Martini;John King;6%;80%;Strikeout Swinging
+t8;3-4;1;---;6,(3-2) S.BFBBS;O;CIN;Elly De La Cruz;John King;4%;84%;Strikeout Swinging
+t8;3-4;2;---;3,(2-0) BBX;O;CIN;Tyler Stephenson;John King;3%;87%;Groundout: P-1B (P's Left)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 3, Cardinals 4.
+Bottom of the 8th, Cardinals Batting, Ahead 4-3, Reds' Alan Busenitz facing 6-7-8 
+b8;4-3;0;---;5,(2-2) CF.BBC;O;STL;Andrew Knizner;Alan Busenitz;-1%;85%;Strikeout Looking
+;;;;;;;;;Adam Wainwright pinch hits for José Fermín (3B) batting 7th
+b8;4-3;1;---;5,(0-2) .CSFFS;O;STL;Adam Wainwright;Alan Busenitz;-1%;84%;Strikeout Swinging
+b8;4-3;2;---;5,(1-2) CCBFX;O;STL;Irving Lopez;Alan Busenitz;-1%;83%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Reds 3, Cardinals 4.
+Top of the 9th, Reds Batting, Behind 3-4, Cardinals' Ryan Helsley facing 4-5-6 
+;;;;;;;;;Ryan Helsley replaces John King pitchingJuniel Querecuto replaces Adam Wainwright (PH) playing 3B batting 7th
+t9;3-4;0;---;5,(2-2) ..BFC.BX;O;CIN;Christian Encarnacion-Strand;Ryan Helsley;8%;91%;Groundout: 1B-P (2B-1B)
+t9;3-4;1;---;1,(0-0) X;;CIN;Noelvi Marte;Ryan Helsley;-14%;77%;Double to RF (Line Drive to Deep 1B)
+t9;3-4;1;-2-;1,(0-0) X;;CIN;Will Benson;Ryan Helsley;-15%;62%;Single to RF (Line Drive to Deep RF Line); Marte to 3B
+t9;3-4;1;1-3;3,(0-2) CF>B;;CIN;Nick Senzel;Ryan Helsley;-7%;55%;Benson Steals 2B
+t9;3-4;1;-23;4,(1-2) CF>B.S;O;CIN;Nick Senzel;Ryan Helsley;25%;80%;Strikeout Swinging
+t9;3-4;2;-23;5,(2-2) BFS.*BS;O;CIN;Stuart Fairchild;Ryan Helsley;20%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 2 hits, 0 errors, 2 LOB. Reds 3, Cardinals 4.
