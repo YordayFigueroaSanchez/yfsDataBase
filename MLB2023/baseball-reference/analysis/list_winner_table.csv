@@ -1,0 +1,5531 @@
+date,name,category,value
+30/03/2023,Boston Red Sox,a,0
+30/03/2023,Baltimore Orioles,a,1
+30/03/2023,Chicago Cubs,a,1
+30/03/2023,Milwaukee Brewers,a,0
+30/03/2023,Cincinnati Reds,a,0
+30/03/2023,Pittsburgh Pirates,a,1
+30/03/2023,Houston Astros,a,0
+30/03/2023,Chicago White Sox,a,1
+30/03/2023,Kansas City Royals,a,0
+30/03/2023,Minnesota Twins,a,1
+30/03/2023,Los Angeles Dodgers,a,1
+30/03/2023,Arizona Diamondbacks,a,0
+30/03/2023,Miami Marlins,a,0
+30/03/2023,New York Mets,a,1
+30/03/2023,New York Yankees,a,1
+30/03/2023,San Francisco Giants,a,0
+30/03/2023,Oakland Athletics,a,1
+30/03/2023,Los Angeles Angels,a,0
+30/03/2023,San Diego Padres,a,0
+30/03/2023,Colorado Rockies,a,1
+30/03/2023,Seattle Mariners,a,1
+30/03/2023,Cleveland Guardians,a,0
+30/03/2023,St. Louis Cardinals,a,0
+30/03/2023,Toronto Blue Jays,a,1
+30/03/2023,Tampa Bay Rays,a,1
+30/03/2023,Detroit Tigers,a,0
+30/03/2023,Texas Rangers,a,1
+30/03/2023,Philadelphia Phillies,a,0
+30/03/2023,Washington Nationals,a,0
+30/03/2023,Atlanta Braves,a,1
+31/03/2023,Houston Astros,a,1
+31/03/2023,Chicago White Sox,a,1
+31/03/2023,Los Angeles Dodgers,a,1
+31/03/2023,Arizona Diamondbacks,a,1
+31/03/2023,Miami Marlins,a,1
+31/03/2023,New York Mets,a,1
+31/03/2023,San Diego Padres,a,0
+31/03/2023,Colorado Rockies,a,2
+31/03/2023,Seattle Mariners,a,1
+31/03/2023,Cleveland Guardians,a,1
+31/03/2023,Boston Red Sox,a,0
+31/03/2023,Baltimore Orioles,a,1
+31/03/2023,Chicago Cubs,a,1
+31/03/2023,Milwaukee Brewers,a,0
+31/03/2023,Cincinnati Reds,a,0
+31/03/2023,Pittsburgh Pirates,a,1
+31/03/2023,Kansas City Royals,a,0
+31/03/2023,Minnesota Twins,a,1
+31/03/2023,New York Yankees,a,1
+31/03/2023,San Francisco Giants,a,0
+31/03/2023,Oakland Athletics,a,1
+31/03/2023,Los Angeles Angels,a,0
+31/03/2023,St. Louis Cardinals,a,0
+31/03/2023,Toronto Blue Jays,a,1
+31/03/2023,Tampa Bay Rays,a,1
+31/03/2023,Detroit Tigers,a,0
+31/03/2023,Texas Rangers,a,1
+31/03/2023,Philadelphia Phillies,a,0
+31/03/2023,Washington Nationals,a,0
+31/03/2023,Atlanta Braves,a,1
+01/04/2023,Boston Red Sox,a,1
+01/04/2023,Baltimore Orioles,a,1
+01/04/2023,Chicago Cubs,a,1
+01/04/2023,Milwaukee Brewers,a,1
+01/04/2023,Cincinnati Reds,a,1
+01/04/2023,Pittsburgh Pirates,a,1
+01/04/2023,Houston Astros,a,2
+01/04/2023,Chicago White Sox,a,1
+01/04/2023,Kansas City Royals,a,0
+01/04/2023,Minnesota Twins,a,2
+01/04/2023,Los Angeles Dodgers,a,2
+01/04/2023,Arizona Diamondbacks,a,1
+01/04/2023,Miami Marlins,a,1
+01/04/2023,New York Mets,a,2
+01/04/2023,New York Yankees,a,1
+01/04/2023,San Francisco Giants,a,1
+01/04/2023,Oakland Athletics,a,1
+01/04/2023,Los Angeles Angels,a,1
+01/04/2023,San Diego Padres,a,1
+01/04/2023,Colorado Rockies,a,2
+01/04/2023,Seattle Mariners,a,1
+01/04/2023,Cleveland Guardians,a,2
+01/04/2023,St. Louis Cardinals,a,1
+01/04/2023,Toronto Blue Jays,a,1
+01/04/2023,Tampa Bay Rays,a,2
+01/04/2023,Detroit Tigers,a,0
+01/04/2023,Texas Rangers,a,2
+01/04/2023,Philadelphia Phillies,a,0
+01/04/2023,Washington Nationals,a,0
+01/04/2023,Atlanta Braves,a,2
+02/04/2023,Boston Red Sox,a,2
+02/04/2023,Baltimore Orioles,a,1
+02/04/2023,Chicago Cubs,a,1
+02/04/2023,Milwaukee Brewers,a,2
+02/04/2023,Cincinnati Reds,a,2
+02/04/2023,Pittsburgh Pirates,a,1
+02/04/2023,Houston Astros,a,2
+02/04/2023,Chicago White Sox,a,2
+02/04/2023,Kansas City Royals,a,0
+02/04/2023,Minnesota Twins,a,3
+02/04/2023,Los Angeles Dodgers,a,2
+02/04/2023,Arizona Diamondbacks,a,2
+02/04/2023,Miami Marlins,a,1
+02/04/2023,New York Mets,a,3
+02/04/2023,New York Yankees,a,2
+02/04/2023,San Francisco Giants,a,1
+02/04/2023,Oakland Athletics,a,1
+02/04/2023,Los Angeles Angels,a,2
+02/04/2023,San Diego Padres,a,2
+02/04/2023,Colorado Rockies,a,2
+02/04/2023,Seattle Mariners,a,1
+02/04/2023,Cleveland Guardians,a,3
+02/04/2023,St. Louis Cardinals,a,2
+02/04/2023,Toronto Blue Jays,a,1
+02/04/2023,Tampa Bay Rays,a,3
+02/04/2023,Detroit Tigers,a,0
+02/04/2023,Texas Rangers,a,3
+02/04/2023,Philadelphia Phillies,a,0
+02/04/2023,Washington Nationals,a,1
+02/04/2023,Atlanta Braves,a,2
+03/04/2023,Boston Red Sox,a,2
+03/04/2023,Pittsburgh Pirates,a,2
+03/04/2023,Chicago White Sox,a,2
+03/04/2023,San Francisco Giants,a,2
+03/04/2023,Cincinnati Reds,a,3
+03/04/2023,Chicago Cubs,a,1
+03/04/2023,Houston Astros,a,2
+03/04/2023,Detroit Tigers,a,1
+03/04/2023,Kansas City Royals,a,1
+03/04/2023,Toronto Blue Jays,a,1
+03/04/2023,Los Angeles Dodgers,a,3
+03/04/2023,Colorado Rockies,a,2
+03/04/2023,Miami Marlins,a,1
+03/04/2023,Minnesota Twins,a,4
+03/04/2023,Milwaukee Brewers,a,3
+03/04/2023,New York Mets,a,3
+03/04/2023,New York Yankees,a,3
+03/04/2023,Philadelphia Phillies,a,0
+03/04/2023,Oakland Athletics,a,1
+03/04/2023,Cleveland Guardians,a,4
+03/04/2023,San Diego Padres,a,3
+03/04/2023,Arizona Diamondbacks,a,2
+03/04/2023,Seattle Mariners,a,1
+03/04/2023,Los Angeles Angels,a,3
+03/04/2023,St. Louis Cardinals,a,2
+03/04/2023,Atlanta Braves,a,3
+03/04/2023,Texas Rangers,a,3
+03/04/2023,Baltimore Orioles,a,2
+03/04/2023,Washington Nationals,a,1
+03/04/2023,Tampa Bay Rays,a,4
+04/04/2023,Boston Red Sox,a,2
+04/04/2023,Pittsburgh Pirates,a,3
+04/04/2023,Cincinnati Reds,a,3
+04/04/2023,Chicago Cubs,a,2
+04/04/2023,Houston Astros,a,2
+04/04/2023,Detroit Tigers,a,2
+04/04/2023,Kansas City Royals,a,1
+04/04/2023,Toronto Blue Jays,a,2
+04/04/2023,Los Angeles Dodgers,a,4
+04/04/2023,Colorado Rockies,a,2
+04/04/2023,Miami Marlins,a,2
+04/04/2023,Minnesota Twins,a,4
+04/04/2023,Milwaukee Brewers,a,4
+04/04/2023,New York Mets,a,3
+04/04/2023,New York Yankees,a,3
+04/04/2023,Philadelphia Phillies,a,1
+04/04/2023,Oakland Athletics,a,2
+04/04/2023,Cleveland Guardians,a,4
+04/04/2023,San Diego Padres,a,3
+04/04/2023,Arizona Diamondbacks,a,3
+04/04/2023,Seattle Mariners,a,2
+04/04/2023,Los Angeles Angels,a,3
+04/04/2023,St. Louis Cardinals,a,2
+04/04/2023,Atlanta Braves,a,4
+04/04/2023,Texas Rangers,a,3
+04/04/2023,Baltimore Orioles,a,3
+04/04/2023,Washington Nationals,a,1
+04/04/2023,Tampa Bay Rays,a,5
+04/04/2023,Chicago White Sox,a,2
+04/04/2023,San Francisco Giants,a,2
+05/04/2023,Boston Red Sox,a,2
+05/04/2023,Pittsburgh Pirates,a,4
+05/04/2023,Chicago White Sox,a,3
+05/04/2023,San Francisco Giants,a,2
+05/04/2023,Houston Astros,a,3
+05/04/2023,Detroit Tigers,a,2
+05/04/2023,Kansas City Royals,a,1
+05/04/2023,Toronto Blue Jays,a,3
+05/04/2023,Miami Marlins,a,3
+05/04/2023,Minnesota Twins,a,4
+05/04/2023,Milwaukee Brewers,a,5
+05/04/2023,New York Mets,a,3
+05/04/2023,New York Yankees,a,4
+05/04/2023,Philadelphia Phillies,a,1
+05/04/2023,Oakland Athletics,a,2
+05/04/2023,Cleveland Guardians,a,5
+05/04/2023,Seattle Mariners,a,2
+05/04/2023,Los Angeles Angels,a,4
+05/04/2023,St. Louis Cardinals,a,2
+05/04/2023,Atlanta Braves,a,5
+05/04/2023,Texas Rangers,a,4
+05/04/2023,Baltimore Orioles,a,3
+05/04/2023,Washington Nationals,a,1
+05/04/2023,Tampa Bay Rays,a,6
+05/04/2023,Chicago Cubs,a,2
+05/04/2023,Cincinnati Reds,a,3
+05/04/2023,Los Angeles Dodgers,a,4
+05/04/2023,Arizona Diamondbacks,a,3
+05/04/2023,San Diego Padres,a,3
+05/04/2023,Colorado Rockies,a,2
+06/04/2023,Arizona Diamondbacks,a,3
+06/04/2023,Los Angeles Dodgers,a,5
+06/04/2023,Atlanta Braves,a,6
+06/04/2023,San Diego Padres,a,3
+06/04/2023,Chicago White Sox,a,3
+06/04/2023,San Francisco Giants,a,3
+06/04/2023,Colorado Rockies,a,3
+06/04/2023,Washington Nationals,a,1
+06/04/2023,Detroit Tigers,a,2
+06/04/2023,Boston Red Sox,a,3
+06/04/2023,Kansas City Royals,a,1
+06/04/2023,Toronto Blue Jays,a,4
+06/04/2023,Baltimore Orioles,a,3
+06/04/2023,Chicago Cubs,a,2
+06/04/2023,Milwaukee Brewers,a,5
+06/04/2023,Cincinnati Reds,a,3
+06/04/2023,Pittsburgh Pirates,a,4
+06/04/2023,Houston Astros,a,3
+06/04/2023,Minnesota Twins,a,4
+06/04/2023,Miami Marlins,a,3
+06/04/2023,New York Mets,a,3
+06/04/2023,New York Yankees,a,4
+06/04/2023,Oakland Athletics,a,2
+06/04/2023,Los Angeles Angels,a,4
+06/04/2023,Seattle Mariners,a,2
+06/04/2023,Cleveland Guardians,a,5
+06/04/2023,St. Louis Cardinals,a,2
+06/04/2023,Tampa Bay Rays,a,6
+06/04/2023,Texas Rangers,a,4
+06/04/2023,Philadelphia Phillies,a,1
+07/04/2023,Los Angeles Angels,a,4
+07/04/2023,Toronto Blue Jays,a,5
+07/04/2023,Arizona Diamondbacks,a,4
+07/04/2023,Los Angeles Dodgers,a,5
+07/04/2023,Atlanta Braves,a,6
+07/04/2023,San Diego Padres,a,4
+07/04/2023,Baltimore Orioles,a,4
+07/04/2023,New York Yankees,a,4
+07/04/2023,Chicago Cubs,a,3
+07/04/2023,Texas Rangers,a,4
+07/04/2023,Cleveland Guardians,a,5
+07/04/2023,Seattle Mariners,a,3
+07/04/2023,Colorado Rockies,a,3
+07/04/2023,Washington Nationals,a,2
+07/04/2023,Milwaukee Brewers,a,6
+07/04/2023,St. Louis Cardinals,a,2
+07/04/2023,Minnesota Twins,a,5
+07/04/2023,Houston Astros,a,3
+07/04/2023,New York Mets,a,4
+07/04/2023,Miami Marlins,a,3
+07/04/2023,Philadelphia Phillies,a,2
+07/04/2023,Cincinnati Reds,a,3
+07/04/2023,Pittsburgh Pirates,a,5
+07/04/2023,Chicago White Sox,a,3
+07/04/2023,San Francisco Giants,a,3
+07/04/2023,Kansas City Royals,a,2
+07/04/2023,Tampa Bay Rays,a,7
+07/04/2023,Oakland Athletics,a,2
+07/04/2023,Boston Red Sox,a,3
+07/04/2023,Detroit Tigers,a,2
+08/04/2023,Los Angeles Angels,a,5
+08/04/2023,Toronto Blue Jays,a,5
+08/04/2023,Arizona Diamondbacks,a,5
+08/04/2023,Los Angeles Dodgers,a,5
+08/04/2023,Atlanta Braves,a,6
+08/04/2023,San Diego Padres,a,5
+08/04/2023,Baltimore Orioles,a,4
+08/04/2023,New York Yankees,a,5
+08/04/2023,Chicago Cubs,a,4
+08/04/2023,Texas Rangers,a,4
+08/04/2023,Cleveland Guardians,a,5
+08/04/2023,Seattle Mariners,a,4
+08/04/2023,Colorado Rockies,a,3
+08/04/2023,Washington Nationals,a,3
+08/04/2023,Detroit Tigers,a,2
+08/04/2023,Boston Red Sox,a,4
+08/04/2023,Milwaukee Brewers,a,6
+08/04/2023,St. Louis Cardinals,a,3
+08/04/2023,Minnesota Twins,a,6
+08/04/2023,Houston Astros,a,3
+08/04/2023,New York Mets,a,5
+08/04/2023,Miami Marlins,a,3
+08/04/2023,Philadelphia Phillies,a,3
+08/04/2023,Cincinnati Reds,a,3
+08/04/2023,Pittsburgh Pirates,a,5
+08/04/2023,Chicago White Sox,a,4
+08/04/2023,San Francisco Giants,a,3
+08/04/2023,Kansas City Royals,a,3
+08/04/2023,Tampa Bay Rays,a,8
+08/04/2023,Oakland Athletics,a,2
+09/04/2023,Los Angeles Angels,a,5
+09/04/2023,Toronto Blue Jays,a,6
+09/04/2023,Arizona Diamondbacks,a,6
+09/04/2023,Los Angeles Dodgers,a,5
+09/04/2023,Atlanta Braves,a,6
+09/04/2023,San Diego Padres,a,6
+09/04/2023,Baltimore Orioles,a,4
+09/04/2023,New York Yankees,a,6
+09/04/2023,Chicago Cubs,a,4
+09/04/2023,Texas Rangers,a,5
+09/04/2023,Cleveland Guardians,a,6
+09/04/2023,Seattle Mariners,a,4
+09/04/2023,Colorado Rockies,a,4
+09/04/2023,Washington Nationals,a,3
+09/04/2023,Detroit Tigers,a,2
+09/04/2023,Boston Red Sox,a,5
+09/04/2023,Milwaukee Brewers,a,7
+09/04/2023,St. Louis Cardinals,a,3
+09/04/2023,Minnesota Twins,a,6
+09/04/2023,Houston Astros,a,4
+09/04/2023,New York Mets,a,5
+09/04/2023,Miami Marlins,a,4
+09/04/2023,Philadelphia Phillies,a,3
+09/04/2023,Cincinnati Reds,a,4
+09/04/2023,Pittsburgh Pirates,a,6
+09/04/2023,Chicago White Sox,a,4
+09/04/2023,San Francisco Giants,a,4
+09/04/2023,Kansas City Royals,a,3
+09/04/2023,Tampa Bay Rays,a,9
+09/04/2023,Oakland Athletics,a,2
+10/04/2023,Los Angeles Angels,a,5
+10/04/2023,Washington Nationals,a,4
+10/04/2023,Arizona Diamondbacks,a,7
+10/04/2023,Milwaukee Brewers,a,7
+10/04/2023,Atlanta Braves,a,7
+10/04/2023,Cincinnati Reds,a,4
+10/04/2023,Baltimore Orioles,a,5
+10/04/2023,Oakland Athletics,a,2
+10/04/2023,Chicago Cubs,a,5
+10/04/2023,Seattle Mariners,a,4
+10/04/2023,Cleveland Guardians,a,7
+10/04/2023,New York Yankees,a,6
+10/04/2023,Colorado Rockies,a,5
+10/04/2023,St. Louis Cardinals,a,3
+10/04/2023,Minnesota Twins,a,6
+10/04/2023,Chicago White Sox,a,5
+10/04/2023,New York Mets,a,6
+10/04/2023,San Diego Padres,a,6
+10/04/2023,Philadelphia Phillies,a,4
+10/04/2023,Miami Marlins,a,4
+10/04/2023,Pittsburgh Pirates,a,6
+10/04/2023,Houston Astros,a,5
+10/04/2023,San Francisco Giants,a,4
+10/04/2023,Los Angeles Dodgers,a,6
+10/04/2023,Tampa Bay Rays,a,10
+10/04/2023,Boston Red Sox,a,5
+10/04/2023,Texas Rangers,a,6
+10/04/2023,Kansas City Royals,a,3
+10/04/2023,Toronto Blue Jays,a,6
+10/04/2023,Detroit Tigers,a,2
+11/04/2023,Los Angeles Angels,a,6
+11/04/2023,Washington Nationals,a,4
+11/04/2023,Arizona Diamondbacks,a,7
+11/04/2023,Milwaukee Brewers,a,8
+11/04/2023,Atlanta Braves,a,8
+11/04/2023,Cincinnati Reds,a,4
+11/04/2023,Baltimore Orioles,a,6
+11/04/2023,Oakland Athletics,a,2
+11/04/2023,Chicago Cubs,a,6
+11/04/2023,Seattle Mariners,a,4
+11/04/2023,Cleveland Guardians,a,7
+11/04/2023,New York Yankees,a,7
+11/04/2023,Colorado Rockies,a,5
+11/04/2023,St. Louis Cardinals,a,4
+11/04/2023,Minnesota Twins,a,7
+11/04/2023,Chicago White Sox,a,5
+11/04/2023,New York Mets,a,6
+11/04/2023,San Diego Padres,a,7
+11/04/2023,Philadelphia Phillies,a,4
+11/04/2023,Miami Marlins,a,5
+11/04/2023,Pittsburgh Pirates,a,7
+11/04/2023,Houston Astros,a,5
+11/04/2023,San Francisco Giants,a,5
+11/04/2023,Los Angeles Dodgers,a,6
+11/04/2023,Tampa Bay Rays,a,11
+11/04/2023,Boston Red Sox,a,5
+11/04/2023,Texas Rangers,a,7
+11/04/2023,Kansas City Royals,a,3
+11/04/2023,Toronto Blue Jays,a,7
+11/04/2023,Detroit Tigers,a,2
+12/04/2023,Los Angeles Angels,a,7
+12/04/2023,Washington Nationals,a,4
+12/04/2023,Arizona Diamondbacks,a,8
+12/04/2023,Milwaukee Brewers,a,8
+12/04/2023,Atlanta Braves,a,9
+12/04/2023,Cincinnati Reds,a,4
+12/04/2023,Baltimore Orioles,a,6
+12/04/2023,Oakland Athletics,a,3
+12/04/2023,Chicago Cubs,a,6
+12/04/2023,Seattle Mariners,a,5
+12/04/2023,Cleveland Guardians,a,7
+12/04/2023,New York Yankees,a,8
+12/04/2023,Colorado Rockies,a,5
+12/04/2023,St. Louis Cardinals,a,5
+12/04/2023,Minnesota Twins,a,8
+12/04/2023,Chicago White Sox,a,5
+12/04/2023,New York Mets,a,7
+12/04/2023,San Diego Padres,a,7
+12/04/2023,Philadelphia Phillies,a,4
+12/04/2023,Miami Marlins,a,6
+12/04/2023,Pittsburgh Pirates,a,7
+12/04/2023,Houston Astros,a,6
+12/04/2023,San Francisco Giants,a,5
+12/04/2023,Los Angeles Dodgers,a,7
+12/04/2023,Tampa Bay Rays,a,12
+12/04/2023,Boston Red Sox,a,5
+12/04/2023,Texas Rangers,a,7
+12/04/2023,Kansas City Royals,a,4
+12/04/2023,Toronto Blue Jays,a,8
+12/04/2023,Detroit Tigers,a,2
+13/04/2023,Baltimore Orioles,a,7
+13/04/2023,Oakland Athletics,a,3
+13/04/2023,Cincinnati Reds,a,5
+13/04/2023,Philadelphia Phillies,a,4
+13/04/2023,New York Yankees,a,8
+13/04/2023,Minnesota Twins,a,9
+13/04/2023,San Diego Padres,a,7
+13/04/2023,Milwaukee Brewers,a,9
+13/04/2023,St. Louis Cardinals,a,5
+13/04/2023,Pittsburgh Pirates,a,8
+13/04/2023,Tampa Bay Rays,a,13
+13/04/2023,Boston Red Sox,a,5
+13/04/2023,Toronto Blue Jays,a,8
+13/04/2023,Detroit Tigers,a,3
+13/04/2023,Chicago Cubs,a,6
+13/04/2023,Houston Astros,a,6
+13/04/2023,Chicago White Sox,a,5
+13/04/2023,Kansas City Royals,a,4
+13/04/2023,Los Angeles Dodgers,a,7
+13/04/2023,Arizona Diamondbacks,a,8
+13/04/2023,Miami Marlins,a,6
+13/04/2023,New York Mets,a,7
+13/04/2023,San Francisco Giants,a,5
+13/04/2023,Los Angeles Angels,a,7
+13/04/2023,Colorado Rockies,a,5
+13/04/2023,Seattle Mariners,a,5
+13/04/2023,Cleveland Guardians,a,7
+13/04/2023,Texas Rangers,a,7
+13/04/2023,Washington Nationals,a,4
+13/04/2023,Atlanta Braves,a,9
+14/04/2023,Boston Red Sox,a,6
+14/04/2023,Los Angeles Angels,a,7
+14/04/2023,Chicago White Sox,a,5
+14/04/2023,Baltimore Orioles,a,8
+14/04/2023,Cincinnati Reds,a,5
+14/04/2023,Philadelphia Phillies,a,5
+14/04/2023,Detroit Tigers,a,4
+14/04/2023,San Francisco Giants,a,5
+14/04/2023,Houston Astros,a,6
+14/04/2023,Texas Rangers,a,8
+14/04/2023,Kansas City Royals,a,4
+14/04/2023,Atlanta Braves,a,10
+14/04/2023,Los Angeles Dodgers,a,7
+14/04/2023,Chicago Cubs,a,7
+14/04/2023,Miami Marlins,a,7
+14/04/2023,Arizona Diamondbacks,a,8
+14/04/2023,New York Yankees,a,8
+14/04/2023,Minnesota Twins,a,10
+14/04/2023,Oakland Athletics,a,3
+14/04/2023,New York Mets,a,8
+14/04/2023,San Diego Padres,a,7
+14/04/2023,Milwaukee Brewers,a,10
+14/04/2023,Seattle Mariners,a,6
+14/04/2023,Colorado Rockies,a,5
+14/04/2023,St. Louis Cardinals,a,6
+14/04/2023,Pittsburgh Pirates,a,8
+14/04/2023,Toronto Blue Jays,a,9
+14/04/2023,Tampa Bay Rays,a,13
+14/04/2023,Washington Nationals,a,4
+14/04/2023,Cleveland Guardians,a,8
+15/04/2023,Boston Red Sox,a,7
+15/04/2023,Los Angeles Angels,a,7
+15/04/2023,Chicago White Sox,a,6
+15/04/2023,Baltimore Orioles,a,8
+15/04/2023,Cincinnati Reds,a,6
+15/04/2023,Philadelphia Phillies,a,5
+15/04/2023,Detroit Tigers,a,5
+15/04/2023,San Francisco Giants,a,5
+15/04/2023,Houston Astros,a,7
+15/04/2023,Texas Rangers,a,8
+15/04/2023,Kansas City Royals,a,4
+15/04/2023,Atlanta Braves,a,11
+15/04/2023,Los Angeles Dodgers,a,8
+15/04/2023,Chicago Cubs,a,7
+15/04/2023,Miami Marlins,a,8
+15/04/2023,Arizona Diamondbacks,a,8
+15/04/2023,New York Yankees,a,9
+15/04/2023,Minnesota Twins,a,10
+15/04/2023,Oakland Athletics,a,3
+15/04/2023,New York Mets,a,9
+15/04/2023,San Diego Padres,a,8
+15/04/2023,Milwaukee Brewers,a,10
+15/04/2023,Seattle Mariners,a,7
+15/04/2023,Colorado Rockies,a,5
+15/04/2023,St. Louis Cardinals,a,6
+15/04/2023,Pittsburgh Pirates,a,9
+15/04/2023,Toronto Blue Jays,a,10
+15/04/2023,Tampa Bay Rays,a,13
+15/04/2023,Washington Nationals,a,4
+15/04/2023,Cleveland Guardians,a,9
+16/04/2023,Boston Red Sox,a,8
+16/04/2023,Los Angeles Angels,a,7
+16/04/2023,Chicago White Sox,a,6
+16/04/2023,Baltimore Orioles,a,9
+16/04/2023,Cincinnati Reds,a,6
+16/04/2023,Philadelphia Phillies,a,6
+16/04/2023,Houston Astros,a,7
+16/04/2023,Texas Rangers,a,9
+16/04/2023,Kansas City Royals,a,4
+16/04/2023,Atlanta Braves,a,12
+16/04/2023,Los Angeles Dodgers,a,8
+16/04/2023,Chicago Cubs,a,8
+16/04/2023,Miami Marlins,a,8
+16/04/2023,Arizona Diamondbacks,a,9
+16/04/2023,New York Yankees,a,10
+16/04/2023,Minnesota Twins,a,10
+16/04/2023,Oakland Athletics,a,3
+16/04/2023,New York Mets,a,10
+16/04/2023,San Diego Padres,a,8
+16/04/2023,Milwaukee Brewers,a,11
+16/04/2023,Seattle Mariners,a,8
+16/04/2023,Colorado Rockies,a,5
+16/04/2023,St. Louis Cardinals,a,7
+16/04/2023,Pittsburgh Pirates,a,9
+16/04/2023,Toronto Blue Jays,a,10
+16/04/2023,Tampa Bay Rays,a,14
+16/04/2023,Washington Nationals,a,5
+16/04/2023,Cleveland Guardians,a,9
+16/04/2023,San Francisco Giants,a,5
+16/04/2023,Detroit Tigers,a,5
+17/04/2023,Boston Red Sox,a,8
+17/04/2023,Los Angeles Angels,a,8
+17/04/2023,Cincinnati Reds,a,7
+17/04/2023,Tampa Bay Rays,a,14
+17/04/2023,Colorado Rockies,a,5
+17/04/2023,Pittsburgh Pirates,a,10
+17/04/2023,Houston Astros,a,8
+17/04/2023,Toronto Blue Jays,a,10
+17/04/2023,Kansas City Royals,a,4
+17/04/2023,Texas Rangers,a,10
+17/04/2023,Los Angeles Dodgers,a,8
+17/04/2023,New York Mets,a,11
+17/04/2023,Miami Marlins,a,9
+17/04/2023,San Francisco Giants,a,5
+17/04/2023,Oakland Athletics,a,3
+17/04/2023,Chicago Cubs,a,9
+17/04/2023,San Diego Padres,a,8
+17/04/2023,Atlanta Braves,a,13
+17/04/2023,Seattle Mariners,a,8
+17/04/2023,Milwaukee Brewers,a,12
+17/04/2023,St. Louis Cardinals,a,7
+17/04/2023,Arizona Diamondbacks,a,10
+17/04/2023,Baltimore Orioles,a,9
+17/04/2023,Chicago White Sox,a,6
+17/04/2023,Minnesota Twins,a,10
+17/04/2023,New York Yankees,a,10
+17/04/2023,Cleveland Guardians,a,9
+17/04/2023,Detroit Tigers,a,5
+17/04/2023,Philadelphia Phillies,a,6
+17/04/2023,Washington Nationals,a,5
+18/04/2023,Boston Red Sox,a,9
+18/04/2023,Minnesota Twins,a,10
+18/04/2023,Chicago White Sox,a,6
+18/04/2023,Philadelphia Phillies,a,7
+18/04/2023,Chicago White Sox,a,7
+18/04/2023,Philadelphia Phillies,a,7
+18/04/2023,Cincinnati Reds,a,7
+18/04/2023,Tampa Bay Rays,a,15
+18/04/2023,Colorado Rockies,a,5
+18/04/2023,Pittsburgh Pirates,a,11
+18/04/2023,Detroit Tigers,a,6
+18/04/2023,Cleveland Guardians,a,9
+18/04/2023,Detroit Tigers,a,7
+18/04/2023,Cleveland Guardians,a,9
+18/04/2023,Houston Astros,a,8
+18/04/2023,Toronto Blue Jays,a,11
+18/04/2023,Kansas City Royals,a,4
+18/04/2023,Texas Rangers,a,11
+18/04/2023,Los Angeles Dodgers,a,9
+18/04/2023,New York Mets,a,11
+18/04/2023,Miami Marlins,a,10
+18/04/2023,San Francisco Giants,a,5
+18/04/2023,New York Yankees,a,10
+18/04/2023,Los Angeles Angels,a,9
+18/04/2023,Oakland Athletics,a,3
+18/04/2023,Chicago Cubs,a,10
+18/04/2023,San Diego Padres,a,8
+18/04/2023,Atlanta Braves,a,14
+18/04/2023,Seattle Mariners,a,8
+18/04/2023,Milwaukee Brewers,a,13
+18/04/2023,St. Louis Cardinals,a,7
+18/04/2023,Arizona Diamondbacks,a,11
+18/04/2023,Washington Nationals,a,5
+18/04/2023,Baltimore Orioles,a,10
+19/04/2023,Boston Red Sox,a,9
+19/04/2023,Minnesota Twins,a,11
+19/04/2023,Chicago White Sox,a,7
+19/04/2023,Philadelphia Phillies,a,8
+19/04/2023,Cincinnati Reds,a,7
+19/04/2023,Tampa Bay Rays,a,16
+19/04/2023,Colorado Rockies,a,5
+19/04/2023,Pittsburgh Pirates,a,12
+19/04/2023,Detroit Tigers,a,7
+19/04/2023,Cleveland Guardians,a,10
+19/04/2023,Houston Astros,a,9
+19/04/2023,Toronto Blue Jays,a,11
+19/04/2023,Kansas City Royals,a,4
+19/04/2023,Texas Rangers,a,12
+19/04/2023,Los Angeles Dodgers,a,9
+19/04/2023,New York Mets,a,12
+19/04/2023,Miami Marlins,a,10
+19/04/2023,San Francisco Giants,a,6
+19/04/2023,New York Yankees,a,11
+19/04/2023,Los Angeles Angels,a,9
+19/04/2023,Oakland Athletics,a,3
+19/04/2023,Chicago Cubs,a,11
+19/04/2023,San Diego Padres,a,9
+19/04/2023,Atlanta Braves,a,14
+19/04/2023,Seattle Mariners,a,8
+19/04/2023,Milwaukee Brewers,a,14
+19/04/2023,St. Louis Cardinals,a,8
+19/04/2023,Arizona Diamondbacks,a,11
+19/04/2023,Washington Nationals,a,5
+19/04/2023,Baltimore Orioles,a,11
+20/04/2023,Arizona Diamondbacks,a,11
+20/04/2023,San Diego Padres,a,10
+20/04/2023,Boston Red Sox,a,10
+20/04/2023,Minnesota Twins,a,11
+20/04/2023,Chicago Cubs,a,11
+20/04/2023,Los Angeles Dodgers,a,10
+20/04/2023,New York Yankees,a,12
+20/04/2023,Los Angeles Angels,a,9
+20/04/2023,Philadelphia Phillies,a,8
+20/04/2023,Colorado Rockies,a,6
+20/04/2023,Pittsburgh Pirates,a,13
+20/04/2023,Cincinnati Reds,a,7
+20/04/2023,San Francisco Giants,a,6
+20/04/2023,New York Mets,a,13
+20/04/2023,Baltimore Orioles,a,11
+20/04/2023,Milwaukee Brewers,a,14
+20/04/2023,Houston Astros,a,9
+20/04/2023,Chicago White Sox,a,7
+20/04/2023,Kansas City Royals,a,4
+20/04/2023,Miami Marlins,a,10
+20/04/2023,Oakland Athletics,a,3
+20/04/2023,Seattle Mariners,a,8
+20/04/2023,Cleveland Guardians,a,10
+20/04/2023,St. Louis Cardinals,a,8
+20/04/2023,Toronto Blue Jays,a,11
+20/04/2023,Tampa Bay Rays,a,16
+20/04/2023,Detroit Tigers,a,7
+20/04/2023,Texas Rangers,a,12
+20/04/2023,Washington Nationals,a,5
+20/04/2023,Atlanta Braves,a,14
+21/04/2023,Los Angeles Angels,a,10
+21/04/2023,Kansas City Royals,a,4
+21/04/2023,Arizona Diamondbacks,a,12
+21/04/2023,San Diego Padres,a,10
+21/04/2023,Atlanta Braves,a,14
+21/04/2023,Houston Astros,a,10
+21/04/2023,Baltimore Orioles,a,12
+21/04/2023,Detroit Tigers,a,7
+21/04/2023,Chicago Cubs,a,12
+21/04/2023,Los Angeles Dodgers,a,10
+21/04/2023,Milwaukee Brewers,a,14
+21/04/2023,Boston Red Sox,a,11
+21/04/2023,Minnesota Twins,a,11
+21/04/2023,Washington Nationals,a,6
+21/04/2023,New York Yankees,a,12
+21/04/2023,Toronto Blue Jays,a,12
+21/04/2023,Philadelphia Phillies,a,9
+21/04/2023,Colorado Rockies,a,6
+21/04/2023,Pittsburgh Pirates,a,14
+21/04/2023,Cincinnati Reds,a,7
+21/04/2023,Seattle Mariners,a,9
+21/04/2023,St. Louis Cardinals,a,8
+21/04/2023,San Francisco Giants,a,6
+21/04/2023,New York Mets,a,14
+21/04/2023,Tampa Bay Rays,a,17
+21/04/2023,Chicago White Sox,a,7
+21/04/2023,Texas Rangers,a,12
+21/04/2023,Oakland Athletics,a,4
+21/04/2023,Miami Marlins,a,10
+21/04/2023,Cleveland Guardians,a,10
+22/04/2023,Los Angeles Angels,a,10
+22/04/2023,Kansas City Royals,a,5
+22/04/2023,Arizona Diamondbacks,a,12
+22/04/2023,San Diego Padres,a,11
+22/04/2023,Atlanta Braves,a,14
+22/04/2023,Houston Astros,a,11
+22/04/2023,Baltimore Orioles,a,13
+22/04/2023,Detroit Tigers,a,7
+22/04/2023,Chicago Cubs,a,12
+22/04/2023,Los Angeles Dodgers,a,11
+22/04/2023,Cleveland Guardians,a,10
+22/04/2023,Miami Marlins,a,11
+22/04/2023,Cleveland Guardians,a,10
+22/04/2023,Miami Marlins,a,12
+22/04/2023,Milwaukee Brewers,a,15
+22/04/2023,Boston Red Sox,a,11
+22/04/2023,Minnesota Twins,a,11
+22/04/2023,Washington Nationals,a,7
+22/04/2023,New York Yankees,a,13
+22/04/2023,Toronto Blue Jays,a,12
+22/04/2023,Philadelphia Phillies,a,10
+22/04/2023,Colorado Rockies,a,6
+22/04/2023,Pittsburgh Pirates,a,15
+22/04/2023,Cincinnati Reds,a,7
+22/04/2023,Seattle Mariners,a,10
+22/04/2023,St. Louis Cardinals,a,8
+22/04/2023,San Francisco Giants,a,7
+22/04/2023,New York Mets,a,14
+22/04/2023,Tampa Bay Rays,a,18
+22/04/2023,Chicago White Sox,a,7
+22/04/2023,Texas Rangers,a,13
+22/04/2023,Oakland Athletics,a,4
+23/04/2023,Los Angeles Angels,a,11
+23/04/2023,Kansas City Royals,a,5
+23/04/2023,Arizona Diamondbacks,a,12
+23/04/2023,San Diego Padres,a,12
+23/04/2023,Atlanta Braves,a,14
+23/04/2023,Houston Astros,a,12
+23/04/2023,Baltimore Orioles,a,14
+23/04/2023,Detroit Tigers,a,7
+23/04/2023,Chicago Cubs,a,12
+23/04/2023,Los Angeles Dodgers,a,12
+23/04/2023,Cleveland Guardians,a,11
+23/04/2023,Miami Marlins,a,12
+23/04/2023,Milwaukee Brewers,a,15
+23/04/2023,Boston Red Sox,a,12
+23/04/2023,Minnesota Twins,a,12
+23/04/2023,Washington Nationals,a,7
+23/04/2023,New York Yankees,a,13
+23/04/2023,Toronto Blue Jays,a,13
+23/04/2023,Philadelphia Phillies,a,11
+23/04/2023,Colorado Rockies,a,6
+23/04/2023,Pittsburgh Pirates,a,16
+23/04/2023,Cincinnati Reds,a,7
+23/04/2023,Seattle Mariners,a,10
+23/04/2023,St. Louis Cardinals,a,9
+23/04/2023,San Francisco Giants,a,8
+23/04/2023,New York Mets,a,14
+23/04/2023,Tampa Bay Rays,a,19
+23/04/2023,Chicago White Sox,a,7
+23/04/2023,Texas Rangers,a,14
+23/04/2023,Oakland Athletics,a,4
+24/04/2023,Los Angeles Angels,a,11
+24/04/2023,Oakland Athletics,a,5
+24/04/2023,Arizona Diamondbacks,a,13
+24/04/2023,Kansas City Royals,a,5
+24/04/2023,Atlanta Braves,a,15
+24/04/2023,Miami Marlins,a,12
+24/04/2023,Baltimore Orioles,a,15
+24/04/2023,Boston Red Sox,a,12
+24/04/2023,Cincinnati Reds,a,8
+24/04/2023,Texas Rangers,a,14
+24/04/2023,Cleveland Guardians,a,11
+24/04/2023,Colorado Rockies,a,7
+24/04/2023,Milwaukee Brewers,a,15
+24/04/2023,Detroit Tigers,a,8
+24/04/2023,Minnesota Twins,a,13
+24/04/2023,New York Yankees,a,13
+24/04/2023,San Francisco Giants,a,9
+24/04/2023,St. Louis Cardinals,a,9
+24/04/2023,Tampa Bay Rays,a,20
+24/04/2023,Houston Astros,a,12
+24/04/2023,Toronto Blue Jays,a,14
+24/04/2023,Chicago White Sox,a,7
+24/04/2023,Chicago Cubs,a,12
+24/04/2023,Pittsburgh Pirates,a,16
+24/04/2023,Los Angeles Dodgers,a,12
+24/04/2023,New York Mets,a,14
+24/04/2023,San Diego Padres,a,12
+24/04/2023,Seattle Mariners,a,10
+24/04/2023,Philadelphia Phillies,a,11
+24/04/2023,Washington Nationals,a,7
+25/04/2023,Los Angeles Angels,a,12
+25/04/2023,Oakland Athletics,a,5
+25/04/2023,Arizona Diamondbacks,a,13
+25/04/2023,Kansas City Royals,a,6
+25/04/2023,Atlanta Braves,a,16
+25/04/2023,Miami Marlins,a,12
+25/04/2023,Baltimore Orioles,a,15
+25/04/2023,Boston Red Sox,a,13
+25/04/2023,Chicago Cubs,a,13
+25/04/2023,San Diego Padres,a,12
+25/04/2023,Cincinnati Reds,a,9
+25/04/2023,Texas Rangers,a,14
+25/04/2023,Cleveland Guardians,a,11
+25/04/2023,Colorado Rockies,a,8
+25/04/2023,Milwaukee Brewers,a,15
+25/04/2023,Detroit Tigers,a,9
+25/04/2023,Minnesota Twins,a,14
+25/04/2023,New York Yankees,a,13
+25/04/2023,New York Mets,a,14
+25/04/2023,Washington Nationals,a,8
+25/04/2023,Philadelphia Phillies,a,11
+25/04/2023,Seattle Mariners,a,11
+25/04/2023,Pittsburgh Pirates,a,16
+25/04/2023,Los Angeles Dodgers,a,13
+25/04/2023,San Francisco Giants,a,10
+25/04/2023,St. Louis Cardinals,a,9
+25/04/2023,Tampa Bay Rays,a,20
+25/04/2023,Houston Astros,a,13
+25/04/2023,Toronto Blue Jays,a,15
+25/04/2023,Chicago White Sox,a,7
+26/04/2023,Los Angeles Angels,a,13
+26/04/2023,Oakland Athletics,a,5
+26/04/2023,Arizona Diamondbacks,a,14
+26/04/2023,Kansas City Royals,a,6
+26/04/2023,Atlanta Braves,a,17
+26/04/2023,Miami Marlins,a,12
+26/04/2023,Baltimore Orioles,a,16
+26/04/2023,Boston Red Sox,a,13
+26/04/2023,Chicago Cubs,a,13
+26/04/2023,San Diego Padres,a,13
+26/04/2023,Cincinnati Reds,a,10
+26/04/2023,Texas Rangers,a,14
+26/04/2023,Cleveland Guardians,a,12
+26/04/2023,Colorado Rockies,a,8
+26/04/2023,Milwaukee Brewers,a,16
+26/04/2023,Detroit Tigers,a,9
+26/04/2023,Minnesota Twins,a,14
+26/04/2023,New York Yankees,a,14
+26/04/2023,New York Mets,a,14
+26/04/2023,Washington Nationals,a,9
+26/04/2023,Philadelphia Phillies,a,12
+26/04/2023,Seattle Mariners,a,11
+26/04/2023,Pittsburgh Pirates,a,17
+26/04/2023,Los Angeles Dodgers,a,13
+26/04/2023,San Francisco Giants,a,11
+26/04/2023,St. Louis Cardinals,a,9
+26/04/2023,Tampa Bay Rays,a,20
+26/04/2023,Houston Astros,a,14
+26/04/2023,Toronto Blue Jays,a,16
+26/04/2023,Chicago White Sox,a,7
+27/04/2023,Los Angeles Angels,a,14
+27/04/2023,Oakland Athletics,a,5
+27/04/2023,Atlanta Braves,a,17
+27/04/2023,Miami Marlins,a,13
+27/04/2023,Chicago White Sox,a,7
+27/04/2023,Tampa Bay Rays,a,21
+27/04/2023,Chicago Cubs,a,14
+27/04/2023,San Diego Padres,a,13
+27/04/2023,Detroit Tigers,a,9
+27/04/2023,Baltimore Orioles,a,17
+27/04/2023,Minnesota Twins,a,15
+27/04/2023,Kansas City Royals,a,6
+27/04/2023,New York Mets,a,15
+27/04/2023,Washington Nationals,a,9
+27/04/2023,Philadelphia Phillies,a,13
+27/04/2023,Seattle Mariners,a,11
+27/04/2023,Pittsburgh Pirates,a,18
+27/04/2023,Los Angeles Dodgers,a,13
+27/04/2023,San Francisco Giants,a,11
+27/04/2023,St. Louis Cardinals,a,10
+27/04/2023,Texas Rangers,a,14
+27/04/2023,New York Yankees,a,15
+27/04/2023,Boston Red Sox,a,13
+27/04/2023,Milwaukee Brewers,a,16
+27/04/2023,Cincinnati Reds,a,10
+27/04/2023,Houston Astros,a,14
+27/04/2023,Arizona Diamondbacks,a,14
+27/04/2023,Colorado Rockies,a,8
+27/04/2023,Cleveland Guardians,a,12
+27/04/2023,Toronto Blue Jays,a,16
+28/04/2023,Boston Red Sox,a,13
+28/04/2023,Cleveland Guardians,a,13
+28/04/2023,Chicago White Sox,a,7
+28/04/2023,Tampa Bay Rays,a,22
+28/04/2023,Colorado Rockies,a,8
+28/04/2023,Arizona Diamondbacks,a,15
+28/04/2023,Houston Astros,a,14
+28/04/2023,Philadelphia Phillies,a,14
+28/04/2023,Los Angeles Dodgers,a,14
+28/04/2023,St. Louis Cardinals,a,10
+28/04/2023,Miami Marlins,a,14
+28/04/2023,Chicago Cubs,a,14
+28/04/2023,Milwaukee Brewers,a,17
+28/04/2023,Los Angeles Angels,a,14
+28/04/2023,Minnesota Twins,a,16
+28/04/2023,Kansas City Royals,a,6
+28/04/2023,New York Mets,a,15
+28/04/2023,Atlanta Braves,a,18
+28/04/2023,Oakland Athletics,a,5
+28/04/2023,Cincinnati Reds,a,11
+28/04/2023,Texas Rangers,a,15
+28/04/2023,New York Yankees,a,15
+28/04/2023,Toronto Blue Jays,a,17
+28/04/2023,Seattle Mariners,a,11
+28/04/2023,Baltimore Orioles,a,17
+28/04/2023,Pittsburgh Pirates,a,18
+28/04/2023,San Francisco Giants,a,11
+28/04/2023,San Diego Padres,a,13
+28/04/2023,Detroit Tigers,a,9
+28/04/2023,Washington Nationals,a,9
+29/04/2023,Boston Red Sox,a,14
+29/04/2023,Cleveland Guardians,a,13
+29/04/2023,Chicago White Sox,a,7
+29/04/2023,Tampa Bay Rays,a,23
+29/04/2023,Colorado Rockies,a,8
+29/04/2023,Arizona Diamondbacks,a,16
+29/04/2023,Detroit Tigers,a,10
+29/04/2023,Baltimore Orioles,a,17
+29/04/2023,Detroit Tigers,a,10
+29/04/2023,Baltimore Orioles,a,18
+29/04/2023,Houston Astros,a,14
+29/04/2023,Philadelphia Phillies,a,15
+29/04/2023,Los Angeles Dodgers,a,15
+29/04/2023,St. Louis Cardinals,a,10
+29/04/2023,Miami Marlins,a,15
+29/04/2023,Chicago Cubs,a,14
+29/04/2023,Milwaukee Brewers,a,18
+29/04/2023,Los Angeles Angels,a,14
+29/04/2023,Minnesota Twins,a,16
+29/04/2023,Kansas City Royals,a,7
+29/04/2023,Oakland Athletics,a,5
+29/04/2023,Cincinnati Reds,a,12
+29/04/2023,San Diego Padres,a,14
+29/04/2023,San Francisco Giants,a,11
+29/04/2023,Texas Rangers,a,16
+29/04/2023,New York Yankees,a,15
+29/04/2023,Toronto Blue Jays,a,18
+29/04/2023,Seattle Mariners,a,11
+29/04/2023,Washington Nationals,a,9
+29/04/2023,Pittsburgh Pirates,a,19
+29/04/2023,Washington Nationals,a,9
+29/04/2023,Pittsburgh Pirates,a,20
+29/04/2023,New York Mets,a,15
+29/04/2023,Atlanta Braves,a,18
+30/04/2023,Boston Red Sox,a,15
+30/04/2023,Cleveland Guardians,a,13
+30/04/2023,Chicago White Sox,a,8
+30/04/2023,Tampa Bay Rays,a,23
+30/04/2023,Colorado Rockies,a,9
+30/04/2023,Arizona Diamondbacks,a,16
+30/04/2023,Detroit Tigers,a,10
+30/04/2023,Baltimore Orioles,a,19
+30/04/2023,Houston Astros,a,15
+30/04/2023,Philadelphia Phillies,a,15
+30/04/2023,Los Angeles Dodgers,a,16
+30/04/2023,St. Louis Cardinals,a,10
+30/04/2023,Miami Marlins,a,16
+30/04/2023,Chicago Cubs,a,14
+30/04/2023,Milwaukee Brewers,a,18
+30/04/2023,Los Angeles Angels,a,15
+30/04/2023,Minnesota Twins,a,17
+30/04/2023,Kansas City Royals,a,7
+30/04/2023,Oakland Athletics,a,6
+30/04/2023,Cincinnati Reds,a,12
+30/04/2023,San Diego Padres,a,15
+30/04/2023,San Francisco Giants,a,11
+30/04/2023,Texas Rangers,a,17
+30/04/2023,New York Yankees,a,15
+30/04/2023,Toronto Blue Jays,a,18
+30/04/2023,Seattle Mariners,a,12
+30/04/2023,Washington Nationals,a,10
+30/04/2023,Pittsburgh Pirates,a,20
+30/04/2023,New York Mets,a,15
+30/04/2023,Atlanta Braves,a,18
+01/05/2023,Boston Red Sox,a,16
+01/05/2023,Toronto Blue Jays,a,18
+01/05/2023,Houston Astros,a,16
+01/05/2023,San Francisco Giants,a,11
+01/05/2023,Los Angeles Dodgers,a,17
+01/05/2023,Philadelphia Phillies,a,15
+01/05/2023,New York Yankees,a,15
+01/05/2023,Cleveland Guardians,a,14
+01/05/2023,New York Mets,a,15
+01/05/2023,Atlanta Braves,a,19
+01/05/2023,New York Mets,a,16
+01/05/2023,Atlanta Braves,a,19
+01/05/2023,San Diego Padres,a,16
+01/05/2023,Cincinnati Reds,a,12
+01/05/2023,Washington Nationals,a,10
+01/05/2023,Chicago Cubs,a,15
+01/05/2023,Baltimore Orioles,a,19
+01/05/2023,Milwaukee Brewers,a,18
+01/05/2023,Pittsburgh Pirates,a,20
+01/05/2023,Chicago White Sox,a,8
+01/05/2023,Kansas City Royals,a,7
+01/05/2023,Minnesota Twins,a,17
+01/05/2023,Arizona Diamondbacks,a,16
+01/05/2023,Miami Marlins,a,16
+01/05/2023,Oakland Athletics,a,6
+01/05/2023,Los Angeles Angels,a,15
+01/05/2023,Colorado Rockies,a,9
+01/05/2023,Seattle Mariners,a,12
+01/05/2023,St. Louis Cardinals,a,10
+01/05/2023,Tampa Bay Rays,a,23
+01/05/2023,Detroit Tigers,a,10
+01/05/2023,Texas Rangers,a,17
+02/05/2023,Boston Red Sox,a,17
+02/05/2023,Toronto Blue Jays,a,18
+02/05/2023,Chicago White Sox,a,9
+02/05/2023,Minnesota Twins,a,17
+02/05/2023,Colorado Rockies,a,10
+02/05/2023,Milwaukee Brewers,a,18
+02/05/2023,Houston Astros,a,16
+02/05/2023,San Francisco Giants,a,12
+02/05/2023,Kansas City Royals,a,7
+02/05/2023,Baltimore Orioles,a,20
+02/05/2023,Los Angeles Dodgers,a,18
+02/05/2023,Philadelphia Phillies,a,15
+02/05/2023,Miami Marlins,a,16
+02/05/2023,Atlanta Braves,a,20
+02/05/2023,New York Yankees,a,16
+02/05/2023,Cleveland Guardians,a,14
+02/05/2023,Oakland Athletics,a,6
+02/05/2023,Seattle Mariners,a,13
+02/05/2023,San Diego Padres,a,16
+02/05/2023,Cincinnati Reds,a,13
+02/05/2023,St. Louis Cardinals,a,10
+02/05/2023,Los Angeles Angels,a,16
+02/05/2023,Tampa Bay Rays,a,24
+02/05/2023,Pittsburgh Pirates,a,20
+02/05/2023,Texas Rangers,a,18
+02/05/2023,Arizona Diamondbacks,a,16
+02/05/2023,Washington Nationals,a,11
+02/05/2023,Chicago Cubs,a,15
+02/05/2023,New York Mets,a,16
+02/05/2023,Detroit Tigers,a,10
+03/05/2023,Boston Red Sox,a,18
+03/05/2023,Toronto Blue Jays,a,18
+03/05/2023,Chicago White Sox,a,10
+03/05/2023,Minnesota Twins,a,17
+03/05/2023,Colorado Rockies,a,11
+03/05/2023,Milwaukee Brewers,a,18
+03/05/2023,Detroit Tigers,a,11
+03/05/2023,New York Mets,a,16
+03/05/2023,Detroit Tigers,a,12
+03/05/2023,New York Mets,a,16
+03/05/2023,Houston Astros,a,16
+03/05/2023,San Francisco Giants,a,13
+03/05/2023,Kansas City Royals,a,8
+03/05/2023,Baltimore Orioles,a,20
+03/05/2023,Los Angeles Dodgers,a,19
+03/05/2023,Philadelphia Phillies,a,15
+03/05/2023,Miami Marlins,a,16
+03/05/2023,Atlanta Braves,a,21
+03/05/2023,New York Yankees,a,17
+03/05/2023,Cleveland Guardians,a,14
+03/05/2023,Oakland Athletics,a,6
+03/05/2023,Seattle Mariners,a,14
+03/05/2023,San Diego Padres,a,17
+03/05/2023,Cincinnati Reds,a,13
+03/05/2023,St. Louis Cardinals,a,10
+03/05/2023,Los Angeles Angels,a,17
+03/05/2023,Tampa Bay Rays,a,25
+03/05/2023,Pittsburgh Pirates,a,20
+03/05/2023,Texas Rangers,a,18
+03/05/2023,Arizona Diamondbacks,a,17
+03/05/2023,Washington Nationals,a,12
+03/05/2023,Chicago Cubs,a,15
+04/05/2023,Boston Red Sox,a,19
+04/05/2023,Toronto Blue Jays,a,18
+04/05/2023,Chicago White Sox,a,10
+04/05/2023,Minnesota Twins,a,18
+04/05/2023,Colorado Rockies,a,12
+04/05/2023,Milwaukee Brewers,a,18
+04/05/2023,Detroit Tigers,a,13
+04/05/2023,New York Mets,a,16
+04/05/2023,Kansas City Royals,a,8
+04/05/2023,Baltimore Orioles,a,21
+04/05/2023,Miami Marlins,a,16
+04/05/2023,Atlanta Braves,a,22
+04/05/2023,Oakland Athletics,a,6
+04/05/2023,Seattle Mariners,a,15
+04/05/2023,St. Louis Cardinals,a,10
+04/05/2023,Los Angeles Angels,a,18
+04/05/2023,Tampa Bay Rays,a,26
+04/05/2023,Pittsburgh Pirates,a,20
+04/05/2023,Washington Nationals,a,13
+04/05/2023,Chicago Cubs,a,15
+04/05/2023,Cincinnati Reds,a,13
+04/05/2023,Houston Astros,a,16
+04/05/2023,Los Angeles Dodgers,a,19
+04/05/2023,Arizona Diamondbacks,a,17
+04/05/2023,New York Yankees,a,17
+04/05/2023,San Francisco Giants,a,13
+04/05/2023,San Diego Padres,a,17
+04/05/2023,Cleveland Guardians,a,14
+04/05/2023,Texas Rangers,a,18
+04/05/2023,Philadelphia Phillies,a,15
+05/05/2023,Los Angeles Angels,a,19
+05/05/2023,Texas Rangers,a,18
+05/05/2023,Arizona Diamondbacks,a,18
+05/05/2023,Washington Nationals,a,13
+05/05/2023,Atlanta Braves,a,22
+05/05/2023,Baltimore Orioles,a,22
+05/05/2023,Chicago Cubs,a,16
+05/05/2023,Miami Marlins,a,16
+05/05/2023,Cincinnati Reds,a,13
+05/05/2023,Chicago White Sox,a,11
+05/05/2023,Cleveland Guardians,a,14
+05/05/2023,Minnesota Twins,a,19
+05/05/2023,Kansas City Royals,a,8
+05/05/2023,Oakland Athletics,a,7
+05/05/2023,New York Mets,a,17
+05/05/2023,Colorado Rockies,a,12
+05/05/2023,Philadelphia Phillies,a,15
+05/05/2023,Boston Red Sox,a,20
+05/05/2023,Pittsburgh Pirates,a,20
+05/05/2023,Toronto Blue Jays,a,19
+05/05/2023,San Diego Padres,a,18
+05/05/2023,Los Angeles Dodgers,a,19
+05/05/2023,Seattle Mariners,a,15
+05/05/2023,Houston Astros,a,17
+05/05/2023,San Francisco Giants,a,14
+05/05/2023,Milwaukee Brewers,a,18
+05/05/2023,St. Louis Cardinals,a,10
+05/05/2023,Detroit Tigers,a,14
+05/05/2023,Tampa Bay Rays,a,27
+05/05/2023,New York Yankees,a,17
+06/05/2023,Los Angeles Angels,a,19
+06/05/2023,Texas Rangers,a,19
+06/05/2023,Arizona Diamondbacks,a,19
+06/05/2023,Washington Nationals,a,13
+06/05/2023,Atlanta Braves,a,23
+06/05/2023,Baltimore Orioles,a,22
+06/05/2023,Chicago Cubs,a,17
+06/05/2023,Miami Marlins,a,16
+06/05/2023,Cincinnati Reds,a,14
+06/05/2023,Chicago White Sox,a,11
+06/05/2023,Cleveland Guardians,a,15
+06/05/2023,Minnesota Twins,a,19
+06/05/2023,Kansas City Royals,a,8
+06/05/2023,Oakland Athletics,a,8
+06/05/2023,New York Mets,a,17
+06/05/2023,Colorado Rockies,a,13
+06/05/2023,Philadelphia Phillies,a,15
+06/05/2023,Boston Red Sox,a,21
+06/05/2023,Pittsburgh Pirates,a,20
+06/05/2023,Toronto Blue Jays,a,20
+06/05/2023,San Diego Padres,a,18
+06/05/2023,Los Angeles Dodgers,a,20
+06/05/2023,Seattle Mariners,a,16
+06/05/2023,Houston Astros,a,17
+06/05/2023,San Francisco Giants,a,15
+06/05/2023,Milwaukee Brewers,a,18
+06/05/2023,St. Louis Cardinals,a,10
+06/05/2023,Detroit Tigers,a,15
+06/05/2023,Tampa Bay Rays,a,27
+06/05/2023,New York Yankees,a,18
+07/05/2023,Los Angeles Angels,a,19
+07/05/2023,Texas Rangers,a,20
+07/05/2023,Arizona Diamondbacks,a,19
+07/05/2023,Washington Nationals,a,14
+07/05/2023,Atlanta Braves,a,24
+07/05/2023,Baltimore Orioles,a,22
+07/05/2023,Chicago Cubs,a,17
+07/05/2023,Miami Marlins,a,17
+07/05/2023,Cincinnati Reds,a,14
+07/05/2023,Chicago White Sox,a,12
+07/05/2023,Cleveland Guardians,a,16
+07/05/2023,Minnesota Twins,a,19
+07/05/2023,Kansas City Royals,a,9
+07/05/2023,Oakland Athletics,a,8
+07/05/2023,New York Mets,a,17
+07/05/2023,Colorado Rockies,a,14
+07/05/2023,Philadelphia Phillies,a,16
+07/05/2023,Boston Red Sox,a,21
+07/05/2023,Pittsburgh Pirates,a,20
+07/05/2023,Toronto Blue Jays,a,21
+07/05/2023,San Diego Padres,a,18
+07/05/2023,Los Angeles Dodgers,a,21
+07/05/2023,Seattle Mariners,a,17
+07/05/2023,Houston Astros,a,17
+07/05/2023,San Francisco Giants,a,15
+07/05/2023,Milwaukee Brewers,a,19
+07/05/2023,St. Louis Cardinals,a,11
+07/05/2023,Detroit Tigers,a,15
+07/05/2023,Tampa Bay Rays,a,28
+07/05/2023,New York Yankees,a,18
+08/05/2023,Los Angeles Angels,a,20
+08/05/2023,Houston Astros,a,17
+08/05/2023,Arizona Diamondbacks,a,20
+08/05/2023,Miami Marlins,a,17
+08/05/2023,Baltimore Orioles,a,22
+08/05/2023,Tampa Bay Rays,a,29
+08/05/2023,Chicago Cubs,a,17
+08/05/2023,St. Louis Cardinals,a,12
+08/05/2023,Cleveland Guardians,a,16
+08/05/2023,Detroit Tigers,a,16
+08/05/2023,Kansas City Royals,a,10
+08/05/2023,Chicago White Sox,a,12
+08/05/2023,Milwaukee Brewers,a,20
+08/05/2023,Los Angeles Dodgers,a,21
+08/05/2023,New York Yankees,a,19
+08/05/2023,Oakland Athletics,a,8
+08/05/2023,Pittsburgh Pirates,a,21
+08/05/2023,Colorado Rockies,a,14
+08/05/2023,Seattle Mariners,a,17
+08/05/2023,Texas Rangers,a,21
+08/05/2023,San Francisco Giants,a,15
+08/05/2023,Washington Nationals,a,15
+08/05/2023,Boston Red Sox,a,21
+08/05/2023,Cincinnati Reds,a,14
+08/05/2023,Minnesota Twins,a,19
+08/05/2023,New York Mets,a,17
+08/05/2023,San Diego Padres,a,18
+08/05/2023,Toronto Blue Jays,a,21
+08/05/2023,Philadelphia Phillies,a,16
+08/05/2023,Atlanta Braves,a,24
+09/05/2023,Los Angeles Angels,a,20
+09/05/2023,Houston Astros,a,18
+09/05/2023,Arizona Diamondbacks,a,20
+09/05/2023,Miami Marlins,a,18
+09/05/2023,Atlanta Braves,a,25
+09/05/2023,Boston Red Sox,a,21
+09/05/2023,Baltimore Orioles,a,23
+09/05/2023,Tampa Bay Rays,a,29
+09/05/2023,Chicago Cubs,a,17
+09/05/2023,St. Louis Cardinals,a,13
+09/05/2023,Cincinnati Reds,a,15
+09/05/2023,New York Mets,a,17
+09/05/2023,Cleveland Guardians,a,17
+09/05/2023,Detroit Tigers,a,16
+09/05/2023,Kansas City Royals,a,10
+09/05/2023,Chicago White Sox,a,13
+09/05/2023,Milwaukee Brewers,a,20
+09/05/2023,Los Angeles Dodgers,a,22
+09/05/2023,Minnesota Twins,a,19
+09/05/2023,San Diego Padres,a,19
+09/05/2023,New York Yankees,a,20
+09/05/2023,Oakland Athletics,a,8
+09/05/2023,Philadelphia Phillies,a,17
+09/05/2023,Toronto Blue Jays,a,21
+09/05/2023,Pittsburgh Pirates,a,21
+09/05/2023,Colorado Rockies,a,15
+09/05/2023,Seattle Mariners,a,18
+09/05/2023,Texas Rangers,a,21
+09/05/2023,San Francisco Giants,a,16
+09/05/2023,Washington Nationals,a,15
+10/05/2023,Los Angeles Angels,a,20
+10/05/2023,Houston Astros,a,19
+10/05/2023,Arizona Diamondbacks,a,20
+10/05/2023,Miami Marlins,a,19
+10/05/2023,Atlanta Braves,a,25
+10/05/2023,Boston Red Sox,a,22
+10/05/2023,Baltimore Orioles,a,24
+10/05/2023,Tampa Bay Rays,a,29
+10/05/2023,Chicago Cubs,a,18
+10/05/2023,St. Louis Cardinals,a,13
+10/05/2023,Cincinnati Reds,a,15
+10/05/2023,New York Mets,a,18
+10/05/2023,Cleveland Guardians,a,17
+10/05/2023,Detroit Tigers,a,17
+10/05/2023,Kansas City Royals,a,11
+10/05/2023,Chicago White Sox,a,13
+10/05/2023,Milwaukee Brewers,a,20
+10/05/2023,Los Angeles Dodgers,a,23
+10/05/2023,Minnesota Twins,a,20
+10/05/2023,San Diego Padres,a,19
+10/05/2023,New York Yankees,a,21
+10/05/2023,Oakland Athletics,a,8
+10/05/2023,Philadelphia Phillies,a,18
+10/05/2023,Toronto Blue Jays,a,21
+10/05/2023,Pittsburgh Pirates,a,21
+10/05/2023,Colorado Rockies,a,16
+10/05/2023,Seattle Mariners,a,18
+10/05/2023,Texas Rangers,a,22
+10/05/2023,San Francisco Giants,a,16
+10/05/2023,Washington Nationals,a,16
+11/05/2023,Arizona Diamondbacks,a,20
+11/05/2023,San Francisco Giants,a,17
+11/05/2023,Cincinnati Reds,a,16
+11/05/2023,New York Mets,a,18
+11/05/2023,Kansas City Royals,a,12
+11/05/2023,Chicago White Sox,a,13
+11/05/2023,Minnesota Twins,a,21
+11/05/2023,San Diego Padres,a,19
+11/05/2023,New York Yankees,a,21
+11/05/2023,Tampa Bay Rays,a,30
+11/05/2023,Oakland Athletics,a,8
+11/05/2023,Texas Rangers,a,23
+11/05/2023,Boston Red Sox,a,22
+11/05/2023,Baltimore Orioles,a,24
+11/05/2023,Chicago Cubs,a,18
+11/05/2023,Milwaukee Brewers,a,20
+11/05/2023,Pittsburgh Pirates,a,21
+11/05/2023,Houston Astros,a,19
+11/05/2023,Los Angeles Dodgers,a,23
+11/05/2023,Miami Marlins,a,19
+11/05/2023,Los Angeles Angels,a,20
+11/05/2023,Colorado Rockies,a,16
+11/05/2023,Seattle Mariners,a,18
+11/05/2023,Cleveland Guardians,a,17
+11/05/2023,St. Louis Cardinals,a,13
+11/05/2023,Toronto Blue Jays,a,21
+11/05/2023,Detroit Tigers,a,17
+11/05/2023,Philadelphia Phillies,a,18
+11/05/2023,Washington Nationals,a,16
+11/05/2023,Atlanta Braves,a,25
+12/05/2023,Arizona Diamondbacks,a,21
+12/05/2023,San Francisco Giants,a,17
+12/05/2023,Baltimore Orioles,a,25
+12/05/2023,Pittsburgh Pirates,a,21
+12/05/2023,Boston Red Sox,a,22
+12/05/2023,St. Louis Cardinals,a,14
+12/05/2023,Chicago White Sox,a,13
+12/05/2023,Houston Astros,a,20
+12/05/2023,Cleveland Guardians,a,17
+12/05/2023,Los Angeles Angels,a,21
+12/05/2023,Colorado Rockies,a,16
+12/05/2023,Philadelphia Phillies,a,19
+12/05/2023,Detroit Tigers,a,17
+12/05/2023,Seattle Mariners,a,19
+12/05/2023,Los Angeles Dodgers,a,24
+12/05/2023,San Diego Padres,a,19
+12/05/2023,Miami Marlins,a,19
+12/05/2023,Cincinnati Reds,a,17
+12/05/2023,Milwaukee Brewers,a,21
+12/05/2023,Kansas City Royals,a,12
+12/05/2023,Minnesota Twins,a,21
+12/05/2023,Chicago Cubs,a,19
+12/05/2023,New York Yankees,a,22
+12/05/2023,Tampa Bay Rays,a,30
+12/05/2023,Oakland Athletics,a,9
+12/05/2023,Texas Rangers,a,23
+12/05/2023,Toronto Blue Jays,a,22
+12/05/2023,Atlanta Braves,a,25
+12/05/2023,Washington Nationals,a,16
+12/05/2023,New York Mets,a,19
+13/05/2023,Arizona Diamondbacks,a,22
+13/05/2023,San Francisco Giants,a,17
+13/05/2023,Baltimore Orioles,a,26
+13/05/2023,Pittsburgh Pirates,a,21
+13/05/2023,Boston Red Sox,a,22
+13/05/2023,St. Louis Cardinals,a,15
+13/05/2023,Chicago White Sox,a,14
+13/05/2023,Houston Astros,a,20
+13/05/2023,Cleveland Guardians,a,18
+13/05/2023,Los Angeles Angels,a,21
+13/05/2023,Colorado Rockies,a,16
+13/05/2023,Philadelphia Phillies,a,20
+13/05/2023,Detroit Tigers,a,17
+13/05/2023,Seattle Mariners,a,20
+13/05/2023,Los Angeles Dodgers,a,25
+13/05/2023,San Diego Padres,a,19
+13/05/2023,Miami Marlins,a,19
+13/05/2023,Cincinnati Reds,a,18
+13/05/2023,Milwaukee Brewers,a,22
+13/05/2023,Kansas City Royals,a,12
+13/05/2023,Minnesota Twins,a,22
+13/05/2023,Chicago Cubs,a,19
+13/05/2023,New York Yankees,a,23
+13/05/2023,Tampa Bay Rays,a,30
+13/05/2023,Oakland Athletics,a,9
+13/05/2023,Texas Rangers,a,24
+13/05/2023,Toronto Blue Jays,a,23
+13/05/2023,Atlanta Braves,a,25
+13/05/2023,Washington Nationals,a,17
+13/05/2023,New York Mets,a,19
+14/05/2023,Arizona Diamondbacks,a,23
+14/05/2023,San Francisco Giants,a,17
+14/05/2023,Baltimore Orioles,a,26
+14/05/2023,Pittsburgh Pirates,a,22
+14/05/2023,Boston Red Sox,a,22
+14/05/2023,St. Louis Cardinals,a,16
+14/05/2023,Chicago White Sox,a,14
+14/05/2023,Houston Astros,a,21
+14/05/2023,Cleveland Guardians,a,19
+14/05/2023,Los Angeles Angels,a,21
+14/05/2023,Colorado Rockies,a,17
+14/05/2023,Philadelphia Phillies,a,20
+14/05/2023,Detroit Tigers,a,18
+14/05/2023,Seattle Mariners,a,20
+14/05/2023,Los Angeles Dodgers,a,26
+14/05/2023,San Diego Padres,a,19
+14/05/2023,Miami Marlins,a,20
+14/05/2023,Cincinnati Reds,a,18
+14/05/2023,Milwaukee Brewers,a,23
+14/05/2023,Kansas City Royals,a,12
+14/05/2023,Minnesota Twins,a,23
+14/05/2023,Chicago Cubs,a,19
+14/05/2023,New York Yankees,a,23
+14/05/2023,Tampa Bay Rays,a,31
+14/05/2023,Oakland Athletics,a,9
+14/05/2023,Texas Rangers,a,25
+14/05/2023,Toronto Blue Jays,a,24
+14/05/2023,Atlanta Braves,a,25
+14/05/2023,Washington Nationals,a,17
+14/05/2023,New York Mets,a,20
+15/05/2023,Baltimore Orioles,a,26
+15/05/2023,Los Angeles Angels,a,22
+15/05/2023,Boston Red Sox,a,22
+15/05/2023,Seattle Mariners,a,21
+15/05/2023,Colorado Rockies,a,18
+15/05/2023,Cincinnati Reds,a,18
+15/05/2023,Houston Astros,a,22
+15/05/2023,Chicago Cubs,a,19
+15/05/2023,Los Angeles Dodgers,a,27
+15/05/2023,Minnesota Twins,a,23
+15/05/2023,Oakland Athletics,a,9
+15/05/2023,Arizona Diamondbacks,a,24
+15/05/2023,San Diego Padres,a,20
+15/05/2023,Kansas City Royals,a,12
+15/05/2023,San Francisco Giants,a,18
+15/05/2023,Philadelphia Phillies,a,20
+15/05/2023,St. Louis Cardinals,a,17
+15/05/2023,Milwaukee Brewers,a,23
+15/05/2023,Texas Rangers,a,25
+15/05/2023,Atlanta Braves,a,26
+15/05/2023,Toronto Blue Jays,a,24
+15/05/2023,New York Yankees,a,24
+15/05/2023,Washington Nationals,a,18
+15/05/2023,New York Mets,a,20
+15/05/2023,Pittsburgh Pirates,a,22
+15/05/2023,Chicago White Sox,a,14
+15/05/2023,Miami Marlins,a,20
+15/05/2023,Cleveland Guardians,a,19
+15/05/2023,Tampa Bay Rays,a,31
+15/05/2023,Detroit Tigers,a,18
+16/05/2023,Baltimore Orioles,a,27
+16/05/2023,Los Angeles Angels,a,22
+16/05/2023,Boston Red Sox,a,23
+16/05/2023,Seattle Mariners,a,21
+16/05/2023,Chicago White Sox,a,15
+16/05/2023,Cleveland Guardians,a,19
+16/05/2023,Colorado Rockies,a,18
+16/05/2023,Cincinnati Reds,a,19
+16/05/2023,Detroit Tigers,a,19
+16/05/2023,Pittsburgh Pirates,a,22
+16/05/2023,Houston Astros,a,23
+16/05/2023,Chicago Cubs,a,19
+16/05/2023,Los Angeles Dodgers,a,27
+16/05/2023,Minnesota Twins,a,24
+16/05/2023,Miami Marlins,a,21
+16/05/2023,Washington Nationals,a,18
+16/05/2023,New York Mets,a,20
+16/05/2023,Tampa Bay Rays,a,32
+16/05/2023,Oakland Athletics,a,10
+16/05/2023,Arizona Diamondbacks,a,24
+16/05/2023,San Diego Padres,a,20
+16/05/2023,Kansas City Royals,a,13
+16/05/2023,San Francisco Giants,a,19
+16/05/2023,Philadelphia Phillies,a,20
+16/05/2023,St. Louis Cardinals,a,17
+16/05/2023,Milwaukee Brewers,a,24
+16/05/2023,Texas Rangers,a,26
+16/05/2023,Atlanta Braves,a,26
+16/05/2023,Toronto Blue Jays,a,24
+16/05/2023,New York Yankees,a,25
+17/05/2023,Baltimore Orioles,a,28
+17/05/2023,Los Angeles Angels,a,22
+17/05/2023,Boston Red Sox,a,24
+17/05/2023,Seattle Mariners,a,21
+17/05/2023,Chicago White Sox,a,16
+17/05/2023,Cleveland Guardians,a,19
+17/05/2023,Colorado Rockies,a,19
+17/05/2023,Cincinnati Reds,a,19
+17/05/2023,Detroit Tigers,a,19
+17/05/2023,Pittsburgh Pirates,a,23
+17/05/2023,Houston Astros,a,24
+17/05/2023,Chicago Cubs,a,19
+17/05/2023,Los Angeles Dodgers,a,28
+17/05/2023,Minnesota Twins,a,24
+17/05/2023,Miami Marlins,a,22
+17/05/2023,Washington Nationals,a,18
+17/05/2023,New York Mets,a,21
+17/05/2023,Tampa Bay Rays,a,32
+17/05/2023,Oakland Athletics,a,10
+17/05/2023,Arizona Diamondbacks,a,25
+17/05/2023,San Diego Padres,a,20
+17/05/2023,Kansas City Royals,a,14
+17/05/2023,San Francisco Giants,a,20
+17/05/2023,Philadelphia Phillies,a,20
+17/05/2023,St. Louis Cardinals,a,18
+17/05/2023,Milwaukee Brewers,a,24
+17/05/2023,Texas Rangers,a,26
+17/05/2023,Atlanta Braves,a,27
+17/05/2023,Toronto Blue Jays,a,25
+17/05/2023,New York Yankees,a,25
+18/05/2023,Baltimore Orioles,a,28
+18/05/2023,Los Angeles Angels,a,23
+18/05/2023,Chicago White Sox,a,16
+18/05/2023,Cleveland Guardians,a,20
+18/05/2023,Miami Marlins,a,23
+18/05/2023,Washington Nationals,a,18
+18/05/2023,New York Mets,a,22
+18/05/2023,Tampa Bay Rays,a,32
+18/05/2023,St. Louis Cardinals,a,19
+18/05/2023,Los Angeles Dodgers,a,28
+18/05/2023,Toronto Blue Jays,a,25
+18/05/2023,New York Yankees,a,26
+18/05/2023,Boston Red Sox,a,24
+18/05/2023,Chicago Cubs,a,19
+18/05/2023,Milwaukee Brewers,a,24
+18/05/2023,Cincinnati Reds,a,19
+18/05/2023,Pittsburgh Pirates,a,23
+18/05/2023,Houston Astros,a,24
+18/05/2023,Kansas City Royals,a,14
+18/05/2023,Minnesota Twins,a,24
+18/05/2023,Arizona Diamondbacks,a,25
+18/05/2023,San Francisco Giants,a,20
+18/05/2023,Oakland Athletics,a,10
+18/05/2023,San Diego Padres,a,20
+18/05/2023,Colorado Rockies,a,19
+18/05/2023,Seattle Mariners,a,21
+18/05/2023,Detroit Tigers,a,19
+18/05/2023,Texas Rangers,a,26
+18/05/2023,Philadelphia Phillies,a,20
+18/05/2023,Atlanta Braves,a,27
+19/05/2023,Los Angeles Angels,a,24
+19/05/2023,Minnesota Twins,a,24
+19/05/2023,Atlanta Braves,a,28
+19/05/2023,Seattle Mariners,a,21
+19/05/2023,Chicago White Sox,a,17
+19/05/2023,Kansas City Royals,a,14
+19/05/2023,Cincinnati Reds,a,19
+19/05/2023,New York Yankees,a,27
+19/05/2023,Houston Astros,a,25
+19/05/2023,Oakland Athletics,a,10
+19/05/2023,New York Mets,a,23
+19/05/2023,Cleveland Guardians,a,20
+19/05/2023,Philadelphia Phillies,a,20
+19/05/2023,Chicago Cubs,a,20
+19/05/2023,Pittsburgh Pirates,a,24
+19/05/2023,Arizona Diamondbacks,a,25
+19/05/2023,San Diego Padres,a,20
+19/05/2023,Boston Red Sox,a,25
+19/05/2023,San Francisco Giants,a,21
+19/05/2023,Miami Marlins,a,23
+19/05/2023,St. Louis Cardinals,a,19
+19/05/2023,Los Angeles Dodgers,a,29
+19/05/2023,Tampa Bay Rays,a,33
+19/05/2023,Milwaukee Brewers,a,24
+19/05/2023,Texas Rangers,a,27
+19/05/2023,Colorado Rockies,a,19
+19/05/2023,Toronto Blue Jays,a,25
+19/05/2023,Baltimore Orioles,a,29
+19/05/2023,Washington Nationals,a,18
+19/05/2023,Detroit Tigers,a,20
+20/05/2023,Los Angeles Angels,a,24
+20/05/2023,Minnesota Twins,a,25
+20/05/2023,Atlanta Braves,a,28
+20/05/2023,Seattle Mariners,a,22
+20/05/2023,Chicago White Sox,a,18
+20/05/2023,Kansas City Royals,a,14
+20/05/2023,Cincinnati Reds,a,19
+20/05/2023,New York Yankees,a,28
+20/05/2023,Houston Astros,a,26
+20/05/2023,Oakland Athletics,a,10
+20/05/2023,Philadelphia Phillies,a,21
+20/05/2023,Chicago Cubs,a,20
+20/05/2023,Pittsburgh Pirates,a,24
+20/05/2023,Arizona Diamondbacks,a,26
+20/05/2023,San Diego Padres,a,20
+20/05/2023,Boston Red Sox,a,26
+20/05/2023,San Francisco Giants,a,21
+20/05/2023,Miami Marlins,a,24
+20/05/2023,St. Louis Cardinals,a,20
+20/05/2023,Los Angeles Dodgers,a,29
+20/05/2023,Tampa Bay Rays,a,34
+20/05/2023,Milwaukee Brewers,a,24
+20/05/2023,Texas Rangers,a,28
+20/05/2023,Colorado Rockies,a,19
+20/05/2023,Toronto Blue Jays,a,25
+20/05/2023,Baltimore Orioles,a,30
+20/05/2023,Washington Nationals,a,19
+20/05/2023,Detroit Tigers,a,20
+20/05/2023,New York Mets,a,23
+20/05/2023,Cleveland Guardians,a,20
+21/05/2023,Los Angeles Angels,a,25
+21/05/2023,Minnesota Twins,a,25
+21/05/2023,Atlanta Braves,a,29
+21/05/2023,Seattle Mariners,a,22
+21/05/2023,Chicago White Sox,a,19
+21/05/2023,Kansas City Royals,a,14
+21/05/2023,Cincinnati Reds,a,19
+21/05/2023,New York Yankees,a,29
+21/05/2023,Houston Astros,a,27
+21/05/2023,Oakland Athletics,a,10
+21/05/2023,New York Mets,a,24
+21/05/2023,Cleveland Guardians,a,20
+21/05/2023,New York Mets,a,25
+21/05/2023,Cleveland Guardians,a,20
+21/05/2023,Philadelphia Phillies,a,22
+21/05/2023,Chicago Cubs,a,20
+21/05/2023,Pittsburgh Pirates,a,24
+21/05/2023,Arizona Diamondbacks,a,27
+21/05/2023,San Diego Padres,a,21
+21/05/2023,Boston Red Sox,a,26
+21/05/2023,San Francisco Giants,a,22
+21/05/2023,Miami Marlins,a,24
+21/05/2023,St. Louis Cardinals,a,21
+21/05/2023,Los Angeles Dodgers,a,29
+21/05/2023,Tampa Bay Rays,a,34
+21/05/2023,Milwaukee Brewers,a,25
+21/05/2023,Texas Rangers,a,29
+21/05/2023,Colorado Rockies,a,19
+21/05/2023,Toronto Blue Jays,a,25
+21/05/2023,Baltimore Orioles,a,31
+21/05/2023,Washington Nationals,a,20
+21/05/2023,Detroit Tigers,a,20
+22/05/2023,Los Angeles Angels,a,26
+22/05/2023,Boston Red Sox,a,26
+22/05/2023,Atlanta Braves,a,29
+22/05/2023,Los Angeles Dodgers,a,30
+22/05/2023,Cincinnati Reds,a,20
+22/05/2023,St. Louis Cardinals,a,21
+22/05/2023,Cleveland Guardians,a,21
+22/05/2023,Chicago White Sox,a,19
+22/05/2023,Colorado Rockies,a,20
+22/05/2023,Miami Marlins,a,24
+22/05/2023,Kansas City Royals,a,14
+22/05/2023,Detroit Tigers,a,21
+22/05/2023,Milwaukee Brewers,a,25
+22/05/2023,Houston Astros,a,28
+22/05/2023,Minnesota Twins,a,25
+22/05/2023,San Francisco Giants,a,23
+22/05/2023,Philadelphia Phillies,a,22
+22/05/2023,Arizona Diamondbacks,a,28
+22/05/2023,Pittsburgh Pirates,a,25
+22/05/2023,Texas Rangers,a,29
+22/05/2023,Seattle Mariners,a,23
+22/05/2023,Oakland Athletics,a,10
+22/05/2023,Tampa Bay Rays,a,35
+22/05/2023,Toronto Blue Jays,a,25
+22/05/2023,Baltimore Orioles,a,31
+22/05/2023,Chicago Cubs,a,20
+22/05/2023,New York Mets,a,25
+22/05/2023,New York Yankees,a,29
+22/05/2023,San Diego Padres,a,21
+22/05/2023,Washington Nationals,a,20
+23/05/2023,Los Angeles Angels,a,27
+23/05/2023,Boston Red Sox,a,26
+23/05/2023,Atlanta Braves,a,29
+23/05/2023,Los Angeles Dodgers,a,31
+23/05/2023,Chicago Cubs,a,21
+23/05/2023,New York Mets,a,25
+23/05/2023,Cincinnati Reds,a,20
+23/05/2023,St. Louis Cardinals,a,22
+23/05/2023,Cleveland Guardians,a,21
+23/05/2023,Chicago White Sox,a,20
+23/05/2023,Colorado Rockies,a,21
+23/05/2023,Miami Marlins,a,24
+23/05/2023,Kansas City Royals,a,15
+23/05/2023,Detroit Tigers,a,21
+23/05/2023,Milwaukee Brewers,a,26
+23/05/2023,Houston Astros,a,28
+23/05/2023,Minnesota Twins,a,25
+23/05/2023,San Francisco Giants,a,24
+23/05/2023,New York Yankees,a,30
+23/05/2023,Baltimore Orioles,a,31
+23/05/2023,Philadelphia Phillies,a,22
+23/05/2023,Arizona Diamondbacks,a,29
+23/05/2023,Pittsburgh Pirates,a,25
+23/05/2023,Texas Rangers,a,30
+23/05/2023,Seattle Mariners,a,24
+23/05/2023,Oakland Athletics,a,10
+23/05/2023,Tampa Bay Rays,a,35
+23/05/2023,Toronto Blue Jays,a,26
+23/05/2023,Washington Nationals,a,20
+23/05/2023,San Diego Padres,a,22
+24/05/2023,Los Angeles Angels,a,28
+24/05/2023,Boston Red Sox,a,26
+24/05/2023,Atlanta Braves,a,30
+24/05/2023,Los Angeles Dodgers,a,31
+24/05/2023,Chicago Cubs,a,22
+24/05/2023,New York Mets,a,25
+24/05/2023,Cincinnati Reds,a,21
+24/05/2023,St. Louis Cardinals,a,22
+24/05/2023,Cleveland Guardians,a,21
+24/05/2023,Chicago White Sox,a,21
+24/05/2023,Colorado Rockies,a,21
+24/05/2023,Miami Marlins,a,25
+24/05/2023,Kansas City Royals,a,15
+24/05/2023,Detroit Tigers,a,22
+24/05/2023,Milwaukee Brewers,a,27
+24/05/2023,Houston Astros,a,28
+24/05/2023,Minnesota Twins,a,26
+24/05/2023,San Francisco Giants,a,24
+24/05/2023,New York Yankees,a,30
+24/05/2023,Baltimore Orioles,a,32
+24/05/2023,Philadelphia Phillies,a,23
+24/05/2023,Arizona Diamondbacks,a,29
+24/05/2023,Pittsburgh Pirates,a,25
+24/05/2023,Texas Rangers,a,31
+24/05/2023,Seattle Mariners,a,25
+24/05/2023,Oakland Athletics,a,10
+24/05/2023,Tampa Bay Rays,a,36
+24/05/2023,Toronto Blue Jays,a,26
+24/05/2023,Washington Nationals,a,21
+24/05/2023,San Diego Padres,a,22
+25/05/2023,Atlanta Braves,a,31
+25/05/2023,Philadelphia Phillies,a,23
+25/05/2023,Chicago Cubs,a,22
+25/05/2023,New York Mets,a,26
+25/05/2023,Cincinnati Reds,a,21
+25/05/2023,St. Louis Cardinals,a,23
+25/05/2023,Colorado Rockies,a,22
+25/05/2023,Miami Marlins,a,25
+25/05/2023,Detroit Tigers,a,23
+25/05/2023,Chicago White Sox,a,21
+25/05/2023,Milwaukee Brewers,a,27
+25/05/2023,San Francisco Giants,a,25
+25/05/2023,New York Yankees,a,30
+25/05/2023,Baltimore Orioles,a,33
+25/05/2023,Seattle Mariners,a,26
+25/05/2023,Oakland Athletics,a,10
+25/05/2023,Tampa Bay Rays,a,37
+25/05/2023,Toronto Blue Jays,a,26
+25/05/2023,Washington Nationals,a,21
+25/05/2023,San Diego Padres,a,23
+25/05/2023,Boston Red Sox,a,26
+25/05/2023,Pittsburgh Pirates,a,25
+25/05/2023,Houston Astros,a,28
+25/05/2023,Kansas City Royals,a,15
+25/05/2023,Minnesota Twins,a,26
+25/05/2023,Los Angeles Dodgers,a,31
+25/05/2023,Arizona Diamondbacks,a,29
+25/05/2023,Los Angeles Angels,a,28
+25/05/2023,Cleveland Guardians,a,21
+25/05/2023,Texas Rangers,a,31
+26/05/2023,Los Angeles Angels,a,28
+26/05/2023,Miami Marlins,a,26
+26/05/2023,Arizona Diamondbacks,a,29
+26/05/2023,Boston Red Sox,a,27
+26/05/2023,Atlanta Braves,a,31
+26/05/2023,Philadelphia Phillies,a,24
+26/05/2023,Baltimore Orioles,a,33
+26/05/2023,Texas Rangers,a,32
+26/05/2023,Chicago Cubs,a,22
+26/05/2023,Cincinnati Reds,a,22
+26/05/2023,Cleveland Guardians,a,22
+26/05/2023,St. Louis Cardinals,a,23
+26/05/2023,Colorado Rockies,a,22
+26/05/2023,New York Mets,a,27
+26/05/2023,Detroit Tigers,a,23
+26/05/2023,Chicago White Sox,a,22
+26/05/2023,Kansas City Royals,a,15
+26/05/2023,Washington Nationals,a,22
+26/05/2023,Milwaukee Brewers,a,27
+26/05/2023,San Francisco Giants,a,26
+26/05/2023,Minnesota Twins,a,26
+26/05/2023,Toronto Blue Jays,a,27
+26/05/2023,New York Yankees,a,30
+26/05/2023,San Diego Padres,a,24
+26/05/2023,Oakland Athletics,a,10
+26/05/2023,Houston Astros,a,29
+26/05/2023,Seattle Mariners,a,26
+26/05/2023,Pittsburgh Pirates,a,26
+26/05/2023,Tampa Bay Rays,a,38
+26/05/2023,Los Angeles Dodgers,a,31
+27/05/2023,Los Angeles Angels,a,28
+27/05/2023,Miami Marlins,a,27
+27/05/2023,Arizona Diamondbacks,a,29
+27/05/2023,Boston Red Sox,a,28
+27/05/2023,Atlanta Braves,a,31
+27/05/2023,Philadelphia Phillies,a,25
+27/05/2023,Baltimore Orioles,a,33
+27/05/2023,Texas Rangers,a,33
+27/05/2023,Chicago Cubs,a,22
+27/05/2023,Cincinnati Reds,a,23
+27/05/2023,Cleveland Guardians,a,22
+27/05/2023,St. Louis Cardinals,a,24
+27/05/2023,Colorado Rockies,a,23
+27/05/2023,New York Mets,a,27
+27/05/2023,Detroit Tigers,a,24
+27/05/2023,Chicago White Sox,a,22
+27/05/2023,Kansas City Royals,a,15
+27/05/2023,Washington Nationals,a,23
+27/05/2023,Milwaukee Brewers,a,27
+27/05/2023,San Francisco Giants,a,27
+27/05/2023,Minnesota Twins,a,27
+27/05/2023,Toronto Blue Jays,a,27
+27/05/2023,New York Yankees,a,31
+27/05/2023,San Diego Padres,a,24
+27/05/2023,Oakland Athletics,a,10
+27/05/2023,Houston Astros,a,30
+27/05/2023,Seattle Mariners,a,27
+27/05/2023,Pittsburgh Pirates,a,26
+27/05/2023,Tampa Bay Rays,a,38
+27/05/2023,Los Angeles Dodgers,a,32
+28/05/2023,Los Angeles Angels,a,28
+28/05/2023,Miami Marlins,a,28
+28/05/2023,Arizona Diamondbacks,a,30
+28/05/2023,Boston Red Sox,a,28
+28/05/2023,Atlanta Braves,a,32
+28/05/2023,Philadelphia Phillies,a,25
+28/05/2023,Baltimore Orioles,a,34
+28/05/2023,Texas Rangers,a,33
+28/05/2023,Chicago Cubs,a,22
+28/05/2023,Cincinnati Reds,a,24
+28/05/2023,Cleveland Guardians,a,23
+28/05/2023,St. Louis Cardinals,a,24
+28/05/2023,Colorado Rockies,a,24
+28/05/2023,New York Mets,a,27
+28/05/2023,Detroit Tigers,a,25
+28/05/2023,Chicago White Sox,a,22
+28/05/2023,Kansas City Royals,a,16
+28/05/2023,Washington Nationals,a,23
+28/05/2023,Milwaukee Brewers,a,28
+28/05/2023,San Francisco Giants,a,27
+28/05/2023,Minnesota Twins,a,27
+28/05/2023,Toronto Blue Jays,a,28
+28/05/2023,New York Yankees,a,32
+28/05/2023,San Diego Padres,a,24
+28/05/2023,Oakland Athletics,a,10
+28/05/2023,Houston Astros,a,31
+28/05/2023,Seattle Mariners,a,28
+28/05/2023,Pittsburgh Pirates,a,26
+28/05/2023,Tampa Bay Rays,a,39
+28/05/2023,Los Angeles Dodgers,a,32
+29/05/2023,Arizona Diamondbacks,a,31
+29/05/2023,Colorado Rockies,a,24
+29/05/2023,Baltimore Orioles,a,34
+29/05/2023,Cleveland Guardians,a,24
+29/05/2023,Chicago White Sox,a,22
+29/05/2023,Los Angeles Angels,a,29
+29/05/2023,Chicago Cubs,a,23
+29/05/2023,Tampa Bay Rays,a,39
+29/05/2023,Detroit Tigers,a,25
+29/05/2023,Texas Rangers,a,34
+29/05/2023,Houston Astros,a,31
+29/05/2023,Minnesota Twins,a,28
+29/05/2023,Los Angeles Dodgers,a,33
+29/05/2023,Washington Nationals,a,23
+29/05/2023,Oakland Athletics,a,11
+29/05/2023,Atlanta Braves,a,32
+29/05/2023,Seattle Mariners,a,28
+29/05/2023,New York Yankees,a,33
+29/05/2023,San Francisco Giants,a,28
+29/05/2023,Pittsburgh Pirates,a,26
+29/05/2023,St. Louis Cardinals,a,24
+29/05/2023,Kansas City Royals,a,17
+29/05/2023,Boston Red Sox,a,28
+29/05/2023,Milwaukee Brewers,a,28
+29/05/2023,Cincinnati Reds,a,24
+29/05/2023,Miami Marlins,a,28
+29/05/2023,New York Mets,a,27
+29/05/2023,San Diego Padres,a,24
+29/05/2023,Toronto Blue Jays,a,28
+29/05/2023,Philadelphia Phillies,a,25
+30/05/2023,Arizona Diamondbacks,a,32
+30/05/2023,Colorado Rockies,a,24
+30/05/2023,Baltimore Orioles,a,35
+30/05/2023,Cleveland Guardians,a,24
+30/05/2023,Boston Red Sox,a,28
+30/05/2023,Cincinnati Reds,a,25
+30/05/2023,Chicago White Sox,a,23
+30/05/2023,Los Angeles Angels,a,29
+30/05/2023,Chicago Cubs,a,24
+30/05/2023,Tampa Bay Rays,a,39
+30/05/2023,Detroit Tigers,a,25
+30/05/2023,Texas Rangers,a,35
+30/05/2023,Houston Astros,a,32
+30/05/2023,Minnesota Twins,a,28
+30/05/2023,Los Angeles Dodgers,a,34
+30/05/2023,Washington Nationals,a,23
+30/05/2023,Miami Marlins,a,28
+30/05/2023,San Diego Padres,a,25
+30/05/2023,New York Mets,a,28
+30/05/2023,Philadelphia Phillies,a,25
+30/05/2023,Oakland Athletics,a,12
+30/05/2023,Atlanta Braves,a,32
+30/05/2023,Seattle Mariners,a,28
+30/05/2023,New York Yankees,a,34
+30/05/2023,San Francisco Giants,a,28
+30/05/2023,Pittsburgh Pirates,a,27
+30/05/2023,St. Louis Cardinals,a,25
+30/05/2023,Kansas City Royals,a,17
+30/05/2023,Toronto Blue Jays,a,29
+30/05/2023,Milwaukee Brewers,a,28
+31/05/2023,Arizona Diamondbacks,a,33
+31/05/2023,Colorado Rockies,a,24
+31/05/2023,Baltimore Orioles,a,35
+31/05/2023,Cleveland Guardians,a,25
+31/05/2023,Boston Red Sox,a,28
+31/05/2023,Cincinnati Reds,a,26
+31/05/2023,Chicago White Sox,a,23
+31/05/2023,Los Angeles Angels,a,30
+31/05/2023,Chicago Cubs,a,24
+31/05/2023,Tampa Bay Rays,a,40
+31/05/2023,Detroit Tigers,a,26
+31/05/2023,Texas Rangers,a,35
+31/05/2023,Houston Astros,a,32
+31/05/2023,Minnesota Twins,a,29
+31/05/2023,Los Angeles Dodgers,a,34
+31/05/2023,Washington Nationals,a,24
+31/05/2023,Miami Marlins,a,29
+31/05/2023,San Diego Padres,a,25
+31/05/2023,New York Mets,a,29
+31/05/2023,Philadelphia Phillies,a,25
+31/05/2023,Oakland Athletics,a,12
+31/05/2023,Atlanta Braves,a,33
+31/05/2023,Seattle Mariners,a,29
+31/05/2023,New York Yankees,a,34
+31/05/2023,San Francisco Giants,a,28
+31/05/2023,Pittsburgh Pirates,a,28
+31/05/2023,Toronto Blue Jays,a,29
+31/05/2023,Milwaukee Brewers,a,29
+31/05/2023,Kansas City Royals,a,17
+31/05/2023,St. Louis Cardinals,a,25
+01/06/2023,Arizona Diamondbacks,a,34
+01/06/2023,Colorado Rockies,a,24
+01/06/2023,Boston Red Sox,a,29
+01/06/2023,Cincinnati Reds,a,26
+01/06/2023,Houston Astros,a,33
+01/06/2023,Los Angeles Angels,a,30
+01/06/2023,Miami Marlins,a,29
+01/06/2023,San Diego Padres,a,26
+01/06/2023,Minnesota Twins,a,30
+01/06/2023,Cleveland Guardians,a,25
+01/06/2023,New York Mets,a,30
+01/06/2023,Philadelphia Phillies,a,25
+01/06/2023,Toronto Blue Jays,a,30
+01/06/2023,Milwaukee Brewers,a,29
+01/06/2023,Baltimore Orioles,a,35
+01/06/2023,Chicago Cubs,a,24
+01/06/2023,Pittsburgh Pirates,a,28
+01/06/2023,Chicago White Sox,a,23
+01/06/2023,Kansas City Royals,a,17
+01/06/2023,Los Angeles Dodgers,a,34
+01/06/2023,New York Yankees,a,34
+01/06/2023,San Francisco Giants,a,28
+01/06/2023,Oakland Athletics,a,12
+01/06/2023,Seattle Mariners,a,29
+01/06/2023,St. Louis Cardinals,a,25
+01/06/2023,Tampa Bay Rays,a,40
+01/06/2023,Detroit Tigers,a,26
+01/06/2023,Texas Rangers,a,35
+01/06/2023,Washington Nationals,a,24
+01/06/2023,Atlanta Braves,a,33
+02/06/2023,Arizona Diamondbacks,a,35
+02/06/2023,Atlanta Braves,a,33
+02/06/2023,Chicago White Sox,a,24
+02/06/2023,Detroit Tigers,a,26
+02/06/2023,Cincinnati Reds,a,26
+02/06/2023,Milwaukee Brewers,a,30
+02/06/2023,Houston Astros,a,34
+02/06/2023,Los Angeles Angels,a,30
+02/06/2023,Kansas City Royals,a,17
+02/06/2023,Colorado Rockies,a,25
+02/06/2023,Los Angeles Dodgers,a,35
+02/06/2023,New York Yankees,a,34
+02/06/2023,Miami Marlins,a,30
+02/06/2023,Oakland Athletics,a,12
+02/06/2023,Minnesota Twins,a,31
+02/06/2023,Cleveland Guardians,a,25
+02/06/2023,New York Mets,a,30
+02/06/2023,Toronto Blue Jays,a,31
+02/06/2023,Pittsburgh Pirates,a,29
+02/06/2023,St. Louis Cardinals,a,25
+02/06/2023,San Diego Padres,a,26
+02/06/2023,Chicago Cubs,a,25
+02/06/2023,San Francisco Giants,a,28
+02/06/2023,Baltimore Orioles,a,36
+02/06/2023,Texas Rangers,a,36
+02/06/2023,Seattle Mariners,a,29
+02/06/2023,Washington Nationals,a,25
+02/06/2023,Philadelphia Phillies,a,25
+02/06/2023,Boston Red Sox,a,29
+02/06/2023,Tampa Bay Rays,a,40
+03/06/2023,Arizona Diamondbacks,a,35
+03/06/2023,Atlanta Braves,a,34
+03/06/2023,Boston Red Sox,a,30
+03/06/2023,Tampa Bay Rays,a,40
+03/06/2023,Boston Red Sox,a,30
+03/06/2023,Tampa Bay Rays,a,41
+03/06/2023,Chicago White Sox,a,25
+03/06/2023,Detroit Tigers,a,26
+03/06/2023,Cincinnati Reds,a,26
+03/06/2023,Milwaukee Brewers,a,31
+03/06/2023,Houston Astros,a,35
+03/06/2023,Los Angeles Angels,a,30
+03/06/2023,Kansas City Royals,a,17
+03/06/2023,Colorado Rockies,a,26
+03/06/2023,Los Angeles Dodgers,a,35
+03/06/2023,New York Yankees,a,35
+03/06/2023,Miami Marlins,a,31
+03/06/2023,Oakland Athletics,a,12
+03/06/2023,Minnesota Twins,a,31
+03/06/2023,Cleveland Guardians,a,26
+03/06/2023,New York Mets,a,30
+03/06/2023,Toronto Blue Jays,a,32
+03/06/2023,Pittsburgh Pirates,a,30
+03/06/2023,St. Louis Cardinals,a,25
+03/06/2023,San Diego Padres,a,27
+03/06/2023,Chicago Cubs,a,25
+03/06/2023,San Francisco Giants,a,29
+03/06/2023,Baltimore Orioles,a,36
+03/06/2023,Texas Rangers,a,37
+03/06/2023,Seattle Mariners,a,29
+03/06/2023,Washington Nationals,a,25
+03/06/2023,Philadelphia Phillies,a,26
+04/06/2023,Arizona Diamondbacks,a,35
+04/06/2023,Atlanta Braves,a,35
+04/06/2023,Boston Red Sox,a,30
+04/06/2023,Tampa Bay Rays,a,42
+04/06/2023,Chicago White Sox,a,26
+04/06/2023,Detroit Tigers,a,26
+04/06/2023,Cincinnati Reds,a,26
+04/06/2023,Milwaukee Brewers,a,32
+04/06/2023,Houston Astros,a,35
+04/06/2023,Los Angeles Angels,a,31
+04/06/2023,Kansas City Royals,a,18
+04/06/2023,Colorado Rockies,a,26
+04/06/2023,Los Angeles Dodgers,a,35
+04/06/2023,New York Yankees,a,36
+04/06/2023,Miami Marlins,a,32
+04/06/2023,Oakland Athletics,a,12
+04/06/2023,Minnesota Twins,a,31
+04/06/2023,Cleveland Guardians,a,27
+04/06/2023,New York Mets,a,30
+04/06/2023,Toronto Blue Jays,a,33
+04/06/2023,Pittsburgh Pirates,a,31
+04/06/2023,St. Louis Cardinals,a,25
+04/06/2023,San Diego Padres,a,27
+04/06/2023,Chicago Cubs,a,26
+04/06/2023,San Francisco Giants,a,29
+04/06/2023,Baltimore Orioles,a,37
+04/06/2023,Texas Rangers,a,38
+04/06/2023,Seattle Mariners,a,29
+04/06/2023,Washington Nationals,a,25
+04/06/2023,Philadelphia Phillies,a,27
+05/06/2023,Boston Red Sox,a,30
+05/06/2023,Tampa Bay Rays,a,43
+05/06/2023,Cincinnati Reds,a,27
+05/06/2023,Milwaukee Brewers,a,32
+05/06/2023,Miami Marlins,a,33
+05/06/2023,Kansas City Royals,a,18
+05/06/2023,Philadelphia Phillies,a,28
+05/06/2023,Detroit Tigers,a,26
+05/06/2023,Pittsburgh Pirates,a,32
+05/06/2023,Oakland Athletics,a,12
+05/06/2023,San Diego Padres,a,28
+05/06/2023,Chicago Cubs,a,26
+05/06/2023,Texas Rangers,a,39
+05/06/2023,St. Louis Cardinals,a,25
+05/06/2023,Toronto Blue Jays,a,33
+05/06/2023,Houston Astros,a,36
+05/06/2023,Baltimore Orioles,a,37
+05/06/2023,Chicago White Sox,a,26
+05/06/2023,Minnesota Twins,a,31
+05/06/2023,Los Angeles Dodgers,a,35
+05/06/2023,Arizona Diamondbacks,a,35
+05/06/2023,New York Mets,a,30
+05/06/2023,New York Yankees,a,36
+05/06/2023,San Francisco Giants,a,29
+05/06/2023,Los Angeles Angels,a,31
+05/06/2023,Colorado Rockies,a,26
+05/06/2023,Seattle Mariners,a,29
+05/06/2023,Cleveland Guardians,a,27
+05/06/2023,Washington Nationals,a,25
+05/06/2023,Atlanta Braves,a,35
+06/06/2023,Los Angeles Angels,a,32
+06/06/2023,Chicago Cubs,a,26
+06/06/2023,Atlanta Braves,a,36
+06/06/2023,New York Mets,a,30
+06/06/2023,Cincinnati Reds,a,28
+06/06/2023,Los Angeles Dodgers,a,35
+06/06/2023,Cleveland Guardians,a,27
+06/06/2023,Boston Red Sox,a,31
+06/06/2023,Colorado Rockies,a,26
+06/06/2023,San Francisco Giants,a,30
+06/06/2023,Miami Marlins,a,34
+06/06/2023,Kansas City Royals,a,18
+06/06/2023,Milwaukee Brewers,a,33
+06/06/2023,Baltimore Orioles,a,37
+06/06/2023,New York Yankees,a,36
+06/06/2023,Chicago White Sox,a,27
+06/06/2023,Philadelphia Phillies,a,29
+06/06/2023,Detroit Tigers,a,26
+06/06/2023,Pittsburgh Pirates,a,32
+06/06/2023,Oakland Athletics,a,13
+06/06/2023,San Diego Padres,a,28
+06/06/2023,Seattle Mariners,a,30
+06/06/2023,Tampa Bay Rays,a,44
+06/06/2023,Minnesota Twins,a,31
+06/06/2023,Texas Rangers,a,40
+06/06/2023,St. Louis Cardinals,a,25
+06/06/2023,Toronto Blue Jays,a,34
+06/06/2023,Houston Astros,a,36
+06/06/2023,Washington Nationals,a,25
+06/06/2023,Arizona Diamondbacks,a,36
+07/06/2023,Los Angeles Angels,a,33
+07/06/2023,Chicago Cubs,a,26
+07/06/2023,Atlanta Braves,a,37
+07/06/2023,New York Mets,a,30
+07/06/2023,Cincinnati Reds,a,29
+07/06/2023,Los Angeles Dodgers,a,35
+07/06/2023,Cleveland Guardians,a,28
+07/06/2023,Boston Red Sox,a,31
+07/06/2023,Colorado Rockies,a,26
+07/06/2023,San Francisco Giants,a,31
+07/06/2023,Miami Marlins,a,35
+07/06/2023,Kansas City Royals,a,18
+07/06/2023,Milwaukee Brewers,a,34
+07/06/2023,Baltimore Orioles,a,37
+07/06/2023,Pittsburgh Pirates,a,32
+07/06/2023,Oakland Athletics,a,14
+07/06/2023,San Diego Padres,a,29
+07/06/2023,Seattle Mariners,a,30
+07/06/2023,Tampa Bay Rays,a,45
+07/06/2023,Minnesota Twins,a,31
+07/06/2023,Texas Rangers,a,40
+07/06/2023,St. Louis Cardinals,a,26
+07/06/2023,Toronto Blue Jays,a,35
+07/06/2023,Houston Astros,a,36
+07/06/2023,Washington Nationals,a,25
+07/06/2023,Arizona Diamondbacks,a,37
+07/06/2023,Chicago White Sox,a,27
+07/06/2023,New York Yankees,a,36
+07/06/2023,Detroit Tigers,a,26
+07/06/2023,Philadelphia Phillies,a,29
+08/06/2023,Los Angeles Angels,a,34
+08/06/2023,Chicago Cubs,a,26
+08/06/2023,Atlanta Braves,a,38
+08/06/2023,New York Mets,a,30
+08/06/2023,Cincinnati Reds,a,29
+08/06/2023,Los Angeles Dodgers,a,36
+08/06/2023,Cleveland Guardians,a,29
+08/06/2023,Boston Red Sox,a,31
+08/06/2023,Colorado Rockies,a,26
+08/06/2023,San Francisco Giants,a,32
+08/06/2023,Milwaukee Brewers,a,34
+08/06/2023,Baltimore Orioles,a,38
+08/06/2023,New York Yankees,a,36
+08/06/2023,Chicago White Sox,a,28
+08/06/2023,New York Yankees,a,37
+08/06/2023,Chicago White Sox,a,28
+08/06/2023,Philadelphia Phillies,a,30
+08/06/2023,Detroit Tigers,a,26
+08/06/2023,Tampa Bay Rays,a,46
+08/06/2023,Minnesota Twins,a,31
+08/06/2023,Toronto Blue Jays,a,36
+08/06/2023,Houston Astros,a,36
+08/06/2023,Pittsburgh Pirates,a,32
+08/06/2023,Kansas City Royals,a,18
+08/06/2023,Arizona Diamondbacks,a,37
+08/06/2023,Miami Marlins,a,35
+08/06/2023,Oakland Athletics,a,14
+08/06/2023,San Diego Padres,a,29
+08/06/2023,Seattle Mariners,a,30
+08/06/2023,St. Louis Cardinals,a,26
+08/06/2023,Texas Rangers,a,40
+08/06/2023,Washington Nationals,a,25
+09/06/2023,Los Angeles Angels,a,35
+09/06/2023,Seattle Mariners,a,30
+09/06/2023,Atlanta Braves,a,39
+09/06/2023,Washington Nationals,a,25
+09/06/2023,Baltimore Orioles,a,39
+09/06/2023,Kansas City Royals,a,18
+09/06/2023,Chicago White Sox,a,29
+09/06/2023,Miami Marlins,a,35
+09/06/2023,Cleveland Guardians,a,30
+09/06/2023,Houston Astros,a,36
+09/06/2023,Colorado Rockies,a,26
+09/06/2023,San Diego Padres,a,30
+09/06/2023,Detroit Tigers,a,26
+09/06/2023,Arizona Diamondbacks,a,38
+09/06/2023,Milwaukee Brewers,a,34
+09/06/2023,Oakland Athletics,a,15
+09/06/2023,New York Yankees,a,37
+09/06/2023,Boston Red Sox,a,32
+09/06/2023,Philadelphia Phillies,a,31
+09/06/2023,Los Angeles Dodgers,a,36
+09/06/2023,Pittsburgh Pirates,a,33
+09/06/2023,New York Mets,a,30
+09/06/2023,San Francisco Giants,a,32
+09/06/2023,Chicago Cubs,a,27
+09/06/2023,St. Louis Cardinals,a,27
+09/06/2023,Cincinnati Reds,a,29
+09/06/2023,Tampa Bay Rays,a,47
+09/06/2023,Texas Rangers,a,40
+09/06/2023,Toronto Blue Jays,a,36
+09/06/2023,Minnesota Twins,a,32
+10/06/2023,Los Angeles Angels,a,35
+10/06/2023,Seattle Mariners,a,31
+10/06/2023,Atlanta Braves,a,40
+10/06/2023,Washington Nationals,a,25
+10/06/2023,Baltimore Orioles,a,40
+10/06/2023,Kansas City Royals,a,18
+10/06/2023,Chicago White Sox,a,29
+10/06/2023,Miami Marlins,a,36
+10/06/2023,Cleveland Guardians,a,30
+10/06/2023,Houston Astros,a,37
+10/06/2023,Colorado Rockies,a,26
+10/06/2023,San Diego Padres,a,31
+10/06/2023,Detroit Tigers,a,26
+10/06/2023,Arizona Diamondbacks,a,39
+10/06/2023,Milwaukee Brewers,a,34
+10/06/2023,Oakland Athletics,a,16
+10/06/2023,New York Yankees,a,38
+10/06/2023,Boston Red Sox,a,32
+10/06/2023,Philadelphia Phillies,a,31
+10/06/2023,Los Angeles Dodgers,a,37
+10/06/2023,Pittsburgh Pirates,a,33
+10/06/2023,New York Mets,a,31
+10/06/2023,San Francisco Giants,a,32
+10/06/2023,Chicago Cubs,a,28
+10/06/2023,St. Louis Cardinals,a,27
+10/06/2023,Cincinnati Reds,a,30
+10/06/2023,Tampa Bay Rays,a,47
+10/06/2023,Texas Rangers,a,41
+10/06/2023,Toronto Blue Jays,a,36
+10/06/2023,Minnesota Twins,a,33
+11/06/2023,Los Angeles Angels,a,36
+11/06/2023,Seattle Mariners,a,31
+11/06/2023,Atlanta Braves,a,40
+11/06/2023,Washington Nationals,a,26
+11/06/2023,Baltimore Orioles,a,41
+11/06/2023,Kansas City Royals,a,18
+11/06/2023,Chicago White Sox,a,29
+11/06/2023,Miami Marlins,a,37
+11/06/2023,Cleveland Guardians,a,31
+11/06/2023,Houston Astros,a,37
+11/06/2023,Colorado Rockies,a,27
+11/06/2023,San Diego Padres,a,31
+11/06/2023,Detroit Tigers,a,26
+11/06/2023,Arizona Diamondbacks,a,40
+11/06/2023,Milwaukee Brewers,a,34
+11/06/2023,Oakland Athletics,a,17
+11/06/2023,New York Yankees,a,38
+11/06/2023,Boston Red Sox,a,33
+11/06/2023,Philadelphia Phillies,a,32
+11/06/2023,Los Angeles Dodgers,a,37
+11/06/2023,Pittsburgh Pirates,a,34
+11/06/2023,New York Mets,a,31
+11/06/2023,San Francisco Giants,a,33
+11/06/2023,Chicago Cubs,a,28
+11/06/2023,St. Louis Cardinals,a,27
+11/06/2023,Cincinnati Reds,a,31
+11/06/2023,Tampa Bay Rays,a,48
+11/06/2023,Texas Rangers,a,41
+11/06/2023,Toronto Blue Jays,a,37
+11/06/2023,Minnesota Twins,a,33
+12/06/2023,Arizona Diamondbacks,a,41
+12/06/2023,Philadelphia Phillies,a,32
+12/06/2023,Boston Red Sox,a,33
+12/06/2023,Colorado Rockies,a,28
+12/06/2023,Detroit Tigers,a,27
+12/06/2023,Atlanta Braves,a,40
+12/06/2023,Kansas City Royals,a,18
+12/06/2023,Cincinnati Reds,a,32
+12/06/2023,Oakland Athletics,a,18
+12/06/2023,Tampa Bay Rays,a,48
+12/06/2023,Seattle Mariners,a,32
+12/06/2023,Miami Marlins,a,37
+12/06/2023,St. Louis Cardinals,a,27
+12/06/2023,San Francisco Giants,a,34
+12/06/2023,Texas Rangers,a,41
+12/06/2023,Los Angeles Angels,a,37
+12/06/2023,Baltimore Orioles,a,41
+12/06/2023,Chicago Cubs,a,28
+12/06/2023,Milwaukee Brewers,a,34
+12/06/2023,Pittsburgh Pirates,a,34
+12/06/2023,Houston Astros,a,37
+12/06/2023,Chicago White Sox,a,29
+12/06/2023,Minnesota Twins,a,33
+12/06/2023,Los Angeles Dodgers,a,37
+12/06/2023,New York Mets,a,31
+12/06/2023,New York Yankees,a,38
+12/06/2023,San Diego Padres,a,31
+12/06/2023,Cleveland Guardians,a,31
+12/06/2023,Toronto Blue Jays,a,37
+12/06/2023,Washington Nationals,a,26
+13/06/2023,Arizona Diamondbacks,a,41
+13/06/2023,Philadelphia Phillies,a,33
+13/06/2023,Baltimore Orioles,a,42
+13/06/2023,Toronto Blue Jays,a,37
+13/06/2023,Boston Red Sox,a,33
+13/06/2023,Colorado Rockies,a,29
+13/06/2023,Chicago Cubs,a,29
+13/06/2023,Pittsburgh Pirates,a,34
+13/06/2023,Houston Astros,a,38
+13/06/2023,Washington Nationals,a,26
+13/06/2023,Kansas City Royals,a,18
+13/06/2023,Cincinnati Reds,a,33
+13/06/2023,Los Angeles Dodgers,a,38
+13/06/2023,Chicago White Sox,a,29
+13/06/2023,Minnesota Twins,a,34
+13/06/2023,Milwaukee Brewers,a,34
+13/06/2023,New York Mets,a,31
+13/06/2023,New York Yankees,a,39
+13/06/2023,Oakland Athletics,a,19
+13/06/2023,Tampa Bay Rays,a,48
+13/06/2023,San Diego Padres,a,32
+13/06/2023,Cleveland Guardians,a,31
+13/06/2023,Seattle Mariners,a,33
+13/06/2023,Miami Marlins,a,37
+13/06/2023,St. Louis Cardinals,a,27
+13/06/2023,San Francisco Giants,a,35
+13/06/2023,Texas Rangers,a,41
+13/06/2023,Los Angeles Angels,a,38
+13/06/2023,Detroit Tigers,a,27
+13/06/2023,Atlanta Braves,a,40
+14/06/2023,Arizona Diamondbacks,a,41
+14/06/2023,Philadelphia Phillies,a,34
+14/06/2023,Baltimore Orioles,a,42
+14/06/2023,Toronto Blue Jays,a,38
+14/06/2023,Boston Red Sox,a,34
+14/06/2023,Colorado Rockies,a,29
+14/06/2023,Chicago Cubs,a,30
+14/06/2023,Pittsburgh Pirates,a,34
+14/06/2023,Detroit Tigers,a,27
+14/06/2023,Atlanta Braves,a,41
+14/06/2023,Detroit Tigers,a,27
+14/06/2023,Atlanta Braves,a,42
+14/06/2023,Houston Astros,a,39
+14/06/2023,Washington Nationals,a,26
+14/06/2023,Kansas City Royals,a,18
+14/06/2023,Cincinnati Reds,a,34
+14/06/2023,Los Angeles Dodgers,a,38
+14/06/2023,Chicago White Sox,a,30
+14/06/2023,Minnesota Twins,a,35
+14/06/2023,Milwaukee Brewers,a,34
+14/06/2023,New York Mets,a,32
+14/06/2023,New York Yankees,a,39
+14/06/2023,Oakland Athletics,a,19
+14/06/2023,Tampa Bay Rays,a,49
+14/06/2023,San Diego Padres,a,33
+14/06/2023,Cleveland Guardians,a,31
+14/06/2023,Seattle Mariners,a,33
+14/06/2023,Miami Marlins,a,38
+14/06/2023,St. Louis Cardinals,a,27
+14/06/2023,San Francisco Giants,a,36
+14/06/2023,Texas Rangers,a,42
+14/06/2023,Los Angeles Angels,a,38
+15/06/2023,Arizona Diamondbacks,a,41
+15/06/2023,Philadelphia Phillies,a,35
+15/06/2023,Atlanta Braves,a,43
+15/06/2023,Colorado Rockies,a,29
+15/06/2023,Baltimore Orioles,a,43
+15/06/2023,Toronto Blue Jays,a,38
+15/06/2023,Chicago Cubs,a,31
+15/06/2023,Pittsburgh Pirates,a,34
+15/06/2023,Houston Astros,a,39
+15/06/2023,Washington Nationals,a,27
+15/06/2023,Los Angeles Dodgers,a,39
+15/06/2023,Chicago White Sox,a,30
+15/06/2023,Minnesota Twins,a,35
+15/06/2023,Detroit Tigers,a,28
+15/06/2023,Oakland Athletics,a,19
+15/06/2023,Tampa Bay Rays,a,50
+15/06/2023,San Diego Padres,a,33
+15/06/2023,Cleveland Guardians,a,32
+15/06/2023,Texas Rangers,a,42
+15/06/2023,Los Angeles Angels,a,39
+15/06/2023,Boston Red Sox,a,34
+15/06/2023,Milwaukee Brewers,a,34
+15/06/2023,Cincinnati Reds,a,34
+15/06/2023,Kansas City Royals,a,18
+15/06/2023,Miami Marlins,a,38
+15/06/2023,New York Mets,a,32
+15/06/2023,New York Yankees,a,39
+15/06/2023,San Francisco Giants,a,36
+15/06/2023,Seattle Mariners,a,33
+15/06/2023,St. Louis Cardinals,a,27
+16/06/2023,Arizona Diamondbacks,a,42
+16/06/2023,Cleveland Guardians,a,32
+16/06/2023,Atlanta Braves,a,44
+16/06/2023,Colorado Rockies,a,29
+16/06/2023,Boston Red Sox,a,35
+16/06/2023,New York Yankees,a,39
+16/06/2023,Chicago Cubs,a,32
+16/06/2023,Baltimore Orioles,a,43
+16/06/2023,Houston Astros,a,39
+16/06/2023,Cincinnati Reds,a,35
+16/06/2023,Kansas City Royals,a,18
+16/06/2023,Los Angeles Angels,a,40
+16/06/2023,Los Angeles Dodgers,a,39
+16/06/2023,San Francisco Giants,a,37
+16/06/2023,Milwaukee Brewers,a,35
+16/06/2023,Pittsburgh Pirates,a,34
+16/06/2023,Minnesota Twins,a,35
+16/06/2023,Detroit Tigers,a,29
+16/06/2023,New York Mets,a,33
+16/06/2023,St. Louis Cardinals,a,27
+16/06/2023,Oakland Athletics,a,19
+16/06/2023,Philadelphia Phillies,a,36
+16/06/2023,San Diego Padres,a,33
+16/06/2023,Tampa Bay Rays,a,51
+16/06/2023,Seattle Mariners,a,34
+16/06/2023,Chicago White Sox,a,30
+16/06/2023,Texas Rangers,a,42
+16/06/2023,Toronto Blue Jays,a,39
+16/06/2023,Washington Nationals,a,27
+16/06/2023,Miami Marlins,a,39
+17/06/2023,Arizona Diamondbacks,a,43
+17/06/2023,Cleveland Guardians,a,32
+17/06/2023,Atlanta Braves,a,45
+17/06/2023,Colorado Rockies,a,29
+17/06/2023,Chicago Cubs,a,33
+17/06/2023,Baltimore Orioles,a,43
+17/06/2023,Houston Astros,a,39
+17/06/2023,Cincinnati Reds,a,36
+17/06/2023,Kansas City Royals,a,19
+17/06/2023,Los Angeles Angels,a,40
+17/06/2023,Los Angeles Dodgers,a,39
+17/06/2023,San Francisco Giants,a,38
+17/06/2023,Milwaukee Brewers,a,36
+17/06/2023,Pittsburgh Pirates,a,34
+17/06/2023,Minnesota Twins,a,36
+17/06/2023,Detroit Tigers,a,29
+17/06/2023,New York Mets,a,33
+17/06/2023,St. Louis Cardinals,a,28
+17/06/2023,Oakland Athletics,a,19
+17/06/2023,Philadelphia Phillies,a,37
+17/06/2023,San Diego Padres,a,34
+17/06/2023,Tampa Bay Rays,a,51
+17/06/2023,Seattle Mariners,a,34
+17/06/2023,Chicago White Sox,a,31
+17/06/2023,Texas Rangers,a,43
+17/06/2023,Toronto Blue Jays,a,39
+17/06/2023,Washington Nationals,a,27
+17/06/2023,Miami Marlins,a,40
+17/06/2023,Boston Red Sox,a,35
+17/06/2023,New York Yankees,a,39
+18/06/2023,Arizona Diamondbacks,a,43
+18/06/2023,Cleveland Guardians,a,33
+18/06/2023,Atlanta Braves,a,46
+18/06/2023,Colorado Rockies,a,29
+18/06/2023,Boston Red Sox,a,36
+18/06/2023,New York Yankees,a,39
+18/06/2023,Boston Red Sox,a,37
+18/06/2023,New York Yankees,a,39
+18/06/2023,Chicago Cubs,a,33
+18/06/2023,Baltimore Orioles,a,44
+18/06/2023,Houston Astros,a,39
+18/06/2023,Cincinnati Reds,a,37
+18/06/2023,Kansas City Royals,a,19
+18/06/2023,Los Angeles Angels,a,41
+18/06/2023,Los Angeles Dodgers,a,39
+18/06/2023,San Francisco Giants,a,39
+18/06/2023,Milwaukee Brewers,a,37
+18/06/2023,Pittsburgh Pirates,a,34
+18/06/2023,Minnesota Twins,a,36
+18/06/2023,Detroit Tigers,a,30
+18/06/2023,New York Mets,a,33
+18/06/2023,St. Louis Cardinals,a,29
+18/06/2023,Oakland Athletics,a,19
+18/06/2023,Philadelphia Phillies,a,38
+18/06/2023,San Diego Padres,a,35
+18/06/2023,Tampa Bay Rays,a,51
+18/06/2023,Seattle Mariners,a,35
+18/06/2023,Chicago White Sox,a,31
+18/06/2023,Texas Rangers,a,44
+18/06/2023,Toronto Blue Jays,a,39
+18/06/2023,Washington Nationals,a,27
+18/06/2023,Miami Marlins,a,41
+19/06/2023,Chicago White Sox,a,31
+19/06/2023,Texas Rangers,a,45
+19/06/2023,Cincinnati Reds,a,38
+19/06/2023,Colorado Rockies,a,29
+19/06/2023,Detroit Tigers,a,31
+19/06/2023,Kansas City Royals,a,19
+19/06/2023,Houston Astros,a,39
+19/06/2023,New York Mets,a,34
+19/06/2023,Miami Marlins,a,42
+19/06/2023,Toronto Blue Jays,a,39
+19/06/2023,Milwaukee Brewers,a,37
+19/06/2023,Arizona Diamondbacks,a,44
+19/06/2023,Minnesota Twins,a,36
+19/06/2023,Boston Red Sox,a,38
+19/06/2023,Pittsburgh Pirates,a,34
+19/06/2023,Chicago Cubs,a,34
+19/06/2023,San Francisco Giants,a,40
+19/06/2023,San Diego Padres,a,35
+19/06/2023,Washington Nationals,a,27
+19/06/2023,St. Louis Cardinals,a,30
+19/06/2023,Baltimore Orioles,a,44
+19/06/2023,Los Angeles Dodgers,a,39
+19/06/2023,New York Yankees,a,39
+19/06/2023,Oakland Athletics,a,19
+19/06/2023,Los Angeles Angels,a,41
+19/06/2023,Seattle Mariners,a,35
+19/06/2023,Cleveland Guardians,a,33
+19/06/2023,Tampa Bay Rays,a,51
+19/06/2023,Philadelphia Phillies,a,38
+19/06/2023,Atlanta Braves,a,46
+20/06/2023,Los Angeles Angels,a,41
+20/06/2023,Los Angeles Dodgers,a,40
+20/06/2023,Chicago White Sox,a,32
+20/06/2023,Texas Rangers,a,45
+20/06/2023,Cincinnati Reds,a,39
+20/06/2023,Colorado Rockies,a,29
+20/06/2023,Cleveland Guardians,a,34
+20/06/2023,Oakland Athletics,a,19
+20/06/2023,Detroit Tigers,a,31
+20/06/2023,Kansas City Royals,a,20
+20/06/2023,Houston Astros,a,40
+20/06/2023,New York Mets,a,34
+20/06/2023,Miami Marlins,a,42
+20/06/2023,Toronto Blue Jays,a,40
+20/06/2023,Milwaukee Brewers,a,38
+20/06/2023,Arizona Diamondbacks,a,44
+20/06/2023,Minnesota Twins,a,36
+20/06/2023,Boston Red Sox,a,39
+20/06/2023,New York Yankees,a,40
+20/06/2023,Seattle Mariners,a,35
+20/06/2023,Philadelphia Phillies,a,38
+20/06/2023,Atlanta Braves,a,47
+20/06/2023,Pittsburgh Pirates,a,34
+20/06/2023,Chicago Cubs,a,35
+20/06/2023,San Francisco Giants,a,41
+20/06/2023,San Diego Padres,a,35
+20/06/2023,Tampa Bay Rays,a,51
+20/06/2023,Baltimore Orioles,a,45
+20/06/2023,Washington Nationals,a,27
+20/06/2023,St. Louis Cardinals,a,31
+21/06/2023,Los Angeles Angels,a,41
+21/06/2023,Los Angeles Dodgers,a,41
+21/06/2023,Chicago White Sox,a,32
+21/06/2023,Texas Rangers,a,46
+21/06/2023,Cincinnati Reds,a,40
+21/06/2023,Colorado Rockies,a,29
+21/06/2023,Cleveland Guardians,a,35
+21/06/2023,Oakland Athletics,a,19
+21/06/2023,Detroit Tigers,a,32
+21/06/2023,Kansas City Royals,a,20
+21/06/2023,Houston Astros,a,41
+21/06/2023,New York Mets,a,34
+21/06/2023,Miami Marlins,a,42
+21/06/2023,Toronto Blue Jays,a,41
+21/06/2023,Milwaukee Brewers,a,38
+21/06/2023,Arizona Diamondbacks,a,45
+21/06/2023,Minnesota Twins,a,37
+21/06/2023,Boston Red Sox,a,39
+21/06/2023,New York Yankees,a,41
+21/06/2023,Seattle Mariners,a,35
+21/06/2023,Pittsburgh Pirates,a,34
+21/06/2023,Chicago Cubs,a,36
+21/06/2023,San Francisco Giants,a,42
+21/06/2023,San Diego Padres,a,35
+21/06/2023,Tampa Bay Rays,a,52
+21/06/2023,Baltimore Orioles,a,45
+21/06/2023,Washington Nationals,a,28
+21/06/2023,St. Louis Cardinals,a,31
+21/06/2023,Philadelphia Phillies,a,38
+21/06/2023,Atlanta Braves,a,47
+22/06/2023,Cleveland Guardians,a,36
+22/06/2023,Oakland Athletics,a,19
+22/06/2023,Miami Marlins,a,43
+22/06/2023,Pittsburgh Pirates,a,34
+22/06/2023,Minnesota Twins,a,38
+22/06/2023,Boston Red Sox,a,39
+22/06/2023,New York Yankees,a,41
+22/06/2023,Seattle Mariners,a,36
+22/06/2023,Philadelphia Phillies,a,38
+22/06/2023,Atlanta Braves,a,48
+22/06/2023,San Francisco Giants,a,42
+22/06/2023,San Diego Padres,a,36
+22/06/2023,Tampa Bay Rays,a,52
+22/06/2023,Kansas City Royals,a,21
+22/06/2023,Washington Nationals,a,28
+22/06/2023,Arizona Diamondbacks,a,46
+22/06/2023,Baltimore Orioles,a,45
+22/06/2023,Chicago Cubs,a,36
+22/06/2023,Milwaukee Brewers,a,38
+22/06/2023,Cincinnati Reds,a,40
+22/06/2023,Houston Astros,a,41
+22/06/2023,Chicago White Sox,a,32
+22/06/2023,Los Angeles Dodgers,a,41
+22/06/2023,New York Mets,a,34
+22/06/2023,Los Angeles Angels,a,41
+22/06/2023,Colorado Rockies,a,29
+22/06/2023,St. Louis Cardinals,a,31
+22/06/2023,Toronto Blue Jays,a,41
+22/06/2023,Detroit Tigers,a,32
+22/06/2023,Texas Rangers,a,46
+23/06/2023,Baltimore Orioles,a,45
+23/06/2023,Seattle Mariners,a,37
+23/06/2023,Chicago White Sox,a,32
+23/06/2023,Boston Red Sox,a,40
+23/06/2023,Cincinnati Reds,a,41
+23/06/2023,Atlanta Braves,a,48
+23/06/2023,Cleveland Guardians,a,36
+23/06/2023,Milwaukee Brewers,a,39
+23/06/2023,Colorado Rockies,a,30
+23/06/2023,Los Angeles Angels,a,41
+23/06/2023,Detroit Tigers,a,32
+23/06/2023,Minnesota Twins,a,39
+23/06/2023,Los Angeles Dodgers,a,42
+23/06/2023,Houston Astros,a,41
+23/06/2023,Miami Marlins,a,43
+23/06/2023,Pittsburgh Pirates,a,35
+23/06/2023,New York Yankees,a,41
+23/06/2023,Texas Rangers,a,47
+23/06/2023,Philadelphia Phillies,a,39
+23/06/2023,New York Mets,a,34
+23/06/2023,San Diego Padres,a,37
+23/06/2023,Washington Nationals,a,28
+23/06/2023,San Francisco Giants,a,43
+23/06/2023,Arizona Diamondbacks,a,46
+23/06/2023,Tampa Bay Rays,a,53
+23/06/2023,Kansas City Royals,a,21
+23/06/2023,Toronto Blue Jays,a,41
+23/06/2023,Oakland Athletics,a,20
+23/06/2023,Chicago Cubs,a,36
+23/06/2023,St. Louis Cardinals,a,31
+24/06/2023,Baltimore Orioles,a,46
+24/06/2023,Seattle Mariners,a,37
+24/06/2023,Chicago White Sox,a,33
+24/06/2023,Boston Red Sox,a,40
+24/06/2023,Cincinnati Reds,a,41
+24/06/2023,Atlanta Braves,a,49
+24/06/2023,Cleveland Guardians,a,37
+24/06/2023,Milwaukee Brewers,a,39
+24/06/2023,Colorado Rockies,a,30
+24/06/2023,Los Angeles Angels,a,42
+24/06/2023,Detroit Tigers,a,33
+24/06/2023,Minnesota Twins,a,39
+24/06/2023,Los Angeles Dodgers,a,43
+24/06/2023,Houston Astros,a,41
+24/06/2023,Miami Marlins,a,44
+24/06/2023,Pittsburgh Pirates,a,35
+24/06/2023,New York Yankees,a,42
+24/06/2023,Texas Rangers,a,47
+24/06/2023,Philadelphia Phillies,a,39
+24/06/2023,New York Mets,a,35
+24/06/2023,San Diego Padres,a,37
+24/06/2023,Washington Nationals,a,29
+24/06/2023,San Francisco Giants,a,44
+24/06/2023,Arizona Diamondbacks,a,46
+24/06/2023,St. Louis Cardinals,a,31
+24/06/2023,Chicago Cubs,a,37
+24/06/2023,Tampa Bay Rays,a,53
+24/06/2023,Kansas City Royals,a,22
+24/06/2023,Toronto Blue Jays,a,42
+24/06/2023,Oakland Athletics,a,20
+25/06/2023,Baltimore Orioles,a,47
+25/06/2023,Seattle Mariners,a,37
+25/06/2023,Chicago White Sox,a,34
+25/06/2023,Boston Red Sox,a,40
+25/06/2023,Cincinnati Reds,a,41
+25/06/2023,Atlanta Braves,a,50
+25/06/2023,Cleveland Guardians,a,37
+25/06/2023,Milwaukee Brewers,a,40
+25/06/2023,Colorado Rockies,a,31
+25/06/2023,Los Angeles Angels,a,42
+25/06/2023,Detroit Tigers,a,33
+25/06/2023,Minnesota Twins,a,40
+25/06/2023,Los Angeles Dodgers,a,43
+25/06/2023,Houston Astros,a,42
+25/06/2023,Miami Marlins,a,45
+25/06/2023,Pittsburgh Pirates,a,35
+25/06/2023,New York Yankees,a,43
+25/06/2023,Texas Rangers,a,47
+25/06/2023,Philadelphia Phillies,a,40
+25/06/2023,New York Mets,a,35
+25/06/2023,San Diego Padres,a,37
+25/06/2023,Washington Nationals,a,30
+25/06/2023,San Francisco Giants,a,44
+25/06/2023,Arizona Diamondbacks,a,47
+25/06/2023,St. Louis Cardinals,a,32
+25/06/2023,Chicago Cubs,a,37
+25/06/2023,Tampa Bay Rays,a,54
+25/06/2023,Kansas City Royals,a,22
+25/06/2023,Toronto Blue Jays,a,43
+25/06/2023,Oakland Athletics,a,20
+26/06/2023,Los Angeles Angels,a,43
+26/06/2023,Chicago White Sox,a,34
+26/06/2023,Atlanta Braves,a,51
+26/06/2023,Minnesota Twins,a,40
+26/06/2023,Baltimore Orioles,a,48
+26/06/2023,Cincinnati Reds,a,41
+26/06/2023,New York Mets,a,35
+26/06/2023,Milwaukee Brewers,a,41
+26/06/2023,Seattle Mariners,a,38
+26/06/2023,Washington Nationals,a,30
+26/06/2023,Texas Rangers,a,47
+26/06/2023,Detroit Tigers,a,34
+26/06/2023,Boston Red Sox,a,40
+26/06/2023,Chicago Cubs,a,37
+26/06/2023,Pittsburgh Pirates,a,35
+26/06/2023,Houston Astros,a,42
+26/06/2023,Kansas City Royals,a,22
+26/06/2023,Los Angeles Dodgers,a,43
+26/06/2023,Arizona Diamondbacks,a,47
+26/06/2023,Miami Marlins,a,45
+26/06/2023,New York Yankees,a,43
+26/06/2023,San Francisco Giants,a,44
+26/06/2023,Oakland Athletics,a,20
+26/06/2023,San Diego Padres,a,37
+26/06/2023,Colorado Rockies,a,31
+26/06/2023,Cleveland Guardians,a,37
+26/06/2023,St. Louis Cardinals,a,32
+26/06/2023,Toronto Blue Jays,a,43
+26/06/2023,Tampa Bay Rays,a,54
+26/06/2023,Philadelphia Phillies,a,40
+27/06/2023,Los Angeles Angels,a,44
+27/06/2023,Chicago White Sox,a,34
+27/06/2023,Arizona Diamondbacks,a,48
+27/06/2023,Tampa Bay Rays,a,54
+27/06/2023,Atlanta Braves,a,52
+27/06/2023,Minnesota Twins,a,40
+27/06/2023,Baltimore Orioles,a,48
+27/06/2023,Cincinnati Reds,a,42
+27/06/2023,Boston Red Sox,a,40
+27/06/2023,Miami Marlins,a,46
+27/06/2023,Chicago Cubs,a,37
+27/06/2023,Philadelphia Phillies,a,41
+27/06/2023,Colorado Rockies,a,31
+27/06/2023,Los Angeles Dodgers,a,44
+27/06/2023,Kansas City Royals,a,22
+27/06/2023,Cleveland Guardians,a,38
+27/06/2023,New York Mets,a,36
+27/06/2023,Milwaukee Brewers,a,41
+27/06/2023,Oakland Athletics,a,21
+27/06/2023,New York Yankees,a,43
+27/06/2023,Pittsburgh Pirates,a,36
+27/06/2023,San Diego Padres,a,37
+27/06/2023,Seattle Mariners,a,38
+27/06/2023,Washington Nationals,a,31
+27/06/2023,St. Louis Cardinals,a,33
+27/06/2023,Houston Astros,a,42
+27/06/2023,Texas Rangers,a,48
+27/06/2023,Detroit Tigers,a,34
+27/06/2023,Toronto Blue Jays,a,43
+27/06/2023,San Francisco Giants,a,45
+28/06/2023,Los Angeles Angels,a,44
+28/06/2023,Chicago White Sox,a,35
+28/06/2023,Arizona Diamondbacks,a,48
+28/06/2023,Tampa Bay Rays,a,55
+28/06/2023,Atlanta Braves,a,53
+28/06/2023,Minnesota Twins,a,40
+28/06/2023,Baltimore Orioles,a,48
+28/06/2023,Cincinnati Reds,a,43
+28/06/2023,Boston Red Sox,a,40
+28/06/2023,Miami Marlins,a,47
+28/06/2023,Chicago Cubs,a,37
+28/06/2023,Philadelphia Phillies,a,42
+28/06/2023,Colorado Rockies,a,32
+28/06/2023,Los Angeles Dodgers,a,44
+28/06/2023,Kansas City Royals,a,22
+28/06/2023,Cleveland Guardians,a,39
+28/06/2023,New York Mets,a,36
+28/06/2023,Milwaukee Brewers,a,42
+28/06/2023,Oakland Athletics,a,21
+28/06/2023,New York Yankees,a,44
+28/06/2023,Pittsburgh Pirates,a,37
+28/06/2023,San Diego Padres,a,37
+28/06/2023,Seattle Mariners,a,38
+28/06/2023,Washington Nationals,a,32
+28/06/2023,St. Louis Cardinals,a,33
+28/06/2023,Houston Astros,a,43
+28/06/2023,Texas Rangers,a,49
+28/06/2023,Detroit Tigers,a,34
+28/06/2023,Toronto Blue Jays,a,44
+28/06/2023,San Francisco Giants,a,45
+29/06/2023,Los Angeles Angels,a,44
+29/06/2023,Chicago White Sox,a,36
+29/06/2023,Arizona Diamondbacks,a,48
+29/06/2023,Tampa Bay Rays,a,56
+29/06/2023,Boston Red Sox,a,40
+29/06/2023,Miami Marlins,a,48
+29/06/2023,Chicago Cubs,a,37
+29/06/2023,Philadelphia Phillies,a,43
+29/06/2023,Colorado Rockies,a,32
+29/06/2023,Los Angeles Dodgers,a,45
+29/06/2023,Kansas City Royals,a,23
+29/06/2023,Cleveland Guardians,a,39
+29/06/2023,New York Mets,a,36
+29/06/2023,Milwaukee Brewers,a,43
+29/06/2023,Oakland Athletics,a,21
+29/06/2023,New York Yankees,a,45
+29/06/2023,Pittsburgh Pirates,a,38
+29/06/2023,San Diego Padres,a,37
+29/06/2023,St. Louis Cardinals,a,33
+29/06/2023,Houston Astros,a,44
+29/06/2023,Texas Rangers,a,49
+29/06/2023,Detroit Tigers,a,35
+29/06/2023,Toronto Blue Jays,a,45
+29/06/2023,San Francisco Giants,a,45
+29/06/2023,Baltimore Orioles,a,48
+29/06/2023,Cincinnati Reds,a,43
+29/06/2023,Minnesota Twins,a,40
+29/06/2023,Seattle Mariners,a,38
+29/06/2023,Washington Nationals,a,32
+29/06/2023,Atlanta Braves,a,53
+30/06/2023,Los Angeles Angels,a,44
+30/06/2023,Arizona Diamondbacks,a,49
+30/06/2023,Atlanta Braves,a,54
+30/06/2023,Miami Marlins,a,48
+30/06/2023,Baltimore Orioles,a,48
+30/06/2023,Minnesota Twins,a,41
+30/06/2023,Chicago Cubs,a,38
+30/06/2023,Cleveland Guardians,a,39
+30/06/2023,Cincinnati Reds,a,44
+30/06/2023,San Diego Padres,a,37
+30/06/2023,Colorado Rockies,a,33
+30/06/2023,Detroit Tigers,a,35
+30/06/2023,Kansas City Royals,a,23
+30/06/2023,Los Angeles Dodgers,a,46
+30/06/2023,New York Mets,a,36
+30/06/2023,San Francisco Giants,a,46
+30/06/2023,Oakland Athletics,a,22
+30/06/2023,Chicago White Sox,a,36
+30/06/2023,Philadelphia Phillies,a,43
+30/06/2023,Washington Nationals,a,33
+30/06/2023,Pittsburgh Pirates,a,39
+30/06/2023,Milwaukee Brewers,a,43
+30/06/2023,Seattle Mariners,a,38
+30/06/2023,Tampa Bay Rays,a,57
+30/06/2023,Texas Rangers,a,49
+30/06/2023,Houston Astros,a,45
+30/06/2023,Toronto Blue Jays,a,45
+30/06/2023,Boston Red Sox,a,41
+30/06/2023,New York Yankees,a,45
+30/06/2023,St. Louis Cardinals,a,33
+01/07/2023,Los Angeles Angels,a,44
+01/07/2023,Arizona Diamondbacks,a,50
+01/07/2023,Atlanta Braves,a,55
+01/07/2023,Miami Marlins,a,48
+01/07/2023,Baltimore Orioles,a,48
+01/07/2023,Minnesota Twins,a,42
+01/07/2023,Chicago Cubs,a,38
+01/07/2023,Cleveland Guardians,a,40
+01/07/2023,Cincinnati Reds,a,44
+01/07/2023,San Diego Padres,a,38
+01/07/2023,Colorado Rockies,a,33
+01/07/2023,Detroit Tigers,a,36
+01/07/2023,Kansas City Royals,a,24
+01/07/2023,Los Angeles Dodgers,a,46
+01/07/2023,New York Mets,a,37
+01/07/2023,San Francisco Giants,a,46
+01/07/2023,Oakland Athletics,a,23
+01/07/2023,Chicago White Sox,a,36
+01/07/2023,Philadelphia Phillies,a,44
+01/07/2023,Washington Nationals,a,33
+01/07/2023,Pittsburgh Pirates,a,39
+01/07/2023,Milwaukee Brewers,a,44
+01/07/2023,Seattle Mariners,a,39
+01/07/2023,Tampa Bay Rays,a,57
+01/07/2023,St. Louis Cardinals,a,34
+01/07/2023,New York Yankees,a,45
+01/07/2023,St. Louis Cardinals,a,34
+01/07/2023,New York Yankees,a,46
+01/07/2023,Texas Rangers,a,50
+01/07/2023,Houston Astros,a,45
+01/07/2023,Toronto Blue Jays,a,45
+01/07/2023,Boston Red Sox,a,42
+02/07/2023,Los Angeles Angels,a,45
+02/07/2023,Arizona Diamondbacks,a,50
+02/07/2023,Atlanta Braves,a,56
+02/07/2023,Miami Marlins,a,48
+02/07/2023,Baltimore Orioles,a,49
+02/07/2023,Minnesota Twins,a,42
+02/07/2023,Chicago Cubs,a,38
+02/07/2023,Cleveland Guardians,a,41
+02/07/2023,Cincinnati Reds,a,45
+02/07/2023,San Diego Padres,a,38
+02/07/2023,Colorado Rockies,a,33
+02/07/2023,Detroit Tigers,a,37
+02/07/2023,Kansas City Royals,a,25
+02/07/2023,Los Angeles Dodgers,a,46
+02/07/2023,New York Mets,a,38
+02/07/2023,San Francisco Giants,a,46
+02/07/2023,Oakland Athletics,a,23
+02/07/2023,Chicago White Sox,a,37
+02/07/2023,Philadelphia Phillies,a,44
+02/07/2023,Washington Nationals,a,34
+02/07/2023,Pittsburgh Pirates,a,39
+02/07/2023,Milwaukee Brewers,a,45
+02/07/2023,Seattle Mariners,a,40
+02/07/2023,Tampa Bay Rays,a,57
+02/07/2023,St. Louis Cardinals,a,35
+02/07/2023,New York Yankees,a,46
+02/07/2023,Texas Rangers,a,50
+02/07/2023,Houston Astros,a,46
+02/07/2023,Toronto Blue Jays,a,45
+02/07/2023,Boston Red Sox,a,43
+03/07/2023,Cleveland Guardians,a,41
+03/07/2023,Atlanta Braves,a,57
+03/07/2023,Los Angeles Dodgers,a,47
+03/07/2023,Pittsburgh Pirates,a,39
+03/07/2023,Miami Marlins,a,49
+03/07/2023,St. Louis Cardinals,a,35
+03/07/2023,Milwaukee Brewers,a,46
+03/07/2023,Chicago Cubs,a,38
+03/07/2023,Minnesota Twins,a,43
+03/07/2023,Kansas City Royals,a,25
+03/07/2023,New York Yankees,a,47
+03/07/2023,Baltimore Orioles,a,49
+03/07/2023,San Diego Padres,a,39
+03/07/2023,Los Angeles Angels,a,45
+03/07/2023,San Francisco Giants,a,46
+03/07/2023,Seattle Mariners,a,41
+03/07/2023,Texas Rangers,a,50
+03/07/2023,Houston Astros,a,47
+03/07/2023,Washington Nationals,a,34
+03/07/2023,Cincinnati Reds,a,46
+03/07/2023,Boston Red Sox,a,43
+03/07/2023,Chicago White Sox,a,37
+03/07/2023,Arizona Diamondbacks,a,50
+03/07/2023,New York Mets,a,38
+03/07/2023,Oakland Athletics,a,23
+03/07/2023,Colorado Rockies,a,33
+03/07/2023,Toronto Blue Jays,a,45
+03/07/2023,Tampa Bay Rays,a,57
+03/07/2023,Detroit Tigers,a,37
+03/07/2023,Philadelphia Phillies,a,44
+04/07/2023,Arizona Diamondbacks,a,50
+04/07/2023,New York Mets,a,39
+04/07/2023,Boston Red Sox,a,43
+04/07/2023,Texas Rangers,a,51
+04/07/2023,Chicago White Sox,a,37
+04/07/2023,Toronto Blue Jays,a,46
+04/07/2023,Cleveland Guardians,a,42
+04/07/2023,Atlanta Braves,a,57
+04/07/2023,Detroit Tigers,a,37
+04/07/2023,Oakland Athletics,a,24
+04/07/2023,Houston Astros,a,48
+04/07/2023,Colorado Rockies,a,33
+04/07/2023,Los Angeles Dodgers,a,47
+04/07/2023,Pittsburgh Pirates,a,40
+04/07/2023,Miami Marlins,a,50
+04/07/2023,St. Louis Cardinals,a,35
+04/07/2023,Milwaukee Brewers,a,46
+04/07/2023,Chicago Cubs,a,39
+04/07/2023,Minnesota Twins,a,44
+04/07/2023,Kansas City Royals,a,25
+04/07/2023,New York Yankees,a,48
+04/07/2023,Baltimore Orioles,a,49
+04/07/2023,San Diego Padres,a,40
+04/07/2023,Los Angeles Angels,a,45
+04/07/2023,San Francisco Giants,a,46
+04/07/2023,Seattle Mariners,a,42
+04/07/2023,Tampa Bay Rays,a,57
+04/07/2023,Philadelphia Phillies,a,45
+04/07/2023,Washington Nationals,a,34
+04/07/2023,Cincinnati Reds,a,47
+05/07/2023,Arizona Diamondbacks,a,50
+05/07/2023,New York Mets,a,40
+05/07/2023,Boston Red Sox,a,44
+05/07/2023,Texas Rangers,a,51
+05/07/2023,Cleveland Guardians,a,42
+05/07/2023,Atlanta Braves,a,58
+05/07/2023,Detroit Tigers,a,37
+05/07/2023,Oakland Athletics,a,25
+05/07/2023,Houston Astros,a,49
+05/07/2023,Colorado Rockies,a,33
+05/07/2023,Los Angeles Dodgers,a,48
+05/07/2023,Pittsburgh Pirates,a,40
+05/07/2023,Miami Marlins,a,51
+05/07/2023,St. Louis Cardinals,a,35
+05/07/2023,Milwaukee Brewers,a,46
+05/07/2023,Chicago Cubs,a,40
+05/07/2023,Minnesota Twins,a,45
+05/07/2023,Kansas City Royals,a,25
+05/07/2023,New York Yankees,a,48
+05/07/2023,Baltimore Orioles,a,50
+05/07/2023,San Diego Padres,a,41
+05/07/2023,Los Angeles Angels,a,45
+05/07/2023,San Francisco Giants,a,47
+05/07/2023,Seattle Mariners,a,42
+05/07/2023,Tampa Bay Rays,a,57
+05/07/2023,Philadelphia Phillies,a,46
+05/07/2023,Washington Nationals,a,34
+05/07/2023,Cincinnati Reds,a,48
+05/07/2023,Chicago White Sox,a,37
+05/07/2023,Toronto Blue Jays,a,46
+06/07/2023,Arizona Diamondbacks,a,50
+06/07/2023,New York Mets,a,41
+06/07/2023,Boston Red Sox,a,45
+06/07/2023,Texas Rangers,a,51
+06/07/2023,Chicago White Sox,a,37
+06/07/2023,Toronto Blue Jays,a,47
+06/07/2023,Chicago White Sox,a,37
+06/07/2023,Toronto Blue Jays,a,48
+06/07/2023,Cleveland Guardians,a,43
+06/07/2023,Kansas City Royals,a,25
+06/07/2023,Detroit Tigers,a,38
+06/07/2023,Oakland Athletics,a,25
+06/07/2023,Houston Astros,a,49
+06/07/2023,Seattle Mariners,a,43
+06/07/2023,Los Angeles Dodgers,a,49
+06/07/2023,Pittsburgh Pirates,a,40
+06/07/2023,Miami Marlins,a,51
+06/07/2023,St. Louis Cardinals,a,36
+06/07/2023,Milwaukee Brewers,a,47
+06/07/2023,Chicago Cubs,a,40
+06/07/2023,New York Yankees,a,48
+06/07/2023,Baltimore Orioles,a,51
+06/07/2023,Tampa Bay Rays,a,57
+06/07/2023,Philadelphia Phillies,a,47
+06/07/2023,Washington Nationals,a,34
+06/07/2023,Cincinnati Reds,a,49
+06/07/2023,Minnesota Twins,a,45
+06/07/2023,San Francisco Giants,a,47
+06/07/2023,Los Angeles Angels,a,45
+06/07/2023,San Diego Padres,a,41
+06/07/2023,Colorado Rockies,a,33
+06/07/2023,Atlanta Braves,a,58
+07/07/2023,Arizona Diamondbacks,a,51
+07/07/2023,Pittsburgh Pirates,a,40
+07/07/2023,Boston Red Sox,a,46
+07/07/2023,Oakland Athletics,a,25
+07/07/2023,Chicago White Sox,a,38
+07/07/2023,St. Louis Cardinals,a,36
+07/07/2023,Cleveland Guardians,a,44
+07/07/2023,Kansas City Royals,a,25
+07/07/2023,Detroit Tigers,a,38
+07/07/2023,Toronto Blue Jays,a,49
+07/07/2023,Houston Astros,a,49
+07/07/2023,Seattle Mariners,a,44
+07/07/2023,Los Angeles Dodgers,a,50
+07/07/2023,Los Angeles Angels,a,45
+07/07/2023,Miami Marlins,a,51
+07/07/2023,Philadelphia Phillies,a,48
+07/07/2023,Milwaukee Brewers,a,48
+07/07/2023,Cincinnati Reds,a,49
+07/07/2023,Minnesota Twins,a,45
+07/07/2023,Baltimore Orioles,a,52
+07/07/2023,New York Yankees,a,48
+07/07/2023,Chicago Cubs,a,41
+07/07/2023,San Diego Padres,a,41
+07/07/2023,New York Mets,a,42
+07/07/2023,San Francisco Giants,a,47
+07/07/2023,Colorado Rockies,a,34
+07/07/2023,Tampa Bay Rays,a,57
+07/07/2023,Atlanta Braves,a,59
+07/07/2023,Washington Nationals,a,34
+07/07/2023,Texas Rangers,a,52
+08/07/2023,Arizona Diamondbacks,a,52
+08/07/2023,Pittsburgh Pirates,a,40
+08/07/2023,Boston Red Sox,a,47
+08/07/2023,Oakland Athletics,a,25
+08/07/2023,Chicago White Sox,a,38
+08/07/2023,St. Louis Cardinals,a,37
+08/07/2023,Cleveland Guardians,a,45
+08/07/2023,Kansas City Royals,a,25
+08/07/2023,Detroit Tigers,a,39
+08/07/2023,Toronto Blue Jays,a,49
+08/07/2023,Houston Astros,a,50
+08/07/2023,Seattle Mariners,a,44
+08/07/2023,Los Angeles Dodgers,a,51
+08/07/2023,Los Angeles Angels,a,45
+08/07/2023,Miami Marlins,a,52
+08/07/2023,Philadelphia Phillies,a,48
+08/07/2023,Milwaukee Brewers,a,48
+08/07/2023,Cincinnati Reds,a,50
+08/07/2023,Minnesota Twins,a,45
+08/07/2023,Baltimore Orioles,a,53
+08/07/2023,New York Yankees,a,49
+08/07/2023,Chicago Cubs,a,41
+08/07/2023,San Diego Padres,a,42
+08/07/2023,New York Mets,a,42
+08/07/2023,San Francisco Giants,a,48
+08/07/2023,Colorado Rockies,a,34
+08/07/2023,Tampa Bay Rays,a,57
+08/07/2023,Atlanta Braves,a,60
+08/07/2023,Washington Nationals,a,35
+08/07/2023,Texas Rangers,a,52
+09/07/2023,Arizona Diamondbacks,a,52
+09/07/2023,Pittsburgh Pirates,a,41
+09/07/2023,Boston Red Sox,a,48
+09/07/2023,Oakland Athletics,a,25
+09/07/2023,Chicago White Sox,a,38
+09/07/2023,St. Louis Cardinals,a,38
+09/07/2023,Cleveland Guardians,a,45
+09/07/2023,Kansas City Royals,a,26
+09/07/2023,Detroit Tigers,a,39
+09/07/2023,Toronto Blue Jays,a,50
+09/07/2023,Houston Astros,a,50
+09/07/2023,Seattle Mariners,a,45
+09/07/2023,Miami Marlins,a,53
+09/07/2023,Philadelphia Phillies,a,48
+09/07/2023,Milwaukee Brewers,a,49
+09/07/2023,Cincinnati Reds,a,50
+09/07/2023,Minnesota Twins,a,45
+09/07/2023,Baltimore Orioles,a,54
+09/07/2023,New York Yankees,a,49
+09/07/2023,Chicago Cubs,a,42
+09/07/2023,San Diego Padres,a,43
+09/07/2023,New York Mets,a,42
+09/07/2023,San Francisco Giants,a,49
+09/07/2023,Colorado Rockies,a,34
+09/07/2023,Tampa Bay Rays,a,58
+09/07/2023,Atlanta Braves,a,60
+09/07/2023,Washington Nationals,a,36
+09/07/2023,Texas Rangers,a,52
+09/07/2023,Los Angeles Dodgers,a,51
+09/07/2023,Los Angeles Angels,a,45
+14/07/2023,Los Angeles Angels,a,45
+14/07/2023,Houston Astros,a,51
+14/07/2023,Atlanta Braves,a,61
+14/07/2023,Chicago White Sox,a,38
+14/07/2023,Baltimore Orioles,a,55
+14/07/2023,Miami Marlins,a,53
+14/07/2023,Chicago Cubs,a,42
+14/07/2023,Boston Red Sox,a,49
+14/07/2023,Cincinnati Reds,a,50
+14/07/2023,Milwaukee Brewers,a,50
+14/07/2023,Colorado Rockies,a,35
+14/07/2023,New York Yankees,a,49
+14/07/2023,New York Mets,a,42
+14/07/2023,Los Angeles Dodgers,a,52
+14/07/2023,Oakland Athletics,a,25
+14/07/2023,Minnesota Twins,a,46
+14/07/2023,Philadelphia Phillies,a,48
+14/07/2023,San Diego Padres,a,44
+14/07/2023,Pittsburgh Pirates,a,41
+14/07/2023,San Francisco Giants,a,50
+14/07/2023,Seattle Mariners,a,45
+14/07/2023,Detroit Tigers,a,40
+14/07/2023,St. Louis Cardinals,a,38
+14/07/2023,Washington Nationals,a,37
+14/07/2023,Texas Rangers,a,53
+14/07/2023,Cleveland Guardians,a,45
+14/07/2023,Toronto Blue Jays,a,51
+14/07/2023,Arizona Diamondbacks,a,52
+14/07/2023,Kansas City Royals,a,26
+14/07/2023,Tampa Bay Rays,a,58
+15/07/2023,Los Angeles Angels,a,46
+15/07/2023,Houston Astros,a,51
+15/07/2023,Atlanta Braves,a,61
+15/07/2023,Chicago White Sox,a,39
+15/07/2023,Baltimore Orioles,a,56
+15/07/2023,Miami Marlins,a,53
+15/07/2023,Chicago Cubs,a,43
+15/07/2023,Boston Red Sox,a,49
+15/07/2023,Cincinnati Reds,a,50
+15/07/2023,Milwaukee Brewers,a,51
+15/07/2023,Colorado Rockies,a,35
+15/07/2023,New York Yankees,a,50
+15/07/2023,Kansas City Royals,a,26
+15/07/2023,Tampa Bay Rays,a,59
+15/07/2023,Kansas City Royals,a,26
+15/07/2023,Tampa Bay Rays,a,60
+15/07/2023,New York Mets,a,42
+15/07/2023,Los Angeles Dodgers,a,53
+15/07/2023,Oakland Athletics,a,25
+15/07/2023,Minnesota Twins,a,47
+15/07/2023,Philadelphia Phillies,a,49
+15/07/2023,San Diego Padres,a,44
+15/07/2023,Philadelphia Phillies,a,50
+15/07/2023,San Diego Padres,a,44
+15/07/2023,Pittsburgh Pirates,a,41
+15/07/2023,San Francisco Giants,a,51
+15/07/2023,Seattle Mariners,a,45
+15/07/2023,Detroit Tigers,a,41
+15/07/2023,St. Louis Cardinals,a,39
+15/07/2023,Washington Nationals,a,37
+15/07/2023,Texas Rangers,a,54
+15/07/2023,Cleveland Guardians,a,45
+15/07/2023,Toronto Blue Jays,a,52
+15/07/2023,Arizona Diamondbacks,a,52
+16/07/2023,Los Angeles Angels,a,46
+16/07/2023,Houston Astros,a,52
+16/07/2023,Atlanta Braves,a,61
+16/07/2023,Chicago White Sox,a,40
+16/07/2023,Baltimore Orioles,a,57
+16/07/2023,Miami Marlins,a,53
+16/07/2023,Chicago Cubs,a,43
+16/07/2023,Boston Red Sox,a,50
+16/07/2023,Cincinnati Reds,a,50
+16/07/2023,Milwaukee Brewers,a,52
+16/07/2023,Colorado Rockies,a,36
+16/07/2023,New York Yankees,a,50
+16/07/2023,Kansas City Royals,a,27
+16/07/2023,Tampa Bay Rays,a,60
+16/07/2023,New York Mets,a,43
+16/07/2023,Los Angeles Dodgers,a,53
+16/07/2023,Oakland Athletics,a,25
+16/07/2023,Minnesota Twins,a,48
+16/07/2023,Philadelphia Phillies,a,51
+16/07/2023,San Diego Padres,a,44
+16/07/2023,Pittsburgh Pirates,a,41
+16/07/2023,San Francisco Giants,a,52
+16/07/2023,Seattle Mariners,a,46
+16/07/2023,Detroit Tigers,a,41
+16/07/2023,St. Louis Cardinals,a,40
+16/07/2023,Washington Nationals,a,37
+16/07/2023,Texas Rangers,a,55
+16/07/2023,Cleveland Guardians,a,45
+16/07/2023,Toronto Blue Jays,a,53
+16/07/2023,Arizona Diamondbacks,a,52
+17/07/2023,Los Angeles Angels,a,47
+17/07/2023,New York Yankees,a,50
+17/07/2023,Baltimore Orioles,a,57
+17/07/2023,Los Angeles Dodgers,a,54
+17/07/2023,Chicago Cubs,a,43
+17/07/2023,Washington Nationals,a,38
+17/07/2023,Cincinnati Reds,a,50
+17/07/2023,San Francisco Giants,a,53
+17/07/2023,Kansas City Royals,a,27
+17/07/2023,Detroit Tigers,a,42
+17/07/2023,Oakland Athletics,a,25
+17/07/2023,Boston Red Sox,a,51
+17/07/2023,Pittsburgh Pirates,a,41
+17/07/2023,Cleveland Guardians,a,46
+17/07/2023,Seattle Mariners,a,47
+17/07/2023,Minnesota Twins,a,48
+17/07/2023,St. Louis Cardinals,a,41
+17/07/2023,Miami Marlins,a,53
+17/07/2023,Texas Rangers,a,56
+17/07/2023,Tampa Bay Rays,a,60
+17/07/2023,Milwaukee Brewers,a,52
+17/07/2023,Houston Astros,a,52
+17/07/2023,Chicago White Sox,a,40
+17/07/2023,Arizona Diamondbacks,a,52
+17/07/2023,New York Mets,a,43
+17/07/2023,San Diego Padres,a,44
+17/07/2023,Colorado Rockies,a,36
+17/07/2023,Toronto Blue Jays,a,53
+17/07/2023,Philadelphia Phillies,a,51
+17/07/2023,Atlanta Braves,a,61
+18/07/2023,Los Angeles Angels,a,48
+18/07/2023,New York Yankees,a,50
+18/07/2023,Atlanta Braves,a,61
+18/07/2023,Arizona Diamondbacks,a,53
+18/07/2023,Baltimore Orioles,a,57
+18/07/2023,Los Angeles Dodgers,a,55
+18/07/2023,Chicago Cubs,a,44
+18/07/2023,Washington Nationals,a,38
+18/07/2023,Cincinnati Reds,a,50
+18/07/2023,San Francisco Giants,a,54
+18/07/2023,Colorado Rockies,a,37
+18/07/2023,Houston Astros,a,52
+18/07/2023,Kansas City Royals,a,28
+18/07/2023,Detroit Tigers,a,42
+18/07/2023,New York Mets,a,44
+18/07/2023,Chicago White Sox,a,40
+18/07/2023,Oakland Athletics,a,26
+18/07/2023,Boston Red Sox,a,51
+18/07/2023,Philadelphia Phillies,a,52
+18/07/2023,Milwaukee Brewers,a,52
+18/07/2023,Pittsburgh Pirates,a,41
+18/07/2023,Cleveland Guardians,a,47
+18/07/2023,Seattle Mariners,a,47
+18/07/2023,Minnesota Twins,a,49
+18/07/2023,St. Louis Cardinals,a,42
+18/07/2023,Miami Marlins,a,53
+18/07/2023,Texas Rangers,a,57
+18/07/2023,Tampa Bay Rays,a,60
+18/07/2023,Toronto Blue Jays,a,53
+18/07/2023,San Diego Padres,a,45
+19/07/2023,Los Angeles Angels,a,49
+19/07/2023,New York Yankees,a,50
+19/07/2023,Atlanta Braves,a,61
+19/07/2023,Arizona Diamondbacks,a,54
+19/07/2023,Baltimore Orioles,a,58
+19/07/2023,Los Angeles Dodgers,a,55
+19/07/2023,Chicago Cubs,a,45
+19/07/2023,Washington Nationals,a,38
+19/07/2023,Cincinnati Reds,a,51
+19/07/2023,San Francisco Giants,a,54
+19/07/2023,Colorado Rockies,a,37
+19/07/2023,Houston Astros,a,53
+19/07/2023,Kansas City Royals,a,28
+19/07/2023,Detroit Tigers,a,43
+19/07/2023,New York Mets,a,45
+19/07/2023,Chicago White Sox,a,40
+19/07/2023,Oakland Athletics,a,27
+19/07/2023,Boston Red Sox,a,51
+19/07/2023,Philadelphia Phillies,a,52
+19/07/2023,Milwaukee Brewers,a,53
+19/07/2023,Pittsburgh Pirates,a,42
+19/07/2023,Cleveland Guardians,a,47
+19/07/2023,Seattle Mariners,a,47
+19/07/2023,Minnesota Twins,a,50
+19/07/2023,St. Louis Cardinals,a,43
+19/07/2023,Miami Marlins,a,53
+19/07/2023,Texas Rangers,a,58
+19/07/2023,Tampa Bay Rays,a,60
+19/07/2023,Toronto Blue Jays,a,53
+19/07/2023,San Diego Padres,a,46
+20/07/2023,Atlanta Braves,a,62
+20/07/2023,Arizona Diamondbacks,a,54
+20/07/2023,Chicago Cubs,a,45
+20/07/2023,St. Louis Cardinals,a,44
+20/07/2023,Cincinnati Reds,a,52
+20/07/2023,San Francisco Giants,a,54
+20/07/2023,Kansas City Royals,a,28
+20/07/2023,Detroit Tigers,a,44
+20/07/2023,New York Mets,a,45
+20/07/2023,Chicago White Sox,a,41
+20/07/2023,Oakland Athletics,a,27
+20/07/2023,Houston Astros,a,54
+20/07/2023,Philadelphia Phillies,a,52
+20/07/2023,Milwaukee Brewers,a,54
+20/07/2023,Seattle Mariners,a,48
+20/07/2023,Minnesota Twins,a,50
+20/07/2023,Tampa Bay Rays,a,60
+20/07/2023,Baltimore Orioles,a,59
+20/07/2023,Toronto Blue Jays,a,54
+20/07/2023,San Diego Padres,a,46
+20/07/2023,Boston Red Sox,a,51
+20/07/2023,Pittsburgh Pirates,a,42
+20/07/2023,Los Angeles Dodgers,a,55
+20/07/2023,Miami Marlins,a,53
+20/07/2023,New York Yankees,a,50
+20/07/2023,Los Angeles Angels,a,49
+20/07/2023,Colorado Rockies,a,37
+20/07/2023,Cleveland Guardians,a,47
+20/07/2023,Texas Rangers,a,58
+20/07/2023,Washington Nationals,a,38
+21/07/2023,Los Angeles Angels,a,50
+21/07/2023,Pittsburgh Pirates,a,42
+21/07/2023,Boston Red Sox,a,51
+21/07/2023,New York Mets,a,46
+21/07/2023,Chicago Cubs,a,46
+21/07/2023,St. Louis Cardinals,a,44
+21/07/2023,Cincinnati Reds,a,53
+21/07/2023,Arizona Diamondbacks,a,54
+21/07/2023,Cleveland Guardians,a,48
+21/07/2023,Philadelphia Phillies,a,52
+21/07/2023,Detroit Tigers,a,44
+21/07/2023,San Diego Padres,a,47
+21/07/2023,Miami Marlins,a,53
+21/07/2023,Colorado Rockies,a,38
+21/07/2023,Milwaukee Brewers,a,54
+21/07/2023,Atlanta Braves,a,63
+21/07/2023,Minnesota Twins,a,51
+21/07/2023,Chicago White Sox,a,41
+21/07/2023,New York Yankees,a,51
+21/07/2023,Kansas City Royals,a,28
+21/07/2023,Oakland Athletics,a,27
+21/07/2023,Houston Astros,a,55
+21/07/2023,Seattle Mariners,a,49
+21/07/2023,Toronto Blue Jays,a,54
+21/07/2023,Tampa Bay Rays,a,61
+21/07/2023,Baltimore Orioles,a,59
+21/07/2023,Texas Rangers,a,58
+21/07/2023,Los Angeles Dodgers,a,56
+21/07/2023,Washington Nationals,a,39
+21/07/2023,San Francisco Giants,a,54
+22/07/2023,Los Angeles Angels,a,50
+22/07/2023,Pittsburgh Pirates,a,43
+22/07/2023,Boston Red Sox,a,52
+22/07/2023,New York Mets,a,46
+22/07/2023,Chicago Cubs,a,47
+22/07/2023,St. Louis Cardinals,a,44
+22/07/2023,Cincinnati Reds,a,54
+22/07/2023,Arizona Diamondbacks,a,54
+22/07/2023,Cleveland Guardians,a,49
+22/07/2023,Philadelphia Phillies,a,52
+22/07/2023,Detroit Tigers,a,44
+22/07/2023,San Diego Padres,a,48
+22/07/2023,Miami Marlins,a,53
+22/07/2023,Colorado Rockies,a,39
+22/07/2023,Milwaukee Brewers,a,55
+22/07/2023,Atlanta Braves,a,63
+22/07/2023,Minnesota Twins,a,52
+22/07/2023,Chicago White Sox,a,41
+22/07/2023,New York Yankees,a,52
+22/07/2023,Kansas City Royals,a,28
+22/07/2023,Oakland Athletics,a,28
+22/07/2023,Houston Astros,a,55
+22/07/2023,Seattle Mariners,a,50
+22/07/2023,Toronto Blue Jays,a,54
+22/07/2023,Tampa Bay Rays,a,61
+22/07/2023,Baltimore Orioles,a,60
+22/07/2023,Texas Rangers,a,58
+22/07/2023,Los Angeles Dodgers,a,57
+22/07/2023,Washington Nationals,a,40
+22/07/2023,San Francisco Giants,a,54
+23/07/2023,Los Angeles Angels,a,51
+23/07/2023,Pittsburgh Pirates,a,43
+23/07/2023,Boston Red Sox,a,53
+23/07/2023,New York Mets,a,46
+23/07/2023,Chicago Cubs,a,48
+23/07/2023,St. Louis Cardinals,a,44
+23/07/2023,Cincinnati Reds,a,55
+23/07/2023,Arizona Diamondbacks,a,54
+23/07/2023,Cleveland Guardians,a,49
+23/07/2023,Philadelphia Phillies,a,53
+23/07/2023,Detroit Tigers,a,45
+23/07/2023,San Diego Padres,a,48
+23/07/2023,Miami Marlins,a,54
+23/07/2023,Colorado Rockies,a,39
+23/07/2023,Milwaukee Brewers,a,55
+23/07/2023,Atlanta Braves,a,64
+23/07/2023,Minnesota Twins,a,53
+23/07/2023,Chicago White Sox,a,41
+23/07/2023,New York Yankees,a,53
+23/07/2023,Kansas City Royals,a,28
+23/07/2023,Oakland Athletics,a,28
+23/07/2023,Houston Astros,a,56
+23/07/2023,Seattle Mariners,a,50
+23/07/2023,Toronto Blue Jays,a,55
+23/07/2023,Tampa Bay Rays,a,61
+23/07/2023,Baltimore Orioles,a,61
+23/07/2023,Texas Rangers,a,59
+23/07/2023,Los Angeles Dodgers,a,57
+23/07/2023,Washington Nationals,a,41
+23/07/2023,San Francisco Giants,a,54
+24/07/2023,Arizona Diamondbacks,a,54
+24/07/2023,St. Louis Cardinals,a,45
+24/07/2023,Cleveland Guardians,a,49
+24/07/2023,Kansas City Royals,a,29
+24/07/2023,Detroit Tigers,a,46
+24/07/2023,San Francisco Giants,a,54
+24/07/2023,Houston Astros,a,57
+24/07/2023,Texas Rangers,a,59
+24/07/2023,Los Angeles Dodgers,a,57
+24/07/2023,Toronto Blue Jays,a,56
+24/07/2023,Milwaukee Brewers,a,56
+24/07/2023,Cincinnati Reds,a,55
+24/07/2023,Minnesota Twins,a,54
+24/07/2023,Seattle Mariners,a,50
+24/07/2023,Philadelphia Phillies,a,53
+24/07/2023,Baltimore Orioles,a,62
+24/07/2023,San Diego Padres,a,48
+24/07/2023,Pittsburgh Pirates,a,44
+24/07/2023,Washington Nationals,a,41
+24/07/2023,Colorado Rockies,a,40
+24/07/2023,Boston Red Sox,a,53
+24/07/2023,Chicago Cubs,a,48
+24/07/2023,Chicago White Sox,a,41
+24/07/2023,Miami Marlins,a,54
+24/07/2023,New York Mets,a,46
+24/07/2023,New York Yankees,a,53
+24/07/2023,Oakland Athletics,a,28
+24/07/2023,Los Angeles Angels,a,51
+24/07/2023,Tampa Bay Rays,a,61
+24/07/2023,Atlanta Braves,a,64
+25/07/2023,Arizona Diamondbacks,a,55
+25/07/2023,St. Louis Cardinals,a,45
+25/07/2023,Boston Red Sox,a,54
+25/07/2023,Atlanta Braves,a,64
+25/07/2023,Chicago White Sox,a,41
+25/07/2023,Chicago Cubs,a,49
+25/07/2023,Cleveland Guardians,a,50
+25/07/2023,Kansas City Royals,a,29
+25/07/2023,Detroit Tigers,a,46
+25/07/2023,Los Angeles Angels,a,52
+25/07/2023,Houston Astros,a,58
+25/07/2023,Texas Rangers,a,59
+25/07/2023,Los Angeles Dodgers,a,58
+25/07/2023,Toronto Blue Jays,a,56
+25/07/2023,Milwaukee Brewers,a,56
+25/07/2023,Cincinnati Reds,a,56
+25/07/2023,Minnesota Twins,a,54
+25/07/2023,Seattle Mariners,a,51
+25/07/2023,New York Yankees,a,53
+25/07/2023,New York Mets,a,47
+25/07/2023,Philadelphia Phillies,a,54
+25/07/2023,Baltimore Orioles,a,62
+25/07/2023,San Diego Padres,a,49
+25/07/2023,Pittsburgh Pirates,a,44
+25/07/2023,San Francisco Giants,a,55
+25/07/2023,Oakland Athletics,a,28
+25/07/2023,Tampa Bay Rays,a,62
+25/07/2023,Miami Marlins,a,54
+25/07/2023,Washington Nationals,a,42
+25/07/2023,Colorado Rockies,a,40
+26/07/2023,Arizona Diamondbacks,a,55
+26/07/2023,St. Louis Cardinals,a,46
+26/07/2023,Boston Red Sox,a,55
+26/07/2023,Atlanta Braves,a,64
+26/07/2023,Chicago White Sox,a,41
+26/07/2023,Chicago Cubs,a,50
+26/07/2023,Cleveland Guardians,a,51
+26/07/2023,Kansas City Royals,a,29
+26/07/2023,Houston Astros,a,58
+26/07/2023,Texas Rangers,a,60
+26/07/2023,Los Angeles Dodgers,a,58
+26/07/2023,Toronto Blue Jays,a,57
+26/07/2023,Milwaukee Brewers,a,57
+26/07/2023,Cincinnati Reds,a,56
+26/07/2023,Minnesota Twins,a,54
+26/07/2023,Seattle Mariners,a,52
+26/07/2023,New York Yankees,a,54
+26/07/2023,New York Mets,a,47
+26/07/2023,Philadelphia Phillies,a,55
+26/07/2023,Baltimore Orioles,a,62
+26/07/2023,San Diego Padres,a,49
+26/07/2023,Pittsburgh Pirates,a,45
+26/07/2023,San Francisco Giants,a,56
+26/07/2023,Oakland Athletics,a,28
+26/07/2023,Tampa Bay Rays,a,62
+26/07/2023,Miami Marlins,a,55
+26/07/2023,Washington Nationals,a,43
+26/07/2023,Colorado Rockies,a,40
+26/07/2023,Los Angeles Angels,a,52
+26/07/2023,Detroit Tigers,a,46
+27/07/2023,Chicago White Sox,a,41
+27/07/2023,Cleveland Guardians,a,52
+27/07/2023,Detroit Tigers,a,46
+27/07/2023,Los Angeles Angels,a,53
+27/07/2023,Detroit Tigers,a,46
+27/07/2023,Los Angeles Angels,a,54
+27/07/2023,New York Mets,a,48
+27/07/2023,Washington Nationals,a,43
+27/07/2023,St. Louis Cardinals,a,46
+27/07/2023,Chicago Cubs,a,51
+27/07/2023,Boston Red Sox,a,55
+27/07/2023,Baltimore Orioles,a,62
+27/07/2023,Milwaukee Brewers,a,57
+27/07/2023,Cincinnati Reds,a,56
+27/07/2023,Pittsburgh Pirates,a,45
+27/07/2023,Houston Astros,a,58
+27/07/2023,Kansas City Royals,a,29
+27/07/2023,Minnesota Twins,a,54
+27/07/2023,Los Angeles Dodgers,a,58
+27/07/2023,Arizona Diamondbacks,a,55
+27/07/2023,Miami Marlins,a,55
+27/07/2023,New York Yankees,a,54
+27/07/2023,San Francisco Giants,a,56
+27/07/2023,Oakland Athletics,a,28
+27/07/2023,San Diego Padres,a,49
+27/07/2023,Colorado Rockies,a,40
+27/07/2023,Seattle Mariners,a,52
+27/07/2023,Toronto Blue Jays,a,57
+27/07/2023,Tampa Bay Rays,a,62
+27/07/2023,Texas Rangers,a,60
+27/07/2023,Philadelphia Phillies,a,55
+27/07/2023,Atlanta Braves,a,64
+28/07/2023,Arizona Diamondbacks,a,55
+28/07/2023,Seattle Mariners,a,53
+28/07/2023,Atlanta Braves,a,65
+28/07/2023,Milwaukee Brewers,a,57
+28/07/2023,Baltimore Orioles,a,63
+28/07/2023,New York Yankees,a,54
+28/07/2023,Chicago White Sox,a,42
+28/07/2023,Cleveland Guardians,a,52
+28/07/2023,Colorado Rockies,a,40
+28/07/2023,Oakland Athletics,a,29
+28/07/2023,Houston Astros,a,58
+28/07/2023,Tampa Bay Rays,a,63
+28/07/2023,Kansas City Royals,a,30
+28/07/2023,Minnesota Twins,a,54
+28/07/2023,Los Angeles Dodgers,a,58
+28/07/2023,Cincinnati Reds,a,57
+28/07/2023,Miami Marlins,a,56
+28/07/2023,Detroit Tigers,a,46
+28/07/2023,New York Mets,a,49
+28/07/2023,Washington Nationals,a,43
+28/07/2023,Pittsburgh Pirates,a,45
+28/07/2023,Philadelphia Phillies,a,56
+28/07/2023,San Diego Padres,a,50
+28/07/2023,Texas Rangers,a,60
+28/07/2023,San Francisco Giants,a,56
+28/07/2023,Boston Red Sox,a,56
+28/07/2023,St. Louis Cardinals,a,46
+28/07/2023,Chicago Cubs,a,52
+28/07/2023,Toronto Blue Jays,a,58
+28/07/2023,Los Angeles Angels,a,54
+29/07/2023,Arizona Diamondbacks,a,56
+29/07/2023,Seattle Mariners,a,53
+29/07/2023,Atlanta Braves,a,66
+29/07/2023,Milwaukee Brewers,a,57
+29/07/2023,Baltimore Orioles,a,63
+29/07/2023,New York Yankees,a,55
+29/07/2023,Chicago White Sox,a,43
+29/07/2023,Cleveland Guardians,a,52
+29/07/2023,Colorado Rockies,a,40
+29/07/2023,Oakland Athletics,a,30
+29/07/2023,Houston Astros,a,59
+29/07/2023,Tampa Bay Rays,a,63
+29/07/2023,Kansas City Royals,a,31
+29/07/2023,Minnesota Twins,a,54
+29/07/2023,Los Angeles Dodgers,a,59
+29/07/2023,Cincinnati Reds,a,57
+29/07/2023,Miami Marlins,a,56
+29/07/2023,Detroit Tigers,a,47
+29/07/2023,New York Mets,a,49
+29/07/2023,Washington Nationals,a,44
+29/07/2023,Pittsburgh Pirates,a,46
+29/07/2023,Philadelphia Phillies,a,56
+29/07/2023,San Diego Padres,a,51
+29/07/2023,Texas Rangers,a,60
+29/07/2023,San Francisco Giants,a,57
+29/07/2023,Boston Red Sox,a,56
+29/07/2023,St. Louis Cardinals,a,46
+29/07/2023,Chicago Cubs,a,53
+29/07/2023,Toronto Blue Jays,a,59
+29/07/2023,Los Angeles Angels,a,54
+30/07/2023,Arizona Diamondbacks,a,56
+30/07/2023,Seattle Mariners,a,54
+30/07/2023,Atlanta Braves,a,67
+30/07/2023,Milwaukee Brewers,a,57
+30/07/2023,Baltimore Orioles,a,64
+30/07/2023,New York Yankees,a,55
+30/07/2023,Chicago White Sox,a,43
+30/07/2023,Cleveland Guardians,a,53
+30/07/2023,Colorado Rockies,a,41
+30/07/2023,Oakland Athletics,a,30
+30/07/2023,Houston Astros,a,59
+30/07/2023,Tampa Bay Rays,a,64
+30/07/2023,Kansas City Royals,a,32
+30/07/2023,Minnesota Twins,a,54
+30/07/2023,Los Angeles Dodgers,a,59
+30/07/2023,Cincinnati Reds,a,58
+30/07/2023,Miami Marlins,a,57
+30/07/2023,Detroit Tigers,a,47
+30/07/2023,New York Mets,a,50
+30/07/2023,Washington Nationals,a,44
+30/07/2023,Pittsburgh Pirates,a,47
+30/07/2023,Philadelphia Phillies,a,56
+30/07/2023,San Diego Padres,a,52
+30/07/2023,Texas Rangers,a,60
+30/07/2023,San Francisco Giants,a,58
+30/07/2023,Boston Red Sox,a,56
+30/07/2023,St. Louis Cardinals,a,47
+30/07/2023,Chicago Cubs,a,53
+30/07/2023,Toronto Blue Jays,a,59
+30/07/2023,Los Angeles Angels,a,55
+31/07/2023,Atlanta Braves,a,67
+31/07/2023,Los Angeles Angels,a,56
+31/07/2023,Chicago Cubs,a,53
+31/07/2023,Cincinnati Reds,a,59
+31/07/2023,Colorado Rockies,a,42
+31/07/2023,San Diego Padres,a,52
+31/07/2023,Houston Astros,a,60
+31/07/2023,Cleveland Guardians,a,53
+31/07/2023,Miami Marlins,a,57
+31/07/2023,Philadelphia Phillies,a,57
+31/07/2023,New York Yankees,a,55
+31/07/2023,Tampa Bay Rays,a,65
+31/07/2023,Seattle Mariners,a,55
+31/07/2023,Boston Red Sox,a,56
+31/07/2023,San Francisco Giants,a,58
+31/07/2023,Arizona Diamondbacks,a,57
+31/07/2023,Toronto Blue Jays,a,59
+31/07/2023,Baltimore Orioles,a,65
+31/07/2023,Washington Nationals,a,45
+31/07/2023,Milwaukee Brewers,a,57
+31/07/2023,Pittsburgh Pirates,a,47
+31/07/2023,Chicago White Sox,a,43
+31/07/2023,Kansas City Royals,a,32
+31/07/2023,Minnesota Twins,a,54
+31/07/2023,Los Angeles Dodgers,a,59
+31/07/2023,New York Mets,a,50
+31/07/2023,Oakland Athletics,a,30
+31/07/2023,St. Louis Cardinals,a,47
+31/07/2023,Detroit Tigers,a,47
+31/07/2023,Texas Rangers,a,60
+01/08/2023,Atlanta Braves,a,68
+01/08/2023,Los Angeles Angels,a,56
+01/08/2023,Chicago Cubs,a,54
+01/08/2023,Cincinnati Reds,a,59
+01/08/2023,Colorado Rockies,a,42
+01/08/2023,San Diego Padres,a,53
+01/08/2023,Houston Astros,a,61
+01/08/2023,Cleveland Guardians,a,53
+01/08/2023,Kansas City Royals,a,33
+01/08/2023,New York Mets,a,50
+01/08/2023,Los Angeles Dodgers,a,60
+01/08/2023,Oakland Athletics,a,30
+01/08/2023,Miami Marlins,a,57
+01/08/2023,Philadelphia Phillies,a,58
+01/08/2023,New York Yankees,a,55
+01/08/2023,Tampa Bay Rays,a,66
+01/08/2023,Pittsburgh Pirates,a,48
+01/08/2023,Detroit Tigers,a,47
+01/08/2023,Seattle Mariners,a,55
+01/08/2023,Boston Red Sox,a,57
+01/08/2023,San Francisco Giants,a,59
+01/08/2023,Arizona Diamondbacks,a,57
+01/08/2023,St. Louis Cardinals,a,47
+01/08/2023,Minnesota Twins,a,55
+01/08/2023,Texas Rangers,a,61
+01/08/2023,Chicago White Sox,a,43
+01/08/2023,Toronto Blue Jays,a,59
+01/08/2023,Baltimore Orioles,a,66
+01/08/2023,Washington Nationals,a,45
+01/08/2023,Milwaukee Brewers,a,58
+02/08/2023,Atlanta Braves,a,69
+02/08/2023,Los Angeles Angels,a,56
+02/08/2023,Chicago Cubs,a,55
+02/08/2023,Cincinnati Reds,a,59
+02/08/2023,Colorado Rockies,a,42
+02/08/2023,San Diego Padres,a,54
+02/08/2023,Houston Astros,a,62
+02/08/2023,Cleveland Guardians,a,53
+02/08/2023,Kansas City Royals,a,34
+02/08/2023,New York Mets,a,50
+02/08/2023,Los Angeles Dodgers,a,61
+02/08/2023,Oakland Athletics,a,30
+02/08/2023,Miami Marlins,a,58
+02/08/2023,Philadelphia Phillies,a,58
+02/08/2023,New York Yankees,a,56
+02/08/2023,Tampa Bay Rays,a,66
+02/08/2023,Pittsburgh Pirates,a,48
+02/08/2023,Detroit Tigers,a,48
+02/08/2023,Seattle Mariners,a,56
+02/08/2023,Boston Red Sox,a,57
+02/08/2023,San Francisco Giants,a,60
+02/08/2023,Arizona Diamondbacks,a,57
+02/08/2023,St. Louis Cardinals,a,48
+02/08/2023,Minnesota Twins,a,55
+02/08/2023,Texas Rangers,a,62
+02/08/2023,Chicago White Sox,a,43
+02/08/2023,Toronto Blue Jays,a,60
+02/08/2023,Baltimore Orioles,a,66
+02/08/2023,Washington Nationals,a,46
+02/08/2023,Milwaukee Brewers,a,58
+03/08/2023,Los Angeles Angels,a,56
+03/08/2023,Seattle Mariners,a,57
+03/08/2023,Chicago Cubs,a,56
+03/08/2023,Cincinnati Reds,a,59
+03/08/2023,Kansas City Royals,a,35
+03/08/2023,New York Mets,a,50
+03/08/2023,Los Angeles Dodgers,a,62
+03/08/2023,Oakland Athletics,a,30
+03/08/2023,Miami Marlins,a,58
+03/08/2023,Philadelphia Phillies,a,59
+03/08/2023,Milwaukee Brewers,a,59
+03/08/2023,Pittsburgh Pirates,a,48
+03/08/2023,New York Yankees,a,57
+03/08/2023,Houston Astros,a,62
+03/08/2023,San Francisco Giants,a,61
+03/08/2023,Arizona Diamondbacks,a,57
+03/08/2023,St. Louis Cardinals,a,48
+03/08/2023,Minnesota Twins,a,56
+03/08/2023,Texas Rangers,a,63
+03/08/2023,Chicago White Sox,a,43
+03/08/2023,Toronto Blue Jays,a,60
+03/08/2023,Baltimore Orioles,a,67
+03/08/2023,Boston Red Sox,a,57
+03/08/2023,San Diego Padres,a,54
+03/08/2023,Colorado Rockies,a,42
+03/08/2023,Cleveland Guardians,a,53
+03/08/2023,Tampa Bay Rays,a,66
+03/08/2023,Detroit Tigers,a,48
+03/08/2023,Washington Nationals,a,46
+03/08/2023,Atlanta Braves,a,69
+04/08/2023,Los Angeles Angels,a,56
+04/08/2023,Seattle Mariners,a,58
+04/08/2023,Baltimore Orioles,a,68
+04/08/2023,New York Mets,a,50
+04/08/2023,Boston Red Sox,a,57
+04/08/2023,Toronto Blue Jays,a,61
+04/08/2023,Chicago Cubs,a,56
+04/08/2023,Atlanta Braves,a,70
+04/08/2023,Cincinnati Reds,a,59
+04/08/2023,Washington Nationals,a,47
+04/08/2023,Cleveland Guardians,a,54
+04/08/2023,Chicago White Sox,a,43
+04/08/2023,Detroit Tigers,a,48
+04/08/2023,Tampa Bay Rays,a,67
+04/08/2023,Milwaukee Brewers,a,59
+04/08/2023,Pittsburgh Pirates,a,49
+04/08/2023,Minnesota Twins,a,57
+04/08/2023,Arizona Diamondbacks,a,57
+04/08/2023,New York Yankees,a,57
+04/08/2023,Houston Astros,a,63
+04/08/2023,Philadelphia Phillies,a,59
+04/08/2023,Kansas City Royals,a,36
+04/08/2023,San Diego Padres,a,54
+04/08/2023,Los Angeles Dodgers,a,63
+04/08/2023,St. Louis Cardinals,a,48
+04/08/2023,Colorado Rockies,a,43
+04/08/2023,Texas Rangers,a,64
+04/08/2023,Miami Marlins,a,58
+04/08/2023,San Francisco Giants,a,61
+04/08/2023,Oakland Athletics,a,30
+05/08/2023,Los Angeles Angels,a,56
+05/08/2023,Seattle Mariners,a,59
+05/08/2023,Baltimore Orioles,a,69
+05/08/2023,New York Mets,a,50
+05/08/2023,Boston Red Sox,a,57
+05/08/2023,Toronto Blue Jays,a,62
+05/08/2023,Chicago Cubs,a,57
+05/08/2023,Atlanta Braves,a,70
+05/08/2023,Cincinnati Reds,a,59
+05/08/2023,Washington Nationals,a,48
+05/08/2023,Cleveland Guardians,a,54
+05/08/2023,Chicago White Sox,a,44
+05/08/2023,Detroit Tigers,a,49
+05/08/2023,Tampa Bay Rays,a,67
+05/08/2023,Milwaukee Brewers,a,60
+05/08/2023,Pittsburgh Pirates,a,49
+05/08/2023,Minnesota Twins,a,58
+05/08/2023,Arizona Diamondbacks,a,57
+05/08/2023,New York Yankees,a,58
+05/08/2023,Houston Astros,a,63
+05/08/2023,Oakland Athletics,a,31
+05/08/2023,San Francisco Giants,a,61
+05/08/2023,Philadelphia Phillies,a,60
+05/08/2023,Kansas City Royals,a,36
+05/08/2023,San Diego Padres,a,55
+05/08/2023,Los Angeles Dodgers,a,63
+05/08/2023,St. Louis Cardinals,a,49
+05/08/2023,Colorado Rockies,a,43
+05/08/2023,Texas Rangers,a,65
+05/08/2023,Miami Marlins,a,58
+06/08/2023,Los Angeles Angels,a,56
+06/08/2023,Seattle Mariners,a,60
+06/08/2023,Baltimore Orioles,a,70
+06/08/2023,New York Mets,a,50
+06/08/2023,Boston Red Sox,a,57
+06/08/2023,Toronto Blue Jays,a,63
+06/08/2023,Chicago Cubs,a,58
+06/08/2023,Atlanta Braves,a,70
+06/08/2023,Cincinnati Reds,a,59
+06/08/2023,Washington Nationals,a,49
+06/08/2023,Cleveland Guardians,a,54
+06/08/2023,Chicago White Sox,a,45
+06/08/2023,Detroit Tigers,a,49
+06/08/2023,Tampa Bay Rays,a,68
+06/08/2023,Milwaukee Brewers,a,60
+06/08/2023,Pittsburgh Pirates,a,50
+06/08/2023,Minnesota Twins,a,59
+06/08/2023,Arizona Diamondbacks,a,57
+06/08/2023,New York Yankees,a,58
+06/08/2023,Houston Astros,a,64
+06/08/2023,Oakland Athletics,a,32
+06/08/2023,San Francisco Giants,a,61
+06/08/2023,Philadelphia Phillies,a,61
+06/08/2023,Kansas City Royals,a,36
+06/08/2023,San Diego Padres,a,55
+06/08/2023,Los Angeles Dodgers,a,64
+06/08/2023,St. Louis Cardinals,a,49
+06/08/2023,Colorado Rockies,a,44
+06/08/2023,Texas Rangers,a,66
+06/08/2023,Miami Marlins,a,58
+07/08/2023,Los Angeles Angels,a,56
+07/08/2023,San Francisco Giants,a,62
+07/08/2023,Boston Red Sox,a,58
+07/08/2023,Kansas City Royals,a,36
+07/08/2023,Chicago White Sox,a,46
+07/08/2023,New York Yankees,a,58
+07/08/2023,Cincinnati Reds,a,60
+07/08/2023,Miami Marlins,a,58
+07/08/2023,Cleveland Guardians,a,54
+07/08/2023,Toronto Blue Jays,a,64
+07/08/2023,Detroit Tigers,a,49
+07/08/2023,Minnesota Twins,a,60
+07/08/2023,Milwaukee Brewers,a,61
+07/08/2023,Colorado Rockies,a,44
+07/08/2023,New York Mets,a,51
+07/08/2023,Chicago Cubs,a,58
+07/08/2023,Oakland Athletics,a,32
+07/08/2023,Texas Rangers,a,67
+07/08/2023,Pittsburgh Pirates,a,51
+07/08/2023,Atlanta Braves,a,70
+07/08/2023,San Diego Padres,a,55
+07/08/2023,Los Angeles Dodgers,a,65
+07/08/2023,Baltimore Orioles,a,70
+07/08/2023,Houston Astros,a,64
+07/08/2023,Arizona Diamondbacks,a,57
+07/08/2023,Seattle Mariners,a,60
+07/08/2023,St. Louis Cardinals,a,49
+07/08/2023,Tampa Bay Rays,a,68
+07/08/2023,Philadelphia Phillies,a,61
+07/08/2023,Washington Nationals,a,49
+08/08/2023,Los Angeles Angels,a,57
+08/08/2023,San Francisco Giants,a,62
+08/08/2023,Arizona Diamondbacks,a,57
+08/08/2023,Los Angeles Dodgers,a,66
+08/08/2023,Baltimore Orioles,a,70
+08/08/2023,Houston Astros,a,65
+08/08/2023,Boston Red Sox,a,58
+08/08/2023,Kansas City Royals,a,37
+08/08/2023,Chicago White Sox,a,46
+08/08/2023,New York Yankees,a,59
+08/08/2023,Cincinnati Reds,a,60
+08/08/2023,Miami Marlins,a,59
+08/08/2023,Cleveland Guardians,a,55
+08/08/2023,Toronto Blue Jays,a,64
+08/08/2023,Detroit Tigers,a,50
+08/08/2023,Minnesota Twins,a,60
+08/08/2023,Milwaukee Brewers,a,61
+08/08/2023,Colorado Rockies,a,45
+08/08/2023,New York Mets,a,51
+08/08/2023,Chicago Cubs,a,59
+08/08/2023,Oakland Athletics,a,32
+08/08/2023,Texas Rangers,a,68
+08/08/2023,Philadelphia Phillies,a,62
+08/08/2023,Washington Nationals,a,49
+08/08/2023,Philadelphia Phillies,a,62
+08/08/2023,Washington Nationals,a,50
+08/08/2023,Pittsburgh Pirates,a,51
+08/08/2023,Atlanta Braves,a,71
+08/08/2023,Seattle Mariners,a,61
+08/08/2023,San Diego Padres,a,55
+08/08/2023,Tampa Bay Rays,a,69
+08/08/2023,St. Louis Cardinals,a,49
+09/08/2023,Los Angeles Angels,a,58
+09/08/2023,San Francisco Giants,a,62
+09/08/2023,Arizona Diamondbacks,a,57
+09/08/2023,Los Angeles Dodgers,a,67
+09/08/2023,Baltimore Orioles,a,70
+09/08/2023,Houston Astros,a,66
+09/08/2023,Boston Red Sox,a,59
+09/08/2023,Kansas City Royals,a,37
+09/08/2023,Chicago White Sox,a,47
+09/08/2023,New York Yankees,a,59
+09/08/2023,Cincinnati Reds,a,60
+09/08/2023,Miami Marlins,a,60
+09/08/2023,Cleveland Guardians,a,55
+09/08/2023,Toronto Blue Jays,a,65
+09/08/2023,Detroit Tigers,a,51
+09/08/2023,Minnesota Twins,a,60
+09/08/2023,Milwaukee Brewers,a,62
+09/08/2023,Colorado Rockies,a,45
+09/08/2023,New York Mets,a,52
+09/08/2023,Chicago Cubs,a,59
+09/08/2023,Oakland Athletics,a,33
+09/08/2023,Texas Rangers,a,68
+09/08/2023,Philadelphia Phillies,a,63
+09/08/2023,Washington Nationals,a,50
+09/08/2023,Pittsburgh Pirates,a,51
+09/08/2023,Atlanta Braves,a,72
+09/08/2023,Seattle Mariners,a,62
+09/08/2023,San Diego Padres,a,55
+09/08/2023,Tampa Bay Rays,a,69
+09/08/2023,St. Louis Cardinals,a,50
+10/08/2023,Baltimore Orioles,a,71
+10/08/2023,Houston Astros,a,66
+10/08/2023,Boston Red Sox,a,60
+10/08/2023,Kansas City Royals,a,37
+10/08/2023,Cleveland Guardians,a,56
+10/08/2023,Toronto Blue Jays,a,65
+10/08/2023,Detroit Tigers,a,52
+10/08/2023,Minnesota Twins,a,60
+10/08/2023,Los Angeles Dodgers,a,68
+10/08/2023,Colorado Rockies,a,45
+10/08/2023,Philadelphia Phillies,a,64
+10/08/2023,Washington Nationals,a,50
+10/08/2023,Pittsburgh Pirates,a,52
+10/08/2023,Atlanta Braves,a,72
+10/08/2023,Tampa Bay Rays,a,69
+10/08/2023,St. Louis Cardinals,a,51
+10/08/2023,Chicago Cubs,a,59
+10/08/2023,Milwaukee Brewers,a,62
+10/08/2023,Cincinnati Reds,a,60
+10/08/2023,Chicago White Sox,a,47
+10/08/2023,Arizona Diamondbacks,a,57
+10/08/2023,Miami Marlins,a,60
+10/08/2023,New York Mets,a,52
+10/08/2023,New York Yankees,a,59
+10/08/2023,San Francisco Giants,a,62
+10/08/2023,Oakland Athletics,a,33
+10/08/2023,Los Angeles Angels,a,58
+10/08/2023,San Diego Padres,a,55
+10/08/2023,Seattle Mariners,a,62
+10/08/2023,Texas Rangers,a,68
+11/08/2023,Arizona Diamondbacks,a,57
+11/08/2023,San Diego Padres,a,56
+11/08/2023,Boston Red Sox,a,61
+11/08/2023,Detroit Tigers,a,52
+11/08/2023,Chicago White Sox,a,47
+11/08/2023,Milwaukee Brewers,a,63
+11/08/2023,Houston Astros,a,67
+11/08/2023,Los Angeles Angels,a,58
+11/08/2023,Kansas City Royals,a,38
+11/08/2023,St. Louis Cardinals,a,51
+11/08/2023,Los Angeles Dodgers,a,69
+11/08/2023,Colorado Rockies,a,45
+11/08/2023,Miami Marlins,a,60
+11/08/2023,New York Yankees,a,60
+11/08/2023,New York Mets,a,52
+11/08/2023,Atlanta Braves,a,73
+11/08/2023,Philadelphia Phillies,a,65
+11/08/2023,Minnesota Twins,a,60
+11/08/2023,Pittsburgh Pirates,a,52
+11/08/2023,Cincinnati Reds,a,61
+11/08/2023,Seattle Mariners,a,63
+11/08/2023,Baltimore Orioles,a,71
+11/08/2023,San Francisco Giants,a,62
+11/08/2023,Texas Rangers,a,69
+11/08/2023,Tampa Bay Rays,a,70
+11/08/2023,Cleveland Guardians,a,56
+11/08/2023,Toronto Blue Jays,a,65
+11/08/2023,Chicago Cubs,a,60
+11/08/2023,Washington Nationals,a,51
+11/08/2023,Oakland Athletics,a,33
+12/08/2023,Arizona Diamondbacks,a,58
+12/08/2023,San Diego Padres,a,56
+12/08/2023,Boston Red Sox,a,61
+12/08/2023,Detroit Tigers,a,53
+12/08/2023,Chicago White Sox,a,47
+12/08/2023,Milwaukee Brewers,a,64
+12/08/2023,Houston Astros,a,68
+12/08/2023,Los Angeles Angels,a,58
+12/08/2023,Kansas City Royals,a,38
+12/08/2023,St. Louis Cardinals,a,52
+12/08/2023,Los Angeles Dodgers,a,70
+12/08/2023,Colorado Rockies,a,45
+12/08/2023,Miami Marlins,a,61
+12/08/2023,New York Yankees,a,60
+12/08/2023,New York Mets,a,52
+12/08/2023,Atlanta Braves,a,74
+12/08/2023,New York Mets,a,52
+12/08/2023,Atlanta Braves,a,75
+12/08/2023,Philadelphia Phillies,a,65
+12/08/2023,Minnesota Twins,a,61
+12/08/2023,Seattle Mariners,a,63
+12/08/2023,Baltimore Orioles,a,72
+12/08/2023,San Francisco Giants,a,62
+12/08/2023,Texas Rangers,a,70
+12/08/2023,Tampa Bay Rays,a,71
+12/08/2023,Cleveland Guardians,a,56
+12/08/2023,Toronto Blue Jays,a,65
+12/08/2023,Chicago Cubs,a,61
+12/08/2023,Washington Nationals,a,52
+12/08/2023,Oakland Athletics,a,33
+12/08/2023,Cincinnati Reds,a,61
+12/08/2023,Pittsburgh Pirates,a,52
+13/08/2023,Arizona Diamondbacks,a,59
+13/08/2023,San Diego Padres,a,56
+13/08/2023,Boston Red Sox,a,62
+13/08/2023,Detroit Tigers,a,53
+13/08/2023,Chicago White Sox,a,47
+13/08/2023,Milwaukee Brewers,a,65
+13/08/2023,Houston Astros,a,68
+13/08/2023,Los Angeles Angels,a,59
+13/08/2023,Los Angeles Dodgers,a,71
+13/08/2023,Colorado Rockies,a,45
+13/08/2023,Miami Marlins,a,62
+13/08/2023,New York Yankees,a,60
+13/08/2023,New York Mets,a,53
+13/08/2023,Atlanta Braves,a,75
+13/08/2023,Philadelphia Phillies,a,65
+13/08/2023,Minnesota Twins,a,62
+13/08/2023,Pittsburgh Pirates,a,53
+13/08/2023,Cincinnati Reds,a,61
+13/08/2023,Pittsburgh Pirates,a,53
+13/08/2023,Cincinnati Reds,a,62
+13/08/2023,Seattle Mariners,a,63
+13/08/2023,Baltimore Orioles,a,73
+13/08/2023,San Francisco Giants,a,63
+13/08/2023,Texas Rangers,a,70
+13/08/2023,Tampa Bay Rays,a,71
+13/08/2023,Cleveland Guardians,a,57
+13/08/2023,Toronto Blue Jays,a,66
+13/08/2023,Chicago Cubs,a,61
+13/08/2023,Washington Nationals,a,53
+13/08/2023,Oakland Athletics,a,33
+13/08/2023,Kansas City Royals,a,38
+13/08/2023,St. Louis Cardinals,a,52
+14/08/2023,Atlanta Braves,a,76
+14/08/2023,New York Yankees,a,60
+14/08/2023,Colorado Rockies,a,46
+14/08/2023,Arizona Diamondbacks,a,59
+14/08/2023,Kansas City Royals,a,39
+14/08/2023,Seattle Mariners,a,63
+14/08/2023,Miami Marlins,a,63
+14/08/2023,Houston Astros,a,68
+14/08/2023,New York Mets,a,54
+14/08/2023,Pittsburgh Pirates,a,53
+14/08/2023,San Diego Padres,a,56
+14/08/2023,Baltimore Orioles,a,74
+14/08/2023,San Francisco Giants,a,63
+14/08/2023,Tampa Bay Rays,a,72
+14/08/2023,St. Louis Cardinals,a,53
+14/08/2023,Oakland Athletics,a,33
+14/08/2023,Texas Rangers,a,71
+14/08/2023,Los Angeles Angels,a,59
+14/08/2023,Boston Red Sox,a,62
+14/08/2023,Chicago Cubs,a,61
+14/08/2023,Milwaukee Brewers,a,65
+14/08/2023,Cincinnati Reds,a,62
+14/08/2023,Chicago White Sox,a,47
+14/08/2023,Minnesota Twins,a,62
+14/08/2023,Los Angeles Dodgers,a,71
+14/08/2023,Cleveland Guardians,a,57
+14/08/2023,Toronto Blue Jays,a,66
+14/08/2023,Detroit Tigers,a,53
+14/08/2023,Philadelphia Phillies,a,65
+14/08/2023,Washington Nationals,a,53
+15/08/2023,Atlanta Braves,a,77
+15/08/2023,New York Yankees,a,60
+15/08/2023,Chicago Cubs,a,61
+15/08/2023,Chicago White Sox,a,48
+15/08/2023,Cincinnati Reds,a,62
+15/08/2023,Cleveland Guardians,a,58
+15/08/2023,Colorado Rockies,a,46
+15/08/2023,Arizona Diamondbacks,a,60
+15/08/2023,Kansas City Royals,a,39
+15/08/2023,Seattle Mariners,a,64
+15/08/2023,Los Angeles Dodgers,a,72
+15/08/2023,Milwaukee Brewers,a,65
+15/08/2023,Miami Marlins,a,63
+15/08/2023,Houston Astros,a,69
+15/08/2023,Minnesota Twins,a,63
+15/08/2023,Detroit Tigers,a,53
+15/08/2023,New York Mets,a,54
+15/08/2023,Pittsburgh Pirates,a,54
+15/08/2023,San Diego Padres,a,57
+15/08/2023,Baltimore Orioles,a,74
+15/08/2023,San Francisco Giants,a,64
+15/08/2023,Tampa Bay Rays,a,72
+15/08/2023,St. Louis Cardinals,a,54
+15/08/2023,Oakland Athletics,a,33
+15/08/2023,Texas Rangers,a,72
+15/08/2023,Los Angeles Angels,a,59
+15/08/2023,Toronto Blue Jays,a,67
+15/08/2023,Philadelphia Phillies,a,65
+15/08/2023,Washington Nationals,a,53
+15/08/2023,Boston Red Sox,a,63
+16/08/2023,Atlanta Braves,a,78
+16/08/2023,New York Yankees,a,60
+16/08/2023,Chicago Cubs,a,62
+16/08/2023,Chicago White Sox,a,48
+16/08/2023,Cincinnati Reds,a,63
+16/08/2023,Cleveland Guardians,a,58
+16/08/2023,Colorado Rockies,a,46
+16/08/2023,Arizona Diamondbacks,a,61
+16/08/2023,Kansas City Royals,a,39
+16/08/2023,Seattle Mariners,a,65
+16/08/2023,Los Angeles Dodgers,a,73
+16/08/2023,Milwaukee Brewers,a,65
+16/08/2023,Miami Marlins,a,63
+16/08/2023,Houston Astros,a,70
+16/08/2023,Minnesota Twins,a,63
+16/08/2023,Detroit Tigers,a,54
+16/08/2023,New York Mets,a,55
+16/08/2023,Pittsburgh Pirates,a,54
+16/08/2023,San Diego Padres,a,58
+16/08/2023,Baltimore Orioles,a,74
+16/08/2023,San Francisco Giants,a,64
+16/08/2023,Tampa Bay Rays,a,73
+16/08/2023,St. Louis Cardinals,a,54
+16/08/2023,Oakland Athletics,a,34
+16/08/2023,Texas Rangers,a,72
+16/08/2023,Los Angeles Angels,a,60
+16/08/2023,Toronto Blue Jays,a,67
+16/08/2023,Philadelphia Phillies,a,66
+16/08/2023,Washington Nationals,a,54
+16/08/2023,Boston Red Sox,a,63
+17/08/2023,Kansas City Royals,a,39
+17/08/2023,Seattle Mariners,a,66
+17/08/2023,Los Angeles Dodgers,a,74
+17/08/2023,Milwaukee Brewers,a,65
+17/08/2023,San Diego Padres,a,58
+17/08/2023,Arizona Diamondbacks,a,62
+17/08/2023,St. Louis Cardinals,a,54
+17/08/2023,New York Mets,a,56
+17/08/2023,Washington Nationals,a,55
+17/08/2023,Boston Red Sox,a,63
+17/08/2023,Baltimore Orioles,a,74
+17/08/2023,Chicago Cubs,a,62
+17/08/2023,Cincinnati Reds,a,63
+17/08/2023,Pittsburgh Pirates,a,54
+17/08/2023,Houston Astros,a,70
+17/08/2023,Chicago White Sox,a,48
+17/08/2023,Minnesota Twins,a,63
+17/08/2023,Miami Marlins,a,63
+17/08/2023,New York Yankees,a,60
+17/08/2023,San Francisco Giants,a,64
+17/08/2023,Oakland Athletics,a,34
+17/08/2023,Los Angeles Angels,a,60
+17/08/2023,Colorado Rockies,a,46
+17/08/2023,Cleveland Guardians,a,58
+17/08/2023,Toronto Blue Jays,a,67
+17/08/2023,Tampa Bay Rays,a,73
+17/08/2023,Detroit Tigers,a,54
+17/08/2023,Texas Rangers,a,72
+17/08/2023,Philadelphia Phillies,a,66
+17/08/2023,Atlanta Braves,a,78
+18/08/2023,Los Angeles Angels,a,60
+18/08/2023,Tampa Bay Rays,a,74
+18/08/2023,Atlanta Braves,a,79
+18/08/2023,San Francisco Giants,a,64
+18/08/2023,Chicago Cubs,a,62
+18/08/2023,Kansas City Royals,a,40
+18/08/2023,Cincinnati Reds,a,64
+18/08/2023,Toronto Blue Jays,a,67
+18/08/2023,Cleveland Guardians,a,58
+18/08/2023,Detroit Tigers,a,55
+18/08/2023,Cleveland Guardians,a,59
+18/08/2023,Detroit Tigers,a,55
+18/08/2023,Colorado Rockies,a,47
+18/08/2023,Chicago White Sox,a,48
+18/08/2023,Houston Astros,a,70
+18/08/2023,Seattle Mariners,a,67
+18/08/2023,Los Angeles Dodgers,a,74
+18/08/2023,Miami Marlins,a,64
+18/08/2023,Minnesota Twins,a,64
+18/08/2023,Pittsburgh Pirates,a,54
+18/08/2023,New York Yankees,a,60
+18/08/2023,Boston Red Sox,a,64
+18/08/2023,Oakland Athletics,a,34
+18/08/2023,Baltimore Orioles,a,75
+18/08/2023,San Diego Padres,a,59
+18/08/2023,Arizona Diamondbacks,a,62
+18/08/2023,St. Louis Cardinals,a,54
+18/08/2023,New York Mets,a,57
+18/08/2023,Texas Rangers,a,72
+18/08/2023,Milwaukee Brewers,a,66
+18/08/2023,Washington Nationals,a,56
+18/08/2023,Philadelphia Phillies,a,66
+19/08/2023,Los Angeles Angels,a,61
+19/08/2023,Tampa Bay Rays,a,74
+19/08/2023,Los Angeles Angels,a,61
+19/08/2023,Tampa Bay Rays,a,75
+19/08/2023,Atlanta Braves,a,80
+19/08/2023,San Francisco Giants,a,64
+19/08/2023,Chicago Cubs,a,63
+19/08/2023,Kansas City Royals,a,40
+19/08/2023,Cincinnati Reds,a,64
+19/08/2023,Toronto Blue Jays,a,68
+19/08/2023,Cleveland Guardians,a,59
+19/08/2023,Detroit Tigers,a,56
+19/08/2023,Colorado Rockies,a,48
+19/08/2023,Chicago White Sox,a,48
+19/08/2023,Houston Astros,a,70
+19/08/2023,Seattle Mariners,a,68
+19/08/2023,Los Angeles Dodgers,a,75
+19/08/2023,Miami Marlins,a,64
+19/08/2023,Los Angeles Dodgers,a,76
+19/08/2023,Miami Marlins,a,64
+19/08/2023,Minnesota Twins,a,64
+19/08/2023,Pittsburgh Pirates,a,55
+19/08/2023,New York Yankees,a,60
+19/08/2023,Boston Red Sox,a,65
+19/08/2023,Oakland Athletics,a,34
+19/08/2023,Baltimore Orioles,a,76
+19/08/2023,San Diego Padres,a,59
+19/08/2023,Arizona Diamondbacks,a,63
+19/08/2023,San Diego Padres,a,59
+19/08/2023,Arizona Diamondbacks,a,64
+19/08/2023,St. Louis Cardinals,a,54
+19/08/2023,New York Mets,a,58
+19/08/2023,Texas Rangers,a,72
+19/08/2023,Milwaukee Brewers,a,67
+19/08/2023,Washington Nationals,a,56
+19/08/2023,Philadelphia Phillies,a,67
+20/08/2023,Atlanta Braves,a,80
+20/08/2023,San Francisco Giants,a,65
+20/08/2023,Chicago Cubs,a,64
+20/08/2023,Kansas City Royals,a,40
+20/08/2023,Cincinnati Reds,a,64
+20/08/2023,Toronto Blue Jays,a,69
+20/08/2023,Cleveland Guardians,a,59
+20/08/2023,Detroit Tigers,a,57
+20/08/2023,Colorado Rockies,a,48
+20/08/2023,Chicago White Sox,a,49
+20/08/2023,Houston Astros,a,70
+20/08/2023,Seattle Mariners,a,69
+20/08/2023,Minnesota Twins,a,65
+20/08/2023,Pittsburgh Pirates,a,55
+20/08/2023,New York Yankees,a,60
+20/08/2023,Boston Red Sox,a,66
+20/08/2023,Oakland Athletics,a,34
+20/08/2023,Baltimore Orioles,a,77
+20/08/2023,St. Louis Cardinals,a,55
+20/08/2023,New York Mets,a,58
+20/08/2023,Texas Rangers,a,72
+20/08/2023,Milwaukee Brewers,a,68
+20/08/2023,Washington Nationals,a,57
+20/08/2023,Philadelphia Phillies,a,67
+20/08/2023,Los Angeles Dodgers,a,76
+20/08/2023,Arizona Diamondbacks,a,64
+20/08/2023,Miami Marlins,a,64
+20/08/2023,Los Angeles Angels,a,61
+20/08/2023,San Diego Padres,a,59
+20/08/2023,Tampa Bay Rays,a,75
+21/08/2023,Arizona Diamondbacks,a,65
+21/08/2023,Texas Rangers,a,72
+21/08/2023,Atlanta Braves,a,80
+21/08/2023,New York Mets,a,59
+21/08/2023,Chicago White Sox,a,49
+21/08/2023,Seattle Mariners,a,70
+21/08/2023,Detroit Tigers,a,57
+21/08/2023,Chicago Cubs,a,65
+21/08/2023,Houston Astros,a,71
+21/08/2023,Boston Red Sox,a,66
+21/08/2023,Oakland Athletics,a,35
+21/08/2023,Kansas City Royals,a,40
+21/08/2023,Philadelphia Phillies,a,68
+21/08/2023,San Francisco Giants,a,65
+21/08/2023,Pittsburgh Pirates,a,56
+21/08/2023,St. Louis Cardinals,a,55
+21/08/2023,San Diego Padres,a,60
+21/08/2023,Miami Marlins,a,64
+21/08/2023,Baltimore Orioles,a,77
+21/08/2023,Milwaukee Brewers,a,68
+21/08/2023,Cincinnati Reds,a,64
+21/08/2023,Minnesota Twins,a,65
+21/08/2023,Los Angeles Dodgers,a,76
+21/08/2023,New York Yankees,a,60
+21/08/2023,Los Angeles Angels,a,61
+21/08/2023,Colorado Rockies,a,48
+21/08/2023,Cleveland Guardians,a,59
+21/08/2023,Toronto Blue Jays,a,69
+21/08/2023,Tampa Bay Rays,a,75
+21/08/2023,Washington Nationals,a,57
+22/08/2023,Los Angeles Angels,a,61
+22/08/2023,Cincinnati Reds,a,65
+22/08/2023,Arizona Diamondbacks,a,66
+22/08/2023,Texas Rangers,a,72
+22/08/2023,Atlanta Braves,a,81
+22/08/2023,New York Mets,a,59
+22/08/2023,Baltimore Orioles,a,77
+22/08/2023,Toronto Blue Jays,a,70
+22/08/2023,Chicago White Sox,a,49
+22/08/2023,Seattle Mariners,a,71
+22/08/2023,Cleveland Guardians,a,60
+22/08/2023,Los Angeles Dodgers,a,76
+22/08/2023,Detroit Tigers,a,58
+22/08/2023,Chicago Cubs,a,65
+22/08/2023,Houston Astros,a,72
+22/08/2023,Boston Red Sox,a,66
+22/08/2023,Milwaukee Brewers,a,69
+22/08/2023,Minnesota Twins,a,65
+22/08/2023,New York Yankees,a,60
+22/08/2023,Washington Nationals,a,58
+22/08/2023,Oakland Athletics,a,36
+22/08/2023,Kansas City Royals,a,40
+22/08/2023,Philadelphia Phillies,a,69
+22/08/2023,San Francisco Giants,a,65
+22/08/2023,Pittsburgh Pirates,a,57
+22/08/2023,St. Louis Cardinals,a,55
+22/08/2023,San Diego Padres,a,60
+22/08/2023,Miami Marlins,a,65
+22/08/2023,Tampa Bay Rays,a,76
+22/08/2023,Colorado Rockies,a,48
+23/08/2023,Los Angeles Angels,a,61
+23/08/2023,Cincinnati Reds,a,66
+23/08/2023,Los Angeles Angels,a,61
+23/08/2023,Cincinnati Reds,a,67
+23/08/2023,Atlanta Braves,a,82
+23/08/2023,New York Mets,a,59
+23/08/2023,Baltimore Orioles,a,78
+23/08/2023,Toronto Blue Jays,a,70
+23/08/2023,Chicago White Sox,a,50
+23/08/2023,Seattle Mariners,a,71
+23/08/2023,Cleveland Guardians,a,60
+23/08/2023,Los Angeles Dodgers,a,77
+23/08/2023,Detroit Tigers,a,58
+23/08/2023,Chicago Cubs,a,66
+23/08/2023,Houston Astros,a,72
+23/08/2023,Boston Red Sox,a,67
+23/08/2023,Milwaukee Brewers,a,70
+23/08/2023,Minnesota Twins,a,65
+23/08/2023,New York Yankees,a,61
+23/08/2023,Washington Nationals,a,58
+23/08/2023,Oakland Athletics,a,36
+23/08/2023,Kansas City Royals,a,41
+23/08/2023,Philadelphia Phillies,a,69
+23/08/2023,San Francisco Giants,a,66
+23/08/2023,Pittsburgh Pirates,a,57
+23/08/2023,St. Louis Cardinals,a,56
+23/08/2023,San Diego Padres,a,61
+23/08/2023,Miami Marlins,a,65
+23/08/2023,Tampa Bay Rays,a,77
+23/08/2023,Colorado Rockies,a,48
+23/08/2023,Arizona Diamondbacks,a,66
+23/08/2023,Texas Rangers,a,72
+24/08/2023,Arizona Diamondbacks,a,67
+24/08/2023,Cincinnati Reds,a,67
+24/08/2023,Baltimore Orioles,a,79
+24/08/2023,Toronto Blue Jays,a,70
+24/08/2023,Chicago White Sox,a,50
+24/08/2023,Oakland Athletics,a,37
+24/08/2023,Cleveland Guardians,a,60
+24/08/2023,Los Angeles Dodgers,a,78
+24/08/2023,Houston Astros,a,72
+24/08/2023,Boston Red Sox,a,68
+24/08/2023,Minnesota Twins,a,66
+24/08/2023,Texas Rangers,a,72
+24/08/2023,New York Yankees,a,61
+24/08/2023,Washington Nationals,a,59
+24/08/2023,Pittsburgh Pirates,a,57
+24/08/2023,Chicago Cubs,a,67
+24/08/2023,Tampa Bay Rays,a,78
+24/08/2023,Colorado Rockies,a,48
+24/08/2023,Milwaukee Brewers,a,70
+24/08/2023,Kansas City Royals,a,41
+24/08/2023,Miami Marlins,a,65
+24/08/2023,New York Mets,a,59
+24/08/2023,San Francisco Giants,a,66
+24/08/2023,Los Angeles Angels,a,61
+24/08/2023,San Diego Padres,a,61
+24/08/2023,Seattle Mariners,a,71
+24/08/2023,St. Louis Cardinals,a,56
+24/08/2023,Detroit Tigers,a,58
+24/08/2023,Philadelphia Phillies,a,69
+24/08/2023,Atlanta Braves,a,82
+25/08/2023,Arizona Diamondbacks,a,68
+25/08/2023,Cincinnati Reds,a,67
+25/08/2023,Baltimore Orioles,a,80
+25/08/2023,Colorado Rockies,a,48
+25/08/2023,Boston Red Sox,a,68
+25/08/2023,Los Angeles Dodgers,a,79
+25/08/2023,Chicago White Sox,a,50
+25/08/2023,Oakland Athletics,a,38
+25/08/2023,Detroit Tigers,a,59
+25/08/2023,Houston Astros,a,72
+25/08/2023,Miami Marlins,a,65
+25/08/2023,Washington Nationals,a,60
+25/08/2023,Milwaukee Brewers,a,71
+25/08/2023,San Diego Padres,a,61
+25/08/2023,Minnesota Twins,a,67
+25/08/2023,Texas Rangers,a,72
+25/08/2023,New York Mets,a,59
+25/08/2023,Los Angeles Angels,a,62
+25/08/2023,Philadelphia Phillies,a,70
+25/08/2023,St. Louis Cardinals,a,56
+25/08/2023,Pittsburgh Pirates,a,58
+25/08/2023,Chicago Cubs,a,67
+25/08/2023,Seattle Mariners,a,72
+25/08/2023,Kansas City Royals,a,41
+25/08/2023,San Francisco Giants,a,66
+25/08/2023,Atlanta Braves,a,83
+25/08/2023,Tampa Bay Rays,a,78
+25/08/2023,New York Yankees,a,62
+25/08/2023,Toronto Blue Jays,a,70
+25/08/2023,Cleveland Guardians,a,61
+26/08/2023,Arizona Diamondbacks,a,68
+26/08/2023,Cincinnati Reds,a,68
+26/08/2023,Baltimore Orioles,a,81
+26/08/2023,Colorado Rockies,a,48
+26/08/2023,Boston Red Sox,a,69
+26/08/2023,Los Angeles Dodgers,a,79
+26/08/2023,Chicago White Sox,a,51
+26/08/2023,Oakland Athletics,a,38
+26/08/2023,Detroit Tigers,a,59
+26/08/2023,Houston Astros,a,73
+26/08/2023,Miami Marlins,a,65
+26/08/2023,Washington Nationals,a,61
+26/08/2023,Milwaukee Brewers,a,72
+26/08/2023,San Diego Padres,a,61
+26/08/2023,Minnesota Twins,a,67
+26/08/2023,Texas Rangers,a,73
+26/08/2023,New York Mets,a,59
+26/08/2023,Los Angeles Angels,a,63
+26/08/2023,Philadelphia Phillies,a,71
+26/08/2023,St. Louis Cardinals,a,56
+26/08/2023,Pittsburgh Pirates,a,58
+26/08/2023,Chicago Cubs,a,68
+26/08/2023,Seattle Mariners,a,73
+26/08/2023,Kansas City Royals,a,41
+26/08/2023,San Francisco Giants,a,66
+26/08/2023,Atlanta Braves,a,84
+26/08/2023,Tampa Bay Rays,a,79
+26/08/2023,New York Yankees,a,62
+26/08/2023,Toronto Blue Jays,a,71
+26/08/2023,Cleveland Guardians,a,61
+27/08/2023,Arizona Diamondbacks,a,69
+27/08/2023,Cincinnati Reds,a,68
+27/08/2023,Baltimore Orioles,a,81
+27/08/2023,Colorado Rockies,a,49
+27/08/2023,Boston Red Sox,a,69
+27/08/2023,Los Angeles Dodgers,a,80
+27/08/2023,Chicago White Sox,a,52
+27/08/2023,Oakland Athletics,a,38
+27/08/2023,Detroit Tigers,a,59
+27/08/2023,Houston Astros,a,74
+27/08/2023,Miami Marlins,a,66
+27/08/2023,Washington Nationals,a,61
+27/08/2023,Milwaukee Brewers,a,73
+27/08/2023,San Diego Padres,a,61
+27/08/2023,Minnesota Twins,a,68
+27/08/2023,Texas Rangers,a,73
+27/08/2023,New York Mets,a,60
+27/08/2023,Los Angeles Angels,a,63
+27/08/2023,Philadelphia Phillies,a,72
+27/08/2023,St. Louis Cardinals,a,56
+27/08/2023,Pittsburgh Pirates,a,58
+27/08/2023,Chicago Cubs,a,69
+27/08/2023,Seattle Mariners,a,74
+27/08/2023,Kansas City Royals,a,41
+27/08/2023,San Francisco Giants,a,67
+27/08/2023,Atlanta Braves,a,84
+27/08/2023,Tampa Bay Rays,a,80
+27/08/2023,New York Yankees,a,62
+27/08/2023,Toronto Blue Jays,a,71
+27/08/2023,Cleveland Guardians,a,62
+28/08/2023,Baltimore Orioles,a,82
+28/08/2023,Chicago White Sox,a,52
+28/08/2023,Boston Red Sox,a,69
+28/08/2023,Houston Astros,a,75
+28/08/2023,Chicago Cubs,a,69
+28/08/2023,Milwaukee Brewers,a,74
+28/08/2023,Colorado Rockies,a,49
+28/08/2023,Atlanta Braves,a,85
+28/08/2023,Detroit Tigers,a,59
+28/08/2023,New York Yankees,a,63
+28/08/2023,Kansas City Royals,a,41
+28/08/2023,Pittsburgh Pirates,a,59
+28/08/2023,Los Angeles Dodgers,a,81
+28/08/2023,Arizona Diamondbacks,a,69
+28/08/2023,Minnesota Twins,a,69
+28/08/2023,Cleveland Guardians,a,62
+28/08/2023,New York Mets,a,60
+28/08/2023,Texas Rangers,a,74
+28/08/2023,Philadelphia Phillies,a,73
+28/08/2023,Los Angeles Angels,a,63
+28/08/2023,Seattle Mariners,a,75
+28/08/2023,Oakland Athletics,a,38
+28/08/2023,San Francisco Giants,a,68
+28/08/2023,Cincinnati Reds,a,68
+28/08/2023,St. Louis Cardinals,a,56
+28/08/2023,San Diego Padres,a,62
+28/08/2023,Toronto Blue Jays,a,72
+28/08/2023,Washington Nationals,a,61
+28/08/2023,Miami Marlins,a,66
+28/08/2023,Tampa Bay Rays,a,80
+29/08/2023,Baltimore Orioles,a,83
+29/08/2023,Chicago White Sox,a,52
+29/08/2023,Boston Red Sox,a,69
+29/08/2023,Houston Astros,a,76
+29/08/2023,Chicago Cubs,a,70
+29/08/2023,Milwaukee Brewers,a,74
+29/08/2023,Colorado Rockies,a,49
+29/08/2023,Atlanta Braves,a,86
+29/08/2023,Detroit Tigers,a,59
+29/08/2023,New York Yankees,a,64
+29/08/2023,Kansas City Royals,a,41
+29/08/2023,Pittsburgh Pirates,a,60
+29/08/2023,Los Angeles Dodgers,a,82
+29/08/2023,Arizona Diamondbacks,a,69
+29/08/2023,Miami Marlins,a,66
+29/08/2023,Tampa Bay Rays,a,81
+29/08/2023,Minnesota Twins,a,69
+29/08/2023,Cleveland Guardians,a,63
+29/08/2023,New York Mets,a,60
+29/08/2023,Texas Rangers,a,75
+29/08/2023,Philadelphia Phillies,a,74
+29/08/2023,Los Angeles Angels,a,63
+29/08/2023,Seattle Mariners,a,75
+29/08/2023,Oakland Athletics,a,39
+29/08/2023,San Francisco Giants,a,69
+29/08/2023,Cincinnati Reds,a,68
+29/08/2023,St. Louis Cardinals,a,57
+29/08/2023,San Diego Padres,a,62
+29/08/2023,Toronto Blue Jays,a,72
+29/08/2023,Washington Nationals,a,62
+30/08/2023,Baltimore Orioles,a,83
+30/08/2023,Chicago White Sox,a,53
+30/08/2023,Boston Red Sox,a,69
+30/08/2023,Houston Astros,a,77
+30/08/2023,Chicago Cubs,a,71
+30/08/2023,Milwaukee Brewers,a,74
+30/08/2023,Colorado Rockies,a,49
+30/08/2023,Atlanta Braves,a,87
+30/08/2023,Detroit Tigers,a,59
+30/08/2023,New York Yankees,a,65
+30/08/2023,Kansas City Royals,a,41
+30/08/2023,Pittsburgh Pirates,a,61
+30/08/2023,Los Angeles Dodgers,a,83
+30/08/2023,Arizona Diamondbacks,a,69
+30/08/2023,Miami Marlins,a,66
+30/08/2023,Tampa Bay Rays,a,82
+30/08/2023,Minnesota Twins,a,69
+30/08/2023,Cleveland Guardians,a,64
+30/08/2023,New York Mets,a,61
+30/08/2023,Texas Rangers,a,75
+30/08/2023,Philadelphia Phillies,a,74
+30/08/2023,Los Angeles Angels,a,64
+30/08/2023,Seattle Mariners,a,76
+30/08/2023,Oakland Athletics,a,39
+30/08/2023,San Francisco Giants,a,69
+30/08/2023,Cincinnati Reds,a,69
+30/08/2023,St. Louis Cardinals,a,58
+30/08/2023,San Diego Padres,a,62
+30/08/2023,Toronto Blue Jays,a,73
+30/08/2023,Washington Nationals,a,62
+31/08/2023,Detroit Tigers,a,60
+31/08/2023,New York Yankees,a,65
+31/08/2023,Los Angeles Dodgers,a,83
+31/08/2023,Atlanta Braves,a,88
+31/08/2023,San Diego Padres,a,62
+31/08/2023,San Francisco Giants,a,70
+31/08/2023,Washington Nationals,a,62
+31/08/2023,Miami Marlins,a,67
+31/08/2023,Boston Red Sox,a,69
+31/08/2023,Baltimore Orioles,a,83
+31/08/2023,Chicago Cubs,a,71
+31/08/2023,Milwaukee Brewers,a,74
+31/08/2023,Cincinnati Reds,a,69
+31/08/2023,Pittsburgh Pirates,a,61
+31/08/2023,Houston Astros,a,77
+31/08/2023,Chicago White Sox,a,53
+31/08/2023,Kansas City Royals,a,41
+31/08/2023,Minnesota Twins,a,69
+31/08/2023,Arizona Diamondbacks,a,69
+31/08/2023,New York Mets,a,61
+31/08/2023,Oakland Athletics,a,39
+31/08/2023,Los Angeles Angels,a,64
+31/08/2023,Colorado Rockies,a,49
+31/08/2023,Seattle Mariners,a,76
+31/08/2023,Cleveland Guardians,a,64
+31/08/2023,St. Louis Cardinals,a,58
+31/08/2023,Toronto Blue Jays,a,73
+31/08/2023,Tampa Bay Rays,a,82
+31/08/2023,Texas Rangers,a,75
+31/08/2023,Philadelphia Phillies,a,74
+01/09/2023,Arizona Diamondbacks,a,70
+01/09/2023,Baltimore Orioles,a,83
+01/09/2023,Chicago White Sox,a,53
+01/09/2023,Detroit Tigers,a,61
+01/09/2023,Cincinnati Reds,a,69
+01/09/2023,Chicago Cubs,a,72
+01/09/2023,Cincinnati Reds,a,70
+01/09/2023,Chicago Cubs,a,72
+01/09/2023,Cleveland Guardians,a,65
+01/09/2023,Tampa Bay Rays,a,82
+01/09/2023,Colorado Rockies,a,49
+01/09/2023,Toronto Blue Jays,a,74
+01/09/2023,Houston Astros,a,77
+01/09/2023,New York Yankees,a,66
+01/09/2023,Kansas City Royals,a,42
+01/09/2023,Boston Red Sox,a,69
+01/09/2023,Los Angeles Dodgers,a,83
+01/09/2023,Atlanta Braves,a,89
+01/09/2023,Milwaukee Brewers,a,75
+01/09/2023,Philadelphia Phillies,a,74
+01/09/2023,New York Mets,a,62
+01/09/2023,Seattle Mariners,a,76
+01/09/2023,Oakland Athletics,a,40
+01/09/2023,Los Angeles Angels,a,64
+01/09/2023,San Diego Padres,a,63
+01/09/2023,San Francisco Giants,a,70
+01/09/2023,St. Louis Cardinals,a,58
+01/09/2023,Pittsburgh Pirates,a,62
+01/09/2023,Texas Rangers,a,75
+01/09/2023,Minnesota Twins,a,70
+01/09/2023,Washington Nationals,a,62
+01/09/2023,Miami Marlins,a,68
+02/09/2023,Arizona Diamondbacks,a,70
+02/09/2023,Baltimore Orioles,a,84
+02/09/2023,Chicago White Sox,a,53
+02/09/2023,Detroit Tigers,a,62
+02/09/2023,Cincinnati Reds,a,71
+02/09/2023,Chicago Cubs,a,72
+02/09/2023,Cleveland Guardians,a,66
+02/09/2023,Tampa Bay Rays,a,82
+02/09/2023,Colorado Rockies,a,50
+02/09/2023,Toronto Blue Jays,a,74
+02/09/2023,Houston Astros,a,77
+02/09/2023,New York Yankees,a,67
+02/09/2023,Kansas City Royals,a,42
+02/09/2023,Boston Red Sox,a,70
+02/09/2023,Los Angeles Dodgers,a,83
+02/09/2023,Atlanta Braves,a,90
+02/09/2023,Milwaukee Brewers,a,76
+02/09/2023,Philadelphia Phillies,a,74
+02/09/2023,New York Mets,a,62
+02/09/2023,Seattle Mariners,a,77
+02/09/2023,Oakland Athletics,a,41
+02/09/2023,Los Angeles Angels,a,64
+02/09/2023,San Diego Padres,a,64
+02/09/2023,San Francisco Giants,a,70
+02/09/2023,St. Louis Cardinals,a,58
+02/09/2023,Pittsburgh Pirates,a,63
+02/09/2023,Texas Rangers,a,75
+02/09/2023,Minnesota Twins,a,71
+02/09/2023,Washington Nationals,a,62
+02/09/2023,Miami Marlins,a,69
+03/09/2023,Arizona Diamondbacks,a,70
+03/09/2023,Baltimore Orioles,a,85
+03/09/2023,Chicago White Sox,a,53
+03/09/2023,Detroit Tigers,a,63
+03/09/2023,Cincinnati Reds,a,71
+03/09/2023,Chicago Cubs,a,73
+03/09/2023,Cleveland Guardians,a,66
+03/09/2023,Tampa Bay Rays,a,83
+03/09/2023,Colorado Rockies,a,50
+03/09/2023,Toronto Blue Jays,a,75
+03/09/2023,Houston Astros,a,77
+03/09/2023,New York Yankees,a,68
+03/09/2023,Kansas City Royals,a,42
+03/09/2023,Boston Red Sox,a,71
+03/09/2023,Los Angeles Dodgers,a,84
+03/09/2023,Atlanta Braves,a,90
+03/09/2023,Milwaukee Brewers,a,76
+03/09/2023,Philadelphia Phillies,a,75
+03/09/2023,New York Mets,a,63
+03/09/2023,Seattle Mariners,a,77
+03/09/2023,Oakland Athletics,a,42
+03/09/2023,Los Angeles Angels,a,64
+03/09/2023,San Diego Padres,a,65
+03/09/2023,San Francisco Giants,a,70
+03/09/2023,St. Louis Cardinals,a,59
+03/09/2023,Pittsburgh Pirates,a,63
+03/09/2023,Texas Rangers,a,76
+03/09/2023,Minnesota Twins,a,71
+03/09/2023,Washington Nationals,a,62
+03/09/2023,Miami Marlins,a,70
+04/09/2023,Los Angeles Angels,a,64
+04/09/2023,Baltimore Orioles,a,86
+04/09/2023,Arizona Diamondbacks,a,71
+04/09/2023,Colorado Rockies,a,50
+04/09/2023,Chicago Cubs,a,74
+04/09/2023,San Francisco Giants,a,70
+04/09/2023,Cincinnati Reds,a,72
+04/09/2023,Seattle Mariners,a,77
+04/09/2023,Cleveland Guardians,a,66
+04/09/2023,Minnesota Twins,a,72
+04/09/2023,Kansas City Royals,a,43
+04/09/2023,Chicago White Sox,a,53
+04/09/2023,Oakland Athletics,a,42
+04/09/2023,Toronto Blue Jays,a,76
+04/09/2023,Pittsburgh Pirates,a,64
+04/09/2023,Milwaukee Brewers,a,76
+04/09/2023,San Diego Padres,a,65
+04/09/2023,Philadelphia Phillies,a,76
+04/09/2023,Tampa Bay Rays,a,83
+04/09/2023,Boston Red Sox,a,72
+04/09/2023,Texas Rangers,a,76
+04/09/2023,Houston Astros,a,78
+04/09/2023,Los Angeles Dodgers,a,84
+04/09/2023,Miami Marlins,a,70
+04/09/2023,New York Mets,a,63
+04/09/2023,New York Yankees,a,68
+04/09/2023,St. Louis Cardinals,a,59
+04/09/2023,Detroit Tigers,a,63
+04/09/2023,Washington Nationals,a,62
+04/09/2023,Atlanta Braves,a,90
+05/09/2023,Los Angeles Angels,a,64
+05/09/2023,Baltimore Orioles,a,87
+05/09/2023,Arizona Diamondbacks,a,71
+05/09/2023,Colorado Rockies,a,51
+05/09/2023,Atlanta Braves,a,90
+05/09/2023,St. Louis Cardinals,a,60
+05/09/2023,Chicago Cubs,a,75
+05/09/2023,San Francisco Giants,a,70
+05/09/2023,Cincinnati Reds,a,73
+05/09/2023,Seattle Mariners,a,77
+05/09/2023,Cleveland Guardians,a,66
+05/09/2023,Minnesota Twins,a,73
+05/09/2023,Kansas City Royals,a,44
+05/09/2023,Chicago White Sox,a,53
+05/09/2023,Miami Marlins,a,71
+05/09/2023,Los Angeles Dodgers,a,84
+05/09/2023,New York Yankees,a,69
+05/09/2023,Detroit Tigers,a,63
+05/09/2023,Oakland Athletics,a,42
+05/09/2023,Toronto Blue Jays,a,77
+05/09/2023,Pittsburgh Pirates,a,64
+05/09/2023,Milwaukee Brewers,a,77
+05/09/2023,San Diego Padres,a,66
+05/09/2023,Philadelphia Phillies,a,76
+05/09/2023,Tampa Bay Rays,a,84
+05/09/2023,Boston Red Sox,a,72
+05/09/2023,Texas Rangers,a,76
+05/09/2023,Houston Astros,a,79
+05/09/2023,Washington Nationals,a,62
+05/09/2023,New York Mets,a,64
+06/09/2023,Los Angeles Angels,a,64
+06/09/2023,Baltimore Orioles,a,88
+06/09/2023,Arizona Diamondbacks,a,72
+06/09/2023,Colorado Rockies,a,51
+06/09/2023,Atlanta Braves,a,90
+06/09/2023,St. Louis Cardinals,a,61
+06/09/2023,Chicago Cubs,a,76
+06/09/2023,San Francisco Giants,a,70
+06/09/2023,Cincinnati Reds,a,73
+06/09/2023,Seattle Mariners,a,78
+06/09/2023,Cleveland Guardians,a,67
+06/09/2023,Minnesota Twins,a,73
+06/09/2023,Kansas City Royals,a,44
+06/09/2023,Chicago White Sox,a,54
+06/09/2023,Miami Marlins,a,72
+06/09/2023,Los Angeles Dodgers,a,84
+06/09/2023,New York Yankees,a,70
+06/09/2023,Detroit Tigers,a,63
+06/09/2023,Oakland Athletics,a,43
+06/09/2023,Toronto Blue Jays,a,77
+06/09/2023,Pittsburgh Pirates,a,65
+06/09/2023,Milwaukee Brewers,a,77
+06/09/2023,San Diego Padres,a,66
+06/09/2023,Philadelphia Phillies,a,77
+06/09/2023,Tampa Bay Rays,a,85
+06/09/2023,Boston Red Sox,a,72
+06/09/2023,Texas Rangers,a,76
+06/09/2023,Houston Astros,a,80
+06/09/2023,Washington Nationals,a,63
+06/09/2023,New York Mets,a,64
+07/09/2023,Los Angeles Angels,a,65
+07/09/2023,Cleveland Guardians,a,67
+07/09/2023,Atlanta Braves,a,91
+07/09/2023,St. Louis Cardinals,a,61
+07/09/2023,Chicago Cubs,a,76
+07/09/2023,Arizona Diamondbacks,a,73
+07/09/2023,Miami Marlins,a,72
+07/09/2023,Los Angeles Dodgers,a,85
+07/09/2023,New York Yankees,a,70
+07/09/2023,Detroit Tigers,a,64
+07/09/2023,Tampa Bay Rays,a,85
+07/09/2023,Seattle Mariners,a,79
+07/09/2023,Boston Red Sox,a,72
+07/09/2023,Baltimore Orioles,a,88
+07/09/2023,Milwaukee Brewers,a,77
+07/09/2023,Cincinnati Reds,a,73
+07/09/2023,Pittsburgh Pirates,a,65
+07/09/2023,Houston Astros,a,80
+07/09/2023,Chicago White Sox,a,54
+07/09/2023,Kansas City Royals,a,44
+07/09/2023,Minnesota Twins,a,73
+07/09/2023,New York Mets,a,64
+07/09/2023,San Francisco Giants,a,70
+07/09/2023,Oakland Athletics,a,43
+07/09/2023,San Diego Padres,a,66
+07/09/2023,Colorado Rockies,a,51
+07/09/2023,Toronto Blue Jays,a,77
+07/09/2023,Texas Rangers,a,76
+07/09/2023,Philadelphia Phillies,a,77
+07/09/2023,Washington Nationals,a,63
+08/09/2023,Los Angeles Angels,a,65
+08/09/2023,Cleveland Guardians,a,68
+08/09/2023,Atlanta Braves,a,92
+08/09/2023,Pittsburgh Pirates,a,65
+08/09/2023,Boston Red Sox,a,72
+08/09/2023,Baltimore Orioles,a,89
+08/09/2023,Chicago Cubs,a,76
+08/09/2023,Arizona Diamondbacks,a,74
+08/09/2023,Cincinnati Reds,a,73
+08/09/2023,St. Louis Cardinals,a,62
+08/09/2023,Detroit Tigers,a,64
+08/09/2023,Chicago White Sox,a,55
+08/09/2023,Houston Astros,a,80
+08/09/2023,San Diego Padres,a,67
+08/09/2023,Minnesota Twins,a,74
+08/09/2023,New York Mets,a,64
+08/09/2023,New York Yankees,a,70
+08/09/2023,Milwaukee Brewers,a,78
+08/09/2023,Philadelphia Phillies,a,77
+08/09/2023,Miami Marlins,a,73
+08/09/2023,San Francisco Giants,a,71
+08/09/2023,Colorado Rockies,a,51
+08/09/2023,Tampa Bay Rays,a,86
+08/09/2023,Seattle Mariners,a,79
+08/09/2023,Texas Rangers,a,76
+08/09/2023,Oakland Athletics,a,44
+08/09/2023,Toronto Blue Jays,a,78
+08/09/2023,Kansas City Royals,a,44
+08/09/2023,Washington Nationals,a,63
+08/09/2023,Los Angeles Dodgers,a,86
+09/09/2023,Los Angeles Angels,a,66
+09/09/2023,Cleveland Guardians,a,68
+09/09/2023,Atlanta Braves,a,92
+09/09/2023,Pittsburgh Pirates,a,66
+09/09/2023,Boston Red Sox,a,72
+09/09/2023,Baltimore Orioles,a,90
+09/09/2023,Chicago Cubs,a,76
+09/09/2023,Arizona Diamondbacks,a,75
+09/09/2023,Cincinnati Reds,a,73
+09/09/2023,St. Louis Cardinals,a,63
+09/09/2023,Detroit Tigers,a,65
+09/09/2023,Chicago White Sox,a,55
+09/09/2023,Houston Astros,a,81
+09/09/2023,San Diego Padres,a,67
+09/09/2023,Minnesota Twins,a,75
+09/09/2023,New York Mets,a,64
+09/09/2023,New York Yankees,a,70
+09/09/2023,Milwaukee Brewers,a,79
+09/09/2023,Philadelphia Phillies,a,78
+09/09/2023,Miami Marlins,a,73
+09/09/2023,San Francisco Giants,a,72
+09/09/2023,Colorado Rockies,a,51
+09/09/2023,Tampa Bay Rays,a,87
+09/09/2023,Seattle Mariners,a,79
+09/09/2023,Texas Rangers,a,77
+09/09/2023,Oakland Athletics,a,44
+09/09/2023,Toronto Blue Jays,a,79
+09/09/2023,Kansas City Royals,a,44
+09/09/2023,Washington Nationals,a,64
+09/09/2023,Los Angeles Dodgers,a,86
+10/09/2023,Los Angeles Angels,a,67
+10/09/2023,Cleveland Guardians,a,68
+10/09/2023,Atlanta Braves,a,93
+10/09/2023,Pittsburgh Pirates,a,66
+10/09/2023,Boston Red Sox,a,73
+10/09/2023,Baltimore Orioles,a,90
+10/09/2023,Chicago Cubs,a,77
+10/09/2023,Arizona Diamondbacks,a,75
+10/09/2023,Cincinnati Reds,a,74
+10/09/2023,St. Louis Cardinals,a,63
+10/09/2023,Detroit Tigers,a,66
+10/09/2023,Chicago White Sox,a,55
+10/09/2023,Houston Astros,a,82
+10/09/2023,San Diego Padres,a,67
+10/09/2023,Minnesota Twins,a,75
+10/09/2023,New York Mets,a,65
+10/09/2023,New York Yankees,a,71
+10/09/2023,Milwaukee Brewers,a,79
+10/09/2023,Philadelphia Phillies,a,78
+10/09/2023,Miami Marlins,a,74
+10/09/2023,San Francisco Giants,a,73
+10/09/2023,Colorado Rockies,a,51
+10/09/2023,Tampa Bay Rays,a,88
+10/09/2023,Seattle Mariners,a,79
+10/09/2023,Texas Rangers,a,78
+10/09/2023,Oakland Athletics,a,44
+10/09/2023,Toronto Blue Jays,a,80
+10/09/2023,Kansas City Royals,a,44
+10/09/2023,Washington Nationals,a,64
+10/09/2023,Los Angeles Dodgers,a,87
+11/09/2023,Baltimore Orioles,a,91
+11/09/2023,St. Louis Cardinals,a,63
+11/09/2023,Colorado Rockies,a,51
+11/09/2023,Chicago Cubs,a,78
+11/09/2023,Houston Astros,a,82
+11/09/2023,Oakland Athletics,a,45
+11/09/2023,Los Angeles Dodgers,a,87
+11/09/2023,San Diego Padres,a,68
+11/09/2023,Milwaukee Brewers,a,80
+11/09/2023,Miami Marlins,a,74
+11/09/2023,Minnesota Twins,a,75
+11/09/2023,Tampa Bay Rays,a,89
+11/09/2023,New York Mets,a,65
+11/09/2023,Arizona Diamondbacks,a,76
+11/09/2023,Philadelphia Phillies,a,78
+11/09/2023,Atlanta Braves,a,94
+11/09/2023,Philadelphia Phillies,a,79
+11/09/2023,Atlanta Braves,a,94
+11/09/2023,Pittsburgh Pirates,a,66
+11/09/2023,Washington Nationals,a,65
+11/09/2023,Seattle Mariners,a,79
+11/09/2023,Los Angeles Angels,a,68
+11/09/2023,San Francisco Giants,a,74
+11/09/2023,Cleveland Guardians,a,68
+11/09/2023,Toronto Blue Jays,a,80
+11/09/2023,Texas Rangers,a,79
+11/09/2023,Boston Red Sox,a,73
+11/09/2023,Cincinnati Reds,a,74
+11/09/2023,Chicago White Sox,a,55
+11/09/2023,Kansas City Royals,a,44
+11/09/2023,New York Yankees,a,71
+11/09/2023,Detroit Tigers,a,66
+12/09/2023,Baltimore Orioles,a,91
+12/09/2023,St. Louis Cardinals,a,64
+12/09/2023,Boston Red Sox,a,73
+12/09/2023,New York Yankees,a,72
+12/09/2023,Boston Red Sox,a,73
+12/09/2023,New York Yankees,a,73
+12/09/2023,Chicago White Sox,a,56
+12/09/2023,Kansas City Royals,a,44
+12/09/2023,Chicago White Sox,a,56
+12/09/2023,Kansas City Royals,a,45
+12/09/2023,Colorado Rockies,a,52
+12/09/2023,Chicago Cubs,a,78
+12/09/2023,Detroit Tigers,a,66
+12/09/2023,Cincinnati Reds,a,75
+12/09/2023,Houston Astros,a,82
+12/09/2023,Oakland Athletics,a,46
+12/09/2023,Los Angeles Dodgers,a,88
+12/09/2023,San Diego Padres,a,68
+12/09/2023,Milwaukee Brewers,a,81
+12/09/2023,Miami Marlins,a,74
+12/09/2023,Minnesota Twins,a,76
+12/09/2023,Tampa Bay Rays,a,89
+12/09/2023,New York Mets,a,66
+12/09/2023,Arizona Diamondbacks,a,76
+12/09/2023,Philadelphia Phillies,a,79
+12/09/2023,Atlanta Braves,a,95
+12/09/2023,Pittsburgh Pirates,a,67
+12/09/2023,Washington Nationals,a,65
+12/09/2023,Seattle Mariners,a,80
+12/09/2023,Los Angeles Angels,a,68
+12/09/2023,San Francisco Giants,a,74
+12/09/2023,Cleveland Guardians,a,69
+12/09/2023,Toronto Blue Jays,a,80
+12/09/2023,Texas Rangers,a,80
+13/09/2023,Baltimore Orioles,a,91
+13/09/2023,St. Louis Cardinals,a,65
+13/09/2023,Chicago White Sox,a,56
+13/09/2023,Kansas City Royals,a,46
+13/09/2023,Colorado Rockies,a,53
+13/09/2023,Chicago Cubs,a,78
+13/09/2023,Detroit Tigers,a,66
+13/09/2023,Cincinnati Reds,a,76
+13/09/2023,Houston Astros,a,83
+13/09/2023,Oakland Athletics,a,46
+13/09/2023,Los Angeles Dodgers,a,88
+13/09/2023,San Diego Padres,a,69
+13/09/2023,Milwaukee Brewers,a,81
+13/09/2023,Miami Marlins,a,75
+13/09/2023,Minnesota Twins,a,76
+13/09/2023,Tampa Bay Rays,a,90
+13/09/2023,New York Mets,a,67
+13/09/2023,Arizona Diamondbacks,a,76
+13/09/2023,Philadelphia Phillies,a,79
+13/09/2023,Atlanta Braves,a,96
+13/09/2023,Pittsburgh Pirates,a,68
+13/09/2023,Washington Nationals,a,65
+13/09/2023,Seattle Mariners,a,81
+13/09/2023,Los Angeles Angels,a,68
+13/09/2023,San Francisco Giants,a,75
+13/09/2023,Cleveland Guardians,a,69
+13/09/2023,Toronto Blue Jays,a,80
+13/09/2023,Texas Rangers,a,81
+13/09/2023,Boston Red Sox,a,73
+13/09/2023,New York Yankees,a,73
+14/09/2023,Baltimore Orioles,a,91
+14/09/2023,Tampa Bay Rays,a,91
+14/09/2023,Boston Red Sox,a,74
+14/09/2023,New York Yankees,a,73
+14/09/2023,Boston Red Sox,a,74
+14/09/2023,New York Yankees,a,74
+14/09/2023,Chicago White Sox,a,56
+14/09/2023,Minnesota Twins,a,77
+14/09/2023,Detroit Tigers,a,67
+14/09/2023,Cincinnati Reds,a,76
+14/09/2023,Milwaukee Brewers,a,82
+14/09/2023,Miami Marlins,a,75
+14/09/2023,New York Mets,a,68
+14/09/2023,Arizona Diamondbacks,a,76
+14/09/2023,Pittsburgh Pirates,a,69
+14/09/2023,Washington Nationals,a,65
+14/09/2023,Toronto Blue Jays,a,80
+14/09/2023,Texas Rangers,a,82
+14/09/2023,Chicago Cubs,a,78
+14/09/2023,Houston Astros,a,83
+14/09/2023,Kansas City Royals,a,46
+14/09/2023,Los Angeles Dodgers,a,88
+14/09/2023,San Francisco Giants,a,75
+14/09/2023,Oakland Athletics,a,46
+14/09/2023,Los Angeles Angels,a,68
+14/09/2023,San Diego Padres,a,69
+14/09/2023,Colorado Rockies,a,53
+14/09/2023,Seattle Mariners,a,81
+14/09/2023,Cleveland Guardians,a,69
+14/09/2023,St. Louis Cardinals,a,65
+14/09/2023,Philadelphia Phillies,a,79
+14/09/2023,Atlanta Braves,a,96
+15/09/2023,Los Angeles Angels,a,68
+15/09/2023,Detroit Tigers,a,68
+15/09/2023,Arizona Diamondbacks,a,77
+15/09/2023,Chicago Cubs,a,78
+15/09/2023,Baltimore Orioles,a,91
+15/09/2023,Tampa Bay Rays,a,92
+15/09/2023,Chicago White Sox,a,56
+15/09/2023,Minnesota Twins,a,78
+15/09/2023,Cleveland Guardians,a,70
+15/09/2023,Texas Rangers,a,82
+15/09/2023,Colorado Rockies,a,54
+15/09/2023,San Francisco Giants,a,75
+15/09/2023,Kansas City Royals,a,47
+15/09/2023,Houston Astros,a,83
+15/09/2023,Miami Marlins,a,76
+15/09/2023,Atlanta Braves,a,96
+15/09/2023,Milwaukee Brewers,a,83
+15/09/2023,Washington Nationals,a,65
+15/09/2023,New York Mets,a,68
+15/09/2023,Cincinnati Reds,a,77
+15/09/2023,Oakland Athletics,a,46
+15/09/2023,San Diego Padres,a,70
+15/09/2023,Pittsburgh Pirates,a,69
+15/09/2023,New York Yankees,a,75
+15/09/2023,Seattle Mariners,a,81
+15/09/2023,Los Angeles Dodgers,a,89
+15/09/2023,St. Louis Cardinals,a,65
+15/09/2023,Philadelphia Phillies,a,80
+15/09/2023,Toronto Blue Jays,a,81
+15/09/2023,Boston Red Sox,a,74
+16/09/2023,Los Angeles Angels,a,68
+16/09/2023,Detroit Tigers,a,69
+16/09/2023,Arizona Diamondbacks,a,78
+16/09/2023,Chicago Cubs,a,78
+16/09/2023,Baltimore Orioles,a,92
+16/09/2023,Tampa Bay Rays,a,92
+16/09/2023,Chicago White Sox,a,57
+16/09/2023,Minnesota Twins,a,78
+16/09/2023,Cleveland Guardians,a,71
+16/09/2023,Texas Rangers,a,82
+16/09/2023,Colorado Rockies,a,55
+16/09/2023,San Francisco Giants,a,75
+16/09/2023,Colorado Rockies,a,56
+16/09/2023,San Francisco Giants,a,75
+16/09/2023,Kansas City Royals,a,48
+16/09/2023,Houston Astros,a,83
+16/09/2023,Miami Marlins,a,77
+16/09/2023,Atlanta Braves,a,96
+16/09/2023,Milwaukee Brewers,a,84
+16/09/2023,Washington Nationals,a,65
+16/09/2023,New York Mets,a,68
+16/09/2023,Cincinnati Reds,a,78
+16/09/2023,Oakland Athletics,a,46
+16/09/2023,San Diego Padres,a,71
+16/09/2023,Pittsburgh Pirates,a,69
+16/09/2023,New York Yankees,a,76
+16/09/2023,Seattle Mariners,a,81
+16/09/2023,Los Angeles Dodgers,a,90
+16/09/2023,St. Louis Cardinals,a,65
+16/09/2023,Philadelphia Phillies,a,81
+16/09/2023,Toronto Blue Jays,a,82
+16/09/2023,Boston Red Sox,a,74
+17/09/2023,Los Angeles Angels,a,68
+17/09/2023,Detroit Tigers,a,70
+17/09/2023,Arizona Diamondbacks,a,79
+17/09/2023,Chicago Cubs,a,78
+17/09/2023,Baltimore Orioles,a,93
+17/09/2023,Tampa Bay Rays,a,92
+17/09/2023,Chicago White Sox,a,57
+17/09/2023,Minnesota Twins,a,79
+17/09/2023,Cleveland Guardians,a,72
+17/09/2023,Texas Rangers,a,82
+17/09/2023,Colorado Rockies,a,56
+17/09/2023,San Francisco Giants,a,76
+17/09/2023,Kansas City Royals,a,48
+17/09/2023,Houston Astros,a,84
+17/09/2023,Miami Marlins,a,78
+17/09/2023,Atlanta Braves,a,96
+17/09/2023,Milwaukee Brewers,a,84
+17/09/2023,Washington Nationals,a,66
+17/09/2023,New York Mets,a,69
+17/09/2023,Cincinnati Reds,a,78
+17/09/2023,Oakland Athletics,a,46
+17/09/2023,San Diego Padres,a,72
+17/09/2023,Pittsburgh Pirates,a,70
+17/09/2023,New York Yankees,a,76
+17/09/2023,Seattle Mariners,a,81
+17/09/2023,Los Angeles Dodgers,a,91
+17/09/2023,St. Louis Cardinals,a,66
+17/09/2023,Philadelphia Phillies,a,81
+17/09/2023,Toronto Blue Jays,a,83
+17/09/2023,Boston Red Sox,a,74
+18/09/2023,Atlanta Braves,a,96
+18/09/2023,Philadelphia Phillies,a,82
+18/09/2023,Cincinnati Reds,a,79
+18/09/2023,Minnesota Twins,a,79
+18/09/2023,Houston Astros,a,84
+18/09/2023,Baltimore Orioles,a,94
+18/09/2023,Kansas City Royals,a,49
+18/09/2023,Cleveland Guardians,a,72
+18/09/2023,Los Angeles Dodgers,a,92
+18/09/2023,Detroit Tigers,a,70
+18/09/2023,Miami Marlins,a,78
+18/09/2023,New York Mets,a,70
+18/09/2023,Oakland Athletics,a,46
+18/09/2023,Seattle Mariners,a,82
+18/09/2023,San Diego Padres,a,73
+18/09/2023,Colorado Rockies,a,56
+18/09/2023,St. Louis Cardinals,a,67
+18/09/2023,Milwaukee Brewers,a,84
+18/09/2023,Texas Rangers,a,82
+18/09/2023,Boston Red Sox,a,75
+18/09/2023,Washington Nationals,a,66
+18/09/2023,Chicago White Sox,a,58
+18/09/2023,Chicago Cubs,a,78
+18/09/2023,Pittsburgh Pirates,a,70
+18/09/2023,Arizona Diamondbacks,a,79
+18/09/2023,New York Yankees,a,76
+18/09/2023,San Francisco Giants,a,76
+18/09/2023,Los Angeles Angels,a,68
+18/09/2023,Toronto Blue Jays,a,83
+18/09/2023,Tampa Bay Rays,a,92
+19/09/2023,Arizona Diamondbacks,a,80
+19/09/2023,San Francisco Giants,a,76
+19/09/2023,Atlanta Braves,a,97
+19/09/2023,Philadelphia Phillies,a,82
+19/09/2023,Chicago Cubs,a,79
+19/09/2023,Pittsburgh Pirates,a,70
+19/09/2023,Cincinnati Reds,a,79
+19/09/2023,Minnesota Twins,a,80
+19/09/2023,Houston Astros,a,84
+19/09/2023,Baltimore Orioles,a,95
+19/09/2023,Kansas City Royals,a,50
+19/09/2023,Cleveland Guardians,a,72
+19/09/2023,Los Angeles Dodgers,a,93
+19/09/2023,Detroit Tigers,a,70
+19/09/2023,Miami Marlins,a,79
+19/09/2023,New York Mets,a,70
+19/09/2023,New York Yankees,a,76
+19/09/2023,Toronto Blue Jays,a,84
+19/09/2023,Oakland Athletics,a,46
+19/09/2023,Seattle Mariners,a,83
+19/09/2023,San Diego Padres,a,74
+19/09/2023,Colorado Rockies,a,56
+19/09/2023,St. Louis Cardinals,a,67
+19/09/2023,Milwaukee Brewers,a,85
+19/09/2023,Tampa Bay Rays,a,93
+19/09/2023,Los Angeles Angels,a,68
+19/09/2023,Texas Rangers,a,83
+19/09/2023,Boston Red Sox,a,75
+19/09/2023,Washington Nationals,a,67
+19/09/2023,Chicago White Sox,a,58
+20/09/2023,Arizona Diamondbacks,a,81
+20/09/2023,San Francisco Giants,a,76
+20/09/2023,Atlanta Braves,a,97
+20/09/2023,Philadelphia Phillies,a,83
+20/09/2023,Chicago Cubs,a,79
+20/09/2023,Pittsburgh Pirates,a,71
+20/09/2023,Cincinnati Reds,a,79
+20/09/2023,Minnesota Twins,a,81
+20/09/2023,Houston Astros,a,85
+20/09/2023,Baltimore Orioles,a,95
+20/09/2023,Kansas City Royals,a,51
+20/09/2023,Cleveland Guardians,a,72
+20/09/2023,Los Angeles Dodgers,a,93
+20/09/2023,Detroit Tigers,a,71
+20/09/2023,Miami Marlins,a,79
+20/09/2023,New York Mets,a,71
+20/09/2023,New York Yankees,a,76
+20/09/2023,Toronto Blue Jays,a,85
+20/09/2023,Oakland Athletics,a,46
+20/09/2023,Seattle Mariners,a,84
+20/09/2023,San Diego Padres,a,75
+20/09/2023,Colorado Rockies,a,56
+20/09/2023,St. Louis Cardinals,a,67
+20/09/2023,Milwaukee Brewers,a,86
+20/09/2023,Tampa Bay Rays,a,93
+20/09/2023,Los Angeles Angels,a,69
+20/09/2023,Texas Rangers,a,84
+20/09/2023,Boston Red Sox,a,75
+20/09/2023,Washington Nationals,a,68
+20/09/2023,Chicago White Sox,a,58
+21/09/2023,Chicago Cubs,a,79
+21/09/2023,Pittsburgh Pirates,a,72
+21/09/2023,Cleveland Guardians,a,73
+21/09/2023,Baltimore Orioles,a,95
+21/09/2023,Los Angeles Dodgers,a,94
+21/09/2023,San Francisco Giants,a,76
+21/09/2023,New York Yankees,a,77
+21/09/2023,Toronto Blue Jays,a,85
+21/09/2023,Oakland Athletics,a,46
+21/09/2023,Detroit Tigers,a,72
+21/09/2023,Philadelphia Phillies,a,84
+21/09/2023,New York Mets,a,71
+21/09/2023,St. Louis Cardinals,a,67
+21/09/2023,Milwaukee Brewers,a,87
+21/09/2023,Tampa Bay Rays,a,94
+21/09/2023,Los Angeles Angels,a,69
+21/09/2023,Washington Nationals,a,68
+21/09/2023,Atlanta Braves,a,98
+21/09/2023,Boston Red Sox,a,75
+21/09/2023,Cincinnati Reds,a,79
+21/09/2023,Houston Astros,a,85
+21/09/2023,Chicago White Sox,a,58
+21/09/2023,Kansas City Royals,a,51
+21/09/2023,Minnesota Twins,a,81
+21/09/2023,Arizona Diamondbacks,a,81
+21/09/2023,Miami Marlins,a,79
+21/09/2023,San Diego Padres,a,75
+21/09/2023,Colorado Rockies,a,56
+21/09/2023,Seattle Mariners,a,84
+21/09/2023,Texas Rangers,a,84
+22/09/2023,Boston Red Sox,a,76
+22/09/2023,Chicago White Sox,a,58
+22/09/2023,Chicago Cubs,a,80
+22/09/2023,Colorado Rockies,a,56
+22/09/2023,Cincinnati Reds,a,79
+22/09/2023,Pittsburgh Pirates,a,73
+22/09/2023,Cleveland Guardians,a,74
+22/09/2023,Baltimore Orioles,a,95
+22/09/2023,Houston Astros,a,85
+22/09/2023,Kansas City Royals,a,52
+22/09/2023,Los Angeles Dodgers,a,94
+22/09/2023,San Francisco Giants,a,77
+22/09/2023,Miami Marlins,a,79
+22/09/2023,Milwaukee Brewers,a,88
+22/09/2023,Minnesota Twins,a,82
+22/09/2023,Los Angeles Angels,a,69
+22/09/2023,New York Yankees,a,78
+22/09/2023,Arizona Diamondbacks,a,81
+22/09/2023,Oakland Athletics,a,47
+22/09/2023,Detroit Tigers,a,72
+22/09/2023,Philadelphia Phillies,a,85
+22/09/2023,New York Mets,a,71
+22/09/2023,San Diego Padres,a,76
+22/09/2023,St. Louis Cardinals,a,67
+22/09/2023,Tampa Bay Rays,a,94
+22/09/2023,Toronto Blue Jays,a,86
+22/09/2023,Texas Rangers,a,85
+22/09/2023,Seattle Mariners,a,84
+22/09/2023,Washington Nationals,a,68
+22/09/2023,Atlanta Braves,a,99
+23/09/2023,Boston Red Sox,a,76
+23/09/2023,Chicago White Sox,a,59
+23/09/2023,Chicago Cubs,a,81
+23/09/2023,Colorado Rockies,a,56
+23/09/2023,Cincinnati Reds,a,79
+23/09/2023,Pittsburgh Pirates,a,74
+23/09/2023,Cleveland Guardians,a,74
+23/09/2023,Baltimore Orioles,a,96
+23/09/2023,Houston Astros,a,85
+23/09/2023,Kansas City Royals,a,53
+23/09/2023,Los Angeles Dodgers,a,95
+23/09/2023,San Francisco Giants,a,77
+23/09/2023,Miami Marlins,a,80
+23/09/2023,Milwaukee Brewers,a,88
+23/09/2023,Minnesota Twins,a,82
+23/09/2023,Los Angeles Angels,a,70
+23/09/2023,Oakland Athletics,a,48
+23/09/2023,Detroit Tigers,a,72
+23/09/2023,Philadelphia Phillies,a,86
+23/09/2023,New York Mets,a,71
+23/09/2023,San Diego Padres,a,76
+23/09/2023,St. Louis Cardinals,a,68
+23/09/2023,Tampa Bay Rays,a,95
+23/09/2023,Toronto Blue Jays,a,86
+23/09/2023,Texas Rangers,a,86
+23/09/2023,Seattle Mariners,a,84
+23/09/2023,Arizona Diamondbacks,a,81
+23/09/2023,New York Yankees,a,78
+23/09/2023,Washington Nationals,a,68
+23/09/2023,Atlanta Braves,a,99
+24/09/2023,Boston Red Sox,a,76
+24/09/2023,Chicago White Sox,a,60
+24/09/2023,Chicago Cubs,a,82
+24/09/2023,Colorado Rockies,a,56
+24/09/2023,Cincinnati Reds,a,80
+24/09/2023,Pittsburgh Pirates,a,74
+24/09/2023,Cleveland Guardians,a,74
+24/09/2023,Baltimore Orioles,a,97
+24/09/2023,Houston Astros,a,85
+24/09/2023,Kansas City Royals,a,54
+24/09/2023,Los Angeles Dodgers,a,96
+24/09/2023,San Francisco Giants,a,77
+24/09/2023,Miami Marlins,a,81
+24/09/2023,Milwaukee Brewers,a,88
+24/09/2023,Minnesota Twins,a,83
+24/09/2023,Los Angeles Angels,a,70
+24/09/2023,New York Yankees,a,78
+24/09/2023,Arizona Diamondbacks,a,82
+24/09/2023,Oakland Athletics,a,48
+24/09/2023,Detroit Tigers,a,73
+24/09/2023,Philadelphia Phillies,a,87
+24/09/2023,New York Mets,a,71
+24/09/2023,San Diego Padres,a,77
+24/09/2023,St. Louis Cardinals,a,68
+24/09/2023,Tampa Bay Rays,a,95
+24/09/2023,Toronto Blue Jays,a,87
+24/09/2023,Texas Rangers,a,87
+24/09/2023,Seattle Mariners,a,84
+24/09/2023,Washington Nationals,a,69
+24/09/2023,Atlanta Braves,a,99
+24/09/2023,Washington Nationals,a,69
+24/09/2023,Atlanta Braves,a,100
+25/09/2023,Los Angeles Angels,a,70
+25/09/2023,Texas Rangers,a,88
+25/09/2023,New York Yankees,a,79
+25/09/2023,Arizona Diamondbacks,a,82
+25/09/2023,Seattle Mariners,a,84
+25/09/2023,Houston Astros,a,86
+25/09/2023,San Francisco Giants,a,78
+25/09/2023,San Diego Padres,a,77
+25/09/2023,Boston Red Sox,a,76
+25/09/2023,Baltimore Orioles,a,97
+25/09/2023,Chicago Cubs,a,82
+25/09/2023,Milwaukee Brewers,a,88
+25/09/2023,Cincinnati Reds,a,80
+25/09/2023,Pittsburgh Pirates,a,74
+25/09/2023,Chicago White Sox,a,60
+25/09/2023,Kansas City Royals,a,54
+25/09/2023,Minnesota Twins,a,83
+25/09/2023,Los Angeles Dodgers,a,96
+25/09/2023,Miami Marlins,a,81
+25/09/2023,New York Mets,a,71
+25/09/2023,Oakland Athletics,a,48
+25/09/2023,Colorado Rockies,a,56
+25/09/2023,Cleveland Guardians,a,74
+25/09/2023,St. Louis Cardinals,a,68
+25/09/2023,Toronto Blue Jays,a,87
+25/09/2023,Tampa Bay Rays,a,95
+25/09/2023,Detroit Tigers,a,73
+25/09/2023,Philadelphia Phillies,a,87
+25/09/2023,Washington Nationals,a,69
+25/09/2023,Atlanta Braves,a,100
+26/09/2023,Los Angeles Angels,a,71
+26/09/2023,Texas Rangers,a,88
+26/09/2023,Atlanta Braves,a,101
+26/09/2023,Chicago Cubs,a,82
+26/09/2023,Baltimore Orioles,a,98
+26/09/2023,Washington Nationals,a,69
+26/09/2023,Boston Red Sox,a,76
+26/09/2023,Tampa Bay Rays,a,96
+26/09/2023,Chicago White Sox,a,60
+26/09/2023,Arizona Diamondbacks,a,83
+26/09/2023,Cleveland Guardians,a,74
+26/09/2023,Cincinnati Reds,a,81
+26/09/2023,Colorado Rockies,a,57
+26/09/2023,Los Angeles Dodgers,a,96
+26/09/2023,Colorado Rockies,a,57
+26/09/2023,Los Angeles Dodgers,a,97
+26/09/2023,Detroit Tigers,a,74
+26/09/2023,Kansas City Royals,a,54
+26/09/2023,Milwaukee Brewers,a,88
+26/09/2023,St. Louis Cardinals,a,69
+26/09/2023,Minnesota Twins,a,84
+26/09/2023,Oakland Athletics,a,48
+26/09/2023,Philadelphia Phillies,a,88
+26/09/2023,Pittsburgh Pirates,a,74
+26/09/2023,Seattle Mariners,a,85
+26/09/2023,Houston Astros,a,86
+26/09/2023,San Francisco Giants,a,78
+26/09/2023,San Diego Padres,a,78
+26/09/2023,Toronto Blue Jays,a,87
+26/09/2023,New York Yankees,a,80
+26/09/2023,Miami Marlins,a,81
+26/09/2023,New York Mets,a,71
+27/09/2023,Los Angeles Angels,a,71
+27/09/2023,Texas Rangers,a,89
+27/09/2023,Atlanta Braves,a,102
+27/09/2023,Chicago Cubs,a,82
+27/09/2023,Baltimore Orioles,a,99
+27/09/2023,Washington Nationals,a,69
+27/09/2023,Boston Red Sox,a,76
+27/09/2023,Tampa Bay Rays,a,97
+27/09/2023,Chicago White Sox,a,60
+27/09/2023,Arizona Diamondbacks,a,84
+27/09/2023,Cleveland Guardians,a,75
+27/09/2023,Cincinnati Reds,a,81
+27/09/2023,Colorado Rockies,a,57
+27/09/2023,Los Angeles Dodgers,a,98
+27/09/2023,Detroit Tigers,a,75
+27/09/2023,Kansas City Royals,a,54
+27/09/2023,Milwaukee Brewers,a,89
+27/09/2023,St. Louis Cardinals,a,69
+27/09/2023,Minnesota Twins,a,85
+27/09/2023,Oakland Athletics,a,48
+27/09/2023,New York Mets,a,72
+27/09/2023,Miami Marlins,a,81
+27/09/2023,New York Mets,a,72
+27/09/2023,Miami Marlins,a,82
+27/09/2023,Philadelphia Phillies,a,89
+27/09/2023,Pittsburgh Pirates,a,74
+27/09/2023,Seattle Mariners,a,85
+27/09/2023,Houston Astros,a,87
+27/09/2023,San Francisco Giants,a,78
+27/09/2023,San Diego Padres,a,79
+27/09/2023,Toronto Blue Jays,a,87
+27/09/2023,New York Yankees,a,81
+28/09/2023,Atlanta Braves,a,103
+28/09/2023,Chicago Cubs,a,82
+28/09/2023,Baltimore Orioles,a,100
+28/09/2023,Boston Red Sox,a,76
+28/09/2023,Chicago White Sox,a,61
+28/09/2023,Arizona Diamondbacks,a,84
+28/09/2023,Colorado Rockies,a,58
+28/09/2023,Los Angeles Dodgers,a,98
+28/09/2023,Detroit Tigers,a,76
+28/09/2023,Kansas City Royals,a,54
+28/09/2023,Milwaukee Brewers,a,90
+28/09/2023,St. Louis Cardinals,a,69
+28/09/2023,Minnesota Twins,a,85
+28/09/2023,Oakland Athletics,a,49
+28/09/2023,New York Mets,a,73
+28/09/2023,Miami Marlins,a,82
+28/09/2023,Philadelphia Phillies,a,89
+28/09/2023,Pittsburgh Pirates,a,75
+28/09/2023,Seattle Mariners,a,86
+28/09/2023,Texas Rangers,a,89
+28/09/2023,Toronto Blue Jays,a,88
+28/09/2023,New York Yankees,a,81
+28/09/2023,Cincinnati Reds,a,81
+28/09/2023,Houston Astros,a,87
+28/09/2023,San Francisco Giants,a,78
+28/09/2023,Los Angeles Angels,a,71
+28/09/2023,San Diego Padres,a,79
+28/09/2023,Cleveland Guardians,a,75
+28/09/2023,Tampa Bay Rays,a,97
+28/09/2023,Washington Nationals,a,69
+29/09/2023,Los Angeles Angels,a,72
+29/09/2023,Oakland Athletics,a,49
+29/09/2023,Arizona Diamondbacks,a,84
+29/09/2023,Houston Astros,a,88
+29/09/2023,Atlanta Braves,a,103
+29/09/2023,Washington Nationals,a,70
+29/09/2023,Baltimore Orioles,a,100
+29/09/2023,Boston Red Sox,a,77
+29/09/2023,Chicago White Sox,a,61
+29/09/2023,San Diego Padres,a,80
+29/09/2023,Colorado Rockies,a,58
+29/09/2023,Minnesota Twins,a,86
+29/09/2023,Detroit Tigers,a,76
+29/09/2023,Cleveland Guardians,a,76
+29/09/2023,Kansas City Royals,a,55
+29/09/2023,New York Yankees,a,81
+29/09/2023,Milwaukee Brewers,a,91
+29/09/2023,Chicago Cubs,a,82
+29/09/2023,Pittsburgh Pirates,a,75
+29/09/2023,Miami Marlins,a,83
+29/09/2023,Seattle Mariners,a,87
+29/09/2023,Texas Rangers,a,89
+29/09/2023,San Francisco Giants,a,78
+29/09/2023,Los Angeles Dodgers,a,99
+29/09/2023,St. Louis Cardinals,a,69
+29/09/2023,Cincinnati Reds,a,82
+29/09/2023,Toronto Blue Jays,a,89
+29/09/2023,Tampa Bay Rays,a,97
+29/09/2023,New York Mets,a,73
+29/09/2023,Philadelphia Phillies,a,89
+30/09/2023,Los Angeles Angels,a,72
+30/09/2023,Oakland Athletics,a,50
+30/09/2023,Arizona Diamondbacks,a,84
+30/09/2023,Houston Astros,a,89
+30/09/2023,Atlanta Braves,a,104
+30/09/2023,Washington Nationals,a,70
+30/09/2023,Baltimore Orioles,a,101
+30/09/2023,Boston Red Sox,a,77
+30/09/2023,Chicago White Sox,a,61
+30/09/2023,San Diego Padres,a,81
+30/09/2023,Colorado Rockies,a,58
+30/09/2023,Minnesota Twins,a,87
+30/09/2023,Detroit Tigers,a,77
+30/09/2023,Cleveland Guardians,a,76
+30/09/2023,Kansas City Royals,a,55
+30/09/2023,New York Yankees,a,82
+30/09/2023,Milwaukee Brewers,a,91
+30/09/2023,Chicago Cubs,a,83
+30/09/2023,New York Mets,a,74
+30/09/2023,Philadelphia Phillies,a,89
+30/09/2023,New York Mets,a,75
+30/09/2023,Philadelphia Phillies,a,89
+30/09/2023,Pittsburgh Pirates,a,75
+30/09/2023,Miami Marlins,a,84
+30/09/2023,Seattle Mariners,a,87
+30/09/2023,Texas Rangers,a,90
+30/09/2023,San Francisco Giants,a,79
+30/09/2023,Los Angeles Dodgers,a,99
+30/09/2023,St. Louis Cardinals,a,70
+30/09/2023,Cincinnati Reds,a,82
+30/09/2023,Toronto Blue Jays,a,89
+30/09/2023,Tampa Bay Rays,a,98
+01/10/2023,Los Angeles Angels,a,73
+01/10/2023,Oakland Athletics,a,50
+01/10/2023,Arizona Diamondbacks,a,84
+01/10/2023,Houston Astros,a,90
+01/10/2023,Atlanta Braves,a,104
+01/10/2023,Washington Nationals,a,71
+01/10/2023,Baltimore Orioles,a,101
+01/10/2023,Boston Red Sox,a,78
+01/10/2023,Chicago White Sox,a,61
+01/10/2023,San Diego Padres,a,82
+01/10/2023,Colorado Rockies,a,59
+01/10/2023,Minnesota Twins,a,87
+01/10/2023,Detroit Tigers,a,78
+01/10/2023,Cleveland Guardians,a,76
+01/10/2023,Kansas City Royals,a,56
+01/10/2023,New York Yankees,a,82
+01/10/2023,Milwaukee Brewers,a,92
+01/10/2023,Chicago Cubs,a,83
+01/10/2023,New York Mets,a,75
+01/10/2023,Philadelphia Phillies,a,90
+01/10/2023,Pittsburgh Pirates,a,76
+01/10/2023,Miami Marlins,a,84
+01/10/2023,Seattle Mariners,a,88
+01/10/2023,Texas Rangers,a,90
+01/10/2023,San Francisco Giants,a,79
+01/10/2023,Los Angeles Dodgers,a,100
+01/10/2023,St. Louis Cardinals,a,71
+01/10/2023,Cincinnati Reds,a,82
+01/10/2023,Toronto Blue Jays,a,89
+01/10/2023,Tampa Bay Rays,a,99
