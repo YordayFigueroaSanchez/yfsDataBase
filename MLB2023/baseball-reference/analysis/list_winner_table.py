@@ -91,6 +91,18 @@ teams_check       = {
 # eliminar los repetidos de teams en dias como el 18/04
 # (OK) agregar los groups de la mlb 
 
+def remove_duplicates_with_min_value(data_csv):
+    duplicates = {}
+    for row in data_csv[1:]:
+        key = (row[0], row[1])
+        if key in duplicates:
+            if row[3] > duplicates[key][3]:
+                duplicates[key] = row
+        else:
+            duplicates[key] = row
+
+    return [data_csv[0]] + list(duplicates.values())
+
 date_current = '20230330'
 # {'Boston Red Sox': 0, 'Baltimore Orioles': 0, 'Chicago Cubs': 0, 'Milwaukee Brewers': 0, 'Cincinnati Reds': 0, 'Pittsburgh Pirates': 0, 'Houston Astros': 0, 'Chicago White Sox': 0, 'Kansas City Royals': 0, 'Minnesota Twins': 0, 'Los Angeles Dodgers': 0, 'Arizona Diamondbacks': 0, 'Miami Marlins': 0, 'New York Mets': 0, 'New York Yankees': 0, 'San Francisco Giants': 0, 'Oakland Athletics': 0, 'Los Angeles Angels': 0, 'San Diego Padres': 0, 'Colorado Rockies': 0, 'Seattle Mariners': 0, 'Cleveland Guardians': 0, 'St. Louis Cardinals': 0, 'Toronto Blue Jays': 0, 'Tampa Bay Rays': 0, 'Detroit Tigers': 0, 'Texas Rangers': 0, 'Philadelphia Phillies': 0, 'Washington Nationals': 0, 'Atlanta Braves': 0}
 # {'Boston Red Sox': {'wins': 0, 'group': 'a'}, 'Baltimore Orioles': {'wins': 0, 'group': 'a'}, 'Chicago Cubs': {'wins': 0, 'group': 'a'}, 'Milwaukee Brewers': {'wins': 0, 'group': 'a'}, 'Cincinnati Reds': {'wins': 0, 'group': 'a'}, 'Pittsburgh Pirates': {'wins': 0, 'group': 'a'}, 'Houston Astros': {'wins': 0, 'group': 'a'}, 'Chicago White Sox': {'wins': 0, 'group': 'a'}, 'Kansas City Royals': {'wins': 0, 'group': 'a'}, 'Minnesota Twins': {'wins': 0, 'group': 'a'}, 'Los Angeles Dodgers': {'wins': 0, 'group': 'a'}, 'Arizona Diamondbacks': {'wins': 0, 'group': 'a'}, 'Miami Marlins': {'wins': 0, 'group': 'a'}, 'New York Mets': {'wins': 0, 'group': 'a'}, 'New York Yankees': {'wins': 0, 'group': 'a'}, 'San Francisco Giants': {'wins': 0, 'group': 'a'}, 'Oakland Athletics': {'wins': 0, 'group': 'a'}, 'Los Angeles Angels': {'wins': 0, 'group': 'a'}, 'San Diego Padres': {'wins': 0, 'group': 'a'}, 'Colorado Rockies': {'wins': 0, 'group': 'a'}, 'Seattle Mariners': {'wins': 0, 'group': 'a'}, 'Cleveland Guardians': {'wins': 0, 'group': 'a'}, 'St. Louis Cardinals': {'wins': 0, 'group': 'a'}, 'Toronto Blue Jays': {'wins': 0, 'group': 'a'}, 'Tampa Bay Rays': {'wins': 0, 'group': 'a'}, 'Detroit Tigers': {'wins': 0, 'group': 'a'}, 'Texas Rangers': {'wins': 0, 'group': 'a'}, 'Philadelphia Phillies': {'wins': 0, 'group': 'a'}, 'Washington Nationals': {'wins': 0, 'group': 'a'}, 'Atlanta Braves': {'wins': 0, 'group': 'a'}}
@@ -140,14 +152,16 @@ for archivo in archivos_json:
 
     data_csv.append([game_date, home_team_name, teams[home_team_name]['group'], str(teams[home_team_name]['wins'])])
     data_csv.append([game_date, away_team_name, teams[away_team_name]['group'], str(teams[away_team_name]['wins'])])
-    
+
+# Eliminar duplicados con el menor valor de 'value'
+data_csv_without_duplicates = remove_duplicates_with_min_value(data_csv)    
 
 # Abre el archivo CSV en modo escritura
 with open(ruta_csv, mode='w', newline='', encoding="utf-8") as archivo_csv:
     escritor_csv = csv.writer(archivo_csv, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
     # Escribe los datos en el archivo CSV
-    for fila in data_csv:
+    for fila in data_csv_without_duplicates:
         escritor_csv.writerow(fila)
 
 # Crear un DataFrame desde los datos CSV originales
