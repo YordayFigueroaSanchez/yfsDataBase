@@ -120,8 +120,8 @@ for archivo in archivos_json:
             if info == 0 :
                 print(f"Equipo: {team}, faltante")
                 data_csv.append([datetime.strptime(date_current, '%Y%m%d').strftime('%d/%m/%Y'), team, teams[team]['group'], str(teams[team]['wins'])])
+            # limpiar el registro de teams para procesar la proxima fecha
             teams_check[team] = 0
-        # limpiar el registro de teams para procesar la proxima fecha
         # actualizar la date_current
         date_current = datos["date"]
 
