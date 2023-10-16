@@ -22,36 +22,36 @@ data_name   = []
 data_hr     = []
 table       = {}
 teams       = {
-    'Boston Red Sox'            : {'wins': 0, 'group': 'a'}, 
-    'Baltimore Orioles'         : {'wins': 0, 'group': 'a'}, 
-    'Chicago Cubs'              : {'wins': 0, 'group': 'a'}, 
-    'Milwaukee Brewers'         : {'wins': 0, 'group': 'a'}, 
-    'Cincinnati Reds'           : {'wins': 0, 'group': 'a'}, 
-    'Pittsburgh Pirates'        : {'wins': 0, 'group': 'a'}, 
-    'Houston Astros'            : {'wins': 0, 'group': 'a'}, 
-    'Chicago White Sox'         : {'wins': 0, 'group': 'a'}, 
-    'Kansas City Royals'        : {'wins': 0, 'group': 'a'}, 
-    'Minnesota Twins'           : {'wins': 0, 'group': 'a'}, 
-    'Los Angeles Dodgers'       : {'wins': 0, 'group': 'a'}, 
-    'Arizona Diamondbacks'      : {'wins': 0, 'group': 'a'}, 
-    'Miami Marlins'             : {'wins': 0, 'group': 'a'}, 
-    'New York Mets'             : {'wins': 0, 'group': 'a'}, 
-    'New York Yankees'          : {'wins': 0, 'group': 'a'}, 
-    'San Francisco Giants'      : {'wins': 0, 'group': 'a'}, 
-    'Oakland Athletics'         : {'wins': 0, 'group': 'a'}, 
-    'Los Angeles Angels'        : {'wins': 0, 'group': 'a'}, 
-    'San Diego Padres'          : {'wins': 0, 'group': 'a'}, 
-    'Colorado Rockies'          : {'wins': 0, 'group': 'a'}, 
-    'Seattle Mariners'          : {'wins': 0, 'group': 'a'}, 
-    'Cleveland Guardians'       : {'wins': 0, 'group': 'a'}, 
-    'St. Louis Cardinals'       : {'wins': 0, 'group': 'a'}, 
-    'Toronto Blue Jays'         : {'wins': 0, 'group': 'a'}, 
-    'Tampa Bay Rays'            : {'wins': 0, 'group': 'a'}, 
-    'Detroit Tigers'            : {'wins': 0, 'group': 'a'}, 
-    'Texas Rangers'             : {'wins': 0, 'group': 'a'}, 
-    'Philadelphia Phillies'     : {'wins': 0, 'group': 'a'}, 
-    'Washington Nationals'      : {'wins': 0, 'group': 'a'}, 
-    'Atlanta Braves'            : {'wins': 0, 'group': 'a'},
+    'Boston Red Sox'            : {'wins': 0, 'group': 'ALEast'}, 
+    'Baltimore Orioles'         : {'wins': 0, 'group': 'ALEast'}, 
+    'Chicago Cubs'              : {'wins': 0, 'group': 'NLCentral'}, 
+    'Milwaukee Brewers'         : {'wins': 0, 'group': 'NLCentral'}, 
+    'Cincinnati Reds'           : {'wins': 0, 'group': 'NLCentral'}, 
+    'Pittsburgh Pirates'        : {'wins': 0, 'group': 'NLCentral'}, 
+    'Houston Astros'            : {'wins': 0, 'group': 'ALEast'}, 
+    'Chicago White Sox'         : {'wins': 0, 'group': 'ALCentral'}, 
+    'Kansas City Royals'        : {'wins': 0, 'group': 'ALCentral'}, 
+    'Minnesota Twins'           : {'wins': 0, 'group': 'ALCentral'}, 
+    'Los Angeles Dodgers'       : {'wins': 0, 'group': 'NLWest'}, 
+    'Arizona Diamondbacks'      : {'wins': 0, 'group': 'NLWest'}, 
+    'Miami Marlins'             : {'wins': 0, 'group': 'NLEast'}, 
+    'New York Mets'             : {'wins': 0, 'group': 'NLEast'}, 
+    'New York Yankees'          : {'wins': 0, 'group': 'ALEast'}, 
+    'San Francisco Giants'      : {'wins': 0, 'group': 'NLWest'}, 
+    'Oakland Athletics'         : {'wins': 0, 'group': 'ALEast'}, 
+    'Los Angeles Angels'        : {'wins': 0, 'group': 'ALEast'}, 
+    'San Diego Padres'          : {'wins': 0, 'group': 'NLWest'}, 
+    'Colorado Rockies'          : {'wins': 0, 'group': 'NLWest'}, 
+    'Seattle Mariners'          : {'wins': 0, 'group': 'ALEast'}, 
+    'Cleveland Guardians'       : {'wins': 0, 'group': 'ALCentral'}, 
+    'St. Louis Cardinals'       : {'wins': 0, 'group': 'NLCentral'}, 
+    'Toronto Blue Jays'         : {'wins': 0, 'group': 'ALEast'}, 
+    'Tampa Bay Rays'            : {'wins': 0, 'group': 'ALEast'}, 
+    'Detroit Tigers'            : {'wins': 0, 'group': 'ALCentral'}, 
+    'Texas Rangers'             : {'wins': 0, 'group': 'ALEast'}, 
+    'Philadelphia Phillies'     : {'wins': 0, 'group': 'NLEast'}, 
+    'Washington Nationals'      : {'wins': 0, 'group': 'NLEast'}, 
+    'Atlanta Braves'            : {'wins': 0, 'group': 'NLEast'},
     }
 
 teams_check       = {
@@ -89,7 +89,7 @@ teams_check       = {
 
 # TODO
 # eliminar los repetidos de teams en dias como el 18/04
-# agregar los groups de la mlb
+# (OK) agregar los groups de la mlb 
 
 date_current = '20230330'
 # {'Boston Red Sox': 0, 'Baltimore Orioles': 0, 'Chicago Cubs': 0, 'Milwaukee Brewers': 0, 'Cincinnati Reds': 0, 'Pittsburgh Pirates': 0, 'Houston Astros': 0, 'Chicago White Sox': 0, 'Kansas City Royals': 0, 'Minnesota Twins': 0, 'Los Angeles Dodgers': 0, 'Arizona Diamondbacks': 0, 'Miami Marlins': 0, 'New York Mets': 0, 'New York Yankees': 0, 'San Francisco Giants': 0, 'Oakland Athletics': 0, 'Los Angeles Angels': 0, 'San Diego Padres': 0, 'Colorado Rockies': 0, 'Seattle Mariners': 0, 'Cleveland Guardians': 0, 'St. Louis Cardinals': 0, 'Toronto Blue Jays': 0, 'Tampa Bay Rays': 0, 'Detroit Tigers': 0, 'Texas Rangers': 0, 'Philadelphia Phillies': 0, 'Washington Nationals': 0, 'Atlanta Braves': 0}
