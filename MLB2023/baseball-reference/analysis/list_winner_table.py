@@ -119,7 +119,9 @@ for archivo in archivos_json:
             print(f"Equipo: {team}, Info: {info}")
             if info == 0 :
                 print(f"Equipo: {team}, faltante")
-                data_csv.append([datetime.strptime(date_current, '%Y%m%d').strftime('%d/%m/%Y'), team, teams[team]['group'], str(teams[team]['wins'])])
+                date_temp = datetime.strptime(date_current, '%Y%m%d').strftime('%d/%m/%Y')
+                data_csv.append([date_temp, team, teams[team]['group'], str(teams[team]['wins'])])
+                # table[date_current] = {team : str(teams[team]['wins'])}
             # limpiar el registro de teams para procesar la proxima fecha
             teams_check[team] = 0
         # actualizar la date_current
@@ -152,9 +154,12 @@ for archivo in archivos_json:
 
     data_csv.append([game_date, home_team_name, teams[home_team_name]['group'], str(teams[home_team_name]['wins'])])
     data_csv.append([game_date, away_team_name, teams[away_team_name]['group'], str(teams[away_team_name]['wins'])])
+    # table[datos["date"]] = {home_team_name : str(teams[home_team_name]['wins'])}
+    # table[datos["date"]] = {away_team_name : str(teams[away_team_name]['wins'])}
 
 # Eliminar duplicados con el menor valor de 'value'
-data_csv_without_duplicates = remove_duplicates_with_min_value(data_csv)    
+data_csv_without_duplicates = remove_duplicates_with_min_value(data_csv)
+print(data_csv_without_duplicates)    
 
 # Abre el archivo CSV en modo escritura
 with open(ruta_csv, mode='w', newline='', encoding="utf-8") as archivo_csv:
@@ -165,4 +170,38 @@ with open(ruta_csv, mode='w', newline='', encoding="utf-8") as archivo_csv:
         escritor_csv.writerow(fila)
 
 # print(teams)
+
+
+# eliminar una columna
+for lista in data_csv_without_duplicates:
+    lista.pop(2)
+# exchange data
+data_dict = {}
+for row in data_csv_without_duplicates[1:]:
+    date, name, value = row
+    if date not in data_dict:
+        data_dict[date] = {name : value}
+    else :
+        data_dict[date][name] = value
+
+ruta_csv = os.path.join(directorio_actual, directory_output + '_pivot.csv')
+data_names = set()
+for data_keys in data_dict.values():
+    data_names.update(data_keys.keys())
+
+# Abrir el archivo CSV en modo de escritura
+with open(ruta_csv, 'w', newline='', encoding="utf-8") as csvfile:
+    # Crear un objeto escritor CSV
+    csv_writer = csv.writer(csvfile)
+    
+    # Escribir la primera fila con los encabezados (nombre de bateadores)
+    encabezados = ['Fecha'] + list(data_names)
+    csv_writer.writerow(encabezados)
+    
+    # Iterar a través del diccionario y escribir los datos en el archivo CSV
+    for fecha, data_keys in data_dict.items():
+        fila = [fecha]
+        for bateador in data_names:
+            fila.append(data_keys.get(bateador, 0))
+        csv_writer.writerow(fila)
 
