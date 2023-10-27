@@ -1,0 +1,275 @@
+
+Scorebox Meta
+20231007
+6:20 p.m. Local
+51653
+Dodger Stadium
+184
+
+Boxscore
+https://cdn.ssref.net/req/202310271/tlogo/br/ARI-2023.png;/teams/ARI/2023.shtml;6;3;0;0;0;0;1;1;0;11;13;0
+https://cdn.ssref.net/req/202310271/tlogo/br/LAD-2023.png;/teams/LAD/2023.shtml;0;0;0;0;0;0;0;2;0;2;4;0
+
+Batting home
+Mookie Betts;/players/b/bettsmo01.shtml;2B-RF;3;1;0;0;1;1;4;.000;.250;.000;.250;19;12;-0.020; 0.20;0.000;-0.020;-0.20%; 3.06; -0.5;0;3;
+Freddie Freeman;/players/f/freemfr01.shtml;1B;2;1;0;0;2;0;4;.000;.500;.000;.500;17;7;-0.003; 0.15;0.007;-0.010;-0.03%; 2.35; 0.4;10;0;
+Will Smith;/players/s/smithwi05.shtml;C;4;0;2;2;0;0;4;.500;.500;1.000;1.500;12;10;-0.001; 0.14;0.007;-0.009;-0.02%; 2.19; 1.5;9;0;3B
+Max Muncy;/players/m/muncyma01.shtml;3B;4;0;0;0;0;1;4;.000;.000;.000;.000;21;13;-0.019; 0.17;0.000;-0.019;-0.18%; 2.62; -1.5;0;1;
+J.D. Martinez;/players/m/martijd02.shtml;DH;3;0;0;0;1;1;4;.000;.250;.000;.250;15;10;-0.007; 0.09;0.001;-0.008;-0.08%; 1.37; -0.5;;;
+Jason Heyward;/players/h/heywaja01.shtml;RF-CF;4;0;0;0;0;3;4;.000;.000;.000;.000;12;10;-0.006; 0.06;0.000;-0.006;-0.05%; 0.86; -1.0;3;0;
+David Peralta;/players/p/peralda01.shtml;LF;2;0;1;0;0;1;2;.500;.500;1.000;1.500;6;4;0.002; 0.04;0.003;-0.001; 0.02%; 0.62; 0.1;0;0;2B
+Chris Taylor;/players/t/tayloch03.shtml;PH-LF;2;0;0;0;0;1;2;.000;.000;.000;.000;8;6;-0.001; 0.01;0.000;-0.001;-0.01%; 0.23; -0.5;0;0;
+James Outman;/players/o/outmaja01.shtml;CF;2;0;0;0;0;0;2;.000;.000;.000;.000;5;4;-0.007; 0.14;0.000;-0.007;-0.08%; 2.19; -0.6;3;0;
+Enrique Hernández;/players/h/hernaen02.shtml;PH-CF-SS;2;0;0;0;0;0;2;.000;.000;.000;.000;5;2;0.000; 0.01;0.000;0.000;-0.01%; 0.08; -0.4;1;1;
+Miguel Rojas;/players/r/rojasmi02.shtml;SS;2;0;1;0;0;0;2;.500;.500;.500;1.000;9;5;0.005; 0.11;0.007;-0.002; 0.05%; 1.73; 0.2;1;1;
+Kolten Wong;/players/w/wongko01.shtml;PH-2B;1;0;0;0;0;0;1;.000;.000;.000;.000;3;1;0.000; 0.00;0.000;0.000;0%; 0.00; -0.3;0;1;
+Clayton Kershaw;/players/k/kershcl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Emmet Sheehan;/players/s/sheehem01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Shelby Miller;/players/m/millesh01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Michael Grove;/players/g/grovemi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Alex Vesia;/players/v/vesiaal01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Caleb Ferguson;/players/f/ferguca01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: David Peralta (1, off Merrill Kelly).
+
+
+3B: Will Smith (1, off Miguel Castro).
+
+
+TB: Will Smith 4; David Peralta 2; Miguel Rojas.
+
+
+RBI: Will Smith 2 (2).
+
+
+Team LOB: 6.
+With RISP: 1 for 6.
+
+Batting away
+Ketel Marte;/players/m/marteke01.shtml;2B;5;1;1;0;0;2;5;.231;.286;.538;.824;17;14;0.046; 0.25;0.057;-0.011; 0.45%; 3.98; -0.2;1;1;2B
+Corbin Carroll;/players/c/carroco02.shtml;RF;5;2;2;2;0;1;5;.500;.571;1.083;1.655;16;13;0.092; 0.29;0.094;-0.001; 0.91%; 4.51; 1.2;2;0;HR
+Tommy Pham;/players/p/phamth01.shtml;DH;5;3;4;1;0;0;5;.385;.429;.615;1.044;23;16;0.054; 0.29;0.054;0.000; 0.55%; 4.54; 1.9;;;HR
+Christian Walker;/players/w/walkech02.shtml;1B;3;2;1;1;1;1;5;.364;.500;.545;1.045;26;15;0.119; 0.37;0.119;0.000; 1.18%; 5.86; 2.0;9;2;2B,HBP
+Gabriel Moreno;/players/m/morenga01.shtml;C;5;1;2;3;0;2;5;.300;.364;.900;1.264;23;14;0.079; 0.27;0.089;-0.010; 0.79%; 4.17; 0.5;8;0;HR
+Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF;5;0;1;1;0;0;5;.154;.154;.231;.385;10;9;0.011; 0.14;0.021;-0.010; 0.11%; 2.16; 0.5;1;0;2B
+Alek Thomas;/players/t/thomaal01.shtml;CF;3;2;1;1;2;0;5;.182;.308;.727;1.035;33;21;0.010; 0.06;0.010;-0.001; 0.10%; 0.88; 1.1;2;0;HR
+Evan Longoria;/players/l/longoev01.shtml;3B;4;0;1;2;0;0;5;.167;.154;.250;.404;17;14;0.045; 0.14;0.046;-0.001; 0.45%; 2.22; 0.6;1;1;2B,SF
+Jace Peterson;/players/p/peterja01.shtml;3B;0;0;0;0;0;0;0;;;;;;;;;;;;;;0;0;
+Geraldo Perdomo;/players/p/perdoge01.shtml;SS;4;0;0;0;0;3;4;.125;.364;.125;.489;17;12;-0.013; 0.12;0.000;-0.013;-0.13%; 1.84; -1.3;1;3;
+Merrill Kelly;/players/k/kellyme01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Joe Mantiply;/players/m/mantijo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Miguel Castro;/players/c/castrmi01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Luis Frías;/players/f/friaslu01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Ketel Marte (1, off Clayton Kershaw); Christian Walker (2, off Clayton Kershaw); Evan Longoria (1, off Clayton Kershaw); Lourdes Gurriel Jr. (1, off Emmet Sheehan).
+
+
+HR: Gabriel Moreno (2, off Clayton Kershaw, 1st inn, 2 on, 0 outs to Deep LF); Corbin Carroll (2, off Emmet Sheehan, 2nd inn, 0 on, 0 outs to Deep RF); Alek Thomas (2, off Michael Grove, 7th inn, 0 on, 0 outs to Deep CF-RF); Tommy Pham (1, off Alex Vesia, 8th inn, 0 on, 1 out to Deep RF Line).
+
+
+SF: Evan Longoria (1, off Emmet Sheehan).
+
+
+HBP: Christian Walker (1, by Emmet Sheehan).
+
+
+TB: Tommy Pham 7; Gabriel Moreno 5; Corbin Carroll 5; Alek Thomas 4; Ketel Marte 2; Christian Walker 2; Lourdes Gurriel Jr. 2; Evan Longoria 2.
+
+
+RBI: Gabriel Moreno 3 (4); Corbin Carroll 2 (4); Evan Longoria 2 (2); Tommy Pham (1); Christian Walker (3); Alek Thomas (2); Lourdes Gurriel Jr. (2).
+
+
+Team LOB: 6.
+With RISP: 4 for 9.
+
+Pitching home
+Clayton Kershaw;/players/k/kershcl01.shtml; L (0-1); 0.1;6;6;6;1;0;1;162.00;8;35;25;20;4;1;2;5;3;0;14;;;-0.415; 0.86;-4.15%;13.55; -6.2
+Emmet Sheehan;/players/s/sheehem01.shtml;Emmet Sheehan; 3.2;4;3;3;2;4;1;7.36;18;71;48;25;8;15;4;7;3;0;;1;0;-0.029; 0.14;-0.28%; 2.16; -0.7
+Shelby Miller;/players/m/millesh01.shtml;Shelby Miller; 2 ;1;0;0;0;3;0;0.00;7;27;17;9;5;3;2;2;0;0;;0;0;0.002; 0.01; 0.03%; 0.22; 1.1
+Michael Grove;/players/g/grovemi01.shtml;Michael Grove; 1 ;1;1;1;0;1;1;9.00;4;25;21;17;0;4;1;2;1;0;;0;0;-0.001; 0.00;-0.01%; 0.04; -0.5
+Alex Vesia;/players/v/vesiaal01.shtml;Alex Vesia; 1 ;1;1;1;0;1;1;9.00;4;14;10;7;1;2;1;2;1;0;;0;0;0.000; 0.00; 0.00%; 0.00; -0.5
+Caleb Ferguson;/players/f/ferguca01.shtml;Caleb Ferguson; 1 ;0;0;0;0;0;0;0.00;3;10;7;4;0;3;3;0;0;0;;0;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+Pitching away
+Merrill Kelly;/players/k/kellyme01.shtml; W (1-0); 6.1;3;0;0;2;5;0;0.00;24;89;59;36;7;16;8;9;5;0;70;;;0.056; 0.15; 0.57%; 2.40; 3.2
+Joe Mantiply;/players/m/mantijo01.shtml;Joe Mantiply; 0.2;0;0;0;0;1;0;0.00;2;7;4;3;1;0;0;1;0;0;;1;0;0.001; 0.02; 0.02%; 0.32; 0.6
+Miguel Castro;/players/c/castrmi01.shtml;Miguel Castro; 1 ;1;2;2;2;1;0;10.80;6;27;14;10;2;2;2;1;1;0;;0;0;0.000; 0.01; 0.00%; 0.21; -1.5
+Luis Frías;/players/f/friaslu01.shtml;Luis Frías; 1 ;0;0;0;0;1;0;0.00;3;9;7;3;2;2;2;0;0;0;;0;0;0.000; 0.00; 0.00%; 0.05; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Emmet Sheehan (1; Christian Walker).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Emmet Sheehan (1; Christian Walker).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Vic Carapazza, 1B - Gabe Morales, 2B - Todd Tichenor, 3B - Will Little, LF - Jim Wolf, RF - Ryan Additon.
+Time of Game: 3:04.
+Attendance: 51,653.
+Field Condition: Unknown.
+Start Time Weather: 78° F, Wind 4mph out to Rightfield, Sunny, No Precipitation.
+
+div_lineups
+Diamondbacks
+1;Ketel Marte;/players/m/marteke01.shtml;2B
+2;Corbin Carroll;/players/c/carroco02.shtml;RF
+3;Tommy Pham;/players/p/phamth01.shtml;DH
+4;Christian Walker;/players/w/walkech02.shtml;1B
+5;Gabriel Moreno;/players/m/morenga01.shtml;C
+6;Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF
+7;Alek Thomas;/players/t/thomaal01.shtml;CF
+8;Evan Longoria;/players/l/longoev01.shtml;3B
+9;Geraldo Perdomo;/players/p/perdoge01.shtml;SS
+; Merrill Kelly;/players/k/kellyme01.shtml;P
+Dodgers
+1;Mookie Betts;/players/b/bettsmo01.shtml;2B
+2;Freddie Freeman;/players/f/freemfr01.shtml;1B
+3;Will Smith;/players/s/smithwi05.shtml;C
+4;Max Muncy;/players/m/muncyma01.shtml;3B
+5;J.D. Martinez;/players/m/martijd02.shtml;DH
+6;Jason Heyward;/players/h/heywaja01.shtml;RF
+7;David Peralta;/players/p/peralda01.shtml;LF
+8;James Outman;/players/o/outmaja01.shtml;CF
+9;Miguel Rojas;/players/r/rojasmi02.shtml;SS
+; Clayton Kershaw;/players/k/kershcl01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t1;1-0;0;12-;7,(2-2) S*BBSFFX;R;ARI;Christian Walker;Clayton Kershaw;11%;78%;Double to LF (Fly Ball to Deep LF Line); Carroll Scores; Pham to 3B
+t1;2-0;0;-23;7,(3-2) FC*BBF.*BX;RRR;ARI;Gabriel Moreno;Clayton Kershaw;9%;87%;Home Run (Fly Ball to Deep LF); Pham Scores; Walker Scores
+t1;0-0;0;-2-;2,(0-1) FX;R;ARI;Corbin Carroll;Clayton Kershaw;7%;62%;Single to CF (Ground Ball thru SS-2B); Marte Scores
+t1;0-0;0;---;2,(0-1) FX;;ARI;Ketel Marte;Clayton Kershaw;6%;56%;Double to CF (Line Drive to Deep CF)
+t1;1-0;0;1--;3,(0-2) SFX;;ARI;Tommy Pham;Clayton Kershaw;5%;67%;Single to LF (Line Drive to Short LF); Carroll to 2B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Diamondbacks Batting, Tied 0-0, Dodgers' Clayton Kershaw facing 1-2-3 
+t1;0-0;0;---;2,(0-1) FX;;ARI;Ketel Marte;Clayton Kershaw;6%;56%;Double to CF (Line Drive to Deep CF)
+t1;0-0;0;-2-;2,(0-1) FX;R;ARI;Corbin Carroll;Clayton Kershaw;7%;62%;Single to CF (Ground Ball thru SS-2B); Marte Scores
+t1;1-0;0;1--;3,(0-2) SFX;;ARI;Tommy Pham;Clayton Kershaw;5%;67%;Single to LF (Line Drive to Short LF); Carroll to 2B
+t1;1-0;0;12-;7,(2-2) S*BBSFFX;R;ARI;Christian Walker;Clayton Kershaw;11%;78%;Double to LF (Fly Ball to Deep LF Line); Carroll Scores; Pham to 3B
+t1;2-0;0;-23;7,(3-2) FC*BBF.*BX;RRR;ARI;Gabriel Moreno;Clayton Kershaw;9%;87%;Home Run (Fly Ball to Deep LF); Pham Scores; Walker Scores
+t1;5-0;0;---;5,(1-2) BFFF.X;O;ARI;Lourdes Gurriel Jr.;Clayton Kershaw;-1%;86%;Groundout: SS-1B (Deep SS)
+t1;5-0;1;---;8,(3-2) BBS.TFBF*B;;ARI;Alek Thomas;Clayton Kershaw;1%;87%;Walk
+t1;5-0;1;1--;1,(0-0) X;R;ARI;Evan Longoria;Clayton Kershaw;4%;92%;Double to CF (Line Drive to Deep CF); Thomas Scores
+;;;;;;;;;Emmet Sheehan replaces Clayton Kershaw pitching
+t1;6-0;1;-2-;4,(1-2) .CBCS;O;ARI;Geraldo Perdomo;Emmet Sheehan;-1%;91%;Strikeout Swinging
+t1;6-0;2;-2-;6,(3-2) SBFB*BX;O;ARI;Ketel Marte;Emmet Sheehan;-1%;90%;Groundout: 1B unassisted (Deep 1B)
+;;;;;;;;;6 runs, 6 hits, 0 errors, 1 LOB. Diamondbacks 6, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Behind 0-6, Diamondbacks' Merrill Kelly facing 1-2-3 
+b1;0-6;0;---;10,(3-2) BBCBFFFFFC;O;LAD;Mookie Betts;Merrill Kelly;1%;91%;Strikeout Looking
+b1;0-6;1;---;5,(1-2) BCFFX;O;LAD;Freddie Freeman;Merrill Kelly;1%;92%;Groundout: 1B-P (2B-1B)
+b1;0-6;2;---;6,(2-2) CBBC.FX;;LAD;Will Smith;Merrill Kelly;-1%;91%;Single to CF (Ground Ball thru SS-2B)
+b1;0-6;2;1--;1,(0-0) X;O;LAD;Max Muncy;Merrill Kelly;1%;92%;Lineout: 1B (Weak 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 6, Dodgers 0.
+Top of the 2nd, Diamondbacks Batting, Ahead 6-0, Dodgers' Emmet Sheehan facing 2-3-4 
+t2;6-0;0;---;2,(0-1) CX;R;ARI;Corbin Carroll;Emmet Sheehan;3%;95%;Home Run (Fly Ball to Deep RF)
+t2;7-0;0;---;8,(2-2) CCBFFFBX;;ARI;Tommy Pham;Emmet Sheehan;1%;95%;Single to RF (Ground Ball)
+t2;7-0;0;1--;5,(2-2) CSBBH;;ARI;Christian Walker;Emmet Sheehan;1%;96%;Hit By Pitch; Pham to 2B
+t2;7-0;0;12-;2,(0-1) CX;O;ARI;Gabriel Moreno;Emmet Sheehan;-1%;95%;Foul Popfly: RF (1B into Foul Terr.)
+t2;7-0;1;12-;1,(0-0) X;R;ARI;Lourdes Gurriel Jr.;Emmet Sheehan;2%;97%;Double to LF (Line Drive to Deep LF Line); Pham Scores; Walker to 3B
+t2;8-0;1;-23;4,(3-0) BBBB;;ARI;Alek Thomas;Emmet Sheehan;0%;97%;Walk
+t2;8-0;1;123;5,(0-2) CSFFX;RO;ARI;Evan Longoria;Emmet Sheehan;0%;98%;Flyball: RF/Sacrifice Fly (Deep RF); Walker Scores; Gurriel to 3B
+t2;9-0;2;1-3;5,(2-2) CFB*B>T;O;ARI;Geraldo Perdomo;Emmet Sheehan;0%;97%;Strikeout Swinging
+;;;;;;;;;3 runs, 3 hits, 0 errors, 2 LOB. Diamondbacks 9, Dodgers 0.
+Bottom of the 2nd, Dodgers Batting, Behind 0-9, Diamondbacks' Merrill Kelly facing 5-6-7 
+b2;0-9;0;---;4,(0-2) CFFS;O;LAD;J.D. Martinez;Merrill Kelly;0%;98%;Strikeout Swinging
+b2;0-9;1;---;1,(0-0) X;O;LAD;Jason Heyward;Merrill Kelly;0%;98%;Lineout: CF
+b2;0-9;2;---;3,(2-0) BBX;;LAD;David Peralta;Merrill Kelly;0%;98%;Double to CF (Line Drive to Deep CF)
+b2;0-9;2;-2-;3,(1-1) B2CX;O;LAD;James Outman;Merrill Kelly;0%;98%;Popfly: 3B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 9, Dodgers 0.
+Top of the 3rd, Diamondbacks Batting, Ahead 9-0, Dodgers' Emmet Sheehan facing 1-2-3 
+t3;9-0;0;---;4,(0-2) CF.FS;O;ARI;Ketel Marte;Emmet Sheehan;0%;98%;Strikeout Swinging
+t3;9-0;1;---;3,(0-2) SC.X;O;ARI;Corbin Carroll;Emmet Sheehan;0%;98%;Popfly: SS
+t3;9-0;2;---;3,(1-1) BCX;;ARI;Tommy Pham;Emmet Sheehan;0%;98%;Single to CF (Ground Ball thru SS-2B)
+t3;9-0;2;1--;8,(3-2) BFCBFB>F>B;;ARI;Christian Walker;Emmet Sheehan;0%;98%;Walk; Pham to 2B
+t3;9-0;2;12-;5,(2-2) CBBFS;O;ARI;Gabriel Moreno;Emmet Sheehan;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Diamondbacks 9, Dodgers 0.
+Bottom of the 3rd, Dodgers Batting, Behind 0-9, Diamondbacks' Merrill Kelly facing 9-1-2 
+b3;0-9;0;---;5,(2-2) CBBFX;;LAD;Miguel Rojas;Merrill Kelly;-1%;97%;Single to 2B (Ground Ball)
+b3;0-9;0;1--;1,(0-0) X;O;LAD;Mookie Betts;Merrill Kelly;1%;98%;Flyball: SS (Deep SS-2B)
+b3;0-9;1;1--;4,(3-0) BBBB;;LAD;Freddie Freeman;Merrill Kelly;-1%;97%;Walk; Rojas to 2B
+b3;0-9;1;12-;2,(0-1) CX;O;LAD;Will Smith;Merrill Kelly;1%;98%;Flyball: RF (Deep RF); Rojas to 3B
+b3;0-9;2;1-3;5,(3-1) BBTBX;O;LAD;Max Muncy;Merrill Kelly;1%;99%;Groundout: 1B unassisted (Weak 2B-1B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Diamondbacks 9, Dodgers 0.
+Top of the 4th, Diamondbacks Batting, Ahead 9-0, Dodgers' Emmet Sheehan facing 6-7-8 
+t4;9-0;0;---;2,(0-1) C.X;O;ARI;Lourdes Gurriel Jr.;Emmet Sheehan;0%;99%;Groundout: 2B-1B (Deep SS-2B)
+t4;9-0;1;---;3,(1-1) S.BX;O;ARI;Alek Thomas;Emmet Sheehan;0%;99%;Lineout: RF
+t4;9-0;2;---;1,(0-0) X;O;ARI;Evan Longoria;Emmet Sheehan;0%;99%;Lineout: P-1B (P's Left)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 9, Dodgers 0.
+Bottom of the 4th, Dodgers Batting, Behind 0-9, Diamondbacks' Merrill Kelly facing 5-6-7 
+b4;0-9;0;---;4,(0-2) SFFX;O;LAD;J.D. Martinez;Merrill Kelly;0%;99%;Groundout: 3B-1B (SS-3B Hole)
+b4;0-9;1;---;5,(2-2) CBSBS;O;LAD;Jason Heyward;Merrill Kelly;0%;99%;Strikeout Swinging
+b4;0-9;2;---;3,(0-2) CF.C;O;LAD;David Peralta;Merrill Kelly;0%;99%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 9, Dodgers 0.
+Top of the 5th, Diamondbacks Batting, Ahead 9-0, Dodgers' Shelby Miller facing 9-1-2 
+;;;;;;;;;Shelby Miller replaces Emmet Sheehan pitching
+t5;9-0;0;---;5,(1-2) .TF.FBC;O;ARI;Geraldo Perdomo;Shelby Miller;0%;99%;Strikeout Looking
+t5;9-0;1;---;2,(0-1) SX;O;ARI;Ketel Marte;Shelby Miller;0%;99%;Groundout: 2B-1B
+t5;9-0;2;---;4,(1-2) BFCS;O;ARI;Corbin Carroll;Shelby Miller;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 9, Dodgers 0.
+Bottom of the 5th, Dodgers Batting, Behind 0-9, Diamondbacks' Merrill Kelly facing 8-9-1 
+b5;0-9;0;---;2,(0-1) FX;O;LAD;James Outman;Merrill Kelly;0%;99%;Groundout: 2B-1B
+b5;0-9;1;---;4,(2-1) BSBX;O;LAD;Miguel Rojas;Merrill Kelly;0%;99%;Lineout: CF (Deep CF)
+b5;0-9;2;---;2,(0-1) CX;O;LAD;Mookie Betts;Merrill Kelly;0%;100%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 9, Dodgers 0.
+Top of the 6th, Diamondbacks Batting, Ahead 9-0, Dodgers' Shelby Miller facing 3-4-5 
+t6;9-0;0;---;5,(3-1) SBBBX;O;ARI;Tommy Pham;Shelby Miller;0%;99%;Flyball: CF (Deep CF)
+t6;9-0;1;---;5,(2-2) SBT.BS;O;ARI;Christian Walker;Shelby Miller;0%;99%;Strikeout Swinging
+t6;9-0;2;---;5,(3-1) BCBBX;;ARI;Gabriel Moreno;Shelby Miller;0%;99%;Single to 3B (Ground Ball)
+t6;9-0;2;1--;1,(0-0) X;O;ARI;Lourdes Gurriel Jr.;Shelby Miller;0%;99%;Flyball: CF (Short CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 9, Dodgers 0.
+Bottom of the 6th, Dodgers Batting, Behind 0-9, Diamondbacks' Merrill Kelly facing 2-3-4 
+b6;0-9;0;---;3,(1-1) CBX;O;LAD;Freddie Freeman;Merrill Kelly;0%;100%;Lineout: 2B (Deep 2B)
+b6;0-9;1;---;3,(0-2) CFX;O;LAD;Will Smith;Merrill Kelly;0%;100%;Groundout: SS-1B (Front of Home)
+b6;0-9;2;---;6,(3-2) SBFBBX;O;LAD;Max Muncy;Merrill Kelly;0%;100%;Groundout: 1B unassisted (Front of Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 9, Dodgers 0.
+Top of the 7th, Diamondbacks Batting, Ahead 9-0, Dodgers' Michael Grove facing 7-8-9 
+;;;;;;;;;Michael Grove replaces Shelby Miller pitching
+t7;9-0;0;---;14,(2-2) .FBFFFFFFF.FFFBX;R;ARI;Alek Thomas;Michael Grove;0%;100%;Home Run (Fly Ball to Deep CF-RF)
+t7;10-0;0;---;5,(1-2) CCF.BX;O;ARI;Evan Longoria;Michael Grove;0%;100%;Lineout: CF (Deep CF-RF)
+t7;10-0;1;---;3,(2-1) VCBX;O;ARI;Geraldo Perdomo;Michael Grove;0%;100%;Groundout: 2B-1B (2B-1B)
+t7;10-0;2;---;3,(0-2) FFC;O;ARI;Ketel Marte;Michael Grove;0%;100%;Strikeout Looking
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Diamondbacks 10, Dodgers 0.
+Bottom of the 7th, Dodgers Batting, Behind 0-10, Diamondbacks' Merrill Kelly facing 5-6-7 
+b7;0-10;0;---;4,(3-0) BBBB;;LAD;J.D. Martinez;Merrill Kelly;0%;100%;Walk
+b7;0-10;0;1--;3,(0-2) CFS;O;LAD;Jason Heyward;Merrill Kelly;0%;100%;Strikeout Swinging
+;;;;;;;;;Joe Mantiply replaces Merrill Kelly pitchingChris Taylor pinch hits for David Peralta (LF) batting 7th
+b7;0-10;1;1--;4,(1-2) ..FBTS;O;LAD;Chris Taylor;Joe Mantiply;0%;100%;Strikeout Swinging
+;;;;;;;;;Enrique Hernández pinch hits for James Outman (CF) batting 8th
+b7;0-10;2;1--;3,(2-0) .BBX;O;LAD;Enrique Hernández;Joe Mantiply;0%;100%;Flyball: LF (Deep LF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Diamondbacks 10, Dodgers 0.
+Top of the 8th, Diamondbacks Batting, Ahead 10-0, Dodgers' Alex Vesia facing 2-3-4 
+;;;;;;;;;Alex Vesia replaces Michael Grove pitchingChris Taylor moves from PH to LF Enrique Hernández moves from PH to CF 
+t8;10-0;0;---;5,(2-2) ...BCFBX;O;ARI;Corbin Carroll;Alex Vesia;0%;100%;Lineout: CF (Deep CF)
+t8;10-0;1;---;4,(1-2) FBFX;R;ARI;Tommy Pham;Alex Vesia;0%;100%;Home Run (Fly Ball to Deep RF Line)
+t8;11-0;1;---;1,(0-0) X;O;ARI;Christian Walker;Alex Vesia;0%;100%;Groundout: P-1B (Short 3B Line)
+t8;11-0;2;---;4,(1-2) CS.BT;O;ARI;Gabriel Moreno;Alex Vesia;0%;100%;Strikeout Swinging
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Diamondbacks 11, Dodgers 0.
+Bottom of the 8th, Dodgers Batting, Behind 0-11, Diamondbacks' Miguel Castro facing 9-1-2 
+;;;;;;;;;Miguel Castro replaces Joe Mantiply pitchingKolten Wong pinch hits for Miguel Rojas (SS) batting 9th
+b8;0-11;0;---;3,(2-0) ..BBX;O;LAD;Kolten Wong;Miguel Castro;0%;100%;Groundout: 1B unassisted
+b8;0-11;1;---;6,(3-2) BCBFBB;;LAD;Mookie Betts;Miguel Castro;0%;100%;Walk
+b8;0-11;1;1--;5,(3-1) SBBBB;;LAD;Freddie Freeman;Miguel Castro;0%;100%;Walk; Betts to 2B
+b8;0-11;1;12-;1,(0-0) X;RR;LAD;Will Smith;Miguel Castro;0%;100%;Triple to RF (Line Drive to RF Line); Betts Scores; Freeman Scores
+b8;2-11;1;--3;9,(2-2) CBFFFFFBS;O;LAD;Max Muncy;Miguel Castro;0%;100%;Strikeout Swinging
+b8;2-11;2;--3;3,(1-1) BFX;O;LAD;J.D. Martinez;Miguel Castro;0%;100%;Groundout: SS-1B (SS-3B Hole)
+;;;;;;;;;2 runs, 1 hit, 0 errors, 1 LOB. Diamondbacks 11, Dodgers 2.
+Top of the 9th, Diamondbacks Batting, Ahead 11-2, Dodgers' Caleb Ferguson facing 6-7-8 
+;;;;;;;;;Caleb Ferguson replaces Alex Vesia pitchingKolten Wong moves from PH to 2B Enrique Hernández moves from CF to SS Jason Heyward moves from RF to CF Mookie Betts moves from 2B to RF 
+t9;11-2;0;---;1,(0-0) .....X;O;ARI;Lourdes Gurriel Jr.;Caleb Ferguson;0%;100%;Groundout: 3B-1B (SS-3B Hole)
+t9;11-2;1;---;4,(1-2) CBCX;O;ARI;Alek Thomas;Caleb Ferguson;0%;100%;Groundout: 2B-1B (2B-1B)
+t9;11-2;2;---;5,(2-2) BCBFX;O;ARI;Evan Longoria;Caleb Ferguson;0%;100%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 11, Dodgers 2.
+Bottom of the 9th, Dodgers Batting, Behind 2-11, Diamondbacks' Luis Frías facing 6-7-8 
+;;;;;;;;;Luis Frías replaces Miguel Castro pitchingJace Peterson replaces Evan Longoria playing 3B batting 8th
+b9;2-11;0;---;3,(0-2) ..SFS;O;LAD;Jason Heyward;Luis Frías;0%;100%;Strikeout Swinging
+b9;2-11;1;---;4,(1-2) CBCX;O;LAD;Chris Taylor;Luis Frías;0%;100%;Groundout: SS-1B
+b9;2-11;2;---;2,(1-0) BX;O;LAD;Enrique Hernández;Luis Frías;0%;100%;Groundout: 1B-P (2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Diamondbacks 11, Dodgers 2.

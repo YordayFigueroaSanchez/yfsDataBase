@@ -1,0 +1,277 @@
+
+Scorebox Meta
+20231018
+7:03 p.m. Local
+42368
+Globe Life Field
+185
+
+Boxscore
+https://cdn.ssref.net/req/202310271/tlogo/br/HOU-2023.png;/teams/HOU/2023.shtml;0;3;1;1;0;0;2;1;0;8;12;0
+https://cdn.ssref.net/req/202310271/tlogo/br/TEX-2023.png;/teams/TEX/2023.shtml;0;0;0;0;2;0;2;1;0;5;6;0
+
+Batting home
+Marcus Semien;/players/s/semiema01.shtml;2B;3;1;0;0;1;0;4;.171;.237;.229;.465;15;6;-0.039; 0.81;0.030;-0.069;-0.47%;16.82; -0.3;3;2;
+Corey Seager;/players/s/seageco01.shtml;SS;4;0;0;0;0;0;4;.333;.526;.556;1.082;11;7;-0.079; 0.79;0.000;-0.079;-1.01%;16.51; -1.0;1;3;
+Evan Carter;/players/c/carteev01.shtml;LF;4;0;1;0;0;2;4;.333;.500;.667;1.167;22;15;-0.016; 0.50;0.023;-0.039;-0.20%;10.47; -0.3;1;1;2B
+Adolis García;/players/g/garciad02.shtml;RF;4;0;1;1;0;0;4;.257;.278;.457;.735;13;10;-0.034; 0.69;0.029;-0.062;-0.45%;14.27; 0.2;3;1;
+Jonah Heim;/players/h/heimjo01.shtml;C;4;0;0;0;0;0;4;.219;.265;.313;.577;13;7;-0.065; 0.60;0.000;-0.065;-0.85%;12.55; -0.9;6;1;
+Mitch Garver;/players/g/garvemi01.shtml;DH;3;0;0;0;1;1;4;.238;.273;.429;.701;18;10;0.022; 0.49;0.049;-0.026; 0.28%;10.26; -0.1;;;
+Travis Jankowski;/players/j/jankotr01.shtml;PR-DH;0;0;0;0;0;0;0;;;;;;;;;;;;;;;;
+Nathaniel Lowe;/players/l/lowena01.shtml;1B;4;2;2;0;0;1;4;.206;.229;.294;.523;14;10;-0.053; 0.75;0.013;-0.065;-0.69%;15.62; -0.4;4;0;
+Josh Jung;/players/j/jungjo01.shtml;3B;4;2;2;4;0;1;4;.355;.364;.806;1.170;17;12;0.086; 0.62;0.147;-0.061; 1.13%;12.97; 3.0;2;0;2·HR,GDP
+Leody Taveras;/players/t/taverle01.shtml;CF;2;0;0;0;1;0;3;.320;.469;.560;1.029;11;5;-0.011; 0.38;0.011;-0.021;-0.14%; 7.85; -0.1;7;0;
+Max Scherzer;/players/s/scherma01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Cody Bradford;/players/b/bradfco01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Chris Stratton;/players/s/stratch01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Will Smith;/players/s/smithwi04.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Jon Gray;/players/g/grayjo02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Martín Pérez;/players/p/perezma02.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Evan Carter (5, off Cristian Javier).
+
+
+HR: Josh Jung 2 (3, 1 off Hector Neris, 7th inn, 1 on, 2 outs to Deep CF, 1 off Cristian Javier, 5th inn, 1 on, 2 outs to Deep CF-RF).
+
+
+TB: Josh Jung 8; Evan Carter 2; Nathaniel Lowe 2; Adolis García.
+
+
+GIDP: Josh Jung (1).
+
+
+RBI: Josh Jung 4 (7); Adolis García (7).
+
+
+2-out RBI: Josh Jung 4; Adolis García.
+
+
+Team LOB: 3.
+With RISP: 1 for 2.
+
+Batting away
+Jose Altuve;/players/a/altuvjo01.shtml;2B;5;2;2;1;0;0;5;.200;.226;.400;.626;20;12;0.043; 0.49;0.078;-0.035; 0.61%;10.12; 0.4;2;2;HR
+Michael Brantley;/players/b/brantmi02.shtml;LF;5;0;0;0;0;1;5;.263;.333;.474;.807;13;10;-0.056; 0.45;0.000;-0.056;-0.71%; 9.37; -1.5;5;0;
+Chas McCormick;/players/m/mccorch01.shtml;LF;0;0;0;0;0;0;0;.316;.316;.316;.632;;;;;;;;;;0;0;
+Alex Bregman;/players/b/bregmal01.shtml;3B;4;0;0;0;1;0;5;.185;.267;.407;.674;13;8;-0.014; 0.34;0.011;-0.025;-0.18%; 7.00; -0.3;2;2;
+Yordan Alvarez;/players/a/alvaryo01.shtml;DH;4;1;2;2;0;0;5;.407;.467;1.148;1.615;24;13;0.179; 0.97;0.196;-0.017; 2.37%;20.17; 2.9;;;HBP
+José Abreu;/players/a/abreujo02.shtml;1B;5;1;1;0;0;1;5;.250;.300;.607;.907;13;11;-0.031; 0.53;0.026;-0.056;-0.39%;11.08; -0.7;5;0;2B
+Kyle Tucker;/players/t/tuckeky01.shtml;RF;2;2;1;0;3;0;5;.125;.300;.208;.508;18;7;0.045; 0.44;0.054;-0.008; 0.60%; 9.21; 0.5;2;0;2B
+Mauricio Dubón;/players/d/dubonma01.shtml;CF;4;1;3;1;0;0;4;.500;.500;.500;1.000;14;10;0.099; 0.87;0.112;-0.013; 1.33%;18.12; 2.0;6;0;
+Jeremy Peña;/players/p/penaje02.shtml;SS;4;0;1;1;0;1;4;.231;.259;.269;.528;11;7;-0.082; 0.91;0.012;-0.095;-1.10%;18.85; -0.7;0;2;
+Martín Maldonado;/players/m/maldoma01.shtml;C;4;1;2;2;0;2;4;.222;.300;.222;.522;12;9;0.128; 0.65;0.143;-0.015; 1.72%;13.59; 0.8;5;0;
+Cristian Javier;/players/j/javiecr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Hector Neris;/players/n/nerishe01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Abreu;/players/a/abreubr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Ryan Pressly;/players/p/pressry01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: José Abreu (1, off Max Scherzer); Kyle Tucker (2, off Martín Pérez).
+
+
+HR: Jose Altuve (2, off Max Scherzer, 3rd inn, 0 on, 0 outs to Deep LF-CF).
+
+
+HBP: Yordan Alvarez (1, by Max Scherzer).
+
+
+TB: Jose Altuve 5; Mauricio Dubón 3; José Abreu 2; Martín Maldonado 2; Kyle Tucker 2; Yordan Alvarez 2; Jeremy Peña.
+
+
+RBI: Martín Maldonado 2 (2); Yordan Alvarez 2 (10); Mauricio Dubón (1); Jose Altuve (2); Jeremy Peña (1).
+
+
+2-out RBI: Martín Maldonado 2; Yordan Alvarez 2.
+
+
+Team LOB: 7.
+With RISP: 5 for 12.
+
+Pitching home
+Max Scherzer;/players/s/scherma01.shtml; L (0-1); 4 ;5;5;5;1;4;1;11.25;18;63;42;21;7;14;2;10;3;0;35;;;-0.264; 0.97;-3.60%;20.14; -2.9
+Cody Bradford;/players/b/bradfco01.shtml;Cody Bradford; 1.1;0;0;0;0;0;0;0.00;4;11;7;4;0;3;0;4;1;0;;0;0;0.025; 0.24; 0.33%; 4.95; 0.8
+Chris Stratton;/players/s/stratch01.shtml;Chris Stratton; 1 ;2;2;2;1;0;0;18.00;6;19;10;8;0;2;1;4;3;0;;0;0;0.000; 0.36; 0.00%; 7.61; -0.1
+Will Smith;/players/s/smithwi04.shtml;Will Smith; 0.1;1;0;0;1;0;0;0.00;3;12;5;2;1;2;0;2;2;0;;2;2;-0.062; 0.89;-0.82%;18.54; -1.6
+Jon Gray;/players/g/grayjo02.shtml;Jon Gray; 1 ;2;1;1;1;1;0;9.00;6;15;9;8;1;0;2;2;0;0;;2;0;-0.028; 0.31;-0.38%; 6.42; -0.4
+Martín Pérez;/players/p/perezma02.shtml;Martín Pérez; 1.1;2;0;0;0;0;0;0.00;5;18;14;11;0;3;1;4;2;0;;2;0;0.017; 0.14; 0.22%; 3.00; 1.0
+
+Pitching away
+Cristian Javier;/players/j/javiecr01.shtml; W (2-0); 5.2;3;2;2;1;3;1;1.69;21;85;51;31;10;10;3;14;2;0;57;;;0.132; 0.54; 1.66%;11.28; 0.9
+Hector Neris;/players/n/nerishe01.shtml; H (2); 1.1;2;2;2;0;1;1;11.57;6;19;13;9;1;3;1;4;0;0;;1;0;0.001; 0.45; 0.00%; 9.37; -1.1
+Bryan Abreu;/players/a/abreubr01.shtml;Bryan Abreu; 1 ;1;1;1;1;0;0;1.42;5;17;10;4;3;3;2;2;0;0;;0;0;0.011; 0.79; 0.14%;16.37; -0.5
+Ryan Pressly;/players/p/pressry01.shtml; S (3); 1 ;0;0;0;1;1;0;0.00;3;13;8;3;3;2;1;0;0;0;;0;0;0.045; 1.38; 0.60%;28.82; 0.5
+
+indiv_events
+
+Balks: None.
+WP: Max Scherzer (1).
+HBP: Max Scherzer (1; Yordan Alvarez).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: Max Scherzer (1).
+HBP: Max Scherzer (1; Yordan Alvarez).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - James Hoye, 1B - Marvin Hudson, 2B - Jordan Baker, 3B - Dan Bellino, LF - Stu Scheurwater, RF - Mark Ripperger.
+Time of Game: 3:05.
+Attendance: 42,368.
+Start Time Weather: 74° F, Wind 0mph, In Dome.
+
+div_lineups
+Astros
+1;Jose Altuve;/players/a/altuvjo01.shtml;2B
+2;Michael Brantley;/players/b/brantmi02.shtml;LF
+3;Alex Bregman;/players/b/bregmal01.shtml;3B
+4;Yordan Alvarez;/players/a/alvaryo01.shtml;DH
+5;José Abreu;/players/a/abreujo02.shtml;1B
+6;Kyle Tucker;/players/t/tuckeky01.shtml;RF
+7;Mauricio Dubón;/players/d/dubonma01.shtml;CF
+8;Jeremy Peña;/players/p/penaje02.shtml;SS
+9;Martín Maldonado;/players/m/maldoma01.shtml;C
+; Cristian Javier;/players/j/javiecr01.shtml;P
+Rangers
+1;Marcus Semien;/players/s/semiema01.shtml;2B
+2;Corey Seager;/players/s/seageco01.shtml;SS
+3;Evan Carter;/players/c/carteev01.shtml;LF
+4;Adolis García;/players/g/garciad02.shtml;RF
+5;Jonah Heim;/players/h/heimjo01.shtml;C
+6;Mitch Garver;/players/g/garvemi01.shtml;DH
+7;Nathaniel Lowe;/players/l/lowena01.shtml;1B
+8;Josh Jung;/players/j/jungjo01.shtml;3B
+9;Leody Taveras;/players/t/taverle01.shtml;CF
+; Max Scherzer;/players/s/scherma01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t2;1-0;2;-23;3,(1-1) CB.X;RRO;HOU;Martín Maldonado;Max Scherzer;13%;74%;Single to 3B (Ground Ball to SS-3B Hole); Tucker Scores; Dubón Scores; Maldonado out at 2B/LF-C-2B
+b5;0-5;2;1--;4,(1-2) FFBX;RR;TEX;Josh Jung;Cristian Javier;-9%;85%;Home Run (Fly Ball to Deep CF-RF); Lowe Scores
+t2;0-0;2;123;2,(0-1) CB;R;HOU;Martín Maldonado;Max Scherzer;9%;61%;Wild Pitch; Alvarez Scores/No RBI; Tucker to 3B; Dubón to 2B
+t2;0-0;1;123;3,(1-1) BCX;O;HOU;Jeremy Peña;Max Scherzer;-8%;52%;Popfly: 2B (Short CF)
+t7;5-2;2;123;5,(2-2) SBBCX;RR;HOU;Yordan Alvarez;Will Smith;7%;97%;Single to CF (Line Drive to LF-CF); Maldonado Scores; Altuve Scores; Bregman to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Astros Batting, Tied 0-0, Rangers' Max Scherzer facing 1-2-3 
+t1;0-0;0;---;2,(1-0) BX;O;HOU;Jose Altuve;Max Scherzer;-2%;48%;Flyball: CF (Deep LF-CF)
+t1;0-0;1;---;3,(0-2) CCS;O;HOU;Michael Brantley;Max Scherzer;-2%;46%;Strikeout Swinging
+t1;0-0;2;---;3,(1-1) SBX;O;HOU;Alex Bregman;Max Scherzer;-1%;45%;Flyball: CF (Deep CF-RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 0, Rangers 0.
+Bottom of the 1st, Rangers Batting, Tied 0-0, Astros' Cristian Javier facing 1-2-3 
+b1;0-0;0;---;3,(2-0) BBX;O;TEX;Marcus Semien;Cristian Javier;2%;47%;Popfly: 2B (Deep 2B-1B)
+b1;0-0;1;---;1,(0-0) X;O;TEX;Corey Seager;Cristian Javier;2%;49%;Flyball: CF (Deep CF)
+b1;0-0;2;---;6,(3-2) SBFBBS;O;TEX;Evan Carter;Cristian Javier;1%;50%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 0, Rangers 0.
+Top of the 2nd, Astros Batting, Tied 0-0, Rangers' Max Scherzer facing 4-5-6 
+t2;0-0;0;---;3,(0-2) CFH;;HOU;Yordan Alvarez;Max Scherzer;4%;54%;Hit By Pitch
+t2;0-0;0;1--;4,(1-2) CBF.C;O;HOU;José Abreu;Max Scherzer;-4%;50%;Strikeout Looking
+t2;0-0;1;1--;5,(3-1) CBBBB;;HOU;Kyle Tucker;Max Scherzer;4%;54%;Walk; Alvarez to 2B
+t2;0-0;1;12-;2,(0-1) FX;;HOU;Mauricio Dubón;Max Scherzer;6%;60%;Single to LF (Line Drive to Deep LF Line); Alvarez to 3B; Tucker to 2B
+t2;0-0;1;123;3,(1-1) BCX;O;HOU;Jeremy Peña;Max Scherzer;-8%;52%;Popfly: 2B (Short CF)
+t2;0-0;2;123;2,(0-1) CB;R;HOU;Martín Maldonado;Max Scherzer;9%;61%;Wild Pitch; Alvarez Scores/No RBI; Tucker to 3B; Dubón to 2B
+t2;1-0;2;-23;3,(1-1) CB.X;RRO;HOU;Martín Maldonado;Max Scherzer;13%;74%;Single to 3B (Ground Ball to SS-3B Hole); Tucker Scores; Dubón Scores; Maldonado out at 2B/LF-C-2B
+;;;;;;;;;3 runs, 2 hits, 0 errors, 0 LOB. Astros 3, Rangers 0.
+Bottom of the 2nd, Rangers Batting, Behind 0-3, Astros' Cristian Javier facing 4-5-6 
+b2;0-3;0;---;3,(1-1) CBX;O;TEX;Adolis García;Cristian Javier;2%;76%;Groundout: 3B-1B (Deep 3B)
+b2;0-3;1;---;3,(1-1) FBX;O;TEX;Jonah Heim;Cristian Javier;2%;78%;Popfly: 3B (SS-3B Hole)
+b2;0-3;2;---;6,(3-2) BBBCSX;O;TEX;Mitch Garver;Cristian Javier;1%;79%;Flyball: RF (Deep RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 3, Rangers 0.
+Top of the 3rd, Astros Batting, Ahead 3-0, Rangers' Max Scherzer facing 1-2-3 
+t3;3-0;0;---;5,(1-2) BFSFX;R;HOU;Jose Altuve;Max Scherzer;6%;85%;Home Run (Fly Ball to Deep LF-CF)
+t3;4-0;0;---;2,(1-0) BX;O;HOU;Michael Brantley;Max Scherzer;-1%;84%;Flyball: LF (Deep LF)
+t3;4-0;1;---;2,(0-1) CX;O;HOU;Alex Bregman;Max Scherzer;-1%;84%;Popfly: 2B (Deep SS-2B)
+t3;4-0;2;---;6,(3-2) BCSBBX;O;HOU;Yordan Alvarez;Max Scherzer;-1%;83%;Popfly: SS (Deep SS)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Astros 4, Rangers 0.
+Bottom of the 3rd, Rangers Batting, Behind 0-4, Astros' Cristian Javier facing 7-8-9 
+b3;0-4;0;---;3,(2-0) BBX;O;TEX;Nathaniel Lowe;Cristian Javier;2%;85%;Flyball: CF (Deep CF)
+b3;0-4;1;---;6,(2-2) BSBS.FC;O;TEX;Josh Jung;Cristian Javier;1%;86%;Strikeout Looking
+b3;0-4;2;---;6,(3-2) CBS.BBB;;TEX;Leody Taveras;Cristian Javier;-1%;85%;Walk
+b3;0-4;2;1--;5,(2-2) C*B>FB1X;O;TEX;Marcus Semien;Cristian Javier;2%;87%;Groundout: SS-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Astros 4, Rangers 0.
+Top of the 4th, Astros Batting, Ahead 4-0, Rangers' Max Scherzer facing 5-6-7 
+t4;4-0;0;---;1,(0-0) X;;HOU;José Abreu;Max Scherzer;3%;90%;Double to CF (Line Drive to Deep LF-CF)
+t4;4-0;0;-2-;3,(0-2) TCX;O;HOU;Kyle Tucker;Max Scherzer;0%;89%;Groundout: 2B-1B (2B-1B); Abreu to 3B
+t4;4-0;1;--3;7,(3-2) F*BSF*B*BX;R;HOU;Mauricio Dubón;Max Scherzer;2%;92%;Single to CF (Line Drive to CF-RF); Abreu Scores
+t4;5-0;1;1--;5,(2-2) SBCBS;O;HOU;Jeremy Peña;Max Scherzer;-1%;91%;Strikeout Swinging
+t4;5-0;2;1--;4,(1-2) BC1F.C;O;HOU;Martín Maldonado;Max Scherzer;-1%;90%;Strikeout Looking
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Astros 5, Rangers 0.
+Bottom of the 4th, Rangers Batting, Behind 0-5, Astros' Cristian Javier facing 2-3-4 
+b4;0-5;0;---;3,(1-1) BFX;O;TEX;Corey Seager;Cristian Javier;2%;92%;Flyball: CF (Deep CF)
+b4;0-5;1;---;4,(1-2) CS.BT;O;TEX;Evan Carter;Cristian Javier;1%;93%;Strikeout Swinging
+b4;0-5;2;---;2,(0-1) SX;O;TEX;Adolis García;Cristian Javier;1%;93%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 5, Rangers 0.
+Top of the 5th, Astros Batting, Ahead 5-0, Rangers' Cody Bradford facing 1-2-3 
+;;;;;;;;;Cody Bradford replaces Max Scherzer pitching
+t5;5-0;0;---;2,(1-0) .BX;O;HOU;Jose Altuve;Cody Bradford;-1%;93%;Flyball: CF (Deep CF)
+t5;5-0;1;---;4,(1-2) CC.BX;O;HOU;Michael Brantley;Cody Bradford;0%;92%;Popfly: 3B (Deep 3B)
+t5;5-0;2;---;2,(0-1) CX;O;HOU;Alex Bregman;Cody Bradford;0%;92%;Lineout: RF (RF Line)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 5, Rangers 0.
+Bottom of the 5th, Rangers Batting, Behind 0-5, Astros' Cristian Javier facing 5-6-7 
+b5;0-5;0;---;3,(2-0) BBX;O;TEX;Jonah Heim;Cristian Javier;1%;94%;Popfly: 3B (Short LF)
+b5;0-5;1;---;2,(0-1) CX;O;TEX;Mitch Garver;Cristian Javier;1%;95%;Groundout: 3B-1B (SS-3B Hole)
+b5;0-5;2;---;5,(1-2) CS.FBX;;TEX;Nathaniel Lowe;Cristian Javier;-1%;94%;Single to LF (Line Drive to Short LF)
+b5;0-5;2;1--;4,(1-2) FFBX;RR;TEX;Josh Jung;Cristian Javier;-9%;85%;Home Run (Fly Ball to Deep CF-RF); Lowe Scores
+b5;2-5;2;---;4,(2-1) BCBX;O;TEX;Leody Taveras;Cristian Javier;1%;86%;Flyball: LF
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Astros 5, Rangers 2.
+Top of the 6th, Astros Batting, Ahead 5-2, Rangers' Cody Bradford facing 4-5-6 
+t6;5-2;0;---;3,(2-0) BBX;O;HOU;Yordan Alvarez;Cody Bradford;-1%;85%;Flyball: CF (Deep CF)
+;;;;;;;;;Chris Stratton replaces Cody Bradford pitching
+t6;5-2;1;---;1,(0-0) .X;O;HOU;José Abreu;Chris Stratton;-1%;84%;Lineout: RF (Deep CF-RF)
+t6;5-2;2;---;5,(3-1) CBBBB;;HOU;Kyle Tucker;Chris Stratton;1%;84%;Walk
+t6;5-2;2;1--;4,(1-2) *BFFX;O;HOU;Mauricio Dubón;Chris Stratton;-1%;83%;Flyball: RF (Deep RF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Astros 5, Rangers 2.
+Bottom of the 6th, Rangers Batting, Behind 2-5, Astros' Cristian Javier facing 1-2-3 
+b6;2-5;0;---;2,(1-0) BX;O;TEX;Marcus Semien;Cristian Javier;3%;86%;Flyball: LF (Short LF-CF)
+b6;2-5;1;---;6,(3-2) FFBBBX;O;TEX;Corey Seager;Cristian Javier;2%;88%;Flyball: CF (Deep CF-RF)
+b6;2-5;2;---;8,(2-2) BCSBF.FFX;;TEX;Evan Carter;Cristian Javier;-2%;86%;Double to RF (Line Drive to Deep RF)
+;;;;;;;;;Hector Neris replaces Cristian Javier pitching
+b6;2-5;2;-2-;6,(2-2) .FFB.FBX;O;TEX;Adolis García;Hector Neris;3%;89%;Flyball: LF (Deep LF-CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 5, Rangers 2.
+Top of the 7th, Astros Batting, Ahead 5-2, Rangers' Chris Stratton facing 8-9-1 
+t7;5-2;0;---;2,(1-0) BX;O;HOU;Jeremy Peña;Chris Stratton;-1%;88%;Groundout: SS-1B
+t7;5-2;1;---;2,(1-0) .BX;;HOU;Martín Maldonado;Chris Stratton;1%;89%;Single to CF (Line Drive to Deep LF-CF)
+t7;5-2;1;1--;5,(2-2) B*BCFX;;HOU;Jose Altuve;Chris Stratton;1%;90%;Single to LF (Line Drive to Short LF); Maldonado to 2B
+;;;;;;;;;Will Smith replaces Chris Stratton pitching
+t7;5-2;1;12-;2,(1-0) .BX;O;HOU;Michael Brantley;Will Smith;-2%;89%;Lineout: CF
+t7;5-2;2;12-;5,(3-1) BBBC*B;;HOU;Alex Bregman;Will Smith;1%;90%;Walk; Maldonado to 3B; Altuve to 2B
+t7;5-2;2;123;5,(2-2) SBBCX;RR;HOU;Yordan Alvarez;Will Smith;7%;97%;Single to CF (Line Drive to LF-CF); Maldonado Scores; Altuve Scores; Bregman to 3B
+;;;;;;;;;Jon Gray replaces Will Smith pitching
+t7;7-2;2;1-3;1,(0-0) .X;O;HOU;José Abreu;Jon Gray;-1%;96%;Flyball: CF (CF-RF)
+;;;;;;;;;2 runs, 3 hits, 0 errors, 2 LOB. Astros 7, Rangers 2.
+Bottom of the 7th, Rangers Batting, Behind 2-7, Astros' Hector Neris facing 5-6-7 
+b7;2-7;0;---;2,(1-0) BX;O;TEX;Jonah Heim;Hector Neris;1%;97%;Flyball: RF (RF Line)
+b7;2-7;1;---;4,(1-2) CBFS;O;TEX;Mitch Garver;Hector Neris;1%;98%;Strikeout Swinging
+b7;2-7;2;---;3,(1-1) BCX;;TEX;Nathaniel Lowe;Hector Neris;-1%;97%;Single to RF (Ground Ball thru 2B-1B)
+b7;2-7;2;1--;3,(1-1) CBX;RR;TEX;Josh Jung;Hector Neris;-6%;92%;Home Run (Fly Ball to Deep CF); Lowe Scores
+b7;4-7;2;---;1,(0-0) X;O;TEX;Leody Taveras;Hector Neris;1%;93%;Flyball: LF (Deep LF)
+;;;;;;;;;2 runs, 2 hits, 0 errors, 0 LOB. Astros 7, Rangers 4.
+Top of the 8th, Astros Batting, Ahead 7-4, Rangers' Jon Gray facing 6-7-8 
+t8;7-4;0;---;3,(3-0) BBVB;;HOU;Kyle Tucker;Jon Gray;1%;94%;Walk
+t8;7-4;0;1--;1,(0-0) X;;HOU;Mauricio Dubón;Jon Gray;3%;96%;Single to RF (Fly Ball to Short CF-RF); Tucker to 3B
+t8;7-4;0;1-3;1,(0-0) X;R;HOU;Jeremy Peña;Jon Gray;1%;98%;Single to RF (Ground Ball); Tucker Scores; Dubón to 2B
+t8;8-4;0;12-;3,(0-2) LL.S;O;HOU;Martín Maldonado;Jon Gray;-1%;97%;Strikeout Swinging
+t8;8-4;1;12-;6,(3-2) BBBFFX;O;HOU;Jose Altuve;Jon Gray;-1%;96%;Groundout: SS-3B/Forceout at 3B (Deep SS-3B Hole); Peña to 2B; Altuve to 1B
+;;;;;;;;;Martín Pérez replaces Jon Gray pitching
+t8;8-4;2;12-;2,(0-1) .CX;O;HOU;Michael Brantley;Martín Pérez;-1%;95%;Groundout: 2B-1B (2B-1B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Astros 8, Rangers 4.
+Bottom of the 8th, Rangers Batting, Behind 4-8, Astros' Bryan Abreu facing 1-2-3 
+;;;;;;;;;Bryan Abreu replaces Hector Neris pitching
+b8;4-8;0;---;5,(3-1) .BBBCB;;TEX;Marcus Semien;Bryan Abreu;-3%;92%;Walk
+b8;4-8;0;1--;1,(0-0) X;O;TEX;Corey Seager;Bryan Abreu;3%;95%;Flyball: LF (LF-CF)
+b8;4-8;1;1--;4,(1-2) CS*BX;O;TEX;Evan Carter;Bryan Abreu;2%;97%;Groundout: 2B-1B (2B-1B); Semien to 2B
+b8;4-8;2;-2-;2,(0-1) CX;R;TEX;Adolis García;Bryan Abreu;-3%;94%;Single to RF (Ground Ball); Semien Scores
+b8;5-8;2;1--;5,(2-2) BSBS.X;O;TEX;Jonah Heim;Bryan Abreu;2%;96%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 1 LOB. Astros 8, Rangers 5.
+Top of the 9th, Astros Batting, Ahead 8-5, Rangers' Martín Pérez facing 3-4-5 
+t9;8-5;0;---;1,(0-0) X;O;HOU;Alex Bregman;Martín Pérez;0%;96%;Flyball: CF (Deep CF)
+t9;8-5;1;---;7,(3-2) BCBFFBX;;HOU;Yordan Alvarez;Martín Pérez;0%;96%;Single to RF (Line Drive to Deep RF Line)
+t9;8-5;1;1--;6,(1-2) CFBFFX;O;HOU;José Abreu;Martín Pérez;0%;96%;Foul Popfly: 1B (1B into Foul Terr.)
+t9;8-5;2;1--;2,(0-1) FX;O;HOU;Kyle Tucker;Martín Pérez;0%;96%;Double to RF (Line Drive to Deep CF-RF); Alvarez out at Hm/RF-SS-C
+;;;;;;;;;0 runs, 2 hits, 0 errors, 1 LOB. Astros 8, Rangers 5.
+Bottom of the 9th, Rangers Batting, Behind 5-8, Astros' Ryan Pressly facing 6-7-8 
+;;;;;;;;;Ryan Pressly replaces Bryan Abreu pitchingChas McCormick replaces Michael Brantley playing LF batting 2nd
+b9;5-8;0;---;6,(3-2) ..CBFB.BB;;TEX;Mitch Garver;Ryan Pressly;-5%;91%;Walk
+;;;;;;;;;Travis Jankowski pinch runs for Mitch Garver (DH) batting 6th
+b9;5-8;0;1--;3,(0-2) .CS.S;O;TEX;Nathaniel Lowe;Ryan Pressly;5%;95%;Strikeout Swinging
+b9;5-8;1;1--;4,(1-2) SF.*BX;OO;TEX;Josh Jung;Ryan Pressly;5%;100%;Ground Ball Double Play: SS-2B-1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 8, Rangers 5.
