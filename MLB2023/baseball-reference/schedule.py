@@ -39,7 +39,8 @@ ruta_archivo_schedule_only_link = os.path.join(ruta_schedule, nombre_archivo_sch
 # ubicacion = "C:/Users/yfigueroa/Documents/GitHub/yfsDataBase/NBA2023/chromedriver"
 # driver = webdriver.Chrome(ubicacion)
 # Especifica la ruta al ejecutable de ChromeDriver
-ruta_chrome_driver = 'C:/Users/yfigueroa/Documents/GitHub/yfsDataBase/NBA2023/chromedriver.exe'  # Sustituye por tu ruta real
+# para actualizar el chromedriver https://googlechromelabs.github.io/chrome-for-testing/#stable
+ruta_chrome_driver = 'C:/Users/yfigueroa/Documents/GitHub/yfsDataBase/chromedriver.exe'  # Sustituye por tu ruta real
 # Crea un objeto Service con la ruta del ejecutable
 servicio_chrome = Service(ruta_chrome_driver)
 # Crea una instancia de Chrome WebDriver utilizando el objeto Service
