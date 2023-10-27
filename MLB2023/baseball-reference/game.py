@@ -45,21 +45,14 @@ driver = webdriver.Chrome(service=servicio_chrome)
 link_base           = "https://www.baseball-reference.com"
 # list_game           = ['/boxes/BAL/BAL202308100.shtml','/boxes/CHN/CHN202303300.shtml','/boxes/PIT/PIT202304070.shtml']
 list_game           = [
-'/boxes/ANA/ANA202310010.shtml',
-'/boxes/ARI/ARI202310010.shtml',
-'/boxes/ATL/ATL202310010.shtml',
-'/boxes/BAL/BAL202310010.shtml',
-'/boxes/CHA/CHA202310010.shtml',
-'/boxes/COL/COL202310010.shtml',
-'/boxes/DET/DET202310010.shtml',
-'/boxes/KCA/KCA202310010.shtml',
-'/boxes/MIL/MIL202310010.shtml',
-'/boxes/NYN/NYN202310010.shtml',
-'/boxes/PIT/PIT202310010.shtml',
-'/boxes/SEA/SEA202310010.shtml',
-'/boxes/SFN/SFN202310010.shtml',
-'/boxes/SLN/SLN202310010.shtml',
-'/boxes/TOR/TOR202310010.shtml',
+'/boxes/MIL/MIL202310030.shtml',
+'/boxes/MIN/MIN202310030.shtml',
+'/boxes/PHI/PHI202310030.shtml',
+'/boxes/TBA/TBA202310030.shtml',
+'/boxes/MIL/MIL202310040.shtml',
+'/boxes/MIN/MIN202310040.shtml',
+'/boxes/PHI/PHI202310040.shtml',
+'/boxes/TBA/TBA202310040.shtml',
 ]
 day                 = dateInYYYYMMDD()
 
