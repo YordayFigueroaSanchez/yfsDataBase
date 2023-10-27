@@ -33,7 +33,7 @@ from classes import InfoComplete
 
 
 # Especifica la ruta al ejecutable de ChromeDriver
-ruta_chrome_driver = 'C:/Users/yfigueroa/Documents/GitHub/yfsDataBase/NBA2023/chromedriver.exe'  # Sustituye por tu ruta real
+ruta_chrome_driver = 'C:/Users/yfigueroa/Documents/GitHub/yfsDataBase/chromedriver.exe'  # Sustituye por tu ruta real
 # Crea un objeto Service con la ruta del ejecutable
 servicio_chrome = Service(ruta_chrome_driver)
 # Crea una instancia de Chrome WebDriver utilizando el objeto Service
