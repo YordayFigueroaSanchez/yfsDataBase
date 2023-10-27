@@ -1,0 +1,256 @@
+
+Scorebox Meta
+20231010
+7:03 p.m. Local
+40861
+Globe Life Field
+168
+
+Boxscore
+https://cdn.ssref.net/req/202310271/tlogo/br/BAL-2023.png;/teams/BAL/2023.shtml;0;0;0;0;1;0;0;0;0;1;6;0
+https://cdn.ssref.net/req/202310271/tlogo/br/TEX-2023.png;/teams/TEX/2023.shtml;1;5;0;0;0;1;0;0;X;7;11;0
+
+Batting home
+Marcus Semien;/players/s/semiema01.shtml;2B;4;1;1;0;0;0;4;.174;.240;.261;.501;17;8;0.005; 0.44;0.031;-0.026; 0.03%; 4.54; -0.2;0;3;2B
+Corey Seager;/players/s/seageco01.shtml;SS;2;2;1;1;2;0;4;.500;.720;.929;1.649;11;4;0.112; 0.62;0.113;-0.001; 0.65%; 6.49; 1.2;1;1;HR,IW
+Mitch Garver;/players/g/garvemi01.shtml;DH;4;1;2;2;0;0;4;.400;.400;.800;1.200;13;9;0.129; 0.82;0.150;-0.021; 0.75%; 8.56; 1.4;;;2B,GDP
+Adolis García;/players/g/garciad02.shtml;RF;4;1;2;3;0;2;4;.292;.292;.583;.875;15;12;0.122; 0.40;0.127;-0.005; 0.71%; 4.15; 2.1;2;0;HR
+Evan Carter;/players/c/carteev01.shtml;LF;4;0;1;0;0;1;4;.429;.619;.857;1.476;13;8;0.011; 0.23;0.017;-0.006; 0.07%; 2.44; -0.3;2;0;
+Jonah Heim;/players/h/heimjo01.shtml;C;4;0;1;0;0;0;4;.238;.273;.238;.511;13;8;-0.034; 0.41;0.005;-0.039;-0.18%; 4.23; -0.4;9;0;
+Nathaniel Lowe;/players/l/lowena01.shtml;1B;4;1;1;1;0;2;4;.182;.217;.318;.536;30;21;-0.012; 0.27;0.013;-0.026;-0.08%; 2.77; 0.2;6;4;HR
+Josh Jung;/players/j/jungjo01.shtml;3B;4;1;2;0;0;0;4;.400;.409;.800;1.209;9;9;0.016; 0.20;0.022;-0.006; 0.10%; 2.10; -0.2;1;0;
+Leody Taveras;/players/t/taverle01.shtml;CF;4;0;0;0;0;0;4;.263;.364;.316;.679;15;10;-0.031; 0.31;0.000;-0.031;-0.19%; 3.24; -1.0;2;0;
+Nathan Eovaldi;/players/e/eovalna01.shtml;P;;;;;;;;;;;;;;;;;;;;;3;2;
+Aroldis Chapman;/players/c/chapmar01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+José Leclerc;/players/l/leclejo01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+2B: Marcus Semien (2, off Dean Kremer); Mitch Garver (1, off Dean Kremer).
+
+
+HR: Corey Seager (1, off Dean Kremer, 1st inn, 0 on, 1 out to Deep RF); Adolis García (2, off Dean Kremer, 2nd inn, 2 on, 2 outs to Deep LF-CF); Nathaniel Lowe (1, off Kyle Gibson, 6th inn, 0 on, 0 outs to Deep CF-RF).
+
+
+IBB: Corey Seager (2, by Dean Kremer).
+
+
+TB: Adolis García 5; Nathaniel Lowe 4; Corey Seager 4; Mitch Garver 3; Josh Jung 2; Marcus Semien 2; Evan Carter; Jonah Heim.
+
+
+GIDP: Mitch Garver (2).
+
+
+RBI: Adolis García 3 (5); Mitch Garver 2 (7); Nathaniel Lowe (2); Corey Seager (3).
+
+
+2-out RBI: Adolis García 3; Mitch Garver 2.
+
+
+Team LOB: 5.
+With RISP: 2 for 3.
+
+Batting away
+Gunnar Henderson;/players/h/hendegu01.shtml;SS-3B;4;0;3;1;0;0;4;.500;.538;.750;1.288;13;8;0.006; 0.34;0.029;-0.023; 0.03%; 3.58; 1.1;2;0;
+Adley Rutschman;/players/r/rutscad01.shtml;C;4;0;0;0;0;1;4;.083;.154;.167;.321;21;17;-0.040; 0.36;0.000;-0.040;-0.22%; 3.76; -1.0;6;0;
+Anthony Santander;/players/s/santaan02.shtml;RF;3;0;1;0;1;0;4;.273;.385;.545;.930;11;5;-0.006; 0.33;0.015;-0.021;-0.04%; 3.37; -0.2;2;0;
+Ryan Mountcastle;/players/m/mountry01.shtml;1B;3;0;0;0;1;2;4;.182;.231;.273;.503;16;11;-0.028; 0.38;0.007;-0.036;-0.16%; 3.89; -0.2;2;1;
+Ryan O'Hearn;/players/o/ohearry01.shtml;DH;3;0;1;0;0;0;3;.200;.200;.200;.400;10;7;-0.024; 0.40;0.005;-0.029;-0.13%; 4.18; -0.2;;;
+Aaron Hicks;/players/h/hicksaa01.shtml;PH-DH-DH;1;0;0;0;0;0;1;.250;.400;.625;1.025;7;4;-0.012; 0.44;0.000;-0.012;-0.08%; 4.57; -0.8;;;
+Austin Hays;/players/h/haysau01.shtml;LF;4;0;0;0;0;2;4;.273;.385;.364;.748;13;9;-0.033; 0.31;0.000;-0.033;-0.19%; 3.24; -0.9;3;0;
+Cedric Mullins;/players/m/mullice01.shtml;CF;4;0;0;0;0;0;4;.000;.000;.000;.000;10;8;-0.024; 0.23;0.000;-0.024;-0.15%; 2.33; -0.7;5;0;
+Jordan Westburg;/players/w/westbjo01.shtml;3B-2B;4;1;1;0;0;3;4;.222;.222;.333;.556;18;15;-0.003; 0.17;0.009;-0.012;-0.01%; 1.76; -0.2;2;1;
+Adam Frazier;/players/f/fraziad01.shtml;2B;2;0;0;0;0;0;2;.000;.000;.000;.000;8;6;-0.015; 0.33;0.000;-0.015;-0.08%; 3.42; -0.4;1;1;
+Jorge Mateo;/players/m/mateojo01.shtml;PH-SS;1;0;0;0;0;1;1;.800;.800;1.200;2.000;5;3;-0.004; 0.15;0.000;-0.004;-0.02%; 1.56; -0.2;0;0;
+Dean Kremer;/players/k/kremede01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Tyler Wells;/players/w/wellsty01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kyle Gibson;/players/g/gibsoky01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+DL Hall;/players/h/halldl01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Yennier Cano;/players/c/canoye01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+TB: Gunnar Henderson 3; Ryan O'Hearn; Anthony Santander; Jordan Westburg.
+
+
+RBI: Gunnar Henderson (2).
+
+
+2-out RBI: Gunnar Henderson.
+
+
+Team LOB: 7.
+With RISP: 1 for 2.
+
+Pitching home
+Nathan Eovaldi;/players/e/eovalna01.shtml; W (2-0); 7 ;5;1;1;0;7;0;1.32;26;98;76;47;16;13;9;10;7;0;70;;;0.173; 0.37; 0.99%; 3.85; 2.7
+Aroldis Chapman;/players/c/chapmar01.shtml;Aroldis Chapman; 0.2;1;0;0;2;1;0;0.00;5;20;7;3;2;2;1;1;0;0;;0;0;-0.006; 0.14;-0.04%; 1.47; -0.3
+José Leclerc;/players/l/leclejo01.shtml;José Leclerc; 1.1;0;0;0;0;1;0;1.80;4;14;10;6;3;1;2;1;0;0;;3;0;0.015; 0.14; 0.10%; 1.43; 1.3
+
+Pitching away
+Dean Kremer;/players/k/kremede01.shtml; L (0-1); 1.2;7;6;6;1;0;2;32.40;13;53;37;24;5;8;2;10;4;0;16;;;-0.336; 1.00;-1.96%;10.36; -5.0
+Tyler Wells;/players/w/wellsty01.shtml;Tyler Wells; 1.1;1;0;0;0;1;0;0.00;5;19;15;12;1;2;0;4;0;0;;0;0;0.010; 0.15; 0.05%; 1.56; 0.6
+Kyle Gibson;/players/g/gibsoky01.shtml;Kyle Gibson; 3 ;1;1;1;1;1;1;3.00;10;32;16;10;3;3;2;6;2;0;;0;0;0.005; 0.10; 0.03%; 1.03; 0.6
+DL Hall;/players/h/halldl01.shtml;DL Hall; 1.2;1;0;0;0;3;0;0.00;6;28;18;8;4;6;1;2;0;0;;0;0;0.002; 0.02; 0.02%; 0.21; 1.0
+Yennier Cano;/players/c/canoye01.shtml;Yennier Cano; 0.1;1;0;0;0;0;0;6.75;2;4;3;2;0;1;1;1;1;0;;0;0;0.000; 0.01; 0.00%; 0.05; 0.1
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: Dean Kremer (1; Corey Seager).
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: Dean Kremer (1; Corey Seager).
+Pickoffs: None.
+
+section_content
+Umpires: HP - Alfonso Márquez, 1B - Cory Blaser, 2B - Quinn Wolcott, 3B - Nic Lentz, LF - Lance Barrett, RF - John Libka.
+Time of Game: 2:48.
+Attendance: 40,861.
+Start Time Weather: 74° F, Wind 0mph, In Dome.
+
+div_lineups
+Orioles
+1;Gunnar Henderson;/players/h/hendegu01.shtml;SS
+2;Adley Rutschman;/players/r/rutscad01.shtml;C
+3;Anthony Santander;/players/s/santaan02.shtml;RF
+4;Ryan Mountcastle;/players/m/mountry01.shtml;1B
+5;Ryan O'Hearn;/players/o/ohearry01.shtml;DH
+6;Austin Hays;/players/h/haysau01.shtml;LF
+7;Cedric Mullins;/players/m/mullice01.shtml;CF
+8;Jordan Westburg;/players/w/westbjo01.shtml;3B
+9;Adam Frazier;/players/f/fraziad01.shtml;2B
+; Dean Kremer;/players/k/kremede01.shtml;P
+Rangers
+1;Marcus Semien;/players/s/semiema01.shtml;2B
+2;Corey Seager;/players/s/seageco01.shtml;SS
+3;Mitch Garver;/players/g/garvemi01.shtml;DH
+4;Adolis García;/players/g/garciad02.shtml;RF
+5;Evan Carter;/players/c/carteev01.shtml;LF
+6;Jonah Heim;/players/h/heimjo01.shtml;C
+7;Nathaniel Lowe;/players/l/lowena01.shtml;1B
+8;Josh Jung;/players/j/jungjo01.shtml;3B
+9;Leody Taveras;/players/t/taverle01.shtml;CF
+; Nathan Eovaldi;/players/e/eovalna01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+b2;1-0;2;123;2,(0-1) CX;RR;TEX;Mitch Garver;Dean Kremer;15%;82%;Double to SS (Ground Ball); Jung Scores; Semien Scores; Seager to 3B
+b2;3-0;2;-23;4,(1-2) BSF.X;RRR;TEX;Adolis García;Dean Kremer;12%;94%;Home Run (Fly Ball to Deep LF-CF); Seager Scores; Garver Scores
+b1;0-0;1;---;3,(1-1) FBX;R;TEX;Corey Seager;Dean Kremer;10%;62%;Home Run (Fly Ball to Deep RF)
+b1;1-0;2;12-;4,(2-1) *BBSX;O;TEX;Jonah Heim;Dean Kremer;-4%;60%;Flyball: CF (Deep CF)
+b2;1-0;2;1--;5,(2-2) SCB1BX;;TEX;Marcus Semien;Dean Kremer;3%;66%;Double to LF (Ground Ball); Jung to 3B
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Orioles Batting, Tied 0-0, Rangers' Nathan Eovaldi facing 1-2-3 
+t1;0-0;0;---;3,(2-0) BBX;O;BAL;Gunnar Henderson;Nathan Eovaldi;2%;52%;Flyball: CF (Deep CF)
+t1;0-0;1;---;4,(1-2) CFB*S;O;BAL;Adley Rutschman;Nathan Eovaldi;2%;54%;Strikeout Swinging
+t1;0-0;2;---;1,(0-0) X;;BAL;Anthony Santander;Nathan Eovaldi;-1%;53%;Single to CF (Line Drive to CF-RF)
+t1;0-0;2;1--;3,(0-2) CFS;O;BAL;Ryan Mountcastle;Nathan Eovaldi;2%;55%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 0, Rangers 0.
+Bottom of the 1st, Rangers Batting, Tied 0-0, Orioles' Dean Kremer facing 1-2-3 
+b1;0-0;0;---;5,(3-1) BBCBX;O;TEX;Marcus Semien;Dean Kremer;-2%;53%;Foul Popfly: 1B
+b1;0-0;1;---;3,(1-1) FBX;R;TEX;Corey Seager;Dean Kremer;10%;62%;Home Run (Fly Ball to Deep RF)
+b1;1-0;1;---;5,(2-2) CFBBX;O;TEX;Mitch Garver;Dean Kremer;-1%;61%;Foul Popfly: C (Behind Home)
+b1;1-0;2;---;3,(0-2) CS.X;;TEX;Adolis García;Dean Kremer;1%;62%;Single to CF (Line Drive to Deep CF)
+b1;1-0;2;1--;2,(1-0) BX;;TEX;Evan Carter;Dean Kremer;2%;64%;Single to LF (Line Drive to LF-CF); García to 2B
+b1;1-0;2;12-;4,(2-1) *BBSX;O;TEX;Jonah Heim;Dean Kremer;-4%;60%;Flyball: CF (Deep CF)
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Orioles 0, Rangers 1.
+Top of the 2nd, Orioles Batting, Behind 0-1, Rangers' Nathan Eovaldi facing 5-6-7 
+t2;0-1;0;---;5,(1-2) CFBFX;O;BAL;Ryan O'Hearn;Nathan Eovaldi;2%;63%;Groundout: P-1B (Short 1B Line)
+t2;0-1;1;---;1,(0-0) X;O;BAL;Austin Hays;Nathan Eovaldi;2%;64%;Groundout: 2B-1B (2B-1B)
+t2;0-1;2;---;3,(0-2) CC.X;O;BAL;Cedric Mullins;Nathan Eovaldi;1%;65%;Groundout: 1B-P
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 0, Rangers 1.
+Bottom of the 2nd, Rangers Batting, Ahead 1-0, Orioles' Dean Kremer facing 7-8-9 
+b2;1-0;0;---;15,(3-2) CCFBBFBFFFFFFFX;O;TEX;Nathaniel Lowe;Dean Kremer;-2%;63%;Lineout: LF
+b2;1-0;1;---;1,(0-0) X;;TEX;Josh Jung;Dean Kremer;2%;66%;Single to LF (Line Drive to Short LF)
+b2;1-0;1;1--;4,(1-2) C*BS.X;O;TEX;Leody Taveras;Dean Kremer;-3%;63%;Foul Popfly: 3B (3B into Foul Terr.)
+b2;1-0;2;1--;5,(2-2) SCB1BX;;TEX;Marcus Semien;Dean Kremer;3%;66%;Double to LF (Ground Ball); Jung to 3B
+b2;1-0;2;-23;,(3-0) VVVV;;TEX;Corey Seager;Dean Kremer;1%;67%;Intentional Walk
+b2;1-0;2;123;2,(0-1) CX;RR;TEX;Mitch Garver;Dean Kremer;15%;82%;Double to SS (Ground Ball); Jung Scores; Semien Scores; Seager to 3B
+b2;3-0;2;-23;4,(1-2) BSF.X;RRR;TEX;Adolis García;Dean Kremer;12%;94%;Home Run (Fly Ball to Deep LF-CF); Seager Scores; Garver Scores
+;;;;;;;;;Tyler Wells replaces Dean Kremer pitching
+b2;6-0;2;---;1,(0-0) .X;O;TEX;Evan Carter;Tyler Wells;0%;94%;Popfly: SS (Deep SS)
+;;;;;;;;;5 runs, 4 hits, 0 errors, 0 LOB. Orioles 0, Rangers 6.
+Top of the 3rd, Orioles Batting, Behind 0-6, Rangers' Nathan Eovaldi facing 8-9-1 
+t3;0-6;0;---;3,(0-2) CCS;O;BAL;Jordan Westburg;Nathan Eovaldi;1%;95%;Strikeout Swinging
+t3;0-6;1;---;3,(0-2) FSX;O;BAL;Adam Frazier;Nathan Eovaldi;1%;95%;Lineout: LF
+t3;0-6;2;---;5,(2-2) FS.BBX;;BAL;Gunnar Henderson;Nathan Eovaldi;0%;95%;Single to CF (Ground Ball thru SS-2B)
+t3;0-6;2;1--;4,(0-2) CSFX;O;BAL;Adley Rutschman;Nathan Eovaldi;1%;96%;Flyball: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 0, Rangers 6.
+Bottom of the 3rd, Rangers Batting, Ahead 6-0, Orioles' Tyler Wells facing 6-7-8 
+b3;6-0;0;---;2,(0-1) CX;;TEX;Jonah Heim;Tyler Wells;1%;96%;Single to CF (Fly Ball to Short LF-CF)
+b3;6-0;0;1--;5,(2-2) BTCBS;O;TEX;Nathaniel Lowe;Tyler Wells;-1%;96%;Strikeout Swinging
+b3;6-0;1;1--;4,(0-2) FFFX;O;TEX;Josh Jung;Tyler Wells;0%;95%;Flyball: CF (Deep CF-RF)
+b3;6-0;2;1--;7,(2-2) FBF.BFFX;O;TEX;Leody Taveras;Tyler Wells;0%;95%;Flyball: LF (Deep LF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 0, Rangers 6.
+Top of the 4th, Orioles Batting, Behind 0-6, Rangers' Nathan Eovaldi facing 3-4-5 
+t4;0-6;0;---;5,(2-2) FFBBX;O;BAL;Anthony Santander;Nathan Eovaldi;1%;96%;Groundout: 1B-P
+t4;0-6;1;---;6,(1-2) SFFBFS;O;BAL;Ryan Mountcastle;Nathan Eovaldi;1%;96%;Strikeout Swinging
+t4;0-6;2;---;2,(1-0) BX;;BAL;Ryan O'Hearn;Nathan Eovaldi;0%;96%;Single to RF (Line Drive)
+t4;0-6;2;1--;3,(0-2) SSS;O;BAL;Austin Hays;Nathan Eovaldi;1%;97%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 0, Rangers 6.
+Bottom of the 4th, Rangers Batting, Ahead 6-0, Orioles' Kyle Gibson facing 1-2-3 
+;;;;;;;;;Kyle Gibson replaces Tyler Wells pitching
+b4;6-0;0;---;5,(3-1) .BBBCX;O;TEX;Marcus Semien;Kyle Gibson;0%;96%;Lineout: 3B
+b4;6-0;1;---;5,(3-1) SBBBB;;TEX;Corey Seager;Kyle Gibson;0%;97%;Walk
+b4;6-0;1;1--;3,(1-1) BSX;OO;TEX;Mitch Garver;Kyle Gibson;-1%;96%;Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 0, Rangers 6.
+Top of the 5th, Orioles Batting, Behind 0-6, Rangers' Nathan Eovaldi facing 7-8-9 
+t5;0-6;0;---;5,(2-2) CF.BBX;O;BAL;Cedric Mullins;Nathan Eovaldi;1%;97%;Lineout: RF (RF Line)
+t5;0-6;1;---;1,(0-0) X;;BAL;Jordan Westburg;Nathan Eovaldi;-1%;96%;Single to LF (Line Drive to Short LF)
+t5;0-6;1;1--;5,(2-2) BBCFX;O;BAL;Adam Frazier;Nathan Eovaldi;1%;97%;Groundout: P-1B (Weak SS-2B); Westburg to 2B
+t5;0-6;2;-2-;2,(0-1) FX;R;BAL;Gunnar Henderson;Nathan Eovaldi;-2%;95%;Single to RF (Line Drive to Short RF); Westburg Scores
+t5;1-6;2;1--;9,(1-2) BFFFFFFF1X;O;BAL;Adley Rutschman;Nathan Eovaldi;1%;96%;Groundout: 2B-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Orioles 1, Rangers 6.
+Bottom of the 5th, Rangers Batting, Ahead 6-1, Orioles' Kyle Gibson facing 4-5-6 
+b5;6-1;0;---;5,(2-2) BBFF.S;O;TEX;Adolis García;Kyle Gibson;0%;96%;Strikeout Swinging
+b5;6-1;1;---;2,(1-0) BX;O;TEX;Evan Carter;Kyle Gibson;0%;95%;Lineout: SS (Deep SS-2B)
+b5;6-1;2;---;3,(2-0) BBX;O;TEX;Jonah Heim;Kyle Gibson;0%;95%;Flyball: CF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 1, Rangers 6.
+Top of the 6th, Orioles Batting, Behind 1-6, Rangers' Nathan Eovaldi facing 3-4-5 
+t6;1-6;0;---;1,(0-0) X;O;BAL;Anthony Santander;Nathan Eovaldi;1%;96%;Lineout: SS (Deep SS)
+t6;1-6;1;---;3,(0-2) CS.X;O;BAL;Ryan Mountcastle;Nathan Eovaldi;1%;97%;Groundout: 1B-P (Weak 2B-1B)
+t6;1-6;2;---;3,(1-1) BCX;O;BAL;Ryan O'Hearn;Nathan Eovaldi;0%;97%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 1, Rangers 6.
+Bottom of the 6th, Rangers Batting, Ahead 6-1, Orioles' Kyle Gibson facing 7-8-9 
+b6;6-1;0;---;3,(1-1) BCX;R;TEX;Nathaniel Lowe;Kyle Gibson;1%;99%;Home Run (Fly Ball to Deep CF-RF)
+b6;7-1;0;---;2,(0-1) CX;O;TEX;Josh Jung;Kyle Gibson;0%;98%;Flyball: CF (Deep LF-CF)
+b6;7-1;1;---;2,(1-0) BX;O;TEX;Leody Taveras;Kyle Gibson;0%;98%;Groundout: 1B-P (Deep 1B)
+b6;7-1;2;---;2,(1-0) BX;O;TEX;Marcus Semien;Kyle Gibson;0%;98%;Flyball: RF (Short RF)
+;;;;;;;;;1 run, 1 hit, 0 errors, 0 LOB. Orioles 1, Rangers 7.
+Top of the 7th, Orioles Batting, Behind 1-7, Rangers' Nathan Eovaldi facing 6-7-8 
+t7;1-7;0;---;6,(3-2) BSBS.BC;O;BAL;Austin Hays;Nathan Eovaldi;1%;99%;Strikeout Looking
+t7;1-7;1;---;1,(0-0) X;O;BAL;Cedric Mullins;Nathan Eovaldi;0%;99%;Flyball: LF (Deep LF Line)
+t7;1-7;2;---;11,(3-2) FSBFBBFFFFS;O;BAL;Jordan Westburg;Nathan Eovaldi;0%;99%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 1, Rangers 7.
+Bottom of the 7th, Rangers Batting, Ahead 7-1, Orioles' DL Hall facing 2-3-4 
+;;;;;;;;;DL Hall replaces Kyle Gibson pitching
+b7;7-1;0;---;3,(2-0) .BBX;O;TEX;Corey Seager;DL Hall;0%;99%;Flyball: LF (LF-CF)
+b7;7-1;1;---;3,(1-1) BCX;;TEX;Mitch Garver;DL Hall;0%;99%;Single to LF (Ground Ball thru SS-3B Hole)
+b7;7-1;1;1--;3,(0-2) CSS;O;TEX;Adolis García;DL Hall;0%;99%;Strikeout Swinging
+b7;7-1;2;1--;8,(3-2) BCBCFB>F>C;O;TEX;Evan Carter;DL Hall;0%;99%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 1, Rangers 7.
+Top of the 8th, Orioles Batting, Behind 1-7, Rangers' Aroldis Chapman facing 9-1-2 
+;;;;;;;;;Aroldis Chapman replaces Nathan Eovaldi pitchingJorge Mateo pinch hits for Adam Frazier (2B) batting 9th
+t8;1-7;0;---;5,(2-2) ..CBS.BS;O;BAL;Jorge Mateo;Aroldis Chapman;0%;100%;Strikeout Swinging
+t8;1-7;1;---;3,(1-1) CBX;;BAL;Gunnar Henderson;Aroldis Chapman;0%;99%;Single to CF (Ground Ball)
+t8;1-7;1;1--;4,(2-1) BB1FX;O;BAL;Adley Rutschman;Aroldis Chapman;0%;100%;Flyball: RF (CF-RF)
+t8;1-7;2;1--;4,(3-0) BBBB;;BAL;Anthony Santander;Aroldis Chapman;0%;99%;Walk; Henderson to 2B
+t8;1-7;2;12-;4,(3-0) BBBB;;BAL;Ryan Mountcastle;Aroldis Chapman;-1%;99%;Walk; Henderson to 3B; Santander to 2B
+;;;;;;;;;José Leclerc replaces Aroldis Chapman pitchingAaron Hicks pinch hits for Ryan O'Hearn (DH) batting 5th
+t8;1-7;2;123;7,(3-2) ..BCSBB>F>X;O;BAL;Aaron Hicks;José Leclerc;1%;100%;Groundout: 1B-P
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Orioles 1, Rangers 7.
+Bottom of the 8th, Rangers Batting, Ahead 7-1, Orioles' DL Hall facing 6-7-8 
+;;;;;;;;;Jordan Westburg moves from 3B to 2B Gunnar Henderson moves from SS to 3B Jorge Mateo moves from PH to SS 
+b8;7-1;0;---;4,(1-2) ....BFS.X;O;TEX;Jonah Heim;DL Hall;0%;100%;Flyball: RF (Deep RF)
+b8;7-1;1;---;7,(3-2) BBBCFFS;O;TEX;Nathaniel Lowe;DL Hall;0%;100%;Strikeout Swinging
+;;;;;;;;;Yennier Cano replaces DL Hall pitching
+b8;7-1;2;---;2,(0-1) .CX;;TEX;Josh Jung;Yennier Cano;0%;100%;Single to 3B (Ground Ball to Weak 3B)
+b8;7-1;2;1--;2,(1-0) BX;O;TEX;Leody Taveras;Yennier Cano;0%;100%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Orioles 1, Rangers 7.
+Top of the 9th, Orioles Batting, Behind 1-7, Rangers' José Leclerc facing 6-7-8 
+t9;1-7;0;---;3,(1-1) FBX;O;BAL;Austin Hays;José Leclerc;0%;100%;Popfly: 3B (Short 3B Line)
+t9;1-7;1;---;1,(0-0) X;O;BAL;Cedric Mullins;José Leclerc;0%;100%;Groundout: 2B-1B (2B-1B)
+t9;1-7;2;---;3,(0-2) SFS;O;BAL;Jordan Westburg;José Leclerc;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Orioles 1, Rangers 7.

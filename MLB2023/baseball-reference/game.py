@@ -33,7 +33,7 @@ from classes import InfoComplete
 
 
 # Especifica la ruta al ejecutable de ChromeDriver
-ruta_chrome_driver = 'C:/Users/yfigueroa/Documents/GitHub/yfsDataBase/NBA2023/chromedriver.exe'  # Sustituye por tu ruta real
+ruta_chrome_driver = 'C:/Users/yfigueroa/Documents/GitHub/yfsDataBase/chromedriver.exe'  # Sustituye por tu ruta real
 # Crea un objeto Service con la ruta del ejecutable
 servicio_chrome = Service(ruta_chrome_driver)
 # Crea una instancia de Chrome WebDriver utilizando el objeto Service
@@ -45,21 +45,30 @@ driver = webdriver.Chrome(service=servicio_chrome)
 link_base           = "https://www.baseball-reference.com"
 # list_game           = ['/boxes/BAL/BAL202308100.shtml','/boxes/CHN/CHN202303300.shtml','/boxes/PIT/PIT202304070.shtml']
 list_game           = [
-'/boxes/ANA/ANA202310010.shtml',
-'/boxes/ARI/ARI202310010.shtml',
-'/boxes/ATL/ATL202310010.shtml',
-'/boxes/BAL/BAL202310010.shtml',
-'/boxes/CHA/CHA202310010.shtml',
-'/boxes/COL/COL202310010.shtml',
-'/boxes/DET/DET202310010.shtml',
-'/boxes/KCA/KCA202310010.shtml',
-'/boxes/MIL/MIL202310010.shtml',
-'/boxes/NYN/NYN202310010.shtml',
-'/boxes/PIT/PIT202310010.shtml',
-'/boxes/SEA/SEA202310010.shtml',
-'/boxes/SFN/SFN202310010.shtml',
-'/boxes/SLN/SLN202310010.shtml',
-'/boxes/TOR/TOR202310010.shtml',
+'/boxes/BAL/BAL202310080.shtml',
+'/boxes/HOU/HOU202310080.shtml',
+'/boxes/ATL/ATL202310090.shtml',
+'/boxes/LAN/LAN202310090.shtml',
+'/boxes/MIN/MIN202310100.shtml',
+'/boxes/TEX/TEX202310100.shtml',
+'/boxes/ARI/ARI202310110.shtml',
+'/boxes/MIN/MIN202310110.shtml',
+'/boxes/PHI/PHI202310110.shtml',
+'/boxes/PHI/PHI202310120.shtml',
+'/boxes/HOU/HOU202310150.shtml',
+'/boxes/HOU/HOU202310160.shtml',
+'/boxes/PHI/PHI202310160.shtml',
+'/boxes/PHI/PHI202310170.shtml',
+'/boxes/TEX/TEX202310180.shtml',
+'/boxes/ARI/ARI202310190.shtml',
+'/boxes/TEX/TEX202310190.shtml',
+'/boxes/ARI/ARI202310200.shtml',
+'/boxes/TEX/TEX202310200.shtml',
+'/boxes/ARI/ARI202310210.shtml',
+'/boxes/HOU/HOU202310220.shtml',
+'/boxes/HOU/HOU202310230.shtml',
+'/boxes/PHI/PHI202310230.shtml',
+'/boxes/PHI/PHI202310240.shtml',
 ]
 day                 = dateInYYYYMMDD()
 

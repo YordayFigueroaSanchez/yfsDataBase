@@ -1,0 +1,277 @@
+
+Scorebox Meta
+20231010
+3:07 p.m. Local
+41017
+Target Field
+190
+
+Boxscore
+https://cdn.ssref.net/req/202310271/tlogo/br/HOU-2023.png;/teams/HOU/2023.shtml;4;0;0;0;1;1;0;0;3;9;14;0
+https://cdn.ssref.net/req/202310271/tlogo/br/MIN-2023.png;/teams/MIN/2023.shtml;0;0;0;0;0;1;0;0;0;1;3;1
+
+Batting home
+Edouard Julien;/players/j/julieed01.shtml;DH;3;0;0;0;2;3;5;.214;.389;.286;.675;21;11;0.049; 0.63;0.079;-0.030; 0.64%;13.26; 0.3;;;
+Jorge Polanco;/players/p/polanjo01.shtml;2B;2;0;0;0;2;1;4;.235;.381;.412;.793;19;9;0.010; 0.99;0.067;-0.058; 0.14%;20.81; 0.2;1;2;
+Max Kepler;/players/k/keplema01.shtml;RF;4;0;1;0;0;2;4;.263;.300;.368;.668;16;14;-0.029; 1.25;0.068;-0.097;-0.38%;26.20; -0.5;3;0;2B
+Royce Lewis;/players/l/lewisro02.shtml;3B;4;0;0;0;0;2;4;.211;.318;.684;1.002;10;9;-0.155; 1.23;0.000;-0.155;-2.07%;25.83; -2.3;1;2;
+Carlos Correa;/players/c/correca01.shtml;SS;4;1;1;0;0;1;4;.474;.524;.632;1.155;12;9;-0.057; 0.71;0.014;-0.072;-0.77%;14.85; -0.6;2;0;
+Alex Kirilloff;/players/k/kirilal01.shtml;1B;2;0;0;0;0;1;2;.000;.182;.000;.182;5;4;-0.032; 0.64;0.000;-0.032;-0.43%;13.29; -0.4;4;1;
+Donovan Solano;/players/s/solando01.shtml;PH-1B;2;0;0;0;0;1;2;.143;.400;.143;.543;9;6;-0.016; 0.34;0.000;-0.016;-0.21%; 7.00; -0.5;1;0;
+Matt Wallner;/players/w/wallnma01.shtml;LF;2;0;0;0;2;2;4;.000;.333;.000;.333;23;12;-0.005; 0.30;0.016;-0.021;-0.07%; 6.38; 0.5;2;0;
+Willi Castro;/players/c/castrwi01.shtml;CF;3;0;1;1;1;0;4;.250;.357;.250;.607;13;8;0.050; 0.42;0.059;-0.009; 0.66%; 8.73; 0.9;1;0;
+Ryan Jeffers;/players/j/jeffery01.shtml;C;3;0;0;0;0;1;4;.125;.300;.125;.425;18;11;-0.041; 0.75;0.033;-0.074;-0.54%;15.74; -1.2;12;0;HBP,GDP
+Sonny Gray;/players/g/grayso01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;1;
+Emilio Pagán;/players/p/paganem01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kenta Maeda;/players/m/maedake01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bailey Ober;/players/o/oberba01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Griffin Jax;/players/j/jaxgr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Max Kepler (2, off Cristian Javier).
+
+
+HBP: Ryan Jeffers (2, by Cristian Javier).
+
+
+TB: Max Kepler 2; Willi Castro; Carlos Correa.
+
+
+GIDP: Ryan Jeffers (1).
+
+
+RBI: Willi Castro (1).
+
+
+Team LOB: 9.
+With RISP: 1 for 9.
+
+Batting away
+Jose Altuve;/players/a/altuvjo01.shtml;2B;5;1;1;0;0;2;5;.308;.308;.538;.846;17;14;-0.003; 0.41;0.035;-0.038;-0.04%; 8.66; -1.2;1;2;
+Alex Bregman;/players/b/bregmal01.shtml;3B;5;1;2;2;0;2;5;.273;.385;.545;.930;18;13;0.001; 0.55;0.052;-0.051;0%;11.42; 0.8;1;0;HR
+Yordan Alvarez;/players/a/alvaryo01.shtml;LF;5;2;3;1;0;0;5;.500;.538;1.667;2.205;17;15;0.123; 0.38;0.127;-0.004; 1.66%; 7.99; 2.7;2;0;HR,2·2B
+Chas McCormick;/players/m/mccorch01.shtml;LF;0;0;0;0;0;0;0;.250;.250;.250;.500;;;;;;;;;;0;0;
+Kyle Tucker;/players/t/tuckeky01.shtml;RF;3;2;1;1;2;0;5;.200;.385;.300;.685;21;9;0.066; 0.49;0.076;-0.010; 0.87%;10.29; 0.8;1;0;
+José Abreu;/players/a/abreujo02.shtml;1B;5;2;2;5;0;2;5;.250;.308;.750;1.058;23;19;0.122; 0.55;0.164;-0.041; 1.64%;11.46; 2.3;3;1;2·HR
+Yainer Diaz;/players/d/diazya02.shtml;DH;5;0;0;0;0;4;5;.000;.000;.000;.000;19;15;-0.037; 0.29;0.000;-0.037;-0.51%; 6.03; -1.4;;;
+Mauricio Dubón;/players/d/dubonma01.shtml;CF;5;0;2;0;0;1;5;.400;.400;.400;.800;10;10;-0.003; 0.20;0.014;-0.017;-0.04%; 4.27; -0.0;2;0;
+Jeremy Peña;/players/p/penaje02.shtml;SS;4;1;1;0;1;0;5;.333;.385;.417;.801;24;15;0.007; 0.25;0.022;-0.015; 0.08%; 5.15; -0.1;1;2;
+Martín Maldonado;/players/m/maldoma01.shtml;C;4;0;2;0;0;1;5;.222;.300;.222;.522;20;12;-0.001; 0.28;0.018;-0.019;-0.01%; 5.90; 0.5;15;0;SH
+Cristian Javier;/players/j/javiecr01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Hunter Brown;/players/b/brownhu01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Bryan Abreu;/players/a/abreubr01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Phil Maton;/players/m/matonph01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Rafael Montero;/players/m/montera01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Yordan Alvarez 2 (2, 2 off Sonny Gray).
+
+
+HR: José Abreu 2 (2, 1 off Bailey Ober, 9th inn, 1 on, 0 outs to Deep LF, 1 off Sonny Gray, 1st inn, 2 on, 1 out to Deep LF); Alex Bregman (1, off Sonny Gray, 5th inn, 0 on, 0 outs to Deep LF Line); Yordan Alvarez (4, off Bailey Ober, 9th inn, 0 on, 0 outs to Deep RF Line).
+
+
+SH: Martín Maldonado (1, off Sonny Gray).
+
+
+TB: José Abreu 8; Yordan Alvarez 8; Alex Bregman 5; Martín Maldonado 2; Mauricio Dubón 2; Jeremy Peña; Kyle Tucker; Jose Altuve.
+
+
+RBI: José Abreu 5 (6); Alex Bregman 2 (2); Yordan Alvarez (6); Kyle Tucker (1).
+
+
+Team LOB: 9.
+With RISP: 3 for 14.
+
+Pitching home
+Sonny Gray;/players/g/grayso01.shtml; L (1-1); 4 ;8;5;4;1;6;2;4.00;22;83;57;34;6;17;8;7;2;0;33;;;-0.296; 0.63;-3.94%;13.24; -3.9
+Emilio Pagán;/players/p/paganem01.shtml;Emilio Pagán; 1 ;0;0;0;0;1;0;0.00;3;14;13;10;2;1;0;2;0;0;;2;0;0.031; 0.39; 0.42%; 8.16; 1.5
+Kenta Maeda;/players/m/maedake01.shtml;Kenta Maeda; 2 ;2;1;1;1;2;0;6.75;9;25;19;12;3;4;3;3;3;0;;0;0;-0.008; 0.18;-0.11%; 3.70; 0.0
+Bailey Ober;/players/o/oberba01.shtml;Bailey Ober; 1.1;4;3;3;1;2;2;12.46;9;38;27;15;6;6;0;6;2;0;;0;0;-0.002; 0.04;-0.02%; 0.74; -2.5
+Griffin Jax;/players/j/jaxgr01.shtml;Griffin Jax; 0.2;0;0;0;0;1;0;0.00;2;9;6;4;2;0;0;1;0;0;;1;0;0.000; 0.00; 0.00%; 0.00; 0.5
+
+Pitching away
+Cristian Javier;/players/j/javiecr01.shtml; W (1-0); 5 ;1;0;0;5;9;0;0.00;22;87;53;22;16;15;3;4;1;0;69;;;0.187; 1.04; 2.52%;21.83; 2.6
+Hunter Brown;/players/b/brownhu01.shtml;Hunter Brown; 1 ;2;1;1;1;0;0;4.50;5;22;13;6;0;7;2;2;1;0;;0;0;0.000; 0.67; 0.01%;14.01; -0.5
+Bryan Abreu;/players/a/abreubr01.shtml;Bryan Abreu; 1 ;0;0;0;0;2;0;0.00;3;12;10;5;3;2;1;0;0;0;;0;0;0.021; 0.27; 0.28%; 5.65; 0.5
+Phil Maton;/players/m/matonph01.shtml;Phil Maton; 1 ;0;0;0;0;1;0;0.00;3;10;7;2;2;3;0;2;2;0;;0;0;0.015; 0.20; 0.21%; 4.18; 0.5
+Rafael Montero;/players/m/montera01.shtml;Rafael Montero; 1 ;0;0;0;1;2;0;0.00;4;15;10;3;4;3;0;1;0;0;;0;0;0.001; 0.01; 0.01%; 0.32; 0.5
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: Cristian Javier (1; Ryan Jeffers).
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: Cristian Javier (1; Ryan Jeffers).
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Bill Miller, 1B - Jansen Visconti, 2B - John Tumpane, 3B - Roberto Ortiz, LF - Brian Knight, RF - D.J. Reyburn.
+Time of Game: 3:10.
+Attendance: 41,017.
+Field Condition: Unknown.
+Start Time Weather: 54° F, Wind 5mph out to Centerfield, Sunny, No Precipitation.
+
+div_lineups
+Astros
+1;Jose Altuve;/players/a/altuvjo01.shtml;2B
+2;Alex Bregman;/players/b/bregmal01.shtml;3B
+3;Yordan Alvarez;/players/a/alvaryo01.shtml;LF
+4;Kyle Tucker;/players/t/tuckeky01.shtml;RF
+5;José Abreu;/players/a/abreujo02.shtml;1B
+6;Yainer Diaz;/players/d/diazya02.shtml;DH
+7;Mauricio Dubón;/players/d/dubonma01.shtml;CF
+8;Jeremy Peña;/players/p/penaje02.shtml;SS
+9;Martín Maldonado;/players/m/maldoma01.shtml;C
+; Cristian Javier;/players/j/javiecr01.shtml;P
+Twins
+1;Edouard Julien;/players/j/julieed01.shtml;DH
+2;Jorge Polanco;/players/p/polanjo01.shtml;2B
+3;Max Kepler;/players/k/keplema01.shtml;RF
+4;Royce Lewis;/players/l/lewisro02.shtml;3B
+5;Carlos Correa;/players/c/correca01.shtml;SS
+6;Alex Kirilloff;/players/k/kirilal01.shtml;1B
+7;Matt Wallner;/players/w/wallnma01.shtml;LF
+8;Willi Castro;/players/c/castrwi01.shtml;CF
+9;Ryan Jeffers;/players/j/jeffery01.shtml;C
+; Sonny Gray;/players/g/grayso01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t1;1-0;1;1-3;4,(2-1) BCBX;RRR;HOU;José Abreu;Sonny Gray;16%;82%;Home Run (Fly Ball to Deep LF); Alvarez Scores/unER; Tucker Scores
+t1;0-0;1;1--;1,(0-0) X;;HOU;Yordan Alvarez;Sonny Gray;8%;58%;Reached on E3 (Ground Ball to Short RF Line); Altuve to 3B; Alvarez to 2B
+t1;0-0;1;-23;3,(1-1) BCX;R;HOU;Kyle Tucker;Sonny Gray;7%;65%;Single to LF (Ground Ball); Altuve Scores; Alvarez to 3B
+b1;0-4;1;1--;3,(0-2) CSX;;MIN;Max Kepler;Cristian Javier;-7%;73%;Double to RF (Fly Ball to Deep RF); Polanco to 3B
+b1;0-4;1;-23;3,(0-2) SSS;O;MIN;Royce Lewis;Cristian Javier;6%;80%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Astros Batting, Tied 0-0, Twins' Sonny Gray facing 1-2-3 
+t1;0-0;0;---;4,(1-2) CCBX;;HOU;Jose Altuve;Sonny Gray;4%;54%;Single to CF (Ground Ball thru SS-2B)
+t1;0-0;0;1--;6,(2-2) BFBFFC;O;HOU;Alex Bregman;Sonny Gray;-3%;50%;Strikeout Looking
+t1;0-0;1;1--;1,(0-0) X;;HOU;Yordan Alvarez;Sonny Gray;8%;58%;Reached on E3 (Ground Ball to Short RF Line); Altuve to 3B; Alvarez to 2B
+t1;0-0;1;-23;3,(1-1) BCX;R;HOU;Kyle Tucker;Sonny Gray;7%;65%;Single to LF (Ground Ball); Altuve Scores; Alvarez to 3B
+t1;1-0;1;1-3;4,(2-1) BCBX;RRR;HOU;José Abreu;Sonny Gray;16%;82%;Home Run (Fly Ball to Deep LF); Alvarez Scores/unER; Tucker Scores
+t1;4-0;1;---;4,(0-2) FC.FC;O;HOU;Yainer Diaz;Sonny Gray;-1%;81%;Strikeout Looking
+t1;4-0;2;---;2,(0-1) SX;O;HOU;Mauricio Dubón;Sonny Gray;-1%;80%;Popfly: 3B (Weak SS)
+;;;;;;;;;4 runs, 3 hits, 1 error, 0 LOB. Astros 4, Twins 0.
+Bottom of the 1st, Twins Batting, Behind 0-4, Astros' Cristian Javier facing 1-2-3 
+b1;0-4;0;---;5,(2-2) BFFBC;O;MIN;Edouard Julien;Cristian Javier;2%;82%;Strikeout Looking
+b1;0-4;1;---;6,(3-2) SF.BBBB;;MIN;Jorge Polanco;Cristian Javier;-2%;80%;Walk
+b1;0-4;1;1--;3,(0-2) CSX;;MIN;Max Kepler;Cristian Javier;-7%;73%;Double to RF (Fly Ball to Deep RF); Polanco to 3B
+b1;0-4;1;-23;3,(0-2) SSS;O;MIN;Royce Lewis;Cristian Javier;6%;80%;Strikeout Swinging
+b1;0-4;2;-23;4,(1-2) CBS.S;O;MIN;Carlos Correa;Cristian Javier;5%;84%;Strikeout Swinging
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Astros 4, Twins 0.
+Top of the 2nd, Astros Batting, Ahead 4-0, Twins' Sonny Gray facing 8-9-1 
+t2;4-0;0;---;5,(2-2) SFBBX;;HOU;Jeremy Peña;Sonny Gray;2%;86%;Single to CF (Ground Ball thru SS-2B)
+t2;4-0;0;1--;2,(0-1) CX;O;HOU;Martín Maldonado;Sonny Gray;-1%;85%;Bunt Groundout: P-1B/Sacrifice; Peña to 2B
+t2;4-0;1;-2-;3,(0-2) FFC;O;HOU;Jose Altuve;Sonny Gray;-2%;83%;Strikeout Looking
+t2;4-0;2;-2-;1,(0-0) X;O;HOU;Alex Bregman;Sonny Gray;-2%;82%;Groundout: 3B-1B (SS-3B Hole)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 4, Twins 0.
+Bottom of the 2nd, Twins Batting, Behind 0-4, Astros' Cristian Javier facing 6-7-8 
+b2;0-4;0;---;3,(0-2) FFS;O;MIN;Alex Kirilloff;Cristian Javier;2%;84%;Strikeout Swinging
+b2;0-4;1;---;5,(1-2) BSSFT;O;MIN;Matt Wallner;Cristian Javier;1%;85%;Strikeout Swinging
+b2;0-4;2;---;2,(0-1) FX;O;MIN;Willi Castro;Cristian Javier;1%;86%;Foul Bunt Popfly: C (Behind Home)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 4, Twins 0.
+Top of the 3rd, Astros Batting, Ahead 4-0, Twins' Sonny Gray facing 3-4-5 
+t3;4-0;0;---;3,(0-2) CCX;;HOU;Yordan Alvarez;Sonny Gray;3%;89%;Double to RF (Ground Ball)
+t3;4-0;0;-2-;5,(3-1) BFBBX;O;HOU;Kyle Tucker;Sonny Gray;0%;88%;Groundout: 2B-1B (2B-1B); Alvarez to 3B
+t3;4-0;1;--3;4,(0-2) CFFS;O;HOU;José Abreu;Sonny Gray;-3%;85%;Strikeout Swinging
+t3;4-0;2;--3;7,(3-2) FF.*B*BFBC;O;HOU;Yainer Diaz;Sonny Gray;-2%;84%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 4, Twins 0.
+Bottom of the 3rd, Twins Batting, Behind 0-4, Astros' Cristian Javier facing 9-1-2 
+b3;0-4;0;---;5,(2-2) FBBCH;;MIN;Ryan Jeffers;Cristian Javier;-3%;80%;Hit By Pitch
+b3;0-4;0;1--;5,(3-1) CBBBB;;MIN;Edouard Julien;Cristian Javier;-5%;75%;Walk; Jeffers to 2B
+b3;0-4;0;12-;5,(2-2) C*BBST;O;MIN;Jorge Polanco;Cristian Javier;5%;80%;Strikeout Swinging
+b3;0-4;1;12-;3,(0-2) CCX;O;MIN;Max Kepler;Cristian Javier;4%;84%;Flyball: LF (Short LF)
+b3;0-4;2;12-;1,(0-0) X;O;MIN;Royce Lewis;Cristian Javier;4%;88%;Lineout: LF
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Astros 4, Twins 0.
+Top of the 4th, Astros Batting, Ahead 4-0, Twins' Sonny Gray facing 7-8-9 
+t4;4-0;0;---;3,(0-2) SFX;;HOU;Mauricio Dubón;Sonny Gray;1%;89%;Single to LF (Line Drive to Deep LF-CF)
+t4;4-0;0;1--;4,(2-1) FBBX;O;HOU;Jeremy Peña;Sonny Gray;-1%;88%;Flyball: RF (Short RF)
+t4;4-0;1;1--;5,(3-1) BB1FBX;O;HOU;Martín Maldonado;Sonny Gray;-1%;87%;Flyball: RF (Short RF)
+t4;4-0;2;1--;6,(2-2) S1BC>FBC;O;HOU;Jose Altuve;Sonny Gray;-1%;86%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 4, Twins 0.
+Bottom of the 4th, Twins Batting, Behind 0-4, Astros' Cristian Javier facing 5-6-7 
+b4;0-4;0;---;1,(0-0) X;O;MIN;Carlos Correa;Cristian Javier;2%;88%;Groundout: SS-1B (SS-2B)
+b4;0-4;1;---;2,(1-0) BX;O;MIN;Alex Kirilloff;Cristian Javier;1%;89%;Groundout: 2B-1B
+b4;0-4;2;---;5,(2-2) BBCST;O;MIN;Matt Wallner;Cristian Javier;1%;90%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 4, Twins 0.
+Top of the 5th, Astros Batting, Ahead 4-0, Twins' Sonny Gray facing 2-3-4 
+t5;4-0;0;---;3,(1-1) CBX;R;HOU;Alex Bregman;Sonny Gray;4%;94%;Home Run (Fly Ball to Deep LF Line)
+t5;5-0;0;---;3,(0-2) FSX;;HOU;Yordan Alvarez;Sonny Gray;1%;95%;Double to RF (Line Drive to Deep RF Line)
+t5;5-0;0;-2-;5,(3-1) CBBBB;;HOU;Kyle Tucker;Sonny Gray;0%;96%;Walk
+;;;;;;;;;Emilio Pagán replaces Sonny Gray pitching
+t5;5-0;0;12-;10,(1-2) .CF.FFFFFBFX;O;HOU;José Abreu;Emilio Pagán;-1%;94%;Popfly: 2B (2B-1B)
+t5;5-0;1;12-;3,(0-2) SFS;O;HOU;Yainer Diaz;Emilio Pagán;-1%;93%;Strikeout Swinging
+t5;5-0;2;12-;1,(0-0) X;O;HOU;Mauricio Dubón;Emilio Pagán;-1%;92%;Flyball: LF (LF-CF)
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Astros 5, Twins 0.
+Bottom of the 5th, Twins Batting, Behind 0-5, Astros' Cristian Javier facing 8-9-1 
+b5;0-5;0;---;6,(3-2) CC.BBBB;;MIN;Willi Castro;Cristian Javier;-2%;90%;Walk
+b5;0-5;0;1--;5,(1-2) SBCF>X;O;MIN;Ryan Jeffers;Cristian Javier;2%;92%;Flyball: CF (Deep CF)
+b5;0-5;1;1--;5,(3-1) BB>FB1B;;MIN;Edouard Julien;Cristian Javier;-3%;90%;Walk; Castro to 2B
+b5;0-5;1;12-;6,(3-2) BSCB*BB;;MIN;Jorge Polanco;Cristian Javier;-5%;85%;Walk; Castro to 3B; Julien to 2B
+b5;0-5;1;123;3,(0-2) FFC;O;MIN;Max Kepler;Cristian Javier;5%;90%;Strikeout Looking
+b5;0-5;2;123;4,(1-2) CBS.*S;O;MIN;Royce Lewis;Cristian Javier;5%;95%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 3 LOB. Astros 5, Twins 0.
+Top of the 6th, Astros Batting, Ahead 5-0, Twins' Kenta Maeda facing 8-9-1 
+;;;;;;;;;Kenta Maeda replaces Emilio Pagán pitching
+t6;5-0;0;---;8,(3-2) .BBCS.BFFB;;HOU;Jeremy Peña;Kenta Maeda;1%;96%;Walk
+t6;5-0;0;1--;2,(0-1) S>X;;HOU;Martín Maldonado;Kenta Maeda;2%;97%;Single to 3B (Line Drive to Deep SS-3B Hole); Peña to 3B
+t6;5-0;0;1-3;2,(0-1) TX;O;HOU;Jose Altuve;Kenta Maeda;-1%;96%;Lineout: SS (Deep SS)
+t6;5-0;1;1-3;3,(1-1) BCX;R;HOU;Alex Bregman;Kenta Maeda;1%;98%;Single to CF (Line Drive to Deep CF); Peña Scores; Maldonado to 2B
+t6;6-0;1;12-;1,(0-0) X;O;HOU;Yordan Alvarez;Kenta Maeda;0%;97%;Groundout: 1B-SS/Forceout at 2B; Maldonado to 3B; Alvarez to 1B
+t6;6-0;2;1-3;1,(0-0) X;O;HOU;Kyle Tucker;Kenta Maeda;-1%;97%;Groundout: 2B-1B
+;;;;;;;;;1 run, 2 hits, 0 errors, 2 LOB. Astros 6, Twins 0.
+Bottom of the 6th, Twins Batting, Behind 0-6, Astros' Hunter Brown facing 5-6-7 
+;;;;;;;;;Hunter Brown replaces Cristian Javier pitching
+b6;0-6;0;---;4,(1-2) .CBCX;;MIN;Carlos Correa;Hunter Brown;-1%;95%;Single to CF (Ground Ball)
+;;;;;;;;;Donovan Solano pinch hits for Alex Kirilloff (1B) batting 6th
+b6;0-6;0;1--;4,(1-2) .C*BCX;O;MIN;Donovan Solano;Hunter Brown;1%;97%;Flyball: RF (Short RF)
+b6;0-6;1;1--;7,(3-2) CBCF.BBB;;MIN;Matt Wallner;Hunter Brown;-2%;95%;Walk; Correa to 2B
+b6;0-6;1;12-;3,(1-1) FBX;R;MIN;Willi Castro;Hunter Brown;-3%;92%;Single to RF (Line Drive); Correa Scores; Wallner to 2B
+b6;1-6;1;12-;4,(2-1) CBBX;OO;MIN;Ryan Jeffers;Hunter Brown;5%;97%;Ground Ball Double Play: SS-2B-1B (SS-2B)
+;;;;;;;;;1 run, 2 hits, 0 errors, 1 LOB. Astros 6, Twins 1.
+Top of the 7th, Astros Batting, Ahead 6-1, Twins' Kenta Maeda facing 5-6-7 
+;;;;;;;;;Donovan Solano moves from PH to 1B 
+t7;6-1;0;---;3,(0-2) .CFS;O;HOU;José Abreu;Kenta Maeda;0%;96%;Strikeout Swinging
+t7;6-1;1;---;2,(1-0) BX;O;HOU;Yainer Diaz;Kenta Maeda;0%;96%;Groundout: 3B-1B
+t7;6-1;2;---;3,(0-2) CFT;O;HOU;Mauricio Dubón;Kenta Maeda;0%;96%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 6, Twins 1.
+Bottom of the 7th, Twins Batting, Behind 1-6, Astros' Bryan Abreu facing 1-2-3 
+;;;;;;;;;Bryan Abreu replaces Hunter Brown pitching
+b7;1-6;0;---;3,(0-2) .FSC;O;MIN;Edouard Julien;Bryan Abreu;1%;97%;Strikeout Looking
+b7;1-6;1;---;2,(0-1) CX;O;MIN;Jorge Polanco;Bryan Abreu;1%;98%;Groundout: 1B-P
+b7;1-6;2;---;7,(2-2) FS.FBFBS;O;MIN;Max Kepler;Bryan Abreu;0%;98%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 6, Twins 1.
+Top of the 8th, Astros Batting, Ahead 6-1, Twins' Bailey Ober facing 8-9-1 
+;;;;;;;;;Bailey Ober replaces Kenta Maeda pitching
+t8;6-1;0;---;3,(0-2) .FS.X;O;HOU;Jeremy Peña;Bailey Ober;0%;98%;Flyball: CF (Deep CF)
+t8;6-1;1;---;6,(3-2) SBS.BBX;;HOU;Martín Maldonado;Bailey Ober;0%;98%;Single to LF (Line Drive to Deep LF Line)
+t8;6-1;1;1--;2,(0-1) CX;O;HOU;Jose Altuve;Bailey Ober;0%;98%;Flyball: LF (Short LF)
+t8;6-1;2;1--;5,(1-2) CF.BFC;O;HOU;Alex Bregman;Bailey Ober;0%;98%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Astros 6, Twins 1.
+Bottom of the 8th, Twins Batting, Behind 1-6, Astros' Phil Maton facing 4-5-6 
+;;;;;;;;;Phil Maton replaces Bryan Abreu pitching
+b8;1-6;0;---;2,(0-1) .SX;O;MIN;Royce Lewis;Phil Maton;1%;99%;Lineout: SS (Deep SS)
+b8;1-6;1;---;3,(1-1) BCX;O;MIN;Carlos Correa;Phil Maton;0%;99%;Lineout: CF (Deep CF-RF)
+b8;1-6;2;---;5,(2-2) BBCSC;O;MIN;Donovan Solano;Phil Maton;0%;99%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Astros 6, Twins 1.
+Top of the 9th, Astros Batting, Ahead 6-1, Twins' Bailey Ober facing 3-4-5 
+t9;6-1;0;---;9,(2-2) FCBFBFFFX;R;HOU;Yordan Alvarez;Bailey Ober;0%;100%;Home Run (Fly Ball to Deep RF Line)
+t9;7-1;0;---;7,(3-2) CBBSFB*B;;HOU;Kyle Tucker;Bailey Ober;0%;100%;Walk
+t9;7-1;0;1--;2,(1-0) BX;RR;HOU;José Abreu;Bailey Ober;0%;100%;Home Run (Fly Ball to Deep LF); Tucker Scores
+t9;9-1;0;---;3,(0-2) CSS;O;HOU;Yainer Diaz;Bailey Ober;0%;100%;Strikeout Swinging
+t9;9-1;1;---;1,(0-0) X;;HOU;Mauricio Dubón;Bailey Ober;0%;100%;Single to CF (Line Drive to Deep CF)
+;;;;;;;;;Griffin Jax replaces Bailey Ober pitching
+t9;9-1;1;1--;4,(1-2) .SFBX;O;HOU;Jeremy Peña;Griffin Jax;0%;100%;Flyball: RF (Deep RF)
+t9;9-1;2;1--;5,(2-2) BBFFS;O;HOU;Martín Maldonado;Griffin Jax;0%;100%;Strikeout Swinging
+;;;;;;;;;3 runs, 3 hits, 0 errors, 1 LOB. Astros 9, Twins 1.
+Bottom of the 9th, Twins Batting, Behind 1-9, Astros' Rafael Montero facing 7-8-9 
+;;;;;;;;;Rafael Montero replaces Phil Maton pitchingChas McCormick replaces Yordan Alvarez playing LF batting 3rd
+b9;1-9;0;---;6,(3-2) ..BBBCS.B;;MIN;Matt Wallner;Rafael Montero;0%;100%;Walk
+b9;1-9;0;1--;2,(0-1) CX;O;MIN;Willi Castro;Rafael Montero;0%;100%;Popfly: 3B (SS-3B Hole)
+b9;1-9;1;1--;4,(1-2) FBFC;O;MIN;Ryan Jeffers;Rafael Montero;0%;100%;Strikeout Looking
+b9;1-9;2;1--;3,(0-2) SS>S;O;MIN;Edouard Julien;Rafael Montero;0%;100%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Astros 9, Twins 1.
