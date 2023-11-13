@@ -2,6 +2,7 @@ import datetime
 import os
 import re
 from classes import FifaWorldCupTeamPlayer
+from classes import FifaWorldCupGoal
 
 def lastStrInUrlBeforeDot(paramUrl):
     elementos = paramUrl.split("/")
@@ -17,7 +18,6 @@ def lastStrInUrlBeforeDot2(paramUrl):
     # Dividir el último elemento por el punto (.) para separar el nombre de la extensión
     # nombre_archivo, extension = ultimo_elemento.split(".")
     return ultimo_elemento
-
 def transform_date(date_str):
     # Definimos los formatos de entrada y salida de la fecha
     input_format = "%a, %b %d, %Y"
@@ -31,7 +31,6 @@ def transform_date(date_str):
         return transformed_date
     except ValueError:
         return date_str
-    
 def dateInYYYYMMDD_MMSS():
     # Obtener la fecha actual
     fecha_actual = datetime.datetime.now()
@@ -42,16 +41,13 @@ def dateInYYYYMMDD_MMSS():
     # Combinar la fecha y la hora con _
     fecha_resultante = fecha_formateada + "_" + hora_formateada
     return fecha_resultante
-
 def dateInYYYYMMDD():
     fecha_actual = datetime.datetime.now()
     # Formatear la fecha en AAAAMMDD
     return fecha_actual.strftime("%Y%m%d")
-
 def dateInHHMM():
     fecha_actual = datetime.datetime.now()
     return fecha_actual.strftime("%H%M")
-    
 def createDirectory(nameDirectory):
     # Obtener la ruta absoluta del directorio actual
     directory_current = os.path.abspath(os.path.dirname(__file__))
@@ -60,14 +56,12 @@ def createDirectory(nameDirectory):
     if not os.path.exists(path_directory):
         os.makedirs(path_directory)
     return path_directory
-
 def createDirectoryInPath(currentDirectory, directory):
     path_directory = os.path.join(currentDirectory, directory)
     # Comprobar si el directorio existe, si no, crearlo
     if not os.path.exists(path_directory):
         os.makedirs(path_directory)
     return path_directory
-
 def createDirectoryAndSubdirectory(nameParentDirectory,nameChildDirectory):
     # Obtener la ruta absoluta del directorio actual
     directory_current = os.path.abspath(os.path.dirname(__file__))
@@ -80,7 +74,6 @@ def createDirectoryAndSubdirectory(nameParentDirectory,nameChildDirectory):
     if not os.path.exists(path_nameChildDirectory):
         os.makedirs(path_nameChildDirectory)
     return path_nameChildDirectory
-
 def extract_linescore_wrap(page,baseballGame):
     dataTable = []
     div_linescore_wrap = page.find('div', class_='linescore_wrap')
@@ -136,14 +129,12 @@ def extract_linescore_wrap(page,baseballGame):
             
         dataTable.append(dataTableRow)
     return dataTable
-
 def dateTo_YYYYMMDD(date_string ):
     input_format = "%A, %B %d, %Y"
     parsed_date = datetime.datetime.strptime(date_string, input_format)
     output_format = "%Y%m%d"
     formatted_date = parsed_date.strftime(output_format)
     return formatted_date
-
 def extractSubStr(completeStr,subStr):
     posicion = completeStr.find(subStr)
     if posicion != -1:
@@ -151,12 +142,10 @@ def extractSubStr(completeStr,subStr):
     else:
         subcadena_encontrada = ""
     return subcadena_encontrada
-
 def strTotalMinutes(paramStr):
     horas, minutos = map(int, paramStr.split(":"))
     total_minutos = horas * 60 + minutos
     return total_minutos
-
 def extract_scorebox_meta(page,gameTemp):
     dataTable = []
     div = page.find('div', class_='scorebox_meta')
@@ -217,7 +206,6 @@ def extract_scorebox_meta(page,gameTemp):
     else:
         print("No se encontró ningún fragmento con el patrón proporcionado.")
     return dataTable
-
 def substr_from_last_space(texto):
     ultimo_espacio = texto.rfind(" ")
     
@@ -226,7 +214,6 @@ def substr_from_last_space(texto):
         return subcadena
     else:
         return texto
-
 def substr_from_last_coma(texto):
     ultimo_espacio = texto.rfind(",")
     
@@ -235,7 +222,6 @@ def substr_from_last_coma(texto):
         return subcadena
     else:
         return texto
-
 def extract_Details(batter, details):
     arr_details = details.split(",")
     for current_details in arr_details:
@@ -253,7 +239,6 @@ def extract_Details(batter, details):
             batter.CS = element_amount
         elif 'SB' in current_details:
             batter.SB = element_amount
-
 def extract_players(page,gameParam,status):
     dataTable = []
     if status == 'home':
@@ -380,145 +365,29 @@ def extract_goals(page,gameParam):
         print(divs_temp[0].text.strip().split('’')[0])
         print(divs_temp[0].find('span').text)
         print(lastStrInUrlBeforeDot2(divs_temp[4].find('a')['href']))
+        goal_new = FifaWorldCupGoal()
+        goal_new.minute = divs_temp[0].text.strip().split('’')[0]
+        goal_new.result = divs_temp[0].find('span').text
+        gameParam.home_team.add_goal(lastStrInUrlBeforeDot2(divs_temp[4].find('a')['href']),goal_new)
     print(len(div_goals_b))
-    # for element_b in div_goals_b:
+    for element_b in div_goals_b:
     #     print(element_b)
+        # print(element_a)
+        divs_temp = element_b.find_all('div')
+        # print(len(divs_temp))
+        # for index,div_temp in enumerate(divs_temp):
+        #     print(index)
+        #     print(div_temp)
+        print(divs_temp[0].text.strip().split('’')[0])
+        print(divs_temp[0].find('span').text)
+        print(lastStrInUrlBeforeDot2(divs_temp[4].find('a')['href']))
     return dataTable
-
-def extract_pitching(page,baseballGame,status):
-    dataTable = []
-    if status == 'home':
-        nameTeam = baseballGame.home_team.name
-    else:
-        nameTeam = baseballGame.away_team.name
-    # div_HoustonAstrospitching
-    div_pitching_team = 'div_' + nameTeam.replace(" ", "").replace(".", "") + 'pitching'
-    div_pitching_team_data = page.find('div', id=div_pitching_team)
-    div_pitching_team_data_trs = div_pitching_team_data.find('tbody').find_all('tr')
-    for index,div_tbody_tr in enumerate(div_pitching_team_data_trs):
-        dataTableRow = []
-        # name
-        div_tbody_tr_th_a   = div_tbody_tr.find('th').find('a')
-        # print(div_tbody_tr_th_a)
-        if div_tbody_tr_th_a == None:
-            tmpName = ""
-        else:
-            tmpName = div_tbody_tr_th_a.text
-            tmpLink = div_tbody_tr_th_a['href']
-            dataTableRow.append(tmpName)
-            dataTableRow.append(tmpLink)
-            # pos
-            div_tbody_tr_th     = div_tbody_tr.find('th')
-            tmpPos = substr_from_last_coma(div_tbody_tr_th.text)
-            dataTableRow.append(tmpPos)
-            # crear batter
-            pitcher = Pitcher()
-            pitcher.name     = tmpName
-            pitcher.id       = lastStrInUrlBeforeDot(tmpLink)
-            # more data
-            for indexTd,div_tbody_tr_td in enumerate(div_tbody_tr.find_all('td')):
-                tempValue = div_tbody_tr_td.text
-                dataTableRow.append(tempValue)
-                #  0 IP	
-                if indexTd == 0:
-                    pitcher.IP = tempValue
-                #  1 H	
-                if indexTd == 1:
-                    pitcher.H = tempValue
-                #  2 R	
-                if indexTd == 2:
-                    pitcher.R = tempValue
-                #  3 ER	
-                if indexTd == 3:
-                    pitcher.ER = tempValue
-                #  4 BB	
-                if indexTd == 4:
-                    pitcher.BB = tempValue
-                #  5 SO	
-                if indexTd == 5:
-                    pitcher.SO = tempValue
-                #  6 HR	
-                if indexTd == 6:
-                    pitcher.HR = tempValue
-                #  7 ERA	
-                if indexTd == 7:
-                    pitcher.ERA = tempValue
-                #  8 BF	
-                if indexTd == 8:
-                    pitcher.BF = tempValue
-                #  9 Pit	
-                if indexTd == 9:
-                    pitcher.Pit = tempValue
-                # 10 Str	
-                if indexTd == 10:
-                    pitcher.Str = tempValue
-                # 11 Ctct	
-                if indexTd == 11:
-                    pitcher.Ctct = tempValue
-                # 12 StS	
-                if indexTd == 12:
-                    pitcher.StS = tempValue
-                # 13 StL	
-                if indexTd == 13:
-                    pitcher.StL = tempValue
-                # 14 GB	
-                if indexTd == 14:
-                    pitcher.GB = tempValue
-                # 15 FB	
-                if indexTd == 15:
-                    pitcher.FB = tempValue
-                # 16 LD	
-                if indexTd == 16:
-                    pitcher.LD = tempValue
-                # 17 Unk	
-                if indexTd == 17:
-                    pitcher.Unk = tempValue
-                # 18 GSc	
-                if indexTd == 18:
-                    pitcher.GSc = tempValue
-                # 19 IR	
-                if indexTd == 19:
-                    pitcher.IR = tempValue
-                # 20 IS	
-                if indexTd == 20:
-                    pitcher.IS = tempValue
-                # 21 WPA	
-                if indexTd == 21:
-                    pitcher.WPA = tempValue
-                # 22 aLI
-                if indexTd == 22:
-                    pitcher.aLI = tempValue
-                    # extract_Details(pitcher, tempValue)
-                # 23 cWPA	
-                if indexTd == 23:
-                    pitcher.cWPA = tempValue
-                # 24 acLI	
-                if indexTd == 24:
-                    pitcher.acLI = tempValue
-                # 25 RE24	
-                if indexTd == 25:
-                    pitcher.RE24 = tempValue
-            if status == 'home':
-                baseballGame.home_team.add_pitcher(pitcher)
-            else:
-                baseballGame.away_team.add_pitcher(pitcher)
-            dataTable.append(dataTableRow)
-    
-    # div_batting_team_tfooter = 'tfooter_' + nameTeam.replace(" ", "") + 'batting'
-    # div_batting_team_data_tfooter = page.find_all('div', id=div_batting_team_tfooter)
-    # for current_div in div_batting_team_data_tfooter:
-    #     divs = current_div.find('div')
-    #     for div in divs:
-    #         dataTable.append(div.text)
-    return dataTable
-
 def extract_indiv_events(page,baseballGame):
     dataTable = []
     divs = page.find('div', class_='indiv_events').find_all('div')
     for div in divs:
         dataTable.append(div.text)
     return dataTable
-
 def extract_section_content(page,baseballGame):
     dataTable = []
     divs_section_content = page.find_all('div', class_='section_content')
@@ -536,7 +405,6 @@ def extract_section_content(page,baseballGame):
             if 'Start Time Weather: ' in current_div.text:
                 dataTable.append(current_div.text)
     return dataTable
-
 def extract_div_lineups(page,baseballGame):
     dataTable = []
     div_lineups = page.find('div', id='div_lineups')
@@ -567,7 +435,6 @@ def extract_div_lineups(page,baseballGame):
                 dataTableRow.append(tag_a_s['href'])
         dataTable.append(dataTableRow)
     return dataTable
-
 def extract_top_plays(page,baseballGame):
     dataTable = []
     table_top_plays = page.find('table', id='top_plays')
@@ -586,7 +453,6 @@ def extract_top_plays(page,baseballGame):
             dataTableRow.append(tag_td.text)
         dataTable.append(dataTableRow)
     return dataTable
-
 def extract_div_play_by_play(page,baseballGame):
     dataTable = []
     table_play_by_play = page.find('table', id='play_by_play')
@@ -605,7 +471,6 @@ def extract_div_play_by_play(page,baseballGame):
             dataTableRow.append(tag_td.text)
         dataTable.append(dataTableRow)
     return dataTable
-
 def saveArrayOfArray(path_file,linescore_wrap, home_batting):
     with open(path_file, 'w', encoding="utf-8") as archivo:
         archivo.write('Boxscore' + '\n')
@@ -622,7 +487,6 @@ def saveArrayOfArray(path_file,linescore_wrap, home_batting):
                 result += str(element) +';' 
             result = result[:-1] + '\n'
             archivo.write(result)
-
 def saveInfoComplete(path_file,allInfo):
     with open(path_file, 'w', encoding="utf-8") as archivo:
         for elementInfo in allInfo:
