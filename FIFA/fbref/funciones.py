@@ -155,7 +155,7 @@ def extract_scorebox_meta(page,gameTemp):
         if index == 0:
             venuetime = div_current.find('span', class_='venuetime')
             # temDate = dateTo_YYYYMMDD(tmpTextCurrent)
-            gameTemp.date = venuetime['data-venue-date']
+            gameTemp.date = venuetime['data-venue-date'].replace("-", "")
             gameTemp.start_time = venuetime['data-venue-time']
             dataTable.append(venuetime['data-venue-date'])
             dataTable.append(venuetime['data-venue-time'])

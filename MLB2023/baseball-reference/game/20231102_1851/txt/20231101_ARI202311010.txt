@@ -1,0 +1,255 @@
+
+Scorebox Meta
+20231101
+5:03 p.m. Local
+48511
+Chase Field
+174
+
+Boxscore
+https://cdn.ssref.net/req/202310271/tlogo/br/TEX-2023.png;/teams/TEX/2023.shtml;0;0;0;0;0;0;1;0;4;5;9;0
+https://cdn.ssref.net/req/202310271/tlogo/br/ARI-2023.png;/teams/ARI/2023.shtml;0;0;0;0;0;0;0;0;0;0;5;1
+
+Batting home
+Corbin Carroll;/players/c/carroco02.shtml;RF;4;0;1;0;1;0;5;.273;.364;.409;.773;10;4;0.015; 1.07;0.098;-0.082; 0.17%;39.13; 0.4;0;0;SB
+Ketel Marte;/players/m/marteke01.shtml;2B;2;0;0;0;3;1;5;.329;.380;.534;.914;22;8;0.130; 1.01;0.145;-0.015; 2.82%;36.95; 0.8;0;4;
+Gabriel Moreno;/players/m/morenga01.shtml;C;3;0;0;0;0;2;4;.238;.304;.444;.749;12;9;-0.160; 1.85;0.000;-0.160;-3.44%;67.74; -1.3;10;1;SH
+Christian Walker;/players/w/walkech02.shtml;1B;3;0;1;0;1;1;4;.217;.360;.350;.710;19;11;-0.079; 1.65;0.059;-0.137;-1.77%;60.32; -0.5;11;1;SB
+Tommy Pham;/players/p/phamth01.shtml;DH;3;0;0;0;1;1;4;.279;.297;.475;.772;14;7;-0.163; 2.26;0.016;-0.179;-3.52%;82.44; -1.2;;;
+Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF;4;0;1;0;0;0;4;.273;.290;.455;.744;10;8;-0.132; 1.89;0.037;-0.169;-2.86%;68.92; -0.8;3;0;
+Alek Thomas;/players/t/thomaal01.shtml;CF;4;0;1;0;0;0;4;.222;.271;.463;.734;16;14;-0.035; 1.21;0.037;-0.072;-0.62%;44.27; -0.5;2;0;
+Evan Longoria;/players/l/longoev01.shtml;3B;3;0;1;0;0;1;3;.167;.226;.229;.456;7;5;-0.033; 0.92;0.028;-0.061;-0.68%;33.72; -0.3;0;2;2B
+Pavin Smith;/players/s/smithpa04.shtml;PH;1;0;0;0;0;1;1;.300;.364;.300;.664;6;4;-0.070; 2.45;0.000;-0.070;-1.63%;89.47; -0.2;;;
+Emmanuel Rivera;/players/r/riverem01.shtml;3B;0;0;0;0;0;0;0;.235;.278;.294;.572;;;;;;;;;;0;0;
+Geraldo Perdomo;/players/p/perdoge01.shtml;SS;4;0;0;0;0;3;4;.275;.362;.392;.754;22;14;-0.099; 0.88;0.000;-0.099;-2.05%;32.23; -1.0;0;6;
+Zac Gallen;/players/g/galleza01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Kevin Ginkel;/players/g/ginkeke01.shtml;P;;;;;;;;;;;;;;;;;;;;;1;0;
+Paul Sewald;/players/s/sewalpa01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Evan Longoria (3, off Nathan Eovaldi).
+
+
+SH: Gabriel Moreno (1, off Nathan Eovaldi).
+
+
+TB: Evan Longoria 2; Corbin Carroll; Christian Walker; Alek Thomas; Lourdes Gurriel Jr..
+
+
+Team LOB: 11.
+With RISP: 0 for 9.
+
+Batting away
+Marcus Semien;/players/s/semiema01.shtml;2B;5;1;2;2;0;1;5;.224;.280;.355;.636;17;12;-0.005; 0.82;0.063;-0.068; 0.06%;29.94; 1.5;1;2;HR
+Corey Seager;/players/s/seageco01.shtml;SS;4;1;2;0;1;0;5;.318;.451;.682;1.133;18;12;0.079; 0.97;0.114;-0.036; 1.92%;35.50; 0.8;0;6;
+Evan Carter;/players/c/carteev01.shtml;LF;5;0;1;0;0;4;5;.300;.417;.500;.917;23;13;0.070; 1.14;0.167;-0.097; 1.69%;41.70; -0.2;3;0;2B
+Mitch Garver;/players/g/garvemi01.shtml;DH;4;0;1;1;0;1;4;.226;.317;.434;.751;19;14;-0.029; 1.75;0.098;-0.127;-0.52%;63.81; -0.4;;;
+Josh Jung;/players/j/jungjo01.shtml;3B;4;1;1;0;0;1;4;.308;.329;.538;.867;11;9;-0.073; 0.89;0.025;-0.098;-1.60%;32.41; -0.6;0;0;
+Nathaniel Lowe;/players/l/lowena01.shtml;1B;3;1;1;0;1;0;4;.212;.278;.379;.657;13;5;-0.042; 1.02;0.052;-0.095;-1.00%;37.34; -0.1;9;0;
+Jonah Heim;/players/h/heimjo01.shtml;C;4;1;1;1;0;1;4;.212;.268;.348;.616;11;8;-0.018; 1.28;0.089;-0.106;-0.25%;46.74; 1.0;11;0;
+Leody Taveras;/players/t/taverle01.shtml;CF;4;0;0;0;0;1;4;.175;.299;.281;.579;11;8;-0.084; 0.81;0.000;-0.084;-1.80%;29.76; -1.1;1;0;
+Travis Jankowski;/players/j/jankotr01.shtml;RF;3;0;0;0;1;0;4;.333;.400;.444;.844;12;5;-0.023; 0.60;0.025;-0.048;-0.43%;22.00; -0.6;2;0;
+Nathan Eovaldi;/players/e/eovalna01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;2;
+Aroldis Chapman;/players/c/chapmar01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+Josh Sborz;/players/s/sborzjo01.shtml;P;;;;;;;;;;;;;;;;;;;;;0;0;
+2B: Evan Carter (9, off Zac Gallen).
+
+
+HR: Marcus Semien (2, off Paul Sewald, 9th inn, 1 on, 2 outs to Deep LF-CF).
+
+
+TB: Marcus Semien 5; Evan Carter 2; Corey Seager 2; Nathaniel Lowe; Mitch Garver; Jonah Heim; Josh Jung.
+
+
+RBI: Marcus Semien 2 (10); Mitch Garver (14); Jonah Heim (8).
+
+
+2-out RBI: Marcus Semien 2.
+
+
+Team LOB: 7.
+With RISP: 3 for 10.
+
+Pitching home
+Zac Gallen;/players/g/galleza01.shtml; L (2-3); 6.1;3;1;1;1;6;0;4.54;23;83;57;35;10;12;10;6;1;0;68;;;0.098; 0.98; 1.30%;35.66; 1.5
+Kevin Ginkel;/players/g/ginkeke01.shtml;Kevin Ginkel; 1.2;1;0;0;2;1;0;0.00;8;32;15;9;1;5;4;1;0;0;;2;0;0.187; 1.74; 4.35%;63.68; 1.7
+Paul Sewald;/players/s/sewalpa01.shtml;Paul Sewald; 1 ;5;4;4;0;2;1;5.40;8;20;14;11;1;2;4;2;1;0;;0;0;-0.159; 0.46;-3.72%;16.80; -3.5
+
+Pitching away
+Nathan Eovaldi;/players/e/eovalna01.shtml; W (5-0); 6 ;4;0;0;5;5;0;2.95;27;97;60;40;7;13;11;6;2;0;64;;;0.362; 1.42; 7.45%;51.89; 3.1
+Aroldis Chapman;/players/c/chapmar01.shtml; H (6); 0.2;0;0;0;1;1;0;2.25;3;10;4;2;1;1;0;1;1;0;;0;0;0.058; 1.97; 1.34%;71.82; 0.3
+Josh Sborz;/players/s/sborzjo01.shtml; S (1); 2.1;1;0;0;0;4;0;0.75;8;31;20;11;1;8;2;2;1;0;;1;0;0.206; 1.28; 4.79%;46.74; 1.3
+
+indiv_events
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+
+section_content
+Umpires: HP - Brian Knight, 1B - Bill Miller, 2B - D.J. Reyburn, 3B - Quinn Wolcott, LF - Alfonso Márquez, RF - David Rackley.
+Time of Game: 2:54.
+Attendance: 48,511.
+Field Condition: Unknown.
+Start Time Weather: 79° F, Wind 1mph in unknown direction, Sunny, No Precipitation.
+
+div_lineups
+Rangers
+1;Marcus Semien;/players/s/semiema01.shtml;2B
+2;Corey Seager;/players/s/seageco01.shtml;SS
+3;Evan Carter;/players/c/carteev01.shtml;LF
+4;Mitch Garver;/players/g/garvemi01.shtml;DH
+5;Josh Jung;/players/j/jungjo01.shtml;3B
+6;Nathaniel Lowe;/players/l/lowena01.shtml;1B
+7;Jonah Heim;/players/h/heimjo01.shtml;C
+8;Leody Taveras;/players/t/taverle01.shtml;CF
+9;Travis Jankowski;/players/j/jankotr01.shtml;RF
+; Nathan Eovaldi;/players/e/eovalna01.shtml;P
+Diamondbacks
+1;Corbin Carroll;/players/c/carroco02.shtml;RF
+2;Ketel Marte;/players/m/marteke01.shtml;2B
+3;Gabriel Moreno;/players/m/morenga01.shtml;C
+4;Christian Walker;/players/w/walkech02.shtml;1B
+5;Tommy Pham;/players/p/phamth01.shtml;DH
+6;Lourdes Gurriel Jr.;/players/g/gurrilo01.shtml;LF
+7;Alek Thomas;/players/t/thomaal01.shtml;CF
+8;Evan Longoria;/players/l/longoev01.shtml;3B
+9;Geraldo Perdomo;/players/p/perdoge01.shtml;SS
+; Zac Gallen;/players/g/galleza01.shtml;P
+
+top_plays
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+t7;0-0;0;1--;2,(1-0) BX;;TEX;Evan Carter;Zac Gallen;17%;73%;Double to RF (Line Drive to CF-RF); Seager to 3B
+t7;0-0;0;-23;2,(0-1) FX;R;TEX;Mitch Garver;Zac Gallen;10%;82%;Single to CF (Ground Ball thru SS-2B); Seager Scores; Carter to 3B
+b5;0-0;2;123;1,(0-0) X;O;ARI;Lourdes Gurriel Jr.;Nathan Eovaldi;9%;50%;Groundout: SS-1B (SS-2B)
+t9;1-0;0;12-;1,(0-0) X;RR;TEX;Jonah Heim;Paul Sewald;9%;98%;Single to CF (Ground Ball); Jung Scores; Lowe Scores/Adv on E8/No RBI; Heim to 3B
+b3;0-0;1;-23;6,(2-2) B*BFFFS;O;ARI;Christian Walker;Nathan Eovaldi;8%;43%;Strikeout Swinging
+
+div_play_by_play
+Inn;Score;Out;RoB;Pit(cnt);R/O;@Bat;Batter;Pitcher;wWPA;wWE;Play Description
+Top of the 1st, Rangers Batting, Tied 0-0, Diamondbacks' Zac Gallen facing 1-2-3 
+t1;0-0;0;---;4,(2-1) BBFX;O;TEX;Marcus Semien;Zac Gallen;-2%;48%;Flyball: CF (Deep CF)
+t1;0-0;1;---;5,(1-2) BCCFX;O;TEX;Corey Seager;Zac Gallen;-2%;46%;Groundout: SS-1B (SS-2B)
+t1;0-0;2;---;4,(1-2) CBF.*S;O;TEX;Evan Carter;Zac Gallen;-1%;45%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 0, Diamondbacks 0.
+Bottom of the 1st, Diamondbacks Batting, Tied 0-0, Rangers' Nathan Eovaldi facing 1-2-3 
+b1;0-0;0;---;4,(3-0) BBBB;;ARI;Corbin Carroll;Nathan Eovaldi;-3%;42%;Walk
+b1;0-0;0;1--;1,(0-0) .>C;;ARI;Ketel Marte;Nathan Eovaldi;-2%;39%;Carroll Steals 2B
+b1;0-0;0;-2-;3,(0-2) .>C.LX;O;ARI;Ketel Marte;Nathan Eovaldi;1%;41%;Groundout: 2B-1B (2B-1B); Carroll to 3B
+b1;0-0;1;--3;3,(1-1) CBX;O;ARI;Gabriel Moreno;Nathan Eovaldi;6%;46%;Groundout: SS-1B (Weak SS)
+b1;0-0;2;--3;8,(3-2) BFSFBFBB;;ARI;Christian Walker;Nathan Eovaldi;-1%;45%;Walk
+b1;0-0;2;1-3;2,(0-1) FX;O;ARI;Tommy Pham;Nathan Eovaldi;5%;50%;Groundout: SS-2B/Forceout at 2B; Pham to 1B
+;;;;;;;;;0 runs, 0 hits, 0 errors, 2 LOB. Rangers 0, Diamondbacks 0.
+Top of the 2nd, Rangers Batting, Tied 0-0, Diamondbacks' Zac Gallen facing 4-5-6 
+t2;0-0;0;---;4,(1-2) BCC*S;O;TEX;Mitch Garver;Zac Gallen;-2%;48%;Strikeout Swinging
+t2;0-0;1;---;2,(1-0) BX;O;TEX;Josh Jung;Zac Gallen;-2%;46%;Groundout: SS-1B (Deep SS)
+t2;0-0;2;---;1,(0-0) X;O;TEX;Nathaniel Lowe;Zac Gallen;-1%;45%;Groundout: 2B-1B (Deep 2B-1B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 0, Diamondbacks 0.
+Bottom of the 2nd, Diamondbacks Batting, Tied 0-0, Rangers' Nathan Eovaldi facing 6-7-8 
+b2;0-0;0;---;3,(0-2) CT.X;;ARI;Lourdes Gurriel Jr.;Nathan Eovaldi;-4%;41%;Single to CF (Ground Ball thru SS-2B)
+b2;0-0;0;1--;4,(1-2) FFB1X;O;ARI;Alek Thomas;Nathan Eovaldi;2%;43%;Groundout: SS-1B; Gurriel to 2B
+b2;0-0;1;-2-;1,(0-0) X;O;ARI;Evan Longoria;Nathan Eovaldi;4%;47%;Lineout: LF
+b2;0-0;2;-2-;7,(3-2) CSBBFBX;O;ARI;Geraldo Perdomo;Nathan Eovaldi;3%;50%;Flyball: RF (Short RF Line)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rangers 0, Diamondbacks 0.
+Top of the 3rd, Rangers Batting, Tied 0-0, Diamondbacks' Zac Gallen facing 7-8-9 
+t3;0-0;0;---;1,(0-0) X;O;TEX;Jonah Heim;Zac Gallen;-3%;47%;Groundout: 2B-1B
+t3;0-0;1;---;5,(2-2) BCBF.X;O;TEX;Leody Taveras;Zac Gallen;-2%;46%;Flyball: CF (Deep CF)
+t3;0-0;2;---;1,(0-0) X;O;TEX;Travis Jankowski;Zac Gallen;-1%;44%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 0, Diamondbacks 0.
+Bottom of the 3rd, Diamondbacks Batting, Tied 0-0, Rangers' Nathan Eovaldi facing 1-2-3 
+b3;0-0;0;---;1,(0-0) X;;ARI;Corbin Carroll;Nathan Eovaldi;-4%;40%;Single to CF (Ground Ball)
+b3;0-0;0;1--;4,(3-0) *BB*B+1>B;;ARI;Ketel Marte;Nathan Eovaldi;-6%;35%;Walk; Carroll to 2B
+b3;0-0;0;12-;1,(0-0) X;O;ARI;Gabriel Moreno;Nathan Eovaldi;0%;35%;Bunt Groundout: P-1B/Sacrifice (Short 1B Line); Carroll to 3B; Marte to 2B
+b3;0-0;1;-23;6,(2-2) B*BFFFS;O;ARI;Christian Walker;Nathan Eovaldi;8%;43%;Strikeout Swinging
+b3;0-0;2;-23;1,(0-0) X;O;ARI;Tommy Pham;Nathan Eovaldi;7%;50%;Groundout: SS-1B
+;;;;;;;;;0 runs, 1 hit, 0 errors, 2 LOB. Rangers 0, Diamondbacks 0.
+Top of the 4th, Rangers Batting, Tied 0-0, Diamondbacks' Zac Gallen facing 1-2-3 
+t4;0-0;0;---;1,(0-0) X;O;TEX;Marcus Semien;Zac Gallen;-3%;47%;Groundout: SS-1B
+t4;0-0;1;---;1,(0-0) X;O;TEX;Corey Seager;Zac Gallen;-2%;45%;Groundout: 2B-1B
+t4;0-0;2;---;6,(3-2) BCBC.BS;O;TEX;Evan Carter;Zac Gallen;-1%;44%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 0, Diamondbacks 0.
+Bottom of the 4th, Diamondbacks Batting, Tied 0-0, Rangers' Nathan Eovaldi facing 6-7-8 
+b4;0-0;0;---;5,(2-2) BBCF.X;O;ARI;Lourdes Gurriel Jr.;Nathan Eovaldi;3%;47%;Flyball: LF (Short LF)
+b4;0-0;1;---;5,(1-2) CFBFX;O;ARI;Alek Thomas;Nathan Eovaldi;2%;49%;Groundout: 2B-1B (2B-1B)
+b4;0-0;2;---;3,(2-0) BBX;;ARI;Evan Longoria;Nathan Eovaldi;-3%;46%;Double to RF (Fly Ball to Deep 1B)
+b4;0-0;2;-2-;6,(3-2) CBBFBC;O;ARI;Geraldo Perdomo;Nathan Eovaldi;4%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rangers 0, Diamondbacks 0.
+Top of the 5th, Rangers Batting, Tied 0-0, Diamondbacks' Zac Gallen facing 4-5-6 
+t5;0-0;0;---;8,(2-2) CBSBFFFX;O;TEX;Mitch Garver;Zac Gallen;-3%;47%;Flyball: LF (Deep LF-CF)
+t5;0-0;1;---;5,(1-2) BSF.FX;O;TEX;Josh Jung;Zac Gallen;-2%;45%;Flyball: LF (Deep LF-CF)
+t5;0-0;2;---;5,(3-1) BCBB*B;;TEX;Nathaniel Lowe;Zac Gallen;2%;46%;Walk
+t5;0-0;2;1--;6,(1-2) CFBFF*S;O;TEX;Jonah Heim;Zac Gallen;-3%;43%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rangers 0, Diamondbacks 0.
+Bottom of the 5th, Diamondbacks Batting, Tied 0-0, Rangers' Nathan Eovaldi facing 1-2-3 
+b5;0-0;0;---;1,(0-0) X;O;ARI;Corbin Carroll;Nathan Eovaldi;3%;46%;Flyball: RF (Short RF)
+b5;0-0;1;---;6,(3-2) BSBBF.*B;;ARI;Ketel Marte;Nathan Eovaldi;-3%;43%;Walk
+b5;0-0;1;1--;4,(1-2) CBCC;O;ARI;Gabriel Moreno;Nathan Eovaldi;4%;47%;Strikeout Looking
+b5;0-0;2;1--;1,(0-0) X;;ARI;Christian Walker;Nathan Eovaldi;-4%;43%;Single to RF (Line Drive to Short RF Line); Marte to 3B
+b5;0-0;2;1-3;2,(0-1) F>B;;ARI;Tommy Pham;Nathan Eovaldi;-1%;42%;Walker Steals 2B
+b5;0-0;2;-23;5,(3-1) F>B.*BB*B;;ARI;Tommy Pham;Nathan Eovaldi;-2%;41%;Walk
+b5;0-0;2;123;1,(0-0) X;O;ARI;Lourdes Gurriel Jr.;Nathan Eovaldi;9%;50%;Groundout: SS-1B (SS-2B)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Rangers 0, Diamondbacks 0.
+Top of the 6th, Rangers Batting, Tied 0-0, Diamondbacks' Zac Gallen facing 8-9-1 
+t6;0-0;0;---;1,(0-0) X;O;TEX;Leody Taveras;Zac Gallen;-3%;47%;Groundout: 2B-1B (Deep 2B)
+t6;0-0;1;---;5,(3-1) BBBCX;O;TEX;Travis Jankowski;Zac Gallen;-2%;44%;Flyball: LF (Short LF)
+t6;0-0;2;---;7,(2-2) BFFFBFS;O;TEX;Marcus Semien;Zac Gallen;-2%;42%;Strikeout Swinging
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 0, Diamondbacks 0.
+Bottom of the 6th, Diamondbacks Batting, Tied 0-0, Rangers' Nathan Eovaldi facing 7-8-9 
+b6;0-0;0;---;5,(0-2) SFFFX;O;ARI;Alek Thomas;Nathan Eovaldi;3%;46%;Groundout: P-1B (P's Left)
+b6;0-0;1;---;3,(0-2) FS*S;O;ARI;Evan Longoria;Nathan Eovaldi;2%;48%;Strikeout Swinging
+b6;0-0;2;---;4,(1-2) FBC.C;O;ARI;Geraldo Perdomo;Nathan Eovaldi;2%;50%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 0, Diamondbacks 0.
+Top of the 7th, Rangers Batting, Tied 0-0, Diamondbacks' Zac Gallen facing 2-3-4 
+t7;0-0;0;---;4,(1-2) BSFX;;TEX;Corey Seager;Zac Gallen;6%;56%;Single to LF (Ground Ball thru SS-3B Hole)
+t7;0-0;0;1--;2,(1-0) BX;;TEX;Evan Carter;Zac Gallen;17%;73%;Double to RF (Line Drive to CF-RF); Seager to 3B
+t7;0-0;0;-23;2,(0-1) FX;R;TEX;Mitch Garver;Zac Gallen;10%;82%;Single to CF (Ground Ball thru SS-2B); Seager Scores; Carter to 3B
+t7;1-0;0;1-3;3,(0-2) SFS;O;TEX;Josh Jung;Zac Gallen;-6%;76%;Strikeout Swinging
+;;;;;;;;;Kevin Ginkel replaces Zac Gallen pitching
+t7;1-0;1;1-3;4,(2-1) .BCBX;O;TEX;Nathaniel Lowe;Kevin Ginkel;-8%;68%;Fielder's Choice ; Carter out at Hm/1B-C-3B-P; Garver to 2B; Lowe to 1B
+t7;1-0;2;12-;3,(2-0) BBX;O;TEX;Jonah Heim;Kevin Ginkel;-5%;63%;Foul Popfly: C (Behind Home)
+;;;;;;;;;1 run, 3 hits, 0 errors, 2 LOB. Rangers 1, Diamondbacks 0.
+Bottom of the 7th, Diamondbacks Batting, Behind 0-1, Rangers' Aroldis Chapman facing 1-2-3 
+;;;;;;;;;Aroldis Chapman replaces Nathan Eovaldi pitching
+b7;0-1;0;---;2,(1-0) .BX;O;ARI;Corbin Carroll;Aroldis Chapman;5%;68%;Lineout: LF (LF-CF)
+b7;0-1;1;---;4,(3-0) BBBB;;ARI;Ketel Marte;Aroldis Chapman;-5%;63%;Walk
+b7;0-1;1;1--;4,(1-2) 1BCFS;O;ARI;Gabriel Moreno;Aroldis Chapman;6%;69%;Strikeout Swinging
+;;;;;;;;;Josh Sborz replaces Aroldis Chapman pitching
+b7;0-1;2;1--;4,(2-1) .B*BFX;O;ARI;Christian Walker;Josh Sborz;5%;74%;Lineout: CF (Deep CF)
+;;;;;;;;;0 runs, 0 hits, 0 errors, 1 LOB. Rangers 1, Diamondbacks 0.
+Top of the 8th, Rangers Batting, Ahead 1-0, Diamondbacks' Kevin Ginkel facing 8-9-1 
+t8;1-0;0;---;1,(0-0) X;O;TEX;Leody Taveras;Kevin Ginkel;-2%;72%;Bunt Groundout: 3B-1B
+t8;1-0;1;---;5,(3-1) BBCBB;;TEX;Travis Jankowski;Kevin Ginkel;3%;74%;Walk
+t8;1-0;1;1--;3,(1-1) BF1X;;TEX;Marcus Semien;Kevin Ginkel;3%;78%;Single to RF (Ground Ball thru 2B-1B); Jankowski to 2B
+t8;1-0;1;12-;6,(3-2) FFBBBB;;TEX;Corey Seager;Kevin Ginkel;6%;83%;Walk; Jankowski to 3B; Semien to 2B
+t8;1-0;1;123;5,(2-2) BBCCS;O;TEX;Evan Carter;Kevin Ginkel;-7%;76%;Strikeout Swinging
+t8;1-0;2;123;5,(2-2) BCF*BX;O;TEX;Mitch Garver;Kevin Ginkel;-7%;69%;Groundout: SS-1B (P's Right)
+;;;;;;;;;0 runs, 1 hit, 0 errors, 3 LOB. Rangers 1, Diamondbacks 0.
+Bottom of the 8th, Diamondbacks Batting, Behind 0-1, Rangers' Josh Sborz facing 5-6-7 
+b8;0-1;0;---;6,(3-2) BBBCFS;O;ARI;Tommy Pham;Josh Sborz;6%;75%;Strikeout Swinging
+b8;0-1;1;---;1,(0-0) X;O;ARI;Lourdes Gurriel Jr.;Josh Sborz;5%;80%;Groundout: SS-1B (SS-3B Hole)
+b8;0-1;2;---;2,(0-1) TX;;ARI;Alek Thomas;Josh Sborz;-4%;76%;Single to CF (Ground Ball thru SS-2B)
+;;;;;;;;;Pavin Smith pinch hits for Evan Longoria (3B) batting 8th
+b8;0-1;2;1--;6,(2-2) .*BCF*BF.C;O;ARI;Pavin Smith;Josh Sborz;7%;83%;Strikeout Looking
+;;;;;;;;;0 runs, 1 hit, 0 errors, 1 LOB. Rangers 1, Diamondbacks 0.
+Top of the 9th, Rangers Batting, Ahead 1-0, Diamondbacks' Paul Sewald facing 5-6-7 
+;;;;;;;;;Paul Sewald replaces Kevin Ginkel pitchingEmmanuel Rivera replaces Pavin Smith (PH) playing 3B batting 8th
+t9;1-0;0;---;1,(0-0) ..X;;TEX;Josh Jung;Paul Sewald;2%;86%;Single to CF (Line Drive to Short CF)
+t9;1-0;0;1--;3,(2-0) BBX;;TEX;Nathaniel Lowe;Paul Sewald;4%;89%;Single to LF (Ground Ball thru SS-3B Hole); Jung to 2B
+t9;1-0;0;12-;1,(0-0) X;RR;TEX;Jonah Heim;Paul Sewald;9%;98%;Single to CF (Ground Ball); Jung Scores; Lowe Scores/Adv on E8/No RBI; Heim to 3B
+t9;3-0;0;--3;4,(1-2) CF*BT;O;TEX;Leody Taveras;Paul Sewald;-1%;97%;Strikeout Swinging
+t9;3-0;1;--3;1,(0-0) X;O;TEX;Travis Jankowski;Paul Sewald;-1%;96%;Groundout: SS-1B
+t9;3-0;2;--3;2,(0-1) FX;RR;TEX;Marcus Semien;Paul Sewald;3%;99%;Home Run (Fly Ball to Deep LF-CF); Heim Scores
+t9;5-0;2;---;2,(0-1) SX;;TEX;Corey Seager;Paul Sewald;0%;99%;Single to 3B (Ground Ball to SS-3B Hole)
+t9;5-0;2;1--;6,(3-2) CBFBB>T;O;TEX;Evan Carter;Paul Sewald;0%;99%;Strikeout Swinging
+;;;;;;;;;4 runs, 5 hits, 1 error, 1 LOB. Rangers 5, Diamondbacks 0.
+Bottom of the 9th, Diamondbacks Batting, Behind 0-5, Rangers' Josh Sborz facing 9-1-2 
+b9;0-5;0;---;5,(1-2) CCBFC;O;ARI;Geraldo Perdomo;Josh Sborz;1%;100%;Strikeout Looking
+b9;0-5;1;---;2,(1-0) BX;O;ARI;Corbin Carroll;Josh Sborz;0%;100%;Foul Popfly: C (Behind Home)
+b9;0-5;2;---;5,(2-2) BFCBC;O;ARI;Ketel Marte;Josh Sborz;0%;100%;Strikeout Looking
+;;;;;;;;;0 runs, 0 hits, 0 errors, 0 LOB. Rangers 5, Diamondbacks 0.
