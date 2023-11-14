@@ -70,7 +70,7 @@ class FifaWorldCupTeam:
     def add_goalkeeper(self, goalkeeper):
         self.goalkeepers.append(goalkeeper)
     def add_goal(self, id_player,goal):
-        jugador_encontrado = next((FifaWorldCupTeamPlayer for jugador in self.players if jugador["id"] == id_player), None)
+        jugador_encontrado = next((jugador for jugador in self.players if jugador.id == id_player), None)
         if (jugador_encontrado):
             jugador_encontrado.add_goal(goal)
 class FifaWorldCupGame:

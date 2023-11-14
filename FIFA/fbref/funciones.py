@@ -269,7 +269,8 @@ def extract_players(page,gameParam,status):
             # crear batter
             playerTemp = FifaWorldCupTeamPlayer()
             playerTemp.name     = tmpName
-            playerTemp.id       = lastStrInUrlBeforeDot(tmpLink)
+            playerTemp.url     = tmpLink
+            playerTemp.id       = lastStrInUrlBeforeDot2(tmpLink)
             # more data
             for indexTd,div_tbody_tr_td in enumerate(div_tbody_tr.find_all('td')):
                 tempValue = div_tbody_tr_td.text
