@@ -18,16 +18,8 @@ from funciones import createDirectory
 from funciones import createDirectoryAndSubdirectory
 from funciones import createDirectoryInPath
 from funciones import extract_scorebox_meta
-from funciones import extract_linescore_wrap
 from funciones import extract_players
 from funciones import extract_goals
-from funciones import extract_pitching
-from funciones import extract_indiv_events
-from funciones import extract_section_content
-from funciones import extract_div_lineups
-from funciones import extract_top_plays
-from funciones import extract_div_play_by_play
-from funciones import saveArrayOfArray
 from funciones import saveInfoComplete
 from classes import FifaWorldCupGame
 from classes import FifaWorldCupTeam
