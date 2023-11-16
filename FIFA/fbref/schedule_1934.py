@@ -48,24 +48,24 @@ listGameLinkOnly = []
 listGameLink = []
 
 # url de la data
-schedule_link = "https://fbref.com/en/comps/1/1930/schedule/1930-World-Cup-Scores-and-Fixtures"
+schedule_link = "https://fbref.com/es/comps/1/1934/horario/Marcadores-y-partidos-de-1934-World-Cup"
 driver.get(schedule_link)
 page = BeautifulSoup(driver.page_source,'html.parser')
-elements = page.find('table', id='sched_all')
-
-tbody = elements.find('tbody')  # Encuentra el elemento tbody dentro de la tabla con el id 'sched_all'
+elements = page.find('table', id='sched_1934_1_1')
+tbody = elements.find('tbody')
 if tbody is not None:
-    tr_elements = tbody.find_all('tr')  # Encuentra todos los elementos 'tr' dentro de 'tbody'
+    tr_elements = tbody.find_all('tr')
     print(len(tr_elements))
     for tr in tr_elements:
         th = tr.find('th')
         tds = tr.find_all('td')
-        # print(tds[4].find('a')['href'])
-        listGameLinkOnly.append(tds[4].find('a')['href'])
-        listTemp = []
-        for td in tds:
-            listTemp.append(td.text)
-        listGameLink.append(listTemp)
+        print(tds[4].find('a'))
+        if tds[4].find('a') is not None:
+            listGameLinkOnly.append(tds[4].find('a')['href'])
+            listTemp = []
+            for td in tds:
+                listTemp.append(td.text)
+            listGameLink.append(listTemp)
 else:
     print("No se encontró tbody en la tabla con id 'sched_all'.")
 
