@@ -48,7 +48,7 @@ listGameLinkOnly = []
 listGameLink = []
 
 # url de la data
-schedule_link = "https://fbref.com/es/comps/1/1934/horario/Marcadores-y-partidos-de-1934-World-Cup"
+schedule_link = "https://fbref.com/en/comps/1/1934/horario/Marcadores-y-partidos-de-1934-World-Cup"
 driver.get(schedule_link)
 page = BeautifulSoup(driver.page_source,'html.parser')
 elements = page.find('table', id='sched_1934_1_1')
