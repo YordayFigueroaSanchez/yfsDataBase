@@ -41,7 +41,7 @@ driver = webdriver.Chrome(service=servicio_chrome)
 # driver              = webdriver.Chrome(ubicacion)
 link_base           = "https://fbref.com"
 list_game           = [
-'/es/partidos/177674b4/Czechoslovakia-Romania-Mayo-27-1934-FIFA-World-Cup',
+'/en/partidos/177674b4/Czechoslovakia-Romania-Mayo-27-1934-FIFA-World-Cup',
 ]
 day                 = dateInYYYYMMDD()
 
