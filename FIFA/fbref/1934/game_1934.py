@@ -41,7 +41,23 @@ driver = webdriver.Chrome(service=servicio_chrome)
 # driver              = webdriver.Chrome(ubicacion)
 link_base           = "https://fbref.com"
 list_game           = [
-'/es/partidos/177674b4/Czechoslovakia-Romania-Mayo-27-1934-FIFA-World-Cup',
+'/en/matches/177674b4/Czechoslovakia-Romania-May-27-1934-FIFA-World-Cup',
+'/en/matches/289567cd/Hungary-Egypt-May-27-1934-FIFA-World-Cup',
+'/en/matches/459c8cb9/Austria-France-May-27-1934-FIFA-World-Cup',
+'/en/matches/5f909444/Switzerland-Netherlands-May-27-1934-FIFA-World-Cup',
+'/en/matches/802fed40/Spain-Brazil-May-27-1934-FIFA-World-Cup',
+'/en/matches/9e45b6cc/Italy-United-States-May-27-1934-FIFA-World-Cup',
+'/en/matches/ed5a6481/Germany-Belgium-May-27-1934-FIFA-World-Cup',
+'/en/matches/1354fd3c/Sweden-Argentina-May-27-1934-FIFA-World-Cup',
+'/en/matches/460faac6/Austria-Hungary-May-31-1934-FIFA-World-Cup',
+'/en/matches/aa5c9743/Germany-Sweden-May-31-1934-FIFA-World-Cup',
+'/en/matches/a54f1191/Italy-Spain-May-31-1934-FIFA-World-Cup',
+'/en/matches/5bd9cae0/Czechoslovakia-Switzerland-May-31-1934-FIFA-World-Cup',
+'/en/matches/4f245d5c/Italy-Spain-June-1-1934-FIFA-World-Cup',
+'/en/matches/7592a00f/Czechoslovakia-Germany-June-3-1934-FIFA-World-Cup',
+'/en/matches/e5348cfb/Italy-Austria-June-3-1934-FIFA-World-Cup',
+'/en/matches/94daf3c3/Germany-Austria-June-7-1934-FIFA-World-Cup',
+'/en/matches/fe30819d/Italy-Czechoslovakia-June-10-1934-FIFA-World-Cup',
 ]
 day                 = dateInYYYYMMDD()
 
@@ -87,6 +103,7 @@ for current_game in list_game:
     fifaWorldCupGame.away_team.add_goalkeeper(fifaWorldCupTeamGoalkeeper)
 
     # scorebox_meta
+    # print(page)
     scorebox_meta = extract_scorebox_meta(page,fifaWorldCupGame)
     scorebox_meta_complete = InfoComplete()
     scorebox_meta_complete.name = 'Scorebox Meta'
@@ -179,7 +196,7 @@ for current_game in list_game:
     # div_play_by_play_complete.data = div_play_by_play
     # allInfo.append(div_play_by_play_complete)
         
-    time.sleep(5)
+    time.sleep(10)
 
     nombre_archivo_game     = fifaWorldCupGame.date +'_'+ game_name                
     ruta_archivo_game_txt   = os.path.join(ruta_game_txt, nombre_archivo_game +'.txt')          
