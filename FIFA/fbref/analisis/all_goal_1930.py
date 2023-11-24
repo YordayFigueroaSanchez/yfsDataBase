@@ -4,17 +4,8 @@ import csv
 import pandas as pd
 from datetime import datetime
 from itertools import cycle
+from utils import dateInYYYYMMDD_MMSS
 
-def dateInYYYYMMDD_MMSS():
-    # Obtener la fecha actual
-    fecha_actual = datetime.now()
-    # Formatear la fecha en AAAAMMDD
-    fecha_formateada = fecha_actual.strftime("%Y%m%d")
-    # Formatear la hora en HHMM
-    hora_formateada = fecha_actual.strftime("%H%M")
-    # Combinar la fecha y la hora con _
-    fecha_resultante = fecha_formateada + "_" + hora_formateada
-    return fecha_resultante
 # Obtener la ruta absoluta del directorio actual
 directorio_actual = os.path.abspath(os.path.dirname(__file__))
 directory = '1930'
