@@ -4,24 +4,9 @@ import csv
 import pandas as pd
 from datetime import datetime
 from itertools import cycle
+from utils import dateInYYYYMMDD_MMSS
+from utils import listar_archivos_json
 
-def dateInYYYYMMDD_MMSS():
-    # Obtener la fecha actual
-    fecha_actual = datetime.now()
-    # Formatear la fecha en AAAAMMDD
-    fecha_formateada = fecha_actual.strftime("%Y%m%d")
-    # Formatear la hora en HHMM
-    hora_formateada = fecha_actual.strftime("%H%M")
-    # Combinar la fecha y la hora con _
-    fecha_resultante = fecha_formateada + "_" + hora_formateada
-    return fecha_resultante
-def listar_archivos_json(rutas):
-    archivos_json = []
-    for ruta in rutas:
-        print(ruta)
-        # archivos_json.extend([archivo for archivo in os.listdir(ruta) if archivo.endswith(".json")])
-        archivos_json.extend([os.path.join(ruta, archivo) for archivo in os.listdir(ruta) if archivo.endswith(".json")])
-    return archivos_json
 directorio_actual = os.path.abspath(os.path.dirname(__file__))
 extension = '.json'
 file_out = 'all_goal_' + dateInYYYYMMDD_MMSS()
@@ -42,6 +27,7 @@ data_csv = []
 data_csv.append(["Date", "Name", "Goal"])
 table       = {}
 for archivo in archivos_json:
+    print(archivo)
     with open(archivo, 'r', encoding="utf-8") as archivo_json:
         datos = json.load(archivo_json)
     for batter in datos["home_team"]["players"]:
@@ -86,7 +72,7 @@ for date in table:
     date_object = datetime.strptime(date, '%Y%m%d')
     formatted_date = date_object.strftime('%Y-%m-%d')
     table_acumulador[formatted_date] = player_list.copy()
-print(table_acumulador)
+# print(table_acumulador)
 colors_select = ['#0086F9','#FF4131','#FEBD00','#c71cda','#15004b']
 ruta_csv = os.path.join(directorio_actual, file_out + '_pivot.csv')
 nombres_bateadores = set()

@@ -1,3 +1,4 @@
+import os
 from datetime import datetime
 
 def dateInYYYYMMDD_MMSS():
@@ -10,3 +11,11 @@ def dateInYYYYMMDD_MMSS():
     # Combinar la fecha y la hora con _
     fecha_resultante = fecha_formateada + "_" + hora_formateada
     return fecha_resultante
+
+def listar_archivos_json(rutas):
+    archivos_json = []
+    for ruta in rutas:
+        print(ruta)
+        # archivos_json.extend([archivo for archivo in os.listdir(ruta) if archivo.endswith(".json")])
+        archivos_json.extend([os.path.join(ruta, archivo) for archivo in os.listdir(ruta) if archivo.endswith(".json")])
+    return archivos_json
