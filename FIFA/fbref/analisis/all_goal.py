@@ -5,6 +5,8 @@ from itertools import cycle
 from utils import dateInYYYYMMDD_MMSS
 from utils import listar_archivos_json
 from utils import data_extract
+from classes import OtraClase
+from classes import MiClase
 
 directorio_actual = os.path.abspath(os.path.dirname(__file__))
 extension = '.json'
@@ -38,7 +40,9 @@ for date in table:
     formatted_date = date_object.strftime('%Y-%m-%d')
     table_acumulador[formatted_date] = player_list.copy()
 # print(table_acumulador)
-colors_select = ['#0086F9','#FF4131','#FEBD00','#c71cda','#15004b']
+
+otra_clase_recuperada = OtraClase.cargar_desde_archivo('estado_otra_clase.pkl')
+
 ruta_csv = os.path.join(directorio_actual, file_out + '_pivot.csv')
 nombres_bateadores = set()
 for datos_bateadores in table_acumulador.values():
@@ -49,8 +53,11 @@ with open(ruta_csv, 'w', newline='', encoding="utf-8") as csvfile:
     csv_writer.writerow(encabezados)
     imagen_row = ['Image'] + [''] * (len(nombres_bateadores)+1)
     csv_writer.writerow(imagen_row)
-    list_color = [x for x, _ in zip(cycle(colors_select), range(len(nombres_bateadores)))]
-    bar_color_row = ['Bar Color'] + list_color
+    bar_color_row = ['Bar Color']
+    for nombre in nombres_bateadores:
+        bar_color_row.append(otra_clase_recuperada.obtener_color_id_por_nombre(nombre))
+    otra_clase_recuperada.guardar_en_archivo('estado_otra_clase.pkl')
+
     csv_writer.writerow(bar_color_row)
     for fecha, datos_bateadores in table_acumulador.items():
         fila = [fecha]
