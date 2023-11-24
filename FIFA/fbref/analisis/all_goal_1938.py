@@ -43,14 +43,14 @@ for archivo in archivos_json:
     # Aquí puedes trabajar con los datos como lo harías con un diccionario de Python
     for batter in datos["home_team"]["players"]:
         if batter['goals'] != "":
-            data_csv.append([datos["date"], batter['name'], batter['goals']])
-            data_date.append(datos["date"])
-            data_name.append(batter["name"])
-            data_feature.append(batter["goals"])
-            # Verificar si la clave '20230401' existe en el diccionario table
             fecha = datos["date"]
-            nombre_bateador = batter["name"]
+            nombre_bateador = batter["name"] + ' (' + datos["home_team"]["name"] + ')'
             feature = batter["goals"]
+            data_csv.append([fecha, nombre_bateador, feature])
+            # data_date.append(datos["date"])
+            # data_name.append(batter["name"])
+            # data_feature.append(batter["goals"])
+            # Verificar si la clave '20230401' existe en el diccionario table
             if fecha in table:
                 # Verificar si la clave 'nombre_bateador' existe en el diccionario anidado
                 if nombre_bateador in table[fecha]:
@@ -65,13 +65,13 @@ for archivo in archivos_json:
 
     for batter in datos["away_team"]["players"]:
         if batter['goals'] != "":
-            data_csv.append([datos["date"], batter['name'], batter['goals']])
-            data_date.append(datos["date"])
-            data_name.append(batter["name"])
-            data_feature.append(batter["goals"])
             fecha = datos["date"]
-            nombre_bateador = batter["name"]
+            nombre_bateador = batter["name"] + ' (' + datos["away_team"]["name"] + ')'
             feature = batter["goals"]
+            data_csv.append([fecha, nombre_bateador, feature])
+            # data_date.append(datos["date"])
+            # data_name.append(batter["name"])
+            # data_feature.append(batter["goals"])
             if fecha in table:
                 # Verificar si la clave 'nombre_bateador' existe en el diccionario anidado
                 if nombre_bateador in table[fecha]:

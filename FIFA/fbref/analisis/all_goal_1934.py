@@ -23,6 +23,7 @@ extension = '.json'
 file_out = 'all_goal_1934_' + dateInYYYYMMDD_MMSS()
 # Crear la ruta completa del directorio
 ruta = os.path.join(directorio_actual, directory)
+ruta_json = os.path.join(directorio_actual,  '..', directory, 'game', '20231119_2123', 'json')
 ruta_csv = os.path.join(directorio_actual, file_out + '.csv')
 archivos_json = [archivo for archivo in os.listdir(ruta) if archivo.endswith(extension)]
 
@@ -35,21 +36,21 @@ data_feature     = []
 table       = {}
 for archivo in archivos_json:
     print(archivo)
-    ruta_completa = os.path.join(ruta, archivo)  # Obtiene la ruta completa del archivo
+    ruta_completa = os.path.join(ruta_json, archivo)  # Obtiene la ruta completa del archivo
     with open(ruta_completa, 'r', encoding="utf-8") as archivo_json:
         datos = json.load(archivo_json)  # Carga los datos JSON del archivo en un diccionario
 
     # Aquí puedes trabajar con los datos como lo harías con un diccionario de Python
     for batter in datos["home_team"]["players"]:
         if batter['goals'] != "":
-            data_csv.append([datos["date"], batter['name'], batter['goals']])
-            data_date.append(datos["date"])
-            data_name.append(batter["name"])
-            data_feature.append(batter["goals"])
-            # Verificar si la clave '20230401' existe en el diccionario table
             fecha = datos["date"]
-            nombre_bateador = batter["name"]
+            nombre_bateador = batter["name"] + ' (' + datos["home_team"]["name"] + ')'
             feature = batter["goals"]
+            data_csv.append([fecha, nombre_bateador, feature])
+            # data_date.append(datos["date"])
+            # data_name.append(batter["name"])
+            # data_feature.append(batter["goals"])
+            # Verificar si la clave '20230401' existe en el diccionario table
             if fecha in table:
                 # Verificar si la clave 'nombre_bateador' existe en el diccionario anidado
                 if nombre_bateador in table[fecha]:
@@ -64,13 +65,13 @@ for archivo in archivos_json:
 
     for batter in datos["away_team"]["players"]:
         if batter['goals'] != "":
-            data_csv.append([datos["date"], batter['name'], batter['goals']])
-            data_date.append(datos["date"])
-            data_name.append(batter["name"])
-            data_feature.append(batter["goals"])
             fecha = datos["date"]
-            nombre_bateador = batter["name"]
+            nombre_bateador = batter["name"] + ' (' + datos["away_team"]["name"] + ')'
             feature = batter["goals"]
+            data_csv.append([fecha, nombre_bateador, feature])
+            # data_date.append(datos["date"])
+            # data_name.append(batter["name"])
+            # data_feature.append(batter["goals"])
             if fecha in table:
                 # Verificar si la clave 'nombre_bateador' existe en el diccionario anidado
                 if nombre_bateador in table[fecha]:
