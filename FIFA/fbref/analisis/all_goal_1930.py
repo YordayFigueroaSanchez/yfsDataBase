@@ -24,7 +24,7 @@ file_out = 'all_goal_1930_' + dateInYYYYMMDD_MMSS()
 ruta = os.path.join(directorio_actual, directory)
 ruta_json = os.path.join(directorio_actual,  '..', directory, 'game', '20231113_2135', 'json')
 ruta_csv = os.path.join(directorio_actual, file_out + '.csv')
-archivos_json = [archivo for archivo in os.listdir(ruta) if archivo.endswith(extension)]
+archivos_json = [archivo for archivo in os.listdir(ruta_json) if archivo.endswith(extension)]
 # Datos que deseas guardar en el archivo CSV
 data_csv = []
 data_csv.append(["Date", "Name", "Goal"])
