@@ -23,28 +23,20 @@ rutas_especificas = [
     ]
 archivos_json = listar_archivos_json(rutas_especificas)
 
-# Datos que deseas guardar en el archivo CSV
 data_csv, table = data_extract(archivos_json)
-
 # Abre el archivo CSV en modo escritura
 with open(ruta_csv, mode='w', newline='', encoding="utf-8") as archivo_csv:
     escritor_csv = csv.writer(archivo_csv, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     for fila in data_csv:
         escritor_csv.writerow(fila)
 table_acumulador = {}
-
-# print(table)
 # construir una lista con todos los nombre de jugador como key y valor 0
 player_list = {}
-
 for date in table:
     for player in table[date]:
         if player not in player_list:
             player_list[player] = 0
-
 # print(player_list)
-
-
 for date in table:
     for player, value in table[date].items():
         player_list[player] += int(value)
@@ -53,7 +45,6 @@ for date in table:
     # Formatear la fecha en el formato deseado (YYYY-MM-DD)
     formatted_date = date_object.strftime('%Y-%m-%d')
     table_acumulador[formatted_date] = player_list.copy()
-
 # print(table_acumulador)
 otra_clase_recuperada = OtraClase.cargar_desde_archivo('estado_otra_clase.pkl')
 

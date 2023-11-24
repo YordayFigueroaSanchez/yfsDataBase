@@ -29,7 +29,6 @@ with open(ruta_csv, mode='w', newline='', encoding="utf-8") as archivo_csv:
     escritor_csv = csv.writer(archivo_csv, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     for fila in data_csv:
         escritor_csv.writerow(fila)
-# Acumulador para estadísticas
 table_acumulador = {}
 # construir una lista con todos los nombre de jugador como key y valor 0
 player_list = {}
