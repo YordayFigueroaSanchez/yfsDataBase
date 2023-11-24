@@ -1,11 +1,10 @@
 import os
-import json
 import csv
-import pandas as pd
 from datetime import datetime
 from itertools import cycle
 from utils import dateInYYYYMMDD_MMSS
 from utils import listar_archivos_json
+from utils import data_extract
 
 directorio_actual = os.path.abspath(os.path.dirname(__file__))
 extension = '.json'
@@ -17,45 +16,11 @@ rutas_especificas = [
     ]
 archivos_json = listar_archivos_json(rutas_especificas)
 
-# Imprimir la lista de archivos JSON encontrados en ambas rutas
-# print("Archivos JSON en las rutas {}: {}".format(rutas_especificas, archivos_json))
-
 # Crear la ruta completa del directorio
 ruta_csv = os.path.join(directorio_actual, file_out + '.csv')
 
-data_csv = []
-data_csv.append(["Date", "Name", "Goal"])
-table       = {}
-for archivo in archivos_json:
-    print(archivo)
-    with open(archivo, 'r', encoding="utf-8") as archivo_json:
-        datos = json.load(archivo_json)
-    for batter in datos["home_team"]["players"]:
-        if batter['goals'] != "":
-            fecha = datos["date"]
-            nombre_bateador = batter["name"] + ' (' + datos["home_team"]["name"] + ')'
-            feature = batter["goals"]
-            data_csv.append([fecha, nombre_bateador, feature])
-            if fecha in table:
-                if nombre_bateador in table[fecha]:
-                    table[fecha][nombre_bateador] = str(int(table[fecha][nombre_bateador]) + int(feature))
-                else:
-                    table[fecha][nombre_bateador] = feature
-            else:
-                table[fecha] = {nombre_bateador: feature}
-    for batter in datos["away_team"]["players"]:
-        if batter['goals'] != "":
-            fecha = datos["date"]
-            nombre_bateador = batter["name"] + ' (' + datos["away_team"]["name"] + ')'
-            feature = batter["goals"]
-            data_csv.append([fecha, nombre_bateador, feature])
-            if fecha in table:
-                if nombre_bateador in table[fecha]:
-                    table[fecha][nombre_bateador] = str(int(table[fecha][nombre_bateador]) + int(feature))
-                else:
-                    table[fecha][nombre_bateador] = feature
-            else:
-                table[fecha] = {nombre_bateador: feature}
+data_csv, table = data_extract(archivos_json)
+
 with open(ruta_csv, mode='w', newline='', encoding="utf-8") as archivo_csv:
     escritor_csv = csv.writer(archivo_csv, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     for fila in data_csv:
