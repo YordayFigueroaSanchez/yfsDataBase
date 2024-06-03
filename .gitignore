@@ -1,1 +1,10 @@
 chromedriver.exe
+MLB2023/baseball-reference/mlb_2023/*
+FIFA/fbref/__pycache__/*
+chromedriver/*
+.idea/*
+FIFA/fbref/analisis/__pycache__/*
+FIFA/fbref/1938/__pycache__/*
+FIFA/fbref/1938/__pycache__/*
+FIFA/fbref/1934/__pycache__/*
+LICENSE.chromedriver
