@@ -244,7 +244,8 @@ nombre_archivo_schedule_game = fecha_resultante +'_game.txt'
 ruta_archivo_schedule = os.path.join(ruta_schedule, nombre_archivo_schedule)
 ruta_archivo_schedule_game = os.path.join(ruta_schedule, nombre_archivo_schedule_game)
 
-ruta_chrome_driver = 'C:/Users/yfigueroa/Documents/GitHub/yfsDataBase/chromedriver.exe'  # Sustituye por tu ruta real
+# ruta_chrome_driver = 'C:/Users/yfigueroa/Documents/GitHub/yfsDataBase/chromedriver.exe'  # Sustituye por tu ruta real
+ruta_chrome_driver = 'C:/GitHub/yfsDataBase/chromedriver.exe'
 # Crea un objeto Service con la ruta del ejecutable
 servicio_chrome = Service(ruta_chrome_driver)
 # Crea una instancia de Chrome WebDriver utilizando el objeto Service
